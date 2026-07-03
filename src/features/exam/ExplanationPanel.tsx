@@ -57,6 +57,14 @@ type ExplanationPanelProps = {
   theme: AppTheme;
 };
 
+function formatExplanationText(value: string) {
+  return value
+    .replace(/\s+(?=【(?:題幹解析|選項詳解|核心考點)】)/g, "\n\n")
+    .replace(/\s+-\s+([A-D])\.\s*/g, "\n- $1. ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
   const [comparisons, setComparisons] = useState<DiseaseComparisonGroup[]>([]);
 
@@ -106,7 +114,7 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
 
 
   const explanation =
-    question.explanation ||
+    formatExplanationText(question.explanation || "") ||
     "這題尚未匯入詳解。之後可透過 Gemini 手動批次流程產生，並保留人工複查狀態。";
   const keyPoint = question.key_point || "考點提示尚未建立。";
   const summary =
