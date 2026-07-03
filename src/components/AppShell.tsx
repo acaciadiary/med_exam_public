@@ -1067,7 +1067,7 @@ function FloatingSettingsButton({
   return (
     <div
       className={clsx(
-        "mobile-floating-settings fixed right-[4.25rem] z-50 bottom-24 sm:bottom-6 lg:bottom-6 transition-all duration-300 ease-in-out",
+        "mobile-floating-settings fixed right-[4.75rem] z-50 bottom-24 sm:right-[5.25rem] sm:bottom-6 lg:right-[5.25rem] lg:bottom-6 transition-all duration-300 ease-in-out",
         !isVisible && "max-sm:translate-y-18",
       )}
       onBlur={(event) => {
