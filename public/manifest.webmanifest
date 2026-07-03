@@ -31,22 +31,54 @@
     {
       "name": "開始做題",
       "short_name": "做題",
-      "url": ".?page=exam"
+      "url": ".?page=exam",
+      "icons": [
+        {
+          "src": "shortcut-exam-192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
     },
     {
       "name": "錯題本",
       "short_name": "錯題",
-      "url": ".?page=mistakes"
+      "url": ".?page=mistakes",
+      "icons": [
+        {
+          "src": "shortcut-mistakes-192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
     },
     {
       "name": "收藏題目",
       "short_name": "收藏",
-      "url": ".?page=favorites"
+      "url": ".?page=favorites",
+      "icons": [
+        {
+          "src": "shortcut-favorites-192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
     },
     {
       "name": "便利貼",
       "short_name": "筆記",
-      "url": ".?page=notes"
+      "url": ".?page=notes",
+      "icons": [
+        {
+          "src": "shortcut-notes-192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
     }
   ]
 }

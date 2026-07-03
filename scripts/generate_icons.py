@@ -96,6 +96,70 @@ def generate_icon(size):
     output_img = final_img.resize((size, size), Image.Resampling.LANCZOS)
     return output_img
 
+def draw_centered_text(draw, text, box, fill, font_size):
+    try:
+        from PIL import ImageFont
+        font = ImageFont.truetype("arial.ttf", font_size)
+    except Exception:
+        from PIL import ImageFont
+        font = ImageFont.load_default()
+
+    bbox = draw.textbbox((0, 0), text, font=font)
+    text_w = bbox[2] - bbox[0]
+    text_h = bbox[3] - bbox[1]
+    x = box[0] + (box[2] - box[0] - text_w) / 2 - bbox[0]
+    y = box[1] + (box[3] - box[1] - text_h) / 2 - bbox[1]
+    draw.text((x, y), text, fill=fill, font=font)
+
+def generate_shortcut_icon(kind, size=192):
+    scale = 4
+    render_size = size * scale
+    s = scale
+    img = Image.new("RGBA", (render_size, render_size), ImageColor.getrgb("#FCF6F0") + (255,))
+    draw = ImageDraw.Draw(img)
+
+    bg = {
+        "exam": "#F6D4B8",
+        "mistakes": "#F5C9D2",
+        "favorites": "#CFE3D9",
+        "notes": "#F3E2A8",
+    }[kind]
+    stroke = ImageColor.getrgb("#52433D") + (255,)
+    accent = ImageColor.getrgb(bg) + (255,)
+    white = ImageColor.getrgb("#FFFDF9") + (255,)
+
+    draw.rounded_rectangle([22*s, 22*s, 170*s, 170*s], radius=42*s, fill=accent)
+    draw.rounded_rectangle([42*s, 38*s, 150*s, 154*s], radius=18*s, fill=white)
+    draw.rounded_rectangle([42*s, 38*s, 150*s, 154*s], radius=18*s, outline=stroke, width=7*s)
+
+    if kind == "exam":
+        draw.line([(66*s, 74*s), (88*s, 96*s), (126*s, 58*s)], fill=stroke, width=11*s, joint="curve")
+        for y in (116, 134):
+            draw.line([(68*s, y*s), (124*s, y*s)], fill=stroke, width=7*s)
+    elif kind == "mistakes":
+        draw.ellipse([61*s, 55*s, 131*s, 125*s], outline=stroke, width=8*s)
+        draw.line([(76*s, 70*s), (116*s, 110*s)], fill=stroke, width=9*s)
+        draw.line([(116*s, 70*s), (76*s, 110*s)], fill=stroke, width=9*s)
+    elif kind == "favorites":
+        points = [
+            (96*s, 56*s), (107*s, 80*s), (133*s, 83*s), (114*s, 101*s),
+            (119*s, 128*s), (96*s, 114*s), (73*s, 128*s), (78*s, 101*s),
+            (59*s, 83*s), (85*s, 80*s),
+        ]
+        draw.polygon(points, fill=accent, outline=stroke)
+        draw.line(points + [points[0]], fill=stroke, width=7*s, joint="curve")
+    elif kind == "notes":
+        for y in (70, 92, 114):
+            draw.line([(68*s, y*s), (124*s, y*s)], fill=stroke, width=7*s)
+        draw.polygon([(116*s, 154*s), (150*s, 120*s), (150*s, 154*s)], fill="#E7C45F", outline=stroke)
+
+    mask = Image.new("L", (render_size, render_size), 0)
+    mask_draw = ImageDraw.Draw(mask)
+    mask_draw.rounded_rectangle([0, 0, render_size, render_size], radius=42 * scale, fill=255)
+    final_img = Image.new("RGBA", (render_size, render_size), (0, 0, 0, 0))
+    final_img.paste(img, (0, 0), mask=mask)
+    return final_img.resize((size, size), Image.Resampling.LANCZOS)
+
 if __name__ == "__main__":
     public_dir = "public"
     
@@ -106,5 +170,15 @@ if __name__ == "__main__":
     print("Generating pwa-icon-512.png...")
     img_512 = generate_icon(512)
     img_512.save(os.path.join(public_dir, "pwa-icon-512.png"), "PNG")
+
+    shortcut_icons = {
+        "exam": "shortcut-exam-192.png",
+        "mistakes": "shortcut-mistakes-192.png",
+        "favorites": "shortcut-favorites-192.png",
+        "notes": "shortcut-notes-192.png",
+    }
+    for kind, filename in shortcut_icons.items():
+        print(f"Generating {filename}...")
+        generate_shortcut_icon(kind, 192).save(os.path.join(public_dir, filename), "PNG")
     
     print("PWA Icons generated successfully!")
