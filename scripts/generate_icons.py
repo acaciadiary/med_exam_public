@@ -160,15 +160,20 @@ def generate_shortcut_icon(kind, size=192):
     final_img.paste(img, (0, 0), mask=mask)
     return final_img.resize((size, size), Image.Resampling.LANCZOS)
 
+def generate_app_icon_from_source(public_dir, size):
+    source_path = os.path.join(public_dir, "pwa-icon-source.png")
+    source = Image.open(source_path).convert("RGBA")
+    return source.resize((size, size), Image.Resampling.LANCZOS)
+
 if __name__ == "__main__":
     public_dir = "public"
     
     print("Generating pwa-icon-192.png...")
-    img_192 = generate_icon(192)
+    img_192 = generate_app_icon_from_source(public_dir, 192)
     img_192.save(os.path.join(public_dir, "pwa-icon-192.png"), "PNG")
     
     print("Generating pwa-icon-512.png...")
-    img_512 = generate_icon(512)
+    img_512 = generate_app_icon_from_source(public_dir, 512)
     img_512.save(os.path.join(public_dir, "pwa-icon-512.png"), "PNG")
 
     shortcut_icons = {
