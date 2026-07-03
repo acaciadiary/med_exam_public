@@ -1,0 +1,464 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+  font-family: "Iansui";
+  src: url("https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/fonts/ttf/Iansui-Regular.ttf")
+    format("truetype");
+  font-display: swap;
+}
+
+:root {
+  font-family:
+    Inter, "Noto Sans TC", ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei",
+    sans-serif;
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root.dark {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #fff8f4;
+  overflow-x: hidden;
+}
+
+button,
+select {
+  font: inherit;
+}
+
+::selection {
+  background: rgb(246 169 198 / 0.38);
+}
+
+.study-journal {
+  isolation: isolate;
+}
+
+.font-hand {
+  font-family:
+    "Iansui", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.font-reading {
+  font-family:
+    "Noto Sans TC", Inter, ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei",
+    sans-serif;
+}
+
+.journal-paper {
+  background-image:
+    linear-gradient(rgba(180, 137, 118, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(180, 137, 118, 0.06) 1px, transparent 1px),
+    radial-gradient(circle at 18% 22%, rgba(255, 222, 235, 0.55), transparent 24rem),
+    radial-gradient(circle at 88% 18%, rgba(204, 238, 225, 0.58), transparent 22rem),
+    radial-gradient(circle at 62% 82%, rgba(205, 226, 255, 0.5), transparent 24rem);
+  background-size:
+    34px 34px,
+    34px 34px,
+    auto,
+    auto,
+    auto;
+}
+
+.theme-dark .journal-paper {
+  background-color: #15121a;
+  background-image:
+    linear-gradient(rgba(255, 223, 236, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(190, 224, 215, 0.03) 1px, transparent 1px),
+    radial-gradient(circle at 18% 22%, rgba(143, 85, 117, 0.16), transparent 24rem),
+    radial-gradient(circle at 88% 18%, rgba(70, 128, 110, 0.14), transparent 22rem),
+    radial-gradient(circle at 62% 82%, rgba(86, 113, 166, 0.13), transparent 24rem),
+    linear-gradient(135deg, rgba(18, 16, 23, 0.92), rgba(32, 25, 36, 0.9));
+}
+
+.theme-dark [class*="bg-white"] {
+  background-color: rgb(43 36 48 / 0.78) !important;
+}
+
+.theme-dark [class*="border-white"] {
+  border-color: rgb(255 255 255 / 0.12) !important;
+}
+
+.theme-dark h1,
+.theme-dark h2 {
+  color: #f8edf3 !important;
+}
+
+.theme-dark p,
+.theme-dark a {
+  color: #dccbd3;
+}
+
+.theme-dark .journal-title {
+  color: #f7e7ee !important;
+}
+
+.theme-dark .journal-title span {
+  color: #f3a6c4 !important;
+}
+
+.theme-dark aside {
+  background-color: rgb(43 36 48 / 0.84) !important;
+  border-color: rgb(255 255 255 / 0.12) !important;
+}
+
+.theme-dark article {
+  background-color: rgb(43 36 48 / 0.82) !important;
+  border-color: rgb(255 255 255 / 0.14) !important;
+}
+
+.theme-clinical .journal-paper {
+  background-image:
+    linear-gradient(rgba(39, 86, 125, 0.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(39, 86, 125, 0.045) 1px, transparent 1px),
+    radial-gradient(circle at 18% 22%, rgba(218, 237, 249, 0.62), transparent 24rem),
+    radial-gradient(circle at 88% 18%, rgba(218, 242, 234, 0.52), transparent 22rem),
+    radial-gradient(circle at 62% 82%, rgba(232, 238, 247, 0.66), transparent 24rem);
+}
+
+.theme-clinical [class*="bg-white"] {
+  background-color: rgb(255 255 255 / 0.86) !important;
+}
+
+.theme-clinical [class*="border-white"] {
+  border-color: rgb(163 190 210 / 0.45) !important;
+}
+
+.theme-clinical h1,
+.theme-clinical h2,
+.theme-clinical h3 {
+  color: #20384f !important;
+}
+
+.theme-clinical p,
+.theme-clinical a,
+.theme-clinical span {
+  color: inherit;
+}
+
+.theme-clinical .font-hand {
+  letter-spacing: 0.01em;
+}
+
+.theme-clinical .theme-control button[aria-label*="專業藍"] {
+  background: #dbeafe !important;
+  color: #1f4e79 !important;
+}
+
+.theme-clinical button:hover {
+  border-color: rgb(84 139 181 / 0.55);
+}
+
+.theme-dark textarea {
+  background-color: rgb(32 27 37 / 0.82) !important;
+  border-color: rgb(255 255 255 / 0.14) !important;
+  color: #f8edf3 !important;
+}
+
+.theme-dark input,
+.theme-dark select {
+  background-color: rgb(32 27 37 / 0.82) !important;
+  border-color: rgb(255 255 255 / 0.14) !important;
+  color: #f8edf3 !important;
+}
+
+.theme-dark input::placeholder,
+.theme-dark textarea::placeholder {
+  color: #a2949e !important;
+}
+
+.theme-dark [class*="bg-[#fff8f4"],
+.theme-dark [class*="bg-[#fff8fb"],
+.theme-dark [class*="bg-[#fff9e8"],
+.theme-dark [class*="bg-[#fffaf7"],
+.theme-dark [class*="bg-[#fffae8"],
+.theme-dark [class*="bg-[#fffbf9"],
+.theme-dark [class*="bg-[#fffdf5"],
+.theme-dark [class*="bg-[#fffcf0"],
+.theme-dark [class*="bg-[#fffcf2"],
+.theme-dark [class*="bg-[#fff8df"],
+.theme-dark [class*="bg-[#fbf7f9"],
+.theme-dark [class*="bg-[#fcf9fa"] {
+  background-color: rgb(43 36 48 / 0.9) !important;
+}
+
+.theme-dark [class*="bg-[#fff0f3"],
+.theme-dark [class*="bg-[#fff0f6"],
+.theme-dark [class*="bg-[#fff1f6"],
+.theme-dark [class*="bg-[#fff3f8"],
+.theme-dark [class*="bg-[#fdf0f4"],
+.theme-dark [class*="bg-[#fdf3f5"],
+.theme-dark [class*="bg-[#fdfafb"],
+.theme-dark [class*="bg-[#fbdde8"],
+.theme-dark [class*="bg-[#ffe4e6"],
+.theme-dark [class*="bg-[#f8eee8"],
+.theme-dark [class*="bg-[#f8eae3"],
+.theme-dark [class*="bg-[#ffddea"] {
+  background-color: rgb(74 44 58 / 0.92) !important;
+}
+
+.theme-dark [class*="bg-amber-50"] {
+  background-color: rgb(74 58 28 / 0.92) !important;
+}
+
+.theme-dark [class*="bg-[#e7f6ef"],
+.theme-dark [class*="bg-[#e9f6f1"],
+.theme-dark [class*="bg-[#effaf5"] {
+  background-color: rgb(24 55 46 / 0.9) !important;
+}
+
+.theme-dark [class*="bg-[#b8e2d4"],
+.theme-dark [class*="bg-[#e8f4ee"],
+.theme-dark [class*="bg-[#d5ebe1"] {
+  background-color: rgb(47 95 82 / 0.92) !important;
+  color: #d7f7ec !important;
+}
+
+.theme-dark [class*="border-[#efd9d0"],
+.theme-dark [class*="border-[#e6d6c9"],
+.theme-dark [class*="border-[#f0ded6"],
+.theme-dark [class*="border-[#eacfc4"],
+.theme-dark [class*="border-[#f2d7a9"],
+.theme-dark [class*="border-[#fceeac"],
+.theme-dark [class*="border-[#f9ccd6"],
+.theme-dark [class*="border-[#ebdbe2"],
+.theme-dark [class*="border-[#e0ccd5"],
+.theme-dark [class*="border-[#c5a6b4"],
+.theme-dark [class*="border-[#d8eadf"],
+.theme-dark [class*="border-amber-200"] {
+  border-color: rgb(255 255 255 / 0.14) !important;
+}
+
+.theme-dark [class*="text-[#3f342d"],
+.theme-dark [class*="text-[#4b3b35"],
+.theme-dark [class*="text-[#5b4841"] {
+  color: #f8edf3 !important;
+}
+
+.theme-dark [class*="text-[#604b43"],
+.theme-dark [class*="text-[#6f5b50"],
+.theme-dark [class*="text-[#725b52"],
+.theme-dark [class*="text-[#7d6259"],
+.theme-dark [class*="text-[#806b60"] {
+  color: #dccbd3 !important;
+}
+
+.theme-dark [class*="text-[#8a7066"],
+.theme-dark [class*="text-[#9c7b70"],
+.theme-dark [class*="text-[#a68e98"],
+.theme-dark [class*="text-[#aa8a7d"],
+.theme-dark [class*="text-[#b2a18d"] {
+  color: #cbb8c2 !important;
+}
+
+.theme-dark [class*="text-[#9a496b"],
+.theme-dark [class*="text-[#b36a84"],
+.theme-dark [class*="text-[#b8527a"],
+.theme-dark [class*="text-[#c4869b"] {
+  color: #f3a6c4 !important;
+}
+
+.theme-dark [class*="text-[#4c806e"],
+.theme-dark [class*="text-[#355249"] {
+  color: #b8efd9 !important;
+}
+
+.theme-dark [class*="text-[#725e3c"],
+.theme-dark [class*="text-[#7a6040"],
+.theme-dark [class*="text-[#87693d"],
+.theme-dark [class*="text-[#9d7b58"],
+.theme-dark [class*="text-[#8c6b23"],
+.theme-dark [class*="text-[#9e7a28"],
+.theme-dark [class*="text-amber-800"] {
+  color: #f1d58b !important;
+}
+
+.theme-dark [class*="text-[#865466"],
+.theme-dark [class*="text-[#9c3e5e"],
+.theme-dark [class*="text-red-600"] {
+  color: #ffc4d4 !important;
+}
+
+.journal-title {
+  font-family:
+    Georgia, "Times New Roman", "Noto Serif TC", "Songti TC", serif;
+  letter-spacing: -0.04em;
+}
+
+.horizontal-drag-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  cursor: grab;
+  touch-action: pan-x;
+  user-select: none;
+  -webkit-user-select: none;
+  mask-image: linear-gradient(
+    to right,
+    transparent 0,
+    black 1rem,
+    black calc(100% - 1rem),
+    transparent 100%
+  );
+}
+
+.horizontal-drag-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.horizontal-drag-scroll[data-dragging="true"] {
+  cursor: grabbing;
+}
+
+.horizontal-drag-scroll > * {
+  user-select: none;
+}
+
+.flashcard-shell {
+  max-width: 100%;
+}
+
+.flashcard-face {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  hyphens: auto;
+}
+
+.flashcard-face h3,
+.flashcard-face p {
+  max-width: 100%;
+}
+
+.reading-bold .question-card-item h2,
+.reading-bold .question-card-item button > span:last-child,
+.reading-bold .question-card-item p:not([class*="tracking"]),
+.reading-bold .flashcard-face h3,
+.reading-bold .flashcard-face p:not([class*="tracking"]),
+.reading-bold main [class*="leading-7"],
+.reading-bold main [class*="leading-8"],
+.reading-bold main [class*="leading-9"] {
+  font-weight: 700 !important;
+}
+
+@media (max-width: 640px) {
+  .flashcard-face {
+    padding: 1.25rem;
+  }
+
+  .flashcard-face h3,
+  .flashcard-face > p:not(:first-child) {
+    font-size: 1.15rem;
+    line-height: 1.75;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.question-card-item {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 240px;
+}
+
+/* Highlighter Styles */
+.highlight-text {
+  background: linear-gradient(100deg, rgba(254, 240, 138, 0.6) 0%, rgba(254, 240, 138, 0.4) 100%);
+  border-radius: 4px;
+  padding: 0px 4px;
+  font-weight: 600;
+  color: #7c2d12;
+}
+
+.theme-clinical .highlight-text {
+  background: linear-gradient(100deg, rgba(191, 219, 254, 0.7) 0%, rgba(191, 219, 254, 0.4) 100%);
+  color: #1e3a8a;
+}
+
+.theme-dark .highlight-text {
+  background: linear-gradient(100deg, rgba(147, 51, 234, 0.4) 0%, rgba(147, 51, 234, 0.2) 100%);
+  color: #f3e8ff;
+}
+
+.theme-dark .instant-kill-card {
+  background: linear-gradient(135deg, rgba(45, 36, 51, 0.96), rgba(35, 30, 42, 0.98)) !important;
+  border-color: rgba(243, 166, 196, 0.28) !important;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.24);
+}
+
+.theme-dark .instant-kill-card:hover {
+  background: linear-gradient(135deg, rgba(58, 45, 64, 0.98), rgba(43, 36, 48, 0.98)) !important;
+  border-color: rgba(243, 166, 196, 0.46) !important;
+}
+
+.theme-dark .instant-kill-number {
+  background: rgba(16, 13, 20, 0.62) !important;
+  border-color: rgba(243, 166, 196, 0.18) !important;
+}
+
+.theme-dark .instant-kill-chip {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  color: #cbb8c2 !important;
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(180, 137, 118, 0.25);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(180, 137, 118, 0.45);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.theme-clinical ::-webkit-scrollbar-thumb {
+  background: rgba(39, 86, 125, 0.15);
+}
+
+.theme-clinical ::-webkit-scrollbar-thumb:hover {
+  background: rgba(39, 86, 125, 0.3);
+}

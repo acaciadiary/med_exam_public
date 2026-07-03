@@ -1,0 +1,2910 @@
+{
+  "id": "115-1_medicine-2",
+  "year": "115-1",
+  "title": "115-1 年第一次醫師國考：醫學（二）",
+  "subject": "medicine-2",
+  "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=301&code=115020&q=1&s=0102&t=Q",
+  "updated_at": "2026-06-30T14:05:39.265Z",
+  "questions": [
+    {
+      "id": "115-1_medicine-2_001",
+      "question_number": 1,
+      "question_text": "有關胺基醣苷類(aminoglycosides)抗生素之敘述,下列何者最不適當?",
+      "options": {
+        "A": "此類抗生素可抑制細菌蛋白質生合成,進而達到殺菌或抑制細菌生長之作用",
+        "B": "降低抗生素進入細菌內可能會導致細菌對此類抗生素出現抗藥性",
+        "C": "此類抗生素需在厭氧環境下,方可穿過細胞膜,因此厭氧菌對此類抗生素具有感受性(susceptible)",
+        "D": "卡納黴素(kanamycin)與阿米卡星(amikacin)為此類常見抗生素"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題詢問胺基醣苷類（aminoglycosides）抗生素的相關敘述，何者最不適當。解題關鍵在於理解胺基醣苷類抗生素的機轉、抗藥性機制、抗菌範圍（特別是需氧菌與厭氧菌的差異）以及常見的藥物種類。\n\n【選項詳解】\n- A. 正確。胺基醣苷類抗生素主要藉由結合至細菌核糖體的 30S 次單元，干擾密碼子讀取，導致蛋白質合成受阻或產生異常蛋白質。雖然多數蛋白質合成抑制劑為抑菌劑（bacteriostatic），但胺基醣苷類通常具殺菌作用（bactericidal）。\n- B. 正確。抗生素必須進入細菌內部才能與核糖體作用。若細菌降低外膜通透性或減少相關轉運蛋白，使得進入細胞內的抗生素濃度降低，便會引發抗藥性。\n- C. 錯誤。胺基醣苷類跨越細菌內膜的過程需要氧氣依賴性的電子傳遞鏈（Oxygen-dependent active transport）來提供能量。因此，在厭氧環境下此類抗生素無法穿過細胞膜，這也是厭氧菌（anaerobes）對胺基醣苷類具有天然抗藥性（intrinsic resistance）而非感受性的原因。\n- D. 正確。Kanamycin（卡納黴素）與 Amikacin（阿米卡星）皆屬於常見的胺基醣苷類抗生素。\n\n【核心考點】\n胺基醣苷類抗生素的作用機制（結合 30S 核糖體）、轉運機制（需氧氣依賴型主動運輸）與抗菌範圍（對厭氧菌天然耐藥）。",
+      "flashcard_summary": "胺基醣苷類攝入 -> 需氧氣依賴性主動運輸，對厭氧菌無效",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "胺基醣苷類抗生素進入細菌細胞需靠氧氣依賴型的主動運輸，故對厭氧菌天然耐藥。",
+      "flashcard_front": "胺基醣苷類、Aminoglycosides、厭氧菌、攝入機制",
+      "flashcard_back": "胺基醣苷類跨膜轉運需氧氣依賴型主動運輸，故厭氧菌具有天然抗藥性。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_002",
+      "question_number": 2,
+      "question_text": "磺胺類藥物(sulfonamides)可抑制細菌所需葉酸(folic acid)之合成,因此具有抑菌或殺菌作用,但對哺\n乳類動物細胞不具有顯著毒性的最主要原因為何?",
+      "options": {
+        "A": "哺乳類動物細胞合成葉酸之相關酵素與磺胺類藥物親合力低,較不受影響",
+        "B": "哺乳類動物細胞不自行合成葉酸,因此不受磺胺類藥物影響",
+        "C": "在使用磺胺類藥物的情況下,哺乳類動物細胞可合成類似葉酸之衍生物作為替代",
+        "D": "葉酸並不會被哺乳類動物細胞所利用"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題探討磺胺類藥物（sulfonamides）的選擇性毒性（selective toxicity）機制。磺胺類藥物可抑制細菌的葉酸合成，但對人體等哺乳類動物毒性極低，需從兩者在葉酸獲取途徑上的根本差異來分析。\n\n【選項詳解】\n- A. 錯誤。哺乳類動物細胞根本沒有合成葉酸所需的二氫葉酸合成酶（dihydropteroate synthase, DHPS），並非因為酵素親合力低。\n- B. 正確。細菌必須從頭合成（de novo synthesis）二氫葉酸，而磺胺類藥物是 PABA（對胺基苯甲酸）的結構類似物，會競爭性抑制二氫葉酸合成酶。相反地，哺乳類動物細胞缺乏此合成途徑，無法自行合成葉酸，必須直接利用外源性葉酸（從食物中攝取並透過主動運輸進入細胞），因此不受磺胺類藥物的影響。\n- C. 錯誤。哺乳類細胞並不需要、也無法合成類似的替代物，而是直接利用現成葉酸。\n- D. 錯誤。葉酸對哺乳類動物細胞是絕對必需的，它是合成 DNA/RNA 和部分胺基酸的重要輔酵素（如參與單碳轉移反應）。\n\n【核心考點】\n磺胺類藥物的作用機轉（競爭性抑制二氫葉酸合成酶 DHPS）以及其對哺乳類與細菌的選擇性毒性差異（哺乳類需外源性葉酸，細菌需 de novo 合成）。",
+      "flashcard_summary": "磺胺類選擇性毒性 -> 哺乳類直接攝取葉酸，無葉酸合成途徑",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "哺乳類細胞缺乏合成葉酸的途徑（直接利用外源性葉酸），故不受磺胺類藥物影響。",
+      "flashcard_front": "磺胺類藥物、Sulfonamides、葉酸合成、選擇性毒性、哺乳類",
+      "flashcard_back": "哺乳類細胞無葉酸合成途徑（直接利用外源性葉酸），因此不受抑制葉酸合成的磺胺類藥物影響。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_003",
+      "question_number": 3,
+      "question_text": "關於細菌莢膜(capsule)的敘述,下列何者最不適當?",
+      "options": {
+        "A": "莢膜對細菌的生長是絕對必要的結構",
+        "B": "炭疽桿菌(Bacillus anthracis)產生多肽莢膜(polypeptide capsule)",
+        "C": "莢膜具有抵抗免疫細胞吞噬作用(phagocytosis)的能力",
+        "D": "莢膜能促進細菌與其他細菌或宿主組織表面的黏附作用"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問細菌莢膜（capsule）的生理功能與特點。莢膜是位於細胞壁外側的一層黏液狀物質，主要由多醣體組成，少數由多肽組成。解題關鍵在於了解莢膜對細菌生存、致病性、結構必要性及特殊菌種的莢膜成分。\n\n【選項詳解】\n- A. 錯誤。莢膜雖然是極為重要的毒力因子（virulence factor），但它並非細菌生長或存活的「絕對必要結構」（non-essential structure）。即使在實驗室中藉由突變或酵素去除莢膜，細菌在合適的培養基中依然能正常分裂與生長。\n- B. 正確。絕大多數細菌的莢膜主要成分是多醣體（polysaccharide），但炭疽桿菌（Bacillus anthracis）是著名的例外，其莢膜由聚麩胺酸（poly-D-glutamic acid，即多肽 polypeptide）所構成。\n- C. 正確。莢膜帶負電荷且具有滑溜的物理特性，能掩蓋細菌表面的抗原辨識位點，顯著抵抗宿主免疫細胞（如巨噬細胞、嗜中性球）的吞噬作用。\n- D. 正確。莢膜與黏液層（slime layer）等糖萼（glycocalyx）結構，有助於細菌附著在宿主黏膜、組織表面或醫療器材（如導尿管）上，並參與生物薄膜（biofilm）的形成。\n\n【核心考點】\n細菌莢膜的功能（抗吞噬、附著）、非必要結構的本質，以及特殊菌種（如炭疽桿菌的多肽莢膜）的化學組成。",
+      "flashcard_summary": "莢膜功能 -> 抗吞噬與黏附，非生長必需；炭疽桿菌為多肽莢膜",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "細菌莢膜是重要的毒力因子，但非細菌生長所必需的絕對結構。",
+      "flashcard_front": "細菌莢膜、Capsule、炭疽桿菌、抗吞噬、必要結構",
+      "flashcard_back": "莢膜是抗吞噬及黏附的毒力因子，但非生存必需；炭疽桿菌是唯一具多肽（聚麩胺酸）莢膜的細菌。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_004",
+      "question_number": 4,
+      "question_text": "若先天 interferon-γ受體基因缺陷的病人感染結核分枝桿菌,最可能導致下列何種結果?",
+      "options": {
+        "A": "病人將在沒有症狀的情況下清除結核分枝桿菌的感染",
+        "B": "病人將產生更強的免疫反應,並降低活動性結核病的風險",
+        "C": "病人罹患播散性結核病的風險將增加",
+        "D": "病人將具有完全抵抗結核分枝桿菌感染的免疫力"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題詢問先天性干擾素-γ（interferon-gamma, IFN-γ）受體缺陷對結核分枝桿菌（Mycobacterium tuberculosis）感染的影響。結核分枝桿菌為胞內寄生菌，清除或控制它主要依賴以 Th1 輔助 T 細胞為首的細胞介導免疫（cell-mediated immunity）。Th1 細胞分泌的 IFN-γ 會活化巨噬細胞，誘發肉芽腫形成及吞噬體-溶酶體融合以殺死菌體。\n\n【選項詳解】\n- A. 錯誤。由於巨噬細胞無法被 IFN-γ 活化，病人無法清除感染，反而會造成嚴重的活動性感染。\n- B. 錯誤。病人因受體缺陷無法產生有效的下游細胞免疫反應，免疫力極度受損，而非產生更強反應，這會顯著「增加」而非降低活動性結核病的風險。\n- C. 正確。IFN-γ 受體缺陷導致巨噬細胞無法被有效活化，使結核桿菌在體內大量繁殖並隨血液或淋巴液擴散，顯著增加罹患嚴重播散性結核病（disseminated tuberculosis）或非典型分枝桿菌感染的風險。\n- D. 錯誤。病人對分枝桿菌的抵抗力極低，無法產生完全抵抗力。\n\n【核心考點】\n細胞介導免疫在結核病中的作用、IFN-γ 與 IL-12 軸（IL-12/IFN-γ axis）對活化巨噬細胞的重要性。",
+      "flashcard_summary": "IFN-γ受體缺陷 -> 巨噬細胞無法活化，罹患播散性結核風險大增",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "IFN-γ 受體缺陷會導致巨噬細胞無法被活化，無法控制結核分枝桿菌的胞內感染，易引起播散性結核病。",
+      "flashcard_front": "IFN-γ受體缺陷、結核分枝桿菌、巨噬細胞活化、胞內菌、播散性結核",
+      "flashcard_back": "IFN-γ負責活化巨噬細胞以消滅胞內結核菌，其受體缺陷會導致細胞免疫失敗，引發播散性感染。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_005",
+      "question_number": 5,
+      "question_text": "關於廣泛抗藥性結核(extensively drug-resistant tuberculosis, XDR TB)的敘述,下列何者最適當?",
+      "options": {
+        "A": "XDR TB 是一種多重抗藥性結核病(multidrug-resistant tuberculosis),同時對氟喹諾酮類藥物\n(fluoroquinolones)和至少一種二線藥物具有額外的抗藥性",
+        "B": "XDR TB 只發生在 AIDS 患者身上,尚非全球性的問題",
+        "C": "XDR TB 感染者目前無抗生素可治療,因此只能隔離",
+        "D": "XDR TB 接觸者,應給與預防性抗生素治療"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題考查廣泛抗藥性結核病（XDR-TB）的定義與基本醫學常識。隨著結核病藥物的使用，抗藥性菌株不斷增加，WHO 對於 MDR-TB（多重抗藥性）與 XDR-TB（廣泛抗藥性）有嚴格的定義。\n\n【選項詳解】\n- A. 正確。根據定義，XDR-TB 必須先符合多重抗藥性結核（MDR-TB）的標準（即同時對最有效的兩種一線藥物 Isoniazid 異煙肼 與 Rifampicin 利福平 具抗藥性），且額外對任何一種氟喹諾酮類（fluoroquinolones）以及至少一種二線注射劑（如 amikacin、capreomycin、kanamycin）或新一代二線藥物（如 bedaquiline、linezolid）產生抗藥性。\n- B. 錯誤。XDR-TB 可發生在任何結核病患者身上（特別是遵醫囑性差或治療不當者），並非僅限於 AIDS 患者，且已經是全球性的公共衛生嚴重問題。\n- C. 錯誤。雖然治療極為困難且成功率較低，但並非完全無藥可醫。臨床上仍可根據藥敏試驗嘗試使用其他三線藥物、新藥（如 bedaquiline、delamanid）或延長療程來治療，並非只能隔離。\n- D. 錯誤。對於 XDR-TB 的密切接觸者，目前並無標準且證實絕對有效的預防性抗生素療法。通常應進行嚴密臨床監測，一旦出現症狀即刻進行檢查與針對性治療。\n\n【核心考點】\n多重抗藥性結核（MDR-TB）與廣泛抗藥性結核（XDR-TB）的臨床定義與抗藥藥物種類。",
+      "flashcard_summary": "XDR-TB定義 -> MDR-TB 基礎上 + 氟喹諾酮 + 至少一種二線藥物抗藥",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "XDR-TB 的定義為對一線藥物（INH、RIF）具多重抗藥性（MDR-TB），並額外對氟喹諾酮及至少一種二線藥物產生抗藥性。",
+      "flashcard_front": "XDR-TB、定義、MDR-TB、一線藥物、二線藥物、氟喹諾酮",
+      "flashcard_back": "XDR-TB 定義為對 INH + RIF 具抗藥性（MDR-TB），且對任何 Fluoroquinolone 及至少一種二線注射型/其他二線藥物具抗藥性。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_006",
+      "question_number": 6,
+      "question_text": "患者性行為數週後,腹股溝淋巴結疼痛腫大並於皮膚表面形成瘻管,最可能是受到下列何種微生物的感染?",
+      "options": {
+        "A": "奈瑟氏淋病菌(Neisseria gonorrhoeae)",
+        "B": "砂眼披衣菌(Chlamydia trachomatis)",
+        "C": "肉芽腫克雷伯氏菌(Klebsiella granulomatis)",
+        "D": "杜克氏嗜血桿菌(Haemophilus ducreyi)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題描述一名患者在性行為數週後，出現腹股溝淋巴結疼痛腫大，並於皮膚表面形成瘻管。這是典型的性病淋巴肉芽腫（Lymphogranuloma venereum, LGV）之臨床表現，需鑑別診斷引起此類腹股溝淋巴結病變的性傳染病病原體。\n\n【選項詳解】\n- A. 錯誤。奈瑟氏淋病菌主要引起尿道炎、子宮頸炎及盆腔炎，常伴隨膿性分泌物，但不會典型地引起腹股溝淋巴結腫大並破潰成瘻管。\n- B. 正確。性病淋巴肉芽腫（LGV）是由砂眼披衣菌（Chlamydia trachomatis）的 L1、L2、L3 血清型所引起。病程可分為三期：初期為生殖器上短暫無痛的小潰瘍或丘疹；數週後進入第二期，出現腹股溝淋巴結劇烈疼痛與腫大（稱為溝槽徵/groove sign），並可能破裂形成瘻管（fistula/sinus tracts）排出膿液。\n- C. 錯誤。肉芽腫克雷伯氏菌（Klebsiella granulomatis）是腹股溝肉芽腫（Granuloma inguinale 或 Donovanosis）的病原體，主要表現為無痛性、易出血的紅色肉芽腫潰瘍（牛肉紅樣），但淋巴結本身通常不腫大，而是形成假性橫痃（pseudobuboes）。\n- D. 錯誤。杜克氏嗜血桿菌（Haemophilus ducreyi）引起軟性下疳（chancroid），其特徵為劇烈疼痛的生殖器潰瘍，並常伴有單側腹股溝淋巴結化膿腫大（橫痃 bubo），但較少在數週後以典型多發性瘻管為主要慢性表現。\n\n【核心考點】\n砂眼披衣菌 L1-L3 血清型引起的性病淋巴肉芽腫（LGV）之典型臨床分期與特徵（腹股溝淋巴結炎、化膿、瘻管形成）。",
+      "flashcard_summary": "腹股溝淋巴結腫痛與瘻管 -> 砂眼披衣菌 L1-L3 (LGV)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "砂眼披衣菌 L1-L3 血清型引起性病淋巴肉芽腫（LGV），特徵為腹股溝淋巴結腫大、疼痛且可形成瘻管。",
+      "flashcard_front": "性行為後、腹股溝淋巴結痛、瘻管、溝槽徵、砂眼披衣菌",
+      "flashcard_back": "砂眼披衣菌 L1-L3 血清型引起性病淋巴肉芽腫（LGV），典型症狀為腹股溝淋巴結化膿性腫大並形成瘻管。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_007",
+      "question_number": 7,
+      "question_text": "孕婦感染下列何種細菌可引起類流感症狀,並最可能導致流產或新生兒疾病?",
+      "options": {
+        "A": "化膿性鏈球菌(Streptococcus pyogenes)",
+        "B": "紅斑丹毒絲菌(Erysipelothrix rhusiopathiae)",
+        "C": "單核細胞增生性李斯特菌(Listeria monocytogenes)",
+        "D": "流行性嗜血桿菌(Haemophilus influenzae)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題詢問孕婦感染何種細菌會引發輕微類流感症狀，且極易引發流產或新生兒疾病。李斯特菌是一種兼性胞內寄生革蘭氏陽性桿菌，具有耐低溫特性（可在冰箱 4°C 中生長），主要通過受污染的食物（如未巴氏消毒的乳製品、熟食肉類）傳播，對孕婦、新生兒及免疫低下者有高度致病性。\n\n【選項詳解】\n- A. 錯誤。化膿性鏈球菌主要引起咽喉炎、猩紅熱、蜂窩組織炎及壞死性筋膜炎，雖然在產道可能偶有發現（但引起新生兒疾病最常見的是 B 群鏈球菌 Streptococcus agalactiae），並非典型經胎盤導致孕婦類流感及流產的病原。\n- B. 錯誤。紅斑丹毒絲菌主要引起類丹毒（erysipeloid），為職業相關皮膚感染（如處理魚類或豬肉者），不會典型地引起孕婦流產或新生兒疾病。\n- C. 正確。單核細胞增生性李斯特菌（Listeria monocytogenes）感染孕婦時，孕婦通常僅有發燒、肌肉酸痛等類流感症狀。但該菌能通過胎盤（transplacental transmission）垂直感染胎兒，導致嚴重的後果，如絨毛膜羊膜炎、流產、死胎、早產，或新生兒早發型/晚發型李斯特菌症（表現為敗血症、腦膜炎，死亡率極高）。\n- D. 錯誤。流行性嗜血桿菌為呼吸道致病菌，主要引起腦膜炎（尤其是b型）、中耳炎、會厭炎等，但與孕婦類流感導致流產的典型臨床關聯性低。\n\n【核心考點】\n單核細胞增生性李斯特菌的傳播途徑（食物感染）、易感宿主（孕婦、新生兒）、臨床特徵（孕婦類流感、胎盤傳播、新生兒敗血症/腦膜炎）。",
+      "flashcard_summary": "孕婦類流感及胎兒流產 -> 單核細胞增生性李斯特菌",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "單核細胞增生性李斯特菌可經胎盤垂直感染，引起孕婦類流感症狀及胎兒流產、早產或新生兒敗血症/腦膜炎。",
+      "flashcard_front": "孕婦發燒、類流感、經胎盤傳播、流產、新生兒腦膜炎/敗血症、李斯特菌",
+      "flashcard_back": "單核細胞增生性李斯特菌（Listeria monocytogenes）可穿過胎盤，造成孕婦輕微感冒症狀但引起胎兒流產或新生兒敗血症/腦膜炎。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_008",
+      "question_number": 8,
+      "question_text": "關於抗病毒藥物的敘述,下列何者最適當?",
+      "options": {
+        "A": "高效抗反轉錄病毒療法(Highly Active Antiretroviral Therapy, HAART)通常使用單一藥物進行治療,\n主要是為了減少副作用",
+        "B": "C 型肝炎病毒(Hepatitis C virus, HCV)抗病毒藥物可有效清除體內病毒,而其成分皆針對病毒 RNA 聚合\n酶(RNA polymerase)",
+        "C": "抗病毒藥物只能對單一種病毒有效,無法用於治療不同種類的病毒感染",
+        "D": "Zidovudine(Retrovir)是一種反轉錄酶(reverse transcriptase)抑制劑,可用來針對人類免疫缺乏病\n毒"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題詢問抗病毒藥物（包括抗 HIV 與抗 HCV 藥物）的藥理特性。解答此題需要了解 HAART 雞尾酒療法的原則、C 型肝炎直接抗病毒藥物（DAA）的分類，以及常見抗反轉錄病毒藥物 Zidovudine（AZT）的機制與作用。\n\n【選項詳解】\n- A. 錯誤。高效抗反轉錄病毒療法（HAART），俗稱雞尾酒療法，是使用「多種」（通常是三種或以上）不同作用機制的抗病毒藥物联合治療，目的是防止 HIV 快速產生突變抗藥性，而非單一藥物。\n- B. 錯誤。抗 C 型肝炎的直接抗病毒藥物（DAAs）有三種主要標靶：NS3/4A 蛋白酶抑制劑（如 Glecaprevir）、NS5A 複製複合物抑制劑（如 Velpatasvir）、以及 NS5B RNA 聚合酶抑制劑（如 Sofosbuvir）。其成分並非「皆針對」RNA 聚合酶。\n- C. 錯誤。部分抗病毒藥物具有廣譜性。例如，干擾素（Interferon-alpha）可用於治療 B 肝、C 肝等；Ribavirin 可用於 C 肝、RSV 感染等；部分核苷酸類似物（如 Tenofovir）可同時抑制 HBV 的 DNA 聚合酶及 HIV 的反轉錄酶。\n- D. 正確。Zidovudine（又稱 AZT，商品名 Retrovir）是一種胸腺嘧啶核苷類似物（nucleoside analog），屬於核苷類反轉錄酶抑制劑（NRTI），能競爭性抑制反轉錄酶，阻斷 HIV 的 DNA 鏈延長。\n\n【核心考點】\n抗反轉錄病毒藥物（NRTIs 如 Zidovudine）、HAART 的複合用藥原則、C 肝抗病毒藥物（DAA）的多元靶點。",
+      "flashcard_summary": "Zidovudine -> 核苷類反轉錄酶抑制劑 (NRTI)，用以治療 HIV",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Zidovudine (AZT) 是一種核苷類反轉錄酶抑制劑（NRTI），用於治療 HIV 感染。",
+      "flashcard_front": "Zidovudine、AZT、反轉錄酶抑制劑、NRTI、HIV",
+      "flashcard_back": "Zidovudine (AZT) 屬於核苷類反轉錄酶抑制劑 (NRTI)，是治療 HIV 的重要藥物，常作為聯合療法的一員。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_009",
+      "question_number": 9,
+      "question_text": "下列關於各類型肝炎病毒的敘述中,何者最適當?",
+      "options": {
+        "A": "C 型肝炎病毒(HCV)目前有有效的疫苗可預防,並且可以通過食物和水傳播",
+        "B": "D 型肝炎病毒(HDV)無法獨立複製,必須依賴 B 型肝炎病毒(HBV),並且主要通過血液與性接觸傳播",
+        "C": "A 型肝炎病毒(HAV)主要通過血液與性接觸傳播,並且目前有有效疫苗可預防",
+        "D": "除 D 型肝炎病毒(HDV)基因體屬於 DNA 外,其他皆屬於 RNA 病毒"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題考核各種病毒性肝炎（A、B、C、D、E型）之病原體特性、傳播途徑與預防方式。主要重點在於區分糞口傳染與血液傳染的肝炎病毒、基因體類型（DNA 或 RNA），以及 D 型肝炎病毒（HDV）的缺陷性本質。\n\n【選項詳解】\n- A. 錯誤。C 型肝炎病毒（HCV）目前「沒有」有效疫苗可供預防（因為其套膜蛋白高度變異），且它是透過「血液與體液」傳播，而非食物和水。\n- B. 正確。D 型肝炎病毒（HDV）是一種缺陷的單股環狀 RNA 病毒，缺乏製造自身外殼蛋白的基因，因此必須藉由 B 型肝炎病毒（HBV）的表面抗原（HBsAg）包裹，才能完成包膜組裝與感染其他細胞。其傳播途徑與 HBV 相同，主要為血液、注射針頭與性接觸。\n- C. 錯誤。A 型肝炎病毒（HAV）主要透過「糞口途徑（食物與水）」傳播，而非血液與性接觸（雖然在男同志性行為中亦有糞口傳播風險），且目前有非常有效的滅活疫苗可供預防。\n- D. 錯誤。在所有常見的肝炎病毒中，只有 B 型肝炎病毒（HBV）是 DNA 病毒（雙股部分環狀 DNA），其餘包括 A、C、D、E 型肝炎病毒皆屬於 RNA 病毒。因此 D 肝是 RNA 病毒，選項敘述錯誤。\n\n【核心考點】\n肝炎病毒分類（HBV 為 DNA，其餘為 RNA）、缺陷病毒 HDV 與 HBV 的共感染/重疊感染關係、傳播途徑（A、E 糞口；B、C、D 血液體液）。",
+      "flashcard_summary": "HDV特性 -> 缺陷RNA病毒，依賴HBV的HBsAg；僅HBV為DNA病毒",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "HDV 是缺陷的 RNA 病毒，需要 HBV 的外殼蛋白（HBsAg）才能組裝與複製，傳染途徑以血液與性接觸為主。",
+      "flashcard_front": "D型肝炎、HDV、缺陷病毒、HBV、肝炎基因體DNA/RNA",
+      "flashcard_back": "HDV 為缺陷 RNA 病毒，必須依賴 HBV 的 HBsAg 才能包裝複製；HBV 是唯一 DNA 肝炎病毒，其餘皆為 RNA 病毒。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_010",
+      "question_number": 10,
+      "question_text": "一般情況下,下列何種念珠菌僅以單細胞型式存在,不產生假菌株或真菌絲?",
+      "options": {
+        "A": "Candida krusei",
+        "B": "Candida tropicalis",
+        "C": "Candida glabrata",
+        "D": "Candida parapsilosis"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題詢問在一般生理或培養條件下，何種念珠菌（Candida）通常僅以單細胞酵母型式（blastoconidia）存在，而不會產生假菌絲（pseudohyphae）與真菌絲（true hyphae）。念珠菌是常見的條件致病真菌，了解不同種念珠菌的形態特徵有助於臨床鑑定。\n\n【選項詳解】\n- A. 錯誤。Candida krusei 在培養基上可形成明顯的假菌絲。\n- B. 錯誤。Candida tropicalis 具有很強的形成假菌絲與真菌絲的能力。\n- C. 正確。Candida glabrata（舊稱 Torulopsis glabrata）在形態學上與其他念珠菌不同，它在臨床標本或常規培養中，僅以單細胞的酵母細胞（yeast form）存在，大小較小（約 2-5 微米），且「不產生」假菌絲或真菌絲（在極少數極端體外誘導條件下可能有微弱發育，但一般情況下完全不產生）。\n- D. 錯誤。Candida parapsilosis 亦會產生假菌絲，其假菌絲特徵常呈彎曲或雪花狀。\n\n【核心考點】\n念珠菌屬的形態學鑑定與區分（Candida glabrata 的單細胞特性與無菌絲特點）。",
+      "flashcard_summary": "不產生菌絲/假菌絲的念珠菌 -> Candida glabrata",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Candida glabrata 是念珠菌屬中極少數通常僅呈單細胞酵母型態，不形成假菌絲或真菌絲的菌種。",
+      "flashcard_front": "念珠菌、Candida glabrata、單細胞、無菌絲/假菌絲",
+      "flashcard_back": "Candida glabrata 在常規下僅以單細胞酵母形式存在，不形成假菌絲或真菌絲。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:15.100514+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_011",
+      "question_number": 11,
+      "question_text": "在吞噬細胞內呈現裂殖酵母(fission yeasts)是下列何種感染的主要特徵?",
+      "options": {
+        "A": "Emergomycosis",
+        "B": "Coccidioidomycosis",
+        "C": "Histoplasmosis",
+        "D": "Talaromycosis"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題詢問在吞噬細胞內呈現「裂殖酵母」（fission yeasts，即以橫隔進行二分裂而非出芽生殖）是何種真菌感染的特徵。在臨床真菌學中，雙相性真菌（dimorphic fungi）的組織相形態是極為重要的鑑別診斷依據。\n\n【選項詳解】\n- A. 錯誤。Emergomycosis 是由 Emergomyces 屬真菌引起的機會性感染，其組織相為出芽酵母菌（budding yeast），非裂殖酵母。\n- B. 錯誤。Coccidioidomycosis（球孢子菌病）的組織相為含有許多內孢子（endospores）的球體（spherule），而非二分裂的酵母。\n- C. 錯誤。Histoplasmosis（組織胞漿菌病）的組織相為微小的出芽酵母（budding yeast），通常位於巨噬細胞內，但其繁殖方式是出芽（budding），中間沒有橫隔（septum）。\n- D. 正確。Talaromycosis（舊稱青黴菌病 Penicilliosis）是由馬爾尼菲藍狀菌（Talaromyces marneffei，舊稱 Penicillium marneffei）引起。它是雙相性真菌，在 37°C 組織相呈酵母樣。其最典型的特徵是：在巨噬細胞等吞噬細胞內，酵母細胞呈橢圓形或臘腸形，且不以出芽繁殖，而是經由中間形成橫隔（septum）進行二分裂（fission yeast），極易被誤認為 Leishmania 或 Histoplasma，但後兩者無橫隔。\n\n【核心考點】\n雙相性真菌的鑑別診斷特徵，特別是 Talaromyces marneffei 的二分裂裂殖酵母（fission yeast）型態。",
+      "flashcard_summary": "吞噬細胞內裂殖酵母 -> Talaromycosis",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Talaromyces marneffei 於組織（吞噬細胞內）呈現橫隔二分裂（fission）的酵母形態，是其診斷特徵。",
+      "flashcard_front": "吞噬細胞、裂殖酵母、Talaromycosis、T. marneffei",
+      "flashcard_back": "Talaromycosis 的組織學特徵是在巨噬細胞內看到裂殖酵母（fission yeast）。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_012",
+      "question_number": 12,
+      "question_text": "下列何種細菌的系統主要用於保護染色體不受噬菌體(bacteriophage)與外源質體的嵌合作用\n(integration)?",
+      "options": {
+        "A": "SOS 反應(SOS response)",
+        "B": "規律間隔重複短迴文序列簇/CRISPR 相關蛋白系統(clustered regularly interspaced short \npalindromic repeats/CRISPR associated proteins)",
+        "C": "易誤修復(error-prone repair)",
+        "D": "裁除式修復(excision repair)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題詢問細菌中用來防禦噬菌體（bacteriophage）以及外源質體 DNA 嵌合入染色體的系統。細菌具有多種防禦外源 DNA 侵入的機制，包含限制修飾系統（Restriction-Modification system）及適應性免疫系統。\n\n【選項詳解】\n- A. 錯誤。SOS 反應（SOS response）是細菌面對嚴重 DNA 受損（如紫外線照射或化療藥物）時啟動的緊急 DNA 修復系統，通常會引導細胞分裂停止並進行錯誤傾向的修復，並非主要防禦外源 DNA 嵌合的免疫系統。\n- B. 正確。CRISPR-Cas 系統（Clustered Regularly Interspaced Short Palindromic Repeats）是細菌和古菌的一種後天獲得性免疫系統。它透過將先前感染的噬菌體或外源質體的一小段 DNA 片段（稱為 spacer）整合入細菌染色體的 CRISPR 位點中，作為免疫記憶。當相同外源 DNA 再次入侵時，CRISPR 轉錄出的 RNA 能引導 Cas 蛋白精確切割該外源 DNA，從而保護細菌染色體免於被外源遺傳元件嵌合或破壞。\n- C. 錯誤。易誤修復（error-prone repair，如 SOS 系統中的一部分）是高突變率的修復方式，與防禦噬菌體整合無關。\n- D. 錯誤。裁除式修復（excision repair，包括鹼基和核苷酸切除修復）是用於修復自身 DNA 上的化學損傷（如胸腺嘧啶二聚體），非防禦外源基因嵌合的適應性系統。\n\n【核心考點】\n細菌適應性防禦系統 CRISPR-Cas 的功能與基本原理。",
+      "flashcard_summary": "細菌防禦外源 DNA -> CRISPR-Cas 系統",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "CRISPR-Cas 系統是細菌保護自身染色體免受噬菌體與外源質體嵌合的後天適應性免疫系統。",
+      "flashcard_front": "細菌防禦、外源 DNA、噬菌體、CRISPR",
+      "flashcard_back": "CRISPR-Cas 系統是細菌的免疫機制，用來切除噬菌體或其他外源質體 DNA。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_013",
+      "question_number": 13,
+      "question_text": "下列何種毒素的作用機轉與霍亂毒素(cholera toxin)類似?",
+      "options": {
+        "A": "白喉毒素(diphtheria toxin)",
+        "B": "大腸桿菌(Escherichia coli)的第一型熱不穩定毒素(LT-I)",
+        "C": "副溶血弧菌(Vibrio parahaemolyticus)的溶血素(hemolysin)",
+        "D": "痢疾志賀氏桿菌(Shigella dysenteriae)的侵入素(invasin)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題考查細菌毒素的作用機轉，特別是比較霍亂毒素（cholera toxin）與其他腸道毒素的相似性。霍亂毒素（CT）是一種 AB5 結構的腸毒素，其 A 次單元進入腸上皮細胞後，催化 Gs 蛋白進行 ADP-核糖基化（ADP-ribose conjugation），使其持續活化，進而刺激腺苷酸環化酶（adenylate cyclase），引發胞內 cAMP 水平急遽上升，導致水與電解質大量分泌。\n\n【選項詳解】\n- A. 錯誤。白喉毒素（diphtheria toxin）雖然也是 ADP-核糖基轉移酶，但其標靶是真核細胞的延伸因子-2（EF-2），作用是抑制蛋白質合成，導致細胞死亡。\n- B. 正確。產毒性大腸桿菌（ETEC）產生的熱不穩定毒素（heat-labile toxin, LT-I）與霍亂毒素有高度的結構與功能同源性（同屬 AB5 毒素）。LT-I 同樣催化 Gs 蛋白的 ADP-核糖基化，活化腺苷酸環化酶使 cAMP 增加，導致水與氯離子分泌，引發類似霍亂但較輕微的拉肚子症狀。\n- C. 錯誤。副溶血弧菌（Vibrio parahaemolyticus）的耐熱直接溶血素（thermostable direct hemolysin, TDH）主要是在靶細胞膜上形成孔洞（pore-forming toxin），干擾細胞膜完整性。\n- D. 錯誤。痢疾志賀氏桿菌（Shigella dysenteriae）的志賀毒素（Shiga toxin）藉由切斷 28S rRNA 上的腺苷酸來抑制蛋白質合成，其侵入素（invasin）則參與黏附與穿透宿主細胞，與 cAMP 機轉無關。\n\n【核心考點】\n霍亂毒素與產毒性大腸桿菌熱不穩定毒素（LT-I）的分子機制（Gs 蛋白 ADP-核糖基化、cAMP 上升）。",
+      "flashcard_summary": "霍亂毒素相似機轉 -> 大腸桿菌熱不穩定毒素(LT-I)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "大腸桿菌的熱不穩定毒素（LT-I）作用機制與霍亂毒素相同，均為活化 Gs 蛋白，使 cAMP 增加，造成分泌性腹瀉。",
+      "flashcard_front": "霍亂毒素、E. coli LT-I、機制相似、cAMP",
+      "flashcard_back": "兩者皆活化 Gs 蛋白，使細胞內 cAMP 濃度升高，導致分泌性腹瀉。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_014",
+      "question_number": 14,
+      "question_text": "下列關於 Sofosbuvir、Oseltamivir、Darunavir、Raltegravir 藥物的比較何者最適當?",
+      "options": {
+        "A": "Darunavir、Raltegravir 皆為人類免疫不全病毒(human immunodeficiency virus)的抗病毒藥物",
+        "B": "Oseltamivir 抑制病毒進入細胞(entry),Darunavir 抑制病毒的釋放(release)",
+        "C": "Sofosbuvir 為 B 型肝炎病毒(hepatitis B virus)的抗病毒藥物,Oseltamivir 為流感病毒(influenza \nvirus)的抗病毒藥物",
+        "D": "Sofosbuvir、Raltegravir 皆為蛋白酶抑制劑(protease inhibitor)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問四種臨床常用抗病毒藥物（Sofosbuvir、Oseltamivir、Darunavir、Raltegravir）的標靶病毒與藥理機轉。解答此題需要精確掌握各抗病毒藥物的適應症與機轉分類。\n\n【選項詳解】\n- A. 正確。Darunavir 是一種 HIV 蛋白酶抑制劑（Protease Inhibitor, PI），阻止病毒前驅多肽的剪切；Raltegravir 則是一種 HIV 整合酶/嵌入酶抑制劑（Integrase Strand Transfer Inhibitor, INSTI），阻止病毒 DNA 整合至宿主染色體。兩者均是高效抗反轉錄病毒療法（HAART）中治療 HIV 感染的藥物。\n- B. 錯誤。Oseltamivir（克流感）是流感病毒的神經胺酸酶抑制劑（neuraminidase inhibitor），其主要作用是抑制新生病毒從宿主細胞表面「釋放」（release），而非抑制進入；Darunavir 則是蛋白酶抑制劑，干擾病毒的「成熟」（maturation）而非釋放。\n- C. 錯誤。Sofosbuvir 是一種核苷酸類似物（NS5B 聚合酶抑制劑），是治療 C 型肝炎病毒（HCV）而非 B 型肝炎病毒（HBV）的直接抗病毒藥物。Oseltamivir 用於治療流感病毒，此部分正確。\n- D. 錯誤。Sofosbuvir 是 NS5B RNA 聚合酶抑制劑；Raltegravir 是整合酶（integrase）抑制劑，兩者皆非蛋白酶抑制劑（Darunavir 才是蛋白酶抑制劑）。\n\n【核心考點】\n常用抗病毒藥物的作用機轉與臨床用途（HIV、HCV、流感病毒之治療藥物分類）。",
+      "flashcard_summary": "HIV 抗病毒藥物 -> Darunavir, Raltegravir",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Darunavir（蛋白酶抑制劑）與 Raltegravir（整合酶抑制劑）皆為治療 HIV 感染的抗病毒藥物。",
+      "flashcard_front": "Darunavir、Raltegravir、抗病毒藥物、HIV",
+      "flashcard_back": "Darunavir 是 HIV 蛋白酶抑制劑，Raltegravir 是 HIV 整合酶抑制劑，兩者均為 HIV 用藥。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_015",
+      "question_number": 15,
+      "question_text": "下列何種情況會使患者更容易受到伊科病毒(echovirus)感染呼吸道和胃腸道而引起嚴重疾病?",
+      "options": {
+        "A": "低伽瑪球蛋白血症(hypogammaglobulinemia)",
+        "B": "鐮狀細胞貧血(sickle cell anemia)",
+        "C": "發炎性腸道疾病(inflammatory bowel disease)",
+        "D": "消化性潰瘍(peptic ulcer)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問何種免疫缺陷或疾病狀況會使人容易受到伊科病毒（echovirus）感染並導致嚴重疾病。伊科病毒屬於小 RNA 病毒科的腸病毒屬（Enterovirus），主要藉由糞口或呼吸道飛沫傳播，在人體內的清除極為依賴體液免疫（抗體）的調控。\n\n【選項詳解】\n- A. 正確。體液免疫中的特異性中和抗體（IgG 和 IgA）是清除與防止腸病毒（包括 echovirus、coxsackievirus、poliovirus）擴散的主要免疫機制。低伽瑪球蛋白血症（hypogammaglobulinemia，如 X 染色體聯鎖無丙種球蛋白血症 XLA）患者因無法產生足夠的免疫球蛋白，極易引發嚴重的慢性和播散性腸病毒感染，常進展為慢性腸病毒腦膜腦炎。\n- B. 錯誤。鐮狀細胞貧血（sickle cell anemia）由於脾功能受損，主要容易感染有莢膜的細菌（如肺炎鏈球菌 Streptococcus pneumoniae、流感嗜血桿菌、腦膜炎雙球菌），而非特別易感腸病毒。\n- C. 錯誤。發炎性腸道疾病（IBD，如克隆氏症、潰瘍性結腸炎）雖然累及腸道，但並非選擇性缺乏抗體，與伊科病毒的全身性嚴重感染無直接因果關係。\n- D. 錯誤。消化性潰瘍（peptic ulcer）主要與幽門螺桿菌（Helicobacter pylori）感染或非類固醇消炎藥（NSAIDs）使用有關，不會增加腸病毒引發嚴重全身性疾病的風險。\n\n【核心考點】\n體液免疫（中和抗體）在防禦腸病毒（Enterovirus，如伊科病毒）中的核心關鍵角色，以及抗體缺陷對病情的惡化作用。",
+      "flashcard_summary": "伊科病毒感染惡化 -> 低伽瑪球蛋白血症（缺乏抗體）",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "腸病毒（如伊科病毒）的中和與清除主要依賴抗體，低伽瑪球蛋白血症患者易發生嚴重或慢性腸病毒感染。",
+      "flashcard_front": "伊科病毒、低伽瑪球蛋白血症、嚴重感染、中和抗體",
+      "flashcard_back": "抗體對於腸病毒的清除至關重要，缺乏抗體會導致病毒無法清除，引發持續且嚴重的感染。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_016",
+      "question_number": 16,
+      "question_text": "有一種正股 RNA 病毒(positive-sense RNA virus)具有二十面體病毒殼體(capsid),無套膜\n(envelope),經糞口傳播,在罕見病例中會引起癱瘓。此病毒屬於那一病毒科?",
+      "options": {
+        "A": "腺病毒科(Adenoviridae)",
+        "B": "小 RNA 病毒科(Picornaviridae)",
+        "C": "呼腸孤病毒科(Reoviridae)",
+        "D": "披衣病毒科(Togaviridae)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題根據病毒的結構特徵（正單股 RNA、二十面體殼體、無套膜）、傳播途徑（糞口傳播）以及引起的臨床病徵（罕見引起癱瘓），來推斷該病毒所屬的科別。上述特徵直指脊髓灰質炎病毒（Poliovirus，小兒麻痺病毒）。\n\n【選項詳解】\n- A. 錯誤。腺病毒科（Adenoviridae）雖然是無套膜、二十面體殼體，但其基因體為雙股 DNA（dsDNA），非正股 RNA。\n- B. 正確。小 RNA 病毒科（Picornaviridae）底下的腸病毒屬包含脊髓灰質炎病毒（Poliovirus）。其結構特徵為正股單股 RNA（+ssRNA）、二十面體立體對稱、無套膜。主要傳播方式為糞口途徑，進入體內後會侵犯脊髓前角運動神經元，在少數感染者（約 1%）中引起非對稱性弛緩性癱瘓（小兒麻痺）。\n- C. 錯誤。呼腸孤病毒科（Reoviridae，如輪狀病毒 Rotavirus）的基因體是雙股 RNA（dsRNA），且通常具有雙層衣殼。\n- D. 錯誤。披衣病毒科（Togaviridae，如風疹病毒 Rubella virus、東部馬腦炎病毒）雖然是正股 RNA 病毒，但它們具有脂質「套膜」（enveloped），且主要是經由病媒蚊或空氣飛沫傳播，不以糞口為主要途徑。\n\n【核心考點】\n主要病毒科（特別是小 RNA 病毒科）的基因體結構、有無套膜、對稱性以及脊髓灰質炎病毒的致病機轉與傳播方式。",
+      "flashcard_summary": "正股RNA無套膜糞口傳播 -> 小RNA病毒科",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "脊髓灰質炎病毒屬於小 RNA 病毒科，是正股單股 RNA、無套膜、二十面體對稱的病毒，可經糞口傳染並導致癱瘓。",
+      "flashcard_front": "正股RNA病毒、無套膜、糞口傳播、癱瘓",
+      "flashcard_back": "符合上述特徵的病毒屬於小RNA病毒科（Picornaviridae），如脊髓灰質炎病毒。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_017",
+      "question_number": 17,
+      "question_text": "第一型干擾素(interferon)α及β做為抗病毒藥物,最主要是抑制病毒複製的下列何項步驟?",
+      "options": {
+        "A": "病毒的入侵",
+        "B": "病毒轉錄",
+        "C": "病毒蛋白質合成",
+        "D": "病毒的組裝"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題考查第一型干擾素（Interferon-alpha, IFN-α 及 Interferon-beta, IFN-β）的抗病毒機制。當宿主細胞受到病毒感染時會釋放第一型干擾素，作用於鄰近細胞的干擾素受體，活化 JAK-STAT 訊號通路，誘導數百種抗病毒蛋白（Antiviral proteins, AVPs）的合成，進而抑制病毒的複製。其最具代表性的途徑直接干擾了病毒蛋白質的轉譯。\n\n【選項詳解】\n- A. 錯誤。雖然干擾素引導的細胞表面狀態改變可能微弱影響進入，但這絕非其「最主要」的抗病毒分子步驟。\n- B. 錯誤。有些干擾素誘導蛋白（如 Mx 蛋白）會干擾病毒的轉錄與複製，但干擾素發揮抗病毒效能最強、最根本的機制依然是針對轉譯階段（蛋白質合成）。\n- C. 正確。第一型干擾素所誘導的最主要抗病毒效應蛋白包括：\n  1. **PKR（雙股 RNA 依賴性蛋白激酶）**：當與病毒 dsRNA 結合時會被活化，進而將真核細胞轉譯起始因子 eIF-2 磷酸化使其失活，從而阻斷病毒蛋白質的合成（轉譯）。\n  2. **2',5'-OAS（2',5'-寡腺苷酸合成酶）**：活化後合成 2',5'-oligoadenylates，進而活化 RNase L，這是一種內切核酸酶，會降解病毒與宿主的單股 RNA（mRNA），從而同樣截斷了蛋白質合成的模板。\n  因此，抑制病毒蛋白質合成是其最主要的防線。\n- D. 錯誤。部分次要機制會干擾病毒成熟或釋放，但並非最主要的抗病毒分子機轉。\n\n【核心考點】\n第一型干擾素（IFN-α/β）誘導抗病毒狀態的分子機制，特別是 PKR（抑制 eIF-2 磷酸化以阻斷轉譯）與 2',5'-OAS/RNase L 途徑。",
+      "flashcard_summary": "第一型干擾素作用 -> 抑制病毒蛋白質合成",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "第一型干擾素（IFN-α/β）主要藉由活化 PKR 及 2',5'-OAS 途徑，阻斷宿主與病毒的蛋白質合成（轉譯）。",
+      "flashcard_front": "第一型干擾素、抗病毒機制、抑制複製步驟",
+      "flashcard_back": "干擾素主要透過活化PKR，阻斷轉譯起始因子eIF-2，進而抑制病毒蛋白質合成。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_018",
+      "question_number": 18,
+      "question_text": "後天性免疫反應需較長時間建立,從接觸病原後需數天到數週才達到高峰。然而,這些反應比先天性免疫反\n應更具特異性,且能產生免疫記憶,增強面臨相同病原體時的保護,下列何者最符合此種應用?",
+      "options": {
+        "A": "疫苗",
+        "B": "抗生素",
+        "C": "抗過敏反應藥物",
+        "D": "免疫抑制劑"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問何種臨床或公共衛生手段，最符合利用「後天性免疫反應（adaptive immune response）具特異性及產生免疫記憶（immunological memory）」的特點。\n\n【選項詳解】\n- A. 正確。疫苗（Vaccine）的原理是將減毒、去活化或基因重組的病原體成分（抗原）輸入人體。這會觸發原初 B 細胞與 T 細胞，經過數天至數週的擴增產生高度特異性的抗體與效應 T 細胞。更重要的是，它會產生記憶性 B 細胞（Memory B cells）與記憶性 T 細胞（Memory T cells）。當人體未來真正接觸該病原體時，記憶細胞能發動快速且強大的二次免疫反應（secondary immune response），達到預防疾病的效果。\n- B. 錯誤。抗生素（Antibiotics）是化學物質，直接作用於細菌的細胞壁、核糖體或 DNA 以殺滅細菌或抑菌，屬於外源性化學治療，不依賴宿主的後天免疫系統，也無法產生免疫記憶。\n- C. 錯誤。抗過敏反應藥物（如抗組織胺、類固醇）主要作用是抑制過度或異常的免疫反應，而非利用或建立免疫記憶。\n- D. 錯誤。免疫抑制劑主要用來抑制自體免疫疾病或器官移植排斥，會壓制後天免疫反應，並非建立防禦性免疫記憶。\n\n【核心考點】\n後天免疫的特徵（特性與免疫記憶）以及疫苗接種（Active immunization）的主動免疫防禦原理。",
+      "flashcard_summary": "利用後天免疫記憶 -> 疫苗",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "疫苗接種是藉由模擬病原體刺激，誘發後天特異性免疫反應並產生長期免疫記憶細胞的預防手段。",
+      "flashcard_front": "後天免疫反應、特異性、免疫記憶、預防醫學",
+      "flashcard_back": "疫苗是利用後天免疫特異性與記憶特性，預防感染之主要應用。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_019",
+      "question_number": 19,
+      "question_text": "痛風(gout)是尿酸結晶(urate crystals)沉澱在關節組織後所引起的發炎症。下列那一種先天性免疫活\n化途徑最可能參與上述發炎反應?",
+      "options": {
+        "A": "NLRP1",
+        "B": "NLRP3",
+        "C": "MDA5",
+        "D": "cGAS"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題詢問痛風急性發作時，尿酸鈉結晶（monosodium urate, MSU）在關節組織沉積後所啟動的先天性免疫活化途徑。MSU 屬於細胞外的危險相關分子模式（Danger-associated molecular pattern, DAMP），被免疫細胞吞噬後會引發细胞內的感應機制。\n\n【選項詳解】\n- A. 錯誤。NLRP1 主要是針對特定細菌毒素（如炭疽毒素）或胞內代謝物產生反應的炎症體，並非介導尿酸結晶發炎的主要途徑。\n- B. 正確。被關節周圍的巨噬細胞吞噬的尿酸結晶（MSU）會導致溶酶體破裂，釋放出組織蛋白酶（cathepsin B），進而活化細胞質內的 **NLRP3 炎症體（NLRP3 inflammasome）**。NLRP3 活化後會招募接頭蛋白 ASC 並活化 Caspase-1。Caspase-1 將白血球介素-1β前驅物（pro-IL-1β）及 pro-IL-18 剪切成具活性形式並釋放到細胞外。IL-1β 是強效促炎細胞激素，能召喚大量嗜中性球浸潤關節，造成急性痛風性關節炎。\n- C. 錯誤。MDA5（Melanoma Differentiation-Associated protein 5）是細胞質內辨識病毒雙股 RNA（dsRNA）的受體，主要啟動抗病毒的第一型干擾素反應。\n- D. 錯誤。cGAS（cyclic GMP-AMP synthase）是細胞質內辨識雙股 DNA（dsDNA）的受體，活化後經由 STING 途徑誘導干擾素生成，參與抗病毒或自體免疫，與尿酸結晶引起的痛風性關節炎無直接關聯。\n\n【核心考點】\nNLRP3 炎症體（Inflammasome）的活化刺激物（如尿酸結晶、二氧化矽、ATP、活性氧物質 ROS）及其在痛風病理生理學中的地位。",
+      "flashcard_summary": "痛風發炎機制 -> 活化 NLRP3 炎症體",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "尿酸結晶作為危險相關分子模式（DAMP），會活化巨噬細胞內的 NLRP3 炎症體，促使 IL-1β 分泌而引起痛風發炎。",
+      "flashcard_front": "痛風、尿酸結晶、NLRP3、發炎反應",
+      "flashcard_back": "尿酸結晶被巨噬細胞吞噬後會活化 NLRP3 炎症體，是痛風急性發炎反應的關鍵。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_020",
+      "question_number": 20,
+      "question_text": "關於 major histocompatibility complex(MHC)polymorphism 與抗病毒免疫反應,下列敘述何者最具相關\n性?",
+      "options": {
+        "A": "增加可被 MHC 呈獻的抗原種類,有利於抑制病毒在族群中傳播",
+        "B": "呈獻出最容易被 T 細胞記憶的主要抗原點(predominant epitope)",
+        "C": "確保沒有年齡別的抗病毒免疫力差異性",
+        "D": "避免T 細胞在毒殺病毒時造成過度的自體免疫反應"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問主要組織相容性複合體（MHC，在人類中稱為 HLA）的高度多型性（polymorphism）與抗病毒免疫之間的相關性與演化意義。MHC 基因是人類基因體中多型性最高的區域，這種特性的存在與生物個體及族群的生存策略密切相關。\n\n【選項詳解】\n- A. 正確。由於 MHC 的結合槽對抗原胜肽的辨識具特定序列基序，不同的 MHC 等位基因能呈獻不同的病毒胜肽片段。在群體中，若 MHC 具有高度多型性，意味著群體內不同個體帶有不同的 MHC 分子，能呈現不同種類的病毒抗原，從而保證即使某種病毒突變使其某個抗原片段無法被某些 MHC 呈獻，族群中依然有其他個體能夠成功呈獻並活化 T 細胞。這能防止單一突變病毒在整個群體中無阻礙地傳播，有利於降低族群感染與傳播風險。\n- B. 錯誤。MHC 多型性主要是分散風險，並不是為了去「呈獻單一最容易被記憶的主要抗原點」，因為這反而容易使病毒藉由突變該抗原點而逃脫群體免疫。\n- C. 錯誤。MHC polymorphism 與年齡別的免疫差異無關（年齡別差異主要與胸腺退化、免疫衰老有關）。\n- D. 錯誤。MHC 多型性與避免自體免疫反應無直接因果關係，避免自體免疫主要依賴 T 細胞在中樞及周邊的免疫耐受性機制。\n\n【核心考點】\nMHC/HLA 多型性（Polymorphism）的免疫學意義與協同演化優勢（保護群體免受新型或突變病原體覆滅）。",
+      "flashcard_summary": "MHC多型性演化優勢 -> 增加抗原呈現種類，降低族群感染風險",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "MHC 的多型性（polymorphism）使個體與群體能呈現多樣的抗原胜肽，防止單一病毒變異株逃脫群體免疫而廣泛傳播。",
+      "flashcard_front": "MHC多型性、抗病毒免疫、族群保護",
+      "flashcard_back": "MHC 多型性擴大了抗原呈現的範圍，避免單一變異病毒規避所有個體的免疫監控。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:49:38.328084+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_021",
+      "question_number": 21,
+      "question_text": "下列何種 CD4 效應 T 細胞(effector CD4 T cells)分泌的細胞激素(cytokines),扮演最重要的免疫抑制\n功能?",
+      "options": {
+        "A": "IL-4",
+        "B": "IL-10",
+        "C": "IL-12",
+        "D": "TNF-α"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題詢問由 CD4+ 效應 T 細胞分泌的細胞激素中，何者扮演最主要的「免疫抑制」角色。免疫反應需要精細的調控以防止自體免疫或過度發炎，此時免疫抑制因子起關鍵作用。\n\n【選項詳解】\n- A. 錯誤。IL-4 主要是由 Th2 細胞分泌的促炎與免疫調節細胞激素，負責刺激 B 細胞增殖與抗體類型轉換（如 IgE、IgG1），並促進 Th2 分化，但非主要的全身性免疫抑制因子。\n- B. 正確。白血球介素-10（IL-10）是體內最重要的抗發炎/免疫抑制細胞激素（anti-inflammatory/immunosuppressive cytokine）。它主要由調節性 T 細胞（Tregs）以及活化的 Th1、Th2、Th17 細胞分泌，能抑制巨噬細胞與樹突細胞的抗原呈現能力（下調 MHC Class II 及共刺激分子的表達），並下調多種促炎細胞激素（如 IL-12、TNF-α、IL-1、IL-6）的產生，從而限制過度的免疫反應。\n- C. 錯誤。IL-12 主要由樹突細胞和巨噬細胞產生，其作用是促進 Th1 細胞分化並刺激 NK 細胞與 T 細胞分泌 IFN-γ，屬於強效的促炎細胞激素。\n- D. 錯誤。腫瘤壞死因子-α（TNF-α）是極具代表性的促發炎細胞激素，主要由活化的巨噬細胞產生，參與發燒、血管通透性增加及急性期反應，不具免疫抑制功能。\n\n【核心考點】\n主要細胞激素的免疫功能分類（促炎 vs. 抗炎/抑制），以及 IL-10 在維持免疫耐受與抗發炎中的關鍵地位。",
+      "flashcard_summary": "免疫抑制細胞激素 -> IL-10",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "IL-10 與 TGF-β 是最重要的免疫抑制細胞激素，由 Treg 及部分效應 T 細胞分泌以維持免疫耐受。",
+      "flashcard_front": "CD4效應T細胞、免疫抑制、細胞激素、IL-10",
+      "flashcard_back": "IL-10 是最強大的免疫抑制性細胞激素之一，負責下調 APC 活性並抑制促炎因子生成。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_022",
+      "question_number": 22,
+      "question_text": "下列那些基因缺失會造成抗體無法進行類型轉換(class switch)?1activation-induced cytidine \ndeaminase(AID) 2adenosine deaminase(ADA) 3CD40 4CD40 ligand 5RAG1",
+      "options": {
+        "A": "134",
+        "B": "245",
+        "C": "125",
+        "D": "345"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題詢問哪些基因缺失會直接導致抗體無法進行「類型轉換重組」（Class switch recombination, CSR）。抗體類型轉換是成熟 B 細胞在接觸抗原後，由產生 IgM/IgD 轉變為產生 IgG、IgA 或 IgE 的過程。此過程既需要 B 細胞內部的 DNA 修飾酶，也需要輔助性 T 細胞提供的活化訊號。\n\n【選項詳解】\n- 1. **AID (activation-induced cytidine deaminase)**：這是 B 細胞內進行體細胞超突變（SHM）與類型轉換（CSR）所必需的酶。它負責催化 DNA 上的胞苷去胺化，引入切點以便進行基因重組。缺失會導致「高 IgM 症候群（Hyper-IgM syndrome type 2）」，患者無法進行類型轉換。\n- 2. **ADA (adenosine deaminase)**：此酶參與嘌呤代謝。其缺失會導致有毒代謝物（如 dATP）積聚，特異性毒害淋巴細胞，引起重症複合型免疫缺乏症（SCID），這是在早期發育階段即造成 T/B 細胞缺乏，而非特異性阻斷類型轉換。\n- 3. **CD40**：表達於 B 細胞、巨噬細胞與樹突細胞表面。CD40 與 T 細胞表面的 CD40L 結合是 B 細胞接收 T 細胞輔助信號、啟動增殖與類型轉換的關鍵受體。缺失會導致體染色體隱性高 IgM 症候群。\n- 4. **CD40 ligand (CD40L / CD154)**：主要表達於活化的 CD4+ T 細胞表面。其與 B 細胞表面的 CD40 交互作用是類型轉換的必要條件。CD40L 基因位於 X 染色體，其突變會導致最常見的「X 染色體聯鎖高 IgM 症候群（X-linked Hyper-IgM syndrome）」。\n- 5. **RAG1 (recombination activating gene 1)**：在 T/B 細胞發育的早期（Pro-B/Pre-B, Pro-T/Pre-T 階段）負責 V(D)J 重組。RAG1 缺失會導致無法生成成熟的 B 與 T 細胞（表現為 SCID），並非成熟 B 細胞階段的類型轉換障礙。\n綜合上述，與類型轉換直接相關的缺失基因是 1、3、4，故選 A。\n\n【核心考點】\n抗體類型轉換（CSR）的分子與細胞機制、T-B 細胞交互作用（CD40-CD40L）、關鍵重組酶（AID）以及相關臨床疾病（高 IgM 症候群）。",
+      "flashcard_summary": "無法進行類型轉換 -> AID、CD40、CD40L 基因缺失",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗體類型轉換（CSR）需要 AID 酵素的參與，以及經由 CD40（B細胞表面）與 CD40L（T細胞表面）結合傳遞共刺激訊號。",
+      "flashcard_front": "抗體類型轉換、AID、CD40、CD40L、高IgM症候群",
+      "flashcard_back": "抗體類型轉換需要內在 AID 酵素與外在 T 細胞活化訊號（CD40 與 CD40L 結合），缺一不可。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_023",
+      "question_number": 23,
+      "question_text": "每一顆 B 細胞只表現一種專一性(specificity)抗原受體,其最主要的機制為:",
+      "options": {
+        "A": "RNA 選擇性剪接(alternative splicing)",
+        "B": "DNA 重組(rearrangement)",
+        "C": "等位基因排除(allelic exclusion)",
+        "D": "類型轉換重組(class switch recombination)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題詢問為何每顆 B 細胞僅表現單一專一性的抗原受體（免疫球蛋白/BCR）。人體為二倍體，擁有來自父本與母本的兩套同源染色體。然而，為了確保抗體反應的專一性，單個 B 細胞不能同時表達兩種不同專一性的受體，這需要一個特殊的基因調控機制。\n\n【選項詳解】\n- A. 錯誤。RNA 選擇性剪接（alternative splicing）在 B 細胞中主要用於決定抗體是「膜結合型（mIg）」還是「分泌型（sIg）」，以及決定同時表達 IgM 與 IgD，但它不決定或改變受體的抗原專一性。\n- B. 錯誤。DNA 重組（V(D)J rearrangement）是產生抗原受體多樣性（diversity）的機制，但它本身如果不受限制，兩個同源染色體都進行重組的話，細胞會同時表達兩種受體。\n- C. 正確。等位基因排除（allelic exclusion）是指在 B 細胞（和 T 細胞）發育過程中，一旦其中一個親本染色體上的免疫球蛋白重鏈（或輕鏈）基因成功完成功能性 V(D)J 重組並表達出蛋白質，該蛋白質產物便會發出負回饋訊號，阻止另一個同源染色體上的對應基因進行重組。這確保了每個 B 細胞最終只能表達一套功能性的重鏈與輕鏈，從而保證單一 B 細胞只具有一種專一性的抗原受體。\n- D. 錯誤。類型轉換重組（class switch recombination）是改變抗體恆定區（Fc部分，決定抗體 class 如 IgG, IgA）的機制，並不改變可變區（V區）決定的抗原專一性。\n\n【核心考點】\nB 細胞發育過程中的等位基因排除（allelic exclusion）機制及其在克隆選擇學說（clonal selection theory）中的核心物理基礎。",
+      "flashcard_summary": "B細胞單一專一性 -> 等位基因排除",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "等位基因排除（allelic exclusion）確保單個 B 細胞只表達來自雙親其中一方染色體的免疫球蛋白基因，維持單一專一性。",
+      "flashcard_front": "B細胞、單一抗原受體、等位基因排除、專一性",
+      "flashcard_back": "等位基因排除機制限制了 B 細胞只重組並表達單一親本的重鏈與輕鏈基因，以確保受體專一性。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_024",
+      "question_number": 24,
+      "question_text": "呼吸道剛被病毒感染時,最不可能產生下列何種分子?",
+      "options": {
+        "A": "type I interferon",
+        "B": "type II interferon",
+        "C": "CCL2",
+        "D": "IL-18"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題詢問呼吸道剛被病毒感染時（即感染極早期/先天性免疫階段），最不可能產生何種免疫分子。這需要區分先天性免疫系統在感染即刻產生的分子，與需要淋巴細胞活化增殖後才大量產生的後天性/晚期細胞因子。\n\n【選項詳解】\n- A. 錯誤。第一型干擾素（Type I interferon，主要包括 IFN-α 與 IFN-β）是宿主抗病毒免疫的「第一道防線」。一旦病毒的核酸被細胞內受體（如 Toll 樣受體 TLR、RIG-I 樣受體 RLR）辨識，受感染的呼吸道上皮細胞和樹突細胞便會迅速大量分泌第一型干擾素，引導鄰近細胞進入抗病毒狀態。\n- B. 正確。第二型干擾素（Type II interferon，即 IFN-γ）主要由活化的 NK 細胞、Th1 CD4+ T 細胞和 CD8+ 毒殺性 T 細胞產生。在呼吸道剛被感染的極早期，抗原呈現與 T 細胞活化尚未完成，因此 IFN-γ 的產生量極少。相較於第一型干擾素與趨化因子，它是此時期最不可能大量產生的分子。\n- C. 錯誤。CCL2（MCP-1）是一種強效趨化因子，在病毒感染早期由受刺激的上皮細胞或駐留巨噬細胞迅速釋放，負責招募單核球與巨噬細胞浸潤到感染部位。\n- D. 錯誤。IL-18 是一種促炎細胞激素，與 IL-1β 類似，在病毒感染啟動炎症體（inflammasome）後，可經由剪切迅速釋放，參與早期先天免疫。\n\n【核心考點】\n不同類型干擾素（第一型 IFN-α/β 與第二型 IFN-γ）的細胞來源、活化時間點與免疫功能差異。",
+      "flashcard_summary": "早期病毒感染不產生 -> Type II interferon",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "病毒感染初期由受感染上皮細胞主要產生第一型干擾素（IFN-α/β）；第二型干擾素（IFN-γ）主要由活化後的 NK/T 細胞產生。",
+      "flashcard_front": "病毒感染初期、上皮細胞、干擾素分類、IFN-γ、抗病毒",
+      "flashcard_back": "初期抗病毒主力為受感染細胞產生的第一型干擾素（IFN-α/β），第二型干擾素（IFN-γ）源於淋巴細胞，於中晚期產生。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_025",
+      "question_number": 25,
+      "question_text": "Streptococcus pneumoniae是一種胞外菌(extracellular bacteria)。下列何者最有可能幫助S. \npneumoniae逃脫免疫偵測?",
+      "options": {
+        "A": "產生大量的 lipopolysaccharide(LPS),毒殺免疫細胞",
+        "B": "形成孢子,躲避免疫偵測",
+        "C": "減少基因表達,避免刺激免疫反應",
+        "D": "細菌表面的莢膜多醣(capsular polysaccharide),干擾補體活化反應"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題考查肺炎鏈球菌（Streptococcus pneumoniae）的致病機制與免疫逃脫策略。作為一種典型的胞外致病菌，肺炎鏈球菌必須克服宿主血液與組織液中的體液防線（特別是補體系統與吞噬細胞的清除）才能存活與致病。\n\n【選項詳解】\n- A. 錯誤。肺炎鏈球菌是革蘭氏陽性菌（Gram-positive），其細胞壁結構不含有脂多醣（Lipopolysaccharide, LPS，LPS 是革蘭氏陰性菌外膜的特有成分）。\n- B. 錯誤。肺炎鏈球菌屬於無孢子（non-spore forming）的革蘭氏陽性球菌。形成孢子是炭疽桿菌、破傷風桿菌等梭狀芽孢桿菌的特徵。\n- C. 錯誤。細菌在感染宿主時需要表達多種毒力基因以適應環境，並非通過減少基因表達來逃脫免疫。\n- D. 正確。肺炎鏈球菌最主要的毒力因子是其表面的**莢膜多醣（capsular polysaccharide）**。莢膜具有物理屏障和抗吞噬能力，它能覆蓋細菌表面的抗原，更重要的是它能干擾補體系統的替代途徑活化，阻礙補體分子 C3b 沉積（opsonization）在細菌表面。由於缺乏 C3b 的調理作用，宿主的嗜中性球和巨噬細胞無法有效辨識與吞噬細菌，使其得以在宿主體內大量繁殖。\n\n【核心考點】\n肺炎鏈球菌的革蘭氏陽性特徵、莢膜多醣（Capsule）作為主要抗吞噬與抗補體活化毒力因子的機制。",
+      "flashcard_summary": "肺炎鏈球菌逃脫機制 -> 莢膜多醣干擾補體活化",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "肺炎鏈球菌的莢膜多醣能阻止補體 C3b 沉積與調理作用，從而抵抗吞噬細胞的吞噬。",
+      "flashcard_front": "肺炎鏈球菌、胞外菌、莢膜多醣、補體活化、抗吞噬",
+      "flashcard_back": "肺炎鏈球菌藉由莢膜多醣干擾補體 C3b 的沉積（調理作用），從而強烈抵抗吞噬細胞的吞噬清除。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_026",
+      "question_number": 26,
+      "question_text": "2018 年諾貝爾生醫獎,由 James Allison 與 Tasuku Honjo 共同獲得,表彰他們發展出利用免疫檢查點抑制\n劑(immune checkpoint inhibitor, ICI)對抗癌療法的突破性研究,下列關於免疫檢查點抑制劑的描述,\n何者最不適當?",
+      "options": {
+        "A": "ICI 在癌症治療取得突破性的結果,如:黑色素瘤(melanoma)獲得較好的反應",
+        "B": "Pembrolizumab 與 Nivolumab 是兩種常見的 PD-1 抗體藥物,其治療反應率優於 CTLA-4 抗體藥物",
+        "C": "Ipilimumab 是 CTLA-4 抗體藥物,其治療副作用率高於 PD-1 抗體藥物",
+        "D": "對於急性淋巴細胞白血病(acute lymphocytic leukemia, ALL),除了 CAR-T 療法外,ICI 亦有顯著的療\n效"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題詢問癌症免疫療法中「免疫檢查點抑制劑」（Immune Checkpoint Inhibitors, ICIs）的適應症、療效及副作用特性。ICIs（如 PD-1/PD-L1 阻斷劑、CTLA-4 阻斷劑）旨在解除腫瘤對 T 細胞的免疫抑制，活化 T 細胞以殺傷腫瘤。\n\n【選項詳解】\n- A. 正確。ICIs 對於高度體細胞突變（high tumor mutational burden, TMB）的實體腫瘤特別有效，其中黑色素瘤（melanoma）與非小細胞肺癌（NSCLC）是反應率最佳、取得最大突破的腫瘤類型。\n- B. 正確。Pembrolizumab 與 Nivolumab 是針對 PD-1 的單株抗體。臨床研究證實，PD-1/PD-L1 抑制劑在多種癌症中的客觀緩解率（ORR）通常優於第一代 CTLA-4 抑制劑，且副作用較少。\n- C. 正確。Ipilimumab 是針對 CTLA-4 的單株抗體。由於 CTLA-4 作用在 T 細胞活化的早期（淋巴結內），其被阻斷後會引發更廣泛的全身 T 細胞活化，因此其引起的「免疫相關不良反應（irAEs）」（如嚴重腸炎、皮膚炎、垂體炎）發生率與嚴重度均顯著高於作用在周邊組織的 PD-1 阻斷劑。\n- D. 錯誤。對於前 B 細胞型急性淋巴細胞白血病（B-ALL），腫瘤細胞表面的 PD-L1 表達率低，且 T 細胞微環境呈耗竭狀態，ICI 治療效果相當有限，並無「顯著療效」。目前 B-ALL 的突破性免疫治療主要依賴針對 CD19 的 **CAR-T 細胞療法**以及雙特異性抗體（Blinatumomab），而非單純使用免疫檢查點抑制劑。\n\n【核心考點】\n免疫檢查點抑制劑（Anti-PD-1 vs. Anti-CTLA-4）的作用機制、適應症（實體瘤 vs. 血液腫瘤）、療效對比以及免疫相關副作用差異。",
+      "flashcard_summary": "ICI治療不適當之癌症 -> 急性淋巴細胞白血病(ALL)",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "免疫檢查點抑制劑在固態腫瘤（如黑色素瘤）效果顯著，但對急性淋巴細胞白血病（ALL）療效不顯著。",
+      "flashcard_front": "免疫檢查點抑制劑、ICI、Pembrolizumab、Ipilimumab、白血病療效",
+      "flashcard_back": "ICI 在黑色素瘤等實體瘤表現佳；但對 B-ALL 療效有限，後者主要依賴 CAR-T 療或雙特異性抗體。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_027",
+      "question_number": 27,
+      "question_text": "移植前所進行捐贈者與受贈者之淋巴細胞混合反應(mixed lymphocyte reaction, MLR),最主要評估下列\n何者之相容程度?",
+      "options": {
+        "A": "HLA-A",
+        "B": "HLA-DR",
+        "C": "H2-D",
+        "D": "H2-K"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題詢問移植免疫中「混合細胞反應」（Mixed Lymphocyte Reaction, MLR）所評估的分子相容性。MLR 是一種體外模擬移植物抗宿主反應或排斥反應的試驗，透過將捐贈者與受贈者的淋巴細胞混合培養，觀察 T 細胞的增殖（proliferation）程度。\n\n【選項詳解】\n- A. 錯誤。HLA-A 屬於 MHC Class I 分子。MHC Class I 的差異主要由 CD8+ 毒殺性 T 細胞辨識，但在傳統 MLR 中，引發 CD8+ T 細胞直接大量增殖的能力弱於 MHC Class II。\n- B. 正確。混合淋巴細胞反應（MLR）中最主要的反應是「同種異型 CD4+ T 細胞」對異同的 MHC Class II 分子的辨識。人類的 MHC Class II 分子中以 **HLA-DR** 最為重要。當受贈者的 CD4+ T 細胞辨識到捐贈者細胞上的異同 HLA-DR 分子時，會發生強烈的活化並大量分裂增殖。因此，MLR 中測得的淋巴細胞增殖程度，主要反映了雙方 HLA-DR（MHC Class II）的相容性。\n- C. 錯誤。H2-D 屬於小鼠（mouse）的 MHC Class I 基因，與人類移植臨床評估無關。\n- D. 錯誤。H2-K 屬於小鼠的 MHC Class I 基因，非人類移植評估項目。\n\n【核心考點】\n混合淋巴細胞反應（MLR）的免疫學原理（主要由 CD4+ T 細胞辨識 MHC Class II / HLA-DR 引發增殖）及其在器官移植配對中的應用。",
+      "flashcard_summary": "MLR主要評估 -> HLA-DR",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "混合淋巴細胞反應（MLR）主要用來評估 MHC Class II（尤其是 HLA-DR）的不相容性，此不相容性會誘發嚴重的 T 細胞增殖反應。",
+      "flashcard_front": "器官移植、混合淋巴細胞反應、MLR、MHC Class II、HLA-DR",
+      "flashcard_back": "MLR 體外試驗主要反映受贈者 T 細胞對供者 HLA-DR（MHC Class II）分子的異同識別與分裂反應。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_028",
+      "question_number": 28,
+      "question_text": "抗 CD20 抗體(Rituximab)可治療非霍奇金氏淋巴瘤(non-Hodgkin's lymphoma)。主要是經由下列何種機\n轉引起 B 細胞的凋亡,達到抗腫瘤效果?",
+      "options": {
+        "A": "ADCC(經由活化 Fc receptor)",
+        "B": "immunotoxin(抗體 + toxin)",
+        "C": "抗體結合 chemotherapeutic drug",
+        "D": "免疫檢查點阻斷方法(immune checkpoint blockade)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題考查針對 B 細胞表面特異性抗原 CD20 的單株抗體——利妥昔單抗（Rituximab）的作用機制。Rituximab 廣泛應用於治療 B 細胞來源的非霍奇金氏淋巴瘤、慢性淋巴細胞白血病及某些自體免疫疾病。\n\n【選項詳解】\n- A. 正確。Rituximab 是一種嵌合單株抗體，其可變區與 B 細胞表面的 CD20 結合，而其恆定區（Fc 段）暴露。NK 細胞、巨噬細胞表面的 Fc 受體（FcγR）結合 Rituximab 的 Fc 段後會被活化，進而發動**抗體依賴性細胞毒殺作用（ADCC）**，釋放穿孔素和顆粒酶殺死腫瘤細胞。此外，它還能經由經典途徑激活補體系統引發補體依賴性細胞毒殺作用（CDC），以及直接引導 CD20 訊號通路的細胞凋亡。\n- B. 錯誤。免疫毒素（immunotoxin）是指將抗體與化學毒素或生物毒素（如蓖麻毒素）共價結合的藥物，Rituximab 是未結合毒素的純單株抗體。\n- C. 錯誤。抗體藥物複合體（Antibody-Drug Conjugates, ADCs）是將單株抗體與化療藥物偶聯，Rituximab 並非 ADC 藥物。\n- D. 錯誤。免疫檢查點阻斷（如 Anti-PD-1、Anti-CTLA-4）是靶向 T 細胞抑制性受體以活化 T 細胞，而 Rituximab 是直接靶向並清除腫瘤 B 細胞的靶向抗體。\n\n【核心考點】\n單株抗體 Rituximab 的抗腫瘤機制（主要為 ADCC 與 CDC，涉及 Fc 受體與補體活化）。",
+      "flashcard_summary": "Rituximab抗腫瘤機制 -> ADCC(Fc受體介導)",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Rituximab 結合 CD20 後，主要經由 Fc 受體介導的抗體依賴性細胞毒殺作用（ADCC）及補體激活清除 B 細胞。",
+      "flashcard_front": "Rituximab、利妥昔單抗、CD20單抗、ADCC、Fc受體",
+      "flashcard_back": "Rituximab 藉由結合 B 細胞 CD20，暴露出 Fc 段吸引免疫細胞藉由 Fc 受體發動 ADCC 毒殺作用。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_029",
+      "question_number": 29,
+      "question_text": "下列何種寄生蟲感染人體後,其第三期幼蟲會在橫紋肌形成囊體,臨床上此時期亦為診斷期(diagnostic \nstage)?",
+      "options": {
+        "A": "犬蛔蟲(Toxocara canis)",
+        "B": "廣東住血線蟲(Angiostrongylus cantonensis)",
+        "C": "菲律賓毛線蟲(Capillaria philippinensis)",
+        "D": "旋毛蟲(Trichinella spiralis)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題詢問何種寄生蟲的第三期幼蟲會在宿主的「橫紋肌」中形成囊體，且此幼蟲囊體在臨床上被視為該病的「診斷期（diagnostic stage）」。\n\n【選項詳解】\n- A. 錯誤。犬蛔蟲（Toxocara canis）在人體內只會進行內臟幼蟲移行症（visceral larva migrans），其幼蟲會隨機在組織移行但不形成肌肉中的包囊，且臨床上主要是以血清學 ELISA 診斷，而非在橫紋肌切片中尋找囊體作為標準診斷期。\n- B. 錯誤。廣東住血線蟲（Angiostrongylus cantonensis）的第三期幼蟲主要移行至人體的中樞神經系統（腦部），引起嗜酸性腦膜炎，診斷主要是靠腦脊髓液鏡檢或血清學檢驗，其幼蟲不在橫紋肌形成囊體。\n- C. 錯誤。菲律賓毛線蟲（Capillaria philippinensis）主要寄生於人體的「小腸」，引起嚴重的蛋白質流失性腸病及腹瀉，診斷期是從糞便中檢出蟲卵、幼蟲或成蟲，與橫紋肌無關。\n- D. 正確。旋毛蟲（Trichinella spiralis）是一種人畜共通的線蟲。人因食用未煮熟含有肌肉幼蟲（包囊）的豬肉、熊肉等而感染。幼蟲在腸道發育為成蟲，交配後雌蟲產下新生幼蟲，幼蟲隨血液流入全身橫紋肌，並進入骨骼肌細胞內，使其轉變為「護理細胞」，並在其內捲曲形成幼蟲囊包。臨床上，藉由肌肉切片（muscle biopsy）觀察到橫紋肌內的旋毛蟲幼蟲包囊，是確診該病最直接且關鍵的診斷期。\n\n【核心考點】\n旋毛蟲（Trichinella spiralis）的生活史（自體感染循環、成蟲寄生小腸、幼蟲寄生橫紋肌）及病理診斷特徵。",
+      "flashcard_summary": "橫紋肌形成囊體之寄生蟲 -> 旋毛蟲（Trichinella spiralis）",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "旋毛蟲（Trichinella spiralis）感染的診斷期特徵為骨骼肌（橫紋肌）切片中可見包裹的第三期幼蟲囊包。",
+      "flashcard_front": "旋毛蟲、肌肉切片、骨骼肌/橫紋肌、護理細胞、幼蟲包囊",
+      "flashcard_back": "旋毛蟲的幼蟲在橫紋肌內寄生，引導宿主細胞形成護理細胞，肌肉切片見囊體是黃金診斷標準。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_030",
+      "question_number": 30,
+      "question_text": "王先生赴中國江浙地區經商,期間經常食用醉蟹菜餚,返國一段時間後出現發燒、咳嗽且帶血稠痰,隨後經\n痰液及糞便鏡檢而確診,據此病史最可能感染下列何種寄生蟲?",
+      "options": {
+        "A": "中華肝吸蟲(Clonorchis sinensis)",
+        "B": "衛氏肺吸蟲(Paragonimus westermani)",
+        "C": "薑片蟲(Fasciolopsis buski)",
+        "D": "橫川氏吸蟲(Metagonimus yokogawai)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題提供了一個非常經典的寄生蟲感染病歷線索：\n1. 流行病學史：到過中國江浙，且有食用「醉蟹」（未煮熟的淡水蟹）的飲食史。\n2. 臨床表現：發燒、咳嗽並咳出「稠血痰」（典型描述為鐵鏽色痰）。\n3. 診斷方式：痰液或糞便鏡檢確診。\n這些特徵是衛氏肺吸蟲感染的教科書級表現。\n\n【選項詳解】\n- A. 錯誤。中華肝吸蟲（Clonorchis sinensis）的第二中間宿主是淡水魚類（因吃生魚片感染），成蟲主要寄生在膽管中，臨床表現為膽囊炎、黃疸、肝脾腫大，與呼吸道症狀無關，糞便可檢出蟲卵但痰液中不會有。\n- B. 正確。衛氏肺吸蟲（Paragonimus westermani）的第一中間宿主是川蜷等淡水螺，第二中間宿主是淡水蟹（如毛蟹、溪蟹、醉蟹）或蝲蛄。人食用未煮熟的醉蟹後，囊蚴在小腸逸出，穿過腸壁及膈肌移行至肺部發育為成蟲。成蟲在肺部引起局部發炎，患者會出現發燒、慢性咳嗽、咳出含有蟲卵與壞死組織的「鐵鏽色稠血痰」。部分蟲卵被咳出後隨痰吞入消化道，故在痰液和糞便鏡檢中均可檢出特徵性的肺吸蟲卵。\n- C. 錯誤。薑片蟲（Fasciolopsis buski）是寄生於小腸的大型吸蟲，經由食用菱角、荸薺等水生植物（媒介為囊蚴）感染，主要症狀為腹痛、腹瀉，不侵犯肺部。\n- D. 錯誤。橫川氏吸蟲（Metagonimus yokogawai）為寄生在小腸的微小吸蟲，經由食用香魚等淡水魚感染，主要表現為腸道症狀。\n\n【核心考點】\n衛氏肺吸蟲（Paragonimus westermani）的生活史（蟹/蝲蛄為第二宿主）、感染途徑（吃醉蟹）、寄生部位（肺）與臨床診斷（痰、糞便檢出蟲卵）。",
+      "flashcard_summary": "食用醉蟹咳血痰 -> 衛氏肺吸蟲",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "衛氏肺吸蟲（Paragonimus westermani）的第二中間宿主為淡水蟹/蛄，食用未煮熟醉蟹會導致肺部感染，症狀為咳嗽與鐵鏽色/稠血痰。",
+      "flashcard_front": "醉蟹、咳鐵鏽色痰、淡水蟹、肺吸蟲、痰液鏡檢蟲卵",
+      "flashcard_back": "食用未煮熟的淡水蟹易感染衛氏肺吸蟲，蟲體在肺部寄生引起咳嗽與血稠痰，痰或糞便可檢出蟲卵。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T02:50:08.534240+00:00"
+    },
+    {
+      "id": "115-1_medicine-2_031",
+      "question_number": 31,
+      "question_text": "李先生因頭痛、肌肉痙攣及視力急速減退而就醫,血液檢查有輕微的嗜伊紅性白血球(eosinophil)上升,\n糞便檢查未發現任何寄生蟲蟲卵或蟲體,電腦斷層掃描(CT)和磁振造影(MRI)在腦實質組織、腦室發現許\n多囊體(直徑 4~15 毫米),患者先前曾被公司派駐墨西哥一年,他最可能罹患下列何種疾病?",
+      "options": {
+        "A": "幼裂絛蟲症(sparganosis)",
+        "B": "囊尾幼蟲症(cysticercosis)",
+        "C": "廣節裂頭絛蟲症(diphyllobothriasis latum)",
+        "D": "縮小包膜絛蟲症(hymenolepiasis diminuta)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「李先生因頭痛、肌肉痙攣及視力急速減退而就醫,血液檢查有輕微的嗜伊紅性白血球(eosinophil)上升,\n糞便檢查未發現任何寄生蟲蟲卵或蟲體,電腦斷層掃描(CT)和磁振造影(MRI)在腦實質組織、腦室發現許\n多囊體(直徑 4~15 毫米),患者先前曾被公司派駐墨西哥一年,他最可能罹患下列何種疾病?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者曾居住於墨西哥（囊尾幼蟲症高流行區），出現神經症狀及腦部囊體病變，高度懷疑為豬肉絛蟲（Taenia solium）之幼蟲感染。常見陷阱是將腦囊尾幼蟲症與其他寄生蟲混淆，但影像檢查發現腦實質與腦室有多處囊體是典型表現。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「幼裂絛蟲症(sparganosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「囊尾幼蟲症(cysticercosis)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「廣節裂頭絛蟲症(diphyllobothriasis latum)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「縮小包膜絛蟲症(hymenolepiasis diminuta)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n腦囊尾幼蟲症的流行病學與臨床表現。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "墨西哥旅遊、腦部多處囊體 -> 腦囊尾幼蟲症 (cysticercosis)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "腦囊尾幼蟲症的流行病學與臨床表現。",
+      "flashcard_front": "墨西哥居住史、頭痛肌肉痙攣、視力減退、腦CT/MRI多處囊體",
+      "flashcard_back": "診斷為腦囊尾幼蟲症（cysticercosis），由豬肉絛蟲幼蟲引起，常見於流行地區，臨床表現取決於囊體位置與數量。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_032",
+      "question_number": 32,
+      "question_text": "下列有關陰道滴蟲症(vaginal trichomoniasis)之敘述,何者最不適當?",
+      "options": {
+        "A": "主要經由性行為傳播",
+        "B": "男性患者通常無明顯症狀,但有可能引起攝護腺炎",
+        "C": "metronidazole 為常用的有效治療藥物",
+        "D": "新生兒不會感染此症"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關陰道滴蟲症(vaginal trichomoniasis)之敘述,何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：陰道滴蟲（Trichomonas vaginalis）主要經由性行為傳播，但亦可經由垂直感染。新生兒在分娩過程中經過產道，若母親患有陰道滴蟲症，新生兒確實有可能遭受感染，因此選項D敘述錯誤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「主要經由性行為傳播」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「男性患者通常無明顯症狀,但有可能引起攝護腺炎」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「metronidazole 為常用的有效治療藥物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「新生兒不會感染此症」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n陰道滴蟲的傳播途徑與臨床特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "陰道滴蟲傳播 -> 新生兒可透過垂直感染",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "陰道滴蟲的傳播途徑與臨床特徵。",
+      "flashcard_front": "陰道滴蟲、傳播途徑、新生兒感染可能性",
+      "flashcard_back": "陰道滴蟲可透過垂直傳播感染新生兒，並非完全不會感染。其主要透過性行為傳播，男性常為無症狀帶原者。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_033",
+      "question_number": 33,
+      "question_text": "人巴貝氏原蟲症(human babesiosis)感染之最佳治療用藥為何?1青黴素(penicillin) 2四環素\n(tetracycline) 3克林達黴素(clindamycin) 4奎寧(quinine)",
+      "options": {
+        "A": "12",
+        "B": "23",
+        "C": "24",
+        "D": "34"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「人巴貝氏原蟲症(human babesiosis)感染之最佳治療用藥為何?1青黴素(penicillin) 2四環素\n(tetracycline) 3克林達黴素(clindamycin) 4奎寧(quinine)」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：人巴貝氏原蟲症（Human babesiosis）的標準治療方式為克林達黴素（Clindamycin）加上奎寧（Quinine），這兩者是聯合用藥以達到最佳殺蟲效果。其他抗生素如青黴素或四環素對此原蟲無效。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「12」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「23」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「24」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「34」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n巴貝氏原蟲症的藥物治療組合。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "巴貝氏原蟲 -> Clindamycin + Quinine",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "巴貝氏原蟲症的藥物治療組合。",
+      "flashcard_front": "人巴貝氏原蟲症、首選治療用藥組合",
+      "flashcard_back": "治療巴貝氏原蟲症採用 Clindamycin 加上 Quinine。看到巴貝氏原蟲需聯想到此兩藥物組合。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_034",
+      "question_number": 34,
+      "question_text": "李先生到非洲旅遊時遭到某種蠅類叮咬,不久叮咬處發生下疳(chancre),後來併有發燒、後頸淋巴結腫大\n等症狀,晚期於腦脊髓液中檢出的寄生蟲數亦高,他最可能感染下列何種寄生蟲?",
+      "options": {
+        "A": "杜氏利什曼原蟲(Leishmania donovani)",
+        "B": "枯西氏錐蟲(Trypanosoma cruzi)",
+        "C": "布氏岡比亞錐蟲(Trypanosoma brucei gambiense)",
+        "D": "惡性瘧原蟲(Plasmodium falciparum)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「李先生到非洲旅遊時遭到某種蠅類叮咬,不久叮咬處發生下疳(chancre),後來併有發燒、後頸淋巴結腫大\n等症狀,晚期於腦脊髓液中檢出的寄生蟲數亦高,他最可能感染下列何種寄生蟲?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者有非洲旅遊史，並遭蠅類叮咬（采采蠅），出現叮咬處下疳、發燒、淋巴結腫大及腦脊髓液異常（侵犯中樞神經），符合非洲錐蟲症（African trypanosomiasis）。布氏岡比亞錐蟲是造成慢性型非洲錐蟲症的主因。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「杜氏利什曼原蟲(Leishmania donovani)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「枯西氏錐蟲(Trypanosoma cruzi)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「布氏岡比亞錐蟲(Trypanosoma brucei gambiense)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「惡性瘧原蟲(Plasmodium falciparum)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n非洲錐蟲症的傳播與臨床表現。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "非洲旅遊、采采蠅、後頸淋巴結腫大 -> 布氏岡比亞錐蟲",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "非洲錐蟲症的傳播與臨床表現。",
+      "flashcard_front": "非洲旅遊、采采蠅叮咬、叮咬處下疳、後頸淋巴結腫大、中樞神經侵犯",
+      "flashcard_back": "診斷為布氏岡比亞錐蟲症（Trypanosoma brucei gambiense），采采蠅為媒介，臨床特徵包含冬氏徵候（Winterbottom sign, 頸部淋巴結腫大）。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_035",
+      "question_number": 35,
+      "question_text": "有關黑水熱(blackwater fever)的敘述,下列何者最為適當?",
+      "options": {
+        "A": "為長期罹患瘧疾的臨床症狀,以卵形瘧原蟲(Plasmodium ovale)感染最為顯著",
+        "B": "因肝臟細胞受到瘧原蟲寄生,間接造成血小板低下(thrombocytopenia)所致",
+        "C": "血管內大量溶血併發血紅素尿(hemoglobinuria)所造成的症狀",
+        "D": "與患者體內 IFN-γ受體損傷有關"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關黑水熱(blackwater fever)的敘述,下列何者最為適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：黑水熱（Blackwater fever）是惡性瘧疾（Plasmodium falciparum）的嚴重併發症，特徵是血管內發生大規模急性溶血，導致大量游離血紅素進入尿液，形成深褐色的血紅素尿，因此得名。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「為長期罹患瘧疾的臨床症狀,以卵形瘧原蟲(Plasmodium ovale)感染最為顯著」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「因肝臟細胞受到瘧原蟲寄生,間接造成血小板低下(thrombocytopenia)所致」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「血管內大量溶血併發血紅素尿(hemoglobinuria)所造成的症狀」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「與患者體內 IFN-γ受體損傷有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n黑水熱的定義與病理機制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "黑水熱 -> 惡性瘧疾、血管內溶血、血紅素尿",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "黑水熱的定義與病理機制。",
+      "flashcard_front": "黑水熱、臨床特徵、溶血機制、尿液顏色",
+      "flashcard_back": "黑水熱是由惡性瘧疾引起的嚴重併發症，因血管內急性溶血導致血紅素尿（hemoglobinuria）。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_036",
+      "question_number": 36,
+      "question_text": "某大型汽車公司的 3,000 名員工從 1980 年就開始接受了初步健康檢查。從 1980 年後該公司每三年提供一次\n員工健康檢查,並可透過健康檢查結果與追蹤結果找出員工是否有罹患肝癌。研究者使用該公司之上述相關\n數據來探討肝癌與該公司工廠中接觸油漆之間的相關性。上述描述最有可能是下列何種研究設計?",
+      "options": {
+        "A": "隨機對照試驗",
+        "B": "世代研究",
+        "C": "病例對照研究",
+        "D": "橫斷性研究"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「某大型汽車公司的 3,000 名員工從 1980 年就開始接受了初步健康檢查。從 1980 年後該公司每三年提供一次\n員工健康檢查,並可透過健康檢查結果與追蹤結果找出員工是否有罹患肝癌。研究者使用該公司之上述相關\n數據來探討肝癌與該公司工廠中接觸油漆之間的相關性。上述描述最有可能是下列何種研究設計?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：研究者從一群員工開始追蹤，根據是否接觸油漆（暴露與否）進行分組，並隨時間觀察是否發生肝癌，這種「由因到果」的縱向追蹤設計屬於世代研究。病例對照研究則是「由果到因」，兩者容易混淆。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「隨機對照試驗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「世代研究」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「病例對照研究」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「橫斷性研究」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n世代研究（Cohort study）的定義。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "由因到果、縱向追蹤 -> 世代研究",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "世代研究（Cohort study）的定義。",
+      "flashcard_front": "世代研究、縱向追蹤、暴露因子、由因到果",
+      "flashcard_back": "從暴露狀況開始追蹤並觀察疾病發生者為世代研究（Cohort study）。特點是能計算發生率，適合探討風險。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_037",
+      "question_number": 37,
+      "question_text": "下列何項說明,是探討交互作用(interaction)的最主要目的?",
+      "options": {
+        "A": "探討疾病的發生率是否受到干擾因子的影響",
+        "B": "探討疾病的發生率是否受到中介因子的影響",
+        "C": "探討疾病的發生率是否受到兩個以上危險因子的影響",
+        "D": "探討疾病的發生率是否受到危險因子、干擾因子以及中介因子的影響"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何項說明,是探討交互作用(interaction)的最主要目的?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：交互作用是指當兩個或多個暴露因子同時存在時，其對疾病發生的聯合效應，與各自單獨效應之總和不同。此概念與干擾因子（Confounding）不同，干擾因子是需要被控制的誤差來源。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「探討疾病的發生率是否受到干擾因子的影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「探討疾病的發生率是否受到中介因子的影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「探討疾病的發生率是否受到兩個以上危險因子的影響」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「探討疾病的發生率是否受到危險因子、干擾因子以及中介因子的影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n交互作用（Interaction）的概念。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "多因子同時作用 -> 交互作用 (Interaction)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "交互作用（Interaction）的概念。",
+      "flashcard_front": "交互作用、概念目的、聯合效應",
+      "flashcard_back": "交互作用目的在於探討兩個以上危險因子同時作用下，是否產生加成或協同/拮抗效果，與干擾因子不同。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_038",
+      "question_number": 38,
+      "question_text": "對某國小一年級學童進行齲齒調查,發現每百名男學童有 24 人齲齒,每百名女學童有 12 人齲齒,因此推論\n男學童的齲齒發生率是女學童的2 倍。上述推論不適當,其最主要原因為何?",
+      "options": {
+        "A": "不知道調查總人數",
+        "B": "此為盛行率,並非發生率",
+        "C": "沒有進行年齡調整",
+        "D": "未進行統計檢定"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「對某國小一年級學童進行齲齒調查,發現每百名男學童有 24 人齲齒,每百名女學童有 12 人齲齒,因此推論\n男學童的齲齒發生率是女學童的2 倍。上述推論不適當,其最主要原因為何?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：題中調查是調查當時有多少人有齲齒，這是一個截面性的數據，指的是盛行率（Prevalence）。發生率（Incidence）則必須在一段時間內觀察新發病例。將盛行率直接當作發生率比較是不正確的。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「不知道調查總人數」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「此為盛行率,並非發生率」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「沒有進行年齡調整」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「未進行統計檢定」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n盛行率與發生率的區別。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "調查時間點現況 -> 盛行率 (Prevalence)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "盛行率與發生率的區別。",
+      "flashcard_front": "盛行率 vs 發生率、齲齒調查、時間點與期間",
+      "flashcard_back": "盛行率為某時間點的現況（有病者/總人數），而發生率為一段時間內的新增病例。不能直接以盛行率替代發生率。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_039",
+      "question_number": 39,
+      "question_text": "某研究者想探討某基因多型性(AA/AG 組相對 GG 組)是否與口腔癌的發生有關,收集 200 名口腔癌患者與\n200 名沒有口腔癌的健康者的資料,但該研究者懷疑該基因型與口腔癌的關聯性是否因抽菸狀態不同而不一\n樣,下列那一個考量或處理最能幫助該研究者解決此問題?",
+      "options": {
+        "A": "檢定抽菸與基因型對口腔癌的交互作用(interaction)",
+        "B": "將抽菸狀態的變項加入羅吉斯(logistic)迴歸模式中做調整即可解決",
+        "C": "確認抽菸狀態是否對基因型鑑定(genotyping)判讀造成偏差(bias)",
+        "D": "增加病例與對照組的樣本數即可不用擔心"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「某研究者想探討某基因多型性(AA/AG 組相對 GG 組)是否與口腔癌的發生有關,收集 200 名口腔癌患者與\n200 名沒有口腔癌的健康者的資料,但該研究者懷疑該基因型與口腔癌的關聯性是否因抽菸狀態不同而不一\n樣,下列那一個考量或處理最能幫助該研究者解決此問題?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：研究者懷疑基因型與口腔癌的關聯受抽菸狀態影響，這正是探討「交互作用」的典型場景。在分析時，必須在迴歸模型中加入交互作用項進行檢定，而非僅調整變項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「檢定抽菸與基因型對口腔癌的交互作用(interaction)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「將抽菸狀態的變項加入羅吉斯(logistic)迴歸模式中做調整即可解決」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「確認抽菸狀態是否對基因型鑑定(genotyping)判讀造成偏差(bias)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「增加病例與對照組的樣本數即可不用擔心」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n交互作用的統計檢定。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "關聯性受另一變項影響 -> 交互作用檢定",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "交互作用的統計檢定。",
+      "flashcard_front": "基因多型性、口腔癌、抽菸狀態影響、交互作用",
+      "flashcard_back": "當懷疑暴露與疾病的關係受另一變項影響時，需檢定交互作用（interaction）以釐清效應修飾作用（effect modification）。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_040",
+      "question_number": 40,
+      "question_text": "一般原水經自來水廠處理及加氯消毒後,可控制許多水媒傳染病,但對下列何者的效果最不理想?",
+      "options": {
+        "A": "梨形鞭毛蟲(Giardia)",
+        "B": "大腸桿菌(Escherichia coli)",
+        "C": "沙門氏菌(Salmonella)",
+        "D": "志賀桿菌(Shigella)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「一般原水經自來水廠處理及加氯消毒後,可控制許多水媒傳染病,但對下列何者的效果最不理想?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：自來水加氯消毒能有效殺滅多數細菌（如大腸桿菌、沙門氏菌、志賀桿菌），但對梨形鞭毛蟲（Giardia）的囊體（cyst）抵抗力較強，氯氣消毒效果較差，通常需配合過濾。\n\n【選項詳解】\n- A. 正確答案。選項內容：「梨形鞭毛蟲(Giardia)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「大腸桿菌(Escherichia coli)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「沙門氏菌(Salmonella)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「志賀桿菌(Shigella)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n氯氣對水媒病原體的消毒效果。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "加氯消毒 -> 細菌有效、梨形鞭毛蟲(Giardia)效果差",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "氯氣對水媒病原體的消毒效果。",
+      "flashcard_front": "水處理、加氯消毒、對細菌效果、梨形鞭毛蟲抵抗力",
+      "flashcard_back": "加氯消毒對細菌效果佳，但對原生動物（如梨形鞭毛蟲）的囊體抵抗力強，效果較不理想。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_041",
+      "question_number": 41,
+      "question_text": "埃及斑蚊為臺灣登革熱主要病媒蚊,下列何者最不符合埃及斑蚊之生態習性描述?",
+      "options": {
+        "A": "喜歡棲息在戶外",
+        "B": "在攝氏 17 度以下活性低",
+        "C": "警覺性高,易受驚動",
+        "D": "中斷式吸血"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「埃及斑蚊為臺灣登革熱主要病媒蚊,下列何者最不符合埃及斑蚊之生態習性描述?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：埃及斑蚊（Aedes aegypti）是室內性蚊種，喜歡棲息在人類住家室內陰暗處，而不是戶外。其餘選項如活性受溫度影響、警覺性高及中斷式吸血皆為其正確習性。\n\n【選項詳解】\n- A. 正確答案。選項內容：「喜歡棲息在戶外」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「在攝氏 17 度以下活性低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「警覺性高,易受驚動」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「中斷式吸血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n埃及斑蚊的生態特性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "埃及斑蚊 -> 室內性蚊種",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "埃及斑蚊的生態特性。",
+      "flashcard_front": "埃及斑蚊、生態習性、棲息環境、室內室外",
+      "flashcard_back": "埃及斑蚊為室內性蚊種，喜歡在室內陰暗處棲息；白線斑蚊則較常在戶外活動。看到此題要區分兩者棲息地差異。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_042",
+      "question_number": 42,
+      "question_text": "工業使用汞的量非常大,曾經造成環境與職業衛生的問題。關於汞的敘述,下列何者最不恰當?",
+      "options": {
+        "A": "早期牙醫補牙,填充齲齒使用含汞材料",
+        "B": "環境的汞污染曾造成極大的公害事件,例如日本的水俁病(Minamata disease)",
+        "C": "腦部是一個對慢性汞暴露的敏感部位,可能產生皮質部的海綿性退化(spongeous degeneration)",
+        "D": "一般而言,土壤中的汞可由植物吸收,人或動物食入植物的莖葉或果實而導致汞中毒"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「工業使用汞的量非常大,曾經造成環境與職業衛生的問題。關於汞的敘述,下列何者最不恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：汞污染的主要危害途徑是透過水體中被細菌轉化為甲基汞（methylmercury），經由食物鏈在魚類體內累積，人食入受污染的魚類而中毒，並非直接由植物吸收導致，選項D敘述不適當。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「早期牙醫補牙,填充齲齒使用含汞材料」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「環境的汞污染曾造成極大的公害事件,例如日本的水俁病(Minamata disease)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「腦部是一個對慢性汞暴露的敏感部位,可能產生皮質部的海綿性退化(spongeous degeneration)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「一般而言,土壤中的汞可由植物吸收,人或動物食入植物的莖葉或果實而導致汞中毒」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n汞中毒的環境途徑與毒性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "汞中毒主要途徑 -> 水體、食物鏈累積 (甲基汞)",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "汞中毒的環境途徑與毒性。",
+      "flashcard_front": "汞中毒、甲基汞、生物累積、食物鏈、水俁病",
+      "flashcard_back": "汞中毒多透過食物鏈累積（特別是魚類），轉化為有機的甲基汞後毒性增強，會侵犯中樞神經系統。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_043",
+      "question_number": 43,
+      "question_text": "有關疾病的篩檢,下列敘述何者最不適當?",
+      "options": {
+        "A": "對盛行率高的族群進行,效率較高",
+        "B": "只是用來將受檢族群區分為可能有病與可能沒有病的兩群人",
+        "C": "篩檢結果呈現陽性的人真正有病的比例稱為敏感度",
+        "D": "比較適用於沒有明顯相關症狀的人"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關疾病的篩檢,下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：敏感度（Sensitivity）的定義是「有病的人被正確篩檢為陽性的比例」。題幹選項C將定義描述為「陽性的人真正有病的比例」，這是陽性預測值（PPV）的定義，而非敏感度。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「對盛行率高的族群進行,效率較高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「只是用來將受檢族群區分為可能有病與可能沒有病的兩群人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「篩檢結果呈現陽性的人真正有病的比例稱為敏感度」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「比較適用於沒有明顯相關症狀的人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n篩檢評估指標的正確定義。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "篩檢陽性正確診斷比 -> 陽性預測值 (PPV)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "篩檢評估指標的正確定義。",
+      "flashcard_front": "篩檢、指標定義、敏感度、陽性預測值",
+      "flashcard_back": "敏感度 = 真陽性 / (真陽性 + 偽陰性)；陽性預測值 = 真陽性 / (真陽性 + 偽陽性)，要注意兩者分母不同。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_044",
+      "question_number": 44,
+      "question_text": "下列敘述何者是一種「健康不平等」?",
+      "options": {
+        "A": "老年人的新冠病毒肺炎死亡率高於年輕人",
+        "B": "偏鄉地區的平均壽命低於都會地區",
+        "C": "高學歷者的平均收入高於低學歷者",
+        "D": "吸菸者得到肺癌的機率高於非吸菸者"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列敘述何者是一種「健康不平等」?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：「健康不平等」（Health inequity）指不公平、可避免且不正義的健康差距，通常與社經地位、居住區域等社會決定因素有關。偏鄉地區平均壽命較低，反映了資源分配與社會結構性的不平等，而非生物學上的必然差異。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「老年人的新冠病毒肺炎死亡率高於年輕人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「偏鄉地區的平均壽命低於都會地區」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「高學歷者的平均收入高於低學歷者」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「吸菸者得到肺癌的機率高於非吸菸者」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n健康不平等的概念。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "結構性資源造成的健康差距 -> 健康不平等",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "健康不平等的概念。",
+      "flashcard_front": "健康不平等、社會決定因素、健康差距、定義",
+      "flashcard_back": "健康不平等強調不公平、可避免的健康差異（如城鄉差距），與生物學差異（如年齡影響）造成的健康不公平（inequality）不同。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_045",
+      "question_number": 45,
+      "question_text": "「設計思考(design thinking)」為健康促進創意宣導策略之一。下列針對設計思考的描述何者最不恰當?",
+      "options": {
+        "A": "設計思考強調「創意」的問題解決方法,其核心是以人為本",
+        "B": "設計思考的第一步驟為「定義」,即是將收集到的資料收斂成一個問題",
+        "C": "在設計思考的過程中有一項核心的任務,就是瞭解「使用者的經驗」",
+        "D": "在定義出問題後,可在「發展」階段針對問題尋找創新的解決方法"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「「設計思考(design thinking)」為健康促進創意宣導策略之一。下列針對設計思考的描述何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：設計思考的步驟通常包括：同理（Empathize）、定義（Define）、發想（Ideate）、原型（Prototype）、測試（Test）。「定義」階段的主要任務是將同理階段獲得的洞察收斂成正確的問題焦點，題幹敘述並沒有錯誤，但若依循完整流程，其第一步驟通常是「同理（Empathize）」。依選項來看，B選項將「定義」作為第一步驟是不適當的。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「設計思考強調「創意」的問題解決方法,其核心是以人為本」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「設計思考的第一步驟為「定義」,即是將收集到的資料收斂成一個問題」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「在設計思考的過程中有一項核心的任務,就是瞭解「使用者的經驗」」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「在定義出問題後,可在「發展」階段針對問題尋找創新的解決方法」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n設計思考（Design Thinking）的步驟。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "設計思考首步驟 -> 同理 (Empathize)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "設計思考（Design Thinking）的步驟。",
+      "flashcard_front": "設計思考、流程步驟、核心概念",
+      "flashcard_back": "設計思考首步驟為「同理 (Empathize)」，而非定義問題。定義問題在第二階段進行。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_046",
+      "question_number": 46,
+      "question_text": "下列有關健康識能(health literacy)的敘述,何者最恰當?",
+      "options": {
+        "A": "健康識能較佳者,做出適當健康決策之能力較佳",
+        "B": "健康識能不足與高血壓等慢性病的發生有負向關係",
+        "C": "個人健康識能的高低,與預防性的健康服務利用度無關",
+        "D": "個人健康識能的高低,取決其獲取健康資訊之積極程度"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關健康識能(health literacy)的敘述,何者最恰當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：健康識能（Health literacy）是指個人獲取、處理及理解基本健康資訊與服務，並據以做出適當健康決策的能力。健康識能不足通常與不良的慢性病自我管理、較低的預防性醫療利用率（如疫苗接種、癌症篩檢）呈正相關。個人健康識能受教育程度、社會環境等多重因素影響，非單由獲取資訊的積極度決定。\n\n【選項詳解】\n- A. 正確答案。選項內容：「健康識能較佳者,做出適當健康決策之能力較佳」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「健康識能不足與高血壓等慢性病的發生有負向關係」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「個人健康識能的高低,與預防性的健康服務利用度無關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「個人健康識能的高低,取決其獲取健康資訊之積極程度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n健康識能對個人健康決策與醫療利用的影響。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "健康識能較佳 -> 做出適當健康決策之能力較佳",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "健康識能對個人健康決策與醫療利用的影響。",
+      "flashcard_front": "健康識能、健康決策、預防性醫療利用、慢性病管理",
+      "flashcard_back": "健康識能佳者具備較好的健康決策與自我照顧能力；健康識能不足者往往預防性醫療服務利用度較低且慢性病控制較差。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_047",
+      "question_number": 47,
+      "question_text": "衛生福利部組織架構包含 6 處 10 司,10 個司中何者不是在民國 106 年之後成立的?",
+      "options": {
+        "A": "長期照顧司",
+        "B": "社會救助及社工司",
+        "C": "心理健康司",
+        "D": "口腔健康司"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「衛生福利部組織架構包含 6 處 10 司,10 個司中何者不是在民國 106 年之後成立的?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：衛生福利部於民國102年（2013年）配合行政院組織改造成立時，即設有「社會救助及社工司」。而「長期照顧司」、「心理健康司」與「口腔健康司」則是因應近年政策需求（如長照2.0、心理衛生與口腔保健獨立設司），於民國106年之後陸續新設或由原單位改組分立而來。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「長期照顧司」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「社會救助及社工司」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「心理健康司」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「口腔健康司」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n衛生福利部內部組織架構的成立與演變歷史。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "衛福部102年即成立之單位 -> 社會救助及社工司",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "衛生福利部內部組織架構的成立與演變歷史。",
+      "flashcard_front": "衛福部組織、10司架構、106年後成立、社會救助及社工司",
+      "flashcard_back": "社會救助及社工司在102年衛福部成立之初便已存在；長照司、心健司、口腔司則是106年後才陸續成立或改組。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_048",
+      "question_number": 48,
+      "question_text": "臺灣針對傳染病訂有五類傳染病通報的分級,其中有關通報時間的敘述何者最不恰當?",
+      "options": {
+        "A": "第一類傳染病必須立刻通報",
+        "B": "第二類傳染病應於 3 天內通報",
+        "C": "第三類傳染病應於 1 週內通報,必要時中央主管機關得調整之",
+        "D": "第四類傳染病依中央主管機關公告之期限及規定"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「臺灣針對傳染病訂有五類傳染病通報的分級,其中有關通報時間的敘述何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據臺灣《傳染病防治法》，第一類傳染病應於24小時內通報（應立刻通報）；第二類與第三類傳染病亦應於24小時內完成通報，而非3天內或1週內，故選項B敘述錯誤。第四類與第五類傳染病則依中央主管機關公告之期限與規定辦理。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第一類傳染病必須立刻通報」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「第二類傳染病應於 3 天內通報」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「第三類傳染病應於 1 週內通報,必要時中央主管機關得調整之」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「第四類傳染病依中央主管機關公告之期限及規定」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n臺灣法定傳染病分類及規定的通報時限。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "第二類傳染病通報時限 -> 24小時內（非3天內）",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "臺灣法定傳染病分類及規定的通報時限。",
+      "flashcard_front": "法定傳染病分級、通報時限、第一至三類傳染病",
+      "flashcard_back": "第一、二、三類法定傳染病依法均應於「24小時內」完成通報，考題常在通報天數或時限上設陷阱。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_049",
+      "question_number": 49,
+      "question_text": "長期照護服務種類繁多,為了協助民眾使用適當服務,由專門人員負責發掘社區中需要服務的個案,進行個\n案評估、擬定服務計畫、協助引進服務、監測服務的提供與評估服務成效,這個服務制度稱之為:",
+      "options": {
+        "A": "照顧管理",
+        "B": "居家照護",
+        "C": "居家醫療",
+        "D": "連續照護"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「長期照護服務種類繁多,為了協助民眾使用適當服務,由專門人員負責發掘社區中需要服務的個案,進行個\n案評估、擬定服務計畫、協助引進服務、監測服務的提供與評估服務成效,這個服務制度稱之為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：照顧管理（或稱個案管理）是長照服務的核心機制，由照顧管理專員負責發掘社區個案、評估多元需求、連結並擬定長照服務計畫、監測服務品質與追蹤成效。居家照護與居家醫療屬於具體的服務項目，連續照護則是一種照護理念，皆非指此管理制度。\n\n【選項詳解】\n- A. 正確答案。選項內容：「照顧管理」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「居家照護」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「居家醫療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「連續照護」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n長期照護服務中照顧管理（Care Management）的定義與功能。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "個案評估與引進長照服務之制度 -> 照顧管理",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "長期照護服務中照顧管理（Care Management）的定義與功能。",
+      "flashcard_front": "長照服務制度、發掘社區個案、需求評估、擬定與監測服務計畫",
+      "flashcard_back": "此制度稱為照顧管理（Care Management），負責連結與協調各項長照資源，確保個案獲得連續且適當的照顧。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_050",
+      "question_number": 50,
+      "question_text": "下列何者不是我國全民健保財源籌措的主要來源?",
+      "options": {
+        "A": "政府的一般稅收",
+        "B": "民眾繳納的罰款",
+        "C": "雇主保險費的分擔",
+        "D": "被保險人保險費"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是我國全民健保財源籌措的主要來源?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：中華民國全民健康保險的主要財源來自保險費收入，包括被保險人（民眾）繳納的保費、雇主分擔的保費，以及政府的一般稅收補助（如政府分擔保費及差額補助）。民眾繳納的罰款（如違反健保法規的罰鍰）佔整體保險基金比例極微，並非主要財源籌措來源。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「政府的一般稅收」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「民眾繳納的罰款」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「雇主保險費的分擔」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「被保險人保險費」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n我國全民健康保險財源的籌措管道。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "健保主要財源不包括 -> 民眾繳納的罰款",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "我國全民健康保險財源的籌措管道。",
+      "flashcard_front": "全民健保、財源籌措、主要保費分擔來源",
+      "flashcard_back": "健保主要財源為被保險人保費、雇主分擔保費及政府補助（稅收轉撥）；行政罰款非主要財源。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_051",
+      "question_number": 51,
+      "question_text": "下列何者不屬於肝臟代謝藥物的phase II 反應?",
+      "options": {
+        "A": "acetylation",
+        "B": "glycine conjugation",
+        "C": "sulfation",
+        "D": "hydrolysis"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者不屬於肝臟代謝藥物的phase II 反應?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：肝臟的藥物代謝主要分為兩期：Phase I 反應包括氧化（oxidation）、還原（reduction）和水解（hydrolysis），主要藉由引入或暴露極性官能基。Phase II 反應為結合（conjugation）反應，包括乙醯化（acetylation）、甘胺酸結合（glycine conjugation）、硫酸鹽化（sulfation）與葡萄糖醛酸結合等。水解（hydrolysis）屬於 Phase I，不屬於 Phase II。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「acetylation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「glycine conjugation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「sulfation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「hydrolysis」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n肝臟藥物代謝中 Phase I 與 Phase II 反應的區分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "hydrolysis -> 屬於 Phase I 代謝反應（非 Phase II）",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "肝臟藥物代謝中 Phase I 與 Phase II 反應的區分。",
+      "flashcard_front": "藥物代謝、Phase I vs Phase II、結合反應、水解反應",
+      "flashcard_back": "Phase I 是氧化/還原/水解；Phase II 是接上大分子的結合反應（如轉移酶參與的 acetylation, sulfation）。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_052",
+      "question_number": 52,
+      "question_text": "下列抗腫瘤藥物中,何者可與微小管蛋白 tubulin 結合,進而阻斷 tubulin 聚合成小管,抑制腫瘤細胞生\n長?",
+      "options": {
+        "A": "cisplatin",
+        "B": "cytarabine",
+        "C": "vinorelbine",
+        "D": "docetaxel"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列抗腫瘤藥物中,何者可與微小管蛋白 tubulin 結合,進而阻斷 tubulin 聚合成小管,抑制腫瘤細胞生\n長?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：長春花生物鹼類（Vinca alkaloids，如 vinorelbine、vincristine）可與微小管蛋白（tubulin）結合，進而「阻斷聚合成小管（depolymerization）」，抑制紡錘絲形成。紫杉醇類（Taxanes，如 docetaxel）則是「促進並穩定微管聚合（hyperstabilization）」，兩者機轉相反，為經典考點。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「cisplatin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「cytarabine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「vinorelbine」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「docetaxel」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n抗腫瘤藥物中微管抑制劑（Vinca alkaloids）的作用機轉。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "結合 tubulin 阻斷聚合 -> Vinorelbine",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗腫瘤藥物中微管抑制劑（Vinca alkaloids）的作用機轉。",
+      "flashcard_front": "抗腫瘤藥、結合 tubulin、阻斷微管聚合、紡錘絲抑制",
+      "flashcard_back": "Vinorelbine 屬於長春花生物鹼，機轉為抑制微管聚合；Docetaxel 則是抑制微管解聚（促進聚合穩定），需特別區分。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_053",
+      "question_number": 53,
+      "question_text": "下列關於 aminoglycosides 抗生素之敘述,何者錯誤?",
+      "options": {
+        "A": "可藉由併用 ampicillin 增加藥物穿透細菌的能力,以增強治療 enterococcal endocarditis 效用",
+        "B": "作用強度及毒殺細菌速度與使用劑量呈正相關",
+        "C": "可產生後抗生素效應(postantibiotic effect),因此單日使用單一高劑量會比多次低劑量效用更好",
+        "D": "靜脈注射給藥後在腦脊髓液的濃度比在腎臟皮質中的濃度高"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於 aminoglycosides 抗生素之敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Aminoglycosides 具高度極性且水溶性高，極難穿過血腦障壁（BBB），因此在腦脊髓液（CSF）中的濃度極低。然而它會選擇性地蓄積在腎臟皮質與內耳淋巴液中，這也是其具有腎毒性與耳毒性的主因。此類藥物具濃度依賴性殺菌與顯著的後抗生素效應（PAE），故常採用單日單次高劑量給藥。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可藉由併用 ampicillin 增加藥物穿透細菌的能力,以增強治療 enterococcal endocarditis 效用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「作用強度及毒殺細菌速度與使用劑量呈正相關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「可產生後抗生素效應(postantibiotic effect),因此單日使用單一高劑量會比多次低劑量效用更好」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「靜脈注射給藥後在腦脊髓液的濃度比在腎臟皮質中的濃度高」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nAminoglycosides 類抗生素的藥物動力學與臨床特性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Aminoglycosides 組織濃度 -> 腎臟皮質高、腦脊髓液低",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Aminoglycosides 類抗生素的藥物動力學與臨床特性。",
+      "flashcard_front": "Aminoglycosides、濃度依賴性、後抗生素效應、組織分布（腎臟 vs CSF）",
+      "flashcard_back": "Aminoglycosides 難穿透 BBB，CSF 濃度極低；但會蓄積在腎臟皮質，造成高腎毒性風險。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_054",
+      "question_number": 54,
+      "question_text": "下列治療癌症之抗體藥物中,何者可與乳癌細胞之 HER2 受體結合,而達到抗癌作用?",
+      "options": {
+        "A": "bevacizumab",
+        "B": "necitumumab",
+        "C": "panitumumab",
+        "D": "pertuzumab"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列治療癌症之抗體藥物中,何者可與乳癌細胞之 HER2 受體結合,而達到抗癌作用?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Pertuzumab 是一種單克隆抗體，可特異性結合於乳癌細胞上的 HER2 受體（阻斷其二聚化作用）。Bevacizumab 針對的是 VEGF；Necitumumab 和 Panitumumab 則是針對 EGFR（HER1）。在治療 HER2 陽性乳癌時，Pertuzumab 常與 Trastuzumab 合併使用。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「bevacizumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「necitumumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「panitumumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「pertuzumab」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n標靶抗體藥物與其對應受體（HER2）的結合特性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "結合乳癌 HER2 受體之抗體藥物 -> Pertuzumab",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "標靶抗體藥物與其對應受體（HER2）的結合特性。",
+      "flashcard_front": "乳癌單株抗體、HER2 受體結合、阻斷二聚化",
+      "flashcard_back": "Pertuzumab（與 Trastuzumab）作用於 HER2 受體；Panitumumab 作用於 EGFR；Bevacizumab 作用於 VEGF。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_055",
+      "question_number": 55,
+      "question_text": "下列藥物中,何者可抑制黴菌之cytochrome P450 酵素,進而抑制細胞膜麥角脂醇(ergosterol)生成?",
+      "options": {
+        "A": "amphotericin B",
+        "B": "fluconazole",
+        "C": "griseofulvin",
+        "D": "terbinafine"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者可抑制黴菌之cytochrome P450 酵素,進而抑制細胞膜麥角脂醇(ergosterol)生成?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Fluconazole 屬於唑類（Azoles）抗黴菌藥，機轉為抑制黴菌的 cytochrome P450 酵素（14α-demethylase），阻斷 lanosterol 轉化為 ergosterol。Terbinafine 抑制的是 squalene epoxidase；Amphotericin B 是直接結合已生成的 ergosterol 造成細胞膜穿孔；Griseofulvin 則是抑制微管形成。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「amphotericin B」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「fluconazole」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「griseofulvin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「terbinafine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n抗黴菌藥物的作用機轉分類。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "抑制黴菌 CYP450 阻斷 ergosterol -> Fluconazole",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗黴菌藥物的作用機轉分類。",
+      "flashcard_front": "抗黴菌藥、抑制 CYP450 酵素、阻斷 ergosterol 合成",
+      "flashcard_back": "Fluconazole（Azoles 類）抑制 14α-demethylase 阻斷麥角脂醇合成；Terbinafine 則是抑制 squalene epoxidase。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_056",
+      "question_number": 56,
+      "question_text": "下列藥物中,何者與 warfarin 合併使用時,最可能產生出血的風險?",
+      "options": {
+        "A": "cholestyramine",
+        "B": "chlorthalidone",
+        "C": "benzodiazepines",
+        "D": "amiodarone"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者與 warfarin 合併使用時,最可能產生出血的風險?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Amiodarone 是一種強效的 CYP2C9 抑制劑，而 CYP2C9 是代謝 S-warfarin 的主要酵素。併用 amiodarone 會顯著降低 warfarin 的代謝，使血液中 warfarin 濃度升高、INR 延長，從而大幅增加出血風險。Cholestyramine 則會結合 warfarin 降低其吸收，效果相反。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「cholestyramine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「chlorthalidone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「benzodiazepines」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「amiodarone」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nWarfarin 與其他藥物的交互作用與出血風險。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Warfarin 併用增加出血風險之藥物 -> Amiodarone",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Warfarin 與其他藥物的交互作用與出血風險。",
+      "flashcard_front": "Warfarin 交互作用、CYP2C9 抑制劑、抗心律不整藥、出血風險增加",
+      "flashcard_back": "Amiodarone 會抑制 CYP2C9，使 Warfarin 代謝減少，血藥濃度上升而增加出血風險。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_057",
+      "question_number": 57,
+      "question_text": "下列藥物中,何者最適合用於治療第八凝血因子缺乏之血友病(hemophilia A)?",
+      "options": {
+        "A": "deferoxamine",
+        "B": "desmopressin",
+        "C": "oprelvekin",
+        "D": "ferumoxytol"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者最適合用於治療第八凝血因子缺乏之血友病(hemophilia A)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Desmopressin（DDAVP）為抗利尿激素 V2 受體促效劑，能刺激血管內皮細胞釋放內源性的第八凝血因子（Factor VIII）及 von Willebrand factor（vWF）。因此，它最適合用於輕度至中度血友病 A 及 vWF 缺乏症的急性治療。Deferoxamine 是排鐵劑，Oprelvekin 是 IL-11 類似物（促血小板生長）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「deferoxamine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「desmopressin」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「oprelvekin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「ferumoxytol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nDesmopressin（DDAVP）在血友病 A 治療中的臨床應用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "治療第八凝血因子缺乏 (Hemophilia A) -> Desmopressin",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Desmopressin（DDAVP）在血友病 A 治療中的臨床應用。",
+      "flashcard_front": "血友病 A (Factor VIII 缺乏)、刺激內皮細胞釋放凝血因子、V2 receptor agonist",
+      "flashcard_back": "Desmopressin (DDAVP) 可促使體內儲存的 Factor VIII 與 vWF 釋放，常用於輕中度血友病 A 的治療。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_058",
+      "question_number": 58,
+      "question_text": "下列有關大分子抗體藥物 evolocumab 改善高血脂之敘述,何者錯誤?",
+      "options": {
+        "A": "具抑制 proprotein convertase subtilisin/kexin type 9(PCSK9)之作用",
+        "B": "促使LDL 含量明顯下降",
+        "C": "促使apoB-100 明顯上升",
+        "D": "具有類流感症狀(flu-like symptoms)之副作用"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關大分子抗體藥物 evolocumab 改善高血脂之敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Evolocumab 是一種 PCSK9 單克隆抗體，能阻斷 PCSK9 對 LDL 受體的降解，進而增加肝細胞表面的 LDL 受體數量，使血液中的 LDL-C 及主要結構蛋白 apolipoprotein B-100（apoB-100）顯著「下降」而非上升，故選項C敘述錯誤。常見副作用包含類流感症狀及注射部位反應。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「具抑制 proprotein convertase subtilisin/kexin type 9(PCSK9)之作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「促使LDL 含量明顯下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「促使apoB-100 明顯上升」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「具有類流感症狀(flu-like symptoms)之副作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\nPCSK9 抑制劑 Evolocumab 的降血脂機制與副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Evolocumab 作用效果 -> LDL 下降、apoB-100 下降",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "PCSK9 抑制劑 Evolocumab 的降血脂機制與副作用。",
+      "flashcard_front": "PCSK9 抑制劑、Evolocumab、LDL受體密度、apoB-100 變化",
+      "flashcard_back": "Evolocumab 藉由增加 LDL 受體，加速清除血液中 LDL，使 LDL-C 和 apoB-100 均明顯「下降」。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_059",
+      "question_number": 59,
+      "question_text": "下列何者不是屬於促進胰島素分泌的藥物?",
+      "options": {
+        "A": "nateglinide",
+        "B": "glimepiride",
+        "C": "sulpiride",
+        "D": "repaglinide"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是屬於促進胰島素分泌的藥物?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：促進胰島素分泌的藥物（Insulin secretagogues）主要包括磺醯尿素類（Sulfonylureas，如 glimepiride）以及非磺醯尿素類（Meglitinides，如 nateglinide、repaglinide），兩者皆作用於 ATP-sensitive K+ channel。Sulpiride 則是一種抗精神病藥物（D2 受體拮抗劑），與降血糖完全無關。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「nateglinide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「glimepiride」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「sulpiride」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「repaglinide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n促胰島素分泌降血糖藥物的分類識別。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "不屬於促胰島素分泌的藥物 -> Sulpiride",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "促胰島素分泌降血糖藥物的分類識別。",
+      "flashcard_front": "降血糖藥、促胰島素分泌 (Secretagogues)、Sulfonylureas、Meglitinides",
+      "flashcard_back": "Glimepiride (-amide/-uride) 與 Repaglinide/Nateglinide (-glinide) 皆為促胰島素分泌藥；Sulpiride 是抗精神病藥。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_060",
+      "question_number": 60,
+      "question_text": "下列關於糖皮質素(glucocorticoids)之副作用,何者錯誤?",
+      "options": {
+        "A": "肌肉量和肌力下降",
+        "B": "低血糖",
+        "C": "骨質疏鬆",
+        "D": "消化性潰瘍"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於糖皮質素(glucocorticoids)之副作用,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：糖皮質素具有促進排糖與對抗胰島素的作用（刺激糖質新生與減少周邊組織利用葡萄糖），長期或大劑量使用會導致「高血糖」或類固醇誘發型糖尿病，而非低血糖。其餘副作用如抑制蛋白質合成導致肌肉萎縮、抑制成骨細胞導致骨質疏鬆、以及因抑制前列腺素合成引發消化性潰瘍皆為正確敘述。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「肌肉量和肌力下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「低血糖」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「骨質疏鬆」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「消化性潰瘍」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n糖皮質素（Glucocorticoids）的生理作用與副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Glucocorticoids 副作用 -> 高血糖（非低血糖）",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "糖皮質素（Glucocorticoids）的生理作用與副作用。",
+      "flashcard_front": "糖皮質素副作用、類固醇、血糖影響、骨質與肌肉代謝",
+      "flashcard_back": "糖皮質素長期使用的副作用包含高血糖（非低血糖）、骨質疏鬆、消化性潰瘍以及肌肉無力/萎縮。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_061",
+      "question_number": 61,
+      "question_text": "下列口服利尿劑中,何者屬於 loop diuretics?",
+      "options": {
+        "A": "bumetanide",
+        "B": "acetazolamide",
+        "C": "indapamide",
+        "D": "tolvaptan"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列口服利尿劑中,何者屬於 loop diuretics?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Bumetanide 屬於強效的環利尿劑（Loop diuretics），主要作用於亨耳氏環粗上升支的 Na+/K+/2Cl- 共同輸送體。Acetazolamide 屬於碳酸酐酶抑制劑；Indapamide 屬於 Thiazide 樣利尿劑；Tolvaptan 則是集尿管 V2 受體拮抗劑。\n\n【選項詳解】\n- A. 正確答案。選項內容：「bumetanide」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「acetazolamide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「indapamide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「tolvaptan」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n臨床常見口服利尿劑的分類與識別。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Bumetanide -> 屬於 Loop 利尿劑",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "臨床常見口服利尿劑的分類與識別。",
+      "flashcard_front": "Bumetanide、利尿劑分類、亨耳氏環粗上升支、Na+/K+/2Cl- 抑制",
+      "flashcard_back": "看到 Bumetanide（與 Furosemide, Torsemide）應直覺想到是 Loop 利尿劑，具強效排水與排鉀作用。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_062",
+      "question_number": 62,
+      "question_text": "下列關於 testosterone cypionate 之敘述,何者錯誤?",
+      "options": {
+        "A": "可使用肌肉注射",
+        "B": "會有黃疸(jaundice)的副作用",
+        "C": "可增加 HDL 及降低 LDL 之血中濃度",
+        "D": "會有男性乳房增大之副作用"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於 testosterone cypionate 之敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Testosterone cypionate 為長效雄性素長鏈酯類，外源性給予雄性素或同化類固醇通常會降低血液中高密度脂蛋白（HDL）並增加低密度脂蛋白（LDL）的濃度，增加心血管風險，故選項C敘述相反。其經由肝代謝可能具肝毒性引發黃疸，且在周邊經芳香酶轉化為雌激素而可能導致男性乳房發育。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可使用肌肉注射」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「會有黃疸(jaundice)的副作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「可增加 HDL 及降低 LDL 之血中濃度」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「會有男性乳房增大之副作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n雄性素 Testosterone 及其衍生物的脂質代謝副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "外源性雄性素血脂變化 -> HDL 降低、LDL 增加",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "雄性素 Testosterone 及其衍生物的脂質代謝副作用。",
+      "flashcard_front": "Testosterone cypionate、外源性雄性素、對血脂影響 (HDL/LDL)",
+      "flashcard_back": "外源性雄性素會使 HDL 降低、LDL 增加。不要與雌激素改善血脂的效果混淆。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_063",
+      "question_number": 63,
+      "question_text": "Sacubitril 可與 valsartan 併用治療心衰竭,下列有關其作用機轉之敘述,何者錯誤?",
+      "options": {
+        "A": "sacubitril 會抑制 BNP 及 ANP 的代謝",
+        "B": "sacubitril 會增加 angiotensin I 及 angiotensin II 的含量,因此需要與 valsartan 合用",
+        "C": "valsartan 抑制 AT1受體後,有利於 AT2受體的活化",
+        "D": "sacubitril 不會增加 bradykinin 累積而產生 angioedema"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「Sacubitril 可與 valsartan 併用治療心衰竭,下列有關其作用機轉之敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Sacubitril 屬於腦啡肽酶（neprilysin）抑制劑，不只阻斷 ANP/BNP 的分解，同時也會阻斷 bradykinin 的代謝。因此，Sacubitril 確實會導致 bradykinin 累積，進而增加血管性水腫（angioedema）的風險，故選項D敘述錯誤。為此其與 ACEI 不可併用且需有沖洗期。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「sacubitril 會抑制 BNP 及 ANP 的代謝」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「sacubitril 會增加 angiotensin I 及 angiotensin II 的含量,因此需要與 valsartan 合用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「valsartan 抑制 AT1受體後,有利於 AT2受體的活化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「sacubitril 不會增加 bradykinin 累積而產生 angioedema」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nARNI 藥物組合（Sacubitril/Valsartan）的藥理機轉與副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Sacubitril 代謝抑制 -> 會累積 Bradykinin 並增加 angioedema 風險",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "ARNI 藥物組合（Sacubitril/Valsartan）的藥理機轉與副作用。",
+      "flashcard_front": "Sacubitril、Neprilysin 抑制劑、Bradykinin 代謝、血管性水腫風險",
+      "flashcard_back": "Sacubitril 會抑制 bradykinin 分解導致其累積，從而引發血管性水腫（angioedema）副作用。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_064",
+      "question_number": 64,
+      "question_text": "下列鈣離子通道阻斷劑(calcium channel blocker)中,何者半衰期最短,且無法口服使用於降低血壓?",
+      "options": {
+        "A": "amlodipine",
+        "B": "diltiazem",
+        "C": "clevidipine",
+        "D": "verapamil"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列鈣離子通道阻斷劑(calcium channel blocker)中,何者半衰期最短,且無法口服使用於降低血壓?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Clevidipine 是一種第三代 Dihydropyridine 類 CCB，其特點是半衰期極短（約1-2分鐘），主要在血液及組織中被酯酶快速水解代謝，因此只能以靜脈點滴給藥，用於加護病房或術後的急性血壓控制。Amlodipine 則是典型的超長半衰期口服藥。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「amlodipine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「diltiazem」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「clevidipine」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「verapamil」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n靜脈注射用超短效鈣離子通道阻斷劑（CCB）的動力學特性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "極短半衰期且僅能靜脈注射的 CCB -> Clevidipine",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "靜脈注射用超短效鈣離子通道阻斷劑（CCB）的動力學特性。",
+      "flashcard_front": "超短效 CCB、半衰期 1-2 分鐘、組織酯酶水解、僅限靜脈注射",
+      "flashcard_back": "此藥為 Clevidipine，具備極短半衰期且無法口服，臨床用於急性高血壓急症。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_065",
+      "question_number": 65,
+      "question_text": "下列關於 ipratropium 的敘述,何者最不適當?",
+      "options": {
+        "A": "為 muscarinic cholinergic receptor 的拮抗劑",
+        "B": "最常用的劑型為吸入劑型與霧化劑型",
+        "C": "常用於慢性阻塞性肺病(chronic obstructive pulmonary disease),幫助支氣管擴張",
+        "D": "常用於青光眼(glaucoma),幫助房水(aqueous humor)排出"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於 ipratropium 的敘述,何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Ipratropium 為第四級銨抗膽鹼（M receptor 拮抗劑），吸入給藥不易吸收入血，常局部用於 COPD 與氣喘以鬆弛支氣管平滑肌。由於其具抗膽鹼作用，會阻礙房水排出、散大瞳孔，因此在青光眼（特別是閉角型）患者中應審慎使用或視為相對禁忌，絕非用於治療青光眼。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「為 muscarinic cholinergic receptor 的拮抗劑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「最常用的劑型為吸入劑型與霧化劑型」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「常用於慢性阻塞性肺病(chronic obstructive pulmonary disease),幫助支氣管擴張」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「常用於青光眼(glaucoma),幫助房水(aqueous humor)排出」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n抗膽鹼藥物 Ipratropium 的臨床應用與禁忌。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Ipratropium 應用 -> 用於 COPD 擴張支氣管（青光眼為其禁忌/小心使用）",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗膽鹼藥物 Ipratropium 的臨床應用與禁忌。",
+      "flashcard_front": "Ipratropium、吸入型抗膽鹼藥、COPD、青光眼影響",
+      "flashcard_back": "Ipratropium 拮抗 M 受體以擴張支氣管；因具抗膽鹼作用，對青光眼有害而非治療用藥。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_066",
+      "question_number": 66,
+      "question_text": "病人使用 clonidine 時,最不容易出現下列何種效果?",
+      "options": {
+        "A": "血壓降低",
+        "B": "口乾舌燥",
+        "C": "嚴重腹瀉",
+        "D": "更年期熱潮紅(menopausal hot flushes)減輕"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「病人使用 clonidine 時,最不容易出現下列何種效果?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Clonidine 作為中樞 alpha-2 受體促效劑，能減少交感神經傳導物質釋放，導致血壓降低、心跳減慢。其常見副作用為口乾舌燥、鎮靜與「便秘」，而非嚴重腹瀉。另外它在臨床上也可非標籤使用於緩減女性更年期熱潮紅及中樞戒斷症狀。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「血壓降低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「口乾舌燥」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「嚴重腹瀉」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「更年期熱潮紅(menopausal hot flushes)減輕」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\nAlpha-2 受體促效劑 Clonidine 的藥理作用與副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Clonidine 副作用 -> 口乾、便秘（不易出現嚴重腹瀉）",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "Alpha-2 受體促效劑 Clonidine 的藥理作用與副作用。",
+      "flashcard_front": "Clonidine、中樞 alpha-2 agonist、血壓調節、自主神經副作用",
+      "flashcard_back": "Clonidine 常見副作用包括口乾、鎮靜及便秘（降低中樞交感）；絕非引發嚴重腹瀉。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_067",
+      "question_number": 67,
+      "question_text": "下列呼吸道治療藥物中,何者亦可治療慢性復發蕁麻疹(chronic recurrent urticaria)及花生過敏?",
+      "options": {
+        "A": "albuterol",
+        "B": "dupilumab",
+        "C": "roflumilast",
+        "D": "omalizumab"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列呼吸道治療藥物中,何者亦可治療慢性復發蕁麻疹(chronic recurrent urticaria)及花生過敏?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Omalizumab 是一種針對自由型 IgE 的重組人類化單克隆抗體，能阻斷 IgE 與肥大細胞/嗜鹼性球結合。臨床上除了用於治療重度過敏性氣喘外，亦被核准用於治療慢性自發性/復發性蕁麻疹以及花生等食物過敏。Dupilumab 則是針對 IL-4R alpha（阻斷 IL-4/IL-13）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「albuterol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「dupilumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「roflumilast」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「omalizumab」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n抗 IgE 單株抗體 Omalizumab 的臨床多重適應症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "抗 IgE 單株抗體、治療氣喘與蕁麻疹/花生過敏 -> Omalizumab",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗 IgE 單株抗體 Omalizumab 的臨床多重適應症。",
+      "flashcard_front": "抗 IgE 單株抗體、重度氣喘、慢性復發蕁麻疹、花生過敏治療",
+      "flashcard_back": "此藥為 Omalizumab，藉由中和 IgE 阻斷過敏級聯反應，可同時處理過敏性氣喘與嚴重蕁麻疹/食物過敏。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_068",
+      "question_number": 68,
+      "question_text": "下列何種胃腸道藥物是 cystic fibrosis transmembrane conductance regulator 抑制劑,最適合用於治療\nHIV 藥物引起的腹瀉?",
+      "options": {
+        "A": "linaclotide",
+        "B": "crofelemer",
+        "C": "diphenoxylate",
+        "D": "docusate"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種胃腸道藥物是 cystic fibrosis transmembrane conductance regulator 抑制劑,最適合用於治療\nHIV 藥物引起的腹瀉?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Crofelemer 是一種植物來源的抗腹瀉藥，其機制為同時抑制腸道上皮的 CFTR 氯離子通道及鈣離子活化氯離子通道（CaCC），藉由減少腸道分泌水分與電解質來緩解分泌性腹瀉。臨床上它特別獲准用於治療接受抗反轉錄病毒（ART）藥物治療的 HIV/AIDS 患者所伴隨的非感染性腹瀉。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「linaclotide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「crofelemer」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「diphenoxylate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「docusate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nCFTR 抑制劑 Crofelemer 的臨床機轉與定位。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "CFTR 抑制劑、治療 HIV 藥物腹瀉 -> Crofelemer",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "CFTR 抑制劑 Crofelemer 的臨床機轉與定位。",
+      "flashcard_front": "CFTR 氯離子通道抑制劑、HIV 藥物引起腹瀉、減少腸道分泌",
+      "flashcard_back": "Crofelemer 藉由抑制 CFTR 來減少腸腔水分分泌，專門用於緩解 HIV 患者因抗病毒藥引起的分泌性腹瀉。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_069",
+      "question_number": 69,
+      "question_text": "下列何者為 PGE1衍生物,可用來治療便秘型腸躁症(irritable bowel syndrome with constipation)?",
+      "options": {
+        "A": "linaclotide",
+        "B": "prucalopride",
+        "C": "lubiprostone",
+        "D": "bimatoprost"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者為 PGE1衍生物,可用來治療便秘型腸躁症(irritable bowel syndrome with constipation)?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Lubiprostone 是一種前列腺素 E1（PGE1）衍生物，主要藉由局部活化腸上皮細胞表面的 2 型氯離子通道（ClC-2），增加腸液分泌並促進腸道蠕動，臨床用於治療便秘型腸躁症（IBS-C）。Linaclotide 雖也用於 IBS-C，但它是 guanylate cyclase-C 促效劑；Prucalopride 則是 5-HT4 促效劑。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「linaclotide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「prucalopride」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「lubiprostone」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「bimatoprost」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n治療便秘型腸躁症之 PGE1 衍生物機轉。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "PGE1 衍生物、治療 IBS-C -> Lubiprostone",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "治療便秘型腸躁症之 PGE1 衍生物機轉。",
+      "flashcard_front": "PGE1 衍生物、活化 ClC-2 氯離子通道、治療便秘型腸躁症 (IBS-C)",
+      "flashcard_back": "此藥為 Lubiprostone。需注意它是藉由 ClC-2 通道排水來軟化糞便，不要與 Linaclotide（GC-C 促效劑）的機轉混淆。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_070",
+      "question_number": 70,
+      "question_text": "下列治療類風濕性關節炎的藥物中,何者不是經由直接抑制 TNF-α的作用而產生療效?",
+      "options": {
+        "A": "infliximab",
+        "B": "etanercept",
+        "C": "adalimumab",
+        "D": "abatacept"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列治療類風濕性關節炎的藥物中,何者不是經由直接抑制 TNF-α的作用而產生療效?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Infliximab、Adalimumab（單株抗體）與 Etanercept（可溶性受體融合蛋白）皆是直接與 TNF-α 結合並阻斷其作用的抗 TNF-α 生物製劑。Abatacept 的機轉則是作為 CTLA-4 融合蛋白，結合 T 細胞活化所需的 CD80/CD86，進而「抑制 T 細胞活化」，並非直接抑制 TNF-α。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「infliximab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「etanercept」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「adalimumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「abatacept」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n生物製劑 DMARDs 的藥理作用標靶區分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "非經由直接抑制 TNF-α 作用之 RA 生物製劑 -> Abatacept",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "生物製劑 DMARDs 的藥理作用標靶區分。",
+      "flashcard_front": "類風濕關節炎生物製劑、CTLA-4 融合蛋白、阻斷 CD80/CD86、抑制 T 細胞活化",
+      "flashcard_back": "Abatacept 的機制是抑制 T 細胞共同刺激訊號，非抗 TNF-α 生物製劑（如 -mab 類或 Etanercept）。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_071",
+      "question_number": 71,
+      "question_text": "下列何種藥物可併用 opioid 來減低病人術後的疼痛,但不建議使用超過 5 天?",
+      "options": {
+        "A": "belimumab",
+        "B": "tramadol",
+        "C": "ketorolac",
+        "D": "ibuprofen"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種藥物可併用 opioid 來減低病人術後的疼痛,但不建議使用超過 5 天?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Ketorolac 是一種止痛效果極強的 NSAID，常以靜脈或肌肉注射方式與嗎啡類藥物（Opioids）併用於術後中重度疼痛控制，以達到降低類鴉片藥物劑量的效果。然而因其具備極高的胃腸道潰瘍、出血以及急性腎損傷風險，臨床指引嚴格限制其連續使用不得超過5天。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「belimumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「tramadol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「ketorolac」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「ibuprofen」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n強效 NSAID 藥物 Ketorolac 的臨床應用限制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "術後強效止痛、限制連續使用不超過 5 天之 NSAID -> Ketorolac",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "強效 NSAID 藥物 Ketorolac 的臨床應用限制。",
+      "flashcard_front": "強效非選擇性 NSAID、術後止痛、併用嗎啡類、嚴格限制使用不超過 5 天",
+      "flashcard_back": "此藥為 Ketorolac，止痛效果強但全身性毒性大，故規定連續給藥上限為 5 天。常與 Ibuprofen 混淆但後者無此嚴格天數限制。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_072",
+      "question_number": 72,
+      "question_text": "下列關於 ethosuximide 之敘述,何者錯誤?",
+      "options": {
+        "A": "突然停藥可能會加重 absence seizure",
+        "B": "可抑制丘腦皮質神經細胞之 T-type calcium channels",
+        "C": "合併使用 valproate 時,ethosuximide 之療效會降低",
+        "D": "最常見的副作用為胃腸不適"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於 ethosuximide 之敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Ethosuximide 主要阻斷丘腦皮質神經元的 T-type 鈣離子通道，為失神性癲癇（Absence seizure）的首選藥物。當與 Valproate（丙戊酸）併用時，Valproate 會抑制 Ethosuximide 的代謝，反而導致其血中濃度升高、療效或毒性增加，而非使療效降低，故選項C敘述錯誤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「突然停藥可能會加重 absence seizure」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「可抑制丘腦皮質神經細胞之 T-type calcium channels」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「合併使用 valproate 時,ethosuximide 之療效會降低」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「最常見的副作用為胃腸不適」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n抗癲癇藥物 Ethosuximide 的藥動力學交互作用與臨床性質。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Ethosuximide 併用 Valproate -> 代謝受抑制使濃度與療效增加",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "抗癲癇藥物 Ethosuximide 的藥動力學交互作用與臨床性質。",
+      "flashcard_front": "Ethosuximide、失神性癲癇首選、T-type 鈣通道阻斷、併用 Valproate 效應",
+      "flashcard_back": "Valproate 會抑制 Ethosuximide 的代謝，使後者血藥濃度上升，故併用時療效與毒性會「增加」而非降低。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_073",
+      "question_number": 73,
+      "question_text": "下列治療阿茲海默症(Alzheimer disease)的藥物,何者的藥理作用機制與其他三個藥物不同?",
+      "options": {
+        "A": "memantine",
+        "B": "donepezil",
+        "C": "rivastigmine",
+        "D": "galantamine"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列治療阿茲海默症(Alzheimer disease)的藥物,何者的藥理作用機制與其他三個藥物不同?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Donepezil、Rivastigmine 與 Galantamine 皆屬於乙醯膽鹼酶抑制劑（AChEI），藉由減少膽鹼降解來增加突觸間隙的乙醯膽鹼濃度。Memantine 則是 NMDA 受體（麩氨酸受體）的非競爭性拮抗劑，其機轉完全不同，臨床用於中重度阿茲海默症。\n\n【選項詳解】\n- A. 正確答案。選項內容：「memantine」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「donepezil」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「rivastigmine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「galantamine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n治療阿茲海默症藥物的機轉分類區分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "非屬乙醯膽鹼酶抑制劑之阿茲海默症藥物 -> Memantine",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "治療阿茲海默症藥物的機轉分類區分。",
+      "flashcard_front": "阿茲海默症藥物、NMDA 受體拮抗劑 vs 乙醯膽鹼酶抑制劑 (AChEI)",
+      "flashcard_back": "Memantine 作用於 NMDA 受體；Donepezil/Rivastigmine/Galantamine 則是一組的 AChEI，需將兩類機轉拆開記憶。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_074",
+      "question_number": 74,
+      "question_text": "下列藥物中,何者可經由拮抗 orexin 受體產生安眠作用?",
+      "options": {
+        "A": "tasimelteon",
+        "B": "suvorexant",
+        "C": "midazolam",
+        "D": "buspirone"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者可經由拮抗 orexin 受體產生安眠作用?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Suvorexant（及 Lemborexant）屬於雙重食慾素受體拮抗劑（DORA），藉由阻斷下視丘食慾素受體（OX1R/OX2R）來抑制覺醒訊號，達到助眠效果。Tasimelteon 是褪黑激素促效劑；Midazolam 是 BZD 類藥物；Buspirone 是 5-HT1A 促效劑（抗焦慮）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「tasimelteon」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「suvorexant」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「midazolam」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「buspirone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n新型安眠藥 Orexin 受體拮抗劑的藥物識別。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Orexin 受體拮抗劑安眠藥 -> Suvorexant",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "新型安眠藥 Orexin 受體拮抗劑的藥物識別。",
+      "flashcard_front": "新興安眠藥、拮抗 Orexin (食慾素) 受體、抑制覺醒驅動力",
+      "flashcard_back": "看到字尾 -orexant（如 Suvorexant）即代表 Orexin 受體拮抗劑，用以治療失眠，不要與褪黑激素類混淆。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_075",
+      "question_number": 75,
+      "question_text": "下列何種天然藥物因其具有提高T cell 活性的免疫調節作用,可用於治療上呼吸道感染(upper \nrespiratory infection)?",
+      "options": {
+        "A": "St. John's wort",
+        "B": "Echinacea",
+        "C": "Vinca alkaloids",
+        "D": "Ginkgo"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種天然藥物因其具有提高T cell 活性的免疫調節作用,可用於治療上呼吸道感染(upper \nrespiratory infection)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Echinacea（紫錐花）在草藥學與補充醫學中，主要被認為具有刺激免疫系統（提高 T 細胞活性、吞噬作用）的效果，臨床常用於預防或早期治療感冒與上呼吸道感染。St. John's wort 用於輕度憂鬱；Ginkgo 用於改善末梢血液循環。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「St. John's wort」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「Echinacea」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「Vinca alkaloids」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「Ginkgo」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n天然植物藥（草藥）Echinacea（紫錐花）的藥理功效。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "增強免疫治療上呼吸道感染的草藥 -> Echinacea",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "天然植物藥（草藥）Echinacea（紫錐花）的藥理功效。",
+      "flashcard_front": "天然草藥、提高 T cell 活性、免疫調節、上呼吸道感染/感冒早期應用",
+      "flashcard_back": "此植物為 Echinacea（紫錐花），主打增強免疫以對抗上呼吸道感染。常與 St. John's wort（抗憂鬱且具強烈 CYP 誘導）混淆。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_076",
+      "question_number": 76,
+      "question_text": "下列何種磷脂質於細胞凋亡後,會由細胞膜的內層翻轉出來到細胞膜的外層,被巨噬細胞識別以進行吞噬作\n用?",
+      "options": {
+        "A": "phosphatidylcholine",
+        "B": "phosphatidylserine",
+        "C": "sphingomyelin",
+        "D": "glycolipid"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種磷脂質於細胞凋亡後,會由細胞膜的內層翻轉出來到細胞膜的外層,被巨噬細胞識別以進行吞噬作\n用?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在正常細胞膜中，磷脂醯絲胺酸（Phosphatidylserine）位於細胞膜內層。當細胞進行凋亡（Apoptosis）時，它會翻轉至外層，作為一種「吃我（eat-me）」訊號，被巨噬細胞表面的受體識別並進行吞噬，這是不引起發炎反應的細胞清除機制。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「phosphatidylcholine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「phosphatidylserine」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「sphingomyelin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「glycolipid」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n細胞凋亡過程中磷脂質的翻轉現象。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "凋亡細胞膜外層磷脂質 -> Phosphatidylserine",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "細胞凋亡過程中磷脂質的翻轉現象。",
+      "flashcard_front": "細胞凋亡、磷脂質翻轉、巨噬細胞吞噬訊號",
+      "flashcard_back": "細胞凋亡時，Phosphatidylserine 翻轉至膜外層，作為吞噬訊號（eat-me signal）被巨噬細胞辨識。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_077",
+      "question_number": 77,
+      "question_text": "下列那一路徑之活化,被認為是生理性肥大(physiologic hypertrophy)中最重要的機制?",
+      "options": {
+        "A": "PI3K/AKT 路徑",
+        "B": "Bax/Bc1-2 路徑",
+        "C": "EGFR/RAS/RAF 路徑",
+        "D": "Wnt/β-catenin 路徑"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列那一路徑之活化,被認為是生理性肥大(physiologic hypertrophy)中最重要的機制?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：生理性肥大（如運動員的心臟肥大）通常與 PI3K/AKT 路徑的活化密切相關，能促進蛋白質合成與細胞生長；而病理性肥大（如高血壓引起的心臟肥大）則更常涉及 G 蛋白偶聯受體（GPCR）路徑。兩者的分子信號傳導途徑不同。\n\n【選項詳解】\n- A. 正確答案。選項內容：「PI3K/AKT 路徑」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「Bax/Bc1-2 路徑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「EGFR/RAS/RAF 路徑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「Wnt/β-catenin 路徑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n生理性肥大（Physiologic hypertrophy）的關鍵分子機制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "生理性肥大活化機制 -> PI3K/AKT 路徑",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "生理性肥大（Physiologic hypertrophy）的關鍵分子機制。",
+      "flashcard_front": "生理性肥大、心臟肥大機制、PI3K/AKT 路徑",
+      "flashcard_back": "生理性肥大最主要依靠 PI3K/AKT 路徑活化；病理性肥大則多與 G 蛋白相關訊號路徑有關。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_078",
+      "question_number": 78,
+      "question_text": "有關病毒感染與疾病的關係,下列何者錯誤?",
+      "options": {
+        "A": "human papillomavirus 與毛樣白斑病(hairy leukoplakia)",
+        "B": "human herpesvirus 8 與原發性體液淋巴瘤(primary effusion lymphoma)",
+        "C": "Epstein-Barr virus 與淋巴結外鼻腔型自然殺手/T 細胞淋巴瘤(extranodal nasal type NK/T-cell \nlymphoma)",
+        "D": "JC polyomavirus 與進行性多灶性白質腦病(progressive multifocal leukoencephalopathy)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關病毒感染與疾病的關係,下列何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：毛樣白斑病（Hairy leukoplakia）是與 Epstein-Barr virus (EBV) 相關，常見於免疫不全患者（如 HIV 感染者），並非 HPV 引起。其他選項皆為正確配對：HHV-8 與原發性體液淋巴瘤、EBV 與鼻腔型 NK/T 細胞淋巴瘤、JC virus 與 PML 皆為臨床常見之病毒相關疾病。\n\n【選項詳解】\n- A. 正確答案。選項內容：「human papillomavirus 與毛樣白斑病(hairy leukoplakia)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「human herpesvirus 8 與原發性體液淋巴瘤(primary effusion lymphoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「Epstein-Barr virus 與淋巴結外鼻腔型自然殺手/T 細胞淋巴瘤(extranodal nasal type NK/T-cell \nlymphoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「JC polyomavirus 與進行性多灶性白質腦病(progressive multifocal leukoencephalopathy)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n病毒感染與相關腫瘤/病變的配對。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "毛樣白斑病 -> 與 EBV 有關 (非 HPV)",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "病毒感染與相關腫瘤/病變的配對。",
+      "flashcard_front": "病毒感染與疾病、毛樣白斑病、HPV、EBV",
+      "flashcard_back": "毛樣白斑病由 EBV 引起；HPV 常見於尖頭濕疣（condyloma acuminatum）或子宮頸癌。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_079",
+      "question_number": 79,
+      "question_text": "腎臟移植後腎臟切片發現腎臟間質、腎小管上皮細胞間與血管內皮有淋巴細胞浸潤,有小血管壁出現壞死現\n象,未出現間質纖維化與腎小管萎縮,螢光染色未發現有抗體或 C4d 補體沉積。下列何者為最可能的診斷?",
+      "options": {
+        "A": "慢性排斥(chronic rejection)",
+        "B": "超急性排斥(hyperacute rejection)",
+        "C": "急性細胞排斥(acute cellular rejection)",
+        "D": "急性抗體媒介排斥(acute antibody-mediated rejection)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「腎臟移植後腎臟切片發現腎臟間質、腎小管上皮細胞間與血管內皮有淋巴細胞浸潤,有小血管壁出現壞死現\n象,未出現間質纖維化與腎小管萎縮,螢光染色未發現有抗體或 C4d 補體沉積。下列何者為最可能的診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性細胞排斥（Acute cellular rejection）的病理特徵為淋巴細胞浸潤於間質與腎小管（tubulitis）並可能出現血管炎（endarteritis），且免疫螢光檢查通常為陰性（無抗體或補體沉積）。若有 C4d 沉積則需考慮急性抗體媒介排斥（AMR），若有纖維化則傾向慢性排斥。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「慢性排斥(chronic rejection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「超急性排斥(hyperacute rejection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「急性細胞排斥(acute cellular rejection)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「急性抗體媒介排斥(acute antibody-mediated rejection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n腎臟移植排斥反應的病理診斷。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "腎移植浸潤且 C4d 陰性 -> 急性細胞排斥 (Acute cellular rejection)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "腎臟移植排斥反應的病理診斷。",
+      "flashcard_front": "腎移植、淋巴細胞浸潤、tubulitis、C4d 陰性",
+      "flashcard_back": "細胞性排斥特徵為 T 細胞浸潤腎小管，且無抗體媒介（C4d 陰性）之證據。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_080",
+      "question_number": 80,
+      "question_text": "癩皮病(pellagra)最主要是缺乏何種營養因子所引起?",
+      "options": {
+        "A": "vitamin B1(thiamine)",
+        "B": "vitamin B2(riboflavin)",
+        "C": "niacin",
+        "D": "vitamin B6(pyridoxine)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「癩皮病(pellagra)最主要是缺乏何種營養因子所引起?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：癩皮病（Pellagra）為典型的菸鹼酸（Niacin, Vitamin B3）缺乏症，臨床表現為「3D」症狀：皮膚炎（Dermatitis）、腹瀉（Diarrhea）與失智（Dementia），若不治療可進展為死亡（Death）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「vitamin B1(thiamine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「vitamin B2(riboflavin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「niacin」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「vitamin B6(pyridoxine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n癩皮病（Pellagra）的缺乏營養因子。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "癩皮病 (Pellagra) -> 缺乏 Niacin (B3)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "癩皮病（Pellagra）的缺乏營養因子。",
+      "flashcard_front": "癩皮病、Pellagra、3D 症狀、缺乏營養素",
+      "flashcard_back": "癩皮病由 Niacin (B3) 缺乏引起，特徵為皮膚炎、腹瀉、癡呆。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_081",
+      "question_number": 81,
+      "question_text": "60 歲男性突然發生心肌梗塞,於心肌梗塞發生後三小時死亡,解剖時肉眼檢查心臟最可能會看到什麼?",
+      "options": {
+        "A": "看不出變化",
+        "B": "梗塞區域的心肌較為暗紅色,質地較軟",
+        "C": "梗塞區域呈現黃色,質地較軟",
+        "D": "邊界清楚的凹陷區域,質地較硬"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「60 歲男性突然發生心肌梗塞,於心肌梗塞發生後三小時死亡,解剖時肉眼檢查心臟最可能會看到什麼?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：心肌梗塞發生後 0-4 小時內，心臟肉眼檢查通常看不出變化（Macroscopic changes）。最早的肉眼變化通常需等到 12-24 小時後才開始出現暗紅色或質地軟化，因此死亡三小時後解剖是看不出變化的。\n\n【選項詳解】\n- A. 正確答案。選項內容：「看不出變化」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「梗塞區域的心肌較為暗紅色,質地較軟」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「梗塞區域呈現黃色,質地較軟」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「邊界清楚的凹陷區域,質地較硬」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n急性心肌梗塞後早期病理變化。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "心梗 3 小時內肉眼變化 -> 看不出變化",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "急性心肌梗塞後早期病理變化。",
+      "flashcard_front": "心肌梗塞、死亡後 3 小時、肉眼檢查",
+      "flashcard_back": "心肌梗塞發生後 4 小時內，肉眼看不出病理變化；12-24 小時才會有明顯梗塞區特徵。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_082",
+      "question_number": 82,
+      "question_text": "下列造成水腫的原因中,何者的主要致病機轉與血中的滲透壓下降最無相關?",
+      "options": {
+        "A": "肝硬化(liver cirrhosis)",
+        "B": "腎病症候群(nephrotic syndrome)",
+        "C": "營養不良(malnutrition)",
+        "D": "鬱血性心衰竭(congestive heart failure)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列造成水腫的原因中,何者的主要致病機轉與血中的滲透壓下降最無相關?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：鬱血性心衰竭引起的水腫主要機轉是靜脈壓升高（流體靜力壓增加）及鈉水滯留（RAAS 活化），並非血液滲透壓下降。肝硬化（白蛋白合成不足）、腎病症候群（蛋白尿漏出）、營養不良（原料不足）皆會直接導致血漿蛋白過低，引起滲透壓下降。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「肝硬化(liver cirrhosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「腎病症候群(nephrotic syndrome)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「營養不良(malnutrition)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「鬱血性心衰竭(congestive heart failure)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n不同原因引起水腫的致病機轉。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "非滲透壓下降造成的水腫 -> 鬱血性心衰竭",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "不同原因引起水腫的致病機轉。",
+      "flashcard_front": "水腫原因、滲透壓下降、靜脈壓升高",
+      "flashcard_back": "心衰竭主要因靜脈壓升高（hydrostatic pressure）引起水腫，非滲透壓下降（oncotic pressure）。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_083",
+      "question_number": 83,
+      "question_text": "關於巨細胞動脈炎(giant cell arteritis)的臨床病理特徵,下列何者正確?",
+      "options": {
+        "A": "主要影響頭部的血管",
+        "B": "冠狀動脈(coronary artery)出現動脈瘤(aneurysm)是此疾病常見的併發症",
+        "C": "嗜伊紅性白血球(eosinophil)出現在發炎的血管是此疾病的重要病理表現",
+        "D": "此疾病多出現在 35 歲以前的年輕人,可能會造成視力減退"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「關於巨細胞動脈炎(giant cell arteritis)的臨床病理特徵,下列何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：巨細胞動脈炎（又稱顳動脈炎）主要影響老年人（50歲以上），侵犯頭部血管（特別是顳動脈），可導致失明。其病理表現為肉芽腫性發炎，內含有多核巨細胞（multinucleated giant cells），並非嗜伊紅性白血球浸潤，也不是年輕人常見疾病。\n\n【選項詳解】\n- A. 正確答案。選項內容：「主要影響頭部的血管」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「冠狀動脈(coronary artery)出現動脈瘤(aneurysm)是此疾病常見的併發症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「嗜伊紅性白血球(eosinophil)出現在發炎的血管是此疾病的重要病理表現」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「此疾病多出現在 35 歲以前的年輕人,可能會造成視力減退」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n巨細胞動脈炎（Giant cell arteritis）的特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "巨細胞動脈炎主要影響 -> 頭部血管 (顳動脈)",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "巨細胞動脈炎（Giant cell arteritis）的特徵。",
+      "flashcard_front": "巨細胞動脈炎、顳動脈炎、老年人、血管病理表現",
+      "flashcard_back": "主要侵犯頭部血管，病理特徵為肉芽腫性炎症與巨細胞，常造成老年人失明。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_084",
+      "question_number": 84,
+      "question_text": "在缺鐵性貧血(iron deficiency anemia)的病人,下列何者最可能高於正常值?",
+      "options": {
+        "A": "血比容(hematocrit)",
+        "B": "紅血球的平均血紅素濃度(mean cell hemoglobin concentration)",
+        "C": "血漿的總鐵結合力(total iron-binding capacity)",
+        "D": "血清中的鐵蛋白(ferritin)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「在缺鐵性貧血(iron deficiency anemia)的病人,下列何者最可能高於正常值?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：缺鐵性貧血時，體內儲鐵耗盡（Ferritin 降低）且血清鐵（Serum iron）降低，導致身體為了補償而增加鐵轉運蛋白（Transferrin）的產生，因此血漿的總鐵結合力（TIBC）會顯著升高。這與貧血狀況下的血比容下降相反。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「血比容(hematocrit)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「紅血球的平均血紅素濃度(mean cell hemoglobin concentration)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「血漿的總鐵結合力(total iron-binding capacity)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「血清中的鐵蛋白(ferritin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n缺鐵性貧血的實驗室檢驗數據。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "缺鐵貧血升高之數值 -> 總鐵結合力 (TIBC)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "缺鐵性貧血的實驗室檢驗數據。",
+      "flashcard_front": "缺鐵性貧血、總鐵結合力 (TIBC)、鐵蛋白 (Ferritin)",
+      "flashcard_back": "缺鐵貧血時，TIBC 升高以代償鐵質吸收，而 Ferritin 與 Serum iron 則是下降的。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_085",
+      "question_number": 85,
+      "question_text": "葡萄糖-6-磷酸鹽去氫酶(glucose-6-phosphate dehydrogenase, G6PD)缺乏症是何種遺傳?",
+      "options": {
+        "A": "體染色體顯性(autosomal dominant)遺傳",
+        "B": "體染色體隱性(autosomal recessive)遺傳",
+        "C": "性聯顯性(X-linked dominant)遺傳",
+        "D": "性聯隱性(X-linked recessive)遺傳"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「葡萄糖-6-磷酸鹽去氫酶(glucose-6-phosphate dehydrogenase, G6PD)缺乏症是何種遺傳?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：葡萄糖-6-磷酸鹽去氫酶（G6PD）缺乏症是一種性聯隱性（X-linked recessive）遺傳疾病，因此臨床上男性發病率明顯高於女性。患者在接觸蠶豆或特定藥物時，容易發生急性溶血。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「體染色體顯性(autosomal dominant)遺傳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「體染色體隱性(autosomal recessive)遺傳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「性聯顯性(X-linked dominant)遺傳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「性聯隱性(X-linked recessive)遺傳」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nG6PD 缺乏症的遺傳模式。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "G6PD 缺乏症遺傳 -> 性聯隱性遺傳",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "G6PD 缺乏症的遺傳模式。",
+      "flashcard_front": "G6PD 缺乏症、溶血性貧血、遺傳模式",
+      "flashcard_back": "G6PD 缺乏症為 X-linked recessive（性聯隱性）遺傳，男性常見。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_086",
+      "question_number": 86,
+      "question_text": "關於乳糜瀉(celiac disease),下列敘述何者最不適當?",
+      "options": {
+        "A": "又稱麩質敏感腸病(gluten-sensitive enteropathy)",
+        "B": "與 HLA-DQ2 或 HLA-DQ8 等位基因有關",
+        "C": "組織病理學特徵包含上皮內淋巴球增多(intraepithelial lymphocytosis)",
+        "D": "最常發生的惡性腫瘤是腸病相關 B 細胞淋巴瘤(enteropathy-associated B-cell lymphoma)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「關於乳糜瀉(celiac disease),下列敘述何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：乳糜瀉患者長期未經麩質飲食控制，最常見的惡性腫瘤是「腸病相關 T 細胞淋巴瘤（Enteropathy-associated T-cell lymphoma, EATL）」，而不是 B 細胞淋巴瘤。此疾病確實與 HLA-DQ2/DQ8 高度相關，且病理上常見 villous atrophy 與上皮內淋巴球增多。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「又稱麩質敏感腸病(gluten-sensitive enteropathy)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「與 HLA-DQ2 或 HLA-DQ8 等位基因有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「組織病理學特徵包含上皮內淋巴球增多(intraepithelial lymphocytosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「最常發生的惡性腫瘤是腸病相關 B 細胞淋巴瘤(enteropathy-associated B-cell lymphoma)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n乳糜瀉（Celiac disease）的長期併發症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "乳糜瀉最常見淋巴瘤 -> T 細胞淋巴瘤 (EATL)",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "乳糜瀉（Celiac disease）的長期併發症。",
+      "flashcard_front": "乳糜瀉、麩質敏感腸病、HLA-DQ2/DQ8、常見腫瘤",
+      "flashcard_back": "乳糜瀉惡性腫瘤併發症為 T 細胞淋巴瘤（EATL），非 B 細胞來源。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_087",
+      "question_number": 87,
+      "question_text": "高惡性度漿液性卵巢癌(high-grade ovarian serous carcinoma)最常突變的基因為:",
+      "options": {
+        "A": "TP53",
+        "B": "KRAS",
+        "C": "BRAF",
+        "D": "ESR1"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「高惡性度漿液性卵巢癌(high-grade ovarian serous carcinoma)最常突變的基因為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：高惡性度漿液性卵巢癌（High-grade serous carcinoma）幾乎所有病例（>95%）都具有 TP53 基因突變，這是其最核心的分子診斷特徵。其他如 KRAS/BRAF 突變則較常見於低惡性度漿液性卵巢癌。\n\n【選項詳解】\n- A. 正確答案。選項內容：「TP53」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「KRAS」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「BRAF」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「ESR1」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n高惡性度漿液性卵巢癌的分子遺傳學特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "高惡性度漿液性卵巢癌突變基因 -> TP53",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "高惡性度漿液性卵巢癌的分子遺傳學特徵。",
+      "flashcard_front": "高惡性度漿液性卵巢癌、卵巢腫瘤、突變基因",
+      "flashcard_back": "幾乎所有高惡性度漿液性癌都有 TP53 突變；KRAS/BRAF 則常見於低惡性度腫瘤。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_088",
+      "question_number": 88,
+      "question_text": "多重系統退化症(multiple system atrophy)患者中,下列何種細胞最易見到α-突觸核蛋白(α-\nsynuclein)包涵體?",
+      "options": {
+        "A": "星狀細胞(astrocyte)",
+        "B": "寡樹突細胞(oligodendrocyte)",
+        "C": "微膠細胞(microglia)",
+        "D": "血管內皮細胞(endothelial cell)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「多重系統退化症(multiple system atrophy)患者中,下列何種細胞最易見到α-突觸核蛋白(α-\nsynuclein)包涵體?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：多重系統退化症（Multiple system atrophy, MSA）的病理標誌為寡樹突細胞（Oligodendrocyte）內出現富含 α-synuclein 的包涵體，即 glial cytoplasmic inclusions (GCIs, 也稱為 Papp-Lantos bodies)。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「星狀細胞(astrocyte)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「寡樹突細胞(oligodendrocyte)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「微膠細胞(microglia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「血管內皮細胞(endothelial cell)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n多重系統退化症（MSA）的病理特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "MSA α-synuclein 包涵體所在 -> 寡樹突細胞 (Oligodendrocyte)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "多重系統退化症（MSA）的病理特徵。",
+      "flashcard_front": "MSA、多重系統退化症、α-synuclein 包涵體、細胞類型",
+      "flashcard_back": "MSA 病理特徵為寡樹突細胞 (Oligodendrocyte) 中的細胞質包涵體 (GCI)。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_089",
+      "question_number": 89,
+      "question_text": "下列何者對於類風濕性關節炎(rheumatoid arthritis)發生機轉的重要性最為明確,且已有專一性拮抗劑\n用於治療?",
+      "options": {
+        "A": "rheumatoid factor",
+        "B": "IL-2",
+        "C": "IFN-α",
+        "D": "TNF"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者對於類風濕性關節炎(rheumatoid arthritis)發生機轉的重要性最為明確,且已有專一性拮抗劑\n用於治療?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：TNF（腫瘤壞死因子）在類風濕性關節炎的發炎級聯反應中扮演核心角色，已有許多專一性拮抗劑（如 Infliximab, Etanercept, Adalimumab）被廣泛且有效地應用於治療 RA。其他指標（如 RF）對 RA 診斷具意義但並非發炎反應治療的直接專一標靶。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「rheumatoid factor」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「IL-2」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「IFN-α」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「TNF」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n類風濕性關節炎（RA）治療的關鍵 cytokine。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "RA 重要發炎機轉標靶 -> TNF",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "類風濕性關節炎（RA）治療的關鍵 cytokine。",
+      "flashcard_front": "類風濕性關節炎、關鍵發炎因子、生物製劑標靶",
+      "flashcard_back": "TNF 是 RA 發炎反應中最關鍵的 cytokine，已有抗 TNF 專一性治療藥物。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_090",
+      "question_number": 90,
+      "question_text": "下列有關肺高壓(pulmonary hypertension)的敘述,何者錯誤?",
+      "options": {
+        "A": "左心衰竭可造成肺高壓",
+        "B": "間質性肺病(interstitial lung disease)可造成肺高壓",
+        "C": "從主肺動脈到小動脈都會受影響而出現 medial hypertrophy 及 intimal fibrosis",
+        "D": "小動脈的 plexiform lesion 為肺高壓早期出現的病理特徵"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關肺高壓(pulmonary hypertension)的敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Plexiform lesion（叢狀病變）是肺高壓中「晚期」的病理特徵，代表血管內皮細胞的增生與血管重塑，而非早期表現。早期肺高壓病理變化多為平滑肌肥大（medial hypertrophy）或內膜纖維化（intimal fibrosis）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「左心衰竭可造成肺高壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「間質性肺病(interstitial lung disease)可造成肺高壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「從主肺動脈到小動脈都會受影響而出現 medial hypertrophy 及 intimal fibrosis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「小動脈的 plexiform lesion 為肺高壓早期出現的病理特徵」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n肺高壓（Pulmonary hypertension）的病理生理。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "肺高壓 Plexiform lesion -> 屬於晚期病理特徵",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "肺高壓（Pulmonary hypertension）的病理生理。",
+      "flashcard_front": "肺高壓、病理變化、Plexiform lesion、疾病階段",
+      "flashcard_back": "Plexiform lesion 是肺高壓嚴重的「晚期」特徵，而非早期病理表現。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_091",
+      "question_number": 91,
+      "question_text": "下列有關細菌性肺炎的敘述,何者錯誤?",
+      "options": {
+        "A": "可造成支氣管肺炎(bronchopneumonia)或大葉性肺炎(lobar pneumonia)",
+        "B": "大葉性肺炎(lobar pneumonia)病理上變化依序可分為充血期(congestion)、灰色肝變期(gray \nhepatization)、紅色肝變期(red hepatization)、消解期(resolution)",
+        "C": "Streptococcus pneumoniae、Haemophilus influenzae、Moraxella catarrhalis、Staphylococcus aureus\n為常見造成社區型肺炎的致病菌",
+        "D": "Pseudomonas aeruginosa常見於院內感染肺炎"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關細菌性肺炎的敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：大葉性肺炎（Lobar pneumonia）的病理演變時序依序為：充血期（Congestion）、紅色肝變期（Red hepatization）、灰色肝變期（Gray hepatization），最後為消解期（Resolution）。選項B將紅色與灰色肝變期的順序顛倒，故為錯誤敘述。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可造成支氣管肺炎(bronchopneumonia)或大葉性肺炎(lobar pneumonia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「大葉性肺炎(lobar pneumonia)病理上變化依序可分為充血期(congestion)、灰色肝變期(gray \nhepatization)、紅色肝變期(red hepatization)、消解期(resolution)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「Streptococcus pneumoniae、Haemophilus influenzae、Moraxella catarrhalis、Staphylococcus aureus\n為常見造成社區型肺炎的致病菌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「Pseudomonas aeruginosa常見於院內感染肺炎」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n大葉性肺炎的病理分期時序。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "大葉性肺炎病理分期 -> 充血期 -> 紅色肝變期 -> 灰色肝變期 -> 消解期",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "大葉性肺炎的病理分期時序。",
+      "flashcard_front": "大葉性肺炎、病理分期、肝變期順序",
+      "flashcard_back": "大葉性肺炎的四個病理階段依序為：充血期 -> 紅色肝變期 -> 灰色肝變期 -> 消解期，紅肝先於灰肝。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_092",
+      "question_number": 92,
+      "question_text": "支氣管擴張症與下列何項症狀相關性較低?",
+      "options": {
+        "A": "膿痰(mucopurulent sputum)",
+        "B": "重度持續咳嗽(severe persistent cough)",
+        "C": "咳血(hemoptysis)",
+        "D": "過度換氣(hyperventilation)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「支氣管擴張症與下列何項症狀相關性較低?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：支氣管擴張症（Bronchiectasis）是由於慢性壞死性感染導致支氣管永久性擴張。其典型臨床表現包括重度持續性咳嗽、咳出大量惡臭膿痰以及因黏膜血管破裂引起的咳血。過度換氣並非此病的特異性或主要相關臨床特徵。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「膿痰(mucopurulent sputum)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「重度持續咳嗽(severe persistent cough)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「咳血(hemoptysis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「過度換氣(hyperventilation)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n支氣管擴張症的臨床症狀與特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "支氣管擴張症特徵 -> 嚴重慢性咳嗽、大量膿痰、咳血",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "支氣管擴張症的臨床症狀與特徵。",
+      "flashcard_front": "支氣管擴張症、慢性壞死性感染、典型臨床表現",
+      "flashcard_back": "支氣管擴張症典型症狀為嚴重慢性咳嗽、大量膿痰與咳血；與過度換氣相關性較低。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_093",
+      "question_number": 93,
+      "question_text": "關於自體免疫性肝炎(autoimmune hepatitis),下列敘述何者最不適當?",
+      "options": {
+        "A": "與 HLA 等位基因 DR3、DR4 及 DRB1 密切相關",
+        "B": "第 1 型自體免疫性肝炎的典型特徵是存在抗核抗體(ANA)和抗平滑肌肌動蛋白(SMA)抗體",
+        "C": "第 2 型疾病的典型特徵是抗肝腎微粒體 1(LKM-1)抗體",
+        "D": "血清IgM 升高為自體免疫性肝炎之典型表現"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「關於自體免疫性肝炎(autoimmune hepatitis),下列敘述何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：自體免疫性肝炎（Autoimmune hepatitis）的典型血清學表現是免疫球蛋白 IgG 升高，而非 IgM。第 1 型以 ANA 和 SMA 抗體為特徵，第 2 型以抗 LKM-1 抗體為特徵，且兩者均與特定的 HLA 基因座有強烈相關性。血清 IgM 升高通常提示原發性膽汁性膽管炎（PBC）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「與 HLA 等位基因 DR3、DR4 及 DRB1 密切相關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「第 1 型自體免疫性肝炎的典型特徵是存在抗核抗體(ANA)和抗平滑肌肌動蛋白(SMA)抗體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「第 2 型疾病的典型特徵是抗肝腎微粒體 1(LKM-1)抗體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「血清IgM 升高為自體免疫性肝炎之典型表現」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n自體免疫性肝炎的免疫學與血清學特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "自體免疫性肝炎血清學 -> IgG 升高（非 IgM）",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "自體免疫性肝炎的免疫學與血清學特徵。",
+      "flashcard_front": "自體免疫性肝炎、血清免疫球蛋白、ANA/SMA/LKM-1",
+      "flashcard_back": "自體免疫性肝炎典型表現為血清 IgG 升高（非 IgM）。IgM 升高多見於原發性膽汁性膽管炎（PBC）。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_094",
+      "question_number": 94,
+      "question_text": "關於潰瘍性結腸炎(ulcerative colitis),下列敘述何者最不適當?",
+      "options": {
+        "A": "發炎通常僅限於黏膜(mucosa)",
+        "B": "大多會涉及結腸與迴腸(colon and ileum)兩者的嚴重慢性發炎",
+        "C": "常有假性息肉(pseudopolyps)",
+        "D": "可能會造成毒性巨結腸(toxic megacolon)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於潰瘍性結腸炎(ulcerative colitis),下列敘述何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：潰瘍性結腸炎（Ulcerative colitis）的發炎通常僅限於黏膜與黏膜下層，且病變呈連續性，主要局限於結腸與直腸。涉及迴腸（克隆氏症跳躍性全壁層發炎之特徵）的嚴重慢性發炎並非其典型表現，頂多在少數全結腸炎患者中出現輕微的逆行性迴腸炎（backwash ileitis）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「發炎通常僅限於黏膜(mucosa)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「大多會涉及結腸與迴腸(colon and ileum)兩者的嚴重慢性發炎」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「常有假性息肉(pseudopolyps)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「可能會造成毒性巨結腸(toxic megacolon)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n潰瘍性結腸炎與克隆氏症的病變範圍鑑別。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "潰瘍性結腸炎主要侵犯 -> 結腸與直腸黏膜層（不常涉及嚴重迴腸炎）",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "潰瘍性結腸炎與克隆氏症的病變範圍鑑別。",
+      "flashcard_front": "潰瘍性結腸炎、病變範圍、黏膜層、解剖部位",
+      "flashcard_back": "潰瘍性結腸炎病變局限於結腸與直腸的黏膜層（呈連續性）。同時涉及結腸與迴腸嚴重發炎者為克隆氏症（Crohn disease）。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_095",
+      "question_number": 95,
+      "question_text": "下列何者為不依賴 ACTH(ACTH-independent)Cushing 氏症候群(Cushing syndrome)最常見的原因?",
+      "options": {
+        "A": "small cell carcinoma of the lung",
+        "B": "adrenocortical adenoma",
+        "C": "adrenocortical carcinoma",
+        "D": "primary cortical hyperplasia"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者為不依賴 ACTH(ACTH-independent)Cushing 氏症候群(Cushing syndrome)最常見的原因?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：庫欣氏症候群依據機轉可分為 ACTH 依賴性（如垂體腺瘤、異位 ACTH 分泌）與 ACTH 非依賴性。在內源性且 ACTH 非依賴性的病因中，最常見的是腎上腺皮質腺瘤（adrenocortical adenoma），其自主分泌皮質醇並負回饋抑制 ACTH 的分泌。肺小細胞癌則是常見的異位性 ACTH 依賴性原因。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「small cell carcinoma of the lung」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「adrenocortical adenoma」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「adrenocortical carcinoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「primary cortical hyperplasia」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nACTH 非依賴性庫欣氏症候群的常見病因。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "ACTH-independent 庫欣氏症候群主因 -> 腎上腺皮質腺瘤 (adrenocortical adenoma)",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "ACTH 非依賴性庫欣氏症候群的常見病因。",
+      "flashcard_front": "Cushing 氏症候群、ACTH-independent、內源性最常見原因",
+      "flashcard_back": "ACTH 非依賴性庫欣氏症候群最常見的原發病因為腎上腺皮質腺瘤（adrenocortical adenoma），此時 ACTH 濃度會下降。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_096",
+      "question_number": 96,
+      "question_text": "關於局部節段型腎絲球硬化症(focal segmental glomerulosclerosis, FSGS),下列敘述何者正確?",
+      "options": {
+        "A": "該疾病為造成小孩(小於18 歲)腎病症候群(nephrotic syndrome)最常見的原因",
+        "B": "原發性 FSGS 腎絲球病變最先發生於近髓質(juxtamedullary)腎絲球",
+        "C": "電子顯微鏡下的變化主要為大量免疫沉澱物堆積在膈細胞(mesangial cell)區域造成硬化",
+        "D": "一般而言,以類固醇治療FSGS 的效果極佳"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於局部節段型腎絲球硬化症(focal segmental glomerulosclerosis, FSGS),下列敘述何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：原發性 FSGS 的腎絲球硬化病變在早期具有局灶性，且最先發生於近髓質（juxtamedullary）的腎絲球。小孩最常見的腎病症候群原因是微小病變腎病（MCD），FSGS 則是成人常見主因。其電鏡特徵為足細胞足突融合，並非基質細胞區的大量免疫沉澱物，且對類固醇治療反應通常不佳。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「該疾病為造成小孩(小於18 歲)腎病症候群(nephrotic syndrome)最常見的原因」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「原發性 FSGS 腎絲球病變最先發生於近髓質(juxtamedullary)腎絲球」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「電子顯微鏡下的變化主要為大量免疫沉澱物堆積在膈細胞(mesangial cell)區域造成硬化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「一般而言,以類固醇治療FSGS 的效果極佳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n局部節段型腎絲球硬化症（FSGS）的病理特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "原發性 FSGS 早期病變位置 -> 近髓質 (juxtamedullary) 腎絲球",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "局部節段型腎絲球硬化症（FSGS）的病理特徵。",
+      "flashcard_front": "FSGS、近髓質腎絲球、足突融合、類固醇反應",
+      "flashcard_back": "原發性 FSGS 早期病變最先出現於近髓質腎絲球。小孩最常見者為 MCD，且 FSGS 類固醇治療反應差。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_097",
+      "question_number": 97,
+      "question_text": "橋本氏甲狀腺炎(Hashimoto thyroiditis)病患較常出現下列那些自體免疫抗體?",
+      "options": {
+        "A": "antithyroglobulin antibody 和 antithyroid peroxidase antibody",
+        "B": "antithyroglobulin antibody 和 anti-TSH receptor antibody",
+        "C": "antinuclear antibody 和antithyroid peroxidase antibody",
+        "D": "antimitochondrial antibody 和 anti-TSH receptor antibody"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「橋本氏甲狀腺炎(Hashimoto thyroiditis)病患較常出現下列那些自體免疫抗體?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：橋本氏甲狀腺炎（Hashimoto thyroiditis）是一種慢性自體免疫性甲狀腺炎，患者血清中最常出現且具診斷價值的自體抗體為抗甲狀腺球蛋白抗體（antithyroglobulin antibody）與抗甲狀腺過氧化物酶抗體（antithyroid peroxidase antibody）。Anti-TSH receptor antibody 則主要與葛雷夫茲氏病（Graves disease）相關。\n\n【選項詳解】\n- A. 正確答案。選項內容：「antithyroglobulin antibody 和 antithyroid peroxidase antibody」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「antithyroglobulin antibody 和 anti-TSH receptor antibody」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「antinuclear antibody 和antithyroid peroxidase antibody」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「antimitochondrial antibody 和 anti-TSH receptor antibody」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n橋本氏甲狀腺炎的特異性自體抗體。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "橋本氏甲狀腺炎典型抗體 -> Antithyroglobulin + Antithyroid peroxidase antibody",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "橋本氏甲狀腺炎的特異性自體抗體。",
+      "flashcard_front": "橋本氏甲狀腺炎、自體免疫抗體、甲狀腺功能低下",
+      "flashcard_back": "橋本氏甲狀腺炎最典型的抗體配對為 antithyroglobulin 和 antithyroid peroxidase (anti-TPO) 抗體。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_098",
+      "question_number": 98,
+      "question_text": "與乳房乳突瘤(papilloma)的乳突比較,乳突狀原位癌(papillary ductal carcinoma in situ)其乳突的\n病理特徵中,最有鑑別力者為:",
+      "options": {
+        "A": "無肌上皮細胞",
+        "B": "缺乏纖維血管組織",
+        "C": "有出血現象",
+        "D": "有組織壞死"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「與乳房乳突瘤(papilloma)的乳突比較,乳突狀原位癌(papillary ductal carcinoma in situ)其乳突的\n病理特徵中,最有鑑別力者為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在乳房病理學中，鑑別良性乳突變（如內皮導管內乳突瘤）與惡性乳突變（如乳突狀原位癌）最關鍵且最有鑑別力的組織學特徵為「有無肌上皮細胞（myoepithelial cells）」。良性病變的乳突結構表面保有完整的肌上皮細胞層，而惡性乳突狀癌則缺乏此層細胞。\n\n【選項詳解】\n- A. 正確答案。選項內容：「無肌上皮細胞」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「缺乏纖維血管組織」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「有出血現象」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「有組織壞死」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n乳房良性乳突瘤與乳突狀原位癌的病理鑑別診斷。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "乳房乳突結構惡性鑑別指標 -> 缺乏肌上皮細胞",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "乳房良性乳突瘤與乳突狀原位癌的病理鑑別診斷。",
+      "flashcard_front": "乳房乳突瘤、乳突狀原位癌、良惡性鑑別、核心細胞層",
+      "flashcard_back": "鑑別乳房乳突結構良惡性最具鑑別力者為有無肌上皮細胞（良性有，原位癌/惡性無）。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_099",
+      "question_number": 99,
+      "question_text": "侵犯性乳癌,其腫瘤細胞之雌激素受體(estrogen receptor, ER),助孕素受體(progesterone receptor, \nPR),人類表皮生長因子受體 2(HER2)表現,下列何種組合最為常見?",
+      "options": {
+        "A": "ER 陽性,PR 陽性,HER2 陰性",
+        "B": "ER 陰性,PR 陰性,HER2 陽性",
+        "C": "ER 陽性,PR 陽性,HER2 陽性",
+        "D": "ER 陰性,PR 陰性,HER2 陰性"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「侵犯性乳癌,其腫瘤細胞之雌激素受體(estrogen receptor, ER),助孕素受體(progesterone receptor, \nPR),人類表皮生長因子受體 2(HER2)表現,下列何種組合最為常見?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在侵犯性乳癌中，最常見的分子亞型為管腔 A 型（Luminal A-like），其受體表現特徵為管腔上皮標記 ER 陽性、PR 陽性，且 HER2 表現為陰性。這種組合約佔所有乳癌病例的 60-70%，預後相對較佳。\n\n【選項詳解】\n- A. 正確答案。選項內容：「ER 陽性,PR 陽性,HER2 陰性」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「ER 陰性,PR 陰性,HER2 陽性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「ER 陽性,PR 陽性,HER2 陽性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「ER 陰性,PR 陰性,HER2 陰性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n侵犯性乳癌分子亞型的流行病學分布。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "侵犯性乳癌最常見受體表現 -> ER 陽性, PR 陽性, HER2 陰性",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "侵犯性乳癌分子亞型的流行病學分布。",
+      "flashcard_front": "侵犯性乳癌、受體組合、最常見亞型、Luminal A",
+      "flashcard_back": "乳癌中最常見的受體表現組合為 ER(+), PR(+), HER2(-)，即 Luminal A 型。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "115-1_medicine-2_100",
+      "question_number": 100,
+      "question_text": "杜雷特氏出血(Duret hemorrhage)與下列何種腦部脫疝(herniation)最有關係?",
+      "options": {
+        "A": "大腦鎌下脫出(subfalcine herniation)",
+        "B": "扣帶脫出(cingulate herniation)",
+        "C": "經小腦天幕脫出(transtentorial herniation)",
+        "D": "小腦扁桃體脫出(tonsillar herniation)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「杜雷特氏出血(Duret hemorrhage)與下列何種腦部脫疝(herniation)最有關係?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：當發生經小腦天幕下疝（Transtentorial / Uncal herniation）時，大腦下移會拉扯並撕裂位於腦幹中線（橋腦與中腦）的基底動脈穿通支血管，導致腦幹局部出血，此特殊出血型態稱為杜雷特氏出血（Duret hemorrhage）。小腦扁桃體脫疝則主要壓迫延髓與枕骨大孔。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大腦鎌下脫出(subfalcine herniation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「扣帶脫出(cingulate herniation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「經小腦天幕脫出(transtentorial herniation)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「小腦扁桃體脫出(tonsillar herniation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n腦脫疝併發症杜雷特氏出血（Duret hemorrhage）的解剖學關係。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "flashcard_summary": "Duret 氏出血相關脫疝 -> 經小腦天幕脫疝 (transtentorial herniation)",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "key_point": "腦脫疝併發症杜雷特氏出血（Duret hemorrhage）的解剖學關係。",
+      "flashcard_front": "Duret 氏出血、腦幹中線出血、腦部脫疝類型",
+      "flashcard_back": "Duret 氏出血主要是由經小腦天幕脫疝（Transtentorial herniation）壓迫並拉扯橋腦/中腦的小穿通動脈所致。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "review_status": "ai_generated",
+      "explanation_model": "gemini-pro-manual+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    }
+  ]
+}

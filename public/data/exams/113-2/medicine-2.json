@@ -1,0 +1,2915 @@
+{
+  "id": "113-2_medicine-2",
+  "year": "113-2",
+  "title": "113 年第二次醫師國考：醫學（二）",
+  "subject": "medicine-2",
+  "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=301&code=113090&q=1&s=22&t=Q",
+  "updated_at": "2026-06-30T14:05:39.265Z",
+  "questions": [
+    {
+      "id": "113-2_medicine-2_001",
+      "question_number": 1,
+      "question_text": "一般使用結核菌素試驗(tuberculin skin test)測試是否感染結核桿菌,當無法區分是感染者或施打\n bacillus Calmette-Guérin(BCG)疫苗後的反應,通常會加做下列何種測試以進一步確認?",
+      "options": {
+        "A": "反轉錄聚合酶鏈鎖反應(reverse transcriptase-PCR)",
+        "B": "丙型干擾素釋放試驗(IFN-γ release assays)",
+        "C": "北方點墨法(northern blotting)",
+        "D": "腫瘤壞死因子釋放試驗(TNF-α release assays)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n題幹描述結核菌素試驗 (Tuberculin skin test, TST) 無法區分潛伏結核感染 (LTBI) 與施打卡介苗 (BCG) 後的免疫反應。卡介苗是由減毒的牛分枝桿菌 (Mycobacterium bovis) 製成，與 TST 使用的純化蛋白質衍生物 (PPD) 具有高度交叉反應，容易導致施打過卡介苗的個體出現偽陽性。為了進一步確認是否為真正的結核桿菌感染，臨床上需要一種特異性更高、不與 BCG 交叉反應的測試法。\n\n【選項詳解】\n- A. 反轉錄聚合酶鏈鎖反應 (reverse transcriptase-PCR)：主要用於偵測 RNA 病毒或基因表達，非診斷潛伏性結核菌感染與區分 BCG 疫苗反應之常規方法。\n- B. 丙型干擾素釋放試驗 (IFN-γ release assays, IGRAs)：正確。IGRA 偵測患者 T 細胞在受結核桿菌特異性抗原（如 ESAT-6、CFP-10）刺激後釋放的 IFN-γ。這些特異性抗原存在於結核分枝桿菌，但完全不存在於所有 BCG 疫苗株中。因此，IGRA 不會受到 BCG 接種的干擾，能有效區分結核桿菌感染與 BCG 疫苗反應。\n- C. 北方點墨法 (northern blotting)：用於偵測特定 RNA 分子含量的分子生物學實驗室技術，非臨床診斷結核感染之檢驗方式。\n- D. 腫瘤壞死因子釋放試驗 (TNF-α release assays)：TNF-α 在結核肉芽腫形成中扮演重要角色，但臨床上並無標準化的 TNF-α 釋放試驗用於診斷結核感染或區分 BCG 疫苗反應。\n\n【核心考點】\n臨床上利用丙型干擾素釋放試驗 (IGRA) 排除 BCG 卡介苗接種所致的 TST 偽陽性，其特異性抗原為 ESAT-6 與 CFP-10，常用於潛伏性結核感染 (LTBI) 的篩檢與確認。",
+      "key_point": "丙型干擾素釋放試驗 (IGRA) 偵測之結核菌特異性抗原（如 ESAT-6 與 CFP-10）不存於 BCG 疫苗中，可用於區分結核菌感染與疫苗反應。",
+      "flashcard_summary": "結核篩檢 + BCG干擾 -> 使用丙型干擾素釋放試驗 (IGRA) 區分",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 結核菌素試驗 (TST) 呈陽性\n2. 具卡介苗 (BCG) 接種史\n3. 欲排除 BCG 偽陽性干擾\n4. 偵測結核特異性抗原 (ESAT-6/CFP-10)",
+      "flashcard_back": "使用丙型干擾素釋放試驗 (IFN-γ release assays, IGRAs) 進行確認，因其所用之特異性抗原不存在於 BCG 疫苗株中。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_002",
+      "question_number": 2,
+      "question_text": "經何種細菌汙染的蜂蜜,嬰兒誤食後,最有可能因細菌產生的毒素,導致乏力性麻痺甚至呼吸困難?",
+      "options": {
+        "A": "艱難梭菌(Clostridium difficile)",
+        "B": "破傷風梭菌(Clostridium tetani)",
+        "C": "肉毒桿菌(Clostridium botulinum)",
+        "D": "產氣莢膜梭菌(Clostridium perfringens)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n題幹中提到「嬰兒誤食蜂蜜後，因細菌產生的毒素導致乏力性麻痺甚至呼吸困難」。一歲以下嬰兒的腸道菌相發育尚未完全，若攝食含有肉毒桿菌孢子 (spores) 的蜂蜜，孢子可在腸道中萌發、增殖並產生肉毒桿菌毒素 (botulinum toxin)，這與成人因攝食已含有毒素之罐頭食物而引起的中毒機制不同。此毒素會阻斷神經肌肉接頭的乙醯膽鹼釋放，造成典型的乏力性麻痺 (flaccid paralysis)，俗稱「軟癱兒 (floppy baby)」。\n\n【選項詳解】\n- A. 艱難梭菌 (Clostridium difficile)：主要由抗生素濫用引發，釋放毒素 A (腸毒素) 及毒素 B (細胞毒素)，導致偽膜性結腸炎與水瀉，不具神經毒性，不會引發乏力性麻痺。\n- B. 破傷風梭菌 (Clostridium tetani)：釋放破傷風痙攣毒素 (tetanospasmin)，阻斷脊髓抑制性中間神經元釋放抑制性遞質 (GABA、glycine)，導致運動神經持續興奮，臨床表現為痙攣性麻痺 (spastic paralysis)，如角弓反張及牙關緊閉，而非乏力性麻痺。\n- C. 肉毒桿菌 (Clostridium botulinum)：正確。肉毒桿菌神經毒素可水解 SNARE 蛋白，阻斷突觸前膜釋放興奮性神經遞質乙醯膽鹼 (ACh)，導致骨骼肌無法收縮，呈現乏力性麻痺 (flaccid paralysis) 及呼吸肌麻痺。\n- D. 產氣莢膜梭菌 (Clostridium perfringens)：產生 α 毒素 (lecithinase) 導致氣性壞疽 (myonecrosis)；或產生腸毒素 (enterotoxin) 導致食物中毒（引起腹瀉與腹痛），不會導致乏力性麻痺。\n\n【核心考點】\n肉毒桿菌中毒 (botulism) 的致病機轉（阻斷 ACh 釋放）與臨床表現（乏力性麻痺/flaccid paralysis，區別於破傷風的 spastic paralysis），以及一歲以下嬰兒避免餵食蜂蜜的公共衛生原則。",
+      "key_point": "嬰兒食用受肉毒桿菌 (Clostridium botulinum) 孢子污染之蜂蜜，孢子在發育未全的腸道定殖釋放毒素，阻斷乙醯膽鹼釋放，導致乏力性麻痺。",
+      "flashcard_summary": "嬰兒食用蜂蜜 + 軟癱 -> 肉毒桿菌 (Clostridium botulinum) 毒素阻斷 ACh 釋放",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 一歲以下嬰兒食用蜂蜜\n2. 腸道定殖產生毒素\n3. 阻斷運動神經元釋放乙醯膽鹼 (ACh)\n4. 乏力性麻痺 (flaccid paralysis) / 軟癱",
+      "flashcard_back": "由肉毒桿菌 (Clostridium botulinum) 產生之神經毒素水解 SNARE 蛋白阻斷 ACh 釋放所致。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_003",
+      "question_number": 3,
+      "question_text": "青黴素結合蛋白質(Penicillin-binding proteins)的突變,最不可能造成細菌對下列何類藥物出現抗藥\n 性?",
+      "options": {
+        "A": "頭芽孢菌素(cephalosporins)",
+        "B": "碳青黴烯(carbapenems)",
+        "C": "單酰胺菌素(monobactams)",
+        "D": "磺胺類藥物(sulfonamides)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n青黴素結合蛋白質 (Penicillin-binding proteins, PBPs) 是細菌合成肽聚醣細胞壁所需的轉肽酶 (transpeptidases)。所有 β-lactam 類抗生素均以 PBPs 為標靶，藉由共價結合抑制其活性。當 PBP 發生突變且與 β-lactam 類抗生素親和力下降時，細菌將對該類藥物產生抗藥性。本題問「最不可能」造成細菌對哪類藥物出現抗藥性，需尋找作用機轉與 PBPs 無關的抗生素。\n\n【選項詳解】\n- A. 頭芽孢菌素 (cephalosporins)：屬於 β-lactam 類抗生素，其作用標靶為 PBPs。PBP 突變（例如耐藥性肺炎鏈球菌的 PBP 改變）會導致對其產生抗藥性。\n- B. 碳青黴烯 (carbapenems)：屬於 β-lactam 類抗生素，標靶亦為 PBPs，PBP 突變可導致對其親和力下降而產生抗藥性。\n- C. 單酰胺菌素 (monobactams)：例如 Aztreonam，亦為 β-lactam 類抗生素，作用於 PBPs，其抗藥性與 PBP 突變相關。\n- D. 磺胺類藥物 (sulfonamides)：正確。磺胺類為二氫葉酸合成酶 (DHPS) 的競爭性抑制劑，作用於葉酸合成途徑以抑制核酸複製，與細胞壁 PBPs 結構和功能完全無關，故 PBP 突變最不可能影響其敏感性。\n\n【核心考點】\n抗生素的作用機轉與抗藥性機制。β-lactam 類抗生素（包含青黴素、頭孢菌素、碳青黴烯及單酰胺菌素）以 PBP 為共同作用標靶；而磺胺類藥物則作用於葉酸合成途徑。",
+      "key_point": "青黴素結合蛋白質 (PBPs) 突變主要使作用於細胞壁合成的 β-lactam 類抗生素失效，但不影響作用於葉酸代謝途徑的磺胺類藥物。",
+      "flashcard_summary": "PBP 突變 -> 導致 β-lactam 類抗藥性，不影響磺胺類 (sulfonamides)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 青黴素結合蛋白質 (PBPs) 突變\n2. β-lactam 類抗生素親和力下降\n3. 細菌細胞壁肽聚醣合成受阻\n4. 葉酸代謝抑制劑不受影響",
+      "flashcard_back": "PBP 突變只影響 β-lactam 類抗生素（A、B、C），最不可能影響作用於葉酸合成的磺胺類藥物 (sulfonamides)。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_004",
+      "question_number": 4,
+      "question_text": "關於退伍軍人菌屬(Legionella)感染的敘述,下列何者最不適當?",
+      "options": {
+        "A": "BCYE agar常用於培養退伍軍人菌屬",
+        "B": "退伍軍人菌屬為革蘭氏陽性桿菌",
+        "C": "好發於夏末至秋天,天氣溫暖的季節",
+        "D": "可造成龐提亞克熱(Pontiac fever)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n退伍軍人菌屬 (Legionella) 為一種胞內寄生的水生細菌，常與中央空調冷卻水塔、熱水供應系統等受污染的氣霧傳播有關。本題要求選出關於退伍軍人菌感染「最不適當」的敘述。\n\n【選項詳解】\n- A. BCYE agar常用於培養退伍軍人菌屬：敘述適當。緩衝炭酵母萃取物培養基 (BCYE) 含有退伍軍人菌生長所必需的 L-cysteine 及鐵質 (iron)，是其標準臨床培養基。\n- B. 退伍軍人菌屬為革蘭氏陽性桿菌：敘述不適當，符合題意。退伍軍人菌屬為薄、多形性的革蘭氏陰性桿菌 (Gram-negative bacilli)，因為在革蘭氏染色下染色較淺，常需利用 Dieterle 銀染或直接免疫螢光抗體法 (DFA) 來觀察。\n- C. 好發於夏末至秋天,天氣溫暖的季節：敘述適當。夏秋溫暖季節空調系統使用頻繁，水溫有利於退伍軍人菌及滋養牠的變形蟲大量繁殖，故此季節為感染高峰期。\n- D. 可造成龐提亞克熱 (Pontiac fever)：敘述適當。退伍軍人菌感染可引發兩種臨床表現：一是嚴重的退伍軍人症 (Legionnaires' disease，伴隨多器官受損與肺炎)；二是自限性、無肺炎的流感樣疾病，稱為龐提亞克熱 (Pontiac fever)。\n\n【核心考點】\n退伍軍人菌 (Legionella pneumophila) 的微生物學特性（革蘭氏陰性、BCYE 培養基需 L-cysteine 與鐵）與臨床分型（退伍軍人症 vs 龐提亞克熱）。",
+      "key_point": "退伍軍人菌 (Legionella) 是革蘭氏陰性桿菌（非陽性），需在含有 L-cysteine 的 BCYE 培養基上培養，可引發退伍軍人症或龐提亞克熱。",
+      "flashcard_summary": "退伍軍人菌 -> 革蘭氏陰性桿菌，需 BCYE 培養基 (含 L-cysteine)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 退伍軍人菌屬 (Legionella)\n2. BCYE 培養基培養 (需 L-cysteine)\n3. 龐提亞克熱 (Pontiac fever)\n4. 革蘭氏染色屬性",
+      "flashcard_back": "退伍軍人菌為革蘭氏陰性桿菌（Gram-negative），而非革蘭氏陽性桿菌。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_005",
+      "question_number": 5,
+      "question_text": "下列何種細菌毒素經短暫100°C加熱後較易失去活性?",
+      "options": {
+        "A": "大腸桿菌(E. coli)內毒素(endotoxin)",
+        "B": "金黃色葡萄球菌(Staphylococcus aureus)毒性休克症候群毒素-1(Toxic Shock Syndrome Toxin-1)",
+        "C": "破傷風梭狀芽孢桿菌(Clostridium tetani)破傷風痙攣毒素(tetanospasmin)",
+        "D": "腦膜炎雙球菌(Neisseria meningitidis)脂寡糖(lipooligosaccharide)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題探討細菌毒素對熱的穩定性。一般而言，細菌產生的蛋白質外毒素 (exotoxin) 經高溫加熱（如 100°C 短暫加熱）會導致蛋白質三度空間結構變性而失去毒性活性。相反地，革蘭氏陰性菌細胞壁上的內毒素 (endotoxin，如 LPS 或 LOS) 主要成分為脂多醣，結構穩定且極度耐熱，即使短暫煮沸也不會失活。\n\n【選項詳解】\n- A. 大腸桿菌 (E. coli) 內毒素 (endotoxin)：成分為脂多醣 (LPS)，具有極高耐熱性，在 100°C 加熱甚至高壓滅菌下均不易失去活性。\n- B. 金黃色葡萄球菌 (Staphylococcus aureus) 毒性休克症候群毒素-1 (TSST-1)：屬於超抗原 (superantigen) 類的外毒素，但在結構上具有相對較強的耐熱性（能耐受 60°C 長時間加熱），且其食物中毒相關的腸毒素也極為耐熱。相較於典型胞內/神經外毒素，它不是最易被 100°C 輕易去活化的對象。\n- C. 破傷風梭狀芽孢桿菌 (Clostridium tetani) 破傷風痙攣毒素 (tetanospasmin)：正確。這是一種典型的 A-B 結構蛋白質外毒素 (neurotoxin)，對熱非常敏感 (heat-labile)，短暫加熱至 100°C（或 60-80°C 數十分鐘）即可使其完全變性並失去活性。\n- D. 腦膜炎雙球菌 (Neisseria meningitidis) 脂寡糖 (lipooligosaccharide, LOS)：為革蘭氏陰性腦膜炎雙球菌表面的內毒素變體，與 LPS 相似，具有極高耐熱性，不易被 100°C 加熱破壞。\n\n【核心考點】\n細菌外毒素（多為不耐熱蛋白質，特別是神經毒素如 tetanospasmin）與內毒素（高度耐熱的脂多醣 LPS/LOS）在物理化學性質上的本質差異。",
+      "key_point": "蛋白質外毒素（如破傷風痙攣毒素）通常對熱敏感（短暫 100°C 即可變性失活），而內毒素（如 LPS、LOS）屬於脂多醣，具極佳耐熱性。",
+      "flashcard_summary": "外毒素對熱敏感（如破傷風痙攣毒素受熱失活） -> 內毒素高度耐熱",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 細菌毒素的物理耐熱性\n2. 內毒素 (LPS/LOS) 與外毒素的對比\n3. 破傷風痙攣毒素 (tetanospasmin)\n4. 短暫 100°C 加熱效果",
+      "flashcard_back": "破傷風痙攣毒素為蛋白質外毒素，受熱極易變性失活；而內毒素（LPS/LOS）高度耐熱，100°C 加熱無法破壞其活性。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_006",
+      "question_number": 6,
+      "question_text": "下列有關細菌結構及其於致病過程中所扮演角色,何者敘述最不適當?",
+      "options": {
+        "A": "鞭毛(flagellum)為細菌運動相關構造",
+        "B": "莢膜(capsule)與細菌抵禦吞噬作用有關",
+        "C": "細菌生物膜(biofilm)結構可協助細菌黏附於組織或醫用器材",
+        "D": "纖毛(fimbriae)是比鞭毛(flagellum)直徑更大的毛髮狀結構,並與細菌之黏附(adhesion)能力有關"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題探討細菌不同結構（鞭毛、莢膜、生物膜、纖毛）的形態大小與臨床致病機制。解題關鍵在於辨識「纖毛 (fimbriae)」與「鞭毛 (flagellum)」的結構尺寸差異。\n\n【選項詳解】\n- A. 鞭毛 (flagellum) 為細菌運動相關構造：敘述正確。鞭毛是由鞭毛蛋白 (flagellin) 組成的長、旋轉性螺旋結構，是細菌趨向性運動的主要器官。\n- B. 莢膜 (capsule) 與細菌抵禦吞噬作用有關：敘述正確。莢膜是位於細胞壁外的黏液多醣層（少數如炭疽桿菌為多肽），能掩蓋表面抗原並阻礙調理作用，從而抵抗宿主吞噬細胞的吞噬。\n- C. 細菌生物膜 (biofilm) 結構可協助細菌黏附於組織或醫用器材：敘述正確。生物膜是細菌分泌的胞外基質所形成的保護層，可協助細菌固著於心臟瓣膜、導尿管或人工關節上，並抵禦抗生素。\n- D. 纖毛 (fimbriae) 是比鞭毛 (flagellum) 直徑更大的毛髮狀結構,並與細菌之黏附 (adhesion) 能力有關：敘述不適當，符合題意。纖毛（或稱菌毛 pili）的確與黏附宿主細胞表面密切相關，但其構造非常纖細，直徑僅約 3-10 nm，而鞭毛的直徑約為 15-20 nm。因此，纖毛的直徑比鞭毛「更細小」，而非「更大」。\n\n【核心考點】\n細菌基本構造之特性比較。鞭毛 (flagellum) 粗且長，負責運動；纖毛/菌毛 (fimbriae/pili) 細且短，負責黏附宿主或參與細菌接合 (conjugation)。",
+      "key_point": "纖毛 (fimbriae/pili) 負責黏附寄生，但其直徑比負責運動的鞭毛 (flagellum) 更細小（而非更大）。",
+      "flashcard_summary": "纖毛負責黏附 -> 其直徑顯著細於鞭毛",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 細菌表面附屬物構造\n2. 鞭毛 (flagellum) 負責運動\n3. 纖毛 (fimbriae/pili) 負責黏附\n4. 兩者直徑與粗細比較",
+      "flashcard_back": "纖毛 (fimbriae/pili) 主要介導黏附作用，但其直徑顯著小於（細於）負責運動的鞭毛 (flagellum)。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_007",
+      "question_number": 7,
+      "question_text": "肺纖維性囊腫病人的痰中常有綠膿桿菌(Pseudomonas aeruginosa),下列那個毒力因子最能幫助此菌在宿\n 主形成聚落(colonization)?",
+      "options": {
+        "A": "絲氨酸蛋白酶(serine protease)",
+        "B": "海藻酸鹽(alginate)",
+        "C": "綠膿桿菌素(pyocyanin)",
+        "D": "鋅金屬基質蛋白酶(zinc metalloprotease)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n肺纖維性囊腫 (Cystic fibrosis, CF) 患者由於 CFTR 基因突變，呼吸道分泌物異常黏稠，容易被綠膿桿菌 (Pseudomonas aeruginosa) 感染。在 CF 肺部的慢性感染中，綠膿桿菌會轉化為「黏液型 (mucoid phenotype)」，大量分泌一種胞外多醣體，協助其在氣道內形成強固的生物膜 (biofilm) 聚落，躲避宿主免疫清除與抗生素治療。\n\n【選項詳解】\n- A. 絲氨酸蛋白酶 (serine protease)：協助破壞宿主結締組織以利細菌散播，但非主要負責形成保護性生物膜定殖的因子。\n- B. 海藻酸鹽 (alginate)：正確。海藻酸鹽是組成黏液型綠膿桿菌生物膜基質的主要胞外多醣 (exopolysaccharide)，能使細菌集結、保護免受吞噬作用，並阻擋抗生素，是幫助綠膿桿菌在 CF 肺內定殖 (colonization) 的核心毒力因子。\n- C. 綠膿桿菌素 (pyocyanin)：為一種藍綠色色素，可產生反應性氧分子 (ROS)，造成上皮細胞損傷並抑制纖毛運動，非生物膜形成的主要基質成分。\n- D. 鋅金屬基質蛋白酶 (zinc metalloprotease)：如 Elastase B，主要功能是降解宿主的彈性纖維與免疫球蛋白，參與組織侵襲與損害，而非直接主導聚落定殖。\n\n【核心考點】\n綠膿桿菌在肺纖維性囊腫 (CF) 患者中產生黏液型突變，過量產生的胞外多醣「海藻酸鹽 (alginate)」主導生物膜形成與長期肺部定殖。",
+      "key_point": "綠膿桿菌 (P. aeruginosa) 分泌的海藻酸鹽 (alginate) 形成黏液型生物膜，是其在肺纖維性囊腫患者肺部定殖 (colonization) 的關鍵因子。",
+      "flashcard_summary": "綠膿桿菌 + CF定殖 -> 海藻酸鹽 (alginate) 生物膜",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 綠膿桿菌 (Pseudomonas aeruginosa)\n2. 肺纖維性囊腫 (Cystic fibrosis) 慢性感染\n3. 黏液樣聚落 (mucoid colony)\n4. 形成生物膜定殖 (colonization) 之多醣",
+      "flashcard_back": "利用海藻酸鹽 (alginate) 形成黏液型生物膜，保護細菌並介導肺部慢性定殖。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_008",
+      "question_number": 8,
+      "question_text": "有關化膿性鏈球菌(Streptococcus pyogenes)毒力因子(virulence factors)的敘述,下列何者最不適\n 當?",
+      "options": {
+        "A": "M蛋白質(M protein)可協助此菌躲避吞噬作用(phagocytosis)",
+        "B": "猩紅熱(scarlet fever)會出現皮膚紅疹(rash),主要是因為鏈球菌激酶(streptokinase)所導致",
+        "C": "鏈球菌溶血素O(Streptolysin O)具抗原性,且易被氧破壞",
+        "D": "去氧核糖核酸酶(deoxyribonuclease, DNase)可助長細菌在宿主組織內散播"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題考查 A 群鏈球菌（化膿性鏈球菌，Streptococcus pyogenes）的各項毒力因子及其相對應的病理生理機制。要求選出「最不適當」的選項。\n\n【選項詳解】\n- A. M蛋白質 (M protein) 可協助此菌躲避吞噬作用 (phagocytosis)：敘述正確。M protein 是 GAS 最重要的抗吞噬因子，可藉由結合 Factor H 等補體調控蛋白，阻斷補體替代路徑激活，降低 C3b 的調理吞噬作用。\n- B. 猩紅熱 (scarlet fever) 會出現皮膚紅疹 (rash),主要是因為鏈球菌激酶 (streptokinase) 所導致：敘述不適當，符合題意。猩紅熱特徵性的紅疹（如砂紙般粗糙紅疹、草莓舌）是由鏈球菌致熱外毒素 (Streptococcal pyrogenic exotoxins, SpeA/B/C，舊稱紅斑毒素 erythrogenic toxin) 所介導，這些毒素屬於超抗原 (superantigen)。而鏈球菌激酶 (streptokinase) 的作用是激活纖溶酶原 (plasminogen) 變成纖溶酶 (plasmin) 以溶解血栓，與紅疹無關。\n- C. 鏈球菌溶血素O (Streptolysin O) 具抗原性,且易被氧破壞：敘述正確。Streptolysin O (SLO) 是一種孔洞形成毒素，對氧敏感且不穩定（故稱 O，Oxygen-labile），刺激宿主產生 ASO 抗體，臨床上可用於診斷近期是否感染過 GAS。\n- D. 去氧核糖核酸酶 (deoxyribonuclease, DNase) 可助長細菌在宿主組織內散播：敘述正確。DNase (例如 Streptodornase) 可分解膿稠液中的 DNA（包含中性球所釋放的抗菌 NETs 網狀結構），降低膿液黏稠度，協助細菌向周圍組織擴散。\n\n【核心考點】\n化膿性鏈球菌 (S. pyogenes) 毒力因子之致病機轉：M protein（抗吞噬）、Spe/紅斑毒素（超抗原，致猩紅熱紅疹）、Streptolysin O（溶血，抗原性強）、DNase（液化膿液）、Streptokinase（溶解纖維蛋白）。",
+      "key_point": "猩紅熱 (scarlet fever) 的紅疹是由化膿性鏈球菌產生的致熱外毒素 (Spe) 引起，而鏈球菌激酶 (streptokinase) 的功能是溶解血栓。",
+      "flashcard_summary": "猩紅熱紅疹 -> 致熱外毒素 (Spe) 所致，非鏈球菌激酶",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 化膿性鏈球菌 (Streptococcus pyogenes)\n2. 猩紅熱 (scarlet fever) 紅疹成因\n3. 鏈球菌激酶 (streptokinase) 功能\n4. 致熱外毒素 (Spe)",
+      "flashcard_back": "猩紅熱紅疹是由致熱外毒素 (Spe) 所致；鏈球菌激酶的功能是激活纖溶酶原溶解血栓以利擴散。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_009",
+      "question_number": 9,
+      "question_text": "有關甲硝唑(metronidazole)之敘述,下列何者最適當?",
+      "options": {
+        "A": "可有效治療霍亂",
+        "B": "進入菌體內直接造成毒性",
+        "C": "可治療鬆脆類桿菌(Bacteroides fragilis)感染症",
+        "D": "對好氧菌很有效"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n甲硝唑 (Metronidazole) 是一種前驅藥物 (prodrug)，其作用範圍僅限於專性厭氧菌及特定的原蟲（如阿米巴、滴蟲、賈第鞭毛蟲）。本題要求選出關於甲硝唑「最適當」的敘述。\n\n【選項詳解】\n- A. 可有效治療霍亂：不適當。霍亂是由霍亂弧菌 (Vibrio cholerae，屬兼性厭氧菌) 引起，主要治療是水分補充，若需使用抗生素通常為 Doxycycline 或 Azithromycin，甲硝唑對其無效。\n- B. 進入菌體內直接造成毒性：不適當。甲硝唑本身是無活性的前驅藥，必須進入厭氧菌體內，藉由其特有的丙酮酸-鐵氧還蛋白氧化還原酶 (PFOR) 系統進行還原，產生具毒性的自由基中間產物，進而造成 DNA 斷裂而致死。若未被還原活化則不具毒性。\n- C. 可治療鬆脆類桿菌 (Bacteroides fragilis) 感染症：正確。鬆脆類桿菌 (B. fragilis) 為人體腸道內最主要的專性厭氧革蘭氏陰性桿菌，甲硝唑對其有極佳的抗菌活性，為治療腹腔內厭氧菌感染的首選藥物之一。\n- D. 對好氧菌很有效：不適當。好氧菌缺乏還原甲硝唑所需的低還原電位電子傳遞蛋白（如 ferredoxin），因此甲硝唑對好氧菌完全無效。\n\n【核心考點】\n甲硝唑 (metronidazole) 的藥理學機制（需在厭氧菌體內還原活化）與其特定的臨床適應症（專性厭氧菌如 Bacteroides, Clostridium 及原蟲）。",
+      "key_point": "甲硝唑 (metronidazole) 為厭氧菌首選藥物，需在厭氧細胞內被還原活化以破壞 DNA，對好氧菌無效。",
+      "flashcard_summary": "甲硝唑 (metronidazole) -> 治療專性厭氧菌 (如鬆脆類桿菌)，好氧菌無效",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 甲硝唑 (metronidazole) 作用機制\n2. 專性厭氧菌感染 (如 Bacteroides fragilis)\n3. 對好氧菌與兼性厭氧菌療效\n4. 前驅藥 (prodrug) 還原活化",
+      "flashcard_back": "甲硝唑需在厭氧環境下經電子傳遞鏈還原活化，產生自由基破壞 DNA，是治療鬆脆類桿菌等專性厭氧菌的首選。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_010",
+      "question_number": 10,
+      "question_text": "病毒感染時最常利用下列何種蛋白質進入細胞內?",
+      "options": {
+        "A": "基質蛋白(matrix protein)",
+        "B": "蛋白水解酶(protease)",
+        "C": "醣蛋白(glycoprotein)",
+        "D": "核心蛋白(core protein)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n病毒感染細胞的第一步是吸附 (attachment)，這需要病毒表面的吸附蛋白 (viral attachment proteins, VAPs) 與宿主細胞表面的特異性受體 (receptors) 發生高度親和的特異性結合。本題詢問病毒進入細胞最常利用何種蛋白質。\n\n【選項詳解】\n- A. 基質蛋白 (matrix protein)：位於病毒套膜與內層衣殼之間的結構蛋白，主要負責病毒的組裝、結構維持及出芽，不直接介導與宿主受體的吸附與入侵。\n- B. 蛋白水解酶 (protease)：為病毒基因組編碼的酶，主要在病毒成熟階段剪切前驅多肽鏈（如 HIV 蛋白酶），不直接作為結合宿主受體的媒介。\n- C. 醣蛋白 (glycoprotein)：正確。有套膜病毒的表面突起 (spikes) 均為醣蛋白（如流感病毒的血球凝集素 HA、HIV 的 gp120），其高度暴露在病毒外表面並經過糖基化，專司與宿主細胞膜上的受體進行特異性結合，並促成套膜與細胞膜的融合以利病毒進入細胞。\n- D. 核心蛋白 (core protein)：通常指衣殼蛋白 (capsid protein) 或與核酸直接結合的核蛋白 (nucleoprotein)，包覆在病毒內部，在有套膜病毒中不暴露於最外側，因此不直接介導吸附。\n\n【核心考點】\n病毒的侵入與吸附機制。套膜病毒表面突起醣蛋白 (glycoprotein) 的角色，如流感的 HA、冠狀病毒的 Spike (S) 蛋白、HIV 的 gp120 等。",
+      "key_point": "病毒主要利用套膜表面的醣蛋白 (glycoprotein) 作為吸附蛋白，與宿主細胞表面的特異性受體結合以介導侵入。",
+      "flashcard_summary": "病毒侵入細胞 -> 利用表面醣蛋白 (glycoprotein) 與宿主受體結合",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "1. 病毒吸附與侵入宿主細胞\n2. 病毒吸附蛋白 (viral attachment protein)\n3. 結合宿主細胞表面特異受體\n4. 主要蛋白結構類型",
+      "flashcard_back": "套膜病毒外側的醣蛋白 (glycoprotein) 是與宿主受體特異性結合併介導膜融合的主要構造。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:58.012902+00:00"
+    },
+    {
+      "id": "113-2_medicine-2_011",
+      "question_number": 11,
+      "question_text": "下列何種病毒感染人類引發疾病後,比較不會直接造成細胞增生形成腫瘤?",
+      "options": {
+        "A": "B型肝炎病毒(HBV)",
+        "B": "人類嗜淋巴球病毒一型(HTLV-1)",
+        "C": "人類乳突瘤病毒(HPV)",
+        "D": "人類免疫缺陷病毒(HIV)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種病毒感染人類引發疾病後,比較不會直接造成細胞增生形成腫瘤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 人類免疫缺陷病毒(HIV)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「B型肝炎病毒(HBV)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「人類嗜淋巴球病毒一型(HTLV-1)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「人類乳突瘤病毒(HPV)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「人類免疫缺陷病毒(HIV)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 人類免疫缺陷病毒(HIV) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 人類免疫缺陷病毒(HIV)",
+      "flashcard_summary": "病毒感染人類引發疾病後,比較不會直接造成細胞增生形成腫瘤 -> D. 人類免疫缺陷病毒(HIV)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "病毒感染人類引發疾病後,比較不會直接造成細胞增生形成腫瘤",
+      "flashcard_back": "官方答案指向「D. 人類免疫缺陷病毒(HIV)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_012",
+      "question_number": 12,
+      "question_text": "郵輪上的一群人出現了上吐下瀉的症狀,未經治療,症狀在2~3天都獲得緩解。他們最可能感染了下列何種\n 病毒?",
+      "options": {
+        "A": "腺病毒40型(Adenovirus 40)",
+        "B": "諾羅病毒(Norovirus)",
+        "C": "輪狀病毒(Rotavirus group A)",
+        "D": "腸病毒D68(Enterovirus D68)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「郵輪上的一群人出現了上吐下瀉的症狀,未經治療,症狀在2~3天都獲得緩解。他們最可能感染了下列何種\n 病毒?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 諾羅病毒(Norovirus)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「腺病毒40型(Adenovirus 40)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「諾羅病毒(Norovirus)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「輪狀病毒(Rotavirus group A)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「腸病毒D68(Enterovirus D68)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 諾羅病毒(Norovirus) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 諾羅病毒(Norovirus)",
+      "flashcard_summary": "郵輪上的一群人出現了上吐下瀉的症狀,未經治療,症狀在2~3天都獲得緩解。他們最可能感染了 -> B. 諾羅病毒(Norovirus)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "郵輪上的一群人出現了上吐下瀉的症狀,未經治療,症狀在2~3天都獲得緩解。他們最可能感染了",
+      "flashcard_back": "官方答案指向「B. 諾羅病毒(Norovirus)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_013",
+      "question_number": 13,
+      "question_text": "下列臨床症狀,何者與麻疹病毒感染較無關?",
+      "options": {
+        "A": "腦炎(encephalitis)",
+        "B": "畏光(photophobia)",
+        "C": "口腔出現科氏斑點(Koplik spots)",
+        "D": "進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列臨床症狀,何者與麻疹病毒感染較無關?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「腦炎(encephalitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「畏光(photophobia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「口腔出現科氏斑點(Koplik spots)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)",
+      "flashcard_summary": "第 13 題核心考點 -> D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 13 題核心考點",
+      "flashcard_back": "官方答案指向「D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy, PML)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_014",
+      "question_number": 14,
+      "question_text": "有關人類中東呼吸症候群(MERS)病毒,下列敘述何者最適當?",
+      "options": {
+        "A": "被感染的病人會產生出血及休克之病徵",
+        "B": "遺傳基因為正股(+)RNA",
+        "C": "主要是以果子狸為中間宿主而傳播",
+        "D": "喜歡在室溫25°C複製生長"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「有關人類中東呼吸症候群(MERS)病毒,下列敘述何者最適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 遺傳基因為正股(+)RNA，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「被感染的病人會產生出血及休克之病徵」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「遺傳基因為正股(+)RNA」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「主要是以果子狸為中間宿主而傳播」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「喜歡在室溫25°C複製生長」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 遺傳基因為正股(+)RNA 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 遺傳基因為正股(+)RNA",
+      "flashcard_summary": "人類中東呼吸症候群(MERS)病毒 / MERS -> B. 遺傳基因為正股(+)RNA",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "人類中東呼吸症候群(MERS)病毒 / MERS",
+      "flashcard_back": "官方答案指向「B. 遺傳基因為正股(+)RNA」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_015",
+      "question_number": 15,
+      "question_text": "有關人類免疫缺陷病毒(HIV)的敘述,下列何者最不適當?",
+      "options": {
+        "A": "病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質",
+        "B": "病毒Rev蛋白質可調控病毒mRNA轉送至細胞質",
+        "C": "病毒Tat蛋白質為一極強的轉活化因子(transactivator)",
+        "D": "在複製的早期會產生多種剪接(spliced)的mRNA"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關人類免疫缺陷病毒(HIV)的敘述,下列何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「病毒Rev蛋白質可調控病毒mRNA轉送至細胞質」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「病毒Tat蛋白質為一極強的轉活化因子(transactivator)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「在複製的早期會產生多種剪接(spliced)的mRNA」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質",
+      "flashcard_summary": "人類免疫缺陷病毒(HIV)的敘述 / HIV -> A. 病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "人類免疫缺陷病毒(HIV)的敘述 / HIV",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 病毒之蛋白酶(protease)主要作用於宿主細胞蛋白質」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_016",
+      "question_number": 16,
+      "question_text": "下列何種念珠菌對 fluconazole 最具有先天的抗藥性?",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Candida tropicalis",
+        "C": "Candida krusei",
+        "D": "Candida parapsilosis"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種念珠菌對 fluconazole 最具有先天的抗藥性?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. Candida krusei，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Candida albicans」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Candida tropicalis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「Candida krusei」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Candida parapsilosis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. Candida krusei 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. Candida krusei",
+      "flashcard_summary": "念珠菌對 fluconazole 最具有先天的抗藥性 / fluconazole -> C. Candida krusei",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "念珠菌對 fluconazole 最具有先天的抗藥性 / fluconazole",
+      "flashcard_back": "官方答案指向「C. Candida krusei」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_017",
+      "question_number": 17,
+      "question_text": "造成全身感染之真菌中,下列何者會在感染組織中較常形成酵母團(spherule)?",
+      "options": {
+        "A": "莢膜組織胞漿菌(Histoplasma capsulatum)",
+        "B": "皮炎芽生黴菌(Blastomyces dermatitidis)",
+        "C": "巴西副球黴菌(Paracoccidioides brasiliensis)",
+        "D": "粗球黴菌(Coccidioides immitis)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「造成全身感染之真菌中,下列何者會在感染組織中較常形成酵母團(spherule)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 粗球黴菌(Coccidioides immitis)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「莢膜組織胞漿菌(Histoplasma capsulatum)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「皮炎芽生黴菌(Blastomyces dermatitidis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「巴西副球黴菌(Paracoccidioides brasiliensis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「粗球黴菌(Coccidioides immitis)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 粗球黴菌(Coccidioides immitis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 粗球黴菌(Coccidioides immitis)",
+      "flashcard_summary": "造成全身感染之真菌中 / spherule -> D. 粗球黴菌(Coccidioides immitis)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "造成全身感染之真菌中 / spherule",
+      "flashcard_back": "官方答案指向「D. 粗球黴菌(Coccidioides immitis)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_018",
+      "question_number": 18,
+      "question_text": "人類的免疫系統由造血幹細胞分化而來,若有一病人缺乏了淋巴前驅細胞(common lymphoid\n progenitor),你預測此病人體內那一個部分的免疫系統會受到最大的影響?",
+      "options": {
+        "A": "先天性免疫系統",
+        "B": "後天性免疫系統",
+        "C": "先天性以及後天性免疫系統同時受到相同程度的影響",
+        "D": "血液凝結系統"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「人類的免疫系統由造血幹細胞分化而來,若有一病人缺乏了淋巴前驅細胞(common lymphoid\n progenitor),你預測此病人體內那一個部分的免疫系統會受到最大的影響?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 後天性免疫系統，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「先天性免疫系統」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「後天性免疫系統」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「先天性以及後天性免疫系統同時受到相同程度的影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「血液凝結系統」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 後天性免疫系統 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 後天性免疫系統",
+      "flashcard_summary": "人類的免疫系統由造血幹細胞分化而來,若有一病人缺乏了淋巴前驅細胞(common lymphoid pr… / common lymphoid progenitor -> B. 後天性免疫系統",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "人類的免疫系統由造血幹細胞分化而來,若有一病人缺乏了淋巴前驅細胞(common lymphoid pr… / common lymphoid progenitor",
+      "flashcard_back": "官方答案指向「B. 後天性免疫系統」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_019",
+      "question_number": 19,
+      "question_text": "有關補體系統參與先天性免疫防禦之敘述,下列何者最不適當?",
+      "options": {
+        "A": "補體分子C5活化下游C6-C9組成膜攻擊複合體(membrane-attack complex)裂解病原菌",
+        "B": "補體活化僅能由抗體啟動而非病原菌表面分子",
+        "C": "活化補體分子可以經由調理作用(opsonization)促進吞噬反應",
+        "D": "活化補體分子C3a及C5a可以活化肥大細胞(mast cells)促進發炎反應"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「有關補體系統參與先天性免疫防禦之敘述,下列何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 補體活化僅能由抗體啟動而非病原菌表面分子，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「補體分子C5活化下游C6-C9組成膜攻擊複合體(membrane-attack complex)裂解病原菌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「補體活化僅能由抗體啟動而非病原菌表面分子」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「活化補體分子可以經由調理作用(opsonization)促進吞噬反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「活化補體分子C3a及C5a可以活化肥大細胞(mast cells)促進發炎反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 補體活化僅能由抗體啟動而非病原菌表面分子 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 補體活化僅能由抗體啟動而非病原菌表面分子",
+      "flashcard_summary": "補體系統參與先天性免疫防禦之敘述 -> B. 補體活化僅能由抗體啟動而非病原菌表面分子",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "補體系統參與先天性免疫防禦之敘述",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 補體活化僅能由抗體啟動而非病原菌表面分子」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_020",
+      "question_number": 20,
+      "question_text": "關於T細胞所辨識的抗原,下列敘述何者最不適當?",
+      "options": {
+        "A": "T細胞所辨識的抗原,通常是短片段的胜肽",
+        "B": "抗原需被呈獻在MHC上,才能被T細胞所辨識",
+        "C": "抗原需摺疊成複雜的立體結構,才能被T細胞所辨識",
+        "D": "T細胞經胸腺教育的階段,可區隔自體與外來抗原,以避免產生自體免疫反應"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於T細胞所辨識的抗原,下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 抗原需摺疊成複雜的立體結構,才能被T細胞所辨識，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「T細胞所辨識的抗原,通常是短片段的胜肽」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「抗原需被呈獻在MHC上,才能被T細胞所辨識」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「抗原需摺疊成複雜的立體結構,才能被T細胞所辨識」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「T細胞經胸腺教育的階段,可區隔自體與外來抗原,以避免產生自體免疫反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 抗原需摺疊成複雜的立體結構,才能被T細胞所辨識 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 抗原需摺疊成複雜的立體結構,才能被T細胞所辨識",
+      "flashcard_summary": "T細胞所辨識的抗原 -> C. 抗原需摺疊成複雜的立體結構,才能被T細胞所辨識",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "T細胞所辨識的抗原",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 抗原需摺疊成複雜的立體結構,才能被T細胞所辨識」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_021",
+      "question_number": 21,
+      "question_text": "下列關於B細胞發育的敘述,何者最不適當?",
+      "options": {
+        "A": "免疫球蛋白基因的V(D)J重組,先從重鏈(heavy chain)開始",
+        "B": "μ重鏈(μ heavy chain)與VpreB及λ5組成的pre-BCR,對pre-B細胞繼續發育是必要的",
+        "C": "Bruton's tyrosine kinase(Btk)是pre-BCR或BCR下游訊息傳遞的必要蛋白,缺乏Btk會造成X-linked\n agammaglobulinemia(XLA)",
+        "D": "表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於B細胞發育的敘述,何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「免疫球蛋白基因的V(D)J重組,先從重鏈(heavy chain)開始」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「μ重鏈(μ heavy chain)與VpreB及λ5組成的pre-BCR,對pre-B細胞繼續發育是必要的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Bruton's tyrosine kinase(Btk)是pre-BCR或BCR下游訊息傳遞的必要蛋白,缺乏Btk會造成X-linked\n agammaglobulinemia(XLA)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)",
+      "flashcard_summary": "第 21 題核心考點 -> D. 表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 21 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 表現IgM的immature B細胞如果辨識到抗原,就會開始細胞分裂(clonal expansion)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_022",
+      "question_number": 22,
+      "question_text": "下列何種CD4效應T細胞(effector CD4 T cells)所分泌的細胞激素(cytokines)或產生的表面分子\n (surface molecule)與促進B細胞抗體類型轉換(isotype class switch)的作用相關性最高?",
+      "options": {
+        "A": "IL-2",
+        "B": "IL-10",
+        "C": "CD40 ligand",
+        "D": "CD28"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種CD4效應T細胞(effector CD4 T cells)所分泌的細胞激素(cytokines)或產生的表面分子\n (surface molecule)與促進B細胞抗體類型轉換(isotype class switch)的作用相關性最高?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. CD40 ligand，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「IL-2」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「IL-10」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「CD40 ligand」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「CD28」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. CD40 ligand 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. CD40 ligand",
+      "flashcard_summary": "CD4效應T細胞(effector CD4 T cells)所分泌的細胞激素(cytokines)或產… / CD4 / effector CD4 T cells -> C. CD40 ligand",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "CD4效應T細胞(effector CD4 T cells)所分泌的細胞激素(cytokines)或產… / CD4 / effector CD4 T cells",
+      "flashcard_back": "官方答案指向「C. CD40 ligand」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_023",
+      "question_number": 23,
+      "question_text": "下列有關肺炎鏈球菌多醣體疫苗之敘述,何者最不適當?",
+      "options": {
+        "A": "是多醣體連結蛋白質形成的疫苗",
+        "B": "以thymus-independent方式活化B細胞",
+        "C": "誘發出來的抗多醣體抗體可降低病菌感染",
+        "D": "可誘發記憶B細胞的產生"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關肺炎鏈球菌多醣體疫苗之敘述,何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 以thymus-independent方式活化B細胞，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「是多醣體連結蛋白質形成的疫苗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「以thymus-independent方式活化B細胞」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「誘發出來的抗多醣體抗體可降低病菌感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「可誘發記憶B細胞的產生」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 以thymus-independent方式活化B細胞 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 以thymus-independent方式活化B細胞",
+      "flashcard_summary": "第 23 題核心考點 -> B. 以thymus-independent方式活化B細胞",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 23 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 以thymus-independent方式活化B細胞」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_024",
+      "question_number": 24,
+      "question_text": "疫苗接種(vaccination)是公共衛生常用以預防傳染病的手段。下列何者最不適合用於先天性免疫不全的\n 病人?",
+      "options": {
+        "A": "B型肝炎(hepatitis B)疫苗",
+        "B": "沙賓(Sabin)小兒麻痺疫苗",
+        "C": "白喉、破傷風、百日咳三合一(DPT)疫苗",
+        "D": "注射型流行性感冒(influenza)疫苗"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「疫苗接種(vaccination)是公共衛生常用以預防傳染病的手段。下列何者最不適合用於先天性免疫不全的\n 病人?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 沙賓(Sabin)小兒麻痺疫苗，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「B型肝炎(hepatitis B)疫苗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「沙賓(Sabin)小兒麻痺疫苗」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「白喉、破傷風、百日咳三合一(DPT)疫苗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「注射型流行性感冒(influenza)疫苗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 沙賓(Sabin)小兒麻痺疫苗 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 沙賓(Sabin)小兒麻痺疫苗",
+      "flashcard_summary": "疫苗接種(vaccination)是公共衛生常用以預防傳染病的手段 / vaccination -> B. 沙賓(Sabin)小兒麻痺疫苗",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "疫苗接種(vaccination)是公共衛生常用以預防傳染病的手段 / vaccination",
+      "flashcard_back": "官方答案指向「B. 沙賓(Sabin)小兒麻痺疫苗」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_025",
+      "question_number": 25,
+      "question_text": "免疫性血小板缺乏症(immune thrombocytopenia)最主要是由下列何種過敏反應(hypersensitivity)所\n 導致?",
+      "options": {
+        "A": "type I過敏反應",
+        "B": "type II過敏反應",
+        "C": "type III過敏反應",
+        "D": "type IV過敏反應"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「免疫性血小板缺乏症(immune thrombocytopenia)最主要是由下列何種過敏反應(hypersensitivity)所\n 導致?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. type II過敏反應，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「type I過敏反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「type II過敏反應」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「type III過敏反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「type IV過敏反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. type II過敏反應 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. type II過敏反應",
+      "flashcard_summary": "免疫性血小板缺乏症(immune thrombocytopenia)最主要是由 / immune thrombocytopenia / hypersensitivity -> B. type II過敏反應",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "免疫性血小板缺乏症(immune thrombocytopenia)最主要是由 / immune thrombocytopenia / hypersensitivity",
+      "flashcard_back": "官方答案指向「B. type II過敏反應」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_026",
+      "question_number": 26,
+      "question_text": "自體免疫疾病是由於免疫系統針對自體抗原產生一系列免疫反應而產生的疾病。自體免疫疾病的形成,必須\n 突破多重免疫耐受的機制。下列有關自體免疫的敘述,何者最不適當?",
+      "options": {
+        "A": "免疫豁免部位,例如眼、子宮等器官,若遭受創傷導致組織特異抗原得以被周邊免疫細胞偵測時,可能引\n 發自體免疫疾病",
+        "B": "調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞",
+        "C": "周邊免疫失能(peripheral anergy)指的是當免疫細胞在周邊組織接收到抗原刺激時,若沒有受到共同刺\n 激(costimulation)的訊號,則會產生免疫抑制",
+        "D": "中樞免疫耐受性的建立,主要在初級免疫器官骨髓以及胸腺中進行"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「自體免疫疾病是由於免疫系統針對自體抗原產生一系列免疫反應而產生的疾病。自體免疫疾病的形成,必須\n 突破多重免疫耐受的機制。下列有關自體免疫的敘述,何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「免疫豁免部位,例如眼、子宮等器官,若遭受創傷導致組織特異抗原得以被周邊免疫細胞偵測時,可能引\n 發自體免疫疾病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「周邊免疫失能(peripheral anergy)指的是當免疫細胞在周邊組織接收到抗原刺激時,若沒有受到共同刺\n 激(costimulation)的訊號,則會產生免疫抑制」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「中樞免疫耐受性的建立,主要在初級免疫器官骨髓以及胸腺中進行」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞",
+      "flashcard_summary": "自體免疫疾病是由於免疫系統針對自體抗原產生一系列免疫反應而產生的疾病。自體免疫疾病的形成,必須 突破多… -> B. 調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "自體免疫疾病是由於免疫系統針對自體抗原產生一系列免疫反應而產生的疾病。自體免疫疾病的形成,必須 突破多…",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 調節型T細胞(regulatory T cell)主要以細胞毒殺的方式,移除其辨識的自體細胞」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_027",
+      "question_number": 27,
+      "question_text": "目前有許多癌症治療是透過給與免疫細胞或激活免疫系統而達成,關於癌症免疫治療,下列敘述何者最不適\n 當?",
+      "options": {
+        "A": "mRNA癌症疫苗需先找到腫瘤的基因突變,根據病人的HLA預測新生抗原(neoantigen),再根據預測結果合\n 成mRNA,透過脂質奈米粒包覆mRNA,注射疫苗後激活腫瘤特異性細胞的免疫反應",
+        "B": "細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro-\n inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異\n 性",
+        "C": "單核球衍生樹突細胞(monocyte-derived dendritic cell, MoDC)透過體外培養,將單核球轉變成抗原呈\n 獻細胞,此種細胞會捕捉體內腫瘤抗原,並刺激與活化腫瘤特異性T細胞,以達到腫瘤毒殺作用",
+        "D": "嵌合抗原受體T細胞(chimeric antigen receptor-T, CAR-T),是透過病毒將CAR分子基因送入T細胞,此\n CAR分子具有辨認腫瘤抗原與活化T細胞的特性"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「目前有許多癌症治療是透過給與免疫細胞或激活免疫系統而達成,關於癌症免疫治療,下列敘述何者最不適\n 當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro- inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異 性，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「mRNA癌症疫苗需先找到腫瘤的基因突變,根據病人的HLA預測新生抗原(neoantigen),再根據預測結果合\n 成mRNA,透過脂質奈米粒包覆mRNA,注射疫苗後激活腫瘤特異性細胞的免疫反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro-\n inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異\n 性」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「單核球衍生樹突細胞(monocyte-derived dendritic cell, MoDC)透過體外培養,將單核球轉變成抗原呈\n 獻細胞,此種細胞會捕捉體內腫瘤抗原,並刺激與活化腫瘤特異性T細胞,以達到腫瘤毒殺作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「嵌合抗原受體T細胞(chimeric antigen receptor-T, CAR-T),是透過病毒將CAR分子基因送入T細胞,此\n CAR分子具有辨認腫瘤抗原與活化T細胞的特性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro- inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異 性 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro- inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異 性",
+      "flashcard_summary": "目前有許多癌症治療是透過給與免疫細胞或激活免疫系統而達成,關於癌症免疫治療 -> B. 細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro- inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異 性",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "目前有許多癌症治療是透過給與免疫細胞或激活免疫系統而達成,關於癌症免疫治療",
+      "flashcard_back": "官方答案指向「B. 細胞激素激活殺手細胞(cytokine-induced killer, CIK),是將T細胞在含有多種促發炎細胞激素(pro- inflammatory cytokines)的環境下,進行體外培養,再回輸至病患體內,此種細胞,具有高度腫瘤特異 性」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_028",
+      "question_number": 28,
+      "question_text": "超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生?",
+      "options": {
+        "A": "數分鐘內",
+        "B": "2~5天",
+        "C": "7~21天",
+        "D": "1~3個月"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. 數分鐘內」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「數分鐘內」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「2~5天」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「7~21天」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「1~3個月」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生 / hyperacute rejection => 數分鐘內 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生 / hyperacute rejection => 數分鐘內",
+      "flashcard_summary": "超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生 / hyperacute rejection -> A. 數分鐘內",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "超急性排斥反應(hyperacute rejection)通常是在移植手術後多久發生 / hyperacute rejection",
+      "flashcard_back": "考點是把題幹線索連到「A. 數分鐘內」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_029",
+      "question_number": 29,
+      "question_text": "一名外籍移工剛至臺灣的第3天,於醫院接受腸道寄生蟲檢查,醫檢師發現其糞便內有許多肝毛線蟲\n (Capillaria hepatica)蟲卵,下列敘述何者最適當?",
+      "options": {
+        "A": "該外籍移工在母國因為嗜食魚的肝臟,而受到肝毛線蟲蟲卵的感染(egg infection)",
+        "B": "該外籍移工在母國因為嗜食鼠的肝臟,而受到肝毛線蟲幼蟲的感染(larval infection)",
+        "C": "該外籍移工在母國因為嗜食鵝的肝臟,而受到肝毛線蟲蟲卵的感染(egg infection)",
+        "D": "該外籍移工其實是一種假性感染(spurious infection)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「一名外籍移工剛至臺灣的第3天,於醫院接受腸道寄生蟲檢查,醫檢師發現其糞便內有許多肝毛線蟲\n (Capillaria hepatica)蟲卵,下列敘述何者最適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 該外籍移工其實是一種假性感染(spurious infection)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「該外籍移工在母國因為嗜食魚的肝臟,而受到肝毛線蟲蟲卵的感染(egg infection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「該外籍移工在母國因為嗜食鼠的肝臟,而受到肝毛線蟲幼蟲的感染(larval infection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「該外籍移工在母國因為嗜食鵝的肝臟,而受到肝毛線蟲蟲卵的感染(egg infection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「該外籍移工其實是一種假性感染(spurious infection)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 該外籍移工其實是一種假性感染(spurious infection) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 該外籍移工其實是一種假性感染(spurious infection)",
+      "flashcard_summary": "一名外籍移工剛至臺灣的第3天,於醫院接受腸道寄生蟲檢查,醫檢師發現其糞便內有許多肝毛線蟲 (Capil… / Capillaria hepatica -> D. 該外籍移工其實是一種假性感染(spurious infection)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "一名外籍移工剛至臺灣的第3天,於醫院接受腸道寄生蟲檢查,醫檢師發現其糞便內有許多肝毛線蟲 (Capil… / Capillaria hepatica",
+      "flashcard_back": "官方答案指向「D. 該外籍移工其實是一種假性感染(spurious infection)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_030",
+      "question_number": 30,
+      "question_text": "下列有關蟯蟲(Enterobius vermicularis)感染的敘述,何者錯誤?",
+      "options": {
+        "A": "感染後易於夜間導致睡眠病(sleeping sickness)",
+        "B": "蟲卵可藉空氣傳播感染人體",
+        "C": "婦女感染後有可能引起慢性骨盆腔腹膜炎(pelvic peritonitis)",
+        "D": "最正確的診斷方式為肛圍擦拭法(perianal swab)檢查是否有蟲卵"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關蟯蟲(Enterobius vermicularis)感染的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 感染後易於夜間導致睡眠病(sleeping sickness)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「感染後易於夜間導致睡眠病(sleeping sickness)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「蟲卵可藉空氣傳播感染人體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「婦女感染後有可能引起慢性骨盆腔腹膜炎(pelvic peritonitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「最正確的診斷方式為肛圍擦拭法(perianal swab)檢查是否有蟲卵」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 感染後易於夜間導致睡眠病(sleeping sickness) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 感染後易於夜間導致睡眠病(sleeping sickness)",
+      "flashcard_summary": "第 30 題核心考點 / Enterobius vermicularis -> A. 感染後易於夜間導致睡眠病(sleeping sickness)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 30 題核心考點 / Enterobius vermicularis",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 感染後易於夜間導致睡眠病(sleeping sickness)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_031",
+      "question_number": 31,
+      "question_text": "下列有關血吸蟲的敘述,何者錯誤?",
+      "options": {
+        "A": "雌雄同體,具口吸盤和腹吸盤",
+        "B": "中間宿主釋出之尾動幼蟲(cercaria)可以穿透人的皮膚",
+        "C": "曼森血吸蟲(Schistosoma mansoni)的分布地區最廣",
+        "D": "致病機轉主要來自宿主對蟲卵的免疫反應"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關血吸蟲的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 雌雄同體,具口吸盤和腹吸盤，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「雌雄同體,具口吸盤和腹吸盤」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「中間宿主釋出之尾動幼蟲(cercaria)可以穿透人的皮膚」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「曼森血吸蟲(Schistosoma mansoni)的分布地區最廣」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「致病機轉主要來自宿主對蟲卵的免疫反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 雌雄同體,具口吸盤和腹吸盤 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 雌雄同體,具口吸盤和腹吸盤",
+      "flashcard_summary": "第 31 題核心考點 -> A. 雌雄同體,具口吸盤和腹吸盤",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 31 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 雌雄同體,具口吸盤和腹吸盤」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_032",
+      "question_number": 32,
+      "question_text": "人類感染下列何種寄生蟲之主要途徑,不是經由飲用受污染的水所致?",
+      "options": {
+        "A": "環孢子蟲(Cyclospora cayetanensis)",
+        "B": "弓蟲(Toxoplasma gondii)",
+        "C": "梨形鞭毛蟲(Giardia lamblia / G. intestinalis)",
+        "D": "隱孢子蟲(Cryptosporidium spp.)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「人類感染下列何種寄生蟲之主要途徑,不是經由飲用受污染的水所致?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 弓蟲(Toxoplasma gondii)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「環孢子蟲(Cyclospora cayetanensis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「弓蟲(Toxoplasma gondii)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「梨形鞭毛蟲(Giardia lamblia / G. intestinalis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「隱孢子蟲(Cryptosporidium spp.)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 弓蟲(Toxoplasma gondii) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 弓蟲(Toxoplasma gondii)",
+      "flashcard_summary": "人類感染 -> B. 弓蟲(Toxoplasma gondii)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "人類感染",
+      "flashcard_back": "官方答案指向「B. 弓蟲(Toxoplasma gondii)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_033",
+      "question_number": 33,
+      "question_text": "有關間日瘧原蟲(Plasmodium vivax),下列敘述何者錯誤?",
+      "options": {
+        "A": "其裂殖子(merozoite)主要侵犯年輕的紅血球,如網狀紅血球(reticulocyte)",
+        "B": "Duffy血型抗原是該瘧原蟲的附著部位",
+        "C": "由間日瘧原蟲造成的瘧疾在西非最為常見",
+        "D": "因紅血球破裂,大量裂殖子(merozoite)、細胞殘骸及血紅素釋出,造成畏寒、發燒的臨床症狀"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關間日瘧原蟲(Plasmodium vivax),下列敘述何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 由間日瘧原蟲造成的瘧疾在西非最為常見，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「其裂殖子(merozoite)主要侵犯年輕的紅血球,如網狀紅血球(reticulocyte)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Duffy血型抗原是該瘧原蟲的附著部位」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「由間日瘧原蟲造成的瘧疾在西非最為常見」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「因紅血球破裂,大量裂殖子(merozoite)、細胞殘骸及血紅素釋出,造成畏寒、發燒的臨床症狀」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 由間日瘧原蟲造成的瘧疾在西非最為常見 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 由間日瘧原蟲造成的瘧疾在西非最為常見",
+      "flashcard_summary": "間日瘧原蟲(Plasmodium vivax) / Plasmodium vivax -> C. 由間日瘧原蟲造成的瘧疾在西非最為常見",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "間日瘧原蟲(Plasmodium vivax) / Plasmodium vivax",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 由間日瘧原蟲造成的瘧疾在西非最為常見」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_034",
+      "question_number": 34,
+      "question_text": "有關隱孢子蟲(Cryptosporidium spp.),下列敘述何者錯誤?",
+      "options": {
+        "A": "人隱孢子蟲(C. hominis)及小隱孢子蟲(C. parvum)最常感染人類",
+        "B": "僅存在於宿主腸道上皮刷狀緣",
+        "C": "隱孢子蟲症主要是經水傳播",
+        "D": "可在腹瀉患者糞便中找到大量活動體(trophozoites)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「有關隱孢子蟲(Cryptosporidium spp.),下列敘述何者錯誤?」\n標準答案為 B、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 僅存在於宿主腸道上皮刷狀緣；D. 可在腹瀉患者糞便中找到大量活動體(trophozoites)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「人隱孢子蟲(C. hominis)及小隱孢子蟲(C. parvum)最常感染人類」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B、D 比較。\n- B. 正確答案。選項內容：「僅存在於宿主腸道上皮刷狀緣」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「隱孢子蟲症主要是經水傳播」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B、D 比較。\n- D. 正確答案。選項內容：「可在腹瀉患者糞便中找到大量活動體(trophozoites)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：B. 僅存在於宿主腸道上皮刷狀緣；D. 可在腹瀉患者糞便中找到大量活動體(trophozoites) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 僅存在於宿主腸道上皮刷狀緣；D. 可在腹瀉患者糞便中找到大量活動體(trophozoites)",
+      "flashcard_summary": "隱孢子蟲(Cryptosporidium spp.) / Cryptosporidium spp -> B. 僅存在於宿主腸道上皮刷狀緣；D. 可在腹瀉患者糞便中找到大量活動體(trophozoites)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "answer_status": "multiple_correct",
+      "answer_source": "official_correction",
+      "answer_note": "第34題答B或D或BD者均給分",
+      "flashcard_front": "隱孢子蟲(Cryptosporidium spp.) / Cryptosporidium spp",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 僅存在於宿主腸道上皮刷狀緣；D. 可在腹瀉患者糞便中找到大量活動體(trophozoites)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_035",
+      "question_number": 35,
+      "question_text": "下列何種疾病的主要病媒(vector)不是體蝨(body louse)?",
+      "options": {
+        "A": "流行性斑疹傷寒(epidemic typhus)",
+        "B": "回歸熱(relapsing fever)",
+        "C": "地方性斑疹傷寒(endemic typhus)",
+        "D": "戰壕熱(trench fever)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種疾病的主要病媒(vector)不是體蝨(body louse)?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 地方性斑疹傷寒(endemic typhus)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「流行性斑疹傷寒(epidemic typhus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「回歸熱(relapsing fever)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「地方性斑疹傷寒(endemic typhus)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「戰壕熱(trench fever)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n疾病的主要病媒(vector)不是體蝨(body louse) / vector / body louse => 地方性斑疹傷寒(endemic typhus) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "疾病的主要病媒(vector)不是體蝨(body louse) / vector / body louse => 地方性斑疹傷寒(endemic typhus)",
+      "flashcard_summary": "疾病的主要病媒(vector)不是體蝨(body louse) / vector / body louse -> C. 地方性斑疹傷寒(endemic typhus)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "疾病的主要病媒(vector)不是體蝨(body louse) / vector / body louse",
+      "flashcard_back": "考點是把題幹線索連到「C. 地方性斑疹傷寒(endemic typhus)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "皮膚科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_036",
+      "question_number": 36,
+      "question_text": "下列有關信賴區間(confidence interval)的敘述何者最不恰當?",
+      "options": {
+        "A": "信賴區間是一種區間估計的方法",
+        "B": "95%的信賴區間代表95%的樣本落在該區間",
+        "C": "90%信賴區間的寬度會比95%信賴區間的寬度還窄",
+        "D": "信賴區間也可以用來檢定假說"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關信賴區間(confidence interval)的敘述何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 95%的信賴區間代表95%的樣本落在該區間」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「信賴區間是一種區間估計的方法」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「95%的信賴區間代表95%的樣本落在該區間」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「90%信賴區間的寬度會比95%信賴區間的寬度還窄」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「信賴區間也可以用來檢定假說」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第 36 題核心考點 / confidence interval => 95%的信賴區間代表95%的樣本落在該區間 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 36 題核心考點 / confidence interval => 95%的信賴區間代表95%的樣本落在該區間",
+      "flashcard_summary": "第 36 題核心考點 / confidence interval -> B. 95%的信賴區間代表95%的樣本落在該區間",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 36 題核心考點 / confidence interval",
+      "flashcard_back": "考點是把題幹線索連到「B. 95%的信賴區間代表95%的樣本落在該區間」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_037",
+      "question_number": 37,
+      "question_text": "收集100位下背痛病人在接受復健治療前及治療後的疼痛分數(範圍0~100分,分數越高越痛),利用此資\n 料欲評估復健治療是否改善下背痛之疼痛狀況,應該採用下列何種統計方法分析最恰當?",
+      "options": {
+        "A": "卡方檢定(Chi-square test)",
+        "B": "麥內瑪關聯樣本檢定(McNemar's test)",
+        "C": "雙樣本t檢定(Two-sample t-test)",
+        "D": "配對t檢定(Paired t-test)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「收集100位下背痛病人在接受復健治療前及治療後的疼痛分數(範圍0~100分,分數越高越痛),利用此資\n 料欲評估復健治療是否改善下背痛之疼痛狀況,應該採用下列何種統計方法分析最恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 配對t檢定(Paired t-test)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「卡方檢定(Chi-square test)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「麥內瑪關聯樣本檢定(McNemar's test)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「雙樣本t檢定(Two-sample t-test)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「配對t檢定(Paired t-test)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 配對t檢定(Paired t-test) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 配對t檢定(Paired t-test)",
+      "flashcard_summary": "收集100位下背痛病人在接受復健治療前及治療後的疼痛分數(範圍0~100分,分數越高越痛),利用此資 … -> D. 配對t檢定(Paired t-test)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "收集100位下背痛病人在接受復健治療前及治療後的疼痛分數(範圍0~100分,分數越高越痛),利用此資 …",
+      "flashcard_back": "官方答案指向「D. 配對t檢定(Paired t-test)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_038",
+      "question_number": 38,
+      "question_text": "某新興傳染病爆發之後,對疑似病人採檢後進行兩種不同方法的檢驗,並將其中任一次檢驗呈現陽性反應定\n 義為陽性感染者,主要目的為:",
+      "options": {
+        "A": "可增加檢驗敏感度",
+        "B": "可增加檢驗特異度",
+        "C": "可同時增加檢驗敏感度與特異度",
+        "D": "維持檢驗敏感度與特異度"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「某新興傳染病爆發之後,對疑似病人採檢後進行兩種不同方法的檢驗,並將其中任一次檢驗呈現陽性反應定\n 義為陽性感染者,主要目的為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 可增加檢驗敏感度，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「可增加檢驗敏感度」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「可增加檢驗特異度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「可同時增加檢驗敏感度與特異度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「維持檢驗敏感度與特異度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 可增加檢驗敏感度 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 可增加檢驗敏感度",
+      "flashcard_summary": "某新興傳染病爆發之後,對疑似病人採檢後進行兩種不同方法的檢驗,並將其中任一次檢驗呈現陽性反應定 義為陽… -> A. 可增加檢驗敏感度",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "某新興傳染病爆發之後,對疑似病人採檢後進行兩種不同方法的檢驗,並將其中任一次檢驗呈現陽性反應定 義為陽…",
+      "flashcard_back": "官方答案指向「A. 可增加檢驗敏感度」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_039",
+      "question_number": 39,
+      "question_text": "某醫學期刊的一則廣告提到「2000名喉嚨痛的病人在接受本公司的新藥治療後的第4天,大約有94%病人的症\n 狀緩解了」。此廣告也宣稱該公司的新藥對於治療喉嚨痛具有療效,您認為下列有關該公司新藥療效的相關\n 敘述何者最恰當?",
+      "options": {
+        "A": "該公司的宣稱是恰當的",
+        "B": "該公司的宣稱可能不恰當,因為統計數據沒有考量觀察人年數來計算「率(rate)」",
+        "C": "該公司的宣稱可能不恰當,因為該研究沒有考慮樣本長期的藥物反應",
+        "D": "該公司的宣稱可能不恰當,因為該研究沒有使用對照組"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「某醫學期刊的一則廣告提到「2000名喉嚨痛的病人在接受本公司的新藥治療後的第4天,大約有94%病人的症\n 狀緩解了」。此廣告也宣稱該公司的新藥對於治療喉嚨痛具有療效,您認為下列有關該公司新藥療效的相關\n 敘述何者最恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 該公司的宣稱可能不恰當,因為該研究沒有使用對照組，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「該公司的宣稱是恰當的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「該公司的宣稱可能不恰當,因為統計數據沒有考量觀察人年數來計算「率(rate)」」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「該公司的宣稱可能不恰當,因為該研究沒有考慮樣本長期的藥物反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「該公司的宣稱可能不恰當,因為該研究沒有使用對照組」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 該公司的宣稱可能不恰當,因為該研究沒有使用對照組 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 該公司的宣稱可能不恰當,因為該研究沒有使用對照組",
+      "flashcard_summary": "某醫學期刊的一則廣告提到「2000名喉嚨痛的病人在接受本公司的新藥治療後的第4天,大約有94%病人的症… -> D. 該公司的宣稱可能不恰當,因為該研究沒有使用對照組",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "某醫學期刊的一則廣告提到「2000名喉嚨痛的病人在接受本公司的新藥治療後的第4天,大約有94%病人的症…",
+      "flashcard_back": "官方答案指向「D. 該公司的宣稱可能不恰當,因為該研究沒有使用對照組」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_040",
+      "question_number": 40,
+      "question_text": "某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過\n 多久時間?",
+      "options": {
+        "A": "42小時",
+        "B": "48小時",
+        "C": "72小時",
+        "D": "96小時"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過\n 多久時間?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 72小時」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「42小時」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「48小時」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「72小時」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「96小時」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過 … => 72小時 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過 … => 72小時",
+      "flashcard_summary": "某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過 … -> C. 72小時",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "某化學物質在人體內代謝半衰期為24小時。某次暴露後體內殘量為原暴露量0.125倍時,則距離暴露已經過 …",
+      "flashcard_back": "考點是把題幹線索連到「C. 72小時」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_041",
+      "question_number": 41,
+      "question_text": "行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種\n 顏色表示?",
+      "options": {
+        "A": "褐紅色(或咖啡色)",
+        "B": "紫色",
+        "C": "紅色",
+        "D": "橙色"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種\n 顏色表示?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. 褐紅色(或咖啡色)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「褐紅色(或咖啡色)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「紫色」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「紅色」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「橙色」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種 … / AQI => 褐紅色(或咖啡色) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種 … / AQI => 褐紅色(或咖啡色)",
+      "flashcard_summary": "行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種 … / AQI -> A. 褐紅色(或咖啡色)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "行政院環境保護署使用的空氣品質指標(AQI),常以顏色表示空氣污染程度。AQI中最嚴重的程度,以何種 … / AQI",
+      "flashcard_back": "考點是把題幹線索連到「A. 褐紅色(或咖啡色)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_042",
+      "question_number": 42,
+      "question_text": "下列環境荷爾蒙或疑似物質,何者最不可能是持久性有機污染物?",
+      "options": {
+        "A": "滴滴涕(DDT)",
+        "B": "鄰苯二甲酸酯類(Phthalates)",
+        "C": "戴奧辛(Dioxins)",
+        "D": "多氯聯苯(PCBs)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列環境荷爾蒙或疑似物質,何者最不可能是持久性有機污染物?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 鄰苯二甲酸酯類(Phthalates)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「滴滴涕(DDT)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「鄰苯二甲酸酯類(Phthalates)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「戴奧辛(Dioxins)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「多氯聯苯(PCBs)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第 42 題核心考點 => 鄰苯二甲酸酯類(Phthalates) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 42 題核心考點 => 鄰苯二甲酸酯類(Phthalates)",
+      "flashcard_summary": "第 42 題核心考點 -> B. 鄰苯二甲酸酯類(Phthalates)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 42 題核心考點",
+      "flashcard_back": "考點是把題幹線索連到「B. 鄰苯二甲酸酯類(Phthalates)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_043",
+      "question_number": 43,
+      "question_text": "有關環境毒物學的劑量反應評估,閾值(threshold)的敘述,下列何者最不恰當?",
+      "options": {
+        "A": "如果具有閾值,則可推估參考劑量(reference dose, RfD)",
+        "B": "可以透過動物實驗或流行病學資料蒐集來判斷有毒物質是否具有閾值效應",
+        "C": "如果不具有閾值,可透過資料庫查詢得到其斜率因子,來做為風險計算的基礎",
+        "D": "根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關環境毒物學的劑量反應評估,閾值(threshold)的敘述,下列何者最不恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「如果具有閾值,則可推估參考劑量(reference dose, RfD)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「可以透過動物實驗或流行病學資料蒐集來判斷有毒物質是否具有閾值效應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「如果不具有閾值,可透過資料庫查詢得到其斜率因子,來做為風險計算的基礎」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害",
+      "flashcard_summary": "環境毒物學的劑量反應評估,閾值(threshold)的敘述 / threshold -> D. 根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "環境毒物學的劑量反應評估,閾值(threshold)的敘述 / threshold",
+      "flashcard_back": "官方答案指向「D. 根據閾值所計算出來的危害指數(hazard index),若大於1,預期將不會造成危害」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_044",
+      "question_number": 44,
+      "question_text": "公共心理衛生所強調的重點,下列何者最不恰當?",
+      "options": {
+        "A": "強調社會環境對疾病成因的影響",
+        "B": "強調留置病人於醫院或療養院接受治療",
+        "C": "強調對精神病患的保護、諮商與治療,使其回歸社區",
+        "D": "目標為全體民眾的心理健康"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「公共心理衛生所強調的重點,下列何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 強調留置病人於醫院或療養院接受治療，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「強調社會環境對疾病成因的影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「強調留置病人於醫院或療養院接受治療」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「強調對精神病患的保護、諮商與治療,使其回歸社區」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「目標為全體民眾的心理健康」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 強調留置病人於醫院或療養院接受治療 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 強調留置病人於醫院或療養院接受治療",
+      "flashcard_summary": "公共心理衛生所強調的重點 -> B. 強調留置病人於醫院或療養院接受治療",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "公共心理衛生所強調的重點",
+      "flashcard_back": "官方答案指向「B. 強調留置病人於醫院或療養院接受治療」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_045",
+      "question_number": 45,
+      "question_text": "風險溝通(risk communication)是指個人、團體或組織對於風險訊息進行意見交換過程。一般認為影響風\n 險溝通成功與否的因素,不包括下列何者?",
+      "options": {
+        "A": "風險知覺(risk perception)",
+        "B": "樂觀偏誤(optimistic bias)",
+        "C": "信任(trust)",
+        "D": "知識(knowledge)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「風險溝通(risk communication)是指個人、團體或組織對於風險訊息進行意見交換過程。一般認為影響風\n 險溝通成功與否的因素,不包括下列何者?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 知識(knowledge)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「風險知覺(risk perception)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「樂觀偏誤(optimistic bias)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「信任(trust)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「知識(knowledge)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 知識(knowledge) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 知識(knowledge)",
+      "flashcard_summary": "風險溝通(risk communication)是指個人、團體或組織對於風險訊息進行意見交換過程。一般… / risk communication -> D. 知識(knowledge)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "風險溝通(risk communication)是指個人、團體或組織對於風險訊息進行意見交換過程。一般… / risk communication",
+      "flashcard_back": "官方答案指向「D. 知識(knowledge)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_046",
+      "question_number": 46,
+      "question_text": "為評估醫院推動社區減重計畫成效,下列那一種作法最不恰當?",
+      "options": {
+        "A": "於社區內張貼海報、請地方電台廣播及鄰里長等協助宣傳以招募過重或肥胖的民眾參與",
+        "B": "為了提高民眾參與,可以設計獎勵措施",
+        "C": "於計畫介入前先詢問參與民眾過去一個月內的飲食與運動行為,由醫師、衛教師與營養師等提供相關的專\n 業諮詢",
+        "D": "為了瞭解計畫成效,只需要比較計畫前後體重變化"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「為評估醫院推動社區減重計畫成效,下列那一種作法最不恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. 為了瞭解計畫成效,只需要比較計畫前後體重變化」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「於社區內張貼海報、請地方電台廣播及鄰里長等協助宣傳以招募過重或肥胖的民眾參與」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「為了提高民眾參與,可以設計獎勵措施」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「於計畫介入前先詢問參與民眾過去一個月內的飲食與運動行為,由醫師、衛教師與營養師等提供相關的專\n 業諮詢」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「為了瞭解計畫成效,只需要比較計畫前後體重變化」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n為評估醫院推動社區減重計畫成效 => 為了瞭解計畫成效,只需要比較計畫前後體重變化 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "為評估醫院推動社區減重計畫成效 => 為了瞭解計畫成效,只需要比較計畫前後體重變化",
+      "flashcard_summary": "為評估醫院推動社區減重計畫成效 -> D. 為了瞭解計畫成效,只需要比較計畫前後體重變化",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "為評估醫院推動社區減重計畫成效",
+      "flashcard_back": "考點是把題幹線索連到「D. 為了瞭解計畫成效,只需要比較計畫前後體重變化」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_047",
+      "question_number": 47,
+      "question_text": "下列有關預防醫學三段五級的傷害防制模式和介入策略的敘述,何者最不恰當?",
+      "options": {
+        "A": "提高送醫前的急救處置和緊急救護系統的效率為第二段預防",
+        "B": "配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進",
+        "C": "透過在環境、材質、設備等設計和製造時的修飾等工程介入,可達到減少傷害的目的",
+        "D": "立法規範廠商在通過玩具安全標準和檢驗程序才得貼合格標籤販售為第一段預防"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關預防醫學三段五級的傷害防制模式和介入策略的敘述,何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「提高送醫前的急救處置和緊急救護系統的效率為第二段預防」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「透過在環境、材質、設備等設計和製造時的修飾等工程介入,可達到減少傷害的目的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「立法規範廠商在通過玩具安全標準和檢驗程序才得貼合格標籤販售為第一段預防」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第 47 題核心考點 => 配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 47 題核心考點 => 配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進",
+      "flashcard_summary": "第 47 題核心考點 -> B. 配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 47 題核心考點",
+      "flashcard_back": "考點是把題幹線索連到「B. 配備汽車安全帶、安全氣囊或機車安全帽等裝置為第一段第1級安全促進」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_048",
+      "question_number": 48,
+      "question_text": "下列關於平衡計分卡(Balanced Scorecard)的敘述,何者最不恰當?",
+      "options": {
+        "A": "基本精神在於將策略轉換成具體行動,以達成公司的願景及策略",
+        "B": "主要包含四個構面:財務、顧客、企業內部流程、學習與成長",
+        "C": "在非營利事業單位應考量「員工被授權的程度」之構面",
+        "D": "臺灣尚未引入平衡計分卡作為醫院管理的工具"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於平衡計分卡(Balanced Scorecard)的敘述,何者最不恰當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. 臺灣尚未引入平衡計分卡作為醫院管理的工具」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「基本精神在於將策略轉換成具體行動,以達成公司的願景及策略」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「主要包含四個構面:財務、顧客、企業內部流程、學習與成長」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「在非營利事業單位應考量「員工被授權的程度」之構面」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「臺灣尚未引入平衡計分卡作為醫院管理的工具」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n第 48 題核心考點 / Balanced Scorecard => 臺灣尚未引入平衡計分卡作為醫院管理的工具 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 48 題核心考點 / Balanced Scorecard => 臺灣尚未引入平衡計分卡作為醫院管理的工具",
+      "flashcard_summary": "第 48 題核心考點 / Balanced Scorecard -> D. 臺灣尚未引入平衡計分卡作為醫院管理的工具",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 48 題核心考點 / Balanced Scorecard",
+      "flashcard_back": "考點是把題幹線索連到「D. 臺灣尚未引入平衡計分卡作為醫院管理的工具」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_049",
+      "question_number": 49,
+      "question_text": "下列何項不是社會保險的基本原理特質?",
+      "options": {
+        "A": "講求個人的自由公平",
+        "B": "風險或危險共同分擔",
+        "C": "避免引導道德危害",
+        "D": "大數法則"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何項不是社會保險的基本原理特質?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 講求個人的自由公平，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「講求個人的自由公平」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「風險或危險共同分擔」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「避免引導道德危害」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「大數法則」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 講求個人的自由公平 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 講求個人的自由公平",
+      "flashcard_summary": "不是社會保險的基本原理特質 -> A. 講求個人的自由公平",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "不是社會保險的基本原理特質",
+      "flashcard_back": "官方答案指向「A. 講求個人的自由公平」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "公共衛生學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_050",
+      "question_number": 50,
+      "question_text": "下列有關臺灣醫療照護供給體系的敘述,何者最恰當?",
+      "options": {
+        "A": "臺灣的醫院家數主要是以私立醫院居多",
+        "B": "臺灣的醫院數目逐年增加",
+        "C": "目前臺灣每萬人口醫師數約為8人",
+        "D": "目前臺灣的每萬人口醫院一般病床數目約為20床"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關臺灣醫療照護供給體系的敘述,何者最恰當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. 臺灣的醫院家數主要是以私立醫院居多」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「臺灣的醫院家數主要是以私立醫院居多」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「臺灣的醫院數目逐年增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「目前臺灣每萬人口醫師數約為8人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「目前臺灣的每萬人口醫院一般病床數目約為20床」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n第 50 題核心考點 => 臺灣的醫院家數主要是以私立醫院居多 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 50 題核心考點 => 臺灣的醫院家數主要是以私立醫院居多",
+      "flashcard_summary": "第 50 題核心考點 -> A. 臺灣的醫院家數主要是以私立醫院居多",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 50 題核心考點",
+      "flashcard_back": "考點是把題幹線索連到「A. 臺灣的醫院家數主要是以私立醫院居多」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_051",
+      "question_number": 51,
+      "question_text": "下列有關新藥臨床試驗之敘述,何者錯誤?",
+      "options": {
+        "A": "臨床一期試驗一般情況下不納入病人,旨在檢驗人體對試驗藥物之最大容忍安全劑量",
+        "B": "臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較",
+        "C": "臨床三期試驗納入較多病人,大都只採用單一藥物劑量",
+        "D": "臨床四期試驗在藥物上市後才開始"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關新藥臨床試驗之敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「臨床一期試驗一般情況下不納入病人,旨在檢驗人體對試驗藥物之最大容忍安全劑量」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「臨床三期試驗納入較多病人,大都只採用單一藥物劑量」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「臨床四期試驗在藥物上市後才開始」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較",
+      "flashcard_summary": "第 51 題核心考點 -> B. 臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 51 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 臨床二期試驗納入病人,旨在檢驗藥物的功效,不需與現行臨床使用的有效藥物做比較」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_052",
+      "question_number": 52,
+      "question_text": "下列關於trimethoprim與sulfamethoxazole(TMP-SMZ)之敘述,何者正確?",
+      "options": {
+        "A": "皆能抑制二氫蝶酸合成酶(dihydropteroate synthase)以阻斷DNA合成",
+        "B": "TMP:SMZ=1:5配方是因為TMP脂溶性較高",
+        "C": "可使用在泌尿道感染,但無法用於治療肺囊蟲肺炎(P jirovecii pneumonia)",
+        "D": "TMP-SMZ藥物的多數副作用主要來自於TMP"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於trimethoprim與sulfamethoxazole(TMP-SMZ)之敘述,何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. TMP:SMZ=1:5配方是因為TMP脂溶性較高，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「皆能抑制二氫蝶酸合成酶(dihydropteroate synthase)以阻斷DNA合成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「TMP:SMZ=1:5配方是因為TMP脂溶性較高」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「可使用在泌尿道感染,但無法用於治療肺囊蟲肺炎(P jirovecii pneumonia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「TMP-SMZ藥物的多數副作用主要來自於TMP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. TMP:SMZ=1:5配方是因為TMP脂溶性較高 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. TMP:SMZ=1:5配方是因為TMP脂溶性較高",
+      "flashcard_summary": "第 52 題核心考點 / trimethoprim / sulfamethoxazole -> B. TMP:SMZ=1:5配方是因為TMP脂溶性較高",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 52 題核心考點 / trimethoprim / sulfamethoxazole",
+      "flashcard_back": "官方答案指向「B. TMP:SMZ=1:5配方是因為TMP脂溶性較高」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "寄生蟲學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_053",
+      "question_number": 53,
+      "question_text": "下列有關抗癌藥oxaliplatin之敘述,何者錯誤?",
+      "options": {
+        "A": "病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)",
+        "B": "為FOLFOX合併用藥之一,可治療轉移性大腸直腸癌",
+        "C": "主要的劑量限制毒性(dose-limiting toxicity)為產生神經毒性",
+        "D": "可用於治療實質固態瘤(solid tumor)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關抗癌藥oxaliplatin之敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「為FOLFOX合併用藥之一,可治療轉移性大腸直腸癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「主要的劑量限制毒性(dose-limiting toxicity)為產生神經毒性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「可用於治療實質固態瘤(solid tumor)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)",
+      "flashcard_summary": "第 53 題核心考點 / oxaliplatin -> A. 病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 53 題核心考點 / oxaliplatin",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 病人對carboplatin產生抗藥性時,對oxaliplatin也會產生交叉抗藥性(cross-resistance)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_054",
+      "question_number": 54,
+      "question_text": "下列癌症標靶治療藥物(targeted anticancer agents)與其機轉配對,何者正確?",
+      "options": {
+        "A": "carfilzomib—抑制Bcr-Abl tyrosine kinase的活性",
+        "B": "dasatinib—抑制26S proteosome的活性",
+        "C": "lapatinib—抑制PI3K的活性",
+        "D": "sunitinib—抑制VEGFR的活性"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列癌症標靶治療藥物(targeted anticancer agents)與其機轉配對,何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. sunitinib—抑制VEGFR的活性，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「carfilzomib—抑制Bcr-Abl tyrosine kinase的活性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「dasatinib—抑制26S proteosome的活性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「lapatinib—抑制PI3K的活性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「sunitinib—抑制VEGFR的活性」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. sunitinib—抑制VEGFR的活性 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. sunitinib—抑制VEGFR的活性",
+      "flashcard_summary": "第 54 題核心考點 / targeted anticancer agents -> D. sunitinib—抑制VEGFR的活性",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 54 題核心考點 / targeted anticancer agents",
+      "flashcard_back": "官方答案指向「D. sunitinib—抑制VEGFR的活性」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_055",
+      "question_number": 55,
+      "question_text": "下列藥物中,何者可抑制黴菌的squalene epoxidase,使sterol squalene堆積於菌體內而達殺菌作用?",
+      "options": {
+        "A": "griseofulvin",
+        "B": "nystatin",
+        "C": "terbinafine",
+        "D": "voriconazole"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者可抑制黴菌的squalene epoxidase,使sterol squalene堆積於菌體內而達殺菌作用?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. terbinafine，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「griseofulvin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「nystatin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「terbinafine」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「voriconazole」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. terbinafine 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. terbinafine",
+      "flashcard_summary": "第 55 題核心考點 / squalene epoxidase / sterol squalene -> C. terbinafine",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 55 題核心考點 / squalene epoxidase / sterol squalene",
+      "flashcard_back": "官方答案指向「C. terbinafine」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_056",
+      "question_number": 56,
+      "question_text": "下列藥物中,何者主要與活化態淋巴球表面之CD25結合,而拮抗IL-2受體,可用於預防腎臟移植患者發生急\n 性器官排斥?",
+      "options": {
+        "A": "basiliximab",
+        "B": "canakinumab",
+        "C": "dupilumab",
+        "D": "omalizumab"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者主要與活化態淋巴球表面之CD25結合,而拮抗IL-2受體,可用於預防腎臟移植患者發生急\n 性器官排斥?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. basiliximab，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「basiliximab」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「canakinumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「dupilumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「omalizumab」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. basiliximab 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. basiliximab",
+      "flashcard_summary": "第 56 題核心考點 / CD25 / IL-2 -> A. basiliximab",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 56 題核心考點 / CD25 / IL-2",
+      "flashcard_back": "官方答案指向「A. basiliximab」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_057",
+      "question_number": 57,
+      "question_text": "下列藥物中,何者能促進plasminogen活化形成plasmin,以促進血栓分解?",
+      "options": {
+        "A": "bivalirudin",
+        "B": "tenecteplase",
+        "C": "apixaban",
+        "D": "vorapaxar"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者能促進plasminogen活化形成plasmin,以促進血栓分解?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. tenecteplase，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「bivalirudin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「tenecteplase」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「apixaban」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「vorapaxar」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. tenecteplase 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. tenecteplase",
+      "flashcard_summary": "第 57 題核心考點 / plasminogen / plasmin -> B. tenecteplase",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 57 題核心考點 / plasminogen / plasmin",
+      "flashcard_back": "官方答案指向「B. tenecteplase」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_058",
+      "question_number": 58,
+      "question_text": "下列何種降血脂藥,可藉由抑制microsomal triglyceride transfer protein(MTP),而阻斷肝臟生成及\n 釋放VLDL?",
+      "options": {
+        "A": "lomitapide",
+        "B": "cholestyramine",
+        "C": "fenofibrate",
+        "D": "mipomersen"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種降血脂藥,可藉由抑制microsomal triglyceride transfer protein(MTP),而阻斷肝臟生成及\n 釋放VLDL?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. lomitapide，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「lomitapide」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「cholestyramine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「fenofibrate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「mipomersen」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. lomitapide 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. lomitapide",
+      "flashcard_summary": "降血脂藥,可藉由抑制microsomal triglyceride transfer protein(… / microsomal triglyceride transfer pro / MTP -> A. lomitapide",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "降血脂藥,可藉由抑制microsomal triglyceride transfer protein(… / microsomal triglyceride transfer pro / MTP",
+      "flashcard_back": "官方答案指向「A. lomitapide」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_059",
+      "question_number": 59,
+      "question_text": "碘-131(131I)常用於治療甲狀腺毒症(thyrotoxicosis),下列關於此藥之敘述,何者錯誤?",
+      "options": {
+        "A": "釋放β射線,破壞甲狀腺組織",
+        "B": "孕婦禁用",
+        "C": "哺餵母乳婦女可以減量使用",
+        "D": "併用potassium iodide會降低其療效"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「碘-131(131I)常用於治療甲狀腺毒症(thyrotoxicosis),下列關於此藥之敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 哺餵母乳婦女可以減量使用，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「釋放β射線,破壞甲狀腺組織」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「孕婦禁用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「哺餵母乳婦女可以減量使用」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「併用potassium iodide會降低其療效」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 哺餵母乳婦女可以減量使用 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 哺餵母乳婦女可以減量使用",
+      "flashcard_summary": "碘-131(131I)常用於治療甲狀腺毒症(thyrotoxicosis) / thyrotoxicosis -> C. 哺餵母乳婦女可以減量使用",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "碘-131(131I)常用於治療甲狀腺毒症(thyrotoxicosis) / thyrotoxicosis",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 哺餵母乳婦女可以減量使用」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_060",
+      "question_number": 60,
+      "question_text": "下列何者為醛固酮拮抗劑(aldosterone antagonist),可用於治療高血壓和心肌梗塞後之心衰竭?",
+      "options": {
+        "A": "eplerenone",
+        "B": "etoposide",
+        "C": "mestranol",
+        "D": "oxandrolone"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者為醛固酮拮抗劑(aldosterone antagonist),可用於治療高血壓和心肌梗塞後之心衰竭?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. eplerenone，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「eplerenone」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「etoposide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「mestranol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「oxandrolone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. eplerenone 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. eplerenone",
+      "flashcard_summary": "為醛固酮拮抗劑(aldosterone antagonist),可用於治療高血壓和心肌梗塞後之心衰竭 / aldosterone antagonist -> A. eplerenone",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "為醛固酮拮抗劑(aldosterone antagonist),可用於治療高血壓和心肌梗塞後之心衰竭 / aldosterone antagonist",
+      "flashcard_back": "官方答案指向「A. eplerenone」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_061",
+      "question_number": 61,
+      "question_text": "下列降血糖藥與作用機轉的配對,何者錯誤?",
+      "options": {
+        "A": "pioglitazone—peroxisome proliferator-activated receptor gamma(PPAR-γ)agonist",
+        "B": "metformin—AMP-activated protein kinase(AMPK)activator",
+        "C": "exenatide—glucagon-like peptide-1(GLP-1)receptor agonist",
+        "D": "empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列降血糖藥與作用機轉的配對,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「pioglitazone—peroxisome proliferator-activated receptor gamma(PPAR-γ)agonist」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「metformin—AMP-activated protein kinase(AMPK)activator」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「exenatide—glucagon-like peptide-1(GLP-1)receptor agonist」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator",
+      "flashcard_summary": "第 61 題核心考點 -> D. empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 61 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. empagliflozin—sodium-glucose co-transporter 2(SGLT2)activator」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_062",
+      "question_number": 62,
+      "question_text": "下列何種利尿劑,高血鉀病患不宜使用?",
+      "options": {
+        "A": "amiloride",
+        "B": "metolazone",
+        "C": "indapamide",
+        "D": "bumetanide"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種利尿劑,高血鉀病患不宜使用?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. amiloride」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「amiloride」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「metolazone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「indapamide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「bumetanide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n利尿劑,高血鉀病患不宜使用 => amiloride 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "利尿劑,高血鉀病患不宜使用 => amiloride",
+      "flashcard_summary": "利尿劑,高血鉀病患不宜使用 -> A. amiloride",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "利尿劑,高血鉀病患不宜使用",
+      "flashcard_back": "考點是把題幹線索連到「A. amiloride」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_063",
+      "question_number": 63,
+      "question_text": "下列藥物中,何者為phosphodiesterase type 3之抑制劑,可用於治療心衰竭?",
+      "options": {
+        "A": "empagliflozin",
+        "B": "tadalafil",
+        "C": "riociguat",
+        "D": "milrinone"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者為phosphodiesterase type 3之抑制劑,可用於治療心衰竭?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. milrinone，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「empagliflozin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「tadalafil」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「riociguat」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「milrinone」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. milrinone 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. milrinone",
+      "flashcard_summary": "第 63 題核心考點 / phosphodiesterase type 3 -> D. milrinone",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 63 題核心考點 / phosphodiesterase type 3",
+      "flashcard_back": "官方答案指向「D. milrinone」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_064",
+      "question_number": 64,
+      "question_text": "下列降血壓藥物中,何者最容易引起反射性心律加快(reflex tachycardia)的現象?",
+      "options": {
+        "A": "carvedilol",
+        "B": "diltiazem",
+        "C": "nifedipine",
+        "D": "propranolol"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列降血壓藥物中,何者最容易引起反射性心律加快(reflex tachycardia)的現象?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. nifedipine，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「carvedilol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「diltiazem」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「nifedipine」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「propranolol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. nifedipine 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. nifedipine",
+      "flashcard_summary": "第 64 題核心考點 / reflex tachycardia -> C. nifedipine",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 64 題核心考點 / reflex tachycardia",
+      "flashcard_back": "官方答案指向「C. nifedipine」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_065",
+      "question_number": 65,
+      "question_text": "Atropine過量時,最不容易出現下列何種情況?",
+      "options": {
+        "A": "心跳加快",
+        "B": "唾液大量分泌",
+        "C": "瞳孔放大",
+        "D": "尿液滯留"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「Atropine過量時,最不容易出現下列何種情況?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 唾液大量分泌」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心跳加快」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「唾液大量分泌」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「瞳孔放大」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「尿液滯留」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nAtropine過量時,最不容易出現 / Atropine => 唾液大量分泌 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "Atropine過量時,最不容易出現 / Atropine => 唾液大量分泌",
+      "flashcard_summary": "Atropine過量時,最不容易出現 / Atropine -> B. 唾液大量分泌",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "Atropine過量時,最不容易出現 / Atropine",
+      "flashcard_back": "考點是把題幹線索連到「B. 唾液大量分泌」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_066",
+      "question_number": 66,
+      "question_text": "使用dopamine靜脈輸注時,最不會產生下列何種作用?",
+      "options": {
+        "A": "活化D1 receptor達到利鈉(natriuresis)效果",
+        "B": "活化D2 receptor加快腸蠕動",
+        "C": "活化β1 adrenergic receptor加快心跳",
+        "D": "活化α1 adrenergic receptor提升血壓"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「使用dopamine靜脈輸注時,最不會產生下列何種作用?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 活化D2 receptor加快腸蠕動」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「活化D1 receptor達到利鈉(natriuresis)效果」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「活化D2 receptor加快腸蠕動」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「活化β1 adrenergic receptor加快心跳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「活化α1 adrenergic receptor提升血壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n使用dopamine靜脈輸注時,最不會產生 / dopamine => 活化D2 receptor加快腸蠕動 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "使用dopamine靜脈輸注時,最不會產生 / dopamine => 活化D2 receptor加快腸蠕動",
+      "flashcard_summary": "使用dopamine靜脈輸注時,最不會產生 / dopamine -> B. 活化D2 receptor加快腸蠕動",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "使用dopamine靜脈輸注時,最不會產生 / dopamine",
+      "flashcard_back": "考點是把題幹線索連到「B. 活化D2 receptor加快腸蠕動」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_067",
+      "question_number": 67,
+      "question_text": "下列何種藥物用於治療氣喘發作時,最需監測血中濃度,以避免產生噁心、嘔吐和心律不整副作用?",
+      "options": {
+        "A": "ipratropium",
+        "B": "corticosteroid",
+        "C": "theophylline",
+        "D": "albuterol"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種藥物用於治療氣喘發作時,最需監測血中濃度,以避免產生噁心、嘔吐和心律不整副作用?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. theophylline，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「ipratropium」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「corticosteroid」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「theophylline」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「albuterol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. theophylline 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. theophylline",
+      "flashcard_summary": "藥物用於治療氣喘發作時,最需監測血中濃度,以避免產生噁心、嘔吐和心律不整副作用 -> C. theophylline",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "藥物用於治療氣喘發作時,最需監測血中濃度,以避免產生噁心、嘔吐和心律不整副作用",
+      "flashcard_back": "官方答案指向「C. theophylline」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_068",
+      "question_number": 68,
+      "question_text": "下列鴉片類藥物loperamide與diphenoxylate之比較,何者正確?",
+      "options": {
+        "A": "兩者皆具有耐藥性(tolerance)",
+        "B": "兩者皆可通過血腦屏障(blood-brain barrier)",
+        "C": "長期使用時,兩者皆有成癮性(addiction)",
+        "D": "兩者皆不具止痛作用(analgesia)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列鴉片類藥物loperamide與diphenoxylate之比較,何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 兩者皆不具止痛作用(analgesia)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「兩者皆具有耐藥性(tolerance)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「兩者皆可通過血腦屏障(blood-brain barrier)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「長期使用時,兩者皆有成癮性(addiction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「兩者皆不具止痛作用(analgesia)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 兩者皆不具止痛作用(analgesia) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 兩者皆不具止痛作用(analgesia)",
+      "flashcard_summary": "第 68 題核心考點 / loperamide / diphenoxylate -> D. 兩者皆不具止痛作用(analgesia)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 68 題核心考點 / loperamide / diphenoxylate",
+      "flashcard_back": "官方答案指向「D. 兩者皆不具止痛作用(analgesia)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_069",
+      "question_number": 69,
+      "question_text": "Sumatriptan治療偏頭痛的作用機制為何?",
+      "options": {
+        "A": "阻斷血管平滑肌的鈣離子通道使血管舒張",
+        "B": "抑制環氧酶(cyclooxygenase)而減少前列腺素生成",
+        "C": "拮抗血清素(serotonin)受體,以減少神經末梢釋放血管舒張物質",
+        "D": "產生直接血管收縮作用,且減少對痛覺神經末梢的刺激"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「Sumatriptan治療偏頭痛的作用機制為何?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 產生直接血管收縮作用,且減少對痛覺神經末梢的刺激，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「阻斷血管平滑肌的鈣離子通道使血管舒張」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「抑制環氧酶(cyclooxygenase)而減少前列腺素生成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「拮抗血清素(serotonin)受體,以減少神經末梢釋放血管舒張物質」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「產生直接血管收縮作用,且減少對痛覺神經末梢的刺激」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 產生直接血管收縮作用,且減少對痛覺神經末梢的刺激 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 產生直接血管收縮作用,且減少對痛覺神經末梢的刺激",
+      "flashcard_summary": "Sumatriptan治療偏頭痛的作用機制為何 / Sumatriptan -> D. 產生直接血管收縮作用,且減少對痛覺神經末梢的刺激",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "Sumatriptan治療偏頭痛的作用機制為何 / Sumatriptan",
+      "flashcard_back": "官方答案指向「D. 產生直接血管收縮作用,且減少對痛覺神經末梢的刺激」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_070",
+      "question_number": 70,
+      "question_text": "下列藥物何者是前列腺素的衍生物,具有子宮平滑肌收縮作用,臨床上可用來引產?",
+      "options": {
+        "A": "oxytocin",
+        "B": "dinoprostone",
+        "C": "ergonovine",
+        "D": "fasudil"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物何者是前列腺素的衍生物,具有子宮平滑肌收縮作用,臨床上可用來引產?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. dinoprostone，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「oxytocin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「dinoprostone」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「ergonovine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「fasudil」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. dinoprostone 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. dinoprostone",
+      "flashcard_summary": "第 70 題核心考點 -> B. dinoprostone",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 70 題核心考點",
+      "flashcard_back": "官方答案指向「B. dinoprostone」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_071",
+      "question_number": 71,
+      "question_text": "下列關於非固醇類抗發炎藥(NSAIDs)之敘述,何者錯誤?",
+      "options": {
+        "A": "降低血管對緩激肽(bradykinin)和組織胺(histamine)的敏感性",
+        "B": "重複給藥後,藥物可出現於關節滑液(synovial fluid)中,以治療關節炎",
+        "C": "藥物會增強發炎所導致的血管舒張作用",
+        "D": "選擇性COX-2抑制劑會增加水腫、高血壓或心肌梗塞的發生率"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於非固醇類抗發炎藥(NSAIDs)之敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 藥物會增強發炎所導致的血管舒張作用，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「降低血管對緩激肽(bradykinin)和組織胺(histamine)的敏感性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「重複給藥後,藥物可出現於關節滑液(synovial fluid)中,以治療關節炎」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「藥物會增強發炎所導致的血管舒張作用」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「選擇性COX-2抑制劑會增加水腫、高血壓或心肌梗塞的發生率」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 藥物會增強發炎所導致的血管舒張作用 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 藥物會增強發炎所導致的血管舒張作用",
+      "flashcard_summary": "第 71 題核心考點 / NSAIDs -> C. 藥物會增強發炎所導致的血管舒張作用",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 71 題核心考點 / NSAIDs",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 藥物會增強發炎所導致的血管舒張作用」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_072",
+      "question_number": 72,
+      "question_text": "下列有關局部麻醉劑的敘述,何者錯誤?",
+      "options": {
+        "A": "lidocaine的作用是抑制sodium channels",
+        "B": "bupivacaine的作用是興奮opioid receptors",
+        "C": "cocaine會產生血管收縮的效果",
+        "D": "benzocaine會產生methemoglobinemia的副作用"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關局部麻醉劑的敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. bupivacaine的作用是興奮opioid receptors，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「lidocaine的作用是抑制sodium channels」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「bupivacaine的作用是興奮opioid receptors」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「cocaine會產生血管收縮的效果」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「benzocaine會產生methemoglobinemia的副作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. bupivacaine的作用是興奮opioid receptors 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. bupivacaine的作用是興奮opioid receptors",
+      "flashcard_summary": "第 72 題核心考點 -> B. bupivacaine的作用是興奮opioid receptors",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 72 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. bupivacaine的作用是興奮opioid receptors」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_073",
+      "question_number": 73,
+      "question_text": "請排序下列抗憂鬱藥物(antidepressants)的分類,依序為selective serotonin reuptake inhibitor、\n serotonin-norepinephrine reuptake inhibitor、tricyclic antidepressant及unicyclic\n antidepressant:",
+      "options": {
+        "A": "citalopram、duloxetine、imipramine、bupropion",
+        "B": "duloxetine、citalopram、bupropion、imipramine",
+        "C": "citalopram、imipramine、duloxetine、bupropion",
+        "D": "duloxetine、bupropion、imipramine、citalopram"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「請排序下列抗憂鬱藥物(antidepressants)的分類,依序為selective serotonin reuptake inhibitor、\n serotonin-norepinephrine reuptake inhibitor、tricyclic antidepressant及unicyclic\n antidepressant:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. citalopram、duloxetine、imipramine、bupropion，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「citalopram、duloxetine、imipramine、bupropion」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「duloxetine、citalopram、bupropion、imipramine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「citalopram、imipramine、duloxetine、bupropion」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「duloxetine、bupropion、imipramine、citalopram」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. citalopram、duloxetine、imipramine、bupropion 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. citalopram、duloxetine、imipramine、bupropion",
+      "flashcard_summary": "請排序 / antidepressants / selective serotonin reuptake inhibit -> A. citalopram、duloxetine、imipramine、bupropion",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "請排序 / antidepressants / selective serotonin reuptake inhibit",
+      "flashcard_back": "官方答案指向「A. citalopram、duloxetine、imipramine、bupropion」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_074",
+      "question_number": 74,
+      "question_text": "下列何者為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性?",
+      "options": {
+        "A": "methadone",
+        "B": "dextromethorphan",
+        "C": "codeine",
+        "D": "loperamide"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. dextromethorphan」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「methadone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「dextromethorphan」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「codeine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「loperamide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性 => dextromethorphan 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性 => dextromethorphan",
+      "flashcard_summary": "為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性 -> B. dextromethorphan",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "為鴉片衍生物,具有明顯止咳作用,且最不具有成癮性",
+      "flashcard_back": "考點是把題幹線索連到「B. dextromethorphan」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_075",
+      "question_number": 75,
+      "question_text": "下列藥物中,何者可抑制alcohol dehydrogenase,用於治療甲醇中毒?",
+      "options": {
+        "A": "flumazenil",
+        "B": "fomepizole",
+        "C": "pralidoxime",
+        "D": "physostigmine"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列藥物中,何者可抑制alcohol dehydrogenase,用於治療甲醇中毒?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. fomepizole，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「flumazenil」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「fomepizole」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「pralidoxime」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「physostigmine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. fomepizole 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. fomepizole",
+      "flashcard_summary": "第 75 題核心考點 / alcohol dehydrogenase -> B. fomepizole",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 75 題核心考點 / alcohol dehydrogenase",
+      "flashcard_back": "官方答案指向「B. fomepizole」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_076",
+      "question_number": 76,
+      "question_text": "跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為:",
+      "options": {
+        "A": "脂褐素(lipofuscin)",
+        "B": "膽紅素(bilirubin)",
+        "C": "黑色素(melanin)",
+        "D": "血鐵素(hemosiderin)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. 血鐵素(hemosiderin)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「脂褐素(lipofuscin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「膽紅素(bilirubin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「黑色素(melanin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「血鐵素(hemosiderin)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為 => 血鐵素(hemosiderin) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為 => 血鐵素(hemosiderin)",
+      "flashcard_summary": "跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為 -> D. 血鐵素(hemosiderin)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "跌倒2週後,瘀青處做切片檢查,發現黃棕色之色素,最可能為",
+      "flashcard_back": "考點是把題幹線索連到「D. 血鐵素(hemosiderin)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_077",
+      "question_number": 77,
+      "question_text": "某病人有腎臟病變,組織表現為壞死現象,細胞質內胞器消失,細胞核溶解,但組織外形完整,且與周圍正\n 常組織分界清楚,此為何類壞死?",
+      "options": {
+        "A": "液化性壞死",
+        "B": "乾酪化壞死",
+        "C": "類纖維蛋白性壞死",
+        "D": "凝固性壞死"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「某病人有腎臟病變,組織表現為壞死現象,細胞質內胞器消失,細胞核溶解,但組織外形完整,且與周圍正\n 常組織分界清楚,此為何類壞死?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 凝固性壞死，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「液化性壞死」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「乾酪化壞死」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「類纖維蛋白性壞死」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「凝固性壞死」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 凝固性壞死 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 凝固性壞死",
+      "flashcard_summary": "某病人有腎臟病變,組織表現為壞死現象,細胞質內胞器消失,細胞核溶解,但組織外形完整,且與周圍正 常組織… -> D. 凝固性壞死",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "某病人有腎臟病變,組織表現為壞死現象,細胞質內胞器消失,細胞核溶解,但組織外形完整,且與周圍正 常組織…",
+      "flashcard_back": "官方答案指向「D. 凝固性壞死」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_078",
+      "question_number": 78,
+      "question_text": "下列遺傳疾病,何者較適合利用重覆引子聚合酶連鎖反應法(repeat-primer polymerase chain\n reaction)進行篩檢再配合南方轉漬分析(Southern blot),則可以得到較確定的診斷?",
+      "options": {
+        "A": "透納氏症候群(Turner syndrome)",
+        "B": "狄喬治氏症候群(DiGeorge syndrome)",
+        "C": "X染色體脆折症(Fragile X syndrome)",
+        "D": "尼曼匹克症(Niemann-Pick disease)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列遺傳疾病,何者較適合利用重覆引子聚合酶連鎖反應法(repeat-primer polymerase chain\n reaction)進行篩檢再配合南方轉漬分析(Southern blot),則可以得到較確定的診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. X染色體脆折症(Fragile X syndrome)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「透納氏症候群(Turner syndrome)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「狄喬治氏症候群(DiGeorge syndrome)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「X染色體脆折症(Fragile X syndrome)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「尼曼匹克症(Niemann-Pick disease)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. X染色體脆折症(Fragile X syndrome) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. X染色體脆折症(Fragile X syndrome)",
+      "flashcard_summary": "第 78 題核心考點 / repeat-primer polymerase chain react / Southern blot -> C. X染色體脆折症(Fragile X syndrome)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 78 題核心考點 / repeat-primer polymerase chain react / Southern blot",
+      "flashcard_back": "官方答案指向「C. X染色體脆折症(Fragile X syndrome)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_079",
+      "question_number": 79,
+      "question_text": "下列有關結核菌素試驗(tuberculin test)原理之敘述,何者正確?",
+      "options": {
+        "A": "主要是藉由刺激巨噬細胞(macrophages),釋放出伽瑪干擾素(γ-interferon)",
+        "B": "主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)",
+        "C": "主要是藉由刺激巨噬細胞(macrophages),釋放出腫瘤壞死因子(tumor necrotic factor)",
+        "D": "主要是藉由刺激T淋巴細胞(lymphocytes),釋放出腫瘤壞死因子(tumor necrotic factor)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關結核菌素試驗(tuberculin test)原理之敘述,何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「主要是藉由刺激巨噬細胞(macrophages),釋放出伽瑪干擾素(γ-interferon)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「主要是藉由刺激巨噬細胞(macrophages),釋放出腫瘤壞死因子(tumor necrotic factor)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「主要是藉由刺激T淋巴細胞(lymphocytes),釋放出腫瘤壞死因子(tumor necrotic factor)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)",
+      "flashcard_summary": "第 79 題核心考點 / tuberculin test -> B. 主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 79 題核心考點 / tuberculin test",
+      "flashcard_back": "官方答案指向「B. 主要是藉由刺激T淋巴細胞(lymphocytes),釋放出伽瑪干擾素(γ-interferon)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_080",
+      "question_number": 80,
+      "question_text": "下列何者與鎘(cadmium)中毒之相關性較低?",
+      "options": {
+        "A": "肺癌(lung cancer )",
+        "B": "骨質疏鬆(osteoporosis)",
+        "C": "畸胎瘤(teratoma)",
+        "D": "腎損傷(kidney injury)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者與鎘(cadmium)中毒之相關性較低?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 畸胎瘤(teratoma)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「肺癌(lung cancer )」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「骨質疏鬆(osteoporosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「畸胎瘤(teratoma)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「腎損傷(kidney injury)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 畸胎瘤(teratoma) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 畸胎瘤(teratoma)",
+      "flashcard_summary": "與鎘(cadmium)中毒之相關性較低 / cadmium -> C. 畸胎瘤(teratoma)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "與鎘(cadmium)中毒之相關性較低 / cadmium",
+      "flashcard_back": "官方答案指向「C. 畸胎瘤(teratoma)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_081",
+      "question_number": 81,
+      "question_text": "下列何者是用來判定為惡性腫瘤可靠性最高的指標?",
+      "options": {
+        "A": "細胞的分化差或未分化",
+        "B": "生長速度快及有絲分裂",
+        "C": "局部侵襲",
+        "D": "轉移至其它器官"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者是用來判定為惡性腫瘤可靠性最高的指標?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 轉移至其它器官，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「細胞的分化差或未分化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「生長速度快及有絲分裂」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「局部侵襲」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「轉移至其它器官」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 轉移至其它器官 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 轉移至其它器官",
+      "flashcard_summary": "是用來判定為惡性腫瘤可靠性最高的指標 -> D. 轉移至其它器官",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "是用來判定為惡性腫瘤可靠性最高的指標",
+      "flashcard_back": "官方答案指向「D. 轉移至其它器官」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_082",
+      "question_number": 82,
+      "question_text": "下列抑癌蛋白何者最不具有直接調控細胞週期的功能?",
+      "options": {
+        "A": "RB",
+        "B": "p53",
+        "C": "E-cadherin",
+        "D": "p16/INK4a"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列抑癌蛋白何者最不具有直接調控細胞週期的功能?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. E-cadherin，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「RB」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「p53」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「E-cadherin」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「p16/INK4a」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. E-cadherin 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. E-cadherin",
+      "flashcard_summary": "第 82 題核心考點 -> C. E-cadherin",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 82 題核心考點",
+      "flashcard_back": "官方答案指向「C. E-cadherin」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_083",
+      "question_number": 83,
+      "question_text": "下列血管炎何者於顯微鏡下最少出現肉芽腫性發炎(granulomatous inflammation)?",
+      "options": {
+        "A": "Churg-Strauss syndrome",
+        "B": "Microscopic polyangiitis",
+        "C": "川崎氏症(Kawasaki disease)",
+        "D": "Buerger disease"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列血管炎何者於顯微鏡下最少出現肉芽腫性發炎(granulomatous inflammation)?」\n標準答案為 B、C、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. Microscopic polyangiitis；C. 川崎氏症(Kawasaki disease)；D. Buerger disease，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Churg-Strauss syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B、C、D 比較。\n- B. 正確答案。選項內容：「Microscopic polyangiitis」此選項最符合題幹線索與標準答案。\n- C. 正確答案。選項內容：「川崎氏症(Kawasaki disease)」此選項最符合題幹線索與標準答案。\n- D. 正確答案。選項內容：「Buerger disease」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：B. Microscopic polyangiitis；C. 川崎氏症(Kawasaki disease)；D. Buerger disease 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. Microscopic polyangiitis；C. 川崎氏症(Kawasaki disease)；D. Buerger disease",
+      "flashcard_summary": "第 83 題核心考點 / granulomatous inflammation -> B. Microscopic polyangiitis；C. 川崎氏症(Kawasaki disease)；D. Buerger disease",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answer_status": "multiple_correct",
+      "answer_source": "official_correction",
+      "answer_note": "第83題答B或C或D或BC或BD或CD或BCD者均給分",
+      "flashcard_front": "第 83 題核心考點 / granulomatous inflammation",
+      "flashcard_back": "官方答案指向「B. Microscopic polyangiitis；C. 川崎氏症(Kawasaki disease)；D. Buerger disease」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_084",
+      "question_number": 84,
+      "question_text": "馬凡氏症候群(Marfan syndrome)的病人在心臟瓣膜上最常出現的病理變化為何?",
+      "options": {
+        "A": "主動脈瓣連合處融合(commissural fusion of aortic valve)",
+        "B": "主動脈瓣鈣化",
+        "C": "二尖瓣出現黏液性變性(myxomatous degeneration)",
+        "D": "二尖瓣連合處融合(commissural fusion of mitral valve)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「馬凡氏症候群(Marfan syndrome)的病人在心臟瓣膜上最常出現的病理變化為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 二尖瓣出現黏液性變性(myxomatous degeneration)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「主動脈瓣連合處融合(commissural fusion of aortic valve)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「主動脈瓣鈣化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「二尖瓣出現黏液性變性(myxomatous degeneration)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「二尖瓣連合處融合(commissural fusion of mitral valve)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 二尖瓣出現黏液性變性(myxomatous degeneration) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 二尖瓣出現黏液性變性(myxomatous degeneration)",
+      "flashcard_summary": "馬凡氏症候群(Marfan syndrome)的病人在心臟瓣膜上最常出現的病理變化為何 / Marfan syndrome -> C. 二尖瓣出現黏液性變性(myxomatous degeneration)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "馬凡氏症候群(Marfan syndrome)的病人在心臟瓣膜上最常出現的病理變化為何 / Marfan syndrome",
+      "flashcard_back": "官方答案指向「C. 二尖瓣出現黏液性變性(myxomatous degeneration)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_085",
+      "question_number": 85,
+      "question_text": "下列何者最可能引起次發性骨髓化生不良症候群(secondary myelodysplastic syndrome)?",
+      "options": {
+        "A": "長期缺乏鈣質",
+        "B": "接受抗癌化學治療",
+        "C": "接受骨質疏鬆藥物治療",
+        "D": "服用抗結核藥物"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者最可能引起次發性骨髓化生不良症候群(secondary myelodysplastic syndrome)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 接受抗癌化學治療，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「長期缺乏鈣質」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「接受抗癌化學治療」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「接受骨質疏鬆藥物治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「服用抗結核藥物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 接受抗癌化學治療 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 接受抗癌化學治療",
+      "flashcard_summary": "最可能引起次發性骨髓化生不良症候群(secondary myelodysplastic syndrom… / secondary myelodysplastic syndrome -> B. 接受抗癌化學治療",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "最可能引起次發性骨髓化生不良症候群(secondary myelodysplastic syndrom… / secondary myelodysplastic syndrome",
+      "flashcard_back": "官方答案指向「B. 接受抗癌化學治療」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_086",
+      "question_number": 86,
+      "question_text": "有關脾梗塞(splenic infarct)的敘述,下列何者正確?",
+      "options": {
+        "A": "脾臟有豐富的側枝循環(collateral circulation),所以極少發生梗塞",
+        "B": "脾腫大(splenomegaly)不是造成脾梗塞的好發因子",
+        "C": "在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)",
+        "D": "脾梗塞經常造成大量的腹腔內出血"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關脾梗塞(splenic infarct)的敘述,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「脾臟有豐富的側枝循環(collateral circulation),所以極少發生梗塞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「脾腫大(splenomegaly)不是造成脾梗塞的好發因子」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「脾梗塞經常造成大量的腹腔內出血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n脾梗塞(splenic infarct)的敘述 / splenic infarct => 在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "脾梗塞(splenic infarct)的敘述 / splenic infarct => 在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)",
+      "flashcard_summary": "脾梗塞(splenic infarct)的敘述 / splenic infarct -> C. 在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "脾梗塞(splenic infarct)的敘述 / splenic infarct",
+      "flashcard_back": "考點是把題幹線索連到「C. 在正常大小的脾臟,最常造成脾梗塞的原因是心臟來的栓子(emboli)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_087",
+      "question_number": 87,
+      "question_text": "下列何者為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素?",
+      "options": {
+        "A": "造成栓塞(embolism)的原因",
+        "B": "栓子(embolus)的成分",
+        "C": "栓子(embolus)的大小",
+        "D": "栓子(embolus)的來源"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 栓子(embolus)的大小」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「造成栓塞(embolism)的原因」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「栓子(embolus)的成分」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「栓子(embolus)的大小」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「栓子(embolus)的來源」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素 / pulmonary embolism => 栓子(embolus)的大小 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素 / pulmonary embolism => 栓子(embolus)的大小",
+      "flashcard_summary": "為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素 / pulmonary embolism -> C. 栓子(embolus)的大小",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "為影響肺栓塞(pulmonary embolism)嚴重度最重要的因素 / pulmonary embolism",
+      "flashcard_back": "考點是把題幹線索連到「C. 栓子(embolus)的大小」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_088",
+      "question_number": 88,
+      "question_text": "造成病毒性肺炎的病原,下列何者最不常見?",
+      "options": {
+        "A": "輪狀病毒(rotavirus)",
+        "B": "副流感病毒(parainfluenza virus)",
+        "C": "流感病毒(influenza virus)",
+        "D": "腺病毒(adenovirus)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「造成病毒性肺炎的病原,下列何者最不常見?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 輪狀病毒(rotavirus)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「輪狀病毒(rotavirus)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「副流感病毒(parainfluenza virus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「流感病毒(influenza virus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「腺病毒(adenovirus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 輪狀病毒(rotavirus) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 輪狀病毒(rotavirus)",
+      "flashcard_summary": "造成病毒性肺炎的病原 -> A. 輪狀病毒(rotavirus)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "造成病毒性肺炎的病原",
+      "flashcard_back": "官方答案指向「A. 輪狀病毒(rotavirus)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_089",
+      "question_number": 89,
+      "question_text": "有關慢性支氣管炎的特徵,下列何者最不適當?",
+      "options": {
+        "A": "黏液分泌過多(hypersecretion of mucus)",
+        "B": "嗜酸性白血球增加(eosinophilia)",
+        "C": "支氣管上皮杯狀細胞化生(goblet cell metaplasia)",
+        "D": "抽菸(cigarette smoking)為最重要危險因子"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「有關慢性支氣管炎的特徵,下列何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 嗜酸性白血球增加(eosinophilia)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「黏液分泌過多(hypersecretion of mucus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「嗜酸性白血球增加(eosinophilia)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「支氣管上皮杯狀細胞化生(goblet cell metaplasia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「抽菸(cigarette smoking)為最重要危險因子」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 嗜酸性白血球增加(eosinophilia) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 嗜酸性白血球增加(eosinophilia)",
+      "flashcard_summary": "慢性支氣管炎的特徵 -> B. 嗜酸性白血球增加(eosinophilia)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "慢性支氣管炎的特徵",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 嗜酸性白血球增加(eosinophilia)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_090",
+      "question_number": 90,
+      "question_text": "下列疾病與檢驗配對之敘述,何者最不適當?",
+      "options": {
+        "A": "primary biliary cirrhosis病人90%以上的病人有anti-mitochondrial抗體",
+        "B": "antinuclear antibody(ANA)及anti-smooth muscle antibody為第一型自體免疫性肝炎的血清指標",
+        "C": "第二型自體免疫性肝炎的血清指標為anti-liver kidney microsomal antibodies(anti-LKM1)",
+        "D": "約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic\n antibodies(cANCA)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列疾病與檢驗配對之敘述,何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies(cANCA)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「primary biliary cirrhosis病人90%以上的病人有anti-mitochondrial抗體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「antinuclear antibody(ANA)及anti-smooth muscle antibody為第一型自體免疫性肝炎的血清指標」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「第二型自體免疫性肝炎的血清指標為anti-liver kidney microsomal antibodies(anti-LKM1)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic\n antibodies(cANCA)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies(cANCA) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies(cANCA)",
+      "flashcard_summary": "第 90 題核心考點 -> D. 約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies(cANCA)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 90 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies(cANCA)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_091",
+      "question_number": 91,
+      "question_text": "關於膽囊膽固醇結石(cholesterol stone)產生機制,下列敘述何者錯誤?",
+      "options": {
+        "A": "膽汁中鈣離子過飽和",
+        "B": "膽囊運動不足(hypomotility)",
+        "C": "加速膽固醇晶體成核(nucleation)",
+        "D": "黏液分泌過多"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「關於膽囊膽固醇結石(cholesterol stone)產生機制,下列敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「A. 膽汁中鈣離子過飽和」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 正確答案。選項內容：「膽汁中鈣離子過飽和」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「膽囊運動不足(hypomotility)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「加速膽固醇晶體成核(nucleation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「黏液分泌過多」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n膽囊膽固醇結石(cholesterol stone)產生機制 / cholesterol stone => 膽汁中鈣離子過飽和 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "膽囊膽固醇結石(cholesterol stone)產生機制 / cholesterol stone => 膽汁中鈣離子過飽和",
+      "flashcard_summary": "膽囊膽固醇結石(cholesterol stone)產生機制 / cholesterol stone -> A. 膽汁中鈣離子過飽和",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "膽囊膽固醇結石(cholesterol stone)產生機制 / cholesterol stone",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「A. 膽汁中鈣離子過飽和」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（二）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_092",
+      "question_number": 92,
+      "question_text": "30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面\n 是黃色的,在顯微鏡下觀察如附圖,細胞含chromogranin及synaptophysin。下列何者為最可能的診斷?",
+      "options": {
+        "A": "增生性息肉(hyperplastic polyp)",
+        "B": "小管狀腺瘤(tubular adenoma)",
+        "C": "神經內分泌腫瘤(neuroendocrine tumor)",
+        "D": "腺癌(adenocarcinoma)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面\n 是黃色的,在顯微鏡下觀察如附圖,細胞含chromogranin及synaptophysin。下列何者為最可能的診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 神經內分泌腫瘤(neuroendocrine tumor)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「增生性息肉(hyperplastic polyp)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「小管狀腺瘤(tubular adenoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「神經內分泌腫瘤(neuroendocrine tumor)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「腺癌(adenocarcinoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 神經內分泌腫瘤(neuroendocrine tumor) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 神經內分泌腫瘤(neuroendocrine tumor)",
+      "flashcard_summary": "30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面 是黃… / chromogranin / synaptophysin -> C. 神經內分泌腫瘤(neuroendocrine tumor)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面 是黃… / chromogranin / synaptophysin",
+      "flashcard_back": "官方答案指向「C. 神經內分泌腫瘤(neuroendocrine tumor)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_093",
+      "question_number": 93,
+      "question_text": "毒物引起之急性腎小管壞死其壞死部位最不可能發生在:",
+      "options": {
+        "A": "近曲小管(proximal convoluted tubules)",
+        "B": "亨耳氏環上升支(ascending limbs of Henle's loop)",
+        "C": "近曲小管直部(straight segments of proximal tubules)",
+        "D": "集尿管(collecting ducts)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「毒物引起之急性腎小管壞死其壞死部位最不可能發生在:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 集尿管(collecting ducts)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「近曲小管(proximal convoluted tubules)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「亨耳氏環上升支(ascending limbs of Henle's loop)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「近曲小管直部(straight segments of proximal tubules)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「集尿管(collecting ducts)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 集尿管(collecting ducts) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 集尿管(collecting ducts)",
+      "flashcard_summary": "毒物引起之急性腎小管壞死其壞死部位最不可能發生在 -> D. 集尿管(collecting ducts)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "毒物引起之急性腎小管壞死其壞死部位最不可能發生在",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 集尿管(collecting ducts)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_094",
+      "question_number": 94,
+      "question_text": "最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是:",
+      "options": {
+        "A": "MEN1 mutation",
+        "B": "CCND1 gene inversion",
+        "C": "Renal failure",
+        "D": "Multiple endocrine neoplasia"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是:」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. Renal failure」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「MEN1 mutation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「CCND1 gene inversion」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「Renal failure」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Multiple endocrine neoplasia」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是 / Secondary hyperparathyroidism => Renal failure 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是 / Secondary hyperparathyroidism => Renal failure",
+      "flashcard_summary": "最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是 / Secondary hyperparathyroidism -> C. Renal failure",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "最常造成次發性副甲狀腺功能亢進症(Secondary hyperparathyroidism)的原因是 / Secondary hyperparathyroidism",
+      "flashcard_back": "考點是把題幹線索連到「C. Renal failure」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "基礎醫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_095",
+      "question_number": 95,
+      "question_text": "最常造成腦下垂體機能亢進的原因是:",
+      "options": {
+        "A": "前葉腺瘤",
+        "B": "前葉增生",
+        "C": "前葉癌",
+        "D": "下視丘疾病"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「最常造成腦下垂體機能亢進的原因是:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 前葉腺瘤，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「前葉腺瘤」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「前葉增生」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「前葉癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「下視丘疾病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 前葉腺瘤 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 前葉腺瘤",
+      "flashcard_summary": "最常造成腦下垂體機能亢進的原因是 -> A. 前葉腺瘤",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "最常造成腦下垂體機能亢進的原因是",
+      "flashcard_back": "官方答案指向「A. 前葉腺瘤」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_096",
+      "question_number": 96,
+      "question_text": "測量血清中前列腺特定抗原(prostatic-specific antigen, PSA)的濃度已經被廣泛用來協助診斷或處理\n 前列腺癌(prostate cancer),下列有關前列腺特定抗原或其改良型測量方法的敘述,何者最不適當?",
+      "options": {
+        "A": "前列腺特定抗原為前列腺上皮所生成",
+        "B": "除了前列腺癌外,良性前列腺增生症、前列腺炎等情況,都會造成血清中前列腺特定抗原濃度上升",
+        "C": "有關前列腺特定抗原上升速率(PSA velocity),一般而言,前列腺癌病人的上升速率高於沒有前列腺癌\n 的病人",
+        "D": "游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺\n 疾病的病人"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「測量血清中前列腺特定抗原(prostatic-specific antigen, PSA)的濃度已經被廣泛用來協助診斷或處理\n 前列腺癌(prostate cancer),下列有關前列腺特定抗原或其改良型測量方法的敘述,何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺 疾病的病人，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「前列腺特定抗原為前列腺上皮所生成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「除了前列腺癌外,良性前列腺增生症、前列腺炎等情況,都會造成血清中前列腺特定抗原濃度上升」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「有關前列腺特定抗原上升速率(PSA velocity),一般而言,前列腺癌病人的上升速率高於沒有前列腺癌\n 的病人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺\n 疾病的病人」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺 疾病的病人 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺 疾病的病人",
+      "flashcard_summary": "測量血清中前列腺特定抗原(prostatic-specific antigen, PSA)的濃度已經被… / prostatic-specific antigen / PSA -> D. 游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺 疾病的病人",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "測量血清中前列腺特定抗原(prostatic-specific antigen, PSA)的濃度已經被… / prostatic-specific antigen / PSA",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 游離與總前列腺特異抗原比值(free PSA/total PSA),一般而言,前列腺癌病人的比值高於良性前列腺 疾病的病人」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_097",
+      "question_number": 97,
+      "question_text": "20歲女生最近覺得下腹部腹脹不舒服,超音波檢查發現右側卵巢有一個約7公分大的腫瘤,經手術切取後腫\n 瘤外觀表面平滑,腫瘤切面觀察有固體部分也有壞死及出血區域,同時含有毛髮及像牙齒一樣的物質。切片\n 下出現一些像胚胎時期的神經上皮細胞(neuroepithelium),則下列何者為最有可能之診斷?",
+      "options": {
+        "A": "成熟畸胎瘤(mature teratoma)",
+        "B": "漿液性囊狀腺癌(serous cystadenocarcinoma)",
+        "C": "未成熟畸胎瘤(immature teratoma)",
+        "D": "胚胎性癌(embryonal carcinoma)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「20歲女生最近覺得下腹部腹脹不舒服,超音波檢查發現右側卵巢有一個約7公分大的腫瘤,經手術切取後腫\n 瘤外觀表面平滑,腫瘤切面觀察有固體部分也有壞死及出血區域,同時含有毛髮及像牙齒一樣的物質。切片\n 下出現一些像胚胎時期的神經上皮細胞(neuroepithelium),則下列何者為最有可能之診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 未成熟畸胎瘤(immature teratoma)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「成熟畸胎瘤(mature teratoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「漿液性囊狀腺癌(serous cystadenocarcinoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「未成熟畸胎瘤(immature teratoma)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「胚胎性癌(embryonal carcinoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 未成熟畸胎瘤(immature teratoma) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 未成熟畸胎瘤(immature teratoma)",
+      "flashcard_summary": "20歲女生最近覺得下腹部腹脹不舒服,超音波檢查發現右側卵巢有一個約7公分大的腫瘤,經手術切取後腫 瘤外… / neuroepithelium -> C. 未成熟畸胎瘤(immature teratoma)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "20歲女生最近覺得下腹部腹脹不舒服,超音波檢查發現右側卵巢有一個約7公分大的腫瘤,經手術切取後腫 瘤外… / neuroepithelium",
+      "flashcard_back": "官方答案指向「C. 未成熟畸胎瘤(immature teratoma)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_098",
+      "question_number": 98,
+      "question_text": "下列那一種分子是由造骨母細胞(osteoblasts)或骨間質細胞(stromal cells)所製造分泌,並用來結合\n RANK ligand(RANKL),進而阻礙RANKL與蝕骨細胞(osteoclast precursors)上的RANK作用 ?",
+      "options": {
+        "A": "Wnt",
+        "B": "LRP5/6",
+        "C": "osteoprotegerin",
+        "D": "RUNX2"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列那一種分子是由造骨母細胞(osteoblasts)或骨間質細胞(stromal cells)所製造分泌,並用來結合\n RANK ligand(RANKL),進而阻礙RANKL與蝕骨細胞(osteoclast precursors)上的RANK作用 ?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. osteoprotegerin，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Wnt」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「LRP5/6」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「osteoprotegerin」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「RUNX2」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. osteoprotegerin 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. osteoprotegerin",
+      "flashcard_summary": "種分子是由造骨母細胞(osteoblasts)或骨間質細胞(stromal cells)所製造分泌,並… / osteoblasts / stromal cells -> C. osteoprotegerin",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "種分子是由造骨母細胞(osteoblasts)或骨間質細胞(stromal cells)所製造分泌,並… / osteoblasts / stromal cells",
+      "flashcard_back": "官方答案指向「C. osteoprotegerin」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（二）",
+      "category": "微生物免疫學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_099",
+      "question_number": 99,
+      "question_text": "下列有關軸突性周邊神經病變(peripheral axonal neuropathy)之敘述,何者錯誤?",
+      "options": {
+        "A": "破壞解離的髓鞘可形成myelin ovoids",
+        "B": "Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行",
+        "C": "修復過程有時會產生traumatic neuroma",
+        "D": "再生之軸突髓鞘(myelin sheath)比未受病變前之髓鞘細薄"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關軸突性周邊神經病變(peripheral axonal neuropathy)之敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「B. Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「破壞解離的髓鞘可形成myelin ovoids」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「修復過程有時會產生traumatic neuroma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「再生之軸突髓鞘(myelin sheath)比未受病變前之髓鞘細薄」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第 99 題核心考點 / peripheral axonal neuropathy => Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 99 題核心考點 / peripheral axonal neuropathy => Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行",
+      "flashcard_summary": "第 99 題核心考點 / peripheral axonal neuropathy -> B. Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "第 99 題核心考點 / peripheral axonal neuropathy",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「B. Wallerian degeneration起自周邊神經傷害處近端,往神經元細胞體中心進行」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（二）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-2_100",
+      "question_number": 100,
+      "question_text": "因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處?",
+      "options": {
+        "A": "大腦灰質",
+        "B": "大腦白質",
+        "C": "腦幹",
+        "D": "小腦"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 腦幹」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大腦灰質」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「大腦白質」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「腦幹」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「小腦」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處 / herniation / Duret hemorrhage => 腦幹 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處 / herniation / Duret hemorrhage => 腦幹",
+      "flashcard_summary": "因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處 / herniation / Duret hemorrhage -> C. 腦幹",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_correction",
+      "flashcard_front": "因腦壓太高造成的herniation,導致的Duret hemorrhage,發生於何處 / herniation / Duret hemorrhage",
+      "flashcard_back": "考點是把題幹線索連到「C. 腦幹」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（二）",
+      "category": "神經科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    }
+  ]
+}

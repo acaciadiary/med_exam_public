@@ -1,0 +1,52 @@
+{
+  "name": "Ariel's Med｜醫師國考歷屆試題練習題庫",
+  "short_name": "Ariel's Med",
+  "id": ".",
+  "description": "台灣醫師國考歷屆試題線上練習，支援醫學一至醫學六、錯題複習、收藏閃卡與重點整理。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fff8f4",
+  "theme_color": "#fff8f4",
+  "orientation": "portrait-primary",
+  "categories": ["education", "medical", "productivity"],
+  "lang": "zh-Hant-TW",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "開始做題",
+      "short_name": "做題",
+      "url": ".?page=exam"
+    },
+    {
+      "name": "錯題本",
+      "short_name": "錯題",
+      "url": ".?page=mistakes"
+    },
+    {
+      "name": "收藏題目",
+      "short_name": "收藏",
+      "url": ".?page=favorites"
+    },
+    {
+      "name": "便利貼",
+      "short_name": "筆記",
+      "url": ".?page=notes"
+    }
+  ]
+}

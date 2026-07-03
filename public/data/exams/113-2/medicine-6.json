@@ -1,0 +1,2330 @@
+{
+  "id": "113-2_medicine-6",
+  "year": "113-2",
+  "title": "113 年第二次醫師國考：醫學（六）",
+  "subject": "medicine-6",
+  "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=302&code=113070&q=1&s=44&t=Q",
+  "updated_at": "2026-06-30T14:05:39.265Z",
+  "questions": [
+    {
+      "id": "113-2_medicine-6_001",
+      "question_number": 1,
+      "question_text": "呼吸道的處置中,有些情況風險性特別高,應該要有預先的警覺。下列關於這些情況的描述,何者錯誤?",
+      "options": {
+        "A": "以發生機率而言,全身麻醉過程中,手術拔管後與恢復期發生吸入性肺炎的機率高於麻醉誘導期\n (induction of anesthesia)",
+        "B": "對於預期性困難插管的病患,可採取局部麻醉(topical anesthesia)之下進行清醒插管(awake\n intubation)",
+        "C": "儘管已經進行過麻醉前呼吸道評估,麻醉誘導期發生非預期性困難插管的情況仍在所難免,因此必須事先\n 備妥困難插管應變流程(algorithms for the management of unanticipated difficult intubation)",
+        "D": "「無法插管,且無法通氣(cannot intubate, cannot ventilate)」是指無法以非侵入性方法進行通氣,\n 而又無法進行插管的緊急情況"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n題幹詢問在呼吸道處置中，關於風險性特別高的情況描述何者錯誤。\n\n【選項詳解】\n- A. 錯誤。全身麻醉過程中，吸入性肺炎最常發生在「麻醉誘導期（induction of anesthesia）」，因為此時病患的保護性呼吸道反射剛喪失，且尚未建立氣管內管保護。手術拔管後與恢復期雖有風險，但發生機率低於誘導期。\n- B. 正確。對於已知或預期有困難插管的病患，在局部麻醉下進行清醒插管（awake intubation）是標準且安全的做法，可保留病患的自主呼吸與喉部反射。\n- C. 正確。即使經過詳細的麻醉前評估，仍有部分病患會發生非預期的困難插管，因此臨床上必須隨時備妥標準的困難插管應變流程（algorithms for difficult intubation）以防萬一。\n- D. 正確。「無法插管且無法通氣（cannot intubate, cannot ventilate, CICV）」是麻醉科最危急的緊急情況，定義為無法使用面罩、聲門上式氣道（如LMA）等非侵入方法通氣，且亦無法完成氣管插管，此時須立即採取有創氣道處置（如環甲膜切開術）。\n\n【核心考點】\n臨床麻醉中吸入性肺炎的高風險期評估及困難氣道處置原則。",
+      "key_point": "全身麻醉中吸入性肺炎的發生機率以「麻醉誘導期（induction）」為最高，而非手術拔管後或恢復期。",
+      "flashcard_summary": "全身麻醉中吸入性肺炎高風險期 -> 麻醉誘導期 (induction of anesthesia)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床情境：全身麻醉過程中，吸入性肺炎發生機率最高的時期",
+      "flashcard_back": "麻醉誘導期 (induction of anesthesia)",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_002",
+      "question_number": 2,
+      "question_text": "以腦電圖(electroencephalogram, EEG)為基礎的監測,有關bispectral index(BIS)監測,其結果代表\n 之意義,下列何者錯誤?",
+      "options": {
+        "A": "BIS 100代表清醒",
+        "B": "BIS 40~60 時,產生回憶(recall)的機率低,可減少術中awareness的風險",
+        "C": "腦波burst suppresion時,BIS的數值通常呈現為40",
+        "D": "BIS 是consciousness level的監測,不能完全代表麻醉深度"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n題幹詢問關於腦電圖（EEG）雙頻指數（bispectral index, BIS）監測意義的敘述何者錯誤。\n\n【選項詳解】\n- A. 正確。BIS 數值範圍為 0 到 100，其中 100 代表完全清醒狀態。\n- B. 正確。臨床上維持全身麻醉的合適 BIS 範圍為 40–60，此時病患產生術中記憶（recall）或術中覺醒（awareness）的機率極低。\n- C. 錯誤。當腦波出現爆發抑制（burst suppression）時，代表大腦皮質活動受到極重度抑制，此時的 BIS 指數通常會顯著低於 40（一般在 0 至 30 之間，且數值會隨著抑制程度加深而向 0 遞減），而非維持在 40。\n- D. 正確。BIS 是基於腦電圖處理後反映意識水平（consciousness level）的指標，但麻醉深度還包含鎮痛、肌肉鬆弛與自主神經反應，故 BIS 不能等同於全部的麻醉深度。\n\n【核心考點】\n麻醉腦波監測（BIS）的數值定義、臨床意義與局限性。",
+      "key_point": "當腦電圖呈現爆發抑制（burst suppression）時，代表極深的麻醉或腦功能受抑，此時 BIS 值通常低於 40（趨向於 0）。",
+      "flashcard_summary": "腦波爆發抑制 (burst suppression) -> BIS值低於 40 (趨近於 0)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床指標：腦波呈現爆發抑制 (burst suppression) 時的 BIS 數值特徵",
+      "flashcard_back": "BIS值低於 40 (隨抑制加深趨向於 0)",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_003",
+      "question_number": 3,
+      "question_text": "麻醉誘導並執行氣管插管後,Pulse oximetry顯示97%,接上潮氣末二氧化碳(end-tidal CO2)監測,出現\n 圖形如下,下列後續處置何項最適宜?",
+      "options": {
+        "A": "懷疑氣管內管阻塞,準備抽吸",
+        "B": "懷疑食道內插管,準備再重新插管",
+        "C": "換新的soda lime,以利吸收二氧化碳",
+        "D": "懷疑插管位置過深,造成單肺通氣,準備外移氣管內管"
+      },
+      "correct_answer": "B",
+      "explanation": "// NOTE: 本題圖形為食道插管之典型 EtCO2 表現（通常無波形或僅有數個遞減微弱波形後呈平線）\n【題幹解析】\n氣管插管後必須即時確認位置。雖然血氧飽和度（SpO2）顯示 97%，但接上潮氣末二氧化碳（EtCO2）監測後出現異常波形（代表無持續 CO2 排出），提示氣管內管並未正確置於氣管內。\n\n【選項詳解】\n- A. 錯誤。氣管內管阻塞時仍會有 CO2 波形，通常表現為呼氣相延長或波形變矮，而非完全沒有波形或迅速歸零。\n- B. 正確。EtCO2 監測是確認插管位置的黃金標準。若管路誤入食道，因胃內可能有少量殘留 CO2，前幾次呼吸可能出現微弱且迅速遞減的波形，之後便呈平線（no wave）。這時應高度懷疑食道插管，必須立即拔除並重新插管。\n- C. 錯誤。二氧化碳吸收劑（soda lime）飽和會導致呼入氣體中含有 CO2，使 EtCO2 波形的基線（baseline）上升，而不會導致沒有 CO2 波形。\n- D. 錯誤。插管過深造成單肺通氣（通常進入右主支氣管）時，仍有肺部通氣，EtCO2 監測會呈現正常的 CO2 波形，不至於無波形。\n\n【核心考點】\n氣管插管位置確認、EtCO2 監測的黃金標準地位及食道插管的波形判讀與緊急處置。",
+      "key_point": "插管後潮氣末二氧化碳（EtCO2）監測無正常波形或迅速消失，為診斷「食道內插管」最可靠的依據，必須立即重新插管。",
+      "flashcard_summary": "插管後 EtCO2 無正常波形 -> 懷疑食道插管並重新插管",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床情境：氣管插管後 EtCO2 監測無波形或波形迅速消失的後續處置",
+      "flashcard_back": "高度懷疑食道內插管，準備立即重新插管",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_004",
+      "question_number": 4,
+      "question_text": "Sugammadex是肌肉鬆弛劑專用的拮抗劑,其對下列何種非去極化神經肌肉阻斷劑具有專一性?",
+      "options": {
+        "A": "rocuronium",
+        "B": "cisatracurium",
+        "C": "mivacurium",
+        "D": "pancuronium"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\nSugammadex（舒美佳）是新型的選擇性鬆弛劑結合劑（selective relaxant binding agent），專門用於拮抗特定非去極化神經肌肉阻斷劑。\n\n【選項詳解】\n- A. 正確。Sugammadex 在分子結構上呈中空環狀，能專一性地包埋血液中的類固醇類（aminosteroids）非去極化肌鬆劑，其中對 Rocuronium 的親和力最高（其次為 Vecuronium），使其無法與乙醯膽鹼受體結合，達到快速且徹底的拮抗效果。\n- B. 錯誤。Cisatracurium 屬於苄基異喹啉類（benzylisoquinoliniums）肌鬆劑，其在體內通過 Hoffmann 消除，Sugammadex 對其無拮抗效果。\n- C. 錯誤。Mivacurium 亦屬於苄基異喹啉類肌鬆劑，Sugammadex 對其無效。\n- D. 錯誤。Pancuronium 雖屬類固醇類，但 Sugammadex 對它的親和力極低，臨床上不使用 Sugammadex 來拮抗 Pancuronium。\n\n【核心考點】\n神經肌肉阻斷劑拮抗藥物 Sugammadex 的藥理機轉與專一性對象。",
+      "key_point": "Sugammadex 對類固醇類非去極化肌肉鬆弛劑（特別是 Rocuronium 與 Vecuronium）具有專一性的包埋拮抗作用。",
+      "flashcard_summary": "Sugammadex 專一性拮抗 -> Rocuronium (及 Vecuronium)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "藥理學：Sugammadex 具有專一性拮抗作用的肌肉鬆弛劑",
+      "flashcard_back": "Rocuronium (及 Vecuronium) 等類固醇類肌鬆劑",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_005",
+      "question_number": 5,
+      "question_text": "下列有關吸入性麻醉劑的敘述,何者錯誤?",
+      "options": {
+        "A": "其效力(potency)與其脂溶性之間有良好相關性",
+        "B": "大多具有血管舒張的效用",
+        "C": "desflurane可用於低流量麻醉",
+        "D": "其最低肺泡濃度(minimum alveolar concentration)不受年齡影響"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題考查吸入性麻醉劑的藥理學特徵，要求選出錯誤的敘述。\n\n【選項詳解】\n- A. 正確。根據 Meyer-Overton 假說，吸入性麻醉劑的強度/效力（potency，通常以 1/MAC 表示）與其在橄欖油中的脂溶性（oil:gas partition coefficient）呈良好的正相關。\n- B. 正確。大多數吸入性麻醉劑（如 Sevoflurane、Desflurane、Isoflurane）皆具有直接舒張血管平滑肌的效用，常導致全身血管阻力下降與血壓降低。\n- C. 正確。Desflurane 的沸點低且揮發性高，但搭配現代麻醉機的專用加熱蒸發器（TEC 6 等），可精準控制輸出濃度，完全適用於低流量麻醉（low-flow anesthesia）以減少浪費。\n- D. 錯誤。最低肺泡濃度（MAC）受年齡影響非常大。MAC 在出生後至嬰兒期（約 1-6 個月）達到最高峰，隨後隨年齡增長而逐漸下降。老年人因中樞神經系統敏感性增高、神經元減少等因素，其 MAC 顯著低於年輕人（每增加 10 歲，MAC 約下降 6%）。\n\n【核心考點】\n吸入性麻醉劑的藥理性質、Meyer-Overton 假說、以及影響 MAC 的生理因素（如年齡）。",
+      "key_point": "吸入性麻醉劑的最低肺泡濃度（MAC）受年齡影響顯著，老年人 MAC 較低（所需濃度低），嬰兒期最高。",
+      "flashcard_summary": "年齡與 MAC 關係 -> 年齡增加則 MAC 下降 (老年人 MAC 較低)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "藥理學：年齡對吸入性麻醉劑最低肺泡濃度 (MAC) 的影響",
+      "flashcard_back": "年齡越大則 MAC 越低 (老年人所需濃度低)；嬰兒期 MAC 最高",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_006",
+      "question_number": 6,
+      "question_text": "執行脊椎麻醉(spinal anesthesia),也就是一般所謂的半身麻醉,當穿刺針最後穿過那一層結構時,才會\n 見到腦脊髓液(cerebrospinal fluid)流出?",
+      "options": {
+        "A": "dura mater 硬脊膜",
+        "B": "arachnoid mater 蜘蛛網膜",
+        "C": "pia mater 軟腦膜",
+        "D": "ligamentum flavum 黃韌帶"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n脊椎麻醉（spinal anesthesia）是將麻醉藥注入蛛網膜下腔（subarachnoid space），以阻斷脊神經根。解剖上必須明確穿刺針經過的層次。\n\n【選項詳解】\n- A. 錯誤。穿過硬脊膜（dura mater）後，下方即緊貼著蜘蛛網膜，此時尚未真正進入有腦脊髓液流動的蛛網膜下腔。\n- B. 正確。蜘蛛網膜（arachnoid mater）與軟脊膜（pia mater）之間為蛛網膜下腔，內含腦脊髓液。穿刺針最後穿透蜘蛛網膜時，便會看見透明的腦脊髓液（CSF）由針尾流出，確認位置正確。\n- C. 錯誤。軟脊膜（pia mater）緊貼於脊髓表面。穿刺針絕對不能刺入或穿過軟脊膜，否則會直接損傷脊髓，造成嚴重的神經後遺症。\n- D. 錯誤。黃韌帶（ligamentum flavum）是椎管後方的緻密韌帶。穿過黃韌帶後僅到達硬膜外腔（epidural space），此時無 CSF。\n\n【核心考點】\n脊椎麻醉穿刺解剖層次：皮膚 -> 皮下組織 -> 棘上韌帶 -> 棘間韌帶 -> 黃韌帶 -> 硬脊膜 -> 蜘蛛網膜 -> 進入蛛網膜下腔（得 CSF）。",
+      "key_point": "執行脊椎麻醉（半身麻醉）時，穿刺針必須最後穿透「蜘蛛網膜（arachnoid mater）」進入蛛網膜下腔，才會有腦脊髓液（CSF）流出。",
+      "flashcard_summary": "脊椎麻醉見 CSF 穿過之最後結構 -> 蜘蛛網膜 (arachnoid mater)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "解剖學：脊椎麻醉穿刺時，見到腦脊髓液 (CSF) 流出前穿過的最後一層結構",
+      "flashcard_back": "蜘蛛網膜 (arachnoid mater)",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_007",
+      "question_number": 7,
+      "question_text": "95歲高齡病患因手腕骨折,骨科醫師預計進行骨折復位手術(open reduction and internal fixation),\n 麻醉醫師準備進行區域麻醉(regional anesthesia)以降低全身麻醉(general anesthesia)可能之風險,\n 下列有關區域麻醉的敘述何者正確?",
+      "options": {
+        "A": "應優先考慮進行interscalene brachial plexus block",
+        "B": "若手術時間預計為45分鐘,則可以考慮使用作用時間較短的bupivacaine,以便於手術後評估神經學功能",
+        "C": "brachial plexus block若是以注射lidocaine執行,約可在5分鐘以內達到麻醉效果開始手術",
+        "D": "brachial plexus block 使用lidocaine 與少量sodium bicarbonate 混和鹼化,可以加速onset"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n針對 95 歲高齡病患的手腕骨折手術，區域麻醉（神經阻斷術）是避開全身麻醉風險的優良選擇。本題考查上肢神經阻斷術的選擇及局部麻醉藥的藥理輔助劑。\n\n【選項詳解】\n- A. 錯誤。斜角肌間臂神經叢阻斷（interscalene block）主要阻斷 C5–C7，適用於肩部及上臂手術，且有高機率併發同側膈神經麻痺（phrenic nerve block），對高齡病患呼吸功能風險大。手腕手術應優先選擇鎖骨上（supraclavicular）或腋下（axillary）阻斷術。\n- B. 錯誤。Bupivacaine 屬於長效型局部麻醉藥（作用時間可達 4–8 小時），不適合用於短時間手術後需要快速評估神經學功能的情況。\n- C. 錯誤。臂神經叢阻斷術（brachial plexus block）因為神經鞘較厚且範圍大，即使使用起效較快的 Lidocaine，通常也需要 10 至 20 分鐘才能達到完全的麻醉效能，無法在 5 分鐘內開始手術。\n- D. 正確。局部麻醉藥（如 Lidocaine）是弱鹼性鹽酸鹽，偏酸性。加入碳酸氫鈉（sodium bicarbonate）可將藥液鹼化，使非解離型（不帶電荷、脂溶性高，能穿透神經細胞膜）的局麻藥比例增加，進而顯著縮短神經阻斷的起效時間（onset time）。\n\n【核心考點】\n上肢區域麻醉阻斷部位選擇、局麻藥物特性（Bupivacaine 長效）與鹼化（NaHCO3）加速起效的藥理機轉。",
+      "key_point": "局部麻醉藥中加入少量的碳酸氫鈉（NaHCO3）可提高藥物非解離型比例，加速藥物穿透神經膜以縮短起效時間（onset time）。",
+      "flashcard_summary": "局麻藥加 NaHCO3 -> 鹼化藥液，加速起效時間 (shorten onset)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "藥理學：在局部麻醉藥中加入碳酸氫鈉 (NaHCO3) 的主要目的與機轉",
+      "flashcard_back": "鹼化藥液以增加非解離型比例，加速神經阻斷起效 (shorten onset)",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_008",
+      "question_number": 8,
+      "question_text": "下列有關慢性疼痛的相關名詞定義,何者錯誤?",
+      "options": {
+        "A": "allodynia:對非傷害性(nonnoxious)的刺激感受為疼痛",
+        "B": "hyperalgisia:對傷害性(noxious)的刺激反應加劇",
+        "C": "analgesia:對所有知覺皆無反應",
+        "D": "paresthesia:無明顯刺激狀態下卻感受異樣知覺"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題考查國際疼痛研究學會（IASP）對於慢性疼痛及感覺異常的名詞定義。\n\n【選項詳解】\n- A. 正確。Allodynia（觸痛/異痛症）定義為對「非傷害性/非致痛性（non-noxious）的刺激」感受到疼痛，例如輕觸或微風吹拂皮膚即感到劇烈疼痛。\n- B. 正確。Hyperalgesia（痛覺過敏）定義為對「傷害性（noxious）的刺激」產生加劇、過度的疼痛反應。\n- C. 錯誤。Analgesia（止痛/無痛）定義為在維持意識及其他知覺的狀態下，對通常會引起疼痛的刺激「失去痛覺（absence of pain）」。若對「所有知覺」皆無反應，則稱為 Anesthesia（感覺喪失/麻醉）。\n- D. 正確。Paresthesia（感覺異常）是指在「無明顯外在刺激」下，產生如針刺感、麻木感、燒灼感等異常自發性知覺。\n\n【核心考點】\n慢性疼痛專有名詞（Allodynia, Hyperalgesia, Analgesia, Paresthesia）的定義辨析。",
+      "key_point": "Analgesia（止痛/無痛覺）是指對通常會引起疼痛的刺激失去痛覺，但其他感覺仍保留；對所有知覺皆無反應稱為 anesthesia（麻醉）。",
+      "flashcard_summary": "Analgesia 定義 -> 僅失去痛覺 (而非所有知覺皆無反應)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床定義：Analgesia 與 Anesthesia 在感覺喪失範圍上的差異",
+      "flashcard_back": "Analgesia 僅失去痛覺 (保留其他感覺)；Anesthesia 失去所有感覺",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_009",
+      "question_number": 9,
+      "question_text": "目前關於敗血症(sepsis)的治療方法,下列何者在實證上對預後有幫助?",
+      "options": {
+        "A": "以「早期目標引導治療法(early goal-directed therapy)」,優先給與足夠的輸液,來維持平均血壓> 90 mmHg",
+        "B": "以「加強胰島素治療(intensive insulin therapy)」,來控制血糖低於180 mg/dL",
+        "C": "給與高劑量類固醇,可抑制全身性發炎反應,降低90天死亡率",
+        "D": "給與腎性劑量(renal-dose)的dopamine,可增加尿量,減少住院洗腎率"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題考查敗血症（sepsis）與敗血性休克臨床實證治療指引（如 Surviving Sepsis Campaign）。\n\n【選項詳解】\n- A. 錯誤。雖然早期給予足夠輸液重要，但實證醫學指引建議的平均動脈壓（MAP）維持目標為 65 mmHg 以上即可，維持 > 90 mmHg 會導致不必要的升壓劑過量使用與心血管併發症。\n- B. 正確。根據大型臨床試驗（如 NICE-SUGAR study），對重症/敗血症病患採用極嚴格的胰島素治療（控制血糖於 80–110 mg/dL）會顯著增加致命性低血糖的發生率，並增加死亡率。因此目前的標準做法是當血糖 > 180 mg/dL 時開始使用胰島素，控制血糖目標在 140–180 mg/dL（即控制低於 180 mg/dL）。\n- C. 錯誤。高劑量類固醇對敗血症無益且會增加二次感染風險；僅在充足輸液與升壓劑後仍為難治性休克時，考慮給予每日低劑量氫化可的松（Hydrocortisone 200 mg）。\n- D. 錯誤。臨床研究已證實，給予「腎性劑量（renal-dose / low-dose, 1-3 mcg/kg/min）」的 Dopamine 無法保護腎臟或降低洗腎率，反而可能增加心律不整等副作用。\n\n【核心考點】\n敗血症重症照護指引中關於血壓目標（MAP >= 65）、血糖控制目標（< 180 mg/dL）、類固醇與多巴胺的使用原則。",
+      "key_point": "敗血症重症病患的血糖控制目標應維持在低於 180 mg/dL，嚴格控制血糖（80-110 mg/dL）反而會增加低血糖及死亡風險。",
+      "flashcard_summary": "敗血症血糖控制 -> 控制於 140-180 mg/dL (低於 180 mg/dL)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床指引：敗血症 (Sepsis) 重症患者的血糖控制目標與原則",
+      "flashcard_back": "血糖 > 180 mg/dL 時啟動胰島素，控制目標在 140-180 mg/dL 之間",
+      "category_group": "醫學（六）",
+      "category": "其他",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_010",
+      "question_number": 10,
+      "question_text": "有關年齡相關黃斑部退化(age-related macular degeneration)之敘述,下列何者錯誤?",
+      "options": {
+        "A": "乾性(dry type)較濕性(wet type)常見",
+        "B": "濕性(wet type)較乾性(dry type)容易造成視力損失",
+        "C": "盛行率隨著年齡增加,很少發生於70歲以下病患",
+        "D": "是已開發國家造成不可逆視力喪失最常見的原因"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n年齡相關黃斑部退化（AMD）是造成老年人視力障礙的主要原因，分為乾性與濕性兩大類。\n\n【選項詳解】\n- A. 正確。乾性（非新生血管性）AMD 最為常見，約占所有黃斑部退化病例的 85% 至 90%。\n- B. 正確。濕性（新生血管性）AMD 雖然比例低，但因脈絡膜新生血管（CNV）易發生滲漏、出血或疤痕化，容易造成快速且嚴重的中心視力喪失。\n- C. 錯誤。雖然 AMD 盛行率隨年齡顯著增加，但在 50–60 歲左右的年齡層就已有相當的發病率，並非「很少發生於 70 歲以下」。臨床篩檢通常建議 50 歲以上即應注意此疾病。\n- D. 正確。在已開發國家（如美國、歐洲及台灣），AMD 是導致 50 歲以上老年人不可逆性失明/嚴重視力喪失的最主要原因。\n\n【核心考點】\n年齡相關黃斑部退化（AMD）的分類（乾性 vs 濕性）、流行病學特徵及臨床表現。",
+      "key_point": "年齡相關黃斑部退化（AMD）好發於 50 歲以上中老年人，其盛行率隨年齡增長而上升，並非很少發生於 70 歲以下。",
+      "flashcard_summary": "AMD 好發年齡 -> 50 歲以上 (非 70 歲以下罕見)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床醫學：年齡相關黃斑部退化 (AMD) 的好發年齡與流行病學特徵",
+      "flashcard_back": "好發於 50 歲以上，盛行率隨年齡漸增，並非罕見於 70 歲以下",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:01:53.982530+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_011",
+      "question_number": 11,
+      "question_text": "有關裂孔性視網膜剝離徵候之敘述,下列何者錯誤?",
+      "options": {
+        "A": "和正常眼睛相比,眼壓通常會高大約5毫米汞柱(mmHg)",
+        "B": "廣泛性的視網膜剝離會出現馬格恩氏瞳孔(Marcus Gunn pupil)",
+        "C": "輕微的虹彩炎(iritis)是非常普遍的",
+        "D": "在前玻璃體經常可見類似菸草灰(tobacco dust)的色素細胞"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題考查裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD）的臨床表徵與診斷特徵。\n\n【選項詳解】\n- A. 錯誤。發生 RRD 時，房水或液化的玻璃體可通過視網膜裂孔流向視網膜下空間，並經由視網膜色素上皮細胞（RPE）主動幫浦吸收，因此患眼的眼壓（IOP）通常會比對側健眼「降低」大約 5 mmHg（低眼壓，hypotony），而非升高。\n- B. 正確。當發生大範圍（廣泛性）的視網膜剝離時，視網膜感光細胞嚴重受損，會導致患側傳入性瞳孔障礙（afferent pupillary defect, APD），臨床上可觀察到馬格恩氏瞳孔（Marcus Gunn pupil）。\n- C. 正確。視網膜剝離常伴隨局部的無菌性發炎反應，患者非常普遍會合併輕微的前葡萄膜炎或虹彩炎（iritis）。\n- D. 正確。在前玻璃體（anterior vitreous）中若見到類似煙草灰（tobacco dust）的褐色色素細胞，稱為 Schafer's sign，這是視網膜裂孔形成時，色素上皮細胞釋放至玻璃體腔的特徵表現。\n\n【核心考點】\n裂孔性視網膜剝離（RRD）的臨床徵象辨識，包括低眼壓、Schafer's sign、Marcus Gunn 瞳孔及輕度虹彩炎。",
+      "key_point": "裂孔性視網膜剝離患眼之眼壓通常較健眼「降低」（約低 5 mmHg），而非升高。",
+      "flashcard_summary": "RRD 患眼眼壓變化 -> 比正常眼睛低約 5 mmHg",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床表徵：裂孔性視網膜剝離 (RRD) 的患眼眼壓變化特徵",
+      "flashcard_back": "眼壓通常比正常眼睛低大約 5 mmHg (低眼壓)",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_012",
+      "question_number": 12,
+      "question_text": "有關疱疹病毒所造成的眼球表面感染,下列敘述何者錯誤?",
+      "options": {
+        "A": "可由單純性疱疹病毒1或2型所造成",
+        "B": "可影響虹彩及小樑導致眼壓升高",
+        "C": "可出現上皮樹枝狀角膜炎",
+        "D": "感染治癒後,不再復發"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題考查疱疹病毒（包括單純疱疹病毒 HSV 及帶狀疱疹病毒 VZV）所造成的眼部感染特性。\n\n【選項詳解】\n- A. 正確。單純疱疹病毒角膜炎可由 HSV-1（最常見，主要經口鼻分泌物傳播）或 HSV-2（主要經生殖器途徑傳播，可見於新生兒產道感染）所引起。\n- B. 正確。疱疹病毒感染除侵犯角膜上皮外，亦可侵犯深層組織引起前葡萄膜炎（虹彩炎）以及小樑網炎（trabeculitis），導致房水排出受阻而引發眼壓升高（繼發性青光眼）。\n- C. 正確。單純疱疹病毒性上皮角膜炎最典型的特徵是出現上皮樹枝狀角膜炎（dendritic keratitis），病灶末端常有膨大（terminal bulbs），螢光素染色呈陽性。\n- D. 錯誤。疱疹病毒具有潛伏感染的特性。首次感染治癒後，病毒並未被完全清除，而是潛伏在三叉神經節（trigeminal ganglion）中。當病患遭遇發燒、壓力、免疫力下降或紫外線照射時，病毒即可能沿神經纖維重新活化，導致疾病反覆復發，無法達到「不再復發」。\n\n【核心考點】\n疱疹病毒眼部感染（特別是 HSV 角膜炎）的臨床表現、診斷特徵、以及潛伏與復發之病理生理學機制。",
+      "key_point": "疱疹病毒造成的眼部表面感染，治癒後病毒會潛伏在神經節中，未來在免疫力低下時仍會反覆復發。",
+      "flashcard_summary": "疱疹病毒眼部感染轉歸 -> 潛伏於神經節，未來易反覆復發",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床病理：疱疹病毒眼部感染治癒後的長期轉歸與復發特性",
+      "flashcard_back": "病毒潛伏在三叉神經節中，免疫力低下時會反覆復發",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_013",
+      "question_number": 13,
+      "question_text": "手術前為正視眼(emmetropia)的病人,取出白內障若不置入人工水晶體,病人術後會有:",
+      "options": {
+        "A": "高度近視",
+        "B": "高度遠視",
+        "C": "高度散光",
+        "D": "仍為正視眼"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n正常眼球的屈光力主要由角膜（約 +43 D）與水晶體（約 +15 至 +20 D）共同提供。本題考查無晶體眼（aphakia）的屈光狀態改變。\n\n【選項詳解】\n- A. 錯誤。失去水晶體會讓眼球的聚焦能力大幅減弱，光線聚焦在視網膜後方，因此不會造成近視（近視是聚焦在視網膜前方）。\n- B. 正確。取出白內障（即摘除水晶體）若未置入人工水晶體，眼球將處於「無晶體眼（aphakia）」狀態。此時眼球喪失了約 +15 至 +20 D 的屈光力，光線進入眼球後只能聚焦在網膜後方很遠處，導致嚴重的「高度遠視（high hyperopia）」，病人術後必須配戴厚重的凸透鏡（約 +10 D 左右）或隱形眼鏡才能獲得清晰視力。\n- C. 錯誤。散光主要是角膜弧度不均勻所致，取出水晶體本身不是造成高度散光的主因。\n- D. 錯誤。正常正視眼依靠水晶體的屈光力聚焦，失去水晶體後必然無法維持正視眼。\n\n【核心考點】\n水晶體生理光學功能、無晶體眼（aphakia）的屈光狀態改變（高度遠視）。",
+      "key_point": "白內障手術摘除水晶體後，若未植入人工水晶體（無晶體眼），眼球會失去極大屈光力，導致高度遠視。",
+      "flashcard_summary": "無人工水晶體植入後屈光狀態 -> 高度遠視 (aphakia)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床光學：正視眼白內障手術摘除水晶體且未植入人工水晶體後的屈光狀態",
+      "flashcard_back": "呈現高度遠視 (無晶體眼 aphakia 狀態)",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_014",
+      "question_number": 14,
+      "question_text": "口服碳酸酐酶抑制劑(carbonic anhydrase inhibitor)是一種常用於快速降眼壓的藥物,關於其敘述何者\n 錯誤?",
+      "options": {
+        "A": "容易在肢體末端產生針刺感(paraesthesia)",
+        "B": "容易造成高血鉀症",
+        "C": "使用前須注意病患是否對磺胺類藥物過敏",
+        "D": "目前已有局部眼用的碳酸酐酶抑制劑眼藥水可以使用,但降眼壓效果較差"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n口服碳酸酐酶抑制劑（carbonic anhydrase inhibitor, CAI，如 Acetazolamide/Acetazol）在眼科常用於急性青光眼發作時的快速降眼壓治療。\n\n【選項詳解】\n- A. 正確。肢體末端針刺感（paresthesia，如手腳麻木感）是口服 Acetazolamide 最常見的全身性副作用，主要是由於藥物引發的輕度代謝性酸中毒所致。\n- B. 錯誤。Acetazolamide 作用於腎臟近曲小管，抑制碳酸酐酶，減少 HCO3- 的重吸收，並促進尿中鈉、水及鉀離子的排出。因此，其主要的電解質副作用是「低血鉀症（hypokalemia）」與代謝性酸中毒，而非高血鉀。\n- C. 正確。Acetazolamide 屬於磺胺類藥物（sulfonamides）衍生物，對磺胺類藥物有嚴重過敏史的病患應禁用，以防交叉過敏反應。\n- D. 正確。目前臨床上已有局部眼用 CAI（如 Dorzolamide, Brinzolamide），雖然全身副作用大幅降低，但因局部吸收限制，其單獨使用時的降眼壓效果一般稍遜於口服全身給藥。\n\n【核心考點】\n口服碳酸酐酶抑制劑（Acetazolamide）的藥理作用機轉、臨床電解質副作用（低血鉀、代謝性酸中毒）及磺胺過敏禁忌症。",
+      "key_point": "口服碳酸酐酶抑制劑（如 Acetazolamide）易引起排尿增加，臨床主要副作用為「低血鉀症」及代謝性酸中毒，而非高血鉀。",
+      "flashcard_summary": "Acetazolamide 電解質副作用 -> 低血鉀與代謝性酸中毒",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "藥理副作用：口服碳酸酐酶抑制劑 (Acetazolamide) 常見的電解質異常",
+      "flashcard_back": "低血鉀症 (hypokalemia) 及代謝性酸中毒",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_015",
+      "question_number": 15,
+      "question_text": "四個月大的女嬰,媽媽注意到她有溢淚的情況,內眼角常有黃綠色的黏稠分泌物,尤其是按摩內眼角與鼻骨\n 之間的部位,會有更多的分泌物出現。下列敘述何者正確?",
+      "options": {
+        "A": "最有可能的診斷是先天性青光眼",
+        "B": "淚小管(canaliculus)進入淚囊(lacrimal sac)的部分(valve of Rosenmüller)是最常見的阻塞位置",
+        "C": "一歲前靠按摩自行痊癒的機會是50%",
+        "D": "鼻淚管在鼻內的出口位於下鼻道(inferior nasal meatus)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n四個月大女嬰出現單側溢淚、黃綠色黏稠分泌物，且按摩內眼角與鼻骨之間（淚囊區）有更多分泌物排出，這是典型的「先天性鼻淚管阻塞（congenital nasolacrimal duct obstruction）」表現。\n\n【選項詳解】\n- A. 錯誤。先天性青光眼的典型表徵是畏光、流淚、眼瞼痙攣，且常合併角膜擴大（牛眼 buphthalmos）與角膜水腫混濁，不會在按摩淚囊時擠出大量膿性分泌物。\n- B. 錯誤。先天性鼻淚管阻塞最常見的病理位置並非位於 Rosenmüller 瓣膜，而是位於鼻淚管最下端、開口於鼻腔處的「Hasner 瓣膜（valve of Hasner）」在出生後仍被一層黏膜隔膜覆蓋而未開通。\n- C. 錯誤。先天性鼻淚管阻塞的預後極佳，約 90% 以上的病患在滿一歲前透過保守治療（局部按摩配合抗生素眼藥水）可自行痊癒，自行痊癒率遠高於 50%。\n- D. 正確。解剖學上，鼻淚管（nasolacrimal duct）行經骨性鼻淚管，並在鼻腔內的「下鼻道（inferior nasal meatus）」外側壁開口。\n\n【核心考點】\n先天性鼻淚管阻塞的病因（Hasner 瓣膜未開通）、臨床症狀（溢淚、壓迫淚囊有分泌物）、高治癒率以及鼻淚管的解剖開口（下鼻道）。",
+      "key_point": "先天性鼻淚管阻塞最常見原因是下端的 Hasner 瓣膜發育不全，其解剖學出口位於鼻腔的下鼻道。",
+      "flashcard_summary": "鼻淚管解剖出口 -> 下鼻道 (inferior nasal meatus)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "解剖與臨床：鼻淚管在鼻腔內的解剖出口位置",
+      "flashcard_back": "下鼻道 (inferior nasal meatus) 的外側壁",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_016",
+      "question_number": 16,
+      "question_text": "下列何者不是造成遮蔽性弱視(deprivation amblyopia)的可能原因?",
+      "options": {
+        "A": "雙眼眼瞼下垂(ptosis)",
+        "B": "右眼內斜視(esotropia)",
+        "C": "單眼白內障(cataract)",
+        "D": "左眼上眼瞼毛細血管瘤(capillary hemangioma)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n弱視（amblyopia）依病因可分為斜視性（strabismic）、屈光參差性（anisometropic）、屈光不正性（isometropic）及視覺剝奪性（sensory deprivation）。視覺剝奪性（遮蔽性）弱視是由於光線或影像在關鍵發育期被物理性阻擋，無法在視網膜上形成清晰影像所致。\n\n【選項詳解】\n- A. 屬於。雙眼嚴重的重度眼瞼下垂（ptosis）會直接遮擋瞳孔，阻礙光線與視覺刺激進入網膜，會造成遮蔽性弱視。\n- B. 不屬於。右眼內斜視（esotropia）導致的弱視是由於雙眼影像不一致，大腦主動抑制斜視眼傳入的訊號以避免雙重顯像（複視），這屬於「斜視性弱視（strabismic amblyopia）」，而非物理遮擋造成的遮蔽性弱視。\n- C. 屬於。單眼先天性或嬰幼兒期白內障（cataract）會嚴重阻擋光線進入眼底，是造成單側遮蔽性弱視的經典原因。\n- D. 屬於。左眼上眼瞼毛細血管瘤（capillary hemangioma）如果體積過大，會壓迫眼球或直接下垂遮蓋瞳孔，導致視覺剝奪，進而引起遮蔽性弱視。\n\n【核心考點】\n弱視的分類與病因鑑別，特別是遮蔽性（剝奪性）弱視與斜視性弱視的機轉差異。",
+      "key_point": "剝奪性弱視（deprivation amblyopia）是由光線物理阻擋所致；而斜視導致的弱視則屬於斜視性弱視（strabismic amblyopia）。",
+      "flashcard_summary": "斜視導致的弱視 -> 斜視性弱視 (而非遮蔽性弱視)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床診斷：斜視 (如內斜視) 導致的弱視在病因分類上屬於何者",
+      "flashcard_back": "斜視性弱視 (strabismic amblyopia)，不屬於遮蔽性/剝奪性弱視",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_017",
+      "question_number": 17,
+      "question_text": "有關甲狀腺眼病變(Graves' ophthalmopathy)的敘述,下列何者錯誤?",
+      "options": {
+        "A": "將甲狀腺功能指數控制到甲狀腺功能低下(hypothyroidism),有助於甲狀腺眼病變的預防與治療",
+        "B": "是成年人單側或雙側凸眼(proptosis)的主要成因",
+        "C": "患者若產生眼瞼下垂(ptosis),要懷疑是否合併有重症肌無力(myasthenia gravis)",
+        "D": "接受放射碘(radioactive iodine)治療甲狀腺功能亢進(hyperthyroidism)的患者,其原本活性期眼病\n 變(active Graves' ophthalmopathy)可能會加重"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n甲狀腺眼病變（Graves' ophthalmopathy / thyroid eye disease）是與自體免疫相關的眼窩發炎性疾病，常與甲狀腺功能亢進或自體抗體相關。\n\n【選項詳解】\n- A. 錯誤。預防與治療甲狀腺眼病變的目標是達到並維持「甲狀腺功能正常（euthyroid state）」。不論是甲狀腺功能亢進（hyperthyroidism）或是過度治療導致的甲狀腺功能低下（hypothyroidism），都會促進促甲狀腺素（TSH）或相關抗體刺激眼窩組織，進而加重眼病變。因此不可刻意將病患控制在低下狀態。\n- B. 正確。Graves' 眼病變是成人單側或雙側凸眼（proptosis）最常見的成因。\n- C. 正確。Graves' 眼病變典型症狀是眼瞼退縮（eyelid retraction，露出上方鞏膜），若病患罕見地出現眼瞼下垂（ptosis），必須懷疑是否合併有重症肌無力（myasthenia gravis），因兩者皆為與甲狀腺病變高度相關的自體免疫疾病。\n- D. 正確。使用放射性碘（radioactive iodine, RAI）治療甲亢時，甲狀腺組織受破壞會釋放大量甲狀腺抗原進入循環，可能導致活動期眼病變（active Graves' ophthalmopathy）突然加重。臨床上常在放療前後給予預防性口服類固醇。\n\n【核心考點】\n甲狀腺眼病變的內分泌控制原則（維持正常甲狀腺功能）、合併症（重症肌無力）及放射碘治療對眼病變的影響。",
+      "key_point": "甲狀腺眼病變的預防與治療關鍵是使甲狀腺功能維持在「正常（euthyroid）」，控制成甲狀腺功能低下反而會加重眼病變。",
+      "flashcard_summary": "甲狀腺眼病變控制目標 -> 維持正常甲狀腺功能 (euthyroid)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床控制：甲狀腺眼病變 (Graves' ophthalmopathy) 患者的甲狀腺功能控制目標",
+      "flashcard_back": "維持在正常範圍 (euthyroid)；亢進或低下均會使眼病變惡化",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_018",
+      "question_number": 18,
+      "question_text": "六個月男嬰右眼瞳孔區呈現白色反光,看來像貓眼一樣,結膜紅腫,流淚哭鬧。下列何項檢查最不需要?",
+      "options": {
+        "A": "眼球超音波",
+        "B": "眼窩電腦斷層",
+        "C": "間接眼底鏡檢查",
+        "D": "視網膜光學斷層掃描儀(optical coherence tomography, OCT)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n六個月男嬰出現右眼瞳孔區白色反光（Leukocoria，白瞳症/貓眼/cat's eye reflex），並伴隨眼部發炎、流淚、哭鬧。這在臨床上屬於兒科眼科急症，必須高度警惕小兒最常見的眼內惡性腫瘤——視網膜母細胞瘤（Retinoblastoma, RB）。\n\n【選項詳解】\n- A. 需要。眼球超音波（B-scan）是極佳的初步篩檢工具，可無痛偵測眼內腫瘤，並敏感地發現腫瘤內是否有鈣化灶（calcification，RB 的特徵表現）。\n- B. 需要。眼窩電腦斷層（CT）或磁振造影（MRI）可確定腫瘤大小、鈣化情況，以及是否已向眼球外、視神經或顱內侵犯，對臨床分期至關重要。\n- C. 需要。散瞳後間接眼底鏡檢查（indirect ophthalmoscopy）是診斷眼底腫瘤最直接、最核心的檢查方法（嬰幼兒常需在全身麻醉下進行），可直接觀察腫瘤的形態、位置與數量。\n- D. 不需要（最不需要）。光學斷層掃描儀（OCT）主要用於黃斑部、視神經纖維層等微米級的細微切面分析。在高度懷疑惡性腫瘤且患兒有白瞳症（表示屈光介質可能已混濁、或腫瘤極大阻礙光路）時，OCT 無法提供全局診斷；且六個月大的嬰兒根本無法端坐並配合注視眼底相機，在臨床上此項檢查可行性與實用價值最低。\n\n【核心考點】\n白瞳症（Leukocoria）的鑑別診斷、視網膜母細胞瘤（Retinoblastoma）的急症處置與檢查優先順序（超音波、CT/MRI、眼底鏡 vs 局限性極大的 OCT）。",
+      "key_point": "嬰幼兒白瞳症（leukocoria）需首要排查惡性視網膜母細胞瘤（RB）；OCT 因需要患者高度配合且屈光介質需清晰，在此時最不需要且最不適用。",
+      "flashcard_summary": "白瞳症懷疑 RB 檢查 -> 最不需要/不適用 OCT",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床急症：嬰幼兒白瞳症 (leukocoria) 疑似視網膜母細胞瘤時，最不需要/不適用的檢查",
+      "flashcard_back": "視網膜光學斷層掃描儀 (OCT)，因需患者高度配合且無法評估眼內大範圍腫瘤",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_019",
+      "question_number": 19,
+      "question_text": "某夏日一病人主訴耳朵癢痛,檢查發現如圖,最可能診斷為下列何者?",
+      "options": {
+        "A": "急性中耳炎",
+        "B": "黴菌性外耳炎",
+        "C": "慢性中耳炎",
+        "D": "積液性中耳炎"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n患者在夏日主訴耳朵發癢、疼痛，且耳鏡下顯示外耳道內覆蓋有大量黑色/褐色的斑點狀及絨毛狀物質（為真菌孢子與菌絲）。這是典型的「黴菌性外耳炎（Otomycosis / fungal otitis externa）」表現。\n\n【選項詳解】\n- A. 錯誤。急性中耳炎（AOM）病變在中耳腔，典型表現為鼓膜發紅、膨出，不會在外耳道內見到真菌菌絲或色素斑點。\n- B. 正確。黴菌性外耳炎是由真菌（最常見為黑麴黴菌 Aspergillus niger，呈現黑色孢子；或念珠菌 Candida，呈現白色豆腐渣樣）感染外耳道所致。夏季天氣悶熱潮濕、或外耳道經常進水（如游泳）、不當掏耳等是常見誘因，患者會有明顯的耳癢、耳痛或堵塞感。\n- C. 錯誤。慢性中耳炎（COM）通常表現為鼓膜穿孔、慢性流膿，雖然可能繼發真菌感染，但主要病變在鼓膜穿孔及中耳黏膜。\n- D. 錯誤。積液性中耳炎（OME）是中耳腔積水，鼓膜常呈現琥珀色、內凹或可見氣泡，外耳道是乾淨且正常的。\n\n【核心考點】\n黴菌性外耳炎（Otomycosis）的流行病學（夏日潮濕）、耳鏡特徵表現及與中耳炎之鑑別診斷。",
+      "key_point": "黴菌性外耳炎（真菌性外耳道炎）好發於夏季潮濕環境，典型耳鏡表現為耳道內有黑色、褐色或白色絨毛狀菌絲與粉末狀孢子。",
+      "flashcard_summary": "外耳道黑色/白色絨毛物 -> 黴菌性外耳炎 (Otomycosis)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床診斷：夏季耳朵癢痛，耳鏡下外耳道見黑色或白色粉末絨毛狀物",
+      "flashcard_back": "黴菌性外耳炎 (Otomycosis)",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_020",
+      "question_number": 20,
+      "question_text": "下列那一類病人植入人工電子耳及復健後,語音辨識度最差?",
+      "options": {
+        "A": "習語前失聰之小孩",
+        "B": "習語前失聰之成人",
+        "C": "習語後失聰之小孩",
+        "D": "習語後失聰之成人"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n人工電子耳（cochlear implant）的復健效果與病患失聰的時間點（習語前 prelingual vs 習語後 postlingual）以及植入時的年齡高度相關。\n\n【選項詳解】\n- A. 較佳。習語前失聰的小孩（特別是在 2-3 歲以前植入）因大腦聽覺中樞皮質尚具高度可塑性（neuroplasticity），能配合語言學習期重新建立聽覺與語言連結，復健效果良好。\n- B. 最差。習語前失聰之成人，在大腦發育期從未接觸過聲音刺激，其聽覺皮質已經嚴重退化或被其他感官（如視覺）功能佔據，且已完全錯過了語言學習的關鍵期（critical period）。即使成年後植入電子耳，大腦也極難理解接收到的電刺激信號，其「語音辨識度」與復健成效在所有群體中最差。\n- C. 較佳。習語後失聰之小孩，大腦已有一定的語言基礎與聽覺記憶，植入後成效佳。\n- D. 較佳。習語後失聰之成人，雖然聽力喪失，但大腦中原有的語言中樞與聽覺記憶完全保留，植入電子耳後能迅速將新信號與舊記憶匹配，復健後語音辨識度非常好。\n\n【核心考點】\n人工電子耳的適應症與預後因子，特別是「大腦皮質可塑性」與「語言發育關鍵期」對復健效果的決定性影響。",
+      "key_point": "習語前失聰的成人因錯過大腦語言發展的黃金期且聽覺皮質已退化，植入人工電子耳後的語音辨識度最差。",
+      "flashcard_summary": "電子耳效果最差族群 -> 習語前失聰之成人",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床預後：人工電子耳植入後，語音辨識與復健成效最差的病患族群",
+      "flashcard_back": "習語前失聰之成人 (錯過語言發育黃金期且大腦聽覺皮質已退化)",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "high",
+      "category_source": "auto",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-06-26T03:02:08.531453+00:00"
+    },
+    {
+      "id": "113-2_medicine-6_021",
+      "question_number": 21,
+      "question_text": "關於上半規管裂隙症(superior semicircular canal dehiscence syndrome)的Tullio phenomenon,係指\n 下列何項敘述?",
+      "options": {
+        "A": "內耳產生第三個活動窗(third window)",
+        "B": "外耳道音壓變化可引發眼震(nystagmus)",
+        "C": "病人對聽覺敏感(hyperacusis)",
+        "D": "在低頻率產生一個氣骨導差"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於上半規管裂隙症(superior semicircular canal dehiscence syndrome)的Tullio phenomenon,係指\n 下列何項敘述?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 外耳道音壓變化可引發眼震(nystagmus)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「內耳產生第三個活動窗(third window)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「外耳道音壓變化可引發眼震(nystagmus)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「病人對聽覺敏感(hyperacusis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「在低頻率產生一個氣骨導差」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 外耳道音壓變化可引發眼震(nystagmus) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 外耳道音壓變化可引發眼震(nystagmus)",
+      "flashcard_summary": "上半規管裂隙症(superior semicircular canal dehiscence synd… / superior semicircular canal dehiscen / Tullio phenomenon -> B. 外耳道音壓變化可引發眼震(nystagmus)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "上半規管裂隙症(superior semicircular canal dehiscence synd… / superior semicircular canal dehiscen / Tullio phenomenon",
+      "flashcard_back": "官方答案指向「B. 外耳道音壓變化可引發眼震(nystagmus)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_022",
+      "question_number": 22,
+      "question_text": "有關嗅覺異常(olfactory dysfunction)的原因,下列何者最不常見?",
+      "options": {
+        "A": "病毒性上呼吸道感染",
+        "B": "頭部外傷",
+        "C": "鼻竇疾病",
+        "D": "中樞神經腫瘤"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關嗅覺異常(olfactory dysfunction)的原因,下列何者最不常見?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 中樞神經腫瘤，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「病毒性上呼吸道感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「頭部外傷」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「鼻竇疾病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「中樞神經腫瘤」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 中樞神經腫瘤 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 中樞神經腫瘤",
+      "flashcard_summary": "嗅覺異常(olfactory dysfunction)的原因 / olfactory dysfunction -> D. 中樞神經腫瘤",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "嗅覺異常(olfactory dysfunction)的原因 / olfactory dysfunction",
+      "flashcard_back": "官方答案指向「D. 中樞神經腫瘤」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_023",
+      "question_number": 23,
+      "question_text": "有關過敏性黴菌性鼻竇炎(allergic fungal rhinosinusitis)之特徵,下列敘述何者錯誤?",
+      "options": {
+        "A": "組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)",
+        "B": "電腦斷層影像會出現病灶中有hyperattenuation現象",
+        "C": "常出現骨重塑(bone remodeling)現象",
+        "D": "常出現骨侵蝕(bone erosion)現象"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關過敏性黴菌性鼻竇炎(allergic fungal rhinosinusitis)之特徵,下列敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「電腦斷層影像會出現病灶中有hyperattenuation現象」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「常出現骨重塑(bone remodeling)現象」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「常出現骨侵蝕(bone erosion)現象」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)",
+      "flashcard_summary": "過敏性黴菌性鼻竇炎(allergic fungal rhinosinusitis)之特徵 / allergic fungal rhinosinusitis -> A. 組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "過敏性黴菌性鼻竇炎(allergic fungal rhinosinusitis)之特徵 / allergic fungal rhinosinusitis",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 組織病理的特徵是嗜中性球浸潤(infiltration of neutrophil)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_024",
+      "question_number": 24,
+      "question_text": "臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞嚥檢查(fiberoptic\n endoscopic evaluation of swallowing, FEES)測試吞嚥功能。有關FEES優於MBS的特點,不包括下列何\n 項?",
+      "options": {
+        "A": "無放射線暴露且隨處可以執行",
+        "B": "可以測試各種不同黏稠度的食物",
+        "C": "可以合併感覺測試(sensory testing)",
+        "D": "對於判斷是否有腭咽閉鎖不全(velopharyngeal incompetence)較為準確"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞嚥檢查(fiberoptic\n endoscopic evaluation of swallowing, FEES)測試吞嚥功能。有關FEES優於MBS的特點,不包括下列何\n 項?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「B. 可以測試各種不同黏稠度的食物」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「無放射線暴露且隨處可以執行」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「可以測試各種不同黏稠度的食物」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「可以合併感覺測試(sensory testing)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「對於判斷是否有腭咽閉鎖不全(velopharyngeal incompetence)較為準確」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞… / modified barium swallow / MBS => 可以測試各種不同黏稠度的... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞… / modified barium swallow / MBS => 可以測試各種不同黏稠度的...",
+      "flashcard_summary": "臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞… / modified barium swallow / MBS -> B. 可以測試各種不同黏稠度的食物",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "臨床上常以改良式鋇劑吞嚥檢查(modified barium swallow, MBS)及軟式內視鏡吞… / modified barium swallow / MBS",
+      "flashcard_back": "考點是把題幹線索連到「B. 可以測試各種不同黏稠度的食物」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_025",
+      "question_number": 25,
+      "question_text": "32歲女性,無抽菸喝酒病史,主訴1個月前曾接受全身麻醉手術,之後出現咽喉疼痛、異物感、發聲不適等\n 症狀。就診檢查時咽喉內視鏡之影像顯示如下圖,下列敘述何者正確?",
+      "options": {
+        "A": "圖中異常部位在環狀軟骨(cricoid cartilage)",
+        "B": "可能的成因為氣管內插管時所造成之傷害",
+        "C": "口服抗生素適合作為第一線之治療",
+        "D": "藥物反應不佳時,可安排外科手術切除,復發率低"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「32歲女性,無抽菸喝酒病史,主訴1個月前曾接受全身麻醉手術,之後出現咽喉疼痛、異物感、發聲不適等\n 症狀。就診檢查時咽喉內視鏡之影像顯示如下圖,下列敘述何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 可能的成因為氣管內插管時所造成之傷害，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「圖中異常部位在環狀軟骨(cricoid cartilage)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「可能的成因為氣管內插管時所造成之傷害」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「口服抗生素適合作為第一線之治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「藥物反應不佳時,可安排外科手術切除,復發率低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 可能的成因為氣管內插管時所造成之傷害 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 可能的成因為氣管內插管時所造成之傷害",
+      "flashcard_summary": "32歲女性,無抽菸喝酒病史,主訴1個月前曾接受全身麻醉手術,之後出現咽喉疼痛、異物感、發聲不適等 症狀… -> B. 可能的成因為氣管內插管時所造成之傷害",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "32歲女性,無抽菸喝酒病史,主訴1個月前曾接受全身麻醉手術,之後出現咽喉疼痛、異物感、發聲不適等 症狀…",
+      "flashcard_back": "官方答案指向「B. 可能的成因為氣管內插管時所造成之傷害」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_026",
+      "question_number": 26,
+      "question_text": "關於多發性內分泌腫瘤(multiple endocrine neoplasia, MEN),下列敘述何者錯誤?",
+      "options": {
+        "A": "MEN 1包含腦下腺、副甲狀腺及胰島素瘤",
+        "B": "MEN 2A與MEN 2B之共同特徵是甲狀腺髓質癌(medullary thyroid cancer)及副甲狀腺瘤",
+        "C": "MEN 2A與MEN 2B都是RET致癌基因之突變所致",
+        "D": "甲狀腺髓質癌(medullary thyroid cancer)手術至少應包括全甲狀腺切除與中央淋巴結群廓清術"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於多發性內分泌腫瘤(multiple endocrine neoplasia, MEN),下列敘述何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「B. MEN 2A與MEN 2B之共同特徵是甲狀腺髓質癌(medullary thyroid cancer)及副甲狀腺瘤」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「MEN 1包含腦下腺、副甲狀腺及胰島素瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「MEN 2A與MEN 2B之共同特徵是甲狀腺髓質癌(medullary thyroid cancer)及副甲狀腺瘤」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「MEN 2A與MEN 2B都是RET致癌基因之突變所致」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「甲狀腺髓質癌(medullary thyroid cancer)手術至少應包括全甲狀腺切除與中央淋巴結群廓清術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n多發性內分泌腫瘤(multiple endocrine neoplasia, MEN) / multiple endocrine neoplasia / MEN => MEN 2A與MEN 2B之共同... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "多發性內分泌腫瘤(multiple endocrine neoplasia, MEN) / multiple endocrine neoplasia / MEN => MEN 2A與MEN 2B之共同...",
+      "flashcard_summary": "多發性內分泌腫瘤(multiple endocrine neoplasia, MEN) / multiple endocrine neoplasia / MEN -> B. MEN 2A與MEN 2B之共同特徵是甲狀腺髓質癌(medullary thyroid cancer)及副甲狀腺瘤",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "多發性內分泌腫瘤(multiple endocrine neoplasia, MEN) / multiple endocrine neoplasia / MEN",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「B. MEN 2A與MEN 2B之共同特徵是甲狀腺髓質癌(medullary thyroid cancer)及副甲狀腺瘤」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "病理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_027",
+      "question_number": 27,
+      "question_text": "上副甲狀腺(superior parathyroid gland)與下副甲狀腺(inferior parathyroid gland)之胚胎發育分\n 別源自於第幾咽囊(pharyngeal pouch)?",
+      "options": {
+        "A": "第一(superior parathyroid gland);第二(inferior parathyroid gland)咽囊",
+        "B": "第二(superior parathyroid gland);第三(inferior parathyroid gland)咽囊",
+        "C": "第三(superior parathyroid gland);第四(inferior parathyroid gland)咽囊",
+        "D": "第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「上副甲狀腺(superior parathyroid gland)與下副甲狀腺(inferior parathyroid gland)之胚胎發育分\n 別源自於第幾咽囊(pharyngeal pouch)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第一(superior parathyroid gland);第二(inferior parathyroid gland)咽囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「第二(superior parathyroid gland);第三(inferior parathyroid gland)咽囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「第三(superior parathyroid gland);第四(inferior parathyroid gland)咽囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊",
+      "flashcard_summary": "上副甲狀腺(superior parathyroid gland)與下副甲狀腺(inferior pa… / superior parathyroid gland / inferior parathyroid gland -> D. 第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "上副甲狀腺(superior parathyroid gland)與下副甲狀腺(inferior pa… / superior parathyroid gland / inferior parathyroid gland",
+      "flashcard_back": "官方答案指向「D. 第四(superior parathyroid gland);第三(inferior parathyroid gland)咽囊」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_028",
+      "question_number": 28,
+      "question_text": "35歲女性第一次懷孕即在早期發生流產,下列何者是與第一孕期流產最相關的母體因素及胎兒染色體異常?",
+      "options": {
+        "A": "子宮頸閉鎖不全/單染色體症X(monosomy X)",
+        "B": "母親年齡/三染色體症(trisomy)",
+        "C": "妊娠巨吐症(hyperemesis gravidarum)/三倍體(triploid)",
+        "D": "子宮內感染/性染色體異常"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「35歲女性第一次懷孕即在早期發生流產,下列何者是與第一孕期流產最相關的母體因素及胎兒染色體異常?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 母親年齡/三染色體症(trisomy)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「子宮頸閉鎖不全/單染色體症X(monosomy X)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「母親年齡/三染色體症(trisomy)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「妊娠巨吐症(hyperemesis gravidarum)/三倍體(triploid)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「子宮內感染/性染色體異常」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 母親年齡/三染色體症(trisomy) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 母親年齡/三染色體症(trisomy)",
+      "flashcard_summary": "35歲女性第一次懷孕即在早期發生流產 -> B. 母親年齡/三染色體症(trisomy)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "35歲女性第一次懷孕即在早期發生流產",
+      "flashcard_back": "官方答案指向「B. 母親年齡/三染色體症(trisomy)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_029",
+      "question_number": 29,
+      "question_text": "28歲女性到門診作孕前諮商,她於一年前第一次懷孕,卻在妊娠18週時出現子宮頸閉鎖不全進而發生流產,\n 她想瞭解預防性子宮頸環紮術,下列何者為這位女性接受預防性子宮頸環紮術的理想時間點以及施行預防性\n 子宮頸環紮術的禁忌症?",
+      "options": {
+        "A": "子宮頸一開始無痛性擴張時/之前接受過子宮頸圓錐狀切除手術",
+        "B": "受孕之前/母親有糖尿病",
+        "C": "於妊娠6~12週/高齡產婦",
+        "D": "於妊娠12~16週/早期破水"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「28歲女性到門診作孕前諮商,她於一年前第一次懷孕,卻在妊娠18週時出現子宮頸閉鎖不全進而發生流產,\n 她想瞭解預防性子宮頸環紮術,下列何者為這位女性接受預防性子宮頸環紮術的理想時間點以及施行預防性\n 子宮頸環紮術的禁忌症?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 於妊娠12~16週/早期破水，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「子宮頸一開始無痛性擴張時/之前接受過子宮頸圓錐狀切除手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「受孕之前/母親有糖尿病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「於妊娠6~12週/高齡產婦」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「於妊娠12~16週/早期破水」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 於妊娠12~16週/早期破水 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 於妊娠12~16週/早期破水",
+      "flashcard_summary": "28歲女性到門診作孕前諮商,她於一年前第一次懷孕,卻在妊娠18週時出現子宮頸閉鎖不全進而發生流產, 她… -> D. 於妊娠12~16週/早期破水",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "28歲女性到門診作孕前諮商,她於一年前第一次懷孕,卻在妊娠18週時出現子宮頸閉鎖不全進而發生流產, 她…",
+      "flashcard_back": "官方答案指向「D. 於妊娠12~16週/早期破水」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_030",
+      "question_number": 30,
+      "question_text": "下列何種情形不會造成懷孕時母親雌激素(estrogen)濃度降低?",
+      "options": {
+        "A": "胎兒死亡(fetal demise)",
+        "B": "胎兒胎盤硫酸酯酶缺乏(fetal-placental sulfatase deficiency)",
+        "C": "唐氏症(Down syndrome)",
+        "D": "胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種情形不會造成懷孕時母親雌激素(estrogen)濃度降低?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「胎兒死亡(fetal demise)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「胎兒胎盤硫酸酯酶缺乏(fetal-placental sulfatase deficiency)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「唐氏症(Down syndrome)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 胎兒骨髓成紅血細胞增多症(fetal erythroblastosis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)",
+      "flashcard_summary": "情形不會造成懷孕時母親雌激素(estrogen)濃度降低 / estrogen -> D. 胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "情形不會造成懷孕時母親雌激素(estrogen)濃度降低 / estrogen",
+      "flashcard_back": "官方答案指向「D. 胎兒骨髓成紅血細胞增多症(fetal erythroblastosis)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_031",
+      "question_number": 31,
+      "question_text": "有關整體分娩(parturition)和產程(clinical stages of labor)的敘述,下列何者錯誤?",
+      "options": {
+        "A": "第一產程指的是子宮收縮合併子宮頸擴張至子宮頸開全",
+        "B": "第二產程指的是子宮頸開全到胎兒娩出",
+        "C": "整體分娩始於孕後的靜止期(quiescence)",
+        "D": "產程屬於整體分娩的活動期(activation phase)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關整體分娩(parturition)和產程(clinical stages of labor)的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 產程屬於整體分娩的活動期(activation phase)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第一產程指的是子宮收縮合併子宮頸擴張至子宮頸開全」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「第二產程指的是子宮頸開全到胎兒娩出」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「整體分娩始於孕後的靜止期(quiescence)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「產程屬於整體分娩的活動期(activation phase)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 產程屬於整體分娩的活動期(activation phase) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 產程屬於整體分娩的活動期(activation phase)",
+      "flashcard_summary": "整體分娩(parturition)和產程(clinical stages of labor)的敘述 / parturition / clinical stages of labor -> D. 產程屬於整體分娩的活動期(activation phase)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "整體分娩(parturition)和產程(clinical stages of labor)的敘述 / parturition / clinical stages of labor",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 產程屬於整體分娩的活動期(activation phase)」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_032",
+      "question_number": 32,
+      "question_text": "一位35歲懷孕39週G2P1的經產婦,產檢時超音波檢查預估胎兒體重約4,050公克,下列敘述何者正確?",
+      "options": {
+        "A": "巨嬰(fetal macrosomia)是導致肩難產之風險因子",
+        "B": "儘快安排催生(elective induction)",
+        "C": "超音波預估的胎兒體重,可以準確的預防肩難產",
+        "D": "施行計畫性之剖腹生產(planned cesarean delivery)"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「一位35歲懷孕39週G2P1的經產婦,產檢時超音波檢查預估胎兒體重約4,050公克,下列敘述何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 巨嬰(fetal macrosomia)是導致肩難產之風險因子，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「巨嬰(fetal macrosomia)是導致肩難產之風險因子」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「儘快安排催生(elective induction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「超音波預估的胎兒體重,可以準確的預防肩難產」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「施行計畫性之剖腹生產(planned cesarean delivery)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 巨嬰(fetal macrosomia)是導致肩難產之風險因子 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 巨嬰(fetal macrosomia)是導致肩難產之風險因子",
+      "flashcard_summary": "一位35歲懷孕39週G2P1的經產婦,產檢時超音波檢查預估胎兒體重約4,050公克 / G2P1 -> A. 巨嬰(fetal macrosomia)是導致肩難產之風險因子",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "一位35歲懷孕39週G2P1的經產婦,產檢時超音波檢查預估胎兒體重約4,050公克 / G2P1",
+      "flashcard_back": "官方答案指向「A. 巨嬰(fetal macrosomia)是導致肩難產之風險因子」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_033",
+      "question_number": 33,
+      "question_text": "不正常產程(abnormal labor patterns)中的產程拖延(protraction disorders)是指下列何者?",
+      "options": {
+        "A": "活動期延長(prolonged active phase)",
+        "B": "活動期擴張拖延(protracted active-phase dilation)",
+        "C": "減速期延長(prolonged deceleration phase)",
+        "D": "潛伏期拖延(protracted latent phase)"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「不正常產程(abnormal labor patterns)中的產程拖延(protraction disorders)是指下列何者?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 活動期擴張拖延(protracted active-phase dilation)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「活動期延長(prolonged active phase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「活動期擴張拖延(protracted active-phase dilation)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「減速期延長(prolonged deceleration phase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「潛伏期拖延(protracted latent phase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 活動期擴張拖延(protracted active-phase dilation) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 活動期擴張拖延(protracted active-phase dilation)",
+      "flashcard_summary": "不正常產程(abnormal labor patterns)中的產程拖延(protraction di… / abnormal labor patterns / protraction disorders -> B. 活動期擴張拖延(protracted active-phase dilation)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "不正常產程(abnormal labor patterns)中的產程拖延(protraction di… / abnormal labor patterns / protraction disorders",
+      "flashcard_back": "官方答案指向「B. 活動期擴張拖延(protracted active-phase dilation)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_034",
+      "question_number": 34,
+      "question_text": "下列何者不屬於待產時的胎心音監測分類category III-abnormal?",
+      "options": {
+        "A": "marked baseline variability",
+        "B": "sinusoidal pattern",
+        "C": "recurrent late decelerations",
+        "D": "recurrent variable decelerations"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何者不屬於待產時的胎心音監測分類category III-abnormal?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. marked baseline variability，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「marked baseline variability」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「sinusoidal pattern」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「recurrent late decelerations」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「recurrent variable decelerations」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. marked baseline variability 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. marked baseline variability",
+      "flashcard_summary": "不屬於待產時的胎心音監測分類category III-abnormal / category III-abnormal -> A. marked baseline variability",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "不屬於待產時的胎心音監測分類category III-abnormal / category III-abnormal",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. marked baseline variability」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_035",
+      "question_number": 35,
+      "question_text": "許多可能造成胎兒心搏過速(tachycardia)的原因中,最常見的為下列何者?",
+      "options": {
+        "A": "藥物造成(drug-induced)",
+        "B": "甲狀腺風暴(thyroid storm)",
+        "C": "母親發燒(maternal fever)",
+        "D": "胎兒心律不整(fetal cardiac arrhythmia)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「許多可能造成胎兒心搏過速(tachycardia)的原因中,最常見的為下列何者?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 母親發燒(maternal fever)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「藥物造成(drug-induced)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「甲狀腺風暴(thyroid storm)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「母親發燒(maternal fever)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「胎兒心律不整(fetal cardiac arrhythmia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 母親發燒(maternal fever) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 母親發燒(maternal fever)",
+      "flashcard_summary": "許多可能造成胎兒心搏過速(tachycardia)的原因中,最常見的為 / tachycardia -> C. 母親發燒(maternal fever)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "許多可能造成胎兒心搏過速(tachycardia)的原因中,最常見的為 / tachycardia",
+      "flashcard_back": "官方答案指向「C. 母親發燒(maternal fever)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_036",
+      "question_number": 36,
+      "question_text": "22歲孕婦,G4P1SA2,妊娠32週,接受杜卜勒(Doppler)超音波檢查,結果如圖所示,檢查名稱為何?",
+      "options": {
+        "A": "臍動脈血流杜卜勒超音波",
+        "B": "胎兒下腔靜脈血流杜卜勒超音波",
+        "C": "胎兒中大腦動脈血流杜卜勒超音波",
+        "D": "胎兒下行主動脈血流杜卜勒超音波"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「22歲孕婦,G4P1SA2,妊娠32週,接受杜卜勒(Doppler)超音波檢查,結果如圖所示,檢查名稱為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 胎兒中大腦動脈血流杜卜勒超音波，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「臍動脈血流杜卜勒超音波」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「胎兒下腔靜脈血流杜卜勒超音波」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「胎兒中大腦動脈血流杜卜勒超音波」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「胎兒下行主動脈血流杜卜勒超音波」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 胎兒中大腦動脈血流杜卜勒超音波 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 胎兒中大腦動脈血流杜卜勒超音波",
+      "flashcard_summary": "22歲孕婦,G4P1SA2,妊娠32週,接受杜卜勒(Doppler)超音波檢查,結果如圖所示,檢查名稱… / G4P1SA2 / Doppler -> C. 胎兒中大腦動脈血流杜卜勒超音波",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "22歲孕婦,G4P1SA2,妊娠32週,接受杜卜勒(Doppler)超音波檢查,結果如圖所示,檢查名稱… / G4P1SA2 / Doppler",
+      "flashcard_back": "官方答案指向「C. 胎兒中大腦動脈血流杜卜勒超音波」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_037",
+      "question_number": 37,
+      "question_text": "有關患有妊娠糖尿病孕婦的產後追蹤,下列敘述何者最適宜?",
+      "options": {
+        "A": "美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗\n (OGTT)",
+        "B": "曾患有妊娠糖尿病的孕婦在懷孕後的未來20年內罹有糖尿病的機率跟一般正常的孕婦是一樣的",
+        "C": "產後第一次追蹤的血糖值若正常,未來就不用再做任何血糖的檢測",
+        "D": "有妊娠糖尿病的孕婦在未來因心血管疾病住院的風險跟一般孕婦相比是一樣的"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關患有妊娠糖尿病孕婦的產後追蹤,下列敘述何者最適宜?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗 (OGTT)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗\n (OGTT)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「曾患有妊娠糖尿病的孕婦在懷孕後的未來20年內罹有糖尿病的機率跟一般正常的孕婦是一樣的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「產後第一次追蹤的血糖值若正常,未來就不用再做任何血糖的檢測」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「有妊娠糖尿病的孕婦在未來因心血管疾病住院的風險跟一般孕婦相比是一樣的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗 (OGTT) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗 (OGTT)",
+      "flashcard_summary": "患有妊娠糖尿病孕婦的產後追蹤 -> A. 美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗 (OGTT)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "患有妊娠糖尿病孕婦的產後追蹤",
+      "flashcard_back": "官方答案指向「A. 美國婦產科醫學會(ACOG)建議,在產後4~12週時,應再做一次空腹血糖或75克口服葡萄糖耐量試驗 (OGTT)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_038",
+      "question_number": 38,
+      "question_text": "導致產科敗血症(sepsis syndrome in obstetrics)的病原菌(pathogens)中,最罕見的為:",
+      "options": {
+        "A": "大腸桿菌(Escherichia coli)",
+        "B": "糞腸球菌(Enterococcus faecalis)",
+        "C": "肺炎克雷伯菌(Klebsiella pneumoniae)",
+        "D": "李斯特菌(Listeria monocytogenes)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「導致產科敗血症(sepsis syndrome in obstetrics)的病原菌(pathogens)中,最罕見的為:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 李斯特菌(Listeria monocytogenes)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大腸桿菌(Escherichia coli)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「糞腸球菌(Enterococcus faecalis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「肺炎克雷伯菌(Klebsiella pneumoniae)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「李斯特菌(Listeria monocytogenes)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 李斯特菌(Listeria monocytogenes) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 李斯特菌(Listeria monocytogenes)",
+      "flashcard_summary": "導致產科敗血症(sepsis syndrome in obstetrics)的病原菌(pathogen… / sepsis syndrome in obstetrics / pathogens -> D. 李斯特菌(Listeria monocytogenes)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "導致產科敗血症(sepsis syndrome in obstetrics)的病原菌(pathogen… / sepsis syndrome in obstetrics / pathogens",
+      "flashcard_back": "官方答案指向「D. 李斯特菌(Listeria monocytogenes)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_039",
+      "question_number": 39,
+      "question_text": "30歲懷孕16週婦女,接受唐氏症母血篩檢,檢測結果唐氏症預估機率為1:820,母血α-胎兒蛋白(AFP)值\n 為中位值(multiples of median, MoM)之3.8倍,下一步最合理的做法是:",
+      "options": {
+        "A": "接受羊膜穿刺檢驗胎兒染色體",
+        "B": "接受詳細胎兒超音波檢查",
+        "C": "接受婦女骨盆腔超音波檢查以排除卵巢腫瘤",
+        "D": "重複唐氏症母血篩檢以確認檢驗結果"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「30歲懷孕16週婦女,接受唐氏症母血篩檢,檢測結果唐氏症預估機率為1:820,母血α-胎兒蛋白(AFP)值\n 為中位值(multiples of median, MoM)之3.8倍,下一步最合理的做法是:」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 接受詳細胎兒超音波檢查，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「接受羊膜穿刺檢驗胎兒染色體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「接受詳細胎兒超音波檢查」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「接受婦女骨盆腔超音波檢查以排除卵巢腫瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「重複唐氏症母血篩檢以確認檢驗結果」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 接受詳細胎兒超音波檢查 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 接受詳細胎兒超音波檢查",
+      "flashcard_summary": "30歲懷孕16週婦女,接受唐氏症母血篩檢,檢測結果唐氏症預估機率為1:820,母血α-胎兒蛋白(AFP… / AFP / multiples of median -> B. 接受詳細胎兒超音波檢查",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "30歲懷孕16週婦女,接受唐氏症母血篩檢,檢測結果唐氏症預估機率為1:820,母血α-胎兒蛋白(AFP… / AFP / multiples of median",
+      "flashcard_back": "官方答案指向「B. 接受詳細胎兒超音波檢查」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_040",
+      "question_number": 40,
+      "question_text": "關於腹腔鏡手術所使用的導氣針(insufflation needle),下列敘述何者最不適當?",
+      "options": {
+        "A": "導氣針(insufflation needle)穿過腹壁時會有觸聽回饋感覺",
+        "B": "瘦的病人以45度角插入",
+        "C": "胖的病人以30度角插入",
+        "D": "正確的針頭位置判斷的方法是由insufflator測得的初始腹膜內壓力小於8~10 mmHg"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於腹腔鏡手術所使用的導氣針(insufflation needle),下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 胖的病人以30度角插入，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「導氣針(insufflation needle)穿過腹壁時會有觸聽回饋感覺」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「瘦的病人以45度角插入」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「胖的病人以30度角插入」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「正確的針頭位置判斷的方法是由insufflator測得的初始腹膜內壓力小於8~10 mmHg」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 胖的病人以30度角插入 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 胖的病人以30度角插入",
+      "flashcard_summary": "腹腔鏡手術所使用的導氣針(insufflation needle) / insufflation needle -> C. 胖的病人以30度角插入",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "腹腔鏡手術所使用的導氣針(insufflation needle) / insufflation needle",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 胖的病人以30度角插入」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_041",
+      "question_number": 41,
+      "question_text": "子宮鏡手術時,如果以生理食鹽水作為介質,其壓力最好不可高於患者的:",
+      "options": {
+        "A": "平均動脈壓",
+        "B": "收縮壓",
+        "C": "舒張壓",
+        "D": "顱內壓"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「子宮鏡手術時,如果以生理食鹽水作為介質,其壓力最好不可高於患者的:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 平均動脈壓，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「平均動脈壓」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「收縮壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「舒張壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「顱內壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 平均動脈壓 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 平均動脈壓",
+      "flashcard_summary": "子宮鏡手術時,如果以生理食鹽水作為介質,其壓力最好不可高於患者的 -> A. 平均動脈壓",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "子宮鏡手術時,如果以生理食鹽水作為介質,其壓力最好不可高於患者的",
+      "flashcard_back": "官方答案指向「A. 平均動脈壓」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_042",
+      "question_number": 42,
+      "question_text": "有關先天性雄性素不敏感症(congenital androgen insensitivity)診斷,下列敘述何者最不適當?",
+      "options": {
+        "A": "性別染色體為XY",
+        "B": "因先天缺陷影響正常雄性素受體功能所引起",
+        "C": "診斷主要依據身體理學檢查、血清睪固酮(testosterone)濃度和染色體核型(karyotype)",
+        "D": "在身體理學檢查中,青春期患者會有乳房發育,短小陰莖,稀疏或缺乏腋毛及陰毛"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關先天性雄性素不敏感症(congenital androgen insensitivity)診斷,下列敘述何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. 在身體理學檢查中,青春期患者會有乳房發育,短小陰莖,稀疏或缺乏腋毛及陰毛」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「性別染色體為XY」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「因先天缺陷影響正常雄性素受體功能所引起」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「診斷主要依據身體理學檢查、血清睪固酮(testosterone)濃度和染色體核型(karyotype)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「在身體理學檢查中,青春期患者會有乳房發育,短小陰莖,稀疏或缺乏腋毛及陰毛」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n先天性雄性素不敏感症(congenital androgen insensitivity)診斷 / congenital androgen insensitivity => 在身體理學檢查中,青春期患... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "先天性雄性素不敏感症(congenital androgen insensitivity)診斷 / congenital androgen insensitivity => 在身體理學檢查中,青春期患...",
+      "flashcard_summary": "先天性雄性素不敏感症(congenital androgen insensitivity)診斷 / congenital androgen insensitivity -> D. 在身體理學檢查中,青春期患者會有乳房發育,短小陰莖,稀疏或缺乏腋毛及陰毛",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "先天性雄性素不敏感症(congenital androgen insensitivity)診斷 / congenital androgen insensitivity",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「D. 在身體理學檢查中,青春期患者會有乳房發育,短小陰莖,稀疏或缺乏腋毛及陰毛」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "藥理學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_043",
+      "question_number": 43,
+      "question_text": "有關骨盆腔發炎(pelvic inflammatory disease)門診病人的治療,下列何者為較不適宜的治療選項?",
+      "options": {
+        "A": "doxycycline",
+        "B": "azithromycin",
+        "C": "cephalosporin",
+        "D": "clotrimazole"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關骨盆腔發炎(pelvic inflammatory disease)門診病人的治療,下列何者為較不適宜的治療選項?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. clotrimazole」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「doxycycline」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「azithromycin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「cephalosporin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「clotrimazole」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n骨盆腔發炎(pelvic inflammatory disease)門診病人的治療 / pelvic inflammatory disease => clotrimazole 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "骨盆腔發炎(pelvic inflammatory disease)門診病人的治療 / pelvic inflammatory disease => clotrimazole",
+      "flashcard_summary": "骨盆腔發炎(pelvic inflammatory disease)門診病人的治療 / pelvic inflammatory disease -> D. clotrimazole",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "骨盆腔發炎(pelvic inflammatory disease)門診病人的治療 / pelvic inflammatory disease",
+      "flashcard_back": "考點是把題幹線索連到「D. clotrimazole」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_044",
+      "question_number": 44,
+      "question_text": "下列有關子宮平滑肌瘤(uterine leiomyoma)的敘述,何者錯誤?",
+      "options": {
+        "A": "漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因",
+        "B": "子宮動脈栓塞(uterine artery embolization)可用於治療子宮平滑肌瘤",
+        "C": "懷孕中發生子宮平滑肌瘤變性(red degeneration)多半不需要手術處理",
+        "D": "黏膜下子宮平滑肌瘤(submucosal uterine leiomyoma)常常造成經血量增多(hypermenorrhea)的症狀"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關子宮平滑肌瘤(uterine leiomyoma)的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「子宮動脈栓塞(uterine artery embolization)可用於治療子宮平滑肌瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「懷孕中發生子宮平滑肌瘤變性(red degeneration)多半不需要手術處理」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「黏膜下子宮平滑肌瘤(submucosal uterine leiomyoma)常常造成經血量增多(hypermenorrhea)的症狀」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因",
+      "flashcard_summary": "第 44 題核心考點 / uterine leiomyoma -> A. 漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "第 44 題核心考點 / uterine leiomyoma",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 漿膜下子宮平滑肌瘤(subserosal uterine leiomyoma)是造成不孕很常見的原因」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_045",
+      "question_number": 45,
+      "question_text": "下列有關子宮內膜異位症藥物治療的敘述,何者錯誤?",
+      "options": {
+        "A": "progestins類藥物的副作用會造成體重增加及不規則子宮出血",
+        "B": "持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險",
+        "C": "danazol藥物的副作用主要是多毛症和聲音低沉",
+        "D": "長期使用gonadotropin-releasing hormone(GnRH)agonists會增加骨質疏鬆症之風險"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關子宮內膜異位症藥物治療的敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「progestins類藥物的副作用會造成體重增加及不規則子宮出血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「danazol藥物的副作用主要是多毛症和聲音低沉」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「長期使用gonadotropin-releasing hormone(GnRH)agonists會增加骨質疏鬆症之風險」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險",
+      "flashcard_summary": "第 45 題核心考點 -> B. 持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "第 45 題核心考點",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 持續使用口服避孕藥(oral contraceptives)會增加子宮內膜癌和卵巢癌之風險」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_046",
+      "question_number": 46,
+      "question_text": "下列何種卵巢腫瘤會造成體內雄性激素上升,而產生男性化症狀?",
+      "options": {
+        "A": "serous cystadenoma",
+        "B": "Sertoli-Leydig tumor",
+        "C": "ovarian endometrioma",
+        "D": "mature ovarian teratoma"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種卵巢腫瘤會造成體內雄性激素上升,而產生男性化症狀?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. Sertoli-Leydig tumor，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「serous cystadenoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「Sertoli-Leydig tumor」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「ovarian endometrioma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「mature ovarian teratoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. Sertoli-Leydig tumor 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. Sertoli-Leydig tumor",
+      "flashcard_summary": "卵巢腫瘤會造成體內雄性激素上升,而產生男性化症狀 -> B. Sertoli-Leydig tumor",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "卵巢腫瘤會造成體內雄性激素上升,而產生男性化症狀",
+      "flashcard_back": "官方答案指向「B. Sertoli-Leydig tumor」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_047",
+      "question_number": 47,
+      "question_text": "細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic Criteria),下列何者最不適\n 當?",
+      "options": {
+        "A": "陰道分泌物的細菌培養",
+        "B": "魚腥樣的臭味",
+        "C": "陰道的酸鹼度超過4.5",
+        "D": "顯微鏡檢視之下可以看到被細菌黏附的陰道上皮細胞"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic Criteria),下列何者最不適\n 當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. 陰道分泌物的細菌培養」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「陰道分泌物的細菌培養」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「魚腥樣的臭味」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「陰道的酸鹼度超過4.5」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「顯微鏡檢視之下可以看到被細菌黏附的陰道上皮細胞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic… / bacterial vaginosis / Amsel Diagnos... => 陰道分... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic… / bacterial vaginosis / Amsel Diagnos... => 陰道分...",
+      "flashcard_summary": "細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic… / bacterial vaginosis / Amsel Diagnos... -> A. 陰道分泌物的細菌培養",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "細菌性陰道炎(bacterial vaginosis)的臨床診斷標準(Amsel Diagnostic… / bacterial vaginosis / Amsel Diagnostic Criteria",
+      "flashcard_back": "考點是把題幹線索連到「A. 陰道分泌物的細菌培養」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "微生物學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_048",
+      "question_number": 48,
+      "question_text": "關於子宮肌瘤的敘述,下列何者最正確?",
+      "options": {
+        "A": "服用口服避孕藥的時間越長,子宮肌瘤的發生率越高",
+        "B": "子宮肌瘤明顯地提高經痛的發生率",
+        "C": "停經前女性子宮肌瘤快速長大(1年內長大相當於懷孕6週大小),顯著地增加子宮惡性肉瘤的可能性",
+        "D": "切除intramural myoma並不會提高受孕率"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「關於子宮肌瘤的敘述,下列何者最正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 切除intramural myoma並不會提高受孕率，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「服用口服避孕藥的時間越長,子宮肌瘤的發生率越高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「子宮肌瘤明顯地提高經痛的發生率」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「停經前女性子宮肌瘤快速長大(1年內長大相當於懷孕6週大小),顯著地增加子宮惡性肉瘤的可能性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「切除intramural myoma並不會提高受孕率」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 切除intramural myoma並不會提高受孕率 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 切除intramural myoma並不會提高受孕率",
+      "flashcard_summary": "子宮肌瘤的敘述 -> D. 切除intramural myoma並不會提高受孕率",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "子宮肌瘤的敘述",
+      "flashcard_back": "官方答案指向「D. 切除intramural myoma並不會提高受孕率」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_049",
+      "question_number": 49,
+      "question_text": "有關卵巢內胚層竇瘤(endodermal sinus tumors)的敘述,下列何者正確?",
+      "options": {
+        "A": "大多數患者屬尚未有初經的兒童",
+        "B": "與上皮性卵巢癌類似,內胚層竇瘤生長緩慢,大多無臨床症狀",
+        "C": "內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片",
+        "D": "內胚層竇瘤對輔助性化療或治療性化療反應不佳,通常不建議實施"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關卵巢內胚層竇瘤(endodermal sinus tumors)的敘述,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大多數患者屬尚未有初經的兒童」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「與上皮性卵巢癌類似,內胚層竇瘤生長緩慢,大多無臨床症狀」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「內胚層竇瘤對輔助性化療或治療性化療反應不佳,通常不建議實施」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片",
+      "flashcard_summary": "卵巢內胚層竇瘤(endodermal sinus tumors)的敘述 / endodermal sinus tumors -> C. 內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "卵巢內胚層竇瘤(endodermal sinus tumors)的敘述 / endodermal sinus tumors",
+      "flashcard_back": "官方答案指向「C. 內胚層竇瘤影響單側卵巢,手術時不建議實施對側卵巢切片」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "耳鼻喉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_050",
+      "question_number": 50,
+      "question_text": "46歲陳小姐,G3P2SA1,過去曾接受卵巢巧克力囊腫切除手術,因下腹疼痛到婦科門診就診,超音波發現15\n 公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell carcinoma),並發現腫瘤\n 與一段小腸沾黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確?",
+      "options": {
+        "A": "患者為第 IV 期卵巢癌",
+        "B": "應向家屬說明腫瘤已向外擴散,無法再做手術切除,只能靠術後化學治療",
+        "C": "患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療",
+        "D": "患者應接受骨盆腔臟器剜除手術(包括膀胱、子宮及直腸全切除)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「46歲陳小姐,G3P2SA1,過去曾接受卵巢巧克力囊腫切除手術,因下腹疼痛到婦科門診就診,超音波發現15\n 公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell carcinoma),並發現腫瘤\n 與一段小腸沾黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「患者為第 IV 期卵巢癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「應向家屬說明腫瘤已向外擴散,無法再做手術切除,只能靠術後化學治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「患者應接受骨盆腔臟器剜除手術(包括膀胱、子宮及直腸全切除)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療",
+      "flashcard_summary": "46歲陳小姐,G3P2SA1,過去曾接受卵巢巧克力囊腫切除手術,因下腹疼痛到婦科門診就診,超音波發現1… / G3P2SA1 / clear cell carcinoma -> C. 患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "46歲陳小姐,G3P2SA1,過去曾接受卵巢巧克力囊腫切除手術,因下腹疼痛到婦科門診就診,超音波發現1… / G3P2SA1 / clear cell carcinoma",
+      "flashcard_back": "官方答案指向「C. 患者應接受減積手術(包括部分小腸及大腸切除),術後應接受化學治療」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_051",
+      "question_number": 51,
+      "question_text": "子宮內膜癌依照組織學型態可以區分為Type I及Type II,下列敘述何者正確?",
+      "options": {
+        "A": "Type I 病人多是與多囊性卵巢囊腫疾病無關",
+        "B": "Type I 病人大多預後較差",
+        "C": "Type I 病人的基因表現多與p53有關",
+        "D": "Type I 病人臨床的表徵以異常出血為多"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「子宮內膜癌依照組織學型態可以區分為Type I及Type II,下列敘述何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. Type I 病人臨床的表徵以異常出血為多，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Type I 病人多是與多囊性卵巢囊腫疾病無關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「Type I 病人大多預後較差」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Type I 病人的基因表現多與p53有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「Type I 病人臨床的表徵以異常出血為多」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. Type I 病人臨床的表徵以異常出血為多 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. Type I 病人臨床的表徵以異常出血為多",
+      "flashcard_summary": "子宮內膜癌依照組織學型態可以區分為Type I及Type II / Type I / Type II -> D. Type I 病人臨床的表徵以異常出血為多",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "子宮內膜癌依照組織學型態可以區分為Type I及Type II / Type I / Type II",
+      "flashcard_back": "官方答案指向「D. Type I 病人臨床的表徵以異常出血為多」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_052",
+      "question_number": 52,
+      "question_text": "關於partial hydatidiform mole的敘述,下列何者錯誤?",
+      "options": {
+        "A": "染色體以三倍體(triploid)表現,多出的一套來自父親",
+        "B": "相較於complete hydatidiform mole,更容易進展成侵襲性癌症",
+        "C": "病理特徵可以看到胎兒組織",
+        "D": "相較於complete hydatidiform mole,通常β-hCG level較低"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於partial hydatidiform mole的敘述,下列何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 相較於complete hydatidiform mole,更容易進展成侵襲性癌症，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「染色體以三倍體(triploid)表現,多出的一套來自父親」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「相較於complete hydatidiform mole,更容易進展成侵襲性癌症」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「病理特徵可以看到胎兒組織」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「相較於complete hydatidiform mole,通常β-hCG level較低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 相較於complete hydatidiform mole,更容易進展成侵襲性癌症 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 相較於complete hydatidiform mole,更容易進展成侵襲性癌症",
+      "flashcard_summary": "partial hydatidiform mole的敘述 / partial hydatidiform mole -> B. 相較於complete hydatidiform mole,更容易進展成侵襲性癌症",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "partial hydatidiform mole的敘述 / partial hydatidiform mole",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 相較於complete hydatidiform mole,更容易進展成侵襲性癌症」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_053",
+      "question_number": 53,
+      "question_text": "關於IA2–IIA的早期子宮頸癌接受子宮根除手術後,下列何者不是復發的風險因子?",
+      "options": {
+        "A": "子宮旁組織(parametrial)的顯微侵犯(microinvasion)",
+        "B": "骨盆腔的淋巴轉移",
+        "C": "子宮頸腫瘤細胞的壞死程度",
+        "D": "子宮頸間質的侵犯深度(depth of stromal invasion)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於IA2–IIA的早期子宮頸癌接受子宮根除手術後,下列何者不是復發的風險因子?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 子宮頸腫瘤細胞的壞死程度，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「子宮旁組織(parametrial)的顯微侵犯(microinvasion)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「骨盆腔的淋巴轉移」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「子宮頸腫瘤細胞的壞死程度」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「子宮頸間質的侵犯深度(depth of stromal invasion)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 子宮頸腫瘤細胞的壞死程度 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 子宮頸腫瘤細胞的壞死程度",
+      "flashcard_summary": "IA2–IIA的早期子宮頸癌接受子宮根除手術後 / IA2 / IIA -> C. 子宮頸腫瘤細胞的壞死程度",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "IA2–IIA的早期子宮頸癌接受子宮根除手術後 / IA2 / IIA",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 子宮頸腫瘤細胞的壞死程度」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_054",
+      "question_number": 54,
+      "question_text": "關於人工生殖技術的敘述,下列何者錯誤?",
+      "options": {
+        "A": "刺激排卵療程長療程可預防早發性LH surge",
+        "B": "癌症病患欲保留生育機會,可治療前冷凍卵子或精子",
+        "C": "習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis,\n PGD)以增加著床率",
+        "D": "單一囊胚植入可降低多胞胎機率"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於人工生殖技術的敘述,下列何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis, PGD)以增加著床率，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「刺激排卵療程長療程可預防早發性LH surge」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「癌症病患欲保留生育機會,可治療前冷凍卵子或精子」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis,\n PGD)以增加著床率」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「單一囊胚植入可降低多胞胎機率」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis, PGD)以增加著床率 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis, PGD)以增加著床率",
+      "flashcard_summary": "人工生殖技術的敘述 -> C. 習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis, PGD)以增加著床率",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "人工生殖技術的敘述",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 習慣性流產的夫妻,無已知的染色體異常,可用著床前基因診斷(Preimplantation Genetic Diagnosis, PGD)以增加著床率」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_055",
+      "question_number": 55,
+      "question_text": "關於使用藥物治療罹患多囊性卵巢婦女的描述,下列何者錯誤?",
+      "options": {
+        "A": "單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成",
+        "B": "cyproterone acetate可降低血雄性荷爾蒙,但有影響肝功能指數和增加罹患肝腫瘤的可能性",
+        "C": "gonadotropin-releasing hormone agonist及dexamethasone 均有改善多毛與青春痘的作用",
+        "D": "卵巢部分切除可以改善部分多囊性卵巢婦女的排卵功能"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「關於使用藥物治療罹患多囊性卵巢婦女的描述,下列何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「cyproterone acetate可降低血雄性荷爾蒙,但有影響肝功能指數和增加罹患肝腫瘤的可能性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「gonadotropin-releasing hormone agonist及dexamethasone 均有改善多毛與青春痘的作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「卵巢部分切除可以改善部分多囊性卵巢婦女的排卵功能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：A. 單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成",
+      "flashcard_summary": "使用藥物治療罹患多囊性卵巢婦女的描述 -> A. 單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "使用藥物治療罹患多囊性卵巢婦女的描述",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「A. 單獨使用口服避孕藥就可以改善多毛症(hirsutism),成功機會高達八成」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_056",
+      "question_number": 56,
+      "question_text": "18歲門診患者在青春期一直沒有月經來潮,懷孕試驗為陰性,身體檢查發現有乳房發育,但是沒有腋毛或恥\n 毛生成時,推測可能是下列何種診斷?",
+      "options": {
+        "A": "Mayer-Rokitansky-Küster-Hauser syndrome",
+        "B": "Androgen insensitivity syndrome",
+        "C": "5α-reductase deficiency syndrome",
+        "D": "Kallmann syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「18歲門診患者在青春期一直沒有月經來潮,懷孕試驗為陰性,身體檢查發現有乳房發育,但是沒有腋毛或恥\n 毛生成時,推測可能是下列何種診斷?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. Androgen insensitivity syndrome，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Mayer-Rokitansky-Küster-Hauser syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「Androgen insensitivity syndrome」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「5α-reductase deficiency syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「Kallmann syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. Androgen insensitivity syndrome 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. Androgen insensitivity syndrome",
+      "flashcard_summary": "18歲門診患者在青春期一直沒有月經來潮,懷孕試驗為陰性,身體檢查發現有乳房發育,但是沒有腋毛或恥 毛生… -> B. Androgen insensitivity syndrome",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "18歲門診患者在青春期一直沒有月經來潮,懷孕試驗為陰性,身體檢查發現有乳房發育,但是沒有腋毛或恥 毛生…",
+      "flashcard_back": "官方答案指向「B. Androgen insensitivity syndrome」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_057",
+      "question_number": 57,
+      "question_text": "關於尿失禁(urinary incontinence)的敘述,下列何者最不適當?",
+      "options": {
+        "A": "年紀、肥胖、慢性咳嗽、曾骨盆腔手術為其危險因子",
+        "B": "可以病史詢問、理學檢查、咳嗽測試及解尿後餘尿量測試來診斷",
+        "C": "小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具",
+        "D": "Q-tip測試已不再建議使用"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於尿失禁(urinary incontinence)的敘述,下列何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「C. 小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「年紀、肥胖、慢性咳嗽、曾骨盆腔手術為其危險因子」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「可以病史詢問、理學檢查、咳嗽測試及解尿後餘尿量測試來診斷」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Q-tip測試已不再建議使用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n尿失禁(urinary incontinence)的敘述 / urinary incontinence => 小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "尿失禁(urinary incontinence)的敘述 / urinary incontinence => 小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具",
+      "flashcard_summary": "尿失禁(urinary incontinence)的敘述 / urinary incontinence -> C. 小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "尿失禁(urinary incontinence)的敘述 / urinary incontinence",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「C. 小便日記、尿液檢查、棉墊測試及尿路動力學檢查是簡單的診斷工具」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_058",
+      "question_number": 58,
+      "question_text": "有關脊髓損傷病人出現自主神經反射異常(autonomic dysreflexia)的臨床症狀,下列何者最不適切?",
+      "options": {
+        "A": "血壓降低",
+        "B": "冒汗",
+        "C": "起雞皮疙瘩",
+        "D": "頭痛"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關脊髓損傷病人出現自主神經反射異常(autonomic dysreflexia)的臨床症狀,下列何者最不適切?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 血壓降低，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「血壓降低」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「冒汗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「起雞皮疙瘩」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「頭痛」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 血壓降低 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 血壓降低",
+      "flashcard_summary": "脊髓損傷病人出現自主神經反射異常(autonomic dysreflexia)的臨床症狀 / autonomic dysreflexia -> A. 血壓降低",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "脊髓損傷病人出現自主神經反射異常(autonomic dysreflexia)的臨床症狀 / autonomic dysreflexia",
+      "flashcard_back": "官方答案指向「A. 血壓降低」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "復健科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_059",
+      "question_number": 59,
+      "question_text": "下列那一塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion)?",
+      "options": {
+        "A": "腓長肌(peroneus longus)",
+        "B": "脛前肌(tibialis anterior)",
+        "C": "伸趾長肌(extensor hallucis longus)",
+        "D": "腓腸肌(gastrocnemius)"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「下列那一塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. 腓腸肌(gastrocnemius)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「腓長肌(peroneus longus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「脛前肌(tibialis anterior)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「伸趾長肌(extensor hallucis longus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「腓腸肌(gastrocnemius)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion) / spasticity / ankle plantarflexion => 腓腸肌(gast... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion) / spasticity / ankle plantarflexion => 腓腸肌(gast...",
+      "flashcard_summary": "塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion) / spasticity / ankle plantarflexion -> D. 腓腸肌(gastrocnemius)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "塊肌肉的高張力痙攣(spasticity)可能造成踝關節蹠屈(ankle plantarflexion) / spasticity / ankle plantarflexion",
+      "flashcard_back": "考點是把題幹線索連到「D. 腓腸肌(gastrocnemius)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_060",
+      "question_number": 60,
+      "question_text": "有關椎底動脈基動脈症候群(vertebrobasilar syndromes),下列何者不是常見症狀?",
+      "options": {
+        "A": "吞嚥困難(dysphagia)",
+        "B": "構音障礙(dysarthria)",
+        "C": "失語症(aphasia)",
+        "D": "平衡困難(disequilibrium)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「有關椎底動脈基動脈症候群(vertebrobasilar syndromes),下列何者不是常見症狀?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「C. 失語症(aphasia)」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「吞嚥困難(dysphagia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「構音障礙(dysarthria)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「失語症(aphasia)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「平衡困難(disequilibrium)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n椎底動脈基動脈症候群(vertebrobasilar syndromes) / vertebrobasilar syndromes => 失語症(aphasia) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "椎底動脈基動脈症候群(vertebrobasilar syndromes) / vertebrobasilar syndromes => 失語症(aphasia)",
+      "flashcard_summary": "椎底動脈基動脈症候群(vertebrobasilar syndromes) / vertebrobasilar syndromes -> C. 失語症(aphasia)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "椎底動脈基動脈症候群(vertebrobasilar syndromes) / vertebrobasilar syndromes",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「C. 失語症(aphasia)」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_061",
+      "question_number": 61,
+      "question_text": "關於脊髓損傷之復健,不同部位之完全性脊髓損傷患者,經復健後有可能達到之最佳運動功能程度並不相\n 同,下列敘述何者最不適當?",
+      "options": {
+        "A": "第三頸髓損傷患者:通常需外加呼吸器以協助其呼吸",
+        "B": "第五頸髓損傷患者:可使用屈肘肌矯具進行活動",
+        "C": "第六頸髓損傷患者:可進行肱三頭肌之相關動作",
+        "D": "第六胸髓損傷患者:可使用前臂枴杖或助行器"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「關於脊髓損傷之復健,不同部位之完全性脊髓損傷患者,經復健後有可能達到之最佳運動功能程度並不相\n 同,下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 第六頸髓損傷患者:可進行肱三頭肌之相關動作，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第三頸髓損傷患者:通常需外加呼吸器以協助其呼吸」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「第五頸髓損傷患者:可使用屈肘肌矯具進行活動」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「第六頸髓損傷患者:可進行肱三頭肌之相關動作」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「第六胸髓損傷患者:可使用前臂枴杖或助行器」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 第六頸髓損傷患者:可進行肱三頭肌之相關動作 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：C. 第六頸髓損傷患者:可進行肱三頭肌之相關動作",
+      "flashcard_summary": "脊髓損傷之復健,不同部位之完全性脊髓損傷患者,經復健後有可能達到之最佳運動功能程度並不相 同 -> C. 第六頸髓損傷患者:可進行肱三頭肌之相關動作",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "脊髓損傷之復健,不同部位之完全性脊髓損傷患者,經復健後有可能達到之最佳運動功能程度並不相 同",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「C. 第六頸髓損傷患者:可進行肱三頭肌之相關動作」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "復健科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_062",
+      "question_number": 62,
+      "question_text": "關於肌少症(sarcopenia),下列敘述何者最不適當?",
+      "options": {
+        "A": "男性肌肉量在50歲之後每十年降低約12~15%",
+        "B": "女性的肌力衰退較晚發生,但速度較快",
+        "C": "癌症,心、肺、肝及腎末期病變等疾病也會造成肌少症",
+        "D": "肌少症會造成生活品質下降並增加死亡的機會"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於肌少症(sarcopenia),下列敘述何者最不適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 女性的肌力衰退較晚發生,但速度較快，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「男性肌肉量在50歲之後每十年降低約12~15%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「女性的肌力衰退較晚發生,但速度較快」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「癌症,心、肺、肝及腎末期病變等疾病也會造成肌少症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「肌少症會造成生活品質下降並增加死亡的機會」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 女性的肌力衰退較晚發生,但速度較快 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：B. 女性的肌力衰退較晚發生,但速度較快",
+      "flashcard_summary": "肌少症(sarcopenia) / sarcopenia -> B. 女性的肌力衰退較晚發生,但速度較快",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "肌少症(sarcopenia) / sarcopenia",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「B. 女性的肌力衰退較晚發生,但速度較快」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "復健科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_063",
+      "question_number": 63,
+      "question_text": "有關梨狀肌症候群(piriformis syndrome),下列敘述何者最不適當?",
+      "options": {
+        "A": "臨床表現為臀部深層的疼痛,有時合併腰痛或傳動放射麻痛感至腿腳",
+        "B": "在臀部坐姿或站立姿勢不對時也會發作",
+        "C": "理學檢查常發現臀部有局部痛點",
+        "D": "在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關梨狀肌症候群(piriformis syndrome),下列敘述何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. 在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「臨床表現為臀部深層的疼痛,有時合併腰痛或傳動放射麻痛感至腿腳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「在臀部坐姿或站立姿勢不對時也會發作」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「理學檢查常發現臀部有局部痛點」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n梨狀肌症候群(piriformis syndrome) / piriformis syndrome => 在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "梨狀肌症候群(piriformis syndrome) / piriformis syndrome => 在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感",
+      "flashcard_summary": "梨狀肌症候群(piriformis syndrome) / piriformis syndrome -> D. 在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "梨狀肌症候群(piriformis syndrome) / piriformis syndrome",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「D. 在梨狀肌緊繃測試,將患側下肢屈曲、外展、外旋並施加壓力,即可誘發臀部及下肢的疼痛感」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_064",
+      "question_number": 64,
+      "question_text": "下列何種變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者?",
+      "options": {
+        "A": "鵝頸變形(swan-neck deformity)",
+        "B": "鈕扣孔變形(boutonnière deformity)",
+        "C": "赫伯登結(Heberden nodes)",
+        "D": "手腕出現尺側偏斜(ulnar deviation)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列何種變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 赫伯登結(Heberden nodes)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「鵝頸變形(swan-neck deformity)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「鈕扣孔變形(boutonnière deformity)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「赫伯登結(Heberden nodes)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「手腕出現尺側偏斜(ulnar deviation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者 / rheumatoid arthritis => 赫伯登結(Heberden nodes) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者 / rheumatoid arthritis => 赫伯登結(Heberden nodes)",
+      "flashcard_summary": "變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者 / rheumatoid arthritis -> C. 赫伯登結(Heberden nodes)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "變形最不常見於類風濕性關節炎(rheumatoid arthritis)的患者 / rheumatoid arthritis",
+      "flashcard_back": "考點是把題幹線索連到「C. 赫伯登結(Heberden nodes)」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_065",
+      "question_number": 65,
+      "question_text": "冠狀動脈繞道手術(coronary artery bypass grafting)患者,接受心臟復健(cardiac\n rehabilitation)後可能獲得的好處,下列何者正確?",
+      "options": {
+        "A": "降低缺血閾值(decreased ischemic threshold)",
+        "B": "改善右心室功能(improved right ventricular function)",
+        "C": "改善血清中的脂質(ameliorated serum lipids)",
+        "D": "增加血漿中之兒茶酚胺(increased serum catecholamines)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「冠狀動脈繞道手術(coronary artery bypass grafting)患者,接受心臟復健(cardiac\n rehabilitation)後可能獲得的好處,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 改善血清中的脂質(ameliorated serum lipids)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「降低缺血閾值(decreased ischemic threshold)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「改善右心室功能(improved right ventricular function)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「改善血清中的脂質(ameliorated serum lipids)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「增加血漿中之兒茶酚胺(increased serum catecholamines)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 改善血清中的脂質(ameliorated serum lipids) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 改善血清中的脂質(ameliorated serum lipids)",
+      "flashcard_summary": "冠狀動脈繞道手術(coronary artery bypass grafting)患者,接受心臟復健(… / coronary artery bypass grafting / cardiac rehabilitation -> C. 改善血清中的脂質(ameliorated serum lipids)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "冠狀動脈繞道手術(coronary artery bypass grafting)患者,接受心臟復健(… / coronary artery bypass grafting / cardiac rehabilitation",
+      "flashcard_back": "官方答案指向「C. 改善血清中的脂質(ameliorated serum lipids)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "復健科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_066",
+      "question_number": 66,
+      "question_text": "關於裘馨氏肌肉失養症(Duchenne muscular dystrophy),下列敘述何者最不適當?",
+      "options": {
+        "A": "X染色體隱性遺傳(X-linked recessive inheritance)",
+        "B": "肌肉無力通常會影響骨盆鄰近(pelvic girdle)肌肉",
+        "C": "不建議使用最大強度運動(maximal exercise)的運動量訓練",
+        "D": "心肌(cardiac muscle)通常不受影響"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「關於裘馨氏肌肉失養症(Duchenne muscular dystrophy),下列敘述何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. 心肌(cardiac muscle)通常不受影響」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「X染色體隱性遺傳(X-linked recessive inheritance)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「肌肉無力通常會影響骨盆鄰近(pelvic girdle)肌肉」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「不建議使用最大強度運動(maximal exercise)的運動量訓練」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「心肌(cardiac muscle)通常不受影響」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n裘馨氏肌肉失養症(Duchenne muscular dystrophy) / Duchenne muscular dystrophy => 心肌(cardiac muscle)通常不受影響 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "裘馨氏肌肉失養症(Duchenne muscular dystrophy) / Duchenne muscular dystrophy => 心肌(cardiac muscle)通常不受影響",
+      "flashcard_summary": "裘馨氏肌肉失養症(Duchenne muscular dystrophy) / Duchenne muscular dystrophy -> D. 心肌(cardiac muscle)通常不受影響",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "裘馨氏肌肉失養症(Duchenne muscular dystrophy) / Duchenne muscular dystrophy",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「D. 心肌(cardiac muscle)通常不受影響」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_067",
+      "question_number": 67,
+      "question_text": "下列關於嬰兒型脊髓性肌肉萎縮症(infantile spinal muscular atrophy)的敘述,何者最為適當?",
+      "options": {
+        "A": "屬於體染色體顯性遺傳(autosomal dominant inheritance)",
+        "B": "通常於10歲以後才會變得全身無力",
+        "C": "產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考",
+        "D": "肌電圖(electromyography)的檢查完全正常"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「下列關於嬰兒型脊髓性肌肉萎縮症(infantile spinal muscular atrophy)的敘述,何者最為適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「屬於體染色體顯性遺傳(autosomal dominant inheritance)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「通常於10歲以後才會變得全身無力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「肌電圖(electromyography)的檢查完全正常」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考",
+      "flashcard_summary": "第 67 題核心考點 / infantile spinal muscular atrophy -> C. 產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "第 67 題核心考點 / infantile spinal muscular atrophy",
+      "flashcard_back": "官方答案指向「C. 產前DNA檢測(prenatal DNA testing)可作為臨床診斷上的參考」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_068",
+      "question_number": 68,
+      "question_text": "關於老年人復健訓練的風險,下列敘述何者最適當?",
+      "options": {
+        "A": "復健訓練不會帶來跌倒、扭傷、酸痛的傷害",
+        "B": "比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小",
+        "C": "即使選擇適合的運動及強度,在復健過程中有監督者(supervisor),仍不易減少風險的產生",
+        "D": "復健運動最重大的風險就是發生肌肉骨骼傷害"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於老年人復健訓練的風險,下列敘述何者最適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「復健訓練不會帶來跌倒、扭傷、酸痛的傷害」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「即使選擇適合的運動及強度,在復健過程中有監督者(supervisor),仍不易減少風險的產生」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「復健運動最重大的風險就是發生肌肉骨骼傷害」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小",
+      "flashcard_summary": "老年人復健訓練的風險 -> B. 比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "老年人復健訓練的風險",
+      "flashcard_back": "官方答案指向「B. 比起不活動或臥床的併發症而言,復健訓練的風險傷害相對較小」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_069",
+      "question_number": 69,
+      "question_text": "有關無障礙環境的評估,下列敘述何者最不適當?",
+      "options": {
+        "A": "無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境",
+        "B": "病患的身高、體重、身體寬度、手腳長度等都是評估項目之一",
+        "C": "評估過程必須考慮病患的經濟能力",
+        "D": "評估時應充分了解病患或其家屬對於生活與照顧之期待"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關無障礙環境的評估,下列敘述何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「A. 無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 正確答案。選項內容：「無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「病患的身高、體重、身體寬度、手腳長度等都是評估項目之一」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「評估過程必須考慮病患的經濟能力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「評估時應充分了解病患或其家屬對於生活與照顧之期待」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n無障礙環境的評估 => 無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "無障礙環境的評估 => 無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境",
+      "flashcard_summary": "無障礙環境的評估 -> A. 無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "無障礙環境的評估",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「A. 無障礙環境的評估需在病患出院返家後進行,並依據評估的結果調整病患的居住或工作環境」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_070",
+      "question_number": 70,
+      "question_text": "有關輪椅訂製時應考慮的項目,下列何者最不適當?",
+      "options": {
+        "A": "使用者的心肺功能非評估項目之一",
+        "B": "對於神經性疾病之病患,應觀察病患之皮膚狀況",
+        "C": "對於手部協調性差的病患,可考慮使用頭部操控的輪椅",
+        "D": "髖部、膝蓋與腳踝的關節活動度為評估項目之一"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「有關輪椅訂製時應考慮的項目,下列何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「A. 使用者的心肺功能非評估項目之一」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 正確答案。選項內容：「使用者的心肺功能非評估項目之一」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「對於神經性疾病之病患,應觀察病患之皮膚狀況」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「對於手部協調性差的病患,可考慮使用頭部操控的輪椅」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「髖部、膝蓋與腳踝的關節活動度為評估項目之一」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n輪椅訂製時應考慮的項目 => 使用者的心肺功能非評估項目之一 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "輪椅訂製時應考慮的項目 => 使用者的心肺功能非評估項目之一",
+      "flashcard_summary": "輪椅訂製時應考慮的項目 -> A. 使用者的心肺功能非評估項目之一",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "輪椅訂製時應考慮的項目",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「A. 使用者的心肺功能非評估項目之一」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_071",
+      "question_number": 71,
+      "question_text": "有關巴氏量表(Barthel index)的敘述,下列何者最不適當?",
+      "options": {
+        "A": "目的在評估病患的日常生活活動(activities of daily living, ADLs)能力",
+        "B": "滿分是100分",
+        "C": "包含大小便能力",
+        "D": "包含溝通能力及社會認知的評量"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「有關巴氏量表(Barthel index)的敘述,下列何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. 包含溝通能力及社會認知的評量」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「目的在評估病患的日常生活活動(activities of daily living, ADLs)能力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「滿分是100分」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「包含大小便能力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「包含溝通能力及社會認知的評量」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n巴氏量表(Barthel index)的敘述 / Barthel index => 包含溝通能力及社會認知的評量 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "巴氏量表(Barthel index)的敘述 / Barthel index => 包含溝通能力及社會認知的評量",
+      "flashcard_summary": "巴氏量表(Barthel index)的敘述 / Barthel index -> D. 包含溝通能力及社會認知的評量",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "巴氏量表(Barthel index)的敘述 / Barthel index",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「D. 包含溝通能力及社會認知的評量」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_072",
+      "question_number": 72,
+      "question_text": "37歲女性病人,因左上眼瞼下垂與複視而求診,靜脈注射顯影劑磁振造影(如圖),下列何者為最可能之診\n 斷?",
+      "options": {
+        "A": "左側頸動脈海綿竇瘻管(carotid-cavernous sinus fistula)",
+        "B": "左側視神經鞘腦膜瘤(optic nerve sheath meningioma)",
+        "C": "左側鼻竇癌",
+        "D": "鼻咽癌併局部侵犯"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「37歲女性病人,因左上眼瞼下垂與複視而求診,靜脈注射顯影劑磁振造影(如圖),下列何者為最可能之診\n 斷?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 鼻咽癌併局部侵犯，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「左側頸動脈海綿竇瘻管(carotid-cavernous sinus fistula)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「左側視神經鞘腦膜瘤(optic nerve sheath meningioma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「左側鼻竇癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「鼻咽癌併局部侵犯」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 鼻咽癌併局部侵犯 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：D. 鼻咽癌併局部侵犯",
+      "flashcard_summary": "37歲女性病人,因左上眼瞼下垂與複視而求診,靜脈注射顯影劑磁振造影(如圖) -> D. 鼻咽癌併局部侵犯",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "37歲女性病人,因左上眼瞼下垂與複視而求診,靜脈注射顯影劑磁振造影(如圖)",
+      "flashcard_back": "官方答案指向「D. 鼻咽癌併局部侵犯」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "眼科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_073",
+      "question_number": 73,
+      "question_text": "45歲女性病人到醫院做健康檢查,腹部X光片顯示骨盆腔病變如圖示;進一步進行經陰道超音波檢查,結果\n 發現異常如圖示。最可能的診斷為何?",
+      "options": {
+        "A": "骨盆腔發炎性疾病(pelvic inflammatory disease)",
+        "B": "子宮內避孕器(intrauterine contraceptive device)",
+        "C": "子宮類纖維瘤(uterine fibroid or leiomyoma)",
+        "D": "子宮內膜癌(endometrial carcinoma)"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「45歲女性病人到醫院做健康檢查,腹部X光片顯示骨盆腔病變如圖示;進一步進行經陰道超音波檢查,結果\n 發現異常如圖示。最可能的診斷為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 子宮類纖維瘤(uterine fibroid or leiomyoma)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「骨盆腔發炎性疾病(pelvic inflammatory disease)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「子宮內避孕器(intrauterine contraceptive device)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「子宮類纖維瘤(uterine fibroid or leiomyoma)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「子宮內膜癌(endometrial carcinoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 子宮類纖維瘤(uterine fibroid or leiomyoma) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：C. 子宮類纖維瘤(uterine fibroid or leiomyoma)",
+      "flashcard_summary": "45歲女性病人到醫院做健康檢查,腹部X光片顯示骨盆腔病變如圖示;進一步進行經陰道超音波檢查,結果 發現… -> C. 子宮類纖維瘤(uterine fibroid or leiomyoma)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "45歲女性病人到醫院做健康檢查,腹部X光片顯示骨盆腔病變如圖示;進一步進行經陰道超音波檢查,結果 發現…",
+      "flashcard_back": "官方答案指向「C. 子宮類纖維瘤(uterine fibroid or leiomyoma)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_074",
+      "question_number": 74,
+      "question_text": "下列有關分離性骨軟骨炎(osteochondritis dissecans)的敘述,何者最不適當?",
+      "options": {
+        "A": "常見於70歲以上的男性,且合併股骨頭部缺血性壞死",
+        "B": "可出現關節囊內骨小塊游離",
+        "C": "磁振造影可協助診斷",
+        "D": "常見於中學生且侵犯踝關節"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「下列有關分離性骨軟骨炎(osteochondritis dissecans)的敘述,何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「A. 常見於70歲以上的男性,且合併股骨頭部缺血性壞死」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 正確答案。選項內容：「常見於70歲以上的男性,且合併股骨頭部缺血性壞死」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「可出現關節囊內骨小塊游離」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「磁振造影可協助診斷」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「常見於中學生且侵犯踝關節」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n第 74 題核心考點 / osteochondritis dissecans => 常見於70歲以上的男性,且合併股骨頭部缺血性壞死 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "第 74 題核心考點 / osteochondritis dissecans => 常見於70歲以上的男性,且合併股骨頭部缺血性壞死",
+      "flashcard_summary": "第 74 題核心考點 / osteochondritis dissecans -> A. 常見於70歲以上的男性,且合併股骨頭部缺血性壞死",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "第 74 題核心考點 / osteochondritis dissecans",
+      "flashcard_back": "考點是辨認不適當敘述。官方答案為「A. 常見於70歲以上的男性,且合併股骨頭部缺血性壞死」，表示這個選項需特別修正；複習時要反向記住正確概念。",
+      "category_group": "醫學（六）",
+      "category": "解剖學",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_075",
+      "question_number": 75,
+      "question_text": "25歲女性無過去病史,懷孕28週因下肢疼痛至急診求診,經檢查後發現是下肢靜脈栓塞。針對此病人的治\n 療,下列何者最不適合?",
+      "options": {
+        "A": "warfarin",
+        "B": "unfractionated heparin",
+        "C": "low-molecular-weight heparin",
+        "D": "若anticoagulation效果不好,可考慮放置inferior vena cava filter"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「25歲女性無過去病史,懷孕28週因下肢疼痛至急診求診,經檢查後發現是下肢靜脈栓塞。針對此病人的治\n 療,下列何者最不適合?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. warfarin，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「warfarin」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「unfractionated heparin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「low-molecular-weight heparin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「若anticoagulation效果不好,可考慮放置inferior vena cava filter」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. warfarin 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. warfarin",
+      "flashcard_summary": "25歲女性無過去病史,懷孕28週因下肢疼痛至急診求診,經檢查後發現是下肢靜脈栓塞。針對此病人的治 療 -> A. warfarin",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "25歲女性無過去病史,懷孕28週因下肢疼痛至急診求診,經檢查後發現是下肢靜脈栓塞。針對此病人的治 療",
+      "flashcard_back": "官方答案指向「A. warfarin」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "婦產科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_076",
+      "question_number": 76,
+      "question_text": "關於急性會厭炎(acute epiglottitis),下列敘述何者最正確?",
+      "options": {
+        "A": "大部分病人具有典型的3D症狀:流口水(drooling)、吞嚥困難(dysphagia)、呼吸窘迫(distress)",
+        "B": "身體診察時吸氣可以聽到喘鳴聲(stridor)",
+        "C": "呼吸窘迫時應安排頸部電腦斷層掃描進一步確定診斷",
+        "D": "清醒病人呼吸窘迫時,建議使用鎮靜藥物及肌肉鬆弛劑執行氣管內管插管"
+      },
+      "correct_answer": "B",
+      "explanation": "【題幹解析】\n本題題幹為：「關於急性會厭炎(acute epiglottitis),下列敘述何者最正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 身體診察時吸氣可以聽到喘鳴聲(stridor)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大部分病人具有典型的3D症狀:流口水(drooling)、吞嚥困難(dysphagia)、呼吸窘迫(distress)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「身體診察時吸氣可以聽到喘鳴聲(stridor)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「呼吸窘迫時應安排頸部電腦斷層掃描進一步確定診斷」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「清醒病人呼吸窘迫時,建議使用鎮靜藥物及肌肉鬆弛劑執行氣管內管插管」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 身體診察時吸氣可以聽到喘鳴聲(stridor) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：B. 身體診察時吸氣可以聽到喘鳴聲(stridor)",
+      "flashcard_summary": "急性會厭炎(acute epiglottitis) / acute epiglottitis -> B. 身體診察時吸氣可以聽到喘鳴聲(stridor)",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "B"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "急性會厭炎(acute epiglottitis) / acute epiglottitis",
+      "flashcard_back": "官方答案指向「B. 身體診察時吸氣可以聽到喘鳴聲(stridor)」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_077",
+      "question_number": 77,
+      "question_text": "50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇\n 至急診求診,醫師說他的背痛是緊急情況要馬上處理。病人最不可能是下列何種診斷?",
+      "options": {
+        "A": "aortic dissection",
+        "B": "cauda equina syndrome",
+        "C": "spinal stenosis",
+        "D": "epidural abscess"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇\n 至急診求診,醫師說他的背痛是緊急情況要馬上處理。病人最不可能是下列何種診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. spinal stenosis」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「aortic dissection」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「cauda equina syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「spinal stenosis」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「epidural abscess」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇 至急診求診,醫… => spinal stenosis 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇 至急診求診,醫… => spinal stenosis",
+      "flashcard_summary": "50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇 至急診求診,醫… -> C. spinal stenosis",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "50歲老師,最近在上課中感到背痛,休息一下症狀就比較好,但站太久又會疼痛,他因疼痛加劇 至急診求診,醫…",
+      "flashcard_back": "考點是把題幹線索連到「C. spinal stenosis」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_078",
+      "question_number": 78,
+      "question_text": "根據生命倫理四原則的作者Beauchamp和Childress之見解,四個原則的重要性依序為何?1尊重自主原則\n (respect for autonomy) 2不傷害原則(nonmaleficence) 3行善原則(beneficence) 4正義原\n 則(justice)",
+      "options": {
+        "A": "1=2=3=4",
+        "B": "2>1>3>4",
+        "C": "1>2>3>4",
+        "D": "1=4>2=3"
+      },
+      "correct_answer": "A",
+      "explanation": "【題幹解析】\n本題題幹為：「根據生命倫理四原則的作者Beauchamp和Childress之見解,四個原則的重要性依序為何?1尊重自主原則\n (respect for autonomy) 2不傷害原則(nonmaleficence) 3行善原則(beneficence) 4正義原\n 則(justice)」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 1=2=3=4，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「1=2=3=4」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「2>1>3>4」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「1>2>3>4」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「1=4>2=3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 1=2=3=4 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "正確觀念：A. 1=2=3=4",
+      "flashcard_summary": "根據生命倫理四原則的作者Beauchamp和Childress之見解,四個原則的重要性依序為何?1尊重… / Beauchamp / Childress -> A. 1=2=3=4",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "A"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "根據生命倫理四原則的作者Beauchamp和Childress之見解,四個原則的重要性依序為何?1尊重… / Beauchamp / Childress",
+      "flashcard_back": "官方答案指向「A. 1=2=3=4」。看到正面線索時，應回想這個定義、機轉、典型表現或處置原則，而不是只記答案字母。",
+      "category_group": "醫學（六）",
+      "category": "醫學倫理與醫療決策",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_079",
+      "question_number": 79,
+      "question_text": "由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自己\n 呼吸,目前裝著呼吸器,新生兒同時也被發現包含有心臟與食道氣管瘻管等多項先天性異常,即使開刀預後\n 也很差,經過商量,嬰兒父母希望醫師不再積極治療。下列處置何者最適當?",
+      "options": {
+        "A": "為符合病人最大利益,立即為其手術",
+        "B": "父母無權決定,持續目前所有治療",
+        "C": "尊重父母決定,給予緩和醫療",
+        "D": "為符合人道精神不讓病人痛苦,直接讓病人安樂死亡"
+      },
+      "correct_answer": "C",
+      "explanation": "【題幹解析】\n本題題幹為：「由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自己\n 呼吸,目前裝著呼吸器,新生兒同時也被發現包含有心臟與食道氣管瘻管等多項先天性異常,即使開刀預後\n 也很差,經過商量,嬰兒父母希望醫師不再積極治療。下列處置何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 尊重父母決定,給予緩和醫療」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「為符合病人最大利益,立即為其手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「父母無權決定,持續目前所有治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「尊重父母決定,給予緩和醫療」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「為符合人道精神不讓病人痛苦,直接讓病人安樂死亡」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自… / trisomy 18 => 尊重父母決定,給予緩和醫療 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自… / trisomy 18 => 尊重父母決定,給予緩和醫療",
+      "flashcard_summary": "由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自… / trisomy 18 -> C. 尊重父母決定,給予緩和醫療",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "C"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "由於父母信仰的關係,一位出生後才被診斷出染色體異常(trisomy 18)的新生兒,在出生後完全無法自… / trisomy 18",
+      "flashcard_back": "考點是把題幹線索連到「C. 尊重父母決定,給予緩和醫療」。複習時先記概念關係，再回到選項，避免只背答案字母。",
+      "category_group": "醫學（六）",
+      "category": "麻醉科",
+      "category_confidence": "medium",
+      "category_source": "rule_rework_low_confidence",
+      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    },
+    {
+      "id": "113-2_medicine-6_080",
+      "question_number": 80,
+      "question_text": "關於醫療隱私之維護,下列敘述何者錯誤?",
+      "options": {
+        "A": "病人就診時,應確實隔離其他不相關人員",
+        "B": "於診療過程,醫病雙方如需錄音或錄影,應先徵得對方之同意",
+        "C": "門診診間及諮詢會談場所應為單診間,且有適當之隔音",
+        "D": "教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人"
+      },
+      "correct_answer": "D",
+      "explanation": "【題幹解析】\n本題題幹為：「關於醫療隱私之維護,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「病人就診時,應確實隔離其他不相關人員」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「於診療過程,醫病雙方如需錄音或錄影,應先徵得對方之同意」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「門診診間及諮詢會談場所應為單診間,且有適當之隔音」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "key_point": "錯誤敘述判斷：D. 教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人",
+      "flashcard_summary": "醫療隱私之維護 -> D. 教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人",
+      "review_status": "ai_generated",
+      "correct_answers": [
+        "D"
+      ],
+      "answer_status": "standard",
+      "answer_source": "official_answer",
+      "flashcard_front": "醫療隱私之維護",
+      "flashcard_back": "本題是在找錯誤或不適當敘述；官方答案指向「D. 教學醫院以醫學教育為使命,實習學生在旁學習無需事先告知病人」。複習時要記住此敘述與正確概念相反，避免只背選項代號。",
+      "category_group": "醫學（六）",
+      "category": "醫學倫理與醫療決策",
+      "category_confidence": "medium",
+      "category_source": "rule_rework",
+      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+    }
+  ]
+}
