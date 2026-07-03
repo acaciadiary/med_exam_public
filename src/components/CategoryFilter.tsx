@@ -22,10 +22,10 @@ export function CategoryFilter({
   );
 
   return (
-    <div className="font-hand mb-6 rounded-[1.2rem] border border-white/80 bg-white/68 p-3 shadow-[0_14px_42px_rgba(181,133,117,0.12)] backdrop-blur-2xl">
+    <div className="font-hand mb-6 w-full min-w-0 max-w-full overflow-hidden rounded-[1.2rem] border border-white/80 bg-white/68 p-3 shadow-[0_14px_42px_rgba(181,133,117,0.12)] backdrop-blur-2xl">
       <div
         {...dragScrollProps}
-        className="horizontal-drag-scroll flex gap-2 pb-1"
+        className="horizontal-drag-scroll flex w-full min-w-0 max-w-full gap-2 pb-1"
         aria-label="科目可左右滑動"
       >
         {options.map((option) => (

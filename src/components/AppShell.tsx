@@ -255,7 +255,7 @@ export function AppShell({
   return (
     <div
       className={clsx(
-        "study-journal min-h-screen text-[#4b3b35] transition-colors duration-500",
+        "study-journal min-h-screen min-w-0 text-[#4b3b35] transition-colors duration-500",
         theme === "light" && "bg-[#fff8f4]",
         theme === "dark" && "theme-dark bg-[#19161e] text-[#f8edf3]",
         theme === "clinical" && "theme-clinical bg-[#f4f8fb] text-[#26384a]",
@@ -410,18 +410,18 @@ export function AppShell({
       {/* Main Content Area (shifted right on Desktop) */}
       <div
         className={clsx(
-          "flex min-h-screen flex-col transition-[padding] duration-300",
+          "flex min-h-screen min-w-0 max-w-full flex-col overflow-x-hidden transition-[padding] duration-300",
           isSidebarCollapsed ? "lg:pl-[4.75rem]" : "lg:pl-64",
         )}
       >
         {/* Top Header */}
         <header
           className={clsx(
-            "sticky top-0 z-30 px-3 pt-3 sm:px-5 sm:pt-5 transition-transform duration-300 ease-in-out",
+            "sticky top-0 z-30 w-full max-w-full px-3 pt-3 sm:px-5 sm:pt-5 transition-transform duration-300 ease-in-out",
             !isVisible && "max-lg:-translate-y-full"
           )}
         >
-          <div className="mx-auto w-full max-w-[92rem] rounded-[1.25rem] border border-white/80 bg-white/78 px-4 py-3 shadow-[0_12px_40px_rgba(181,133,117,0.12)] backdrop-blur-2xl sm:px-6">
+          <div className="mx-auto w-full max-w-[92rem] min-w-0 overflow-hidden rounded-[1.25rem] border border-white/80 bg-white/78 px-4 py-3 shadow-[0_12px_40px_rgba(181,133,117,0.12)] backdrop-blur-2xl sm:px-6">
             {/* Desktop Header Layout */}
             <div className="hidden lg:flex items-center justify-between gap-4">
               <div className="flex items-center gap-3 min-w-0">
@@ -467,11 +467,11 @@ export function AppShell({
             {/* Mobile Header Layout */}
             <div className="flex lg:hidden flex-col gap-2.5">
               {/* Row 1: Title & Theme Switch */}
-              <div className="flex flex-wrap items-center justify-between gap-y-2">
+              <div className="flex min-w-0 items-center gap-2">
                 <button
                   type="button"
                   onClick={() => setIsMobileSidebarOpen(true)}
-                  className="mr-2 inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[#efd9d0] bg-white/82 text-[#6f5b50] transition hover:bg-white focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/45 dark:border-white/10 dark:text-[#dccbd3]"
+                  className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[#efd9d0] bg-white/82 text-[#6f5b50] transition hover:bg-white focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/45 dark:border-white/10 dark:text-[#dccbd3]"
                   aria-label="開啟選單"
                   title="開啟選單"
                 >
@@ -480,7 +480,7 @@ export function AppShell({
                 <button
                   type="button"
                   onClick={handleHomeClick}
-                  className="flex min-w-0 flex-1 items-center gap-2 rounded-xl pr-2 text-left transition hover:opacity-80 focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/45"
+                  className="flex min-w-0 flex-1 items-center gap-2 rounded-xl pr-1 text-left transition hover:opacity-80 focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/45"
                   aria-label="返回首頁"
                   title="返回首頁"
                 >
@@ -491,7 +491,7 @@ export function AppShell({
                     Ariel's Med 醫師國考
                   </span>
                 </button>
-                <div className="ml-auto flex shrink-0 items-center gap-2">
+                <div className="flex shrink-0 items-center gap-1.5">
                   <ThemeToggle theme={theme} onChange={onThemeChange} />
                   <ReadingBoldButton
                     enabled={readingBold}
@@ -526,7 +526,7 @@ export function AppShell({
               </div>
 
               {/* Row 2: Filter Controls & Mobile Progress */}
-              <div className="flex items-center justify-between gap-2 border-t border-[#f0ded6]/50 dark:border-white/5 pt-2">
+              <div className="flex min-w-0 items-center justify-between gap-2 border-t border-[#f0ded6]/50 pt-2 dark:border-white/5">
                 {page === "home" ? (
                   <div className="min-w-0">
                     <p className="text-[10px] font-bold tracking-[0.14em] text-[#b36a84]">
@@ -551,7 +551,7 @@ export function AppShell({
                   />
                 )}
                 
-                <div className="flex flex-col items-end text-[10px] font-semibold text-[#8b7666] dark:text-[#a2949e]">
+                <div className="shrink-0 text-right text-[10px] font-semibold leading-4 text-[#8b7666] dark:text-[#a2949e]">
                   <span>進度：{progress}%</span>
                   <span>{answeredCount}/{questionCount} 題</span>
                 </div>
@@ -561,7 +561,7 @@ export function AppShell({
         </header>
 
         {/* Main Content Area */}
-        <main className="relative z-10 mx-auto w-full max-w-[92rem] flex-1 px-4 py-6 sm:px-6 lg:px-8 pb-24 lg:pb-8">
+        <main className="relative z-10 mx-auto w-full max-w-[92rem] min-w-0 flex-1 overflow-x-hidden px-4 py-6 pb-24 sm:px-6 lg:px-8 lg:pb-8">
           {children}
         </main>
       </div>
@@ -887,7 +887,7 @@ function FilterControl({
   const subjectLabel = activeExam ? getSubjectLabel(activeExam) : "選擇科目";
 
   return (
-    <div className="flex items-center gap-1.5 font-hand shrink-0">
+    <div className="flex min-w-0 max-w-full shrink items-center gap-1.5 font-hand">
       {/* Filter Dropdown Popover */}
       <div
         className="relative"
@@ -899,7 +899,7 @@ function FilterControl({
           type="button"
           onClick={() => setFilterOpen((prev) => !prev)}
           className={clsx(
-            "flex h-9 items-center gap-1.5 rounded-full border px-3.5 text-xs font-semibold outline-none transition cursor-pointer shadow-sm",
+            "flex h-9 max-w-full items-center gap-1.5 rounded-full border px-3.5 text-xs font-semibold outline-none transition cursor-pointer shadow-sm",
             theme === "dark"
               ? "border-white/10 bg-[#2b2430]/80 text-[#dccbd3] hover:border-white/20 focus:border-white/20 focus:ring-2 focus:ring-white/10"
               : theme === "clinical"
@@ -908,14 +908,14 @@ function FilterControl({
           )}
           aria-expanded={filterOpen}
         >
-          <span>{activeYear}・{stageLabel}・{subjectLabel}</span>
+          <span className="min-w-0 truncate">{activeYear}・{stageLabel}・{subjectLabel}</span>
           <ChevronDown size={12} className={clsx("shrink-0 transition", filterOpen && "rotate-180")} />
         </button>
 
         {filterOpen && (
           <div
             className={clsx(
-              "absolute left-0 top-[calc(100%+0.5rem)] z-50 max-h-[min(34rem,calc(100vh-7.5rem))] w-72 space-y-4 overflow-y-auto rounded-[1.2rem] border p-4 shadow-[0_18px_50px_rgba(181,133,117,0.22)] backdrop-blur-xl sm:w-80",
+              "absolute left-0 top-[calc(100%+0.5rem)] z-50 max-h-[min(34rem,calc(100vh-7.5rem))] w-[min(18rem,calc(100vw-2rem))] space-y-4 overflow-y-auto rounded-[1.2rem] border p-4 shadow-[0_18px_50px_rgba(181,133,117,0.22)] backdrop-blur-xl sm:w-80",
               theme === "dark"
                 ? "border-white/15 bg-[#2b2430]/95"
                 : theme === "clinical"

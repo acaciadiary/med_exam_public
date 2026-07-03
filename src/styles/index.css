@@ -28,12 +28,21 @@
 
 html {
   scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
   min-width: 320px;
+  width: 100%;
   background: #fff8f4;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
   overflow-x: hidden;
 }
 
@@ -48,6 +57,9 @@ select {
 
 .study-journal {
   isolation: isolate;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 .font-hand {
@@ -304,6 +316,7 @@ select {
 }
 
 .horizontal-drag-scroll {
+  max-width: 100%;
   overflow-x: auto;
   overflow-y: hidden;
   scrollbar-width: none;
@@ -385,6 +398,11 @@ select {
 .question-card-item {
   content-visibility: auto;
   contain-intrinsic-size: auto 240px;
+}
+
+.mobile-safe-text {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 /* Highlighter Styles */

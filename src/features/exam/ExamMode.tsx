@@ -201,24 +201,24 @@ export function ExamMode({
   ]);
 
   return (
-    <div className="flex min-w-0 items-start gap-6">
-      <section className="min-w-0 flex-1">
+    <div className="flex w-full min-w-0 max-w-full items-start gap-6 overflow-x-hidden">
+      <section className="w-full min-w-0 max-w-full flex-1">
         <div className="mb-6 flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
-          <div>
+          <div className="min-w-0">
             <p className="text-xs font-bold uppercase tracking-[0.24em] text-[#c4869b]">
               [01] Exam notes / {dataset.year}
             </p>
-            <h2 className="mt-3 text-3xl font-semibold tracking-normal text-[#4b3b35] dark:text-[#f8edf3]">
+            <h2 className="mobile-safe-text mt-3 text-3xl font-semibold tracking-normal text-[#4b3b35] dark:text-[#f8edf3]">
               {getExamDisplayTitle(dataset)}
             </h2>
-            <p className="mt-3 max-w-2xl text-sm leading-7 text-[#725b52] dark:text-[#dccbd3]">
+            <p className="mobile-safe-text mt-3 max-w-2xl text-sm leading-7 text-[#725b52] dark:text-[#dccbd3]">
               做題後立即看解析，收藏重要題，錯題會自動整理到錯題本。
             </p>
           </div>
 
           {/* Mode Switcher */}
           <div className={clsx(
-            "inline-flex h-11 rounded-[0.85rem] p-1 border backdrop-blur-xl shrink-0 self-start sm:self-auto",
+            "inline-flex h-11 max-w-full shrink-0 self-start rounded-[0.85rem] border p-1 backdrop-blur-xl sm:self-auto",
             theme === "dark"
               ? "bg-[#2b2430]/80 border-white/12"
               : theme === "clinical"
@@ -229,7 +229,7 @@ export function ExamMode({
               type="button"
               onClick={() => onModeChange("exam")}
               className={clsx(
-                "inline-flex min-h-9 min-w-24 items-center justify-center gap-2 rounded-[0.7rem] px-3 text-sm font-semibold transition cursor-pointer",
+                "inline-flex min-h-9 min-w-0 items-center justify-center gap-2 rounded-[0.7rem] px-3 text-sm font-semibold transition cursor-pointer sm:min-w-24",
                 mode === "exam"
                   ? theme === "dark"
                     ? "bg-[#4a2c3a] text-[#f3a6c4] shadow-sm"
@@ -250,7 +250,7 @@ export function ExamMode({
               type="button"
               onClick={() => onModeChange("flashcards")}
               className={clsx(
-                "inline-flex min-h-9 min-w-24 items-center justify-center gap-2 rounded-[0.7rem] px-3 text-sm font-semibold transition cursor-pointer",
+                "inline-flex min-h-9 min-w-0 items-center justify-center gap-2 rounded-[0.7rem] px-3 text-sm font-semibold transition cursor-pointer sm:min-w-24",
                 mode === "flashcards"
                   ? theme === "dark"
                     ? "bg-[#4a2c3a] text-[#f3a6c4] shadow-sm"
@@ -290,7 +290,7 @@ export function ExamMode({
 
         <CategoryFilter options={categoryOptions} activeCategory={activeCategory} onChange={setActiveCategory} />
 
-        <div className="grid gap-5 sm:gap-6">
+        <div className="grid w-full min-w-0 max-w-full gap-5 sm:gap-6">
           {renderedQuestions.map((question, index) => (
             <div
               key={question.id}

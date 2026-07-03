@@ -54,7 +54,7 @@ export const QuestionCard = memo(
     return (
       <article
         id={question.id}
-        className="relative min-w-0 overflow-hidden scroll-mt-32 rounded-[1.45rem] border border-white/90 bg-white/82 p-5 shadow-[0_18px_60px_rgba(181,133,117,0.16)] backdrop-blur-2xl dark:border-white/14 dark:bg-[#2b2430]/88 dark:shadow-[0_18px_60px_rgba(0,0,0,0.28)] sm:p-7 question-card-item"
+        className="question-card-item relative w-full min-w-0 max-w-full overflow-hidden scroll-mt-32 rounded-[1.45rem] border border-white/90 bg-white/82 p-5 shadow-[0_18px_60px_rgba(181,133,117,0.16)] backdrop-blur-2xl dark:border-white/14 dark:bg-[#2b2430]/88 dark:shadow-[0_18px_60px_rgba(0,0,0,0.28)] sm:p-7"
       >
         <div className="absolute -left-2 top-8 hidden h-12 w-4 rounded-full bg-[#ffddea] dark:bg-[#b65f7c] sm:block" />
         <div className="flex items-start justify-between gap-3 sm:gap-4">
@@ -63,7 +63,7 @@ export const QuestionCard = memo(
               Note {question.question_number.toString().padStart(3, "0")}
               {positionLabel ? <span className="ml-2 text-[#9c7b70] dark:text-[#cbb8c2]">{positionLabel}</span> : null}
             </p>
-            <h2 className="mt-3 break-words text-lg font-semibold leading-8 text-[#4b3b35] sm:text-xl">
+            <h2 className="mobile-safe-text mt-3 text-lg font-semibold leading-8 text-[#4b3b35] sm:text-xl">
               {question.question_text}
             </h2>
           </div>
@@ -91,13 +91,13 @@ export const QuestionCard = memo(
                 {questionNotes.length}
               </span>
             </button>
-            <div className="flex gap-2">
+            <div className="flex w-full min-w-0 gap-2 sm:w-auto">
               <input
                 value={noteDraft}
                 onChange={(event) => setNoteDraft(event.target.value)}
                 onFocus={() => setNotesOpen(true)}
                 placeholder="寫下這題想記住的重點"
-                className="h-10 min-w-0 rounded-full border border-[#efd9d0] bg-white px-4 text-sm text-[#4b3b35] outline-none transition placeholder:text-[#aa8a7d] focus:border-[#f1aac8] focus:ring-4 focus:ring-[#ffd9e8]/55 dark:border-white/10 dark:bg-[#2b2430] dark:text-[#f8edf3]"
+                className="h-10 min-w-0 flex-1 rounded-full border border-[#efd9d0] bg-white px-4 text-sm text-[#4b3b35] outline-none transition placeholder:text-[#aa8a7d] focus:border-[#f1aac8] focus:ring-4 focus:ring-[#ffd9e8]/55 dark:border-white/10 dark:bg-[#2b2430] dark:text-[#f8edf3]"
               />
               <button
                 type="button"
@@ -122,7 +122,7 @@ export const QuestionCard = memo(
                     key={note.id}
                     className="flex items-start justify-between gap-3 rounded-[0.8rem] bg-white/72 px-3 py-3 text-sm leading-6 text-[#604b43] dark:bg-[#2b2430]/72 dark:text-[#eadbe3]"
                   >
-                    <p className="min-w-0 flex-1 whitespace-pre-wrap">{note.text}</p>
+                    <p className="mobile-safe-text min-w-0 flex-1 whitespace-pre-wrap">{note.text}</p>
                     <button
                       type="button"
                       onClick={() => onRemoveNote(note.id)}
@@ -141,10 +141,10 @@ export const QuestionCard = memo(
 
         {selected && (
           <div className="mt-5 flex flex-wrap items-center gap-3 text-sm">
-            <span className="rounded-full bg-[#f8eae3] px-3 py-1 font-semibold text-[#6d534a] dark:bg-[#3a3038] dark:text-[#eadbe3]">
+            <span className="mobile-safe-text rounded-full bg-[#f8eae3] px-3 py-1 font-semibold text-[#6d534a] dark:bg-[#3a3038] dark:text-[#eadbe3]">
               你的答案：{selected}
             </span>
-            <span className="rounded-full bg-[#e9f6f1] px-3 py-1 font-semibold text-[#4c806e] dark:bg-[#18372e] dark:text-[#b8efd9]">
+            <span className="mobile-safe-text rounded-full bg-[#e9f6f1] px-3 py-1 font-semibold text-[#4c806e] dark:bg-[#18372e] dark:text-[#b8efd9]">
               正解：{formatCorrectAnswers(question)}
             </span>
             {question.answer_source === "official_correction" && (
