@@ -145,7 +145,7 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
         <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#d8eadf] bg-white/64 px-4 py-3 text-sm font-semibold leading-6 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#11241f] dark:text-[#b8efd9]">
           {keyPoint}
         </div>
-        <p className="mobile-safe-text mt-3 whitespace-pre-line text-sm leading-7 text-[#604b43] dark:text-[#eadbe3]">{explanation}</p>
+        <p className="mobile-safe-text explanation-text mt-3 text-sm leading-7 text-[#604b43] dark:text-[#eadbe3]">{explanation}</p>
         <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#f2d7a9] bg-[#fff8df] px-4 py-3 text-sm font-semibold text-[#7a6040] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]">
           {summary}
         </div>

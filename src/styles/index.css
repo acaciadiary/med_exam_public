@@ -413,6 +413,13 @@ select {
   hyphens: auto;
 }
 
+.explanation-text {
+  overflow-wrap: break-word;
+  word-break: normal;
+  line-break: auto;
+  white-space: pre-line;
+}
+
 .question-card-item,
 .question-card-item * {
   min-width: 0;
