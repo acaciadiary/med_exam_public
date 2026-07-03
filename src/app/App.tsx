@@ -72,7 +72,7 @@ type InstallAwareNavigator = Navigator & {
   getInstalledRelatedApps?: () => Promise<unknown[]>;
 };
 
-const siteUrl = "https://acaciadiary.github.io/exam_page_med/";
+const siteUrl = "https://acaciadiary.github.io/med_exam_public/";
 
 const pageSeo: Record<AppPage, { title: string; description: string; path: string }> = {
   home: {
