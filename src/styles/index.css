@@ -395,21 +395,21 @@ select {
   }
 }
 
-.question-card-item {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 240px;
-}
-
 .mobile-safe-text {
+  min-width: 0;
+  max-width: 100%;
   overflow-wrap: anywhere;
-  word-break: break-all;
+  word-break: break-word;
   line-break: anywhere;
   white-space: normal;
+  hyphens: auto;
 }
 
 .question-card-item,
 .question-card-item * {
+  min-width: 0;
   max-width: 100%;
+  box-sizing: border-box;
 }
 
 .question-card-item h2,
@@ -418,12 +418,13 @@ select {
 .question-card-item input,
 .question-card-item span {
   overflow-wrap: anywhere;
-  word-break: break-all;
+  word-break: break-word;
   line-break: anywhere;
 }
 
 .question-card-item button > span:last-child {
   display: block;
+  min-width: 0;
   white-space: normal;
 }
 

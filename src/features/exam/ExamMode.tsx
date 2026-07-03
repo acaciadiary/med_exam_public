@@ -2,6 +2,7 @@ import { ChevronDown, ChevronUp, BookOpenCheck, Layers3 } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import clsx from "clsx";
 import { CategoryFilter } from "../../components/CategoryFilter";
+import { useHorizontalDragScroll } from "../../hooks/useHorizontalDragScroll";
 import type { useMarkedItems } from "../../hooks/useMarkedItems";
 import {
   ALL_CATEGORIES,
@@ -290,6 +291,14 @@ export function ExamMode({
 
         <CategoryFilter options={categoryOptions} activeCategory={activeCategory} onChange={setActiveCategory} />
 
+        <QuestionJumpNav
+          questions={visibleQuestions}
+          answers={answers}
+          markedSet={markedQuestions.markedSet}
+          visibleCount={visibleCount}
+          onNavigate={navigateToQuestion}
+        />
+
         <div className="grid w-full min-w-0 max-w-full gap-5 sm:gap-6">
           {renderedQuestions.map((question, index) => (
             <div
@@ -349,6 +358,70 @@ export function ExamMode({
         onClearMarked={markedQuestions.clearMarked}
       />
     </div>
+  );
+}
+
+function QuestionJumpNav({
+  questions,
+  answers,
+  markedSet,
+  visibleCount,
+  onNavigate,
+}: {
+  questions: ExamDataset["questions"];
+  answers: AnswerState;
+  markedSet: Set<string>;
+  visibleCount: number;
+  onNavigate: (targetIndex: number) => void;
+}) {
+  const dragScrollProps = useHorizontalDragScroll();
+
+  if (questions.length === 0) return null;
+
+  return (
+    <nav
+      className="mb-5 w-full min-w-0 max-w-full overflow-hidden rounded-[1.15rem] border border-white/80 bg-white/72 p-3 shadow-[0_12px_34px_rgba(181,133,117,0.1)] backdrop-blur-2xl dark:border-white/12 dark:bg-[#2b2430]/78"
+      aria-label="題號快速跳轉"
+    >
+      <div className="mb-2 flex min-w-0 items-center justify-between gap-3 px-1">
+        <p className="text-xs font-bold tracking-[0.14em] text-[#9a496b] dark:text-[#f3a6c4]">
+          題號
+        </p>
+        <p className="text-xs font-semibold text-[#8a7066] dark:text-[#cbb8c2]">
+          共 {questions.length} 題
+        </p>
+      </div>
+      <div
+        {...dragScrollProps}
+        className="horizontal-drag-scroll flex w-full min-w-0 max-w-full gap-2 pb-1"
+      >
+        {questions.map((question, index) => {
+          const answered = Boolean(answers[question.id]);
+          const marked = markedSet.has(question.id);
+          const rendered = index < visibleCount;
+
+          return (
+            <button
+              key={question.id}
+              type="button"
+              onClick={() => onNavigate(index)}
+              className={clsx(
+                "flex h-10 min-w-10 shrink-0 items-center justify-center rounded-full border px-3 text-sm font-bold transition cursor-pointer",
+                answered
+                  ? "border-[#8fd5bd] bg-[#e7f8f0] text-[#315447] dark:border-[#4f9f84] dark:bg-[#17372e] dark:text-[#d7f7ec]"
+                  : "border-[#ead8cf] bg-white/82 text-[#725b52] hover:border-[#f1aac8] hover:bg-[#fff0f6] hover:text-[#9a496b] dark:border-white/12 dark:bg-[#241e2a] dark:text-[#eadbe3]",
+                marked && "ring-2 ring-[#f1aac8]/70",
+                !rendered && "border-dashed",
+              )}
+              aria-label={`題號 ${question.question_number}${answered ? "，已作答" : ""}${marked ? "，已收藏" : ""}`}
+              title={`第 ${question.question_number} 題`}
+            >
+              {question.question_number}
+            </button>
+          );
+        })}
+      </div>
+    </nav>
   );
 }
 

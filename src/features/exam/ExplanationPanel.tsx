@@ -123,8 +123,8 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
 
   return (
     <>
-      <div className="mt-6 rounded-[1.1rem] border border-[#d8eadf] bg-[#effaf5]/82 p-5 shadow-sm dark:border-[#3f6d5e] dark:bg-[#182f2a]/90">
-        <div className="flex flex-wrap items-center justify-between gap-3">
+      <div className="mt-6 box-border w-full min-w-0 max-w-full overflow-hidden rounded-[1.1rem] border border-[#d8eadf] bg-[#effaf5]/82 p-4 shadow-sm dark:border-[#3f6d5e] dark:bg-[#182f2a]/90 sm:p-5">
+        <div className="flex min-w-0 flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-2 text-sm font-semibold text-[#4c806e] dark:text-[#b8efd9]">
             <Lightbulb size={17} />
             詳解與考點提示
@@ -134,11 +134,11 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
             {statusText}
           </span>
         </div>
-        <div className="mt-4 rounded-[0.9rem] border border-[#d8eadf] bg-white/64 px-4 py-3 text-sm font-semibold leading-6 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#11241f] dark:text-[#b8efd9]">
+        <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#d8eadf] bg-white/64 px-4 py-3 text-sm font-semibold leading-6 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#11241f] dark:text-[#b8efd9]">
           {keyPoint}
         </div>
-        <p className="mt-3 whitespace-pre-line text-sm leading-7 text-[#604b43] dark:text-[#eadbe3]">{explanation}</p>
-        <div className="mt-4 rounded-[0.9rem] border border-[#f2d7a9] bg-[#fff8df] px-4 py-3 text-sm font-semibold text-[#7a6040] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]">
+        <p className="mobile-safe-text mt-3 whitespace-pre-line text-sm leading-7 text-[#604b43] dark:text-[#eadbe3]">{explanation}</p>
+        <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#f2d7a9] bg-[#fff8df] px-4 py-3 text-sm font-semibold text-[#7a6040] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]">
           {summary}
         </div>
       </div>
