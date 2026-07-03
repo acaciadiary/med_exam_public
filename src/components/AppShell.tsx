@@ -421,7 +421,7 @@ export function AppShell({
             !isVisible && "max-lg:-translate-y-full"
           )}
         >
-          <div className="mx-auto w-full max-w-[92rem] min-w-0 overflow-hidden rounded-[1.25rem] border border-white/80 bg-white/78 px-4 py-3 shadow-[0_12px_40px_rgba(181,133,117,0.12)] backdrop-blur-2xl sm:px-6">
+          <div className="mx-auto w-full max-w-[92rem] min-w-0 overflow-visible rounded-[1.25rem] border border-white/80 bg-white/78 px-4 py-3 shadow-[0_12px_40px_rgba(181,133,117,0.12)] backdrop-blur-2xl sm:px-6">
             {/* Desktop Header Layout */}
             <div className="hidden lg:flex items-center justify-between gap-4">
               <div className="flex items-center gap-3 min-w-0">
