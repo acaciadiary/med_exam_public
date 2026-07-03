@@ -27,7 +27,7 @@ export function MarkedQuestionSidebar({
   return (
     <aside
       className={clsx(
-        "sticky top-32 hidden max-h-[calc(100vh-9rem)] shrink-0 overflow-hidden rounded-[1.35rem] border border-white/80 bg-white/74 shadow-[0_18px_60px_rgba(181,133,117,0.16)] backdrop-blur-2xl transition-all lg:block",
+        "sticky top-32 hidden max-h-[calc(100vh-9rem)] shrink-0 overflow-hidden rounded-[1.35rem] border border-white/80 bg-white/74 shadow-[0_18px_60px_rgba(181,133,117,0.16)] backdrop-blur-2xl transition-all xl:block",
         collapsed ? "w-16" : "w-80",
       )}
     >

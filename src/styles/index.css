@@ -402,7 +402,29 @@ select {
 
 .mobile-safe-text {
   overflow-wrap: anywhere;
-  word-break: break-word;
+  word-break: break-all;
+  line-break: anywhere;
+  white-space: normal;
+}
+
+.question-card-item,
+.question-card-item * {
+  max-width: 100%;
+}
+
+.question-card-item h2,
+.question-card-item button > span:last-child,
+.question-card-item p,
+.question-card-item input,
+.question-card-item span {
+  overflow-wrap: anywhere;
+  word-break: break-all;
+  line-break: anywhere;
+}
+
+.question-card-item button > span:last-child {
+  display: block;
+  white-space: normal;
 }
 
 /* Highlighter Styles */
