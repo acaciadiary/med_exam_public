@@ -38,12 +38,23 @@ export function DiseaseComparePage({
   onToggleFavorite,
   onToggleFavoriteTag,
 }: DiseaseComparePageProps) {
-  const [subTab, setSubTab] = useState<"compare" | "instant_kill" | "glossary" | "eponyms" | "guidelines" | "buzzwords">("compare");
+  const [subTab, setSubTab] = useState<"compare" | "instant_kill" | "glossary" | "eponyms" | "guidelines" | "buzzwords">(() => {
+    const saved = localStorage.getItem("med_exam_subtab");
+    const validTabs = ["compare", "instant_kill", "glossary", "eponyms", "guidelines", "buzzwords"];
+    if (saved && validTabs.includes(saved)) {
+      return saved as "compare" | "instant_kill" | "glossary" | "eponyms" | "guidelines" | "buzzwords";
+    }
+    return "compare";
+  });
   const [groups, setGroups] = useState<DiseaseComparisonGroup[]>([]);
   const [selectedGroupId, setSelectedGroupId] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string>("");
   const [collapsedStages, setCollapsedStages] = useState<Record<string, boolean>>({});
+
+  useEffect(() => {
+    localStorage.setItem("med_exam_subtab", subTab);
+  }, [subTab]);
 
   const toggleStageCollapse = (stageName: string) => {
     setCollapsedStages((prev) => ({
