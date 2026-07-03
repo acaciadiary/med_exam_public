@@ -17,7 +17,7 @@ export function AnswerOptions({
   onAnswer,
 }: AnswerOptionsProps) {
   return (
-    <div className="mt-5 grid w-full min-w-0 max-w-full gap-3 sm:mt-6">
+    <div className="answer-options mt-5 grid w-full min-w-0 max-w-full gap-3 sm:mt-6">
       {optionKeys.map((option) => {
         const tone = getOptionTone(selected, acceptedAnswers(question), option);
 
@@ -27,7 +27,7 @@ export function AnswerOptions({
             type="button"
             onClick={() => onAnswer(option)}
             className={clsx(
-              "group box-border flex min-h-[4.75rem] w-full min-w-0 max-w-full touch-manipulation items-start gap-3 rounded-[1.05rem] border px-3 py-4 text-left shadow-sm transition sm:min-h-16 sm:gap-4 sm:px-4",
+              "answer-option-button group box-border flex min-h-[4.75rem] w-full min-w-0 max-w-full touch-manipulation items-start gap-3 rounded-[1.05rem] border px-3 py-4 text-left shadow-sm transition sm:min-h-16 sm:gap-4 sm:px-4",
               tone === "correct" &&
                 "border-[#8fd5bd] bg-[#e7f8f0] text-[#315447] shadow-[0_12px_28px_rgba(132,197,174,0.2)] dark:border-[#4f9f84] dark:bg-[#17372e] dark:text-[#d7f7ec] dark:shadow-[0_12px_28px_rgba(27,79,64,0.28)]",
               tone === "wrong" &&
@@ -40,7 +40,7 @@ export function AnswerOptions({
           >
             <span
               className={clsx(
-                "flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-sm font-bold sm:h-8 sm:w-8",
+                "answer-option-marker flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-sm font-bold sm:h-8 sm:w-8",
                 tone === "correct" && "bg-[#9edcc5] text-[#315447] dark:bg-[#65c7a5] dark:text-[#102821]",
                 tone === "wrong" && "bg-[#efa6b9] text-white dark:bg-[#d87a99] dark:text-[#2b1720]",
                 tone === "muted" && "bg-[#f3e7e0] text-[#aa9186] dark:bg-[#352c3b] dark:text-[#a997a3]",
@@ -56,7 +56,7 @@ export function AnswerOptions({
                 option
               )}
             </span>
-            <span className="mobile-safe-text block min-w-0 max-w-full flex-1 whitespace-normal text-[1rem] leading-7 sm:text-base">
+            <span className="answer-option-text mobile-safe-text block min-w-0 max-w-full flex-1 whitespace-normal text-[1rem] leading-7 sm:text-base">
               {question.options[option]}
             </span>
           </button>

@@ -561,7 +561,7 @@ export function AppShell({
         </header>
 
         {/* Main Content Area */}
-        <main className="relative z-10 mx-auto w-full max-w-[92rem] min-w-0 flex-1 overflow-x-hidden px-4 py-6 pb-24 sm:px-6 lg:px-8 lg:pb-8">
+        <main className="relative z-10 mx-auto w-full max-w-[92rem] min-w-0 flex-1 overflow-x-hidden px-3 py-6 pb-28 sm:px-6 lg:px-8 lg:pb-8">
           {children}
         </main>
       </div>
@@ -647,7 +647,7 @@ export function AppShell({
       {/* Mobile Floating Bottom Navigation Bar */}
       <nav
         className={clsx(
-          "fixed bottom-4 left-1/2 z-40 flex h-16 w-[92%] max-w-[28rem] -translate-x-1/2 items-center justify-around rounded-full border bg-white/78 px-3 shadow-[0_12px_36px_rgba(181,133,117,0.2)] backdrop-blur-2xl lg:hidden transition-transform duration-300 ease-in-out",
+          "mobile-bottom-nav fixed bottom-3 left-1/2 z-40 grid h-16 w-[calc(100vw-1rem)] max-w-[28rem] -translate-x-1/2 grid-cols-7 items-center rounded-full border bg-white/78 px-2 shadow-[0_12px_36px_rgba(181,133,117,0.2)] backdrop-blur-2xl lg:hidden transition-transform duration-300 ease-in-out",
           theme === "dark"
             ? "border-white/10 bg-[#2b2430]/78"
             : theme === "clinical"
@@ -683,7 +683,7 @@ export function AppShell({
         type="button"
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
         className={clsx(
-          "fixed right-5 z-50 inline-flex h-12 w-12 items-center justify-center rounded-full border border-[#f1aac8] bg-white/90 text-[#9a496b] shadow-[0_12px_34px_rgba(181,133,117,0.2)] backdrop-blur-xl transition-all duration-300 ease-in-out hover:-translate-y-0.5 hover:bg-[#fff0f6] focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/55 sm:right-6 lg:right-6",
+          "mobile-floating-button fixed right-4 z-50 inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#f1aac8] bg-white/90 text-[#9a496b] shadow-[0_12px_34px_rgba(181,133,117,0.2)] backdrop-blur-xl transition-all duration-300 ease-in-out hover:-translate-y-0.5 hover:bg-[#fff0f6] focus:outline-none focus:ring-4 focus:ring-[#ffd9e8]/55 sm:right-6 sm:h-12 sm:w-12 lg:right-6",
           "bottom-24 sm:bottom-6 lg:bottom-6",
           !isVisible && "max-sm:translate-y-18"
         )}
@@ -783,7 +783,7 @@ function MobileNavLink({
       type="button"
       onClick={onClick}
       className={clsx(
-        "relative flex flex-col items-center justify-center w-12 h-12 rounded-xl transition cursor-pointer font-hand",
+        "mobile-nav-link relative flex min-w-0 flex-col items-center justify-center justify-self-center w-11 h-12 rounded-xl transition cursor-pointer font-hand",
         active
           ? theme === "dark" ? "text-[#f3a6c4]" : theme === "clinical" ? "text-[#1f4e79]" : "text-[#9a496b]"
           : theme === "dark" ? "text-[#a2949e] hover:text-[#f3a6c4]" : theme === "clinical" ? "text-[#5b6f82] hover:text-[#1f4e79]" : "text-[#8b7666] hover:text-[#9a496b]"
@@ -800,7 +800,7 @@ function MobileNavLink({
         />
       )}
       <span className="shrink-0">{icon}</span>
-      <span className="text-[10px] font-bold tracking-[0.02em] mt-0.5">{label}</span>
+      <span className="mobile-nav-label text-[10px] font-bold tracking-[0.02em] mt-0.5">{label}</span>
       {typeof badge === "number" && badge > 0 ? (
         <span className={clsx(
           "absolute -top-1 -right-1 inline-flex min-w-4 h-4 items-center justify-center rounded-full text-[9px] font-extrabold text-white px-1 shadow-sm border",
@@ -1067,7 +1067,7 @@ function FloatingSettingsButton({
   return (
     <div
       className={clsx(
-        "fixed right-20 z-50 bottom-24 sm:bottom-6 lg:bottom-6 transition-all duration-300 ease-in-out",
+        "mobile-floating-settings fixed right-[4.25rem] z-50 bottom-24 sm:bottom-6 lg:bottom-6 transition-all duration-300 ease-in-out",
         !isVisible && "max-sm:translate-y-18",
       )}
       onBlur={(event) => {
