@@ -49,7 +49,7 @@ def main():
     items_to_process = done_data if isinstance(done_data, list) else done_data.get("items", [])
     
     for item in items_to_process:
-        qid = item.get("question_id") or item.get("id")
+        qid = item.get("question_id")
         if not qid:
             continue
             
