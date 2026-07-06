@@ -1,91 +1,54 @@
 import json
-import os
+from pathlib import Path
 
-def check_status():
-    manifest_path = "public/data/manifest.json"
-    if not os.path.exists(manifest_path):
-        print("manifest.json not found!")
-        return
+json_path = Path("public/data/exams/113-2/medicine-6.json")
+with open(json_path, "r", encoding="utf-8") as f:
+    data = json.load(f)
 
-    with open(manifest_path, 'r', encoding='utf-8') as f:
-        manifest = json.load(f)
+questions = data.get("questions", [])
+print(f"Total questions: {len(questions)}")
 
-    exams = manifest.get("exams", [])
+empty_count = 0
+invalid_format_count = 0
+banned_words_count = 0
+
+banned_words = [
+    "非本題答案",
+    "不是本題標準答案",
+    "回到題幹線索",
+    "請用題幹線索連回",
+    "題目中選項 A 所代表的鑑別或處置",
+    "不能最精準回答本題",
+    "最符合題幹",
+    "核心記憶點",
+    "定義、機轉、典型表現或處置原則"
+]
+
+for q in questions:
+    exp = q.get("explanation", "")
+    qid = q.get("id")
+    qnum = q.get("question_number")
     
-    # Group by year
-    by_year = {}
-    for exam in exams:
-        year = exam["year"]
-        if year not in by_year:
-            by_year[year] = []
-        by_year[year].append(exam)
-
-    print(f"{'Year':<8} | {'Exam ID':<20} | {'Total Qs':<8} | {'With Exp':<8} | {'Pct':<6} | {'Missing Qs'}")
-    print("-" * 80)
-
-    summary_by_year = {}
-
-    for year in sorted(by_year.keys()):
-        year_total_qs = 0
-        year_exp_qs = 0
-        year_exams_info = []
+    if not exp.strip():
+        empty_count += 1
+        continue
         
-        for exam in by_year[year]:
-            exam_id = exam["id"]
-            path = os.path.join("public", exam["path"].replace("/", os.sep))
-            
-            if not os.path.exists(path):
-                print(f"File not found: {path} for exam {exam_id}")
-                continue
-                
-            with open(path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                
-            questions = data.get("questions", [])
-            total_qs = len(questions)
-            
-            # check how many have non-empty explanation
-            with_exp = 0
-            missing = []
-            for q in questions:
-                # check if explanation is empty or default or missing
-                exp = q.get("explanation", "").strip()
-                # standard check for valid explanation
-                # let's also check if review_status is empty or not
-                if exp and exp != "" and "請在此填寫" not in exp:
-                    with_exp += 1
-                else:
-                    missing.append(q.get("question_number", "?"))
-                    
-            year_total_qs += total_qs
-            year_exp_qs += with_exp
-            
-            pct = (with_exp / total_qs * 100) if total_qs > 0 else 0
-            missing_str = ", ".join(map(str, missing[:10])) + ("..." if len(missing) > 10 else "")
-            if not missing_str:
-                missing_str = "None"
-            print(f"{year:<8} | {exam_id:<20} | {total_qs:<8} | {with_exp:<8} | {pct:.1f}% | {missing_str}")
-            
-            year_exams_info.append({
-                "id": exam_id,
-                "total": total_qs,
-                "with_exp": with_exp
-            })
-            
-        summary_by_year[year] = {
-            "total_qs": year_total_qs,
-            "exp_qs": year_exp_qs,
-            "pct": (year_exp_qs / year_total_qs * 100) if year_total_qs > 0 else 0,
-            "exams": year_exams_info
-        }
-        print("-" * 80)
+    # Check format
+    has_tigan = "【題幹解析】" in exp
+    has_options = "【選項詳解】" in exp
+    has_core = "【核心考點】" in exp
+    
+    if not (has_tigan and has_options and has_core):
+        invalid_format_count += 1
+        print(f"Q {qnum} ({qid}) missing required headers")
+        continue
+        
+    # Check banned words
+    found_banned = [w for w in banned_words if w in exp]
+    if found_banned:
+        banned_words_count += 1
+        print(f"Q {qnum} ({qid}) has banned words: {found_banned}")
 
-    print("\nSummary by Year:")
-    print(f"{'Year':<8} | {'Total Qs':<8} | {'With Exp':<8} | {'Pct':<8} | {'Status'}")
-    print("-" * 50)
-    for year, info in sorted(summary_by_year.items()):
-        status = "Ready" if info["pct"] == 100.0 else "Incomplete"
-        print(f"{year:<8} | {info['total_qs']:<8} | {info['exp_qs']:<8} | {info['pct']:.1f}% | {status}")
-
-if __name__ == "__main__":
-    check_status()
+print(f"Empty: {empty_count}")
+print(f"Invalid format: {invalid_format_count}")
+print(f"Has banned words: {banned_words_count}")

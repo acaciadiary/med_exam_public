@@ -307,10 +307,10 @@
         "D": "傳統的動脈粥狀硬化危險因子,常會合併出現在鈣化性主動脈瓣狹窄的進展過程中"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於瓣膜性心臟病的描述,下列何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「隨著人口的老化,感染性心內膜炎的發生率升高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「成人發生的主動脈瓣狹窄,主要是因主動脈瓣退化性鈣化造成的」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「傳統的動脈粥狀硬化危險因子,常會合併出現在鈣化性主動脈瓣狹窄的進展過程中」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查主動脈瓣二葉畸形（Bicuspid aortic valve, BAV）伴隨之大血管病變解剖部位，以及常見瓣膜性心臟病的病理與流行病學特徵。\n\n【選項詳解】\n- A. 主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓：敘述錯誤，為本題答案。BAV 相關的主動脈病變（BAV aortopathy）主要影響「升主動脈（ascending aorta）」及主動脈根部（aortic root），常導致主動脈擴張、主動脈瘤，甚至主動脈剝離，而非主要發生在主動脈弓。\n- B. 隨著人口的老化,感染性心內膜炎的發生率升高：敘述正確。老年人口常伴隨退化性瓣膜疾病、植入式心臟節律器/除顫器以及人工瓣膜置換的增加，使得感染性心內膜炎（IE）在老年族群的發生率逐年上升。\n- C. 成人發生的主動脈瓣狹窄,主要是因主動脈瓣退化性鈣化造成的：敘述正確。在已開發國家中，退化性鈣化（calcific aortic stenosis）是成人主動脈瓣狹窄最主要且常見的病因。\n- D. 傳統的動脈粥狀硬化危險因子,常會合併出現在鈣化性主動脈瓣狹窄的進展過程中：敘述正確。鈣化性主動脈瓣狹窄的病理進程（如內皮受損、脂質浸潤、慢性發炎）與動脈粥狀硬化極為相似，因此高血壓、高血脂、糖尿病等危險因子常與此病並存且加速其鈣化進展。\n\n【核心考點】\n1. BAV 常合併升主動脈及主動脈根部病變，需定期安排超音波或電腦斷層監控。\n2. 退化性鈣化是已開發國家成人主動脈瓣狹窄（AS）最常見原因，且其危險因子與動脈粥狀硬化重疊。",
       "key_point": "錯誤敘述判斷：A. 主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓",
       "flashcard_summary": "瓣膜性心臟病的描述 -> A. 主動脈瓣二葉畸形(bicuspid aortic valve)伴隨的主動脈病變,主要是發生在主動脈弓",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -322,7 +322,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -336,10 +336,10 @@
         "D": "心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺\n (pericardiocentesis)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於心包膜疾病的描述,下列何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺 (pericardiocentesis)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心包填塞(cardiac tamponade)的三個主要特徵(Beck's triad)為hypotension、pericardial\n friction rub和jugular venous distention」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「心包膜積水在臨床優先考慮的診斷工具為胸部X光」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「限制性心肌病(restrictive cardiomyopathy)經常合併有束縮性心包膜炎(constrictive\n pericarditis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺\n (pericardiocentesis)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺 (pericardiocentesis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查心包膜疾病的診斷與急症處置，包含心包填塞（cardiac tamponade）的 Beck's triad、診斷工具的選擇，以及與限制性心肌病的鑑別診斷。\n\n【選項詳解】\n- A. 心包填塞(cardiac tamponade)的三個主要特徵(Beck's triad)為hypotension、pericardial friction rub和jugular venous distention：敘述錯誤。Beck's triad 包括：低血壓（hypotension）、頸靜脈怒張（jugular venous distention）以及「心音遙遠（muffled heart sounds）」，心包膜摩擦音（pericardial friction rub）是急性心包膜炎的體徵，而非心包填塞三聯徵。\n- B. 心包膜積水在臨床優先考慮的診斷工具為胸部X光：敘述錯誤。評估心包膜積水（pericardial effusion）首選且最具診斷價值的工具是「心臟超音波（echocardiography）」，可快速定量積液並評估有無右心室塌陷等填塞徵象。胸部 X 光僅能顯示心影擴大，無法確診積水。\n- C. 限制性心肌病(restrictive cardiomyopathy)經常合併有束縮性心包膜炎(constrictive pericarditis)：敘述錯誤。限制性心肌病（心肌病變）與縮窄性心包炎（心包膜病變）是兩種病理機制與部位不同的獨立疾病，臨床上雖然皆以舒張期充盈受限為表現且需做鑑別診斷，但兩者並不經常合併發生。\n- D. 心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺(pericardiocentesis)：敘述正確，為本題答案。心包填塞會壓迫心臟，導致心輸出量和血壓驟降，屬於需立即處理的致命急症，臨床應立刻施行心包膜穿刺術引流積液，以解除心臟壓迫。\n\n【核心考點】\n1. 心包填塞診斷與急救：臨床首選心臟超音波確診，一旦發生填塞應立即進行心包膜穿刺引流。\n2. Beck's triad 組成：低血壓、頸靜脈怒張、心音遙遠。\n3. 限制性心肌病與縮窄性心包炎的臨床鑑別是國考極常見的考點。",
       "key_point": "正確觀念：D. 心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺 (pericardiocentesis)",
       "flashcard_summary": "心包膜疾病的描述 -> D. 心包膜積水的病人一旦發現有心包填塞(cardiac tamponade),此時應緊急施行心包腔穿刺 (pericardiocentesis)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -351,7 +351,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -365,10 +365,10 @@
         "D": "左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射\n 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重\n 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關心衰竭的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「冠狀動脈疾病通常被認為是心衰竭的重要原因」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「心衰竭在家族裡可有群聚效應。例如,親代心衰竭與其後代的左心室質量、心臟大小、收縮功能異常的比\n 例有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「長期嚴重高血壓也是造成心衰竭的原因之一」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射\n 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重\n 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查心衰竭（heart failure）的病因、遺傳傾向，以及左心室射出分率降低的心衰竭（HFrEF）與左心室射出分率保留的心衰竭（HFpEF）在病生理和藥物治療上的重要差異。\n\n【選項詳解】\n- A. 冠狀動脈疾病通常被認為是心衰竭的重要原因：敘述正確。冠狀動脈疾病（CAD）導致的心肌缺血或心肌梗塞，是引發左心室收縮功能障礙（HFrEF）最常見的病因之一。\n- B. 心衰竭在家族裡可有群聚效應。例如,親代心衰竭與其後代的左心室質量、心臟大小、收縮功能異常的比例有關：敘述正確。部分心衰竭（如擴大性心肌病等）具有顯著的遺傳敏感性，流行病學顯示親代若有心衰竭，後代出現左心室質量異常或心臟擴大的風險會上升。\n- C. 長期嚴重高血壓也是造成心衰竭的原因之一：敘述正確。長期未受控制的高血壓會增加左心室後負荷，造成心肌向心性肥大與纖維化，最終演變為心衰竭。\n- D. 左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的：敘述錯誤，為本題答案。HFrEF 與 HFpEF 在病生理機轉與藥物療效上存在顯著差異。許多在 HFrEF 能顯著降低死亡率的藥物（如 Beta-blockers、MRA、ARNI），在 HFpEF 的臨床試驗中主要僅能降低住院率，而未能證實能顯著降低死亡率，兩者效果並不相同。\n\n【核心考點】\n1. HFrEF（收縮功能受損，LVEF <= 40%）與 HFpEF（舒張功能受損，LVEF >= 50%）的治療反應及預後不同。\n2. 高血壓與冠狀動脈疾病是心衰竭的兩大核心病因。",
       "key_point": "錯誤敘述判斷：D. 左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的",
       "flashcard_summary": "心衰竭的敘述 -> D. 左心室射出分率正常的心衰竭(heart failure with preserved ejection fraction)的病人與左心室射 出分率降低的心衰竭(heart failure with reduced ejection fraction)的病人其病因存在相當大的重 疊,以目前藥物治療臨床試驗對兩者的效果看起來是相同的",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -380,7 +380,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -394,10 +394,10 @@
         "D": "核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其\n 是在多支血管疾病的情況下"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關心臟核子醫學心肌灌注掃描SPECT的描述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其 是在多支血管疾病的情況下，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「壓力測試核子醫學心肌灌注掃描(SPECT)常用於冠狀動脈疾病評估」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「附圖(左)核子醫學心肌灌注掃描(SPECT)呈現可逆的心肌灌注缺損,暗示心肌有缺血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「附圖(右)核子醫學心肌灌注掃描(SPECT)則呈現固定的灌注缺損,通常反映陳舊性心肌梗塞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其\n 是在多支血管疾病的情況下」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其 是在多支血管疾病的情況下 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查心臟核子醫學心肌灌注掃描（SPECT）的病生理機制與臨床應用，並與電腦斷層冠狀動脈造影（CCTA）進行診斷敏感度的比較。\n\n【選項詳解】\n- A. 壓力測試核子醫學心肌灌注掃描(SPECT)常用於冠狀動脈疾病評估：敘述正確。利用運動或藥物（如 Dipyridamole）進行壓力測試下的心肌灌注掃描，可偵測缺血引起的心肌血流分布不均，常用於評估冠狀動脈疾病（CAD）。\n- B. 附圖(左)核子醫學心肌灌注掃描(SPECT)呈現可逆的心肌灌注缺損,暗示心肌有缺血：敘述正確。壓力相下出現灌注缺損，而休息相下灌注恢復正常，稱為「可逆性缺損（reversible defect）」，代表該處心肌仍存活，但存在負荷誘發的心肌缺血。\n- C. 附圖(right)核子醫學心肌灌注掃描(SPECT)則呈現固定的灌注缺損,通常反映陳舊性心肌梗塞：敘述正確。不論在壓力或休息狀態下均呈現相同的灌注缺損，稱為「固定性缺損（fixed defect）」，代表該區域已無血流灌注（如壞死心肌或疤痕組織），通常反映陳舊性心肌梗塞。\n- D. 核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其是在多支血管疾病的情況下：敘述錯誤，為本題答案。電腦斷層冠狀動脈造影（CCTA）是結構性檢查，其診斷冠狀動脈病變的敏感度（通常 > 95-99%）顯著高於 SPECT。在三支血管疾病（three-vessel disease）中，由於全心均勻缺血，SPECT 可能會因為缺乏正常心肌做為對照而出現「平衡性缺血（balanced ischemia）」，進而造成偽陰性，因此敏感度反而下降。\n\n【核心考點】\n1. SPECT 可逆性缺損代表心肌缺血（存活心肌）；固定性缺損代表心肌梗塞（壞死/疤痕組織）。\n2. CCTA 對於冠狀動脈狹窄具有極高的排除率與敏感度；SPECT 則偏重功能性與缺血範圍評估。",
       "key_point": "錯誤敘述判斷：D. 核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其 是在多支血管疾病的情況下",
       "flashcard_summary": "心臟核子醫學心肌灌注掃描SPECT的描述 / SPECT -> D. 核子醫學心肌灌注掃描(SPECT)與電腦斷層冠狀動脈造影相比,對於冠狀動脈疾病的診斷更加敏感,尤其 是在多支血管疾病的情況下",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -409,7 +409,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -423,10 +423,10 @@
         "D": "病患血清中常出現抗核抗體(antinuclear antibody)、antibody to liver-kidney microsomes(anti-\n LKM)等自體抗體"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關自體免疫肝炎(autoimmune hepatitis)的病理機轉,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 肝臟內調節性T淋巴細胞(regulatory T cells)活性上升，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「病理特色為肝細胞的壞死發炎,經常合併纖維化,可能導致肝硬化甚至肝衰竭」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「肝臟內調節性T淋巴細胞(regulatory T cells)活性上升」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「CTLA-4或TNFA*2的基因多形性(polymorphism)和此疾病的發生有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「病患血清中常出現抗核抗體(antinuclear antibody)、antibody to liver-kidney microsomes(anti-\n LKM)等自體抗體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 肝臟內調節性T淋巴細胞(regulatory T cells)活性上升 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查自體免疫肝炎（Autoimmune hepatitis, AIH）的病理組織特徵、遺傳易感基因，以及病理生理機轉中關鍵免疫細胞（調節性 T 細胞）的活性變化。\n\n【選項詳解】\n- A. 病理特色為肝細胞的壞死發炎,經常合併纖維化,可能導致肝硬化甚至肝衰竭：敘述正確。AIH 典型病理表現為界面性肝炎（interface hepatitis）、淋巴漿細胞浸潤，若未予適當免疫抑制治療，慢性肝炎會逐漸進展為纖維化、肝硬化及肝衰竭。\n- B. 肝臟內調節性T淋巴細胞(regulatory T cells)活性上升：敘述錯誤，為本題答案。自體免疫肝炎的病理機轉是由於免疫耐受性受損，主要表現為具備抑制免疫反應功能的「調節性 T 細胞（Tregs）數量減少或活性下降（impaired function）」，導致自體反應性 T 細胞無法被有效抑制而攻擊肝細胞。\n- C. CTLA-4或TNFA*2的基因多形性(polymorphism)和此疾病的發生有關：敘述正確。CTLA-4（調節 T 細胞活化的重要分子）及腫瘤壞死因子-alpha（TNFA*2）的基因多型性已被證實與 AIH 的遺傳易感性具有顯著關聯。\n- D. 病患血清中常出現抗核抗體(antinuclear antibody)、antibody to liver-kidney microsomes(anti-LKM)等自體抗體：敘述正確。第一型 AIH 常出現 ANA 或 ASMA 陽性；第二型 AIH 則以抗 LKM1 或抗 LC1（anti-liver cytosol 1）抗體為特徵。\n\n【核心考點】\n1. AIH 的致病機轉涉及 Tregs 功能缺陷或數量減少，導致自體反應性淋巴細胞攻擊肝細胞。\n2. 自體抗體是區分 AIH 亞型（Type 1 vs. Type 2）的重要依據。",
       "key_point": "錯誤敘述判斷：B. 肝臟內調節性T淋巴細胞(regulatory T cells)活性上升",
       "flashcard_summary": "自體免疫肝炎(autoimmune hepatitis)的病理機轉 / autoimmune hepatitis -> B. 肝臟內調節性T淋巴細胞(regulatory T cells)活性上升",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -438,7 +438,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -452,10 +452,10 @@
         "D": "Escherichia coli是最常見的感染細菌"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「一位50歲糖尿病人主訴右上腹痛、發燒5天來醫院求診,電腦斷層圖示如附圖,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. Escherichia coli是最常見的感染細菌，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「應做血液細菌培養」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「安排肝病灶抽吸」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「有肝腫瘤可能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「Escherichia coli是最常見的感染細菌」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. Escherichia coli是最常見的感染細菌 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查糖尿病患者併發細菌性肝膿瘍（Pyogenic liver abscess）的診斷處置、臨床特徵及台灣地區本土流行病學中最常見的致病菌株。\n\n【選項詳解】\n- A. 應做血液細菌培養：敘述正確。疑似細菌性肝膿瘍患者應在投予抗生素前，儘速進行血液培養以確定致病菌。\n- B. 安排肝病灶抽吸：敘述正確。肝病灶抽吸（aspiration）或引流不僅能提供膿液進行細菌培養與敏感性試驗以指引抗生素治療，也是解除膿瘍壓力的關鍵治療手段。\n- C. 有肝腫瘤可能：敘述正確。電腦斷層上呈現的低密度病灶需與壞死性原發性肝癌（HCC）或轉移性肝腫瘤進行鑑別診斷，必要時需進行病理細胞學切片檢查。\n- D. Escherichia coli是最常見的感染細菌：敘述錯誤，為本題答案。在台灣及東亞地區的本土流行病學中，特別是合併有糖尿病的患者，細菌性肝膿瘍最常見的致病菌是「肺炎克雷伯氏菌（Klebsiella pneumoniae）」，約佔 70% 以上，而非大腸桿菌（Escherichia coli）。\n\n【核心考點】\n1. 台灣細菌性肝膿瘍最常見致病菌為 Klebsiella pneumoniae，尤其是糖尿病患者，且此菌易合併眼內炎（endophthalmitis）或轉移性感染。\n2. 肝膿瘍診斷需結合影像學、血液及膿液培養，治療原則為抗生素加上適當引流。",
       "key_point": "錯誤敘述判斷：D. Escherichia coli是最常見的感染細菌",
       "flashcard_summary": "一位50歲糖尿病人主訴右上腹痛、發燒5天來醫院求診,電腦斷層圖示如附圖 -> D. Escherichia coli是最常見的感染細菌",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -467,7 +467,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -481,10 +481,10 @@
         "D": "糞便體積增加劑(bulking agent)、止瀉劑、瀉劑、抗腸痙攣藥物、血清素促進劑或拮抗劑、抗憂鬱劑、\n 選擇性血清素回收抑制劑等藥物及益生菌可以用來治療"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於腸躁症(irritable bowel syndrome)的敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「可以依照症狀分為便秘型、腹瀉型及混合型」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「治療上的第一步是同理及支持病人,建議飲食上避免會發酵的寡糖類及豆類食物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「糞便體積增加劑(bulking agent)、止瀉劑、瀉劑、抗腸痙攣藥物、血清素促進劑或拮抗劑、抗憂鬱劑、\n 選擇性血清素回收抑制劑等藥物及益生菌可以用來治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查腸躁症（Irritable bowel syndrome, IBS）的羅馬診斷分型、臨床治療方針（包括低 FODMAP 飲食與藥物應用），以及如何透過糞便檢查排除其他器質性腸道疾病。\n\n【選項詳解】\n- A. 糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多：敘述錯誤，為本題答案。IBS 屬於功能性胃腸障礙，腸道黏膜並無實質發炎、潰瘍或結構性病變。因此，患者的糞便潛血應呈陰性，且不應出現糞便白血球。若檢查發現潛血陽性或白血球過多，應優先懷疑發炎性腸病（IBD）或大腸癌等器質性疾病。\n- B. 可以依照症狀分為便秘型、腹瀉型及混合型：敘述正確。臨床上根據主要排便習慣的異常，可將 IBS 分為便秘型（IBS-C）、腹瀉型（IBS-D）、混合型（IBS-M）及未分類型（IBS-U）。\n- C. 治療上的第一步是同理及支持病人,建議飲食上避免會發酵的寡糖類及豆類食物：敘述正確。建立良好醫病關係是治療的第一步，且飲食衛教建議避免高發酵性寡糖、雙糖、單糖及多元醇（低 FODMAP 飲食），以改善腹脹與排便異常。\n- D. 糞便體積增加劑(bulking agent)、止瀉劑、瀉劑、抗腸痙攣藥物、血清素促進劑或拮抗劑、抗憂鬱劑、選擇性血清素回收抑制劑等藥物及益生菌可以用來治療：敘述正確。IBS 的治療依症狀而定，可給予膨脹性瀉劑、解痙劑（抗膽鹼藥）、止瀉劑（如 Loperamide），或針對內臟敏感度給予 TCA、SSRI，益生菌也有所助益。\n\n【核心考點】\n1. IBS 屬於排除性診斷的功能性疾病，糞便潛血或白血球陽性為警示症狀（alarm symptoms），代表非 IBS。\n2. 低 FODMAP 飲食可有效減輕 IBS 患者之腸胃道症狀。",
       "key_point": "錯誤敘述判斷：A. 糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多",
       "flashcard_summary": "腸躁症(irritable bowel syndrome)的敘述 / irritable bowel syndrome -> A. 糞便檢查常見糞便潛血反應,也可見到糞便中白血球過多",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -496,7 +496,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -510,10 +510,10 @@
         "D": "小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸\n 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於急性腸阻塞(acute intestinal obstruction)的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「機械性腸阻塞(mechanical obstruction)常見的原因為術後沾黏、腫瘤、疝氣、腸套疊或是腸扭轉,以\n 及發炎性腸病變」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「腸功能性阻塞也稱為偽阻塞(pseudo-obstruction),主要是腸道蠕動功能異常引起,常見的原因為脊椎\n 受傷、代謝及電解質異常、使用鴉片類或是抗膽鹼藥物、腸道缺血等」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「機械性腸阻塞(mechanical obstruction)阻塞處前端的腸子會擴大,腸管腔內壓力上升,之後導致腸壁\n 水腫及缺氧,最後腸壁會缺血及壞死」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸\n 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查急性腸阻塞（intestinal obstruction）的病理生理分類（機械性 vs. 功能性）、發病機制中腸壁血液循環的演變，以及小腸阻塞早期與晚期聽診腸音的特徵變化。\n\n【選項詳解】\n- A. 機械性腸阻塞(mechanical obstruction)常見的原因為術後沾黏、腫瘤、疝氣、腸套疊或是腸扭轉,以及發炎性腸病變：敘述正確。機械性阻塞是指腸腔受到物理性阻塞，最常見原因為手術後沾黏，其他包括腫瘤、腹股溝疝氣、腸扭轉、腸套疊等。\n- B. 腸功能性阻塞也稱為偽阻塞(pseudo-obstruction),主要是腸道蠕動功能異常引起,常見的原因為脊椎受傷、代謝及電解質異常、使用鴉片類或是抗膽鹼藥物、腸道缺血等：敘述正確。功能性腸阻塞是由於腸道神經肌肉功能障礙導致蠕動喪失，常見於腹膜炎、電解質失衡（如低血鉀）、藥物影響（如類鴉片止痛藥、抗膽鹼藥物）或脊髓損傷後。\n- C. 機械性腸阻塞(mechanical obstruction)阻塞處前端的腸子會擴大,腸管腔內壓力上升,之後導致腸壁水腫及缺氧,最後腸壁會缺血及壞死：敘述正確。阻塞近端會因積氣與積水而擴張，造成腸腔內壓升高，阻礙淋巴與靜脈回流，進而引發腸壁水腫、動脈供血不足、缺血甚至壞死穿孔。\n- D. 小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音：敘述錯誤，為本題答案。機械性腸阻塞的早期，腸道會試圖克服阻塞而增強蠕動，此時可聞及「亢進、高頻率、帶金屬音的腸音（hyperactive, high-pitched, metallic bowel sounds）」；隨著阻塞時間延長，腸道疲勞、缺血或發生腹膜炎時，腸蠕動才會減弱，最終進展為腸音變慢（hypoactive）或完全消失（absent）。選項將兩者發生順序顛倒。\n\n【核心考點】\n1. 機械性腸阻塞早期腸音亢進（高頻、金屬音），晚期或功能性腸阻塞則腸音減弱或消失。\n2. 機械性腸阻塞最常見病因為術後沾黏，治療首重禁食、鼻胃管減壓及靜脈輸液，必要時緊急手術處置。",
       "key_point": "錯誤敘述判斷：D. 小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音",
       "flashcard_summary": "急性腸阻塞(acute intestinal obstruction)的敘述 / acute intestinal obstruction -> D. 小腸阻塞時,腸音常會先由正常變慢(hypoactive)進展為無腸音(absent bowel sound)。之後因為腸 子加速蠕動,會形成高頻(high-pitched)快速蠕動的腸音",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -525,7 +525,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -539,10 +539,10 @@
         "D": "十至十四日療程之bismuth quadruple therapy(proton pump inhibitor, bismuth, tetracycline,\n metronidazole)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加,因此必須選擇適當且高成功率之幽門螺旋桿\n 菌除菌方法。下列除菌療法在clarithromycin抗藥比例小於15%之地區,何者目前不推薦使用?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「十四日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin,\n amoxicillin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「十至十四日療程之concomitant therapy(proton pump inhibitor, clarithromycin, amoxicillin,\n metronidazole)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「十至十四日療程之bismuth quadruple therapy(proton pump inhibitor, bismuth, tetracycline,\n metronidazole)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查幽門螺旋桿菌（Helicobacter pylori）除菌療法的選擇。在 Clarithromycin 抗藥性較低的地區，應根據各療法的療程長短及除菌成功率共識，選用最適當的處置方案。\n\n【選項詳解】\n- A. 七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)：敘述錯誤，為本題答案。過去常用的標準三聯療法，若「僅給予 7 天療程」，其除菌成功率（eradication rate）在大多數地區已降至 80% 以下，因此不論抗藥性高低，目前臨床指引均「不再推薦使用 7 天三聯療法」方案。\n- B. 十四日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)：敘述正確。在 Clarithromycin 抗藥性小於 15% 的地區，若要使用三聯療法，應將療程延長至「14 天」，以提升除菌成功率至 85% 以上。\n- C. 十至十四日療程之concomitant therapy(proton pump inhibitor, clarithromycin, amoxicillin, metronidazole)：敘述正確。伴隨療法（非鉍劑四聯療法）給予 10-14 天是目前推薦的一線高療效除菌方案。\n- D. 十至十四日療程之bismuth quadruple therapy(proton pump inhibitor, bismuth, tetracycline, metronidazole)：敘述正確。含鉍劑之四聯療法給予 10-14 天，不論在 Clarithromycin 高或低抗藥性地區，均具有極高的除菌率，是極受推薦的一線治療方案。\n\n【核心考點】\n1. 幽門螺旋桿菌除菌三聯療法目前不推薦使用 7 天療程，應延長至 14 天。\n2. 對於 Clarithromycin 高抗藥性地區（>= 15%），首選鉍劑四聯療法（Bismuth quadruple therapy）或伴隨療法（Concomitant therapy）。",
       "key_point": "正確觀念：A. 七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)",
       "flashcard_summary": "幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加,因此必須選擇適當且高成功率之幽門螺旋桿 菌除菌… / clarithromycin -> A. 七日療程之clarithromycin triple therapy(proton pump inhibitor, clarithromycin, amoxicillin)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -554,7 +554,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -568,10 +568,10 @@
         "D": "鼻胃管引流"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「對於膽結石引發之急性胰臟炎(acute pancreatitis),下列何者為最重要的治療?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 積極的靜脈輸液，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「抗生素」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「內視鏡逆行性膽管造影術(endoscopic retrograde cholangiography)確認是否有總膽管結石,若有則進\n 行內視鏡取石」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「積極的靜脈輸液」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「鼻胃管引流」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 積極的靜脈輸液 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查膽結石引發之急性胰臟炎（Acute biliary pancreatitis）的初期臨床處置原則。需在抗生素指引、內視鏡取石時機，以及液體復甦的重要性之間進行優先順序判斷。\n\n【選項詳解】\n- A. 抗生素：敘述錯誤。急性胰臟炎早期多為無菌性發炎，不建議常規給予預防性抗生素，僅在合併急性膽管炎（cholangitis）或確診有感染性壞死（infected necrosis）時才需使用。\n- B. 內視鏡逆行性膽管造影術(endoscopic retrograde cholangiography)確認是否有總膽管結石,若有則進行內視鏡取石：敘述錯誤。ERCP 伴取石術（EST）僅建議在合併「急性膽管炎」或存在「持續性膽道阻塞/嚴重黃疸」的膽石性胰臟炎患者中緊急施行，並非所有膽石性胰臟炎的最重要或首選常規治療。\n- C. 積極的靜脈輸液：敘述正確，為本題答案。急性胰臟炎早期會因大量發炎反應導致微血管滲漏、第三間隙液體流失，引發嚴重血容量不足。在起病的黃金 24 小時內給予「積極的靜脈輸液（aggressive fluid resuscitation，如 Lactated Ringer's）」以維持微循環灌流、預防胰臟壞死，是「最重要且最關鍵」的基礎治療。\n- D. 鼻胃管引流：敘述錯誤。鼻胃管減壓僅在患者出現頑固性嘔吐、嚴重腹脹或合併腸阻塞（ileus）時才需考慮，非急性胰臟炎的常規首要治療。\n\n【核心考點】\n1. 急性胰臟炎治療基石：早期（24 小時內）積極靜脈液體復甦（fluid resuscitation），首選 Lactated Ringer's，監測尿量與血液濃縮指標。\n2. 預防性抗生素在無感染性壞死時不建議使用；ERCP 取石需有膽管炎或持續膽道阻塞之適應症。",
       "key_point": "正確觀念：C. 積極的靜脈輸液",
       "flashcard_summary": "對於膽結石引發之急性胰臟炎(acute pancreatitis) / acute pancreatitis -> C. 積極的靜脈輸液",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -583,7 +583,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -597,10 +597,10 @@
         "D": "膽道狹窄"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是慢性胰臟炎(chronic pancreatitis)常見的併發症?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 糖尿病酮酸中毒症(diabetic ketoacidosis)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「慢性腹痛」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「糖尿病酮酸中毒症(diabetic ketoacidosis)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「吸收不良(malabsorption)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「膽道狹窄」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 糖尿病酮酸中毒症(diabetic ketoacidosis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查慢性胰臟炎（Chronic pancreatitis）的內外分泌功能受損機制，以及臨床常見併發症與第 3c 型糖尿病（Pancreatogenic diabetes）的代謝特徵差異。\n\n【選項詳解】\n- A. 慢性腹痛：敘述正確。為慢性胰臟炎最常見且棘手的臨床表現，主因包括胰管內壓升高、腺體發炎、神經周圍炎及纖維化。\n- B. 糖尿病酮酸中毒症(diabetic ketoacidosis)：敘述錯誤，為本題答案。慢性胰臟炎會造成胰臟內分泌細胞全面性破壞。雖然患者因胰島素缺乏會進展為糖尿病（第 3c 型糖尿病），但同時分泌升糖素（glucagon）的 alpha 細胞亦受損，導致升糖素儲備不足。缺乏升糖素的促酮體生成作用，使得患者極少發生糖尿病酮酸中毒（DKA），反而容易發生嚴重的「脆性低血糖（brittle hypoglycemia）」。\n- C. 吸收不良(malabsorption)：敘述正確。慢性發炎導致胰臟外分泌功能不足，脂肪酶（lipase）及其他消化酶分泌嚴重受損，引發脂肪吸收不良與脂肪瀉。\n- D. 膽道狹窄：敘述正確。胰臟頭部因慢性發炎增生、纖維化，易壓迫橫跨其間的總膽管，引起膽道狹窄、黃疸及膽管發炎。\n\n【核心考點】\n1. 慢性胰臟炎之糖尿病（Type 3c）特徵：胰島素與升糖素雙重缺乏，臨床極少發生 DKA，但容易發生反覆低血糖。\n2. 慢性胰臟炎外分泌不足導致吸收不良（脂肪瀉），內分泌不足導致胰源性糖尿病。",
       "key_point": "錯誤敘述判斷：B. 糖尿病酮酸中毒症(diabetic ketoacidosis)",
       "flashcard_summary": "不是慢性胰臟炎(chronic pancreatitis)常見的併發症 / chronic pancreatitis -> B. 糖尿病酮酸中毒症(diabetic ketoacidosis)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -612,7 +612,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -626,10 +626,10 @@
         "D": "就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償\n (decompensation)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「對於肝硬化病人的胃食道靜脈曲張(gastroesophageal varices)處理,下列敘述何者正確?」\n標準答案為 A、B、C、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 食道靜脈曲張通常是在病人發生腹水之後才會出現；B. 新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張；C. 除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出 血；D. 就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償 (decompensation)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「食道靜脈曲張通常是在病人發生腹水之後才會出現」此選項最符合題幹線索與標準答案。\n- B. 正確答案。選項內容：「新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張」此選項最符合題幹線索與標準答案。\n- C. 正確答案。選項內容：「除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出\n 血」此選項最符合題幹線索與標準答案。\n- D. 正確答案。選項內容：「就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償\n (decompensation)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：A. 食道靜脈曲張通常是在病人發生腹水之後才會出現；B. 新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張；C. 除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出 血；D. 就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償 (decompensation) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查肝硬化門脈高壓症（Portal hypertension）併發胃食道靜脈曲張（Gastroesophageal varices）的流行病學、自然病程、失代償期定義，以及預防出血的臨床用藥原則。本題因部分選項敘述不夠精準，官方最終公布答案為 A、B、C、D 皆給分。\n\n【選項詳解】\n- A. 食道靜脈曲張通常是在病人發生腹水之後才會出現：官方評定為正確。但醫學事實上，食道靜脈曲張與腹水皆是門脈高壓（HVPG >= 10 mmHg）之併發症，兩者並無絕對的先後順序，有些患者在尚未出現腹水前即可出現靜脈曲張，故此敘述不夠嚴謹。\n- B. 新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張：官方評定為正確。根據臨床統計，新確診的肝硬化病患中，約有 30% 到 50% 已合併有不同程度的胃食道靜脈曲張，此敘述符合統計事實。\n- C. 除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出血：官方評定為正確。但醫學事實上，非選擇性乙型阻斷劑（NSBB，如 Propranolol, Carvedilol）能有效降低門脈血流及血壓，是臨床上預防靜脈曲張首次出血及再出血的一線標準藥物，藥物治療相當有效。故此選項敘述與臨床指引矛盾。\n- D. 就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償(decompensation)：官方評定為正確。但醫學事實上，胃食道靜脈曲張出血（Variceal bleeding）本身即為肝硬化由「代償期」轉為「失代償期（decompensated phase）」的核心定義指標之一，一旦出血即屬失代償，不需伴隨黃疸或腹水，故此敘述錯誤。\n\n【核心考點】\n1. 肝硬化失代償（Decompensation）定義：出現腹水、靜脈曲張出血、肝性腦病變或黃疸。\n2. 胃食道靜脈曲張預防出血：藥物治療（NSBB）與內視鏡結紮術（EVL）均為具實證之有效方法。\n3. 本題因選項設計與實務事實有偏差，官方採取「A、B、C、D 皆給分」之更正措施。\n\n【補充提醒】\n本題官方更正答案為 A、B、C、D 皆給分，作答時請留意各選項背後的臨床實務爭議，此處已做完整解析，建議複核。",
       "key_point": "正確觀念：A. 食道靜脈曲張通常是在病人發生腹水之後才會出現；B. 新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張；C. 除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出 血；D. 就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償 (decompensation)",
       "flashcard_summary": "對於肝硬化病人的胃食道靜脈曲張(gastroesophageal varices)處理 / gastroesophageal varices -> A. 食道靜脈曲張通常是在病人發生腹水之後才會出現；B. 新診斷的肝硬化病人,大約50%已經有胃食道靜脈曲張；C. 除了使用內視鏡來做靜脈結紮術(variceal ligation)外,藥物治療並無法有效的預防胃食道靜脈曲張出 血；D. 就算發生胃食道靜脈曲張出血,只要還沒有黃疸,沒有腹水,沒有肝性腦病變,就還不算是肝失代償 (decompensation)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A",
         "B",
@@ -645,7 +645,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -659,10 +659,10 @@
         "D": "postvagotomy diarrhea"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「35歲患者有胃部分切除病史,主訴進食後腹痛、腹瀉,約2小時後有頭暈、盜汗症狀,最可能的診斷為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. dumping syndrome，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「afferent loop syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「adhesion ileus」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「dumping syndrome」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「postvagotomy diarrhea」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. dumping syndrome 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查胃切除術後（Gastrectomy）常見併發症的臨床鑑別診斷。根據進食與症狀發生的時間關係（進食後 2 小時）以及全身性植物神經症狀（頭暈、盜汗），推導出晚期傾食症候群（Late dumping syndrome）的診斷。\n\n【選項詳解】\n- A. afferent loop syndrome：輸入袢症候群。因 Billroth II 重建術後的輸入袢阻塞，導致膽汁與胰液滯留，患者通常在進食後 20-60 分鐘出現上腹脹痛，並在噴射性膽汁嘔吐後緩解，一般不伴隨頭暈、盜汗等全身血糖異常症狀。\n- B. adhesion ileus：沾黏性腸阻塞。表現為陣發性腹痛、嘔吐、腹脹及停止排氣排便，與進食後 2 小時特異性出現頭暈、盜汗的全身低血糖症狀無關。\n- C. dumping syndrome：傾食症候群。為本題答案。胃切除術後幽門功能喪失，高滲性食物快速排入小腸。其中「晚期傾食症候群（Late dumping syndrome）」通常發生在進食後 1.5 到 3 小時（此題為 2 小時），由於高糖食物快速吸收刺激胰島素過度分泌，引發「反應性低血糖（reactive hypoglycemia）」，臨床表現即為頭暈、盜汗、心悸、手抖。\n- D. postvagotomy diarrhea：迷走神經切除術後腹瀉。主因是胃排空加快及膽酸代謝異常引起水樣瀉，但其不具有進食後 2 小時低血糖（頭暈、盜汗）的典型特徵。\n\n【核心考點】\n1. 傾食症候群分型：\n   - 早期（進食後 10-30 分鐘）：水分移至腸腔、腸道血管活性胜肽釋放，表現為腹脹、腹痛、腹瀉、心悸、頭暈。\n   - 晚期（進食後 1-3 小時）：反應性低血糖，表現為頭暈、盜汗、手抖、心悸。\n2. 胃手術後併發症（Dumping syndrome, Afferent loop syndrome）的發作時間與緩解因子是鑑別關鍵。",
       "key_point": "正確觀念：C. dumping syndrome",
       "flashcard_summary": "35歲患者有胃部分切除病史,主訴進食後腹痛、腹瀉,約2小時後有頭暈、盜汗症狀,最可能的診斷為何 -> C. dumping syndrome",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -674,7 +674,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -688,10 +688,10 @@
         "D": "使用鈉離子模式(sodium modeling)透析"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「65歲男性,血液透析病人,每次透析開始幾分鐘後,開始右胸痛或背痛,血壓穩定、無心悸、無發燒,隨著\n 透析繼續進行,不適感覺就漸消失,下列何種處置最可能改善其症狀?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 更換不同材質透析器，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「使用無肝素(non-heparin)透析」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「增加乾體重」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「更換不同材質透析器」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「使用鈉離子模式(sodium modeling)透析」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 更換不同材質透析器 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查長期血液透析（Hemodialysis）患者之急性透析併發症「第一使用症候群（First-use syndrome）」。分析患者在「透析開始幾分鐘內」出現胸痛/背痛，且「血壓穩定、無發燒」且「隨透析進行症狀漸漸消失」的特徵，尋找最佳臨床處置。\n\n【選項詳解】\n- A. 使用無肝素(non-heparin)透析：敘述錯誤。無肝素透析適用於具有高出血風險、近期手術或活動性出血的透析患者，無法改善生物相容性不佳引起的胸痛、背痛。\n- B. 增加乾體重：敘述錯誤。增加乾體重常用於改善透析中後期因脫水過度導致的低血壓或肌肉痙攣。本題病人血壓穩定且症狀發生在透析起初幾分鐘，與脫水無關。\n- C. 更換不同材質透析器：敘述正確，為本題答案。病人的臨床表現符合「B 型第一使用症候群（Type B first-use syndrome）」，常發生在透析開始幾分鐘至一小時內，症狀為輕微非特異性胸背痛，隨透析進行可自行緩解。其機轉為舊式透析器膜（如銅合成膜）生物相容性差、活化補體系統所致。處置方法是更換生物相容性較佳的合成膜（如 Polysulfone 聚碸膜）透析器，或加強透析前預洗。\n- D. 使用鈉離子模式(sodium modeling)透析：敘述錯誤。鈉離子模式透析用於調整透析液鈉濃度以維持血漿滲透壓，防範透析失衡症候群（equilibrium syndrome）或低血壓，非針對第一使用症候群之處置。\n\n【核心考點】\n1. 第一使用症候群：\n   - A 型（急性過敏反應）：多與環氧乙烷（EO）消毒劑有關，表現為呼吸困難、過敏、甚至休克，需立即停止透析，不得回血。\n   - B 型（非特異性胸背痛）：與透析器膜生物相容性差活化補體有關，症狀較輕，可繼續透析。處置為更換高生物相容性透析膜。\n2. 透析中不適之時間點與生理監測（血壓、心跳、體溫）是鑑別診斷關鍵。",
       "key_point": "正確觀念：C. 更換不同材質透析器",
       "flashcard_summary": "65歲男性,血液透析病人,每次透析開始幾分鐘後,開始右胸痛或背痛,血壓穩定、無心悸、無發燒,隨著 透析… -> C. 更換不同材質透析器",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -703,7 +703,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -717,10 +717,10 @@
         "D": "febuxostat"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何項處置最不適合治療尿酸性尿路結石?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. benzbromarone，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「reduced protein diet」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「benzbromarone」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「potassium citrate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「febuxostat」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. benzbromarone 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查尿酸性尿路結石（Uric acid stones）的病理生理特徵與臨床藥物處置限制。需特別區分促尿酸排泄藥物與抑制尿酸合成藥物在結晶沉澱預防上的不同效應。\n\n【選項詳解】\n- A. reduced protein diet：適當處置。低蛋白（低嘌呤）飲食能從源頭減少體內尿酸的生成，進而降低尿液中尿酸的排泄量，對防治尿酸結石有正面助益。\n- B. benzbromarone：不適當處置，為本題答案。Benzbromarone 為促尿酸排泄藥物（uricosuric agent），作用為抑制腎小管重吸收尿酸，使大量尿酸由尿液排出。在已有尿路結石的患者中，這會使尿中尿酸濃度劇增，在酸性尿液中更易沉澱出尿酸結晶，加重或誘發結石，為臨床禁忌。\n- C. potassium citrate：適當處置。檸檬酸鉀（Potassium citrate）是治療尿酸結石的基石。它能鹼化尿液（目標 pH 6.2-6.8），顯著增加尿酸在尿液中的溶解度，甚至可以溶解已存在的尿酸結石。\n- D. febuxostat：適當處置。Febuxostat 為黃嘌呤氧化酶抑制劑（xanthine oxidase inhibitor），可有效抑制尿酸合成，同時調降血尿酸與尿尿酸水平，降低結石發生的機會。\n\n【核心考點】\n1. 尿酸結石治療三大原則：鹼化尿液（首選檸檬酸鉀）、充足水分維持尿量、減少尿酸生成（使用黃嘌呤氧化酶抑制劑如 Allopurinol 或 Febuxostat）。\n2. 促尿酸排泄藥物（如 Benzbromarone, Probenecid）會使尿中尿酸濃度上升，是尿酸結石患者的臨床禁忌。",
       "key_point": "正確觀念：B. benzbromarone",
       "flashcard_summary": "處置最不適合治療尿酸性尿路結石 -> B. benzbromarone",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -732,7 +732,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -746,10 +746,10 @@
         "D": "aristolochic acid nephropathy"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「一名33歲女性,本次因近半年反覆頭暈及容易疲勞而住院。實驗室檢驗:肌酸酐2.3 mg/dL,血紅素7\n g/dL(住院前8個月分別為1.4 mg/dL,9 g/dL),白蛋白3.8 g/dL,血鈣2.3 mmol/L,尿酸8.0 mg/dL,血\n 糖98 mg/dL,尿液分析:比重1.012,蛋白尿980 mg/24小時,紅血球0~2/高倍視野,葡萄糖0.27 mg/dL,\n 腎臟超音波右側8.7公分、左側8.9公分,腎臟病理切片如圖。病人最可能的診斷為何?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. aristolochic acid nephropathy，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「myeloma cast nephropathy」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「allergic interstitial nephritis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「chronic uric acid nephropathy」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「aristolochic acid nephropathy」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. aristolochic acid nephropathy 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查馬兜鈴酸腎病（Aristolochic acid nephropathy, AAN）的臨床檢驗數據特徵（非比例性嚴重貧血、近端腎小管受損、雙側腎臟對稱性縮小）及病理切片上廣泛間質纖維化的典型病理學診斷。\n\n【選項詳解】\n- A. myeloma cast nephropathy：骨髓瘤管型腎病。常見於老年患者，典型病理表現為腎小管內出現大塊、折光性強的嗜酸性管型，且常伴隨高血鈣、骨骼溶骨性病變，與本題 33 歲女性、血鈣正常不符。\n- B. allergic interstitial nephritis：急性過敏性間質性腎炎。多由藥物誘發，病理特徵為間質水腫及大量嗜酸性白血球浸潤。臨床上多表現為急性腎功能惡化，常伴有發燒、皮疹等全身過敏症狀，與病患雙側腎臟慢性縮小（< 9 cm）不符。\n- C. chronic uric acid nephropathy：慢性尿酸性腎病。病理上可見間質內雙折光的尿酸鈉結晶及周圍異物巨細胞反應（痛風石樣改變），主要見於長期重度痛風及嚴重高尿酸患者。\n- D. aristolochic acid nephropathy：馬兜鈴酸腎病。為本題答案。病理切片（如附圖所示）呈現廣泛且嚴重的「少細胞性間質纖維化（hypocellular interstitial fibrosis）」，伴隨腎小管萎縮，但腎絲球相對保留。臨床上患者常呈現慢性進行性腎間質炎，伴隨嚴重貧血（Hb 7 g/dL）、雙側腎臟縮小（右 8.7 cm、左 8.9 cm）及近端腎小管受損（如腎性糖尿：血糖 98 但尿糖陽性 0.27 mg/dL，且尿蛋白為中度）。\n\n【核心考點】\n1. 馬兜鈴酸腎病（AAN）之臨床特徵：進行性間質纖維化、腎小管功能障礙（糖尿、胺基酸尿，但血糖正常）、不成比例的嚴重貧血、雙側腎臟縮小、極易併發泌尿道上皮癌（UTUC）。\n2. AAN 病理特徵：廣泛的「無細胞或少細胞性」皮質間質纖維化，由外向內進展，腎絲球多受保護。",
       "key_point": "正確觀念：D. aristolochic acid nephropathy",
       "flashcard_summary": "一名33歲女性,本次因近半年反覆頭暈及容易疲勞而住院。實驗室檢驗:肌酸酐2.3 mg/dL,血紅素7 … / mmol -> D. aristolochic acid nephropathy",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -761,7 +761,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -775,10 +775,10 @@
         "D": "Henoch-Schönlein purpura(HSP)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「一位40歲男性,C型肝炎帶原者,定期在門診追蹤。最近一個月來,出現蛋白尿2.5 g/day,脛前與足踝水\n 腫,體重略增加近3公斤,血壓152/92 mmHg。抽血檢查:有血清補體(complement, C3與C4)偏低情形。因\n 為不明原因蛋白尿,安排病人接受腎臟切片檢查(renal biopsy),切片下的病理變化,最有可能是下列何\n 者?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. membranoproliferative glomerulonephritis(MPGN)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「membranous nephropathy(MN)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「membranoproliferative glomerulonephritis(MPGN)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「focal segmental glomerulosclerosis(FSGS)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「Henoch-Schönlein purpura(HSP)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. membranoproliferative glomerulonephritis(MPGN) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查 C 型肝炎病毒（HCV）感染所引發之腎絲球腎炎的病理學關聯。關鍵線索為「C 型肝炎帶原」、「腎病症候群表現（蛋白尿 2.5 g/day、水腫）」及「低補體血症（C3 與 C4 均降低）」，藉此推導出最常見的腎臟切片病理診斷。\n\n【選項詳解】\n- A. membranous nephropathy(MN)：膜性腎病變。MN 最常與「B 型肝炎」感染、SLE 或惡性腫瘤相關，且原發性膜性腎病變患者的血清補體（C3、C4）水平通常是正常的。\n- B. membranoproliferative glomerulonephritis(MPGN)：膜增生性腎絲球腎炎。為本題答案。C 型肝炎病毒感染最經典併發的腎臟病變即為 MPGN（多為 I 型），其機轉多與 HCV 誘發的混合型冷凍球蛋白血症（mixed cryoglobulinemia）有關。免疫複合物沉積於腎絲球活化補體經典途徑，導致血清補體（C3 及 C4）顯著降低，病理下呈現腎絲球系膜細胞增生及基底膜雙軌徵（double contour）。\n- C. focal segmental glomerulosclerosis(FSGS)：局灶節段性腎絲球硬化。FSGS 主要與肥胖、HIV 感染（HIVAN）或海洛因相關，患者的血清補體通常維持正常。\n- D. Henoch-Schönlein purpura(HSP)：HSP 腎炎。病理特徵為腎小球系膜區有顯著的 IgA 免疫複合物沉積，臨床常伴隨典型的皮膚紫斑、關節炎、腹痛等系統性血管炎表現，補體多為正常。\n\n【核心考點】\n1. C 型肝炎相關腎病：最常見為膜增生性腎絲球腎炎（MPGN），常合併冷凍球蛋白血症與低補體血症（C3/C4 降低）。\n2. B 型肝炎相關腎病：最常見為膜性腎病變（MN），補體多為正常。\n3. 低補體血症常見腎炎：MPGN、狼瘡性腎炎（LN）、鏈球菌感染後腎炎（PSGN）。",
       "key_point": "正確觀念：B. membranoproliferative glomerulonephritis(MPGN)",
       "flashcard_summary": "一位40歲男性,C型肝炎帶原者,定期在門診追蹤。最近一個月來,出現蛋白尿2.5 g/day,脛前與足踝… / day / mmHg -> B. membranoproliferative glomerulonephritis(MPGN)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -790,7 +790,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -804,10 +804,10 @@
         "D": "NaCl再吸收增加時,二磷酸腺苷(adenosine diphosphate, ADP)是緻密斑(macula densa)細胞釋放出\n 來的訊號,來調控腎小管–腎絲球回饋"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關腎小管–腎絲球回饋機轉(tubuloglomerular feedback, TGF),下列敘述何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「藉由出球小動脈(efferent arteriole)的反射性血管收縮或擴張來調節腎絲球過濾率(glomerular\n filtration rate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「當過高的腎絲球過濾率(glomerular filtration rate)使流經緻密斑(macula densa)的NaCl濃度過高\n 時,會誘發出球小動脈血管收縮使得腎絲球過濾率下降至正常」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「NaCl再吸收增加時,二磷酸腺苷(adenosine diphosphate, ADP)是緻密斑(macula densa)細胞釋放出\n 來的訊號,來調控腎小管–腎絲球回饋」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查腎臟生理學中的「腎小管–腎絲球回饋機轉（Tubuloglomerular feedback, TGF）」之病理生理學調控過程，主要涉及感應部位（緻密斑）、感應物質與最終調節血管（入球小動脈）。\n\n【選項詳解】\n- A. 藉由出球小動脈(efferent arteriole)的反射性血管收縮或擴張來調節腎絲球過濾率(glomerular filtration rate)：敘述錯誤。TGF 主要藉由調節「入球小動脈（afferent arteriole）」的反射性收縮或舒張，來控制流入腎絲球的血流量，從而調控腎絲球毛細血管血壓與 GFR。\n- B. 藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速：敘述正確，為本題答案。緻密斑（Macula densa）細胞位於亨利氏環上行支粗段（TAL）末端，藉由其細胞膜上的 NKCC2 共轉運體來感應小管液中的 NaCl 濃度及液體流速。\n- C. 當過高的腎絲球過濾率(glomerular filtration rate)使流經緻密斑(macula densa)的NaCl濃度過高時,會誘發出球小動脈血管收縮使得腎絲球過濾率下降至正常：敘述錯誤。當 GFR 過高導致緻密斑感應的 NaCl 濃度過高時，緻密斑會釋放訊號分子，誘發「入球小動脈（afferent arteriole）」（而非出球小動脈）發生收縮，降低腎絲球毛細血管壓，使 GFR 下降回正常。\n- D. NaCl再吸收增加時,二磷酸腺苷(adenosine diphosphate, ADP)是緻密斑(macula densa)細胞釋放出來的訊號,來調控腎小管–腎絲球回饋：敘述錯誤。當緻密斑細胞內 NaCl 再吸收增加（經由 NKCC2），會消耗 ATP 並釋放「腺苷（adenosine）」及「ATP」本身（而非 ADP）作為局部體液訊號分子，作用於入球小動脈平滑肌上的 A1 受體引起血管收縮。\n\n【核心考點】\n1. TGF 調控路徑：GFR 增加 -> 流經緻密斑之 NaCl 增加 -> NKCC2 活性上升 -> 釋放 adenosine/ATP -> 作用於入球小動脈 A1 受體 -> 入球小動脈收縮 -> GFR 下降回正常。\n2. 緻密斑位於亨利氏環上行支粗段（TAL）末端，是兼具化學與物理流速感受器的特殊細胞結構。",
       "key_point": "正確觀念：B. 藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速",
       "flashcard_summary": "腎小管–腎絲球回饋機轉(tubuloglomerular feedback, TGF) / tubuloglomerular feedback / TGF -> B. 藉由Henle氏環上行枝粗管的管腔膜上緻密斑(macula densa)細胞來感應腎小管內NaCl濃度及液體的流速",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -819,7 +819,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -833,10 +833,10 @@
         "D": "若造成急性腎損傷合併寡尿、高血鉀症,可考慮透析治療"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關腫瘤溶解症候群(tumor lysis syndrome),下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「因為大量腫瘤細胞死亡,細胞內代謝物釋放至血液中導致高尿酸血症、高血鉀症、高血磷症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「由於尿酸結晶會堆積於腎小管,處置上必須給與大量補充體液,並用rasburicase藥物來預防高尿酸血症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「若造成急性腎損傷合併寡尿、高血鉀症,可考慮透析治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查腫瘤溶解症候群（Tumor lysis syndrome, TLS）的病理生理變化（高尿酸、高血鉀、高血磷、低血鈣）與臨床處置原則。特別考量鹼化尿液在磷酸鈣結晶沉澱調控上的潛在利弊。\n\n【選項詳解】\n- A. 因為大量腫瘤細胞死亡,細胞內代謝物釋放至血液中導致高尿酸血症、高血鉀症、高血磷症：敘述正確。腫瘤細胞裂解會釋放大量細胞內離子與核酸，造成高血鉀、高血磷，且核酸代謝會產生大量尿酸導致高尿酸血症。\n- B. 由於尿酸結晶會堆積於腎小管,處置上必須給與大量補充體液,並用rasburicase藥物來預防高尿酸血症：敘述正確。大量補水維持高尿量是預防結晶沉澱的基本。Rasburicase 可將尿酸氧化為極易溶於水的尿囊素，是防治重度高尿酸血症的首選藥物。\n- C. 鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷：敘述錯誤，為本題答案。雖然鹼化尿液（如靜脈給予 NaHCO3）可增加尿酸的溶解度，但「鹼性環境會降低磷酸鈣的溶解度」，反而「加速磷酸鈣（calcium phosphate）在腎小管內沉澱」，引發急性腎損傷。故現行臨床指引不再推薦常規鹼化尿液。\n- D. 若造成急性腎損傷合併寡尿、高血鉀症,可考慮透析治療：敘述正確。當 TLS 併發急性腎損傷（AKI），且合併藥物無法糾正的高血鉀、高血磷、嚴重水鈉滯留或尿毒症狀時，應緊急安排血液透析或連續性腎臟替代治療（CRRT）。\n\n【核心考點】\n1. TLS 實驗室診斷四大特徵：高血鉀、高血磷、高尿酸、低血鈣（因磷酸鈣沉澱）。\n2. 臨床預防及治療：大量補水為基礎，Rasburicase 代替傳統常規尿液鹼化，以避免增加磷酸鈣結晶在腎小管沉澱的風險。",
       "key_point": "錯誤敘述判斷：C. 鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷",
       "flashcard_summary": "腫瘤溶解症候群(tumor lysis syndrome) / tumor lysis syndrome -> C. 鹼化尿液能夠減少磷酸鈣(calcium phosphate)的沉澱而降低急性腎損傷",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -848,7 +848,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -862,10 +862,10 @@
         "D": "斥消靈(sirolimus):蛋白尿"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關腎移植抗排斥藥物與其副作用之配對,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 環孢靈(cyclosporine):低尿酸血症，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「類固醇(corticosteroid):骨質疏鬆」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「環孢靈(cyclosporine):低尿酸血症」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「普樂可復(tacrolimus):移植後糖尿病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「斥消靈(sirolimus):蛋白尿」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 環孢靈(cyclosporine):低尿酸血症 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查器官移植後常用免疫抑制劑（如類固醇、環孢靈、普樂可復、斥消靈）的臨床核心副作用配對。\n\n【選項詳解】\n- A. 類固醇(corticosteroid):骨質疏鬆：配對正確。長期或大劑量使用糖皮質激素會抑制成骨細胞，增加破骨細胞活性，並干擾腸道鈣吸收，極易導致骨質疏鬆症。\n- B. 環孢靈(cyclosporine):低尿酸血症：配對錯誤，為本題答案。環孢靈（Cyclosporine）在腎臟會減少尿酸的排泄，容易引起「高尿酸血症（hyperuricemia）」，常因此誘發或加重痛風，而非低尿酸血症。\n- C. 普樂可復(tacrolimus):移植後糖尿病：配對正確。Tacrolimus（FK506）對胰臟 beta 細胞具有毒性，會抑制胰島素釋放，導致「移植後新發糖尿病（PTDM / NODAT）」的發生率顯著高於 Cyclosporine。\n- D. 斥消靈(sirolimus):蛋白尿：配對正確。Sirolimus（mTOR 抑制劑）會損害腎絲球足細胞（podocytes）的結構與功能，臨床上常導致顯著的蛋白尿，甚至需為此調整用藥。\n\n【核心考點】\n1. 鈣調磷酸酶抑制劑（CNIs）主要副作用：\n   - Cyclosporine：多毛、齒齦增生、高尿酸血症（痛風）。\n   - Tacrolimus：糖尿病（PTDM）發生率高、神經毒性（顫抖、頭痛）較明顯。\n   - 兩者均具腎毒性、高血壓及高血鉀副作用。\n2. mTOR 抑制劑（Sirolimus）：高血脂、蛋白尿、骨髓抑制、傷口癒合延遲。",
       "key_point": "錯誤敘述判斷：B. 環孢靈(cyclosporine):低尿酸血症",
       "flashcard_summary": "第 30 題核心考點 -> B. 環孢靈(cyclosporine):低尿酸血症",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -877,7 +877,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -891,10 +891,10 @@
         "D": "大量IgG4在組織活化T淋巴球,因此本疾病常造成急性的器官破壞而應給與大量steroid治療"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於IgG4-related disease的描述,下列何者最適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「主要的組織病理特點為IgG4在組織血管內的沉積,但不會看到B淋巴球的浸潤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「大於90%病人血中IgG4的濃度會上升,且血中IgG4的濃度與疾病嚴重度成正相關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「大量IgG4在組織活化T淋巴球,因此本疾病常造成急性的器官破壞而應給與大量steroid治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查 IgG4 相關疾病（IgG4-related disease, IgG4-RD）的臨床侵犯器官表現、血液學異常、組織病理特徵及臨床病程特點。\n\n【選項詳解】\n- A. 可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia：敘述正確，為本題答案。IgG4-RD 經常侵犯淚腺及眼眶周圍組織（淚腺炎、眼眶假瘤），引發眼周腫脹。且約 40% 的患者有過敏病史（如氣喘），常伴隨血清 IgE 升高與外周血嗜酸性白血球增加（eosinophilia）。\n- B. 主要的組織病理特點為IgG4在組織血管內的沉積,但不會看到B淋巴球的浸潤：敘述錯誤。其三大病理特徵為：緻密的淋巴漿細胞浸潤（以 IgG4+ 漿細胞、B 與 T 淋巴球為主）、席紋狀纖維化（storiform fibrosis）以及閉塞性靜脈炎（obliterative phlebitis），並非僅沉積在血管內，且能見到明顯的 B 淋巴球浸潤。\n- C. 大於90%病人血中IgG4的濃度會上升,且血中IgG4的濃度與疾病嚴重度成正相關：敘述錯誤。僅有大約 60-70% 的患者血清 IgG4 濃度升高，且其濃度高低與病變的廣泛程度或嚴重度不必然呈絕對正相關。\n- D. 大量IgG4在組織活化T淋巴球,因此本疾病常造成急性的器官破壞而應給與大量steroid治療：敘述錯誤。此病病程多呈亞急性或慢性，器官功能受損是由於進行性纖維化慢性壓迫所致，極少引起急性器官衰竭。\n\n【核心考點】\n1. IgG4 相關疾病典型病理：緻密淋巴漿細胞浸潤（IgG4+ 漿細胞）、席紋狀纖維化、閉塞性靜脈炎。\n2. 臨床表現：涙腺唾液腺腫大、胰臟炎（AIP）、眼部腫脹，常合併過敏史及嗜酸性球增多。",
       "key_point": "正確觀念：A. 可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia",
       "flashcard_summary": "IgG4-related disease的描述 / IgG4-related disease -> A. 可侵犯眼部造成periocular tissue swelling,可能合併有allergy和eosinophilia",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -906,7 +906,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -920,10 +920,10 @@
         "D": "septic arthritis"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「一位80歲男性病人有膝關節疼痛,膝關節液的分析為呈現黏稠的(viscous)關節液且白血球數為100/μL,\n 關節液細胞以mononuclear cell為主,此病人最可能患有下列何種關節炎?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. osteoarthritis，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「osteoarthritis」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「reactive arthritis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「rheumatoid arthritis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「septic arthritis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. osteoarthritis 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查關節液分析（Synovial fluid analysis）在不同類型關節炎中的鑑別診斷標準。利用關節液的黏稠度、白血球計數及主要細胞類型，判斷是屬於非發炎性、發炎性或感染性關節炎。\n\n【選項詳解】\n- A. osteoarthritis：退化性關節炎。為本題答案。退化性關節炎屬於非發炎性關節病變，其關節液外觀清澈、呈高度黏稠狀（viscous），白血球數極低（通常 < 2,000/μL，本題為 100/μL），且細胞分類以單核球（mononuclear cells）為主。\n- B. reactive arthritis：反應性關節炎。屬於發炎性脊椎關節病變，其關節液白血球計數通常顯著升高（一般在 2,000 至 50,000/μL 之間），且以中性球（PMN）為主，黏稠度下降。\n- C. rheumatoid arthritis：類風濕性關節炎。屬於全身性自身免疫發炎性關節炎，關節液呈發炎性特徵，白血球數偏高（一般在 2,000 到 75,000/μL 之間），且中性球比例高。\n- D. septic arthritis：化膿性（細菌性）關節炎。屬於感染性關節炎，關節液極度混濁且稀薄（黏稠度極低），白血球數極高（通常 > 50,000/μL，甚至大於 100,000/μL），且 90% 以上為中性球。\n\n【核心考點】\n1. 關節液分類標準：\n   - 非發炎性（退化性關節炎）：WBC < 2,000/μL，單核球為主，黏稠度高。\n   - 發炎性（類風濕性、尿酸關節炎）：WBC 2,000-50,000/μL，中性球為主，黏稠度低。\n   - 感染性（化膿性關節炎）：WBC > 50,000/μL，中性球 > 75%，黏稠度極低。\n2. 高齡患者膝關節慢性疼痛且關節液呈現清澈黏稠、低白血球數，強烈指向退化性關節炎。",
       "key_point": "正確觀念：A. osteoarthritis",
       "flashcard_summary": "一位80歲男性病人有膝關節疼痛,膝關節液的分析為呈現黏稠的(viscous)關節液且白血球數為100/… / viscous / mononuclear cell -> A. osteoarthritis",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -935,7 +935,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -949,10 +949,10 @@
         "D": "lumbar myelopathy"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關類風濕性關節炎的關節外表現(extraarticular manifestations),下列何者最常見?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. osteoporosis，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「hyperandrogenism」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「osteoporosis」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「pulmonary artery hypertension」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「lumbar myelopathy」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. osteoporosis 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查類風濕性關節炎（Rheumatoid arthritis, RA）之常見關節外表現（Extra-articular manifestations），需區分各系統受累（如骨骼、肺部、神經系統）的發生機率。\n\n【選項詳解】\n- A. hyperandrogenism：高雄激素血症。類風濕性關節炎與雄性素過多無病理學上的直接關聯。\n- B. osteoporosis：骨質疏鬆症。為本題答案。骨質疏鬆是 RA 最常見且廣泛的關節外表現。其機轉是由於慢性發炎刺激（TNF-alpha、IL-6 等細胞激素活化破骨細胞）、疼痛限制活動，以及長期使用糖皮質激素（corticosteroid）等因素共同引起。\n- C. pulmonary artery hypertension：肺動脈高壓。在 RA 中屬於罕見的肺部表現，RA 較常見的肺部病變為間質性肺病（ILD）或肺結節。\n- D. lumbar myelopathy：腰椎脊髓病變。RA 常侵犯頸椎的環樞關節（atlantoaxial subluxation）引發頸髓病變，但極少侵犯腰椎，且腰椎段已無脊髓（僅有馬尾神經），故不可能引起 myelopathy（脊髓病變）。\n\n【核心考點】\n1. RA 關節外表現中，骨質疏鬆症（osteoporosis）極為普遍，防範骨折與監測骨密度是重要照護原則。\n2. RA 的神經系統受累主要為頸椎環樞關節半脫位引起的頸髓壓迫；肺部以間質性肺病（ILD）較為常見。",
       "key_point": "正確觀念：B. osteoporosis",
       "flashcard_summary": "類風濕性關節炎的關節外表現(extraarticular manifestations) / extraarticular manifestations -> B. osteoporosis",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -964,7 +964,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -978,10 +978,10 @@
         "D": "類風濕性關節炎(rheumatoid arthritis)與HLA-DR4"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列疾病與human leukocyte antigen(HLA)之相關性,何者最高?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 類風濕性關節炎(rheumatoid arthritis)與HLA-DR4，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Type 1 diabetes mellitus與HLA-B5801」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「Behçet's disease與HLA-B1502」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Sjögren's syndrome與HLA-DR8」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「類風濕性關節炎(rheumatoid arthritis)與HLA-DR4」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 類風濕性關節炎(rheumatoid arthritis)與HLA-DR4 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查臨床疾病與人類白血球抗原（Human Leukocyte Antigen, HLA）血清型的關聯性，特別是風濕免疫性疾病與代謝、皮膚過敏的對應。\n\n【選項詳解】\n- A. Type 1 diabetes mellitus與HLA-B5801：配對錯誤。第一型糖尿病主要與 HLA-DR3、HLA-DR4/DQ8 密切相關；而 HLA-B*5801 則是與藥物 Allopurinol 誘發嚴重的皮膚過敏（SJS/TEN）強烈相關。\n- B. Behçet's disease與HLA-B1502：配對錯誤。貝賽特氏症（Behçet's disease）與 HLA-B51 強烈相關；而 HLA-B*1502 則是與卡巴胺平（Carbamazepine）引起的 SJS/TEN 密切相關。\n- C. Sjögren's syndrome與HLA-DR8：配對錯誤。乾燥症（Sjögren's syndrome）主要與 HLA-DR3 及 HLA-DQ2 相關，與 HLA-DR8 無高度關聯。\n- D. 類風濕性關節炎(rheumatoid arthritis)與HLA-DR4：配對正確，為本題答案。類風濕性關節炎（RA）與 HLA-DR4（尤其是 HLA-DRB1 等位基因上的 shared epitope 共同表位）具有極強的遺傳相關性，為教科書經典考點。\n\n【核心考點】\n1. 風濕疾病基因關聯：RA 與 HLA-DR4；Behçet's 與 HLA-B51；僵直性脊椎炎（AS）與 HLA-B27。\n2. 藥物基因關聯：HLA-B*1502（Carbamazepine 過敏）；HLA-B*5801（Allopurinol 過敏）。",
       "key_point": "正確觀念：D. 類風濕性關節炎(rheumatoid arthritis)與HLA-DR4",
       "flashcard_summary": "第 34 題核心考點 / human leukocyte antigen / HLA -> D. 類風濕性關節炎(rheumatoid arthritis)與HLA-DR4",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -993,7 +993,7 @@
       "category": "免疫風濕科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1007,10 +1007,10 @@
         "D": "處方danazol"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「34歲陳女士,因為多次原因不明的laryngeal edema掛急診,其中一次因喉頭水腫太嚴重無法插管,還需緊\n 急氣切才挽回生命。陳女士記得她從有記憶起,就曾經多次因為嚴重腹痛合併腹水而住院,但都沒有找到病\n 因。平時也有很多次突然整個臉或手掌、腳掌突然腫起來。病人發作時皮膚從來沒有蕁麻疹,好幾位醫師曾\n 經幫她驗過血,但也都沒有找到過敏原。下列處置何者對病情最沒有幫助?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 檢驗total IgE，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「檢驗血中C4」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「檢驗C1 esterase inhibitor」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「檢驗total IgE」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「處方danazol」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 檢驗total IgE 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查「遺傳性血管性水腫（Hereditary Angioedema, HAE）」的臨床診斷與治療原則。藉由患者反覆發作不明原因喉頭水腫、臉部或肢體腫脹、劇烈腹痛合併腹水，且「無蕁麻疹」、「無過敏原」的特徵，定位出此非 IgE 介導的緩激肽異常疾病。\n\n【選項詳解】\n- A. 檢驗血中C4：有幫助。HAE 患者由於 C1-INH 功能不足，會導致補體系統持續活化，使 C4 濃度不論在發作期或緩解期皆顯著降低，是極佳的篩檢指標。\n- B. 檢驗C1 esterase inhibitor：有幫助。HAE 的病因即為 C1-INH 的數量減少（I 型）或活性降低（II 型），直接檢驗 C1-INH 蛋白濃度及活性是確診的關鍵。\n- C. 檢驗total IgE：最沒有幫助，為本題答案。HAE 的發病機制是因緩激肽（bradykinin）蓄積導致血管通透性增加，與肥大細胞釋放組織胺或 IgE 介導的過敏反應無關。因此，檢驗血中 total IgE 對 HAE 的診斷完全沒有幫助。\n- D. 處方danazol：有幫助。Danazol 為一種弱雄性素，能促使肝臟合成 C1-INH 及 C4，臨床常用於 HAE 的長期預防性治療。\n\n【核心考點】\n1. 遺傳性血管性水腫（HAE）：為體染色體顯性遺傳，特徵為反覆非凹陷性水腫，常累及皮膚、胃腸道（引起劇烈腹痛）與喉頭（窒息風險），且不伴隨蕁麻疹。\n2. HAE 的診斷關鍵為 C4 偏低、C1-INH 數量或活性降低；其致病介質為 bradykinin，故抗組織胺、類固醇及 IgE 檢驗均無療效或診斷價值。",
       "key_point": "正確觀念：C. 檢驗total IgE",
       "flashcard_summary": "34歲陳女士,因為多次原因不明的laryngeal edema掛急診,其中一次因喉頭水腫太嚴重無法插管… / laryngeal edema -> C. 檢驗total IgE",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1022,7 +1022,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1036,10 +1036,10 @@
         "D": "全身性化學治療或抗賀爾蒙治療"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「一位38歲女性,一開始以左側腋下腫瘤表現至醫院就診,腋下腫瘤切片證實為腺癌(adenocarcinoma),但\n 乳房影像檢查(包括超音波,攝影及核磁共振)並無顯現乳房腫塊,關於此病人後續檢查或治療,下列何者\n 最不合適?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 同側乳房切除手術治療，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「檢測estrogen receptor、GATA3、HER-2基因表現」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「同側乳房切除手術治療」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「局部放射治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「全身性化學治療或抗賀爾蒙治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 同側乳房切除手術治療 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查隱匿性乳癌（Occult breast cancer，即原發灶不明之乳癌）的臨床處理原則。患者表現為腋下淋巴腺癌，乳房影像學檢查未發現腫塊，需評估腋下淋巴結切片特徵、手術處置範圍與全身系統性治療。\n\n【選項詳解】\n- A. 檢測estrogen receptor、GATA3、HER-2基因表現：合適。這些標記（尤其是 GATA3 與 ER）能協助證實此腋下轉移腺癌是源於乳臟，並據此擬定標靶與荷爾蒙治療。\n- B. 同側乳房切除手術治療：最不合適，為本題答案。對於隱匿性乳癌（Tx, N1-2, M0），目前的臨床治療共識並不推薦常規進行「盲目性同側全乳房切除術」。更合適的保乳方案為：進行腋下淋巴結廓清術（ALND），隨後對同側乳房給予全乳放射線治療，其局部控制率與長期存活率與全乳房切除相當。\n- C. 局部放射治療：合適。對同側乳房給予預防性放射治療，能有效消滅隱匿於乳房組織內的原發癌灶，避免乳房切除。\n- D. 全身性化學治療或抗賀爾蒙治療：合適。隱匿性乳癌的全身性輔助治療原則與相同淋巴結轉移期別的普通乳癌相同，包括化學治療、抗 HER2 標靶治療及內分泌治療。\n\n【核心考點】\n1. 隱匿性乳癌（Occult breast cancer）處理：首選腋下淋巴結廓清術（ALND）加上同側乳房放療（保乳方案），而非直接切除乳房。\n2. 腫瘤標記 GATA3 與 ER 陽性有助於診斷乳腺來源之轉移癌。",
       "key_point": "正確觀念：B. 同側乳房切除手術治療",
       "flashcard_summary": "一位38歲女性,一開始以左側腋下腫瘤表現至醫院就診,腋下腫瘤切片證實為腺癌(adenocarcinom… / adenocarcinoma -> B. 同側乳房切除手術治療",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -1051,7 +1051,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1065,10 +1065,10 @@
         "D": "glucocorticoids — avascular necrosis of bones"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「癌症治療學的進展一方面大大提升癌症病患的存活機會,但也可能合併許多late treatment\n consequences。下列癌症治療藥物和late treatment consequence的組合,何者最不恰當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. anthracycline — neuropathy，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「anthracycline — neuropathy」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「bleomycin — pulmonary fibrosis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「trastuzumab — cardiac dysfunction」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「glucocorticoids — avascular necrosis of bones」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. anthracycline — neuropathy 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查重要癌症化學治療藥物與標靶藥物、糖皮質激素的長期或特異性毒性副作用配對。\n\n【選項詳解】\n- A. anthracycline — neuropathy：最不恰當，為本題答案。Anthracyclines（如 Doxorubicin）最著名且具累積劑量限制的毒性是「心臟毒性（cardiotoxicity）」，可導致嚴重的擴大性心肌病與心臟衰竭，而非周邊神經病變（neuropathy）。常引起周邊神經毒性的藥物包括 Paclitaxel、Vincristine 及 Oxaliplatin 等。\n- B. bleomycin — pulmonary fibrosis：恰當。Bleomycin 的代表性毒性為肺毒性，可引起肺實質發炎與不可逆的肺纖維化。\n- C. trastuzumab — cardiac dysfunction：恰當。Trastuzumab（Herceptin，抗 HER2 單株抗體）常見副作用為心功能不全，表現為左心室射出分率（LVEF）可逆性下降。\n- D. glucocorticoids — avascular necrosis of bones：恰當。長期或大劑量使用糖皮質激素，易導致骨組織缺血並引發無菌性骨壞死（常發生於股骨頭）。\n\n【核心考點】\n1. Anthracyclines 的核心毒性為心臟毒性（Doxorubicin 終身累積劑量應限制在 450-550 mg/m² 以下）。\n2. 肺毒性代表藥：Bleomycin、Busulfan、Methotrexate。\n3. 周邊神經毒性代表藥：Vincristine、Paclitaxel、Cisplatin/Oxaliplatin。",
       "key_point": "正確觀念：A. anthracycline — neuropathy",
       "flashcard_summary": "癌症治療學的進展一方面大大提升癌症病患的存活機會,但也可能合併許多late treatment con… / late treatment consequences / late treatment consequence -> A. anthracycline — neuropathy",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1080,7 +1080,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1094,10 +1094,10 @@
         "D": "如果是有BRAF突變的惡性黑色素細胞癌,第一線的治療可以使用免疫治療或標靶治療(BRAF抑制劑加上MEK\n 抑制劑)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於第四期的皮膚惡性黑色素細胞癌(malignant melanoma) 之治療,下列敘述何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治 療效果的持久性(durability)較佳，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治\n 療效果的持久性(durability)較佳」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「使用標靶治療的副作用之一為產生皮膚鱗狀上皮癌。合併使用BRAF抑制劑加上MEK抑制劑,產生此一副作用\n 之機會比單獨使用BRAF抑制劑為低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「如果是沒有BRAF突變的惡性黑色素細胞癌,第一線的治療可以使用免疫治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「如果是有BRAF突變的惡性黑色素細胞癌,第一線的治療可以使用免疫治療或標靶治療(BRAF抑制劑加上MEK\n 抑制劑)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治 療效果的持久性(durability)較佳 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查第四期（轉移性）惡性黑色素瘤（Malignant melanoma）的最新治療共識，特別是雙標靶治療（BRAF 抑制劑 + MEK 抑制劑）與免疫治療（PD-1 阻斷劑、CTLA-4 阻斷劑）在療效持久性及副作用上的比較。\n\n【選項詳解】\n- A. 標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治療效果的持久性(durability)較佳：敘述錯誤，為本題答案。標靶治療的優勢在於「反應迅速、緩解率高」，但通常較早產生抗藥性，導致療效的持久性（durability）較差。相反地，免疫治療（Immunotherapy）最大的特色在於一旦產生療效，可維持數年之久（即所謂的尾巴效應，tail-of-the-curve），療效持久性顯著優於標靶治療。\n- B. 使用標靶治療的副作用之一為產生皮膚鱗狀上皮癌。合併使用BRAF抑制劑加上MEK抑制劑,產生此一副作用之機會比單獨使用BRAF抑制劑為低：敘述正確。單獨使用 BRAF 抑制劑會因矛盾活化 MAPK 通路而增加產生皮膚鱗狀細胞癌與角化棘皮瘤的機率，若合併 MEK 抑制劑則可阻斷此矛盾活化，進而顯著降低此副作用的發生機率。\n- C. 如果是沒有BRAF突變的惡性黑色素細胞癌,第一線的治療可以使用免疫治療：敘述正確。無 BRAF V600 突變的患者對 BRAF 抑制劑無反應，第一線首選為免疫檢查點抑制劑。\n- D. 如果是有BRAF突變的惡性黑色素細胞癌,第一線的治療可以使用免疫治療或標靶治療(BRAF抑制劑加上MEK抑制劑)：敘述正確。對於 BRAF 突變陽性患者，一線治療雙標靶或免疫治療皆為標準推薦方案。\n\n【核心考點】\n1. 黑色素瘤免疫治療 vs. 標靶治療：標靶藥物退縮快但易抗藥（持久性差）；免疫藥物起效慢但療效持久（尾巴效應）。\n2. BRAF 抑制劑（如 Dabrafenib）常與 MEK 抑制劑（如 Trametinib）合併使用，既可提高療效又能減少矛盾活化引起的皮膚鱗狀細胞癌副作用。",
       "key_point": "錯誤敘述判斷：A. 標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治 療效果的持久性(durability)較佳",
       "flashcard_summary": "第四期的皮膚惡性黑色素細胞癌(malignant melanoma) 之治療 / malignant melanoma -> A. 標靶治療(BRAF抑制劑、MEK抑制劑)相較於免疫治療(抗CTLA-4抗體、抗PD-1抗體)最大的好處是標靶治 療效果的持久性(durability)較佳",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1109,7 +1109,7 @@
       "category": "血液腫瘤科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1123,10 +1123,10 @@
         "D": "免疫治療的pembrolizumab"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「攝護腺癌(prostate cancer)合併遠端轉移,病患血中睪固酮(testosterone)已經小於50 ng/mL,下列\n 何種藥物目前尚無明確證實有效的證據?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 免疫治療的pembrolizumab，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「abiraterone acetate + prednisone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「enzalutamide」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「化學治療的docetaxel」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「免疫治療的pembrolizumab」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 免疫治療的pembrolizumab 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查去勢抗性攝護腺癌（Castration-resistant prostate cancer, CRPC）的全身性藥物治療證據。當轉移性攝護腺癌患者血中睪固酮已降至去勢水平（< 50 ng/mL）但疾病仍進展，需辨識哪些標靶、化療及免疫藥物具有證實的臨床獲益。\n\n【選項詳解】\n- A. abiraterone acetate + prednisone：有證實證據。Abiraterone acetate 為雄性素合成抑制劑，合併 Prednisone 常用於轉移性 CRPC 的一線或二線治療，能顯著延長存活期。\n- B. enzalutamide：有證實證據。Enzalutamide 是新一代雄性素受體阻斷劑，能顯著提升 mCRPC 患者的整體存活率。\n- C. 化學治療的docetaxel：有證實證據。Docetaxel 是轉移性 CRPC 的標準一線化學治療藥物，具有明確的生存获益證據。\n- D. 免疫治療的pembrolizumab：目前尚無明確證實有效的證據，為本題答案。對於一般未篩選的轉移性 CRPC 患者，Pembrolizumab 單藥治療並未能證實可帶來顯著的生存改善。僅在極少數伴有高微衛星不穩定（MSI-H）或錯配修復缺陷（dMMR）的特定晚期攝護腺癌患者中才考慮使用。\n\n【核心考點】\n1. 去勢抗性攝護腺癌（CRPC）的定義為血中睪固酮 < 50 ng/mL，且合併有生化（PSA 上升）或影像學惡化。\n2. mCRPC 的標準證實有效藥物包括新一代內分泌藥物（Abiraterone, Enzalutamide）、化療（Docetaxel, Cabazitaxel）及同位素（Radium-223）。常規免疫檢查點抑制劑（如 Pembrolizumab）在未篩選患者中無明確有效證據。",
       "key_point": "正確觀念：D. 免疫治療的pembrolizumab",
       "flashcard_summary": "攝護腺癌(prostate cancer)合併遠端轉移,病患血中睪固酮(testosterone)已經… / prostate cancer / testosterone -> D. 免疫治療的pembrolizumab",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1138,7 +1138,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1152,10 +1152,10 @@
         "D": "根除性攝護腺切除(radical prostatectomy)之後"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種情形血中攝護腺特異性抗原(prostate specific antigen, PSA)最不可能高於正常值?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 根除性攝護腺切除(radical prostatectomy)之後，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「良性攝護腺肥大(benign prostate hypertrophy)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「攝護腺切片(prostate biopsy)之後」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「攝護腺癌(prostate cancer)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「根除性攝護腺切除(radical prostatectomy)之後」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 根除性攝護腺切除(radical prostatectomy)之後 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查攝護腺特異性抗原（Prostate specific antigen, PSA）的生理來源與臨床釋放影響因素，需鑑別哪些病理、操作與手術會顯著改變血清中 PSA 的濃度。\n\n【選項詳解】\n- A. 良性攝護腺肥大(benign prostate hypertrophy)：可能高於正常。BPH 因攝護腺上皮細胞總量增多，會使血清 PSA 呈輕度或中度升高。\n- B. 攝護腺切片(prostate biopsy)之後：可能高於正常。經直腸攝護腺切片會對組織造成直接物理性創傷，使腺泡內的大量 PSA 釋放入血，切片後 PSA 常會劇烈飆升數倍並持續數週。\n- C. 攝護腺癌(prostate cancer)：可能高於正常。攝護腺癌是引起 PSA 異常升高最經典的惡性病理情況。\n- D. 根除性攝護腺切除(radical prostatectomy)之後：最不可能高於正常值，為本題答案。根除性切除術會完整移除整個攝護腺。由於 PSA 幾近完全由攝護腺上皮產生，在手術成功且無殘留或轉移的情況下，術後數週內 PSA 應降至偵測極限以下（通常 < 0.2 ng/mL），是最不可能高於正常值的情形。\n\n【核心考點】\n1. 根除性攝護腺切除術後，PSA 應降至測不出之水平，若術後 PSA 重新升高（生化復發，biochemical recurrence），常提示有腫瘤殘留或遠端轉移。\n2. 攝護腺按摩、切片、急性尿滯留及尿路感染均會引起暫時性 PSA 升高，應在這些操作或發炎消退後再評估基線 PSA。",
       "key_point": "錯誤敘述判斷：D. 根除性攝護腺切除(radical prostatectomy)之後",
       "flashcard_summary": "情形血中攝護腺特異性抗原(prostate specific antigen, PSA)最不可能高於正… / prostate specific antigen / PSA -> D. 根除性攝護腺切除(radical prostatectomy)之後",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1167,7 +1167,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1181,10 +1181,10 @@
         "D": "t(9;11)與DEK-NUP214"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列發生於acute myeloid leukemia的染色體變化與相對應的基因融合(fusion),何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. t(9;11)與DEK-NUP214」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「t(8;21)與RUNX1-RUNX1T1」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「t(15;17)與PML-RARA」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「inv(16)與CBFB-MYH11」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「t(9;11)與DEK-NUP214」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n第 41 題核心考點 / acute myeloid leukemia / fusion => t(9;11)與DEK-NUP214 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查急性嗜伊紅性/骨髓性白血病（Acute Myeloid Leukemia, AML）中常見的染色體轉位與其所產生的特定基因融合（fusion gene）之正確配對。\n\n【選項詳解】\n- A. t(8;21)與RUNX1-RUNX1T1：配對正確。t(8;21)(q22;q22) 染色體轉位會導致 RUNX1（過去稱為 AML1）與 RUNX1T1（過去稱為 ETO）基因融合，常見於 AML-M2 分型，此為預後較佳的核心結合因子白血病（CBF-AML）。\n- B. t(15;17)與PML-RARA：配對正確。t(15;17)(q22;q12) 染色體轉位會融合 PML 與 RARA（retinoic acid receptor alpha）基因，是急性前髓細胞白血病（APL, AML-M3）的特異性分子診斷特徵，亦是使用維甲酸（ATRA）療效的依據。\n- C. inv(16)與CBFB-MYH11：配對正確。第 16 號染色體倒位 inv(16)(p13q22) 或易位 t(16;16) 會融合 CBFB 與 MYH11 基因，常見於伴有異常嗜酸性球之急性粒單核細胞白血病（AML-M4eo），亦屬預後較佳的 CBF-AML。\n- D. t(9;11)與DEK-NUP214：配對錯誤，為本題答案。t(9;11)(p22;q23) 易位產生的融合基因是 KMT2A（舊稱 MLL）與 MLLT3（AF9）。而 DEK-NUP214 融合基因則是由 t(6;9)(p23;q34) 染色體轉位所產生的。\n\n【核心考點】\n1. AML 特異性染色體轉位與基因融合配對：t(8;21) -> RUNX1-RUNX1T1；t(15;17) -> PML-RARA；inv(16) -> CBFB-MYH11。\n2. t(6;9) 會產生 DEK-NUP214，而 t(9;11) 則涉及 KMT2A/MLL 重排，此兩者均為預後較差的核型異常。",
       "key_point": "第 41 題核心考點 / acute myeloid leukemia / fusion => t(9;11)與DEK-NUP214",
       "flashcard_summary": "第 41 題核心考點 / acute myeloid leukemia / fusion -> D. t(9;11)與DEK-NUP214",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1196,7 +1196,7 @@
       "category": "內科",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1210,10 +1210,10 @@
         "D": "其血液學的表現可以是全血球低下(pancytopenia)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關巨球母細胞性貧血(megaloblastic anemia)的敘述,下列何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可以和葉酸缺乏有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「可以和維生素B12缺乏有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「其血液學的表現可以是全血球低下(pancytopenia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查巨球母細胞性貧血（Megaloblastic anemia）的病因（葉酸與維生素 B12 缺乏）、分子生物學致病機制（DNA 合成受阻與核質發育不均等）及外周血象表現。\n\n【選項詳解】\n- A. 可以和葉酸缺乏有關：敘述正確。葉酸是 DNA 合成原料胸腺嘧啶（thymidine）生成的關鍵輔酶，葉酸缺乏會阻礙 DNA 複製。\n- B. 可以和維生素B12缺乏有關：敘述正確。維生素 B12 參與葉酸的活化代謝，B12 缺乏會導致活化態四氫葉酸生成不足（即甲基葉酸陷阱），進而間接導致 DNA 合成障礙。\n- C. 其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷：敘述錯誤，為本題答案。此病的基本機制是「DNA 合成/複製障礙（DNA synthesis impairment）」，而「RNA 合成與蛋白質轉譯（包括轉錄至 mRNA）過程則相對不受影響」。這導致細胞核分裂延遲，但細胞質持續發育增大，呈現「核質發育不平衡（nuclear-cytoplasmic asynchrony）」，而非轉錄受阻。\n- D. 其血液學的表現可以是全血球低下(pancytopenia)：敘述正確。嚴重的維生素 B12 或葉酸缺乏會引起骨髓內的「無效造血（ineffective hematopoiesis）」，紅血球、白血球及血小板的前驅細胞皆在骨髓內提前被破壞，周邊血常表現為全血球低下。\n\n【核心考點】\n1. 巨球母細胞性貧血分子機制：去氧尿苷（dUTP）轉化為去氧胸苷（dTTP）受阻，導致 DNA 合成受抑，但 RNA 與蛋白質合成正常（核發育滯後，胞質正常發育）。\n2. 臨床與實驗室特徵：MCV > 100 fL、過度分葉的中性球（hypersegmented neutrophils，五葉以上占大於 5% ）、全血球低下及骨髓巨幼樣變。",
       "key_point": "錯誤敘述判斷：C. 其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷",
       "flashcard_summary": "巨球母細胞性貧血(megaloblastic anemia)的敘述 / megaloblastic anemia -> C. 其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1225,7 +1225,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1239,10 +1239,10 @@
         "D": "非HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看得到EBV感染的證據"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關何杰金氏淋巴癌病源的敘述何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「目前認為其淋巴癌細胞最可能是源自於T細胞淋巴球」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看不到EBV感染的證據」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「非HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看得到EBV感染的證據」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查何杰金氏淋巴瘤（Hodgkin's Lymphoma, HL）的免疫細胞來源起源，以及不同免疫狀態（如 HIV 感染者）下，其與 EB 病毒（Epstein-Barr virus, EBV）感染的關聯性。\n\n【選項詳解】\n- A. 目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球：敘述正確，為本題答案。現代免疫學和單細胞基因檢測證實，何杰金氏淋巴瘤中經典的 Reed-Sternberg（RS）細胞源自「生發中心 B 淋巴球（germinal center B-cells）」，其體內已發生克隆性免疫球蛋白基因重排。\n- B. 目前認為其淋巴癌細胞最可能是源自於T細胞淋巴球：敘述錯誤。極少數罕見變異株可能與 T 細胞有關，但絕大多數經典型何杰金氏淋巴瘤均源自 B 淋巴球。\n- C. HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看不到EBV感染的證據：敘述錯誤。在合併 HIV 感染的何杰金氏淋巴瘤中，RS 細胞內「幾乎 100%」均能檢測到 EB 病毒（EBV）感染的證據（如 EBER 陽性）。\n- D. 非HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看得到EBV感染的證據：敘述錯誤。在無 HIV 感染的一般何杰金氏淋巴瘤患者中，只有約 30% 至 50% 存在 EBV 感染證據，並非幾乎都看得到。\n\n【核心考點】\n1. 何杰金氏淋巴瘤 RS 細胞來源：絕大多數源自於生發中心或後生發中心的 B 淋巴球。\n2. EBV 與 HL 的關聯：在免疫缺陷（如 HIV 陽性）患者中，HL 與 EBV 的關聯性高達 100%；一般人群中則僅約為 30-50% 陽性。",
       "key_point": "正確觀念：A. 目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球",
       "flashcard_summary": "何杰金氏淋巴癌病源的敘述 -> A. 目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1254,7 +1254,7 @@
       "category": "血液腫瘤科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1268,10 +1268,10 @@
         "D": "多血症(polycythemia)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者最不可能是多發性骨髓癌(multiple myeloma)常見的臨床表現特徵?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 多血症(polycythemia)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「脊椎壓迫性骨折」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「腎功能異常」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「高血鈣症(hypercalcemia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「多血症(polycythemia)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 多血症(polycythemia) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查多發性骨髓瘤（Multiple Myeloma, MM）的經典臨床特徵，即診斷標準「CRAB」所對應的臨床表現（高血鈣、腎功能不全、貧血、骨骼病變）。\n\n【選項詳解】\n- A. 脊椎壓迫性骨折：常見表現。MM 細胞分泌破骨細胞活化因子（如 RANKL），導致嚴重的溶骨性骨骼破壞（lytic lesions），脊椎骨最常受波及，易引起病理性壓迫性骨折。\n- B. 腎功能異常：常見表現。MM 產生的單株免疫球蛋白游離輕鏈會堆積並堵塞腎小管，引發骨髓瘤腎病（myeloma cast nephropathy），導致腎功能不全（CRAB 中的 R）。\n- C. 高血鈣症(hypercalcemia)：常見表現。廣泛的溶骨性骨病變使得大量骨鈣釋放入血液循環中，導致高血鈣（CRAB 中的 C）。\n- D. 多血症(polycythemia)：最不可能是常見表現，為本題答案。MM 患者因骨髓被惡性漿細胞佔據、腎功能不全導致紅血球生成素（EPO）不足，其典型血液學表現是「貧血（Anemia，CRAB 中的 A）」，而非紅血球增多的多血症。\n\n【核心考點】\n1. 多發性骨髓瘤 CRAB 症狀：\n   - C (Calcium elevation)：高血鈣。\n   - R (Renal insufficiency)：腎功能不全（血清 creatinine > 2.0 mg/dL）。\n   - A (Anemia)：貧血（Hb < 10 g/dL）。\n   - B (Bone lesions)：溶骨性骨病變（骨痛、骨折、穿鑿樣 X 光表現）。",
       "key_point": "錯誤敘述判斷：D. 多血症(polycythemia)",
       "flashcard_summary": "最不可能是多發性骨髓癌(multiple myeloma)常見的臨床表現特徵 / multiple myeloma -> D. 多血症(polycythemia)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1283,7 +1283,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1297,10 +1297,10 @@
         "D": "micronodules"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是診斷usual interstitial pneumonia在胸部電腦斷層的典型特徵?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. micronodules，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「subpleural reticulation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「traction bronchiectasis」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「honeycombing appearance」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「micronodules」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. micronodules 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查尋常性間質性肺炎（Usual Interstitial Pneumonia, UIP，即特發性肺纖維化 IPF 的病理與影像表現）在胸部高解析度電腦斷層（HRCT）下的三大典型特徵及與其他間質性肺病的鑑別。\n\n【選項詳解】\n- A. subpleural reticulation：典型特徵。UIP 在 HRCT 上表現為以雙肺底、胸膜下為主的網狀陰影（reticular pattern）。\n- B. traction bronchiectasis：典型特徵。嚴重的肺實質纖維化收縮會拉扯支氣管，造成牽引性支氣管/細支氣管擴張。\n- C. honeycombing appearance：典型特徵。蜂窩狀改變（胸膜下多排、大小相近的囊狀氣腔）是診斷確診 UIP 的最特異性且不可或缺的特徵。\n- D. micronodules：非典型特徵，為本題答案。微小結節並非 UIP/IPF 的特徵，若 HRCT 上見到明顯的微小結節，應優先考慮過敏性肺炎（hypersensitivity pneumonitis）、塵肺症或結節病（sarcoidosis）等其他疾病。\n\n【核心考點】\n1. 診斷 UIP/IPF 之 HRCT 黃金三特徵：胸膜下及肺底分布為主、網狀陰影（reticulation）、蜂窩狀改變（honeycombing），常伴隨牽引性支氣管擴張（traction bronchiectasis）。\n2. 若影像上出現明顯的微小結節（micronodules）、大片毛玻璃樣陰影（GGO）或沿氣管支氣管分布的病灶，則不支持 UIP 診斷。",
       "key_point": "錯誤敘述判斷：D. micronodules",
       "flashcard_summary": "不是診斷usual interstitial pneumonia在胸部電腦斷層的典型特徵 / usual interstitial pneumonia -> D. micronodules",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1312,7 +1312,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1326,10 +1326,10 @@
         "D": "慢性阻塞性肺病"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「60歲女性病人,因近日有呼吸困難及胸痛情形前來就診。就診時身體診察發現有右腳單隻腳水腫之情形,最\n 有可能的診斷為何?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 肺栓塞，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心衰竭」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「肺栓塞」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「氣胸」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「慢性阻塞性肺病」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 肺栓塞 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查急性肺栓塞（Pulmonary Embolism, PE）的臨床診斷思維。當 60 歲女性突發呼吸困難、胸痛，且理學檢查發現「單側（單隻腳）水腫」，應將深部靜脈血栓（DVT）與肺栓塞的連鎖機制列為最優先考慮的診斷。\n\n【選項詳解】\n- A. 心衰竭：敘述錯誤。心衰竭雖然會導致呼吸困難及下肢水腫，但其水腫一般為雙側對稱性（bilateral symmetric edema），而非單側水腫。\n- B. 肺栓塞：正確答案，為本題答案。病人出現急性呼吸困難和胸痛，且合併有右側「單腳水腫」，提示右下肢深部靜脈血栓（DVT）形成。DVT 的血栓脫落隨血流進入肺動脈即引發肺栓塞，此為高度吻合的臨床診斷。\n- C. 氣胸：敘述錯誤。氣胸會引起突發胸痛與呼吸困難，但不會導致單側下肢水腫。\n- D. 慢性阻塞性肺病：敘述錯誤。COPD 急性發作主要表現為慢性喘促加重、咳嗽及黃痰，不會引發急性的單側下肢腫脹。\n\n【核心考點】\n1. 深部靜脈血栓（DVT）與肺栓塞（PE）合稱為靜脈血栓栓塞症（VTE）。單側下肢水腫（單側肢圍相差 > 3 cm）是診斷 DVT 重要的理學體徵。\n2. 急性突發呼吸困難、胸痛，合併單側下肢腫脹者，應首選進行肺部電腦斷層血管造影（CTPA）以排除肺栓塞。",
       "key_point": "正確觀念：B. 肺栓塞",
       "flashcard_summary": "60歲女性病人,因近日有呼吸困難及胸痛情形前來就診。就診時身體診察發現有右腳單隻腳水腫之情形,最 有可… -> B. 肺栓塞",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -1341,7 +1341,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1355,10 +1355,10 @@
         "D": "抗生素治療時間通常為7~10天;必要時,需進行手術"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於肺膿瘍的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 抗生素治療時間通常為7~10天;必要時,需進行手術，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「原發性肺膿瘍最常見的位置是上肺葉的後節及下肺葉的上節」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「金黃色葡萄球菌是敗血性血栓(septic emboli)所致的肺膿瘍之常見致病菌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「厭氧性細菌常發生於原發性肺膿瘍」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「抗生素治療時間通常為7~10天;必要時,需進行手術」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 抗生素治療時間通常為7~10天;必要時,需進行手術 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查肺膿瘍（Lung abscess）的病理生理定位（原發性吸入好發部位）、常見致病菌分布（厭氧菌 vs. 金黃色葡萄球菌），以及抗生素治療的合理療程長度。\n\n【選項詳解】\n- A. 原發性肺膿瘍最常見的位置是上肺葉的後節及下肺葉的上節：敘述正確。原發性肺膿瘍主要由吸入（aspiration）口咽分泌物引起。在仰臥位時，吸入物因重力最易墜入上肺葉後節（posterior segment of RUL）與下肺葉上節（superior segment of LLL/RUL）。\n- B. 金黃色葡萄球菌是敗血性血栓(septic emboli)所致的肺膿瘍之常見致病菌：敘述正確。由血行感染（如右心感染性心內膜炎）引發的敗血性血栓在肺部會造成多發性膿瘍，其致病菌以金黃色葡萄球菌最為經典。\n- C. 厭氧性細菌常發生於原發性肺膿瘍：敘述正確。吸入性（原發性）肺膿瘍起源於口咽部定殖菌的吸入，口咽部含有高濃度的厭氧菌，因此厭氧菌為最核心之病原。\n- D. 抗生素治療時間通常為7~10天;必要時,需進行手術：敘述錯誤，為本題答案。肺膿瘍的抗生素治療「需要長期給藥」，標準療程通常需「3 到 6 週」（或直至影像學顯示空洞完全閉合或僅留纖維疤痕為止），7-10 天的療程時間過短、容易導致復發。\n\n【核心考點】\n1. 肺膿瘍抗生素療程一般長達 3-6 週，早期經驗性用藥應涵蓋厭氧菌（如使用 Clindamycin 或 Beta-lactam/beta-lactamase inhibitor）。\n2. 吸入性肺膿瘍好發於仰臥位時重力最低點（上肺後節、下肺上節）；血源性肺膿瘍多為多發性、以金黃色葡萄球菌為主。",
       "key_point": "錯誤敘述判斷：D. 抗生素治療時間通常為7~10天;必要時,需進行手術",
       "flashcard_summary": "肺膿瘍的敘述 -> D. 抗生素治療時間通常為7~10天;必要時,需進行手術",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1370,7 +1370,7 @@
       "category": "胸腔內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1384,10 +1384,10 @@
         "D": "因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「45歲女性病人因間皮瘤(mesothelioma)接受化學治療。在藥物輸注10分鐘後,開始有皮疹、嘴唇腫脹、呼\n 吸困難及血壓下降的情形,下列處置何者最為優先?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「因為血壓下降懷疑敗血症休克,應給與大量輸液及抗生素」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「因為呼吸困難,應立即給與插管使用呼吸器」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「因為皮疹應給與類固醇」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查化療藥物注射過程中突發之「過敏性休克（Anaphylaxis）」的緊急識別與黃金急救處置。必須將搶救生命的關鍵藥物（腎上腺素）列為最優先處置，而非慢效的輔助藥物。\n\n【選項詳解】\n- A. 因為血壓下降懷疑敗血症休克,應給與大量輸液及抗生素：處置錯誤。患者症狀出現在化療藥物輸注 10 分鐘內，且合併皮疹、嘴唇腫脹與呼吸困難，為典型的 1 型過敏反應（過敏性休克），而非感染所致之敗血症休克。\n- B. 因為呼吸困難,應立即給與插管使用呼吸器：處置錯誤。喉頭水腫在早期氣道受阻時，應先使用收縮血管消腫的藥物。盲目插管易因喉部黏膜極度水腫而失敗，甚至加重氣道痙攣，應先給予首選急救藥物。\n- C. 因為皮疹應給與類固醇：處置錯誤。雖然類固醇能減輕過敏，但其起效緩慢（需數小時），對於已經發生血壓下降（休克）和呼吸困難的急症，無法發揮即時救命效果。\n- D. 因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇：處置正確，為本題答案。過敏性休克的一線首選救命處置為「立即肌肉注射腎上腺素（Epinephrine IM, 0.3-0.5 mg）」，它能迅速收縮血管提升血壓、舒張支氣管並抑制過敏介質釋放，抗組織胺與類固醇則做為後續之輔助用藥。\n\n【核心考點】\n1. 過敏性休克（Anaphylaxis）急救一線首選：肌肉注射腎上腺素（Epinephrine IM, 1:1000），注射部位為大腿外側肌（anterolateral thigh）。\n2. 類固醇及抗組織胺僅為二線輔助用藥，起效慢，絕不能替代腎上腺素作為首要處置。",
       "key_point": "正確觀念：D. 因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇",
       "flashcard_summary": "45歲女性病人因間皮瘤(mesothelioma)接受化學治療。在藥物輸注10分鐘後,開始有皮疹、嘴唇… / mesothelioma -> D. 因為發生在藥物使用後,應立即給與腎上腺素(epinephrine)及其他輔助藥物,如:抗組織胺、類固醇",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1399,7 +1399,7 @@
       "category": "胸腔內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1413,10 +1413,10 @@
         "D": "僅14"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「68歲男性,長期吸菸,有高血壓,近5年內因腦血管栓塞住院2次,都無後遺症。因最近一週劇烈咳嗽、黃\n 痰、呼吸喘促、發燒至急診求治。胸部X光顯示右上肺葉大葉性浸潤,同側肋膜積液。痰檢顯示痰中有許多\n 白血球,染色看到許多革蘭氏陽性雙球菌(diplococci),下列何種敘述正確?1為吸入性肺炎\n (aspiration pneumonia) 2應選擇可以涵蓋Streptococcus pneumoniae之抗生素治療 3應選擇可以涵\n 蓋Pseudomonas aeruginosa之抗生素治療 4應考慮住院及檢驗肋膜積液」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 24，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「12」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「134」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「24」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「僅14」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 24 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查社區感染性肺炎（CAP）的病原學判斷（依據痰液染色革蘭氏陽性雙球菌）以及臨床嚴重度評估（出現同側肋膜積液）的住院指引處置。\n\n【選項詳解】\n- 敘述 1：本病患之症狀（發燒、咳嗽黃痰）及胸部 X 光「大葉性浸潤」與痰染色陽性雙球菌，是典型的肺炎鏈球菌社區型肺炎表現，非吸入性肺炎（後者多為混合厭氧菌感染、常表現為段性分布或空洞壞死），故 1 錯誤。\n- 敘述 2：痰染色看到的「革蘭氏陽性雙球菌（Gram-positive diplococci）」是「肺炎鏈球菌（Streptococcus pneumoniae）」的特異性形態特徵，因此經驗性抗生素必須確實涵蓋此致病菌，故 2 正確。\n- 敘述 3：患者無綠膿桿菌感染的高風險因子（如結構性肺病、近期反覆使用廣效抗生素），且痰鏡檢非革蘭氏陰性桿菌，故一線治療無須特意涵蓋綠膿桿菌（Pseudomonas aeruginosa），故 3 錯誤。\n- 敘述 4：患者為 68 歲高齡，合併有同側肋膜積液（Parapneumonic effusion）。這需要住院評估，並進行診斷性胸腔穿刺術抽吸胸水檢驗，以排除複雜性胸水或膿胸之可能，故 4 正確。\n綜合上述，正確的敘述為 2 與 4，答案為 C。\n\n【核心考點】\n1. 肺炎鏈球菌在痰液耐酸或革蘭氏染色下呈現經典的「革蘭氏陽性雙球菌（diplococci）」。\n2. 社區型肺炎（CAP）若合併類肺炎旁胸膜積液，應住院進行胸腔穿刺術（thoracentesis），藉由胸水 pH、glucose 及細胞學分析決定是否需放置胸腔引流管（chest tube）。",
       "key_point": "正確觀念：C. 24",
       "flashcard_summary": "68歲男性,長期吸菸,有高血壓,近5年內因腦血管栓塞住院2次,都無後遺症。因最近一週劇烈咳嗽、黃 痰、… / diplococci / aspiration pneumonia -> C. 24",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1428,7 +1428,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1442,10 +1442,10 @@
         "D": "支氣管擴張劑(bronchodilator)霧化治療"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「病人因慢性阻塞性肺病急性發作至急診求診,下列處置何者缺乏實證支持?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 靜脈注射茶鹼(theophylline)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「靜脈注射茶鹼(theophylline)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「靜脈注射抗生素」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「靜脈注射類固醇」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「支氣管擴張劑(bronchodilator)霧化治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 靜脈注射茶鹼(theophylline) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查慢性阻塞性肺病急性發作（AECOPD）的急診一線藥物處置實證醫學。需區分支氣管擴張劑、抗生素、類固醇與傳統甲基黃嘌呤類藥物在實證上的療效與安全視窗。\n\n【選項詳解】\n- A. 靜脈注射茶鹼(theophylline)：缺乏實證，為本題答案。在 AECOPD 的急性急診處置中，靜脈茶鹼（Aminophylline）的支氣管舒張獲益極有限，且其治療安全視窗極窄，易引發嚴重心律不整、癲癇、頑固性嘔吐等致命副作用，因此現行國際指引（如 GOLD）已「不再推薦」使用靜脈茶鹼治療急性發作。\n- B. 靜脈注射抗生素：有實證支持。當 AECOPD 表現為痰量增加、痰變黃稠等細菌感染特徵時，投予抗生素能顯著縮短病程、降低死亡率。\n- C. 靜脈注射類固醇：有實證支持。全身性糖皮質激素（口服或靜脈注射）能縮短 AECOPD 的康復時間、改善缺氧、並降低短期內再次發作的風險。\n- D. 支氣管擴張劑(bronchodilator)霧化治療：有實證支持。吸入短效 beta2 促效劑（SABA）合併短效抗膽鹼藥物（SAMA）的霧化吸入是急診緩解支氣管痙攣的核心一線治療。\n\n【核心考點】\n1. AECOPD 的三大急診核心藥物：短效支氣管擴張劑（SABA/SAMA 吸入）、全身性類固醇（口服或靜脈）、抗生素（有細菌感染指徵時）。\n2. 靜脈茶鹼類藥物因毒性風險大、實證獲益低，不被推薦用於 AECOPD 的常規急性處置。",
       "key_point": "正確觀念：A. 靜脈注射茶鹼(theophylline)",
       "flashcard_summary": "病人因慢性阻塞性肺病急性發作至急診求診 -> A. 靜脈注射茶鹼(theophylline)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1457,7 +1457,7 @@
       "category": "胸腔內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1471,10 +1471,10 @@
         "D": "應立刻進行胸部電腦斷層檢查"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「75歲中風而長期臥床男性病人,因為要入住安養中心而進行身體健康檢查。胸部X光並無異常發現,但痰液\n 塗片耐酸性染色鏡檢(acid-fast stain)為陽性。下列敘述何者最適當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「應等待痰的分枝桿菌培養結果後,再決定是否可入住安養中心及接受抗結核藥物治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「應立即另外再採集3套痰檢體進行分枝桿菌培養及鑑定」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「應立刻進行胸部電腦斷層檢查」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查疑似肺結核患者在篩檢中的鑑別診斷處置。面對痰液耐酸性染色（AFS）陽性但胸部 X 光無異常且無症狀的長期臥床患者，需選用快速且特異性高的分子生物學工具來釐清病原菌（結核 vs. 非結核分枝桿菌），以落實感染管制。\n\n【選項詳解】\n- A. 應等待痰的分枝桿菌培養結果後,再決定是否可入住安養中心及接受抗結核藥物治療：敘述錯誤。分枝桿菌培養需耗時 2 至 8 週，若病患實為開放性肺結核，等待培養結果會延誤隔離時機，造成安養中心群聚感染風險。\n- B. 此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test)：敘述正確，為本題答案。耐酸性染色（AFS）陽性僅代表檢體含有分枝桿菌，但無法區分是傳染性的結核分枝桿菌（MTB）還是非傳染性的非結核分枝桿菌（NTM）。此時應立即進行結核菌核酸增幅檢驗（TB-NAAT/PCR），可在數小時內快速判定有無結核菌 DNA，以利臨床決策。\n- C. 應立即另外再採集3套痰檢體進行分枝桿菌培養及鑑定：敘述錯誤。在 AFS 已為陽性的情況下，重複採集培養並不能解決短期內菌種鑑定的問題，首要處置應是針對現有陽性檢體進行核酸檢測。\n- D. 應立刻進行胸部電腦斷層檢查：敘述錯誤。電腦斷層（CT）為結構性影像檢查，無法進行病原體種別鑑定，對於區分結核與 NTM 無直接幫助。\n\n【核心考點】\n1. 痰耐酸性染色（AFS）陽性不等於結核病，亦可能是非結核分枝桿菌（NTM）感染。在盛行區，AFS 陽性之檢體應常規加做結核菌核酸增幅檢測（TB-NAAT）。\n2. 結核菌核酸增幅檢測（NAAT/PCR）具備高敏感度與高專一性，能在當天快速監測 MTB，為臨床隔離與用藥的重要依據。",
       "key_point": "正確觀念：B. 此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test)",
       "flashcard_summary": "75歲中風而長期臥床男性病人,因為要入住安養中心而進行身體健康檢查。胸部X光並無異常發現,但痰液 塗片… / acid-fast stain -> B. 此檢體應進行結核菌核酸增幅檢驗(nucleic acid amplification test)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -1486,7 +1486,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1500,10 +1500,10 @@
         "D": "停經後,女性補充雌激素,可以改善停經後的症狀,但補充雌激素可能增加發生子宮內膜癌(endometrial\n cancer)或靜脈血栓症(venous thromboembolism)的風險"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關於女性更年期停經的敘述,何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「基本上,女性在35歲之後,卵巢功能,以及生育能力就開始下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「女性更年期的症狀,包括潮紅(hot flush),以及夜間盜汗(night sweating)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「停經後,女性補充雌激素,可以改善停經後的症狀,但補充雌激素可能增加發生子宮內膜癌(endometrial\n cancer)或靜脈血栓症(venous thromboembolism)的風險」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查女性更年期停經（Menopause）的生理機轉、臨床症狀及荷爾蒙補充療法（HRT）的利弊。需特別釐清停經後下視丘-腦下垂體-卵巢軸的內分泌回饋調控指標變化。\n\n【選項詳解】\n- A. 基本上,女性在35歲之後,卵巢功能,以及生育能力就開始下降：敘述正確。女性在 35 歲後卵巢內原始卵泡數量加速減少且品質下降，生育能力呈顯著衰退趨勢。\n- B. 女性更年期的症狀,包括潮紅(hot flush),以及夜間盜汗(night sweating)：敘述正確。雌激素水平低下會影響下視丘的體溫調節中樞，引發典型的血管舒縮症狀，如面部潮紅與夜間盜汗。\n- C. 停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低：敘述錯誤，為本題答案。停經後由於卵巢濾泡耗竭，雌二醇（E2）分泌量確實會持續顯著低下；但在失去雌激素的負回饋抑制後，腦下垂體會代償性大量分泌「濾泡刺激素（FSH）」，因此停經後女性的血清 FSH 濃度會「持續偏高（通常 > 40 mIU/mL）」，而非偏低。\n- D. 停經後,女性補充雌激素,可以改善停經後的症狀,但補充雌激素可能增加發生子宮內膜癌(endometrial cancer)或靜脈血栓症(venous thromboembolism)的風險：敘述正確。雌激素能有效緩解更年期症狀，但單獨使用會刺激子宮內膜過度增生，增加子宮內膜癌風險（故有子宮者需合併黃體素），且會輕度增加靜脈血栓與中風的風險。\n\n【核心考點】\n1. 停經的激素診斷指標：雌二醇（E2）低下、濾泡刺激素（FSH）顯著升高（一般以 FSH > 30-40 mIU/mL 作為停經的診斷界限）。\n2. 荷爾蒙補充療法（HRT）：有子宮者補充雌激素必須合併黃體素以保護子宮內膜，避免誘發子宮內膜癌。",
       "key_point": "錯誤敘述判斷：C. 停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低",
       "flashcard_summary": "第 52 題核心考點 -> C. 停經後,濾泡刺激素(follicle-stimulating hormone)及雌二醇(estradiol) 會持續偏低",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1515,7 +1515,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1529,10 +1529,10 @@
         "D": "每天給與四次速效型的胰島素注射"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關basal-bolus胰島素注射法的敘述,何者最適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「三餐給與預混型的胰島素,並於睡前給與一次長效型的胰島素注射」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「每天給與一次超長效的胰島素注射」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「每天給與四次速效型的胰島素注射」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查糖尿病胰島素密集治療（Intensive insulin therapy）中「基礎-餐前（Basal-bolus）注射療法」的具體臨床實施方案。此方案旨在最大程度地模擬正常人體的生理性胰島素分泌模式。\n\n【選項詳解】\n- A. 三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射：敘述正確，為本題答案。Basal-bolus 療法的設計即為：利用每日一次（或兩次）的長效/超長效胰島素（如 Glargine, Detemir 或 Degludec）維持全天恆定的基礎胰島素水平（basal）；並在三餐餐前注射速效（如 Aspart, Lispro）或短效（Regular）胰島素，以應對餐後血糖的飆升（bolus）。\n- B. 三餐給與預混型的胰島素,並於睡前給與一次長效型的胰島素注射：敘述錯誤。預混胰島素已包含中長效及速效成分，若三餐注射預混型再加上睡前長效注射，會導致嚴重的胰島素累積，極易引發致命的低血糖。\n- C. 每天給與一次超長效的胰島素注射：敘述錯誤。此為單純的基礎胰島素治療，無法有效控制三餐餐後的血糖波動。\n- D. 每天給與四次速效型的胰島素注射：敘述錯誤。速效型胰島素半衰期極短（數小時），若無長效胰島素提供基礎背景劑量，患者在餐間及夜間會出現嚴重的空腹高血糖。\n\n【核心考點】\n1. 基礎-餐前（Basal-bolus）療法：提供最符合生理需求的胰島素曲線，一般為一日四針（一針長效提供基礎 + 三針速/短效控制三餐餐後）。\n2. 速效（Rapid-acting）及短效（Short-acting）主要控制餐後血糖（Bolus）；長效（Long-acting）及超長效主要維持背景空腹血糖（Basal）。",
       "key_point": "正確觀念：A. 三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射",
       "flashcard_summary": "第 53 題核心考點 / basal-bolus -> A. 三餐注射短效或速效的胰島素,並每日給與一次長效型的胰島素注射",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1544,7 +1544,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1558,10 +1558,10 @@
         "D": "足部潰瘍發生時要避免患部的外來壓力"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「糖尿病下肢病變是導致截肢的主要原因,下列敘述何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 足部潰瘍很難透過衛教來預防，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「下肢病變可以是血管阻塞或神經病變所引起」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「足部潰瘍會因為血管病變而難以癒合」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「足部潰瘍很難透過衛教來預防」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「足部潰瘍發生時要避免患部的外來壓力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 足部潰瘍很難透過衛教來預防 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查糖尿病足部下肢病變（Diabetic foot disease）的致病機制（神經病變與血管病變）、癒合障礙原因，以及臨床預防衛教與減壓治療的重要性。\n\n【選項詳解】\n- A. 下肢病變可以是血管阻塞或神經病變所引起：敘述正確。糖尿病下肢病變常為多因素引起，包括周邊動脈疾病（PAD，導致缺血）及周邊神經病變（感覺喪失導致易受傷而不自知、運動神經病變導致足部變形受壓）。\n- B. 足部潰瘍會因為血管病變而難以癒合：敘述正確。微血管與大血管阻塞會導致局部組織血流不足、缺氧，使得免疫細胞及修復因子無法到達傷口，導致潰瘍極難癒合且易發生壞疽。\n- C. 足部潰瘍很難透過衛教來預防：敘述錯誤，為本題答案。糖尿病足部潰瘍是「高度可預防的」。落實足部照護衛教（如每天檢查足底有無傷口、著合適鞋襪防磨、不赤腳走路、注意保濕避免乾裂）能大幅減少足部潰瘍及後續截肢的發生率。\n- D. 足部潰瘍發生時要避免患部的外來壓力：敘述正確。一旦發生足部潰瘍，對患部進行有效「減壓（off-loading）」（如使用特殊減壓鞋、石膏或避免負重）是促進傷口癒合不可或缺的治療步驟。\n\n【核心考點】\n1. 糖尿病足致病三大要素：周邊神經病變（Sensory neuropathy，保護性感覺喪失）、周邊血管病變（PAD，缺血）及續發感染。\n2. 預防與治療：常規足部篩檢（利用 10g 摩諾絲單股尼龍線 10-g monofilament 測試保護性感覺）與生活衛教能極佳防範潰瘍；潰瘍發生後首重減壓、控制感染及改善血流。",
       "key_point": "錯誤敘述判斷：C. 足部潰瘍很難透過衛教來預防",
       "flashcard_summary": "糖尿病下肢病變是導致截肢的主要原因 -> C. 足部潰瘍很難透過衛教來預防",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1573,7 +1573,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1587,10 +1587,10 @@
         "D": "一般而言,瘦的人血中瘦素(leptin)濃度較肥胖者高"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關肥胖及其生理機轉之敘述,何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. 瘦素(leptin)主要由脂肪組織分泌」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「體重100公斤,身高180公分之男子,其身體質量指數(body mass index)為32」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「男性肥胖定義, 身體質量指數(body mass index)為27,女性則為25」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「瘦素(leptin)主要由脂肪組織分泌」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「一般而言,瘦的人血中瘦素(leptin)濃度較肥胖者高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n第 55 題核心考點 => 瘦素(leptin)主要由脂肪組織分泌 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查肥胖（Obesity）的診斷標準（身體質量指數 BMI 計算與國健署定義），以及調控食慾與能量平衡的重要激素「瘦素（Leptin）」的來源與生理變化特徵。\n\n【選項詳解】\n- A. 體重100公斤,身高180公分之男子,其身體質量指數(body mass index)為32：敘述錯誤。身體質量指數（BMI）公式為體重（公斤）除以身高（公尺）的平方：BMI = 100 / (1.8)^2 = 100 / 3.24 = 30.86。四捨五入後應為 31，而非 32。\n- B. 男性肥胖定義, 身體質量指數(body mass index)為27,女性則為25：敘述錯誤。根據我國衛生福利部國民健康署的標準，不論男性或女性，成人肥胖的定義均為 BMI >= 27。過重定義為 24 <= BMI < 27。\n- C. 瘦素(leptin)主要由脂肪組織分泌：敘述正確，為本題答案。瘦素（Leptin）是由白色脂肪組織（white adipose tissue）的脂肪細胞所合成與分泌的一種胜肽激素，作用於下視丘，具有抑制食慾、增加能量消耗的作用。\n- D. 一般而言,瘦的人血中瘦素(leptin)濃度較肥胖者高：敘述錯誤。血清中瘦素（Leptin）的濃度與體內的脂肪總量呈正比。因此，肥胖者血中的瘦素濃度通常顯著高於消瘦者（但肥胖者常因下視丘受體不敏感，存在瘦素阻抗 leptin resistance）。\n\n【核心考點】\n1. 台灣成人 BMI 標準：\n   - 正常：18.5 <= BMI < 24\n   - 過重：24 <= BMI < 27\n   - 肥胖：BMI >= 27\n2. 瘦素（Leptin）：由脂肪細胞分泌，血清濃度反映全身脂肪含量。肥胖者因瘦素阻抗，血清 Leptin 濃度代償性升高。",
       "key_point": "第 55 題核心考點 => 瘦素(leptin)主要由脂肪組織分泌",
       "flashcard_summary": "第 55 題核心考點 -> C. 瘦素(leptin)主要由脂肪組織分泌",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1602,7 +1602,7 @@
       "category": "內科",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1616,10 +1616,10 @@
         "D": "頸部核磁共振檢查"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「術前診斷甲狀腺結節良惡性的黃金標準為下列何者?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 甲狀腺細針穿刺細胞學檢查，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「甲狀腺超音波檢查」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「抽血檢驗血中甲狀腺球蛋白(thyroglobulin)濃度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「甲狀腺細針穿刺細胞學檢查」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「頸部核磁共振檢查」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 甲狀腺細針穿刺細胞學檢查 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查甲狀腺結節（Thyroid nodule）在手術前的診斷與評估工具。需在超音波、血清標記與細胞學檢查之間，辨識診斷良惡性的金黃標準。\n\n【選項詳解】\n- A. 甲狀腺超音波檢查：敘述錯誤。超音波是評估甲狀腺結節的第一線影像工具，能分析結節的特徵（如微鈣化、低回音、邊界不清）以預估惡性機率，但不能提供病理診斷，非診斷良惡性的黃金標準。\n- B. 抽血檢驗血中甲狀腺球蛋白(thyroglobulin)濃度：敘述錯誤.甲狀腺球蛋白（Tg）在多種良性甲狀腺疾病（如甲狀腺腫、甲亢、甲狀腺炎）中皆可能升高，特異性低，無法用於術前診斷結節良惡性。其主要用於分化型甲狀腺癌手術後的復發追蹤。\n- C. 甲狀腺細針穿刺細胞學檢查：敘述正確，為本題答案。甲狀腺細針穿刺細胞學檢查（Fine-Needle Aspiration Cytology, FNAC）是目前臨床上術前診斷甲狀腺結節良惡性最準確、最安全且最具成本效益的黃金標準，可指導後續是否需進行手術切除。\n- D. 頸部核磁共振檢查：敘述錯誤。頸部 MRI 主要用於評估晚期巨大甲狀腺癌對周圍器官（氣管、食道、大血管）的壓迫與侵犯程度，對結節的良惡性鑑別診斷能力不如 FNAC。\n\n【核心考點】\n1. 術前甲狀腺結節評估：甲狀腺功能正常者，首選超音波評估，若符合超音波惡性指標（如 TIRADS 分級），則進行甲狀腺細針穿刺（FNAC）以取得細胞學確診。\n2. 甲狀腺球蛋白（Tg）不可用於術前惡性腫瘤的篩檢或診斷，因其在良性疾病中亦常升高；但可用於全甲狀腺切除術後，作為監監測癌症復發的腫瘤標記。",
       "key_point": "正確觀念：C. 甲狀腺細針穿刺細胞學檢查",
       "flashcard_summary": "術前診斷甲狀腺結節良惡性的黃金標準為 -> C. 甲狀腺細針穿刺細胞學檢查",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1631,7 +1631,7 @@
       "category": "新陳代謝科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1645,10 +1645,10 @@
         "D": "注射體抑素類似物(somatostatin analogue)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「造成肢端肥大症的腦下垂體腫瘤的治療首選為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 經蝶鞍手術(transsphenoidal surgery)去除腫瘤，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「放射線治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「多巴胺受體作用劑(dopamine receptor agonist)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「經蝶鞍手術(transsphenoidal surgery)去除腫瘤」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「注射體抑素類似物(somatostatin analogue)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 經蝶鞍手術(transsphenoidal surgery)去除腫瘤 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查肢端肥大症（Acromegaly，多由生長激素分泌型腦下垂體瘤引起）的臨床一線治療方案。需在手術、藥物與放療之間進行首選決策判斷。\n\n【選項詳解】\n- A. 放射線治療：敘述錯誤。放射治療（如立體定位放射手術 Gamma Knife）起效緩慢（通常需數年才達最大療效），且常合併有長期腦下垂體功能低下的副作用，一般僅用於手術殘餘腫瘤、藥物控制不佳時的輔助或三線治療。\n- B. 多巴胺受體作用劑(dopamine receptor agonist)：敘述錯誤。多巴胺受體促效劑（如 Cabergoline）雖能部分抑制生長激素（GH）的分泌，但整體療效有限，僅適用於輕度患者或做為輔助藥物，非首選治療。\n- C. 經蝶鞍手術(transsphenoidal surgery)去除腫瘤：敘述正確，為本題答案。對於絕大多數肢端肥大症患者，除了有手術絕對禁忌症者外，「經鼻經蝶鞍顯微手術（Transsphenoidal surgery, TSS）」是臨床公認的「一線首選治療」。該手術能直接切除腫瘤、解除壓迫，並有極高機率快速達到生化學緩解（GH & IGF-1 正常化）。\n- D. 注射體抑素類似物(somatostatin analogue)：敘述錯誤。體抑素類似物（如 Octreotide, Lanreotide）是極佳且有效的藥物療方，能顯著降低 GH 與 IGF-1，並縮小腫瘤。然而，由於藥物無法根治腫瘤且費用昂貴，臨床上主要用於術後殘餘的患者、無法手術者或手術前的準備，不作為常規首選。\n\n【核心考點】\n1. 肢端肥大症首選治療：經蝶鞍顯微切除手術（TSS）。目標是使血清隨機 GH < 1.0 mcg/L（且 OGTT 抑制試驗下 GH < 0.4 mcg/L），且 IGF-1 降至年齡與性別對照的正常範圍。\n2. 體抑素類似物（SRLs）為術後殘餘或無法手術患者的首選藥物治療；多巴胺促效劑療效較弱；放射治療為救援（salvage）手段。",
       "key_point": "正確觀念：C. 經蝶鞍手術(transsphenoidal surgery)去除腫瘤",
       "flashcard_summary": "造成肢端肥大症的腦下垂體腫瘤的治療首選為何 -> C. 經蝶鞍手術(transsphenoidal surgery)去除腫瘤",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1660,7 +1660,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1674,10 +1674,10 @@
         "D": "甲狀腺超音波"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列檢查,那一項是診斷「疾病甲狀腺正能症(sick euthyroid syndrome)」最關鍵的指標?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 逆位三碘甲狀腺素(reverse T3)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「三碘甲狀腺素(T3)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「四碘甲狀腺素(T4)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「逆位三碘甲狀腺素(reverse T3)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「甲狀腺超音波」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 逆位三碘甲狀腺素(reverse T3) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查非甲狀腺疾病綜合症（Nonthyroidal Illness Syndrome, NTIS），臨床上常稱為「甲狀腺正能症候群（Sick euthyroid syndrome）」。需理解機體在嚴重全身性疾病壓力下，外周甲狀腺素代謝途途徑改變的特徵指標。\n\n【選項詳解】\n- A. 三碘甲狀腺素(T3)：敘述錯誤。在該綜合症中，血清 T3 通常顯著下降（故又稱低 T3 症候群），但低 T3 亦可見於原發性甲狀腺功能低下或重度營養不良，缺乏特異性，非最關鍵鑑別指標。\n- B. 四碘甲狀腺素(T4)：敘述錯誤。血清 T4 在此病中多為正常，在危重病患中亦可下降，無法作為確診或鑑別的關鍵特徵。\n- C. 逆位三碘甲狀腺素(reverse T3)：敘述正確，為本題答案。在嚴重軀體疾病壓力下，外周組織的 5'-deiodinase 活性受到抑制，導致 T4 轉化為活性 T3 的路徑受阻，反而會大量經由另一途徑轉化為無活性的「逆位三碘甲狀腺素（reverse T3, rT3）」。因此，患者血清中「rT3 顯著升高」是診斷與鑑別此綜合症最關鍵且具特異性的指標（原發性甲減患者之 rT3 通常是降低的）。\n- D. 甲狀腺超音波：敘述錯誤。超音波僅能評估甲狀腺實體結構，無法反映外周甲狀腺素的酶促代謝改變，對此綜合症無診斷意義。\n\n【核心考點】\n1. 甲狀腺正能症候群（Sick Euthyroid Syndrome）之激素特徵：低 T3、正常或低 T4、正常 TSH，且伴隨「rT3 顯著升高」。\n2. 病生理機轉：嚴重軀體疾病（如敗血症、心肌梗塞、重度外傷）導致外周脫碘酶活性改變，使 T4 向無活性 rT3 轉化增加，此為身體降低代謝的保護性代償反應，通常不需補充甲狀腺素，治療應著重於原發疾病。",
       "key_point": "正確觀念：C. 逆位三碘甲狀腺素(reverse T3)",
       "flashcard_summary": "第 58 題核心考點 / sick euthyroid syndrome -> C. 逆位三碘甲狀腺素(reverse T3)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1689,7 +1689,7 @@
       "category": "新陳代謝科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1703,10 +1703,10 @@
         "D": "30%~70%"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「導管長期置放是造成醫療照護相關感染的常見危險因子,導尿管置放後每日發生尿路感染的機會,約為多\n 少?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 3%~7%，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「0.03%~0.07%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「0.3%~0.7%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「3%~7%」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「30%~70%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 3%~7% 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查院內感染控制（Infection control）中，關於導尿管相關尿路感染（Catheter-associated urinary tract infection, CAUTI）每日發生率的流行病學統計數據。\n\n【選項詳解】\n- A. 0.03%~0.07%：數值過低。與臨床實際高發的 CAUTI 風險不符。\n- B. 0.3%~0.7%：數值偏低。無法反映長期置放尿管必然導致感染的累積效應。\n- C. 3%~7%：敘述正確，為本題答案。根據臨床與感染管制流行病學教科書統計，留置導尿管的患者，每日發生尿路感染（菌尿症）的機率大約為「3% 至 7%」。隨著留置天數增加，感染率呈線性累積，留置超過 30 天的患者，幾乎 100% 都會發生菌尿症。\n- D. 30%~70%：數值過高。每日 30%-70% 的感染率不符合實際留置數日才陸續發病的臨床病程。\n\n【核心考點】\n1. 留置導尿管是院內尿路感染最主要的原因。每日感染發生率約為 3-7%。\n2. 預防 CAUTI 最有效的措施是：嚴格掌握置管適應症、儘早移除尿管、維持密閉式引流系統，並避免不必要的膀胱沖洗。",
       "key_point": "正確觀念：C. 3%~7%",
       "flashcard_summary": "導管長期置放是造成醫療照護相關感染的常見危險因子,導尿管置放後每日發生尿路感染的機會,約為多 少 -> C. 3%~7%",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1718,7 +1718,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1732,10 +1732,10 @@
         "D": "磺胺類(sulfonamide)— 葉酸合成(folate synthesis)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關抗生素的主要抑制機轉配對,何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 巨環素(macrolide)— DNA合成(DNA synthesis)，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「盤尼西林(penicillin)— 細胞壁合成(cell wall synthesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「四環黴素(tetracycline)— 蛋白質合成(protein synthesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「巨環素(macrolide)— DNA合成(DNA synthesis)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「磺胺類(sulfonamide)— 葉酸合成(folate synthesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 巨環素(macrolide)— DNA合成(DNA synthesis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查臨床常用抗生素的核心藥理分類與其分子抑制機轉配對，需精準掌握抗生素作用於細胞壁、蛋白質、DNA 及葉酸合成等靶點的差異。\n\n【選項詳解】\n- A. 盤尼西林(penicillin)— 細胞壁合成(cell wall synthesis)：配對正確。盤尼西林（Penicillin）屬於 beta-lactam 類抗生素，能抑制青黴素結合蛋白（PBPs），阻斷細菌細胞壁 peptidoglycan 鏈的交聯合成。\n- B. 四環黴素(tetracycline)— 蛋白質合成(protein synthesis)：配對正確。四環黴素（Tetracycline）結合至細菌核糖體的 30S 次單元，抑制蛋白質的合成過程。\n- C. 巨環素(macrolide)— DNA合成(DNA synthesis)：配對錯誤，為本題答案。巨環類抗生素（Macrolides，如 Erythromycin, Azithromycin, Clarithromycin）的分子機轉為結合至細菌核糖體的「50S 次單元」，藉由抑制轉肽作用（translocation）來「阻斷蛋白質合成（protein synthesis）」，而非抑制 DNA 合成。抑制 DNA 合成的經典抗生素為 Quinolones（氟喹諾酮類，抑制 DNA 旋轉酶 DNA gyrase）。\n- D. 磺胺類(sulfonamide)— 葉酸合成(folate synthesis)：配對正確。磺胺類藥物（Sulfonamides）結構類似 PABA，能競爭性抑制二氫葉酸合成酶，阻斷細菌的葉酸合成。\n\n【核心考點】\n1. 抑制蛋白質合成的抗生素靶點：\n   - 作用於 30S 核糖體：Tetracyclines、Aminoglycosides（氨基糖苷類）。\n   - 作用於 50S 核糖體：Macrolides、Clindamycin、Chloramphenicol、Linezolid。\n2. 抑制細胞壁合成：Beta-lactams（Penicillins, Cephalosporins, Carbapenems）、Glycopeptides（Vancomycin）。\n3. 抑制核酸（DNA/RNA）合成：Quinolones（抑制 DNA）、Rifampin（抑制 RNA 聚合酶）。",
       "key_point": "錯誤敘述判斷：C. 巨環素(macrolide)— DNA合成(DNA synthesis)",
       "flashcard_summary": "第 60 題核心考點 -> C. 巨環素(macrolide)— DNA合成(DNA synthesis)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1747,7 +1747,7 @@
       "category": "感染科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1761,10 +1761,10 @@
         "D": "抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關中樞神經感染單純疱疹病毒(HSV)診斷工具中的HSV腦脊髓液聚合酶鏈鎖反應(polymerase chain\n reaction, PCR),下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 D. 抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「敏感性(sensitivity)及專一性(specificity)都超過90%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「在發病的72小時內,腦脊髓液HSV PCR有可能呈現陰性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「腦脊髓液HSV PCR的陽性率會隨著病程而逐漸降低,發病超過14天之病人,大約只有20%仍然呈現陽性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：D. 抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 % 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查單純疱疹病毒（HSV）所致中樞神經感染（單純疱疹腦炎 HSE）之腦脊髓液聚合酶鏈鎖反應（CSF HSV PCR）診斷工具的臨床特徵，包含其敏感度、病程陽性率演變以及抗病毒藥物（Acyclovir）對檢驗陽性率的實際影響。\n\n【選項詳解】\n- A. 敏感性(sensitivity)及專一性(specificity)都超過90%：敘述正確。CSF HSV PCR 是診斷 HSE 的金標準，其敏感度及特異度均極高（通常可達 96-98%）。\n- B. 在發病的72小時內,腦脊髓液HSV PCR有可能呈現陰性：敘述正確。發病極早期因病毒載量過低，PCR 檢測可能呈偽陰性。若臨床高度懷疑，應於數日後重複腰椎穿刺複檢。\n- C. 腦脊髓液HSV PCR的陽性率會隨著病程而逐漸降低,發病超過14天之病人,大約只有20%仍然呈現陽性：敘述正確。隨著病程進展，病毒逐漸被體內免疫系統清除，CSF 中的病毒 DNA 陽性率會在兩週後顯著下降。\n- D. 抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %：敘述錯誤，為本題答案。雖然使用抗病毒藥物（Acyclovir）會逐漸降低病毒量，但在「治療開始的前 3 到 7 天內」，CSF HSV PCR 的陽性率通常仍會維持在較高水平（多數研究顯示高於 70%）。因此，即使已開始用藥，早期進行腰椎穿刺 PCR 依然極具診斷價值，不會在 3 天內降至 10% 以下。\n\n【核心考點】\n1. 單純疱疹腦炎（HSE）診斷首選：腦脊髓液 HSV PCR，敏感度與特異度極佳。\n2. 檢驗盲點：發病 72 小時內可能因病毒量低呈偽陰性；Acyclovir 治療開始的前幾天內，PCR 陽性率仍高，不應因已開始投藥而放棄腰水檢測。",
       "key_point": "錯誤敘述判斷：D. 抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %",
       "flashcard_summary": "中樞神經感染單純疱疹病毒(HSV)診斷工具中的HSV腦脊髓液聚合酶鏈鎖反應(polymerase ch… / HSV / polymerase chain reaction -> D. 抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響,治療3天後,腦脊髓液HSV PCR的陽性率即低於 10 %",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -1776,7 +1776,7 @@
       "category": "感染科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1790,10 +1790,10 @@
         "D": "此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以\n 上"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「25歲男性,因為軀幹紅疹,合併手掌與足底多處脫屑紅疹,以及陰莖底部無痛性潰瘍而就醫,血液檢測後,\n 醫師診斷為一期與二期梅毒。經進一步檢測,病人並沒有感染人類免疫不全病毒。關於梅毒處置之敘述,下\n 列何者錯誤?」\n標準答案為 B、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅 毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射 benzathine penicillin G(2.4 mU)；D. 此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以 上，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「梅毒篩檢與確診的血清檢查,分別使用rapid plasma reagin(RPR)與Treponema pallidum particle\n agglutination(TPPA)檢測」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B、D 比較。\n- B. 正確答案。選項內容：「美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅\n 毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射\n benzathine penicillin G(2.4 mU)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅\n 毒(early syphilis)治療,針對penicillin過敏,但沒有神經病徵者,建議使用doxycycline 100 mg,\n 每日兩次,服用14天」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B、D 比較。\n- D. 正確答案。選項內容：「此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以\n 上」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n錯誤敘述判斷：B. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅 毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射 benzathine penicillin G(2.4 mU)；D. 此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以 上 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查早期梅毒（Early syphilis）的診斷血清學指標、治療方案（無 penicillin 過敏 vs. 過敏者）及治療後療效追蹤的正確檢驗工具。本題因選項縮寫不嚴謹及追蹤工具錯誤，官方最終公布答案為 B 或 D（或 B 與 D 皆給分）。\n\n【選項詳解】\n- A. 梅毒篩檢與確診的血清檢查,分別使用rapid plasma reagin(RPR)與Treponema pallidum particle agglutination(TPPA)檢測：敘述正確。梅毒篩檢通常使用非特異性螺旋體抗體試驗（如 RPR）；確診則需使用特異性螺旋體抗體試驗（如 TPPA）。\n- B. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射 benzathine penicillin G(2.4 mU)：官方評定為錯誤。醫學事實上，早期梅毒建議使用一次單劑肌肉注射 Benzathine penicillin G 2.4 million units（即 240 萬單位，簡寫為 2.4 MU）。選項將百萬單位（MU）誤寫為毫單位（mU，m 代表 milli 毫，10 的負三次方），造成計量單位上的嚴重筆誤，故此敘述屬錯誤。\n- C. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅毒(early syphilis)治療,針對penicillin過敏,但沒有神經病徵者,建議使用doxycycline 100 mg, 每日兩次,服用14天：敘述正確。對於青黴素過敏且無神經梅毒的早期梅毒患者，Doxycycline 14 天口服療程是公認的替代療法。\n- D. 此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以上：官方評定為錯誤。治療後療效評估（抗體效價下降 4 倍以上）必須使用「非螺旋體抗體試驗（如 RPR 或 VDRL）」進行定量監測。而特異性螺旋體抗體試驗「TPPA」在感染後通常會終身呈現陽性，無法用於評估治療反應或確認效價下降，故此敘述錯誤。\n\n【核心考點】\n1. 早期梅毒標準治療：單劑肌肉注射 Benzathine penicillin G 2.4 million units (2.4 MU)。\n2. 梅毒療效追蹤：使用 RPR 或 VDRL 等非螺旋體抗體定量追蹤，抗體效價應下降 4 倍（即下降 2 個 dilutions，如從 1:32 降至 1:8）。TPPA 會終身陽性，不可用於療效追蹤。\n\n【補充提醒】\n本題官方更正答案為 B 或 D 均給分，詳解中已指出 B 之單位縮寫誤植與 D 之追蹤工具錯誤，請考生注意區分。",
       "key_point": "錯誤敘述判斷：B. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅 毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射 benzathine penicillin G(2.4 mU)；D. 此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以 上",
       "flashcard_summary": "25歲男性,因為軀幹紅疹,合併手掌與足底多處脫屑紅疹,以及陰莖底部無痛性潰瘍而就醫,血液檢測後, 醫師… -> B. 美國疾病管制局(US Centers for Disease Control and Prevention)2015年的性病治療指引對於早期梅 毒(early syphilis)治療,針對沒有penicillin過敏,且沒有神經病徵者,建議使用一次單劑肌肉注射 benzathine penicillin G(2.4 mU)；D. 此病人梅毒治療後的療效評估,是在治療後6個月與12個月追蹤TPPA檢測,確認抗體效價下降至少4倍或以 上",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B",
         "D"
@@ -1807,7 +1807,7 @@
       "category": "感染科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1821,10 +1821,10 @@
         "D": "這位病人急性HIV感染病症會自然改善,並不急著給與抗病毒治療。根據國內外治療指引,等到他血液中的\n CD4數值降低到350 cells/mm3以下,或者出現愛滋病(AIDS)相關病症再開始治療即可"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「25歲病人因為發燒多日、腹瀉、皮疹、咽喉痛和頸部淋巴腺腫就醫。診視發現口腔上顎有幾點白斑,血液相\n (hemogram)出現白血球與血小板降低,生化檢查發現轉氨酶(transaminases)10倍上升。醫師懷疑是人\n 類免疫不全病毒(HIV)急性感染所引起的急性反轉錄病毒感染症候群(acute retroviral syndrome)。經\n 病史詢問,發現病人在14天前第一次與網路上認識的一位男性發生未戴保險套的肛交性行為。下列敘述何者\n 正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性 (specificity)最高的檢測方式，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「此時以第四代合併抗原與抗體的HIV檢測,對這位病人,100%可以確診HIV感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「此時這位感染HIV的病人,儘快進行西方墨點(Western blot),因為它是最敏感而且確認HIV感染的檢測」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性\n (specificity)最高的檢測方式」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「這位病人急性HIV感染病症會自然改善,並不急著給與抗病毒治療。根據國內外治療指引,等到他血液中的\n CD4數值降低到350 cells/mm3以下,或者出現愛滋病(AIDS)相關病症再開始治療即可」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性 (specificity)最高的檢測方式 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查急性反轉錄病毒感染症候群（Acute retroviral syndrome，即 HIV 急性感染期）的臨床診斷工具敏感度比較（第四代篩檢、西方墨點法、核酸檢測）以及當前「發現即治療（Treat All）」的抗病毒藥物治療指引。\n\n【選項詳解】\n- A. 此時以第四代合併抗原與抗體的HIV檢測,對這位病人,100%可以確診HIV感染：敘述錯誤。患者的高危行為發生於 14 天前。雖然第四代檢測結合了 p24 抗原，可縮短空窗期，但在感染第 14 天時仍有部分患者處於抗原/抗體低於偵測極限的空窗期內，無法達到 100% 確診。\n- B. 此時這位感染HIV的病人,儘快進行西方墨點(Western blot),因為它是最敏感而且確認HIV感染的檢測：敘述錯誤。西方墨點法（Western blot）檢測的是特異性 IgG 抗體。急性感染第 14 天時，患者體內尚未產生足夠的 IgG 抗體（抗體通常需 3-4 週以上才陽轉），故西方墨點法此時極易呈現陰性，敏感度差。\n- C. HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性(specificity)最高的檢測方式：敘述正確，為本題答案。在急性感染期，病毒血症最先發生，血液中病毒量極高。核酸檢測（NAT / RT-PCR）能在感染後約 10-14 天偵測到 HIV RNA，是此階段最敏感且特異的診斷工具。\n- D. 這位病人急性HIV感染病症會自然改善,並不急著給與抗病毒治療。根據國內外治療指引,等到他血液中的CD4數值降低到350 cells/mm3以下,或者出現愛滋病(AIDS)相關病症再開始治療即可：敘述錯誤。現代國內外指引均主張「發現即治療（Treat All）」，一旦確診 HIV 感染應立即建議開始抗病毒藥物（ART）治療，以儘速控制病毒複製、保護免疫系統並減少傳播機會，不論 CD4 數量高低。\n\n【核心考點】\n1. HIV 檢測工具之出現順序與空窗期：HIV RNA (約 10-14 天) -> p24 抗原 (約 14-21 天) -> HIV 核心/包膜抗體 (約 3-4 週以上，西方墨點)。\n2. 急性 HIV 感染診斷以核酸檢測（NAT）最為敏感；一旦確診應即刻啟動 ART 治療。",
       "key_point": "正確觀念：C. HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性 (specificity)最高的檢測方式",
       "flashcard_summary": "25歲病人因為發燒多日、腹瀉、皮疹、咽喉痛和頸部淋巴腺腫就醫。診視發現口腔上顎有幾點白斑,血液相 (h… / hemogram / transaminases -> C. HIV核酸檢測(nucleic-acid amplification test)是診斷這位急性HIV感染病人最敏感和特異性 (specificity)最高的檢測方式",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1836,7 +1836,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1850,10 +1850,10 @@
         "D": "綠膿桿菌(Pseudomonas aeruginosa)可見於被鐵釘穿刺傷(penetrating injury)造成的傷口感染"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於蜂窩性組織炎的致病菌描述,下列何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 A. 經由切片(punch biopsy)培養陽性結果的機會可高達70%，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 正確答案。選項內容：「經由切片(punch biopsy)培養陽性結果的機會可高達70%」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「鏈球菌(streptococci)在下肢循環不良的病人常導致反覆感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「被貓狗咬傷易產生厭氧菌相關感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「綠膿桿菌(Pseudomonas aeruginosa)可見於被鐵釘穿刺傷(penetrating injury)造成的傷口感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n錯誤敘述判斷：A. 經由切片(punch biopsy)培養陽性結果的機會可高達70% 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查蜂窩性組織炎（Cellulitis）的常見致病菌分布、特殊外傷（如貓狗咬傷、鐵釘穿刺）之關聯菌種，以及組織培養在臨床診斷中的侷限性。\n\n【選項詳解】\n- A. 經由切片(punch biopsy)培養陽性結果的機會可高達70%：敘述錯誤，為本題答案。蜂窩性組織炎是皮下組織的瀰漫性發炎，局部細菌密度通常很低。臨床上，即使進行針刺抽吸或皮膚穿刺切片（punch biopsy），其培養的陽性率亦偏低，通常僅有 20% 至 30% 左右，極少能高達 70%。診斷仍以臨床症狀為主。\n- B. 鏈球菌(streptococci)在下肢循環不良的病人常導致反覆感染：敘述正確。下肢靜脈曲張、淋巴水腫患者因局部組織防禦及循環差，極易遭致最常見的病原體（鏈球菌）反覆侵入感染。\n- C. 被貓狗咬傷易產生厭氧菌相關感染：敘述正確。動物口腔中定殖有豐富的厭氧菌及巴斯德氏菌（Pasteurella multocida），咬傷傷口常呈需氧與厭氧菌之混合感染。\n- D. 綠膿桿菌(Pseudomonas aeruginosa)可見於被鐵釘穿刺傷(penetrating injury)造成的傷口感染：敘述正確。穿過鞋底的鐵釘易將喜好潮濕環境的綠膿桿菌帶入足部深部組織，引發骨髓炎或深部感染。\n\n【核心考點】\n1. 蜂窩性組織炎診斷以臨床病徵為主，局部切片或抽吸培養陽性率通常低於 30%，不作為常規診斷手段。\n2. 特殊傷口病原體：鐵釘穿刺 -> 綠膿桿菌；貓狗咬傷 -> 厭氧菌、巴斯德氏菌；下肢循環不良 -> 反覆鏈球菌感染。",
       "key_point": "錯誤敘述判斷：A. 經由切片(punch biopsy)培養陽性結果的機會可高達70%",
       "flashcard_summary": "蜂窩性組織炎的致病菌描述 -> A. 經由切片(punch biopsy)培養陽性結果的機會可高達70%",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1865,7 +1865,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1879,10 +1879,10 @@
         "D": "近期接觸過羊 — Coxiella burnetii"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「引起社區型肺炎的菌種,常與特殊的旅遊史或接觸史有關,下列配對何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 在發病前二週內住過旅館或郵輪 — Acinetobacter spp.，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「structural lung disease — Pseudomonas aeruginosa」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「在發病前二週內住過旅館或郵輪 — Acinetobacter spp.」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「近期接觸過鳥 — Chlamydia psittaci」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「近期接觸過羊 — Coxiella burnetii」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 在發病前二週內住過旅館或郵輪 — Acinetobacter spp. 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查社區型肺炎（CAP）的特定病原體與患者特殊接觸史、旅遊史或共病症的臨床關聯性。\n\n【選項詳解】\n- A. structural lung disease — Pseudomonas aeruginosa：配對正確。結構性肺病（如支氣管擴張症）患者因氣道黏液清除差，是綠膿桿菌感染的高風險群。\n- B. 在發病前二週內住過旅館或郵輪 — Acinetobacter spp.：配對錯誤，為本題答案。發病前兩週內有旅館或郵輪住宿史的肺炎，最經典的致病菌是「退伍軍人菌（Legionella pneumophila）」，因其常污染空調水塔及熱水系統，經吸入氣膠傳播。不動桿菌屬（Acinetobacter spp.）則主要為院內感染致病菌。\n- C. 近期接觸過鳥 — Chlamydia psittaci：配對正確。鸚鵡熱披衣菌（Chlamydia psittaci）經由接觸受感染鳥類的排泄物或吸入羽毛粉塵而傳播，引發鸚鵡熱。\n- D. 近期接觸過羊 — Coxiella burnetii：配對正確。貝氏考克斯體（Coxiella burnetii）是 Q 熱（Q fever）的病原體，常見於接觸綿羊、山羊或牛隻分娩分泌物的農場工作人員。\n\n【核心考點】\n1. 退伍軍人菌（Legionella）：流行病學特徵為近期曾住過旅館、搭乘郵輪或使用溫泉，因吸入氣膠傳播，易引起非典型肺炎，常合併低血鈉或腹瀉。\n2. 特殊接觸史與非典型 CAP 致病菌：鳥類接觸史 -> 鸚鵡熱披衣菌；牲畜（羊/牛）接觸史 -> 貝氏考克斯體（Q 熱）。",
       "key_point": "錯誤敘述判斷：B. 在發病前二週內住過旅館或郵輪 — Acinetobacter spp.",
       "flashcard_summary": "引起社區型肺炎的菌種,常與特殊的旅遊史或接觸史有關 -> B. 在發病前二週內住過旅館或郵輪 — Acinetobacter spp.",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -1894,7 +1894,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1908,10 +1908,10 @@
         "D": "Negotiate:與病人討論以取得治療共識"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「28歲女性因急性腎衰竭住院,醫師建議洗腎,但個案因傳統信仰一直猶豫是否要接受洗腎。處理跨文化之差\n 異時,Berlin與Fowkes提出解決之方式「LEARN model」,下列敘述何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. Reward:對病人解釋治療的好處，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Listen:以同理心傾聽並瞭解病人的想法」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Explain:以病人能了解的方式,解釋病人的問題」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「Reward:對病人解釋治療的好處」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Negotiate:與病人討論以取得治療共識」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. Reward:對病人解釋治療的好處 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查臨床溝通與跨文化醫療處置中的「LEARN 溝通模式」之定義與各英文字母代表的具體臨床作為。\n\n【選項詳解】\n- A. Listen:以同理心傾聽並瞭解病人的想法：敘述正確。L 代表 Listen，意指用同理心主動傾聽病患對疾病的感受、信仰與顧慮。\n- B. Explain:以病人能了解的方式,解釋病人的問題：敘述正確。E 代表 Explain，意指用非醫學術語、平易近人的語言向病患解釋其健康狀況與醫療建議。\n- C. Reward:對病人解釋治療的好處：敘述錯誤，為本題答案。LEARN 模式中的 「R」代表的是 「Recommend（推薦治療建議）」，即在瞭解病患文化背景與想法後，提出符合其情況的醫療方案，而非 Reward（獎勵或好處）。而 「A」則代表 Acknowledge（確認並討論雙方看法的異同）。\n- D. Negotiate:與病人討論以取得治療共識：敘述正確。N 代表 Negotiate，意指與病患進行溝通與協商，在尊重其文化信念的前提下達成雙方同意的醫療計劃。\n\n【核心考點】\n1. 跨文化溝通 LEARN 模式：\n   - L (Listen)：傾聽。\n   - E (Explain)：解釋。\n   - A (Acknowledge)：認可與對照。\n   - R (Recommend)：推薦建議。\n   - N (Negotiate)：協商共識。\n2. LEARN 模式旨在促進病患的服藥遵從性與對治療的信任感，化解文化或信仰上的抗拒。",
       "key_point": "錯誤敘述判斷：C. Reward:對病人解釋治療的好處",
       "flashcard_summary": "28歲女性因急性腎衰竭住院,醫師建議洗腎,但個案因傳統信仰一直猶豫是否要接受洗腎。處理跨文化之差 異時… / Berlin / Fowkes -> C. Reward:對病人解釋治療的好處",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1923,7 +1923,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1937,10 +1937,10 @@
         "D": "應置入導尿管以預防再跌倒"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「75歲獨居男性有高血壓與糖尿病,服藥種類有8種,服藥次數有每天1次、2次、3次,服藥時間有飯前、飯後\n 服用,因病人常忘記服藥,導致病情控制不良。某日半夜起床解尿跌倒,導致下背痛,經診斷為腰椎壓迫性\n 骨折。下列何者是此門診個案最合適的處理?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. 應進行周全性老年醫學評估，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「應進行周全性老年醫學評估」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「應指導病人依照醫囑服用每一種藥物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「應建議長期住護理之家接受照顧、管理服藥問題」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「應置入導尿管以預防再跌倒」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n正確觀念：A. 應進行周全性老年醫學評估 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查老年醫學（Geriatrics）中對於合併有多重用藥（Polypharmacy）、認知或功能障礙（常忘記服藥）以及跌倒引發壓迫性骨折的「老年症候群」患者的門診整合處理方針。\n\n【選項詳解】\n- A. 應進行周全性老年醫學評估：敘述正確，為本題答案。病患為 75 歲高齡且獨居，面臨複雜用藥（8種且頻率不一）、服藥差、夜尿跌倒導致骨折等典型老年症候群。此時最合適的處置是進行「周全性老年醫學評估（CGA）」，全面性評估其功能、認知、用藥並調整整合，以找出跌倒病因並簡化用藥。\n- B. 應指導病人依照醫囑服用每一種藥物：敘述錯誤。在未簡化藥物及評估其服藥遵從性障礙前，盲目要求其依照原醫囑服用多達 8 種藥物，容易因多重藥物交互作用加重直立性低血壓，增加再次跌倒風險。\n- C. 應建議長期住護理之家接受照顧、管理服藥問題：敘述錯誤。病患跌倒骨折在急性期後仍有機會透過復健恢復自主生活，直接要求長期入住護理之家會過度限制其自主，且未解決多重用藥的醫療核心問題。\n- D. 應置入導尿管以預防再跌倒：敘述錯誤。長期留置導尿管會顯著增加 CAUTI 感染、限制活動並加速下肢肌肉萎縮，不但無法預防跌倒，反而因活動受限而增加再次跌倒的危險。\n\n【核心考點】\n1. 周全性老年醫學評估（CGA）：針對衰弱或多重共病老人的多學科系統評估，涵蓋生理、認知、藥物、功能（ADL/IADL）及社會經濟等維度。\n2. 面對高齡多重用藥及反覆跌倒患者，首要原則為簡化處方、評估認知與環境安全，避免不當的侵入性處置（如留置導尿管）。",
       "key_point": "正確觀念：A. 應進行周全性老年醫學評估",
       "flashcard_summary": "75歲獨居男性有高血壓與糖尿病,服藥種類有8種,服藥次數有每天1次、2次、3次,服藥時間有飯前、飯後 … -> A. 應進行周全性老年醫學評估",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -1952,7 +1952,7 @@
       "category": "腎臟科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1966,10 +1966,10 @@
         "D": "進行悲傷撫慰"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「63歲婦女獨自來家庭醫學科門診,自述過去健康狀況良好,最近2週血壓偶爾偏高(BP 160/96 mmHg),他\n 院醫師開立兩種降血壓藥物,服用後血壓降至100/60 mmHg並有頭暈現象。病史詢問得知她唯一的女兒1個月\n 前罹患肺癌過世,讓她情緒非常低落,無法入眠。下一步處置何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 建議病人繼續依原醫囑服藥,以免發生中風，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「減輕藥物劑量,請病人在家記錄血壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「評估家庭結構及動態功能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「建議病人繼續依原醫囑服藥,以免發生中風」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「進行悲傷撫慰」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 建議病人繼續依原醫囑服藥,以免發生中風 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查家庭醫學科面對經歷重大喪親事件（daughter 過世）後出現反應性高血壓、重度低落及失眠，且在服用藥物後出現症狀性低血壓（BP 100/60 mmHg 伴頭暈）患者的綜合臨床決策判斷。\n\n【選項詳解】\n- A. 減輕藥物劑量,請病人在家記錄血壓：處置適當。患者血壓已降至 100/60 mmHg 並有頭暈，屬於有症狀的低血壓，極易導致跌倒，應減低降壓藥物並加強居家血壓監控。\n- B. 評估家庭結構及動態功能：處置適當。患者女兒甫於一個月前過世，目前獨自就醫，應評估其家庭支持系統與社會功能是否完善。\n- C. 建議病人繼續依原醫囑服藥,以免發生中風：處置最不適當，為本題答案。在患者已經發生症狀性低血壓且有跌倒風險時，仍要求其「繼續依原醫囑服藥」是不安全且極不適當的處置，中風風險此時並非首要威脅。\n- D. 進行悲傷撫慰：處置適當。應給予同理心支持、進行悲傷輔導（grief counseling），關懷其急性壓力與睡眠障礙。\n\n【核心考點】\n1. 臨床降壓藥調整：應根據病人症狀與血壓動態調整，當出現低血壓（< 100/60 mmHg）伴頭暈時應減量或停藥，防範姿勢性低血壓及跌倒。\n2. 重大生活壓力事件（如喪親）常引起反應性血壓上升及睡眠障礙，此時需身心同治，不可單純依賴降壓藥硬套公式治療。",
       "key_point": "錯誤敘述判斷：C. 建議病人繼續依原醫囑服藥,以免發生中風",
       "flashcard_summary": "63歲婦女獨自來家庭醫學科門診,自述過去健康狀況良好,最近2週血壓偶爾偏高(BP 160/96 mmH… / BP 160 / mmHg -> C. 建議病人繼續依原醫囑服藥,以免發生中風",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -1981,7 +1981,7 @@
       "category": "胸腔內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -1995,10 +1995,10 @@
         "D": "Family Psychoeducation"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關狂犬病(rabies)疫苗接種的敘述,下列何者最正確?\n A.暴露前預防接種的時程為第0天、第3天、第7天,共3劑\n B.若預防接種後間隔1年再次進入疫區,建議應追加1劑\n C.免疫功能正常者若曾接受完整暴露前疫苗接種,暴露後只需於第0天與第3天接種,共兩劑疫苗\n D.小孩可接種,但孕婦不可接種\n70.1在整個生病或壓力生活事件過程中,給予病人及家屬想法、感受和情緒的支持 2辨識影響負面想法的觸\n 發因素或障礙,及對目前問題的反應 3設定家庭成員在有限時間內,可學習以降低不良行為的目標。下列\n 何種治療包含前述3項處置?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「C. Cognitive Behavioral Therapy」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Motivational Interviewing」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Solution-focused Brief Therapy」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「Cognitive Behavioral Therapy」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Family Psychoeducation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n狂犬病(rabies)疫苗接種的敘述 / rabies => Cognitive Behavioral Therapy 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查狂犬病（Rabies）疫苗的暴露前預防接種（PrEP）與暴露後處置（PEP）之臨床醫學規範與台灣 CDC 最新指引。\n\n【選項詳解】\n- A. 暴露前預防接種的時程為第0天、第3天、第7天,共3劑：敘述錯誤。WHO 及台灣 CDC 目前推薦的暴露前預防接種（PrEP）標準時程為第 0、7、21（或 28）天，共 3 劑。\n- B. 若預防接種後間隔1年再次進入疫區,建議應追加1劑：敘述錯誤。若已接受完整 PrEP，一般除非有持續暴露於高風險環境（如狂犬病實驗室人員），否則不需常規追加疫苗。\n- C. 免疫功能正常者若曾接受完整暴露前疫苗接種,暴露後只需於第0天與第3天接種,共兩劑疫苗：敘述正確，為本題答案。若先前已完成完整的 PrEP（或 PEP），再次暴露時其體內已具備免疫記憶，暴露後只需於第 0 天與第 3 天各追加 1 劑疫苗（共 2 劑）即可，且不需要注射狂犬病免疫球蛋白（HRIG）。\n- D. 小孩可接種,但孕婦不可接種：敘述錯誤。狂犬病是幾乎 100% 致死的急性腦脊髓炎。狂犬病疫苗為非活化疫苗，安全度高，不論小孩、老人或孕婦一旦符合指徵均必須接種，孕婦絕非禁忌症。\n\n【核心考點】\n1. 曾完整接種過狂犬病疫苗者之再次暴露後處置：只需於第 0, 3 天各注射 1 劑疫苗（共 2 劑），不需使用免疫球蛋白（HRIG）。\n2. 未曾接種者之暴露後處置：需於第 0, 3, 7, 14 天各注射 1 劑疫苗（共 4 劑，若免疫抑制者則在第 28 天加一劑共 5 劑），並應於第 0 天儘速在傷口周圍浸潤注射狂犬病免疫球蛋白（HRIG）。",
       "key_point": "狂犬病(rabies)疫苗接種的敘述 / rabies => Cognitive Behavioral Therapy",
       "flashcard_summary": "狂犬病(rabies)疫苗接種的敘述 / rabies -> C. Cognitive Behavioral Therapy",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -2010,7 +2010,7 @@
       "category": "微生物學",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2024,10 +2024,10 @@
         "D": "Family Psychoeducation"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「①在整個生病或壓力生活事件過程中，給予病人及家屬想法、感受和情緒的支持 ②辨識影響負面想法的觸 發因素或障礙，及對目前問題的反應 ③設定家庭成員在有限時間內，可學習以降低不良行為的目標。下列 何種治療包含前述3項處置？」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：官方答案為「C. Cognitive Behavioral Therapy」。複習時請先抓題幹線索，再回到選項確認。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Motivational Interviewing」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Solution-focused Brief Therapy」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「Cognitive Behavioral Therapy」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Family Psychoeducation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n補回缺漏題號 70：①在整個生病或壓力生活事件過程中，給予病人及家屬想法、感受和情緒的支持 ②辨識影響負面想法的觸 發因素或障礙，及對目前問 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查認知行為治療（Cognitive Behavioral Therapy, CBT）的核心介入要素與治療原則，需與動機式訪談、焦點解決短期治療及家庭心理衛教進行臨床技術區分。\n\n【選項詳解】\n- A. Motivational Interviewing：動機式訪談。主要用於協助成癮或行為改變困難的患者，藉由引導探索與澄清其內心對改變的抗拒與矛盾，不著重於負面想法觸發因素之認知重塑。\n- B. Solution-focused Brief Therapy：焦點解決短期治療。強調以未來為導向、尋找例外與奇蹟提問，關注病人的優勢，不特別強調對負面想法與不良反應之分析與介入。\n- C. Cognitive Behavioral Therapy：認知行為治療。為本題答案。CBT 的核心特色即為：①在整個生病或壓力生活事件過程中給予想法與感受的支持，②協助病人識別並改變引發不良反應的「負面想法（認知偏誤）與觸發因素」，③並在有限時間內設定具體且可行的目標以降低或矯正不良行為。\n- D. Family Psychoeducation：家庭心理衛教。主要是向家屬提供關於疾病的病理知識、藥物副作用與應對技巧，不具備上述以認知與行為技術為基礎的結構化治療特徵。\n\n【核心考點】\n1. 認知行為治療（CBT）：結合認知重塑（改變負面思考、自動化思維）與行為治療（設定具體限時目標、暴露療法），是風濕痛、憂鬱及焦慮症的一線非藥物治療。\n2. CBT 重視結構化、時限性及家庭成員的行為目標設定。",
       "key_point": "補回缺漏題號 70：①在整個生病或壓力生活事件過程中，給予病人及家屬想法、感受和情緒的支持 ②辨識影響負面想法的觸 發因素或障礙，及對目前問",
       "flashcard_summary": "①在整個生病或壓力生活事件過程中，給予病人及家屬想法、感受和情緒的支持 ②辨識影響負面想法的觸 發因素或障礙，及對目前問題的反應 ③設定家庭成員在有限時間內，可 -> C. Cognitive Behavioral Therapy",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -2039,7 +2039,7 @@
       "category": "內科",
       "category_confidence": "medium",
       "category_source": "sequence_repair",
-      "explanation_model": "official-sequence-repair-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2053,10 +2053,10 @@
         "D": "外在環境(external environment)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「「居家醫療的主導醫師應持續地進行自我反思(self-reflective process)以避免工作倦怠,維持對工作\n 的熱誠,打造理想療癒環境(optimal healing environment, OHE)」,這是屬於理想療癒環境架構中的:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「A. 內在環境(inner personal environment)」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 正確答案。選項內容：「內在環境(inner personal environment)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「人際環境(interpersonal environment)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「行為環境(behavioral environment)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「外在環境(external environment)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n「居家醫療的主導醫師應持續地進行自我反思(self-reflective process)以避免工作倦… / self-reflective process / optimal h... => 內在環... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查「理想療癒環境（Optimal Healing Environment, OHE）」四個架構維度的定義。需辨認醫師進行自我反思、維持熱誠以防倦怠是屬於哪一個環境維度。\n\n【選項詳解】\n- A. 內在環境(inner personal environment)：正確答案，為本題答案。內在環境關注個人心靈、心智與意識層面，包含個人的意向、信念、自我覺察與預防工作倦怠的自我反思（self-reflective process）。\n- B. 人際環境(interpersonal environment)：敘述錯誤。人際環境關注與病患、家屬及醫療團隊間建立的療癒關係、溝通與同理心。\n- C. 行為環境(behavioral environment)：敘述錯誤。行為環境關注個人具體採取的健康促進行為與實踐行動。\n- D. 外在環境(external environment)：敘述錯誤。外在環境關注醫療機構或病房的物理空間設計，如自然光、噪音控制、綠化與色彩配置。\n\n【核心考點】\n1. 理想療癒環境（OHE）四大範疇：內在環境（心靈反思）、人際環境（溝通關係）、行為環境（健康作為）、外在環境（物理空間）。\n2. 醫師的自我反思與避免倦怠屬於「內在環境」的調控。",
       "key_point": "「居家醫療的主導醫師應持續地進行自我反思(self-reflective process)以避免工作倦… / self-reflective process / optimal h... => 內在環...",
       "flashcard_summary": "「居家醫療的主導醫師應持續地進行自我反思(self-reflective process)以避免工作倦… / self-reflective process / optimal h... -> A. 內在環境(inner personal environment)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A"
       ],
@@ -2068,7 +2068,7 @@
       "category": "內科",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2082,10 +2082,10 @@
         "D": "可能有憂鬱症,應進一步確認診斷"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「75歲女士來到門診抱怨最近身體很累,睡不好,常覺得自己沒什麼用了,心情快樂不起來。進一步詢問,她\n 並不會想哭,也沒有自殺念頭;老人憂鬱症篩檢量表(GDS)得分9分(總分15分)。後續處置以下列何者最\n 適宜?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 D. 可能有憂鬱症,應進一步確認診斷，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「給與鎮靜安眠藥即可」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「僅心情不快樂,非老人憂鬱症,無須特別處理」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「轉介社福單位進一步介入」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「可能有憂鬱症,應進一步確認診斷」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：D. 可能有憂鬱症,應進一步確認診斷 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查老年人憂鬱症（Geriatric depression）的篩檢與診斷方針。需利用簡短老人憂鬱量表（GDS-15）的評分標準，對篩檢陽性（得分 9 分）的 75 歲患者決定適當的下一步醫學處置。\n\n【選項詳解】\n- A. 給與鎮靜安眠藥即可：處置錯誤。病患除失眠外，已伴隨無用感、疲累與快樂不起來，此為潛在憂鬱症，僅給予安眠藥無法解決核心疾病，甚至可能加重症狀或增加跌倒風險。\n- B. 僅心情不快樂,非老人憂鬱症,無須特別處理：處置錯誤。老年人憂鬱症常以身體症狀（如累、失眠）等軀體化方式表現，而非主訴悲傷，病患已符合憂鬱症狀，不能排除。\n- C. 轉介社福單位進一步介入：處置錯誤。病患篩檢陽性，首要步驟為醫療端的確診與治療，非直接轉介社福機構。\n- D. 可能有憂鬱症,應進一步確認診斷：正確答案，為本題答案。GDS-15 得分 >= 8 分即為老人憂鬱症篩檢陽性。患者得分為 9 分，代表罹患憂鬱症的風險極高，臨床上最適宜的下一步是安排詳細的精神科面談診斷，以確認診斷並擬定藥物或心理治療計畫。\n\n【核心考點】\n1. 老人憂鬱症篩檢：GDS-15 得分 >= 8 分提示有憂鬱傾向，需進一步專科面談確診。\n2. 老人憂鬱症常呈非典型表現，如以失眠、慢性疲累、無用感或身體多處疼痛等主訴就醫，應提高臨床警覺，防範自殺或功能衰退。",
       "key_point": "正確觀念：D. 可能有憂鬱症,應進一步確認診斷",
       "flashcard_summary": "75歲女士來到門診抱怨最近身體很累,睡不好,常覺得自己沒什麼用了,心情快樂不起來。進一步詢問,她 並不… / GDS -> D. 可能有憂鬱症,應進一步確認診斷",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -2097,7 +2097,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2111,10 +2111,10 @@
         "D": "病人自主權利法"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「具完全行為能力的意願人,可以透過預立醫療照護諮商(Advance Care Planning)的程序,與親友和醫療\n 機構人員討論善終意願,並簽屬預立醫囑(Advance Directive)。在臺灣,預立醫囑是依據那個法令執\n 行?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是把題幹線索連到「D. 病人自主權利法」。複習時先記概念關係，再回到選項，避免只背答案字母。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「民法」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「安寧緩和醫療條例」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「醫療法」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「病人自主權利法」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n具完全行為能力的意願人,可以透過預立醫療照護諮商(Advance Care Planning)的程序,… / Advance Care Planning / Advance Dir... => 病人自... 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查我國保障病人尊嚴善終及醫療自主權的相關法令。需正確區分民法、安寧緩和醫療條例、醫療法與病人自主權利法在「預立醫療照護諮商（ACP）」及「預立醫療決定（AD/預立醫囑）」執行上的法律依據。\n\n【選項詳解】\n- A. 民法：敘述錯誤。民法規範私法上的權利義務（如親屬、繼承、契約），不涉及醫療上的預立醫囑或臨床善終執行。\n- B. 安寧緩和醫療條例：敘述錯誤。安寧條例於 2000 年施行，所簽署的稱為「預立選擇安寧緩和醫療意願書」，且適用對象僅侷限於末期病人，適用範圍較窄。\n- C. 醫療法：敘述錯誤。醫療法主要規範醫療機構與醫事人員之行政管理與一般義務，無特別執行預立醫療決定（AD）之專屬專款。\n- D. 病人自主權利法：正確答案，為本題答案。我國於 2019 年施行的《病人自主權利法》，是亞洲第一部全面保障病人自主權與善終權的專法。具完全行為能力者得透過「預立醫療照護諮商（ACP）」之程序後，簽署「預立醫療決定（AD，舊稱預立醫囑）」，在符合五款法定臨床條件下，得以拒絕維持生命治療。\n\n【核心考點】\n1. 預立醫療決定（AD）與預立醫療照護諮商（ACP）的法定依據為《病人自主權利法》。\n2. 《病人自主權利法》將適用範圍擴大至末期病人、不可逆轉之昏迷、永久植物人、極重度失智及其他經公告之臨床重症，相較《安寧緩和醫療條例》（僅限末期病人）更為廣泛。",
       "key_point": "具完全行為能力的意願人,可以透過預立醫療照護諮商(Advance Care Planning)的程序,… / Advance Care Planning / Advance Dir... => 病人自...",
       "flashcard_summary": "具完全行為能力的意願人,可以透過預立醫療照護諮商(Advance Care Planning)的程序,… / Advance Care Planning / Advance Dir... -> D. 病人自主權利法",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -2126,7 +2126,7 @@
       "category": "內科",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2140,10 +2140,10 @@
         "D": "大腸憩室炎(colonic diverticulitis)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「56歲男性病患,過去有高血壓病史,突然有發燒、嘔吐與腹痛的症狀,緊急安排了電腦斷層檢查影像如附\n 圖,下列何者為最可能的診斷?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 C. 上腸繫膜靜脈血栓(superior mesenteric vein thrombosis)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「盲腸炎(acute appendicitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「主動脈剝離(aortic dissection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「上腸繫膜靜脈血栓(superior mesenteric vein thrombosis)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「大腸憩室炎(colonic diverticulitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n正確觀念：C. 上腸繫膜靜脈血栓(superior mesenteric vein thrombosis) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查急性腹痛的急症電腦斷層影像學診斷。結合 56 歲男性發燒、嘔吐、腹痛症狀與電腦斷層血管造影中「上腸繫膜靜脈（SMV）管腔內充盈缺損」特徵，進行病理學定位診斷。\n\n【選項詳解】\n- A. 盲腸炎(acute appendicitis)：敘述錯誤。急性盲腸炎之 CT 特徵為闌尾直徑擴大（>6 mm）、壁肥厚強化及周圍脂肪炎性浸潤，與本影中大血管阻塞及腸壁廣泛水腫特徵不符。\n- B. 主動脈剝離(aortic dissection)：敘述錯誤。主動脈剝離的 CT 表現為主動脈腔內出現內膜瓣片（intimal flap）及真假雙腔，臨床上以突發性撕裂樣胸背痛為典型表現。\n- C. 上腸繫膜靜脈血栓(superior mesenteric vein thrombosis)：正確答案，為本題答案。電腦斷層影像顯示上腸繫膜靜脈（SMV）內存在「顯著的低密度血栓（充盈缺損）」，且伴隨周圍小腸壁增厚水腫（靶環徵）及腸繫膜脂肪密度升高，符合上腸繫膜靜脈血栓（SMVT）的典型表現。\n- D. 大腸憩室炎(colonic diverticulitis)：敘述錯誤。憩室炎多發生於降結腸或乙狀結腸，影像學特徵為壁外憩室突起伴壁增厚與周圍發炎，與此小腸區血管血栓影像不符。\n\n【核心考點】\n1. 上腸繫膜靜脈血栓（SMVT）之 CT 特徵：SMV 管腔內充盈缺損（血栓）、受累腸段腸壁靶環狀增厚（target sign）及腸繫膜充血、滲出。\n2. SMVT 臨床症狀包括腹痛、發燒、嘔吐，早期診斷及時抗凝治療能避免腸壞死與切除手術。",
       "key_point": "正確觀念：C. 上腸繫膜靜脈血栓(superior mesenteric vein thrombosis)",
       "flashcard_summary": "56歲男性病患,過去有高血壓病史,突然有發燒、嘔吐與腹痛的症狀,緊急安排了電腦斷層檢查影像如附 圖 -> C. 上腸繫膜靜脈血栓(superior mesenteric vein thrombosis)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -2155,7 +2155,7 @@
       "category": "肝膽腸胃科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2169,10 +2169,10 @@
         "D": "12 mm大小的實質結節(solid nodule)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「在胸部電腦斷層,若發現肺結節(lung nodule)具有下列那一個特徵時,最可能是良性的?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 12 mm大小的結節出現中央型粗鈣化(central coarse calcification)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「8 mm大小的毛玻璃狀結節(ground-glass nodule)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「12 mm大小的結節出現中央型粗鈣化(central coarse calcification)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「8 mm大小的部分實質結節(part-solid nodule)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「12 mm大小的實質結節(solid nodule)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 12 mm大小的結節出現中央型粗鈣化(central coarse calcification) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查胸部電腦斷層評估肺結節（Lung nodule）良惡性的特徵指標，需辨識良性鈣化的典型分布樣式以進行惡性風險鑑別。\n\n【選項詳解】\n- A. 8 mm大小的毛玻璃狀結節(ground-glass nodule)：敘述錯誤。毛玻璃結節（GGN）具有潛在惡性機率（多見於早期腺癌或不典型腺瘤樣增生 AAH），大於 6 mm 需密切追蹤，非良性特徵。\n- B. 12 mm大小的結節出現中央型粗鈣化(central coarse calcification)：正確答案，為本題答案。肺結節的鈣化樣式是判定良惡性的核心關鍵。良性鈣化特徵包括：中央型（central）、分層同心圓型（laminated）、瀰漫實質型及爆米花型（多見於錯構瘤）。因此，結節內出現「中央型粗鈣化」高度提示為良性肉芽腫（如陳舊性結核病灶）。\n- C. 8 mm大小的部分實質結節(part-solid nodule)：敘述錯誤。部分實質結節（混合磨玻璃結節）的惡性概率是所有肺結節類型中最高的，必須高度警惕惡性可能。\n- D. 12 mm大小的實質結節(solid nodule)：敘述錯誤。12 mm 實質結節有相當的惡性風險，若無典型良性鈣化，通常需要進一步切片或密切追蹤，不能判定為良性。\n\n【核心考點】\n1. 肺結節良性鈣化特徵：中央型、分層同心圓型、瀰漫實質型、爆米花樣鈣化。\n2. 部分實質結節（part-solid）的惡性率高於純毛玻璃結節（pure GGN）與純實質結節（pure solid nodule）。",
       "key_point": "正確觀念：B. 12 mm大小的結節出現中央型粗鈣化(central coarse calcification)",
       "flashcard_summary": "在胸部電腦斷層,若發現肺結節(lung nodule)具有 / lung nodule -> B. 12 mm大小的結節出現中央型粗鈣化(central coarse calcification)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -2184,7 +2184,7 @@
       "category": "胸腔內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2198,10 +2198,10 @@
         "D": "腎臟功能下降容易導致脫水"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「老人受傷常比年輕人嚴重,下列生理變化何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 B. 心臟傳導系統功能改變導致心跳變慢，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心肌細胞數量減少,心臟收縮力下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「心臟傳導系統功能改變導致心跳變慢」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「呼吸肌無力容易併發呼吸衰竭」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「腎臟功能下降容易導致脫水」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n錯誤敘述判斷：B. 心臟傳導系統功能改變導致心跳變慢 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查老年人创傷時之病理生理特徵（與年輕人對比）。需辨識老年人在心血管、呼吸及腎臟系統在衰老過程中的代償能力退化特徵。\n\n【選項詳解】\n- A. 心肌細胞數量減少,心臟收縮力下降：敘述正確。老年人心肌細胞數量隨年齡凋亡減少，常合併心肌纖維化，最大心臟收縮力與舒張功能降低。\n- B. 心臟傳導系統功能改變導致心跳變慢：敘述錯誤，為本題答案。雖然老年人傳導系統退化可伴隨安靜時心跳偏慢，但「老人創傷易趨嚴重」的原因，是因為其「面對失血或創傷壓力時，心率無法產生足夠的代償性心跳加速（blunted maximum heart rate response）」，而非單純「導致心跳變慢」本身，此敘述作為創傷病理生理機轉是不精準且錯誤的。\n- C. 呼吸肌無力容易併發呼吸衰竭：敘述正確。老年人因肋軟骨鈣化、呼吸肌力減退及肺泡表面積減少，排痰及氣體交換能力差，受傷後極易併發呼吸衰竭。\n- D. 腎臟功能下降容易導致脫水：敘述正確。老年人腎絲球過濾率與腎小管濃縮尿液功能退化，加上口渴中樞敏感度降低，在遭受創傷或液體流失時極易引發脫水及電解質失衡。\n\n【核心考點】\n1. 老年創傷生理改變：心輸出量代償力差（無法有效心跳過速）、肺儲備量低（易缺氧衰竭）、腎臟濃縮差（易脫水）。\n2. 面對創傷休克時，老年人由於 Beta 受器敏感度下降，無法如年輕人般迅速產生代償性心跳加速來維持心輸出量。",
       "key_point": "錯誤敘述判斷：B. 心臟傳導系統功能改變導致心跳變慢",
       "flashcard_summary": "老人受傷常比年輕人嚴重 -> B. 心臟傳導系統功能改變導致心跳變慢",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -2213,7 +2213,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2227,10 +2227,10 @@
         "D": "若病人使用毛地黃藥物,靜脈補充鈣離子可能會增加毒性"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「56歲女性3天前曾經接受甲狀腺全切除手術,因食慾不振、虛弱無力,被家人送到急診室,抽血檢驗發現病\n 人游離鈣離子:3.5 mg/dL。下列處置何者最不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認錯誤或不適當敘述。官方答案為 C. 低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高，代表這個選項是最需要排除或修正的觀念。複習時請回到題幹線索，確認此選項為何不符合定義、機轉、典型表現或臨床處置。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「嚴重低血鈣病人有可能出現錐體外(extrapyramidal)症狀、癲癇發作和幻覺」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「檢查者用手指輕拍病人耳前的面頰,顏面肌肉會跟著收縮,此稱為Chvostek sign」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「若病人使用毛地黃藥物,靜脈補充鈣離子可能會增加毒性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n錯誤敘述判斷：C. 低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查甲狀腺切除術後嚴重低血鈣（Hypocalcemia，病患游離鈣 3.5 mg/dL 屬顯著低鈣）的臨床特徵（神經肌肉興奮性增加、心電圖特徵）與藥物治療禁忌。\n\n【選項詳解】\n- A. 嚴重低血鈣病人有可能出現錐體外(extrapyramidal)症狀、癲癇發作和幻覺：敘述正確。低血鈣會增加神經肌肉的興奮性，嚴重時會引起抽搐（tetany）、癲癇大發作、幻覺以及錐體外系統受干擾之肌張力異常。\n- B. 檢查者用手指輕拍病人耳前的面頰,顏面肌肉會跟著收縮,此稱為Chvostek sign：敘述正確。輕扣顏面神經引發面肌抽搐收縮，為低血鈣經典物理診斷體徵之一（Chvostek's sign）。\n- C. 低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高：敘述錯誤，為本題答案。低血鈣在心電圖（ECG）上的經典特徵為「QTc 間期延長（prolonged QTc interval）」（因動作電位第 2 平台期延長）。QTc 期間縮短是高血鈣的特徵。\n- D. 若病人使用毛地黃藥物,靜脈補充鈣離子可能會增加毒性：敘述正確。鈣離子與毛地黃（Digoxin）對心肌細胞有協同作用，快速靜脈補鈣會增加毛地黃誘發嚴重室性心律不整的心臟毒性風險，用藥時需極緩慢並加強監測。\n\n【核心考點】\n1. 低血鈣心電圖：QTc 間期延長；高血鈣心電圖：QTc 間期縮短。\n2. 術後低血鈣多為暫時性或永久性副甲狀腺受損所致。Chvostek's sign（叩擊面神經面肌收縮）與 Trousseau's sign（壓迫上臂手部呈助產士手）為低鈣血症的兩大代表性體徵。",
       "key_point": "錯誤敘述判斷：C. 低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高",
       "flashcard_summary": "56歲女性3天前曾經接受甲狀腺全切除手術,因食慾不振、虛弱無力,被家人送到急診室,抽血檢驗發現病 人游… -> C. 低血鈣病人的心電圖特徵,經常呈現QTc期間縮短及T波變高",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "C"
       ],
@@ -2242,7 +2242,7 @@
       "category": "心臟內科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2256,10 +2256,10 @@
         "D": "α-glucosidase inhibitors(例如acarbose)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列那一類降血壓藥物最常發生低血糖(hypoglycemia)之不良反應?」\n標準答案為 A、B、C、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 A. biguanides(例如metformin)；B. thiazolidinediones(例如pioglitazone)；C. sulfonylureas(例如glipizide)；D. α-glucosidase inhibitors(例如acarbose)，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 正確答案。選項內容：「biguanides(例如metformin)」此選項最符合題幹線索與標準答案。\n- B. 正確答案。選項內容：「thiazolidinediones(例如pioglitazone)」此選項最符合題幹線索與標準答案。\n- C. 正確答案。選項內容：「sulfonylureas(例如glipizide)」此選項最符合題幹線索與標準答案。\n- D. 正確答案。選項內容：「α-glucosidase inhibitors(例如acarbose)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n正確觀念：A. biguanides(例如metformin)；B. thiazolidinediones(例如pioglitazone)；C. sulfonylureas(例如glipizide)；D. α-glucosidase inhibitors(例如acarbose) 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查口服降血糖藥物（Oral hypoglycemic agents）的不良反應，特別是低血糖（Hypoglycemia）的發生機率。本題題幹因將「降血糖藥物」錯植為「降血壓藥物」之嚴重文字瑕疵，官方最終裁定本題為「A、B、C、D 皆給分」。\n\n【選項詳解】\n- A. biguanides(例如metformin)：官方評定為正確。Metformin 的作用機轉為抑制肝臟糖質新生並增加周邊胰島素敏感度，其單獨使用時「不會」增加胰島素分泌，故極少引發低血糖。\n- B. thiazolidinediones(例如pioglitazone)：官方評定為正確。Pioglitazone 為 PPAR-gamma 促效劑，增加胰島素敏感性，單獨使用亦「不會」引發低血糖。\n- C. sulfonylureas(例如glipizide)：官方評定為正確。但醫學事實上，Sulfonylureas 的機轉是直接結合至胰島 beta 細胞的 K-ATP 通道，刺激胰島素主動分泌。不論血糖高低均會促進分泌，因此是這四類口服降糖藥中「最容易、最常」引發低血糖不良反應的藥物。若題目未出錯，此應為唯一正解。\n- D. α-glucosidase inhibitors(例如acarbose)：官方評定為正確。Acarbose 作用為延緩小腸對碳水化合物的吸收，單獨使用同樣「不會」引發低血糖。\n\n【核心考點】\n1. 口服降糖藥中，易引發低血糖者主要為：胰島素促分泌劑（如 Sulfonylureas、Meglitinides）及外源性胰島素。其餘藥物（Metformin、TZD、Acarbose、DPP4 抑制劑、SGLT2 抑制劑）單獨使用時均無低血糖風險。\n2. 本題因題幹將「降血糖藥物」印錯為「降血壓藥物」，官方採取「A、B、C、D 皆給分」之更正措施。\n\n【補充提醒】\n本題官方更正答案為 A、B、C、D 皆給分，詳解中已列出各藥物低血糖發生率的真實醫學機轉，建議複核。",
       "key_point": "正確觀念：A. biguanides(例如metformin)；B. thiazolidinediones(例如pioglitazone)；C. sulfonylureas(例如glipizide)；D. α-glucosidase inhibitors(例如acarbose)",
       "flashcard_summary": "類降血壓藥物最常發生低血糖(hypoglycemia)之不良反應 / hypoglycemia -> A. biguanides(例如metformin)；B. thiazolidinediones(例如pioglitazone)；C. sulfonylureas(例如glipizide)；D. α-glucosidase inhibitors(例如acarbose)",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "A",
         "B",
@@ -2275,7 +2275,7 @@
       "category": "新陳代謝科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2289,10 +2289,10 @@
         "D": "病人自主權利法規定,應告知本人或關係人"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「我國醫療法規對於病人病情告知的規定,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：考點是辨認不適當敘述。官方答案為「D. 病人自主權利法規定,應告知本人或關係人」，表示這個選項需特別修正；複習時要反向記住正確概念。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「醫師法規定,應告知病人或其家屬」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「醫療法規定,應告知病人或其法定代理人、配偶、親屬或關係人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「安寧緩和醫療條例規定,應告知末期病人或其家屬,但病人有明確意思表示欲知病情時,應予告知」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「病人自主權利法規定,應告知本人或關係人」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n我國醫療法規對於病人病情告知的規定 => 病人自主權利法規定,應告知本人或關係人 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查我國現行醫療法規（醫療法、醫師法、安寧緩和醫療條例及病人自主權利法）對於病患「病情告知權」的規範特徵，需釐清病情告知的第一順位人優先權益。\n\n【選項詳解】\n- A. 醫師法規定,應告知病人或其家屬：敘述正確。我國《醫師法》第 12-1 條明定，醫師診治病人時，應向病人或其家屬告知病情與處置。\n- B. 醫療法規定,應告知病人或其法定代理人、配偶、親屬或關係人：敘述正確。我國《醫療法》第 81 條規定，醫療機構診治病人時，應告知病人或其法定代理人、配偶、親屬或關係人。\n- C. 安寧緩和醫療條例規定,應告知末期病人或其家屬,但病人有明確意思表示欲知病情時,應予告知：敘述正確。《安寧緩和醫療條例》第 8 條規定，醫師應將安寧緩和醫療方針告知末期病人或其家屬；若病人明確表示想知情，應優先告知病人本人。\n- D. 病人自主權利法規定,應告知本人或關係人：敘述錯誤，為本題答案。根據《病人自主權利法》第 5 條第 1 項規定，醫療機構或醫師應將病情告知「本人」。僅在「本人未明示反對」時，得告知關係人。法規強調「本人知情權的首要性與優先權」，非一律將本人或關係人自由並列告知。\n\n【核心考點】\n1. 《病人自主權利法》是我國首部保障「病人本人知情權」第一順位的專法。醫師應優先告知本人，不能以「家屬反對」為由隱瞞病人，除非本人主動授權或未明示反對時方得告知關係人。\n2. 區分醫師法、醫療法與病主法之告知人順位，是臨床法規的重要考點。",
       "key_point": "我國醫療法規對於病人病情告知的規定 => 病人自主權利法規定,應告知本人或關係人",
       "flashcard_summary": "我國醫療法規對於病人病情告知的規定 -> D. 病人自主權利法規定,應告知本人或關係人",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "D"
       ],
@@ -2304,7 +2304,7 @@
       "category": "醫學倫理與醫療決策",
       "category_confidence": "medium",
       "category_source": "rule_rework_low_confidence",
-      "explanation_model": "local-rule-rework-v1.1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     },
     {
@@ -2318,10 +2318,10 @@
         "D": "不可以,雖然病人死後醫師就沒有保密義務,但是洩露這個消息會妨害病人名譽"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「知名藝人A君在家中被人發現昏迷不醒,以救護車送至B醫院急診室後不治死亡。媒體盛傳A君是吸毒過量致\n 死,而且今年年初曾因為毒癮至B醫院接受治療,新聞記者在採訪急診室主任時,一直要急診室主任證實A君\n 是否曾住院戒毒,你認為急診室主任可以說明嗎?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：本題要求辨認最符合題幹的正確觀念。官方答案為 B. 不可以,即使病人死後,醫師還是有保密義務，可作為此題的核心記憶點。複習時請用題幹線索連回該定義、機轉、典型表現或處置原則，再排除其他干擾選項。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可以,因為病人死後醫師就沒有保密義務」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「不可以,即使病人死後,醫師還是有保密義務」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「可以,因為A君是公眾人物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「不可以,雖然病人死後醫師就沒有保密義務,但是洩露這個消息會妨害病人名譽」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n正確觀念：B. 不可以,即使病人死後,醫師還是有保密義務 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n本題考查醫學倫理與醫療法律中關於「醫師保密義務（Confidentiality）」的時效限制。需辨認對於已逝世患者的個人醫療隱私（如住院戒毒史），醫師及醫療機構是否仍有法定與倫理上的保密職責。\n\n【選項詳解】\n- A. 可以,因為病人死後醫師就沒有保密義務：敘述錯誤。醫師的保密義務具有永續性，不因患者的去世而免除。\n- B. 不可以,即使病人死後,醫師還是有保密義務：敘述正確，為本題答案.根據我國《醫療法》第 72 條與《醫師法》第 23 條規定，醫療機構與醫師因業務知悉或持有他人秘密，不得無故洩漏。此法定保密義務「不因病人死亡而消滅」。急診室主任拒絕回答藝人的戒毒病史，符合保密要求。\n- C. 可以,因為A君是公眾人物：敘述錯誤。即使是公眾人物或藝人，其個人的健康與醫療隱私權同樣受法律嚴格保障，非關公眾利益之隱私不可擅自洩漏。\n- D. 不可以,雖然病人死後醫師就沒有保密義務,但是洩露這個消息會妨害病人名譽：敘述錯誤。此保密義務並非因病患死後就消滅，而是死後依然存在，故「病人死後醫師就沒有保密義務」之部分敘述錯誤。\n\n【核心考點】\n1. 醫師保密義務（Confidentiality）不因患者死亡而消滅，具有持續性。此為醫師法第 23 條與醫療法第 72 條之明文規定。\n2. 除非有法律明文規定（如法定傳染病通報、法庭傳喚作證）或病患本人（或死後由其合法授權家屬）之同意，否則醫療人員不得向第三方（包括媒體）透露病人病史。",
       "key_point": "正確觀念：B. 不可以,即使病人死後,醫師還是有保密義務",
       "flashcard_summary": "知名藝人A君在家中被人發現昏迷不醒,以救護車送至B醫院急診室後不治死亡。媒體盛傳A君是吸毒過量致 死,… -> B. 不可以,即使病人死後,醫師還是有保密義務",
-      "review_status": "ai_generated",
+      "review_status": "reviewed",
       "correct_answers": [
         "B"
       ],
@@ -2333,7 +2333,7 @@
       "category": "急診醫學科",
       "category_confidence": "medium",
       "category_source": "rule_rework",
-      "explanation_model": "local-rule-rework-v1+structured-v2",
+      "explanation_model": "antigravity-subagent",
       "explanation_generated_at": "2026-06-30T14:05:39.265Z"
     }
   ]

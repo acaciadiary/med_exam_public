@@ -1,0 +1,147 @@
+{
+  "year": "113-2",
+  "subject": "medicine-1",
+  "batch_id": 2,
+  "questions": [
+    {
+      "id": "113-2_medicine-1_011",
+      "question_number": 11,
+      "question_text": "下列何項功能,與第七對腦神經(CN VII)無關?",
+      "options": {
+        "A": "口水分泌",
+        "B": "鼻黏膜分泌",
+        "C": "臉部汗腺分泌",
+        "D": "頰肌(buccinator)收縮"
+      },
+      "correct_answer": "C",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n第七對腦神經（CN VII，顏面神經）包含運動、副交感（分泌）及感覺纖維。它支配臉部表情肌、淚腺、下頜下腺與舌下腺的分泌，以及舌前三分之二的味覺。然而，臉部及全身的「汗腺分泌」是由「交感神經（sympathetic nerves）」所支配（節後纖維沿血管行進，以乙醯膽鹼為遞質），與顏面神經無關。\n\n【選項詳解】\n- A. 口水分泌：與 CN VII 有關。顏面神經藉由鼓索神經（chorda tympani）與下頜下神經節（submandibular ganglion）支配下頜下腺與舌下腺的分泌。\n- B. 鼻黏膜分泌：與 CN VII 有關。顏面神經藉由大岩神經（greater petrosal nerve）與翼腭神經節（pterygopalatine ganglion）支配鼻腔、腭部黏膜腺體及淚腺的分泌。\n- C. 臉部汗腺分泌：與 CN VII 無關（本題答案）。全身及臉部汗腺均由胸髓發出的交感神經節後纖維支配。\n- D. 頰肌(buccinator)收縮：與 CN VII 有關。頰肌是負責吹氣、咀嚼時將食物推回齒列的表情肌，受顏面神經頰支（buccal branch）支配（注意：非三叉神經的頰神經）。\n\n【核心考點】\n本題考查顏面神經（CN VII）的纖維成分與功能。需特別區分副交感神經（腺體分泌，如淚腺、唾液腺）與交感神經（汗腺分泌）的支配差異，以及表情肌（CN VII 支配，如頰肌）與咀嚼肌（CN V3 支配）的差別。"
+    },
+    {
+      "id": "113-2_medicine-1_012",
+      "question_number": 12,
+      "question_text": "下列何者同時支配上、中、下三個咽縮肌(pharyngeal constrictor muscles)?",
+      "options": {
+        "A": "舌咽神經(glossopharyngeal nerve)",
+        "B": "三叉神經(trigeminal nerve)",
+        "C": "迷走神經(vagus nerve)",
+        "D": "舌下神經(hypoglossal nerve)"
+      },
+      "correct_answer": "C",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n咽部的肌肉包括上、中、下三條咽縮肌（pharyngeal constrictor muscles），負責將食物推入食道。這些肌肉由「咽神經叢（pharyngeal plexus）」所支配，該神經叢的運動纖維主要來自「迷走神經（vagus nerve, CN X）」的咽支，其神經纖維起源於腦幹的疑核（nucleus ambiguus）。\n\n【選項詳解】\n- A. 舌咽神經(glossopharyngeal nerve)：主要提供咽部感覺（CN IX 負責感覺支），在運動方面只支配一條咽部肌肉，即「莖突咽肌（stylopharyngeus）」，不支配咽縮肌。\n- B. 三叉神經(trigeminal nerve)：支配咀嚼肌、張腭帆肌、下頜舌骨肌及二腹肌前腹（CN V3 運動支），與咽縮肌無關。\n- C. 迷走神經(vagus nerve)：為正確選項。迷走神經的咽支提供運動纖維給咽神經叢，進而同時支配上、中、下咽縮肌，以及除了莖突咽肌以外的所有腭部和咽部肌肉。\n- D. 舌下神經(hypoglossal nerve)：主要支配舌內肌與舌外肌的運動（除了齶舌肌 palatoglossus 由 CN X 支配），不支配咽部肌肉。\n\n【核心考點】\n本題考查咽喉部肌肉的神經支配。重點記憶：所有咽肌與齶部肌肉（除了莖突咽肌由 CN IX 支配、張齶帆肌由 CN V3 支配外）全部由迷走神經（CN X）經咽叢支配。"
+    },
+    {
+      "id": "113-2_medicine-1_013",
+      "question_number": 13,
+      "question_text": "下列何者與張腭帆肌(tensor veli palatini muscle)具有相同來源的神經支配?",
+      "options": {
+        "A": "腭咽肌(palatopharyngeus)",
+        "B": "頸闊肌(platysma)",
+        "C": "鼓室張肌(tensor tympani)",
+        "D": "莖突咽肌(stylopharyngeus)"
+      },
+      "correct_answer": "C",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n張腭帆肌（tensor veli palatini）和鼓室張肌（tensor tympani）在胚胎發育中皆起源於「第一咽弓（first pharyngeal arch）」，因此兩者均由第一咽弓的代表神經——三叉神經的分支「下頜神經（mandibular nerve, CN V3）」所支配。\n\n【選項詳解】\n- A. 腭咽肌(palatopharyngeus)：屬於第四/六咽弓衍生物，由迷走神經（CN X）支配。\n- B. 頸闊肌(platysma)：屬於第二咽弓（舌骨弓）衍生物，由顏面神經（CN VII）支配。\n- C. 鼓室張肌(tensor tympani)：為正確選項。與張腭帆肌同樣發育自第一咽弓，受三叉神經下頜支（CN V3）的內側翼突肌神經分支支配。\n- D. 莖突咽肌(stylopharyngeus)：屬於第三咽弓衍生物，由舌咽神經（CN IX）支配。\n\n【核心考點】\n本題考查咽弓（pharyngeal arches）與其對應肌肉及神經支配的演化關係。第一咽弓對應三叉神經（CN V），支配張腭帆肌、鼓室張肌、咀嚼肌等；第二咽弓對應顏面神經（CN VII），支配表情肌、鐙骨肌等；第三咽弓對應舌咽神經（CN IX），支配莖突咽肌；第四/六咽弓對應迷走神經（CN X）。"
+    },
+    {
+      "id": "113-2_medicine-1_014",
+      "question_number": 14,
+      "question_text": "上甲狀腺靜脈(superior thyroid vein)的血液,通常注入下列何者?",
+      "options": {
+        "A": "外頸靜脈(external jugular vein)",
+        "B": "內頸靜脈(internal jugular vein)",
+        "C": "頭臂靜脈(brachiocephalic vein)",
+        "D": "前頸靜脈(anterior jugular vein)"
+      },
+      "correct_answer": "B",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n甲狀腺的靜脈回流分為上、中、下三組：\n1. 上甲狀腺靜脈（superior thyroid vein）伴隨上甲狀腺動脈，注入內頸靜脈（internal jugular vein）。\n2. 中甲狀腺靜脈（middle thyroid vein）直接橫跨注入內頸靜脈。\n3. 下甲狀腺靜脈（inferior thyroid vein）則往下注入左、右頭臂靜脈（brachiocephalic vein）。\n\n【選項詳解】\n- A. 外頸靜脈(external jugular vein)：主要收集頭皮與面深部的血液，向下注入鎖骨下靜脈，不接收上甲狀腺靜脈。\n- B. 內頸靜脈(internal jugular vein)：為正確選項。上、中甲狀腺靜脈皆直接或間接注入內頸靜脈。\n- C. 頭臂靜脈(brachiocephalic vein)：下甲狀腺靜脈會匯入此處，而非上甲狀腺靜脈。\n- D. 前頸靜脈(anterior jugular vein)：位於頸部前正中線兩側，最後注入外頸靜脈或鎖骨下靜脈，與甲狀腺靜脈無直接關係。\n\n【核心考點】\n本題考查頸部血管解剖。重點需區分上、中、下甲狀腺靜脈的流向：上和中靜脈注入內頸靜脈（IJV）；下靜脈注入頭臂靜脈（brachiocephalic v.）。"
+    },
+    {
+      "id": "113-2_medicine-1_015",
+      "question_number": 15,
+      "question_text": "解剖位置下,緊鄰心臟基部(base of the heart)、左心房正後方的器官為下列何者?",
+      "options": {
+        "A": "氣管(trachea)",
+        "B": "降主動脈(descending aorta)",
+        "C": "食道(esophagus)",
+        "D": "右主支氣管(right main bronchus)"
+      },
+      "correct_answer": "C",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n心臟的基部（base of the heart）主要由左心房構成，朝向後上方。在縱隔腔中，緊鄰左心房正後方的器官是「食道（esophagus）」，兩者之間僅隔著心包腔的斜竇（oblique pericardial sinus）。此空間相鄰關係非常密切，當左心房擴大時，可能會壓迫食道引起吞嚥困難；臨床上也利用此點進行經食道心臟超音波（TEE），能以極近距離清晰探查左心房及二尖瓣結構。\n\n【選項詳解】\n- A. 氣管(trachea)：位於較上方，在主動脈弓後方分叉，不直接位於左心房的正後方。\n- B. 降主動脈(descending aorta)：位於食道的左後方，偏向脊椎左側，並非「緊鄰」左心房正後方的構造。\n- C. 食道(esophagus)：為正確選項。食道緊貼左心房後壁下行。\n- D. 右主支氣管(right main bronchus)：位於左心房上方偏右側，非正後方相鄰器官。\n\n【核心考點】\n本題考查縱隔腔內心臟與後縱隔器官的相對位置。需特別掌握左心房與食道的前後鄰接關係及其在經食道超音波（TEE）與左心房擴大壓迫症狀上的臨床意義。"
+    },
+    {
+      "id": "113-2_medicine-1_016",
+      "question_number": 16,
+      "question_text": "解剖姿勢下,肺動脈幹(pulmonary trunk)通常約在下列何處,分支成左右肺動脈?",
+      "options": {
+        "A": "第四/第五胸椎高度處",
+        "B": "第六/第七胸椎高度處",
+        "C": "第一/第二胸椎高度處",
+        "D": "第二/第三胸椎高度處"
+      },
+      "correct_answer": "A",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n肺動脈幹（pulmonary trunk）起自右心室的肺動脈口，向左後上方斜行，約在胸骨角（sternal angle, angle of Louis）高度，亦即第四與第五胸椎（T4/T5）高度處，分支為左、右肺動脈。這也是上下縱隔的分界線高度。\n\n【選項詳解】\n- A. 第四/第五胸椎高度處：為正確選項。此高度相當於胸骨角平面，是氣管分叉、肺動脈幹分叉以及主動脈弓起始與終止的解剖地標。\n- B. 第六/第七胸椎高度處：位置偏下，已接近心臟中部高度。\n- C. 第一/第二胸椎高度處：位置偏上，屬於胸廓上口與頸部交界區。\n- D. 第二/第三胸椎高度處：位置偏上，高於胸骨角平面。\n\n【核心考點】\n本題考查胸部重要解剖標誌——胸骨角平面（transverse thoracic plane, T4/T5高度）。需熟記在此平面發生的重要事件：氣管分叉、肺動脈幹分叉、主動脈弓起始與結束、胸管左移、奇靜脈注入上腔靜脈等。"
+    },
+    {
+      "id": "113-2_medicine-1_017",
+      "question_number": 17,
+      "question_text": "下列那一關節最不可能參與呼吸時胸廓的運動?",
+      "options": {
+        "A": "劍突胸骨關節(xiphisternal joint)",
+        "B": "肋橫關節(costotransverse joint)",
+        "C": "柄胸關節(manubriosternal joint)",
+        "D": "胸肋關節(sternocostal joint)"
+      },
+      "correct_answer": "A",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n呼吸時胸廓的擴張與收縮仰賴肋骨與胸椎、胸骨之間關節的微幅運動。肋橫關節（costotransverse joint）與胸肋關節（sternocostal joint）是肋骨運動的關鍵鉸鏈（產生水桶柄與幫浦柄效應）；柄胸關節（manubriosternal joint）可在吸氣時微幅向外突出。而「劍突胸骨關節（xiphisternal joint）」是胸骨體與劍突之間的軟骨關節，不與任何肋骨直接形成活動關節，通常在成年中後期會完全骨化融合（synostosis），因此最不可能參與呼吸胸廓的運動。\n\n【選項詳解】\n- A. 劍突胸骨關節(xiphisternal joint)：最不可能參與（本題答案）。此關節無滑膜且常發生骨性融合，對呼吸時的胸廓擴張無貢獻。\n- B. 肋橫關節(costotransverse joint)：肋骨結節與胸椎橫突的關節，為呼吸時肋骨旋轉、上下移動的重要關節。\n- C. 柄胸關節(manubriosternal joint)：胸骨柄與胸骨體之間的關節，在深呼吸時允許胸骨前突，形成胸椎前後徑的微調。\n- D. 胸肋關節(sternocostal joint)：第1-7肋軟骨與胸骨側緣的關節，直接參與肋骨在呼吸時的升降運動。\n\n【核心考點】\n本題考查胸廓運動的關節運動學。呼吸運動主要涉及：肋椎關節（包括肋頭與肋橫關節）、胸肋關節及肋軟骨間關節的運動。劍突不與肋軟骨形成可動關節，因此劍突胸骨關節不參與胸廓運動。"
+    },
+    {
+      "id": "113-2_medicine-1_018",
+      "question_number": 18,
+      "question_text": "有關胸管(thoracic duct)在縱隔之敘述,下列何者正確?",
+      "options": {
+        "A": "在食道與脊椎之間",
+        "B": "在氣管與食道之間",
+        "C": "在胸主動脈與脊椎之間",
+        "D": "在奇靜脈與交感神經幹之間"
+      },
+      "correct_answer": "A",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n在後縱隔（posterior mediastinum）中，胸管（thoracic duct）從腹腔經主動脈裂口進入胸腔後沿脊椎前正中偏右上升。在其中段，胸管的前方是「食道（esophagus）」，後方則是「脊椎（vertebral column）」，右側是奇靜脈，左側是胸主動脈。因此，胸管是位於食道與脊椎之間。\n\n【選項詳解】\n- A. 在食道與脊椎之間：為正確選項。胸管在後縱隔的行徑緊貼脊椎前方，並位於食道的後方（深面）。\n- B. 在氣管與食道之間：此處有左喉返神經通過，但胸管在後縱隔的高度主要位於食道後方，而非與氣管相夾。\n- C. 在胸主動脈與脊椎之間：胸主動脈本身也是緊貼脊椎偏左前方，胸管位於胸主動脈的右側（介於主動脈與奇靜脈之間），而非夾在主動脈與脊椎之間。\n- D. 在奇靜脈與交感神經幹之間：交感神經幹位於脊椎旁更外側，奇靜脈在右側，兩者之間非胸管的位置。\n\n【核心考點】\n本題考查後縱隔結構的相對位置關係。重點在記憶胸管（thoracic duct）、食道（esophagus）、胸主動脈（thoracic aorta）及奇靜脈（azygos vein）的前後左右空間排列。"
+    },
+    {
+      "id": "113-2_medicine-1_019",
+      "question_number": 19,
+      "question_text": "下列何者藉由橫膈(diaphragm)的食道裂口(esophageal hiatus)由胸腔進入腹腔?",
+      "options": {
+        "A": "胸管(thoracic duct)",
+        "B": "主動脈(aorta)",
+        "C": "迷走神經幹(vagal trunk)",
+        "D": "下腔靜脈(inferior vena cava)"
+      },
+      "correct_answer": "C",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n橫膈（diaphragm）有三個主要裂口，其通過的結構及對應的脊椎高度是國考必考重點：\n1. 腔靜脈孔（caval opening, T8）：通過下腔靜脈（IVC）及右膈神經。\n2. 食道裂口（esophageal hiatus, T10）：通過食道、前/後迷走神經幹（vagal trunks）以及左胃血管分支。\n3. 主動脈裂口（aortic hiatus, T12）：通過胸主動脈、胸管（thoracic duct）及奇靜脈（azygos vein）。\n\n【選項詳解】\n- A. 胸管(thoracic duct)：由主動脈裂口（T12）通過。\n- B. 主動脈(aorta)：由主動脈裂口（T12）通過。\n- C. 迷走神經幹(vagal trunk)：正確（本題答案）。與食道一同由食道裂口（T10）穿過。\n- D. 下腔靜脈(inferior vena cava)：由腔靜脈孔（T8）通過。\n\n【核心考點】\n本題考查橫膈三個大裂口（T8, T10, T12）的代表性通過構造。重點口訣：I Eat 10 Eggs At 12 (I=IVC at T8, E=Esophagus/vagus at T10, A=Aorta/thoracic duct at T12)。"
+    },
+    {
+      "id": "113-2_medicine-1_020",
+      "question_number": 20,
+      "question_text": "下列構造與十二指腸(duodenum)關係的敘述,何者最為正確?",
+      "options": {
+        "A": "膽囊(gallbladder)位於十二指腸上段(superior part of duodenum)的後方",
+        "B": "下腔靜脈(inferior vena cava)位於十二指腸水平段(horizontal part of duodenum)的前方",
+        "C": "胰臟頭部(head of pancreas)位於十二指腸下降段(descending part of duodenum)的外側",
+        "D": "上腸繫膜靜脈(superior mesenteric vein)位於十二指腸水平段(horizontal part of duodenum)的前\n 方"
+      },
+      "correct_answer": "D",
+      "category": "解剖學",
+      "explanation": "【題幹解析】\n十二指腸分為四段：上段（第一段）、下降段（第二段）、水平段（第三段）、升段（第四段）。本題考查十二指腸與周圍血管及器官的鄰接解剖關係：\n- 上腸繫膜動、靜脈（SMA/SMV）會從十二指腸水平段（第三段）的前方跨過，這也是上腸繫膜動脈症候群（SMA syndrome）的病理解剖基礎（水平段被夾在 SMA 與主動脈之間受壓）。\n\n【選項詳解】\n- A. 膽囊(gallbladder)位於十二指腸上段(superior part of duodenum)的後方：錯誤。膽囊與肝臟位於十二指腸上段的前方。\n- B. 下腔靜脈(inferior vena cava)位於十二指腸水平段(horizontal part of duodenum)的前方：錯誤。下腔靜脈與主動脈皆位於腹膜後腔，是在十二指腸水平段的「後方」。\n- C. 胰臟頭部(head of pancreas)位於十二指腸下降段(descending part of duodenum)的外側：錯誤。胰臟頭部被包圍在 C 形十二指腸下降段的「內側（左側）」。\n- D. 上腸繫膜靜脈(superior mesenteric vein)位於十二指腸水平段(horizontal part of duodenum)的前方：為正確選項。SMV 與 SMA 共同從十二指腸水平段的前方越過。\n\n【核心考點】\n本題考查十二指腸（特別是下降段與水平段）的鄰近解剖。重點需掌握上腸繫膜血管跨越十二指腸第三段前方的空間位置，以及胰頭位於第二段內側的關係。"
+    }
+  ]
+}
