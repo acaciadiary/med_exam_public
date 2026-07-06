@@ -3,30 +3,26 @@ import os
 from pathlib import Path
 
 def main():
-    worktrees_dir = Path(r"C:\Users\User\.gemini\antigravity\brain\c8c7be1a-959c-42f9-a349-5995ea2ef29a\.system_generated\worktrees")
+    worktrees_dir = Path(r"C:\Users\User\.gemini\antigravity\brain\2a39f9c8-7812-4bff-9156-190a09a71256\.system_generated\worktrees")
     
     if not worktrees_dir.exists():
         print(f"Error: Worktrees directory {worktrees_dir} not found.")
         return
         
-    for matched_wt in worktrees_dir.glob("subagent-*"):
-        name_lower = matched_wt.name.lower()
-        subj = None
-        for i in range(1, 7):
-            if f"medicine-{i}" in name_lower or f"medicine {i}" in name_lower:
-                subj = f"medicine-{i}"
-                break
-        if not subj:
+    for matched_wt in worktrees_dir.glob("subagent-medicine-*"):
+        name_parts = matched_wt.name.split("-")
+        if len(name_parts) < 3:
             continue
+        subj = name_parts[1] + "-" + name_parts[2] # e.g. medicine-1
         
-        sd = matched_wt / "scratch" / f"114-2_{subj}"
+        sd = matched_wt / "scratch" / f"114-1_{subj}"
         if not sd.exists():
             continue
             
         for done_file in sd.glob("batch_*_done.json"):
             print(f"Found {done_file.name} in {sd}. Running import...")
             
-            json_path = Path("public") / "data" / "exams" / "114-2" / f"{subj}.json"
+            json_path = Path("public") / "data" / "exams" / "114-1" / f"{subj}.json"
             done_path = done_file.resolve()
             progress_path = Path("reports") / f"progress_{subj}.json"
             

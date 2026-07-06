@@ -4,7 +4,7 @@
   "title": "114 年第一次醫師國考：醫學（六）",
   "subject": "medicine-6",
   "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=302&code=114020&q=1&s=0106&t=Q",
-  "updated_at": "2026-06-30T14:05:39.265Z",
+  "updated_at": "2026-07-06T04:33:02.302350+00:00",
   "questions": [
     {
       "id": "114-1_medicine-6_001",
@@ -32,8 +32,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_002",
@@ -61,8 +61,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_003",
@@ -90,8 +90,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_004",
@@ -119,8 +119,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_005",
@@ -148,8 +148,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_006",
@@ -177,8 +177,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_007",
@@ -206,8 +206,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_008",
@@ -235,8 +235,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_009",
@@ -249,7 +249,7 @@
         "D": "<100"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題考查急性呼吸窘迫症候群（ARDS）的柏林診斷標準（Berlin Definition）。其核心診斷指標之一為氧合指數（PaO2/FiO2 ratio），此數值能反映肺部氣體交換障礙的嚴重程度。\n\n【選項詳解】\n- A. <400：錯誤。不符合ARDS定義範圍。\n- B. <300：正確。根據柏林標準，在 PEEP 或 CPAP ≧ 5 cmH2O 的情況下，診斷 ARDS 的氧合臨界值為 PaO2/FiO2 ≦ 300 mmHg。\n- C. <200：錯誤。PaO2/FiO2 在 101~200 mmHg 之間定義為「中度（Moderate）ARDS」，但並非診斷起點。\n- D. <100：錯誤。PaO2/FiO2 ≦ 100 mmHg 定義為「重度（Severe）ARDS」。\n\n【核心考點】\nARDS 柏林診斷標準：\n1. 時間：已知臨床損傷或新發/惡化呼吸道症狀後 1 週內。\n2. 胸部影像：雙側浸潤（bilateral opacities），且無法完全用肋膜積水、肺葉/肺塌陷或結節解釋。\n3. 水腫原因：非心因性肺水腫或過度輸液所致。\n4. 氧合狀態（在 PEEP ≧ 5 cmH2O 下）：\n   - 輕度（Mild）：200 < PaO2/FiO2 ≦ 300 mmHg\n   - 中度（Moderate）：100 < PaO2/FiO2 ≦ 200 mmHg\n   - 重度（Severe）：PaO2/FiO2 ≦ 100 mmHg",
+      "explanation": "【題幹解析】\n本題考查急性呼吸窘迫症候群（ARDS）的柏林診斷標準（Berlin Definition）。其核心診斷指標之一為氧合指數（PaO2/FiO2 ratio），此數值能反映肺部氣體交換障礙的嚴重程度。\n\n【選項詳解】\n- A. <400：錯誤。不符合ARDS定義範圍。\n- B. <300：正確。根據柏林標準，在 PEEP 或 CPAP ≧ 5 cmH2O 的情況下，診斷 ARDS 的氧合臨界值為 PaO2/FiO2 ≦ 300 mmHg。\n- C. <200：錯誤。PaO2/FiO2 在 101~200 mmHg 之間定義為「中度（Moderate）ARDS」，但並非診斷起點。\n- D. <100：錯誤。PaO2/FiO2 ≦ 100 mmHg 定義為「重度（Severe）ARDS」。\n\n【核心考點】\nARDS 柏林診斷標準：\n1. 時間：已知臨床損傷或新發/惡化呼吸道症狀後 1 週內。\n2. 胸部影像：雙側浸潤（bilateral opacities），且無法完全用肋膜積水、肺葉/肺塌陷或結節解釋。\n3. 水腫原因：非心因性肺水腫或過度輸液所致。\n4. 氧合狀態（在 PEEP ≧ 5 cmH2O 下）：\n - 輕度（Mild）：200 < PaO2/FiO2 ≦ 300 mmHg\n - 中度（Moderate）：100 < PaO2/FiO2 ≦ 200 mmHg\n - 重度（Severe）：PaO2/FiO2 ≦ 100 mmHg",
       "key_point": "急性呼吸窘迫症候群（ARDS）診斷指標中，氧合指數 PaO2/FiO2 數值定義為小於 300 mmHg（伴隨PEEP或CPAP至少5 cmH2O）。",
       "flashcard_summary": "ARDS 氧合定義 -> PaO2/FiO2 <= 300 mmHg。輕度(200-300)、中度(100-200)、重度(<=100)。",
       "review_status": "ai_generated",
@@ -266,8 +266,8 @@
       "category": "麻醉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_010",
@@ -295,8 +295,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:34.296245+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_011",
@@ -324,8 +324,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_012",
@@ -353,8 +353,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_013",
@@ -382,8 +382,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_014",
@@ -411,8 +411,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_015",
@@ -440,8 +440,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.741577+00:00"
     },
     {
       "id": "114-1_medicine-6_016",
@@ -469,8 +469,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_017",
@@ -498,8 +498,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_018",
@@ -527,8 +527,8 @@
       "category": "眼科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_019",
@@ -556,8 +556,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_020",
@@ -585,8 +585,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:40:55.574089+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_021",
@@ -614,8 +614,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_022",
@@ -643,8 +643,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_023",
@@ -672,8 +672,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_024",
@@ -701,8 +701,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_025",
@@ -730,8 +730,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_026",
@@ -763,8 +763,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_027",
@@ -794,8 +794,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_028",
@@ -823,8 +823,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_029",
@@ -852,8 +852,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_030",
@@ -881,8 +881,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:24.436844+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.838157+00:00"
     },
     {
       "id": "114-1_medicine-6_031",
@@ -910,8 +910,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_032",
@@ -939,8 +939,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_033",
@@ -968,8 +968,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_034",
@@ -997,8 +997,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_035",
@@ -1011,7 +1011,7 @@
         "D": "前胎剖腹且子宮為vertical hysterotomy incision"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「關於剖腹生產的適應症,下列何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：【題幹解析】\n剖腹產的適應症分為絕對適應症與相對適應症，皆以保護母嬰安全為前提。臨床上必須區分真正的病理性異常與常見的生理或解剖變異（如臍帶繞頸）。\n\n【選項詳解】\n- A. 待產時急性胎兒窘迫：正確。急性胎兒窘迫（fetal distress）代表胎兒有嚴重缺氧風險，為緊急剖腹產的絕對適應症。\n- B. 胎盤早期剝離：正確。胎盤早剝會迅速阻斷胎兒氧氣供應並引發母體大出血，多數情況需立即行剖腹產搶救母嬰。\n- C. 胎兒臍帶繞頸：錯誤。臍帶繞頸（nuchal cord）在足月生產中非常普遍（發生率約20-30%），大多數胎兒在自然生產中能安全娩出。除非繞頸伴隨嚴重的胎兒心跳減速（胎兒窘迫），否則單純的「臍帶繞頸」絕對「不是」剖腹產的指徵。\n- D. 前胎剖腹且子宮為vertical hysterotomy incision：正確。前胎剖腹若子宮切口為縱向切口（vertical incision，特別是經典剖腹產切口或延伸至子宮上段的縱切口），其再次懷孕自然分娩時子宮破裂（uterine rupture）的風險極高，因此必須行選擇性重複剖腹產。\n- **Category**: 婦產科\n\n【選項詳解】\n- A. 非本題答案。選項內容：「待產時急性胎兒窘迫」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「胎盤早期剝離」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「胎兒臍帶繞頸」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「前胎剖腹且子宮為vertical hysterotomy incision」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n臍帶繞頸極為常見且多數可自然生產，非剖腹產適應症；急性胎窘、胎盤早剝及前胎子宮縱切則為剖腹產指徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
+      "explanation": "【題幹解析】\n剖腹產的適應症分為絕對適應症與相對適應症，皆以保護母嬰安全為前提。臨床上必須區分真正的病理性異常與常見的生理或解剖變異（如臍帶繞頸）。\n\n【選項詳解】\n- A. 待產時急性胎兒窘迫：正確。急性胎兒窘迫（fetal distress）代表胎兒有嚴重缺氧風險，為緊急剖腹產的絕對適應症。\n- B. 胎盤早期剝離：正確。胎盤早剝會迅速阻斷胎兒氧氣供應並引發母體大出血，多數情況需立即行剖腹產搶救母嬰。\n- C. 胎兒臍帶繞頸：錯誤。臍帶繞頸（nuchal cord）在足月生產中非常普遍（發生率約20-30%），大多數胎兒在自然生產中能安全娩出。除非繞頸伴隨嚴重的胎兒心跳減速（胎兒窘迫），否則單純的「臍帶繞頸」絕對不是剖腹產的指徵。\n- D. 前胎剖腹且子宮為vertical hysterotomy incision：正確。前胎剖腹若子宮切口為縱向切口（vertical incision，特別是經典剖腹產切口或延伸至子宮上段的縱切口），其再次懷孕自然分娩時子宮破裂（uterine rupture）的風險極高，因此必須行選擇性重複剖腹產。\n\n【核心考點】\n臍帶繞頸極為常見且多數可自然生產，非剖腹產適應症；急性胎窘、胎盤早剝及前胎子宮縱切則為剖腹產指徵。",
       "key_point": "臍帶繞頸極為常見且多數可自然生產，非剖腹產適應症；急性胎窘、胎盤早剝及前胎子宮縱切則為剖腹產指徵。",
       "flashcard_summary": "剖腹產適應症 -> 胎窘、早剝、前胎縱切需剖腹；單純臍帶繞頸非剖腹指徵。",
       "review_status": "ai_generated",
@@ -1026,8 +1026,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_036",
@@ -1055,8 +1055,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_037",
@@ -1084,8 +1084,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_038",
@@ -1113,8 +1113,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_039",
@@ -1142,8 +1142,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_040",
@@ -1171,8 +1171,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:41:57.655134+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_041",
@@ -1200,8 +1200,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_042",
@@ -1229,8 +1229,8 @@
       "category": "其他",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_043",
@@ -1258,8 +1258,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_044",
@@ -1287,8 +1287,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_045",
@@ -1316,8 +1316,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:01.963740+00:00"
     },
     {
       "id": "114-1_medicine-6_046",
@@ -1345,8 +1345,8 @@
       "category": "其他",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_047",
@@ -1374,8 +1374,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_048",
@@ -1403,8 +1403,8 @@
       "category": "其他",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_049",
@@ -1432,8 +1432,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_050",
@@ -1461,8 +1461,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:24.570196+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_051",
@@ -1490,8 +1490,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_052",
@@ -1519,8 +1519,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_053",
@@ -1548,8 +1548,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_054",
@@ -1577,8 +1577,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_055",
@@ -1606,8 +1606,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_056",
@@ -1635,8 +1635,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_057",
@@ -1664,8 +1664,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_058",
@@ -1693,8 +1693,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_059",
@@ -1722,8 +1722,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_060",
@@ -1751,8 +1751,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:42:50.044941+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.076465+00:00"
     },
     {
       "id": "114-1_medicine-6_061",
@@ -1780,8 +1780,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_062",
@@ -1809,8 +1809,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_063",
@@ -1838,8 +1838,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_064",
@@ -1867,8 +1867,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_065",
@@ -1896,8 +1896,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_066",
@@ -1925,8 +1925,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_067",
@@ -1954,8 +1954,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_068",
@@ -1983,8 +1983,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_069",
@@ -2012,8 +2012,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_070",
@@ -2041,8 +2041,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:22.302212+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_071",
@@ -2070,8 +2070,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_072",
@@ -2099,8 +2099,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_073",
@@ -2128,8 +2128,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_074",
@@ -2157,8 +2157,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_075",
@@ -2186,8 +2186,8 @@
       "category": "復健科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.173412+00:00"
     },
     {
       "id": "114-1_medicine-6_076",
@@ -2215,8 +2215,8 @@
       "category": "婦產科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.302350+00:00"
     },
     {
       "id": "114-1_medicine-6_077",
@@ -2244,8 +2244,8 @@
       "category": "耳鼻喉科",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.302350+00:00"
     },
     {
       "id": "114-1_medicine-6_078",
@@ -2273,8 +2273,8 @@
       "category": "醫學倫理與醫療決策",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.302350+00:00"
     },
     {
       "id": "114-1_medicine-6_079",
@@ -2302,8 +2302,8 @@
       "category": "醫學倫理與醫療決策",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.302350+00:00"
     },
     {
       "id": "114-1_medicine-6_080",
@@ -2331,8 +2331,8 @@
       "category": "醫學倫理與醫療決策",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-25T17:43:49.083972+00:00"
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-06T04:33:02.302350+00:00"
     }
   ]
 }

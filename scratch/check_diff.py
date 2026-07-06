@@ -12,12 +12,12 @@ def get_git_file(filepath):
     return json.loads(res.stdout)
 
 def main():
-    dest_dir = Path("public/data/exams/114-2")
+    dest_dir = Path("public/data/exams/114-1")
     all_ok = True
     
     for i in range(1, 7):
         subj = f"medicine-{i}"
-        filepath = f"public/data/exams/114-2/{subj}.json"
+        filepath = f"public/data/exams/114-1/{subj}.json"
         
         current_data = json.loads(Path(filepath).read_text(encoding='utf-8'))
         git_data = get_git_file(filepath)

@@ -6,7 +6,7 @@ def main():
     scratch_dir = Path(r"d:\Antigravity\med_exam_public\scratch")
     scratch_dir.mkdir(parents=True, exist_ok=True)
     
-    current_conv_id = "c8c7be1a-959c-42f9-a349-5995ea2ef29a"
+    current_conv_id = "2a39f9c8-7812-4bff-9156-190a09a71256"
     
     # 1. Copy helper_export.py (no change needed)
     shutil.copy(skill_scripts_dir / "helper_export.py", scratch_dir / "helper_export.py")
@@ -28,7 +28,7 @@ def main():
         'worktrees_dir = Path(r"C:\\Users\\User\\.gemini\\antigravity\\brain\\575d181b-558b-484e-91cf-9773f3458a8c\\.system_generated\\worktrees")',
         f'worktrees_dir = Path(r"C:\\Users\\User\\.gemini\\antigravity\\brain\\{current_conv_id}\\.system_generated\\worktrees")'
     )
-    check_progress_content = check_progress_content.replace('"115-1"', '"114-2"')
+    check_progress_content = check_progress_content.replace('"115-1"', '"114-1"')
     (scratch_dir / "check_progress.py").write_text(check_progress_content, encoding="utf-8")
     print("Copied and modified check_progress.py")
     
@@ -50,14 +50,14 @@ def main():
             continue
         subj = name_parts[1] + "-" + name_parts[2] # e.g. medicine-1
         
-        sd = matched_wt / "scratch" / f"114-2_{{subj}}"
+        sd = matched_wt / "scratch" / f"114-1_{{subj}}"
         if not sd.exists():
             continue
             
         for done_file in sd.glob("batch_*_done.json"):
             print(f"Found {{done_file.name}} in {{sd}}. Running import...")
             
-            json_path = Path("public") / "data" / "exams" / "114-2" / f"{{subj}}.json"
+            json_path = Path("public") / "data" / "exams" / "114-1" / f"{{subj}}.json"
             done_path = done_file.resolve()
             progress_path = Path("reports") / f"progress_{{subj}}.json"
             
@@ -84,8 +84,8 @@ if __name__ == "__main__":
     
     # 5. Copy and modify check_diff.py
     check_diff_content = (skill_scripts_dir / "check_diff.py").read_text(encoding="utf-8")
-    check_diff_content = check_diff_content.replace('"public/data/exams/115-1"', '"public/data/exams/114-2"')
-    check_diff_content = check_diff_content.replace('"public/data/exams/115-1/{subj}.json"', '"public/data/exams/114-2/{subj}.json"')
+    check_diff_content = check_diff_content.replace('"public/data/exams/115-1"', '"public/data/exams/114-1"')
+    check_diff_content = check_diff_content.replace('"public/data/exams/115-1/{subj}.json"', '"public/data/exams/114-1/{subj}.json"')
     (scratch_dir / "check_diff.py").write_text(check_diff_content, encoding="utf-8")
     print("Copied and modified check_diff.py")
     
