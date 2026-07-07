@@ -20,6 +20,8 @@
     "apply:categories": "python scripts/exams/apply_category_map.py --map scripts/exams/category_ranges.json",
     "validate:data": "python scripts/exams/validate_dataset.py \"public/data/exams/**/*.json\" --out reports/dataset-quality.json",
     "validate:explanations": "python scripts/exams/validate_explanations.py \"public/data/exams/**/*.json\" --out reports/explanation-quality.json",
+    "content:trust": "node scripts/exams/run_python.mjs scripts/exams/audit_content_trust.py \"public/data/exams/**/*.json\" --out reports/prepromo-content-trust.json",
+    "validate:content-trust": "npm run content:trust",
     "update:glossary-links": "node scripts/exams/update_medical_glossary_related_questions.mjs"
   },
   "dependencies": {

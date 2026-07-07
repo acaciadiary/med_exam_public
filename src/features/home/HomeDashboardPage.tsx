@@ -11,7 +11,7 @@ import {
 import type { ReactNode } from "react";
 import clsx from "clsx";
 import { RadarChart } from "../../components/RadarChart";
-import { getExamDisplayTitle, getSubjectLabel } from "../../lib/examMetadata";
+import { getExamDisplayTitle, getExamStage, getSubjectLabel } from "../../lib/examMetadata";
 import { compactText } from "../../lib/text";
 import type { AppTheme } from "../../components/ThemeToggle";
 import type { ExamDataset, ExamManifest, ExamManifestItem } from "../../types/exam";
@@ -62,6 +62,7 @@ type HomeDashboardPageProps = {
   onContinuePractice: () => void;
   onOpenQuestion: (examId: string, questionId: string) => void;
   onOpenExam: (examId: string) => void;
+  onStartMistakes: () => void;
   onGoMistakes: () => void;
   onGoFavorites: () => void;
   onGoProgress: () => void;
@@ -87,6 +88,7 @@ export function HomeDashboardPage({
   onContinuePractice,
   onOpenQuestion,
   onOpenExam,
+  onStartMistakes,
   onGoMistakes,
   onGoFavorites,
   onGoProgress,
@@ -103,6 +105,8 @@ export function HomeDashboardPage({
   const firstFavorite = favorites.find((favorite) => favorite.tags.includes("考前必看")) ?? favorites[0];
   const weakest = stats.find((stat) => stat.answered >= 3) ?? stats[0];
   const targetExam = exams.find((exam) => exam.id === examPlan.focusExamId) ?? null;
+  const latestExam =
+    exams.find((exam) => getExamStage(exam) === activeStage) ?? exams[0] ?? null;
   const countdown = getCountdownDays(examPlan.targetDate);
 
   return (
@@ -172,6 +176,37 @@ export function HomeDashboardPage({
                 {todayRemaining === 0 ? "今日目標已完成，可以改刷錯題或收藏。" : `剩下 ${todayRemaining} 題，完成後會納入連續達標。`}
               </p>
             </div>
+          </div>
+
+          <div className="mt-3 grid gap-3 lg:grid-cols-3">
+            <QuickStartAction
+              title={`開始今天 ${dailyGoal} 題`}
+              description={
+                todayRemaining === 0
+                  ? "已達標也可以繼續保持手感"
+                  : `先完成剩下 ${todayRemaining} 題`
+              }
+              action="開始"
+              onClick={onContinuePractice}
+              disabled={!continueTarget}
+            />
+            <QuickStartAction
+              title="從最近年度開始"
+              description={latestExam ? getExamDisplayTitle(latestExam) : "題庫載入後即可開始"}
+              action="開考卷"
+              onClick={() => latestExam && onOpenExam(latestExam.id)}
+              disabled={!latestExam}
+            />
+            <QuickStartAction
+              title="只練錯題"
+              description={
+                activeMistakes.length > 0
+                  ? `${activeMistakes.length} 題尚未完全掌握`
+                  : "目前沒有待複習錯題"
+              }
+              action={activeMistakes.length > 0 ? "開練" : "查看"}
+              onClick={activeMistakes.length > 0 ? onStartMistakes : onGoMistakes}
+            />
           </div>
 
           <div className="mt-3 grid gap-3 md:grid-cols-3">
@@ -289,6 +324,42 @@ export function HomeDashboardPage({
         </div>
       </div>
     </section>
+  );
+}
+
+function QuickStartAction({
+  title,
+  description,
+  action,
+  onClick,
+  disabled = false,
+}: {
+  title: string;
+  description: string;
+  action: string;
+  onClick: () => void;
+  disabled?: boolean;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      disabled={disabled}
+      className="flex min-h-28 min-w-0 items-center justify-between gap-3 rounded-[1rem] border border-[#efd9d0] bg-white/74 p-4 text-left transition hover:-translate-y-0.5 hover:border-[#f1aac8] hover:bg-[#fff7fb] disabled:cursor-not-allowed disabled:opacity-55"
+    >
+      <span className="min-w-0">
+        <span className="block text-base font-extrabold text-[#3f342d] dark:text-[#f8edf3]">
+          {title}
+        </span>
+        <span className="mt-1 line-clamp-2 block text-sm font-semibold leading-6 text-[#725b52] dark:text-[#dccbd3]">
+          {description}
+        </span>
+      </span>
+      <span className="inline-flex h-9 shrink-0 items-center justify-center gap-1 rounded-full bg-[#fff0f6] px-3 text-xs font-extrabold text-[#9a496b]">
+        {action}
+        <ArrowRight size={14} />
+      </span>
+    </button>
   );
 }
 

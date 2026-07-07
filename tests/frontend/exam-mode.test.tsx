@@ -10,7 +10,7 @@ vi.mock("../../src/lib/loadExamData", () => ({
 }));
 
 const question: ExamQuestion = {
-  id: "q1",
+  id: "115-1_medicine-1_001",
   question_number: 1,
   question_text: "高鈉血症處理，下列何者最適當？",
   options: {
@@ -57,6 +57,29 @@ describe("QuestionCard", () => {
 
     expect(screen.getByText("答對了")).toBeInTheDocument();
     expect(screen.getByText("此題重點為 free water deficit 的計算。")).toBeInTheDocument();
+  });
+
+  it("shows content status and a prefilled report link", () => {
+    render(
+      <QuestionCard
+        question={{ ...question, review_status: "ai_generated" }}
+        marked={false}
+        selected="B"
+        onAnswer={() => undefined}
+        onToggleMarked={() => undefined}
+      />,
+    );
+
+    expect(screen.getByText("待優化")).toBeInTheDocument();
+
+    const reportLink = screen.getByRole("link", { name: "回報第 1 題" });
+    const href = reportLink.getAttribute("href") || "";
+
+    expect(href).toContain("mailto:");
+    expect(decodeURIComponent(href)).toContain("考卷 id：115-1_medicine-1");
+    expect(decodeURIComponent(href)).toContain("題目 id：115-1_medicine-1_001");
+    expect(decodeURIComponent(href)).toContain("題號：1");
+    expect(decodeURIComponent(href)).toContain("目前頁面：");
   });
 });
 

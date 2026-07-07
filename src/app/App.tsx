@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { AlertCircle, ArrowRight, ClipboardCheck, Radar, Sparkles, GitCompare } from "lucide-react";
 import { AppShell } from "../components/AppShell";
@@ -6,25 +6,13 @@ import { DesktopInstallModal } from "../components/DesktopInstallModal";
 import { IosInstallModal } from "../components/IosInstallModal";
 import { EmptyState } from "../components/EmptyState";
 import { ExamMode } from "../features/exam/ExamMode";
-import {
-  FavoritesPage,
-  type FavoriteEntry,
-  type FavoriteTag,
-} from "../features/favorites/FavoritesPage";
-import { FlashcardMode } from "../features/flashcards/FlashcardMode";
-import {
-  MistakeNotebookPage,
-  type MistakeEntry,
-  type MistakeStatus,
-} from "../features/mistakes/MistakeNotebookPage";
-import {
-  StudyOverviewPage,
-  type CategoryProgressStat,
-  type ExamProgressStat,
-  type StudyOverviewSummary,
+import type { FavoriteEntry, FavoriteTag } from "../features/favorites/FavoritesPage";
+import type { MistakeEntry, MistakeStatus } from "../features/mistakes/MistakeNotebookPage";
+import type {
+  CategoryProgressStat,
+  ExamProgressStat,
+  StudyOverviewSummary,
 } from "../features/progress/StudyOverviewPage";
-import { StickyNotesPage } from "../features/notes/StickyNotesPage";
-import { DiseaseComparePage } from "../features/exam/DiseaseComparePage";
 import {
   HomeDashboardPage,
   type ExamPlan,
@@ -39,10 +27,47 @@ import { loadExamData, loadManifest } from "../lib/loadExamData";
 import { storageKeys } from "../lib/storageKeys";
 import { compactText, isAcceptedAnswer } from "../lib/text";
 import { getDerivedQuestionCategory } from "../lib/categoryFilters";
-import { buildSearchForPage, readPageFromSearch, type AppPage } from "./routes";
+import {
+  buildSearchForExam,
+  buildSearchForPage,
+  readExamRouteTarget,
+  readPageFromSearch,
+  type AppPage,
+} from "./routes";
 import type { AnswerOptionKey, AnswerState, ExamDataset, ExamManifest, Mode } from "../types/exam";
 import type { StickyNoteItem } from "../types/stickyNote";
 import type { AppTheme } from "../components/ThemeToggle";
+
+const FavoritesPage = lazy(() =>
+  import("../features/favorites/FavoritesPage").then((module) => ({
+    default: module.FavoritesPage,
+  })),
+);
+const FlashcardMode = lazy(() =>
+  import("../features/flashcards/FlashcardMode").then((module) => ({
+    default: module.FlashcardMode,
+  })),
+);
+const MistakeNotebookPage = lazy(() =>
+  import("../features/mistakes/MistakeNotebookPage").then((module) => ({
+    default: module.MistakeNotebookPage,
+  })),
+);
+const StudyOverviewPage = lazy(() =>
+  import("../features/progress/StudyOverviewPage").then((module) => ({
+    default: module.StudyOverviewPage,
+  })),
+);
+const StickyNotesPage = lazy(() =>
+  import("../features/notes/StickyNotesPage").then((module) => ({
+    default: module.StickyNotesPage,
+  })),
+);
+const DiseaseComparePage = lazy(() =>
+  import("../features/exam/DiseaseComparePage").then((module) => ({
+    default: module.DiseaseComparePage,
+  })),
+);
 
 type LoadState =
   | { status: "loading" }
@@ -135,7 +160,21 @@ function isRunningAsInstalledApp() {
   );
 }
 
+function PageLoadingFallback() {
+  return (
+    <div className="grid min-h-72 place-items-center rounded-[1.5rem] bg-[#fff8f4]/60 p-8 text-[#725b52] dark:bg-white/5 dark:text-[#dccbd3]">
+      <div className="text-center">
+        <div className="mx-auto h-9 w-9 animate-spin rounded-full border-2 border-[#f6a9c6] border-t-transparent" />
+        <p className="mt-4 text-sm font-semibold tracking-[0.14em] text-[#9c7b70] dark:text-[#cdb7c1]">
+          正在載入頁面...
+        </p>
+      </div>
+    </div>
+  );
+}
+
 export default function App() {
+  const initialExamRouteTarget = readExamRouteTarget(window.location.search);
   const [page, setPage] = useState<AppPage>(() =>
     readPageFromSearch(window.location.search),
   );
@@ -147,7 +186,7 @@ export default function App() {
   const [mode, setMode] = useLocalStorage<Mode>(storageKeys.activeMode, "exam");
   const [activeExamId, setActiveExamId] = useLocalStorage<string>(
     storageKeys.activeExam,
-    "",
+    initialExamRouteTarget?.examId ?? "",
   );
   const [state, setState] = useState<LoadState>({ status: "loading" });
   const [isDatasetLoading, setIsDatasetLoading] = useState(false);
@@ -156,7 +195,15 @@ export default function App() {
     examId: string;
     questionId: string;
     requestKey: number;
-  } | null>(null);
+  } | null>(() =>
+    initialExamRouteTarget?.questionId
+      ? {
+          examId: initialExamRouteTarget.examId,
+          questionId: initialExamRouteTarget.questionId,
+          requestKey: Date.now(),
+        }
+      : null,
+  );
   const [allMistakes, setAllMistakes] = useState<MistakeEntry[]>([]);
   const [performanceStats, setPerformanceStats] = useState<PerformanceStat[]>([]);
   const [examProgressStats, setExamProgressStats] = useState<ExamProgressStat[]>([]);
@@ -329,12 +376,29 @@ export default function App() {
 
   useEffect(() => {
     const handlePopState = () => {
-      setPage(readPageFromSearch(window.location.search));
+      const nextPage = readPageFromSearch(window.location.search);
+      const routeTarget = readExamRouteTarget(window.location.search);
+
+      setPage(nextPage);
+
+      if (!routeTarget) return;
+
+      setMode("exam");
+      setActiveExamId(routeTarget.examId);
+      setPendingQuestion(
+        routeTarget.questionId
+          ? {
+              examId: routeTarget.examId,
+              questionId: routeTarget.questionId,
+              requestKey: Date.now(),
+            }
+          : null,
+      );
     };
 
     window.addEventListener("popstate", handlePopState);
     return () => window.removeEventListener("popstate", handlePopState);
-  }, []);
+  }, [setActiveExamId, setMode]);
 
   useEffect(() => {
     const seo = pageSeo[page];
@@ -703,13 +767,27 @@ export default function App() {
     setMode("exam");
     setActiveExamId(targetExamId);
     setPendingQuestion({ examId: targetExamId, questionId, requestKey: Date.now() });
-    handlePageChange("exam");
+    window.history.pushState(
+      {},
+      "",
+      `${window.location.pathname}${buildSearchForExam(
+        { examId: targetExamId, questionId },
+        window.location.search,
+      )}`,
+    );
+    setPage("exam");
   };
 
   const openExam = (targetExamId: string) => {
     setMode("exam");
     setActiveExamId(targetExamId);
-    handlePageChange("exam");
+    setPendingQuestion(null);
+    window.history.pushState(
+      {},
+      "",
+      `${window.location.pathname}${buildSearchForExam({ examId: targetExamId }, window.location.search)}`,
+    );
+    setPage("exam");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -953,10 +1031,7 @@ export default function App() {
 
     const firstMistake = pendingMistakes[0];
     setMistakePracticeIds(idsByExam);
-    setMode("exam");
-    setActiveExamId(firstMistake.exam.id);
-    handlePageChange("exam");
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    openQuestion(firstMistake.exam.id, firstMistake.question.id);
   };
 
   const handleToggleFavorite = (targetExamId: string, questionId: string) => {
@@ -1104,7 +1179,7 @@ export default function App() {
       canInstallFromSettings={canOpenInstallHelp}
       onInstall={handleInstall}
       onDismissInstallPrompt={handleDismissInstallPrompt}
-      onExamChange={setActiveExamId}
+      onExamChange={openExam}
       onPageChange={handlePageChange}
       onThemeChange={setTheme}
       onReadingBoldChange={setReadingBold}
@@ -1162,146 +1237,149 @@ export default function App() {
           ) : null}
         </AnimatePresence>
 
-        {page === "home" ? (
-          <HomeDashboardPage
-            dailyGoal={dailyGoal}
-            examPlan={examPlan}
-            studyActivity={studyActivity}
-            mistakes={allMistakes}
-            favorites={favorites}
-            stats={performanceStats}
-            activeStage={activeStage}
-            theme={theme}
-            exams={manifest.exams}
-            continueTarget={continueTarget}
-            continueQuestion={continueQuestion}
-            continueExam={continueExam}
-            onDailyGoalChange={setDailyGoal}
-            onExamPlanChange={setExamPlan}
-            onContinuePractice={() => {
-              if (!continueTarget) return;
-              openQuestion(continueTarget.examId, continueTarget.questionId);
-            }}
+        <Suspense fallback={<PageLoadingFallback />}>
+          {page === "home" ? (
+            <HomeDashboardPage
+              dailyGoal={dailyGoal}
+              examPlan={examPlan}
+              studyActivity={studyActivity}
+              mistakes={allMistakes}
+              favorites={favorites}
+              stats={performanceStats}
+              activeStage={activeStage}
+              theme={theme}
+              exams={manifest.exams}
+              continueTarget={continueTarget}
+              continueQuestion={continueQuestion}
+              continueExam={continueExam}
+              onDailyGoalChange={setDailyGoal}
+              onExamPlanChange={setExamPlan}
+              onContinuePractice={() => {
+                if (!continueTarget) return;
+                openQuestion(continueTarget.examId, continueTarget.questionId);
+              }}
             onOpenQuestion={openQuestion}
             onOpenExam={openExam}
+            onStartMistakes={handleStartMistakePractice}
             onGoMistakes={() => handlePageChange("mistakes")}
             onGoFavorites={() => handlePageChange("favorites")}
             onGoProgress={() => handlePageChange("progress")}
-          />
-        ) : page === "progress" ? (
-          <StudyOverviewPage
-            summary={overviewSummary}
-            examStats={examProgressStats}
-            categoryStats={categoryProgressStats}
-            continueTitle={continueTitle}
-            continueDescription={continueDescription}
-            canContinue={Boolean(continueTarget)}
-            onContinuePractice={() => {
-              if (!continueTarget) return;
-              openQuestion(continueTarget.examId, continueTarget.questionId);
-            }}
-            onOpenExam={openExam}
-            onGoMistakes={() => handlePageChange("mistakes")}
-            onGoFavorites={() => handlePageChange("favorites")}
-          />
-        ) : page === "mistakes" ? (
-          <MistakeNotebookPage
-            mistakes={allMistakes}
-            loading={isMistakesLoading}
-            onClearMistakes={handleClearAllMistakes}
-            onRemoveMistake={handleRemoveMistake}
-            onStartPractice={handleStartMistakePractice}
-            onOpenQuestion={openQuestion}
-            onStatusChange={handleMistakeStatusChange}
-          />
-        ) : page === "favorites" ? (
-          <FavoritesPage
-            favorites={favorites}
-            loading={isFavoritesLoading}
-            onClearFavorites={handleClearAllFavorites}
-            onRemoveFavorite={handleRemoveFavorite}
-            onToggleTag={handleToggleFavoriteTag}
-            onOpenQuestion={openQuestion}
-          />
-        ) : page === "notes" ? (
-          <StickyNotesPage
-            notes={stickyNotes}
-            onAddNote={handleAddNote}
-            onRemoveNote={handleRemoveNote}
-            onClearNotes={handleClearNotes}
-            onOpenQuestion={openQuestion}
-          />
-        ) : page === "diseases" ? (
-          <DiseaseComparePage
-            stickyNotes={stickyNotes}
-            onAddNote={handleAddNote}
-            onRemoveNote={handleRemoveNote}
-            theme={theme}
-            favorites={favorites}
-            onToggleFavorite={handleToggleFavorite}
-            onToggleFavoriteTag={handleToggleFavoriteTag}
-          />
-        ) : dataset.questions.length === 0 ? (
-          <EmptyState title="沒有題目" description="目前這份資料沒有可練習的題目。" />
-        ) : (
-          <AnimatePresence mode="wait">
-            {mode === "exam" ? (
-              <motion.div
-                key={`${dataset.id}-exam`}
-                initial={{ opacity: 0, y: 18, filter: "blur(8px)" }}
-                animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
-                exit={{ opacity: 0, y: -12, filter: "blur(8px)" }}
-                transition={{ duration: 0.42, ease: [0.22, 1, 0.36, 1] }}
-              >
-                <ExamMode
-                  dataset={dataset}
-                  answers={answers}
-                  markedQuestions={markedQuestions}
-                  onAnswer={handleAnswerQuestion}
-                  mode={mode}
-                  onModeChange={setMode}
-                  theme={theme}
-                  stickyNotes={stickyNotes}
-                  onAddQuestionNote={handleAddQuestionNote}
-                  onRemoveNote={handleRemoveNote}
-                  focusQuestionId={
-                    pendingQuestion?.examId === dataset.id ? pendingQuestion.questionId : null
-                  }
-                  focusRequestKey={
-                    pendingQuestion?.examId === dataset.id ? pendingQuestion.requestKey : null
-                  }
-                  onFocusComplete={handleQuestionFocusComplete}
-                  reviewMode={
-                    mistakePracticeIds[dataset.id]?.length
-                      ? {
-                          title: "錯題練習",
-                          description: `本次練習 ${mistakePracticeIds[dataset.id].length} 題未掌握錯題。`,
-                          questionIds: mistakePracticeIds[dataset.id],
-                          onExit: () => setMistakePracticeIds({}),
-                        }
-                      : undefined
-                  }
-                />
-              </motion.div>
-            ) : (
-              <motion.div
-                key={`${dataset.id}-flashcards`}
-                initial={{ opacity: 0, y: 18, filter: "blur(8px)" }}
-                animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
-                exit={{ opacity: 0, y: -12, filter: "blur(8px)" }}
-                transition={{ duration: 0.42, ease: [0.22, 1, 0.36, 1] }}
-              >
-                <FlashcardMode
-                  dataset={dataset}
-                  markedFlashcards={markedFlashcards}
-                  mode={mode}
-                  onModeChange={setMode}
-                  theme={theme}
-                />
-              </motion.div>
-            )}
-          </AnimatePresence>
-        )}
+            />
+          ) : page === "progress" ? (
+            <StudyOverviewPage
+              summary={overviewSummary}
+              examStats={examProgressStats}
+              categoryStats={categoryProgressStats}
+              continueTitle={continueTitle}
+              continueDescription={continueDescription}
+              canContinue={Boolean(continueTarget)}
+              onContinuePractice={() => {
+                if (!continueTarget) return;
+                openQuestion(continueTarget.examId, continueTarget.questionId);
+              }}
+              onOpenExam={openExam}
+              onGoMistakes={() => handlePageChange("mistakes")}
+              onGoFavorites={() => handlePageChange("favorites")}
+            />
+          ) : page === "mistakes" ? (
+            <MistakeNotebookPage
+              mistakes={allMistakes}
+              loading={isMistakesLoading}
+              onClearMistakes={handleClearAllMistakes}
+              onRemoveMistake={handleRemoveMistake}
+              onStartPractice={handleStartMistakePractice}
+              onOpenQuestion={openQuestion}
+              onStatusChange={handleMistakeStatusChange}
+            />
+          ) : page === "favorites" ? (
+            <FavoritesPage
+              favorites={favorites}
+              loading={isFavoritesLoading}
+              onClearFavorites={handleClearAllFavorites}
+              onRemoveFavorite={handleRemoveFavorite}
+              onToggleTag={handleToggleFavoriteTag}
+              onOpenQuestion={openQuestion}
+            />
+          ) : page === "notes" ? (
+            <StickyNotesPage
+              notes={stickyNotes}
+              onAddNote={handleAddNote}
+              onRemoveNote={handleRemoveNote}
+              onClearNotes={handleClearNotes}
+              onOpenQuestion={openQuestion}
+            />
+          ) : page === "diseases" ? (
+            <DiseaseComparePage
+              stickyNotes={stickyNotes}
+              onAddNote={handleAddNote}
+              onRemoveNote={handleRemoveNote}
+              theme={theme}
+              favorites={favorites}
+              onToggleFavorite={handleToggleFavorite}
+              onToggleFavoriteTag={handleToggleFavoriteTag}
+            />
+          ) : dataset.questions.length === 0 ? (
+            <EmptyState title="沒有題目" description="目前這份資料沒有可練習的題目。" />
+          ) : (
+            <AnimatePresence mode="wait">
+              {mode === "exam" ? (
+                <motion.div
+                  key={`${dataset.id}-exam`}
+                  initial={{ opacity: 0, y: 18, filter: "blur(8px)" }}
+                  animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+                  exit={{ opacity: 0, y: -12, filter: "blur(8px)" }}
+                  transition={{ duration: 0.42, ease: [0.22, 1, 0.36, 1] }}
+                >
+                  <ExamMode
+                    dataset={dataset}
+                    answers={answers}
+                    markedQuestions={markedQuestions}
+                    onAnswer={handleAnswerQuestion}
+                    mode={mode}
+                    onModeChange={setMode}
+                    theme={theme}
+                    stickyNotes={stickyNotes}
+                    onAddQuestionNote={handleAddQuestionNote}
+                    onRemoveNote={handleRemoveNote}
+                    focusQuestionId={
+                      pendingQuestion?.examId === dataset.id ? pendingQuestion.questionId : null
+                    }
+                    focusRequestKey={
+                      pendingQuestion?.examId === dataset.id ? pendingQuestion.requestKey : null
+                    }
+                    onFocusComplete={handleQuestionFocusComplete}
+                    reviewMode={
+                      mistakePracticeIds[dataset.id]?.length
+                        ? {
+                            title: "錯題練習",
+                            description: `本次練習 ${mistakePracticeIds[dataset.id].length} 題未掌握錯題。`,
+                            questionIds: mistakePracticeIds[dataset.id],
+                            onExit: () => setMistakePracticeIds({}),
+                          }
+                        : undefined
+                    }
+                  />
+                </motion.div>
+              ) : (
+                <motion.div
+                  key={`${dataset.id}-flashcards`}
+                  initial={{ opacity: 0, y: 18, filter: "blur(8px)" }}
+                  animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+                  exit={{ opacity: 0, y: -12, filter: "blur(8px)" }}
+                  transition={{ duration: 0.42, ease: [0.22, 1, 0.36, 1] }}
+                >
+                  <FlashcardMode
+                    dataset={dataset}
+                    markedFlashcards={markedFlashcards}
+                    mode={mode}
+                    onModeChange={setMode}
+                    theme={theme}
+                  />
+                </motion.div>
+              )}
+            </AnimatePresence>
+          )}
+        </Suspense>
       </div>
     </AppShell>
     <AnimatePresence>

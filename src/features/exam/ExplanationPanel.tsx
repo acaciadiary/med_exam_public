@@ -1,4 +1,4 @@
-import { BadgeCheck, Lightbulb, Sparkles } from "lucide-react";
+import { AlertTriangle, BadgeCheck, Lightbulb, Mail, Sparkles } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { randomEncouragement } from "../../lib/encouragements";
 import { loadDiseaseComparisons } from "../../lib/loadExamData";
@@ -65,6 +65,62 @@ function formatExplanationText(value: string) {
     .trim();
 }
 
+const LOW_QUALITY_PATTERNS = [
+  "非本題答案",
+  "不是本題標準答案",
+  "回到題幹線索",
+  "請用題幹線索連回",
+  "不能最精準回答本題",
+  "最符合題幹",
+  "核心記憶點",
+  "定義、機轉、典型表現或處置原則",
+  /題目中選項\s*[A-D]\s*所代表的鑑別或處置/,
+];
+
+function hasLowQualityTemplate(explanation: string) {
+  return LOW_QUALITY_PATTERNS.some((pattern) =>
+    typeof pattern === "string" ? explanation.includes(pattern) : pattern.test(explanation),
+  );
+}
+
+function hasIncompleteOptionDetails(explanation: string) {
+  if (!explanation.trim()) return true;
+
+  return (["A", "B", "C", "D"] as const).some((option) => {
+    const optionPattern = new RegExp(`(?:^|\\n)\\s*(?:[-•]\\s*)?${option}[.．、]`, "i");
+    return !optionPattern.test(explanation);
+  });
+}
+
+function inferExamId(question: ExamQuestion) {
+  return question.id.match(/^(.+)_\d{3}$/)?.[1] || "未知考卷";
+}
+
+function getCurrentPageUrl() {
+  if (typeof window === "undefined") return "未知頁面";
+
+  return window.location.href;
+}
+
+function buildReportHref(question: ExamQuestion) {
+  const examId = inferExamId(question);
+  const subject = `回報醫考題目：${examId} 第 ${question.question_number} 題`;
+  const body = [
+    "我想回報這一題：",
+    "",
+    `考卷 id：${examId}`,
+    `題目 id：${question.id}`,
+    `題號：${question.question_number}`,
+    `目前頁面：${getCurrentPageUrl()}`,
+    "",
+    "回報類型：答案疑義 / 詳解錯誤 / 排版問題 / 其他",
+    "",
+    "問題描述：",
+  ].join("\n");
+
+  return `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
 export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
   const [comparisons, setComparisons] = useState<DiseaseComparisonGroup[]>([]);
 
@@ -122,12 +178,33 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
     "閃卡摘要尚未建立：之後會整理成「關鍵字 -> 選什麼」的一句話。";
   const status = question.review_status || (question.explanation ? "ai_generated" : "empty");
   const encouragement = useMemo(() => randomEncouragement(), [question.id]);
-  const statusText =
+  const needsOptimization =
+    hasLowQualityTemplate(explanation) || hasIncompleteOptionDetails(explanation);
+  const statusMeta =
     status === "reviewed"
-      ? "已人工複查"
+      ? {
+          icon: <BadgeCheck size={14} />,
+          text: "已審核",
+          title: "內容已人工審核",
+          className:
+            "border-[#d8eadf] bg-white/70 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#223d35] dark:text-[#b8efd9]",
+        }
       : status === "ai_generated"
-        ? encouragement
-        : "待補詳解";
+        ? {
+            icon: <Sparkles size={14} />,
+            text: "AI 初稿，建議複核",
+            title: encouragement,
+            className:
+              "border-[#d8eadf] bg-white/70 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#223d35] dark:text-[#b8efd9]",
+          }
+        : {
+            icon: <AlertTriangle size={14} />,
+            text: "待補詳解",
+            title: "這題尚未匯入詳解",
+            className:
+              "border-[#f2d7a9] bg-[#fff8df] text-[#87693d] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]",
+          };
+  const reportHref = buildReportHref(question);
 
   return (
     <>
@@ -137,10 +214,33 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
             <Lightbulb size={17} />
             詳解與考點提示
           </div>
-          <span className="inline-flex items-center gap-1.5 rounded-full border border-[#d8eadf] bg-white/70 px-3 py-1 text-xs font-semibold text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#223d35] dark:text-[#b8efd9]">
-            {status === "reviewed" ? <BadgeCheck size={14} /> : <Sparkles size={14} />}
-            {statusText}
-          </span>
+          <div className="flex flex-wrap items-center gap-2">
+            <span
+              className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-semibold ${statusMeta.className}`}
+              title={statusMeta.title}
+            >
+              {statusMeta.icon}
+              {statusMeta.text}
+            </span>
+            {needsOptimization && (
+              <span
+                className="inline-flex items-center gap-1.5 rounded-full border border-[#f2d7a9] bg-[#fff8df] px-3 py-1 text-xs font-semibold text-[#87693d] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]"
+                title="此題詳解可能含模板句或選項詳解不完整"
+              >
+                <AlertTriangle size={14} />
+                待優化
+              </span>
+            )}
+            <a
+              href={reportHref}
+              className="inline-flex items-center gap-1.5 rounded-full border border-[#efd9d0] bg-white/70 px-3 py-1 text-xs font-semibold text-[#6f5b50] transition hover:border-[#f1aac8] hover:bg-[#fff0f6] hover:text-[#9a496b] dark:border-white/10 dark:bg-[#2b2430]/72 dark:text-[#dccbd3] dark:hover:bg-[#472431]"
+              aria-label={`回報第 ${question.question_number} 題`}
+              title="回報答案疑義、詳解錯誤或排版問題"
+            >
+              <Mail size={14} />
+              回報此題
+            </a>
+          </div>
         </div>
         <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#d8eadf] bg-white/64 px-4 py-3 text-sm font-semibold leading-6 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#11241f] dark:text-[#b8efd9]">
           {keyPoint}
