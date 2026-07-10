@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題在比較甲狀腺荷爾蒙的生物活性，而不是分泌量。T3 與甲狀腺受體親和力最高，是主要活性型；T4 多作為周邊轉換成 T3 的前驅物；reverse T3 是幾乎無活性的代謝產物，因此順序為 T3 > T4 > rT3。\n\n【選項詳解】\n- A. 正確。三碘甲狀腺素（T3）是生物活性最高的甲狀腺荷爾蒙；甲狀腺素（T4）分泌量較多、半衰期較長，但多需經周邊 5'-deiodinase 轉成 T3 才發揮較強作用；逆三碘甲狀腺素（rT3）由 T4 內環脫碘形成，受體活性很低。\n- B. 錯誤。T4 雖是甲狀腺分泌的主要型態，但活性低於 T3；把 T4 排在 T3 前面混淆了「分泌量」與「生物活性」。\n- C. 錯誤。T3 排第一正確，但 rT3 不是比 T4 更活躍的荷爾蒙；rT3 是失活方向的代謝產物，不能排在 T4 前面。\n- D. 錯誤。rT3 不能有效活化甲狀腺荷爾蒙受體，生物活性最低；把 rT3 排第一與其生理角色相反。\n\n【核心考點】\n甲狀腺荷爾蒙要分清「分泌量」與「活性」：T4 分泌量最多，但 T3 活性最強；T4 可轉為 T3 或 rT3，rT3 代表失活代謝方向。",
+      "key_point": "甲狀腺荷爾蒙生物活性排序為 T3 > T4 > rT3；T4 分泌量多但活性低於 T3，rT3 近乎無活性。",
+      "flashcard_front": "甲狀腺荷爾蒙活性 / T3 / T4 / rT3 / 周邊脫碘",
+      "flashcard_back": "生物活性：T3 最強，T4 次之，rT3 近乎無活性；不要把 T4 的高分泌量誤認為最高活性。",
+      "flashcard_summary": "甲狀腺荷爾蒙活性排序 -> T3 > T4 > reverse T3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題是「最不可能」題，重點是胰島素不足造成的代謝變化。胰島素缺乏會促進脂肪分解、酮體生成、高血糖與滲透壓性利尿，典型酸鹼問題是酮酸造成的代謝性酸中毒，呼吸系統則以過度換氣代償，所以呼吸性酸中毒最不符合。\n\n【選項詳解】\n- A. 錯誤，這是胰島素不足常見結果。胰島素不足使 hormone-sensitive lipase 受抑制減少，脂肪分解增加，游離脂肪酸進入肝臟後轉為酮體，血中 ketone bodies 上升。\n- B. 錯誤，這也是胰島素不足可造成的結果。血糖升高超過腎小管再吸收能力時，尿糖增加，腎小管內滲透壓上升，水分被帶出而形成 osmotic diuresis，造成多尿與脫水。\n- C. 正確。胰島素不足造成的是酮酸堆積引起的代謝性酸中毒；病人常以 Kussmaul 呼吸增加 CO2 排出作為代償。呼吸性酸中毒的核心是通氣不足與 CO2 滯留，並非胰島素不足的典型直接結果。\n- D. 錯誤，血中游離脂肪酸上升正是胰島素不足的典型現象。因為脂肪組織脂解增加，三酸甘油酯分解為 glycerol 與 free fatty acids，後者進一步成為肝臟生酮原料。\n\n【核心考點】\n胰島素不足會使血糖、游離脂肪酸與酮體上升，並導致代謝性酸中毒；呼吸表現通常是代償性深快呼吸，不是原發性呼吸性酸中毒。",
+      "key_point": "胰島素不足造成高血糖、脂解增加、酮體增加與代謝性酸中毒；呼吸性酸中毒不是典型結果。",
+      "flashcard_front": "胰島素不足 / DKA / 酮體 / 滲透壓性利尿 / 酸鹼判讀",
+      "flashcard_back": "胰島素不足會造成酮酸引起的代謝性酸中毒，並以深快呼吸降低 CO2；呼吸性酸中毒代表通氣不足與 CO2 滯留。",
+      "flashcard_summary": "胰島素不足最不可能造成 -> 呼吸性酸中毒",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n「兩種細胞-兩種性促素學說」描述卵巢濾泡中 theca cell 與 granulosa cell 如何在 LH、FSH 協同下合成雌二醇。LH 促使 theca cell 製造 androgen，FSH 促使 granulosa cell 以 aromatase 將 androgen 轉為 17β-estradiol。\n\n【選項詳解】\n- A. 錯誤。睪丸睪固酮主要由 Leydig cell 受 LH 刺激生成；Sertoli cell 受 FSH 支持精子生成與分泌 androgen-binding protein，但這不是經典 two-cell, two-gonadotropin theory 所指的卵巢雌二醇合成模式。\n- B. 錯誤。黃體素主要與黃體細胞 steroidogenesis 有關，並不是此學說用來說明的終產物；題幹的學說重點也不是睪丸生成 progesterone。\n- C. 正確。卵巢 theca cell 受 LH 作用產生 androstenedione 等雄性素，這些前驅物進入 granulosa cell 後，在 FSH 誘導的 aromatase 作用下轉為 17β-estradiol，正是此學說的核心。\n- D. 錯誤。Androstenedione 是 theca cell 產生、供 granulosa cell 芳香化的中間前驅物；此學說的完整生理意義是製造雌二醇，而不是以 androstenedione 作為最終答案。\n\n【核心考點】\n記住「LH-theca-androgen」與「FSH-granulosa-aromatase-estradiol」的配對。卵巢雌二醇生成需要兩種細胞分工與兩種性促素協同。",
+      "key_point": "Two-cell, two-gonadotropin theory：LH 作用於 theca cell 產生 androgen，FSH 作用於 granulosa cell aromatase 生成 estradiol。",
+      "flashcard_front": "Two-cell two-gonadotropin / theca / granulosa / LH / FSH / estradiol",
+      "flashcard_back": "LH 刺激 theca cell 產生 androgen；FSH 刺激 granulosa cell aromatase，把 androgen 轉成 17β-estradiol。",
+      "flashcard_summary": "兩種細胞-兩種性促素學說 -> 卵巢生成雌二醇",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\nGel filtration chromatography 又稱 size-exclusion chromatography，利用多孔性膠體顆粒把不同大小的蛋白質分開。大分子不易進入孔洞、走較短路徑而較早洗脫；小分子可進入孔洞、路徑較長而較晚洗脫。\n\n【選項詳解】\n- A. 錯誤。依電荷差異分離蛋白質的是 ion-exchange chromatography；帶正或帶負的蛋白質會依與帶電樹脂的作用力不同而分離。\n- B. 正確。膠體過濾層析的分離依據是分子大小與水合半徑；分子越大越排除於膠體孔洞外，越早流出，分子越小越能進入孔洞，洗脫時間越晚。\n- C. 錯誤。質荷比是 mass spectrometry 或電泳相關分析常用的概念，不是 gel filtration 管柱分離蛋白質的主要依據。\n- D. 錯誤。蛋白質穩定性可影響變性、沉澱或保存條件，但膠體過濾層析的柱內分離不是依熱穩定或化學穩定程度排序。\n\n【核心考點】\nSize-exclusion chromatography 依分子大小分離：大分子先洗脫，小分子後洗脫。若題目問電荷、親和力或疏水性，則分別要想到 ion exchange、affinity 或 hydrophobic interaction chromatography。",
+      "key_point": "膠體過濾層析依分子大小分離蛋白質；大分子不入孔先洗脫，小分子入孔後洗脫。",
+      "flashcard_front": "Gel filtration / size-exclusion chromatography / protein purification / elution order",
+      "flashcard_back": "Gel filtration 依分子大小分離：大分子走孔洞外、路徑短、先洗脫；小分子進入孔洞、路徑長、後洗脫。",
+      "flashcard_summary": "膠體過濾層析分離依據 -> 分子大小",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題比較蛋白質二級結構的基本性質。α helix 的穩定主要來自主鏈內氫鍵，通常為右手螺旋且 N 端帶部分正電；β sheet 則由相鄰多肽片段間氫鍵穩定，方向可平行或反平行。\n\n【選項詳解】\n- A. 錯誤。α 螺旋中 peptide bond 的偶極沿螺旋軸累加，N 端因 N-H 偶極排列呈部分正電性，C 端呈部分負電性；選項把 N 端電性寫反。\n- B. 錯誤。天然蛋白質多由 L-amino acids 組成，最常形成右手性 α 螺旋；左手性 α 螺旋因立體限制較不穩定且少見。\n- C. 錯誤。氫鍵同時穩定 α helix 與 β sheet；α helix 是同一條肽鏈內 i 到 i+4 殘基之間形成氫鍵，β sheet 則是相鄰肽鏈或肽鏈片段之間形成氫鍵。\n- D. 正確。β 摺板中相鄰多肽鏈可同向排列形成 parallel β sheet，也可反向排列形成 antiparallel β sheet；反平行排列的氫鍵通常較線性，穩定性較高。\n\n【核心考點】\nα helix：多為右手性、N 端部分正電、靠鏈內氫鍵穩定。β sheet：靠鏈間或片段間氫鍵穩定，可平行或反平行排列。",
+      "key_point": "β sheet 可平行或反平行；α helix 多為右手性，N 端部分正電，α helix 與 β sheet 都靠氫鍵穩定。",
+      "flashcard_front": "α helix / β sheet / hydrogen bond / dipole / parallel antiparallel",
+      "flashcard_back": "α helix 多為右手性、N 端部分正電、靠鏈內氫鍵；β sheet 靠相鄰片段間氫鍵，方向可平行或反平行。",
+      "flashcard_summary": "蛋白質二級結構正確敘述 -> β sheet 可平行或反平行",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n題目給 Km = 10 mM、kcat = 1000 s^-1，且 [S] = 0.01 mM，明顯遠小於 Km。低受質濃度下 Michaelis-Menten 式可近似為 v ≈ (kcat/Km)[E][S]，因此題目要的是催化效率 kcat/Km：1000 s^-1 / 10 mM = 100 mM^-1 s^-1。\n\n【選項詳解】\n- A. 錯誤。1000 s^-1 是 kcat 本身，代表酵素飽和時每個酵素分子每秒可轉換受質的次數；在 [S] 遠低於 Km 時，反應速率常數不是直接等於 kcat。\n- B. 錯誤。10,000 mM s^-1 的數值與單位都不符合 kcat/Km；二級速率常數應帶有濃度倒數與時間倒數，例如 mM^-1 s^-1。\n- C. 錯誤。10 mM s^-1 像是速率單位而不是速率常數單位，也不是 1000/10 的計算結果。\n- D. 正確。因為 [S] << Km，v = kcat[E][S]/(Km + [S]) 可簡化為 v ≈ (kcat/Km)[E][S]；kcat/Km = 1000/10 = 100 mM^-1 s^-1，符合低受質濃度下的表觀二級速率常數。\n\n【核心考點】\n當 [S] << Km 時，酵素反應速率與 [S] 成正比，比例常數是 kcat/Km，也稱 catalytic efficiency；計算時要同時檢查數值與單位。",
+      "key_point": "低受質濃度 [S] << Km 時，表觀速率常數為 kcat/Km；本題為 1000/10 = 100 mM^-1 s^-1。",
+      "flashcard_front": "Michaelis-Menten / Km / kcat / low substrate / kcat over Km",
+      "flashcard_back": "[S] << Km 時，v ≈ (kcat/Km)[E][S]；kcat/Km 是催化效率，本題等於 100 mM^-1 s^-1。",
+      "flashcard_summary": "低受質濃度下酵素速率常數 -> kcat/Km = 100 mM^-1 s^-1",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題問的是生物體內直接提供甲基的活化型甲基供體。Methionine 需要先與 ATP 形成 S-adenosyl-L-methionine（SAM），SAM 才能在甲基轉移反應中把甲基轉給乙醇胺類或磷脂乙醇胺類分子，形成膽鹼類產物。\n\n【選項詳解】\n- A. 錯誤。Methionine 是 SAM 的前驅物，本身不是多數 methyltransferase 反應的直接甲基供體；必須先由 methionine adenosyltransferase 活化成 SAM。\n- B. 錯誤。Serine 可透過 serine hydroxymethyltransferase 將一碳單位交給 tetrahydrofolate，參與一碳代謝，但不是此甲基化反應中直接把甲基轉出去的分子。\n- C. 錯誤。Folic acid 的活性形式 THF 可攜帶一碳單位，並與 B12、methionine cycle 相關；但實際執行乙醇胺類甲基化時，直接供甲基者是 SAM。\n- D. 正確。S-adenosyl-L-methionine（SAM）是體內主要活性甲基供體；在相關 methyltransferase 反應中，SAM 提供甲基後轉為 S-adenosylhomocysteine（SAH），可使乙醇胺類逐步甲基化為膽鹼類。\n\n【核心考點】\n看到「提供甲基」要先想到 SAM。Methionine 是前驅物，THF/B12 幫助一碳單位與 methionine cycle，但直接甲基供體通常是 S-adenosyl-L-methionine。",
+      "key_point": "SAM 是體內主要直接甲基供體；methionine 需先活化成 SAM，THF 與 B12 主要支援一碳代謝與再甲基化循環。",
+      "flashcard_front": "SAM / methyl donor / methionine cycle / phosphoethanolamine phosphocholine",
+      "flashcard_back": "直接供甲基的是 S-adenosyl-L-methionine（SAM）；methionine 是 SAM 前驅物，THF/B12 支援一碳代謝但不是此處直接供體。",
+      "flashcard_summary": "乙醇胺類甲基化形成膽鹼類的甲基供體 -> SAM",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題是「除外」題，要找不屬於氮代謝常用輔酶者。氮代謝包含胺基酸轉胺、一碳單位轉移、同型半胱胺酸與核苷酸代謝；PLP、THF、B12 都常參與這些反應。Coenzyme Q 主要是粒線體電子傳遞鏈的脂溶性電子載體。\n\n【選項詳解】\n- A. 錯誤，PLP 參與氮代謝。磷酸吡哆醛是 aminotransferase 的關鍵輔酶，負責胺基酸轉胺反應，也參與部分胺基酸脫羧與代謝反應。\n- B. 正確。Coenzyme Q（ubiquinone）位於粒線體內膜，在電子傳遞鏈中把電子由 complex I/II 傳到 complex III；它的主要功能是氧化磷酸化，不是胺基酸或核苷酸氮代謝的典型輔酶。\n- C. 錯誤，THF 參與氮代謝相關的一碳轉移。四氫葉酸攜帶一碳單位，參與 purine 合成、dTMP 合成與部分胺基酸代謝。\n- D. 錯誤，B12 coenzyme 參與氮代謝網絡。Cobalamin 是 methionine synthase 的輔酶，協助 homocysteine 轉成 methionine，並與 THF 一碳代謝相連。\n\n【核心考點】\n氮代謝常見輔酶包括 PLP（轉胺）、THF（一碳單位）、B12（methionine cycle）。Coenzyme Q 是呼吸鏈電子載體，看到它要聯想到 oxidative phosphorylation。",
+      "key_point": "PLP、THF、B12 參與胺基酸或核苷酸氮代謝；Coenzyme Q 是電子傳遞鏈載體，為本題除外。",
+      "flashcard_front": "Nitrogen metabolism / PLP / THF / B12 / coenzyme Q",
+      "flashcard_back": "氮代謝常用 PLP、THF、B12；Coenzyme Q 是粒線體電子傳遞鏈的電子載體，不是氮代謝輔酶。",
+      "flashcard_summary": "氮代謝輔酶除外 -> Coenzyme Q",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題比較 thymine 與 uracil 的鹼基結構差異。Thymine 可視為 5-methyluracil，也就是 uracil 的嘧啶環第 5 位多了一個 methyl group（-CH3）。糖類如 ribose 或 deoxyribose 屬於核苷的一部分，不是鹼基本身的官能基差異。\n\n【選項詳解】\n- A. 錯誤。Deoxyribose 是 DNA 核苷酸中的五碳糖，連接在含氮鹼基上；題目問的是 thymine 相對於 uracil 多出的官能基，不是 DNA 與 RNA 糖骨架差異。\n- B. 正確。Thymine 的化學本質是 5-methyluracil，與 uracil 相比在嘧啶環第 5 碳多一個甲基（-CH3），這也是 DNA 使用 thymine 與 RNA 使用 uracil 的重要結構差異。\n- C. 錯誤。胺基（-NH2）常見於 cytosine、adenine 等鹼基結構；thymine 與 uracil 的差異不是胺基，而是 methyl group。\n- D. 錯誤。Ribose 是 RNA 核苷酸中的五碳糖，不是 uracil 或 thymine 鹼基上的官能基；即使 uracil 常見於 RNA，也不能把 ribose 當作 uracil 的官能基。\n\n【核心考點】\nThymine = 5-methyluracil；相較於 uracil，唯一高頻考點是第 5 位多一個 -CH3。糖類差異屬於核苷酸骨架，不是鹼基官能基。",
+      "key_point": "Thymine 是 5-methyluracil，比 uracil 多一個第 5 位甲基；ribose/deoxyribose 是糖，不是鹼基官能基。",
+      "flashcard_front": "Thymine / uracil / 5-methyluracil / methyl group",
+      "flashcard_back": "胸腺嘧啶（thymine）就是 5-methyluracil，比尿嘧啶（uracil）多一個 -CH3。",
+      "flashcard_summary": "Thymine 有而 uracil 沒有的官能基 -> methyl group",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題問 de novo synthesis 與 salvage pathway 的共同代謝物。兩條核苷酸合成路徑都需要活化的核糖骨架來接上含氮鹼基或逐步建構核苷酸，這個共同核心分子是 5-phosphoribosyl-1-pyrophosphate（PRPP）。\n\n【選項詳解】\n- A. 錯誤。Glycinamide ribonucleotide（GAR）是嘌呤 de novo synthesis 中由 PRA 加上 glycine 後形成的中間產物；salvage pathway 是把游離鹼基接到 PRPP 上，不會經過 GAR。\n- B. 錯誤。5-phosphoribosylamine（PRA）是 PRPP 在 amidophosphoribosyltransferase 作用下接受 glutamine 的胺基後形成的嘌呤 de novo 早期中間物；它不是補救合成路徑的共同受質。\n- C. 錯誤。Formylglycinamide ribonucleotide（FGAR）是 GAR 接受 formyl group 後的嘌呤 de novo 中間產物，只屬於逐步建構嘌呤環的路徑。\n- D. 正確。PRPP 提供活化的 ribose-phosphate；在 de novo pathway 中，它是建構核苷酸的起始骨架，在 salvage pathway 中，APRT 或 HGPRT 等酵素用 PRPP 把 adenine、hypoxanthine、guanine 等游離鹼基轉成 AMP、IMP、GMP。\n\n【核心考點】\nPRPP 是核苷酸合成的共同活化核糖供體。PRA、GAR、FGAR 是嘌呤 de novo pathway 的中間物；salvage pathway 的關鍵是游離鹼基 + PRPP。",
+      "key_point": "PRPP 是 de novo 與 salvage 核苷酸合成都會使用的活化核糖供體；PRA、GAR、FGAR 是 de novo 中間物。",
+      "flashcard_front": "Nucleotide synthesis / de novo / salvage pathway / PRPP / HGPRT APRT",
+      "flashcard_back": "De novo 與 salvage 都用 PRPP；salvage 是游離鹼基加上 PRPP，PRA、GAR、FGAR 只屬於嘌呤 de novo 中間物。",
+      "flashcard_summary": "De novo 與 salvage 共同代謝物 -> PRPP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:56+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

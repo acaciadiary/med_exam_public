@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問「結構與神經支配」哪一組配對錯誤。腰大肌（psoas major）雖然和髂肌共同形成髂腰肌並一起經過股三角附近，但腰大肌的運動支配主要來自 L1-L3 腰神經前支的直接分支，不是股神經；髂肌才是典型由股神經支配。\n\n【選項詳解】\n- A. 正確。橫膈的主要運動支配來自膈神經（phrenic nerve, C3-C5），這也是頸髓 C3-C5 損傷會影響呼吸的重要原因。\n- B. 錯誤。腰大肌位於後腹壁，支配神經為 L1-L3（有時包含 L4）腰神經前支的直接肌支；股神經雖由腰神經叢形成並支配髂肌、股四頭肌等，但不是腰大肌的直接支配神經。\n- C. 正確。腹外斜肌屬於前外側腹壁肌，主要由下位胸神經前支（T7-T11）與肋下神經等支配，題目列出的 T7-T11 是典型考點。\n- D. 正確。髂肌位於髂窩，和腰大肌共同形成髂腰肌；髂肌的運動支配來自股神經（femoral nerve, L2-L4）。\n\n【核心考點】\n髂腰肌雖常被一起記憶，但神經支配要分開：腰大肌由 L1-L3 腰神經前支直接支配，髂肌由股神經支配。腹外斜肌記下位胸神經，橫膈記 C3-C5 膈神經。",
+      "key_point": "腰大肌由 L1-L3 腰神經前支直接支配；髂肌才由股神經支配。",
+      "flashcard_front": "腰大肌、髂肌、腹外斜肌、橫膈的神經支配",
+      "flashcard_back": "腰大肌：L1-L3 腰神經前支直接肌支；髂肌：股神經；腹外斜肌：T7-T11 下位胸神經；橫膈：膈神經 C3-C5。",
+      "flashcard_summary": "後腹壁與腹壁神經支配 -> 腰大肌不是股神經，髂肌才是股神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題考女性外陰（vulva）的腺體、勃起組織與同源構造。前庭球（bulb of vestibule）位於陰道口兩側，屬於勃起組織，與男性尿道海綿體同源，因此 D 的敘述正確。\n\n【選項詳解】\n- A. 錯誤。尿道旁腺（paraurethral glands）又稱 Skene glands，導管開口於尿道口附近，常被視為男性前列腺的同源構造；巴多林氏腺（Bartholin glands）是大前庭腺，不是尿道旁腺。\n- B. 錯誤。大前庭腺（greater vestibular gland, Bartholin gland）位於前庭球後方或後外側，導管開口於陰道前庭後部，不是在前庭球前方。\n- C. 錯誤。女性陰蒂也有懸韌帶（suspensory ligament of clitoris），可將陰蒂體固定於恥骨聯合附近；不能用男性有、女性無來區分。\n- D. 正確。前庭球是一對勃起組織，位於陰道口兩側並受球海綿體肌覆蓋，功能與男性尿道海綿體的同源關係是常考重點。\n\n【核心考點】\n女性外陰腺體要分清：Skene glands 是尿道旁腺，Bartholin glands 是大前庭腺。前庭球由勃起組織構成；陰蒂如同陰莖，也有懸韌帶支持。",
+      "key_point": "前庭球是勃起組織；尿道旁腺是 Skene glands，大前庭腺才是 Bartholin glands。",
+      "flashcard_front": "女性外陰：前庭球、Skene glands、Bartholin glands、陰蒂懸韌帶",
+      "flashcard_back": "前庭球為勃起組織；Skene glands 開口於尿道口附近；Bartholin glands 位於前庭球後方；陰蒂有懸韌帶。",
+      "flashcard_summary": "女性外陰解剖 -> 前庭球是勃起組織，Bartholin glands 不是尿道旁腺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題要區分「骨盆腔」與盆膈下方的會陰區。下直腸動脈（inferior rectal artery）是陰部內動脈在會陰部發出的分支，穿行於坐骨肛門窩，供應肛管下部與外肛門括約肌，因此不屬於進入骨盆腔的結構。\n\n【選項詳解】\n- A. 錯誤。輸尿管自腹部下行後跨過骨盆邊緣進入骨盆腔，女性還會在子宮動脈下方通過，是骨盆解剖與婦科手術的重要關係。\n- B. 錯誤。薦正中動脈源自腹主動脈分叉附近，沿薦骨前面向下走行，位於骨盆腔後壁相關區域。\n- C. 正確。下直腸動脈源於陰部內動脈，經由陰部管附近進入坐骨肛門窩，主要位於盆膈下方的會陰區，不是進入骨盆腔的血管。\n- D. 錯誤。卵巢動脈源自腹主動脈，沿骨盆漏斗韌帶進入骨盆，供應卵巢與輸卵管，臨床上需與輸尿管、子宮動脈關係一起掌握。\n\n【核心考點】\n骨盆腔與會陰區的分界以盆膈為重要概念：輸尿管、薦正中動脈、卵巢動脈可進入骨盆腔；下直腸動脈走在坐骨肛門窩，屬盆膈下方的會陰供血。",
+      "key_point": "下直腸動脈是陰部內動脈的會陰分支，行於坐骨肛門窩，不進入骨盆腔。",
+      "flashcard_front": "哪些結構進入骨盆腔？下直腸動脈的位置",
+      "flashcard_back": "輸尿管、薦正中動脈、卵巢動脈會進入骨盆腔；下直腸動脈來自陰部內動脈，位於盆膈下方的坐骨肛門窩。",
+      "flashcard_summary": "骨盆腔 vs 會陰區 -> 下直腸動脈在坐骨肛門窩，不進入骨盆腔。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題問哪一條不是髂內動脈（internal iliac artery）分支。深髂迴旋動脈（deep circumflex iliac artery）來自髂外動脈，常與腹壁下動脈一起被記為髂外動脈在腹股溝韌帶上方的重要分支，因此 A 是例外。\n\n【選項詳解】\n- A. 正確。深髂迴旋動脈起自髂外動脈，沿髂嵴方向走行，供應前外側腹壁與髂區；它不屬於髂內動脈系統。\n- B. 錯誤。髂腰動脈（iliolumbar artery）是髂內動脈後幹分支，向上供應腰大肌、髂肌、腰方肌及髂骨附近組織。\n- C. 錯誤。臀上動脈（superior gluteal artery）是髂內動脈後幹的重要分支，經梨狀肌上方出骨盆，供應臀中肌、臀小肌等。\n- D. 錯誤。臀下動脈（inferior gluteal artery）多來自髂內動脈前幹，經梨狀肌下方出骨盆，供應臀大肌與深層臀部區域。\n\n【核心考點】\n髂外動脈進入股部前的代表分支是腹壁下動脈與深髂迴旋動脈。髂腰動脈、臀上動脈、臀下動脈則歸在髂內動脈供應骨盆壁與臀區的分支。",
+      "key_point": "深髂迴旋動脈來自髂外動脈；髂腰、臀上、臀下動脈屬髂內動脈分支。",
+      "flashcard_front": "髂內動脈分支與髂外動脈分支鑑別",
+      "flashcard_back": "髂外動脈分支：腹壁下動脈、深髂迴旋動脈。髂內動脈分支：髂腰、臀上、臀下、閉孔、陰部內等。",
+      "flashcard_summary": "骨盆血管 -> 深髂迴旋動脈屬髂外動脈，不是髂內動脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n題目問影響肛管管壁肌肉收縮最大的神經，重點是直腸、肛管平滑肌與排便反射的副交感控制。骨盆內臟神經（pelvic splanchnic nerves, S2-S4）提供盆腔副交感纖維，可促進直腸壁收縮並參與內肛門括約肌舒張，受損會明顯干擾排便反射與肛管自主神經功能。\n\n【選項詳解】\n- A. 錯誤。腰內臟神經主要攜帶交感節前纖維到下腹神經叢，交感作用較偏向血管收縮、抑制腸蠕動與維持內括約肌張力；對直腸收縮與排便反射的促進作用不如骨盆副交感纖維。\n- B. 正確。骨盆內臟神經來自 S2-S4，是盆腔臟器副交感來源，支配遠端大腸、直腸與肛管相關平滑肌功能，對直腸收縮及排便反射很重要。\n- C. 錯誤。薦交感神經幹屬交感系統，參與盆腔交感纖維分布，但不是啟動直腸收縮與排便反射的主要路徑。\n- D. 錯誤。會陰神經是陰部神經分支，主要支配尿生殖三角的會陰肌群與相關皮膚感覺；外肛門括約肌主要由陰部神經的下直腸神經支配，不是會陰神經。\n\n【核心考點】\n排便反射與直腸、肛管平滑肌收縮要記 S2-S4 骨盆內臟神經。外肛門括約肌是骨骼肌，體神經支配來自陰部神經的下直腸分支。",
+      "key_point": "骨盆內臟神經 S2-S4 是直腸與肛管自主神經調控、排便反射的重要副交感來源。",
+      "flashcard_front": "肛管收縮、排便反射、骨盆內臟神經與陰部神經",
+      "flashcard_back": "直腸與肛管平滑肌、排便反射：骨盆內臟神經 S2-S4；外肛門括約肌：陰部神經的下直腸神經。",
+      "flashcard_summary": "肛管神經支配 -> 排便反射靠骨盆內臟神經；外括約肌靠下直腸神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題問大隱靜脈（great saphenous vein）的錯誤敘述。大隱靜脈起自足背靜脈弓內側端，經過內踝前方再沿小腿與大腿內側上行，最後在腹股溝附近匯入股靜脈；說它走在內踝後側是錯的。\n\n【選項詳解】\n- A. 正確。大隱靜脈通常起源於足背靜脈弓的內側端，從足背內側向上延伸。\n- B. 錯誤。大隱靜脈行經內踝前方；內踝後方的跗管區域則有脛後肌腱、屈趾長肌腱、脛後動靜脈、脛神經與屈拇長肌腱等結構。\n- C. 正確。大隱靜脈與小隱靜脈之間可透過淺靜脈網與交通支形成吻合，這也是下肢淺靜脈回流與靜脈曲張評估常見的解剖背景。\n- D. 正確。大隱靜脈在大腿近端穿過隱靜脈裂孔（saphenous opening），於股三角附近匯入股靜脈。\n\n【核心考點】\n大隱靜脈的路徑要記「足背靜脈弓內側端、內踝前方、大腿內側、匯入股靜脈」。內踝後方是跗管內容物，不是大隱靜脈的主要走行位置。",
+      "key_point": "大隱靜脈經內踝前方上行，最後匯入股靜脈；內踝後方屬跗管內容物區域。",
+      "flashcard_front": "大隱靜脈走行：足背靜脈弓、內踝、股靜脈",
+      "flashcard_back": "大隱靜脈起自足背靜脈弓內側端，經內踝前方沿下肢內側上行，穿隱靜脈裂孔匯入股靜脈。",
+      "flashcard_summary": "下肢淺靜脈 -> 大隱靜脈走內踝前方，不走內踝後方。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問哪條神經支配的肌群同時能屈曲上臂與前臂。肌皮神經（musculocutaneous nerve, C5-C7）支配上臂前群：喙肱肌、肱二頭肌與肱肌；其中喙肱肌與肱二頭肌可屈曲上臂，肱二頭肌與肱肌可屈曲前臂。\n\n【選項詳解】\n- A. 錯誤。腋神經支配三角肌與小圓肌，主要功能是肩外展與肩外旋；它不支配肘關節屈肌，因此不能同時負責前臂屈曲。\n- B. 錯誤。胸背神經支配背闊肌，背闊肌使上臂伸展、內收與內旋，與前臂屈曲無關。\n- C. 正確。肌皮神經支配喙肱肌、肱二頭肌、肱肌；這組肌肉可在肩關節屈曲上臂，也可在肘關節屈曲前臂，肱二頭肌另有前臂旋後功能。\n- D. 錯誤。上肩胛下神經支配肩胛下肌，主要使上臂內旋並協助穩定肩關節，不支配上臂前群屈肌。\n\n【核心考點】\n上臂前群屈肌由肌皮神經支配：喙肱肌屈曲與內收上臂，肱二頭肌屈肘且旋後，肱肌是強力屈肘肌。腋神經、胸背神經、肩胛下神經各自對應肩部或背部肌肉。",
+      "key_point": "肌皮神經支配喙肱肌、肱二頭肌、肱肌，可產生上臂屈曲與前臂屈曲。",
+      "flashcard_front": "哪條神經支配可屈曲上臂與前臂的肌群？",
+      "flashcard_back": "肌皮神經支配喙肱肌、肱二頭肌、肱肌；喙肱肌與肱二頭肌屈曲上臂，肱二頭肌與肱肌屈曲前臂。",
+      "flashcard_summary": "上肢神經功能 -> 肌皮神經支配上臂前群，負責屈肩與屈肘。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題考跟骨載距突（sustentaculum tali）與足底肌腱走行。屈拇長肌（flexor hallucis longus, FHL）肌腱由小腿後深層下行，經內踝後方後，再繞過載距突下方的溝槽進入足底。\n\n【選項詳解】\n- A. 正確。屈拇長肌腱通過距骨後方與載距突下方的溝槽，進入足底後走向拇趾末節骨，是載距突相關解剖最常考的肌腱。\n- B. 錯誤。屈趾長肌腱也會經內踝後方進入足底，但它不走載距突下方溝槽；其在足底與屈拇長肌腱有交叉關係，主要前往第 2-5 趾。\n- C. 錯誤。屈拇短肌是足底固有肌，位於足底內側區，並非從小腿後方繞過載距突進入足底的長肌腱。\n- D. 錯誤。屈趾短肌是足底第一層固有肌，起自跟骨結節，肌腱走向第 2-5 趾中節趾骨，不經過載距突下方溝槽。\n\n【核心考點】\n載距突下方溝槽對應屈拇長肌腱。題目若問小腿後深層肌腱經內踝後方進足底，要進一步分辨 FHL 與 FDL 的相對走行，不能把足底固有短肌混進來。",
+      "key_point": "屈拇長肌腱繞過載距突下方溝槽進入足底。",
+      "flashcard_front": "載距突下方溝槽通過哪條肌腱？",
+      "flashcard_back": "屈拇長肌（FHL）肌腱繞過跟骨載距突下方溝槽進入足底，之後走向拇趾末節骨。",
+      "flashcard_summary": "足部骨性標誌 -> sustentaculum tali 下方溝槽對應 FHL 肌腱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n題目要依椎骨形態判斷由頭端往尾端的排列。依既有題圖標示，丙為頸椎、甲為胸椎、乙為腰椎；脊柱由上到下的順序是頸椎、胸椎、腰椎，所以排列為丙、甲、乙。\n\n【選項詳解】\n- A. 錯誤。甲、乙、丙代表胸椎、腰椎、頸椎，會把頸椎放到最尾端，與正常頭尾排列相反。\n- B. 錯誤。丙、乙、甲代表頸椎、腰椎、胸椎；腰椎不會位在胸椎上方，因此中段順序顛倒。\n- C. 錯誤。乙、甲、丙代表腰椎、胸椎、頸椎，是由尾端往頭端的方向，不符合題目要求的頭端往尾端。\n- D. 正確。丙、甲、乙代表頸椎、胸椎、腰椎；頸椎常見橫突孔，胸椎有肋凹，腰椎椎體大且棘突較厚實，符合由頭端往尾端的排列。\n\n【核心考點】\n辨認椎骨類型時，頸椎看橫突孔，胸椎看肋凹，腰椎看大型椎體與粗厚棘突。脊柱頭尾順序固定為頸椎、胸椎、腰椎、薦椎、尾椎。",
+      "key_point": "頸椎有橫突孔，胸椎有肋凹，腰椎椎體大；頭端往尾端為頸椎、胸椎、腰椎。",
+      "flashcard_front": "頸椎、胸椎、腰椎如何由形態辨認並排序？",
+      "flashcard_back": "頸椎：橫突孔；胸椎：肋凹；腰椎：大型椎體與粗厚棘突。頭端往尾端為頸椎 -> 胸椎 -> 腰椎。",
+      "flashcard_summary": "椎骨辨認 -> 橫突孔=頸椎，肋凹=胸椎，大椎體=腰椎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": [
+        "第29題需依原始題圖辨認甲、乙、丙；本 update 依來源既有對應為丙=頸椎、甲=胸椎、乙=腰椎。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n題目問股骨大轉子（greater trochanter）碎裂時哪條肌肉功能受影響最小。大轉子是臀中肌、臀小肌、梨狀肌、閉孔內肌等髖外展或外旋肌的重要附著點；臀大肌主要止於髂脛束與股骨臀肌粗隆，因此大轉子受損時相對受影響最小。\n\n【選項詳解】\n- A. 正確。臀大肌主要附著於髂脛束與股骨臀肌粗隆（gluteal tuberosity），主要功能是髖伸展與外旋；它不是以大轉子作為主要止點。\n- B. 錯誤。臀小肌止於股骨大轉子的前面，負責髖外展、內旋與穩定骨盆；大轉子碎裂會直接影響其附著與力量傳遞。\n- C. 錯誤。梨狀肌由薦骨前面走向股骨大轉子上緣，負責髖外旋並協助穩定髖關節；大轉子受損會影響其止點。\n- D. 錯誤。閉孔內肌肌腱繞過坐骨小孔後附著於大轉子內側面附近，參與髖外旋；大轉子碎裂會影響其功能。\n\n【核心考點】\n大轉子是多數臀部外展肌與深層外旋肌的附著區；臀大肌的主要止點在髂脛束與臀肌粗隆。看到大轉子骨折或碎裂，要先想到臀中肌、臀小肌與深層外旋肌受影響。",
+      "key_point": "臀大肌主要止於髂脛束與臀肌粗隆，不是大轉子；臀小肌、梨狀肌、閉孔內肌與大轉子關係密切。",
+      "flashcard_front": "股骨大轉子碎裂時哪條肌肉功能受影響最小？",
+      "flashcard_back": "臀大肌受影響最小，因其主要止於髂脛束與股骨臀肌粗隆；臀小肌、梨狀肌、閉孔內肌附著於大轉子相關區域。",
+      "flashcard_summary": "股骨大轉子附著點 -> 臀小肌、梨狀肌、閉孔內肌受影響；臀大肌主要不靠大轉子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:49+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

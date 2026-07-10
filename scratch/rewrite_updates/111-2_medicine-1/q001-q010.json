@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n內弓狀纖維（internal arcuate fibers）是延腦薄束核與楔束核第二級神經元的軸突。這些纖維在延腦中線交叉後轉為上行束，匯合成內側蹄系（medial lemniscus），負責把精細觸覺、震動覺與本體感覺送往丘腦 VPL。\n\n【選項詳解】\n- A. 正確。內側蹄系由薄束核與楔束核發出的內弓狀纖維在延腦完成感覺交叉後形成，是背柱-內側蹄系路徑的上行部分。\n- B. 錯誤。脊髓蹄系主要包含脊髓視丘徑相關纖維，傳遞痛覺、溫度覺與粗略觸覺；來源不是薄束核、楔束核的內弓狀纖維。\n- C. 錯誤。外側蹄系屬於聽覺傳導路徑，與耳蝸核、上橄欖核、下丘等結構相關，不是軀體感覺在延腦交叉後形成的束。\n- D. 錯誤。錐體交叉是皮質脊髓束在延腦下端交叉的下行運動路徑，與內弓狀纖維形成的上行感覺束不同。\n\n【核心考點】\n背柱-內側蹄系路徑的關鍵順序是：薄束核/楔束核 -> 內弓狀纖維 -> 延腦感覺交叉 -> 內側蹄系 -> 丘腦 VPL。看到 internal arcuate fibers 交叉後形成的結構，應連到 medial lemniscus。",
+      "key_point": "內弓狀纖維在延腦交叉後匯合成內側蹄系，傳遞精細觸覺、震動覺與本體感覺。",
+      "flashcard_front": "Internal arcuate fibers 在延腦交叉後形成什麼結構？",
+      "flashcard_back": "形成內側蹄系（medial lemniscus），屬於背柱-內側蹄系路徑，將精細觸覺、震動覺與本體感覺送往丘腦 VPL。",
+      "flashcard_summary": "internal arcuate fibers -> 延腦交叉 -> medial lemniscus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\nBroca's area 負責語言表達，Wernicke's area 負責語言理解，兩者之間的主要聯絡纖維是弓狀束（arcuate fasciculus）。弓狀束受損可造成傳導性失語症，患者通常理解與自發語言相對保留，但複誦能力明顯受損。\n\n【選項詳解】\n- A. 正確。弓狀束是連結額葉語言表達區與顳葉語言理解區的重要聯絡纖維，考語言區連線時優先想到此束。\n- B. 錯誤。內側縱束（MLF）位於腦幹，連結動眼、滑車、外旋與前庭相關神經核，主要協調兩眼共軛運動。\n- C. 錯誤。背側縱束（DLF）與下視丘到腦幹、脊髓自主神經核的連結有關，功能偏向自主神經調控。\n- D. 錯誤。內側前腦束（medial forebrain bundle）屬於邊緣與獎賞相關路徑，連結前腦、下視丘與腦幹，不是語言區主要連線。\n\n【核心考點】\n語言中樞配對要分清楚：Broca's area 管表達，Wernicke's area 管理解，arcuate fasciculus 負責兩者間的訊息傳遞。傳導性失語症的高分辨識點是複誦障礙。",
+      "key_point": "Broca 區與 Wernicke 區之間的主要連結是弓狀束；受損時典型表現為複誦障礙。",
+      "flashcard_front": "Broca's area 與 Wernicke's area 主要由哪條纖維束連結？",
+      "flashcard_back": "弓狀束（arcuate fasciculus）；受損會造成傳導性失語症，特徵是複誦明顯困難。",
+      "flashcard_summary": "Broca-Wernicke connection -> arcuate fasciculus -> conduction aphasia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n乳頭體（mamillary body）是 Papez circuit 的一環，接受海馬經穹窿而來的訊息，再經乳頭丘腦束（mamillothalamic tract/fasciculus）投射到丘腦前核。丘腦前核再連到扣帶迴，與記憶及邊緣系統功能相關。\n\n【選項詳解】\n- A. 錯誤。丘腦腹前核（VA）主要接收基底核輸出，參與運動規劃與調控，並非乳頭丘腦束的主要終點。\n- B. 正確。乳頭丘腦束的主要投射目標是丘腦前核（anterior nuclei），這是 Papez circuit 的固定解剖連結。\n- C. 錯誤。丘腦腹後外側核（VPL）接收軀幹與四肢的內側蹄系、脊髓視丘徑感覺輸入，負責體感轉接。\n- D. 錯誤。丘腦腹後內側核（VPM）接收臉部三叉神經感覺與味覺相關輸入，與乳頭體到丘腦的邊緣系統投射不同。\n\n【核心考點】\nPapez circuit 常考路徑為 hippocampus -> fornix -> mamillary body -> mamillothalamic tract -> anterior nucleus of thalamus -> cingulate gyrus。乳頭丘腦束對應丘腦前核，不是 VPL、VPM 或 VA。",
+      "key_point": "乳頭體發出的乳頭丘腦束主要投射到丘腦前核，是 Papez circuit 的重要連結。",
+      "flashcard_front": "Mamillary body 經 mamillothalamic tract 主要投射到丘腦哪個核？",
+      "flashcard_back": "丘腦前核（anterior nuclei of thalamus），屬於 Papez circuit 的記憶與邊緣系統路徑。",
+      "flashcard_summary": "mamillary body -> mamillothalamic tract -> anterior thalamic nuclei",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n多數感覺訊息到達大腦皮質前會先經丘腦特定核團轉接；嗅覺是重要例外。嗅覺由嗅上皮進入嗅球後，經嗅束投射到梨狀皮質、杏仁核等嗅覺與邊緣系統相關區域，初級路徑不必先經丘腦。\n\n【選項詳解】\n- A. 正確。嗅覺訊息可由嗅球與嗅束直接進入初級嗅覺皮質及杏仁核等邊緣系統區域，是特殊感覺中常考的丘腦例外。\n- B. 錯誤。視覺訊息從視網膜經視神經、視束後，主要在丘腦外側膝狀體（lateral geniculate body）轉接，再投射到枕葉視覺皮質。\n- C. 錯誤。聽覺訊息經腦幹聽覺路徑與下丘後，會在丘腦內側膝狀體（medial geniculate body）轉接，再到聽覺皮質。\n- D. 錯誤。味覺訊息經孤束核上行後，主要到丘腦 VPM 轉接，再投射到島葉與額葉蓋部等味覺皮質區。\n\n【核心考點】\n感覺傳導常見規則是先經丘腦再到皮質；嗅覺的初級傳導路徑例外，可直接連到嗅覺皮質與邊緣系統。視覺對應 LGN，聽覺對應 MGN，味覺對應 VPM。",
+      "key_point": "嗅覺初級傳導不需先經丘腦，可直接投射至嗅覺皮質與邊緣系統。",
+      "flashcard_front": "哪種感覺可不經丘腦而直接進入邊緣系統？",
+      "flashcard_back": "嗅覺；嗅球與嗅束可將訊息送到梨狀皮質、杏仁核等區域，初級路徑不先經丘腦。",
+      "flashcard_summary": "olfaction -> bypasses thalamus initially -> olfactory cortex/limbic system",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目問下斜肌（inferior oblique）敘述何者錯誤。下斜肌起於眼眶前內側底部的上頜骨，受動眼神經支配，附著於眼球後外側鞏膜；收縮時主要使眼球上轉、外轉並有外旋，而不是使瞳孔朝下朝外。\n\n【選項詳解】\n- A. 正確。下斜肌由動眼神經（CN III）的下支支配；眼外肌支配可用 SO4、LR6、其餘 CN3 記憶。\n- B. 錯誤。下斜肌的主要作用是上轉、外轉與外旋；「朝下朝外」較符合上斜肌造成的下轉與外轉效果，上斜肌由滑車神經支配。\n- C. 正確。下斜肌起點在眼眶前內側底壁的上頜骨，這也是它與多數眼外肌起自總腱環不同之處。\n- D. 正確。下斜肌繞過眼球下方後附著於眼球後外側的鞏膜，因此終點位於眼球後半部。\n\n【核心考點】\n下斜肌由 CN III 支配，起於上頜骨，附著於眼球後外側鞏膜，作用偏向上轉、外轉與外旋。若看到「瞳孔朝下朝外」，要與上斜肌區分。",
+      "key_point": "下斜肌受 CN III 支配，起於上頜骨，主要使眼球上轉、外轉與外旋；朝下朝外不是其主要作用。",
+      "flashcard_front": "Inferior oblique 的支配神經、起點與主要作用是什麼？",
+      "flashcard_back": "由 CN III 支配，起於上頜骨，主要使眼球上轉、外轉與外旋；朝下朝外較應想到 superior oblique。",
+      "flashcard_summary": "inferior oblique -> CN III, maxilla origin, elevates/abducts/extorts eye",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n海綿竇內要區分「穿行於竇腔內」與「位於外側壁」的構造。內頸動脈與外旋神經（CN VI）位於海綿竇腔內，外旋神經之後經眶上裂進入眼眶支配外直肌；CN III、CN IV、V1、V2 則走在海綿竇外側壁。\n\n【選項詳解】\n- A. 錯誤。視神經經視神經管進入眼眶，與眼動脈同行，不穿行海綿竇腔內。\n- B. 正確。外旋神經在海綿竇內緊鄰內頸動脈，位於竇腔內而非外側壁，之後經眶上裂進入眼眶支配外直肌。\n- C. 錯誤。三叉神經本幹不與內頸動脈一起穿行海綿竇腔內；其 V1、V2 分支位於海綿竇外側壁，V1 才會再經眶上裂進入眼眶。\n- D. 錯誤。滑車神經（CN IV）位於海綿竇外側壁，經眶上裂入眼眶支配上斜肌，但不與內頸動脈同在竇腔內。\n\n【核心考點】\n海綿竇腔內構造是 internal carotid artery 與 CN VI；外側壁由上到下常記 CN III、CN IV、V1、V2。CN VI 因在竇腔內靠近 ICA，海綿竇病變時特別容易受影響。",
+      "key_point": "海綿竇腔內有內頸動脈與外旋神經；CN III、CN IV、V1、V2 位於外側壁。",
+      "flashcard_front": "哪條腦神經與內頸動脈一起位於海綿竇腔內？",
+      "flashcard_back": "外旋神經（CN VI）；它在海綿竇腔內靠近內頸動脈，之後經眶上裂入眼眶支配外直肌。",
+      "flashcard_summary": "cavernous sinus lumen -> ICA + CN VI; lateral wall -> CN III, IV, V1, V2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n眼瞼與淚器題常把腺體分泌物、淚液收集位置、眼瞼開閉肌肉與淚腺位置混在一起考。淚腺位於眼眶外上方，分泌水樣淚液；瞼板腺分泌脂質；淚湖位於內眥；提上眼瞼肌負責睜眼而不是閉眼。\n\n【選項詳解】\n- A. 錯誤。瞼板腺（Meibomian gland）分泌油脂層，減少淚液蒸發；水樣淚液主要由淚腺分泌。\n- B. 錯誤。淚湖位於內眥附近，淚液由此進入淚點、淚小管、淚囊與鼻淚管；不是眼眶外下部結構。\n- C. 錯誤。提上眼瞼肌由 CN III 支配，作用是抬起上眼瞼；關閉眼瞼主要靠眼輪匝肌，由顏面神經支配。\n- D. 正確。淚腺位於眼眶外上部的淚腺窩，負責水樣淚液分泌，臨床與乾眼、淚液分泌異常相關。\n\n【核心考點】\n眼瞼附屬構造要配對記憶：淚腺在外上方且分泌水樣淚液；瞼板腺分泌脂質；淚湖在內眥；睜眼靠提上眼瞼肌，閉眼靠眼輪匝肌。",
+      "key_point": "淚腺位於眼眶外上部；瞼板腺分泌油脂，淚湖在內眥，提上眼瞼肌負責睜眼。",
+      "flashcard_front": "眼瞼與淚器：淚腺位置、瞼板腺分泌物、閉眼肌肉各是什麼？",
+      "flashcard_back": "淚腺位於眼眶外上部並分泌水樣淚液；瞼板腺分泌脂質；閉眼主要靠眼輪匝肌（CN VII）。",
+      "flashcard_summary": "lacrimal gland superolateral; tarsal gland lipid; lacrimal lake medial; orbicularis oculi closes eyelid",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n題目問哪一條不是頸神經叢（cervical plexus）的分支。頸神經叢由 C1-C4 前支形成，皮支包括枕小神經、耳大神經、頸橫神經與鎖骨上神經；肩胛上神經則來自臂神經叢上一幹，纖維根源主要是 C5-C6。\n\n【選項詳解】\n- A. 錯誤。枕小神經多由 C2 形成，沿胸鎖乳突肌後緣上行，供應耳後與枕外側皮膚，屬於頸神經叢皮支。\n- B. 錯誤。耳大神經由 C2-C3 形成，橫過胸鎖乳突肌表面，供應耳廓下部、腮腺區與下頜角附近皮膚，屬於頸神經叢皮支。\n- C. 正確。肩胛上神經來自臂神經叢上一幹（C5-C6），經肩胛上切跡到棘上窩與棘下窩，支配棘上肌與棘下肌，不屬於 C1-C4 的頸神經叢。\n- D. 錯誤。鎖骨上神經由 C3-C4 形成，向下供應鎖骨、肩峰及上胸前區皮膚，屬於頸神經叢皮支。\n\n【核心考點】\n頸神經叢皮支可記為 lesser occipital、great auricular、transverse cervical、supraclavicular nerves。Suprascapular nerve 雖然名字接近 supraclavicular nerve，來源卻是 brachial plexus superior trunk。",
+      "key_point": "頸神經叢 C1-C4 的皮支包括枕小、耳大、頸橫、鎖骨上神經；肩胛上神經屬於臂神經叢。",
+      "flashcard_front": "哪個選項不是 cervical plexus 分支：lesser occipital、great auricular、suprascapular、supraclavicular？",
+      "flashcard_back": "Suprascapular nerve；它來自 brachial plexus superior trunk（C5-C6），支配棘上肌與棘下肌。",
+      "flashcard_summary": "cervical plexus cutaneous branches vs suprascapular nerve from brachial plexus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問哪一條不是顏面神經在顳骨區域的分支。顏面神經在面神經管內會發出岩大神經、鐙骨肌神經與鼓索神經；岩小神經則主要由舌咽神經的鼓室支與鼓室叢延續而來，負責把副交感節前纖維送往耳神經節，再影響腮腺分泌。\n\n【選項詳解】\n- A. 錯誤。岩大神經來自顏面神經膝狀神經節附近，攜帶副交感節前纖維到翼腭神經節，與淚腺、鼻腔與腭部腺體分泌相關。\n- B. 正確。岩小神經不是顏面神經分支，而是舌咽神經（CN IX）鼓室神經叢相關分支，攜帶副交感節前纖維至耳神經節。\n- C. 錯誤。鼓索神經是顏面神經分支，穿過中耳，負責舌前三分之二味覺，並帶副交感纖維至下頜下神經節。\n- D. 錯誤。鐙骨肌神經是顏面神經在顳骨內發出的運動分支，支配鐙骨肌；受損可造成聽覺過敏。\n\n【核心考點】\n岩大神經與岩小神經常被混淆：greater petrosal nerve 來自 CN VII，走向翼腭神經節並影響淚腺；lesser petrosal nerve 來自 CN IX，走向耳神經節並影響腮腺。",
+      "key_point": "岩大神經、鼓索神經、鐙骨肌神經屬於顏面神經分支；岩小神經主要源自舌咽神經。",
+      "flashcard_front": "Greater petrosal nerve 與 lesser petrosal nerve 的來源與目標各是什麼？",
+      "flashcard_back": "Greater petrosal 來自 CN VII，至翼腭神經節影響淚腺；lesser petrosal 來自 CN IX，至耳神經節影響腮腺。",
+      "flashcard_summary": "CN VII branches in temporal bone: greater petrosal, nerve to stapedius, chorda tympani; lesser petrosal from CN IX",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n臼齒拔除後牙根碎片可能掉入哪個副鼻竇，關鍵在上頜後牙與上頜竇底壁的解剖鄰近。上頜大臼齒與部分小臼齒牙根尖距離上頜竇底很近，骨隔板很薄，牙科處置或感染容易波及上頜竇。\n\n【選項詳解】\n- A. 錯誤。蝶竇位於蝶骨體內，位置深且靠近蝶鞍、顱底與視神經管周邊，與臼齒牙根沒有直接鄰近關係。\n- B. 錯誤。篩竇位於鼻腔外側壁與眼眶內側壁之間，由多個篩房構成，解剖位置接近眼眶與鼻腔上部，不鄰接臼齒牙根。\n- C. 錯誤。額竇位於額骨眉弓深面，位置在前額區，與口腔牙槽骨相距很遠，拔臼齒碎片不會優先進入此處。\n- D. 正確。上頜竇位於上頜骨內，其底壁緊鄰上頜臼齒牙根，牙根折斷或牙源性感染容易穿破薄骨壁進入上頜竇。\n\n【核心考點】\n副鼻竇與牙科臨床最常考的連結是 maxillary sinus 與上頜後牙牙根相鄰。上頜臼齒拔除、根尖感染或牙根斷裂時，要想到上頜竇炎或口竇廔管風險。",
+      "key_point": "上頜竇底壁緊鄰上頜大臼齒牙根，拔牙斷根或牙源性感染容易進入上頜竇。",
+      "flashcard_front": "上頜臼齒牙根斷裂最容易進入哪個副鼻竇？",
+      "flashcard_back": "上頜竇（maxillary sinus）；其底壁與上頜後牙牙根相鄰，骨壁薄，牙科處置容易波及。",
+      "flashcard_summary": "upper molar roots adjacent to maxillary sinus -> dental fragment may enter maxillary sinus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:31:56+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

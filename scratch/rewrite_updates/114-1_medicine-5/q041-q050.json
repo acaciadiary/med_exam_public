@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題考查乳房良性與交界性病變（纖維囊腫變化、非典型導管增生 ADH、纖維腺瘤、葉狀腫瘤）的診斷與後續治療原則。\n\n【選項詳解】\n- A. 正確。乳房纖維囊腫變化（Fibrocystic change）是受女性荷爾蒙週期性刺激引起的乳腺腺泡及間質生理性增生，在影像學無可疑惡性發現時，通常進行定期追蹤即可，無須手術切除。\n- B. 錯誤。粗針切片（Core needle biopsy）若診斷為非典型導管增生（ADH），由於粗針切片有取樣誤差（Sampling error），約有 15-20% 的病灶在完全手術切除後會被升級診斷為原位癌或浸潤性乳癌。因此，切片診斷 ADH 必須安排手術切除病灶以防漏診。\n- C. 錯誤。乳房纖維腺瘤（Fibroadenoma）為常見良性腫瘤，其惡性轉變風險極低（小於0.1%），對於大小穩定且無症狀的纖維腺瘤，通常定期追蹤即可，無須強制手術切除。\n- D. 錯誤。惡性葉狀腫瘤（Malignant phyllodes tumor）的主要治療是具有安全邊界（>= 1 cm）的局部廣泛切除術（Wide local excision）。由於此腫瘤主要是間質增生，對化療及放療不敏感，術後常規給予輔助性化療之療效目前缺乏明確臨床證據支持。\n\n【核心考點】\nADH 粗針切片後的手術切除指徵。乳房纖維囊腫是良性生理變化。惡性葉狀腫瘤治療以廣泛切除手術為主。",
+      "key_point": "乳房粗針切片若發現非典型導管增生（ADH），因有低估惡性度的風險，必須行手術切除病灶。",
+      "flashcard_front": "乳房粗針切片診斷非典型導管增生 (ADH) / 後續治療原則 / 纖維囊腫性質",
+      "flashcard_back": "ADH 切片後有 15-20% 機率升級為惡性，必須行手術切除以防漏診。纖維囊腫為生理性變化，追蹤即可。",
+      "flashcard_summary": "ADH 與纖維囊腫處置 -> ADH 切片後必須手術切除，纖維囊腫追蹤即可。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n乳癌腋下淋巴結廓清術（ALND）需要清理解剖區域內（Level I, II）的淋巴脂肪組織。在此過程中，有幾條重要的運動與感覺神經穿行，手術時必須仔細辨識並加以保護，以防術後肌肉功能障礙。\n\n【選項詳解】\n- A. 錯誤。外側胸神經（Lateral pectoral nerve）主要支配胸大肌，受損會導致胸大肌部分無力或萎縮。\n- B. 正確。胸背神經（Thoracodorsal nerve，起源於後束，C6-C8）與胸背血管伴行，支配闊背肌（Latissimus dorsi）。闊背肌負責上臂的內收、內旋與向後伸展。若此神經受損，患者術後會出現闊背肌無力及萎縮，影響攀爬或推物動作。\n- C. 錯誤。長胸神經（Long thoracic nerve）支配前鋸肌（Serratus anterior），受損會使肩胛骨失去拉力而向後凸起，形成翼狀肩胛（Winged scapula）。\n- D. 錯誤。肋間臂神經（Intercostobrachial nerve）為純感覺神經，支配腋下及上臂內側皮膚感覺，若受損會造成上臂內側麻木，但與肌肉無力無關。\n\n【核心考點】\nALND 中易受損神經及其支配肌肉：胸背神經（支配闊背肌，受損致上臂伸展/內收無力）、長胸神經（支配前鋸肌，受損致翼狀肩胛）。",
+      "key_point": "胸背神經（Thoracodorsal nerve）支配闊背肌，在腋下淋巴廓清術中若受損會造成該肌無力。",
+      "flashcard_front": "腋下淋巴結廓清 (ALND) 神經受損 / 胸背神經 vs 長胸神經支配與症狀",
+      "flashcard_back": "胸背神經支配闊背肌（受損致闊背肌無力）；長胸神經支配前鋸肌（受損致前鋸肌無力與翼狀肩胛）。",
+      "flashcard_summary": "腋下神經受損症狀 -> 胸背神經受損致闊背肌無力，長胸神經受損致翼狀肩胛。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nPARP 抑制劑（如 Olaparib、Talazoparib）主要針對具有同源重組修復缺陷（HRD）的腫瘤。當細胞同時有 BRCA1/2 基因突變（無法進行雙股 DNA 斷裂修復）與 PARP 抑制（無法進行單股 DNA 斷裂修復）時，會引發合成致死（Synthetic lethality），導致腫瘤細胞凋亡。\n\n【選項詳解】\n- A. 錯誤。雖然此患者為 HER2 陰性，但其「不具 BRCA1/2 突變」，沒有 BRCA 突變的腫瘤無法利用合成致死原理，因此不適合使用 PARP 抑制劑。\n- B. 正確。此患者為三陰性乳癌（ER/PR/HER2 均為陰性），且「具備 BRCA1/2 突變」，這是 PARP 抑制劑獲批的標準適應症，能顯著改善無惡化存活期。\n- C. 錯誤。此為 HER2 陽性乳癌（HER2 3+），其主要的一線治療為針對 HER2 的單株抗體（如 Trastuzumab, Pertuzumab）等標靶藥物。\n- D. 錯誤。此為 HER2 陽性乳癌，無 BRCA 突變，不符合 PARP 抑制劑的使用條件。\n\n【核心考點】\nPARP 抑制劑的乳癌治療指引。必須同時具備：HER2 陰性（包括 HR+/HER2- 與三陰性乳癌）、以及證實有生殖細胞系 BRCA1 或 BRCA2 基因突變（gBRCAm）。",
+      "key_point": "PARP抑制劑用於乳癌的適應症是 HER2 陰性且合併具備 BRCA1/2 基因突變的轉移性乳癌。",
+      "flashcard_front": "PARP 抑制劑 / 合成致死原理 / 乳癌適用條件",
+      "flashcard_back": "適用於 HER2 陰性且證實有生殖細胞系 BRCA1/2 基因突變的轉移性乳癌。其機制為利用雙重 DNA 修復缺陷達到合成致死。",
+      "flashcard_summary": "PARP 抑制劑適用 -> 轉移性乳癌、HER2 陰性、具 BRCA1/2 突變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n壞死性腸炎（Necrotizing Enterocolitis, NEC）是新生兒加護病房中極為危急的腹部急症。當內科抗生素與禁食治療無效，或出現腸穿孔、壞死時，需安排剖腹探查。\n\n【選項詳解】\n- A. 錯誤。腸扭結（Volvulus）在術中主要可見中腸以腸繫膜為軸心扭轉，整段小腸呈現急性缺血的暗黑色充血肥厚，而非呈節段性散在的腸壁壞死與積氣。\n- B. 錯誤。胎便性腹膜炎（Meconium peritonitis）是由於產前腸道穿孔，無菌胎便流入腹腔引起的無菌性化學性腹膜炎，術中典型表現為大量纖維蛋白粘連及散在的鈣化斑塊，但無急性發炎壞死的腸管。\n- C. 正確。壞死性腸炎（NEC）在手術中典型外觀是受累腸管（尤以末端迴腸和近端結腸為主）呈節段性壞死、變黑、變薄，腸壁可有觸摸如氣泡感的積氣（Pneumatosis intestinalis），並常合併腹水與壞死穿孔。\n- D. 錯誤。胎便性腸阻塞（Meconium ileus）多見於囊性纖維化新生兒，表現為末端迴腸被異常黏稠的胎便阻塞，腸道雖然擴張，但無早期出現的大片節段性壞死。\n\n【核心考點】\n新生兒壞死性腸炎（NEC）的術中表現。典型可見腸壁壞死呈暗黑色、腸壁積氣（Pneumatosis）及節段性受累，常侵犯迴盲瓣附近的迴腸與結腸。",
+      "key_point": "新生兒壞死性腸炎術中可見受累腸管呈節段性暗黑色壞死、變薄，並伴有腸壁積氣與滲出。",
+      "flashcard_front": "新生兒壞死性腸炎 (NEC) / 術中腸道大體外觀特徵",
+      "flashcard_back": "受累小腸（好發於末端迴腸）呈節段性壞死變黑，腸壁變薄且可見微小氣泡積聚（腸壁積氣 Pneumatosis）。",
+      "flashcard_summary": "NEC 術中外觀 -> 節段性腸壞死變黑，伴隨腸壁積氣，常侵犯末端迴腸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題接續考查新生兒壞死性腸炎（NEC）的臨床病生理特性、實驗室指標以及流行病學特徵。\n\n【選項詳解】\n- A. 錯誤。NEC 最常侵犯的區域確實是迴盲瓣周圍的末端迴腸（Terminal ileum），但亦常波及盲腸與結腸，呈節段性跳躍分布。\n- B. 錯誤。在病情嚴重時，特別是併發敗血症，白血球計數可能表現為正常、升高，甚至在重症期顯著降低（骨髓代償不及），因此「未必」一定出現白血球增多。\n- C. 錯誤。血小板計數快速下降（Thrombocytopenia）是 NEC 病情加重的重要標誌，常提示存在廣泛性腸壞死、穿孔或瀰漫性血管內凝血（DIC），是手術介入的強烈生化指標。\n- D. 正確。雖然 90% 的 NEC 發生在早產兒（與腸道屏障發育未成熟及人工餵養有關），但仍有約 10% 的病例發生在「足月兒（Term infants）」，特別是合併先天性心臟病、出生窒息或低血壓灌流不足的足月新生兒。\n\n【核心考點】\nNEC 的流行病學與實驗室特徵。足月兒亦可能因缺氧灌流不足而發生 NEC。血小板減少是腸壞死的重要生化指標。",
+      "key_point": "新生兒壞死性腸炎（NEC）雖以早產兒為主，但仍有約10%發生在足月兒，非僅限於早產兒。",
+      "flashcard_front": "新生兒壞死性腸炎 (NEC) / 足月兒發生率 / 血小板減少之臨床意義",
+      "flashcard_back": "約有 10% 發生在足月兒（常合併先天心臟病或窒息）。發病過程中血小板減少（Thrombocytopenia）是腸壞死與病情惡化的指標。",
+      "flashcard_summary": "NEC 特點 -> 10% 可見於足月兒，血小板減少提示腸壞死。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n疝氣（Hernia）是指人體臟器或組織離開其正常解剖位置，經由先天或後天形成的薄弱點、缺損或孔道突出。依突出的路徑相對於體壁的位置，臨床上區分為內部疝氣與外部疝氣。\n\n【選項詳解】\n- A. 錯誤。外部疝氣（External hernia）是指腹腔臟器經由腹壁的薄弱缺損處突出到體表皮下（可於體表觸及或看見腫塊），例如腹股溝疝氣、股疝氣、切口疝氣及臍疝氣。\n- B. 正確。內部疝氣（Internal hernia）定義為腹腔內臟器（如小腸）經由腹膜腔內部的生理孔道、腹膜隱窩或後天形成的「腸繫膜缺損（Mesenteric defect）」突出，但病灶仍完全侷限於腹腔或胸腔內部，體表無法直接看見腫塊。\n- C. 錯誤。鼠蹊疝氣（Inguinal hernia）指腹腔臟器經由腹股溝管（直疝或斜疝）突出，屬於最常見的外部疝氣。\n- D. 錯誤。腹壁疝氣（Ventral hernia）是前腹壁缺損導致的外部疝氣。\n\n【核心考點】\n內部疝氣（Internal hernia）的特點：病灶位於腹腔內，常因小腸穿過腸繫膜缺損或 Winslow 孔、網膜裂孔引起，易導致急性腸阻塞與腸壞死。",
+      "key_point": "臟器穿過腹膜腔內部如腸繫膜缺損等孔道突出、且不突身體表面，稱為內部疝氣（Internal hernia）。",
+      "flashcard_front": "疝氣解剖分類 / 內部疝氣 vs 外部疝氣 / 腸道穿過腸繫膜缺損",
+      "flashcard_back": "內部疝氣指臟器突入腹膜腔內的隱窩或腸繫膜缺損（侷限在體內）；外部疝氣指臟器穿透腹壁突出至皮下（體表可見）。",
+      "flashcard_summary": "內部疝氣 -> 臟器突出局限於腹腔內（如穿過腸繫膜缺損），外部疝氣突出至皮下。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n國際神經母細胞瘤分期系統（INSS）中，Stage 4S（S代表Special）是一個極特殊的預後良好分期。此期患者雖然有轉移病灶，但多具有自發性退化（Spontaneous regression）的生物學特性。\n\n【選項詳解】\n- A. 錯誤。Stage 4S 的基本患者年齡界線必須是「小於一歲（< 365天）」。\n- B. 錯誤。原發腫瘤必須侷限在局部（Stage 1 或 2），且轉移只能侷限於皮膚、肝臟和/或骨髓。轉移限於皮膚是 Stage 4S 的典型表現之一（常呈現皮下藍色結節）。\n- C. 錯誤。轉移限於肝臟（經常導致暫時性的巨大腹脹與肝腫大）符合 Stage 4S 的定義，經支持治療後多能自行消退。\n- D. 正確。Stage 4S 的定義中「絕對不能合併有骨骼（Bone，特別是皮質骨 Cortical bone）轉移」，且骨髓受侵犯比例需小於 10%。一旦影像學或骨掃描證實有皮質骨轉移，不論患者年齡多小，皆必須歸類為預後較差的 Stage 4。\n\n【核心考點】\n神經母細胞瘤 Stage 4S 診斷標準：年齡 < 1 歲；原發瘤為 Stage 1 或 2；轉移僅限於皮膚、肝臟及骨髓（骨髓腫瘤細胞比例 < 10%）；且無骨骼（Cortical bone）轉移。",
+      "key_point": "神經母細胞瘤 INSS 4S 分期要求年齡小於一歲，且轉移僅限於皮膚、肝臟與骨髓，絕對不能有骨骼轉移。",
+      "flashcard_front": "神經母細胞瘤 INSS Stage 4S / 定義年齡限制 / 轉移容許部位與絕對禁忌",
+      "flashcard_back": "限制年齡必須小於 1 歲。轉移僅能累及皮膚、肝臟及骨髓（< 10%）。若有「骨骼 (Cortical bone) 轉移」則屬 Stage 4，非 4S。",
+      "flashcard_summary": "4S 分期條件 -> 年齡 < 1歲，轉移限於皮膚、肝與骨髓，無骨骼轉移。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n先天性空迴腸閉鎖（Jejunoileal atresia）主要起因於胚胎期發育過程中，局部小腸因發生腸扭轉、套疊或血管絞窄等「腸繫膜血管意外（Mesenteric vascular accident）」導致缺血壞死與自體吸收。\n\n【選項詳解】\n- A. 錯誤。由於空迴腸閉鎖的位置通常較十二指腸閉鎖更靠遠端，上段小腸仍保留相當的羊水資源吸收功能，因此孕婦在產前超音波評估時，羊水量可以是正常的。\n- B. 正確。在小腸閉鎖的 Grosfeld 分型中，Type IIIb 伴有大範圍的腸繫膜缺損及遠端空迴腸血流供應中斷，殘存的小腸會繞著單一的源頭血管（通常是迴結腸動脈）呈螺旋狀盤繞，此特殊形態在醫學上被稱為「蘋果皮畸形（Apple-peel deformity）」或「聖誕樹畸形（Christmas tree deformity）」，而非「蘋果樹（Apple tree）」。\n- C. 錯誤。因為腸道管腔在胚胎期已發生完全閉鎖，阻斷了胎便的向下輸送，新生兒出生後通常無法解出正常的黑色黏稠胎便。\n- D. 錯誤。目前的病因學共識認為，空迴腸閉鎖並非由於胚胎期再管腔化（Recanalization）失敗（此為十二指腸閉鎖主因），而是與產前小腸局部腸繫膜血管血流中斷缺血有關。\n\n【核心考點】\n空迴腸閉鎖（Jejunoileal atresia）的血管成因假說與分型。Type IIIb 稱為 Apple-peel atresia，伴有大片腸繫膜缺損和螺旋狀盤繞的遠端小腸。",
+      "key_point": "Grosfeld Type IIIb 空迴腸閉鎖特徵為遠端小腸繞單一動脈螺旋盤繞，稱為蘋果皮（Apple-peel）或聖誕樹畸形。",
+      "flashcard_front": "先天性小腸閉鎖 (Jejunoileal atresia) / Type IIIb 特徵病理命名 / 差別與十二指腸閉鎖",
+      "flashcard_back": "Type IIIb 特徵是遠端小腸繞血管呈螺旋狀，稱為「蘋果皮 (Apple-peel)」或「聖誕樹」畸形。病因為產前血管意外，不同於十二指腸閉鎖的再管腔化失敗。",
+      "flashcard_summary": "小腸閉鎖 Type IIIb -> 呈螺旋狀盤繞，稱蘋果皮或聖誕樹畸形，主因為產前血管缺血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n先天性支氣管肺發育異常中，若病灶具有「與正常氣道交通」且「含氣並容易因單向活瓣效應過度膨脹」的特性，便極易因局部高壓破裂，引發自發性氣胸。\n\n【選項詳解】\n- A. 錯誤。先天性肺葉氣腫（CLE）因局部支氣管軟骨發育缺陷形成單向瓣膜，使氣體只進不出，導致受累肺葉極度充氣膨脹，壓迫周邊組織，極易因肺泡壁破裂引發氣胸。\n- B. 錯誤。支氣管源性囊腫（Bronchogenic cyst）若與鄰近氣管支氣管樹相通，在感染或劇烈咳嗽下，囊腫內壓力增加，破裂可導致氣胸。\n- C. 正確。游離肺（Pulmonary sequestration）是指發育異常的無功能肺實質組織。其關鍵解剖學特徵在於「不與正常的氣管支氣管樹相通」，且「由體循環的主動脈分支直接供血」。由於游離肺本身通常不含氣體，為一實體或囊性實質塊，因此臨床上最不容易破裂引發自發性氣胸。\n- D. 錯誤。先天性肺呼吸道畸形（CPAM）由大量大小不等的異常囊腫組成，這些囊腔與正常支氣管系統相通，囊內充滿空氣且易反覆感染，是新生兒自發性氣胸的常見病因。\n\n【核心考點】\n游離肺（Pulmonary sequestration）的病理生理。分葉內型（Intralobar）與葉外型（Extralobar）均由體循環主動脈供血，且不與正常氣道相通，故不含氣，最不易發生氣胸。",
+      "key_point": "游離肺因由體循環主動脈直接供血且不與正常支氣管樹通連，故不含氣，最不易引發氣胸。",
+      "flashcard_front": "游離肺 / Pulmonary sequestration / 血管供應與氣道通連特點 / 氣胸風險",
+      "flashcard_back": "游離肺由「體循環主動脈」分支供血，且「不與正常氣道相通」。因其通常不含氣，故極不易發生氣胸。",
+      "flashcard_summary": "游離肺 -> 體循環供血且不通氣道，不含氣，極少引發氣胸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題所述患者有「小腸息肉症」，且臨床圖片展示了口唇、口腔黏膜及面部的黑色素沉著（Mucocutaneous hyperpigmentation）。此為典型的普茲-傑格斯症候群（Peutz-Jeghers Syndrome, PJS）特徵。\n\n【選項詳解】\n- A. 錯誤。PTEN 基因突變常導致 Cowden 症候群，臨床以多發性皮膚錯構瘤、甲狀腺腫瘤及乳腺癌高發為特徵，非 PJS 主要致病基因。\n- B. 正確。普茲-傑格斯症候群（PJS）是一種體染色體顯性遺傳病，其最主要的致病基因缺損為位於第19對染色體上的抑癌基因 **STK11**（又稱 **LKB1**）。\n- C. 錯誤。P53 基因突變與 Li-Fraumeni 症候群（多發性肉瘤、乳癌、腦瘤等）相關。\n- D. 錯誤。APC 基因突變是家族性大腸腺瘤性息肉症（FAP）的根源，突變會導致大腸內長出成百上千個腺瘤性息肉，但患者口唇不會出現黑色素斑。\n\n【核心考點】\nPeutz-Jeghers Syndrome (PJS) 的臨床三聯徵：胃腸道錯構瘤性息肉、皮膚黏膜色素沉著、癌症風險增加。致病基因：STK11 (LKB1)。",
+      "key_point": "普茲-傑格斯症候群（PJS）的特徵是口唇色素沉著與胃腸錯構瘤息肉，最常見的致病基因為 STK11。",
+      "flashcard_front": "普茲-傑格斯症候群 (PJS) / 口唇色素斑與腸道息肉類型 / 致病基因",
+      "flashcard_back": "臨床表現為口唇黏膜色素斑伴胃腸道「錯構瘤性」息肉。其最常見的致病基因為抑癌基因 STK11 (LKB1)。",
+      "flashcard_summary": "PJS -> 口唇色素沉著、錯構瘤息肉，突變基因為STK11 (LKB1)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

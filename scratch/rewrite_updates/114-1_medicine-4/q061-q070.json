@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-4.json",
+  "dataset_id": "114-1_medicine-4",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-4_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題問思覺失調症相關敘述何者錯誤，重點在流行病學、遺傳風險、內科共病與生育相關名詞。官方答案採 A，關鍵在於「fertility rate」若被解讀為生理生殖能力，思覺失調症患者並沒有明確生理性不孕；臨床上較常見的是因社會功能、婚姻率、疾病負擔與藥物副作用造成實際生育數下降。\n\n【選項詳解】\n- A. 錯誤。思覺失調症患者的實際生育表現可低於一般人口，但這不等同於生理生殖力本身必然下降；若題目使用 fertility rate 指生物學上的生殖能力，說患者生殖力低於一般人口容易造成概念錯置，因此官方以此為錯誤敘述。\n- B. 正確。思覺失調症患者常合併代謝症候群、心血管疾病、糖尿病與感染等內科問題，且因負性症狀、認知功能受損、醫療可近性不足或溝通困難，未診斷的身體疾病比例偏高。\n- C. 正確。思覺失調症有明顯遺傳貢獻，同卵雙胞胎一致率約 40-50%，明顯高於異卵雙胞胎，但未達 100%，代表環境與非共享因素也很重要。\n- D. 正確。父親年齡較高時，精子細胞分裂次數增加，新生突變累積機會上升，子代罹患思覺失調症的風險會增加。\n\n【核心考點】\n思覺失調症具多基因遺傳風險，同卵雙胞胎一致率約半數；高齡父親與新生突變會增加子代風險。患者常有內科共病與診斷不足，生育相關題目須區分實際生育數下降與生理生殖能力下降。",
+      "key_point": "思覺失調症同卵雙胞胎一致率約 40-50%，高齡父親會增加子代風險；生育題要分辨實際生育表現與生理生殖能力。",
+      "flashcard_front": "思覺失調症：遺傳、內科共病與生育陷阱",
+      "flashcard_back": "同卵雙胞胎一致率約 40-50%；高齡父親增加子代風險；患者常有未診斷內科共病。實際生育數下降不代表生理生殖力必然下降。",
+      "flashcard_summary": "schizophrenia -> concordance 約 40-50%、高齡父親風險上升、內科共病常被漏診；fertility 需看語義。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": [
+        "A 的 fertility rate 語義易與實際生育數混淆，已依官方答案邏輯保留。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題問雙相情緒障礙症何者錯誤，主要考病程復發性、第二型轉第一型的比例、ECT 適應症與發病年齡。雙相障礙是高度復發的情緒疾患，單次發作後終生不再復發並不常見，因此 C 的「大約有一半只發作一次」不符合典型病程。\n\n【選項詳解】\n- A. 正確。Bipolar II 以輕躁症發作與重鬱發作為特徵，多數個案診斷後短期內不會轉為 bipolar I；確實有少數日後出現完整躁症而改診斷，但不是多數。\n- B. 正確。電痙攣療法可用於嚴重鬱期、具精神病症狀或強烈自殺風險的鬱期，也可用於嚴重躁期、激躁或藥物反應不佳者。\n- C. 錯誤。雙相情緒障礙症具有高復發性，多數患者在第一次躁症、輕躁症或鬱症發作後仍會再發；說約一半患者只發作一次後不再復發，會低估此病長期追蹤與維持治療的重要性。\n- D. 正確。雙相情緒障礙症常在青少年晚期到成年早期發病，平均發病年齡通常早於單相重度憂鬱症。\n\n【核心考點】\n雙相情緒障礙症是高復發性疾病，治療上需重視維持治療與復發預防；ECT 可用於嚴重躁期或鬱期。Bipolar II 可轉為 bipolar I，但短期內不是多數。",
+      "key_point": "雙相情緒障礙症高度復發，不能把它視為多數只發作一次的疾病；ECT 可處理嚴重躁期或鬱期。",
+      "flashcard_front": "雙相障礙：病程與 ECT",
+      "flashcard_back": "雙相障礙多會復發，需長期追蹤與維持治療；ECT 可用於嚴重躁期、嚴重鬱期、自殺高風險或藥物反應不佳情境。",
+      "flashcard_summary": "bipolar disorder -> 高復發、發病年齡較早、ECT 可治嚴重躁鬱期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n題目問與壓力反應最相關、俗稱壓力荷爾蒙的內分泌系統。壓力刺激會活化下視丘-腦下垂體-腎上腺軸，最終使腎上腺皮質分泌皮質醇；皮質醇就是臨床與生理學上常稱的壓力荷爾蒙，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。性荷爾蒙系統主要調節生殖、第二性徵、性功能與部分情緒行為，並非急慢性壓力反應中分泌皮質醇的主軸。\n- B. 錯誤。腸胃神經胜肽會影響食慾、胃腸蠕動與腦腸軸反應，但它不是俗稱壓力荷爾蒙的主要內分泌來源。\n- C. 正確。壓力使下視丘分泌 CRH，促使腦下垂體前葉分泌 ACTH，ACTH 再刺激腎上腺皮質分泌 cortisol；這條 HPA axis 是壓力反應的核心內分泌軸。\n- D. 錯誤。血清素系統是重要神經傳導系統，參與情緒、睡眠、食慾與焦慮調節，但題目問的是分泌壓力荷爾蒙的內分泌軸，而不是神經傳導物質系統。\n\n【核心考點】\n壓力反應的內分泌主軸是 HPA axis：CRH -> ACTH -> cortisol。考題看到壓力荷爾蒙，優先連結腎上腺皮質分泌的皮質醇。",
+      "key_point": "壓力荷爾蒙是 cortisol，來源路徑為 HPA axis：CRH 刺激 ACTH，再促進腎上腺皮質分泌 cortisol。",
+      "flashcard_front": "壓力反應的主要內分泌軸？",
+      "flashcard_back": "HPA axis：下視丘 CRH -> 腦下垂體 ACTH -> 腎上腺皮質 cortisol。Cortisol 是常說的壓力荷爾蒙。",
+      "flashcard_summary": "stress hormone -> HPA axis -> cortisol。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n題目問纖維肌痛症候群藥物治療何者最不適當。纖維肌痛的疼痛與中樞敏感化、睡眠與情緒因素有關，治療常使用 pregabalin、SNRI 或三環抗鬱劑等；長期使用鴉片類或麻醉性止痛藥療效有限且風險高，因此 A 不適當。\n\n【選項詳解】\n- A. 錯誤。Narcotics 或 opioids 不是纖維肌痛解除疼痛的首選；此類藥物有耐受、依賴、成癮、過度鎮靜與 opioid-induced hyperalgesia 風險，且對中樞敏感化型疼痛效果不佳。\n- B. 正確。Pregabalin 可調節電壓依賴性鈣離子通道，降低興奮性神經傳導物質釋放，常用於纖維肌痛的疼痛、睡眠與敏感化症狀控制。\n- C. 正確。抗鬱劑如 duloxetine、milnacipran 或 amitriptyline 可增強下行疼痛抑制路徑，也能處理合併憂鬱、焦慮或睡眠困擾，因此在治療中扮演重要角色。\n- D. 正確。一般止痛藥有時可作為輔助，尤其當患者合併局部肌骨疼痛時可嘗試；但它們通常不是處理纖維肌痛中樞敏感化的主要藥物。\n\n【核心考點】\n纖維肌痛的藥物治療重點是中樞疼痛調節，如 pregabalin、SNRI 或 TCA；鴉片類止痛藥不宜作為首選，因為長期風險高且對中樞敏感化疼痛效益有限。",
+      "key_point": "纖維肌痛優先考慮 pregabalin、SNRI 或 TCA；narcotics/opioids 因療效有限與依賴風險，不作為首選。",
+      "flashcard_front": "纖維肌痛：哪類止痛藥不適合當首選？",
+      "flashcard_back": "Narcotics/opioids 不宜作首選；治療重點是 pregabalin、duloxetine/milnacipran、amitriptyline 與非藥物介入。",
+      "flashcard_summary": "fibromyalgia -> central sensitization -> pregabalin/SNRI/TCA；avoid opioid first-line。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題問焦慮性疾患何者錯誤，考分類、盛行率、起病年齡與性別分布。焦慮疾患是常見精神疾病，許多類型在青少年或成年早期起病，且流行病學上多數焦慮疾患女性盛行率高於男性，因此 D 的「男性大於女性」錯誤。\n\n【選項詳解】\n- A. 正確。焦慮性疾患包含廣泛性焦慮症、恐慌症、特定畏懼症、社交焦慮症等，這些疾病共同特徵是過度恐懼、焦慮或逃避行為。\n- B. 正確。美國大型流行病學研究顯示，焦慮性疾患在精神疾病中盛行率很高，常列為最常見的精神疾患類別之一。\n- C. 正確。許多焦慮疾患起病年齡偏早，例如特定畏懼症與社交焦慮症常始於兒少或青少年時期，恐慌症與廣泛性焦慮症也常在成年早期出現。\n- D. 錯誤。大多數焦慮疾患的女性盛行率高於男性，常見估計約為男性的 1.5-2 倍；男性大於女性並不是典型流行病學分布。\n\n【核心考點】\n焦慮疾患常見、起病年齡偏早，且多數類型女性盛行率高於男性。考題看到性別分布，焦慮與憂鬱類疾病多要想到女性風險較高。",
+      "key_point": "多數焦慮性疾患女性盛行率高於男性，且常於青少年或成年早期起病。",
+      "flashcard_front": "焦慮性疾患：盛行率與性別",
+      "flashcard_back": "焦慮性疾患是常見精神疾患，包含 GAD、恐慌症、畏懼症等；多數類型女性盛行率高於男性，起病多在青少年或成年早期。",
+      "flashcard_summary": "anxiety disorders -> common, early onset, female predominance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題問偷竊癖何者錯誤。偷竊癖屬衝動控制相關診斷，核心是反覆無法抗拒偷竊衝動，行竊前緊張增加，行竊後感到愉悅、滿足或張力解除；行為通常不是為了金錢利益，也不是經過仔細計畫的犯罪行為，因此 D 錯誤。\n\n【選項詳解】\n- A. 正確。偷竊癖患者在偷竊前常感到張力升高，偷竊後出現釋放、滿足或愉悅感，這是衝動控制障礙的重要特徵。\n- B. 正確。偷竊癖常與情緒疾患、焦慮疾患、物質使用或其他衝動控制問題共病，臨床評估時需一併篩檢。\n- C. 正確。臨床個案中女性比例較高，雖然盛行率估計受就醫與法律系統樣本影響，但考試常以女性較常見作為記憶點。\n- D. 錯誤。偷竊癖的行竊是衝動性、難以抗拒且常非計畫性；若是為了經濟利益、報復、妄想命令或仔細規劃犯罪，就不符合典型偷竊癖的診斷邏輯。\n\n【核心考點】\n偷竊癖的診斷關鍵是衝動性偷竊：行竊前張力升高，行竊後張力解除或愉悅；動機不是金錢利益或計畫性犯罪。",
+      "key_point": "偷竊癖是衝動性、非計畫性的偷竊，常見行竊前緊張、行竊後張力解除，且可與情緒疾患共病。",
+      "flashcard_front": "偷竊癖：行為特徵",
+      "flashcard_back": "Kleptomania 是無法抗拒偷竊衝動；行竊前張力升高，行竊後釋放或滿足。不是為金錢利益，也不是仔細規劃犯罪。",
+      "flashcard_summary": "kleptomania -> impulse, tension before theft, relief after theft, not planned profit crime。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題問血管性失智症何者錯誤，考常見度、年齡性別、血管危險因子與病程型態。血管性失智症多與中風、高血壓、糖尿病、心血管疾病等相關，典型病程可呈階梯式退化；流行病學上男性較常見，因此 B 說常見於女性錯誤。\n\n【選項詳解】\n- A. 正確。血管性失智症約占失智症 15-30%，常被列為僅次於阿茲海默症的常見失智症類型。\n- B. 錯誤。血管性失智症與腦血管病變高度相關，男性通常較常見；選項說好發於 60-70 歲可接受，但「常見於女性」不符合考試常用流行病學描述。\n- C. 正確。血管性失智症患者常有高血壓、糖尿病、高血脂、心房顫動、冠心病或中風病史，這些危險因子會造成多發梗塞或慢性腦白質缺血。\n- D. 正確。阿茲海默症多為緩慢漸進退化；血管性失智症可在腦血管事件後突然下降，之後短暫穩定，再因新的血管事件階梯式惡化。\n\n【核心考點】\n血管性失智症是第二常見失智症類型，和腦血管危險因子密切相關；病程常呈階梯式退化，流行病學上男性較常見。",
+      "key_point": "血管性失智症常見於有腦血管危險因子的患者，病程可階梯式下降，且男性較常見。",
+      "flashcard_front": "血管性失智症：病程與危險因子",
+      "flashcard_back": "血管性失智症與高血壓、糖尿病、中風和心血管疾病相關；常呈階梯式退化，男性較常見，是常見失智症類型。",
+      "flashcard_summary": "vascular dementia -> vascular risks, stepwise decline, male predominance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題問 DSM-5 中神經認知障礙評估的 cognitive domain 何者錯誤。DSM-5 列出的六大認知範疇包括複雜注意、執行功能、學習與記憶、語言、知覺-動作功能、社會認知；定向感雖是精神狀態檢查常評估項目，但不是 DSM-5 單列的認知範疇，因此 D 錯誤。\n\n【選項詳解】\n- A. 正確。執行功能是 DSM-5 認知範疇之一，涵蓋規劃、決策、錯誤修正、心智彈性與工作記憶等能力。\n- B. 正確。語言是認知範疇之一，包含命名、流暢度、語意理解、語法與表達能力。\n- C. 正確。社會認知是 DSM-5 認知範疇之一，包含辨識情緒、理解他人意圖、社交判斷與行為適切性。\n- D. 錯誤。定向感是臨床精神狀態檢查的重要內容，可反映譫妄或嚴重認知障礙，但 DSM-5 神經認知障礙的六大 cognitive domain 並未把 orientation 單獨列為一項。\n\n【核心考點】\nDSM-5 神經認知障礙六大認知範疇是複雜注意、執行功能、學習與記憶、語言、知覺-動作功能、社會認知；定向感屬臨床檢查項目，不是單列 domain。",
+      "key_point": "DSM-5 神經認知障礙六大 domain 不包含定向感；orientation 是 MSE 常評估項目。",
+      "flashcard_front": "DSM-5 神經認知障礙六大 cognitive domain",
+      "flashcard_back": "複雜注意、執行功能、學習與記憶、語言、知覺-動作功能、社會認知。定向感不是單列 domain。",
+      "flashcard_summary": "DSM-5 neurocognitive domains -> attention, executive, learning/memory, language, perceptual-motor, social cognition；not orientation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": [
+        "舊解析開頭有殘留雜訊，已在 update 中移除並重寫。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題問興奮劑引起精神病的症狀與處理何者錯誤。Amphetamine、methamphetamine 或 cocaine 等興奮劑可造成被害妄想、幻覺、激躁與觸幻覺；治療以停用物質、支持性照護、benzodiazepine 控制激躁與短期抗精神病藥物為主。題目官方答案為 A，重點在視幻覺不是最典型或最常見的精神病症狀。\n\n【選項詳解】\n- A. 錯誤。興奮劑誘發精神病常見被害妄想與聽幻覺，也可有觸幻覺；把視幻覺列為最常見會誤導對典型表現的判斷。\n- B. 正確。妄想與幻覺是興奮劑所致精神病的主要精神病性症狀，臨床上可與急性思覺失調症樣表現相似。\n- C. 正確。蟲爬感 formication 是典型觸幻覺，常見於 cocaine 或 amphetamine 類中毒，患者可能因覺得皮下有蟲而反覆搔抓造成皮膚傷害。\n- D. 正確。急性精神病或激躁可短期使用抗精神病藥物，例如 haloperidol；同時需處理生命徵象、脫水、高熱、橫紋肌溶解風險與物質戒斷或中毒狀態。\n\n【核心考點】\n興奮劑誘發精神病以妄想、聽幻覺與觸幻覺較具代表性，formication 是高產出考點；急性期可短期使用 antipsychotics 控制精神病症狀。",
+      "key_point": "興奮劑誘發精神病常見被害妄想、聽幻覺與 formication；急性期可短期使用抗精神病藥物。",
+      "flashcard_front": "Stimulant-induced psychosis：典型症狀與治療",
+      "flashcard_back": "常見妄想、聽幻覺、觸幻覺 formication；可短期用 haloperidol 等 antipsychotics，並處理中毒與自律神經問題。",
+      "flashcard_summary": "stimulant psychosis -> delusion/hallucination/formication；short-term antipsychotics。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n48 歲長期每天喝烈酒者因胰臟炎住院後突然停酒，3 天後出現失眠、焦躁、定向感喪失且不認得家人。停酒後 48-72 小時出現急性意識混亂與定向障礙，是酒精戒斷譫妄的典型時間與臨床表現，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。Wernicke 腦病變源於 thiamine 缺乏，典型三聯徵是意識混亂、眼球運動異常與共濟失調；它可發生於慢性酒癮者，但本題最關鍵線索是停酒第 3 天的戒斷時序與譫妄。\n- B. 錯誤。急性震顫是酒精戒斷早期表現，常在停酒後數小時出現，以手抖、焦慮、失眠與自律神經亢進為主；若進展到定向感喪失與不認得家人，已超過單純 tremulousness。\n- C. 正確。酒精戒斷譫妄，又稱 delirium tremens，通常在停酒後 48-72 小時發生，表現為急性意識混亂、定向障礙、激躁、幻覺與自律神經亢進，是需立即處理的醫療急症。\n- D. 錯誤。酒精性持續性失智是長期酒精相關腦傷造成的慢性認知退化，不會以停酒 3 天後急性發作的譫妄型態呈現。\n\n【核心考點】\n酒精戒斷時間軸：數小時可見震顫與焦慮，24-48 小時可有癲癇，48-72 小時要警覺酒精戒斷譫妄；急性定向障礙與意識混亂提示 delirium tremens。",
+      "key_point": "長期飲酒者停酒後 48-72 小時出現急性定向障礙與意識混亂，要診斷酒精戒斷譫妄。",
+      "flashcard_front": "酒精戒斷譫妄：發生時間與表現",
+      "flashcard_back": "Delirium tremens 多在停酒後 48-72 小時發生，出現急性意識混亂、定向障礙、激躁、幻覺與自律神經亢進。",
+      "flashcard_summary": "alcohol withdrawal delirium -> 48-72 hr after cessation, confusion, disorientation, autonomic hyperactivity。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

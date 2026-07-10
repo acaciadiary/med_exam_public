@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n膽囊積水（gallbladder hydrops）是指在無膽結石或機械性梗阻的情況下，膽囊發生急性非感染性擴張。此病症最經典與川崎氏症（Kawasaki disease）相關，而在兒童其他全身性感染（如鏈球菌咽炎）或長期接受全靜脈營養（TPN）導致膽汁淤積時也可能發生。官方因題目設計爭議，將B、C、D均列為給分選項。\n\n【選項詳解】\n- A. 川崎氏症(Kawasaki disease)：為極經典會合併膽囊積水（hydrops of the gallbladder）的全身性血管炎，通常在病程第一週內出現，多數可自行緩解，因此此選項是最可能合併的。\n- B. 鏈球菌咽炎(streptococcal pharyngitis)：雖然有報告指出A群鏈球菌感染可引發反應性膽囊積水，但相對少見，官方認定為最不可能合併的選項之一。\n- C. 肥胖(obesity)：肥胖本身是膽結石（cholelithiasis）與慢性膽囊炎的危險因子，但極少直接導致急性的膽囊積水（hydrops），官方認定為最不可能合併的選項之一。\n- D. 全靜脈營養(total parenteral nutrition)：長期使用TPN會因缺乏腸道進食刺激膽囊收縮素（CCK）分泌，導致膽汁淤積（biliary sludge）與膽囊擴張，但其生理機轉與急性的 gallbladder hydrops 不同，官方認定為最不可能合併的選項之一。\n\n【核心考點】\n兒童膽囊積水（gallbladder hydrops）的最經典臨床病因為川崎氏症（Kawasaki disease），多數不需手術，隨原發病控制而消退。",
+      "key_point": "掌握兒童急性膽囊積水（gallbladder hydrops）的最經典關聯病因為川崎氏症。",
+      "flashcard_front": "膽囊積水 (gallbladder hydrops) / 最常合併之兒童疾病 / 臨床處置",
+      "flashcard_back": "最常合併川崎氏症（Kawasaki disease），屬於急性非發炎性膽囊擴張，通常會隨原發病控制自行消退，以保守觀察治療為主。",
+      "flashcard_summary": "膽囊積水(gallbladder hydrops)最常合併川崎氏症；鏈球菌咽炎、肥胖、TPN極少合併",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正為 B、C、D 均給分；膽囊積水最典型關聯仍為 Kawasaki disease，題目問法與選項造成爭議。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n兒童夜尿（nocturnal enuresis）是指在夜間睡眠中發生不自主的尿床現象。臨床上診斷夜尿症有明確的年齡與頻率標準，需與正常的生理發育進程區分。\n\n【選項詳解】\n- A. 男生的發生率高於女生：正確。流行病學統計顯示，不論是原發性或次發性夜尿，男童的盛行率皆顯著高於女童（約為2:1）。\n- B. 須排除其他造成夜尿的可能原因：正確。診斷夜尿症時，必須排除如糖尿病、尿崩症、泌尿道感染、脊髓病變、癲癇或睡眠呼吸中止症等次發性原因。\n- C. 診斷定義為4歲以上仍有夜間不自覺排尿：最不適當（正確答案）。根據DSM-5及國際小兒尿失禁協會（ICCS）標準，夜尿症的診斷年齡標準為「5歲」以上（發育年齡至少5歲），且每週至少發生2次，持續至少3個月。4歲幼兒的控制膀胱能力仍在發育中，不在此診斷範疇。\n- D. 有家族或遺傳傾向：正確。夜尿症具有明顯的遺傳性，若父母雙方小時候皆有夜尿，孩子罹病的機率高達約70%。\n\n【核心考點】\n兒童夜尿症（nocturnal enuresis）的診斷定義。關鍵在於發育年齡需達5歲以上，且需排除器質性病因，男生盛行率高於女生，並有顯著的遺傳傾向。",
+      "key_point": "兒童夜尿症的診斷年齡標準為5歲以上，且男童盛行率高於女童，具家族遺傳性。",
+      "flashcard_front": "兒童夜尿症 (nocturnal enuresis) / 診斷年齡標準 / 流行病學特徵",
+      "flashcard_back": "診斷標準為發育年齡滿5歲以上，每週夜間不自主遺尿2次以上並持續3個月，盛行率男生大於女生，且有強烈家族遺傳傾向。",
+      "flashcard_summary": "夜尿症診斷年齡需滿5歲以上 + 每週≥2次持續3個月 + 男生多於女生 + 有遺傳傾向",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n紫斑性腎炎（HSPN）是過敏性紫斑症（IgA vasculitis）最常見且決定長期預後的併發症。掌握其篩檢、切片指引、臨床表現及早期用藥的效果是兒科腎臟學的核心。\n\n【選項詳解】\n- A. 腎臟切片的適應症包括:每日尿中蛋白質流失大於1克、高血壓、腎功能惡化：正確。當HSPN患者出現腎病症候群範圍的蛋白尿（>1 g/day）、腎功能惡化（eGFR下降）或頑固性高血壓時，需安排腎切片以評估病理分級並指導免疫抑制劑治療。\n- B. 約50%的兒童紫斑症會侵犯腎臟,其腎臟的病理變化幾乎與IgA腎病變相同,無法區分：正確。約30-50%的HSP患者會出現腎臟受累（HSPN）。在病理學上，HSPN與IgA腎病變（IgAN）同樣以系膜區IgA沉積為特徵，光學與電子顯微鏡下幾乎無法區分。\n- C. 出現紫斑的初期立即使用類固醇,可以預防日後腎炎的發生或減輕其嚴重度：最不適當（正確答案）。多項隨機對照臨床試驗及Meta分析已證實，在過敏性紫斑症初期預防性給予類固醇，並不能有效降低日後發生腎炎的機率或減輕腎臟受損的嚴重度。類固醇主要用於緩解胃腸道與關節症狀。\n- D. 大多數起始表現為血尿合併輕微蛋白尿或無蛋白尿,無需治療而自動痊癒：正確。多數HSPN患者臨床表現為孤立性鏡檢下血尿，或伴隨輕微蛋白尿，預後極佳，通常只需密切追蹤，多數會在數月內自癒。\n\n【核心考點】\n過敏性紫斑症（HSP）的照護原則：早期預防性使用類固醇並不能預防腎炎的發生。HSPN的病理與IgA腎病變極相似，切片指標包括重度蛋白尿與腎功能惡化。",
+      "key_point": "過敏性紫斑症（HSP）初期使用類固醇無法預防紫斑性腎炎的發生，腎切片指引包含蛋白尿大於1克/天。",
+      "flashcard_front": "過敏性紫斑症 (HSP) / 類固醇預防腎炎效果 / HSPN 腎切片適應症",
+      "flashcard_back": "早期使用類固醇「無法」預防腎炎發生。HSPN與IgA腎病變病理幾乎相同；切片指引包括：蛋白尿>1g/day、高血壓、腎功能惡化。",
+      "flashcard_summary": "HSP初期類固醇 -> 無法預防腎炎；HSPN與IgA腎病變病理極相似；切片指引為蛋白尿>1g/day",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題描述一名10歲男孩長期血尿，並有顯著的家族腎衰竭病史（舅舅洗腎），且合併神經性聽力障礙與眼部病變（圓錐形晶狀體）。這是典型的遺傳性腎炎三聯徵，指向 Alport 症候群。\n\n【選項詳解】\n- A. IgA nephropathy：為最常見的兒童原發性腎絲球腎炎，臨床以反覆肉眼血尿為主，但不會伴隨感音性聽力障礙與圓錐形晶狀體等眼耳異常。\n- B. thin basement membrane disease：薄基底膜病（良性家族性血尿）雖有家族血尿史，但預後良好，極少進展至洗腎，且無眼耳受累的臨床表現。\n- C. Alport syndrome：正確。Alport症候群是因第四型膠原蛋白（type IV collagen, α3/α4/α5鏈）基因突變引起的遺傳性腎炎，常呈X染色體顯性遺傳。其典型三聯徵包括：進行性腎功能衰竭（血尿、蛋白尿）、雙側感音性聽力障礙、以及眼部病變（特別是前圓錐形晶狀體 anterior lenticonus）。\n- D. focal segmental glomerulosclerosis：局灶節段性腎絲球硬化主要以腎病症候群為表現，與第四型膠原蛋白異常引起的特異性眼耳表現無關。\n\n【核心考點】\nAlport 症候群的病生理與臨床三聯徵：第四型膠原蛋白基因突變，臨床表現為遺傳性腎炎（進行性洗腎）、感音性聽力障礙、以及前圓錐形晶狀體（anterior lenticonus）。",
+      "key_point": "Alport 症候群是由第四型膠原蛋白突變引起，臨床特徵為血尿、聽力障礙與前圓錐形晶狀體。",
+      "flashcard_front": "Alport 症候群 (Alport syndrome) / 遺傳與分子病因 / 臨床三聯徵",
+      "flashcard_back": "由第IV型膠原蛋白基因突變所致，常為X染色體顯性遺傳。典型三聯徵為：進行性腎炎（血尿/洗腎）、感音性聽力障礙、前圓錐形晶狀體（anterior lenticonus）。",
+      "flashcard_summary": "Alport syndrome -> Type IV collagen突變(常為X-linked) + 遺傳性腎炎/血尿 + 雙側聽力障礙 + 前圓錐形晶狀體",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n兒童異位性皮膚炎（atopic dermatitis）是一種慢性、復發性的發炎性皮膚病，具有特定的好發部位與皮損型態。本題要求辨識最不屬於其特徵的皮膚表徵。\n\n【選項詳解】\n- A. 搔癢(pruritus)：是異位性皮膚炎最核心、不可或缺的特徵（常被形容為「不癢就不是濕疹」），搔抓常導致皮損惡化。\n- B. 脫屑(scaling)：在慢性或亞急性期的病灶中非常常見，代表皮膚屏障受損、角質層代謝異常。\n- C. 苔癬化(lichenification)：是反覆搔抓、磨擦後導致皮膚變厚、紋理加深的慢性期特徵，常見於年長兒童的手肘折側、膝窩等處。\n- D. 风疹块(wheal)：最少出現（正確答案）。風疹塊（膨疹）是蕁麻疹（urticaria）的特徵性皮損，由真皮淺層微血管擴張及滲透性增加所致，通常在24小時內消退。雖然異位性皮膚炎患者可能合併其他過敏症，但風疹塊並非其本身的典型皮膚表現。\n\n【核心考點】\n兒童異位性皮膚炎的診斷要件與典型皮損（搔癢、乾燥脫屑、苔癬化）；風疹塊（wheal）為蕁麻疹之核心表現，非異位性皮膚炎之特徵。",
+      "key_point": "異位性皮膚炎的核心皮損為搔癢、脫屑與慢性期的苔癬化；風疹塊為蕁麻疹的典型表現，非本病特徵。",
+      "flashcard_front": "異位性皮膚炎 (atopic dermatitis) / 診斷皮損特徵 / 風疹塊 (wheal) 鑑別",
+      "flashcard_back": "典型皮損包括極度搔癢、乾燥脫屑與苔癬化。風疹塊（膨疹）為蕁麻疹特徵，非異位性皮膚炎的典型表現。",
+      "flashcard_summary": "異位性皮膚炎特徵 -> 搔癢、脫屑、苔癬化；風疹塊(wheal)為蕁麻疹病灶，極少出現在本病中",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n紅斑性狼瘡（SLE）患者會產生多種自體抗體。評估病情時，需要區分用於「診斷特異性」的抗體與用於「追蹤疾病活動度及腎炎併發症」的抗體。\n\n【選項詳解】\n- A. anti-SSA 及anti-SSB antibody：常見於乾燥症（Sjögren syndrome）及 SLE 患者，與新生兒紅斑性狼瘡（neonatal lupus）及先天性心臟傳導阻滯有關，但無法反映疾病活動度或腎炎風險。\n- B. anti-centromere antibody：抗著絲點抗體主要與全身性硬化症（systemic sclerosis，特別是限制型/CREST症候群）相關，非 SLE 特異性抗體。\n- C. anti-dsDNA antibody：正確。抗雙股 DNA 抗體是 SLE 的高度特異性抗體，其效價（titer）與 SLE 疾病活動度密切相關。當抗體效價升高且伴隨補體（C3, C4）下降時，極易併發或預示狼瘡腎炎（lupus nephritis）的急性發作。\n- D. anti-smith antibody：抗 Smith（Sm）抗體是 SLE 特異性最高（>99%）的診斷抗體，但其效價在病程中相對穩定，不隨疾病活動度波動，亦不直接用於預測腎炎發作。\n\n【核心考點】\n自體抗體在 SLE 的臨床應用：Anti-Sm 特異性最高但與活動度無關；Anti-dsDNA 與疾病活動度及狼瘡腎炎（lupus nephritis）高度相關。",
+      "key_point": "Anti-dsDNA 抗體效價與 SLE 疾病活動度及狼瘡腎炎發作密切相關；Anti-Sm 為特異性高但與活動度無關的診斷標記。",
+      "flashcard_front": "SLE 自體抗體 / 疾病活動度與腎炎關聯 / 診斷特異性抗體比較",
+      "flashcard_back": "Anti-dsDNA 抗體與疾病活動度及狼瘡腎炎密切相關，常伴隨補體下降；Anti-Sm 抗體特異性最高，但與活動度無關。",
+      "flashcard_summary": "SLE活動度與腎炎指標 -> Anti-dsDNA升高 + 補體C3/C4降低；診斷最特異但與活動度無關 -> Anti-Sm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n幼年特發性關節炎（JIA）是指16歲以下發病、原因不明且持續6週以上的關節炎。臨床分類是根據疾病起始前6個月內受累的關節數量。官方更正說明C與D皆不適當並給分。\n\n【選項詳解】\n- A. 發病於小於16歲的兒童：適當。JIA 的診斷年齡標準即為小於 16 歲。\n- B. 關節炎的症狀要持續6週以上：適當。為了排除感染引起的暫時性關節炎，症狀必須持續 6 週以上方可確診。\n- C. 最常見的JIA類型是少關節炎型(oligoarthritis)：最不適當（官方給分答案）。雖然在西方國家少關節炎型（oligoarthritis）是最常見類型，但在亞洲（如台灣）流行病學顯示，全身型（systemic JIA）或伴隨附著點炎相關的關節炎（ERA）盛行率也極高，甚至超越少關節炎型。因此此敘述存在地域與族群差異。\n- D. 疾病開始的6週內少於或等於5個關節發炎,屬於少關節炎型(oligoarthritis)：最不適當（官方給分答案）。少關節炎型的定義是在「疾病起始的前6個月內（first 6 months）」累及「少於或等於4個」關節（1至4個關節受累）。選項中寫「6週內」與「少於或等於5個（應該是≤4個）」皆與國際診斷標準不符。\n\n【核心考點】\n幼年特發性關節炎（JIA）的定義與分類：定義為小於16歲且病程持續6週以上。少關節炎型（oligoarthritis）的定義為前6個月內侵犯4個（含）以下的關節。",
+      "key_point": "幼年特發性關節炎（JIA）定義為<16歲且持續≥6週。少關節炎型定義為病程前6個月受累關節≤4個。",
+      "flashcard_front": "幼年特發性關節炎 (JIA) / 基本確診標準 / 少關節炎型 (oligoarthritis) 定義",
+      "flashcard_back": "診斷標準：發病年齡小於16歲且關節炎持續大於等於6週。少關節炎型定義為：起病前6個月內，受累關節數少於或等於4個（1-4個）。",
+      "flashcard_summary": "JIA基本定義 -> <16歲且持續≥6週；少關節炎型(oligoarthritis) -> 前6個月受累關節≤4個(而非5個)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正為 C、D 均給分；D 的少關節炎型定義同時錯在前 6 週與小於等於 5 個關節。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n兒童與青少年最常見的惡性骨腫瘤為骨肉瘤（osteosarcoma）與伊文氏肉瘤（Ewing sarcoma）。兩者在好發年齡、遺傳關聯及好發骨骼部位有明顯差異。官方認定C與D皆有誤並給分。\n\n【選項詳解】\n- A. 骨肉瘤(osteosarcoma)好發於急速生長的青少年,罹病個案的身高一般屬同齡層中較高者：適當。骨肉瘤好發於青春期骨骼快速發育期，患者平均身高常高於同齡均值，且多發生在長骨生長板附近的幹骺端（metaphysis）。\n- B. 帶有RB1基因生殖細胞系突變(germline RB1 gene mutation)的孩子,罹患骨肉瘤的機率較同齡層高：適當。遺傳性視網膜母細胞瘤（由 RB1 基因突變引起）的倖存者，日後罹患第二種癌症的風險極高，其中最常見的即為骨肉瘤。\n- C. 10歲以下兒童的骨腫瘤,伊文氏肉瘤(Ewing sarcoma)的發生率較骨肉瘤高：最不適當（官方給分答案）。在所有兒童與青少年惡性骨腫瘤中，不論年齡層（包括10歲以下），骨肉瘤的整體發生率皆高於伊文氏肉瘤。\n- D. 長骨幹骺處(metaphyses of long bone)是伊文氏肉瘤(Ewing sarcoma)的好發位置：最不適當（官方給分答案）。伊文氏肉瘤最典型的好發部位是長骨的「骨幹（diaphysis）」或骨幹骺交界處，以及扁平骨（如骨盆腔）。長骨幹骺處（metaphysis）則是骨肉瘤（osteosarcoma）的典型好發位置。\n\n【核心考點】\n兒童惡性骨腫瘤的鑑別：骨肉瘤好發於長骨幹骺端（metaphysis），與青春期快速生長、RB1基因突變有關；伊文氏肉瘤好發於骨幹（diaphysis）或骨盆，其整體盛行率低於骨肉瘤。",
+      "key_point": "骨肉瘤好發於長骨幹骺端，與RB1突變有關，發生率高於伊文氏肉瘤；伊文氏肉瘤典型好發於骨幹或扁平骨。",
+      "flashcard_front": "兒童骨肉瘤 (osteosarcoma) vs. 伊文氏肉瘤 (Ewing sarcoma) / 好發部位與發生率比較",
+      "flashcard_back": "骨肉瘤發生率較高，好發於長骨幹骺端（metaphysis），與生長快速及RB1突變相關。伊文氏肉瘤較少見，典型好發於骨幹（diaphysis）與骨盆。",
+      "flashcard_summary": "骨肉瘤 -> 好發幹骺端(metaphysis) + 發生率較高 + RB1關聯；伊文氏肉瘤 -> 好發骨幹(diaphysis)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正為 C、D 均給分；Ewing sarcoma 好發骨幹或骨幹骺交界，長骨幹骺端較支持 osteosarcoma。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n兒童癌症在早期症狀常不具特異性，但特定腫瘤侵犯特定部位時會產生具診斷線索的症狀。本題要求指出臨床表現敘述不正確的兒童癌症。\n\n【選項詳解】\n- A. 白血病:臉色蒼白、身上多處瘀青或出血點、發燒等：適當。白血病細胞在骨髓內增生抑制正常造血，導致紅血球減少（蒼白）、血小板減少（瘀青出血點）及免疫下降伴隨發燒。\n- B. 神經母細胞瘤:肢體疼痛、貧血、浣熊眼等：適當。神經母細胞瘤常轉移至骨骼（引起肢體關節痛）及骨髓（引起貧血）。轉移至眼眶骨周圍會造成局部出血，呈現雙眼眶周圍瘀青的「浣熊眼」（raccoon eyes）。\n- C. 視網膜母細胞瘤:白瞳、斜視、視力下降等：適當。瞳孔後方腫瘤反射光線會呈現「貓眼樣白瞳症」（leukocoria），常伴隨眼肌協調不良引起的斜視與視力受損。\n- D. 肝母細胞瘤:腹部腫塊、血尿、高血壓等：最不適當（正確答案）。肝母細胞瘤主要表現為無痛性右上腹腫塊、腹脹、食慾不振等。而「血尿、高血壓」合併腹部腫塊是「腎母細胞瘤（Wilms tumor / nephroblastoma）」的典型臨床表現，因為腫瘤壓迫腎臟血管刺激腎素分泌引發高血壓，侵犯集尿系統引發血尿。\n\n【核心考點】\n常見兒童癌症的特徵症狀鑑別：神經母細胞瘤常見浣熊眼與骨痛；視網膜母細胞瘤見白瞳症；肝母細胞瘤表現為肝臟腫大與腹部腫塊，而高血壓與血尿則是腎母細胞瘤（Wilms 腫瘤）的特徵。",
+      "key_point": "肝母細胞瘤主要為無痛性腹部腫塊，無血尿與高血壓；血尿、高血壓合併腹部腫塊是腎母細胞瘤（Wilms 腫瘤）的特徵。",
+      "flashcard_front": "肝母細胞瘤 (hepatoblastoma) vs. 腎母細胞瘤 (Wilms tumor) / 臨床症狀鑑別點",
+      "flashcard_back": "肝母細胞瘤表現為右上腹無痛腫塊。腎母細胞瘤（Wilms 腫瘤）表現為腹部腫塊，且常因腎動脈壓迫刺激腎素釋放引起高血壓，以及腫瘤侵犯尿路引發血尿。",
+      "flashcard_summary": "肝母細胞瘤 -> 右上腹無痛腫塊；腎母細胞瘤(Wilms tumor) -> 腹部腫塊 + 側支壓迫致高血壓 + 血尿",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n兒童癌症的輔助診斷與病理分析高度依賴特異性的腫瘤標記（tumor markers）與實驗室檢查。本題要求指出不適當的癌症與檢查配對。\n\n【選項詳解】\n- A. 肝母細胞瘤:human chorionic gonadotropin(hCG)：最不適當（正確答案）。肝母細胞瘤（hepatoblastoma）最特異且最重要的血清腫瘤標記是「甲型胎兒蛋白（α-Fetoprotein, AFP）」，約90%以上患者會顯著升高。雖然極少數分泌 hCG 的肝母細胞瘤會導致性早熟，但 hCG 絕非肝母細胞瘤的常規診斷或主要對應指標。\n- B. 生殖細胞瘤:α-Fetoprotein(AFP)：適當。非精原細胞性生殖細胞瘤（如卵黃囊腫瘤 yolk sac tumor）會顯著分泌 AFP，為臨床上重要的診斷與追蹤指標。\n- C. 神經母細胞瘤:尿液vanillylmandelic acid(VMA)：適當。神經母細胞瘤源於交感神經鏈，常分泌兒茶酚胺代謝產物。收集24小時尿液檢測 VMA 與 HVA 是診斷神經母細胞瘤的經典指標。\n- D. 急性淋巴性白血病:骨髓細胞遺傳學(染色體)檢查：適當。骨髓穿刺及染色體/細胞遺傳學檢查（如檢測 t(12;21) 或 t(9;22) 費城染色體）對急性淋巴性白血病（ALL）的危險度分級與預後評估至關重要。\n\n【核心考點】\n兒童腫瘤標記之臨床應用：肝母細胞瘤與部分生殖細胞瘤主要對應甲型胎兒蛋白（AFP）；神經母細胞瘤檢測尿液兒茶酚胺代謝物（VMA/HVA）；白血病需行骨髓染色體與細胞遺傳學檢查。",
+      "key_point": "肝母細胞瘤對應的黃金指標是甲型胎兒蛋白（AFP），而非 hCG；尿液 VMA 是診斷神經母細胞瘤的常用兒茶酚胺代謝物標記。",
+      "flashcard_front": "兒童常見癌症 / 特異性實驗室檢查 / 血清與尿液腫瘤標記配對",
+      "flashcard_back": "肝母細胞瘤核心標記為 AFP（非hCG）。神經母細胞瘤檢測尿液 VMA/HVA（兒茶酚胺代謝物）。卵黃囊生殖細胞瘤檢測 AFP。白血病需做骨髓染色體檢查評估預後。",
+      "flashcard_summary": "肝母細胞瘤主要腫瘤標記 -> AFP(甲型胎兒蛋白)；神經母細胞瘤 -> 尿液VMA/HVA；生殖細胞瘤(卵黃囊) -> AFP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

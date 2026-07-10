@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n結核菌素試驗（TST）使用 PPD 造成遲發型過敏反應；曾接種 BCG 的人也可能因交叉反應而呈陽性，因此 TST 無法可靠區分潛伏結核感染與 BCG 接種後反應。需要加做較不受 BCG 影響、針對結核分枝桿菌特異抗原的檢驗。\n\n【選項詳解】\n- A. 反轉錄聚合酶鏈鎖反應（reverse transcriptase-PCR）主要用於偵測 RNA 或將 RNA 反轉錄後放大，常見於病毒或基因表現分析；它不是臨床用來區分 TST 陽性來自結核感染或 BCG 反應的常規檢驗。\n- B. 丙型干擾素釋放試驗（IFN-γ release assays, IGRAs）會以 ESAT-6、CFP-10 等結核分枝桿菌特異抗原刺激病人 T 細胞，再測量 IFN-γ 釋放。這些抗原不存在於 BCG 疫苗株，因此能減少 BCG 造成的偽陽性干擾。\n- C. 北方點墨法（northern blotting）是偵測特定 RNA 的實驗室方法，不是診斷潛伏結核感染或排除 BCG 影響的臨床工具。\n- D. 腫瘤壞死因子釋放試驗（TNF-α release assays）不是標準結核篩檢或確認檢驗；雖然 TNF-α 參與肉芽腫免疫反應，但不能用來取代 IGRA 區分 BCG 反應。\n\n【核心考點】\nTST 會受 BCG 接種影響；IGRA 使用 BCG 疫苗株缺乏的 ESAT-6、CFP-10 等抗原，可用於提高結核感染判讀的特異性。",
+      "key_point": "TST 陽性且有 BCG 接種史時，IGRA 因使用 ESAT-6、CFP-10 等特異抗原，可降低 BCG 偽陽性干擾。",
+      "flashcard_front": "TST 陽性 + BCG 接種史：下一步用哪個檢驗區分潛伏結核感染？",
+      "flashcard_back": "使用 IFN-γ release assays（IGRA）；其抗原如 ESAT-6、CFP-10 不存在於 BCG 疫苗株。",
+      "flashcard_summary": "TST 受 BCG 干擾 -> IGRA 用結核特異抗原提高判讀特異性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n嬰兒誤食受污染蜂蜜後出現乏力性麻痺與呼吸困難，重點是蜂蜜可能含有肉毒桿菌孢子。一歲以下嬰兒腸道菌叢尚未成熟，孢子可在腸道萌發並產生肉毒毒素；毒素阻斷神經肌肉接合處乙醯膽鹼釋放，使肌肉無力，嚴重時影響呼吸肌。\n\n【選項詳解】\n- A. 艱難梭菌（Clostridium difficile）多與抗生素使用後腸道菌叢改變有關，毒素 A、B 造成水瀉與偽膜性結腸炎；它不會造成嬰兒食蜂蜜後的乏力性麻痺。\n- B. 破傷風梭菌（Clostridium tetani）產生 tetanospasmin，阻斷 GABA 與 glycine 等抑制性神經傳導物質釋放，造成肌肉強直與痙攣性麻痺，而不是鬆軟無力。\n- C. 肉毒桿菌（Clostridium botulinum）可由蜂蜜中的孢子進入嬰兒腸道後產毒。肉毒毒素切割 SNARE 蛋白，阻斷乙醯膽鹼釋放，造成下行性無力、吸吮差、便祕與呼吸肌麻痺。\n- D. 產氣莢膜梭菌（Clostridium perfringens）可造成氣性壞疽或食物中毒腹瀉，主要與 alpha toxin 或腸毒素相關；蜂蜜嬰兒肉毒症與其無關。\n\n【核心考點】\n嬰兒不應食用蜂蜜，因為可能攝入肉毒桿菌孢子；肉毒毒素阻斷乙醯膽鹼釋放，造成乏力性麻痺。",
+      "key_point": "嬰兒蜂蜜相關乏力性麻痺要想到 Clostridium botulinum；毒素阻斷 ACh 釋放而影響骨骼肌收縮。",
+      "flashcard_front": "嬰兒吃蜂蜜後便祕、吸吮差、乏力性麻痺：最可能是哪種細菌？",
+      "flashcard_back": "Clostridium botulinum；孢子在嬰兒腸道產生肉毒毒素，阻斷乙醯膽鹼釋放。",
+      "flashcard_summary": "蜂蜜 + 嬰兒乏力性麻痺 -> 肉毒桿菌毒素阻斷 ACh 釋放",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\nPBPs 是細菌細胞壁肽聚醣交聯所需的轉肽酶，也是 β-lactam 類抗生素的共同作用標的。PBP 突變會降低 β-lactam 與酵素的結合能力，進而產生抗藥性。本題問「最不可能」受 PBP 突變影響的藥物類別，因此要找不作用在細胞壁 PBP 的藥物。\n\n【選項詳解】\n- A. 頭孢菌素（cephalosporins）屬於 β-lactam 類，會結合 PBPs 並抑制細胞壁交聯；PBP 結構改變可降低其藥效。\n- B. 碳青黴烯（carbapenems）也是 β-lactam 類，作用標的同樣是 PBPs；若 PBP 親和力下降，可能使細菌對此類藥物較不敏感。\n- C. 單酰胺菌素（monobactams）如 aztreonam 仍屬 β-lactam 類，會作用於 PBPs，故 PBP 突變可影響其抗菌效果。\n- D. 磺胺類藥物（sulfonamides）抑制二氫蝶酸合成酶（DHPS），干擾葉酸合成與核酸生成；它不以 PBP 為標的，所以 PBP 突變最不會造成對磺胺類的抗藥性。\n\n【核心考點】\nβ-lactam 類藥物共同指向 PBPs；磺胺類藥物走葉酸合成路徑，抗藥性來源通常是 DHPS 改變、藥物攝入下降或旁路增加，而不是 PBP 改變。",
+      "key_point": "PBP 突變影響 β-lactam 類抗生素；磺胺類作用於葉酸合成，與 PBP 無直接關係。",
+      "flashcard_front": "PBP 突變最不會造成哪類抗生素抗藥性？",
+      "flashcard_back": "磺胺類；它抑制 DHPS 與葉酸合成，不是作用在 PBPs。",
+      "flashcard_summary": "PBP 改變 -> 影響 β-lactam；不影響磺胺類葉酸路徑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問退伍軍人菌屬感染「最不適當」的敘述，要選出錯誤描述。Legionella pneumophila 是水生、胞內寄生的革蘭氏陰性桿菌，常存在於冷卻水塔、熱水系統與空調相關氣霧中，可造成肺炎型退伍軍人症，也可造成較輕微的龐提亞克熱。\n\n【選項詳解】\n- A. BCYE agar 常用於培養退伍軍人菌屬：此敘述合理。BCYE 培養基含 L-cysteine 與鐵，是 Legionella 培養的重要條件。\n- B. 退伍軍人菌屬為革蘭氏陽性桿菌：此敘述錯誤。Legionella 是革蘭氏陰性桿菌，只是一般革蘭氏染色常染得不明顯，可用銀染或其他檢驗輔助辨識。\n- C. 好發於夏末至秋天、天氣溫暖的季節：此敘述合理。溫暖季節水系統與空調使用增加，環境條件有利於菌體及其宿主阿米巴增殖，因此病例常在夏秋較多。\n- D. 可造成龐提亞克熱（Pontiac fever）：此敘述合理。Pontiac fever 是 Legionella 引起的自限性、類流感疾病，通常沒有肺炎；退伍軍人症則是較嚴重的肺炎型感染。\n\n【核心考點】\nLegionella 是革蘭氏陰性桿菌，培養需 BCYE（L-cysteine、鐵），臨床可呈退伍軍人症或龐提亞克熱。",
+      "key_point": "Legionella 不是革蘭氏陽性桿菌；它是革蘭氏陰性桿菌，常需 BCYE 培養。",
+      "flashcard_front": "Legionella 感染：BCYE、季節性、Pontiac fever 都對，哪個描述錯？",
+      "flashcard_back": "說它是革蘭氏陽性桿菌是錯的；Legionella 是革蘭氏陰性桿菌。",
+      "flashcard_summary": "Legionella -> 革蘭氏陰性桿菌，BCYE 培養，可致 Pontiac fever",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目比較細菌毒素經短暫 100°C 加熱後是否容易失活。蛋白質性外毒素通常會因加熱而變性，尤其神經毒素容易失去活性；相對地，革蘭氏陰性菌的內毒素 LPS 或 LOS 主要是脂多醣結構，耐熱性強，不易被短暫煮沸破壞。\n\n【選項詳解】\n- A. 大腸桿菌（E. coli）內毒素是 LPS，屬革蘭氏陰性菌外膜成分，耐熱性很高；短暫 100°C 加熱不容易使其失活。\n- B. 金黃色葡萄球菌 TSST-1 是超抗原外毒素，雖為蛋白質，但葡萄球菌相關毒素常具相當熱穩定性；與破傷風神經毒素相比，不是本題中較易被短暫煮沸去活化的選項。\n- C. 破傷風痙攣毒素（tetanospasmin）是 Clostridium tetani 產生的蛋白質性神經外毒素，熱敏感，短暫高溫可使其蛋白構形受破壞而失去活性。\n- D. 腦膜炎雙球菌脂寡糖（LOS）是 Neisseria meningitidis 的內毒素樣外膜成分，性質接近 LPS，耐熱性強，不容易因短暫 100°C 加熱而失活。\n\n【核心考點】\n外毒素多為蛋白質，較容易被熱破壞；內毒素 LPS/LOS 是脂多醣，短暫加熱仍可保有生物活性。",
+      "key_point": "破傷風痙攣毒素是熱敏感的蛋白質外毒素；LPS/LOS 類內毒素則高度耐熱。",
+      "flashcard_front": "短暫 100°C 加熱較易失活的是外毒素還是內毒素？本題對應哪個毒素？",
+      "flashcard_back": "蛋白質外毒素較易失活；破傷風痙攣毒素（tetanospasmin）符合。",
+      "flashcard_summary": "蛋白質外毒素較怕熱 -> tetanospasmin；LPS/LOS 耐熱",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問細菌結構與致病角色「最不適當」的敘述，要選出錯誤描述。鞭毛主要負責運動，莢膜可抵抗吞噬，生物膜協助附著與抗藥；纖毛或菌毛則多與黏附有關，但其粗細與鞭毛不同。\n\n【選項詳解】\n- A. 鞭毛（flagellum）為細菌運動相關構造：此敘述合理。鞭毛由 flagellin 組成，可旋轉推動細菌移動，與趨化性也有關。\n- B. 莢膜（capsule）與細菌抵禦吞噬作用有關：此敘述合理。莢膜可阻礙補體調理與吞噬細胞辨識，例如肺炎鏈球菌與肺炎克雷伯菌的莢膜都與致病力相關。\n- C. 細菌生物膜（biofilm）結構可協助細菌黏附於組織或醫用器材：此敘述合理。生物膜由胞外基質包覆菌群，可附著於導管、人工關節、瓣膜等表面，並增加免疫清除與抗生素治療難度。\n- D. 纖毛（fimbriae）是比鞭毛直徑更大的毛髮狀結構，並與黏附能力有關：此敘述前半錯誤。纖毛確實可介導黏附，但它比鞭毛短且細，不是直徑更大的構造。\n\n【核心考點】\n細菌表面構造要分清功能與形態：鞭毛較長且較粗，負責運動；纖毛/菌毛較短且較細，常負責黏附宿主細胞或表面。",
+      "key_point": "纖毛/菌毛負責黏附，但直徑比鞭毛小；說纖毛比鞭毛更粗是錯誤描述。",
+      "flashcard_front": "細菌纖毛與鞭毛：哪個較細？各自主要功能是什麼？",
+      "flashcard_back": "纖毛/菌毛較細，主要介導黏附；鞭毛較粗長，主要負責運動。",
+      "flashcard_summary": "纖毛細且黏附；鞭毛粗長且運動",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n肺纖維性囊腫患者的呼吸道分泌物黏稠，綠膿桿菌容易形成慢性感染。題目問最能幫助綠膿桿菌在宿主形成聚落的毒力因子，關鍵是黏液型綠膿桿菌會大量分泌胞外多醣，形成生物膜，使菌體黏附、聚集並逃避免疫與抗生素。\n\n【選項詳解】\n- A. 絲氨酸蛋白酶（serine protease）可分解宿主蛋白並造成組織傷害，偏向促進侵襲與破壞；它不是 CF 肺部長期定殖最關鍵的生物膜基質。\n- B. 海藻酸鹽（alginate）是黏液型綠膿桿菌產生的胞外多醣，可形成厚實生物膜，幫助細菌附著於氣道、抵抗吞噬與抗生素，是 CF 肺部慢性定殖的重要因子。\n- C. 綠膿桿菌素（pyocyanin）是藍綠色色素，可產生活性氧、傷害上皮並抑制纖毛清除；它有助於組織傷害，但不是形成聚落與生物膜的主要結構材料。\n- D. 鋅金屬基質蛋白酶（zinc metalloprotease）如 elastase 可分解彈性蛋白、免疫球蛋白與補體，促進組織傷害；對定殖最直接的因子仍是 alginate 生物膜。\n\n【核心考點】\n肺纖維性囊腫中的綠膿桿菌會呈黏液型，靠 alginate 形成生物膜，進而在呼吸道長期定殖。",
+      "key_point": "CF 肺部綠膿桿菌慢性感染與 alginate 生物膜密切相關，alginate 是定殖與抗清除的關鍵胞外多醣。",
+      "flashcard_front": "肺纖維性囊腫 + 綠膿桿菌慢性定殖：最重要的毒力因子？",
+      "flashcard_back": "海藻酸鹽（alginate）；形成黏液型生物膜，協助附著並抵抗清除。",
+      "flashcard_summary": "CF + Pseudomonas 定殖 -> alginate 生物膜",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題問化膿性鏈球菌毒力因子「最不適當」的敘述，要選出錯誤描述。A 群鏈球菌有多種毒力因子：M protein 抗吞噬，streptolysin O 可溶血並誘發 ASO 抗體，DNase 幫助穿過膿性組織；猩紅熱紅疹則來自致熱外毒素，不是 streptokinase。\n\n【選項詳解】\n- A. M 蛋白質（M protein）可協助此菌躲避吞噬作用：此敘述合理。M protein 可抑制補體 C3b 調理，降低吞噬細胞清除 GAS 的能力。\n- B. 猩紅熱皮膚紅疹主要是因為鏈球菌激酶（streptokinase）所導致：此敘述錯誤。猩紅熱的砂紙樣紅疹與草莓舌來自鏈球菌致熱外毒素（Spe，紅斑毒素），屬超抗原；streptokinase 的作用是活化 plasminogen 成 plasmin，協助溶解纖維蛋白。\n- C. 鏈球菌溶血素 O（Streptolysin O）具抗原性且易被氧破壞：此敘述合理。SLO 是 oxygen-labile 溶血素，可刺激產生 anti-streptolysin O（ASO）抗體，用於近期 GAS 感染評估。\n- D. 去氧核糖核酸酶（DNase）可助長細菌在宿主組織內散播：此敘述合理。DNase 可分解膿液與 NETs 中的 DNA，降低黏稠度，協助細菌在組織中擴散。\n\n【核心考點】\nGAS 毒力因子要配對功能：M protein 抗吞噬、Spe 造成猩紅熱紅疹、SLO 具抗原性且怕氧、DNase 分解 DNA、streptokinase 溶解纖維蛋白。",
+      "key_point": "猩紅熱紅疹由鏈球菌致熱外毒素（Spe）造成；streptokinase 是纖溶相關酵素，不是紅疹來源。",
+      "flashcard_front": "GAS 猩紅熱紅疹由哪個毒力因子造成？streptokinase 做什麼？",
+      "flashcard_back": "紅疹由 Spe 致熱外毒素造成；streptokinase 活化 plasminogen，幫助溶解纖維蛋白。",
+      "flashcard_summary": "猩紅熱紅疹 -> Spe；streptokinase -> 纖溶與擴散",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n甲硝唑是治療專性厭氧菌與部分原蟲的重要藥物。它本身需在厭氧環境中被還原活化，產生可傷害 DNA 的自由基，因此對需要氧氣生長的細菌效果差。鬆脆類桿菌是常見專性厭氧革蘭氏陰性桿菌，對甲硝唑通常敏感。\n\n【選項詳解】\n- A. 可有效治療霍亂：霍亂由 Vibrio cholerae 引起，治療重點是補液；需要抗生素時常用 doxycycline、azithromycin 等，甲硝唑不是主要治療選擇。\n- B. 進入菌體內直接造成毒性：甲硝唑不是一進入細胞就立即有毒性。它需要在厭氧菌內被低氧化還原電位的電子傳遞蛋白還原，才會產生傷害 DNA 的活性中間產物。\n- C. 可治療鬆脆類桿菌（Bacteroides fragilis）感染症：B. fragilis 是腹腔內與骨盆腔感染常見厭氧菌，甲硝唑對其活性佳，是治療厭氧菌感染的重要藥物。\n- D. 對好氧菌很有效：好氧菌缺乏有效活化甲硝唑的厭氧還原環境，且氧氣會競爭電子、降低自由基形成，因此甲硝唑對好氧菌效果不佳。\n\n【核心考點】\n甲硝唑需在厭氧環境被還原活化，主要用於 Bacteroides、Clostridium 等專性厭氧菌與部分原蟲，對好氧菌無效。",
+      "key_point": "Metronidazole 需在厭氧菌內被還原活化並傷害 DNA，可治療 Bacteroides fragilis 等專性厭氧菌。",
+      "flashcard_front": "Metronidazole 對哪類感染有效？為何對好氧菌差？",
+      "flashcard_back": "對專性厭氧菌如 Bacteroides fragilis 有效；它需在厭氧環境被還原活化。",
+      "flashcard_summary": "Metronidazole -> 厭氧還原活化，治療 B. fragilis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n病毒要感染細胞，第一步通常是吸附到宿主細胞受體，接著進入細胞或與細胞膜融合。許多有套膜病毒在外表面具有突起狀醣蛋白，這些醣蛋白負責辨識宿主受體，例如流感病毒 HA、HIV gp120、冠狀病毒 spike 蛋白。\n\n【選項詳解】\n- A. 基質蛋白（matrix protein）通常位於套膜與衣殼之間，參與病毒組裝、出芽與結構穩定，不是最常直接負責宿主受體辨識的表面蛋白。\n- B. 蛋白水解酶（protease）主要負責切割病毒前驅多蛋白，使病毒成熟；例如 HIV protease 影響成熟感染力，但不是入侵細胞時最常用來黏附受體的蛋白。\n- C. 醣蛋白（glycoprotein）位於許多病毒表面，可與宿主細胞受體結合並促進膜融合或內吞，因此是病毒進入細胞最常利用的蛋白類型。\n- D. 核心蛋白（core protein）多位於病毒內部，與核酸包裝或衣殼結構相關；因不位於最外層，通常不直接負責初始吸附與進入。\n\n【核心考點】\n病毒入侵常依賴表面醣蛋白辨識宿主受體；內部結構蛋白與成熟酵素雖重要，但不是多數病毒進入細胞時的主要受體結合工具。",
+      "key_point": "病毒常以表面醣蛋白結合宿主受體並促進進入細胞，如 influenza HA、HIV gp120、coronavirus spike。",
+      "flashcard_front": "病毒最常利用哪類表面蛋白進入宿主細胞？",
+      "flashcard_back": "醣蛋白；它負責結合宿主受體，並常促進膜融合或內吞。",
+      "flashcard_summary": "病毒進入細胞 -> 表面醣蛋白結合宿主受體",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:26+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

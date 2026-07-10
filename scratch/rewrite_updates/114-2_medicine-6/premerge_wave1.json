@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "merge": false,
+  "update_file_count": 5,
+  "question_count": 50,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 43,
+      "notes": [
+        "A 選項把色盲列為主要症狀略不精確，建議人工確認命題措辭。"
+      ]
+    },
+    {
+      "question_number": 48,
+      "notes": [
+        "題幹提及影像但 JSON 未含圖檔，建議合併原圖複核。"
+      ]
+    }
+  ],
+  "errors": []
+}

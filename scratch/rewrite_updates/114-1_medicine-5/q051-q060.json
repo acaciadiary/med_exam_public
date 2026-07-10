@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n肛門廔管（Anal fistula）的 Parks 分類系統是依據廔管管腔與內、外括約肌及肛提肌的解剖空間關係來劃分的，這決定了手術時是否需要切斷部分括約肌及術後大便失禁的風險。\n\n【選項詳解】\n- A. 錯誤。Type 1 代表括約肌間型（Intersphincteric type），廔管只穿過內括約肌，走行於內、外括約肌之間的間隙，不穿過外括約肌，是臨床最常見的類型（約佔70%）。\n- B. 正確。Type 2 代表穿括約肌型（Transsphincteric type），廔管管腔同時穿過內括約肌與外括約肌，斜向進入坐骨直腸窩，再通往臀部皮膚（約佔20%）。\n- C. 錯誤。Type 3 代表括約肌上型（Suprasphincteric type），廔管自括約肌間隙向上延伸，跨越恥骨直腸肌（Puborectalis）上方，再向下穿過肛提肌進入坐骨直腸窩，開口於皮膚。\n- D. 錯誤。Type 4 代表括約肌外型（Extrasphincteric type），廔管起自直腸，直接穿過肛提肌（Levator ani）通往皮膚，完全避開了括約肌群。\n\n【核心考點】\nParks 肛門廔管分類：Intersphincteric (Type 1)、Transsphincteric (Type 2)、Suprasphincteric (Type 3)、Extrasphincteric (Type 4)。Transsphincteric 為穿過內外括約肌者。",
+      "key_point": "Parks 肛門廔管分類中，穿過內外括約肌斜入坐骨直腸窩的類型屬於穿括約肌型（transsphincteric，即Type 2）。",
+      "flashcard_front": "Parks 肛門廔管分類 / Intersphincteric vs Transsphincteric 括約肌關係",
+      "flashcard_back": "Intersphincteric (Type 1) 只穿內括約肌，沿內外括約肌間隙走行；Transsphincteric (Type 2) 同時穿過內、外括約肌。",
+      "flashcard_summary": "肛門廔管Parks分類 -> Type 1為括約肌間型，Type 2為穿括約肌型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n痔瘡橡皮圈結紮術（Rubber band ligation）利用機械性原理阻斷痔瘡根部血流，使其缺血壞死脫落。該治療方法的選擇與齒狀線（Dentate line）的解剖與神經支配密切相關。\n\n【選項詳解】\n- A. 錯誤。血栓性外痔（Thrombosed external hemorrhoid）位於齒狀線以下，由體神經支配，痛覺極為敏感。若對外痔施以結紮，會造成劇烈的術後疼痛，為臨床禁忌。\n- B. 錯誤。血栓性內痔通常合併局部組織急性嵌頓、水腫及壞死，在此急性發炎狀態下直接進行結紮，極易誘發大出血或嚴重感染。\n- C. 錯誤。內外混合痔（Mixed hemorrhoids）包含齒狀線以下的外痔部分。外痔部分因具有體神經痛覺，無法透過結紮法安全切除。\n- D. 正確。內痔（Internal hemorrhoids）位於齒狀線以上，表面覆蓋黏膜，由自主神經（內臟神經）支配，對割裂或結紮引起的痛覺不敏感。橡皮圈結紮術是治療第二度及部分有症狀第三度內痔的主流非手術首選。\n\n【核心考點】\n痔瘡橡皮圈結紮術的應用限制。只適用於齒狀線以上的「內痔」；齒狀線以下的外痔具有體神經痛覺，嚴禁結紮。",
+      "key_point": "橡皮圈結紮術主要利用齒狀線以上內痔無痛覺的特性，套紮使其缺血脫落，外痔因有體神經支配而禁用。",
+      "flashcard_front": "痔瘡橡皮圈結紮術 / 齒狀線與神經支配 / 內痔 vs 外痔適用性",
+      "flashcard_back": "結紮術限用於齒狀線以上的「內痔」（自主神經支配，無痛覺）。齒狀線以下的外痔由體神經支配，痛覺極敏感，禁用此法。",
+      "flashcard_summary": "痔瘡結紮術 -> 僅適用於無痛覺的內痔，有痛覺的外痔禁用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題涉及懷孕期間進行非產科腹腔鏡手術（SAGES 指引）之安全規範與孕期考量。氣腹壓力、二氧化碳蓄積及對子宮的機械性損傷是術中防範重點。\n\n【選項詳解】\n- A. 錯誤。當孕婦發生急性腹痛且臨床高度懷疑闌尾炎或腸阻塞等急症、但影像難以確診時，診斷性腹腔鏡是安全、可被考慮的評估與即時治療手段。\n- B. 錯誤。氣腹引發的二氧化碳氣體吸收入血，可能導致孕婦及胎兒發生高碳酸血症與酸中毒，因此術中必須全程監測呼氣末二氧化碳（EtCO2）或血氣分析，以調整通氣參數。\n- C. 正確。腹腔鏡膽囊切除術為妊娠期膽囊炎患者的首選，且「在懷孕的任何孕期（any trimester）皆可安全施行」，並非只限於第三孕期（third trimester）。事實上，第三孕期因子宮極度膨大，會壓迫下腔靜脈且大幅限縮腹腔鏡操作空間，手術難度最高，臨床上若可選擇，以第二孕期（second trimester）最為安全合適。\n- D. 錯誤。對有症狀的總膽管結石孕婦，在給予適當射線防護下進行 ERCP 取石術，合併腹腔鏡膽囊切除，是有效減少反覆膽道感染的標準方案。\n\n【核心考點】\n孕婦腹腔鏡手術指引（SAGES）。妊娠期腹腔鏡手術可在任何孕期安全進行，但需控制氣腹壓在 10-12 mmHg，以降低對子宮的壓迫與二氧化碳對胎兒的影響。",
+      "key_point": "懷孕期間的腹腔鏡膽囊切除術可以在任何孕期安全進行，並非只限於第三孕期。",
+      "flashcard_front": "孕婦腹腔鏡手術 / SAGES 指引 / 適用孕期限制與術中氣腹監測",
+      "flashcard_back": "可以在任何孕期安全進行，非只限於後期。術中應維持低氣腹壓（10-12 mmHg）並密切監測 CO2 濃度以防胎兒酸中毒。",
+      "flashcard_summary": "孕婦腹腔鏡手術 -> 任何孕期皆可安全進行，術後需維持低氣腹壓與CO2監測。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n消化性潰瘍穿孔（PPU）的手術修補強調封堵穿孔與腹腔徹底灌洗。腹腔鏡修補與傳統開腹修補在手術成效、併發症與操作時間上，隨技術與器械發展已有新的臨床證據。\n\n【選項詳解】\n- A. 錯誤。對於小於 1 公分的穿孔，以可吸收線進行原位縫合，並拉取帶蒂、血流豐富的大網膜覆蓋固定（Graham patch），是腹腔鏡下的標準成熟術式。\n- B. 正確。根據 2001 年以後多項隨機對照臨床試驗（RCT）及 Meta-analysis 數據，隨著腹腔鏡器械發展與外科醫師操作技術的成熟，腹腔鏡下進行穿孔修補與腹腔沖洗所需的手術時間，與傳統開腹手術相比「已無統計學上的顯著差異」，而非「需更多時間」。\n- C. 錯誤。大於 1 公分或周邊組織嚴重纖維化硬化的潰瘍穿孔，直接縫合易致撕裂，此時不論開腹或微創，皆應以血流供應良好的大網膜置入或覆蓋（Omental patch）進行修補。\n- D. 錯誤。腹腔鏡手術因切口小，術後疼痛顯著減輕，傷口感染及術後肺炎等併發症較少，且住院天數明顯縮短。\n\n【核心考點】\nPPU 腹腔鏡修補術與開腹手術的比較。現代腹腔鏡 PPU 修補在手術時間上已與開腹相當，且具有住院短、傷口感染率低的微創優勢。",
+      "key_point": "2001年後的隨機試驗顯示，腹腔鏡消化性潰瘍穿孔修補術的手術時間已與傳統開腹手術相當。",
+      "flashcard_front": "消化性潰瘍穿孔 (PPU) 手術 / 腹腔鏡 vs 開腹修補 / 手術時間與傷口感染併發症",
+      "flashcard_back": "現代腹腔鏡 PPU 修補手術時間已與開腹手術無顯著差異；且腹腔鏡具有術後住院時間較短、傷口感染率較低的微創優勢。",
+      "flashcard_summary": "PPU 手術比較 -> 腹腔鏡與開腹手術時間相當，但腹腔鏡傷口感染少、住院短。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題涉及消化道狹窄、膽尿道引流及心血管支架的臨床介入與術後藥物管理原則。支架的設計（裸金屬、塗藥或塑膠）決定了其通暢度與抗血栓藥物的使用要求。\n\n【選項詳解】\n- A. 錯誤。良性消化道狹窄（如吻合口狹窄）放置支架極易因管壁反應性肉芽組織過度增生而再度狹窄，或發生支架位移，故臨床上不建議首選支架，除非患者為晚期惡性狹窄且餘命不長。\n- B. 錯誤。塑膠支架（Plastic stent）口徑較小，易於置入與取出，常在膽道或泌尿道良性阻塞時作暫時性引流。\n- C. 錯誤。自膨式金屬支架（Bare metal stent）因網格設計可使組織向內生長（Tissue ingrowth）以錨定血管/管腔防止位移，但也因組織過度生長，長久後仍有管腔再度阻塞的風險。\n- D. 正確。冠狀動脈塗藥支架（DES）表面塗有免疫抑制或抗增殖藥物（如 Paclitaxel 或 Sirolimus），旨在抑制內皮細胞過度增殖以防支架內再狹窄，但這也阻礙了正常內皮化的完成，使裸露的金屬格架極易誘發致命的晚期支架內血栓（Stent thrombosis）。因此，患者術後「必須」嚴格接受長期雙重抗血小板藥物治療（DAPT，如阿斯匹靈併用 clopidogrel），而非不需要。\n\n【核心考點】\n塗藥支架（DES）與抗血小板治療。DES 抑制內皮生長防再狹窄，但會增加血栓風險，故必須配合長期的雙重抗血小板藥物（DAPT）治療。",
+      "key_point": "冠狀動脈塗藥支架（DES）因會抑制內皮細胞生長而增加血栓風險，術後必須嚴格接受雙重抗血小板藥物（DAPT）治療。",
+      "flashcard_front": "冠狀動脈塗藥支架 (DES) / 作用機制 / 術後雙重抗血小板 (DAPT) 需求",
+      "flashcard_back": "DES 藉由釋放藥物抑制血管內皮細胞增殖以防再狹窄；但也阻礙血管內皮化，故術後必須嚴格使用 DAPT 以防支架內血栓。",
+      "flashcard_summary": "塗藥支架 DES -> 抑制內皮增殖，防狹窄但易血栓，術後必須配合 DAPT 治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題評估良性骨腫瘤（包括單純性骨囊腫、骨巨大細胞瘤）的病理生理學機制、典型影像學表現與惡性/轉移特性。\n\n【選項詳解】\n- A. 錯誤。單純性骨囊腫（Simple bone cyst）多見於兒童肱骨及股骨近端。當囊腫發生病理性骨折時，骨折的骨皮質碎屑會掉落至積液的囊腔底部，在 X 光下呈現特徵性的「落葉徵（Fallen leaf sign）」。\n- B. 錯誤。骨巨大細胞瘤（GCTB）是由基質細胞（Stromal cells）分泌大量 RANKL，刺激單核前驅細胞分化融合成多核破骨樣巨大細胞（Osteoclast-like giant cells），這與 RANK/RANKL 系統異常活躍密切相關。\n- C. 正確。骨巨大細胞瘤雖然具有局部侵襲性且術後易復發，並有極少數病例會發生肺部良性轉移，但其肺轉移的總體發生率極低，通常僅有「1% 至 9%」，絕非高達 80%。\n- D. 錯誤。多核巨大細胞（Multi-nucleated giant cells）並非骨巨大細胞瘤所獨有，它亦常見於骨動脈瘤樣骨囊腫（ABC）、非骨化性纖維瘤（NOF）及甲狀腺旁腺功能亢進引起的棕色瘤。\n\n【核心考點】\n骨巨大細胞瘤（GCTB）的流行病學與轉移。GCTB 屬交界性/局部侵襲性腫瘤，與 RANKL 訊號通路相關，肺轉移機率僅為 1-9%。",
+      "key_point": "骨巨大細胞瘤屬局部侵襲性良性腫瘤，發生肺部轉移的機率極低，大約僅為 1-9%。",
+      "flashcard_front": "骨巨大細胞瘤 (GCTB) / 肺部轉移機率 / 破骨細胞增生機制",
+      "flashcard_back": "屬局部侵襲性良性瘤，與 RANKL 過度表達刺激破骨細胞分化有關；其肺轉移機率極低（約 1-9%），並非 80%。",
+      "flashcard_summary": "GCTB -> 與RANKL機制相關，具有局部侵襲性，肺轉移率僅1-9%。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n足踝損傷的受損構造與受傷時的足部姿勢（力學機轉）密切相關。足部外傷主要分為內翻型（Inversion）與外翻型（Eversion）兩大受力機制。\n\n【選項詳解】\n- A. 錯誤。內翻（Inversion）合併蹠屈（Plantar flexion）是足踝扭傷最常見的機制，此時力量集中在外側，最易拉扯受損的是外側副韌帶，其中「前距腓韌帶（ATFL）」是最薄弱且最常受傷的韌帶。\n- B. 正確。足部處於內翻（Inversion）位置時，內側的三角韌帶（Deltoid ligament）會處於放鬆或縮短狀態，不會受到張力拉扯。因此，內翻受傷機制下，內側三角韌帶「極不可能」受損或發生內踝撕除性骨折（Avulsion fracture）。三角韌帶損傷或內踝撕除性骨折通常發生在外翻（Eversion）與外旋機制中。\n- C. 錯誤。若外力極大（如車禍或高能量運動創傷），內翻外力在造成外踝骨折後，旋轉外力可造成對側內踝或後踝骨折，形成雙踝或三踝骨折。\n- D. 錯誤。高能量扭傷或合併外旋的外力，可沿脛腓骨骨膜向上傳導，損傷下脛腓聯合韌帶（Syndesmosis），導致關節不穩定。\n\n【核心考點】\n足踝扭傷力學。內翻蹠屈拉扯外側結構（ATFL最易斷裂），內側三角韌帶此時為放鬆狀態；外翻拉扯內側結構（易傷及三角韌帶或造成內踝撕除骨折）。",
+      "key_point": "足踝內翻蹠屈受傷時，內側三角韌帶處於放鬆狀態，因此不會造成三角韌帶的撕除性骨折。",
+      "flashcard_front": "足踝扭傷力學 / 內翻蹠屈機轉 / 外側 ATFL vs 內側三角韌帶受損風險",
+      "flashcard_back": "內翻蹠屈機轉主要拉扯外側前距腓韌帶（ATFL，最常受傷）；內側三角韌帶（Deltoid）在內翻時放鬆，因此不易受傷或發生撕除性骨折。",
+      "flashcard_summary": "足踝內翻損傷 -> 傷及外側前距腓韌帶(ATFL)，內側三角韌帶放鬆不易骨折。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n斷指再植術（Reimplantation）的成功率高度依賴於現場斷肢的正確保存與傷口的止血處理。核心原則是避免細胞缺氧、水腫壞死，以及保護斷端血管。\n\n【選項詳解】\n- A. 錯誤。斷指包裹應使用「生理食鹽水（Saline）」浸潤的無菌紗布，開水非無菌且張力低，易引發組織水腫。此外，包裹後的斷指必須放入雙層容器（隔水）低溫（約 4°C）保存，單純放夾鏈袋不降溫會縮短熱缺血時間。\n- B. 錯誤。斷指不可在無濕潤紗布保護且無低溫環境下直接放入夾鏈袋送醫。\n- C. 錯誤。斷指「絕對不能直接浸泡」在液體（無論是無菌水或冰水）中。低張溶液滲透壓會導致細胞大量吸水腫脹、壞死，損害內皮細胞，造成顯著的再植失敗。\n- D. 正確。對於患者手指殘端（斷指處）的出血，首選且最安全的止血方式是「局部加壓止血」。應盡量避免使用止血帶，以免阻斷近端剩餘血管分支血流，造成更廣泛的殘端組織缺血壞死。\n\n【核心考點】\n斷指保存的「雙袋法」：生理食鹽水濕紗布包裹斷指 -> 放入第一層塑膠袋密封 -> 放入冰水混合物（4°C）容器中。殘端止血首選局部加壓，禁用直接浸泡。",
+      "key_point": "斷指不可直接浸泡於液體中，應隔水低溫保存。殘端出血首選局部加壓止血。",
+      "flashcard_front": "斷指保存與殘端止血 / 雙袋法隔水低溫保存 / 直接浸泡危險性",
+      "flashcard_back": "斷指嚴禁直接浸泡液體（會造成細胞水腫壞死），需生理食鹽水濕紗布包覆後隔水置於 4°C 冰水中；殘端出血首選加壓止血。",
+      "flashcard_summary": "斷指處置 -> 生理食鹽水濕紗布包覆並隔水冰敷，殘端以加壓止血為主，嚴禁直接浸泡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n髕骨脫臼（多為向外側脫位）受到股四頭肌拉力線、髕骨發育高度及局部韌帶穩定性的影響。力學平衡與解剖變異共同決定了脫位的風險。\n\n【選項詳解】\n- A. 錯誤。高位髕骨（Patella alta）指髕骨位置偏高，當膝關節屈曲時，髕骨無法及時滑入股骨滑車溝（Trochlear groove）的軌道中進行骨性穩定，因而大幅增加脫臼風險。\n- B. 錯誤。膝反屈（Genu recurvatum）會改變膝關節過度伸展狀態下的受力軸線，改變股四頭肌的拉力向量，是脫臼的危險因子。\n- C. 正確。Q 角度（Q angle）是髂前上棘至髕骨中心連線，與髕骨中心至脛骨粗隆連線所形成的夾角。Q 角度越大，代表股四頭肌收縮時將髕骨向外側拉扯的分力越大。因此，「較小的 Q 角度」意味著拉力軸線接近直線，髕骨受向外拉扯的力量最小，最不容易導致脫臼。\n- D. 錯誤。髕骨活動度過大（Patellar hypermobility）通常與內側髕股韌帶（MPFL）鬆弛或滑車發育不良有關，會失去正常的限制構造，極易脫位。\n\n【核心考點】\n髕骨脫位力學機制。高位髕骨、大 Q 角度（Q angle 增大）、MPFL 損傷、滑車溝過淺均為髕骨向外脫臼的高危因素；小 Q 角度則是穩定因素。",
+      "key_point": "Q 角度越大，股四頭肌向外拉扯髕骨的力量越大，故較小的 Q 角度最不容易導致髕骨脫臼。",
+      "flashcard_front": "髕骨脫臼 / Q 角度 (Q angle) 定義與大小影響 / 高位髕骨",
+      "flashcard_back": "Q 角度大代表股四頭肌向外拉力大，易致髕骨向外脫臼（小 Q 角為保護因素）。高位髕骨（Patella alta）亦為脫位高危因子。",
+      "flashcard_summary": "髕骨脫臼因素 -> Q角度越大或高位髕骨易脫位，較小的Q角度最不易脫臼。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題描述一位 11 歲、重度肥胖（體重 80 kg）的青少年，表現為髖關節疼痛、跛行、無法內旋翹腳。此為股骨頭骨骺滑脫症（SCFE）的典型臨床樣貌。\n\n【選項詳解】\n- A. 錯誤。發育性髖關節發育不良（DDH）主要在嬰兒期通過篩檢發現，或在兒童開始行走時因長短腳或鴨步跛行診斷，不常在新發於11歲肥胖男童。\n- B. 正確。股骨頭骨骺滑脫症（SCFE）好發於 10-16 歲肥胖青少年。由於體重負荷過重加上青春期激素變化使生長板軟骨變弱，導致股骨頭骨骺相對於股骨頸向後下方滑脫。典型症狀為腹股溝/髖部/膝部轉移痛及跛行。物理檢查可見髖關節內旋與屈曲受限，且屈曲髖關節時，大腿會被迫外旋（Drehmann 徵，導致患者無法翹腳）。\n- C. 錯誤。Osgood-Schlatter 氏病是脛骨結節的骨軟骨炎，主要表現為膝前下方脛骨粗隆處的運動後局限性疼痛與壓痛，髖關節活動不受限。\n- D. 錯誤。Blount 氏病是脛骨近端內側生長板發育異常導致的進行性內翻膝（O型腿），非股骨頭滑脫病變。\n\n【核心考點】\n股骨頭骨骺滑脫症（SCFE）臨床特徵。好發於肥胖青少年、髖/腹股溝或膝部轉移痛、髖關節內旋受限，屈曲時呈強迫外旋狀態（Drehmann's sign）。",
+      "key_point": "SCFE好發於肥胖青少年，典型表現為髖/膝部疼痛伴隨跛行、髖關節內旋受限（無法翹腳）。",
+      "flashcard_front": "股骨頭骨骺滑脫症 (SCFE) / 好發族群與體態 / 髖關節活動限制特點",
+      "flashcard_back": "好發於 10-16 歲肥胖青少年。臨床表現為跛行與髖/膝痛，物理檢查呈現髖關節內旋受限（屈曲時伴自動外旋，致無法翹腳）。",
+      "flashcard_summary": "SCFE -> 好發於肥胖青少年，引發髖/膝痛與跛行，髖關節內旋受限。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

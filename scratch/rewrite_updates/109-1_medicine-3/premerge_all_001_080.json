@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "merge": false,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 38,
+      "notes": [
+        "第38題選項 C 寫 PCC；臨床標準用語通常是 activated PCC（aPCC/FEIBA）或 recombinant activated factor VII，建議人工確認命題是否以 PCC 泛稱 aPCC。"
+      ]
+    },
+    {
+      "question_number": 39,
+      "notes": [
+        "第39題選項 B 指定 heparin 管為假性血小板低下複驗方式；不同資料可能提到 citrate 或其他替代抗凝劑，建議人工確認命題依據。"
+      ]
+    }
+  ],
+  "errors": []
+}

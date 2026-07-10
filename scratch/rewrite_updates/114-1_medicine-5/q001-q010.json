@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n神經性休克（Neurogenic Shock）多由高位脊髓損傷（T6以上）導致交感神經張力急遽喪失，使迷走神經（副交感神經）張力相對佔優勢，從而引起血管舒張、回心血量減少以及心跳變慢。\n\n【選項詳解】\n- A. 正確。交感神經張力喪失導致全身阻力血管與容量血管顯著舒張，外周血管阻力降低，臨床表現為血壓變低。\n- B. 錯誤。與其他多數休克因代償機制導致心跳變快不同，神經性休克因心臟分支的交感神經（T1-T4）受抑，表現為心跳變慢（Bradycardia）或無代償性心跳加快。\n- C. 正確。由於全身靜脈顯著舒張且血液滯留在外周，導致回心血量（Venous Return）及心輸出量顯著減少。\n- D. 正確。臨床上最常見的原因是嚴重外傷引起的脊髓損傷（特別是T6以上的脊髓損傷，導致脊髓休克進而引發神經性休克）。\n\n【核心考點】\n神經性休克的特徵為低血壓伴隨心搏過緩（心跳慢）與皮膚溫暖乾燥。與失血性休克等低血容量性休克（表現為心跳加快、皮膚冰冷）有明顯鑑別。",
+      "key_point": "神經性休克的特徵是低血壓伴隨心搏過緩與皮膚溫暖，與一般休克的心跳加快不同。",
+      "flashcard_front": "神經性休克 / 臨床表徵 / 心跳與血壓變化",
+      "flashcard_back": "表現為血壓降低伴隨心跳變慢（而非代償性變快）及回心血量減少，主因是交感神經張力喪失。",
+      "flashcard_summary": "神經性休克 -> 表現為血壓降低伴隨心搏過緩，常由T6以上高位脊髓損傷引起。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n急診檢傷分類與外傷初級評估（Primary Survey）遵循 ABC（Airway, Breathing, Circulation）原則，優先處理威脅生命安全、瀕臨衰竭的呼吸道與呼吸問題。\n\n【選項詳解】\n- A. 正確。呼吸窘迫且呼吸頻率達 40 次/分鐘（正常值為 12-20 次/分鐘）提示瀕臨呼吸衰竭及嚴重低氧血症，在檢傷分類中屬於最危急的紅色級別，必須立即給予處置。\n- B. 錯誤。左側胸部沒有呼吸聲但無頸靜脈怒張，提示為單純性氣胸（Simple pneumothorax），其緊急性低於已出現嚴重呼吸窘迫的患者；若合併頸靜脈怒張及低血壓則懷疑張力性氣胸，才需立即針刺減壓。\n- C. 錯誤。小腿開放性骨折且有出血，在患者生命徵象未明示衰竭前，其處置優先順序低於直接威脅呼吸道與呼吸功能的緊急狀況。\n- D. 錯誤。患者能高聲叫罵，代表呼吸道維持通暢、神智可進行言語表達，且腦部灌流足夠，生理緊急度最低。\n\n【核心考點】\n外傷現場檢傷分類中，瀕臨呼吸衰竭（如呼吸窘迫、呼吸速率 > 30-40 次/分鐘）之處置優先級高於穩定的單純性氣胸或四肢出血骨折。",
+      "key_point": "外傷檢傷分類中，呼吸窘迫且呼吸頻率 > 30-40次/分屬最危急的紅色級別，優先於單純氣胸或肢體骨折。",
+      "flashcard_front": "外傷急診檢傷 / 優先處置順序 / 呼吸窘迫伴呼吸40次分 vs 單純性氣胸 vs 肢體出血",
+      "flashcard_back": "遵循 ABC 原則，嚴重呼吸窘迫（呼吸速率 40次/分）提示瀕臨呼吸衰竭，優先於單純性氣胸與四肢出血。",
+      "flashcard_summary": "外傷急診檢傷優先順序 -> 嚴重呼吸窘迫（呼吸頻率 40 次/分）優先於單純性氣胸或肢體出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n卡洛氏三角（Calot's triangle，又稱膽囊三角）是膽囊切除術中辨識膽囊血管及膽管結構的重要解剖區域，定位錯誤易造成肝外膽管或血管的誤傷。\n\n【選項詳解】\n- A. 錯誤。右肝動脈為穿過此三角的重要內容物（或變異血管），而非三角的邊界邊框；總膽管位於總肝管與膽囊管匯流處的下方，不構成三角的直接邊界。\n- B. 錯誤。上邊界為肝臟下緣，但內側邊界應為總肝管（Common hepatic duct），而非右肝管（Right hepatic duct）。\n- C. 正確。解剖學上，卡洛氏三角的經典邊界由內側的總肝管（Common hepatic duct）、外側的膽囊管（Cystic duct）以及上方的肝臟下緣（Inferior liver border）所共同圍成。\n- D. 錯誤。腔動脈（Aorta）與總膽管、肝臟下緣並無直接構成此局部解剖三角。\n\n【核心考點】\n卡洛氏三角的解剖界線：總肝管、膽囊管、肝臟下緣。此三角內最重要的內容物為膽囊動脈（Cystic artery）與卡洛氏淋巴結（Mascagni's node）。",
+      "key_point": "卡洛氏三角（Calot's triangle）的邊界由總肝管、膽囊管及肝臟下緣圍成，內有膽囊動脈穿行。",
+      "flashcard_front": "卡洛氏三角 / Calot's triangle / 解剖邊界構成",
+      "flashcard_back": "內側為總肝管，外側為膽囊管，上方為肝臟下緣。",
+      "flashcard_summary": "卡洛氏三角邊界 -> 內側總肝管、外側膽囊管、上方肝臟下緣。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n外科感染症管理中，感染來源控制（Infection Source Control）指利用物理或手術手段直接清除、引流或移除病原體繁殖和毒素釋放的源頭，與全身性抗微生物藥物治療不同。\n\n【選項詳解】\n- A. 正確。有效引流（Drainage）如經皮膿瘍引流或切開引流，是物理清除積膿、控制感染源的核心方式。\n- B. 正確。移除感染區域的異物（Foreign body removal），例如拔除受污染的血管內導管或人工植入物，能破壞細菌生物膜（Biofilm）的避難所。\n- C. 正確。清創（Debridement）可直接切除壞死、無血流灌流的感染組織，減少細菌滋生基質，是來源控制的關鍵步驟。\n- D. 錯誤。使用強效抗生素屬於全身性抗微生物藥物治療（Antimicrobial therapy），主要功能是抑制或殺滅循環及組織中的細菌，並不屬於物理性的「來源控制（Source control）」。\n\n【核心考點】\n外科感染治療的關鍵是來源控制（引流、清創、移除異物）與抗生素治療並行，若未解決感染源，單用抗生素無法穿透膿瘍或生物膜，治療多以失敗告終。",
+      "key_point": "感染來源控制（Source control）是指引流、清創、移除異物等物理性清除手段，抗生素使用屬於藥物治療。",
+      "flashcard_front": "感染來源控制 / Infection source control / 定義與手段 / 抗生素角色",
+      "flashcard_back": "指物理性清除感染源（引流、清創、移除異物），使用抗生素屬於全身藥物治療，不屬於來源控制本身。",
+      "flashcard_summary": "感染來源控制 -> 包含引流、清創、移除異物，不包含抗生素治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n實體器官移植受者因長期使用免疫抑制劑以預防排斥，導致免疫監視（Immune surveillance）功能低下，其癌症發生率顯著高於一般人群。\n\n【選項詳解】\n- A. 正確。器官移植後最常見的惡性腫瘤是皮膚癌（包括鱗狀細胞癌與基底細胞癌），在長期日曬與免疫抑制的共同作用下發生率極高。\n- B. 正確。移植患者若合併B型或C型肝炎病毒感染，由於免疫受抑使得病毒複製活躍，會顯著增加肝細胞癌（HCC）的發生風險。\n- C. 正確。卡波西氏肉瘤（Kaposi sarcoma）與人類第八型疱疹病毒（HHV-8 / KSHV）感染密切相關，在移植後的免疫缺陷狀態下更容易活化發病。\n- D. 錯誤。一旦發生惡性腫瘤，立即且完全停止使用免疫抑制劑會導致移植物發生嚴重急性排斥反應，進而引發器官衰竭。臨床上應採取降低免疫抑制劑劑量，或將現有藥物調整為具有抗腫瘤增殖作用的 mTOR 抑制劑（如 Sirolimus 或 Everolimus）。\n\n【核心考點】\n移植後癌症（Post-transplant malignancy）最常見為皮膚癌與淋巴增殖性疾病（PTLD）。若發生癌症，處置原則是降低藥物劑量或換用mTOR抑制劑，不可貿然完全停藥。",
+      "key_point": "移植後癌症的處理應調降免疫抑制劑劑量或換用具有抗癌效果的mTOR抑制劑，絕不能立即停藥以免引起器官排斥。",
+      "flashcard_front": "器官移植後併發癌症 / 免疫抑制劑調整原則",
+      "flashcard_back": "應降低免疫抑制劑劑量，或更換為 mTOR 抑制劑（如 Sirolimus），不可立即完全停藥以防器官急性排斥衰竭。",
+      "flashcard_summary": "移植後併發癌症處置 -> 降低免疫抑制劑劑量或換用mTOR抑制劑，不可貿然停藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n全靜脈營養（TPN）主要經由中央靜脈或周邊靜脈輸入高濃度營養素，其常見併發症包括管路相關感染、血栓，以及長期腸道未使用所致的代謝與器官功能異常。\n\n【選項詳解】\n- A. 正確。TPN 輸注速度或配方估算不當，容易因水分負荷過度導致全身水腫，或水分輸入不足引發脫水與電解質濃縮。\n- B. 錯誤。長期缺乏食物進入腸道，雖然會引起腸黏膜萎縮（Gut mucosal atrophy）與菌叢轉移，但並不會「誘發腸道阻塞（Bowel obstruction）」。事實上，腸阻塞患者往往是 TPN 的主要適應症。\n- C. 正確。若 TPN 配方中長期未補充足夠的微量元素（如鋅、銅、鉻、硒等），會導致特定微量元素缺乏症（例如缺鋅會引發肢端腸病性皮炎）。\n- D. 正確。長期接受 TPN 容易引發 TPN 相關性膽汁淤積（TPN-associated cholestasis）或脂肪肝，導致膽紅素及轉氨酶（ALT/AST）上升。\n\n【核心考點】\nTPN 的代謝併發症包括血糖異常、電解質不平衡、微量元素缺乏及膽汁淤積性肝功能受損。TPN 會造成腸黏膜萎縮但不會引起機械性或動力性腸阻塞。",
+      "key_point": "TPN 長期使用會導致腸黏膜萎縮與膽汁淤積性肝受損，但不會引起腸道阻塞。",
+      "flashcard_front": "全靜脈營養 (TPN) / 腸道影響 vs 肝臟與微量元素影響",
+      "flashcard_back": "長期使用會引起腸黏膜萎縮與膽汁淤積性肝功能受損，但不會誘發腸阻塞（腸阻塞常為 TPN 的適應症而非併發症）。",
+      "flashcard_summary": "TPN 影響 -> 導致腸黏膜萎縮與膽汁淤積，但不會引起腸道阻塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n再餵食症候群（Refeeding Syndrome）見於長期嚴重營養不良、飢餓或慢性酒精中毒患者，在重新引入營養（尤其是碳水化合物）時，由於胰島素快速且大量分泌，使電解質轉移至細胞內而引發致命的臨床表徵。\n\n【選項詳解】\n- A. 錯誤。再餵食早期，碳水化合物的引入刺激胰島素（Insulin）大量分泌，此時葡萄糖與電解質一同被帶入細胞內。在此過程中，由於持續補充熱量，早期主要的代謝威脅是水鈉滯留、低血磷及相對高血糖（若補充過快），而非低血糖。\n- B. 錯誤。無論是經口進食（Oral）、管灌飲食（Enteral）還是靜脈營養（Parenteral，如 TPN），只要對長期飢餓患者補充熱量過快，皆可能誘發此症候群。\n- C. 錯誤。預防再餵食症候群的首要關鍵是餵食前與期間補充「維生素B1（Thiamine）」以輔助糖類代謝，並遵循「緩慢增量」原則，補充麩醯胺酸（Glutamine）並無預防作用。\n- D. 正確。當胰島素刺激細胞攝取葡萄糖時，磷酸鹽被大量消耗以合成 ATP，導致血清磷急遽下降。嚴重低血磷（Hypophosphatemia）會導致心肌收縮力減弱、心律不整、肌肉溶解甚至心臟驟停。\n\n【核心考點】\n再餵食症候群的病理生理特徵為「低磷、低鉀、低鎂」及鈉水滯留。預防的首要措施是先給予維生素 B1，並以極低熱量起步，漸進式增加。",
+      "key_point": "再餵食症候群主因胰島素大量分泌使磷、鉀、鎂轉入細胞，低血磷是其最典型且致命的併發症。",
+      "flashcard_front": "再餵食症候群 / Refeeding syndrome / 電解質變化與預防",
+      "flashcard_back": "表現為低磷、低鉀、低鎂，可能引起致命心律不整。預防應先給予維生素 B1 (Thiamine)，且熱量補充應從低量漸進增加。",
+      "flashcard_summary": "再餵食症候群 -> 出現低磷、低鉀、低鎂，應預先補維生素B1並緩慢增加熱量。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n聽神經瘤（Acoustic Neuroma），更精確的學名為前庭神經鞘瘤（Vestibular Schwannoma），是源自第8對腦神經（CN VIII）前庭部分的許旺氏細胞良性腫瘤。\n\n【選項詳解】\n- A. 錯誤。此腫瘤雖然被通稱為「聽神經瘤」，但病理生理學上它是源自第 8 對腦神經中的「前庭神經（Vestibular nerve）」，特別是前庭下神經。\n- B. 錯誤。手術切除聽神經瘤時，最常面臨的解剖危險是鄰近的「第七對腦神經（顏面神經 Facial nerve）」受損，導致面部癱瘓；第六對外展神經距離較遠，並非最常見的手術併發症。\n- C. 錯誤。對於直徑小於 3 公分、年長或有手術高風險的患者，立體定位放射手術（Stereotactic radiosurgery，如伽瑪刀）是廣受認可的第一線治療選擇，並非僅用於術後殘留腫瘤。\n- D. 正確。雙側前庭神經鞘瘤（Bilateral vestibular schwannomas）是第二型神經纖維瘤病（Neurofibromatosis type 2, NF2）的特徵性診斷標準。\n\n【核心考點】\n聽神經瘤（前庭神經鞘瘤）源於前庭神經，手術易傷及顏面神經。雙側病變高度提示遺傳性 NF2 基因突變（第22對染色體）。",
+      "key_point": "聽神經瘤實際上源自前庭神經，術後最易受損的鄰近結構為顏面神經。雙側病變是NF2的特徵。",
+      "flashcard_front": "聽神經瘤 / Acoustic neuroma / 神經來源與併發症 / 雙側病變意義",
+      "flashcard_back": "源自第八對腦神經中的前庭神經。手術最常傷及第七對顏面神經。雙側病變為 NF2 的診斷指標。",
+      "flashcard_summary": "聽神經瘤 -> 源自前庭神經，手術易傷顏面神經，雙側病變與NF2相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n毛毛樣血管疾病（Moyamoya Disease，又稱煙霧病）是一種慢性進行性腦血管閉塞性疾病，主要特徵為雙側內頸動脈末端及其分支狹窄，導致顱底代償性側支循環微血管網的形成。\n\n【選項詳解】\n- A. 正確。對於有症狀的成人患者，血管繞道手術（Revascularization surgery，如顳淺動脈-中腦動脈 STA-MCA 直接繞道，或顳肌貼附等間接繞道）能有效重建腦部血流，降低未來發生缺血性或出血性中風的風險。\n- B. 錯誤。此疾病具有明顯的種族偏好，在亞洲人群（特別是日本、韓國、台灣等東亞地區）的盛行率最高，常與 RNF213 基因突變相關。\n- C. 錯誤。毛毛樣血管疾病的診斷標準要求病變呈「雙側性（Bilateral）」。雖然早期可能以單側症狀表現，但最終多會發展為雙側受累。\n- D. 錯誤。病變主要侵犯雙側的「內頸動脈（Internal carotid artery, ICA）末端」以及前大腦動脈（ACA）和中大腦動脈（MCA）的起始段，後大腦動脈（PCA）通常在疾病晚期才可能受累。\n\n【核心考點】\n毛毛樣血管疾病的病理特徵為雙側內頸動脈末端進行性狹窄，好發於亞洲人。臨床主要分為兒童缺血型與成人出血/缺血型，手術重建血流為主要治療。",
+      "key_point": "毛毛樣血管病好發於亞洲人，呈雙側內頸動脈末端進行性狹窄，有症狀者建議接受血管繞道手術。",
+      "flashcard_front": "毛毛樣血管疾病 / Moyamoya disease / 病變血管與亞洲人盛行率 / 首選治療",
+      "flashcard_back": "雙側內頸動脈末端狹窄且好發於亞洲人；有症狀者首選血管繞道手術（血管重建術）以預防中風。",
+      "flashcard_summary": "毛毛樣血管病 -> 雙側內頸動脈末端進行性狹窄，好發於亞洲人，首選血管繞道手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n顱內血管病變中，有些是先天性發育異常或基因突變引起，而有些則是外傷導致結構破損，引發高壓動脈與低壓靜脈系統之間的異常分流。\n\n【選項詳解】\n- A. 錯誤。毛毛樣血管病變（Moyamoya disease）為原因不明的自發性內頸動脈末端慢性閉塞，主要與基因遺傳及自身免疫機制相關，與外傷無涉。\n- B. 錯誤。海綿狀血管瘤/畸形（Cavernous malformation）是一種先天性錯構瘤樣血管畸形，由缺乏平滑肌的擴張血管竇組成，並非外傷引起。\n- C. 正確。頸動脈-海綿竇瘻管（Carotid-cavernous Fistula, CCF）中，直接型（Direct CCF）通常是外傷（如嚴重車禍導致顱底骨折，撕裂內頸動脈海綿竇段或其分支）所致，使高壓動脈血流湧入海綿竇。\n- D. 錯誤。微血管樣血管擴張（Capillary telangiectasia）屬於無症狀的先天性微血管異常擴張，多在影像檢查中偶然發現，與外傷無關。\n\n【核心考點】\n外傷性頸動脈-海綿竇瘻管（Direct CCF）多由顱底骨折引起。典型臨床表現為：搏動性突眼、球結膜水腫與充血、眼部血管雜音（Bruit），診斷首選腦血管造影（DSA）。",
+      "key_point": "頸動脈-海綿竇瘻管（CCF）多由外傷性顱底骨折引起，表現為搏動性突眼與血管雜音。",
+      "flashcard_front": "頸動脈-海綿竇瘻管 / CCF / 成因與典型眼部症狀",
+      "flashcard_back": "多由外傷性顱底骨折引致；典型症狀為搏動性突眼、球結膜充血水腫及眼部搏動性雜音。",
+      "flashcard_summary": "頸動脈-海綿竇瘻管 -> 外傷顱底骨折引起，表現為搏動性突眼與血管雜音。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

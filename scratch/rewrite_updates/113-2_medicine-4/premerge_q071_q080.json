@@ -1,0 +1,17 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "merge": false,
+  "update_file_count": 1,
+  "question_count": 10,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 76,
+      "notes": [
+        "來源資料欄位疑似混入第 77 題：question_text 內含壞死性筋膜炎題目與第 77 題題幹，options 欄位則為 35/45/55/65；未修改題目、選項或答案，詳解依 question_text 中可見的壞死性筋膜炎 A-D 敘述解析。"
+      ]
+    }
+  ],
+  "errors": []
+}

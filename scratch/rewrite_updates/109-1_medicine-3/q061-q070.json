@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n39 歲男性有發燒、持續頭痛、口腔白斑、腦部水腫與極高腦脊髓液開壓，顯微鏡圖示若呈現莢膜酵母菌，最可疑為隱球菌腦膜炎。題目問「最不適當」，治療 4 週後直接停藥會造成復發風險，因為隱球菌腦膜炎需經誘導、鞏固與維持治療。\n\n【選項詳解】\n- A. 正確。口腔白斑提示免疫低下，尤其需考慮 HIV 感染；隱球菌腦膜炎常見於細胞免疫缺陷者，因此安排 HIV 檢驗有助於確認宿主風險與後續抗反轉錄病毒治療時機。\n- B. 正確。Cryptococcus neoformans 為隱球菌腦膜炎常見病原，腦脊髓液開壓明顯升高、頭痛與發燒均相符，顯微鏡常可見具莢膜的酵母菌。\n- C. 正確。急性誘導治療常以 amphotericin B 合併 flucytosine，以提高腦脊髓液清菌速度；之後通常接續 fluconazole 鞏固與維持治療。\n- D. 錯誤。隱球菌腦膜炎完成短期誘導治療後不可直接停藥；通常仍需鞏固治療與長期維持治療，並追蹤免疫恢復與復發風險，4 週即停止過短。\n\n【核心考點】\n隱球菌腦膜炎的線索是免疫低下、頭痛發燒、腦脊髓液開壓升高與莢膜酵母菌；治療不是單一短療程，而是誘導、鞏固、維持三階段。問「最不適當」時，直接停藥是危險陷阱。",
+      "key_point": "隱球菌腦膜炎需評估 HIV，誘導期常用 amphotericin B 加 flucytosine，之後仍需鞏固與維持治療以防復發。",
+      "flashcard_front": "隱球菌腦膜炎：HIV 線索、高 CSF opening pressure、治療療程",
+      "flashcard_back": "口腔白斑與隱球菌腦膜炎要驗 HIV；誘導治療常用 amphotericin B + flucytosine，後續需 fluconazole 鞏固與維持，不能 4 週後直接停藥。",
+      "flashcard_summary": "Cryptococcal meningitis -> test HIV; induction amphotericin B + flucytosine -> consolidation/maintenance, not short-course stop.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n老人因喘與水腫接受利尿劑後，出現反覆昏厥、無脈搏、無血壓且需電擊，題目附圖描述的節律符合 torsades de pointes 這類多形性心室頻脈。利尿劑最常造成鉀、鎂流失，低血鉀會延長再極化與 QT 間期，誘發惡性心律不整。\n\n【選項詳解】\n- A. 錯誤。低血鈉可造成意識混亂、癲癇或昏迷，但不是典型造成 QT 延長與 torsades de pointes 的電解質異常。\n- B. 錯誤。高血鉀常見心電圖變化包括高尖 T 波、PR 延長、QRS 變寬，嚴重時可進展為 sine-wave 或心搏停止；它不是利尿劑後 torsades 的典型原因。\n- C. 錯誤。高血鈣通常縮短 QT 間期，與 torsades 所需的 QT 延長方向相反；嚴重高血鈣較會造成脫水、腎功能惡化與意識改變。\n- D. 正確。低血鉀會延長心室再極化、增加 early afterdepolarization，特別在利尿劑使用後容易與低血鎂一起誘發 torsades de pointes。\n\n【核心考點】\nTorsades de pointes 的高頻誘因是 QT 延長，常由低血鉀、低血鎂、心搏過慢或 QT 延長藥物造成。使用利尿劑後發生反覆昏厥與多形性心室頻脈，要優先想到低血鉀或低血鎂。",
+      "key_point": "利尿劑後 torsades de pointes 常與低血鉀、低血鎂造成 QT 延長有關。",
+      "flashcard_front": "利尿劑後反覆昏厥、多形性 VT/TdP：最可能電解質異常？",
+      "flashcard_back": "低血鉀會延長再極化與 QT 間期，誘發 torsades de pointes；高血鉀多見高尖 T 波與 QRS 變寬，高血鈣則常縮短 QT。",
+      "flashcard_summary": "Diuretic + TdP -> hypokalemia/hypomagnesemia; hypercalcemia shortens QT, hyperkalemia widens QRS.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n承接前題，病人是反覆發作的 torsades de pointes，已給 magnesium sulfate 仍復發。此時可透過增加心跳速率來縮短 QT 與減少 pause-dependent TdP，因此 isoproterenol 加速心跳至 100-120 次/分是合適策略之一；若使用暫時性節律器也需設定較快心率才有抑制效果。\n\n【選項詳解】\n- A. 錯誤。Amiodarone 可延長 QT 間期，對 QT 延長型 torsades 可能使問題惡化；它較常用於其他類型心室頻脈，不適合此情境。\n- B. 錯誤。Lidocaine 對缺血相關單形性心室頻脈較有角色，不能處理本題的 pause-dependent QT 延長機制，也不是 magnesium 後反覆 TdP 的主要處置。\n- C. 正確。Isoproterenol 可提升心率、縮短動作電位與 QT 間期，減少長停頓後的 early afterdepolarization，適用於後天性 QT 延長且無禁忌的反覆 TdP。\n- D. 錯誤。暫時性節律器若要治療反覆 TdP，通常目標是 overdrive pacing，把心率維持在約 90-110 次/分以上；70 次/分太慢，難以有效避免長停頓誘發的發作。\n\n【核心考點】\n反覆 torsades de pointes 先給 magnesium 並校正鉀鎂；若仍發作，可用 isoproterenol 或 overdrive pacing 增加心率。QT 延長型 TdP 避免使用會進一步延長 QT 的抗心律不整藥。",
+      "key_point": "Magnesium 後仍反覆發作的後天性 TdP，可用 isoproterenol 或較高速率暫時 pacing 來縮短 QT、避免長停頓。",
+      "flashcard_front": "TdP 給 magnesium 後仍復發：下一步處置？",
+      "flashcard_back": "後天性 QT 延長的反覆 TdP 可用 isoproterenol 將心率拉到約 100-120/min，或用 overdrive pacing；避免 amiodarone 這類延長 QT 的藥。",
+      "flashcard_summary": "Recurrent TdP after magnesium -> increase heart rate with isoproterenol/overdrive pacing; avoid QT-prolonging drugs.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n糖尿病患者從泰國返台後出現肺炎樣表現與脾臟膿瘍，檢體可見細胞內革蘭氏陰性桿菌，這組線索指向類鼻疽（melioidosis）。類鼻疽常見於東南亞與北澳等地區，危險因子包括糖尿病，病原為 Burkholderia pseudomallei，可造成肺炎、敗血症與多發內臟膿瘍。\n\n【選項詳解】\n- A. 錯誤。Pseudomonas aeruginosa 可造成院內肺炎、燒燙傷或免疫低下感染，但不典型造成「泰國旅遊、糖尿病、肺部浸潤加脾膿瘍」的類鼻疽組合。\n- B. 錯誤。Haemophilus influenzae 可造成社區型肺炎、鼻竇炎、中耳炎或侵襲性感染，但不是東南亞旅遊後多發膿瘍與細胞內革蘭氏陰性桿菌的代表病原。\n- C. 正確。Burkholderia pseudomallei 是類鼻疽病原，生活於土壤與水中，糖尿病患者感染後可出現急性肺炎、敗血症以及肝、脾、前列腺等深部膿瘍。\n- D. 錯誤。Escherichia coli 常造成泌尿道感染、膽道或腹腔感染與敗血症，但其流行病學與臨床型態不如 B. pseudomallei 能整合泰國旅遊、糖尿病與脾膿瘍。\n\n【核心考點】\n東南亞旅遊或暴露史，加上糖尿病、肺炎與內臟膿瘍，要想到類鼻疽。病原是 Burkholderia pseudomallei，而不是一般社區肺炎或院內感染常見菌。",
+      "key_point": "糖尿病患者東南亞旅遊後出現肺炎與脾膿瘍，典型指向 Burkholderia pseudomallei 類鼻疽。",
+      "flashcard_front": "泰國旅遊 + 糖尿病 + 肺炎 + 脾膿瘍：病原？",
+      "flashcard_back": "Burkholderia pseudomallei 造成類鼻疽，常見於東南亞與北澳，糖尿病是重要危險因子，可造成肺炎、敗血症與多發深部膿瘍。",
+      "flashcard_summary": "Melioidosis -> B. pseudomallei; risk diabetes; endemic Southeast Asia; pneumonia plus visceral abscesses.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n承接類鼻疽病例，急性重症治療需使用對 Burkholderia pseudomallei 有效的靜脈抗生素。Ceftazidime 是急性期常用選擇；嚴重敗血症、神經感染或重症病人也可考慮 carbapenem 類藥物，但本題選項中以 ceftazidime 最恰當。\n\n【選項詳解】\n- A. 錯誤。B. pseudomallei 對 aminoglycoside 類藥物通常有內在抗藥性，amikacin 不適合作為類鼻疽急性期主要治療。\n- B. 正確。Ceftazidime 對 B. pseudomallei 有臨床療效，是類鼻疽急性 intensive phase 的代表性靜脈治療藥物之一，之後仍需根除期口服藥以降低復發。\n- C. 錯誤。Ciprofloxacin 對類鼻疽療效不可靠，也不是急性重症的建議首選；使用 fluoroquinolone 會延誤適當抗生素治療。\n- D. 錯誤。Cefazolin 是第一代 cephalosporin，主要涵蓋部分革蘭氏陽性菌與少數革蘭氏陰性菌，對 B. pseudomallei 不足以治療類鼻疽。\n\n【核心考點】\n類鼻疽急性期治療重點是 ceftazidime 或 meropenem/imipenem 等有效靜脈藥物，並非 aminoglycoside、fluoroquinolone 或第一代 cephalosporin。深部膿瘍病例還要記得後續根除期治療。",
+      "key_point": "類鼻疽急性期常用 ceftazidime；amikacin、ciprofloxacin、cefazolin 不適合作為主要治療。",
+      "flashcard_front": "類鼻疽急性期抗生素：四選一？",
+      "flashcard_back": "Burkholderia pseudomallei 急性期常用 IV ceftazidime，重症可用 carbapenem；後續需要 eradication phase 以防復發。",
+      "flashcard_summary": "Melioidosis treatment -> acute IV ceftazidime/carbapenem, then eradication therapy; avoid aminoglycoside/cefazolin/fluoroquinolone as main therapy.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n生理心理社會模式將健康與疾病理解為生物、生理環境、心理狀態與社會脈絡交互影響的結果。題目問正確敘述，影響生理功能的環境因素可歸在生理層面；基因與疾病史不是心理層面，情感、意志、人格與因應方式則偏心理層面。\n\n【選項詳解】\n- A. 正確。生理層面不只包含基因、年齡、器官功能與疾病史，也可包含直接影響身體功能的物理或生物環境因素，例如毒物、病原暴露、營養或氣候壓力。\n- B. 錯誤。基因與疾病史屬於生物或生理相關資訊；心理層面較著重認知、情緒、信念、人格與因應方式。\n- C. 錯誤。情感與意志是心理歷程，反映情緒、動機與自我調節，不是社會層面的主要內容。\n- D. 錯誤。人格特質與 coping style 描述個體如何看待壓力與採取因應行為，屬心理層面；社會層面較偏家庭、人際、文化、工作、經濟與支持系統。\n\n【核心考點】\n生理心理社會模式的分類要抓住三個層次：生理包含基因、疾病與身體環境暴露；心理包含情緒、認知、人格與因應；社會包含關係、家庭、文化與支持網絡。",
+      "key_point": "Biopsychosocial model 中，基因與疾病史偏生理，情感、意志、人格與 coping 偏心理，人際與支持系統偏社會。",
+      "flashcard_front": "Biopsychosocial model：基因、情感、coping、社會支持各屬哪一層？",
+      "flashcard_back": "生理層面含基因、疾病史與影響身體功能的環境因素；心理層面含情感、意志、人格與 coping style；社會層面含人際、家庭、文化與支持系統。",
+      "flashcard_summary": "Biopsychosocial model -> biological, psychological, social domains must be separated by content.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考周全性老年評估中常用量表與用途的配對，題目問錯誤敘述。MMSE 是認知功能篩檢工具，評估定向感、記憶、注意、計算、語言與圖形建構等能力，不是用來測智商或溝通能力的量表。\n\n【選項詳解】\n- A. 正確。Barthel index 用於評估基本日常生活活動（ADLs），如進食、移位、如廁、洗澡、穿衣、行走等自我照顧功能。\n- B. 正確。IADLs 評估較複雜的社區獨立生活能力，例如使用電話、購物、備餐、家務、交通、服藥與財務管理。\n- C. 錯誤。MMSE 主要篩檢認知障礙與失智風險，不是智商測驗，也不是專門評估溝通能力；語言項目只是認知評估的一部分。\n- D. 正確。Geriatric Depression Scale（GDS）是老年憂鬱篩檢工具，用簡化問題評估憂鬱症狀，適合在老年評估中辨識情緒問題。\n\n【核心考點】\n老年周全性評估要分清楚功能、認知與情緒工具：Barthel 看 basic ADLs，IADL 看社區獨立生活，MMSE 看認知，GDS 看憂鬱。",
+      "key_point": "MMSE 篩檢認知功能障礙，不是智商或溝通能力測驗；Barthel、IADL、GDS 分別對應基本功能、工具性功能與憂鬱。",
+      "flashcard_front": "CGA 量表配對：Barthel、IADL、MMSE、GDS",
+      "flashcard_back": "Barthel -> ADLs；IADL -> 社區獨立生活；MMSE -> 認知篩檢；GDS -> 老年憂鬱篩檢。",
+      "flashcard_summary": "Comprehensive geriatric assessment tools -> Barthel ADL, IADL independence, MMSE cognition, GDS depression.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n題目比較 USPSTF 預防諮詢中哪些項目需要較高強度的行為諮詢。對性活躍青少年與 STI 高風險成人，USPSTF 建議行為諮詢以降低性傳染病風險；傳統考點常把此項與 intensive counseling 連結。\n\n【選項詳解】\n- A. 錯誤。酒精誤用的臨床預防通常先以篩檢與 brief behavioral counseling intervention 介入，重點是辨識危險飲酒並給予短式回饋與行為建議。\n- B. 錯誤。皮膚癌預防諮詢多聚焦於防曬、避免日曬傷害與紫外線暴露風險，通常不是本題所指需密集行為諮詢的代表項目。\n- C. 錯誤。菸品使用預防在青少年可透過初級照護中的教育、簡短諮詢或行為介入進行；它不是這題在 USPSTF 分類下要挑出的密集諮詢項目。\n- D. 正確。性接觸傳染病預防需要處理風險認知、保險套使用、伴侶溝通、問題解決與安全性行為技能；對青少年與高風險族群，較高接觸時間或多次行為諮詢效果較強。\n\n【核心考點】\nUSPSTF 的考題常把 STI 預防與較密集的行為諮詢相連，因其需要改變性行為風險與建立具體技能。酒精、皮膚癌與菸品使用在此題脈絡下較偏簡短諮詢或一般預防建議。",
+      "key_point": "USPSTF 預防諮詢考點：STI 風險降低需行為諮詢，常以較密集、多技巧訓練的介入呈現。",
+      "flashcard_front": "USPSTF：哪類預防常需 intensive behavioral counseling？",
+      "flashcard_back": "性接觸傳染病預防，尤其性活躍青少年與 STI 高風險成人，需諮詢保險套使用、風險溝通、問題解決與安全性行為技能。",
+      "flashcard_summary": "USPSTF counseling -> STI prevention needs behavioral counseling; exam contrasts with brief counseling topics.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n旅行者腹瀉最常由腸毒素型大腸桿菌（ETEC）等腸道病原造成，治療選擇會受旅遊地區抗藥性影響。東南亞地區 Campylobacter 與 fluoroquinolone 抗藥性較受重視，azithromycin 是常用治療選擇；bismuth subsalicylate 可降低旅行者腹瀉風險，但因 salicylate 相關風險，兒童不建議使用。\n\n【選項詳解】\n- A. 錯誤。Salmonella 可造成旅行相關腹瀉，但整體旅行者腹瀉最常見病原通常是 ETEC 等致瀉性大腸桿菌，不是 Salmonella。\n- B. 錯誤。東南亞旅行者腹瀉常需考慮 fluoroquinolone 抗藥性，尤其 Campylobacter，因此 ciprofloxacin 不宜被視為該區治療首選。\n- C. 錯誤。Azithromycin 是旅行者腹瀉治療選項之一，且在需要抗生素時可用於孕婦；「孕婦不能使用」這句過度排除。\n- D. 正確。Bismuth subsalicylate 可作為預防旅行者腹瀉的選擇，但含 salicylate，兒童或病毒感染恢復期使用有 Reye syndrome 等疑慮，因此小孩不建議使用。\n\n【核心考點】\n旅行者腹瀉要記住三個陷阱：常見病原不是 Salmonella；東南亞腹瀉治療常偏向 azithromycin；bismuth subsalicylate 可預防但不適合兒童。",
+      "key_point": "旅行者腹瀉常見病原為 ETEC；東南亞治療常選 azithromycin；bismuth subsalicylate 可預防但兒童不建議。",
+      "flashcard_front": "Traveler's diarrhea：病原、東南亞治療、bismuth 使用限制",
+      "flashcard_back": "常見病原是 ETEC，不是 Salmonella；東南亞因 fluoroquinolone 抗藥性常選 azithromycin；bismuth subsalicylate 可預防但兒童不建議。",
+      "flashcard_summary": "Traveler's diarrhea -> ETEC common; Southeast Asia -> azithromycin; bismuth prophylaxis -> avoid in children.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\nFamily APGAR 用 Adaptation、Partnership、Growth、Affection、Resolve 評估家庭成員對家庭功能的滿意度。它把家庭視為成員彼此互動、互相影響的整體，因此主要來自 systems approach 的家庭系統觀點。\n\n【選項詳解】\n- A. 錯誤。Biopsychosocial model 強調疾病與健康受到生理、心理、社會因素共同影響；雖與家庭醫學整體觀有關，但不是 Family APGAR 量表最直接的概念來源。\n- B. 正確。Systems approach 將家庭視為一個互動系統，評估家庭適應、夥伴關係、成長、情感與解決力，正對應 APGAR 的設計精神。\n- C. 錯誤。Stress and coping model 著重個人或家庭面對壓力源時的評估與因應反應，較適合解釋壓力調適，不是 APGAR 五構面的主要架構。\n- D. 錯誤。Life span perspective 強調個體或家庭在不同生命階段的發展任務與轉變，能補充家庭評估，但 APGAR 的核心不是生命週期階段分析。\n\n【核心考點】\nFamily APGAR 是家庭功能評估工具，背後是家庭系統觀：家庭成員互動會影響整體功能。看到 APGAR 五字母，要連到 systems approach。",
+      "key_point": "Family APGAR 主要奠基於 systems approach，將家庭視為互動系統來評估功能。",
+      "flashcard_front": "Family APGAR 的概念來源？",
+      "flashcard_back": "Family APGAR 評估 Adaptation、Partnership、Growth、Affection、Resolve，源自 systems approach 的家庭系統觀。",
+      "flashcard_summary": "Family APGAR -> systems approach; assesses family function through interaction and satisfaction domains.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T20:55:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

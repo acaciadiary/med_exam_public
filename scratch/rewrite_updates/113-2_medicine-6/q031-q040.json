@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題在考整體分娩（parturition）的生理分期，以及臨床產程（clinical stages of labor）在其中的位置。臨床產程是胎兒實際被規律子宮收縮推進並娩出的過程，屬於分娩生理分期中的刺激期（stimulation phase），不是前一個準備性的活化期。本題問錯誤敘述，因此應選 D。\n\n【選項詳解】\n- A. 敘述正確。第一產程是從規律子宮收縮並造成子宮頸變薄、擴張開始，到子宮頸完全擴張約 10 公分為止，重點是子宮頸開全前的進展。\n- B. 敘述正確。第二產程從子宮頸完全開全開始，到胎兒完全娩出為止，重點是胎兒下降、旋轉與產出。\n- C. 敘述正確。整體分娩的生理歷程可從懷孕後的子宮靜止期（quiescence, phase 0）開始理解；此期子宮肌層維持相對不收縮，以利妊娠持續。\n- D. 敘述錯誤，為本題答案。活化期（activation phase, phase 1）主要是分娩前的準備階段，包括子宮肌對收縮刺激更敏感、子宮頸成熟與相關受體增加；真正臨床上稱為 labor 的產程，對應的是刺激期（stimulation phase, phase 2），此時規律強烈子宮收縮推動胎兒娩出。\n\n【核心考點】\n臨床產程的第一產程是子宮頸擴張至開全，第二產程是開全至胎兒娩出；在 parturition 生理分期中，labor 對應 stimulation phase，而 activation phase 是產前準備期。",
+      "key_point": "臨床產程（labor）對應 parturition 的 stimulation phase；activation phase 是產前準備階段，不是產程本身。",
+      "flashcard_front": "Parturition 生理分期 / clinical labor 對應階段 / 第一、第二產程定義",
+      "flashcard_back": "第一產程：規律宮縮至子宮頸開全；第二產程：開全至胎兒娩出。臨床 labor 屬 stimulation phase，不是 activation phase。",
+      "flashcard_summary": "Parturition 分期 -> quiescence 維持妊娠；activation 做分娩準備；stimulation 才是臨床產程與胎兒娩出",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n這題是足月疑似巨嬰（estimated fetal weight 4050 g）的風險與處置判斷。胎兒體重較大會增加肩難產風險，但超音波估重誤差不小，4050 g 本身並不是常規催生或計畫性剖腹產的充分理由；因此最正確的是辨識巨嬰為肩難產風險因子。\n\n【選項詳解】\n- A. 正確。胎兒巨嬰（fetal macrosomia）會使胎頭娩出後肩部卡在恥骨聯合後方的機率上升，因此是肩難產（shoulder dystocia）的重要風險因子；胎兒越大，肩難產與臂神經叢損傷風險越高。\n- B. 錯誤。單純因 4050 g 的疑似巨嬰而儘快安排選擇性催生，並不是標準的必要處置。超音波估重有誤差，且催生決策需合併糖尿病、產科病史、子宮頸成熟度與母胎狀況評估，不能只靠此估重立即催生。\n- C. 錯誤。超音波估計胎兒體重可協助風險評估，但無法準確預防肩難產；肩難產是分娩時的動態機械問題，很多案例發生在非巨嬰胎兒，單靠估重不能可靠預測。\n- D. 錯誤。對非糖尿病孕婦，計畫性剖腹產通常考慮在估計胎重達約 5000 g 以上；糖尿病孕婦則因肩難產風險更高，門檻約 4500 g。4050 g 的經產婦若無其他適應症，不能直接視為計畫性剖腹產適應症。\n\n【核心考點】\n疑似巨嬰要分清「風險因子」與「處置適應症」：巨嬰會增加肩難產風險，但超音波估重不能精準預防肩難產；非糖尿病孕婦計畫性剖腹產門檻約 5000 g，糖尿病孕婦約 4500 g。",
+      "key_point": "疑似巨嬰是肩難產風險因子，但 4050 g 不等於必須催生或計畫性剖腹產；非糖尿病孕婦剖腹產門檻約 5000 g。",
+      "flashcard_front": "Fetal macrosomia / shoulder dystocia risk / planned cesarean threshold",
+      "flashcard_back": "巨嬰會增加肩難產風險；但超音波估重不能精準預防。計畫性剖腹產通常考慮非糖尿病約 >=5000 g、糖尿病約 >=4500 g。",
+      "flashcard_summary": "Macrosomia -> 肩難產風險上升；4050 g 非直接催生或剖腹適應症；CS 門檻非糖尿病約5000g、糖尿病約4500g",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題問 abnormal labor patterns 中的 protraction disorders。Protraction 的核心是「進展太慢」，在第一產程活動期主要表現為子宮頸擴張速度過慢，因此對應活動期擴張拖延（protracted active-phase dilation）。\n\n【選項詳解】\n- A. 錯誤。活動期延長（prolonged active phase）較像描述整段活動期時間拉長，並非 protraction disorders 的標準命名；考點要抓的是子宮頸擴張速率低於預期。\n- B. 正確。活動期擴張拖延（protracted active-phase dilation）就是活動期子宮頸擴張速度太慢，傳統 Friedman 標準常用初產婦小於 1.2 cm/hr、經產婦小於 1.5 cm/hr 作為判斷，是 protraction disorders 的代表。\n- C. 錯誤。減速期延長（prolonged deceleration phase）描述子宮頸接近開全前的 deceleration phase 過長，不是本題所問的 protraction disorders 代表項目。\n- D. 錯誤。潛伏期異常通常稱 prolonged latent phase，屬於潛伏期太久的問題；protraction disorders 在此題重點放在活動期擴張速率過慢，而不是潛伏期拖延。\n\n【核心考點】\n產程異常要分清拖延與停滯：protraction 是仍有進展但速度太慢，第一產程活動期的典型表述是 protracted active-phase dilation；arrest 則是進展停止。",
+      "key_point": "Protraction disorders 指產程仍進展但速度過慢；第一產程活動期的典型項目是 protracted active-phase dilation。",
+      "flashcard_front": "Abnormal labor patterns / protraction disorders / active-phase dilation",
+      "flashcard_back": "Protraction = 進展太慢但未停止；活動期擴張拖延（protracted active-phase dilation）是代表項目，傳統標準為初產婦 <1.2 cm/hr、經產婦 <1.5 cm/hr。",
+      "flashcard_summary": "Labor protraction -> 活動期子宮頸擴張速度過慢；arrest -> 擴張或下降停止",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n胎心音監測 Category III 代表 abnormal tracing，重點不是單一減速名稱，而是「無基線變異性（absent baseline variability）合併反覆晚期或變異性減速、心搏過緩」，或出現 sinusoidal pattern。本題問不屬於 Category III 的項目，因此答案是 marked baseline variability。\n\n【選項詳解】\n- A. 不屬於 Category III，為本題答案。Marked baseline variability 指胎心基線變異幅度大於 25 bpm，通常歸在 Category II（indeterminate），需要評估與追蹤，但不是 Category III 的診斷條件。\n- B. 屬於 Category III。Sinusoidal pattern 是平滑、規則、類正弦波的胎心變化，與胎兒嚴重貧血、缺氧或酸中毒風險有關，是 Category III 的明確項目。\n- C. 需要看是否合併 absent variability。反覆晚期減速若合併無基線變異性，代表子宮胎盤灌流不足且胎兒代償能力差，屬 Category III；若仍有 moderate variability，則通常歸 Category II。\n- D. 需要看是否合併 absent variability。反覆變異性減速多與臍帶壓迫有關；若合併無基線變異性，提示胎兒酸血症風險升高，屬 Category III；若變異性仍保留，則多屬 Category II。\n\n【核心考點】\nCategory III 的高分辨識句是：absent baseline variability 加上 recurrent late decelerations、recurrent variable decelerations 或 bradycardia，或 sinusoidal pattern。Marked variability 本身是 Category II，不是 Category III。",
+      "key_point": "胎心音 Category III 包含 absent variability 合併反覆晚期/變異性減速或 bradycardia，或 sinusoidal pattern；marked variability 屬 Category II。",
+      "flashcard_front": "FHR tracing Category III / absent variability / marked variability",
+      "flashcard_back": "Category III：absent baseline variability + recurrent late decelerations、recurrent variable decelerations 或 bradycardia；或 sinusoidal pattern。Marked variability 是 Category II。",
+      "flashcard_summary": "FHR Category III -> absent variability + recurrent decelerations/bradycardia 或 sinusoidal；marked variability -> Category II",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n胎兒心搏過速通常指胎心基線持續大於 160 bpm。常見原因包括母體發燒、絨毛膜羊膜炎、母體脫水、藥物、甲狀腺機能亢進與胎兒心律不整；考試最常考的最常見原因是母親發燒。\n\n【選項詳解】\n- A. 錯誤。藥物如 beta-agonist、atropine、交感神經刺激藥物可造成胎兒心搏過速，但臨床頻率通常低於母體發燒或感染造成的胎心上升。\n- B. 錯誤。甲狀腺風暴可造成母體與胎兒心搏過速，甚至危及母胎安全，但在產科臨床上非常罕見，不會是最常見原因。\n- C. 正確。母親發燒（maternal fever）是胎兒心搏過速最常見原因；母體體溫升高會增加胎兒代謝需求與交感反應，且常提示絨毛膜羊膜炎或其他感染，導致胎心基線上升。\n- D. 錯誤。胎兒心律不整如 fetal supraventricular tachycardia 可造成明顯過速，常可能高於 200 bpm，但發生率遠低於母體發燒所造成的胎心基線過速。\n\n【核心考點】\n遇到胎心基線過速先想母體因素，尤其 maternal fever 與 intraamniotic infection；藥物、甲狀腺風暴與胎兒心律不整都可造成 tachycardia，但不是最常見。",
+      "key_point": "胎兒心搏過速最常見原因是母親發燒，常與感染或絨毛膜羊膜炎相關。",
+      "flashcard_front": "Fetal tachycardia / most common cause / maternal fever",
+      "flashcard_back": "胎心基線 >160 bpm 時，最常見原因是母親發燒，常需評估感染、絨毛膜羊膜炎、脫水與藥物因素。",
+      "flashcard_summary": "Fetal tachycardia -> 最常見 maternal fever；其他原因包括藥物、甲狀腺風暴、胎兒 SVT",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n題目附圖為 Doppler 超音波，選項要求辨識檢查血管。若影像是在胎兒頭部橫切面、接近 circle of Willis 的血流波形，最典型是胎兒中大腦動脈（middle cerebral artery, MCA）Doppler；MCA Doppler 常用於評估胎兒貧血與胎兒生長受限時的大腦保護效應。\n\n【選項詳解】\n- A. 錯誤。臍動脈血流 Doppler 取樣位置在臍帶，波形用於評估胎盤阻力與胎兒胎盤循環；影像通常不會呈現胎兒顱內 circle of Willis 的血管定位。\n- B. 錯誤。胎兒下腔靜脈 Doppler 屬靜脈系統評估，位置在胎兒胸腹部，常與心功能、靜脈回流或胎兒循環壓力有關，不是頭顱橫切面中央血管。\n- C. 正確。胎兒中大腦動脈血流 Doppler 在頭部橫切面、靠近 circle of Willis 取樣；MCA peak systolic velocity 升高可提示胎兒貧血，MCA 阻力下降可見於胎兒生長受限的大腦保護效應。\n- D. 錯誤。胎兒下行主動脈 Doppler 位於胸腹腔主動脈，為軀幹縱向大血管評估，解剖位置與頭部 MCA 影像不同。\n\n【核心考點】\n產科 Doppler 要先看取樣位置：臍帶是 umbilical artery，頭部 circle of Willis 附近是 MCA，胸腹部靜脈是 IVC，胸腹主動脈是 descending aorta。",
+      "key_point": "胎兒頭部橫切面、circle of Willis 附近取樣的 Doppler 多為中大腦動脈（MCA），可用於評估胎兒貧血與大腦保護效應。",
+      "flashcard_front": "Fetal Doppler / MCA / circle of Willis",
+      "flashcard_back": "MCA Doppler 在胎兒頭部 circle of Willis 附近取樣；MCA-PSV 升高提示胎兒貧血，阻力下降可見於 IUGR brain-sparing。",
+      "flashcard_summary": "胎兒頭部 Doppler + circle of Willis -> MCA；臍帶 -> umbilical artery；胸腹部 -> IVC 或 descending aorta",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n妊娠糖尿病（gestational diabetes mellitus, GDM）雖然常在產後改善，但代表未來第 2 型糖尿病與心血管代謝疾病風險升高。因此產後不能只看分娩結束，必須安排早期血糖追蹤與長期定期篩檢。\n\n【選項詳解】\n- A. 正確。ACOG 建議 GDM 產婦在產後 4 至 12 週進行血糖評估，常用 75 g 口服葡萄糖耐量試驗（OGTT），也可依情境使用空腹血糖，以確認是否仍有糖尿病、糖尿病前期或恢復正常。\n- B. 錯誤。曾有 GDM 的女性未來發生第 2 型糖尿病的風險明顯高於一般孕婦；這是胰島素阻抗與胰島 beta 細胞儲備不足的長期風險訊號，不是短暫事件而已。\n- C. 錯誤。產後第一次追蹤正常不代表終身安全，仍需定期血糖篩檢，常見建議是每 1 至 3 年追蹤一次，並搭配體重、飲食、運動與心血管危險因子管理。\n- D. 錯誤。GDM 史與未來高血壓、代謝症候群、第 2 型糖尿病及心血管疾病風險增加相關；因此心血管住院或事件風險不能視為與一般孕婦相同。\n\n【核心考點】\nGDM 的產後追蹤重點是「4-12 週做 75 g OGTT 或血糖評估」以及「即使初次正常仍需長期定期篩檢」，因為未來第 2 型糖尿病與心血管疾病風險增加。",
+      "key_point": "妊娠糖尿病產後 4-12 週需做 75 g OGTT 或血糖評估；即使正常，未來仍需每 1-3 年追蹤糖尿病與心血管風險。",
+      "flashcard_front": "Gestational diabetes postpartum follow-up / 4-12 weeks / 75 g OGTT",
+      "flashcard_back": "GDM 產後 4-12 週做 75 g OGTT 或血糖評估；之後仍需定期篩檢，因第 2 型糖尿病與心血管疾病風險升高。",
+      "flashcard_summary": "GDM postpartum -> 4-12週 75g OGTT；初次正常仍長期每1-3年篩檢；T2DM與CVD風險上升",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n產科敗血症常來自泌尿道感染、絨毛膜羊膜炎、流產或產後子宮內膜炎等感染來源；常見病原多為腸道革蘭陰性菌、鏈球菌、葡萄球菌、厭氧菌與腸球菌。選項中李斯特菌雖然是孕期重要病原，特別會造成胎兒與新生兒嚴重感染，但作為母體產科敗血症病原相對最少見。\n\n【選項詳解】\n- A. 錯誤。大腸桿菌（Escherichia coli）是孕產婦泌尿道感染、腎盂腎炎與產科敗血症的重要革蘭陰性病原，臨床上相當常見。\n- B. 錯誤。糞腸球菌（Enterococcus faecalis）可來自腸道或泌尿生殖道菌叢，能造成產後子宮內膜炎、泌尿道感染與敗血症，不是選項中最罕見者。\n- C. 錯誤。肺炎克雷伯菌（Klebsiella pneumoniae）屬腸桿菌科，可造成泌尿道感染、肺炎或血流感染，在孕產婦敗血症中比李斯特菌更常見。\n- D. 正確。李斯特菌（Listeria monocytogenes）對孕婦特別重要，因可造成流產、死胎、早產與新生兒敗血症或腦膜炎；但若題目聚焦在導致母體產科敗血症的病原頻率，與 E. coli、Enterococcus、Klebsiella 相比最罕見。\n\n【核心考點】\n產科敗血症常見病原以 E. coli 等腸道革蘭陰性菌與生殖泌尿道菌叢為主；Listeria 在孕期感染很重要，但相對少見，常考其胎兒與新生兒風險。",
+      "key_point": "產科敗血症常見病原包含 E. coli、腸球菌與 Klebsiella；Listeria 是孕期重要但相對罕見的母體敗血症病原，重點在胎兒與新生兒危害。",
+      "flashcard_front": "Obstetric sepsis pathogens / common organisms / Listeria",
+      "flashcard_back": "E. coli、Enterococcus、Klebsiella 等泌尿生殖道或腸道菌較常造成產科敗血症；Listeria 在孕期重要但相對少見，常造成胎兒/新生兒嚴重感染。",
+      "flashcard_summary": "Obstetric sepsis -> E. coli等腸道革蘭陰性菌常見；Listeria 相對罕見但胎兒/新生兒風險高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n孕婦 16 週，唐氏症估計風險 1:820 屬相對低風險，但母血 AFP 達 3.8 MoM，屬明顯升高。AFP 升高最需要先確認孕週、胎兒數目與胎兒結構異常，尤其開放性神經管缺損與腹壁缺損；最合理下一步是詳細胎兒超音波。\n\n【選項詳解】\n- A. 錯誤。羊膜穿刺可檢查胎兒染色體，也可在特定情境測羊水 AFP/acetylcholinesterase，但本題唐氏症風險不高，且母血 AFP 升高的第一步應先用超音波確認孕週、胎數與胎兒結構；不能直接把問題當成染色體異常。\n- B. 正確。詳細胎兒超音波可評估孕週是否估算錯誤、多胞胎、胎盤或胎兒結構異常，並特別檢查開放性神經管缺損（如無腦兒、脊柱裂）與腹壁缺損（如 gastroschisis、omphalocele）。\n- C. 錯誤。母血 AFP 在孕中期主要用於胎兒相關風險評估；骨盆腔超音波排除卵巢腫瘤不是面對 3.8 MoM AFP 的標準下一步，也不能解決胎兒結構異常風險。\n- D. 錯誤。若 AFP 明顯升高，單純重複唐氏症母血篩檢會延誤對胎兒結構與孕週的評估；臨床上應先進行目標式或高層次超音波檢查。\n\n【核心考點】\n第二孕期母血 AFP 升高要先想孕週錯估、多胞胎、開放性神經管缺損與腹壁缺損；下一步優先做詳細胎兒超音波，而不是直接羊穿或重複篩檢。",
+      "key_point": "孕中期母血 AFP 明顯升高時，下一步是詳細胎兒超音波，以評估孕週、胎數與神經管或腹壁缺損。",
+      "flashcard_front": "Elevated maternal serum AFP / 16 weeks / next step",
+      "flashcard_back": "AFP 3.8 MoM 升高時，先做詳細胎兒超音波，排除孕週錯估、多胞胎、開放性神經管缺損與腹壁缺損。",
+      "flashcard_summary": "MSAFP 升高 -> 詳細胎兒超音波；鑑別包括孕週錯估、多胞胎、開放性NTD、腹壁缺損",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題考腹腔鏡建立氣腹時 Veress needle（導氣針）的插入技巧與位置判斷。穿刺角度需依腹壁厚度調整：瘦病人較斜，肥胖病人因腹壁較厚，通常需更接近垂直方向進針；因此「胖的病人以 30 度角插入」最不適當。\n\n【選項詳解】\n- A. 敘述適當。Veress needle 通過筋膜與腹膜時，彈簧式鈍頭內芯會產生觸覺上的彈入感，有時也可感到或聽到 click，這是判斷穿過腹壁層次的輔助線索之一。\n- B. 敘述適當。瘦病人腹壁薄，臍下至大血管距離較短，通常以約 45 度角朝骨盆方向進針，避免過度垂直深入造成大血管或後腹膜傷害。\n- C. 敘述最不適當，為本題答案。肥胖病人腹壁脂肪層厚，若以 30 度低角度斜插，針路過長且容易停留在腹壁或腹膜前脂肪；通常應採較接近垂直、約 90 度方向進針，才較能進入腹腔。\n- D. 敘述適當。Veress needle 正確進入腹腔後，初始腹腔壓通常應低，常以小於 8-10 mmHg 作為合理位置的判斷線索；若一開始壓力偏高，需懷疑針尖在腹壁、網膜或未進入腹腔。\n\n【核心考點】\nVeress needle 進針角度與體型有關：瘦者約 45 度，肥胖者較接近垂直；正確位置常見初始壓力低於 8-10 mmHg，壓力高要懷疑未在腹腔內。",
+      "key_point": "Veress needle 置入時，瘦病人常約 45 度，肥胖病人應更接近 90 度垂直；初始腹腔壓低於 8-10 mmHg 支持位置正確。",
+      "flashcard_front": "Veress needle / insertion angle / initial intraperitoneal pressure",
+      "flashcard_back": "瘦病人約 45 度進針；肥胖病人腹壁厚，應更接近 90 度垂直進針。正確腹腔位置通常初始壓 <8-10 mmHg。",
+      "flashcard_summary": "Veress needle -> 瘦者45度、肥胖者近90度；初始壓 <8-10 mmHg 支持針尖位於腹腔",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

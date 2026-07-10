@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題考機器人手術（robotic surgery）在婦產科的適應症。機器人手術常用於需要精細縫合、深部骨盆操作或微創優勢明顯的良性與部分早期疾病；第二期子宮頸癌多已超出單純微創手術可安全處理的範圍，尤其涉及局部侵犯時通常以根治性放射治療合併化學治療或開腹根治手術評估為主。\n\n【選項詳解】\n- A. 正確。子宮肌瘤手術若需要保留子宮並進行肌層縫合，機器人平台的 3D 視野、腕式器械與縫合穩定性可提供優勢，因此可作為適應症之一。\n- B. 正確。輸卵管重建需要精細顯微縫合與穩定的骨盆操作，機器人手術能改善深部窄小空間中的操作靈活度，因此可被考慮。\n- C. 正確。骨盆重建手術常牽涉薦骨陰道固定、筋膜或韌帶縫合等深部骨盆步驟，機器人手術在視野與縫合操作上有實用性。\n- D. 錯誤。第二期子宮頸癌代表腫瘤已超過子宮頸局部，若達 IIB 更有子宮旁組織侵犯，通常不屬於單純機器人手術的典型適應症；子宮頸癌微創根治手術也因腫瘤預後疑慮須更謹慎選擇。\n\n【核心考點】\n婦產科機器人手術適合精細、深部、可微創完成的良性或選擇性早期病灶；局部侵犯較明顯的子宮頸癌，治療策略需依分期轉向根治性放化療或傳統手術評估。",
+      "key_point": "機器人手術可用於子宮肌瘤、輸卵管重建與骨盆重建；第二期子宮頸癌通常不是典型機器人手術適應症。",
+      "flashcard_front": "機器人手術適應症 / 婦產科 / 第二期子宮頸癌",
+      "flashcard_back": "機器人手術適合需要精細縫合與深部骨盆操作的良性或選擇性早期疾病；第二期子宮頸癌常需根治性放化療或更審慎的開腹手術評估。",
+      "flashcard_summary": "婦產科 robotic surgery -> 良性精細骨盆手術可考慮，第二期子宮頸癌通常不適合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題考 FIGO 子宮肌瘤分型與子宮鏡手術（operative hysteroscopy）的適用性。子宮鏡最適合處理向子宮腔內突出的黏膜下肌瘤；Type 3 雖接觸子宮內膜，但整個肌瘤位於肌層內，缺乏可由子宮腔直接切除的腔內部分。\n\n【選項詳解】\n- A. 正確。FIGO Type 0 是有蒂且完全位於子宮腔內的黏膜下肌瘤，子宮鏡可直接看到並切除，最適合使用子宮鏡治療。\n- B. 正確。FIGO Type 1 主要位於子宮腔內，肌層內成分小於 50%，多數情況可用子宮鏡切除，必要時依大小與深度分次處理。\n- C. 正確。FIGO Type 2 的肌層內成分大於或等於 50%，子宮鏡治療難度較高，但仍屬黏膜下肌瘤，可在合適條件下考慮子宮鏡手術。\n- D. 錯誤。FIGO Type 3 與子宮內膜接觸但完全位於肌層內，沒有明顯腔內突出部分，子宮鏡不易完整切除，通常較少以子宮鏡作為治療選擇。\n\n【核心考點】\n子宮鏡處理肌瘤的關鍵是「是否有黏膜下、腔內可切除成分」。Type 0、1、2 屬黏膜下肌瘤範圍，Type 3 是接觸內膜的肌層內肌瘤，較不適合子宮鏡治療。",
+      "key_point": "FIGO Type 0、1、2 子宮肌瘤可考慮子宮鏡切除；Type 3 完全位於肌層內，較少使用子宮鏡治療。",
+      "flashcard_front": "子宮鏡手術 / FIGO 子宮肌瘤分型 / Type 0-3",
+      "flashcard_back": "子宮鏡最適合處理黏膜下、向子宮腔突出的肌瘤。Type 0、1、2 可考慮；Type 3 雖接觸內膜但完全在肌層內，較不適合。",
+      "flashcard_summary": "Operative hysteroscopy -> Type 0/1/2 可考慮，Type 3 較少使用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題考 Kallmann syndrome，也就是合併嗅覺缺失或低下的低促性腺激素性性腺功能低下症（hypogonadotropic hypogonadism）。病灶在 GnRH 神經元發育與遷移異常，會使 GnRH、LH、FSH 刺激不足，因此女性常呈低雌二醇合併低或不適當正常的 FSH，而不是高 FSH。\n\n【選項詳解】\n- A. 正確。Kallmann syndrome 的主要考點是嗅覺缺失（anosmia）或嗅覺低下，合併青春期延遲與性腺功能低下；部分患者可伴隨其他神經發育表現，色覺異常不是每位患者都有，但此選項仍指向此症候群的伴隨表現。\n- B. 正確。Kallmann syndrome 在男性較常被診斷，男性常因青春期未發育、睪丸小、第二性徵不足而就醫，發生率與辨識率均高於女性。\n- C. 正確。女性患者因 GnRH 脈衝分泌不足，卵巢缺乏足夠 LH/FSH 刺激，常表現為青春期延遲、第二性徵不足與原發性閉經（primary amenorrhea）。\n- D. 錯誤。高 FSH 加低 E2 是卵巢衰竭等高促性腺激素性性腺功能低下的型態；Kallmann syndrome 是中樞性低促性腺激素狀態，FSH 通常低或不適當正常，E2 低。\n\n【核心考點】\nKallmann syndrome 是「嗅覺異常加中樞性性腺功能低下」。實驗室判讀要抓住低 GnRH 造成 LH/FSH 低或不適當正常，不能誤判成卵巢衰竭的高 FSH 型態。",
+      "key_point": "Kallmann syndrome 屬低促性腺激素性性腺功能低下，女性常見低 E2 合併低或不適當正常 FSH，而非高 FSH。",
+      "flashcard_front": "Kallmann syndrome / anosmia / FSH 與 E2 型態",
+      "flashcard_back": "Kallmann syndrome 是 GnRH 神經元發育遷移異常，造成嗅覺缺失與低促性腺激素性性腺功能低下；FSH/LH 低或不適當正常，E2 低。",
+      "flashcard_summary": "Kallmann syndrome -> anosmia + hypogonadotropic hypogonadism，FSH 不會典型升高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": [
+        "A 選項把色盲列為主要症狀略不精確，建議人工確認命題措辭。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題考女性先天性生殖道異常與泌尿系統異常的胚胎關聯。苗勒氏管、生殖道與泌尿系統發育在胚胎時期位置與訊號相近，因此生殖道異常常需同時評估腎臟與輸尿管；但成年女性不可能在未接受替代治療的情況下合併雙側腎發育不全而存活至成年。\n\n【選項詳解】\n- A. 正確。先天性女性生殖道異常常與泌尿系統異常並存，例如單側腎缺如、異位腎、馬蹄腎或輸尿管異常，因此評估時常需做腎臟影像檢查。\n- B. 正確。馬蹄腎（horseshoe kidney）是相對常見的腎臟融合異常，發生率約數百分之一，1/600 屬可接受的流行病學範圍。\n- C. 錯誤。先天性生殖道異常可合併單側腎發育不全，但「雙側」腎發育不全通常造成嚴重羊水過少與肺發育不全，出生後難以存活；以成年患者來說，把單側與雙側並列是不適當的敘述。\n- D. 正確。泌尿道發育仰賴輸尿管芽（ureteric bud）與後腎母細胞（metanephric blastema）互相誘導；任一結構發育或互動異常都可能造成腎臟與集尿系統畸形。\n\n【核心考點】\n女性先天性生殖道異常要同步想到泌尿系統異常，尤其是單側腎缺如或輸尿管異常。若題目提到成年患者，雙側腎發育不全通常不合理。",
+      "key_point": "女性先天性生殖道異常常合併泌尿系統異常；成年患者可見單側腎缺如，但雙側腎發育不全通常不相容於存活至成年。",
+      "flashcard_front": "女性生殖道異常 / 泌尿系統異常 / renal agenesis",
+      "flashcard_back": "苗勒氏管異常常需檢查腎臟與輸尿管。單側腎缺如可合併出現；成年患者若被描述為雙側腎發育不全，通常不合理。",
+      "flashcard_summary": "Mullerian anomaly -> 常合併 urinary anomaly；adult bilateral renal agenesis 不合理",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題考陰道分泌物濕檢視（wet mount smear）的可見項目與限制。Wet mount 可快速觀察陰道上皮細胞、乳酸菌、白血球、滴蟲、念珠菌與細菌性陰道炎的 clue cells；淋病雙球菌需要核酸擴增檢測、培養或適當染色檢查，不能靠一般濕檢視可靠辨認。\n\n【選項詳解】\n- A. 正確。正常陰道表面上皮細胞體積大、輪廓清楚，在生理食鹽水濕片下可以直接觀察，並可用來判斷標本是否來自陰道分泌物。\n- B. 正確。乳酸菌（lactobacilli）是正常陰道菌叢的重要成分，濕片可看到桿菌樣菌叢；若乳酸菌減少並出現 clue cells，會支持細菌性陰道炎。\n- C. 正確。細菌性陰道炎可藉濕檢視看到 clue cells，也就是陰道上皮細胞邊緣被大量細菌覆蓋而變得模糊，常搭配 pH 升高與 whiff test 判讀。\n- D. 錯誤。Neisseria gonorrhoeae 是革蘭陰性雙球菌，臨床診斷以 NAAT、培養或特定染色為主；一般 wet mount 的解析度與染色資訊不足，無法可靠辨認淋病雙球菌。\n\n【核心考點】\nWet mount 是快速看陰道環境與常見陰道炎線索的工具，不是診斷淋病的可靠方法。淋病要用 NAAT、培養或適當染色檢查。",
+      "key_point": "Wet mount 可看上皮細胞、乳酸菌與 BV clue cells；淋病雙球菌需 NAAT、培養或染色，不能靠濕檢視可靠辨認。",
+      "flashcard_front": "Wet mount smear / bacterial vaginosis / Neisseria gonorrhoeae",
+      "flashcard_back": "Wet mount 可看 clue cells、乳酸菌、上皮細胞、滴蟲或念珠菌；淋病雙球菌需 NAAT、培養或染色檢查。",
+      "flashcard_summary": "Wet mount -> 可辨 BV clue cells；不能可靠辨認 gonorrhea",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題考 HPV 型別與臨床疾病的配對。外陰部生殖疣（genital warts, condyloma acuminata）最常由低風險 HPV 6、11 型造成；高風險型如 16、18、31、33、52、58 則與子宮頸癌前病變與癌症風險較相關。\n\n【選項詳解】\n- A. 正確。HPV 6、11 是低風險型別，最典型造成尖形濕疣或外陰生殖疣，與侵襲性癌症的關聯遠低於高風險型 HPV。\n- B. 錯誤。HPV 16、18 是高風險型，尤其與子宮頸癌、肛門癌與其他 HPV 相關癌症有強關聯，不是生殖疣最常見型別。\n- C. 錯誤。HPV 52、58 也是高風險型，在東亞族群的子宮頸癌前病變與子宮頸癌中相當重要，但不是外陰部生殖疣的主要原因。\n- D. 錯誤。HPV 31、33 屬高風險型，重點在高度鱗狀上皮內病變與癌症風險，而非典型尖形濕疣。\n\n【核心考點】\nHPV 題要先分低風險與高風險：6、11 對應生殖疣；16、18 以及 31、33、52、58 對應子宮頸癌前病變與癌症風險。",
+      "key_point": "外陰部生殖疣最常見 HPV 6、11；HPV 16、18、31、33、52、58 屬高風險型，偏向癌前病變與癌症風險。",
+      "flashcard_front": "HPV 型別 / genital warts / high-risk HPV",
+      "flashcard_back": "HPV 6、11 是低風險型，最常造成生殖疣；HPV 16、18、31、33、52、58 是高風險型，與子宮頸癌前病變和癌症相關。",
+      "flashcard_summary": "HPV genital warts -> types 6 and 11；high-risk HPV -> 16/18/31/33/52/58",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題考青春期女性卵巢生殖細胞腫瘤與腫瘤標記的配對。13 歲、骨盆腔大型複雜性腫瘤加 AFP 明顯升高，最典型指向卵黃囊瘤，也稱 endodermal sinus tumor。\n\n【選項詳解】\n- A. 錯誤。Dysgerminoma 常見於年輕女性，但典型腫瘤標記較常是 LDH 升高，部分可有 hCG 輕度升高；AFP 明顯升高不符合其典型表現。\n- B. 正確。Endodermal sinus tumor 即卵黃囊瘤，是惡性卵巢生殖細胞腫瘤，常見於兒童或年輕女性，最重要線索是 AFP 升高。\n- C. 錯誤。Non-gestational choriocarcinoma 會分泌 hCG，常見表現與 beta-hCG 顯著升高相關，而不是以 AFP 升高作為主要線索。\n- D. 錯誤。Immature teratoma 可見於年輕女性，可能呈複雜性卵巢腫瘤，但 AFP 顯著升高更支持卵黃囊瘤；未成熟畸胎瘤的重點通常在病理分級與分期。\n\n【核心考點】\n年輕女性卵巢生殖細胞腫瘤要背腫瘤標記：AFP 升高想到 yolk sac tumor/endodermal sinus tumor；LDH 偏 dysgerminoma；hCG 偏 choriocarcinoma。",
+      "key_point": "青春期女性卵巢腫瘤若 AFP 明顯升高，最典型診斷是 endodermal sinus tumor（yolk sac tumor）。",
+      "flashcard_front": "卵巢生殖細胞腫瘤 / AFP / endodermal sinus tumor",
+      "flashcard_back": "AFP 升高對應 yolk sac tumor/endodermal sinus tumor；LDH 偏 dysgerminoma，hCG 偏 choriocarcinoma。",
+      "flashcard_summary": "Ovarian germ cell tumor marker -> AFP high = endodermal sinus tumor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題考骨盆超音波影像辨識卵巢腫塊。題幹提到影像所示腫塊且答案指向畸胎瘤（teratoma），典型成熟囊性畸胎瘤在超音波可見高回音脂肪、毛髮造成的聲影、鈣化或 Rokitansky nodule，常在健康檢查中偶然發現。\n\n【選項詳解】\n- A. 錯誤。出血性黃體囊腫常與月經週期相關，可見網狀纖維蛋白或血塊樣回音，通常會隨時間吸收，與含脂肪、鈣化或毛髮造成陰影的畸胎瘤影像不同。\n- B. 錯誤。子宮內膜異位瘤常呈均勻低回音、細緻顆粒狀的 ground-glass appearance，並常合併痛經、慢性骨盆痛或不孕症線索。\n- C. 正確。畸胎瘤常含多胚層組織，影像上可見脂肪、毛髮、牙齒或鈣化造成的高回音與後方聲影，是健康檢查偶然發現卵巢腫塊時的重要診斷。\n- D. 錯誤。功能性囊腫多為單純薄壁、無實質成分的濾泡囊腫或黃體囊腫，常會自然消退；若影像呈複雜高回音、鈣化或聲影，較不支持功能性囊腫。\n\n【核心考點】\n卵巢腫塊超音波若看到脂肪、毛髮、鈣化或強聲影，要優先想到成熟囊性畸胎瘤；endometrioma 是 ground-glass，出血性黃體囊腫偏網狀血塊，功能性囊腫多為單純囊性。",
+      "key_point": "卵巢成熟囊性畸胎瘤的超音波線索包括高回音脂肪、毛髮、鈣化、Rokitansky nodule 與後方聲影。",
+      "flashcard_front": "卵巢腫塊超音波 / teratoma / endometrioma 鑑別",
+      "flashcard_back": "畸胎瘤常有脂肪、毛髮、鈣化與聲影；endometrioma 常呈 ground-glass，出血性黃體囊腫常有網狀血塊，功能性囊腫多為單純囊性且會消退。",
+      "flashcard_summary": "Ovarian ultrasound -> fat/hair/calcification/shadowing = teratoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": [
+        "題幹提及影像但 JSON 未含圖檔，建議合併原圖複核。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-6_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題考卵巢未成熟畸胎瘤（immature teratoma）的治療原則與不適當處置。未成熟畸胎瘤多發生於年輕女性，治療重點是完整分期、盡量保留生育能力、依分期與分級決定輔助化療；接受化療後不需要把二次剖腹探查列為必要流程。\n\n【選項詳解】\n- A. 正確。停經前患者若病灶局限於單側卵巢，常採單側卵巢輸卵管切除加保留生育能力的分期手術，以兼顧腫瘤治療與未來生育。\n- B. 正確。未成熟畸胎瘤通常單側發生；若對側卵巢外觀正常，常規楔形切片可能破壞卵巢功能並造成沾黏，因此不建議例行執行。\n- C. 正確。未成熟畸胎瘤的預後與治療決策高度依賴分期與細胞分化程度；IA 期低分級病灶經完整手術後可考慮追蹤，不一定需要輔助化療。\n- D. 錯誤。二次剖腹探查（second-look operation）過去曾用於確認殘存病灶或治療反應，但現代追蹤多依臨床、影像與腫瘤標記；把它列為接受輔助化療後的必要處置並不適當。\n\n【核心考點】\n未成熟畸胎瘤治療以保留生育能力的分期手術為核心，是否化療看分期與分級；second-look operation 不是所有化療後患者都必須接受的固定步驟。",
+      "key_point": "卵巢未成熟畸胎瘤可採保留生育能力分期手術；輔助化療後不需例行二次剖腹探查。",
+      "flashcard_front": "Immature teratoma / fertility-sparing staging / second-look operation",
+      "flashcard_back": "年輕患者常做單側切除加分期並保留生育能力；化療依分期與分級決定，second-look operation 不是必要常規。",
+      "flashcard_summary": "Immature teratoma management -> fertility-sparing staging；no routine second-look operation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題考子宮內膜癌患者合併家族癌症史時的遺傳性癌症症候群判斷。子宮內膜癌加大腸癌家族史要優先想到 Lynch syndrome，也就是遺傳性非息肉大腸直腸癌；Lynch II 常用來指包含腸外癌症，特別是子宮內膜癌、卵巢癌、胃癌、泌尿道癌等的家族型態。\n\n【選項詳解】\n- A. 錯誤。BRCA2 突變主要增加乳癌、卵巢癌、胰臟癌與攝護腺癌風險；它不能很好解釋子宮內膜癌合併大腸癌的組合。\n- B. 正確。Lynch syndrome 由 DNA mismatch repair 基因缺陷造成，典型癌症組合包括大腸癌與子宮內膜癌；停經後出血發現子宮內膜癌且家族有大腸癌時，應考慮遺傳諮詢與相關基因檢測。\n- C. 錯誤。Cowden syndrome 與 PTEN 相關，常見乳癌、甲狀腺癌、子宮內膜癌與皮膚黏膜病灶；雖可有腸胃道瘜肉，但本題大腸癌加子宮內膜癌的典型配對更支持 Lynch syndrome。\n- D. 錯誤。Peutz-Jeghers syndrome 以黏膜皮膚黑斑與腸胃道錯構瘤性息肉為特色，並可增加多種癌症風險，但不是子宮內膜癌合併大腸癌家族史時最典型的答案。\n\n【核心考點】\n子宮內膜癌加大腸癌家族史要先想到 Lynch syndrome。BRCA2 偏乳癌與卵巢癌，Cowden 偏 PTEN 相關乳癌、甲狀腺與子宮內膜癌，Peutz-Jeghers 偏黑斑與腸胃道錯構瘤性息肉。",
+      "key_point": "子宮內膜癌合併大腸癌家族史最應考慮 Lynch syndrome（遺傳性非息肉大腸直腸癌）。",
+      "flashcard_front": "Endometrial cancer / colorectal cancer family history / Lynch syndrome",
+      "flashcard_back": "Lynch syndrome 是 DNA mismatch repair 缺陷，典型癌症包括大腸癌與子宮內膜癌；看到這個組合要安排遺傳諮詢。",
+      "flashcard_summary": "Endometrial cancer + colorectal cancer family history -> Lynch syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

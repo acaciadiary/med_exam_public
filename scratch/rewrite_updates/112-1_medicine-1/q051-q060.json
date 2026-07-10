@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問 Ia 型感覺神經元在肌梭（muscle spindle）內的功能，且題目要求選出「最不適當」的敘述。Ia 初級傳入纖維纏繞在梭內肌纖維中央，能偵測肌肉長度變化及牽張速度；因此說它不能把梭外肌被拉長的速度或張力訊息送往中樞，是錯誤敘述。\n\n【選項詳解】\n- A. 錯誤。梭外肌被拉長時會牽動肌梭，使梭內肌中央區張力增加，Ia 型傳入纖維會把肌肉長度與牽張速度的訊息傳入脊髓，參與牽張反射。選項把 Ia 纖維的主要功能說成不能傳送牽張訊息，因此不適當。\n- B. 正確。Ia 型感覺末梢形成環螺旋狀終末（annulospiral ending），主要分布於核袋纖維與核鏈纖維的中央非收縮區，能感受該區被拉長時的形變。\n- C. 正確。Dynamic gamma motor neuron 主要增強動態核袋纖維的張力，使 Ia 傳入纖維對肌肉被快速拉長時的速度變化更敏感，特別強化動態反應。\n- D. 正確。Gamma motor neuron 收縮梭內肌兩端，會拉緊中央感受區，使 Ia 感覺終末在肌肉主動收縮或被牽張時仍保持敏感，這也是 alpha-gamma coactivation 能維持肌梭回饋的原因。\n\n【核心考點】\nIa 型傳入纖維是肌梭的初級感覺纖維，負責偵測肌肉長度與牽張速度；dynamic gamma 活化會增強 Ia 對速度變化的反應，gamma 活化則可維持肌梭中央區張力與敏感度。",
+      "key_point": "Ia 型肌梭傳入纖維偵測肌肉長度與牽張速度；gamma motor neuron 透過拉緊梭內肌中央區調節其敏感度。",
+      "flashcard_front": "肌梭 Ia 傳入纖維：感受內容與 gamma 調節",
+      "flashcard_back": "Ia 初級傳入纖維位於梭內肌中央，傳送肌肉長度與牽張速度；dynamic gamma 增強速度敏感性，gamma 活化維持肌梭張力。",
+      "flashcard_summary": "肌梭 Ia 纖維 -> 偵測長度與速度；說它不能傳送梭外肌牽張訊息是不適當敘述。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題問一般動作電位（action potential）在過衝（overshoot）與下衝（undershoot）階段，細胞膜分別對哪種離子通透性特別高。過衝發生在去極化高峰，主要由 Na+ 內流造成；下衝是後過極化，主要由 K+ 通道延遲關閉、K+ 持續外流造成。\n\n【選項詳解】\n- A. 錯誤。此選項把過衝寫成 K+ 通透性最高、下衝寫成 Na+ 通透性最高，順序與動作電位實際離子流相反。\n- B. 錯誤。K+ 通透性在復極化與下衝階段較高，但過衝階段膜電位接近 Na+ 平衡電位，主要不是由 K+ 主導。\n- C. 錯誤。Na+ 通透性升高可造成快速去極化與過衝，但下衝階段 Na+ 通道多已不活化，膜電位變得更負主要靠 K+ 外流。\n- D. 正確。過衝時 voltage-gated Na+ channels 大量開啟，Na+ 內流使膜電位超過 0 mV；下衝時 voltage-gated K+ channels 關閉較慢，K+ 外流使膜電位短暫低於靜止膜電位。\n\n【核心考點】\n動作電位的離子通透性可用「過衝看 Na+、下衝看 K+」記憶；Na+ 內流讓膜去極化，K+ 延遲外流造成復極化與後過極化。",
+      "key_point": "動作電位過衝由 Na+ 通透性增加主導；下衝由 K+ 通透性持續偏高主導。",
+      "flashcard_front": "動作電位 overshoot / undershoot 的主要離子",
+      "flashcard_back": "Overshoot：Na+ 通透性最高；undershoot：K+ 通透性最高，因 K+ 通道延遲關閉造成後過極化。",
+      "flashcard_summary": "動作電位離子通透性 -> overshoot 是 Na+，undershoot 是 K+。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題問哪一種神經傳導物質不屬於兒茶酚胺（catecholamine）。兒茶酚胺具有 catechol 環與胺基側鏈，主要由 tyrosine 代謝而來；dopamine、norepinephrine、epinephrine 屬於同一路徑，histamine 則由 histidine 脫羧形成。\n\n【選項詳解】\n- A. 錯誤。Dopamine 由 tyrosine 經 L-DOPA 生成，具有 catecholamine 結構，也是 norepinephrine 與 epinephrine 的前驅物。\n- B. 錯誤。Norepinephrine 由 dopamine 經 dopamine beta-hydroxylase 轉換而來，屬於典型兒茶酚胺，常見於交感神經節後纖維與中樞神經系統。\n- C. 錯誤。Epinephrine 由 norepinephrine 經 PNMT 甲基化生成，屬於兒茶酚胺，主要由腎上腺髓質分泌。\n- D. 正確。Histamine 由 histidine 經 histidine decarboxylase 脫羧生成，屬於生物胺但沒有 catechol 結構，因此不歸在兒茶酚胺類。\n\n【核心考點】\n兒茶酚胺包含 dopamine、norepinephrine、epinephrine，前驅胺基酸是 tyrosine；histamine 的前驅物是 histidine，分類上要與兒茶酚胺分開。",
+      "key_point": "Catecholamine 包含 dopamine、norepinephrine、epinephrine；histamine 來自 histidine，不屬於 catecholamine。",
+      "flashcard_front": "哪個神經傳導物質不是 catecholamine？",
+      "flashcard_back": "Histamine 不是 catecholamine；dopamine、norepinephrine、epinephrine 都由 tyrosine 路徑生成並屬於 catecholamine。",
+      "flashcard_summary": "Catecholamine 分類 -> DA、NE、Epi 屬於；histamine 不屬於。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題問高頻聲波主要刺激耳蝸哪一段的毛細胞。耳蝸基底膜沿長軸有 tonotopy：靠近卵圓窗的基部較窄、較硬，適合高頻共振；靠近蝸頂的頂端較寬、較軟，適合低頻共振。\n\n【選項詳解】\n- A. 正確。耳蝸基部（base of cochlea）的基底膜較窄且僵硬，高頻聲波的行波在此處達到最大振幅，因此高頻毛細胞主要位於基部。\n- B. 錯誤。耳蝸頂端（apex）基底膜較寬且柔軟，對低頻聲波較敏感，不是高頻聲波主要興奮的位置。\n- C. 錯誤。耳蝸中央部位可對中等頻率有較大反應，但高頻聲波的最大反應區在基部，不是中央。\n- D. 錯誤。毛細胞不是以所有頻率平均分布的方式反應；不同頻率在基底膜上有規律排列，高頻偏基部、低頻偏頂端。\n\n【核心考點】\n耳蝸 tonotopy：base 窄硬感高頻，apex 寬軟感低頻。這種頻率定位從耳蝸一路保留到聽覺傳導路與聽覺皮質。",
+      "key_point": "耳蝸基部基底膜窄硬，負責高頻；耳蝸頂端基底膜寬軟，負責低頻。",
+      "flashcard_front": "耳蝸 tonotopy：高頻與低頻位置",
+      "flashcard_back": "高頻聲波主要刺激耳蝸基部；低頻聲波主要刺激耳蝸頂端。",
+      "flashcard_summary": "耳蝸頻率定位 -> 高頻在 base，低頻在 apex。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題比較有氧肌與無氧肌，並要求找出錯誤敘述。有氧肌多指慢縮 Type I 紅肌，纖維較小、耐疲勞、由較小且低閾值的運動神經元支配；無氧肌多指快縮 Type II 白肌，纖維與運動神經元通常較大、收縮力較強但較易疲勞。\n\n【選項詳解】\n- A. 正確。有氧肌富含 myoglobin、粒線體與微血管，外觀較紅，常稱為紅肌或慢縮肌，適合長時間低強度收縮。\n- B. 正確。有氧肌纖維通常直徑較小，氧氣與代謝物擴散距離較短，有利於有氧代謝；無氧快縮纖維直徑較大，爆發力較強。\n- C. 錯誤。支配有氧肌纖維的 alpha motor neuron 胞體一般較小、輸入阻抗較高，較容易先達到放電閾值；支配快縮無氧肌的運動神經元胞體通常較大。\n- D. 正確。依 Henneman size principle，低強度收縮會先招募小型、低閾值、耐疲勞的有氧運動單位；力量需求增加時才招募較大的快縮無氧運動單位。\n\n【核心考點】\n運動單位招募遵循大小原則：小運動神經元與 Type I 紅肌先上場，適合耐力與姿勢控制；大運動神經元與 Type II 白肌後招募，負責高力量、短時間輸出。",
+      "key_point": "有氧紅肌由較小、低閾值運動神經元支配並先被招募；無氧白肌運動單位較大且後被招募。",
+      "flashcard_front": "紅肌與白肌：運動神經元大小與招募順序",
+      "flashcard_back": "Type I 紅肌纖維較小、耐疲勞，支配神經元胞體較小且先被招募；Type II 白肌通常較大、後被招募。",
+      "flashcard_summary": "有氧肌 vs 無氧肌 -> 有氧肌神經元較小且先招募；說有氧肌神經元較大是錯誤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題問骨骼肌細胞中已結合的 actin 與 myosin 要靠什麼直接分離。橫橋週期中，新的 ATP 結合到 myosin head 會降低 myosin 對 actin 的親和力，使橫橋解離；ATP 水解後才讓 myosin head 回到可再次結合的高能狀態。\n\n【選項詳解】\n- A. 正確。ATP 直接結合 myosin head 後會促使 actin-myosin cross-bridge 分離；若 ATP 缺乏，橫橋無法解離，就會出現類似 rigor mortis 的僵硬狀態。\n- B. 錯誤。Ca2+ 在骨骼肌中結合 troponin C，使 tropomyosin 移開並暴露 actin 上的 myosin-binding site，作用是允許橫橋形成，不是直接讓 actin 與 myosin 分離。\n- C. 錯誤。Myosin light-chain phosphatase 主要與平滑肌舒張相關，透過去磷酸化 myosin light chain 降低平滑肌收縮活性；骨骼肌橫橋解離的直接因子是 ATP。\n- D. 錯誤。Myosin light-chain kinase 主要在平滑肌中受 Ca2+-calmodulin 活化並磷酸化 myosin light chain，以促進平滑肌收縮；它不是骨骼肌 actin-myosin 解離的直接分子。\n\n【核心考點】\n骨骼肌橫橋週期中，ATP 結合使 myosin 從 actin 分離，ATP 水解使 myosin head 重新蓄能；Ca2+ 則負責打開 actin 結合位點，兩者角色不同。",
+      "key_point": "骨骼肌 actin-myosin 橫橋的直接解離需要 ATP 結合 myosin head；Ca2+ 是促進結合位點暴露。",
+      "flashcard_front": "骨骼肌 actin-myosin 分離靠什麼？",
+      "flashcard_back": "ATP 直接結合 myosin head 使 actin-myosin 橫橋分離；Ca2+ 使 troponin-tropomyosin 移位以促進結合。",
+      "flashcard_summary": "橫橋週期 -> ATP 讓 myosin 離開 actin，Ca2+ 讓結合位點暴露。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題問 sickle-cell disease 的正確敘述。此病來自 beta-globin 基因突變，產生 HbS；在低氧、脫水或酸中毒等狀態下，HbS 容易聚合，使紅血球變硬、變形，造成溶血與微血管阻塞。\n\n【選項詳解】\n- A. 錯誤。Sickle-cell disease 是遺傳性血紅蛋白病，典型為常染色體隱性遺傳，不是後天非遺傳疾病。\n- B. 錯誤。疾病源於 hemoglobin S 結構異常，不是 erythropoietin 不足；EPO 缺乏較常見於慢性腎臟病造成的貧血。\n- C. 錯誤。帶有 sickle-cell trait 的異合子對惡性瘧疾有相對保護效果，這可解釋 HbS 等位基因在瘧疾盛行地區的保留。\n- D. 正確。鐮刀狀紅血球彈性下降，通過微血管時不易變形，容易卡住並造成 vaso-occlusive crisis，進而引起疼痛、缺血與器官損傷。\n\n【核心考點】\nSickle-cell disease 是 HbS 聚合造成的遺傳性溶血與血管阻塞疾病；紅血球變硬、通過微血管能力下降，是臨床疼痛危象與組織缺血的關鍵。",
+      "key_point": "HbS 在低氧等狀態下聚合，使紅血球變硬、通過微血管能力下降，造成血管阻塞與溶血。",
+      "flashcard_front": "Sickle-cell disease：遺傳、微血管阻塞、瘧疾關係",
+      "flashcard_back": "Sickle-cell disease 是 beta-globin 遺傳突變；鐮刀狀紅血球不易通過微血管，異合子對惡性瘧疾有相對保護。",
+      "flashcard_summary": "鐮刀型紅血球疾病 -> HbS 聚合讓 RBC 變硬，較不易通過微血管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問 baroreceptor 放電增加後的生理效應。動脈壓升高會拉伸 carotid sinus 與 aortic arch 的壓力感受器，使傳入放電增加；中樞反射會增加迷走副交感輸出、降低交感輸出，讓血壓下降。\n\n【選項詳解】\n- A. 正確。副交感迷走活性增加會降低竇房結放電速率，交感活性下降也減少心臟促進作用，因此心跳速率會減緩，出現 bradycardia 傾向。\n- B. 錯誤。Baroreceptor 放電增加會抑制交感神經，使心肌收縮力下降、靜脈回流與周邊阻力降低，心搏量通常不會因這個反射而增加。\n- C. 錯誤。此反射不只抑制心臟交感神經，也會增加心臟副交感迷走神經活性；兩者共同造成心跳變慢。\n- D. 錯誤。壓力感受器放電增加時，生理方向是增加副交感、抑制交感；選項寫成抑制副交感且不影響交感，方向錯誤。\n\n【核心考點】\nBaroreceptor reflex 是血壓短期負回饋：血壓升高時放電增加，會增加副交感並抑制交感，使心跳變慢、收縮力下降與血管舒張。",
+      "key_point": "Baroreceptor 放電增加代表動脈壓偏高，反射結果是副交感上升、交感下降，造成 bradycardia。",
+      "flashcard_front": "Baroreceptor discharge 增加會造成什麼？",
+      "flashcard_back": "壓力感受器放電增加 -> 增加迷走副交感、抑制交感 -> 心跳變慢、收縮力下降、血管舒張。",
+      "flashcard_summary": "Baroreceptor reflex -> 放電增加會讓心跳速率減緩。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題提供血壓 120/50 mmHg，要求判斷脈搏壓與平均動脈壓的計算。脈搏壓（pulse pressure, PP）等於收縮壓減舒張壓，所以是 120 - 50 = 70 mmHg；平均動脈壓（MAP）在心率正常時可估為 DBP + 1/3 PP，約 50 + 23.3 = 73.3 mmHg。\n\n【選項詳解】\n- A. 錯誤。170 mmHg 是把收縮壓與舒張壓相加，但脈搏壓不是相加，而是兩者相減。\n- B. 正確。Pulse pressure = systolic pressure - diastolic pressure = 120 - 50 = 70 mmHg，與選項數值相符。\n- C. 錯誤。MAP 約為舒張壓加三分之一脈搏壓，也就是 50 + 70/3，約 73 mmHg；85 mmHg 高於此估算值。\n- D. 錯誤。97 mmHg 更接近把收縮壓權重算得過高；一般休息心率下，舒張期較長，MAP 較接近舒張壓而不是收縮壓。\n\n【核心考點】\n血壓計算題先算 PP = SBP - DBP，再算 MAP = DBP + 1/3 PP；120/50 mmHg 的 PP 是 70 mmHg，MAP 約 73 mmHg。",
+      "key_point": "PP = SBP - DBP；MAP 約等於 DBP + 1/3 PP。血壓 120/50 mmHg 時 PP = 70 mmHg，MAP 約 73 mmHg。",
+      "flashcard_front": "血壓 120/50：PP 與 MAP 怎麼算？",
+      "flashcard_back": "PP = 120 - 50 = 70 mmHg；MAP 約 50 + 1/3 × 70 = 73 mmHg。",
+      "flashcard_summary": "血壓計算 -> 120/50 的脈搏壓是 70 mmHg，MAP 約 73 mmHg。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題問心臟與血管瓣膜敘述中哪一項最不合理。房室瓣與半月瓣負責心臟內單向流動，下肢靜脈瓣可防止血液逆流；但成人下腔靜脈進入右心房處沒有需要開啟才能回流的功能性瓣膜。\n\n【選項詳解】\n- A. 正確。二尖瓣（mitral valve，也可稱 bicuspid valve）位於左心房與左心室之間；左心室舒張、二尖瓣開啟時，血液可由左心房流入左心室。\n- B. 正確。主動脈半月瓣位於左心室與主動脈之間；左心室收縮壓超過主動脈壓時瓣膜開啟，血液進入主動脈並供應體循環大部分器官。\n- C. 正確。股靜脈等下肢周邊靜脈有靜脈瓣，配合骨骼肌幫浦讓血液朝心臟方向前進，並減少重力造成的逆流。\n- D. 錯誤。下腔靜脈與右心房交界在成人沒有具阻逆流功能、必須開啟才讓血液回流的瓣膜；所謂 Eustachian valve 多為胚胎殘餘，成人通常不具有這種單向閥功能。\n\n【核心考點】\n心臟內有房室瓣與半月瓣，下肢靜脈常有靜脈瓣；成人大靜脈進入心房處通常沒有功能性瓣膜，靜脈回流主要依壓力梯度、呼吸幫浦與心房舒張等因素。",
+      "key_point": "成人下腔靜脈進入右心房處無功能性單向瓣膜；二尖瓣、主動脈瓣與下肢靜脈瓣才是典型功能性瓣膜。",
+      "flashcard_front": "哪些心血管位置有功能性瓣膜？",
+      "flashcard_back": "二尖瓣、主動脈瓣與下肢靜脈瓣有功能性瓣膜；成人下腔靜脈進入右心房處沒有必須開啟才回流的功能性瓣膜。",
+      "flashcard_summary": "心血管瓣膜 -> 成人 IVC-右心房交界無功能性單向瓣膜。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:09+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

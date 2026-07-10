@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問嘴唇解剖中哪個敘述錯誤。嘴唇的肌肉核心、唇繫帶與唇動脈來源都符合解剖事實；錯在把嘴唇淋巴引流簡化成只到頦下淋巴結，實際上上唇與下唇外側主要流向下頜下淋巴結。\n\n【選項詳解】\n- A. 正確。口輪匝肌（orbicularis oris）環繞口裂，是嘴唇閉合、噘嘴與控制口裂形狀的主要肌肉。\n- B. 錯誤。只有下唇中央部位常引流至頦下淋巴結（submental nodes）；上唇與下唇外側部位主要引流至下頜下淋巴結（submandibular nodes），所以「只引流到頦下」過度限縮。\n- C. 正確。上、下唇內側黏膜在正中處都可見唇繫帶（labial frenulum），連接唇黏膜與牙齦區。\n- D. 正確。上唇動脈與下唇動脈來自顏面動脈（facial artery），在嘴唇內形成豐富吻合，供應唇部組織。\n\n【核心考點】\n嘴唇淋巴引流要分區記：下唇中央偏頦下淋巴結，上唇與下唇外側偏下頜下淋巴結；唇部血供則主要來自顏面動脈的上、下唇動脈。",
+      "key_point": "嘴唇淋巴引流具區域差異：下唇中央至頦下淋巴結，上唇與下唇外側至下頜下淋巴結。",
+      "flashcard_front": "嘴唇淋巴引流：下唇中央、上唇、下唇外側各流向哪裡？",
+      "flashcard_back": "下唇中央多流向頦下淋巴結；上唇與下唇外側多流向下頜下淋巴結。嘴唇血供來自顏面動脈的上、下唇動脈。",
+      "flashcard_summary": "嘴唇淋巴 -> 下唇中央至頦下；上唇與下唇外側至下頜下",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題問中耳鼓室黏膜的一般感覺來源。舌咽神經（CN IX）發出鼓室神經（tympanic nerve, Jacobson nerve），進入鼓室形成鼓室叢，負責鼓室黏膜、咽鼓管與乳突小房的一般感覺。\n\n【選項詳解】\n- A. 錯誤。三叉神經（CN V）可經耳顳神經參與外耳道與鼓膜外側面的感覺，但不是中耳鼓室黏膜的主要感覺來源。\n- B. 錯誤。顏面神經（CN VII）經過面神經管，並有鼓索神經與鐙骨肌神經等分支；其重點是味覺、副交感與鐙骨肌運動功能，不主導鼓室黏膜一般感覺。\n- C. 正確。舌咽神經（CN IX）的鼓室神經在鼓室內形成鼓室叢，傳遞中耳鼓室黏膜、咽鼓管與乳突小房的一般感覺。\n- D. 錯誤。迷走神經（CN X）的耳支可支配部分外耳道與鼓膜外側面，與鼓室腔內黏膜的主要感覺支配不同。\n\n【核心考點】\n耳部感覺支配要分內外：中耳鼓室黏膜由 CN IX 鼓室神經負責；外耳道與鼓膜外側面則牽涉 CN V、CN X 與少量 CN VII 交通支。",
+      "key_point": "中耳鼓室黏膜的一般感覺主要由舌咽神經 CN IX 的鼓室神經與鼓室叢傳遞。",
+      "flashcard_front": "中耳鼓室黏膜的一般感覺由哪條腦神經負責？",
+      "flashcard_back": "由舌咽神經（CN IX）的鼓室神經負責；鼓室神經形成鼓室叢，支配鼓室黏膜、咽鼓管與乳突小房。",
+      "flashcard_summary": "中耳鼓室黏膜一般感覺 -> CN IX 鼓室神經",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題以視野缺損圖判斷視覺傳導路徑病灶。視交叉後的視徑已經攜帶對側半邊視野資訊；左視徑包含左眼顳側視網膜與右眼鼻側視網膜纖維，對應右半側視野，因此受損會造成右側同向偏盲。\n\n【選項詳解】\n- A. 正確。左視徑（left optic tract）受損會使雙眼右半側視野喪失，表現為右側同向偏盲（right homonymous hemianopia）。\n- B. 錯誤。視交叉正中部受壓常傷到交叉的鼻側視網膜纖維，典型結果是雙顳側偏盲（bitemporal hemianopia），不是單側同向偏盲。\n- C. 錯誤。右視神經在視交叉前，仍只攜帶右眼所有視野訊息；病灶會造成右眼單眼視力喪失或右眼全盲。\n- D. 錯誤。右外膝狀核（right lateral geniculate nucleus）位於視交叉後，若受損會影響左半側視野，造成左側同向偏盲。\n\n【核心考點】\n視覺路徑病灶用視交叉作分界：視神經病灶造成同側單眼盲；視交叉正中病灶造成雙顳側偏盲；視徑、外膝狀核與視放射病灶造成對側同向偏盲。",
+      "key_point": "左視徑受損會造成右側同向偏盲；視交叉後病灶通常影響對側半邊視野。",
+      "flashcard_front": "左視徑受損會造成哪一種視野缺損？",
+      "flashcard_back": "左視徑受損會造成右側同向偏盲，因左視徑攜帶右半側視野資訊。",
+      "flashcard_summary": "左視徑病灶 -> 右側同向偏盲",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問右後胸壁的主要靜脈回流。奇靜脈系統左右不對稱：右側後胸壁多直接進入奇靜脈（azygos vein），左側後胸壁則經半奇靜脈與副半奇靜脈跨中線匯入奇靜脈。\n\n【選項詳解】\n- A. 錯誤。內胸靜脈（internal thoracic vein）沿胸骨旁走行，主要收集前胸壁與乳房內側等區域，並回流至頭臂靜脈，不是右後胸壁主幹。\n- B. 錯誤。半奇靜脈（hemiazygos vein）位於脊柱左下側，主要收集左下後胸壁與部分腹壁靜脈血，再跨向右側注入奇靜脈。\n- C. 錯誤。副半奇靜脈（accessory hemiazygos vein）位於脊柱左上側，收集左上後胸壁靜脈血，之後通常跨中線加入奇靜脈。\n- D. 正確。奇靜脈（azygos vein）位於脊柱右側，收集右側後肋間靜脈等右後胸壁血液，向上經奇靜脈弓注入上腔靜脈。\n\n【核心考點】\n後胸壁靜脈回流看左右側：右側主要歸奇靜脈，左側分別由半奇與副半奇靜脈收集後跨入奇靜脈，最後進入上腔靜脈。",
+      "key_point": "右後胸壁靜脈血主要回流至奇靜脈；左側後胸壁則經半奇與副半奇靜脈匯入奇靜脈。",
+      "flashcard_front": "右後胸壁的主要靜脈回流到哪條靜脈？",
+      "flashcard_back": "主要回流至奇靜脈（azygos vein），再經奇靜脈弓注入上腔靜脈。",
+      "flashcard_summary": "右後胸壁靜脈回流 -> 奇靜脈 -> 上腔靜脈",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問漿液性心包膜壁層的痛覺傳入。纖維性心包膜與漿液性心包膜壁層由膈神經（phrenic nerve, C3-C5）提供一般感覺與痛覺，因此心包發炎可出現肩頸放射痛。\n\n【選項詳解】\n- A. 錯誤。肋間神經主要支配胸壁皮膚、肋間肌與壁層胸膜周邊部位的感覺，不是心包膜壁層痛覺的主要傳入神經。\n- B. 錯誤。迷走神經負責心臟副交感調控，也參與部分內臟感覺，但不負責漿液性心包膜壁層的敏銳痛覺。\n- C. 錯誤。交感神經幹與心臟交感支配及心肌缺血相關內臟痛較有關；心包膜壁層的一般體感痛覺仍由膈神經傳遞。\n- D. 正確。膈神經行經縱隔時分支至纖維性心包膜與漿液性心包膜壁層，傳遞痛覺；其 C3-C5 來源也解釋肩部放射痛。\n\n【核心考點】\n心包膜感覺支配要分層：纖維性心包膜與壁層漿液性心包膜由膈神經傳遞痛覺；臟層心包膜較偏自主神經支配且對痛覺不敏感。",
+      "key_point": "纖維性心包膜與漿液性心包膜壁層的痛覺由膈神經 C3-C5 傳遞。",
+      "flashcard_front": "漿液性心包膜壁層的痛覺由哪條神經傳遞？",
+      "flashcard_back": "由膈神經（phrenic nerve, C3-C5）傳遞；因此心包炎疼痛可放射到肩頸部。",
+      "flashcard_summary": "心包膜壁層痛覺 -> 膈神經 C3-C5",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問支氣管肺節段的解剖特徵。每個肺段是由節段支氣管與伴行肺動脈供應的相對獨立單位，肺靜脈多行於段間，因此外科上可切除單一肺段並盡量保留鄰近肺段功能。\n\n【選項詳解】\n- A. 錯誤。支氣管肺節段由一條三級支氣管，也就是節段支氣管（segmental bronchus）供氣；細支氣管是更遠端、更小的氣道，不能代表整個肺段的主要入口。\n- B. 錯誤。右肺通常有 10 個支氣管肺節段；左肺因心臟位置與解剖變異，較常見節段合併，常列為 8 到 10 個。\n- C. 錯誤。肺動脈分支通常與節段支氣管伴行，走在肺段內部；段與段之間較常見的是肺靜脈分支。\n- D. 正確。支氣管肺節段有自己的節段支氣管、肺動脈分支與結締組織分隔，病灶局限時可做肺段切除術（segmentectomy），減少對鄰近肺段的功能影響。\n\n【核心考點】\n肺段解剖的高分辨識點是「支氣管與肺動脈走段內，肺靜脈走段間」。這種相對獨立性讓單一肺段可作為外科切除單位。",
+      "key_point": "支氣管肺節段由節段支氣管與肺動脈供應，肺靜脈走段間，因此可作為肺段切除單位。",
+      "flashcard_front": "支氣管肺節段中，肺動脈與肺靜脈通常各走在哪裡？",
+      "flashcard_back": "肺動脈與節段支氣管多走在肺段內；肺靜脈多走在段間。肺段可相對獨立切除。",
+      "flashcard_summary": "肺段 -> 節段支氣管與肺動脈走段內；肺靜脈走段間",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題問胸骨角（sternal angle, Angle of Louis）的正確描述。胸骨角位於胸骨柄與胸骨體交界，兩側接第二肋軟骨，向後約對應 T4-T5 椎間盤，是計數肋骨與定位縱隔結構的重要體表標誌。\n\n【選項詳解】\n- A. 錯誤。胸骨角兩側連接第二肋軟骨；第一肋主要連接胸骨柄，且位置較深，不是胸骨角用來計數肋骨的標誌。\n- B. 正確。胸骨角水平面向後投影約位於第四與第五胸椎之間，常用來標記上下縱隔分界、氣管分叉與主動脈弓相關平面。\n- C. 錯誤。胸骨體與劍突交界稱為胸劍關節（xiphisternal joint），位置較低；胸骨角是胸骨柄與胸骨體交界。\n- D. 錯誤。胸骨柄體關節屬次級軟骨關節（symphysis），不是滑液關節；年長時可逐漸骨化，但這不改變其年輕時的關節分類。\n\n【核心考點】\n胸骨角要連在三件事一起記：位置在胸骨柄體交界、兩側接第二肋軟骨、後方對應 T4-T5 椎間盤。這些特徵讓它成為胸部理學檢查與縱隔定位的關鍵標誌。",
+      "key_point": "胸骨角位於胸骨柄體交界，兩側接第二肋軟骨，後方約對應 T4-T5 椎間盤。",
+      "flashcard_front": "胸骨角的三個重要解剖定位是什麼？",
+      "flashcard_back": "位於胸骨柄與胸骨體交界，兩側接第二肋軟骨，後方約對應 T4-T5 椎間盤。",
+      "flashcard_summary": "胸骨角 -> 第二肋、胸骨柄體交界、T4-T5",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題問下膈動脈的起源。下膈動脈（inferior phrenic artery）供應橫膈下表面，通常直接自腹主動脈近端發出，也可能有變異起自腹腔幹；在國考單選脈絡中，最佳對應來源是腹主動脈。\n\n【選項詳解】\n- A. 正確。下膈動脈多為腹主動脈最上方的成對壁支之一，在主動脈穿過橫膈後於腹腔內發出，供應橫膈下表面。\n- B. 錯誤。下膈動脈常分出腎上腺上動脈（superior suprarenal arteries）供應腎上腺；方向是下膈動脈供出腎上腺上動脈，不是由腎上腺動脈供出下膈動脈。\n- C. 錯誤。內胸動脈在胸腔前壁下行，會分出心包膈動脈與肌膈動脈，供應胸壁、心包與橫膈上方相關區域，並非下膈動脈來源。\n- D. 錯誤。胸主動脈位於橫膈以上；供應橫膈下表面的下膈動脈在腹腔側發出，因此歸腹主動脈系統。\n\n【核心考點】\n橫膈血供要分上下表面：下膈動脈主要來自腹主動脈近端，並可供出腎上腺上動脈；胸腔側則可見內胸動脈分支與胸主動脈相關分支。",
+      "key_point": "下膈動脈主要起自腹主動脈近端，供應橫膈下表面，並常分出腎上腺上動脈。",
+      "flashcard_front": "下膈動脈通常起自哪條血管？",
+      "flashcard_back": "通常起自腹主動脈近端，供應橫膈下表面，並可分出腎上腺上動脈。",
+      "flashcard_summary": "下膈動脈 -> 腹主動脈近端",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題問哪個器官屬腹膜後器官。胰臟大部分在胚胎發育後貼附於後腹壁，成為次發性腹膜後器官；相較之下，胃與空腸有明顯繫膜，肝臟大部分也被腹膜覆蓋，屬腹膜內器官的考法範圍。\n\n【選項詳解】\n- A. 錯誤。肝臟大部分被臟層腹膜覆蓋，雖有裸區（bare area）直接貼近橫膈，但整體分類通常歸為腹膜內器官。\n- B. 錯誤。胃由大網膜與小網膜連接，表面被臟層腹膜覆蓋，是典型腹膜內器官。\n- C. 錯誤。空腸由腸繫膜懸吊，活動度高，屬腹膜內器官，不是後腹壁固定的腹膜後器官。\n- D. 正確。胰臟大部分，尤其頭、頸、體部，屬次發性腹膜後器官；例外是胰尾位於脾腎韌帶內，較接近腹膜內位置。\n\n【核心考點】\n腹膜後器官可用胚胎貼回後腹壁的概念理解：胰臟大部分與十二指腸第二至第四段、升結腸、降結腸屬次發性腹膜後；胃、空腸與大部分肝臟屬腹膜內。",
+      "key_point": "胰臟大部分為次發性腹膜後器官；胃、空腸與大部分肝臟屬腹膜內器官。",
+      "flashcard_front": "肝臟、胃、空腸、胰臟中，哪個是腹膜後器官？",
+      "flashcard_back": "胰臟大部分為次發性腹膜後器官；胰尾是常見例外。胃與空腸有繫膜，肝臟大部分被腹膜覆蓋。",
+      "flashcard_summary": "腹膜後器官 -> 胰臟大部分；胃與空腸為腹膜內",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問肝圓韌帶的胚胎遺跡來源。胎兒期左臍靜脈把胎盤含氧血帶入胎兒，出生後閉鎖成肝圓韌帶，位於鐮狀韌帶游離緣；其他胎兒循環結構各自形成不同韌帶或殘跡。\n\n【選項詳解】\n- A. 錯誤。靜脈導管（ductus venosus）出生後閉鎖形成靜脈韌帶（ligamentum venosum），位於肝臟臟面的靜脈韌帶裂，不是肝圓韌帶。\n- B. 正確。左臍靜脈（umbilical vein）出生後閉鎖，形成肝圓韌帶（round ligament of liver, ligamentum teres hepatis）。\n- C. 錯誤。臍動脈出生後遠端閉鎖形成內側臍韌帶（medial umbilical ligaments），近端仍可形成上膀胱動脈。\n- D. 錯誤。臍尿管（urachus）是膀胱頂到臍部的胚胎連結，出生後形成正中臍韌帶（median umbilical ligament）。\n\n【核心考點】\n胎兒循環與胚胎殘跡要成對背：左臍靜脈變肝圓韌帶，靜脈導管變靜脈韌帶，臍動脈遠端變內側臍韌帶，臍尿管變正中臍韌帶。",
+      "key_point": "肝圓韌帶是左臍靜脈出生後閉鎖形成的遺跡，不是靜脈導管或臍尿管。",
+      "flashcard_front": "肝圓韌帶、靜脈韌帶、內側臍韌帶、正中臍韌帶各來自什麼胚胎結構？",
+      "flashcard_back": "肝圓韌帶來自左臍靜脈；靜脈韌帶來自靜脈導管；內側臍韌帶來自臍動脈遠端；正中臍韌帶來自臍尿管。",
+      "flashcard_summary": "肝圓韌帶 -> 左臍靜脈閉鎖；靜脈導管 -> 靜脈韌帶",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:55:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

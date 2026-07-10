@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題比較真核與原核 DNA 複製所需蛋白。真核染色體為線性 DNA，複製滯後鏈末端 RNA primer 移除後會留下無法由 DNA polymerase 補上的缺口，因此需要端粒酶維持端粒長度；多數原核染色體為環狀 DNA，沒有同樣的末端複製問題。\n\n【選項詳解】\n- A. 錯誤。Primase 負責合成 RNA primer，讓 DNA polymerase 能從 3'-OH 開始延伸；真核與原核複製都需要先做引子，差別只在相關蛋白複合體不同。\n- B. 錯誤。Helicase 利用 ATP 解開雙股 DNA，讓複製叉能前進；真核 MCM complex 與原核 DnaB 都執行這類解旋功能。\n- C. 正確。Telomerase 是帶有 RNA 模板的 reverse transcriptase，可延長真核線性染色體末端的 telomere repeats，補償每次複製造成的末端縮短。\n- D. 錯誤。Topoisomerase 解除複製叉前方累積的 supercoiling 張力；真核與原核都需要此功能，原核 DNA gyrase 也是拓樸異構酶的一種。\n\n【核心考點】\n線性染色體才有典型 end-replication problem；telomerase 以自身 RNA 為模板延長 telomere，是區分真核染色體複製與多數原核環狀染色體複製的高頻考點。",
+      "key_point": "Telomerase 解決真核線性染色體的末端複製問題；primase、helicase、topoisomerase 則是真核與原核複製都會用到的功能。",
+      "flashcard_front": "真核線性染色體複製；end-replication problem；哪個蛋白最具真核特異性？",
+      "flashcard_back": "Telomerase。它含 RNA 模板與 reverse transcriptase 活性，可延長 telomere，補償滯後鏈末端 primer 移除後造成的縮短。",
+      "flashcard_summary": "真核染色體複製 -> telomerase 延長 telomere，處理線性 DNA 末端複製問題。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\nPCNA 與大腸桿菌 DNA polymerase III 的 beta subunit 都是 sliding clamp。它們形成環狀結構套住 DNA，並把 DNA polymerase 留在模板上，使聚合酶能連續加入大量核苷酸後才脫離。\n\n【選項詳解】\n- A. 錯誤。Proofreading 來自 DNA polymerase 的 3'→5' exonuclease 活性，負責切除剛加入的錯配核苷酸；PCNA 或 beta clamp 本身不進行校對催化。\n- B. 錯誤。Sliding clamp 主要增加聚合酶停留在 DNA 上的時間，不是直接提高每次 phosphodiester bond 形成的催化速率。\n- C. 正確。Processivity 指酵素每次結合模板後可連續合成的核苷酸數；PCNA 與 beta subunit 都透過環狀夾持 DNA 與聚合酶來大幅提升 processivity。\n- D. 錯誤。3'→5' DNA 水解活性屬於校對外切酶功能，位於特定 DNA polymerase 亞基或結構域；sliding clamp 是結構輔助蛋白，不切割 DNA。\n\n【核心考點】\nPCNA 與 beta subunit 的共同身份是 sliding clamp。考 processivity 時要想到「讓 polymerase 不容易掉下來」，不是校對、核酸水解或直接提升單次催化速度。",
+      "key_point": "PCNA 與 bacterial beta clamp 都是 sliding clamp，功能是增加 DNA polymerase 的 processivity。",
+      "flashcard_front": "PCNA 與 E. coli DNA pol III beta subunit；共同功能？",
+      "flashcard_back": "兩者都是 sliding clamp，將 DNA polymerase 穩定固定在 DNA 上，增加連續合成能力 processivity。",
+      "flashcard_summary": "Sliding clamp -> PCNA/beta subunit 增加 DNA polymerase processivity。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nBase-excision repair 用來處理小型、非嚴重扭曲 DNA 雙股的鹼基損傷，例如 uracil、氧化或烷基化鹼基。第一步必須先把受損鹼基從 deoxyribose 上移除，形成 AP site。\n\n【選項詳解】\n- A. 錯誤。AP endonuclease 作用在 DNA glycosylase 產生的 AP site 之後，切開附近 phosphodiester backbone；它不是辨識並移除受損鹼基的第一個酵素。\n- B. 正確。DNA glycosylase 先辨識特定受損鹼基，水解鹼基與糖之間的 N-glycosidic bond，留下 apurinic/apyrimidinic site，啟動 BER 後續修補。\n- C. 錯誤。DNA ligase 負責最後封合 nick，把已填補的新核苷酸與原本 DNA 骨架連接起來，屬於收尾步驟。\n- D. 錯誤。DNA polymerase 在 AP site 被切開並處理後填入正確核苷酸；它需要前面步驟先建立可延伸的 DNA 末端。\n\n【核心考點】\nBER 順序是 DNA glycosylase 移除受損鹼基、AP endonuclease 切開骨架、DNA polymerase 補入核苷酸、DNA ligase 封口。題目問第一個作用酶時，答案鎖定 DNA glycosylase。",
+      "key_point": "Base-excision repair 的第一步是 DNA glycosylase 切斷 N-glycosidic bond，移除受損鹼基並形成 AP site。",
+      "flashcard_front": "Base-excision repair；第一個作用酶？",
+      "flashcard_back": "DNA glycosylase。它先移除受損鹼基，形成 AP site，再由 AP endonuclease、polymerase、ligase 接續修補。",
+      "flashcard_summary": "BER 起始 -> DNA glycosylase 先切除受損鹼基，留下 AP site。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n真核細胞核內主要 RNA polymerase 分工明確。負責蛋白質編碼基因轉錄、產生 pre-mRNA 並經加工成 mRNA 的是 RNA polymerase II。\n\n【選項詳解】\n- A. 錯誤。RNA polymerase I 主要在核仁轉錄大型 rRNA precursor，產生 18S、5.8S、28S rRNA 的前驅物，不負責蛋白質編碼基因的 mRNA。\n- B. 正確。RNA polymerase II 轉錄 protein-coding genes 生成 pre-mRNA，後續經 5' capping、splicing 與 polyadenylation 成熟為 mRNA；它也轉錄部分 small nuclear RNA 與 microRNA。\n- C. 錯誤。RNA polymerase III 主要轉錄 tRNA、5S rRNA 與部分小型 RNA，功能偏向非編碼 RNA 供應。\n- D. 錯誤。RNA polymerase IV 是植物特有的聚合酶之一，與 small RNA-mediated gene silencing 相關；人類與一般動物真核細胞的 mRNA 生成不靠 Pol IV。\n\n【核心考點】\n真核 RNA polymerase 分工：Pol I 產生大部分 rRNA，Pol II 產生 pre-mRNA，Pol III 產生 tRNA 與 5S rRNA。遇到 mRNA 或 protein-coding genes，優先對應 Pol II。",
+      "key_point": "真核細胞 mRNA 由 RNA polymerase II 轉錄；Pol I 主要做 rRNA，Pol III 主要做 tRNA 與 5S rRNA。",
+      "flashcard_front": "真核細胞；mRNA 生成；哪一種 RNA polymerase？",
+      "flashcard_back": "RNA polymerase II，負責轉錄 protein-coding genes，產生 pre-mRNA 後再加工成熟為 mRNA。",
+      "flashcard_summary": "真核轉錄分工 -> mRNA/pre-mRNA 對應 RNA polymerase II。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題是「何者錯誤」題，考泛素化標記後蛋白質的去向。Ubiquitin-proteasome system 以 E1、E2、E3 逐步把 ubiquitin 接到受質蛋白，常見降解終點是 26S proteasome，而不是 lysosome。\n\n【選項詳解】\n- A. 正確。E1 activating enzyme 需要 ATP 活化 ubiquitin，先形成 ubiquitin-adenylate，再與 E1 的 cysteine 形成高能 thioester bond。\n- B. 正確。E2 conjugating enzyme 攜帶 ubiquitin，E3 ligase 負責辨識受質並促進 ubiquitin 從 E2 轉移到目標蛋白；E3 提供底物選擇性。\n- C. 正確。Ubiquitin 通常以其 C 端 Gly76 與受質蛋白 lysine 側鏈 epsilon-amino group 形成 isopeptide bond；多泛素鏈也常透過 ubiquitin 本身 lysine 延伸。\n- D. 錯誤。多泛素化蛋白主要被 26S proteasome 辨識、去泛素化並分解為胜肽；lysosome 主要處理 endocytosis、自噬與細胞器或大型複合物降解。\n\n【核心考點】\n泛素化的經典降解路徑是 E1 耗 ATP 活化、E2 攜帶、E3 選擇受質，最後由 proteasome 分解多泛素化蛋白。考「錯誤」時，將 ubiquitinated proteins 說成主要由 lysosome 分解就是陷阱。",
+      "key_point": "多泛素化蛋白主要進入 26S proteasome 降解；E1 需 ATP，E3 負責底物辨識，ubiquitin 常接在 lysine 上。",
+      "flashcard_front": "Ubiquitination；E1/E2/E3；多泛素化蛋白主要在哪裡降解？",
+      "flashcard_back": "主要由 26S proteasome 降解，不是 lysosome。Lysosome 更偏向自噬、內吞物與細胞器降解。",
+      "flashcard_summary": "Ubiquitin-proteasome system -> 多泛素化標記導向 proteasome 分解。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\nTranslation elongation 每一輪都依序讓 aminoacyl-tRNA 進入 A site、形成 peptide bond、核糖體 translocation，最後讓去醯化 tRNA 從 E site 離開。因此四步的正確排序是 1→2→3→4。\n\n【選項詳解】\n- A. 正確。步驟 1 先由帶胺基酸的 tRNA 進入 A site；步驟 2 由大次單元 rRNA 的 peptidyl transferase 活性形成胜肽鍵；步驟 3 核糖體沿 mRNA 移動一個 codon；步驟 4 空載 tRNA 從 E site 釋放。\n- B. 錯誤。3142 把 translocation 放在 aminoacyl-tRNA 進入 A site 之前；A site 尚未有新 tRNA 時，無法完成該輪延伸所需的位移與胜肽鏈轉移。\n- C. 錯誤。3214 先 translocation 再形成 peptide bond，會顛倒 A site 與 P site 間的胜肽鏈轉移；peptide bond 必須先形成，肽醯 tRNA 才能在 translocation 後移到 P site。\n- D. 錯誤。1324 把 translocation 排在 peptide bond 前；若尚未形成新胜肽鍵，A site 的 aminoacyl-tRNA 還沒有接上 growing peptide，不能進入下一輪正確位移。\n\n【核心考點】\n延伸期的固定邏輯是 A site 接受 aminoacyl-tRNA，P site 的胜肽鏈轉移到 A site，接著 translocation，最後 E site 釋出空 tRNA。順序題用 A、P、E 三個位點的物理位置判斷最穩。",
+      "key_point": "Translation elongation 順序為 aminoacyl-tRNA 進入 A site、peptide bond formation、translocation、deacylated tRNA release。",
+      "flashcard_front": "Translation elongation；tRNA 結合、胜肽鍵、轉位、釋放的順序？",
+      "flashcard_back": "1→2→3→4：aminoacyl-tRNA 進 A site，形成胜肽鍵，核糖體 translocation，空 tRNA 從 E site 離開。",
+      "flashcard_summary": "轉譯延伸 -> tRNA 進入 A site → 形成胜肽鍵 → translocation → 空 tRNA 釋放。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\nRNA polymerase II 產生的 pre-mRNA 在 3' 端加工時，需要 polyadenylation signal 指引切割與加 poly-A tail。最典型的核心訊號是 RNA 序列 5'-AAUAAA-3'，位於切割位點上游。\n\n【選項詳解】\n- A. 錯誤。此序列含有 AUG、GC-rich 片段與 U-rich 結尾，但未出現 AAUAAA；缺少 Pol II pre-mRNA 3' 端加工最典型的核心辨識序列。\n- B. 錯誤。此序列可見 AUUCAU 與多段 GC-rich 區域，但沒有 AAUAAA，因此不符合典型 polyadenylation signal。\n- C. 錯誤。此序列有 U-rich 區域，但 AAUAAA 不存在；U-rich 或 GU-rich downstream element 可輔助加工，但不能取代核心 AAUAAA 訊號。\n- D. 正確。序列中明確包含 AAUAAA，會被 cleavage and polyadenylation specificity factor (CPSF) 辨識，促進下游切割並由 poly(A) polymerase 加上 poly-A tail。\n\n【核心考點】\n真核 Pol II pre-mRNA 的 polyadenylation signal 以 AAUAAA 為代表。選序列題時先掃是否有 AAUAAA，再考慮下游 U/GU-rich 區域等輔助訊號。",
+      "key_point": "真核 Pol II pre-mRNA 的典型 polyadenylation signal 是 5'-AAUAAA-3'。",
+      "flashcard_front": "Pol II pre-mRNA；polyadenylation signal；典型核心序列？",
+      "flashcard_back": "5'-AAUAAA-3'。CPSF 辨識此序列後，促進下游切割與 poly-A tail 添加。",
+      "flashcard_summary": "Polyadenylation signal -> AAUAAA 是 Pol II pre-mRNA 3' 端加工的典型核心序列。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n本題考一分子 acetyl-CoA 進入 TCA cycle 後的產物計量。每轉一圈會釋放 2 CO2、產生 3 NADH、1 FADH2 與 1 GTP 或 ATP。\n\n【選項詳解】\n- A. 錯誤。TCA cycle 有 substrate-level phosphorylation：succinyl-CoA synthetase 將 succinyl-CoA 轉為 succinate，同時產生 GTP 或 ATP。\n- B. 正確。一次完整 TCA cycle 有兩個氧化脫羧步驟，分別在 isocitrate dehydrogenase 與 alpha-ketoglutarate dehydrogenase 反應中釋放 CO2。\n- C. 錯誤。一次循環產生 3 NADH，來自 isocitrate dehydrogenase、alpha-ketoglutarate dehydrogenase 與 malate dehydrogenase，而不是 2 NADH。\n- D. 錯誤。一次循環只產生 1 FADH2，來自 succinate dehydrogenase 將 succinate 氧化為 fumarate 的反應。\n\n【核心考點】\nTCA cycle 的高頻數字是每一 acetyl-CoA：2 CO2、3 NADH、1 FADH2、1 GTP/ATP。受質級磷酸化發生在 succinyl-CoA synthetase 步驟。",
+      "key_point": "每一 acetyl-CoA 進入 TCA cycle 產生 2 CO2、3 NADH、1 FADH2、1 GTP/ATP。",
+      "flashcard_front": "TCA cycle；每一 acetyl-CoA 的 CO2/NADH/FADH2/GTP 產量？",
+      "flashcard_back": "2 CO2、3 NADH、1 FADH2、1 GTP 或 ATP；GTP/ATP 來自 succinyl-CoA synthetase 的受質級磷酸化。",
+      "flashcard_summary": "TCA 計量 -> 2 CO2、3 NADH、1 FADH2、1 GTP/ATP per acetyl-CoA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\nKeratan sulfate 是糖胺聚糖的一員，常見於角膜、軟骨與骨。它的重複雙醣由 galactose 與 N-acetylglucosamine 組成，並可被硫酸化；特色是不含 uronic acid。\n\n【選項詳解】\n- A. 錯誤。Galactose 雖然是 keratan sulfate 的成分之一，但 glucose 不是其重複雙醣中的胺基糖成分；keratan sulfate 需要 N-acetylglucosamine。\n- B. 正確。Keratan sulfate 的重複單元由 galactose 與 N-acetylglucosamine 交替構成，常見硫酸化位置包括 Gal 或 GlcNAc 的 C6。\n- C. 錯誤。Glucuronic acid 與 N-acetylglucosamine 是 hyaluronan 的典型組合；keratan sulfate 與多數 GAG 不同，沒有 glucuronic acid 或 iduronic acid。\n- D. 錯誤。Glucuronic acid 與 glucose 不符合 keratan sulfate 的組成；其中缺少 N-acetylglucosamine，且多了 keratan sulfate 不含的 uronic acid。\n\n【核心考點】\nKeratan sulfate 的組合是 galactose + N-acetylglucosamine，並且是不含 uronic acid 的 GAG 特例。看到角膜與 keratan sulfate，要把它和 hyaluronan 的 glucuronic acid + GlcNAc 區分開。",
+      "key_point": "Keratan sulfate 由 galactose 與 N-acetylglucosamine 組成，是不含 uronic acid 的 GAG。",
+      "flashcard_front": "Keratan sulfate；角膜；重複雙醣組成？",
+      "flashcard_back": "Galactose + N-acetylglucosamine；keratan sulfate 是 GAG 中不含 uronic acid 的重要例外。",
+      "flashcard_summary": "Keratan sulfate -> galactose + N-acetylglucosamine，無 uronic acid。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\nGluconeogenesis 要繞過 glycolysis 中 pyruvate kinase 的不可逆步驟，不能直接把 pyruvate 反向變回 PEP。細胞用 pyruvate carboxylase 先生成 oxaloacetate，再用 PEP carboxykinase 生成 phosphoenolpyruvate。\n\n【選項詳解】\n- A. 錯誤。Pyruvate kinase 是糖解作用中 PEP 變成 pyruvate 的不可逆酵素，糖質新生不使用它反向催化；pyruvate dehydrogenase 會把 pyruvate 轉成 acetyl-CoA，且該反應不可逆，無法提供 PEP。\n- B. 錯誤。Pyruvate carboxylase 確實把 pyruvate 羧化成 oxaloacetate，但 pyruvate kinase 屬於糖解方向，不能完成 oxaloacetate 到 PEP 的繞道。\n- C. 正確。Pyruvate carboxylase 在粒線體中以 biotin 為輔因子並消耗 ATP，將 pyruvate 變成 oxaloacetate；phosphoenolpyruvate carboxykinase (PEPCK) 消耗 GTP，將 oxaloacetate 脫羧磷酸化成 PEP。\n- D. 錯誤。PEPCK 是糖質新生所需酵素，但 pyruvate dehydrogenase 使 pyruvate 進入 acetyl-CoA 與 TCA cycle 方向，且 acetyl-CoA 不能在動物中淨轉回 glucose。\n\n【核心考點】\nPyruvate 到 PEP 的糖質新生繞道需要兩個酵素：pyruvate carboxylase 產生 oxaloacetate，PEPCK 產生 PEP。Pyruvate kinase 與 pyruvate dehydrogenase 都不是這段繞道的搭檔。",
+      "key_point": "糖質新生中 pyruvate 轉 PEP 需 pyruvate carboxylase 與 PEPCK，分別消耗 ATP 與 GTP。",
+      "flashcard_front": "Gluconeogenesis；pyruvate 轉 PEP；需要哪兩個酵素？",
+      "flashcard_back": "Pyruvate carboxylase 先把 pyruvate 變 oxaloacetate；PEPCK 再把 oxaloacetate 變 PEP。",
+      "flashcard_summary": "Pyruvate -> PEP 繞道 -> pyruvate carboxylase + PEPCK。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

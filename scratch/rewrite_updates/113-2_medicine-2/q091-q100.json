@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題問膽囊膽固醇結石（cholesterol stone）的產生機制，且題幹要選「錯誤」敘述。膽固醇結石的核心是膽汁中膽固醇相對於膽鹽與卵磷脂過飽和，再加上膽囊排空差、膽固醇晶體成核加速與黏液基質增加，讓晶體能停留、聚集並長大。鈣鹽或膽紅素鈣沉積則比較指向色素結石，不是膽固醇結石的主要起點。\n\n【選項詳解】\n- A. 膽汁中鈣離子過飽和：錯誤，符合題意。膽固醇結石首先需要的是膽固醇過飽和，而非鈣離子過飽和；鈣離子與膽紅素鈣沉積較常用來解釋黑色或棕色色素結石。\n- B. 膽囊運動不足(hypomotility)：正確。膽囊收縮與排空不足會造成膽汁滯留，使過飽和的膽固醇晶體有時間析出、沉澱並聚集成結石。\n- C. 加速膽固醇晶體成核(nucleation)：正確。膽固醇從溶解狀態轉成固態晶體需要成核過程；促成核因子增加或抗成核因子減少，都會促進膽固醇結石形成。\n- D. 黏液分泌過多：正確。膽囊黏液糖蛋白可作為晶體附著與聚集的基質，讓微小膽固醇晶體不易被排出並逐漸形成結石。\n\n【核心考點】\n膽固醇結石的重點是「膽固醇過飽和、膽囊低運動、成核加速、黏液基質增加」。看到「鈣離子過飽和」要聯想到色素結石或膽紅素鈣沉積，而不是膽固醇結石的主要機制。",
+      "key_point": "膽固醇結石來自膽固醇過飽和與膽囊滯留，鈣離子過飽和較符合色素結石機制。",
+      "flashcard_front": "膽囊膽固醇結石的主要形成機制有哪些？哪個機制其實較偏向色素結石？",
+      "flashcard_back": "膽固醇結石需要膽固醇過飽和、膽囊運動不足、膽固醇晶體成核加速與黏液基質增加；鈣離子過飽和較偏向色素結石或膽紅素鈣沉積。",
+      "flashcard_summary": "膽固醇結石 -> 膽固醇過飽和與膽囊滯留；鈣離子過飽和 -> 色素結石較典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n本題的關鍵線索是迴腸末端 1 公分黏膜下腫瘤、切面黃色，以及免疫染色 chromogranin 與 synaptophysin 陽性。這組合典型指向胃腸道神經內分泌腫瘤（neuroendocrine tumor, NET；傳統常稱 carcinoid tumor）。小腸 NET 常位於迴腸，常呈黏膜下小結節，鏡下可見巢狀、梁狀或索狀排列，核染色質常呈 salt-and-pepper pattern。\n\n【選項詳解】\n- A. 增生性息肉(hyperplastic polyp)：錯誤。增生性息肉是黏膜上皮增生形成的息肉樣病灶，不是典型黏膜下黃色腫瘤，也不會以 chromogranin、synaptophysin 陽性作為診斷特徵。\n- B. 小管狀腺瘤(tubular adenoma)：錯誤。小管狀腺瘤屬腺上皮腫瘤，重點是腺體結構與上皮異型增生；它不是神經內分泌分化腫瘤，也不符合迴腸黏膜下黃色小腫瘤加神經內分泌標記陽性的描述。\n- C. 神經內分泌腫瘤(neuroendocrine tumor)：正確。迴腸末端是 NET 好發部位之一，chromogranin 與 synaptophysin 是神經內分泌分化的常用免疫標記，題幹線索高度一致。\n- D. 腺癌(adenocarcinoma)：錯誤。腺癌通常呈浸潤性腺體結構，較常造成潰瘍或腸壁浸潤，不以 chromogranin 與 synaptophysin 雙陽性作為主要診斷依據。\n\n【核心考點】\n胃腸道 NET 的考題常用「迴腸黏膜下腫瘤、黃色切面、salt-and-pepper 染色質、chromogranin/synaptophysin 陽性」來提示診斷。只要看到這兩個神經內分泌免疫標記同時出現，就要優先想到 NET。",
+      "key_point": "迴腸黏膜下小腫瘤合併 chromogranin、synaptophysin 陽性，最支持神經內分泌腫瘤。",
+      "flashcard_front": "迴腸末端黏膜下黃色腫瘤，chromogranin 與 synaptophysin 陽性，最可能診斷為何？",
+      "flashcard_back": "神經內分泌腫瘤（NET）。胃腸道 NET 常見於迴腸，常呈黏膜下病灶，免疫染色 chromogranin 與 synaptophysin 陽性。",
+      "flashcard_summary": "迴腸黏膜下腫瘤 + chromogranin/synaptophysin 陽性 -> NET。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n本題問毒物引起的急性腎小管壞死（acute tubular necrosis, ATN）最不可能壞死在哪一段。腎毒性物質常在近端小管被重吸收、濃縮或代謝，因此近端小管，尤其近端直部（S3 segment），最容易受傷；厚上升支也因耗氧與轉運負荷高而容易受損。集尿管雖可見管型與壞死碎屑堵塞，但上皮本身不是毒物性 ATN 的主要壞死靶區。\n\n【選項詳解】\n- A. 近曲小管(proximal convoluted tubules)：錯誤，不符合「最不可能」。近曲小管負責大量重吸收，容易接觸並累積腎毒性物質，是毒物性 ATN 常見受傷部位。\n- B. 亨耳氏環上升支(ascending limbs of Henle's loop)：錯誤，不符合「最不可能」。上升支尤其厚上升支有高度主動運輸與能量需求，在缺氧或毒性壓力下也容易受損。\n- C. 近曲小管直部(straight segments of proximal tubules)：錯誤，不符合「最不可能」。近端直部 S3 段位於外髓質，代謝需求高且易受毒物與缺血影響，是 ATN 的典型脆弱區。\n- D. 集尿管(collecting ducts)：正確，符合題意。集尿管常可被脫落上皮細胞、Tamm-Horsfall 蛋白與顆粒管型堵住，但集尿管上皮本身不是毒物性 ATN 最主要的壞死部位。\n\n【核心考點】\n毒物性 ATN 的高風險部位是近端小管，尤其 S3 段；缺血與毒物也可影響厚上升支。集尿管在 ATN 中常見的是管腔內管型與碎屑，而不是最主要的上皮壞死。",
+      "key_point": "毒物性 ATN 主要傷害近端小管，特別是 S3 段；集尿管多見管型堵塞，不是主要壞死部位。",
+      "flashcard_front": "毒物性急性腎小管壞死最常傷害哪些腎小管段？哪段最不典型？",
+      "flashcard_back": "最常傷害近端小管，尤其近端直部 S3 段，也可累及厚上升支；集尿管本身最不典型，常見的是管型與碎屑堵塞。",
+      "flashcard_summary": "毒物性 ATN -> 近端小管/S3 段最典型；集尿管壞死最不典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題問最常造成次發性副甲狀腺功能亢進症（secondary hyperparathyroidism）的原因。次發性副甲狀腺亢進不是副甲狀腺自己原發性腫瘤化，而是身體長期低血鈣、高血磷或活性維生素 D 不足，反覆刺激副甲狀腺分泌 PTH。最典型且最常見的背景是慢性腎衰竭。\n\n【選項詳解】\n- A. MEN1 mutation：錯誤。MEN1 mutation 會造成多發性內分泌腫瘤第 1 型，常見副甲狀腺腺瘤或增生，屬於原發性副甲狀腺功能亢進的遺傳原因。\n- B. CCND1 gene inversion：錯誤。CCND1（cyclin D1）基因重排或倒位可促進副甲狀腺腺瘤形成，也屬於原發性副甲狀腺功能亢進的腫瘤機制。\n- C. Renal failure：正確。慢性腎衰竭會使磷排泄下降造成高血磷，並使 1-alpha hydroxylation 減少而降低活性維生素 D，進一步降低腸道鈣吸收；低血鈣與高血磷會持續刺激副甲狀腺增生與 PTH 分泌。\n- D. Multiple endocrine neoplasia：錯誤。MEN 相關副甲狀腺病變多屬原發性副甲狀腺功能亢進，不是次發性副甲狀腺亢進最常見原因。\n\n【核心考點】\n次發性副甲狀腺亢進最常見於慢性腎衰竭。記住「腎衰竭 -> 高血磷、低活性維生素 D、低血鈣 -> PTH 代償性升高」；MEN1 與 CCND1 則偏向原發性病因。",
+      "key_point": "慢性腎衰竭是次發性副甲狀腺亢進最常見原因，機制是高血磷、低活性維生素 D 與低血鈣刺激 PTH。",
+      "flashcard_front": "次發性副甲狀腺功能亢進最常見原因為何？腎衰竭如何造成 PTH 上升？",
+      "flashcard_back": "最常見原因是慢性腎衰竭。腎衰竭造成磷排泄下降、活性維生素 D 合成下降與低血鈣，進而刺激副甲狀腺增生並分泌 PTH。",
+      "flashcard_summary": "secondary hyperparathyroidism -> 慢性腎衰竭造成高磷、低鈣、低活性維生素 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n本題問最常造成腦下垂體機能亢進的原因。腦下垂體機能亢進通常指前葉激素分泌過多，例如 prolactin、GH 或 ACTH 過多。最常見原因是功能性腦下垂體前葉腺瘤，而不是增生、癌或下視丘疾病。\n\n【選項詳解】\n- A. 前葉腺瘤：正確。功能性前葉腺瘤可自主分泌激素，是腦下垂體機能亢進最常見病因；常見類型包括泌乳素腺瘤、生長激素腺瘤與 ACTH 腺瘤。\n- B. 前葉增生：錯誤。前葉增生可因下視丘釋放激素刺激或靶器官回饋異常而發生，但頻率遠低於前葉腺瘤，不是最常見原因。\n- C. 前葉癌：錯誤。腦下垂體癌非常罕見，通常需有轉移才診斷為 carcinoma，因此不是造成機能亢進的常見病因。\n- D. 下視丘疾病：錯誤。下視丘病變可影響釋放激素並間接影響垂體功能，但整體而言並非腦下垂體機能亢進最常見原因；臨床上更常見的是垂體前葉本身腺瘤。\n\n【核心考點】\n腦下垂體前葉腺瘤是 hyperpituitarism 的首要病因。考題若問「最常造成垂體機能亢進」，優先選功能性前葉腺瘤；前葉癌罕見，前葉增生與下視丘疾病則不是最常見。",
+      "key_point": "腦下垂體機能亢進最常見原因是功能性前葉腺瘤，而非前葉增生、前葉癌或下視丘疾病。",
+      "flashcard_front": "最常造成腦下垂體機能亢進的病因是什麼？",
+      "flashcard_back": "功能性腦下垂體前葉腺瘤。常見例子包括泌乳素腺瘤、生長激素腺瘤與 ACTH 腺瘤。",
+      "flashcard_summary": "hyperpituitarism -> 最常見是功能性 anterior pituitary adenoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題問 PSA 與其衍生指標中何者「最不適當」。PSA 是前列腺上皮製造的蛋白酶，具有前列腺器官特異性，但不是癌症特異性；前列腺癌、良性前列腺增生、前列腺炎與操作刺激都可能使 PSA 升高。判斷關鍵在 free PSA/total PSA：前列腺癌通常游離 PSA 比例較低，不是較高。\n\n【選項詳解】\n- A. 前列腺特定抗原為前列腺上皮所生成：適當。PSA 主要由前列腺腺體與導管上皮分泌，臨床上可作為前列腺相關疾病的血清指標。\n- B. 除了前列腺癌外，良性前列腺增生症、前列腺炎等情況，都會造成血清中前列腺特定抗原濃度上升：適當。PSA 不是腫瘤特異性指標，BPH、發炎、尿滯留、導尿、切片或其他刺激都可讓 PSA 上升。\n- C. 有關前列腺特定抗原上升速率(PSA velocity)，一般而言，前列腺癌病人的上升速率高於沒有前列腺癌的病人：適當。PSA velocity 反映 PSA 隨時間上升的速度，癌症患者常較良性病變有更快上升趨勢，因此可作為風險判讀輔助。\n- D. 游離與總前列腺特異抗原比值(free PSA/total PSA)，一般而言，前列腺癌病人的比值高於良性前列腺疾病的病人：不適當，符合題意。前列腺癌患者通常有較高比例的蛋白結合型 PSA，因此 free/total PSA ratio 反而較低；良性前列腺增生患者的游離 PSA 比例相對較高。\n\n【核心考點】\nPSA 的陷阱是「前列腺特異但非癌症特異」。前列腺癌風險升高時，PSA velocity 可較快，而 free/total PSA ratio 通常下降；若題目說癌症患者 free/total PSA 比值較高，就是錯誤敘述。",
+      "key_point": "前列腺癌患者 free/total PSA ratio 通常較低；PSA 可因癌症、BPH、前列腺炎或操作刺激而升高。",
+      "flashcard_front": "前列腺癌與良性前列腺疾病相比，free PSA/total PSA ratio 通常如何變化？",
+      "flashcard_back": "前列腺癌通常 free/total PSA ratio 較低，因蛋白結合型 PSA 比例較高；BPH 的游離 PSA 比例相對較高。",
+      "flashcard_summary": "prostate cancer -> free/total PSA ratio 較低；PSA 有器官特異性但無癌症特異性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題描述年輕女性卵巢腫瘤，切面有毛髮與牙齒樣物質，代表腫瘤具有畸胎瘤的三胚層分化；但同時有實性部分、壞死出血，且鏡下可見胚胎時期的神經上皮（immature neuroepithelium）。真正決定答案的是「未成熟神經上皮」，這是未成熟畸胎瘤的重要診斷與分級依據。\n\n【選項詳解】\n- A. 成熟畸胎瘤(mature teratoma)：錯誤。成熟畸胎瘤可以有毛髮、牙齒、皮脂等成熟組織，但其組織應為成熟分化；一旦看到未成熟神經上皮，就不再是單純成熟畸胎瘤。\n- B. 漿液性囊狀腺癌(serous cystadenocarcinoma)：錯誤。漿液性囊狀腺癌是卵巢上皮性惡性腫瘤，常見乳頭狀結構與腺癌細胞，不會以毛髮、牙齒與未成熟神經上皮作為典型特徵。\n- C. 未成熟畸胎瘤(immature teratoma)：正確。未成熟畸胎瘤是惡性生殖細胞腫瘤，可含成熟畸胎瘤成分如毛髮牙齒，但鏡下可見未成熟胚胎性組織，尤其原始神經上皮，是診斷關鍵。\n- D. 胚胎性癌(embryonal carcinoma)：錯誤。胚胎性癌由高度未分化、原始的惡性生殖細胞構成，可出血壞死，但不會分化出毛髮、牙齒等典型畸胎瘤組織。\n\n【核心考點】\n卵巢畸胎瘤的成熟與未成熟差別在鏡下組織分化程度。毛髮與牙齒提示畸胎瘤；若合併未成熟神經上皮，答案就是未成熟畸胎瘤，而不是成熟畸胎瘤。",
+      "key_point": "卵巢腫瘤有毛髮牙齒且出現未成熟神經上皮，診斷為未成熟畸胎瘤。",
+      "flashcard_front": "成熟畸胎瘤與未成熟畸胎瘤最關鍵的病理差異是什麼？",
+      "flashcard_back": "是否含未成熟胚胎性組織，尤其未成熟神經上皮。成熟畸胎瘤只含成熟分化組織；未成熟畸胎瘤可見 immature neuroepithelium。",
+      "flashcard_summary": "毛髮牙齒 + immature neuroepithelium -> immature teratoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題問哪個由造骨母細胞或骨間質細胞分泌的分子，可以結合 RANKL，阻止 RANKL 與蝕骨細胞前驅細胞上的 RANK 受體作用。這是骨重塑中的 RANK/RANKL/OPG 系統：RANKL 促進蝕骨細胞分化與活化；osteoprotegerin（OPG）作為可溶性誘餌受體，抓住 RANKL，讓它不能刺激 RANK。\n\n【選項詳解】\n- A. Wnt：錯誤。Wnt 是促進成骨路徑的重要配體，透過 Wnt/beta-catenin 訊號促進造骨細胞分化與骨形成，但不是用來結合 RANKL 的誘餌受體。\n- B. LRP5/6：錯誤。LRP5/6 是 Wnt 訊號路徑中的共同受體，位於細胞膜上參與成骨訊號傳遞，不是分泌型 RANKL 阻斷分子。\n- C. osteoprotegerin：正確。OPG 由造骨母細胞與骨間質細胞分泌，可作為 RANKL 的 decoy receptor，競爭性結合 RANKL，阻止 RANKL 活化蝕骨細胞前驅細胞上的 RANK，因而抑制骨吸收。\n- D. RUNX2：錯誤。RUNX2 是造骨細胞分化的關鍵轉錄因子，主要在細胞核調控基因表現，不是分泌型蛋白，也不直接結合 RANKL。\n\n【核心考點】\nRANKL 促進蝕骨細胞，OPG 抑制蝕骨細胞。把 OPG 記成「RANKL 的誘餌受體」最容易作答；Wnt、LRP5/6、RUNX2 都偏向成骨細胞分化或骨形成訊號，不是 RANKL 的 soluble blocker。",
+      "key_point": "Osteoprotegerin 是 RANKL 的誘餌受體，可阻止 RANKL-RANK 作用並抑制蝕骨細胞活化。",
+      "flashcard_front": "RANK/RANKL/OPG 系統中，哪個分子作為 RANKL 的誘餌受體？作用為何？",
+      "flashcard_back": "Osteoprotegerin（OPG）。OPG 結合 RANKL，防止 RANKL 刺激蝕骨細胞前驅細胞上的 RANK，因而抑制蝕骨細胞分化與骨吸收。",
+      "flashcard_summary": "OPG -> decoy receptor for RANKL -> 抑制 osteoclast activation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題問軸突性周邊神經病變的錯誤敘述。核心概念是 Wallerian degeneration：周邊神經受傷後，受傷點遠端的軸突與髓鞘會退化，方向是從受傷處往遠端末梢，不是從近端往神經元細胞體。近端通常只退化到鄰近的 Ranvier node 附近，之後可由 Schwann cell 引導再生。\n\n【選項詳解】\n- A. 破壞解離的髓鞘可形成myelin ovoids：正確。軸突退化時，髓鞘會碎裂成橢圓形髓鞘碎片（myelin ovoids），之後由巨噬細胞與 Schwann cell 清除。\n- B. Wallerian degeneration起自周邊神經傷害處近端，往神經元細胞體中心進行：錯誤，符合題意。Wallerian degeneration 主要發生在受傷處遠端，朝向神經末梢退化；它不是從傷害處近端往細胞體中心進行的大規模退化。\n- C. 修復過程有時會產生traumatic neuroma：正確。若神經斷端對合不佳，再生軸突、Schwann cell 與纖維組織可無序增生，形成外傷性神經瘤；它不是惡性腫瘤，而是修復失序的結節。\n- D. 再生之軸突髓鞘(myelin sheath)比未受病變前之髓鞘細薄：正確。周邊神經再生後，新生髓鞘常較薄，節間距也較短，因此傳導速度可能較原本慢。\n\n【核心考點】\nWallerian degeneration 的方向是「受傷點遠端往末梢退化」。周邊神經可再生，但再生髓鞘較薄；若再生路徑混亂，會形成 traumatic neuroma。",
+      "key_point": "Wallerian degeneration 發生在神經受傷點遠端並往末梢退化；近端不會一路往神經元細胞體中心退化。",
+      "flashcard_front": "Wallerian degeneration 的發生位置與方向為何？",
+      "flashcard_back": "發生在周邊神經受傷點的遠端，方向是由受傷處往遠端末梢退化；不是由近端往神經元細胞體中心退化。",
+      "flashcard_summary": "Wallerian degeneration -> distal segment degeneration；再生髓鞘較薄，修復失序可成 traumatic neuroma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題問顱內壓升高造成腦疝後，Duret hemorrhage 發生在哪裡。Duret 出血是嚴重 transtentorial herniation 時，腦幹被向下牽拉，造成腦幹內穿通血管破裂而形成的出血。典型位置在中腦與橋腦的正中或旁正中區，因此答案是腦幹。\n\n【選項詳解】\n- A. 大腦灰質：錯誤。大腦灰質可以有其他型態出血或缺血，但 Duret hemorrhage 的典型定位不是大腦皮質灰質。\n- B. 大腦白質：錯誤。大腦白質不是 Duret 出血的典型位置；Duret 出血重點是腦疝導致腦幹血管牽拉破裂。\n- C. 腦幹：正確。顱內壓升高造成小腦幕切跡疝時，腦幹下移，基底動脈穿通支或相關小血管被拉扯破裂，可在中腦、橋腦形成線狀或點狀出血，稱為 Duret hemorrhage。\n- D. 小腦：錯誤。小腦可能因後顱窩病變或扁桃體疝受到壓迫，但 Duret hemorrhage 的經典解剖部位仍是腦幹，而不是小腦實質。\n\n【核心考點】\nDuret hemorrhage 是腦疝導致的腦幹出血。把機制記成「顱內壓上升 -> transtentorial herniation -> 腦幹下移 -> 穿通血管破裂 -> 中腦/橋腦出血」，即可定位到腦幹。",
+      "key_point": "Duret hemorrhage 是嚴重腦疝牽拉腦幹穿通血管造成的腦幹出血，常在中腦與橋腦。",
+      "flashcard_front": "Duret hemorrhage 的典型發生位置與機制是什麼？",
+      "flashcard_back": "典型發生在腦幹，尤其中腦與橋腦。嚴重小腦幕切跡疝使腦幹下移，牽拉並撕裂穿通血管而出血。",
+      "flashcard_summary": "Duret hemorrhage -> transtentorial herniation 牽拉腦幹血管 -> brainstem hemorrhage。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:42+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

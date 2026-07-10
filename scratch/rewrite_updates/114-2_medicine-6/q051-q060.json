@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題考子宮頸癌術後有骨盆淋巴結轉移時，單純輔助性骨盆放射治療的主要效果。骨盆放射線可加強局部與區域控制，因此能降低骨盆內復發；但若只談放射治療本身，對遠端轉移與整體 5 年存活率的改善有限，存活改善通常需考慮同步化學放射治療等策略。\n\n【選項詳解】\n- A. 正確。骨盆淋巴結陽性代表局部區域復發風險高，術後骨盆放射治療可清除顯微殘存病灶並降低骨盆復發率；但放射線主要作用在照射範圍內，單獨使用時不一定能提升 5 年存活率。\n- B. 錯誤。前半句「減少骨盆復發」合理，但把單純輔助放射治療說成也能提高 5 年存活率過度延伸；高風險術後病人若要改善預後，考量的是含 cisplatin 的同步化學放射治療，而不是只靠骨盆放射線。\n- C. 錯誤。骨盆放射治療的主要效益是局部區域控制，不是降低肺、肝、骨等遠處轉移；遠端轉移反映全身性疾病風險，較需要全身性治療概念。\n- D. 錯誤。此選項同時把放射治療的效益放到遠端轉移與 5 年存活率，兩者都不是單純術後骨盆放射治療最穩定的主要效果。\n\n【核心考點】\n子宮頸癌術後高風險病理因子中，骨盆淋巴結陽性提示局部區域復發風險高；單純骨盆放射治療重點在降低骨盆復發，若題目問存活改善，要另外辨認是否加入同步化學治療。",
+      "key_point": "子宮頸癌術後骨盆淋巴結陽性時，輔助性骨盆放射治療主要降低骨盆復發；單純放射治療不等同於降低遠處轉移或提升 5 年存活率。",
+      "flashcard_front": "子宮頸癌術後骨盆淋巴結陽性 / adjuvant radiation / 骨盆復發",
+      "flashcard_back": "術後骨盆淋巴結陽性時，輔助性骨盆放射治療的主要效益是局部區域控制並減少骨盆復發；若要談存活改善，需注意是否為同步化學放射治療。",
+      "flashcard_summary": "Cervical cancer positive pelvic nodes -> adjuvant pelvic RT reduces pelvic recurrence, not distant metastasis or survival by itself",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題問子宮內膜癌「不良預後因子」中的錯誤敘述。年齡較大、淋巴結轉移與腫瘤 DNA 非整倍性或多倍染色體異常都可反映較差預後；肥胖主要是子宮內膜癌的發生危險因子，尤其與雌激素暴露及第一型內膜樣癌相關，不能直接等同於不良預後因子。\n\n【選項詳解】\n- A. 正確。年紀較大，特別是超過 60 歲，常與較差整體存活、共病較多、治療耐受性較差或較高風險病理特徵相關，因此可列為不良預後相關因子。\n- B. 正確。後腹腔淋巴結轉移代表疾病已超出子宮局部，分期上升且復發風險增加，是很重要的不良預後因子。\n- C. 錯誤。肥胖會增加子宮內膜癌發生風險，原因包括脂肪組織將雄性素轉為雌酮、造成長期未受黃體素拮抗的雌激素刺激；但它不是典型用來判定癌症預後不良的病理因子。\n- D. 正確。腫瘤 DNA 非整倍性或多倍染色體異常代表基因體不穩定，常與較高惡性度、復發風險或較差臨床結果相關，因此可視為不良預後相關資訊。\n\n【核心考點】\n子宮內膜癌的預後判斷要看分期、淋巴結轉移、年齡、組織分級、肌層侵犯、組織型與分子或 DNA 特徵；肥胖是發病風險因子，不應和預後不良因子混為一談。",
+      "key_point": "子宮內膜癌中，肥胖主要是發生風險因子；年齡大、淋巴結轉移與 DNA 非整倍性較符合不良預後因子。",
+      "flashcard_front": "子宮內膜癌 / 不良預後因子 / 肥胖",
+      "flashcard_back": "判斷子宮內膜癌預後看分期、淋巴結、年齡、分級、肌層侵犯與腫瘤生物學；肥胖增加發生風險，但不是典型不良預後因子。",
+      "flashcard_summary": "Endometrial cancer prognosis -> lymph node metastasis, older age, DNA aneuploidy matter; obesity is mainly a risk factor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題考子宮頸腺癌的流行病學、HPV 關聯與早期病灶評估。子宮頸腺癌與鱗狀上皮細胞癌同屬子宮頸癌，治療大方向依分期決定，手術、放射治療與化學放射治療原則大致相近；但腺體病灶較容易位於子宮頸管內，抹片偵測較不敏感，且多數仍與高危險型 HPV 有關。\n\n【選項詳解】\n- A. 正確。子宮頸腺癌的治療主要仍依 FIGO 分期、腫瘤大小、淋巴結與高風險病理因子決定，早期可考慮根治性手術，較進展者採放射治療或同步化學放射治療，整體處理架構與鱗狀上皮細胞癌相似。\n- B. 錯誤。傳統子宮頸抹片對鱗狀上皮前癌病變的偵測較有效，對位於子宮頸管內的腺體病灶較容易漏掉；因此腺癌比例並未像鱗狀癌一樣因抹片篩檢而明顯下降。\n- C. 錯誤。大多數子宮頸腺癌仍與高危險型 HPV 感染有關，特別是 HPV 16、18；雖然有少數特殊亞型如胃型腺癌較可能 HPV 陰性，但不能說大部分都與 HPV 無關。\n- D. 錯誤。早期腺癌可能沿子宮頸管內生長，單純子宮頸切片常無法完整評估浸潤深度、病灶範圍、切緣與淋巴血管侵犯；臨床上常需錐狀切除等較完整標本來判定。\n\n【核心考點】\n子宮頸腺癌的治療原則多依分期比照子宮頸癌整體架構；考試陷阱是腺癌抹片偵測較困難、多數仍 HPV 相關、早期範圍不能只靠小切片完整確認。",
+      "key_point": "子宮頸腺癌多數與 HPV 相關，治療依分期大致比照鱗狀癌；抹片較容易漏掉腺體病灶，早期評估常需錐狀切除標本。",
+      "flashcard_front": "子宮頸腺癌 / HPV / 抹片 / 治療原則",
+      "flashcard_back": "子宮頸腺癌多數 HPV 相關，治療依分期與鱗狀癌相近；但腺體病灶較內生，抹片較不敏感，早期範圍常需錐狀切除評估。",
+      "flashcard_summary": "Cervical adenocarcinoma -> treatment stage-based like SCC; Pap less sensitive, HPV usually involved",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題問試管嬰兒療程中何者不是卵巢過度刺激症候群（OHSS）的危險因子。OHSS 與卵巢反應過強、hCG 觸發後 VEGF 造成血管通透性上升有關；PCOS、高 AMH、高雌二醇、多濾泡與取卵數多都會增加風險。AMH 2 ng/mL 通常不屬於高 AMH 表現，因此較不像危險因子。\n\n【選項詳解】\n- A. 正確。多囊性卵巢症候群常有較多小濾泡與較高卵巢反應，接受排卵刺激後較容易產生過多濾泡與高雌二醇，是 OHSS 的典型危險因子。\n- B. 錯誤。AMH 2 ng/mL 通常表示卵巢庫存量約在一般範圍，並非高度卵巢反應或高 OHSS 風險的典型數值；真正需要警覺的是明顯升高的 AMH 或 AFC。\n- C. 正確。hCG 當天 estradiol 3,600 pg/mL 代表多濾泡同步發育與卵巢反應偏高，OHSS 風險上升，臨床上會考慮調整 trigger、freeze-all 或其他預防策略。\n- D. 正確。取 24 顆卵子代表卵巢反應非常強，卵泡數與黃體化組織多，hCG 後 VEGF 相關血管通透性變化更明顯，因此是 OHSS 高風險訊號。\n\n【核心考點】\nOHSS 高風險線索包括 PCOS、AMH 或 AFC 明顯升高、高雌二醇、濾泡或取卵數多，以及 hCG 觸發；單看 AMH 2 ng/mL 不屬於典型高風險。",
+      "key_point": "OHSS 風險來自卵巢過度反應：PCOS、高 AMH/AFC、高 estradiol 與取卵數多；AMH 2 ng/mL 通常不是高風險指標。",
+      "flashcard_front": "OHSS risk factors / AMH / PCOS / high estradiol / oocyte yield",
+      "flashcard_back": "OHSS 高風險包含 PCOS、AMH/AFC 升高、高雌二醇與高取卵數；AMH 2 ng/mL 通常不算典型高風險。",
+      "flashcard_summary": "OHSS -> high ovarian response risk; PCOS, high E2, many oocytes yes; AMH 2 ng/mL no",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題考更年期荷爾蒙治療的「timing hypothesis」。對有明顯更年期症狀且無禁忌症的停經婦女，較適合在 60 歲以前或停經未滿 10 年時開始，因為此時心血管與血栓等絕對風險較低；年齡較大或停經較久後才開始，風險效益比會變差。\n\n【選項詳解】\n- A. 錯誤。60 歲以上或停經滿 10 年以上才開始全身性荷爾蒙治療，心血管事件、血栓、腦中風等背景風險較高，通常不是降低治療風險的建議時機。\n- B. 正確。60 歲以下或停經未滿 10 年、有困擾性血管舒縮症狀且無乳癌、血栓、冠心病、中風或活動性肝病等禁忌症時，是較常被認為風險效益比有利的起始族群。\n- C. 錯誤。荷爾蒙治療不能無視年齡、停經年數與禁忌症；越晚開始，全身性治療相關風險越需要謹慎評估。\n- D. 錯誤。對嚴重熱潮紅、夜汗、睡眠受影響或泌尿生殖症候群的患者，荷爾蒙治療仍可在合適族群中使用；並不是不分年齡一律不建議。\n\n【核心考點】\n更年期荷爾蒙治療不是越晚越安全，也不是一律禁用；較佳起始窗口是 60 歲以下或停經未滿 10 年，並需排除個人禁忌症與選擇合適劑型。",
+      "key_point": "更年期全身性荷爾蒙治療較適合 60 歲以下或停經未滿 10 年且無禁忌症的症狀性婦女。",
+      "flashcard_front": "更年期荷爾蒙治療 / 60 歲 / 停經 10 年 / timing hypothesis",
+      "flashcard_back": "症狀性停經婦女若無禁忌症，開始全身性荷爾蒙治療的較佳窗口是 60 歲以下或停經未滿 10 年；較晚開始風險效益比變差。",
+      "flashcard_summary": "Menopausal hormone therapy -> favorable window under 60 or within 10 years of menopause",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n這位 51 歲、停經過渡期且熱潮紅嚴重的女性正在考慮全身性荷爾蒙治療，本題問應告知哪項疾病風險會增加。全身性雌激素合併或不合併黃體素治療，特別是口服製劑，會增加靜脈血栓栓塞風險；相對地，它可改善骨質流失，大腸癌風險在部分研究中反而下降，失智風險主要是高齡或停經很久才開始治療時更需擔心。\n\n【選項詳解】\n- A. 錯誤。大腸癌不是荷爾蒙治療最典型會增加的風險；部分大型研究中合併雌激素與黃體素反而曾觀察到大腸癌發生率下降，但不建議為預防大腸癌而使用。\n- B. 正確。全身性荷爾蒙治療會提高靜脈血栓栓塞與肺栓塞風險，口服雌激素因肝臟首渡效應影響凝血因子，風險尤其需要向病人說明。\n- C. 錯誤。雌激素可減少停經後骨質流失並降低骨折風險，因此骨質疏鬆症不是此題要告知的增加風險。\n- D. 錯誤。阿茲海默症或失智風險在高齡開始荷爾蒙治療時較受關注；本題是 51 歲、有明顯血管舒縮症狀的早期停經族群，最直接要告知的增加風險是血栓性栓塞。\n\n【核心考點】\n更年期全身性荷爾蒙治療的考題常抓兩端：可改善血管舒縮症狀與骨質流失，但需告知靜脈血栓栓塞、腦中風等風險，尤其口服製劑更要注意。",
+      "key_point": "全身性更年期荷爾蒙治療會增加靜脈血栓栓塞風險；骨質疏鬆不是增加風險，早期停經族群也不是以失智風險作為主要考點。",
+      "flashcard_front": "更年期荷爾蒙治療 / risk counseling / VTE",
+      "flashcard_back": "全身性荷爾蒙治療可改善熱潮紅並保護骨質，但需告知靜脈血栓栓塞風險，口服雌激素尤其要注意。",
+      "flashcard_summary": "Menopausal hormone therapy risk -> increased venous thromboembolism; bone loss decreases",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題考骨盆底鬆弛造成女性生殖道脫垂與應力性尿失禁的危險因子與症狀變化。陰道生產會牽拉肛提肌、筋膜與陰部神經，陰道產次越多，骨盆支持構造受損累積越明顯，因此生殖道脫垂風險增加。\n\n【選項詳解】\n- A. 正確。陰道分娩是生殖道脫垂的重要危險因子，產次越多，骨盆底肌肉、筋膜與韌帶支持受損累積，子宮、膀胱或直腸膨出的機率上升。\n- B. 錯誤。懷孕與生產會增加尿失禁風險，但題目以「胎數」直接說風險相對遽增過於簡化；應力性尿失禁更直接與陰道分娩、骨盆底損傷、年齡、肥胖與結締組織支持有關。\n- C. 錯誤。生殖道脫垂通常在久站、走動、用力或一天活動後較明顯，早晨平躺休息後往往較輕，不是早晨起床時最嚴重。\n- D. 錯誤。年齡增加會提高整體尿失禁盛行率，但應力性尿失禁不一定隨年齡單調遽增；高齡者常見急迫性或混合型尿失禁比例增加，不能把年齡視為應力性尿失禁唯一且劇烈上升的因素。\n\n【核心考點】\n生殖道脫垂的高產次與陰道生產關聯最強；脫垂症狀常活動後加重、休息後緩解，而尿失禁類型需分清應力性、急迫性與混合型。",
+      "key_point": "陰道產次增加會累積骨盆底支持損傷，是生殖道脫垂的重要危險因子；脫垂常活動後較嚴重。",
+      "flashcard_front": "骨盆底鬆弛 / 生殖道脫垂 / 應力性尿失禁 / 陰道產次",
+      "flashcard_back": "陰道生產與產次增加會造成骨盆底支持結構累積損傷，使生殖道脫垂風險上升；脫垂多在久站活動後加重。",
+      "flashcard_summary": "Pelvic organ prolapse -> vaginal parity damages pelvic support; symptoms worse after activity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問遺傳性運動感覺神經病變（HMSN，常以 Charcot-Marie-Tooth disease 為代表）何者最不恰當，但來源資料顯示 A-D 皆列入給分，表示題目或答案判定有疑義。典型 HMSN/CMT 會有慢性、對稱、遠端為主的運動與感覺神經病變；第一型以脫髓鞘為主。疼痛可以出現，但不是所有病人的主要表現，因此若硬要找較不典型敘述，D 較容易被挑出。\n\n【選項詳解】\n- A. 可接受。HMSN/CMT 常呈慢性進行性、左右大致對稱的肌肉無力與萎縮，尤其從足部與小腿遠端開始；因此把對稱進行性肌肉無力列為表現並不離譜。\n- B. 可接受。第一型 CMT/HMSN 主要是脫髓鞘型周邊神經病變，神經傳導速度明顯變慢，說它主要影響 myelin 符合分類概念。\n- C. 可接受。CMT 的弱點通常從遠端肌群開始，例如足下垂、步態異常、足弓高與小腿遠端萎縮，之後才可能影響手部遠端肌肉。\n- D. 較有爭議。CMT 病人可能有疼痛，來源可包括神經病變痛、足部變形、肌肉疲勞或抽筋；但「常常有疼痛」若被理解成主要或必然症狀，就比 A-C 更不典型。\n\n【核心考點】\nHMSN/CMT 的高頻特徵是遺傳性、慢性進行、遠端對稱性肌無力與感覺異常；CMT1 是脫髓鞘型。疼痛可發生但不是判斷此病的最主要特徵，本題因給分範圍異常應保留人工複核。",
+      "key_point": "HMSN/CMT 典型為慢性進行、遠端對稱性無力與感覺異常；CMT1 為脫髓鞘型，疼痛可有但較不是核心診斷特徵。",
+      "flashcard_front": "HMSN / Charcot-Marie-Tooth / distal symmetric weakness / CMT1",
+      "flashcard_back": "HMSN/CMT 常見遠端對稱性肌無力、萎縮、感覺異常與足部變形；CMT1 是脫髓鞘型。疼痛可出現，但若題目問最不恰當，需注意答案疑義。",
+      "flashcard_summary": "HMSN/CMT -> distal symmetric progressive neuropathy; CMT1 demyelinating; pain possible but less defining",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": [
+        "來源資料顯示本題 A-D 皆列入給分，且題幹問最不恰當；建議人工複核原始公告與答案更正。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題問脊髓損傷後慢性神經性疼痛何者最不適當。脊髓損傷後可有 at-level pain 與 below-level pain，並可伴隨 allodynia；below-level pain 屬中樞神經性疼痛，與脊髓及腦部痛覺路徑重組、去抑制與敏化有關。幻肢痛是截肢或肢體喪失後仍感覺肢體疼痛，不能拿來命名脊髓損傷部位以下疼痛。\n\n【選項詳解】\n- A. 正確。異態痛感是神經性疼痛常見現象，原本不痛的觸碰或刺激會引發疼痛，脊髓損傷後的中樞神經性疼痛可出現此表現。\n- B. 正確。At-level pain 位於神經學受傷節段附近，可來自神經根、脊髓本身或持續壓迫、疤痕、 syrinx 等局部病灶，因此脊髓壓迫可列入可能來源。\n- C. 正確。Below-level pain 發生在受傷節段以下，常屬中樞神經性疼痛；脊髓丘腦徑與大腦痛覺網路重組、去抑制和中樞敏化都可能參與。\n- D. 錯誤。受傷部位以下疼痛稱為 below-level neuropathic pain 或 central neuropathic pain associated with spinal cord injury；phantom pain 指失去肢體或身體部位後仍感到該部位疼痛，概念不同。\n\n【核心考點】\n脊髓損傷後神經性疼痛要分 at-level 與 below-level；below-level 是中樞神經性疼痛，不是幻肢痛。",
+      "key_point": "脊髓損傷後 below-level neuropathic pain 屬中樞神經性疼痛；phantom pain 是截肢或肢體喪失後的疼痛感。",
+      "flashcard_front": "spinal cord injury / neuropathic pain / at-level / below-level / phantom pain",
+      "flashcard_back": "SCI 後疼痛分 at-level 與 below-level neuropathic pain；below-level pain 與中樞痛覺路徑重組相關，不稱為 phantom pain。",
+      "flashcard_summary": "SCI neuropathic pain -> at-level/below-level; below-level is central neuropathic pain, not phantom pain",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考脊髓損傷後早期異位性骨化（heterotopic ossification, HO）的影像偵測。早期 HO 在 X 光尚未出現成熟鈣化前，三相骨骼掃描可因局部血流、血池與骨生成活性增加而較早呈陽性，因此是早期偵測敏感度高的工具。\n\n【選項詳解】\n- A. 正確。三相骨骼掃描能偵測骨形成活性與局部血流變化，常比 X 光更早發現 HO，適合用於脊髓損傷後疑似早期異位性骨化的偵測。\n- B. 錯誤。MRI 對軟組織、水腫、感染或腫瘤鑑別有幫助，但偵測早期 HO 的傳統高敏感工具仍以骨骼掃描較常被考。\n- C. 錯誤。電腦斷層能清楚顯示成熟骨化的位置與範圍，對手術規劃或解剖定位有用；但在很早期骨化活性階段，敏感度不如骨骼掃描。\n- D. 錯誤。X 光便宜且常用，但需要異位骨化已有足夠礦化後才容易看見，早期可能仍正常，因此不是早期最敏感的影像工具。\n\n【核心考點】\n脊髓損傷後疑似早期 HO 時，三相骨骼掃描可比 X 光更早偵測骨形成活性；X 光與 CT 較適合看已礦化或成熟的骨化範圍。",
+      "key_point": "脊髓損傷後早期異位性骨化最敏感的傳統影像偵測工具是三相骨骼掃描，X 光常較晚才陽性。",
+      "flashcard_front": "SCI / heterotopic ossification / early detection / three-phase bone scan",
+      "flashcard_back": "早期異位性骨化在 X 光尚未鈣化前，三相骨骼掃描可偵測血流與骨生成活性，因此早期敏感度高。",
+      "flashcard_summary": "SCI heterotopic ossification -> early detection by three-phase bone scan",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:50:50+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

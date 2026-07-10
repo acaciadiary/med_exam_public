@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題在考孕期內科疾病的用藥禁忌與高風險心臟病。C 合理，因二尖瓣狹窄（mitral stenosis）會限制左心房血流進入左心室，懷孕時血容量與心輸出量上升會使左心房壓、肺靜脈壓升高，容易造成肺鬱血、肺水腫與心衰竭。\n\n【選項詳解】\n- A. 錯誤。子癲前症常以懷孕 20 週後新發高血壓，合併蛋白尿或器官受損為重要診斷線索；但高風險孕婦可使用低劑量 aspirin 預防子癲前症，並非懷孕期間絕對禁用。\n- B. 錯誤。ARB 與 ACE inhibitor 會干擾胎兒腎臟發育，可能造成羊水過少、胎兒腎衰竭與其他嚴重不良結果，孕期高血壓不應以 ARB 作為第一線治療；常用較安全選擇包括 labetalol、nifedipine 或 methyldopa。\n- C. 正確。二尖瓣狹窄在懷孕時會因血容量增加而使跨瓣壓力差上升，左心房壓與肺靜脈壓升高後可引發肺水腫、心房顫動與心衰竭，是孕期瓣膜疾病中需要特別警覺的高風險病灶。\n- D. 錯誤。妊娠糖尿病先以飲食、運動與血糖監測處理；若仍無法達標，胰島素是傳統且可靠的藥物選擇。DPP-IV inhibitor 在孕期安全性資料不足，不是妊娠糖尿病的一線用藥。\n\n【核心考點】\n孕期題要先抓禁忌藥與血流動力學：ARB/ACE inhibitor 孕期禁用，低劑量 aspirin 可用於高風險子癲前症預防，妊娠糖尿病需藥物時以胰島素為主；二尖瓣狹窄會因懷孕血容量增加而惡化。",
+      "key_point": "孕期內科疾病：ARB/ACE inhibitor 禁用，低劑量 aspirin 可預防高風險子癲前症，妊娠糖尿病需藥物時以胰島素為主，二尖瓣狹窄因血容量上升而高風險。",
+      "flashcard_front": "孕期內科疾病：aspirin、ARB、二尖瓣狹窄、妊娠糖尿病用藥",
+      "flashcard_back": "低劑量 aspirin 可用於高風險子癲前症預防；ARB/ACE inhibitor 孕期禁用；妊娠糖尿病需藥物時以胰島素為主；二尖瓣狹窄在孕期易因血容量增加而惡化。",
+      "flashcard_summary": "孕期內科疾病 -> ARB/ACEI 禁用；低劑量 aspirin 可預防高風險子癲前症；GDM 藥物以胰島素為主；二尖瓣狹窄為高風險瓣膜病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題在考譫妄（delirium）的危險因子、住院發生率與處置原則。B 正確，因失智症會降低大腦對感染、藥物、代謝異常與住院環境變化的代償能力，是老年住院病人發生譫妄的重要前置因子。\n\n【選項詳解】\n- A. 錯誤。老年住院病人的譫妄發生率通常遠高於 1.0-5.0%，尤其在急性病房、手術後或加護病房更常見；此選項低估了住院譫妄的頻率。\n- B. 正確。失智症（dementia）代表既有認知功能與腦部儲備下降，遇到感染、脫水、電解質異常、疼痛、睡眠剝奪或新藥物時，較容易出現急性注意力與意識波動。\n- C. 錯誤。鴉片類藥物與抗膽鹼藥物會增加譫妄風險；抗膽鹼作用會干擾中樞 cholinergic 傳遞，鴉片類則可能造成鎮靜、呼吸抑制、便祕與尿滯留，這些都可能誘發或加重譫妄。\n- D. 錯誤。身體約束會增加躁動、跌倒傷害、壓傷與恐懼，benzodiazepines 也常使意識混亂惡化；除酒精或鎮靜安眠藥戒斷等特定情境外，不應把約束與 benzodiazepine 注射當作常規治療。\n\n【核心考點】\n譫妄是急性、波動性的注意力與意識障礙；高齡、失智、感染、代謝異常與高風險藥物會增加風險。處理重點是找可逆原因、減少誘發藥物、改善環境與安全照護，而不是常規鎮靜或約束。",
+      "key_point": "失智症是譫妄的重要前置因子；抗膽鹼藥、鴉片類、約束與 benzodiazepines 多會增加或加重譫妄風險。",
+      "flashcard_front": "譫妄：前置因子與不適當處置",
+      "flashcard_back": "失智症會降低腦部儲備，是譫妄的重要前置因子；抗膽鹼藥、鴉片類、身體約束與 benzodiazepines 通常會增加或加重譫妄。",
+      "flashcard_summary": "Delirium -> dementia 是重要前置因子；避免抗膽鹼藥、過度 opioids、常規約束與 benzodiazepines。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題在考口服降血糖藥的典型副作用。A 正確，biguanides 代表藥物為 metformin，長期使用可影響維生素 B12 吸收，造成 B12 缺乏、巨幼紅血球性貧血或周邊神經症狀。\n\n【選項詳解】\n- A. 正確。Metformin 屬於 biguanide，可能干擾末端迴腸對維生素 B12-內在因子複合物的吸收；長期用藥、劑量較高或已有貧血與神經病變者，需想到 B12 缺乏。\n- B. 錯誤。Acarbose 是 alpha-glucosidase inhibitor，主要延緩腸道醣類分解與吸收，常見副作用是腹脹、排氣與腹瀉，並非典型造成維生素 B12 缺乏的藥物。\n- C. 錯誤。Thiazolidinediones 透過 PPAR-gamma 改善胰島素阻抗，典型副作用包括體重增加、水腫、心衰竭惡化風險與骨折風險，與 B12 吸收不良不是主要連結。\n- D. 錯誤。Sulfonylureas 促進胰島 beta 細胞分泌胰島素，重要副作用是低血糖與體重增加，並不以維生素 B12 缺乏為典型不良反應。\n\n【核心考點】\nMetformin 長期使用要記得 B12 缺乏；acarbose 想腸胃副作用，TZD 想水腫與心衰竭惡化，sulfonylurea 想低血糖與體重增加。",
+      "key_point": "Metformin（biguanide）長期使用可造成維生素 B12 缺乏；其他常考副作用包括 acarbose 的腸胃不適、TZD 的水腫與 sulfonylurea 的低血糖。",
+      "flashcard_front": "哪一類口服降血糖藥最會造成維生素 B12 缺乏？",
+      "flashcard_back": "Biguanide，尤其 metformin；長期使用可能影響末端迴腸 B12 吸收，造成貧血或神經症狀。",
+      "flashcard_summary": "Oral antidiabetic adverse effect -> metformin/biguanide 可造成 vitamin B12 deficiency。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問低血鈉鑑別中哪一項不適當，關鍵是血容量狀態與尿鈉。C 不適當，因心衰竭屬高容積型低血鈉，但有效動脈血容量下降會活化交感神經與 RAAS，使腎臟保鈉，未使用利尿劑時尿鈉多偏低，常小於 20 mM。\n\n【選項詳解】\n- A. 正確。甲狀腺功能低下可降低自由水排除能力，臨床上可造成近似等容積型低血鈉；評估 unexplained hyponatremia 時會檢查甲狀腺與腎上腺功能。\n- B. 正確。低容積狀態會刺激非滲透壓性 vasopressin 分泌，讓腎臟保水以維持循環灌流，因此即使血鈉低，ADH 仍可上升。\n- C. 錯誤。心衰竭雖然全身總水量與總鈉量增加，但有效動脈血容量不足會使腎臟保鈉，尿鈉通常偏低；若尿鈉大於 20 mM，需考慮利尿劑使用、腎臟鹽分流失或其他因素。\n- D. 正確。燒傷可造成體液與鈉從皮膚創面流失，形成低容積型低血鈉；若腎臟反應完整，會透過 RAAS 保鈉，使尿鈉低於 20 mM。\n\n【核心考點】\n低血鈉先分低容積、等容積與高容積；低有效動脈血容量會讓 ADH 上升並促進腎臟保鈉。心衰竭造成的高容積型低血鈉，未受利尿劑影響時尿鈉通常偏低。",
+      "key_point": "心衰竭低血鈉屬高容積但有效動脈血容量低，腎臟會保鈉；未使用利尿劑時尿鈉常小於 20 mM。",
+      "flashcard_front": "低血鈉：心衰竭的尿鈉通常如何？",
+      "flashcard_back": "心衰竭是高容積型低血鈉，但有效動脈血容量低會活化 RAAS 保鈉；未用利尿劑時尿鈉通常偏低，常小於 20 mM。",
+      "flashcard_summary": "Hyponatremia -> heart failure: hypervolemic, low effective arterial volume, urine Na usually low unless diuretics or renal salt wasting.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題比較健康 80 歲老人與 20 歲年輕人的生理變化，問哪一項最不會下降。D 較合理，因老化常伴隨胰島素敏感性下降，為維持血糖，血中胰島素濃度不一定下降，甚至可因胰島素阻抗而偏高。\n\n【選項詳解】\n- A. 錯誤。最大心跳速率會隨年齡下降，常用估算式如 220 減年齡；80 歲族群運動時可達到的最快心跳通常低於年輕人。\n- B. 錯誤。動脈血氧分壓會隨年齡稍下降，與肺彈性回縮、通氣灌流不均與 alveolar-arterial gradient 增加有關。\n- C. 錯誤。腎絲球過濾率會隨老化下降，雖然健康老人個體差異很大，但整體腎血流與腎單位功能常低於年輕族群。\n- D. 正確。健康老年人可能出現胰島素阻抗增加，胰臟需分泌更多胰島素來維持血糖；因此血中 insulin 濃度不像最大心跳、PaO2 或 GFR 那樣典型隨年齡下降。\n\n【核心考點】\n老化常見下降項目包括最大心跳、腎功能與 PaO2；葡萄糖代謝則常見胰島素敏感性下降，胰島素濃度可維持或代償性上升。",
+      "key_point": "健康老化會使最大心跳、PaO2 與 GFR 下降；胰島素濃度不一定下降，因胰島素阻抗可造成代償性分泌增加。",
+      "flashcard_front": "健康老化：哪個生理指標最不會下降？",
+      "flashcard_back": "血中胰島素濃度最不會典型下降；老化常有胰島素阻抗增加，可能需要較多 insulin 代償。",
+      "flashcard_summary": "Aging physiology -> max HR, PaO2, GFR decrease; insulin level may not decrease due to insulin resistance.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問主動脈瓣狹窄（aortic stenosis）何者錯誤。B 錯在代償型態：主動脈瓣狹窄造成左心室壓力負荷，早期主要是向心性左心室肥厚（concentric hypertrophy）以降低壁張力，而不是左心室擴大。\n\n【選項詳解】\n- A. 正確。二瓣性主動脈瓣是常見先天性瓣膜異常，因瓣葉受力異常與提早鈣化，較容易在較年輕時發展成主動脈瓣狹窄。\n- B. 錯誤。主動脈瓣狹窄是壓力負荷，早期左心室以向心性肥厚代償；左心室擴大通常是較晚期收縮功能下降或失代償後的表現，不是早期主要代償。\n- C. 正確。主動脈瓣狹窄一旦出現心衰竭症狀，預後明顯變差；若未接受適當瓣膜介入治療，存活時間可大幅縮短，傳統教學常以心衰竭後平均約 2 年作為高危險提醒。\n- D. 正確。TAVR 已成為外科手術風險較高病人的重要治療選擇，在適當族群可達到與外科主動脈瓣置換相近的治療結果；治療方式需依手術風險、解剖條件與團隊評估決定。\n\n【核心考點】\n主動脈瓣狹窄是左心室壓力負荷，早期代償是向心性肥厚；出現 angina、syncope 或 heart failure 後預後變差，需要評估瓣膜置換或 TAVR。",
+      "key_point": "主動脈瓣狹窄早期造成左心室向心性肥厚，不是左心室擴大；症狀出現後需積極評估瓣膜介入治療。",
+      "flashcard_front": "主動脈瓣狹窄：左心室早期如何代償？",
+      "flashcard_back": "壓力負荷造成向心性左心室肥厚；左心室擴大多是晚期失代償，不是早期主要代償。",
+      "flashcard_summary": "Aortic stenosis -> pressure overload causes concentric LV hypertrophy; symptoms signal poor prognosis and valve intervention evaluation.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題問哪種狀況或藥物最不可能造成 QT 延長。C 較合理，因甲狀腺亢進常見心跳加快、心房顫動或 QT 縮短傾向；相較之下，蜘蛛網膜下出血、低血鈣與 amiodarone 都是可見 QT 延長的典型情境。\n\n【選項詳解】\n- A. 錯誤。蜘蛛網膜下出血可因交感神經暴衝與 catecholamine 釋放造成心電圖變化，包括 QT 延長、ST-T 變化與類似心肌缺血的表現。\n- B. 錯誤。低血鈣會延長心室動作電位平台期，使 ST segment 延長，進而造成 QT interval 延長；這是電解質造成 QT 延長的典型考法。\n- C. 正確。甲狀腺亢進多造成心搏過速、心悸、心房顫動與高輸出狀態，並不是常見 QT 延長原因；部分情境反而可見 QT 縮短或復極變化。\n- D. 錯誤。Amiodarone 是第三類抗心律不整藥，可延長心肌再極化與 QT interval；雖然 torsades de pointes 風險相對某些同類藥低，但 QT 延長本身仍常見。\n\n【核心考點】\nQT 延長常見於低血鈣、低血鉀、低血鎂、某些抗心律不整藥與中樞神經急症。甲狀腺亢進的心電圖重點多是 tachyarrhythmia，特別是心房顫動。",
+      "key_point": "低血鈣、蜘蛛網膜下出血與 amiodarone 可造成 QT 延長；甲狀腺亢進更常考心搏過速與心房顫動。",
+      "flashcard_front": "QT 延長：哪個最不典型？",
+      "flashcard_back": "甲狀腺亢進最不典型；低血鈣、SAH 與 amiodarone 都可造成 QT 延長。",
+      "flashcard_summary": "Long QT causes -> hypocalcemia, SAH, amiodarone; hyperthyroidism mainly causes tachyarrhythmia/AF.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題用心音與雜音定位右心出口阻塞。D 正確，因肺動脈瓣狹窄（pulmonary stenosis）會造成右心室壓力負荷，出現 right ventricular heave；左上胸骨緣可有收縮期噴射性雜音與 thrill，並因右心室射血延遲造成第二心音分裂變寬。\n\n【選項詳解】\n- A. 錯誤。心房中隔缺損（ASD）可有右心容量負荷、左上胸骨緣收縮期流量性雜音與固定分裂第二心音；但本題強調左第二肋間可觸及 systolic thrill，更支持肺動脈瓣狹窄造成的高速噴射血流。\n- B. 錯誤。主動脈狹窄的典型雜音在右上胸骨緣較明顯，常傳到頸動脈，會造成左心室壓力負荷；本題的 right ventricular heave、左第二肋間 thrill 與寬分裂第二心音都指向右心出口病灶。\n- C. 錯誤。開放性動脈導管（PDA）典型為左鎖骨下或左上胸骨緣連續性 machinery murmur，常有寬脈壓；本題描述的是收縮期雜音與右心室頂起，不符合 PDA 的經典表現。\n- D. 正確。肺動脈瓣狹窄會讓右心室對抗狹窄瓣膜射血，造成右心室肥厚與 heave；狹窄處高速血流可在左上胸骨緣形成收縮期雜音與 thrill，肺瓣關閉延遲使第二心音分裂變寬。\n\n【核心考點】\n左上胸骨緣收縮期噴射性雜音加 thrill、右心室 heave 與寬分裂 S2，要優先想到肺動脈瓣狹窄；ASD 也會分裂 S2，但典型是固定分裂且較少有明顯 thrill。",
+      "key_point": "Pulmonary stenosis：右心室 heave、左上胸骨緣收縮期噴射性雜音與 thrill、寬分裂 S2；ASD 則以固定分裂 S2 與流量性雜音為主。",
+      "flashcard_front": "右心室 heave + 左上胸骨緣 systolic thrill + wide split S2",
+      "flashcard_back": "肺動脈瓣狹窄；右心室壓力負荷造成 heave，狹窄瓣膜高速血流造成 LUSB systolic murmur/thrill，P2 延遲造成寬分裂 S2。",
+      "flashcard_summary": "Murmur diagnosis -> RV heave + LUSB systolic thrill + wide split S2 suggests pulmonary stenosis.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題是急性胸悶、低血壓、心跳慢、肺部無濕囉音、左心室收縮正常但右心室擴大的休克處置。D 正確，這組線索支持右心室梗塞或右心衰竭造成前負荷不足，立即處置應先給等張 saline 小量快速輸液以增加右心室前負荷。\n\n【選項詳解】\n- A. 錯誤。主動脈氣球幫浦主要用於左心室幫浦衰竭或特定心因性休克支持；本題左心室收縮功能正常、肺部無鬱血且右心室擴大，核心問題較像右心室前負荷不足，IABP 不是第一個立即處置。\n- B. 錯誤。Dobutamine 可增加收縮力，但在右心室梗塞初期若前負荷不足，未先補足容量可能無法改善輸出，且可能增加心肌耗氧與心律不整風險；通常先評估輸液反應。\n- C. 錯誤。硝化甘油會擴張靜脈、降低前負荷；右心室梗塞病人依賴足夠前負荷維持肺循環與左心充填，給 nitrate 可能使低血壓更嚴重。\n- D. 正確。Normal saline 500 mL 快速輸液可增加靜脈回流與右心室前負荷，改善右心輸出與血壓；同時仍需後續處理急性冠心症、再灌流與監測容量過量。\n\n【核心考點】\n右心室梗塞常見低血壓、清澈肺野、右心室擴大，可能合併下壁梗塞與心跳慢。急性低血壓時先補等張液，避免 nitrate、利尿劑等降低前負荷的處置。",
+      "key_point": "右心室梗塞低血壓時依賴前負荷；肺部無鬱血且 RV 擴大時，先給 normal saline，小心避免 nitrate 與利尿劑。",
+      "flashcard_front": "低血壓 + 清澈肺野 + RV 擴大：急性胸痛立即處置？",
+      "flashcard_back": "懷疑右心室梗塞時先給等張 saline 增加前負荷；避免硝化甘油或利尿劑讓低血壓惡化。",
+      "flashcard_summary": "RV infarction shock -> hypotension with clear lungs and RV dilation; give IV normal saline to support preload.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題在考 NYHA functional classification。病人平常可搬貨且一般日常活動無症狀，但相同工作量下降後出現喘，需要休息才能繼續，表示一般身體活動受到輕度限制，休息時舒適，屬 NYHA 第二級。\n\n【選項詳解】\n- A. 錯誤。第一級是有心臟病但一般身體活動不受限制，平常活動不會引起疲倦、心悸、呼吸困難或胸痛；本題病人原本能完成的搬貨工作現在會喘，已有活動限制。\n- B. 正確。第二級是休息時無症狀，但一般身體活動會造成疲倦、心悸、呼吸困難或胸痛；病人工作能力從可搬 10 趟降到 5 趟即喘，符合輕度活動受限。\n- C. 錯誤。第三級是身體活動明顯受限，低於一般日常活動量就會出現症狀；本題仍能完成部分原本搬貨工作，症狀沒有達到極輕活動即明顯不適的程度。\n- D. 錯誤。第四級是休息時也可能有症狀，任何身體活動都會使不適加劇；題幹明確描述需要工作負荷才喘，休息 10 分鐘可改善，不符合第四級。\n\n【核心考點】\nNYHA 分級看活動耐受度：I 級日常活動不受限，II 級一般活動會有症狀，III 級低於一般活動量即有症狀，IV 級休息也可能不適。",
+      "key_point": "NYHA II：休息無症狀，但一般身體活動會引起呼吸困難、疲倦、心悸或胸痛；本題工作耐受度下降但仍可部分活動。",
+      "flashcard_front": "NYHA 分級：一般活動會喘、休息無症狀",
+      "flashcard_back": "NYHA II。I 為日常活動不受限；III 為低於一般活動量即有症狀；IV 為休息也可能有症狀。",
+      "flashcard_summary": "NYHA functional class -> class II: slight limitation, comfortable at rest, ordinary activity causes symptoms.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:27+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

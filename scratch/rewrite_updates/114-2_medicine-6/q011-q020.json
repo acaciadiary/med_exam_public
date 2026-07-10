@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n題目問增殖性糖尿病視網膜病變（proliferative diabetic retinopathy, PDR）已出現時，哪一種治療能降低後續失明風險。PDR 的問題是廣泛視網膜缺血造成 VEGF 上升，進而長出脆弱新生血管；治療要減少缺血視網膜對 VEGF 的刺激，讓新生血管退縮，預防玻璃體出血與牽引性視網膜剝離。\n\n【選項詳解】\n- A. 光動力治療（photodynamic therapy）：光動力治療是以光敏感藥物加雷射處理脈絡膜新生血管或部分黃斑部病灶，常見應用在濕性年齡相關黃斑部病變等情境；PDR 的主要病灶是缺血驅動的視網膜新生血管，單靠 PDT 不能處理周邊缺血視網膜。\n- B. 氣體視網膜固定術（pneumatic retinopexy）：此術式藉由眼內氣泡頂住視網膜裂孔，適用於特定孔源性視網膜剝離。PDR 的治療目標不是封閉裂孔，而是降低缺血造成的 VEGF 與新生血管，因此不是此題所需治療。\n- C. 全視網膜雷射光凝固術（panretinal photocoagulation）：PRP 以雷射處理周邊缺血視網膜，降低代謝需求與 VEGF 釋放，使視網膜或視神經乳頭的新生血管退縮，是 PDR 重要治療，可減少嚴重視力喪失、玻璃體出血與牽引性剝離風險。\n- D. 鞏膜扣壓術（scleral buckling）：鞏膜扣壓術用於孔源性視網膜剝離，透過外部扣壓讓視網膜裂孔附近重新貼合。PDR 若已產生牽引性剝離，治療考量多偏向玻璃體手術等策略；鞏膜扣壓不是單純 PDR 的主要處置。\n\n【核心考點】\nPDR 代表缺血已誘發新生血管，治療重點是減少 VEGF 驅動。全視網膜雷射光凝固術（PRP）處理周邊缺血視網膜，可讓新生血管退縮並降低失明風險。",
+      "key_point": "增殖性糖尿病視網膜病變的治療重點是讓缺血驅動的新生血管退縮；全視網膜雷射光凝固術可降低 VEGF 刺激與嚴重視力喪失風險。",
+      "flashcard_front": "增殖性糖尿病視網膜病變 / 主要治療 / PRP",
+      "flashcard_back": "PDR 已有缺血驅動的新生血管；全視網膜雷射光凝固術處理周邊缺血視網膜，降低 VEGF 釋放，使新生血管退縮。",
+      "flashcard_summary": "PDR -> 周邊視網膜缺血導致 VEGF 與新生血管；PRP 可使新生血管退縮並預防嚴重視力喪失。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n題目問翼狀贅片（pterygium）的錯誤敘述。翼狀贅片是結膜及結膜下纖維血管組織增生，呈三角形向角膜侵犯，與紫外線、風沙、乾燥和慢性刺激相關。考點在於它好發的位置通常是鼻側，不是顳側。\n\n【選項詳解】\n- A. 結膜下組織向角膜面侵襲的退化性疾病，好發於顳側：前半句描述結膜下纖維血管組織往角膜延伸是對的，但好發於顳側這一點不對。翼狀贅片典型好發於鼻側角膜緣，常與紫外線經角膜聚焦造成鼻側較高暴露有關，因此本題選 A。\n- B. 成因不明，可能和紫外線暴露、結膜慢性發炎有關：翼狀贅片的確與紫外線照射、戶外工作、乾燥風沙、眼表慢性發炎相關。這些因素會刺激 limbal stem cell 區域與結膜纖維血管增生。\n- C. 臨床表現為三角形的血管纖維膜，眼睛易充血發紅：病灶常呈三角形，基底朝結膜，尖端往角膜中央延伸；血管豐富時容易反覆充血、異物感，嚴重時可造成散光或遮蔽視軸。\n- D. 可考慮切除，但復發率高，如加上 mitomycin C 可降低術後復發：若病灶進展、影響視力、造成明顯散光或反覆發炎，可手術切除。單純切除復發風險高，合併自體結膜移植或 mitomycin C 可降低復發。\n\n【核心考點】\n翼狀贅片是三角形纖維血管膜向角膜侵犯，常與紫外線及慢性眼表刺激有關。位置陷阱是典型好發於鼻側；若選項寫成顳側，就成為錯誤敘述。",
+      "key_point": "翼狀贅片典型好發於鼻側角膜緣，與紫外線和慢性眼表刺激相關；三角形纖維血管膜可向角膜中央延伸。",
+      "flashcard_front": "翼狀贅片 / 好發位置 / 臨床外觀",
+      "flashcard_back": "翼狀贅片多發於鼻側，呈三角形纖維血管膜向角膜侵犯；紫外線、風沙與慢性發炎會增加風險。",
+      "flashcard_summary": "翼狀贅片 -> 鼻側、三角形纖維血管膜、紫外線相關；顳側好發是錯誤陷阱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n題目問哪個疾病和圓錐角膜（keratoconus）相關。圓錐角膜是角膜基質逐漸變薄並向前突出，造成不規則散光與視力下降。臨床上常和過敏體質、異位性疾病及反覆揉眼相關，因揉眼會增加角膜機械壓力與基質受損。\n\n【選項詳解】\n- A. 異位性皮膚炎（atopic dermatitis）：異位性皮膚炎患者常合併過敏性結膜炎、眼癢與反覆用力揉眼。揉眼造成的機械壓力會促進角膜變薄與形狀不規則，因此和圓錐角膜有明確臨床關聯。\n- B. 謝格連氏症候群（Sjögren syndrome）：謝格連氏症候群主要造成淚腺與唾液腺受損，表現為乾眼、口乾，眼科重點是乾燥性角結膜炎。它不是圓錐角膜的典型相關疾病。\n- C. 葛瑞夫茲病（Graves' disease）：Graves 病可造成甲狀腺眼病變，如眼球突出、眼瞼退縮、複視與暴露性角膜病變。這些問題來自眼眶組織免疫發炎與水腫，並非角膜基質錐狀變形。\n- D. 全身性紅斑狼瘡（systemic lupus erythematosus）：SLE 的眼部表現可包括乾眼、鞏膜炎、視網膜血管病變或視神經病變。它不是圓錐角膜常見共病，也不以揉眼相關角膜變形作為主要眼部表現。\n\n【核心考點】\n圓錐角膜常和異位性疾病、過敏性眼癢及反覆揉眼相關。看到 atopic dermatitis 時，要連想到眼癢揉眼造成角膜基質受力與變形，進而增加 keratoconus 風險。",
+      "key_point": "圓錐角膜和異位性皮膚炎及反覆揉眼相關；揉眼的機械壓力會促進角膜變薄與不規則突出。",
+      "flashcard_front": "圓錐角膜 / 相關疾病 / 揉眼",
+      "flashcard_back": "圓錐角膜常與異位性皮膚炎、過敏性結膜炎及反覆揉眼相關；揉眼會增加角膜基質受損與變形。",
+      "flashcard_summary": "Keratoconus -> atopy 與 eye rubbing；異位性皮膚炎是常見相關疾病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n題目問哪類青光眼用藥不建議給心臟病或氣喘病人。眼藥水雖然局部使用，仍可經鼻淚管與鼻黏膜吸收到全身循環。β blockers 會阻斷心臟 β1 受體與支氣管 β2 受體，因此可能引起心搏過緩、房室傳導阻滯、心衰竭惡化或支氣管痙攣。\n\n【選項詳解】\n- A. α作用劑（α agonists）：例如 brimonidine，可降低房水生成並增加葡萄膜鞏膜流出。常見問題是過敏性結膜炎、口乾、嗜睡，兒童或中樞抑制風險需注意；它不是氣喘與心臟病患者最典型需要避開的青光眼藥類。\n- B. β拮抗劑（β blockers）：例如 timolol。點眼後全身吸收可造成 β1 阻斷導致心搏過緩、傳導阻滯，並因 β2 阻斷誘發支氣管收縮，使氣喘或嚴重 COPD 惡化；心臟傳導疾病、心衰竭與氣喘患者應避免使用。\n- C. 碳酸酐酶抑制劑（carbonic anhydrase inhibitor）：例如 dorzolamide、brinzolamide，作用是降低房水生成。常見副作用為局部刺激、苦味，磺胺類過敏可列入注意；它不會像 β blockers 一樣直接造成支氣管痙攣或心搏過緩。\n- D. 類前列腺素製劑（prostaglandin analogue）：例如 latanoprost，主要增加葡萄膜鞏膜流出。副作用多為結膜充血、睫毛變長、虹膜色素加深，心肺全身性副作用相對少。\n\n【核心考點】\n青光眼眼藥水也可能有全身作用。氣喘、嚴重 COPD、心搏過緩、房室傳導阻滯或心衰竭患者要特別避開局部 β blockers，尤其是 timolol。",
+      "key_point": "局部 β blockers 眼藥水可經鼻淚管全身吸收，造成支氣管痙攣、心搏過緩與傳導阻滯；氣喘與明顯心臟病患者應避免。",
+      "flashcard_front": "青光眼眼藥 / 心臟病與氣喘禁忌 / Timolol",
+      "flashcard_back": "β blockers（如 timolol）點眼後可全身吸收，阻斷 β2 造成支氣管痙攣，阻斷 β1 造成心搏過緩或傳導阻滯。",
+      "flashcard_summary": "青光眼用藥禁忌 -> 氣喘與心臟傳導問題要避開局部 β blockers。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n題目問新生血管性青光眼（neovascular glaucoma, NVG）的形成原因中何者較少見。NVG 的共同路徑是視網膜或眼部廣泛缺血，使 VEGF 上升，造成虹膜與前房角新生血管，纖維血管膜收縮後阻塞房水流出。能造成嚴重眼內缺血的疾病最容易導致 NVG。\n\n【選項詳解】\n- A. 缺血性中央視網膜靜脈阻塞：缺血型 CRVO 會造成大範圍視網膜缺血，VEGF 明顯上升，之後可出現虹膜新生血管與前房角關閉，是 NVG 的重要原因之一，也常被稱為百日青光眼的典型背景。\n- B. 糖尿病：增殖性糖尿病視網膜病變來自長期視網膜微血管缺血，VEGF 驅動新生血管。當虹膜或前房角也發生新生血管時，就可能形成 NVG；糖尿病是臨床重要病因。\n- C. 中央視網膜動脈阻塞：CRAO 會使內層視網膜急性缺血，部分個案後續可誘發眼前段新生血管。雖然比例不如缺血型 CRVO 或糖尿病常見，但仍符合缺血造成 NVG 的病理路徑。\n- D. 過熟的白內障：過熟白內障主要造成晶體蛋白外漏與發炎，可能引起晶體溶解性青光眼（phacolytic glaucoma）或相關晶體誘發性發炎。這條路徑不是由視網膜缺血、VEGF 與虹膜新生血管主導，因此在本題列為較不會造成 NVG 的選項。\n\n【核心考點】\nNVG 要抓住「缺血 -> VEGF -> 虹膜與前房角新生血管 -> 房水流出受阻」。CRVO、糖尿病視網膜病變與 CRAO 都可走這條路徑；過熟白內障偏向晶體誘發性青光眼。",
+      "key_point": "新生血管性青光眼多由眼內缺血導致 VEGF 上升；過熟白內障主要造成晶體誘發性青光眼，不是典型 NVG 病因。",
+      "flashcard_front": "新生血管性青光眼 / 缺血病因 / 過熟白內障",
+      "flashcard_back": "NVG 來自視網膜或眼部缺血造成 VEGF 上升，常見背景包括缺血型 CRVO、糖尿病視網膜病變、CRAO；過熟白內障偏向 phacolytic glaucoma。",
+      "flashcard_summary": "NVG -> 缺血驅動 VEGF 與虹膜新生血管；過熟白內障是晶體相關青光眼陷阱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n題目問瞳孔不等大合併眼皮下垂時，哪個原因有致命危險。這組表現要先想到動眼神經（CN III）受影響：副交感纖維受壓會使瞳孔放大，提上瞼肌受影響會造成上眼瞼下垂。若是顱內壓升高造成鉤回疝脫壓迫 CN III，可能迅速進展到腦幹壓迫與死亡。\n\n【選項詳解】\n- A. 腦幹出血（uncal herniation）：選項英文指向顳葉鉤回疝脫。疝脫時內側顳葉向天幕切跡移位，可壓迫同側 CN III，造成瞳孔散大、眼瞼下垂與眼球運動障礙；若持續壓迫腦幹，會出現意識惡化、呼吸循環衰竭，是需立即處理的急症。\n- B. 小血管性因素（microvasculopathy）：糖尿病或高血壓造成的缺血性 CN III palsy 多影響神經中央運動纖維，外周副交感瞳孔纖維相對保留，因此常見 pupil-sparing。它需要評估與追蹤，但危急程度不同於疝脫壓迫。\n- C. 顎動性眨眼症候群（Marcus Gunn jaw-winking syndrome）：這是先天性三叉神經與動眼神經支配異常聯動，咀嚼或張口時眼瞼跟著上抬。它可造成眼瞼位置異常，但不是顱內壓迫，也不會造成急性致命危險。\n- D. 重症肌無力：重症肌無力可造成可變性眼瞼下垂、複視與眼外肌無力，但通常不影響瞳孔，因為瞳孔括約肌不是神經肌肉接合處疾病的典型靶點。若發生肌無力危象需急救，但單就瞳孔不等大合併 ptosis 的危險鑑別，疝脫壓迫最需立即排除。\n\n【核心考點】\n瞳孔被波及的第三對腦神經麻痺要警覺壓迫性病因。顳葉鉤回疝脫會壓迫 CN III 並進一步壓迫腦幹，是瞳孔不等大加眼瞼下垂時最危急的鑑別。",
+      "key_point": "瞳孔不等大加眼瞼下垂代表 CN III 可能受壓；顳葉鉤回疝脫可壓迫 CN III 與腦幹，屬致命急症。",
+      "flashcard_front": "瞳孔不等大 + 眼瞼下垂 / CN III palsy / 危急病因",
+      "flashcard_back": "若 CN III palsy 合併瞳孔放大，要優先排除壓迫性病因，如 uncal herniation；糖尿病微血管病變多為 pupil-sparing。",
+      "flashcard_summary": "CN III palsy -> 瞳孔受影響需警覺壓迫；uncal herniation 可致命。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n題目問哪個較不會造成假性內斜視。假性內斜視是眼位實際沒有內斜，但外觀或角膜光反射讓人以為眼球向內偏。常見原因包含內眥贅皮遮住鼻側眼白、瞳孔間距短，以及部分 kappa angle 造成的光反射位置錯覺。早產兒網膜症造成的黃斑部異位常導向相反的假性外斜外觀。\n\n【選項詳解】\n- A. 兩眼瞳孔間距太短：瞳孔間距短會讓兩眼黑眼珠在臉上看起來更靠近內側，即使眼球對位正常，外觀也可能像內斜視，因此可造成假性內斜視。\n- B. 內眥上皮皺褶（epicanthic folds）顯著：內眥贅皮會遮住鼻側鞏膜，讓鼻側眼白看起來變少，家長或檢查者容易誤以為眼球往內偏。這是嬰幼兒假性內斜視的常見原因。\n- C. 高度近視有 negative kappa angle：kappa angle 會影響角膜光反射點的位置。高度近視若出現負 kappa angle，可讓角膜光反射偏顳側，視覺上像眼球內斜，因此可造成假性內斜視。\n- D. 早產兒網膜症造成黃斑部異位（ectopic macula）：ROP 的纖維血管牽引常造成黃斑被拉向顳側，使視軸改變並形成正 kappa angle；角膜光反射偏鼻側時，外觀較像外斜視，也就是假性外斜視，而不是假性內斜視。\n\n【核心考點】\n假性內斜視多來自鼻側眼白被遮住、兩眼距離視覺錯覺或負 kappa angle。ROP 造成黃斑顳側移位時較會形成假性外斜視，是本題的方向判斷陷阱。",
+      "key_point": "內眥贅皮、瞳孔間距短與負 kappa angle 可造成假性內斜視；ROP 黃斑顳側移位常造成假性外斜視。",
+      "flashcard_front": "假性內斜視 / kappa angle / ROP 黃斑異位",
+      "flashcard_back": "假性內斜視常見於內眥贅皮、瞳孔間距短、負 kappa angle；ROP 造成黃斑顳側牽引時，多呈假性外斜視。",
+      "flashcard_summary": "Pseudoesotropia -> epicanthus、短瞳距、negative kappa；ROP ectopic macula 多是 pseudoexotropia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n題目問單側先天性眼瞼下垂的錯誤敘述。先天性眼瞼下垂多和提上瞼肌發育不良、纖維化或功能不足有關。臨床重點是避免視軸被遮住造成弱視，並依提上瞼肌功能選擇功能性矯正手術；這和單純美容雙眼皮手術不同。\n\n【選項詳解】\n- A. 患眼容易產生弱視：若下垂眼瞼遮住瞳孔，會造成視覺刺激不足而產生剝奪性弱視；眼瞼長期壓迫角膜也可造成散光，進一步影響視覺發育，因此患眼確實需要早期評估。\n- B. 可以適當遮蔽另一眼來治療弱視：弱視治療常遮蔽視力較好的眼睛，迫使大腦使用弱視眼，以促進視覺發育。眼瞼下垂造成弱視時，除了處理眼瞼位置，也可依弱視狀況搭配遮蓋治療。\n- C. 提眼瞼肌（levator muscle）功能很差的病人，在手術矯正後，必須注意病人睡覺無法闔眼：提上瞼肌功能差者常需額肌懸吊等方式拉高眼瞼，術後可能出現眼瞼閉合不全，尤其睡眠時角膜暴露。需注意人工淚液、眼膏或保護措施，以避免暴露性角膜炎。\n- D. 手術矯正方式同一般雙眼皮手術：先天性眼瞼下垂手術是功能性重建，需處理提上瞼肌縮短、前徙或額肌懸吊，並兼顧視軸、角膜暴露與兩眼對稱。一般雙眼皮手術主要處理眼皮摺痕與外觀，無法等同於眼瞼下垂矯正。\n\n【核心考點】\n先天性眼瞼下垂的治療目標是保護視覺發育與改善上瞼功能。若遮住瞳孔會造成弱視；若提上瞼肌功能差，術後需防範閉合不全與角膜暴露。",
+      "key_point": "先天性眼瞼下垂可能造成剝奪性弱視，手術屬提上瞼肌或額肌懸吊的功能性重建，不能等同美容雙眼皮手術。",
+      "flashcard_front": "先天性眼瞼下垂 / 弱視 / 手術差異",
+      "flashcard_back": "先天性眼瞼下垂會因遮住視軸造成弱視；矯正需依 levator 功能做提上瞼肌手術或額肌懸吊，術後注意眼瞼閉合不全。",
+      "flashcard_summary": "Congenital ptosis -> 防弱視與重建提上瞼功能；不是一般雙眼皮手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n題目問慢性中耳炎的致病細菌中何者較少見。慢性化膿性中耳炎通常代表鼓膜穿孔、長期或反覆耳漏，外耳道與中耳腔處於潮濕且反覆感染的環境。常見菌種偏向 Pseudomonas aeruginosa、Staphylococcus aureus，以及部分革蘭陰性桿菌；Streptococcus pneumoniae 則更典型屬於急性中耳炎病原。\n\n【選項詳解】\n- A. Streptococcus pneumoniae：肺炎鏈球菌是急性中耳炎的典型病原，也常和急性鼻竇炎、肺炎相關。慢性中耳炎的長期潮濕、穿孔與混合感染環境中，它相對不常見，因此本題選 A。\n- B. Escherichia coli：大腸桿菌屬於革蘭陰性桿菌，雖不是最具代表性的慢性中耳炎菌種，但在慢性、反覆感染或混合感染環境中可以被分離出來，不能視為最少見選項。\n- C. Staphylococcus aureus：金黃色葡萄球菌是慢性化膿性中耳炎常見病原之一，尤其在皮膚與外耳道菌叢參與、反覆耳漏或術後感染情境中常被考慮。\n- D. Pseudomonas aeruginosa：綠膿桿菌喜歡潮濕環境，是慢性化膿性中耳炎非常重要且常見的致病菌。它也會影響治療選擇，因為需考慮對綠膿桿菌有效的局部或全身抗菌策略。\n\n【核心考點】\n急性與慢性中耳炎的病原不同。急性中耳炎常見 Streptococcus pneumoniae、Haemophilus influenzae、Moraxella catarrhalis；慢性化膿性中耳炎則常見 Pseudomonas aeruginosa 與 Staphylococcus aureus。",
+      "key_point": "慢性化膿性中耳炎常見 Pseudomonas aeruginosa 與 Staphylococcus aureus；Streptococcus pneumoniae 更偏急性中耳炎病原。",
+      "flashcard_front": "慢性中耳炎 / 常見致病菌 / 急性中耳炎對比",
+      "flashcard_back": "CSOM 常見綠膿桿菌與金黃色葡萄球菌；肺炎鏈球菌是急性中耳炎典型病原，在慢性中耳炎相對少見。",
+      "flashcard_summary": "CSOM pathogens -> Pseudomonas、S. aureus；AOM pathogens -> S. pneumoniae、H. influenzae、M. catarrhalis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n題目問哪個藥物較少造成耳毒性（ototoxicity）。耳毒性常表現為耳鳴、聽力下降或前庭症狀，常見藥物包括 aminoglycosides、cisplatin、loop diuretics，以及高劑量 salicylates。Acetaminophen 在常規使用下不是典型耳毒性藥物。\n\n【選項詳解】\n- A. acetaminophen：乙醯胺酚主要風險是劑量過高造成肝毒性，常規劑量下不屬於經典耳毒性藥物。與其他選項相比，它較少造成耳鳴、前庭傷害或耳蝸毛細胞毒性，因此本題選 A。\n- B. aspirin：高劑量 aspirin 或 salicylates 可造成耳鳴與可逆性聽力下降，和外毛細胞功能及耳蝸電生理改變有關。停藥後多可改善，但它仍是考試常見耳毒性藥物。\n- C. furosemide：furosemide 是 loop diuretic，可影響內耳血管紋的離子運輸與內淋巴電位，快速靜脈注射、腎功能不良或合併 aminoglycosides 時耳毒性風險上升。\n- D. cisplatin：cisplatin 可造成耳蝸毛細胞氧化傷害，典型表現為雙側、高頻、進行性且常不可逆的感音神經性聽損，是鉑類化療藥的重要副作用。\n\n【核心考點】\n經典耳毒性藥物包括 aminoglycosides、cisplatin、loop diuretics 與高劑量 salicylates。Acetaminophen 的主要安全議題是肝毒性，不是常規考點中的耳毒性藥物。",
+      "key_point": "Acetaminophen 常規使用下不是典型耳毒性藥物；高劑量 aspirin、furosemide 與 cisplatin 都可造成耳鳴或聽力損害。",
+      "flashcard_front": "耳毒性藥物 / Acetaminophen / Cisplatin",
+      "flashcard_back": "耳毒性常見藥物：aminoglycosides、cisplatin、loop diuretics、高劑量 salicylates；acetaminophen 主要擔心肝毒性。",
+      "flashcard_summary": "Ototoxicity -> cisplatin、furosemide、高劑量 aspirin 常見；acetaminophen 較少造成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:14+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

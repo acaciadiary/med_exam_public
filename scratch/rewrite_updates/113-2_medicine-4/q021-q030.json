@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n2歲女童發燒、精神差、血壓偏低（2歲收縮壓正常下限一般為 70 + 2*年齡 = 74 mmHg，65 mmHg 屬低血壓）、心跳極快（165下/分），臨床上強烈暗示已進入「敗血性休克（septic shock）」的失代償期。此時全身血流灌注嚴重不足。\n\n【選項詳解】\n- A. 膚色呈網狀紋路(mottling)：可能。休克時因周邊微血管收縮與缺氧，皮膚會出現大理石樣的網狀紋路（mottling），是末梢灌流極差的表現。\n- B. 呼吸暫停(apnea)：可能。嬰幼兒在嚴重休克與酸中毒下，可能出現呼吸衰竭、呼吸肌疲勞，進而發生不規則呼吸或呼吸暫停（apnea）。\n- C. 腸道蠕動增快：最不可能（正確答案）。休克時，人體會啟動代償機制，將有限的血液優先分配給大腦與心臟，而顯著減少內臟與胃腸道的血液灌注。這會導致腸胃道缺血、蠕動減弱甚至消失（腸阻塞 ileus），不可能出現腸蠕動增快。\n- D. 尿量明顯減少：可能。腎臟灌流不足與低血壓會導致腎絲球過濾率迅速下降，引發少尿（oliguria），是休克評估器官灌流的重要指標。\n\n【核心考點】\n兒科敗血性休克的病生理表現：周邊血管收縮導致皮膚網狀紋（mottling）、腎臟缺血導致少尿、腸胃道血液分流減少導致蠕動減弱（而非增快），晚期可能出現呼吸抑制。",
+      "key_point": "敗血性休克時血流重新分配，優先供應心腦，使皮膚（網狀紋）、腎臟（少尿）與腸胃道（蠕動減弱，而非增快）缺血。",
+      "flashcard_front": "兒科休克 (septic shock) / 代償與失代償期表現 / 各器官系統血流灌注改變",
+      "flashcard_back": "低血壓與心搏過速提示休克失代償。血流優先保障心腦，導致周邊收縮（網狀皮膚）、腎灌流不足（少尿）、腸道灌流減少（蠕動減慢，而非增快）。",
+      "flashcard_summary": "休克病生理 -> 腸胃血流減少致蠕動減慢/腸阻塞 + 腎臟少尿 + 皮膚網狀紋(mottling)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n當兒童出現嚴重呼吸窘迫或衰竭需要呼吸支持時，需根據兒科氣道解剖生理特點進行氣道管理。\n\n【選項詳解】\n- A. 優先使用侵入性的正壓通氣模式：錯誤。除非有絕對禁忌症或心肺驟停，臨床上應優先考慮非侵入性通氣（NIV，如鼻導管高流量氧療 HFNC 或 CPAP），以減少喉頭水腫與氣道損傷的風險。\n- B. 若置放氣管內管,優先選擇有氣囊的：最適當（正確答案）。近年兒科急救指引（如 PALS）已修改，為確保氣道封閉良好、降低漏氣、提供精準的潮氣容積並預防吸入性肺炎，目前不論嬰幼兒或兒童，置放氣管內管時皆「優先選擇有氣囊（cuffed）的內管」，並密切監測氣囊壓力（通常維持在 20 cmH2O 以下）。\n- C. 兒童呼吸器通常不須使用氣流潮濕裝置：錯誤。兒童氣道黏膜纖毛系統脆弱，通氣時若無適當的主動加熱潮濕裝置（heated humidifier），易導致分泌物乾燥結塊、阻塞管路及黏膜損傷。\n- D. 為配合呼吸器使用,皆須使用肌肉鬆弛劑：錯誤。多數情況下，通過適當的鎮靜（sedation）與止痛（analgesia）即可達到人機同步，常規使用肌肉鬆弛劑（paralytics）會增加橫膈肌萎縮及拔管困難的風險，僅在嚴重急性呼吸窘迫症候群（ARDS）等特殊情況下短期使用。\n\n【核心考點】\n兒科氣道管理與呼吸支持原則：現代兒科急救優先推薦使用有氣囊的氣管內管（cuffed ET tube），通氣必須給予充分潮濕，並盡量避免不必要的侵入性插管與肌肉鬆弛劑。",
+      "key_point": "現代兒科急救指引優先推薦使用有氣囊的氣管內管（cuffed ET tube）以減少漏氣，呼吸支持時必須使用潮濕裝置。",
+      "flashcard_front": "兒科插管與通氣治療 (PALS指引) / 氣管內管選擇 (cuffed vs. uncuffed) / 呼吸器照護原則",
+      "flashcard_back": "優先選擇有氣囊（cuffed）的氣管內管以減少漏氣與重插管率；必須加溫加濕以防痰液變稠；無需常規使用肌肉鬆弛劑。",
+      "flashcard_summary": "兒科氣管插管 -> 優先用有氣囊(cuffed)管路，監測囊壓防止黏膜壓迫；必須給予潮濕；避免常規用肌鬆劑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題描述一名高中男生因外傷或碰撞引發氣胸，並已出現顯著缺氧（SpO2 88%）。需分析氣胸的病生理機制與臨床表現。\n\n【選項詳解】\n- A. 呼吸會呈現Cheyne-Stokes respiration：錯誤。潮式呼吸（Cheyne-Stokes respiration）表現為呼吸逐漸變深變快、再變淺變慢，隨後出現暫停，多見於嚴重中樞神經系統疾病或晚期心臟衰竭。氣胸引起的呼吸急促多是因胸痛與缺氧導致的持續性呼吸增快。\n- B. 胸痛程度通常與肺部塌陷嚴重度成正比：錯誤。氣胸患者的胸痛程度與肺部塌陷的物理體積大小「不一定」成正比，許多輕度塌陷的患者因壁層胸膜受刺激仍會感到劇烈刺痛，而部分重度塌陷者若適應後僅表現為活動後喘。\n- C. 可能有通氣與灌流差異現象(ventilation-perfusion mismatch)：正確。氣胸導致局部肺泡壓迫塌陷，造成該區域無法進行有效氣體交換（通氣不足），但血液仍流經該塌陷區域，因而產生顯著的 V/Q 失調（分流 shunt 效應），這是引起低血氧的主要機轉。\n- D. 在X光影像上,氣管顯影會偏移向氣胸的同側肺部：錯誤。若氣胸嚴重發展為張力性氣胸（tension pneumothorax），胸腔內累積的氣體壓迫縱膈腔，會使氣管與心臟被推向「健側」（氣胸的對側），而非同側。\n\n【核心考點】\n氣胸之臨床生理：氣胸壓迫肺泡會產生 V/Q mismatch（通氣灌流失調）導致缺氧；張力性氣胸會使縱膈腔與氣管偏向對側（健側）。",
+      "key_point": "氣胸壓迫肺部會產生 V/Q mismatch 導致低血氧；張力性氣胸會將縱膈腔與氣管推向對側（健側）。",
+      "flashcard_front": "外傷性氣胸 / 低血氧病生理機轉 / 張力性氣胸縱膈偏向",
+      "flashcard_back": "氣胸因肺塌陷導致通氣/灌流失調（V/Q mismatch）而缺氧。若為張力性氣胸，X光上氣管與縱膈腔會偏移向「對側（健側）」。",
+      "flashcard_summary": "氣胸低血氧原因 -> V/Q mismatch (shunt effect)；張力性氣胸X光 -> 氣管/縱膈腔偏向對側(健側)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n先天性腎上腺增生症（CAH）是因皮質醇合成酶缺陷導致的體染色體隱性遺傳疾病。掌握其最常見病因、新生兒危症時程、臨床表型與篩檢指引是內分泌科核心。\n\n【選項詳解】\n- A. 21-羥化酶缺乏(21-hydroxylase deficiency)是造成此疾病的唯一原因：錯誤。雖然 21-hydroxylase deficiency 佔 CAH 病因的 90% 以上，但其他酶的缺乏（如 11β-hydroxylase, 17α-hydroxylase 等）亦可導致此病，並非唯一原因。\n- B. 若合併醛固酮缺乏(aldosterone deficiency),出生72小時內一定會發生失鹽危症(salt-losing crisis)：錯誤。失鹽型 CAH 的失鹽危症（表現為低血鈉、高血鉀、脫水）通常在出生後「第1至4週」內（多在2週左右）逐漸發生，而非出生72小時內。新生兒初期因胎盤殘留激素及尚未建立完全自主代謝，極少在72小時內迅速爆發危症。\n- C. 是46, XX女嬰有性發展障礙(disorders of sex development)最常見的原因：最適當（正確答案）。21-hydroxylase 缺陷導致雄性素（androgen）過量蓄積，會使 46, XX 胎兒的外生殖器男性化（陰蒂肥大等），是女性嬰兒性發展障礙（DSD）最常見的先天性原因。\n- D. 強烈建議於懷第一胎時進行常規產前診斷(prenatal diagnosis)：錯誤。CAH 屬於體染色體隱性遺傳病，通常在第一胎出生確診後，或是已知父母雙方皆為基因帶因者，才會在懷後續胎次時進行針對性的產前診斷，並非針對無家族史的孕婦懷第一胎時做常規產前篩檢。\n\n【核心考點】\n先天性腎上腺增生症（CAH）之病理生理：以 21-羥化酶缺乏最常見，造成雄性素過多與醛固酮/皮質醇不足。失鹽危症通常在生後2週左右出現。它是 46, XX 女嬰生殖器男性化（DSD）最常見病因。",
+      "key_point": "21-羥化酶缺乏是 CAH 最常見原因，可使 46, XX 女嬰外生殖器男性化；失鹽危症好發於生後2週左右，而非72小時內。",
+      "flashcard_front": "先天性腎上腺增生症 (CAH) / 最常見酵素缺陷與性發展障礙 / 失鹽危症發生時間",
+      "flashcard_back": "以21-羥化酶缺乏最常見，是46, XX女嬰外生殖器男性化（DSD）最常見病因。合併醛固酮缺乏者，失鹽危症通常在生後1-4週出現（非72小時內）。",
+      "flashcard_summary": "CAH 21-hydroxylase缺陷 -> 雄性素過多(46,XX女嬰男性化/DSD最常見原因) + 醛固酮低下(生後1-4週失鹽危症)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n兒童肥胖的定義與成人不同，必須參考同年齡與同性別的成長曲線百分位。本題要求辨識兒童肥胖診斷與防治的不當敘述。\n\n【選項詳解】\n- A. 大於兩歲孩童身體質量指數(BMI)大於第95百分位定義為肥胖：正確。根據衛生福利部及世界衛生組織標準，大於2歲兒童之 BMI 落在同性別、同年齡的第95百分位（含）以上即定義為肥胖。\n- B. 大於兩歲孩童身體質量指數(BMI)介於第85~95百分位定義為過重：正確。介於同性別、同年齡的第85百分位（含）至第95百分位之間定義為過重（overweight）。\n- C. 兒童時期肥胖的孩子,成人時期較容易產生代謝症候群：正確。兒童肥胖容易延續至成人期，且會顯著增加未來罹患第二型糖尿病、高血壓、高血脂及代謝症候群的風險。\n- D. 兒童肥胖屬於慢性發炎的狀況,可以使用抗發炎藥物治療：最不適當（正確答案）。雖然肥胖在病理生理學上伴隨脂肪組織的慢性低度發炎，但兒童及青少年肥胖的治療核心是飲食控制、行為諮商、增加體能活動與生活習慣的調整。抗發炎藥物（如非類固醇消炎藥、類固醇等）並非肥胖的治療藥物，亦無臨床指引推薦使用抗發炎藥來治療肥胖。\n\n【核心考點】\n兒童及青少年肥胖的定義與治療原則：利用同性別年齡百分位界定（≥85百分位為過重，≥95百分位為肥胖）。治療以非藥物的生活型態介入為主，不可使用抗發炎藥物作為肥胖治療手段。",
+      "key_point": "兒童肥胖定義為 BMI 大於或等於同性別年齡的第95百分位；肥胖防治的核心為生活型態介入與飲食控制，不可使用抗發炎藥物治療。",
+      "flashcard_front": "兒童及青少年肥胖 / BMI百分位定義 / 核心防治與治療手段",
+      "flashcard_back": "BMI在85-95百分位為過重，≥95百分位為肥胖。防治以飲食與生活習慣調整為主，不能使用抗發炎藥物治療。",
+      "flashcard_summary": "兒童肥胖診斷 -> BMI介於85-95百分位為過重，≥95百分位為肥胖；治療以生活飲食控制為主，非抗發炎藥",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n女童表現為典型的前期反覆高燒（持續3-5天，可達40°C），退燒後立刻出現皮疹（主要從軀幹開始，隨後擴散至四肢與臉），且退燒後精神活力良好。這是非常典型的嬰兒玫瑰疹（roseola infantum）臨床表徵。\n\n【選項詳解】\n- A. 最可能的診斷為roseola infantum：適當。高燒退去後才出疹，且退燒後活動力良好的特徵高度符合嬰兒玫瑰疹（roseola infantum，又稱第六病）。\n- B. 最主要的致病原為human herpesvirus 8：最不適當（正確答案）。嬰兒玫瑰疹最主要的致病原是人類皰疹病毒「六型（HHV-6）」，其次為七型（HHV-7）。而人類皰疹病毒八型（HHV-8）是卡波西氏肉瘤（Kaposi sarcoma）的致病原，與玫瑰疹無關。\n- C. 此疾病通常為自限性(self-limited)：適當。嬰兒玫瑰疹多為自限性，不需特殊抗病毒治療，給予支持性療法與退燒處理即可自癒。\n- D. 在uvulopalatoglossal junction處常可見Nagayama spots：適當。Nagayama spots 是嬰兒玫瑰疹患者在懸壅垂與齶舌接合處出現的紅色斑丘疹或潰瘍性小點，是具診斷提示性的口腔黏膜表徵。\n\n【核心考點】\n嬰兒玫瑰疹（Roseola Infantum）之病生理特徵：高燒退後出疹；致病原為 HHV-6（其次為 HHV-7），非 HHV-8。口腔可見 Nagayama 斑點。",
+      "key_point": "嬰兒玫瑰疹的最主要致病原為人類皰疹病毒六型（HHV-6），典型特徵是燒退才出疹且活動力佳。",
+      "flashcard_front": "嬰兒玫瑰疹 (roseola infantum) / 致病病原體 / 臨床出疹特徵與特異口腔黏膜斑",
+      "flashcard_back": "最主要由人類皰疹病毒六型(HHV-6)感染引起。典型臨床表現為持續高燒，燒退後軀幹隨即出現不癢的紅疹，懸壅垂與齶舌接合處可見Nagayama spots。",
+      "flashcard_summary": "嬰兒玫瑰疹致病原 -> HHV-6 (而非HHV-8)；典型表現 -> 高燒3-5天退燒後才出疹(主要在軀幹)，可見Nagayama spots",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n病毒性哮吼（viral croup）是因喉部與氣管黏膜發炎水腫引起的上呼吸道阻塞，典型症狀為犬吠樣咳嗽（barking cough）、吸氣性喘鳴（stridor）及聲音沙啞。官方公布B或D皆為給分選項。\n\n【選項詳解】\n- A. 化痰藥(mucolytic agents)：化痰藥無法緩解會厭下區（subglottic region）的急性黏膜水腫，對改善哮吼的急性呼吸道阻塞無實質幫助。\n- B. 氣管擴張劑(bronchodilator)：適當（官方給分答案）。這裡的氣管擴張劑在臨床實務上主要指「吸入性腎上腺素（nebulized epinephrine）」，透過其α-receptor刺激微血管收縮，能迅速減輕喉部黏膜水腫，在急診能極快改善中重度哮吼症狀。然而，若指一般的β2-agonist（如 albuterol）對哮吼則無療效。\n- C. 抗生素(antibiotics)：哮吼主要由副流感病毒（parainfluenza virus）感染引起，抗生素並無療效，除非合併次發性細菌性氣管炎（bacterial tracheitis）。\n- D. 類固醇(steroid)：適當（官方給分答案）。不論口服、肌肉注射或靜脈注射類固醇（如 dexamethasone），都是目前治療各級哮吼的黃金標準，能顯著減少氣道發炎、降低插管率與再急診率，是長期且根本減輕症狀的藥物。\n\n【核心考點】\n病毒性哮吼（viral croup）的臨床處置：吸入性腎上腺素（nebulized epinephrine）用於急性緩解黏膜水腫；類固醇（dexamethasone）為核心抗發炎與治療根本。",
+      "key_point": "治療病毒性哮吼（viral croup）最有效的藥物為類固醇（控制發炎）與吸入性腎上腺素（快速收縮血管減輕黏膜水腫）。",
+      "flashcard_front": "病毒性哮吼 (viral croup) / 臨床三大特徵 / 核心治療藥物與機轉",
+      "flashcard_back": "臨床特徵為犬吠樣咳嗽、聲音沙啞與吸氣性喘鳴。核心治療為口服或注射類固醇（如dexamethasone）以消炎，急性呼吸窘迫時吸入腎上腺素收縮血管以迅速減輕喉部水腫。",
+      "flashcard_summary": "病毒性哮吼主要治療 -> 類固醇(Dexamethasone)；急性緩解 -> 吸入性腎上腺素(Epinephrine，具血管收縮效果)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正為 B、D 均給分；若氣管擴張劑指 nebulized epinephrine 可用於哮吼急性緩解，若指一般 beta-2 agonist 則不適用。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n3歲女孩發燒、扁桃腺滲出物、頸部淋巴結腫大、脾臟腫大，並有肝功能異常（ALT升高）。這是一組非常典型的傳染性單核球增多症（infectious mononucleosis, IM）臨床表現。\n\n【選項詳解】\n- A. 抗鏈球菌溶血素O抗體(antistreptolysin O, ASLO)：主要用於診斷先前 A 群鏈球菌感染引起的後遺症（如急性風濕熱、急性腎絲球腎炎），對急性扁桃腺炎的即時診斷幫助有限，且鏈球菌感染極少引起脾臟腫大與肝功能異常。\n- B. 抗A型肝炎的IgM：雖然急性 A 型肝炎會導致 ALT 升高，但很少合併突出的扁桃腺滲出物、頸部淋巴結腫大與脾臟腫大。\n- C. 肺炎鏈球菌尿液中抗原：主要用於成人或兒童嚴重肺炎鏈球菌肺炎的快速診斷，與本題的滲出性扁桃腺炎、脾臟腫大等全身淋巴增殖表徵無關。\n- D. 抗Epstein-Barr病毒的VCA-IgM：正確。Epstein-Barr 病毒（EBV）是傳染性單核球增多症最主要的致病原。檢測血清中的抗病毒鞘抗原 IgM（anti-VCA IgM）陽性是確診急性 EBV 感染最敏感且特異的檢驗。\n\n【核心考點】\n傳染性單核球增多症（Infectious Mononucleosis）的臨床三聯徵：發燒、滲出性扁桃腺炎、頸部淋巴結腫大，常合併脾臟腫大及肝功能異常（ALT/AST升高）。金標準診斷工具為檢測 EBV anti-VCA IgM。",
+      "key_point": "傳染性單核球增多症（IM）典型表現為發燒、滲出性扁桃腺炎、淋巴結與脾臟腫大，最常由 EBV 感染引起，以 EBV VCA-IgM 確診。",
+      "flashcard_front": "傳染性單核球增多症 (IM) / 臨床診斷四大表徵 / Epstein-Barr病毒 (EBV) 特異性診斷指標",
+      "flashcard_back": "臨床表徵為發燒、滲出性扁桃腺炎、淋巴結腫大與脾臟腫大，常伴隨ALT升高。診斷首選檢測 EBV 病毒鞘抗原 IgM（anti-VCA IgM）。",
+      "flashcard_summary": "EBV感染(傳染性單核球增多症) -> 發燒 + 滲出性扁桃腺炎 + 頸部淋巴結與脾臟腫大 + 肝功能異常(ALT升高)，診斷首選VCA-IgM",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n腦性麻痺（cerebral palsy, CP）是一組因發育中胎兒或嬰兒大腦受到非進行性損傷所致的永久性運動和姿勢發育障礙。分析其產前、產中及產後的致病原因十分重要。\n\n【選項詳解】\n- A. 腦性麻痺全球的盛行率有稍微上升：適當。隨著新生兒加護病房（NICU）技術的進步，極低體重早產兒（VLBW）的存活率上升，但也導致腦性麻痺的全球總體盛行率有輕微上升的趨勢。\n- B. 大部分腦性麻痺的原因都是生產中的併發症所造成的(如產程中窒息)：最不適當（正確答案）。研究顯示，大部分（約70-80%以上）的腦性麻痺成因發生在「產前（prenatal）」，如先天性發育異常、胎兒宮內感染、早產、多胞胎或胎盤功能不全。僅有約10-15%的病例是由生產過程中的併發症（如產程中缺氧窒息）直接引起的。\n- C. 未開發國家生產併發症所造成腦性麻痺的比例,比開發國家高：適當。未開發國家因周產期照護、產科急救與醫療資源匱乏，生產過程中的窒息、產傷或新生兒核黃疸（kernicterus）等導致腦麻的比例明顯高於醫療發達的開發國家。\n- D. 雙胞胎腦性麻痺的危險性會比單胞胎高：適當。多胞胎妊娠常合併早產、低出生體重、胎兒間輸血症候群及胎兒宮內生長遲緩，其腦性麻痺的相對危險度顯著高於單胞胎。\n\n【核心考點】\n腦性麻痺（CP）的流行病學與病因：多數腦麻成因為產前因素或早產（特別是早產兒腦室周圍白質軟化症 PVL），僅少部分由產中窒息引起。多胞胎為高風險因子。",
+      "key_point": "腦性麻痺（CP）多數是由產前因素（如早產、先天畸形、宮內感染）引起，而非生產過程中的窒息併發症。",
+      "flashcard_front": "腦性麻痺 (cerebral palsy) / 主要發病時期與原因 / 流行病學危險因子",
+      "flashcard_back": "大部分成因發生於「產前」（非生產中併發症）。早產、低出生體重及多胞胎是主要危險因子。隨早產兒存活率提高，全球盛行率有微幅上升。",
+      "flashcard_summary": "腦性麻痺主要成因 -> 產前因素(>70%，如早產、宮內感染)，生產中窒息僅佔10-15%；早產兒NICU存活率上升使盛行率微增",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n新生兒尾骶骨凹陷（sacral dimple）可能是脊髓牽扯症候群（tethered cord syndrome）或隱性脊柱裂（spina bifida occulta）等脊髓發育畸形的臨床線索。區分單純性（低風險）與非單純性（高風險）凹陷，有助於決定是否安排進一步影像檢查。\n\n【選項詳解】\n- A. 皮膚發育不全(aplasia cutis)：為異常皮膚標記，常與潛在的神經管缺損或脊膜膨出相關，屬於高風險特徵，需安排影像學檢查排除脊髓病變。\n- B. 凹陷距肛門邊緣(anal verge)1.5公分：正確（可先觀察）。「單純性（simple）」尾骶骨凹陷定義為：直徑小於 5 mm、深度淺、位於臀溝內、且「距離肛門邊緣小於2.5公分」，且不伴隨其他異常皮膚標記。1.5公分在安全值內，因此可先觀察。\n- C. 凹陷處長有毛髮：局部多毛症（hypertrichosis）是典型隱性脊柱裂或脊髓牽扯症候群的皮膚表現，屬於非單純性凹陷，必須安排影像學檢查。\n- D. 附近合併血管瘤：伴隨血管瘤、色素沉著、皮膚竇道或贅皮等，皆為脊髓內畸形的高風險指標，需要進行核磁共振（MRI）或超音波評估。\n\n【核心考點】\n單純性尾骶骨凹陷（sacral dimple）的觀察標準：直徑 < 5 mm、臀裂內、距離肛門邊緣 < 2.5 cm，且無多毛、血管瘤、贅皮或竇道等高危皮損。",
+      "key_point": "單純性尾骶骨凹陷（距離肛門邊緣 < 2.5 cm 且無多毛、血管瘤等異常皮損）可先臨床觀察，暫無需安排超音波或 MRI 檢查。",
+      "flashcard_front": "新生兒尾骶骨凹陷 (sacral dimple) / 影像學檢查適應症 / 單純性凹陷定義",
+      "flashcard_back": "單純性定義：位於臀溝內、直徑<5mm、距離肛門邊緣<2.5cm，且無毛髮、血管瘤、贅皮等。此類凹陷可先觀察，若超出此範圍則需超音波或MRI檢查。",
+      "flashcard_summary": "新生兒尾骶骨凹陷觀察指引 -> 單純性(直徑<5mm、深在臀溝、距肛門<2.5cm、無多毛/血管瘤)可先觀察；其餘需影像檢查",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

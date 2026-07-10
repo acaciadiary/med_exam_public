@@ -1,0 +1,36 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 19,
+    "end": 25
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考成人大面積燒傷的初期液體復甦：先用九分律（Rule of Nines）估算燒傷體表面積（TBSA），再用 Parkland formula 計算受傷後前 24 小時所需乳酸鹽林格氏液，且前 8 小時給一半。本題燒傷部位為雙上肢與前軀幹，TBSA 為 36%；若體重 60 kg，24 小時總量為 4 mL × 60 × 36 = 8640 mL，前 8 小時給 4320 mL，因此選 B。\n\n【選項詳解】\n- A. 錯誤。36% 的 TBSA 計算正確，但 8640 mL 是 Parkland formula 算出的前 24 小時總量，不是前 8 小時應輸注的量；前 8 小時應給總量的一半。\n- B. 正確。雙上肢各 9%，合計 18%；前軀幹為 18%，所以 TBSA = 18% + 18% = 36%。Parkland formula 為 4 mL × 體重(kg) × TBSA(%)，本題為 4 × 60 × 36 = 8640 mL/24 小時；其中一半需在受傷後前 8 小時給予，也就是 4320 mL，液體首選乳酸鹽林格氏液（Lactated Ringer's solution）。\n- C. 錯誤。TBSA 不是 27%；此外初期燒傷復甦需等張晶體液，以乳酸鹽林格氏液為常用首選，D5W 會提供游離水，不能作為大面積燒傷休克復甦的主要液體。\n- D. 錯誤。TBSA 不是 45%；大量使用生理食鹽水較易造成高氯血性代謝性酸中毒，燒傷初期復甦通常以乳酸鹽林格氏液較合適。\n\n【核心考點】\n成人燒傷九分律：每側上肢 9%、前軀幹 18%。Parkland formula = 4 mL × kg × TBSA%，前 24 小時總量的一半在受傷後前 8 小時給，常用液體為乳酸鹽林格氏液。",
+      "key_point": "成人大面積燒傷：雙上肢18%加前軀幹18%為36%；Parkland formula算24小時總量，前8小時給半量，首選乳酸鹽林格氏液。",
+      "flashcard_front": "燒傷九分律與Parkland formula / 雙上肢+前軀幹 / 前8小時輸液量",
+      "flashcard_back": "雙上肢18%加前軀幹18%為36%。Parkland formula = 4 mL × kg × TBSA%，前8小時給24小時總量的一半，常用乳酸鹽林格氏液。",
+      "flashcard_summary": "燒傷復甦 -> 36% TBSA，4×60×36=8640 mL/24h，前8小時給4320 mL LR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T13:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題考食道鱗狀細胞癌的 AJCC 第八版病理分期。題幹給出的關鍵是腫瘤侵犯食道肌肉層、3 顆區域淋巴結轉移、無遠端轉移與中度分化；這些線索分別對應 T2、N2、M0、G2。依 AJCC 第八版食道鱗狀細胞癌病理分期表，T2N2M0（G2）歸入 IIIB 期，因此選 C。\n\n【選項詳解】\n- A. 錯誤。IB 期屬於較早期、淋巴結陰性的分期組合，例如較淺層或局部侵犯但 N0 的病灶；本題已有 3 顆區域淋巴結轉移，不符合 IB。\n- B. 錯誤。IIB 期可見於較局部且淋巴結負荷較低或無淋巴結轉移的組合，例如 T1N1 或 T3N0；本題 N2 代表 3-6 顆區域淋巴結轉移，分期會更高。\n- C. 正確。侵犯食道肌肉層（muscularis propria）為 T2；3 顆區域淋巴結轉移落在 N2（3-6 顆）；沒有遠端轉移為 M0；中度分化為 G2。把 T2N2M0（G2）帶入 AJCC 第八版食道鱗狀細胞癌病理分期表，對應 IIIB 期。\n- D. 錯誤。IVB 期需要有遠端轉移（M1），例如非區域淋巴結或遠端器官轉移；本題明示無遠端轉移，因此不是 IVB。\n\n【核心考點】\n食道鱗狀細胞癌 AJCC 第八版病理分期要先判讀 TNM：T2 為侵犯肌肉層，N2 為 3-6 顆區域淋巴結轉移，M0 為無遠端轉移；T2N2M0（G2）對應 IIIB 期。",
+      "key_point": "食道鱗癌分期：T2為侵犯肌肉層，N2為3-6顆區域淋巴結轉移；T2N2M0（G2）依AJCC第八版為IIIB期。",
+      "flashcard_front": "食道鱗癌AJCC第八版 / T2與N2定義 / T2N2M0分期",
+      "flashcard_back": "T2表示侵犯肌肉層，N2表示3-6顆區域淋巴結轉移，M0表示無遠端轉移；T2N2M0（G2）為IIIB期。",
+      "flashcard_summary": "食道鱗癌分期 -> T2肌肉層 + N2三至六顆淋巴結 + M0 = IIIB期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T13:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

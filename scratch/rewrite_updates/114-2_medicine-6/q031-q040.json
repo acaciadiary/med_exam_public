@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題在考胎兒-胎盤-母體之間的類固醇生成來源。胎兒腎上腺大量合成 DHEA-S 等類固醇前驅物，原料主要來自膽固醇；在胎兒腎上腺細胞中，膽固醇的重要供應形式是低密度脂蛋白膽固醇（LDL cholesterol）。\n\n【選項詳解】\n- A. 正確。類固醇荷爾蒙的共同原料是膽固醇，胎兒腎上腺可攝取 LDL cholesterol，經 steroidogenesis 產生 DHEA-S，再由胎盤轉換成雌激素，供母體妊娠荷爾蒙環境使用。\n- B. 錯誤。HDL cholesterol 也參與體內膽固醇運輸，但腎上腺類固醇生成常考的主要膽固醇來源是 LDL receptor 攝入的 LDL cholesterol，不是 HDL。\n- C. 錯誤。三酸甘油脂主要是能量儲存與脂肪酸運輸形式，不能直接作為 steroid hormone 合成的骨架；類固醇的四環結構來自 cholesterol。\n- D. 錯誤。雌三醇（estriol）是胎兒腎上腺與胎盤合作後形成的重要妊娠雌激素產物，屬於下游荷爾蒙，不是胎兒腎上腺製造類固醇的主要前驅物。\n\n【核心考點】\n胎兒腎上腺製造 DHEA-S 等類固醇時，原料抓「膽固醇」，考選項時再進一步辨認為 LDL cholesterol；estriol 是胎盤轉換後的產物，不是上游原料。",
+      "key_point": "胎兒腎上腺類固醇生成的主要前驅物是 LDL cholesterol；estriol 是下游產物。",
+      "flashcard_front": "胎兒腎上腺製造類固醇供妊娠荷爾蒙生成時，主要前驅物是什麼？",
+      "flashcard_back": "主要是 LDL cholesterol。胎兒腎上腺以膽固醇生成 DHEA-S 等前驅物，再由胎盤轉換為雌激素如 estriol。",
+      "flashcard_summary": "胎兒腎上腺 steroidogenesis -> LDL cholesterol 是主要前驅物，estriol 是下游產物",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題問「造成母血 AFP 上升」的原因中哪一項錯誤。母血 AFP 會受孕週數、胎兒開放性缺損、胎兒腫瘤或胎盤因素影響；唐氏症在第二孕期篩檢中典型是 AFP 偏低，因此被選為錯誤敘述。\n\n【選項詳解】\n- A. 正確。AFP 隨孕週在第二孕期逐漸上升；若低估懷孕週數，實際胎齡比計算胎齡更大，檢驗值相對於錯估週數的中位數會看起來偏高。\n- B. 正確。開放性神經管缺損會讓胎兒 AFP 從缺損處進入羊水，再反映到母血中，因此是母血 AFP 上升的典型原因。\n- C. 正確。胎兒薦尾畸胎瘤可伴隨腫瘤組織、胎兒循環或胎盤相關異常，使母血 AFP 升高；在產前篩檢異常時屬於需要超音波評估的原因之一。\n- D. 錯誤。胎兒唐氏症在第二孕期血清篩檢常見模式是 AFP 與 unconjugated estriol 較低，hCG 與 inhibin A 較高；因此「唐氏症造成 AFP 上升」不符合典型篩檢模式。\n\n【核心考點】\n母血 AFP 升高要想到孕週估算偏差、開放性神經管或腹壁缺損、部分胎兒腫瘤；唐氏症篩檢則常與低 AFP 連在一起。",
+      "key_point": "唐氏症的第二孕期篩檢常見低 AFP；AFP 升高較支持孕週低估或開放性胎兒缺損。",
+      "flashcard_front": "母血 AFP 升高的常見原因與唐氏症篩檢模式如何區分？",
+      "flashcard_back": "AFP 升高常見於孕週低估、神經管缺損、腹壁缺損或部分胎兒腫瘤；唐氏症在第二孕期篩檢通常是 AFP 偏低。",
+      "flashcard_summary": "MSAFP 升高 -> 孕週低估/開放性缺損/胎兒腫瘤；Down syndrome -> AFP 偏低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題考胎兒無壓力測試（nonstress test, NST）的判讀。反應性 NST 通常需要在 20 分鐘內出現足夠次數的胎心加速；若一開始無反應，可因胎兒睡眠週期而延長觀察到 40 分鐘。\n\n【選項詳解】\n- A. 錯誤。足月或 32 週以上胎兒的 reactive NST 通常要求 20 分鐘內至少 2 次加速，每次上升至少 15 bpm 並持續至少 15 秒；只有一次胎動合併加速不足以判為正常反應性。\n- B. 錯誤。胎心變異性小於 5 bpm 屬於 minimal variability，可能與胎兒睡眠、藥物、缺氧或酸中毒等狀況相關，不能解讀為胎兒成熟。\n- C. 正確。NST 若 20 分鐘內沒有達到反應性標準，可延長到 40 分鐘，以涵蓋胎兒睡眠週期並避免過早判定異常。\n- D. 錯誤。早期減速多與胎頭受壓有關，常與宮縮同步，通常不代表胎兒酸中毒；單靠早期減速不構成 24 小時內必須生產的適應症。\n\n【核心考點】\nNST 反應性重點是「足夠胎心加速的次數與幅度」，不是只有一次加速；無反應時可先延長觀察，早期減速多屬胎頭壓迫相關變化。",
+      "key_point": "NST 無反應可延長觀察至 40 分鐘；reactive NST 通常需 20 分鐘內至少兩次合格胎心加速。",
+      "flashcard_front": "NST 無反應時可以怎麼處理？reactive NST 的基本判讀重點是什麼？",
+      "flashcard_back": "可延長觀察到 40 分鐘；32 週以上通常需至少兩次 15 bpm、15 秒以上的胎心加速。",
+      "flashcard_summary": "NST -> reactive 需足夠加速；nonreactive 可延長至 40 分鐘",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題問第二孕期唐氏症超音波軟指標中「不包含」哪一項。軟指標是與染色體異常風險相關、但本身未必是重大結構畸形的影像線索；腹壁裂是明確結構性腹壁缺損，不屬於唐氏症軟指標。\n\n【選項詳解】\n- A. 錯誤。小腸回音增加（echogenic bowel）是第二孕期可見的軟指標之一，可與唐氏症、感染、囊性纖維化或腸道出血等風險相關。\n- B. 正確。腹壁裂（gastroschisis）是胎兒腸管由腹壁缺損突出、通常位於臍旁的結構性畸形，不是唐氏症風險評估中的超音波軟指標。\n- C. 錯誤。頸部皺褶增厚（thickened nuchal fold）是第二孕期唐氏症的重要軟指標，代表頸後軟組織厚度增加。\n- D. 錯誤。輕度腎盂擴張（mild pyelectasis）可作為唐氏症軟指標之一，但單獨出現時需結合整體風險、其他影像與篩檢結果判讀。\n\n【核心考點】\n唐氏症第二孕期軟指標包括頸部皺褶增厚、echogenic bowel、輕度腎盂擴張等；gastroschisis 是結構性腹壁缺損，分類上不同。",
+      "key_point": "Gastroschisis 是結構性腹壁缺損，不是唐氏症第二孕期超音波軟指標。",
+      "flashcard_front": "唐氏症第二孕期 soft signs 中，gastroschisis 為何不是典型項目？",
+      "flashcard_back": "因為 gastroschisis 是明確腹壁結構缺損；唐氏症 soft signs 包括 nuchal fold thickening、echogenic bowel、mild pyelectasis 等。",
+      "flashcard_summary": "Down syndrome soft signs -> nuchal fold/echogenic bowel/pyelectasis；gastroschisis 是結構缺損",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題考 Bishop score 的五項加總：子宮頸開口、變薄程度、station、質地、位置。題幹給出 1-2 cm、50%、station -2、soft、anterior，分數分別為 1、1、1、2、2，加總為 7 分。\n\n【選項詳解】\n- A. 錯誤。3 分會低估題幹中「子宮頸柔軟」與「開口朝前」各 2 分的貢獻，也沒有正確納入所有五項指標。\n- B. 錯誤。5 分通常代表只部分給分；本題除了開口、變薄與 station 各 1 分外，soft cervix 與 anterior position 各應給 2 分，總分高於 5 分。\n- C. 正確。開口 1-2 cm 得 1 分，變薄 50% 得 1 分，station -2 得 1 分，質地柔軟得 2 分，位置朝前得 2 分，合計 7 分。\n- D. 錯誤。9 分需要更有利的開口、變薄或 station，例如更大開口、更高 effacement 或胎頭更下降；題幹的 1-2 cm、50%、-2 不足以達到 9 分。\n\n【核心考點】\nBishop score 要逐項加總，不要只看產次或陣痛；soft 與 anterior 各 2 分，本題五項加總為 7 分。",
+      "key_point": "Bishop score：1-2 cm=1、50%=1、station -2=1、soft=2、anterior=2，合計 7 分。",
+      "flashcard_front": "Bishop score 題：1-2 cm、50%、station -2、soft、anterior 的總分是多少？",
+      "flashcard_back": "7 分。開口 1、變薄 1、station 1、質地柔軟 2、位置朝前 2。",
+      "flashcard_summary": "Bishop score 五項加總 -> 1+1+1+2+2=7",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題問催生與產程加強中哪個敘述最不適當。有效子宮收縮常以 Montevideo units（MVU）評估，臨床常用門檻約為 200 MVU；選項 D 把 150 MVU 說成有效催生且多數進入 active phase，因此不適當。\n\n【選項詳解】\n- A. 適當。人工破水（amniotomy）可加強產程、縮短部分產婦的產程時間，但需注意臍帶脫垂、感染與胎頭未固定時的風險。\n- B. 適當。Misoprostol 是 prostaglandin E1，可用於子宮頸成熟或催生，但會增加子宮過度刺激風險；有剖腹產或子宮手術疤痕者尤其需警覺子宮破裂。\n- C. 適當。Oxytocin 半衰期短，約數分鐘；若出現過強宮縮或胎心異常，停藥後藥效可較快下降，是其臨床調整上的重要特性。\n- D. 不適當。Adequate uterine activity 通常以約 200 MVU 作為常用門檻，150 MVU 偏低；因此不能說達 150 MVU 就是有效催生並使多數產婦進入 active phase。\n\n【核心考點】\n產程加強的 MVU 常用有效門檻約 200；misoprostol 要注意子宮過度刺激與疤痕子宮風險，oxytocin 則因半衰期短而便於停藥調整。",
+      "key_point": "有效產程常用約 200 MVU 作為 adequate uterine activity 門檻；150 MVU 不足。",
+      "flashcard_front": "催生或產程加強時，adequate uterine activity 常用 MVU 門檻是多少？",
+      "flashcard_back": "約 200 MVU。150 MVU 偏低，不能視為足夠有效的子宮收縮。",
+      "flashcard_summary": "Labor augmentation -> adequate uterine activity 約 200 MVU；150 MVU 不足",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題考妊娠糖尿病造成羊水過多的病理生理。母體高血糖會使胎兒高血糖，胎兒尿液是羊水的重要來源；高葡萄糖造成滲透性利尿，使胎尿增加，進而造成羊水過多。\n\n【選項詳解】\n- A. 錯誤。羊水過多的主軸不是母體高血糖造成內皮細胞滲漏；羊水量主要由胎尿產生與胎兒吞嚥吸收之間的平衡決定。\n- B. 錯誤。若胎兒腎絲球濾過後葡萄糖被充分再吸收，反而會減少尿糖相關滲透性利尿；妊娠糖尿病相關羊水過多重點在胎兒高血糖與尿量增加。\n- C. 正確。羊水中葡萄糖濃度升高反映胎兒高血糖與胎尿中溶質增加，造成滲透性利尿，胎尿增加後使羊水量上升。\n- D. 錯誤。胃腸道狹窄或阻塞可因胎兒吞嚥或吸收羊水受阻而造成羊水過多，但這不是胎兒高血糖直接導致的典型機制。\n\n【核心考點】\n妊娠糖尿病的羊水過多抓「胎兒高血糖 → 滲透性利尿 → 胎尿增加」；胃腸道阻塞也可造成羊水過多，但路徑是吞嚥或吸收受阻。",
+      "key_point": "妊娠糖尿病造成羊水過多主要來自胎兒高血糖引起滲透性利尿與胎尿增加。",
+      "flashcard_front": "妊娠糖尿病為何容易合併羊水過多？",
+      "flashcard_back": "母體高血糖造成胎兒高血糖，胎兒出現滲透性利尿，胎尿增加使羊水量上升。",
+      "flashcard_summary": "GDM hydramnios -> fetal hyperglycemia -> osmotic diuresis -> fetal urine increases",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題問妊娠糖尿病飲食建議中哪個敘述錯誤。飲食治療目標是控制血糖並維持母胎營養，不是把碳水化合物降到越低越好；過度限制碳水可能增加酮體生成與營養不足風險。\n\n【選項詳解】\n- A. 正確。一般體重或需個別化評估的孕婦，常以約 30-35 kcal/kg/day 作為熱量估算起點，再依孕前 BMI、體重增加、血糖與胎兒生長調整。\n- B. 正確。妊娠糖尿病的營養配置常保留足夠蛋白質以支持胎兒生長，約 20% 熱量來自蛋白質是常見教科書式比例。\n- C. 錯誤。碳水化合物需要控制總量、分配到正餐與點心並選擇較低升糖負荷來源，但不是越低越好；孕期仍需足夠碳水以避免飢餓性酮症並支持胎兒需求。\n- D. 正確。部分傳統教材會以約 40% 脂肪作為妊娠糖尿病飲食比例之一；臨床上仍需重視脂肪品質，避免以飽和脂肪或高熱量飲食取代合理碳水控制。\n\n【核心考點】\n妊娠糖尿病飲食是「適量且分配良好的碳水」加上足夠蛋白質與熱量控制；把碳水降到越低越好不是正確營養策略。",
+      "key_point": "妊娠糖尿病飲食需控制並分配碳水，不是碳水越低越好。",
+      "flashcard_front": "妊娠糖尿病飲食中，碳水化合物應該越低越好嗎？",
+      "flashcard_back": "不是。應控制總量、分配餐次並選擇較佳來源；孕期過度限制碳水可能導致酮症與營養不足。",
+      "flashcard_summary": "GDM diet -> controlled/distributed carbohydrates, not lowest possible carbohydrate",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題問過期妊娠的不良妊娠結局中哪一項不包括。過期妊娠與胎盤功能下降、羊水減少、胎便吸入、巨大兒及生產併發症相關；羊水過多不是典型後果，反而較常考羊水過少。\n\n【選項詳解】\n- A. 正確。過期妊娠典型問題是胎盤老化與羊水過少（oligohydramnios），可增加臍帶壓迫與胎兒窘迫風險；羊水過多不是其典型不良結局。\n- B. 錯誤。過期或晚期妊娠管理會關注母體高血壓疾病與子癇前症等風險；臨床上若出現子癇前症，也常是需要評估分娩時機的重要母體併發症。\n- C. 錯誤。過期妊娠可能造成胎兒過大或巨大兒，進而增加肩難產與產傷風險。\n- D. 錯誤。巨大兒、產程延長、子宮收縮乏力或操作性生產風險增加，都可能讓過期妊娠與產後出血風險相連。\n\n【核心考點】\n過期妊娠常考風險是羊水過少、胎盤功能下降、胎便吸入、巨大兒、肩難產與產後出血；看到羊水過多要與糖尿病、胎兒吞嚥障礙等原因區分。",
+      "key_point": "過期妊娠典型關聯是羊水過少，不是羊水過多。",
+      "flashcard_front": "過期妊娠的羊水量變化與常見生產風險是什麼？",
+      "flashcard_back": "常見是羊水過少、胎盤功能下降、胎便吸入、巨大兒、肩難產與產後出血風險增加；不是羊水過多。",
+      "flashcard_summary": "Postterm pregnancy -> oligohydramnios/macrosomia/shoulder dystocia/PPH, not polyhydramnios",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題問婦產科腹腔鏡手術常見併發症中哪一項不是常見項目。婦產科腹腔鏡多在骨盆腔操作，常見需警覺膀胱、腸道、血管與電燒熱傷害；肝臟位於上腹部，雖可能在特殊情境受傷，但不是婦產科腹腔鏡的常見併發症。\n\n【選項詳解】\n- A. 正確。Liver injury 在一般婦產科骨盆腔腹腔鏡中並非常見併發症；若發生多與上腹部穿刺、沾黏或特殊入路相關，頻率遠低於骨盆腔器官與血管損傷。\n- B. 錯誤。Bladder injury 是婦產科腹腔鏡需注意的併發症，尤其在子宮切除、骨盆腔沾黏、曾剖腹產或膀胱剝離時風險增加。\n- C. 錯誤。Great vessel injury 可發生於 Veress needle、trocar 置入或解剖操作時，雖少見但危險，屬腹腔鏡手術重要併發症。\n- D. 錯誤。Thermal injury 是電燒或能量器械造成的熱傷害，可能波及腸道、輸尿管或其他鄰近組織，屬腹腔鏡常需預防的併發症類型。\n\n【核心考點】\n婦產科腹腔鏡常見風險集中在骨盆腔器官、血管進入傷害與能量器械熱傷害；肝臟傷害不是一般骨盆腔婦科腹腔鏡的常見併發症。",
+      "key_point": "婦產科腹腔鏡常見併發症包括膀胱傷害、大血管傷害與熱傷害；肝臟傷害較不常見。",
+      "flashcard_front": "婦產科腹腔鏡常見併發症有哪些？哪個器官傷害較不典型？",
+      "flashcard_back": "常見需警覺膀胱傷害、大血管傷害、腸道或輸尿管傷害與 thermal injury；liver injury 較不典型。",
+      "flashcard_summary": "Gynecologic laparoscopy complications -> bladder/great vessel/thermal injury common concerns; liver injury less typical",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:43:16+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

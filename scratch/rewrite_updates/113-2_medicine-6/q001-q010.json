@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題為否定題，要找出呼吸道高風險處置中錯誤的敘述。全身麻醉吸入性肺炎風險最高的時間點通常在麻醉誘導期，因為此時意識、咳嗽反射與喉部保護反射快速下降，氣管內管保護尚未完全建立。\n\n【選項詳解】\n- A. 錯誤，且為本題所問的不適當敘述。吸入性肺炎在麻醉誘導期風險較高，特別是飽胃、腸阻塞、胃食道逆流或緊急手術病人；手術拔管後與恢復期仍可能發生吸入，但題目把其機率說成高於誘導期，方向相反。\n- B. 正確。預期困難插管時，清醒插管（awake intubation）可在局部麻醉與適度鎮靜下保留自主呼吸，避免誘導後才發現無法插管或無法通氣。\n- C. 正確。麻醉前呼吸道評估無法完全排除非預期困難插管，因此麻醉團隊需要事先備妥困難氣道流程、替代氣道工具與緊急有創氣道準備。\n- D. 正確。無法插管且無法通氣（cannot intubate, cannot ventilate）是指面罩或聲門上氣道等非侵入性方式無法有效氧合，同時氣管插管也失敗，需立即進入緊急前頸部氣道處置。\n\n【核心考點】\n全身麻醉的吸入風險在誘導期特別高；預期困難氣道宜保留自主呼吸做清醒插管，非預期困難氣道則要依演算法快速改用替代氣道或建立有創氣道。",
+      "key_point": "全身麻醉吸入性肺炎風險以麻醉誘導期較高；困難氣道處置重點是預先規劃、保留氧合與及早啟動替代氣道流程。",
+      "flashcard_front": "全身麻醉吸入性肺炎風險最高常見於哪個階段？預期困難插管時可採何種策略？",
+      "flashcard_back": "常見高風險階段是麻醉誘導期；預期困難插管可考慮局部麻醉下清醒插管，以保留自主呼吸與氧合安全餘裕。",
+      "flashcard_summary": "麻醉氣道風險 -> 吸入風險重在誘導期；預期困難氣道可做清醒插管",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題為否定題，要找出 BIS 監測數值意義的錯誤敘述。BIS 是由 EEG 訊號處理後得到的意識層級指標，常用於全身麻醉期間降低術中覺醒風險，但不能完整代表鎮痛、肌鬆與自主神經反應。\n\n【選項詳解】\n- A. 正確。BIS 量尺約為 0 到 100，100 接近清醒且 EEG 活動活躍的狀態。\n- B. 正確。全身麻醉常以 BIS 40-60 作為合適範圍，通常可降低術中覺醒與回憶（recall）的風險。\n- C. 錯誤，且為本題所問的不適當敘述。Burst suppression 代表 EEG 呈現爆發活動與抑制期交替，通常出現在深麻醉、低溫或腦功能嚴重抑制狀態；BIS 多低於 40，甚至接近 0，而不是通常固定為 40。\n- D. 正確。BIS 主要反映意識與催眠程度，不能直接測量疼痛反應、肌肉鬆弛程度或所有麻醉組成，因此臨床仍需合併血壓、心跳、動作反應與藥物劑量判斷。\n\n【核心考點】\nBIS 100 代表清醒附近，40-60 常作為全身麻醉目標範圍；burst suppression 對應更深的腦皮質抑制，BIS 通常低於 40。",
+      "key_point": "Burst suppression 是深度腦波抑制表現，BIS 通常低於 40；BIS 可輔助判斷意識層級，但不能等同完整麻醉深度。",
+      "flashcard_front": "BIS 監測中，burst suppression 通常對應怎樣的數值與臨床意義？",
+      "flashcard_back": "通常 BIS 低於 40，表示腦皮質活動高度受抑，常見於深麻醉或嚴重腦功能抑制狀態。",
+      "flashcard_summary": "BIS 判讀 -> 40-60 常用於全麻；burst suppression 多低於 40",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n插管後確認氣管內管位置不能只看血氧，因為剛誘導後病人可能仍有氧氣儲備。若 EtCO2 波形未呈現持續規則呼氣二氧化碳，最危急的考量是食道插管，處置應立即移除錯誤管路並重新建立氣道。\n\n【選項詳解】\n- A. 錯誤。氣管內管阻塞會造成通氣阻力上升、呼氣波形變形、潮氣量下降或 EtCO2 逐漸改變，但通常不是插管後立即完全沒有可持續的正常 CO2 波形。\n- B. 正確。食道插管時，胃內殘餘 CO2 可能讓最初幾次通氣出現微弱或遞減波形，之後便消失；此時不能被尚可的 SpO2 誤導，應準備拔管並重新插管。\n- C. 錯誤。Soda lime 失效或耗盡會使吸入端 CO2 增加，EtCO2 波形基線抬高，代表再吸入二氧化碳，並不會解釋插管後缺乏持續呼氣 CO2 的狀況。\n- D. 錯誤。插管過深進入主支氣管會造成單肺通氣、呼吸音不對稱與氧合惡化，但仍有肺泡通氣與 CO2 排出，因此 EtCO2 通常仍有連續波形。\n\n【核心考點】\n氣管插管後連續 EtCO2 波形是確認氣管內位置的重要依據；插管後若無持續呼氣 CO2，需優先處理食道插管造成的失氧風險。",
+      "key_point": "插管後缺乏持續 EtCO2 波形時，應高度懷疑食道插管並立即重新建立氣道，不能只因 SpO2 暫時正常而延誤。",
+      "flashcard_front": "氣管插管後 SpO2 暫時正常，但 EtCO2 沒有持續正常波形時，最需要先處理什麼？",
+      "flashcard_back": "高度懷疑食道插管，立即拔除錯誤管路並重新插管或採替代氣道以恢復有效通氣。",
+      "flashcard_summary": "插管確認 -> 無持續 EtCO2 波形先懷疑食道插管",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": [
+        "題目原圖未包含在 JSON 文字內，建議人工對照原始圖片確認 EtCO2 波形。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\nSugammadex 是選擇性肌肉鬆弛劑結合劑（selective relaxant binding agent），以環糊精結構包埋特定 aminosteroid 類非去極化肌鬆劑。臨床最典型、親和力最高的對象是 rocuronium。\n\n【選項詳解】\n- A. 正確。Rocuronium 屬 aminosteroid 類非去極化神經肌肉阻斷劑，sugammadex 可直接包埋游離 rocuronium，使血中濃度下降，促使神經肌肉接合處的藥物離開受體而快速恢復肌力。\n- B. 錯誤。Cisatracurium 屬 benzylisoquinolinium 類，主要經 Hofmann elimination 分解，sugammadex 不會有效包埋此類藥物。\n- C. 錯誤。Mivacurium 也屬 benzylisoquinolinium 類，主要由血漿膽鹼酯酶代謝，不是 sugammadex 的專一性拮抗對象。\n- D. 錯誤。Pancuronium 雖為 aminosteroid 類，但 sugammadex 對 rocuronium 與 vecuronium 的臨床親和力與使用證據較明確，pancuronium 不是題目所問的專一性對象。\n\n【核心考點】\nSugammadex 的高頻考點是包埋 rocuronium，並可用於 vecuronium；它不是 neostigmine 類的乙醯膽鹼酯酶抑制劑，也不能廣泛拮抗所有非去極化肌鬆劑。",
+      "key_point": "Sugammadex 以包埋 aminosteroid 類肌鬆劑發揮作用，臨床最重要對象是 rocuronium，另可用於 vecuronium。",
+      "flashcard_front": "Sugammadex 最典型用來拮抗哪一種非去極化肌肉鬆弛劑？作用方式為何？",
+      "flashcard_back": "Rocuronium；sugammadex 以環糊精結構包埋游離 rocuronium，降低其作用濃度並促進神經肌肉功能恢復。",
+      "flashcard_summary": "Sugammadex -> 包埋 rocuronium，快速逆轉 aminosteroid 類肌鬆",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題為否定題，要找出吸入性麻醉劑藥理敘述中的錯誤者。吸入麻醉劑效力常以 MAC 表示，MAC 會受年齡、體溫、其他中樞抑制藥物與生理狀態影響。\n\n【選項詳解】\n- A. 正確。吸入性麻醉劑的效力與脂溶性高度相關，脂溶性越高，通常所需 MAC 越低，麻醉效力越強。\n- B. 正確。多數揮發性吸入麻醉劑會造成周邊血管舒張，使全身血管阻力下降，因此臨床常見劑量相關低血壓。\n- C. 正確。Desflurane 可在專用精密蒸發器下用於低流量麻醉；低流量技術需注意新鮮氣流量、麻醉機條件、吸收劑狀態與濃度監測。\n- D. 錯誤，且為本題所問的不適當敘述。MAC 會明顯受年齡影響，通常嬰幼兒期較高，之後隨年齡增加而逐漸下降；老年病人對吸入麻醉劑較敏感，所需濃度較低。\n\n【核心考點】\n吸入麻醉劑效力與脂溶性相關；MAC 不是固定值，年齡增加會使 MAC 下降，臨床麻醉需依病人年齡與共用藥物調整劑量。",
+      "key_point": "MAC 會受年齡影響，年齡越大通常 MAC 越低；吸入麻醉劑效力則與脂溶性呈高度相關。",
+      "flashcard_front": "吸入性麻醉劑的 MAC 與年齡有何關係？",
+      "flashcard_back": "MAC 受年齡影響，嬰幼兒期偏高，之後隨年齡上升而逐漸下降，老年人需要較低濃度即可達到麻醉效果。",
+      "flashcard_summary": "吸入麻醉劑 MAC -> 年齡增加通常下降；脂溶性越高效力越強",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n脊椎麻醉需把針尖送入蛛網膜下腔（subarachnoid space），該空間含有腦脊髓液。穿刺路徑最後穿過蜘蛛網膜後，針尖才進入含 CSF 的腔室並可見液體流出。\n\n【選項詳解】\n- A. 錯誤。硬脊膜（dura mater）位在蜘蛛網膜外側，穿過硬脊膜後仍需再穿過蜘蛛網膜，才會進入蛛網膜下腔。\n- B. 正確。蜘蛛網膜（arachnoid mater）與軟腦脊膜之間是蛛網膜下腔，內有 CSF；脊椎麻醉針最後穿破蜘蛛網膜後，可見 CSF 回流。\n- C. 錯誤。軟腦脊膜（pia mater）緊貼脊髓與神經組織表面，脊椎麻醉不應穿過此層，否則代表針尖過深且可能造成神經傷害。\n- D. 錯誤。黃韌帶（ligamentum flavum）位於硬膜外腔後方，穿過黃韌帶只進入硬膜外腔，這是硬膜外麻醉常感受到阻力消失的位置，不會有 CSF 流出。\n\n【核心考點】\n脊椎麻醉的層次可整理為黃韌帶、硬脊膜、蜘蛛網膜，之後才進入蛛網膜下腔取得 CSF；硬膜外腔位於黃韌帶與硬脊膜之間。",
+      "key_point": "脊椎麻醉見到 CSF 前最後穿過的膜是蜘蛛網膜；穿過黃韌帶只到硬膜外腔，尚未進入含 CSF 的蛛網膜下腔。",
+      "flashcard_front": "脊椎麻醉穿刺時，見到 CSF 前最後穿過哪一層？",
+      "flashcard_back": "蜘蛛網膜（arachnoid mater）。穿過後進入蛛網膜下腔，因此可見腦脊髓液流出。",
+      "flashcard_summary": "脊椎麻醉層次 -> 穿過蜘蛛網膜後進入蛛網膜下腔，可見 CSF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n95 歲病人要做手腕骨折復位固定，區域麻醉可降低全身麻醉風險。本題重點在上肢阻斷位置、局部麻醉藥作用時間，以及鹼化局麻藥對起效時間的影響。\n\n【選項詳解】\n- A. 錯誤。Interscalene brachial plexus block 主要適合肩部與近端上臂手術，且容易造成同側膈神經阻斷；對高齡病人可能增加呼吸負擔，手腕手術通常會考慮鎖骨上、鎖骨下或腋下等更遠端的臂神經叢阻斷。\n- B. 錯誤。Bupivacaine 是長效局部麻醉藥，作用時間較長；若術後需要較快評估神經功能，bupivacaine 不是短效選擇。\n- C. 錯誤。Lidocaine 起效較快，但臂神經叢阻斷需要局麻藥在神經周圍擴散並達到足夠阻斷，通常不能預期 5 分鐘內即可穩定開始手術。\n- D. 正確。Lidocaine 與少量 sodium bicarbonate 混合後，藥液較鹼化，非離子型局麻藥比例增加，更容易穿過神經膜，可縮短神經阻斷起效時間。\n\n【核心考點】\n手腕手術不以 interscalene block 為優先；bupivacaine 是長效局麻藥；lidocaine 加碳酸氫鈉鹼化可增加非離子型比例並加快 onset。",
+      "key_point": "鹼化 lidocaine 可增加非離子型局麻藥比例，促進穿透神經膜並縮短起效時間；bupivacaine 屬長效局麻藥。",
+      "flashcard_front": "Lidocaine 加 sodium bicarbonate 為何可加快神經阻斷 onset？",
+      "flashcard_back": "鹼化後非離子型 lidocaine 比例增加，較易穿過神經膜，因此起效較快。",
+      "flashcard_summary": "區域麻醉藥理 -> lidocaine 鹼化可加快 onset；bupivacaine 為長效",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題為否定題，要辨認慢性疼痛相關名詞中錯誤的敘述。Analgesia 指痛覺缺失或疼痛被抑制，不代表所有感覺完全消失；若所有感覺皆消失，較接近 anesthesia。\n\n【選項詳解】\n- A. 正確。Allodynia 是原本不會造成疼痛的刺激被感受為疼痛，例如輕觸、衣物摩擦或冷風吹拂即引起疼痛。\n- B. 正確。Hyperalgesia 是對傷害性刺激產生過強的疼痛反應，例如針刺或熱刺激造成比預期更劇烈的疼痛。\n- C. 錯誤，且為本題所問的不適當敘述。Analgesia 是痛覺消失或疼痛感被抑制，其他觸覺、壓覺或本體感覺可以仍存在；「對所有知覺皆無反應」描述的是 anesthesia 或更廣泛的感覺喪失。\n- D. 正確。Paresthesia 是沒有明顯外在刺激時產生異常感覺，例如麻、刺、電流感或蟻走感，常見於周邊神經病變或神經受壓。\n\n【核心考點】\n疼痛名詞要分清刺激性質與感覺範圍：allodynia 是非痛刺激變痛，hyperalgesia 是痛刺激反應過強，analgesia 只限痛覺減少或消失。",
+      "key_point": "Analgesia 是痛覺缺失或疼痛被抑制，不等於所有感覺消失；allodynia 與 hyperalgesia 的差別在刺激原本是否為傷害性刺激。",
+      "flashcard_front": "Analgesia 與 anesthesia 的感覺範圍差異是什麼？",
+      "flashcard_back": "Analgesia 主要是痛覺缺失或疼痛被抑制；anesthesia 才是較廣泛的感覺喪失。",
+      "flashcard_summary": "疼痛名詞 -> analgesia 不是所有知覺消失；allodynia 為非痛刺激引痛",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問敗血症治療中哪一項有實證支持可改善預後。現代敗血症照護強調早期辨識、抗生素、感染源控制、適量輸液、必要時升壓劑，以及避免過度嚴格血糖控制造成低血糖。\n\n【選項詳解】\n- A. 錯誤。敗血性休克需要早期輸液與血流動力學復甦，但常用 MAP 目標約為 65 mmHg；題目寫平均血壓大於 90 mmHg，會增加不必要升壓劑與心血管負擔，不是目前實證支持的目標。\n- B. 正確。重症敗血症病人若血糖過高，使用胰島素把血糖控制在低於 180 mg/dL、常見目標約 140-180 mg/dL，可避免高血糖相關傷害；相反地，過度嚴格控制到正常低範圍會增加低血糖與死亡風險。\n- C. 錯誤。高劑量類固醇不能常規用來降低敗血症死亡率，還可能增加感染與代謝副作用；只有在足量輸液與升壓劑後仍休克時，才會考慮低劑量 hydrocortisone。\n- D. 錯誤。腎性劑量 dopamine 曾被期待增加腎血流與尿量，但臨床研究未證實可降低洗腎率或改善預後，且可能造成心律不整。\n\n【核心考點】\n敗血症照護中，MAP 目標通常不是追到 90 mmHg 以上；血糖控制避免超過 180 mg/dL，且不要過度嚴格；高劑量類固醇與腎性劑量 dopamine 不作為常規改善預後策略。",
+      "key_point": "敗血症重症照護的血糖目標通常控制在 140-180 mg/dL；過度嚴格血糖控制、高劑量類固醇與腎性劑量 dopamine 都不應常規用來改善預後。",
+      "flashcard_front": "敗血症重症病人的血糖控制目標通常為何？哪些治療不應常規使用？",
+      "flashcard_back": "常見目標約 140-180 mg/dL，避免血糖超過 180 mg/dL；不常規使用高劑量類固醇或腎性劑量 dopamine 改善預後。",
+      "flashcard_summary": "敗血症實證治療 -> 血糖控制低於 180 mg/dL；不用高劑量 steroid 或 renal-dose dopamine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題為否定題，要找出年齡相關黃斑部退化（age-related macular degeneration, AMD）的錯誤敘述。AMD 盛行率會隨年齡增加，但疾病並非到 70 歲後才常見，臨床上 50 歲以上就需納入風險評估。\n\n【選項詳解】\n- A. 正確。乾性 AMD 又稱非新生血管性 AMD，比例遠高於濕性 AMD，常與 drusen、色素上皮變化與地圖狀萎縮相關。\n- B. 正確。濕性 AMD 由脈絡膜新生血管造成滲漏、出血與疤痕，雖然比例較少，卻更容易造成快速且嚴重的中心視力下降。\n- C. 錯誤，且為本題所問的不適當敘述。AMD 確實隨年齡增加而更常見，但 50-69 歲族群也可能發病；說很少發生於 70 歲以下會低估中老年族群的風險。\n- D. 正確。在已開發國家，AMD 是老年族群不可逆中心視力喪失的重要原因之一，特別影響閱讀、辨識臉孔與精細視覺工作。\n\n【核心考點】\nAMD 分為乾性與濕性：乾性較常見，濕性較容易快速造成嚴重視力損失；流行病學上 50 歲以上即可能出現，風險隨年齡增加而上升。",
+      "key_point": "AMD 不只發生在 70 歲以上；50 歲以上即可能發病，乾性較常見，濕性因新生血管滲漏出血而更易造成嚴重中心視力喪失。",
+      "flashcard_front": "AMD 的乾性與濕性何者較常見？何者較容易造成嚴重視力喪失？",
+      "flashcard_back": "乾性 AMD 較常見；濕性 AMD 因脈絡膜新生血管滲漏、出血與疤痕化，較容易造成快速嚴重視力喪失。",
+      "flashcard_summary": "AMD -> 乾性較常見；濕性較傷視力；50 歲以上即可發病",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

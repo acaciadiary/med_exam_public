@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n子宮內膜癌常以 Type I 與 Type II 區分。Type I 多為 endometrioid carcinoma，與長期無黃體素拮抗的雌激素刺激相關，常以異常子宮出血或停經後出血表現；Type II 則較常見 p53 異常、侵襲性較高且預後較差。\n\n【選項詳解】\n- A. 錯誤。Type I 子宮內膜癌與慢性無排卵造成的無拮抗雌激素刺激有關；多囊性卵巢症候群（PCOS）正是常見高風險背景，因長期無排卵會使子宮內膜持續增生。\n- B. 錯誤。Type I 通常分化較好、較早出現出血症狀而被診斷，整體預後通常優於 Type II；預後較差的是 serous、clear cell 等 Type II 腫瘤。\n- C. 錯誤。p53 突變典型連結 Type II，尤其 uterine serous carcinoma；Type I 較常見 PTEN、PIK3CA、KRAS 或 mismatch repair 相關異常。\n- D. 正確。子宮內膜癌最典型臨床表現是異常子宮出血，尤其停經後出血；Type I 因多在較早期產生出血症狀，因此此敘述正確。\n\n【核心考點】\nType I 子宮內膜癌是雌激素相關、內膜樣、預後較佳且常見 PTEN/MMR 相關異常；Type II 較常見 p53 異常、侵襲性較高。看到子宮內膜癌臨床表徵，先想到異常子宮出血或停經後出血。",
+      "key_point": "Type I 子宮內膜癌與無拮抗雌激素刺激相關，常見異常子宮出血；p53 與預後差較偏向 Type II。",
+      "flashcard_front": "子宮內膜癌 Type I 與 Type II 的高分辨考點是什麼？",
+      "flashcard_back": "Type I：雌激素相關、endometrioid、PTEN/MMR 常見、預後較佳、常以異常出血表現；Type II：非雌激素依賴、serous/clear cell、p53 常見、預後較差。",
+      "flashcard_summary": "子宮內膜癌分型 -> Type I 為雌激素相關且常異常出血；Type II 常 p53 異常且預後較差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題問 partial hydatidiform mole 的錯誤敘述。部分性葡萄胎多為三倍體，常可見胎兒或胚胎組織，β-hCG 通常低於完全性葡萄胎，且進展成持續性滋養層疾病或侵襲性病灶的風險低於 complete mole。\n\n【選項詳解】\n- A. 正確。部分性葡萄胎典型核型為 triploid，例如 69,XXY 或 69,XXX，通常由一顆正常卵子受兩個精子受精，或受一個雙倍體精子受精而來；多出的一套染色體多為父源。\n- B. 錯誤。部分性葡萄胎惡化成妊娠滋養細胞腫瘤（GTN）或侵襲性葡萄胎的機率低於完全性葡萄胎；完全性葡萄胎因滋養層增生較瀰漫，後續追蹤 β-hCG 異常與侵襲性病變風險較高。\n- C. 正確。部分性葡萄胎可見部分水腫絨毛，並可能伴隨胎兒組織、胚胎成分或胎兒紅血球；完全性葡萄胎則典型沒有胎兒組織。\n- D. 正確。部分性葡萄胎滋養層增生程度通常較完全性葡萄胎輕，因此 β-hCG 濃度多較低，也較少出現極高 β-hCG 相關表現。\n\n【核心考點】\n部分性葡萄胎是三倍體、有胎兒組織、β-hCG 較低、後續 GTN 風險較低；完全性葡萄胎多為二倍體父源、無胎兒組織、β-hCG 較高且惡化風險較高。否定題要選出與這組對比相反的敘述。",
+      "key_point": "Partial mole 相較 complete mole，通常為三倍體、有胎兒組織、β-hCG 較低，且進展成 GTN 的風險較低。",
+      "flashcard_front": "Partial mole 與 complete mole 如何用染色體、胎兒組織、β-hCG 與惡化風險區分？",
+      "flashcard_back": "Partial mole：triploid、可有胎兒組織、β-hCG 較低、GTN 風險較低；complete mole：多為二倍體父源、無胎兒組織、β-hCG 較高、GTN 風險較高。",
+      "flashcard_summary": "葡萄胎鑑別 -> partial mole 有胎兒組織且惡化風險低於 complete mole",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題問 IA2-IIA 早期子宮頸癌接受根除性子宮切除後，何者不是復發風險因子。術後復發與是否需輔助治療主要看高風險因子如淋巴結轉移、子宮旁侵犯、切緣陽性，以及中風險因子如腫瘤大小、深層間質侵犯與 lymphovascular space invasion；腫瘤壞死程度不是常規判斷因子。\n\n【選項詳解】\n- A. 是復發風險因子。子宮旁組織（parametrium）顯微侵犯代表腫瘤已超出子宮頸局部，屬術後高風險病理因子，會增加局部復發與需要輔助同步放化療的可能。\n- B. 是復發風險因子。骨盆腔淋巴結轉移代表腫瘤已有淋巴途徑擴散，是子宮頸癌術後最重要的高風險指標之一。\n- C. 不是標準復發風險因子。腫瘤細胞壞死可出現在病理描述中，但不屬於常用術後風險分層或輔助治療決策的核心項目。\n- D. 是復發風險因子。子宮頸間質侵犯越深，越可能合併局部擴散與淋巴血管侵犯，因此是 Sedlis 類中風險判斷常用要素之一。\n\n【核心考點】\n早期子宮頸癌術後風險分層要記高風險三項：淋巴結轉移、子宮旁侵犯、切緣陽性；中風險常看腫瘤大小、深層間質侵犯與 LVSI。腫瘤壞死程度不是常規復發風險因子。",
+      "key_point": "子宮頸癌根除術後復發風險主要看淋巴結轉移、子宮旁侵犯、切緣、間質侵犯深度、腫瘤大小與 LVSI；壞死程度不是標準因子。",
+      "flashcard_front": "早期子宮頸癌根除術後，哪些病理因子代表復發高風險？",
+      "flashcard_back": "高風險：骨盆淋巴結轉移、子宮旁侵犯、切緣陽性；中風險常看腫瘤大小、深層間質侵犯與 LVSI。腫瘤壞死程度不是常用復發風險因子。",
+      "flashcard_summary": "子宮頸癌術後風險 -> 淋巴結/子宮旁/切緣為高風險；壞死程度非標準因子",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題問人工生殖技術的錯誤敘述。重點在排卵刺激療程避免 premature LH surge、生育力保存、著床前基因檢測的適應症，以及單一胚胎植入降低多胎妊娠。PGD/PGT-M 不是拿來處理沒有已知遺傳或染色體異常的習慣性流產夫妻之一般增進著床率工具。\n\n【選項詳解】\n- A. 正確。長療程常利用 GnRH agonist 先造成腦下垂體 down-regulation，降低內源性 LH surge 提早發生的風險，使卵泡成熟與取卵時機較可控制。\n- B. 正確。癌症治療前若可能接受化療、放療或性腺毒性治療，可先進行精子、卵子或胚胎冷凍，以保存未來生育機會。\n- C. 錯誤。PGD 傳統上用於已知單基因疾病或染色體結構異常的胚胎診斷；若夫妻沒有已知染色體異常，不能把 PGD 當作一般提高著床率的方法。反覆流產是否使用 PGT-A 也需依個案與證據評估，並非題目所述 PGD 適應症。\n- D. 正確。單一囊胚植入（single blastocyst transfer）可在保留合理懷孕率的同時，明顯降低雙胞胎或多胞胎妊娠風險，減少早產與母胎併發症。\n\n【核心考點】\nPGD/PGT-M 的核心適應症是已知遺傳病或染色體結構異常，不是無已知異常者的一般著床率增進工具。人工生殖題常同時考避免 premature LH surge、生育力保存與單一胚胎植入降低多胎。",
+      "key_point": "PGD/PGT-M 用於已知遺傳或染色體異常的胚胎診斷；無已知染色體異常的習慣性流產夫妻，不應說可用 PGD 來增加著床率。",
+      "flashcard_front": "PGD/PGT-M 在人工生殖中的主要適應症是什麼？",
+      "flashcard_back": "主要用於已知單基因疾病或染色體結構異常的胚胎診斷；不是無已知異常者的一般提高著床率工具。",
+      "flashcard_summary": "人工生殖 -> PGD/PGT-M 針對已知遺傳或染色體異常；單一囊胚植入降低多胎",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題問 PCOS 婦女治療敘述何者錯誤。PCOS 多毛與青春痘來自高雄性素作用；複合口服避孕藥可降低游離雄性素，但毛髮反應慢且單用效果有限，不能誇稱單獨使用就有八成成功率。\n\n【選項詳解】\n- A. 錯誤。複合口服避孕藥可抑制 LH、降低卵巢雄性素生成，並增加 SHBG 以降低游離 testosterone，是多毛症常用第一線治療；但多毛改善需等待毛髮週期，單用反應不一定充分，常需合併抗雄性素藥物，因此「單獨使用成功機會高達八成」過度絕對。\n- B. 正確。Cyproterone acetate 具有抗雄性素與黃體素作用，可降低雄性素效應；但需注意肝功能異常、肝毒性，以及少見但重要的肝腫瘤風險。\n- C. 正確。GnRH agonist 可抑制腦下垂體-卵巢軸而降低卵巢雄性素；dexamethasone 可抑制 ACTH 驅動的腎上腺雄性素，因此兩者在特定情境可改善多毛與青春痘，但不是一般 PCOS 長期第一線選擇。\n- D. 正確。卵巢部分切除或較現代的 laparoscopic ovarian drilling 可降低卵巢間質雄性素環境，部分病人排卵功能會改善；目前臨床會更審慎選擇適應症，以避免沾黏或卵巢儲備下降。\n\n【核心考點】\nPCOS 高雄性素症狀治療要分清「可降低雄性素」與「單用效果保證」。口服避孕藥是一線選擇，但多毛症改善慢且常需合併抗雄性素；cyproterone acetate 要注意肝毒性。",
+      "key_point": "PCOS 多毛症可用複合口服避孕藥降低游離雄性素，但單用療效有限，不能說成功率必達八成。",
+      "flashcard_front": "PCOS 多毛症為何常用口服避孕藥？單用是否一定足夠？",
+      "flashcard_back": "口服避孕藥可抑制 LH 並增加 SHBG，降低游離雄性素；但多毛改善慢且單用效果有限，中重度常需合併抗雄性素治療。",
+      "flashcard_summary": "PCOS 多毛症 -> 口服避孕藥可降游離雄性素，但單用效果不應過度誇大",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n18 歲原發性無月經、懷孕陰性、有乳房發育但沒有腋毛或恥毛，代表體內有足夠雌激素作用，但雄性素作用缺乏。這組線索典型指向 complete androgen insensitivity syndrome：46,XY，睪丸產生 testosterone 可芳香化成雌激素造成乳房發育，但 androgen receptor 無反應，陰毛與腋毛稀少或缺如。\n\n【選項詳解】\n- A. 錯誤。Mayer-Rokitansky-Kuster-Hauser syndrome 是 46,XX Mullerian agenesis，卵巢功能正常，因此乳房、腋毛與恥毛通常都會正常發育；主要問題是子宮與上段陰道發育不全導致原發性無月經。\n- B. 正確。Androgen insensitivity syndrome 因 androgen receptor 缺陷，外觀多為女性、有乳房發育，但缺乏 androgen 對毛囊的作用，因此腋毛與恥毛少或沒有；同時因抗 Mullerian hormone 存在，通常沒有子宮。\n- C. 錯誤。5-alpha-reductase deficiency 是 testosterone 無法有效轉成 DHT，外生殖器男性化不足；青春期 testosterone 上升後常出現男性化與陰毛發育，不符合完全沒有腋毛或恥毛的線索。\n- D. 錯誤。Kallmann syndrome 是 GnRH 缺乏造成低促性腺激素性性腺功能低下，雌激素不足，因此乳房發育通常不佳，且常伴嗅覺低下或喪失。\n\n【核心考點】\n原發性無月經的快速判讀：有乳房代表有雌激素；無腋毛/恥毛代表 androgen 作用不足。乳房發育正常加上陰毛腋毛缺如，優先想到 androgen insensitivity syndrome，而不是 MRKH 或 Kallmann。",
+      "key_point": "原發性無月經若有乳房但無腋毛/恥毛，典型是 androgen insensitivity syndrome，因雌激素作用存在但 androgen receptor 無反應。",
+      "flashcard_front": "原發性無月經患者有乳房發育但無腋毛、恥毛，最典型診斷是什麼？",
+      "flashcard_back": "Androgen insensitivity syndrome；46,XY，testosterone 可芳香化成 estrogen 造成乳房發育，但 androgen receptor 缺陷使腋毛與恥毛缺如。",
+      "flashcard_summary": "原發性無月經 -> 有乳房但無陰毛/腋毛，想到 androgen insensitivity syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題問尿失禁敘述何者最不適當。尿失禁的初步評估以病史、理學檢查、尿液檢查、咳嗽壓力測試、解尿後餘尿量與小便日記為主；尿路動力學檢查雖有診斷價值，但需要導管與專門設備，不屬於簡單診斷工具。\n\n【選項詳解】\n- A. 適當。年齡增加會使骨盆底支持與尿道括約肌功能下降；肥胖與慢性咳嗽會提高腹壓；骨盆腔手術可能影響尿道支持或神經，皆會增加尿失禁風險。\n- B. 適當。病史可區分壓力性、急迫性或混合型尿失禁；理學檢查與咳嗽測試可觀察壓力性漏尿；解尿後餘尿量可評估排空不全或溢流性問題。\n- C. 最不適當。小便日記、尿液檢查與棉墊測試相對簡單，但尿路動力學檢查（urodynamic study）需導管測量膀胱壓、尿流與括約肌功能，較侵入且複雜，不應與簡單工具並列。\n- D. 適當。Q-tip test 過去用於評估尿道活動度，但重現性與臨床決策價值有限，現代評估中通常不建議常規使用。\n\n【核心考點】\n尿失禁初步診斷重視低侵入性評估：病史、理學檢查、尿液檢查、咳嗽測試、PVR 與小便日記。Urodynamic study 是進階且較侵入的檢查，通常用於複雜、診斷不明或手術前特定情境。",
+      "key_point": "尿路動力學檢查是進階且較侵入的尿失禁評估，不屬於簡單診斷工具。",
+      "flashcard_front": "女性尿失禁的初步評估工具與進階檢查如何區分？",
+      "flashcard_back": "初步評估：病史、理學檢查、尿液檢查、咳嗽測試、PVR、小便日記；尿路動力學檢查需導管與設備，是進階且較侵入的檢查。",
+      "flashcard_summary": "尿失禁評估 -> urodynamic study 是進階侵入性檢查，不是簡單工具",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nAutonomic dysreflexia 常發生於 T6 或以上脊髓損傷者，因膀胱脹尿、便秘、皮膚刺激等損傷平面以下刺激引發過度交感反射。其核心危險表現是突發嚴重高血壓，因此「血壓降低」最不符合典型症狀。\n\n【選項詳解】\n- A. 最不適切。自主神經反射異常會造成損傷平面以下血管強烈收縮，使血壓快速升高，甚至導致腦出血或癲癇；低血壓不是典型發作表現。\n- B. 適切。血壓升高後，損傷平面以上可出現副交感代償與皮膚自律反應，常見頭頸部冒汗、潮紅或鼻塞。\n- C. 適切。損傷平面以下交感神經反射活化可造成立毛肌收縮，因此會出現起雞皮疙瘩（piloerection），常伴皮膚蒼白或冰冷。\n- D. 適切。突發高血壓會造成劇烈搏動性頭痛，是 autonomic dysreflexia 最常見、也最需要警覺的主訴之一。\n\n【核心考點】\nT6 以上脊髓損傷病人若因膀胱或腸道刺激突發頭痛、冒汗、起雞皮疙瘩，要先量血壓並處理誘因。Autonomic dysreflexia 的關鍵是高血壓，而不是低血壓。",
+      "key_point": "Autonomic dysreflexia 的核心表現是突發高血壓，常伴頭痛、冒汗與起雞皮疙瘩；血壓降低不典型。",
+      "flashcard_front": "T6 以上脊髓損傷者出現 autonomic dysreflexia 時，最重要的生命徵象變化是什麼？",
+      "flashcard_back": "突發嚴重高血壓；常由膀胱脹尿或便秘誘發，可伴頭痛、冒汗、潮紅、起雞皮疙瘩與反射性心搏過緩。",
+      "flashcard_summary": "Autonomic dysreflexia -> T6 以上損傷，誘因刺激造成突發高血壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題考下肢肌肉動作。踝關節蹠屈是腳尖往下踩的動作，主要由小腿後側 gastrocnemius 與 soleus 經 Achilles tendon 完成；若腓腸肌痙攣，高張力會使踝部維持蹠屈姿勢。\n\n【選項詳解】\n- A. 錯誤。腓長肌（peroneus longus）主要功能是足外翻（eversion），並可輔助蹠屈；單獨高張力時較會造成外翻姿勢，不是造成典型踝蹠屈痙攣的主要肌肉。\n- B. 錯誤。脛前肌（tibialis anterior）位於小腿前側，是踝背屈（dorsiflexion）與足內翻的重要肌肉；痙攣時方向與蹠屈相反。\n- C. 錯誤。伸趾長肌負責伸展足趾並輔助踝背屈，屬前側伸肌群；高張力不會造成踝關節主要蹠屈姿勢。\n- D. 正確。腓腸肌（gastrocnemius）跨過膝與踝，和比目魚肌共同形成小腿三頭肌，是強力蹠屈肌；中風、腦傷或脊髓損傷後若此肌群 spasticity，常造成尖足或 equinus deformity。\n\n【核心考點】\n踝蹠屈看小腿後側 plantarflexor，尤其 gastrocnemius-soleus complex；踝背屈看小腿前側 dorsiflexor，尤其 tibialis anterior。痙攣造成的姿勢通常朝該肌肉主要動作方向固定。",
+      "key_point": "Gastrocnemius 是主要踝蹠屈肌，痙攣會造成尖足或 equinus；tibialis anterior 則主導踝背屈。",
+      "flashcard_front": "哪一塊肌肉高張力最會造成踝關節蹠屈？",
+      "flashcard_back": "Gastrocnemius；它與 soleus 構成主要 plantarflexor，痙攣時會造成踝蹠屈、尖足或 equinus deformity。",
+      "flashcard_summary": "踝關節動作 -> gastrocnemius 主蹠屈；tibialis anterior 主背屈",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nVertebrobasilar syndromes 屬後循環病灶，主要影響腦幹、小腦、前庭系統、枕葉與相關腦神經通路。吞嚥困難、構音障礙與平衡困難都能由腦幹或小腦缺血解釋；失語症則通常代表優勢大腦半球語言皮質受損，多屬前循環病灶。\n\n【選項詳解】\n- A. 常見。吞嚥困難可來自延腦或相關第 IX、X、XII 對腦神經核與傳導路受損，是後循環腦幹中風的重要症狀。\n- B. 常見。構音障礙是發音肌肉控制或協調受損，腦幹、小腦或皮質延髓束病灶都可造成；在椎底動脈系統缺血中並不少見。\n- C. 不是常見症狀。失語症是語言理解或表達網絡受損，典型位置在優勢半球 Broca、Wernicke 或相關皮質區，多由中大腦動脈等前循環病灶造成；它不同於構音障礙。\n- D. 常見。平衡困難、眩暈、共濟失調可由小腦或前庭腦幹路徑缺血造成，是 vertebrobasilar insufficiency 或後循環中風的典型表現。\n\n【核心考點】\n後循環症狀常是腦幹、小腦與前庭相關：吞嚥困難、構音障礙、複視、眩暈、共濟失調、平衡差。失語症指向優勢半球語言皮質，考題中要把 aphasia 與 dysarthria 分開。",
+      "key_point": "Vertebrobasilar 後循環病灶常見吞嚥、構音與平衡問題；aphasia 多屬優勢半球前循環語言皮質病灶。",
+      "flashcard_front": "Vertebrobasilar syndrome 常見症狀中，為何 aphasia 是例外？",
+      "flashcard_back": "後循環供應腦幹、小腦與前庭系統，常見 dysphagia、dysarthria、disequilibrium；aphasia 來自優勢半球語言皮質，多屬 MCA 等前循環病灶。",
+      "flashcard_summary": "後循環中風 -> 吞嚥/構音/平衡障礙常見；失語症偏前循環語言皮質",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

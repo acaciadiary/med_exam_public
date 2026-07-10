@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問腦電圖（EEG）敘述中何者最不適當。EEG 由頭皮電極量測大腦皮質大量神經元突觸後電位造成的電位差，振幅通常只有微伏特等級；警醒與專注時不會以極低頻 delta 波為主，因此 C 為不適當敘述。\n\n【選項詳解】\n- A. 適當。EEG 需要紀錄電極與參照電極形成電位差，電極可依 10-20 system 放在頭皮不同位置；參照電極也可放在頭皮、耳垂或乳突等相對穩定區域。\n- B. 適當。頭皮 EEG 記錄到的是經顱骨與頭皮衰減後的總和電位，振幅常在數十微伏特（microvolt, μV）範圍，需要放大器才能分析。\n- C. 不適當。警醒或專心思考時皮質活動較去同步化，常見低振幅、較高頻的 beta 波；小於 2 Hz 的極低頻波接近 delta 活動，較常見於深睡眠、嬰幼兒或瀰漫性腦功能異常。\n- D. 適當。頭皮紀錄電極主要反映其下方附近皮質錐體細胞樹突突觸後電位造成的細胞外淨電流總和，不是單一神經元動作電位。\n\n【核心考點】\nEEG 的訊號來源是皮質神經元同步突觸後電位，量測尺度為微伏特。警醒專注偏向高頻低振幅活動，深睡或病理狀態才常見明顯低頻 delta 波。",
+      "key_point": "警醒或專注時 EEG 多呈高頻低振幅活動；極低頻 delta 波通常指向深睡或腦功能異常。",
+      "flashcard_front": "EEG：警醒專注狀態的腦波頻率與 delta 波意義",
+      "flashcard_back": "警醒專注時常見去同步化、高頻低振幅 beta 活動；小於 2 Hz 的極低頻 delta 活動較符合深睡眠或病理性腦功能異常。",
+      "flashcard_summary": "EEG 狀態判讀 -> 警醒專注為高頻低振幅，極低頻 delta 不代表專注思考",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題考下視丘 preoptic area 的生理功能。視前區參與睡眠啟動、體溫調節與生殖內分泌調控；促醒的 orexin 主要來自外側下視丘，而睡眠活化的 VLPO 會抑制覺醒系統。\n\n【選項詳解】\n- A. 適當。Preoptic area 含有溫度敏感神經元，參與體溫設定與散熱反應；此區也與 GnRH 神經元及性腺軸調控相關，因此可連到性腺荷爾蒙分泌。\n- B. 不適當。Orexin（hypocretin）主要由外側下視丘神經元分泌，功能是維持清醒與穩定覺醒；preoptic area 中促睡眠的 VLPO 神經元以 GABA 與 galanin 抑制促醒神經核。\n- C. 不適當。VLPO 屬於 sleep-active 區域，睡眠開始與維持時放電會上升，用來抑制腦幹與下視丘的促醒系統；說睡後神經活動變得遠低於清醒時與其功能相反。\n- D. 不適當。VLPO 與 reticular activating system 等促醒系統之間主要是互相抑制，形成睡眠與清醒切換的 flip-flop switch；互相增強會使狀態切換不穩定，也不能解釋睡眠啟動。\n\n【核心考點】\nPreoptic area 同時牽涉體溫、生殖內分泌與睡眠調控。VLPO 以抑制性傳遞物質壓制促醒系統；orexin 則屬外側下視丘的促醒訊號。",
+      "key_point": "Preoptic area 參與體溫與性腺軸調控；VLPO 促睡眠，orexin 來自外側下視丘並促進清醒。",
+      "flashcard_front": "Preoptic area / VLPO：睡眠、體溫、orexin 的定位",
+      "flashcard_back": "Preoptic area 參與體溫與性腺軸；VLPO 分泌 GABA/galanin 抑制促醒系統。Orexin 主要來自外側下視丘，功能是促醒。",
+      "flashcard_summary": "Preoptic area -> 體溫與性腺軸；VLPO 促睡；orexin 屬外側下視丘促醒訊號",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題要用電化學驅動力判斷 Na+ 與 K+ 在 -60 mV 靜止膜電位下的被動流向。典型神經元中 E_Na 約 +60 mV、E_K 約 -90 mV；膜電位介於兩者之間，所以 Na+ 受驅動進入細胞，K+ 受驅動離開細胞。\n\n【選項詳解】\n- A. 錯誤。Na+ 會因濃度梯度與細胞內負電位而流入，但 K+ 的濃度梯度使其傾向外流；兩者不會同時主要漏進細胞。\n- B. 錯誤。K+ 可外流，但 Na+ 的平衡電位遠高於 -60 mV，電化學驅動力會把 Na+ 拉進細胞，不會使 Na+ 主要外漏。\n- C. 錯誤。此選項把兩個離子的方向都寫反；Na+ 應向內，K+ 應向外。\n- D. 正確。對 Na+ 而言，Vm - E_Na 約為 -120 mV，驅動正離子向內流；對 K+ 而言，Vm - E_K 約為 +30 mV，驅動正離子向外流，因此為 K+ 漏出、Na+ 漏進。\n\n【核心考點】\n被動離子流向取決於膜電位與該離子平衡電位的差距。神經元在 -60 mV 時，Na+ 往 +60 mV 的方向進入細胞，K+ 往 -90 mV 的方向離開細胞。",
+      "key_point": "在 -60 mV 神經元靜止膜電位下，Na+ 被動內流、K+ 被動外流。",
+      "flashcard_front": "神經元 Vm -60 mV：Na+ 與 K+ 被動漏流方向",
+      "flashcard_back": "E_Na 約 +60 mV，Na+ 往細胞內流；E_K 約 -90 mV，K+ 往細胞外流。",
+      "flashcard_summary": "膜電位與平衡電位 -> Vm -60 mV 時 Na+ 內流、K+ 外流",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題考 monoamine oxidase inhibitors（MAOI）會增加哪一類神經傳導物質。MAO 代謝單胺類神經傳導物質，包括 norepinephrine、dopamine 與 serotonin，因此抑制 MAO 會使 norepinephrine 含量上升。\n\n【選項詳解】\n- A. 錯誤。Acetylcholine 主要由 acetylcholinesterase 在突觸間隙水解成 choline 與 acetate；MAOI 不會直接阻斷乙醯膽鹼的主要清除途徑。\n- B. 錯誤。Glutamate 是興奮性胺基酸類傳導物質，主要靠神經元與星狀膠細胞的 glutamate transporter 回收，再進入 glutamate-glutamine cycle；不是 MAO 的典型受質。\n- C. 錯誤。Glycine 是抑制性胺基酸類傳導物質，清除仰賴 glycine transporter 回收；MAO 抑制不會選擇性增加 glycine。\n- D. 正確。Norepinephrine 屬 catecholamine，也屬單胺類傳導物質，會被 MAO 代謝；MAOI 抑制其分解，使 norepinephrine 在神經末梢與突觸相關區域增加。\n\n【核心考點】\nMAOI 的考點是「單胺類」：norepinephrine、dopamine、serotonin。Acetylcholine 靠 AChE 分解，glutamate 與 glycine 主要靠轉運體回收。",
+      "key_point": "MAOI 會增加單胺類神經傳導物質，代表選項是 norepinephrine。",
+      "flashcard_front": "MAOI 會增加哪些神經傳導物質？",
+      "flashcard_back": "MAOI 抑制 monoamine oxidase，增加 norepinephrine、dopamine、serotonin 等單胺類傳導物質。",
+      "flashcard_summary": "MAOI -> 增加單胺類；norepinephrine 是單胺，ACh/glutamate/glycine 不是 MAO 主要受質",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題問負重與骨骼肌等張單次收縮關係中何者錯誤。等張收縮時，肌肉需先產生足以克服負重的張力才會縮短；負重越大，潛伏期越長、縮短速度越慢、縮短幅度與可縮短時間越小，因此 C 為錯誤敘述。\n\n【選項詳解】\n- A. 正確。負重增加時，肌肉從刺激後開始建立張力，到張力大到足以拉動負重所需時間變長，所以可觀察到較長的 latent period。\n- B. 正確。骨骼肌的 force-velocity relationship 顯示外在負重越大，橫橋循環推動肌絲滑動的速度越慢；接近最大等長張力時幾乎無法縮短。\n- C. 錯誤。負重越大時，肌肉可完成的縮短幅度較小，縮短速度也較慢，實際能維持等張縮短的期間會縮短；說 twitch duration 變長與等張負重實驗的觀察相反。\n- D. 正確。等張收縮中，肌肉產生的張力必須至少等於外在負重才能開始縮短；負重越重，收縮前需要建立的張力越大。\n\n【核心考點】\n等張收縮看的是外加負重如何影響「先建立張力、再縮短」的過程。負重增加會延長起始等待時間、降低縮短速度，並縮短可見的縮短期間。",
+      "key_point": "等張單次收縮中負重增加會使潛伏期變長、縮短速度變慢、縮短期間變短。",
+      "flashcard_front": "等張單次收縮：負重增加對 latent period、velocity、duration 的影響",
+      "flashcard_back": "負重越大，肌肉需更久建立張力，縮短速度變慢，縮短幅度與縮短期間下降。",
+      "flashcard_summary": "等張收縮負重增加 -> latent period 變長、shortening velocity 變慢、shortening duration 變短",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題問抗凝血治療時最不予考慮的物質。Heparin 是典型抗凝血藥，aspirin 與 prostacyclin 具抗血小板或抗血栓效果；vitamin K 會促進多種凝血因子成熟，方向與抗凝血治療相反。\n\n【選項詳解】\n- A. 可考慮於抗血栓治療。Aspirin 不可逆抑制血小板 COX-1，降低 thromboxane A2，進而抑制血小板活化與凝集；雖屬抗血小板而非傳統抗凝血藥，但臨床上用於血栓預防。\n- B. 最不予考慮。Vitamin K 是凝血因子 II、VII、IX、X 以及 protein C、protein S 進行 γ-carboxylation 所需輔因子；補充 vitamin K 會恢復或增強凝血能力，常用來逆轉 warfarin 效果，不適合用於抗凝血目的。\n- C. 可考慮於抗血小板方向。Prostacyclin（PGI2）由血管內皮產生，增加血小板 cAMP、抑制血小板凝集，同時造成血管擴張；其生理作用偏向抗血栓。\n- D. 可考慮。Heparin 透過增強 antithrombin III 活性，抑制 thrombin（IIa）與 factor Xa，是臨床常用且作用快速的抗凝血藥。\n\n【核心考點】\n抗凝血治療要降低凝血酶或 Xa 等凝血反應，抗血小板治療則降低血小板凝集。Vitamin K 促進凝血因子成熟，與抗凝血目標相反。",
+      "key_point": "Vitamin K 促進 vitamin K-dependent clotting factors 成熟，抗凝血治療不會用它來達成抗凝目的。",
+      "flashcard_front": "抗凝血治療：vitamin K、heparin、aspirin、prostacyclin 的方向",
+      "flashcard_back": "Heparin 抑制 IIa/Xa；aspirin 與 PGI2 抑制血小板。Vitamin K 促進 II、VII、IX、X 成熟，會增強凝血能力。",
+      "flashcard_summary": "抗凝血題目 -> heparin 抗凝，aspirin/PGI2 抗血小板，vitamin K 促凝",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題問 ECG 波形與生理事件配對中何者錯誤。P 波代表心房去極化，不是心房再極化；心房再極化訊號小且常被 QRS complex 掩蓋，因此 A 為錯誤敘述。\n\n【選項詳解】\n- A. 錯誤。P 波來自心房去極化（atrial depolarization），代表竇房結衝動傳遍心房肌；心房再極化通常與心室去極化時間重疊，且振幅小，所以在體表 ECG 不明顯。\n- B. 正確。T 波代表心室再極化（ventricular repolarization），對應心室肌細胞動作電位 phase 3 的 repolarization。\n- C. 正確。QRS complex 代表心室去極化，時間上對應心室肌動作電位 phase 0 的快速上升期；因心室肌量大，波形振幅明顯。\n- D. 正確。ST segment 位於心室去極化完成後、再極化明顯開始前，多數心室肌細胞處於 phase 2 plateau，L-type Ca2+ 內流與 K+ 外流大致平衡。\n\n【核心考點】\nECG 配對要記住：P 波是心房去極化，QRS 是心室去極化，T 波是心室再極化，ST segment 對應心室動作電位 plateau。",
+      "key_point": "P 波代表心房去極化；心房再極化通常被 QRS complex 掩蓋。",
+      "flashcard_front": "ECG：P、QRS、T、ST 分別代表什麼？",
+      "flashcard_back": "P = 心房去極化；QRS = 心室去極化；T = 心室再極化；ST segment = 心室動作電位 plateau。",
+      "flashcard_summary": "ECG 波形配對 -> P 不是心房再極化，而是心房去極化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問主動脈瓣關閉相關敘述中何者錯誤。主動脈瓣關閉發生在左心室壓低於主動脈壓時，標誌心室射血結束、等容舒張開始並形成第二心音；主動脈壓最高點較早出現在射血期中段附近，不是在瓣膜關閉瞬間。\n\n【選項詳解】\n- A. 正確。第二心音（S2）主要由主動脈瓣與肺動脈瓣關閉造成，A2 與 P2 分別對應兩個半月瓣的關閉震動。\n- B. 正確。主動脈瓣關閉後，二尖瓣尚未開啟，左心室容積暫時不變而壓力快速下降，這就是 isovolumic ventricular relaxation 的開始。\n- C. 正確。只要主動脈瓣關閉，左心室不再把血液射入主動脈，因此 ventricular ejection 結束。\n- D. 錯誤。主動脈壓最高值是收縮壓，通常出現在心室射血期中段或較早的射血高峰；到主動脈瓣關閉時，主動脈壓已由峰值下降，瓣膜關閉只造成 dicrotic notch。\n\n【核心考點】\nWiggers diagram 中，主動脈瓣關閉等於射血結束、S2 產生、等容舒張開始。主動脈壓峰值出現在射血期，而不是半月瓣關閉那一刻。",
+      "key_point": "主動脈瓣關閉標誌 S2、射血結束與等容舒張開始；主動脈壓最高點在射血期而非關閉瞬間。",
+      "flashcard_front": "主動脈瓣關閉：S2、等容舒張、主動脈壓最高點",
+      "flashcard_back": "主動脈瓣關閉產生 S2，結束心室射血並開始等容舒張；主動脈壓最高點較早出現在射血期。",
+      "flashcard_summary": "主動脈瓣關閉 -> S2 + 射血結束 + 等容舒張開始；不是主動脈壓最高點",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題考血壓上升後的 baroreceptor reflex。感壓接受器放電增加會經孤束核提高迷走神經輸出、降低交感輸出，使心率、心收縮力、靜脈回流與周邊阻力下降；若微動脈半徑縮小，阻力反而上升，因此 B 為最不可能的反應。\n\n【選項詳解】\n- A. 可能發生。投射到靜脈的交感活性下降會使容量血管舒張，靜脈順應性上升、平均循環充盈壓下降，靜脈回流與前負荷減少，有助於降低心輸出量。\n- B. 最不可能。微動脈交感活性下降時，α1 受體刺激減少，平滑肌應舒張、半徑變大；Poiseuille law 顯示半徑增加會大幅降低周邊總阻力。選項說半徑縮小卻減少阻力，方向與物理關係都不對。\n- C. 可能發生。副交感活性增加會透過迷走神經釋放 acetylcholine，作用於竇房結 M2 受體，使心跳速率下降，心輸出量降低。\n- D. 可能發生。心臟交感活性下降會減少 norepinephrine 對 β1 受體的刺激，使心室肌收縮力降低，stroke volume 與心輸出量下降。\n\n【核心考點】\nBaroreceptor reflex 對血壓升高的反應是增加副交感、降低交感。微動脈應舒張以降低周邊總阻力；靜脈舒張、心率下降與收縮力下降則共同降低血壓。",
+      "key_point": "血壓升高啟動感壓反射後，微動脈交感活性下降會造成血管舒張、半徑增加、TPR 下降。",
+      "flashcard_front": "Baroreceptor reflex：血壓上升時心臟、靜脈、微動脈怎麼變？",
+      "flashcard_back": "血壓上升使感壓接受器放電增加，導致副交感上升、交感下降；心率與收縮力下降，靜脈與微動脈舒張，TPR 下降。",
+      "flashcard_summary": "感壓反射降壓 -> 交感下降使微動脈半徑變大，不是縮小",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題用 Fick principle 計算 cardiac output。公式為 CO = O2 consumption / (arterial O2 content - mixed venous O2 content)；肱動脈代表動脈血氧 200 mL/L，肺動脈代表混合靜脈血氧 140 mL/L，所以 CO = 600 / (200 - 140) = 10 L/min。\n\n【選項詳解】\n- A. 錯誤。4.2 L/min 無法由 600 mL/min 除以 60 mL/L 得到；若選到此值，常見原因是把氧含量差或單位換算錯誤。\n- B. 正確。動靜脈氧含量差為 200 - 140 = 60 mL/L；600 mL/min ÷ 60 mL/L = 10 L/min，單位中的 mL 氧氣相消後留下每分鐘血流量 L/min。\n- C. 錯誤。30 L/min 代表分母被誤算為 20 mL/L；題目給的動脈與肺動脈氧含量差是 60 mL/L，不是 20 mL/L。\n- D. 錯誤。34.2 L/min 不是 Fick principle 的合理代入結果，也不符合題目中氧耗量與動靜脈氧差的比例；心輸出量應直接由 600 除以 60 得到。\n\n【核心考點】\nFick principle 的分母是體動脈血氧含量減混合靜脈血氧含量。肺動脈血在此代表混合靜脈血，肱動脈血代表體動脈血。",
+      "key_point": "Fick principle：CO = 氧氣消耗量 / (體動脈血氧含量 - 混合靜脈血氧含量) = 600 / 60 = 10 L/min。",
+      "flashcard_front": "Fick principle：肺動脈與肱動脈血氧如何計算 CO？",
+      "flashcard_back": "肺動脈血代表混合靜脈血，肱動脈血代表體動脈血；CO = 600 / (200 - 140) = 10 L/min。",
+      "flashcard_summary": "Fick principle -> CO = O2 consumption / (arterial O2 - mixed venous O2)；本題為 10 L/min",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題在考完全性脊髓損傷（complete spinal cord injury）不同神經節段可保留的關鍵肌肉與復健後功能。本題問「最不適當」，因此答案 C 是錯誤敘述：C6 完全損傷主要保留伸腕能力，肱三頭肌伸肘功能主要屬 C7。\n\n【選項詳解】\n- A. 適當。C3-C5 供應膈神經（phrenic nerve）與膈肌功能；C3 完全損傷常嚴重影響自主呼吸，臨床上通常需要呼吸器支持。\n- B. 適當。C5 損傷常保留肩部活動與肘屈曲（biceps），但手腕與手指功能不足；透過屈肘肌、手部矯具或輔具，可協助進食、書寫或部分日常活動。\n- C. 不適當。肱三頭肌（triceps）主要由 C7 支配，是伸肘的關鍵肌；C6 完全損傷的代表功能是伸腕，可利用 tenodesis effect 幫助手部抓握，但不能期待主動肱三頭肌伸肘。\n- D. 適當。T6 損傷者雙上肢完整，軀幹控制較高位胸髓損傷佳；在支架、前臂拐杖或助行器協助下，可進行治療性站立或短距離步態訓練，但日常移動多仍以輪椅較有效率。\n\n【核心考點】\n脊髓損傷功能預後要記關鍵肌：C5 屈肘、C6 伸腕、C7 伸肘，胸髓損傷則保留上肢功能並依軀幹控制與支架決定站立或步行訓練可行性。",
+      "key_point": "C6 完全性脊髓損傷主要保留伸腕功能；肱三頭肌伸肘屬 C7，不能把 C6 誤認為可主動伸肘。",
+      "flashcard_front": "完全性脊髓損傷：C5、C6、C7 的關鍵上肢功能",
+      "flashcard_back": "C5 主要保留屈肘，C6 主要保留伸腕並可利用 tenodesis 抓握，C7 才有肱三頭肌主動伸肘功能。",
+      "flashcard_summary": "SCI level function -> C6 = wrist extension; C7 = triceps/elbow extension.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題在考肌少症（sarcopenia）的年齡變化、性別差異、次發原因與預後。本題問「最不適當」，答案 B 的問題在於把女性肌力衰退描述成較晚才發生；女性停經後肌肉量與肌力下降常會加速，不能簡化為較晚發生。\n\n【選項詳解】\n- A. 適當。肌肉量與肌力會隨年齡下降，50 歲後流失速度加快；男性雖基礎肌肉量較高，仍可出現明顯的每十年肌肉量下降。\n- B. 不適當。女性在停經後因雌激素下降、身體組成改變與活動量下降等因素，肌肉量與肌力衰退可提早或加速；「較晚發生」不是肌少症性別差異的可靠敘述。\n- C. 適當。癌症、末期心臟、肺、肝、腎疾病會透過慢性發炎、營養不良、活動量下降與惡病質（cachexia）造成次發性肌少症。\n- D. 適當。肌少症會增加跌倒、骨折、失能、住院與死亡風險，也會降低移動能力與生活品質，是老年醫學重要問題。\n\n【核心考點】\n肌少症不是單純「老了肌肉少」；它牽涉肌肉量、肌力與功能下降，可由老化或慢性疾病造成，並會增加跌倒、失能與死亡風險。",
+      "key_point": "女性停經後肌肉量與肌力下降常會加速，肌少症也可由癌症與末期器官疾病造成，並提高失能與死亡風險。",
+      "flashcard_front": "肌少症：性別差異、次發原因與預後",
+      "flashcard_back": "女性停經後肌力與肌肉量下降可加速；癌症與末期器官疾病可造成次發性肌少症；肌少症會增加跌倒、失能與死亡。",
+      "flashcard_summary": "Sarcopenia -> aging/secondary disease causes muscle loss and weakness; menopause may accelerate decline in women.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題在考梨狀肌症候群（piriformis syndrome）的症狀與誘發檢查。本題問「最不適當」，答案 D 錯在檢查姿勢：常用誘發姿勢是 FAIR test，也就是髖屈曲、內收、內旋，而不是外展、外旋。\n\n【選項詳解】\n- A. 適當。梨狀肌緊繃或痙攣可刺激坐骨神經，造成深臀部疼痛，並可能放射到大腿後側、小腿或足部，有時會與腰痛混在一起。\n- B. 適當。久坐、坐姿不良、骨盆姿勢異常或站姿代償都可能增加梨狀肌負荷，使臀部與坐骨神經樣症狀被誘發。\n- C. 適當。理學檢查常可在梨狀肌走向附近或深臀部找到局部壓痛點；觸診誘發疼痛有助於和單純腰椎神經根病變做鑑別。\n- D. 不適當。梨狀肌緊繃測試常把髖關節放在屈曲、內收、內旋（FAIR）以拉緊梨狀肌並增加坐骨神經受刺激；外展、外旋較接近放鬆梨狀肌的方向，並非典型誘發姿勢。\n\n【核心考點】\n梨狀肌症候群會造成深臀痛與坐骨神經樣放射痛；檢查重點是深臀部壓痛與 FAIR test（flexion, adduction, internal rotation）誘發症狀。",
+      "key_point": "梨狀肌症候群的誘發測試是 FAIR：髖屈曲、內收、內旋；外展、外旋不是典型梨狀肌緊繃誘發姿勢。",
+      "flashcard_front": "梨狀肌症候群：FAIR test 的髖關節姿勢",
+      "flashcard_back": "FAIR test = flexion、adduction、internal rotation，用來拉緊梨狀肌並誘發深臀部或坐骨神經樣疼痛。",
+      "flashcard_summary": "Piriformis syndrome -> deep buttock pain; FAIR = hip flexion, adduction, internal rotation.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題在考類風濕性關節炎（rheumatoid arthritis, RA）與退化性關節炎（osteoarthritis, OA）的手部變形鑑別。RA 典型侵犯 MCP、PIP 與腕關節，Heberden nodes 則是 DIP 的 OA 骨性結節，所以 C 最不常見於 RA。\n\n【選項詳解】\n- A. 常見於 RA。鵝頸變形（swan-neck deformity）表現為 PIP 過伸、DIP 屈曲，常與 RA 慢性滑膜炎、韌帶鬆弛與肌腱力學失衡有關。\n- B. 常見於 RA。鈕扣孔變形（boutonniere deformity）表現為 PIP 屈曲、DIP 過伸，源自伸肌腱中央束受損或關節滑膜炎造成的伸肌機制失衡。\n- C. 最不常見於 RA。赫伯登結（Heberden nodes）是 DIP 關節旁的骨性增生，典型見於 OA；RA 通常較少侵犯 DIP，因此這個選項是本題要選的例外。\n- D. 常見於 RA。RA 長期侵犯 MCP 與腕關節時，滑膜炎、關節破壞與韌帶鬆弛會造成手指尺側偏斜（ulnar deviation），是晚期手部典型外觀。\n\n【核心考點】\nRA 手部變形常考 MCP/PIP/腕關節、鵝頸、鈕扣孔與尺側偏斜；OA 手部結節則記 DIP 的 Heberden nodes 與 PIP 的 Bouchard nodes。",
+      "key_point": "Heberden nodes 是 DIP 退化性關節炎的骨性結節；RA 典型侵犯 MCP、PIP 與腕關節，常見鵝頸、鈕扣孔與尺側偏斜。",
+      "flashcard_front": "RA vs OA：Heberden nodes 與手部變形",
+      "flashcard_back": "Heberden nodes 是 OA 的 DIP 骨性結節；RA 常見 MCP/PIP/腕關節病變、鵝頸變形、鈕扣孔變形與尺側偏斜。",
+      "flashcard_summary": "Hand arthritis -> RA: MCP/PIP/wrist, swan-neck, boutonniere, ulnar deviation; OA: DIP Heberden nodes.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題在考冠狀動脈繞道手術（CABG）後心臟復健（cardiac rehabilitation）的效果。心臟復健包含運動訓練、危險因子控制與衛教，能改善運動耐受度與血脂，因此 C 正確。\n\n【選項詳解】\n- A. 錯誤。心臟復健通常會提高缺血閾值（ischemic threshold），讓病人在較高運動量或較高心肌耗氧狀態下才出現心肌缺血；「降低缺血閾值」代表更容易缺血，方向相反。\n- B. 錯誤。CABG 後心臟復健主要目標是改善整體心肺耐力、症狀、危險因子與生活品質；右心室功能直接改善不是此題最典型、最穩定的受益項目。\n- C. 正確。規律有氧運動、飲食調整與危險因子管理可改善血清脂質，例如降低 LDL 或三酸甘油脂、提高 HDL，進而降低後續心血管事件風險。\n- D. 錯誤。心臟復健會降低安靜與次最大運動時的交感活性，通常有助於減少 catecholamine 負荷與心肌耗氧；增加血漿兒茶酚胺不是期望效益。\n\n【核心考點】\n心臟復健的高產考點是提高運動耐受度與缺血閾值、改善血脂與危險因子、降低交感負荷與心血管事件風險。",
+      "key_point": "CABG 後心臟復健可改善血脂、提高缺血閾值、降低交感神經負荷並提升運動耐受度。",
+      "flashcard_front": "CABG 後心臟復健：缺血閾值、血脂、兒茶酚胺",
+      "flashcard_back": "心臟復健會提高缺血閾值、改善血清脂質並降低交感/catecholamine 負荷；不會讓病人更容易缺血。",
+      "flashcard_summary": "Cardiac rehabilitation -> improves serum lipids and exercise tolerance, increases ischemic threshold, reduces sympathetic load.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題在考裘馨氏肌肉失養症（Duchenne muscular dystrophy, DMD）的遺傳、肌肉表現、心肌受累與運動處方。本題問「最不適當」，答案 D 錯在 DMD 常侵犯心肌，心肌病變與心律不整是重要併發症。\n\n【選項詳解】\n- A. 適當。DMD 是 X 染色體隱性遺傳，常由 dystrophin 基因突變造成，主要影響男童；女性多為帶因者但也可能有輕重不一表現。\n- B. 適當。DMD 典型先影響近端肌群，尤其骨盆帶與大腿肌肉，常出現起身困難、爬樓梯困難、鴨步與 Gowers sign。\n- C. 適當。DMD 肌纖維因缺乏 dystrophin 而容易受損，最大強度運動或高負荷離心收縮可能加重肌肉破壞；復健訓練應以溫和、避免過度疲勞與維持功能為原則。\n- D. 不適當。Dystrophin 也存在於心肌；DMD 病程中常出現心肌纖維化、擴張型心肌病變與心律不整，因此不能說心肌通常不受影響。\n\n【核心考點】\nDMD 是 X-linked recessive dystrophin 缺陷，表現為近端肌無力與進行性功能退化；心肌會受累，運動處方需避免最大強度與過度離心負荷。",
+      "key_point": "DMD 會侵犯骨骼肌與心肌；復健運動要避免最大強度與過度離心收縮，以免加重肌纖維損傷。",
+      "flashcard_front": "DMD：遺傳、近端肌無力、心肌受累與運動禁忌",
+      "flashcard_back": "DMD 是 X-linked recessive dystrophin 缺陷，常先影響骨盆帶近端肌群，也會造成心肌病變；避免最大強度與高負荷離心運動。",
+      "flashcard_summary": "Duchenne muscular dystrophy -> X-linked dystrophin defect, proximal weakness, cardiomyopathy, avoid maximal exercise.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題在考嬰兒型脊髓性肌肉萎縮症（infantile spinal muscular atrophy, SMA type I）的遺傳、發病年齡與診斷。SMA 多由 SMN1 基因異常造成，產前 DNA 檢測可作為診斷與遺傳諮詢依據，因此 C 正確。\n\n【選項詳解】\n- A. 錯誤。典型 SMA 為體染色體隱性遺傳（autosomal recessive），不是體染色體顯性；父母多為無症狀帶因者。\n- B. 錯誤。嬰兒型 SMA type I 通常在出生後 6 個月內出現明顯低張力、近端無力、哭聲弱或呼吸餵食困難；10 歲以後才全身無力比較不像嬰兒型。\n- C. 正確。SMA 有明確基因診斷基礎，產前 DNA 檢測可檢查胎兒是否有 SMN1 相關缺失或突變，對高風險家庭的產前診斷與遺傳諮詢有價值。\n- D. 錯誤。SMA 是前角細胞運動神經元疾病，肌電圖常見去神經支配與神經源性變化，例如 fibrillation potentials、positive sharp waves 或大型運動單位電位；不會完全正常。\n\n【核心考點】\n嬰兒型 SMA 是體染色體隱性、SMN1 相關的前角細胞疾病；早發低張力與無力是重點，DNA 檢測可用於確診與產前診斷，EMG 會呈神經源性異常。",
+      "key_point": "嬰兒型 SMA 多為 autosomal recessive SMN1 異常，出生後早期發病；DNA 檢測可用於診斷與產前檢測，EMG 會有神經源性異常。",
+      "flashcard_front": "嬰兒型 SMA：遺傳、發病時間、DNA 檢測與 EMG",
+      "flashcard_back": "SMA type I 多為體染色體隱性 SMN1 異常，常在 6 個月內發病；產前 DNA 檢測有診斷價值，EMG 會見神經源性去神經變化。",
+      "flashcard_summary": "Infantile SMA -> AR SMN1 disease, onset within infancy, prenatal DNA testing useful, EMG neurogenic.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題在考老年人復健訓練的風險溝通。復健確實有跌倒、扭傷、肌肉痠痛或心血管事件風險，但相較於長期不活動與臥床併發症，經評估與監督的復健風險通常較小，所以 B 最適當。\n\n【選項詳解】\n- A. 錯誤。復健訓練不是零風險；老年人可能因平衡差、肌力不足、骨質疏鬆或共病用藥而跌倒、扭傷、疼痛或過度疲勞。\n- B. 正確。不活動與臥床會快速造成廢用性肌萎縮、壓瘡、深部靜脈栓塞、肺炎、功能退化與死亡風險上升；相較之下，適當處方與監督下的復健風險較小，整體效益通常較高。\n- C. 錯誤。選擇合適運動種類、強度、進展速度，並由監督者觀察生命徵象、姿勢與疲勞程度，可以降低跌倒、拉傷與心血管意外風險。\n- D. 錯誤。肌肉骨骼傷害很常見但多半可預防且可處理；對高齡或心血管疾病患者，最需要警覺的重大風險包括心肌缺血、心律不整、血壓異常或暈厥等心血管事件。\n\n【核心考點】\n老年復健要做風險分層與監督，但不應因怕小風險而讓病人長期臥床；臥床併發症通常比適當復健訓練更危險。",
+      "key_point": "老年人復健有跌倒與心血管等風險，但適當評估與監督可降低風險；長期臥床造成的失能、DVT、肺炎與死亡風險通常更大。",
+      "flashcard_front": "老年復健：復健風險 vs 長期臥床風險",
+      "flashcard_back": "復健不是零風險，但合適運動處方與監督可降低風險；長期不活動或臥床會造成廢用、壓瘡、DVT、肺炎與死亡風險上升。",
+      "flashcard_summary": "Geriatric rehab risk -> supervised exercise risk is usually smaller than complications of inactivity/bed rest.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題在考無障礙環境評估的時機與內容。本題問「最不適當」，答案 A 錯在把評估放到出院返家後；理想上應在出院前評估，讓住宅或工作環境能先完成必要調整。\n\n【選項詳解】\n- A. 不適當。無障礙環境評估應盡量在出院前或返家前進行，才能預先處理門寬、浴廁扶手、坡道、床椅高度與動線障礙；等返家後才評估，病人可能已暴露於跌倒、轉位困難或照護失敗風險。\n- B. 適當。病人的身高、體重、身體寬度、肢體長度與使用輔具尺寸會影響門寬、通道、床椅高度、扶手位置與輪椅迴轉空間，是環境改造的重要資料。\n- C. 適當。改造建議必須符合家庭經濟能力；臨床上需在安全性、必要性與預算之間排序，例如先處理高風險浴廁與主要動線。\n- D. 適當。病人與家屬對生活、照顧方式、工作需求與居家角色的期待，會影響改造目標；只看建築尺寸而忽略照顧情境，容易做出不實用的建議。\n\n【核心考點】\n無障礙環境評估要在返家前介入，並同時考量身體尺寸與功能、輔具、經濟能力、照顧者能力與病家的生活目標。",
+      "key_point": "無障礙環境評估應在出院返家前完成，並依病人身體尺寸、輔具、經濟能力與照顧期待調整居家或工作環境。",
+      "flashcard_front": "無障礙環境評估：最佳時機與評估內容",
+      "flashcard_back": "應在出院返家前評估；內容包括身體尺寸、輔具需求、經濟能力、照顧者與病家對生活和照顧的期待。",
+      "flashcard_summary": "Environmental accessibility assessment -> do before discharge/home return; consider body size, assistive devices, finances, caregiver goals.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題在考輪椅訂製（wheelchair prescription）的完整評估。本題問「最不適當」，答案 A 錯在心肺功能當然要評估，因為它會影響病人能否推手動輪椅，以及是否需要電動輪椅或其他省力設計。\n\n【選項詳解】\n- A. 不適當。心肺功能是輪椅訂製的重要評估項目；若病人心肺耐力差、容易缺氧或心絞痛，推手動輪椅可能造成過大負荷，需考慮電動輪椅、輕量化輪椅或照護者協助。\n- B. 適當。神經性疾病患者常有感覺缺損、痙攣或姿勢控制不佳，容易在坐骨結節、薦骨、股骨大轉子等處產生壓傷；皮膚狀況會影響座墊、坐姿支撐與減壓策略。\n- C. 適當。手部協調性差或上肢無法操作搖桿時，若頭頸控制尚可，可考慮頭控、下巴控、吸吹控制或其他替代操控介面。\n- D. 適當。髖、膝、踝關節活動度與攣縮會決定座深、座椅角度、腳踏板位置與姿勢支撐；忽略下肢 ROM 可能導致疼痛、姿勢歪斜或壓力集中。\n\n【核心考點】\n輪椅處方不是只量尺寸；要評估心肺耐力、皮膚與感覺、姿勢控制、上肢操作能力、下肢關節活動度與生活環境，才能選擇手動、電動與合適座椅系統。",
+      "key_point": "輪椅訂製必須評估心肺功能，因為它會影響手動輪椅耐受度與是否需電動或省力設計；也要評估皮膚、控制能力與下肢 ROM。",
+      "flashcard_front": "輪椅訂製：心肺功能、皮膚、控制介面與 ROM",
+      "flashcard_back": "心肺功能會決定能否推手動輪椅；神經疾病要看皮膚壓傷風險；手部協調差可用頭控等替代控制；髖膝踝 ROM 影響座椅與腳踏設定。",
+      "flashcard_summary": "Wheelchair prescription -> assess cardiopulmonary endurance, skin integrity, control interface, posture and lower-limb ROM.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n站立時受重力影響，肺尖胸膜腔壓較負、肺泡在功能肺餘容量（FRC）時已較膨脹；肺底胸膜腔壓較不負、肺泡初始體積較小。吸氣開始時，肺底肺泡位在壓力-容積曲線較陡的區段，順應性較高，因此同樣的吸氣壓力變化會讓較多氣體進入肺底。\n\n【選項詳解】\n- A. 正確。肺底肺泡在 FRC 時較小、尚未被充分撐開，順應性高；吸氣時容積增加幅度最大，所以吸入氣體最容易進入肺底。\n- B. 錯誤。肺中段的初始膨脹程度與順應性介於肺底和肺尖之間，通氣量也介於兩者之間，通常不是氣體進入最多的區域。\n- C. 錯誤。肺尖肺泡在站立 FRC 時受到較負胸膜腔壓牽張，已較膨脹，位在順應性較低的曲線區段；吸氣時再擴張的幅度較小。\n- D. 錯誤。直立姿勢下通氣分布不平均，重力造成胸膜腔壓與肺泡順應性梯度，通氣量呈現肺底大於肺尖。\n\n【核心考點】\n直立 FRC 狀態下，肺底肺泡較小而順應性較高，吸氣時通氣量較多；肺尖肺泡較膨脹而順應性較低，吸氣時容積變化較少。",
+      "key_point": "直立 FRC 時肺底肺泡順應性高，吸氣通氣量大於肺尖。",
+      "flashcard_front": "站立、FRC 開始吸氣：氣體最容易進入哪個肺區？",
+      "flashcard_back": "肺底。肺底肺泡初始體積較小、順應性較高，吸氣時容積增加最多。",
+      "flashcard_summary": "直立通氣分布 -> FRC 吸氣時肺底順應性高，氣體較易進入肺底",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題比較紅血球在周邊組織微血管與肺泡微血管的離子與酸鹼狀態。組織端 CO2 進入紅血球後生成 HCO3-，HCO3- 由 Band 3 交換出細胞、Cl- 進入紅血球；肺端則反向進行，HCO3- 進入紅血球以再轉成 CO2 呼出，Cl- 移出紅血球。官方更正接受 B、C 或 BC，以下依此生理過程說明。\n\n【選項詳解】\n- A. 錯誤。Band 3 進行 HCO3-/Cl- 等電荷交換，主要改變陰離子分布，不會使肺泡微血管紅血球發生明顯去極化作為主要生理特徵。\n- B. 正確。肺泡微血管中，血漿 HCO3- 進入紅血球，與 H+ 重新形成 H2CO3，再由碳酸酐酶轉成 CO2 呼出，因此肺端紅血球內 HCO3- 可暫時增加。\n- C. 正確。周邊組織端 HCO3- 從紅血球移出、Cl- 進入紅血球，若比較組織端與肺端紅血球，組織端紅血球內 Cl- 較高而非較低；官方更正仍接受 C，反映題目或比較基準可能有歧義。\n- D. 錯誤。周邊組織 CO2 進入紅血球後生成 H+，雖有血紅素緩衝，紅血球內仍較偏酸；肺泡端 CO2 被移除後 pH 較高。\n\n【核心考點】\n氯轉移方向：組織端為 HCO3- 出紅血球、Cl- 入紅血球；肺端為 HCO3- 入紅血球、Cl- 出紅血球，以利 CO2 在肺泡排出。",
+      "key_point": "紅血球氯轉移：組織端 Cl- 入、HCO3- 出；肺端 HCO3- 入、Cl- 出。",
+      "flashcard_front": "紅血球氯轉移：組織端與肺泡端的 HCO3-/Cl- 方向？",
+      "flashcard_back": "組織端 CO2 生成 HCO3-，HCO3- 出紅血球、Cl- 入紅血球；肺端反向，HCO3- 入紅血球以轉成 CO2 呼出、Cl- 出紅血球。",
+      "flashcard_summary": "紅血球氣體運輸 -> 組織端 Cl- 入紅血球，肺端 HCO3- 入紅血球",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": [
+        "官方更正此題 B 或 C 或 BC 均給分；來源 correct_answer 顯示 B，correct_answers 包含 B、C，C 的文字與常規組織端氯轉移比較可能有歧義。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n胃泌素（gastrin）主要由胃竇 G 細胞分泌，透過 CCKB/CCK2 receptor 促進胃酸分泌。它可直接刺激壁細胞，也可刺激 ECL cell 釋放 histamine，再經 H2 receptor 加強壁細胞分泌胃酸。\n\n【選項詳解】\n- A. 錯誤。胃泌素的主要來源是胃竇 G 細胞，十二指腸也有少量分泌；把主要製造器官說成小腸會忽略胃竇是主來源。\n- B. 錯誤。胃泌素受體主要連結 Gq，活化 PLC-IP3/Ca2+ 路徑以促進胃酸分泌；不是透過抑制 Gi 來抑制胃酸。\n- C. 錯誤。主細胞（chief cell）主要分泌 pepsinogen；胃泌素促酸作用的主要細胞是壁細胞（parietal cell）與 ECL cell，而且作用方向是促進而不是抑制。\n- D. 正確。胃泌素作用於 CCKB receptor，可直接促進壁細胞分泌 H+，並刺激 ECL cell 釋放 histamine，兩者共同增加胃酸分泌。\n\n【核心考點】\n胃泌素來自胃竇 G 細胞，作用於 CCKB/CCK2 receptor；胃酸分泌的三個重要刺激軸是 gastrin-CCKB、acetylcholine-M3、histamine-H2。",
+      "key_point": "Gastrin 由胃竇 G 細胞分泌，經 CCKB/CCK2 receptor 促進壁細胞胃酸分泌。",
+      "flashcard_front": "Gastrin 的主要來源、受體與胃酸作用？",
+      "flashcard_back": "主要由胃竇 G 細胞分泌，作用於 CCKB/CCK2 receptor，直接刺激壁細胞並經 ECL cell-histamine 間接促進胃酸分泌。",
+      "flashcard_summary": "Gastrin -> 胃竇 G 細胞分泌，經 CCKB receptor 促進胃酸",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n麥芽糖（maltose）是由兩個葡萄糖組成的雙醣，最後要在小腸刷狀緣被雙醣酶分解成可吸收的單醣。考題選項中，蔗糖酶屬於 sucrase-isomaltase 複合體的一部分，可水解麥芽糖的 alpha-1,4 鍵。\n\n【選項詳解】\n- A. 正確。小腸刷狀緣的 sucrase-isomaltase 複合體具有 sucrase 與 maltase 活性，可將麥芽糖水解成兩個葡萄糖。\n- B. 錯誤。乳糖酶（lactase）水解乳糖，產物是葡萄糖與半乳糖；它不是麥芽糖水解的主要酵素。\n- C. 錯誤。海藻糖酶（trehalase）水解海藻糖（trehalose），雖然產物也是兩個葡萄糖，但底物不是麥芽糖。\n- D. 錯誤。澱粉酶（amylase）把澱粉切成麥芽糖、麥芽三糖與 dextrin 等較小醣類；它不是把麥芽糖再切成葡萄糖的刷狀緣雙醣酶。\n\n【核心考點】\n澱粉酶先把澱粉切成寡醣與麥芽糖；小腸刷狀緣雙醣酶再把雙醣切成單醣。麥芽糖轉成葡萄糖的步驟可由 sucrase-isomaltase 複合體的 maltase 活性完成。",
+      "key_point": "麥芽糖由小腸刷狀緣 sucrase-isomaltase 複合體水解成葡萄糖。",
+      "flashcard_front": "Maltose 要變成 glucose，考題選項中選哪個酵素？",
+      "flashcard_back": "蔗糖酶。它屬於小腸刷狀緣 sucrase-isomaltase 複合體，具有水解 maltose 的活性。",
+      "flashcard_summary": "Maltose 消化 -> 刷狀緣 sucrase-isomaltase 可水解成 glucose",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n腎臟維持酸鹼平衡時，近端腎小管負責回收大部分濾過的 HCO3-，同時以 Na+/H+ exchanger 等方式分泌 H+；遠端腎小管與集尿管的間插細胞可主動分泌 H+，也會形成並回收新的 HCO3-。本題官方更正為除未作答者外均給分，表示原選項設計未能唯一區分正確敘述。\n\n【選項詳解】\n- A. 部分正確。近端腎小管確實大量再吸收 HCO3-，遠端腎小管與集尿管也能由 alpha-intercalated cell 分泌 H+；但這句省略了近端腎小管也大量分泌 H+。\n- B. 部分正確。近端腎小管分泌 H+ 是 HCO3- 回收的重要步驟，遠端腎小管與集尿管也可回收或生成 HCO3-；但它省略了近端腎小管是 HCO3- 回收的最大量部位。\n- C. 部分正確。近端腎小管與遠端腎小管/集尿管都參與 HCO3- 回收或新生 HCO3- 進入血液，只是近端負責大部分濾過 HCO3- 的回收。\n- D. 部分正確。近端腎小管會經 NHE3 等路徑分泌 H+，遠端腎小管與集尿管可經 H+-ATPase、H+/K+-ATPase 主動分泌 H+，特別重要於尿液酸化。\n\n【核心考點】\n近端腎小管同時進行大量 HCO3- 回收與 H+ 分泌；遠端腎小管/集尿管則以間插細胞微調 H+ 分泌、尿液酸化與新 HCO3- 回到血液。",
+      "key_point": "腎酸鹼調節中，近端與遠端腎小管都可分泌 H+ 並參與 HCO3- 回收，但近端負責大部分 HCO3- 回收。",
+      "flashcard_front": "腎臟酸鹼平衡：近端與遠端腎小管如何處理 H+ 與 HCO3-？",
+      "flashcard_back": "近端腎小管大量回收 HCO3- 並分泌 H+；遠端腎小管/集尿管間插細胞主動分泌 H+、酸化尿液，並讓新 HCO3- 回到血液。",
+      "flashcard_summary": "腎酸鹼平衡 -> 近端大量回收 HCO3-；遠端/集尿管主動分泌 H+ 並細部調控",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": [
+        "官方更正第65題除未作答者外均給分；來源 correct_answer 為 #，correct_answers 包含 A-D，應保留人工複核紀錄。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n純水清除率 CH2O = V - Cosm = V[1 - (Uosm/Posm)]。當尿液比血漿濃縮（Uosm > Posm）時，Cosm 大於 V，CH2O 變成負值，代表腎臟正在保留水分；最典型的生理因素是 ADH 增加。\n\n【選項詳解】\n- A. 錯誤。大量飲用純水會降低血漿滲透壓並抑制 ADH，集尿管水通透性下降，尿液變稀，Uosm < Posm，CH2O 會偏正值。\n- B. 錯誤。GFR 增加可能增加濾過量與尿流相關變化，但是否產生負的 CH2O 取決於尿液是否被濃縮，單靠 GFR 增加不能代表 Uosm > Posm。\n- C. 正確。ADH 增加會使集尿管插入 AQP2，水分回收增加，尿液變濃、尿流量下降；此時 Uosm > Posm，Cosm > V，CH2O 變成負值。\n- D. 錯誤。公式中 CH2O = V - Cosm；若 Cosm 減少而 V 不相應下降，數值會較不容易變成負值。負值的關鍵是濃縮尿使 Cosm 大於 V。\n\n【核心考點】\nCH2O 為負值代表排出濃縮尿與保水狀態，常見於 ADH 上升；CH2O 為正值代表排出稀釋尿，常見於 ADH 被抑制。",
+      "key_point": "ADH 增加使尿液濃縮，Uosm > Posm，Cosm > V，因此 CH2O 變成負值。",
+      "flashcard_front": "Free-water clearance 何時為負值？",
+      "flashcard_back": "ADH 增加時。集尿管回收水分，尿液濃縮，Uosm > Posm，使 Cosm > V，CH2O = V - Cosm < 0。",
+      "flashcard_summary": "CH2O 負值 -> ADH 上升、濃縮尿、腎臟保留水分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n二十四小時節律的主要中樞在下視丘視交叉上核（suprachiasmatic nucleus, SCN）。SCN 接收視網膜光訊號後調節交感路徑到松果體，進而調控褪黑素（melatonin）；夜間褪黑素分泌增加，光照通常會抑制其分泌。\n\n【選項詳解】\n- A. 錯誤。腦下腺前葉分泌 ACTH、TSH、GH、PRL、LH、FSH 等；多巴胺主要作為下視丘對泌乳素的抑制訊號，並非松果體調節睡眠節律的激素。\n- B. 正確。SCN 是晝夜節律主時鐘，會透過神經路徑調節松果體褪黑素；褪黑素與暗期訊號、睡眠時相調整密切相關。\n- C. 錯誤。腦下腺後葉釋放 ADH 與 oxytocin；CRH 由下視丘室旁核分泌，作用於腦下腺前葉促進 ACTH，不是松果體激素。\n- D. 錯誤。室旁核與自主神經及 CRH 等功能相關；GHRH 主要來自下視丘弓狀核，且不是松果體針對晝夜節律分泌的主要激素。\n\n【核心考點】\nSCN 是晝夜節律中樞；它接收光訊號後調節松果體 melatonin 分泌。考配對題時要連結 SCN 與 melatonin，但也要記得光照通常抑制 melatonin、黑暗促進 melatonin。",
+      "key_point": "晝夜節律主中樞是 SCN，松果體受其調控分泌 melatonin；光照通常抑制 melatonin 分泌。",
+      "flashcard_front": "Circadian rhythm 的主中樞與松果體激素？",
+      "flashcard_back": "主中樞是下視丘 SCN；松果體激素是 melatonin。SCN 受光訊號調節，光照多抑制 melatonin，黑暗使 melatonin 增加。",
+      "flashcard_summary": "晝夜節律 -> SCN 調節松果體 melatonin；光抑制、暗增加",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": [
+        "題幹文字寫成受光激活後引發松果體分泌，較不精準；生理上光照通常抑制 melatonin，黑暗才增加分泌，但選項配對仍以 SCN/melatonin 為可接受答案。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n醛固酮（aldosterone）由腎上腺皮質球狀帶分泌，主要受 angiotensin II 與血鉀上升刺激。它作用於遠曲小管後段與集尿管主細胞，增加鈉再吸收、鉀分泌與水分保留。\n\n【選項詳解】\n- A. 錯誤。Somatostatin 多為抑制性調節激素，不是刺激醛固酮分泌的主要訊號；醛固酮也不負責降低腎臟碘離子再吸收。\n- B. 錯誤。Epinephrine 不是醛固酮分泌的主要直接刺激物；醛固酮的腎臟重點是鈉、鉀與水分平衡，不是降低鈣離子再吸收。\n- C. 正確。Angiotensin II 刺激球狀帶分泌醛固酮；醛固酮增加 ENaC 與 Na+/K+-ATPase 活性，促進鈉再吸收，因此會減少鈉離子從尿液排出。\n- D. 錯誤。ACTH 可短暫影響醛固酮，但不是最主要調控因素；醛固酮會促進鉀離子由尿液排出，而不是減少鉀排放。\n\n【核心考點】\nRAAS 中 angiotensin II 會刺激醛固酮分泌；醛固酮的腎臟作用是保鈉、排鉀，常伴隨水分保留與血容量上升。",
+      "key_point": "Angiotensin II 刺激醛固酮分泌；醛固酮促進鈉再吸收並增加鉀排泄。",
+      "flashcard_front": "Aldosterone 的主要刺激因子與腎臟作用？",
+      "flashcard_back": "主要受 angiotensin II 與高血鉀刺激；作用於遠曲小管後段/集尿管主細胞，保鈉排鉀。",
+      "flashcard_summary": "Aldosterone -> angiotensin II 刺激；腎臟保鈉排鉀",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n登高山時低氧、寒冷與壓力會活化交感-腎上腺髓質系統。腎上腺髓質分泌 epinephrine，快速動員肝臟能量儲備，促進肝糖分解與糖質新生，提高血糖供應腦部。\n\n【選項詳解】\n- A. 錯誤。17β-estradiol 是性類固醇，不是登高山急性壓力下用來提高血糖的主要腎上腺反應；促進 glycogenesis 是把葡萄糖存成肝醣，方向也不利於快速供能。\n- B. 正確。Epinephrine 由腎上腺髓質釋放，會促進肝臟 glycogenolysis，並協助糖質新生，使血糖上升以供應大腦等依賴葡萄糖的組織。\n- C. 錯誤。Dopamine 可作為兒茶酚胺前驅物與神經傳遞物，但登高山急性升糖反應的主要腎上腺激素是 epinephrine；脂肪酸釋放也不能直接取代腦部對葡萄糖的急性需求。\n- D. 錯誤。Aldosterone 主要調節腎臟鈉鉀與血容量；肝臟酮體生成與長時間禁食、脂肪酸氧化較相關，不是醛固酮促使肝臟釋出酮體。\n\n【核心考點】\n急性壓力與低氧會啟動交感-腎上腺髓質系統；epinephrine 促進肝糖分解，提高血糖以支持腦部能量需求。",
+      "key_point": "登高山急性壓力會增加腎上腺髓質 epinephrine，促進肝糖分解以升高血糖。",
+      "flashcard_front": "登高山時腎上腺如何幫助供應腦部能量？",
+      "flashcard_back": "腎上腺髓質分泌 epinephrine，促進肝臟 glycogenolysis 與糖質新生，使血糖上升。",
+      "flashcard_summary": "高山壓力 -> epinephrine 增加，肝糖分解升高血糖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n半夜或空腹時血糖下降，身體會啟動反向升糖調節（counterregulation），包括降低胰島素、增加升糖素、活化交感神經與腎上腺髓質。選項中能快速提高血糖的是腎上腺分泌 epinephrine。\n\n【選項詳解】\n- A. 錯誤。Secretin 由十二指腸 S 細胞分泌，主要刺激胰臟與膽道分泌 HCO3- 豐富的液體以中和胃酸，並非低血糖時的主要升糖激素。\n- B. 錯誤。腎臟負責把 25-hydroxyvitamin D 活化成 1,25-dihydroxyvitamin D，主要調節鈣磷與骨代謝，不是半夜低血糖的快速反應。\n- C. 錯誤。Somatostatin 由胰島 delta 細胞等分泌，會抑制多種內分泌與消化道激素，包括胰島素與升糖素；它不是用來快速回升血糖的主要反應。\n- D. 正確。低血糖會活化交感神經，促使腎上腺髓質分泌 epinephrine；epinephrine 促進肝糖分解與糖質新生，並減少周邊胰島素作用，有助於恢復血糖。\n\n【核心考點】\n低血糖反向調節以升糖素和 epinephrine 最快速；epinephrine 由腎上腺髓質分泌，可促進肝糖分解與糖質新生，使血糖回升。",
+      "key_point": "低血糖會促使腎上腺髓質分泌 epinephrine，促進肝糖分解與糖質新生來回升血糖。",
+      "flashcard_front": "半夜低血糖時，選項中哪個反應可協助血糖恆定？",
+      "flashcard_back": "腎上腺分泌 epinephrine。它促進肝糖分解與糖質新生，快速提高血糖。",
+      "flashcard_summary": "低血糖 counterregulation -> 腎上腺髓質 epinephrine 升高，促進升糖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:03:57+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

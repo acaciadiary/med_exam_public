@@ -1,0 +1,59 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "merge": false,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 43,
+      "notes": [
+        "A 選項把色盲列為主要症狀略不精確，建議人工確認命題措辭。"
+      ]
+    },
+    {
+      "question_number": 48,
+      "notes": [
+        "題幹提及影像但 JSON 未含圖檔，建議合併原圖複核。"
+      ]
+    },
+    {
+      "question_number": 58,
+      "notes": [
+        "來源資料顯示本題 A-D 皆列入給分，且題幹問最不恰當；建議人工複核原始公告與答案更正。"
+      ]
+    },
+    {
+      "question_number": 68,
+      "notes": [
+        "來源資料標示第 68 題一律給分；四個選項在現行復健概念下皆有爭議，建議人工確認原題與官方更正。"
+      ]
+    },
+    {
+      "question_number": 69,
+      "notes": [
+        "來源資料標示第 69 題接受 B 或 C 或 BC；C 涉及法規用語與時間點，建議人工確認考試當時版本。"
+      ]
+    },
+    {
+      "question_number": 73,
+      "notes": [
+        "來源 JSON 未提供題目影像，已依官方給分與典型 HSG 特徵撰寫；合併前建議對照原圖。"
+      ]
+    },
+    {
+      "question_number": 74,
+      "notes": [
+        "來源 JSON 未提供題目影像，已依官方給分與典型 MRI 特徵撰寫；合併前建議對照原圖。"
+      ]
+    },
+    {
+      "question_number": 80,
+      "notes": [
+        "第 80 題選項 A 未列父母；完整法條順位含父母在成年子女、孫子女之後、兄弟姐妹之前，建議審查時確認題目是否僅考相對順序。"
+      ]
+    }
+  ],
+  "errors": []
+}

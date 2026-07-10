@@ -1,0 +1,53 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "merge": false,
+  "update_file_count": 10,
+  "question_count": 100,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 29,
+      "notes": [
+        "第29題需依原始題圖辨認甲、乙、丙；本 update 依來源既有對應為丙=頸椎、甲=胸椎、乙=腰椎。"
+      ]
+    },
+    {
+      "question_number": 40,
+      "notes": [
+        "第40題來源採複數給分；B 的敘述明確錯誤，但 C 在一般解剖生理中通常為正確敘述，建議人工複核官方給分依據。"
+      ]
+    },
+    {
+      "question_number": 62,
+      "notes": [
+        "官方更正此題 B 或 C 或 BC 均給分；來源 correct_answer 顯示 B，correct_answers 包含 B、C，C 的文字與常規組織端氯轉移比較可能有歧義。"
+      ]
+    },
+    {
+      "question_number": 65,
+      "notes": [
+        "官方更正第65題除未作答者外均給分；來源 correct_answer 為 #，correct_answers 包含 A-D，應保留人工複核紀錄。"
+      ]
+    },
+    {
+      "question_number": 67,
+      "notes": [
+        "題幹文字寫成受光激活後引發松果體分泌，較不精準；生理上光照通常抑制 melatonin，黑暗才增加分泌，但選項配對仍以 SCN/melatonin 為可接受答案。"
+      ]
+    },
+    {
+      "question_number": 92,
+      "notes": [
+        "官方更正為第 92 題一律給分；update 只重寫解析，未更動答案狀態。"
+      ]
+    },
+    {
+      "question_number": 96,
+      "notes": [
+        "一般教科書常以 F1 三個催化 β 位點計算；本題題幹明示 αβ dimer 共有 6 組，解析依題目設定保留官方答案。"
+      ]
+    }
+  ],
+  "errors": []
+}

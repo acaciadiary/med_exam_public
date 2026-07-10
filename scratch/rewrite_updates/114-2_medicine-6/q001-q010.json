@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題目問 rapid sequence intubation（RSI）中最不適合的藥物或步驟。RSI 用於需要快速保護呼吸道、降低胃內容物吸入風險的情境，流程重點是預氧、快速給予誘導藥與快速起效肌肉鬆弛劑，接著立即插管。需要較長準備與精細操作的插管方式，通常不適合放在 RSI 的常規流程。\n\n【選項詳解】\n- A. 使用光纖內視鏡輔助插管：光纖內視鏡插管多用於預期困難呼吸道、可清醒合作或有較多準備時間的情境，操作時間較長，也常需要局部麻醉與鎮靜配合；這與 RSI 要求快速完成氣管插管、縮短未保護呼吸道時間的目標相衝突，因此是不適合的選項。\n- B. 預先給氧：preoxygenation 是 RSI 的重要步驟，可用高濃度氧氣提高肺泡與功能性肺餘容量中的氧儲備，延長無呼吸期間到低血氧發生前的安全時間。\n- C. 快速作用的非去極化神經肌肉阻斷劑：高劑量 rocuronium 等非去極化肌鬆劑可快速起效，常作為 succinylcholine 禁忌或不適用時的 RSI 肌鬆選擇。\n- D. 快速作用的去極化神經肌肉阻斷劑：succinylcholine 起效快、作用短，是 RSI 傳統常用肌鬆劑；只要沒有高血鉀、惡性高熱風險等禁忌，就符合 RSI 的用藥需求。\n\n【核心考點】\nRSI 強調預氧、快速誘導、快速肌鬆與迅速插管；光纖內視鏡插管偏向計畫性困難呼吸道處理，速度與流程特性不適合常規 RSI。",
+      "key_point": "RSI 需要快速完成氣管插管；光纖內視鏡插管耗時且偏向計畫性困難呼吸道，不適合常規 RSI。",
+      "flashcard_front": "RSI / 最不適合的插管方式 / 光纖內視鏡",
+      "flashcard_back": "rapid sequence intubation 著重預氧、快速誘導、快速肌鬆與立即插管；光纖內視鏡插管較耗時，通常用於計畫性困難呼吸道。",
+      "flashcard_summary": "RSI -> 預氧與快速肌鬆適合；光纖內視鏡插管耗時，通常不放入常規 RSI 流程",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目考 train-of-four（TOF）在神經肌肉阻斷恢復期的判讀。TOF ratio 是 T4 幅度除以 T1 幅度；數值越接近 1，代表四次刺激的衰減越少。現代臨床通常以 TOF ratio 至少 0.9 作為拔管前神經肌肉功能恢復的安全門檻，0.8 仍可能殘留咽喉肌無力與呼吸道保護不足。\n\n【選項詳解】\n- A. 當第四個肌肉抽動反應再次出現時，就進入神經肌肉阻斷恢復的階段：T4 重新出現代表阻斷深度已由較深狀態往恢復方向移動，四連刺激開始能呈現完整四個 twitch，因此可視為恢復期的訊號之一。\n- B. 當 TOF ratio 小於 0.4 時，病人通常無法抬頭或舉起手臂：TOF ratio 很低時仍有明顯殘餘肌鬆，頸部與近端肢體肌力不足，臨床上常無法完成抬頭或舉臂等抗重力動作。\n- C. 當 TOF ratio 為 0.7~0.75 時，病人通常可以正常咳嗽及抬頭至少 5 秒：在此區間，部分病人可完成抬頭或咳嗽等粗略床邊測試；但這些測試對殘餘肌鬆不夠敏感，仍不能代表安全恢復。\n- D. 當 TOF ratio 達到 0.8 時，表示病人已完全恢復神經肌肉的功能：0.8 仍低於現代安全門檻，病人可能還有上呼吸道肌肉協調差、吞嚥保護不足、低血氧與吸入風險；完整恢復通常要求 TOF ratio 達 0.9 以上。\n\n【核心考點】\nTOF ratio 的安全判讀重點是 0.9 以上才較能排除臨床重要的殘餘神經肌肉阻斷；抬頭、咳嗽等床邊表現可能在 0.7 左右出現，但不能取代定量 TOF。",
+      "key_point": "TOF ratio 0.8 仍可能有殘餘肌鬆；拔管前神經肌肉功能安全恢復通常需 TOF ratio >= 0.9。",
+      "flashcard_front": "TOF ratio / 殘餘神經肌肉阻斷 / 安全恢復門檻",
+      "flashcard_back": "TOF ratio 應達 0.9 以上才較能排除臨床重要殘餘肌鬆；0.8 不足以代表完全恢復。",
+      "flashcard_summary": "TOF recovery -> 0.9 以上較安全；0.8 仍有殘餘肌鬆與呼吸道保護不足風險",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n題目考 end-tidal CO2（ETCO2）監測的用途與限制。ETCO2 反映肺泡通氣、肺血流灌注與二氧化碳產生量，對確認氣管內管是否在氣管內、CPR 品質與惡性高熱早期偵測很有用；但若管子插太深進入單側主支氣管，仍可能有穩定 CO2 波形，因此 ETCO2 不是偵測插管過深的最佳工具。\n\n【選項詳解】\n- A. 可以快速發現是否將氣管內管誤放入食道：食道插管無法穩定排出肺泡 CO2，監測會呈現無持續波形或短暫假性讀值後迅速消失，所以 ETCO2 是確認氣管內插管位置的重要監測。\n- B. 可以快速發現是否將氣管內管置放過深：插管過深常進入右主支氣管，單側肺仍會通氣並排出 CO2，ETCO2 波形可仍然存在；臨床需靠雙側胸廓起伏、聽診、管深標記、超音波或影像來判斷。\n- C. 可以用來監測復甦品質，確認組織灌流改善：CPR 時 ETCO2 與肺血流及心輸出量相關；胸外按壓有效或自主循環恢復時，ETCO2 通常會上升。\n- D. 全身麻醉中潮氣末二氧化碳快速增加可能是 malignant hyperthermia 的 early sign：惡性高熱會造成骨骼肌代謝急速上升、CO2 產生增加，麻醉中持續上升的 ETCO2 常是早期警訊。\n\n【核心考點】\nETCO2 適合用於確認是否食道插管、評估 CPR 灌流與偵測 CO2 產生暴增；它無法可靠排除單側主支氣管插管，插管過深需靠呼吸音、管深與影像等方式確認。",
+      "key_point": "ETCO2 可快速偵測食道插管與 CO2 產生暴增，但不能可靠偵測單側主支氣管插管。",
+      "flashcard_front": "ETCO2 / 食道插管 / 插管過深",
+      "flashcard_back": "食道插管會沒有持續 ETCO2 波形；單側主支氣管插管仍可有 CO2 波形，需用聽診、管深、胸部影像等判斷。",
+      "flashcard_summary": "ETCO2 -> 可確認氣管內位置與 CPR/MH 變化；插管過深不能只靠 ETCO2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目考 myasthenia gravis（MG）病人接受全身麻醉時對肌肉鬆弛劑與呼吸風險的特殊反應。MG 是突觸後乙醯膽鹼受體數量與功能下降造成肌無力；因此病人對非去極化肌鬆劑非常敏感，但對 succinylcholine 這類去極化肌鬆劑可能較有抗性。合併 pyridostigmine 使用時，還會影響肌鬆劑作用時間與逆轉判讀。\n\n【選項詳解】\n- A. 此病人肌肉無力與自體免疫引起乙醯膽鹼受體的破壞有關，導致受體數量減少：MG 常由抗 AChR 抗體或相關免疫反應造成神經肌肉接合處傳遞效率下降，因此這個病生理描述正確。\n- B. 術前需評估乙醯膽素分解酶抑制劑使用劑量：pyridostigmine 會改變神經肌肉接合處乙醯膽鹼濃度，也可能延長 succinylcholine 作用並干擾非去極化肌鬆劑需求，術前需評估劑量與最後服藥時間。\n- C. 該病人有術後呼吸衰竭的風險，圍術期可使用周邊神經刺激器 train-of-four 監測：MG 病人呼吸肌儲備較差，且對部分肌鬆劑反應不可預測；TOF 監測有助於避免殘餘肌鬆造成術後通氣不足。\n- D. 使用短效性的去極化肌肉鬆弛劑時，應減少劑量：MG 病人因可用 AChR 減少，對 succinylcholine 常呈現相對抗性，若使用反而可能需要較高劑量才能達到同等阻斷；臨床仍需因 pyridostigmine 可能延長作用而謹慎評估，不能簡化成應減量。\n\n【核心考點】\nMG 麻醉用藥要分清楚兩類肌鬆劑：非去極化肌鬆劑敏感，需大幅減量與 TOF 監測；去極化肌鬆劑常有相對抗性，但受 cholinesterase inhibitor 影響，使用時需個別評估。",
+      "key_point": "MG 對非去極化肌鬆劑敏感，對 succinylcholine 常相對抗性；不可把去極化肌鬆劑簡單視為應減量。",
+      "flashcard_front": "Myasthenia gravis / 麻醉肌鬆劑 / succinylcholine",
+      "flashcard_back": "MG 對非去極化肌鬆劑高度敏感；對去極化肌鬆劑 succinylcholine 常相對抗性，但 pyridostigmine 可能延長作用，需嚴密監測。",
+      "flashcard_summary": "MG anesthesia -> 非去極化肌鬆劑減量；succinylcholine 常抗性且受 pyridostigmine 影響",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目考 succinylcholine 的副作用、禁忌與電解質風險。Succinylcholine 是去極化神經肌肉阻斷劑，起效快，但可造成心搏過緩、肌束顫動、血鉀上升與惡性高熱。燒傷病人使用時的危險是高血鉀，不是低血鉀。\n\n【選項詳解】\n- A. 兒童在使用 succinylcholine 後，較容易出現嚴重的心搏過緩：succinylcholine 可刺激心臟 muscarinic receptor，兒童迷走神經反應較明顯，重複給藥或未使用 atropine 時更容易發生嚴重 bradycardia。\n- B. 可先施打低劑量的非去極化肌肉鬆弛劑，來避免 succinylcholine 引起的肌束顫動：defasciculating dose 的非去極化肌鬆劑可減少肌束顫動與術後肌肉痠痛，但可能使插管條件或劑量需求改變，需由麻醉醫師掌握。\n- C. 在燒傷病人使用會引發低血鉀，應避免使用 succinylcholine：嚴重燒傷、去神經支配、長期臥床或廣泛創傷後，骨骼肌會增加 junctional 與 extrajunctional AChR；給 succinylcholine 會使鉀離子大量外移，造成致命高血鉀，而不是低血鉀。\n- D. 可能引發惡性高熱症：succinylcholine 與揮發性吸入麻醉藥都是惡性高熱的重要觸發藥物；若出現 ETCO2 快速上升、肌強直、高熱與代謝性酸中毒，需立即停用觸發藥並給予 dantrolene。\n\n【核心考點】\nSuccinylcholine 的高風險情境包括燒傷後高血鉀、兒童 bradycardia、肌束顫動與惡性高熱；燒傷相關電解質危險是 hyperkalemia。",
+      "key_point": "燒傷病人使用 succinylcholine 的主要危險是致命高血鉀，不是低血鉀。",
+      "flashcard_front": "Succinylcholine / 燒傷病人 / 血鉀變化",
+      "flashcard_back": "燒傷、去神經支配、長期臥床等情境會增加 AChR，succinylcholine 可造成大量鉀外移，引發致命 hyperkalemia。",
+      "flashcard_summary": "Succinylcholine contraindication -> 燒傷後可能高血鉀；另可造成 bradycardia、fasciculation、MH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目要從術前心臟超音波數據判斷哪一項最可能需要暫緩常規手術。經尿道攝護腺切除術常涉及麻醉造成的血管擴張、血壓波動與容量變化；若病人有重度主動脈瓣狹窄，固定性左心室出口阻塞會讓低血壓與心肌缺血風險大幅上升。重度 AS 的常用判讀包括 AVA < 1.0 cm2、平均壓差 >= 40 mmHg 或最大流速 >= 4 m/s。\n\n【選項詳解】\n- A. 主動脈瓣平均跨瓣壓力梯度 30 mmHg：平均壓差 30 mmHg 較符合中度主動脈瓣狹窄範圍，單看這個數值未達重度 AS 的 40 mmHg 門檻，通常不是最需要暫緩的數據。\n- B. 主動脈瓣最大流速 2 m/s：最大流速 2 m/s 接近輕度狹窄或較低風險範圍，與重度 AS 的 Vmax 4 m/s 以上相距明顯，較不會因這個數值直接暫緩手術。\n- C. 主動脈瓣瓣口面積 0.9 平方公分：AVA 小於 1.0 cm2 支持重度主動脈瓣狹窄。重度 AS 接受非心臟手術時容易在麻醉誘導、脊椎麻醉或出血容量變化下出現低血壓、心肌缺血、心衰竭或猝死，因此常規手術需先暫緩並進一步心臟評估。\n- D. 二尖瓣平均跨瓣壓力梯度 6 mmHg：二尖瓣平均壓差 6 mmHg 通常較偏輕至中度範圍；雖需結合心率、瓣口面積、肺壓與症狀判讀，但單看此數值不像重度 AS 那樣最需要立即暫緩。\n\n【核心考點】\n術前瓣膜病風險最怕重度主動脈瓣狹窄；AVA < 1.0 cm2 是高風險訊號，非緊急手術前應先完成心臟科評估與麻醉風險規劃。",
+      "key_point": "AVA < 1.0 cm2 代表重度主動脈瓣狹窄風險高，常規非心臟手術前需先暫緩並評估。",
+      "flashcard_front": "術前心臟超音波 / 主動脈瓣狹窄 / AVA",
+      "flashcard_back": "重度 AS 常用門檻：AVA < 1.0 cm2、mean gradient >= 40 mmHg、Vmax >= 4 m/s；AVA 0.9 cm2 須提高警覺。",
+      "flashcard_summary": "Pre-op echo -> AVA 0.9 cm2 指向重度 AS，非緊急手術前需心臟評估",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目考足月懷孕婦女的生理變化，並要求找出不適當敘述。懷孕會使心輸出量與換氣量增加，功能性肺餘容量下降，胃食道逆流與吸入風險增加。氧合血紅素解離曲線方面，母體因 2,3-DPG 增加而右移，較容易把氧釋放給胎盤；胎兒血紅素親和力較高，曲線相對偏左。\n\n【選項詳解】\n- A. 心輸出量增加，心搏量與心跳速率也會增加，而周邊血管阻力下降：懷孕時血容量、心搏量與心跳上升，使心輸出量增加；胎盤循環與荷爾蒙造成血管擴張，使 systemic vascular resistance 下降。\n- B. 每分鐘換氣量增加，但功能性肺餘容量降低：progesterone 會刺激呼吸中樞，使 tidal volume 與 minute ventilation 增加；子宮上推橫膈膜，使 FRC 下降，因此孕婦較容易快速低血氧。\n- C. 懷孕婦女的血紅素血氧飽和曲線會左移，增加氧氣在胎盤的釋放：母體曲線應是右移，因 2,3-DPG 增加使血紅素氧親和力下降，才有利於氧在胎盤釋放；左移較符合胎兒血紅素的特性，能幫助胎兒從母體血液取得氧。\n- D. 食道下括約肌張力下降，生產時胃排空時間會延長：懷孕時 progesterone 使 lower esophageal sphincter 張力下降，子宮壓迫也增加逆流；分娩疼痛、焦慮與 opioid 使用可延長胃排空，增加吸入風險。\n\n【核心考點】\n足月孕婦的麻醉風險重點包括 CO 上升、SVR 下降、minute ventilation 上升、FRC 下降、LES 張力下降與胃排空延長；母體血氧解離曲線右移以利胎盤釋氧。",
+      "key_point": "足月孕婦母體氧合血紅素解離曲線右移，胎兒血紅素曲線相對左移。",
+      "flashcard_front": "足月孕婦生理變化 / 氧合血紅素曲線 / FRC",
+      "flashcard_back": "母體 2,3-DPG 增加使氧解離曲線右移，利於胎盤釋氧；同時 CO 與 minute ventilation 增加、FRC 降低、LES 張力下降。",
+      "flashcard_summary": "Pregnancy physiology -> 母體曲線右移釋氧；FRC 降低與胃排空延長增加麻醉風險",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n題目問上腹部惡性腫瘤造成的臟器性疼痛最適合哪種介入性疼痛治療。上腹部臟器如胰臟、胃、肝膽、脾與部分腸道的內臟痛傳入路徑常經腹腔神經叢，因此胰臟癌等上腹部癌痛常以 celiac plexus block 或 neurolysis 作為重要介入治療。\n\n【選項詳解】\n- A. celiac plexus block：腹腔神經叢收集許多上腹部臟器的交感傳入痛覺，對胰臟癌、胃癌、肝膽系統腫瘤等造成的上腹部內臟痛特別適用，可降低 opioid 需求並改善疼痛控制。\n- B. superior hypogastric plexus block：上腹下神經叢主要處理骨盆腔內臟痛，例如子宮頸、膀胱、前列腺、直腸等骨盆腔癌痛，解剖範圍低於上腹部。\n- C. stellate ganglion block：星狀神經節位於頸胸交界，主要影響頭頸、上肢與上胸部交感神經相關疼痛或血管痙攣問題，不是上腹部內臟癌痛的首選介入位置。\n- D. Bier block：intravenous regional block 是四肢短時間手術或局部止痛技術，靠止血帶與局部麻醉藥在肢體靜脈內作用，與上腹部惡性腫瘤內臟痛的傳入路徑無關。\n\n【核心考點】\n介入性癌痛治療要對應解剖支配：上腹部內臟痛選 celiac plexus block，骨盆腔內臟痛選 superior hypogastric plexus block。",
+      "key_point": "上腹部惡性腫瘤造成的內臟痛常經腹腔神經叢傳入，最適合 celiac plexus block。",
+      "flashcard_front": "上腹部癌痛 / visceral pain / celiac plexus block",
+      "flashcard_back": "胰臟癌、胃癌、肝膽腫瘤等上腹部內臟痛常選 celiac plexus block；骨盆腔癌痛才考慮 superior hypogastric plexus block。",
+      "flashcard_summary": "Cancer pain block -> 上腹部內臟痛用 celiac plexus；骨盆腔痛用 superior hypogastric",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問哪一項最不可能導致術後高血糖。手術後高血糖主要來自壓力反應：交感神經活化、catecholamine、cortisol、glucagon 與 growth hormone 增加，造成肝醣分解、糖質新生與胰島素阻抗。感染惡化與分解代謝升高也會使血糖上升；單純描述免疫系統活化，較不像直接升糖的主要驅動因素。\n\n【選項詳解】\n- A. 交感神經亢奮：手術壓力會活化交感與腎上腺髓質，catecholamine 增加會促進肝醣分解與糖質新生，也抑制胰島素作用，因此容易造成高血糖。\n- B. 活化免疫系統：免疫反應本身主要是防禦與發炎反應；雖然發炎 cytokine 可參與胰島素阻抗，但若與交感亢奮、感染惡化、分解代謝升高相比，單純免疫活化較不是術後急性高血糖的直接來源。\n- C. 加重感染情況：感染或敗血症會加強壓力荷爾蒙釋放與周邊胰島素阻抗，使糖質新生增加、血糖控制變差，因此會導致術後高血糖。\n- D. 增加分解代謝率：手術後 catabolic state 會分解蛋白質與脂肪，提供糖質新生原料，並伴隨 cortisol 等升糖荷爾蒙增加，所以會推升血糖。\n\n【核心考點】\n術後高血糖來自神經內分泌壓力反應、感染惡化、胰島素阻抗與分解代謝升高；單純免疫活化不是最直接的升糖因素。",
+      "key_point": "術後高血糖主要由交感活化、升糖荷爾蒙、感染與分解代謝造成；單純免疫活化較不直接。",
+      "flashcard_front": "術後高血糖 / stress response / 最不直接因素",
+      "flashcard_back": "術後高血糖常見來源是 catecholamine、cortisol、glucagon、感染惡化與 catabolism；單純免疫活化較不直接。",
+      "flashcard_summary": "Post-op hyperglycemia -> 壓力荷爾蒙與 catabolism 升糖；免疫活化本身較不直接",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n題目問 wet-type age-related macular degeneration（wet AMD）不常見的症狀。黃斑部負責中央視覺與精細視力；濕性 AMD 因脈絡膜新生血管滲漏或出血，造成中央視力快速惡化、中央暗點與視物變形。周邊視野通常保留，周邊視野缺損更常讓人想到青光眼、視網膜剝離或視神經病變。\n\n【選項詳解】\n- A. 視力模糊：濕性 AMD 侵犯黃斑部，會影響閱讀、辨認人臉等中央精細視覺，因此視力模糊是常見症狀。\n- B. 周邊視野缺損：黃斑部病變主要影響中央視野，不會優先破壞周邊視野；若有明顯周邊視野缺損，需考慮青光眼、視網膜剝離、視神經或視路病灶等其他疾病。\n- C. 中央出現盲點：黃斑部出血、滲漏與感光細胞受損可讓病人在注視目標時看到中央黑影或缺損，central scotoma 是黃斑部疾病的重要表現。\n- D. 視物變形：黃斑部水腫、隆起或出血會扭曲感光細胞排列，直線可能看起來彎曲，Amsler grid 可用來篩檢 metamorphopsia。\n\n【核心考點】\n濕性 AMD 主要傷害中央視覺，常見視力模糊、central scotoma 與 metamorphopsia；周邊視野多半保留。",
+      "key_point": "wet AMD 主要造成中央視覺症狀；周邊視野缺損不是常見表現。",
+      "flashcard_front": "Wet AMD / 中央視覺 / 周邊視野",
+      "flashcard_back": "濕性黃斑部退化常造成視力模糊、中央盲點與視物變形；周邊視野通常保留。",
+      "flashcard_summary": "Wet AMD symptoms -> 中央視力模糊、central scotoma、metamorphopsia；周邊視野保留",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:19+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

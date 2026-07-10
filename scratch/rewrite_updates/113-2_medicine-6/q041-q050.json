@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n子宮鏡手術需要用膨宮介質維持視野；若使用等張生理食鹽水，壓力太高會讓灌注液經開放的子宮內膜靜脈竇進入血管內，造成液體超載、低鈉風險較低但仍可能有容量負荷問題。題目問「壓力最好不可高於」哪個病人生理壓力，核心是避免膨宮壓超過子宮血管灌流壓而增加 intravasation。\n\n【選項詳解】\n- A. 平均動脈壓（mean arterial pressure, MAP）是正確上限。膨宮壓低於或接近 MAP，可減少灌注液克服血管壓力大量進入循環，是子宮鏡液體管理的高頻安全原則。\n- B. 收縮壓通常明顯高於 MAP；若把收縮壓當上限，膨宮壓可能已經高過子宮血管的有效灌流壓，會增加液體吸收與容量過多風險。\n- C. 舒張壓不是子宮鏡灌注壓的標準上限；只用舒張壓雖較保守，但可能造成視野不足，且無法精準反映防止血管內吸收的臨床判準。\n- D. 顱內壓與子宮腔灌注液進入子宮血管的機轉無直接關係，不能用來設定膨宮介質壓力。\n\n【核心考點】\n子宮鏡使用液體膨宮時，灌注壓以足夠視野的最低壓力為原則，安全上限通常不應高於病人的平均動脈壓，以降低液體吸收與循環超載。",
+      "key_point": "子宮鏡以生理食鹽水膨宮時，灌注壓最好不要高於患者平均動脈壓，以減少液體進入血管內。",
+      "flashcard_front": "子宮鏡手術用生理食鹽水膨宮時，灌注壓安全上限應參考哪個血壓指標？",
+      "flashcard_back": "平均動脈壓（MAP）；膨宮壓高於 MAP 會增加液體經子宮血管內吸收的風險。",
+      "flashcard_summary": "子宮鏡膨宮壓 -> 不高於平均動脈壓以避免液體吸收",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n先天性雄性素不敏感症（androgen insensitivity syndrome, AIS）是 46,XY 個體因雄性素受體功能異常，使目標組織無法對睪固酮與 DHT 產生正常反應。本題問「最不適當」，要抓出把完全性 AIS 與部分性 AIS 混在一起的描述。\n\n【選項詳解】\n- A. 性染色體為 XY 是 AIS 的典型診斷背景；患者有睪丸組織，但因雄性素訊號無效，外觀可呈女性表型。\n- B. 先天缺陷影響雄性素受體功能是病因重點；受體缺陷可造成完全性或部分性雄性素不敏感。\n- C. 診斷確實需整合身體檢查、血清睪固酮濃度與染色體核型；典型完全性 AIS 可見 46,XY、男性範圍睪固酮、女性外觀與無子宮。\n- D. 這是最不適當的敘述。青春期完全性 AIS 會因睪固酮芳香化為雌激素而有乳房發育，並因雄性素作用不足而腋毛、陰毛稀疏；但外生殖器通常為女性外觀、盲端陰道，並不是「短小陰莖」。短小陰莖較符合部分性 AIS 或其他性發育差異。\n\n【核心考點】\n完全性 AIS 的組合是 46,XY、雄性素受體功能缺陷、睪固酮為男性範圍、女性外觀、乳房發育、無子宮、腋毛陰毛稀疏；「短小陰莖」不屬於典型完全性 AIS。",
+      "key_point": "完全性雄性素不敏感症是 46,XY 但女性外觀、乳房發育、無子宮且腋毛陰毛稀疏；短小陰莖不是典型表現。",
+      "flashcard_front": "完全性雄性素不敏感症（CAIS）的青春期身體檢查重點是什麼？",
+      "flashcard_back": "女性外觀與乳房發育、盲端陰道、無子宮、腋毛陰毛稀疏；不是短小陰莖。",
+      "flashcard_summary": "CAIS -> 46,XY + 雄性素受體缺陷 + 女性外觀 + 腋毛陰毛稀疏",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n骨盆腔發炎（pelvic inflammatory disease, PID）多為上生殖道的多菌種感染，常需涵蓋淋病雙球菌、披衣菌與厭氧菌。題目問門診治療中「較不適宜」的選項，重點是分辨抗生素與抗黴菌藥。\n\n【選項詳解】\n- A. Doxycycline 可涵蓋 Chlamydia trachomatis，是 PID 門診治療常見組合的一部分，通常需與涵蓋淋病的 cephalosporin 及厭氧菌藥物搭配。\n- B. Azithromycin 可治療披衣菌感染，雖不是所有 PID 標準處方的唯一核心，但作為針對披衣菌的抗生素治療方向仍比抗黴菌藥合理。\n- C. Cephalosporin，尤其 ceftriaxone，可涵蓋 Neisseria gonorrhoeae，是 PID 門診經驗性治療的重要藥物類別。\n- D. Clotrimazole 是正確答案，因它是抗黴菌藥，主要用於外陰陰道念珠菌感染；PID 是上生殖道細菌感染，clotrimazole 無法涵蓋淋病、披衣菌或厭氧菌，因此最不適宜。\n\n【核心考點】\nPID 門診治療要用抗生素涵蓋淋病、披衣菌與厭氧菌；clotrimazole 是抗黴菌藥，不能治療 PID。",
+      "key_point": "PID 是細菌性上生殖道感染，治療需抗生素；clotrimazole 屬抗黴菌藥，不適合作為 PID 治療。",
+      "flashcard_front": "PID 門診治療中，為什麼 clotrimazole 不是合適選項？",
+      "flashcard_back": "Clotrimazole 治療念珠菌等黴菌感染，不能涵蓋 PID 常見的淋病、披衣菌與厭氧菌。",
+      "flashcard_summary": "PID 治療 -> 抗生素覆蓋 GC/CT/厭氧菌；排除 clotrimazole",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n子宮平滑肌瘤依位置分為漿膜下、壁間與黏膜下；位置決定對月經、受孕與壓迫症狀的影響。本題問「何者錯誤」，要找出把漿膜下肌瘤說成不孕常見原因的選項。\n\n【選項詳解】\n- A. 這是錯誤敘述，因此為正確答案。漿膜下肌瘤向子宮外側生長，通常不扭曲子宮內膜腔，對著床與受孕影響較小；較會影響生育的是黏膜下肌瘤，或明顯扭曲內膜腔的壁間肌瘤。\n- B. 子宮動脈栓塞（uterine artery embolization, UAE）可阻斷肌瘤血流使其縮小，是症狀性子宮肌瘤的治療選項之一，尤其適合部分不想或不適合手術的患者。\n- C. 懷孕中肌瘤紅色變性（red degeneration）常因肌瘤缺血造成急性疼痛，多數以止痛、休息與支持性療法處理，不需立即手術。\n- D. 黏膜下肌瘤突出或接近子宮腔，會增加內膜表面積並干擾子宮收縮，典型症狀是經血量增加與異常子宮出血。\n\n【核心考點】\n子宮肌瘤的臨床影響取決於位置：黏膜下最容易造成經血過多與不孕，漿膜下多造成壓迫症狀，通常不是不孕常見原因。",
+      "key_point": "漿膜下肌瘤通常不扭曲子宮腔，較少造成不孕；黏膜下肌瘤才最容易造成經血過多與受孕問題。",
+      "flashcard_front": "哪一型子宮肌瘤最常影響月經與受孕？漿膜下肌瘤是否是不孕常見原因？",
+      "flashcard_back": "黏膜下肌瘤最常造成經血過多與受孕問題；漿膜下肌瘤通常不是不孕常見原因。",
+      "flashcard_summary": "子宮肌瘤位置 -> 黏膜下影響月經/受孕；漿膜下較少致不孕",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n子宮內膜異位症的藥物治療常透過抑制排卵、降低雌激素刺激或造成內膜萎縮來減少疼痛與病灶活性。本題問「何者錯誤」，重點是辨認各藥物副作用，以及口服避孕藥對婦科癌症風險的方向。\n\n【選項詳解】\n- A. Progestins 可造成體重增加、水腫、情緒變化與不規則子宮出血，這些是臨床常見副作用，敘述正確。\n- B. 這是錯誤敘述，因此為正確答案。持續使用複合型口服避孕藥會抑制排卵並降低子宮內膜增生刺激，長期使用與卵巢癌、子宮內膜癌風險下降有關，不是增加風險。\n- C. Danazol 具有雄性素樣作用，副作用包括多毛、痤瘡、體重增加、聲音低沉等；聲音變低可能不可逆，是此藥重要考點。\n- D. 長期 GnRH agonist 會先刺激後下調 GnRH receptor，造成低雌激素狀態；若使用太久或未加 add-back therapy，會增加骨質流失與骨質疏鬆風險。\n\n【核心考點】\n子宮內膜異位症藥物副作用要成組記：progestins 不規則出血與體重增加、danazol 雄性化、GnRH agonist 骨鬆；口服避孕藥則降低卵巢癌與子宮內膜癌風險。",
+      "key_point": "口服避孕藥不會增加子宮內膜癌與卵巢癌風險，長期使用反而具有降低風險的保護效果。",
+      "flashcard_front": "子宮內膜異位症用藥中，COC、danazol、GnRH agonist 各有哪些高頻副作用或效果？",
+      "flashcard_back": "COC 降低卵巢癌與內膜癌風險；danazol 會雄性化；GnRH agonist 長期使用會低雌激素與骨質流失。",
+      "flashcard_summary": "內膜異位症用藥 -> COC 防癌；danazol 雄性化；GnRH agonist 骨鬆",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n卵巢腫瘤若造成雄性激素上升並出現男性化，要優先想到性索間質腫瘤（sex cord-stromal tumor），特別是 Sertoli-Leydig cell tumor。題目測的是腫瘤來源與荷爾蒙分泌功能。\n\n【選項詳解】\n- A. Serous cystadenoma 是常見良性上皮性卵巢腫瘤，典型表現為囊性腫塊，不以分泌雄性素或男性化為特徵。\n- B. Sertoli-Leydig tumor 是正確答案。它屬性索間質腫瘤，Leydig 細胞可分泌睪固酮等雄性素，造成多毛、痤瘡、聲音低沉、陰蒂肥大、月經異常等男性化表現。\n- C. Ovarian endometrioma 是子宮內膜異位症形成的巧克力囊腫，常與疼痛、不孕相關，不是分泌雄性素的腫瘤。\n- D. Mature ovarian teratoma 是成熟囊性畸胎瘤，屬生殖細胞腫瘤，常含皮脂、毛髮等成熟組織；通常不造成雄性素上升。\n\n【核心考點】\n卵巢腫瘤合併男性化時，考試最常指向 Sertoli-Leydig cell tumor；它是性索間質腫瘤，能分泌雄性素。",
+      "key_point": "Sertoli-Leydig cell tumor 可分泌雄性素，是卵巢腫瘤造成女性男性化症狀的典型答案。",
+      "flashcard_front": "女性出現雄性素上升與男性化時，哪一種卵巢腫瘤最典型？",
+      "flashcard_back": "Sertoli-Leydig cell tumor；屬性索間質腫瘤，可分泌睪固酮等雄性素。",
+      "flashcard_summary": "卵巢腫瘤男性化 -> Sertoli-Leydig cell tumor 分泌雄性素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n細菌性陰道炎（bacterial vaginosis, BV）是陰道菌叢失衡，乳酸桿菌減少、Gardnerella vaginalis 與厭氧菌增加。Amsel criteria 是臨床診斷標準，本題問「最不適當」，要選出不屬於 Amsel criteria、且臨床診斷價值差的項目。\n\n【選項詳解】\n- A. 陰道分泌物細菌培養是正確答案，因為它不是 Amsel criteria。Gardnerella 可存在於無症狀女性，單純培養陽性缺乏特異性，不能可靠診斷 BV。\n- B. 魚腥樣臭味符合 whiff test 陽性：分泌物加 KOH 後釋放胺類氣味，是 Amsel criteria 之一。\n- C. 陰道 pH 超過 4.5 是 Amsel criteria 之一；BV 時乳酸桿菌減少，酸性下降，pH 因而升高。\n- D. 顯微鏡看到被細菌黏附的陰道上皮細胞是 clue cells，也是 Amsel criteria 之一，通常是 BV 很重要的診斷線索。\n\n【核心考點】\nAmsel criteria 包括均質稀薄分泌物、pH > 4.5、whiff test 魚腥味、clue cells；不包括陰道分泌物細菌培養。",
+      "key_point": "BV 的 Amsel criteria 不含細菌培養；培養 Gardnerella 缺乏特異性，不能作為可靠診斷標準。",
+      "flashcard_front": "細菌性陰道炎的 Amsel criteria 有哪四項？哪一項常被誤選但不屬於標準？",
+      "flashcard_back": "均質稀薄分泌物、pH > 4.5、whiff test 魚腥味、clue cells；不包括細菌培養。",
+      "flashcard_summary": "BV Amsel criteria -> 分泌物、pH、魚腥味、clue cells；非培養",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題問子宮肌瘤何者最正確，重點涵蓋口服避孕藥、症狀、快速長大是否代表肉瘤，以及肌瘤切除對受孕率的影響。判斷肌瘤與生育的關係時，是否壓迫或扭曲子宮內膜腔是關鍵。\n\n【選項詳解】\n- A. 口服避孕藥使用時間越長，子宮肌瘤發生率越高，這種說法不正確。口服避孕藥可用於控制肌瘤造成的經血過多，並不是肌瘤發生率隨使用時間增加的典型危險因子。\n- B. 子宮肌瘤最典型症狀是經血過多、經期延長、壓迫症狀或不孕；經痛可以出現，但「明顯提高經痛發生率」較像子宮腺肌症或內膜異位症的考點。\n- C. 停經前肌瘤快速長大不等於顯著增加子宮惡性肉瘤機率。快速變大需要評估，但不能單靠這點推論為肉瘤；子宮平滑肌肉瘤整體仍罕見。\n- D. 這是正確敘述。若 intramural myoma 沒有壓迫或扭曲子宮內膜腔，單純切除通常不能明確提高受孕率；較有證據需要處理的是黏膜下肌瘤或造成腔體變形的肌瘤。\n\n【核心考點】\n肌瘤與受孕的關鍵是是否影響子宮腔：黏膜下或扭曲內膜腔者較影響受孕；未扭曲內膜腔的壁間肌瘤，切除不一定提高受孕率。",
+      "key_point": "未扭曲子宮內膜腔的壁間肌瘤，切除通常不會明確提高受孕率；影響受孕最大的是黏膜下或扭曲腔體的肌瘤。",
+      "flashcard_front": "壁間子宮肌瘤是否需要為了提高受孕率而常規切除？",
+      "flashcard_back": "若未壓迫或扭曲子宮內膜腔，切除通常不會明確提高受孕率；需看是否影響子宮腔。",
+      "flashcard_summary": "壁間肌瘤與受孕 -> 未扭曲內膜腔時切除不增受孕率",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n卵巢內胚層竇瘤（endodermal sinus tumor），又稱卵黃囊瘤（yolk sac tumor），是惡性生殖細胞腫瘤，常見於兒童與年輕女性。它的特色是生長快、AFP 常升高、對化療敏感，且多為單側。\n\n【選項詳解】\n- A. 大多數患者並非尚未初經的兒童。卵黃囊瘤可見於兒童與年輕女性，但典型考點是年輕女性，並不應限定為初經前。\n- B. 內胚層竇瘤不是生長緩慢、無症狀的腫瘤；它通常生長快速，可能造成腹痛、腹部腫塊、腫瘤破裂或扭轉等急性表現。\n- C. 這是正確敘述。內胚層竇瘤多為單側，若對側卵巢外觀正常，手術時通常不建議常規做對側卵巢切片，以免造成黏連、出血或傷害生育功能。\n- D. 內胚層竇瘤對化療反應佳，常用含鉑化療如 BEP regimen；化療是提高存活率並保留生育功能的重要治療，不是不建議實施。\n\n【核心考點】\n卵黃囊瘤是年輕女性惡性生殖細胞腫瘤，常 AFP 上升、生長快速、對含鉑化療敏感，且多為單側；對側卵巢正常時不做常規切片。",
+      "key_point": "卵巢內胚層竇瘤多為單側且對化療敏感；對側卵巢外觀正常時，不建議常規切片以保護生育功能。",
+      "flashcard_front": "卵巢內胚層竇瘤（yolk sac tumor）的手術與化療重點是什麼？",
+      "flashcard_back": "多為單側，對側卵巢正常不做常規切片；對含鉑化療（如 BEP）反應佳。",
+      "flashcard_summary": "卵黃囊瘤 -> 生長快、AFP、單側、對化療敏感、對側正常不切片",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n46 歲患者術中冷凍切片為卵巢亮細胞癌，且腫瘤與小腸沾黏並侵犯大腸，但未見肝表面與橫膈膜下轉移。卵巢癌治療核心不是因局部侵犯就放棄手術，而是評估能否達到最大程度腫瘤減積（cytoreductive surgery），再接續術後化學治療。\n\n【選項詳解】\n- A. 第 IV 期卵巢癌通常代表遠端轉移，如肝或脾實質轉移、胸腔積液細胞學陽性、肺或腹腔外器官轉移。題幹僅描述腸道受侵犯，未描述遠端轉移，因此不能判定為第 IV 期。\n- B. 局部侵犯腸道不代表不能手術。卵巢癌若可切除，標準策略是盡量移除所有肉眼可見腫瘤；只靠術後化療而不做可行的減積手術，並非本題最佳處置。\n- C. 這是正確答案。患者應接受腫瘤減積手術，必要時包括受侵犯或緊密沾黏的部分小腸、大腸切除，以達到最佳減積；術後再接受以鉑類為基礎的化學治療。\n- D. 骨盆腔臟器剜除術是非常廣泛的手術，常見適應症是特定復發或局部侵犯的骨盆腔癌症情境；本題卵巢癌的標準是減積手術，不是直接做包括膀胱、子宮、直腸全切除的剜除術。\n\n【核心考點】\n卵巢癌即使侵犯腸道，只要可達到理想減積，仍應積極進行腫瘤減積手術，必要時合併腸道切除，術後再給予鉑類化學治療。",
+      "key_point": "卵巢癌局部侵犯腸道時，標準治療是最大程度腫瘤減積，必要時切除受累腸段，術後接受鉑類化療。",
+      "flashcard_front": "卵巢癌術中發現腸道侵犯但無明確遠端轉移時，治療原則為何？",
+      "flashcard_back": "進行最大程度腫瘤減積手術，必要時部分小腸或大腸切除，術後給予化學治療。",
+      "flashcard_summary": "卵巢癌腸道侵犯 -> 減積手術含受累腸切除 + 術後化療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

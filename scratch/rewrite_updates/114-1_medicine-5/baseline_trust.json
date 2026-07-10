@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-07-10T04:43:50.637717+00:00",
+  "scope": {
+    "paths": [
+      "public/data/exams/114-1/medicine-5.json"
+    ],
+    "required_headings": [
+      "【題幹解析】",
+      "【選項詳解】",
+      "【核心考點】"
+    ],
+    "expected_option_labels": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "min_explanation_chars_no_space": 180,
+    "banned_template_phrases": [
+      "非本題答案",
+      "不是本題標準答案",
+      "回到題幹線索",
+      "請用題幹線索連回",
+      "題目中選項 A 所代表的鑑別或處置",
+      "不能最精準回答本題",
+      "最符合題幹",
+      "核心記憶點",
+      "定義、機轉、典型表現或處置原則"
+    ]
+  },
+  "summary": {
+    "dataset_count": 1,
+    "question_count": 80,
+    "risky_file_count": 0,
+    "issue_counts": {},
+    "phrase_counts": {},
+    "review_status_counts": {
+      "ai_generated": 80
+    },
+    "reviewed_rate": 0.0,
+    "top_risky_files": []
+  },
+  "incomplete_option_samples": [],
+  "missing_heading_samples": [],
+  "short_explanation_samples": [],
+  "files": [
+    {
+      "path": "public/data/exams/114-1/medicine-5.json",
+      "dataset_id": "114-1_medicine-5",
+      "title": "114 年第一次醫師國考：醫學（五）",
+      "question_count": 80,
+      "risk_score": 0,
+      "issue_counts": {},
+      "review_status_counts": {
+        "ai_generated": 80
+      },
+      "phrase_counts": {},
+      "samples": {
+        "missing_headings": [],
+        "incomplete_options": [],
+        "short_explanations": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-6.json",
+  "dataset_id": "114-1_medicine-6",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-6_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題考輪椅使用與復健輔具選配。手動輪椅不是只看診斷名稱，而是看上肢肌力、軀幹平衡、單側或雙側控制能力，以及長期推進造成的肌肉骨骼負荷。官方答案 B 成立，因為手動輪椅推進是高重複性的肩部負荷動作，常造成旋轉肌袖、肩峰下夾擠與肩痛。\n\n【選項詳解】\n- A. C5 脊髓損傷仍保留肩外展、屈肘等部分上肢功能，若搭配改良手推圈、手套或輔具，部分病人可在平地推動手動輪椅，因此說「無法自己推動」過於絕對。\n- B. 手動輪椅推進需要反覆肩屈曲、內收、內旋與推拉，長期會增加肩峰下夾擠、旋轉肌袖病變與肩關節疼痛風險，所以選配與訓練時必須注意肩部過度使用傷害。\n- C. 中風偏癱病人可用健側上肢推手推圈、健側下肢踩地控制方向與前進，稱為單手單腳推進法，因此偏癱不等於不能自行推動手動輪椅。\n- D. 手推圈直徑需依病人手掌大小、握力、肩肘活動度與推進效率選配；直徑太小會增加握力與推進負擔，不是越小越好。\n\n【核心考點】\n輪椅訓練要依功能能力選配：偏癱可用健側手腳推進，C5 脊髓損傷可藉改良輪椅部分自推；手動輪椅長期使用最常被考的併發症是肩部過度使用傷害。",
+      "key_point": "手動輪椅推進會造成肩部重複負荷，需預防旋轉肌袖與肩峰下夾擠；偏癱與部分 C5 脊髓損傷病人仍可能透過技巧或輔具自推。",
+      "flashcard_front": "手動輪椅：偏癱、C5 脊髓損傷與肩部併發症",
+      "flashcard_back": "手動輪椅推進容易造成肩關節過度使用傷害；偏癱者可用健側手腳推進，C5 脊髓損傷者可藉改良手推圈部分自推。",
+      "flashcard_summary": "手動輪椅 -> 自推能力看功能與輔具，長期推進要注意肩部過度使用傷害。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n跌倒後數小時內出現四肢無力與大小便失禁，提示急性脊髓病變；題幹又給胸椎 T2WI 影像，官方答案鎖定脊髓梗塞。脊髓梗塞最常牽涉前脊髓動脈供應區，因其供應脊髓前 2/3，包含前角細胞與皮質脊髓徑，所以「最常是 posterior spinal artery」為錯誤敘述。\n\n【選項詳解】\n- A. 急性在數小時內發生的運動無力、感覺或括約肌障礙，搭配脊髓 T2 高訊號，符合 spinal cord infarction 的臨床與影像表現。\n- B. 脊髓梗塞若侵犯前角，在軸位 T2WI 可見雙側前角對稱高訊號，形似 owl's eye sign，常用來提示前脊髓動脈供應區梗塞。\n- C. posterior spinal artery 供應脊髓後柱與部分後角，且通常為成對血管、側枝較多；脊髓梗塞較常見的是 anterior spinal artery 供應區受損，因此此敘述錯誤。\n- D. 脊髓主要縱向血供為一條 anterior spinal artery 與一對 posterior spinal arteries，並由節段性根髓動脈補充，這是正確的解剖概念。\n\n【核心考點】\n脊髓梗塞常考前脊髓動脈症候群：anterior spinal artery 供應脊髓前 2/3，受損可造成急性運動障礙與括約肌障礙；軸位 T2WI 的雙側前角高訊號可呈 owl's eye sign。",
+      "key_point": "脊髓梗塞最常累及 anterior spinal artery 供應區，而不是 posterior spinal artery；軸位 T2WI 可能出現 owl's eye sign。",
+      "flashcard_front": "Spinal cord infarction：最常受影響血管與 MRI 徵象",
+      "flashcard_back": "最常受影響的是 anterior spinal artery，供應脊髓前 2/3；前角受損時軸位 T2WI 可見 owl's eye sign。",
+      "flashcard_summary": "脊髓梗塞 -> anterior spinal artery 常見，owl's eye sign 提示前角受累。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": [
+        "影像題，建議人工確認原始 MRI 圖是否支持前脊髓動脈梗塞表現。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-6_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n28 歲女性突然腹部劇痛，顯影 CT 箭頭病灶依官方答案判讀為急性腹腔或骨盆腔出血相關病灶。題目問「最不可能」，因此要找最不像急性破裂出血表現的診斷。異位妊娠破裂、腹腔血腫、輸卵管破裂出血都可造成急性腹痛與血腹；單純子宮內膜異位較典型是慢性經痛、性交痛、不孕或卵巢內膜異位瘤，作為急性大量出血診斷較不貼切。\n\n【選項詳解】\n- A. 異位妊娠破裂可發生於生育年齡女性，典型表現為突發下腹痛、陰道出血、腹腔內出血甚至休克，因此是可能診斷。\n- B. 腹腔血腫是影像上急性出血後形成的血液聚積，若 CT 顯示高密度血液或血腫團塊，這是合理的影像描述。\n- C. 子宮內膜異位症主要造成週期性骨盆痛、經痛、性交痛與不孕；雖然內膜異位瘤破裂也可能急性腹痛，但「子宮內膜異位」本身不是最典型的急性血腹診斷，因此在官方邏輯下為最不可能。\n- D. 急性輸卵管破裂出血可造成突發腹痛與骨盆腔血液聚積，臨床上可與外孕或附件病灶相關，因此是可能診斷。\n\n【核心考點】\n生育年齡女性突發劇烈腹痛合併影像疑似血腹時，優先考慮會急性破裂出血的病因，例如異位妊娠破裂、輸卵管或附件出血；慢性骨盆疼痛疾病若沒有破裂或出血證據，診斷順位較低。",
+      "key_point": "急性腹痛合併疑似血腹時，外孕破裂、腹腔血腫與輸卵管破裂出血較合理；單純子宮內膜異位多為慢性病程。",
+      "flashcard_front": "生育年齡女性突發腹痛與 CT 疑似血腹：最不可能診斷",
+      "flashcard_back": "急性血腹優先想外孕破裂、附件或輸卵管破裂出血；單純子宮內膜異位症多為慢性經痛、性交痛與不孕。",
+      "flashcard_summary": "婦科急腹症 -> 急性血腹看破裂出血病因，單純子宮內膜異位較不典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": [
+        "影像題，建議人工對照原始 CT 箭頭病灶與官方圖說。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-6_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n70 歲男性有抽菸與高血壓，一週內反覆發生右手右腳突然無力，約 30 分鐘恢復，這是暫時性腦缺血發作（TIA）的典型情境。TIA 是近期中風高風險警訊，評估重點是找出頸動脈或顱內外血管狹窄、心因性栓塞與其他血管危險因子。EEG 主要用於癲癇或意識異常評估，對典型 TIA 的急迫血管風險分層幫助有限。\n\n【選項詳解】\n- A. 頸動脈超音波可快速評估頸動脈斑塊與狹窄程度，對反覆單側無力的 TIA 病人很重要，可能影響是否需頸動脈內膜切除或支架治療。\n- B. 頭頸部 CTA 可檢查顱內外大血管狹窄、阻塞或動脈病變，是 TIA 後急迫評估血管病因的重要工具。\n- C. 頸部聽診可偵測 carotid bruit，雖敏感度有限，但在床邊可提示頸動脈狹窄，仍屬於與本病因評估相關的檢查。\n- D. EEG 用於評估癲癇放電、非典型意識事件或疑似 Todd paralysis；本例有高血管風險與反覆短暫單側肢體無力，首要任務是腦血管評估，因此 EEG 最不迫切。\n\n【核心考點】\nTIA 的急性評估優先尋找可預防大中風的病因：頸動脈超音波、CTA/MRA、心電圖與心臟評估、危險因子控制；EEG 只有在臨床懷疑癲癇模仿 TIA 時才較有角色。",
+      "key_point": "反覆短暫單側無力是 TIA 警訊，急迫檢查以腦血管與頸動脈評估為主；EEG 不是典型 TIA 的優先檢查。",
+      "flashcard_front": "TIA 後最不迫切檢查：血管評估 vs EEG",
+      "flashcard_back": "TIA 急性期要找頸動脈或顱內外血管狹窄與心因性栓塞；EEG 主要查癲癇，對典型 TIA 最不迫切。",
+      "flashcard_summary": "TIA 評估 -> 優先血管影像與頸動脈檢查，EEG 留給疑似癲癇鑑別。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題考上運動神經元（UMN）與下運動神經元／周圍神經（LMN/peripheral nerve）病變的體徵差異。周圍神經麻痺會破壞反射弧的傳入或傳出路徑，典型表現為肌張力低下、肌肉萎縮、 fasciculation 與深腱反射降低或消失，因此 areflexia 是周圍神經麻痺的徵象。\n\n【選項詳解】\n- A. Babinski's sign 是錐體徑或上運動神經元受損的病理反射，代表足底刺激出現大腳趾背屈，不是周圍神經麻痺典型表現。\n- B. Hoffman's sign 常用於上運動神經元病變或頸髓病變的篩檢，屬於反射亢進相關徵象，不是周圍神經反射弧受損的典型結果。\n- C. brisk reflexes 代表深腱反射亢進，通常來自上運動神經元失去下行抑制，與周圍神經麻痺造成反射減弱的方向相反。\n- D. areflexia 是反射消失，符合周圍神經、神經根、前角細胞或其他下運動神經元病變造成反射弧中斷的表現。\n\n【核心考點】\nUMN 病變常見痙攣、反射亢進、Babinski 或 Hoffman 陽性；LMN 或周圍神經病變常見弛緩、肌萎縮、肌束顫動與深腱反射減弱或消失。",
+      "key_point": "周圍神經麻痺屬下運動神經元或反射弧病變，典型體徵是 hyporeflexia 或 areflexia；Babinski、Hoffman、brisk reflexes 屬 UMN 徵象。",
+      "flashcard_front": "周圍神經麻痺體徵：UMN vs LMN",
+      "flashcard_back": "周圍神經／LMN 病變會讓反射弧中斷，造成 areflexia；Babinski、Hoffman 與 brisk reflexes 指向 UMN 病變。",
+      "flashcard_summary": "神經定位 -> UMN 反射亢進與病理反射，LMN/周圍神經反射降低或消失。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n停經 7 週、尿液 beta-hCG 陽性、下腹痛與少量陰道出血，但經陰道超音波在子宮與附件都看不到 gestational sac，血中 beta-hCG 為 1300 mIU/mL，生命徵象穩定。這是 pregnancy of unknown location（PUL）的處理題。因 hCG 尚低於常用經陰道超音波 discriminatory zone，現在看不到胚囊不能直接診斷正常宮內孕，也不能排除異位妊娠；穩定病人應 48 小時後追蹤血中 beta-hCG 變化並重評估。\n\n【選項詳解】\n- A. 目前尚未在子宮內確認胚囊，且病人有腹痛與出血，不能直接當作正常懷孕安排例行產檢，否則可能漏掉異位妊娠。\n- B. 先兆性流產通常需先確認為宮內妊娠；本例妊娠位置未明，直接給黃體素或止血藥追蹤會延誤異位妊娠的診斷。\n- C. 異位妊娠仍在鑑別內；病人生命徵象穩定且 beta-hCG 低於或接近超音波判讀門檻，最適當是 48 小時後重測血中 beta-hCG，觀察是否如正常早期宮內孕般上升，或呈平台／下降而支持異常妊娠。\n- D. 早期妊娠疑似 PUL 的標準評估是連續 beta-hCG 與陰道超音波，不是腹部 CT；CT 有輻射暴露，也不能取代婦產科早期妊娠定位流程。\n\n【核心考點】\nPUL 且生命徵象穩定時，以 serial beta-hCG 搭配重複陰道超音波追蹤；在未確認宮內孕前要保留異位妊娠診斷，避免直接安胎或例行產檢。",
+      "key_point": "妊娠位置不明且生命徵象穩定時，若 hCG 尚未達明確可見宮內胚囊的門檻，應 48 小時後追蹤血中 beta-hCG 並重複評估。",
+      "flashcard_front": "Pregnancy of unknown location：hCG 1300、TVUS 未見胚囊",
+      "flashcard_back": "穩定 PUL 病人不可直接診斷正常懷孕或先兆性流產；應 48 小時重測 beta-hCG，必要時重複陰道超音波以排除異位妊娠。",
+      "flashcard_summary": "PUL 處置 -> 穩定者 serial beta-hCG，每 48 小時追蹤並重複超音波定位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n80 歲糖尿病病人外耳紅、腫、熱、痛，屬外耳炎高風險情境；若合併牙關緊閉，代表感染可能向深部組織、顳顎關節或顱底擴散，需警覺壞死性外耳炎（necrotizing external otitis）。這類病人不能只靠局部耳滴劑，需評估住院、培養、影像與全身性抗假單胞菌抗生素，因此 C 為最不適當。\n\n【選項詳解】\n- A. 嚴重外耳道感染可經外耳道周邊裂隙與軟組織擴散，侵犯腮腺區或顳顎關節，因此合併 parotitis 是可能的嚴重表現。\n- B. 外耳炎常見病原包括 Staphylococcus 與 Pseudomonas；在糖尿病或壞死性外耳炎中，Pseudomonas aeruginosa 尤其重要。\n- C. 外耳炎若合併牙關緊閉，表示病灶不只侷限於表淺外耳道，可能已有深部感染或顳顎關節受侵犯；單獨使用局部耳滴劑治療不足，應給予全身性抗生素並進一步評估。\n- D. 保持耳道乾燥、避免水進入耳內，可減少潮濕環境促進細菌生長，是外耳炎治療與預防復發的重要原則。\n\n【核心考點】\n糖尿病老人外耳炎要警覺壞死性外耳炎；Pseudomonas 是重要病原，若有牙關緊閉、顱神經症狀或深部侵犯徵象，需全身性抗生素與進一步評估，不可只用耳滴劑。",
+      "key_point": "糖尿病高齡外耳炎若合併牙關緊閉，代表可能深部侵犯或壞死性外耳炎，應用全身性抗生素，不可只用局部耳滴劑。",
+      "flashcard_front": "糖尿病老人外耳炎合併牙關緊閉：治療陷阱",
+      "flashcard_back": "牙關緊閉提示外耳炎可能侵犯深部組織或顳顎關節；需全身性抗假單胞菌治療與評估，不可單用耳滴劑。",
+      "flashcard_summary": "壞死性外耳炎 -> 糖尿病、高齡、Pseudomonas、深部侵犯時需全身治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考世界醫師會（WMA）對安樂死、醫師協助自殺，以及病人拒絕或撤除維生醫療的倫理區分。WMA 2019 年新版宣言仍反對安樂死與醫師協助自殺，但同時強調尊重病人自主與知情拒絕治療；當病人拒絕或要求撤除維生醫療後因疾病自然進展死亡，倫理上不同於醫師主動造成死亡。\n\n【選項詳解】\n- A. WMA 並未宣示支持安樂死或醫師協助自殺的倫理適當性；新版宣言仍將兩者視為醫學倫理上不可接受的作法。\n- B. WMA 沒有要求各國醫師組織推動安樂死或醫師協助自殺合法化；其重點是維持反對立場、尊重醫師良知與病人權利的界線。\n- C. 即使某些國家法律允許安樂死或醫師協助自殺，WMA 的倫理立場仍不等於支持醫師參與這些行為。\n- D. 病人有決定是否接受治療的自主權；若具決定能力的病人知情拒絕維生醫療，醫師尊重其決定而中止或撤除治療，屬尊重自主與避免不合比例醫療，與安樂死或協助自殺不同。\n\n【核心考點】\n醫學倫理要區分「主動造成死亡」與「尊重知情拒絕治療」。WMA 反對安樂死與醫師協助自殺，但支持有能力病人拒絕或撤除維生醫療的權利。",
+      "key_point": "WMA 反對安樂死與醫師協助自殺；但支持醫師尊重病人知情拒絕治療，包括撤除或中止維生醫療。",
+      "flashcard_front": "WMA：安樂死、醫師協助自殺與撤除維生醫療",
+      "flashcard_back": "WMA 仍反對安樂死與醫師協助自殺；尊重病人知情拒絕並撤除維生醫療，屬尊重自主，倫理上不同於主動造成死亡。",
+      "flashcard_summary": "WMA 立場 -> 反對安樂死/PAS，支持知情拒絕與撤除維生醫療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": [
+        "已依官方答案與 2019 WMA 宣言邏輯撰寫；建議主線必要時對照最新 WMA 原文。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-6_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n有效同意需同時具備接受告知、有決定能力與自願決定。本題問醫師作法何者錯誤，重點在知情同意的告知內容不能只偏向單一治療，也不能以壓力迫使病人選擇。完整告知應包含診斷、建議處置、風險、效益、不接受治療的後果，以及合理替代方案。\n\n【選項詳解】\n- A. 醫師應用病人能理解的語言、圖示或翻譯資源說明資訊，確保病人真的理解，而不是只完成形式上的簽名。\n- B. 只說明接受治療的好處與不接受治療的壞處，卻不說明替代選項，會讓病人無法比較不同處置的風險與效益，違反知情同意的完整告知要求。\n- C. 強烈恐懼、焦慮、疼痛或其他情緒狀態可能影響理解、推理、表達穩定選擇的能力；醫師應評估病人是否仍具決定能力，必要時延後非緊急決策或提供支持。\n- D. 以「不開刀就出院」威脅病人，是利用醫療資源與權力施壓，屬 coercion，會破壞自願性，因此不符合有效同意。\n\n【核心考點】\n知情同意的告知必須包含合理替代方案；有效同意還要求病人具決定能力並出於自願，威脅、操控或隱匿替代方案都會破壞同意效力。",
+      "key_point": "知情同意必須告知合理替代方案；病人需在理解、具決定能力且無脅迫下作決定。",
+      "flashcard_front": "有效知情同意：告知內容與自願性",
+      "flashcard_back": "醫師需說明診斷、建議處置、風險效益、不治療後果與替代方案；威脅病人接受治療會破壞自願性。",
+      "flashcard_summary": "知情同意 -> 告知完整、具決定能力、自願；替代方案不可省略。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n研究倫理中的易受傷害族群（vulnerable populations）是指自主能力、同意能力、社會地位、法律地位或經濟處境使其較容易受到剝削、脅迫或承擔不公平風險的受試者。題目問錯誤敘述，胚胎雖然不具一般成人的自主同意能力，但正因無法自我保護，在研究倫理中需受到特別保護，不能用「還不是人」排除其保護地位。\n\n【選項詳解】\n- A. 胚胎無法表達意願、無法理解研究風險，也無法自我保護；研究倫理與法規通常對胚胎研究設有嚴格限制，因此說胚胎不算易受傷害族群是錯誤的。\n- B. 胎兒無自主能力，兒童則因認知發展與法律同意能力未成熟，需要法定代理人同意與額外保護，屬典型易受傷害族群。\n- C. 孕婦參與研究時，風險評估同時涉及孕婦與胎兒，可能承受特殊生理與社會壓力，因此在研究倫理中需額外審查與保護。\n- D. 新移民可能因語言、文化、法律身分、醫療資訊落差或經濟弱勢，在招募與同意過程中較容易受不當影響，屬社會脈絡下的易受傷害族群。\n\n【核心考點】\n易受傷害族群不只由年齡判定，也包含自主或同意能力不足、法律或社會經濟弱勢，以及無法自我保護者；胚胎、胎兒、兒童、孕婦與新移民都需研究倫理上的額外保護。",
+      "key_point": "研究倫理的易受傷害族群包括胚胎、胎兒、兒童、孕婦與社會弱勢者；胚胎不能因無成人法律人格而排除保護。",
+      "flashcard_front": "研究倫理：易受傷害族群是否包含胚胎？",
+      "flashcard_back": "包含。胚胎無法同意或自我保護，研究倫理需額外保護；胎兒、兒童、孕婦與新移民也屬易受傷害族群。",
+      "flashcard_summary": "易受傷害族群 -> 看自主、同意與受剝削風險；胚胎也需倫理保護。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:17:06+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

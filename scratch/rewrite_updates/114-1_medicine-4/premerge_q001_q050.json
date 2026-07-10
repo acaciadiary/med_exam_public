@@ -1,0 +1,53 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-4.json",
+  "dataset_id": "114-1_medicine-4",
+  "merge": false,
+  "update_file_count": 5,
+  "question_count": 50,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 3,
+      "notes": [
+        "影像題，建議主線對照原始腹部 X 光確認是否有腸壁積氣或門靜脈積氣。"
+      ]
+    },
+    {
+      "question_number": 9,
+      "notes": [
+        "官方答案 A 採 HAV 潛伏期下限邏輯；15-19 天不是常見平均值，建議主線保留複核註記。"
+      ]
+    },
+    {
+      "question_number": 14,
+      "notes": [
+        "影像題，建議主線對照原始 CT 圖確認是否確實無液化膿腔。"
+      ]
+    },
+    {
+      "question_number": 18,
+      "notes": [
+        "選項 B 的「其餘凝血因子都較成人低」屬考試化簡；部分因子如 vWF 或 factor V 可能接近成人，主線可視官方資料是否需註記。"
+      ]
+    },
+    {
+      "question_number": 26,
+      "notes": [
+        "本題含血液抹片圖，建議主線對照原圖確認箭頭所指細胞型態。"
+      ]
+    },
+    {
+      "question_number": 38,
+      "notes": [
+        "影像題，建議主線對照原始圖片確認足底凹陷小孔。"
+      ]
+    },
+    {
+      "question_number": 40,
+      "notes": [
+        "影像與病理圖題，建議主線對照原始圖片確認 epidermotropism 線索。"
+      ]
+    }
+  ],
+  "errors": []
+}

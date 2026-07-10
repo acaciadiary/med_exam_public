@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-6.json",
+  "dataset_id": "114-2_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n題目問突發性耳聾（sudden sensorineural hearing loss, SSNHL）的不適當敘述。SSNHL 常以 72 小時內突然發生的感音神經性聽力下降表現，常用聽力圖上連續 3 個頻率下降至少 30 dB 作為判斷門檻。治療重點是及早使用類固醇，耳內注射類固醇可作為替代或救援治療，因此說耳內注射無效是不適當敘述。\n\n【選項詳解】\n- A. 連續三個頻率聽力下降 30 分貝以上，是 SSNHL 常用的聽力圖判斷標準，與臨床診斷概念相符。\n- B. 全身性類固醇可用口服或靜脈方式給予，是 SSNHL 早期治療常見策略，目的在降低內耳發炎或免疫相關傷害。\n- C. 耳內注射類固醇（intratympanic steroid）並非一般認為無效；它常用於不能接受全身類固醇者，或全身治療後聽力恢復不佳時的救援治療，因此這句話錯在否定了有效治療選項。\n- D. 高壓氧治療可增加內耳氧合，部分病人作為早期輔助治療或救援治療可能有幫助，雖然不是每位病人的必需治療，但不能說完全無效。\n\n【核心考點】\nSSNHL 的高分辨識點是 72 小時內突發、感音神經性聽損、連續 3 頻率下降至少 30 dB；類固醇治療包含全身性與耳內注射，高壓氧可作為部分情境下的輔助選項。",
+      "key_point": "突發性耳聾以突發感音神經性聽損與三連續頻率下降至少 30 dB 為要點；耳內注射類固醇可作替代或救援治療。",
+      "flashcard_front": "突發性耳聾：診斷門檻與治療",
+      "flashcard_back": "SSNHL 常以 72 小時內、連續 3 個頻率至少下降 30 dB 判斷；治療可用全身性類固醇，耳內注射類固醇可作替代或救援治療，高壓氧可作輔助。",
+      "flashcard_summary": "突發性耳聾 -> 耳內注射類固醇並非無效，可作替代或救援治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n題目問篩竇解剖的錯誤敘述。篩竇與鼻竇引流位置是常考陷阱：前篩竇、額竇與上頜竇多與中鼻道的 ostiomeatal complex 相關；後篩竇則引流至上鼻道，不會跟前篩竇、上頜竇、額竇全部一起經篩竇漏斗引流。\n\n【選項詳解】\n- A. 鼻丘（agger nasi cell）位在前篩區最前方，與額竇引流路徑及額隱窩解剖有關，這是正確的前篩竇解剖描述。\n- B. 把前後篩竇、上頜竇與額竇全部說成經篩竇漏斗引流是錯誤的；後篩竇主要開口於上鼻道，而不是經篩竇漏斗進入鼻腔。\n- C. 篩球（ethmoid bulla）是前篩竇最醒目的大型氣房之一，也是中鼻道內視鏡解剖的重要標誌，描述合理。\n- D. 中鼻甲基底板（basal lamella）是區分前篩竇與後篩竇的重要解剖界線，因此此敘述正確。\n\n【核心考點】\n鼻竇引流要把前後篩竇分開記：前篩竇與額竇、上頜竇多和中鼻道/ostiomeatal complex 相關；後篩竇主要引流到上鼻道。",
+      "key_point": "後篩竇主要引流至上鼻道，不能和前篩竇、上頜竇、額竇一概歸入篩竇漏斗。",
+      "flashcard_front": "篩竇引流與前後篩分界",
+      "flashcard_back": "鼻丘是前篩最前方氣房，篩球是前篩重要大型氣房，basal lamella 分隔前後篩；後篩竇主要引流到上鼻道。",
+      "flashcard_summary": "篩竇解剖 -> 後篩竇引流至上鼻道，不是全部經篩竇漏斗",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n題目問青少年鼻咽血管纖維瘤（juvenile nasopharyngeal angiofibroma, JNA）的錯誤敘述。JNA 是血管豐富、局部侵犯性的良性腫瘤，典型族群是青春期男性，常以鼻塞與反覆鼻出血表現。治療以手術切除為主，因出血風險高，術前栓塞供血動脈是常規考量。\n\n【選項詳解】\n- A. 鼻塞與流鼻血是 JNA 的典型臨床表現，腫瘤位於鼻咽與鼻腔附近且血管豐富，容易造成阻塞與反覆出血。\n- B. JNA 大多發生在 10 至 20 歲男性，不是年輕女性；此選項把好發性別寫反，因此是錯誤敘述。\n- C. 主要治療是手術切除；若病灶無法完整切除、殘留或復發且不適合再次手術時，放射線治療可作為處理選項，敘述方向可接受。\n- D. 內上頜動脈常是重要供血來源，術前栓塞可減少術中出血，是 JNA 手術前常見準備。\n\n【核心考點】\nJNA 的考試關鍵是青春期男性、鼻塞與反覆鼻出血、血管豐富、手術前常做供血動脈栓塞；若選項寫成年輕女性，要立刻警覺。",
+      "key_point": "青少年鼻咽血管纖維瘤典型發生於青春期男性，常見鼻塞與反覆鼻出血，術前常做供血動脈栓塞。",
+      "flashcard_front": "青少年鼻咽血管纖維瘤 JNA",
+      "flashcard_back": "JNA 好發於青春期男性，常見鼻塞、反覆鼻出血；因血管豐富，手術前常做內上頜動脈等供血動脈栓塞以降低出血。",
+      "flashcard_summary": "JNA -> 青春期男性、鼻塞鼻出血、術前栓塞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n題目問先天性氣管食道瘻管（tracheoesophageal fistula, TEF）的正確敘述。常見型態不是單純 H-type，而是食道閉鎖合併遠端氣管食道瘻。診斷與處置要依臨床狀況選擇；復發性瘻管在部分個案可嘗試內視鏡方式封閉或燒灼。\n\n【選項詳解】\n- A. H-type TEF 只是一種型態，並非最常見；最常見的是食道閉鎖合併遠端 TEF，所以這個敘述錯在把少見型態當成最常見。\n- B. 鋇劑吞嚥不一定能診斷所有 TEF，尤其細小或間歇性瘻管可能漏診，且新生兒有吸入風險，臨床上常需搭配其他影像或內視鏡評估。\n- C. EXIT 主要用於出生時預期會有嚴重氣道阻塞、需在胎盤循環下建立呼吸道的狀況；一般 TEF 不代表出生時必須安排 EXIT。\n- D. 開胸修補後若發生復發性瘻管，部分病人可考慮內視鏡治療，例如燒灼、黏著劑或夾閉等方式，因此這是可接受的正確敘述。\n\n【核心考點】\nTEF 常見型態是食道閉鎖合併遠端瘻管；H-type 不是最常見。復發性 TEF 可依位置與病況考慮再次手術或內視鏡封閉治療。",
+      "key_point": "先天性 TEF 最常見為食道閉鎖合併遠端瘻管；復發性瘻管可考慮內視鏡封閉或燒灼等治療。",
+      "flashcard_front": "先天性氣管食道瘻管 TEF",
+      "flashcard_back": "TEF 最常見型態不是 H-type，而是食道閉鎖合併遠端 TEF；復發性 TEF 可依病況考慮內視鏡治療或再次手術。",
+      "flashcard_summary": "TEF -> 最常見為食道閉鎖合併遠端瘻管；復發可考慮內視鏡治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n題目比較胃食道逆流（GERD）與喉咽逆流（LPR）。GERD 的典型症狀是胃灼熱、酸逆流，常在夜間平躺或飯後加重；LPR 則較常表現為聲音沙啞、清喉嚨、喉部異物感、慢性咳嗽等咽喉症狀。診斷不能只靠喉鏡外觀，pH 監測探頭位置也需符合檢查目的。\n\n【選項詳解】\n- A. 胃灼熱感較典型於 GERD，而 LPR 常以喉部症狀表現，例如聲音沙啞、慢性清喉嚨或咽喉異物感，因此此敘述錯在把典型症狀歸到 LPR。\n- B. GERD 在夜間平躺時容易惡化，因重力保護減少、胃酸更容易逆流至食道，這與典型臨床表現相符。\n- C. 咽喉內視鏡可看到後喉部紅腫、肉芽或水腫等線索，但這些表現特異性不足，不能作為 GERD 與 LPR 的共同黃金檢查。\n- D. 24 小時 pH 監測的探頭位置通常依 GERD 或 LPR 評估目的放在遠端食道、近端食道或咽喉區域；放在食道中段與胃賁門處不是此比較題的正確描述。\n\n【核心考點】\nGERD 以胃灼熱與酸逆流為主，常在夜間平躺加重；LPR 常以咽喉症狀表現，喉鏡外觀只能輔助，不能單獨當作確診依據。",
+      "key_point": "GERD 常有胃灼熱與夜間平躺加重；LPR 較常呈現聲音沙啞、清喉嚨、喉部異物感等咽喉症狀。",
+      "flashcard_front": "GERD 與 LPR 比較",
+      "flashcard_back": "GERD 典型為胃灼熱、酸逆流，夜間平躺可加重；LPR 常見聲音沙啞、清喉嚨、慢性咳嗽或喉部異物感，喉鏡不是單獨確診工具。",
+      "flashcard_summary": "GERD vs LPR -> GERD 夜間平躺加重；LPR 多咽喉症狀",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n題目問下咽癌（hypopharyngeal cancer）的錯誤敘述。下咽癌常見於梨狀窩（pyriform sinus），不是後咽壁最常見。下咽部淋巴引流豐富，病人常在較晚期才被發現，容易有黏膜下擴散與頸部淋巴結轉移。\n\n【選項詳解】\n- A. 下咽癌最常見部位通常是梨狀窩，而不是後咽壁；把後咽壁寫成最常發生位置，是此題的錯誤敘述。\n- B. 女性下咽或環後區癌症可和 Plummer-Vinson syndrome 相關，該症候群包含缺鐵性貧血、吞嚥困難與食道蹼，和上消化道鱗狀上皮癌風險有關。\n- C. 下咽癌可沿黏膜下層擴散，臨床邊界常比肉眼看到的病灶更廣，這也是治療規劃需要注意安全邊界的原因。\n- D. 下咽部淋巴引流容易到側頸部第二至四區淋巴結，臨床常見頸部轉移；thyrohyoid membrane 附近的通道與淋巴擴散路徑有關。\n\n【核心考點】\n下咽癌最常見位置是梨狀窩，特徵是晚期發現、黏膜下擴散與頸部淋巴結轉移風險高；女性環後區病灶要聯想到 Plummer-Vinson syndrome。",
+      "key_point": "下咽癌最常見於梨狀窩，常有黏膜下擴散與 level II-IV 頸部淋巴結轉移。",
+      "flashcard_front": "下咽癌常見部位與擴散",
+      "flashcard_back": "下咽癌最常見於梨狀窩，不是後咽壁；常見黏膜下擴散與 level II-IV 頸部淋巴轉移，女性環後區癌可和 Plummer-Vinson syndrome 相關。",
+      "flashcard_summary": "下咽癌 -> 梨狀窩最常見，易黏膜下擴散與頸部轉移",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n題目問胸大肌肌皮瓣（pectoralis major myocutaneous flap, PMMC flap）的主要血管供應。PMMC flap 是頭頸部重建常用的區域皮瓣，主要血管蒂來自 thoracoacromial artery 的 pectoral branch，因此選到 thoracoacromial artery。\n\n【選項詳解】\n- A. Superior thoracic artery 供應胸壁上部與鄰近區域，但不是 PMMC flap 設計時最重要的主要血管蒂。\n- B. Thoracoacromial artery，尤其其 pectoral branch，是胸大肌肌皮瓣的主要供血來源，能支撐肌肉與皮島的存活，是本題要抓的重建解剖重點。\n- C. Lateral thoracic artery 可參與胸壁與乳房外側血供，也可能提供輔助血流，但不是 PMMC flap 的主要軸心血管。\n- D. Subscapular artery 主要與肩胛下系統皮瓣相關，例如 latissimus dorsi 或 scapular/parascapular flap，不是胸大肌肌皮瓣的主要來源。\n\n【核心考點】\nPMMC flap 的主要血管蒂是 thoracoacromial artery 的 pectoral branch；看到胸大肌肌皮瓣，要直接連到 thoracoacromial artery。",
+      "key_point": "胸大肌肌皮瓣的主要供血來自 thoracoacromial artery 的 pectoral branch。",
+      "flashcard_front": "PMMC flap 血管供應",
+      "flashcard_back": "Pectoralis major myocutaneous flap 的主要血管蒂是 thoracoacromial artery 的 pectoral branch；subscapular 系統則偏向肩胛下與 latissimus dorsi 相關皮瓣。",
+      "flashcard_summary": "PMMC flap -> thoracoacromial artery pectoral branch",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n題目問「子宮韌帶連接」的除外選項，也就是要找不屬於子宮支持韌帶系統者。子宮常見支持結構包括 broad ligament、round ligament、cardinal ligament、uterosacral ligament 等；Cooper's ligament 不是子宮韌帶。\n\n【選項詳解】\n- A. Cooper's ligament 可指腹股溝區的 pectineal ligament，也常在乳房懸吊韌帶語境出現；它不是子宮的支持韌帶，因此是本題的除外選項。\n- B. Broad ligament 是包覆子宮、輸卵管與卵巢相關構造的腹膜皺襞，屬於子宮相關支持結構。\n- C. Round ligament 從子宮角走向腹股溝管與大陰唇，與子宮前傾位置的維持有關，是子宮韌帶之一。\n- D. Cardinal ligament 又稱 transverse cervical ligament，含子宮血管並提供子宮頸側方支持，是重要子宮支持韌帶。\n\n【核心考點】\n子宮支持韌帶常考 broad、round、cardinal、uterosacral；Cooper's ligament 屬於其他解剖語境，不是子宮韌帶。",
+      "key_point": "Cooper's ligament 不是子宮韌帶；子宮支持結構包括 broad、round、cardinal 與 uterosacral ligament。",
+      "flashcard_front": "子宮韌帶除外題",
+      "flashcard_back": "子宮韌帶包括 broad、round、cardinal、uterosacral 等；Cooper's ligament 不是子宮韌帶，常見於腹股溝 pectineal ligament 或乳房懸吊韌帶語境。",
+      "flashcard_summary": "子宮韌帶 -> Cooper's ligament 為除外",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n題目問懷孕期間胃腸系統變化的正確敘述。懷孕時子宮增大會讓闌尾位置往上、往外側移動；黃體素影響會使腸胃蠕動變慢、下食道括約肌張力下降，容易便祕與逆流。相較之下，單純懷孕期間胃排空通常沒有明顯改變；血清白蛋白則因血漿量增加而下降。\n\n【選項詳解】\n- A. 懷孕後期闌尾常被增大的子宮推向上方與外側，而不是往比正常解剖位置更低的地方移動，所以此敘述方向錯誤。\n- B. 懷孕期間食道與腸胃蠕動通常受黃體素影響而變慢，下食道括約肌張力下降，容易胃食道逆流；不是蠕動速度與幅度增加。\n- C. 胃排空時間在一般懷孕狀態多維持近似未孕狀態，臨床上真正需要特別擔心延遲與吸入風險的情境常是分娩、麻醉或使用止痛藥時，因此此敘述可接受。\n- D. 懷孕時血漿量增加造成稀釋效應，血清白蛋白濃度通常下降，不會維持完全不變。\n\n【核心考點】\n懷孕胃腸變化可用「蠕動變慢、逆流便祕增加、闌尾上外移、白蛋白被稀釋下降」來整理；一般懷孕本身不會明顯延長胃排空時間。",
+      "key_point": "一般懷孕期間胃排空多無明顯改變；闌尾上外移、食道腸胃蠕動變慢、白蛋白濃度下降。",
+      "flashcard_front": "懷孕期間胃腸系統變化",
+      "flashcard_back": "懷孕時闌尾可上外移，食道與腸胃蠕動變慢、逆流與便祕增加，血清白蛋白因稀釋下降；一般懷孕本身胃排空時間多無明顯改變。",
+      "flashcard_summary": "懷孕 GI 變化 -> 胃排空多無明顯改變，白蛋白下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n題幹描述懷孕 8 週、右側子宮外孕、低血壓 86/50 mmHg、心搏過速、臉色蒼白、反彈痛、大量骨盆腔積液與 hematocrit 27%。這是破裂性或高度懷疑破裂性子宮外孕合併腹腔內出血與休克，急診處置重點是立即復甦並安排緊急手術止血，不能等待、單純觀察或使用藥物治療。\n\n【選項詳解】\n- A. 病人已有休克與腹膜刺激徵象，延後到空腹時間足夠才手術會增加持續出血與死亡風險；緊急手術不應被禁食時間延誤。\n- B. 加護病房觀察無法處理正在出血的子宮外孕；此時需要輸液、備血與手術止血，而不是只把病人轉入監測環境。\n- C. Methotrexate 適用於血流動力學穩定、未破裂且符合條件的子宮外孕；本題已有低血壓、大量腹腔積液與腹膜刺激徵象，藥物治療太慢且不安全。\n- D. 緊急手術切除子宮外孕處並止血能直接處理出血來源；可依情況進行輸液、輸血與腹腔鏡或剖腹手術，是此病況下最適當的下一步。\n\n【核心考點】\n子宮外孕若出現血流動力學不穩定、腹膜刺激徵象或大量腹腔內出血，要立即復甦並手術止血；methotrexate 只適合穩定且未破裂的選定病人。",
+      "key_point": "破裂性子宮外孕合併休克或腹腔內出血時，需立即復甦並安排緊急手術止血，不能用 methotrexate 取代。",
+      "flashcard_front": "破裂性子宮外孕急診處置",
+      "flashcard_back": "子宮外孕合併低血壓、心搏過速、腹膜刺激徵象、大量骨盆腔積液或 Hct 下降，代表出血風險高，應立即復甦、備血並手術止血。",
+      "flashcard_summary": "破裂性子宮外孕 -> 休克或大量積液時緊急手術止血",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T14:42:24+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

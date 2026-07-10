@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-4.json",
+  "dataset_id": "114-1_medicine-4",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n3 歲男童有高燒、倦怠、陣發性腹痛與頻繁水瀉，接著排出血絲黏液便，代表腸黏膜受侵襲造成痢疾樣腸炎。沒有嘔吐使典型病毒性腸胃炎機率下降；沒有抗生素使用史也不支持困難梭狀桿菌感染。兒童高燒合併腹絞痛、血便或黏液便，最典型的病原是志賀氏桿菌（Shigella）。\n\n【選項詳解】\n- A. 輪狀病毒（rotavirus）多造成嬰幼兒發燒、嘔吐與大量水瀉，可導致脫水，但通常不以侵襲性黏液血便為主要表現。\n- B. 諾羅病毒（norovirus）常造成群聚性急性腸胃炎，嘔吐明顯並伴水瀉，病程短，較少造成高燒合併痢疾樣血絲黏液便。\n- C. 志賀氏桿菌（Shigella）會侵襲結腸黏膜，引起細菌性痢疾，典型為高燒、腹部絞痛、裏急後重與黏液血便，與題幹吻合。\n- D. 困難梭狀桿菌（Clostridium difficile）多見於抗生素使用後或醫療照護相關感染，常為水瀉或偽膜性腸炎；題幹明確沒有抗生素暴露史。\n\n【核心考點】\n兒童高燒、腹絞痛、黏液血便是侵襲性細菌性腸炎線索；志賀氏桿菌是細菌性痢疾的代表病原。病毒性腸胃炎偏向嘔吐與水瀉，困難梭狀桿菌通常要注意抗生素暴露史。",
+      "key_point": "兒童高燒合併腹絞痛與黏液血便，優先考慮志賀氏桿菌造成的細菌性痢疾。",
+      "flashcard_front": "兒童高燒、腹絞痛、黏液血便最典型病原？",
+      "flashcard_back": "志賀氏桿菌（Shigella）。典型造成細菌性痢疾，表現為高燒、腹痛、裏急後重與黏液血便。",
+      "flashcard_summary": "兒童痢疾樣腸炎 -> Shigella；病毒性腸胃炎多為嘔吐水瀉，C. difficile 常有抗生素暴露。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n題目問 ADPKD 與 ARPKD 何者敘述最不適當，重點是遺傳型態、好發年齡、腎外囊腫與基因定位。ADPKD 多由 PKD1（第 16 對染色體）或 PKD2（第 4 對染色體）突變造成；ARPKD 則與 PKHD1（第 6 對染色體）相關。因此把第 6 對染色體說成大部分 ADPKD 的基因缺陷，是把 ARPKD 的基因位置套到 ADPKD。\n\n【選項詳解】\n- A. ADPKD 是全身性纖毛病變相關疾病，除腎囊腫外，肝囊腫最常見，也可見胰臟、脾臟與女性生殖系統相關囊性病灶。\n- B. ARPKD 常在胎兒期或新生兒期表現，雙側腎臟腫大可造成胎兒尿量下降、羊水過少，進一步導致肺部發育不全。\n- C. 兩者都會破壞腎實質並活化腎素血管張力素系統，所以可出現血尿、高血壓與進行性腎功能惡化。\n- D. 大部分 ADPKD 是 PKD1 位於第 16 對染色體，少部分是 PKD2 位於第 4 對染色體；第 6 對染色體上的 PKHD1 是 ARPKD 的典型致病基因。\n\n【核心考點】\nADPKD：PKD1 chr16、PKD2 chr4，成人較常表現且可有肝囊腫。ARPKD：PKHD1 chr6，新生兒可有腎臟腫大、羊水過少與肺發育不全。",
+      "key_point": "ADPKD 的主要基因是 PKD1（第 16 對染色體）與 PKD2（第 4 對染色體）；ARPKD 的 PKHD1 位於第 6 對染色體。",
+      "flashcard_front": "ADPKD 與 ARPKD 的基因定位如何區分？",
+      "flashcard_back": "ADPKD：PKD1 在 chr16、PKD2 在 chr4；ARPKD：PKHD1 在 chr6。",
+      "flashcard_summary": "多囊腎基因 -> ADPKD chr16/chr4；ARPKD chr6，常見新生兒羊水過少與肺發育不全。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n急性鏈球菌感染後腎炎（APSGN）是鏈球菌感染後的免疫複合體腎絲球腎炎。它不是感染當下直接侵犯腎臟，而是經過潛伏期後發生，因此早期抗生素可治療鏈球菌、減少傳播並預防風濕熱，但不能可靠預防 APSGN。典型線索還包括學齡兒童、感染後 1-3 週出現可樂色尿，以及補體 C3 下降。\n\n【選項詳解】\n- A. APSGN 好發於約 5-12 歲學齡兒童，3 歲以下少見；年齡太小時要更謹慎尋找其他腎病原因。\n- B. 咽喉鏈球菌感染後通常約 1-2 週才出現血尿；若咽喉症狀同時或 1-3 天內血尿，較支持 IgA 腎病變的 synpharyngitic hematuria。\n- C. APSGN 主要透過 alternative complement pathway 活化，典型是 C3 與 CH50 下降，C4 多維持正常；C3、C4 同時明顯下降不是典型規則。\n- D. 早期抗生素能清除鏈球菌並預防急性風濕熱，但 APSGN 屬免疫反應相關疾病，抗生素治療鏈球菌後仍可能發生腎炎。\n\n【核心考點】\nAPSGN：學齡兒童、鏈球菌咽喉炎後 1-2 週或皮膚感染後 3-6 週出現血尿，補體以 C3 下降為主；抗生素可預防風濕熱，但不能可靠預防 APSGN。",
+      "key_point": "早期抗生素治療鏈球菌可預防風濕熱，但無法可靠減少急性鏈球菌感染後腎炎。",
+      "flashcard_front": "APSGN 的潛伏期、補體變化與抗生素預防重點？",
+      "flashcard_back": "咽喉炎後約 1-2 週、皮膚感染後約 3-6 週；C3 下降、C4 多正常；抗生素不可靠預防 APSGN。",
+      "flashcard_summary": "APSGN -> 感染後免疫腎炎；C3 低、C4 多正常；抗生素預防風濕熱但不可靠預防腎炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n5 歲女童有高燒與膿尿，抗生素治療 3 天仍高燒，代表泌尿道感染可能進展為腎實質局灶性感染。顯影 CT 若見腎實質局部楔形或團塊狀低顯影、但尚未形成明顯液化膿腔，典型診斷是急性大葉性腎盂腎炎（acute lobar nephronia，也稱 acute focal bacterial nephritis）。此病位於單純急性腎盂腎炎與腎膿瘍之間，退燒較慢且需較長療程抗生素。\n\n【選項詳解】\n- A. 急性腎絲球腎炎以血尿、蛋白尿、水腫與高血壓為主，不會以膿尿、持續高燒與腎實質局灶低顯影感染病灶作為典型表現。\n- B. 急性大葉性腎盂腎炎會在 CT 顯示局灶性腎實質發炎低顯影，尚無液化空腔；臨床常見高燒、膿尿且對初始抗生素退燒反應較慢。\n- C. 急性腎膿瘍通常已有液化膿腔，CT 會出現低密度液體集合、厚壁或環狀增強，嚴重時可能需要引流；題幹較符合未液化的局灶腎炎。\n- D. 急性腎梗塞可有楔形無顯影區，但通常與栓塞、凝血異常、突發腰痛或血尿相關，不會以膿尿和感染治療反應不佳作為主軸。\n\n【核心考點】\n急性大葉性腎盂腎炎的 CT 重點是局灶楔形或腫塊狀低顯影，沒有液化膿腔；若出現液體集合與環狀增強，才偏向腎膿瘍。",
+      "key_point": "兒童 UTI 高燒不退且顯影 CT 有局灶腎實質低顯影、無液化膿腔，考慮急性大葉性腎盂腎炎。",
+      "flashcard_front": "急性大葉性腎盂腎炎與腎膿瘍在 CT 上如何區分？",
+      "flashcard_back": "急性大葉性腎盂腎炎：局灶低顯影、無液化；腎膿瘍：液化膿腔、常有環狀增強。",
+      "flashcard_summary": "UTI 高燒不退 + CT 局灶低顯影無液化 -> acute lobar nephronia；有液化膿腔 -> renal abscess。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": [
+        "影像題，建議主線對照原始 CT 圖確認是否確實無液化膿腔。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n過敏性紫斑症（Henoch-Schonlein purpura, HSP；IgA vasculitis）是兒童常見的小血管炎。典型四聯徵為可觸摸紫斑、關節症狀、腹痛或腸胃道出血，以及腎臟受累。診斷重點是非血小板低下性紫斑與 IgA 免疫沉積的小血管炎，因此病理表現最能支持 C。\n\n【選項詳解】\n- A. HSP 的可觸摸紫斑多對稱分布於下肢、臀部與伸側受壓部位，和重力依賴部位有關；主要出現在上肢及軀幹並不典型。\n- B. HSP 是非血小板低下性紫斑，血小板數通常正常或因發炎反應上升；若血小板低下，要考慮 ITP、白血病或其他出血性疾病。\n- C. HSP 的病理為白血球碎裂性小血管炎，免疫螢光可見 IgA 為主的免疫沉積，是本病的核心病理特徵。\n- D. HSP 可合併腎炎，但不是所有病人都會有嚴重腎臟病變；類固醇可用於嚴重腹痛、關節痛或特定腎臟受累情境，不能作為所有病人一開始都應立即給予的處置。\n\n【核心考點】\nHSP/IgA vasculitis：下肢與臀部可觸摸紫斑、血小板正常、IgA 沉積小血管炎。類固醇主要針對嚴重症狀或特定腎臟受累，不是所有病例的預防性治療。",
+      "key_point": "HSP 是 IgA 沉積的小血管炎，紫斑多在下肢臀部且血小板通常正常。",
+      "flashcard_front": "HSP/IgA vasculitis 的病理與紫斑特色？",
+      "flashcard_back": "白血球碎裂性小血管炎伴 IgA 沉積；可觸摸紫斑多在下肢、臀部，且血小板通常正常。",
+      "flashcard_summary": "HSP -> IgA 小血管炎；下肢臀部 palpable purpura、platelet normal；類固醇不是所有病例常規預防腎炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n題目問兒童特發性關節炎（juvenile idiopathic arthritis, JIA）何者最不適當。JIA 定義是 16 歲以前發病、關節炎持續至少 6 週並排除其他原因；它是兒童常見慢性風濕病，需追蹤前葡萄膜炎。治療嚴重 JIA 的生物製劑包括 TNF-alpha、IL-1、IL-6 或 T-cell co-stimulation 相關藥物；Omalizumab 是抗 IgE 藥物，主要用於過敏性氣喘與慢性蕁麻疹，不是 JIA 標準生物製劑。\n\n【選項詳解】\n- A. JIA 的診斷定義包括 16 歲前發病，以及一個或多個關節腫痛、活動受限或發炎持續至少 6 週。\n- B. JIA 是兒童最常見的慢性風濕性疾病，臨床分型包含少關節型、多關節型、全身型等。\n- C. JIA 可合併慢性前葡萄膜炎，尤其少關節型、ANA 陽性與年幼女童風險較高，必須定期眼科裂隙燈檢查。\n- D. Omalizumab 是抗 IgE 單株抗體，用於過敏性氣喘、慢性自發性蕁麻疹等；嚴重 JIA 常用的是 etanercept、adalimumab、tocilizumab、anakinra/canakinumab 或 abatacept 等免疫標靶治療。\n\n【核心考點】\nJIA：16 歲前發病、關節炎至少 6 週、需篩檢前葡萄膜炎。JIA 生物製劑瞄準 TNF-alpha、IL-1、IL-6 或 T-cell co-stimulation；抗 IgE 的 omalizumab 不屬於 JIA 治療重點。",
+      "key_point": "Omalizumab 是抗 IgE 藥物，不是 JIA 的標準生物製劑；JIA 嚴重病例常用抗 TNF、抗 IL-6、抗 IL-1 等治療。",
+      "flashcard_front": "JIA 的定義與常見生物製劑方向？",
+      "flashcard_back": "16 歲前發病、關節炎 >=6 週；嚴重病例可用抗 TNF、抗 IL-6、抗 IL-1 或 abatacept，非 omalizumab。",
+      "flashcard_summary": "JIA -> age <16 + arthritis >=6 weeks + uveitis screening；biologics are anti-TNF/IL-6/IL-1, not anti-IgE.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n慢性蕁麻疹的核心是反覆風疹塊或血管性水腫超過 6 週，多數屬慢性自發性蕁麻疹，不一定能找到外在過敏原。它可與自體免疫相關，尤其自體免疫甲狀腺疾病，因此 B 是正確臨床連結。治療以第二代 H1 抗組織胺為第一線，控制不佳時可依指引增加劑量。\n\n【選項詳解】\n- A. 慢性蕁麻疹定義是反覆發作超過 6 週，不是 14 天；14 天仍屬急性或亞急性病程評估範圍。\n- B. 慢性自發性蕁麻疹可與自體免疫機轉相關，臨床上常注意自體免疫甲狀腺疾病，例如 Hashimoto thyroiditis 或 Graves disease。\n- C. 慢性蕁麻疹多不是單一食物或吸入過敏原造成，因此 serum specific IgE 不是常規必做檢查；檢驗應依病史懷疑方向選擇。\n- D. 第二代 H1 抗組織胺效果不足時，可在安全監測下逐步增加至最高約 4 倍常規劑量；固定不加量不符合常用治療階梯。\n\n【核心考點】\n慢性蕁麻疹定義為反覆風疹塊或血管性水腫超過 6 週；常與自體免疫甲狀腺疾病相關。第一線為第二代 H1 抗組織胺，控制不佳時可上調劑量。",
+      "key_point": "慢性蕁麻疹是反覆發作超過 6 週，可與自體免疫甲狀腺疾病相關；第二代抗組織胺可依反應上調劑量。",
+      "flashcard_front": "慢性蕁麻疹的時間定義與常見自體免疫關聯？",
+      "flashcard_back": "反覆風疹塊或血管性水腫超過 6 週；常與自體免疫甲狀腺疾病相關。",
+      "flashcard_summary": "Chronic urticaria -> >6 weeks, autoimmune thyroid association, second-generation antihistamine can be up-dosed.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n足月新生兒出生時血液學狀態與年長兒不同：紅血球較大、血紅素較高，之後才逐漸進入生理性貧血期；凝血系統則因肝臟合成能力與維生素 K 依賴因子較低，多數凝血因子低於成人，但第八因子與 von Willebrand factor 通常接近或高於成人。題目問最適當敘述，因此 B 的方向正確。\n\n【選項詳解】\n- A. 足月新生兒出生時 MCV 較學齡兒童大，血紅素也較高；生理性貧血通常在出生後 2-3 個月因紅血球生成素下降等因素出現。\n- B. 新生兒多數凝血因子，尤其維生素 K 依賴因子 II、VII、IX、X 與接觸因子，濃度低於成人；第八因子較接近成人水準，vWF 也相對充足。\n- C. Protein C 與 Protein S 是天然抗凝血蛋白，新生兒濃度或活性低於年長兒與成人，不是較高。\n- D. 新生兒血小板數通常可接近成人，但血小板黏附、聚集與釋放反應相對未成熟，功能不會比學齡兒童更佳。\n\n【核心考點】\n新生兒出生時 Hb 高、MCV 大；凝血因子多數低於成人，但第八因子與 vWF 相對接近成人。Protein C/S 與血小板功能在新生兒期較未成熟。",
+      "key_point": "足月新生兒多數凝血因子低於成人，但第八因子與 vWF 較接近成人；出生時 Hb 高且 MCV 大。",
+      "flashcard_front": "健康足月新生兒凝血因子有何高低特色？",
+      "flashcard_back": "多數肝臟合成凝血因子低於成人，但 factor VIII 與 vWF 接近成人；Protein C/S 較低。",
+      "flashcard_summary": "Neonatal hematology -> Hb high, MCV large; most coag factors low except factor VIII/vWF relatively preserved.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": [
+        "選項 B 的「其餘凝血因子都較成人低」屬考試化簡；部分因子如 vWF 或 factor V 可能接近成人，主線可視官方資料是否需註記。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n題目問兒童癌症何者最不適當。兒童癌症多數不是由明確先天遺傳症候群造成，而是偶發性體細胞突變與發育相關腫瘤生物學所致；真正可歸因於遺傳癌症症候群或先天性疾病者只占少數。因此 A 把比例顛倒，是錯誤敘述。\n\n【選項詳解】\n- A. 兒童癌症大多為偶發性，與先天遺傳疾病明確相關者只占少數；Down syndrome、Li-Fraumeni syndrome、RB1 相關視網膜母細胞瘤等是重要但不是多數。\n- B. 白血病，尤其急性淋巴性白血病，是臺灣與美國兒童最常見癌症類別之一，常居兒童癌症首位。\n- C. B 型肝炎疫苗可降低慢性 HBV 感染與帶原率，長期可降低兒童與年輕族群肝細胞癌發生率，臺灣經驗是重要公共衛生證據。\n- D. 青少年癌症譜與幼童不同，骨肉瘤、何杰金淋巴瘤、性腺腫瘤與部分上皮性癌症在青春期與青少年族群相對較常見。\n\n【核心考點】\n兒童癌症多數為偶發性，只有少數與已知先天遺傳症候群直接相關。兒童最常見癌症類別是白血病；B 肝疫苗可降低 HBV 相關肝細胞癌。",
+      "key_point": "兒童癌症多數為偶發性，只有少數與先天遺傳疾病或癌症症候群明確相關。",
+      "flashcard_front": "兒童癌症多數是偶發還是先天遺傳？最常見類別？",
+      "flashcard_back": "多數為偶發性；白血病是兒童最常見癌症類別之一。",
+      "flashcard_summary": "Pediatric cancer -> mostly sporadic, leukemia most common; HBV vaccination reduces pediatric HCC risk.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n3 歲男童發燒、輕度貧血，骨髓抽吸抹片出現細胞叢集形成薔薇狀構造，且圍繞纖維狀物質。小圓藍細胞圍繞中央神經纖維樣物質（neuropil）形成 Homer Wright pseudorosette，是神經母細胞瘤骨髓侵犯的經典病理線索。\n\n【選項詳解】\n- A. 神經母細胞瘤常見於幼兒，來自交感神經系統，可轉移到骨髓。骨髓抹片若見腫瘤細胞團圍繞中央 neuropil 的 Homer Wright pseudorosette，即支持此診斷。\n- B. 急性淋巴性白血病會在骨髓中出現大量淋巴芽細胞，通常是瀰漫性或片狀增生，不會形成圍繞神經纖維樣物質的 rosette。\n- C. 感染性單核球增多症由 EBV 引起，周邊血常見 atypical lymphocytes，臨床有發燒、咽炎與淋巴結腫大；不會出現骨髓腫瘤細胞 rosette。\n- D. 高雪氏症為葡萄糖腦苷脂酶缺乏，骨髓可見 Gaucher cells，胞漿呈皺摺紙樣或洋蔥皮樣外觀，而不是 Homer Wright pseudorosette。\n\n【核心考點】\nHomer Wright pseudorosette 是神經母細胞瘤的重要病理線索：腫瘤細胞圍繞中央 neuropil。Gaucher disease 則看 Gaucher cells 的皺摺紙樣胞漿。",
+      "key_point": "骨髓抹片出現 Homer Wright pseudorosette，提示神經母細胞瘤骨髓侵犯。",
+      "flashcard_front": "Homer Wright pseudorosette 在兒童骨髓抹片提示哪個腫瘤？",
+      "flashcard_back": "神經母細胞瘤；小圓藍細胞圍繞中央 neuropil 形成偽薔薇花結。",
+      "flashcard_summary": "Bone marrow rosette + neuropil -> neuroblastoma; Gaucher cells have wrinkled-paper cytoplasm.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n56歲女性患者，臨床上出現皮肌炎（dermatomyositis）的典型皮膚表徵（如雙上眼瞼的紫紅色斑 Gottron 氏徵、Gottron 氏丘疹，或肩頸部披肩樣紅疹 Shawl sign），此病會侵犯骨骼肌引起近端肌肉無力，因此臨床診斷皮肌炎時，血清肌肉酵素是評估肌肉受損程度最重要的檢驗項目。\n\n【選項詳解】\n- A. 紅斑性狼瘡(lupus erythematosus);抗核抗體(antinuclear antibodies, ANA)：雖然 SLE 的典型皮疹是臉部蝴蝶斑，ANA 的敏感性也極高，但題幹所示為皮肌炎特徵，且皮肌炎的主要肌肉病變需配合 CK 評估。\n- B. 皮肌炎(dermatomyositis);抗核抗體(antinuclear antibodies, ANA)：雖然多數皮肌炎患者 ANA 也呈陽性，但 ANA 不具肌肉特異性，亦無法反映肌肉發炎的活動度，非最重要的評估肌肉受損檢查。\n- C. 紅斑性狼瘡(lupus erythematosus);補體(complement)：補體下降主要與紅斑性狼瘡的活動性（特別是腎炎）有關，非此女性患者皮損之首要診斷。\n- D. 皮肌炎(dermatomyositis);肌胺酸激酶(creatine kinase, CK)：正確。皮肌炎的特徵是特異性皮膚疹合併近端對稱性肌無力。在其診斷與治療追蹤中，最重要且最常用的實驗室檢查為肌胺酸激酶（creatine kinase, CK），其數值高低能直接反映橫紋肌受損與發炎的嚴重程度。\n\n【核心考點】\n皮肌炎（Dermatomyositis）之診斷與監測：典型皮損包括 Gottron 氏丘疹、眼瞼紫紅斑；臨床評估核心為檢測肌胺酸激酶（CK）以監測肌肉發炎活動度。",
+      "key_point": "皮肌炎常以特異性皮損合併對稱性近端肌無力表現，臨床評估與監測首選肌胺酸激酶（CK）。",
+      "flashcard_front": "皮肌炎 (dermatomyositis) / 典型皮膚表徵 / 最重要肌肉活性評估指標",
+      "flashcard_back": "典型皮表徵為Gottron氏丘疹與眼瞼紫紅斑。其診斷與治療追蹤首選血清肌胺酸激酶(CK)，以直接反映骨骼肌發炎與受損程度。",
+      "flashcard_summary": "皮肌炎(dermatomyositis) -> Gottron氏丘疹/眼瞼紫紅斑 + 對稱性近端肌無力，評估肌肉受損首選血清肌胺酸激酶(CK)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題問何種疾病「最不可能」造成皮膚黑色素沉著（hypermelanosis / 色素沉澱）。這需要我們理解黑色素細胞活性受損或分佈異常的各類代謝性、內分泌性與遺傳性疾病。\n\n【選項詳解】\n- A. 愛迪生氏病(Addison disease)：由於原發性腎上腺功能不全，皮質醇分泌減少，負回饋刺激腦下垂體分泌大量的促腎上腺皮質激素（ACTH）和黑素細胞刺激素（MSH）。ACTH 與 MSH 的前體物相同，高濃度會強烈刺激黑色素細胞，導致全身皮膚與黏膜（特別是關節折痕、牙齦）顯著黑色素沉著。\n- B. 遲發性皮膚紫質症(porphyria cutanea tarda)：因尿紫質原去羧化酶缺陷導致紫質蓄積，皮膚對光敏感。光暴露部位除了水泡、瘢痕與多毛外，經常伴隨顯著的發炎後色素沉著（hypermelanosis）。\n- C. 維他命B12缺乏症(vitamin B12 deficiency)：臨床上常表現為大球性貧血與神經症狀。其皮膚病變常在手背、足背、指關節及口腔黏膜出現廣泛的色素沉著，機轉與維生素B12缺乏導致黑色素合成路徑的酪胺酸酶抑制物減少有關。\n- D. Waardenburg症候群(Waardenburg syndrome)：最不可能造成（正確答案）。Waardenburg症候群是一種體染色體顯性遺傳病，主要是因神經脊（neural crest）發育異常導致黑色素細胞分化或移行障礙，其特徵是皮膚與毛髮的「黑色素減少或缺失（hypomelanosis）」，如額前一撮白髮、異色瞳（藍眼珠）、皮膚白斑，並常合併感音性聽力障礙。\n\n【核心考點】\nWaardenburg 症候群的病生理與臨床：因神經脊黑色素細胞發育異常導致色素「缺失」（hypomelanosis，如白髮、白斑、異色瞳）而非沉著（hypermelanosis），並伴隨聽障。",
+      "key_point": "Waardenburg 症候群因神經脊發育異常導致黑色素細胞缺失，臨床表現為色素缺失（如白斑、白髮）而非色素沉著。",
+      "flashcard_front": "皮膚黑色素沉著 (hypermelanosis) vs. 缺失 (hypomelanosis) / Waardenburg 症候群與 Addison 氏病病理對比",
+      "flashcard_back": "Addison病（ACTH升高）引起色素沉著。Waardenburg症候群因神經脊細胞移行異常，導致色素「缺失」（如額前白髮、異色瞳）與感音性聽力障礙。",
+      "flashcard_summary": "Waardenburg症候群 -> 色素減退/缺失(hypomelanosis，白髮/白斑/藍眼珠) + 聽力障礙；Addison/紫質症/B12缺乏則引起色素沉著(hypermelanosis)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nSturge-Weber syndrome 是臉部葡萄酒色斑、同側軟腦膜血管畸形與眼部青光眼構成的神經皮膚症候群。題目要找不正確敘述；B 說癲癇機率不高，與 SWS 常見嬰幼兒期癲癇的臨床事實相反，因此可作為答案。另需注意 D 的基因敘述在現代分子醫學也有問題，SWS 典型為 GNAQ 體細胞嵌合突變，不是 EPHB4。\n\n【選項詳解】\n- A. 血管病變常發生在單側臉部三叉神經第一分枝支配的皮膚區域：正確。SWS 的臉部葡萄酒色斑常位於三叉神經 V1 支配區，尤其眼周與額部病灶較提示合併顱內軟腦膜血管畸形風險。\n- B. 病人伴有癲癇症的機率不高：錯誤。SWS 的顱內軟腦膜血管畸形會造成皮質缺血、鈣化與神經發育受損，癲癇相當常見，常在嬰幼兒期發作，且可能頑固難治。\n- C. 單側眼周皮膚發生血管病變時，此眼後續發生青光眼的機率很高：正確。V1 及眼瞼周圍葡萄酒色斑與同側青光眼風險增加有關，需眼科追蹤眼壓與視神經狀態。\n- D. 發生突變的基因是 EPHB4：此敘述也有疑義。Sturge-Weber syndrome 目前主要與 GNAQ 體細胞活化突變有關；EPHB4 較常連結於毛細血管畸形-動靜脈畸形症候群，並非 SWS 的典型致病基因。\n\n【核心考點】\nSturge-Weber syndrome 的高產考點是 V1 區葡萄酒色斑、同側軟腦膜血管畸形、癲癇、青光眼與 GNAQ 體細胞突變；看到「癲癇機率不高」或「EPHB4 為致病基因」都要提高警覺。",
+      "key_point": "Sturge-Weber syndrome 常見 V1 區葡萄酒色斑、同側軟腦膜血管畸形、癲癇與青光眼；典型分子病因為 GNAQ 體細胞突變。",
+      "flashcard_front": "Sturge-Weber syndrome 的典型表現與基因？",
+      "flashcard_back": "V1 區葡萄酒色斑、同側軟腦膜血管畸形、癲癇、青光眼；典型為 GNAQ 體細胞突變，非 EPHB4。",
+      "flashcard_summary": "Sturge-Weber syndrome -> V1 葡萄酒色斑、癲癇、青光眼、GNAQ 體細胞突變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "本題選項 B 與 D 皆有疑義：SWS 癲癇比例高，且現代分子病因為 GNAQ 體細胞突變而非 EPHB4；來源答案欄仍維持 B。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n急性缺血性腦中風的抗血栓治療包括抗血小板藥物（如 Aspirin, Clopidogrel）與抗凝血劑（如 Heparin, Warfarin）。正確區分兩者的常規適應症及禁忌症是神經內科核心。\n\n【選項詳解】\n- A. 未發生腦出血性轉型(hemorrhagic transformation)應在中風發生48小時內常規使用抗凝血劑(anticoagulant)：最不恰當（正確答案）。對於一般的非栓塞性急性缺血性腦中風，國際指引明確「不建議」在急性期（48小時內）常規進行全身性抗凝血治療（如使用靜脈注射 heparin），因為這不會改善預後，反而會顯著增加顱內出血或出血性轉型的風險。常規推薦的是在48小時內使用抗血小板藥物（Aspirin）。\n- B. 輕度缺血性中風,短期使用aspirin合併clopidogrel可減少中風復發的機會：恰當。根據 CHANCE 及 POINT 等大型臨床試驗，對於非心因性輕度缺血性中風（NIHSS ≤ 3）或高風險短暫性腦缺血（TIA），在中風發作24小時內給予雙重抗血小板治療（DAPT，Aspirin + Clopidogrel）持續21天，可顯著降低早期中風復發風險。\n- C. 急性大腦靜脈竇栓塞(cerebral venous sinus thrombosis)應優先考慮使用抗凝血劑(anticoagulant)：恰當。CVST 的標準第一線治療為抗凝血劑（如 LMWH 或是 heparin），即使頭部影像已合併有局部出血性梗塞，抗凝血劑治療依然安全且被優先推薦。\n- D. 頭頸部動脈剝離(arterial dissection),抗凝血劑(anticoagulant)和aspirin的療效相似：恰當。根據 CADISS 等臨床試驗，因頸動脈或椎動脈剝離引起的中風或 TIA，使用抗血小板藥物（Aspirin）與抗凝血劑在預防中風復發與死亡的效果上並無顯著差異。\n\n【核心考點】\n急性缺血性中風之藥物管理：急性期（48小時內）常規使用抗凝血劑為禁忌，應使用抗血小板劑。雙重抗血小板治療（DAPT）適用於輕度中風的短期預防。CVST 首選抗凝血劑。",
+      "key_point": "急性缺血性腦中風發生48小時內不建議常規使用抗凝血劑，以防引發致命性顱內出血；雙重抗血小板治療（DAPT）適用於輕度中風的短期防護。",
+      "flashcard_front": "急性缺血性腦中風 / 48小時內抗凝血劑常規使用規範 / 雙重抗血小板治療 (DAPT) 適應症",
+      "flashcard_back": "急性期48小時內「不常規」使用抗凝血劑，以防出血性轉型。輕度中風（NIHSS≤3）或高危TIA推薦短期使用 DAPT（21天）預防復發。",
+      "flashcard_summary": "缺血性中風急性期 -> 禁忌常規抗凝血劑，應給抗血小板；輕度中風 -> 24小時內給DAPT (Aspirin+Clopidogrel) 21天",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n70歲女性為癌症患者（易處於高凝血狀態），出現右腳無力，且 D-dimer 顯著升高達 16 mg/L（提示體內有活躍的血栓形成與纖維蛋白溶解）。MRI 顯示多發性皮質或皮質下病灶，DWI 顯示多發急性限制性擴散病灶。\n\n【選項詳解】\n- A. 多發性腦轉移：雖然肺癌易發生腦轉移，但轉移瘤在 MRI 顯影劑 T1 影像上典型表現為環狀顯影伴隨顯著周邊水腫，且 D-dimer 一般不會在無血栓的情況下如此顯著升高，DWI 亦非急性限制性擴散的典型均質表現。\n- B. 肺結核感染：結核性腦膜炎或結核瘤通常在腦底池有肉芽腫樣顯影，不符合多發性急性限制性擴散病灶的特徵。\n- C. 可逆性後腦病變症候群(posterior reversible encephalopathy syndrome, PRES)：主要由高血壓危象或免疫抑制劑引起，MRI 典型表現為雙側對稱性的後腦血管源性水腫（FLAIR 呈高訊號，但 DWI 通常無明顯急性缺血性限制）。\n- D. 多發性腦梗塞：正確。癌症患者常合併惡性腫瘤相關高凝血狀態（Trousseau syndrome），易在腦部多條血管支配區形成多發性栓塞，表現為多發性腦梗塞。此時 D-dimer 會異常升高，且腦部 MRI 之 DWI 序列能清楚顯示多發性的急性限制性擴散（急性腦梗塞呈高信號）病灶。\n\n【核心考點】\n癌症相關高凝血症（Trousseau 症候群）與多發性腦梗塞的診斷：D-dimer 異常升高提示血栓形成，DWI 上呈多發性限制性擴散高信號病灶支持急性腦梗塞診斷。",
+      "key_point": "肺癌患者 D-dimer 顯著升高伴多發性皮質限制性擴散病灶，高度提示惡性腫瘤高凝血狀態（Trousseau 症候群）導致的多發性腦梗塞。",
+      "flashcard_front": "癌症高凝血狀態 (Trousseau syndrome) / 急性多發性腦梗塞 / MRI DWI 影像與 D-dimer 臨床意義",
+      "flashcard_back": "癌症患者血液呈高凝狀態，易發生多發性腦梗塞。臨床上D-dimer顯著升高，腦部MRI之DWI呈多處急性高訊號（限制性擴散）。",
+      "flashcard_summary": "癌症高凝血(Trousseau syndrome) -> 多發性腦梗塞 + D-dimer異常升高，MRI的DWI序列呈多發性急性限制性擴散高信號",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題患者出現了交叉性的感覺障礙：同側（右側）顏面感覺喪失與對側（左側）肢體痛覺下降，並合併同側肢體失調與 Horner's syndrome。這是非常典型的延腦外側症候群（Lateral medullary syndrome，又稱 Wallenberg syndrome）。\n\n【選項詳解】\n- A. 右內側視丘(thalamus)：內側視丘受損主要引起對側（左側）全身性的感覺障礙，不會出現同側腦神經與對側身體的交叉性症狀，亦無 Horner 氏症候群。\n- B. 左內側中腦(midbrain)：內側中腦受損（如 Weber syndrome）會影響動眼神經（同側眼瞼下垂、外斜視）與對側肢體偏癱，不符合本題的交叉性感覺障礙與失調。\n- C. 左外側橋腦(pons)：左外側橋腦中風會引發同側（左側）臉部麻木（三叉神經根）與對側（右側）痛覺喪失，但本題患者的顏面麻木與 Horner 氏症候群皆位於「右側」，病灶應在右側。\n- D. 右外側延腦(medulla)：正確。右外側延腦受損（Wallenberg 症候群，通常因小腦後下動脈 PICA 或椎動脈外側支阻塞）會侵犯：(1) 右側三叉神經脊髓核：右臉痛溫覺喪失；(2) 右側脊髓視丘束：左側身體痛溫覺喪失（交叉性感覺障礙）；(3) 右側下小腦腳：右側肢體失調（ataxia）；(4) 右側下行交感神經纖維：右側 Horner's syndrome（瞳孔縮小、眼瞼下垂、無汗）。\n\n【核心考點】\n外側延腦症候群（Wallenberg syndrome）的臨床表現與解剖定位：小腦後下動脈（PICA）受損，臨床特徵為同側 Horner's 症候群、同側小腦失調、同側臉部痛溫覺喪失、對側身體痛溫覺喪失。",
+      "key_point": "右外側延腦受損（Wallenberg 症候群）典型表現為同側 Horner 氏症、同側臉部痛溫覺缺失、對側肢體痛溫覺缺失及同側肢體失調。",
+      "flashcard_front": "外側延腦症候群 (Wallenberg syndrome) / 受損血管 / 解剖受損構造與交叉性臨床症狀對應",
+      "flashcard_back": "由PICA或椎動脈阻塞引起。受損結構：三叉神經脊髓核（同側臉麻）、脊髓視丘束（對側身麻）、下小腦腳（同側失調）、交感神經（同側Horner's）。",
+      "flashcard_summary": "Wallenberg syndrome(外側延腦) -> PICA受損 + 同側Horner/同側臉部痛溫覺喪失/同側小腦失調 + 對側肢體痛溫覺喪失",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n36歲女性患者的臨床症狀：夜間躺下後兩小腿出現強烈的「非動不可」感，伴隨酸麻不適，活動或走動後症狀可暫時緩解。這是典型的不寧腿症候群（Restless Legs Syndrome, RLS，又稱 Willis-Ekbom 疾病）。\n\n【選項詳解】\n- A. 缺鐵性貧血(iron deficiency anemia)：相關。鐵是黑質多巴胺合成的重要輔因子，缺鐵性貧血是 RLS 最常見且已證實的次發性原因，補充鐵劑常能改善症狀。\n- B. 慢性腎臟病(chronic kidney disease)：相關。尿毒症患者合併不寧腿症候群的機率極高，約有 20%-50% 的洗腎患者受此困擾，機轉可能與尿毒素累積及中樞多巴胺功能異常有關。\n- C. 癲癇症(epilepsy)：最不可能相關（正確答案）。癲癇是腦部神經元異常放電引起的發作，與不寧腿症候群的病生理機制（基底核多巴胺通路異常、鐵缺乏）完全無關，亦非其誘發或共病因子。\n- D. 睡眠週期性肢體抽動症(periodic limb movements in sleep)：相關。PLMS 特徵為睡眠中下肢反覆、非自主的抽動。高達 80% 以上的不寧腿症候群（RLS）患者會合併有 PLMS，兩者具有高度重疊的病生理機制。\n\n【核心考點】\n不寧腿症候群（RLS）的診斷與病因：臨床四大診斷特徵（強烈活動腿的慾望、靜止加重、活動緩解、夜間惡化）。常見共病包括缺鐵、慢性腎臟病/尿毒症，且與 PLMS 高度相關，而與癲癇無關。",
+      "key_point": "不寧腿症候群（RLS）常與缺鐵性貧血、慢性腎臟病（尿毒症）及睡眠週期性肢體抽動症（PLMS）相關，與癲癇無關。",
+      "flashcard_front": "不寧腿症候群 (RLS) / 臨床診斷四大特徵 / 次發性病因與常見共病物",
+      "flashcard_back": "特徵為靜止或夜間躺床時下肢有強烈活動慾望，活動後暫時緩解。次發病因為缺鐵性貧血、慢性腎臟病。高達80%患者合併睡眠週期性肢體抽動症(PLMS)。",
+      "flashcard_summary": "不寧腿症候群(RLS)特徵 -> 躺下後小腿非動不可 + 活動緩解；次發病因 -> 缺鐵、尿毒症(CKD)；共病 -> 睡眠週期肢體抽動(PLMS)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題考抗癲癇藥物（AEDs）在特定共病患者（68歲老年人、肝硬化、高血壓及糖尿病等多重用藥）中的藥物動力學與安全性選擇。\n\n【選項詳解】\n- A. phenytoin：不合適。Phenytoin 主要經由肝臟代謝，在肝硬化患者中清除率會顯著降低；且其蛋白結合率高（高達90%），肝硬化導致的低白蛋白血症會使其游離藥物濃度上升而引起中毒；此外其藥物交互作用多，不利於高血壓/糖尿病患者。\n- B. valproic acid：不合適。Valproic acid 具有顯著的肝毒性（hepatotoxicity），且高度依賴肝臟代謝，是肝硬化患者的相對禁忌藥物。\n- C. levetiracetam：最為合適（正確答案）。Levetiracetam 主要經由腎臟排泄，不經由肝臟細胞色素 P450 系統代謝。因此它對肝臟無毒性且在肝功能不全時無需調整劑量；此外其血漿蛋白結合率極低（<10%），藥物交互作用極少，非常適合合併肝硬化及接受多重藥物治療的老年人。\n- D. perampanel：不合適。Perampanel 經由肝臟 CYP3A4 代謝，半衰期長，且有顯著的精神副作用（如易怒、攻擊性），在肝硬化患者中代謝會顯著減慢，非首選。\n\n【核心考點】\n抗癲癇藥物（AEDs）的臨床選擇：Levetiracetam 不經肝臟 P450 代謝、無肝毒性、藥物交互作用極少，是肝臟疾病及多重用藥患者的首選抗癲癇藥物。",
+      "key_point": "Levetiracetam 不經肝臟代謝，不具肝毒性且藥物交互作用極少，是肝硬化合併多重共病患者的首選抗癲癇藥物。",
+      "flashcard_front": "肝硬化病患之抗癲癇藥物選擇 / Levetiracetam 藥物動力學優勢 / 需避免之肝毒性藥物",
+      "flashcard_back": "首選 Levetiracetam，因其經腎排泄、不經肝臟 P450 代謝，且蛋白結合率低，無肝毒性。需避免具肝毒性且高蛋白結合的 Valproate 與 Phenytoin。",
+      "flashcard_summary": "肝病/多重用藥抗癲癇首選 -> Levetiracetam (不經肝臟代謝、蛋白結合率低、無肝毒性、交互作用極少)；禁忌 -> Valproate (肝毒性/代謝減慢)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n偏頭痛（migraine）的藥物治療分為兩大類：急性發作治療（abortive/acute treatment）與慢性預防治療（preventive treatment）。本題要求辨識非急性發作期使用的藥物。\n\n【選項詳解】\n- A. erenumab：正確（符合題意）。Erenumab 是一種針對 CGRP（降鈣素基因相關肽）接受器的單株抗體，為「預防性治療」藥物。其劑型為每個月皮下注射一次，用於降低偏頭痛的發作頻率與嚴重度，並不能用於急性偏頭痛發作時的即時止痛。\n- B. sumatriptan：是選擇性 5-HT1B/1D 接受器激動劑（triptan類），可收縮腦血管並抑制發炎，是中重度急性偏頭痛發作的第一線首選止痛藥。\n- C. dihydroergotamine：麥角胺類衍生物，為非選擇性 5-HT1 接受器激動劑，具血管收縮作用，是急性偏頭痛發作的傳統有效治療藥物。\n- D. prochlorperazine：屬於多巴胺接受器拮抗劑（抗多巴胺止吐藥）。在偏頭痛急性發作時，常作為輔助藥物靜脈或肌肉注射，能有效緩解偏頭痛伴隨的噁心嘔吐症狀，且其本身即具備緩解偏頭痛頭痛的效果。\n\n【核心考點】\n偏頭痛之藥物治療分類：(1) 急性治療：Triptans、Ergotamine、NSAIDs、抗多巴胺止吐藥（Prochlorperazine）；(2) 預防性治療：CGRP 單株抗體（Erenumab，每月皮下注射）、Beta 阻斷劑、抗癲癇藥（Topiramate）。",
+      "key_point": "Erenumab 為 CGRP 接受器單株抗體，屬於偏頭痛的預防性用藥，不適用於急性發作；Sumatriptan 與 Dihydroergotamine 為急性期血管收縮止痛藥。",
+      "flashcard_front": "偏頭痛治療藥物分類 / 急性期止痛藥 (Triptans & Ergot) / 預防性用藥 (CGRP單抗 Erenumab)",
+      "flashcard_back": "急性期止痛：Sumatriptan、麥角胺（Dihydroergotamine）及輔助止吐藥。預防性治療：Erenumab（抗CGRP受體單抗，非急性止痛藥）。",
+      "flashcard_summary": "偏頭痛急性期藥物 -> Triptans (Sumatriptan)、Ergotamine、Prochlorperazine；預防用藥 -> Erenumab (CGRP單株抗體，每月施打)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n20歲年輕女性，突發癲癇、精神症狀（幻覺、被害妄想）及特徵性的「臉部、口部不自主運動（orofacial dyskinesia）」，影像學（MRI）正常。這是一組高度提示自體免疫性腦炎的臨床特徵。\n\n【選項詳解】\n- A. 抗NMDA受體腦炎(anti-N-methyl-D-aspartate receptor encephalitis)：正確。抗 NMDA 受體腦炎好發於年輕女性（常合併卵巢畸胎瘤）。典型症狀進程包括：前驅感冒症狀、精神行為異常（妄想、幻覺）、癲癇發作、認知障礙、口面部不自主運動（orofacial dyskinesias）以及自律神經失調。早期 MRI 常無明顯異常。\n- B. 隱球菌腦膜炎(cryptococcal meningitis)：主要見於免疫低下（如 HIV）患者，臨床以慢性頭痛、發燒、腦壓增高為主，極少以急性幻覺妄想、口面部不自主運動為核心首發症狀。\n- C. 腸病毒腦炎(enterovirus encephalitis)：多見於兒童，急性起病，常有發燒、皮疹及腦膜刺激徵，極少在2週內表現為突出的口面部不自主運動與類精神分裂症的妄想。\n- D. 鏈球菌腦膜炎(streptococcal meningitis)：為急性細菌性腦膜炎，會有高燒、劇烈頭痛、意識障礙及明顯的腦膜刺激徵（頸部僵硬），與本題病程不符。\n\n【核心考點】\n抗 NMDA 受體腦炎的臨床特徵：好發於年輕女性，臨床表現為精神症狀、癲癇、以及特徵性的口面部不自主運動（orofacial dyskinesia），需篩檢有無卵巢畸胎瘤，早期 MRI 常呈陰性。",
+      "key_point": "抗 NMDA 受體腦炎好發於年輕女性，以突發精神異常、癲癇及特徵性的口部不自主抽搐（orofacial dyskinesia）起病，需篩檢卵巢畸胎瘤。",
+      "flashcard_front": "抗 NMDA 受體腦炎 / 好發族群與腫瘤關聯 / 精神與不自主運動 (orofacial dyskinesia) 特徵",
+      "flashcard_back": "好發於年輕女性，常與卵巢畸胎瘤相關。典型表現：急性妄想/幻覺、癲癇、及口面部不自主運動。早期腦部MRI通常正常。",
+      "flashcard_summary": "抗NMDA受體腦炎 -> 年輕女性好發(常合併卵巢畸胎瘤) + 精神異常/幻覺妄想 + 癲癇 + 口面部不自主運動(dyskinesia) + 早期MRI常正常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

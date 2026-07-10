@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 55,
+    "end": 55
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題考各類支架的適應症、優缺點與術後抗血栓治療。題幹是問哪一項敘述錯誤；D 把冠狀動脈塗藥支架（drug-eluting stent, DES）說成不需要預防血栓用藥，且把抗增生作用寫成血管內皮增生，這是錯誤重點。DES 的主要目的，是釋放 sirolimus、paclitaxel 或同類抗增生藥物，抑制血管平滑肌細胞遷移與增殖、減少新生內膜增生（neointimal hyperplasia），以降低支架內再狹窄；但因內皮化較慢，反而需要雙重抗血小板治療（DAPT）預防支架血栓。\n\n【選項詳解】\n- A. 錯誤敘述較少。良性消化道狹窄通常優先考慮擴張或可移除治療，長期放置支架容易有移位、肉芽組織增生、再阻塞等問題；若病人預期餘命短或手術風險高，支架才較常作為姑息或替代方式。\n- B. 錯誤敘述較少。膽道或泌尿道阻塞常可使用塑膠支架作暫時性引流，例如感染控制、等待 definitive treatment 或需日後取出／更換時；缺點是管徑較小、較易阻塞，所以常需追蹤更換。\n- C. 錯誤敘述較少。未覆膜金屬支架可讓組織向內生長而增加固定性，降低位移機會；但 tissue ingrowth 或 tumor ingrowth 也可能造成長期再阻塞，這正是金屬支架的限制之一。\n- D. 正確為本題錯誤選項。DES 的抗增生藥物主要抑制血管平滑肌細胞增殖與新生內膜增生，不是以促進或單純抑制內皮增生作為主要治療目標；同時 DES 會延遲支架表面內皮化，使支架血栓風險存在，因此術後需要 DAPT（如 aspirin 加 P2Y12 inhibitor）一段時間，而不是不需要抗血栓治療。\n\n【核心考點】\n冠狀動脈 DES 降低再狹窄的機轉，是抑制血管平滑肌增殖與新生內膜增生；因支架內皮化延遲，術後需 DAPT 預防支架血栓。題目若說 DES 不需預防血栓用藥，應判為錯誤。",
+      "key_point": "DES 主要抑制血管平滑肌增殖與新生內膜增生以降低再狹窄，但會延遲內皮化，因此術後需 DAPT 預防支架血栓。",
+      "flashcard_front": "冠狀動脈DES / 抗再狹窄機轉 / DAPT需求",
+      "flashcard_back": "DES 釋放抗增生藥物，主要抑制血管平滑肌細胞與新生內膜增生；因內皮化延遲，需雙重抗血小板治療預防支架血栓。",
+      "flashcard_summary": "DES -> 抑制平滑肌與新生內膜增生降低再狹窄；延遲內皮化，所以需DAPT。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T13:47:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

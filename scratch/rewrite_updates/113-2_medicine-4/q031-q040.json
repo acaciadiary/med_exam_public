@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\nDravet 症候群（又稱嬰兒嚴重肌陣攣性癲癇 SMEI）是一種罕見且嚴重的基因相關癲癇腦病變。\n\n【選項詳解】\n- A. 誘發痙攣的體溫通常比熱性痙攣低：正確。Dravet 症候群患兒對溫度極度敏感，溫水浴、環境溫度升高或輕微低溫（如37.5°C）即可誘發痙攣，觸發體溫明顯低於一般良性熱性痙攣的發燒定義。\n- B. 開始發生痙攣的年紀比多數的熱性痙攣小：正確。一般熱性痙攣好發於 6 個月至 5 歲（高峰在 1-2 歲）。而 Dravet 症候群通常在出生後第一年內（一般在 6 個月以前，常為 3-9 個月）即開始發病。\n- C. 疾病初期可能會出現局部熱性痙攣重積狀態(focal febrile status epilepticus)：正確。患者首次發作常以發燒誘發的單側、局部或全身性強直陣攣發作呈現，且發作時間極長，易演變成癲癇重積狀態（status epilepticus）。\n- D. 基因變異以CDKL5為主：最不適當（正確答案）。Dravet 症候群最核心的致病基因是 「SCN1A」（編碼電位敏感型鈉離子通道 α1 次單元的基因），約 80% 的患者可檢測出此基因的自發性突變。CDKL5 基因突變則主要與非典型 Rett 症候群及嬰兒早期癲癇性腦病變有關。\n\n【核心考點】\nDravet 症候群（SMEI）之臨床特徵與基因診斷：80% 突變發生在鈉離子通道基因 SCN1A；起病年齡極早（< 1歲），對熱極度敏感，易反覆發生熱性癲癇重積狀態。",
+      "key_point": "Dravet 症候群最主要的致病基因為 SCN1A（鈉通道缺陷），常在1歲內起病，對溫度變化極敏感且易產生癲癇重積狀態。",
+      "flashcard_front": "Dravet 症候群 (Dravet syndrome / SMEI) / 致病基因 / 早期臨床特徵",
+      "flashcard_back": "80%以上由鈉通道基因 SCN1A 突變引起。通常在1歲內起病，對溫度極敏感，輕微發熱甚至洗溫水澡即可誘發長時間的癲癇重積狀態。",
+      "flashcard_summary": "Dravet症候群 -> SCN1A基因突變(>80%) + 1歲內發病 + 極易被低溫/溫水誘發癲癇重積狀態(focal status)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n休克是組織灌流不足導致的細胞缺氧狀態。根據病生理機制，休克可分為低血容性、心因性、阻塞性與分布性四大類。官方因選項描述上的學術定義廣泛，將A與C均列為正確給分選項。\n\n【選項詳解】\n- A. 低血壓是休克的早期表現：適當（官方給分答案）。在「失代償性休克」或某些特殊休克（如嚴重分布性休克早期、或是老年人缺乏代償能力時），低血壓可能迅速出現。然而在多數兒科或年輕患者中，血壓維持是晚期代償失敗的指標，早期血壓可能正常（代償性休克）。\n- B. 張力型氣胸造成分布性休克(distributive shock)：錯誤。張力性氣胸會壓迫腔靜脈，阻礙靜脈回流，導致心臟無法有效泵血，屬於「阻塞性休克（obstructive shock）」，而非分布性休克。\n- C. 心搏過速是休克的早期表現：適當（官方給分答案）。在休克早期，人體透過交感神經興奮釋放兒茶酚胺，代償性增加心跳（心搏過速）以維持心輸出量與組織灌流，是代償性休克最重要且最常見的早期臨床表徵。\n- D. 過敏性反應造成阻塞性休克(obstructive shock)：錯誤。嚴重的過敏反應（anaphylaxis）釋放大量組織胺等發炎介質，導致全身微血管劇烈擴張、血管通透性增加及血流分佈異常，屬於典型的「分布性休克（distributive shock）」。\n\n【核心考點】\n休克的分類與臨床特徵：(1) 阻塞性休克：張力性氣胸、肺栓塞、心包膜填塞；(2) 分布性休克：過敏性、敗血性、神經源性。心搏過速是交感代償的早期表現，低血壓常代表進入失代償期。",
+      "key_point": "張力性氣胸導致阻塞性休克；過敏性休克屬於分布性休克；心搏過速是交感神經代償休克的早期重要表徵。",
+      "flashcard_front": "休克病生理分類 (Shock Classification) / 早期代償表現與晚期失代償 / 氣胸與過敏的休克歸類",
+      "flashcard_back": "張力性氣胸屬阻塞性休克；過敏反應屬分布性休克。代償早期以心搏過速、周邊血管收縮為主；血壓下降常提示進入晚期失代償休克。",
+      "flashcard_summary": "休克分類 -> 張力性氣胸/心包填塞屬阻塞性；過敏性/敗血性屬分布性。代償期表現 -> 心搏過速；失代償 -> 低血壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正為 A、C 均給分；兒科多數情境心搏過速是代償性休克早期表現，低血壓多代表代償失敗，但選項 A 仍被官方接受。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n高雪氏症（Gaucher disease）是一種因溶小體酵素缺乏導致的脂質代謝異常疾病。臨床上分為第一型（非神經型）、第二型（急性神經型）與第三型（慢性神經型）。\n\n【選項詳解】\n- A. 猶太人發生率最高：正確。高雪氏症第一型在德系猶太人（Ashkenazi Jews）中的盛行率極高，約為 1/850，顯著高於其他族群。\n- B. 常以快速神經退化為初始表現：最不適當（正確答案）。第一型高雪氏症的定義即為「非神經型（non-neuropathic）」，其病變局限於內臟，不會侵犯中樞神經系統，更不會以快速神經退化起病。患者的典型表現是肝脾腫大、貧血、血小板低下（骨髓浸潤）及骨骼病變。快速神經退化是第二型（嬰兒急性神經型）的典型表現。\n- C. 是因為acid β-glucosidase酵素活性缺乏導致：正確。高雪氏症是因編碼酸性β-葡萄糖甘酶（acid β-glucosidase）的基因突變，導致酵素活性不足，使得葡萄糖腦甘脂蓄積在巨噬細胞內。\n- D. 可以enzyme replacement therapy和bone marrow transplantation治療：正確。第一型高雪氏症對酵素替代療法（ERT，如 Imiglucerase）效果極佳，能顯著改善肝脾腫大與造血功能。骨髓移植（BMT）可根治此病，但因 ERT 的普及，目前僅在特殊情況下考慮。\n\n【核心考點】\n高雪氏症（Gaucher Disease）的分型與特徵：第一型為「非神經型」，不累及神經系統，好發於猶太人，表現為肝脾腫大與骨痛；致病酵素為 acid β-glucosidase；可透過酵素替代療法（ERT）治療。",
+      "key_point": "第一型高雪氏症屬於非神經型，主要累及肝、脾與骨骼，不會出現神經退化症狀；致病基因為 acid β-glucosidase 缺陷。",
+      "flashcard_front": "高雪氏症第一型 (Gaucher disease type 1) / 核心臨床分型與神經症狀 / 致病酵素與治療方式",
+      "flashcard_back": "為「非神經型」，以肝脾腫大、骨骼痛、血小板低下起病。因 acid β-glucosidase 缺乏所致，好發於德系猶太人，主要治療為酵素替代療法(ERT)。",
+      "flashcard_summary": "高雪氏症第一型 -> 非神經型(無神經退化) + 肝脾腫大/骨痛 + acid β-glucosidase缺乏 + 德系猶太人好發 + 可ERT治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n蕁麻疹是肥大細胞（mast cells）活化釋放組織胺，導致真皮淺層水腫的常見皮膚病。掌握其急慢性定義、病理與多線治療指引是皮膚科學與過敏免疫科的重點。\n\n【選項詳解】\n- A. 臨床上急性與慢性蕁麻疹的區分以六週做為分界：正確。風疹塊反覆發作的時間小於6週為急性，大於或等於6週則定義為慢性蕁麻疹。\n- B. 蕁麻疹可能與血管性水腫(angioedema)一起出現：正確。兩者病理機制相似，但蕁麻疹發生在真皮淺層，血管性水腫則侵犯真皮深層及皮下組織/黏膜下組織，常合併出現。\n- C. 與第一型過敏反應(type I hypersensitivity)相關：正確。急性蕁麻疹常由食物、藥物或昆蟲叮咬引起，其分子機制常經由 IgE 介導的肥大細胞脫顆粒，屬於經典的第一型（立即型）過敏反應。\n- D. 慢性蕁麻疹的第一線治療為環孢素(cyclosporine)：錯誤（符合題意）。慢性蕁麻疹的第一線治療為「新型第二代非鎮靜性抗組織胺（non-sedating H1-antihistamines）」。環孢素（cyclosporine A）屬於強效免疫抑制劑，副作用較多，僅用於對高劑量抗組織胺及單株抗體（Omalizumab）皆無效的頑固性重度患者（第三或第四線治療）。\n\n【核心考點】\n蕁麻疹的臨床管理：急慢性以6週為界；病理為第一型過敏反應，常合併血管性水腫；第一線藥物為二代抗組織胺，環孢素為後線治療。",
+      "key_point": "慢性蕁麻疹的第一線治療為第二代非鎮靜性抗組織胺，環孢素為頑固性患者的後線免疫抑制療法。",
+      "flashcard_front": "蕁麻疹 (urticaria) / 急慢性分界定義 / 臨床治療指引藥物順序 (抗組織胺與環孢素角色)",
+      "flashcard_back": "反覆發作以6週為急慢性分界。第一線治療為第二代非鎮靜性H1抗組織胺。環孢素為後線免疫抑制劑，用於抗組織胺與單株抗體治療失敗的頑固病例。",
+      "flashcard_summary": "慢性蕁麻疹治療 -> 第一線為二代非鎮靜抗組織胺，無效可加至4倍劑量，環孢素(Cyclosporine)為後線藥物(三/四線)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n患者病程長達十餘年，皮疹分佈在背部、頭皮、手肘與膝蓋等典型「伸側（extensor surfaces）」與易受摩擦部位，臨床上呈現邊界清楚的斑塊，表面覆蓋銀白色鱗屑。這是經典的尋常性乾癬（psoriasis vulgaris）。\n\n【選項詳解】\n- A. 尋常性乾癬(psoriasis vulgaris)：正確。乾癬（牛皮癬）的典型病灶為邊界鮮明的紅色斑塊，並覆有厚層銀白鱗屑，好發於頭皮、手肘、膝蓋與背部等摩擦伸側，病程多慢性反覆，高度符合題幹。\n- B. 尋常性魚鱗癬(ichthyosis vulgaris)：為遺傳性皮膚角化異常，主要在雙下肢前側出現魚鱗狀脫屑，頭皮與背部非其典型好發部位，亦無發炎性紅斑塊。\n- C. 蕁麻疹(urticaria)：皮損為風疹塊，特色為來去如風，單一病灶通常在 24 小時內消退，不會在固定部位持續十餘年。\n- D. 玫瑰糠疹(pityriasis rosea)：是一種急性自限性皮疹，典型表現為先出現前驅「先驅斑（herald patch）」，隨後在軀幹出現聖誕樹樣分佈的橢圓形糠狀脫屑紅疹，一般在 6 至 8 週內自行消退，不可能持續十多年。\n\n【核心考點】\n乾癬（牛皮癬）的特徵皮損與分部：邊界清楚之紅斑伴隨銀白色脫屑，好發於頭皮、背部、手肘與膝關節伸側，病程長且易反覆。",
+      "key_point": "乾癬的典型特徵為邊界清楚的紅斑斑塊伴銀白色鱗屑，好發於手肘、膝蓋、頭皮與背部伸側，病程長且易慢性復發。",
+      "flashcard_front": "尋常性乾癬 (psoriasis vulgaris) / 典型皮損型態 / 好發身體部位與病程特徵",
+      "flashcard_back": "典型皮損為邊界鮮明的紅斑斑塊覆以銀白色鱗屑。好發於手肘、膝蓋（伸側）、頭皮與背部等易磨損部位，呈慢性反覆病程。",
+      "flashcard_summary": "乾癬(psoriasis)病灶 -> 邊界清楚之紅斑 + 厚銀白鱗屑，好發伸側(手肘、膝蓋、頭皮、背部)，屬慢性發炎病程",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n接觸性皮膚炎分為刺激性（ICD）與過敏性（ACD）兩大類。掌握兩者的免疫機制（是否需致敏反應）、盛行率及臨床診斷工具（貼膚試驗）是皮膚科學的核心。\n\n【選項詳解】\n- A. 前者比較常見：錯誤。在所有接觸性皮膚炎中，刺激性接觸性皮膚炎（ICD）佔約 80%，遠比過敏性接觸性皮膚炎（ACD，佔約 20%）更為常見。\n- B. 後者比較嚴重：錯誤。嚴重度取決於接觸物質的濃度與暴露時間，過敏性接觸性皮膚炎（ACD）因為是免疫反應，有時極微量的過敏原即可引發全身或大面積的嚴重水泡與劇烈搔癢，不一定比 ICD 輕微。\n- C. 前者需要先前的暴露以造成致敏：正確。過敏性接觸性皮膚炎（ACD）屬於第四型（遲發型）細胞介導過敏反應。患者首次接觸抗原時僅會產生致敏化（sensitization），必須在「第二次或後續再次暴露」於相同抗原時，才會觸發 T 細胞免疫反應而發病。\n- D. 後者可用貼膚試驗(patch testing)確診：錯誤。貼膚試驗（patch testing）是利用抗原特異性免疫反應，用來確診「過敏性接觸性皮膚炎（ACD）」的黃金標準工具；刺激性接觸性皮膚炎（ICD）是由於物理或化學物質直接破壞皮膚屏障，不涉及特異性免疫致敏，貼膚試驗無法用於診斷 ICD。\n\n【核心考點】\n接觸性皮膚炎之診斷與病理：(1) 刺激性接觸性皮膚炎（ICD）：最常見，直接損傷，非免疫介導；(2) 過敏性接觸性皮膚炎（ACD）：第四型過敏反應，首次暴露致敏，再次暴露發病，利用貼膚試驗（patch test）確診。",
+      "key_point": "過敏性接觸性皮膚炎（ACD）為第四型過敏反應，需首次暴露致敏，二次暴露發病，可用貼膚試驗確診；刺激性接觸性皮膚炎（ICD）最常見，非免疫介導。",
+      "flashcard_front": "刺激性 (ICD) vs. 過敏性接触性皮膚炎 (ACD) / 盛行率與病理機制 / 貼膚試驗 (patch test) 的診斷應用",
+      "flashcard_back": "ICD最常見（80%），因毒性/理化物質直接破壞屏障所致。ACD（20%）為第四型遲發性超敏反應，需先前暴露致敏，可用貼膚試驗診斷。",
+      "flashcard_summary": "ICD vs. ACD -> ICD最常見(佔80%)，屬直接理化損傷；ACD為第四型過敏，需先暴露致敏，可用貼膚試驗(patch test)診斷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n馬拉色菌（Malassezia，舊稱皮屑芽孢菌）是人體皮膚表面常見的共生真菌，屬嗜脂性。當局部環境溫熱潮濕或皮脂分泌旺盛時會過度增殖，引發多種皮膚疾病。\n\n【選項詳解】\n- A. 汗斑(pityriasis versicolor)：又稱花斑癬，是由馬拉色菌屬（如 M. globosa）引起的淺表真菌感染，在皮膚上產生脫屑性淡褐色或發白斑塊，直接鏡檢可見經典的「義大利麵加肉丸（spaghetti and meatballs）」菌絲與胞子。\n- B. 新生兒頭部膿疱病(neonatal cephalic pustulosis)：是一種發生在新生兒頭部及臉部的無菌性膿疱，近年研究證實與馬拉色菌（特別是 M. sympodialis 或 M. furfur）在毛囊的定殖與免疫反應密切相關，抗真菌藥物治療有效。\n- C. 脂漏性皮膚炎(seborrheic dermatitis)：發病機制與皮脂腺分泌旺盛及馬拉色菌的代謝產物（游離脂肪酸）刺激皮膚產生發炎反應有關，抗黴菌洗髮精或藥膏是核心治療。\n- D. 凹陷性角質溶解症(pitted keratolysis)：正確（較無關係）。凹陷性角質溶解症是一種常見於多汗足底的「細菌」感染，主要由棒狀桿菌屬（Corynebacterium）或 Kytococcus sedentarius 等細菌分泌蛋白酶溶解足底角質層所致，臨床上表現為足底多處火山口狀的小凹陷及惡臭，與馬拉色菌（真菌）無關。\n\n【核心考點】\n馬拉色菌（Malassezia）相關皮損：汗斑、脂漏性皮膚炎、新生兒頭部膿疱症。凹陷性角質溶解症（pitted keratolysis）為足底棒狀桿菌等細菌感染，非真菌所致。",
+      "key_point": "凹陷性角質溶解症（pitted keratolysis）為足底棒狀桿菌等細菌感染，與馬拉色菌（真菌）無關；汗斑、脂漏性皮膚炎均與馬拉色菌增殖相關。",
+      "flashcard_front": "馬拉色菌 (Malassezia) 共生真菌 / 相關皮膚疾病 / 凹陷性角質溶解症 (pitted keratolysis) 病原辨析",
+      "flashcard_back": "馬拉色菌與汗斑、脂漏性皮膚炎、新生兒頭部膿疱病密切相關。凹陷性角質溶解症為足底「棒狀桿菌」等細菌感染溶解角質所致。",
+      "flashcard_summary": "馬拉色菌相關疾病 -> 汗斑、脂漏性皮膚炎、新生兒頭部膿疱病；凹陷性角質溶解症 -> 足底棒狀桿菌(細菌)感染所致",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n患者有異位性皮膚炎（濕疹）病史，當皮膚屏障受損時，易繼發特定病原體感染。本題描述原本的濕疹病灶突然惡化，出現多個伴隨刺痛感的圓形凹心水泡。這是經典的疱疹性濕疹（eczema herpeticum）。\n\n【選項詳解】\n- A. 膿痂疹(impetigo)：是金黃色葡萄球菌或鏈球菌引起的表淺細菌感染，典型表現為蜜黃色痂皮（honey-colored crusts），而非廣泛性刺痛性的凹心小水泡。\n- B. 疱疹性濕疹(eczema herpeticum)：正確。又稱 Kaposi varicelliform eruption，是異位性皮膚炎患者繼發單純疱疹病毒（HSV-1 或 HSV-2）感染的嚴重皮膚急症。臨床表現為在原有濕疹處突發廣泛性、成群分布、有刺痛感的圓形凹心水泡（umbilicated vesicles）或鑿孔樣潰瘍，常伴隨發燒，需及時給予抗病毒藥物（Acyclovir）治療。\n- C. 水痘(varicella)：水痘皮疹呈向心性分布（軀幹為主擴散至四肢），表現為紅斑上的水泡（dewdrops on rose petals），但不會特異性地高度局限並密集成群分布在原本的異位性皮膚炎病灶區。\n- D. 葡萄球菌皮膚燙傷樣症候群(staphylococcal scalded skin syndrome)：是由金黃色葡萄球菌產生的表皮剝脫毒素引起的全身性紅斑與表皮鬆脫（Nikolsky sign 陽性），外觀如燙傷，非局灶凹心疱疹水泡。\n\n【核心考點】\n疱疹性濕疹（Eczema Herpeticum）的診斷與處置：異位性皮膚炎繼發單純疱疹病毒（HSV）感染，皮損特徵為原有濕疹區出現群聚、刺痛性的凹心水泡，屬於醫療急症，須立即使用口服或靜脈 Acyclovir。",
+      "key_point": "疱疹性濕疹（eczema herpeticum）為濕疹患者繼發 HSV 感染，表現為原有皮損區突發廣泛、刺痛的圓形凹心水泡，是需立即給予 Acyclovir 的兒科急症。",
+      "flashcard_front": "疱疹性濕疹 (eczema herpeticum) / 誘發宿主與病原體 / 臨床水泡特徵與第一線治療",
+      "flashcard_back": "為異位性皮膚炎患者繼發單純疱疹病毒(HSV)感染。皮損呈群聚、具刺痛性的「凹心水泡（umbilicated）」。需立即使用 Acyclovir 治療。",
+      "flashcard_summary": "疱疹性濕疹 -> 異位性皮膚炎繼發HSV-1感染 + 突發廣泛性、刺痛性、群聚凹心水泡(umbilicated) + 需立即使用Acyclovir",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n3歲男童腳掌有慢慢變大的皮下腫塊，摳抓或摩擦該腫塊後，病灶會迅速出現暫時性紅腫、搔癢及膨疹（蕁麻疹樣反應）。這是因為腫瘤細胞受到機械性刺激後，釋放了大量的組織胺等血管活性物質所致。\n\n【選項詳解】\n- A. 脂肪瘤(lipoma)：為常見的良性脂肪組織腫瘤，質地柔軟有彈性，摩擦或摳抓後不會產生紅腫、風疹塊或搔癢反應。\n- B. 肥大細胞瘤(mastocytoma)：正確。肥大細胞瘤（孤立性皮膚肥大細胞增生症 solitary cutaneous mastocytosis）多於嬰幼兒期發病。其腫瘤內聚集了大量的肥大細胞，當受到摩擦、摳抓等物理刺激時，肥大細胞會脫顆粒並釋放組織胺，導致病灶局部出現紅斑、風疹塊與搔癢（Darier sign 陽性）。\n- C. 血管纖維瘤(angiofibroma)：常見於結節性硬化症（TSC）患者的臉部，呈紅褐色丘疹，摳抓後可能出血，但不會引發組織胺釋放的膨疹反應。\n- D. 平滑肌瘤(leiomyoma)：源於立毛肌或血管平滑肌，摩擦後可能因肌肉收縮而產生疼痛感（pseudo-Darier sign），但不會引發真正的紅腫與風疹塊。\n\n【核心考點】\n皮膚肥大細胞瘤（Mastocytoma）的病理生理特徵：腫瘤內充滿肥大細胞，摩擦後脫顆粒釋放組織胺，引發局部紅腫膨疹反應，此臨床表徵稱為 Darier sign。",
+      "key_point": "肥大細胞瘤內集聚大量肥大細胞，經摩擦或摳抓刺激會釋放組織胺，導致局部產生暫時性風疹塊（Darier sign 陽性）。",
+      "flashcard_front": "皮膚肥大細胞瘤 (mastocytoma) / 嬰幼兒好發症狀 / 物理刺激後的病理反應 (Darier sign)",
+      "flashcard_back": "為皮膚肥大細胞增生症的一種。特徵為摩擦或搔抓腫瘤後，肥大細胞釋放組織胺，使病灶局部迅速紅腫並產生風疹塊，此即 Darier sign。",
+      "flashcard_summary": "肥大細胞瘤(Mastocytoma) -> 嬰幼兒好發皮下結節 + 摩擦摳抓後因組織胺釋放產生暫時紅腫搔癢(Darier sign 陽性)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題承接上題，詢問肥大細胞瘤（或肥大細胞增生症）病灶在受到搔抓、摩擦等機械刺激後，因肥大細胞釋放組織胺而局部出現風疹塊及紅斑的特異性臨床徵象名稱。\n\n【選項詳解】\n- A. Koebner phenomenon：同形反應。是指銀屑病（乾癬）、扁平苔癬或白斑等患者在皮膚受外傷或抓傷處，原部位產生與原發病完全相同的皮損，與肥大細胞脫顆粒無關。\n- B. Darier sign：達里埃氏徵（Darier 氏徵）。正確（正確答案）。是皮膚肥大細胞增生症（cutaneous mastocytosis，包括肥大細胞瘤）的特徵性理學檢查。經防抓或摩擦皮損後，肥大細胞釋放組織胺導致局部微血管擴張滲出，迅速（數分鐘內）形成局限性風疹塊（膨疹）與紅斑。\n- C. Auspitz sign：奧斯皮茨氏徵。是指乾癬（牛皮癬）斑塊在刮除表面銀白色鱗屑後，因真皮乳頭層微血管外露，出現點狀出血的現象。\n- D. Nikolsky sign：尼氏徵。是指天疱瘡（pemphigus）或葡萄球菌皮膚燙傷樣症候群（SSSS）等水疱性疾病中，用手指輕壓或推擠外表看似正常的皮膚，會導致表皮與真皮分離、鬆脫滑動的現象。\n\n【核心考點】\n經典皮膚科理學檢查徵象檢測與鑑別：(1) Darier sign：肥大細胞瘤受摩擦出膨疹；(2) Koebner phenomenon：外傷處長出原發皮膚病變（乾癬/白斑）；(3) Auspitz sign：乾癬刮除鱗屑見點狀出血；(4) Nikolsky sign：天疱瘡表皮鬆脫滑動。",
+      "key_point": "Darier sign 為摩擦肥大細胞瘤後釋放組織胺引發風疹塊；Koebner phenomenon 為外傷處誘發原發皮膚病；Auspitz sign 為乾癬刮除鱗屑見點狀出血；Nikolsky sign 為天疱瘡表皮鬆落。",
+      "flashcard_front": "皮膚科四大理學徵象 / Darier, Koebner, Auspitz, Nikolsky / 臨床定義與代表疾病",
+      "flashcard_back": "Darier sign：摩擦肥大細胞瘤產生風疹塊。Koebner：外傷引發乾癬/白斑。Auspitz：乾癬刮屑點狀出血。Nikolsky：天疱瘡推擠表皮鬆脫。",
+      "flashcard_summary": "Darier sign -> 肥大細胞瘤受物理刺激產生風疹塊；Koebner -> 乾癬/白斑外傷同形反應；Auspitz -> 乾癬點狀出血；Nikolsky -> 天疱瘡滑動鬆落",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

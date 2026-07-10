@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD）的徵候，屬於否定型題目。RRD 常見低眼壓、玻璃體色素細胞、輕度發炎；若說患眼眼壓通常升高約 5 mmHg，方向相反，因此 A 是錯誤敘述。\n\n【選項詳解】\n- A. 錯誤。裂孔性視網膜剝離時，液化玻璃體經視網膜裂孔進入視網膜下腔，患眼常因房水動態與睫狀體功能受影響而比健眼眼壓較低，典型可低約 5 mmHg；不是比正常眼升高。\n- B. 正確。廣泛視網膜剝離會讓大面積感光網膜失去功能，造成相對傳入性瞳孔缺損（relative afferent pupillary defect, RAPD），臨床可表現為 Marcus Gunn pupil。\n- C. 正確。RRD 可伴隨輕度前房發炎反應，出現輕微虹彩炎（iritis）或前房細胞，這在視網膜剝離病人並不少見。\n- D. 正確。前玻璃體出現類似菸草灰的色素細胞稱為 Shafer sign，代表視網膜色素上皮細胞經裂孔散入玻璃體，是支持視網膜裂孔或剝離的重要徵象。\n\n【核心考點】\n裂孔性視網膜剝離常見低眼壓、Shafer sign、輕度虹彩炎；廣泛剝離可造成 RAPD/Marcus Gunn pupil。看到「眼壓升高約 5 mmHg」要判斷為錯誤方向。",
+      "key_point": "裂孔性視網膜剝離患眼眼壓通常較健眼低，而非升高；前玻璃體 tobacco dust 是 Shafer sign。",
+      "flashcard_front": "裂孔性視網膜剝離（RRD）的眼壓與前玻璃體典型徵象",
+      "flashcard_back": "眼壓常較健眼低；前玻璃體 tobacco dust/Shafer sign 支持視網膜裂孔或剝離。",
+      "flashcard_summary": "RRD 徵象 -> 低眼壓、Shafer sign，廣泛剝離可有 Marcus Gunn pupil",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題考疱疹病毒造成眼球表面感染的特性，題目要求選錯誤敘述。HSV 眼部感染具有神經節潛伏與再活化特性，治癒後仍可能復發，因此「不再復發」錯。\n\n【選項詳解】\n- A. 正確。單純疱疹病毒角膜炎多由 HSV-1 引起，也可由 HSV-2 造成，尤其新生兒或特殊暴露情境需考慮 HSV-2。\n- B. 正確。疱疹病毒可造成角膜炎合併前葡萄膜炎、虹彩炎或小樑網炎（trabeculitis），使房水排出受阻，進而造成眼壓升高或繼發性青光眼。\n- C. 正確。HSV 上皮性角膜炎的典型表現是樹枝狀角膜病灶（dendritic keratitis），螢光素染色可顯示分枝狀上皮缺損。\n- D. 錯誤。疱疹病毒感染後可潛伏於三叉神經節，日後因發燒、壓力、紫外線暴露、免疫抑制等因素再活化，所以眼部感染即使治癒也可能反覆復發。\n\n【核心考點】\nHSV 眼部感染的高頻考點是樹枝狀上皮角膜炎、可能合併虹彩炎與高眼壓，以及神經節潛伏造成復發。治癒不代表永久清除病毒。",
+      "key_point": "疱疹病毒眼部感染治癒後仍可潛伏於三叉神經節並反覆復發。",
+      "flashcard_front": "疱疹病毒眼部感染治癒後是否會復發？",
+      "flashcard_back": "會。病毒可潛伏於三叉神經節，壓力、免疫低下或紫外線暴露時可能再活化。",
+      "flashcard_summary": "HSV 眼部感染 -> 樹枝狀角膜炎，可虹彩炎/高眼壓，會復發",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問原本正視眼病人白內障手術取出水晶體後，若沒有放入人工水晶體會變成什麼屈光狀態。水晶體提供重要正屈光力，移除後眼球總屈光力不足，焦點落在視網膜後方，因此變成高度遠視。\n\n【選項詳解】\n- A. 錯誤。高度近視是眼球屈光力太強或眼軸太長，焦點落在視網膜前方；取出水晶體會減少正屈光力，方向不是近視。\n- B. 正確。未植入人工水晶體的無晶體眼（aphakia）失去約十多 diopter 的水晶體屈光力，光線聚焦在視網膜後方，造成高度遠視，常需強凸透鏡或其他矯正方式。\n- C. 錯誤。散光主要來自角膜或晶狀體曲率不規則；單純取出水晶體不放人工水晶體的主要結果是整體屈光力不足，不是高度散光。\n- D. 錯誤。正視眼能清楚成像是角膜與水晶體總屈光力剛好匹配眼軸；取出水晶體後屈光力大幅下降，不可能仍維持正視。\n\n【核心考點】\n白內障摘除後若未植入人工水晶體，會形成無晶體眼（aphakia）。無晶體眼的典型屈光狀態是高度遠視，而不是近視或單純散光。",
+      "key_point": "無晶體眼（aphakia）因失去水晶體正屈光力，術後呈高度遠視。",
+      "flashcard_front": "正視眼白內障摘除但未植入人工水晶體後的屈光狀態",
+      "flashcard_back": "高度遠視；這是無晶體眼（aphakia）失去水晶體屈光力造成。",
+      "flashcard_summary": "Aphakia -> 失去水晶體屈光力，造成高度遠視",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問口服碳酸酐酶抑制劑（carbonic anhydrase inhibitor, CAI）用於快速降眼壓時，哪個敘述錯誤。Acetazolamide 會增加碳酸氫鹽、鈉、水與鉀排出，常見代謝性酸中毒與低血鉀；說它容易造成高血鉀是錯的。\n\n【選項詳解】\n- A. 正確。口服 acetazolamide 常造成手腳或口周針刺感（paresthesia），這是臨床常見副作用，與碳酸酐酶抑制後的酸鹼變化有關。\n- B. 錯誤。CAI 抑制近端腎小管碳酸酐酶，增加 HCO3- 排出並造成利尿，鉀離子也會隨尿液流失；典型電解質問題是低血鉀與代謝性酸中毒，不是高血鉀。\n- C. 正確。Acetazolamide 屬磺胺類衍生物，使用前要詢問嚴重 sulfonamide allergy 病史，避免嚴重過敏反應。\n- D. 正確。Dorzolamide、brinzolamide 等局部眼用 CAI 可降低房水生成，全身副作用較少；但急性快速降眼壓時，口服或靜脈全身給藥通常效果較強。\n\n【核心考點】\n口服 acetazolamide 的眼科用途是快速降低房水生成與眼壓；副作用要記低血鉀、代謝性酸中毒、針刺感，以及磺胺類過敏風險。",
+      "key_point": "口服 acetazolamide 常見低血鉀與代謝性酸中毒，不是高血鉀。",
+      "flashcard_front": "口服碳酸酐酶抑制劑 acetazolamide 的典型電解質與酸鹼副作用",
+      "flashcard_back": "低血鉀與代謝性酸中毒；也常有針刺感，且需注意磺胺類過敏。",
+      "flashcard_summary": "Acetazolamide -> 降眼壓；副作用低血鉀、代謝性酸中毒、paresthesia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n四個月嬰兒有溢淚、內眼角黃綠色黏稠分泌物，按摩淚囊區分泌物增加，最符合先天性鼻淚管阻塞（congenital nasolacrimal duct obstruction）。題目問正確敘述，鼻淚管在鼻腔的出口位於下鼻道，因此 D 正確。\n\n【選項詳解】\n- A. 錯誤。先天性青光眼典型是畏光、流淚、眼瞼痙攣、角膜混濁或牛眼（buphthalmos）；按摩淚囊會擠出膿性分泌物較支持鼻淚管阻塞，不是青光眼。\n- B. 錯誤。先天性鼻淚管阻塞最常見阻塞處是鼻淚管遠端的 Hasner valve 未開通；Rosenmuller valve 位於共同淚小管進入淚囊處，並非最常見位置。\n- C. 錯誤。先天性鼻淚管阻塞多數會在一歲前自行改善，常見數字約九成左右可透過保守治療與淚囊按摩緩解；50% 低估其自然改善率。\n- D. 正確。鼻淚管自淚囊往下通過骨性鼻淚管，最後開口於鼻腔下鼻道（inferior nasal meatus），這是解剖學正確位置。\n\n【核心考點】\n嬰兒溢淚加淚囊按摩擠出分泌物，要想到先天性鼻淚管阻塞。常見阻塞在 Hasner valve，鼻淚管出口在下鼻道，多數一歲前可自行改善。",
+      "key_point": "先天性鼻淚管阻塞常見於 Hasner valve 未開通；鼻淚管出口位於下鼻道。",
+      "flashcard_front": "先天性鼻淚管阻塞的常見阻塞位置與鼻腔出口",
+      "flashcard_back": "常見阻塞在 Hasner valve；鼻淚管開口於下鼻道（inferior nasal meatus）。",
+      "flashcard_summary": "Congenital nasolacrimal duct obstruction -> Hasner valve；出口下鼻道",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問哪一項不是遮蔽性弱視（deprivation amblyopia）的原因。遮蔽性弱視來自視覺刺激被物理性阻擋；內斜視造成的是斜視性弱視，不是遮蔽性弱視，因此 B 為答案。\n\n【選項詳解】\n- A. 可造成遮蔽性弱視。嚴重眼瞼下垂若遮住瞳孔，會阻斷清晰影像進入視網膜，兒童視覺發育期可因此形成剝奪性或遮蔽性弱視。\n- B. 不是遮蔽性弱視。右眼內斜視（esotropia）造成雙眼影像不一致，大腦為避免複視而抑制偏斜眼訊號，屬斜視性弱視（strabismic amblyopia），不是光路被遮住。\n- C. 可造成遮蔽性弱視。單眼先天性或幼兒期白內障會阻擋光線與清晰影像到達視網膜，是典型且嚴重的 deprivation amblyopia 原因。\n- D. 可造成遮蔽性弱視。上眼瞼毛細血管瘤若壓迫或遮蓋瞳孔，會造成視覺刺激剝奪；也可能誘發散光，但遮住視軸時可導致遮蔽性弱視。\n\n【核心考點】\n弱視分類要抓機轉：白內障、遮瞳性眼瞼下垂、眼瞼腫瘤遮住視軸屬遮蔽性弱視；斜視造成的是大腦抑制偏斜眼訊號，屬斜視性弱視。",
+      "key_point": "內斜視造成斜視性弱視；遮蔽性弱視是白內障、眼瞼下垂或腫瘤遮住視軸等物理阻擋造成。",
+      "flashcard_front": "內斜視造成的弱視屬於哪一類？",
+      "flashcard_back": "斜視性弱視（strabismic amblyopia），不是遮蔽性/剝奪性弱視。",
+      "flashcard_summary": "Amblyopia 分類 -> 內斜視是斜視性；遮住視軸才是 deprivation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題問甲狀腺眼病變（Graves' ophthalmopathy / thyroid eye disease）的錯誤敘述。眼病變控制目標是維持甲狀腺功能正常（euthyroid），不是刻意造成甲狀腺功能低下，因此 A 錯。\n\n【選項詳解】\n- A. 錯誤。甲狀腺功能亢進或低下都可能使眼病變控制變差；治療目標是穩定維持 euthyroid。刻意把病人控制到 hypothyroidism 不但不是預防策略，還可能加重眼症狀。\n- B. 正確。Graves' ophthalmopathy 是成人單側或雙側凸眼（proptosis）的重要且常見原因，來自眼窩纖維母細胞活化、黏多醣沉積與外眼肌腫大。\n- C. 正確。典型甲狀腺眼病變常見眼瞼退縮而非眼瞼下垂；若出現 ptosis，需考慮合併重症肌無力（myasthenia gravis），兩者皆可與自體免疫甲狀腺疾病相關。\n- D. 正確。放射碘治療甲亢可能使活動期 Graves' 眼病變惡化，尤其吸菸者或眼病變活性高者風險較高；臨床可視風險考慮類固醇預防。\n\n【核心考點】\n甲狀腺眼病變治療的內分泌目標是 euthyroid。另要記住成人凸眼常見原因、ptosis 要懷疑合併重症肌無力，以及放射碘可能使活動期眼病變惡化。",
+      "key_point": "Graves' ophthalmopathy 應維持甲狀腺功能正常；亢進或低下都可能讓眼病變惡化。",
+      "flashcard_front": "甲狀腺眼病變的甲狀腺功能控制目標",
+      "flashcard_back": "維持 euthyroid；不要刻意控制成 hypothyroidism。",
+      "flashcard_summary": "Thyroid eye disease -> 控制目標 euthyroid；RAI 可加重活動期眼病變",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n六個月男嬰出現白瞳症（leukocoria，貓眼反光）、眼紅、流淚與哭鬧，要優先排除視網膜母細胞瘤（retinoblastoma）。題目問最不需要的檢查；OCT 需要清楚屈光介質與高度配合，對此急症初步評估最不實用，因此 D 最不需要。\n\n【選項詳解】\n- A. 需要。眼球超音波可在看不清眼底時評估眼內腫塊，並偵測 retinoblastoma 常見的鈣化，對嬰幼兒白瞳症很有價值。\n- B. 需要。眼窩電腦斷層可顯示眼內腫瘤與鈣化，並協助判斷眼窩或視神經侵犯；雖然臨床也常以 MRI 評估視神經與顱內延伸，但 CT 仍是此選項中有診斷價值的檢查。\n- C. 需要。散瞳間接眼底鏡檢查可直接觀察視網膜腫瘤、位置、數量與是否合併剝離，是白瞳症評估的核心檢查之一，嬰兒常需在麻醉下完成。\n- D. 最不需要。OCT 適合黃斑、視網膜層次或視神經細微結構分析；六個月嬰兒難以配合注視，白瞳症也可能因腫瘤或介質混濁影響影像品質，且不能取代眼底鏡、超音波或影像分期。\n\n【核心考點】\n嬰幼兒白瞳症要先排除 retinoblastoma，優先使用間接眼底鏡、眼球超音波與眼窩/顱內影像評估。OCT 在嬰兒白瞳症急症評估中可行性與必要性最低。",
+      "key_point": "嬰幼兒白瞳症需優先排除 retinoblastoma；OCT 因需配合且無法做全局分期，最不需要。",
+      "flashcard_front": "嬰幼兒白瞳症疑似 retinoblastoma 時最不需要的檢查",
+      "flashcard_back": "OCT；優先考慮間接眼底鏡、眼球超音波與眼窩/顱內影像。",
+      "flashcard_summary": "Leukocoria/RB 評估 -> 眼底鏡、超音波、影像；OCT 最不需要",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n夏日耳朵癢痛，若圖中耳道可見黑色、白色或絨毛狀碎屑與孢子樣物，最典型是黴菌性外耳炎（otomycosis）。重點是病灶在外耳道，而不是中耳腔或鼓膜後方積液。\n\n【選項詳解】\n- A. 錯誤。急性中耳炎主要是中耳腔感染，耳鏡常見鼓膜紅腫、膨出、活動度下降；不會以外耳道內黴菌菌絲或粉末狀孢子為主要表現。\n- B. 正確。黴菌性外耳炎常發生在潮濕炎熱季節、游泳或掏耳後，症狀以耳癢、耳痛、堵塞感為主；耳鏡可見 Aspergillus 或 Candida 造成的黑色、灰白色、絨毛狀或粉末樣外耳道堆積物。\n- C. 錯誤。慢性中耳炎多有長期耳漏、鼓膜穿孔、聽力下降，病灶核心在中耳與鼓膜，不是單純夏季外耳道癢痛加黴菌樣沉積物。\n- D. 錯誤。積液性中耳炎是中耳腔非急性感染性積液，常見鼓膜內陷、琥珀色液體或氣泡，通常不以外耳道劇癢與黴菌樣碎屑表現。\n\n【核心考點】\n黴菌性外耳炎的考點是潮濕季節、耳癢疼痛，以及外耳道內黑色或白色絨毛狀菌絲/孢子。中耳炎類疾病的主要病灶在鼓膜後方中耳腔。",
+      "key_point": "夏季耳癢痛合併外耳道黑白絨毛狀或粉末狀沉積物，最支持黴菌性外耳炎。",
+      "flashcard_front": "夏季耳癢痛且外耳道有黑色或白色絨毛狀碎屑的診斷",
+      "flashcard_back": "黴菌性外耳炎（otomycosis），常與潮濕、游泳或掏耳相關。",
+      "flashcard_summary": "Otomycosis -> 夏季潮濕、耳癢痛、外耳道菌絲/孢子樣碎屑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n人工電子耳（cochlear implant）後的語音辨識效果，取決於失聰發生在習語前或習語後，以及植入時是否仍在語言與聽覺發育關鍵期。習語前失聰且到成人才植入，已錯過語言發展關鍵期，語音辨識通常最差。\n\n【選項詳解】\n- A. 較不差。習語前失聰小孩若能早期植入並接受復健，聽覺皮質仍具可塑性，仍有機會建立聽覺與語言連結，效果明顯優於拖到成人才植入者。\n- B. 最差。習語前失聰成人在語言發育關鍵期缺乏聲音輸入，聽覺皮質可能被其他感覺功能佔用，且缺乏既有語音記憶；即使植入電子耳，也難把電刺激轉換成可理解語音。\n- C. 較不差。習語後失聰的小孩已經建立部分語言基礎與聽覺記憶，植入後可利用原本語言經驗進行復健，通常比習語前失聰成人好。\n- D. 較不差。習語後失聰成人雖然聽力喪失，但已具完整語言記憶與聽覺語音經驗，電子耳訊號較容易與原本語音表徵重新連結，語音辨識常可有良好改善。\n\n【核心考點】\n電子耳預後要看「是否曾建立語言」與「植入是否夠早」。最差族群是習語前失聰成人；最佳方向通常是習語後失聰者或習語前失聰但早期植入兒童。",
+      "key_point": "人工電子耳語音辨識最差的是習語前失聰成人，因錯過語言發育關鍵期且缺乏聽覺語音記憶。",
+      "flashcard_front": "人工電子耳植入後語音辨識度最差的族群",
+      "flashcard_back": "習語前失聰之成人；已錯過語言關鍵期且聽覺皮質可塑性較差。",
+      "flashcard_summary": "Cochlear implant 預後 -> 習語前失聰成人最差；早期植入與習語後失聰較好",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-5.json",
+  "dataset_id": "114-1_medicine-5",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-5_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n間歇性跛行（Intermittent claudication）是下肢周邊動脈阻塞疾病（PAOD）的典型缺血表現，當患者運動時肌肉氧氣需求增加而血流受限時發生。足踝-肱骨血壓比值（ABI）是其首選診斷篩檢指標。\n\n【選項詳解】\n- A. 錯誤。ABI 介於 0.9 至 1.4 之間屬於正常範圍；高於 1.4 通常代表中大型動脈血管壁嚴重鈣化（無法壓扁），常見於長期糖尿病或洗腎患者。\n- B. 錯誤。ABI 介於 0.8 至 0.9 之間代表輕度周邊動脈阻塞，患者此時可能無症狀，或僅在劇烈運動後有輕微酸脹感。\n- C. 正確。ABI 介於 0.5 至 0.7 之間提示中度周邊動脈阻塞，這是引發典型「間歇性跛行」（行走特定距離後小腿疼痛、休息後緩解）的最常見指標區間。\n- D. 錯誤。ABI 介於 0.2 至 0.4 之間（或小於 0.4）提示重度缺血，患者即使在靜止休息時亦會感到持續性疼痛（Rest pain），且傷口極難癒合，極易併發缺血性潰瘍與壞疽。\n\n【核心考點】\nABI 臨床數值解讀：正常值為 0.9-1.4。輕度阻塞 0.7-0.9；中度阻塞 0.4-0.7（間歇性跛行）；重度阻塞 < 0.4（靜止痛、壞疽）。",
+      "key_point": "ABI 介於 0.5-0.7 提示中度下肢動脈阻塞，臨床上最常表現為間歇性跛行。",
+      "flashcard_front": "足踝-肱骨血壓比值 (ABI) / 間歇性跛行 vs 靜止痛之數值區間",
+      "flashcard_back": "ABI 0.5 - 0.7 對應中度阻塞與間歇性跛行；ABI < 0.4 則代表重度缺血與靜止痛、組織壞死。",
+      "flashcard_summary": "ABI 數值解讀 -> 0.5-0.7對應間歇性跛行，< 0.4對應靜止痛。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n急性主動脈剝離的藥物治療核心在於降低血壓及減緩心率，以降低主動脈壁面剪力及左心室射血斜率（dP/dt），防止剝離範圍擴展或主動脈破裂。\n\n【選項詳解】\n- A. 錯誤。使用靜脈注射短效 β-blocker（如 Esmolol）可快速、安全地下調心跳與血壓，是極為合適的一線藥物。\n- B. 錯誤。靜脈注射兼具 α 與 β 阻斷作用的 Labetalol，能同時降低外周阻力並限制心率，非常適用於急性血壓控制。\n- C. 錯誤。合併使用 β-blocker 與強效血管擴張劑（如 Nitroprusside）是經典策略，原則上必須先給予 β-blocker 穩定心跳，再緩慢滴注血管擴張劑。\n- D. 正確。若「單獨使用」血管擴張劑（如單用 Hydralazine 或 Nitroprusside），血壓下降會引發強烈的交感神經反射，導致心搏過速與左心室收縮力急遽增強，使得 dP/dt 上升。高剪力會導致主動脈剝離進一步撕裂，為臨床禁忌。\n\n【核心考點】\n主動脈剝離血壓控制原則：必須先降低心率（dP/dt），後降低血壓。目標心跳維持在 60 bpm 以下，收縮壓在 100-120 mmHg，切忌單獨使用血管擴張劑。",
+      "key_point": "主動脈剝離治療禁用單獨血管擴張劑，必須先給予β阻斷劑降低心率（減小dP/dt）以防撕裂加劇。",
+      "flashcard_front": "主動脈剝離 / 血壓與心率控制原則 / 單用血管擴張劑危險性",
+      "flashcard_back": "必須先給予 β-blocker 將心跳控制在 60 bpm 以下，以減少 dP/dt（剪力），絕不可單獨使用血管擴張劑以防反射性心搏過速加劇剝離。",
+      "flashcard_summary": "主動脈剝離控制 -> 必須先給β-blocker再降壓，禁用單獨血管擴張劑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題涉及心肌梗塞伴隨心因性休克（需 IABP 支持）、重度三支血管病變及左主冠狀動脈（LM）狹窄的危急狀態。此時患者生命極度不穩定，手術治療具有高度迫切性。\n\n【選項詳解】\n- A. 錯誤。左主冠狀動脈重度狹窄（LM stenosis > 50%）合併三支血管病變，且臨床上已出現心因性休克，是緊急冠狀動脈繞道手術（CABG）的絕對適應症。\n- B. 錯誤。患者在 IABP 輔助下血壓仍僅 80/60 mmHg 且 EF 值低下，提示灌流不足，可評估升級高階機械輔助（如 ECMO 或心室輔助器）以穩定血流動力學。\n- C. 正確。雖然雙重抗血小板藥物（DAPT）會增加術後滲血風險，但患者目前處於左主冠狀動脈重度狹窄及心因性休克的極高危狀態，隨時有心跳驟停或再次梗塞風險。若盲目等待抗血小板藥效消退（通常需停藥5至7天），患者在等待期間的死亡率極高。因此必須立即安排手術，術中可採取積極輸血及止血策略。\n- D. 錯誤。大型臨床試驗（如 CORONARY 等）表明，對於複雜型多支冠狀動脈病變，不停跳（Off-pump）手術相較於傳統使用心肺機（On-pump）手術，在長期死亡率和血管通暢率上並無更優越的預後。\n\n【核心考點】\n緊急 CABG 的手術時機。當患者面臨左主冠狀動脈嚴重狹窄或不穩定心因性休克時，手術迫切性大於抗血小板藥物的出血風險，應立即手術，不宜等待藥效消退。",
+      "key_point": "左主冠脈重度狹窄合併心因性休克是緊急手術適應症，不應為了等抗血小板藥效消退而延誤救治。",
+      "flashcard_front": "緊急冠狀動脈繞道術 (CABG) / 雙重抗血小板藥物 (DAPT) 停藥考量 / 左主冠脈狹窄合併心因性休克",
+      "flashcard_back": "生命徵象不穩定（如左主冠脈重度狹窄、心因性休克）時，手術具絕對迫切性，不應等待 DAPT 藥效退去，應立即開刀並於術中加強止血。",
+      "flashcard_summary": "緊急CABG時機 -> 面臨LM病變與心因性休克應立即手術，不可因抗血小板藥物延誤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題考核機械循環輔助（MCS）工具的臨床試驗基礎與應用概念。不同的輔助工具其適應症、能提供的生理支持（心、肺或兩者）及預後證據有所不同。\n\n【選項詳解】\n- A. 錯誤。根據「IABP-SHOCK II Trial」的研究成果，對於急性心肌梗塞合併心因性休克患者，使用 IABP 組與僅接受藥物治療組相比，其30天死亡率無顯著差異，顯示 IABP 未能改善此類患者存活率。\n- B. 正確。「REMATCH Trial」是一項里程碑研究，證實了對於不適合接受心臟移植的終末期心衰竭患者，安裝左心室輔助器（LVAD）相比於內科藥物，能顯著改善兩年存活率與生活品質。\n- C. 正確。體外膜肺氧合（ECMO，特別是 VA-ECMO）是唯一能同時提供心臟灌流支持與肺部氣體交換（氧合/去二氧化碳）的急救循環輔助工具。\n- D. 正確。長效型/植入式左心室輔助器（Durable LVAD）除做為等待移植前的過渡手段（Bridge to transplant）外，對於無法移植的病人，亦被核准做為終生置放的終極治療（Destination therapy）。\n\n【核心考點】\n重要機械循環試驗：IABP-SHOCK II 證實 IABP 在心梗休克中無存活率益處。ECMO 同時具備心肺支持功能。LVAD 具備 Bridge 與 Destination therapy 雙重角色。",
+      "key_point": "IABP-SHOCK II試驗證實IABP無法降低心梗心因性休克病人的死亡率。",
+      "flashcard_front": "機械循環輔助 (MCS) / IABP-SHOCK II 結論 / ECMO 與 LVAD 角色",
+      "flashcard_back": "IABP-SHOCK II 證實 IABP 無法改善心梗心因性休克的存活率。ECMO 是唯一同時提供心肺支持者；LVAD 可做為終極治療 (DT)。",
+      "flashcard_summary": "MCS 試驗與功能 -> IABP對心梗休克無死亡率獲益，ECMO支持心肺，LVAD可做為終極治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n依據 AJCC 第八版食道癌病理分期系統，鱗狀細胞癌的分期除與 TNM 相關外，也納入了分化程度（Grade）作為分期因子。\n\n【選項詳解】\n- A. 錯誤。IB 期在病理分期中屬於較局限且無淋巴結轉移的早期病灶（如 T1N0G2-3 或 T2N0G1）。\n- B. 錯誤。IIB 期常見於沒有或僅有極少數淋巴結受累之早期病變（如 T1N1 或 T3N0）。\n- C. 正確。\n 1. 侵犯食道肌肉層但未超過肌肉層對應 **T2**。\n 2. 有3顆區域淋巴結轉移（介於3-6顆之間）對應 **N2**。\n 3. 無遠端轉移對應 **M0**。\n 4. 中度分化對應 **G2**。\n 根據 AJCC 第八版食道鱗狀細胞癌 pTNM 病理分期對照表，T2 N2 M0 (G2) 正確對應的分期為 **IIIB** 期。\n- D. 錯誤。IVB 期代表已經有遠端轉移（M1），通常失去手術根除機會。\n\n【核心考點】\n食道鱗狀細胞癌的 AJCC 第八版 TNM 判定：T2（侵犯 muscularis propria）、N2（區域淋巴結轉移3-6顆）。T2N2M0屬IIIB期。",
+      "key_point": "食道鱗癌T2N2M0 (3顆淋巴結) 依AJCC第八版屬於病理分期第IIIB期。",
+      "flashcard_front": "食道鱗狀細胞癌分期 / T2 與 N2 定義 / T2N2M0 病理分期",
+      "flashcard_back": "T2 指腫瘤侵犯至肌肉層；N2 指區域淋巴結轉移 3-6 顆。T2N2M0 (G2) 對應之病理分期為 IIIB 期。",
+      "flashcard_summary": "食道鱗癌分期 -> T2(肌肉層)+N2(3-6顆淋巴結)=IIIB期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n對於局部晚期且有淋巴結轉移（Stage II-III, N+）的食道鱗狀細胞癌患者，直接手術重建難以達到 R0 切除，目前國際共識首選新輔助治療以降低腫瘤分期並清除微小轉移。\n\n【選項詳解】\n- A. 錯誤。若直接進行食道切除術（Upfront surgery），由於淋巴結已有多發轉移，極易發生局部殘留與早期復發，存活率不佳。\n- B. 錯誤。單純新輔助化學治療（Neoadjuvant chemotherapy）後開刀通常用於胃癌或食道胃交界處腺癌，對於食道中段鱗狀細胞癌，加入放射線治療的 neoadjuvant CCRT 療效更佳。\n- C. 錯誤。標靶治療並非此期食道鱗癌的標準一線初次局部治療手段。\n- D. 正確。根據經典的 CROSS trial 等多項大型臨床試驗，針對 Stage II/III (N+) 可手術的食道癌患者，接受術前同時放射治療加化學治療（Neoadjuvant CCRT），可顯著縮小腫瘤體積、提高完全切除率（R0）及病理完全緩解率（pCR），並延長整體存活期。\n\n【核心考點】\n局部晚期可手術食道癌（N+ 或 T3-T4a）的標準治療模式為新輔助同時化放療（nCCRT）之後再行手術切除與重建。",
+      "key_point": "局部晚期可手術之食道鱗癌（N+）首選 neoadjuvant CCRT（新輔助化放療）後再進行手術切除。",
+      "flashcard_front": "局部晚期食道癌 / 治療流程順序 / 新輔助治療角色",
+      "flashcard_back": "對於 N+（如Stage III）食道癌，標準療程為先進行「新輔助同時化放療 (nCCRT)」，縮小腫瘤後再安排手術切除重建。",
+      "flashcard_summary": "局部晚期食道癌治療 -> 首選新輔助CCRT，隨後安排食道切除重建手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n根據世界衛生組織（WHO）與國際肺癌研究學會（IASLC）分類，侵襲性非小細胞肺腺癌依其優勢顯微組織形態分類，不同的亞型對應著截然不同的惡性度與預後。\n\n【選項詳解】\n- A. 錯誤。腺泡型（Acinar）在組織學上表現為腺腔結構，在預後分類中屬於中度風險（Intermediate-grade）亞型。\n- B. 錯誤。乳頭型（Papillary）具有體腔或血管軸心的乳頭狀生長，亦被歸類為中度風險（Intermediate-grade）亞型。\n- C. 正確。伏壁型（Lepidic）定義為癌細胞沿著原有的肺泡壁單層貼壁生長，不伴有血管、間質或胸膜浸潤。在所有侵襲性肺腺癌亞型中惡性度最低，預後最佳（Low-grade）。\n- D. 錯誤。微乳頭型（Micropapillary）缺乏血管纖維軸心且細胞成簇懸浮於泡腔中，與實體型（Solid）同屬高度風險（High-grade）亞型，極易發生早期淋巴血管浸潤及淋巴結轉移，預後最差。\n\n【核心考點】\n侵襲性肺腺癌預後風險分級：低度（Lepidic）、中度（Acinar, Papillary）、高度（Micropapillary, Solid）。其中 Lepidic 預後最佳，Micropapillary 與 Solid 最差。",
+      "key_point": "肺腺癌的亞型中，伏壁型（lepidic）惡性度最低、預後最佳，而微乳頭型及實體型預後最差。",
+      "flashcard_front": "肺腺癌組織亞型 / 預後最佳與最差亞型",
+      "flashcard_back": "伏壁型（Lepidic）生長緩慢，預後最佳；微乳頭型（Micropapillary）與實體型（Solid）侵襲性高，預後最差。",
+      "flashcard_summary": "肺腺癌預後 -> Lepidic 最佳，Micropapillary 與 Solid 最差。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n類肉瘤病（Sarcoidosis）是一種病因不明的系統性非乾酪性肉芽腫疾病，可影響全身多個器官，但以呼吸系統的受累最為普遍和典型。\n\n【選項詳解】\n- A. 正確。高達 90% 以上的類肉瘤病患者會侵犯呼吸系統，常表現為雙側肺門淋巴結腫大（BHL）與肺實質浸潤。\n- B. 錯誤。約有 20-30% 的患者病程會呈現進行性發展，慢性肉芽腫性發炎可引發不可逆的防害性肺纖維化。\n- C. 錯誤。其特徵病理「非乾酪性肉芽腫」為全身性病變，除了肺部和縱膈/肺門淋巴結外，亦常侵犯皮膚（如結節性紅斑）、眼睛（葡萄膜炎）、心臟及神經系統等。\n- D. 錯誤。類肉瘤病主要是一種免疫介導的發炎性疾病，核心治療藥物為系統性「皮質類固醇」（Corticosteroids）或免疫抑制劑，抗生素對其無效。\n\n【核心考點】\n類肉瘤病特徵：非乾酪性肉芽腫（與結核病乾酪性壞死區分）、高機率累及肺部與雙側肺門淋巴結、一線治療為糖皮質激素。",
+      "key_point": "類肉瘤病以非乾酪性肉芽腫為病理特徵，九成以上累及肺部，主要以皮質類固醇治療。",
+      "flashcard_front": "類肉瘤病 / Sarcoidosis / 病理特徵與最常受累器官 / 一線藥物",
+      "flashcard_back": "病理呈非乾酪性肉芽腫。90% 以上患者肺部及兩側肺門淋巴結受累。主要一線藥物為皮質類固醇（類固醇）。",
+      "flashcard_summary": "類肉瘤病 -> 非乾酪性肉芽腫，常累及肺部，主要用類固醇治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n食道裂孔疝氣（Esophageal hiatal hernia）指腹腔臟器（主要是胃）經由膈肌的食道裂孔疝入胸腔的疾病，依據胃食道接合處（EGJ）與胃底之解剖位置關係分為四型。\n\n【選項詳解】\n- A. 錯誤。大多數滑動型（Type I）食道裂孔疝氣患者為輕度且無症狀，多在影像檢查中偶然發現，僅少數會引發胃食道逆流症狀。\n- B. 錯誤。Type I 稱為滑動型裂孔疝氣（Sliding hernia），特徵是胃食道接合處（EGJ）向上滑入胸腔，佔所有裂孔疝氣的 90% 以上。\n- C. 正確。Type II 稱為旁食道裂孔疝氣（Paraesophageal hernia），又稱滾動型疝氣（Rolling hernia），特徵是 EGJ 仍維持在膈肌下方的正常位置，而胃底（Fundus）沿著食道旁滾動疝入胸腔。\n- D. 錯誤。Type III 屬於混合型裂孔疝氣（Mixed sliding-paraesophageal hernia），其 EGJ 與胃底同時疝入胸腔。Type IV 則定義為合併有胃以外之其他腹腔器官（如脾臟、大腸）疝入。\n\n【核心考點】\n食道裂孔疝氣解剖分型：Type I (Sliding，EGJ 上移)、Type II (Rolling/Paraesophageal，EGJ位置正常，胃底疝入)、Type III (Mixed)、Type IV (伴其他器官疝入)。",
+      "key_point": "Type II食道裂孔疝氣又稱滾動型（rolling）或旁食道型，其胃食道接合處位置正常，僅胃底疝入。",
+      "flashcard_front": "食道裂孔疝氣分型 / Type I vs Type II 解剖特徵與別稱",
+      "flashcard_back": "Type I 屬滑動型（Sliding），EGJ 上移；Type II 屬滾動型（Rolling/Paraesophageal），EGJ 正常，僅胃底疝入胸腔。",
+      "flashcard_summary": "食道裂孔疝氣分型 -> Type I為滑動型，Type II為滾動型/旁食道型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-5_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n減重與代謝手術具有嚴格的適應症與多學科團隊評估機制。術前評估旨在降低手術風險，排除不適宜手術的心理與生理因素。\n\n【選項詳解】\n- A. 錯誤。根據目前國內外指引，BMI >= 40 kg/m² 或 BMI >= 35 kg/m² 且合併高血壓、糖尿病、重度睡眠呼吸中止症等肥胖相關併發症，是減重手術的標準適應症。\n- B. 錯誤。患者若有活動性酒精依賴或毒品濫用，會嚴重影響術後遵醫囑性及代謝安全，屬於減重手術的相對/絕對禁忌症，故需排除。\n- C. 正確。減重手術術前「必須」進行精神科醫師或臨床心理師評估，以排除未控制的重度憂鬱症、思覺失調症、暴食症等精神疾病，並確認患者對術後飲食調適有正確認知。\n- D. 錯誤。65 歲以上高齡患者由於伴隨的心肺系統共病較多，術後併發症風險增加，若考慮接受減重手術必須進行更為嚴格審慎的全身機能評估。\n\n【核心考點】\n減重手術多學科評估：術前需經精神科、營養學、內分泌科共同會診。活動性精神疾患與物質濫用為手術禁忌症。",
+      "key_point": "減重與代謝手術術前必須通過精神科或心理評估，以排除不合適的精神疾病與暴食傾向。",
+      "flashcard_front": "減重手術適應症 / 術前評估必要科別 / 精神科評估角色",
+      "flashcard_back": "術前必須由精神科醫師或心理師評估，以排除未控制的精神疾病、藥物濫用與暴食症，確保術後遵醫囑性。",
+      "flashcard_summary": "減重手術評估 -> 術前必須經精神科/心理評估，以排除暴食症與未控制的精神疾病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:44:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

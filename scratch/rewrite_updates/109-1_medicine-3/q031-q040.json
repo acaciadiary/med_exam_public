@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題考僵直性脊椎炎（ankylosing spondylitis, AS）的流行病學、HLA-B27 關聯與關節外表現。AS 多見於年輕男性，多數病人 HLA-B27 陽性，但 HLA-B27 陰性不能完全排除診斷。\n\n【選項詳解】\n- A. 錯誤。HLA-B27 與 AS 高度相關，但不是診斷的必要條件；少數 AS 病人可為 HLA-B27 陰性，仍需依慢性發炎性背痛、薦腸關節炎影像與其他脊椎關節炎特徵判斷。\n- B. 錯誤。AS 常見眼部關節外表現是急性前葡萄膜炎（acute anterior uveitis）或虹彩炎，典型可有眼痛、畏光與視力模糊；結膜炎較常與反應性關節炎相關。\n- C. 正確。AS 病人多數帶有 HLA-B27，這是考試常用的免疫遺傳關聯，但陽性只代表風險增加，不能單獨診斷疾病。\n- D. 錯誤。AS 傳統上男性較多，且常在青少年至年輕成人發病；女性也可罹病，但「女性比較多」不符合典型流行病學。\n\n【核心考點】\nAS 的高頻考點是 HLA-B27 高度相關、年輕男性較常見、眼部表現以急性前葡萄膜炎為主。HLA-B27 陰性不能排除 AS，HLA-B27 陽性也不能單獨確診。",
+      "key_point": "僵直性脊椎炎多數 HLA-B27 陽性，常見眼部表現是急性前葡萄膜炎，且好發於年輕男性。",
+      "flashcard_front": "僵直性脊椎炎：HLA-B27、眼部表現、性別分布",
+      "flashcard_back": "AS 多數 HLA-B27 陽性，但陰性不能排除；眼部常見急性前葡萄膜炎；傳統上年輕男性較常見。",
+      "flashcard_summary": "AS -> HLA-B27 多為陽性；眼部表現以前葡萄膜炎為主；男性較常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n蜜蜂叮咬後數分鐘出現全身蕁麻疹、呼吸困難、低血壓與心搏過速，符合過敏性休克（anaphylaxis）。緊急處置的首要藥物是肌肉注射 epinephrine，因為它同時改善血管擴張、血管通透性增加與支氣管收縮。\n\n【選項詳解】\n- A. 錯誤。Methylprednisolone 可作為後續輔助治療，用於減少持續或雙相反應風險，但起效較慢，無法立即逆轉休克與呼吸道症狀。\n- B. 錯誤。Diphenhydramine 可改善蕁麻疹與搔癢，但對低血壓、喉頭水腫或支氣管痙攣的立即救命效果不足，不能取代 epinephrine。\n- C. 錯誤。Albuterol 吸入可輔助處理支氣管痙攣或喘鳴，但它不會矯正全身血管擴張與休克，也不是過敏性休克的首要用藥。\n- D. 正確。Epinephrine 肌肉注射可經 alpha-1 作用收縮血管、提升血壓並減少黏膜水腫，也可經 beta-2 作用擴張支氣管，是過敏性休克第一線緊急治療。\n\n【核心考點】\n過敏原暴露後快速出現皮膚症狀合併呼吸困難或低血壓，要立即想到 anaphylaxis。第一線治療是大腿外側肌肉注射 epinephrine，抗組織胺、類固醇與吸入型支氣管擴張劑都屬輔助。",
+      "key_point": "過敏性休克首要處置是肌肉注射 epinephrine，不可被類固醇、抗組織胺或 albuterol 取代。",
+      "flashcard_front": "蜂螫後蕁麻疹、呼吸困難、低血壓：優先給藥",
+      "flashcard_back": "診斷過敏性休克時，優先給 epinephrine IM；抗組織胺、類固醇與 albuterol 只作為輔助。",
+      "flashcard_summary": "Anaphylaxis -> epinephrine IM first-line",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n病人在開始抗結核藥後出現發燒、多發小關節痛，ANA 與 anti-histone antibody 陽性、anti-dsDNA 陰性，符合藥物誘發紅斑性狼瘡（drug-induced lupus erythematosus, DILE）。四合一抗結核藥中，isoniazid 是經典誘發藥物，處置重點是停用誘發藥物。\n\n【選項詳解】\n- A. 錯誤。Losartan 不是 DILE 的典型高風險藥物；題目中的時間序與抗結核藥啟用後發病，更指向 isoniazid。\n- B. 正確。Isoniazid 可誘發 DILE，典型血清學是 ANA 與 anti-histone antibody 陽性，anti-dsDNA 通常陰性；移除誘發藥物是主要處置。\n- C. 錯誤。Hydrochlorothiazide 可造成光敏感或其他皮膚反應，但本題的 anti-histone antibody 陽性與新近使用 isoniazid，更支持 INH 相關 DILE。\n- D. 錯誤。若不停止誘發藥物，只加 prednisolone，病因仍持續存在；類固醇可視症狀嚴重度輔助使用，但不能取代停用 isoniazid。\n\n【核心考點】\nDILE 常見提示是用藥後出現發燒、關節痛，ANA 與 anti-histone antibody 陽性、anti-dsDNA 多為陰性。Isoniazid 是經典誘發藥物，處置先停藥。",
+      "key_point": "Isoniazid 可造成藥物誘發狼瘡，典型為 anti-histone 陽性、anti-dsDNA 陰性，處置是停用誘發藥。",
+      "flashcard_front": "INH 後發燒關節痛、ANA+、anti-histone+、anti-dsDNA-",
+      "flashcard_back": "典型為 isoniazid-induced lupus；處置以停用 INH 為主，類固醇只是依嚴重度輔助。",
+      "flashcard_summary": "Drug-induced lupus -> anti-histone+; INH trigger; stop offending drug",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題問 Lynch syndrome（HNPCC）何者錯誤。Lynch syndrome 是 DNA mismatch repair 基因胚系突變造成的遺傳性癌症症候群，大腸直腸癌通常比散發性大腸癌更早發生，不是更晚。\n\n【選項詳解】\n- A. 錯誤。HNPCC 相關大腸直腸癌常在較年輕年齡發生，診斷年齡通常早於一般散發性大腸直腸癌；把它說成較年長是反向敘述。\n- B. 正確。Lynch syndrome 不只增加大腸直腸癌風險，也會增加子宮內膜癌、卵巢癌、胃癌、小腸癌、泌尿道上皮癌等風險，因此家族史常跨器官出現。\n- C. 正確。HNPCC 與 mismatch repair 基因的胚系突變有關，經典基因包括 MLH1、MSH2，也可見 MSH6、PMS2 等。\n- D. 正確。MLH1 或 MSH2 功能缺損會使 DNA mismatch repair 失效，導致 microsatellite instability（MSI），進而提高癌化風險。\n\n【核心考點】\nLynch syndrome 是 mismatch repair 基因胚系突變造成的常染色體顯性癌症症候群。考試要抓兩件事：大腸癌較早發生，且常合併子宮內膜、卵巢與其他腸胃道癌症風險。",
+      "key_point": "Lynch syndrome 由 MMR 基因胚系突變造成，導致 MSI；大腸直腸癌通常較早發生。",
+      "flashcard_front": "Lynch syndrome：發病年齡、相關癌症、MMR 基因",
+      "flashcard_back": "Lynch syndrome 大腸癌較早發生，常合併子宮內膜與卵巢等癌症；常見 MLH1/MSH2 等 MMR 基因突變。",
+      "flashcard_summary": "HNPCC/Lynch -> early CRC + extracolonic cancers + MMR gene mutation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題問頭頸癌何者錯誤。HPV 相關口咽癌在西方國家增加，且相較 HPV 陰性的菸酒相關頭頸癌，通常對放射線與化學治療反應較佳、預後較好，因此「預後較差」是錯誤敘述。\n\n【選項詳解】\n- A. 正確。HPV，特別是 HPV-16，與口咽部鱗狀細胞癌增加有關，常見部位包括扁桃腺與舌根。\n- B. 錯誤。HPV 相關頭頸癌多半預後較佳，常見於較年輕、菸酒暴露較少的族群，治療反應也常優於 HPV 不相關的頭頸癌。\n- C. 正確。頭頸癌病人常有 field cancerization 風險，尤其與菸酒暴露相關者，治療後仍可能在頭頸其他部位、肺部或食道出現第二原發癌。\n- D. 正確。晚期或復發轉移頭頸癌的藥物治療可包含化學治療、EGFR 標靶治療如 cetuximab，以及依適應症使用免疫治療；選項列出的化療與標靶治療屬有效治療類別。\n\n【核心考點】\nHPV 相關口咽癌發生率上升且預後通常較 HPV 陰性頭頸癌好。頭頸癌治療後要注意第二原發癌，晚期疾病可用全身性藥物治療。",
+      "key_point": "HPV 相關口咽癌常見於扁桃腺與舌根，發生率上升且整體預後通常較 HPV 陰性頭頸癌佳。",
+      "flashcard_front": "HPV 相關頭頸癌：部位與預後",
+      "flashcard_back": "HPV-16 與口咽癌增加相關；HPV 相關頭頸癌通常比 HPV 陰性菸酒相關癌症預後較好。",
+      "flashcard_summary": "HPV-related oropharyngeal cancer -> rising incidence; generally better prognosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題問腫瘤指數與腫瘤配對何者錯誤。攝護腺癌最典型的血清腫瘤指標是 PSA；LDH 是非特異性細胞周轉或腫瘤負荷指標，常用於部分淋巴瘤、黑色素瘤或睪丸癌風險分層，不是攝護腺癌的代表性配對。\n\n【選項詳解】\n- A. 正確。PSA（prostate specific antigen）是攝護腺組織相關指標，可用於攝護腺癌篩檢討論、治療後追蹤與復發監測，但需注意良性攝護腺肥大與發炎也可升高。\n- B. 錯誤。LDH 不具攝護腺特異性，不能作為攝護腺癌的典型腫瘤指標；攝護腺癌配對應以 PSA 為代表。\n- C. 正確。AFP 可見於非精原細胞性生殖細胞腫瘤，如 yolk sac tumor 或 embryonal carcinoma；純 seminoma 通常不升高 AFP。\n- D. 正確。hCG 可見於絨毛膜癌、部分 embryonal carcinoma，也可在部分 seminoma 輕度升高，是睪丸生殖細胞腫瘤常用指標之一。\n\n【核心考點】\n攝護腺癌配 PSA；睪丸生殖細胞腫瘤常看 AFP、hCG 與 LDH。LDH 是非特異性腫瘤負荷或預後指標，不是攝護腺癌的代表性 marker。",
+      "key_point": "攝護腺癌代表性 marker 是 PSA；睪丸生殖細胞腫瘤常用 AFP、hCG 與 LDH。",
+      "flashcard_front": "腫瘤指數配對：攝護腺癌與睪丸癌",
+      "flashcard_back": "攝護腺癌配 PSA；睪丸癌可用 AFP、hCG、LDH。LDH 不具攝護腺癌特異性。",
+      "flashcard_summary": "Tumor markers -> prostate: PSA; testicular germ cell tumor: AFP/hCG/LDH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n老年病人出現貧血、腎功能惡化、下背痛與脊椎塌陷，骨髓抹片若呈現漿細胞增生，最符合多發性骨髓瘤（multiple myeloma）。治療不是診斷後一律立即給高劑量靜脈化學治療；需依年齡、體能、腎功能與移植適合性選擇 induction regimen 與支持療法。\n\n【選項詳解】\n- A. 正確。多發性骨髓瘤好發於老年人，常以骨痛、貧血、腎功能不全、高血鈣或反覆感染表現。\n- B. 錯誤。高劑量化學治療合併自體幹細胞移植只適合部分體能良好且符合條件的病人；75 歲且已有腎功能不全時，通常需個別化治療，而不是一診斷就用高劑量靜脈化療作為普遍標準。\n- C. 正確。少數多發性骨髓瘤可為 non-secretory 或只分泌輕鏈，血清蛋白電泳未測到典型 monoclonal protein 仍不能完全排除，需結合尿液、serum free light chain、骨髓與影像。\n- D. 正確。Lenalidomide、steroid 與 bortezomib 是多發性骨髓瘤常用且有效的藥物組合元素；bortezomib 在腎功能不全病人也常被納入考量。\n\n【核心考點】\n多發性骨髓瘤要抓 CRAB：hyperCalcemia、Renal dysfunction、Anemia、Bone lesions。診斷後治療需分層，常用 IMiD、proteasome inhibitor 與 steroid，不是所有病人一律立即高劑量靜脈化療。",
+      "key_point": "多發性骨髓瘤常見 CRAB 表現；治療依移植適合性與病人狀態分層，不是一律高劑量靜脈化療。",
+      "flashcard_front": "老人貧血、腎衰、背痛、脊椎塌陷：診斷與治療陷阱",
+      "flashcard_back": "考慮多發性骨髓瘤；常用 lenalidomide/steroid/bortezomib 等組合，並依移植適合性分層治療。",
+      "flashcard_summary": "Multiple myeloma -> CRAB; individualized therapy; VRd-like agents effective",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n產後女性出現自發性大片瘀青與皮下血腫，血小板正常、PT 正常、aPTT 明顯延長，mixing test 無法完全矯正，factor VIII 活性極低且 factor VIII inhibitor 陽性，符合獲得性血友病 A（acquired hemophilia A）。本題問錯誤敘述；獲得性血友病 A 常見軟組織、皮膚、肌肉或黏膜出血，關節腔出血反而不是典型表現。\n\n【選項詳解】\n- A. 錯誤。Hemarthrosis 是先天性重度血友病 A/B 的典型出血型態；獲得性血友病 A 多見皮膚瘀斑、肌肉血腫、黏膜或泌尿腸胃道出血。\n- B. 正確。獲得性血友病 A 可與產後狀態、自體免疫疾病、惡性腫瘤或藥物相關，也有相當比例找不到明確誘因。\n- C. 大致正確但用語需留意。嚴重或危及生命出血時，常用 bypassing agents，例如 recombinant activated factor VII 或 activated prothrombin complex concentrate（aPCC/FEIBA）；選項寫 PCC 時，考試語境多半是在指這類繞過第八因子抑制物的凝血製劑。\n- D. 正確。獲得性血友病 A 需要止血治療與免疫抑制來清除 inhibitor；即使治療有反應，停藥後仍可能復發，因此需追蹤 aPTT、factor VIII 活性與 inhibitor。\n\n【核心考點】\n獲得性血友病 A 的線索是 isolated prolonged aPTT、mixing test 不矯正、factor VIII 活性低與 inhibitor 陽性。它與先天性血友病不同，出血多在皮膚軟組織與黏膜，關節腔出血不常見。",
+      "key_point": "獲得性血友病 A：PT 正常、aPTT 延長且 mixing test 不矯正，factor VIII inhibitor 陽性；出血多為皮膚軟組織或黏膜。",
+      "flashcard_front": "產後瘀青、PT 正常、aPTT 延長、mixing test 不矯正、FVIII inhibitor+",
+      "flashcard_back": "獲得性血友病 A；常見皮膚軟組織與黏膜出血，hemarthrosis 不如先天性血友病典型。",
+      "flashcard_summary": "Acquired hemophilia A -> isolated prolonged aPTT + inhibitor; soft tissue bleeding, not hemarthrosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": [
+        "第38題選項 C 寫 PCC；臨床標準用語通常是 activated PCC（aPCC/FEIBA）或 recombinant activated factor VII，建議人工確認命題是否以 PCC 泛稱 aPCC。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-3_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n79 歲女性突然出現多處瘀青與口腔血塊，血小板只有 5 K/μL，屬重度血小板低下合併黏膜出血。題目問錯誤敘述；假性血小板低下需先看抹片是否有血小板凝集，並以適當抗凝劑重新採血確認，本題把複驗方式限定為 heparin 採血管，是最可疑的敘述。\n\n【選項詳解】\n- A. 正確。老年人新發嚴重血小板低下需要排除骨髓疾病，例如骨髓增生不良症候群、急性白血病或骨髓浸潤；骨髓檢查可協助鑑別診斷。\n- B. 錯誤。EDTA 依賴性假性血小板低下是體外血小板凝集造成的假低值，通常應先檢查周邊血抹片，並以實驗室建議的替代抗凝劑重新採血；考試常強調 sodium citrate 管，而不是指定 heparin 管作為必要作法。\n- C. 正確。病人已有口腔黏膜血塊且 PLT 5 K/μL，出血風險高；若臨床判斷為真性血小板低下且有顯著出血，血小板輸注可作為緊急止血輔助，並應同時處理病因，例如疑似 ITP 時給予類固醇或 IVIG。\n- D. 正確。血小板極低時應避免跌倒、碰撞與劇烈活動，減少顱內出血或其他嚴重出血風險。\n\n【核心考點】\n嚴重孤立性血小板低下要先分辨真性低下與假性低下；抹片可檢查血小板凝集，必要時以替代抗凝劑複驗。若血小板極低且有黏膜出血，需住院緊急處理並限制活動。",
+      "key_point": "假性血小板低下要看抹片並用適當替代抗凝劑複驗；PLT 5 K/μL 合併黏膜出血需要緊急處理與活動限制。",
+      "flashcard_front": "老人 PLT 5K、瘀青、口腔血塊：假性低下與緊急處置",
+      "flashcard_back": "先以抹片與替代抗凝劑排除假性血小板低下；真性重度低下合併黏膜出血需緊急處理並避免劇烈活動。",
+      "flashcard_summary": "Severe thrombocytopenia -> rule out pseudothrombocytopenia; mucosal bleeding requires urgent management",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": [
+        "第39題選項 B 指定 heparin 管為假性血小板低下複驗方式；不同資料可能提到 citrate 或其他替代抗凝劑，建議人工確認命題依據。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n血球數顯示極高白血球、血小板增加、各成熟階段粒細胞都出現、嗜鹼性球增加，符合慢性骨髓性白血病（chronic myeloid leukemia, CML）慢性期表現。確診重點是 BCR::ABL1 或 Philadelphia chromosome；周邊血免疫分型較用於急性白血病或淋巴系腫瘤分類，對典型 CML 確診較不需要。\n\n【選項詳解】\n- A. 需要。骨髓細胞染色體分析可偵測 Philadelphia chromosome t(9;22)，也能提供骨髓型態與疾病分期資訊，對 CML 診斷與基線評估有幫助。\n- B. 需要。周邊血 BCR/ABL1 基因檢定可直接確認 CML 的分子標記，也是後續治療反應監測的重要基準。\n- C. 可能有幫助。LAP score 在 CML 通常偏低，而類白血病反應常偏高；雖然現代確診更依賴 BCR::ABL1 檢測，但此項在傳統鑑別診斷中有價值。\n- D. 較不需要。Immunophenotyping 主要用於判定急性白血病 blast lineage 或淋巴瘤細胞來源；本題白血球分類呈現完整粒細胞成熟階梯與嗜鹼性球增加，較支持 CML，確診不以免疫分型為核心。\n\n【核心考點】\nCML 慢性期常見極高白血球、左移到各階段粒細胞、嗜鹼性球增加與血小板增加。確診靠 Philadelphia chromosome 或 BCR::ABL1，免疫分型不是典型 CML 的主要確診工具。",
+      "key_point": "CML 確診重點是 Philadelphia chromosome 或 BCR::ABL1；典型慢性期 CML 較不靠周邊血免疫分型確診。",
+      "flashcard_front": "白血球極高、粒細胞各階段、嗜鹼球增加：CML 確診檢查",
+      "flashcard_back": "CML 要確認 BCR::ABL1 或 Philadelphia chromosome；immunophenotyping 較用於急性白血病或淋巴系腫瘤分類。",
+      "flashcard_summary": "CML -> basophilia + granulocytic left shift; confirm BCR::ABL1/Philadelphia chromosome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:33+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

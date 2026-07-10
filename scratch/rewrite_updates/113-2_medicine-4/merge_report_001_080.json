@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "merge": true,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "manual_review": [
+    {
+      "question_number": 9,
+      "notes": [
+        "選項 B 使用 Anti-HBsAg 這個不常用寫法，通常寫作 anti-HBs；不影響本題官方答案判讀。"
+      ]
+    },
+    {
+      "question_number": 11,
+      "notes": [
+        "官方更正為 B、C、D 均給分；膽囊積水最典型關聯仍為 Kawasaki disease，題目問法與選項造成爭議。"
+      ]
+    },
+    {
+      "question_number": 17,
+      "notes": [
+        "官方更正為 C、D 均給分；D 的少關節炎型定義同時錯在前 6 週與小於等於 5 個關節。"
+      ]
+    },
+    {
+      "question_number": 18,
+      "notes": [
+        "官方更正為 C、D 均給分；Ewing sarcoma 好發骨幹或骨幹骺交界，長骨幹骺端較支持 osteosarcoma。"
+      ]
+    },
+    {
+      "question_number": 27,
+      "notes": [
+        "官方更正為 B、D 均給分；若氣管擴張劑指 nebulized epinephrine 可用於哮吼急性緩解，若指一般 beta-2 agonist 則不適用。"
+      ]
+    },
+    {
+      "question_number": 32,
+      "notes": [
+        "官方更正為 A、C 均給分；兒科多數情境心搏過速是代償性休克早期表現，低血壓多代表代償失敗，但選項 A 仍被官方接受。"
+      ]
+    },
+    {
+      "question_number": 43,
+      "notes": [
+        "本題選項 B 與 D 皆有疑義：SWS 癲癇比例高，且現代分子病因為 GNAQ 體細胞突變而非 EPHB4；來源答案欄仍維持 B。"
+      ]
+    },
+    {
+      "question_number": 76,
+      "notes": [
+        "來源資料欄位疑似混入第 77 題：question_text 內含壞死性筋膜炎題目與第 77 題題幹，options 欄位則為 35/45/55/65；本 repair 未修改題目、選項或答案，只在詳解中明確標示限制並依 question_text 內嵌 A-D 解析。"
+      ]
+    }
+  ],
+  "errors": []
+}

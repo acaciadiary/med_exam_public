@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問的是病毒感染後是否「直接」促使細胞增生形成腫瘤。HBV、HTLV-1、HPV 都有明確的病毒蛋白或基因整合機制可直接推動細胞轉化；HIV 主要造成免疫缺陷，使其他致瘤病毒與腫瘤趁機發生，因此屬於間接增加癌症風險。\n\n【選項詳解】\n- A. 錯誤。B 型肝炎病毒 (HBV) 可使病毒 DNA 整合到肝細胞基因體，造成基因體不穩定；HBx 蛋白也會干擾 p53 與細胞週期調控，所以能直接促進肝細胞癌形成。\n- B. 錯誤。人類嗜淋巴球病毒一型 (HTLV-1) 的 Tax 蛋白可活化 T 細胞增生相關基因、干擾 DNA 修復與抑癌功能，是成人 T 細胞白血病/淋巴瘤的重要直接致癌機制。\n- C. 錯誤。高風險型人類乳突瘤病毒 (HPV)，尤其 HPV 16、18 型，會以 E6 促進 p53 降解、以 E7 抑制 Rb，使上皮細胞失去細胞週期煞車，直接導致子宮頸癌等惡性腫瘤。\n- D. 正確。人類免疫缺陷病毒 (HIV) 主要破壞 CD4+ T 細胞並造成免疫抑制；AIDS 相關腫瘤常與 HHV-8、EBV 等其他病毒或免疫監視下降有關，HIV 本身較不是直接轉化細胞的致癌病毒。\n\n【核心考點】\n直接致癌病毒要能以病毒蛋白、基因整合或轉錄調控推動宿主細胞增生。HBV、HTLV-1、HPV 有直接致癌機制；HIV 的腫瘤風險主要來自免疫缺陷造成的間接效應。",
+      "key_point": "HIV 主要經由 CD4+ T 細胞破壞與免疫抑制間接增加腫瘤風險；HBV、HTLV-1、HPV 則有較明確的直接致癌分子機制。",
+      "flashcard_front": "哪一種病毒較不會直接造成細胞增生形成腫瘤：HBV、HTLV-1、HPV、HIV？",
+      "flashcard_back": "答案是 HIV。HIV 主要造成免疫缺陷，讓 HHV-8、EBV 等相關腫瘤風險上升；HBV、HTLV-1、HPV 則可用病毒蛋白或基因整合直接促進細胞轉化。",
+      "flashcard_summary": "病毒致癌機制：HIV 為免疫抑制導致的間接致癌；HBV、HTLV-1、HPV 具有直接轉化或促增生機制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n郵輪上多人突然上吐下瀉、未治療約 2 到 3 天自行緩解，是諾羅病毒造成急性腸胃炎群聚的典型情境。諾羅病毒感染劑量低、環境中穩定、容易在人群密集處爆發。\n\n【選項詳解】\n- A. 錯誤。腺病毒 40 型可造成腸胃炎，較常見於兒童，病程通常比諾羅病毒久，且不是郵輪成人群聚、短時間自限性嘔吐腹瀉的典型首選病原。\n- B. 正確。諾羅病毒 (Norovirus) 常造成郵輪、學校、軍營與長照機構的急性腸胃炎群聚，表現為突發嘔吐、水瀉與腹痛，多在 1 到 3 天內自限性恢復。\n- C. 錯誤。A 群輪狀病毒是嬰幼兒嚴重水瀉的重要病原，成人因既有免疫較常症狀較輕；郵輪群聚且 2 到 3 天緩解更符合諾羅病毒。\n- D. 錯誤。腸病毒 D68 主要引起呼吸道疾病，嚴重時可與急性無力肢體麻痺相關，臨床重點不是急性上吐下瀉群聚。\n\n【核心考點】\n郵輪或封閉群體突然爆發急性嘔吐、水瀉，且病程短、可自限，優先想到諾羅病毒。輪狀病毒偏嬰幼兒重症腹瀉，腺病毒 40/41 病程較長，EV-D68 偏呼吸道。",
+      "key_point": "郵輪群聚急性上吐下瀉、2 到 3 天自限性緩解，是諾羅病毒感染的高典型性描述。",
+      "flashcard_front": "郵輪群聚上吐下瀉，2-3 天自行緩解，最可能是哪一種病毒？",
+      "flashcard_back": "諾羅病毒。它感染劑量低、傳播力強，常在郵輪與密閉群體造成急性腸胃炎群聚，病程多為短暫自限性。",
+      "flashcard_summary": "急性腸胃炎群聚：郵輪 + 嘔吐腹瀉 + 2-3 天自限 -> Norovirus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n題目問「與麻疹病毒感染較無關」的臨床表現，需辨認麻疹典型症狀與神經併發症。腦炎、畏光與 Koplik spots 都可見於麻疹；進行性多灶性白質腦病 (PML) 的病原是 JC virus，不是麻疹病毒。\n\n【選項詳解】\n- A. 不選，與麻疹有關。麻疹病毒可造成急性麻疹相關腦炎，也可在多年後造成亞急性硬化性全腦炎 (subacute sclerosing panencephalitis, SSPE)，因此腦炎與麻疹有關。\n- B. 不選，與麻疹有關。麻疹前驅期常有咳嗽、鼻炎、結膜炎，也就是 3C；結膜炎會造成畏光，所以畏光可出現在麻疹感染。\n- C. 不選，與麻疹有關。Koplik spots 是麻疹的特徵性口腔黏膜病灶，常在皮疹前出現於頰黏膜，對診斷很有提示性。\n- D. 應選，與麻疹較無關。PML 是 JC virus 在免疫低下患者感染寡樹突膠細胞造成的脫髓鞘疾病，典型背景如 AIDS 或免疫抑制治療，與麻疹病毒感染較無關。\n\n【核心考點】\n麻疹的高產考點是 3C、Koplik spots、斑丘疹與神經併發症 SSPE。PML 要連到 JC virus 與免疫低下，而不是麻疹病毒。",
+      "key_point": "PML 由 JC virus 引起；麻疹病毒則與 3C、Koplik spots、急性腦炎與 SSPE 有關。",
+      "flashcard_front": "麻疹病毒感染較無關的表現：腦炎、畏光、Koplik spots、PML？",
+      "flashcard_back": "PML。進行性多灶性白質腦病由 JC virus 造成；麻疹可有畏光、Koplik spots，也可造成腦炎與 SSPE。",
+      "flashcard_summary": "Measles：3C、Koplik spots、SSPE；PML：JC virus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nMERS 是由 MERS-CoV 引起的嚴重呼吸道感染，屬於冠狀病毒。解題關鍵是冠狀病毒為有套膜的正股單股 RNA 病毒，且 MERS 的重要中間宿主是單峰駱駝，不是 SARS 常考的果子狸。\n\n【選項詳解】\n- A. 錯誤。MERS 的主要表現是發燒、咳嗽、呼吸困難，重症可進展為肺炎、急性呼吸窘迫症候群與腎衰竭；出血與休克不是它的典型定義性表現。\n- B. 正確。MERS-CoV 屬於冠狀病毒科，基因體為正股單股 RNA ((+)ssRNA)，病毒帶有套膜，這是冠狀病毒分類上的核心特徵。\n- C. 錯誤。MERS-CoV 與單峰駱駝 (dromedary camel) 關係最密切；果子狸是 SARS-CoV 動物宿主傳播鏈中常被提到的中間宿主。\n- D. 錯誤。MERS-CoV 是人類呼吸道致病冠狀病毒，適合在接近人體溫度的環境複製；「喜歡在室溫 25°C 複製生長」不是 MERS 的正確病毒學特徵。\n\n【核心考點】\n冠狀病毒是有套膜、正股單股 RNA 病毒。MERS-CoV 主要連到嚴重呼吸道疾病、腎衰竭風險與單峰駱駝；SARS-CoV 才常考果子狸。",
+      "key_point": "MERS-CoV 是正股單股 RNA 冠狀病毒，重要中間宿主為單峰駱駝；果子狸較常連結 SARS-CoV。",
+      "flashcard_front": "MERS-CoV 最適當的敘述：基因體、宿主與臨床表現怎麼記？",
+      "flashcard_back": "MERS-CoV 是有套膜的正股單股 RNA 冠狀病毒，與單峰駱駝相關，主要造成嚴重呼吸道感染與可能腎衰竭；果子狸較偏 SARS-CoV。",
+      "flashcard_summary": "MERS-CoV：positive-sense ssRNA coronavirus + dromedary camel + severe respiratory disease。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問 HIV 敘述何者最不適當。HIV 蛋白酶的主要功能是切割病毒自身 Gag-Pol 前驅多蛋白，使病毒顆粒成熟；它不是以宿主細胞蛋白質為主要作用對象。\n\n【選項詳解】\n- A. 應選，敘述不適當。HIV protease 主要切割病毒 Gag 與 Gag-Pol polyprotein，產生成熟的 capsid、逆轉錄酶、整合酶等病毒蛋白；這一步是病毒成熟與感染力形成的關鍵。\n- B. 不選，敘述適當。Rev 蛋白會結合 viral RNA 上的 Rev response element (RRE)，促進未剪接與單剪接的病毒 mRNA 從細胞核輸出到細胞質，讓 Gag、Pol、Env 等蛋白能被轉譯。\n- C. 不選，敘述適當。Tat 蛋白是強力 transactivator，會結合 TAR RNA 並促進 HIV LTR 的轉錄延伸，大幅增加病毒 RNA 生成。\n- D. 不選，敘述適當。HIV 感染早期 Rev 尚未累積時，主要產生完全剪接的 mRNA，轉譯 Tat、Rev、Nef 等調控蛋白；之後 Rev 增加，才促進較長的未剪接或單剪接 mRNA 出核。\n\n【核心考點】\nHIV 三個常考調控點：protease 切病毒前驅蛋白使病毒成熟，Tat 增強轉錄，Rev 促進未剪接/單剪接病毒 mRNA 出核。看到「protease 主要作用於宿主蛋白」要判為錯誤敘述。",
+      "key_point": "HIV protease 主要切割病毒自身 Gag-Pol 前驅多蛋白；Tat 促進轉錄，Rev 促進未剪接與單剪接病毒 mRNA 出核。",
+      "flashcard_front": "HIV protease、Tat、Rev 各自負責什麼？",
+      "flashcard_back": "Protease 切割病毒 Gag-Pol 使病毒成熟；Tat 增強 LTR 轉錄延伸；Rev 結合 RRE，促進未剪接與單剪接病毒 mRNA 輸出核外。",
+      "flashcard_summary": "HIV 蛋白功能：protease 處理病毒 polyprotein；Tat 開轉錄；Rev 管 RNA 出核。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n題目問哪一種念珠菌對 fluconazole 最具先天性抗藥性。Candida krusei 對 fluconazole 有典型 intrinsic resistance，是考試與臨床用藥都常見的重點。\n\n【選項詳解】\n- A. 錯誤。Candida albicans 通常對 fluconazole 敏感，雖然長期或反覆 azole 暴露後可能產生後天抗藥性，但不是典型先天抗藥代表。\n- B. 錯誤。Candida tropicalis 多數情況仍可對 fluconazole 敏感，臨床上需依藥敏調整，但它不是最典型的 fluconazole 先天抗藥菌種。\n- C. 正確。Candida krusei 對 fluconazole 具有先天性抗藥性，臨床若確認為 C. krusei，通常不應選 fluconazole，常需考慮 echinocandin 或 amphotericin B 等替代藥物。\n- D. 錯誤。Candida parapsilosis 通常可被 fluconazole 治療；它比較常考的是對 echinocandin 的 MIC 可較高，以及與導管相關血流感染、生物膜有關。\n\n【核心考點】\nCandida krusei = fluconazole intrinsic resistance。另一個常一起記的是 Candida glabrata 常呈劑量依賴性敏感或較易出現 azole 抗藥，但本題最典型答案是 C. krusei。",
+      "key_point": "Candida krusei 對 fluconazole 具先天性抗藥性；C. albicans、C. tropicalis、C. parapsilosis 通常不是這個考點的答案。",
+      "flashcard_front": "哪一種 Candida 對 fluconazole 有典型先天性抗藥性？",
+      "flashcard_back": "Candida krusei。確認為 C. krusei 時通常避免 fluconazole，改考慮 echinocandin 或 amphotericin B 等藥物。",
+      "flashcard_summary": "抗真菌藥記憶：C. krusei 對 fluconazole intrinsic resistance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考全身性雙相性真菌在感染組織中的形態。Coccidioides immitis 在組織中不是典型出芽酵母，而是形成厚壁 spherule，內含許多 endospores。\n\n【選項詳解】\n- A. 錯誤。Histoplasma capsulatum 在組織內常是小型卵圓酵母，常位於巨噬細胞內，不是以大型 spherule 為主要形態。\n- B. 錯誤。Blastomyces dermatitidis 的典型形態是厚壁、寬基底出芽 (broad-based budding) 的酵母，不會形成含內生孢子的酵母團。\n- C. 錯誤。Paracoccidioides brasiliensis 典型為多重出芽，呈船舵狀 (mariner's wheel) 或米老鼠耳朵樣外觀，不是 spherule。\n- D. 正確。Coccidioides immitis 在感染組織中形成厚壁 spherule，內含大量 endospores；成熟後 spherule 破裂釋放內生孢子，是它與其他雙相性真菌的關鍵差異。\n\n【核心考點】\n雙相性真菌形態要配對記：Histoplasma 是巨噬細胞內小酵母，Blastomyces 是寬基底出芽，Paracoccidioides 是船舵狀多芽，Coccidioides 是 spherule with endospores。",
+      "key_point": "Coccidioides immitis 在組織中形成厚壁 spherule，內含 endospores；這是它和其他雙相性真菌最重要的形態鑑別。",
+      "flashcard_front": "哪一種全身性真菌在組織中形成 spherule？其他雙相性真菌怎麼分？",
+      "flashcard_back": "Coccidioides immitis 形成含 endospores 的 spherule。Histoplasma 是巨噬細胞內小酵母；Blastomyces 是寬基底出芽；Paracoccidioides 是船舵狀多重出芽。",
+      "flashcard_summary": "真菌形態：Coccidioides = spherule with endospores。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n共同淋巴前驅細胞 (common lymphoid progenitor, CLP) 會分化成 T 細胞、B 細胞與 NK 細胞。T、B 細胞是後天性免疫的主力，因此缺乏 CLP 時，受最大影響的是後天性免疫系統。\n\n【選項詳解】\n- A. 錯誤。先天性免疫包含嗜中性球、單核球/巨噬細胞、樹突細胞、肥大細胞等，多數來自共同髓系前驅細胞；雖然 NK 細胞來自淋巴系，整體先天免疫不是受最大影響的部分。\n- B. 正確。後天性免疫依賴 T 細胞與 B 細胞執行細胞免疫、抗體反應與免疫記憶；CLP 缺乏會直接阻斷 T、B 細胞生成，因此後天性免疫受損最明顯。\n- C. 錯誤。CLP 缺乏不會讓先天性與後天性免疫同等受損；髓系來源的吞噬細胞與多數先天免疫細胞仍可保留，所以影響程度不相同。\n- D. 錯誤。血液凝結系統主要依賴肝臟合成的凝血因子與巨核細胞產生的血小板；巨核細胞來自髓系分化，不是 CLP 的主要產物。\n\n【核心考點】\n造血分化常用二分法：CLP 產生 T、B、NK；CMP 產生粒細胞、單核球、紅血球與巨核細胞。缺乏 CLP 時，T/B 細胞缺失讓後天性免疫受最大影響。",
+      "key_point": "CLP 分化出 T、B、NK；其中 T、B 細胞支撐後天性免疫，所以 CLP 缺乏時後天性免疫受損最大。",
+      "flashcard_front": "缺乏 common lymphoid progenitor 時，哪一部分免疫系統受最大影響？",
+      "flashcard_back": "後天性免疫。CLP 產生 T、B、NK；T 與 B 細胞負責細胞免疫、抗體反應與免疫記憶，是後天性免疫核心。",
+      "flashcard_summary": "造血分化：CLP -> T/B/NK；缺 CLP -> adaptive immunity 受損最明顯。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題問補體系統敘述何者最不適當。補體不只可由抗體啟動，還能透過替代路徑與凝集素路徑直接辨認病原表面，因此「僅能由抗體啟動」是錯誤敘述。\n\n【選項詳解】\n- A. 不選，敘述適當。C5 被切割後形成 C5b，接著招募 C6、C7、C8 與多個 C9，形成膜攻擊複合體 (MAC, C5b-9)，可在病原膜上打孔並造成裂解，這是補體的正確效應之一。\n- B. 應選，敘述不適當。古典路徑可由抗原-抗體複合體啟動，但替代路徑可由病原表面直接活化，凝集素路徑則由 MBL 辨認病原表面的甘露糖結構啟動；補體不是只能靠抗體。\n- C. 不選，敘述適當。C3b 可沉積在病原表面並作為 opsonin，讓帶有補體受體的吞噬細胞更有效辨認與吞噬病原，這是補體調理作用的核心。\n- D. 不選，敘述適當。C3a 與 C5a 是 anaphylatoxins，可促進肥大細胞脫顆粒與發炎反應；C5a 也有強烈趨化嗜中性球的作用。\n\n【核心考點】\n補體三條活化路徑：古典路徑靠抗體，替代路徑可直接由病原表面啟動，凝集素路徑靠 MBL 辨認微生物醣類。補體效應包括 C3b 調理、C3a/C5a 發炎與 C5b-9 MAC 殺菌。",
+      "key_point": "補體可由古典、替代、凝集素三路徑活化；只有古典路徑主要依賴抗體，替代與凝集素路徑可不依賴抗體。",
+      "flashcard_front": "補體活化是否只能由抗體啟動？三條路徑與效應怎麼記？",
+      "flashcard_back": "不是。古典路徑由抗原-抗體複合物啟動，替代路徑可由病原表面啟動，凝集素路徑由 MBL 啟動。效應有 C3b 調理、C3a/C5a 發炎、C5b-9 MAC 裂解。",
+      "flashcard_summary": "補體：classical 抗體；alternative 病原表面；lectin MBL；效應 C3b/C3a-C5a/MAC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問 T 細胞辨識抗原的敘述何者最不適當。TCR 通常辨識的是經抗原呈現細胞處理後、放在 MHC 上的線性胜肽；需要複雜立體構形的是 B 細胞/BCR 辨認天然抗原時較典型的特色。\n\n【選項詳解】\n- A. 不選，敘述適當。T 細胞所辨識的抗原多是短片段胜肽；MHC class I 常呈現約 8 到 10 個胺基酸的胜肽，MHC class II 則可呈現較長的胜肽片段。\n- B. 不選，敘述適當。一般 αβ T 細胞具有 MHC restriction，TCR 需同時辨認抗原胜肽與 MHC 分子，因此抗原需被 MHC 呈現才能有效活化 T 細胞。\n- C. 應選，敘述不適當。T 細胞辨認的是被處理過的線性胜肽-MHC 複合體，不要求抗原保持複雜立體構形；構形表位較常是 B 細胞抗原受體或抗體直接辨認的對象。\n- D. 不選，敘述適當。T 細胞在胸腺接受陽性選擇與陰性選擇，保留能辨認自體 MHC 但不會高親和力攻擊自體抗原的細胞，這是建立中樞耐受、降低自體免疫風險的重要過程。\n\n【核心考點】\nT 細胞看的是 peptide-MHC，B 細胞/抗體可直接看天然抗原的構形表位。胸腺教育透過陽性與陰性選擇建立 MHC 限制性與中樞耐受。",
+      "key_point": "T 細胞辨認線性胜肽-MHC 複合體；複雜立體構形抗原較屬於 B 細胞或抗體直接辨認的特色。",
+      "flashcard_front": "T 細胞與 B 細胞辨認抗原最大的差異是什麼？",
+      "flashcard_back": "T 細胞通常辨認 MHC 呈現的線性胜肽；B 細胞或抗體可直接辨認天然抗原的立體構形表位。T 細胞還需經胸腺陽性/陰性選擇。",
+      "flashcard_summary": "TCR：linear peptide + MHC；BCR/antibody：native conformational epitope。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:30+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n血液容積大量增加會使靜脈回流增加，心室在舒張末期被更多血液充盈，因此心室舒張末期容積（end-diastolic volume, EDV）上升。在生理範圍內，前負荷增加會透過 Frank-Starling mechanism 增加心肌收縮張力，使心搏量（stroke volume, SV）增加。\n\n【選項詳解】\n- A. 正確。血容量上升先增加靜脈回流與 EDV，心肌纖維被拉長後，肌絲重疊與鈣敏感性較有利於產生張力，因此每次收縮射出的血量增加。\n- B. 錯誤。前半句 EDV 上升符合血容量增加後的變化，但在正常 Frank-Starling 範圍內，EDV 上升會讓 SV 上升，而不是下降；只有心衰竭或過度擴張時才可能出現泵血效率惡化。\n- C. 錯誤。血液容積大量增加不會使心室舒張末期容積降低，因為回到心臟的血量變多，心室充盈量應增加；雖然 SV 可增加，但此選項的 EDV 方向錯誤。\n- D. 錯誤。此選項同時把 EDV 與 SV 都寫成下降，較像血容量下降、靜脈回流不足或前負荷降低時的方向，與大量增加血液容積相反。\n\n【核心考點】\n血容量增加會提高靜脈回流與前負荷，使 EDV 上升；在正常生理範圍內，Frank-Starling mechanism 會讓 EDV 增加伴隨 SV 增加。",
+      "key_point": "血容量增加 -> 靜脈回流增加 -> EDV 上升；正常 Frank-Starling 範圍內 EDV 上升會使 SV 增加。",
+      "flashcard_front": "血容量增加後 EDV 與 SV 如何變化？",
+      "flashcard_back": "血容量增加會增加靜脈回流與前負荷，使心室舒張末期容積（EDV）上升，並經 Frank-Starling mechanism 使心搏量（SV）增加。",
+      "flashcard_summary": "血容量增加 -> EDV 上升、SV 增加",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n長吸氣（apneusis）的重點是吸氣終止訊號不足，造成吸氣相異常延長。典型實驗條件是破壞橋腦的 pneumotaxic center，同時切斷迷走神經傳入，使橋腦吸氣切斷訊號與肺牽張反射都失效。\n\n【選項詳解】\n- A. 錯誤。僅破壞 pneumotaxic center 會減弱吸氣切斷，使呼吸較深、吸氣較長，但迷走神經仍可由肺牽張反射提供抑制吸氣的傳入訊號，因此通常不足以造成最明顯的長吸氣。\n- B. 錯誤。DRG 是延髓中重要的吸氣神經元群，pre-Bötzinger complex 參與呼吸節律產生；破壞這兩者會使呼吸節律或吸氣驅動受損，偏向呼吸不規則或停止，而不是單純吸氣終止失敗。\n- C. 錯誤。切斷迷走神經會移除肺牽張反射的吸氣終止訊號，但同時破壞 pre-Bötzinger complex 會破壞節律發生器本身，重點變成呼吸節律無法正常產生，而非典型 apneusis。\n- D. 正確。破壞 pneumotaxic center 加上切斷 vagus nerve，會同時移除橋腦與肺牽張反射兩個重要吸氣終止機制，使吸氣無法被適時切斷，最容易形成明顯長吸氣。\n\n【核心考點】\napneusis 是吸氣終止機制失效的表現；典型組合是橋腦 pneumotaxic center 受損加上迷走神經切斷，而不是破壞延髓節律產生區。",
+      "key_point": "長吸氣來自吸氣切斷失敗，典型為破壞 pneumotaxic center 並切斷 vagus nerve。",
+      "flashcard_front": "造成明顯 apneusis 的典型實驗組合？",
+      "flashcard_back": "破壞橋腦 pneumotaxic center 加上切斷迷走神經，會移除吸氣終止訊號與肺牽張反射，造成明顯長吸氣。",
+      "flashcard_summary": "apneusis -> pneumotaxic center 受損 + vagus nerve 切斷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n頸動脈體球細胞（glomus cell）會感受動脈血氧分壓下降。低氧時，球細胞膜上的氧敏感性鉀離子通道被抑制，鉀外流減少，使膜電位去極化，進而開啟電壓門控鈣通道並釋放神經傳遞物質。\n\n【選項詳解】\n- A. 正確。低氧會抑制 O2-sensitive K+ channel，減少 K+ 外流；正電荷較留在細胞內，造成 membrane depolarization，接著促進 Ca2+ 內流與頸動脈竇神經傳入訊號增加。\n- B. 錯誤。若氧敏感性 K+ 通道被活化，K+ 外流會增加，膜電位會更負向，這不符合低氧時球細胞要興奮化的生理反應。\n- C. 錯誤。此選項前半句「K+ 通道受抑制」是對的，但 K+ 外流減少造成的是去極化，不是過極化；過極化會使細胞較難興奮。\n- D. 錯誤。K+ 通道活化加上膜過極化，代表細胞興奮性下降，與低氧刺激頸動脈體、增加呼吸驅動的方向相反。\n\n【核心考點】\n頸動脈體低氧轉導路徑：PaO2 下降 -> O2-sensitive K+ channel 受抑制 -> K+ 外流減少 -> 去極化 -> Ca2+ 內流 -> 神經傳遞物質釋放 -> 通氣增加。",
+      "key_point": "低氧使頸動脈體球細胞的氧敏感性 K+ 通道受抑制，導致膜去極化與 Ca2+ 內流。",
+      "flashcard_front": "低 PaO2 時頸動脈體 glomus cell 的膜電位變化？",
+      "flashcard_back": "低氧會抑制 O2-sensitive K+ channel，K+ 外流減少，使球細胞去極化並開啟 Ca2+ 通道。",
+      "flashcard_summary": "頸動脈體低氧反應 -> K+ 通道受抑制、膜去極化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n蛋白質消化後不只以游離胺基酸吸收，也可用二肽、三肽形式進入小腸上皮。游離胺基酸多使用 Na+-dependent cotransporter，二肽與三肽則常經 H+-dependent PEPT1 吸收，因此共同運輸常與鈉或氫離子梯度有關。\n\n【選項詳解】\n- A. 錯誤。小腸可以吸收游離胺基酸，也可以吸收二肽與三肽；二、三肽進入上皮細胞後再被胞內胜肽酶分解成胺基酸，因此「僅能吸收單一胺基酸」過度限縮。\n- B. 錯誤。蛋白質分解酵素主要來自胃與胰臟，例如胃蛋白酶、trypsin、chymotrypsin、elastase、carboxypeptidase；肝臟分泌膽汁協助脂質消化，並不是蛋白質消化酵素的主要來源。\n- C. 錯誤。chymotrypsin 是胰臟分泌的 endopeptidase，會切割多肽鏈內部特定位置，特別偏好芳香族胺基酸附近的肽鍵；exopeptidase 則如 carboxypeptidase 或 aminopeptidase，從肽鏈末端切下胺基酸。\n- D. 正確。游離胺基酸常與 Na+ 同向運輸，二肽與三肽常由 H+ 依賴型 PEPT1 運輸，這些離子梯度多由 Na+-K+ ATPase 與刷狀緣 Na+/H+ exchange 間接維持。\n\n【核心考點】\n蛋白質吸收要分清「吸收型態」與「酵素類型」：胺基酸可走 Na+ 依賴轉運，二、三肽可走 H+ 依賴 PEPT1；chymotrypsin 屬內切酶，不是外切酶。",
+      "key_point": "小腸吸收游離胺基酸多依賴 Na+ 共同運輸，吸收二、三肽多依賴 H+ 共同運輸 PEPT1。",
+      "flashcard_front": "蛋白質消化產物在小腸如何吸收？",
+      "flashcard_back": "游離胺基酸多經 Na+-dependent cotransporter 吸收；二肽與三肽多經 H+-dependent PEPT1 吸收。chymotrypsin 是內切酶。",
+      "flashcard_summary": "蛋白質吸收 -> 胺基酸 Na+ 依賴；二、三肽 H+ 依賴",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n小腸對葡萄糖與多數胺基酸的吸收屬於繼發性主動運輸，直接依賴腸腔側到上皮細胞內的 Na+ 電化學梯度。若腸上皮細胞外，也就是腸腔側 Na+ 濃度下降，SGLT1 與多種 Na+-amino acid cotransporters 的驅動力會降低。\n\n【選項詳解】\n- A. 錯誤。胰島素會促進骨骼肌與脂肪組織以 GLUT4 攝取葡萄糖，但小腸腔內葡萄糖吸收主要靠 SGLT1 與腸上皮的轉運機制，並非由血中胰島素濃度直接決定。\n- B. 錯誤。血中 K+ 對許多細胞膜電位重要，但小腸葡萄糖與胺基酸的頂端膜吸收不是以 K+ 梯度作為共同運輸的主要驅動力。\n- C. 正確。腸腔側 Na+ 濃度提供 SGLT1 與多數胺基酸轉運器的同向運輸驅動力；基底側 Na+-K+ ATPase 維持細胞內低 Na+，讓 Na+ 能從腸腔流入並帶動營養素吸收。\n- D. 錯誤。Ca2+ 在腸道本身有特定吸收調控，但它不是葡萄糖與多數胺基酸共同運輸的主要偶聯離子；改變腸上皮外 Ca2+ 不會像 Na+ 那樣直接降低 SGLT1 的驅動力。\n\n【核心考點】\n小腸吸收葡萄糖與多數胺基酸，關鍵是腸腔側 Na+ 梯度與基底側 Na+-K+ ATPase；胰島素調節周邊組織 GLUT4，不是小腸 SGLT1 吸收的主要控制因子。",
+      "key_point": "小腸葡萄糖與多數胺基酸吸收依賴腸腔側 Na+ 梯度，屬繼發性主動運輸。",
+      "flashcard_front": "最影響小腸吸收葡萄糖與胺基酸的離子濃度？",
+      "flashcard_back": "腸上皮細胞外（腸腔側）Na+ 濃度最重要，因為 SGLT1 與多種胺基酸轉運器依賴 Na+ 同向運輸。",
+      "flashcard_summary": "小腸營養素吸收 -> 腸腔側 Na+ 梯度驅動",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n遠端腎小管後段與皮質集尿管主細胞負責調節 K+ 分泌。K+ 要分泌到管腔，既需要管腔側特定 K+ 通道（如 ROMK、BK channel），也受到管腔電位影響；來源資料已標示第 66 題官方更正為 B、D 或 BD 均給分。\n\n【選項詳解】\n- A. 錯誤。ADH 主要促進集尿管水通透性，並透過 AQP2 增加水再吸收；它不是決定遠端腎小管 K+ 分泌的主要直接因素。\n- B. 正確（給分）。主細胞經 ENaC 重吸收 Na+ 後，管腔相對變得較負電，這個電位差會吸引帶正電的 K+ 從細胞內往管腔分泌；因此管腔內正電荷多寡會影響 K+ 分泌的電化學驅動力。\n- C. 錯誤。尿液流速增加確實可在遠端 nephron 促進 K+ 分泌，因為可沖走管腔 K+ 並活化流速相關通道；但題目寫的是近端腎小管腔內尿液流速，位置不精確，且不是此題官方更正給分的主軸。\n- D. 正確（給分）。K+ 分泌必須經過管腔側特定 K+ channel，尤其 ROMK 與高流速時較重要的 BK channel；沒有這些通道，電位梯度無法讓 K+ 有效跨膜進入管腔。\n\n【核心考點】\n遠端 nephron 的 K+ 分泌取決於「通道」與「驅動力」：Na+-K+ ATPase 使主細胞內 K+ 濃度高，ROMK/BK 讓 K+ 可由管腔側離開細胞，ENaC 造成的管腔負電位則促進 K+ 分泌。",
+      "key_point": "遠端腎小管 K+ 分泌需要管腔側 K+ 通道，且受 ENaC 造成的管腔負電位驅動；本題官方更正 B、D 或 BD 均給分。",
+      "flashcard_front": "遠端 nephron 分泌 K+ 的兩個關鍵？",
+      "flashcard_back": "管腔側 ROMK/BK 等 K+ 通道提供通路，ENaC 重吸收 Na+ 造成管腔負電位提供分泌 K+ 的電化學驅動力。",
+      "flashcard_summary": "遠端 K+ 分泌 -> K+ 通道 + 管腔負電位",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": [
+        "來源資料標示第66題官方更正為 B、D 或 BD 均給分；合併時請確認前端呈現多重給分。"
+      ]
+    },
+    {
+      "question_id": "112-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n短時間喝下 2000 mL 白開水會使細胞外液被稀釋，血液滲透壓下降。下視丘滲透壓感受器活性降低後，ADH 分泌減少，集尿管水通透性下降，腎臟排出大量稀釋尿，因此尿液滲透壓也下降。\n\n【選項詳解】\n- A. 錯誤。大量喝水後血液被稀釋，血液滲透壓不會增加；後半句尿液滲透壓降低雖符合水利尿，但前半句方向錯誤。\n- B. 錯誤。血液滲透壓降低是正確方向，但 ADH 被抑制後，集尿管重吸水減少，尿液應變稀，尿液滲透壓下降，而不是增加。\n- C. 錯誤。血液與尿液滲透壓都增加較像脫水或高滲負荷後 ADH 上升、腎臟濃縮尿液的反應，與短時間大量喝白開水相反。\n- D. 正確。喝水使血液滲透壓下降，並抑制 ADH；集尿管 AQP2 插入減少，水分不易被重吸收，排出大量低滲尿，使尿液滲透壓低於喝水前基礎值。\n\n【核心考點】\n水負荷後的順序是血漿滲透壓下降 -> ADH 下降 -> 集尿管水通透性下降 -> 水利尿增加 -> 尿液滲透壓下降。",
+      "key_point": "短時間大量喝水會降低血液滲透壓並抑制 ADH，使尿液變稀、尿液滲透壓降低。",
+      "flashcard_front": "喝 2000 mL 白開水後血液與尿液滲透壓如何變？",
+      "flashcard_back": "血液被稀釋使血漿滲透壓下降，ADH 分泌減少，集尿管排出低滲尿，所以尿液滲透壓也下降。",
+      "flashcard_summary": "大量喝水 -> 血液滲透壓下降、尿液滲透壓下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n病人 Na+ 120 mEq/L、K+ 6.7 mEq/L，呈現低血鈉合併高血鉀。這組合最典型指向醛固酮不足，因為醛固酮平時促進遠端 nephron 保鈉、排鉀；缺乏時會鈉流失、鉀滯留。\n\n【選項詳解】\n- A. 正確。腎上腺功能不足可造成 aldosterone 缺乏，遠端腎小管與集尿管 Na+ 重吸收下降，水分也較難保留，形成低血鈉；同時 K+ 與 H+ 分泌下降，導致高血鉀，符合題目數值。\n- B. 錯誤。原發性高醛固酮血症是 aldosterone 過多，會使 ENaC 活性與 Na+ 重吸收增加，並促進 K+ 分泌，因此典型是高血壓、低血鉀與代謝性鹼中毒，不符合低鈉高鉀。\n- C. 錯誤。Cushing syndrome 以 cortisol 過多為主，高濃度 cortisol 可產生類 mineralocorticoid 效應，較可能保鈉、排鉀並造成高血壓或低血鉀，方向不像題目的低鈉高鉀。\n- D. 錯誤。低鈉飲食通常會活化 renin-angiotensin-aldosterone system，使 aldosterone 上升以保鈉並排鉀；單純低鈉飲食不應造成 K+ 6.7 mEq/L 這種顯著高血鉀。\n\n【核心考點】\n低血鈉合併高血鉀要想到 aldosterone 缺乏或作用不足；aldosterone 過多則通常保鈉排鉀，表現方向相反。",
+      "key_point": "低鈉合併高鉀是醛固酮不足的典型電解質線索，最支持腎上腺功能不足。",
+      "flashcard_front": "Na+ 低、K+ 高最典型想到哪種內分泌問題？",
+      "flashcard_back": "醛固酮不足，例如腎上腺功能不足，會造成遠端 nephron 保鈉下降與排鉀下降，因此低血鈉合併高血鉀。",
+      "flashcard_summary": "低 Na+ + 高 K+ -> aldosterone 不足 / adrenal insufficiency",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n維生素 D3 是 cholecalciferol，可由皮膚經 UVB 生成，也可從食物補充。它需先在肝臟變成 25-hydroxycholecalciferol，再到腎臟經 1α-hydroxylase 變成活性型 calcitriol。\n\n【選項詳解】\n- A. 錯誤。vitamin D3 又稱 cholecalciferol；25-hydroxycholecalciferol 是 D3 在肝臟 25-hydroxylase 作用後形成的 calcidiol，不是 D3 本身的別名。\n- B. 錯誤。肝臟主要負責把 vitamin D3 羥化成 25(OH)D3；D3 的來源是皮膚 7-dehydrocholesterol 經 UVB 轉化，或由飲食攝取，並不是主要在肝臟製造合成。\n- C. 錯誤。1α-hydroxylase 位於腎臟近端小管，主要作用於 25(OH)D3，產生活性 1,25(OH)2D3；直接說 vitamin D3 經 1α-hydroxylase 作用形成活性產物，省略了肝臟 25-hydroxylation 這個必要步驟。\n- D. 正確。vitamin D3 可由食物補充，常見來源包括魚肝油、富脂魚類、蛋黃或強化食品；這是日照不足時的重要來源之一。\n\n【核心考點】\nVitamin D3 活化路徑：皮膚或食物取得 cholecalciferol -> 肝臟 25-hydroxylase 形成 25(OH)D3 -> 腎臟 1α-hydroxylase 形成 1,25(OH)2D3。",
+      "key_point": "Vitamin D3 是 cholecalciferol，可由食物攝取；活化需先肝臟 25-hydroxylation，再腎臟 1α-hydroxylation。",
+      "flashcard_front": "Vitamin D3 的來源與活化路徑？",
+      "flashcard_back": "Vitamin D3（cholecalciferol）可由皮膚 UVB 生成或食物攝取；先在肝臟成 25(OH)D3，再於腎臟成 1,25(OH)2D3。",
+      "flashcard_summary": "Vitamin D3 -> 可由食物攝取；肝 25-OH、腎 1α-OH 活化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n原發性高醛固酮血症會促進遠端 nephron 排鉀，造成低血鉀。低血鉀會使胰臟 beta cell 膜電位偏向過極化，較不容易去極化、開啟電壓門控 Ca2+ 通道，因此胰島素分泌下降，造成葡萄糖耐受性受損。\n\n【選項詳解】\n- A. 錯誤。高醛固酮會增加 Na+ 重吸收並擴張血容量，但血中 Na+ 濃度升高本身不是造成葡萄糖耐受性受損的主要機制；題目要連到低 K+ 對胰島素分泌的影響。\n- B. 錯誤。醛固酮主要作用在 mineralocorticoid receptor，促進腎臟保鈉排鉀與影響血壓；「醛固酮升高就刺激交感神經造成血糖升高」不是解釋此現象的典型生理路徑。\n- C. 錯誤。醛固酮會增加遠端 nephron Na+ 重吸收，但不會在腎臟直接增加葡萄糖再吸收作為主要作用；腎糖再吸收主要由近端小管 SGLT2/SGLT1 負責，與高醛固酮造成糖耐受性受損的核心機制不同。\n- D. 正確。低血鉀降低細胞外 K+，使 beta cell 靜止膜電位更負，葡萄糖刺激後較難達到去極化閾值；Ca2+ 內流不足會減少 insulin granule exocytosis，導致胰島素分泌下降與血糖控制變差。\n\n【核心考點】\n高醛固酮血症與糖耐受性受損的關鍵連結是低血鉀：低 K+ 使胰臟 beta cell 過極化，抑制 Ca2+ 內流與胰島素釋放。",
+      "key_point": "原發性高醛固酮血症造成低血鉀；低血鉀使 beta cell 過極化並抑制胰島素分泌。",
+      "flashcard_front": "原發性高醛固酮血症為何可伴隨糖耐受性受損？",
+      "flashcard_back": "高醛固酮造成低血鉀，低 K+ 使胰臟 beta cell 過極化，抑制 Ca2+ 內流與胰島素分泌。",
+      "flashcard_summary": "高醛固酮 -> 低血鉀 -> beta cell 過極化 -> 胰島素分泌下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:18:52+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

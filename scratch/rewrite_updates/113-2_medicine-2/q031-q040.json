@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題問血吸蟲 (Schistosoma spp.) 何者錯誤，關鍵在血吸蟲和多數人體吸蟲不同：血吸蟲是雌雄異體，不是雌雄同體。因此官方答案 A 是錯誤敘述；尾動幼蟲經皮感染、曼森血吸蟲分布廣，以及蟲卵引發免疫病變都是血吸蟲的重要特徵。\n\n【選項詳解】\n- A. 錯誤。多數吸蟲如肝吸蟲、肺吸蟲為雌雄同體，但血吸蟲為雌雄異體 (dioecious)；雄蟲有抱雌溝 (gynecophoral canal) 可容納較細長的雌蟲。血吸蟲雖有口吸盤與腹吸盤，但「雌雄同體」這一點不正確。\n- B. 正確。血吸蟲的感染期是尾動幼蟲 (cercaria)，由螺類中間宿主釋出後可在淡水中直接穿透人體皮膚，進入血液循環後發育成成蟲。\n- C. 正確。曼森血吸蟲 (S. mansoni) 分布於非洲、中東、南美洲與加勒比海等地，是人體血吸蟲中地理分布相當廣的一種，考題常用來和日本血吸蟲、埃及血吸蟲作區分。\n- D. 正確。血吸蟲病的主要組織傷害多來自宿主對沉積蟲卵的免疫反應，形成肉芽腫與纖維化；慢性肝腸型感染可造成門脈周圍纖維化、肝脾腫大與門脈高壓。\n\n【核心考點】\n血吸蟲三個高頻重點是：雌雄異體、尾動幼蟲經皮感染、病變主要由蟲卵誘發的免疫性肉芽腫造成。看到「血吸蟲雌雄同體」要立刻判定為錯誤。",
+      "key_point": "血吸蟲為雌雄異體，尾動幼蟲可經皮感染，主要致病機轉是蟲卵引發的免疫性肉芽腫與纖維化。",
+      "flashcard_front": "血吸蟲的形態、感染期與主要致病機轉",
+      "flashcard_back": "血吸蟲為雌雄異體，雄蟲具抱雌溝；感染期為尾動幼蟲，可直接穿透皮膚；主要病變來自蟲卵誘發的免疫肉芽腫與纖維化。",
+      "flashcard_summary": "血吸蟲 -> 雌雄異體、尾動幼蟲經皮感染、蟲卵免疫肉芽腫致病",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題要找人類感染途徑主要不是飲用受污染水的寄生蟲。環孢子蟲、梨形鞭毛蟲與隱孢子蟲都可經污染水源造成腸道感染；弓蟲 (Toxoplasma gondii) 最典型途徑則是吃入未煮熟肉類中的組織囊體，或攝入貓糞污染環境中的卵囊，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。環孢子蟲 (Cyclospora cayetanensis) 可經糞便污染的水或生鮮蔬果傳播；人類食入已孢子化卵囊後會出現水瀉、腹痛等腸道症狀，所以它屬於重要水源性或食物源性原蟲。\n- B. 正確。弓蟲主要由食入含組織囊體 (tissue cyst) 的未熟肉類，或手口攝入貓糞污染土壤、貓砂、食物中的卵囊感染；污染水雖可偶發傳播，但不是考試上最主要、最典型的感染途徑。\n- C. 錯誤。梨形鞭毛蟲 (Giardia lamblia / G. intestinalis) 的包囊能在環境中存活，常由受糞便污染的飲用水、溪水或托育機構環境傳播，是典型水源性腹瀉病原。\n- D. 錯誤。隱孢子蟲 (Cryptosporidium spp.) 卵囊對氯消毒耐受，容易經飲用水或游泳池等娛樂水體傳播，免疫低下者可出現嚴重或持續腹瀉。\n\n【核心考點】\n腸道原蟲傳播題要先分清「水源性腹瀉原蟲」與「肉類或貓糞相關原蟲」。Giardia、Cryptosporidium、Cyclospora 常和污染水源連在一起；Toxoplasma 的高頻途徑是未熟肉類組織囊體與貓糞卵囊。",
+      "key_point": "弓蟲主要經未熟肉類組織囊體或貓糞卵囊感染；Giardia、Cryptosporidium、Cyclospora 是常見水源性腸道原蟲。",
+      "flashcard_front": "哪些原蟲常經污染水傳播？弓蟲主要感染途徑是什麼？",
+      "flashcard_back": "Giardia、Cryptosporidium、Cyclospora 常經污染水或食物傳播；Toxoplasma gondii 主要經未熟肉類組織囊體，或攝入貓糞污染環境中的卵囊感染。",
+      "flashcard_summary": "水源性原蟲 -> Giardia/Cryptosporidium/Cyclospora；弓蟲 -> 未熟肉類與貓糞卵囊",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題問間日瘧原蟲 (Plasmodium vivax) 何者錯誤。P. vivax 的重點是偏好侵犯網狀紅血球，且需利用紅血球表面的 Duffy 抗原進入細胞；西非許多人為 Duffy 陰性，因此 P. vivax 在西非並不常見，所以 C 錯。\n\n【選項詳解】\n- A. 正確。P. vivax 主要侵犯年輕紅血球，尤其是網狀紅血球 (reticulocyte)；相較之下，P. falciparum 可侵犯各年齡層紅血球，所以寄生蟲血症通常可更高、更嚴重。\n- B. 正確。Duffy 血型抗原是 P. vivax merozoite 附著與入侵紅血球的重要受體；缺乏 Duffy 抗原者較不容易被典型 P. vivax 感染。\n- C. 錯誤。西非族群 Duffy 陰性比例高，P. vivax 難以進入紅血球，因此間日瘧在西非不是最常見；西非瘧疾主要仍以 P. falciparum 等為臨床重點。\n- D. 正確。瘧疾發燒與畏寒來自紅血球內裂殖體成熟後同步破裂，釋出裂殖子、代謝產物與細胞碎片，刺激宿主發炎反應而造成週期性寒顫、發熱與出汗。\n\n【核心考點】\nP. vivax = Duffy 抗原受體 + 網狀紅血球偏好 + 西非 Duffy 陰性造成天然相對抗性。瘧疾的週期性發熱則與紅血球破裂、裂殖子釋放和發炎介質上升有關。",
+      "key_point": "P. vivax 需 Duffy 抗原並偏好侵犯網狀紅血球；西非族群 Duffy 陰性比例高，因此間日瘧在西非常見度低。",
+      "flashcard_front": "P. vivax 的紅血球受體、侵犯血球類型與西非分布特色",
+      "flashcard_back": "P. vivax 利用 Duffy 抗原入侵紅血球，偏好網狀紅血球；西非許多人 Duffy 陰性，對典型 P. vivax 有相對抗性，所以間日瘧在西非不常見。",
+      "flashcard_summary": "P. vivax -> Duffy 抗原、網狀紅血球、西非 Duffy 陰性使感染少見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題問隱孢子蟲 (Cryptosporidium spp.) 何者錯誤。官方更正資料顯示 B 或 D 或 BD 均給分：B 的「僅存在於宿主腸道上皮刷狀緣」過度限縮，D 的「糞便中找到大量活動體」也不符合診斷生命史，因糞便主要檢出的是卵囊。\n\n【選項詳解】\n- A. 正確。人隱孢子蟲 (C. hominis) 與小隱孢子蟲 (C. parvum) 是人類隱孢子蟲症最常見的病原，前者偏人傳人，後者也可有人畜共通傳播。\n- B. 錯誤。隱孢子蟲典型寄生於小腸上皮刷狀緣，定位常描述為細胞內但細胞質外 (intracellular but extracytoplasmic)；但嚴重免疫不全者可侵犯膽道、胃腸道其他部位，甚至呼吸道，因此「僅存在於腸道上皮刷狀緣」太絕對。\n- C. 正確。隱孢子蟲症常經糞便污染的飲用水或娛樂水體傳播；其卵囊對氯消毒耐受，所以公共水源與游泳池群聚感染是重要考點。\n- D. 錯誤。腹瀉患者糞便中用於診斷的是卵囊 (oocyst)，可用改良抗酸染色或抗原/分子檢測；活動體 (trophozoite) 不是大量隨糞便排出、作為常規糞便診斷的型態。\n\n【核心考點】\n隱孢子蟲的考點包含：C. hominis / C. parvum 常感染人類、卵囊耐氯並經水傳播、糞便檢出卵囊，以及免疫不全者可有膽道或腸道外侵犯。看到「糞便大量活動體」或「僅限腸道刷狀緣」都要小心。",
+      "key_point": "隱孢子蟲糞便診斷主要找卵囊而非活動體；免疫不全者可侵犯膽道或其他部位，不宜說僅限腸道刷狀緣。",
+      "flashcard_front": "隱孢子蟲的人類常見種、傳播、寄生位置與糞便診斷型態",
+      "flashcard_back": "C. hominis 與 C. parvum 最常感染人類；卵囊耐氯、常經水傳播；寄生於刷狀緣但免疫不全者可擴散至膽道等處；糞便診斷主要檢出卵囊，不是活動體。",
+      "flashcard_summary": "Cryptosporidium -> 水源性耐氯卵囊；糞便檢卵囊；免疫不全可膽道/腸道外侵犯",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": [
+        "官方更正資料顯示第34題答B或D或BD均給分；D選項糞便應檢出卵囊而非活動體。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-2_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題問哪一種疾病的主要病媒不是體蝨 (body louse)。流行性斑疹傷寒、蝨傳回歸熱與戰壕熱都和體蝨有關；地方性斑疹傷寒的主要病媒是鼠蚤，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。流行性斑疹傷寒 (epidemic typhus) 由普氏立克次體 (Rickettsia prowazekii) 引起，主要經體蝨糞便污染抓痕或黏膜而感染，常見於擁擠、衛生不佳或戰亂環境。\n- B. 錯誤。回歸熱若指蝨傳回歸熱，病原為 Borrelia recurrentis，病媒是體蝨；人體常因壓碎體蝨後，含病原的體液進入皮膚破損處而感染。\n- C. 正確。地方性斑疹傷寒 (endemic typhus, murine typhus) 主要由 Rickettsia typhi 引起，傳播病媒是鼠蚤，常與鼠類宿主及跳蚤糞便污染有關，不是以體蝨為主要病媒。\n- D. 錯誤。戰壕熱 (trench fever) 由 Bartonella quintana 引起，主要經體蝨傳播；病原可隨體蝨糞便污染皮膚破損處或結膜而進入人體。\n\n【核心考點】\n病媒配對要記清楚：體蝨傳播流行性斑疹傷寒、蝨傳回歸熱、戰壕熱；鼠蚤傳播地方性斑疹傷寒，也和鼠疫等疾病有關。",
+      "key_point": "地方性斑疹傷寒主要由鼠蚤傳播；流行性斑疹傷寒、蝨傳回歸熱與戰壕熱才是體蝨相關疾病。",
+      "flashcard_front": "體蝨與鼠蚤分別傳播哪些典型疾病？",
+      "flashcard_back": "體蝨傳播流行性斑疹傷寒、蝨傳回歸熱、戰壕熱；鼠蚤傳播地方性斑疹傷寒，並可傳播鼠疫。",
+      "flashcard_summary": "體蝨 -> epidemic typhus/relapsing fever/trench fever；鼠蚤 -> endemic typhus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題問信賴區間 (confidence interval) 何者最不恰當。95% 信賴區間不是說 95% 的樣本或個別觀察值落在該區間，而是重複抽樣建立區間時，約 95% 的區間會涵蓋母體真實參數，因此答案為 B。\n\n【選項詳解】\n- A. 正確。信賴區間是一種區間估計方法，用樣本估計值加上不確定性範圍來推估母體參數，比單一點估計更能呈現估計精確度。\n- B. 錯誤。95% 信賴區間的正確解讀是：在相同方法反覆抽樣並建立區間時，長期而言約 95% 的區間會包含真實母體參數；它不是樣本觀察值的中央 95%，也不是保證這次母體參數有 95% 機率落在已算出的固定區間內。\n- C. 正確。其他條件相同時，90% 信賴區間使用的臨界值小於 95% 信賴區間，所以區間較窄；信賴水準越高，為了更有把握涵蓋參數，區間通常越寬。\n- D. 正確。信賴區間可用於假說檢定。例如平均差的 95% 信賴區間不含 0，或 OR/RR 的 95% 信賴區間不含 1，通常表示雙尾檢定在 alpha = 0.05 下達統計顯著。\n\n【核心考點】\n信賴區間描述的是估計母體參數的不確定性，不是個別樣本值分布。信賴水準降低會使區間變窄；信賴區間是否包含無效值，可對應雙尾假說檢定結果。",
+      "key_point": "95% 信賴區間指重複抽樣所建區間約 95% 會涵蓋母體參數，不代表 95% 樣本值落在區間內。",
+      "flashcard_front": "95% 信賴區間的正確解讀與常見誤解",
+      "flashcard_back": "正確：重複抽樣建立的區間約 95% 會包含母體參數。錯誤：95% 的樣本值落在區間內。信賴水準越高區間越寬；區間不含無效值可支持統計顯著。",
+      "flashcard_summary": "Confidence interval -> 估母體參數；不是樣本值範圍；可配合無效值做假說檢定",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題要選治療前後疼痛分數的統計方法。資料來自同一批 100 位病人的復健治療前與治療後分數，結果變項是 0 到 100 分的連續型資料；因為前後測彼此配對，應用配對 t 檢定，所以答案為 D。\n\n【選項詳解】\n- A. 錯誤。卡方檢定 (Chi-square test) 用於類別變項的比例或關聯，例如治療組與對照組的改善/未改善比例；本題疼痛分數是連續型資料，不適合直接用卡方檢定。\n- B. 錯誤。McNemar 檢定用於配對的二分類別資料，例如同一批人治療前後是否疼痛的 yes/no 變化；本題不是二分資料，而是連續分數。\n- C. 錯誤。雙樣本 t 檢定比較兩組互相獨立的連續型平均值，例如復健組與未復健組各自不同病人的疼痛分數；本題是同一位病人前後測，資料不獨立。\n- D. 正確。配對 t 檢定 (paired t-test) 會先計算每位病人治療後與治療前的差值，再檢定平均差是否顯著不同於 0，正符合「同一群人前後測連續資料」的設計。\n\n【核心考點】\n統計檢定先看變項型態與樣本關係：連續資料 + 同一受試者前後測 = 配對 t 檢定；連續資料 + 兩獨立組 = 雙樣本 t 檢定；配對二分資料 = McNemar 檢定；類別比例關聯 = 卡方檢定。",
+      "key_point": "同一批受試者治療前後的連續型分數比較，應使用配對 t 檢定；重點是資料成對且不獨立。",
+      "flashcard_front": "前後測連續資料、獨立連續資料、配對二分資料各用什麼檢定？",
+      "flashcard_back": "前後測連續資料用配對 t 檢定；兩獨立組連續資料用雙樣本 t 檢定；配對二分資料用 McNemar 檢定；類別比例關聯常用卡方檢定。",
+      "flashcard_summary": "同一人前後測連續分數 -> paired t-test",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題描述兩種檢驗只要任一次陽性就定義為陽性，這是並聯檢驗 (parallel testing)。並聯檢驗的目的在降低漏診，增加敏感度；代價是偽陽性增加、特異度下降，因此答案為 A。\n\n【選項詳解】\n- A. 正確。並聯檢驗中，只要任一檢驗陽性就判為感染者，因此真正感染者被其中一個檢驗抓到的機會增加，偽陰性下降，整體敏感度提高，適合新興傳染病爆發初期的防漏診策略。\n- B. 錯誤。特異度是排除非感染者的能力；並聯檢驗會讓任一假陽性都使個案被判定為陽性，因此偽陽性增加，特異度反而下降。提高特異度常用串聯檢驗。\n- C. 錯誤。並聯與串聯檢驗通常是在敏感度與特異度之間做取捨；並聯提高敏感度但降低特異度，不能期待兩者同時上升。\n- D. 錯誤。只要改變判定規則，整體敏感度與特異度就會改變；並聯規則不會維持原本單一檢驗的敏感度與特異度。\n\n【核心考點】\n並聯檢驗 = 任一陽性即陽性，提升敏感度、降低特異度；串聯檢驗 = 多個檢驗都陽性才陽性，提升特異度、降低敏感度。公衛篩檢想少漏診時常偏向敏感度。",
+      "key_point": "並聯檢驗可提高敏感度並降低漏診，但會降低特異度；串聯檢驗則相反。",
+      "flashcard_front": "並聯檢驗與串聯檢驗對敏感度、特異度的影響",
+      "flashcard_back": "並聯：任一檢驗陽性即陽性，敏感度上升、特異度下降。串聯：所有檢驗陽性才陽性，特異度上升、敏感度下降。",
+      "flashcard_summary": "Parallel testing -> sensitivity up, specificity down；Serial testing -> specificity up, sensitivity down",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題評估藥廠廣告能否證明新藥對喉嚨痛有效。即使 2000 名病人在第 4 天有 94% 緩解，沒有對照組就無法分辨是藥物效果、疾病自然病程，還是安慰劑效應造成，所以最恰當的批判是 D。\n\n【選項詳解】\n- A. 錯誤。喉嚨痛常由病毒感染或自限性病程造成，許多病人數天內會自然改善；單看服藥後緩解比例，不能證明新藥有超過自然恢復的療效。\n- B. 錯誤。人年數 (person-years) 常用於長期追蹤的發生率或死亡率計算，例如 cohort study 中不同追蹤時間的比較；本題是急性症狀第 4 天是否緩解，不是以人年率為核心分析問題。\n- C. 錯誤。長期藥物反應可用於安全性或慢性病療效評估，但本題廣告主張的是急性喉嚨痛短期症狀緩解；真正缺陷不是追蹤不夠久，而是缺乏比較基準。\n- D. 正確。沒有安慰劑組或標準治療對照組，就不能排除自然痊癒與安慰劑效應，也不能估計新藥比不治療或既有治療多帶來多少效果；療效主張需以適當對照研究支持。\n\n【核心考點】\n宣稱治療有效時，不能只看治療後改善比例；尤其自限性疾病必須有對照組，才能區分藥物效果、自然病程與安慰劑效應。評估療效的理想設計通常是隨機對照試驗。",
+      "key_point": "無對照組的單臂資料無法證明藥物療效，因為不能排除自限性疾病自然恢復與安慰劑效應。",
+      "flashcard_front": "為什麼藥物療效研究需要對照組？",
+      "flashcard_back": "對照組可排除自然病程、安慰劑效應與其他混雜因素；只有治療後改善比例，尤其在自限性疾病中，不能直接證明藥物有效。",
+      "flashcard_summary": "療效宣稱需對照組；單臂緩解率不能排除自然痊癒與 placebo effect",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題是半衰期計算。半衰期為 24 小時，殘量為原暴露量的 0.125 倍；0.125 = 1/8 = (1/2)^3，代表已經過 3 個半衰期，因此時間為 3 × 24 = 72 小時，答案為 C。\n\n【選項詳解】\n- A. 錯誤。42 小時不是 24 小時半衰期的整數倍，也無法使殘量剛好變成原量的 1/8；代入一級消除的半衰期關係不會得到 0.125。\n- B. 錯誤。48 小時等於 2 個半衰期，殘留比例是 (1/2)^2 = 1/4 = 0.25，仍高於題目所給的 0.125。\n- C. 正確。72 小時等於 3 個半衰期，殘留比例是 (1/2)^3 = 1/8 = 0.125，正好符合題目描述。\n- D. 錯誤。96 小時等於 4 個半衰期，殘留比例是 (1/2)^4 = 1/16 = 0.0625，比題目所給 0.125 更低。\n\n【核心考點】\n一級消除的半衰期題可直接記：1 個半衰期剩 50%，2 個剩 25%，3 個剩 12.5%，4 個剩 6.25%。先把殘留比例換成 (1/2)^n，再用 n 乘以半衰期即可。",
+      "key_point": "殘留 0.125 = 1/8 = 經過 3 個半衰期；半衰期 24 小時，所以經過 72 小時。",
+      "flashcard_front": "半衰期 24 小時，殘量剩 0.125 倍，經過多久？",
+      "flashcard_back": "0.125 = 1/8 = (1/2)^3，表示經過 3 個半衰期；3 × 24 小時 = 72 小時。",
+      "flashcard_summary": "半衰期計算 -> 0.125 = 3個半衰期 -> 72小時",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:46+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

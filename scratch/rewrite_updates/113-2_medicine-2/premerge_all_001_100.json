@@ -1,0 +1,35 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "merge": false,
+  "update_file_count": 10,
+  "question_count": 100,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 26,
+      "notes": [
+        "選項 A 將子宮列為免疫豁免部位的表述較非典型；官方答案仍可由選項 B 最明顯錯誤支持，建議人工複核教材用語。"
+      ]
+    },
+    {
+      "question_number": 34,
+      "notes": [
+        "官方更正資料顯示第34題答B或D或BD均給分；D選項糞便應檢出卵囊而非活動體。"
+      ]
+    },
+    {
+      "question_number": 51,
+      "notes": [
+        "官方答案 B 建議人工複核：二期試驗是否必須與現行有效藥比較，依試驗目的與倫理設計可能不同。"
+      ]
+    },
+    {
+      "question_number": 83,
+      "notes": [
+        "來源資料顯示第83題為官方更正多重給分，接受 B、C、D；本 update 未改答案欄位。"
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,25 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 62,
+    "end": 62
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題比較周邊組織微血管與肺泡微血管中，紅血球處理 CO2 時的 HCO3-/Cl- 交換與酸鹼變化。官方更正公告接受 B、C 或 BC 均給分；其中 B 可由肺端 HCO3- 進入紅血球來說明，C 則需特別註明：依常規 chloride shift，組織端紅血球內 Cl- 應較高而非較低，因此 C 的給分依據有疑義。\n\n【選項詳解】\n- A. 錯誤。Band 3 進行的是 HCO3- 與 Cl- 的等電荷交換，重點是陰離子跨膜分布改變；肺泡微血管紅血球不會以明顯去極化作為主要特徵。\n- B. 官方接受。肺泡微血管中，血漿 HCO3- 進入紅血球，與 H+ 重新形成 H2CO3，再經碳酸酐酶轉為 CO2 以利呼出，因此肺端紅血球內 HCO3- 可暫時增加。\n- C. 官方接受，但有生理疑義。若依常規 chloride shift 比較組織端與肺端紅血球，組織端 CO2 進入紅血球後形成 H+ 與 HCO3-；HCO3- 經 Band 3 外流到血漿、Cl- 內流入紅血球，所以組織端紅血球內 Cl- 應較高，而不是較低。此選項的官方給分理由需人工複核，避免把「組織端紅血球內 Cl- 較低」誤記成一般規則。\n- D. 錯誤。周邊組織端 CO2 進入紅血球後會增加 H+，雖有血紅素緩衝，紅血球內仍較偏酸；肺泡端移除 CO2 後，紅血球內 pH 相對較高。\n\n【核心考點】\nChloride shift 的方向要分清楚：組織端是 HCO3- 出紅血球、Cl- 入紅血球；肺端則是 HCO3- 入紅血球、Cl- 出紅血球。遇到官方更正接受多個作答組合時，保留公告結果，但若選項文字與生理過程不一致，應標記給人工複核。",
+      "key_point": "Chloride shift：組織端 HCO3- 出、Cl- 入；肺端 HCO3- 入、Cl- 出。第 62 題官方接受 C，但 C 的「組織端紅血球內 Cl- 較低」與常規方向有疑義。",
+      "flashcard_front": "紅血球 chloride shift：組織端與肺泡端的 HCO3-/Cl- 方向？第 62 題 C 為何需複核？",
+      "flashcard_back": "組織端 CO2 進入紅血球後形成 HCO3-，HCO3- 外流、Cl- 內流，所以組織端紅血球內 Cl- 通常較高；肺端反向，HCO3- 進入紅血球以轉成 CO2 呼出。第 62 題官方接受 C，但「組織端紅血球內 Cl- 較低」需人工複核。",
+      "flashcard_summary": "紅血球氣體運輸 -> 組織端 Cl- 入紅血球、肺端 HCO3- 入紅血球；第 62 題官方接受 C 但需複核其 chloride shift 依據",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-repair-update",
+      "explanation_generated_at": "2026-07-08T23:04:08+08:00",
+      "manual_review_notes": [
+        "第 62 題官方更正接受 B、C 或 BC 均給分；C 選項寫周邊組織微血管紅血球內 Cl- 較低，但依常規 chloride shift，組織端應為 HCO3- 外流、Cl- 內流，紅血球內 Cl- 較高，需人工複核官方更正依據。"
+      ]
+    }
+  ]
+}

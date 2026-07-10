@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問 NSAIDs 相關敘述何者錯誤。NSAIDs 抑制 cyclooxygenase (COX)，使前列腺素 (prostaglandins, PGs) 生成下降；因此會減少發炎造成的血管舒張、疼痛致敏與水腫，而不是增強血管舒張作用。\n\n【選項詳解】\n- A. 正確。Bradykinin 與 histamine 可引起疼痛、血管擴張與通透性增加；PGE2、PGI2 會讓血管與痛覺末梢對這些發炎介質更敏感。NSAIDs 減少 PGs 生成後，可降低這種致敏作用。\n- B. 正確。許多 NSAIDs 重複給藥後可進入關節滑液 (synovial fluid)，在關節腔內達到治療濃度，因此能用於類風濕性關節炎、退化性關節炎等關節發炎疼痛控制。\n- C. 錯誤。發炎時的血管舒張部分由 PGE2、PGI2 等前列腺素促成；NSAIDs 抑制 COX 後會減少這些前列腺素，效果是減弱局部血管舒張、紅腫與水腫，而不是增強。\n- D. 正確。選擇性 COX-2 抑制劑會降低內皮細胞 PGI2 的抗血小板與血管舒張作用，但較不影響血小板 COX-1 產生的 TXA2；PGI2/TXA2 平衡偏向血栓形成，可能增加水腫、高血壓與心肌梗塞風險。\n\n【核心考點】\nNSAIDs 的抗發炎作用來自抑制 COX、降低前列腺素合成；因此會降低發炎介質致敏與血管舒張。選擇性 COX-2 抑制劑需記得心血管與水腫風險，關鍵在 PGI2 與 TXA2 失衡。",
+      "key_point": "NSAIDs 抑制 COX 減少前列腺素，會減弱發炎性血管舒張與 bradykinin/histamine 致敏；選擇性 COX-2 抑制劑可因 PGI2/TXA2 失衡增加心血管事件與水腫風險。",
+      "flashcard_front": "NSAIDs 對發炎性血管舒張與 COX-2 抑制劑心血管風險的考點是什麼？",
+      "flashcard_back": "NSAIDs 減少 PGE2/PGI2 等前列腺素，所以會降低發炎性血管舒張、水腫與發炎介質致敏；選擇性 COX-2 抑制劑降低內皮 PGI2、相對保留血小板 TXA2，可能增加血栓、心肌梗塞、高血壓與水腫。",
+      "flashcard_summary": "NSAIDs -> 抑制 COX、減少前列腺素 -> 減弱血管舒張與致敏；COX-2 抑制劑 -> PGI2/TXA2 失衡 -> 心血管風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題問局部麻醉劑何者敘述錯誤。典型局部麻醉劑的共同機轉是阻斷電壓依賴型鈉離子通道，抑制神經動作電位傳導；bupivacaine 不是 opioid receptor agonist，因此 B 錯。\n\n【選項詳解】\n- A. 正確。Lidocaine 是 amide 類局部麻醉劑，阻斷電壓依賴型 sodium channels，讓神經纖維無法產生與傳遞動作電位。\n- B. 錯誤。Bupivacaine 也是 amide 類局部麻醉劑，作用在神經軸突的 sodium channels；它不是鴉片類藥物，也不靠興奮 opioid receptors 產生麻醉效果。\n- C. 正確。Cocaine 除了阻斷鈉通道，也會抑制 norepinephrine 再吸收，使局部交感活性增加，因此具有血管收縮效果。\n- D. 正確。Benzocaine 可造成 methemoglobinemia，因血紅素中的 Fe2+ 被氧化為 Fe3+，降低攜氧能力；臨床上使用噴霧或黏膜局部製劑時需特別注意。\n\n【核心考點】\n局部麻醉劑的核心機轉是阻斷電壓依賴型鈉離子通道。特殊例外要記得：cocaine 會收縮血管，benzocaine 可造成高鐵血紅素血症，bupivacaine 不是 opioid receptor 促效劑。",
+      "key_point": "Lidocaine、bupivacaine 等局部麻醉劑主要阻斷電壓依賴型鈉離子通道；cocaine 可因抑制 NE 再吸收而血管收縮，benzocaine 可能造成 methemoglobinemia。",
+      "flashcard_front": "局部麻醉劑的共同機轉與 cocaine、benzocaine 的特殊毒性/作用是什麼？",
+      "flashcard_back": "局部麻醉劑共同阻斷電壓依賴型 Na+ channels。Cocaine 會抑制 NE 再吸收造成血管收縮；benzocaine 可將血紅素氧化成 methemoglobin，造成高鐵血紅素血症。",
+      "flashcard_summary": "Local anesthetics -> Na+ channel blockade；cocaine -> vasoconstriction；benzocaine -> methemoglobinemia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n題幹要求依序配對 SSRI、SNRI、tricyclic antidepressant、unicyclic antidepressant。正確順序是 citalopram、duloxetine、imipramine、bupropion，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Citalopram 是 SSRI；duloxetine 是 SNRI；imipramine 是 tricyclic antidepressant (TCA)；bupropion 常歸為 unicyclic/atypical antidepressant，主要抑制 norepinephrine 與 dopamine 再吸收。\n- B. 錯誤。Duloxetine 屬 SNRI，不是 SSRI；citalopram 屬 SSRI，不是 SNRI；bupropion 與 imipramine 的 TCA/單環位置也被互換。\n- C. 錯誤。第一個 citalopram 作為 SSRI 正確，但第二個 imipramine 是 TCA，不是 SNRI；第三個 duloxetine 是 SNRI，不是 TCA。\n- D. 錯誤。Duloxetine 應放在 SNRI 的位置，不能放在第一個 SSRI；bupropion 是單環非典型抗憂鬱藥，不是 SNRI；citalopram 應屬 SSRI 而非最後的 unicyclic。\n\n【核心考點】\n抗憂鬱藥分類題要先背代表藥：SSRI 包括 citalopram/fluoxetine/sertraline，SNRI 包括 duloxetine/venlafaxine，TCA 包括 imipramine/amitriptyline，bupropion 屬非典型、單環類且常以 NDRI 機轉記憶。",
+      "key_point": "Citalopram = SSRI；duloxetine = SNRI；imipramine = TCA；bupropion = unicyclic/atypical antidepressant，主要為 NDRI。",
+      "flashcard_front": "Citalopram、duloxetine、imipramine、bupropion 分別屬於哪一類抗憂鬱藥？",
+      "flashcard_back": "Citalopram 屬 SSRI；duloxetine 屬 SNRI；imipramine 屬三環抗憂鬱藥 TCA；bupropion 屬單環/非典型抗憂鬱藥，主要抑制 norepinephrine 與 dopamine 再吸收。",
+      "flashcard_summary": "Antidepressants -> citalopram SSRI、duloxetine SNRI、imipramine TCA、bupropion unicyclic/NDRI。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題要找具有明顯止咳作用、且最不具成癮性的鴉片相關衍生物。Dextromethorphan 可抑制延腦咳嗽中樞，治療劑量下不以 μ-opioid receptor 促效為主要作用，因此成癮性遠低於 codeine 或 methadone。\n\n【選項詳解】\n- A. 錯誤。Methadone 是長效 μ-opioid receptor agonist，常用於 opioid dependence 替代治療與疼痛控制，具明確成癮與呼吸抑制風險，不是最不具成癮性的止咳藥選擇。\n- B. 正確。Dextromethorphan 是 morphinan 類右旋異構物，主要作為中樞止咳藥；一般治療劑量下缺乏典型 μ-opioid agonist 的止痛、欣快與呼吸抑制效果，因此在選項中最不具成癮性。\n- C. 錯誤。Codeine 具有止咳作用，但可經 CYP2D6 代謝為 morphine，活化 μ-opioid receptor，因此仍有嗜睡、呼吸抑制、依賴與濫用風險。\n- D. 錯誤。Loperamide 是周邊作用的 opioid receptor agonist，因 P-glycoprotein 將其排出中樞，常規劑量主要用於止瀉；它不是針對延腦咳嗽中樞的常用止咳藥。\n\n【核心考點】\n止咳藥比較要分清楚 codeine 與 dextromethorphan：兩者都可止咳，但 codeine 有 μ-opioid 相關成癮風險；dextromethorphan 在治療劑量下較少典型 opioid 效應，所以較適合作為低成癮性的中樞止咳藥。",
+      "key_point": "Dextromethorphan 可抑制咳嗽中樞，治療劑量下不具典型 μ-opioid agonist 效果，成癮性低於 codeine；methadone 成癮性高，loperamide 主要用於止瀉。",
+      "flashcard_front": "為什麼低成癮性的中樞止咳藥選 dextromethorphan，而不是 codeine、methadone 或 loperamide？",
+      "flashcard_back": "Dextromethorphan 可抑制延腦咳嗽中樞，但治療劑量下缺乏典型 μ-opioid agonist 效果；codeine 可代謝成 morphine 而有依賴風險，methadone 是長效 opioid agonist，loperamide 則主要作用於腸道止瀉。",
+      "flashcard_summary": "Antitussives -> dextromethorphan 止咳且低成癮；codeine 有 opioid 依賴風險；methadone 高成癮；loperamide 止瀉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n甲醇中毒的重點不是甲醇本身，而是被 alcohol dehydrogenase (ADH) 代謝後產生 formaldehyde 與 formic acid，導致陰離子間隙代謝性酸中毒與視神經毒性。Fomepizole 抑制 ADH，可阻止毒性代謝物形成。\n\n【選項詳解】\n- A. 錯誤。Flumazenil 是 benzodiazepine receptor antagonist，用於 benzodiazepine 中毒或鎮靜逆轉；它不抑制 ADH，也不能阻止甲醇生成甲酸。\n- B. 正確。Fomepizole 是 alcohol dehydrogenase inhibitor，可用於 methanol 與 ethylene glycol 中毒；它阻斷甲醇被代謝成甲酸，爭取時間讓原型甲醇排除，必要時再配合血液透析處理嚴重酸中毒或高濃度暴露。\n- C. 錯誤。Pralidoxime (2-PAM) 可使被有機磷磷酸化的 acetylcholinesterase 復活，適用於有機磷中毒，不是甲醇中毒解毒劑。\n- D. 錯誤。Physostigmine 是可逆性 acetylcholinesterase inhibitor，能進入中樞，主要用於嚴重抗膽鹼中毒；它會增加 acetylcholine，與甲醇代謝途徑無關。\n\n【核心考點】\n甲醇與乙二醇中毒要想到 ADH 抑制：fomepizole 是首選解毒藥之一。其他常考解毒劑需配對：flumazenil 對 benzodiazepine，pralidoxime 對有機磷，physostigmine 對嚴重抗膽鹼中毒。",
+      "key_point": "Fomepizole 抑制 alcohol dehydrogenase，阻止 methanol 轉成 formic acid；flumazenil、pralidoxime、physostigmine 分別對應 BZD、有機磷、抗膽鹼中毒。",
+      "flashcard_front": "甲醇中毒為什麼使用 fomepizole？其他三個選項各用於哪類中毒？",
+      "flashcard_back": "Fomepizole 抑制 ADH，阻止甲醇代謝成甲酸，避免酸中毒與視神經毒性。Flumazenil 用於 benzodiazepine 中毒，pralidoxime 用於有機磷中毒，physostigmine 可用於嚴重抗膽鹼中毒。",
+      "flashcard_summary": "Methanol poisoning -> fomepizole inhibits ADH -> prevents formic acid；解毒劑配對題需分清 BZD、有機磷、抗膽鹼中毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n跌倒後瘀青代表局部出血，紅血球外滲後被巨噬細胞吞噬，血紅素中的鐵會以 hemosiderin 形式沉積。兩週後切片見黃棕色色素，最典型是血鐵素。\n\n【選項詳解】\n- A. 錯誤。Lipofuscin 是老化或萎縮細胞內的「磨損色素」，來自脂質過氧化與殘餘小體累積，常見於心肌、肝細胞等長壽細胞；它不是外傷瘀青兩週後紅血球分解的主要產物。\n- B. 錯誤。Bilirubin 是血紅素分解後經肝膽系統處理的重要色素，可參與瘀青顏色變化，但組織切片中兩週後常見的黃棕色顆粒性鐵沉積是 hemosiderin，而非膽紅素。\n- C. 錯誤。Melanin 由黑色素細胞合成，主要與皮膚、毛髮、眼部色素及黑色素細胞病變相關；外傷後局部出血吸收不會以黑色素沉積解釋。\n- D. 正確。Hemosiderin 是含鐵的黃棕色顆粒，來自巨噬細胞吞噬外滲紅血球後分解血紅素；出血或瘀青經過數天至數週後可在組織中看到，普魯士藍染色可呈陽性。\n\n【核心考點】\n外傷出血後的黃棕色色素要想到 hemosiderin。Lipofuscin 是老化磨損色素，melanin 是黑色素細胞產物；hemosiderin 則代表紅血球分解後的鐵沉積。",
+      "key_point": "瘀青兩週後切片的黃棕色色素多為 hemosiderin，是巨噬細胞分解外滲紅血球後形成的鐵沉積，可用 Prussian blue stain 證實。",
+      "flashcard_front": "跌倒瘀青兩週後切片見黃棕色色素，最可能是哪種色素？形成機轉是什麼？",
+      "flashcard_back": "最可能是 hemosiderin。外滲紅血球被巨噬細胞吞噬後，血紅素分解釋出的鐵以血鐵素形式沉積，呈黃棕色顆粒，Prussian blue stain 可陽性。",
+      "flashcard_summary": "Bruise after 2 weeks -> macrophages degrade RBCs -> iron stored as hemosiderin, yellow-brown granules。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n題幹描述腎臟壞死、細胞核溶解與胞器消失，但組織外形仍完整，且與周圍正常組織分界清楚。這是凝固性壞死 (coagulative necrosis) 的典型表現，常見於腎、心、脾等實質器官缺血性梗塞。\n\n【選項詳解】\n- A. 錯誤。液化性壞死常見於腦梗塞或化膿性感染，因水解酶作用使壞死組織被消化成液態，組織架構通常不會完整保留。\n- B. 錯誤。乾酪化壞死典型見於結核感染，鏡下是無結構、顆粒狀、起司樣壞死物，原本細胞與組織輪廓多已消失。\n- C. 錯誤。類纖維蛋白性壞死主要發生在血管壁，常與免疫複合體沉積、血管炎或惡性高血壓有關，特徵是血管壁呈強嗜酸性 fibrinoid 物質，不是腎實質梗塞保留輪廓的典型描述。\n- D. 正確。凝固性壞死中，蛋白質變性使細胞死亡且細胞核消失，但蛋白分解酶也被抑制，所以壞死區的組織架構可短暫保留；腎臟缺血性梗塞常呈凝固性壞死。\n\n【核心考點】\n凝固性壞死的關鍵是「細胞已死，但組織輪廓仍在」。腦部壞死常液化，結核常乾酪化，血管壁免疫性傷害可見類纖維蛋白性壞死。",
+      "key_point": "凝固性壞死常見於心、腎、脾缺血性梗塞；特徵是細胞核消失但組織架構暫時保留，與液化性壞死的架構被消化不同。",
+      "flashcard_front": "腎臟缺血後壞死細胞核溶解，但組織外形仍保留，屬於哪種壞死？如何與其他壞死區分？",
+      "flashcard_back": "屬凝固性壞死。它因蛋白質變性與酵素失活而保留組織輪廓；液化性壞死會被消化成液態，乾酪化壞死呈無結構顆粒狀，類纖維蛋白性壞死主要在血管壁。",
+      "flashcard_summary": "Coagulative necrosis -> ischemic infarct in kidney/heart/spleen -> dead cells with preserved tissue architecture。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nRepeat-primer PCR 加 Southern blot 的組合，最典型用於偵測核苷酸重複序列異常擴增，尤其是 Fragile X syndrome 的 FMR1 基因 CGG repeat expansion。Southern blot 可協助確認大擴增片段與甲基化狀態。\n\n【選項詳解】\n- A. 錯誤。Turner syndrome 是性染色體數目異常，典型核型為 45,X；主要用染色體核型分析，必要時搭配 FISH 或 chromosomal microarray，而不是 repeat-primer PCR。\n- B. 錯誤。DiGeorge syndrome 多由 22q11.2 microdeletion 引起，常用 FISH、MLPA 或 chromosomal microarray 偵測微缺失；它不是三核苷酸重複擴增疾病。\n- C. 正確。Fragile X syndrome 是 FMR1 基因 5' UTR 的 CGG 重複擴增，full mutation 通常超過 200 repeats 並伴隨甲基化導致 FMR1 silencing；repeat-primer PCR 可篩檢 repeat expansion，Southern blot 可評估大型擴增與甲基化，增加診斷確定性。\n- D. 錯誤。Niemann-Pick disease 是溶小體儲積症，依型別涉及 SMPD1、NPC1 或 NPC2 等基因與脂質代謝異常，診斷常靠酵素活性、基因檢測或相關代謝評估，不是 repeat expansion 診斷路徑。\n\n【核心考點】\n看到 repeat-primer PCR、Southern blot、重複序列擴增，要聯想到 Fragile X syndrome 與 FMR1 CGG repeats。染色體數目異常、微缺失症候群與溶小體儲積症有不同的檢驗策略。",
+      "key_point": "Fragile X syndrome 由 FMR1 CGG repeat expansion 與甲基化造成；repeat-primer PCR 可篩檢重複擴增，Southern blot 可確認大型擴增與甲基化狀態。",
+      "flashcard_front": "哪種遺傳疾病最適合用 repeat-primer PCR 篩檢並搭配 Southern blot 確診？原因是什麼？",
+      "flashcard_back": "Fragile X syndrome。它源於 FMR1 基因 CGG repeats 異常擴增，大片段與甲基化狀態可用 Southern blot 進一步確認；Turner 是染色體數目異常，DiGeorge 是 22q11.2 微缺失，Niemann-Pick 是溶小體儲積症。",
+      "flashcard_summary": "Fragile X -> FMR1 CGG repeat expansion -> repeat-primer PCR screening + Southern blot for large expansion/methylation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n結核菌素試驗 (tuberculin test, TST) 是第四型遲發型超敏反應。曾被結核抗原致敏的 T 淋巴細胞再次遇到 PPD 後，會釋放 interferon-gamma (IFN-gamma)，進而活化巨噬細胞並形成 48-72 小時的硬結反應。\n\n【選項詳解】\n- A. 錯誤。巨噬細胞是被 IFN-gamma 活化的重要效應細胞，但主要釋放 IFN-gamma 的來源是已致敏的 T 淋巴細胞，不是巨噬細胞。\n- B. 正確。TST 的核心是 PPD 刺激記憶性 T lymphocytes，尤其 TH1 細胞，使其釋放 IFN-gamma；IFN-gamma 招募並活化巨噬細胞，造成局部硬結。\n- C. 錯誤。巨噬細胞可在活化後產生 TNF 等發炎介質，但題目問的是 tuberculin test 的主要原理，首要步驟不是刺激巨噬細胞釋放 TNF。\n- D. 錯誤。T 細胞可以參與多種 cytokine 反應，但 TST 與 IGRA 的代表性核心訊號是 T 細胞釋放 IFN-gamma，而不是以 TNF 作為主要判讀原理。\n\n【核心考點】\nTST 是 T 細胞介導的第四型遲發型超敏反應；關鍵 cytokine 是 IFN-gamma。IGRA 也是利用受試者 T 細胞遇到結核抗原後釋放 IFN-gamma 的原理。",
+      "key_point": "Tuberculin test 屬第四型遲發型超敏反應，由致敏 T 淋巴細胞受 PPD 刺激後釋放 IFN-gamma，活化巨噬細胞並形成硬結。",
+      "flashcard_front": "結核菌素試驗的免疫學原理是什麼？主要細胞與 cytokine 是哪一個？",
+      "flashcard_back": "TST 是第四型遲發型超敏反應。PPD 刺激已致敏的 TH1/T 淋巴細胞，使其釋放 IFN-gamma，進而活化巨噬細胞，48-72 小時形成硬結。",
+      "flashcard_summary": "TST -> type IV delayed hypersensitivity -> sensitized T cells release IFN-gamma -> macrophage activation and induration。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題問哪一項與鎘 (cadmium) 中毒相關性較低。慢性鎘暴露典型影響腎臟與骨骼，吸入暴露也與肺癌風險相關；畸胎瘤是生殖細胞腫瘤，與鎘中毒的典型毒性關聯較低。\n\n【選項詳解】\n- A. 錯誤。肺癌與鎘暴露相關性較高，尤其長期職業性吸入鎘煙塵或鎘化合物；鎘及其化合物被視為人類致癌物，肺部是重要靶器官。\n- B. 錯誤。骨質疏鬆與慢性鎘中毒相關。鎘造成近端腎小管損傷，使鈣、磷流失並干擾維生素 D 代謝，也可影響骨代謝；日本痛痛病即與鎘污染造成的骨軟化、骨痛相關。\n- C. 正確。畸胎瘤 (teratoma) 主要來自生殖細胞分化異常，可含多胚層組織；它不是慢性鎘中毒的典型腫瘤或靶器官表現，因此在選項中相關性最低。\n- D. 錯誤。腎損傷與鎘中毒相關性很高。鎘會與 metallothionein 結合後在近端腎小管累積，造成腎小管功能障礙，出現低分子量蛋白尿、糖尿、胺基酸尿，嚴重時導致慢性腎病。\n\n【核心考點】\n鎘中毒的高頻靶器官是腎臟與骨骼，並與吸入暴露後肺癌風險相關。考題若問相關性較低，畸胎瘤這類生殖細胞腫瘤不屬於鎘中毒典型表現。",
+      "key_point": "Cadmium 慢性中毒典型造成近端腎小管損傷、骨質疏鬆/骨軟化與肺癌風險；teratoma 是生殖細胞腫瘤，與鎘中毒關聯較低。",
+      "flashcard_front": "慢性鎘中毒的主要靶器官與典型疾病是什麼？哪個選項相關性最低？",
+      "flashcard_back": "鎘主要造成近端腎小管損傷與骨骼病變，可導致蛋白尿、骨質疏鬆/骨軟化與痛痛病；吸入暴露與肺癌風險相關。畸胎瘤是生殖細胞腫瘤，與鎘中毒相關性最低。",
+      "flashcard_summary": "Cadmium toxicity -> kidney proximal tubule injury, osteoporosis/Itai-Itai disease, lung cancer; teratoma is least related.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:01+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

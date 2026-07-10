@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題問 cerebroside 合成時，哪一種核苷酸糖負責把 glucose 交給 ceramide。葡萄糖基腦苷脂的直接糖基供體是 UDP-glucose，葡萄糖基轉移酶將 glucose 轉到 ceramide 上，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。CDP 常見於磷脂合成相關的活化中間物，例如 CDP-choline 或 CDP-diacylglycerol，不是 glucose 加到 ceramide 的糖基供體。\n- B. 正確。UDP-glucose 是 glucose 的活化形式，可作為 glucosylceramide synthase 的糖基供體，將 glucose 轉移到 ceramide 形成 glucocerebroside。\n- C. 錯誤。GDP-sugars 較常見於 mannose、fucose 等糖基轉移反應；本題指定 glucose 參與 cerebroside 合成時，典型供體是 UDP-glucose。\n- D. 錯誤。ADP 不作為此反應的 glucose 載體；ADP-glucose 多與植物或細菌澱粉樣多醣合成相關，並非哺乳類 glucocerebroside 合成的主要供體。\n\n【核心考點】\n糖脂合成常用 nucleotide sugar 當糖基供體。ceramide 加上 glucose 形成 glucocerebroside 時，應記住供體是 UDP-glucose，而不是 CDP、GDP 或 ADP。",
+      "key_point": "Glucocerebroside 合成時，glucose 以 UDP-glucose 形式轉移到 ceramide。",
+      "flashcard_front": "cerebroside 合成 / ceramide 加 glucose / nucleotide sugar",
+      "flashcard_back": "ceramide 轉成 glucocerebroside 時，glucose 的活化供體是 UDP-glucose，因此核苷酸載體為 UDP。",
+      "flashcard_summary": "cerebroside 合成 -> glucose 供體為 UDP-glucose",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n本題是反向題，問家族性高膽固醇症中最不正確的敘述。典型 familial hypercholesterolemia 是 LDL receptor 數量或功能下降，造成血中 LDL 清除不良；「LDL receptor 過度表達」方向相反，因此答案為 A。\n\n【選項詳解】\n- A. 錯誤敘述，符合本題所問。FH 不是因 LDL receptor 過度表達，而是 LDLR 基因突變造成受體合成、運送、結合或內吞功能異常，使肝臟清除 LDL 的能力下降。\n- B. 正確敘述。LDL receptor 功能不足時，血中 LDL 顆粒無法有效被肝細胞攝入，LDL-cholesterol 會明顯升高，並增加早發動脈粥狀硬化風險。\n- C. 正確敘述。LDLR 基因突變是家族性高膽固醇症的經典原因；少數病例也可與 APOB 或 PCSK9 等基因相關，但考試核心仍是 LDLR 缺陷。\n- D. 正確敘述。某些 LDLR 突變會讓受體蛋白折疊或運送異常，停留在內質網或高基氏體，無法到達細胞膜執行 LDL 結合與內吞。\n\n【核心考點】\nFH 的主軸是 LDL receptor 缺失或功能下降，導致 LDL 清除減少與血中 LDL 升高。看到「過度表達」要判斷其與疾病機轉相反。",
+      "key_point": "家族性高膽固醇症的典型機轉是 LDL receptor 功能降低，而非過度表達。",
+      "flashcard_front": "familial hypercholesterolemia / LDL receptor / 最不正確",
+      "flashcard_back": "FH 多因 LDLR 突變造成 LDL receptor 數量或功能下降，血中 LDL 升高；LDL receptor 過度表達是錯誤敘述。",
+      "flashcard_summary": "FH -> LDLR 缺陷使 LDL 清除下降；不是 LDL receptor 過度表達",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n本題是反向題，問 Tay-Sachs disease 的錯誤敘述。Tay-Sachs 是 lysosomal storage disease，因 lysosomal hexosaminidase A 缺乏而使 GM2 ganglioside 無法在 lysosome 分解；選項 C 把位置寫成 endoplasmic reticulum，故為錯誤敘述。\n\n【選項詳解】\n- A. 正確敘述。Tay-Sachs 屬於 sphingolipidosis，也屬於 lipid storage disease，因脂質類的 GM2 ganglioside 在細胞內累積。\n- B. 正確敘述。GM2 ganglioside 特別會在神經元累積，造成進行性神經退化，臨床可見發展退步、肌張力異常、癲癇與 cherry-red spot 等表現。\n- C. 錯誤敘述，符合本題所問。ganglioside 的終末分解主要在 lysosome 進行；Tay-Sachs 的問題不是 endoplasmic reticulum 分解失敗，而是 lysosomal enzyme 缺陷。\n- D. 正確敘述。Tay-Sachs 的典型酵素缺陷是 lysosomal beta-hexosaminidase A，無法分解 GM2 ganglioside 末端的 N-acetylgalactosamine。\n\n【核心考點】\nTay-Sachs 三個關鍵字是 hexosaminidase A 缺乏、GM2 ganglioside 累積、lysosome 內降解障礙。題目若把儲積位置改成 ER，通常就是陷阱。",
+      "key_point": "Tay-Sachs 是 lysosomal hexosaminidase A 缺乏造成 GM2 ganglioside 在 lysosome 累積。",
+      "flashcard_front": "Tay-Sachs disease / GM2 ganglioside / hexosaminidase A / lysosome",
+      "flashcard_back": "Tay-Sachs 的缺陷在 lysosomal hexosaminidase A，導致 GM2 ganglioside 無法在 lysosome 分解；不是 ER 分解異常。",
+      "flashcard_summary": "Tay-Sachs -> Hexosaminidase A 缺乏，GM2 在 lysosome 累積",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題是反向題，問 heme 合成相關敘述何者錯誤。heme 合成不是全程在細胞質完成，而是第一步與最後幾步在粒線體，中間步驟在細胞質，因此答案為 D。\n\n【選項詳解】\n- A. 正確敘述。heme 合成的第一步由 ALA synthase 催化，將 glycine 與 succinyl-CoA 縮合形成 delta-aminolevulinic acid，這也是重要限速步驟。\n- B. 正確敘述。卟啉環的原子來源可追溯到 glycine 與 succinyl-CoA；題目以 succinate-glycine pathway 表述時，succinate 通常代表經 succinyl-CoA 進入反應的來源。\n- C. 正確敘述。ALA synthase 需要 pyridoxal phosphate (PLP, vitamin B6 活性形式) 作為輔酶，協助 glycine 參與縮合反應。\n- D. 錯誤敘述，符合本題所問。heme 合成並非在細胞質中完成；ALA 生成在粒線體，部分中間反應在細胞質，最後 protoporphyrin IX 形成與 ferrochelatase 嵌入 Fe2+ 又回到粒線體。\n\n【核心考點】\nheme 合成的空間分布是粒線體-細胞質-粒線體。第一步 ALA synthase 需要 PLP，最後 ferrochelatase 將 Fe2+ 加入 protoporphyrin IX 形成 heme。",
+      "key_point": "heme 合成不是全程在細胞質；起始與收尾在粒線體，中間步驟在細胞質。",
+      "flashcard_front": "heme synthesis / succinate-glycine pathway / ALA synthase / PLP / 細胞定位",
+      "flashcard_back": "heme 合成第一步 ALA synthase 在粒線體且需 PLP，中間步驟在細胞質，最後幾步回到粒線體；不是全程在細胞質完成。",
+      "flashcard_summary": "heme synthesis -> 粒線體起始與結束，中間在細胞質",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n本題問肌肉代謝產生的 ammonia 要以哪一種胺基酸形式送往肝臟。骨骼肌常把氮轉到 pyruvate 形成 alanine，經 glucose-alanine cycle 運到肝臟，再把氮導入尿素循環，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。lysine 是必需胺基酸，不是肌肉將 ammonia 安全運送到肝臟的主要載體，也不是 glucose-alanine cycle 的中間物。\n- B. 錯誤。citrulline 是尿素循環中間物，主要參與肝臟內氮排除反應；它不是肌肉釋放到血中用來運送氨基氮的主要胺基酸。\n- C. 錯誤。arginine 也是尿素循環中間物，可被 arginase 分解產生 urea 與 ornithine，但不是肌肉到肝臟之間運送 ammonia 的典型形式。\n- D. 正確。肌肉中胺基酸的氨基可先形成 glutamate，再經 alanine aminotransferase 將氨基轉給 pyruvate 生成 alanine；alanine 進入肝臟後再轉回 pyruvate，氮進入尿素循環。\n\n【核心考點】\n肌肉運送氨基氮到肝臟的代表形式是 alanine，稱為 glucose-alanine cycle。其他組織常以 glutamine 運氮，但本題明確問肌肉到肝臟，優先選 alanine。",
+      "key_point": "骨骼肌產生的氨基氮主要以 alanine 形式經 glucose-alanine cycle 運到肝臟。",
+      "flashcard_front": "肌肉 ammonia 運送 / glucose-alanine cycle / alanine",
+      "flashcard_back": "肌肉把氨基轉給 pyruvate 形成 alanine，alanine 到肝臟後釋出氮進入尿素循環，所以肌肉到肝臟的載體是 alanine。",
+      "flashcard_summary": "肌肉排氮 -> alanine 經 glucose-alanine cycle 到肝臟",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題問粒線體 electron transport chain 中 complex IV 的直接 electron donor。Complex IV 是 cytochrome c oxidase，直接接收還原態 cytochrome c 的電子，再把電子傳給 O2 生成水，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。succinate 是 complex II 的電子來源，經 succinate dehydrogenase 將電子送入 FAD/FADH2 與 coenzyme Q 路徑，不是 complex IV 的直接供體。\n- B. 正確。cytochrome c 是位於粒線體內膜外側的可溶性電子載體，從 complex III 接收電子後，把電子交給 complex IV。\n- C. 錯誤。coenzyme Q 是脂溶性電子載體，負責把 complex I 或 II 來的電子帶到 complex III；它不直接把電子交給 complex IV。\n- D. 錯誤。NADH 是 complex I 的電子供體，會先把電子送入 NADH dehydrogenase，再經 coenzyme Q、complex III 與 cytochrome c 傳遞到 complex IV。\n\n【核心考點】\n電子傳遞順序可記為 NADH -> complex I -> CoQ -> complex III -> cytochrome c -> complex IV -> O2。Complex IV 的直接電子供體是 cytochrome c，最終電子接受者是 oxygen。",
+      "key_point": "Complex IV 的直接 electron donor 是還原態 cytochrome c。",
+      "flashcard_front": "ETC complex IV / electron donor / cytochrome c oxidase",
+      "flashcard_back": "Complex IV 接收 cytochrome c 的電子，並將電子傳給 O2 形成水；succinate、CoQ、NADH 都不是 complex IV 的直接供體。",
+      "flashcard_summary": "ETC complex IV -> electron donor 是 cytochrome c",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題問哪一個不是真核細胞週期進行的主要調控蛋白。Cyclin、CDK 與 APC/C 都直接參與細胞週期推進與蛋白降解控制；laminin 是細胞外基質與基底膜蛋白，不是細胞週期調控核心，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。cyclin 的濃度會隨細胞週期階段變化，並與 CDK 結合形成活性複合體，推動 G1/S、G2/M 等關卡進行。\n- B. 錯誤。cyclin-dependent kinase (CDK) 是細胞週期的核心激酶，需結合對應 cyclin 後磷酸化下游蛋白，促進 DNA 複製或有絲分裂進程。\n- C. 正確。laminin 是 extracellular matrix 與 basement membrane 的結構性糖蛋白，主要和細胞黏附、遷移與分化環境有關；它不是細胞週期進行的主要調控蛋白。不要與核纖層蛋白 lamin 混淆。\n- D. 錯誤。APC/C 是 E3 ubiquitin ligase，會促進 securin 與 cyclin B 等蛋白降解，讓 sister chromatids 分離並協助細胞退出有絲分裂。\n\n【核心考點】\n細胞週期核心控制包含 cyclin-CDK 活化與 APC/C 介導的蛋白降解。laminin 是基底膜 ECM 蛋白；lamin 才是核纖層相關蛋白，兩者在考題中常被用來混淆。",
+      "key_point": "Cyclin、CDK、APC/C 是細胞週期調控因子；laminin 是細胞外基質蛋白。",
+      "flashcard_front": "細胞週期調控 / cyclin / CDK / APC/C / laminin",
+      "flashcard_back": "真核細胞週期主要由 cyclin-CDK 與 APC/C 等胞內因子控制；laminin 是 ECM/基底膜蛋白，不是主要細胞週期調控蛋白。",
+      "flashcard_summary": "cell cycle control -> cyclin, CDK, APC/C；排除 laminin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題問哪一項與 steroid hormone 的作用方式無關。類固醇激素具脂溶性，主要穿過細胞膜後結合胞內受體，受體-激素複合體再調控 DNA 轉錄；膜表面受體以磷酸化方式活化是胜肽或生長因子訊號較典型的模式，因此答案為 B。\n\n【選項詳解】\n- A. 正確相關。steroid hormone 會與其專一性受體結合形成 hormone-receptor complex，這是後續進入細胞核或調控轉錄的基礎。\n- B. 無關，符合本題所問。典型 steroid hormone receptor 位於細胞質或細胞核，屬於 ligand-activated transcription factor；它不是主要在細胞膜表面靠受體磷酸化來活化。\n- C. 正確相關。類固醇受體含 DNA-binding domain，可辨認特定 hormone response element (HRE)，因此能直接影響特定基因表現。\n- D. 正確相關。受體與激素結合後可招募轉錄共活化或共抑制因子，使目標基因轉錄上升或下降，這也是類固醇激素反應較慢但作用較持久的原因。\n\n【核心考點】\nsteroid hormone 的典型路徑是穿膜進入細胞、結合胞內受體、受體複合體結合 DNA 並調控轉錄。膜表面 receptor phosphorylation 較常對應水溶性激素或生長因子訊號。",
+      "key_point": "類固醇激素主要透過胞內受體調控基因轉錄，不是靠細胞膜表面受體磷酸化活化。",
+      "flashcard_front": "steroid hormone mechanism / intracellular receptor / HRE",
+      "flashcard_back": "類固醇激素穿過細胞膜後結合胞內受體，受體複合體可結合 HRE 調控轉錄；膜表面磷酸化活化不是其典型機制。",
+      "flashcard_summary": "steroid hormone -> 胞內受體結合 DNA 調控轉錄；排除膜表面磷酸化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題問 protein kinase A (PKA) 的正確敘述。PKA 是 cAMP-dependent protein kinase；cAMP 結合調節亞基後釋放催化亞基，使其磷酸化下游蛋白，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。cyclic GMP 主要活化 protein kinase G (PKG)，並參與 NO-cGMP 等訊號路徑；PKA 的典型第二信使是 cyclic AMP。\n- B. 錯誤。AMP 可反映細胞能量不足，常與 AMPK 活化相關；PKA 不是靠 AMP 結合而活化。\n- C. 正確。PKA 在未活化時由調節亞基與催化亞基組成；cAMP 結合調節亞基後造成構形改變，使催化亞基釋放並磷酸化目標蛋白。\n- D. 錯誤。PKA 活化通常抑制脂肪酸合成，例如磷酸化並抑制 acetyl-CoA carboxylase (ACC)，降低 malonyl-CoA 生成；同時可促進肝醣分解與脂解等動員能量的反應。\n\n【核心考點】\nPKA 的關鍵配體是 cAMP，不是 cGMP 或 AMP。代謝上，PKA 活化常偏向動員燃料，並透過抑制 ACC 來降低脂肪酸生合成。",
+      "key_point": "PKA 由 cAMP 活化；其活化會磷酸化並抑制 ACC，降低脂肪酸合成。",
+      "flashcard_front": "protein kinase A / cAMP / ACC / fatty acid biosynthesis",
+      "flashcard_back": "PKA 是 cAMP-dependent protein kinase；cAMP 結合調節亞基後釋放催化亞基。PKA 活化會抑制 ACC，因此不促進脂肪酸合成。",
+      "flashcard_summary": "PKA -> cAMP 活化；抑制 ACC 與脂肪酸合成",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題問 RFLP 用於 DNA fingerprinting 時通常搭配哪一種技術。RFLP 需要先以限制酶切 DNA、電泳分離片段，再用 Southern blotting 將 DNA 轉移到膜上並以探針偵測特定片段，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。Western blotting 偵測的是 protein，通常以抗體辨認特定蛋白；RFLP 分析的是 DNA 片段長度差異，底物不同。\n- B. 正確。Southern blotting 是 DNA blotting 技術，可將電泳後的 DNA 片段轉移到膜上，再用標記 DNA probe 進行雜交，顯示個體間不同長度片段的圖譜。\n- C. 錯誤。Northern blotting 用於偵測 RNA，常用來分析特定 transcript 的大小與表現量，不是 RFLP 的標準搭配技術。\n- D. 錯誤。Slot blotting 是把樣本直接加到膜上進行雜交，通常不經電泳分離，因此不能呈現限制酶切後 DNA 片段長度差異，不適合典型 RFLP fingerprinting。\n\n【核心考點】\nBlotting 對應底物要分清楚：Southern 偵測 DNA，Northern 偵測 RNA，Western 偵測 protein。RFLP 要看 DNA restriction fragments 的長度差異，因此搭配 Southern blotting。",
+      "key_point": "RFLP 分析 DNA 片段長度差異，通常需搭配 Southern blotting 偵測 DNA。",
+      "flashcard_front": "RFLP / DNA fingerprinting / Southern blotting",
+      "flashcard_back": "RFLP 先以限制酶切 DNA 並電泳分離，再用 Southern blotting 轉膜與探針雜交來偵測 DNA 片段圖譜。",
+      "flashcard_summary": "RFLP DNA fingerprinting -> Southern blotting",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:19:12+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

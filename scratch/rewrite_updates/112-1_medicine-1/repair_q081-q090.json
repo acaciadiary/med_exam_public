@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題在比較原核生物與真核生物的 DNA 複製。大腸桿菌有單一複製起始點 oriC，真核染色體有多個起始點；但兩者的 DNA polymerase 都需要可提供 3'-OH 的引子，並不是只有原核使用 RNA primer。\n\n【選項詳解】\n- A. 正確。大腸桿菌染色體是單一環狀 DNA，複製通常由固定的 oriC 啟動，因此只有一個 replication origin。\n- B. 正確。真核染色體巨大且為線性，若只靠單一起始點會來不及完成 S phase 的複製，所以每條染色體上有多個 replication origins 同時或分批啟動。\n- C. 正確。大腸桿菌由 oriC 啟動後進行雙向複製，形成兩個 replication forks，沿環狀染色體相反方向推進。\n- D. 錯誤。原核與真核 DNA 複製都需要引子提供 3'-OH；原核由 primase 合成 RNA primer，真核由 DNA polymerase alpha-primase 複合體先合成短 RNA primer，再接上一小段 DNA。把真核複製說成利用 DNA 而非 RNA 作為引子，忽略了起始所需的 RNA primer。\n\n【核心考點】\n原核 DNA 複製常考單一 oriC 與雙向複製；真核常考多起始點。DNA polymerase 不能 de novo 起始，兩類生物都需要含 RNA 的 primer 先提供 3'-OH。",
+      "key_point": "原核為單一 oriC、真核為多個 replication origins；兩者 DNA 複製起始都需要 RNA primer 提供 3'-OH。",
+      "flashcard_front": "DNA 複製比較：原核/真核 replication origin 與 primer",
+      "flashcard_back": "大腸桿菌有單一 oriC 並雙向複製；真核染色體有多個 origins。兩者 DNA polymerase 都不能自行起始，都需要 RNA primer 或含 RNA 的 primer。",
+      "flashcard_summary": "DNA replication -> 原核單一起始點、真核多起始點；兩者皆需 RNA primer。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n本題問 reverse transcriptase 的主要功能。反轉錄酶是 RNA-dependent DNA polymerase，會以 RNA 為模板合成互補 DNA，典型例子包括 retrovirus 複製與 telomerase 的 RNA 模板延伸反應。\n\n【選項詳解】\n- A. 錯誤。以 DNA 為模板合成 DNA 是一般 DNA polymerase 的功能，例如細胞 DNA 複製或 DNA 修復補洞。\n- B. 錯誤。以 DNA 為模板合成 RNA 是 RNA polymerase 執行的 transcription，不是 reverse transcription。\n- C. 正確。Reverse transcriptase 以 RNA 為模板加入 dNTP，產生 complementary DNA (cDNA)；許多反轉錄酶也有 RNase H 活性，可降解 RNA-DNA hybrid 中的 RNA。\n- D. 錯誤。以 RNA 為模板合成 RNA 是 RNA-dependent RNA polymerase 的功能，常見於 RNA 病毒基因體複製，和反轉錄酶產生 DNA 的方向不同。\n\n【核心考點】\n記住模板與產物即可判斷：reverse transcriptase 是 RNA -> DNA；transcription 是 DNA -> RNA；DNA replication 是 DNA -> DNA；RNA virus replication 可是 RNA -> RNA。",
+      "key_point": "Reverse transcriptase 的核心活性是以 RNA 為模板合成 DNA。",
+      "flashcard_front": "Reverse transcriptase：模板與產物",
+      "flashcard_back": "反轉錄酶是 RNA-dependent DNA polymerase，主要反應是 RNA -> complementary DNA (cDNA)。",
+      "flashcard_summary": "Reverse transcriptase -> RNA 作模板，合成 DNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n本題考原核生物 nucleotide excision repair (NER) 的酵素組合。大腸桿菌清除紫外線造成的 pyrimidine dimer 等會扭曲 DNA helix 的損傷時，主要使用 UvrA、UvrB、UvrC 系統。\n\n【選項詳解】\n- A. 錯誤。RuvA、RuvB、RuvC 主要處理 homologous recombination 中的 Holliday junction；RuvA/B 促進 branch migration，RuvC 負責 resolution，不是 NER 的核心辨識與切除系統。\n- B. 正確。UvrA 與 UvrB 參與辨識 DNA 結構扭曲，UvrB 穩定在損傷處後招募 UvrC；UvrC 在損傷兩側切開 DNA，之後再由 helicase、DNA polymerase 與 ligase 完成移除、補合與封口。\n- C. 錯誤。RecA 參與同源重組並促進 SOS response 中 LexA 自切；LexA 是 SOS genes 的 repressor；RecBCD 處理雙股斷裂端並參與重組修復，這組不是典型 NER 酵素。\n- D. 錯誤。Polymerase alpha、beta、gamma、delta 是真核 DNA polymerase；其中 beta 與 base excision repair 較相關，gamma 負責 mitochondrial DNA，並非大腸桿菌 NER 的 Uvr 系統。\n\n【核心考點】\n原核 DNA 修復常用配對：NER = UvrABC；mismatch repair = MutS/MutL/MutH；homologous recombination 與 SOS = RecA/LexA/RecBCD；Holliday junction = RuvABC。",
+      "key_point": "大腸桿菌 nucleotide excision repair 的核心蛋白是 UvrA、UvrB、UvrC。",
+      "flashcard_front": "原核 NER：UvrABC 與其他修復蛋白辨別",
+      "flashcard_back": "UvrABC 負責原核 nucleotide excision repair，特別是切除 UV pyrimidine dimers 等造成 helix distortion 的損傷。",
+      "flashcard_summary": "Prokaryotic NER -> UvrA/UvrB/UvrC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n本題問 translation 中 ribosome translocation 的直接能量來源。轉譯延長時，肽鏈形成後核糖體需沿 mRNA 前進一個 codon，此步驟由 EF-G（原核）或 eEF2（真核）利用 GTP 水解推動。\n\n【選項詳解】\n- A. 錯誤。ATP -> ADP + Pi 不是 translocation 的典型直接反應；轉譯前的 amino acid activation 會用 ATP，但水解形式也不是這個選項。\n- B. 正確。Translocation 需要 elongation factor EF-G/eEF2，藉由 GTP -> GDP + Pi 的水解造成構形改變，使 peptidyl-tRNA 從 A site 移到 P site、deacylated tRNA 從 P site 移到 E site。\n- C. 錯誤。ATP -> AMP + PPi 是 aminoacyl-tRNA synthetase 活化胺基酸時的反應，用於把胺基酸接到 tRNA 上，不是核糖體轉位本身。\n- D. 錯誤。GTP 在轉譯因子反應中通常水解為 GDP + Pi，不是 GMP + PPi；GMP + PPi 形式較像核苷酸聚合反應中 NTP 加入鏈後的產物邏輯。\n\n【核心考點】\n轉譯耗能要分清楚：tRNA charging 用 ATP -> AMP + PPi；aa-tRNA 進入 A site 和 ribosome translocation 都用 GTP -> GDP + Pi。",
+      "key_point": "核糖體轉位由 EF-G/eEF2 驅動，直接消耗 GTP 並產生 GDP + Pi。",
+      "flashcard_front": "Translation translocation 的能量來源",
+      "flashcard_back": "Ribosome translocation 使用 GTP -> GDP + Pi；tRNA charging 則使用 ATP -> AMP + PPi。",
+      "flashcard_summary": "Translation translocation -> GTP hydrolysis to GDP + Pi。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題問小分子在原核轉錄起始調控中「通常不藉由」哪種方式作用。操縱子中的小分子多半是 allosteric effector，藉由結合 repressor 或 activator 改變其 DNA-binding 能力，而不是自己直接辨認 DNA 序列。\n\n【選項詳解】\n- A. 正確。小分子如 allolactose、tryptophan、cAMP 通常不直接結合 DNA 來開關基因；它們多半結合蛋白質調節因子，間接改變該蛋白對 operator 或 promoter 附近序列的結合。\n- B. 錯誤。小分子可以調控 activator 與 DNA 的結合，例如 cAMP 結合 CAP/CRP 後，使 CAP 更容易結合 promoter 附近 DNA，促進 RNA polymerase 招募。\n- C. 錯誤。改變 repressor 的 conformation 是常見機制；乳糖操縱子中 allolactose 結合 LacI 後降低其 operator binding，色胺酸操縱子中 tryptophan 則作為 corepressor 促進 Trp repressor 結合 DNA。\n- D. 錯誤。小分子藉由改變 repressor 構形，最終會調控 repressor 是否能結合 DNA operator，這正是原核操縱子控制轉錄起始的典型模式。\n\n【核心考點】\n原核轉錄調控的主軸是「小分子 -> 調節蛋白 -> DNA 結合能力 -> 轉錄」。小分子本身通常不是 sequence-specific DNA-binding regulator。",
+      "key_point": "原核小分子效應物通常藉由改變 repressor/activator 構形調控 DNA 結合，而非直接結合 DNA。",
+      "flashcard_front": "原核 operon：小分子如何調控轉錄起始",
+      "flashcard_back": "小分子多是 allosteric effector，結合 repressor 或 activator 後改變其 DNA-binding；通常不直接結合 DNA。",
+      "flashcard_summary": "Prokaryotic transcription regulation -> small molecules regulate proteins, not DNA directly。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題問真核 mRNA 5' capping 的錯誤敘述。5' cap 是 nascent pre-mRNA 在細胞核內、RNA polymerase II 轉錄早期即發生的加工，功能包括保護 mRNA、協助核輸出與促進轉譯起始；不是 ER/Golgi 的蛋白質加工事件。\n\n【選項詳解】\n- A. 正確。5' cap 由 7-methylguanosine 以特殊 5'-5' triphosphate linkage 接在 mRNA 5' 端，可抵抗 5' exonuclease 分解，增加 mRNA 穩定性。\n- B. 正確。成熟 mRNA 到細胞質後，cap-binding protein eIF4E 會辨識 5' cap，是組裝 eIF4F 複合體與啟動 cap-dependent translation 的關鍵。\n- C. 正確。5' cap 能促進轉譯，因為 eIF4E/eIF4G/eIF4A 等起始因子會協助 40S ribosomal subunit 被招募到 mRNA 並掃描 start codon。\n- D. 錯誤。5' capping 主要發生在細胞核內，且常在 RNA polymerase II 合成出短 RNA 後即共同轉錄進行；ER 與 Golgi 主要負責分泌或膜蛋白的折疊、醣基化與運送加工，不是 mRNA cap 修飾場所。\n\n【核心考點】\nmRNA 加工地點要分清：5' capping、splicing、polyadenylation 都在細胞核內；ER/Golgi 是蛋白質分泌路徑的加工與運輸場域。",
+      "key_point": "真核 mRNA 5' cap 在細胞核內共同轉錄形成，可保護 mRNA 並促進 eIF4E 依賴的轉譯起始。",
+      "flashcard_front": "mRNA 5' capping：功能與發生位置",
+      "flashcard_back": "5' cap 在 nucleus 內形成，保護 mRNA 免於 5' exonuclease、供 eIF4E 辨識並促進 translation；不是 ER/Golgi 修飾。",
+      "flashcard_summary": "5' capping -> nucleus, mRNA stability, eIF4E, translation initiation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n本題問 aminoacyl-tRNA synthetase 的錯誤敘述。此酵素不只辨識胺基酸，也要辨識對應的 cognate tRNA，才能把正確胺基酸接到正確 tRNA，維持 translation fidelity。\n\n【選項詳解】\n- A. 正確。Aminoacyl-tRNA synthetase 將胺基酸接到 tRNA 3' 端 CCA 序列的 terminal adenosine 上，形成 aminoacyl-tRNA 的高能酯鍵。\n- B. 正確。反應第一步是胺基酸與 ATP 形成 aminoacyl-AMP，同時釋出 PPi；PPi 後續水解會使反應更偏向生成產物。\n- C. 錯誤。此酵素不能接受任何 tRNA 作為受質；它必須辨識 tRNA 的 identity elements，例如 anticodon loop 或 acceptor stem 特徵，只把胺基酸接到對應的 cognate tRNA。\n- D. 正確。多數生物對 20 種標準胺基酸各有專一 aminoacyl-tRNA synthetase；某些系統可有例外或間接胺醯化路徑，但考試基本原則是每種胺基酸對應專一酵素。\n\n【核心考點】\nAminoacyl-tRNA synthetase 是遺傳密碼正確翻譯的第一道關卡：同時辨識胺基酸與 cognate tRNA，且許多 aaRS 有 proofreading/editing 活性以移除誤接胺基酸。",
+      "key_point": "Aminoacyl-tRNA synthetase 具有胺基酸與 cognate tRNA 的雙重專一性，不會接受任意 tRNA。",
+      "flashcard_front": "Aminoacyl-tRNA synthetase：雙重專一性",
+      "flashcard_back": "aaRS 用 ATP -> AMP + PPi 活化胺基酸，並把它接到 cognate tRNA 3' 端；對胺基酸與 tRNA 都有專一性。",
+      "flashcard_summary": "aaRS fidelity -> specific amino acid + cognate tRNA recognition。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n本題問 glycolysis 中唯一把電子轉移給 NAD+ 的氧化還原酵素。糖解作用第 6 步由 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) 催化，將 G3P 氧化並產生 NADH。\n\n【選項詳解】\n- A. 錯誤。Enolase 催化 2-phosphoglycerate 脫水生成 phosphoenolpyruvate (PEP)，是 dehydration reaction，不涉及 NAD+ 還原。\n- B. 正確。GAPDH 催化 G3P + Pi + NAD+ -> 1,3-bisphosphoglycerate + NADH + H+；這是 glycolysis 中唯一產生 NADH 的氧化還原步驟。\n- C. 錯誤。Pyruvate dehydrogenase complex 也會產生 NADH，但它催化 pyruvate -> acetyl-CoA，屬於粒線體中連接糖解與 TCA cycle 的步驟，不在 glycolysis 十個反應內。\n- D. 錯誤。Pyruvate kinase 催化 PEP 把磷酸轉給 ADP 生成 ATP 與 pyruvate，是 substrate-level phosphorylation，不是 NAD+-dependent oxidation。\n\n【核心考點】\n糖解中看到 NADH 就想到 GAPDH；看到 PEP -> pyruvate 與 ATP 就想到 pyruvate kinase；看到 pyruvate -> acetyl-CoA 與 NADH 則是 PDC，不屬於糖解本身。",
+      "key_point": "糖解作用唯一產生 NADH 的步驟是 GAPDH 催化 G3P 氧化為 1,3-BPG。",
+      "flashcard_front": "Glycolysis：哪一步產生 NADH？",
+      "flashcard_back": "GAPDH 是糖解中唯一把電子交給 NAD+ 的酵素：G3P + NAD+ + Pi -> 1,3-BPG + NADH。",
+      "flashcard_summary": "Glycolysis NADH-producing step -> glyceraldehyde-3-phosphate dehydrogenase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n本題問 N-linked glycosylation 主要接在哪一種胺基酸。N-linked 的 N 指糖鏈連到 asparagine 側鏈的 amide nitrogen，典型共識序列是 Asn-X-Ser/Thr（X 通常不能是 proline）。\n\n【選項詳解】\n- A. 錯誤。Serine 側鏈有 hydroxyl group，較典型是 O-linked glycosylation 的連接位點，糖鏈接在氧原子上。\n- B. 錯誤。Tyrosine 也有 phenolic hydroxyl group，但不是典型 N-linked glycosylation 的主要胺基酸；考試常把含羥基胺基酸拿來和 Asn 混淆。\n- C. 正確。Asparagine 側鏈含 amide nitrogen，N-linked oligosaccharide 會接到這個 nitrogen；此修飾起始於 ER，之後在 Golgi 進一步修飾糖鏈。\n- D. 錯誤。Aspartate 側鏈是 carboxylate，沒有 asparagine 那種可作為 N-linked 連接點的 amide nitrogen；名稱相近但官能基不同。\n\n【核心考點】\nN-linked = Asparagine (Asn, N) 的側鏈氮；O-linked = Serine/Threonine 的側鏈氧。看到 Asn-X-Ser/Thr 共識序列要聯想到 N-linked glycosylation。",
+      "key_point": "N-linked glycosylation 連到 asparagine 側鏈 amide nitrogen，常見共識序列為 Asn-X-Ser/Thr。",
+      "flashcard_front": "N-linked glycosylation 連接哪個胺基酸？",
+      "flashcard_back": "N-linked 接 Asparagine 側鏈氮；O-linked 常接 Serine 或 Threonine 側鏈氧。",
+      "flashcard_summary": "N-linked glycosylation -> Asparagine side-chain nitrogen。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n本題問葡萄糖代謝成 acetyl-CoA 的過程「不需要」哪個酵素。葡萄糖先經 glycolysis 變成 pyruvate，再由 pyruvate dehydrogenase complex 轉成 acetyl-CoA；PEP carboxykinase 則屬於 gluconeogenesis，不參與這條分解路徑。\n\n【選項詳解】\n- A. 錯誤。Glyceraldehyde 3-phosphate dehydrogenase 是 glycolysis 第 6 步酵素，將 G3P 氧化成 1,3-BPG 並產生 NADH，因此葡萄糖分解到 pyruvate 的過程需要它。\n- B. 錯誤。Pyruvate kinase 是 glycolysis 最後一步，將 PEP 轉為 pyruvate 並產生 ATP；沒有這步就無法順利形成供 PDC 使用的 pyruvate。\n- C. 錯誤。Pyruvate dehydrogenase complex 是 pyruvate 轉 acetyl-CoA 的關鍵橋接酵素，會產生 CO2、NADH 與 acetyl-CoA，正是題目路徑所需。\n- D. 正確。Phosphoenolpyruvate carboxykinase (PEPCK) 催化 oxaloacetate -> PEP，是 gluconeogenesis 繞過 pyruvate kinase 的酵素；它用於合成葡萄糖方向，不用於葡萄糖分解成 acetyl-CoA。\n\n【核心考點】\n葡萄糖 -> acetyl-CoA 需要 glycolysis 酵素與 PDC；gluconeogenesis 的 bypass enzymes（pyruvate carboxylase、PEPCK、fructose-1,6-bisphosphatase、glucose-6-phosphatase）不屬於葡萄糖分解路徑。",
+      "key_point": "葡萄糖分解成 acetyl-CoA 需要 glycolysis 與 PDC；PEPCK 是 gluconeogenesis 酵素，方向相反。",
+      "flashcard_front": "Glucose -> acetyl-CoA：哪個酵素不需要？",
+      "flashcard_back": "需要 GAPDH、pyruvate kinase 和 PDC；不需要 PEPCK，因為 PEPCK 是 gluconeogenesis 中 OAA -> PEP 的酵素。",
+      "flashcard_summary": "Glucose catabolism to acetyl-CoA -> no PEPCK; PEPCK belongs to gluconeogenesis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

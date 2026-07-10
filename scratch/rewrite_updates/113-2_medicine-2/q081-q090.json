@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題在問良性與惡性腫瘤鑑別時，哪一個指標最可靠。分化差、生長快與局部侵襲都支持惡性可能，但最具決定性的證據是腫瘤已在遠端器官形成轉移灶。\n\n【選項詳解】\n- A. 錯誤。細胞分化差或未分化（anaplasia）常見於惡性腫瘤，代表細胞失去成熟型態與功能，但它仍是細胞學判斷，會受到取樣、腫瘤類型與反應性非典型變化影響，可靠性低於轉移。\n- B. 錯誤。生長速度快與有絲分裂增加表示增殖活躍，但修復性肉芽組織、內分泌刺激下的良性增生或部分良性腫瘤也可見較多有絲分裂，因此不能單靠此點判定惡性。\n- C. 錯誤。局部侵襲是惡性腫瘤的重要特徵，但部分邊界性或局部侵襲性良性病變會造成判讀困難；此外原位癌尚未突破基底膜，也可能尚無明顯侵襲。\n- D. 正確。轉移（metastasis）代表腫瘤細胞已離開原發部位，經淋巴、血行或體腔種植到遠端器官並形成新病灶；這是判定惡性腫瘤最可靠的證據。\n\n【核心考點】\n判定惡性腫瘤時，遠端轉移的可靠性最高；分化差、有絲分裂增加與局部侵襲只能提高惡性懷疑，仍需結合病理與臨床脈絡判斷。",
+      "key_point": "遠端轉移是判定惡性腫瘤可靠性最高的指標；分化差、生長快與局部侵襲雖常見於惡性腫瘤，但不是最具決定性的證據。",
+      "flashcard_front": "判定腫瘤為惡性時，分化差、有絲分裂、局部侵襲與遠端轉移何者最可靠？",
+      "flashcard_back": "遠端轉移最可靠。它代表腫瘤細胞已到遠端器官形成病灶；分化差、生長快與局部侵襲可支持惡性，但可靠性較低。",
+      "flashcard_summary": "腫瘤良惡性判斷 -> 遠端轉移是最可靠的惡性證據。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n本題要選出「最不直接調控細胞週期」的抑癌蛋白。RB、p53、p16 都位在細胞週期檢查點或 CDK 調控路徑中；E-cadherin 的主要功能則是維持上皮細胞間黏附，與腫瘤侵襲轉移較直接相關。\n\n【選項詳解】\n- A. 錯誤。RB 蛋白直接控制 G1/S 轉換；未磷酸化 RB 會結合 E2F，抑制 S 期基因轉錄，阻止細胞進入 DNA 合成期。\n- B. 錯誤。p53 在 DNA 損傷時被活化，可誘導 p21 抑制 CDK，造成 G1/S 或 G2/M 檢查點停滯，也可促進修復失敗細胞凋亡。\n- C. 正確。E-cadherin 是上皮細胞間黏附分子，主要維持細胞連結與組織結構；其喪失會降低黏附、促進上皮間質轉化（EMT）與侵襲轉移，並非細胞週期機器的直接調控蛋白。\n- D. 錯誤。p16/INK4a 是 CDK4/6 抑制蛋白，可阻止 cyclin D-CDK4/6 磷酸化 RB，使 E2F 持續受抑，直接抑制 G1 到 S 期進展。\n\n【核心考點】\nRB、p53、p16 都能直接或經由 CDK-RB 軸控制細胞週期；E-cadherin 的考點是細胞黏附與腫瘤侵襲轉移，而不是直接推進或阻斷細胞週期。",
+      "key_point": "E-cadherin 主要是細胞黏附分子，喪失時促進侵襲轉移；RB、p53、p16 才是直接參與細胞週期檢查點或 CDK 調控的抑癌蛋白。",
+      "flashcard_front": "RB、p53、E-cadherin、p16/INK4a 中，哪一個最不直接調控細胞週期？",
+      "flashcard_back": "E-cadherin。它主要負責上皮細胞間黏附，缺失時促進侵襲與轉移；RB、p53、p16 都直接參與細胞週期控制。",
+      "flashcard_summary": "抑癌蛋白功能 -> E-cadherin 管細胞黏附；RB/p53/p16 管細胞週期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n本題詢問哪種血管炎在顯微鏡下最少出現肉芽腫性發炎。官方更正接受 B、C、D 多重給分，因為這三者都不是以典型肉芽腫性血管炎為主要病理特徵；相對地，Churg-Strauss syndrome 目前稱為嗜酸性肉芽腫性多血管炎（EGPA），名稱與病理都指向肉芽腫。\n\n【選項詳解】\n- A. 錯誤。Churg-Strauss syndrome/EGPA 的典型病理包含壞死性小血管炎、血管外肉芽腫與顯著嗜酸性球浸潤，因此不是「最少出現肉芽腫」的選項。\n- B. 正確。Microscopic polyangiitis（MPA）是 pauci-immune 小血管壞死性血管炎，典型表現為纖維素樣壞死與白血球破碎性血管炎，缺乏肉芽腫形成。\n- C. 正確。川崎氏症（Kawasaki disease）主要侵犯中型動脈，尤其冠狀動脈，病理以全層血管炎、壞死、血栓與後續動脈瘤風險為主，不以肉芽腫性發炎為特徵。\n- D. 正確。Buerger disease（血栓閉塞性脈管炎）主要見於吸菸者四肢中小動靜脈，重點是發炎性血栓與血管腔阻塞；可在血栓內見發炎細胞或巨細胞，但不是典型肉芽腫性血管炎。\n\n【核心考點】\n血管炎要用病理型態分類：EGPA/GPA/巨細胞動脈炎常與肉芽腫相關；MPA、川崎氏症與 Buerger disease 主要不是肉芽腫性血管炎。本題官方更正為 B、C、D 皆可。",
+      "key_point": "Churg-Strauss syndrome/EGPA 是肉芽腫性血管炎；MPA、川崎氏症與 Buerger disease 都不是以肉芽腫性發炎為主要顯微鏡特徵，官方接受 B、C、D 多重給分。",
+      "flashcard_front": "哪些血管炎最少出現肉芽腫性發炎？Churg-Strauss、MPA、川崎氏症、Buerger disease 如何分辨？",
+      "flashcard_back": "EGPA/Churg-Strauss 常有肉芽腫與嗜酸性球；MPA 是小血管壞死性血管炎但無肉芽腫；川崎氏症是中型動脈全層血管炎；Buerger disease 重點是發炎性血栓。",
+      "flashcard_summary": "血管炎病理 -> EGPA 有肉芽腫；MPA、川崎氏症、Buerger disease 非典型肉芽腫性血管炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": [
+        "來源資料顯示第83題為官方更正多重給分，接受 B、C、D；本 update 未改答案欄位。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n本題考馬凡氏症候群（Marfan syndrome）的心臟瓣膜病理。Marfan syndrome 因 FBN1/fibrillin-1 異常造成結締組織支撐不良，瓣膜最典型的變化是二尖瓣黏液性變性，常導致二尖瓣脫垂。\n\n【選項詳解】\n- A. 錯誤。主動脈瓣連合處融合較典型見於風濕性瓣膜病變或與狹窄相關的瓣膜病理，不是 Marfan syndrome 的代表性瓣膜變化。\n- B. 錯誤。主動脈瓣鈣化常見於老年退化性主動脈瓣狹窄或先天雙葉瓣長期受力後鈣化，和 Marfan 的結締組織黏液性變性不同。\n- C. 正確。二尖瓣黏液性變性（myxomatous degeneration）會使瓣膜基質鬆散、酸性黏多醣增加、瓣葉拉長變軟，造成二尖瓣脫垂與閉鎖不全，是 Marfan syndrome 常見瓣膜病理。\n- D. 錯誤。二尖瓣連合處融合是風濕性二尖瓣狹窄的經典變化，常伴腱索縮短與魚口狀狹窄；Marfan 的二尖瓣問題主要是黏液性變性與脫垂，而非連合處融合。\n\n【核心考點】\nMarfan syndrome 的瓣膜考點是結締組織支撐不良造成二尖瓣黏液性變性與脫垂；連合處融合要想到風濕性心臟病，瓣膜鈣化多見於退化性或雙葉瓣病變。",
+      "key_point": "Marfan syndrome 常見二尖瓣黏液性變性與二尖瓣脫垂；瓣膜連合處融合是風濕性瓣膜病變的典型線索。",
+      "flashcard_front": "Marfan syndrome 的心臟瓣膜最常見病理變化是什麼？",
+      "flashcard_back": "二尖瓣黏液性變性，常造成二尖瓣脫垂與閉鎖不全；連合處融合較支持風濕性瓣膜病。",
+      "flashcard_summary": "Marfan valve lesion -> mitral valve myxomatous degeneration and prolapse。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題考次發性骨髓化生不良症候群（secondary myelodysplastic syndrome, secondary MDS）的病因。最重要線索是「次發性」常指治療相關性 MDS，典型發生在接受過抗癌化療或放射治療之後。\n\n【選項詳解】\n- A. 錯誤。長期缺乏鈣質主要造成骨質疏鬆、骨軟化或骨骼礦化問題，不會造成造血幹細胞克隆性異常與 MDS。\n- B. 正確。抗癌化學治療，尤其烷化劑與 topoisomerase II inhibitor，會造成造血幹細胞 DNA 與染色體損傷，可引發治療相關性 MDS/AML；這類次發性 MDS 常伴第 5 或第 7 號染色體異常且預後較差。\n- C. 錯誤。骨質疏鬆藥物如 bisphosphonate 或 denosumab 主要作用於骨吸收調控，並非造成 MDS 的典型基因毒性暴露。\n- D. 錯誤。抗結核藥物可有肝毒性、周邊神經病變或少數血液副作用，但不是引起克隆性造血異常與 secondary MDS 的主要原因。\n\n【核心考點】\nsecondary MDS 最重要的考點是治療相關性骨髓傷害：先前接受抗癌化療或放療會增加 MDS/AML 風險，尤其烷化劑相關病例常出現不良染色體異常。",
+      "key_point": "次發性 MDS 最典型原因是先前接受抗癌化療或放療，基因毒性傷害造血幹細胞後造成克隆性骨髓造血異常。",
+      "flashcard_front": "secondary MDS 最可能由哪類暴露引起？",
+      "flashcard_back": "抗癌化學治療或放射治療，特別是烷化劑與 topoisomerase II inhibitor，會造成造血幹細胞 DNA/染色體損傷。",
+      "flashcard_summary": "secondary MDS -> prior chemotherapy/radiation causes clonal marrow injury。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題考脾梗塞（splenic infarct）的血管解剖與病因。脾臟由終末動脈供血，容易發生貧血性梗塞；正常大小脾臟發生梗塞時，常見原因是心臟來源的栓子。\n\n【選項詳解】\n- A. 錯誤。脾臟不是因豐富側枝循環而很少梗塞；相反地，脾動脈分支屬終末動脈，側枝吻合不足，分支阻塞後容易形成楔形貧血性梗塞。\n- B. 錯誤。脾腫大是脾梗塞的重要好發背景，例如血液疾病、門脈高壓或髓外造血造成脾臟增大時，血流需求與局部灌流不平衡會增加梗塞風險。\n- C. 正確。正常大小的脾臟若發生梗塞，常見機轉是心源性栓塞，例如感染性心內膜炎贅生物、心房顫動血栓或心肌梗塞後心室血栓脫落，進入脾動脈分支。\n- D. 錯誤。脾梗塞通常是白色梗塞，表現為左上腹痛、發燒或局部腹膜刺激；大量腹腔內出血通常要想到脾破裂或外傷，不是一般脾梗塞的常態。\n\n【核心考點】\n脾臟因終末動脈供血而容易發生貧血性梗塞；脾腫大會增加梗塞風險；正常大小脾臟梗塞最常見病因是心源性栓子。",
+      "key_point": "脾動脈分支屬終末動脈，脾腫大是梗塞好發因素；正常大小脾臟梗塞常由心源性栓子造成。",
+      "flashcard_front": "脾梗塞的血管解剖與正常脾臟最常見病因是什麼？",
+      "flashcard_back": "脾臟由終末動脈供血，側枝不足，易形成白色梗塞；正常大小脾臟梗塞常由心源性栓子造成。",
+      "flashcard_summary": "splenic infarct -> end-artery supply; normal spleen infarct often from cardiac emboli。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n本題問影響肺栓塞（pulmonary embolism）嚴重度最重要的因素。急性肺栓塞是否造成右心衰竭、休克或猝死，最直接取決於栓子大小與因此阻塞的肺血管床比例。\n\n【選項詳解】\n- A. 錯誤。造成栓塞的原因如長期臥床、手術、癌症或血栓體質會影響發生風險，但患者當下嚴重度主要由肺動脈阻塞範圍決定。\n- B. 錯誤。栓子成分如血栓、脂肪、羊水或空氣會影響病理機轉與治療方向，但一般肺栓塞多為血栓栓子；急性血流動力學危險仍取決於阻塞量。\n- C. 正確。栓子越大，越可能阻塞主肺動脈、肺動脈分叉或主要分支，造成肺血管阻力急升、右心室急性擴張與心輸出量下降；大型鞍狀栓子可快速致命。\n- D. 錯誤。栓子來源常是下肢深部靜脈，但來源位置本身不如栓子大小與阻塞部位重要；同樣來源的栓子可因大小不同而造成完全不同的臨床嚴重度。\n\n【核心考點】\n肺栓塞嚴重度主要看栓子大小與阻塞血管床比例；大型栓子阻塞主幹或主要分支會導致急性右心衰竭，小型周邊栓子可能症狀輕微或無症狀。",
+      "key_point": "肺栓塞嚴重度最重要因素是栓子大小，因為它決定阻塞的肺動脈層級與肺血管床比例。",
+      "flashcard_front": "肺栓塞嚴重度最重要由什麼決定？",
+      "flashcard_back": "栓子大小。大型栓子可阻塞主肺動脈或主要分支，使肺血管阻力驟升並造成急性右心衰竭或猝死。",
+      "flashcard_summary": "pulmonary embolism severity -> embolus size determines obstruction and right-heart strain。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n本題要找造成病毒性肺炎最不常見的病原。副流感病毒、流感病毒與腺病毒都是呼吸道病毒；輪狀病毒主要造成嬰幼兒病毒性腸胃炎，並不是典型肺炎病原。\n\n【選項詳解】\n- A. 正確。輪狀病毒（rotavirus）主要感染小腸絨毛上皮，造成水瀉、嘔吐與脫水，是病毒性腸胃炎的重要病原；它不是常見病毒性肺炎病原。\n- B. 錯誤。副流感病毒（parainfluenza virus）是常見呼吸道病毒，可造成哮吼、支氣管炎、細支氣管炎與病毒性肺炎，特別常見於兒童。\n- C. 錯誤。流感病毒（influenza virus）可直接造成病毒性肺炎，也會破壞呼吸道上皮後引發繼發性細菌性肺炎，是常見且重要的呼吸道病原。\n- D. 錯誤。腺病毒（adenovirus）可造成咽炎、咽結膜熱、支氣管炎與肺炎，兒童或免疫低下者可能出現較嚴重肺部感染。\n\n【核心考點】\n病毒性肺炎常見病原包括 influenza、parainfluenza、RSV、adenovirus 等呼吸道病毒；rotavirus 的主要靶器官是腸道，考試上要把它和呼吸道病毒分開。",
+      "key_point": "Rotavirus 主要造成病毒性腸胃炎，最不常見造成病毒性肺炎；influenza、parainfluenza、adenovirus 都是常見呼吸道病毒。",
+      "flashcard_front": "在 rotavirus、parainfluenza、influenza、adenovirus 中，哪個最不常造成病毒性肺炎？",
+      "flashcard_back": "Rotavirus。它主要感染腸道造成病毒性腸胃炎；其餘三者都是呼吸道病毒，可造成病毒性肺炎。",
+      "flashcard_summary": "viral pneumonia pathogens -> rotavirus is GI, not typical respiratory pneumonia pathogen。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n本題是負向題，問慢性支氣管炎（chronic bronchitis）的特徵何者最不適當。慢性支氣管炎的重點是長期刺激造成黏液分泌過多、杯狀細胞化生與黏液腺肥大；嗜酸性球增加比較支持氣喘或過敏性氣道發炎。\n\n【選項詳解】\n- A. 錯誤。黏液分泌過多是慢性支氣管炎的核心病理生理，會造成慢性咳嗽與咳痰，並使氣道阻塞惡化。\n- B. 正確。嗜酸性白血球增加（eosinophilia）不是慢性支氣管炎的典型特徵；慢性支氣管炎較常見中性球、巨噬細胞與淋巴細胞相關的慢性發炎，嗜酸性球則更典型見於氣喘。\n- C. 錯誤。支氣管上皮杯狀細胞化生是長期吸菸或空氣污染刺激後的常見變化，會增加黏液產生，是慢性支氣管炎的重要病理特徵。\n- D. 錯誤。抽菸是慢性支氣管炎與 COPD 最重要危險因子，會刺激黏液腺肥大、杯狀細胞增加，並抑制纖毛清除功能。\n\n【核心考點】\n慢性支氣管炎要記住「黏液多、杯狀細胞多、黏液腺肥大、吸菸最重要」；嗜酸性球增加則偏向氣喘的病理線索。",
+      "key_point": "慢性支氣管炎以黏液分泌過多、杯狀細胞化生、黏液腺肥大與吸菸相關為主；嗜酸性球增加較支持氣喘。",
+      "flashcard_front": "慢性支氣管炎和氣喘在發炎細胞與病理特徵上如何區分？",
+      "flashcard_back": "慢性支氣管炎重點是黏液分泌過多、杯狀細胞化生、黏液腺肥大與吸菸；氣喘較典型見嗜酸性球增加。",
+      "flashcard_summary": "chronic bronchitis -> mucus hypersecretion and smoking; eosinophilia suggests asthma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n本題是負向題，考自體免疫性肝膽疾病與血清抗體配對。PBC 對 anti-mitochondrial antibody、第一型自體免疫性肝炎對 ANA/anti-smooth muscle antibody、第二型自體免疫性肝炎對 anti-LKM1 都是典型配對；PSC 常見的是 p-ANCA 或 atypical p-ANCA，不是 c-ANCA。\n\n【選項詳解】\n- A. 錯誤。Primary biliary cirrhosis 現多稱 primary biliary cholangitis（PBC），常有 anti-mitochondrial antibody（AMA）陽性，比例可達 90% 以上，是很重要的診斷線索。\n- B. 錯誤。第一型自體免疫性肝炎（AIH type 1）典型血清指標是 ANA 與 anti-smooth muscle antibody（ASMA），常見於成人女性。\n- C. 錯誤。第二型自體免疫性肝炎（AIH type 2）典型血清指標是 anti-liver kidney microsomal type 1 antibody（anti-LKM1），較常見於兒童或年輕族群。\n- D. 正確。Primary sclerosing cholangitis（PSC）可見 ANCA 陽性，但典型是 p-ANCA/atypical p-ANCA；c-ANCA 多與 proteinase 3（PR3）相關，經典連結是 granulomatosis with polyangiitis（GPA），所以此配對最不適當。\n\n【核心考點】\n自體免疫性肝膽疾病抗體配對：PBC 對 AMA，AIH type 1 對 ANA/ASMA，AIH type 2 對 anti-LKM1，PSC 對 p-ANCA 或 atypical p-ANCA；看到 c-ANCA 要優先想到 GPA。",
+      "key_point": "PSC 相關抗體是 p-ANCA/atypical p-ANCA，而非 c-ANCA；PBC 對 AMA，AIH type 1 對 ANA/ASMA，AIH type 2 對 anti-LKM1。",
+      "flashcard_front": "PBC、AIH type 1、AIH type 2、PSC 的血清抗體如何配對？",
+      "flashcard_back": "PBC: AMA；AIH type 1: ANA/ASMA；AIH type 2: anti-LKM1；PSC: p-ANCA 或 atypical p-ANCA，不是 c-ANCA。",
+      "flashcard_summary": "autoimmune hepatobiliary serology -> PBC-AMA, AIH1-ANA/ASMA, AIH2-anti-LKM1, PSC-pANCA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:29.8683040+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

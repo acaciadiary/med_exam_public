@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "merge": false,
+  "update_file_count": 5,
+  "question_count": 50,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 29,
+      "notes": [
+        "第29題需依原始題圖辨認甲、乙、丙；本 update 依來源既有對應為丙=頸椎、甲=胸椎、乙=腰椎。"
+      ]
+    },
+    {
+      "question_number": 40,
+      "notes": [
+        "第40題來源採複數給分；B 的敘述明確錯誤，但 C 在一般解剖生理中通常為正確敘述，建議人工複核官方給分依據。"
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-4.json",
+  "dataset_id": "114-1_medicine-4",
+  "merge": false,
+  "update_file_count": 1,
+  "question_count": 10,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 3,
+      "notes": [
+        "影像題，建議主線對照原始腹部 X 光確認是否有腸壁積氣或門靜脈積氣。"
+      ]
+    },
+    {
+      "question_number": 9,
+      "notes": [
+        "官方答案 A 採 HAV 潛伏期下限邏輯；15-19 天不是常見平均值，建議主線保留複核註記。"
+      ]
+    }
+  ],
+  "errors": []
+}

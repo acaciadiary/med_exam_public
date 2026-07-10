@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n巴金森氏症候群（Parkinsonism）包括原發性巴金森氏病（PD）、次發性/後天性巴金森氏症及非典型巴金森氏症（Parkinson-Plus 症候群）。本題要求辨識其中錯誤的描述。\n\n【選項詳解】\n- A. 後天的(acquired)巴金森氏症的成因包含藥物引發、水腦、缺氧性腦病變、病毒感染或腦炎後遺症、一氧化碳中毒、腦中風等：正確。這些理化或結構性損傷會破壞黑質紋狀體通路，導致次發性巴金森氏症（例如常壓性水腦或抗精神病藥物阻斷多巴胺接受器）。\n- B. 常見的Parkinson-Plus syndrome包含大腦皮質基底核退化症(corticobasal degeneration)、多重系統萎縮症(multiple system atrophy)及進行性上眼神經核麻痺症(progressive supranuclear palsy)：正確。非典型巴金森氏症（Parkinson-Plus）具有巴金森運動特徵，但合併其他特異神經退化表現，且對左多巴（Levodopa）治療效果不佳。\n- C. 巴金森氏病(Parkinson disease)是最常見的神經退化性動作障礙疾病,其主要臨床表現為顫抖(tremor)、動作遲緩(bradykinesia)、肢體僵硬(rigidity)及姿勢不穩(postural instability)：正確。此四者（TRAP）是原發性巴金森氏病（PD）的四大經典運動症狀。\n- D. 巴金森氏病(Parkinson disease)是運動障礙疾病,不會有非動作(non-motor)相關症狀：錯誤（符合題意）。巴金森氏病除了運動症狀外，廣泛合併多種非運動症狀（non-motor symptoms），包括早期的嗅覺喪失、快速動眼期睡眠行為障礙（RBD）、便秘、憂鬱、以及晚期的巴金森氏病失智症（PDD）。\n\n【核心考點】\n巴金森氏病（PD）的臨床特徵：TRAP 四大運動症狀（顫抖、僵硬、遲緩、姿勢不穩）；極常合併非運動症狀（便秘、嗅覺喪失、睡眠障礙、失智等）。",
+      "key_point": "巴金森氏病（PD）除了核心運動症狀（顫抖、僵硬、遲緩、姿勢不穩）外，亦高度合併非運動症狀（如嗅覺退化、便秘、睡眠障礙與認知退化）。",
+      "flashcard_front": "巴金森氏病 (Parkinson's disease) / 核心運動症狀 (TRAP) / 臨床重要非運動症狀 (non-motor symptoms)",
+      "flashcard_back": "運動症狀包括顫抖、僵硬、動作遲緩與姿勢不穩。非運動症狀常見：便秘、嗅覺喪失、REM期睡眠行為障礙(RBD)與失智症。",
+      "flashcard_summary": "巴金森氏病症狀 -> 運動症狀(TRAP) + 非運動症狀(嗅覺喪失、便秘、快速動眼期睡眠障礙RBD、憂鬱、失智)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n威爾森氏病（Wilson's disease）是一種體染色體隱性遺傳的銅離子代謝異常疾病。其致病機轉在於膽汁排銅障礙，導致游離銅沈積在肝臟、大腦基底核、角膜等處。\n\n【選項詳解】\n- A. 是一種體隱性遺傳疾病,因ATP7B基因突變導致：正確。位於第13號染色體的 ATP7B 基因突變，導致肝臟細胞膜上的銅轉運 ATP 酶功能受損。\n- B. 常見的神經學檢查異常包括:精神症狀、巴金森氏症(parkinsonism)、說話及吞嚥困難、肌張力不全、姿態性顫抖和步態異常等：正確。銅離子沈積在豆狀核等基底核結構，會引起肌張力障礙、顫抖、構音障礙及帕金森樣運動障礙。\n- C. 因體內銅離子代謝異常,患者血液中ceruloplasmin的濃度通常高於正常值：錯誤（符合題意）。由於 ATP7B 功能缺陷，銅離子無法有效併入血漿銅藍蛋白（apo-ceruloplasmin）形成結合態，導致不穩定的血漿銅藍蛋白迅速降解。因此，絕大多數威爾森氏病患者的血清血漿銅藍蛋白（ceruloplasmin）濃度會「顯著低於正常值（通常 < 20 mg/dL）」，而非高於正常值。\n- D. 治療可用排銅藥物(如penicillamine)或抑制銅離子吸收(如zinc sulphate)：正確。口服螯合劑（如 Penicillamine）可促進尿銅排出；鋅劑（Zinc）可促進腸道上皮細胞合成金屬硫蛋白，阻礙腸道對食物中銅的吸收。\n\n【核心考點】\n威爾森氏病（Wilson disease）的分子生物學與診斷：ATP7B 突變導致體隱性遺傳；血清血漿銅藍蛋白（ceruloplasmin）「降低」是關鍵診斷標記。治療使用青黴胺（Penicillamine）排銅或鋅劑抑銅。",
+      "key_point": "威爾森氏病患者血清血漿銅藍蛋白（ceruloplasmin）濃度顯著降低（而非升高），此病由 ATP7B 基因突變引起，導致銅蓄積於肝與腦基底核。",
+      "flashcard_front": "威爾森氏病 (Wilson's disease) / 遺傳與突變基因 / 診斷生化標記 (血漿銅藍蛋白 ceruloplasmin) 改變與治療",
+      "flashcard_back": "體隱性遺傳(ATP7B突變)。特徵為銅蓄積。診斷生化指標為血清血漿銅藍蛋白（ceruloplasmin）「低於正常值」。治療用螯合劑（Penicillamine）或鋅劑。",
+      "flashcard_summary": "威爾森氏病診斷 -> ATP7B基因突變(體隱性) + 血漿銅藍蛋白(ceruloplasmin)濃度「降低」 + 尿銅升高 + K-F ring；治療 -> Penicillamine排銅/鋅劑抑銅",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n22歲女性，左半身肌力下降（運動功能受損），右半身麻木且痛覺（針刺感覺）下降。這呈現出「同側（左側）運動與深感覺受損、對側（右側）痛溫覺受損」的交叉性脊髓病變表現，即為典型脊髓半切症候群（Brown-Séquard syndrome）。病灶位於左側脊髓。\n\n【選項詳解】\n- A. 左腳Babinski sign異常：可能。病灶位於左側脊髓，會損傷左側下行的皮質脊髓束（Corticospinal tract），引發同側（左側）上運動神經元病變，表現為左腳 Babinski sign 陽性（病理反射）。\n- B. 右側肢體對震動感覺(vibratory sensation)有明顯下降：最不可能合併出現（正確答案）。震動覺與本體感覺經由後索（Posterior column）傳導，在延腦才交叉。因此，左側脊髓受損會導致「左側（同側）」肢體的震動覺下降，而「右側（對側）」肢體的震動覺應保持正常。\n- C. 左側肢體對關節位置感覺(joint position sensation)有明顯下降：可能。深感覺（關節位置覺、震動覺）在脊髓內不交叉，由後索同側上行。因此左側脊髓病變會導致同側（左側）關節位置覺明顯下降。\n- D. 右側肢體對溫度感覺(temperature sensation)有明顯下降：可能。痛覺與溫度覺經由脊髓視丘束（Spinothalamic tract）傳導，在進入脊髓後即交叉至對側上行。因此，左側脊髓病變會阻斷已交叉過來的右側身體痛溫覺信號，導致右側肢體溫度覺下降。\n\n【核心考點】\n脊髓半切症候群（Brown-Séquard syndrome）的解剖生理：脊髓單側受損導致：(1) 同側運動障礙（皮質脊髓束受損，Babinski 陽性）及同側深感覺（後索受損：震動覺、位置覺）喪失；(2) 對側痛溫覺（脊髓視丘束受損）喪失。",
+      "key_point": "脊髓半切症候群（Brown-Séquard syndrome）中，病灶同側（左側）會出現運動無力與深感覺（震動覺/位置覺）喪失；病灶對側（右側）出現痛溫覺喪失。",
+      "flashcard_front": "脊髓半切症候群 (Brown-Séquard syndrome) / 神經傳導束交叉部位 / 同側與對側受損感覺類型對比",
+      "flashcard_back": "脊髓單側受損。同側：皮質脊髓束（運動無力/Babinski(+)）與後索（位置覺/震動覺喪失）。對側：脊髓視丘束（痛溫覺喪失）。",
+      "flashcard_summary": "Brown-Séquard syndrome (脊髓左側受損) -> 左側(同側)運動無力/Babinski(+) + 左側(同側)位置覺/震動覺喪失 + 右側(對側)痛溫覺喪失",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n在針極肌電圖（needle EMG）中，靜止狀態下出現的顫波（fibrillation potentials）和正相尖波（positive sharp waves）是去神經支配（denervation）或肌肉纖維膜不穩定（membrane instability）的特徵。\n\n【選項詳解】\n- A. 運動神經元疾病(motor neuron disease)：易看到。MND（如 ALS）屬於前角細胞病變，會導致下運動神經元廣泛去神經支配，肌電圖會見到大量的顫波與正相尖波。\n- B. 多發性肌炎(polymyositis)：易看到。雖然多發性肌炎是原發性肌病變，但由於嚴重的肌纖維發炎、壞死及肌膜不穩定，針極肌電圖在靜止期也常出現明顯的顫波與正相尖波，此為活動性發炎性肌病的特徵。\n- C. 糖尿病多發性神經病變(diabetic polyneuropathy)：易看到。糖尿病導致周邊軸突變性，引起遠端肌肉去神經支配，肌電圖會顯示去神經相關的顫波與正相尖波。\n- D. 週期性麻痺(periodic paralysis)：最不易看到（正確答案）。週期性麻痺是一種通道病（channelopathy，如低血鉀性週期性麻痺），主要由於骨骼肌膜電位異常引起暫時性肌肉無力，並不伴隨運動神經軸突受損（去神經）或持續的肌發炎壞死。因此，在其發作期與間歇期的肌電圖上，通常最不易看到去神經支配的顫波或正相尖波。\n\n【核心考點】\n肌電圖去神經電位（顫波與正相尖波）的臨床意義：見於神經源性受損（MND、糖尿病周邊神經病變）及活動性發炎性肌病（多發性肌炎）。週期性麻痺為膜通道電位異常，無去神經表現。",
+      "key_point": "肌電圖中的顫波與正相尖波代表肌肉去神經支配或嚴重的肌膜發炎不穩定，常見於運動神經元疾病與多發性肌炎，而不見於週期性麻痺這種離子通道功能性疾病。",
+      "flashcard_front": "針極肌電圖 (EMG) / 顫波與正相尖波 (fibrillation & positive sharp wave) 意義 / 週期性麻痺 (periodic paralysis) 之肌電圖特徵",
+      "flashcard_back": "顫波與正相尖波代表去神經支配或肌膜發炎不穩定。見於MND、多發性肌炎、周邊神經病變。週期性麻痺為離子通道功能病，無去神經表現。",
+      "flashcard_summary": "EMG去神經活動(顫波/正相尖波) -> 常見於MND(前角受損)、多發性肌炎(肌纖維膜發炎不穩定)、糖尿病神經病變；週期性麻痺(離子通道病)則無此表現",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n30歲女性，單側眼瞼下垂（ptosis），症狀具有特徵性的「晨輕暮重（diurnal fluctuation）」和易疲勞性（早上輕微、睡前嚴重）。這是非常經典的重症肌無力（Myasthenia gravis, MG）臨床表現。\n\n【選項詳解】\n- A. 格林–巴利症候群(Guillain-Barré syndrome)：是一種急性周邊脫髓鞘神經病變，典型表現為對稱性、漸進式上行性肢體無力與腱反射消失，病程呈急性進展，無眼肌易疲勞性與晨輕暮重特徵。\n- B. 重症肌無力(myasthenia gravis)：正確。重症肌無力是乙醯膽鹼接受器抗體（AChR-Ab）介導的自體免疫疾病，影響神經肌肉接頭。眼肌型 MG 最常以單側或雙側眼瞼下垂、複視起病，核心特色為病變肌肉活動後加重、休息後減輕，因而呈現典型的「晨輕暮重」波動。\n- C. 腦動脈瘤(cerebral artery aneurysm)：壓迫動眼神經（如後交通動脈瘤）會引起突發性眼瞼下垂、瞳孔散大與眼球運動受限（動眼神經麻痺），這屬於結構性壓迫，症狀為持續性，不會有晨輕暮重的疲勞波動性。\n- D. 運動神經元疾病(motor neuron disease)：主要影響皮質脊髓束與前角細胞，表現為漸進性肌無力、萎縮及肌束顫動（fasciculation），不會單純表現為波動性的單側眼瞼下垂。\n\n【核心考點】\n重症肌無力（MG）的病生理與臨床特徵：自體抗體阻斷神經肌肉接頭 AChR，臨床特徵為受累骨骼肌的易疲勞性與「晨輕暮重」波動性，眼外肌（眼瞼下垂、複視）是最常受累的部位。",
+      "key_point": "眼瞼下垂伴隨「晨輕暮重」和易疲勞性，是重症肌無力（Myasthenia Gravis）的典型臨床表現，起因於神經肌肉接頭 AChR 受體自體抗體阻斷。",
+      "flashcard_front": "重症肌無力 (myasthenia gravis) / 晨輕暮重與易疲勞性 (fatigability) / 鑑別後交通動脈瘤壓迫動眼神經",
+      "flashcard_back": "由抗AChR自體抗體引起，具波動性晨輕暮重特徵。後交通動脈瘤壓迫動眼神經則為持續性眼瞼下垂且常伴隨瞳孔散大，無疲勞波動。",
+      "flashcard_summary": "重症肌無力(MG) -> 自體抗體阻斷AChR + 晨輕暮重(diurnal fluctuation)/易疲勞性 + 常以單側眼瞼下垂/複視起病",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n腦膜瘤（meningioma）是源於腦膜蛛網膜帽狀細胞（arachnoid cap cells）的腫瘤，為中樞神經系統中非常常見的腫瘤類型。\n\n【選項詳解】\n- A. 是第二常見的原發性顱內腫瘤：錯誤（符合題意）。腦膜瘤實際上是「最常見（第一常見）」的原發性顱內腫瘤，約佔所有原發性腦瘤的 35%-40% 以上。第二常見的才是神經膠質瘤（gliomas）。\n- B.  發生的機會隨著年齡增加而增加：正確。腦膜瘤的發病率隨年齡增長而顯著升高，診斷的平均年齡約在 65 歲左右。\n- C.  女性發生腦膜瘤的機率比男性高：正確。腦膜瘤具有顯著的性別差異，女性患者的比例約為男性的 2 至 3 倍，這與腦膜瘤細胞表面常表達孕酮受體（progesterone receptors）及雌激素受體有關。\n- D.  可能發生在脊髓硬腦膜：正確。雖然大多數腦膜瘤發生在顱內，但也可以起源於脊髓的硬脊膜（spinal dura mater），佔脊髓內原發腫瘤的很大一部分。\n\n【核心考點】\n腦膜瘤（Meningioma）的流行病學特徵：為「最常見」的原發性顱內腫瘤；女性好發（與荷爾蒙受體相關）；發病率隨年齡增加；可見於脊髓硬膜。",
+      "key_point": "腦膜瘤是最常見的原發性顱內腫瘤，女性好發率為男性的2-3倍，發病率隨年齡上升。",
+      "flashcard_front": "腦膜瘤 (meningioma) / 盛行率地位 / 性別好發與荷爾蒙關聯",
+      "flashcard_back": "是「最常見」的原發性顱內腫瘤。女性發生率高於男性（2-3倍），因其常表達孕酮與雌激素受體。發病率隨年齡增加，亦可發生於脊髓硬膜。",
+      "flashcard_summary": "最常見原發顱內腫瘤 -> 腦膜瘤(Meningioma，佔~40%)；好發族群 -> 晚年、女性(2-3倍，具孕酮受體)；可見於脊髓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n肌萎縮性側索硬化症（ALS，俗稱漸凍症）是一種漸進性的運動神經元退化疾病。約有 10% 的患者屬於家族性 ALS，已發現多個致病基因突變。\n\n【選項詳解】\n- A. SOD1：正確。超氧化物歧化酶 1（superoxide dismutase 1, SOD1）基因突變是第一個被發現的家族性 ALS 致病基因，約佔所有家族性 ALS 的 20%。\n- B. APP：澱粉樣前驅蛋白（amyloid precursor protein, APP）基因突變與早發性家族性阿茲海默症（Alzheimer's disease）相關，而非 ALS。\n- C. LRRK2：富亮氨酸重複激酶 2（LRRK2）基因突變是家族性及散發性巴金森氏病（Parkinson's disease）最常見的遺傳學因，與 ALS 無關。\n- D. parkin：PARK2（編碼 parkin 蛋白質）基因突變與早發性體染色體隱性遺傳巴金森氏病相關，與 ALS 無關。\n\n【核心考點】\n肌萎縮性側索硬化（ALS）與神經退化疾病之遺傳基因：(1) ALS 致病基因為 SOD1（亦有 C9orf72）；(2) 阿茲海默症基因為 APP, PSEN1, PSEN2；(3) 巴金森氏病基因為 LRRK2, parkin, SNCA。",
+      "key_point": "超氧化物歧化酶 1（SOD1）基因突變是家族性肌萎縮性側索硬化（ALS）的最主要致病基因之一。",
+      "flashcard_front": "肌萎縮性側索硬化 (ALS) / 家族性突變基因 / 其他退化性腦病變 (AD/PD) 基因鑑別",
+      "flashcard_back": "家族性ALS最常見的致病基因為 SOD1。APP突變與家族性阿茲海默症相關。LRRK2與parkin突變與巴金森氏症相關。",
+      "flashcard_summary": "ALS家族性致病基因 -> SOD1 (占20%)、C9orf72；APP -> 家族性阿茲海默症；LRRK2/parkin -> 家族性巴金森氏症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n35歲男性突發頭痛、發燒與頸部僵硬（腦膜刺激徵）。腰椎穿刺結果：CSF 白血球輕微上升（40 /μL）且以「淋巴球為主（90%）」，蛋白質僅輕微偏高（50 mg/dL），葡萄糖（70 mg/dL）完全正常（大於 50 mg/dL，通常佔血糖的 60% 左右）。\n\n【選項詳解】\n- A. 病毒性腦膜炎：正確。病毒性（無菌性）腦膜炎的腦脊髓液典型特徵為：白血球輕度至中度升高（通常 < 500/μL，以淋巴球為主）、蛋白質正常或輕度升高、且「葡萄糖濃度正常」。這高度符合題幹數據。\n- B. 細菌性腦膜炎：不符。細菌性腦膜炎的 CSF 呈化膿性改變，白血球通常極高（> 1000/μL，以中性粒細胞 PMN 為主）、蛋白質顯著升高、且「葡萄糖顯著降低（通常 < 40 mg/dL）」。\n- C. 結核性腦膜炎：不符。結核性腦膜炎呈亞急性起病，其 CSF 特徵為白血球中度升高（以淋巴球為主）、蛋白質顯著升高（常 > 100-500 mg/dL）、且「葡萄糖偏低」。\n- D. 隱球菌腦膜炎：不符。隱球菌腦膜炎主要見於免疫不全患者，其 CSF 特徵與結核性腦膜炎相似，白血球輕中度增加（淋巴球為主），但伴隨「葡萄糖降低」與蛋白質上升。\n\n【核心考點】\n腦膜炎腦脊髓液（CSF）分析鑑別：(1) 病毒性：淋巴球為主，糖值正常；(2) 細菌性：中性球為主，蛋白質極高，糖值極低；(3) 結核性/真菌性：淋巴球為主，蛋白質高，糖值降低。",
+      "key_point": "病毒性腦膜炎的 CSF 呈現淋巴球為主、蛋白質輕度偏高、葡萄糖濃度正常的特徵，可與細菌性或結核性腦膜炎的低糖特徵鑑別。",
+      "flashcard_front": "腦脊髓液 (CSF) 判讀 / 病毒性 vs. 細菌性 vs. 結核性腦膜炎 / 糖值與白血球分類鑑別點",
+      "flashcard_back": "病毒性：淋巴球為主、糖值正常。細菌性：中性球（PMN）為主、糖值極低、蛋白極高。結核性/真菌性：淋巴球為主、糖值降低、蛋白高。",
+      "flashcard_summary": "病毒性腦膜炎CSF -> 淋巴球為主 + 糖正常 + 蛋白微升；細菌性CSF -> 中性球為主 + 糖極低 + 蛋白極高；結核/隱球菌CSF -> 淋巴球為主 + 糖降低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n陳先生為長期思覺失調症（schizophrenia）患者。經過規則藥物治療後，幻聽與被害妄想等急性期活躍症狀已平息，但仍持續存在社交退縮、言語貧乏、意志減退及個人衛生習慣差等表現。\n\n【選項詳解】\n- A. 思覺失調症的正性症狀：正性症狀是指正常功能之外「多出來」的異常精神表現，如幻覺、妄想、混亂的言語或行為。陳先生目前的幻聽與妄想已無，故非正性症狀。\n- B. 思覺失調症的負性症狀：正確。負性症狀（negative symptoms）是指患者正常精神功能的「缺失或減退」。典型表現包括五A特徵：社交退縮（asociality）、意志減退/被動（avolition）、言語貧乏（alogia）、情感淡漠（affective flattening）及無快感症（anhedonia）。少話、不愛洗澡、衛生差與被動退縮即為負性症狀之典型表現。\n- C. 思覺失調症的認知障礙：認知障礙主要指注意力不集中、工作記憶受損、執行功能下降等，與社交退縮和生活自理被動退縮的負性動機表現不同。\n- D. 思覺失調症合併焦慮症狀：焦慮主要表現為過度擔憂、心悸、恐慌或迴避特定焦慮情境，與本題慢性意志消沉和社交退縮的負性表現不符。\n\n【核心考點】\n思覺失調症（Schizophrenia）正負性症狀鑑別：(1) 正性症狀：幻覺、妄想、思考邏輯混亂；(2) 負性症狀：社交退縮、言語貧乏、被動意欲低下、衛生習慣差。",
+      "key_point": "思覺失調症的負性症狀包括社交退縮、言語貧乏、意志減退與自我照顧能力差（如不洗澡），常在正性症狀控制後持續存在。",
+      "flashcard_front": "思覺失調症 (schizophrenia) / 負性症狀 (negative symptoms) 典型臨床表現 (5A) / 與正性症狀鑑別",
+      "flashcard_back": "負性症狀代表正常精神功能喪失，表現為社交退縮、言語貧乏、意志減退（如不洗澡/被動）。正性症狀為幻覺、妄想等急性精神病表現。",
+      "flashcard_summary": "思覺失調症負性症狀(5A) -> 社交退縮(asociality)、意志減退(avolition)、言語貧乏(alogia)、情感冷漠、無快感症。少話、不洗澡、被動為其特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考精神科藥物的副作用與藥物交互作用。包含情緒穩定劑（Lithium, Valproic acid, Lamotrigine）及抗精神病藥物（Clozapine）的臨床藥理學。\n\n【選項詳解】\n- A. 長期使用鋰鹽(lithium)可能有甲狀腺及心臟之副作用：適當。鋰鹽長期使用常見的副作用包括甲狀腺功能低下與腎毒性；亦可能引起心電圖異常（如T波平坦或倒置、竇房結功能障礙）。\n- B.  抗精神病藥物clozapine與抗憂鬱藥物fluvoxamine會有藥物交互作用：適當。Fluvoxamine 是強效的 CYP1A2 抑制劑，而 Clozapine 主要經由 CYP1A2 代謝。兩者併用會顯著提升 Clozapine 的血中濃度，大幅增加嚴重副作用（如癲癇、顆粒性白血球缺乏症）的風險。\n- C.  情緒穩定劑valproic acid和lamotrigine併用時,可能影響濃度增加過敏的機率：適當。Valproic acid 會抑制 Lamotrigine 的葡萄糖醛酸酸化代謝路徑，使 Lamotrigine 的清除率下降一半以上，血中濃度加倍，從而大幅增加發生嚴重、致命性皮膚過敏反應（如 Stevens-Johnson 症候群）的機率。\n- D. 抗精神病藥物作用在多巴胺(dopamine)接受器,會導致姿態性低血壓：最不適當（正確答案）。抗精神病藥物會導致姿態性低血壓，主要是因為阻斷了「α1-腎上腺素受體（α1-adrenergic receptor）」，導致周邊血管無法有效收縮，與多巴胺（D2）受體阻斷無關。多巴胺受體阻斷主要引起錐體外症候群（EPS）及泌乳素升高。\n\n【核心考點】\n精神科藥物機制與副作用：(1) 姿態性低血壓是由抗精神病藥阻斷 α1-受體引起，非多巴胺 D2 受體；(2) Valproate 會提升 Lamotrigine 濃度而抗張 SJS 機率；(3) Fluvoxamine 抑制 CYP1A2 會升高 Clozapine 濃度；(4) 鋰鹽副作用包含甲狀腺低下。",
+      "key_point": "抗精神病藥物引起的姿態性低血壓是由於阻斷了 α1-腎上腺素受體，而非阻斷多巴胺受體；Valproic acid 與 Lamotrigine 併用會使其濃度加倍，增加 SJS 致命皮疹風險。",
+      "flashcard_front": "抗精神病藥之副作用機制 (姿態性低血壓 vs. EPS) / 情緒穩定劑併用交互作用 (Valproate & Lamotrigine)",
+      "flashcard_back": "姿態性低血壓起因於阻斷 α1-腎上腺素受體。Valproic acid 會抑制 Lamotrigine 的代謝，使其血中濃度加倍，極易誘發 Stevens-Johnson 症候群。",
+      "flashcard_summary": "姿態性低血壓機制 -> 抗精神病藥阻斷α1-受體(而非多巴胺受體)；Valproate+Lamotrigine -> 抑制代謝使Lamotrigine濃度加倍，SJS風險大增",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題問 aspirin 作用中哪一項敘述錯誤。Aspirin 是非選擇性 NSAID，會不可逆乙醯化 cyclooxygenase（COX），使 prostaglandin 與 thromboxane A2 合成下降；它不是以 methylation 調控酵素。\n\n【選項詳解】\n- A. 正確敘述。Prostaglandin synthase 常指 cyclooxygenase（COX）活性，aspirin 會抑制 COX-1 與 COX-2，使 arachidonic acid 轉成 prostaglandin H2 的步驟受阻，進而降低發炎介質生成。\n- B. 錯誤敘述，因此為應選項。Aspirin 將乙醯基轉移到 COX 活性通道中的 serine residue，屬於 acetylation；methylation 是轉移甲基，並非 aspirin 抑制 COX 的化學反應。\n- C. 正確敘述。血小板主要靠 COX-1 產生 thromboxane A2；aspirin 不可逆抑制血小板 COX-1，而血小板沒有細胞核、難以重新合成 COX，因此 TXA2 下降並產生抗血小板效果。\n- D. 正確敘述。Aspirin 屬於傳統非選擇性 NSAID，會抑制 COX-1 與 COX-2，不像 celecoxib 這類藥物偏向選擇性抑制 COX-2。\n\n【核心考點】\nAspirin 的特色是不可逆 acetylation COX，而不是 methylation。其臨床抗血小板作用來自血小板 TXA2 下降，且血小板無法快速補回被抑制的 COX-1。",
+      "key_point": "Aspirin 以乙醯化不可逆抑制 COX-1/COX-2，降低 prostaglandin 與 platelet TXA2；不是 methylation。",
+      "flashcard_front": "Aspirin 抑制 COX 的化學修飾類型與抗血小板效果",
+      "flashcard_back": "Aspirin 會 acetylation COX 活性中心 serine，使 COX 不可逆失活；血小板 TXA2 下降，因此抑制血小板凝集。",
+      "flashcard_summary": "Aspirin -> acetylation COX；降低 prostaglandin 與 TXA2，不是 methylation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n整合性膜蛋白（integral membrane protein）的穿膜區多為疏水性 alpha helix，通常在粗糙內質網進行共轉譯插入。最直接幫助新生多肽進入並側向嵌入脂雙層的構造是 translocon（Sec61 complex）；本題官方更正為一律給分，教學上仍以 translocon 作為主要機制理解。\n\n【選項詳解】\n- A. 就機制而言最直接。Translocon 是內質網膜上的蛋白通道，能讓新生多肽通過膜，並透過 lateral gate 將疏水性 transmembrane segment 釋放到脂雙層中，形成 integral membrane protein。\n- B. Signal peptidase 的主要工作是切除可切割的 ER signal peptide。它參與蛋白質加工，但不負責把疏水穿膜區側向放入膜內，因此不是膜嵌入的主要執行構造。\n- C. Protein lipidation 會在蛋白質上加上脂質基團，例如 myristoylation、palmitoylation 或 prenylation，常用來協助某些蛋白貼附膜面；這和具有穿膜區的 integral membrane protein 插入脂雙層不同。\n- D. Protein glycosylation 是在 ER 或 Golgi 加上醣鏈，常影響蛋白摺疊、穩定性與定位辨識；醣鏈修飾不提供穿膜 alpha helix 嵌入脂雙層的通道。\n\n【核心考點】\n穿膜型 integral membrane protein 通常靠 ER translocon 將疏水穿膜區側向釋放進脂雙層。Signal peptide cleavage、lipidation、glycosylation 都可影響蛋白成熟或定位，但不等同於穿膜區插入機制。",
+      "key_point": "Integral membrane protein 的疏水穿膜區主要經 ER translocon 側向進入脂雙層；本題官方更正一律給分。",
+      "flashcard_front": "Integral membrane protein 嵌入 ER membrane 的主要構造",
+      "flashcard_back": "Translocon（Sec61 complex）協助新生多肽通過 ER membrane，並以 lateral gate 將疏水穿膜區釋放到脂雙層。",
+      "flashcard_summary": "Integral membrane protein -> translocon lateral gate inserts hydrophobic transmembrane segment",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": [
+        "官方更正為第 92 題一律給分；update 只重寫解析，未更動答案狀態。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\nβ-oxidation 遇到不飽和脂肪酸時，雙鍵位置會影響是否需要額外酵素。單不飽和脂肪酸通常只需 enoyl-CoA isomerase；多元不飽和脂肪酸會形成 2,4-dienoyl-CoA，必須由 2,4-dienoyl-CoA reductase 處理。\n\n【選項詳解】\n- A. Laurate 是 12:0 飽和脂肪酸，β-oxidation 可依照一般四步驟反覆進行，不會產生需要 reductase 處理的共軛雙鍵中間物。\n- B. Palmitoleate 是 16:1 單不飽和脂肪酸。其 cis double bond 在氧化過程中主要需要 enoyl-CoA isomerase 調整為可被水合酶使用的 trans-Δ2-enoyl-CoA，不需要 2,4-dienoyl-CoA reductase。\n- C. Oleate 是 18:1 單不飽和脂肪酸，處理邏輯與 palmitoleate 相似，靠 isomerase 轉換雙鍵位置與構型即可接回 β-oxidation。\n- D. Linoleate 是 18:2 多元不飽和脂肪酸。β-oxidation 進行到特定階段會形成 2,4-dienoyl-CoA，該中間物不能直接進入一般水合步驟，需 2,4-dienoyl-CoA reductase 使用 NADPH 還原後，再由 isomerase 調整以繼續分解。\n\n【核心考點】\n單不飽和脂肪酸 β-oxidation 通常記 enoyl-CoA isomerase；多元不飽和脂肪酸因會形成 2,4-dienoyl-CoA，需額外的 2,4-dienoyl-CoA reductase 與 NADPH。",
+      "key_point": "多元不飽和脂肪酸如 linoleate 在 β-oxidation 中需要 2,4-dienoyl-CoA reductase；單不飽和脂肪酸通常只需 isomerase。",
+      "flashcard_front": "β-oxidation：哪類脂肪酸需要 2,4-dienoyl-CoA reductase？",
+      "flashcard_back": "多元不飽和脂肪酸，例如 linoleate，會形成 2,4-dienoyl-CoA，需要 reductase 消耗 NADPH 後才能繼續 β-oxidation。",
+      "flashcard_summary": "PUFA β-oxidation -> 2,4-dienoyl-CoA reductase；linoleate 是代表",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題問 homocysteine 相關敘述何者錯誤。Homocysteine 來自 methionine 代謝，可經 remethylation 回到 methionine，或經 transsulfuration 轉成 cysteine；它不是由 arginine 轉換而來。\n\n【選項詳解】\n- A. 正確敘述。高 homocysteine 與血管內皮傷害、氧化壓力、血栓傾向及動脈粥狀硬化風險相關，因此常被列為心血管疾病危險因子。\n- B. 錯誤敘述，因此為應選項。Homocysteine 是 methionine 去甲基化後經 S-adenosylmethionine（SAM）與 S-adenosylhomocysteine（SAH）路徑產生，不是 arginine 代謝產物。\n- C. 正確敘述。Cystathionine-β-synthase（CBS）將 homocysteine 與 serine 縮合進入 transsulfuration pathway；CBS 缺乏會讓 homocysteine 蓄積，造成 homocystinuria，並可有晶狀體脫位、骨骼異常與血栓風險。\n- D. 正確敘述。Homocysteine remethylation 成 methionine 需要 methionine synthase、methylcobalamin（vitamin B12）與 N5-methyl-tetrahydrofolate 提供甲基；因此 folate 與 B12 都與代謝密切相關。\n\n【核心考點】\nHomocysteine 的來源是 methionine，不是 arginine。CBS 與 vitamin B6 參與 transsulfuration；folate 與 vitamin B12 參與 remethylation，缺陷時會造成 homocysteine 上升。",
+      "key_point": "Homocysteine 由 methionine 代謝產生；CBS 缺乏會造成 homocystinuria，folate/B12 參與再甲基化。",
+      "flashcard_front": "Homocysteine 的來源與兩條主要代謝去路",
+      "flashcard_back": "來源是 methionine。可經 folate/B12 依賴的 remethylation 回到 methionine，或經 CBS/B6 依賴的 transsulfuration 轉往 cysteine。",
+      "flashcard_summary": "Homocysteine -> from methionine；CBS defect causes homocystinuria；folate/B12 support remethylation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n動物細胞合成 heme 的第一步在粒線體進行，由 glycine 與 succinyl-CoA 在 ALA synthase 催化下生成 δ-aminolevulinic acid（ALA）。因此選項中作為主要前驅物的胺基酸是 glycine。\n\n【選項詳解】\n- A. Tryptophan 不是 heme 合成起始原料。Tryptophan 主要與 niacin、serotonin、melatonin 等路徑相關，並不與 succinyl-CoA 縮合生成 ALA。\n- B. Tyrosine 不是 heme 合成前驅物。Tyrosine 常連到 catecholamine、thyroid hormone、melanin 等代謝，與 porphyrin ring 的起始步驟不同。\n- C. Histidine 不參與 heme 合成第一步。Histidine 常與 histamine、carnosine 等代謝相關，並非 ALA synthase 的胺基酸受質。\n- D. Glycine 是正確原料。Glycine 與 TCA cycle 來的 succinyl-CoA 經 ALA synthase（需 pyridoxal phosphate, PLP）縮合生成 ALA，接著進入 porphyrin 與 heme 生合成路徑。\n\n【核心考點】\nHeme 生合成從 glycine + succinyl-CoA 生成 ALA 開始，催化酵素是 ALA synthase，輔因子為 PLP，且此步驟受 heme 負回饋調控。",
+      "key_point": "Heme 合成主要前驅物是 glycine 與 succinyl-CoA；第一步由 ALA synthase 催化並需要 PLP。",
+      "flashcard_front": "Heme 生合成第一步的主要前驅物與酵素",
+      "flashcard_back": "Glycine + succinyl-CoA 在粒線體由 ALA synthase 催化，生成 δ-aminolevulinic acid（ALA）；ALA synthase 需要 PLP。",
+      "flashcard_summary": "Heme synthesis -> glycine + succinyl-CoA --ALA synthase/PLP--> ALA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\nComplex V（ATP synthase）的 F0 c-ring 每轉一圈，需要通過的 H+ 數等於 c subunit 數。本題 c-ring 有 12 個 c subunit，而 F1 有 6 組 αβ dimer；若每圈合成 6 個 ATP，則每個 ATP 需要 12/6 = 2 個 H+ 通過內膜。\n\n【選項詳解】\n- A. 2 正確。12 個 c subunit 代表轉子完成 360 度需 12 個 H+；F1 有 6 組 αβ dimer，題目設定下每圈對應 6 個 ATP，因此每 ATP 的 H+ 數為 2。\n- B. 3 錯誤。3 個 H+ per ATP 會對應 12 個 H+ 只生成 4 個 ATP，但題目明確給出 F1 αβ dimer 共有 6 組，與此比例不合。\n- C. 4 錯誤。4 個 H+ per ATP 代表 12 個 H+ 只能生成 3 個 ATP，低估了題目中 6 組催化 αβ dimer 所對應的產量。\n- D. 6 錯誤。6 個 H+ per ATP 代表 12 個 H+ 只生成 2 個 ATP，無法反映本題 F1 端共有 6 組 αβ dimer 的設定。\n\n【核心考點】\nATP synthase 的計量題要把 F0 c-ring 的 H+ 數除以 F1 催化單位數。本題公式為 H+/ATP = 12 個 c subunit / 6 組 αβ dimer = 2。",
+      "key_point": "Complex V 計量：每 ATP 所需 H+ = F0 c-ring c subunit 數 / F1 αβ dimer 組數；本題為 12/6 = 2。",
+      "flashcard_front": "ATP synthase：c-ring 12 個 c subunit、F1 有 6 組 αβ dimer 時，每 ATP 需幾個 H+？",
+      "flashcard_back": "每轉一圈需 12 個 H+，並由 6 組 αβ dimer 對應 6 個 ATP；所以每 ATP 需 2 個 H+。",
+      "flashcard_summary": "ATP synthase stoichiometry -> H+/ATP = c subunits / alpha-beta dimers = 12/6 = 2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": [
+        "一般教科書常以 F1 三個催化 β 位點計算；本題題幹明示 αβ dimer 共有 6 組，解析依題目設定保留官方答案。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\nCaspase 名稱來自 cysteine-aspartic protease：活性中心使用 cysteine 作為親核基團，受質辨識則偏好在 aspartic acid 殘基後方切斷肽鍵。題目問切割位點位於哪個胺基酸的 C 端，因此答案概念是 Asp 的 C-terminal side。\n\n【選項詳解】\n- A. Serine 錯誤。Serine protease 是另一大類蛋白酶，常以活性中心 serine 進行催化；caspase 的受質切割專一性不是 serine 後方。\n- B. Cysteine 錯誤。Caspase 雖然是 cysteine protease，表示其催化活性中心含 cysteine，但受質被切的位置不是 cysteine 的 C 端。\n- C. Aspartic acid 正確。Caspase 會辨識含 Asp 的短序列，並在 Asp 殘基 C 端切斷 peptide bond，例如 apoptosis 執行路徑中常見的 DEVD motif。\n- D. Tyrosine 錯誤。Tyrosine phosphorylation 常見於訊息傳遞，但 tyrosine 並非 caspase 的代表性切割定位殘基。\n\n【核心考點】\nCaspase 的兩個字根要分清楚：cysteine 指催化活性中心，aspartic 指受質切割位點。考切割位置時，記 Asp 殘基的 C 端。",
+      "key_point": "Caspase 是 cysteine protease，但專一性在受質 aspartic acid 殘基的 C 端切割。",
+      "flashcard_front": "Caspase 的催化胺基酸與受質切割位置",
+      "flashcard_back": "活性中心用 cysteine 催化；受質切割發生在 aspartic acid（Asp）殘基的 C 端。",
+      "flashcard_summary": "Caspase -> catalytic cysteine, cleaves after aspartic acid",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\nTerminally differentiated cells 已離開持續分裂的細胞週期，通常停留於 G0 phase。G0 不是死亡狀態，而是非增殖狀態；細胞仍可維持專門功能與代謝活動。\n\n【選項詳解】\n- A. G0 正確。成熟神經元、骨骼肌細胞、心肌細胞等終末分化細胞通常退出 cell cycle，停止進入 DNA replication 與 mitosis，因此停在 G0。\n- B. G1 錯誤。G1 是細胞準備進入 DNA 合成前的階段，仍屬於可推進到 S phase 的週期內狀態；終末分化細胞通常已不再以 G1-S 轉換進行增殖。\n- C. G2 錯誤。G2 是 DNA 已完成複製後、準備進入 mitosis 的階段；終末分化細胞不會先完成 DNA replication 再長期停在此處。\n- D. S 錯誤。S phase 是 DNA synthesis 期；terminally differentiated cells 通常不進行基因組複製，因此不會以 S phase 作為平常停留狀態。\n\n【核心考點】\nG0 代表退出增殖週期的非分裂狀態。終末分化細胞可維持功能與代謝，但通常不進入 S phase 複製 DNA，也不準備進入 mitosis。",
+      "key_point": "Terminally differentiated cells 通常退出細胞週期並停在 G0，而不是 G1、S 或 G2。",
+      "flashcard_front": "Terminally differentiated cells 通常停在哪個 cell cycle phase？",
+      "flashcard_back": "停在 G0 phase；這表示退出增殖週期，但細胞仍可維持專門功能與代謝。",
+      "flashcard_summary": "Terminal differentiation -> G0 arrest, no routine DNA synthesis or mitosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\nRTK（receptor tyrosine kinase）是具有胞外配體結合區、單次穿膜區與胞內 tyrosine kinase domain 的膜受體。EGFR、FGFR、insulin receptor 都屬於 RTK；PI3K 是下游訊息傳遞酵素，不是受體本身。\n\n【選項詳解】\n- A. EGFR 屬於 RTK。EGF 結合後促進受體二聚化或構形改變，胞內 tyrosine kinase domain 進行 autophosphorylation，啟動 RAS-MAPK、PI3K-Akt 等下游路徑。\n- B. FGFR 屬於 RTK。FGF 與 heparan sulfate 協助受體活化後，FGFR 的 tyrosine kinase activity 會磷酸化胞內 tyrosine residues，推動細胞增生、分化與血管新生相關訊號。\n- C. PI3K 不屬於 RTK，因此為應選項。PI3K 是胞內 lipid kinase，常被活化的 RTK 透過 adaptor 或 phosphorylated docking site 招募到膜邊，將 PIP2 轉成 PIP3 以活化 Akt pathway。\n- D. INSR 屬於 RTK。Insulin receptor 具有內生性 tyrosine kinase activity，胰島素結合後會磷酸化 IRS proteins，進一步連接 PI3K-Akt 與代謝調控。\n\n【核心考點】\nRTK 是膜受體，代表包括 EGFR、FGFR、INSR。PI3K 是 RTK 下游的胞內 lipid kinase，負責產生 PIP3 訊號，不是 receptor tyrosine kinase 家族成員。",
+      "key_point": "EGFR、FGFR、INSR 是 RTK；PI3K 是 RTK 下游胞內 lipid kinase，不是受體。",
+      "flashcard_front": "RTK 家族成員與 PI3K 的差別",
+      "flashcard_back": "EGFR、FGFR、INSR 是 receptor tyrosine kinases；PI3K 是下游 lipid kinase，將 PIP2 轉成 PIP3 以活化 Akt pathway。",
+      "flashcard_summary": "RTK members -> EGFR/FGFR/INSR；PI3K is downstream lipid kinase",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\nSanger sequencing 又稱 dideoxy chain-termination method。其關鍵分子是 2',3'-dideoxyribonucleotides（ddNTPs），因為缺少 3'-OH，一旦被 DNA polymerase 接上，就無法再形成下一個 phosphodiester bond，DNA 鏈會終止延伸。\n\n【選項詳解】\n- A. 1',2'-dideoxyribonucleotides 錯誤。核糖 1' 碳連接含氮鹼基，這種標示不是 Sanger 法常用的鏈終止 ddNTP 結構；真正影響 DNA 鏈延伸的是 3'-OH 是否存在。\n- B. 2',3'-dideoxyribonucleotides 正確。DNA 本來已在 2' 缺氧，而 ddNTP 另外缺少 3'-OH；DNA polymerase 加入 ddNTP 後，下一個 nucleotide 沒有可反應的 3'-OH 可接上，所以產生不同長度的終止片段。\n- C. 2',4'-dideoxyribonucleotides 錯誤。Sanger 法不靠移除 4' 位置的氧來終止鏈；4' 碳是糖環結構的一部分，並非形成下一個 3',5'-phosphodiester bond 的反應端。\n- D. 2',5'-dideoxyribonucleotides 錯誤。5' 端連接 phosphate，DNA 延伸時關鍵受體是上一個核苷酸的 3'-OH；移除 5' 位置的氧不是 Sanger 鏈終止的標準原理。\n\n【核心考點】\nSanger sequencing 的 ddNTP 必須缺少 3'-OH。2',3'-dideoxy 的重點是 3' 端不能再接下一個核苷酸，因而造成 chain termination。",
+      "key_point": "Sanger sequencing 使用 2',3'-dideoxyribonucleotides；缺少 3'-OH 會終止 DNA 鏈延伸。",
+      "flashcard_front": "Sanger sequencing 的關鍵鏈終止分子",
+      "flashcard_back": "2',3'-dideoxyribonucleotides（ddNTPs）。ddNTP 缺少 3'-OH，被接入 DNA 後無法再形成下一個 phosphodiester bond。",
+      "flashcard_summary": "Sanger sequencing -> 2',3'-ddNTP lacks 3'-OH and terminates chain elongation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:15+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

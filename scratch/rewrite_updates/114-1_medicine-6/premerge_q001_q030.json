@@ -1,0 +1,35 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-6.json",
+  "dataset_id": "114-1_medicine-6",
+  "merge": false,
+  "update_file_count": 3,
+  "question_count": 30,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 9,
+      "notes": [
+        "來源資料顯示第9題官方更正 B 或 C 均給分；合併前建議人工確認題目原意是診斷門檻或分級門檻。"
+      ]
+    },
+    {
+      "question_number": 25,
+      "notes": [
+        "原始 JSON 題幹提到胸部 X 光片但未包含影像，已依官方答案與典型右主支氣管異物機轉撰寫，建議人工對照原圖確認。"
+      ]
+    },
+    {
+      "question_number": 26,
+      "notes": [
+        "原始資料標示第26題一律給分，且選項 A 的中英文名詞疑似與標準 lingual nerve 不一致，建議人工確認原始試題與官方更正。"
+      ]
+    },
+    {
+      "question_number": 27,
+      "notes": [
+        "原始資料標示第27題 B 或 C 均給分；解釋以常用 50% 門檻為主，並保留官方接受 75% 的更正情境。"
+      ]
+    }
+  ],
+  "errors": []
+}

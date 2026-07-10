@@ -1,0 +1,35 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "merge": false,
+  "update_file_count": 10,
+  "question_count": 100,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 17,
+      "notes": [
+        "第 17 題 C 選項若採廣義假肋骨包含第 11-12 對，則「有肋橫突關節附著點」不是所有假肋皆成立；官方答案應是以第 8-10 對狹義假肋為判斷核心，建議人工複核題目用語。"
+      ]
+    },
+    {
+      "question_number": 28,
+      "notes": [
+        "來源選項 C 顯示為「屈長肌」，疑似「屈拇長肌」字元異常；本 update 僅註記，不修改來源選項或答案。"
+      ]
+    },
+    {
+      "question_number": 36,
+      "notes": [
+        "B 選項「角膜間葉衍生自中胚層」在不同教材可能有神經嵴與中胚層表述差異；官方答案保留 A，建議人工複核該選項措辭。"
+      ]
+    },
+    {
+      "question_number": 66,
+      "notes": [
+        "來源資料標示第66題官方更正為 B、D 或 BD 均給分；合併時請確認前端呈現多重給分。"
+      ]
+    }
+  ],
+  "errors": []
+}

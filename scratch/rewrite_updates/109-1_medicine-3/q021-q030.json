@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題考 Helicobacter pylori 除菌治療的適應症、輔助用藥與治療後確認時機。早期胃癌即使已切除病灶，仍應根除 H. pylori，因為可降低異時性胃癌（metachronous gastric cancer）的風險。\n\n【選項詳解】\n- A. 錯誤。消化性潰瘍若與 H. pylori 感染有關，單用 proton pump inhibitor 讓潰瘍癒合並不等於感染消失；未除菌會明顯增加潰瘍復發與再出血風險。\n- B. 正確。早期胃癌接受內視鏡或手術切除後，殘餘胃黏膜仍可能受 H. pylori 造成慢性發炎與癌化刺激；除菌可降低之後發生 metachronous 胃癌的機率。\n- C. 錯誤。H. pylori 除菌療法常需要 PPI，因為提高胃內 pH 可增加部分抗生素穩定性與活性，並提升除菌成功率；並非給不給 PPI 都沒有影響。\n- D. 錯誤。尿素呼氣試驗（urea breath test）太早做可能受近期抗生素或 PPI 影響而偽陰性；通常需在治療結束至少 4 週後，且停用 PPI 一段時間後再確認。\n\n【核心考點】\nH. pylori 除菌不只治療潰瘍，也用於降低早期胃癌切除後異時性胃癌風險。除菌療程需合併抑酸治療，治療成功確認不能在療程剛結束後立刻做。",
+      "key_point": "早期胃癌切除後仍需根除 H. pylori；PPI 可提升除菌效果，urea breath test 應延後至治療結束後至少 4 週。",
+      "flashcard_front": "H. pylori：早期胃癌切除後、PPI、urea breath test 時機",
+      "flashcard_back": "早期胃癌切除後仍建議除菌以降低 metachronous gastric cancer；除菌療程需 PPI 輔助，治療後確認通常等至少 4 週。",
+      "flashcard_summary": "H. pylori -> 早期胃癌切除後仍除菌；PPI 有助除菌；urea breath test 不應 7 天內做。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題問 CKD 病人合併貧血時哪個治療最不適當。病人 Hb 11.6 g/dL，尚未低到通常需要啟動 erythropoiesis-stimulating agent（ESA）的程度，且同時有 B12 與葉酸缺乏，應先矯正可逆原因。\n\n【選項詳解】\n- A. 最不適當。ESA 用於 CKD 貧血時通常在 Hb 明顯偏低、且已評估並處理鐵、B12、葉酸等缺乏後才考慮；Hb 11.6 g/dL 時過早使用會增加高血壓、血栓與心血管事件風險。\n- B. 適當。Ferritin 105 ng/mL 在 CKD 貧血評估中仍需搭配 transferrin saturation 判讀；若鐵利用不足或即將治療貧血，補鐵可改善造血反應，且比直接啟動 ESA 更合理。\n- C. 適當。Vitamin B12 150 pg/mL 偏低，會造成巨球性或混合型貧血，也會影響 ESA 反應；補充 B12 是處理貧血原因的一部分。\n- D. 適當。Folate 1.2 ng/mL 明顯偏低，會造成 DNA 合成障礙與貧血；補充葉酸可矯正可逆的造血原料不足。\n\n【核心考點】\nCKD 貧血不能看到腎功能差就直接打 ESA。啟動 ESA 前要先確認 Hb 程度並矯正鐵、B12、葉酸缺乏，避免療效差與心血管風險。",
+      "key_point": "CKD 貧血使用 ESA 前，應先矯正鐵、B12、葉酸缺乏；Hb 11.6 g/dL 時通常不宜急著啟動 ESA。",
+      "flashcard_front": "CKD 貧血：何時不宜先用 ESA？",
+      "flashcard_back": "Hb 尚未明顯低下且有 B12、葉酸或鐵相關缺乏時，先補足造血原料；ESA 過早使用會增加心血管與血栓風險。",
+      "flashcard_summary": "CKD anemia -> 先補鐵/B12/葉酸並評估 Hb；Hb 11.6 g/dL 不宜直接 ESA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題比較末期腎臟病不同腎臟替代療法的 5 年存活率。整體而言，腎臟移植的長期存活與生活品質優於長期血液透析，即使免疫或血型條件不完美，移植仍常優於透析。\n\n【選項詳解】\n- A. 較佳。HLA 相符腎臟移植排斥風險較低，移植腎存活與病人存活通常是選項中較好的情境。\n- B. 較佳。HLA 不相符會提高免疫排斥與免疫抑制治療負擔，但在適當配對與免疫抑制下，病人長期存活仍通常優於留在血液透析。\n- C. 較佳。ABO 血型不相符移植需要脫敏與更嚴密免疫控制，風險高於相容移植，但現代移植策略下仍可提供比長期透析更好的整體預後。\n- D. 最差。血液透析可維持生命，但無法完全取代腎臟內分泌與代謝功能，且心血管死亡、感染與透析相關併發症負擔較高，因此 5 年存活率通常低於腎臟移植。\n\n【核心考點】\nESRD 的長期預後比較中，腎臟移植通常優於長期血液透析。HLA 或 ABO 不相符會增加移植難度，但不代表比透析存活更差。",
+      "key_point": "末期腎臟病的 5 年存活率通常為腎臟移植優於血液透析，即使是不相符移植也常勝過長期透析。",
+      "flashcard_front": "ESRD：腎臟移植與血液透析的 5 年存活率比較",
+      "flashcard_back": "整體上腎臟移植的長期存活優於血液透析；HLA/ABO 不相符增加風險，但血液透析通常仍是預後較差的選項。",
+      "flashcard_summary": "Renal replacement therapy -> kidney transplant survival generally exceeds long-term hemodialysis.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n腹膜透析病人出現腹痛、透析液混濁與透析液白血球上升，符合腹膜炎；培養長出 Candida 代表黴菌性腹膜炎。這類感染很難在保留導管下根除，需拔除腹膜透析導管並給予抗黴菌治療。\n\n【選項詳解】\n- A. 不足。口服抗黴菌藥物可作為部分 Candida 感染的治療方式，但腹膜透析相關黴菌性腹膜炎有導管生物膜與持續感染源，單靠口服藥而保留導管容易治療失敗。\n- B. 不足。靜脈抗黴菌藥物可治療全身或嚴重黴菌感染，但若腹膜透析導管仍留在體內，感染源與生物膜仍存在，復發與腹膜損傷風險高。\n- C. 不足。腹腔灌注抗黴菌藥物能提高局部藥物濃度，但 Candida 腹膜炎的處置重點仍是移除受污染導管，不能只靠腹腔給藥。\n- D. 正確。確診腹膜透析相關黴菌性腹膜炎時，應及早拔除腹膜透析導管，搭配抗黴菌治療，並暫時改用血液透析以控制感染並保護腹膜功能。\n\n【核心考點】\n腹膜透析相關 Candida 腹膜炎不是單純換抗生素路徑的問題。黴菌性腹膜炎需把受污染的 PD catheter 拔除，否則導管生物膜會讓感染難以清除。",
+      "key_point": "腹膜透析相關 Candida 腹膜炎需拔除 PD catheter，並合併抗黴菌治療與暫時血液透析。",
+      "flashcard_front": "PD peritonitis 培養 Candida：下一步？",
+      "flashcard_back": "Candida peritonitis 應及早移除腹膜透析導管；單靠口服、靜脈或腹腔抗黴菌藥物而保留導管容易失敗。",
+      "flashcard_summary": "Fungal PD peritonitis -> remove catheter plus antifungal therapy.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題問 postobstructive diuresis 的錯誤敘述。它常發生於雙側尿路阻塞或單一功能腎阻塞解除後，因先前滯留的水分、鈉與尿素被排出而大量利尿；單側阻塞且對側腎正常時較不會造成典型大量利尿。\n\n【選項詳解】\n- A. 錯誤。Postobstructive diuresis 典型發生在雙側阻塞或 solitary kidney 的阻塞解除後；若只是單側尿路阻塞且另一側腎功能正常，通常不會累積足以造成典型大量利尿的全身性水鹽與尿素負荷。\n- B. 正確。阻塞解除後尿液常呈低張，且可能帶走大量鈉與水分；若自由水流失相對較多或補液不當，可出現高血鈉與低血容量。\n- C. 正確。先前滯留的尿素與其他溶質在解除阻塞後被排出，會造成滲透壓利尿（osmotic diuresis）；腎小管濃縮能力短暫受損也會加重多尿。\n- D. 正確。補液通常需依尿量、血壓、電解質與容量狀態調整，避免把每日尿量 100% 以上全補回去，否則可能延長利尿並造成醫源性容量過多。\n\n【核心考點】\nPostobstructive diuresis 的高風險情境是雙側阻塞或單一功能腎阻塞解除後。治療重點是密切監測尿量、容量與電解質，補液不可機械式完全補回全部尿量。",
+      "key_point": "Postobstructive diuresis 多見於雙側或 solitary kidney 阻塞解除後；補液需避免超過尿量造成容量過多。",
+      "flashcard_front": "Postobstructive diuresis：發生情境與補液原則",
+      "flashcard_back": "典型發生於雙側或單一功能腎阻塞解除後；監測尿量與電解質，補液通常不應超過流失尿量。",
+      "flashcard_summary": "Postobstructive diuresis -> bilateral/solitary kidney obstruction relief; monitor volume, sodium, and urine output.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n年輕女性有逐漸惡化的腎功能、正常尿液檢查、無明顯腸胃道出血，且貧血程度相對突出，較支持慢性腎小管間質性病變。若是腎絲球或血栓性微血管病變，通常會看到血尿、蛋白尿、血小板或溶血證據。\n\n【選項詳解】\n- A. 較不像。Rapidly progressive glomerulonephritis 常有急速惡化腎功能、血尿、紅血球圓柱或蛋白尿等 active urinary sediment；本題尿液檢查無異常，不支持主要為腎絲球炎。\n- B. 較不像。Thrombotic microangiopathy 常出現微血管溶血性貧血、血小板低下、LDH 上升或破碎紅血球，並可能合併高血壓急症；題幹明示白血球與血小板正常，未提供溶血線索。\n- C. 正確。Chronic tubulointerstitial disorders 可造成緩慢腎功能惡化、尿液沉渣相對清淡、濃縮或小管功能異常，並可出現與腎功能不成比例的貧血；本題的 bland urine 與慢性進展較吻合。\n- D. 較不像。Hypertensive nephrosclerosis 多見於較長期高血壓病史，尿液可有輕度蛋白尿；28 歲女性僅血壓 140/90 mmHg，且早已有貧血與腎功能惡化，不能單用輕度血壓升高解釋。\n\n【核心考點】\n腎功能惡化時，尿液沉渣很重要。Bland urine 加上慢性進展要想到 tubulointerstitial disease；active sediment 偏腎絲球炎，血小板低與溶血證據偏 TMA。",
+      "key_point": "慢性腎功能惡化合併正常尿液沉渣時，需優先考慮慢性腎小管間質性病變，而非 RPGN 或 TMA。",
+      "flashcard_front": "年輕女性 CKD 惡化 + bland urine + 貧血：最可能病變？",
+      "flashcard_back": "Bland urine 與慢性進展支持 chronic tubulointerstitial disorders；RPGN 多有 active sediment，TMA 多有血小板低或溶血。",
+      "flashcard_summary": "CKD progression with bland urine -> chronic tubulointerstitial disorder.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題測慢性腎臟病的降壓、止痛、蛋白尿與飲食治療。蛋白尿合併 CKD 時常需腎臟保護策略；第 4 期 CKD 可採低蛋白飲食來減少尿毒素生成與延緩惡化，但用藥要避免傷腎與避免 ACEi/ARB 雙重阻斷。\n\n【選項詳解】\n- A. 錯誤。CKD 合併高血壓，若有蛋白尿常優先考慮 ACE inhibitor 或 ARB，因可降低腎絲球內壓與蛋白尿；β-blocker 可用於特定心血管適應症，但不是蛋白尿 CKD 的腎臟保護首選。\n- B. 錯誤。NSAID 會抑制腎臟 prostaglandin，使入球小動脈收縮，可能造成急性腎損傷、鈉水滯留與高血壓惡化；CKD 病人止痛應避免常規使用 NSAID。\n- C. 錯誤。ACEi 與 ARB 都能減少蛋白尿，但兩者合併會增加高血鉀、低血壓與急性腎損傷風險；現行治療通常避免雙重 RAAS 阻斷。\n- D. 正確。第 4 期 CKD 且有蛋白尿者，可在營養監測下採低蛋白飲食，以減少含氮廢物與腎臟代謝負擔，並作為延緩腎功能惡化的保守治療之一。\n\n【核心考點】\nCKD 治療要抓三件事：蛋白尿用 ACEi 或 ARB 但不雙用，避免 NSAID 傷腎，晚期 CKD 可在營養監測下低蛋白飲食。",
+      "key_point": "CKD 合併蛋白尿可用 ACEi 或 ARB 保護腎臟，但避免雙重 RAAS 阻斷與 NSAID；第 4 期 CKD 可低蛋白飲食。",
+      "flashcard_front": "CKD 治療：ACEi/ARB、NSAID、低蛋白飲食",
+      "flashcard_back": "蛋白尿 CKD 可用 ACEi 或 ARB，不合併雙用；NSAID 可能傷腎；第 4 期 CKD 可採低蛋白飲食並監測營養。",
+      "flashcard_summary": "CKD care -> ACEi/ARB one agent for proteinuria, avoid NSAID and dual RAAS blockade, consider low-protein diet in stage 4.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問 CKD-mineral bone disorder 中 FGF-23 與 PTH 的關係，且題目要找錯誤敘述。CKD 時磷排泄下降會刺激 FGF-23 上升；FGF-23 抑制活性維生素 D 生成，並在生理上傾向抑制 PTH，而不是刺激 PTH 生成。\n\n【選項詳解】\n- A. 正確。腎絲球過濾率下降使磷排出能力下降，血磷負荷增加會促進骨細胞分泌 FGF-23；低鈣、低活性維生素 D 與高磷也會推動次發性副甲狀腺亢進。\n- B. 正確。FGF-23 會抑制腎臟 1-alpha hydroxylase，降低 calcitriol 生成；活性維生素 D 減少會降低腸道鈣吸收，促進低血鈣傾向。\n- C. 錯誤。FGF-23 對副甲狀腺的直接生理作用較偏抑制 PTH 分泌；CKD 中 PTH 上升主要來自高磷、低鈣、低 calcitriol 與副甲狀腺調控失衡，不是 FGF-23 直接刺激所致。\n- D. 正確。FGF-23 過高反映 CKD-MBD 與磷代謝負擔，並與左心室肥大、心血管事件與死亡率上升相關。\n\n【核心考點】\nFGF-23 在 CKD-MBD 中是因磷負荷上升而增加，主要作用是促進排磷並抑制活性維生素 D。PTH 上升的主因是高磷、低鈣與低 calcitriol，不是 FGF-23 直接刺激。",
+      "key_point": "FGF-23 會抑制活性維生素 D 生成，且不會直接刺激 PTH；CKD 次發性副甲狀腺亢進主要來自高磷、低鈣與低 calcitriol。",
+      "flashcard_front": "CKD-MBD：FGF-23 對 vitamin D 與 PTH 的作用",
+      "flashcard_back": "FGF-23 上升會抑制 calcitriol 生成並與死亡率相關；PTH 上升主要由高磷、低鈣、低 calcitriol 推動。",
+      "flashcard_summary": "CKD-MBD -> FGF-23 rises with phosphate retention, lowers calcitriol, and is not a direct PTH stimulator.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題問 osteoarthritis 的錯誤敘述。退化性關節炎以軟骨磨損、骨刺與關節腔變窄為主，並非全身性發炎性關節炎，因此 CRP 與 ESR 通常不會明顯升高。\n\n【選項詳解】\n- A. 正確。Osteoarthritis 是最常見的關節炎之一，盛行率隨年齡、肥胖、關節過度使用或外傷史上升。\n- B. 正確。OA 常侵犯承重關節如膝、髖，也常見於手部 DIP 關節；DIP 的 Heberden nodes 是常考表現。\n- C. 正確。X 光常見 joint space narrowing、osteophytes、subchondral sclerosis 或 subchondral cysts；骨侵蝕（bone erosion）較典型見於類風濕性關節炎等發炎性關節病。\n- D. 錯誤。OA 可有局部低度發炎，但不是全身性發炎疾病；CRP 與 ESR 通常正常，若明顯升高需考慮感染、晶體性關節炎或類風濕性關節炎等其他診斷。\n\n【核心考點】\nOA 與 RA 的考點差異在於 OA 是退化與局部機械性問題，X 光偏關節腔變窄與骨刺，發炎指標通常正常；RA 則是全身發炎性疾病且可有骨侵蝕。",
+      "key_point": "Osteoarthritis 通常不造成 CRP/ESR 明顯升高；X 光常見關節腔變窄與骨刺，bone erosion 較支持發炎性關節炎。",
+      "flashcard_front": "Osteoarthritis：常見關節、X 光、CRP/ESR",
+      "flashcard_back": "OA 好發 DIP、膝、髖；X 光見 joint space narrowing 與 osteophytes；CRP/ESR 通常正常。",
+      "flashcard_summary": "Osteoarthritis -> degenerative disease, DIP/knee/hip, no typical systemic CRP/ESR elevation.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題考 Sjogren's syndrome 腺體外表現的治療。乾燥症若出現血管炎等系統性免疫表現，可使用類固醇合併免疫抑制劑；不同併發症需依病變型態治療，不能把所有表現都用同一類藥處理。\n\n【選項詳解】\n- A. 錯誤。乾燥症相關關節痛或關節炎通常先考慮 hydroxychloroquine、短期低劑量類固醇或 methotrexate 等策略；anti-TNF 不是常規治療，且對乾燥症本身療效不佳。\n- B. 正確。若出現血管炎、腎炎、神經病變或其他重要器官侵犯，可依嚴重度使用全身性類固醇與免疫抑制劑，以控制系統性發炎與器官傷害。\n- C. 錯誤。乾燥症增加 B cell lymphoma 風險；一旦併發淋巴癌，需依淋巴瘤分型與分期進行血液腫瘤治療，例如 rituximab-based regimen 或化療，不能只靠高劑量類固醇。\n- D. 錯誤。Raynaud phenomenon 的治療重點是保暖、避免誘發因子與血管擴張藥，常用 dihydropyridine calcium channel blocker；NSAID 主要止痛消炎，不能改善血管痙攣。\n\n【核心考點】\nSjogren's syndrome 腺體外表現要依器官侵犯處理：血管炎可用類固醇加免疫抑制劑，關節炎不常規用 anti-TNF，淋巴癌需腫瘤治療，Raynaud 以血管擴張策略為主。",
+      "key_point": "乾燥症併血管炎可用類固醇與免疫抑制劑；anti-TNF、單用類固醇治淋巴癌、NSAID 治 Raynaud 都不恰當。",
+      "flashcard_front": "Sjogren's extraglandular manifestations：治療配對",
+      "flashcard_back": "血管炎等重要器官侵犯可用 steroid + immunosuppressant；Raynaud 用 CCB，淋巴癌需血液腫瘤治療，關節炎不以 anti-TNF 為常規。",
+      "flashcard_summary": "Sjogren extraglandular disease -> vasculitis can need steroid plus immunosuppressant; match therapy to manifestation.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:36+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

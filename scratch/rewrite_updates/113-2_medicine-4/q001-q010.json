@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題評估 18 個月幼兒的發展里程碑，重點是找出需要轉介的落後表現。此年齡應已有少量但明確的有意義單字；若只會 2 個單字，語言表達明顯偏少，需要進一步發展評估。\n\n【選項詳解】\n- A. 錯誤。18 個月幼兒可逐漸指認或說出部分身體部位；能說出 4 個身體部位並非明顯落後，反而接近此年齡可接受的語言與認知表現。\n- B. 正確。18 個月幼兒通常應能說出數個有意義單字，且不只限於無特異性的發聲。若只會 2 個有意義單字，需懷疑語言表達遲緩，建議轉介做聽力、語言與整體發展評估。\n- C. 錯誤。顏色命名屬於較晚出現的認知與語言能力，通常不是 18 個月必須達到的項目；只會說 1 種顏色不能單獨視為發展遲緩。\n- D. 錯誤。指認常見動物圖像屬於早期語言理解與認知能力，能指認 3 種動物在 18 個月並不代表嚴重落後。\n\n【核心考點】\n18 個月幼兒若有明顯口語表達不足，尤其有意義單字數很少，應轉介評估；顏色命名等較高階能力不能拿來當此年齡的主要警訊。",
+      "key_point": "18 個月幼兒只會極少數有意義單字時，需懷疑語言發展遲緩並轉介評估。",
+      "flashcard_front": "18 個月幼兒 / 語言發展 / 有意義單字 / 發展轉介警訊",
+      "flashcard_back": "18 個月幼兒應能說出數個有意義單字；若僅約 2 個，需懷疑語言表達遲緩，安排聽力、語言與發展評估。",
+      "flashcard_summary": "18 個月語言警訊 -> 有意義單字極少需轉介；顏色命名不是此年齡主要門檻",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題是問血液製劑或免疫球蛋白與活性減毒疫苗的接種間隔，且題目要求找出最不適當敘述。被選的 A 是不適當敘述，因為 palivizumab 只針對 RSV，並不會影響 MMR 或水痘等活性減毒疫苗的免疫反應。\n\n【選項詳解】\n- A. 錯誤，且是本題要選的不適當敘述。Palivizumab 是抗 RSV F protein 的單株抗體，並非廣泛含有麻疹、德國麻疹或水痘抗體的血液製品；接種活性減毒疫苗不需因此延後 3 個月。\n- B. 正確。高劑量 IVIG 含有大量被動抗體，會中和或干擾麻疹、水痘等活性減毒疫苗的複製與免疫反應；例如川崎病使用 2 g/kg IVIG 後，常需延後約 11 個月。\n- C. 正確。全血或 packed RBC 含血漿抗體，可能干擾活性減毒疫苗，因此需延後數月；洗滌紅血球已移除大多數血漿與抗體，通常不需延後接種。\n- D. 正確。一般肌肉注射免疫球蛋白與 HBIG 屬於較低劑量被動抗體，對麻疹或水痘疫苗仍可能有干擾，因此需依規範延後約 3 個月。\n\n【核心考點】\n活性減毒疫苗主要會被含有相關被動抗體的血液製品或免疫球蛋白干擾；palivizumab 只針對 RSV，洗滌紅血球抗體量極低，兩者通常不需延後 MMR 或水痘疫苗。",
+      "key_point": "Palivizumab 不會干擾活性減毒疫苗；高劑量 IVIG 與含血漿抗體的血品才需要依劑量延後。",
+      "flashcard_front": "活性減毒疫苗 / 血品間隔 / IVIG / palivizumab / 洗滌紅血球",
+      "flashcard_back": "高劑量 IVIG 後需長時間延後 MMR 或水痘疫苗；palivizumab 只含 RSV 專一性抗體，洗滌紅血球抗體量低，通常不需延後。",
+      "flashcard_summary": "血品與活性減毒疫苗 -> IVIG 延後；palivizumab 與洗滌紅血球不需延後",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n胎便吸入症候群（meconium aspiration syndrome, MAS）多見於足月或過期產兒，吸入胎便後會造成氣道阻塞、化學性肺炎、缺氧與肺血管收縮。這些變化會讓新生兒肺血管阻力無法順利下降，因此增加持續性肺高壓（PPHN）的風險。\n\n【選項詳解】\n- A. 錯誤。羊水胎便染色較常見於足月兒與過期產兒；早產兒腸道與神經調控較不成熟，子宮內排胎便的機率較低。\n- B. 錯誤。有羊水胎便染色不等於發生 MAS，多數新生兒不會進展到嚴重呼吸窘迫；MAS 的比例遠低於 60%。\n- C. 正確。MAS 造成缺氧、酸中毒、肺部發炎與肺血管收縮，會提高肺血管阻力，進而增加 PPHN 的發生機會。\n- D. 錯誤。胎便可造成部分氣道阻塞與 ball-valve effect，氣體進入後不易排出，可能導致肺過度膨脹、肺泡破裂與氣胸；並非只造成肺塌陷，也不是不增加氣胸。\n\n【核心考點】\nMAS 的高風險族群是足月或過期產兒；重要併發症包括 PPHN 與氣胸，分別來自缺氧造成的肺血管收縮與部分氣道阻塞造成的空氣滯留。",
+      "key_point": "MAS 常見於足月或過期產兒，會因缺氧與肺血管收縮增加 PPHN，也會因 ball-valve effect 增加氣胸。",
+      "flashcard_front": "胎便吸入症候群 / 足月過期產 / PPHN / 氣胸",
+      "flashcard_back": "MAS 會造成化學性肺炎、缺氧與肺血管收縮，增加 PPHN；部分氣道阻塞造成 ball-valve effect，增加氣胸風險。",
+      "flashcard_summary": "MAS -> 足月過期產較常見；併發 PPHN 與氣胸",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題考新生兒常規照護與髖關節篩檢，且要求找最不適當敘述。被選的 D 是不適當敘述，因為 Ortolani test 是把已脫位的髖關節復位；測試髖關節是否會被推到脫位位置的是 Barlow test。\n\n【選項詳解】\n- A. 正確。新生兒維生素 K 儲存少、腸道菌叢尚未穩定，出生後肌肉注射 vitamin K1 可預防維生素 K 缺乏性出血，尤其是嚴重的顱內或腸胃道出血。\n- B. 正確。新生兒眼部預防用抗生素眼藥膏可降低淋菌性新生兒眼炎風險；考題所列 tetracycline 眼藥膏屬於傳統可用藥物之一。\n- C. 正確。足月新生兒正常呼吸速率約每分鐘 30 到 60 次，若持續超過此範圍並合併鼻翼搧動、呻吟或凹陷呼吸，才更需懷疑呼吸窘迫。\n- D. 錯誤，且是本題要選的不適當敘述。Ortolani test 以外展並抬起股骨頭的方式，確認已脫位髖關節能否復位；Barlow test 才是內收並向後施壓，嘗試讓不穩定髖關節滑出髖臼。\n\n【核心考點】\n新生兒 DDH 篩檢要分清楚：Barlow 是把不穩定髖關節推到脫位，Ortolani 是把已脫位髖關節復位；兩者方向與臨床意義相反。",
+      "key_point": "Barlow test 評估髖關節可否被推到脫位；Ortolani test 評估已脫位髖關節可否復位。",
+      "flashcard_front": "新生兒常規照護 / DDH / Barlow test / Ortolani test",
+      "flashcard_back": "Barlow 是 adduction 加後向壓力讓不穩定髖關節脫位；Ortolani 是 abduction 加抬起股骨頭讓已脫位髖關節復位。",
+      "flashcard_summary": "DDH 理學檢查 -> Barlow 推出脫位；Ortolani 帶回復位",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n糖尿病母親所生嬰兒（infant of diabetic mothers, IDM）在胎內長期暴露於母體高血糖，胎兒胰島素分泌增加。出生後母體葡萄糖供應中斷，但新生兒高胰島素狀態仍在，因此容易低血糖；同時也常見低血鈣、低血鎂、紅血球增多與肥厚性心肌病變。本題要找最不適當敘述，被選的 D 錯在高血鈣。\n\n【選項詳解】\n- A. 正確。胎兒高胰島素會促進脂肪與蛋白質合成，造成 LGA 或巨嬰；胎兒過大會增加肩難產、鎖骨骨折、臂神經叢損傷與生產窒息風險。\n- B. 正確。IDM 容易有胎內慢性缺氧，刺激 erythropoietin 上升而造成紅血球增多；紅血球分解增加後，間接膽紅素上升，黃疸風險也增加。\n- C. 正確。高胰島素具有類似生長因子的作用，可造成暫時性肥厚性心肌病變，常見心臟擴大與心室中隔肥厚，部分嬰兒會有流出道阻塞或心衰竭表現。\n- D. 錯誤，且是本題要選的不適當敘述。IDM 出生後常見低血糖、低血鈣與低血鎂，不是高血鈣；低血糖或低血鈣都可能造成嗜睡、肌張力低、吸吮差、抖動或抽搐。\n\n【核心考點】\nIDM 的代謝異常是低血糖、低血鈣與低血鎂；另外要記得 LGA 造成產傷、紅血球增多造成黃疸，以及高胰島素造成暫時性心室中隔肥厚。",
+      "key_point": "IDM 常見低血糖、低血鈣、低血鎂、紅血球增多、黃疸、LGA 與暫時性心室中隔肥厚。",
+      "flashcard_front": "糖尿病母親嬰兒 / IDM / 低血糖 / 低血鈣 / 心室中隔肥厚",
+      "flashcard_back": "IDM 出生後因高胰島素易低血糖，並常見低血鈣與低血鎂；不是高血鈣，也可合併 LGA、黃疸與肥厚性心肌病變。",
+      "flashcard_summary": "IDM -> 低血糖與低血鈣；LGA、紅血球增多、心室中隔肥厚也常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n3 個月足月男嬰出生 3058 公克、目前僅 4075 公克，體重增加明顯不足，且奶量偏少並有心雜音，需考慮造成肺充血與心衰竭的左向右分流病灶。本題問最不可能診斷，被選的 A 是因為小型至中等 ASD 在嬰兒早期通常分流量較小，較少造成如此明顯的生長遲滯。\n\n【選項詳解】\n- A. 最不可能。5 mm 第二型 ASD 的心房壓差小，嬰兒早期左向右分流通常有限，常無症狀或到較大年齡才因右心容量負荷被發現；不太會在 3 個月就造成嚴重餵食困難與生長遲滯。\n- B. 可能。6 mm VSD 在嬰兒可形成中大型左向右分流；出生後肺血管阻力下降後，肺血流增加，容易出現呼吸快、餵食出汗、體重增加差與心衰竭。\n- C. 可能。完全型心內膜墊缺損合併房室中隔缺損與房室瓣異常，分流量大且常早期出現肺充血、心衰竭與生長不良。\n- D. 可能。5 mm 管狀 PDA 會讓主動脈血在收縮期與舒張期分流至肺動脈，造成肺血流過多、左心容量負荷與餵食耐受差，因此可導致體重增加不足。\n\n【核心考點】\n嬰兒早期明顯生長不良合併心雜音時，要想到大型左向右分流；大型 VSD、PDA、complete ECD 常較早有症狀，小型至中等 ASD 則多半較晚才出現臨床問題。",
+      "key_point": "3 個月嬰兒嚴重生長不良較支持大型 VSD、PDA 或 complete ECD；5 mm 第二型 ASD 較少早期造成心衰竭。",
+      "flashcard_front": "3 個月嬰兒 / 心雜音 / 生長遲滯 / 左向右分流 / ASD VSD PDA ECD",
+      "flashcard_back": "大型 VSD、PDA、complete ECD 可在嬰兒早期造成肺充血、心衰竭與生長不良；第二型 ASD 因心房壓差小，多較晚出現症狀。",
+      "flashcard_summary": "嬰兒生長不良加心雜音 -> 大分流病灶；ASD 通常早期症狀較少",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nPDA 是主動脈與肺動脈間的動脈導管出生後未閉合，常造成左向右分流。本題問最不適當敘述，被選的 C 錯在 prostaglandin 會維持導管開放；促進閉合應使用抑制 prostaglandin 合成的 NSAIDs。\n\n【選項詳解】\n- A. 正確。PDA 常見於早產兒，因早產兒動脈導管對氧氣引發的收縮反應較差，且 prostaglandin 影響較明顯，閉合較不完全。\n- B. 正確。PDA 會讓主動脈血在舒張期持續流入肺動脈，使舒張壓下降，形成寬脈壓與 bounding pulse。\n- C. 錯誤，且是本題要選的不適當敘述。Prostaglandin E1 用於維持 ductus arteriosus 開放，常用在 ductal-dependent congenital heart disease；若要讓 PDA 閉合，常用 indomethacin 或 ibuprofen 抑制 prostaglandin 合成。\n- D. 正確。典型 PDA 可在左上胸、近鎖骨下區聽到連續性機器樣雜音；若早期、分流較小或肺血管阻力仍高，也可能只表現為收縮期雜音。\n\n【核心考點】\nPDA 藥物方向要分清楚：PGE1 維持動脈導管開放，indomethacin 或 ibuprofen 促進導管閉合；臨床可有寬脈壓與左上胸連續性雜音。",
+      "key_point": "PGE1 維持 PDA 開放；indomethacin 或 ibuprofen 抑制 prostaglandin 合成以促進 PDA 閉合。",
+      "flashcard_front": "PDA / prostaglandin / indomethacin / ibuprofen / 連續性雜音",
+      "flashcard_back": "PDA 閉合用 NSAIDs 如 indomethacin 或 ibuprofen；PGE1 是維持導管開放，常用於 ductal-dependent heart disease。",
+      "flashcard_summary": "PDA 藥物 -> PGE1 保持開放；NSAIDs 促進閉合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n兒童高血壓比成人更常需要尋找次發性原因，尤其年齡越小或血壓越高時越是如此。最常見來源是腎臟系統，包括腎實質疾病與腎血管疾病，因此本題選 B。\n\n【選項詳解】\n- A. 錯誤。心血管系統疾病可造成兒童高血壓，例如主動脈縮窄會造成上肢高血壓、下肢脈搏弱或壓差下降；但整體比例低於腎臟病因。\n- B. 正確。腎臟實質疾病如腎絲球腎炎、逆流性腎病變、慢性腎臟病，以及腎血管疾病如腎動脈狹窄，是兒童次發性高血壓最常見原因。\n- C. 錯誤。內分泌疾病如嗜鉻細胞瘤、庫欣症候群、原發性醛固酮增多症或先天性腎上腺增生可造成高血壓，但在兒童次發性高血壓中不如腎臟原因常見。\n- D. 錯誤。中樞神經系統問題如顱內壓升高可造成血壓上升，常伴隨神經學症狀或 Cushing response，但不是兒童次發性高血壓的最常見系統來源。\n\n【核心考點】\n兒童次發性高血壓的第一個大方向是腎臟：先想腎實質與腎血管病變，再依病史、理學檢查與實驗室資料評估心血管、內分泌與中樞神經原因。",
+      "key_point": "兒童次發性高血壓最常見原因是腎臟系統疾病，包括腎實質與腎血管病變。",
+      "flashcard_front": "兒童高血壓 / 次發性高血壓 / 最常見原因 / 腎臟系統",
+      "flashcard_back": "兒童次發性高血壓最常見來自腎臟系統，包含腎實質疾病與腎血管疾病；主動脈縮窄與內分泌病因也要鑑別但較少見。",
+      "flashcard_summary": "兒童次發性高血壓 -> 最常見是腎臟系統",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題考病毒性肝炎血清學判讀。Anti-HAV IgM 代表近期或急性 A 型肝炎感染；B 肝疫苗接種只會產生 anti-HBs，不會產生 anti-HBc；C 肝抗體陽性只能代表曾暴露或目前感染，仍需 HCV RNA 判斷是否有現症感染。\n\n【選項詳解】\n- A. 正確。Anti-HAV IgM 會在急性 A 型肝炎期出現，是判斷近期 HAV 感染的重要血清標記；若只看臨床症狀，無法可靠區分 A 肝與其他病毒性肝炎。\n- B. 錯誤。B 型肝炎疫苗含表面抗原，不含核心抗原；接種後典型表現是 anti-HBs 陽性、anti-HBc 陰性。Anti-HBc IgG 陽性代表曾自然感染過 HBV。\n- C. 錯誤。Anti-HCV 陽性表示曾感染或目前感染 HCV，也可能需排除偽陽性；是否仍有現症感染要看 HCV RNA，不能單憑抗體陽性判定已痊癒。\n- D. 錯誤。HBsAg 陽性、anti-HBs 陰性加上 anti-HBc IgM 陽性，較支持急性 B 型肝炎或慢性 B 肝急性發作；慢性感染典型是 HBsAg 持續陽性、total anti-HBc 陽性，但 IgM anti-HBc 陰性或低度。\n\n【核心考點】\n肝炎血清學可用三組判讀：急性 A 肝看 anti-HAV IgM；B 肝疫苗免疫是 anti-HBs 陽性且 anti-HBc 陰性；C 肝抗體陽性後需加驗 HCV RNA 才能判斷是否有現症感染。",
+      "key_point": "Anti-HAV IgM 支持急性 A 肝；B 肝疫苗只產生 anti-HBs；anti-HCV 陽性後需用 HCV RNA 判斷現症感染。",
+      "flashcard_front": "病毒性肝炎血清學 / Anti-HAV IgM / B 肝疫苗 / Anti-HBc IgM / HCV RNA",
+      "flashcard_back": "急性 A 肝為 anti-HAV IgM 陽性；B 肝疫苗免疫為 anti-HBs 陽性、anti-HBc 陰性；anti-HCV 陽性需檢測 HCV RNA 才能判斷是否仍感染。",
+      "flashcard_summary": "肝炎血清學 -> HAV IgM 急性 A 肝；B 肝疫苗無 anti-HBc；HCV 需 RNA 判斷現症感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": [
+        "選項 B 使用 Anti-HBsAg 這個不常用寫法，通常寫作 anti-HBs；不影響本題官方答案判讀。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-4_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n兒童食道異物需依種類與位置決定處置急迫性。鈕扣型電池若卡在食道，可在短時間內造成鹼性灼傷、食道穿孔或食道血管瘻；本題問最不適當敘述，被選的 A 錯在不能等待禁食時間。\n\n【選項詳解】\n- A. 錯誤，且是本題要選的不適當敘述。食道內鈕扣型電池是急症，應立即安排內視鏡取出；即使剛進食也不應為了等待 NPO 時間而延誤，因為嚴重灼傷可在約 2 小時內發生。\n- B. 正確。兒童誤吞異物最常見是硬幣；硬幣與鈕扣型電池在正面 X 光都可能呈圓形，因此需仔細看雙環徵、側面階梯狀邊緣等線索。\n- C. 正確。兒童食道異物可無明顯症狀，尤其初期可能沒有流口水、吞嚥困難、胸痛或咳嗽；因此病史與影像定位很重要。\n- D. 正確。疑似誤吞異物時，通常先以頸部、胸部與腹部 X 光定位，必要時包含正面與側面影像，以判斷異物位置、大小、形狀與是否像電池或磁鐵。\n\n【核心考點】\n食道鈕扣型電池需立即處理，不能因等待禁食時間而延誤；初步評估靠頸胸腹 X 光定位，並要把看似硬幣的圓形異物與鈕扣型電池區分開。",
+      "key_point": "食道鈕扣型電池需立即內視鏡取出，不可等待禁食時間；初步影像應涵蓋頸部、胸部與腹部。",
+      "flashcard_front": "兒童食道異物 / 鈕扣型電池 / 硬幣 / X 光定位 / NPO",
+      "flashcard_back": "食道內鈕扣型電池可快速造成嚴重灼傷，需立即內視鏡取出；不要等待禁食時間，先用頸胸腹 X 光定位並辨識電池特徵。",
+      "flashcard_summary": "食道鈕扣型電池 -> 立即取出；不可等 NPO；X 光需涵蓋頸胸腹",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

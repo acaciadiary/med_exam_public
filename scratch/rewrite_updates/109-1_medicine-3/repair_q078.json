@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 78,
+    "end": 78
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題問最不恰當處置，官方選項代表不恰當者。50 歲男性急診出現下巴紅腫疼痛與舌頭向後移位，應警覺 Ludwig's angina 造成口底與深頸部感染，病情可迅速進展為上呼吸道阻塞；因此只給口服抗生素並門診追蹤是不安全的處置。\n\n【選項詳解】\n- A. 敘述恰當。Ludwig's angina 是合理鑑別診斷，典型會侵犯下頷下、舌下與頦下間隙，造成口底腫脹、舌頭抬高或後移，進而威脅氣道。\n- B. 敘述恰當。Ludwig's angina 常與牙源性感染有關，尤其下顎臼齒感染、蛀牙、拔牙後感染或口腔衛生不良，細菌可沿深頸部筋膜間隙擴散。\n- C. 處置不恰當。已有舌頭向後移位代表氣道風險升高，應優先評估與保護氣道，安排住院監測，並給予靜脈廣效抗生素；單靠口服抗生素後門診追蹤可能延誤氣道阻塞與深部感染控制。\n- D. 檢查恰當。若氣道狀態允許，電腦斷層可評估感染範圍、膿瘍形成、氣道受壓與是否需要外科引流，對深頸部感染的診斷與治療規劃有幫助。\n\n【核心考點】\nLudwig's angina 的急症重點是氣道安全，而不只是抗生素選擇。口底或下巴腫脹合併舌頭移位時，要提高對氣道阻塞的警覺，處理方向是氣道評估、住院、靜脈抗生素，必要時影像評估與引流。",
+      "key_point": "Ludwig's angina 合併舌頭移位時有氣道阻塞風險，不宜只給口服抗生素門診追蹤。",
+      "flashcard_front": "Ludwig's angina 合併舌頭後移時，哪種處置不恰當？",
+      "flashcard_back": "只給口服抗生素並門診追蹤不恰當；應優先評估氣道、住院監測並給予靜脈廣效抗生素。",
+      "flashcard_summary": "Ludwig's angina -> 牙源性感染與口底深頸部感染；舌頭移位提示氣道風險，需住院與靜脈治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-repair",
+      "explanation_generated_at": "2026-07-07T23:21:06+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

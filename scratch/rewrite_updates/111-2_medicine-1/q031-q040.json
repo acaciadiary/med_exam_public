@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n題目問哪一條手部肌肉起自屈指深肌（flexor digitorum profundus, FDP）的肌腱。蚓狀肌是手部內在肌中很特別的一群，直接從 FDP 肌腱起始，再連到第 2-5 指伸肌腱膜，因此可協助掌指關節屈曲與指間關節伸直。\n\n【選項詳解】\n- A. 掌短肌（palmaris brevis）：錯誤。掌短肌位於小魚際表淺層，起自掌腱膜與屈肌支持帶，止於手掌尺側皮膚；它不是從屈指深肌肌腱起始。\n- B. 骨間背側肌（dorsal interosseous muscle）：錯誤。骨間背側肌起自相鄰掌骨的兩側骨面，主要負責手指外展，來源是掌骨而非屈肌肌腱。\n- C. 骨間掌側肌（palmar interosseous muscle）：錯誤。骨間掌側肌起自第 2、4、5 掌骨的一側骨面，主要負責手指內收，也不是起自 FDP 肌腱。\n- D. 蚓狀肌（lumbrical muscle）：正確。第 1、2 蚓狀肌通常起自第 2、3 指 FDP 肌腱橈側，第 3、4 蚓狀肌常由相鄰 FDP 肌腱雙頭起始，這正是本題要辨認的解剖特徵。\n\n【核心考點】\n手部內在肌中，蚓狀肌的高頻辨識點是「起自屈指深肌肌腱、止於伸肌腱膜」。骨間肌起自掌骨，掌短肌起自掌腱膜與屈肌支持帶，來源位置完全不同。",
+      "key_point": "蚓狀肌起自屈指深肌肌腱並止於伸肌腱膜；骨間肌則起自掌骨。",
+      "flashcard_front": "哪一條手部內在肌起自屈指深肌（FDP）肌腱？",
+      "flashcard_back": "蚓狀肌（lumbrical muscle）起自 FDP 肌腱，止於第 2-5 指伸肌腱膜，可屈 MCP、伸 IP。",
+      "flashcard_summary": "蚓狀肌 -> 起自 FDP 肌腱；骨間肌 -> 起自掌骨",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n這題是胸心包膜（pleuropericardial membrane）的否定題，要找出錯誤敘述。胸心包膜會把胚胎共同體腔分隔成心包腔與胸膜腔，膜內可見膈神經與總主靜脈，成人結構主要形成纖維性心包膜；漿液心包膜臟層即心外膜，並不是由胸心包膜形成。\n\n【選項詳解】\n- A. 形成漿液心包膜的臟層（visceral layer of serous pericardium）：錯誤。胸心包膜的成人衍生重點是纖維性心包膜；漿液心包膜臟層也就是心外膜（epicardium），來源與心外膜原基及心臟表面中胚層相關。\n- B. 此膜內包含有總主靜脈（common cardinal vein）：正確。胸心包膜發育時含有總主靜脈，後續靜脈系統重塑時與上腔靜脈區域發育有關。\n- C. 此膜內包含有膈神經（phrenic nerve）：正確。膈神經會隨胸心包膜位置改變而下移，成人走行於纖維性心包膜與縱隔胸膜之間。\n- D. 此膜所形成之構造分隔胸膜腔與心包腔：正確。胸心包膜向內生長並融合，將心包腔和兩側胸膜腔分開，這是它在胸腔胚胎分隔中的主要功能。\n\n【核心考點】\n胸心包膜要記三件事：內含膈神經與總主靜脈、分隔胸膜腔與心包腔、形成纖維性心包膜。漿液心包膜臟層屬於心外膜，不要把它歸到胸心包膜。",
+      "key_point": "胸心包膜形成纖維性心包膜，內含膈神經與總主靜脈；不形成漿液心包膜臟層。",
+      "flashcard_front": "胸心包膜（pleuropericardial membrane）形成什麼？內含哪些重要構造？",
+      "flashcard_back": "胸心包膜分隔胸膜腔與心包腔，內含膈神經與總主靜脈，成人主要形成纖維性心包膜。",
+      "flashcard_summary": "胸心包膜 -> 纖維性心包膜；內含膈神經、總主靜脈；分隔胸膜腔與心包腔",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n題目問第三咽弓（third pharyngeal arch）的軟骨衍生物。咽弓衍生物常以舌骨為分界記憶：第二咽弓形成舌骨小角與舌骨上半部，第三咽弓形成舌骨大角與舌骨下半部；第四、六咽弓則形成多數喉軟骨。\n\n【選項詳解】\n- A. 莖突舌骨韌帶（stylohyoid ligament）：錯誤。莖突舌骨韌帶來自第二咽弓的 Reichert cartilage，和鐙骨、顳骨莖突、舌骨小角同組。\n- B. 舌骨之小角（lesser cornu of hyoid bone）：錯誤。舌骨小角由第二咽弓發育而來，常與莖突舌骨韌帶一起考。\n- C. 舌骨之大角（greater cornu of hyoid bone）：正確。第三咽弓軟骨形成舌骨大角與舌骨體下半部，是第三咽弓最典型的骨性衍生物。\n- D. 甲狀軟骨（thyroid cartilage）：錯誤。甲狀軟骨屬於喉軟骨，主要來自第四與第六咽弓軟骨，不是第三咽弓。\n\n【核心考點】\n咽弓軟骨衍生物可用「第二咽弓管舌骨小角，第三咽弓管舌骨大角」區分。甲狀、環狀、杓狀等喉軟骨則放在第四與第六咽弓。",
+      "key_point": "第三咽弓形成舌骨大角與舌骨體下半部；第二咽弓形成舌骨小角與莖突舌骨韌帶。",
+      "flashcard_front": "第三咽弓的代表性軟骨衍生物是什麼？",
+      "flashcard_back": "第三咽弓形成舌骨大角與舌骨體下半部；第二咽弓形成舌骨小角、莖突舌骨韌帶等。",
+      "flashcard_summary": "第三咽弓 -> 舌骨大角；第二咽弓 -> 舌骨小角、莖突舌骨韌帶",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n題目問中腸生理性臍疝後，小腸何時回到腹腔。中腸在第 6 週因生長快速、腹腔空間不足而暫時突出到臍帶內，並以腸繫膜上動脈（SMA）為軸旋轉；到第 10 週腹腔擴大後，腸管回納腹腔並繼續完成定位。\n\n【選項詳解】\n- A. 第四週：錯誤。第 4 週主要是胚體摺疊與原始腸管形成階段，中腸尚未進入典型生理性臍疝再回納的時點。\n- B. 第七週：錯誤。第 7 週時中腸仍處於生理性臍疝期間，腸袢位於臍帶內並持續旋轉與增長。\n- C. 第十週：正確。第 10 週是中腸由臍帶回納腹腔的關鍵時間，小腸先回納，大腸後續定位，盲腸最後移向右下腹。\n- D. 第十二週：錯誤。第 12 週通常已超過回納的主要時間點，腸管位置與腸繫膜附著會進一步成熟。\n\n【核心考點】\n中腸時間軸要抓住兩個數字：第 6 週形成生理性臍疝，第 10 週回納腹腔。旋轉軸是 SMA，總旋轉量常以逆時針 270 度整理。",
+      "key_point": "中腸第 6 週形成生理性臍疝，第 10 週回納腹腔，旋轉軸為 SMA。",
+      "flashcard_front": "中腸生理性臍疝何時發生、何時回納？",
+      "flashcard_back": "中腸約第 6 週突出至臍帶形成生理性臍疝，約第 10 週回納腹腔，並以 SMA 為軸旋轉。",
+      "flashcard_summary": "中腸發育 -> 第 6 週疝出；第 10 週回納；SMA 為旋轉軸",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n題目問第一孔（foramen primum）如何關閉。心房間隔發育時，第一中隔（septum primum）由原始心房頂部向心內膜墊生長；它的下緣與心內膜墊融合後，第一孔才會關閉。同時第一中隔上部會形成第二孔，維持胎兒期心房間血流通道。\n\n【選項詳解】\n- A. 第一中隔與心內膜墊之融合：正確。第一孔位於第一中隔下緣與心內膜墊之間，兩者融合會直接封閉這個通道。\n- B. 第二中隔與心內膜墊之融合：錯誤。第二中隔在第一中隔右側形成，主要參與卵圓孔邊緣與瓣膜機制，並不是封閉第一孔的結構。\n- C. 第一中隔之新細胞增生：錯誤。第一孔不是靠第一中隔單獨增生填滿，而是靠第一中隔下緣與心內膜墊接合。\n- D. 第一中隔與第二中隔之融合：錯誤。兩者的關係主要是形成卵圓孔瓣膜與覆蓋結構；出生後左房壓上升才使第一中隔貼向第二中隔，與第一孔關閉不是同一事件。\n\n【核心考點】\n第一孔位在第一中隔與心內膜墊之間，所以關閉方式就是兩者融合。第二中隔與卵圓孔相關，不能拿來解釋第一孔的關閉。",
+      "key_point": "第一孔由第一中隔下緣與心內膜墊融合而關閉；第二中隔主要與卵圓孔形成相關。",
+      "flashcard_front": "foramen primum 如何關閉？",
+      "flashcard_back": "第一中隔（septum primum）向下生長並與心內膜墊融合，第一孔因此關閉。",
+      "flashcard_summary": "第一孔關閉 -> septum primum + endocardial cushion 融合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n題目問鼓膜（tympanic membrane）發育不包含哪一個來源。鼓膜由三層共同構成：外層來自第一咽溝外胚層，內層來自第一咽囊內胚層，中層纖維結締組織來自第一、第二咽弓間葉；第二咽溝不參與鼓膜形成。\n\n【選項詳解】\n- A. 第一咽溝的外胚層：正確。第一咽溝形成外耳道，最深部外胚層參與鼓膜外表面的上皮層。\n- B. 第二咽溝的外胚層：錯誤。第二咽溝會被第二咽弓增生覆蓋，與後方咽溝形成暫時性頸竇後退化，並不形成鼓膜。\n- C. 第一咽囊的內胚層：正確。第一咽囊形成中耳腔與咽鼓管，最外側內胚層構成鼓膜內側黏膜層。\n- D. 第一和第二咽弓的間葉組織：正確。鼓膜中間的纖維層來自第一、第二咽弓間葉組織，夾在外胚層與內胚層之間。\n\n【核心考點】\n鼓膜是三胚層結構：第一咽溝外胚層、第一咽囊內胚層、第一與第二咽弓間葉中胚層。第二咽溝與頸竇相關，不放進鼓膜來源。",
+      "key_point": "鼓膜由第一咽溝外胚層、第一咽囊內胚層、第一與第二咽弓間葉組成；第二咽溝不參與。",
+      "flashcard_front": "鼓膜的三層胚胎來源是什麼？",
+      "flashcard_back": "外層來自第一咽溝外胚層，內層來自第一咽囊內胚層，中層來自第一、第二咽弓間葉。",
+      "flashcard_summary": "鼓膜來源 -> 第一咽溝外胚層 + 第一咽囊內胚層 + 第一/二咽弓間葉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n題目問肌梭（muscle spindle）內鞘包覆的構造不包含什麼。肌梭是感受肌肉長度與伸展速度的本體感受器，內部含梭內肌纖維，包括核袋纖維與核鏈纖維，並有 Ia 感覺纖維形成環螺旋末梢；運動終板則是一般梭外肌纖維的神經肌肉接點，不在肌梭內鞘內。\n\n【選項詳解】\n- A. 運動終板（motor end plate）：錯誤。運動終板是 α 運動神經元支配梭外肌纖維的突觸後區，屬於一般骨骼肌纖維的神經肌肉接點，不是肌梭內鞘包覆內容。\n- B. 環螺旋末梢（annulospiral ending）：正確。Ia 感覺纖維繞在梭內肌纖維中央區形成環螺旋末梢，用來感受肌肉長度改變與伸展速度。\n- C. 核鏈纖維（nuclear chain fiber）：正確。核鏈纖維是梭內肌纖維的一型，細胞核呈鏈狀排列，位於肌梭內。\n- D. 核袋纖維（nuclear bag fiber）：正確。核袋纖維也是梭內肌纖維，中央區膨大且細胞核聚集，位於肌梭內並接受感覺與 γ 運動神經調節。\n\n【核心考點】\n肌梭內含梭內肌纖維與感覺末梢，梭內肌纖維分為核袋與核鏈。運動終板屬於梭外肌纖維的神經肌肉接點，要和肌梭內部構造分開。",
+      "key_point": "肌梭內鞘包覆核袋纖維、核鏈纖維與環螺旋末梢；運動終板屬於梭外肌纖維。",
+      "flashcard_front": "肌梭內鞘包覆哪些構造？哪個不在其中？",
+      "flashcard_back": "肌梭內有核袋纖維、核鏈纖維與環螺旋末梢；運動終板在梭外肌纖維上。",
+      "flashcard_summary": "肌梭內 -> 核袋、核鏈、環螺旋末梢；肌梭外 -> 運動終板",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n題目描述分泌物與整個細胞一同釋放到腺體管腔，這是全分泌（holocrine secretion）。全分泌時細胞充滿分泌物後破裂死亡，細胞碎屑和分泌物一起排出，皮脂腺是代表例子。\n\n【選項詳解】\n- A. 局部分泌（merocrine secretion）：錯誤。局部分泌是分泌小泡以胞吐作用排出內容物，細胞膜與細胞本體保留完整，例如唾液腺、胰臟外分泌部與多數小汗腺。\n- B. 頂部分泌（apocrine secretion）：錯誤。頂部分泌只讓細胞頂端部分胞質與分泌物一起脫落，細胞本體仍存活，常用乳腺與頂漿汗腺作為例子。\n- C. 全分泌（holocrine secretion）：正確。全分泌是整個分泌細胞崩解後排入管腔，因此符合「分泌物質與細胞一併釋放」的描述。\n- D. 內分泌（endocrine secretion）：錯誤。內分泌腺沒有導管，激素進入血液或組織液，不是把細胞和分泌物排進腺體管腔。\n\n【核心考點】\n外分泌腺分泌方式要用細胞損傷程度區分：merocrine 無細胞損失，apocrine 掉頂端胞質，holocrine 整個細胞瓦解。看到皮脂腺或整個細胞一起排出，要想到 holocrine。",
+      "key_point": "Holocrine secretion 是整個細胞瓦解並連同分泌物排入管腔，典型例子為皮脂腺。",
+      "flashcard_front": "分泌物與整個細胞一併排入管腔是哪一種分泌？",
+      "flashcard_back": "全分泌（holocrine secretion）；細胞充滿分泌物後崩解死亡，皮脂腺是代表例子。",
+      "flashcard_summary": "分泌方式 -> merocrine 無損；apocrine 頂端脫落；holocrine 全細胞崩解",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n題目問長骨骨幹直徑加粗由哪個結構的細胞增生與分化促成。長骨變長靠骨骺板的軟骨內骨化；骨幹變粗則靠骨外膜內層的成骨前驅細胞分化為成骨細胞，在骨外表面進行添加生長（appositional growth）。\n\n【選項詳解】\n- A. 骨外膜（periosteum）：正確。骨外膜內層含成骨前驅細胞，可分化為成骨細胞並在骨表面沉積新骨，使骨幹直徑增加。\n- B. 骨內膜（endosteum）：錯誤。骨內膜位於骨髓腔內面，參與骨重塑；骨幹加粗時內側常有破骨細胞吸收骨質以擴大髓腔，避免骨骼過厚過重。\n- C. 骨幹骺端（metaphysis）：錯誤。骨幹骺端是骨幹與骨骺之間的區域，與生長板附近的軟骨鈣化與骨化相關，主要放在長度生長脈絡下理解。\n- D. 骨骺板（epiphyseal plate）：錯誤。骨骺板的軟骨細胞增殖、肥大、鈣化與替換成骨，主要造成長骨縱向生長，不是骨幹直徑加粗的主因。\n\n【核心考點】\n長骨生長要分清方向：長度增加靠骨骺板，直徑增加靠骨外膜添加生長。骨內膜偏向內側重塑與髓腔調整，不是骨外表面加粗的主要來源。",
+      "key_point": "長骨直徑加粗靠骨外膜內層成骨細胞的添加生長；長度增加靠骨骺板。",
+      "flashcard_front": "長骨骨幹直徑加粗主要靠哪個結構？",
+      "flashcard_back": "骨外膜（periosteum）內層成骨前驅細胞分化為成骨細胞，在骨外表面進行添加生長。",
+      "flashcard_summary": "長骨直徑 -> 骨外膜添加生長；長骨長度 -> 骨骺板軟骨內骨化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n這題問膜性迷路（membranous labyrinth）何者錯誤。半規管壺腹嵴負責角加速度，頂帽（cupula）不含耳石；直線加速度與重力由橢圓囊、球囊的前庭斑（macula）及耳石膜感受。耳蝸部分則要分清耳蝸導管內是內淋巴液，前庭階與鼓室階內是外淋巴液，兩者在蝸孔相通。\n\n【選項詳解】\n- A. 壺腹嵴是頭部角加速運動的感覺受器：正確。半規管壺腹內的壺腹嵴覆有頂帽，頭部旋轉造成內淋巴相對流動，使頂帽偏移並彎曲毛細胞纖毛。\n- B. 頂帽的耳石是頭部直線加速運動的感覺受器：錯誤。頂帽位於半規管壺腹嵴，不含耳石，也不是直線加速度受器；直線加速度由橢圓囊與球囊前庭斑上的耳石膜偵測。\n- C. 前庭階與鼓室階於蝸孔彼此相通：通常為正確敘述。前庭階（scala vestibuli）與鼓室階（scala tympani）都含外淋巴液，並在耳蝸頂端蝸孔（helicotrema）相通。\n- D. 耳蝸導管內流動的液體為內淋巴液：正確。耳蝸導管又稱中階（scala media），內含高鉀的內淋巴液；前庭階與鼓室階則是外淋巴液。\n\n【核心考點】\n壺腹嵴加頂帽用來感受角加速度，前庭斑加耳石膜用來感受直線加速度與重力。耳蝸導管含內淋巴液，前庭階與鼓室階含外淋巴液並在蝸孔相通。補充提醒：此題來源採複數給分；依一般解剖生理，B 的敘述明確有誤，C 多數教材視為正確，建議人工複核給分依據。",
+      "key_point": "頂帽不含耳石且感受角加速度；耳石膜位於橢圓囊與球囊前庭斑，感受直線加速度與重力。",
+      "flashcard_front": "cupula 與 otolith 分別在哪裡？各感受什麼？",
+      "flashcard_back": "Cupula 位於半規管壺腹嵴，不含耳石，感受角加速度；otolith 位於橢圓囊與球囊前庭斑的耳石膜，感受直線加速度與重力。",
+      "flashcard_summary": "內耳前庭 -> cupula/壺腹嵴: 角加速度；otolith/前庭斑: 直線加速度與重力",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:32:20+08:00",
+      "manual_review_notes": [
+        "第40題來源採複數給分；B 的敘述明確錯誤，但 C 在一般解剖生理中通常為正確敘述，建議人工複核官方給分依據。"
+      ]
+    }
+  ]
+}

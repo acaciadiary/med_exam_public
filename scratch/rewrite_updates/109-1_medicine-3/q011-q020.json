@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問與血脂異常相關的黃色脂肪瘤（xanthoma）何者錯誤；這是否定題，要找出不正確的敘述。黃瘤可見於 LDL 升高，也可見於嚴重高三酸甘油脂血症，例如 eruptive xanthoma 常與極高 triglyceride 或 chylomicron/VLDL 相關，因此把黃瘤限定為只與 LDL 有關並不正確。\n\n【選項詳解】\n- A. 錯誤。黃瘤不是只有 LDL cholesterol 過高才會發生；tendon xanthoma 常見於家族性高膽固醇血症，但 eruptive xanthoma 典型與嚴重高 triglyceride 血症相關，常出現在糖尿病控制不佳或乳糜微粒血症等狀態。\n- B. 正確。黃瘤是脂質沉積在皮膚或皮下組織，被巨噬細胞吞噬後形成泡沫細胞，因此皮下部位可以出現黃色丘疹、結節或斑塊。\n- C. 正確。肌腱或肌腱鞘附近的 tendon xanthoma 是典型分布，特別常被聯想到 Achilles tendon、手部伸肌肌腱與家族性高膽固醇血症。\n- D. 正確。四肢伸側表面常見 tuberous 或 eruptive xanthoma；壓力、摩擦與脂質沉積相關部位都可能形成可見病灶。\n\n【核心考點】\n黃瘤代表脂質代謝異常造成的泡沫細胞聚集，分布可在皮下、肌腱與伸側表面。考試要分清：tendon xanthoma 偏向 LDL 升高，eruptive xanthoma 則常指向嚴重 triglyceride 升高。",
+      "key_point": "黃瘤可由 LDL 或 triglyceride 相關脂質異常造成，不能把 xanthoma 限縮為只與 LDL 升高有關。",
+      "flashcard_front": "Xanthoma 與血脂異常：哪些脂質異常與常見分布？",
+      "flashcard_back": "Tendon xanthoma 常與 LDL 升高相關；eruptive xanthoma 常與嚴重 triglyceride 升高相關。黃瘤可分布於皮下、肌腱鞘與四肢伸側表面。",
+      "flashcard_summary": "Xanthoma -> LDL 與 triglyceride 異常都可相關；皮下、肌腱與伸側表面是常見部位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題問心包膜疾病何者錯誤；關鍵在急性心包膜炎的摩擦音特徵與心包填塞的生理表現。急性心包膜炎的 pericardial friction rub 通常是粗糙、刮擦樣、偏高頻的聲音，而不是低頻聲音。\n\n【選項詳解】\n- A. 正確。心包膜由臟層心包（visceral pericardium）與壁層心包（parietal pericardium）形成腔隙，中間少量心包液提供潤滑，常以約 15-50 mL 描述。\n- B. 錯誤。急性心包膜炎的 friction rub 多為高頻、粗糙刮擦樣，常在胸骨左緣、病人坐起前傾、呼氣末較清楚；若心包液大量增加，兩層心包分離，摩擦音可能變小或消失，但「低頻」這點不符合典型描述。\n- C. 正確。急性心包膜炎早期心電圖常出現廣泛性 ST elevation，常伴 PR depression，分布不像急性心肌梗塞那樣侷限於單一冠狀動脈灌流區。\n- D. 正確。Cardiac tamponade 的 Beck triad 包括低血壓、心音遙遠或變小、頸靜脈怒張；右心充盈受限時，靜脈波形可見 x descent 保留或明顯、y descent 變小或消失。\n\n【核心考點】\n急性心包膜炎的摩擦音是高頻粗糙刮擦聲，常因姿勢與呼吸而改變；心包填塞則以低血壓、心音變小與頸靜脈怒張為臨床組合。心電圖的廣泛 ST elevation 可幫助與局部心肌梗塞區分。",
+      "key_point": "Pericardial friction rub 典型是高頻粗糙刮擦聲；大量心包液或 tamponade 時摩擦音可消失。",
+      "flashcard_front": "急性心包膜炎 friction rub 與 cardiac tamponade 的典型重點？",
+      "flashcard_back": "Friction rub 多為高頻粗糙聲，前傾與呼氣末較清楚；tamponade 有低血壓、心音遙遠、頸靜脈怒張，且 y descent 常消失。",
+      "flashcard_summary": "Pericarditis -> high-pitched friction rub；tamponade -> Beck triad 與 y descent 消失。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問 C 型肝炎自然病史何者錯誤；關鍵是慢性 C 肝進展風險因子。快速進展較常見於男性、感染年齡較大、飲酒、肥胖、共感染 HBV/HIV 或免疫抑制等情境；女性不是典型快速進展因子。\n\n【選項詳解】\n- A. 正確。慢性 C 型肝炎可在數十年內逐漸造成纖維化與肝硬化，約 20-30 年後一部分病人會進展為肝硬化，20-25% 是常見考試用估計值。\n- B. 正確。C 肝造成肝硬化後，肝細胞癌風險明顯上升；每年約 1-4% 發生 HCC 是常用的臨床估計範圍。\n- C. 正確。在直接抗病毒藥物普及以前，慢性 C 肝是西方國家肝硬化、肝癌與肝移植的重要原因之一；此敘述符合傳統自然病史與移植適應症考點。\n- D. 錯誤。酗酒與較大感染年齡會加速纖維化，但性別方面通常是男性進展較快；女性，尤其停經前女性，並不是加速進展的典型危險因子。題目把女性列為快速進展因素，因此不正確。\n\n【核心考點】\nC 型肝炎的長期風險是慢性肝炎進展為肝硬化，再增加 HCC 與肝移植需求。加速進展因子要記男性、飲酒、感染年齡較大與共感染；不要把女性誤列為典型快速進展因子。",
+      "key_point": "慢性 C 肝快速進展因子包括男性、飲酒、感染年齡較大與共感染；女性不是典型加速因子。",
+      "flashcard_front": "慢性 C 型肝炎自然病史與快速進展因子？",
+      "flashcard_back": "約一部分慢性 C 肝在 20-30 年後進展為肝硬化，肝硬化後每年有 HCC 風險；進展較快常見於男性、飲酒、年齡較大、HBV/HIV 共感染。",
+      "flashcard_summary": "Chronic HCV -> cirrhosis/HCC risk；rapid progression -> male, alcohol, older infection age, coinfection。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問哪位膽囊結石病人需要治療，且較適合口服膽鹽溶石劑 UDCA。UDCA 適合少數有症狀、結石小、未鈣化、膽囊功能仍可、又因手術風險高而不宜立即接受膽囊切除的病人。\n\n【選項詳解】\n- A. 錯誤。這位病人雖然是單顆 1.0 cm 膽囊結石，但從未有症狀；無症狀膽囊結石通常不需主動治療，更不會優先使用 UDCA。\n- B. 錯誤。病人有反覆膽絞痛而需要治療，但 X 光已顯示膽囊部位鈣化點，代表結石可能含鈣或為鈣化結石；UDCA 主要溶解膽固醇性、放射線透亮的非鈣化小結石，對鈣化結石效果差。\n- C. 錯誤。右上腹痛 12 小時、發燒、膽囊壁增厚與膽囊周圍液體符合急性膽囊炎；此時應考慮抗生素、早期膽囊切除或高風險者膽囊引流，而不是等待口服溶石。\n- D. 正確。這位病人有反覆餐後劇烈上腹痛，表示有症狀；結石 0.4 cm、小且腹部 X 光看不到，較像非鈣化膽固醇結石；兩個月前急性心肌梗塞使手術風險高，因此可考慮 UDCA 作為較合適的非手術選項。\n\n【核心考點】\nUDCA 不是一般膽結石的一線處理，只適合有症狀、膽固醇性、非鈣化、小顆、膽囊功能尚可且手術風險高的病人。急性膽囊炎與鈣化結石不適合作為口服溶石的主要適應症。",
+      "key_point": "UDCA 適用於有症狀、非鈣化、小顆膽固醇結石且手術風險高的膽囊結石病人。",
+      "flashcard_front": "膽囊結石何時較適合 UDCA？",
+      "flashcard_back": "有症狀、結石小、X 光透亮非鈣化、膽囊功能尚可、且病人不適合手術時可考慮 UDCA；急性膽囊炎或鈣化結石不適合。",
+      "flashcard_summary": "Gallstone + UDCA -> symptomatic, small, radiolucent cholesterol stone, high surgical risk。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問 Oddi 括約肌痙攣或功能障礙何者錯誤；關鍵是它會造成類似膽絞痛的上腹痛、可伴肝膽酵素短暫上升，並可用壓力測量輔助診斷。Morphine 會增加 Oddi 括約肌張力，可能使膽道壓力與疼痛惡化。\n\n【選項詳解】\n- A. 正確。Oddi 括約肌痙攣可造成膽汁或胰液排出受阻，發作時可能出現 AST、ALT、alkaline phosphatase 或膽紅素短暫上升，發作後又回落。\n- B. 正確。病人常有右上腹或上腹疼痛，表現可類似膽結石或膽絞痛；有些病例發生在膽囊切除後，影像不一定找得到結石。\n- C. 正確。Sphincter of Oddi manometry 可直接評估括約肌基礎壓力，是傳統上診斷功能障礙的重要檢查之一，但因侵入性與胰臟炎風險，臨床使用需謹慎。\n- D. 錯誤。Morphine 可使 Oddi 括約肌收縮、增加膽道壓力，因此可能加重痙攣造成的疼痛；嚴重疼痛時不會把 morphine 視為最適當止痛選擇。\n\n【核心考點】\nOddi 括約肌痙攣會造成膽道型上腹痛與短暫肝膽酵素異常，manometry 可輔助診斷。止痛藥考點是 morphine 可能增加括約肌張力，遇到此病態要避免把它當成理想選擇。",
+      "key_point": "Morphine 可增加 Oddi 括約肌張力與膽道壓力，Oddi 括約肌痙攣病人不宜視為最適當止痛藥。",
+      "flashcard_front": "Oddi 括約肌痙攣的表現與止痛藥陷阱？",
+      "flashcard_back": "可有右上腹或上腹痛、肝膽酵素短暫上升，manometry 可輔助診斷；morphine 會增加 Oddi 括約肌張力，可能加重疼痛。",
+      "flashcard_summary": "Sphincter of Oddi spasm -> biliary pain, transient LFT rise, manometry；avoid morphine as ideal analgesic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問 B 型肝炎病毒基因型何者錯誤；關鍵是臨床病程與預後主要與 genotype 相關，而不是只由傳統血清亞型 subtype 決定。不同 genotype 會影響 HBeAg seroconversion、肝硬化與肝癌風險，以及治療反應。\n\n【選項詳解】\n- A. 正確。HBV 依傳統血清抗原差異可分亞型，依全基因序列差異可分多種 genotype；A-J 的分類是常見整理方式，表示 HBV 具有明顯地理與遺傳多樣性。\n- B. 錯誤。感染後病程嚴重度、肝硬化與肝癌風險、HBeAg 轉陰機率等，較常以 genotype 討論；subtype 可描述抗原性差異，但不是判斷臨床嚴重度的主要架構。\n- C. 正確。亞洲常見 genotype B 與 C 相比，genotype C 通常與較晚 HBeAg seroconversion、較高肝硬化與 HCC 風險相關；因此 genotype B 相對風險較低的敘述可接受。部分資料也顯示 genotype D 預後較 genotype A/B 不利。\n- D. 正確。Genotype A 相較某些其他 genotype，有較高機率發生 HBsAg clearance 或 HBeAg seroconversion，且對 interferon 治療反應較佳是常見考點。\n\n【核心考點】\nHBV 預後與治療反應常看 genotype，不是單看 subtype。考試常比較 genotype B 與 C：C 較容易延後 HBeAg 轉陰並增加肝硬化、肝癌風險；genotype A 則常與較佳 serologic response 相關。",
+      "key_point": "HBV 臨床病程與預後主要以 genotype 討論；subtype 不是判斷嚴重度的主要依據。",
+      "flashcard_front": "HBV genotype 與 subtype：哪個較影響臨床病程？",
+      "flashcard_back": "臨床病程、HBeAg seroconversion、肝硬化與 HCC 風險多與 genotype 相關；genotype C 較 B 風險高，genotype A 常有較佳血清轉換表現。",
+      "flashcard_summary": "HBV genotype -> prognosis and treatment response；subtype -> antigenic classification, not main severity driver。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題問急性 B 型肝炎何者錯誤；來源資料顯示此題接受 B 與 D 兩項。急性 B 肝多以支持療法為主，nucleos(t)ide analogue 可用於猛爆性或重症病例以降低病毒複製，但通常不是用來縮短一般急性病程；成人急性感染多數可清除病毒，但慢性化風險不是絕對趨近於零。\n\n【選項詳解】\n- A. 正確。急性 B 肝通常不需抗病毒藥，但若出現猛爆性肝炎、嚴重凝血異常、膽紅素明顯升高或病程持續惡化，可考慮 entecavir、tenofovir 等 nucleos(t)ide analogue。\n- B. 錯誤。抗病毒藥在重症急性 B 肝的目的主要是抑制病毒複製、改善嚴重疾病風險與作為移植前後管理；對一般急性 B 肝，並不能保證縮短整體疾病自然病程。\n- C. 正確。若急性 B 肝重症病人需要 nucleos(t)ide analogue，療程常延續到 HBsAg clearance 或 seroconversion 後一段時間；若以 HBeAg seroconversion 作停藥參考，也需再治療數月以降低復燃風險。\n- D. 錯誤。成人急性 B 肝大多會恢復，慢性化約小於 5%，但「約 99% 不會成為慢性帶原」過於絕對；不同感染年齡與免疫狀態會使慢性化率差異很大，嬰幼兒感染慢性化率尤其高。\n\n【核心考點】\n急性 B 肝以支持療法為主，抗病毒藥保留給猛爆性或重症病例。成人感染多數不會慢性化，但慢性化率仍受年齡與免疫狀態影響；看到過度絕對的比例敘述要特別小心。",
+      "key_point": "急性 B 肝抗病毒藥主要用於重症或猛爆性病例，不是為了縮短一般病程；成人多可清除病毒但慢性化率不能寫得過度絕對。",
+      "flashcard_front": "急性 B 型肝炎何時使用 nucleos(t)ide analogue？慢性化率怎麼判斷？",
+      "flashcard_back": "一般急性 B 肝多支持療法；猛爆性或重症可用 entecavir/tenofovir。成人多數恢復、慢性化小於 5%，嬰幼兒或免疫低下者慢性化風險高。",
+      "flashcard_summary": "Acute HBV -> supportive care; antivirals for severe/fulminant cases; chronicity depends strongly on age and immunity。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題問肝硬化造成食道靜脈曲張何者正確；關鍵是初級預防與急性出血處理。非選擇性 beta 阻斷劑可降低門脈血流與壓力，能減少第一次靜脈曲張出血風險。\n\n【選項詳解】\n- A. 正確。Propranolol 或 nadolol 阻斷 beta-1 可降低心輸出量，阻斷 beta-2 使內臟血管相對收縮，減少門脈系統血流，因此可用於中大型靜脈曲張的初級出血預防。\n- B. 錯誤。內視鏡靜脈曲張結紮（EVL）對預防第一次出血有效，特別適合不能耐受非選擇性 beta 阻斷劑或高風險靜脈曲張者；不能說效果不好。\n- C. 錯誤。EVL 可用橡皮圈局部結紮靜脈曲張，達到止血或預防出血效果，但它不會降低肝門靜脈壓力；降低門脈壓力才是藥物或 TIPS 等策略的重點。\n- D. 錯誤。靜脈曲張出血採限制性輸血策略，常以血紅素約 7-8 g/dL 為目標；輸到 10 g/dL 以上可能增加門脈壓力與再出血風險。\n\n【核心考點】\n食道靜脈曲張初級預防可用非選擇性 beta 阻斷劑或 EVL；NSBB 可降低門脈血流，EVL 是局部處理而非降門壓。急性出血輸血要保守，過度輸血會增加再出血風險。",
+      "key_point": "非選擇性 beta 阻斷劑可降低第一次食道靜脈曲張出血風險；急性出血輸血採限制性策略。",
+      "flashcard_front": "食道靜脈曲張初級預防與輸血目標？",
+      "flashcard_back": "NSBB 如 propranolol/nadolol 可降低首次出血風險；EVL 有效但不降門壓。急性出血常維持 Hb 約 7-8 g/dL，避免過度輸血。",
+      "flashcard_summary": "Esophageal varices -> NSBB lowers first bleed; EVL local ligation; restrictive transfusion around 7-8 g/dL。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題問大腸直腸癌治療何者正確；關鍵是直腸癌與結腸癌治療策略不同。第二、三期直腸癌常採術前同步化學放射治療（CCRT）以降低局部復發、增加降期與保肛機會。\n\n【選項詳解】\n- A. 正確。局部進展直腸癌因位於骨盆腔，局部復發會造成重大問題；術前 CCRT 可縮小腫瘤、改善切除邊緣、降低局部復發，並可能增加 sphincter preservation 機會。\n- B. 錯誤。肛門癌多與 HPV 感染、接受肛交、免疫低下、HIV 感染與抽菸相關；大腸直腸癌則與年齡、腺瘤、家族史、發炎性腸病、飲食與生活型態等相關，兩者危險因子並不相同。\n- C. 錯誤。Cetuximab 是抗 EGFR 單株抗體，KRAS 突變會使下游訊號持續活化，即使阻斷 EGFR 也難以有效抑制腫瘤生長；只有 RAS wild-type 才較可能受益。\n- D. 錯誤。大腸直腸癌術後復發常見為遠端轉移，尤其肝臟與肺部；吻合口復發不是最常見部位。追蹤需要病史理學檢查、CEA、影像與大腸鏡依風險搭配，不能把大腸鏡視為唯一或最重要的追蹤工具。\n\n【核心考點】\n第二、三期直腸癌常用術前 CCRT 以處理骨盆局部控制問題。Cetuximab 必須看 RAS wild-type；肛門癌偏 HPV 相關；大腸直腸癌術後追蹤要同時注意遠端轉移與腸腔內新病灶。",
+      "key_point": "第二、三期直腸癌可術前 CCRT 降低局部復發；KRAS 突變代表 cetuximab 反應差。",
+      "flashcard_front": "直腸癌術前 CCRT、肛門癌危險因子、cetuximab 反應怎麼考？",
+      "flashcard_back": "Stage II/III 直腸癌可術前 CCRT；肛門癌多 HPV 相關；cetuximab 適合 RAS wild-type，KRAS 突變反應差；術後常見復發含肝肺轉移。",
+      "flashcard_summary": "Rectal cancer -> neoadjuvant CCRT for stage II/III; anal cancer -> HPV; cetuximab -> RAS wild-type。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問發炎性腸道疾病（IBD）藥物治療何者正確；關鍵是 5-ASA、類固醇、anti-TNF 與營養療法的角色。Crohn disease 急性發作時，腸道休息合併全靜脈營養可作為誘導緩解的支持治療，在部分情境可有接近類固醇的效果。\n\n【選項詳解】\n- A. 錯誤。Sulfasalazine 由腸道細菌分解為 5-aminosalicylic acid（5-ASA）與 sulfapyridine；抗發炎效果主要來自 5-ASA，sulfapyridine 主要負責載體作用並與許多副作用相關。選項把兩者作用對調。\n- B. 錯誤。Glucocorticoids 可用於急性發作的誘導緩解，但長期副作用大，不能作為維持治療首選；維持治療會依疾病型態使用 5-ASA、thiopurine、methotrexate 或生物製劑等。\n- C. 錯誤。Anti-TNF 可抑制 TNF-alpha，對中重度 ulcerative colitis 或 Crohn disease 有治療角色；但慢性 B 型肝炎患者使用 anti-TNF 有 HBV reactivation 風險，需篩檢並視情況給予抗病毒預防。\n- D. 正確。Crohn disease 急性發作時，bowel rest 與 TPN 可降低腸道刺激、改善營養與發炎狀態，能幫助誘導緩解；傳統考點可把其效果與 glucocorticoids 相比，尤其在需要營養支持或避免腸道負荷時有用。\n\n【核心考點】\nIBD 治療要分誘導緩解與維持治療：類固醇用於誘導，不適合長期維持；5-ASA 的抗發炎成分是 5-ASA；anti-TNF 前要注意 HBV 再活化。Crohn 急性期營養與腸道休息可作為誘導緩解策略之一。",
+      "key_point": "IBD 類固醇用於誘導緩解而非維持；anti-TNF 有 HBV 再活化風險；Crohn 急性期 bowel rest/TPN 可輔助誘導緩解。",
+      "flashcard_front": "IBD 治療：5-ASA、類固醇、anti-TNF、TPN 的角色？",
+      "flashcard_back": "Sulfasalazine 的抗發炎成分是 5-ASA；類固醇用於誘導不作維持首選；anti-TNF 前需評估 HBV reactivation；Crohn 急性期 bowel rest/TPN 可誘導緩解。",
+      "flashcard_summary": "IBD therapy -> steroid induction not maintenance; anti-TNF HBV risk; Crohn flare may use bowel rest/TPN。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:10+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

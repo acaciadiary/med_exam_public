@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n題目比較甲狀腺素異常與生長激素缺乏在新生兒或幼兒發育上的影響。兩者都會影響線性生長與骨骼成熟，所以都可能造成身材矮小；但甲狀腺素對中樞神經發育也很重要，生長激素缺乏通常不造成智能障礙。\n\n【選項詳解】\n- A. 正確。甲狀腺功能低下會讓骨骼成熟延遲、長骨生長受阻；生長激素分泌不足也會降低 IGF-1 作用，使線性生長變慢，因此兩者都可造成身材矮小。\n- B. 錯誤。原發性甲狀腺功能低下時，甲狀腺本身無法製造足夠 T4/T3，負回饋減少會使 TSH 升高；若病灶在腦下垂體或下視丘，TSH 可偏低或不適當地正常。\n- C. 錯誤。甲狀腺功能亢進時 T3、T4 升高會抑制腦下垂體 TSH 分泌，常見型態是 TSH 下降；若三者都升高，要考慮 TSH 分泌腫瘤或甲狀腺素阻抗等少見情境。\n- D. 錯誤。先天性甲狀腺功能低下若未及早治療，會影響神經髓鞘化與腦部發育而造成智能障礙；單純生長激素缺乏主要影響身高，智力通常正常。\n\n【核心考點】\n先天性甲狀腺功能低下會同時影響身高與腦部發育；生長激素缺乏主要造成矮小而不典型造成智能障礙。TSH 變化要先分辨原發性與中樞性甲狀腺功能異常。",
+      "key_point": "甲狀腺功能低下與生長激素缺乏都可造成矮小；只有甲狀腺素缺乏典型影響新生兒腦部發育。",
+      "flashcard_front": "先天性甲狀腺功能低下與生長激素缺乏，對身高與智能的影響有何差異？",
+      "flashcard_back": "兩者都可造成身材矮小；甲狀腺素缺乏會影響腦部發育而可造成智能障礙，單純生長激素缺乏通常智力正常。",
+      "flashcard_summary": "甲低與 GH 缺乏：皆可矮小；甲低才典型造成新生兒智能受損。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n題目考卵巢濾泡的 two-cell, two-gonadotropin model。LH 主要刺激濾泡膜細胞製造雄性素，這些雄性素再進入顆粒細胞，由 FSH 誘導的 aromatase 轉成雌二醇。\n\n【選項詳解】\n- A. 正確。濾泡膜細胞表現 LH receptor，LH 刺激後會由膽固醇合成 androstenedione 與 testosterone，提供顆粒細胞製造雌激素的前驅物。\n- B. 錯誤。濾泡膜細胞雖受 LH 刺激，但缺乏足量 aromatase，主要產物是雄性素，不是直接分泌大量 estradiol。\n- C. 錯誤。顆粒細胞可在 FSH 刺激下把濾泡膜細胞來的雄性素轉成 estradiol；但題目問 LH 的主要作用細胞與促進分泌的荷爾蒙，應對應濾泡膜細胞與 testosterone。\n- D. 錯誤。顆粒細胞的強項是 aromatase 作用與雌二醇生成，並非 LH 主要刺激其製造 testosterone；早期濾泡顆粒細胞主要受 FSH 調控。\n\n【核心考點】\nLH 作用於 theca cells 製造 androgen；FSH 作用於 granulosa cells，誘導 aromatase 將 androgen 轉成 estradiol。記住「theca 產 androgen，granulosa 轉 estrogen」。",
+      "key_point": "LH 主要刺激卵巢濾泡膜細胞製造 testosterone 等雄性素，顆粒細胞再以 aromatase 轉成 estradiol。",
+      "flashcard_front": "Two-cell model 中，LH 作用在哪種卵巢細胞？主要促進什麼荷爾蒙前驅物？",
+      "flashcard_back": "LH 作用於濾泡膜細胞（theca cells），促進 androgen 生成，包括 testosterone 與 androstenedione。",
+      "flashcard_summary": "LH -> theca cells -> testosterone；FSH -> granulosa cells -> aromatase -> estradiol。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n卵子形成的重點是兩次長時間停滯：第一次減數分裂在胚胎期開始並停在 prophase I；青春期後排卵前完成 meiosis I，而 meiosis II 要到受精後才完成。\n\n【選項詳解】\n- A. 正確。卵原細胞在胎兒期進入減數分裂形成初級卵母細胞，第一次減數分裂已開始，之後長期停在 prophase I 的 diplotene stage。\n- B. 錯誤。出生後卵原細胞已不再持續以有絲分裂增加；女性卵母細胞庫在出生時已建立，之後主要是逐漸閉鎖減少。\n- C. 錯誤。幼童期初級卵母細胞仍停在第一次減數分裂前期；青春期後每個週期受 LH surge 影響，排卵前才完成 meiosis I 形成次級卵母細胞與第一極體。\n- D. 錯誤。排卵時釋放的是停在 metaphase II 的次級卵母細胞，不是已完成第二次減數分裂的成熟卵子；meiosis II 通常在受精後才完成。\n\n【核心考點】\n卵子形成要抓時間軸：胎兒期開始 meiosis I，青春期後排卵前完成 meiosis I，排卵後停在 metaphase II，受精後完成 meiosis II。",
+      "key_point": "卵子第一次減數分裂始於胚胎期並停在 prophase I；第二次減數分裂要受精後才完成。",
+      "flashcard_front": "卵子形成中 meiosis I 與 meiosis II 分別何時開始或完成？",
+      "flashcard_back": "Meiosis I 在胚胎期開始，青春期後排卵前完成；meiosis II 在排卵時停於 metaphase II，受精後才完成。",
+      "flashcard_summary": "Oogenesis 時序：胎兒期進入 meiosis I；排卵前完成 meiosis I；受精後完成 meiosis II。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n題目問 pH 7 時哪個胺基酸側鏈帶正電。側鏈是否帶電取決於側鏈官能基與 pKa；arginine 的 guanidinium group pKa 約 12.5，在生理 pH 幾乎維持質子化而帶正電。\n\n【選項詳解】\n- A. 錯誤。Alanine 的側鏈是甲基，屬於非極性疏水側鏈，在 pH 7 不提供可游離的正電荷。\n- B. 正確。Arginine 的側鏈是 guanidinium group，pKa 很高，在中性環境中仍保留質子，因此側鏈呈正電。\n- C. 錯誤。Asparagine 的側鏈是 amide，具有極性但不易在 pH 7 解離成帶電狀態，所以側鏈整體不帶電。\n- D. 錯誤。Aspartic acid 的側鏈羧酸 pKa 約 4，在 pH 7 多已去質子化，帶負電而非正電。\n\n【核心考點】\n生理 pH 下常帶正電的側鏈包括 lysine、arginine，以及部分 histidine；aspartate 與 glutamate 多帶負電，alanine 與 asparagine 不帶側鏈淨電荷。",
+      "key_point": "Arginine 側鏈 pKa 高，在 pH 7 幾乎維持質子化，因此側鏈帶正電。",
+      "flashcard_front": "pH 7 時，Arg、Asp、Asn、Ala 的側鏈電性如何判斷？",
+      "flashcard_back": "Arginine 側鏈帶正電；aspartate 帶負電；asparagine 極性不帶電；alanine 非極性不帶電。",
+      "flashcard_summary": "pH 7 側鏈正電：Arg 與 Lys 最典型；Asp/Glu 為負電，Ala/Asn 不帶電。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n鐮形血球貧血症是 β-globin 基因的點突變造成的血紅素結構病。突變使 β 鏈第 6 位由 glutamate 變成 valine，去氧狀態下 HbS 容易聚合，造成紅血球變形、溶血與血管阻塞。\n\n【選項詳解】\n- A. 正確。Sickle-cell disease 由 HBB 基因單一鹼基突變造成 β-globin 的 Glu6Val 變化，這個胺基酸替換使 HbS 在低氧時形成聚合纖維。\n- B. 錯誤。患者不是完全缺少 β-globin，而是製造突變的 βS 鏈；β 鏈生成不足較符合 β-thalassemia，γ-globin 增加可形成 HbF，對 HbS 聚合有保護作用。\n- C. 錯誤。α-globin 缺乏是 α-thalassemia 的概念，通常與 α-globin 基因缺失相關，不是 HbS 的 β-globin 點突變。\n- D. 錯誤。新生兒期 HbF 比例高，HbF 不含 βS 鏈，可降低早期鐮形化，因此症狀常在出生後數月 HbF 下降後才明顯；現代照護下不會被視為必然在嬰兒期死亡。\n\n【核心考點】\n鐮形血球貧血症是 HBB 點突變造成的結構性血紅素病，不是 globin 鏈完全缺乏。HbF 可抑制 HbS 聚合，因此新生兒早期常受保護。",
+      "key_point": "Sickle-cell disease 來自 β-globin 的 Glu6Val 點突變，HbF 可減少嬰兒早期 HbS 聚合與症狀。",
+      "flashcard_front": "鐮形血球貧血症的分子缺陷與嬰兒早期症狀較少的原因是什麼？",
+      "flashcard_back": "HBB 點突變造成 β-globin Glu6Val，形成 HbS；嬰兒早期 HbF 較高，不含 βS 鏈，因此暫時降低鐮形化。",
+      "flashcard_summary": "Sickle-cell disease：β-globin Glu6Val 點突變；HbF 高時症狀較晚出現。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n題目要求在 [S] 遠小於 KM 時，Michaelis-Menten 反應的速率常數。由 v = Vmax[S]/(KM + [S]) 可知，此時 KM + [S] 近似為 KM，代入 Vmax = kcat[Et] 後得到 v = (kcat/KM)[Et][S]。\n\n【選項詳解】\n- A. 錯誤。Vmax 是受質飽和時的最大反應速率，單位是濃度除以時間；在低受質濃度下，反應速率仍會隨 [S] 改變，不能用 Vmax 當速率常數。\n- B. 正確。當 [S] << KM 時，反應呈近似二級反應，v = (kcat/KM)[Et][S]；kcat/KM 稱為 specificity constant，可衡量酵素在低受質濃度下的催化效率。\n- C. 錯誤。1/kcat 代表單一酵素分子完成一次 turnover 的時間尺度，並不是低 [S] 條件下把酵素與受質相乘的速率常數。\n- D. 錯誤。kcat × KM 的量綱與低受質濃度下的表觀二級速率常數不相符，也不是 Michaelis-Menten 推導出的效率參數。\n\n【核心考點】\n[S] << KM 時，Michaelis-Menten 式可簡化為 v = (kcat/KM)[Et][S]。kcat/KM 是低受質濃度下最重要的催化效率指標。",
+      "key_point": "[S] 遠小於 KM 時，Michaelis-Menten 反應的表觀二級速率常數是 kcat/KM。",
+      "flashcard_front": "Michaelis-Menten 反應在 [S] << KM 時，速率式與速率常數為何？",
+      "flashcard_back": "v = (kcat/KM)[Et][S]，速率常數為 kcat/KM，也稱 specificity constant。",
+      "flashcard_summary": "[S] << KM：v = (kcat/KM)[Et][S]；kcat/KM 代表催化效率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nPyridoxal phosphate（PLP）是 aminotransferase 的輔酶，會先和酵素活性中心胺基酸形成 internal Schiff base。這個共價鍵由 PLP 的醛基與 lysine 側鏈 ε-amino group 形成。\n\n【選項詳解】\n- A. 正確。Lysine 側鏈末端有 ε-amino group，可與 PLP 的 aldehyde group 縮合形成 Schiff base；受質進入後再形成 external aldimine 進行轉胺反應。\n- B. 錯誤。Cysteine 側鏈是 thiol group，常參與氧化還原或親核催化，但不是 PLP 依賴轉胺酶中形成 internal Schiff base 的典型殘基。\n- C. 錯誤。Serine 側鏈是 hydroxyl group，可參與某些酵素催化，但不提供形成 PLP aldimine 所需的胺基。\n- D. 錯誤。Arginine 側鏈是 guanidinium group，雖常帶正電並可穩定陰離子中間產物，但其結構不適合與 PLP 醛基形成可交換的 Schiff base。\n\n【核心考點】\nPLP 依賴轉胺酶以活性中心 lysine 和 PLP 形成 internal Schiff base；受質胺基酸再置換 lysine，形成 external Schiff base 完成轉胺。",
+      "key_point": "PLP 與 aminotransferase 活性中心 lysine 的 ε-amino group 形成 internal Schiff base。",
+      "flashcard_front": "PLP 在 aspartate aminotransferase 中與哪個胺基酸形成 Schiff base？",
+      "flashcard_back": "與 lysine 側鏈 ε-amino group 形成 internal Schiff base，之後受質胺基酸可轉成 external Schiff base。",
+      "flashcard_summary": "PLP-dependent aminotransferase：PLP aldehyde 與 lysine ε-amino group 形成 Schiff base。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n題目問哪個輔因子不能作為 one-carbon moiety 的供給者或傳送者。THF、biotin、SAM 都和單碳單位轉移有關；PLP 主要參與胺基酸轉胺、脫羧、消旋等反應。\n\n【選項詳解】\n- A. 錯誤。Tetrahydrofolate（THF）可攜帶多種氧化態的一碳單位，如 methyl、methylene、formyl，參與嘌呤、胸苷酸與部分胺基酸代謝。\n- B. 錯誤。Biotin 是羧化酶輔因子，可攜帶活化的 CO2，參與 pyruvate carboxylase、acetyl-CoA carboxylase 等反應。\n- C. 錯誤。S-adenosylmethionine（SAM）是常見 methyl donor，可把甲基轉移到 DNA、RNA、蛋白質、小分子或磷脂等受體。\n- D. 正確。Pyridoxal phosphate（PLP）是維生素 B6 活性形式，主要穩定胺基酸反應中的 carbanion 中間產物，參與轉胺與脫羧，不是單碳基團的供給者或運送載體。\n\n【核心考點】\n單碳單位常見載體要分清：THF 攜帶多種 folate-linked 一碳單位，SAM 提供 methyl group，biotin 攜帶 CO2；PLP 的主軸是胺基酸反應而非 one-carbon transfer。",
+      "key_point": "PLP 主要參與胺基酸轉胺與脫羧，不作為單碳基團供給者或傳送者。",
+      "flashcard_front": "THF、biotin、SAM、PLP 中，哪一個不是 one-carbon moiety 載體？",
+      "flashcard_back": "PLP 不是 one-carbon moiety 載體；THF、biotin、SAM 分別可處理 folate-linked 一碳單位、CO2、methyl group。",
+      "flashcard_summary": "One-carbon cofactors：THF、biotin、SAM 相關；PLP 主要做胺基酸轉胺與脫羧。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nDNase I 是核酸內切酶，作用目標是 DNA 主鏈中相鄰核苷酸之間的共價連結。降解 DNA 鏈代表切斷 phosphodiester bond，而不是拆開鹼基配對或切除鹼基。\n\n【選項詳解】\n- A. 錯誤。Glycosidic bond 連接含氮鹼基與去氧核糖；切斷此鍵會形成去鹼基位點，較符合 DNA glycosylase 在鹼基切除修復中的作用。\n- B. 錯誤。Watson-Crick base pairing 是 A-T、G-C 之間的氫鍵配對；破壞氫鍵可使雙股分開，但不會把 DNA 多核苷酸鏈水解成片段。\n- C. 正確。DNase I 水解 DNA 骨架中的 phosphodiester bond，常產生帶 5'-phosphate 與 3'-hydroxyl 末端的 DNA 片段。\n- D. 錯誤。Non-Watson-Crick base pairing 是特殊或非典型鹼基配對方式，屬於鹼基間氫鍵互動，不是 DNase I 的主要水解鍵結。\n\n【核心考點】\n核酸酶降解 DNA 或 RNA 的化學本質是切斷 sugar-phosphate backbone 的 phosphodiester bond；glycosidic bond 與鹼基配對不是 DNase I 的主要作用目標。",
+      "key_point": "DNase I 是核酸內切酶，主要水解 DNA sugar-phosphate backbone 的 phosphodiester bond。",
+      "flashcard_front": "DNase I 降解 DNA 時主要切斷哪一種鍵結？",
+      "flashcard_back": "切斷相鄰核苷酸之間的 phosphodiester bond，而不是 glycosidic bond 或鹼基間氫鍵。",
+      "flashcard_summary": "DNase I：endonuclease，水解 DNA 主鏈 phosphodiester bond。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n尿酸是 purine 分解的終產物，痛風常來自尿酸生成過多或排泄不足。若 PRPP synthetase 活性增加，PRPP 供應上升會推動 purine de novo synthesis，過量 purine 最後分解成尿酸。\n\n【選項詳解】\n- A. 錯誤。Adenine phosphoribosyltransferase（APRT）屬於 purine salvage pathway，負責把 adenine 轉成 AMP；缺乏時典型問題是 2,8-dihydroxyadenine 結石，不是最常被問作痛風的酵素。\n- B. 正確。5-phospho-alpha-D-ribosyl-1-pyrophosphate synthetase 生成 PRPP；若活性過高，PRPP 增加會促進 amidophosphoribosyltransferase 進入 purine 從頭合成，最後造成尿酸生成增加與痛風。\n- C. 錯誤。Glucose-6-phosphatase 缺乏造成 Von Gierke disease，可因乳酸競爭尿酸排泄與 pentose phosphate pathway 增加而出現高尿酸血症，但它不是 purine 合成中最直接連到痛風的酵素。\n- D. 錯誤。Orotate phosphoribosyltransferase 屬於 pyrimidine 合成路徑，與 orotic acid 代謝較相關，並不直接造成 purine 分解增加與尿酸堆積。\n\n【核心考點】\nPRPP synthetase 活性增加會讓 PRPP 過多，推升 purine 從頭合成，過剩 purine 經 xanthine oxidase 代謝為尿酸。痛風的代謝題常考 PRPP 增加與 HGPRT 缺乏兩條路徑。",
+      "key_point": "PRPP synthetase 活性增加會促進 purine 從頭合成，過剩 purine 分解後造成尿酸增加與痛風。",
+      "flashcard_front": "哪個酵素活性異常增加會因 PRPP 過多而造成 purine 合成增加與痛風？",
+      "flashcard_back": "PRPP synthetase。活性增加會產生過多 PRPP，推升 purine de novo synthesis，最後增加尿酸生成。",
+      "flashcard_summary": "痛風代謝：PRPP synthetase 活性增加 -> purine 合成增加 -> 尿酸生成增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T07:04:23+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

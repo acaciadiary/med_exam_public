@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題問降血糖藥與作用機轉的配對何者錯誤。Empagliflozin 屬於 SGLT2 inhibitor，作用是抑制近端腎小管葡萄糖再吸收，不是活化 SGLT2，因此 D 為錯誤配對。\n\n【選項詳解】\n- A. 錯誤配對題中此項配對正確。Pioglitazone 是 thiazolidinedione 類藥物，為 PPAR-gamma agonist，可增加脂肪與骨骼肌對胰島素的敏感性。\n- B. 錯誤配對題中此項配對正確。Metformin 會抑制肝臟糖質新生，常以活化 AMPK、改善胰島素敏感性來理解其主要代謝效應。\n- C. 錯誤配對題中此項配對正確。Exenatide 是 GLP-1 receptor agonist，可葡萄糖依賴性促進胰島素分泌、抑制升糖素並延緩胃排空。\n- D. 正確。Empagliflozin 是 SGLT2 inhibitor，不是 SGLT2 activator；它抑制腎臟近端小管 SGLT2，使尿糖排出增加而降低血糖。\n\n【核心考點】\nSGLT2 藥名常以 -gliflozin 結尾，考點是「抑制」腎小管葡萄糖再吸收。常見降糖藥機轉要能分辨：TZD 活化 PPAR-gamma、metformin 活化 AMPK 相關代謝路徑、GLP-1 類藥物活化 GLP-1 receptor。",
+      "key_point": "Empagliflozin 是 SGLT2 inhibitor，不是 activator；它抑制近端腎小管葡萄糖再吸收，使尿糖排出增加。",
+      "flashcard_front": "Empagliflozin、metformin、pioglitazone、exenatide 的核心機轉配對",
+      "flashcard_back": "Empagliflozin 是 SGLT2 inhibitor；metformin 主要抑制肝糖生成並活化 AMPK 相關路徑；pioglitazone 是 PPAR-gamma agonist；exenatide 是 GLP-1 receptor agonist。",
+      "flashcard_summary": "降糖藥機轉：-gliflozin 為 SGLT2 inhibitor，empagliflozin 不是 SGLT2 activator。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n題目問高血鉀病患不宜使用哪一種利尿劑。Amiloride 是保鉀利尿劑，會減少鉀離子排泄，使高血鉀更惡化，因此答案是 A。\n\n【選項詳解】\n- A. 正確。Amiloride 阻斷遠端腎元與集尿管上皮鈉通道 ENaC，降低鈉再吸收後的管腔負電位，進而減少鉀分泌；高血鉀、腎功能不佳或合併 ACE inhibitor/ARB 時尤其要避免或嚴密監測。\n- B. 錯誤。Metolazone 是 thiazide-like 利尿劑，作用於遠曲小管 Na-Cl cotransporter，通常會增加鉀排出，典型副作用反而是低血鉀。\n- C. 錯誤。Indapamide 也是 thiazide-like 利尿劑，會增加鈉與水排出，也可能造成低血鉀，不是高血鉀時最需避免的保鉀利尿劑。\n- D. 錯誤。Bumetanide 是 loop diuretic，抑制亨利氏環粗上升支 Na-K-2Cl cotransporter，會增加尿鉀排泄，臨床上反而可在適當情境協助處理高血鉀或體液過多。\n\n【核心考點】\n利尿劑對血鉀的影響要分清楚：amiloride、triamterene、spironolactone、eplerenone 會保鉀，可能造成高血鉀；loop 與 thiazide 類多會排鉀，較常造成低血鉀。",
+      "key_point": "Amiloride 是 ENaC blocker 型保鉀利尿劑，會降低鉀排泄，高血鉀病患不宜使用。",
+      "flashcard_front": "高血鉀病患最需避免哪類利尿劑？Amiloride 的作用靶點是什麼？",
+      "flashcard_back": "高血鉀要避免保鉀利尿劑。Amiloride 阻斷集尿管 ENaC，減少鈉再吸收與鉀分泌，可能使血鉀升高；loop 與 thiazide 類多會增加排鉀。",
+      "flashcard_summary": "保鉀利尿劑 amiloride 阻斷 ENaC，會升高血鉀；loop/thiazide 類較常造成低血鉀。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n題目問哪一個藥物是 phosphodiesterase type 3 (PDE3) inhibitor，可用於心衰竭。Milrinone 抑制 PDE3，使 cAMP 上升，兼具正性肌力與血管舒張效果，因此答案是 D。\n\n【選項詳解】\n- A. 錯誤。Empagliflozin 是 SGLT2 inhibitor，可降低糖尿病與心衰竭患者住院風險，但不是 PDE3 inhibitor，也不是急性強心的 PDE 藥物。\n- B. 錯誤。Tadalafil 是 PDE5 inhibitor，增加 cGMP 訊號，主要用於勃起功能障礙與肺動脈高壓，不是 PDE3 inhibitor。\n- C. 錯誤。Riociguat 是 soluble guanylate cyclase stimulator，促進 cGMP 生成，用於特定肺高壓；它不是 phosphodiesterase inhibitor。\n- D. 正確。Milrinone 是 PDE3 inhibitor，抑制 cAMP 分解；在心肌可增加鈣離子相關收縮力，在血管平滑肌可造成舒張，因此可短期用於急性失代償性心衰竭或低心輸出狀態。\n\n【核心考點】\nPDE3 inhibitor 的代表藥是 milrinone，機轉是增加 cAMP，效果是 inotropy 加 vasodilation。PDE5 inhibitor 如 tadalafil 偏 cGMP 與肺血管/勃起功能，riociguat 則是刺激 sGC，不要混淆。",
+      "key_point": "Milrinone 是 PDE3 inhibitor，可增加 cAMP，造成正性肌力與血管舒張，用於短期心衰竭支持治療。",
+      "flashcard_front": "PDE3 inhibitor 用於心衰竭的代表藥與機轉",
+      "flashcard_back": "Milrinone 抑制 PDE3，使 cAMP 上升；心肌收縮力增加、血管平滑肌舒張，因此是 inodilator。Tadalafil 是 PDE5 inhibitor，riociguat 是 sGC stimulator。",
+      "flashcard_summary": "Milrinone -> PDE3 inhibition -> cAMP 上升 -> 強心加血管舒張。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n題目問哪種降血壓藥最容易造成 reflex tachycardia。Nifedipine 是 dihydropyridine 類 calcium channel blocker，主要快速擴張周邊小動脈，血壓下降後會引發壓力感受器反射而使心跳加快，因此答案是 C。\n\n【選項詳解】\n- A. 錯誤。Carvedilol 是兼具 alpha1 blocking 的非選擇性 beta blocker；雖能擴血管，但 beta1 阻斷會抑制心跳與心肌收縮力，通常不會像純周邊血管擴張藥那樣造成明顯反射性心搏過速。\n- B. 錯誤。Diltiazem 是 non-dihydropyridine calcium channel blocker，作用包含抑制 SA node 與 AV node，會降低心率、延緩 AV conduction，不是最容易引發反射性心跳加快的選項。\n- C. 正確。Nifedipine 尤其短效製劑可快速擴張小動脈，使血壓下降後啟動交感反射，導致心跳加快、心悸，甚至增加心肌耗氧。\n- D. 錯誤。Propranolol 是非選擇性 beta blocker，直接阻斷心臟 beta1 receptor，會減慢心率並抑制交感造成的心跳加快。\n\n【核心考點】\nReflex tachycardia 常見於快速周邊動脈擴張藥，典型考點是短效 dihydropyridine CCB 如 nifedipine。Non-DHP CCB 與 beta blocker 會直接壓低心率，方向相反。",
+      "key_point": "Nifedipine 主要快速擴張周邊小動脈，容易經壓力感受器反射引起 tachycardia；diltiazem 與 beta blocker 會降低心率。",
+      "flashcard_front": "哪類降壓藥最容易造成 reflex tachycardia？為什麼 nifedipine 會心悸？",
+      "flashcard_back": "短效 dihydropyridine CCB 如 nifedipine 主要擴張小動脈，血壓快速下降後交感反射增加，造成 tachycardia；diltiazem/verapamil 與 beta blockers 會抑制心率。",
+      "flashcard_summary": "Reflex tachycardia -> 快速小動脈擴張 -> nifedipine；non-DHP CCB/beta blocker 降心率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n題目問 atropine 過量時最不容易出現哪一種情況。Atropine 是 muscarinic receptor antagonist，會抑制副交感作用，因此典型中毒是乾、熱、心跳快、散瞳與尿滯留；唾液大量分泌與其作用相反，答案是 B。\n\n【選項詳解】\n- A. 錯誤。心跳加快是常見 atropine 過量表現；阻斷心臟 M2 receptor 會減少迷走神經對 SA node 的抑制，使心率上升。\n- B. 正確。Atropine 阻斷唾液腺 muscarinic receptor，會造成口乾、唾液分泌減少；大量流涎比較像 cholinergic excess 或 organophosphate 中毒，不是抗膽鹼中毒。\n- C. 錯誤。瞳孔放大是典型抗膽鹼效應；阻斷虹膜括約肌 M3 receptor 後，瞳孔括約肌收縮受抑，會出現 mydriasis 與視力調節障礙。\n- D. 錯誤。尿液滯留可出現於 atropine 過量；膀胱逼尿肌 M3 receptor 被阻斷後收縮力下降，排尿困難，尤其老年男性或攝護腺肥大者風險更高。\n\n【核心考點】\nAtropine 中毒是抗膽鹼症候群：口乾、皮膚乾熱、散瞳、心搏過速、尿滯留與中樞躁動。與之相反的唾液大量分泌、流淚、腹瀉、支氣管分泌增加，較支持膽鹼過多。",
+      "key_point": "Atropine 阻斷 muscarinic receptor，會抑制唾液分泌；過量常見心跳快、散瞳、口乾與尿滯留。",
+      "flashcard_front": "Atropine 過量的典型症狀與最不符合的分泌表現",
+      "flashcard_back": "Atropine 是抗 muscarinic 藥，過量會口乾、無汗/乾熱、散瞳、心跳快、尿滯留；唾液大量分泌是 cholinergic excess，不是 atropine 過量。",
+      "flashcard_summary": "Atropine toxicity -> anticholinergic: dry mouth, mydriasis, tachycardia, urinary retention；不會大量流涎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n題目問 dopamine 靜脈輸注時最不會產生哪種作用。Dopamine 依劑量可刺激 D1、beta1、alpha1 receptor；但 D2 receptor 活化會抑制腸胃道乙醯膽鹼釋放，傾向降低而非加快腸蠕動，因此答案是 B。\n\n【選項詳解】\n- A. 錯誤。低劑量 dopamine 會活化腎臟與腸繫膜血管的 D1 receptor，造成血管舒張，並可增加腎血流與利鈉作用；雖然臨床上不再常規用「腎劑量 dopamine」保腎，但藥理效應本身是考點。\n- B. 正確。D2 receptor 在腸胃道可抑制 cholinergic 神經元釋放 acetylcholine，使蠕動下降；促進腸胃蠕動的 metoclopramide、domperidone 反而是 D2 antagonist。\n- C. 錯誤。中等劑量 dopamine 會刺激 beta1 adrenergic receptor，使心肌收縮力與心率上升，可增加 cardiac output。\n- D. 錯誤。高劑量 dopamine 會刺激 alpha1 adrenergic receptor，造成周邊血管收縮，使血壓上升。\n\n【核心考點】\nDopamine 輸注的受體效應具劑量依賴性：低劑量 D1、較高中等劑量 beta1、高劑量 alpha1。D2 活化不是促蠕動機制；D2 antagonism 才能解除腸道膽鹼神經抑制而促進蠕動。",
+      "key_point": "Dopamine 活化 D2 receptor 會抑制腸道乙醯膽鹼釋放、降低蠕動；促蠕動藥常是 D2 antagonist。",
+      "flashcard_front": "Dopamine 低、中、高劑量分別刺激哪些受體？D2 對腸蠕動的影響？",
+      "flashcard_back": "低劑量主要 D1：腎血管舒張、利鈉；中等劑量 beta1：心跳與收縮力上升；高劑量 alpha1：血管收縮升壓。D2 活化抑制 ACh 釋放，會降低腸胃蠕動。",
+      "flashcard_summary": "Dopamine dose effect：D1 利鈉、beta1 強心、alpha1 升壓；D2 活化抑制而非促進腸蠕動。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n題目問氣喘發作用藥中，哪個最需要監測血中濃度以避免噁心、嘔吐與心律不整。Theophylline 治療窗窄，血中濃度過高會出現腸胃、心臟與中樞毒性，因此答案是 C。\n\n【選項詳解】\n- A. 錯誤。Ipratropium 是吸入型 muscarinic antagonist，主要局部作用於氣道，常見副作用如口乾，通常不需要治療藥物濃度監測。\n- B. 錯誤。Corticosteroid 用於氣喘抗發炎，可吸入或全身使用；雖有高血糖、感染、骨質疏鬆等劑量與時間相關副作用，但不是以血中濃度監測來避免急性心律不整的典型藥物。\n- C. 正確。Theophylline 是 methylxanthine 類支氣管擴張劑，治療窗窄且代謝受年齡、肝功能、感染與藥物交互作用影響；濃度過高可先出現噁心、嘔吐、顫抖、失眠，嚴重時造成心律不整與癲癇。\n- D. 錯誤。Albuterol 是吸入型 short-acting beta2 agonist，急性發作常用；可有手抖、心悸、低血鉀等副作用，但臨床重點不是常規監測血中藥物濃度。\n\n【核心考點】\nTheophylline 的關鍵是窄治療窗與 TDM。氣喘藥物中若題幹提到需測血中濃度、噁心嘔吐、心律不整或癲癇，優先想到 theophylline toxicity。",
+      "key_point": "Theophylline 治療窗窄，濃度過高會造成噁心嘔吐、心律不整與癲癇，因此需要治療藥物濃度監測。",
+      "flashcard_front": "氣喘藥物中哪個需要 TDM？Theophylline 中毒表現是什麼？",
+      "flashcard_back": "Theophylline 需監測血中濃度；過量會噁心、嘔吐、顫抖、失眠，嚴重可心律不整與癲癇。吸入型 albuterol/ipratropium 通常不需常規 TDM。",
+      "flashcard_summary": "Theophylline -> narrow therapeutic window -> TDM；toxicity: GI upset, arrhythmia, seizure。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n題目比較止瀉用鴉片類藥物 loperamide 與 diphenoxylate。兩者在治療止瀉劑量下主要作用於腸道周邊 mu opioid receptor，降低腸蠕動與分泌，但不作為止痛藥使用，因此答案是 D。\n\n【選項詳解】\n- A. 錯誤。治療劑量下，兩者的考點不是像全身性 opioid analgesics 那樣共同具有明顯耐受性；diphenoxylate 高劑量或濫用時較可能出現中樞 opioid 相關問題，loperamide 則因中樞進入受限而較少。\n- B. 錯誤。Loperamide 是 P-glycoprotein 的受質，進入中樞後容易被外排，治療劑量下幾乎不產生中樞 opioid 效果；diphenoxylate 較可能在高劑量下有中樞作用，所以不能說兩者皆可有效通過血腦屏障。\n- C. 錯誤。兩者皆有成癮性不正確；loperamide 治療劑量下中樞作用極低，成癮風險遠低於典型 opioid。Diphenoxylate 有濫用潛力，臨床常與 atropine 合併以降低濫用意願。\n- D. 正確。Loperamide 與 diphenoxylate 的臨床用途是止瀉，不是止痛；在止瀉劑量下主要作用於腸道 mu receptor，抑制腸道蠕動與分泌，不會產生足夠中樞止痛效果。\n\n【核心考點】\n止瀉 opioid 與止痛 opioid 的差別在中樞作用。Loperamide 因 P-glycoprotein 外排而中樞效果低；diphenoxylate 有較多濫用顧慮，常加 atropine，但兩者在治療止瀉劑量下都不具臨床止痛作用。",
+      "key_point": "Loperamide 與 diphenoxylate 治療止瀉劑量下主要作用於腸道 mu receptor，降低蠕動；兩者皆不作為 analgesics。",
+      "flashcard_front": "Loperamide 與 diphenoxylate：BBB、成癮性、止痛作用如何比較？",
+      "flashcard_back": "Loperamide 被 P-gp 外排，治療劑量下中樞作用很低；diphenoxylate 高劑量較有中樞與濫用顧慮，常合併 atropine。兩者止瀉劑量下都不具臨床止痛作用。",
+      "flashcard_summary": "Antidiarrheal opioids -> peripheral gut mu receptor；loperamide CNS entry low by P-gp；both lack analgesia at antidiarrheal doses。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n題目問 sumatriptan 治療偏頭痛的機制。Sumatriptan 是 5-HT1B/1D receptor agonist，可使顱內血管收縮並抑制三叉神經釋放血管舒張與致痛神經肽，因此答案是 D。\n\n【選項詳解】\n- A. 錯誤。阻斷血管平滑肌鈣離子通道造成血管舒張不是 sumatriptan 的機制；偏頭痛急性治療的 triptan 類重點是收縮擴張的顱內血管與抑制神經肽釋放。\n- B. 錯誤。抑制 cyclooxygenase、減少 prostaglandin 生成是 NSAIDs 如 ibuprofen、naproxen 的機制，不是 sumatriptan 的主要作用。\n- C. 錯誤。Sumatriptan 不是 serotonin receptor antagonist，而是選擇性 5-HT1B/1D agonist；題目若把 serotonin receptor 寫成拮抗劑，就是錯誤關鍵。\n- D. 正確。5-HT1B receptor 活化會使顱內與腦膜血管收縮；5-HT1D receptor 活化可抑制三叉神經末梢釋放 CGRP、substance P 等血管舒張與致痛物質，減少痛覺神經刺激。\n\n【核心考點】\nTriptan 類藥物是 5-HT1B/1D agonist。1B 對應血管收縮，1D 對應抑制三叉神經神經肽釋放；不要誤認成 serotonin antagonist 或 NSAID。",
+      "key_point": "Sumatriptan 是 5-HT1B/1D agonist，可收縮顱內血管並抑制三叉神經釋放 CGRP 等致痛血管舒張物質。",
+      "flashcard_front": "Sumatriptan 的受體與偏頭痛治療機制",
+      "flashcard_back": "Sumatriptan 是 5-HT1B/1D agonist；5-HT1B 促使顱內血管收縮，5-HT1D 抑制三叉神經釋放 CGRP/substance P，降低血管舒張與痛覺刺激。",
+      "flashcard_summary": "Sumatriptan -> 5-HT1B/1D agonist -> cranial vasoconstriction plus less CGRP release。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n題目問哪個藥物是前列腺素衍生物，具有子宮平滑肌收縮作用且可用於引產。Dinoprostone 是 prostaglandin E2 (PGE2)，可促進子宮頸成熟並刺激子宮收縮，因此答案是 B。\n\n【選項詳解】\n- A. 錯誤。Oxytocin 可促進子宮收縮，也常用於引產與產後子宮收縮，但它是胜肽類荷爾蒙，不是前列腺素衍生物。\n- B. 正確。Dinoprostone 是 PGE2 製劑，可作用於子宮與子宮頸，使子宮頸軟化、成熟，並增加子宮平滑肌收縮，用於引產或催生相關處置。\n- C. 錯誤。Ergonovine 是 ergot alkaloid，可造成強烈且較持續的子宮收縮，主要用於產後出血控制；因可能造成胎盤血流下降與胎兒缺氧，不用來引產。\n- D. 錯誤。Fasudil 是 Rho kinase inhibitor，主要與血管平滑肌舒張、腦血管痙攣治療相關，不是前列腺素類子宮收縮藥。\n\n【核心考點】\n引產藥要分清化學類別：dinoprostone 是 PGE2，可促進 cervical ripening 與子宮收縮；oxytocin 是胜肽類催產素；ergonovine 是產後止血用 ergot alkaloid，不是引產用藥。",
+      "key_point": "Dinoprostone 是 PGE2 前列腺素製劑，可促進子宮頸成熟與子宮收縮，用於引產。",
+      "flashcard_front": "哪個引產藥是 prostaglandin derivative？Oxytocin、dinoprostone、ergonovine 如何區分？",
+      "flashcard_back": "Dinoprostone 是 PGE2，可促進子宮頸成熟與子宮收縮；oxytocin 是胜肽荷爾蒙；ergonovine 是 ergot alkaloid，主要用於產後出血，不用於引產。",
+      "flashcard_summary": "Dinoprostone = PGE2 for cervical ripening/induction；oxytocin peptide；ergonovine postpartum hemorrhage, not induction。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:31:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

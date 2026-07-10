@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-4.json",
+  "dataset_id": "113-2_medicine-4",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-4_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n許多雙相情緒障礙症（Bipolar disorder，躁鬱症）患者在病程早期僅表現為單極性憂鬱症。臨床上，有某些特定的憂鬱發作特徵能高度預示患者未來可能轉變或診斷為躁鬱症。\n\n【選項詳解】\n- A. 在25歲以前有合併精神病症狀之憂鬱症發作：能預測。早發性憂鬱發作（特別是小於25歲）以及發作時合併有幻覺或妄想等精神病特徵（psychotic features），是未來衍生為雙相情緒障礙症的強烈預測因子。\n- B.  大於5次以上之憂鬱發作：能預測。頻繁且反覆發作的重度憂鬱症（如大於5次），顯示病程具有高度循環性，亦是躁鬱症的臨床警訊。\n- C.  合併有精神運動性遲滯：能預測。伴隨顯著精神運動性遲滯（如行動與思考極度緩慢）或非典型憂鬱特徵（如嗜睡、暴食），在躁鬱症的憂鬱期中較為多見，具預測價值。\n- D. 與生活事件有關之憂鬱症發作：較無法預測（正確答案）。與重大生活事件（如喪偶、失業、人際衝突）相關的憂鬱發作，在單極性重度憂鬱症（MDD）或適應障礙症中極為常見，對於日後是否會發展成雙相情緒障礙症（躁鬱症）並無特異性的預測價值，通常屬於環境心理壓力誘發的單相憂鬱。\n\n【核心考點】\n雙相情緒障礙症（Bipolar disorder）的早期憂鬱期預測特徵：年輕早發（<25歲）、伴隨精神病症狀、高度反覆發作（>5次）、伴隨精神運動性遲滯或非典型症狀。與生活事件相關的發作非特異預測指標。",
+      "key_point": "與生活事件相關的憂鬱發作是單極重度憂鬱或適應障礙症的常見現象，無法特異預測日後是否發展為雙相情緒障礙症；而年輕早發、多次發作與精神運動性遲滯則是強烈預測因子。",
+      "flashcard_front": "單相憂鬱轉為雙相情緒障礙症 (Bipolar disorder) / 臨床高危預測指標 / 與環境誘發因素之鑑別",
+      "flashcard_back": "早發性(<25歲)、發作次數多(>5次)、精神運動性遲滯、伴精神病症狀者，易轉為雙相障礙。與生活事件相關之憂鬱發作則不具預測性。",
+      "flashcard_summary": "躁鬱症早期憂鬱特徵 -> 年輕早發(<25歲)、>5次反覆發作、伴隨精神病症狀、精神運動性遲滯；與生活事件相關則無預測力",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n類思覺失調症（schizophreniform disorder）的症狀與思覺失調症完全相同，核心的區別僅在於病程的「持續時間」短於思覺失調症所要求的6個月。\n\n【選項詳解】\n- A. 其症狀表現與思覺失調症相似,只是症狀持續時間大於1個月,少於6個月：適當。這即為 DSM-5 對於類思覺失調症的病程定義（1至6個月之間，若超過6個月則診斷為思覺失調症）。\n- B. 其盛行率無性別差異：最不適當（正確答案）。流行病學與 DSM-5 指出，類思覺失調症在男性與女性之間的盛行率存在差異，通常「女性的發生率顯著高於男性」（特別是某些研究指出女性更易出現這種短程的精神病發作，而男性更傾向直接發展為慢性的思覺失調症）。\n- C. 有半數以上會進展成思覺失調症：適當。約有三分之二（約 60%-70%，即半數以上）被診斷為類思覺失調症的患者，後續會因為症狀持續超過 6 個月，而被修正診斷為思覺失調症或分裂情感性障礙症。\n- D. 抗精神病藥物的療效優於思覺失調症：適當。相較於慢性的思覺失調症，類思覺失調症患者的預後通常較佳，對抗精神病藥物的治療反應更快且效果更好。\n\n【核心考點】\n類思覺失調症（Schizophreniform disorder）之特點：病程介於1至6個月；大部分（約2/3）最終會進展為思覺失調症；其盛行率非性別對稱（女性多於男性）；藥物治療反應通常優於慢性思覺失調症。",
+      "key_point": "類思覺失調症的病程為1-6個月，約2/3最終進展為思覺失調症；其女性發生率高於男性；藥物反應通常較佳。",
+      "flashcard_front": "類思覺失調症 (schizophreniform disorder) / 診斷病程時限 / 盛行率性別特徵與預後歸宿",
+      "flashcard_back": "症狀同思覺失調症，但持續時間為 1 至 6 個月。女性盛行率高於男性。約2/3患者最終轉診斷為思覺失調症，藥物療效與預後較PD佳。",
+      "flashcard_summary": "類思覺失調症 -> 病程1-6個月(>6個月變思覺失調症) + 約2/3患者最終轉為思覺失調症 + 女性發生率高於男性 + 藥物反應佳",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n特定畏懼症（specific phobia）是指對特定物體或情境（如懼高、怕蛇、打針）產生不合理的強烈恐懼與迴避行為。\n\n【選項詳解】\n- A.  光照治療(light therapy)：主要用於治療季節性情緒失調（SAD，季節性憂鬱症），對恐懼症無療效。\n- B.  電痙攣治療(electro-convulsive therapy)：ECT 主要用於重度頑固性憂鬱症、重度躁症、僵直症（catatonia）或具強烈自殺傾向之急症，不適用於特定畏懼症。\n- C. 行為治療(behavior therapy)：正確（最有效）。對於特定畏懼症，心理治療中的行為治療（特別是「暴露療法 exposure therapy」，包括系統減敏感法或洪水法）是臨床證實「最常用且最有效」的第一線黃金標準治療，能重塑大腦的制約反應。\n- D.  抗精神病劑(antipsychotics)治療：主要用於治療思覺失調症或躁症發作，非畏懼症的常規治療，且副作用大。\n\n【核心考點】\n特定畏懼症（Specific Phobia）的治療原則：心理治療中的行為治療（特別是暴露療法 exposure therapy）為首選且最具成效之方式；藥物（如抗焦慮藥）僅作為短期或輔助使用。",
+      "key_point": "特定畏懼症首選且最有效的治療為行為治療（特別是暴露療法），可有效降低對特定情境或物體的不合理恐懼與迴避。",
+      "flashcard_front": "特定畏懼症 (specific phobia) / 第一線核心治療方法 / 藥物與電痙攣角色",
+      "flashcard_back": "行為治療（特別是系統減敏感與暴露療法）是首選且最有效的治療。抗精神病藥、電痙攣或光照治療對本病無常規適應症。",
+      "flashcard_summary": "特定畏懼症首選治療 -> 行為治療(系統減敏感/暴露療法 exposure therapy)，藥物非第一線",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n吳小姐突然出現劇烈心悸、呼吸困難、頭暈，並伴隨強烈的死亡恐懼（覺得快要死掉），急診心血管與實驗室檢查皆正常。發作在30分鐘內達到高峰並緩解，且在一個月內反覆發作多次。\n\n【選項詳解】\n- A.  泛焦慮症：泛焦慮症（GAD）特徵是針對多種日常事件產生「持續性（持續至少6個月）、慢性的過度擔憂與焦慮」，非突發性、短暫且伴隨瀕死感的強烈發作（panic attacks）。\n- B.  強迫症：強迫症（OCD）是以反覆出現的強迫觀念與強迫行為為特徵，與突發性自主神經興奮引起的瀕死發作無直接關係。\n- C. 恐慌症：正確。吳小姐的症狀是典型的「恐慌發作（panic attack）」。當患者反覆出現非預期性的恐慌發作，並伴隨後續對發作的持續擔憂（預期焦慮）或行為改變，且已排除軀體疾病（如二尖瓣脫垂、甲狀腺亢進）時，診斷為恐慌症（panic disorder）最適當。\n- D.  適應障礙症合併焦慮症狀：適應障礙症必須有明確的社會心理壓力源，且症狀通常在壓力源出現3個月內發生，不以反覆突發性的瀕死恐慌發作為核心診斷特徵。\n\n【核心考點】\n恐慌症（Panic disorder）的臨床特徵：反覆突發的恐慌發作，伴隨強烈自主神經症狀（心悸、呼吸困難、頭暈）與瀕死感（害怕死掉），通常在數十分鐘內達到高峰並緩解，需排除身體器質性疾病。",
+      "key_point": "反覆突發、具有瀕死感且排除軀體疾病的劇烈焦慮發作（通常持續約30分鐘），是恐慌症（Panic Disorder）的特徵表現。",
+      "flashcard_front": "恐慌發作 (panic attack) / 典型症狀與發作時程 / 恐慌症 (panic disorder) 診斷要件",
+      "flashcard_back": "表現為突發強烈恐懼與自主神經症狀（心悸、窒息感、頭暈、瀕死感），多在10分鐘內達高峰，30分鐘內緩解。反覆發作且有預期焦慮診斷為恐慌症。",
+      "flashcard_summary": "恐慌症 -> 反覆突發瀕死感 + 強烈自主神經症狀(心悸/喘/暈) + 持續約20-30分鐘 + 排除軀體疾病(心血管/甲狀腺)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考重度憂鬱症（MDD）的 DSM-5 診斷標準、非典型症狀表現及臨床藥物治療原則（特別是抗憂鬱劑的停藥時機與安全性）。\n\n【選項詳解】\n- A.  至少會有憂鬱情緒(depressed mood)或失去興趣(loss of interest)的其中一項：適當。根據 DSM-5，重度憂鬱症的9項診斷標準中，患者必須符合至少5項，且「必須包含」憂鬱情緒或失去興趣/無快感症的至少其中一項。\n- B.  可能會出現食慾增加、睡眠增加的生理變化：適當。此為「非典型憂鬱特徵」，患者會出現食慾增加（暴食）與睡眠過多，與典型憂鬱的食慾下降及失眠相反。\n- C. 考慮抗憂鬱劑之成癮風險,治療4到6週後,憂鬱症狀一旦緩解,宜及早停藥：最不適當（正確答案）。首先，抗憂鬱劑（如 SSRI）並無傳統精神科藥物（如 BZD）的成癮性。其次，憂鬱症緩解後若「及早停藥」，會面臨極高的「復發風險」。臨床規範要求，憂鬱症首次發作緩解後，必須進行「維持期治療」至少 4 至 9 個月，中重度或反覆發作者甚至需服藥數年。\n- D. 三環抗憂鬱劑過量時會有致死的危險性;血清素再吸收抑制劑(SSRI)則較為安全：適當。三環抗憂鬱劑（TCA）過量會導致嚴重的抗膽鹼毒性、癲癇及心臟毒性（阻斷鈉通道引起 QTc 延長與心律不整致死）。而選擇性血清素再吸收抑制劑（SSRI）的安全劑量範圍寬，過量致死風險顯著較低。\n\n【核心考點】\n憂鬱症診斷與治療原則：核心症狀為憂鬱情緒或失去興趣；抗憂鬱藥無成癮性，症狀緩解後仍需維持治療 4-9 個月以防復發（不可及早停藥）；TCA 過量具致命心臟毒性，SSRI 較安全。",
+      "key_point": "抗憂鬱劑不具成癮性，為防止憂鬱症復發，症狀緩解後仍需維持治療至少 4-9 個月，不可及早停藥；TCA 過量有致命心臟毒性，SSRI 安全度較高。",
+      "flashcard_front": "重度憂鬱症 (MDD) 診斷 / 抗憂鬱劑成癮性誤區與維持期治療時程 / TCA vs. SSRI 過量安全性對比",
+      "flashcard_back": "抗憂鬱劑無成癮性。為防復發，症狀緩解後必須維持用藥至少 4-9 個月（不可立即停藥）。TCA過量因鈉通道阻斷具致命心臟毒性，SSRI安全。",
+      "flashcard_summary": "抗憂鬱藥物規範 -> 無成癮性，緩解後需維持用藥4-9個月防止復發，不可及早停藥；非典型憂鬱症 -> 食慾增加、睡眠增加",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n慢性疲勞症候群（CFS，又稱肌痛性腦脊髓炎 ME）是以持續或反覆發作、無法因休息而緩解的嚴重疲勞為特徵的排除性診斷疾病。\n\n【選項詳解】\n- A. 有淋巴結痛(tender lymph nodes)則可排除此症候群：錯誤。淋巴結痛（特別是頸部或腋下淋巴結壓痛）是 CFS 的常見伴隨診斷症狀之一，非排除條件。\n- B. 需鑑別感染引起之疲勞：臨床上，許多慢性感染（如慢性活動性 EB 病毒感染、萊姆病等）會引起長期且嚴重的疲勞症狀。因此，在診斷慢性疲勞症候群（CFS）這類排除性疾病之前，必須仔細鑑別並排除其他已知的感染性病因。\n- C. 適度休息可以改善症狀：錯誤。CFS 核心定義特徵即為「無法透過休息或睡眠得到明顯改善」，且常在稍微進行體力或腦力活動後出現嚴重的持續性疲憊感（post-exertional malaise, PEM）。\n- D. 僅少數個案可能符合重鬱症診斷：錯誤。CFS 與重度憂鬱症（MDD）有高度重疊的臨床特徵（如疲勞、失眠、注意力不集中），研究顯示，高達半數或以上的 CFS 患者在病程中可能同時符合重鬱症的診斷標準，需小心鑑別與共病處理。\n\n【核心考點】\n慢性疲勞症候群（CFS/ME）的診斷核心：排除性診斷，需與慢性感染、重鬱症等疾病鑑別。核心特徵為持續6個月以上且無法經休息緩解的疲勞，常伴隨淋巴結壓痛。",
+      "key_point": "慢性疲勞症候群（CFS）為排除性診斷，必須先與慢性感染、重鬱症等引起的長期疲勞做鑑別；其核心特徵為無法透過休息改善症狀。",
+      "flashcard_front": "慢性疲勞症候群 (CFS / ME) / 診斷標準與排除性原則 / 與慢性感染及休息之關係",
+      "flashcard_back": "持續或反覆發作大於6個月、無法因休息緩解的疲勞。診斷前必須排除並鑑別慢性感染與重鬱症。常伴有淋巴結壓痛、肌肉痛與活動後疲憊(PEM)。",
+      "flashcard_summary": "慢性疲勞症候群(CFS) -> 持續≥6個月、無法因休息緩解的疲勞 + 伴有淋巴結痛/肌肉關節痛/PEM；診斷需排除慢性感染及重鬱症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考阿茲海默症（AD）的生物標記分類與診斷應用，主要是 NIA-AA 提出的 ATN 診斷框架（A：類澱粉蛋白，T：Tau蛋白，N：神經退化）。\n\n【選項詳解】\n- A. apolipoprotein E4基因是阿茲海默症必要且充分病因,所以可以當作診斷標記：錯誤。ApoE4 基因只是晚發性散發性 AD 最強烈的「遺傳危險因子」，它既非必要病因，亦非充分病因，不能作為診斷標記。\n- B. 類澱粉蛋白相關(amyloid-based)的標記具有早期診斷價值：最適當（正確答案）。大腦類澱粉蛋白斑塊的異常沈積是 AD 病理生理進程中最早發生的事件，通常在臨床症狀出現前 15 至 20 年即開始，因此具有極高的早期診斷與預防價值。\n- C. 類澱粉蛋白相關(amyloid-based)的標記包括陽性類澱粉蛋白正子攝影(positron emission tomography)與較高濃度的腦脊髓液amyloid beta-42濃度：錯誤。當大腦類澱粉蛋白異常沉積時，CSF 中的游離 amyloid beta-42（Aβ42）濃度會因為沉積在大腦中而「降低」，而非較高濃度。\n- D. 腦部磁振造影掃描顯示海馬迴體積減少是類澱粉蛋白相關(amyloid-based)的標記：錯誤。MRI 顯示顳葉內側/海馬迴萎縮是代表「神經元損傷/退化（N）」的標記，而非直接代表類澱粉蛋白（A）的標記。\n\n【核心考點】\n阿茲海默症（AD）生物標記分類（ATN 框架）：(1) 類澱粉蛋白（A）：Amyloid-PET 陽性或 CSF Aβ42 降低（早期診斷價值）；(2) Tau 蛋白（T）：Tau-PET 或 CSF p-Tau 升高；(3) 神經退化（N）：MRI 海馬迴萎縮或 FDG-PET 代謝降低。ApoE4 僅為危險因子而非診斷標記。",
+      "key_point": "大腦類澱粉蛋白（Amyloid）異常沉積是 AD 最早期的病理變化（可表現為 Amyloid-PET 陽性與 CSF Aβ42 降低），具早期診斷價值；海馬迴萎縮則屬於神經退化（N）標記。",
+      "flashcard_front": "阿茲海默症 (AD) ATN 生物標記系統 / Aβ42 腦脊髓液濃度改變 / 海馬迴萎縮與 ApoE4 的診斷歸類",
+      "flashcard_back": "類澱粉蛋白（A）標記：Amyloid-PET 陽性或 CSF Aβ42 「降低」，具早期診斷價值。海馬迴萎縮屬神經退化（N）標記。ApoE4 僅為風險基因。",
+      "flashcard_summary": "AD生物標記(ATN) -> A(類澱粉): Amyloid-PET陽性、CSF Aβ42降低(早期診斷最重要)；T(Tau): CSF p-Tau升高；N(退化): MRI海馬迴萎縮",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\nWernicke-Korsakoff 症候群是因長期酗酒導致維生素B1（thiamine，硫胺素）嚴重缺乏引起的神經精神急症。\n\n【選項詳解】\n- A. 出現的初期,應給與大劑量的thiamine：最適當（正確答案）。Wernicke腦病變（WE）是醫療急症，懷疑此診斷時，必須「立即給予大劑量靜脈注射 Thiamine」（通常為 500 mg iv, tid 治療數天，且必須在給予任何葡萄糖液之前注射，以防葡萄糖代謝耗盡殘留的 thiamine 導致病情惡化）。\n- B.  Wernicke's encephalopathy即使在治療後,幾乎會發展成Korsakoff's syndrome：錯誤。早期診斷並立即給予足量 thiamine 治療，可完全逆轉 Wernicke 腦病變的急性症狀，有效預防其發展為慢性的、不可逆的 Korsakoff 遺忘症候群。\n- C.  其眼球動作異常(ocular motility abnormality),經常只涉及單側眼睛,若涉及雙側眼睛,也是對稱的表現：錯誤。眼外肌麻痺和眼震通常是「雙側且不對稱」的，最常侵犯外展神經（VI）導致雙側外展受限。\n- D.  出現短期記憶(short-term memory)障礙,其神經病理學上主要和顳葉受損有關：錯誤。Korsakoff 症候群的病理損傷特徵性地位於「間腦（diencephalon）」，特別是「乳頭體（mammillary bodies）」與視丘內側背核，而非顳葉。\n\n【核心考點】\nWernicke-Korsakoff 症候群的病理與急救：因維生素 B1缺乏所致。急性期為 Wernicke 腦病變（眼外肌麻痺、共濟失調、意識混亂三聯徵），必須立即靜脈補給大劑量 thiamine（在給糖之前）。慢性期為 Korsakoff 遺忘症，病理特徵為乳頭體（mammillary body）萎縮。",
+      "key_point": "Wernicke腦病變是因維生素 B1 缺乏所致，必須立即給予大劑量靜脈 Thiamine（在輸注葡萄糖之前）以防惡化為不可逆的 Korsakoff 症候群；Korsakoff 的病理特徵是乳頭體萎縮。",
+      "flashcard_front": "Wernicke-Korsakoff 症候群 / 急性期與慢性期區分 / 維生素 B1 (Thiamine) 急救順序與病理受損結構",
+      "flashcard_back": "急性 Wernicke：眼震/眼肌麻痺、失調、混亂。須在葡萄糖前給大劑量 Thiamine。慢性 Korsakoff：短期記憶障礙、虛構症，病理見乳頭體萎縮。",
+      "flashcard_summary": "Wernicke腦病變 -> 急性三聯徵(眼肌麻痺、共濟失調、混亂) + 立即IV給予大劑量Thiamine(給糖前)；Korsakoff -> 慢性記憶障礙，乳頭體(mammillary body)受損",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n中樞神經興奮劑（如安非他命、古柯鹼）會顯著增加突觸間多巴胺與去甲腎上腺素濃度，誘發強烈的精神症狀與成癮/戒斷綜合徵。\n\n【選項詳解】\n- A. 中毒會產生失眠及睡眠剝奪(sleep deprivation),戒斷時期會產生嗜睡及夢魘(nightmare)：適當。中毒期因交感神經與多巴胺高度興奮導致精力過剩、失眠；戒斷期則出現相反的生理反應：極度疲倦、嗜睡、夢魘及食慾增加。\n- B.  誘發焦慮症狀,可發生在中毒期及戒斷期：適當。興奮劑中毒時會因去甲腎上腺素飆升引發驚恐、焦慮；戒斷時也會因為遞質耗竭引發顯著的焦慮與煩躁。\n- C.  誘發的幻覺以幻聽為主,而視幻覺及觸幻覺較不常見：適當。興奮劑誘發的精神病與思覺失調症類似，以幻聽及被害妄想最為常見，觸幻覺（如皮下蟲爬感）雖然具特異性，但整體盛行率仍低於幻聽。\n- D. 安非他命誘發的焦慮症以及精神疾病,皆須長期接受抗精神病藥物或抗焦慮劑治療,至少一年：最不適當（正確答案）。興奮劑/安非他命誘發的精神病與焦慮症通常是「短暫且具自限性」的，主要在毒物排除後即可自行緩解（多在數天至數週內消退）。藥物治療主要是急性期的短期對症處理，絕大多數患者不需常規接受長達一年的長期抗精神病藥或抗焦慮藥維持治療，除非患者已發展為慢性的精神病。\n\n【核心考點】\n中樞興奮劑中毒與戒斷生理：中毒期表現為興奮、失眠、幻覺妄想（以幻聽為主）；戒斷期呈崩潰狀態（嗜睡、抑鬱、夢魘）。毒性誘發的精神症狀通常隨排毒迅速消退，不需長期（一年）服藥。",
+      "key_point": "安非他命等興奮劑誘發的精神病通常在毒物排泄後幾天至幾週內自限性消退，急性期給予短期對症藥物即可，不需常規進行長達一年的長期藥物維持治療。",
+      "flashcard_front": "中樞興奮劑 (安非他命) / 中毒精神症狀與戒斷反應 (crash) / 誘發精神病之預後與用藥時限",
+      "flashcard_back": "中毒：興奮、失眠、幻聽（觸幻覺較少）。戒斷：嗜睡、夢魘、焦慮。誘發精神病為短暫自限性，不需常規服藥一年，通常隨毒物排出自癒。",
+      "flashcard_summary": "安非他命精神病 -> 幻聽為主(觸幻覺/蟲爬感較少) + 屬短暫自限性 + 不需長期(一年)維持服藥；戒斷期呈嗜睡、夢魘、抑鬱",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-4_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n譫妄（delirium）是一種急性發作、具有波動性的認知與注意力障礙。其病因分析常區分為：(1) 患者本身的易感性/基礎條件，即「前置因子（predisposing factors）」；(2) 觸發急性發作的急性事件，即「誘發因子（precipitating factors）」\n\n【選項詳解】\n- A. 病患的年齡性別,可能是前置因子(predisposing factor)：適當。高齡與男性是發生譫妄極為明確的個人基礎「前置因子」。\n- B.  術前使用的上述兩類藥物可能是前置因子(predisposing factor)：適當。抗膽鹼藥（使中樞膽鹼能低下）與安眠藥（如 BZD）是誘發譫妄的高風險藥物，術前長期使用這些藥物會顯著降低大腦功能儲備，屬於基礎「前置因子」。\n- C. 加護病房的環境可能是前置因子(predisposing factor)：最不適當（正確答案）。加護病房的環境（如缺乏光線日夜顛倒、持續噪音、睡眠剝奪、身體約束等）是觸發譫妄急性發作的典型「誘發因子（precipitating factor）」，而非前置因子。\n- D.  髖關節手術可能是誘發因子(precipitating factor)：適當。大手術、麻醉、術後疼痛以及尿管留置等，皆為直接觸發急性譫妄發作的「誘發因子」。\n\n【核心考點】\n譫妄（Delirium）的病因學架構：(1) 前置因子（Predisposing）：高齡、男性、失智症、多重用藥（如抗膽鹼藥）；(2) 誘發因子（Precipitating）：手術/麻醉、重症加護病房環境、感染（如尿管感染）、疼痛、睡眠剝奪。",
+      "key_point": "譫妄病因分析中，高齡與抗膽鹼/安眠藥多重用藥為前置因子（Predisposing factor）；加護病房的環境刺激與手術則為觸發急性譫妄的誘發因子（Precipitating factor）。",
+      "flashcard_front": "譫妄 (delirium) 病因多因子模型 / 前置因子 (predisposing) vs. 誘發因子 (precipitating) / 藥物與加護病房環境之角色定位",
+      "flashcard_back": "前置因子（基礎高危）：高齡、男性、術前使用抗膽鹼/安眠藥。誘發因子（急性觸發）：髖關節手術、尿管留置、加護病房環境（非前置）。",
+      "flashcard_summary": "譫妄病因架構 -> 前置因子(高齡、男性、失智、術前藥物)；誘發因子(ICU環境、手術、尿管感染、疼痛、睡眠剝奪)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T14:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問新藥臨床試驗分期中何者錯誤，需分清一期偏安全與耐受性、二期偏初步療效與劑量探索、三期偏大規模確證、四期為上市後監測。官方答案為 B，判斷重點在於二期臨床試驗通常仍需要適當對照設計來初步評估療效，不能簡化成完全不需要比較。\n\n【選項詳解】\n- A. 正確。一期臨床試驗通常先在少數健康志願者進行，主要評估安全性、耐受性、藥物動力學，並探索最大耐受劑量；高毒性抗癌藥等例外可直接納入病人。\n- B. 錯誤。二期試驗會納入目標疾病病人，用來初步確認療效、劑量反應與安全性；雖然比較方式可依疾病與倫理而不同，但通常仍需安慰劑、劑量組或標準治療等對照，不能籠統說不需與有效治療作比較。\n- C. 正確。三期試驗是在較多病人中進行確證性研究，常根據一、二期結果選定推薦劑量，再與安慰劑或標準治療比較療效與安全性，因此多數情境下不是重新大範圍探索多個劑量。\n- D. 正確。四期試驗屬於藥品上市後研究或監測，用來追蹤真實世界長期療效、罕見不良反應、特殊族群使用經驗與風險管理。\n\n【核心考點】\n臨床試驗分期可用「一期安全、二期初效與劑量、三期大規模確證、四期上市後監測」記憶。若題目問二期試驗，重點是初步療效與合理對照設計，而不是完全不需要比較。\n\n補充提醒：官方答案選 B；但二期試驗是否必須使用現行有效藥作 active comparator，會依疾病、倫理與試驗目的而異，建議人工複核題目用語。",
+      "key_point": "一期重安全與耐受性；二期在病人中看初步療效、劑量與合理對照；三期用較大樣本確證療效；四期是上市後監測。",
+      "flashcard_front": "新藥臨床試驗一期到四期的核心目的如何區分？",
+      "flashcard_back": "一期：安全性、耐受性、藥物動力學與最大耐受劑量；二期：病人中的初步療效、劑量反應與安全性；三期：大規模確證療效並比較標準治療或安慰劑；四期：上市後監測長期與罕見風險。",
+      "flashcard_summary": "臨床試驗分期 -> 一期安全、二期初步療效與劑量、三期大規模確證、四期上市後監測。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": [
+        "官方答案 B 建議人工複核：二期試驗是否必須與現行有效藥比較，依試驗目的與倫理設計可能不同。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題考 TMP-SMZ 的葉酸代謝阻斷、製劑比例、適應症與副作用來源。正確答案為 B，因 TMP 脂溶性與分布體積較大，給藥劑量需設計成 TMP:SMZ = 1:5，才能在血中形成較佳協同濃度比例。\n\n【選項詳解】\n- A. 錯誤。SMZ 是 sulfonamide，競爭性抑制 dihydropteroate synthase；TMP 則抑制 dihydrofolate reductase。兩者作用在葉酸合成的不同步驟，不是都抑制同一個酵素。\n- B. 正確。TMP 較脂溶、組織分布較廣，血中濃度相對較低；因此製劑給藥比例常為 TMP:SMZ = 1:5，以便在體內達到較適合協同抑菌的濃度比例。\n- C. 錯誤。TMP-SMZ 可用於泌尿道感染，也可用於 Pneumocystis jirovecii pneumonia 的治療與預防，尤其在免疫不全或 HIV/AIDS 病人是高產值考點。\n- D. 錯誤。TMP 可造成高血鉀、骨髓抑制等問題，但 TMP-SMZ 的皮疹、藥物熱、Stevens-Johnson syndrome、光敏感與多數磺胺過敏反應主要和 SMZ 這個磺胺成分有關。\n\n【核心考點】\nTMP-SMZ 是連續阻斷葉酸代謝的複方：SMZ 抑制 dihydropteroate synthase，TMP 抑制 dihydrofolate reductase。記住 TMP:SMZ = 1:5 的製劑比例、PCP 可治療，以及嚴重過敏多與 sulfonamide 成分相關。",
+      "key_point": "TMP-SMZ 中 SMZ 抑制 DHPS、TMP 抑制 DHFR；製劑 TMP:SMZ = 1:5 與 TMP 分布體積較大有關，且可治療 PCP。",
+      "flashcard_front": "TMP-SMZ 的作用機轉、比例與常考適應症是什麼？",
+      "flashcard_back": "SMZ 抑制 dihydropteroate synthase，TMP 抑制 dihydrofolate reductase，連續阻斷葉酸合成；製劑常為 TMP:SMZ = 1:5；可治療 UTI 與 Pneumocystis jirovecii pneumonia，嚴重過敏多與 SMZ 有關。",
+      "flashcard_summary": "TMP-SMZ -> SMZ 抑 DHPS、TMP 抑 DHFR；1:5 配方；可治 UTI 與 PCP；磺胺過敏多來自 SMZ。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題問 oxaliplatin 何者錯誤，核心在第三代鉑類藥物與 cisplatin、carboplatin 的差異。官方答案 A 錯在把 carboplatin 抗藥性直接推論為 oxaliplatin 交叉抗藥性；oxaliplatin 的 DACH 結構使其 DNA 加合物特性不同，臨床上可部分避開前代鉑類的抗藥機制。\n\n【選項詳解】\n- A. 錯誤。Oxaliplatin 含 1,2-diaminocyclohexane (DACH) 載體配位基，形成的 DNA 加合物與 cisplatin、carboplatin 不同；對 carboplatin 抗藥並不等於必然對 oxaliplatin 也交叉抗藥。\n- B. 正確。FOLFOX 由 folinic acid/leucovorin、5-fluorouracil 與 oxaliplatin 組成，是大腸直腸癌，包含轉移性大腸直腸癌，常用的重要化療方案。\n- C. 正確。Oxaliplatin 的代表性劑量限制毒性是周邊感覺神經病變，可出現冷誘發的手足麻木、刺痛或咽喉不適；這點與 cisplatin 偏腎毒性、carboplatin 偏骨髓抑制不同。\n- D. 正確。Oxaliplatin 屬於治療 solid tumor 的鉑類抗癌藥，臨床最具代表性的應用是消化道腫瘤，尤其大腸直腸癌相關療程。\n\n【核心考點】\n鉑類藥物都會造成 DNA cross-link，但各藥毒性與抗藥性不同。Oxaliplatin 常考 FOLFOX、大腸直腸癌、周邊神經毒性，以及與 cisplatin/carboplatin 不完全交叉抗藥。",
+      "key_point": "Oxaliplatin 具 DACH 結構，與 cisplatin/carboplatin 不完全交叉抗藥；常用於 FOLFOX，主要劑量限制毒性為周邊神經病變。",
+      "flashcard_front": "Oxaliplatin 與其他鉑類藥物最常考的差異是什麼？",
+      "flashcard_back": "Oxaliplatin 因 DACH 結構可部分避開 cisplatin/carboplatin 抗藥機制；常用於 FOLFOX 治療大腸直腸癌；主要劑量限制毒性是冷誘發或累積性的周邊感覺神經病變。",
+      "flashcard_summary": "Oxaliplatin -> FOLFOX、大腸直腸癌、周邊神經毒性、與前代鉑類不完全交叉抗藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題考癌症標靶藥物與作用機轉配對。正確答案為 D：sunitinib 是多靶點 tyrosine kinase inhibitor，可抑制 VEGFR，藉由抑制血管新生達到抗腫瘤效果。\n\n【選項詳解】\n- A. 錯誤。Carfilzomib 是 proteasome inhibitor，主要抑制 20S proteasome，常用於多發性骨髓瘤；抑制 Bcr-Abl tyrosine kinase 的代表藥物是 imatinib、dasatinib、nilotinib 等。\n- B. 錯誤。Dasatinib 是第二代 Bcr-Abl/Src tyrosine kinase inhibitor，治療 CML 等疾病；抑制 proteasome 的藥物是 bortezomib、carfilzomib 這一類。\n- C. 錯誤。Lapatinib 是 EGFR/HER2 tyrosine kinase inhibitor，常與 HER2 陽性乳癌相關；PI3K 抑制劑的代表不是 lapatinib。\n- D. 正確。Sunitinib 可抑制 VEGFR、PDGFR、KIT 等多種 receptor tyrosine kinases，其中 VEGFR 抑制與抗血管新生作用密切相關，臨床可用於腎細胞癌與 GIST 等。\n\n【核心考點】\n標靶藥配對要抓代表靶點：carfilzomib 抑 proteasome，dasatinib 抑 Bcr-Abl/Src，lapatinib 抑 EGFR/HER2，sunitinib 抑 VEGFR 等多種 tyrosine kinases。",
+      "key_point": "Sunitinib 是多靶點 TKI，含 VEGFR 抑制作用；carfilzomib 抑 proteasome，dasatinib 抑 Bcr-Abl/Src，lapatinib 抑 EGFR/HER2。",
+      "flashcard_front": "Carfilzomib、dasatinib、lapatinib、sunitinib 分別抑制什麼？",
+      "flashcard_back": "Carfilzomib 抑制 proteasome；dasatinib 抑制 Bcr-Abl/Src；lapatinib 抑制 EGFR/HER2；sunitinib 抑制 VEGFR、PDGFR、KIT 等多種 receptor tyrosine kinases。",
+      "flashcard_summary": "癌症標靶配對 -> sunitinib 抑 VEGFR；carfilzomib 抑 proteasome；dasatinib 抑 Bcr-Abl/Src；lapatinib 抑 EGFR/HER2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n題幹直接給出關鍵標靶：抑制真菌 squalene epoxidase，使 squalene 堆積並產生殺真菌作用。這是 allylamine 類抗黴菌藥 terbinafine 的典型機轉，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。Griseofulvin 會干擾真菌微管與有絲分裂，主要用於皮癬菌感染；它不是抑制 squalene epoxidase 的藥物。\n- B. 錯誤。Nystatin 是 polyene 類藥物，直接與真菌細胞膜的 ergosterol 結合形成孔洞，造成細胞內容物流失；它不是阻斷 ergosterol 合成上游酵素。\n- C. 正確。Terbinafine 抑制 squalene epoxidase，阻斷 ergosterol 合成早期步驟，造成 squalene 在真菌內累積並產生毒性，常用於皮膚癬菌與甲癬。\n- D. 錯誤。Voriconazole 是 azole 類抗黴菌藥，抑制 14-alpha-demethylase，阻斷 lanosterol 轉成 ergosterol；它與 terbinafine 的上游 squalene epoxidase 標靶不同。\n\n【核心考點】\n抗黴菌藥常考標靶：terbinafine 抑 squalene epoxidase，azole 類抑 14-alpha-demethylase，polyene 類直接結合 ergosterol，griseofulvin 干擾微管與有絲分裂。",
+      "key_point": "Terbinafine 抑制真菌 squalene epoxidase，使 squalene 累積並阻斷 ergosterol 合成；voriconazole 則抑制 14-alpha-demethylase。",
+      "flashcard_front": "哪一個抗黴菌藥抑制 squalene epoxidase？",
+      "flashcard_back": "Terbinafine 抑制 squalene epoxidase，使 squalene 累積並阻斷 ergosterol 合成，常用於皮癬菌與甲癬；azole 類如 voriconazole 抑制 14-alpha-demethylase。",
+      "flashcard_summary": "Terbinafine -> 抑制 squalene epoxidase；azole -> 抑制 14-alpha-demethylase；nystatin -> 結合 ergosterol。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n題幹的關鍵字是 CD25、IL-2 receptor 與腎臟移植急性排斥預防。CD25 是活化 T 細胞高親和力 IL-2 receptor 的 alpha chain；能結合 CD25 並阻斷 IL-2 訊號的藥物是 basiliximab。\n\n【選項詳解】\n- A. 正確。Basiliximab 是抗 CD25 單株抗體，阻斷 IL-2 與活化 T 細胞受體結合，抑制 T 細胞增殖與 clonal expansion，可作為腎臟移植的 induction therapy 以預防急性排斥。\n- B. 錯誤。Canakinumab 是抗 IL-1 beta 單株抗體，主要用於自體發炎症候群、部分幼年型特發性關節炎或痛風相關發炎，靶點不是 CD25。\n- C. 錯誤。Dupilumab 阻斷 IL-4 receptor alpha，抑制 IL-4 與 IL-13 訊號，常用於異位性皮膚炎、氣喘與慢性鼻竇炎合併鼻息肉等第 2 型發炎疾病。\n- D. 錯誤。Omalizumab 是抗 IgE 單株抗體，可減少 IgE 與肥大細胞、嗜鹼性球 Fc epsilon receptor 結合，常用於過敏性氣喘與慢性自發性蕁麻疹。\n\n【核心考點】\n單株抗體藥物要把名稱、靶點與適應症連起來：basiliximab 抗 CD25 用於移植排斥預防；canakinumab 抗 IL-1 beta；dupilumab 抗 IL-4 receptor alpha；omalizumab 抗 IgE。",
+      "key_point": "Basiliximab 結合 CD25，也就是 IL-2 receptor alpha chain，抑制活化 T 細胞增殖，可預防腎移植急性排斥。",
+      "flashcard_front": "哪個單株抗體結合 CD25 並用於腎移植急性排斥預防？",
+      "flashcard_back": "Basiliximab 結合活化 T 細胞表面的 CD25，也就是 IL-2 receptor alpha chain，阻斷 IL-2 驅動的 T 細胞增殖，作為腎移植 induction therapy。",
+      "flashcard_summary": "Basiliximab -> 抗 CD25/IL-2R alpha -> 預防腎移植急性排斥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題問能將 plasminogen 活化成 plasmin、促進血栓分解的藥物。這是 thrombolytic/fibrinolytic drug 的機轉；選項中 tenecteplase 是 tPA 類溶栓藥，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。Bivalirudin 是直接 thrombin inhibitor，可抑制 thrombin 將 fibrinogen 轉為 fibrin，屬於抗凝血藥；它避免血栓形成或延伸，但不直接活化 plasminogen 溶解既有血栓。\n- B. 正確。Tenecteplase 是改良型 recombinant tissue plasminogen activator，可促進 fibrin-bound plasminogen 轉為 plasmin，進而分解 fibrin clot，臨床用於特定急性血管阻塞情境的溶栓治療。\n- C. 錯誤。Apixaban 是直接 factor Xa inhibitor，抑制 thrombin 生成，屬於口服抗凝血藥；其目的不是把 plasminogen 變成 plasmin。\n- D. 錯誤。Vorapaxar 是 PAR-1 antagonist，抑制 thrombin 誘導的血小板活化與聚集，屬於抗血小板藥，與纖溶酶原活化不同。\n\n【核心考點】\n分清三類抗血栓藥：溶栓藥如 tenecteplase 活化 plasminogen 溶解 fibrin；抗凝血藥如 bivalirudin、apixaban 抑制凝血瀑布；抗血小板藥如 vorapaxar 抑制血小板活化。",
+      "key_point": "Tenecteplase 是 tPA 類溶栓藥，可活化 plasminogen 成 plasmin；bivalirudin 與 apixaban 是抗凝血藥，vorapaxar 是抗血小板藥。",
+      "flashcard_front": "Tenecteplase、bivalirudin、apixaban、vorapaxar 如何分類？",
+      "flashcard_back": "Tenecteplase 是 tPA 類溶栓藥，活化 plasminogen 成 plasmin；bivalirudin 是直接 thrombin inhibitor；apixaban 是 factor Xa inhibitor；vorapaxar 是 PAR-1 antagonist 抗血小板藥。",
+      "flashcard_summary": "Tenecteplase -> 活化 plasminogen 成 plasmin 溶栓；抗凝血與抗血小板藥不直接溶解 fibrin clot。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n題幹指定 microsomal triglyceride transfer protein (MTP) 抑制與阻斷肝臟 VLDL 生成釋放。MTP 負責把 triglyceride 裝載到 ApoB 上以組裝 VLDL；抑制 MTP 的代表藥是 lomitapide，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Lomitapide 是 MTP inhibitor，阻斷肝臟 VLDL 與腸道 chylomicron 的組裝，使 ApoB-containing lipoprotein 生成下降，可用於純合子家族性高膽固醇血症等特定情境。\n- B. 錯誤。Cholestyramine 是 bile acid sequestrant，在腸道結合膽酸並促進排出，使肝臟增加膽固醇轉為膽酸並上調 LDL receptor；它不抑制 MTP。\n- C. 錯誤。Fenofibrate 是 PPAR-alpha agonist，可增加 lipoprotein lipase 活性、降低 triglyceride 並提高 HDL，主要作用不是阻斷 ApoB 脂蛋白組裝。\n- D. 錯誤。Mipomersen 是 ApoB-100 antisense oligonucleotide，透過降低 ApoB-100 合成來減少 VLDL/LDL；它和 lomitapide 都會降低 ApoB 脂蛋白，但直接標靶不是 MTP。\n\n【核心考點】\n降血脂藥機轉要分清：lomitapide 抑制 MTP；mipomersen 抑制 ApoB-100 mRNA；cholestyramine 結合膽酸；fenofibrate 活化 PPAR-alpha 並降低 triglyceride。",
+      "key_point": "Lomitapide 抑制 MTP，阻斷 VLDL 組裝與釋放；mipomersen 抑制 ApoB-100 合成，fenofibrate 活化 PPAR-alpha，cholestyramine 結合膽酸。",
+      "flashcard_front": "哪個降血脂藥抑制 MTP 並阻斷 VLDL 生成？",
+      "flashcard_back": "Lomitapide 抑制 microsomal triglyceride transfer protein，使 triglyceride 無法有效裝載到 ApoB，降低 VLDL 與 chylomicron 組裝；mipomersen 則是抑制 ApoB-100 mRNA。",
+      "flashcard_summary": "Lomitapide -> MTP inhibitor -> 降低 VLDL 組裝；Mipomersen -> ApoB-100 antisense。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題問碘-131治療甲狀腺毒症何者錯誤。I-131 會被甲狀腺攝取並釋放 beta 射線破壞甲狀腺組織；孕婦與哺乳婦女禁用。官方答案 C 錯在哺乳婦女不能靠減量安全使用。\n\n【選項詳解】\n- A. 正確。I-131 主要藉 beta 射線造成局部甲狀腺濾泡細胞破壞，達到治療甲狀腺機能亢進的效果；其 gamma 射線則可用於偵測或影像相關用途。\n- B. 正確。孕婦禁用 I-131，因放射性碘可通過胎盤並被胎兒甲狀腺攝取，可能造成胎兒甲狀腺破壞與發育風險。\n- C. 錯誤。I-131 會分泌到乳汁並可能被嬰兒甲狀腺攝取，哺乳期間不能以減量方式使用；若必須接受治療，需依醫囑停止哺乳並避免嬰兒暴露。\n- D. 正確。Potassium iodide 或大量非放射性碘會競爭甲狀腺對 I-131 的攝取，降低放射性碘進入甲狀腺組織的量，因此會削弱療效。\n\n【核心考點】\nI-131 治療靠 beta 射線破壞甲狀腺，妊娠與哺乳是重要禁忌；大量非放射性碘會競爭攝取，使 I-131 治療效果下降。",
+      "key_point": "I-131 以 beta 射線破壞甲狀腺；孕婦與哺乳婦女禁用，不能減量哺乳；KI 會競爭碘攝取並降低療效。",
+      "flashcard_front": "I-131 治療甲狀腺毒症的禁忌與交互作用是什麼？",
+      "flashcard_back": "I-131 被甲狀腺攝取後釋放 beta 射線破壞濾泡；孕婦與哺乳婦女禁用；potassium iodide 或大量非放射性碘會競爭甲狀腺攝取 I-131，降低療效。",
+      "flashcard_summary": "I-131 -> beta 射線破壞甲狀腺；孕婦、哺乳禁用；KI 競爭攝取而降低療效。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n題幹要找 aldosterone antagonist，且可用於高血壓與心肌梗塞後心衰竭。Eplerenone 是較具選擇性的 mineralocorticoid receptor antagonist，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Eplerenone 拮抗 aldosterone 作用，降低遠端腎小管與集尿管的鈉水再吸收並保留鉀離子，也可減少醛固酮造成的心肌纖維化與心室重塑；臨床可用於高血壓與心肌梗塞後合併左心室功能不全的心衰竭。\n- B. 錯誤。Etoposide 是 topoisomerase II inhibitor，屬於抗癌化療藥，常見於小細胞肺癌、睪丸癌等治療組合，與醛固酮受體拮抗無關。\n- C. 錯誤。Mestranol 是合成雌激素前驅藥，會轉為 ethinyl estradiol，用於口服避孕藥相關製劑，不是利尿或心衰竭用的 aldosterone antagonist。\n- D. 錯誤。Oxandrolone 是合成同化性類固醇，可用於特定消耗狀態或體重增加需求，並非 mineralocorticoid receptor antagonist。\n\n【核心考點】\nAldosterone antagonist 包括 spironolactone 與 eplerenone；eplerenone 對 mineralocorticoid receptor 較選擇性，較少抗雄性素或黃體素相關副作用，常考高血壓與心肌梗塞後心衰竭。",
+      "key_point": "Eplerenone 是選擇性 mineralocorticoid receptor antagonist，可用於高血壓與心肌梗塞後心衰竭；etoposide、mestranol、oxandrolone 分別屬化療藥、雌激素與同化性類固醇。",
+      "flashcard_front": "Eplerenone 的藥理分類與主要用途是什麼？",
+      "flashcard_back": "Eplerenone 是選擇性 aldosterone/mineralocorticoid receptor antagonist，可促進鈉水排出、保留鉀離子，並減少醛固酮相關心室重塑；用於高血壓與心肌梗塞後心衰竭。",
+      "flashcard_summary": "Eplerenone -> 選擇性醛固酮拮抗劑；用於高血壓與心肌梗塞後心衰竭；較少內分泌副作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:30:44+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

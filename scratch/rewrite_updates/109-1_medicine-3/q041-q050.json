@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-3.json",
+  "dataset_id": "109-1_medicine-3",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-3_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題比較不同胚系基因變異對卵巢癌的終生風險。BRCA1 帶因者的卵巢癌風險高於 BRCA2，也高於 Lynch syndrome 相關 mismatch repair 基因與 CHEK2，因此選 A。\n\n【選項詳解】\n- A. 正確。BRCA1 是同源重組 DNA 修補基因，病理性胚系變異會大幅增加高級別漿液性卵巢癌、輸卵管癌與原發性腹膜癌風險，終生風險常被估計約三至五成，為本題四個選項中最高。\n- B. 錯誤。BRCA2 也會增加卵巢癌風險，但平均風險低於 BRCA1；BRCA2 在乳癌、卵巢癌、胰臟癌與攝護腺癌風險上都重要，但卵巢癌風險排序通常排在 BRCA1 之後。\n- C. 錯誤。MSH2 屬於 Lynch syndrome 的 mismatch repair 基因，與大腸癌、子宮內膜癌及部分卵巢癌風險增加有關，但卵巢癌累積風險通常低於 BRCA1。\n- D. 錯誤。CHEK2 是 DNA damage checkpoint 相關基因，較常與乳癌等風險討論相關；它造成卵巢癌風險的幅度不如 BRCA1 明確且顯著。\n\n【核心考點】\n遺傳性卵巢癌風險排序要先想到 BRCA1，其次才是 BRCA2；Lynch syndrome 基因可增加卵巢癌風險，但不是四個選項中最高者。",
+      "key_point": "卵巢癌遺傳風險在常考基因中以 BRCA1 最高，BRCA2 次之，Lynch syndrome 相關基因通常較低。",
+      "flashcard_front": "卵巢癌遺傳風險最高的常考基因",
+      "flashcard_back": "BRCA1；其卵巢癌終生風險通常高於 BRCA2、MSH2 與 CHEK2。",
+      "flashcard_summary": "遺傳性卵巢癌 -> BRCA1 風險最高，BRCA2 次之，Lynch 相關基因較低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n題目問的是「不是」子宮內膜癌危險因子的選項。第一型子宮內膜癌與長期、未受黃體素拮抗的雌激素刺激有關；progestin 會抑制子宮內膜增生，因此選 D。\n\n【選項詳解】\n- A. 錯誤。肥胖會讓脂肪組織中的 aromatase 增加周邊雄性素轉化為 estrogen，造成長期雌激素刺激子宮內膜，是子宮內膜增生與子宮內膜癌的危險因子。\n- B. 錯誤。Tamoxifen 在乳房組織是 estrogen receptor antagonist，但在子宮內膜可呈現部分 agonist 效應，會增加子宮內膜增生、息肉與子宮內膜癌風險。\n- C. 錯誤。停經後若有子宮而單獨補充 estrogen，缺少 progestin 對子宮內膜的拮抗，會提高子宮內膜癌風險；因此合併子宮者通常要考慮加上 progestin 保護內膜。\n- D. 正確。Progestin 可使子宮內膜分泌化、抑制 estrogen 造成的增生，臨床上可用於部分子宮內膜增生或早期內膜癌的保守治療情境；它不是典型危險因子。\n\n【核心考點】\n子宮內膜癌的高產考點是「unopposed estrogen」；肥胖、tamoxifen、單用 estrogen 會增加風險，而 progestin 對內膜多具保護作用。",
+      "key_point": "子宮內膜癌風險來自未受黃體素拮抗的 estrogen；progestin 可抑制內膜增生。",
+      "flashcard_front": "子宮內膜癌：哪一類荷爾蒙暴露增加風險？",
+      "flashcard_back": "未受 progestin 拮抗的 estrogen 增加風險；progestin 通常保護子宮內膜。",
+      "flashcard_summary": "子宮內膜癌 -> unopposed estrogen 是危險因子，progestin 不是",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n題目問 COPD 敘述何者錯誤。COPD 發炎以 neutrophils、macrophages 與 CD8+ T lymphocytes 為主，部分病人也可見 eosinophilic inflammation；B 說完全沒有 T lymphocytes 或 eosinophils 參與，因此選 B。\n\n【選項詳解】\n- A. 錯誤。抽菸是 COPD 最重要危險因子，生質燃料與空氣污染也會造成慢性氣道傷害；alpha-1 antitrypsin deficiency 等基因因素可導致年輕或家族性肺氣腫。\n- B. 正確。COPD 的發炎細胞不只 neutrophils 與 macrophages；CD8+ T lymphocytes 參與小氣道與肺實質破壞，部分患者的 eosinophil 較高且會影響吸入型類固醇反應。\n- C. 錯誤。COPD 與慢性氣喘都可能有咳嗽、喘鳴與阻塞型肺功能表現；有些患者呈現 asthma-COPD overlap，臨床與 spirometry 需要合併病史、可逆性、過敏背景與暴露史判讀。\n- D. 錯誤。COPD 穩定期治療以長效支氣管擴張劑為基礎；急性惡化風險高、血中 eosinophil 較高或合併氣喘特徵者，可考慮加用吸入型類固醇。\n\n【核心考點】\nCOPD 不是單純 neutrophil-macrophage 發炎；CD8+ T cells 是重要參與者，eosinophil 則與部分表型及類固醇反應相關。",
+      "key_point": "COPD 發炎細胞包括 neutrophils、macrophages、CD8+ T cells，部分患者有 eosinophils。",
+      "flashcard_front": "COPD 發炎細胞有哪些？",
+      "flashcard_back": "Neutrophils、macrophages、CD8+ T lymphocytes；部分病人可有 eosinophils。",
+      "flashcard_summary": "COPD -> 不只 neutrophil/macrophage，也有 CD8+ T cell 與部分 eosinophil",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題考前縱膈腔常見腫瘤。成人前縱膈腔常用 4T 記憶：thymoma、teratoma/germ cell tumor、thyroid mass、terrible lymphoma；選項中符合者為 thymoma。\n\n【選項詳解】\n- A. 錯誤。食道位於後縱膈腔偏中線後方，食道腫瘤造成的腫塊位置通常不是前縱膈腔常見腫瘤鑑別。\n- B. 錯誤。神經性腫瘤多來自交感神經鏈或肋間神經等神經組織，典型位置在後縱膈腔，兒童與成人都常作為後縱膈腔腫瘤代表。\n- C. 正確。胸腺位於前縱膈腔，胸腺瘤是成人前縱膈腔腫瘤的重要代表，並可與重症肌無力、純紅血球再生不良等副腫瘤表現相關。\n- D. 錯誤。支氣管囊腫是 foregut duplication cyst，常位於中縱膈腔、氣管或主支氣管附近，不是成人前縱膈腔常見腫瘤代表。\n\n【核心考點】\n前縱膈腔腫瘤看 4T：thymoma、teratoma/germ cell tumor、thyroid mass、lymphoma；神經性腫瘤偏後縱膈腔，支氣管囊腫偏中縱膈腔。",
+      "key_point": "成人前縱膈腔常見腫瘤包括 thymoma、teratoma、thyroid mass、lymphoma。",
+      "flashcard_front": "成人前縱膈腔腫瘤 4T",
+      "flashcard_back": "Thymoma、teratoma/germ cell tumor、thyroid mass、terrible lymphoma。",
+      "flashcard_summary": "前縱膈腔 -> 4T；選項中 thymoma 最典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題問間皮瘤何者正確。Mesothelioma 最常見於胸膜且多為惡性，診斷通常需要組織切片與免疫染色；但臨床病理分類中可見少數良性或低惡性度的間皮性腫瘤，因此選 D。\n\n【選項詳解】\n- A. 錯誤。Pleural mesothelioma 遠比 peritoneal mesothelioma 常見，與 asbestos 暴露的關聯尤其典型；腹膜間皮瘤屬較少見表現。\n- B. 錯誤。胸水或腹水 cytology 可提供線索，但單靠細胞學常難與 reactive mesothelial proliferation 或 metastatic adenocarcinoma 區分，通常需要胸膜或腹膜切片、免疫組織化學與臨床影像整合。\n- C. 錯誤。惡性間皮瘤預後差，常在診斷時已局部侵犯或瀰漫分布；中位存活期多以月到約一兩年討論，說預後良好且中位存活 3 年過度樂觀。\n- D. 正確。雖然考試與臨床提到 mesothelioma 多指 malignant mesothelioma，但少數間皮性腫瘤可呈良性或低惡性度行為，例如部分 localized benign mesothelial tumors；因此「少部分為良性」可作為本題正確敘述。\n\n【核心考點】\n間皮瘤以胸膜惡性間皮瘤最常考：胸膜多於腹膜、cytology 不足以單獨確診、整體預後差；題目若問例外，可記得少數間皮性腫瘤可為良性或低惡性度。",
+      "key_point": "Mesothelioma 多為胸膜惡性病灶，診斷仰賴組織與免疫染色；少數間皮性腫瘤可為良性或低惡性度。",
+      "flashcard_front": "間皮瘤：常見部位、診斷、預後",
+      "flashcard_back": "胸膜多於腹膜；cytology 通常不足，需組織與免疫染色；惡性間皮瘤預後差，但少數間皮性腫瘤可為良性。",
+      "flashcard_summary": "Mesothelioma -> 胸膜最常見、需組織診斷、惡性預後差、少數良性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n肺尖病灶在一般 PA chest film 上容易被鎖骨、第一肋骨與肩胛骨影像重疊遮住。Apical lordotic view 可把鎖骨投影移到肺尖上方，較適合評估肺尖病灶，因此選 D。\n\n【選項詳解】\n- A. 錯誤。PA view 是胸部 X 光基本照法，可做初步篩檢，但肺尖區常被鎖骨與上肋骨遮蔽，小病灶或 Pancoast tumor 相關陰影可能不清楚。\n- B. 錯誤。Lateral view 可幫助定位前後縱膈腔、肺葉或胸骨後空間病灶，但不是專門把肺尖從鎖骨遮蔽中顯影的照法。\n- C. 錯誤。Lateral decubitus view 主要用於偵測少量肋膜積液是否可流動，或評估氣胸等重力相關變化，與肺尖病灶顯影目的不同。\n- D. 正確。Lordotic view 讓病人後仰或調整 X 光束角度，使鎖骨投影上移，暴露肺尖與鎖骨下區域，常用於評估 apical lesion。\n\n【核心考點】\n肺尖病灶被鎖骨遮住時，選 apical lordotic view；lateral decubitus 是看肋膜液體是否隨姿勢移動。",
+      "key_point": "評估肺尖病灶最適合 apical lordotic view，可減少鎖骨遮蔽。",
+      "flashcard_front": "肺尖病灶要加照哪種 chest X-ray view？",
+      "flashcard_back": "Lordotic view；可把鎖骨投影移開，讓 lung apices 更清楚。",
+      "flashcard_summary": "肺尖病灶 -> lordotic view；肋膜積液可流動性 -> lateral decubitus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n這位長期抽菸、有慢性咳嗽與喘鳴的病人，血氣呈 pH 7.274、pCO2 78 mmHg、HCO3- 36 mEq/L，表示慢性 CO2 滯留上發生急性惡化，合併低氧與急性呼吸性酸中毒。意識清楚、血壓穩定時，給氧後應先用吸入支氣管擴張劑並考慮 NIV/BiPAP，因此選 D。\n\n【選項詳解】\n- A. 錯誤。這是主要由低通氣造成的呼吸性酸中毒，問題在 CO2 排不出；重碳酸鈉不會改善通氣，反而可能增加 CO2 負荷，除非有特殊代謝性酸中毒情境才會另外考慮。\n- B. 錯誤。病人意識清楚、血壓穩定，尚未出現無法保護呼吸道、休克或 NIV 失敗等插管指標；且 COPD 慢性 CO2 滯留者不應急速把 pCO2 矯正到 40 mmHg，以免造成鹼中毒與血流動力問題。\n- C. 錯誤。Aminophylline 治療窗窄，容易造成心律不整、抽搐、噁心嘔吐等毒性；COPD 急性惡化的一線支氣管擴張治療是吸入型短效 beta-agonist 與 anticholinergic。\n- D. 正確。吸入型支氣管擴張劑可改善氣流阻塞；NIV 可降低呼吸功、改善 alveolar ventilation、協助排 CO2，適合清醒合作且有 COPD 急性高碳酸血症呼吸衰竭的病人。\n\n【核心考點】\nCOPD 急性惡化合併高碳酸血症與酸血症，若清醒且血流動力穩定，優先考慮 bronchodilator 加 NIV；插管留給 NIV 禁忌、失敗或病況惡化者。",
+      "key_point": "COPD 急性高碳酸血症呼吸衰竭且清醒穩定時，給氧後以吸入支氣管擴張劑與 NIV 為優先。",
+      "flashcard_front": "COPD acute exacerbation + pH 7.27 + pCO2 78，清醒穩定怎麼處理？",
+      "flashcard_back": "給氧後用吸入支氣管擴張劑，並考慮 NIV/BiPAP 協助排 CO2。",
+      "flashcard_summary": "COPD 急性惡化 -> 高碳酸酸中毒且穩定清醒 -> bronchodilator + NIV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n多重抗藥性結核病（MDR-TB）的關鍵是同時對 isoniazid 與 rifampin 抗藥；其他第一線藥物是否抗藥不影響 MDR-TB 的基本判定。只有 C 同時包含 isoniazid 與 rifampin 抗藥，因此選 C。\n\n【選項詳解】\n- A. 錯誤。Isoniazid 加 streptomycin 抗藥仍缺少 rifampin 抗藥；rifampin 是結核治療最關鍵藥物之一，未對 rifampin 抗藥不符合 MDR-TB 基本條件。\n- B. 錯誤。雖然 isoniazid、ethambutol、streptomycin 抗藥代表藥物選擇受限，但 rifampin 仍敏感，所以不是 MDR-TB 的標準組合。\n- C. 正確。Isoniazid 與 rifampin 同時抗藥即符合 MDR-TB；ethambutol 與 streptomycin 是否敏感不會推翻這個分類。\n- D. 錯誤。Rifampin 抗藥很重要，但此選項 isoniazid 敏感；若沒有 isoniazid 抗藥，不能稱為 MDR-TB，只能依情境歸為 rifampin-resistant TB 或其他抗藥型態。\n\n【核心考點】\nMDR-TB 的判斷看兩個名字：isoniazid + rifampin 同時抗藥；不要被 ethambutol 或 streptomycin 的抗藥組合分散注意。",
+      "key_point": "MDR-TB 定義為結核菌至少同時對 isoniazid 與 rifampin 抗藥。",
+      "flashcard_front": "MDR-TB 的藥物抗藥定義",
+      "flashcard_back": "同時對 isoniazid 與 rifampin 抗藥；其他藥物是否抗藥不影響基本定義。",
+      "flashcard_summary": "MDR-TB -> INH + RIF resistance",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n題目問 VAP 敘述何者最不適當。預防 VAP 常採床頭抬高約 30-45 度、口腔照護、減少鎮靜與及早脫離呼吸器等措施；D 說必須至少 60 度，過高且不是標準建議，因此選 D。\n\n【選項詳解】\n- A. 錯誤。較早發生的 VAP 較可能由社區型或抗藥性較低的菌種造成，例如 Streptococcus pneumoniae、Haemophilus influenzae 或 methicillin-sensitive Staphylococcus aureus；仍需依院內抗藥風險調整經驗性抗生素。\n- B. 錯誤。住院與插管時間拉長後，病人較容易被院內菌叢定殖，晚發 VAP 較常涉及 Pseudomonas aeruginosa、Acinetobacter baumannii、MRSA 等多重抗藥菌。\n- C. 錯誤。氣管內管 cuff 可減少大量胃內容物或口咽分泌物進入下呼吸道，但 cuff 周圍仍可能發生 microaspiration，這是 VAP 的重要致病路徑之一。\n- D. 正確。床頭抬高有助於降低吸入風險，但常用建議約 30-45 度；要求至少 60 度不易長時間維持，可能增加病人下滑、壓力傷害與照護困難。\n\n【核心考點】\nVAP 預防不是把床頭抬到越高越好；常考角度是 30-45 度，並搭配口腔照護、減少鎮靜與及早拔管策略。",
+      "key_point": "VAP 預防床頭抬高通常約 30-45 度，不是必須至少 60 度。",
+      "flashcard_front": "VAP 預防：床頭抬高角度",
+      "flashcard_back": "約 30-45 度；過高到至少 60 度不是標準必要要求。",
+      "flashcard_summary": "VAP prevention -> head-of-bed elevation 30-45 degrees, not mandatory 60 degrees",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-3_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n題目問甲狀腺荷爾蒙對代謝與發育何者錯誤。T3/T4 會增加基礎代謝率、氧氣消耗與醣類、脂質代謝；B 說降低氧氣消耗與降低代謝，方向相反，因此選 B。\n\n【選項詳解】\n- A. 錯誤。幼年期甲狀腺荷爾蒙不足會影響中樞神經發育與骨骼生長，若未及早治療可造成智力障礙、身材矮小與 cretinism，因此此敘述正確。\n- B. 正確。甲狀腺荷爾蒙會提高細胞氧氣消耗、產熱與基礎代謝率，並促進碳水化合物與脂肪代謝；說它降低氧氣消耗與代謝平衡，是與生理作用相反的錯誤敘述。\n- C. 錯誤。甲狀腺亢進會造成體重下降、焦慮、心悸、心搏過速、手抖與熱不耐；嚴重或長期未控制時可誘發心房顫動、高輸出性心衰竭或甲狀腺風暴相關心血管併發症。\n- D. 錯誤。成人甲狀腺低下會讓代謝下降，出現怕冷、體重增加、嗜睡遲鈍、便祕、皮膚乾冷與黏液性水腫；這些都符合甲狀腺素缺乏表現。\n\n【核心考點】\n甲狀腺荷爾蒙是代謝加速器：增加 BMR、氧氣消耗、產熱與營養素代謝；缺乏在兒童影響神經骨骼發育，成人則表現為代謝變慢與 myxedema。",
+      "key_point": "T3/T4 會增加基礎代謝率、氧氣消耗與產熱；不是降低代謝。",
+      "flashcard_front": "甲狀腺荷爾蒙對代謝的方向",
+      "flashcard_back": "增加 BMR、氧氣消耗、產熱，並促進醣類與脂質代謝。",
+      "flashcard_summary": "甲狀腺荷爾蒙 -> 增加代謝與氧氣消耗；幼年缺乏可造成 cretinism",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-07T23:02:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

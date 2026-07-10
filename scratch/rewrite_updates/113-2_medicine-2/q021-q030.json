@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-2.json",
+  "dataset_id": "113-2_medicine-2",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問 B 細胞發育中「最不適當」的敘述。骨髓內的 immature B cell 若以表面 IgM 強烈辨識自體抗原，重點是建立中樞耐受，例如 receptor editing、clonal deletion 或 anergy，而不是進入增殖反應。\n\n【選項詳解】\n- A. 正確。B 細胞免疫球蛋白基因重組先發生在重鏈，pro-B cell 先進行 D-J、再進行 V-DJ 重組；重鏈成功後，才進入 pre-B cell 階段並啟動輕鏈 V-J 重組。\n- B. 正確。μ heavy chain 會和 surrogate light chain 的 VpreB、λ5 組成 pre-BCR；pre-BCR 訊號可促進 pre-B 細胞存活、增殖，並協助重鏈 allelic exclusion 與後續輕鏈重組。\n- C. 正確。Bruton's tyrosine kinase (Btk) 是 pre-BCR/BCR 下游訊號傳遞的重要分子；Btk 缺陷會使 B 細胞發育停在 pre-B 階段，造成 X-linked agammaglobulinemia，臨床上表現為成熟 B 細胞與免疫球蛋白明顯缺乏。\n- D. 錯誤。表現 IgM 的 immature B cell 若在骨髓辨識抗原，常代表辨識自體抗原，會啟動中樞耐受而非 clonal expansion；clonal expansion 是成熟 B 細胞在周邊淋巴器官遇到外來抗原並取得足夠輔助訊號後的反應。\n\n【核心考點】\nB 細胞發育先重鏈、後輕鏈；pre-BCR 需要 μ heavy chain 與 VpreB/λ5，且 Btk 對訊號傳遞很重要。immature B cell 在骨髓遇自體抗原時走耐受路徑，不是增殖路徑。",
+      "key_point": "Immature B cell 在骨髓以 IgM 辨識自體抗原時，會進行 receptor editing、deletion 或 anergy；clonal expansion 屬於成熟 B 細胞在周邊遇外來抗原後的反應。",
+      "flashcard_front": "B 細胞發育：重鏈/輕鏈重組順序、pre-BCR 組成、Btk 缺陷、immature B cell 遇抗原後命運",
+      "flashcard_back": "重組順序為重鏈先於輕鏈；pre-BCR 由 μ heavy chain 與 VpreB/λ5 組成；Btk 缺陷造成 X-linked agammaglobulinemia；immature B cell 在骨髓遇自體抗原會啟動中樞耐受，不會 clonal expansion。",
+      "flashcard_summary": "B 細胞發育 -> 重鏈先重組、pre-BCR 需 μ+VpreB/λ5、Btk 缺陷造成 XLA、immature B cell 遇自體抗原走耐受",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題問 CD4 effector T cell 哪個分泌物或表面分子與 B 細胞 antibody isotype class switching 最相關。Class switching 的關鍵是 T cell 表面的 CD40 ligand 與 B cell 表面的 CD40 結合；細胞激素可影響轉換到哪一類抗體，但 CD40-CD40L 是必要啟動訊號。\n\n【選項詳解】\n- A. 錯誤。IL-2 主要是 T 細胞生長因子，促進活化 T 細胞增殖，也可支持 NK cell 等免疫細胞功能；它不是 B 細胞 class switching 的最關鍵必要分子。\n- B. 錯誤。IL-10 可促進 B 細胞存活、分化與抗體反應，也有免疫調節作用；但 class switching 的核心共同刺激訊號仍是 CD40-CD40L，並非 IL-10 本身。\n- C. 正確。活化的 CD4 T cell，尤其 Tfh cell，表現 CD40 ligand；CD40L 與 B cell 的 CD40 結合後，促進 germinal center reaction、somatic hypermutation 與 class switch recombination。CD40L 缺陷會造成 X-linked hyper-IgM syndrome，IgM 偏高而 IgG、IgA、IgE 轉換不足。\n- D. 錯誤。CD28 是 T cell 表面的共同刺激受體，主要與 APC 或 B cell 上的 B7-1/B7-2 結合來活化 T cell；它不是直接驅動 B cell class switching 的 T cell 表面配體。\n\n【核心考點】\nB 細胞 class switching 需要 CD40-CD40L 訊號；不同 cytokine 會偏向不同抗體類別，但若缺少 CD40L，B 細胞無法有效進行類型轉換。",
+      "key_point": "抗體類型轉換的關鍵 T cell 表面分子是 CD40 ligand；它與 B cell CD40 結合後啟動 class switch recombination，缺陷時會出現 hyper-IgM syndrome。",
+      "flashcard_front": "B 細胞 isotype class switching 最需要哪個 CD4 T cell 表面分子？",
+      "flashcard_back": "CD40 ligand。CD4/Tfh cell 的 CD40L 與 B cell CD40 結合，啟動 germinal center reaction、somatic hypermutation 與 class switch recombination；缺陷會造成 hyper-IgM syndrome。",
+      "flashcard_summary": "Class switching -> CD40L on CD4/Tfh cell binds CD40 on B cell；cytokine 決定轉換方向但 CD40-CD40L 是必要訊號",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題問肺炎鏈球菌「多醣體連結蛋白質」的結合型疫苗何者最不適當。結合型疫苗把莢膜多醣接上蛋白質載體，讓 B 細胞可取得 T cell help，反應性質從 thymus-independent 轉為 thymus-dependent，因此可形成較好的記憶反應。\n\n【選項詳解】\n- A. 正確。肺炎鏈球菌結合型疫苗是將莢膜多醣體與蛋白質載體共價連結，B 細胞辨識多醣後可內吞整個 conjugate，處理蛋白質載體胜肽並以 MHC II 呈現給輔助性 T 細胞。\n- B. 錯誤。單純多醣疫苗才主要以 thymus-independent 方式活化 B 細胞；結合型多醣疫苗因為含蛋白質載體，能得到 CD4 T cell 幫助，屬於 thymus-dependent 反應。\n- C. 正確。抗莢膜多醣抗體能調理肺炎鏈球菌，促進吞噬細胞清除有莢膜細菌，因此可降低侵襲性感染與嚴重感染風險。\n- D. 正確。結合型疫苗可誘發 germinal center reaction，產生 class-switched antibody、親和力成熟與 memory B cell；這正是它相較單純多醣疫苗在幼兒與免疫記憶上的優勢。\n\n【核心考點】\n多醣抗原本身多屬 thymus-independent，免疫記憶差；接上蛋白質載體後可轉成 thymus-dependent 反應，產生記憶 B 細胞與較佳的抗體品質。",
+      "key_point": "肺炎鏈球菌結合型疫苗把多醣接到蛋白載體，使 B 細胞取得 T cell help，反應變成 thymus-dependent，能誘發 memory B cell。",
+      "flashcard_front": "肺炎鏈球菌結合型多醣疫苗與單純多醣疫苗的免疫反應差異",
+      "flashcard_back": "單純多醣疫苗主要是 thymus-independent，記憶反應弱；結合型疫苗把多醣接上蛋白載體，使 B 細胞可呈現蛋白胜肽給 CD4 T cell，變成 thymus-dependent，能產生記憶 B 細胞。",
+      "flashcard_summary": "Conjugate polysaccharide vaccine -> protein carrier turns TI response into TD response and enables B-cell memory",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題問先天性免疫不全病人最不適合接種哪種疫苗。解題核心是辨認 live-attenuated vaccine：免疫不全者無法有效限制減毒病原複製，因此活性減毒疫苗可能造成疫苗株感染或嚴重疾病。\n\n【選項詳解】\n- A. 錯誤。B 型肝炎疫苗是重組 HBsAg 次單位疫苗，不含可複製活病毒；免疫不全者可能免疫反應較弱，但疫苗本身不會造成 HBV 感染。\n- B. 正確。沙賓小兒麻痺疫苗是口服 live-attenuated polio vaccine，疫苗病毒可在腸道複製；先天性免疫不全者可能出現持續感染或 vaccine-associated paralytic poliomyelitis，因此最不適合，應考慮不活化注射型 IPV。\n- C. 錯誤。DPT 由白喉與破傷風類毒素加上百日咳成分組成，屬不活化或非活菌成分疫苗，不會在宿主內複製。\n- D. 錯誤。注射型流感疫苗為不活化疫苗，不具複製能力；需要注意的是鼻噴型 live-attenuated influenza vaccine 才不適合免疫不全者。\n\n【核心考點】\n免疫不全者最要避開活性減毒疫苗，例如 Sabin OPV、MMR、水痘與部分鼻噴流感疫苗；不活化、類毒素、重組蛋白或次單位疫苗通常沒有疫苗株複製風險。",
+      "key_point": "先天性免疫不全者禁忌的重點是 live-attenuated vaccine；Sabin 口服小兒麻痺疫苗可在腸道複製，可能造成疫苗相關疾病。",
+      "flashcard_front": "免疫不全病人為何不能接種 Sabin OPV？哪些選項屬非活疫苗？",
+      "flashcard_back": "Sabin OPV 是活性減毒疫苗，免疫不全者可能無法控制疫苗病毒複製而發生 VAPP；B 肝為重組次單位疫苗，DPT 為類毒素/不活化成分，注射型流感是不活化疫苗。",
+      "flashcard_summary": "Immunodeficiency vaccine rule -> avoid live-attenuated vaccines; Sabin OPV is unsafe, IPV/inactivated/subunit/toxoid vaccines are safer",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題問 immune thrombocytopenia (ITP) 最主要屬於哪一型 hypersensitivity。ITP 是抗血小板自身抗體造成血小板被調理並清除，屬於抗體介導的 type II hypersensitivity。\n\n【選項詳解】\n- A. 錯誤。Type I hypersensitivity 由 IgE、mast cell 與 basophil 介導，典型為蕁麻疹、過敏性鼻炎、氣喘或 anaphylaxis；ITP 的主軸不是 IgE 立即型過敏。\n- B. 正確。ITP 常有針對血小板膜醣蛋白，例如 GPIIb/IIIa 或 GPIb-IX 的 IgG 自身抗體；被抗體包覆的血小板經 Fc receptor 被脾臟巨噬細胞吞噬破壞，符合 type II antibody-mediated cytotoxic hypersensitivity。\n- C. 錯誤。Type III hypersensitivity 是可溶性抗原抗體複合物沉積，活化補體造成組織發炎，例如 serum sickness、SLE 腎炎或 post-streptococcal glomerulonephritis；ITP 不是以免疫複合物沉積為主要病理。\n- D. 錯誤。Type IV hypersensitivity 由 T cell 介導，屬遲發型反應，例如接觸性皮膚炎、結核菌素試驗或部分肉芽腫反應；ITP 的考試分類重點是抗血小板 IgG。\n\n【核心考點】\nType II hypersensitivity 是抗體直接針對細胞表面或基底膜抗原，造成補體活化、吞噬清除或受體功能改變。ITP 是 IgG 抗血小板抗體導致脾臟清除血小板，所以歸類為 type II。",
+      "key_point": "ITP 屬 type II hypersensitivity：IgG 自身抗體結合血小板表面抗原，經脾臟巨噬細胞 Fc receptor 調理吞噬而造成血小板低下。",
+      "flashcard_front": "ITP 對應哪一型 hypersensitivity？機轉是什麼？",
+      "flashcard_back": "ITP 是 type II hypersensitivity。IgG 抗血小板抗體結合 GPIIb/IIIa 或 GPIb-IX 等血小板表面抗原，使血小板被脾臟巨噬細胞清除。",
+      "flashcard_summary": "ITP -> anti-platelet IgG opsonization and splenic clearance -> type II hypersensitivity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題問自體免疫與免疫耐受機制何者最不適當。Treg 的主要功能是抑制免疫反應，不是靠細胞毒殺移除自體細胞；它常透過 IL-10、TGF-β、CTLA-4 與 IL-2 消耗等方式降低自體反應性淋巴球活化。\n\n【選項詳解】\n- A. 正確。免疫豁免部位的抗原平常較少被周邊免疫系統看見；若外傷使隱蔽抗原釋放，例如眼部外傷後發生 sympathetic ophthalmia，就可能引發自體免疫反應。子宮是否列為典型免疫豁免部位在不同教材表述可能較寬，但本選項核心在抗原隔離被破壞可誘發自體免疫。\n- B. 錯誤。Regulatory T cell 主要不是以 perforin/granzyme 細胞毒殺方式清除自體細胞；典型 Treg 為 CD4+CD25+Foxp3+，透過 IL-10、TGF-β 抑制發炎，並用 CTLA-4 降低 APC 的 B7 共同刺激能力，維持周邊耐受。\n- C. 正確。Peripheral anergy 指淋巴球在周邊接觸抗原時，若缺乏必要的 costimulation，例如 T cell 只有 TCR-MHC 訊號而沒有 CD28-B7 訊號，會進入功能性無反應狀態，避免自體免疫。\n- D. 正確。中樞耐受發生於初級免疫器官：T 細胞在胸腺進行選擇與刪除高自體反應性克隆，B 細胞在骨髓進行 receptor editing、deletion 或 anergy。\n\n【核心考點】\n免疫耐受分為中樞耐受與周邊耐受。Treg 維持周邊耐受的重點是抑制性 cytokine、CTLA-4 降低共同刺激與 IL-2 消耗，而不是把自體細胞當作主要毒殺目標。",
+      "key_point": "Treg 主要以 IL-10、TGF-β、CTLA-4 與 IL-2 消耗來抑制免疫活化；周邊 anergy 來自缺乏共同刺激，中樞耐受主要在胸腺與骨髓建立。",
+      "flashcard_front": "Treg 如何維持周邊免疫耐受？它是否主要靠細胞毒殺？",
+      "flashcard_back": "Treg 不是主要靠細胞毒殺自體細胞，而是透過 IL-10、TGF-β、CTLA-4 降低 B7 共同刺激，以及消耗 IL-2 來抑制自體反應性淋巴球。",
+      "flashcard_summary": "Treg tolerance -> suppressive cytokines + CTLA-4 + IL-2 consumption; not primarily cytotoxic killing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": [
+        "選項 A 將子宮列為免疫豁免部位的表述較非典型；官方答案仍可由選項 B 最明顯錯誤支持，建議人工複核教材用語。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問癌症免疫治療敘述何者最不適當。CIK cell 是體外以 cytokine 與 anti-CD3 等刺激擴增出的殺傷細胞群，具有 NK-like、MHC-unrestricted 的腫瘤殺傷能力，但不等同於高度腫瘤抗原特異性的 T cell 治療。\n\n【選項詳解】\n- A. 正確。個人化 mRNA 癌症疫苗通常先做腫瘤定序找出突變，再依患者 HLA 預測可呈現的 neoantigen，合成對應 mRNA 並以 lipid nanoparticle 遞送，使抗原在體內表現後誘發腫瘤特異性 T 細胞反應。\n- B. 錯誤。CIK 細胞可由外周血單核細胞或 T 細胞在 IFN-γ、IL-2、anti-CD3 等條件下體外培養而來，常見效應族群包括 CD3+CD56+ 細胞；其殺傷較依賴 NKG2D 等 NK-like 受體與非 MHC 限制機制，通常不具有選項所說的高度腫瘤抗原特異性。\n- C. 正確。Monocyte-derived dendritic cell 是將單核球在體外誘導成抗原呈現細胞，負載或捕捉腫瘤抗原後，可活化腫瘤抗原特異性 T 細胞，進而產生抗腫瘤免疫反應。\n- D. 正確。CAR-T 是把可辨識腫瘤表面抗原的 chimeric antigen receptor 基因導入 T 細胞；CAR 通常含胞外 scFv 抗原辨識區、跨膜區、CD3ζ 活化訊號與共同刺激訊號，使 T 細胞能辨識靶抗原並被活化。\n\n【核心考點】\n癌症免疫治療要分清楚抗原特異性與非特異性或 NK-like 殺傷。mRNA neoantigen vaccine、MoDC 疫苗與 CAR-T 都有明確抗原靶向概念；CIK 細胞殺傷較偏 MHC-unrestricted、NK-like，不能說高度腫瘤特異。",
+      "key_point": "CIK cell 具有腫瘤殺傷能力，但主要是 NK-like、MHC-unrestricted 殺傷，不具高度腫瘤抗原特異性；CAR-T 與 neoantigen vaccine 則有較明確靶向性。",
+      "flashcard_front": "CIK 細胞與 CAR-T/mRNA neoantigen vaccine 的腫瘤特異性差異",
+      "flashcard_back": "CIK 細胞經 cytokine/anti-CD3 體外活化，常見 CD3+CD56+，以 NK-like、MHC-unrestricted 機制殺傷腫瘤，特異性不高；CAR-T 由 CAR 辨識腫瘤表面抗原，mRNA 疫苗則針對 neoantigen 誘發 T 細胞反應。",
+      "flashcard_summary": "Cancer immunotherapy -> CIK is NK-like and not highly tumor-specific; CAR-T and neoantigen vaccines are antigen-targeted",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問 hyperacute rejection 通常在移植後多久發生。Hyperacute rejection 是受體已有的抗供體抗體在移植器官血流接通後立刻攻擊血管內皮，故可在數分鐘內發生。\n\n【選項詳解】\n- A. 正確。受體若已有 anti-ABO 或 anti-HLA antibody，血液灌流移植物後抗體會立即結合供體血管內皮，活化補體，引發內皮損傷、血小板凝集、血栓與移植物缺血壞死，因此時間可快到數分鐘內。\n- B. 錯誤。2 到 5 天已不符合典型 hyperacute rejection 的立即性；此時若發生排斥，需考慮 accelerated acute rejection 或很早期的 acute rejection，而不是標準的超急性排斥時間窗。\n- C. 錯誤。7 到 21 天較符合 acute rejection 的常見時間範圍，通常與 T cell 對供體抗原的辨識、活化與效應反應有關，也可伴隨抗體成分。\n- D. 錯誤。1 到 3 個月多落在急性排斥較晚期或慢性排斥逐漸形成的區間；慢性排斥常與血管內膜增生、管腔狹窄與纖維化相關，不是預存抗體造成的立即壞死。\n\n【核心考點】\n移植排斥可用時間與機轉記憶：hyperacute 是預存抗體加補體，數分鐘至數小時；acute 多為 T cell 介導，數天至數週；chronic 多為血管狹窄與纖維化，數月至數年。",
+      "key_point": "Hyperacute rejection 由預存 anti-ABO/anti-HLA antibody 介導，血流接通後立即活化補體並造成血栓與缺血壞死，典型發生在數分鐘至數小時。",
+      "flashcard_front": "Hyperacute rejection 的發生時間與免疫機轉",
+      "flashcard_back": "Hyperacute rejection 在移植後數分鐘至數小時發生，由預存 anti-ABO 或 anti-HLA antibody 結合供體內皮並活化補體，造成血栓與移植物缺血壞死。",
+      "flashcard_summary": "Transplant rejection timing -> hyperacute: preformed antibody/complement within minutes; acute: days-weeks; chronic: months-years",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題問糞便中發現許多肝毛線蟲 (Capillaria hepatica) 蟲卵時，哪個敘述最適當。真性感染時蟲體寄生肝臟、蟲卵留在肝組織內，通常不會從糞便排出；若糞便看到蟲卵，反而常代表吃下受感染動物肝臟後蟲卵通過腸道的 spurious infection。\n\n【選項詳解】\n- A. 錯誤。肝毛線蟲主要和鼠類等哺乳動物肝臟感染有關，魚肝不是典型感染來源；而且題目是糞便檢出蟲卵，較支持假性感染而非真正 egg infection。\n- B. 錯誤。食用鼠肝可造成糞便檢出蟲卵的假性感染，但關鍵不是幼蟲感染；肝毛線蟲真正感染人體通常是吞入環境中已 embryonated 的感染性蟲卵，幼蟲孵化後移行到肝臟。\n- C. 錯誤。鵝肝不是肝毛線蟲的典型來源；本題看到糞便蟲卵時，重點也不是由鵝肝造成真性感染，而是考慮消化道短暫通過的假性感染。\n- D. 正確。Spurious infection 指人吃下含蟲卵的受感染動物肝臟後，蟲卵未在人體組織建立感染，只是經腸道排出，所以糞便可看到蟲卵。若是真性感染，雌蟲在肝內產卵，蟲卵困在肝臟，診斷多仰賴肝組織病理而非糞便檢查。\n\n【核心考點】\nCapillaria hepatica 的真性感染與假性感染方向相反：真性感染是吃入成熟感染性蟲卵後幼蟲入肝、蟲卵留肝內；糞便看到蟲卵常是吃入受感染肝臟後的 spurious infection。",
+      "key_point": "肝毛線蟲真性感染時蟲卵留在肝臟，糞便通常不見蟲卵；糞便檢出蟲卵常代表吃入感染動物肝臟後的假性感染。",
+      "flashcard_front": "Capillaria hepatica：糞便看到蟲卵代表真性感染還是假性感染？",
+      "flashcard_back": "通常代表假性感染。吃下含蟲卵的受感染動物肝臟後，蟲卵只是通過腸道排出；真性感染時蟲卵留在肝實質內，需靠肝切片或組織病理診斷。",
+      "flashcard_summary": "Capillaria hepatica -> stool eggs suggest spurious infection; true infection traps eggs in liver",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題問蟯蟲 (Enterobius vermicularis) 感染何者錯誤。蟯蟲典型造成夜間肛門搔癢與睡眠受干擾，但「sleeping sickness」是非洲錐蟲病，不是蟯蟲感染的疾病名稱。\n\n【選項詳解】\n- A. 錯誤。蟯蟲雌蟲夜間移行到肛周產卵，會造成肛門搔癢、失眠、煩躁或兒童夜間哭鬧；但 sleeping sickness 是 Trypanosoma brucei 經采采蠅傳播造成的非洲錐蟲病，兩者病原與病程完全不同。\n- B. 正確。蟯蟲卵可污染手指、衣物、床單與環境；乾燥後可隨塵埃懸浮，被吸入後再吞下，或經手口途徑造成感染與再感染。\n- C. 正確。女性感染時，雌蟲可由肛周移行至外陰、陰道、子宮、輸卵管或腹腔，引發 vulvovaginitis、salpingitis，少數可形成慢性骨盆腔腹膜炎或蟲卵肉芽腫。\n- D. 正確。蟯蟲多在肛周產卵，糞便檢查敏感度低；清晨起床、排便或清洗前用肛圍透明膠帶或擦拭法採樣，是檢查蟲卵的標準方式。\n\n【核心考點】\n蟯蟲考點是夜間肛周產卵、手口與塵埃傳播、肛圍膠帶/擦拭診斷，以及女性生殖道異位感染；不要把夜間搔癢造成的睡眠困擾誤認為 African sleeping sickness。",
+      "key_point": "蟯蟲造成夜間肛門搔癢與睡眠受干擾，但 sleeping sickness 是 Trypanosoma brucei；蟯蟲診斷以清晨肛圍膠帶或擦拭法找蟲卵。",
+      "flashcard_front": "蟯蟲感染：錯誤選項常把夜間搔癢和哪個疾病混淆？診斷方法為何？",
+      "flashcard_back": "蟯蟲會造成夜間肛門搔癢，但不會造成 African sleeping sickness；sleeping sickness 是 Trypanosoma brucei。蟯蟲診斷以清晨肛圍透明膠帶或擦拭法檢查蟲卵。",
+      "flashcard_summary": "Enterobius vermicularis -> nocturnal perianal itching, airborne/hand-mouth eggs, perianal tape test; not African sleeping sickness",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T13:23:32+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

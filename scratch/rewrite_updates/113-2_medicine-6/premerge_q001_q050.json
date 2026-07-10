@@ -1,0 +1,17 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "merge": false,
+  "update_file_count": 5,
+  "question_count": 50,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 3,
+      "notes": [
+        "題目原圖未包含在 JSON 文字內，建議人工對照原始圖片確認 EtCO2 波形。"
+      ]
+    }
+  ],
+  "errors": []
+}

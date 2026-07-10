@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n蓋膜中央徑（central tegmental tract）位在腦幹被蓋部，重要成分之一是紅核到下橄欖核的下行纖維。這條紅核橄欖路徑把中腦紅核與延腦下橄欖核連起來，並參與小腦相關的運動調節迴路。\n\n【選項詳解】\n- A. 正確。紅核（red nucleus）與下橄欖核（inferior olivary nucleus）之間的 rubro-olivary fibers 是蓋膜中央徑的重要纖維來源；下橄欖核再透過 climbing fibers 影響小腦皮質，與運動學習和誤差修正有關。\n- B. 錯誤。紅核與齒狀核（dentate nucleus）的聯絡屬於小腦深部核與中腦紅核之間的 dentatorubral pathway，主要與小腦上腳（superior cerebellar peduncle）相關，不是蓋膜中央徑的主要核間連結。\n- C. 錯誤。前庭神經核與動眼神經核的聯絡主要走內側縱束（medial longitudinal fasciculus, MLF），用來協調前庭動眼反射，解剖位置與功能都不同於蓋膜中央徑。\n- D. 錯誤。前庭神經核與外旋神經核的聯絡也屬於 MLF 相關眼球運動通路，負責水平凝視與頭眼協調，並非紅核橄欖系統。\n\n【核心考點】\n蓋膜中央徑要記成「紅核到下橄欖核」的腦幹被蓋部纖維束；前庭神經核到眼動神經核則屬於 MLF，小腦齒狀核到紅核則常連到小腦上腳。",
+      "key_point": "蓋膜中央徑的重要纖維連結是紅核至下橄欖核的 rubro-olivary pathway。",
+      "flashcard_front": "蓋膜中央徑 / central tegmental tract / rubro-olivary fibers",
+      "flashcard_back": "蓋膜中央徑的重要下行纖維連結中腦紅核與延腦下橄欖核；前庭到眼動神經核則走 MLF。",
+      "flashcard_summary": "Central tegmental tract -> 紅核連至下橄欖核",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n右側視野缺損但左側視野正常，表示兩眼接收右側視野的纖維在視交叉後受損，形成右側同向偏盲（right homonymous hemianopia）。視交叉後的視徑承載對側視野訊息，所以右側視野訊息會進入左視徑。\n\n【選項詳解】\n- A. 錯誤。右視神經受損會造成右眼單眼視力喪失或右眼全盲，左眼仍可保留完整視野；這不是兩眼同一側視野一起缺損的型態。\n- B. 錯誤。右視徑承載左側視野訊息，受損會造成左側同向偏盲；題幹缺損的是右側視野，病灶應在左側視交叉後路徑。\n- C. 錯誤。左視神經受損會造成左眼單眼視力喪失，右眼視覺可保留；單側視神經病變不會造成雙眼同側半邊視野缺損。\n- D. 正確。左視徑包含右眼鼻側視網膜與左眼顳側視網膜傳來的纖維，兩者都接收右側視野；左視徑受損會造成右側同向偏盲。\n\n【核心考點】\n視神經病變造成同側單眼視力喪失；視交叉病變常造成雙顳側偏盲；視徑、外側膝狀體、視放射或視覺皮質病變會造成對側同向偏盲。",
+      "key_point": "右側同向偏盲定位在左側視交叉後視覺傳導路徑，典型為左視徑或更後方病灶。",
+      "flashcard_front": "右側同向偏盲 / left optic tract / 視覺傳導定位",
+      "flashcard_back": "視交叉後病灶造成對側同向偏盲；左視徑受損會造成右側視野缺損。",
+      "flashcard_summary": "右側視野缺損 -> 左側視徑受損",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n題目問的是源自前庭神經核、同時影響眼球運動與身體平衡的纖維束。內側縱束（medial longitudinal fasciculus, MLF）把前庭神經核和第 III、IV、VI 對腦神經核連起來，是前庭動眼反射與頭眼協調的重要通路。\n\n【選項詳解】\n- A. 正確。MLF 內含前庭神經核上行至動眼、滑車、外旋神經核的纖維，可讓頭部轉動時眼球做補償性移動；其下行連結也參與頸部與軀幹姿勢調整。\n- B. 錯誤。背側縱束（dorsal longitudinal fasciculus）主要連結下視丘與腦幹自主神經核，功能偏向自主神經調節，不是前庭到眼動神經核的主通道。\n- C. 錯誤。內側前腦束（medial forebrain bundle）與邊緣系統、下視丘、獎賞及情緒相關路徑有關，並不負責前庭動眼反射。\n- D. 錯誤。蓋膜中央徑主要包括紅核到下橄欖核的纖維，屬於運動調節與小腦相關迴路，沒有把前庭神經核直接連到眼動神經核。\n\n【核心考點】\n前庭神經核要影響眼球運動，靠的是 MLF 連到 CN III、IV、VI；背側縱束偏自主神經，內側前腦束偏邊緣與獎賞，蓋膜中央徑偏紅核橄欖系統。",
+      "key_point": "MLF 連結前庭神經核與 CN III、IV、VI，是前庭動眼反射的主要腦幹通路。",
+      "flashcard_front": "前庭神經核 / MLF / 眼球運動 / 平衡",
+      "flashcard_back": "內側縱束連結前庭神經核與動眼、滑車、外旋神經核，負責前庭動眼反射與頭眼協調。",
+      "flashcard_summary": "前庭核影響眼球運動與平衡 -> MLF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n穹窿（fornix）是海馬迴輸出到乳頭體的重要白質纖維束。由海馬迴往乳頭體走，纖維先成為繖部（fimbria），再形成穹窿腳（crura），左右會合為體部（body），最後向前下形成柱部（columns）到乳頭體。\n\n【選項詳解】\n- A. 錯誤。2134 把繖部之後接體部，但海馬繖先延續為左右分開的穹窿腳，兩側穹窿腳之後才會合成體部。\n- B. 錯誤。4123 以腳部作為第一段，漏掉最靠近海馬迴表面、由海馬白質纖維匯集而成的繖部。\n- C. 正確。2413 依序代表繖部、腳部、體部、柱部，符合從海馬迴到乳頭體的實際走行。\n- D. 錯誤。4132 將腳部放在起點，又把柱部排在體部之前；柱部是穹窿向前下走到乳頭體的末段。\n\n【核心考點】\n穹窿從海馬迴到乳頭體的順序是 fimbria -> crura -> body -> columns；中文編號對應為 2、4、1、3。",
+      "key_point": "穹窿走行順序為繖部、腳部、體部、柱部，最後到乳頭體。",
+      "flashcard_front": "fornix / fimbria / crura / body / columns",
+      "flashcard_back": "穹窿由海馬迴往乳頭體依序為繖部、腳部、體部、柱部，也就是 2-4-1-3。",
+      "flashcard_summary": "Fornix 順序 -> fimbria -> crura -> body -> columns",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本體感覺與震動覺走後索-內側丘系路徑，進入脊髓後同側上行於後索；溫痛覺則進入脊髓後很快交叉，走對側脊髓丘腦束。題幹出現本體感覺、震動覺喪失但溫痛覺保留，最能定位在後索。\n\n【選項詳解】\n- A. 正確。後索（posterior funiculus）包含薄束與楔束，傳導精細觸覺、震動覺與本體感覺；後索受損會讓這些深部感覺喪失，而溫痛覺通路可相對保留。\n- B. 錯誤。前索主要包含粗略觸壓覺相關脊髓丘腦前束及部分下行運動束，不是本體感覺與震動覺的主要上行通道。\n- C. 錯誤。側索含脊髓丘腦側束與皮質脊髓側束；若側索病變，常見溫痛覺異常或上運動神經元徵象，而題幹明確保留溫痛覺。\n- D. 錯誤。前角含下運動神經元，受損會造成同節段鬆弛性無力、肌萎縮與反射下降，不會單純造成深部感覺喪失。\n\n【核心考點】\n後索傳導震動覺、本體感覺與精細觸覺；脊髓丘腦束傳導溫痛覺。深部感覺喪失且溫痛覺保留，優先定位後索病灶。",
+      "key_point": "後索傳導本體感覺與震動覺；溫痛覺主要走脊髓丘腦束。",
+      "flashcard_front": "本體感覺 / 震動覺 / 溫痛覺保留 / posterior funiculus",
+      "flashcard_back": "本體感覺與震動覺喪失、溫痛覺保留，定位在後索；側索病變較會影響溫痛覺或運動束。",
+      "flashcard_summary": "深部感覺喪失＋溫痛覺保留 -> 後索損傷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n膜迷路（membranous labyrinth）位在內耳，包含前庭、半規管與耳蝸內的膜性構造，主要由迷路動脈（labyrinthine artery，又稱 internal auditory artery）供血。此血管多由小腦前下動脈（AICA）分出，少數可直接來自基底動脈。\n\n【選項詳解】\n- A. 錯誤。枕動脈來自外頸動脈系統，主要供應後頭部頭皮與肌肉，不是內耳膜迷路的供血來源。\n- B. 錯誤。中腦膜動脈經棘孔進入顱內，供應硬腦膜與顱骨；臨床常與硬腦膜外血腫相關，並不進入內耳供應膜迷路。\n- C. 錯誤。後大腦動脈供應枕葉、顳葉內側與部分丘腦等後循環腦部區域，不是內耳專屬血管。\n- D. 正確。迷路動脈會伴隨前庭耳蝸神經進入內耳道，供應耳蝸、前庭與半規管等膜迷路構造；因側枝循環少，阻塞時可造成突發聽力下降與眩暈。\n\n【核心考點】\n內耳膜迷路的供血血管是迷路動脈，常源自 AICA。AICA 或迷路動脈缺血可同時影響聽覺與前庭功能。",
+      "key_point": "膜迷路由迷路動脈供血，迷路動脈常源自 AICA 並經內耳道進入內耳。",
+      "flashcard_front": "membranous labyrinth / labyrinthine artery / AICA",
+      "flashcard_back": "內耳膜迷路由迷路動脈供血；迷路動脈常由 AICA 分出，阻塞可造成突發聽損與眩暈。",
+      "flashcard_summary": "內耳膜迷路血供 -> 迷路動脈",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n長者看遠正常、看近閱讀模糊，是老花眼（presbyopia）的典型表現。看近物需要睫狀肌收縮、懸韌帶放鬆，使水晶體變厚增加折光力；老化使水晶體硬化、彈性下降，調節能力變差。\n\n【選項詳解】\n- A. 錯誤。玻璃體主要維持眼球形狀與透明介質，虹膜調節瞳孔大小；兩者不負責改變水晶體曲度來完成近距離聚焦。\n- B. 錯誤。角膜提供固定折光力，網膜負責感光。角膜病變或網膜病變通常會造成視力品質下降，常不只限於閱讀近物時模糊。\n- C. 錯誤。黃斑部負責中心視覺與精細辨識；黃斑病變會造成中心暗點、變形視或中心視力下降，遠近視覺都可能受影響。\n- D. 正確。水晶體與睫狀肌是調節作用（accommodation）的關鍵結構；水晶體彈性下降、睫狀肌調節效果變差時，近物影像無法準確聚焦在網膜上，造成閱讀困難。\n\n【核心考點】\n老花眼是調節作用衰退：看近時睫狀肌收縮、懸韌帶放鬆、水晶體變厚；老化後水晶體硬化，使近距離聚焦能力下降。",
+      "key_point": "老花眼來自水晶體彈性下降與睫狀肌調節作用不足，造成看近模糊。",
+      "flashcard_front": "presbyopia / accommodation / lens / ciliary muscle",
+      "flashcard_back": "看近需要睫狀肌收縮使水晶體變厚；老花眼是水晶體硬化與調節力下降造成看近不清。",
+      "flashcard_summary": "看遠正常、看近模糊 -> 水晶體與睫狀肌調節衰退",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n眶上裂（superior orbital fissure）是蝶骨大翼與小翼之間的通道，讓多條眼球運動與眼眶感覺相關神經進入眼眶。視神經（CN II）不走眶上裂，而是和眼動脈一起經視神經管（optic canal）進入眼眶。\n\n【選項詳解】\n- A. 正確。第二對腦神經是視神經，通過視神經管，不通過眶上裂；視神經管也通過眼動脈（ophthalmic artery）。\n- B. 錯誤。第三對腦神經是動眼神經，支配多數眼外肌、提上眼瞼肌，並帶副交感纖維至睫狀神經節；它經眶上裂進入眼眶。\n- C. 錯誤。第四對腦神經是滑車神經，支配上斜肌，走眶上裂進入眼眶。\n- D. 錯誤。第六對腦神經是外旋神經，支配外直肌，也經眶上裂進入眼眶。\n\n【核心考點】\n眶上裂通過 CN III、IV、VI、V1 分支與眼上靜脈；視神經管通過 CN II 與眼動脈。看到 CN II 要聯想到 optic canal。",
+      "key_point": "CN II 走視神經管；CN III、IV、VI 與 V1 相關分支走眶上裂。",
+      "flashcard_front": "superior orbital fissure / optic canal / CN II / CN III IV VI",
+      "flashcard_back": "視神經 CN II 通過視神經管；動眼、滑車、外旋神經通過眶上裂。",
+      "flashcard_summary": "不通過眶上裂 -> CN II",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n肩胛舌骨肌（omohyoid muscle）屬於舌骨下肌群，分為下肌腹、上肌腹與中間腱。本題問起點，omohyoid 的名稱中 omo- 就指肩胛骨，提示其下肌腹由肩胛骨上緣附近起始。\n\n【選項詳解】\n- A. 正確。肩胛舌骨肌下肌腹起自肩胛骨上緣，靠近肩胛切跡附近，之後經中間腱轉為上肌腹並止於舌骨。\n- B. 錯誤。第一肋骨是前斜角肌與中斜角肌等肌肉的重要附著處，也與鎖骨下血管通過相關，但不是肩胛舌骨肌的起點。\n- C. 錯誤。胸骨柄是胸骨舌骨肌、胸骨甲狀肌等舌骨下肌的起點；肩胛舌骨肌的下端連到肩胛骨，而不是胸骨柄。\n- D. 錯誤。鎖骨可供胸鎖乳突肌、胸大肌、三角肌、斜方肌與鎖骨下肌等附著，但肩胛舌骨肌的典型起點在肩胛骨上緣。\n\n【核心考點】\n舌骨下肌群中，肩胛舌骨肌的起點在肩胛骨上緣，止點在舌骨；多數舌骨下肌由頸環（ansa cervicalis）支配。",
+      "key_point": "肩胛舌骨肌下肌腹起自肩胛骨上緣，經中間腱後止於舌骨。",
+      "flashcard_front": "omohyoid muscle / infrahyoid muscle / scapula",
+      "flashcard_back": "肩胛舌骨肌起自肩胛骨上緣，止於舌骨，屬於舌骨下肌群並主要由頸環支配。",
+      "flashcard_summary": "Omohyoid 起點 -> 肩胛骨上緣",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n篩泡（ethmoidal bulla）是中鼻道外側壁上的隆起，位在半月裂上方。它由中篩竇（middle ethmoidal air cells）氣室向外膨出形成，是鼻腔外側壁與鼻旁竇開口定位的重要解剖標誌。\n\n【選項詳解】\n- A. 錯誤。額竇通常經額鼻管或篩漏斗開口到中鼻道前上方，與半月裂區域相關，但不形成篩泡這個隆起。\n- B. 錯誤。前篩竇常開口於篩漏斗或半月裂前部，位置與篩泡附近相鄰，但篩泡本身不是前篩竇延伸形成。\n- C. 正確。篩泡是中篩竇氣室膨大、推起中鼻道外側壁黏膜與骨質形成的隆起；中篩竇常開口在篩泡表面或其上方。\n- D. 錯誤。上頷竇是最大的鼻旁竇，開口位在中鼻道半月裂區域，但其竇腔位於上頷骨內，不會形成篩泡。\n\n【核心考點】\n中鼻道解剖可用兩個地標整理：篩泡由中篩竇形成，半月裂與額竇、前篩竇、上頷竇開口相關。",
+      "key_point": "篩泡是中篩竇氣室膨大形成的中鼻道外側壁隆起。",
+      "flashcard_front": "ethmoidal bulla / middle ethmoidal sinus / middle meatus",
+      "flashcard_back": "篩泡由中篩竇氣室膨大形成，位在中鼻道外側壁、半月裂上方。",
+      "flashcard_summary": "篩泡來源 -> 中篩竇",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:17+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

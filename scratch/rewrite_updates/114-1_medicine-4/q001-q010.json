@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-4.json",
+  "dataset_id": "114-1_medicine-4",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-4_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問自費疫苗接種建議中何者最不適當。關鍵是分辨肺炎鏈球菌「結合型疫苗」與「多醣體疫苗」在嬰幼兒的免疫反應差異。2 歲以下幼兒對純多醣抗原反應差，因此不適用的是 23 價多醣體疫苗（PPSV23）；結合型肺炎鏈球菌疫苗（PCV）反而正是嬰幼兒常規接種使用的疫苗，所以 A 的敘述錯在把兩類疫苗講反。\n\n【選項詳解】\n- A. 結合型肺炎鏈球菌疫苗把多醣抗原接上蛋白載體，可誘發 T 細胞依賴性免疫與免疫記憶，適合 2 歲以下幼兒；2 歲以下效果不佳的是 PPSV23 這類純多醣體疫苗。因此此敘述最不適當。\n- B. 百日咳疫苗保護力會隨時間下降，常規幼兒接種後約 5-10 年抗體可能不足。青少年追加一劑減量破傷風白喉非細胞性百日咳混合疫苗（Tdap）可補強保護力並降低傳播。\n- C. 水痘疫苗接種後仍可能發生突破性感染（breakthrough varicella），通常症狀較輕。未曾得過水痘者在 4-6 歲追加第二劑水痘疫苗，可提高保護效果。\n- D. 麻疹傳染力高，前往流行地區的 6 個月以上未滿 1 歲嬰兒，可提前自費接種一劑 MMR 作短期保護；滿 1 歲後仍需依常規時程完成接種。\n\n【核心考點】\n肺炎鏈球菌疫苗考點是 PCV 可用於嬰幼兒，PPSV23 因純多醣抗原對 2 歲以下免疫原性差而不適用。青少年 Tdap、水痘第二劑與旅遊前 MMR 都是常見自費補強建議。",
+      "key_point": "2 歲以下幼兒可接種結合型肺炎鏈球菌疫苗；不適用的是 23 價多醣體疫苗。",
+      "flashcard_front": "2 歲以下幼兒：PCV 與 PPSV23 哪個不適用？",
+      "flashcard_back": "PPSV23 不適用；PCV 是結合型疫苗，可誘發 T 細胞依賴性免疫，適合嬰幼兒。",
+      "flashcard_summary": "肺炎鏈球菌疫苗：嬰幼兒用 PCV，PPSV23 不適合 2 歲以下。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題問母乳哺餵相關敘述何者最不適當。母乳可降低嬰兒感染、部分過敏疾病與日後代謝心血管風險，也可降低母親乳癌與卵巢癌風險；母乳嬰兒大便偏稀、次數多也常見。真正異常的是把母乳性黃疸延長到 6 個月仍視為正常，這時應排除膽汁滯留或其他病理性黃疸。\n\n【選項詳解】\n- A. 母乳含免疫球蛋白、寡醣與多種抗發炎因子，可降低嬰兒感染與部分過敏性疾病風險；流行病學資料也支持母乳哺餵與較低日後肥胖、血壓及心血管風險相關。\n- B. 哺乳可減少排卵次數與累積雌激素暴露，並促進乳腺分化，因此與母親乳癌、卵巢癌風險下降相關。\n- C. 母乳性黃疸通常在出生後第 2 週較明顯，之後逐漸下降，多在數週至約 3 個月內消退。若黃疸持續至 6 個月，應檢查直接膽紅素、肝膽疾病、膽道閉鎖或代謝疾病，不能直接視為母乳造成。\n- D. 母乳容易消化，且嬰兒胃結腸反射強，頭幾個月常有稀糊或水樣大便、餵完就排便的情形；若生長良好且無脫水、血便或發燒，通常屬生理現象。\n\n【核心考點】\n出生後黃疸持續太久不可只歸因於母乳。母乳性黃疸可延續數週，但若到 6 個月仍明顯黃疸，需排除膽汁滯留、肝膽或代謝疾病。",
+      "key_point": "母乳性黃疸不應持續到 6 個月仍視為正常，需排除病理性黃疸。",
+      "flashcard_front": "母乳寶寶黃疸持續到 6 個月，是否可視為母乳性黃疸？",
+      "flashcard_back": "不可。母乳性黃疸多在數週至約 3 個月內改善，6 個月仍黃疸需排除肝膽或代謝疾病。",
+      "flashcard_summary": "母乳哺餵：母乳性黃疸可延長但不應拖到 6 個月仍未評估。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n27 週早產兒開始餵食後出現嗜睡、腹脹、膽汁性嘔吐與血便，是新生兒壞死性腸炎（necrotizing enterocolitis, NEC）的典型情境。急性 NEC 腸壁發炎壞死且可能穿孔，處置重點是禁食、胃腸減壓、廣效抗生素、輸液與外科評估；此時安排上消化道攝影會增加腸道壓力與穿孔風險，因此最不適當。\n\n【選項詳解】\n- A. NEC 常合併細菌移位、腹膜炎與敗血症風險，需給予涵蓋腸道菌叢的廣效抗生素，通常同時禁食並放置胃管減壓。\n- B. NEC 會因發炎、第三空間流失與敗血症造成循環不穩，增加靜脈輸液可維持灌流、血壓與腎功能，是急性處置的一部分。\n- C. 若出現氣腹、腸穿孔、腹膜炎，或內科治療後仍惡化，需小兒外科評估手術切除壞死腸段或引流，因此早期會診合理。\n- D. 上消化道攝影通常用於評估腸旋轉不良等診斷，但在疑似急性 NEC 時，腸壁脆弱且有穿孔風險，灌入顯影劑可能惡化病情；此選項為不適當處置。\n\n【核心考點】\n早產兒餵食後腹脹、膽汁性嘔吐、血便要想到 NEC。急性 NEC 處置為禁食、胃管減壓、廣效抗生素、輸液與外科評估，避免不必要的腸道顯影檢查。",
+      "key_point": "疑似急性 NEC 時避免上消化道攝影；先禁食、減壓、抗生素、輸液並會診外科。",
+      "flashcard_front": "早產兒 NEC 急性期最不適合做什麼檢查？",
+      "flashcard_back": "避免上消化道攝影或增加腸道壓力的顯影檢查，因腸壁壞死脆弱且有穿孔風險。",
+      "flashcard_summary": "NEC：急性期以內科穩定與外科評估為主，避免腸道顯影造成穿孔。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": [
+        "影像題，建議主線對照原始腹部 X 光確認是否有腸壁積氣或門靜脈積氣。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n剛出生新生兒 Hb 9.7 g/dL、Hct 30% 已屬貧血，MCV 80 fL 對新生兒而言是明顯小球性。出生當下就有小球性貧血，最能指向 α 型地中海型貧血，因胎兒期與出生後的主要血紅素都需要 α 鏈；α 鏈合成不足會在出生時即顯現。\n\n【選項詳解】\n- A. 缺鐵性貧血通常不會在足月新生兒剛出生時出現，因胎兒期可自母體取得鐵儲存；典型發生在出生數月後鐵儲存耗盡、攝取不足或早產低出生體重時。\n- B. β 型地中海型貧血影響 β 鏈合成，但胎兒與新生兒早期主要血紅素是 HbF（α2γ2），β 鏈需求較少；多在出生後 HbF 下降、HbA 增加的數月後才出現明顯症狀。\n- C. α 型地中海型貧血影響 α 鏈，而 HbF 與 HbA 都需要 α 鏈，因此可在出生時即造成小球性低色素性貧血，符合本題數據。\n- D. 蠶豆症（G6PD deficiency）造成氧化壓力下急性溶血，常見黃疸或溶血發作，紅血球大小通常不是一出生即呈小球性；MCV 80 fL 的線索較不支持此診斷。\n\n【核心考點】\n新生兒出生即小球性貧血要優先想到 α 型地中海型貧血。β 型地中海型貧血因 HbF 保護，典型症狀多在出生後數月才明顯。",
+      "key_point": "出生即出現小球性貧血最支持 α 型地中海型貧血。",
+      "flashcard_front": "為什麼 α-thalassemia 可在出生時表現，β-thalassemia 常較晚？",
+      "flashcard_back": "HbF 與 HbA 都需要 α 鏈；β 鏈主要在 HbA 增加後才顯得重要，所以 β-thalassemia 多在數月後表現。",
+      "flashcard_summary": "新生兒小球性貧血：出生即見優先考 α-thalassemia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n第 40 天嬰兒出現黃疸、糞便極淡黃，總膽紅素 12 mg/dL、直接膽紅素 5.6 mg/dL，直接膽紅素比例明顯升高，屬結合型高膽紅素血症與膽汁滯留。膽道閉鎖、新生兒肝炎、長期靜脈營養都可造成膽汁滯留；吉伯特氏症候群則是非結合型膽紅素代謝問題，因此最不可能。\n\n【選項詳解】\n- A. 新生兒膽道閉鎖會阻斷膽汁排出，造成結合型膽紅素上升、灰白或極淡色糞便與肝功能異常，是本題必須排除的重要疾病。\n- B. 新生兒肝炎症候群可因肝細胞發炎與膽汁排泄障礙導致直接膽紅素升高，也可出現 ALT 上升與膽汁滯留表現。\n- C. 長期靜脈營養可造成 parenteral nutrition-associated cholestasis，尤其無法腸道進食的嬰兒，會出現直接膽紅素上升與肝功能異常。\n- D. 吉伯特氏症候群是 UGT1A1 活性下降造成的非結合型高膽紅素血症，通常不會造成直接膽紅素明顯上升、淡色便或 ALT 升高，因此與本題膽汁滯留型黃疸不合。\n\n【核心考點】\n新生兒直接膽紅素升高與淡色便代表膽汁滯留，常見原因包括膽道閉鎖、新生兒肝炎與長期靜脈營養。吉伯特氏症候群造成的是非結合型高膽紅素血症。",
+      "key_point": "直接膽紅素升高加淡色便是膽汁滯留；Gilbert syndrome 屬非結合型高膽紅素血症。",
+      "flashcard_front": "新生兒直接膽紅素升高、淡色便，Gilbert syndrome 合理嗎？",
+      "flashcard_back": "不合理。Gilbert syndrome 是非結合型高膽紅素血症，不會造成膽汁滯留與淡色便。",
+      "flashcard_summary": "膽汁滯留：直接膽紅素上升與淡色便，排除 BA、肝炎、PNAC；Gilbert 不符。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問兒童心肌炎何者最不適當。兒童心肌炎常由病毒引起，嚴重度從輕症到猛爆性心肌炎都有；若聽到心包膜摩擦音，代表發炎波及心包膜。錯誤敘述在於說恢復後大多留下嚴重後遺症，實際上能度過急性期並恢復者，多數心功能可改善或回復。\n\n【選項詳解】\n- A. 病毒感染是兒童急性心肌炎常見病因，包括腸病毒、腺病毒、流感病毒、parvovirus B19 等，因此此敘述合理。\n- B. 心肌炎臨床光譜很廣，部分病例只有胸痛、心悸、輕微心電圖或心肌酵素異常，甚至可自行改善，因此輕症確實存在。\n- C. 心包膜摩擦音（pericardial friction rub）源自發炎心包膜摩擦，若心肌炎患者出現此體徵，表示合併心包膜受累，即 myopericarditis。\n- D. 猛爆性心肌炎急性期可危及生命，但兒童若接受支持治療並順利恢復，多數不會留下嚴重後遺症；少數才進展為擴張型心肌病變或慢性心衰竭。\n\n【核心考點】\n兒童心肌炎常見病因為病毒，病程可輕可重。心包膜摩擦音提示心包膜受累；恢復後多數不會有嚴重後遺症，但急性期需警覺心衰竭與休克。",
+      "key_point": "兒童心肌炎恢復後多數心功能可改善，不是大多留下嚴重後遺症。",
+      "flashcard_front": "兒童心肌炎恢復後是否多數有嚴重後遺症？",
+      "flashcard_back": "不是。急性期可很危險，但順利恢復者多數心功能可回復，少數進展為慢性心肌病變。",
+      "flashcard_summary": "心肌炎：病毒常見、可輕可重；friction rub 代表心包受累，恢復後多數預後可佳。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nd-transposition of the great arteries with intact ventricular septum（d-TGA/IVS）會使體循環與肺循環呈平行循環，生命依賴心房層級、動脈導管或其他交通來混合血液。急救包含 PGE1 維持 PDA、必要時心房造口增加混合，並儘早做 arterial switch operation。若病嬰缺氧、酸中毒或 PGE1 造成呼吸中止，插管通氣是必要支持；刻意避免插管才是不適當。\n\n【選項詳解】\n- A. 若心房間交通受限，含氧血與缺氧血混合不足，會造成嚴重發紺；Rashkind balloon atrial septostomy 可擴大心房交通、改善血氧。\n- B. PGE1 可維持動脈導管開放，增加體肺循環間混合，是 d-TGA 新生兒穩定病情的重要藥物，但需監測呼吸中止與低血壓。\n- C. d-TGA 病嬰若出現呼吸衰竭、重度缺氧酸中毒或 PGE1 相關 apnea，應插管與機械通氣支持。把避免插管當成原則，可能延誤穩定病情，因此不適當。\n- D. d-TGA/IVS 需在出生早期進行 arterial switch operation，避免左心室因出生後肺血管阻力下降而退化，失去支撐體循環的能力。\n\n【核心考點】\nd-TGA/IVS 的急救是維持混合：PGE1 保持 PDA、心房造口改善心房層級混合，並早期 ASO。必要時插管是支持治療，不應為了避免肺壓上升而延誤。",
+      "key_point": "d-TGA/IVS 需 PGE1、必要時心房造口與早期 ASO；嚴重缺氧或 apnea 時應插管支持。",
+      "flashcard_front": "d-TGA/IVS 新生兒發紺的急救重點是什麼？",
+      "flashcard_back": "維持血液混合：PGE1 保持 PDA，心房交通不足時做 balloon atrial septostomy，早期 ASO；必要時插管。",
+      "flashcard_summary": "d-TGA：平行循環需靠混合維生，PGE1、BAS、ASO 是關鍵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題比較不同先天性心臟病出現心臟衰竭的時機。大型 VSD 通常等出生後肺血管阻力下降才出現心衰竭；ASD 分流較溫和，幼兒期多無明顯心衰；HLHS 多在出生後 PDA 關閉時惡化。嚴重 Ebstein anomaly 合併重度三尖瓣逆流則可在胎兒期造成右心衰竭與胎兒水腫，因此 D 最適當。\n\n【選項詳解】\n- A. 大型 VSD 的左向右分流會隨肺血管阻力下降而增加，心衰竭多在出生後數週較明顯，而不是出生一週內就典型發作。\n- B. 大型 ASD 通常造成容量負荷較慢，嬰幼兒多無症狀或症狀輕微，少見在一歲內就有明顯心衰竭。\n- C. HLHS 胎兒期可由胎盤供氧與卵圓孔、動脈導管維持循環，典型危機是在出生後動脈導管關閉，造成體循環灌流不足與休克。\n- D. Ebstein anomaly 若三尖瓣嚴重逆流，右心房與右心容量負荷極大，可在胎兒期即造成心衰竭、胎兒水腫或胎死，符合題目所問的時機。\n\n【核心考點】\n先天性心臟病心衰竭時機取決於分流量、肺血管阻力與導管依賴性。大型 VSD 多在出生後數週，HLHS 在 PDA 關閉後，嚴重 Ebstein 可在胎兒期。",
+      "key_point": "嚴重 Ebstein anomaly 合併重度三尖瓣逆流可於胎兒期造成心衰竭與胎兒水腫。",
+      "flashcard_front": "哪種先天性心臟病可在胎兒期就因心衰竭表現？",
+      "flashcard_back": "嚴重 Ebstein anomaly 合併重度三尖瓣逆流，可導致右心衰竭與胎兒水腫。",
+      "flashcard_summary": "CHD 心衰時機：VSD 數週後、HLHS PDA 關閉後、嚴重 Ebstein 可胎兒期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-4_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題考肝炎病毒潛伏期。常用記憶範圍為 HAV 約 15-50 天、HBV 約 45-160 天、HCV 約 2 週至 6 個月、HEV 約 15-60 天。四個選項中，A 的 15-19 天雖偏向 HAV 潛伏期下限，但仍落在可接受範圍；B、C、D 分別把 HBV、HCV、HEV 說得過短或過長，偏離更明顯。\n\n【選項詳解】\n- A. HAV 潛伏期約 15-50 天，平均約 1 個月。15-19 天位於 HAV 潛伏期下限附近，與 A 型肝炎最能相符。\n- B. HBV 潛伏期通常較長，約 45-160 天，平均約 2-4 個月；30 天太短，較不符合 B 型肝炎典型潛伏期。\n- C. HCV 潛伏期約 14-180 天，平均約 6-7 週；7 天太短，不能支持 C 型肝炎典型潛伏期。\n- D. HEV 潛伏期約 15-60 天，平均約 40 天；90 天超出常見範圍，較不符合 E 型肝炎。\n\n【核心考點】\n肝炎病毒潛伏期可用 HAV 15-50 天、HBV 45-160 天、HCV 14-180 天、HEV 15-60 天記憶。若選項給固定數字，要選落在合理範圍且其他選項明顯偏離者。",
+      "key_point": "HAV 潛伏期約 15-50 天；HBV、HCV 潛伏期較長，HEV 約 15-60 天。",
+      "flashcard_front": "HAV、HBV、HCV、HEV 的潛伏期大致範圍？",
+      "flashcard_back": "HAV 15-50 天；HBV 45-160 天；HCV 14-180 天；HEV 15-60 天。",
+      "flashcard_summary": "肝炎潛伏期：HAV/HEV 約數週，HBV/HCV 可更長。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": [
+        "官方答案 A 採 HAV 潛伏期下限邏輯；15-19 天不是常見平均值，建議主線保留複核註記。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-4_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n足月新生兒出生後 6 小時即黃疸，早於 24 小時，屬病理性黃疸，需考慮溶血、感染或其他病因。題目問最能支持溶血者，周邊血抹片看到紅血球碎片（schistocytes/fragmented RBCs）是紅血球破壞的形態學證據，因此 C 最能支持溶血。\n\n【選項詳解】\n- A. 溶血造成大量血紅素分解，主要增加非結合型（間接型）膽紅素。直接型膽紅素上升較支持膽汁滯留、肝膽疾病或感染造成的直接高膽紅素血症。\n- B. 直接庫氏試驗陰性不能支持免疫性溶血；雖然非免疫性溶血如 G6PD deficiency 可為陰性，但「陰性」本身不是證明溶血的證據。\n- C. 周邊血抹片見 fragmented red blood cells 代表紅血球受到機械性或病理性破壞，是支持溶血的重要直接證據，可解釋早發黃疸。\n- D. 足月新生兒 hematocrit 55% 屬常見正常範圍，沒有顯示貧血或紅血球破壞；溶血若明顯，常伴隨貧血、網狀紅血球增加或抹片異常。\n\n【核心考點】\n出生 24 小時內黃疸是病理性黃疸。溶血支持證據包括間接膽紅素上升、貧血、網狀紅血球增加、Coombs 陽性（免疫性）或血抹片出現紅血球碎片、球形紅血球等異常。",
+      "key_point": "新生兒早發黃疸若血抹片見紅血球碎片，最支持溶血性黃疸。",
+      "flashcard_front": "新生兒出生 6 小時黃疸，哪個檢驗最支持溶血？",
+      "flashcard_back": "周邊血抹片見紅血球碎片。溶血主要造成間接膽紅素上升，Hct 55% 屬足月新生兒常見範圍。",
+      "flashcard_summary": "早發新生兒黃疸：血抹片 fragmented RBCs 是溶血證據。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T12:27:14+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

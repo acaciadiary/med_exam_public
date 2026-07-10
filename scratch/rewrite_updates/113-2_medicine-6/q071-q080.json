@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/113-2/medicine-6.json",
+  "dataset_id": "113-2_medicine-6",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "113-2_medicine-6_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問巴氏量表（Barthel index）何者最不適當。Barthel index 用來評估基本日常生活活動（basic activities of daily living, basic ADLs），重點是進食、移位、如廁、行走、上下樓梯、穿衣、沐浴、個人衛生與大小便控制；溝通與社會認知不是它的評估項目。\n\n【選項詳解】\n- A. 適當。Barthel index 的目的就是評估病人執行基本 ADLs 的獨立程度，常用於中風、復健、長照與失能程度追蹤。\n- B. 適當。常用 Barthel index 總分為 0 到 100 分，分數越高代表基本日常生活功能越獨立。\n- C. 適當。Barthel index 的 10 個項目包含 bowel control 與 bladder control，因此會評估大便與小便控制能力。\n- D. 不適當。溝通能力與社會認知屬於較高階的認知、互動與功能獨立評估範疇，較接近 FIM（Functional Independence Measure）的認知項目，不屬於 Barthel index 的核心內容。\n\n【核心考點】\nBarthel index 是 basic ADLs 量表，滿分 100 分，含大小便控制；若題目提到溝通、社會認知或複雜認知功能，通常不是 Barthel index 的評估項目。",
+      "key_point": "Barthel index 評估基本日常生活活動，滿分 100 分，包含大小便控制，但不包含溝通能力與社會認知。",
+      "flashcard_front": "Barthel index 評估哪些功能？是否包含溝通與社會認知？",
+      "flashcard_back": "Barthel index 評估 basic ADLs，滿分 100 分，包含大小便控制；不評估溝通能力與社會認知。",
+      "flashcard_summary": "Barthel index -> basic ADLs, 0-100 分, 含 bowel/bladder control, 不含溝通與社會認知。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n37 歲女性出現左上眼瞼下垂與複視，代表第 III、IV、VI 對腦神經或海綿竇區域受侵犯。若顯影 MRI 顯示鼻咽部腫瘤向顱底、斜坡或海綿竇延伸，最能解釋單側動眼神經麻痺與複視的是鼻咽癌併局部侵犯。\n\n【選項詳解】\n- A. 錯誤。頸動脈海綿竇瘻管（carotid-cavernous sinus fistula）是動靜脈分流，常見突眼、結膜充血水腫、眼球雜音、眼壓升高與上眼靜脈擴張；它不是以鼻咽部實體腫瘤侵犯顱底為主要影像表現。\n- B. 錯誤。視神經鞘腦膜瘤（optic nerve sheath meningioma）主要沿視神經鞘生長，典型表現是漸進性視力下降、視神經萎縮或眼眶內管狀增強，不足以解釋鼻咽腫瘤向海綿竇侵犯造成的多條眼球運動神經症狀。\n- C. 錯誤。鼻竇癌通常以鼻腔或副鼻竇為腫瘤中心，常有鼻塞、鼻出血、臉部腫脹或局部骨破壞；若影像中心在鼻咽並向顱底與海綿竇延伸，診斷方向應優先考慮鼻咽癌。\n- D. 正確。鼻咽癌（nasopharyngeal carcinoma）容易經顱底孔道向上侵犯斜坡、破裂孔與海綿竇，壓迫第 III、IV、VI 對腦神經後可出現眼瞼下垂、複視與外眼肌麻痺，是本題症狀與影像分布的合理診斷。\n\n【核心考點】\n鼻咽癌可局部侵犯顱底與海綿竇；海綿竇受侵犯時要想到第 III、IV、VI 對腦神經麻痺，臨床可表現為眼瞼下垂、複視與眼球運動障礙。",
+      "key_point": "鼻咽癌常向顱底與海綿竇局部侵犯，造成第 III、IV、VI 對腦神經症狀，如眼瞼下垂與複視。",
+      "flashcard_front": "鼻咽癌侵犯海綿竇時會出現哪些神經症狀？",
+      "flashcard_back": "可壓迫第 III、IV、VI 對腦神經，造成眼瞼下垂、複視與眼球運動障礙。",
+      "flashcard_summary": "NPC local invasion -> skull base/cavernous sinus involvement -> CN III/IV/VI palsy with ptosis and diplopia.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": [
+        "影像題：建議對照原始 MRI 圖確認病灶中心位於鼻咽且有顱底或海綿竇侵犯。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-6_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n45 歲女性健檢發現骨盆腔影像異常；若腹部 X 光呈現骨盆腔粗大、團塊狀或爆米花樣鈣化，經陰道超音波又見子宮肌層內邊界清楚的實體腫塊伴鈣化與聲影，最典型診斷是子宮平滑肌瘤（uterine leiomyoma/fibroid）發生鈣化變性。\n\n【選項詳解】\n- A. 錯誤。骨盆腔發炎性疾病（PID）多與下腹痛、發燒、子宮頸舉痛、輸卵管卵巢膿瘍或輸卵管積水有關，影像不會以孤立的子宮肌層鈣化腫塊作為典型表現。\n- B. 錯誤。子宮內避孕器（IUD）在 X 光或超音波通常呈 T 形、環形或線狀高密度/高回音結構，位於子宮腔內；它不會形成子宮肌層內圓形實體腫瘤與爆米花樣鈣化。\n- C. 正確。子宮肌瘤是子宮肌層良性平滑肌腫瘤，常見於生育年齡後期至停經前後女性；肌瘤退化後可出現鈣化，X 光可見粗大爆米花樣鈣化，超音波可有後方聲影。\n- D. 錯誤。子宮內膜癌主要來自子宮內膜，常見表現是不正常子宮出血、停經後出血與內膜增厚；它不是以子宮肌層內鈣化良性腫塊作為典型影像。\n\n【核心考點】\n骨盆腔爆米花樣鈣化加上子宮肌層實體腫塊，要優先想到鈣化變性的子宮平滑肌瘤；IUD 看形狀與位置，內膜癌看內膜增厚與異常出血，PID 看感染與輸卵管卵巢病灶。",
+      "key_point": "子宮肌瘤鈣化變性可在 X 光呈骨盆腔爆米花樣鈣化，超音波顯示子宮肌層腫塊伴強回音與聲影。",
+      "flashcard_front": "骨盆腔 X 光爆米花樣鈣化合併子宮肌層腫塊，最可能診斷？",
+      "flashcard_back": "子宮平滑肌瘤（uterine leiomyoma/fibroid）伴鈣化變性。",
+      "flashcard_summary": "Calcified uterine fibroid -> pelvic popcorn calcification on X-ray and myometrial mass with shadowing on ultrasound.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": [
+        "影像題：建議對照原始 X 光與經陰道超音波確認是否為爆米花樣鈣化與子宮肌層腫塊。"
+      ]
+    },
+    {
+      "question_id": "113-2_medicine-6_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題問分離性骨軟骨炎（osteochondritis dissecans, OCD）何者最不適當。OCD 是關節軟骨下骨局部病灶，常見於青少年與年輕運動族群，病灶不穩定時可形成關節內游離體；把它描述成 70 歲以上男性且合併股骨頭缺血性壞死並不合理。\n\n【選項詳解】\n- A. 不適當。OCD 典型年齡層是兒童、青少年與年輕成人，常和反覆微創傷、關節負重或運動相關；70 歲以上男性合併股骨頭缺血性壞死較像另一類退化或血供問題，並非 OCD 的典型流行病學描述。\n- B. 適當。OCD 病灶若軟骨與軟骨下骨片不穩定並脫落，可在關節腔內形成 loose body，造成疼痛、腫脹、卡住或關節絞鎖。\n- C. 適當。MRI 可顯示軟骨下骨水腫、病灶範圍、軟骨完整性與是否有液體進入病灶周圍，是評估 OCD 穩定度與治療策略的重要影像工具。\n- D. 適當。OCD 常見於青少年，最常侵犯膝關節股骨髁，也可侵犯踝關節距骨或肘關節；中學生族群與踝關節病灶皆可見。\n\n【核心考點】\nOCD 要記住「青少年、關節軟骨下骨、MRI 評估穩定度、可形成 loose body」。老年人股骨頭缺血性壞死不是 OCD 的典型描述。",
+      "key_point": "Osteochondritis dissecans 好發於青少年與年輕人，病灶可脫落成 loose body，MRI 可評估病灶與穩定度。",
+      "flashcard_front": "Osteochondritis dissecans 的典型族群與併發表現？",
+      "flashcard_back": "好發於青少年或年輕運動族群；軟骨下骨病灶不穩定時可脫落成關節內游離體，造成關節卡住或絞鎖。",
+      "flashcard_summary": "OCD -> adolescents/young athletes, subchondral lesion, MRI useful, unstable fragment may become loose body.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n孕婦 28 週發生下肢深部靜脈栓塞（DVT），治療要兼顧母體抗凝與胎兒安全。本題問最不適合，關鍵是 warfarin 會通過胎盤，孕期可能造成胎兒畸形與出血，因此不應作為此情境的治療選擇。\n\n【選項詳解】\n- A. 最不適合。Warfarin 分子小，可通過胎盤；孕期使用可能造成 warfarin embryopathy、胎兒中樞神經異常、胎兒或新生兒出血，尤其在懷孕期間治療 DVT 時通常避免使用。\n- B. 可使用。Unfractionated heparin（UFH）分子量大，不通過胎盤，可用於孕期抗凝；在接近生產、需要快速反轉或腎功能不佳時，UFH 的可調整性與半衰期較短有實務優勢。\n- C. 可使用。Low-molecular-weight heparin（LMWH）不通過胎盤，孕期治療 DVT 常作為優先選擇，因給藥方便且發生 heparin-induced thrombocytopenia 與骨質流失的風險通常低於 UFH。\n- D. 可考慮。若抗凝治療有禁忌、出現嚴重出血，或足量抗凝下仍反覆發生栓塞，可在審慎評估後考慮 inferior vena cava filter；它不是第一線常規處置，但在特定高風險情境有角色。\n\n【核心考點】\n孕期 DVT 的抗凝首選是 heparin 類藥物，尤其 LMWH；warfarin 會通過胎盤並造成胎兒畸形或出血風險，因此是孕期抗凝考題中最常被排除的選項。",
+      "key_point": "孕期 DVT 治療以 LMWH 或 UFH 為主；warfarin 會通過胎盤並增加胎兒畸形與出血風險，通常不適合孕期使用。",
+      "flashcard_front": "孕婦 DVT 抗凝治療：哪個藥物最不適合？",
+      "flashcard_back": "Warfarin。它會通過胎盤，可能造成胎兒畸形與出血；孕期 DVT 通常使用 LMWH 或 UFH。",
+      "flashcard_summary": "Pregnancy DVT -> use LMWH/UFH; avoid warfarin because it crosses placenta and harms fetus.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n急性會厭炎（acute epiglottitis）可快速造成聲門上氣道阻塞。最可靠的考點是：病人若已有呼吸窘迫，處置優先順序是保護氣道，避免讓病人平躺做檢查或用鎮靜、肌肉鬆弛劑讓自主呼吸消失；吸氣性喘鳴（stridor）是上呼吸道狹窄的重要體徵。\n\n【選項詳解】\n- A. 不夠精確。Drooling、dysphagia、distress 是常被提到的警訊，但不是每位急性會厭炎病人都會完整呈現，成人尤其可能以喉嚨痛、吞嚥痛、聲音改變或坐姿前傾表現；因此「大部分皆有典型 3D」過於絕對。\n- B. 正確。會厭與聲門上組織腫脹會使吸氣時氣流通過狹窄上呼吸道，產生 inspiratory stridor；一旦出現 stridor，代表氣道已相當狹窄，需高度警覺惡化。\n- C. 錯誤。已有呼吸窘迫時，不應先安排頸部 CT 來確診，因轉送、平躺與延誤處置都可能讓氣道突然完全阻塞；應在有能力處理困難氣道的環境中優先穩定氣道。\n- D. 錯誤。清醒且呼吸窘迫的會厭炎病人若直接給鎮靜藥與肌肉鬆弛劑，可能失去自主呼吸並造成軟組織塌陷，導致無法通氣的危急狀態；插管需由有經驗團隊執行，並準備外科氣道備援。\n\n【核心考點】\n急性會厭炎的危險在於上呼吸道快速阻塞；stridor 是嚴重狹窄警訊。有呼吸窘迫時先保護氣道，不先送 CT，也不以常規鎮靜加肌鬆方式冒然插管。",
+      "key_point": "急性會厭炎可出現吸氣性 stridor；呼吸窘迫時應優先保護氣道，避免平躺 CT 與冒然使用鎮靜、肌肉鬆弛劑。",
+      "flashcard_front": "急性會厭炎呼吸窘迫時，為何不能先鎮靜肌鬆插管或送 CT？",
+      "flashcard_back": "鎮靜肌鬆可能讓自主呼吸消失並使腫脹上呼吸道塌陷；CT 需轉送與平躺，可能延誤氣道處置並誘發完全阻塞。",
+      "flashcard_summary": "Acute epiglottitis -> inspiratory stridor; airway first, avoid CT delay and avoid routine sedation/paralysis in distressed awake patient.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n題幹先描述站久疼痛、休息改善的背痛，這很像脊椎狹窄造成的神經性跛行；但醫師說這是必須馬上處理的緊急情況。本題問最不可能是哪個診斷，因此慢性退化性的 spinal stenosis 最不符合「急症」設定。\n\n【選項詳解】\n- A. 可能是急症。Aortic dissection 可表現為突發、劇烈、撕裂樣胸背痛，可能合併休克、脈搏差、神經症狀或器官缺血；若漏診可能迅速死亡，必須立即評估與處理。\n- B. 可能是急症。Cauda equina syndrome 代表馬尾神經受壓，典型警訊包括尿滯留或失禁、鞍部麻木、雙下肢神經缺損；需要緊急影像與減壓，避免永久神經功能損害。\n- C. 最不可能是急診需立刻處理的診斷。Spinal stenosis 多為退化性慢性病程，典型是站立或走路加重、坐下或前彎改善；除非合併急性神經惡化或馬尾症候群，通常不是立即處理的危急診斷。\n- D. 可能是急症。Epidural abscess 可造成背痛、發燒、神經學缺損，常與糖尿病、免疫低下、靜脈藥癮或近期感染/侵入性處置相關；延誤治療可能導致脊髓壓迫與永久癱瘓。\n\n【核心考點】\n背痛急症要排除血管、感染與神經壓迫危機：aortic dissection、cauda equina syndrome、epidural abscess 都可能需要立即處理；典型 spinal stenosis 多是慢性退化問題。",
+      "key_point": "背痛紅旗包括主動脈剝離、馬尾症候群與硬脊膜外膿瘍；典型脊椎狹窄是慢性退化性疾病，通常不是急診立即處理的診斷。",
+      "flashcard_front": "背痛急症中，哪個選項通常不是需立即處理的急症？",
+      "flashcard_back": "Spinal stenosis。它多為慢性退化性狹窄，典型是站走加重、坐下或前彎改善；aortic dissection、cauda equina syndrome、epidural abscess 才是紅旗急症。",
+      "flashcard_summary": "Back pain emergency -> dissection, cauda equina, epidural abscess; typical spinal stenosis is chronic.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nBeauchamp 和 Childress 的生命倫理四原則包括尊重自主、不傷害、行善與正義。其核心立場不是建立固定階級排序，而是把四原則視為 prima facie duties：在沒有衝突時各自具有效力；衝突時需依個案情境權衡。\n\n【選項詳解】\n- A. 正確。1=2=3=4 表示四原則沒有先天固定優先順位，符合 Beauchamp 和 Childress 的原則主義觀點；臨床倫理判斷須看具體情境，而不是永遠讓某一原則凌駕其他原則。\n- B. 錯誤。不傷害原則很重要，但作者並未主張不傷害一定高於自主、行善與正義；例如拒絕治療、資源分配或公共衛生情境都可能需要不同權衡。\n- C. 錯誤。尊重自主在現代醫學倫理中地位很高，但並非所有情境都固定排第一；若有傷害他人、病人無決策能力或公共利益問題，就需與其他原則一起評估。\n- D. 錯誤。自主與正義也沒有被設定為固定高於不傷害與行善；此排序把四原則分成上下層級，與原則主義的初始同等效力不符。\n\n【核心考點】\nBeauchamp 和 Childress 的四原則沒有固定優先順序；遇到倫理衝突時，要依個案事實、病人能力、風險效益與資源公平性進行權衡。",
+      "key_point": "生命倫理四原則在 Beauchamp 和 Childress 的架構中沒有先天固定排序，臨床衝突需依個案權衡。",
+      "flashcard_front": "Beauchamp 和 Childress 的四原則是否有固定優先順序？",
+      "flashcard_back": "沒有。自主、不傷害、行善、正義都是 prima facie duties，遇到衝突時依個案權衡。",
+      "flashcard_summary": "Four principles -> autonomy, nonmaleficence, beneficence, justice have no fixed hierarchy; balance by case.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n新生兒為 trisomy 18，出生後無法自行呼吸，且合併心臟與食道氣管瘻管等多重先天異常，即使手術預後仍極差。此時倫理重點是避免無益且增加痛苦的積極治療，尊重父母作為法定代理人在孩子最佳利益下的決定，轉向緩和醫療。\n\n【選項詳解】\n- A. 錯誤。立即手術不一定符合最大利益；若疾病本身致死性高、手術無法改善整體預後，侵入性治療可能只延長痛苦與瀕死過程。\n- B. 錯誤。新生兒無決策能力時，父母通常是法定代理決策者；在醫療團隊充分告知且判斷積極治療無明顯效益時，父母可拒絕無益的侵入性治療。\n- C. 正確。緩和醫療（palliative care）不等於放棄照顧，而是把目標改為舒適、止痛、減少呼吸困難、保溫、陪伴與尊嚴，符合此類預後極差新生兒的最佳利益。\n- D. 錯誤。直接使病人死亡屬主動安樂死概念，和撤除或不施行無效醫療、提供緩和照護不同；在台灣現行醫療倫理與法律架構下，不能以安樂死作為處置。\n\n【核心考點】\n對預後極差且積極治療無益的新生兒，應區分「緩和醫療」與「安樂死」：前者是減少痛苦與提供舒適照護，後者是直接造成死亡，兩者倫理與法律意義不同。",
+      "key_point": "致死性先天異常且積極治療無益時，可尊重父母代理決策並給予緩和醫療；緩和醫療不是安樂死。",
+      "flashcard_front": "Trisomy 18 新生兒預後極差且父母拒絕積極治療，適當處置？",
+      "flashcard_back": "尊重父母在孩子最佳利益下的代理決策，停止無益侵入性治療，提供緩和醫療與舒適照護。",
+      "flashcard_summary": "Lethal neonatal anomaly -> avoid futile invasive treatment, respect parental surrogate decision, provide palliative care.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-2_medicine-6_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題問醫療隱私維護何者錯誤。診療隱私包含空間隔離、錄音錄影同意、診間隔音，以及教學活動中的告知與同意；教學醫院雖有教育使命，但不能因此忽略病人隱私與自主權。\n\n【選項詳解】\n- A. 正確。病人就診時應避免無關人員在場或聽聞診療內容，這是維護病史、身體檢查與個人資料隱私的基本要求。\n- B. 正確。診療過程涉及敏感個資與醫療對話，醫病任一方若要錄音或錄影，應事先告知並取得對方同意，以保障隱私、信任與資料使用界線。\n- C. 正確。門診診間與諮詢會談場所應盡量採單診間並有適當隔音，避免其他病人或無關人員聽到病情、檢查結果與家庭社會資訊。\n- D. 錯誤。實習學生在旁學習仍屬第三人在場，會接觸病人病情、身體暴露或私密資訊；即使是教學醫院，也應事先告知病人並取得同意，病人有權拒絕學生觀摩。\n\n【核心考點】\n醫療隱私不會因教學需求而消失；學生、實習人員或觀摩者在場前，應告知病人並取得同意。診間隔離、隔音與錄音錄影同意都是隱私維護的基本要求。",
+      "key_point": "教學醫院安排學生在旁學習仍須事先告知並取得病人同意；病人隱私與自主權不因教學需求而消失。",
+      "flashcard_front": "教學醫院學生旁聽診療，是否需要事先告知病人？",
+      "flashcard_back": "需要。學生在場會接觸病人隱私，應事先告知並取得同意，病人有權拒絕。",
+      "flashcard_summary": "Medical privacy -> single room/soundproofing, recording requires consent, students observing require prior notice and patient consent.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

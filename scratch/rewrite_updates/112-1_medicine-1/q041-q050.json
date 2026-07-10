@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-1/medicine-1.json",
+  "dataset_id": "112-1_medicine-1",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "112-1_medicine-1_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題比較支氣管（bronchus）與終端細支氣管（terminal bronchiole）的傳導部組織學差異。關鍵在於終端細支氣管已沒有軟骨、腺體與杯狀細胞，但仍有平滑肌與彈性纖維，且尚未進入真正氣體交換區。\n\n【選項詳解】\n- A. 正確。支氣管壁有平滑肌束；終端細支氣管雖然管徑較小、無軟骨支撐，但平滑肌層相對重要，可調節小氣道阻力。\n- B. 錯誤。支氣管上皮可見杯狀細胞分泌黏液；終端細支氣管上皮轉為單層立方上皮，杯狀細胞消失，主要由纖毛細胞與 club cell 維持小氣道表面環境。題目問何者錯誤，因此 B 為答案。\n- C. 正確。支氣管樹各層管壁均可見彈性纖維，終端細支氣管周圍也有彈性纖維，有助於肺組織回彈與保持小氣道張力。\n- D. 正確。支氣管與終端細支氣管都屬於傳導部；氣體交換要到呼吸細支氣管、肺泡管與肺泡才開始，因此兩者均無實質氣體交換功能。\n\n【核心考點】\n支氣管到終端細支氣管的高頻變化是杯狀細胞、腺體與軟骨逐漸消失；終端細支氣管仍屬傳導部，有平滑肌與彈性纖維，但沒有杯狀細胞，也不進行氣體交換。",
+      "key_point": "終端細支氣管沒有杯狀細胞，仍有平滑肌與彈性纖維，且仍屬傳導部、無氣體交換。",
+      "flashcard_front": "支氣管 vs 終端細支氣管：杯狀細胞、平滑肌、彈性纖維、氣體交換",
+      "flashcard_back": "支氣管有杯狀細胞；終端細支氣管無杯狀細胞，但仍有平滑肌與彈性纖維，且兩者都屬傳導部、無氣體交換。",
+      "flashcard_summary": "支氣管與終端細支氣管比較 -> 錯誤敘述是兩者上皮均有杯狀細胞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題考肝臟小葉的血竇、狄氏空間與特殊細胞位置。狄氏空間（space of Disse）是血竇內皮與肝細胞板之間的交換間隙，是肝細胞微絨毛伸入、與血漿成分接觸的位置。\n\n【選項詳解】\n- A. 錯誤。庫弗氏細胞（Kupffer cell）是肝血竇內的巨噬細胞，屬單核吞噬系統，主要吞噬細菌、異物與老化紅血球；它不是肝細胞特化而來，也不是負責儲存養分的細胞。\n- B. 錯誤。肝血竇內皮屬有窗孔且基底膜不完整的特殊血竇型內皮，通透性高，方便血漿成分進入狄氏空間；「連續型內皮」不符合肝血竇特性。\n- C. 正確。狄氏空間位於肝細胞與肝血竇內皮之間，肝細胞微絨毛伸入此處，進行代謝物、蛋白質與其他血漿成分的交換。\n- D. 錯誤。伊東細胞（Ito cell, hepatic stellate cell）位於狄氏空間，富含脂滴並儲存維生素 A；吞噬老化細胞是庫弗氏細胞的功能，不是伊東細胞的主要任務。\n\n【核心考點】\n肝臟組織學要分清三個位置：庫弗氏細胞在血竇腔內做吞噬，伊東細胞在狄氏空間儲存維生素 A 並可參與纖維化，狄氏空間夾在肝細胞與血竇內皮之間負責物質交換。",
+      "key_point": "狄氏空間位於肝細胞與肝血竇內皮之間；庫弗氏細胞吞噬，伊東細胞儲存維生素 A。",
+      "flashcard_front": "肝小葉：space of Disse、Kupffer cell、Ito cell、hepatic sinusoid",
+      "flashcard_back": "space of Disse 在肝細胞與肝血竇內皮之間；Kupffer cell 是血竇巨噬細胞；Ito cell 在狄氏空間儲存維生素 A，活化後與肝纖維化相關。",
+      "flashcard_summary": "肝臟組織結構 -> 狄氏空間位於肝細胞與肝血竇之間",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題比較結腸與小腸的組織學特徵。結腸主要負責水分、電解質回收與糞便潤滑，因此黏膜富含杯狀細胞，但沒有小腸絨毛與發達環狀襞。\n\n【選項詳解】\n- A. 正確。結腸單層柱狀上皮與腸腺中有大量杯狀細胞，分泌黏液以保護黏膜、減少糞便通過時的摩擦，並協助糞便成形與排出。\n- B. 錯誤。結腸上皮可吸收水分與電解質，但其微絨毛與吸收面積遠不如小腸發達；把「發達微絨毛」作為結腸主要特徵會混淆小腸吸收上皮。\n- C. 錯誤。結腸帶（taeniae coli）由肌外層的外縱走肌集中成三條帶狀增厚而來，不是環走平滑肌形成。環走肌主要與腸腔縮窄及分節收縮相關。\n- D. 錯誤。環狀襞（plicae circulares）是小腸增加吸收面積的重要皺襞，空腸尤其明顯；結腸沒有發達環狀襞，而是有結腸袋（haustra）等外觀特徵。\n\n【核心考點】\n結腸的考試辨識點是多杯狀細胞、無絨毛、無發達環狀襞，且結腸帶來自外縱走肌；小腸則以絨毛、環狀襞與較大的吸收表面積為主。",
+      "key_point": "結腸富含杯狀細胞，無小腸絨毛與發達環狀襞；結腸帶由外縱走肌增厚形成。",
+      "flashcard_front": "結腸組織學：杯狀細胞、微絨毛、結腸帶、環狀襞",
+      "flashcard_back": "結腸富含杯狀細胞分泌黏液；結腸帶由外縱走肌形成；環狀襞與絨毛是小腸特色，不是結腸特色。",
+      "flashcard_summary": "結腸組織結構 -> 正確敘述是上皮有許多杯狀細胞分泌黏液",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n近腎絲球器（juxtaglomerular apparatus, JGA）位於腎小體血管極，負責感受遠端小管液中 NaCl 變化並調節腎素分泌。其典型組成包括緻密斑、近腎絲球細胞與球外系膜細胞。\n\n【選項詳解】\n- A. 錯誤。近腎絲球細胞來自輸入小動脈壁的特化平滑肌細胞，含腎素分泌顆粒；內皮細胞不是 JGA 的主要構成細胞。\n- B. 正確。緻密斑（macula densa）是遠端小管靠近血管極處的特化上皮，可感受管腔 NaCl 濃度，並透過訊號調節入球小動脈張力與腎素釋放。\n- C. 錯誤。近曲小管位於腎小體尿極附近，主要負責大量再吸收；JGA 的管腔感受元件來自遠端小管緻密斑，不是近曲小管特化上皮。\n- D. 錯誤。JGA 相關的是球外系膜細胞（extraglomerular mesangial cell, Lacis cell），位於緻密斑與小動脈之間；絲球體內系膜細胞位在血管球內，不是此題所問的典型構成。\n\n【核心考點】\nJGA 三成員要一起記：緻密斑感受 NaCl，入球小動脈特化平滑肌形成近腎絲球細胞並分泌腎素，球外系膜細胞協助訊號傳遞；近曲小管與入球小動脈內皮不是標準答案。",
+      "key_point": "近腎絲球器由緻密斑、近腎絲球細胞與球外系膜細胞組成；緻密斑是遠端小管特化上皮。",
+      "flashcard_front": "JGA 組成：macula densa、JG cell、extraglomerular mesangial cell",
+      "flashcard_back": "緻密斑是遠端小管特化上皮，感受 NaCl；JG cell 是入球小動脈特化平滑肌細胞，分泌 renin；球外系膜細胞參與訊號傳遞。",
+      "flashcard_summary": "近腎絲球器構造 -> 緻密斑是典型組成之一",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n題幹描述基底膜變厚，形成波浪狀、透明樣的玻璃膜（glassy membrane），這是卵巢濾泡閉鎖時的典型組織學表現。濾泡閉鎖代表濾泡退化，而非正常成熟過程中的健康濾泡特徵。\n\n【選項詳解】\n- A. 錯誤。原始濾泡由初級卵母細胞與單層扁平濾泡細胞構成，結構小且未進入明顯增生或退化階段，不會出現厚而波浪狀的玻璃膜。\n- B. 正確。閉鎖濾泡（atretic follicle）中顆粒細胞凋亡、卵母細胞退化，原本位於顆粒細胞層與卵泡膜之間的基底膜可增厚、皺摺並呈透明樣外觀，形成 glassy membrane。\n- C. 錯誤。次級濾泡是發育中的健康濾泡，可見多層顆粒細胞、透明帶與濾泡腔形成；若沒有閉鎖，基底膜不會成為題幹所述的波浪狀玻璃膜。\n- D. 錯誤。成熟濾泡（Graafian follicle）接近排卵，具有大型濾泡腔、卵丘與放射冠等完整結構；玻璃膜是退化閉鎖的線索，不是成熟排卵前濾泡的標誌。\n\n【核心考點】\n卵巢濾泡題看到 glassy membrane、基底膜增厚與波浪狀透明帶，要想到濾泡閉鎖；健康發育濾泡則應辨識顆粒細胞、濾泡腔、透明帶與卵泡膜等正常結構。",
+      "key_point": "閉鎖濾泡的特徵是顆粒細胞與卵母細胞退化，基底膜增厚皺摺形成 glassy membrane。",
+      "flashcard_front": "卵巢濾泡閉鎖：glassy membrane、基底膜增厚、atretic follicle",
+      "flashcard_back": "波浪狀透明玻璃膜來自閉鎖濾泡中增厚皺摺的基底膜，是濾泡退化的組織學線索。",
+      "flashcard_summary": "基底膜變厚形成 glassy membrane -> 閉鎖濾泡",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題考腦下腺前葉內分泌細胞的分類、染色與比例。生長激素細胞（somatotrope）位於腺腦下腺前葉，屬嗜酸性細胞，通常是前葉內數量最多的分泌細胞。\n\n【選項詳解】\n- A. 錯誤。生長激素細胞位於腦下腺前葉（pars distalis），負責合成與分泌 growth hormone；後葉主要儲存並釋放下視丘製造的 ADH 與 oxytocin，不含這類前葉分泌細胞。\n- B. 正確。somatotrope 通常是腦下腺前葉內比例最高的內分泌細胞，常見估計約占前葉細胞的一半，因此是此題的正確敘述。\n- C. 錯誤。生長激素細胞含嗜酸性分泌顆粒，H&E 下偏紅，屬 acidophil；嗜鹼性細胞包括 thyrotrope、gonadotrope、corticotrope 等。\n- D. 錯誤。厭色性細胞（chromophobe）顆粒少、染色淡，可代表脫顆粒或未分化狀態；somatotrope 有明顯嗜酸性分泌顆粒，不歸類為厭色性細胞。\n\n【核心考點】\n腦下腺前葉的高頻配對是 somatotrope 與 lactotrope 為嗜酸性細胞，其中 somatotrope 數量最多；後葉不製造 GH，嗜鹼性與厭色性分類也不可混淆。",
+      "key_point": "生長激素細胞位於腦下腺前葉，屬嗜酸性細胞，且是前葉內比例最高的內分泌細胞。",
+      "flashcard_front": "腦下腺 somatotrope：位置、染色、比例、GH",
+      "flashcard_back": "Somatotrope 位於前葉 pars distalis，分泌 GH，屬嗜酸性細胞，通常是前葉數量最多的細胞。",
+      "flashcard_summary": "生長激素細胞正確敘述 -> 在腦下腺前葉內分泌細胞中比例最高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題問細胞分裂時由中心體發出的紡錘絲由哪一類細胞骨架組成。中心體是微管組織中心，分裂紡錘體的主要結構來自微管，而不是肌動蛋白、中間絲或肌凝蛋白。\n\n【選項詳解】\n- A. 錯誤。肌動蛋白絲（actin filament）主要參與細胞形狀、細胞移動與細胞質分裂時的收縮環；它不構成連接染色體與兩極的紡錘絲。\n- B. 錯誤。肌凝蛋白（myosin）是與 actin 互動的馬達蛋白，負責產生收縮力量，例如細胞質分裂收縮環的收縮；它不是紡錘絲的骨架材料。\n- C. 錯誤。中間絲提供細胞機械強度與組織特異性支撐，核纖層也屬相關系統；有絲分裂紡錘體的動態拉動不是由中間絲完成。\n- D. 正確。紡錘絲由微管（microtubule）構成，微管由 tubulin 聚合而成，可透過聚合與解聚產生動態變化，並與動粒及馬達蛋白共同牽引染色體分離。\n\n【核心考點】\n細胞分裂要區分兩個骨架系統：紡錘體由微管形成並分離染色體；細胞質分裂的收縮環由 actin 與 myosin 共同作用。",
+      "key_point": "有絲分裂紡錘絲由微管組成；細胞質分裂收縮環由 actin 與 myosin 參與。",
+      "flashcard_front": "細胞分裂骨架：spindle fiber、microtubule、actin-myosin contractile ring",
+      "flashcard_back": "紡錘絲是微管，從中心體發出並牽引染色體；收縮環則由 actin 與 myosin 參與，負責細胞質分裂。",
+      "flashcard_summary": "中心體發出的紡錘絲 -> 微管",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題是前庭冷熱水試驗（caloric test）與眼震方向判讀。題幹強調眼震方向通常以快速相命名；左耳灌冷水時，依 COWS 口訣（Cold Opposite, Warm Same），快速相會朝向灌水耳的對側，因此為向右。\n\n【選項詳解】\n- A. 錯誤。向左是左耳灌溫水時常見的快速相方向；冷水會降低同側水平半規管活性，使快速相轉向對側。\n- B. 正確。Cold Opposite 表示冷水誘發眼震快速相朝對側；冷水注入左耳，眼震方向以快速相計算即向右。\n- C. 錯誤。冷熱水試驗誘發的眼震有慢相與快相，但臨床命名以快相方向為準，不是把眼震答案寫成先左後右的交替方向。\n- D. 錯誤。雖然眼球運動可包含慢相與快相兩個成分，但題目問「眼震方向」時要回答快速相方向；左耳冷水的命名方向是向右，而非先右再左這種序列描述。\n\n【核心考點】\nCaloric test 的方向判讀可用 COWS：冷水灌入某耳，眼震快速相朝對側；溫水灌入某耳，快速相朝同側。題目若問眼震方向，通常指快速相方向。",
+      "key_point": "冷熱水試驗以快速相命名；左耳灌冷水依 COWS 為 Cold Opposite，眼震向右。",
+      "flashcard_front": "Caloric test：左耳冷水、COWS、眼震方向",
+      "flashcard_back": "COWS：Cold Opposite, Warm Same。左耳冷水 -> 眼震快速相向右；左耳溫水 -> 快速相向左。",
+      "flashcard_summary": "左耳灌冷水的眼震方向 -> 向右",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n病人視網膜與視神經正常，卻在畫圖與化妝時忽略左側，代表問題不是初級視覺輸入缺損，而是對左側空間的注意與整合障礙。典型單側空間忽視最常見於右側頂葉受損。\n\n【選項詳解】\n- A. 正確。右側頂葉負責雙側空間注意，尤其對左側空間注意非常關鍵；右頂葉損傷後常出現 left hemispatial neglect，病人會忽略左側畫紙、左側身體或左側環境刺激。\n- B. 錯誤。左側頂葉較偏向右側空間與語言相關功能；左頂葉受損通常不會造成典型嚴重左側忽視，因為右頂葉仍可支援雙側空間注意。\n- C. 錯誤。右側枕葉損傷會影響初級視覺皮質，較可能造成對側視野缺損，例如左同側偏盲；偏盲是看不到，忽視症則是感覺輸入可存在但注意不到，兩者機轉不同。\n- D. 錯誤。左側枕葉病灶較可能造成右側視野缺損，且仍屬初級視覺路徑問題；題幹明確說視網膜與視神經健全，症狀也符合注意力網路病灶，而不是枕葉視覺皮質病灶。\n\n【核心考點】\n左側空間忽視是右側頂葉病灶的經典定位；要與枕葉受損造成的對側偏盲區分，前者是注意與空間整合失敗，後者是初級視覺訊息缺失。",
+      "key_point": "左側空間忽視最典型定位在右側頂葉；它是注意力障礙，不是枕葉或視神經造成的單純偏盲。",
+      "flashcard_front": "Left hemispatial neglect：右頂葉 vs 枕葉偏盲",
+      "flashcard_back": "左側空間忽視常由右側頂葉損傷造成；枕葉損傷造成的是對側視野缺損，病人通常不是以忽略左側空間的方式表現。",
+      "flashcard_summary": "左側 visual neglect 且視覺通路正常 -> 右側頂葉病灶",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-1_medicine-1_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n題幹描述病人接受電痙攣治療（ECT）後，無法回憶治療前兩小時發生的事，但意識恢復後能正常學習新資訊。這代表遺忘的是事件發生前已形成的近期記憶，屬逆行性失憶（retrograde amnesia）。\n\n【選項詳解】\n- A. 正確。Retrograde amnesia 是對病因事件、創傷或治療之前的記憶喪失；本題「治療前兩小時」無法回憶，正符合逆行性失憶。\n- B. 錯誤。Anterograde amnesia 是事件之後無法形成新記憶，常與海馬迴或內側顳葉功能受損有關；題幹說意識恢復後學習記憶正常，故不支持順行性失憶。\n- C. 錯誤。Confabulation 是用不自覺編造的內容填補記憶空缺，常見於 Korsakoff syndrome 等情境；題幹沒有描述病人捏造故事，只描述特定時間窗記憶喪失。\n- D. 錯誤。Jamais vu 是熟悉事物突然感到陌生的主觀經驗，屬辨識感異常，不是以治療前後時間關係分類的失憶類型。\n\n【核心考點】\n記憶障礙按時間方向判讀：事件前記憶喪失是 retrograde amnesia；事件後無法建立新記憶是 anterograde amnesia。ECT 常見短暫逆行性記憶缺損。",
+      "key_point": "治療或創傷前的記憶喪失是逆行性失憶；治療或創傷後無法形成新記憶才是順行性失憶。",
+      "flashcard_front": "ECT 後記憶障礙：retrograde vs anterograde amnesia",
+      "flashcard_back": "無法回憶 ECT 前兩小時事件是 retrograde amnesia；若是治療後無法學新東西，才是 anterograde amnesia。",
+      "flashcard_summary": "ECT 後忘記治療前兩小時但之後學習正常 -> retrograde amnesia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-08T23:13:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-1.json",
+  "dataset_id": "111-2_medicine-1",
+  "merge": false,
+  "update_file_count": 1,
+  "question_count": 10,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 92,
+      "notes": [
+        "官方更正為第 92 題一律給分；update 只重寫解析，未更動答案狀態。"
+      ]
+    },
+    {
+      "question_number": 96,
+      "notes": [
+        "一般教科書常以 F1 三個催化 β 位點計算；本題題幹明示 αβ dimer 共有 6 組，解析依題目設定保留官方答案。"
+      ]
+    }
+  ],
+  "errors": []
+}

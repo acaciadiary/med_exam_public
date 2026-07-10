@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/114-1/medicine-6.json",
+  "dataset_id": "114-1_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "114-1_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問清醒下氣管內管插管（awake tracheal intubation）常用的氣道神經阻斷中，哪一項不包括在常規輔助技術內。清醒插管需要降低口咽、喉部與氣管黏膜感覺，常用舌咽神經阻斷、喉上神經阻斷與經喉／經氣管局部麻醉；喉返神經阻斷因可能影響聲帶運動，通常不作為清醒插管的常規阻斷。\n\n【選項詳解】\n- A. 正確。舌咽神經（glossopharyngeal nerve）支配舌後三分之一、扁桃腺與咽部感覺，阻斷後可減少嘔吐反射，常用於清醒插管前的上呼吸道麻醉。\n- B. 正確。喉上神經內支（internal branch of superior laryngeal nerve）負責聲門上喉部黏膜感覺，阻斷後可降低會厭、梨狀窩與聲門上區域受到器械刺激時的反應。\n- C. 正確。經喉或經氣管阻斷（translaryngeal/transtracheal block）通常經環甲膜注入局部麻醉藥，藉咳嗽讓藥液分布到聲門與氣管黏膜，減少插管時咳嗽反射。\n- D. 錯誤。本題為「不包括」題，喉返神經（recurrent laryngeal nerve）含有重要喉內肌運動支配；若雙側阻斷可能造成聲帶活動受損與氣道阻塞風險，因此不列為清醒插管最常施行的輔助神經阻斷。\n\n【核心考點】\n清醒插管的局部麻醉重點是降低口咽、聲門上與氣管黏膜感覺，同時避免破壞維持氣道安全所需的喉部運動功能。常考組合為舌咽神經、喉上神經內支與經氣管局部麻醉；喉返神經阻斷要特別避開。",
+      "key_point": "清醒插管常用舌咽神經、喉上神經內支與經氣管局部麻醉；喉返神經阻斷可能影響聲帶運動，不屬常規輔助阻斷。",
+      "flashcard_front": "清醒插管常用氣道神經阻斷有哪些？哪一個通常不做？",
+      "flashcard_back": "常用舌咽神經阻斷、喉上神經內支阻斷與經氣管局部麻醉；通常不做喉返神經阻斷，因可能影響聲帶運動並增加氣道阻塞風險。",
+      "flashcard_summary": "Awake intubation -> glossopharyngeal, superior laryngeal, transtracheal blocks; avoid recurrent laryngeal nerve block.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題問 BIS（bispectral index）監測麻醉深度的敘述何者錯誤。BIS 以腦電圖訊號計算，數值大致由 100（清醒）往 0（極低或無腦電活動）下降；但不同麻醉藥對 EEG 的影響不同，ketamine 與 propofol 不能視為相同。\n\n【選項詳解】\n- A. 正確。BIS 90-100 通常對應清醒或接近清醒狀態，表示腦電活動仍維持較高程度的覺醒特徵。\n- B. 正確。BIS 0 代表極度抑制的腦電訊號，臨床上可見於等電位 EEG 或非常深的無意識狀態，已遠超過一般手術麻醉所需深度。\n- C. 錯誤。本題為「何者錯誤」題，ketamine 與 propofol 對 EEG 的影響並不類似。Propofol 會使 EEG 逐漸慢波化，出現較低頻率與較高振幅；ketamine 是解離性麻醉藥，可增加高頻活動，BIS 有時不會隨臨床鎮靜深度同步下降。\n- D. 正確。Propofol 造成意識消失時，EEG 常出現低頻、高振幅活動，劑量更深時可進一步出現 burst suppression。\n\n【核心考點】\nBIS 是 EEG 經演算法轉換後的麻醉深度指標，但藥物特性會影響判讀。Propofol 常使 EEG 慢波化；ketamine 可能保留或增加高頻活動，因此 BIS 值可能高估覺醒程度。",
+      "key_point": "Ketamine 與 propofol 對 EEG 影響不同：propofol 使腦波低頻高幅，ketamine 可增加高頻活動並使 BIS 判讀失準。",
+      "flashcard_front": "BIS 監測中，ketamine 與 propofol 對 EEG 的差異是什麼？",
+      "flashcard_back": "Propofol 會讓 EEG 低頻化、高振幅；ketamine 可增加高頻活動，BIS 可能不隨臨床麻醉深度明顯下降。",
+      "flashcard_summary": "BIS/EEG -> propofol causes low-frequency high-amplitude waves; ketamine can preserve/increase high-frequency activity.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問脈搏血氧飽和度（SpO2）的正確敘述。脈搏血氧儀利用氧合血紅素與去氧血紅素對紅光與紅外光吸收不同，再配合搏動訊號來估算動脈血氧飽和度；它監測的是氧合狀態，不等同於通氣、酸鹼或 PaO2 的線性替代值。\n\n【選項詳解】\n- A. 正確。Oxyhemoglobin 與 deoxyhemoglobin 對不同波長光線的吸收比例不同，脈搏血氧儀利用約 660 nm 紅光與約 940 nm 紅外光的吸收差異計算 SpO2。\n- B. 錯誤。SpO2 反映氧合（oxygenation），無法直接評估二氧化碳排出、肺泡通氣或酸鹼狀態；通氣監測常需看 EtCO2、PaCO2 或血氣分析。\n- C. 錯誤。脈搏血氧儀利用隨心跳變化的搏動吸光成分，主要抓取動脈血訊號；靜脈血與組織吸收屬於背景訊號，需被演算法扣除。\n- D. 錯誤。SpO2 與 PaO2 的關係來自氧合血紅素解離曲線，呈 S 型而非線性；當 SpO2 在高平台區時，PaO2 下降早期可能不容易被 SpO2 明顯反映。\n\n【核心考點】\nSpO2 的關鍵是雙波長光吸收差異加上動脈搏動訊號。它適合快速監測氧合，不適合單獨判斷通氣或酸鹼；SpO2 與 PaO2 要用氧合血紅素解離曲線理解。",
+      "key_point": "SpO2 利用 O2Hb 與 deO2Hb 對 660 nm 與 940 nm 光吸收不同來估算動脈血氧飽和度，且與 PaO2 呈 S 型關係。",
+      "flashcard_front": "SpO2 的測量原理與限制是什麼？",
+      "flashcard_back": "以紅光與紅外光吸收差異估算動脈血氧飽和度；監測氧合而非通氣或酸鹼，且與 PaO2 是非線性 S 型關係。",
+      "flashcard_summary": "Pulse oximetry -> dual wavelength absorption by O2Hb/deO2Hb; arterial pulsation; nonlinear relation with PaO2.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問哪個因素最不會影響脊髓麻醉阻斷皮節高度。脊髓麻醉藥物在腦脊髓液中的擴散，主要受藥物比重、劑量、注射位置、病人體位與個體解剖因素影響；一般推注速度對最終阻斷高度影響相對小。\n\n【選項詳解】\n- A. 正確。病人姿勢和擺位會透過重力影響高比重或低比重局部麻醉藥在腦脊髓液中的分布，因此會改變阻斷高度。\n- B. 正確。身高可反映脊柱長度與腦脊髓液空間差異，雖然不是唯一決定因素，但臨床上仍可能影響藥物擴散範圍與皮節高度。\n- C. 正確。局部麻醉藥相對於腦脊髓液的比重（baricity）是脊髓麻醉擴散的重要因素；高比重藥液會受體位與重力影響而沉降。\n- D. 錯誤。本題問「最不會影響」，常規脊髓麻醉下局部麻醉藥的推注速度對最後皮節高度影響較小，遠不如比重、體位與劑量等因素明顯。\n\n【核心考點】\n脊髓麻醉阻斷高度最常由藥物比重、劑量、注射位置與病人體位左右。考題若問相對不重要因素，常規推注速度通常不是主要決定因子。",
+      "key_point": "脊髓麻醉皮節高度主要受局部麻醉藥比重、劑量、注射位置與體位影響；常規推注速度影響較小。",
+      "flashcard_front": "脊髓麻醉阻斷高度主要受哪些因素影響？哪一項影響較小？",
+      "flashcard_back": "主要看 baricity、劑量、注射位置與病人體位；一般推注速度對最終阻斷高度影響較小。",
+      "flashcard_summary": "Spinal block height -> baricity, dose, level, position matter; injection speed is relatively minor.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問分娩硬脊膜外止痛用藥何者最適當。產科硬脊膜外止痛的目標是提供足夠鎮痛，同時盡量減少運動阻滯與全身毒性；因此常採低濃度局部麻醉藥合併低劑量類鴉片藥物。\n\n【選項詳解】\n- A. 錯誤。硬脊膜外局部麻醉藥加入 fentanyl、sufentanil 等類鴉片藥物是常見策略，可產生協同止痛並降低局部麻醉藥濃度，不會因為這個合併本身就被視為不建議。\n- B. 錯誤。Bupivacaine 作用時間長，但具有心臟毒性；若誤入血管或劑量過高，可能造成嚴重心律不整、心肌抑制甚至心跳停止。\n- C. 錯誤。分娩止痛通常避免使用高濃度局部麻醉劑，因為高濃度會增加運動阻滯、低血壓與產程用力困難；臨床傾向低濃度配方。\n- D. 正確。低濃度 bupivacaine 可提供感覺鎮痛並減少下肢運動阻滯，因此較有機會保留活動能力，符合 walking epidural 的概念。\n\n【核心考點】\n分娩硬脊膜外止痛的高分辨識點是「低濃度局部麻醉藥加低劑量 opioid」。Bupivacaine 不是無心臟毒性的藥物；降低濃度可減少運動阻滯並改善產婦活動度。",
+      "key_point": "分娩硬脊膜外止痛常用低濃度 bupivacaine 合併低劑量 opioid，以減少運動阻滯；bupivacaine 仍有心臟毒性。",
+      "flashcard_front": "分娩硬脊膜外止痛為何偏好低濃度 bupivacaine？",
+      "flashcard_back": "低濃度可維持鎮痛並減少運動阻滯，較能保留活動能力；常合併低劑量 opioid 以降低局麻藥需求。",
+      "flashcard_summary": "Labor epidural -> low-concentration bupivacaine plus opioid; less motor block; bupivacaine is cardiotoxic.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問 Aldrete score 不包含哪個項目。Aldrete score 用於評估麻醉後恢復室（PACU）病人是否可安全轉出，傳統五大項目為活動度、呼吸、循環、意識與氧合；疼痛需要臨床處理，但不是 Aldrete score 的計分項目。\n\n【選項詳解】\n- A. 正確。意識（consciousness）是 Aldrete score 項目之一，依完全清醒、可喚醒或無反應給分。\n- B. 正確。循環（circulation）是 Aldrete score 項目之一，通常比較術後血壓與麻醉前血壓的偏離程度。\n- C. 正確。血氧飽和度（oxygen saturation）是修正版 Aldrete score 的項目之一，會評估是否需氧氣與 SpO2 是否能維持足夠。\n- D. 錯誤。本題問「不包含」，疼痛控制很重要，轉出 PACU 前也應評估與處置，但疼痛嚴重程度不在 Aldrete score 五項計分內。\n\n【核心考點】\nAldrete score 記五項：Activity、Respiration、Circulation、Consciousness、Oxygen saturation。疼痛、噁心嘔吐與傷口出血會影響臨床轉出判斷，但不是這個分數的原始五項。",
+      "key_point": "Aldrete score 包含活動度、呼吸、循環、意識與血氧飽和度；不包含疼痛嚴重程度。",
+      "flashcard_front": "Aldrete score 的五個評估項目是什麼？",
+      "flashcard_back": "Activity、Respiration、Circulation、Consciousness、Oxygen saturation；不包含 pain。",
+      "flashcard_summary": "Aldrete score -> activity, respiration, circulation, consciousness, oxygen saturation; pain is not included.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題問各種狀態的腦波敘述何者最不適當。全身麻醉加深時 EEG 會由較快波逐漸轉為 alpha/delta 活性，極深時可見 burst suppression；腦死可呈等電位 EEG。植物狀態可有睡眠-覺醒週期，但 EEG 多為異常慢波或低電壓，不能說成近似正常人睡眠期腦波。\n\n【選項詳解】\n- A. 正確。全身麻醉下 EEG 可出現 alpha 與 delta 活性；麻醉很深時，大腦電活動可能進入爆發抑制，呈現活動爆發與電靜息交替。\n- B. 正確。麻醉恢復過程中皮質活動逐漸回升，EEG 中較快的 alpha、beta 活性會增加，與覺醒程度上升相符。\n- C. 正確。腦幹死或腦死評估時，若大腦皮質電活動消失，EEG 可呈等電位狀態；臨床診斷仍需結合完整腦死判定流程。\n- D. 錯誤。本題為「最不適當」題，植物狀態病人雖可能保有睡眠-覺醒週期，但其皮質功能受損，EEG 常見瀰漫性慢波、低電壓或反應性差，並不等同正常睡眠期的組織化腦波。\n\n【核心考點】\n麻醉 EEG 隨深度加深會慢波化，極深時可有 burst suppression；甦醒時快波活性增加。植物狀態和正常睡眠不同，重點是保留睡眠-覺醒週期但皮質腦波異常。",
+      "key_point": "植物狀態可有睡眠-覺醒週期，但 EEG 通常異常，不能視為正常睡眠期腦波；深麻醉可見 alpha/delta 至 burst suppression。",
+      "flashcard_front": "植物狀態 EEG 與正常睡眠 EEG 的考點差異是什麼？",
+      "flashcard_back": "植物狀態可保留睡眠-覺醒週期，但 EEG 常為慢波、低電壓或反應性差，不等於正常睡眠的組織化腦波。",
+      "flashcard_summary": "EEG states -> anesthesia deepens to slow waves/burst suppression; vegetative state has sleep-wake cycles but abnormal EEG.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題問癌症止痛處置何者最不適當。癌症疼痛包含腫瘤本身造成的疼痛，也包含治療造成的疼痛，例如化療引起的周邊神經病變；因此把化療神經病變性疼痛排除在癌症疼痛之外是不正確的。\n\n【選項詳解】\n- A. 正確。病人無法口服時，經皮貼片（如 fentanyl patch）可作為長效 opioid 給藥途徑；使用時需注意起效較慢、發燒或皮膚狀況可能影響吸收。\n- B. 正確。骨轉移疼痛常伴發炎、水腫或神經壓迫，glucocorticoids 可作為輔助止痛藥物，特別是在末期照護中可減少局部發炎與壓迫症狀。\n- C. 錯誤。本題為「最不適當」題，化療引起的周邊神經病變性疼痛屬於癌症治療相關疼痛，仍納入癌症疼痛照護；可依情況使用 duloxetine、gabapentinoids 或其他輔助止痛策略。\n- D. 正確。癌症惡病質明顯消瘦時，經皮貼片吸收可能不穩，但皮下注射嗎啡仍可提供有效且可調整的止痛，是無法口服或吸收不可靠時的重要途徑。\n\n【核心考點】\n癌症疼痛不只來自腫瘤侵犯，也包括治療造成的神經病變與骨轉移相關疼痛。無法口服時要依病人狀態選擇經皮或皮下注射途徑；惡病質時需特別想到貼片吸收不穩。",
+      "key_point": "化療引起的周邊神經病變性疼痛屬癌症治療相關疼痛；骨轉移可用類固醇輔助，惡病質時皮下注射嗎啡仍有效。",
+      "flashcard_front": "化療造成的周邊神經病變性疼痛算不算癌症疼痛？",
+      "flashcard_back": "算。它屬於癌症治療相關疼痛，需納入癌症疼痛管理；無法口服或惡病質時可考慮皮下注射 opioid。",
+      "flashcard_summary": "Cancer pain -> includes treatment-related neuropathic pain; steroids help bone metastasis pain; SC morphine works in cachexia.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-1_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問 ARDS（acute respiratory distress syndrome）診斷中 PaO2/FiO2 的數值門檻。Berlin criteria 以 PaO2/FiO2 <= 300 mmHg 作為氧合受損門檻，並可再分為輕度、中度與重度；本題來源資料顯示官方更正 B 或 C 均給分，因此需同時理解診斷門檻與中度分級門檻。\n\n【選項詳解】\n- A. 錯誤。PaO2/FiO2 < 400 不符合 ARDS 診斷常用門檻，過於寬鬆，會把許多未達 ARDS 氧合標準的病人納入。\n- B. 正確。PaO2/FiO2 <= 300 mmHg 是 ARDS 氧合受損的診斷門檻；在 PEEP 或 CPAP >= 5 cmH2O 條件下，201-300 mmHg 屬輕度 ARDS。\n- C. 正確。PaO2/FiO2 <= 200 mmHg 對應中度以上 ARDS 的分界；雖然不是最寬的診斷起點，但本題官方給分包含 C，考生需知道它代表較嚴重氧合障礙的門檻。\n- D. 錯誤。PaO2/FiO2 <= 100 mmHg 屬重度 ARDS 分界，表示嚴重低氧血症，不能代表整體 ARDS 診斷門檻。\n\n【核心考點】\nARDS 氧合門檻以 PaO2/FiO2 <= 300 mmHg 起算，分級為輕度 201-300、中度 101-200、重度 <= 100。若題目問診斷起點，選 <=300；若問中度以上，才會落在 <=200。",
+      "key_point": "ARDS 的 PaO2/FiO2 診斷門檻為 <=300 mmHg；<=200 代表中度以上，<=100 代表重度。",
+      "flashcard_front": "ARDS 的 PaO2/FiO2 門檻與嚴重度分級？",
+      "flashcard_back": "診斷氧合門檻為 PaO2/FiO2 <=300；輕度 201-300、中度 101-200、重度 <=100，通常需 PEEP/CPAP >=5 cmH2O 條件。",
+      "flashcard_summary": "ARDS oxygenation -> P/F <=300; mild 201-300, moderate 101-200, severe <=100.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": [
+        "來源資料顯示第9題官方更正 B 或 C 均給分；合併前建議人工確認題目原意是診斷門檻或分級門檻。"
+      ]
+    },
+    {
+      "question_id": "114-1_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題問哪種情形一般不會造成裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD）。RRD 的必要病理環節是視網膜裂孔讓液化玻璃體進入視網膜下腔；後玻璃體剝離、高度近視與眼外傷都容易造成裂孔，中心視網膜靜脈阻塞則主要是血管阻塞與出血、水腫問題。\n\n【選項詳解】\n- A. 正確。後玻璃體剝離（posterior vitreous detachment）時，玻璃體從視網膜表面分離；若周邊附著點受到牽拉，就可能造成視網膜裂孔並引發 RRD。\n- B. 正確。高度近視患者眼軸拉長，周邊視網膜較薄，常合併格子狀變性與玻璃體液化，裂孔與 RRD 風險增加。\n- C. 正確。眼鈍傷會使眼球瞬間變形並牽拉玻璃體與周邊視網膜，可造成 retinal dialysis 或視網膜裂孔，進一步產生 RRD。\n- D. 錯誤。本題問「一般不會造成」，中心視網膜靜脈阻塞（CRVO）主要造成視網膜出血、黃斑水腫與缺血；晚期血管增生可有牽引性問題，但它不是造成視網膜裂孔與 RRD 的典型原因。\n\n【核心考點】\n裂孔性視網膜剝離要抓住「裂孔」這個必要環節。PVD、高度近視與眼外傷會增加裂孔風險；CRVO 屬視網膜血管阻塞，常見後果不是裂孔性剝離。",
+      "key_point": "裂孔性視網膜剝離需要視網膜裂孔；PVD、高度近視與眼鈍傷可造成裂孔，CRVO 通常不會。",
+      "flashcard_front": "哪些因素常造成裂孔性視網膜剝離？CRVO 為何不是典型原因？",
+      "flashcard_back": "PVD、高度近視與眼外傷會造成玻璃體牽拉或周邊網膜變薄而產生裂孔；CRVO 是血管阻塞，主要造成出血、水腫與缺血。",
+      "flashcard_summary": "RRD -> requires retinal break; PVD, high myopia, trauma increase breaks; CRVO is vascular, not typical RRD cause.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-09T21:30:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
