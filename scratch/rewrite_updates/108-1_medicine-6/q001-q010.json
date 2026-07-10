@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-6.json",
+  "dataset_id": "108-1_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題考查喉頭痙攣（laryngospasm）的生理特徵、誘發原因與嚴重的併發症。喉頭痙攣是喉部肌肉受刺激所引發的防禦反射，主要表現為聲帶與假聲帶的神經反射性閉鎖。嚴重的喉頭痙攣會導致氣道完全受阻，無法自行緩解，需立即正壓給氧或投予藥物處理。若病人在喉頭痙攣氣道受阻時強力吸氣，會因為胸腔內巨大的負壓而併發負壓肺水腫（NPPE）甚至肺泡出血。\n\n【選項詳解】\n- A. 正確。喉頭痙攣的生理機轉為聲帶（vocal cords）反射性閉合，當反射程度較強時，也常伴隨假聲帶（false cords）的神經反射性閉鎖，共同阻斷氣道。\n- B. 正確。喉頭痙攣常見於「麻醉深度不足」（light anesthesia）時，因氣道受到局部刺激（如咽喉部分泌物、口咽吸痰或置入喉罩）而引發迷走神經介導的過度反射。\n- C. 錯誤。喉頭痙攣不一定會自行消失。嚴重的痙攣若不及時進行正壓給氧、氣道管理或給予肌肉鬆弛劑（如 succinylcholine）治療，將導致病患持續缺氧、心跳過慢甚至心跳停止，無法僅靠等待刺激物自行消失而痊癒。\n- D. 正確。負壓肺水腫（NPPE）是嚴重的併發症。病人在喉頭痙攣阻塞時強力吸氣，使胸腔內產生極大負壓，促使水分從微血管滲出至肺間質；在極端負壓下，也可能導致小血管破裂引起肺泡內出血。\n\n【核心考點】\n喉頭痙攣為聲門反射性閉合且無法保證自行緩解，氣道受阻時強力吸氣可引發致命的負壓肺水腫（NPPE）與肺泡出血，需立即急救。",
+      "key_point": "喉頭痙攣為聲門反射性閉合，嚴重的痙攣無法自行緩解，且易因強力吸氣所致的胸腔巨大負壓併發負壓肺水腫（NPPE）與肺泡出血。",
+      "flashcard_front": "喉頭痙攣（laryngospasm）的生理特徵與嚴重併發症",
+      "flashcard_back": "喉頭痙攣是聲帶反射性閉鎖，麻醉深度不足時易受刺激誘發。嚴重的喉頭痙攣無法自行緩解，需施予正壓給氧或琥珀膽鹼等處理；其嚴重併發症為強力吸氣造成巨大胸腔內負壓而引發的負壓肺水腫（NPPE）與肺泡出血。",
+      "flashcard_summary": "laryngospasm -> 聲門反射性閉塞，嚴重時無法自行緩解，易併發負壓肺水腫（NPPE）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題評估肺動脈導管（flow-directed pulmonary artery catheter，又稱 Swan-Ganz 導管）測得之肺動脈楔壓（wedge pressure）的臨床意義。當導管前端的氣囊充氣阻斷肺動脈分支血流時，導管尖端所測得的壓力，能透過靜止的肺血管床反映左心房壓（LAP）；在二尖瓣功能健全且心臟無異常的病人中，舒張末期左心房與左心室相通且達到壓力平衡，此時的肺動脈楔壓最接近左心室舒張末期壓（LVEDP），可用於估計左心室的前負荷。\n\n【選項詳解】\n- A. 錯誤。主動脈舒張壓（aortic diastolic pressure）代表體循環的動脈血壓與後負荷，其壓力遠高於肺循環及左心房，與肺動脈楔壓無直接關聯。\n- B. 錯誤。中心靜脈壓（central venous pressure, CVP）反映的是右心房壓或右心室舒張末期壓，為右心系統前負荷指標，與反映左心前負荷的肺動脈楔壓不同。\n- C. 正確。在無心臟結構異常的狀態下，舒張末期二尖瓣開放且無血流通過，肺動脈楔壓（PAWP）能反映左心房壓，進而精準接近並代表左心室舒張末期壓（LVEDP）。\n- D. 錯誤。肺動脈收縮壓（pulmonary artery systolic pressure）是右心室收縮時產生的最高肺動脈壓力，數值明顯高於肺動脈楔壓。\n\n【核心考點】\n在心臟無異常的前提下，肺動脈楔壓（PAWP）最接近左心室舒張末期壓（LVEDP），是臨床評估左心前負荷（preload）的主要指標。",
+      "key_point": "肺動脈導管充氣測得之肺動脈楔壓（PAWP）在心臟功能正常時，最接近左心室舒張末期壓（LVEDP）。",
+      "flashcard_front": "肺動脈楔壓（PAWP）在心臟無異常時最接近哪種血壓？",
+      "flashcard_back": "最接近左心室舒張末期壓（LVEDP）。當肺動脈導管前端氣囊充氣阻斷肺動脈血流時，導管尖端壓力透過靜止的肺血管床反映左心房壓；在舒張末期，二尖瓣開放使左心房與左心室壓力平衡，故可用於估計 LVEDP（即左心室前負荷）。",
+      "flashcard_summary": "pulmonary artery catheter -> 肺動脈楔壓（PAWP）反映左心房壓，心臟無異常時最接近左心室舒張末期壓（LVEDP）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題考查吸入性麻醉藥最低肺泡有效濃度（MAC）的臨床影響因子。MAC 代表讓 50% 病人對標準疼痛刺激（如手術切皮）無動作反應的肺泡內麻醉氣體濃度，其與藥物的效價（potency）成反比。若生理或藥理因素導致中樞興奮或代謝增加，則 MAC 值會增加（需使用更高濃度才能達到麻醉效果）。\n\n【選項詳解】\n- A. 錯誤。年記大於七十歲會降低 MAC 值。隨著年齡老化，中樞神經系統的神經元減少、敏感度增加，對麻醉劑的需求量降低（每增加 10 歲，MAC 大約下降 6%）。\n- B. 錯誤。嚴重低血壓（平均動脈壓低於 50 mmHg）會減少腦血流灌注，導致中樞神經呈缺氧或抑制狀態，從而減少對麻醉藥的需求，降低 MAC 值。\n- C. 錯誤。懷孕期間體內黃體素（progesterone）與內源性鴉片類物質的分泌增加，對中樞神經系統具有強烈鎮靜作用，會使吸入性麻醉劑的 MAC 值降低 30% 至 40%。\n- D. 正確。甲狀腺機能亢進（hyperthyroidism）會提高全身基礎代謝率、使兒茶酚胺活性增加，中樞神經呈興奮狀態，使病患對麻醉藥物的耐受性提高，進而增加 MAC 值。\n\n【核心考點】\n中樞興奮或代謝升高（如甲狀腺亢進、高體溫）會增加 MAC；而中樞抑制或代謝降低（如老年、低體溫、懷孕、急性酒精中毒）則會降低 MAC。",
+      "key_point": "甲狀腺亢進會增加吸入性麻醉藥之最低肺泡有效濃度（MAC），而老年、低體溫、懷孕與急性酒精中毒則會降低 MAC。",
+      "flashcard_front": "吸入性麻醉藥最低肺泡有效濃度（MAC）的臨床影響因子",
+      "flashcard_back": "會增加 MAC 的因素包括：甲狀腺機能亢進、高體溫、長期酗酒與兒茶酚胺活性上升。會降低 MAC 的因素包括：高齡（>70歲）、低體溫、懷孕、嚴重低血壓與急性酒精中毒。",
+      "flashcard_summary": "inhaled anesthetics MAC -> 甲狀腺亢進、發燒、長期酗酒會增加 MAC；老年、低體溫、懷孕、急性酒精中毒會降低 MAC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題評估周邊神經阻斷術（peripheral nerve block）的臨床技術與潛在的毒性反應。神經阻斷術是將局部麻醉藥注射於神經周圍以達到區域麻醉，若不慎將藥物直接注入血管或給予過量劑量，會引起嚴重的局部麻醉藥全身毒性（LAST）。\n\n【選項詳解】\n- A. 正確。神經定位的準確性影響安全與效果。可利用超音波導引（影像化針尖與血管）、神經刺激器（引發肌肉抽動）或依靠清醒病人的異感（paresthesia）回報來確定位置。\n- B. 正確。當局部麻醉藥全身毒性（LAST）導致嚴重的心血管崩潰或難治性心律不整時，靜脈注射 20% 脂肪乳劑（lipid emulsion）為目前公認的解毒治療首選，能透過「脂質庫」效應吸附血液中的游離麻醉藥。\n- C. 錯誤。神經阻斷術所使用的局部麻醉藥（如 bupivacaine 或 ropivacaine）是有可能引發全身毒性的。特別是意外注入血管時，會引起中樞神經抽搐及致命的心血管毒性，因此本選項敘述錯誤。\n- D. 正確。在執行神經阻斷術的過程中，穿刺針頭有直接物理性機械損傷神經纖維的風險，或者因局部藥物濃度過高及高壓注射造成局部神經毒性或缺血性病變。\n\n【核心考點】\n周邊神經阻斷術所用的局部麻醉藥有引發全身性毒性（LAST）的風險。若發生嚴重毒性，急救時應儘速給予 20% 靜脈脂肪乳劑（lipid emulsion）治療。",
+      "key_point": "周邊神經阻斷術使用的局部麻醉藥可能因誤入血管或過量吸收引發全身性毒性（LAST），嚴重時應儘速給予 20% 靜脈脂肪乳劑（lipid emulsion）救治。",
+      "flashcard_front": "神經阻斷術的定位、神經損傷與局部麻醉藥全身毒性（LAST）之處置",
+      "flashcard_back": "局部麻醉藥有可能造成全身毒性（LAST），特別是意外注射入血管時。治療 LAST 的關鍵是儘早給予 20% 靜脈脂肪乳劑（lipid emulsion）。神經阻斷可使用超音波導引、神經刺激器或依異感判斷，且穿刺針頭有傷及神經之風險。",
+      "flashcard_summary": "nerve block -> 局部麻醉藥有引發全身性毒性（LAST）之風險，嚴重者使用 20% 靜脈脂肪乳劑救治。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題考查老年病人的麻醉生理特徵、藥理變化及術後常見併發症。高齡患者因生理老化，其心、肺、腎等主要器官儲備功能下降，且血清蛋白結合度也會發生改變，進而影響藥物的分佈、半衰期與效力。\n\n【選項詳解】\n- A. 正確。在老年病人的術前評估中，若排除其他合併症，單純「年齡」本身僅是一個次要風險因子（minor factor）。臨床上病患的合併症嚴重度（如心腎疾病）與虛弱狀態對風險的影響更具主導性。\n- B. 錯誤。老年人血清白蛋白（albumin）濃度是生理性下降，而非上升。白蛋白濃度降低會使高結合率的麻醉藥物（如 propofol、etomidate）在血中的游離型（free drug）部分增加，從而導致藥物的麻醉效力「增強」而非減少。\n- C. 正確。大規模循證醫學證據顯示，在圍手術期（perioperative period）中，對老人實施半身麻醉（區域麻醉）與全身麻醉相比，在術後死亡率或主要全身併發症的發生率上，並無顯著差異。\n- D. 正確。術後認知功能障礙（postoperative cognitive dysfunction, POCD）是老年人麻醉手術後特有的中樞併發症，表現為術後長期記憶與認知力衰退，其發生率隨年齡增加而顯著上升。\n\n【核心考點】\n老年人血清白蛋白（albumin）濃度降低，會使高結合率藥物的游離型（free drug）比例增加，藥效因而增強，需減少給藥劑量。",
+      "key_point": "老年人因血清白蛋白（albumin）濃度生理性下降，會使高蛋白結合率麻醉藥的游離型（free drug）比例增加，導致藥效增強，用藥需減量。",
+      "flashcard_front": "老年病人麻醉的生理與藥物動力學變化",
+      "flashcard_back": "老年人血清白蛋白（albumin）濃度下降，高結合率藥物（如 propofol）的游離型（free drug）比例增加，藥物效力增強而非減少，因此需減量。此外，老年人術後認知功能障礙（POCD）發生率較高，且目前無證據顯示半身麻醉併發症少於全身麻醉。",
+      "flashcard_summary": "elderly anesthesia -> 老年人血清白蛋白下降，麻醉藥游離比例增加使效力增強；術後認知障礙（POCD）風險較高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題考查病理性疼痛學術語中，異痛症（Allodynia）的正確定義。這是臨床評估神經病理性疼痛（neuropathic pain）的重要臨床指標，需與痛覺過敏（hyperalgesia）進行嚴格鑑別。\n\n【選項詳解】\n- A. 錯誤。在沒有物理或生理刺激下病人自行產生的感覺異常，臨床上稱為感覺異常（paresthesia）或自發性疼痛（spontaneous pain），而非 Allodynia。\n- B. 正確。Allodynia（異痛症/觸感痛）的定義為：對於原本在正常情況下「不會引起疼痛」的非傷害性刺激（nonnoxious stimulus，如微風吹拂、衣物觸碰、輕微撫摸等），病患卻會產生疼痛的感覺。\n- C. 錯誤。對於原本就會引發疼痛的有害刺激（noxious stimulus），病患產生了高於正常人且過度強烈的疼痛反應，這在學術上被定義為「痛覺過敏（hyperalgesia）」。\n- D. 錯誤。對於原本會引起疼痛的有害刺激（noxious stimulus），痛覺反應卻顯著減弱，在臨床上稱為「痛覺減退」或「痛覺阻滯（hypoalgesia）」。\n\n【核心考點】\nAllodynia（異痛症）是「非傷害性刺激（nonnoxious）引發疼痛」；Hyperalgesia（痛覺過敏）是「傷害性刺激（noxious）引發過度疼痛」。",
+      "key_point": "Allodynia（異痛症）定義為對於正常無害刺激（nonnoxious stimulus）產生疼痛反應；而 Hyperalgesia（痛覺過敏）是指對有害刺激（noxious stimulus）產生過度疼痛反應。",
+      "flashcard_front": "Allodynia（異痛症）與 Hyperalgesia（痛覺過敏）的定義區分",
+      "flashcard_back": "Allodynia（異痛症）：對於無害（nonnoxious）刺激感到疼痛（例如衣物接觸）。Hyperalgesia（痛覺過敏）：對於原本就會痛的刺激（noxious）感到更強烈的痛。感覺異常（paresthesia）：無外在刺激下產生的異常麻刺感。",
+      "flashcard_summary": "Allodynia vs. Hyperalgesia -> Allodynia 是無害刺激引發疼痛；Hyperalgesia 是有害刺激產生過度疼痛。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題評估病人自控式止痛（patient-controlled analgesia, PCA）在手術後止痛的運作原理、臨床優點與局限性。PCA 是一種由病患依照自身疼痛感受，自行按壓給藥裝置追加止痛藥的技術，但此技術對病人的神智狀態有嚴格要求。\n\n【選項詳解】\n- A. 正確。與傳統肌肉注射相比，PCA 可按需追加小劑量，使血中藥物濃度穩定維持在最低有效止痛濃度（MEAC）之上，減少給藥間隔中的疼痛波動，提供較佳止痛效果。\n- B. 正確。由於 PCA 賦予病患自我控制疼痛的權力，能即時解決疼痛，減少等待醫護人員前來注射的時間與焦慮感，因此病人的滿意度較高。\n- C. 錯誤。PCA 絕非任何病患皆可使用。其核心在於「病患自控」，因此病患必須「具備清晰的認知與理解能力」以及正常的物理操作能力。嬰幼兒、意識昏迷、失智症或認知功能障礙的病人為臨床禁忌症。\n- D. 正確。PCA 的最大特色為個人化給藥。病人可依據自身即時的疼痛強度調整給藥，且機器設有鎖定時間（lockout interval）與最高限額以防止藥物過量中毒。\n\n【核心考點】\n病人自控式止痛（PCA）的先決條件是病患具備正常的認知與操作能力。意識障礙、嬰幼兒或認知功能受損者為其臨床禁忌症。",
+      "key_point": "病人自控式止痛（PCA）要求病患必須神智清醒且具備正常的認知與操作能力，嬰幼兒、意識障礙或認知受損者為其臨床禁忌症。",
+      "flashcard_front": "病人自控式止痛（PCA）相較於肌肉注射的優缺點與禁忌症",
+      "flashcard_back": "PCA 優點包括提供更穩定的止痛效果（避免血藥濃度劇烈波動）、提高病患滿意度及讓病人依疼痛度自行追加劑量。其最大限制是「非任何病患皆可使用」，絕對禁忌症包含嬰幼兒、意識不清、認知功能障礙或無法理解操作指令的患者。",
+      "flashcard_summary": "PCA -> 提供較穩定的止痛效果與高滿意度，但認知障礙、意識不清或嬰幼兒為禁忌症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題考查急性呼吸窘迫症候群（ARDS）病患在機械通氣支持治療時的肺保護通氣策略。ARDS 病患由於肺泡充血、塌陷與水腫，導致殘存可通氣的肺體積大幅減少，臨床上稱為「嬰兒肺（baby lung）」。使用傳統大潮氣容積會導致殘存健康肺泡過度膨脹，引發呼吸器相關肺損傷。\n\n【選項詳解】\n- A. 正確。根據 ARDSNet 的經典研究指引，為避免氣壓傷與容積傷，ARDS 病患在機械通氣時應採用限制平台壓（<30 cmH2O）及「低潮氣容積通氣」（low tidal volume ventilation），理想值應設定為預測體重（predicted body weight, PBW）的 **6 mL/kg**。\n- B. 錯誤。10 mL/kg 的潮氣容積對於容量受限的 ARDS 肺泡而言過高，極易導致殘存健康肺泡剪力牽拉過度，引發發炎與容積傷。\n- C. 錯誤。12 mL/kg 是傳統的高潮氣容積設定，會大幅增加肺泡破裂引發氣胸或氣體縱膈腔等嚴重肺損傷風險，現代 ARDS 治療已不再採用。\n- D. 錯誤。15 mL/kg 是極高且危險的通氣體積，會對 ARDS 病人的脆弱肺泡造成嚴重的物理性牽拉傷害，臨床上禁用。\n\n【核心考點】\nARDS 的機械通氣應遵循肺保護策略，以低潮氣容積（預測體重 **6 mL/kg**）及限制平台壓（< 30 cmH2O）為臨床核心標準。",
+      "key_point": "ARDS 通氣設定應採用低潮氣容積（6 mL/kg 預測體重）的肺保護通氣策略，以避免容積傷與氣壓傷。",
+      "flashcard_front": "急性呼吸窘迫症候群（ARDS）肺保護策略之理想潮氣量設定",
+      "flashcard_back": "建議設定為預測體重（predicted body weight, PBW）的 6 mL/kg。ARDS 病人因肺泡大量萎陷，呈現「嬰兒肺（baby lung）」狀態，採用 6 mL/kg 的低潮氣量可避免健康肺泡過度牽拉，減少呼吸器誘發肺損傷（VILI）。",
+      "flashcard_summary": "ARDS ventilation -> 理想潮氣容積設定為 6 mL/kg 預測體重，限制平台壓 < 30 cmH2O 以保護肺部。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題考查高度近視（又稱病理性近視，通常指近視度數 > 600 度或眼軸長度 > 26.5 mm）所引起的眼底與視網膜典型病理變化。由於眼軸拉長，眼球後極部鞏膜與視網膜脈絡膜受到機械性牽拉並變薄，會引發多種結構退化與病變。\n\n【選項詳解】\n- A. 正確。漆裂紋（lacquer cracks）是高度近視的典型黃斑部變化，其本質是 Bruch's 膜（Bruch's membrane）與脈絡膜毛細血管層的線性破裂，容易引發脈絡膜新生血管（CNV）出血。\n- B. 正確。後鞏膜葡萄腫（posterior staphyloma）是由於眼球後極部鞏膜局部變薄、向後方圓形凸出，為病理性高度近視特徵性的眼球結構改變。\n- C. 正確。格子狀退化/變性（lattice degeneration）常見於高度近視患者的周邊視網膜。病灶處視網膜變薄，且常伴隨玻璃體異常牽拉，是造成孔源性視網膜剝離的主要危險因子。\n- D. 錯誤。視網膜色素上皮肥厚（hypertrophy of the retinal pigment epithelium，如先天性 CHRPE）通常是一種良性、單純的先天性色素病灶，與高度近視眼軸拉長或後續的病理性退化無關。\n\n【核心考點】\n高度近視（病理性近視）的典型眼底變化包括後鞏膜葡萄腫、漆裂紋及周邊格子狀變性；而先天性視網膜色素上皮肥厚（CHRPE）為無關之良性先天病灶。",
+      "key_point": "高度近視（病理性近視）的典型眼底變化包括後鞏膜葡萄腫、漆裂紋及周邊視網膜格子狀退化；而先天性視網膜色素上皮肥厚（CHRPE）為良性先天病變，與近視無關。",
+      "flashcard_front": "高度近視（病理性近視）常見的眼底與視網膜病變",
+      "flashcard_back": "高度近視（>600度，眼軸拉長）的特徵眼底病變有：1. 後鞏膜葡萄腫（staphyloma）；2. 漆裂紋（lacquer cracks，Bruch's膜破裂）；3. 周邊視網膜格子狀退化（lattice degeneration，易引發視網膜剝離）。先天性視網膜色素上皮肥厚（CHRPE）為良性先天色素斑，與高度近視無關。",
+      "flashcard_summary": "pathologic myopia -> 典型病變包括後鞏膜葡萄腫、漆裂紋、格子狀退化；CHRPE 與近視無關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題考查周邊潰瘍性角膜炎（peripheral ulcerative keratitis, PUK）與全身性結締組織疾病的關聯性。PUK 是發生於角膜周邊的漸進性壞死與潰瘍，其病理生理機轉主要與自體免疫抗體或免疫複合物沉積，引起角膜緣處閉塞性微血管炎（occlusive vasculitis）有關，是嚴重全身性血管炎活動期的眼部表現。\n\n【選項詳解】\n- A. 錯誤。全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）是已知的全身性自體免疫病因之一，雖然會引發 PUK，但其發生率和臨床關聯強度在統計上並非最常見。\n- B. 正確。在所有伴隨全身性自體免疫疾病的周邊潰瘍性角膜炎（PUK）病例中，**類風濕性關節炎（rheumatoid arthritis, RA）** 是臨床上「最常見」的全身性病因。出現 PUK 往往代表 RA 全身血管炎病情高度活動，需要全身性免疫抑制劑積極介入治療。\n- C. 錯誤。結節性多動脈炎（polyarteritis nodosa, PAN）是累及中、小動脈的系統性壞死性血管炎，為引發 PUK 的原因之一，但盛行率遠低於類風濕性關節炎。\n- D. 錯誤。韋格氏肉芽腫（Wegener granulomatosis，現稱肉芽腫併多發性血管炎 GPA）為壞死性肉芽腫性血管炎，也是併發 PUK 的已知病因，但其臨床盛行率亦不如類風濕性關節炎普遍。\n\n【核心考點】\n周邊潰瘍性角膜炎（PUK）常為全身性壞死性血管炎之眼部表現，其中以類風濕性關節炎（RA）為最常見的病因，臨床上須合併全身系統性免疫治療。",
+      "key_point": "周邊潰瘍性角膜炎（PUK）常伴隨全身性閉塞性血管炎，最常見的關聯全身自體免疫疾病是類風濕性關節炎（RA）。",
+      "flashcard_front": "周邊潰瘍性角膜炎（PUK）最常見的全身性免疫疾病病因",
+      "flashcard_back": "最常見為類風濕性關節炎（rheumatoid arthritis, RA）。PUK 是角膜基質壞死潰瘍，多因免疫複合物沉積導致閉塞性血管炎引起。其他相關疾病包括全身性紅斑性狼瘡（SLE）、結節性多動脈炎（PAN）及肉芽腫併多發性血管炎（GPA，舊稱 Wegener肉芽腫）。",
+      "flashcard_summary": "PUK -> 由於局部閉塞性血管炎引發角膜基質壞死，最常見之伴隨疾病為類風濕性關節炎（RA）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

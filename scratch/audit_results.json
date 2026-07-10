@@ -1,0 +1,117 @@
+{
+  "total_reviewed": 80,
+  "total_passed": 70,
+  "total_failed": 10,
+  "passed_files": [
+    "q001-q010.json",
+    "q011-q020.json",
+    "q041-q050.json",
+    "q051-q060.json",
+    "q061-q070.json",
+    "q071-q080.json"
+  ],
+  "failed_files": [
+    "q021-q030.json",
+    "q031-q040.json"
+  ],
+  "repairs": {
+    "23": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "24": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "25": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "26": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "27": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "28": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "29": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "30": [
+      "Explanation missing headers: 【核心考點】"
+    ],
+    "37": [
+      "Could not parse or missing options: ['A', 'B']"
+    ],
+    "38": [
+      "Could not parse or missing options: ['A', 'B']"
+    ]
+  },
+  "manual_reviews": [
+    [
+      15,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      18,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      42,
+      [
+        "補充提醒：本題官方更正為除未作答者外均給分，原標準答案為 C。"
+      ]
+    ],
+    [
+      43,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      44,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      45,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      46,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      47,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      48,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      49,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ],
+    [
+      50,
+      [
+        "Explanation contains potential answer controversy keywords"
+      ]
+    ]
+  ]
+}

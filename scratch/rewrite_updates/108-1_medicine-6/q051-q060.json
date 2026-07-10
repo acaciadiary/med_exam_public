@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-6.json",
+  "dataset_id": "108-1_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題評估卵巢儲備功能（ovarian reserve）下降的各項臨床與實驗室指標變化。卵巢儲備功能衰退時，代表卵巢內殘存可發育的卵子數量減少。評估指標主要包括抗穆氏管荷爾蒙（AMH）、竇濾泡數（AFC）及基礎濾泡刺激素（FSH）。當卵巢庫存下降時，AMH 數值會顯著下降，故選項 C 為正確描述。\n\n【選項詳解】\n- A. 錯誤。基礎濾泡刺激素（FSH）在卵巢儲備功能下降時，因卵巢回饋減弱（抑制素 Inhibin B 和雌激素分泌減少），月經第 2~3 天的基礎 FSH 值會呈現反饋性「上升」，而非下降。\n- B. 錯誤。女性的卵巢儲備功能（ovarian reserve）會隨年齡增長而逐漸「下降」（特別是在 35 歲後呈加速下滑趨勢），並非與年齡無關或隨年齡增加而上升。\n- C. 正確。抗穆氏管荷爾蒙（AMH）主要由早期發育的濾泡（竇前濾泡及小竇濾泡）之顆粒細胞分泌。當卵巢庫存量減少時，AMH 分泌量隨之「下降」。由於 AMH 在月經週期中波動極小，是目前臨床評估卵巢儲備最穩定且準確的指標。\n- D. 錯誤。竇濾泡個數（AFC, antral follicle count）是利用陰道超音波量測雙側卵巢內直徑 2~10 mm 的小濾泡總數。卵巢儲備功能下降時，AFC 應顯著「減少」（通常小於 5~7 個提示儲備不良），而非上升。\n\n【核心考點】\n卵巢儲備功能評估：儲備下降時呈現 AMH 下降、AFC 下降、基礎 FSH 上升。AMH 由竇前/小竇濾泡之顆粒細胞分泌，數值最穩定，不受月經週期影響。",
+      "key_point": "卵巢儲備功能衰退時，呈現 AMH 與 AFC 下降、基礎 FSH 反饋性上升；其中 AMH 最具週期穩定性。",
+      "flashcard_front": "評估卵巢儲備功能（ovarian reserve）下降 the 指標變化",
+      "flashcard_back": "抗穆氏管荷爾蒙（AMH）下降、竇濾泡數（AFC）下降、基礎濾泡刺激素（FSH）上升。",
+      "flashcard_summary": "卵巢儲備評估 -> 儲備下降時 AMH 下降、AFC 下降、FSH 上升。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題探討在人工生殖技術（ART）進行控制性超刺激排卵後，為預防或降低卵巢過度刺激症候群（OHSS）發生的處置原則。OHSS 的主要病理機轉是由於大量排卵刺激，導致血管內皮生長因子（VEGF）等物質大量釋放，引起血管通透性增加、體液漏出至第三空間。取卵後給予多巴胺受體促效劑（Cabergoline）能阻斷 VEGF 途徑，是學理上有效的預防手段。\n\n【選項詳解】\n- A. 錯誤。使用人類絨毛膜促性腺激素（hCG）作為破卵針（trigger）是引發 OHSS 的關鍵因素，因為 hCG 半衰期長且會持續刺激黃體。預防 OHSS 應改用「促性腺激素釋放激素促效劑（GnRH agonist）」做為破卵針，以誘導內源性 LH 突增（surge），其半衰期短，可大幅降低 OHSS 風險。\n- B. 錯誤. 促性腺激素釋放激素拮抗劑（GnRH antagonist）在療程中是為了防止濾泡提早破裂而使用，無法作為誘導卵子成熟的「破卵針」。在 GnRH 拮抗劑療程中，應以「GnRH 促效劑（agonist）」作為破卵針來預防 OHSS。\n- C. 錯誤。Coasting（扣結療程，即暫停給予促性腺激素）是當血中雌二醇（E2）濃度過高時採取的預防手段，讓部分小濾泡自行萎縮。若 E2 濃度持續極高且無法降至安全範圍，為確保病人生命安全，應果斷「取消（cancel）」該刺激週期，而非一律不取消。\n- D. 正確。取卵後給予多巴胺受體促效劑 Cabergoline 治療，可藉由活化多巴胺受體，選擇性抑制血管內皮生長因子受體 2（VEGFR-2）的磷酸化，從而減少 VEGF 介導的血管通透性增加，有效降低 OHSS 的發生率與嚴重度。\n\n【核心考點】\n卵巢過度刺激症候群（OHSS）的預防：1. 避免使用 hCG，改用 GnRH agonist 作為破卵針；2. 投予 Cabergoline 以抑制 VEGF 途徑，減少血管通透性；3. E2 過高時進行 Coasting 或直接取消週期；4. 採取全胚冷凍（freeze-all）策略。",
+      "key_point": "預防 OHSS 可使用 GnRH agonist 代替 hCG 作為破卵針，並在取卵後給予 Cabergoline 以抑制 VEGF 介導的血管通透性增加。",
+      "flashcard_front": "如何預防人工生殖（ART）後的卵巢過度刺激症候群（OHSS）？",
+      "flashcard_back": "改用 GnRH agonist 破卵以代替 hCG，取卵後使用 Cabergoline 抑制 VEGF 途徑，或採取全胚冷凍與 Coasting 策略。",
+      "flashcard_summary": "OHSS 預防 -> GnRH agonist trigger 替代 hCG，加用 Cabergoline 阻斷 VEGF 增加通透性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題評估患有二尖瓣狹窄（Mitral Stenosis, MS）的孕婦在懷孕初期的生理評估。超音波測量胎兒頭臀長（CRL）為 2.1 公分（即 21 mm）。根據估算公式（孕週 ≈ CRL (cm) + 6.5 或 CRL (mm) + 42 天），CRL 2.1 公分對應的實際孕齡約為 8-9 週（8.6 週）。因此，選項 A 估算為 6 週是不正確的，為本題應選的錯誤敘述。\n\n【選項詳解】\n- A. 正確（本題選錯誤敘述，故此為正確答案）。以胎兒頭臀長（CRL）2.1 公分來估算孕齡，其週數應大約為 8-9 週（CRL 2.1 cm + 6.5 = 8.6 週），而非選項所稱之「6 週」，此判斷在臨床估算上有明顯落後。\n- B. 錯誤（此敘述本身正確，故不選）。正常孕婦在懷孕早期（約第 8 週起）心血管系統就會出現顯著適應，包括周邊血管阻力（SVR）降低、心率（HR）變快，以及心輸出量（CO）逐漸上升，以因應子宮及胎盤血流需求。\n- C. 錯誤（此敘述本身正確，故不選）。在妊娠第 28 至 32 週期間，孕婦的血容量與心輸出量增加幅度會達到最高峰。此時心臟負荷最重，對於二尖瓣狹窄等心臟病患者而言，是發生心衰竭與急性肺水腫的高危險期。\n- D. 錯誤（此敘述本身正確，故不選）。在懷孕前 20 週，心輸出量的增加主要依賴每搏輸出量（SV）的提升；20 週之後，則主要由心率的上升來維持。此外，因子宮變大壓迫下腔靜脈，仰臥位會使心輸出量明顯減少，故臨床建議採左側臥位以維持回心血量。\n\n【核心考點】\n1. 第一孕期超音波估算孕齡：CRL (cm) + 6.5 ≈ 孕週。\n2. 妊娠心血管生理變化：心輸出量與血容量在 28-32 週達到最高峰；中後期增大的子宮壓迫下腔靜脈，仰臥易致低血壓，應採取左側臥位。",
+      "key_point": "利用超音波 CRL 估計孕齡公式為 CRL (cm) + 6.5 ≈ 孕週。懷孕 28-32 週為心輸出量與血容量之高峰，心臟病孕婦易在此時發生心衰竭。",
+      "flashcard_front": "利用頭臀長（CRL）估算第一孕期週數的公式及妊娠心輸出量的高峰期？",
+      "flashcard_back": "CRL (cm) + 6.5 ≈ 孕週；心輸出量與血容量在妊娠第 28~32 週達到最高峰。",
+      "flashcard_summary": "孕週估算與妊娠生理 -> CRL (cm) + 6.5 ≈ 孕週；心輸出量於 28-32 週達高峰，仰臥會因壓迫下腔靜脈降低回心血量。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題評估若孕婦罹患「艾森門格氏症候群（Eisenmenger syndrome）」時的妊娠臨床考量。艾森門格氏症候群是因先天性心臟病左向右分流導致嚴重的肺動脈高壓，當肺血管阻力大於系統血管阻力時，分流逆轉為「右向左分流」，臨床上會出現發紺與缺氧。由於懷孕會使體血管阻力降低，進一步加劇右向左分流，導致孕婦死亡率極高（達 30-50%），因此該病是懷孕的「絕對禁忌症」，選項 B 說「不屬於不建議懷孕的對象」是嚴重的錯誤。\n\n【選項詳解】\n- A. 錯誤（此敘述本身正確，故不選）。該患者懷孕前日常活動無礙（NYHA Class II，輕度活動受限），但懷孕後出現明顯心悸、氣喘與半坐臥呼吸（NYHA Class III，顯著活動受限，微小活動即有症狀），心功能分級描述正確。\n- B. 正確（本題選錯誤敘述，故此為正確答案）。艾森門格氏症候群是女性「懷孕的絕對禁忌症」。因其孕期高死亡率（30~50%），臨床指引強烈建議此類患者進行避孕，若不慎懷孕，應在第一孕期盡早諮詢並建議終止妊娠。\n- C. 錯誤（此敘述本身正確，故不選）。此選項精確描述了艾森門格氏症候群的病理生理。當肺血管阻力（PVR）大於系統血管阻力（SVR）時，分流轉為右至左，並引發低氧血症及發紺，孕婦死亡率高達 30-50%。\n- D. 錯誤（此敘述本身正確，故不選）。先天性心臟病且有發紺的患者，在懷孕中後期及分娩時，發生感染性心內膜炎（IE）的風險顯著增加，需由多學科團隊密切照護，於分娩或侵入性操作時評估抗生素預防，並嚴格維持血容量穩定。\n\n【核心考點】\n艾森門格氏症候群（Eisenmenger syndrome）與妊娠：1. 是懷孕的「絕對禁忌症」，孕婦死亡率高達 30-50%；2. 懷孕的血管舒張會使系統血管阻力（SVR）下降，惡化右至左分流及發紺；3. 心功能分級（NYHA）隨懷孕負荷增加而進展。",
+      "key_point": "艾森門格氏症候群（Eisenmenger syndrome）為女性懷孕之絕對禁忌症，孕婦死亡率高達 30-50%，因懷孕時體血管阻力（SVR）下降會加劇右向左分流與缺氧。",
+      "flashcard_front": "為什麼艾森門格氏症候群（Eisenmenger syndrome）是女性懷孕的絕對禁忌症？",
+      "flashcard_back": "孕婦死亡率極高（30-50%）；懷孕時周邊體血管阻力下降會使右至左分流增加，惡化缺氧與心臟衰竭。",
+      "flashcard_summary": "Eisenmenger syndrome 妊娠 -> 絕對禁忌症，孕婦死亡率 30-50%，周邊血管阻力下降會加重右至左分流。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題考查吞嚥障礙（dysphagia）患者復健治療中，食物質地對吞嚥反射（swallowing reflex）誘發的影響。對於吞嚥反射遲緩或受損的患者，稀薄的液體（如水、清湯）在口腔與咽喉中流速過快，且對感覺感受器的刺激較弱，容易引發吸入性嗆咳（aspiration）。相反地，高黏稠度、具凝聚性的食物（如濃稠液體或糊狀食物）能減緩食物流速，給予咽喉足夠的感覺刺激以誘發吞嚥反射，對患者而言最為安全。\n\n【選項詳解】\n- A. 正確。濃稠的液體（Thickened liquid）或糊狀食物在口中流動速度慢，能提供較充足的本體覺與觸覺刺激，使延遲的吞嚥反射有足夠時間啟動，從而減少食物誤入氣管的機率，是臨床上對吞嚥障礙患者最安全、最容易誘發吞嚥反射的質地。\n- B. 錯誤。稀薄的液體（Thin liquid，如水）流速極快，且刺激閾值較高，在吞嚥反射尚未啟動前就已流向咽喉與氣管口，極易導致誤吸與嗆咳，對吞嚥反射遲緩者最不安全。\n- C. 錯誤。溫度適中的食物對口咽黏膜溫覺感受器的刺激微弱，相較於「冰冷」或「有特定酸味」的食物，其誘發吞嚥反射的效果較差。\n- D. 錯誤。稀薄液體無論是否冰冷，其核心的流速過快特性依然存在，雖然冰冷能提供額外的溫度刺激，但對於嚴重吞嚥反射遲緩者，稀薄液體整體而言仍有高誤吸風險，並非最安全的飲食質地。\n\n【核心考點】\n吞嚥障礙復健與食物質地：濃稠液體流速慢、感覺刺激強，最易誘發吞嚥反射且最安全；稀薄液體（如水）流速過快，最易造成吸入性嗆咳。",
+      "key_point": "對吞嚥反射遲緩患者，濃稠液體能減緩食物流動並提供充足的感官刺激，最容易誘發吞嚥反射，比稀薄液體更安全。",
+      "flashcard_front": "為什麼濃稠液體（thickened liquid）比稀薄液體（thin liquid）更容易誘發吞嚥反射且對吞嚥障礙患者更安全？",
+      "flashcard_back": "濃稠液體在口咽部流速較慢，能提供較強且持久的觸覺與本體覺刺激，讓遲緩的吞嚥反射有足夠時間啟動，預防吸入性嗆咳。",
+      "flashcard_summary": "吞嚥食物選擇 -> 濃稠液體流速慢、感覺刺激大，最易誘發吞嚥反射；稀薄液體流速快，易在反射啟動前造成誤吸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題探討遺傳性周邊神經病變「夏科-馬里-杜斯氏症（Charcot-Marie-Tooth disease, CMT）」在下肢的臨床表現與受損神經的關聯。CMT 是一種遺傳性運動感覺神經病變（HMSN），其病理特徵是遠端肢體進行性肌肉萎縮與無力。下肢受損最為顯著的周邊神經是「總腓神經（common peroneal nerve）」，其所支配的脛前肌與腓骨肌群萎縮無力，會導致垂足（foot drop）、高弓足（pes cavus）以及爪形趾等典型下肢畸形。\n\n【選項詳解】\n- A. 正確。腓神經（Peroneal nerve，特別是總腓神經）是 CMT 最主要且最早受侵犯的周邊神經。腓神經受損會導致其支配的足背屈肌群（如脛前肌）無力，使得患者出現下肢進行性遠端肌肉萎縮（呈現 inverted champagne bottle 倒置香檳酒瓶狀）、高弓足與足下垂（foot drop）等畸形。\n- B. 錯誤。脛神經（Tibial nerve）支配小腿後側肌群（如腓腸肌、比目魚肌，負責足蹠屈）。雖然 CMT 晚期也可能波及脛神經，但其受損程度和發病時間通常晚於且輕於腓神經，並非下肢早期最主要受侵犯的目標。\n- C. 錯誤。股神經（Femoral nerve）起源於腰椎叢（L2-L4），支配大腿前側肌群（如股四頭肌，負責伸膝）。CMT 主要影響遠端周邊神經（長神經），大腿近端的股神經在臨床上極少受累。\n- D. 錯誤。隱神經（Saphenous nerve）是股神經的純感覺分支，支配小腿內側與足內側感覺。CMT 是一種同時影響運動與感覺的長度依賴性神經病變，且臨床上以運動神經受損引起的肌萎縮畸形為主要評估點，隱神經受損無法解釋典型的下肢運動畸形。\n\n【核心考點】\n夏科-馬里-杜斯氏症（Charcot-Marie-Tooth disease, CMT）下肢病變：最常侵犯「總腓神經（common peroneal nerve）」，導致脛前肌萎縮、足下垂（foot drop）、高弓足（pes cavus）與小腿遠端萎縮（倒置香檳酒瓶樣外觀）。",
+      "key_point": "Charcot-Marie-Tooth (CMT) 症候群主要侵犯遠端長神經，下肢以總腓神經（peroneal nerve）受累最為主要，導致高弓足與足下垂。",
+      "flashcard_front": "Charcot-Marie-Tooth (CMT) 病健下肢畸形（如高弓足、足下垂）主要是哪一條周邊神經受損所致？",
+      "flashcard_back": "總腓神經（common peroneal nerve）。",
+      "flashcard_summary": "CMT神經受損 -> 腓神經受損最主要，導致遠端肌萎縮（倒地香檳酒瓶狀）、足下垂與高弓足。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題考察脊髓損傷（SCI）男性患者不孕症的復健與人工輔助生殖技術。高位脊髓損傷常伴隨射精障礙。臨床上常使用「直腸電刺激取精（rectal probe electroejaculation, EEJ）」來獲取精子。此技術是將電刺激探頭置入「直腸」內，隔著直腸前壁以微弱電流刺激鄰近的交感神經與副交感神經纖維（主要位於前列腺及儲精囊後方的神經叢），進而誘發射精。\n\n【選項詳解】\n- A. 錯誤。尿道（Urethra）管腔狹窄且黏膜極為敏感，無法置入電刺激探頭，且刺激尿道無法有效引發神經反射來控制射精。\n- B. 錯誤。膀胱（Bladder）位於直腸前方，刺激膀胱主要引起逼尿肌收縮導致排尿，而非誘導射精。此外，EEJ 過程中若發生逆向射精，精液會流入膀胱，此時需在術前插管灌洗並於術後從膀胱中回收精子，但電刺激探頭本身絕非置於膀胱中。\n- C. 正確。在執行直腸電刺激取精（EEJ）時，電刺激器探頭（Rectal probe）必須置於「直腸」內。直腸前方與前列腺、儲精囊及骨盆神經叢（pelvic plexus）相鄰，通過直腸黏膜給予電流刺激，能最有效興奮這些負責控制射精的自主神經通路，從而安全誘發射精。\n- D. 錯誤。陰囊（Scrotum）內含睪丸與副睪，刺激陰囊或睪丸外表僅會引起局部肌肉或提睪肌收縮，無法激活射精反射，且將電刺激探頭置於睪丸周圍會造成不必要的局部組織熱傷害。\n\n【核心考點】\n脊髓損傷（SCI）男性取精技術：直腸電刺激取精（EEJ）之電刺激探頭置於「直腸」內，以刺激前列腺與儲精囊後方的射精神經叢。需注意防範高位脊髓損傷患者可能誘發的自主神經反射異常（autonomic dysreflexia）。",
+      "key_point": "脊髓損傷患者的直腸電刺激取精（EEJ）是將電刺激探頭置於「直腸」中，刺激前列腺與儲精囊周圍的神經叢以誘發射精。",
+      "flashcard_front": "脊髓損傷患者使用直腸電刺激取精（EEJ）時，電刺激器探頭應置於何處？",
+      "flashcard_back": "直腸（rectum）內。",
+      "flashcard_summary": "SCI 電刺激取精 -> 探頭置入直腸，隔直腸壁電刺激前列腺/儲精囊神經叢以誘發射精。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題考察腦中風（Stroke）病患偏癱後的運動功能恢復規律與特徵。偏癱側的運動功能恢復一般遵循特定的時序與規律（如 Brunnstrom 分期）。臨床實證指出，中風後運動功能恢復最顯著的時期是「前 3 個月內」（黃金恢復期）。且由於下肢動作以粗大、對稱的協同動作為主，在大腦皮質的投射區域較小；而上肢（手部）需要高度精細的控制，投射區域大且複雜，因此下肢的運動功能恢復「通常比上肢更快且更好」，選項 C 敘述下肢比上肢慢是錯誤的。\n\n【選項詳解】\n- A. 錯誤（此敘述本身正確，故不選）。腦中風偏癱後的上肢運動功能恢復，絕大部分發生在發病後的 6~9 個月內，此時神經可塑性與自發性恢復最為活躍；超過此時期後，恢復速度會顯著放緩，進入平台期。\n- B. 錯誤（此敘述本身正確，故不選）。無論上肢或下肢，中風後運動功能恢復最快、改善幅度最大的階段，都是在發病後的第一個月至前三個月內（黃金期），此時期是復健介入成效最高的時期。\n- C. 正確（本題選錯誤敘述，故此為正確答案）。臨床上，中風病患下肢的運動功能恢復速度與程度，通常「比上肢更快且更好」（即手比腳慢，下肢比上肢快）。因為下肢復健主要涉及步行等大肌群的粗大動作，而上肢手部涉及極為精細的抓握與對指功能，大腦皮質受損後重建難度極高。選項稱下肢功能恢復比上肢慢是錯誤的。\n- D. 錯誤（此敘述本身正確，故不選）。中風後的運動功能恢復，高度依賴中樞神經系統的「神經可塑性（neuroplasticity）」，包括大腦半球間的功能代償、突觸重新連結與軸突分枝等生理機轉。\n\n【核心考點】\n腦中風偏癱功能恢復規律：1. 恢復黃金期為中風後前 3 個月內，大部分功能恢復在 6 個月內完成；2. 下肢運動功能恢復通常「比上肢（手）更好且更快」；3. 恢復的生理學基礎為神經可塑性。",
+      "key_point": "腦中風病患偏癱肢體恢復中，下肢（腳）的運動功能恢復通常比上肢（手）更快且更好，中風後前 3 個月為黃金恢復期。",
+      "flashcard_front": "腦中風偏癱患者，上肢（手）與下肢（腳）的運動功能恢復速度與程度有何差異？",
+      "flashcard_back": "下肢的恢復通常比上肢更快且更好（手比腳慢），因上肢精細動作之大腦皮質投射範圍廣且複雜，受損後較難重建。",
+      "flashcard_summary": "中風肢體恢復規律 -> 下肢恢復快於/優於上肢；發病後前3個月為恢復黃金期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題考察重症肌無力（Myasthenia Gravis, MG）的臨床電生理診斷。重症肌無力是自體免疫抗體攻擊突觸後膜乙醯膽鹼受體（AChR）引起的「神經肌肉接合處（NMJ）疾病」。在電診斷學中，重複神經刺激檢查（RNS）是常用的篩檢方法，會顯示複合肌肉動作電位（CMAP）的「遞減反應」；而「單纖維肌電圖（Single-fiber EMG, SFEMG）」是所有電生理檢查中「敏感度最高（最敏感）」的方法，其可量測同一個運動單位內相鄰肌纖維動作電位的發射時間延遲（稱為 Jitter），當 Jitter 異常增加或出現傳導阻滯時即可確診。\n\n【選項詳解】\n- A. 錯誤。神經傳導速度檢查（nerve conduction study, NCS）主要用於評估大直徑有髓鞘的「周邊感覺與運動神經」髓鞘或軸突受損情況，重症肌無力患者的常規 NCS 結果通常是正常的。\n- B. 正確。單纖維肌電圖（Single-fiber EMG, SFEMG）是診斷重症肌無力「最敏感」的電生理方法（敏感度高達 95% 以上）。它使用特殊的單纖維針極，記錄來自同一個運動單位的個別肌纖維動作電位，能精準量測神經肌肉接合處的「顫抖現象（jitter）」。當 NMJ 傳導安全係數降低時，jitter 會顯著增加。\n- C. 錯誤。重複神經刺激檢查（repetitive nerve stimulation, RNS）是診斷 MG 最基本的篩檢工具（低頻刺激下 CMAP 出現遞減反應），但其敏感度（約 50-70%，特別是眼肌型 MG 敏感度更低）明顯低於單纖維肌電圖（SFEMG），因此並非「最敏感」的方法。\n- D. 錯誤。肌肉興奮性檢查（muscle excitability test）主要用於診斷週期性癱瘓等骨骼肌離子通道病變（channelopathies），並非重症肌無力等神經肌肉接合處病變的標準診斷工具。\n\n【核心考點】\n重症肌無力（MG）的電診斷學：1. 「最敏感」的檢查為單纖維肌電圖（SFEMG），主要特徵是顫抖（Jitter）增加；2. 常規篩檢使用重複神經刺激（RNS），特徵是低頻刺激下出現遞減反應（decremental response）。",
+      "key_point": "診斷重症肌無力（MG）最敏感的電生理檢查為單纖維肌電圖（SFEMG），其特徵是量測到神經肌肉接合處的顫抖（jitter）增加。",
+      "flashcard_front": "重症肌無力（MG）最敏感的電診斷學（Electrodiagnosis）檢查為何？其電生理原理是什麼？",
+      "flashcard_back": "單纖維肌電圖（SFEMG）；原理為量測同一個運動單位中相鄰肌纖維動作電位傳導的時間差，顯示顫抖（Jitter）增加或傳導阻滯。",
+      "flashcard_summary": "MG電生理診斷 -> 單纖維肌電圖（SFEMG）最敏感（偵測 Jitter 增加）；重複神經刺激（RNS）呈低頻遞減。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考查特發性發炎性肌病「多發性肌炎（polymyositis, PM）」的臨床藥物治療原則。多發性肌炎是一種自體免疫性疾病，特徵是近端肢體無力及橫紋肌的慢性發炎。其第一線核心藥物為「全身性糖皮質激素/類固醇（glucocorticoid）」，可有效抑制異常免疫反應與減輕肌肉發炎，大部分患者在開始治療後肌力可獲得顯著改善。\n\n【選項詳解】\n- A. 錯誤。疾病修飾抗風濕藥物（DMARDs，如 Methotrexate, Azathioprine）常用於多發性肌炎的治療，但它們屬於「第二線藥物」或「類固醇減量輔助藥物（steroid-sparing agents）」，是在類固醇療效不佳、有禁忌症或需減少類固醇副作用時才合併使用，並非最常使用的第一線首選。\n- B. 錯誤。生物製劑（Biologic agents，如 Rituximab 標靶抗 CD20 治療）主要用於難治性、對類固醇及傳統 DMARDs 反應不佳 of 重度多發性肌炎患者，屬於後線治療，並非第一線或最常使用的常規藥物。\n- C. 正確。糖皮質激素/類固醇（Glucocorticoid，如口服 Prednisolone，重症者可先給予靜脈注射 Methylprednisolone 脈衝療法）是治療多發性肌炎「最常用且最核心的第一線首選藥物」。其能迅速抑制全身免疫反應，改善肌無力及降低血清肌酸激酶（CK）濃度。\n- D. 錯誤。非類固醇消炎止痛藥（NSAIDs）僅能提供短期的止痛與非特異性消炎作用，無法抑制多發性肌炎背後的自體免疫破壞機轉，更無法阻止進行性的肌肉萎縮與無力，因此不適合作為多發性肌炎的主要治療藥物。\n\n【核心考點】\n多發性肌炎（Polymyositis）的藥物治療：第一線首選且最常規使用的核心藥物是「全身性類固醇（glucocorticoid）」，DMARDs（如 MTX、AZA）作為二線或輔助減量藥物。",
+      "key_point": "全身性糖皮質激素（glucocorticoid）是治療多發性肌炎（polymyositis）的第一線且最常使用的首選核心藥物。",
+      "flashcard_front": "多發性肌炎（Polymyositis）的主要第一線核心治療藥物為何？",
+      "flashcard_back": "全身性類固醇 / 糖皮質激素（glucocorticoid）。",
+      "flashcard_summary": "多發性肌炎治療 -> 全身性類固醇為第一線核心首選；DMARDs 為二線或類固醇減量輔助藥物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:30:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

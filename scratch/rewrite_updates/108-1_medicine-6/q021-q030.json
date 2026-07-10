@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-6.json",
+  "dataset_id": "108-1_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題描述一名 32 週（足月產後 3 個月大）的嬰兒，在出生後 3 週開始出現吸氣性喘鳴聲（inspiratory stridor），經喉內視鏡確診為喉軟化症（laryngomalacia）。喉軟化症是嬰兒先天性喘鳴最常見的原因，其特徵為吸氣時喉部結構（如會厭或杓狀軟骨）塌陷。\n\n【選項詳解】\n- A. 錯誤。喉軟化症在嬰兒平躺（仰臥）時會加重，因為重力會使鬆弛的喉部構造更往後塌陷；反之，在俯臥（趴睡）時，喉部構造因重力向前牽引，氣道相對變寬，症狀通常會減輕。\n- B. 錯誤。雖然是先天性病變，但嬰兒通常在出生後 2 至 4 週大時才開始出現明顯的喘鳴聲，並非出生後立即出現，且症狀常在 6 到 8 個月大時達到高峰。\n- C. 錯誤。在餵食（吃飽）或哭鬧時，因呼吸需求增加、胸腔負壓變大，吸氣時更容易引起喉部塌陷，因此餵食時喘鳴症狀通常會加重，而非減輕。\n- D. 正確。絕大多數喉軟化症患兒屬於輕中度，其喉部軟骨會隨著年齡增長（約在 18 個月至 2 歲）發育成熟變硬，多數可自然緩解而不需任何手術治療。僅少數合併嚴重缺氧、發紺、吞嚥困難或生長遲滯者才需施行喉上整形術（supraglottoplasty）。\n\n【核心考點】\n喉軟化症是嬰兒吸氣性喘鳴最常見成因。其特徵為吸氣性喘鳴、仰臥與餵食時加重、趴睡時減輕，多數可於 1.5 至 2 歲前自行緩解。",
+      "key_point": "喉軟化症為嬰兒先天性吸氣性喘鳴最常見病因，症狀在平躺與餵食時加重、趴睡時減輕，多數於1.5至2歲隨軟骨發育硬化而自行緩解。",
+      "flashcard_front": "laryngomalacia (喉軟化症) 的臨床特徵、影響姿勢與自然預後為何？",
+      "flashcard_back": "表現為吸氣性喘鳴，仰臥/餵食時加重，俯臥（趴睡）時減輕，通常在18至24個月大時隨喉部發育成熟而自行緩解。",
+      "flashcard_summary": "laryngomalacia -> 吸氣性喘鳴，平躺加重，趴睡緩解，2歲前多可自發緩解。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題探討臨床上最適合用來做為鼻咽癌（nasopharyngeal carcinoma, NPC）預後評估與癌症復發監測的血液學檢驗指標。\n\n【選項詳解】\n- A. 錯誤。EBV 抗病毒殼抗原抗體 IgG（anti-VCA IgG）主要代表過去曾感染過 EB 病毒，在一般健康成年人群中的陽性率極高，無法靈敏反映體內腫瘤負荷的動態變化，因此不適合作為預後與復發的評估。\n- B. 錯誤。EBV 抗病毒殼抗原抗體 IgA（anti-VCA IgA）是常用的鼻咽癌「產前/早期篩檢」指標，其陽性代表局部黏膜的免疫反應，但在評估手術/放射線治療後微小殘留病灶與復發的動態監測上，敏感度與特異度皆不如游離 DNA 定量。\n- C. 錯誤。EBV 抗早期抗原抗體 IgA（anti-EA IgA）可用於輔助篩檢與臨床分期，代表病毒處於活躍複製狀態，然而在腫瘤切除或放療後，其血清滴度下降緩慢，在即時評估微小殘留病灶及預測復發上的準確度不如血漿游離 DNA。\n- D. 正確。血清或血漿中的游離 EB 病毒去氧核醣核酸定量（Serum/Plasma free EBV DNA copies）是目前臨床公認最優異的鼻咽癌追蹤與預後指標。藉由定量 PCR（qPCR）測定，其濃度與腫瘤大小及體內腫瘤負荷呈高度正相關。治療後 EBV DNA 應降至偵測不到；若持續偏高或再度回升，高度提示有微小殘留病灶、局部復發或遠端轉移。\n\n【核心考點】\n血清/血漿游離 EBV DNA 定量直接反映鼻咽癌腫瘤負荷，是評估療效、預後、微小殘留病灶與監測復發的首選動態指標，優於各類 EBV 血清學抗體。",
+      "key_point": "血漿游離 EBV DNA 定量是評估鼻咽癌預後、監測復發與微小殘留病灶的最優異指標，其滴度與體內腫瘤負荷呈直接正相關。",
+      "flashcard_front": "評估鼻咽癌療效、預後及復發的最敏感與特異之血液學指標為何？",
+      "flashcard_back": "血清或血漿中游離 EB 病毒去氧核醣核酸定量（Serum/Plasma free EBV DNA copies），直接反映腫瘤負荷。",
+      "flashcard_summary": "NPC monitoring -> 首選血漿游離 EBV DNA copies 定量以監測腫瘤負荷及復發。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題描述一名 7 歲男童，表現為反覆流鼻血、手指及口腔黏膜有微血管擴張，血色素偏低（缺鐵性貧血），且其父親亦有反覆流鼻血之家族史。此為典型的體染色體顯性遺傳疾病——遺傳性出血性微血管擴張症（HHT，又稱 Osler-Weber-Rendu syndrome）。\n\n【選項詳解】\n- A. 錯誤。血友病（hemophilia）為 X 染色體隱性遺傳病，主要表現為深部關節腔或肌肉組織出血，且父親若為患者，兒子通常為正常人（只從母親獲得 X 體染色體），不符合此家族遺傳模式，亦無手指或口腔黏膜微血管擴張的特徵。\n- B. 正確。Osler-Weber-Rendu syndrome（HHT）為體染色體顯性遺傳。臨床診斷基準包括：(1) 自發反覆性鼻出血、(2) 皮膚黏膜（手指、雙唇、口腔等）多發性微血管擴張、(3) 內臟器官（如肺、腦、肝、腸胃道）動靜脈畸形、(4) 一親等家族史。本例男童完全符合以上多項特徵。\n- C. 錯誤。Sipple's syndrome 即多發性內分泌腫瘤第 2A 型（MEN 2A），與 RET 基因突變相關，典型表現為甲狀腺髓質癌、嗜鉻細胞瘤及副甲狀腺亢進，與皮膚黏膜微血管擴張或慢性流鼻血無涉。\n- D. 錯誤。鼻咽癌（NPC）雖會引起鼻出血，但主要好發於成年人，無手指與口腔黏膜的多發性微血管擴張，亦非遺傳性的單基因自體顯性遺傳疾病。\n\n【核心考點】\n遺傳性出血性微血管擴張症（HHT，即 Osler-Weber-Rendu syndrome）為體染色體顯性遺傳，臨床以反覆流鼻血、皮膚黏膜微血管擴張、內臟動靜脈畸形與家族史為診斷基準。",
+      "key_point": "Osler-Weber-Rendu syndrome（HHT）為體染色體顯性遺傳，典型表現為反覆流鼻血、皮膚黏膜微血管擴張與內臟動靜脈畸形。",
+      "flashcard_front": "Osler-Weber-Rendu syndrome (HHT) 的遺傳模式與主要臨床診斷指標為何？",
+      "flashcard_back": "體染色體顯性遺傳。診斷特徵：自發反覆鼻出血、多處皮膚黏膜（如唇、手指）微血管擴張、內臟動靜脈畸形（AVM）及一親等家族史。",
+      "flashcard_summary": "Osler-Weber-Rendu (HHT) -> 體顯遺傳，以反覆鼻出血、皮膚黏膜微血管擴張、內臟 AVM 為特色。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題考遺傳性出血性微血管擴張症（HHT）病患因長期嚴重反覆鼻出血而接受手術治療（Saunders procedure，即鼻中隔植皮術）的解剖與病理學原理。\n\n【選項詳解】\n- A. 錯誤。HHT 雖然病源自血管壁內皮發育缺陷，但手術不可能在血管微觀層面上只替換「血管內皮」，而是必須在宏觀上切除整層病變脆弱的鼻中隔前部黏膜。\n- B. 錯誤。同理，手術無法僅選擇性替換血管壁中的平滑肌或結締組織，此選項不符合手術在解剖學上的操作切除與重建方式。\n- C. 錯誤。下鼻甲黏膜雖可有病變，但不是 HHT 引起鼻出血最常見、最主要的部位。HHT 鼻血的主要源頭在受氣流反覆衝擊的鼻中隔前部，因此手術不以取代下鼻甲黏膜為主。\n- D. 正確。Saunders procedure（鼻中隔皮膚移植術/植皮術）是將易反覆出血的鼻中隔前部黏膜（包含部分鼻腔底黏膜）切除，並植入自體分裂厚度皮膚移植物（split-thickness skin graft）。由於皮膚角化上皮比脆弱的黏膜更具韌性，不易因氣流摩擦、結痂或輕微外傷破裂，進而大幅改善反覆大出血的情形。\n\n【核心考點】\nSaunders procedure（鼻中隔植皮術）藉由將容易反覆出血的鼻中隔前部黏膜移除，替換為較堅韌的自體皮膚移植，來控制 HHT 患者頑固的出血症狀。",
+      "key_point": "Saunders procedure（鼻中隔植皮術）用於控制 HHT 反覆出血，主要是移除並以自體皮膚移植物取代病變脆弱的鼻中隔前部黏膜。",
+      "flashcard_front": "在 HHT 病患中，Saunders procedure (鼻中隔植皮術) 是以植皮取代哪一個解剖結構？",
+      "flashcard_back": "鼻中隔前部黏膜（以皮膚角化上皮取代脆弱黏膜，降低氣流摩擦引起的反覆出血）。",
+      "flashcard_summary": "Saunders procedure -> HHT 嚴重鼻血，移除脆弱鼻中隔前部黏膜並移植皮膚。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題考胎兒排出胎便（meconium passage）與妊娠週數的關係。胎兒解出胎便的生理機制需要腸道蠕動功能發育健全，且括約肌具有一定張力，並受到胃動素（motilin）刺激，在臨床上常與宮內窘迫和妊娠過期相關。\n\n【選項詳解】\n- A. 錯誤。在懷孕小於 24 週（第二孕期早期）時，胎兒腸胃道功能尚未發育成熟，胃動素分泌極低，且肛門括約肌張力薄弱。即使發生嚴重宮內缺氧，也極罕見有胎便解入羊水中的情形。\n- B. 正確。大於 42 週（過期妊娠，post-term pregnancy）時，胎盤可能出現老化、灌流功能下降，胎兒發生慢性缺氧的風險增加。缺氧會刺激迷走神經，促進腸道蠕動並使肛門括約肌鬆弛；加上此時胎兒胃動素與腸胃發育完全成熟，因此過期妊娠的胎便排出率最高，並極易併發胎便吸入症候群（MAS）。\n- C. 錯誤. 小於 37 週（早產兒，preterm）由於自主神經系統與腸道生理尚未完全發育，即使面臨胎兒窘迫，解出胎便的機率也顯著低於足月及過期產兒。\n- D. 錯誤。雖然介於 38~41 週的足月兒腸道已成熟且有可能解出胎便，但整體解出率與缺氧誘發機率仍顯著低於大於 42 週的過期妊娠。\n\n【核心考點】\n胎兒在宮內排出胎便與胎兒消化道（括約肌張力、胃動素）發育成熟度及胎盤老化缺氧有關，最常見於大於 42 週之過期妊娠，易引起胎便吸入症候群（MAS）。",
+      "key_point": "胎便排出最常見於大於42週的過期妊娠，此時胎兒胃動素與腸胃功能成熟，且胎盤老化缺氧易刺激迷走神經使肛門括約肌鬆弛而排便。",
+      "flashcard_front": "為什麼大於 42 週的過期妊娠最容易觀察到胎便排出？",
+      "flashcard_back": "此時胎兒腸胃與括約肌發育成熟，且胎盤老化導致缺氧的風險升高，易興奮迷走神經引起腸蠕動及肛門括約肌鬆弛。",
+      "flashcard_summary": "meconium passage -> >42週過期妊娠因胎兒發育成熟與胎盤老化缺氧，胎便排出率最高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題描述一名 26 歲孕婦，G5P3A1，於妊娠 32 週進行產前超音波檢查。超音波影像顯示胎兒面部上唇出現連續性中斷，臨床診斷為胎兒唇裂（cleft lip，俗稱兔唇）。\n\n【選項詳解】\n- A. 錯誤。無腦症（anencephaly）在超音波下的特徵是胎兒頭骨光圈缺失、腦幹以上的腦組織退化外露，呈現經典的「青蛙眼（frog-like face）」外觀，並非單純侷限在唇部的結構缺失。\n- B. 錯誤。唐氏症（Down syndrome）屬於染色體異常（Trisomy 21），超音波篩檢指標主要為早期的頸部透明帶（NT）增厚、鼻骨發育不良，無法單憑面部唇裂的局部圖像確診唐氏症。\n- C. 正確。唇裂（cleft lip）為面部最常見的先天發育畸形，在超音波面部切面中，可以明確觀察到上唇軟組織有單側或雙側的裂口與連續性中斷。\n- D. 錯誤。十二指腸閉鎖（duodenal atresia）的典型產前超音波影像特徵是胎兒腹部橫切面出現「雙泡徵（double-bubble sign）」，這是由於胃及十二指腸近端擴張所致，通常不會伴隨面部唇裂的特徵。\n\n【核心考點】\n產前超音波診斷中，唇裂表現為上唇面部結構的不連續性缺口；十二指腸閉鎖表現為腹部雙泡徵；無腦症表現為顱骨光圈缺失；唐氏症則主要依靠頸部透明帶與其他軟指標篩檢。",
+      "key_point": "胎兒唇裂在產前超音波的特徵為面部上唇至鼻孔的結構連續性中斷；與表現為腹部雙泡徵的十二指腸閉鎖無關。",
+      "flashcard_front": "唇裂 (cleft lip) 與十二指腸 (duodenal atresia) 的產前超音波典型診斷特徵分別 homes 為何？",
+      "flashcard_back": "唇裂表現為胎兒上唇連續性中斷；十二指腸閉鎖則表現為胎兒腹部雙泡徵（double-bubble sign）。",
+      "flashcard_summary": "cleft lip vs duodenal atresia -> 唇裂表現為上唇結構中斷；十二指腸閉鎖表現為腹部雙泡徵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": [
+        "Corrected discrepancy where original explanation mentioned duodenal atresia (D) while official answer is cleft lip (C)."
+      ]
+    },
+    {
+      "question_id": "108-1_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題考早期懷孕（第一孕期）發生流產類型的鑑別診斷。孕婦有下腹痛與出血，且理學檢查發現子宮頸口已經開（擴張），但胚胎或胎盤等受孕組織尚未排出，臨床診斷為不可避免之流產。\n\n【選項詳解】\n- A. 錯誤。不完全流產（incomplete abortion）是指部分胎兒或胎盤組織已經排出體外，但仍有部分殘留物留在子宮腔內，會導致嚴重的陰道出血與劇烈腹痛，此時子宮頸口雖開，但部分組織「已」排出，不符題意。\n- B. 正確。不可避免之流產（inevitable abortion）指流產病程已不可逆。其典型特徵是子宮頸口已擴張、有腹痛與陰道出血，通常伴隨胎膜破裂或羊水流出，但受孕組織此時「尚未」排出體外。\n- C. 錯誤。過期流產（missed abortion）是指胚胎或胎兒已在宮內死亡（通常超過 4 週），但未發生自然流產，病患可能無明顯症狀，且子宮頸口通常是緊閉的。\n- D. 錯誤。敗血性流產（septic abortion）是指流產伴隨子宮內感染，會有發燒、寒顫、惡臭分泌物與明顯子宮壓痛，通常是人為非法墮胎或組織殘留後感染的併發症，與單純子宮頸擴張但未感染的特徵不符。\n\n【核心考點】\n各流產類型的主客觀鑑別點：子宮頸口已開且無組織排出為不可避免流產；子宮頸口已開且部分組織排出為不完全流產；子宮頸口緊閉且胎死腹中為過期流產。",
+      "key_point": "不可避免流產的臨床特徵為陰道出血與下腹痛，子宮頸口已擴張，但胚胎等受孕組織此時尚未排出。",
+      "flashcard_front": "如何鑑別診斷不完全流產、不可避免流產與過期流產的子宮頸口與組織排出狀態？",
+      "flashcard_back": "(1) 不可避免流產：子宮頸已開，受孕組織尚未排出；(2) 不完全流產：子宮頸已開，部分組織已排出；(3) 過期流產：子宮頸緊閉，胎死腹中未排出。",
+      "flashcard_summary": "abortion types -> 不可避免：頸開+組織未排；不完全：頸開+部分已排；過期：頸閉+胎死腹中。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題考婦產科微創腹腔鏡手術中，在置入外側套管（lateral trocar）時的血管解剖學。側套管通常置於髂前上棘內側約 2 公分處，若穿刺點過於偏向中線，極易傷及行經腹直肌後方的深層腹壁血管。\n\n【選項詳解】\n- A. 錯誤。旋髂淺動脈（superficial circumflex iliac artery）屬於淺層血管，主要供應髂前上棘附近的淺層皮膚與皮下組織，不位於側邊 trocar 偏內側的深層穿刺路徑上。\n- B. 錯誤。左胃動脈（left gastric artery）主要供應胃小彎之血流，位於上腹腔深部，婦科骨盆腔手術之側邊 trocar（位於下腹部）絕不可能刺傷此血管。\n- C. 錯誤。腹股溝淺外部動脈（superficial external pudendal artery）主要供應外陰部與大腿內側的淺層組織，不經過下腹壁深直肌鞘後方的腹腔鏡穿刺通路。\n- D. 正確。下腹壁動脈（inferior epigastric artery）發源自外髂動脈，在腹股溝韌帶後方向內上方斜行，穿過腹橫筋膜進入腹直肌鞘後方。在下腹部置入側邊 trocar 時，若穿刺點太靠近中線（偏向腹直肌），極易刺破此動脈，引起嚴重的腹直肌鞘血腫、腹壁下活動性出血或後腹腔血腫。\n\n【核心考點】\n下腹部腹腔鏡手術中，置入側邊套管需注意下腹壁動脈的走形，穿刺點過於偏向中線（跨越腹直肌外緣）會大幅增加此血管損傷出血的風險。",
+      "key_point": "下腹部腹腔鏡側邊穿刺若太靠中線易傷及下腹壁動脈（inferior epigastric artery），引發腹壁血腫或腹膜後出血。",
+      "flashcard_front": "婦科腹腔鏡手術置入側邊套管 (trocar) 時，最易因位置過偏中線而受損出血的血管為何？其解剖學位置？",
+      "flashcard_back": "下腹壁動脈（inferior epigastric artery），由髂外動脈分支，向內上方斜行於腹直肌後方。",
+      "flashcard_summary": "laparoscopy vessel injury -> 側邊 trocar 太靠中線易刺傷腹直肌後方的下腹壁動脈導致出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題描述一名 32 歲女性，有頻尿、夜尿及漲尿時下腹痛且解尿後可緩解的症狀。尿動力學顯示膀胱容量明顯偏低（初次尿意 86 mL，最大容量 180 mL），但沒有逼尿肌過動。麻醉下膀胱鏡水擴張檢查灌注 400 mL 生理食鹽水後，引流可見多處點狀出血（glomerulations）。此為間質性膀胱炎的典型特徵。\n\n【選項詳解】\n- A. 錯誤。膀胱結石（bladder stone）通常會引起排尿中斷、尿道放射性疼痛、血尿或尿路感染，但在膀胱鏡水擴張後不會呈現全膀胱黏膜點狀出血（glomerulations）的特徵。\n- B. 錯誤。膀胱腫瘤（bladder tumor）典型表現為無痛性肉眼血尿，在膀胱鏡下會呈現局部乳突狀或浸潤性腫瘤病灶，而非整片黏膜的點狀出血，且不會使膀胱最大容量顯著對稱性縮小。\n- C. 正確。間質性膀胱炎（IC，又稱膀胱疼痛症候群）好發於育齡女性，臨床特徵是漲尿時恥骨上或下腹盆腔疼痛，排尿後緩解，伴隨頻尿與夜尿。尿動力學特徵是膀胱容量變小，但逼尿肌無非自主性收縮。診斷特徵是在麻醉下進行膀胱水擴張後，膀胱鏡下可見點狀出血（glomerulations）或 Hunner's ulcer，並排除其他器質性病變。\n- D. 錯誤。膀胱憩室（bladder diverticulum）是膀胱壁局部向外膨出，主要症狀為解尿不乾淨、尿流無力、反覆尿路感染或結石，無漲尿下腹痛及水擴張後特異性點狀出血。\n\n【核心考點】\n間質性膀胱炎（IC）的典型臨床診斷特徵：頻尿、夜尿、隨漲尿加劇及排尿緩解之恥骨上疼痛；尿動力學無逼尿肌過動但容量變小；麻醉下膀胱鏡水擴張可見多處點狀出血（glomerulations）。",
+      "key_point": "間質性膀胱炎（IC）特徵為隨漲尿加劇且解尿緩解之疼痛，膀胱鏡水擴張後可見典型點狀出血（glomerulations），且無逼尿肌過動。",
+      "flashcard_front": "間質性膀胱炎 (IC/BPS) 的典型臨床症狀、尿動力學及膀胱鏡特徵為何？",
+      "flashcard_back": "症狀：頻尿/夜尿及漲尿時恥骨上痛（排尿後緩解）。尿動力學：膀胱容量縮小但無逼尿肌過動。膀胱鏡：水擴張後可見點狀出血（glomerulations）或 Hunner 氏潰瘍。",
+      "flashcard_summary": "interstitial cystitis -> 漲尿痛+解尿緩解，無逼尿肌過動，膀胱鏡水擴張呈點狀出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題探討女性尿失禁與骨盆器官支持的「吊床假說（hammock hypothesis）」。若將骨盆底的提肛肌（levator ani muscle）比喻為吊床，其側方的腱性起點就如同吊床兩端的橫木（支架/固定點），提供整個吊床肌肉層穩固的外側附著。\n\n【選項詳解】\n- A. 正確。提肛肌腱弓（arcus tendineus levator ani, ATLA）是盆腔筋膜覆蓋在內閉孔肌表面增厚而成的腱性結構，起自恥骨聯合後方，終至坐骨棘。ATLA 是提肛肌（特別是髂骨尾骨肌）側向附著的主要起點。在吊床假說中，ATLA 就如同吊床兩端的固定橫木，提供提肛肌主體橫向懸吊的結構基礎。\n- B. 錯誤。骨盆筋膜腱弓（arcus tendineus fasciae pelvis, ATFP）是由恥骨向後延伸至坐骨棘的另一筋膜腱弓，主要是恥骨宮頸筋膜（pubocervical fascia，即支撐尿道與陰道前壁的「吊床」本身）的外側附著點，與尿道支撐密切相關，但並非提肛肌這層「肌肉吊床」的直接起點橫木。\n- C. 錯誤。內閉孔肌（obturator internus muscle）是下肢髖關節的外旋肌，位於骨盆側壁。雖然 ATLA 位於其表面，但提肛肌是附著在腱性的腱弓（ATLA）上，而非直接大面積附著在內閉孔肌的肌纖維上。\n- D. 錯誤。盆腔內筋膜（endopelvic fasciae）是骨盆腔各器官與肌肉間所有結締組織與筋膜系統的統稱，範圍過於廣泛，無法具體代指「吊床兩端橫木」這一特異的腱性附著線。\n\n【核心考點】\n骨盆底支持結構中，提肛肌腱弓（ATLA）是提肛肌側向固定的腱性結構（吊床橫木），而骨盆筋膜腱弓（ATFP）則是陰道前壁與恥骨宮頸筋膜（尿道下吊床）的側向附著點。",
+      "key_point": "在骨盆底支持的吊床假說中，提肛肌腱弓（ATLA）是提肛肌側向附著的腱性結構，類似吊床兩端的固定橫木。",
+      "flashcard_front": "在骨盆底吊床假說 (Hammock hypothesis) 中，ATLA 與 ATFP 的解剖功能有何區別？",
+      "flashcard_back": "ATLA（提肛肌腱弓）是提肛肌肌肉側向附著的主要腱性結構（吊床橫木）；ATFP（骨盆筋膜腱弓）是陰道前壁及尿道下支撐筋膜的外側附著點。",
+      "flashcard_summary": "ATLA vs ATFP -> ATLA 為提肛肌肌肉的側向附著點（橫木）；ATFP 為支撐尿道陰道之筋膜的附著點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:25:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

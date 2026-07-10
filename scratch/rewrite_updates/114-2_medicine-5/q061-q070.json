@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-5.json",
+  "dataset_id": "114-2_medicine-5",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-5_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題詢問月狀骨缺血性壞死（Kienböck's disease）的不適當治療方式。Kienböck's disease 常用手術治療來減輕月狀骨所受的異常機械應力，特別是當患者合併有負尺骨變異（negative ulnar variance，即橈骨長度長於尺骨）時。治療應以降低月狀骨壓迫為目標。\n\n【選項詳解】\n- A. 錯誤。橈骨延長術（radial lengthening）會使橈骨相對於尺骨更長，這會進一步加重月狀骨與橈骨之間的關節面擠壓應力，惡化缺血性壞死。適當的均壓手術應為橈骨縮短術（radial shortening）或尺骨延長術（ulnar lengthening），以達到減壓效果。\n- B. 正確。頭狀骨縮短術（capitate shortening）屬於關節減壓手術的一種，藉由縮短與月狀骨相連的頭狀骨來減輕月狀骨承受的壓力，適用於 ulnar variance 接近中性（neutral variance）的患者。\n- C. 正確。帶血管的自體骨移植（vascularized autograft）是針對早期 Kienböck's disease（Lichtman 分期較早，月狀骨外形尚未塌陷）的保全手術，能為壞死骨骼重新引入血流，促進骨骼修復。\n- D. 正確。月狀骨切除及部分腕關節融合（lunate excision and partial carpal fusion）屬於晚期（Lichtman stage IIIb/IV，月狀骨已塌陷且有關節退化）的救援手術，可緩解疼痛並保留部分腕關節活動度。\n\n【核心考點】\nKienböck's disease 的減壓手術原則為：若有負尺骨變異，應實施橈骨縮短或尺骨延長；切忌實施橈骨延長，以免增加月狀骨壓力。",
+      "key_point": "Kienböck's disease 治療禁用橈骨延長術，若有負尺骨變異應行橈骨縮短術以減壓。",
+      "flashcard_front": "月狀骨缺血性壞死（Kienböck's disease）的減壓手術原則",
+      "flashcard_back": "若伴隨負尺骨變異，應行橈骨縮短術（radial shortening）或尺骨延長術。橈骨延長術會加重月狀骨壓力，故不適當。",
+      "flashcard_summary": "Kienböck's disease 治療 -> 禁用橈骨延長術，若有負尺骨變異應行橈骨縮短術減壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題詢問頸椎脊髓病變（cervical spondylotic myelopathy, CSM）的臨床特徵何者錯誤。CSM 是頸椎退化性病變壓迫頸脊髓所致，主要屬於上運動神經元（UMN）受損，但壓迫點對應的局部神經根/節段則會表現出下運動神經元（LMN）受損特徵。\n\n【選項詳解】\n- A. 正確。頸脊髓受壓迫會導致側索與後索受損，患者通常會出現四肢感覺異常（如麻木、針刺感）與精細運動障礙（如扣鈕扣困難、寫字不穩等運動困難）。\n- B. 正確。Lhermitte sign（低頭時出現如電擊般沿脊椎向下傳導至肢體的感覺）通常代表頸部脊髓受到嚴重壓迫或脫髓鞘病變，在嚴重的 CSM 患者中可呈陽性。\n- C. 錯誤。頸脊髓病變壓迫多發生在 C5-C6 節段。在壓迫病灶平面，由於局部神經根或前角受壓，對應的上肢深層肌腱反射（如肱二頭肌反射 C5、肱橈肌反射 C6）會減弱甚至消失，表現為下運動神經元受損；只有在病灶平面以下的下肢深層肌腱反射才會顯著增強並伴隨陣攣（clonus）。因此「上下肢腱反射皆會增強」並不符合臨床實際。\n- D. 正確。CSM 的病變局限於頸髓，胸髓支配的腹部反射通常正常；而在肌萎縮性脊髓側索硬化症（ALS）中，由於廣泛性的上運動神經元退化，腹部反射通常會消失，因此可作為臨床上兩者極佳的鑑別診斷點。\n\n【核心考點】\n頸椎脊髓病變（CSM）的腱反射特徵：病灶節段（上肢）呈現下運動神經元徵象（反射減弱），病灶以下（下肢）呈現上運動神經元徵象（反射增強、clonus）。",
+      "key_point": "頸椎脊髓病變（CSM）在受壓病灶節段的腱反射通常減弱，而非上下肢皆增強。",
+      "flashcard_front": "頸椎脊髓病變（CSM）的腱反射特徵",
+      "flashcard_back": "CSM 為 UMN 病變，但病變平面（如 C5-C6）的 DTR 可能因 LMN 壓迫而減弱，病變平面以下則呈 UMN 增強。故非上下肢 DTR 皆增強。",
+      "flashcard_summary": "頸椎脊髓病變 (CSM) 的腱反射 -> 病變平面反射可能減弱，病變平面以下增強，並非全增強。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題詢問下列何者不屬於髖關節後側的短外旋肌群（short external rotators）。髖關節後側的短外旋肌群是位於髖關節後深層的六條小肌肉，主要負責大腿的外旋動作。\n\n【選項詳解】\n- A. 正確。梨狀肌（piriformis）屬於髖關節後側短外旋肌群的成員之一，起自薦骨前側，止於大轉子，有外旋大腿的功能。\n- B. 錯誤。股四頭肌（quadriceps）位於大腿前側，由股直肌、股外側肌、股內側肌與股中間肌組成，其主要功能是伸展膝關節與屈曲髖關節，不屬於髖關節後側的短外旋肌群。\n- C. 正確。閉孔肌（obturator，包含內閉孔肌 obturator internus 與外閉孔肌 obturator externus）均屬於短外旋肌群，負責外旋大腿。\n- D. 正確。孖肌（gemellus，包含上孖肌 gemellus superior 與下孖肌 gemellus inferior）是夾在內閉孔肌腱上下的肌肉，均屬於短外旋肌群。\n\n【核心考點】\n髖關節後側短外旋肌群共有六條（口訣 PGOGOQ）：Piriformis（梨狀肌）、Gemellus superior（上孖肌）、Obturator internus（內閉孔肌）、Gemellus inferior（下孖肌）、Obturator externus（外閉孔肌）、Quadratus femoris（股方肌）。股四頭肌（quadriceps）位於前側，主司伸膝。",
+      "key_point": "股四頭肌（quadriceps）位於大腿前側，負責伸膝，不屬於髖關節後側短外旋肌群。",
+      "flashcard_front": "髖關節後側短外旋肌群（short external rotators）的成員與口訣",
+      "flashcard_back": "後側短外旋肌群（PGOGOQ）包含 piriformis, gemellus sup/inf, obturator int/ext, quadratus femoris。股四頭肌（quadriceps）主要功能為伸膝與屈髖，不在此列。",
+      "flashcard_summary": "髖關節短外旋肌群 -> 包含 PGOGOQ 六肌；股四頭肌（quadriceps）為前側肌群，非外旋肌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題尋找診斷急性腎絞痛（acute renal colic）最快速且準確的影像診斷檢查。急性腎絞痛大多由尿路結石阻塞引起，影像診斷需同時考慮速度、準確度與患者安全性。\n\n【選項詳解】\n- A. 正確。無顯影劑電腦斷層掃描（noncontrast computed tomography, NCCT）是目前公認的急性腎絞痛金標準。其敏感度高達 95% 以上，特異度大於 97%，不僅能偵測各種成分的結石（包括 X 光不透光的尿酸結石），掃描時間短，且無需注射顯影劑，避免了腎毒性與過敏風險。\n- B. 錯誤。靜脈注射泌尿系統攝影檢查（IVP）過去是常用檢查，但因需要注射顯影劑、顯影時間長（若高度阻塞可能需等數小時）、且敏感度與特異度均不及電腦斷層，目前臨床上已被 NCCT 取代。\n- C. 錯誤。逆行性腎盂攝影（retrograde pyelography）是一項侵入性檢查，需經由膀胱鏡將導管置入輸尿管注射顯影劑，主要用於術中確定阻塞位置或合併置放雙J管治療，不適合作為急性期快速篩檢與診斷的首選。\n- D. 錯誤。核子閃爍尿路攝影（nuclear scintigraphy）主要用來評估雙側腎臟的功能分配與排泄時間，耗時長且解析度不足，無法提供結石大小、位置等急性腎絞痛診斷所需的即時解剖資訊。\n\n【核心考點】\n急性腎絞痛（尿路結石阻塞）的首選影像學檢查是無顯影劑電腦斷層掃描（NCCT），具備高敏感度、免顯影劑、掃描快速等優勢。",
+      "key_point": "診斷急性腎絞痛（急性尿路結石）最快速且準確的首選檢查是無顯影劑電腦斷層（NCCT）。",
+      "flashcard_front": "急性腎絞痛（acute renal colic）的首選影像學檢查",
+      "flashcard_back": "無顯影劑電腦斷層掃描（NCCT）。具備極高敏感度與特異度，可快速診斷且避免顯影劑腎毒性。",
+      "flashcard_summary": "急性腎絞痛首選影像 -> 無顯影劑電腦斷層掃描（NCCT）為最快速且準確的黃金標準。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題詢問有關腎上腺瘤（adrenal tumor）的敘述何者錯誤。腎上腺腫瘤的處置通常依據腫瘤大小、生化功能（是否分泌激素）以及影像學上的惡性特徵來決定。\n\n【選項詳解】\n- A. 錯誤。當腎上腺瘤大於 6 公分時，即使臨床生化檢驗顯示無功能，其惡性（如腎上腺皮質癌 adrenocortical carcinoma）的風險依然極高（超過 25%）。因此，臨床指引強烈建議應進行手術切除，而非僅密集追蹤。\n- B. 正確。對於無局部浸潤的良性或早期腎上腺瘤，腹腔鏡腎上腺切除術（laparoscopic adrenalectomy）是目前的金標準手術方式，可顯著縮短住院時間並減少術後疼痛。\n- C. 正確。不論腫瘤大小，只要生化檢驗證實為「有功能性」的腫瘤（如分泌醛固酮的 Conn's syndrome、分泌皮質醇的 Cushing's syndrome、或嗜鉻細胞瘤），皆應建議進行手術切除，以糾正內分泌異常並避免長期併發症。\n- D. 正確。絕大多數腎上腺瘤患者並無明顯臨床症狀，多是在因其他原因進行腹部 CT 或超音波檢查時意外發現，臨床上稱為腎上腺意外瘤（adrenal incidentaloma）。\n\n【核心考點】\n腎上腺意外瘤處置原則：若腫瘤大於 6 公分（即使無功能）或為任何大小的功能性腫瘤，皆應建議手術切除。",
+      "key_point": "大於 6 公分的無功能性腎上腺瘤惡性風險高，臨床指引建議手術切除，不可僅密集追蹤。",
+      "flashcard_front": "大於 6 公分無功能性腎上腺瘤的臨床處置指引",
+      "flashcard_back": "大於 6 公分的無功能腎上腺瘤因有極高惡性（腎上腺皮質癌）風險，應建議手術切除，不可僅密集追蹤。",
+      "flashcard_summary": "無功能腎上腺瘤處置 -> 大於 6 公分因惡性風險高，即使無功能亦應行手術切除。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題詢問前列腺癌（prostate cancer）好發區域的解剖學分區順序。前列腺依 McNeal 分區主要包括外周區、移行區與中央區。\n\n【選項詳解】\n- A. 錯誤。移行區（transition zone）是 BPH 的好發區，但前列腺癌在此發生的機率（10-20%）低於外周區（70-80%）。\n- B. 錯誤。中央區（central zone）的前列腺癌發生率最低（僅約 1-5%），低於移行區的 10-20%。\n- C. 正確。前列腺癌最常發生於外周區（peripheral zone, 約佔 70-80%），這也是直腸指檢最易觸及的部位；其次為移行區（transition zone, 約佔 10-20%）；中央區（central zone）最少見（約佔 1-5%）。因此好發區依序為 peripheral zone > transition zone > central zone。\n- D. 錯誤。此排序將最少發生的中央區排在首位，最常發生的外周區排在末位，完全相反。\n\n【核心考點】\n前列腺癌解剖好發率：外周區（peripheral zone, ~70-80%） > 移行區（transition zone, ~10-20%） > 中央區（central zone, ~1-5%）。直腸指檢與切片重點通常針對外周區。",
+      "key_point": "前列腺癌好發解剖區域依序為：peripheral zone > transition zone > central zone。",
+      "flashcard_front": "前列腺癌（prostate cancer）好發分區的發生率排序",
+      "flashcard_back": "peripheral zone（約 70-80%） > transition zone（約 10-20%） > central zone（約 1-5%）。",
+      "flashcard_summary": "前列腺癌好發區順序 -> peripheral zone > transition zone > central zone。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題詢問無症狀女性右腎發現 2.5 公分圓形實質腫瘤的相關敘述何者錯誤。對於偶發性腎臟實質腫瘤，臨床上著重於影像特徵的鑑別與避免不必要的侵入性切片。\n\n【選項詳解】\n- A. 正確。在超音波上，腎細胞癌（renal cell carcinoma, RCC）最常表現為低回音性（hypoechoic）實質腫瘤，且因為腫瘤內部常有出血、壞死或鈣化，影像常呈現不均質（heterogeneous）的特徵。\n- B. 正確。高回音性（hyperechoic）的腎實質腫瘤，在超音波上最典型的診斷是血管平滑肌脂肪瘤（angiomyolipoma, AML）。此瘤因富含脂肪成分而呈現強回音，是一種常見的良性腫瘤。\n- C. 錯誤。懷疑腎細胞癌時，臨床上不建議也不常規進行經皮穿刺切片。因為切片有可能造成腫瘤細胞沿針道種植（needle tract seeding）或後腹腔出血，且影像檢查（如對比劑強化 CT/MRI）的診斷準確度已極高。通常對於可切除的疑似惡性腎腫瘤，會直接採取局部切除或根治性腎切除術，並進行術後病理確診。\n- D. 正確。若高度懷疑為小於 4 公分且無症狀的良性腫瘤（如典型的血管平滑肌脂肪瘤），因破裂出血風險極低，臨床處置首選為定期影像追蹤（例如每 6 至 12 個月複查超音波），不需要立即手術。\n\n【核心考點】\n可手術切除的疑似腎細胞癌（RCC）患者，臨床上不建議常規做經皮穿刺切片，以防針道種植與出血風險，影像診斷明確後應直接進行手術切除。",
+      "key_point": "懷疑腎細胞癌時不建議做經皮穿刺切片，通常藉由三相 CT/MRI 確診並直接手術切除。",
+      "flashcard_front": "懷疑腎細胞癌（RCC）時是否需做經皮穿刺切片？",
+      "flashcard_back": "不常規進行切片。因為影像學診斷準確度極高，且切片有針道種植（seeding）與出血的風險，通常影像明確即直接手術。",
+      "flashcard_summary": "腎細胞癌診斷指引 -> 懷疑腎細胞癌時，不建議行經皮穿刺切片，以防腫瘤轉移與出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題詢問糖尿病膀胱病變（diabetic cystopathy）在尿路動力學檢查（urodynamic study, UDS）中最典型的發現。糖尿病引起的膀胱功能障礙屬於自主神經病變的一部分。\n\n【選項詳解】\n- A. 錯誤。逼尿肌括約肌共濟失調（detrusor-sphincter dyssynergia, DSD）是指排尿時逼尿肌收縮但尿道外括約肌未協同放鬆，這主要見於脊髓上與脊髓內病變（如多發性硬化症或脊髓外傷），並非糖尿病膀胱病變的特徵。\n- B. 錯誤。逼尿肌過動（detrusor overactivity, DO）常表現為急迫性尿失禁，雖然部分糖尿病早期患者可能因膀胱黏膜受刺激而合併有過動，但糖尿病膀胱病變的核心且最典範的 UDS 發現是感覺減退與後期逼尿肌收縮力不足，而非過動。\n- C. 錯誤。糖尿病膀胱病變主要受損部位在於傳入感覺神經纖維與逼尿肌運動神經，並不以尿道括約肌本身的機能障礙為典型特徵。\n- D. 正確。糖尿病膀胱病變最早且最典型的病生理改變，是高血糖造成支配膀胱壁的感覺傳入纖維（A-delta fibers）退化，導致膀胱感覺損傷/減退（impaired bladder sensation）。在尿路動力學檢查中，會發現患者的第一尿意容量與最大膀胱容量均顯著增加，且膀胱充盈感遲鈍。\n\n【核心考點】\n糖尿病膀胱病變最早、最典型的尿路動力學發現為膀胱感覺減退（impaired bladder sensation），臨床表現為尿意遲鈍與最大膀胱容量增加。",
+      "key_point": "糖尿病膀胱病變在尿路動力學檢查中最典型的早期發現為膀胱感覺損傷（impaired bladder sensation）。",
+      "flashcard_front": "糖尿病膀胱病變（diabetic cystopathy）最典型的尿路動力學表現",
+      "flashcard_back": "膀胱感覺損傷/減退（impaired bladder sensation），因自主神經髓鞘受損，使第一尿意容量與最大膀胱容量上升。",
+      "flashcard_summary": "糖尿病膀胱病變尿路動力學 -> 最典型早期發現為膀胱感覺損傷（impaired bladder sensation）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題詢問促使陰莖海綿體平滑肌鬆弛充血引起勃起的局部因子中，何者「不存在」於海綿體平滑肌直接發揮此作用。陰莖勃起主要是由一氧化氮（NO）介介導的細胞內訊號通路控制。\n\n【選項詳解】\n- A. 正確。當 NO 進入海綿體平滑肌細胞後，會激活鳥苷酸環化酶，使 GTP 轉化為 cGMP（cyclic guanosine monophosphate），進而促使平滑肌鬆弛。cGMP 是此局部通路中的關鍵第二信使。\n- B. 正確。cGMP 的累積會進一步激活細胞內的蛋白激酶 G（protein kinase G, PKG），PKG 促使肌質網回收鈣離子並抑制鈣離子流入，使平滑肌鬆弛，因此 PKG 存在於平滑肌細胞內發揮作用。\n- C. 錯誤。多巴胺（dopamine）是一種神經傳導物質，主要在**中樞神經系統**（如大腦下視丘的內側視前區 MPOA）調控性慾與性啟動，**並不存在**於陰莖海綿體平滑肌的局部細胞通路中直接促使血管鬆弛充血。\n- D. 正確。一氧化氮（nitric oxide, NO）是由非腎上腺素能非膽鹼能（NANC）神經纖維及海綿體血管內皮細胞釋放的關鍵局部啟動因子，它會擴散入平滑肌細胞開啟勃起反應。\n\n【核心考點】\n陰莖勃起局部平滑肌鬆弛是由 NO-cGMP-PKG 訊號通路直接介介導；而多巴胺（dopamine）是中樞神經系統中調控性慾與勃起反射的中樞遞質，不直接作用於局部海綿體平滑肌。",
+      "key_point": "多巴胺（dopamine）作用於中樞調控性慾，不直接作用於海綿體平滑肌細胞的局部勃起通路。",
+      "flashcard_front": "陰莖勃起局部的血管平滑肌鬆弛訊號通路與因子",
+      "flashcard_back": "多巴胺（dopamine）作用於中樞神經調控性慾。海綿體局部平滑肌鬆弛勃起主要由 NO-cGMP-PKG 通路媒介。",
+      "flashcard_summary": "陰莖勃起生理因子 -> 局部作用為 NO, cGMP, PKG；dopamine 為中樞神經調控物質，不存於海綿體平滑肌直接作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題詢問關於雙套輸尿管（duplicated ureter）在解剖發育上所遵循的 Weigert-Meyer rule。這條法則說明了雙套輸尿管在膀胱開口的位置與其臨床病理特性的關係。\n\n【選項詳解】\n- A. 錯誤。根據 Weigert-Meyer rule，引流上端腎臟（upper pole）的輸尿管，其開口應該位於膀胱的下端及內側（medial and inferior）。\n- B. 正確。Weigert-Meyer rule 指出，引流上端腎臟（upper pole）的輸尿管在胚胎發育中較晚與中腎管分離，因此其膀胱開口位置會位於引流下端腎臟（lower pole）輸尿管的**下端及內側**。此位置常導致排尿時尿流受阻，因此上端輸尿管容易發生阻塞（obstruction）或伴隨輸尿管囊腫（ureterocele）。\n- C. 錯誤。引流下端腎臟（lower pole）的輸尿管開口位於上端及外側，因為在膀胱壁內的走行管道較短，容易發生膀胱輸尿管逆流（reflux）。然而，上端輸尿管也有可能因為異位開口到膀胱頸以外（如尿道、陰道）而引起漏尿或逆流，且本題之主要考點為 Weigert-Meyer rule 對上/下端開口位置與主要病理傾向的定義。\n- D. 錯誤。Weigert-Meyer rule 是專門針對「雙套（duplicated）」輸尿管所建立的規律。在極為罕見的單側三套輸尿管（triplicated ureters）中，由於有多個分支與不同的胚胎芽點發育，其解剖變異極其複雜，不完全適用此規則。\n\n【核心考點】\nWeigert-Meyer rule 的內容：雙套輸尿管中，引流上極（upper pole）的輸尿管開口位於膀胱下內側，容易發生阻塞（obstruction）；引流下極（lower pole）的輸尿管開口位於膀胱上外側，容易發生逆流（reflux）。",
+      "key_point": "依 Weigert-Meyer rule，雙套輸尿管中引流上端腎臟者，開口位於膀胱下端及內側，易發生阻塞。",
+      "flashcard_front": "Weigert-Meyer rule 的核心內容（開口位置與病理傾向）",
+      "flashcard_back": "引流上端腎臟的輸尿管開口位於膀胱下內側，易阻塞；引流下端腎臟的輸尿管開口位於膀胱上外側，易逆流。",
+      "flashcard_summary": "Weigert-Meyer rule 內容 -> 雙套輸尿管中，引流上腎之輸尿管開口於膀胱下內側，易阻塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:28:54+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

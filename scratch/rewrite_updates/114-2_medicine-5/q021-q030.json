@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-5.json",
+  "dataset_id": "114-2_medicine-5",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-5_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題描述一名 40 歲男性因左下肢突然出現冰冷、無脈、疼痛及感覺異常（急性下肢缺血 5P 症狀中的四項），且其病史有嚴重的二尖瓣狹窄、左心房擴大與心房顫動（atrial fibrillation），這是典型的左心源性栓子脫落導致下肢動脈急性栓塞（arterial embolism）。\n\n【選項詳解】\n- A. 正確。心房顫動（AF）合併二尖瓣狹窄與左心房擴大，極易在左心耳形成血栓。血栓隨血流沖刷至體循環，最常阻塞在下肢分叉處，造成下肢動脈急性血栓阻塞（embolism）。\n- B. 正確。下肢動脈阻塞後，肌肉因缺血缺氧壞死，釋放出細胞內的高濃度鉀離子。當緊急打通血管恢復血流（再灌流）時，大量鉀離子會被沖刷回體循環，造成再灌流症候群（Reperfusion syndrome）並引發高鉀血症。\n- C. 錯誤。若已發生骨骼肌溶解（橫紋肌溶解症），血管打通後，累積在組織內的大量肌紅蛋白（myoglobin）會隨再灌流大量湧入體循環並從腎臟排出，造成肌蛋白尿（myoglobinuria）在短時間內反而「加劇」而非立即緩解，且易造成急性腎小管壞死與急性腎損傷。\n- D. 正確。組織缺血時間越久，微血管內皮細胞受損越嚴重。當血管打通恢復血流灌注時，水分會因血管通透性增加而大量滲漏至組織間隙，導致下肢水腫更加厲害，甚至可能引發腔室症候群。\n\n【核心考點】\n心房顫動血栓導致急性下肢動脈栓塞的診斷，以及血管再通後「再灌流症候群（Reperfusion syndrome）」的病理生理變化（高血鉀、橫紋肌溶解、肌蛋白尿加劇與再灌流水腫）。",
+      "key_point": "急性下肢動脈栓塞打通後會引發再灌流症候群，導致細胞內鉀離子與肌紅蛋白釋放，加重高鉀血症與肌蛋白尿，而非立即緩解。",
+      "flashcard_front": "急性下肢動脈栓塞 / 再灌流症候群 (Reperfusion syndrome) / 橫紋肌溶解與肌蛋白尿之變化",
+      "flashcard_back": "血管打通後，壞死肌肉釋放的肌紅蛋白湧入體循環，短期內肌蛋白尿會加劇（非緩解）並有腎毒性；同時釋放的鉀離子會導致高鉀血症。",
+      "flashcard_summary": "急性肢體栓塞再灌流 -> 高血鉀、肌蛋白尿加重（非緩解）及肢體再灌流水腫",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題考查法洛氏四重症（Tetralogy of Fallot, TOF）患兒發生缺氧發作（hypoxic spell / Tet spell）時的緊急處置。Tet spell 的機轉主要為右心室流出道（RVOT）肌肉痙攣或體循環血管阻力（SVR）驟降，導致右向左分流增加，肺血流急劇減少。\n\n【選項詳解】\n- A. 合適。給予乙型阻斷劑（如 propranolol 或 esmolol）能降低心率，並放鬆右心室流出道（RVOT）漏斗部的肌肉痙攣，減少右向左分流，增加肺部血流量。\n- B. 合適。給予靜靜脈輸液（hydration）可以增加前負荷（preload），維持右心室充盈並增加心輸出量，有助於克服 RVOT 阻力以減少右向左分流。\n- C. 不合適。給予血管擴張劑（vasodilator）會降低體循環血管阻力（SVR），使左心室壓力下降，進而導致心室中隔缺損處的右向左分流（R-to-L shunt）增加，使缺氧狀況進一步惡化。此時應給予血管收縮劑（如 phenylephrine）以提高 SVR。\n- D. 合適。麻醉鎮定（如 morphine 或 midazolam）能安撫患兒，降低其焦慮與哭鬧，從而減弱交感神經興奮，有助於緩解 RVOT 痙攣。\n\n【核心考點】\n法洛氏四重症（TOF）缺氧發作（Tet spell）的機轉為右向左分流增加；處置原則為增加體循環阻力（SVR）、放鬆 RVOT 痙攣、增加回心血量，因此禁用血管擴張劑。",
+      "key_point": "法洛氏四重症缺氧發作（Tet spell）時禁用血管擴張劑，因為降低體循環阻力會加重右向左分流，惡化缺氧。",
+      "flashcard_front": "法洛氏四重症 (TOF) / 缺氧發作 (Tet spell) / 禁用藥物與處置原則",
+      "flashcard_back": "禁用血管擴張劑（會降低 SVR 加重右向左分流）。應給予輸液、Beta-blocker（放鬆 RVOT）、鎮定劑及血管收縮劑（升 SVR）。",
+      "flashcard_summary": "TOF 缺氧發作處置 -> 禁用血管擴張劑（SVR下降加重分流）；需給予輸液、Beta-blocker、鎮定",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題考查胸主動脈瘤（Thoracic aortic aneurysm, TAA）的危險因子、手術適應症與治療方式。臨床上，升主動脈瘤與降主動脈瘤的治療策略有顯著不同，升主動脈瘤因鄰近心臟及主動脈瓣，目前仍以開放性手術為主。\n\n【選項詳解】\n- A. 正確。先天性雙主動脈瓣（bicuspid aortic valve, BAV）常伴隨主動脈壁中膜變性（aortopathy），發生升主動脈瘤或主動脈剝離的風險顯著高於常人，屬於高危險群。\n- B. 正確。胸主動脈瘤的手術干舉指引一般為直徑達 5.0 至 5.5 公分以上。若女性患者的胸主動脈瘤直徑已達 7 公分，因破裂風險極高，具有絕對的手術適應症。\n- C. 正確。當升主動脈瘤擴大至 6 公分但主動脈瓣本身無病變、逆流時，可以選擇行瓣膜保留之主動脈根部置換術（valve-sparing aortic root replacement，如 David 術式），以保留病人自身的瓣膜，免去置換人工瓣膜後長期服用抗凝血藥的併發症。\n- D. 錯誤。血管內支架術式（TEVAR）是治療「降主動脈瘤」或主動脈弓部夾層的主流，但在「升主動脈瘤」的治療中，由於缺乏足夠的近端錨定區（landing zone）、承受極高的心臟血流剪力，且極易阻礙冠狀動脈開口或影響主動脈瓣功能，目前標準治療仍是傳統開放性人工血管置換手術，而非支架置放。此外，評估大血管支架擺放主要採用 Stanford 分類或解剖學細節，而非 DeBakey 分類。\n\n【核心考點】\n升主動脈瘤因缺乏錨定區且鄰近冠狀動脈與主動脈瓣，標準治療仍是傳統開放手術，而非血管內支架手術（TEVAR）。",
+      "key_point": "升主動脈瘤因缺乏錨定區且鄰近冠狀動脈與主動脈瓣，標準治療仍是傳統開放手術，而非血管內支架手術（TEVAR）。",
+      "flashcard_front": "胸主動脈瘤 / 升主動脈瘤治療首選 / 血管內支架 (TEVAR) 適用範圍",
+      "flashcard_back": "升主動脈瘤首選為開放性手術。血管內支架（TEVAR）主要用於降主動脈瘤，不適用於升主動脈瘤主流治療。",
+      "flashcard_summary": "升主動脈瘤 -> 首選傳統開放手術，不宜首選血管內支架（TEVAR）",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題考查腹主動脈瘤（Abdominal Aortic Aneurysm, AAA）的手術適應症、治療方式（開腹 vs 支架）的優缺點對比，以及術中側支循環重建的判斷。\n\n【選項詳解】\n- A. 錯誤。對於無症狀且未破裂的腹主動脈瘤，常規手術修補指引為最大直徑大於等於 5.5 公分（男性）或 5.0 公分（女性），或者生長速度大於每年 1 公分。若直徑大於 4 公分但未達閾值，一般採定期影像追蹤，不建議立即手術。\n- B. 錯誤。微創血管支架治療（EVAR）比起傳統開腹主動脈置換手術，雖然術後恢復快、早期死亡率低，但因為支架有位移、內漏（endoleak）或支架移植物阻塞等長期併發症，術後「再次介入（re-intervention）」的比例顯著「較高」，而非較低。\n- C. 正確。傳統開腹主動脈置換手術的創傷大，其住院期間的手術死亡率（30天死亡率）顯著高於微創的血管支架治療（EVAR）。因此，以住院存活率而言，開腹手術比支架治療為低。\n- D. 錯誤。在主動脈重建手術中，下腸繫膜動脈（IMA）不一定需要重新吻合。若術中發現結腸側支循環良好（如邊緣動脈弓完整）、結腸無缺血表現，且 IMA 殘端回流血量充足，可直接結紮 IMA。只有在結腸血供不足、側支循環不良時才需重新吻合。\n\n【核心考點】\n腹主動脈瘤支架手術（EVAR）的短期存活率高於傳統開腹手術，但其長期的再次介入率（re-intervention rate）較開腹手術高。",
+      "key_point": "腹主動脈瘤支架手術（EVAR）的短期存活率高於傳統開腹手術，但其長期的再次介入率（re-intervention rate）較開腹手術高。",
+      "flashcard_front": "腹主動脈瘤 (AAA) / 血管支架 (EVAR) vs 傳統開腹手術 / 預後與再次介入率對比",
+      "flashcard_back": "EVAR 創傷小，短期住院存活率較高（開腹較低）；但 EVAR 術後因內漏或移位，長期再介入率顯著高於開腹手術。",
+      "flashcard_summary": "AAA 術式對比 -> EVAR 短期存活率高（開腹較低），但 EVAR 長期再介入率高",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題考查與胸腔疾病（特別是肺部腫瘤與縱隔腔病變）相關的臨床綜合徵（Syndrome）鑑別診斷。\n\n【選項詳解】\n- A. 相關。上腔靜脈症候群（Superior Vena Cava Syndrome, SVCS）多因縱隔腔腫瘤（如肺癌、小細胞肺癌或淋巴瘤）壓迫上腔靜脈，導致上半身靜脈回流受阻，出現面部及上肢水腫、頸靜脈怒張等，為胸腔疾病的常見表現。\n- B. 相關。霍納氏症候群（Horner syndrome）為頸部交感神經鏈受壓迫所致，典型症狀為眼瞼下垂、瞳孔縮小、無汗。常由胸腔上部的肺尖癌（Pancoast tumor）侵犯星狀神經節引起。\n- C. 最不相關。假性紅血球增多症（Pseudopolycythemia，又稱 Gaisböck's syndrome）是由於血漿容積減少（如嚴重脫水、利尿劑使用、慢性壓力或抽菸等）導致紅血球濃度相對升高，而非紅血球生成總量增加。這屬於血液學或體液容積改變，與胸腔疾病無直接關係。\n- D. 相關。潘科斯特症候群（Pancoast syndrome）是指位於肺尖部的惡性腫瘤（Pancoast tumor）侵犯臂神經叢及交感神經節，導致同側肩部、上肢尺側疼痛、肌肉萎縮，並常伴有 Horner syndrome，是典型胸腔疾病。\n\n【核心考點】\n上腔靜脈症候群、Horner 症候群及 Pancoast 症候群皆常由胸腔腫瘤壓迫所致，而假性紅血球增多症則與血漿容積減少相關，與胸腔病變無關。",
+      "key_point": "上腔靜脈症候群、Horner 症候群及 Pancoast 症候群皆常由胸腔腫瘤壓迫所致，而假性紅血球增多症則與血漿容積減少相關，與胸腔病變無關。",
+      "flashcard_front": "胸腔腫瘤壓迫綜合徵 / Horner syndrome / Pancoast syndrome / SVCS / 假性紅血球增多症",
+      "flashcard_back": "SVCS（壓迫上腔靜脈）、Horner與Pancoast（肺尖癌壓迫交感神經/臂神經叢）皆為胸腔疾病表現。假性紅血球增多症為血漿容積降低所致，無直接關聯。",
+      "flashcard_summary": "胸腔疾病相關症候群 -> SVCS, Horner, Pancoast 均相關；假性紅血球增多症（血容積降低）無關",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題考查小兒縱隔腔腫瘤（Mediastinal tumor）的流行病學。不同年齡層、不同縱隔腔位置所好發的腫瘤類型各有不同。\n\n【選項詳解】\n- A. 錯誤。胸腺囊腫（thymic cyst）是前縱隔腔良性病變，好發於成年人，在兒童中相當罕見。\n- B. 錯誤。淋巴瘤（lymphoma）如何杰金氏病或非何杰金氏淋巴瘤，是兒童前縱隔腔最常見的惡性腫瘤，但以整個縱隔腔（前、中、後）的總量統計，其盛行率仍次於神經源性腫瘤。\n- C. 正確。神經源性腫瘤（neurogenic tumor，如神經母細胞瘤 neuroblastoma、節細胞神經瘤 ganglioneuroma、神經纖維瘤 neurofibroma）是小孩子最常見的縱隔腔腫瘤，絕大多數好發於後縱隔腔（posterior mediastinum），在兒童所有縱隔腔腫瘤中占比最高。\n- D. 錯誤。生殖細胞腫瘤（germ cell tumor，如畸胎瘤 teratoma）常發生於前縱隔腔，雖在小兒常見，但其整體發生率仍低於神經源性腫瘤。\n\n【核心考點】\n兒童最常見的縱隔腔腫瘤為位於後縱隔腔的神經源性腫瘤（neurogenic tumor），而成人最常見的為胸腺瘤。",
+      "key_point": "兒童最常見的縱隔腔腫瘤為位於後縱隔腔的神經源性腫瘤（neurogenic tumor），而成人最常見的為胸腺瘤。",
+      "flashcard_front": "縱隔腔腫瘤好發率 / 兒童最常見縱隔腔腫瘤 / 腫瘤解剖位置",
+      "flashcard_back": "小孩子最常見的縱隔腔腫瘤為神經源性腫瘤（neurogenic tumor），好發於後縱隔腔。成人最常見的則為胸腺瘤（thymoma，好發於前縱隔腔）。",
+      "flashcard_summary": "小兒最常見縱隔腔腫瘤 -> 神經源性腫瘤（後縱隔腔）；成人則為胸腺瘤（前縱隔腔）",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題考查多種呼吸道疾病（腺樣囊狀癌、氣管修補、曲黴菌球、支氣管擴張症）的病理特徵與臨床處置原則。\n\n【選項詳解】\n- A. 正確。腺樣囊狀癌（Adenoid cystic carcinoma, ACC）是氣管的常見惡性腫瘤之一，病理特徵是具有極高侵犯性，特別是沿著神經周圍浸潤與擴散（perineural invasion）。\n- B. 正確。氣管修補或重建手術（如 tracheal anastomosis）術後，必須確保吻合口沒有張力。若患者需長期使用呼吸器，呼吸器的正壓（positive pressure）及氣囊壓迫會對氣管壁施加張力，並阻礙吻合口微血管血流，極易引發吻合口裂開或狹窄。\n- C. 錯誤。曲黴菌球（Aspergilloma）好發於既存的肺部空腔（如舊結核空洞），由於空腔內無血流分布，口服或靜脈注射抗黴菌藥物（如 itraconazole）無法在空腔內達到有效殺菌濃度。因此，對於有症狀（如反覆大咯血）的曲黴菌球，治療首選為「手術切除（Surgical resection）」，單純使用抗黴菌藥物治療 3 個月並非首選。\n- D. 正確。對於局限在單一肺葉或肺段（localized bronchiectasis）的支氣管擴張症，若患者因反覆感染、反覆咯血且經藥物（抗生素、支氣管擴張劑）控制不佳，手術切除病變肺葉是公認的有效根治手段。\n\n【核心考點】\n肺曲黴菌球（Aspergilloma）因為空腔缺乏血供，抗黴菌藥物難以滲入，有症狀者的首選治療是手術切除而非藥物治療。",
+      "key_point": "肺曲黴菌球（Aspergilloma）因為空腔缺乏血供，抗黴菌藥物難以滲入，有症狀者的首選治療是手術切除而非藥物治療。",
+      "flashcard_front": "肺曲黴菌球 (Aspergilloma) / 治療首選 / 藥物治療之侷限",
+      "flashcard_back": "首選治療是手術切除（如有咯血症狀者）。抗黴菌藥物因空腔內無血流分佈、藥物濃度不足，無法作為首選根治手段。",
+      "flashcard_summary": "曲黴菌球治療 -> 首選手術切除（空腔無血流，藥物難達療效濃度）",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題考查食道功能性收縮疾病與賁門弛緩不能（Achalasia）的診斷與治療處置。\n\n【選項詳解】\n- A. 正確。診斷食道動力障礙疾病（如賁門弛緩不能、食道痙攣）常用高解析度食道測壓（HRM）以評估食道蠕動壓力和下食道括約肌（LES）放鬆情形；而 pH 檢測則用以評估胃食道逆流程度，協助鑑別診斷。\n- B. 正確。胡桃夾子食道（Nutcracker esophagus）屬於食道過度收縮性疾病，特徵為食道蠕動波壓力極高，常引起非心因性胸痛與吞嚥困難。生活上應避免攝取易誘發括約肌異常收縮或刺激黏膜的食物，如咖啡因、過冷或過熱的飲食。\n- C. 正確。廣泛性食道痙攣（diffuse esophageal spasm）的初期首選治療以藥物（如鈣離子通道阻斷劑 CCB、硝酸鹽類，用以放鬆平滑肌）為主；若藥物效果不佳，可配合內視鏡介入治療（如經口內視鏡下肌切開術 POEM 或肉毒桿菌注射）。\n- D. 錯誤。在賁門弛緩不能（Achalasia）的治療中，氣球擴張術（Pneumatic dilation）的長期效果顯著優於肉毒桿菌毒素注射。肉毒桿菌注射效果通常僅能維持半年至一年，且多次注射會導致粘膜下纖維化，增加後續手術難度，故僅保留給年老、多重共病且無法接受手術或氣球擴張的患者。\n\n【核心考點】\n賁門弛緩不能的治療中，氣球擴張術的長期療效與緩解時間顯著優於肉毒桿菌毒素注射（後者復發率高、療效短暫）。",
+      "key_point": "賁門弛緩不能的治療中，氣球擴張術的長期療效與緩解時間顯著優於肉毒桿菌毒素注射（後者復發率高、療效短暫）。",
+      "flashcard_front": "賁門弛緩不能 (Achalasia) / 氣球擴張術 vs 肉毒桿菌毒素注射 / 長期療效對比",
+      "flashcard_back": "氣球擴張術的長期療效與緩解時間顯著優於肉毒桿菌注射。肉毒桿菌注射僅能維持 6-12 個月，復發率高，適用於無法承受擴張或手術之高風險患者。",
+      "flashcard_summary": "賁門弛緩不能處置 -> 氣球擴張術長期療效優於肉毒桿菌注射（後者易復發、維持短）",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題考查誤吞腐蝕性液體（強酸或強鹼）病人的急診與後續臨床處置原則。重點在於保護呼吸道，並避免盲目操作造成二次傷害或消化道穿孔。\n\n【選項詳解】\n- A. 適當。誤吞腐蝕性液體會造成食道及胃黏膜大面積灼傷、組織壞死。此時黏膜防禦完全喪失，極易引發細菌感染（甚至縱隔腔炎 or 腹膜炎），預防性給予廣效型抗生素是標準處置之一。\n- B. 適當。在誤吞後 12 至 24 小時內進行早期胃鏡（endoscopy）評估是安全且關鍵的，能確定灼傷分級（Zargar 系統）以指引後續治療。但應注意，在誤吞 48 小時後至 2 週內組織極度脆弱，應避免進行內視鏡檢查以防穿孔。\n- C. 不適當。誤吞腐蝕性液體後，「絕對禁用」插鼻胃管進行洗胃或催吐。因為被強酸或強鹼腐蝕的食道與胃壁組織極其脆弱，盲目插入鼻胃管極易引發消化道穿孔；此外，催吐或洗胃會使腐蝕性物質再次流經食道與咽喉，造成二次灼傷及吸入性肺炎。\n- D. 適當。腐蝕性物質刺激會迅速引起會厭及喉部水腫，隨時有窒息風險，因此評估與確保呼吸道暢通（維持氣道 ABC）是急救的首要步驟。\n\n【核心考點】\n誤吞腐蝕性液體病人絕對禁用鼻胃管洗胃或催吐，以避免食道或胃壁穿孔，以及強酸鹼二次傷害食道及肺部。",
+      "key_point": "誤吞腐蝕性液體病人絕對禁用鼻胃管洗胃或催吐，以避免食道或胃壁穿孔，以及強酸鹼二次傷害食道及肺部。",
+      "flashcard_front": "誤吞腐蝕性液體 / 急診處置禁忌 / 鼻胃管與洗胃之危險性",
+      "flashcard_back": "絕對禁用鼻胃管洗胃、催吐或酸鹼中和。因為腐蝕組織脆弱，插管極易造成食道或胃穿孔；嘔吐物會造成二次化學灼傷與吸入性肺炎。",
+      "flashcard_summary": "腐蝕性液體誤吞處置 -> 禁用鼻胃管洗胃及催吐（防穿孔、二次化學灼傷與吸入性肺炎）",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-5_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題考查食道旁疝氣（Paraesophageal hernia）的病因、臨床表現、好發器官與治療指引。食道旁疝氣屬於裂孔疝氣的一種，臨床管理方針在近年已有更新。\n\n【選項詳解】\n- A. 不適當。根據目前的臨床指引（如 SAGES 指引），對於診斷出「完全無症狀」的食道旁疝氣患者，不再建議一律進行預防性手術，因為手術本身有其併發症風險。採取密切觀察（watchful waiting）對無症狀者是安全可行的方案。只有當患者出現顯著症狀或發生急性梗阻、絞窄時，才需要手術介入。\n- B. 適當。食道旁疝氣的形成通常是膈肌裂孔（hiatus）周圍肌肉結構與彈性纖維隨著年齡退化，導致裂孔逐漸擴大，腹腔臟器因而向上疝入胸腔。\n- C. 適當。在食道旁疝氣中，胃（stomach）是最常 herniate（疝入）的器官，通常是胃大彎或胃體部翻轉進入胸腔，而賁門（GE junction）可能仍保持在原位（Type II）或一同向上（Type III）。\n- D. 適當。由於胃被嵌頓在狹窄的橫膈裂孔中，最常見的症狀為阻塞性症狀，包括吞嚥困難、餐後上腹脹痛、易飽感或胸骨後疼痛，這些是由於食物通過受阻或胃排空延遲所致。\n\n【核心考點】\n食道旁疝氣對於無症狀的患者不需一律進行預防性手術，可採取密切追蹤（watchful waiting）；常見症狀以吞嚥困難等阻塞性症狀為主。",
+      "key_point": "食道旁疝氣對於無症狀的患者不需一律進行預防性手術，可採取密切追蹤（watchful waiting）；常見症狀以吞嚥困難等阻塞性症狀為主。",
+      "flashcard_front": "食道旁疝氣 (Paraesophageal hernia) / 手術適應症 / 無症狀患者之管理",
+      "flashcard_back": "無症狀的食道旁疝氣不需一律手術，應採取密切觀察（watchful waiting）。手術僅保留給有阻塞、貧血、絞窄等症狀之患者。",
+      "flashcard_summary": "食道旁疝氣治療 -> 無症狀者密切追蹤（不需一律手術），有症狀（阻塞、貧血）才手術",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-rewrite",
+      "explanation_generated_at": "2026-07-10T18:26:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

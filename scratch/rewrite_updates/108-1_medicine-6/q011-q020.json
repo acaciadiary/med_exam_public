@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-6.json",
+  "dataset_id": "108-1_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n雷射周邊虹膜切開術（laser peripheral iridotomy, LPI）是原發性閉角型青光眼（primary angle closure glaucoma, PACG）的首選預防與治療手段。其主要機制是藉由雷射在周邊虹膜打孔，建立後房到前房的直接通道以解除瞳孔阻滯（pupillary block），使房水能流向前房隅角，進而重開前房隅角並降低眼壓。\n\n【選項詳解】\n- A. 錯誤。開角型青光眼（open angle glaucoma）的房水流出阻力主要位在小樑網（trabecular meshwork），其前房隅角在結構上是開放的，並無瞳孔阻滯的病理機轉，因此 LPI 對其無效。針對開角型青光眼，雷射治療首選為選擇性雷射小樑塑型術（SLT）。\n- B. 正確。閉角型青光眼（angle closure glaucoma）發病的核心機轉是瞳孔阻滯導致後房房水無法流入前房，後房壓力上升進而推擠虹膜前移並阻塞隅角。LPI 能有效建立前後房的旁路通道，平衡前後房壓力並使虹膜後退、重新開放隅角，是此病的標準第一線雷射處置。\n- C. 錯誤。正常眼壓性青光眼（normal tension glaucoma）為開角型青光眼的一種變體，患者眼壓在正常範圍內但合併有視神經病變，並不具有隅角狹窄或瞳孔阻滯的病理改變，因此 LPI 無法發揮治療作用。\n- D. 錯誤。新生血管性青光眼（neovascular glaucoma）屬於繼發性閉角型青光眼，成因是視網膜缺氧刺激新生血管與纖維膜增生於虹膜及隅角表面，進而拉扯造成隅角永久性粘連。LPI 對此種機械拉扯導致的隅角閉鎖無效，治療需優先針對視網膜缺氧進行視網膜全光凝固術（PRP）或施打抗血管內皮生長因子（anti-VEGF）藥物。\n\n【核心考點】\n雷射周邊虹膜切開術（LPI）的適應症為具有「瞳孔阻滯」機轉之閉角型青光眼，其餘開角型、正常眼壓性或新生血管性青光眼皆不適用此雷射機轉。",
+      "key_point": "雷射周邊虹膜切開術（LPI）藉由解除瞳孔阻滯來治療閉角型青光眼，對開角型、正常眼壓性及新生血管性青光眼無效。",
+      "flashcard_front": "雷射周邊虹膜切開術 (LPI) 的首選適應症與機轉為何？",
+      "flashcard_back": "適應症為閉角型青光眼。機轉是藉由周邊虹膜打孔解除瞳孔阻滯 (pupillary block)，平衡前後房壓以重開隅角。開角型青光眼則無效。",
+      "flashcard_summary": "LPI -> 治療閉角型青光眼 / 解除瞳孔阻滯以重開隅角，開角型青光眼不適用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n視杯視盤比（cup-to-disc ratio，C/D ratio）是評估青光眼性視神經病變的重要臨床指標。當青光眼造成視神經纖維萎縮時，中央視杯（cup）會逐漸擴大，導致 C/D 比值升高。一般健康人群的 C/D ratio 通常小於 0.3；若 C/D ratio 達 0.5 以上，或雙眼杯盤比差距大於 0.2，則需強烈懷疑青光眼，故 0.2 屬於健康的正常生理範圍，最不需要懷疑青光眼。\n\n【選項詳解】\n- A. 正確。杯盤比（C/D ratio）為 0.2 屬於正常的生理表現（通常健康人群數值介於 0.1 至 0.3 之間），代表視神經乳頭凹陷極小，無明顯神經纖維萎縮，最不具備青光眼的特徵。\n- B. 錯誤。杯盤比為 0.5 已達到臨床疑似青光眼（glaucoma suspect）的警戒閾值。此時必須配合眼壓、視野檢查（visual field）以及視網膜光學相干斷層掃描（OCT）以排除早期青光眼。\n- C. 錯誤。杯盤比為 0.8 屬於嚴重的病理性杯盤比擴大（increased C/D ratio），代表視神經盤有高度的凹陷與神經纖維層嚴重萎縮，臨床上極可能已是中晚期青光眼，需積極進行診斷與降眼壓治療。\n- D. 錯誤。視杯視盤比（C/D ratio）的大小在臨床上是診斷與追蹤青光眼最重要的形態學特徵之一，其數值越大、不對稱性越高，診斷青光眼的機率就越高，絕非「毫無意義」。\n\n【核心考點】\n正常生理性杯盤比（C/D ratio）通常小於 0.3。若數值大於等於 0.5 或雙眼差距大於 0.2，應視為青光眼疑似症並安排進一步視野與結構評估。",
+      "key_point": "正常生理性 C/D ratio 通常 < 0.3；若 C/D ratio 達 0.5 以上或雙眼差距 > 0.2，則需強烈懷疑青光眼並作進一步檢查。",
+      "flashcard_front": "視杯視盤比 (C/D ratio) 的正常值是多少？何時需懷疑青光眼？",
+      "flashcard_back": "正常值通常小於 0.3。當 C/D ratio 大於等於 0.5，或雙眼杯盤比差距大於 0.2 時，需高度懷疑青光眼病變並安排視野與 OCT 檢查。",
+      "flashcard_summary": "C/D ratio -> 正常 < 0.3 / 大於等於 0.5 或雙眼差距大於 0.2 需懷疑青光眼。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n眼球向鼻下側（即內收向下注視，down and in）的動作，包含「內收（adduction）」與「下轉（depression）」兩個主要運動。眼球內收主要由內直肌（medial rectus）負責；而當眼球處於內收位置時，上斜肌（superior oblique）的肌腱拉力方向與眼軸幾乎平行，此時其下轉眼球的效率達到最大，因此是由內直肌與上斜肌共同協同作用。\n\n【選項詳解】\n- A. 錯誤。下直肌（inferior rectus）雖然有下轉作用，但其最佳下轉位置是在眼球外展（abduction，顳側）23度時。在內收（鼻側）位置時，下直肌的作用主要偏向外旋（extorsion）而非下轉，因此在鼻下側注視時主要下轉肌並非下直肌。\n- B. 錯誤。下斜肌（inferior oblique）的主要作用是使眼球上轉（elevation）與外旋（extorsion），且在眼球內收時上轉作用最強，與本題要求向下注視（lower）的方向完全相反。\n- C. 正確。內直肌（medial rectus）是主要的眼球內收肌，負責將眼球拉向鼻側。上斜肌（superior oblique）主要負責下轉、內旋（intorsion）與外展，當眼球向鼻側內收時，上斜肌的生理拉力軸線最接近眼球的前後軸，使其下轉作用效率最大化。因此，內收向下（鼻下側）是由這兩條肌肉協同完成。\n- D. 錯誤。上直肌（superior rectus）的主要功能是使眼球上轉（elevation）與內旋（intorsion），在眼球外展時上轉作用最強，其運動方向與本題要求的向下注視背道而馳。\n\n【核心考點】\n眼球「內收」時，上斜肌（SO）的下轉作用最強，下直肌（IR）則外旋作用強；眼球「外展」時，下直肌的下轉作用最強，上斜肌則內旋作用強。因此「內收且向下」是由內直肌與上斜肌負責。",
+      "key_point": "眼球內收向下（鼻下側）注視時，主要的內收肌為內直肌，主要的下轉肌為上斜肌（在內收位下轉效率最大）。",
+      "flashcard_front": "當眼球處於內收（鼻側）位置時，上斜肌與下直肌的主要作用有何改變？",
+      "flashcard_back": "在內收位置時，上斜肌 (SO) 的下拉 (depression) 作用最強，成為主要的下轉肌；而下直肌 (IR) 的主要作用則轉變為外旋 (extorsion)。因此內收向下注視主要靠內直肌與上斜肌。",
+      "flashcard_summary": "眼球內收位 -> 上斜肌下轉作用最強，下直肌外旋作用強。內收向下注視靠內直肌 + 上斜肌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nLandolt C 視力表測得之小數視力（decimal visual acuity）與 Snellen 英制分數視力皆可用來代表視力的強弱。小數視力與 Snellen 分數之比值相等。例如小數視力 0.4，等同於英制 Snellen 視力表的 20/50（因為 20/50 = 0.4），兩者在物理上代表相同的最小分辨視角。\n\n【選項詳解】\n- A. 錯誤。視力 0.4 僅為測量所得的裸眼或舊眼鏡視力數值，並不代表戴上新眼鏡就一定能矯正至 1.0。若有弱視、白內障、黃斑部病變等器質性眼疾，即使給予屈光矯正也無法達到 1.0。\n- B. 錯誤。視力與最小可分辨角（Minimal Angle of Resolution, MAR，以分弧 minute of arc 為單位）互為倒數關係（視力 V = 1 / MAR）。因此，視力 0.4 對應的最小可分辨角（MAR）應為 1 / 0.4 = 2.5 分弧，而非 2.0 分弧。\n- C. 錯誤。視覺效率（visual efficiency）並非小數視力的百分比。根據美國醫學會（AMA）標準，小數視力 0.4（20/50）對應的視覺效率通常在 75% 左右，並非直接等同於 40%。\n- D. 正確。英制 Snellen 視力表通常以 20 呎為測試距離。Snellen 視力 20/50 意指受試者在 20 呎處能認出的字標，正常視力者在 50 呎處即可認出。20/50 的比值為 20 ÷ 50 = 0.4，因此 0.4 的小數視力剛好對應 Snellen 視力的 20/50。\n\n【核心考點】\n小數視力與英制 Snellen 視力分數（如 20/XX）在數值上是等值的，其公式為：小數視力 = 20 / 分母（例如 0.4 = 20 / 50）。此外，視力值與最小可分辨角（MAR，分弧）成倒數關係（MAR = 1 / V）。",
+      "key_point": "小數視力與英制 Snellen 視力分數等值，公式為：小數視力 = 20 / 分母（如 0.4 = 20/50）；且視力與最小可分辨角（MAR）互為倒數。",
+      "flashcard_front": "小數視力 0.4 對應的英制 Snellen 視力值及最小可分辨角 (MAR) 各為多少？",
+      "flashcard_back": "英制 Snellen 視力值為 20/50（因 20/50 = 0.4）；最小可分辨角 (MAR) 為 2.5 分弧（因 MAR = 1 / 0.4 = 2.5）。",
+      "flashcard_summary": "小數視力 0.4 -> 等於 Snellen 20/50，最小可分辨角 (MAR) 為 2.5 分弧。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題探討淚膜（tear film）的組成與生理功能。淚膜由外向內分為三層：脂質層、水液層及黏液層。本題為否定題（選出錯誤敘述），標準答案為 C。水液層（aqueous layer）主要負責提供角膜營養與氧氣、沖洗異物；而降低表面張力、使淚水均勻分佈在角膜上皮的是黏液層（mucous layer）。\n\n【選項詳解】\n- A. 正確。淚膜結構由外向內確實為：防止淚水蒸發的脂質層（lipid layer）、占淚膜 90% 以上厚度並提供角膜營養的水液層（aqueous layer），以及緊貼角膜上皮、具親水性的黏液層（mucous layer）。\n- B. 正確。最外層的脂質層主要由位於眼瞼邊緣的瞼板腺（meibomian gland）分泌，其油脂成分覆蓋於水液層之上，能夠有效延緩淚液的蒸發並維持淚膜的穩定性。\n- C. 錯誤。降低眼球表面張力是「黏液層（mucous layer）」的主要生理作用，黏液層由結膜杯狀細胞（goblet cells）分泌，能將角膜疏水性上皮轉化為親水性，使水液層能均勻塗抹。水液層的主要功能是提供角膜氧氣及營養、清除代謝廢物並含有溶菌酶等免疫防禦成分。\n- D. 正確。淚液的排泄途徑主要是藉由眼瞼眨動，將淚水引導至內眥的淚點（lacrimal puncta），再依序經由雙側的淚小管（lacrimal canaliculi）、進入淚囊（lacrimal sac），最後經由鼻淚管（nasolacrimal duct）排入下鼻道。\n\n【核心考點】\n淚膜三層結構的生理功能與分泌來源：脂質層由瞼板腺分泌，防蒸發；水液層由副淚腺及主淚腺分泌，供營養與免疫；黏液層由杯狀細胞分泌，能降低表面張力以協助淚水均勻附著。",
+      "key_point": "淚膜由外向內為脂質層（瞼板腺分泌）、水液層（淚腺分泌）與黏液層（杯狀細胞分泌，負責降低表面張力以利貼附）。",
+      "flashcard_front": "淚膜三層結構的分泌來源與主要功能分別為何？",
+      "flashcard_back": "1. 脂質層：瞼板腺分泌，防止淚液蒸發。 2. 水液層：主要與副淚腺分泌，提供營養與免疫。 3. 黏液層：結膜杯狀細胞分泌，降低表面張力使淚水均勻附著於疏水性角膜上皮。",
+      "flashcard_summary": "淚膜三層 -> 脂質層（瞼板腺，防蒸發）/ 水液層（淚腺，供營養） / 黏液層（杯狀細胞，降張力）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題為否定題，考查眼瞼惡性腫瘤的流行病學與臨床特徵。眼瞼最常見的惡性腫瘤為基底細胞癌（BCC），好發於下眼瞼；而皮脂腺癌（sebaceous gland carcinoma）雖然較少見，但好發於瞼板腺較豐富的「上眼瞼」，且極易與良性的霰粒腫混淆。因此，選項 D 指出其最常好發於下眼瞼是錯誤的敘述。\n\n【選項詳解】\n- A. 正確。基底細胞癌（basal cell carcinoma, BCC）是眼瞼最常見的惡性腫瘤，約佔所有眼瞼惡性腫瘤的 85% 至 90%，好發於老年人，且最常發生在常受陽光照射的下眼瞼。\n- B. 正確。鱗狀細胞癌（squamous cell carcinoma, SCC）在眼瞼惡性腫瘤中大約僅佔 5%，其發生率明顯比基底細胞癌（BCC）少見許多，但其轉移與浸潤的侵襲性通常高於基底細胞癌。\n- C. 正確. 皮脂腺癌（sebaceous gland carcinoma）源自眼瞼的皮脂腺（如瞼板腺 meibomian gland）。其早期病灶在臨床上常表現為無痛性硬結，極易被誤診為常見的良性霰粒腫（chalazion）或慢性瞼緣炎。對於老年人反覆發作或切開引流後不癒的霰粒腫，必須進行病理切片。\n- D. 錯誤。上眼瞼的瞼板腺（meibomian glands）不論在數量還是體積上都大於下眼瞼，因此皮脂腺癌最常好發於「上眼瞼」（約佔 70% 以上），而非下眼瞼。\n\n【核心考點】\n眼瞼最常見的惡性腫瘤是基底細胞癌（好發於下眼瞼）。皮脂腺癌（瞼板腺癌）則好發於上眼瞼，臨床上易被誤診為反覆發作的霰粒腫，若老年人有非典型或反覆性霰粒腫，應進行病理切片排除。",
+      "key_point": "眼瞼最常見惡性腫瘤為基底細胞癌（好發於下眼瞼）；皮脂腺癌（好發於上眼瞼）易被誤診為反覆發作的霰粒腫，需靠切片鑑別。",
+      "flashcard_front": "眼瞼基底細胞癌與皮脂腺癌的常見好發位置與臨床鑑別重點為何？",
+      "flashcard_back": "1. 基底細胞癌：最常見，好發於下眼瞼。 2. 皮脂腺癌：較少見，好發於上眼瞼，臨床上極易被誤診為慢性或反覆發作的霰粒腫，老年人若有反覆性霰粒腫應做切片排除。",
+      "flashcard_summary": "眼瞼腫瘤 -> 基底細胞癌最常見（下眼瞼）；皮脂腺癌（上眼瞼）易被誤診為反覆性霰粒腫，需切片鑑別。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n人工電子耳（cochlear implants）適用於雙側重度至極重度感音神經性聽力損失患者。其工作原理是繞過已經受損或缺失的內耳耳蝸毛細胞（hair cells），直接將環境聲音轉換為電信號，刺激位於耳蝸軸的聽神經末梢分支出處——螺旋神經節細胞（spiral ganglion cells），再由聽神經將訊號傳入大腦顳葉聽覺皮質。\n\n【選項詳解】\n- A. 錯誤。外毛細胞（outer hair cells, OHCs）主要負責聲音信號的「主動放大」（cochlear amplifier）。重度感音神經性聽損患者的毛細胞通常已大範圍壞死，人工電子耳並非刺激外毛細胞，而是完全替代其功能。\n- B. 錯誤. 內毛細胞（inner hair cells, IHCs）是真正的聽覺感受器，負責將基底膜的機械振動轉化為電信號傳給聽神經。感音神經性聽損患者的內毛細胞大多已失去功能，故電子耳需要繞過它。\n- C. 錯誤。血管紋細胞（stria vascularis cells）位於耳蝸外側壁，主要負責分泌內淋巴液（endolymph）並維持內耳的電位平衡（endocochlear potential）。人工電子耳的電極並非放置於此，也非刺激此處。\n- D. 正確。當耳蝸內的毛細胞受損無法產生神經衝動時，人工電子耳的植入電極會被放入鼓室階（scala tympani），發射微弱電流直接刺激尚存的螺旋神經節細胞（spiral ganglion cells）。這些細胞的軸突匯集成聽神經（第八對腦神經的耳蝸支），將訊號往上傳遞，這是人工電子耳運作的生理學基礎。\n\n【核心考點】\n人工電子耳的作用機制為：繞過受損的耳蝸毛細胞，直接利用電極刺激「螺旋神經節細胞（spiral ganglion cells）」來傳遞電氣編碼的聲音訊號，以恢復重度感音神經性聽損患者的聽覺。",
+      "key_point": "人工電子耳繞過受損的內外毛細胞，直接刺激鼓室階旁的「螺旋神經節細胞（spiral ganglion cells）」傳遞聽覺訊號。",
+      "flashcard_front": "人工電子耳 (cochlear implant) 主要是直接刺激內耳耳蝸的哪一種細胞來傳遞訊號？",
+      "flashcard_back": "刺激「螺旋神經節細胞 (spiral ganglion cells)」。它能繞過已經受損的耳蝸內外毛細胞，直接給予神經元電刺激以產生聽覺衝動。",
+      "flashcard_summary": "人工電子耳 -> 繞過毛細胞，直接刺激「螺旋神經節細胞（spiral ganglion cells）」。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n積液性中耳炎（otitis media with effusion, OME）常發生於急性中耳炎之後或因耳咽管功能不良引起，中耳腔內積聚無菌性液體。臨床指南建議，若患者無高危險因素（如發展遲緩、唇顎裂等），且中耳積液為新診斷或無明顯症狀，應先進行 3 個月的「密切觀察與等待（watchful waiting）」，因為大部分的 OME 會在 3 個月內自然消退，避免不必要的鼓膜置管手術。\n\n【選項詳解】\n- A. 錯誤。1 個月時間太短。急性中耳炎發作後 1 個月時，仍有約 40% 的患者中耳腔殘存積液，此時絕大多數人會自然恢復，不需要過早進行聽力測試或手術介入。\n- B. 錯誤。2 個月通常仍在病程演變中。一般臨床指引將「慢性積液性中耳炎」定義為積液持續 3 個月以上，故 2 個月並非決定是否進行鼓膜置管手術（ventilation tube insertion）或聽力評估的標準分界點。\n- C. 正確。根據兒科與耳鼻喉科臨床醫學指引，針對無高風險因子的積液性中耳炎（OME）兒童，建議的追蹤觀察期為自發病起 3 個月（90天）。若 3 個月後雙耳積液仍未消退且合併聽力受損，或出現學習發育遲緩時，才需安排聽力檢查，並考慮進行鼓膜置管手術。\n- D. 錯誤。6 個月時間過長。若雙側 OME 持續達 6 個月，可能已造成兒童長時間傳導性聽力損失，進而嚴重影響其語言發展、學習能力與課業表現，因此不應無條件等待長達 6 個月才做處置。\n\n【核心考點】\n新診斷且無高風險因子之小兒積液性中耳炎（OME），臨床首選處置為「密切觀察 3 個月」。若積液持續超過 3 個月且伴有聽力障礙或語言遲緩，方需進行聽力測試並評估鼓膜置管手術。",
+      "key_point": "無高風險因子之小兒積液性中耳炎（OME）應先觀察 3 個月；若持續超過 3 個月且伴有聽力障礙才考慮聽力測試與手術。",
+      "flashcard_front": "新診斷且無特殊危險因子的兒童積液性中耳炎 (OME) 應觀察多久才考慮進一步處置？",
+      "flashcard_back": "建議先進行為期「3 個月」的密切觀察與等待 (watchful waiting)。若 3 個月後積液未消退且合併聽力受損或語言發育遲緩，才安排聽力測試或考慮放中耳通氣管。",
+      "flashcard_summary": "小兒 OME -> 首選密切觀察 3 個月。持續 > 3 個月伴聽損者才考慮手術/聽力測試。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n聲帶結節（vocal nodules，俗稱聲帶長繭）是慢性喉炎的一種，成因主要是過度或不當發聲，導致聲帶粘膜局部受到反覆機械性摩擦與撞擊而增厚。由於聲帶振動時，最大振幅與摩擦力通常落在膜性聲帶的中點，亦即「聲帶游離緣前三分之一與後三分之二的交界處」（或寫作前三分之一與中三分之一交界處），因此這是聲帶結節最經典的好發位置。\n\n【選項詳解】\n- A. 錯誤。聲帶前聯合（anterior commissure）是雙側聲帶在甲狀軟骨前方的接合點，此處在發聲時並非振幅最大、撞擊最激烈的點。前聯合若有病變，通常需高度懷疑早期喉癌或其他腫瘤。\n- B. 正確。聲帶結節的好發部位在雙側聲帶膜性部（membranous portion）的中點，從整個聲帶（含軟骨部）的長度來看，該點正好位於「游離緣前三分之一與後三分之二的交界處」（亦即膜性聲帶的前、中三分之一交界處）。這是說話發聲時聲帶碰撞摩擦最劇烈的位置，因而最容易因微血管外滲、局部水腫與纖維化而形成結節。\n- C. 錯誤。聲帶後聯合（posterior commissure）位於杓狀軟骨之間，發聲時此處幾乎沒有撞擊摩擦。後聯合的病變常與胃食道逆流（LPRD，喉咽反流）引起的接觸性肉芽腫（contact granuloma）或結核感染有關，而非聲帶結節。\n- D. 錯誤。聲帶的中後三分之一或後部屬於軟骨部聲帶，主要由杓狀軟骨構成，發聲時不參與劇烈碰撞，因此不會在此處形成由於摩擦引起的聲帶結節。\n\n【核心考點】\n聲帶結節（繭）是由於發聲不當、過度撞擊引起的良性病變，病灶特徵為「雙側對稱性」，好發於「聲帶游離緣前三分之一與後三分之二交界處」（即膜性聲帶中點）。",
+      "key_point": "聲帶結節好發於雙側對稱的「聲帶游離緣前三分之一與後三分之二交界處」（即膜性聲帶中點），此處發聲時碰撞摩擦最劇烈。",
+      "flashcard_front": "聲帶結節 (vocal nodules) 的成因與最常見的好發位置為何？",
+      "flashcard_back": "成因是過度或不當發聲導致反覆摩擦撞擊。好發於雙側對稱的「聲帶游離緣前三分之一與後三分之二交界處」（膜性聲帶的中點），此處是發聲時振動與碰撞最大的區域。",
+      "flashcard_summary": "聲帶結節 -> 好發於雙側「聲帶游離緣前 1/3 與後 2/3 交界處」（膜性聲帶中點）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題探討頭頸部鱗狀細胞癌（HNSCC）切除術後，追加輔助性同步化學放射治療（postoperative CCRT）的臨床原則與適應症。本題為否定題（選出錯誤敘述），標準答案為 A。術後化放療的黃金開始時間是手術後「6 週（42天）內」，若延遲至 6 週後甚至數個月才開始，其局部控制率與病患整體存活率將大幅下降。\n\n【選項詳解】\n- A. 錯誤。頭頸癌手術切除後，為了消滅殘存的微小轉移，術後輔助化放療（CCRT）必須儘早開始。臨床實務與指引強烈建議應在手術後「6 週（42天）內」開始進行，延遲開始會使殘留癌細胞有時間重新增殖，顯著降低治療效果。拖延至「6個月內」開始已屬嚴重延誤，無法達到預期的最佳療效。\n- B. 正確。病理切片若證實有淋巴結節外侵犯（extranodal extension, ENE），代表癌細胞已穿透淋巴結包膜，屬於極高復發風險因子。根據 NCCN 指引，這是術後必須追加「同步化放療（CCRT）」的絕對適應症。\n- C. 正確。手術切緣陽性（positive section margin）代表手術切除邊緣仍有癌細胞殘留。與節外侵犯（ENE）相同，切緣陽性也是頭頸癌術後追加同步化放療（CCRT）的最高級別適應症（Category 1 推薦）。\n- D. 正確。對於晚期（如 Stage III, IV）的頭頸癌患者，若合併有切緣陽性或淋巴結外侵犯等高危險因子，臨床指引強烈建議術後追加「同步化放療（CCRT）」，其療效（局部控制率及整體存活率）顯著優於單純術後放射治療（RT）。\n\n【核心考點】\n頭頸部鱗狀細胞癌術後追加輔助同步化放療（CCRT）的兩大絕對指徵為：手術切緣陽性（positive margin）與淋巴結外侵犯（extranodal extension）。此外，術後輔助治療必須在「術後 6 週（42天）內」儘速開始，不可延誤。",
+      "key_point": "頭頸癌術後輔助化放療（CCRT）適應症為切緣陽性及淋巴結外侵犯（ENE），且必須在術後 6 週內儘早開始以防復發。",
+      "flashcard_front": "頭頸癌切除術後追加輔助同步化放療 (CCRT) 的主要適應症與黃金開始時間為何？",
+      "flashcard_back": "適應症主要為手術切緣陽性 (positive margin) 與淋巴結外侵犯 (extranodal extension, ENE)。黃金開始時間為術後「6 週（42天）內」，延遲會降低存活率與局部控制率。",
+      "flashcard_summary": "頭頸癌術後 CCRT -> 適應症為切緣陽性、ENE；應於術後 6 週（42天）內開始。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-10T18:16:39+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
