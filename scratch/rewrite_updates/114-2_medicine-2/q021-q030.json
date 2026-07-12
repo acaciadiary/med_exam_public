@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問 pre-B 細胞受體（pre-B cell receptor, pre-BCR）何者敘述最不適當。pre-BCR 出現在 B 細胞發育早期，由已成功重組的免疫球蛋白重鏈搭配 surrogate light chain（VpreB 與 λ5）形成，並透過 Igα/Igβ 傳遞訊號；它還會促進 pre-B 細胞存活、增生與重鏈等位基因排除（allelic exclusion）。因此，若選項說 pre-BCR 已具有真正的 κ 輕鏈，就把發育階段提前了。\n\n【選項詳解】\n- A. pre-BCR 不含成熟免疫球蛋白輕鏈的 κ chain；此階段使用的是 surrogate light chain，真正 κ 或 λ 輕鏈重組成功後才會形成完整 B cell receptor，所以此敘述不適當。\n- B. pre-BCR 的功能之一就是確認重鏈已成功重組，並傳遞存活與增生訊號，讓細胞繼續往 immature B cell 發育。\n- C. Igα 與 Igβ 是 B 細胞受體家族的重要訊號傳遞蛋白，pre-BCR 也需要它們把受體訊號送入細胞內。\n- D. pre-BCR 訊號會抑制另一條重鏈等位基因繼續重組，造成重鏈 allelic exclusion，使每個 B 細胞主要表現單一重鏈特異性。\n\n【核心考點】\npre-BCR = μ heavy chain + surrogate light chain（VpreB/λ5）+ Igα/Igβ；它代表重鏈重組成功，會促進存活並關閉重鏈再重組，但尚未帶有真正的 κ 或 λ 輕鏈。",
+      "key_point": "pre-BCR 含 μ heavy chain 與 surrogate light chain，不含成熟 κ 輕鏈；其訊號促進存活並造成重鏈 allelic exclusion。",
+      "flashcard_front": "pre-B cell receptor 的組成與功能",
+      "flashcard_back": "pre-BCR 由 μ heavy chain 搭配 surrogate light chain（VpreB/λ5）與 Igα/Igβ 組成，可促進 pre-B 細胞存活並抑制重鏈再次重組；不含成熟 κ 輕鏈。",
+      "flashcard_summary": "pre-BCR -> surrogate light chain, Igα/Igβ, survival signal, heavy-chain allelic exclusion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題問何者最不可能高度表現於調節性 T 細胞（regulatory T cell, Treg）。Treg 的典型表型與功能包括 FoxP3、CD25（IL-2 receptor α chain）、CTLA-4，以及分泌免疫抑制性細胞激素如 IL-10、TGF-β。B7 則主要是抗原呈獻細胞上的共刺激分子（CD80/CD86），用來與 T 細胞的 CD28 或 CTLA-4 結合，不是 Treg 的代表性高表現分子。\n\n【選項詳解】\n- A. CD25 是 IL-2 receptor α chain，Treg 常高度表現 CD25，以利利用 IL-2 維持調節功能與存活。\n- B. IL-10 是 Treg 常見的免疫抑制性細胞激素，可降低抗原呈獻與發炎反應。\n- C. CTLA-4 是 Treg 抑制免疫反應的重要表面分子，可與 APC 上的 B7 結合，降低共刺激訊號。\n- D. B7 指 CD80/CD86，主要表現在樹突細胞、巨噬細胞、B 細胞等抗原呈獻細胞上；Treg 是使用 CTLA-4 去結合 B7，而不是以 B7 作為自身高度表現標誌。\n\n【核心考點】\nTreg 常記 FoxP3、CD25、CTLA-4、IL-10/TGF-β；B7（CD80/CD86）是 APC 的共刺激分子，與 Treg 的 CTLA-4/CD28 軸互動。",
+      "key_point": "Treg 常高度表現 CD25 與 CTLA-4，並可分泌 IL-10；B7 是 APC 上的共刺激分子。",
+      "flashcard_front": "Treg 高表現分子與分泌因子",
+      "flashcard_back": "Treg：FoxP3、CD25、CTLA-4、IL-10/TGF-β；B7（CD80/CD86）主要在 APC 上，供 CD28 或 CTLA-4 結合。",
+      "flashcard_summary": "Treg markers -> CD25, CTLA-4, IL-10; B7 belongs mainly to APC",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題限定「沒有病原菌感染」時的腸胃道樹突細胞特徵。腸道長期接觸食物抗原與共生菌，穩定狀態下的免疫反應重點是耐受，而不是強烈發炎。腸道環境中的 TGF-β、IL-10 與部分耐受型樹突細胞會促進對共生菌的免疫耐受，避免不必要的黏膜發炎。\n\n【選項詳解】\n- A. IL-12 會促進 Th1 反應與 IFN-γ 相關免疫活化，較符合病原感染或發炎時的樹突細胞反應，不是穩定腸道環境的主要特徵。\n- B. 高量 B7-1（CD80）代表成熟且共刺激能力強的 APC，常見於感染或危險訊號刺激後；無感染狀態下，腸道 DC 通常偏向維持耐受。\n- C. TGF-β 與 IL-10 有助於抑制過度發炎、促進調節性免疫環境，使腸道樹突細胞對共生菌與食物抗原較不會引發破壞性反應。\n- D. 腸道 DC 可與 retinoic acid 相關路徑參與黏膜免疫與 Treg 分化，但「增進 T 毒殺細胞功能」偏向效應免疫活化，不符合無感染時的耐受重點。\n\n【核心考點】\n穩定狀態的腸道樹突細胞偏向免疫耐受；遇到感染才轉向 IL-12、B7 上升與效應 T 細胞活化。",
+      "key_point": "無病原感染時，腸道樹突細胞主要維持對共生菌與食物抗原的耐受，IL-10/TGF-β 是關鍵抑制性環境。",
+      "flashcard_front": "無感染時腸道 dendritic cell 的免疫角色",
+      "flashcard_back": "腸道 DC 在穩定狀態偏耐受：IL-10/TGF-β 促進對共生菌耐受；感染時才較會上升 IL-12、B7 並促進效應 T 細胞反應。",
+      "flashcard_summary": "Gut DC steady state -> tolerance to commensals via IL-10/TGF-β environment",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題問革蘭氏陽性菌細胞壁 peptidoglycan 主要由哪一類 Toll-like receptor（TLR）辨識。TLR2 常辨識革蘭氏陽性菌相關成分，例如 peptidoglycan、lipoteichoic acid 與細菌脂蛋白；TLR4 則典型對應革蘭氏陰性菌 LPS。作答時要把病原成分與 TLR 對應起來。\n\n【選項詳解】\n- A. TLR2 是辨識革蘭氏陽性菌 peptidoglycan 與 lipoteichoic acid 的高頻考點，與本題病原成分相符。\n- B. TLR4 主要辨識革蘭氏陰性菌的 lipopolysaccharide（LPS），不是 peptidoglycan 的主要受體。\n- C. TLR8 位於內體，主要辨識病毒或微生物的 single-stranded RNA，與細菌細胞壁 peptidoglycan 不同。\n- D. TLR9 位於內體，主要辨識未甲基化 CpG DNA，常用於細菌或病毒 DNA 的先天免疫偵測，不是本題的細胞壁成分。\n\n【核心考點】\nTLR2 對應革蘭氏陽性菌 peptidoglycan/lipoteichoic acid；TLR4 對應 LPS；TLR8 對應 ssRNA；TLR9 對應 CpG DNA。",
+      "key_point": "革蘭氏陽性菌 peptidoglycan 主要由 TLR2 辨識；TLR4 則典型辨識革蘭氏陰性菌 LPS。",
+      "flashcard_front": "TLR 與微生物成分對應：peptidoglycan",
+      "flashcard_back": "Peptidoglycan/lipoteichoic acid -> TLR2；LPS -> TLR4；ssRNA -> TLR8；CpG DNA -> TLR9。",
+      "flashcard_summary": "Peptidoglycan -> TLR2; LPS -> TLR4; ssRNA -> TLR8; CpG DNA -> TLR9",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題問自體免疫疾病建立後為何常演變成長期、持續且難以根治，並要找最不適當的理由。自體免疫疾病的慢性化常來自自身抗原無法像外來病原一樣被完全清除、持續發炎造成正回饋，以及表位擴散讓免疫反應逐漸擴大。把「所有自體免疫病人都有 Treg 異常」說成普遍必然原因，過度絕對化。\n\n【選項詳解】\n- A. 自身抗原可長期存在，免疫系統持續被刺激，發炎細胞與細胞激素又會放大組織傷害，形成慢性正回饋，這是自體免疫病難以停止的重要原因。\n- B. 許多自身抗原是身體正常組織的一部分，治療上不能像清除感染源那樣把抗原完全移除，因此很難做到病因層面的特異性根治。\n- C. 表位擴散（epitope spreading）會讓免疫反應從原本抗原表位擴展到更多自身表位，活化更多自體反應性淋巴球，使病程更持久且更複雜。\n- D. Treg 功能異常可參與部分自體免疫疾病，但不是每一位、每一種自體免疫病都必然由 Treg 異常造成；「都有」使此敘述過度概括。\n\n【核心考點】\n自體免疫慢性化可由持續自身抗原、發炎正回饋與 epitope spreading 解釋；遇到「全部病人都有某單一機制」這類語句要特別警覺。",
+      "key_point": "自體免疫病難以根治常因自身抗原持續存在、發炎正回饋與 epitope spreading；Treg 異常不是所有病例的必然原因。",
+      "flashcard_front": "自體免疫疾病慢性化與難治原因",
+      "flashcard_back": "慢性自體免疫病：自身抗原難移除、持續發炎正回饋、epitope spreading；不要把 Treg 異常套成所有病人的單一必然機制。",
+      "flashcard_summary": "Autoimmunity persistence -> self-antigen persistence, inflammatory feedback, epitope spreading; avoid overgeneralized Treg claim",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題問腫瘤免疫反應何者敘述最適當。腫瘤細胞可因突變、病毒蛋白或異常表現產生腫瘤抗原，經抗原呈獻後誘發腫瘤專一性 T 細胞反應；這也是免疫檢查點治療與腫瘤免疫監視的基礎。其他選項把腫瘤免疫逃脫寫成過度絕對或不合理的機制。\n\n【選項詳解】\n- A. 腫瘤特異性或腫瘤相關抗原可被 APC 呈獻給 T 細胞，體內確實可形成腫瘤專一性 cytotoxic T lymphocyte，進而辨識並攻擊腫瘤細胞。\n- B. 腫瘤微環境可能阻礙免疫細胞進入或功能發揮，但不能說免疫細胞完全無法進入腫瘤；許多腫瘤中仍可見 tumor-infiltrating lymphocytes。\n- C. 腫瘤突變可產生 neoantigen 或免疫逃脫變異，但「突變的細胞表面分子進而造成免疫細胞死亡」不是腫瘤免疫反應的一般描述。\n- D. 腫瘤抑制基因產物的概念與「腫瘤抑制自然殺手細胞」不相符；NK 細胞主要受 MHC I 表現下降、壓力誘導配體與抑制/活化受體平衡影響。\n\n【核心考點】\n腫瘤免疫的基本邏輯是腫瘤抗原呈獻後啟動腫瘤專一性 T 細胞；免疫逃脫可發生，但不等於免疫細胞一定無法進入或被腫瘤突變直接殺死。",
+      "key_point": "腫瘤抗原可被呈獻並誘發腫瘤專一性 T 細胞反應；腫瘤免疫逃脫不等於免疫細胞完全不能進入腫瘤。",
+      "flashcard_front": "腫瘤免疫反應的基本概念",
+      "flashcard_back": "腫瘤抗原/neoantigen 經 APC 呈獻可誘發腫瘤專一性 T 細胞；NK 細胞反應受 MHC I 與活化/抑制訊號平衡影響。",
+      "flashcard_summary": "Tumor immunity -> antigen presentation creates tumor-specific T cells; escape mechanisms are not absolute exclusion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問哪一種移植最容易發生 graft-versus-host disease（GVHD）。GVHD 的核心條件是移植物中含有具免疫活性的供者 T 細胞，且受者無法有效清除這些細胞，導致供者 T 細胞攻擊受者組織。骨髓或造血幹細胞移植帶入大量免疫細胞，因此是最典型、最常考的 GVHD 場景。\n\n【選項詳解】\n- A. 肝臟移植屬實質器官移植，主要問題多是受者免疫系統排斥移植物；雖然肝臟含有淋巴細胞，GVHD 仍遠不如造血系統移植典型。\n- B. 骨髓移植會把供者造血與免疫細胞一併移入受者，供者 T 細胞可辨識受者 HLA 或 minor histocompatibility antigen，因而引發 GVHD。\n- C. 腎臟移植主要考驗 HLA 配對、抗體媒介排斥與細胞性排斥，通常不是 GVHD 的代表移植類型。\n- D. 肺臟移植常見問題是急性或慢性排斥、感染與 bronchiolitis obliterans 等，GVHD 風險不像骨髓移植那樣突出。\n\n【核心考點】\nGVHD 是「供者免疫細胞攻擊受者」；骨髓/造血幹細胞移植因帶入大量供者 T 細胞，最容易出現這個問題。",
+      "key_point": "GVHD 最典型發生於骨髓或造血幹細胞移植，因供者 T 細胞可攻擊受者組織。",
+      "flashcard_front": "最容易發生 GVHD 的移植類型",
+      "flashcard_back": "GVHD = donor T cells attack recipient tissues；最典型是骨髓/造血幹細胞移植，而實質器官移植主要是 recipient rejects graft。",
+      "flashcard_summary": "GVHD -> donor T cells attack host; highest-yield transplant type is bone marrow/HSCT",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問黑色素瘤等腫瘤誘導骨髓衍生性抑制細胞（myeloid-derived suppressor cells, MDSCs）後，主要透過哪一種細胞激素幫助腫瘤生長。MDSCs 會建立免疫抑制性腫瘤微環境，抑制 T 細胞與 NK 細胞功能；IL-10 是典型免疫抑制性細胞激素，可降低抗原呈獻與發炎性抗腫瘤反應。\n\n【選項詳解】\n- A. IL-1 多與發炎、發燒、內皮活化及先天免疫反應有關，不是本題所指 MDSCs 促進腫瘤免疫抑制的主要答案。\n- B. IL-10 可抑制 Th1 與巨噬細胞/樹突細胞活化，降低抗原呈獻與細胞毒性免疫反應，讓腫瘤較容易逃避免疫清除。\n- C. TNF-α 是典型促發炎細胞激素，雖然在腫瘤微環境中可有複雜作用，但本題考的 MDSCs 免疫抑制路徑以 IL-10 較直接。\n- D. IFN-γ 通常促進 Th1 反應、巨噬細胞活化與抗腫瘤細胞免疫，不是幫助腫瘤逃避免疫的典型抑制性細胞激素。\n\n【核心考點】\nMDSCs 會促成免疫抑制性腫瘤微環境；IL-10 可降低抗原呈獻與 T/NK 細胞抗腫瘤反應，因而有利腫瘤生長。",
+      "key_point": "MDSCs 可透過 IL-10 等免疫抑制訊號降低抗腫瘤 T/NK 細胞反應，幫助腫瘤免疫逃脫。",
+      "flashcard_front": "MDSCs 促進腫瘤生長的免疫抑制細胞激素",
+      "flashcard_back": "MDSCs 建立免疫抑制性腫瘤微環境；IL-10 抑制 APC、Th1 與細胞毒性免疫反應，使腫瘤較容易逃避免疫清除。",
+      "flashcard_summary": "MDSCs in melanoma -> IL-10-mediated immunosuppression supports tumor growth",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題問哪些寄生蟲具有從口、咽管、食道、腸道到肛門的完整消化系統。線蟲（nematodes）有完整消化道；絛蟲（cestodes）沒有消化道，靠體表吸收宿主腸道內營養。題目列出的 2 蛔蟲、3 美洲鉤蟲、4 糞小桿線蟲都是線蟲；1 縮小包膜絛蟲與 5 亞洲絛蟲都是絛蟲。\n\n【選項詳解】\n- A. 123 包含 1 縮小包膜絛蟲；絛蟲沒有口與完整消化道，因此這組合含有不符合條件者，且漏掉 4 糞小桿線蟲。\n- B. 234 分別是蛔蟲、美洲鉤蟲與糞小桿線蟲，三者皆為線蟲，具完整消化道與肛門，符合題目要求。\n- C. 345 雖含有 3、4 兩個線蟲，但 5 亞洲絛蟲屬絛蟲，沒有完整消化道，因此此組合不全對。\n- D. 135 包含 1 縮小包膜絛蟲與 5 亞洲絛蟲，兩者都沒有完整消化道；此組合也漏掉蛔蟲與糞小桿線蟲。\n\n【核心考點】\n線蟲有完整消化道；絛蟲沒有消化道、靠體表吸收營養。本題應選線蟲組合：Ascaris、Necator、Strongyloides。",
+      "key_point": "Nematodes 有完整消化道；cestodes 沒有消化道。蛔蟲、鉤蟲、糞小桿線蟲屬線蟲。",
+      "flashcard_front": "寄生蟲消化道：線蟲 vs 絛蟲",
+      "flashcard_back": "線蟲（Ascaris、Necator、Strongyloides）有完整消化道；絛蟲（Hymenolepis、Taenia）沒有消化道，靠體表吸收營養。",
+      "flashcard_summary": "Complete digestive tract -> nematodes 2/3/4; cestodes 1/5 lack digestive tract",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題是兒童寄生蟲感染的臨床線索判讀：五歲小孩、嗜伊紅性白血球增加、肝臟腫大。這組合典型指向犬蛔蟲（Toxocara canis）造成的內臟幼蟲移行症（visceral larva migrans）。人類誤食犬蛔蟲卵後，幼蟲無法在人體完成成蟲生活史，會在肝、肺、眼等組織移行，引起 eosinophilia 與肝脾腫大。\n\n【選項詳解】\n- A. 旋毛蟲（Trichinella spiralis）常與生食或未熟豬肉、野味相關，幼蟲進入肌肉造成肌痛、發燒、眼眶周圍水腫與嗜伊紅性白血球增加；肝腫大不是最典型線索。\n- B. 蟯蟲（Enterobius vermicularis）主要造成夜間肛門搔癢，常用透明膠帶檢查蟲卵；通常不會造成明顯肝臟腫大。\n- C. 廣東住血線蟲（Angiostrongylus cantonensis）常造成嗜伊紅性腦膜炎，臨床重點是頭痛、頸部僵硬與腦脊髓液嗜伊紅球，而非肝臟腫大。\n- D. 犬蛔蟲（Toxocara canis）是兒童內臟幼蟲移行症的典型病原，會造成嗜伊紅性白血球上升、發燒、咳嗽、肝脾腫大或眼部病灶，與題目線索相符。\n\n【核心考點】\n兒童 + eosinophilia + hepatomegaly 要想到 Toxocara canis 的 visceral larva migrans；Enterobius 偏肛門搔癢，Angiostrongylus 偏嗜伊紅性腦膜炎，Trichinella 偏肌肉症狀。",
+      "key_point": "兒童嗜伊紅性白血球增加合併肝腫大，典型為 Toxocara canis 造成的 visceral larva migrans。",
+      "flashcard_front": "兒童 eosinophilia + hepatomegaly 的寄生蟲診斷",
+      "flashcard_back": "Toxocara canis 造成 visceral larva migrans：兒童、eosinophilia、肝脾腫大、肺或眼部病灶；Enterobius 是肛門搔癢，Angiostrongylus 是 eosinophilic meningitis。",
+      "flashcard_summary": "Child eosinophilia + hepatomegaly -> Toxocara canis visceral larva migrans",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:47+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

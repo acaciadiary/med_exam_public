@@ -1,0 +1,28 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "merge": false,
+  "errors": [
+    "scratch/rewrite_updates/114-2_medicine-2/q051-q060.json: Q51 banned phrase 最符合題幹"
+  ],
+  "manual_review": [
+    {
+      "question_number": 4,
+      "notes": [
+        "第 4 題 XDR-TB 定義與現行 WHO 2021 後分類可能不一致，建議人工確認考卷採用的教材版本。"
+      ]
+    },
+    {
+      "question_number": 10,
+      "notes": [
+        "第 10 題 D 選項的 eclipse period 表述可能也有疑義，建議人工核對官方題意與教材用語。"
+      ]
+    },
+    {
+      "question_number": 86,
+      "notes": [
+        "原資料第 86 題 answer_status 為 all_credit，correct_answers 為 A-D；本說明依概念指出 A 最不適當，合併保留一律給分狀態供人工審核。"
+      ]
+    }
+  ]
+}

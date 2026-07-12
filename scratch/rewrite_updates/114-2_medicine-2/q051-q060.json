@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n題目問臨床試驗哪一階段主要用來確認治療效能與治療劑量範圍。Phase 2 通常是在已有初步人體安全性資料後，於目標疾病病人中評估藥效、劑量反應與常見不良反應；它的任務是判斷藥物是否有足夠療效訊號，並找出後續大型試驗可採用的劑量範圍。因此答案為第二階段。\n\n【選項詳解】\n- A. 第一階段(phase 1)：主要在少數健康受試者或特定病人中評估安全性、耐受性、藥物動力學與初步劑量，不是主要確認療效與治療劑量範圍的階段。\n- B. 第二階段(phase 2)：正確。此階段在目標病人族群中探索 efficacy、dose-ranging 與常見毒性，是把「安全可用」推進到「可能有效且劑量合理」的關鍵階段。\n- C. 第三階段(phase 3)：主要是大型、隨機對照試驗，用來確認療效與安全性、支持上市申請；劑量通常已在 phase 2 有較明確範圍。\n- D. 第四階段(phase 4)：屬上市後監測，重點是長期安全性、罕見副作用、真實世界使用與新適應症觀察，不是研發中主要做劑量探索的階段。\n\n【核心考點】\n臨床試驗分期要用目的區分：phase 1 看安全與藥動，phase 2 看初步療效與劑量範圍，phase 3 做大型確認，phase 4 做上市後監測。",
+      "key_point": "Phase 2 是在目標病人中評估初步療效、劑量反應與常見不良反應的主要階段。",
+      "flashcard_front": "臨床試驗分期：哪一階段主要確認治療效能與治療劑量範圍？",
+      "flashcard_back": "Phase 2。Phase 1 重安全與藥動，phase 2 重初步療效與 dose-ranging，phase 3 大型確認，phase 4 上市後監測。",
+      "flashcard_summary": "臨床試驗分期 -> phase 2 評估療效與治療劑量範圍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n5-Fluorouracil 是 pyrimidine antimetabolite。其活性代謝物 FdUMP 會抑制 thymidylate synthase，使 dUMP 無法轉成 dTMP，造成 DNA 合成所需的 thymidine 不足，達到抗腫瘤效果。\n\n【選項詳解】\n- A. 與DNA 進行烷基化結合(alkylating)：這是 alkylating agents 的典型機轉，例如 cyclophosphamide、mechlorethamine、platinum 類藥物等；5-FU 不是以 DNA 烷基化為主。\n- B. 抑制topoisomerase II：這符合 anthracyclines、etoposide 等藥物的作用；5-FU 的核心考點是抑制 thymidylate synthase。\n- C. 抑制thymidylate synthase：正確。5-FU 轉成 FdUMP 後抑制 thymidylate synthase，阻斷 dTMP 合成，進而抑制 DNA 合成。\n- D. 抑制dihydrofolate reductase：這是 methotrexate 的主要機轉，會使 tetrahydrofolate 再生不足；不是 5-FU 的代表機轉。\n\n【核心考點】\n5-FU 抗癌機轉是抑制 thymidylate synthase；methotrexate 才是抑制 dihydrofolate reductase，etoposide 類才是 topoisomerase II 抑制。",
+      "key_point": "5-FU 的活性代謝物 FdUMP 抑制 thymidylate synthase，阻斷 dTMP 與 DNA 合成。",
+      "flashcard_front": "5-Fluorouracil 的主要抗癌機轉",
+      "flashcard_back": "5-FU 轉成 FdUMP 後抑制 thymidylate synthase，使 dUMP 無法生成 dTMP，抑制 DNA 合成。",
+      "flashcard_summary": "5-FU -> 抑制 thymidylate synthase",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n題目在比較列出的抗腫瘤藥物何者腎毒性最強。選項中只有 carboplatin 屬 platinum 類，這類藥物以腎毒性、骨髓抑制、神經毒性等為重要毒性考點；雖然 cisplatin 的腎毒性比 carboplatin 更典型，但本題選項沒有 cisplatin，因此以 carboplatin 最符合。\n\n【選項詳解】\n- A. carboplatin：正確。Carboplatin 為 platinum 類抗癌藥，需依腎功能調整劑量，腎毒性是此類藥物的重要安全性考量；在本題四個選項中最符合「腎毒性較強」。\n- B. dacarbazine：屬 alkylating-like agent，常考毒性包含骨髓抑制、噁心嘔吐、肝毒性或 flu-like syndrome；腎毒性不是其最突出的代表毒性。\n- C. temozolomide：與 dacarbazine 相關，常用於 glioblastoma 等，主要限制毒性為骨髓抑制；不是以強腎毒性為主要考點。\n- D. mechlorethamine：nitrogen mustard 類，代表毒性包括骨髓抑制、噁心嘔吐與局部 vesicant 組織傷害；腎毒性不如 platinum 類具有考試代表性。\n\n【核心考點】\n抗癌藥毒性配對要抓藥物家族：platinum 類常連到腎毒性；dacarbazine/temozolomide 偏骨髓抑制與嘔吐，mechlorethamine 偏骨髓抑制與 vesicant 傷害。",
+      "key_point": "本題四個選項中，carboplatin 屬 platinum 類，最需要注意腎功能與腎毒性。",
+      "flashcard_front": "抗腫瘤藥毒性：carboplatin 的重要毒性",
+      "flashcard_back": "Carboplatin 屬 platinum 類，重要毒性包括骨髓抑制與腎功能相關安全性；本題選項中腎毒性最符合 carboplatin。",
+      "flashcard_summary": "抗癌藥腎毒性比較 -> carboplatin 在本題選項中最符合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n題幹給出兩個關鍵字：抑制 squalene epoxidase，以及治療指甲癬(onychomycosis)。Terbinafine 是 allylamine 類抗黴菌藥，抑制 squalene epoxidase，降低 ergosterol 合成並累積 squalene，常用於皮癬菌感染與指甲癬。\n\n【選項詳解】\n- A. nystatin：為 polyene 類，會結合真菌細胞膜 ergosterol 形成孔洞，常用於 Candida 相關局部感染；不是 squalene epoxidase 抑制劑，也不是治療指甲癬的代表答案。\n- B. terbinafine：正確。它抑制 squalene epoxidase，阻斷 ergosterol 合成早期步驟，是皮癬菌與 onychomycosis 的高頻用藥。\n- C. voriconazole：屬 azole 類，抑制 14-alpha-demethylase，常用於 Aspergillus 等侵襲性黴菌感染；機轉不是 squalene epoxidase。\n- D. itraconazole：也是 azole 類，抑制 14-alpha-demethylase，可用於某些黴菌感染且也可治療指甲癬，但題幹指定的 squalene epoxidase 機轉對應 terbinafine。\n\n【核心考點】\n抗黴菌藥機轉要分清：terbinafine 抑制 squalene epoxidase；azoles 抑制 14-alpha-demethylase；polyene 類如 nystatin/amphotericin B 結合 ergosterol。",
+      "key_point": "Terbinafine 抑制 squalene epoxidase，是治療皮癬菌與指甲癬的代表藥物。",
+      "flashcard_front": "抑制 squalene epoxidase 且治療 onychomycosis 的藥物",
+      "flashcard_back": "Terbinafine。Azoles 抑制 14-alpha-demethylase，nystatin 則結合 ergosterol。",
+      "flashcard_summary": "Onychomycosis + squalene epoxidase -> terbinafine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題問抗生素應用何者錯誤。關鍵在於 carbapenemase 會分解 carbapenem 與多種 beta-lactam，單用 ceftazidime 無法可靠治療產 carbapenemase 菌種；需要依酵素型別與感受性選擇含 beta-lactamase inhibitor 的組合或其他藥物。因此 C 是錯誤敘述。\n\n【選項詳解】\n- A. cefepime 可單獨用於對penicillin G 產生抗藥性的鏈球菌(streptococci)感染：不是本題錯誤選項。Cefepime 是第四代 cephalosporin，對許多革蘭陽性球菌與革蘭陰性菌有活性；題目要找最明顯錯誤者，並非此項。\n- B. ceftolozane-tazobactam 可併用於抗藥性革蘭氏陰性菌株的感染：不是本題錯誤選項。Ceftolozane-tazobactam 對許多抗藥性革蘭陰性菌，尤其 Pseudomonas aeruginosa，有臨床用途。\n- C. ceftazidime 可單獨用來治療能產生碳青黴烯酶(carbapenemase)的菌種感染：正確選項，因為這句是錯誤敘述。Carbapenemase 代表嚴重 beta-lactam 抗藥性，單用 ceftazidime 通常不可靠，需考慮 ceftazidime-avibactam 或其他依感受性選擇的治療。\n- D. ceftazidime-avibactam 需合併metronidazole 以用於治療複雜性腹腔內感染：不是本題錯誤選項。Ceftazidime-avibactam 缺乏足夠厭氧菌涵蓋，治療 complicated intra-abdominal infection 時常需合併 metronidazole 補足 anaerobes。\n\n【核心考點】\n產 carbapenemase 菌種不可用 ceftazidime 單藥概括治療；avibactam 等 beta-lactamase inhibitor 可擴展部分 beta-lactam 抗藥菌涵蓋，但仍需依菌種與感受性判斷。",
+      "key_point": "Carbapenemase-producing organisms 不能用 ceftazidime 單藥可靠治療；C 為錯誤敘述。",
+      "flashcard_front": "抗生素應用錯誤敘述：ceftazidime 與 carbapenemase",
+      "flashcard_back": "單用 ceftazidime 不能可靠治療產 carbapenemase 菌種；需依感受性選擇含抑制劑組合或其他有效藥物。",
+      "flashcard_summary": "Carbapenemase 菌種 -> ceftazidime 單藥不可靠",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n題幹指定 anti-CD19 CAR-T cell 產品，且用於 relapsed large B-cell lymphoma。Tisagenlecleucel 是自體 T 細胞經基因改造後表現針對 CD19 的 chimeric antigen receptor，可辨識 B 細胞惡性腫瘤上的 CD19，因此是正確答案。\n\n【選項詳解】\n- A. abatacept：為 CTLA-4-Ig fusion protein，抑制 T cell co-stimulation，常用於自體免疫疾病；它不是 CAR-T 產品，也不是 anti-CD19 細胞治療。\n- B. siponimod：為 sphingosine-1-phosphate receptor modulator，用於多發性硬化症相關治療；不是抗 CD19，也不是細胞治療。\n- C. teriflunomide：抑制 dihydroorotate dehydrogenase，降低活化淋巴球 pyrimidine 合成，用於多發性硬化症；不是 CAR-T。\n- D. tisagenlecleucel：正確。這是 anti-CD19 CAR-T cell therapy，可用於復發或難治性 B 細胞惡性腫瘤，包括 large B-cell lymphoma 相關適應症。\n\n【核心考點】\n看到 anti-CD19 CAR-T 與 B-cell lymphoma，要連到 tisagenlecleucel；abatacept 是 CTLA-4-Ig，siponimod 與 teriflunomide 則是多發性硬化症用藥。",
+      "key_point": "Tisagenlecleucel 是 anti-CD19 CAR-T cell therapy，可用於復發或難治性 B 細胞淋巴瘤相關治療。",
+      "flashcard_front": "Anti-CD19 CAR-T 用於 relapsed large B-cell lymphoma 的代表產品",
+      "flashcard_back": "Tisagenlecleucel。它是針對 CD19 的 CAR-T 細胞治療；abatacept、siponimod、teriflunomide 不是 CAR-T。",
+      "flashcard_summary": "Anti-CD19 CAR-T + large B-cell lymphoma -> tisagenlecleucel",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n題目問哪一種藥物無法治療 thrombocytopenia。Romiplostim 與 eltrombopag 都可刺激 thrombopoietin receptor，oprelvekin 是 IL-11 可促進血小板生成；plerixafor 則是 CXCR4 antagonist，主要用於造血幹細胞動員，不是治療血小板缺乏症的藥物。\n\n【選項詳解】\n- A. romiplostim：可治療血小板缺乏症。它是 thrombopoietin receptor agonist，促進 megakaryocyte 分化與血小板生成，常用於免疫性血小板低下等情境。\n- B. oprelvekin：可用於血小板生成支持。它是 recombinant interleukin-11，可刺激 megakaryocyte 與血小板生成，因此不是本題所問的「無法治療」。\n- C. eltrombopag：可治療血小板缺乏症。它是口服 thrombopoietin receptor agonist，可促進 platelet production。\n- D. plerixafor：正確。Plerixafor 抑制 CXCR4 與 SDF-1 的交互作用，使造血幹細胞從骨髓動員到周邊血，用於幹細胞收集；不是用來增加血小板治療 thrombocytopenia。\n\n【核心考點】\n治療 thrombocytopenia 常考 TPO receptor agonists，如 romiplostim、eltrombopag；plerixafor 是 CXCR4 antagonist，用於 hematopoietic stem cell mobilization。",
+      "key_point": "Plerixafor 是 CXCR4 antagonist，用於造血幹細胞動員，不是 thrombocytopenia 治療藥。",
+      "flashcard_front": "哪個藥物無法治療 thrombocytopenia：romiplostim、oprelvekin、eltrombopag、plerixafor",
+      "flashcard_back": "Plerixafor。Romiplostim/eltrombopag 是 TPO receptor agonists，oprelvekin 是 IL-11；plerixafor 用於幹細胞動員。",
+      "flashcard_summary": "Thrombocytopenia 藥物辨識 -> plerixafor 不治療血小板缺乏",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問 sickle cell disease 使用 hydroxyurea 的敘述何者錯誤。Hydroxyurea 可增加 fetal hemoglobin(HbF, gamma chain) 生成，HbF 會干擾 HbS 聚合，因此可降低 vaso-occlusive events。選項 D 說「減少」fetal hemoglobin gamma 生成，方向相反，所以是錯誤敘述。\n\n【選項詳解】\n- A. 可抑制ribonucleotide reductase 而產生抗癌作用：不是錯誤敘述。Hydroxyurea 的基本藥理機轉包含抑制 ribonucleotide reductase，降低 deoxyribonucleotide 供應，抑制 DNA 合成。\n- B. 可減少紅血球內β-hemoglobin S 的聚合反應：不是錯誤敘述。Hydroxyurea 增加 HbF 後，可減少 HbS polymerization，降低紅血球 sickling。\n- C. 可減低靜脈內栓塞現象(veno-occlusive events)：不是錯誤敘述。HbS 聚合與紅血球變形會導致 vaso-occlusive crisis；hydroxyurea 可減少這類事件。\n- D. 可減少fetal hemoglobin γ生成,而緩解症狀：正確選項，因為這句是錯的。Hydroxyurea 是增加而非減少 HbF/gamma chain，藉此緩解 sickle cell disease。\n\n【核心考點】\nHydroxyurea 在 sickle cell disease 的高頻重點是增加 HbF，減少 HbS polymerization 與 vaso-occlusive crises；若題目說它減少 HbF，就是錯誤敘述。",
+      "key_point": "Hydroxyurea 會增加 HbF(gamma chain)，減少 HbS 聚合與 vaso-occlusive events；D 的「減少 HbF」是錯的。",
+      "flashcard_front": "Sickle cell disease：hydroxyurea 如何改善症狀？",
+      "flashcard_back": "Hydroxyurea 增加 fetal hemoglobin(HbF) 生成，減少 HbS polymerization，因此降低 vaso-occlusive events。",
+      "flashcard_summary": "Hydroxyurea + sickle cell disease -> 增加 HbF，不是減少 HbF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nCanagliflozin 的字尾 -gliflozin 是 SGLT2 inhibitors 的典型線索。SGLT2 位於近端腎小管，負責再吸收濾過的 glucose；抑制後會增加尿糖排出，降低血糖。\n\n【選項詳解】\n- A. dipeptidyl peptidase 4(DPP-4)抑制劑：這類藥物常見字尾為 -gliptin，如 sitagliptin、linagliptin，作用是延長 incretin 活性；canagliflozin 不是 DPP-4 抑制劑。\n- B. glucagon-like peptide-1(GLP-1)受體致效劑：這類藥物常見字尾為 -tide 或 -glutide，如 exenatide、liraglutide、semaglutide；不是 canagliflozin 的分類。\n- C. sodium-glucose co-transporter 2(SGLT2)抑制劑：正確。Canagliflozin 抑制腎臟近端小管 SGLT2，減少 glucose reabsorption，造成 glucosuria 而降血糖。\n- D. α-glucosidase 抑制劑：代表藥如 acarbose、miglitol，作用於腸道刷狀緣，延緩碳水化合物分解與吸收；不是 canagliflozin。\n\n【核心考點】\n降血糖藥可用字尾和作用位置記憶：-gliflozin 是 SGLT2 inhibitor，作用在腎近端小管；-gliptin 是 DPP-4 inhibitor；-glutide 常提示 GLP-1 receptor agonist。",
+      "key_point": "Canagliflozin 是 SGLT2 inhibitor，抑制近端腎小管葡萄糖再吸收並增加尿糖排出。",
+      "flashcard_front": "Canagliflozin 的主要降血糖機轉",
+      "flashcard_back": "SGLT2 inhibition。Canagliflozin 抑制近端腎小管 glucose reabsorption，使尿糖排出增加。",
+      "flashcard_summary": "Canagliflozin -> SGLT2 inhibitor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nThioamides 包含 methimazole 與 propylthiouracil(PTU)，主要抑制 thyroid peroxidase，阻斷 iodide organification 與 iodotyrosine coupling。PTU 另外可抑制周邊 T4 轉成 T3。Thioamides 不會直接抑制已合成甲狀腺素的釋放；抑制釋放較符合 iodide 高劑量急性效果，因此 C 是錯誤敘述。\n\n【選項詳解】\n- A. 抑制甲狀腺過氧化酶(thyroid peroxidase)和阻斷碘的有機化過程(iodine organification)：不是錯誤敘述。這正是 thioamides 的主要機轉，會阻斷新甲狀腺素合成。\n- B. propylthiouracil 可抑制周邊T4的去碘作用,減少T3生成：不是錯誤敘述。PTU 有此額外作用，因此在 thyroid storm 等情境具有考試重要性。\n- C. 抑制甲狀腺素釋放：正確選項，因為這句是錯的。Thioamides 抑制新合成，不會快速阻止已存在於 colloid 中的 hormone release。\n- D. 降低碘酪胺酸(iodotyrosines)之偶合反應：不是錯誤敘述。Thyroid peroxidase 參與 MIT/DIT coupling，thioamides 抑制此步驟而降低 T3/T4 合成。\n\n【核心考點】\nThioamides 抑制 thyroid hormone synthesis，不抑制 hormone release；PTU 還能抑制 peripheral T4 to T3 conversion。",
+      "key_point": "Thioamides 抑制 TPO、organification 與 coupling；PTU 抑制 T4 轉 T3，但不直接抑制甲狀腺素釋放。",
+      "flashcard_front": "Thioamides 的錯誤機轉敘述",
+      "flashcard_back": "錯在「抑制甲狀腺素釋放」。Thioamides 抑制 TPO-mediated synthesis；PTU 另抑制 T4 -> T3。",
+      "flashcard_summary": "Thioamides -> 抑制合成，不抑制釋放",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:45+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

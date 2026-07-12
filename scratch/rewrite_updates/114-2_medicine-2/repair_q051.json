@@ -1,0 +1,23 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 51
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n題目問臨床試驗哪一階段主要用來確認治療效能與治療劑量範圍。Phase 2 通常是在已有初步人體安全性資料後，於目標疾病病人中評估藥效、劑量反應與常見不良反應；它的任務是判斷藥物是否有足夠療效訊號，並找出後續大型試驗可採用的劑量範圍。因此答案為第二階段。\n\n【選項詳解】\n- A. 第一階段(phase 1)：主要在少數健康受試者或特定病人中評估安全性、耐受性、藥物動力學與初步劑量，不是主要確認療效與治療劑量範圍的階段。\n- B. 第二階段(phase 2)：正確。此階段在目標病人族群中探索 efficacy、dose-ranging 與常見毒性，是把「安全可用」推進到「可能有效且劑量合理」的關鍵階段。\n- C. 第三階段(phase 3)：主要是大型、隨機對照試驗，用來確認療效與安全性、支持上市申請；劑量通常已在 phase 2 有較明確範圍。\n- D. 第四階段(phase 4)：屬上市後監測，重點是長期安全性、罕見副作用、真實世界使用與新適應症觀察，不是研發中主要做劑量探索的階段。\n\n【核心考點】\n臨床試驗分期要用目的區分：phase 1 看安全與藥動，phase 2 看初步療效與劑量範圍，phase 3 做大型確認，phase 4 做上市後監測。",
+      "key_point": "Phase 2 是在目標病人中評估初步療效、劑量反應與常見不良反應的主要階段。",
+      "flashcard_front": "臨床試驗分期：哪一階段主要確認治療效能與治療劑量範圍？",
+      "flashcard_back": "Phase 2。Phase 1 重安全與藥動，phase 2 重初步療效與 dose-ranging，phase 3 大型確認，phase 4 上市後監測。",
+      "flashcard_summary": "臨床試驗分期 -> phase 2 評估療效與治療劑量範圍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:32:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

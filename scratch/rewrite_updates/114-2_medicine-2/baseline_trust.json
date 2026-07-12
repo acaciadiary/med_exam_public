@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-12T12:11:50.737859+00:00",
+  "scope": {
+    "paths": [
+      "public/data/exams/114-2/medicine-2.json"
+    ],
+    "required_headings": [
+      "【題幹解析】",
+      "【選項詳解】",
+      "【核心考點】"
+    ],
+    "expected_option_labels": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "min_explanation_chars_no_space": 180,
+    "banned_template_phrases": [
+      "非本題答案",
+      "不是本題標準答案",
+      "回到題幹線索",
+      "請用題幹線索連回",
+      "題目中選項 A 所代表的鑑別或處置",
+      "不能最精準回答本題",
+      "最符合題幹",
+      "核心記憶點",
+      "定義、機轉、典型表現或處置原則"
+    ]
+  },
+  "summary": {
+    "dataset_count": 1,
+    "question_count": 100,
+    "risky_file_count": 1,
+    "issue_counts": {
+      "banned_template_phrase": 954
+    },
+    "phrase_counts": {
+      "不是本題標準答案": 297,
+      "回到題幹線索": 25,
+      "定義、機轉、典型表現或處置原則": 58,
+      "最符合題幹": 161,
+      "核心記憶點": 58,
+      "請用題幹線索連回": 58,
+      "非本題答案": 297
+    },
+    "review_status_counts": {
+      "ai_generated": 100
+    },
+    "reviewed_rate": 0.0,
+    "top_risky_files": [
+      {
+        "path": "public/data/exams/114-2/medicine-2.json",
+        "dataset_id": "114-2_medicine-2",
+        "question_count": 100,
+        "risk_score": 954,
+        "issue_counts": {
+          "banned_template_phrase": 954
+        },
+        "review_status_counts": {
+          "ai_generated": 100
+        },
+        "phrase_counts": {
+          "不是本題標準答案": 297,
+          "回到題幹線索": 25,
+          "定義、機轉、典型表現或處置原則": 58,
+          "最符合題幹": 161,
+          "核心記憶點": 58,
+          "請用題幹線索連回": 58,
+          "非本題答案": 297
+        }
+      }
+    ]
+  },
+  "incomplete_option_samples": [],
+  "missing_heading_samples": [],
+  "short_explanation_samples": [],
+  "files": [
+    {
+      "path": "public/data/exams/114-2/medicine-2.json",
+      "dataset_id": "114-2_medicine-2",
+      "title": "114 年第二次醫師國考：醫學（二）",
+      "question_count": 100,
+      "risk_score": 954,
+      "issue_counts": {
+        "banned_template_phrase": 954
+      },
+      "review_status_counts": {
+        "ai_generated": 100
+      },
+      "phrase_counts": {
+        "不是本題標準答案": 297,
+        "回到題幹線索": 25,
+        "定義、機轉、典型表現或處置原則": 58,
+        "最符合題幹": 161,
+        "核心記憶點": 58,
+        "請用題幹線索連回": 58,
+        "非本題答案": 297
+      },
+      "samples": {
+        "missing_headings": [],
+        "incomplete_options": [],
+        "short_explanations": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n化療引起噁心嘔吐（chemotherapy-induced nausea and vomiting, CINV）常與腸嗜鉻細胞釋放 serotonin，刺激迷走神經與腦幹嘔吐中樞的 5-HT3 receptor 有關。化療前預防性給藥時，5-HT3 受體拮抗劑 ondansetron 是典型用藥，因此本題選 D。\n\n【選項詳解】\n- A. ketanserin 主要拮抗 5-HT2 receptor，並有 alpha-1 阻斷作用，藥理重點偏向血管平滑肌與血壓調節，不是化療噁心嘔吐預防的標準 5-HT3 拮抗劑。\n- B. cyproheptadine 是 H1 抗組織胺且具 5-HT2 拮抗作用，常考用途包括過敏、食慾促進或 serotonin syndrome 輔助治療；它不是 CINV 的首選止吐藥。\n- C. ritanserin 主要為 5-HT2 receptor antagonist，考點與精神藥理或 serotonin 受體分類較相關，無法對應化療嘔吐的 5-HT3 路徑。\n- D. ondansetron 是 5-HT3 receptor antagonist，可阻斷周邊迷走神經傳入與中樞 chemoreceptor trigger zone 的 serotonin 訊號，能有效預防或緩解化療相關噁心嘔吐。\n\n【核心考點】\n化療噁心嘔吐的高頻考點是 5-HT3 receptor；看到化療前預防噁心嘔吐，優先想到 ondansetron、granisetron 等 5-HT3 antagonist，而不是 5-HT2 antagonist。",
+      "key_point": "化療引起噁心嘔吐的典型預防用藥是 5-HT3 receptor antagonist ondansetron。",
+      "flashcard_front": "化療前預防噁心嘔吐的典型 serotonin 受體拮抗藥",
+      "flashcard_back": "Ondansetron；它是 5-HT3 receptor antagonist，可阻斷化療誘發 serotonin 訊號造成的嘔吐反射。",
+      "flashcard_summary": "CINV -> 5-HT3 receptor antagonist -> ondansetron",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n題目問 sodium channel blockers 類抗癲癇藥何者錯誤，官方答案 A 代表 A 的敘述需要修正。Phenytoin 會偏好結合並穩定 voltage-gated sodium channel 的 inactivated state，延長通道不活化時間，減少高頻放電；它不是讓通道快速回到 resting state。\n\n【選項詳解】\n- A. phenytoin 確實偏好 inactivated state 的 sodium channel，但其效果是穩定不活化狀態、延長 refractory period，抑制神經元高頻重複放電；「使其快速進入 resting state」方向相反，所以是錯誤敘述。\n- B. lamotrigine 可阻斷 voltage-gated sodium channel，具有 use-dependent blocking，對快速反覆放電的神經元抑制較明顯，這正是抗癲癇藥常見的選擇性基礎。\n- C. Dravet syndrome 常與 SCN1A 相關，sodium channel blocker 可能使部分患者癲癇惡化；oxcarbazepine 屬此類藥物，因此此敘述可成立。\n- D. carbamazepine 可引起嚴重皮膚不良反應，包括 Stevens-Johnson syndrome／toxic epidermal necrolysis，特定族群與 HLA-B*1502 相關風險較高，故此敘述正確。\n\n【核心考點】\nPhenytoin 類 sodium channel blocker 的關鍵是「穩定 inactivated state、延長不活化、抑制高頻放電」，不是促進通道快速回到 resting state。",
+      "key_point": "Phenytoin 穩定 sodium channel 的 inactivated state，延長 refractory period；說它快速回到 resting state 是錯誤。",
+      "flashcard_front": "Phenytoin 對 voltage-gated sodium channel 的作用",
+      "flashcard_back": "偏好並穩定 inactivated state，延長不活化與 refractory period，抑制高頻重複放電。",
+      "flashcard_summary": "phenytoin -> stabilizes inactivated Na+ channel -> not rapid resting-state recovery",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n題幹同時給兩個線索：長效型、醯胺類（amide），且心臟毒性較明顯。Bupivacaine 是長效 amide local anesthetic，與心肌 sodium channel 結合較強，過量或誤入血管時較容易造成嚴重心律不整與心血管毒性，因此選 A。\n\n【選項詳解】\n- A. bupivacaine 是長效型 amide 類局部麻醉劑，脂溶性與蛋白結合高，心臟毒性較 lidocaine 明顯，典型可造成心律不整、傳導阻滯甚至心血管崩潰。\n- B. procaine 是 ester 類局部麻醉劑，作用時間較短，主要由 plasma pseudocholinesterase 代謝；它不符合「長效型 amide」這個關鍵描述。\n- C. lidocaine 是 amide 類，但通常屬中效型，且本身也可作為 class Ib 抗心律不整藥；相較 bupivacaine，心臟毒性不是本題最典型答案。\n- D. cocaine 是 ester 類局部麻醉劑，另有抑制 norepinephrine reuptake 造成交感活性上升的特色；它不屬長效 amide 類。\n\n【核心考點】\n局部麻醉劑分類常考「amide vs ester」與毒性：bupivacaine 是長效 amide，心臟毒性特別需要記住。",
+      "key_point": "Bupivacaine 是長效 amide 局部麻醉劑，心臟毒性較明顯。",
+      "flashcard_front": "長效 amide 局部麻醉劑且心臟毒性明顯",
+      "flashcard_back": "Bupivacaine；相較 lidocaine 更容易造成嚴重心律不整與心血管毒性。",
+      "flashcard_summary": "local anesthetic -> long-acting amide + cardiotoxicity -> bupivacaine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\nEntacapone 是 catechol-O-methyltransferase（COMT）抑制劑，主要作用在周邊組織。與 levodopa 併用時，可減少 levodopa 在周邊被甲基化成 3-O-methyldopa，使更多 levodopa 進入中樞並延長作用時間，因此選 B。\n\n【選項詳解】\n- A. 抑制腦部 monoamine oxidase B 是 selegiline、rasagiline、safinamide 等 MAO-B inhibitor 的考點，不是 entacapone 的主要機轉。\n- B. entacapone 抑制周邊 COMT，減少 levodopa 周邊代謝，延長 levodopa 半衰期與臨床作用，可改善 wearing-off，是本題正確敘述。\n- C. 3-O-methyldopa 是 levodopa 經 COMT 代謝的產物；entacapone 應是降低而非增加其生成，因此此敘述方向錯誤。\n- D. 促進中樞神經末梢 dopamine 釋放較像 amantadine 的部分機轉；entacapone 不靠直接促進 dopamine 釋放治療巴金森氏病。\n\n【核心考點】\nEntacapone＝周邊 COMT inhibitor；它是透過延長 levodopa 作用來改善巴金森症狀，不是 MAO-B inhibitor，也不是 dopamine releaser。",
+      "key_point": "Entacapone 抑制周邊 COMT，減少 levodopa 代謝並延長 levodopa 作用。",
+      "flashcard_front": "Entacapone 併用 levodopa 的主要作用",
+      "flashcard_back": "抑制周邊 COMT，降低 levodopa 轉成 3-O-methyldopa，延長 levodopa 作用。",
+      "flashcard_summary": "entacapone -> peripheral COMT inhibition -> prolongs levodopa",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nAcetaminophen 過量時，CYP450 代謝產生的 NAPQI 會耗竭肝臟 glutathione，造成肝細胞毒性。Acetylcysteine（N-acetylcysteine, NAC）提供 cysteine 作為 glutathione 合成前驅物，補充 glutathione 來解毒 NAPQI，因此選 C。\n\n【選項詳解】\n- A. aminotransferase 上升是肝細胞受損的指標，不是 acetylcysteine 的解毒機轉；NAC 不靠抑制 AST/ALT 類轉胺酵素來治療中毒。\n- B. 增加 CYP450 活性會產生更多毒性代謝物 NAPQI，理論上會加重 acetaminophen 肝毒性，不是解毒作用。\n- C. acetylcysteine 補充 glutathione 合成所需前驅物，幫助肝臟以 glutathione 結合並清除 NAPQI，是治療 acetaminophen 中毒的核心機轉。\n- D. 抑制 cyclooxygenase-2 是部分 NSAID 或 COX-2 inhibitor 的抗發炎考點，與 NAC 解 acetaminophen 中毒的主要機轉無關。\n\n【核心考點】\nAcetaminophen 中毒的毒性關鍵是 NAPQI 與 glutathione 耗竭；N-acetylcysteine 的治療重點是補充 glutathione。",
+      "key_point": "Acetylcysteine 治療 acetaminophen 中毒是靠補充 glutathione，以清除毒性代謝物 NAPQI。",
+      "flashcard_front": "N-acetylcysteine 治療 acetaminophen 中毒的解毒機轉",
+      "flashcard_back": "提供 cysteine 以增加 glutathione，讓 glutathione 結合並清除 NAPQI。",
+      "flashcard_summary": "acetaminophen overdose -> NAPQI + low GSH -> NAC increases glutathione",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n死亡細胞在顯微鏡下出現強烈嗜酸性紅色細胞質、細胞核模糊或逐漸消失，典型反映蛋白質變性與細胞輪廓暫時保留，屬凝固性壞死（coagulative necrosis）的形態。這常見於多數實質器官缺血性梗塞，因此選 D。\n\n【選項詳解】\n- A. liquefactive necrosis 以組織被酵素消化成液化壞死物為主，典型見於腦梗塞或膿瘍；不以保留細胞輪廓與強嗜酸性細胞質為主要描述。\n- B. caseous necrosis 典型見於結核病肉芽腫，呈乾酪樣、顆粒狀無定形壞死，顯微鏡下不保留清楚細胞輪廓。\n- C. fibrinoid necrosis 常見於免疫性血管炎或嚴重高血壓造成血管壁損傷，特徵是血管壁出現類纖維素樣粉紅沉積，不是一般死亡細胞的典型嗜酸性變化。\n- D. coagulative necrosis 因蛋白質變性使細胞質更嗜酸，細胞核可出現 pyknosis、karyorrhexis、karyolysis，且組織架構短期內仍保留，符合題幹。\n\n【核心考點】\n凝固性壞死的顯微特徵是蛋白變性、細胞質嗜酸性增加、細胞核逐漸消失且組織輪廓暫時保留。",
+      "key_point": "強嗜酸性細胞質、核模糊或消失且輪廓暫時保留，典型是 coagulative necrosis。",
+      "flashcard_front": "死亡細胞強嗜酸性紅色細胞質、核模糊，最符合哪種壞死？",
+      "flashcard_back": "Coagulative necrosis；常見於多數實質器官缺血性梗塞。",
+      "flashcard_summary": "eosinophilic cytoplasm + fading nuclei + preserved outline -> coagulative necrosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n不可逆細胞損傷的核心標誌包括嚴重粒線體功能障礙、粒線體膜通透性改變、膜系統破壞與細胞內容物外漏。若粒線體蛋白外漏，代表粒線體完整性已失守，細胞已越過可逆損傷階段，因此選 A。\n\n【選項詳解】\n- A. leakage of mitochondrial proteins 代表粒線體膜受嚴重損傷，可能伴隨 cytochrome c 等蛋白釋放與能量生成崩潰，是不可逆損傷的重要線索。\n- B. endoplasmic reticulum dilation 是細胞水腫與蛋白合成受影響時可見的可逆變化，若壓力解除仍可能恢復。\n- C. rapid glycogen depletion 常見於缺氧早期，因無氧糖解消耗 glycogen；這是能量不足的早期反應，不足以單獨判定不可逆。\n- D. endoplasmic reticulum ribosomes detachment 會造成蛋白質合成下降，是可逆細胞損傷常見變化之一，不是不可逆損傷的決定性標誌。\n\n【核心考點】\n可逆損傷常見細胞水腫、ER 擴張、ribosome 脫落與 glycogen 減少；不可逆損傷要想到嚴重粒線體損害與膜完整性破壞。",
+      "key_point": "粒線體蛋白外漏代表粒線體完整性嚴重破壞，是不可逆細胞損傷的線索。",
+      "flashcard_front": "判斷 irreversible cell injury 的關鍵粒線體變化",
+      "flashcard_back": "Leakage of mitochondrial proteins；相較之下 ER dilation、glycogen depletion、ribosome detachment 多屬可逆損傷。",
+      "flashcard_summary": "irreversible injury -> mitochondrial protein leakage and membrane failure",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nMarfan syndrome 是 fibrillin-1（FBN1）異常造成的結締組織疾病，通常為體染色體顯性遺傳。典型表現包括高瘦身材、蜘蛛指、晶體半脫位與主動脈根部擴大；其中主動脈根部擴大可導致主動脈剝離，是重要致命併發症，因此選 D。\n\n【選項詳解】\n- A. Marfan syndrome 的主要異常是 fibrillin-1 與彈性纖維微纖維結構，不是 collagen 本身異常；collagen 異常更常連到 Ehlers-Danlos syndrome 或 osteogenesis imperfecta 等考點。\n- B. Marfan syndrome 多為 autosomal dominant，不是體染色體隱性遺傳，因此此選項錯在遺傳模式。\n- C. Marfan syndrome 典型是身材高瘦、四肢與手指細長，不是身材矮小；矮小反而提示其他骨骼發育或染色體疾病。\n- D. 主動脈根部擴大是 Marfan syndrome 的典型心血管表現，會增加 aortic regurgitation 與 aortic dissection 風險，符合題目問正確描述。\n\n【核心考點】\nMarfan syndrome＝FBN1／fibrillin-1、autosomal dominant、高瘦體型與主動脈根部擴大；不要誤記成 collagen 疾病或隱性遺傳。",
+      "key_point": "Marfan syndrome 是 FBN1/fibrillin-1 異常、體染色體顯性遺傳，重要併發症是主動脈根部擴大。",
+      "flashcard_front": "Marfan syndrome 的典型心血管表現",
+      "flashcard_back": "主動脈根部擴大，可導致主動脈瓣閉鎖不全與主動脈剝離。",
+      "flashcard_summary": "Marfan syndrome -> FBN1 AD -> aortic root dilation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nPemphigus vulgaris 是自體抗體攻擊表皮細胞間 desmosome 蛋白，尤其 desmoglein，造成表皮內水泡與黏膜糜爛。這種由 IgG 抗體直接針對細胞表面或細胞間結構造成病變的機轉，屬第二型過敏反應，因此選 B。\n\n【選項詳解】\n- A. 第一型過敏反應是 IgE 與肥大細胞媒介的立即型反應，例如過敏性鼻炎、氣喘、蕁麻疹或 anaphylaxis；pemphigus vulgaris 不是 IgE 過敏。\n- B. 第二型過敏反應由 IgG 或 IgM 針對細胞表面、基底膜或受體抗原，造成細胞破壞或功能改變；pemphigus vulgaris 的抗 desmoglein IgG 符合此類型。\n- C. 第三型過敏反應是免疫複合體沉積造成發炎，例如 serum sickness、SLE 部分表現或 poststreptococcal glomerulonephritis；不是本題的 desmosome 自體抗體機轉。\n- D. 第四型過敏反應由 T cell 媒介，典型如接觸性皮膚炎、結核菌素測試或肉芽腫反應；pemphigus vulgaris 的主要考點不是延遲型 T 細胞反應。\n\n【核心考點】\nPemphigus vulgaris 是抗 desmoglein IgG 造成 acantholysis，歸類為第二型過敏反應。",
+      "key_point": "天皰瘡是抗 desmoglein IgG 造成表皮細胞間連結破壞，屬第二型過敏反應。",
+      "flashcard_front": "Pemphigus vulgaris 的過敏反應分類與目標抗原",
+      "flashcard_back": "第二型過敏反應；IgG 抗 desmoglein，造成表皮內水泡與 acantholysis。",
+      "flashcard_summary": "pemphigus vulgaris -> anti-desmoglein IgG -> type II hypersensitivity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n一氧化碳會與 hemoglobin 高親和力結合形成 carboxyhemoglobin，造成組織缺氧，並可干擾粒線體氧化代謝。中樞神經中，基底核特別是 globus pallidus 對缺氧與代謝毒性敏感，是一氧化碳中毒常考受損部位，因此選 C。\n\n【選項詳解】\n- A. 大腦半球可在嚴重缺氧時受影響，但不是慢性或典型一氧化碳中毒題目最具辨識度的首選部位。\n- B. 小腦缺氧可造成共濟失調等症狀，但一氧化碳中毒的病理與影像考點通常不是以小腦為主。\n- C. 基底核，尤其 globus pallidus，對一氧化碳造成的低氧與細胞毒性特別敏感，常出現雙側病灶，是本題正確答案。\n- D. 胼胝體不是一氧化碳中毒最典型的主要缺氧受損位置；題目若問 CO 中毒定位，應優先連到 basal ganglia/globus pallidus。\n\n【核心考點】\n一氧化碳中毒的神經病理高頻定位是基底核，特別是 globus pallidus；機轉來自 carboxyhemoglobin 造成缺氧與粒線體毒性。",
+      "key_point": "一氧化碳中毒最典型影響基底核，尤其 globus pallidus。",
+      "flashcard_front": "慢性一氧化碳中毒中樞神經常考受損部位",
+      "flashcard_back": "基底核，尤其 globus pallidus，因對缺氧與代謝毒性敏感。",
+      "flashcard_summary": "carbon monoxide poisoning -> basal ganglia/globus pallidus hypoxic injury",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:26+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

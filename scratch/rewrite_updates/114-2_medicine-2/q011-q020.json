@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題考致癌性病毒與宿主腫瘤抑制蛋白的對應關係。SV40 large T antigen 可結合並抑制 p53 與 Rb 家族蛋白，解除細胞週期煞車；HPV E6 對應 p53，HPV E7 對應 Rb；腺病毒 E1A 對應 Rb，E1B 對應 p53。\n\n【選項詳解】\n- A. SV40 的 T antigen 可與宿主細胞的 p53、Rb 等腫瘤抑制蛋白互動，促進細胞進入 S phase，是多瘤病毒致癌機制的經典考點。\n- B. SV40 可在動物與細胞實驗中造成轉形與腫瘤，但其在人類腫瘤中的致病角色並未作為明確常規結論，不能把它寫成已確定在人類形成腫瘤。\n- C. HPV 的 E7 主要結合 Rb 蛋白，使 E2F 釋放並推動細胞週期；與 p53 蛋白相關的是 HPV E6，會促進 p53 降解。\n- D. 腺病毒 E1B 主要與 p53 相關，可抑制 p53 介導的凋亡；與 p105RB 結合的是 E1A，而非 E1B。\n\n【核心考點】\nDNA 腫瘤病毒常以病毒蛋白關閉 p53 或 Rb 兩條腫瘤抑制路徑。常背配對是 HPV E6-p53、HPV E7-Rb、adenovirus E1A-Rb、adenovirus E1B-p53、SV40 T antigen-p53/Rb。",
+      "key_point": "SV40 large T antigen 可結合 p53 與 Rb 等腫瘤抑制蛋白；HPV E6 對 p53，HPV E7 對 Rb。",
+      "flashcard_front": "Oncogenic DNA virus：SV40 T antigen、HPV E6/E7、adenovirus E1A/E1B 對應哪類宿主蛋白？",
+      "flashcard_back": "SV40 T antigen 可結合 p53/Rb；HPV E6 促進 p53 降解，HPV E7 抑制 Rb；adenovirus E1A 抑制 Rb，E1B 抑制 p53 相關凋亡。",
+      "flashcard_summary": "Oncogenic virus -> 病毒蛋白常鎖定 p53 或 Rb；SV40 T antigen 可結合腫瘤抑制蛋白。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題同時考肝炎病毒疫苗與抗病毒治療。HAV 與 HBV 已有疫苗；HDV 依賴 HBV 外套膜，預防 HBV 也能間接預防 HDV；HCV 目前沒有核准疫苗，但直接作用抗病毒藥物可使多數感染者達到病毒清除。\n\n【選項詳解】\n- A. HAV 有不活化疫苗可預防，通常造成急性感染，治療以支持療法為主，與題目要求的「尚未有疫苗但可用抗病毒藥治癒」不同。\n- B. HBV 有有效疫苗；慢性 HBV 常用核苷酸或核苷類藥物長期抑制病毒，功能性治癒比例有限，不是題目描述的典型對象。\n- C. HCV 目前沒有可用疫苗；以 direct-acting antivirals 治療 8 至 12 週可讓大多數病人達到 sustained virologic response，臨床上視為治癒。\n- D. HDV 需要 HBV 提供 HBsAg 才能形成完整病毒顆粒，因此 HBV 疫苗可間接預防 HDV；治療也不像 HCV 那樣以短期口服藥達到高治癒率。\n\n【核心考點】\n肝炎病毒常考配對：HAV、HBV 有疫苗；HCV 無疫苗但可用 DAA 高比例治癒；HDV 依賴 HBV，預防 HBV 可阻斷多數 HDV 感染風險。",
+      "key_point": "HCV 尚無疫苗，但 direct-acting antivirals 可讓多數病人達到 SVR，臨床上視為治癒。",
+      "flashcard_front": "哪個肝炎病毒目前無疫苗，但可用抗病毒藥物高比例治癒？",
+      "flashcard_back": "HCV。HAV、HBV 有疫苗；HDV 依賴 HBV，因此 HBV 疫苗可間接預防 HDV；HCV 以 DAA 治療後多數可達 SVR。",
+      "flashcard_summary": "Hepatitis vaccine/treatment -> HCV 無疫苗，可用 DAA 高比例治癒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題是反向題，要求找出關於 influenza neuraminidase 的錯誤敘述。NA 位於病毒套膜表面，會切割 sialic acid，幫助新生病毒自宿主細胞釋放；治療上 oseltamivir、zanamivir 等才是 NA 抑制劑。Amantadine 類藥物作用在 influenza A 的 M2 proton channel。\n\n【選項詳解】\n- A. NA 是具有酵素活性的表面醣蛋白，可切割宿主細胞表面的 sialic acid，使病毒顆粒較容易離開細胞並擴散。\n- B. A 型流感病毒依 HA 與 NA 亞型分類，NA 有多種亞型，這也是 H、N 命名的來源之一。\n- C. Amantadine 類藥物抑制的是 M2 proton channel，影響病毒脫殼；NA 的藥物靶點是 oseltamivir、zanamivir、peramivir 等 neuraminidase inhibitors，因此此敘述錯置藥物靶點。\n- D. NA 在病毒套膜上以 tetramer 形式存在，四聚體結構與其酵素功能相關。\n\n【核心考點】\n流感抗病毒藥物靶點要分清楚：amantadine/rimantadine 對 M2；oseltamivir、zanamivir、peramivir 對 NA；baloxavir 對 cap-dependent endonuclease。",
+      "key_point": "Influenza NA 幫助病毒釋放；amantadine 抑制 M2 proton channel，不是 NA。",
+      "flashcard_front": "Influenza neuraminidase 的功能與 amantadine 的作用靶點？",
+      "flashcard_back": "NA 切割 sialic acid，幫助病毒釋放，並形成 tetramer；amantadine 類藥物作用於 influenza A 的 M2 proton channel。",
+      "flashcard_summary": "Influenza NA -> 病毒釋放與 NA inhibitor；amantadine -> M2 channel。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題是反向題，重點在 rotavirus 的基因體、腸胃道適應性與感染顆粒成熟。Rotavirus 是 Reoviridae 的非套膜、分節雙股 RNA 病毒；在腸道中經胰蛋白酶等蛋白酶處理外層蛋白 VP4 後，會形成 intermediate subviral particle，感染力反而提升。\n\n【選項詳解】\n- A. Rotavirus 屬雙股 RNA 病毒，且沒有套膜，這使它對胃酸、膽汁與環境較有抵抗力。\n- B. 蛋白酶處理會切割 VP4，產生 VP5 與 VP8，促進附著與穿入細胞；ISVP 是感染過程中更活化的型態，說它不具感染力是錯誤方向。\n- C. Rotavirus 的基因體是多段 RNA，分節基因體也是重配與抗原變異的重要基礎。\n- D. Rotavirus 對腸胃道環境耐受性高，與其非套膜結構及腸道內蛋白酶活化感染力有關。\n\n【核心考點】\nRotavirus 是分節雙股 RNA、非套膜病毒；腸道蛋白酶處理 VP4 後形成 ISVP，感染力增加而不是消失。",
+      "key_point": "Rotavirus 經蛋白酶處理形成 ISVP 後感染力增加；它是分節雙股 RNA、非套膜病毒。",
+      "flashcard_front": "Rotavirus 的基因體與 ISVP 感染力有何特徵？",
+      "flashcard_back": "Rotavirus 為分節雙股 RNA 病毒；蛋白酶切割 VP4 形成 ISVP，會促進細胞進入與感染。",
+      "flashcard_summary": "Rotavirus -> segmented dsRNA、non-enveloped、protease-activated ISVP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題考 measles virus 的病毒分類、基因體與皮疹病理。麻疹病毒屬 Paramyxoviridae 的 Morbillivirus，為單股負股 RNA、非分節基因體，血清型單一；典型斑丘疹與 T 細胞攻擊感染上皮細胞及免疫反應有關。\n\n【選項詳解】\n- A. 麻疹病毒現代分類是 Paramyxoviridae、Morbillivirus；「黏液病毒」是較舊且範圍模糊的稱呼，不如明確分類精準。\n- B. 八段單股 RNA 是 influenza virus 的典型特徵；麻疹病毒為不分節的負股 RNA，不是八段基因體。\n- C. 麻疹病毒只有一個主要血清型，這也是麻疹疫苗能長期有效的重要原因之一。\n- D. 麻疹皮疹來自宿主細胞免疫反應，T 細胞攻擊受感染的上皮與內皮相關細胞，形成全身斑丘疹；免疫低下者反而可能皮疹不明顯但病程更嚴重。\n\n【核心考點】\nMeasles virus 是 Paramyxoviridae、Morbillivirus、單股負股 RNA、非分節、單一血清型；皮疹是細胞免疫反應造成的表現。",
+      "key_point": "麻疹病毒為非分節負股 RNA、單一血清型；斑丘疹主要由 T 細胞免疫反應造成。",
+      "flashcard_front": "Measles virus 的基因體、血清型與皮疹病理？",
+      "flashcard_back": "Paramyxoviridae/Morbillivirus；非分節負股 RNA；單一血清型；皮疹與 T 細胞攻擊感染上皮細胞的免疫反應有關。",
+      "flashcard_summary": "Measles -> nonsegmented -RNA、single serotype、T-cell mediated rash。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題是反向題，考 Zika virus 的宿主、傳播與基因體。Zika 是 Flavivirus，屬有套膜的正股單股 RNA 病毒，主要由 Aedes 蚊傳播，也可經性接觸與母胎傳播；孕期感染與胎兒小頭症及其他先天缺陷有關。\n\n【選項詳解】\n- A. Zika 最早即從猴類與蚊媒循環中被發現，非人靈長類可作為宿主或自然循環的一環。\n- B. Zika 雖主要經 Aedes 蚊傳播，但可經性接觸直接人傳人，也可由孕婦傳給胎兒，因此不完全依賴蚊媒。\n- C. Zika virus 為正股單股 RNA flavivirus；把它寫成負股 RNA 會混淆到 orthomyxovirus、paramyxovirus 等負股 RNA 病毒。\n- D. 孕婦感染 Zika 可造成先天性 Zika syndrome，包含小頭症與腦部、眼部等發育異常，是 2015 至 2016 年疫情的重要公共衛生焦點。\n\n【核心考點】\nZika 是 Flavivirus，基因體為正股單股 RNA；傳播可經 Aedes 蚊、性接觸與母胎路徑；孕期感染可造成胎兒小頭症。",
+      "key_point": "Zika virus 是正股單股 RNA flavivirus，可經蚊媒、性接觸與母胎傳播；孕期感染可致小頭症。",
+      "flashcard_front": "Zika virus 的基因體與傳播方式？",
+      "flashcard_back": "Zika 是有套膜正股單股 RNA flavivirus；主要經 Aedes 蚊，亦可經性接觸與母胎傳播，孕期感染可造成小頭症。",
+      "flashcard_summary": "Zika -> +ssRNA flavivirus、Aedes/sexual/vertical transmission、microcephaly。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考 Malassezia 的脂質依賴性。大多數 Malassezia 需要外源脂質才能生長，因為缺乏完整脂肪酸合成能力；Malassezia pachydermatis 是重要例外，可在不額外添加脂質的培養基上生長。\n\n【選項詳解】\n- A. Malassezia pachydermatis 常與犬貓皮膚與外耳疾病相關，是少數不具明顯脂質依賴性的 Malassezia，可在一般培養基上生長。\n- B. Malassezia furfur 是人類花斑癬與相關皮膚病變常見菌種，通常需含脂質培養條件。\n- C. Malassezia globosa 是頭皮屑、脂漏性皮膚炎與花斑癬相關菌種之一，屬脂質依賴型。\n- D. Malassezia japonica 也屬脂質依賴型，培養時需提供脂質來源。\n\n【核心考點】\nMalassezia 多數脂質依賴；考題常用例外是 M. pachydermatis，可在不含脂質的培養基生長。",
+      "key_point": "Malassezia pachydermatis 是 Malassezia 中可在不含外加脂質培養基生長的例外。",
+      "flashcard_front": "哪種 Malassezia 可在不含脂質的培養基上生長？",
+      "flashcard_back": "Malassezia pachydermatis。多數 Malassezia 如 M. furfur、M. globosa、M. japonica 需外源脂質。",
+      "flashcard_summary": "Malassezia culture -> M. pachydermatis 不需外加脂質；多數其他種脂質依賴。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題考腸道病原初始辨識的位置。吃入 Salmonella enterica 後，最早接觸並啟動局部免疫反應的是腸黏膜屏障與 gut-associated lymphoid tissue，包含 Peyer patches、M cells、樹突細胞與局部淋巴組織。\n\n【選項詳解】\n- A. 脾臟主要過濾血液中抗原與被血液帶來的微生物；沙門氏菌從腸道進入時，初始辨識不會先在脾臟完成。\n- B. 胸腺是 T 細胞成熟與選擇的器官，不是攝入性腸道病原的第一線抗原偵測部位。\n- C. 腸黏膜相關淋巴組織位在病原進入的黏膜現場，可透過 M cells 與抗原呈現細胞啟動先天與適應性免疫，是沙門氏菌腸胃炎早期反應的關鍵位置。\n- D. 肝臟可透過門脈系統處理來自腸道的抗原與細菌產物，也參與系統性感染反應，但不是吃入污染食物後最早辨識的黏膜免疫部位。\n\n【核心考點】\n黏膜感染先看入口處的 mucosa-associated lymphoid tissue。腸道病原如 Salmonella enterica 的早期辨識重點是 GALT，而非脾臟、胸腺或肝臟。",
+      "key_point": "腸道病原初始辨識在 GALT；Peyer patches、M cells 與局部抗原呈現細胞啟動反應。",
+      "flashcard_front": "吃入 Salmonella enterica 後，最早辨識並反應的免疫部位？",
+      "flashcard_back": "腸黏膜相關淋巴組織 GALT，包含 Peyer patches 與 M cells，負責腸道病原的局部抗原偵測與免疫啟動。",
+      "flashcard_summary": "Salmonella ingestion -> GALT/Peyer patches 是腸道局部免疫第一線。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考抗原抗體結合的物理化學特性。抗體與抗原之間主要靠多個非共價作用力共同累積親和力，例如氫鍵、靜電作用、范德瓦爾斯力與疏水作用；共價鍵通常不參與一般抗原抗體辨識。\n\n【選項詳解】\n- A. 范德瓦爾斯力雖然單一作用弱，但在互補表面大量累積後可穩定抗原抗體結合。\n- B. 氫鍵常發生在抗體互補決定區與抗原表面的極性基團之間，是特異性辨識的重要來源之一。\n- C. 偶極-偶極力屬非共價作用，與分子表面電荷分布及極性基團排列有關，可參與結合穩定。\n- D. 共價鍵需要形成共享電子對，通常不是可逆性抗原抗體結合的主要來源；若靠共價鍵，會失去一般免疫辨識所需的可逆與動態特性。\n\n【核心考點】\n抗原抗體結合靠非共價作用力累積，不靠共價鍵。常見作用包含氫鍵、靜電作用、范德瓦爾斯力與疏水作用。",
+      "key_point": "抗原抗體結合主要由非共價作用力維持；共價鍵參與最少。",
+      "flashcard_front": "抗原抗體作用主要靠哪些力？哪一種參與最少？",
+      "flashcard_back": "主要靠氫鍵、靜電作用、范德瓦爾斯力、疏水作用等非共價作用；共價鍵在一般抗原抗體辨識中參與最少。",
+      "flashcard_summary": "Antigen-antibody binding -> noncovalent forces dominate；covalent bond minimal。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題是反向題，考 MHC class I 與 class II 的結構和 T 細胞對應。MHC I 由一條多型性的重鏈加上 β2-microglobulin 組成，呈獻較短胜肽給 CD8 T 細胞；MHC II 由 α chain 與 β chain 組成，兩條鏈共同形成 peptide-binding groove，呈獻較長胜肽給 CD4 T 細胞。\n\n【選項詳解】\n- A. MHC I 的 peptide-binding groove 兩端較封閉，常呈獻約 8 至 10 個胺基酸的短胜肽；MHC II 溝槽兩端較開放，可容納較長胜肽。\n- B. MHC I 對應 CD8 T 細胞，主要處理內源性抗原；MHC II 對應 CD4 T 細胞，主要呈獻外源性抗原，這是免疫學基本配對。\n- C. MHC II 由 α chain 與 β chain 組成，兩者共同形成抗原胜肽結合溝槽；在許多 MHC II 分子中 β chain 的多型性特別明顯，是考試常見描述。\n- D. MHC I 的 β2-microglobulin 不形成 peptide-binding groove，這半句正確；但 MHC II 的 α chain 會與 β chain 一起形成抗原結合溝槽並接觸胜肽，因此把 class II 的 α chain 說成不接觸抗原是錯誤。\n\n【核心考點】\nMHC I：重鏈加 β2-microglobulin，給 CD8，短胜肽；MHC II：α 與 β 兩條鏈共同形成結合溝槽，給 CD4，較長胜肽。",
+      "key_point": "MHC II 的 α chain 與 β chain 共同形成 peptide-binding groove；不能把 α chain 視為不接觸抗原。",
+      "flashcard_front": "MHC I 與 MHC II 的鏈組成、胜肽長度與 T 細胞對應？",
+      "flashcard_back": "MHC I：重鏈 + β2-microglobulin，短胜肽，呈獻給 CD8。MHC II：α + β 兩鏈共同形成 groove，較長胜肽，呈獻給 CD4。",
+      "flashcard_summary": "MHC -> I: β2m 不接觸 peptide groove；II: α/β 共同接觸 peptide。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:12:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

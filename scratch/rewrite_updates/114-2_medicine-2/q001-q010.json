@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題考兼性厭氧菌（facultative anaerobe）的判讀：這類細菌可在有氧環境利用氧氣進行呼吸，也能在缺氧時改用發酵或無氧代謝存活。大腸桿菌是典型腸內革蘭陰性兼性厭氧桿菌。\n\n【選項詳解】\n- A. 正確。大腸桿菌（Escherichia coli）可在有氧與無氧環境生長；在腸道低氧環境也能存活，培養時又可在一般有氧條件下生長，是兼性厭氧菌的代表。\n- B. 錯誤。結核桿菌（Mycobacterium tuberculosis）偏好高氧環境，是 obligate aerobe；肺尖含氧量高，正好解釋其臨床感染好發部位。\n- C. 錯誤。破傷風桿菌（Clostridium tetani）是產芽孢的絕對厭氧菌，常在缺氧的深部污染傷口萌發並產生 tetanospasmin。\n- D. 錯誤。肉毒桿菌（Clostridium botulinum）同屬產芽孢的絕對厭氧菌，典型情境是密封、低氧食物中產生 botulinum toxin。\n\n【核心考點】\n兼性厭氧菌可有氧也可無氧生長；E. coli 是代表。Mycobacterium tuberculosis 偏好有氧，Clostridium tetani 與 C. botulinum 則是絕對厭氧、產芽孢桿菌。",
+      "key_point": "E. coli 是兼性厭氧菌；結核桿菌偏好有氧，Clostridium tetani 與 C. botulinum 為絕對厭氧產芽孢菌。",
+      "flashcard_front": "facultative anaerobe 代表菌",
+      "flashcard_back": "Escherichia coli 可在有氧與無氧環境生長，是典型兼性厭氧菌。",
+      "flashcard_summary": "兼性厭氧菌 -> E. coli 可有氧也可無氧生長",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\nE. coli O157:H7 的血清型命名中，O 代表菌體表面的 somatic O antigen，主要與脂多醣的 O-specific side chain 有關；H 代表鞭毛抗原（flagellar antigen）。因此 H7 指的是鞭毛抗原型別。\n\n【選項詳解】\n- A. 正確。H antigen 是鞭毛上的抗原，用來區分具運動性的腸桿菌科菌株；O157:H7 中的 H7 即第 7 型鞭毛抗原。\n- B. 錯誤。脂多醣（lipopolysaccharide, LPS）位在革蘭陰性菌外膜，O antigen 屬於 LPS 外側多醣鏈，對應的是 O157，不是 H7。\n- C. 錯誤。核心多醣（core polysaccharide）是 LPS 中連接 lipid A 與 O antigen 的部分，不是鞭毛抗原，也不負責 H 分型。\n- D. 錯誤。莢膜（capsule）在細菌血清型可對應 K antigen；它與抗吞噬、黏附或毒力相關，但不是 H antigen。\n\n【核心考點】\n腸桿菌科血清型常用 O、H、K 區分：O 為 LPS 的 O antigen，H 為鞭毛抗原，K 為莢膜抗原。O157:H7 中的 H7 要連到 flagella。",
+      "key_point": "E. coli O157:H7 中，H antigen 代表鞭毛抗原；O antigen 與 LPS 的 O 多醣鏈相關。",
+      "flashcard_front": "E. coli O157:H7 的 H7 代表什麼？",
+      "flashcard_back": "H7 代表鞭毛抗原（flagellar antigen）；O157 對應 LPS 的 O antigen。",
+      "flashcard_summary": "O157:H7 分型 -> H 是鞭毛抗原",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問 leptospirosis 的不適當敘述。Leptospira interrogans 是螺旋體，可由受污染水土中的動物尿液接觸破皮或黏膜而感染；臨床與流行病學重點是環境暴露、鼠類 reservoir、以及 doxycycline 的治療或預防用途。A 的問題在「容易培養」這句，Leptospira 生長慢且需特殊培養條件。\n\n【選項詳解】\n- A. 不適當。Leptospira interrogans 的確是造成鈎端螺旋體病的重要病原，但它屬 fastidious、培養慢且需要特殊培養基與長時間觀察，不能當作容易培養的細菌。\n- B. 適當。Leptospira 可主動穿透受損皮膚或黏膜，典型感染來自接觸受污染的水、土壤或動物尿液；它不是典型性傳染病原。\n- C. 適當。Doxycycline 可用於輕症治療，也常被提到可作為高風險暴露情境的預防藥物；重症時則常考慮 penicillin G 或第三代 cephalosporin。\n- D. 適當。嚙齒類，尤其鼠類，是重要 reservoir；病原可經尿液排出，污染水源或土壤後造成職業、洪水或野外活動相關感染。\n\n【核心考點】\nLeptospirosis 要記住「鼠類尿液污染水土、經破皮或黏膜感染、培養困難」。題目若問不適當敘述，看到「容易培養」要警覺。",
+      "key_point": "Leptospira interrogans 與鼠尿污染水土、黏膜或破皮感染、doxycycline 用途相關；培養慢且困難。",
+      "flashcard_front": "leptospirosis 的 reservoir、傳染途徑與培養特色",
+      "flashcard_back": "鼠類是重要 reservoir，尿液污染水土後經破皮或黏膜感染；Leptospira 生長慢、需特殊培養，並不容易培養。",
+      "flashcard_summary": "leptospirosis -> 鼠尿污染水土、黏膜或破皮感染、培養困難",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題考 XDR-TB 的傳統考法：在 MDR-TB 基礎上，再對 fluoroquinolone 與第二線注射型抗結核藥產生抗藥性。選項中最接近舊制第二線注射型藥物群的是 aminoglycoside，例如 amikacin、kanamycin；不過現行 WHO 分類已改以 fluoroquinolone 加上 bedaquiline 或 linezolid 等 Group A 藥物判定，故本題需依考卷脈絡保留原答案並建議人工複核。\n\n【選項詳解】\n- A. 正確。傳統 XDR-TB 考點把 MDR-TB 加上 fluoroquinolone 抗藥性，再加上第二線注射藥物抗藥性；aminoglycoside 中的 amikacin、kanamycin 屬於舊制常列入的第二線注射抗結核藥。\n- B. 錯誤。四環黴素不是 XDR-TB 傳統判定中的核心第二線注射抗結核藥，臨床抗結核治療也不以 tetracycline 作為定義抗藥性的關鍵藥物。\n- C. 錯誤。Beta-lactam 類雖可在特殊抗藥結核治療中有輔助或後線討論，但不是傳統 XDR-TB 定義中的第二線注射藥物群。\n- D. 錯誤。紅黴素主要用於其他細菌感染，並非 XDR-TB 判定中的抗結核核心藥物，也不是傳統第二線注射型藥物。\n\n【核心考點】\n舊制考題常把 XDR-TB 連到 MDR-TB 加 fluoroquinolone 抗藥性，再加第二線注射藥物如 amikacin、kanamycin 或 capreomycin 抗藥性。現行 WHO 用語已更新，遇到新版教材或臨床情境時要另外核對。",
+      "key_point": "舊制 XDR-TB 考法：MDR-TB 加 fluoroquinolone 抗藥性，再加第二線注射抗結核藥如 aminoglycoside 抗藥性；現行 WHO 分類已更新。",
+      "flashcard_front": "XDR-TB 傳統考法中的第二線抗生素",
+      "flashcard_back": "傳統考法中，XDR-TB 為 MDR-TB 加 fluoroquinolone 抗藥性，並對第二線注射藥物如 aminoglycoside 產生抗藥性；新版 WHO 分類已改變，需核對教材版本。",
+      "flashcard_summary": "XDR-TB 舊制考點 -> fluoroquinolone + 第二線注射藥物抗藥性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": [
+        "第 4 題 XDR-TB 定義與現行 WHO 2021 後分類可能不一致，建議人工確認考卷採用的教材版本。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\nClostridium perfringens 引起氣狀壞疽的主要毒力因子是 alpha toxin。Alpha toxin 具有 phospholipase C（lecithinase）活性，可破壞細胞膜與組織，造成肌肉壞死、溶血、血管通透性增加與快速進展的 myonecrosis。\n\n【選項詳解】\n- A. 正確。Alpha 毒素是 C. perfringens gas gangrene 最重要毒素，會水解細胞膜 phospholipid，導致肌肉壞死、氣體形成與全身毒性。\n- B. 錯誤。Beta 毒素較常與壞死性腸炎、食物相關腸道疾病或特定動物疾病型態連結，不是氣狀壞疽的主要毒素。\n- C. 錯誤。Epsilon 毒素以增加血管通透性與神經毒性表現較常被提及，典型連結不是創傷後 gas gangrene 的主要致病毒素。\n- D. 錯誤。Iota 毒素可 ADP-ribosylate actin、干擾細胞骨架，與部分 C. perfringens 型別的腸道疾病相關；它不是氣狀壞疽的首要毒力因子。\n\n【核心考點】\nC. perfringens gas gangrene 要直接連到 alpha toxin，也就是 lecithinase/phospholipase C。它透過破壞細胞膜造成 myonecrosis 與溶血。",
+      "key_point": "C. perfringens 氣狀壞疽主要由 alpha toxin（phospholipase C/lecithinase）造成肌肉壞死與溶血。",
+      "flashcard_front": "Clostridium perfringens gas gangrene 的主要毒素",
+      "flashcard_back": "Alpha toxin；它是 phospholipase C/lecithinase，會破壞細胞膜並造成 myonecrosis。",
+      "flashcard_summary": "C. perfringens gas gangrene -> alpha toxin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\nLysozyme 是淚液、唾液、黏膜分泌物與吞噬細胞中常見的先天免疫分子。它切斷 peptidoglycan 中 N-acetylmuramic acid（NAM）與 N-acetylglucosamine（NAG）之間的 beta-1,4 glycosidic bond，使細菌細胞壁受損。\n\n【選項詳解】\n- A. 錯誤。直接破壞細菌細胞膜完整性較像 defensin、polymyxin 等膜作用分子的效果；lysozyme 的主要靶點是細胞壁 peptidoglycan。\n- B. 錯誤。抑制電子傳遞鏈不是 lysozyme 的抗菌方式；電子傳遞鏈相關藥理或代謝毒性與 lysozyme 的酵素切割作用不同。\n- C. 正確。Lysozyme 分解 peptidoglycan 的醣苷鍵，造成細胞壁強度下降，細菌在滲透壓下更容易裂解，尤其革蘭陽性菌因 peptidoglycan 暴露較多而較敏感。\n- D. 錯誤。Pili 主要與黏附、接合或運動相關；lysozyme 不以切割 pili 作為主要抗菌機制。\n\n【核心考點】\nLysozyme 的關鍵靶點是 peptidoglycan，不是細胞膜、電子傳遞鏈或 pili。記住 NAM-NAG 間 beta-1,4 glycosidic bond 被切斷即可判題。",
+      "key_point": "Lysozyme 切斷 peptidoglycan 中 NAM-NAG 間的 beta-1,4 glycosidic bond，造成細菌細胞壁損傷。",
+      "flashcard_front": "Lysozyme 的抗菌機制",
+      "flashcard_back": "切斷 peptidoglycan 的 NAM-NAG beta-1,4 glycosidic bond，使細胞壁受損。",
+      "flashcard_summary": "lysozyme -> 分解 peptidoglycan、破壞細菌細胞壁",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題問細菌與氧氣相關敘述的不適當者。兼性厭氧菌的名稱容易誤導：它們不是不能接觸氧氣，而是有氧時可用氧氣呼吸、缺氧時也能用其他代謝方式存活。因此 A 把兼性厭氧菌說成無法在有氧環境生長，是錯誤敘述。\n\n【選項詳解】\n- A. 不適當。兼性厭氧菌可在無氧條件下存活，也能在有氧環境下生長；許多菌在有氧時反而因氧化磷酸化效率較高而生長更好。\n- B. 適當。微需氧菌需要低於大氣氧濃度的環境；一般大氣約 21% 氧氣，對它們可能過高，因此無法正常生長。\n- C. 適當。氧代謝可產生活性氧與過氧化氫，這些分子會傷害蛋白質、脂質與 DNA；細菌需靠 catalase、peroxidase 或 superoxide dismutase 等系統解毒。\n- D. 適當。部分絕對厭氧菌如 Clostridium 可形成芽孢；芽孢代謝休眠、耐受不良環境，可在有氧環境留存，等回到合適低氧環境再萌發成營養細胞。\n\n【核心考點】\n氧需求分類要分清楚：facultative anaerobe 可有氧也可無氧，microaerophile 要低氧，obligate anaerobe 的營養細胞怕氧但芽孢可耐受環境壓力。",
+      "key_point": "兼性厭氧菌可在有氧與無氧環境生長；微需氧菌需低氧，絕對厭氧菌可用芽孢耐受不良環境。",
+      "flashcard_front": "facultative anaerobe 與 microaerophile 的氧氣需求差異",
+      "flashcard_back": "Facultative anaerobe 可有氧也可無氧生長；microaerophile 需要低於大氣濃度的氧氣。",
+      "flashcard_summary": "細菌氧需求 -> 兼性厭氧可有氧生長，微需氧需低氧",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題問哪個疾病較不屬於 tick-borne infection。Rocky Mountain spotted fever、tick-borne relapsing fever 與 Lyme disease 都可由蜱傳播；scrub typhus 的典型媒介是恙蟎幼蟲（chigger mite），不是蜱。\n\n【選項詳解】\n- A. 錯誤。洛磯山斑疹熱由 Rickettsia rickettsii 引起，典型媒介是 Dermacentor 等硬蜱，因此屬於蜱媒傳染病。\n- B. 錯誤。地方性回歸熱多與 Borrelia species 及軟蜱（Ornithodoros）傳播有關；若題目把 endemic relapsing fever 作為選項，通常是在考 tick-borne relapsing fever。\n- C. 正確。Scrub typhus 由 Orientia tsutsugamushi 引起，主要媒介是恙蟎幼蟲；它屬於 mite-borne rickettsial disease，和蜱媒疾病不同。\n- D. 錯誤。萊姆病由 Borrelia burgdorferi sensu lato 群造成，典型媒介是 Ixodes 硬蜱，是經典蜱媒感染。\n\n【核心考點】\n蜱媒疾病常見 RMSF、Lyme disease、tick-borne relapsing fever；scrub typhus 要連到 chigger mite。看到 scrub typhus 不要把它和一般 tick-borne rickettsiosis 混在一起。",
+      "key_point": "Scrub typhus 由 chigger mite 傳播；RMSF、Lyme disease 與 tick-borne relapsing fever 才是典型蜱媒疾病。",
+      "flashcard_front": "哪個 rickettsial/螺旋體相關疾病不是典型 tick-borne？",
+      "flashcard_back": "Scrub typhus；它由 Orientia tsutsugamushi 引起，媒介是恙蟎幼蟲（chigger mite）。",
+      "flashcard_summary": "蜱媒疾病辨別 -> scrub typhus 是 chigger mite，不是 tick",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n無乳鏈球菌（Streptococcus agalactiae, Group B Streptococcus, GBS）是孕產婦與新生兒感染的重要病原。典型考點包括孕婦生殖泌尿道定殖或泌尿道感染，以及新生兒早發或晚發敗血症、肺炎、腦膜炎；新生兒筋膜炎不是它最典型的關聯感染。\n\n【選項詳解】\n- A. 錯誤。GBS 是新生兒腦膜炎的重要病原之一，尤其可在晚發型新生兒感染中造成 meningitis。\n- B. 錯誤。GBS 可造成早發型新生兒感染，常見表現包含敗血症、肺炎與呼吸窘迫，和產道垂直傳染相關。\n- C. 錯誤。GBS 可定殖於孕婦生殖泌尿道，也可造成孕婦 bacteriuria 或 urinary tract infection；產前篩檢與分娩時抗生素預防就是為了降低新生兒感染。\n- D. 正確。新生兒筋膜炎並非 GBS 的典型高頻考點；壞死性筋膜炎更常連到 group A Streptococcus、Staphylococcus aureus 或混合菌感染等情境。\n\n【核心考點】\nGBS 要連到孕婦泌尿生殖道、產道垂直傳染，以及新生兒敗血症、肺炎、腦膜炎。若題目問最無關連，筋膜炎相較之下不是典型 GBS 代表感染。",
+      "key_point": "Streptococcus agalactiae（GBS）典型造成孕婦泌尿生殖道感染與新生兒敗血症、肺炎、腦膜炎；新生兒筋膜炎較不典型。",
+      "flashcard_front": "GBS 與哪些孕婦/新生兒感染最相關？",
+      "flashcard_back": "孕婦泌尿生殖道感染或定殖，以及新生兒敗血症、肺炎、腦膜炎；筋膜炎不是典型代表。",
+      "flashcard_summary": "GBS -> 孕婦 UTI/定殖 + 新生兒肺炎、腦膜炎、敗血症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題問病毒複製敘述的不適當者。多數病毒在進入與脫殼後，會先進行早期基因表現、核酸複製，接著才大量製造結構蛋白並組裝成熟病毒；把基因體複製說成一定在結構蛋白合成之後才開始，會把病毒生命週期順序顛倒。\n\n【選項詳解】\n- A. 不適當。病毒通常需要先產生複製相關蛋白或利用宿主酵素進行核酸複製，之後再進入結構蛋白合成與組裝階段；不同病毒細節不同，但「基因體複製必在結構蛋白之後」不是通則。\n- B. 適當。病毒要表現蛋白質必須產生可被核糖體翻譯的 mRNA；即使是 DNA 病毒也需轉錄 RNA，RNA 病毒則涉及 mRNA 或 RNA genome 的合成。\n- C. 適當。B 型肝炎病毒是有外套膜病毒，外套膜含宿主來源脂質膜與病毒 HBsAg；可把它理解為從宿主細胞膜系統取得外套膜。\n- D. 需複核。嚴格的 virology 用語中，eclipse period 常指進入與脫殼後、尚未形成可偵測感染性子代病毒的時段；若把本句解讀成可測得少量感染性子代病毒，文字會有爭議。因此本題雖以 A 作為主要錯誤敘述，D 建議人工核對教材定義。\n\n【核心考點】\n病毒複製流程通常是吸附、進入、脫殼、早期表現與基因體複製、晚期結構蛋白合成、組裝與釋放。Eclipse period 的精確用語易混淆，題目若採單選仍應注意其他選項是否有文字疑義。",
+      "key_point": "病毒基因體複製通常不會被規定在結構蛋白合成之後才開始；eclipse period 的可偵測感染性病毒描述需小心核對。",
+      "flashcard_front": "病毒複製順序與 eclipse period",
+      "flashcard_back": "常見流程為進入與脫殼後，先有早期表現與基因體複製，再進行結構蛋白合成、組裝與釋放；eclipse period 通常指尚無可偵測感染性子代病毒。",
+      "flashcard_summary": "病毒複製 -> 基因體複製不固定在結構蛋白之後；eclipse period 用語需精確",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:13:13+08:00",
+      "manual_review_notes": [
+        "第 10 題 D 選項的 eclipse period 表述可能也有疑義，建議人工核對官方題意與教材用語。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n題目問維生素 D 與活性產物的錯誤敘述。活性維生素 D 會增加腸道鈣與磷吸收，也可能造成高血鈣與高血磷；因此「使血中磷濃度下降」是錯誤敘述。\n\n【選項詳解】\n- A. 正確。維生素 D 或其活性類似物會增加鈣吸收，劑量過高或腎功能不佳時可能造成高血鈣症，表現可包括噁心、便秘、多尿、意識改變或心律問題。\n- B. 正確。維生素 D 可改善鈣磷平衡並支持骨礦化，臨床上常與鈣質或抗骨鬆藥物搭配，用於骨質疏鬆或維生素 D 缺乏相關骨病的處理。\n- C. 正確。Paricalcitol 是維生素 D 受體活化劑，可抑制副甲狀腺素分泌，用於慢性腎臟病相關次發性副甲狀腺機能亢進。\n- D. 錯誤。活性維生素 D 會促進腸道磷吸收，通常不會使血中磷下降；在慢性腎臟病患者反而需注意高血磷與鈣磷乘積上升。\n\n【核心考點】\n活性維生素 D 的藥理重點是增加腸道鈣與磷吸收、抑制 PTH；副作用要想到高血鈣與高血磷，而不是降血磷。",
+      "key_point": "活性維生素 D 增加鈣與磷吸收，可治療 CKD 次發性副甲狀腺機能亢進，但可能造成高血鈣或高血磷。",
+      "flashcard_front": "維生素 D 活性產物對血鈣與血磷的影響？",
+      "flashcard_back": "活性維生素 D 促進腸道鈣與磷吸收，可能造成高血鈣與高血磷；paricalcitol 可治療 CKD 次發性副甲狀腺機能亢進。",
+      "flashcard_summary": "活性維生素 D -> 增加鈣磷吸收；不會降低血磷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n題目問 thiazide 類利尿劑的錯誤敘述。Thiazide 抑制遠曲小管 Na-Cl cotransporter，會增加鈣再吸收、減少尿鈣，但也會降低尿酸排泄而造成高尿酸血症，所以不能用來治療高尿酸血症。\n\n【選項詳解】\n- A. 正確。Thiazide 會減少尿中鈣流失，長期可使鈣平衡較正向，與較高骨密度或較低骨折風險相關，因此可被視為對骨質疏鬆有輔助利益。\n- B. 正確。因 thiazide 會增加遠曲小管鈣再吸收、降低尿鈣排出，可用於高鈣尿症與鈣結石預防的情境。\n- C. 錯誤。Thiazide 會與尿酸競爭腎小管分泌或降低尿酸排泄，常見副作用是高尿酸血症與痛風發作風險增加，不是治療高尿酸血症的藥物。\n- D. 正確。Thiazide 可用於腎因性尿崩症，透過輕度體液收縮增加近端小管水鈉再吸收，使到達集尿管的水量減少，反而降低多尿。\n\n【核心考點】\nThiazide 的高頻考點是低尿鈣、高血鈣傾向、高尿酸血症，以及可治腎因性尿崩症；看到「治療高尿酸血症」要判斷為錯誤。",
+      "key_point": "Thiazide 減少尿鈣但增加高尿酸血症風險，可用於高鈣尿症與腎因性尿崩症，不可治療高尿酸血症。",
+      "flashcard_front": "Thiazide 類利尿劑最常考的鈣與尿酸效應？",
+      "flashcard_back": "減少尿鈣、可幫助高鈣尿症；但會造成高尿酸血症與痛風風險，不是降尿酸藥。",
+      "flashcard_summary": "Thiazide -> 低尿鈣、高尿酸；可治高鈣尿症與腎因性尿崩症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nSotalol 是抗心律不整藥，兼具非選擇性 beta 阻斷作用與 Vaughan Williams class III 作用。題目問主要抗心律不整機轉時，考點是延長心肌再極化，主要來自抑制鉀離子通道。\n\n【選項詳解】\n- A. 錯誤。氯離子通道不是 sotalol 抗心律不整的主要靶點；臨床抗心律不整分類也不以氯離子通道抑制作為 sotalol 的代表機轉。\n- B. 錯誤。鈉離子通道抑制是 class I 抗心律不整藥如 quinidine、lidocaine、flecainide 的特色，不是 sotalol 的主要分類依據。\n- C. 正確。Sotalol 抑制鉀離子外流，延長動作電位時程與有效不反應期，屬 class III 抗心律不整作用，因此可用於部分心律不整。\n- D. 錯誤。鈣離子通道抑制是 verapamil、diltiazem 等 class IV 藥物的特色，主要影響 AV node 傳導；sotalol 不以鈣離子通道阻斷為主要作用。\n\n【核心考點】\nSotalol 要同時記得 beta blocker 與 class III；考主要抗心律不整機轉時，答案是抑制鉀離子通道、延長再極化與不反應期。",
+      "key_point": "Sotalol 具 beta 阻斷與 class III 抗心律不整作用，主要藉抑制鉀離子通道延長再極化。",
+      "flashcard_front": "Sotalol 的主要抗心律不整機轉？",
+      "flashcard_back": "抑制鉀離子通道，延長動作電位與有效不反應期；另具非選擇性 beta 阻斷作用。",
+      "flashcard_summary": "Sotalol -> class III K+ channel blocker，延長再極化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題考常見心血管藥物與主要機轉配對。Nitroglycerin 釋放 nitric oxide，增加 cGMP，使血管平滑肌鬆弛；低劑量時以靜脈擴張較明顯，可降低回心血量與心臟前負荷。\n\n【選項詳解】\n- A. 錯誤。Ranolazine 主要抑制 late sodium current，減少細胞內鈉累積與鈣負荷，降低心肌耗氧；它不是靠抑制鈣離子通道來舒張動脈。\n- B. 錯誤。Nitroprusside 是 nitric oxide donor，直接增加 cGMP 造成動脈與靜脈擴張；抑制 phosphodiesterase 以增加 cGMP 是 PDE inhibitor 的概念，不是 nitroprusside 的主要機轉。\n- C. 正確。Nitroglycerin 經 NO-cGMP 路徑使血管平滑肌鬆弛，臨床上以靜脈擴張、降低 preload、減少心肌耗氧需求作為抗心絞痛重點。\n- D. 錯誤。Nicardipine 是 dihydropyridine 類鈣離子通道阻斷劑，主要造成周邊動脈擴張；它不是藉增加鉀離子傳導來降周邊血管阻力。\n\n【核心考點】\n心血管藥物配對題要分清：ranolazine 抑制 late Na+ current，nitroprusside 與 nitroglycerin 走 NO-cGMP，nicardipine 阻斷 L-type Ca2+ channel。",
+      "key_point": "Nitroglycerin 以 NO-cGMP 造成靜脈擴張並降低 preload；ranolazine、nitroprusside、nicardipine 的機轉不可混淆。",
+      "flashcard_front": "Nitroglycerin 抗心絞痛的主要血流動力學效果？",
+      "flashcard_back": "釋放 NO、增加 cGMP，低劑量以靜脈擴張為主，降低 preload 與心肌耗氧。",
+      "flashcard_summary": "Nitroglycerin -> NO-cGMP，靜脈擴張降低 preload",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n題目問 neostigmine 最不適合治療哪一種狀況。Neostigmine 是可逆性 acetylcholinesterase inhibitor，會增加乙醯膽鹼，強化骨骼肌神經肌肉接合處與副交感作用；若病人已有心搏過緩，增加迷走神經效應會讓心跳更慢。\n\n【選項詳解】\n- A. 適合。重症肌無力是神經肌肉接合處 acetylcholine receptor 功能不足的疾病；neostigmine 可增加 acetylcholine，改善肌力，是可用藥理方向之一。\n- B. 適合。術後癱瘓性腸阻塞與腸道蠕動不足相關；neostigmine 增強副交感活性，可促進腸道平滑肌收縮，但使用時需監測心跳與禁忌症。\n- C. 不適合。Neostigmine 增加 muscarinic 作用，可能造成或加重 bradycardia、AV block、支氣管收縮與分泌增加；已有心搏過緩時使用風險高。\n- D. 適合。術後尿液滯留與膀胱逼尿肌收縮不足有關；增加副交感活性可促進排尿，因此 neostigmine 或相關 cholinergic 藥物可用於此類情境。\n\n【核心考點】\nNeostigmine 增加 acetylcholine，能促進肌力、腸蠕動與排尿；副交感副作用包括心搏過緩、支氣管收縮與分泌增加，因此 bradycardia 是不適合情境。",
+      "key_point": "Neostigmine 是可逆性 acetylcholinesterase inhibitor，可治 MG、腸阻塞與尿滯留，但會加重心搏過緩。",
+      "flashcard_front": "Neostigmine 最不適合用於哪種狀況？",
+      "flashcard_back": "心搏過緩；因增加 acetylcholine 會強化 muscarinic 迷走效應，使心跳更慢。",
+      "flashcard_summary": "Neostigmine -> 增加 ACh；禁忌陷阱是 bradycardia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n白內障手術中出現 floppy iris syndrome，典型藥物線索是 tamsulosin。Tamsulosin 是 alpha-1A blocker，用於良性攝護腺肥大；虹膜擴張肌也有 alpha-1 受體，長期阻斷可造成術中虹膜鬆弛、瞳孔擴張不良與虹膜脫垂風險。\n\n【選項詳解】\n- A. 錯誤。Atenolol 是 beta-1 選擇性阻斷劑，主要降低心跳與心肌收縮力，用於高血壓或心血管疾病；它不是術中 floppy iris syndrome 的典型關聯藥物。\n- B. 錯誤。Sitagliptin 是 DPP-4 inhibitor，用於第二型糖尿病以增加 incretin 作用；其常考機轉與血糖控制相關，並非虹膜 alpha-1 受體阻斷。\n- C. 錯誤。Ipratropium 是吸入型 muscarinic receptor antagonist，用於 COPD 支氣管擴張；雖可能有抗膽鹼副作用，但不是白內障手術 floppy iris syndrome 的代表原因。\n- D. 正確。Tamsulosin 阻斷 alpha-1A 受體治療良性攝護腺肥大，也會影響虹膜擴張肌張力，是術中 floppy iris syndrome 的高頻藥物線索。\n\n【核心考點】\n看到白內障手術加 floppy iris syndrome，要連到 alpha-1A blocker，尤其是治療攝護腺肥大的 tamsulosin。",
+      "key_point": "Tamsulosin 阻斷 alpha-1A 受體，可治 BPH，也與白內障手術術中 floppy iris syndrome 相關。",
+      "flashcard_front": "Floppy iris syndrome 最典型關聯藥物？",
+      "flashcard_back": "Tamsulosin；alpha-1A 阻斷會影響虹膜擴張肌，增加白內障手術中虹膜鬆弛風險。",
+      "flashcard_summary": "Floppy iris syndrome -> tamsulosin / alpha-1A blocker",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n題目問女性腸躁症合併腹瀉時較有療效的胃腸道藥物。Alosetron 是 5-HT3 receptor antagonist，可降低腸道感覺與蠕動，適用於女性嚴重腹瀉型腸躁症，但因便祕與缺血性腸炎風險，臨床使用需嚴格篩選。\n\n【選項詳解】\n- A. 錯誤。Tegaserod 是 5-HT4 partial agonist，促進腸道蠕動，主要與便祕型腸躁症或慢性便祕的治療概念相關，不適合拿來治腹瀉型 IBS。\n- B. 正確。Alosetron 阻斷 5-HT3 受體，能降低腸道蠕動與內臟感覺，考試常將它連到女性、嚴重腹瀉型 IBS。\n- C. 錯誤。Prucalopride 是 5-HT4 agonist，促進腸蠕動，主要用於慢性便祕；用於腹瀉型腸躁症會與治療目標相反。\n- D. 錯誤。Granisetron 也是 5-HT3 antagonist，但臨床典型用途是預防或治療化療、放療或術後相關噁心嘔吐，不是女性 IBS-D 的代表用藥。\n\n【核心考點】\n腸躁症藥物要分清腹瀉型與便祕型：alosetron 治女性嚴重 IBS-D；tegaserod、prucalopride 偏促進蠕動，適用方向偏便祕。",
+      "key_point": "Alosetron 是 5-HT3 antagonist，考試常連到女性嚴重腹瀉型腸躁症；5-HT4 agonist 偏治便祕。",
+      "flashcard_front": "女性腹瀉型腸躁症的代表藥物？",
+      "flashcard_back": "Alosetron，5-HT3 receptor antagonist，可降低腸蠕動與內臟敏感度，但需注意便祕與缺血性腸炎風險。",
+      "flashcard_summary": "女性 IBS-D -> alosetron；便祕型方向 -> 5-HT4 agonist",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n病人有 COPD、偶發性氣管痙攣，又合併心臟病，題目強調有效解除支氣管痙攣且較不易引發心律不整。吸入型 ipratropium 是短效 muscarinic antagonist，可支氣管擴張，心臟 beta 受體刺激較少，較符合這個限制。\n\n【選項詳解】\n- A. 錯誤。Prednisone 是全身性 corticosteroid，可降低發炎，常用於 COPD 或氣喘急性惡化的抗發炎治療，但不是快速解除偶發支氣管痙攣的主要支氣管擴張藥。\n- B. 錯誤。Salmeterol 是長效 beta-2 agonist，可支氣管擴張，但 beta agonist 可能造成心悸、顫抖與心律不整風險；題幹有心臟病並要求較不易引發心律不整，較不適合。\n- C. 錯誤。Zafirlukast 是 leukotriene receptor antagonist，主要用於氣喘長期控制，起效不適合立即解除氣管痙攣，也不是 COPD 急性支氣管痙攣的首選線索。\n- D. 正確。Ipratropium 是吸入型 muscarinic antagonist，可降低迷走神經造成的支氣管收縮，在 COPD 支氣管痙攣中特別有用，且相較 beta agonist 較少直接刺激心臟造成心律不整。\n\n【核心考點】\nCOPD 合併心臟病又要減少心律不整風險時，支氣管擴張可優先想到吸入型抗膽鹼藥 ipratropium，而不是 beta agonist。",
+      "key_point": "Ipratropium 是吸入型抗 muscarinic 支氣管擴張劑，適合 COPD 支氣管痙攣且較少 beta agonist 型心律副作用。",
+      "flashcard_front": "COPD 支氣管痙攣合併心臟病，較少心律不整風險的支氣管擴張藥？",
+      "flashcard_back": "Ipratropium；吸入型 muscarinic antagonist，可支氣管擴張且較少直接 beta 刺激造成的心律副作用。",
+      "flashcard_summary": "COPD + 心律風險 -> ipratropium 優於 beta agonist 線索",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nHLA-B*58:01 是 allopurinol 嚴重皮膚不良反應的重要遺傳風險因子，尤其與 Stevens-Johnson syndrome、toxic epidermal necrolysis 與 DRESS 相關。痛風病人若帶有此基因變異，應避免使用 allopurinol。\n\n【選項詳解】\n- A. 錯誤。Colchicine 抑制微小管聚合，降低嗜中性球發炎反應，常用於急性痛風或預防發作；它不是 HLA-B*58:01 典型禁忌藥物。\n- B. 正確。Allopurinol 是 xanthine oxidase inhibitor，可降尿酸，但 HLA-B*58:01 帶因者發生嚴重皮膚不良反應風險大幅上升，因此應避免或改用其他策略。\n- C. 錯誤。Meclofenamate 是 NSAID，可用於發炎疼痛控制；痛風急性期可用 NSAID 類藥物，但 HLA-B*58:01 不是它的代表藥物基因風險。\n- D. 錯誤。Febuxostat 也是 xanthine oxidase inhibitor，但不是 HLA-B*58:01 最典型需避免的藥物；它常作為 allopurinol 不適用時的替代選項之一，但需依心血管風險評估。\n\n【核心考點】\nHLA-B*58:01 與 allopurinol hypersensitivity/SCAR 高度相關；看到此基因型加痛風用藥，答案要選 allopurinol。",
+      "key_point": "HLA-B*58:01 帶因者應避免 allopurinol，因嚴重皮膚不良反應風險上升。",
+      "flashcard_front": "HLA-B*58:01 痛風病人應避免哪個藥？",
+      "flashcard_back": "Allopurinol；帶因者發生 SJS/TEN、DRESS 等嚴重皮膚不良反應風險增加。",
+      "flashcard_summary": "HLA-B*58:01 -> 避免 allopurinol",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考 histamine 受體藥理與臨床用途。第一代 H1 receptor antagonist 脂溶性較高、較能穿過血腦障壁，常有鎮靜與嗜睡作用，因此可被用於協助入眠；其他選項把 H1、H2 或 epinephrine 的用途混淆。\n\n【選項詳解】\n- A. 錯誤。Epinephrine 治療 anaphylaxis 的核心是刺激 alpha 與 beta adrenergic receptor，造成血管收縮、支氣管擴張並改善休克；它不是 H1 receptor antagonist。\n- B. 錯誤。H1 receptor antagonist 可改善過敏性鼻炎、蕁麻疹等組織胺相關症狀，但氣喘主要需要吸入型支氣管擴張劑與抗發炎治療；H1 blocker 不是氣喘常規主治藥。\n- C. 正確。第一代 H1 receptor antagonist 如 diphenhydramine、doxylamine 較會進入中樞，造成鎮靜與嗜睡，因此可短期作為助眠用途，但也要注意抗膽鹼副作用。\n- D. 錯誤。H2 receptor antagonist 如 famotidine 主要抑制胃酸分泌，用於胃食道逆流或消化性潰瘍相關治療；過敏性鼻炎主要是 H1 受體相關症狀，不是 H2 blocker 的常規用途。\n\n【核心考點】\nH1 第一代藥物進中樞會嗜睡，可作助眠；H2 blocker 管胃酸；anaphylaxis 的救命藥是 epinephrine 的 adrenergic 作用。",
+      "key_point": "第一代 H1 antihistamine 可穿過血腦障壁而鎮靜助眠；H2 antagonist 主要抑制胃酸，epinephrine 以 adrenergic 作用治 anaphylaxis。",
+      "flashcard_front": "第一代 H1 antihistamine 為何可助眠？",
+      "flashcard_back": "較能穿過血腦障壁造成中樞鎮靜與嗜睡；但需注意抗膽鹼副作用。",
+      "flashcard_summary": "Histamine 受體 -> 第一代 H1 鎮靜助眠；H2 抑制胃酸",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:19:51+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

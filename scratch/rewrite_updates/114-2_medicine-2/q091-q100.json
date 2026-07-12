@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題問急性膽囊炎的「最不適當」敘述。急性膽囊炎多由膽囊頸或膽囊管結石阻塞造成膽汁滯留，進而引發黏膜損傷與發炎；發炎過程與前列腺素等發炎介質增加有關，不是前列腺素釋放減少。\n\n【選項詳解】\n- A. 適當。多數急性膽囊炎是 calculous cholecystitis，常因膽結石嵌塞於膽囊頸或膽囊管，使膽囊內壓上升、膽汁滯留與黏膜受損，繼而引發急性發炎。\n- B. 不適當。急性膽囊炎的發炎反應與黏膜損傷後發炎介質增加有關，前列腺素通常參與疼痛、血管擴張與發炎反應；說成「前列腺素釋放減少」導致膽囊壁發炎，方向錯誤。\n- C. 適當。急性非結石性膽囊炎常見於重症、外傷、燒傷、休克或長期禁食病人，膽囊缺血與膽汁鬱滯可造成膽囊壁壞死與發炎。\n- D. 適當。敗血症會造成低灌流、發炎反應與重症狀態，是 acute acalculous cholecystitis 的典型危險因子之一。\n\n【核心考點】\n急性膽囊炎多由結石阻塞膽囊管引起；非結石性膽囊炎則常和重症、缺血、敗血症、外傷或燒傷相關。前列腺素是發炎與疼痛反應的一部分，不能說成因釋放減少而造成膽囊壁發炎。",
+      "key_point": "急性膽囊炎多由膽結石阻塞膽囊管引起；非結石性膽囊炎與重症缺血、敗血症相關，發炎反應不是因前列腺素釋放減少造成。",
+      "flashcard_front": "急性膽囊炎的常見成因與非結石性膽囊炎危險因子",
+      "flashcard_back": "多數急性膽囊炎由結石阻塞膽囊頸或膽囊管造成；非結石性膽囊炎常見於敗血症、休克、燒傷、外傷等重症缺血狀態。",
+      "flashcard_summary": "急性膽囊炎 -> 結石阻塞最常見；非結石性與重症缺血、敗血症相關",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n腎嗜酸細胞瘤（renal oncocytoma）由 oncocyte 組成，細胞質呈強烈嗜酸性，電子顯微鏡下可見大量粒線體。這些粒線體讓細胞質顆粒狀且染色偏紅，是本題的關鍵。\n\n【選項詳解】\n- A. 正確。Renal oncocytoma 的腫瘤細胞富含 mitochondria，粒線體內膜與酵素蛋白豐富，使細胞質呈嗜酸性與顆粒狀外觀。\n- B. 錯誤。高基氏體主要負責蛋白質修飾、分泌與包裝；大量高基氏體不是 renal oncocytoma 造成嗜酸性細胞質的典型原因。\n- C. 錯誤。溶酶體含水解酶，與吞噬、細胞內分解或儲積疾病較相關；renal oncocytoma 的經典超微結構不是大量溶酶體。\n- D. 錯誤。粗糙內質網與蛋白質合成相關，通常使細胞質偏嗜鹼性而非嗜酸性；本題問的嗜酸性來源是粒線體。\n\n【核心考點】\nOncocytoma 的「嗜酸性」要連到大量 mitochondria。考腎臟腫瘤時，renal oncocytoma 常見棕褐色腫瘤與中央瘢痕，細胞層面則是 mitochondria-rich oncocytes。",
+      "key_point": "Renal oncocytoma 的 oncocyte 富含 mitochondria，因此電子顯微鏡下可見大量粒線體並呈嗜酸性細胞質。",
+      "flashcard_front": "renal oncocytoma 嗜酸性細胞質的超微結構原因",
+      "flashcard_back": "大量粒線體（mitochondria）造成 oncocyte 顆粒狀、嗜酸性細胞質。",
+      "flashcard_summary": "renal oncocytoma -> oncocyte 富含 mitochondria",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n黃瘤肉芽腫性腎盂腎炎（xanthogranulomatous pyelonephritis）是慢性破壞性腎臟感染，常與腎結石、尿路阻塞和長期細菌感染相關。最常被考到的相關病原包含 Proteus mirabilis 與 E. coli，其中 Proteus 因 urease 產生與 struvite stone、阻塞感染特別有連結。\n\n【選項詳解】\n- A. 錯誤。Streptococcus pneumoniae 典型造成肺炎、腦膜炎、中耳炎或菌血症，並非黃瘤肉芽腫性腎盂腎炎的代表性尿路病原。\n- B. 錯誤。Mycobacterium tuberculosis 可造成泌尿生殖結核與慢性肉芽腫性病變，但 xanthogranulomatous pyelonephritis 的典型關聯是一般尿路感染菌與阻塞性結石。\n- C. 正確。Proteus mirabilis 是 urease-positive 尿路感染菌，可使尿液鹼化並促進 struvite stone，長期阻塞感染可與黃瘤肉芽腫性腎盂腎炎密切相關。\n- D. 錯誤。Salmonella enterica 可造成腸胃炎、傷寒或菌血症，在特定宿主可有局部感染，但不是本病最典型的相關尿路病原。\n\n【核心考點】\nXanthogranulomatous pyelonephritis 要想到慢性尿路阻塞感染、腎結石與泡沫狀巨噬細胞。病原考點常連到 Proteus mirabilis，因其 urease 與 struvite stone 使阻塞感染更容易形成。",
+      "key_point": "黃瘤肉芽腫性腎盂腎炎常與慢性尿路阻塞感染和結石相關，典型病原包含 Proteus mirabilis。",
+      "flashcard_front": "xanthogranulomatous pyelonephritis 最常連結的尿路病原",
+      "flashcard_back": "Proteus mirabilis；其 urease 活性可造成鹼性尿與 struvite stone，促進慢性阻塞感染。",
+      "flashcard_summary": "xanthogranulomatous pyelonephritis -> Proteus mirabilis + 慢性阻塞感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n腎細胞癌（renal cell carcinoma, RCC）的危險因子包括抽菸、肥胖、高血壓、某些職業暴露與遺傳症候群。若題目問「最顯著」危險因子，在選項中抽菸是最典型且最常考的可修正危險因子。\n\n【選項詳解】\n- A. 正確。抽菸與 RCC 風險增加有明確關聯，且有劑量反應關係；菸草中的致癌物會經代謝與腎臟排泄，增加腎小管上皮腫瘤風險。\n- B. 錯誤。高血壓本身與 RCC 風險上升相關，部分降壓藥或慢性腎臟傷害也可能混雜影響，但在本題選項中不如抽菸典型。\n- C. 錯誤。石綿暴露主要與惡性間皮瘤、肺癌等疾病高度相關；它不是 RCC 最顯著、最標準的考試危險因子。\n- D. 錯誤。男性與肥胖都會增加 RCC 風險，尤其肥胖和代謝異常有關，但「肥胖之男性」不是本題中最具代表性的單一危險因子。\n\n【核心考點】\nRCC 風險因子要優先記抽菸、肥胖、高血壓與遺傳症候群；若題目要求最典型或最顯著，在這組選項中抽菸最符合標準答案。",
+      "key_point": "腎細胞癌的典型危險因子包括抽菸、肥胖與高血壓；選項中抽菸是最顯著且最常考的可修正危險因子。",
+      "flashcard_front": "腎細胞癌最常考的可修正危險因子",
+      "flashcard_back": "抽菸；RCC 也與肥胖、高血壓和部分遺傳症候群相關。",
+      "flashcard_summary": "renal cell carcinoma risk -> smoking 最典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n乳房接受放射線治療後，需警覺 radiation-associated angiosarcoma。它通常發生於曾接受乳癌保乳手術加放射治療後的乳房或胸壁皮膚，屬罕見但典型的放射線相關惡性腫瘤。\n\n【選項詳解】\n- A. 正確。血管肉瘤（angiosarcoma）是最典型的放射線相關乳房惡性腫瘤，可在放療後多年出現，常表現為皮膚紫紅色斑塊、瘀青樣病灶或快速增大的血管性腫瘤。\n- B. 錯誤。惡性葉狀瘤源自乳房纖維上皮性腫瘤的間質成分，與葉狀架構、間質過度增生與 sarcomatous change 相關，不是放射治療後最典型腫瘤。\n- C. 錯誤。肌纖維母細胞瘤（myofibroblastoma）多為良性間質性腫瘤，並非乳房放療後最相關的惡性腫瘤。\n- D. 錯誤。平滑肌肉瘤可發生於軟組織或血管平滑肌來源部位，但乳房放射線治療後的經典惡性腫瘤連結是 angiosarcoma。\n\n【核心考點】\n看到「乳房放射線治療後」加上「惡性腫瘤」，要優先想到 radiation-associated angiosarcoma，而不是葉狀瘤或其他肉瘤。",
+      "key_point": "乳房放射治療後最典型相關的惡性腫瘤是 radiation-associated angiosarcoma。",
+      "flashcard_front": "乳房放射線治療後最相關的惡性腫瘤",
+      "flashcard_back": "血管肉瘤（angiosarcoma），常在放療後多年於乳房或胸壁皮膚出現。",
+      "flashcard_summary": "breast radiotherapy -> radiation-associated angiosarcoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n乳房良性或前驅病變的乳癌風險可分層：非增生性病變風險最低，無 atypia 的增生性病變風險中等，具有 atypia 的病變風險最高。選項中非典型小葉增生（atypical lobular hyperplasia, ALH）屬 atypical hyperplasia，因此侵襲性乳癌風險最高。\n\n【選項詳解】\n- A. 正確。ALH 屬於小葉性腫瘤譜系，代表乳癌風險明顯增加，且風險可影響雙側乳房；相較於單純硬化性或複雜性良性病變，atypia 是風險上升的關鍵。\n- B. 錯誤。硬化性腺病（sclerosing adenosis）是增生性但通常無 atypia 的病變，可使風險略升，但低於 atypical lobular hyperplasia。\n- C. 錯誤。複雜性硬化病變（complex sclerosing lesion/radial scar）與結構扭曲和較高風險相關，但若未提 atypia，風險通常不及 ALH。\n- D. 錯誤。複雜性纖維腺瘤可使後續乳癌風險稍微增加，尤其若合併 proliferative disease 或家族史，但本身風險低於 atypical hyperplasia。\n\n【核心考點】\n乳房病變風險排序要抓「有無 atypia」。Atypical ductal/lobular hyperplasia 的風險高於 sclerosing adenosis、radial scar 或 complex fibroadenoma。",
+      "key_point": "乳房良性病變中，帶有 atypia 的 atypical lobular hyperplasia 比無 atypia 的增生性或複雜性病變有更高侵襲性乳癌風險。",
+      "flashcard_front": "哪類乳房病變讓侵襲性乳癌風險最高？",
+      "flashcard_back": "帶 atypia 的增生性病變，例如 atypical lobular hyperplasia；風險高於 sclerosing adenosis、radial scar 或 complex fibroadenoma。",
+      "flashcard_summary": "breast cancer risk lesion -> atypical lobular hyperplasia 風險最高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題以子宮頸抹片後切片影像判讀診斷，官方答案為高度鱗狀上皮內病灶（high-grade squamous intraepithelial lesion, HSIL）。HSIL 對應 CIN 2/3，病理上可見不成熟異型鱗狀上皮細胞向上層延伸、核大深染、核分裂增加，但尚未突破基底膜形成侵襲癌。\n\n【選項詳解】\n- A. 正確。HSIL 是高風險 HPV 相關的子宮頸前癌病變，異型細胞累及上皮中下層甚至全層，常有高核質比與異常核分裂；若未見基底膜侵犯，診斷仍為上皮內病灶。\n- B. 錯誤。鱗狀上皮癌（squamous cell carcinoma）需要看到腫瘤細胞突破基底膜並侵犯間質；單純上皮內全層異型仍屬 HSIL/CIN 3，而非侵襲癌。\n- C. 錯誤。原位腺癌（adenocarcinoma in situ）是腺體上皮病變，會以腺體結構、柱狀細胞核異型與腺腔排列異常為主，不是鱗狀上皮內病灶的典型診斷。\n- D. 錯誤。低度鱗狀上皮內病灶（LSIL）對應 HPV effect/CIN 1，異型主要限於下三分之一，常見 koilocytosis；若病變達中上層或全層異型，應歸為 HSIL。\n\n【核心考點】\n子宮頸鱗狀上皮內病灶的分級取決於異型細胞累及上皮厚度與是否侵犯間質。HSIL 是 CIN 2/3；一旦突破基底膜才是 squamous cell carcinoma。",
+      "key_point": "HSIL 對應 CIN 2/3，異型鱗狀細胞累及上皮中上層但未侵犯間質；侵犯基底膜後才診斷鱗狀上皮癌。",
+      "flashcard_front": "子宮頸 HSIL 與 squamous cell carcinoma 的差別",
+      "flashcard_back": "HSIL 為 CIN 2/3，上皮內高級別異型但未突破基底膜；突破基底膜侵犯間質才是鱗狀上皮癌。",
+      "flashcard_summary": "cervical biopsy -> HSIL = CIN 2/3, no stromal invasion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n題目問哪些骨骼疾病與蝕骨細胞（osteoclast）活性異常較有關。1 osteopetrosis 是 osteoclast 骨吸收功能缺陷；3 post-menopausal osteoporosis 因雌激素下降使 osteoclast 活性相對增加；5 Paget disease 有過度 osteoclast-mediated bone resorption 與後續混亂性造骨，因此組合為 1、3、5。\n\n【選項詳解】\n- A. 錯誤。124 包含 1 osteopetrosis 正確，但 2 senile osteoporosis 主要與老化造成造骨細胞功能下降、骨形成不足及骨量流失相關；4 osteomalacia 是 osteoid mineralization 缺陷，不是 osteoclast 活性異常為主。\n- B. 正確。135 同時包含 osteopetrosis 的 osteoclast resorption failure、post-menopausal osteoporosis 的 estrogen loss 造成 osteoclast 活性上升，以及 Paget disease 的過度 osteoclast 骨吸收。\n- C. 錯誤。235 雖含 3 與 5，但加入 2 senile osteoporosis，且漏掉典型由 osteoclast 功能障礙造成的 1 osteopetrosis。\n- D. 錯誤。345 雖含 3 與 5，但 4 osteomalacia 是維生素 D 缺乏或磷酸鹽代謝問題造成類骨質礦化不良；它不是以 osteoclast 活性異常為核心。\n\n【核心考點】\nOsteoclast 異常常考三類：osteopetrosis 是骨吸收失敗，停經後骨質疏鬆是 osteoclast 活性相對增加，Paget disease 是過度且混亂的骨吸收與再形成。Osteomalacia 的核心是礦化不良。",
+      "key_point": "與 osteoclast 活性異常最相關的是 osteopetrosis、post-menopausal osteoporosis 與 Paget disease；osteomalacia 是礦化不良。",
+      "flashcard_front": "哪些骨病和 osteoclast 活性異常最相關？",
+      "flashcard_back": "Osteopetrosis、post-menopausal osteoporosis、Paget disease。Osteomalacia 則是 osteoid mineralization 缺陷。",
+      "flashcard_summary": "osteoclast abnormality -> osteopetrosis + postmenopausal osteoporosis + Paget disease",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n題目問哪一種感染相關皮膚病變最可能在皮膚病灶處培養出致病微生物。Erythema migrans 是 Lyme disease 早期在 Borrelia burgdorferi 感染部位形成的擴大性紅斑，病灶本身與螺旋體局部感染較直接相關；其餘多屬感染後或免疫反應型病灶，通常不容易在皮膚病灶中培養出原致病菌。\n\n【選項詳解】\n- A. 錯誤。Erythema multiforme 常是感染或藥物誘發的免疫反應，HSV 是常見誘因，但典型 target lesions 並非由病灶內大量可培養病原直接造成。\n- B. 錯誤。Erythema induratum/nodular vasculitis 可與結核感染相關，但多被視為對結核抗原的免疫反應，病灶處通常不易培養出結核菌。\n- C. 錯誤。Erythema nodosum 是皮下脂肪 septal panniculitis，常由鏈球菌感染、結核、sarcoidosis、藥物或發炎性腸病等誘發，病灶本身通常是反應性發炎。\n- D. 正確。Erythema migrans 發生於蜱叮咬後 Borrelia burgdorferi 在皮膚局部擴散的早期感染，和病原所在部位最直接相關，因此相較其他選項最可能在病灶處偵測或培養出致病微生物。\n\n【核心考點】\n感染相關紅斑不一定代表病灶內有活菌。Erythema nodosum、erythema induratum、erythema multiforme 多偏免疫反應；erythema migrans 則是 Lyme disease 早期局部 Borrelia 感染表現。",
+      "key_point": "Erythema migrans 是 Lyme disease 早期 Borrelia 局部感染表現；其他 erythema 類病灶多為感染後或免疫反應，較不易培養出病原。",
+      "flashcard_front": "哪種感染相關皮膚紅斑最直接代表病灶局部感染？",
+      "flashcard_back": "Erythema migrans；它是 Borrelia burgdorferi 經蜱叮咬後在皮膚局部擴散形成的早期 Lyme disease 病灶。",
+      "flashcard_summary": "erythema migrans -> Lyme disease 局部 Borrelia 感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題問感染性關節炎的「最不適當」敘述。兩歲以下幼兒化膿性關節炎常見病原包含 Staphylococcus aureus，且幼兒族群也需想到 Kingella kingae；Salmonella 特別和鐮刀型貧血或免疫缺陷相關，不能說是兩歲以下幼兒最常見病原體。\n\n【選項詳解】\n- A. 不適當。Salmonella 可造成骨髓炎或化膿性關節炎，尤其在鐮刀型貧血、免疫低下或特定腸道感染後，但它不是兩歲以下幼兒最常見的化膿性關節炎病原。\n- B. 適當。成人化膿性關節炎最常見病原是 Staphylococcus aureus，常經血行播散或關節穿刺、外傷、手術後進入關節腔。\n- C. 適當。結核性關節炎通常為慢性單關節炎，常侵犯承重關節如髖關節或膝關節，可造成漸進性關節破壞。\n- D. 適當。補體末端成分 C5-C9 缺損會降低 membrane attack complex 對 Neisseria 的防禦，增加播散性淋病與淋病性關節炎風險。\n\n【核心考點】\n感染性關節炎病原要依年齡與宿主因素判斷：成人最常見 S. aureus；幼兒需想到 S. aureus 與 Kingella kingae；Salmonella 要特別連到鐮刀型貧血或免疫低下。末端補體缺損則提示 Neisseria 感染風險。",
+      "key_point": "成人化膿性關節炎最常見 S. aureus；幼兒常見 S. aureus 或 Kingella kingae，Salmonella 主要提示鐮刀型貧血或免疫低下。",
+      "flashcard_front": "感染性關節炎病原與宿主線索",
+      "flashcard_back": "成人最常見 Staphylococcus aureus；幼兒需想到 S. aureus/Kingella kingae；Salmonella 與鐮刀型貧血或免疫低下相關，C5-C9 缺損增加 Neisseria 風險。",
+      "flashcard_summary": "septic arthritis -> adult S. aureus; child S. aureus/Kingella; Salmonella in sickle cell",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:35+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

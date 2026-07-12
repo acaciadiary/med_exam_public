@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-2.json",
+  "dataset_id": "114-2_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題問「判斷腫瘤為惡性的特徵，何者最不可靠」。惡性腫瘤的判斷重點通常是侵襲性生長、遠端轉移，以及細胞形態上的惡性特徵。生長速度可以提供警訊，但本身最不可靠，因為良性腫瘤、發炎性病灶或荷爾蒙刺激相關病灶也可能短期變大，而有些惡性腫瘤反而生長較慢。\n\n【選項詳解】\n- A. 生長快速：這是本題答案。快速變大只能提示需要評估，不能單獨證明惡性；良性病灶也可能因出血、囊性變、感染或內分泌刺激而變大。\n- B. 分化不良：分化不良代表腫瘤細胞失去原本組織成熟特徵，越不分化通常越支持惡性，是比生長速度更可靠的組織學線索。\n- C. 不典型有絲分裂：不典型 mitosis 反映細胞分裂控制失常，是惡性腫瘤常見的細胞學特徵，診斷價值高於單純生長快。\n- D. 遠端轉移：遠端轉移幾乎可直接定義為惡性行為，是判斷惡性最有力的特徵之一，不會是「最不可靠」。\n\n【核心考點】\n腫瘤惡性的最可靠證據是侵襲與轉移；組織學上的分化不良、不典型有絲分裂也支持惡性。單純「生長快速」變異很大，不能單獨作為惡性判準。",
+      "key_point": "判斷腫瘤惡性以侵襲、轉移與細胞異型性最可靠；單純生長快速最不可靠。",
+      "flashcard_front": "判斷腫瘤惡性時，哪個特徵最不可靠？",
+      "flashcard_back": "生長快速最不可靠；遠端轉移、分化不良與不典型有絲分裂更能支持惡性。",
+      "flashcard_summary": "腫瘤惡性判斷 -> 生長快速不如轉移與細胞異型性可靠",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n題目問哪一種先天性心臟病長期最容易造成肺高壓。關鍵是「長期大量左向右分流」會讓肺血流量與肺動脈壓持續升高，進一步造成肺血管中層肥厚與內膜增生，最後可進展成不可逆肺高壓甚至 Eisenmenger syndrome。明顯心室中隔缺損最符合這個機轉。\n\n【選項詳解】\n- A. 明顯的心室中隔缺損(ventricular septal defect)：這是本題答案。大 VSD 會讓左心室高壓血流分流到右心室與肺循環，長期肺血流過多最容易造成肺高壓。\n- B. 典型的 Fallot 氏四合症(classic tetralogy of Fallot)：典型 TOF 以右室出口阻塞與右向左分流為主，肺血流常減少，主要表現是發紺，不是長期肺血流過多造成肺高壓的典型情境。\n- C. 成人型導管後主動脈狹窄(adult form postductal coarctation of aorta)：這主要造成上肢高血壓、左心室壓力負荷與側枝循環，病灶在體循環主動脈，不是直接造成肺循環過度灌流。\n- D. 單獨的肺動脈瓣狹窄(isolated pulmonary stenosis)：肺動脈瓣狹窄會造成右心室壓力負荷，且肺血流可能減少；它不是因大量左向右分流導致肺動脈高壓的典型原因。\n\n【核心考點】\n會造成肺高壓的先天性心臟病，常是未矯正的大型左向右分流病灶，例如 VSD、PDA 或 ASD。分流越大、暴露時間越久，越容易造成肺血管重塑與 Eisenmenger syndrome。",
+      "key_point": "大型 VSD 造成長期左向右分流與肺血流過多，是先天性心臟病導致肺高壓的典型原因。",
+      "flashcard_front": "哪種先天性心臟病長期最容易造成肺高壓？",
+      "flashcard_back": "明顯 VSD；大型左向右分流會使肺血流與肺動脈壓長期升高。",
+      "flashcard_summary": "先天性心臟病肺高壓 -> 大型 VSD 左向右分流",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n題目問凝血功能異常中，何者主要不是血小板功能缺失造成。血小板問題通常影響初級止血，表現為黏附、活化或聚集異常；凝血因子缺陷則屬於次級止血問題。血友病是凝血因子 VIII 或 IX 缺乏，核心問題不在血小板功能。\n\n【選項詳解】\n- A. von Willebrand 氏病(von Willebrand disease)：vWF 幫助血小板黏附到受傷血管內皮下基質，也穩定 factor VIII；因此 vWD 可造成血小板黏附異常與凝血異常，不是本題答案。\n- B. 尿毒症(uremia)：尿毒症會造成血小板功能障礙，特別是血小板黏附與聚集不良，常表現為黏膜出血或出血時間延長。\n- C. 血友病(hemophilia)：這是本題答案。血友病 A 是 factor VIII 缺乏，血友病 B 是 factor IX 缺乏，主要是凝血因子路徑異常，血小板數量與功能本身通常正常。\n- D. 使用阿斯匹靈(aspirin)藥物：aspirin 抑制血小板 COX-1，降低 thromboxane A2 生成，導致血小板聚集能力下降，因此屬於血小板功能受抑制。\n\n【核心考點】\n血小板功能異常影響初級止血；凝血因子缺陷影響次級止血。血友病是 factor VIII 或 IX 缺乏，不是血小板功能缺失。",
+      "key_point": "血友病屬於凝血因子 VIII 或 IX 缺乏，主要不是血小板功能異常。",
+      "flashcard_front": "哪個凝血異常主要不是血小板功能缺失？",
+      "flashcard_back": "血友病；它是凝血因子 VIII 或 IX 缺乏，而 vWD、尿毒症、aspirin 都可影響血小板功能。",
+      "flashcard_summary": "止血異常分類 -> hemophilia 是凝血因子缺乏，不是 platelet dysfunction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n題目問哪種惡性淋巴瘤在組織切片中，真正的腫瘤細胞通常只占小部分。Hodgkin lymphoma 的典型特色是少數 Reed-Sternberg cells 或其變異型細胞，混在大量反應性發炎細胞背景中；因此腫瘤細胞比例常比其他非何杰金氏淋巴瘤低。\n\n【選項詳解】\n- A. 瀰漫性大 B 細胞淋巴瘤(diffuse large B-cell lymphoma)：DLBCL 通常由大片大型惡性 B 細胞瀰漫性取代組織，腫瘤細胞本身占比高，不符合題幹。\n- B. 退行性大細胞淋巴瘤(anaplastic large cell lymphoma)：ALCL 也常見大片 CD30 陽性的惡性大細胞增生，不是少數腫瘤細胞夾在大量反應性細胞中的典型型態。\n- C. 何杰金氏淋巴瘤(Hodgkin lymphoma)：這是本題答案。Hodgkin/Reed-Sternberg cells 數量通常少，背景可見淋巴球、嗜酸性球、漿細胞與組織球等反應性細胞。\n- D. Burkitt 氏淋巴瘤(Burkitt lymphoma)：Burkitt lymphoma 通常是高度增殖的單形性中型 B 細胞，常呈 starry-sky pattern，腫瘤細胞占比高。\n\n【核心考點】\nHodgkin lymphoma 的診斷重點不是腫瘤細胞很多，而是少數 Reed-Sternberg cells 加上豐富反應性背景。多數 aggressive non-Hodgkin lymphoma 會由大量腫瘤細胞取代組織。",
+      "key_point": "Hodgkin lymphoma 常只有少數 Reed-Sternberg cells，背景多為反應性發炎細胞。",
+      "flashcard_front": "哪種淋巴瘤切片中腫瘤細胞通常只占少部分？",
+      "flashcard_back": "Hodgkin lymphoma；少數 Reed-Sternberg cells 混在大量反應性細胞背景中。",
+      "flashcard_summary": "Hodgkin lymphoma -> 少數腫瘤細胞 + 豐富反應性背景",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n題目問哪種貧血最可能出現骨髓造血細胞量(cellularity)比正常少。多數貧血會刺激骨髓代償，使紅血球生成增加；再生不良性貧血則是造血幹細胞或骨髓造血環境衰竭，骨髓被脂肪取代，形成 hypocellular marrow。\n\n【選項詳解】\n- A. 缺鐵性貧血(iron deficiency anemia)：缺鐵會使血紅素合成不足，但骨髓通常仍會嘗試增加紅血球生成；不是典型低 cellularity 的貧血。\n- B. 巨母紅血球性貧血(megaloblastic anemia)：因 DNA 合成障礙造成無效造血，骨髓常呈 hypercellular，且可見巨母紅血球變化，不是造血細胞量減少。\n- C. 地中海型貧血(thalassemia)：因 globin chain 合成異常造成慢性溶血與無效造血，骨髓常有紅血球系增生，甚至骨髓擴張。\n- D. 再生不良性貧血(aplastic anemia)：這是本題答案。其本質是骨髓造血衰竭，骨髓 hypocellular 且脂肪增加，可造成全血球低下。\n\n【核心考點】\n看到「貧血加骨髓 cellularity 減少」，要想到 aplastic anemia。缺鐵、巨母紅血球性貧血與地中海型貧血通常不是骨髓造血細胞量低下的典型型態。",
+      "key_point": "再生不良性貧血是骨髓造血衰竭，典型為 hypocellular marrow 與脂肪取代。",
+      "flashcard_front": "哪種貧血骨髓 cellularity 最可能比正常少？",
+      "flashcard_back": "再生不良性貧血；骨髓造血衰竭導致 hypocellular marrow。",
+      "flashcard_summary": "低骨髓 cellularity 貧血 -> aplastic anemia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題問鼻咽癌敘述何者錯誤。原資料顯示本題有官方更正為一律給分，但若依病理學概念判斷，鼻咽癌最典型的病毒關聯是 Epstein-Barr virus (EBV)，不是高風險 HPV；高風險 HPV 較典型連結於部分口咽部鱗狀細胞癌。因此 A 是概念上最不適當的敘述。\n\n【選項詳解】\n- A. 與高風險人類乳突病毒(high-risk human papillomavirus, HR-HPV)有關：這是概念上的錯誤敘述。鼻咽癌尤其非角化型與 EBV 關係密切；HR-HPV 不是鼻咽癌最典型的病因連結。\n- B. 臺灣與中國東南方的盛行率高於美國及歐洲：這是鼻咽癌的典型流行病學特徵，南中國、東南亞與台灣等地發生率較高。\n- C. 形態學上主要分為角化(keratinizing)、非角化(nonkeratinizing)或類基底(basaloid)鱗狀細胞癌：這符合鼻咽癌常用的形態分類概念，不是主要錯誤。\n- D. 頸部腫塊、聽力障礙或閉塞感、痰中或鼻涕中帶血、鼻塞、頭痛是常見症狀：鼻咽癌可因頸部淋巴結轉移、耳咽管阻塞或局部侵犯產生這些症狀，敘述合理。\n\n【核心考點】\n鼻咽癌的高頻考點是 EBV 關聯、東亞高盛行率、非角化型常見，以及頸部腫塊與鼻耳症狀。HR-HPV 主要連到部分口咽癌，而不是鼻咽癌的典型病因。",
+      "key_point": "鼻咽癌典型與 EBV 相關；HR-HPV 較典型連到部分口咽癌。",
+      "flashcard_front": "鼻咽癌最典型的病毒關聯是什麼？",
+      "flashcard_back": "EBV；若選項說鼻咽癌主要與 high-risk HPV 相關，通常是不適當敘述。",
+      "flashcard_summary": "鼻咽癌 -> EBV、東亞高盛行率、頸部腫塊與鼻耳症狀",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": [
+        "原資料第 86 題 answer_status 為 all_credit，correct_answers 為 A-D；本說明依概念指出 A 最不適當，合併保留一律給分狀態供人工審核。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n題目問小細胞肺癌(small cell carcinoma)何者錯誤。小細胞肺癌是高度惡性的神經內分泌癌，與吸菸關聯非常強，分子上常見 TP53 與 RB1 失活，也常與副贅瘤症候群相關。EGFR 突變則是肺腺癌較典型的可標靶突變，不是小細胞肺癌在台灣有三成帶有的典型特徵。\n\n【選項詳解】\n- A. 與抽菸有強烈相關性：正確敘述。小細胞肺癌和吸菸關聯極強，臨床上多見於重度吸菸者。\n- B. 在臺灣，小細胞肺癌有三成帶有 EGFR 突變：這是本題答案。EGFR 突變較常考在肺腺癌，尤其亞洲、女性、非吸菸者族群；把三成 EGFR 突變套到小細胞肺癌是不適當的。\n- C. 大多數小細胞肺癌帶有 TP53 與 RB 基因突變：正確敘述。TP53 與 RB1 失活是小細胞肺癌非常典型的分子事件。\n- D. 小細胞肺癌也會有副贅瘤症候群(paraneoplastic syndromes)：正確敘述。可見 SIADH、異位 ACTH 造成 Cushing syndrome，或 Lambert-Eaton myasthenic syndrome 等。\n\n【核心考點】\n小細胞肺癌的關鍵是 smoking association、neuroendocrine features、TP53/RB1 失活與 paraneoplastic syndrome。EGFR 突變是肺腺癌的經典考點，不是小細胞肺癌的常見三成特徵。",
+      "key_point": "小細胞肺癌典型與吸菸、TP53/RB1 失活及副贅瘤症候群相關；EGFR 突變較屬肺腺癌考點。",
+      "flashcard_front": "小細胞肺癌哪個分子敘述常是陷阱？",
+      "flashcard_back": "把 EGFR 突變說成小細胞肺癌常見三成是不適當；EGFR 是肺腺癌較典型。",
+      "flashcard_summary": "Small cell carcinoma -> smoking、TP53/RB1、paraneoplastic；非典型 EGFR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n題目問塵肺病(pneumoconiosis)何者錯誤。矽肺病是吸入 crystalline silica 後引起的纖維化肺病，常見上肺葉結節與 whorled collagen fibers。停止暴露可以避免進一步接觸，但既有纖維化通常不會逐漸恢復，疾病甚至可能持續進展；因此 C 的「肺功能通常會逐漸恢復」是最不適當處。\n\n【選項詳解】\n- A. 成因可為無機物或有機物，多與職業或工作環境有關：職業或環境粉塵暴露是塵肺病與相關職業性肺病的核心背景，這個方向合理，不是本題最錯的敘述。\n- B. 矽肺病是目前最常見的塵肺病，成因為吸入 silica，形成的肺結節多出現在上肺葉：矽肺病典型與 silica 暴露有關，結節常偏上肺葉，符合常考病理描述。\n- C. 矽肺病患者停止接觸矽塵暴露後肺功能通常會逐漸恢復，惟嚴重者需接受肺移植治療：這是本題答案。停止暴露是必要處置，但已形成的纖維化多不可逆，肺功能通常不會因停止暴露而逐漸恢復。\n- D. 矽肺病的肺結節常出現嚴重纖維化且有 whorled collagen fibers，在偏光顯微鏡下可看到 silica 沉積：這是矽肺病的典型病理學描述，不是錯誤敘述。\n\n【核心考點】\n矽肺病是不可逆纖維化疾病；處置重點是移除暴露、監測併發症與支持治療。看到「停止接觸後肺功能通常恢復」要警覺，因為纖維化通常不會逆轉。",
+      "key_point": "矽肺病造成不可逆肺纖維化；停止 silica 暴露可防止惡化，但通常不能讓肺功能逐漸恢復。",
+      "flashcard_front": "矽肺病停止暴露後肺功能會通常恢復嗎？",
+      "flashcard_back": "通常不會；既有纖維化多不可逆，停止暴露主要是避免進一步傷害。",
+      "flashcard_summary": "Silicosis -> upper-lobe nodules、whorled collagen、不可逆纖維化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n題目問口腔癌敘述何者錯誤。口腔鱗狀細胞癌的前驅病變常包括白斑與紅斑，危險因子包括菸、酒、檳榔。雖然口腔癌常見 TP53、CDKN2A、PIK3CA 等分子異常，但目前臨床上不像肺腺癌那樣有多種針對常見 driver mutation 的成熟標靶治療可作為主要治療模式，因此 C 把口腔癌類比肺腺癌是不適當的。\n\n【選項詳解】\n- A. 白斑(leukoplakia)與紅斑(erythroplakia)是可觀察到的早期病變：正確。兩者都是口腔癌前病變的重要臨床表現，紅斑尤其要高度懷疑高級別病變。\n- B. 紅斑(erythroplakia)病理上大多數是嚴重異生(severe dysplasia)或原位癌(carcinoma in situ)：正確。紅斑的惡性潛能高，常代表嚴重異生、原位癌或早期浸潤癌。\n- C. 口腔癌最常突變的基因有 TP53、CDKN2A、PIK3CA，與肺腺癌類似，目前已有多種有效的標靶藥物：這是本題答案。前半段列出的基因可見於口腔癌，但「與肺腺癌類似且已有多種有效標靶藥物」不符合口腔癌治療現況。\n- D. 口腔癌的危險因子包含抽菸、喝酒、檳榔，定期篩檢若能早期診斷則可提高患者預後：正確。這些是台灣口腔癌常見高風險因子，早期發現可改善治療結果。\n\n【核心考點】\n口腔癌常考菸、酒、檳榔與白斑/紅斑。不要把肺腺癌的 EGFR/ALK 等標靶治療邏輯直接套到口腔癌；口腔癌雖有分子變化，但成熟有效的多種 driver-targeted therapy 不是典型考點。",
+      "key_point": "口腔癌常見前驅病變是白斑與紅斑，危險因子是菸酒檳榔；治療不能類比肺腺癌的多種成熟標靶藥物。",
+      "flashcard_front": "口腔癌分子治療的常見陷阱是什麼？",
+      "flashcard_back": "不要把肺腺癌的多種有效標靶藥物模式套到口腔癌；口腔癌更常考菸酒檳榔與白斑/紅斑。",
+      "flashcard_summary": "口腔癌 -> 白斑/紅斑、菸酒檳榔；非肺腺癌式多標靶治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n題目問 HNF1α-inactivated hepatocellular adenoma 何者最不適當。這型肝細胞腺瘤常見於女性，可與 HNF1A germline mutation 及 maturity-onset diabetes of the young type 3 (MODY3) 相關，且惡性轉化風險相對低。病理診斷重點之一是 liver fatty acid binding protein (LFABP) 表現喪失，而不是高度表達。\n\n【選項詳解】\n- A. 與成熟型青少年糖尿病 3 型(maturity onset diabetes of the young, type 3)相關：正確。HNF1A germline mutation 可造成 MODY3，也與 HNF1α-inactivated HCA 相關。\n- B. 好發於女性：正確。肝細胞腺瘤整體常見於女性，與 estrogen exposure 或口服避孕藥使用等背景相關。\n- C. 轉化為肝細胞癌的風險極小：正確。HNF1α-inactivated HCA 的惡性轉化風險通常低於 beta-catenin activated hepatocellular adenoma。\n- D. 免疫組織化學染色下，腫瘤細胞的 liver fatty acid binding protein(LFABP)會高度表達：這是本題答案。HNF1α 失活會導致 LFABP 表現喪失，免疫染色應呈 loss of LFABP，而非高度表達。\n\n【核心考點】\nHNF1α-inactivated hepatocellular adenoma 的高分考點是女性、MODY3/HNF1A 關聯、惡性風險較低，以及 IHC 顯示 LFABP loss。若選項寫 LFABP 高度表達，方向相反。",
+      "key_point": "HNF1α-inactivated hepatocellular adenoma 的 IHC 特徵是 LFABP loss，不是 LFABP 高度表達。",
+      "flashcard_front": "HNF1α-inactivated hepatocellular adenoma 的 LFABP 染色如何？",
+      "flashcard_back": "LFABP loss；若寫成高度表達是不適當敘述。",
+      "flashcard_summary": "HNF1α-inactivated HCA -> MODY3、女性、低惡性風險、LFABP loss",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T20:20:40+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
