@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-4.json",
+  "dataset_id": "109-1_medicine-4",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-4_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題考查精神科常用藥物之治療藥物監測（TDM）的臨床適應症。鋰鹽（lithium）、丙戊酸（valproic acid）與卡巴馬平（carbamazepine）因治療窗窄或具備顯著器官毒性，在臨床上皆需定期抽血監測藥物濃度以調整劑量與預防中毒。\n\n【選項詳解】\n- A. 正確。clozapine（氯氮平）雖然有嚴重的顆粒性白血球缺乏症（agranulocytosis）風險，臨床上「必須定期監測白血球計數及分類（CBC with differential count）」，特別是絕對中性球計數（ANC），但常規上並不需要定期抽血監測 clozapine 本身的藥物血中濃度。\n- B. 錯誤。lithium（鋰鹽）的治療窗極窄（治療濃度通常在 0.6–1.2 mEq/L，大於 1.5 mEq/L 即可能中毒），且易受水分與腎功能影響，因此在臨床上必須定期抽血監測其血中濃度。\n- C. 錯誤。valproic acid（丙戊酸，常用於抗癲癇及雙極性障礙的躁症）具有肝毒性與血小板減少等副作用，其有效治療血藥濃度範圍為 50–100 mcg/mL，臨床上需定期監測其血中濃度。\n- D. 錯誤。carbamazepine（卡巴馬平，用於抗癲癇、三叉神經痛及躁症）會誘導肝臟細胞色素 P450 酵素（autoinduction），導致藥物代謝率隨時間改變，且治療窗窄（有效濃度 4–12 mcg/mL）並有引發嚴重皮膚反應（如 SJS/TEN）的風險，因此臨床上需要定期監測其血中濃度。\n\n【核心考點】\n常規需要進行治療藥物監測（TDM）的精神科與神經科藥物包括鋰鹽（lithium）、丙戊酸（valproic acid）與卡巴馬平（carbamazepine）；而 clozapine 臨床監測的重點是「白血球計數與絕對中性球計數（ANC）」，而非藥物血中濃度。",
+      "key_point": "Lithium、valproic acid 與 carbamazepine 治療窗狹窄需做治療藥物監測（TDM）；clozapine 則需定期監測「白血球計數及分類」而非藥物血中濃度。",
+      "flashcard_front": "下列哪一種精神科藥物在臨床上通常不需要定期抽血監測其血中濃度？",
+      "flashcard_back": "Clozapine。Clozapine 最具臨床意義的定期抽血監測為白血球計數及分類（預防顆粒性白血球缺乏症），而非其本身的藥物血中濃度。而鋰鹽（lithium）、丙戊酸（valproic acid）與卡巴馬平（carbamazepine）則因治療窗窄或具器官毒性，需常規進行血藥濃度監測（TDM）。",
+      "flashcard_summary": "治療藥物濃度監測 (TDM) -> Clozapine 需監測白血球計數及分類而非血藥濃度，而鋰鹽、丙戊酸及卡巴馬平則需定期做 TDM。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題考查經前症候群（PMS）與停經更年期症候群的症狀鑑別。經前症候群主要發生在生育年齡女性的黃體期，並在月經來潮後緩解，臨床表現以情緒波動及水分滯留的身體症狀為主；而熱潮紅為典型的更年期停經症狀。\n\n【選項詳解】\n- A. 錯誤。憂鬱（depression）是經前症候群極為常見的情緒症狀，患者常表現為情緒低落、易哭泣、對日常活動失去興趣等。\n- B. 錯誤。焦慮（anxiety）是經前症候群的核心情緒症狀之一，常伴隨神經緊張、易怒、情緒敏感以及人際衝突增加。\n- C. 正確。熱潮紅（hot flashes）主要是由於更年期（menopause）或卵巢功能早衰（POI）時，體內雌激素（estrogen）急速低下，導致下視丘體溫調節中樞失調所致。這屬於停經症候群的特徵，而在常規的經前症候群中「並不常見」。\n- D. 錯誤。腹脹（abdominal bloating）是經前症候群最常見的身體症狀之一，因黃體期孕激素與雌激素的波動導致體內水分滯留及腸胃道蠕動減緩所致。\n\n【核心考點】\n經前症候群（PMS）常以情緒症狀（如憂鬱、焦慮、易怒）與水分滯留相關症狀（如腹脹、乳房脹痛、水腫）為主，呈黃體期特有的週期性；熱潮紅則是因雌激素低下引起血管舒縮失調所致，為停經更年期症候群的典型表現。",
+      "key_point": "經前症候群（PMS）常見憂鬱、焦慮及腹脹；而熱潮紅為停經/更年期症候群因雌激素急速低下所致之典型症狀。",
+      "flashcard_front": "關於經前症候群（premenstrual syndrome）的常見症狀，下列何者不常見？",
+      "flashcard_back": "熱潮紅（hot flashes）。熱潮紅是更年期停經症候群（雌激素低下）的典型特徵；而憂鬱、焦慮及腹脹則是經前症候群（PMS）常見的情緒與生理表現。",
+      "flashcard_summary": "經前症候群 (PMS) -> 症狀包括憂鬱、焦慮與腹脹，而熱潮紅為停經更年期症候群之特徵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題考查轉化症（conversion disorder，又稱功能性神經症狀障礙症）的臨床特徵與溝通原則。轉化症患者常以神經系統的運動或感覺障礙為表現，但與實際解剖生理構造不符；治療上切忌直接否定患者的真實感受，以免破壞醫病關係。\n\n【選項詳解】\n- A. 錯誤。轉化症在女性中較為常見，且在人格特質上常與戲劇型人格障礙症（histrionic personality disorder）高度相關，患者可能表現出情緒誇張或易受暗示的特徵。\n- B. 錯誤。轉化症最經典的臨床表現為非器質性的感覺或運動功能喪失，其中以肢體癱瘓（paralysis）、視覺障礙或視盲（blindness）、以及失聲或不語（mutism）最為常見。\n- C. 錯誤。轉化症在男性患者中雖然較女性少見，但研究指出其常與反社會型人格障礙症（antisocial personality disorder）或物質濫用等有顯著的共病或相關性。\n- D. 正確。對轉化症患者而言，其症狀雖然缺乏器質性病因，但其痛苦與症狀感受對患者而言是真實存在的。若直接告知患者症狀是「想像出來的」或「裝出來的」，會讓患者感到被否定，产生極強的防禦心理，進而導致醫病關係破裂並加重病情。正確的治療應是建立支持性醫病關係，合併行為與物理治療。\n\n【核心考點】\n轉化症（功能性神經症狀障礙症）常見癱瘓、視盲或不語等神經學症狀，與心理衝突轉化為生理症狀有關。臨床治療以支持性心理治療與建立互信為首要，絕對避免採取直接告知或指責其症狀為虛構的對立方式。",
+      "key_point": "轉化症（功能性神經症狀障礙症）常見癱瘓、視盲及不語，與戲劇型或反社會型人格相關；治療切忌直接告知患者其症狀是想像出來的。",
+      "flashcard_front": "關於轉化症（conversion disorder）的臨床表現與治療原則，下列敘述何者錯誤？",
+      "flashcard_back": "告知患者其症狀是想像出來的。直接否定轉化症患者的真實感受會破壞醫病關係並加重焦慮。治療應建立互信並提供支持性心理治療與物理復健。",
+      "flashcard_summary": "轉化症治療原則 -> 常見癱瘓或視盲，治療切忌直接告知患者症狀為想像，應以支持性治療為主。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考查小兒科常見呼吸道疾病之胸部 X 光（CXR）影像特徵。題幹圖示為早產兒接受長期呼吸器治療後，肺部呈現雙側瀰漫性過度通氣以及氣泡樣的多發小囊泡影，這是典型的肺支氣管發育不良（BPD）表現。\n\n【選項詳解】\n- A. 錯誤。肺隔離症（pulmonary sequestration）是指一部分肺組織與正常支氣管樹隔離，且由體循環異常動脈供血。X 光多表現為局部實質性腫塊或伴有囊腫，好發於左下肺葉，而非雙側瀰漫性的氣泡樣纖維化病變。\n- B. 錯誤。氣胸（pneumothorax）在 X 光上的典型特徵是患側出現無肺紋（absent lung markings）的異常透亮區，並可見塌陷的肺邊緣（pleural line），多為單側突發，與瀰漫性網狀氣泡影不符。\n- C. 錯誤。大葉性肺炎（lobar pneumonia）的影像表現為特定肺葉的均勻緻密實變（consolidation），並常伴有支氣管氣像（air bronchogram），局限於單個或多個肺葉，不會呈現雙側瀰漫的氣泡樣囊泡影。\n- D. 正確。肺支氣管發育不良（bronchopulmonary dysplasia, BPD）主要發生在早產兒，特別是因肺泡表面張力素缺乏接受長期高濃度氧氣與正壓呼吸器治療者。其 CXR 特徵為雙側肺野瀰漫性過度通氣、局部肺塌陷，以及多發性小囊泡影（呈海綿樣或氣泡樣 spongy/bubble-like appearance）與不規則條索狀纖維化陰影。\n\n【核心考點】\n肺支氣管發育不良（BPD）的胸部 X 光特徵為雙側瀰漫性的過度通氣、不規則纖維化與海綿狀/氣泡狀的小囊泡陰影；需與單側無肺紋的氣胸、局限性實變的大葉性肺炎，以及異常動脈供血的肺隔離症進行鑑別。",
+      "key_point": "肺支氣管發育不良（BPD） X 光呈現雙側過度通氣與氣泡樣多發小囊泡；氣胸為單側透亮無肺紋；大葉性肺炎為肺葉實變與支氣管氣像。",
+      "flashcard_front": "若孩童的胸部 X 光呈現雙側瀰漫性過度通氣與氣泡樣囊泡影，最可能的診斷為何？",
+      "flashcard_back": "肺支氣管發育不良（bronchopulmonary dysplasia, BPD）。BPD 好發於接受正壓呼吸與高氧治療的早產兒，X 光特徵為雙側瀰漫性過度通氣與海綿樣多發小囊泡影，需與氣胸（單側無肺紋）、大葉性肺炎（肺葉實變）區分。",
+      "flashcard_summary": "肺支氣管發育不良 (BPD) -> 早產兒 BPD 之胸部 X 光呈雙側過度通氣與海綿樣多發小囊泡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題考查年輕患者腦葉出血的常見病因與血管攝影影像診斷。22 歲女性發生非高血壓性頂葉出血，最常由動靜脈畸形（AVM）引起。腦血管攝影（DSA）是診斷 AVM 的黃金標準，其典型特徵為畸形血管巢與早顯引流靜脈。\n\n【選項詳解】\n- A. 正確。動靜脈畸形（arteriovenous malformation, AVM）在血管攝影上可見增粗的供血動脈、異常纏繞的畸形血管巢（nidus），以及動靜脈短路導致提早顯影且擴張的引流靜脈（early draining vein），與本題影像吻合。\n- B. 錯誤。靜脈畸形（venous malformation / DVA）在血管攝影上的典型表現為許多細小的髓質靜脈呈放射狀匯入一條粗大的引流靜脈，形似「水母頭（caput medusae）」，且此類病變通常流量低、極少引起急性大片腦葉出血。\n- C. 錯誤。靜脈竇栓塞（sinus thrombosis）主要表現為靜脈竇充盈缺損（如 empty delta sign），在動脈期不會出現明顯的畸形血管巢或動靜脈短路引流，其出血常伴隨大片水腫與多發性點狀出血。\n- D. 錯誤。海綿狀血管瘤（cavernous hemangioma）屬於低流量血管病變，在傳統血管攝影（DSA）上通常是「隱匿性（angiographically occult）」的，即影像可能完全正常，主要需仰賴 MRI 上的爆米花樣（popcorn-like）特徵來確診。\n\n【核心考點】\n腦動靜脈畸形（AVM）是年輕人腦葉出血的重要原因，其血管攝影（DSA）的診斷核心為「供血動脈、畸形血管巢（nidus）及提早顯影的引流靜脈」；海綿狀血管瘤在 DSA 上通常無法顯影。",
+      "key_point": "動靜脈畸形（AVM）的血管攝影典型三聯徵為：供血動脈變粗、血管巢（nidus）及引流靜脈早顯。海綿狀血管瘤在 DSA 上常隱匿。",
+      "flashcard_front": "年輕女性因非高血壓性腦出血進行血管攝影，若見異常糾纏的血管巢與提早顯影的引流靜脈，最可能的診斷為何？",
+      "flashcard_back": "動靜脈畸形（arteriovenous malformation, AVM）。年輕患者腦葉出血首要懷疑 AVM。血管攝影（DSA）是黃金標準，典型見供血動脈增粗、血管巢（nidus）及引流靜脈提早顯影。海綿狀血管瘤在 DSA 上通常隱匿。",
+      "flashcard_summary": "腦動靜脈畸形 (AVM) -> 血管攝影黃金標準呈供血動脈變粗、糾纏血管巢與提早顯影之引流靜脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考查燒燙傷深度分度的臨床特徵與鑑別。根據患者燙傷後「紅腫起水泡，非常疼痛」的表現，其受損深度已波及真皮層，痛覺神經末梢仍完好並受到強烈刺激，這是典型的二度灼傷特徵。\n\n【選項詳解】\n- A. 錯誤。一度灼傷僅波及表皮層。臨床上表現為皮膚發紅、輕度腫脹、局部灼熱感與微痛，但其病灶「不會起水泡」，通常數日內即可自行癒合且不留疤痕。\n- B. 正確。二度灼傷波及真皮層，可進一步分為淺二度（傷及真皮乳頭層，水泡大、底面紅潤、極度疼痛）與深二度（傷及真皮深層，水泡壁厚、底面紅白色、痛覺較遲鈍）。兩者共同特徵皆為「紅腫起水泡」且伴隨顯著疼痛。\n- C. 錯誤。三度灼傷傷及整層皮膚（表皮與真皮全層），皮膚外觀呈皮革樣、白色或焦黑。由於真皮層內的感覺神經末梢已被完全破壞，患者的「痛覺消失」，不會感到如二度灼傷般的劇烈疼痛。\n- D. 錯誤。四度灼傷深及皮下脂肪、肌肉、骨骼等組織，外觀焦黑壞死，且痛覺神經已徹底損毀，臨床上不會表現出劇烈疼痛或表皮水泡。\n\n【核心考點】\n燒燙傷深度診斷中，一度灼傷紅腫無水泡；二度灼傷特色為起水泡且伴隨劇烈疼痛；三度以上灼傷則因真皮層感覺神經末梢被完全破壞，臨床上痛覺喪失。",
+      "key_point": "燒燙傷一度僅紅腫無水泡；二度傷及真皮，特色為起水泡與劇烈疼痛；三度以上傷及全皮，因痛覺神經破壞而無痛感。",
+      "flashcard_front": "若兒童被熱水燙傷手臂，局部紅腫、起水泡且伴隨劇烈疼痛，最可能為幾度灼傷？",
+      "flashcard_back": "二度灼傷。二度灼傷傷及真皮層，典型表現為局部紅腫起水泡並伴隨劇烈疼痛。一度灼傷僅紅腫無水泡，三度以上則因痛覺神經末梢被完全破壞而痛覺消失。",
+      "flashcard_summary": "燒燙傷分度 -> 一度紅腫無水泡，二度起水泡且極痛，三度以上無痛覺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題考查下肢靜脈高壓引起的淤積性皮炎（stasis dermatitis）之病因、臨床特徵與治療原則，並與周邊動脈阻塞疾病（PAOD）進行鑑別。患者具有長期下肢靜脈曲張及水腫史，伴雙下肢搔癢、紅腫及傷口癒合不良，此為典型靜脈高壓病變。\n\n【選項詳解】\n- A. 錯誤。患者有多年雙下肢靜脈曲張及慢性水腫，此次主訴雙下肢搔癢、紅斑、腫脹及慢性潰瘍（傷口癒合不良），這是典型的淤積性皮炎（stasis dermatitis）臨床表現，因靜脈瓣膜功能不全導致靜脈高壓所致。\n- B. 正確。周邊動脈阻塞疾病（PAOD）是由於動脈粥狀硬化導致下肢動脈血流受阻，典型症狀為間歇性跛行（intermittent claudication）、足部冰冷發紺、毛髮脫落及足背動脈搏動減弱；而本例患者的病因是「靜脈瓣膜功能不全」引發的靜脈高壓，並非動脈阻塞。\n- C. 錯誤。淤積性皮炎的皮膚完整性受損，容易繼發細菌感染（如蜂窩性組織炎）。若臨床確認合併細菌感染，必須給予適當的抗生素治療。\n- D. 錯誤。治療淤積性皮炎的關鍵在於降低下肢靜脈高壓（venous hypertension）。病患平常應穿著合適的醫療級彈性襪（compression stockings）以促進靜脈回流，並在休息時將下肢抬高（elevation）高於心臟水平。\n\n【核心考點】\n淤積性皮炎（stasis dermatitis）是由於靜脈瓣膜功能不全、靜脈高壓所致，表現為慢性水腫、含鐵血黃素沉著（紅褐色）、搔癢及潰瘍，需與 PAOD（動脈狹窄所致之間歇性跛行、足部冰冷、無水腫）作鑑別。",
+      "key_point": "淤積性皮炎由下肢靜脈高壓引起，表現為水腫、色素沉著與慢性潰瘍；PAOD 則為動脈阻塞，表現為間歇性跛行與冰冷發紺。",
+      "flashcard_front": "關於淤積性皮炎（stasis dermatitis）與周邊動脈阻塞疾病（PAOD）的臨床特徵，下列敘述何者錯誤？",
+      "flashcard_back": "這是周邊動脈阻塞疾病（PAOD）的臨床徵候。此患者為長期靜脈曲張引起的淤積性皮炎（stasis dermatitis），與靜脈高壓有關。PAOD 則為動脈阻塞，表現為間歇性跛行、足部冰冷發紺與動脈搏動減弱。",
+      "flashcard_summary": "淤積性皮炎 vs. 周邊動脈阻塞疾病 (PAOD) -> 淤積性皮炎因靜脈曲張高壓致下肢紅腫潰瘍；PAOD 為動脈阻塞致跛行與冰冷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考查酒精戒斷症候群（alcohol withdrawal syndrome）在急診的常規治療藥物與使用原則。酒精戒斷的一線藥物首選為苯二氮平類（benzodiazepines），以緩解自主神經亢進；補充電解質、水分及硫酸鎂可預防戒斷性痙攣；thiamine 則可預防 Wernicke 腦病。\n\n【選項詳解】\n- A. 正確。phenobarbital 屬於巴比妥類（barbiturates）藥物，具備極強的呼吸抑制作用與高度成癮性，且與酒精有強烈協同抑制作用。在急診常規治療中，「不作為常規首選或一線治療」，僅在極少數重度難治性戒斷譫妄、或在加護病房嚴密監測下才考慮使用。\n- B. 錯誤。酒精中毒患者常伴隨低鎂血症，低鎂會降低腦部的痙攣閾值（seizure threshold）。給予硫酸鎂（magnesium sulfate）能矯正電解質失衡，有效防治酒精戒斷引起的痙攣發作。\n- C. 錯誤。苯二氮平類（如 lorazepam）是酒精戒斷症候群的一線首選藥物，能活化 GABA 受體以對抗戒斷時的穀氨酸（glutamate）亢進，穩定生命徵象。Lorazepam 無活性代謝產物，對肝臟負擔小，尤適用於可能合併酒精性肝病的患者。\n- D. 錯誤。慢性酒精成癮者常有維生素 B1 缺乏。給予 thiamine 能預防因維生素 B1 缺乏引起的急重症—威尼克氏腦病（Wernicke's encephalopathy）。臨床上給予葡萄糖水前必須先給予 thiamine，以防誘發此病。\n\n【核心考點】\n酒精戒斷症候群的急診處置以苯二氮平類藥物（如 lorazepam）為一線藥物，並常規補充電解質與硫酸鎂以預防痙攣，以及給予 thiamine 預防 Wernicke 腦病；巴比妥類的 phenobarbital 因安全性窄，不作為常規首選。",
+      "key_point": "酒精戒斷常規一線首選為苯二氮平類（如 lorazepam），並補充足夠水分、thiamine（防 Wernicke 腦病）與硫酸鎂；非常規使用 phenobarbital。",
+      "flashcard_front": "在急診處理酒精戒斷（alcohol withdrawal）症狀時，下列哪一種藥物治療最不適當？",
+      "flashcard_back": "Phenobarbital。酒精戒斷一線治療首選苯二氮平類（如 lorazepam），並補充 thiamine（預防 Wernicke 腦病）及硫酸鎂（防治痙攣）。Phenobarbital（巴比妥類）易致嚴重呼吸抑制且具成癮性，非常規首選。",
+      "flashcard_summary": "酒精戒斷治療 -> 一線首選為苯二氮平類藥物，並常規補充 thiamine 與硫酸鎂，不常規使用 phenobarbital。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考查生命倫理學中知情同意的「自願（voluntariness）」原則。自願性要求患者的醫療決定必須在不受外部威脅（強迫）、隱瞞重要資訊（欺騙/操縱）或給予不合理利益（不當勸誘）的干擾下做出，完全基於其自由意志。\n\n【選項詳解】\n- A. 正確。病人A基於長期與醫師P建立的深厚信任關係，理解並認同醫師對其焦慮症的診斷與處置，決定遵循醫師建議的方案治療。此決策過程中沒有受到威脅或欺騙，是由病人自主、自願做出的選擇，最符合自願性原則。\n- B. 錯誤。以「增加零用錢」為條件勸誘慢性思覺失調症患者服藥，屬於利用外部利益對患者進行「不當勸誘（undue influence）」或操縱，干擾了患者對服藥本身臨床利弊的理性自主判斷。\n- C. 錯誤。醫師擔心患者不服藥而刻意「隱瞞」長期服用抗精神病藥物可能導致體重增加的嚴重副作用。這違反了知情同意的「知情」前提，屬於資訊操縱，使患者無法基於完整資訊做出自願選擇。\n- D. 錯誤。醫師以「如果不自願住院，就將妳強制住院」相威脅，這屬於典型的「強迫（coercion）」。在此威脅與恐懼下所簽署的「自願住院同意書」，實質上完全違背了自願性原則。\n\n【核心考點】\n知情同意中，病人「自願（voluntariness）」意指其決定必須排除強迫（coercion）、欺騙或隱瞞（deception/manipulation）以及不當利益勸誘（undue influence）。基於醫病互信並充分知情後自發接受建議，最符合此倫理原則。",
+      "key_point": "病人自願（voluntariness）指決策不受強迫（coercion）、欺騙/隱瞞（deception）或不當利益勸誘（undue influence）影響。",
+      "flashcard_front": "在知情同意與醫療決策中，下列哪一種醫療介入方式比較符合病人自願（voluntariness）原則？",
+      "flashcard_back": "焦慮症病人信任醫師並遵照其合理治療方案。病人自願（voluntariness）要求決策不受強迫、隱瞞或外部不當勸誘干擾。增加零用錢（不當勸誘）、隱瞞副作用（違反知情）、威脅強制住院（強迫）均不符自願原則。",
+      "flashcard_summary": "病人自願性原則 (Voluntariness) -> 醫療同意須排除強迫、不當勸誘與欺騙隱瞞，醫病信任下遵從建議最符合自願性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題考查安寧緩和醫療與病人自主權利中不予急救（DNR）意願書的法律與倫理實踐。患者為末期小腦萎縮症患者，大片腦梗塞合併呼吸衰竭已達臨終狀態，且病人先前已簽署書面 DNR意願書，醫療團隊應尊重其醫療自主權，給予緩和照護。\n\n【選項詳解】\n- A. 錯誤。工廠負責人並法定家屬或病人的醫療委任代理人，無權代表病人決定或簽署插管同意書。此外，病人生前已預立書面 DNR意願，醫療團隊應尊重其自主決定，而非以「醫師救命職責」為由強行違背其意願。\n- B. 錯誤。警衛或社工人員並法定家屬或醫療代理人，無權代表病人簽署同意書。違背病人生前明確意願強行進行氣管插管，違反了安寧緩和醫療條例與病人自主權利法。\n- C. 錯誤。病人已罹患不可逆之末期小腦萎縮症，且大片腦梗塞合併呼吸衰竭已瀕臨死亡，同時生前留有書面 DNR。直接氣管插管與透析屬於無效醫療（medical futility），不僅違背病人意願，更徒增病人痛苦。\n- D. 正確。根據安寧緩和醫療相關法規，當病人處於疾病末期且生前已預立書面 DNR意願書時，應尊重其選擇，不予進行氣管插管、心肺復甦術、透析等侵入性延命治療。此時最適切的處理是給予一般支持與舒適照護，減輕其臨終痛苦。\n\n【核心考點】\n對於已預立書面不予急救意願書（DNR）的末期臨終病人，醫療團隊應尊重其自主決定，僅給予舒適支持療法，避免進行氣管插管、透析等無效且違反病人自主權的侵入性維生處置。非關係人（如負責人、警衛）亦無權代簽同意書。",
+      "key_point": "對於末期病人已預立書面不予急救（DNR）者，應尊重其醫療自主權，給予緩和支持療法，避免氣管插管或透析等侵入性延命治療。",
+      "flashcard_front": "若末期病人已預立書面不予急救（DNR）意願書，當其發生大片腦梗塞合併呼吸衰竭時，最適切的醫療處置為何？",
+      "flashcard_back": "只進行一般支持療法，不插管也不洗腎。醫療團隊應尊重病人預立之書面 DNR 意願，在末期瀕死時給予舒適照護（安寧緩和），避免過度且違背病人意願的侵入性延命治療。",
+      "flashcard_summary": "不予急救意願書 (DNR) -> 尊重末期患者預立 DNR 意願，提供安寧緩和支持，不予以插管與透析等維生治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

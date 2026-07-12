@@ -1,0 +1,256 @@
+import json
+import os
+
+# Create target directory if it doesn't exist
+os.makedirs("scratch/rewrite_updates/109-1_medicine-4", exist_ok=True)
+
+updates = [
+    {
+        "question_id": "109-1_medicine-4_021",
+        "question_number": 21,
+        "explanation": """【題幹解析】
+川崎氏症（Kawasaki disease）是一種多發於五歲以下幼童的全身性血管炎。其診斷依賴臨床特徵的評估，其中手腳的脫皮是該病在亞急性期（發病後第 2 至 3 星期）非常典型的特徵。
+
+【選項詳解】
+- A. 錯誤。若未接受靜脈注射免疫球蛋白（IVIG）治療，川崎氏症病童通常會持續高燒 5 天以上，甚至長達數週，而非 3 天即自行退燒。
+- B. 錯誤。頸部淋巴腺腫大通常是「單側」非化膿性腫大，且其直徑通常大於或等於 1.5 公分（15 mm），而非小於 0.5 mm。
+- C. 錯誤。眼部表現為「雙側」非化膿性結膜炎（球結膜充血），通常不伴隨膿樣分泌物。若出現單側且有膿樣分泌物，應高度懷疑為細菌性結膜炎而非川崎氏症。
+- D. 正確。在川崎氏症的亞急性期（發病後第 2 至 3 星期），典型表現為手指與腳趾指甲緣開始出現特徵性的膜狀脫皮。
+
+【核心考點】
+川崎氏症的診斷必須滿足持續發燒 5 天以上，並符合以下 5 項臨床特徵中的至少 4 項：(1) 雙側非化膿性結膜炎；(2) 口腔黏膜變化（紅唇、乾裂、草莓舌）；(3) 急性期手腳紅腫，亞急性期（2~3週）指尖膜狀脫皮；(4) 多形性皮疹；(5) 單側非化膿性頸部淋巴結腫大（>=1.5 cm）。""",
+        "key_point": "川崎氏症亞急性期典型特徵為手腳指尖膜狀脫皮，常在發病後2-3週出現。",
+        "flashcard_front": "川崎氏症 (Kawasaki disease) 診斷條件中，關於發燒天數、淋巴結大小、結膜炎特徵及手腳脫皮時序為何？",
+        "flashcard_back": "未治療者持續發燒>=5天；頸淋巴結為單側且>=1.5cm；結膜炎為雙側非化膿性；手腳膜狀脫皮出現在發病後2~3星期。",
+        "flashcard_summary": "川崎氏症臨床表現 -> 發燒>=5天、單側頸淋巴結>=1.5cm、雙側非化膿結膜炎、第2-3週指尖脫皮。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_022",
+        "question_number": 22,
+        "explanation": """【題幹解析】
+診斷 5 歲以下嬰幼兒（如本題 4 歲孩童）的氣喘主要依賴詳盡的臨床病史與症狀評估。因為該年齡段的兒童通常無法配合進行呼氣肺功能測試，所以反覆發作的喘鳴、咳嗽、夜間症狀、過敏家族史以及對試驗性治療的反應是診斷的核心。
+
+【選項詳解】
+- A. 正確。對於 5 歲以下的幼兒，診斷氣喘最主要的依據是詳細的病史詢問（如反覆喘鳴、夜間咳嗽、運動後症狀）及對吸入性支氣管擴張劑或吸入性類固醇的治療反應。
+- B. 錯誤. 血清總免疫球蛋白E（Total IgE）上升僅代表患者具有過敏體質（atopy），並不具備診斷氣喘的特異性，許多氣喘兒童的 IgE 值亦在正常範圍內。
+- C. 錯誤。肺功能測試（如第一秒用力呼氣量 FEV1）是 5 歲以上且能遵從指令配合用力呼氣的兒童或成人診斷氣喘的客觀指標。4 歲兒童一般無法正確配合完成此項檢查。
+- D. 錯誤。皮膚過敏原點刺測試（skin prick test）主要用於找出具體的吸入性或食物性過敏原，以利進行環境控制，但不能作為診斷氣喘的直接依據。
+
+【核心考點】
+5歲以下嬰幼兒氣喘之診斷主要仰賴詳細的臨床病史評估與治療反應（如使用支氣管擴張劑或吸入性類固醇後的症狀改善），而非肺功能測試（因年幼無法配合）或過敏指標檢查（僅代表過敏體質，非氣喘特異性診斷）。""",
+        "key_point": "5歲以下兒童因無法配合肺功能測試，其氣喘診斷最主要依賴臨床病史詢問與治療反應。",
+        "flashcard_front": "為何 5 歲以下兒童診斷氣喘以病史詢問為主，而非肺功能測試或抽血檢驗？",
+        "flashcard_back": "年幼兒童無法配合肺功能所需的用力呼氣指令；而 IgE 與過敏測試僅能確認過敏體質，無法直接診斷氣喘。",
+        "flashcard_summary": "4歲孩童氣喘診斷方式 -> 以詳細病史詢問與治療反應為主，肺功能測試需5歲以上方能配合。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_023",
+        "question_number": 23,
+        "explanation": """【題幹解析】
+病童在參加喜宴（可能暴露於海鮮、堅果等常見過敏原）後，突然出現呼吸困難（呼吸系統受累）、眼唇血管水腫及全身癢（皮膚黏膜受累）、吞嚥困難（提示有喉頭水腫及呼吸道阻塞風險）。此種多系統的急性過敏表現符合全身性嚴重過敏反應（Anaphylaxis），必須立即肌肉注射腎上腺素（Epinephrine）以挽救生命。
+
+【選項詳解】
+- A. 正確。肌肉注射腎上腺素（Epinephrine）是治療全身性嚴重過敏反應（Anaphylaxis）及急性喉頭水腫第一線、最優先且救命的處置，能迅速收縮血管、減輕黏膜水腫，並擴張支氣管。
+- B. 錯誤。靜脈或肌肉注射類固醇（如 Methylprednisolone）的起效時間需數小時，無法立即緩解急性的氣道阻塞或低血壓，其主要作用是預防數小時後可能發生的雙相性過敏反應（biphasic reaction）。
+- C. 錯誤。多巴胺（Dopamine）屬於二線升壓劑，主要用於輸液和 Epinephrine 治療後仍無法改善的頑固性休克，其沒有 beta-2 作用來舒張支氣管，不能用於過敏反應的第一線搶救。
+- D. 錯誤。抗組織胺（如 Diphenhydramine）只能緩解皮膚搔癢與紅疹，無法緩解致命的喉頭水腫、支氣管痙攣或全身性低血壓，絕對不能因為給予抗組織胺而延誤了腎上腺素的注射。
+
+【核心考點】
+全身性嚴重過敏反應（Anaphylaxis）累及呼吸、心血管或黏膜系統時，首選且唯一的立即救命處置是肌肉注射腎上腺素（Epinephrine），抗組織胺與類固醇僅能作為輔助且起效慢，不可作為首選。""",
+        "key_point": "全身性嚴重過敏反應（Anaphylaxis）伴隨呼吸困難或喉頭水腫時，首選的立即救命處置是肌肉注射腎上腺素。",
+        "flashcard_front": "全身性嚴重過敏反應 (Anaphylaxis) 急診搶救時，第一線藥物為何？類固醇與抗組織胺的角色是什麼？",
+        "flashcard_back": "首選為肌肉注射腎上腺素 (Epinephrine)。類固醇用於預防雙相性反應（起效慢）；抗組織胺僅能輔助緩解皮膚搔癢，不能救命。",
+        "flashcard_summary": "全身性嚴重過敏反應處置 -> 立即肌肉注射腎上腺素（Epinephrine），抗組織胺與類固醇僅為輔助。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_024",
+        "question_number": 24,
+        "explanation": """【題幹解析】
+本題考查嬰幼兒過敏預防的臨床醫學指引。現行的兒科與過敏醫學會共識指出，不建議常規使用益生菌來預防嬰幼兒過敏，且孕婦不需刻意規避高敏食物。
+
+【選項詳解】
+- A. 正確描述。懷孕或哺乳期間，孕婦不需要刻意避免海鮮、花生或牛奶等高過敏原食物，除非孕婦本身對該食物過敏。刻意限制飲食並不能降低孩子未來發生過敏的機率。
+- B. 正確描述。指引建議嬰兒於 4 至 6 個月大時開始添加副食品。過晚添加（大於 6 個月）反而可能增加未來發生過敏性疾病的風險，因為這段時期是建立口服免疫耐受的關鍵窗。
+- C. 正確描述。雖然母乳哺育能減少早期嬰幼兒的喘鳴（wheezing）次數，但大型系統性回顧研究顯示，母乳哺育是否能預防兒童中後期發展成真正的「氣喘」，其效果在科學實證上仍不確定且缺乏一致結論。
+- D. 錯誤描述。目前世界過敏組織（WAO）等國際指引「不建議」常規推薦所有嬰幼兒使用益生菌來預防氣喘、過敏性鼻炎或食物過敏。益生菌僅在特定高風險孕婦或嬰兒中，對預防異位性皮膚炎有弱證據支持，但並非作為嬰幼兒常規過敏預防。
+
+【核心考點】
+嬰幼兒過敏預防原則：孕期及哺乳期不需限制高敏飲食；嬰兒應於4~6個月大添加副食品以建立免疫耐受；目前實證醫學並不推薦常規使用益生菌來預防氣喘、鼻炎等過敏性疾病。""",
+        "key_point": "目前實證醫學與國際指引不建議常規使用益生菌來作為嬰幼兒預防氣喘或過敏性鼻炎的手段。",
+        "flashcard_front": "關於嬰幼兒過敏預防，孕婦飲食限制、副食品添加時間、及益生菌常規使用的臨床建議為何？",
+        "flashcard_back": "孕婦不需避免高敏食物；副食品應於4-6個月大開始添加；國際指引不建議常規使用益生菌來預防過敏。",
+        "flashcard_summary": "嬰幼兒過敏預防 -> 孕婦不需限食、4-6個月加副食品、不建議常規補充益生菌。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_025",
+        "question_number": 25,
+        "explanation": """【題幹解析】
+本題考查唐氏症（Down syndrome）孩童與兒童白血病（Leukemia）的流行病學與預後特徵。唐氏症病童罹戶白血病的風險大幅增加，且在不同年齡層其好發的白血病類型有所不同。
+
+【選項詳解】
+- A. 錯誤。兒童急性淋巴性白血病（ALL）的整體預後極佳，五年存活率可達 85-90% 以上；而急性骨髓性白血病（AML）的預後較差，五年存活率僅約 60-70%。
+- B. 正確。唐氏症患童在 1 至 3 歲期間，最常見的白血病類型為急性骨髓性白血病（AML，特別是急性巨核細胞白血病 AML-M7 亞型）；而到了 3 歲以上，則是 ALL 的發生率高於 AML。
+- C. 錯誤。在所有兒童白血病中，急性淋巴性白血病（ALL）最常見（約占 75-80%），而急性骨髓性白血病（AML）僅占約 15-20%。因此 ALL 的發生率大約是 AML 的 3 至 4 倍，而非 AML 是 ALL 的 3 倍。
+- D. 錯誤。干擾素與羥基尿素（Hydroxyurea）常用於慢性骨髓性白血病（CML）或骨髓增生性疾病的藥物治療，並非兒童 AML 的第一線治癒方案。高危險或復發的 AML 需採用高劑量 Cytarabine（Ara-C）化療並搭配造血幹細胞移植（HSCT）來提高治癒率。
+
+【核心考點】
+唐氏症（Down syndrome）患童白血病的年齡特徵：1~3歲期間以急性骨髓性白血病（AML，特別是M7型）最常見；3歲以上則以急性淋巴性白血病（ALL）較常見。另外，兒童白血病中ALL不論是發生率還是預後皆優於AML。""",
+        "key_point": "唐氏症患童在1~3歲期間以急性骨髓性白血病（AML，特別是M7型）最常見，3歲以上則轉為ALL較多。",
+        "flashcard_front": "唐氏症 (Down syndrome) 患童在 1-3 歲與 3 歲以上，最常見的白血病類型分別為何？",
+        "flashcard_back": "1-3 歲最常見急性骨髓性白血病 (AML，特別是 M7 亞型)；3 歲以上最常見急性淋巴性白血病 (ALL)。",
+        "flashcard_summary": "唐氏症白血病好發年齡 -> 1-3歲好發AML (M7型)，3歲以上好發ALL。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_026",
+        "question_number": 26,
+        "explanation": """【題幹解析】
+6 歲病童心跳頻率高達 200 bpm（小兒 SVT 診斷標準為心跳 >180 bpm，嬰兒 >220 bpm），且已出現暈倒、低血壓（50/25 mmHg）、脈搏微弱與末梢循環不良等「血流動力學不穩定」的休克表現。依據小兒高級救命術（PALS）指引，此時最優先且正確的緊急處置是立即實施同步整流術（Synchronized DC cardioversion）。
+
+【選項詳解】
+- A. 錯誤。腺苷（Adenosine）是血流動力學「穩定」之室上性心搏過速（SVT）的首選藥物。本題病童已出現嚴重低血壓與周邊循環衰竭，處於不穩定狀態，應立即電擊整流，不應因等待建立靜脈通路或給藥而延誤搶救。
+- B. 錯誤。冰袋壓迫前額以刺激迷走神經（Valsalva maneuver）僅適用於血流動力學「穩定」的病童，對於已發生休克與意識障礙的不穩定病童為禁忌，會延誤關鍵治療。
+- C. 正確。當快速心律不整病童伴隨血流動力學不穩定（如低血壓、休克、灌流不足、神智不清）時，應立即進行同步整流術（Synchronized DC cardioversion），初始能量建議為 0.5-1 J/kg。
+- D. 錯誤。胺碘酮（Amiodarone）是適用於穩定狀態下頑古性快速心律不整的二線藥物，在血流動力學不穩定且面臨心搏停止威脅的急性期，靜脈滴注 Amiodarone 起效太慢，且具有降低血壓的副作用，不適合作為首選處置。
+
+【核心考點】
+小兒高級救命術（PALS）快速心律不整處理原則：評估血流動力學是否穩定。若不穩定（有低血壓、灌流不足、意識喪失等休克徵象），不論是窄波或寬波頻脈，應立即實施同步整流術（Synchronized cardioversion）；若穩定，則可考慮刺激迷走神經或給予靜脈藥物（如 Adenosine）。""",
+        "key_point": "兒童快速心律不整且血流動力學不穩定（低血壓、休克）時，最優先處置是同步電擊整流。",
+        "flashcard_front": "兒童上心室頻脈 (SVT) 出現低血壓、脈搏微弱、周邊灌流差時，首選處置是給予 Adenosine 還是電擊？理由為何？",
+        "flashcard_back": "首選為同步電擊整流 (Synchronized cardioversion)。因病童血流動力學不穩定，藥物起效太慢且可能惡化低血壓，必須立即電擊復律。",
+        "flashcard_summary": "兒童快速心律不整不穩定處置 -> 立即進行同步整流術（Synchronized DC cardioversion），禁用藥物或迷走神經刺激延誤時間。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_027",
+        "question_number": 27,
+        "explanation": """【題幹解析】
+心房中膈缺損（ASD）是一種常見的先天性心臟病，會導致血液從左心房分流至右心房，造成右側心臟（右心房、右心室、肺動脈）血流量顯著增加。其聽診上的特徵多與右心系統血流過剩及排空延遲有關。
+
+【選項詳解】
+- A. 錯誤。寬且固定的第二心音分裂（Wide and fixed S2 splitting）是 ASD 的最經典特徵。因右心室血量多、排空延遲導致肺動脈瓣關閉（P2）延後；且心房交通使呼吸時左右心房血流相互代償，使 S2 分裂程度不隨呼吸而改變。
+- B. 錯誤。左側第二肋間是肺動脈瓣聽診區。由於左向右分流導致流經肺動脈瓣的血流量大增，產生相對性肺動脈瓣狹窄，因而在此處聽到噴射性收縮期雜音。
+- C. 錯誤。左下胸骨旁是三尖瓣聽診區。在較大的 ASD 中，舒張期有極大量的分流血液通過三尖瓣進入右心室，形成相對性三尖瓣狹窄，從而產生中期舒張期雜音。
+- D. 正確。ASD 病患的第一心音（S1）通常正常，不會出現巨大且分裂的第一心音。巨大且分裂的第一心音（Loud and split S1 / sail sound）是埃布斯坦畸形（Ebstein\'s anomaly）的特徵，由其發育異常且巨大的三尖瓣葉在心房收縮後強烈且延遲關閉所致。
+
+【核心考點】
+心房中膈缺損（ASD）的典型聽診變化為：(1) 寬且固定的第二心音分裂（Wide and fixed splitting of S2）；(2) 左上肋間收縮期噴射性雜音（流經肺動脈瓣血量過多）；(3) 舒張中期三尖瓣雜音（大量分流流經三尖瓣）。巨大且分裂的S1則主要與 Ebstein 畸形有關。""",
+        "key_point": "心房中膈缺損 (ASD) 典型聽診特徵為 S2 寬且固定分裂、左上肋間收縮期噴射性雜音及舒張中期三尖瓣雜音。",
+        "flashcard_front": "心房中膈缺損 (ASD) 與埃布斯坦畸形 (Ebstein\'s anomaly) 在聽診上的關鍵鑑別心音為何？",
+        "flashcard_back": "ASD 典型為寬且固定 S2 分裂、相對性肺動脈瓣收縮期雜音；Ebstein\'s anomaly 典型為巨大且分裂的 S1 (sail sound)。",
+        "flashcard_summary": "ASD 聽診表現 -> 寬且固定 S2 分裂、收縮期噴射性雜音（肺動脈瓣區）、中期舒張期雜音（三尖瓣區）。巨大且分裂 S1 屬 Ebstein\'s anomaly 表現。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_028",
+        "question_number": 28,
+        "explanation": """【題幹解析】
+膜邊型心室中膈缺損（Perimembranous VSD）是臨床上最常見的 VSD 類型，缺損位於心室中膈的膜部。本題官方公佈多重給分（答 B 或 C 皆給分），因為 B 選項與 C 選項皆為錯誤的陳述。
+
+【選項詳解】
+- A. 正確描述。膜邊型在所有 VSD 的分型中確實最常見，約占 70% 至 80%，在東方人與西方人中皆是最常見的類型。
+- B. 錯誤描述。膜邊型 VSD 「有相當高的機率會自行癒合」（通常藉由三尖瓣中膈瓣的副組織形成動脈瘤樣結構來覆蓋缺損）。而日後造成主動脈瓣脫垂（Aortic cusp prolapse）及主動脈瓣回流（AR）機率最高的 VSD 類型是「雙重動脈下型（double-committed subarterial / outlet type VSD）」，因為其缺損鄰近主動脈瓣，缺乏纖維支撐，容易產生 Venturi 效應拉扯主動脈瓣葉。
+- C. 錯誤描述。所有未修補的心室中膈缺損（VSD），不論是何種分型，只要存在高速的左向右分流血液剪力，都會損傷心內膜，皆屬於感染性心內膜炎（Infective endocarditis）的「高風險族群」，因此「不屬於高風險族群」之敘述是錯誤的。
+- D. 正確描述。若 VSD 的左向右分流量過大，已導致明顯的肺高壓，即使臨床上心衰竭症狀能暫時用利尿劑等藥物控制，為避免日後進展成不可逆的肺血管阻塞病變（艾森曼格症候群 Eisenmenger syndrome），仍應盡早（通常在一歲以內）接受手術修補。
+
+【核心考點】
+膜邊型心室中膈缺損（perimembranous VSD）特徵：(1) 最常見的VSD分型；(2) 具有一定比例的自發性癒合率；(3) 併發主動脈瓣脫垂機率最高的是雙重動脈下型（subarterial / outlet VSD）；(4) 只要有高流速分流，皆為感染性心內膜炎（IE）的易感構造；(5) 伴隨肺高壓之大量分流應及早手術以防發展為 Eisenmenger 症候群。""",
+        "key_point": "膜邊型VSD常可自行癒合，且屬於感染性心內膜炎高風險群；易併發主動脈瓣脫垂的是雙重動脈下型VSD。",
+        "flashcard_front": "膜邊型 VSD 與雙重動脈下型 VSD 的臨床特徵比較（包含自行癒合率、主動脈瓣脫垂風險、及感染性心內膜炎風險）為何？",
+        "flashcard_back": "膜邊型最常見且常可自行癒合；雙重動脈下型最易併發主動脈瓣脫垂與主動脈瓣回流。兩者均屬於感染性心內膜炎之高風險族群。",
+        "flashcard_summary": "VSD 臨床特徵 -> 膜邊型最常見且常自行癒合；雙重動脈下型易主動脈瓣脫垂。未修補 VSD 均為感染性心內膜炎高風險群。伴隨肺高壓應及早手術。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": [
+            "本題官方更正為答 B 或 C 皆給分，詳解中已清楚說明 B 與 C 兩項敘述皆錯誤的病理理由。"
+        ]
+    },
+    {
+        "question_id": "109-1_medicine-4_029",
+        "question_number": 29,
+        "explanation": """【題幹解析】
+染色體檢查（如染色體核型分析 Karyotyping 或微陣列晶片 CMA）主要適用於尋找先天性、遺傳性發育異常的病因。如果臨床表現具有明確的後天環境或產科致病因，則不需常規進行染色體分析。
+
+【選項詳解】
+- A. 正確。因周產期窒息（perinatal asphyxia）導致的腦性麻痺，病因是明確的後天產科缺氧事件造成的腦部缺氧缺血性病變（HIE），非先天性遺傳物質異常，因此在臨床上最不需要進行染色體檢查。
+- B. 錯誤。多重先天畸形（Multiple congenital anomalies）是進行染色體檢查的強烈指徵，以排除染色體數目異常（如 13、18、21 三體症）或染色體微缺失/微重複症候群。
+- C. 錯誤。原因不明的心智障礙（Intellectual disability）或發育遲緩，有高達 10-20% 的病因與染色體異常或微失衡有關，是染色體檢查的標準適應症。
+- D. 錯誤。不明原因的嚴重生長畸變（Growth aberration，如身材極度矮小或發育比例不對稱），需進行染色體分析以排除如特納氏症候群（Turner syndrome）等性染色體或體染色體異常。
+
+【核心考點】
+臨床進行染色體檢查的指徵：適用於懷疑先天遺傳疾病者，如多重先天畸形、原因不明之發展遲緩/心智障礙、嚴重不明原因生長畸變等。而具有明確後天致病原因（如產時缺氧窒息）的腦性麻痺，則無須進行常規染色體篩檢。""",
+        "key_point": "具有明確後天缺氧因子的周產期窒息所致腦性麻痺，不需進行常規染色體檢查。",
+        "flashcard_front": "兒童臨床篩檢中，哪些表現（多重畸形、心智障礙、生長畸變、缺氧腦麻）是進行染色體檢查的適應症？哪些不是？",
+        "flashcard_back": "多重先天畸形、原因不明的心智障礙與發育遲緩、嚴重生長畸變均為適應症；後天缺氧窒息引起的腦性麻痺有明確環境病因，不需染色體檢查。",
+        "flashcard_summary": "染色體檢查指徵 -> 先天多重畸形、發育遲緩/心智障礙、嚴重生長畸變需檢查。後天窒息所致腦麻無須檢查。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "109-1_medicine-4_030",
+        "question_number": 30,
+        "explanation": """【題幹解析】
+大多數由酵素缺陷引起的先天性代謝異常疾病（Inborn errors of metabolism, IEM）屬於體染色體隱性（Autosomal recessive, AR）遺傳。本題要選出不是體染色體隱性遺傳的疾病。
+
+【選項詳解】
+- A. 錯誤。苯酮尿症（Phenylketonuria, PKU）是因苯丙胺酸羥化酶（PAH）缺陷所致，屬於典型的體染色體隱性遺傳疾病。
+- B. 正確。鳥胺酸氨甲醯基轉移酶缺乏症（OTC deficiency）是尿素循環障礙中唯一呈「X染色體聯鎖隱性遺傳（X-linked recessive）」的疾病，因此多在男嬰中起病並表現為嚴重的急性高血氨症，其餘尿素循環酵素缺陷皆為體染色體隱性。
+- C. 錯誤。甲基丙二酸血症（Methylmalonic acidemia, MMA）是因甲基丙二醯輔酶A變位酶或其輔酶鈷胺素代謝異常所致，呈體染色體隱性遺傳。
+- D. 錯誤。楓糖尿症（Maple syrup urine disease, MSUD）是因支鏈 alpha-酮酸去氫酶複合物缺陷所致，呈體染色體隱性遺傳。
+
+【核心考點】
+尿素循環障礙（Urea cycle disorders）中，絕大多數酵素缺陷均為體染色體隱性（AR）遺傳，唯一的例外是鳥胺酸氨甲醯基轉移酶缺乏症（OTC deficiency），其遺傳模式為 X 染色體聯鎖隱性（X-linked recessive）遺傳，在男性患者中症狀尤為嚴重。""",
+        "key_point": "鳥胺酸氨甲醯基轉移酶缺乏症 (OTC deficiency) 是尿素循環障礙中唯一呈 X 聯鎖隱性遺傳的疾病。",
+        "flashcard_front": "在常見先天性代謝異常（PKU, OTC deficiency, MMA, MSUD）中，哪一個不屬於體染色體隱性遺傳？其遺傳模式為何？",
+        "flashcard_back": "Ornithine transcarbamylase (OTC) deficiency 不屬於體染色體隱性，它是 X 染色體聯鎖隱性 (X-linked recessive) 遺傳。",
+        "flashcard_summary": "先天代謝異常遺傳模式 -> PKU、MMA、MSUD為體染色體隱性（AR）；OTC deficiency為X聯鎖隱性（X-linked recessive），為尿素循環異常中的唯一例外。",
+        "review_status": "ai_generated",
+        "explanation_model": "codex-high-quality-rewrite",
+        "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+        "manual_review_notes": []
+    }
+]
+
+output_data = {
+    "source_file": "public/data/exams/109-1/medicine-4.json",
+    "dataset_id": "109-1_medicine-4",
+    "range": {
+        "start": 21,
+        "end": 30
+    },
+    "updates": updates
+}
+
+target_path = "scratch/rewrite_updates/109-1_medicine-4/q021-q030.json"
+with open(target_path, "w", encoding="utf-8") as f:
+    json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+print(f"Successfully generated {target_path}")

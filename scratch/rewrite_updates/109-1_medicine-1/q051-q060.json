@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題詢問負責傳遞痛覺與溫度感覺的神經傳導路徑。人體軀體感覺的傳導主要分為兩大上行系統，其中痛覺與溫度覺是由脊髓前外側系統傳遞至大腦皮質。\n\n【選項詳解】\n- A. 錯誤。脊髓背柱系統（dorsal column system，或稱 dorsal column-medial lemniscal system, DCML）主要負責傳遞精細觸覺（fine touch）、震動覺（vibration）以及本體感覺（proprioception），其纖維在延腦才進行交叉。\n- B. 正確。前外側系統（anterolateral system，即脊髓丘腦束 spinothalamic tract）主要傳遞痛覺、溫度覺、粗略觸覺（crude touch）以及壓覺。其一級神經元進入脊髓後，在後角換神經元，二級神經元立即在脊髓前白質聯合處交叉至對側，再上行至丘腦。\n- C. 錯誤。皮質脊髓系統（corticospinal system，或稱錐體束 pyramidal tract）是主要的下行運動傳導路徑（motor pathway），負責支配身體四肢與軀幹的隨意運動，並非感覺傳導路徑。\n- D. 錯誤。皮質延腦系統（corticobulbar system，或稱皮質核束 corticonuclear tract）是支配頭面部肌肉隨意運動的下行運動傳導路徑，其纖維自大腦皮質下行至腦幹的腦神經運動核，不參與體感覺的傳遞。\n\n【核心考點】\n軀體感覺傳導路徑的分類：前外側系統（ALS）傳遞痛溫覺、粗略觸覺，在脊髓節段立即交叉；背柱系統（DCML）傳遞精細觸覺、震動覺與本體感覺，在延腦交叉。",
+      "key_point": "痛溫覺由前外側系統（ALS）傳遞，在脊髓立即交叉；精細觸覺與本體感覺由背柱系統（DCML）傳遞，在延腦交叉。",
+      "flashcard_front": "痛溫覺與精細觸覺感覺傳導路徑",
+      "flashcard_back": "痛溫覺、粗略觸覺經前外側系統（ALS，脊髓交叉）傳導；精細觸覺、震動覺、本體感覺經背柱系統（DCML，延腦交叉）傳導。",
+      "flashcard_summary": "感覺傳導路徑 -> 痛溫覺走前外側系統（ALS）；精細觸覺、本體感覺走背柱系統（DCML）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題詢問人體對於基本味覺（酸、甜、苦、鹹）中何者的感受閾值最低（即最為敏感，微量即可察覺）。\n\n【選項詳解】\n- A. 錯誤。酸味的感受閾值中等，主要由氫離子（H⁺）刺激酸味受器引起，其閾值高於苦味，一般用以偵測食物是否腐敗或未成熟。\n- B. 錯誤。甜味的感受閾值較高（敏感度較低），主要由有機分子（如醣類）結合 G 蛋白偶聯受體（GPCR）引起，高閾值有利於身體攝取足夠的高能量營養素。\n- C. 正確。苦味的感受閾值在所有基本味覺中是最低的（最為敏感）。這在演化上具有高度的保護意義，因為自然界中許多有害的毒素、生物鹼（alkaloids）均呈現苦味，對苦味維持極低的感受閾值能防止動物吞食有毒物質。\n- D. 錯誤。鹹味的感受閾值與甜味類似，皆屬於較高的閾值（敏感度低），主要由鈉離子（Na⁺）通過上皮鈉通道（ENaC）引發，用以維持體內電解質與水分的平衡。\n\n【核心考點】\n基本味覺與閾值特性：苦味的閾值最低（最敏感），具有避免變質或生物鹼毒素攝入的演化保護作用；甜味與鹹味的閾值最高，符合營養與電解質補給的生理需求。",
+      "key_point": "苦味在基本味覺中感受閾值最低（最敏感），此生理特性具備避免攝入有毒生物鹼的防禦機制。",
+      "flashcard_front": "味覺感受閾值順序與生理意義",
+      "flashcard_back": "閾值順序：苦 < 酸 < 鹹 = 甜。苦味閾值最低，可偵測微量毒素或生物鹼以避免中毒；甜與鹹閾值高以滿足能量與電解質需求。",
+      "flashcard_summary": "味覺閾值 -> 苦味閾值最低（最敏感，防中毒）；甜與鹹閾值最高（補充能量與電解質）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於男性生殖系統內分泌調控的「錯誤」敘述。標準答案為 D，說明促性腺激素釋放激素（GnRH）的合成與分泌來源。\n\n【選項詳解】\n- A. 敘述正確。睪固酮（testosterone）由睪丸的間質細胞（Leydig cells，或稱 Leydig 細胞）所分泌，主要受到腦下垂體前葉分泌的黃體化激素（LH）調控。\n- B. 敘述正確。促卵泡激素（follicle-stimulating hormone, FSH）與黃體化激素（LH）皆屬於促性腺激素，是由腦下垂體前葉（anterior pituitary）的促性腺細胞所合成與分泌。\n- C. 敘述正確。FSH 作用於睪丸細精管的支持細胞（Sertoli cells），可刺激並維持精子發生（spermatogenesis），包括促進精細胞成熟（spermatid maturation）。\n- D. 敘述錯誤。促性腺激素釋放激素（gonadotropin-releasing hormone, GnRH）是由下視丘（hypothalamus）的神經元所合成與脈衝式分泌，經由門脈系統作用於腦下垂體前葉。它並非由腦下垂體前葉本身分泌，故此選項為本題答案。\n\n【核心考點】\n下視丘-腦下垂體-睪丸軸（HPG axis）的激素調節：下視丘分泌 GnRH 刺激腦下垂體前葉分泌 FSH（作用於 Sertoli cell 促進精子發育）與 LH（作用於 Leydig cell 促進睪固酮分泌）。",
+      "key_point": "下視丘分泌 GnRH，腦下垂體前葉分泌 FSH 與 LH。FSH 作用於 Sertoli 細胞促進精子發育，LH 作用於 Leydig 細胞促進睪固酮分泌。",
+      "flashcard_front": "HPG軸激素來源與功能 (GnRH, FSH, LH, Testosterone)",
+      "flashcard_back": "1. 下視丘：GnRH； 2. 腦下垂體前葉：FSH（作用於 Sertoli cell，促進精子成熟）與 LH（作用於 Leydig cell，分泌睪固酮）。",
+      "flashcard_summary": "男性生殖內分泌 -> 下視丘分泌 GnRH；垂體前葉分泌 FSH/LH；Leydig分泌睪固酮；Sertoli促進精子成熟。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n患者出現「右腳觸覺喪失」，但「右腳痛溫覺、運動功能與膝反射正常」。解題關鍵在於區分脊髓上行感覺傳導路徑的交叉部位與解剖位置：觸覺與本體感覺（DCML）在脊髓內為同側傳導；痛溫覺（ALS）在進入脊髓後立即交叉至對側上行；而隨意運動路徑（皮質脊髓側束）位於脊髓側索且在脊髓受損會導致同側運動障礙。\n\n【選項詳解】\n- A. 正確。背柱系統（dorsal column）傳遞精細觸覺與本體感覺，在脊髓內不交叉（維持同側上行，至延腦才交叉）。因此，損傷「右側」腰椎脊髓的背柱，會特異性導致同側（右腳）觸覺喪失，而側索的運動路徑與交叉至左側上行的痛溫覺路徑皆未受影響。\n- B. 錯誤。若損傷「左側」腰椎脊髓之背柱，會導致「左腳」的精細觸覺與本體感覺喪失，右腳感覺將維持正常，不符合題意。\n- C. 錯誤。脊髓前外側系統（anterolateral column）傳遞痛覺與溫度覺，且此路徑在脊髓入口處即已交叉至對側。若損傷右側的前外側索，會導致「左腳（對側）」的痛溫覺喪失，而非右腳觸覺喪失。\n- D. 錯誤。損傷「左側」腰椎脊髓之前外側索，會導致「右腳（對側）」的痛覺與溫度覺喪失，這與題幹中右腳「痛溫覺正常」的線索相矛盾。\n\n【核心考點】\n感覺傳導的解剖與交叉點：背柱系統（DCML，觸覺/本體感覺）為脊髓同側傳導，至延腦交叉；前外側系統（ALS，痛溫覺）為脊髓對側傳導，在脊髓節段立即交叉。因此單側背柱損傷會造成同側觸覺喪失而對側痛溫覺保留。",
+      "key_point": "脊髓背柱（DCML）傳導同側觸覺，前外側索（ALS）傳導對側痛溫覺。單側背柱受損會造成同側觸覺喪失而痛溫覺與運動正常。",
+      "flashcard_front": "脊髓半側受損/特定神經束受損 (右側背柱 vs 右側前外側索)",
+      "flashcard_back": "1. 右側背柱受損：右側（同側）觸覺喪失，痛溫覺與運動反射正常。 2. 左側前外側索受損：右側（對側）痛溫覺喪失。",
+      "flashcard_summary": "脊髓損傷定位 -> 觸覺喪失但痛溫覺正常，定位於同側脊髓背柱（dorsal column）損傷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n當單側肢體受到傷害性刺激（如左腳踩到圖釘）時，身體為了避開危險並維持平衡，會同時啟動同側的「屈肌反射（withdrawal reflex）」與對側的「交叉伸肌反射（crossed extensor reflex）」。\n\n【選項詳解】\n- A. 錯誤。股二頭肌為大腿後側的屈肌。若兩側股二頭肌同時收縮，將導致雙腿均呈屈曲縮回狀態，使身體失去支撐而跌倒。在正常生理反射中，對側（右下肢）的屈肌應當受到抑制而舒張，伸肌收縮以維持支撐。\n- B. 錯誤. 股四頭肌為大腿前側的伸肌。若兩側股四頭肌同時收縮，受刺激側（左腳）將無法屈曲縮回以避開圖釘，失去防禦保護的作用。\n- C. 錯誤。此選項的肌肉收縮反應與人體正常反射相反。左大腿股四頭肌（伸肌）收縮會使左腳伸直踩踏圖釘，而右大腿股二頭肌（屈肌）收縮會使右腿屈曲，將加重左腳受創並失去站立支撐。\n- D. 正確。左腳底踩到圖釘時，左下肢啟動屈肌反射，使左大腿屈肌（股二頭肌）收縮、伸肌舒張，以便迅速縮回左腳避開傷害；同時右下肢啟動交叉伸肌反射，使右大腿伸肌（股四頭肌）收縮、屈肌舒張，讓右腿伸直以支撐全身體重，維持身體平衡。\n\n【核心考點】\n脊髓反射的協調機制：傷害性刺激會引發同側屈肌反射（屈肌收縮避險）與對側交叉伸肌反射（伸肌收縮支撐體重），其大腿主要的屈肌為股二頭肌，伸肌為股四頭肌。",
+      "key_point": "避險反射中，同側屈肌（股二頭肌）收縮以縮回肢體，對側伸肌（股四頭肌）收縮以伸直支撐體重。",
+      "flashcard_front": "屈肌反射與交叉伸肌反射之肌肉協調",
+      "flashcard_back": "1. 受刺激側：屈肌（股二頭肌）收縮，將肢體縮回； 2. 對側：伸肌（股四頭肌）收縮，使肢體伸直以維持平衡。",
+      "flashcard_summary": "傷害避險反射 -> 同側屈肌（股二頭肌）收縮，對側伸肌（股四頭肌）收縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題詢問運動終板電位（end plate potential, EPP）的發生部位與電位性質。運動終板電位是神經肌肉接頭（neuromuscular junction, NMJ）處化學傳遞的核心生理現象。\n\n【選項詳解】\n- A. 正確。運動終板電位（EPP）發生在「骨骼肌肌細胞膜」上。當運動神經元末梢釋放的乙醯膽鹼（ACh）與肌細胞膜終板區的菸鹼型乙醯膽鹼受體（nAChR）結合時，會引起配體門控離子通道開放，使大量鈉離子（Na⁺）流入，產生局部膜電位去極化（depolarization），因此屬於「興奮性膜電位」。\n- B. 錯誤。運動終板電位是突觸後電位，發生在骨骼肌細胞膜上，而非運動神經元細胞膜。運動神經元細胞膜上主要發生動作電位的傳導與神經遞質的釋放。\n- C. 錯誤。運動終板電位是由鈉離子流入引發的去極化局部電位，其生理作用是引發肌細胞動作電位以啟動肌肉收縮，因此屬於「興奮性」膜電位，而非「抑制性」膜電位（抑制性膜電位通常表現為超極化，如氯離子流入或鉀離子流出引起超極化）。\n- D. 錯誤。運動終板電位既非發生在運動神經元上，也非抑制性電位，其本質是骨骼肌膜上的興奮性局部去極化電位。\n\n【核心考點】\n運動終板電位（EPP）的特徵：發生在骨骼肌細胞膜（運動終板），由 ACh 結合 nAChR 引起鈉離子流入，屬於興奮性的局部去極化電位，可進一步誘發肌細胞的動作電位。",
+      "key_point": "運動終板電位（EPP）是骨骼肌細胞膜上由 ACh 觸發、鈉離子流入引起的興奮性局部去極化電位。",
+      "flashcard_front": "運動終板電位 (EPP) 的部位、離子機制與電位性質",
+      "flashcard_back": "發生於骨骼肌細胞膜（運動終板）。機制為 ACh 結合 nAChR，通道開啟使鈉離子（Na⁺）流入，引發去極化，屬於興奮性局部電位。",
+      "flashcard_summary": "終板電位 -> 發生於骨骼肌細胞膜，為鈉離子流入引起的興奮性去極化電位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題詢問不同強度運動下骨骼肌纖維的徵召順序。根據生理學中的大小原則（Henneman's size principle），運動單位徵召時會依運動神經元胞體大小與激發閾值由低到高，依序動員慢縮到快縮的肌纖維。\n\n【選項詳解】\n- A. 錯誤。此選項以 FOG 纖維作為起始。然而低強度的維持姿勢（站立）主要由閾值最低、抗疲勞度最高的慢氧化纖維（SO）負責，快縮纖維不會優先於慢縮纖維被徵召。\n- B. 正確。隨運動強度增加（站立 → 走路 → 快跑），依大小原則（size principle）徵召的肌纖維順序為：\n  1. 站立（低強度）：優先徵召最小運動單位的慢氧化纖維（slow-oxidative, SO，I型紅肌），可長期維持姿勢且不易疲勞。\n  2. 走路（中強度）：加強徵召中型運動單位的快氧化糖解纖維（fast-oxidative-glycolytic, FOG，IIa型），兼具氧化與糖解能力。\n  3. 快跑（高強度）：最後徵召最大運動單位的快糖解纖維（fast-glycolytic, FG，IIx/IIb型白肌），能快速收縮提供爆發力，但易疲勞。\n- C. 錯誤。此選項將 FG 纖維的徵召排在 FOG 之前。FG 纖維的激發閾值最高且極易疲勞，只在最高強度時被最後徵召，其順序應在 FOG 之後。\n- D. 錯誤。此選項的徵召順序違反了大小原則中由小運動神經元（低閾值）向大運動神經元（高閾值）依次徵召的生理規律。\n\n【核心考點】\n骨骼肌纖維徵召的大小原則（Size Principle）：隨運動強度與肌力需求增加，運動單位依「慢氧化（SO，I型）」→「快氧化糖解（FOG，IIa型）」→「快糖解（FG，IIx/IIb型）」的順序進行徵召。",
+      "key_point": "依大小原則，肌纖維徵召順序隨強度增加為：slow-oxidative (SO) → fast-oxidative-glycolytic (FOG) → fast-glycolytic (FG)。",
+      "flashcard_front": "骨骼肌纖維類型 (SO, FOG, FG) 的徵召順序與大小原則",
+      "flashcard_back": "依 Henneman 大小原則，由小至大徵召：SO（低強度，如站立）→ FOG（中強度，如走路）→ FG（高強度爆發力，如快跑）。",
+      "flashcard_summary": "肌纖維徵召順序 -> 低強度到高強度依序為 SO → FOG → FG。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題考查 ABO 與 Rh 血型系統不相容輸血時的免疫反應機制。O 型受血者（O君）血液中含有天然的抗 A 與抗 B 抗體，當輸入含有 A 抗原的 A 型紅血球（A君）時，會引發嚴重的抗原抗體結合及補體介導溶血反應。\n\n【選項詳解】\n- A. 錯誤。ABO 血型分類主要是針對紅血球表面的糖抗原（A 或 B 抗原，O 型代表缺乏這兩者，並無「O抗原」）。不相容輸血的臨床危害是受血者血漿中的抗體攻擊供血者的紅血球，與白血球是否被包覆無關。\n- B. 錯誤。Rh-positive 表示受血者紅血球表面有 D 抗原，其體內並不會產生 anti-D 抗體。且供血者是 Rh-negative（紅血球無 D 抗原），即使受血者體內有抗體也不會與缺乏抗原的紅血球反應。\n- C. 錯誤。不相容輸血的急性溶血反應主要由「受血者體內抗體與供血者紅血球結合並活化補體」所引起，屬於體液免疫與補體介導的溶血，而非白血球直接吞噬。\n- D. 正確。O 型受血者的血漿中含有天然的 anti-A 抗體（主要是 IgM 類別）。當輸入 A 型血液（紅血球表面有 A 抗原）時，受血者的 anti-A 抗體會迅速結合供血者的 A 抗原並活化補體系統，導致輸入的紅血球發生急性血管內溶血（溶解），這是引起急性溶血性輸血反應的主因。\n\n【核心考點】\n不相容輸血的免疫反應：O 型血體內含有天然 anti-A 與 anti-B 抗體，若輸入 A 型、B 型或 AB 型血液，受血者的抗體會結合供血者紅血球上的抗原，活化補體並造成急性血管內溶血。",
+      "key_point": "O 型受血者體內的 anti-A 抗體會與 A 型紅血球上的 A 抗原結合，活化補體導致紅血球溶解。",
+      "flashcard_front": "ABO不相容輸血機制 (O型受血者 vs A型供血者)",
+      "flashcard_back": "O型受血者血漿中含 anti-A/anti-B 抗體。輸入 A 型血後，anti-A 抗體結合供血者紅血球的 A 抗原，活化補體系統，造成急性血管內溶血。",
+      "flashcard_summary": "輸血反應機制 -> O型血含 anti-A，會溶解並摧毀輸入的 A 型紅血球（A抗原）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題考查心動週期（cardiac cycle）中，左心房壓、左心室壓與主動脈壓三者在不同時期的相對高低關係，並結合瓣膜（房室瓣與主動脈瓣）的開閉邏輯進行分析。\n\n【選項詳解】\n- A. 錯誤。在心動週期的所有時期中，心房壓都遠小於主動脈壓。主動脈壓即使在舒張末期仍有約 80 mmHg，而左心房壓最高僅約 8-12 mmHg。在心室充血期，主動脈瓣關閉，主動脈仍維持高壓，心房壓不可能大於主動脈壓。\n- B. 錯誤。在心室射血期中，心室肌強力收縮以推開主動脈瓣，因此心室壓必須大於主動脈壓，血液才能被泵入主動脈，而非小於主動脈壓。\n- C. 錯誤。在等容心室收縮期中，房室瓣已關閉，但此時心室壓尚未上升至超過主動脈壓，主動脈瓣仍處於關閉狀態，因此心室壓小於主動脈壓，而非大於或等於主動脈壓。\n- D. 正確。在等容心室舒張期中，主動脈瓣已關閉，房室瓣尚未開啟，此時心室壓處於急遽下降階段。但在心室壓降至低於心房壓以推開房室瓣（進入充血期）之前，心室壓仍高於或等於心房壓。\n\n【核心考點】\n心動週期之壓力和瓣膜開啟規則：\n1. 房室瓣開啟條件：心房壓 > 心室壓（充血期）。\n2. 主動脈瓣開啟條件：心室壓 > 主動脈壓（射血期）。\n3. 等容收縮期：心房壓 < 心室壓 < 主動脈壓（雙瓣關閉）。\n4. 等容舒張期：心房壓 < 心室壓 < 主動脈壓（雙瓣關閉，心室壓大於心房壓）。",
+      "key_point": "心瓣膜開啟由壓力差決定。等容舒張期時雙瓣關閉，心室壓雖下降但仍大於或等於心房壓，直至低於心房壓時房室瓣才開啟。",
+      "flashcard_front": "心動週期壓力關係 (充血、射血、等容收縮、等容舒張)",
+      "flashcard_back": "1. 等容收縮期：心房壓 < 心室壓 < 主動脈壓； 2. 射血期：心室壓 > 主動脈壓； 3. 等容舒張期：心房壓 < 心室壓 < 主動脈壓； 4. 充血期：心房壓 > 心室壓。",
+      "flashcard_summary": "心動週期壓力差 -> 射血期：心室壓 > 主動脈壓；等容舒張期：雙瓣關閉，心室壓大於或等於心房壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考查心臟電生理病變與心電圖（ECG）波形變化的對應關係。解題時需理解心電圖各波形及間期所代表的心臟電生理意義：P波與 PR 間期代表心房除極與房室傳導；QRS 波代表心室除極；QT 間期代表心室除極與重極化的總時間；T 波代表心室重極化。\n\n【選項詳解】\n- A. 錯誤。第一級房室傳導阻斷的特徵為「PR 間期延長」（PR interval > 0.20 秒），代表心房至心室的傳導延遲；而 QT 延長症候群則是心室重極化延遲的表現，兩者在 ECG 上對應不同的間期。\n- B. 正確。普金杰系統是心室內專司快速傳導電刺激的傳導組織。若發生阻斷，心室除極只能改由普通心肌細胞間慢速傳遞，導致心室除極時間拉長，反映在心電圖上就是代表心室除極的 QRS 綜合波時間延長（寬大畸形）。\n- C. 錯誤。心肌細胞鉀通道（如 IKr、IKs）功能降低會延緩心室的快速重極化，主要導致「QT 間期異常延長」；PR 間期代表心房除極至房室結傳導時間，不受鉀通道突變的直接影響。\n- D. 錯誤。左心室肥大或擴張在 ECG 上主要表現為「QRS 波振幅增加」（如 V5、V6 導極的 R 波異常增高）；高而尖的 T 波（peaked T wave）是「高血鉀症」的典型心電圖表現，兩者不可混淆。\n\n【核心考點】\n心電圖波形與電生理病變的配對關係：\n1. PR間期延長：房室結傳導阻斷（如第一級房室阻斷）。\n2. QRS綜合波增寬：心室內傳導系統阻斷（如普金杰系統、束支阻斷）。\n3. QT間期延長：心室重極化延遲（如鉀通道功能降低、低血鈣、藥物影響）。\n4. 高尖T波：高血鉀症。\n5. QRS振幅增加：心室肥大（如左心室肥大）。",
+      "key_point": "普金杰系統阻斷使心室除極變慢，表現為 QRS 增寬；第一級 AV block 表現為 PR 延長；鉀通道功能降低導致 QT 延長；左心室肥大表現為 QRS 振幅增加；高尖 T 波為高血鉀特徵。",
+      "flashcard_front": "常見心電圖 (ECG) 異常配對與病理機制 (PR延長, QRS增寬, QT延長, 高尖T波)",
+      "flashcard_back": "1. 第一級 AV block：PR 間期延長； 2. 普金杰系統阻斷：QRS 綜合波增寬（延長）； 3. 鉀通道突變降低：QT 間期延長； 4. 高血鉀：高而尖的 T 波； 5. 左心室肥大：QRS 波幅增高。",
+      "flashcard_summary": "心電圖病理配對 -> 普金杰系統阻斷導致心室慢速除極，表現為 QRS 波延長（增寬）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

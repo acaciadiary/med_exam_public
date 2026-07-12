@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題考查使用水銀血壓計或指針血壓計（聽診法）測量血壓時，柯氏音（Korotkoff sounds）產生的物理與生理機制。當充氣袖帶（cuff）壓力介於收縮壓（systolic pressure）與舒張壓（diastolic pressure）之間時，血管會在心臟收縮期短暫開啟、舒張期關閉，血流產生亂流，進而發出敲擊且間斷的聲音。\n\n【選項詳解】\n- A. 錯誤。當扣帶壓（cuff pressure）高於收縮壓（>130 mmHg）時，袖帶產生的外在壓力完全壓迫並閉塞肱動脈。此時動脈內血流完全被阻斷，因此聽診器中聽不到任何聲音。\n- B. 正確。當扣帶壓介於收縮壓與舒張壓之間（130 mmHg > 扣帶壓 > 90 mmHg）時，心臟收縮期動脈壓大於扣帶壓，血管短暫打開，血流通過；但舒張期動脈壓低於扣帶壓，血管再次塌陷關閉。這種間歇性的血流通過會形成亂流（turbulent flow），從而在聽診器中產生間歇、敲擊狀的柯氏音（Korotkoff sounds），此亦為判定收縮壓與舒張壓的臨床依據。\n- C. 錯誤。當扣帶壓低於舒張壓（<90 mmHg）時，袖帶壓力小於動脈在整個心動週期中的最低壓力。此時肱動脈完全暢通，血流恢復為安靜的層流（laminar flow），因此敲擊的柯氏音會消失。\n- D. 錯誤。柯氏音只會出現在扣帶壓介於收縮壓與舒張壓之間的階段。高於收縮壓（無血流）或低於舒張壓（層流無阻）時皆無法聽到柯氏音，因此並非全程都能聽到。\n\n【核心考點】\n血壓測量聽診法的基本原理：柯氏音（Korotkoff sounds）源於血管半閉塞時的血流亂流。當扣帶壓介於收縮壓與舒張壓之間時方可聽見，高於收縮壓（血管完全閉塞）或低於舒張壓（恢復層流）時皆為無聲狀態。",
+      "key_point": "柯氏音（Korotkoff sounds）僅產生於袖帶壓介於收縮壓與舒張壓之間的亂流階段。",
+      "flashcard_front": "血壓測量 / 柯氏音 / 聽診法原理與壓力範圍",
+      "flashcard_back": "扣帶壓介於收縮壓與舒張壓之間（130至90 mmHg）時，因血流受阻產生亂流而出現敲擊且間斷的柯氏音；高於收縮壓（血管完全閉塞）或低於舒張壓（恢復層流）時皆為無聲。",
+      "flashcard_summary": "柯氏音 -> 當袖帶壓力介於收縮壓與舒張壓之間時，因血管半閉塞產生亂流而可聽見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題考查慢性阻塞性肺疾病（COPD）患者的呼吸力學。COPD 患者因氣道重塑、黏液分泌增加及肺泡結構破壞，導致呼吸道阻力（airway resistance）顯著增加。根據呼吸氣流公式 F = ΔP / R（流量 = 壓力差 / 阻力），若要維持與正常人相同的通氣量（即相同的氣體流量），必須產生更大的驅動壓力差（ΔP）。因此，患者需要依靠更強的呼吸肌收縮，使每次呼吸時的肋膜內壓（intrapleural pressure, Pip）產生更大的波動幅度。\n\n【選項詳解】\n- A. 正確。COPD 患者的氣道狹窄，呼吸道阻力（R）大增。為了使肺泡與大氣之間產生足夠的壓力差以維持正常的通氣量，吸氣時肋膜內壓（Pip）必須降得比正常人更低（即產生更大的負壓值），而呼氣時可能需要利用副呼吸肌主動出力增加肋膜內壓，因此其肋膜內壓在整個呼吸週期中的變化幅度（ΔP）顯著大於正常人。\n- B. 錯誤。若肋膜內壓變化幅度較小，所能產生的跨肺壓（transpulmonary pressure）也隨之變小，在呼吸道阻力增加的情況下，通氣量將會顯著不足，無法維持與正常人相同的通氣水平。\n- C. 錯誤。在呼吸道阻力上升的病理狀態下，若肋膜內壓變化與正常人相等，則產生的氣體流量必定會因為阻力變大而下降，無法達到與正常人相同的通氣量。\n- D. 錯誤。在「其它條件不變，且要達到與正常人相同通氣量」的前提下，克服較高阻力必定需要較大的驅動壓。此物理規律與病情嚴重度無關，皆需要產生較大的肋膜內壓變化。\n\n【核心考點】\n呼吸力學公式 F = ΔP / R。當氣道阻力（R）因阻塞性肺病增加時，若要維持相同的通氣量（F），必須提高驅動壓（ΔP），即每次呼吸時肋膜內壓（Pip）的波動幅度必須變大。",
+      "key_point": "COPD 患者因呼吸道阻力增加，需產生更大的肋膜內壓變化（ΔP）以維持相同的通氣量。",
+      "flashcard_front": "慢性阻塞性肺疾病 / 通氣量維持 / 肋膜內壓變化幅度",
+      "flashcard_back": "COPD 患者因呼吸道阻力顯著上升，根據 F = ΔP / R，若要維持與正常人相同的通氣量，每次呼吸時肋膜內壓（Pip）的波動幅度必須顯著增大。",
+      "flashcard_summary": "COPD與肋膜內壓 -> 氣道阻力上升，需產生比正常人更大的肋膜內壓波動幅度以維持通氣量。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題考查肺氣腫（emphysema）的病理生理特徵。肺氣腫主要病變在於肺泡壁被破壞並融合成較大的空腔，這會導致肺臟失去彈性纖維，使得肺彈性回縮力（elastic recoil）大幅下降。彈性回縮力下降不僅使肺容易擴張（順應性增加），也會減弱對細支氣管的放射狀牽引力（radial traction），導致小氣道在呼氣時容易塌陷，進而使呼吸道阻力（airway resistance）顯著增加。\n\n【選項詳解】\n- A. 錯誤。解剖無效腔（anatomic dead space）是指氣管、支氣管等不具備氣體交換功能的傳導性氣道容積。肺氣腫病變主要發生在肺泡與呼吸細支氣管，其主要導致的是生理性無效腔（physiological dead space）因通氣/灌流失調（V/Q mismatch）而增加，解剖無效腔本身並不會有顯著的增加。\n- B. 正確。肺氣腫患者因肺泡結構破壞，肺臟的彈性回縮力降低，無法維持小氣道的開張（缺乏 radial traction）。在呼氣時，胸腔內壓升高會壓迫這些缺乏支撐的小氣道使其提前塌陷，導致氣流受阻，因此呼吸道阻力（resistance）會顯著增加。\n- C. 錯誤。肺泡壁受損融合成大泡，會使肺泡氣體交換的有效表面積大幅減少，且肺泡毛細血管床亦受損，因此肺擴散容積（diffusing capacity, DLCO）會顯著「下降」，而非增加。\n- D. 錯誤. 肺氣腫患者因為肺泡壁彈性纖維（elastic fibers）被蛋白酶（如 elastase）破壞降解，導致肺臟彈性（elasticity / elastic recoil）顯著「降低」（肺順應性 compliance 增加），這也是患者呼氣困難的主要病理機制。\n\n【核心考點】\n肺氣腫（emphysema）的呼吸生理機制：肺泡壁破壞導致肺彈性回縮力（elasticity）下降，減弱對小氣道的放射狀牽引，造成呼氣時氣道易塌陷，從而使呼吸道阻力（resistance）顯著增加，並伴隨肺擴散容積（DLCO）下降。",
+      "key_point": "肺氣腫因肺泡破壞導致肺彈性回縮力下降，小氣道於呼氣時易塌陷，使呼吸道阻力顯著增加。",
+      "flashcard_front": "肺氣腫 / 呼吸力學變化 / 呼吸道阻力與彈性回縮力",
+      "flashcard_back": "肺氣腫因肺泡壁破壞降解，使肺彈性回縮力（elasticity）顯著下降（順應性增加），呼氣時細支氣管失去放射狀牽引而提前塌陷，導致呼吸道阻力（resistance）顯著增加。",
+      "flashcard_summary": "肺氣腫生理變化 -> 肺彈性回縮力下降，造成呼氣時氣道易塌陷而使呼吸道阻力顯著增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題考查胃部分切除術（partial gastrectomy）後常見的併發症——傾倒症候群（Dumping syndrome）。胃部分切除後，胃的容積縮小且失去了幽門（pylorus）調控食糜排空的速度，導致餐後高張性（hypertonic）的食糜快速進入空腸。這會將大量水分吸入腸腔，引發低血容與血管擴張，造成早期傾倒症候群；隨後高糖分快速吸收引發胰島素過度分泌，則會導致晚期低血糖。\n\n【選項詳解】\n- A. 錯誤。胃切除患者在餐後早期（約30分鐘至1小時）由於碳水化合物快速排空並在小腸吸收，會出現短暫的血糖升高；但隨之而來的是刺激胰島細胞釋放過量的胰島素，在餐後約 2 至 4 小時反而會引發反應性低血糖（reactive hypoglycemia），而非餐後四小時血糖過高。\n- B. 正確。由於缺乏幽門的阻擋，高張性食糜快速傾倒入小腸，使水分從血管內快速移向腸腔以平衡滲透壓。這會導致暫時性循環血容量不足（低血容），並釋放血管活性物質，引發心悸、虛弱、暈眩、盜汗以及面色蒼白等早期傾倒症候群的症狀。\n- C. 錯誤。餐後由於大量組織液移入腸腔導致全身循環血量驟減，以及胃腸道血管擴張，血流滯留於腹腔，患者通常會出現血壓「下降」（姿態性低血壓或低血容性低血壓）和心搏過速，而非血壓上升。\n- D. 錯誤。高糖、甜食等高滲透壓食物會使排入空腸的食糜滲透壓更高，進而吸引更多水分進入腸腔，並引發更劇烈的胰島素分泌與隨後的低血糖，因此甜食會「加重」餐後的不適。患者應採取少量多餐、高蛋白、低碳水化合物及避免餐中飲水的飲食原則。\n\n【核心考點】\n胃部分切除術後的傾倒症候群（Dumping syndrome）生理機制：幽門功能喪失導致高張食糜快速排空進入小腸，引發水分滲透移位（早期：低血容、暈眩、盜汗）與胰島素過度反應（晚期：反應性低血糖）。預防應避免甜食與高碳水化合物。",
+      "key_point": "胃切除後喪失幽門調控，高張食糜快速排空進入空腸，引發水分移往腸腔（早期傾倒症候群）與反應性低血糖（晚期）。",
+      "flashcard_front": "胃部分切除 / 傾倒症候群 / 臨床症狀與飲食原則",
+      "flashcard_back": "胃切除後高張食糜快速排入空腸，將水分吸入腸腔導致循環血量不足（早期：虛弱、暈眩、盜汗），隨後高糖吸收引發胰島素過度分泌（晚期：低血糖）。甜食會加重此症狀。",
+      "flashcard_summary": "胃切除後併發症 -> 喪失幽門控制導致高張食糜快速排空，引發餐後虛弱、暈眩、盜汗等傾倒症候群症狀。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考查腸胃道多肽（GI peptides）及相關激素的生理功能。腸胃道分泌多種多肽類物質，調控胃腸運動、分泌功能及周邊血管舒縮。解題關鍵在於掌握血管活性腸多肽（VIP）、胃抑肽（GIP）、移動素（motilin）與體抑素（somatostatin）的具體生理效應與靶器官。\n\n【選項詳解】\n- A. 正確。血管活性腸多肽（vasoactive intestinal polypeptide, VIP）由腸道神經元釋放，能結合在上皮細胞的受體上活化腺苷酸環化酶（cAMP路徑），從而強烈促進腸道上皮細胞分泌水分與電解質（特別是氯離子與鈉離子），並具有舒張胃腸道平滑肌與血管的作用（臨床上 VIP 瘤會導致 WDHA 症候群：水瀉、低鉀、胃酸缺乏）。\n- B. 錯誤。胃抑肽（gastric inhibitory peptide, GIP，現稱葡萄糖依賴性促胰島素多肽 glucose-dependent insulinotropic polypeptide）主要由十二指腸和空腸的 K 細胞分泌。其生理功能主要是促進胰臟 β 細胞分泌胰島素（腸泌素 incretin 效應），並在生理劑量下輕微抑制胃酸分泌與胃排空，而非抑制迷走神經傳導。\n- C. 錯誤。移動素（motilin）由十二指腸和空腸的 M 細胞分泌。它的主要功能是促進消化間期（空腹期）的移行性複合運動（migrating motor complex, MMC），以清除胃腸道內的殘餘食物與細菌，而非促進進食後的「分節運動（segmentation contraction）」。\n- D. 錯誤。體抑素（somatostatin）是由胃腸道 D 細胞及胰島 δ 細胞分泌的廣泛性抑制激素，主要作用是抑制胃酸、胃泌素、膽囊收縮素、胰液的分泌。體抑素也會抑制腦下垂體生長激素（GH）的分泌，從而「減少」而非增加肝臟分泌體介素（somatomedin，即類胰島素生長因子 IGF-1）。\n\n【核心考點】\n常見胃腸多肽（GI peptides）生理效應：\n1. VIP：促進腸上皮分泌水與電解質、舒張平滑肌。\n2. GIP：葡萄糖依賴性地促進胰島素分泌。\n3. Motilin：刺激空腹期移行性複合運動（MMC）。\n4. Somatostatin：廣泛性抑制胃腸激素與生長激素（GH-IGF-1軸）。",
+      "key_point": "VIP 促進腸道上皮分泌水與電解質，GIP 促進胰島素分泌，motilin 促進空腹期 MMC，somatostatin 為廣泛抑制性激素。",
+      "flashcard_front": "腸胃道多肽 / VIP、GIP、Motilin、Somatostatin 功能配對",
+      "flashcard_back": "VIP 促進腸道上皮分泌水與電解質；GIP 刺激胰島素分泌；Motilin 促進消化間期移行性複合運動（MMC）；Somatostatin 抑制多種胃腸激素及生長激素（減少 IGF-1）。",
+      "flashcard_summary": "胃腸多肽功能 -> VIP促進電解質與水分分泌；GIP促胰島素分泌；motilin促空腹期MMC；somatostatin具廣泛抑制作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題考查腎臟生理學中腎小球過濾率（GFR）的計算方法。菊糖（inulin）是一種外源性多醣，其分子大小適中，在腎臟生理中有著獨特的性質：它能被腎小球自由過濾，但在通過腎小管時既不會被重吸收（reabsorption），也不會被主動分泌（secretion）。因此，腎小球每分鐘過濾的菊糖總量等於每分鐘隨尿液排出的菊糖總量，即菊糖的廓清率（clearance, Cin）等於腎小球過濾率（GFR）。\n公式為：GFR = Cin = (Uin * V) / Pin\n其中：\n- Uin：尿液中菊糖濃度 = 35 mg/mL\n- Pin：血漿中菊糖濃度 = 0.25 mg/mL\n- V：尿流速（尿液流速） = 0.9 mL/min\n\n【選項詳解】\n- A. 錯誤。此數值非正確計算結果。若以其他代數關係進行計算，無法得到腎小球過濾率，屬於干擾項。\n- B. 正確。根據 clearance 公式代入數據：\n  GFR = (35 mg/mL * 0.9 mL/min) / 0.25 mg/mL = 31.5 / 0.25 = 126 mL/min。因此 GFR 為 126 mL/min。\n- C. 錯誤。此數值極小，不符合人體正常的腎小球過濾率（正常成年人約在 100-125 mL/min 左右），為計算過程中單位或數值代錯所致。\n- D. 錯誤。此數值非正確計算結果，可能是計算過程中數值代錯所致。\n\n【核心考點】\n腎臟廓清率（Clearance）與 GFR 計算：由於菊糖只過濾、不重吸收也不分泌，其 clearance 等於 GFR。計算公式為：GFR = (U * V) / P（U 為尿中濃度，V 為尿流速，P 為血漿濃度）。",
+      "key_point": "菊糖清除率（Cin = (U * V)/P）等於腎小球過濾率（GFR），因其在腎臟只過濾、不重吸收也不分泌。",
+      "flashcard_front": "腎臟生理學 / 菊糖 clearance 計算 GFR / 公式與物理意義",
+      "flashcard_back": "GFR ＝ 菊糖清除率 ＝ (Uin * V) / Pin。代入數據：(35 mg/mL * 0.9 mL/min) / 0.25 mg/mL = 126 mL/min。",
+      "flashcard_summary": "GFR計算 -> 利用只過濾不分泌重吸收的菊糖，依公式 GFR = (U * V) / P 計算得出。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於腎臟血流與氧氣消耗敘述「錯誤」的選項。腎臟是人體血流灌流極為豐富的器官（約占心輸出量的 20% - 25%），其主要功能為過濾血液，因此其血流量遠遠超出其自身基礎代謝所需的氧氣供應量。這導致腎臟整體的動靜脈氧氣差異（A-V O2 difference）非常低。\n\n【選項詳解】\n- A. 正確敘述（非本題所求）。腎臟皮質是腎小球過濾的主要場所，血流極為充沛，約佔整個腎臟血流量的 90% 以上。以單位重量計算，皮質血流量（約 4 - 5 mL/g/min）遠大於外髓質與內髓質。\n- B. 錯誤敘述（符合本題所求）。腎臟血流量極大，遠超其代謝所需，故流經腎臟的血液中僅有極少部分的氧被提取，這使得腎臟的動靜脈氧氣差異（arteriovenous oxygen difference）在全身器官中屬於「極低」者（約 1.5 - 2 mL O2 / 100 mL blood，而腎靜脈血氧飽和度高達 90%）。全身各器官中動靜脈氧差最高的是心臟（心肌需氧量極高且提取率大，動靜脈氧差可達 11 - 13 mL O2 / 100 mL blood）。\n- C. 正確敘述（非本題所求）。直小血管（vasa recta）的毛細血管袢緊密並行，在運行過程中，氧氣會直接從下行支（vasa recta descendens）擴散至含氧量較低的上行支（vasa recta ascendens）而被帶走。這種「逆流旁路（countercurrent shunting）」機制限制了氧氣向髓質深處的輸送，使得髓質的動脈氧氣分壓（PO2 約 10 - 20 mmHg）顯著低於皮質（PO2 約 50 mmHg）。\n- D. 正確敘述（非本題所求）。腎臟髓質中的亨耳氏環粗上行支（thick ascending limb, TAL）細胞含有高密度的 Na+/K+ ATPase，負責主動重吸收大量的鈉離子。此過程為高耗能反應，需要提取大量的氧氣進行有氧呼吸。由於髓質本身血流少且 PO2 低，這種「高耗氧、低供氧」的矛盾使得髓質在血流減少時極易發生缺血性壞死。\n\n【核心考點】\n腎臟血流與氧氣代謝特點：\n1. 腎臟整體血流量大，動靜脈氧氣差異（A-V O2 difference）極低。\n2. 腎臟血流主要分布在皮質，髓質血流少。\n3. 髓質因直小血管逆流旁路機制處於生理性低氧狀態，但其粗上行支主動重吸收鈉離子耗氧量極高，因此對缺氧極為敏感。",
+      "key_point": "腎臟血流量極大，動靜脈氧氣差異（A-V O2 difference）極低；髓質因直小血管逆流旁路呈低氧狀態，但 TAL 耗氧量高，對缺氧極敏感。",
+      "flashcard_front": "腎臟生理 / 全身器官動靜脈氧差比較 / 髓質氧氣代謝",
+      "flashcard_back": "腎臟灌流量極高，動靜脈氧氣差異極低（心臟最高）。腎皮質血流最大；髓質因直小血管逆流旁路呈低氧，但粗上行支主動重吸收鈉離子而耗氧極高，易受缺血性損傷。",
+      "flashcard_summary": "腎臟血流與氧耗 -> 腎臟血流量大故動靜脈氧差極低。髓質因直小血管逆流旁路PO2低，但因主動重吸收鈉離子而耗氧極高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考查甲狀腺素（thyroid hormone）的合成、轉運及代謝機制。甲狀腺素主要在甲狀腺濾泡（follicle）中合成，合成過程包含碘離子捕獲（iodide trapping）、碘化（iodination）及偶聯（coupling）等步驟，並經由特定轉運體與酵素調節。\n\n【選項詳解】\n- A. 錯誤。甲狀腺濾泡內腔的膠體（colloid）主要成分是甲狀腺球蛋白（thyroglobulin, Tg）。Tg 是一種大分子的醣蛋白（glycoprotein），並非脂肪分子。它是甲狀腺素合成與儲存的載體。\n- B. 錯誤。在周邊組織中，四碘甲狀腺素（T4）是藉由去碘酶（deiodinase, 包括 D1 和 D2）脫去外環的碘原子，轉化為活性較高的三碘甲狀腺素（T3）。而 pendrin 是一種位於濾泡上皮細胞頂端膜（apical membrane）的氯/碘交換蛋白，負責將細胞內的碘離子排入濾泡腔中以進行碘化，與 T4 轉化為 T3 無關。\n- C. 正確。碘捕獲（iodide trapping）發生在濾泡細胞的基底側膜（basolateral membrane），為次級主動運輸。它由 Na+/I- 共運送體（NIS）將 2 個 Na+ 與 1 個 I- 同向運入細胞內，而此過程必須依賴 Na+/K+ ATPase 消耗 ATP 泵出鈉離子，以維持細胞內低鈉的電化學梯度，故兩者皆參與其中。\n- D. 錯誤。在甲狀腺球蛋白上，一個單碘酪胺酸（MIT）與一個雙碘酪胺酸（DIT）發生偶聯（coupling）會產生三碘甲狀腺素（T3）；而四碘甲狀腺素（T4）則是由兩個雙碘酪胺酸（DIT + DIT）偶聯而產生的。\n\n【核心考點】\n甲狀腺素合成關鍵步驟與機制：\n1. 碘捕獲（Trapping）：依賴基底膜的 NIS（次級主動運輸）與 Na+/K+ ATPase。\n2. 碘釋放至濾泡腔：經由頂端膜的 Pendrin。\n3. 偶聯反應（Coupling）：DIT + DIT -> T4；MIT + DIT -> T3。\n4. 周邊轉化：T4 經去碘酶（deiodinase）轉化為活性 T3。",
+      "key_point": "碘捕獲為依賴 NIS 與 Na+/K+ ATPase 的次級主動運輸；T4 由兩個 DIT 偶聯而成，周邊去碘化為 T3。",
+      "flashcard_front": "內分泌生理 / 甲狀腺素合成步驟 / Trapping 與 Coupling 機制",
+      "flashcard_back": "碘捕獲（Trapping）需要 Na+/I- 共運送體（NIS）與 Na+/K+ ATPase 參與。甲狀腺膠體為甲狀腺球蛋白（醣蛋白）；DIT + DIT 偶聯產生 T4；T4 在周邊經去碘酶轉為 T3。",
+      "flashcard_summary": "甲狀腺素合成 -> 碘捕獲為利用 Na+/K+ ATPase 梯度的 NIS 次級主動運輸；膠體為醣蛋白；T4 由兩個 DIT 偶聯產生。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於皮質醇（cortisol，一種糖皮質激素）合成與調控路徑中「錯誤」的敘述。皮質醇由腎上腺皮質分泌，其合成與釋放主要受到下視丘-腦下垂體-腎上腺軸（HPA axis）中促腎上腺皮質激素（ACTH）的調控。ACTH 經由 MC2R-Gs-cAMP-PKA 訊息傳遞路徑發揮作用。\n\n【選項詳解】\n- A. 正確敘述（非本題所求）。ACTH 與腎上腺皮質細胞膜上的 Gs 蛋白偶聯受體（MC2R）結合，進而活化腺苷酸環化酶（adenylyl cyclase），催化 ATP 轉化為 cAMP，使細胞內的 cAMP 濃度顯著升高。\n- B. 錯誤敘述（符合本題所求）。ACTH 訊息傳遞路徑中，細胞內 cAMP 增加會直接活化的是「蛋白激酶 A（Protein Kinase A, PKA）」，而非蛋白激酶 C（PKC）。活化後的 PKA 會磷酸化並活化膽固醇酯水解酶（cholesteryl ester hydrolase），使細胞質脂肪滴中的膽固醇酯水解，釋放出游離膽固醇，作為合成皮質醇的原料。\n- C. 正確敘述（非本題所求）。皮質醇等類固醇激素的合成原料為膽固醇。合成的第一步是在粒線體內將膽固醇轉化為孕烯醇酮（pregnenolone），隨後移至平滑內質網（smooth endoplasmic reticulum）進行多步羥基化反應，最後一步（11-去氧皮質醇轉化為皮質醇）再回到粒線體中由 11β-羥化酶（11β-hydroxylase）催化完成。因此，合成過程是在粒線體與平滑內質網之間交替進行。\n- D. 正確敘述（非本題所求）。腎上腺皮質結構由外向內分為球狀帶（zona glomerulosa）、束狀帶（zona fasciculata）和網狀帶（zona reticularis）。其中，中間最寬的束狀帶細胞是分泌糖皮質激素（主要是皮質醇）的主要場所。\n\n【核心考點】\n腎上腺皮質激素的合成與調控：\n1. 腎上腺皮質分層與產物：球狀帶（醛固酮）、束狀帶（皮質醇）、網狀帶（DHEA等雄性素）。\n2. ACTH 調控機制：經由 MC2R -> Gs 蛋白 -> cAMP 增加 -> 活化 PKA（非 PKC） -> 活化膽固醇酯水解酶。\n3. 類固醇合成路徑的細胞器：交替在粒線體與平滑內質網中進行。",
+      "key_point": "ACTH 經由 MC2R-Gs-cAMP-PKA 路徑活化膽固醇酯水解酶；皮質醇主要在束狀帶的粒線體與平滑內質網中交替合成。",
+      "flashcard_front": "內分泌生理 / 皮質醇合成調控 / ACTH 訊息傳遞路徑與合成細胞器",
+      "flashcard_back": "ACTH 活化 Gs-cAMP-PKA（非 PKC）路徑，PKA 磷酸化膽固醇酯水解酶釋出膽固醇。合成在粒線體與平滑內質網交替進行，主要分布於皮質束狀帶。",
+      "flashcard_summary": "皮質醇合成調控 -> ACTH 經由 cAMP-PKA（非 PKC）途徑活化膽固醇酯水解酶釋出膽固醇；主要於束狀帶的粒線體與平滑內質網合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題為否定題，考查弱雄性素脫氫異雄固酮（DHEA）的生理來源、調控、分泌年齡變化及臨床相關疾病。DHEA 主要由腎上腺皮質的網狀帶分泌，其分泌受 HPA 軸的 ACTH 調控，而非促性腺激素（如 LH）。過量分泌會導致女性男性化。\n\n【選項詳解】\n- A. 正確敘述（非本題所求）。DHEA（dehydroepiandrosterone）是一種弱效的腎上腺雄性素。它在周邊組織中可被轉化為雄烯二酮（androstenedione），再進一步轉化為更強效的雄性素（如 testosterone 睪固酮、DHT 雙氫睪固酮）或雌激素，是人體合成雄性素的重要先驅物質。\n- B. 錯誤敘述（符合本題所求）。調控腎上腺皮質網狀帶合成與分泌 DHEA 的主要激素是腦下垂體前葉分泌的「促腎上腺皮質激素（ACTH）」，而非黃體刺激素（LH）。LH 主要調控性腺（如睪丸的 Leydig 細胞或卵巢的 Theca 細胞）分泌性激素。\n- C. 正確敘述（非本題所求）。DHEA 及其硫酸鹽形式（DHEA-S）的分泌具有顯著的年齡變化規律。在青春期前（腎上腺功能初現，adrenarche）分泌量開始上升，不論男女皆在 20 歲左右達到分泌的高峰期，此後隨年齡增長而逐漸遞減。\n- D. 正確敘述（非本題所求）。若女性的腎上腺皮質因酵素缺陷（如先天性腎上腺增生症 CAH）或腫瘤導致 DHEA 過度分泌，過量的雄性素會在周邊轉化為強效睪固酮，引起女性身體出現男性化特徵（如多毛、聲音變粗、陰蒂肥大等），此即為腎上腺性徵異常症候群（adrenogenital syndrome）。\n\n【核心考點】\n腎上腺雄性素 DHEA 的生理特性：\n1. 調控因子：主要受腦下垂體 ACTH 調控，而非性腺調控激素（LH/FSH）。\n2. 分泌特徵：不分性別，皆在 20 歲左右達到分泌高峰，隨年齡增長遞減。\n3. 病理效應：女性過量分泌 DHEA 會導致雄性化，與腎上腺性徵異常症候群有關。",
+      "key_point": "腎上腺 DHEA 主要受 ACTH 調控而非 LH，不分性別皆在 20 歲左右達分泌高峰，女性過量會導致男性化與性徵異常。",
+      "flashcard_front": "內分泌生理 / 脫氫異雄固酮（DHEA）調控與年齡變化 / 腎上腺性徵異常",
+      "flashcard_back": "腎上腺弱雄性素 DHEA 分泌主要受 ACTH（非 LH）調控。不論男女皆在 20 歲左右達分泌高峰；在女性，DHEA 過度分泌（如 CAH）會轉為睪固酮，引起男性化的腎上腺性徵異常症候群。",
+      "flashcard_summary": "DHEA生理特點 -> 受 ACTH（非 LH）調控，男女皆於 20 歲左右達分泌高峰。女性過度分泌會導致腎上腺性徵異常（男性化）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

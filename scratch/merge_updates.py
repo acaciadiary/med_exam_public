@@ -1,86 +1,65 @@
+import os
 import json
-import sys
-from pathlib import Path
-from datetime import datetime, timezone
+import glob
 
-def merge_updates(exam_json_path, updates_dir_path):
-    exam_file = Path(exam_json_path)
-    updates_dir = Path(updates_dir_path)
+def merge():
+    source_file_path = "public/data/exams/109-1/medicine-1.json"
+    updates_dir = "scratch/rewrite_updates/109-1_medicine-1"
     
-    if not exam_file.exists():
-        print(f"Error: Exam file {exam_file} does not exist.")
-        sys.exit(1)
+    if not os.path.exists(source_file_path):
+        print(f"Error: Source file {source_file_path} not found.")
+        return
         
-    if not updates_dir.exists():
-        print(f"Error: Updates directory {updates_dir} does not exist.")
-        sys.exit(1)
+    with open(source_file_path, "r", encoding="utf-8") as f:
+        source_data = json.load(f)
         
-    # 讀取原始考卷
-    try:
-        exam_data = json.loads(exam_file.read_text(encoding="utf-8-sig"))
-    except Exception as e:
-        print(f"Error loading exam JSON: {e}")
-        sys.exit(1)
-        
-    # 將原始題目建立索引，加快尋找速度
-    questions = exam_data.get("questions", [])
-    q_dict = {q.get("id"): q for q in questions}
+    questions = source_data.get("questions", [])
+    question_map = {q["id"]: q for q in questions}
     
-    # 讀取所有 updates JSON
-    update_files = sorted(updates_dir.glob("*.json"))
+    update_files = glob.glob(os.path.join(updates_dir, "q*.json"))
     if not update_files:
-        print(f"No update JSON files found in {updates_dir}")
+        print(f"Error: No update files found in {updates_dir}.")
         return
         
     merged_count = 0
-    now_str = datetime.now(timezone.utc).isoformat()
     
-    for uf in update_files:
-        try:
-            update_data = json.loads(uf.read_text(encoding="utf-8-sig"))
-        except Exception as e:
-            print(f"Error loading update JSON {uf.name}: {e}")
-            continue
+    for up_path in sorted(update_files):
+        print(f"Processing update file: {up_path}")
+        with open(up_path, "r", encoding="utf-8") as f:
+            up_data = json.load(f)
             
-        updates_list = update_data.get("updates", [])
-        for item in updates_list:
-            qid = item.get("question_id")
-            if not qid:
-                continue
+        updates = up_data.get("updates", [])
+        for update in updates:
+            q_id = update["question_id"]
+            if q_id in question_map:
+                target_q = question_map[q_id]
                 
-            if qid not in q_dict:
-                print(f"Warning: Question {qid} not found in target exam file.")
-                continue
+                # 合併允許的欄位
+                allowed_fields = [
+                    "explanation",
+                    "key_point",
+                    "flashcard_summary",
+                    "flashcard_front",
+                    "flashcard_back",
+                    "review_status",
+                    "explanation_model",
+                    "explanation_generated_at",
+                    "manual_review_notes"
+                ]
                 
-            orig_q = q_dict[qid]
-            
-            # 更新允許的欄位
-            allowed_fields = [
-                "explanation", "key_point", "flashcard_front", "flashcard_back", 
-                "flashcard_summary", "manual_review_notes"
-            ]
-            for field in allowed_fields:
-                if field in item:
-                    orig_q[field] = item[field]
-            
-            # 強制標示 AI 產生狀態與時間
-            orig_q["review_status"] = item.get("review_status", "ai_generated")
-            orig_q["explanation_model"] = item.get("explanation_model", "codex-high-quality-rewrite")
-            orig_q["explanation_generated_at"] = item.get("explanation_generated_at", now_str)
-            
-            merged_count += 1
-            
-    # 將結果寫回原始考卷
-    try:
-        exam_file.write_text(json.dumps(exam_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"Successfully merged {merged_count} questions into {exam_file.name}")
-    except Exception as e:
-        print(f"Error writing merged JSON back to file: {e}")
-        sys.exit(1)
+                for field in allowed_fields:
+                    if field in update:
+                        target_q[field] = update[field]
+                
+                merged_count += 1
+            else:
+                print(f"Warning: Question ID {q_id} from {up_path} not found in source file.")
+                
+    # 寫回原始檔案
+    with open(source_file_path, "w", encoding="utf-8") as f:
+        json.dump(source_data, f, ensure_ascii=False, indent=2)
+        
+    print(f"Successfully merged {merged_count} question updates into {source_file_path}.")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python merge_updates.py <exam_json_path> <updates_dir_path>")
-        sys.exit(1)
-        
-    merge_updates(sys.argv[1], sys.argv[2])
+    merge()

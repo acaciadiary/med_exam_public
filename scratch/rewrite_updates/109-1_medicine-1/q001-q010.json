@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n內囊後支 (posterior limb of internal capsule) 是大腦傳導運動 and 感覺纖維的關鍵部位，其血流主要由前脈絡叢動脈 (anterior choroidal artery) 和大腦中動脈的豆紋動脈 (lenticulostriate arteries) 共同供應。\n\n【選項詳解】\n- A. 錯誤。前大腦動脈 (anterior cerebral artery, ACA) 的分支（如 Heubner 返折動脈）主要負責供應內囊前支 (anterior limb) 以及尾狀核頭部的前下方，而非後支。\n- B. 錯誤。後交通動脈 (posterior communicating artery, PCoA) 主要供應視交叉、下視丘、視丘的前部以及部分大腦腳，不負責內囊後支的血液灌流。\n- C. 錯誤。丘腦穿通動脈 (thalamoperforating artery) 是大腦後動脈 (PCA) 或後交通動脈的分支，主要穿入並支配視丘的前內側區及中腦被蓋，不供應內囊後支。\n- D. 正確。前脈絡叢動脈 (anterior choroidal artery) 直接分支自內頸動脈 (ICA)，主要供應內囊後支的下半部（內含皮質脊髓束）以及外側膝狀體、海馬迴等結構。\n\n【核心考點】\n內囊各部位的血管供應：前支主要由前大腦動脈（Heubner 返折動脈）和豆紋動脈供血；後支主要由前脈絡叢動脈 and 豆紋動脈供血。",
+      "key_point": "內囊後支由前脈絡叢動脈及大腦中動脈的豆紋動脈供血。",
+      "flashcard_front": "內囊後支 (posterior limb of internal capsule) 主要由哪兩條動脈系統供血？",
+      "flashcard_back": "主要由內頸動脈的分支「前脈絡叢動脈 (anterior choroidal artery)」以及大腦中動脈的分支「豆紋動脈 (lenticulostriate arteries)」供血。",
+      "flashcard_summary": "內囊後支 -> 前脈絡叢動脈（下半部）與豆紋動脈（上半部）供血；內囊前支則由前大腦動脈的分支（Heubner 返折動脈）供血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n前庭眼反射 (vestibulo-ocular reflex, VOR) 要求在頭部轉動時眼球能維持穩定注視，這需要前庭神經核與眼球運動神經核（動眼神經核、滑車神經核、外展神經核）之間有快速的交通管道，而此連接管道即為內側縱束 (medial longitudinal fasciculus, MLF)。\n\n【選項詳解】\n- A. 錯誤。前庭小腦纖維 (vestibulocerebellar fiber) 主要連接前庭神經核（或直接來自前庭神經）與小腦的絨球小結葉 (flocculonodular lobe)，負責身體平衡和姿勢調節，不直接傳導至眼球運動神經核。\n- B. 錯誤。中央被蓋束 (central tegmental tract) 主要連通紅核 (red nucleus) 與下橄欖核 (inferior olivary nucleus)，是錐體外運動調控通路（紅核-橄欖-小腦環路）的一部分，非眼球運動通路。\n- C. 正確。內側縱束 (medial longitudinal fasciculus, MLF) 是腦幹中連通前庭神經核與 CN III（動眼）、CN IV（滑車）、CN VI（外展）神經核的關鍵有髓鞘纖維束，為前庭眼反射 (VOR) 與兩眼協調運動的解剖基礎。\n- D. 錯誤。內側前腦束 (medial forebrain bundle) 連接前腦（如基底前腦、隔區）與下視丘、腦幹被蓋區，是邊緣系統及多巴胺/血清素獎賞與自主神經環路的一部分，不參與眼動控制。\n\n【核心考點】\n內側縱束 (MLF) 的功能解剖，它是連接前庭核與眼動核（CN III, IV, VI）的反射通路，病變時會導致核間眼肌麻痺 (internuclear ophthalmoplegia, INO)。",
+      "key_point": "內側縱束 (MLF) 連接前庭神經核與控制眼球運動之神經核 (CN III, IV, VI)。",
+      "flashcard_front": "哪一條腦幹纖維束連接前庭神經核與控制眼外肌的神經核（CN III, IV, VI），以介導前庭眼反射 (VOR)？",
+      "flashcard_back": "內側縱束 (medial longitudinal fasciculus, MLF)。",
+      "flashcard_summary": "內側縱束 (MLF) -> 連接前庭神經核與 CN III, IV, VI，病變引起核間眼肌麻痺 (INO)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n胚胎發育中，每一對咽弓都有其特異性支配的腦神經與神經核。第一對咽弓（下頜弓）衍生出咀嚼肌、二腹肌前腹、下頜舌骨肌、鼓膜張肌與腭帆張肌，這些構造皆由三叉神經下頜支 (CN V3) 支配，其運動纖維源自三叉神經運動核。\n\n【選項詳解】\n- A. 正確。三叉神經運動核 (trigeminal motor nucleus) 發出三叉神經的運動纖維，走在下頜支 (CN V3) 中，負責支配由第一對咽弓衍生的所有肌肉構造，如咀嚼肌、下頜舌骨肌等。\n- B. 錯誤。面神經核 (facial nucleus) 支配由第二對咽弓（舌骨弓）衍生的構造，包括面部表情肌、鐙骨肌、二腹肌後腹及莖突舌骨肌。\n- C. 錯誤。動眼神經核 (oculomotor nucleus) 支配由中腦節段體節發育而來的眼外肌（如上直肌、下直肌等），非咽弓衍生構造。\n- D. 錯誤。上橄欖核 (superior olivary nucleus) 是橋腦聽覺傳導通路中整合雙耳聲波定位的結構，不發出支配咽弓衍生肌肉的運動神經纖維。\n\n【核心考點】\n胚胎學咽弓與神經的對應關係：第一弓對應三叉神經 (CN V)；第二弓對應面神經 (CN VII)；第三弓對應舌咽神經 (CN IX)；第四與第六弓對應迷走神經 (CN X)。",
+      "key_point": "第一對咽弓構造由三叉神經運動核支配，第二對由面神經核支配。",
+      "flashcard_front": "支配第一對咽弓與第二對咽弓衍生肌肉構造的神經核分別為何？",
+      "flashcard_back": "第一對咽弓由「三叉神經運動核 (CN V)」支配；第二對咽弓由「面神經核 (CN VII)」支配。",
+      "flashcard_summary": "咽弓神經支配 -> 第一弓：三叉神經運動核 (CN V3)；第二弓：面神經核 (CN VII)；第三弓：疑核 (CN IX)； fourth/six 弓：疑核 (CN X)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n顱內硬腦膜靜脈竇的交通網絡錯綜複雜。海綿竇位於蝶鞍兩側，其後方的引流管道主要分為兩條岩竇：往後上走行的上岩竇連接橫竇，而往後下走行的下岩竇則引流至內頸靜脈。\n\n【選項詳解】\n- A. 錯誤。乙狀竇 (sigmoid sinus) 是橫竇 (transverse sinus) 向下延續的 S 形管道，最後經由頸靜脈孔 (jugular foramen) 注入內頸靜脈，並不與前方的海綿竇直接相接。\n- B. 正確。上岩竇 (superior petrosal sinus) 位於顳骨岩部上緣的硬腦膜褶中，解剖上直接橫跨並連結前方的海綿竇 (cavernous sinus) 與後方的橫竇 (transverse sinus)。\n- C. 錯誤。下岩竇 (inferior petrosal sinus) 位於顳骨與枕骨之間的岩枕裂，負責將海綿竇的血液向後下方引流，直接注入內頸靜脈的起始部，而非引流至橫竇。\n- D. 錯誤。直竇 (straight sinus) 由大腦大靜脈與下矢狀竇匯合而成，沿大腦鐮與小腦天幕的交界向後注入竇匯 (confluence of sinuses)，不與海綿竇相通。\n\n【核心考點】\n硬腦膜靜脈竇的解剖與回流路徑，特別是海綿竇的出口引流：上岩竇往橫竇，下岩竇往內頸靜脈。",
+      "key_point": "上岩竇連接海綿竇與橫竇，下岩竇連接海綿竇與內頸靜脈。",
+      "flashcard_front": "海綿竇 (cavernous sinus) 的血液向後引流至「橫竇」與「內頸靜脈」的通道分別為何？",
+      "flashcard_back": "引流至橫竇的通道為「上岩竇 (superior petrosal sinus)」；引流至內頸靜脈的通道為「下岩竇 (inferior petrosal sinus)」。",
+      "flashcard_summary": "靜脈竇引流 -> 海綿竇 -> 上岩竇 -> 橫竇；海綿竇 -> 下岩竇 -> 內頸靜脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n蝶骨是顱底的核心骨骼，其大翼與小翼之間、以及其自身的孔洞內穿行著許多重要的腦神經與血管。本題要求辨識位於大翼與小翼交界處的孔裂構造，即為眶上裂。\n\n【選項詳解】\n- A. 錯誤。視神經孔 (optic foramen/canal) 完全由蝶骨小翼 (lesser wing) 的兩個根部（基底）所包圍形成，並非處於大翼與小翼之間，內有 CN II（視神經）與眼動脈通過。\n- B. 正確。眶上裂 (superior orbital fissure) 是位於蝶骨大翼 (greater wing) 與小翼 (lesser wing) 之間的狹長裂縫，為中顱窩與眼眶相通的門戶，容納 CN III、IV、V1、VI 及眼上靜脈。\n- C. 錯誤。圓孔 (foramen rotundum) 位於蝶骨大翼 (greater wing) 上，是獨立穿透大翼的骨孔，非兩翼間構造，內有 CN V2（上頜神經）通過。\n- D. 錯誤。眶下裂 (inferior orbital fissure) 位於眼眶的外下方，由蝶骨大翼與上頜骨、腭骨、顴骨共同圍成，並不位於蝶骨大翼與小翼之間。\n\n【核心考點】\n蝶骨相關孔裂的解剖定位及其通過構造（如眶上裂、視神經孔、圓孔、卵圓孔、棘孔）。",
+      "key_point": "眶上裂位於蝶骨大翼與小翼之間，是中顱窩通往眼眶的裂隙。",
+      "flashcard_front": "位於蝶骨大翼與小翼之間的解剖裂隙為何？有何重要神經與血管通過？",
+      "flashcard_back": "構造為「眶上裂 (superior orbital fissure)」。通過的神經有動眼神經 (CN III)、滑車神經 (CN IV)、三叉神經第一支 (CN V1)、外展神經 (CN VI)；血管為眼上靜脈。",
+      "flashcard_summary": "蝶骨孔裂 -> 眶上裂：大翼與小翼之間 (CN III, IV, V1, VI)；視神經管：小翼內 (CN II, 眼動脈)；圓孔：大翼內 (CN V2)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n耳下腺管 (parotid duct) 開口地位於上頜第二大臼齒相對的頰黏膜。要傳導此處黏膜的痛覺（屬於一般軀體感覺），必須藉由負責面部一般感覺的三叉神經分支，並需與支配運動的面神經分支進行臨床鑑別。\n\n【選項詳解】\n- A. 錯誤。舌神經 (lingual nerve) 雖然也是三叉神經下頜支 (CN V3) 的分支，但它主要負責舌前三分之二黏膜的一般感覺（痛、溫、觸、壓覺），不支配頰黏膜。\n- B. 正確。頰神經 (buccal nerve) 是三叉神經下頜支 (CN V3) 的分支，為純感覺神經，專門支配頰部皮膚以及頰黏膜（包括耳下腺管開口處）的一般感覺與痛覺傳導。\n- C. 錯誤。顴面神經 (zygomaticofacial nerve) 是三叉神經上頜支 (CN V2) 的分支，主要穿過顴骨小孔，支配顴骨表面面部皮膚的感覺，不支配口腔內的頰黏膜。\n- D. 錯誤。面神經的頰支 (buccal branch of facial nerve) 是面神經 (CN VII) 的運動分支，負責支配頰肌 (buccinator muscle) 等表情肌的運動，完全不含有傳導黏膜痛覺的感覺纖維。\n\n【核心考點】\n臉部感覺與運動神經的鑑別：三叉神經的「頰神經」傳導頰黏膜感覺；面神經的「頰支」支配頰肌運動。",
+      "key_point": "頰黏膜的一般感覺由三叉神經分支「頰神經」傳導，而頰肌的收縮由面神經「頰支」控制。",
+      "flashcard_front": "支配頰黏膜（如耳下腺管開口處）感覺的「頰神經」與支配頰肌運動的「面神經頰支」，其來源分別為何？",
+      "flashcard_back": "傳導感覺的「頰神經」來自三叉神經下頜支 (CN V3)；控制運動的「面神經頰支」來自面神經 (CN VII)。",
+      "flashcard_summary": "頰部神經 -> 感覺：三叉神經下頜支之頰神經；運動：面神經之頰支。耳下腺管開口位於上頜第二大臼齒相對處。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n心包膜在心臟大血管根部折返時會形成通道。位於心臟底部的動脈系統（升主動脈、肺動脈幹）與靜脈系統（上腔靜脈、肺靜脈）之間存在一個橫向的天然間隙，此構造為心包膜橫竇。\n\n【選項詳解】\n- A. 正確。心包膜橫竇 (transverse pericardial sinus) 位於心底部，前壁為升主動脈及肺動脈幹，後壁為上腔靜脈及肺靜脈，是分隔動脈群與靜脈群的水平通道，臨床上可經此夾閉大動脈。\n- B. 錯誤。心包膜斜竇 (oblique pericardial sinus) 是位於左心房後方的 J 形盲囊，其邊界由下腔靜脈與左右肺靜脈圍成，主要位於心臟後壁的靜脈群之間，不分隔動靜脈群。\n- C. 錯誤。冠狀竇 (coronary sinus) 是心臟後方冠狀溝內的靜脈構造，負責將心肌本身的靜脈血收集並回流至右心房，不是心包腔折返所形成的空隙通道。\n- D. 錯誤。心包膜腔胸骨面 (sternal surface of pericardial cavity) 指的是心包腔朝向胸骨及肋軟骨的前壁區域，與大血管根部的動靜脈分隔通道無關。\n\n【核心考點】\n心包折返腔隙解剖：心包膜橫竇分隔動脈群（主動脈、肺動脈幹）與靜脈群（上腔靜脈、肺靜脈）；心包膜斜竇位於左心房後方、肺靜脈與下腔靜脈之間。",
+      "key_point": "心包膜橫竇介於動脈群（升主動脈、肺動脈幹）與靜脈群（上腔靜脈、肺靜脈）之間。",
+      "flashcard_front": "分隔心臟上方動脈群（主動脈及肺動脈幹）與靜脈群（肺靜脈及上腔靜脈）的心包膜腔隙為何？有何臨床用途？",
+      "flashcard_back": "構造為「心包膜橫竇 (transverse pericardial sinus)」。臨床上可用於心臟手術時穿入器械或手指，以阻斷主動脈和肺動脈幹的血流。",
+      "flashcard_summary": "心包膜竇 -> 橫竇：分隔前方的動脈群與後方的靜脈群；斜竇：左心房後方、肺靜脈與下腔靜脈之間的盲囊。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n膈下動脈 (inferior phrenic artery) 為左右成對的血管，主要供應橫膈膜底部的肌肉與包膜，並分出腎上腺上動脈供應腎上腺。本題考查此動脈的標準解剖來源起點。\n\n【選項詳解】\n- A. 錯誤。胸內動脈 (internal thoracic artery) 發源自鎖骨下動脈，分支中的肌膈動脈 (musculophrenic artery) 供應橫膈膜上表面的前部，並不分出膈下動脈。\n- B. 錯誤。腹腔動脈幹 (celiac trunk) 是腹主動脈的單一臟支分支，位置在膈下動脈發出點的下方，雖然解剖變異上膈下動脈偶爾可與之共幹，但其標準來源並非此處。\n- C. 正確。膈下動脈 (inferior phrenic artery) 是腹主動脈 (abdominal aorta) 在穿過橫膈膜主動脈裂孔 (aortic hiatus) 後，於腹腔最頂端直接發出的第一對成對壁支。\n- D. 錯誤。腎動脈 (renal artery) 是腹主動脈在較低水平（約相當於第一至第二腰椎之間）向兩側分出的成對臟支，位置遠低於膈下動脈的發源高度。\n\n【核心考點】\n腹主動脈的主要分支及其高度順序：穿過主動脈裂孔 (T12) 後最先發出的壁支為膈下動脈，臟支為腹腔動脈幹 (T12-L1)。",
+      "key_point": "膈下動脈是腹主動脈穿過主動脈裂孔後發出的第一對壁支。",
+      "flashcard_front": "膈下動脈 (inferior phrenic artery) 最常見的標準解剖發源起點為何？",
+      "flashcard_back": "直接發源自「腹主動脈 (abdominal aorta)」，是其穿過橫膈膜主動脈裂孔後發出的第一對成對壁支。",
+      "flashcard_summary": "膈下動脈 -> 源自腹主動脈 (abdominal aorta)，供應橫膈下表面，並發出腎上腺上動脈 (superior suprarenal artery)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n精索 (spermatic cord) 是穿行於腹股溝管並懸吊睪丸的結構，其包被的三層筋膜起源於腹壁各層，內部容納了睪丸血液循環、淋巴引流與生殖細胞輸送的管道。本題為否定題，需找出關於精索內容物或包被層的錯誤敘述。\n\n【選項詳解】\n- A. 正確。精索外包三層筋膜：精索外筋膜（源自腹外斜肌腱膜）、提睪肌筋膜（源自腹內斜肌）及精索內筋膜（源自腹橫筋膜）。\n- B. 正確。精索內部含有輸送精子的輸精管 (ductus deferens) 及其血管，以及直接源自腹主動脈、負責睪丸血供的睪丸動脈 (testicular artery)。\n- C. 正確。蔓狀靜脈叢 (pampiniform venous plexus) 是多條圍繞睪丸動脈的靜脈網，具備熱對流冷卻作用，可降低流入睪丸的動脈血溫以利精子發育。\n- D. 錯誤。精索內含有豐富的淋巴管，專門負責將睪丸及副睪的淋巴液向後腹腔引流，最終注入腰淋巴結 (lumbar/para-aortic lymph nodes)，而非無淋巴管。\n\n【核心考點】\n精索的解剖組成：三層筋膜（外筋膜、提睪肌筋膜、內筋膜）與多種內容物（輸精管、睪丸動靜脈、生殖股神經生殖支、蔓狀靜脈叢、淋巴管）。",
+      "key_point": "精索內包覆有睪丸動脈、輸精管、蔓狀靜脈叢及引流至後腹腔腰淋巴結的淋巴管。",
+      "flashcard_front": "精索 (spermatic cord) 的三層包被筋膜由外到內各衍生自腹壁的哪一層構造？其內部淋巴引流至何處？",
+      "flashcard_back": "1. 精索外筋膜：腹外斜肌腱膜。 2. 提睪肌筋膜：腹內斜肌。 3. 精索內筋膜：腹橫筋膜。 內部的淋巴管將淋巴液引流至「腰淋巴結 (lumbar/para-aortic lymph nodes)」。",
+      "flashcard_summary": "精索解剖 -> 三層筋膜：外（腹外斜肌）、中（腹內斜肌）、內（腹橫筋膜）。內容物：輸精管、睪丸動脈、蔓狀靜脈叢、淋巴管（回流至主動脈旁/腰淋巴結）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n男女生殖系統在胚胎發育早期具有共同的未分化階段，隨後在不同激素引導下發育為各自的性器官。前庭球是女性陰道口兩側 the 雙側勃起組織，在男性發育中會在中線融合，圍繞尿道發育為尿道海綿體。\n\n【選項詳解】\n- A. 錯誤。男性的尿道球腺 (bulbourethral gland) 負責分泌黏液，其胚胎同源構造為女性的大前庭腺 (greater vestibular/Bartholin's gland)，而非前庭球。\n- B. 錯誤。男性的陰莖海綿體 (corpora cavernosa) 為成對的勃起組織，其在女性的胚胎同源構造為陰蒂海綿體 (corpora cavernosa of clitoris)。\n- C. 正確。女性的前庭球 (bulb of the vestibule) 是位於陰道口兩側的勃起組織，在男性發育中，其與尿道皺襞融合對應發育為中線的尿道海綿體 (corpus spongiosum，包含陰莖頭與尿道球)。\n- D. 錯誤。男性的陰莖腳 (crus of penis) 是陰莖海綿體後端附著於坐骨恥骨支的結構，其在女性的同源構造為陰蒂腳 (crus of clitoris)。\n\n【核心考點】\n男女外生殖器胚胎同源構造對應關係：前庭球與尿道海綿體同源；陰蒂海綿體與陰莖海綿體同源；大前庭腺與尿道球腺同源。",
+      "key_point": "女性的前庭球與男性的尿道海綿體為胚胎同源構造。",
+      "flashcard_front": "女性的前庭球 (bulb of the vestibule) 及大前庭腺 (Bartholin's gland) 在男性體內分別對應何種同源構造？",
+      "flashcard_back": "前庭球對應男性的「尿道海綿體 (corpus spongiosum)」；大前庭腺對應男性的「尿道球腺 (bulbourethral/Cowper's gland)」。",
+      "flashcard_summary": "外生殖器同源 -> 前庭球 <-> 尿道海綿體；大前庭腺 <-> 尿道球腺；陰蒂海綿體 <-> 陰莖海綿體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

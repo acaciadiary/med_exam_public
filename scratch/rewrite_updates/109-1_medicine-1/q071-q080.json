@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問的是「並非由腦下垂體前葉所製造分泌」的激素。腦下垂體前葉（Anterior pituitary）是由上皮組織發育而來，能主動合成並分泌多種激素；而腦下垂體後葉（Posterior pituitary）則是神經組織的延伸，本身並不製造激素，僅負責釋放由下視丘所合成的激素。催產素（oxytocin）即是由下視丘製造、後葉釋放的激素，因此符合題意。\n\n【選項詳解】\n- A. 錯誤：濾泡刺激素（follicle stimulating hormone, FSH）是由腦下垂體前葉的促性腺激素細胞（gonadotrophs）所製造與分泌，主要作用於性腺以促進卵泡發育或精子生成。\n- B. 錯誤：泌乳素（prolactin）是由腦下垂體前葉的泌乳激素細胞（lactotrophs）所製造與分泌，主要功能為刺激乳腺發育與促進乳汁分泌。\n- C. 錯誤：促腎上腺皮質激素（adrenocorticotropic hormone, ACTH）是由腦下垂體前葉的促腎上腺皮質激素細胞（corticotrophs）所製造與分泌，主要作用於腎上腺皮質，刺激其釋放皮質醇。\n- D. 正確：催產素（oxytocin）是由下視丘的室旁核（paraventricular nucleus）及視上核（supraoptic nucleus）之大細胞神經元所合成，隨後經由神經軸突運送至腦下垂體後葉儲存。在受到適當神經刺激時，由後葉釋放入血，因此腦下垂體前葉並不製造此激素。\n\n【核心考點】\n腦下垂體前葉與後葉激素來源的本質差異：前葉具內分泌腺體細胞，能主動製造與分泌六大主要激素（FSH, LH, ACTH, TSH, GH, Prolactin）；後葉本身為神經纖維末梢，僅儲存與釋放下視丘製造的兩種激素（Oxytocin, ADH）。",
+      "key_point": "腦下垂體前葉與後葉分泌之激素的製造來源差異。",
+      "flashcard_front": "腦下垂體前葉與後葉分泌之激素",
+      "flashcard_back": "腦下垂體前葉製造分泌 FSH, LH, ACTH, TSH, GH, prolactin；後葉僅儲存並釋放下視丘製造的 oxytocin 與 ADH。",
+      "flashcard_summary": "腦下垂體激素 / 前葉與後葉 / 來源 -> 前葉製造分泌FSH、LH、ACTH、TSH、GH、prolactin；後葉儲存釋放下視丘製造的oxytocin與ADH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n初級醛固酮分泌過量（Primary hyperaldosteronism，亦稱 Conn's syndrome）是由於腎上腺皮質腺瘤或增生，自主性且過量地分泌醛固酮。醛固酮會作用於腎臟集尿管與遠曲小管，增加鈉離子的重吸收與鉀離子的排泄，導致水鈉滯留、高血壓與低血鉀。低血鉀會直接損害胰臟 β 細胞的胰島素分泌功能，進而引發葡萄糖耐受性不良，因此選項 A 最為合理。\n\n【選項詳解】\n- A. 正確：醛固酮過多引起腎臟大量排鉀，導致患者出現低血鉀（hypokalemia）。體內鉀離子濃度降低會影響胰臟 β 細胞膜上的 ATP 敏感型鉀通道與細胞膜去極化過程，進而抑制胰島素的釋放，同時也會減弱周邊組織對胰島素的敏感性，最終引起葡萄糖耐受性不良（glucose intolerance）。\n- B. 錯誤：醛固酮的作用是保鈉排鉀，其藉由增加上皮鈉通道（ENaC）與鈉鉀幫浦（Na+/K+-ATPase）的活性來促進鈉離子的重吸收，因此病人會產生水鈉滯留，而非血中鈉離子流失。\n- C. 錯誤：由於醛固酮促使鈉離子與水分的大量重吸收，會擴張細胞外液與血容量，因此初級醛固酮分泌過量病人的典型臨床特徵為高血壓，而非低血壓。\n- D. 錯誤：初級醛固酮分泌過量的主要病理生理學效應集中於血壓、水份與電解質（鈉、鉀、氫離子）的調節，與血脂代謝路徑無直接因果關係，不會導致血脂濃度下降。\n\n【核心考點】\n初級醛固酮分泌過量（Conn's syndrome）的「高血壓、低血鉀、代謝性鹼中毒」臨床三聯徵，並須掌握低血鉀對胰臟 β 細胞膜電位的影響，進而抑制胰島素釋放、引起高血糖與糖耐受性變差的內分泌交互作用機轉。",
+      "key_point": "初級醛固酮分泌過量所引發低血鉀之胰島素抑制效應與糖耐受性不良機轉。",
+      "flashcard_front": "初級醛固酮分泌過量 / 葡萄糖耐受性不良 / 低血鉀",
+      "flashcard_back": "醛固酮過多引起低血鉀，低血鉀會抑制胰臟 β 細胞釋放胰島素，引發葡萄糖耐受性不良。",
+      "flashcard_summary": "Conn's syndrome / 糖代謝 / 低血鉀抑制胰島素 -> 醛固酮過多導致排鉀過量而低血鉀，進而抑制胰島素分泌，引起葡萄糖耐受性不良。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題考查胚胎生殖系統的性腺與性路徑發育。男性胎兒睪丸的 Sertoli 細胞會分泌抗穆勒氏管激素（AMH / MIS），該激素能使發育女性內生殖器的穆勒氏管（Müllerian duct）退化，此描述完全正確。另外，關於選項 A，男性外生殖器（如陰莖、陰囊）的分化主要依賴睪固酮在標的組織中經 5α-還原酶轉化成的雙氫睪固酮（DHT），但睪固酮作為其前驅物與廣義的雄性素分化核心，考選部最終公告 A 與 C 皆為正確答案。\n\n【選項詳解】\n- A. 正確：睪固酮（Testosterone）負責維持中腎管（Wolffian duct），分化出副睪、輸精管與儲精囊等男性內生殖管道。而男性外生殖器（陰莖、陰囊）的分化主要直接依賴活性更強的雙氫睪固酮（DHT）。由於睪固酮是 DHT 的前驅物質且在性分化中居關鍵地位，此選項被官方列為正確答案之一。\n- B. 錯誤：男性的睪丸是由原始性腺的生殖腺脊（gonadal ridge）發育而來。中腎管（Wolffian duct）僅負責發育為男性內生殖管道的附屬器官（如副睪、輸精管、儲精囊），並不形成睪丸本身。\n- C. 正確：在男性胚胎中，睪丸的 Sertoli 細胞會分泌穆勒氏管抑制物質（Müllerian-inhibiting substance, MIS，亦稱抗穆勒氏管激素 AMH），其作用是使原本會發育為女性輸卵管、子宮與陰道上段的穆勒氏管退化，防止女性特徵的產生。\n- D. 錯誤：睪丸的生成與分化主要是由 Y 染色體上的 SRY 基因所表現的睪丸決定因子（TDF）所啟動。睪固酮（Testosterone）則是由已經分化完成的睪丸 Leydig 細胞所分泌，負責後續的第二性徵與生殖道男性化發育，並非負責促進睪丸本身的生成。\n\n【核心考點】\n性腺分化的雙管道發育模式：Sertoli 細胞分泌 AMH/MIS 促使 Müllerian duct 退化；Leydig 細胞分泌 Testosterone 維持 Wolffian duct。男性外生殖器分化主要直接受雙氫睪固酮（DHT）調控，而睪丸生成則受 SRY 基因控制。\n\n【補充提醒】\n本題官方最終更正答案為 A、C 均正確。已在解析中詳細補述兩者的生理基礎與鑑別點。",
+      "key_point": "胚胎發育中 SRY 基因、AMH/MIS 以及雄性素（T/DHT）在性腺與管道分化的分工。",
+      "flashcard_front": "胚胎性腺發育 / 穆勒氏管抑制 / SRY基因",
+      "flashcard_back": "Sertoli細胞分泌的AMH/MIS抑制Müllerian duct發育；男性外生殖器分化主要依賴DHT而非睪固酮。",
+      "flashcard_summary": "性腺分化 / AMH與Müllerian duct / SRY -> 睪丸Sertoli細胞分泌AMH/MIS抑制穆勒氏管發育；男性外生殖器分化主要直接受雙氫睪固酮(DHT)調控。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": [
+        "本題官方最後公告 A、C 皆為正確答案。已在詳解中補充說明。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n蛋白質或胜肽分子能吸收 280 nm 波長紫外光的能力，主要取決於其化學結構中是否含有「芳香族胺基酸」（aromatic amino acids）。這些胺基酸的側鏈含有具共軛雙鍵的環狀結構，能與 280 nm 紫外光產生共振吸收。色胺酸（Tryptophan, Trp）在此波長下的消光係數最大，因此含有色胺酸的胜肽最容易展現此吸光特性。\n\n【選項詳解】\n- A. 錯誤：丙胺酸（Ala）、離胺酸（Lys）與組織胺酸（His）側鏈均無芳香族共軛雙鍵結構。組織胺酸的咪唑環（imidazole ring）主要在低於 220 nm 的遠紫外光區有微弱吸收，在 280 nm 處無顯著的吸光能力。\n- B. 正確：丙胺酸-丙胺酸-色胺酸（Ala-Ala-Trp）胜肽中含有色胺酸（Trp）。色胺酸側鏈具有共軛雙鍵的吲哚環（indole ring），是所有天然胺基酸中對 280 nm 紫外光吸收強度最強的胺基酸，因此該胜肽能在 280 nm 處產生強烈的吸收。\n- C. 錯誤：絲胺酸（Ser）、甘胺酸（Gly）與天門冬醯胺（Asn）皆為非芳香族胺基酸，缺乏能與 280 nm 紫外光產生電子共振的共軛雙鍵結構，在此波長下吸光度極低。\n- D. 錯誤：纈胺酸（Val）、脯胺酸（Pro）與白胺酸（Leu）皆為脂肪族（aliphatic）胺基酸，無芳香環構造，無法在 280 nm 波長下吸收紫外光。\n\n【核心考點】\n胺基酸的物理化學與光譜特徵：芳香族胺基酸（色胺酸 Trp、酪胺酸 Tyr、苯丙胺酸 Phe）具有共軛雙鍵環狀結構，能吸收 280 nm 的紫外光。吸收強度順序為：Trp > Tyr > Phe。此性質常被用於蛋白質濃度的定量檢測（如 A280 法）。",
+      "key_point": "芳香族胺基酸（特別是色胺酸 Trp）側鏈之共軛雙鍵環狀結構吸收 280 nm 紫外光的特性。",
+      "flashcard_front": "蛋白質紫外光吸收 / 280 nm波長 / 芳香族胺基酸",
+      "flashcard_back": "色胺酸(Trp)、酪胺酸(Tyr)、苯丙胺酸(Phe)含有共軛雙鍵，能吸收280 nm紫外光，其中Trp吸收最強。",
+      "flashcard_summary": "紫外光吸收 / 280 nm / 色胺酸與酪胺酸 -> 芳香族胺基酸（Trp, Tyr, Phe）側鏈含共軛雙鍵，能吸收280 nm紫外光，其中Trp消光係數最大。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n酶（酵素）作為生物催化劑，其核心機制在於與反應的過渡狀態（transition state）高度互補結合，進而降低化學反應所需的活化能（activation energy, ΔG‡）。活化能降低後，在相同溫度下能夠越過能障的反應分子比例大幅增加，從而使反應速率大幅提升，這也是酶具高效率催化作用的主因。\n\n【選項詳解】\n- A. 錯誤：根據微觀可逆性原理，酶會以相同的比例同時加速正向與逆向反應，使系統更快達到平衡，但無法單獨抑制逆反應的進行。\n- B. 錯誤：化學反應的平衡常數（Keq）與起始反應物及最終產物之間的自由能差（ΔG）有關，這屬於熱力學的固有性質。酶只能加速反應達到平衡的速率，並不能改變化學反應的平衡常數。\n- C. 正確：酵素催化主要是藉由提供新的反應路徑，並與過渡狀態分子緊密結合來穩定它，從而降低反應所需的活化能（ΔG‡）。能障降低使得反應速率呈指數級上升，達成高效率催化。\n- D. 錯誤：若化學反應的活化能（ΔG‡）被增加，分子越過能量障礙的難度將會提高，反應速率反而會變慢，這與催化劑的作用完全相反。\n\n【核心考點】\n酶催化作用的熱力學本質：酵素僅降低活化能（ΔG‡）以提高反應速率，但不改變反應前後的自由能變化（ΔG）與平衡常數（Keq），且同等程度加速正逆反應。",
+      "key_point": "酶降低活化能（ΔG‡）而不改變平衡常數（Keq）與自由能（ΔG）的熱力學原則。",
+      "flashcard_front": "酶催化機制 / 活化能 / 平衡常數與自由能",
+      "flashcard_back": "酶藉由降低活化能(ΔG‡)來加速反應，但不能改變反應前後的自由能(ΔG)或平衡常數(Keq)。",
+      "flashcard_summary": "酶促反應 / 降低活化能 / 熱力學平衡不變 -> 酵素藉由降低活化能加速反應，但不改變反應前後的自由能差(ΔG)或平衡常數(Keq)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n反應「glucose + ATP → glucose-6-phosphate + ADP」是由己糖激酶（hexokinase）催化的糖解作用第一步。此反應實質上是將高能供體分子（ATP）上的 γ-磷酸基團（phosphate group）轉移到受體分子（葡萄糖）的 6 號碳上。根據國際酵素委員會（Enzyme Commission, EC）的命名原則，催化官能基團轉移的酵素被分類為轉移酶（transferase）。\n\n【選項詳解】\n- A. 錯誤：水解酶（hydrolase，EC 3）催化利用水分子（H2O）來裂解共價鍵的反應，例如水解磷酸酯鍵的磷酸酯酶（phosphatase）。本反應並非水解反應，而是將磷酸基共價連結至葡萄糖。\n- B. 錯誤：連接酶（ligase，EC 6）通常伴隨著 ATP 的焦磷酸鍵水解（生成 ADP 或 AMP），提供能量將兩個較大分子連接在一起（例如 DNA 連接酶、丙酮酸羧化酶）。己糖激酶反應雖然消耗 ATP，但本質是將 ATP 上的磷酸基直接轉移，屬於官能基轉移，不歸類為連接酶。\n- C. 錯誤：氧化還原酶（oxidoreductase，EC 1）催化電子或氫電子的得失與轉移（即氧化還原反應），例如乳酸脫氫酶。本反應中葡萄糖與磷酸的結合過程不涉及氧化還原態的改變。\n- D. 正確：轉移酶（transferase，EC 2）負責催化將一個分子（供體）的官能基團轉移到另一個分子（受體）的反應。己糖激酶將 ATP 的磷酸基轉移給葡萄糖，屬於轉移酶大類中的磷酸轉移酶（phosphotransferase, EC 2.7）。\n\n【核心考點】\n酵素分類系統（EC編號）：EC 1 氧化還原酶、EC 2 轉移酶、EC 3 水解酶、EC 4 裂合酶、EC 5 異構酶、EC 6 連接酶。理解己糖激酶（hexokinase）催化的是磷酸基團轉移反應，故屬於轉移酶（transferase）。",
+      "key_point": "己糖激酶（hexokinase）催化磷酸基團轉移反應，在酵素EC分類中屬於轉移酶（transferase）。",
+      "flashcard_front": "酵素分類 / 轉移酶 / 己糖激酶",
+      "flashcard_back": "己糖激酶催化官能基(磷酸基)從ATP轉移至葡萄糖，屬於轉移酶(transferase, EC 2)。",
+      "flashcard_summary": "酵素EC分類 / 轉移酶 / 磷酸轉移反應 -> 催化將官能基（如磷酸基）從一分子轉移到另一分子的酵素屬於轉移酶（transferase）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n維生素 E（Vitamin E）是維持人體健康必需的脂溶性維生素。在食物中，維生素 E 主要是由多種生育醇（tocopherols）與生育三烯酚（tocotrienols）所組成。它以色滿環（chroman ring）為核心結構，主要扮演細胞膜上重要的脂溶性抗氧化劑，防止不飽和脂肪酸受過氧化損傷。\n\n【選項詳解】\n- A. 錯誤：單碳代謝（one-carbon metabolism）反應中最重要的輔酶是葉酸（folate / THF）及維生素 B12（cobalamin）。維生素 E 的生理作用是清除脂質自由基，不擔任單碳轉移反應的輔酶。\n- B. 錯誤：維生素 E 具有色滿環（chroman ring，又稱苯並雙氫吡喃環）的核心化學結構，並非醌（quinone）的衍生結構。醌的衍生物代表為維生素 K（甲萘醌衍生物）及輔酶 Q10（對苯醌結構）。\n- C. 正確：食物中天然存在的維生素 E 是一群構造相近的親脂性化合物的統稱，包含生育醇（tocopherols）與生育三烯酚（tocotrienols）兩大類，每一類皆有 α、β、γ、δ 四種同分異構物。\n- D. 錯誤：維生素 E 屬於人體無法合成的必需微量營養素，必須完全藉由飲食（如植物油、小麥胚芽、堅果）攝取。人體在皮膚接受紫外線照射後能自行合成的是維生素 D。\n\n【核心考點】\n維生素E的化學構造與來源：維生素E包含生育醇（tocopherols）與生育三烯酚（tocotrienols）共八種異構物，核心為色滿環（chroman ring）結構，是重要的脂溶性抗氧化劑。人體無法自行合成，與陽光照射後可自行合成的維生素 D 形成對比。",
+      "key_point": "維生素 E 的主要化學形式（生育醇與生育三烯酚）與色滿環核心結構特徵。",
+      "flashcard_front": "維生素E / 化學結構 / 生育醇與生育三烯酚",
+      "flashcard_back": "維生素E由生育醇與生育三烯酚組成，具色滿環結構，為脂溶性抗氧化劑，人體無法合成。",
+      "flashcard_summary": "維生素E / 結構與組成 / 脂溶性抗氧化 -> 維生素E由tocopherols與tocotrienols組成，具色滿環，作為脂溶性抗氧化劑，人體無法自製。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n生物素（biotin，即維生素 B7）是體內多種 ATP 依賴型羧化酶（carboxylases，例如丙酮酸羧化酶、乙醯輔酶 A 羧化酶）的必需輔酶。生物素在這些反應中負責結合並傳遞二氧化碳（CO2）基團。因此，當生物素缺乏時，細胞內的羧化反應將受阻而無法進行，影響糖質新生及脂肪酸合成等重要路徑。\n\n【選項詳解】\n- A. 錯誤：轉胺基反應（transamination）是胺基酸代謝與互換的重要步驟，需要維生素 B6 的活性形式——磷酸吡哆醛（pyridoxal phosphate, PLP）作為關鍵輔酶，而非生物素。\n- B. 錯誤：磷酸化反應（phosphorylation）主要由激酶（kinase）催化，通常直接利用高能分子 ATP 作為磷酸基的供體，不需要生物素作為輔酶來傳遞。\n- C. 正確：生物素（biotin）能與羧化酶中共價結合，形成活化的生物胞素（biocytin），用來攜帶活化態的二氧化碳（以 HCO3- 形式存在）並將其轉移給受體分子，催化羧化反應（carboxylation）。當生物素缺乏，如丙酮酸羧化酶便無法運作，導致糖質新生受阻。\n- D. 錯誤：甲基化反應（methylation）的主要甲基供體是 S-腺苷甲硫氨酸（SAM），其循環與維生素 B12 及葉酸有關，與生物素無關。\n- \n【核心考點】\n水溶性維生素B群之輔酶功能配對：生物素（biotin）-羧化反應（傳遞CO2）；磷酸吡哆醛（PLP / Vit B6）-轉胺基反應；葉酸與B12-單碳/甲基轉移。掌握 biotin 作為 carboxylase 輔酶在糖質新生與脂肪酸合成的作用。",
+      "key_point": "生物素（biotin）作為羧化酶（carboxylase）輔酶，催化羧化反應的特異性功能。",
+      "flashcard_front": "生物素輔酶 / 羧化反應 / 轉胺基輔酶",
+      "flashcard_back": "生物素(biotin)是羧化酶的輔酶，負責傳遞二氧化碳。轉胺基反應則需要PLP(維生素B6)。",
+      "flashcard_summary": "Biotin輔酶 / 羧化反應 / PLP與轉胺基 -> 生物素是羧化酶的輔酶，負責傳遞CO2以進行羧化反應；轉胺基反應需要PLP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n雙股 DNA 分子的熔融溫度（melting temperature, Tm）是分子生物學與生物物理學中描述 DNA 熱穩定性的重要指標。其定義是指在受熱變性的過程中，恰好有 50% 的雙股 DNA 分子解離（變性）為單股 DNA 時的溫度。此溫度與 DNA 分子的 GC 含量、長度以及溶液離子強度呈正相關。\n\n【選項詳解】\n- A. 錯誤：25% 變性此時溫度較低，DNA 雙螺旋結構大部分仍處於結合狀態，不符合 Tm 值的定義標準。\n- B. 正確：在 DNA 熱變性曲線中，吸光度隨溫度上升而呈 S 型曲線變化（增色效應）。Tm 值被精確定義為雙股 DNA 分子有 50% 解離為單股 DNA 時的對應溫度，此時雙股與單股的狀態各占一半。\n- C. 錯誤：75% 變性時，大部分雙股 DNA 已經解離，所對應的溫度明顯高於定義的 Tm 值。\n- D. 錯誤：100% 變性是指雙股 DNA 完全解離成單股時的最高限度溫度，通常比 Tm 值高出數度，無法作為標準的熔融溫度定義。\n\n【核心考點】\nDNA熔融溫度（Tm）的定義與影響因素：Tm 是指雙股 DNA 有 50% 產生變性（解離）的溫度。由於 G-C 鹼基對之間有三個氫鍵，而 A-T 之間只有兩個氫鍵，因此 DNA 的 G-C 含量越高、分子越長或環境鹽濃度越高，其結構越穩定，Tm 值也越高。",
+      "key_point": "DNA 熔融溫度（Tm）定義為雙股 DNA 有 50% 產生熱變性時的平衡溫度。",
+      "flashcard_front": "DNA熔融溫度 / Tm值定義 / GC含量影響",
+      "flashcard_back": "Tm定義為雙股DNA有50%變性為單股時的溫度；GC含量越高，氫鍵越多，Tm值越高。",
+      "flashcard_summary": "DNA熔融溫度 / Tm / 50%變性 -> DNA熔融溫度（Tm）指雙股DNA有50%解離成單股的溫度，與GC含量成正比。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n華生與克理克（Watson and Crick）於 1953 年提出的 B 型 DNA 雙螺旋模型，是現代分子生物學的基石。在該模型中，雙股 DNA 的兩股相互反平行（antiparallel）盤旋，且相鄰兩個核苷酸鹼基在螺旋軸上的垂直上升距離為 3.4 Å（0.34 nm），因此選項 D 的描述正確。\n\n【選項詳解】\n- A. 錯誤：帶負電荷的親水性去氧核糖與磷酸基團（骨架）位於雙螺旋的外側，暴露於水相環境中以穩定結構；而疏水性的含氮鹼基則堆疊在螺旋內部。\n- B. 錯誤：DNA 雙股螺旋的兩股是反平行（antiparallel）的，即一股的走向為 5' → 3'，另一股的走向為 3' → 5'，並非平行且同向。\n- C. 錯誤：雙股螺旋之間的直徑固定約為 20 Å（2 nm）。為了维持此恆定寬度，必須由一個體積較大的雙環嘌呤（purine）與一個體積較小的單環嘧啶（pyrimidine）配對。若容納兩個嘌呤則空間過於狹窄，容納兩個嘧啶則距離太遠無法形成穩定的氫鍵。\n- D. 正確：在 B 型 DNA 雙螺旋結構中，同股內相鄰兩個核苷酸鹼基之間的垂直軸向距離（rise）為 3.4 Å（即 0.34 nm）；螺旋每旋轉一整圈（360度）約包含 10 個鹼基對，對應的螺距（pitch）為 34 Å（3.4 nm）。\n\n【核心考點】\n華生-克理克B型DNA結構模型之核心參數與幾何特徵：雙股反平行、親水磷酸糖骨架在外、疏水鹼基在內。嘌呤-嘧啶配對以維持 20 Å 直徑。相鄰鹼基垂直軸距 3.4 Å，一圈螺距 34 Å（約10個鹼基對）。",
+      "key_point": "華生-克理克 B 型 DNA 雙螺旋模型的關鍵幾何結構特徵與物理參數（反平行、骨架在外、鹼基距3.4 Å）。",
+      "flashcard_front": "B型DNA結構 / 鹼基間距3.4Å / 反平行與骨架",
+      "flashcard_back": "DNA雙股反平行，磷酸骨架在外，鹼基在內配對。相鄰鹼基間距3.4 Å，一圈螺距34 Å。",
+      "flashcard_summary": "DNA雙螺旋模型 / Watson-Crick結構參數 -> B型DNA中兩股反平行，磷酸骨架在外，同股相鄰鹼基間距為3.4 Å，一圈螺距為34 Å。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:17:42+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

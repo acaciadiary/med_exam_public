@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題詢問膝反射（knee jerk reflex）所測試的周邊神經。敲擊髕骨韌帶會牽張股四頭肌，活化肌梭內的傳入感覺纖維，並透過單突觸反射弧刺激運動神經元，使股四頭肌收縮，此反射弧的感覺與運動神經皆由股神經（femoral nerve，脊髓 L2-L4 節段）傳導。\n\n【選項詳解】\n- A. 正確。膝反射（牽張反射）是敲擊髕腱以伸展股四頭肌，經由傳入感覺纖維至脊髓 L2-L4 換元，再經傳出運動纖維使股四頭肌收縮，此反射弧的傳入與傳出途徑皆經由股神經傳導，因此可用於評估股神經及 L2-L4 脊髓節段之功能。\n- B. 錯誤。閉孔神經（obturator nerve，源自 L2-L4）主要支配大腿內收肌群（如內收大肌、內收長肌、內收短肌、股薄肌等）以及大腿內側皮膚感覺，不支配股四頭肌，因此與膝反射反射弧無關。\n- C. 錯誤。坐骨神經（sciatic nerve，源自 L4-S3）主要支配大腿後側肌群（膕繩肌，包含股二頭肌、半腱肌、半膜肌）以及膝關節以下的所有肌肉，並不負責膝反射反射弧中的股四頭肌收縮。\n- D. 錯誤。脛神經（tibial nerve）是坐骨神經的分支，主要支配小腿後側肌群（如腓腸肌、比目魚肌，負責踝關節蹠屈）與足底肌肉，並介導踝反射（ankle jerk reflex，S1 節段），與膝反射無關。\n\n【核心考點】\n膝反射是經由股神經（脊髓 L2-L4）介導的單突觸牽張反射；踝反射則是經由脛神經（脊髓 S1-S2）介導。",
+      "key_point": "膝反射是由股神經（脊髓 L2-L4 節段）介導的單突觸牽張反射。",
+      "flashcard_front": "膝反射 / 支配神經 / 脊髓節段 / 股神經",
+      "flashcard_back": "膝反射的反射弧由股神經（L2-L4）傳導，包含感覺傳入與運動傳出，測試股神經及其對應脊髓節段的完整性。",
+      "flashcard_summary": "膝反射 -> 股神經（L2-L4）介導的單突觸反射，敲擊髕腱牽張股四頭肌引發收縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題考查脊神經根與支的纖維組成特性。脊髓發出的前根（腹根）與後根（背根）在穿出椎間孔前匯合成脊神經幹，其中後根（背根）及其背根絲（dorsal rootlet）僅含有傳入的感覺神經纖維。\n\n【選項詳解】\n- A. 錯誤。背側支（dorsal ramus）是脊神經幹匯合後分出的分支，此時感覺與運動纖維已混合，因此背側支為混合神經，同時支配背部深層肌肉（運動）與背部皮膚（感覺）。\n- B. 錯誤。腹側支（ventral ramus）同樣是脊神經幹匯合後分出的混合神經支，支配軀幹前外側與四肢的肌肉（運動）及皮膚（感覺），包含組成頸神經叢、臂神經叢、腰薦神經叢等。\n- C. 正確。背根絲（dorsal rootlet）是由脊髓後角發出的纖維束，匯合成背根（後根），專門傳導感覺訊息進入脊髓，因此只含有感覺神經纖維（傳入纖維）。\n- D. 錯誤。腹根絲（ventral rootlet）由脊髓前角發出，匯合成腹根（前根），只含有傳出的運動神經纖維（支配骨骼肌或內臟運動），不含感覺神經纖維。\n\n【核心考點】\n脊神經的根（前根/腹根、後根/背根）具有功能單一性（前根為運動、後根為感覺），而脊神經幹及其分支（背側支、腹側支）皆為感覺與運動混合神經。",
+      "key_point": "脊神經後根（背根絲）僅含感覺纖維，前根（腹根絲）僅含運動纖維，匯合後的脊神經支皆為混合神經。",
+      "flashcard_front": "脊神經纖維成分 / 脊神經根與支 / 背根絲 / 腹根絲",
+      "flashcard_back": "背根絲（後根）僅含傳入感覺纖維；腹根絲（前根）僅含傳出運動纖維；匯合後的背側支與腹側支皆是混合神經。",
+      "flashcard_summary": "脊神經成分 -> 背根絲（感覺傳入）、腹根絲（運動傳出）為單一成分，背側支與腹側支為感覺運動混合神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題考查下肢血管的解剖定位與臨床觸診。跗骨隧道（tarsal tunnel）位於腳踝內側，由內踝、跟骨與屈肌支持帶（flexor retinaculum）圍成，脛後動脈（posterior tibial artery）伴隨脛神經及屈肌肌腱穿過此處，是臨床上觸摸下肢動脈脈搏的關鍵部位。\n\n【選項詳解】\n- A. 錯誤。脛前動脈（anterior tibial artery）走向小腿前側，穿過踝關節前方進入足背，形成足背動脈（dorsalis pedis artery）。足背動脈的脈搏通常在足背第一與第二蹠骨間、伸拇長肌腱外側處觸摸，而非內踝的跗骨隧道。\n- B. 正確。脛後動脈（posterior tibial artery）經由小腿後側下行，繞過內踝後下方進入跗骨隧道，其位置表淺且後方有骨骼支撐，臨床上在此處（內踝與跟腱之間）可輕易觸摸到其脈搏，用以評估周邊血管疾病（PAD）。\n- C. 錯誤. 足底內側動脈（medial plantar artery）是脛後動脈穿過屈肌支持帶進入足底後的終末分支之一，走向足底內側支配大腳趾等結構，位置較深，無法在內踝跗骨隧道處觸摸到脈搏。\n- D. 錯誤。足底外側動脈（lateral plantar artery）為脛後動脈在足底的另一個終末分支，與足底弓相接，位置同樣深在足底深層，不經過內踝淺表，無法觸摸其脈搏。\n\n【核心考點】\n脛後動脈在內踝後下方的跗骨隧道內走行，此處是下肢動脈脈搏（脛後動脈搏動）的臨床檢查點。",
+      "key_point": "脛後動脈在內踝後下方的跗骨隧道（tarsal tunnel）處可觸摸到搏動。",
+      "flashcard_front": "跗骨隧道 / 血管觸診 / 脛後動脈 / 內踝",
+      "flashcard_back": "脛後動脈經內踝後下方的跗骨隧道進入足底，臨床上可在內踝與跟腱中點處觸摸其脈搏以確認下肢血流。",
+      "flashcard_summary": "跗骨隧道血管 -> 脛後動脈在此通過，可用於觸診下肢動脈脈搏；脛前動脈則延伸為足背動脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於基底核迴路敘述錯誤的選項。基底核調控運動的機制中，黑質緻密部（SNc）釋放的多巴胺會同時作用於直接與間接迴路，發揮關鍵的調節作用。\n\n【選項詳解】\n- A. 錯誤。黑質緻密部（SNc）的多巴胺能神經元會向上投射到紋狀體（紋狀體包含尾核與殼部 putamen），形成黑質紋狀體路徑（nigrostriatal pathway），這是調節運動啟動的核心通路。\n- B. 錯誤。基底核的直接與間接迴路最終皆匯聚至蒼白球內側部（GPi）與黑質網狀部（SNr），這些輸出構造會投射至丘腦的腹前核（VA）與腹外側核（VL），進而影響大腦皮質運動區。因此，丘腦腹前核共同參與了這兩條迴路的調節。\n- C. 錯誤。黑質緻密部釋放的多巴胺與直接迴路中紋狀體神經元上的 D1 受體結合，會產生興奮作用，從而加強直接迴路對丘腦的去抑制作用，促進運動。\n- D. 正確。間接迴路中紋狀體神經元表達的是 D2 受體，黑質釋放的多巴胺與其結合會產生抑制作用，減弱間接迴路對運動的抑制效果（即間接促進運動）。因此，間接迴路同樣受到黑質多巴胺的強烈調控，並非不受調控。\n\n【核心考點】\n多巴胺對基底核的調控：通過 D1 受體興奮直接迴路，通過 D2 受體抑制間接迴路，雙向調控皆傾向於促進運動輸出。",
+      "key_point": "黑質多巴胺會調控基底核的兩條迴路：通過 D1 受體興奮直接迴路，通過 D2 受體抑制間接迴路。",
+      "flashcard_front": "基底核迴路 / 多巴胺受體 / 直接與間接迴路 / 黑質調控",
+      "flashcard_back": "黑質緻密部釋放的多巴胺對直接迴路（D1受體）具興奮作用，對間接迴路（D2受體）具抑制作用，兩者最終均使大腦皮質的運動輸出增加。",
+      "flashcard_summary": "基底核多巴胺調控 -> D1 興奮直接迴路，D2 抑制間接迴路。黑質對兩者均有調控作用，缺乏多巴胺（如帕金森氏症）會導致運動啟動困難。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題考查特異性丘腦核團的皮質投射定位。丘腦的內側膝狀體（Medial Geniculate Body, MGB）是聽覺傳導通路中的關鍵中繼站，其接受來自下丘（inferior colliculus）的聽覺訊息，並發出聽輻射（auditory radiation）投射至顳葉。\n\n【選項詳解】\n- A. 正確。顳橫迴（transverse temporal gyrus，又稱 Heschl's gyrus，位於 Brodmann area 41, 42）是大腦的初級聽覺皮質所在地。內側膝狀體（MGB）的聽覺纖維主要投射至此，負責聲音頻率、強度等基本物理特徵的初步處理。\n- B. 錯誤。外側枕顳迴（lateral occipitotemporal gyrus，又稱梭狀迴 fusiform gyrus 的一部分）主要參與視覺的高階處理，特別是臉部識別、顏色和物體類別的認知，不接受內側膝狀體的聽覺投射。\n- C. 錯誤。島閾（limen insula）是島葉與額葉框部、側腦室前穿質相接的過渡區，屬於嗅覺皮質（primary olfactory cortex）的一環，與嗅覺訊息的傳導有關，並非聽覺纖維的投射目標。\n- D. 錯誤。角迴（angular gyrus，位於 Brodmann area 39，鄰近頂葉與顳葉交界）主要負責高階語言理解、文字處理、數學計算和空間認知，屬於聯絡皮質（association cortex），並非內側膝狀體直接投射的初級聽覺皮質區。\n\n【核心考點】\n聽覺通路中，丘腦內側膝狀體（MGB）投射至顳橫迴（初級聽覺皮質）；視覺通路中，外側膝狀體（LGB）投射至紋狀皮質（初級視覺皮質）。",
+      "key_point": "丘腦內側膝狀體（MGB）主要投射至顳橫迴（初級聽覺皮質，Brodmann 41, 42）。",
+      "flashcard_front": "丘腦核團投射 / 內側膝狀體 / MGB / 顳橫迴",
+      "flashcard_back": "內側膝狀體（MGB）是聽覺通路的中繼站，其發出聽輻射投射至顳葉的顳橫迴（初級聽覺皮質，BA 41, 42）；外側膝狀體（LGB）則是視覺中繼站，投射至枕葉視覺皮質。",
+      "flashcard_summary": "MGB 與 LGB 投射 -> MGB（Medial）負責 Music（聽覺），投射至顳橫迴；LGB（Lateral）負責 Light（視覺），投射至枕葉距狀溝皮質。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題考查視覺傳導通路受損與視野缺損的對應關係。雙眼顳側偏盲（bitemporal hemianopia）是由於負責傳導鼻側視網膜（接收顳側視野）光訊息的視神經纖維在交叉處受阻所致。\n\n【選項詳解】\n- A. 錯誤。單側視神經（optic nerve）受損會導致該側眼睛的同側全盲（ipsilateral anopsia），因為它攜帶了該單眼的所有鼻側及顳側視網膜纖維，不會產生雙眼顳側偏盲。\n- B. 錯誤。眼眶窩（orbital fossa）病變（如眼眶腫瘤或骨折）通常直接壓迫單側眼球、眼外肌或單側視神經，臨床表現主要是單側突眼、眼球運動受限或該單側眼睛的視力受損，不會造成雙眼顳側視野缺損。\n- C. 錯誤。視神經管（optic canal）是顱骨上容納視神經和眼動脈通過的管道。單側視神經管狹窄或骨折會壓迫單側視神經，造成同側眼睛單眼視力喪失，而非雙側顳側偏盲。\n- D. 正確。視交叉（optic chiasma）是來自兩側鼻側視網膜（負責雙眼顳側/外側視野）的纖維進行交叉的部位。當視交叉中央受到壓迫（臨床最常見於垂體腺瘤 pituitary adenoma 向上壓迫）時，會選擇性破壞這些交叉纖維，導致雙眼顳側偏盲。\n\n【核心考點】\n視交叉中央受壓迫（如垂體腫瘤）會損傷鼻側視網膜纖維，引起特徵性的雙眼顳側偏盲。",
+      "key_point": "視交叉（optic chiasma）受壓迫會損傷來自雙側鼻側視網膜的纖維，導致雙眼顳側偏盲。",
+      "flashcard_front": "視野缺損 / 視交叉壓迫 / 雙眼顳側偏盲 / 鼻側視網膜",
+      "flashcard_back": "視交叉中央受壓迫（常見於垂體腺瘤）會損傷在此交叉的鼻側視網膜纖維（負責顳側視野），造成雙眼顳側偏盲。",
+      "flashcard_summary": "雙眼顳側偏盲 -> 病灶位於視交叉（optic chiasma），常因垂體腺瘤壓迫引起；單側視神經受損則導致同側單眼全盲。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考查基底核迴路中直接迴路與間接迴路路徑的構造差異。直接迴路（direct pathway）是一條促進運動的通路，其流程不涉及丘腦下核（subthalamic nucleus, STN）；丘腦下核是間接迴路（indirect pathway）中具備興奮性投射的重要核團。\n\n【選項詳解】\n- A. 錯誤。直接迴路的後半段是由蒼白球內側部（GPi）與黑質網狀部（SNr）投射到丘腦（thalamus），去抑制丘腦，使丘腦能夠重新興奮大腦皮質，故丘腦是直接迴路的必要中繼站。\n- B. 正確。丘腦下核（subthalamus / subthalamic nucleus, STN）是間接迴路的專有構造。間接迴路中，大腦皮質訊號傳入紋狀體，抑制蒼白球外側部（GPe），解除對丘腦下核（STN）的抑制，使 STN 興奮 GPi/SNr，進而抑制丘腦。直接迴路完全不經過丘腦下核。\n- C. 錯誤。直接迴路的起點為大腦皮質運動區（motor cortex）發出麩胺酸（glutamate）興奮紋狀體，且終點是由丘腦投射回大腦皮質運動區，因此大腦皮質運動區是此迴路的始與終。\n- D. 錯誤。直接迴路中，紋狀體會直接發出抑制性（GABA）投射到蒼白球（globus pallidus，具體為蒼白球內側部 GPi），抑制 GPi 的活動，解除 GPi 對丘腦的壓制。因此蒼白球是此迴路的重要組成。\n\n【核心考點】\n丘腦下核（STN）與蒼白球外側部（GPe）是間接迴路（indirect pathway）的特有結構，直接迴路不經過這兩者。",
+      "key_point": "丘腦下核（STN）是基底核間接迴路的特有構造，直接迴路不經過它。",
+      "flashcard_front": "基底核迴路 / 直接迴路 vs 間接迴路 / 丘腦下核 / 蒼白球",
+      "flashcard_back": "直接迴路路徑為：皮質 -> 紋狀體 -> GPi -> 丘腦 -> 皮質；間接迴路路徑為：皮質 -> 紋狀體 -> GPe -> 丘腦下核（STN）-> GPi -> 丘腦 -> 皮質。丘腦下核（STN）僅參與間接迴路。",
+      "flashcard_summary": "基底核迴路比較 -> 直接迴路去抑制丘腦（促進運動），不經過 GPe 與 STN；間接迴路加強抑制丘腦（抑制運動），必須經過 GPe 與 STN（丘腦下核）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題考查耳下腺（腮腺）的自主神經支配與顳頜關節（TMJ）附近的解剖關係。耳下腺的副交感分泌纖維最終是藉由三叉神經第三支（V3）的耳顳神經（auriculotemporal nerve）傳導；該神經緊鄰顳頜關節的外側與後方，當進行顳頜關節手術時極易受到牽拉或損傷，進而造成耳下腺分泌功能受損。\n\n【選項詳解】\n- A. 錯誤。顏面神經（facial nerve，CN VII）雖然在穿出莖乳孔後進入耳下腺腺體內並分支（顳、顴、頰、下頜緣、頸支），但這些分支只負責支配表情肌的運動，並不傳導支配耳下腺分泌的副交感纖維。\n- B. 正確。支配耳下腺分泌的副交感節後纖維自耳神經節（otic ganglion）發出後，會加入耳顳神經（auriculotemporal nerve），隨其走行進入耳下腺。耳顳神經走向往上繞過下頜骨髁突頸部的後方，緊鄰顳頜關節（TMJ），因此在該關節手術中極易受損，導致腺體分泌功能降低。\n- C. 錯誤。舌神經（lingual nerve）同樣是三叉神經 V3 的分支，但其攜帶來自鼓索神經（chorda tympani，CN VII）的副交感纖維，負責支配頜下腺（submandibular gland）與舌下腺（sublingual gland）的分泌以及舌前三分之二的一般感覺與味覺，不負責支配耳下腺。\n- D. 錯誤。下齒槽神經（inferior alveolar nerve）是三叉神經 V3 的分支，穿入下頜孔支配下排牙齒與牙齦的感覺，並在頦孔穿出成為頦神經，支配頦部皮膚感覺。它不含有支配耳下腺分泌的副交感神經纖維。\n\n【核心考點】\n耳下腺（腮腺）的副交感分泌神經由舌咽神經（CN IX）經耳神經節換節後，借道三叉神經 V3 的耳顳神經傳導，耳顳神經因解剖位置緊鄰顳頜關節，易在關節手術中受損。",
+      "key_point": "耳下腺的副交感分泌纖維隨耳顳神經（三叉神經 V3 分支）走行，該神經緊鄰顳頜關節，易在手術中受損。",
+      "flashcard_front": "耳下腺分泌神經 / 耳顳神經 / 顳頜關節手術 / 副交感纖維",
+      "flashcard_back": "支配耳下腺分泌的副交感路徑為：CN IX -> 鼓室神經 -> 小岩神經 -> 耳神經節（換節） -> 耳顳神經（V3） -> 耳下腺。耳顳神經繞過下頜頸部後方，緊鄰 TMJ，手術受損會使分泌降低。",
+      "flashcard_summary": "耳下腺副交感支配 -> 舌咽神經（CN IX）發源，經耳神經節換節後由耳顳神經（V3）帶入腺體。TMJ 手術易傷及耳顳神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考查控制眼內肌（睫狀肌與瞳孔括約肌）的副交感神經傳導通路及分支走行。這條通路的節前纖維源自中腦的 E-W 核（Edinger-Westphal nucleus），隨動眼神經（CN III）入眶，並在動眼神經分支出下分支（inferior branch）後，經其分出的副交感根（parasympathetic root）進入睫狀神經節內進行換節。\n\n【選項詳解】\n- A. 錯誤。動眼神經上分支（superior branch of oculomotor nerve）主要支配上直肌（superior rectus）與上瞼提肌（levator palpebrae superioris）的骨骼肌運動，不含有支配眼內肌的副交感節前纖維。\n- B. 正確。動眼神經下分支（inferior branch of oculomotor nerve）支配下直肌、內直肌與下斜肌的運動。在其走向下斜肌的分支上，會分出一個交通支（即睫狀神經節的副交感根/運動根），內含副交感節前纖維，進入睫狀神經節換節後，再由睫狀短神經支配睫狀肌與瞳孔括約肌。\n- C. 錯誤。鼻睫神經（nasociliary nerve）是三叉神經第一支（眼神經 V1）的分支，主要傳導眼球（包括角膜）的一般軀體感覺。鼻睫神經會發出感覺根穿過睫狀神經節，但不在此換節，也不攜帶控制睫狀肌的副交感節前纖維。\n- D. 錯誤。外旋神經（abducent nerve，CN VI）專門支配外直肌（lateral rectus）的運動，使眼球向外看，不參與任何與睫狀肌收縮或瞳孔調節相關的副交感神經通路。\n\n【核心考點】\n動眼神經下分支攜帶源自 E-W 核的副交感節前纖維，經由副交感根進入睫狀神經節進行換節，進而支配睫狀肌與瞳孔括約肌。",
+      "key_point": "控制睫狀肌的副交感節前纖維隨動眼神經下分支走行，經由副交感根進入睫狀神經節換節。",
+      "flashcard_front": "睫狀神經節 / 副交感節前纖維 / 動眼神經下分支 / 眼內肌支配",
+      "flashcard_back": "支配睫狀肌與瞳孔括約肌的副交感節前纖維源自中腦 E-W 核，隨動眼神經下分支走行，分出副交感根進入睫狀神經節換節，換節後經睫狀短神經支配靶器官。",
+      "flashcard_summary": "眼內肌副交感通路 -> 節前纖維源自中腦 E-W 核 -> 隨動眼神經下分支走行 -> 進入睫狀神經節換節 -> 節後纖維隨睫狀短神經支配睫狀肌與瞳孔括約肌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題考查胎兒循環遺留構造（動脈韌帶）的解剖學定位。動脈韌帶（ligamentum arteriosum）是胚胎時期動脈導管（ductus arteriosus）閉鎖退化後遺留的纖維結締組織索，位於主動脈弓下緣與肺動脈幹（或左肺動脈起始部）之間。\n\n【選項詳解】\n- A. 正確。在胎兒發育期間，動脈導管（ductus arteriosus）連接主動脈弓下緣與左肺動脈根部，使大部分來自右心室的血液繞過尚未擴張的肺部直接進入主動脈。出生後數天內，該導管會功能性及結構性閉鎖，形成動脈韌帶，故其位於主動脈與肺動脈之間。\n- B. 錯誤。上腔靜脈（superior vena cava）是引流上半身缺氧血回流至右心房的大靜脈。肺動脈與上腔靜脈之間沒有胚胎血管殘餘的韌帶構造相連。\n- C. 錯誤。主動脈與上腔靜脈之間並無任何胎兒循環的短路血管通道，因此兩者之間不存在動脈韌帶或類似的纖維殘餘。\n- D. 錯誤。肺靜脈（pulmonary veins）將充氧血從肺部送回左心房。主動脈與肺靜脈在解剖位置與胚胎發育上皆無直接的短路血管通道，兩者之間沒有動脈韌帶連接。\n\n【核心考點】\n動脈韌帶是胚胎時期連接主動脈弓與左肺動脈之動脈導管（ductus arteriosus）閉鎖退化後的殘餘結構。",
+      "key_point": "動脈韌帶是連接主動脈弓與肺動脈的纖維索，為胚胎時期動脈導管閉鎖後的殘餘。",
+      "flashcard_front": "動脈韌帶 / 胚胎殘餘 / 主動脈與肺動脈 / 動脈導管",
+      "flashcard_back": "動脈韌帶是胚胎期動脈導管（ductus arteriosus）的殘餘索狀物，連接主動脈弓下緣與左肺動脈，出生後未閉鎖則為開放性動脈導管（PDA）。",
+      "flashcard_summary": "動脈韌帶 -> 連接主動脈弓與左肺動脈，是胎兒期動脈導管（右至左分流，繞過肺部）閉鎖退化而來的構造。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:16:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

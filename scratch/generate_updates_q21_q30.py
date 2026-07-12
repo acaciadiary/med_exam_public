@@ -1,0 +1,153 @@
+import json
+import os
+from datetime import datetime
+
+# Define updates data
+updates_data = {
+  "source_file": "public/data/exams/109-1/medicine-1.json",
+  "dataset_id": "109-1_medicine-1",
+  "range": "q021-q030",
+  "updates": [
+    {
+      "question_id": "109-1_medicine-1_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題詢問與迷走神經（vagus nerve，CN X）無關的肺部生理反應。迷走神經主要攜帶副交感神經纖維與內臟感覺傳入纖維，主導呼吸道平滑肌收縮、腺體分泌以及多種肺部反射。\n\n【選項詳解】\n- A. 錯誤。咳嗽反射（cough reflex）的傳入神經主要為迷走神經的分支（如喉上神經與往下的氣管支），負責將呼吸道受刺激的訊號傳回延腦的咳嗽中樞，與迷走神經密切相關。\n- B. 錯誤。肺擴張反射（Hering-Breuer inflation reflex）是當肺部過度充氣時，牽張受器（stretch receptors）受到刺激，透過迷走神經傳入纖維發送訊號至吸氣中樞以抑制吸氣，防止肺泡過度擴張，此反射依賴迷走神經介導。\n- C. 正確。肺泡 II 型細胞（Type II alveolar cells / pneumocytes）主要負責分泌肺泡表面活性物質（surfactant）。其分泌的促進因素主要是交感神經刺激（經由 β2 腎上腺素受器受刺激促成）以及肺泡受到的物理性牽張（例如深呼吸），迷走神經的副交感纖維並不負責抑制其分泌。\n- D. 錯誤。支氣管平滑肌的收縮受到副交感神經（迷走神經）所釋放的乙醯膽鹼（ACh）與 M3 蕈毒鹼受器結合調控，迷走神經興奮會直接導致支氣管平滑肌收縮、氣道阻力增加。\n\n【核心考點】\n迷走神經負責傳導呼吸道感覺（咳嗽、肺牽張反射）並控制支氣管平滑肌收縮（副交感效應），而肺泡表面活性物質（surfactant）的釋放主要由交感神經與物理牽張調控。",
+      "key_point": "迷走神經主要支配呼吸道平滑肌收縮及咳嗽與肺擴張反射，而肺泡表面活性物質的分泌主要由交感神經與物理牽張調控。",
+      "flashcard_front": "迷走神經與肺部生理 / 肺泡表面活性物質分泌調控",
+      "flashcard_back": "迷走神經興奮介導支氣管平滑肌收縮、咳嗽與肺擴張反射；肺泡 II 型細胞分泌表面活性物質主要由交感神經刺激與物理性牽張促進，與迷走神經無關。",
+      "flashcard_summary": "迷走神經與肺反應 -> 迷走神經調控支氣管收縮、咳嗽與肺擴張反射，但不抑制II型肺泡細胞分泌表面活性物質（該分泌由交感與牽張主導）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n乳癌行根除性乳房切除術（radical mastectomy）時，為了進行分期與防止局部轉移，常需進行淋巴結廓清術。術後患側上肢發生水腫，起因於引流上肢淋巴液的特定淋巴結群被摘除。\n\n【選項詳解】\n- A. 錯誤。鎖骨上淋巴結（supraclavicular nodes）主要收納頭頸部與鎖骨下方的淋巴液，並非上肢淋巴引流的首要匯流處，其清除不會直接引發上肢大範圍淋巴水腫。\n- B. 錯誤。下深頸淋巴結（inferior deep cervical nodes）位於頸部深層下方，引流範圍主要為頭頸部構造，其清除與上肢淋巴液滯留的關聯性極低。\n- C. 錯誤。胸骨旁淋巴結（parasternal nodes）位於胸骨兩側，主要負責引流乳房內側半部的淋巴，不引流上肢，故清除此處不會造成患側上肢水腫。\n- D. 正確。腋淋巴結（axillary nodes）負責引流上肢、乳房外側半部及胸壁的淋巴液。在根除性乳房切除術中廓清腋淋巴結，會阻斷上肢淋巴引流的主要通道，導致淋巴液滯留於上肢間質空間，引發患側上肢淋巴水腫（lymphedema）。\n\n【核心考點】\n腋淋巴結（axillary nodes）是上肢與乳房外側淋巴引流的核心通道，其受損或被清除會導致患側上肢淋巴回流受阻，進而併發淋巴水腫。",
+      "key_point": "腋淋巴結廓清會阻斷同側上肢淋巴回流，是乳癌根除術後上肢淋巴水腫的主因。",
+      "flashcard_front": "乳房切除術後上肢淋巴水腫 / 淋巴引流機制",
+      "flashcard_back": "腋淋巴結（axillary nodes）引流上肢與乳房外側淋巴，乳癌根除術中清除腋淋巴結會導致上肢淋巴回流受阻而引發水腫。",
+      "flashcard_summary": "乳癌術後上肢水腫 -> 根除性乳房切除術中清除腋淋巴結（axillary nodes），阻斷了上肢淋巴回流的主要路徑，進而導致淋巴水腫。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題考查人體胸腔中縱隔（mediastinum）的解剖分區及其所包含的器官。縱隔以通過胸骨角（sternal angle）與第四、五胸椎間盤（T4/T5） the 水平面，劃分為上縱隔與下縱隔。\n\n【選項詳解】\n- A. 正確。胸腺（thymus）主要定位於上縱隔（superior mediastinum），介於胸骨柄與主動脈弓等大血管之間。雖然在幼兒期胸腺較大可向下延伸，但其本體的主體結構與基部仍位於上縱隔。\n- B. 錯誤。下前縱隔（anterior inferior mediastinum）位於胸骨體與心包膜之間，內含胸腺退化後的剩餘組織、淋巴結和疏鬆結締組織，但這僅是胸腺向下延伸或退化後的部分，並非胸腺主要定位點。\n- C. 錯誤。下中縱隔（middle inferior mediastinum）內含心臟、心包膜、升主動脈、肺動脈幹及上腔靜脈下段等核心循環構造，並不包含胸腺。\n- D. 錯誤。下後縱隔（posterior inferior mediastinum）位於心包膜與胸椎體之間，內含食道、胸主動脈、奇靜脈系統及胸導管等構造，與胸腺位置無關。\n\n【核心考點】\n上縱隔與下縱隔的解剖分界（T4/T5水平面）及內含重要器官：胸腺主要位於上縱隔；心臟位於中縱隔；食道與胸主動脈位於後縱隔。",
+      "key_point": "胸腺主要位於上縱隔（superior mediastinum），後續可退化為脂肪組織並可能部分向下延伸入下前縱隔。",
+      "flashcard_front": "胸腺（thymus）的解剖位置與縱隔分區",
+      "flashcard_back": "胸腺主要位於上縱隔（superior mediastinum）。心臟位於下中縱隔，食道與胸主動脈位於下後縱隔。",
+      "flashcard_summary": "胸腺位置 -> 胸腺主要位於上縱隔；下前縱隔僅含退化胸腺與淋巴結；下中縱隔含心臟；下後縱隔含食道及胸主動脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n肺癌腫瘤或縱隔淋巴結轉移常因解剖位置鄰近而壓迫或浸潤鄰近的神經，造成對應支配器官的機能障礙。本題詢問肺癌引起聲帶麻痺（vocal cord paralysis）的病理機制與解剖學關聯。\n\n【選項詳解】\n- A. 錯誤。膈神經（phrenic nerve）由第 C3-C5 脊神經前支構成，負責支配橫膈膜的運動與感覺。若受腫瘤壓迫會導致橫膈膜麻痺（吸氣受限、胸部X光呈單側橫膈上升），不影響聲帶。\n- B. 正確。喉返神經（recurrent laryngeal nerve）是迷走神經的分支，支配除環甲肌外的所有喉內肌（負責聲帶運動）。其中，左側喉返神經繞過主動脈弓，路徑較長且行經縱隔；當左肺尖癌（如 Pancoast 腫瘤）或縱隔淋巴結腫大時，極易壓迫此神經，導致聲帶麻痺與聲音沙啞。\n- C. 錯誤。交感神經幹（sympathetic trunk）受損，特別是星狀神經節（stellate ganglion）被縱隔頂端腫瘤波及，會引發霍納氏症候群（Horner syndrome，表現為同側瞳孔縮小、眼瞼下垂、無汗），與控制聲帶的神經元無關。\n- D. 錯誤。肋間神經（intercostal nerve）由胸神經前支構成，負責支配胸壁肌肉與皮膚感覺。受損會引起胸壁疼痛或感覺異常，與喉內肌支配無關。\n\n【核心考點】\n左側喉返神經（recurrent laryngeal nerve）因行經主動脈弓下方，在胸腔路徑極易受到左肺頂端腫瘤或縱隔病變的壓迫，臨床常以聲音沙啞或聲帶麻痺為首發症狀。",
+      "key_point": "喉返神經（特別是左側）易受縱隔腫瘤或左肺頂端癌壓迫，引發聲帶麻痺與聲音沙啞。",
+      "flashcard_front": "肺癌壓迫與聲帶麻痺 / 喉返神經解剖路徑",
+      "flashcard_back": "喉返神經支配喉內肌運動。左側喉返神經繞過主動脈弓，行經縱隔路徑長，易遭肺癌或縱隔淋巴結轉移壓迫，導致聲帶麻痺與聲音沙啞。",
+      "flashcard_summary": "肺癌壓迫與聲帶麻痺 -> 左側喉返神經繞行主動脈弓下緣，極易受左肺尖癌或縱隔轉移壓迫而受損，引起同側聲帶麻痺與聲音沙啞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n幽門平面（transpyloric plane）是一個臨床解剖學上的重要橫切面，位於劍突上緣與恥骨聯合連線的中點，水平高度相當於第一腰椎（L1）水平。此平面穿過多個腹腔重要器官。\n\n【選項詳解】\n- A. 錯誤。十二指腸空腸曲（duodenojejunal flexure）位於腹後壁，其高度恰好在 L1 椎體的左側，亦即位於幽門平面上。\n- B. 錯誤。腎門（renal hilum）是腎動靜脈及腎盂進出的門戶，左右腎門的連線大約通過第一腰椎（L1）水平，也就是恰好位於幽門平面附近。\n- C. 錯誤。幽門平面的定義之一即是通過第一腰椎（L1）椎體的中部，因此該椎體必然位於此平面上。\n- D. 正確。脾臟（spleen）位於左上腹的深部，其脾門（splenic hilum）的高度一般較高，約在第十至第十一胸椎（T10-T11）水平，明顯高於 L1 的幽門平面。\n\n【核心考點】\n幽門平面（L1水平面）是定位腹部多個構造（胃幽門、左右腎門、胰臟體部、十二指腸空腸曲等）的重要解剖坐標；而脾門位置較高，大約位於胸椎（T10-T11）高度。",
+      "key_point": "幽門平面（L1水平）穿過十二指腸空腸曲、腎門連線與L1椎體，而脾門高度在T10-T11，不在其上。",
+      "flashcard_front": "幽門平面（transpyloric plane）通過的解剖構造",
+      "flashcard_back": "幽門平面位於L1椎體高度，穿過胃幽門、左右腎門連線、十二指腸空腸曲及胰臟體部。脾門高度較高，約在T10-T11水平。",
+      "flashcard_summary": "幽門平面 -> 幽門平面相當於L1椎體高度，通過腎門、L1椎體、十二指腸空腸曲；脾門位置偏高（約T10-T11），不在此平面上。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題考查支配腎上腺髓質（suprarenal medulla）的神經通路特點。腎上腺髓質的嗜鉻細胞（chromaffin cells）在胚胎發育上來源於神經脊（neural crest），其生理特性相當於「特化且沒有軸突的交感神經節後元」。因此，支配它們的神經必須是「交感神經節前纖維」，它們不經過椎旁或椎前神經節進行換元，而是直接到達髓質與嗜鉻細胞形成突觸。\n\n【選項詳解】\n- A. 正確。支配腎上腺髓質的交感神經主要來自大內臟神經（greater splanchnic nerve）與小內臟神經（lesser splanchnic nerve）中的節前纖維。這些節前纖維穿過腹腔叢與腹腔神經節，但「不換元（換突觸）」，直接進入腎上腺髓質，突觸連接於嗜鉻細胞上。\n- B. 錯誤。交感神經纖維若已在腹腔神經節（celiac ganglion）換元，其發出的纖維即為「節後神經纖維」，主要支配胃、肝、脾等腹腔臟器，而腎上腺髓質不需要節後纖維來支配。\n- C. 錯誤。主動脈腎神經節（aorticorenal ganglion）發出的是「節後神經纖維」，主要分布於腎臟與輸尿管，而非腎上腺髓質。\n- D. 錯誤。下腹下神經叢（inferior hypogastric plexus）位於盆腔深處，主要負責盆腔臟器（如膀胱、直腸、生殖器官）的自主神經支配，與位於腹膜後上方的腎上腺無關。\n\n【核心考點】\n腎上腺髓質嗜鉻細胞相當於特化的交感神經節後神經元，因此直接接受交感神經「節前纖維」（主要隨內臟大、小神經傳入）的支配，此為自主神經系統中「不換節直接支配」的獨特例外。",
+      "key_point": "支配腎上腺髓質嗜鉻細胞的神經為交感神經節前纖維（經大/小內臟神經傳入且不換元）。",
+      "flashcard_front": "支配腎上腺髓質的神經類型與通路",
+      "flashcard_back": "腎上腺髓質嗜鉻細胞相當於特化的交感節後元。支配其的神經為來自大/小內臟神經的『交感節前纖維』，其不經椎前神經節換元而直接突觸於嗜鉻細胞。",
+      "flashcard_summary": "支配腎上腺髓質的神經 -> 嗜鉻細胞為特化的交感節後元，故直接由交感節前纖維（經內臟神經傳入且不換元）所支配。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n肛直腸彎曲（anorectal flexure / anorectal angle）是直腸穿過盆膈移行至肛管時所形成的一個向前凸出的彎曲（夾角約 80-90 度）。此彎曲在臨床上對維持排便禁制（fecal continence）具有決定性作用，其形成依賴周圍骨盆底肌肉的向前牽引。\n\n【選項詳解】\n- A. 正確。恥直腸肌（puborectalis muscle）是提肛肌（levator ani）最內側且最肥厚的肌束。它起於恥骨後方，向後延伸呈「U」字形吊帶（puborectal sling）繞過直腸與肛管交界處。當此肌維持張力性收縮時，會將直腸向前拉緊，形成肛直腸彎曲；排便時此肌放鬆，彎曲角度變直以利糞便通過。\n- B. 錯誤。恥尾肌（pubococcygeal muscle）為提肛肌的中間部分，主要起於恥骨並止於尾骨，負責支撐盆腔臟器，但不形成繞過直腸的「U」字形吊帶，無法直接決定肛直腸彎曲的角度。\n- C. 錯誤。會陰深橫肌（deep transverse perineal muscle）位於尿生殖膈的深面，呈橫向排列，主要功能是固定會陰中心腱與支持尿生殖道，並不直接參與圍繞直腸或控制肛直腸角。\n- D. 錯誤. 肛門外括約肌（external anal sphincter）環繞於肛管外圍，分為皮下部、淺部和深部，主要負責緊閉肛門口以控制排便，不負責向前拉引直腸以形成肛直腸角。\n\n【核心考點】\n恥直腸肌（puborectalis）形成的 U 字形吊帶是維持肛直腸彎曲（anorectal flexure）的關鍵構造，藉由向前牽引維持角度以達到控便功能。",
+      "key_point": "恥直腸肌（puborectalis）呈U字形繞過直腸與肛管交界，向前拉引直腸以形成肛直腸彎曲，對控便至關重要。",
+      "flashcard_front": "肛直腸彎曲（anorectal flexure）的形成與排便控制",
+      "flashcard_back": "肛直腸彎曲（約80-90度）主要由提肛肌的『恥直腸肌（puborectalis）』呈U字形向前牽拉直腸形成。其收縮可維持排便禁制，放鬆時直腸變直以利排便。",
+      "flashcard_summary": "肛直腸彎曲的形成 -> 恥直腸肌（puborectalis）形成U字形吊帶繞過直腸向前牽拉，形成肛直腸角以控便。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n會陰部（perineum）解剖以會陰深外側膜（perineal membrane）為界，分為深凹（deep perineal pouch）與淺凹（superficial perineal pouch）。本題考查這兩層空間所包含構造的男女解剖差異與定位。其中，陰莖根（1）、大前庭腺（3）與坐骨海綿體肌（4）位於會陰淺凹；球尿道腺（2）與尿道外括約肌（5）位於會陰深凹。\n\n【選項詳解】\n- A. 錯誤。此選項組合包含1（陰莖根）與3（大前庭腺）位於會陰淺凹，但2（球尿道腺，男性）包埋於尿道膜部周圍的會陰深橫肌中，屬於會陰深凹構造。\n- B. 正確。陰莖根（1）內含尿道球與海綿體腳；大前庭腺（3，女性）位於前庭球後方、會陰膜表淺側；坐骨海綿體肌（4）覆蓋於海綿體腳表面。三者皆位於會陰膜的表淺側，即會陰淺凹。\n- C. 錯誤。此選項組合中的大前庭腺（3）位於會陰淺凹，但2（球尿道腺）與5（尿道外括約肌）皆位於會陰膜深側的會陰深凹中。\n- D. 錯誤。此選項組合中的坐骨海綿體肌（4）位於會陰淺凹，但2（球尿道腺）與5（尿道外括約肌）則定位於會陰深凹。\n\n【核心考點】\n會陰深凹與淺凹的界線是會陰膜（perineal membrane）。男女構造的不對稱性是常考重點：男性球尿道腺（bulborethral gland）位於深凹，而女性大前庭腺（greater vestibular gland）則位於淺凹。",
+      "key_point": "會陰淺凹包含陰莖/陰蒂根、坐骨海綿體肌及大前庭腺；球尿道腺與尿道外括約肌則位於會陰深凹。",
+      "flashcard_front": "會陰淺凹（superficial perineal pouch）與會陰深凹的構造區分",
+      "flashcard_back": "會陰淺凹包含：陰莖/陰蒂根、坐骨海綿體肌、大前庭腺（女）。會陰深凹包含：球尿道腺（男）、尿道外括約肌、會陰深橫肌。",
+      "flashcard_summary": "會陰淺凹與深凹區分 -> 陰莖根(1)、大前庭腺(3)及坐骨海綿體肌(4)位於會陰淺凹；球尿道腺(2)及尿道外括約肌(5)位於深凹。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n大腿後側肌群（膕繩肌，hamstring muscles，包括股二頭肌、半腱肌和半膜肌）負責膝關節屈曲與髖關節伸展。本題考查下肢各肌群（前、內、後側）的神經支配來源。\n\n【選項詳解】\n- A. 錯誤。脛神經（tibial nerve）是坐骨神經的分支，主要負責支配小腿後側肌群（如腓腸肌、比目魚肌）以及足底肌肉。雖然大腿後側的多數肌群（除了股二頭肌短頭外）也是由坐骨神經中的脛神經部（tibial division）傳遞訊號，但從解剖主幹層面來看，支配整個大腿後側肌群的起始神經主幹為坐骨神經。\n- B. 錯誤。股神經（femoral nerve）源自腰神經叢（L2-L4），負責支配大腿前側肌群（如股四頭肌、縫匠肌、恥骨肌），主要功能為伸展膝關節和屈曲髖關節。\n- C. 錯誤。閉孔神經（obturator nerve）同樣源自腰神經叢（L2-L4），主要支配大腿內側的內收肌群（如大內收肌、長內收肌、短內收肌、股薄肌），負責大腿的內收動作。\n- D. 正確。坐骨神經（sciatic nerve）是人體最粗大的神經，自骶神經叢發出後行經大腿後側，直接分支並支配大腿後側的所有肌肉（膕繩肌）。其中，半腱肌、半膜肌與股二頭肌長頭由坐骨神經的脛神經支（tibial division）支配，股二頭肌短頭則由坐骨神經的腓總神經支（common fibular division）支配。\n\n【核心考點】\n大腿三大肌群支配神經：前側為股神經（femoral nerve）；內側為閉孔神經（obturator nerve）；後側為坐骨神經（sciatic nerve）。",
+      "key_point": "大腿後側肌群（膕繩肌）由坐骨神經（sciatic nerve）所支配；股神經支配前側；閉孔神經支配內側。",
+      "flashcard_front": "大腿各側肌群的神經支配分布",
+      "flashcard_back": "大腿前側肌群：股神經（femoral nerve）；大腿內側肌群：閉孔神經（obturator nerve）；大腿後側肌群（膕繩肌）：坐骨神經（sciatic nerve）。",
+      "flashcard_summary": "大腿肌群神經支配 -> 大腿前側由股神經支配，內側由閉孔神經支配，後側（膕繩肌）由坐骨神經支配。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-1_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n肌皮神經（musculocutaneous nerve，源於臂神經叢外側束，C5-C7）在穿過喙肱肌後，行經上臂前側，支配上臂前群的屈肌。本題詢問當肌皮神經受損時，哪一條肌肉最不易受波及。\n\n【選項詳解】\n- A. 錯誤。肱肌（brachialis）是上臂主要的屈肘肌，其主要神經支配（約 70-80%）來自肌皮神經。雖然肱肌的外側部有部分橈神經分支的雙重支配，但肌皮神經受損仍會對其收縮力造成顯著影響，並非「最不可能受嚴重影響」者。\n- B. 錯誤。肱二頭肌（biceps brachii）是強力的屈肘與前臂旋後肌，其運動功能完全由肌皮神經所支配。一旦肌皮神經受損，肱二頭肌將完全失去支配，產生嚴重萎縮與功能喪失。\n- C. 錯誤。喙肱肌（coracobrachialis）位於上臂內上側，主要負責肩關節屈曲與內收。肌皮神經在走行中直接穿過喙肱肌並發出分支支配它，因此肌皮神經受損會直接導致其失去運動功能。\n- D. 正確。肱橈肌（brachioradialis）雖然在功能上是屈肘肌，但其胚胎來源與解剖定位屬於前臂後群（伸肌群）的延伸，其神經支配源於橈神經（radial nerve），而非肌皮神經。因此肌皮神經受損時，肱橈肌的功能完全不受直接影響。\n\n【核心考點】\n肌皮神經支配上臂前側屈肌群（喙肱肌、肱二頭肌、肱肌）；而肱橈肌（brachioradialis）雖具有屈肘功能，卻是由橈神經（radial nerve）支配，此為典型易混淆的解剖考點。",
+      "key_point": "肌皮神經支配喙肱肌、肱二頭肌與大部分肱肌，而肱橈肌由橈神經支配，不受肌皮神經受損波及。",
+      "flashcard_front": "肌皮神經支配肌肉與肱橈肌神經支配對比",
+      "flashcard_back": "肌皮神經（musculocutaneous nerve）支配上臂前群屈肌（喙肱肌、肱二頭肌、肱肌）。肱橈肌（brachioradialis）雖然是屈肘肌，但由橈神經（radial nerve）支配。",
+      "flashcard_summary": "肌皮神經支配 -> 支配肱二頭肌、喙肱肌、肱肌。肱橈肌由橈神經支配，因此在肌皮神經受損時最不受影響。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:15:38+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
+
+# Create output dir if not exist
+out_dir = "scratch/rewrite_updates/109-1_medicine-1"
+os.makedirs(out_dir, exist_ok=True)
+out_file = os.path.join(out_dir, "q021-q030.json")
+
+# Write updates to file
+with open(out_file, "w", encoding="utf-8") as f:
+  json.dump(updates_data, f, ensure_ascii=False, indent=2)
+
+print(f"Updates successfully written to {out_file}")

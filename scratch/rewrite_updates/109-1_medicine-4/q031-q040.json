@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-4.json",
+  "dataset_id": "109-1_medicine-4",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-4_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題考查經典遺傳學譜系的判定。線粒體遺傳（Mitochondrial inheritance）由於線粒體完全來自卵子，故呈現嚴格的母系遺傳特徵，即罹病母親的所有子女皆會發病，而罹病父親的所有子女皆不會發病。\n\n【選項詳解】\n- A. 正確。線粒體遺傳為母系遺傳（maternal inheritance）。若譜系圖中顯示所有患病女性的子女皆患病，而患病男性與正常女性所生之子女皆正常，則最符合線粒體基因組突變的傳遞規律。\n- B. 錯誤。體染色體隱性遺傳（Autosomal recessive, AR）通常呈現世代跳躍（skipped generations），且若雙親皆未發病但為帶因者，其子女不論男女各有 25% 罹病率，不會呈現「母傳所有子女，父皆不傳」的極端偏向。\n- C. 錯誤。X染色體隱性遺傳（X-linked recessive, XR）主要累及男性。患病男性與正常女性所生之女皆為帶因者（正常），子皆正常；而帶因母親的兒子有 50% 罹病率，女兒有 50% 帶因率，不符合母傳所有子女、父皆不傳的特徵。\n- D. 錯誤。體染色體顯性遺傳（Autosomal dominant, AD）通常每個世代都有患者，且患病親代（不分男女）傳給子代的機率約為 50%，不論是父親或母親患病都有同等的機率傳給子女，與「父不傳而母全傳」不符。\n\n【核心考點】\n遺傳譜系的臨床鑑別：線粒體遺傳特徵為母系遺傳（所有病母之子女皆病，病父之子女皆正常）；體染色體顯性為世代發病、男女機率均等且父子可相傳；體染色體隱性常有跳代，父母無病可生病兒。",
+      "key_point": "線粒體遺傳（Mitochondrial inheritance）為母系遺傳，所有罹病母親的子女均會發病，但罹病父親的子女皆正常。",
+      "flashcard_front": "線粒體遺傳（Mitochondrial inheritance）的家族譜系特徵為何？",
+      "flashcard_back": "母系遺傳（maternal inheritance）：罹病母親的所有子女皆會發病，而罹病父親的所有子女皆不會發病。",
+      "flashcard_summary": "線粒體遺傳的譜系特徵 -> 母系遺傳（病母之子女皆病，病父之子女皆正常）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題考查肥胖合併多重先天畸形的罕見疾病診斷。題幹男童呈現「早期過度肥胖、軸後多指（趾）症、外生殖器發育不良、眼底色素病變（視網膜色素變性）」之經典四聯徵，這在臨床上是 Bardet-Biedl 症候群的典型特徵。\n\n【選項詳解】\n- A. 正確。Bardet-Biedl 症候群（BBS）是一種體染色體隱性遺傳的纖毛病（ciliopathy）。其診斷主要標準包括：視網膜色素變性（眼底色素病變）、多指（趾）畸形（常為 post-axial）、肥胖、性腺發育不良（外生殖器短小）、智能障礙及腎臟異常。\n- B. 錯誤。Noonan 症候群（Noonan syndrome）主要表現為身材矮小、獨特臉部特徵（如眼距寬、下垂眼）、蹼狀頸（webbed neck）、先天性心臟病（尤以肺動脈瓣狹窄最常見）以及胸部畸形（如雞胸或漏斗胸），通常不以早期肥胖與多指症為主要特徵。\n- C. 錯誤。Prader-Willi 症候群（小胖威利，PWS）亦會出現早期肥胖與外生殖器發育不良，但其最典型的特徵是新生兒期有嚴重的肌肉低張力（floppy infant）及餵食困難，且通常沒有多指症與眼底色素病變。\n- D. 錯誤。Williams 症候群（Williams syndrome）是因第 7 對染色體微缺失所致，臨床特徵為「精靈樣臉孔（elfin facies）」、雞尾酒會型性格（親切外向）、主動脈瓣上狹窄（supravalvular aortic stenosis）及高血鈣，與肥胖、多指症、眼底色素變性無關。\n\n【核心考點】\n遺傳性肥胖症候群的鑑別：Bardet-Biedl 症候群具多指（趾）與眼底色素變性特徵；Prader-Willi 症候群必有新生兒嚴重低張力與餵食困難史；Williams 症候群以精靈臉孔與主動脈瓣上狹窄著稱；Noonan 症候群常伴肺動脈瓣狹窄與蹼狀頸。",
+      "key_point": "Bardet-Biedl 症候群的特徵為早期肥胖、多指（趾）畸形、外生殖器短小發育不良及眼底色素病變（視網膜色素變性）。",
+      "flashcard_front": "兒童早期肥胖、手腳多指症、外生殖器發育不良、眼底色素病變，最可能為哪種遺傳疾病？",
+      "flashcard_back": "Bardet-Biedl 症候群（Bardet-Biedl syndrome）。",
+      "flashcard_summary": "肥胖 + 多指症 + 生殖器發育不良 + 眼底色素病變 -> Bardet-Biedl 症候群。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題考查兒少虐待與疏忽的臨床警訊及通報評估。醫事人員依法在懷疑有兒少虐待或不當對待時應立即通報。通報指標通常包括與發展年齡不符的外傷、不合理的受傷機轉、病史反覆不一或延遲就醫等。\n\n【選項詳解】\n- A. 錯誤。多次急診外傷就醫紀錄（特別是短期內頻繁就醫）且檢查結果（如嚴重的內部受傷）與照顧者敘述的輕微受傷機制不符，是典型身體虐待（physical abuse）的強烈警訊，必須立即通報兒少保護小組。\n- B. 錯誤。病史前後說法不一致常代表照顧者試圖隱瞞真相，而延遲就醫則暗示疏忽或故意拖延以等待外傷消退，兩者皆為受虐兒的危險指標，需立即通報兒少保護小組。\n- C. 錯誤。低於 150 公分跌落通常不容易造成幼兒多處或嚴重骨折，若發生嚴重骨折（例如股骨或肱骨螺旋形骨折），必須懷疑受傷原因不單純，應進行兒少保護評估與立即通報。\n- D. 正確。2歲以上的兒童已具備獨立行走與奔跑能力，活動力極強，因跌倒或碰撞導致單一四肢（如手部）骨折屬於兒童期常見的意外創傷。在沒有其他虐待警訊（如多處陳舊傷口、發展遲緩、受傷描述不合邏輯等）下，單純的 2 歲以上兒童手部骨折不符合立即通報兒少保護的要件。\n\n【核心考點】\n兒少保護通報指標評估：凡受傷機轉與傷勢不符、病史反覆且無故延遲就醫、非自由活動年齡（如小於1-2歲）出現異常骨折等，均屬高度懷疑受虐之指徵；而已學步兒童的單一肢體骨折，若無其他可疑線索，常屬意外，不需常規通報。",
+      "key_point": "兒少保護通報警訊包括與受傷機制不符的嚴重傷勢、病史前後不一致、延遲就醫、或小於2歲等非活動年齡之骨折；大於2歲的單一肢體骨折若無其他疑點多屬意外。",
+      "flashcard_front": "兒少急診受傷就醫時，何種骨折情況「不符合」立即通報兒少保護的條件？",
+      "flashcard_back": "2歲以上（已學步且活動力強）兒童的單一手部/肢體骨折，若無其他受虐或疏忽跡象。",
+      "flashcard_summary": "兒少保護通報 -> 2歲以上單手骨折若無其他疑點不需立即通報。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題考查冬季癢（缺水性濕疹，Asteatotic eczema / Winter itch）的診斷與臨床處置。冬季癢常見於中老年人，特別是在乾冷冬季，主要因皮脂分泌減少、角質層屏障受損及水分流失。其處置應著重於保濕與減少刺激。\n\n【選項詳解】\n- A. 正確。冬季癢患者的皮膚已嚴重乾燥且屏障受損。多洗澡（特別是使用熱水及去脂力強的肥皂）會進一步洗去皮膚表面僅存的皮脂膜，加速水分蒸發，導致病情急劇惡化與劇烈搔癢，因此為最不適當的處置。\n- B. 錯誤。當病灶出現明顯紅斑、龜裂與發炎濕疹化時，局部塗抹中弱度外用類固醇（Topical corticosteroids）能有效減輕免疫發炎反應，緩解搔癢，是合適的短期藥物治療。\n- C. 錯誤。提高室內環境濕度（如使用加濕器）可以減少空氣乾燥對皮膚的水分吸取，有助於維持皮膚表皮的含水量，是合適的輔助物理性照護。\n- D. 錯誤。頻繁且足量地使用潤膚劑（如凡士林、乳霜、保濕乳液等）能重建皮膚的脂質屏障，鎖住角質層水分，是冬季癢預防與治療的第一線基礎護理。\n\n【核心考點】\n冬季癢（缺水性濕疹）的治療原則：基礎護理為足量塗抹潤膚劑保濕、提高環境濕度並避免過度清潔（如熱水洗澡）；急性發炎期則需配合外用類固醇消炎。",
+      "key_point": "冬季癢（缺水性濕疹）主要因皮脂及角質層屏障受損所致，處置應以塗抹潤膚劑保濕、提高濕度為主，切忌過度洗澡洗去皮脂。",
+      "flashcard_front": "冬季癢（缺水性濕疹，Asteatotic eczema）最不適當的處置為何？",
+      "flashcard_back": "鼓勵患者多洗澡（特別是使用熱水與去脂肥皂），這會洗去僅存的皮脂膜，加重皮膚乾燥與搔癢。",
+      "flashcard_summary": "冬季癢處置 -> 禁用/避免過度洗澡；應使用潤膚劑與外用類固醇。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題考查疥瘡（Scabies）的傳播方式、臨床表現、生存特性及診斷標準。疥瘡是由疥蟲（Sarcoptes scabiei）引起的傳染性皮膚病，好發於安養院等人口密集機構。其診斷與防疫隔離是臨床重點。\n\n【選項詳解】\n- A. 錯誤。疥瘡的發癢是宿主對疥蟲、蟲卵或其排泄物產生的遲發性過敏反應（Type IV hypersensitivity）。首次感染的患者通常有約 2 至 6 週的潛伏期才會出現搔癢。若在探望後「第二天」即發癢，極可能為心理作用或其他因素，而非剛感染的疥瘡發作。\n- B. 錯誤。成人的疥瘡主要侵犯皮膚皺摺處（如指縫、手腕、腋下、陰囊及乳房下等），因為這些部位角質層較薄；頭部與顏面在成人極少受累，僅在嬰幼兒或挪威疥（Norwegian scabies/Crusted scabies）患者中才可能侵犯頭頸部。\n- C. 錯誤。疥蟲離開人體後，在室溫與一般濕度環境下通常可以存活 2 至 3 天（約 48 至 72 小時），並非數個小時內死亡。因此，病人的衣物、被單亦具傳染性，需使用 60°C 以上熱水燙洗或隔離防制。\n- D. 正確。疥瘡鏡檢診斷（Microscopic examination）的金標準是在皮損處（特別是疥蟲隧道 burrow）進行皮膚刮取。只要在顯微鏡下觀察到疥蟲（mite）、蟲卵（eggs）或是疥蟲的排泄物（scybala/feces）中任何一種，即可確診為疥瘡感染。\n\n【核心考點】\n疥瘡診斷與防制特點：鏡檢見蟲體、蟲卵或排泄物即可確診；成人好發於皮膚皺摺處（頭面部除外）；離開人體可活2-3天；首次感染潛伏期長達2-6週，接觸次日即癢非疥瘡過敏反應。",
+      "key_point": "疥瘡診斷的金標準是鏡檢，只要刮取病灶見到疥蟲、蟲卵或其排泄物（scybala）中任何一種即可確診。",
+      "flashcard_front": "診斷疥瘡（Scabies）在顯微鏡下刮取檢查，看到哪些成分可以確立診斷？",
+      "flashcard_back": "只要見到疥蟲（mite）、蟲卵（eggs）或排泄物（scybala/feces）中任何一項即可確診。",
+      "flashcard_summary": "疥瘡鏡檢確診指標 -> 發現蟲體、蟲卵或其排泄物中任一項。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題考查白色糠疹（Pityriasis alba）的臨床特徵與預後。白色糠疹是一種常見的良性、慢性皮膚發炎，被認為是異位性體質（atopic diathesis）的一種輕微表現。其特色為邊界不清的色素減退斑。\n\n【選項詳解】\n- A. 錯誤。此敘述正確。白色糠疹典型表現為輕微脫屑（fine scaling）的色素減退（hypopigmented）斑塊，呈現粉白色，外觀類似乾澀脫屑斑，因此「出現白色脫屑斑」符合其臨床表現。\n- B. 錯誤。此敘述正確。此病最常發生於曝曬部位，特別是臉部（cheek 雙頰）、額頭，亦可見於頸部、肩部及上臂外側，因此「常見於臉上」符合其好發部位。\n- C. 錯誤。此敘述正確。主要好發於 3 至 16 歲的兒童與青少年，盛行率在孩童群體中相當高，尤其是膚色較深的兒童較為明顯。\n- D. 正確。此敘述錯誤。白色糠疹是一種良性且具自限性（self-limiting）的疾病。病灶通常會隨著時間自行消退，大多數患者在青春期或成年後病變會完全痊癒，皮膚色素也會恢復正常，而非不易痊癒。\n\n【核心考點】\n白色糠疹（Pityriasis alba）的診斷特徵：好發於兒童與青少年臉部，呈輕微脫屑之色素減退斑，與異位性體質相關，屬良性自限性，成年後多能自行痊癒（需與汗斑、白斑區別）。",
+      "key_point": "白色糠疹（pityriasis alba）常見於兒童臉部，表現為輕微脫屑之色素減退斑，屬良性自限性，成年後多數可自行痊癒。",
+      "flashcard_front": "關於白色糠疹（pityriasis alba）的預後與特徵，下列何者錯誤？",
+      "flashcard_back": "「成年後多數病變仍不易痊癒」是錯誤的。白色糠疹為良性自限性疾病，多數患者在成年後會自行消退痊癒。",
+      "flashcard_summary": "白色糠疹預後 -> 屬良性自限性，成年後多數可自行消退痊癒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題考查乾癬（Psoriasis）的流行病學、免疫遺傳學與臨床表現。乾癬是一種慢性免疫介導的發炎性疾病，不僅累及皮膚，還可能侵犯指甲與關節，並與多種遺傳及環境因素相關。\n\n【選項詳解】\n- A. 錯誤。白種人罹患乾癬的比例（盛行率約為 2-3%）顯著高於華人或亞洲人（盛行率約為 0.1-0.3%），流行病學呈現人種特異性差異，而非比華人低。\n- B. 錯誤。柯氏現象（Koebner phenomenon，即同形反應，受傷的正常皮膚處出現相同皮損）並非乾癬所特有，亦常見於白斑（vitiligo）、扁平苔癬（lichen planus）和傳染性軟疣等疾病。\n- C. 正確。乾癬具有極強的遺傳傾向，大約有三分之一的乾癬患者有家族史。研究發現其與人類白血球抗原（如 HLA-Cw6）等基因位點有密切關聯。\n- D. 錯誤。乾癬可導致全身多系統病變，高達 50% 的患者會出現指甲乾癬（如指甲點狀凹陷 pitting、甲床分離、油滴斑），且有約 10-30% 的乾癬性關節炎（Psoriatic arthritis, PsA），造成關節腫痛及變形。\n\n【核心考點】\n乾癬的系統性病變與遺傳特徵：乾癬具明顯家族史（與HLA-Cw6相關）；好發於白種人；可累及指甲與關節；柯氏現象（Koebner phenomenon）並非乾癬獨有，亦見於白斑及扁平苔癬。",
+      "key_point": "乾癬具有顯著的家族遺傳傾向（與HLA-Cw6相關），常侵犯指甲與關節，盛行率白種人高於華人，其柯氏現象（Koebner phenomenon）亦見於白斑等其他皮膚病。",
+      "flashcard_front": "關於乾癬（psoriasis）的遺傳與併發症，下列何者正確？",
+      "flashcard_back": "部分患者會有家族史（與 HLA-Cw6 等強烈相關），且常造成指甲病變（如點狀凹陷）及併發乾癬性關節炎。",
+      "flashcard_summary": "乾癬特徵 -> 部分患者有家族史，白種人盛行率高，常造成指甲與關節病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題考查異位性皮膚炎（Atopic dermatitis）的病理生理機轉。異位性皮膚炎的致病核心包括皮膚屏障受損、基因缺陷（如 FLG 基因）、局部免疫失調及微生物菌叢失衡。其急、慢性期的免疫細胞浸潤有動態演變。\n\n【選項詳解】\n- A. 錯誤。此敘述正確。絲聚蛋白（Filaggrin）基因（FLG）的體染色體顯性缺失突變是異位性皮膚炎最重要的遺傳易感因素。Filaggrin 減少會使角質層完整性受損，天然保濕因子（NMF）生成降低。\n- B. 錯誤。此敘述正確。由於表皮屏障與脂質（如神經醯胺）缺失，患者的經皮水分流失量（TEWL）會顯著增加，且角質層含水量大幅下降，臨床表現為皮膚極度乾燥與生理功能異常。\n- C. 錯誤. 此敘述正確。異位性皮膚炎患者因角質障壁破損，加上抗菌勝肽（AMPs，如 LL-37、beta-defensins）分泌缺陷，皮膚表面極易被金黃色葡萄球菌（Staphylococcus aureus）定殖並引發續發性細菌感染。\n- D. 正確。此敘述錯誤。異位性皮膚炎的免疫相可分為急慢性期。急性期皮損主要由 Th2 免疫反應（釋放 IL-4、IL-5、IL-13）介導；但在「慢性期」苔癬化病灶中，免疫反應會發生轉移，轉向以 Th1 細胞活化為主（分泌 IFN-gamma、IL-12），Th1 細胞在此階段扮演極關鍵的促發炎角色，並非「角色較少」。\n\n【核心考點】\n異位性皮膚炎的分子機轉：急性期以 Th2 免疫反應為主，慢性期則轉向 Th1 活化；FLG 基因突變造成絲聚蛋白（filaggrin）缺乏，進而導致皮膚水分散失（TEWL）增加及金黃色葡萄球菌易感性。",
+      "key_point": "異位性皮膚炎急性期以 Th2 介導為主，慢性期則轉為 Th1 活化（分泌 IFN-gamma）；常因 FLG 基因突變導致絲聚蛋白（filaggrin）減少，使皮膚水分散失增加。",
+      "flashcard_front": "異位性皮膚炎（atopic dermatitis）慢性期皮損的免疫細胞機轉有何特徵？",
+      "flashcard_back": "慢性苔癬化期會轉變為以 Th1 細胞的活化與浸潤為主（如分泌 IFN-gamma），而非 Th1 細胞角色較少。",
+      "flashcard_summary": "異位性皮膚炎慢性期機轉 -> 以 Th1 細胞活化為主（急性期以 Th2 為主）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題考查 Sturge-Weber 症候群（Sturge-Weber syndrome，腦顏面血管瘤病）的臨床診斷。該病是一種非遺傳性的先天性神經皮膚症候群（neurocutaneous syndrome），主要特徵為顏面血管畸形合併同側軟腦膜及眼部病變。\n\n【選項詳解】\n- A. 錯誤。此敘述正確。患者出生時即在臉部三叉神經支配區域（特別是眼分支 V1 區）出現典型的酒色斑（Port-wine stain，即微血管畸形）。\n- B. 正確。此敘述錯誤。酒色斑在本質上是「良性」的微血管畸形（capillary malformation），屬於先天性發育異常，並非惡性血管瘤，亦無惡性轉移的風險。\n- C. 錯誤。此敘述正確。同側的軟腦膜血管瘤（leptomeningeal angioma）會壓迫大腦皮質，導致局部缺血與鈣化，常引發頑固性癲癇（seizures）、偏癱及發展遲緩。\n- D. 錯誤。此敘述正確。眼部毛細血管畸形可能波及鞏膜與脈絡膜，使眼壓升高，高達 30-70% 的患者會併發同側青光眼（glaucoma），甚至導致失明。\n\n【核心考點】\nSturge-Weber 症候群的典型臨床表徵：神經皮膚三聯徵為「三叉神經V1區酒色斑（良性微血管畸形）」、「軟腦膜血管瘤（常併發癲癇）」與「青光眼」。",
+      "key_point": "Sturge-Weber 症候群是以三叉神經V1區酒色斑（良性微血管畸形）、軟腦膜血管瘤（易致癲癇）及青光眼為特徵的先天性神經皮膚症候群。",
+      "flashcard_front": "Sturge-Weber 症候群的酒色斑（Port-wine stain）本質上為何種病變？",
+      "flashcard_back": "良性的微血管畸形（capillary malformation），並非惡性血管瘤。",
+      "flashcard_summary": "Sturge-Weber 症候群酒色斑本質 -> 良性微血管畸形，非惡性血管瘤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-4_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題考查系統性疾病在皮膚與影像學的合併診斷。患者表現出特異性的皮膚病灶，影像學檢查有特徵性的「雙側肺門淋巴結腫大（Bilateral hilar lymphadenopathy, BHL）」，病理切片可見典型的「無乾酪樣壞死之肉芽腫（non-caseating granuloma）」，此高度符合類肉芽腫（Sarcoidosis）的臨床表徵。\n\n【選項詳解】\n- A. 正確。類肉芽腫（Sarcoidosis）是一種多系統發炎性疾病，常侵犯肺部及皮膚。其最特異性的影像學表現為胸部 X 光的雙側肺門淋巴結腫大（BHL）；皮膚病理特徵是真皮層內有界限清晰、無乾酪樣壞死的肉芽腫（non-caseating naked granulomas）。\n- B. 錯誤。結核病（Tuberculosis, TB）在病理切片中，肉芽腫會呈現典型的「乾酪樣壞死（caseating necrosis）」，且胸部影像通常以肺尖浸潤、開洞（cavitation）或肋膜積水為主，極少單純呈現對稱的雙側肺門淋巴結腫大。\n- C. 錯誤。皮膚 T 細胞淋巴癌（Cutaneous T-cell lymphoma, CTCL，如蕈樣肉芽腫 Mycosis fungoides）其病理切片特徵是表皮向性（epidermotropism）的異形 T 細胞浸潤，並形成 Pautrier 微膿瘍（Pautrier microabscesses），不以真皮層上皮樣肉芽腫為主，影像上亦無特異性雙側肺門淋巴結腫大。\n- D. 錯誤。卡波希氏肉瘤（Kaposi's sarcoma, KS）是由 HHV-8 病毒感染所致，病理切片可見紡錘狀細胞（spindle cells）增生、裂隙狀新生血管（slit-like vascular spaces）及紅血球外溢，與上皮樣肉芽腫完全不同。\n\n【核心考點】\n類肉芽腫的臨床診斷指標：雙側肺門淋巴結腫大（BHL）合併真皮層「無乾酪樣壞死」的上皮樣肉芽腫是診斷類肉芽腫（Sarcoidosis）的經典特徵，需與呈現「乾酪樣壞死」的結核病（TB）進行嚴格病理鑑別。",
+      "key_point": "雙側肺門淋巴結腫大（BHL）合併皮膚病灶及病理見「無乾酪樣壞死」肉芽腫，是類肉芽腫（Sarcoidosis）的特徵，需與「乾酪樣壞死」的結核病鑑別。",
+      "flashcard_front": "皮膚病變伴隨胸部 X 光顯示雙側肺門淋巴結腫大，且病理呈無乾酪樣壞死肉芽腫，最可能為哪種疾病？",
+      "flashcard_back": "類肉芽腫（Sarcoidosis）。",
+      "flashcard_summary": "雙側肺門淋巴結腫大 + 皮膚病灶 + 無乾酪樣壞死肉芽腫 -> 類肉芽腫（Sarcoidosis）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-12T21:30:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
