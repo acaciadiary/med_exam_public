@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-4.json",
+  "dataset_id": "110-2_medicine-4",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n6 個月嬰兒突發持續膽汁性嘔吐且影像有高位小腸阻塞，需優先懷疑腸旋轉不良合併中腸扭轉，這是可能腸缺血的外科急症。\n\n【選項詳解】\n- A. 幽門狹窄多在 2-8 週出現非膽汁性噴射性嘔吐，不符合膽汁性嘔吐。\n- B. 中腸扭轉會造成突發膽汁性嘔吐與近端腸阻塞，是本題最可能診斷。\n- C. 迴腸閉鎖多在新生兒期就表現腸阻塞，6 個月才突發較不典型。\n- D. 胎糞性腸阻塞多見於新生兒，常與囊性纖維化相關，不符合年齡與突發病程。\n\n【核心考點】\n嬰兒突發膽汁性嘔吐要先當作 midgut volvulus，需緊急影像與外科處理。",
+      "key_point": "嬰兒突發膽汁性嘔吐要先當作 midgut volvulus，需緊急影像與外科處理。",
+      "flashcard_front": "嬰兒突發膽汁性嘔吐的鑑別診斷與腸扭結",
+      "flashcard_back": "嬰兒突發膽汁性嘔吐要先當作 midgut volvulus，需緊急影像與外科處理。",
+      "flashcard_summary": "嬰兒突發膽汁性嘔吐的鑑別診斷與腸扭結 -> 嬰兒突發膽汁性嘔吐要先當作 midgut volvulus，需緊急影像與外科處理。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n題目問不是主要在十二指腸與近端空腸吸收者。鐵、葉酸與部分鎂主要在近端小腸吸收；維生素 B12 需 intrinsic factor，主要在末端迴腸吸收。\n\n【選項詳解】\n- A. 鎂可在小腸吸收，包含近端小腸，不是本題最典型例外。\n- B. 鐵主要在十二指腸與近端空腸吸收。\n- C. 葉酸主要在近端空腸吸收。\n- D. 維生素 B12 與 intrinsic factor 結合後主要在末端迴腸吸收，所以為本題答案。\n\n【核心考點】\n鐵與葉酸看近端小腸，維生素 B12 看末端迴腸與 intrinsic factor。",
+      "key_point": "鐵與葉酸看近端小腸，維生素 B12 看末端迴腸與 intrinsic factor。",
+      "flashcard_front": "維生素與礦物質在胃腸道的吸收部位",
+      "flashcard_back": "鐵與葉酸看近端小腸，維生素 B12 看末端迴腸與 intrinsic factor。",
+      "flashcard_summary": "維生素與礦物質在胃腸道的吸收部位 -> 鐵與葉酸看近端小腸，維生素 B12 看末端迴腸與 intrinsic factor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n貧血、血小板低下、急性腎衰竭與血液抹片破碎紅血球，形成 microangiopathic hemolytic anemia、thrombocytopenia、AKI 的三聯徵，最符合 HUS。\n\n【選項詳解】\n- A. 急性白血病可有貧血與血小板低下，但題幹的破碎紅血球與嚴重腎衰竭更支持微血管病變。\n- B. ITP 主要是孤立性血小板低下，不會造成破碎紅血球與腎衰竭。\n- C. HUS 典型為溶血性貧血、血小板低下與急性腎損傷，最符合。\n- D. Evans syndrome 是自體免疫溶血合併免疫性血小板低下，通常不以破碎紅血球與腎衰竭為主。\n\n【核心考點】\nHUS 三聯徵是 MAHA、血小板低下、急性腎損傷；抹片破碎紅血球是關鍵。",
+      "key_point": "HUS 三聯徵是 MAHA、血小板低下、急性腎損傷；抹片破碎紅血球是關鍵。",
+      "flashcard_front": "溶血性尿毒症候群（HUS）的臨床三聯徵",
+      "flashcard_back": "HUS 三聯徵是 MAHA、血小板低下、急性腎損傷；抹片破碎紅血球是關鍵。",
+      "flashcard_summary": "溶血性尿毒症候群（HUS）的臨床三聯徵 -> HUS 三聯徵是 MAHA、血小板低下、急性腎損傷；抹片破碎紅血球是關鍵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n兒童發燒性 UTI 的影像評估常用腎臟超音波、VCUG 與 DMSA；IVP 已少用，對初步評估價值最低。\n\n【選項詳解】\n- A. IVP 有輻射與顯影劑負擔，對兒童 UTI 評估已被超音波、VCUG、DMSA 取代，最不具價值。\n- B. 腎臟超音波可評估水腎、構造異常或阻塞，仍有價值。\n- C. VCUG 可評估膀胱輸尿管逆流，適用於特定發燒性 UTI 情境。\n- D. DMSA 可評估腎皮質發炎或疤痕，在腎盂腎炎與後續評估有用途。\n\n【核心考點】\n小兒 UTI 影像常考 renal US、VCUG、DMSA；IVP 不是現代常規首選。",
+      "key_point": "小兒 UTI 影像常考 renal US、VCUG、DMSA；IVP 不是現代常規首選。",
+      "flashcard_front": "兒童發燒性泌尿道感染（UTI）的影像學評估選擇",
+      "flashcard_back": "小兒 UTI 影像常考 renal US、VCUG、DMSA；IVP 不是現代常規首選。",
+      "flashcard_summary": "兒童發燒性泌尿道感染（UTI）的影像學評估選擇 -> 小兒 UTI 影像常考 renal US、VCUG、DMSA；IVP 不是現代常規首選。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題官方所有選項給分，代表原題可能有爭議。一般而言，腎前性脫水尿鈉低；ATN 尿鈉高；急性腎絲球腎炎與尿路阻塞則可因病程而變動。\n\n【選項詳解】\n- A. 脫水屬腎前性 AKI，腎臟保鈉，尿鈉常低於 20 mEq/L；若問與 ATN 比較，A 會是低尿鈉代表。\n- B. 急性腎絲球腎炎可有鈉水滯留與尿鈉偏低或變動，與單純 ATN 不同；官方仍列給分。\n- C. 藥物引起 ATN 是腎小管受損，尿鈉常偏高、FeNa 常大於 2%，與腎前性不同；官方仍列給分。\n- D. 尿路阻塞早晚期尿鈉可變動，並非穩定單一型態；官方仍列給分。\n\n【核心考點】\nAKI 尿鈉判讀：腎前性通常低，ATN 通常高；本題官方 A-D 均給分，應以官方更正為準並理解爭議。",
+      "key_point": "AKI 尿鈉判讀：腎前性通常低，ATN 通常高；本題官方 A-D 均給分，應以官方更正為準並理解爭議。",
+      "flashcard_front": "急性腎衰竭的尿鈉與鈉排泄分數鑑別診斷（本題官方一律給分）",
+      "flashcard_back": "AKI 尿鈉判讀：腎前性通常低，ATN 通常高；本題官方 A-D 均給分，應以官方更正為準並理解爭議。",
+      "flashcard_summary": "急性腎衰竭的尿鈉與鈉排泄分數鑑別診斷（本題官方一律給分） -> AKI 尿鈉判讀：腎前性通常低，ATN 通常高；本題官方 A-D 均給分，應以官方更正為準並理解爭議。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": [
+        "本題官方答案為 A-D 均給分，尿鈉高低在腎絲球腎炎與阻塞性腎病可隨病程變動，建議保留人工複核。"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題是否定式問法。新生兒抽搐表現常不典型，早產兒可有 subtle seizure；最常見病因通常是缺氧缺血性腦病變，而不是感染。\n\n【選項詳解】\n- A. 新生兒皮質與髓鞘發育未成熟，較少出現典型 generalized tonic-clonic seizure，敘述正確。\n- B. 早產兒常以眼球偏斜、咀嚼、划船樣動作等 subtle seizure 表現，敘述正確。\n- C. 出生 3 天內最常見原因通常是 HIE 或代謝問題；說最常見是感染錯誤，為本題答案。\n- D. 若無明確原因，需評估感染與中樞神經病變，CSF 檢查常是必要項目，敘述正確。\n\n【核心考點】\n新生兒抽搐常不典型；早期最常見病因是 HIE，若原因不明需評估感染與代謝。",
+      "key_point": "新生兒抽搐常不典型；早期最常見病因是 HIE，若原因不明需評估感染與代謝。",
+      "flashcard_front": "新生兒抽搐的臨床表現與病因分類",
+      "flashcard_back": "新生兒抽搐常不典型；早期最常見病因是 HIE，若原因不明需評估感染與代謝。",
+      "flashcard_summary": "新生兒抽搐的臨床表現與病因分類 -> 新生兒抽搐常不典型；早期最常見病因是 HIE，若原因不明需評估感染與代謝。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n兒童缺血性腦中風常與先天性心臟病、血管病變、凝血異常或感染/發炎相關；成人常見的高血壓，在兒童相對少見。\n\n【選項詳解】\n- A. 高血壓是成人中風常見危險因子，但在兒童急性缺血性中風中最不常見，為本題答案。\n- B. 先天性心臟病可造成栓塞或低氧相關血栓，是兒童中風重要原因。\n- C. 凝血功能異常或血栓傾向可造成兒童缺血性中風。\n- D. 腦血管構造異常、血管炎或 moyamoya disease 都是兒童中風常見考點。\n\n【核心考點】\n兒童中風原因與成人不同：心臟病、血管異常與凝血異常常見，高血壓相對少見。",
+      "key_point": "兒童中風原因與成人不同：心臟病、血管異常與凝血異常常見，高血壓相對少見。",
+      "flashcard_front": "兒童急性缺血性腦中風的病因特徵",
+      "flashcard_back": "兒童中風原因與成人不同：心臟病、血管異常與凝血異常常見，高血壓相對少見。",
+      "flashcard_summary": "兒童急性缺血性腦中風的病因特徵 -> 兒童中風原因與成人不同：心臟病、血管異常與凝血異常常見，高血壓相對少見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n5 個月嬰兒低張力、四肢無力、舌頭震顫、臉部表情保留且無肝脾腫大，最符合脊髓性肌肉萎縮症（SMA）。\n\n【選項詳解】\n- A. SMA 影響前角細胞，嬰兒期可見 hypotonia、對稱近端無力、舌顫與臉部相對保留，最符合。\n- B. Duchenne 肌失養多在幼兒期後走路、爬樓梯困難與 Gowers sign，5 個月發病不典型。\n- C. GBS 多為急性或亞急性上行性無力，嬰兒舌顫與慢性低張力不典型。\n- D. 急性肌炎常有肌痛、CK 上升與感染後急性病程，不會造成典型舌顫。\n\n【核心考點】\nSMA 嬰兒型：低張力、近端無力、舌顫、深腱反射下降，臉部表情相對保留。",
+      "key_point": "SMA 嬰兒型：低張力、近端無力、舌顫、深腱反射下降，臉部表情相對保留。",
+      "flashcard_front": "脊髓性肌肉萎縮症（SMA）第一型的臨床特徵",
+      "flashcard_back": "SMA 嬰兒型：低張力、近端無力、舌顫、深腱反射下降，臉部表情相對保留。",
+      "flashcard_summary": "脊髓性肌肉萎縮症（SMA）第一型的臨床特徵 -> SMA 嬰兒型：低張力、近端無力、舌顫、深腱反射下降，臉部表情相對保留。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n術後低血鈉、低血漿滲透壓、高尿鈉、高尿滲透壓且血容量正常，是 SIADH 的典型組合。\n\n【選項詳解】\n- A. SIADH 會造成等血容量性低血鈉，尿鈉高且尿液不適當濃縮，最符合。\n- B. Cerebral salt wasting 也有低血鈉與尿鈉高，但通常血容量下降，與題幹正常血容量不符。\n- C. Central diabetes insipidus 會造成多尿、高血鈉與低尿滲透壓，不符合。\n- D. 腎上腺危象可低血鈉，但常有低血壓、低血糖或高血鉀等表現，題幹更像 SIADH。\n\n【核心考點】\nSIADH 是等血容量低血鈉：低血滲、高尿滲、尿鈉高；CSW 則有血容量下降。",
+      "key_point": "SIADH 是等血容量低血鈉：低血滲、高尿滲、尿鈉高；CSW 則有血容量下降。",
+      "flashcard_front": "抗利尿激素分泌不當症候群（SIADH）的診斷依據",
+      "flashcard_back": "SIADH 是等血容量低血鈉：低血滲、高尿滲、尿鈉高；CSW 則有血容量下降。",
+      "flashcard_summary": "抗利尿激素分泌不當症候群（SIADH）的診斷依據 -> SIADH 是等血容量低血鈉：低血滲、高尿滲、尿鈉高；CSW 則有血容量下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-4_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n男孩 8 歲、睪丸 5 c.c. 已達青春期體積，GnRH test 後 LH 有青春期反應且 testosterone 上升，符合中樞性性早熟。\n\n【選項詳解】\n- A. 生殖細胞瘤可造成周邊性或中樞性性早熟，但題幹沒有腫瘤線索，且 GnRH 軸活化本身最支持中樞性。\n- B. 男孩 9 歲前第二性徵且睪丸增大，GnRH 後 LH 上升，符合中樞性性早熟。\n- C. 腎上腺早熟主要是陰毛、體味等腎上腺雄性素表現，睪丸通常不會對稱增大到青春期大小。\n- D. 巨大睪丸常考 fragile X 等，並非 testosterone 與 LH 青春期反應造成的性早熟診斷。\n\n【核心考點】\n男童中樞性性早熟：9 歲前、睪丸大於約 4 mL，GnRH stimulation 後 LH 呈青春期反應。",
+      "key_point": "男童中樞性性早熟：9 歲前、睪丸大於約 4 mL，GnRH stimulation 後 LH 呈青春期反應。",
+      "flashcard_front": "中樞性性早熟的診斷指標",
+      "flashcard_back": "男童中樞性性早熟：9 歲前、睪丸大於約 4 mL，GnRH stimulation 後 LH 呈青春期反應。",
+      "flashcard_summary": "中樞性性早熟的診斷指標 -> 男童中樞性性早熟：9 歲前、睪丸大於約 4 mL，GnRH stimulation 後 LH 呈青春期反應。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

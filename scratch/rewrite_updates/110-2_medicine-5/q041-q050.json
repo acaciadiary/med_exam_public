@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-5.json",
+  "dataset_id": "110-2_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題重點是「自體乳房重建（闊背肌皮瓣 vs 腹直肌皮瓣）的組織量與適應症」。闊背肌皮瓣(Latissimus dorsi flap)所能提供的組織量與厚度相對有限，通常適用於較小乳房重建或需合併義乳植入者，無法單獨提供寬厚組織以進行較大乳房的重建，故(C)敘述錯誤。義乳植入較難維持自然下垂外觀(B)；而有腹部手術史者因血管供應受損，為腹直肌皮瓣(TRAM)重建之相對禁忌(D)。\n\n【選項詳解】\n- A. 正確。雙側乳房重建可考慮義乳植入，尤其希望手術時間較短或避免取自體組織者。\n- B. 正確。義乳較容易維持體積對稱，但較難呈現自然下垂與隨體重變化的外觀。\n- C. 錯誤。闊背肌皮瓣組織量有限，常需合併義乳，單獨用於較大乳房重建並不理想。\n- D. 正確。既往腹部手術可能影響 TRAM 皮瓣血流與腹壁條件，因此是相對禁忌。\n\n【核心考點】\n闊背肌皮瓣組織量少，不適合大型乳房的單獨重建；腹直肌皮瓣(TRAM)組織量大，但有腹部手術史者為相對禁忌。",
+      "key_point": "自體乳房重建（闊背肌皮瓣 vs 腹直肌皮瓣）的組織量與適應症。",
+      "flashcard_front": "自體乳房重建 / 闊背肌皮瓣 vs 腹直肌皮瓣 / 重建量限制",
+      "flashcard_back": "闊背肌皮瓣組織量少，不適合大型乳房的單獨重建；腹直肌皮瓣(TRAM)組織量大，但有腹部手術史者為相對禁忌。",
+      "flashcard_summary": "自體乳房重建 / 闊背肌皮瓣 vs 腹直肌皮瓣 / 重建量限制 -> 闊背肌皮瓣組織量少，不適合大型乳房的單獨重建；腹直肌皮瓣(TRAM)組織量大，但有腹部手術史者為相對禁忌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題重點是「膽道囊腫的 Todani 分類（Type IV）、成因假說與手術時機」。病童同時有肝內外膽管擴大，屬於 Todani 分類中的 Type IV 膽道囊腫(1)；其發生學與胰膽管合流異常(APBDU)導致胰液反流引起膽道受損擴大的 Babbitt 假說有關(5)；當病童合併澱粉酶上升（胰臟炎）時，應在發炎控制及緩解後儘早安排切除以防惡性變，而非等到6歲(3)，故正確選項為1,3,5，選(A)。\n\n【選項詳解】\n- A. 正確。135 包含 Type IV、胰臟炎緩解後儘早切除，以及胰液反流假說，皆符合題幹。\n- B. 錯誤。23 雖包含緩解後手術，但第 2 點 Type V 不符合肝內外膽管同時擴大的影像。\n- C. 錯誤。245 包含 Type V 與等到 6 歲手術；兩者皆不符合此題處置與分類。\n- D. 錯誤。145 包含第 4 點；膽道囊腫有惡性變與反覆感染風險，不應等到 6 歲才切除。\n\n【核心考點】\nType IV 同時累及肝內外膽管；Babbitt假說為胰液反流致病；若有胰臟炎應待緩解後儘早手術。",
+      "key_point": "膽道囊腫的 Todani 分類（Type IV）、成因假說與手術時機。",
+      "flashcard_front": "膽道囊腫 / Todani分類IV型 / Babbitt假說與手術時機",
+      "flashcard_back": "Type IV 同時累及肝內外膽管；Babbitt假說為胰液反流致病；若有胰臟炎應待緩解後儘早手術。",
+      "flashcard_summary": "膽道囊腫 / Todani分類IV型 / Babbitt假說與手術時機 -> Type IV 同時累及肝內外膽管；Babbitt假說為胰液反流致病；若有胰臟炎應待緩解後儘早手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題重點是「腎盂輸尿管接合處阻塞(UPJO)的影像診斷與核醫評估」。病童有嚴重水腎且皮質變薄，但輸尿管沒有脹大且 VCUG 排除膀胱尿道逆流，代表阻塞部位在腎盂輸尿管接合處，最可能為 UPJO 併發腎盂腎炎(1)。臨床上可利用利尿劑核醫掃描（DTPA with Lasix）評估分腎功能與阻塞(3)。本題因水腎已造成皮質變薄，需積極外科手術介入（腎盂成形術），不能僅做保守抗生素治療(5)，且(2, 4)所述為輸尿管膀胱狹窄之處置，故正確為1,3，選(C)。\n\n【選項詳解】\n- A. 錯誤。15 缺少第 3 點；UPJO 評估常需利尿性腎臟核醫掃描判斷阻塞與分腎功能。\n- B. 錯誤。234 包含 UVJ 狹窄與輸尿管重植術；題幹輸尿管未擴張且 VCUG 無逆流，更支持 UPJO。\n- C. 正確。13 符合腎盂輸尿管接合處阻塞合併感染，且可用 DTPA with Lasix 進一步評估。\n- D. 錯誤。135 包含第 5 點；已有嚴重水腎與皮質變薄，不能只等反覆感染才手術。\n\n【核心考點】\n超音波見水腎且輸尿管無脹大高度提示 UPJO（腎盂輸尿管狹窄）；應加做 DTPA 核醫掃描評估阻塞，需手術治療。",
+      "key_point": "腎盂輸尿管接合處阻塞(UPJO)的影像診斷與核醫評估。",
+      "flashcard_front": "小兒水腎 / 輸尿管無脹大 / VCUG無逆流 / 診斷與評估",
+      "flashcard_back": "超音波見水腎且輸尿管無脹大高度提示 UPJO（腎盂輸尿管狹窄）；應加做 DTPA 核醫掃描評估阻塞，需手術治療。",
+      "flashcard_summary": "小兒水腎 / 輸尿管無脹大 / VCUG無逆流 / 診斷與評估 -> 超音波見水腎且輸尿管無脹大高度提示 UPJO（腎盂輸尿管狹窄）；應加做 DTPA 核醫掃描評估阻塞，需手術治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題重點是「小兒每日維持輸液量的 Holiday-Segar (100/50/20) 計算規則」。依據小兒輸液的 Holiday-Segar 法則：體重前 10 kg 每日給予 100 mL/kg (共1000 mL)；第 11-20 kg 之間每公斤給予 50 mL/kg。本題病童體重為 13.5 kg，故其每日所需的維持輸液量為 $1000 + (3.5 \\times 50) = 1175$ mL，答案選(C)。\n\n【選項詳解】\n- A. 錯誤。900 mL 低於 13.5 kg 兒童用 100/50/20 rule 算出的維持量。\n- B. 錯誤。1,050 mL 只約略計入部分第二個 10 kg 的需求，仍不足。\n- C. 正確。前 10 kg 為 1000 mL，剩餘 3.5 kg 每公斤 50 mL，共 1175 mL/day。\n- D. 錯誤。2700 mL 明顯高於一般維持輸液量，接近過量。\n\n【核心考點】\n輸液計算：前10kg每公斤100mL，11-20kg每公斤50mL。13.5kg為 1000 + 3.5*50 = 1175 mL。",
+      "key_point": "小兒每日維持輸液量的 Holiday-Segar (100/50/20) 計算規則。",
+      "flashcard_front": "小兒輸液量計算 / Holiday-Segar法則 / 體重13.5kg",
+      "flashcard_back": "輸液計算：前10kg每公斤100mL，11-20kg每公斤50mL。13.5kg為 1000 + 3.5*50 = 1175 mL。",
+      "flashcard_summary": "小兒輸液量計算 / Holiday-Segar法則 / 體重13.5kg -> 輸液計算：前10kg每公斤100mL，11-20kg每公斤50mL。13.5kg為 1000 + 3.5*50 = 1175 mL。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題重點是「先天性肺呼吸道畸形(CPAM)的臨床病理特性與治療原則」。先天性肺呼吸道畸形(CPAM)的病灶「有極少數轉變為惡性腫瘤的可能」（如細支氣管肺泡癌或橫紋肌肉瘤），因此(C)敘述「無轉為惡性之可能」是錯誤且最不適當的。該病灶通常侷限於單側肺葉(A)；巨大病灶可能導致胎兒窘迫與水腫(B)；若出生後無症狀，通常建議在六個月大前做預防性切除，若有呼吸窘迫則需緊急手術(D)。\n\n【選項詳解】\n- A. 適當。CPAM 是肺部局部多囊性病灶，可侷限於單側或單一肺葉。\n- B. 適當。大型 CPAM 可造成縱膈偏移、水腫或胎兒窘迫，需產前監測。\n- C. 不適當。CPAM 雖多為良性，但有感染與少數惡性相關風險，不能說完全沒有惡性可能。\n- D. 適當。無症狀者可追蹤後於嬰兒期擇期切除；出生即呼吸窘迫者需緊急手術。\n\n【核心考點】\nCPAM 有轉為惡性腫瘤（如肺泡癌）的微小風險，故無症狀亦建議在生後3-6個月進行預防性切除。",
+      "key_point": "先天性肺呼吸道畸形(CPAM)的臨床病理特性與治療原則。",
+      "flashcard_front": "CPAM (先天性肺呼吸道畸形) / 惡變風險 / 手術時機",
+      "flashcard_back": "CPAM 有轉為惡性腫瘤（如肺泡癌）的微小風險，故無症狀亦建議在生後3-6個月進行預防性切除。",
+      "flashcard_summary": "CPAM (先天性肺呼吸道畸形) / 惡變風險 / 手術時機 -> CPAM 有轉為惡性腫瘤（如肺泡癌）的微小風險，故無症狀亦建議在生後3-6個月進行預防性切除。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題重點是「腸道旋轉不良手術（Ladd's procedure）的標準步驟」。腸道旋轉不良的手術治療（稱為 Ladd 手術）包含解除腸道扭轉、分離拉德氏帶（Ladd's bands，即十二指腸與盲腸/升結腸間的異常沾黏）、增寬小腸腸繫膜根部以避免再次扭轉，以及切除闌尾（因為闌尾在術後會被移至左側腹部，避免日後急性闌尾炎時診斷困難）。臨床上不需也不應將升結腸或降結腸固定於腹壁，因為這無法有效預防扭轉且會增加併發症，故選項 B、D 錯誤。\n\n【選項詳解】\n- A. 不完整。Ladd's procedure 除解除扭轉、分離 Ladd bands、切除闌尾外，還需擴寬小腸腸繫膜根部以降低再扭轉。\n- B. 不正確。固定升結腸與降結腸不是 Ladd's procedure 的核心步驟，重點是放置與擴寬腸繫膜基底。\n- C. 正確。解除扭轉、分離盲腸/升結腸與十二指腸間的 Ladd bands、擴寬小腸腸繫膜根部與切除闌尾，是標準步驟。\n- D. 不完整且多餘。固定結腸不是標準核心步驟，且缺少擴寬腸繫膜根部這個預防再扭轉關鍵。\n\n【核心考點】\n解除扭轉、分離 Ladd's bands（盲腸與十二指腸沾黏）、增寬腸繫膜根部並切除闌尾，但不做結腸腹壁固定。",
+      "key_point": "腸道旋轉不良手術（Ladd's procedure）的標準步驟。",
+      "flashcard_front": "腸道旋轉不良 / Ladd 手術步驟 / 腸繫膜根部 / 闌尾切除",
+      "flashcard_back": "解除扭轉、分離 Ladd's bands（盲腸與十二指腸沾黏）、增寬腸繫膜根部並切除闌尾，但不做結腸腹壁固定。",
+      "flashcard_summary": "腸道旋轉不良 -> Ladd 手術包含解除扭轉、分離 Ladd's bands、增寬腸繫膜根部及闌尾切除，不需固定結腸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題重點是「大腸直腸癌的危險因子」。大腸直腸癌的風險因子包括年齡（九成以上大於 50 歲）、高脂肪低纖維飲食、家族史（約兩成有家族史，八成為偶發性）等。肥胖、缺乏運動及久坐的生活方式反而會顯著增加大腸直腸癌的發生率，而非減少，因此選項 D 敘述錯誤，為本題正解。\n\n【選項詳解】\n- A. 正確。年齡是大腸直腸癌重要風險因子，多數病例發生於 50 歲以上。\n- B. 正確。大多數大腸直腸癌為偶發性，約一部分與家族史或遺傳風險相關。\n- C. 正確。高動物脂肪、低纖維飲食與大腸直腸癌風險上升相關。\n- D. 錯誤。肥胖與久坐會增加大腸直腸癌風險，不會減少發生率。\n\n【核心考點】\n肥胖與久坐會增加大腸直腸癌風險；九成患者大於50歲，八成屬偶發性，高脂低纖飲食為危險因子。",
+      "key_point": "大腸直腸癌的危險因子。",
+      "flashcard_front": "大腸直腸癌 / 肥胖與久坐 / 風險因子 / 飲食與年齡",
+      "flashcard_back": "肥胖與久坐會增加大腸直腸癌風險；九成患者大於50歲，八成屬偶發性，高脂低纖飲食為危險因子。",
+      "flashcard_summary": "大腸直腸癌風險因子 -> 肥胖與久坐會增加發生率，高脂低纖、年齡大於50歲及家族史也是重要危險因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題重點是「急性栓塞性外痔的臨床處置」。對於發病在 72 小時以內的急性栓塞性外痔，若症狀嚴重且體積較大，局部手術切除（即 1）是首選，可快速緩解疼痛並預防復發；若選擇保守治療（如溫水坐浴及局部止痛藥物，即 3）也適用於症狀較輕微或不願手術者。局部手術切開取血栓（即 2）因復發率高，目前較少單獨推薦；硬化劑注射（即 4）僅適用於內痔出血，不適用於外痔，故本題適當的治療為 1 與 3。\n\n【選項詳解】\n- A. 正確。急性疼痛性栓塞外痔在發作早期可考慮局部切除血栓，保守治療如溫水坐浴也可使用。\n- B. 錯誤。24 包含單純切開與硬化劑；切開易復發且硬化劑不是急性栓塞外痔標準處置。\n- C. 錯誤。124 納入硬化劑注射；硬化劑主要用於部分內痔治療，不適合此題急性外痔血栓。\n- D. 錯誤。23 缺少局部切除且納入單純切開；單純 incision 不如完整 excision 可靠。\n\n【核心考點】\n急性栓塞性外痔（<72小時）可採取局部手術切除或保守溫水坐浴治療；不適用硬化劑注射（限內痔）。",
+      "key_point": "急性栓塞性外痔的臨床處置。",
+      "flashcard_front": "栓塞性外痔 / 急性期治療 / 局部切除 / 溫水坐浴",
+      "flashcard_back": "急性栓塞性外痔（<72小時）可採取局部手術切除或保守溫水坐浴治療；不適用硬化劑注射（限內痔）。",
+      "flashcard_summary": "栓塞性外痔治療 -> 急性期可進行局部手術切除或溫水坐浴保守治療，硬化劑注射不適用於外痔。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題重點是「大腸與直腸的解剖構造與臨床特性」。盲腸的結腸帶匯聚處即為闌尾根部，且手術中可藉由尋找迴盲部下方的 Treves 皺襞來定位闌尾，故 A、B 敘述正確。直腸的特徵是沒有結腸帶、沒有結腸袋也沒有腸脂垂，故 C 敘述正確。乙狀結腸雖然常發生穿孔，但其管壁其實比降結腸等處更厚，主因是其管腔最窄且承受的腔內壓力最高（Laplace's law），而非管壁較薄，故 D 敘述錯誤。\n\n【選項詳解】\n- A. 正確。闌尾基部位於盲腸三條 taeniae coli 匯聚處，是手術尋找闌尾的重要解剖定位。\n- B. 正確。Fold of Treves 位於迴盲部附近，可協助辨認末端迴腸與闌尾區域。\n- C. 正確。直腸沒有 taeniae coli，也沒有 epiploic appendices，這是與結腸的差異。\n- D. 錯誤。較常發生穿孔的臨床原因與憩室炎、阻塞壓力等有關，不能以 sigmoid wall 比 descending colon 薄作為正確解剖敘述。\n\n【核心考點】\n闌尾位於結腸帶匯聚處與 Treves 皺襞旁；直腸無結腸帶及腸脂垂；乙狀結腸易穿孔主因是腔窄壓力高，而非管壁薄。",
+      "key_point": "大腸與直腸的解剖構造與臨床特性。",
+      "flashcard_front": "大腸直腸解剖 / 闌尾定位 / 直腸特徵 / 乙狀結腸穿孔原因",
+      "flashcard_back": "闌尾位於結腸帶匯聚處與 Treves 皺襞旁；直腸無結腸帶及腸脂垂；乙狀結腸易穿孔主因是腔窄壓力高，而非管壁薄。",
+      "flashcard_summary": "大腸直腸解剖 -> 直腸無結腸帶及腸脂垂；乙狀結腸易穿孔是因管腔窄、腔內壓力高，而非管壁較薄。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題重點是「潰瘍性結腸炎與克隆氏症的區別」。克隆氏症為全壁層發炎，因此極易形成瘻管或肛門周圍病變，故選項 B 正確。克隆氏症常犯及小腸（特別是末端迴腸），而潰瘍性結腸炎主要侷限於大腸，故 A 錯誤。原發性硬化性膽管炎（PSC）與潰瘍性結腸炎有極高關聯性，而非克隆氏症，故 C 錯誤。吸菸會顯著增加克隆氏症的發生與復發率，但對潰瘍性結腸炎則有部分保護作用，故 D 錯誤。\n\n【選項詳解】\n- A. 錯誤。Crohn's disease 可從口到肛門任何部位侵犯，常有小腸病灶；潰瘍性結腸炎主要侷限於結腸。\n- B. 正確。Crohn's disease 為全層發炎，較容易形成肛門瘻管、腸腸瘻管或膿瘍。\n- C. 錯誤。原發性硬化性膽管炎較常與潰瘍性結腸炎相關，不是 Crohn's disease 較易出現。\n- D. 錯誤。抽菸會增加 Crohn's disease 發生與復發風險，卻對潰瘍性結腸炎有不同影響。\n\n【核心考點】\n克隆氏症為全壁發炎，易生瘻管，且吸菸會惡化病情；原發性硬化性膽管炎（PSC）則較常與潰瘍性結腸炎相關。",
+      "key_point": "潰瘍性結腸炎與克隆氏症的區別。",
+      "flashcard_front": "潰瘍性結腸炎 vs. 克隆氏症 / 瘻管 / 腸外表徵 PSC / 吸菸影響",
+      "flashcard_back": "克隆氏症為全壁發炎，易生瘻管，且吸菸會惡化病情；原發性硬化性膽管炎（PSC）則較常與潰瘍性結腸炎相關。",
+      "flashcard_summary": "潰瘍性結腸炎與克隆氏症 -> 克隆氏症易有瘻管且吸菸會加重病情；PSC 與潰瘍性結腸炎關聯度較高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

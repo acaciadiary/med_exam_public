@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-5.json",
+  "dataset_id": "110-2_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題重點是「人類白血球抗原(HLA)與主要組織相容性複合體(MHC)的基因定位、分類與移植預後」。HLA基因座位於人類第六對（而非第九對）染色體短臂，故(1)錯誤。MHC第一型表現於所有有核細胞表面，而非僅限於(4)所述之細胞，故(4)亦錯誤。HLA完全相同的腎臟移植預後最佳，第二型MHC包括 DP、DQ、DR，且懷孕、輸血及移植史是造成HLA敏化的三大原因，故正確敘述為2, 3, 5，選(C)。\n\n【選項詳解】\n- A. 錯誤。234 雖保留第 2、3 點，但納入第 4 點；MHC class I 應廣泛表現在所有有核細胞，不是只限 B 細胞、樹突細胞、內皮細胞與活化 T 細胞。\n- B. 錯誤。134 同時納入第 1 與第 4 點；HLA/MHC 位於第 6 對染色體短臂，且 class I 的表現範圍也被第 4 點寫得過窄。\n- C. 正確。235 包含 HLA 相合移植預後較佳、DP/DQ/DR 屬 MHC class II，以及懷孕、輸血、曾移植可造成 HLA sensitization。\n- D. 錯誤。125 納入第 1 點；HLA 基因座位不是第 9 對染色體短臂，而是第 6 對染色體短臂。\n\n【核心考點】\nHLA基因位於第6對染色體短臂上；Class I表達於所有有核細胞，Class II(DP/DQ/DR)表達於APC；敏化原因為懷孕、輸血、移植。",
+      "key_point": "人類白血球抗原(HLA)與主要組織相容性複合體(MHC)的基因定位、分類與移植預後。",
+      "flashcard_front": "HLA基因定位 / MHC分類 / 敏化原因",
+      "flashcard_back": "HLA基因位於第6對染色體短臂上；Class I表達於所有有核細胞，Class II(DP/DQ/DR)表達於APC；敏化原因為懷孕、輸血、移植。",
+      "flashcard_summary": "HLA基因定位 / MHC分類 / 敏化原因 -> HLA基因位於第6對染色體短臂上；Class I表達於所有有核細胞，Class II(DP/DQ/DR)表達於APC；敏化原因為懷孕、輸血、移植。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題重點是「外傷初級評估中張力性氣胸的診斷與處置原則」。張力性氣胸屬於致命性的外傷急症，其診斷完全依賴臨床症狀（如氣管偏移、患側呼吸音消失、低血壓等），一旦懷疑必須立刻給予針刺減壓或插胸管治療，絕不能因為等待照胸部X光而耽誤搶救時間，故(B)錯誤。其餘選項(A)、(C)、(D)皆符合外傷初級評估之標準流程與處置。\n\n【選項詳解】\n- A. 正確。外傷 primary survey 以 ABCDE 進行，Airway 評估時必須同步保護頸椎，避免加重潛在頸椎傷害。\n- B. 錯誤。張力性氣胸是臨床診斷，一旦懷疑須立即針刺減壓或胸管處置，不應先等胸部 X 光確認。\n- C. 正確。Circulation 評估可用 FAST 快速尋找腹腔內出血，是外傷休克評估的核心工具之一。\n- D. 正確。Disability 要評估 GCS，Exposure 則需完全暴露檢查並避免低體溫，兩者皆屬 primary survey。\n\n【核心考點】\n張力性氣胸為臨床診斷，高度懷疑時應立即處置（針刺減壓或胸管引流），不可為了照X光延誤搶救。",
+      "key_point": "外傷初級評估中張力性氣胸的診斷與處置原則。",
+      "flashcard_front": "外傷初級評估 / 張力性氣胸 / 診斷與處置",
+      "flashcard_back": "張力性氣胸為臨床診斷，高度懷疑時應立即處置（針刺減壓或胸管引流），不可為了照X光延誤搶救。",
+      "flashcard_summary": "外傷初級評估 / 張力性氣胸 / 診斷與處置 -> 張力性氣胸為臨床診斷，高度懷疑時應立即處置（針刺減壓或胸管引流），不可為了照X光延誤搶救。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題重點是「迴腸造口術後高輸出量(high output stoma)導致之體液與電解質流失」。患者在直腸癌切除及迴腸造口術後，每日造口排出量高達 3,000 mL，造成大量電解質與體液流失。這會引發嚴重的低血鈉（125 mEq/L）、低血鉀（2.5 mEq/L），並伴隨脫水所致的低血壓與反射性心搏過速，因此病患全身無力最可能的原因為大量造口流失所致，選(D)。\n\n【選項詳解】\n- A. 較不像。腎上腺功能不全可造成低血壓與電解質異常，但題幹有每日 3000 mL 迴腸造口輸出，病因更直接指向腸液流失。\n- B. 較不像。血紅素 8.0 g/dL 需注意，但題幹沒有活動性出血證據，且低鈉、低鉀與少尿更符合高輸出造口造成的體液耗損。\n- C. 較不像。白血球上升可見於術後或脫水壓力反應，題幹無發燒、腹膜炎或感染源，輕微敗血症不是最能解釋電解質流失的原因。\n- D. 正確。迴腸造口高輸出會大量流失水分、鈉與鉀，造成低血壓、少尿、倦怠與低鈉低鉀。\n\n【核心考點】\n高輸出量造口（High output stoma）會導致大量等張性體液流失，造成低血容量休克與嚴重電解質不平衡。",
+      "key_point": "迴腸造口術後高輸出量(high output stoma)導致之體液與電解質流失。",
+      "flashcard_front": "迴腸造口術後 / 每日排出3000mL / 低血鈉與低血鉀",
+      "flashcard_back": "高輸出量造口（High output stoma）會導致大量等張性體液流失，造成低血容量休克與嚴重電解質不平衡。",
+      "flashcard_summary": "迴腸造口術後 / 每日排出3000mL / 低血鈉與低血鉀 -> 高輸出量造口（High output stoma）會導致大量等張性體液流失，造成低血容量休克與嚴重電解質不平衡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題重點是「器官移植後感染發生的時間軸特徵」。移植後一個月內的感染多為與手術、住院或管路相關的細菌感染，如傷口感染(B)、尿路感染(C)以及原本潛在肝炎病毒的活化(A)。隱球菌(Cryptococcus)等伺機性真菌感染，一般需在長期、大劑量免疫抑制劑累積使用後的術後1至6個月之免疫抑制高峰期才較易發生，故(D)一個月內較少見。\n\n【選項詳解】\n- A. 常見。移植後一個月內可見既有感染或病毒再活化，B 型肝炎活化屬於需監測的早期問題。\n- B. 常見。術後一個月內最常遇到的是手術相關感染，傷口感染正屬此類。\n- C. 常見。泌尿道感染在腎臟移植早期並不少見，與導尿、泌尿道操作與免疫抑制有關。\n- D. 較少。隱球菌屬機會性感染，通常發生在較晚期、免疫抑制累積後，非移植後一個月內典型感染。\n\n【核心考點】\n術後1個月內主要為院內感染與手術併發症（傷口、尿路感染、HBV再活化）；真菌/隱球菌等伺機性感染多在術後1-6個月發生。",
+      "key_point": "器官移植後感染發生的時間軸特徵。",
+      "flashcard_front": "腎臟移植 / 術後一個月內 / 感染菌種",
+      "flashcard_back": "術後1個月內主要為院內感染與手術併發症（傷口、尿路感染、HBV再活化）；真菌/隱球菌等伺機性感染多在術後1-6個月發生。",
+      "flashcard_summary": "腎臟移植 / 術後一個月內 / 感染菌種 -> 術後1個月內主要為院內感染與手術併發症（傷口、尿路感染、HBV再活化）；真菌/隱球菌等伺機性感染多在術後1-6個月發生。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題重點是「傷口癒合各階段細胞出現之生理順序」。傷口癒合生理學中，受傷後嗜中性球(neutrophil)在24-48小時內最先抵達傷口清除異物，隨後(48-72小時)巨噬細胞(macrophage)接替成為主導發炎與生長因子釋放的細胞。隨後在增生期，纖維母細胞(fibroblast)大量增生合成膠原蛋白，最後是淋巴球(lymphocyte)進行免疫調節，故順序為(A)。\n\n【選項詳解】\n- A. 正確。急性發炎期先以 neutrophil 為主，接著 macrophage 清創與調控，fibroblast 進入增生與膠原沉積，lymphocyte 較晚參與免疫調節。\n- B. 錯誤。Fibroblast 不會早於 macrophage 成為主要細胞；清創與細胞激素調控需先由 macrophage 接手。\n- C. 錯誤。Macrophage 不是傷口最早主要浸潤細胞，neutrophil 才是早期急性發炎的第一線細胞。\n- D. 錯誤。Lymphocyte 不會是傷口癒合最早出現的主要細胞，且 neutrophil 應早於 fibroblast。\n\n【核心考點】\n傷口癒合細胞時序為：Neutrophil（早期發炎）→ Macrophage（發炎/信號）→ Fibroblast（增生合成）→ Lymphocyte（免疫調節）。",
+      "key_point": "傷口癒合各階段細胞出現之生理順序。",
+      "flashcard_front": "傷口癒合 / 細胞出現順序 / 發炎與增生期",
+      "flashcard_back": "傷口癒合細胞時序為：Neutrophil（早期發炎）→ Macrophage（發炎/信號）→ Fibroblast（增生合成）→ Lymphocyte（免疫調節）。",
+      "flashcard_summary": "傷口癒合 / 細胞出現順序 / 發炎與增生期 -> 傷口癒合細胞時序為：Neutrophil（早期發炎）→ Macrophage（發炎/信號）→ Fibroblast（增生合成）→ Lymphocyte（免疫調節）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題重點是「瘢痕瘤(Keloid)的臨床好發部位與人種盛行率」。瘢痕瘤(Keloid)最好發的部位為耳垂、肩膀、前胸（胸骨前）及上背部等張力較高的區域，而非好發於臉部及「低於鎖骨的軀幹與下肢」，故(A)錯誤。瘢痕瘤好發於深膚色人種，盛行率可達15%-20%，且目前臨床雖有類固醇、壓迫、雷射及放療等，但仍極易復發且難以完全根治。\n\n【選項詳解】\n- A. 錯誤。瘢痕瘤較好發於前胸、肩背、耳垂與下頷等張力區，臉部與低於鎖骨以外軀幹、下肢並非典型高發部位。\n- B. 正確。膚色較深族群較容易形成 keloid，包含非裔、亞洲與拉丁裔族群。\n- C. 正確。瘢痕瘤在高風險族群的盛行率可達約 15% 至 20%，此數字符合常見教科書描述。\n- D. 正確。瘢痕瘤治療困難、復發率高，壓迫、矽膠、類固醇注射、手術合併輔助治療皆無法保證根治。\n\n【核心考點】\n瘢痕瘤最好發於耳垂、肩膀、前胸與上背部；在深色皮膚人種較常見（盛行率可達15-20%）。",
+      "key_point": "瘢痕瘤(Keloid)的臨床好發部位與人種盛行率。",
+      "flashcard_front": "瘢痕瘤(Keloid) / 好發部位 / 膚色人種",
+      "flashcard_back": "瘢痕瘤最好發於耳垂、肩膀、前胸與上背部；在深色皮膚人種較常見（盛行率可達15-20%）。",
+      "flashcard_summary": "瘢痕瘤(Keloid) / 好發部位 / 膚色人種 -> 瘢痕瘤最好發於耳垂、肩膀、前胸與上背部；在深色皮膚人種較常見（盛行率可達15-20%）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題重點是「AAST 肝臟外傷分級標準（Grade I 至 VI）」。本題由於題目多處敘述有爭議，官方最終公佈一律給分。在標準 AAST 肝臟創傷分級中共有六級（Grade I至VI），其中 Grade I 定義為包膜下血腫面積小於10%、裂傷深度小於1公分；而 Grade III 為裂傷大於3公分。選項(C)所述整個肝葉受累應屬於Grade IV或以上，而非V級，且總分級為六級(D)，因而本題一律給分。\n\n【選項詳解】\n- A. 正確。AAST 肝臟傷害 Grade I 包含小於 10% 表面積的包膜下血腫，以及深度小於 1 cm 的裂傷。\n- B. 正確。肝裂傷深度超過 3 cm 可進入 Grade III 的範圍，需與血腫大小及血管傷害一起判讀。\n- C. 正確。整個肝葉包膜下血腫代表高比例肝表面受累，可符合較高級別傷害如 Grade V 的描述。\n- D. 錯誤。AAST 肝臟外傷分級為 Grade I 到 VI，共六級；Grade VI 為肝臟撕脫(avulsion)。\n\n【核心考點】\nAAST肝創傷分共六級。I級：血腫<10%、裂傷<1cm；III級：血腫>50%、裂傷>3cm。",
+      "key_point": "AAST 肝臟外傷分級標準（Grade I 至 VI）。",
+      "flashcard_front": "AAST肝臟創傷分級 / 總級數 / 第一級與第三級",
+      "flashcard_back": "AAST肝創傷分共六級。I級：血腫<10%、裂傷<1cm；III級：血腫>50%、裂傷>3cm。",
+      "flashcard_summary": "AAST肝臟創傷分級 / 總級數 / 第一級與第三級 -> AAST肝創傷分共六級。I級：血腫<10%、裂傷<1cm；III級：血腫>50%、裂傷>3cm。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題重點是「超急性排斥反應的抗體來源與病理機轉」。器官移植術後的超急性排斥(hyperacute rejection)，是由於「受贈者」體內早已存在對抗「捐贈者」HLA或ABO血型的抗體（預存抗體 preformed antibody），而非捐贈者體內存有抗體，故(B)錯誤。其餘關於HLA位於第六對染色體(A)、T細胞活化參與同種識別(C)及急性排斥分類(D)之敘述皆正確。\n\n【選項詳解】\n- A. 正確。HLA 基因位於第 6 對染色體，移植排斥與 HLA 不相合密切相關。\n- B. 錯誤。超急性排斥主要來自受贈者體內已存在的抗供者抗體，而不是捐贈者體內的 preformed antibody。\n- C. 正確。同種抗原識別可走直接或間接路徑，最終皆會活化 T 細胞並引發排斥反應。\n- D. 正確。急性排斥可分為細胞型與抗體媒介的體液型排斥，治療與診斷重點不同。\n\n【核心考點】\n超急性排斥是由於「受贈者」體內已存在對抗「捐贈者」的預存抗體，在吻合血管後數分鐘至數小時內發生。",
+      "key_point": "超急性排斥反應的抗體來源與病理機轉。",
+      "flashcard_front": "器官移植 / 超急性排斥 / 預存抗體來源",
+      "flashcard_back": "超急性排斥是由於「受贈者」體內已存在對抗「捐贈者」的預存抗體，在吻合血管後數分鐘至數小時內發生。",
+      "flashcard_summary": "器官移植 / 超急性排斥 / 預存抗體來源 -> 超急性排斥是由於「受贈者」體內已存在對抗「捐贈者」的預存抗體，在吻合血管後數分鐘至數小時內發生。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題重點是「脊椎腫瘤(Intraspinal tumors)的分類與最常見腫瘤類型」。脊椎腫瘤硬脊膜外(extradural)腫瘤以轉移性腫瘤(metastatic tumor)最常見(A)；硬脊膜內脊髓外(intradural extramedullary)以 meningioma 與 schwannoma 最多；脊髓內(intramedullary)腫瘤則以室管膜瘤(ependymoma)及星狀細胞瘤(astrocytoma)最常見，故選(A)。\n\n【選項詳解】\n- A. 正確。脊椎 extradural tumor 最常見為轉移性腫瘤，常造成硬膜外壓迫。\n- B. 錯誤。Intradural extramedullary tumor 常見為 meningioma 或 schwannoma，不是 metastatic tumor 最常見。\n- C. 錯誤。Intramedullary tumor 常見為 ependymoma、astrocytoma 等膠質來源腫瘤，不以轉移癌為主。\n- D. 錯誤。Meningioma 屬 intradural extramedullary 常見腫瘤，不是 intramedullary tumor 的典型答案。\n\n【核心考點】\n硬脊膜外最常見為轉移瘤；硬膜內髓外最常見為 meningioma/schwannoma；髓內最常見為 ependymoma。",
+      "key_point": "脊椎腫瘤(Intraspinal tumors)的分類與最常見腫瘤類型。",
+      "flashcard_front": "脊椎腫瘤分類 / 最常見硬膜外 / 最常見髓內",
+      "flashcard_back": "硬脊膜外最常見為轉移瘤；硬膜內髓外最常見為 meningioma/schwannoma；髓內最常見為 ependymoma。",
+      "flashcard_summary": "脊椎腫瘤分類 / 最常見硬膜外 / 最常見髓內 -> 硬脊膜外最常見為轉移瘤；硬膜內髓外最常見為 meningioma/schwannoma；髓內最常見為 ependymoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題重點是「脈絡叢乳頭狀瘤導致水腦與腦室擴大的生理機轉」。脈絡叢乳頭狀瘤會分泌大量腦脊髓液(CSF)造成交通性水腦症，並會因腫瘤增大阻塞腦室(A)或腫瘤反覆微量出血引發蜘蛛膜炎，進而阻礙CSF的吸收(D)。而脈絡叢動脈（供應腫瘤之主要血管）受壓迫會導致血液供應減少、CSF產量降低，因此這並非造成腦室擴大的原因，故選(B)。\n\n【選項詳解】\n- A. 包含。腫瘤增大可阻塞腦脊髓液通路，造成阻塞性水腦與腦室擴大。\n- B. 不包含。後脈絡叢動脈受壓不是 choroid plexus papilloma 造成腦室擴大的典型機轉。\n- C. 包含。脈絡叢乳頭狀瘤可過度產生 CSF，造成交通性水腦或腦室擴大。\n- D. 包含。腫瘤出血後可引發蜘蛛膜炎，使 CSF 吸收下降，進一步造成水腦。\n\n【核心考點】\n腦室擴大原因有CSF過度製造、腫瘤阻塞及出血性蜘蛛膜炎阻礙吸收；動脈壓迫會減少血流，非腦室擴大因。",
+      "key_point": "脈絡叢乳頭狀瘤導致水腦與腦室擴大的生理機轉。",
+      "flashcard_front": "脈絡叢乳頭狀瘤 / 腦室擴大機轉 / 脈絡叢動脈壓迫",
+      "flashcard_back": "腦室擴大原因有CSF過度製造、腫瘤阻塞及出血性蜘蛛膜炎阻礙吸收；動脈壓迫會減少血流，非腦室擴大因。",
+      "flashcard_summary": "脈絡叢乳頭狀瘤 / 腦室擴大機轉 / 脈絡叢動脈壓迫 -> 腦室擴大原因有CSF過度製造、腫瘤阻塞及出血性蜘蛛膜炎阻礙吸收；動脈壓迫會減少血流，非腦室擴大因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

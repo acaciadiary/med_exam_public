@@ -3,162 +3,149 @@ import json
 import os
 
 updates = [
-  {
-    "question_id": "109-1_medicine-4_061",
-    "question_number": 61,
-    "explanation": "【題幹解析】\n思覺失調症（schizophrenia）患者的自殺風險顯著高於一般族群。流行病學與長期追蹤研究指出，約有 10% 至 13% 的思覺失調症病人最終死於自殺，此自殺死亡率比一般人群高出數十倍。\n\n【選項詳解】\n- A. 錯誤。1~3% 顯著低估了思覺失調症患者的自殺死亡率。一般大眾的自殺率遠低於此，但對於重度精神疾病如思覺失調症，其終生自殺死亡率要高得多。\n- B. 正確。根據長期追蹤的流行病學研究，思覺失調症患者中約有 10% 至 13% 會因自殺而死亡，特別是在疾病早期、功能退化明顯、或剛出院的時期。\n- C. 錯誤。25~30% 雖然是思覺失調症病人曾有過「自殺企圖（suicide attempts）」或嚴重自殺意念的估計比例，但並非「自殺死亡（completed suicide）」的長期追蹤比例。\n- D. 錯誤。40~50% 遠高於思覺失調症的實際自殺死亡率，此比例在臨床上並不符合流行病學數據。\n\n【核心考點】\n思覺失調症（schizophrenia）的自殺流行病學特徵：長期追蹤下的終生自殺死亡率約為 10-13%。高風險因子包括年輕、男性、疾病早期、病前功能良好、伴隨重度憂鬱症狀以及對疾病具有高度病識感（insight）而產生的絕望感。",
-    "key_point": "思覺失調症（schizophrenia）患者在長期追蹤中，最終約有 10% 至 13% 死於自殺，高風險期多在疾病早期或剛出院時。",
-    "flashcard_front": "思覺失調症（schizophrenia）的病人長期追蹤下，約有多少比例最終會死於自殺？",
-    "flashcard_back": "約 10% 到 13%（通常臨床文獻指出約為 10%）。",
-    "flashcard_summary": "思覺失調症 -> 長期追蹤自殺死亡率約為 10~13%。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_062",
-    "question_id": "109-1_medicine-4_062",
-    "question_number": 62,
-    "explanation": "【題幹解析】\n本題詢問關於譫妄（delirium）的敘述何者錯誤。標準答案為 A。譫妄是一種因生理病因導致的急性認知與意識狀態改變，其症狀起伏大，治療應以找出並處理根本的身體病因為首要。當精神症狀或躁動嚴重危害安全時，可考慮短期且低劑量使用口服或靜脈/肌肉注射之抗精神病藥物，但長效針劑因作用時間長、代謝慢且無法調整劑量，絕對不可用於急性譫妄的治療。\n\n【選項詳解】\n- A. 錯誤（本題答案）。抗精神病長效針劑（long-acting injection, LAI）在體內釋放緩慢、半衰期極長，一旦發生副作用（如錐體外症候群 EPS）無法立即停藥移除，且譫妄症狀呈波動性（fluctuating course），需要動態調整藥量，因此長效針劑絕對不可用於治療譫妄。\n- B. 正確。高齡（尤其是大於 70 歲）是譫妄的獨立高危險因子，因其腦部代償能力（brain reserve）較差，在面對感染、手術或藥物變動時更容易誘發譫妄。\n- C. 正確。譫妄的發生通常意味著患者身體狀況嚴重失衡，臨床上與死亡率上升、住院天數延長、認知功能加速退化及出院後安置困難等不良預後密切相關。\n- D. 正確。譫妄的核心症狀為急性發作且起伏的注意力缺失、意識清明度下降，並常伴隨認知功能受損（如記憶、定向力障礙）及知覺異常（如視幻覺）。\n\n【核心考點】\n譫妄（delirium）的診斷核心在於急性發作、症狀波動、意識及注意力障礙；處置原則是找出並根除潛在的身體病因（如電解質不平衡、感染、藥物中毒或戒斷）。若需藥物控制躁動，僅可使用短效口服或針劑，禁用長效針劑。",
-    "key_point": "譫妄首要治療為處置根本病因，若需藥物控制躁動可用短效抗精神病藥，長效針劑因無法隨病況調整劑量而禁用。",
-    "flashcard_front": "關於譫妄（delirium）的臨床特徵與治療原則，下列敘述何者錯誤？",
-    "flashcard_back": "抗精神病長效針劑是治療首選之一。譫妄病情起伏大，禁用長效針劑，應優先找出病因，必要時給予低劑量短效藥物。",
-    "flashcard_summary": "譫妄 -> 禁用長效針劑，核心為意識與注意力障礙，治療以清除根本病因為主。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_063",
-    "question_id": "109-1_medicine-4_063",
-    "question_number": 63,
-    "explanation": "【題幹解析】\n選擇性血清素再吸收抑制劑（SSRI）是臨床上最常用的抗憂鬱藥物。本題詢問何者不是 SSRI 的常見副作用。標準答案為 A。SSRI 的常見副作用與血清素受體在全身的分布有關，包括腸胃道反應、性功能障礙及中樞神經興奮引起的睡眠障礙。SSRI 並不會引起急性血糖急速上升；在精神科藥物中，引發血糖上升、高血脂及體重增加等代謝副作用的，主要是第二代（非典型）抗精神病藥物（如 olanzapine、clozapine）。\n\n【選項詳解】\n- A. 正確（非 SSRI 的副作用）。SSRI 藥物不具備直接引發急性高血糖或血糖急速上升的藥理作用。相反地，某些非典型抗精神病藥因拮抗 H1 和 5-HT2C 受體，才會導致嚴重的體重增加與胰島素阻抗。\n- B. 錯誤（是常見副作用）。SSRI 剛開始使用時，會刺激腸胃道的 5-HT3 受體，常引起噁心、嘔吐、腹瀉或消化不良等胃腸道症狀，通常在用藥 1-2 週後會逐漸適應。\n- C. 錯誤（是常見副作用）。長期服用 SSRI 的患者中，高達 50-70% 會出現性功能障礙，包含性慾減退、勃起障礙、或射精延遲（anorgasmia），此與血清素活性上升抑制多巴胺路徑有關。\n- D. 錯誤（是常見副作用）。SSRI 具有輕微的中樞活化作用，特別是在早晨服用或剛開始用藥時，容易造成失眠、淺眠或多夢等睡眠障礙。\n\n【核心考點】\nSSRI 類藥物的藥理學與副作用：常見副作用包括噁心（刺激胃腸道 5-HT3）、性功能障礙（抑制多巴胺）、睡眠障礙（中樞興奮）。引發代謝異常（血糖上升、體重增加）的代表性精神科藥物為非典型抗精神病藥物（尤其是 olanzapine 與 clozapine）。",
-    "key_point": "SSRI 常見副作用有噁心、性功能障礙及失眠；高血糖與代謝異常則主要出現在第二代抗精神病藥（如 olanzapine）。",
-    "flashcard_front": "下列何者不是選擇性血清素再吸收抑制劑（SSRI）的常見副作用？",
-    "flashcard_back": "血糖急速上升。SSRI常見副作用為噁心、性功能障礙及睡眠障礙，急性血糖上升主要是部分非典型抗精神病藥物的副作用。",
-    "flashcard_summary": "SSRI副作用 -> 噁心、性功能障礙、睡眠障礙。血糖急速上升為非典型抗精神病藥副作用。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_064",
-    "question_id": "109-1_medicine-4_064",
-    "question_number": 64,
-    "explanation": "【題幹解析】\n本題詢問關於身體形象畏懼症（BDD）的敘述何者錯誤。標準答案為 A。身體形象畏懼症患者對自身外觀存在主觀想像的缺陷或極度誇大微小的瑕疵，導致嚴重的焦慮與功能受損。這是一種精神障礙（在 DSM-5 中歸類於強迫症相關障礙症），患者尋求手術或醫美介入後，通常非但無法解決心理上的扭曲認知，反而容易對治療結果更加不滿，引發醫療糾紛，因此非手術適應症。首選治療為高劑量抗憂鬱劑（如 SSRI）配合認知行為治療（CBT）。\n\n【選項詳解】\n- A. 錯誤（本題答案）。外科手術或整形醫美介入無法解決患者大腦對身體形象的病態認知，術後患者往往會轉移關注部位或認為手術失敗，導致病情惡化，因此手術為治療禁忌。\n- B. 正確。統計顯示，BDD 患者最常感到不滿意的身體部位通常是面部特徵（如鼻子的形狀或大小）以及頭髮（如髮線、禿頭恐懼），其他也包括皮膚 and 生殖器。\n- C. 正確。身體形象畏懼症患者常伴隨嚴重的社交退縮與自我否定，共病率極高，其中最常見的共病為重鬱症（major depressive disorder）與強迫症（obsessive-compulsive disorder）。\n- D. 正確。藥物治療方面，第一線藥物為選擇性血清素再吸收抑制劑（SSRI），且臨床上通常需要比治療一般憂鬱症更高的劑量，並需維持數週以上才能見效。\n\n【核心考點】\n身體形象畏懼症（BDD）的臨床特點：患者對外觀有扭曲的缺陷感受，整形手術是禁忌（無效且會惡化）；藥物治療以高劑量 SSRI 為主，常與重鬱症及強迫症共病。",
-    "key_point": "身體形象畏懼症（BDD）患者對外貌有妄想般的扭曲認知，醫美或整形手術為禁忌，應使用高劑量 SSRI 與認知行為治療。",
-    "flashcard_front": "關於身體形象畏懼症（body dysmorphic disorder）的臨床表現與治療，下列敘述何者錯誤？",
-    "flashcard_back": "以手術或醫學美容介入可有效減緩病情。手術是禁忌，無法改善認知扭曲，首選治療為高劑量SSRI與心理治療。",
-    "flashcard_summary": "身體形象畏懼症 -> 禁用手術/醫美介入，共病強迫/憂鬱，治療首選高劑量SSRI。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_065",
-    "question_id": "109-1_medicine-4_065",
-    "question_number": 65,
-    "explanation": "【題幹解析】\n本題詢問關於急性壓力疾患（ASD）與創傷後壓力症候群（PTSD）的比較何者錯誤。標準答案為 C。兩者皆是經歷重大創傷事件後引發的壓力反應，核心症狀相似，包括侵入性症狀、迴避行為、認知與情緒的負面改變、以及警覺性增高。主要區別在於時間跨度：ASD 的病程為創傷後 3 天至 1 個月；超過 1 個月則診斷為 PTSD。解離症狀（如失去現實感、自我解離）不但在 ASD 中非常常見，且在 DSM-5 中亦是重要症狀群之一。\n\n【選項詳解】\n- A. 正確。根據 DSM-5 診斷標準，急性壓力疾患（ASD）的時間定義為創傷事件後 3 天至 1 個月內。如果相關症狀持續超過 1 個月，則必須評估並考慮改診斷為創傷後壓力症候群（PTSD）。\n- B. 正確。PTSD 的黃金治療組合為藥物治療（如首選之 SSRI，包括 sertraline, paroxetine）配合針對創傷的心理治療（如認知行為治療 CBT、眼動減敏與歷程更新治療 EMDR），兩者合併療效最佳。\n- C. 錯誤（本題答案）。解離症狀（dissociative symptoms，如麻木、失去現實感 derealization、自我感喪失 depersonalization 或解離性遺忘）是急性壓力反應的常見特徵，常會出像在急性壓力疾患（ASD）中。\n- D. 正確。神經內分泌研究證實，PTSD 患者常存有下視丘-腦垂體-腎上腺軸（HPA axis）的功能失調，表現為皮質醇（cortisol）的負回饋抑制異常敏感，導致體內皮質醇水平異常偏低，而促腎上腺皮質激素釋放激素（CRH）上升。\n\n【核心考點】\nASD 與 PTSD 的鑑別診斷與病理：\n1. 時間定義：ASD（3天至1個月）；PTSD（持續超過1個月）。\n2. 兩者皆可出現解離症狀。\n3. 生理機轉：與 HPA axis 失調（皮質醇過低、負回饋過度敏感）有關。",
-    "key_point": "ASD 與 PTSD 皆可有解離症狀；ASD 症狀持續時間為 3 天至 1 個月，若超過 1 個月則需診斷為 PTSD。",
-    "flashcard_front": "關於急性壓力疾患（ASD）與創傷後壓力症候群（PTSD）的敘述，下列敘述何者錯誤？",
-    "flashcard_back": "急性壓力疾患之症狀中不會出現解離症狀。解離症狀（如現實感喪失）在ASD和PTSD中都相當常見。",
-    "flashcard_summary": "ASD與PTSD -> 區分在於病程（ASD限1個月內，超時為PTSD），兩者皆可有解離症狀，PTSD與HPA軸功能失調有關。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_066",
-    "question_id": "109-1_medicine-4_066",
-    "question_number": 66,
-    "explanation": "【題幹解析】\n本題描述一位因長期吸食安非他命（amphetamine）而誘發精神病症狀（聽幻覺、被害妄想、易怒躁動）的個案，詢問何者處置錯誤。標準答案為 D。安非他命為中樞神經興奮劑，濫用會導致突觸間隙多巴胺濃度暴增，進而引發類似思覺失調症的幻覺與妄想。首要處置是立即停用毒品，並在急性躁動或暴力期短期給予多巴胺受體拮抗劑（如 haloperidol）控制精神病症，必要時可採取保護性約束。在安非他命戒斷期，患者常會因多巴胺耗竭出現「崩潰（crash）」現象，表現為嚴重憂鬱、疲倦、嗜睡，此種戒斷憂鬱通常是暫時且自限性的，不需要使用情緒穩定劑（如 carbamazepine）治療。\n\n【選項詳解】\n- A. 正確。個案的精神病症狀是由安非他命引起的，因此治療的第一步與最根本處置是立即停止使用安非他命，以切斷外源性刺激。\n- B. 正確。由於安非他命會促進多巴胺大量釋放，短期使用第一代（如 haloperidol）或第二代抗精神病藥阻斷多巴胺受體，能有效控制幻覺、妄想與嚴重躁動。\n- C. 正確. 患者出現打傷同事的暴力行為，若在急診或病房難以照顧且有自傷傷人危險時，可進行保護性肢體約束，但必須密切觀察其呼吸及生命徵象，以防發生橫紋肌溶解症。\n- D. 錯誤（本題答案）。安非他命戒斷引起的憂鬱症狀，主因是多巴胺受體敏感度降低及神經傳導物質耗竭，一般以支持性治療為主；情緒穩定劑（如 carbamazepine）主要用於雙極性障礙症或癲癇，在此處並無療效，且 carbamazepine 具有嚴重的藥物交互作用與嚴重的皮膚副作用（如史蒂芬強生症候群 SJS），不應給予。\n\n【核心考點】\n安非他命誘發之精神病態（amphetamine-induced psychosis）的處置：\n1. 根本治療：停用安非他命。\n2. 急性精神症狀與躁動：短期使用抗精神病藥物（D2 antagonist）控制。\n3. 戒斷期憂鬱：支持療法為主，而非使用情緒穩定劑（如 carbamazepine）。",
-    "key_point": "安非他命誘發之精神症狀應以停藥和短期抗精神病藥治療；戒斷憂鬱是多巴胺耗竭引起，不使用情緒穩定劑（如 carbamazepine）治療。",
-    "flashcard_front": "對於安非他命濫用引發聽幻覺、被害妄想與易怒躁動的患者，下列處置敘述何者錯誤？",
-    "flashcard_back": "若有憂鬱症狀可給予情緒穩定劑（如 carbamazepine）。安非他命戒斷憂鬱通常是支持治療或用抗憂鬱藥，不需使用情緒穩定劑。",
-    "flashcard_summary": "安非他命精神病態 -> 處置為停藥、短期使用D2拮抗劑，約束需防橫紋肌溶解；戒斷憂鬱不給carbamazepine。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_067",
-    "question_id": "109-1_medicine-4_067",
-    "question_number": 67,
-    "explanation": "【題幹解析】\n本題詢問「虛談（confabulation）」最可能代表何種精神障礙。標準答案為 C。虛談是指患者在意識清楚的狀態下，為了填補記憶中的空白（如順向或逆向遺忘），而在無意中編造出虛構的故事、情節或經歷，且患者本身深信其為真實。這是典型的「記憶障礙（memory impairment）」，最經典的臨床例子是因長期酗酒導致維生素 B1（thiamine）缺乏所引起的科薩科夫症候群（Korsakoff's syndrome）。\n\n【選項詳解】\n- A. 錯誤。思考障礙常見的表現是妄想（delusion）、思考流程鬆散（looseness of association） or 思考中斷（thought blocking），而虛談是因記憶缺損而填補內容的產物，本質上不屬於思考障礙。\n- B. 錯誤。情緒障礙表現為憂鬱、焦慮、躁狂或情感平淡等，與編造記憶填補空白的虛談症狀無關。\n- C. 正確。虛談是記憶障礙（遺忘症）的代償性表現。患者大腦無法形成或提取真實記憶，為了應對外界提問，便自動抓取過去的片段或虛構內容來「填補」記憶漏洞，常見於 Korsakoff's syndrome 或額葉受損。\n- D. 錯誤。語言障礙（如失語症 aphasia）表現為表達或理解語言困難、發音不清等。虛談症患者通常說話流暢、語法正確，只是說出的內容是虛構的記憶，因此非語言障礙。\n\n【核心考點】\n虛談（confabulation）的定義與機轉：它是為了填補嚴重「記憶缺失」而產生的無意編造行為，屬於「記憶障礙」。常見於維生素 B1 缺乏導致的 Wernicke-Korsakoff syndrome，病理位置主要在乳頭體（mammillary bodies）及視丘內側核心。",
-    "key_point": "虛談（confabulation）是個案為了填補嚴重的記憶缺失而無意中編造的故事，屬於記憶障礙，經典病因為科薩科夫症候群。",
-    "flashcard_front": "精神醫學中，患者因記憶缺失而在意識清醒時編造故事填補空白的「虛談（confabulation）」症狀，最主要屬於何種障礙？",
-    "flashcard_back": "記憶（memory）障礙。常見於酗酒引發維生素B1缺乏的科薩科夫症候群。",
-    "flashcard_summary": "虛談 -> 記憶障礙，代償性填補遺忘，常見於Korsakoff's syndrome（維生素B1缺乏）。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_068",
-    "question_id": "109-1_medicine-4_068",
-    "question_number": 68,
-    "explanation": "【題幹解析】\n本題考查咖啡因（caffeine）戒斷症狀的臨床特點。標準答案為 B。當習慣每日攝取咖啡因的個案突然停止或顯著減量時，會引發戒斷反應。此反應通常在停用後的 12 至 24 小時內即開始發作，並在 20-51 小時達到高峰，持續約 2-9 天。其最常見且特徵性的症狀是血管舒縮性頭痛（因失去咖啡因的血管收縮作用而導致腦血管擴張）以及顯著的倦怠與疲勞。戒斷症狀的嚴重程度與先前咖啡因的每日攝取量成正比。\n\n【選項詳解】\n- A. 錯誤。咖啡因的半衰期較短，戒斷症狀通常在停用或減量後 12 至 24 小時內就迅速出現，而非一星期後才發生。\n- B. 正確。頭痛（headache）與倦怠/疲勞（fatigue/drowsiness）是咖啡因戒斷最典型且出現率最高的兩大臨床表現，其他症狀包括易怒、注意力無法集中與輕微抑鬱。\n- C. 錯誤。咖啡因戒斷不會導致幻聽、被害妄想等精神病性症狀（psychotic symptoms）；幻覺妄想主要是中樞興奮劑（如安非他命）中毒，或酒精、鎮靜安眠藥嚴重戒斷（如譫妄）的表現。\n- D. 錯誤。研究與臨床觀察顯示，咖啡因戒斷症狀的嚴重程度及發生率，與個案平時每日的咖啡因攝取量（使用量）呈明顯的正相關。\n\n【核心考點】\n咖啡因戒斷症候群（Caffeine withdrawal）：\n1. 發作時間：停藥後 12-24 小時。\n2. 典型症狀：頭痛（最典型）、倦怠、易怒。\n3. 嚴重度：與平時每日攝取總量呈正相關。",
-    "key_point": "咖啡因戒斷症狀通常在停藥後 12-24 小時內發生，最常見為頭痛與倦怠，嚴重度與平時使用量呈比。",
-    "flashcard_front": "關於咖啡因（caffeine）的戒斷症狀，下列敘述何者正確？",
-    "flashcard_back": "最常見症狀包括頭痛、倦怠。症狀通常在停用後 12-24 小時內發生，且嚴重度與平時攝取量呈正相關。",
-    "flashcard_summary": "咖啡因戒斷 -> 停藥12-24小時內發作，最典型為頭痛與倦怠，嚴重度與使用量呈正相關。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_069",
-    "question_id": "109-1_medicine-4_069",
-    "question_number": 69,
-    "explanation": "【題幹解析】\n本題詢問注意力不足過動症（ADHD）的診斷標準何者錯誤。官方最後更正為多重答案，選 A 或 B 均給分（即 A、B 均為錯誤敘述）。\n在 DSM-5 診斷標準中，部分過動-衝動或注意力不足的症狀必須在「12歲之前」（舊版 DSM-IV 為 7 歲之前）即已出現，因此 A 選項在現行 DSM-5 標準下是錯誤的。此外，ADHD 診斷要求症狀必須在「兩個或更多情境」（如學校和家裡）中出現，因此 B 選項「只要在一個情境中出現就算」亦是錯誤的。\n\n【選項詳解】\n- A. 正確（本選項敘述錯誤，符合題意）。根據 DSM-5 診斷標準，部分過動-衝動或注意力不足的症狀必須在「12 歲之前」就已出現。DSM-IV 的舊標準才是「7 歲之前」。因此，本敘述以現行標準而言是錯誤的。\n- B. 正確（本選項敘述錯誤，符合題意）。ADHD 診斷的關鍵條件之一是跨情境性，症狀必須在「兩個或兩個以上的情境」（如家裡、學校、工作、與朋友或親戚相處時）中顯現並造成影響。單一情境出現的症狀多與環境適應或特定關係有關，不符合 ADHD 診斷。\n- C. 錯誤（本選項敘述正確，不符題意）。診斷 ADHD 的必要條件是這些症狀必須有明確證據顯示其干擾了社交、學業或職業功能，或降低了上述功能的品質。\n- D. 錯誤（本選項敘述正確，不符題意）。ADHD 必須與其他可能導致注意力不集中或衝動的精神疾病進行鑑別診斷（排他條款），包括廣泛性發展障礙（自閉症譜系）、思覺失調症、焦慮症或雙極性障礙等。\n\n【核心考點】\nDSM-5 中注意力不足過動症（ADHD）的診斷準則要點：\n1. 年齡限制：部分症狀必須在 12 歲以前出現（舊版 DSM-IV 為 7 歲）。\n2. 情境要求：必須在兩個或更多情境中表現（如學校與家庭）。\n3. 功能損害：必須造成社交、學業或職業功能損害。",
-    "key_point": "ADHD的診斷標準要求症狀在12歲前（非7歲）即出現，且必須在兩個或以上的情境中發生，並造成功能損害。",
-    "flashcard_front": "關於注意力不足過動症（ADHD）在DSM-5中的診斷標準，下列敘述何者錯誤？（提示：本題官方公告多重給分）",
-    "flashcard_back": "「在7歲前出現」與「在單一情境中出現即可」均為錯誤。現行標準為症狀需在12歲前出現，且必須在至少兩個情境（如家庭與學校）中顯現。",
-    "flashcard_summary": "ADHD診斷標準 -> 症狀發病於12歲前，必須跨越兩個以上情境，且造成社交/學業/工作功能損害。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  },
-  {
-    "id": "109-1_medicine-4_070",
-    "question_id": "109-1_medicine-4_070",
-    "question_number": 70,
-    "explanation": "【題幹解析】\n本題詢問關於妥瑞氏症（Tourette's disorder）的敘述何者正確。標準答案為 D。妥瑞氏症是一種神經發育障礙，其病生理學與基底核多巴胺通路過度活躍密切相關。因此，多巴胺受體拮抗劑（例如 haloperidol、aripiprazole、pimozide）能有效減少 tics 的發生。在診斷上，必須同時具有「多種動作抽動」及「一種或多種聲帶抽動」（不需同時出現，但病程中皆曾出現過），且持續一年以上。\n\n【選項詳解】\n- A. 錯誤。妥瑞氏症的診斷標準要求在病程中必須「動作抽動（motor tics）」與「聲帶/發聲抽動（vocal tics）」兩者皆曾出現過（不一定要同時發生），若只出現單一種，則僅能診斷為持續性動作或聲帶抽動症。\n- B. 錯誤。雖然多數妥瑞氏症患者的症狀在青春期後會逐漸減輕或消退，但並非「所有」患者成年後都會痊癒，部分病人（約 10-20%）的症狀會持續到成年，甚至造成終身障礙。\n- C. 錯誤。妥瑞氏症具有強烈的遺傳傾向，同卵雙胞胎（monozygotic twins）的一致率（約 50-70%）顯著高於異卵雙胞胎（dizygotic twins，約 10%），兩者罹病機會不同。\n- D. 正確。妥瑞氏症的發生與大腦基底核（basal ganglia）的多巴胺過度敏感或活性過高有關，臨床上使用多巴胺受體拮抗劑（D2 antagonist，如 haloperidol、pimozide 或較新型的 aripiprazole）阻斷多巴胺活性，具有顯著改善抽動症狀的療效。\n\n【核心考點】\n妥瑞氏症（Tourette's disorder）的診斷與治療：\n1. 診斷條件：多種動作 tic + 至少一種聲帶 tic，持續 > 1年，18歲前發病。\n2. 遺傳學：高度遺傳性，同卵雙胞胎一致率高於異卵。\n3. 藥物治療：以多巴胺受體拮抗劑（D2 blockers）或 alpha-2 腎上腺素受體阻斷劑為主要藥物選擇。",
-    "key_point": "妥瑞氏症的診斷需同時具備動作與聲帶抽動，其機轉與多巴胺過度活躍有關，故多巴胺拮抗劑具明確療效。",
-    "flashcard_front": "關於妥瑞氏症（Tourette's disorder）的診斷標準與治療，下列敘述何者正確？",
-    "flashcard_back": "作用在多巴胺受體拮抗作用的抗精神病藥物具有療效。診斷需同時包含動作與聲帶抽動，且同卵一致率顯著高於異卵。",
-    "flashcard_summary": "妥瑞氏症 -> 診斷需動作+聲帶tic均曾出現，高度遺傳性，多巴胺拮抗劑（D2 antagonist）為有效藥物。",
-    "review_status": "ai_generated",
-    "explanation_model": "codex-high-quality-rewrite",
-    "explanation_generated_at": "2026-07-12T21:26:00+08:00",
-    "manual_review_notes": []
-  }
+    {
+        "question_id": "110-2_medicine-3_031",
+        "question_number": 31,
+        "explanation": "【題幹解析】\n病患為36歲女性，臨床表現有微燒、上眼瞼及臉頰部紅疹（提示 Heliotrope rash 或 Gottron's sign），且伴隨近端肢體無力（「必須側身以雙手扶持起床」代表近端大腿及軀幹肌群無力）。血清學檢查顯示 ANA 輕度陽性（1:40 speckled）且補體（C3、C4）正常，最有可能的診斷為皮肌炎（dermatomyositis）。\n\n【選項詳解】\n- A. 正確。皮肌炎（dermatomyositis）以對稱性近端肌肉無力（例如起床、起立、爬樓梯困難）為核心臨床表徵，並常伴隨特徵性皮膚病變，如上眼瞼的紫紅色斑（Heliotrope rash）與臉頰紅疹，與本病患的病史完全符合。\n- B. 錯誤。全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）雖可有發燒、臉部紅疹及 ANA 陽性，但一般不會以如此典型且嚴重的急性近端骨骼肌無力為首發表現，且 SLE 活性期通常會伴隨補體（C3、C4）的明顯消耗下降。\n- C. 錯誤。濕疹（eczema）為單純的皮膚發炎反應，會造成局部皮膚紅腫、搔癢與脫屑，但絕不會合併全身性的骨骼肌病變與近端肌肉無力症狀。\n- D. 錯誤。光敏感（photosensitivity）是皮膚對紫外線產生的異常免疫反應，為多種風濕免疫疾病（如 SLE）或藥物引發的皮膚症狀，但不會造成近端肌肉無力與起立困難。\n\n【核心考點】\n皮肌炎（Dermatomyositis）的診斷關鍵在於「對稱性近端肌無力」合併特徵性皮膚表現（如上眼瞼紫紅斑 Heliotrope rash、關節伸側 Gottron 氏丘疹）。臨床上若出現起床或站立需要雙手扶持的近端肌病變，且伴隨臉部紅疹，應高度懷疑皮肌炎。",
+        "key_point": "皮肌炎（Dermatomyositis）的診斷核心在於對稱性近端肌無力合併特徵性皮膚病變（Heliotrope rash、Gottron's papules）。",
+        "flashcard_front": "皮肌炎 (Dermatomyositis) / 臨床診斷特徵",
+        "flashcard_back": "典型表現為對稱性近端肌無力（如起立、起床困難），合併特徵性皮膚紅疹（如上眼瞼紫紅斑 Heliotrope rash 或關節伸側 Gottron 氏丘疹）。",
+        "flashcard_summary": "皮肌炎診斷 -> 對稱性近端肌無力伴隨眼瞼/臉頰特徵性紅疹。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_032",
+        "question_number": 32,
+        "explanation": "【題幹解析】\n21歲男性自青少年期（15歲）起，反覆發生由流行性感冒嗜血桿菌（Haemophilus influenzae，一種有莢膜的細菌）引起的肺炎，並伴有慢性鼻竇炎與支氣管擴張，而全血球計數及分類大致在正常範圍。此病史高度提示「體液免疫缺陷（humoral immunodeficiency，即抗體缺乏）」，例如常見變異型免疫缺陷病（CVID）。為了評估體液免疫缺損，首要且最關鍵的檢查是檢測血清中免疫球蛋白（IgG, IgA, IgM）的定量。\n\n【選項詳解】\n- A. 錯誤。CD4 與 CD8 淋巴細胞計數主要用於評估細胞免疫（cellular immunity）缺陷，例如 HIV/AIDS 或重症聯合免疫缺陷病（SCID）。本例主要為反覆有莢膜細菌引起的局部竇肺部感染，主要是抗體調理作用不足的問題，而非細胞免疫缺損。\n- B. 正確。反覆的有莢膜細菌（如流感嗜血桿菌、肺炎鏈球菌）感染與支氣管擴張，是體液免疫（抗體）缺陷的典型表現。測量血清免疫球蛋白 G（serum IgG）及其他免疫球蛋白（IgA、IgM）濃度，是診斷原發性抗體缺陷病的第一步與最基礎評估。\n- C. 錯誤。血中免疫球蛋白 E（serum IgE）主要與過敏性疾病（如氣喘、異位性皮膚炎）或特定寄生蟲感染相關。雖然高 IgE 症候群也會有反覆感染，但其典型為冷膿瘍（cold abscess）及粗糙面容，檢測 IgE 對此病患的一般體液免疫篩檢幫助有限。\n- D. 錯誤。血中第三與第四補體（serum C3 and C4）缺乏雖會增加有莢膜細菌的感染機率，但原發性補體缺乏極為罕見且常伴隨自體免疫疾病（如 SLE）。相較之下，抗體缺乏症的盛行率遠高於補體缺乏，故首選篩檢仍為血清免疫球蛋白定量。\n\n【核心考點】\n反覆發生有莢膜細菌（如流感嗜血桿菌）引起的呼吸道感染與支氣管擴張，提示體液免疫（抗體）缺陷。篩檢的第一步是檢測血清免疫球蛋白定量（IgG, IgA, IgM）。",
+        "key_point": "反覆發生有莢膜細菌引起的竇肺部感染提示體液免疫缺損，首選篩檢為檢測血清免疫球蛋白濃度。",
+        "flashcard_front": "體液免疫缺損 (Humoral Immunodeficiency) / 首選篩檢項目",
+        "flashcard_back": "反覆出現有莢膜細菌（如流感嗜血桿菌、肺炎鏈球菌）感染與支氣管擴張時，應首選檢測血清免疫球蛋白（IgG、IgA、IgM）定量。",
+        "flashcard_summary": "體液免疫缺損篩檢 -> 反覆莢膜細菌感染者首選檢測血清免疫球蛋白（IgG）。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_033",
+        "question_number": 33,
+        "explanation": "【題幹解析】\n診斷全身性紅斑狼瘡（SLE）常參考 ACR/EULAR 的分類標準。在此標準中，抗核抗體（ANA）是進入診斷標準的必要入口條件（Entry criterion，敏感度 >95%）；第四補體（C4）降低反映補體系統活化消耗（免疫學標準）；全血球計數（CBC）可用於評估溶血性貧血、白血球減少或血小板減少（血液學標準）。抗 SSA 抗體雖然在部分 SLE 病患中呈陽性，但並未列入 SLE 診斷分類標準中，其主要與乾燥症或新生兒狼瘡相關，因此對確診 SLE 幫助最小。\n\n【選項詳解】\n- A. 錯誤。抗核抗體（ANA）是診斷 SLE 的入門篩檢指標，敏感度極高（>95-98%）。在 2019 EULAR/ACR 標準中，ANA 必須呈陽性（>= 1:80）才能繼續評估其餘分類項目，故對確診幫助極大。\n- B. 錯誤。第四補體（C4）的降低代表補體系統被活化消耗，在 SLE 分類標準中屬於重要的免疫學評分指標，且補體下降常反映疾病活性（特別是狼瘡腎炎），對確診與活性追蹤皆極具價值。\n- C. 錯誤。全血球計數與血球分類（CBC with DC）可評估病患是否具有 SLE 診斷標準中的血液學異常，包括自體免疫性溶血性貧血、白血球減少症（WBC < 4,000/μL）、淋巴球減少症（< 1,000/μL）或血小板減少症（< 100,000/μL）。\n- D. 正確。抗 SSA 抗體（anti-SSA/Ro）雖然在約 30% 的 SLE 病患中呈陽性，但其臨床特異性主要關聯於乾燥症（Sjögren's syndrome）及新生兒狼瘡。在現行的 SLE 分類診斷標準中，並未將 anti-SSA 列為主要的免疫學診斷抗體（主要採用 anti-dsDNA、anti-Sm 及抗磷脂抗體），因此對確診 SLE 的直接幫助最小。\n\n【核心考點】\n在 SLE 診斷標準中，ANA 是必備篩檢入口，低補體（C3/C4）與血球減少是核心指標；抗 SSA 抗體主要與乾燥症及新生兒狼瘡相關，在 SLE 分類標準中非主要診斷抗體，對確診 SLE 的直接診斷權重最小。",
+        "key_point": "在 SLE 診斷標準中，ANA 是必備篩檢入口，低補體（C3/C4）與血球減少是核心指標；抗 SSA 抗體對確診 SLE 的直接特異性與診斷權重最低。",
+        "flashcard_front": "全身性紅斑性狼瘡 (SLE) / 診斷標準中抗 SSA 抗體之角色",
+        "flashcard_back": "抗 SSA (Ro) 抗體主要與乾燥症及新生兒狼瘡相關，在 SLE 分類標準中非主要診斷抗體，對確診 SLE 的直接診斷權重最小。",
+        "flashcard_summary": "SLE診斷指標 -> ANA、低補體及血球低下為核心標準，抗SSA抗體診斷權重最小。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_034",
+        "question_number": 34,
+        "explanation": "【題幹解析】\n該40歲女性有顯著的多發癌症家族史（包含乳癌、淋巴癌、結腸癌），雖然其姑媽（父系）的 BRCA-1 和 BRCA-2 檢測為陰性，但這僅排除 BRCA-1/2 的突變。遺傳性乳癌及其他遺傳性癌症綜合症（如 Li-Fraumeni 症候群、Lynch 症候群）還可能與許多其他抑癌基因（如 TP53, PTEN, PALB2, CHEK2, ATM 等）突變相關，因此應考慮進行 BRCA-1 及 BRCA-2 以外的基因檢測。\n\n【選項詳解】\n- A. 錯誤。雖然兩位姑媽（父系親屬）的 BRCA-1/2 基因檢測為陰性，但相關的癌症易感基因突變仍有可能是從父親那邊遺傳過來（如父親患有淋巴癌，堂兄患有結腸癌，暗示可能存在其他抑癌基因的突變）。遺傳性癌症基因可經由父系或母系雙方遺傳。\n- B. 錯誤。即使是遺傳性乳癌高危險群，常規的乳癌篩檢推薦每年接受乳房磁振造影（MRI）與乳房攝影（mammography）檢查。正子攝影（PET scan）具有高輻射劑量且對無症狀早期乳癌的篩檢敏感度不足，不用於常規篩檢。\n- C. 正確。遺傳性乳癌與卵巢癌綜合症除了 BRCA-1 和 BRCA-2 之外，還與 TP53（Li-Fraumeni 症候群）、PTEN（Cowden 症候群）、PALB2、ATM、CHEK2 等多個基因突變相關。當家族中存在多發癌症且 BRCA1/2 為陰性時，應考慮使用多基因面板（multi-gene panel）進行更廣泛的篩檢。\n- D. 錯誤。預防乳癌的化學預防藥物，如選擇性雌激素受體調節劑（SERM，如 tamoxifen）或芳香環轉化酶抑制劑（AI，如 exemestane），雖可用於降低高風險女性的乳癌風險，但芳香環轉化酶抑制劑主要建議用於「停經後」女性。本病患僅 40 歲，仍處於停經前，不適合首選 AI。\n\n【核心考點】\n乳癌及其他遺傳性癌症的基因諮詢中，單純 BRCA-1/2 陰性不能完全排除其他抑癌基因突變（如 TP53, PTEN, PALB2 等）。對於多發癌症家族史者，應考慮擴展多基因面板（multi-gene panel）檢測。停經前女性預防乳癌化學預防藥物首選為 SERM (如 Tamoxifen)，而非 AI (Aromatase inhibitors)。",
+        "key_point": "乳癌家族中 BRCA-1/2 陰性不能排除其他遺傳性癌症基因（如 TP53, PTEN, PALB2）突變，應考慮擴展多基因面板（multi-gene panel）檢測。",
+        "flashcard_front": "遺傳性乳癌諮詢 / BRCA-1/2 陰性之意義",
+        "flashcard_back": "家族中BRCA-1/2檢測陰性仍無法排除其他高/中外顯率抑癌基因（如TP53、PTEN、PALB2）突變，應考慮進行多基因面板檢測。",
+        "flashcard_summary": "遺傳性乳癌篩檢 -> BRCA陰性且有顯著家族史者，應考慮多基因面板（multi-gene panel）檢測。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_035",
+        "question_number": 35,
+        "explanation": "【題幹解析】\nEGFR（HER1）與 HER2 皆屬於受體酪胺酸激酶 ErbB 家族，其過度表達或突變主要見於「上皮細胞」來源的惡性腫瘤（carcinoma）。例如肺腺癌常有 EGFR 突變，結腸癌可使用抗 EGFR 單株抗體，乳癌常有 HER2 擴增。然而，腸平滑肌惡性肉瘤（leiomyosarcoma）是來自「間葉組織（mesenchymal tissue）」的惡性肉瘤（sarcoma），其增殖機轉與 EGFR/HER2 通路無關，因此不適用此類標靶治療。\n\n【選項詳解】\n- A. 錯誤。大腸直腸癌（結腸癌）常使用抗 EGFR 單株抗體（如 Cetuximab、Panitumumab）進行標靶治療，前提是腫瘤基因檢測為 KRAS/NRAS/BRAF 野生型（wild-type）。\n- B. 錯誤。非小細胞肺癌（特別是肺腺癌）中，EGFR 突變是非常常見的驅動突變，第一線治療常使用小分子 EGFR 酪胺酸激酶抑制劑（EGFR TKI，如 Gefitinib、Afatinib、Osimertinib）。\n- C. 正確。腸平滑肌惡性肉瘤（intestinal leiomyosarcoma）屬於軟組織肉瘤（soft tissue sarcoma），源於間葉組織（非上皮組織），其增殖與轉移不依賴 EGFR 或 HER2 信號通路，臨床上 EGFR 相關標靶治療對其無療效。\n- D. 錯誤。乳癌中約有 15-20% 屬於 HER2 陽性（HER2 為 EGFR 家族成員，即 ErbB2），臨床上會使用抗 HER2 單株抗體（如 Trastuzumab, Pertuzumab）或抗體藥物複合體（ADC，如 T-DM1, T-DXd）進行標靶治療。\n\n【核心考點】\nEGFR (HER1) 與 HER2 標靶藥物主要應用於「上皮來源」的惡性腫瘤（如肺腺癌、結腸癌、乳癌）。間葉組織來源的肉瘤（如平滑肌肉瘤）不適用此類標靶治療。",
+        "key_point": "EGFR (HER1) 與 HER2 標靶藥物主要應用於上皮細胞來源的惡性腫瘤，間葉組織來源的肉瘤（如平滑肌肉瘤）不適用此類治療。",
+        "flashcard_front": "EGFR/HER2 標靶治療 / 肉瘤 (Sarcoma) 之適用性",
+        "flashcard_back": "EGFR與HER2標靶主要用於上皮源性癌症（如肺癌、結腸癌、乳癌），間葉組織源的肉瘤（如平滑肌肉瘤）不依賴此通路，故不適用。",
+        "flashcard_summary": "EGFR標靶適應症 -> 適用於上皮源性惡性腫瘤，間葉組織來源之肉瘤不適用。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_036",
+        "question_number": 36,
+        "explanation": "【題幹解析】\n標靶治療藥物 Imatinib（商品名 Gleevec）是歷史上第一個研發成功的小分子酪胺酸激酶抑制劑（TKI）。它主要作用於 Bcr-Abl 融合蛋白，該蛋白是由於第9號與第22號染色體易位（費城染色體，Philadelphia chromosome）所產生的異常融合激酶，為慢性骨髓性白血病（CML）的核心致病機轉。Imatinib 同時還能抑制 c-Kit 與 PDGFR。\n\n【選項詳解】\n- A. 正確。Imatinib 主要特異性抑制費城染色體產生的 Bcr-Abl 融合蛋白之酪胺酸激酶活性，阻斷下游的異常增殖信號，因此成為治療慢性骨髓性白血病（CML）的一線藥物。此外，它也能抑制 c-Kit，故常用於治療胃腸道基質瘤（GIST）。\n- B. 錯誤。PML-RARα 是第15號與第17號染色體易位產生的融合蛋白，見於急性前骨髓性白血病（APL，AML-M3）。其標靶治療藥物主要是全反式維甲酸（ATRA）與三氧化二砷（ATO），而非 imatinib。\n- C. 錯誤。NF-κB 是一種調控免疫與發炎反應的轉錄因子。雖然在多種癌症中異常活化，但 Imatinib 並不是 NF-κB 的抑制劑（臨床上有些蛋白酶體抑制劑如 Bortezomib 會間接影響 NF-κB 通路）。\n- D. 錯誤。EGFRα（或一般指 EGFR）的抑制劑包括 gefitinib、erlotinib、afatinib、osimertinib 等小分子 TKI，以及 cetuximab 等單株抗體。Imatinib 並不抑制 EGFR。\n\n【核心考點】\nImatinib (Gleevec) 是針對 Bcr-Abl 融合蛋白的酪胺酸激酶抑制劑，是費城染色體陽性 CML 的首選藥物；它同時也能抑制 c-Kit，可用於治療胃腸道基質瘤 (GIST)。",
+        "key_point": "標靶藥物 Imatinib 是針對 Bcr-Abl 融合蛋白的酪胺酸激酶抑制劑，是治療 CML 的一線藥物，同時能抑制 c-Kit 用於治療 GIST。",
+        "flashcard_front": "Imatinib (基利克) / 主要作用標靶",
+        "flashcard_back": "Imatinib為酪胺酸激酶抑制劑，主要抑制費城染色體產生的Bcr-Abl融合蛋白（用於CML），以及c-Kit受體（用於GIST）。",
+        "flashcard_summary": "Imatinib作用靶點 -> 抑制Bcr-Abl（治療CML）與c-Kit（治療GIST）。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_037",
+        "question_number": 37,
+        "explanation": "【題幹解析】\n狼瘡抗凝血因子（Lupus anticoagulant, LA）是一種抗磷脂抗體（antiphospholipid antibody）。雖然在試管內（in vitro）它會干擾磷脂質，導致以磷脂質為基礎的凝血時間（如 aPTT）延長；但在體內（in vivo），它實際上會促進血小板活化與凝血反應，引發高凝狀態（易造成動靜脈血栓、流產，而「非」出血傾向）。當病患的 aPTT 延長時，進行混合試驗（Mixing test，將患者血漿與正常血漿 1:1 混合）：若是凝血因子缺乏，補入正常血漿後 aPTT 會被矯正至正常；但因 LA 是一種「抗體/抑制物（inhibitor）」，它會繼續中和正常血漿中的磷脂質與因子，因此混合試驗中 aPTT「不會」變為正常（即無法被矯正）。此外，LA 也常見於非 SLE 患者（如原發性抗磷脂抗體症候群），並會與 VDRL 試劑中的心脂質（cardiolipin）發生交叉反應，導致梅毒血清試驗偽陽性。\n\n【選項詳解】\n- A. 錯誤。狼瘡抗凝血因子（LA）在體內的作用是促進血栓形成（Prothrombotic），因此病患臨床上主要表現為血管栓塞或習慣性流產，通常沒有出血傾向，此敘述正確。\n- B. 正確。LA 會與試劑中的磷脂結合而使體外 aPTT 延長。在混合試驗（Mixing study）中，由於 LA 是一種循環抑制物（circulating inhibitor/antibody），會中和混合進來的正常凝血因子/磷脂，因此 aPTT 仍會維持延長，無法被矯正（corrected）至正常範圍。故「會變為正常」的描述是錯誤的。\n- C. 錯誤。LA 不僅見於全身性紅斑性狼瘡（SLE）患者，也常見於「原發性抗磷脂抗體症候群（Primary Antiphospholipid Syndrome）」，或因藥物、感染所誘發的短暫陽性，因此非 SLE 患者也可能出現，此敘述正確。\n- D. 錯誤。抗磷脂抗體（包括 LA 與抗心脂抗體 anticardiolipin antibody）會與梅毒篩檢試劑（如 VDRL、RPR）中的心脂質抗原產生交叉反應，導致梅毒血清試驗呈現「生物性偽陽性」，此敘述正確。\n\n【核心考點】\n狼瘡抗凝血因子 (LA) 在體內會促進血栓，但在體外會導致 aPTT 延長。由於 LA 屬於循環抑制物 (inhibitor)，其引起的 aPTT 延長無法藉由混合試驗 (mixing study) 被矯正至正常。同時，它也常導致梅毒檢驗 (VDRL/RPR) 出現偽陽性。",
+        "key_point": "狼瘡抗凝血因子（LA）是循環抑制物而非因子缺乏，故其引起的 aPTT 延長在混合試驗（mixing study）中無法被矯正至正常。",
+        "flashcard_front": "狼瘡抗凝血因子 (LA) / 混合試驗 (Mixing Test) 反應",
+        "flashcard_back": "LA屬於循環磷脂結合抗體（抑制物），在混合正常血漿的試驗中，無法被正常因子稀釋矯正，aPTT仍會維持延長。",
+        "flashcard_summary": "狼瘡抗凝因子實驗室特徵 -> 體外aPTT延長且混合試驗無法矯正，體內則促血栓。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_038",
+        "question_number": 38,
+        "explanation": "【題幹解析】\n這名孕婦有月經量多、姐姐產後大出血的家族史，血液檢查顯示：血小板數量正常（275,000/μL），但出血時間（Bleeding time, BT）延長至 14 分（反映血小板黏附功能異常）；PT 正常（外在與共同路徑正常），但 aPTT 延長至 44 秒（內生性路徑異常）。臨床上，同時伴隨「血小板計數正常、出血時間延長、aPTT延長」的遺傳性出血疾病，最典型就是類血友病（von Willebrand disease, vWD）。這是因為 von Willebrand factor (vWF) 負責血小板與內皮細胞的黏附（vWF 缺乏導致 BT 延長），同時 vWF 也是第八因子（Factor VIII）的載體蛋白以穩定第八因子（vWF 缺乏導致第八因子濃度下降，進而使 aPTT 延長）。\n\n【選項詳解】\n- A. 錯誤。A 型血友病（Hemophilia A）是 X 染色體隱性遺傳疾病，主要發生在男性，其病原為第八凝血因子（Factor VIII）缺乏。血友病會導致 aPTT 延長，但其「出血時間（Bleeding time, BT）」與血小板功能正常，且典型臨床症狀為深部關節或肌肉出血，而非皮膚黏膜或月經出血。\n- B. 正確。類血友病（vWD）為最常見的遺傳性出血疾病，通常為體染色體顯性遺傳。vWF 的功能是協助血小板黏附至受損血管壁，並保護血中第八因子。缺乏 vWF 會同時導致血小板功能受損（表現為 bleeding time 延長、皮膚黏膜出血如月經量多）及第八因子減少（表現為 aPTT 延長），但血小板數量正常。\n- C. 錯誤。慢性肝炎（chronic hepatitis）若造成凝血功能異常，主要是因為肝臟合成凝血因子能力下降，通常會先引起「PT 延長」（因為第七因子半衰期最短，最先受影響），且常伴隨脾臟腫大導致的血小板低下，與本題 PT 正常、血小板正常的實驗室數據不符。\n- D. 錯誤。尿毒症（uremia）會因為尿毒素累積干擾血小板功能，導致出血時間（Bleeding time）延長，但尿毒症本身不會直接引起 aPTT 延長，且病患並無腎臟病病史，30 歲孕婦若有嚴重尿毒症，臨床上會有顯著的腎功能衰竭症狀，與本題情境不符。\n\n【核心考點】\n類血友病 (vWD) 是最常見的體染色體遺傳出血疾病，其特徵是血小板數量正常，但出血時間 (BT) 延長（vWF 媒介血小板黏附受阻）且 aPTT 延長（vWF 缺乏導致第八因子不穩定）。",
+        "key_point": "類血友病（vWD）是因 vWF 缺乏導致血小板黏附功能異常（BT延長）及第八因子不穩定（aPTT延長），但血小板數量與 PT 正常。",
+        "flashcard_front": "類血友病 (vWD) / 經典實驗室檢查特徵",
+        "flashcard_back": "表現為血小板數量正常，但出血時間（BT）延長（反映血小板功能受損）以及aPTT延長（反映第八因子濃度低下），PT則維持正常。",
+        "flashcard_summary": "類血友病實驗室診斷 -> 血小板數正常，出血時間(BT)與aPTT同時延長。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_039",
+        "question_number": 39,
+        "explanation": "【題幹解析】\n原發性肺癌（特別是位於肺尖的 Pancoast tumor）局部擴散時會侵犯周圍的神經結構。若侵犯「頸部交感神經節（星狀神經節 stellate ganglion）」，會導致 Horner 氏症候群；若侵犯「臂神經叢（C8、T1、T2）」，則會導致 Pancoast 症候群。而膈神經（phrenic nerve, C3-C5）受壓迫或侵犯會導致「橫膈膜麻痺（diaphragmatic paralysis）」，表現為患側橫膈上升及呼吸困難，與 Horner 氏症候群無關。\n\n【選項詳解】\n- A. 正確。Horner 氏症候群是由於「頸部交感神經鏈（特別是星狀神經節 stellate ganglion）」受到腫瘤侵犯或壓迫所致，並非由膈神經（phrenic nerve）麻痺引起。膈神經麻痺會導致同側橫膈上升及呼吸困難，兩者為完全不同的神經路徑。因此本敘述錯誤，為本題應選答案。\n- B. 錯誤。Horner 氏症候群的典型臨床四聯徵（tetrad）包括眼皮下垂（ptosis，瞼板肌無力）、瞳孔縮小（miosis，瞳孔放大肌無力）、無汗症（anhidrosis，交感泌汗受阻）及眼球陷沒（enophthalmos，因眼眶肌張力減退），此敘述正確。\n- C. 錯誤。Pancoast 症候群（又稱肺尖腫瘤症候群）是指肺癌長在肺尖（sulcus tumor）局部擴散，侵犯臂神經叢的下幹（主要是第8頸神經 C8、第1胸神經 T1 及第2胸神經 T2），此敘述正確。\n- D. 錯誤。由於 Pancoast 腫瘤壓迫 C8、T1 臂神經叢，此處神經支配手臂的尺側（ulnar side），因此典型症狀為同側肩膀劇烈疼痛，並向手臂內側（尺骨側）及無名指、小指放射，此敘述正確。\n\n【核心考點】\nHorner 氏症候群是因「交感神經鏈」受侵犯所致，表現為 miosis, ptosis, anhidrosis；Pancoast 症候群則是因肺尖癌壓迫「臂神經叢下幹 (C8-T2)」，導致肩痛並放射至手臂尺側。膈神經 (C3-C5) 麻痺則會造成橫膈提升而非 Horner 氏症候群。",
+        "key_point": "肺癌局部擴散侵犯頸交感神經鏈會導致 Horner 氏症候群；侵犯臂神經叢下幹（C8-T2）會導致 Pancoast 症候群。膈神經麻痺則導致橫膈上升。",
+        "flashcard_front": "肺癌局部擴散 / Horner 氏症候群 vs 膈神經麻痺",
+        "flashcard_back": "Horner氏症候群是因腫瘤侵犯「交感神經鏈（星狀神經節）」所致。膈神經（phrenic nerve）受損會導致同側橫膈上升，兩者路徑不同。",
+        "flashcard_summary": "肺部腫瘤神經壓迫 -> 交感神經鏈受損導致Horner氏症候群，膈神經受損導致橫膈上升。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-2_medicine-3_040",
+        "question_number": 40,
+        "explanation": "【題幹解析】\n膀胱癌（絕大多數為尿路上皮癌 urothelial carcinoma）的臨床特點是多發性與易復發。流行病學統計顯示，在初次診斷膀胱癌的病患中，約有 70% 到 80% 的患者屬於「非肌肉侵犯性膀胱癌（Non-muscle invasive bladder cancer, NMIBC）」，也就是臨床上所稱的表淺（superficial）型（包括 Ta, T1, Tis）。這類癌症通常可先經由尿道膀胱腫瘤切除術（TURBT）配合膀胱內藥物灌注治療，但極易復發。而初診斷即為肌肉侵犯型或轉移型者僅佔少數。\n\n【選項詳解】\n- A. 正確。初診斷膀胱癌時，約有 70-80% 的病例為表淺型（即非肌肉侵犯型，侷限在黏膜 Ta/Tis 或黏膜下層 T1）。這類腫瘤通常預後較佳，但復發率高。\n- B. 錯誤。平滑肌侵犯型（muscle-invasive，期別為 T2 以上）在初診斷時約佔 20-30%。此類型需要進行更具侵襲性的治療，例如根治性膀胱切除術（radical cystectomy）或全身性化學治療，並非最常見的初診斷期別。\n- C. 錯誤。轉移型（metastatic）膀胱癌在初診斷時非常罕見，比例通常小於 5-10%。雖然肺部是膀胱癌常見的遠端轉移部位之一，但絕非初次診斷時最常見的期別。\n- D. 錯誤。轉移至肝臟同樣屬於晚期轉移型（Stage IV），在初次確診膀胱癌的病患中僅佔極低比例，不符合最常見期別的流行病學分佈。\n\n【核心考點】\n初次診斷膀胱癌時，最常見的期別為非肌肉侵犯型 / 表淺型 (Non-muscle invasive / superficial bladder cancer，約佔 70-80%)，其預後較好但復發率高。",
+        "key_point": "初次診斷膀胱癌時，最常見的期別為表淺型（非肌肉侵犯性膀胱癌，約佔 70-80%），其預後較佳但復發率高。",
+        "flashcard_front": "膀胱癌 / 初次診斷最常見之臨床期別",
+        "flashcard_back": "初診斷膀胱癌時最常見的是表淺型（非肌肉侵犯型，侷限於黏膜或黏膜下層），約占所有病例的 70-80%。",
+        "flashcard_summary": "膀胱癌臨床期別 -> 初次診斷最常見為表淺型（非肌肉侵犯型，占70-80%）。",
+        "review_status": "ai_generated",
+        "explanation_model": "gemini-2.5-pro",
+        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
+        "manual_review_notes": []
+    }
 ]
 
-output_dir = 'scratch/rewrite_updates/109-1_medicine-4'
-os.makedirs(output_dir, exist_ok=True)
-output_path = os.path.join(output_dir, 'q061-q070.json')
-
 output_data = {
-  "source_file": "public/data/exams/109-1/medicine-4.json",
-  "dataset_id": "109-1_medicine-4",
-  "range": {
-    "start": 61,
-    "end": 70
-  },
-  "updates": updates
+    "source_file": "public/data/exams/110-2/medicine-3.json",
+    "dataset_id": "110-2_medicine-3",
+    "range": { "start": 31, "end": 40 },
+    "updates": updates
 }
 
-with open(output_path, 'w', encoding='utf-8') as f:
-    json.dump(output_data, f, ensure_ascii=False, indent=2)
+output_path = r"d:\Antigravity\med_exam_public\scratch\rewrite_updates\110-2_medicine-3\q031-q040.json"
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-print("Successfully written to", output_path)
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+print("SUCCESS")

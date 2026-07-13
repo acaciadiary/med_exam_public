@@ -1,0 +1,41 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-4.json",
+  "dataset_id": "110-2_medicine-4",
+  "merge": false,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 15,
+      "notes": [
+        "本題官方答案為 A-D 均給分，尿鈉高低在腎絲球腎炎與阻塞性腎病可隨病程變動，建議保留人工複核。"
+      ]
+    },
+    {
+      "question_number": 49,
+      "notes": [
+        "本題官方答案為 A 與 C 均給分，屬常見部位排序可能依資料不同的題目。"
+      ]
+    },
+    {
+      "question_number": 60,
+      "notes": [
+        "本題官方答案為 B、D 均給分；雙胞胎共病率數值與病因比例可能反映舊題爭議。"
+      ]
+    },
+    {
+      "question_number": 66,
+      "notes": [
+        "本題官方答案為 A、D 均給分；A 的「不易成癮」過度簡化，D 涉及長期使用證據與風險判讀。"
+      ]
+    },
+    {
+      "question_number": 80,
+      "notes": [
+        "本題涉及法規年代差異；現行台灣成年年齡已調整，考試官方答案仍應保留 C 並標註人工複核。"
+      ]
+    }
+  ],
+  "errors": []
+}

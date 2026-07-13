@@ -1,0 +1,29 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-5.json",
+  "dataset_id": "110-2_medicine-5",
+  "merge": false,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 51,
+      "notes": [
+        "D 選項涉及腹腔鏡與開腹手術術後 cortisol 反應比較，官方答案保留 B；建議人工確認教科書版本。"
+      ]
+    },
+    {
+      "question_number": 73,
+      "notes": [
+        "此題依附圖判讀，更新內容依既有官方答案與原解析整理；建議有原圖時再人工確認。"
+      ]
+    },
+    {
+      "question_number": 74,
+      "notes": [
+        "此題依 CT 與血管攝影附圖判讀，更新內容依既有官方答案與原解析整理；建議有原圖時再人工確認。"
+      ]
+    }
+  ],
+  "errors": []
+}

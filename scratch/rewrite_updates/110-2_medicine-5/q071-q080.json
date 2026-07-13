@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-5.json",
+  "dataset_id": "110-2_medicine-5",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-5_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題重點是「Sildenafil（威而鋼）的藥理機轉與禁忌症」。Sildenafil 是選擇性的 PDE5 抑制劑，機轉是抑制 cGMP 的分解以增加其濃度，使海綿體平滑肌放鬆充血，並非作用於大腦，故 A、B 錯誤。由於 PDE5 抑制劑會與硝酸鹽類藥物（nitrates）產生嚴重的協同作用，導致全身血管劇烈擴張與致命性的低血壓，因此兩者絕對禁止合併使用，故 C 正確。Sildenafil 主要抑制 PDE5，對 PDE6（視網膜）的抑制會導致視覺異常等副作用，但非其主要治療作用，故 D 錯誤。\n\n【選項詳解】\n- A. 錯誤。Sildenafil 主要作用在周邊陰莖海綿體 NO-cGMP 路徑，不是增加大腦促勃起訊息。\n- B. 錯誤。PDE5 inhibitor 是抑制 cGMP 分解，使 cGMP 增加，不是促進分解。\n- C. 正確。合併 nitrate 會造成嚴重低血壓，因此 sildenafil 禁與硝酸鹽併用。\n- D. 錯誤。主要作用靶點是 PDE5；PDE6 相關是視覺副作用來源之一，不是主要治療作用。\n\n【核心考點】\nSildenafil 抑制 PDE5 減少 cGMP 分解；嚴禁與硝酸鹽（Nitrate）併用以防嚴重低血壓。",
+      "key_point": "Sildenafil（威而鋼）的藥理機轉與禁忌症。",
+      "flashcard_front": "Sildenafil / PDE5 抑制劑 / 硝酸鹽禁忌 / cGMP",
+      "flashcard_back": "Sildenafil 抑制 PDE5 減少 cGMP 分解；嚴禁與硝酸鹽（Nitrate）併用以防嚴重低血壓。",
+      "flashcard_summary": "Sildenafil 藥理 -> Sildenafil 為 PDE5 抑制劑，可抑制 cGMP 分解，嚴禁與硝酸鹽類藥物併用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題重點是「消化性潰瘍穿孔（perforated peptic ulcer）的臨床與影像診斷」。當患者突發腹部急性劇痛、腹肌僵直，且 X 光檢查（尤其是仰臥胸部或側臥腹部 X 光）顯示出膈下或側腹壁有游離氣體（free air/pneumoperitoneum），最常見的急症診斷為消化性潰瘍穿孔，故選 B。氣體積聚在腹腔內，與氣胸（積在胸腔）或肝膿瘍（積在肝臟內）不同。\n\n【選項詳解】\n- A. 較不像。產氣性肝膿瘍可有肝內氣體，但題幹急性劇痛合併游離氣體影像更典型為腸胃道穿孔。\n- B. 正確。消化性潰瘍穿孔會造成腹腔游離空氣，側臥腹部 X 光或胸片可見膈下/腹腔游離氣體。\n- C. 較不像。急性膽囊炎以右上腹痛、膽囊壁增厚或結石為主，不是典型大量游離氣體。\n- D. 較不像。右側氣胸在胸片為胸腔氣體，不能解釋側臥腹部片的腹腔游離空氣。\n\n【核心考點】\n腹部 X 光見橫膈下或側腹壁游離氣體（free air），強烈暗示消化道穿孔（常為胃或十二指腸潰瘍穿孔）。",
+      "key_point": "消化性潰瘍穿孔（perforated peptic ulcer）的臨床與影像診斷。",
+      "flashcard_front": "腹部游離氣體 / Decubitus view free air / 急性腹痛 / 潰瘍穿孔",
+      "flashcard_back": "腹部 X 光見橫膈下或側腹壁游離氣體（free air），強烈暗示消化道穿孔（常為胃或十二指腸潰瘍穿孔）。",
+      "flashcard_summary": "消化性潰瘍穿孔 -> 急性腹痛合併 X 光片呈現腹腔游離氣體（free air），首要懷疑消化性潰瘍穿孔。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題重點是「電腦斷層冠狀重組影像的解剖解讀」。在電腦斷層的冠狀重組切面（coronal reconstruction）中，若該切面偏向中前側，呈現了心室中隔及肝靜脈，則位於後縱膈腔、緊貼脊椎左前方下行的主動脈（descending aorta）便不會出現在同一個面上，故選項 C 的敘述錯誤，為本題正解。冠狀面電腦斷層可清楚呈現心臟結構與右下胸壁腫瘤的解剖關係。\n\n【選項詳解】\n- A. 正確。冠狀重組 CT 可由靜脈注射含碘顯影劑後重建，影像可顯示胸腹部血管與器官。\n- B. 正確。冠狀胸部影像可能顯示心臟腔室與心室中隔結構。\n- C. 錯誤。題圖若為前方冠狀切面或未涵蓋後縱膈，未必顯示下行主動脈；官方答案指出此敘述不符影像。\n- D. 正確。右下胸或橫膈附近腫塊需與肝臟相關結構判讀，影像可見肝靜脈作為解剖定位。\n\n【核心考點】\n下行主動脈位於後方縱膈偏左，在切到心室中隔與肝靜脈的較前/中側冠狀面影像中通常不會呈現。",
+      "key_point": "電腦斷層冠狀重組影像的解剖解讀。",
+      "flashcard_front": "CT 冠狀切面 / 心室中隔與肝靜脈 / 下行主動脈位置",
+      "flashcard_back": "下行主動脈位於後方縱膈偏左，在切到心室中隔與肝靜脈的較前/中側冠狀面影像中通常不會呈現。",
+      "flashcard_summary": "縱膈 CT 冠狀面判讀 -> 中前側冠狀面可呈現心室中隔與肝靜脈，但不會同時呈現位於脊椎前方的下行主動脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "此題依附圖判讀，更新內容依既有官方答案與原解析整理；建議有原圖時再人工確認。"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-5_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題重點是「肝細胞癌破裂（ruptured HCC）的急性表現與影像判讀」。高齡女性突發右上腹部劇痛伴隨休克，且腹部電腦斷層與血管攝影顯示肝臟有富含血管的巨大腫瘤（hypervascular tumor）伴隨活動性出血與腹腔積血時，最可能的診斷為肝細胞癌破裂，故選 C。肝血管瘤為良性且極少自發性破裂，而肝膿瘍通常不具備高血管增生與活動性出血的影像特徵。\n\n【選項詳解】\n- A. 較不像。肝膿瘍多為感染性發燒、白血球升高與膿瘍影像，不典型表現為急性出血與血管攝影所示出血。\n- B. 較不像。分布不均脂肪肝是良性脂肪分布差異，不會造成急性右上腹劇痛與血管攝影出血。\n- C. 正確。肝細胞癌破裂可造成急性右上腹痛、腹腔出血，CT 與血管攝影可見腫瘤出血徵象。\n- D. 較不像。肝血管瘤雖可破裂但罕見，影像與臨床背景通常不同於 HCC 破裂。\n\n【核心考點】\n肝臟大腫瘤破裂出血導致突發腹痛及休克，最常見於肝細胞癌（HCC）破裂。",
+      "key_point": "肝細胞癌破裂（ruptured HCC）的急性表現與影像判讀。",
+      "flashcard_front": "急性右上腹痛 / 肝臟高血管性腫瘤 / 活動性出血 / 血管攝影",
+      "flashcard_back": "肝臟大腫瘤破裂出血導致突發腹痛及休克，最常見於肝細胞癌（HCC）破裂。",
+      "flashcard_summary": "肝細胞癌破裂 -> 突發右上腹痛與休克，影像呈現肝臟富血管性腫瘤及出血，應診斷為肝細胞癌破裂。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "此題依 CT 與血管攝影附圖判讀，更新內容依既有官方答案與原解析整理；建議有原圖時再人工確認。"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-5_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題重點是「腔室症候群（compartment syndrome）的 5P 臨床表徵」。腔室症候群的 5P 徵象包含：疼痛（Pain，特別是被動牽拉痛）、感覺異常（Paresthesia）、蒼白（Pallor）、無脈搏（Pulselessness）與癱瘓（Paralysis），在某些臨床定義中亦包含壓力（Pressure）。因此，其表現應為劇烈疼痛而非無痛（Painless），選項 A 為不包括的項目，為本題正解。\n\n【選項詳解】\n- A. 正確。Compartment syndrome 的 5P 包含 pain，不包含 painless；疼痛反而是最早且重要的警訊。\n- B. 錯誤。Paresthesia 是 5P 之一，代表神經受壓或缺血。\n- C. 錯誤。Pulselessness 是晚期 5P 之一，但不能等到無脈才診斷。\n- D. 錯誤。Pressure 或 tense compartment 常用來描述腔室壓升高與腫脹緊繃。\n\n【核心考點】\n5P 包含 Pain（疼痛）、Paresthesia（麻木）、Pallor（蒼白）、Pulselessness（無脈搏）、Paralysis（癱瘓），不含 Painless。",
+      "key_point": "腔室症候群（compartment syndrome）的 5P 臨床表徵。",
+      "flashcard_front": "腔室症候群 5P / Pain vs Painless / 臨床症狀",
+      "flashcard_back": "5P 包含 Pain（疼痛）、Paresthesia（麻木）、Pallor（蒼白）、Pulselessness（無脈搏）、Paralysis（癱瘓），不含 Painless。",
+      "flashcard_summary": "腔室症候群 5P -> 腔室症候群的 5P 包括 Pain（疼痛而非無痛）、Paresthesia、Pallor、Pulselessness 及 Paralysis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題重點是「動物咬傷預防性抗生素治療後之門診複查時間與處置原則」。動物咬傷屬高感染風險傷口，若開立預防性抗生素，應安排於24至48小時內（而非3日後）門診追蹤，以密切評估傷口變化。貓咬傷因牙齒細長易造成深部穿刺傷，感染率顯著高於狗咬傷。咬傷傷口原則上不建議立即縫合以避免將病菌包覆，但臉部因血液循環佳且有美觀考量，單純表淺撕裂傷可考慮立即縫合。\n\n【選項詳解】\n- A. 適當。動物咬傷若污染或感染風險高，立即縫合可能增加感染，需依部位與風險選擇延遲閉合。\n- B. 適當。臉部血流佳且美容需求高，單純表淺傷口清創後可考慮立即縫合。\n- C. 不適當。高感染風險傷口給抗生素後通常需更早追蹤，常建議 24-48 小時複查，不宜等 3 日才回診。\n- D. 適當。貓咬傷常為深穿刺傷，Pasteurella 等感染風險通常高於狗咬傷。\n\n【核心考點】\n動物咬傷投予預防性抗生素後，應於1至2天（24-48小時）內回診；除臉部表淺傷口可考慮立即縫合外，原則上不建議立即縫合。",
+      "key_point": "動物咬傷預防性抗生素治療後之門診複查時間與處置原則",
+      "flashcard_front": "動物咬傷 / 預防性抗生素 / 門診追蹤時程 / 傷口立即縫合評估",
+      "flashcard_back": "動物咬傷投予預防性抗生素後，應於1至2天（24-48小時）內回診；除臉部表淺傷口可考慮立即縫合外，原則上不建議立即縫合。",
+      "flashcard_summary": "動物咬傷 / 預防性抗生素 -> 投予抗生素後應於24-48小時內追蹤，除臉部表淺傷口外不建議立即縫合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題重點是「安全帶壓迫導致L1 Chance fracture合併後腹腔器官受損的臨床診斷」。患者因車禍且腹壁有橫向安全帶壓痕瘀青，合併L1 Chance fracture（屈曲分離型脊椎骨折），為典型安全帶症候群。此機轉因軀幹急劇前屈，導致腹部固定於脊椎前方的後腹腔器官如十二指腸（第三部分）及胰臟，極易受到脊椎的擠壓而受損。脾臟與胃在解剖位置上較具活動性或偏向側方，受此機轉壓迫受損的機率較低。\n\n【選項詳解】\n- A. 較不像。胃位於上腹腔，安全帶傷與 L1 Chance fracture 更典型關聯是後腹腔十二指腸或胰臟傷害。\n- B. 較不像。脾臟受傷常與左上腹鈍傷相關，但 Chance fracture 特別提示屈曲壓迫造成的腸繫膜/後腹腔傷害。\n- C. 可能但非最典型。橫結腸可因安全帶傷受損，但 L1 水平後腹腔結構中十二指腸更常被考。\n- D. 正確。Chance fracture 常與安全帶屈曲傷害合併腹內或後腹腔器官損傷，十二指腸受傷是典型考點。\n\n【核心考點】\n車禍安全帶擠壓易導致L1屈曲分離型脊椎骨折，常合併脊椎前方固定之後腹腔器官（十二指腸、胰臟）壓迫受損。",
+      "key_point": "安全帶壓迫導致L1 Chance fracture合併後腹腔器官受損的臨床診斷",
+      "flashcard_front": "L1 Chance fracture / 腹壁安全帶瘀青 / 易受損器官",
+      "flashcard_back": "車禍安全帶擠壓易導致L1屈曲分離型脊椎骨折，常合併脊椎前方固定之後腹腔器官（十二指腸、胰臟）壓迫受損。",
+      "flashcard_summary": "L1 Chance fracture / 腹壁安全帶瘀青 -> 常合併十二指腸與胰臟等脊椎前方後腹腔器官壓迫受損。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題重點是「同順位家屬（子女）代為醫療決定時之法律地位與處理原則」。依據我國安寧緩和醫療條例，當末期病人昏迷無法表達意願時，成年子女為同順位之同意權人，其法律地位完全平等。子女決定權不受年齡長幼、性別或是否負擔生活費等條件影響，且不適用多數決。若家屬意見分歧，醫師應召開家族會議進行溝通協調以取得共識。\n\n【選項詳解】\n- A. 正確。同順位子女在代理醫療決定上順位相同，醫師應促進溝通或召開家庭會議取得共識。\n- B. 錯誤。長子不因年齡較大而自動優先於其他同順位子女。\n- C. 錯誤。重大醫療決定不宜單純以多數決取代溝通與病人最佳利益判斷。\n- D. 錯誤。負擔生活費不會使長子在同順位代理決定中取得法律上的優先權。\n\n【核心考點】\n成年子女為同順位醫療決定者，法律地位平等，無性別、年齡或經濟優先權，意見分歧時應召開家族會議協調共識。",
+      "key_point": "同順位家屬（子女）代為醫療決定時之法律地位與處理原則",
+      "flashcard_front": "末期昏迷病人 / 同順位家屬決定 / 意見分歧處置",
+      "flashcard_back": "成年子女為同順位醫療決定者，法律地位平等，無性別、年齡或經濟優先權，意見分歧時應召開家族會議協調共識。",
+      "flashcard_summary": "同順位家屬意見分歧 -> 子女決定權法律地位平等，應透過家族會議協調共識，不適用多數決。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題重點是「身分不明且預後極差患者心跳停止時之合理急救原則」。面對無名氏且無家屬在場之急症患者，心跳停止時應給予常規急救以保障生命。但若患者已處於預後極差的病況（如瀰漫性顱內出血、昏迷指數3分），應進行醫學常規之合理急救時間（約30分鐘至1小時），無效即可停止。不應為了等待家屬趕到而無限延長急救，亦不能完全不予急救，以兼顧醫療倫理與患者尊嚴。\n\n【選項詳解】\n- A. 不適當。無家屬時仍需依醫療專業與病人利益急救，但不必無限期急救到家屬出現。\n- B. 正確。身分不明且預後極差者心跳停止，應先給予合理時間急救，約 30 分鐘至 1 小時後依醫療判斷停止。\n- C. 不適當。不能只因家屬需 2 小時到院而延長無效急救至 2 小時。\n- D. 不適當。病人心跳停止時仍應先進行必要急救，不能因無身分資料而完全不救。\n\n【核心考點】\n應啟動常規急救，若無效則進行合理時間（約30至60分鐘）後停止，避免無限制施予無效醫療。",
+      "key_point": "身分不明且預後極差患者心跳停止時之合理急救原則",
+      "flashcard_front": "無名氏路倒 / 預後極差心跳停止 / 急救時程原則",
+      "flashcard_back": "應啟動常規急救，若無效則進行合理時間（約30至60分鐘）後停止，避免無限制施予無效醫療。",
+      "flashcard_summary": "無名氏心跳停止急救時程 -> 進行合理時間（約30-60分鐘）常規急救，無效即可停止，不因家屬未到而無限延長。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-5_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題重點是「醫療法中關於手術前說明與同意書簽具之主體規定」。依據我國《醫療法》第63條規定，實施手術前說明之法律主體為「醫療機構」，法條原文中並未明文限制「說明需由具醫師身分者為之」。說明的對象可為病人或其法定代理人、配偶、親屬或關係人，內容應包含手術原因、成功率、併發症與危險，但情況緊急者不在此限。雖然法律主體為醫療機構，實務上仍多由主刀醫師進行專業解說。\n\n【選項詳解】\n- A. 錯誤。手術說明不限定只能由具醫師身分者為之；醫療法重點是醫療機構或醫師需確保適當說明與同意程序。\n- B. 正確。說明對象包含病人本人，或依法得代為同意的法定代理人、配偶、親屬或關係人。\n- C. 正確。手術說明應包含手術原因、成功率、可能併發症與危險等重要資訊。\n- D. 正確。手術與麻醉原則上需同意書；情況緊急時為維護生命健康可例外處理。\n\n【核心考點】\n醫療法規定說明主體為「醫療機構」而非限定醫師個人；說明內容含原因、成功率及併發症，緊急情況可免除說明與簽署。",
+      "key_point": "醫療法中關於手術前說明與同意書簽具之主體規定",
+      "flashcard_front": "醫療法第63條 / 手術前說明主體 / 法定說明內容",
+      "flashcard_back": "醫療法規定說明主體為「醫療機構」而非限定醫師個人；說明內容含原因、成功率及併發症，緊急情況可免除說明與簽署。",
+      "flashcard_summary": "醫療法手術前說明 -> 法律主體為「醫療機構」（法條未明文限醫師個人），緊急情況下不受手術前說明限制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
