@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-6.json",
+  "dataset_id": "109-1_medicine-6",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n雙胞胎 A 羊水過多且較大、雙胞胎 B 羊水過少且較小，典型符合 twin-twin transfusion syndrome。捐贈者常羊水少、貧血與生長受限；受贈者常羊水多、紅血球增多或心衰竭風險。\n\n【選項詳解】\n- A. 錯誤。羊水過多通常發生在受贈者，捐贈者因尿量少常羊水過少。\n- B. 錯誤。捐贈者可有貧血，但不是典型溶血性貧血；機轉是胎盤血管吻合造成血流轉移。\n- C. 錯誤。紅血球增多較常見於受贈者，捐贈者較可能貧血。\n- D. 正確。超音波可見 donor 與 recipient 體重、羊水量、膀胱大小等 phenotype 差異。\n\n【核心考點】\nTTTS：donor 小、貧血、羊水少；recipient 大、polycythemia、羊水多與心臟負荷。",
+      "key_point": "TTTS 可由超音波觀察 donor/recipient phenotype 差異。",
+      "flashcard_front": "TTTS donor vs recipient",
+      "flashcard_back": "Donor：oligohydramnios、貧血、生長受限；recipient：polyhydramnios、polycythemia。",
+      "flashcard_summary": "Twin-twin transfusion -> ultrasound phenotype discordance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n35 週子癲前症且血壓 172/116 mmHg、尿蛋白 3+、體重快速增加，屬 severe features，需要住院評估與治療，不能只門診追蹤。\n\n【選項詳解】\n- A. 錯誤。嚴重高血壓不能只治療後門診追蹤，需要住院監測母胎狀況。\n- B. 錯誤。只評估胎兒而門診追蹤會忽略母體 severe preeclampsia 風險。\n- C. 錯誤。雖然需同時處理血壓與胎兒評估，但 severe range blood pressure 應住院，不適合門診追蹤。\n- D. 正確。立即住院可控制血壓、給予 magnesium sulfate 評估、監測胎兒並規劃分娩時機。\n\n【核心考點】\nPreeclampsia with severe-range BP 是住院處理警訊，需母胎監測與治療。",
+      "key_point": "子癲前症合併 172/116 mmHg 應立即住院治療。",
+      "flashcard_front": "Severe preeclampsia management",
+      "flashcard_back": "Severe-range BP 或症狀需住院控制血壓、預防抽搐並評估分娩。",
+      "flashcard_summary": "Preeclampsia severe features -> inpatient management。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nBurch colposuspension 會將陰道旁筋膜懸吊到 iliopectineal ligament，也就是 Cooper's ligament。官方圖中標示 C 為 Cooper's ligament。\n\n【選項詳解】\n- A. 錯誤。標示 A 不是官方答案所指 Cooper's ligament。\n- B. 錯誤。標示 B 不是 iliopectineal ligament 的位置。\n- C. 正確。Cooper's ligament 位於恥骨上支後方的堅韌骨膜韌帶，是 Burch colposuspension 懸吊縫合固定點。\n- D. 錯誤。標示 D 不是本題所問 Cooper's ligament。\n\n【核心考點】\nBurch 手術的固定點是 Cooper's ligament；圖像題需辨識恥骨後空間的解剖標示。",
+      "key_point": "Laparoscopic Burch colposuspension 中 Cooper's ligament 為圖中 C。",
+      "flashcard_front": "Burch colposuspension Cooper's ligament",
+      "flashcard_back": "固定於 iliopectineal/Cooper's ligament；本圖標示 C。",
+      "flashcard_summary": "Burch colposuspension -> Cooper ligament fixation point = C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": [
+        "圖像題：未直接檢視原圖，依官方答案與手術解剖撰寫。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題問早期懷孕何者錯誤。MTX 治療與 salpingostomy 都有再次外孕風險，但不能說 MTX 比 salpingostomy 尤高；治療選擇取決於穩定度、hCG、腫塊大小與生育考量。\n\n【選項詳解】\n- A. 正確。骨盆腔發炎會傷害輸卵管，是子宮外孕重要危險因子。\n- B. 錯誤。MTX 並不會比 salpingostomy 特別造成更高再次外孕風險；輸卵管原本病變才是復發風險重點。\n- C. 正確。早期正常子宮內懷孕 hCG 約每 48 小時明顯上升，傳統常用至少增加約 66% 作為參考。\n- D. 正確。hCG 高於 discriminatory zone 且 48 小時上升不足，胚胎存活或正常子宮內懷孕機會降低，需要警覺。\n\n【核心考點】\n子宮外孕危險因子是輸卵管受損；hCG 趨勢可協助判斷早期懷孕是否正常。",
+      "key_point": "MTX 治療子宮外孕不代表再次外孕風險必然高於 salpingostomy。",
+      "flashcard_front": "Ectopic pregnancy risk and hCG trend",
+      "flashcard_back": "PID 是危險因子；正常早孕 hCG 48 小時應明顯上升；B 敘述過度武斷。",
+      "flashcard_summary": "Early pregnancy -> PID risk; hCG trend; MTX does not inherently raise recurrent ectopic more than salpingostomy。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n子宮內膜異位症可由症狀、內診、超音波或 CA-125 懷疑，但確定診斷需腹腔鏡直接觀察病灶並切片病理確認。\n\n【選項詳解】\n- A. 錯誤。超音波可偵測 endometrioma 等病灶，但不能作為所有內膜異位症的確診。\n- B. 錯誤。內診壓痛、子宮後傾或結節只能支持診斷。\n- C. 錯誤。CA-125 可升高但特異性不足，也可受月經、發炎或其他腫瘤影響。\n- D. 正確。腹腔鏡下病灶切片病理是確定診斷方式。\n\n【核心考點】\nEndometriosis 的 gold standard 是 laparoscopic visualization with biopsy。",
+      "key_point": "子宮內膜異位症確診需腹腔鏡下切片。",
+      "flashcard_front": "Definitive diagnosis of endometriosis",
+      "flashcard_back": "腹腔鏡直接觀察並切片病理確認。",
+      "flashcard_summary": "Endometriosis -> definitive diagnosis = laparoscopy + biopsy。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n卵巢上皮癌病理中，clear cell 與 endometrioid 常和 endometriosis 相關；endometrioid 可合併子宮內膜癌。大量 psammoma bodies 典型見於漿液性腫瘤，不能代表預後極差。\n\n【選項詳解】\n- A. 正確。Endometriosis 相關卵巢癌常見 clear cell 與 endometrioid subtype。\n- B. 正確。Endometrioid ovarian carcinoma 較可能與同步子宮內膜癌相關。\n- C. 正確。卵巢 clear cell carcinoma 在分級系統中常視為高級別或不再細分低級別。\n- D. 錯誤。Psammoma body 是漿液性腫瘤常見鈣化結構，不能以大量存在就推論預後極差。\n\n【核心考點】\nPsammoma bodies 是 serous tumor 常見病理線索，不等於預後極差；endometriosis 關聯 clear cell/endometrioid。",
+      "key_point": "漿液性卵巢癌的 psammoma body 不代表預後極差。",
+      "flashcard_front": "Epithelial ovarian cancer pathology: psammoma body",
+      "flashcard_back": "Psammoma body 常見於 serous tumor，是診斷線索而非極差預後指標。",
+      "flashcard_summary": "Ovarian epithelial cancer -> endometriosis linked clear cell/endometrioid; psammoma body not poor prognosis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n題幹描述 large round/ovoid/polygonal cells、clear pale cytoplasm、large irregular nuclei、prominent nucleoli，是 dysgerminoma 的典型病理形態。\n\n【選項詳解】\n- A. 錯誤。Sertoli-Leydig cell tumor 屬 sex cord-stromal tumor，常有男性化表現與不同組織型態。\n- B. 正確。Dysgerminoma 細胞大、胞質清亮、核仁明顯，類似 seminoma。\n- C. 錯誤。Adult granulosa cell tumor 常見 Call-Exner bodies 與 coffee-bean nuclei。\n- D. 錯誤。Endodermal sinus tumor 常見 Schiller-Duval bodies，AFP 升高。\n\n【核心考點】\nDysgerminoma 病理像 seminoma：大細胞、清亮胞質、明顯核仁；yolk sac tumor 看 Schiller-Duval bodies。",
+      "key_point": "大圓形清亮胞質且核仁明顯的卵巢生殖細胞腫瘤是 dysgerminoma。",
+      "flashcard_front": "Dysgerminoma histology",
+      "flashcard_back": "Large polygonal cells, clear cytoplasm, prominent nucleoli。",
+      "flashcard_summary": "Ovarian germ cell tumor -> dysgerminoma histology。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n卵巢濾泡期對應子宮內膜增生期；排卵後黃體期因黃體素作用，對應子宮內膜分泌期。因此把黃體期說成增生期是錯誤。\n\n【選項詳解】\n- A. 正確。濾泡期雌激素上升，促進子宮內膜增生。\n- B. 錯誤。黃體期對應分泌期，不是增生期。\n- C. 正確。黃體期由 progesterone 主導，使內膜進入 secretory phase。\n- D. 正確。排卵後顆粒細胞黃體化，製造並分泌 progesterone。\n\n【核心考點】\n月經週期配對：follicular = proliferative；luteal = secretory。",
+      "key_point": "卵巢黃體期對應子宮內膜分泌期，不是增生期。",
+      "flashcard_front": "Ovarian cycle vs endometrial cycle",
+      "flashcard_back": "Follicular-proliferative；luteal-secretory。",
+      "flashcard_summary": "Menstrual cycle -> follicular/proliferative; luteal/secretory。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n兩細胞兩性腺激素理論：LH 刺激 theca cells 製造 androgen，FSH 刺激 granulosa cells 的 aromatase 將 androgen 轉成 estrogen。\n\n【選項詳解】\n- A. 正確。主要性類固醇皆由 cholesterol 合成。\n- B. 錯誤。Theca cells 製造 androgen 主要受 LH 刺激，不是 FSH。\n- C. 正確。Granulosa cells 在 FSH 刺激下表現 aromatase，把 androgen 轉為 estrogen。\n- D. 正確。Progesterone 為 C21、androgen 為 C19、estrogen 為 C18 steroid。\n\n【核心考點】\nTwo-cell two-gonadotropin：LH-theca-androgen；FSH-granulosa-aromatase-estrogen。",
+      "key_point": "Theca cell 製造 androgen 受 LH 刺激，不是 FSH。",
+      "flashcard_front": "Steroidogenesis two-cell theory",
+      "flashcard_back": "LH 刺激 theca 做 androgen；FSH 刺激 granulosa aromatase 做 estrogen。",
+      "flashcard_summary": "Steroidogenesis -> B wrong: theca androgen is LH-driven。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\nhCG 是 glycoprotein/peptide hormone，作用於細胞膜上的 LH/hCG receptor，屬 G protein-coupled receptor；不是細胞核受體。\n\n【選項詳解】\n- A. 正確。多數 steroid hormones 可穿過細胞膜，受體位於細胞質或細胞核並調控基因表現。\n- B. 正確。Peptide hormones 通常不能穿過脂質膜，受體在細胞膜。\n- C. 錯誤。hCG 受體在細胞膜上，不在細胞核中。\n- D. 正確。Thyroid hormone 進入細胞後作用於核內受體，調控基因轉錄。\n\n【核心考點】\nPeptide/glycoprotein hormone 用細胞膜受體；steroid 與 thyroid hormone 多用細胞內或核內受體。",
+      "key_point": "hCG receptor 位於細胞膜，不在細胞核。",
+      "flashcard_front": "Hormone receptor location: hCG",
+      "flashcard_back": "hCG 是 glycoprotein hormone，受體在細胞膜 LH/hCG receptor。",
+      "flashcard_summary": "Hormone receptors -> hCG membrane receptor; thyroid/steroid nuclear/intracellular。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

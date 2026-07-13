@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-6.json",
+  "dataset_id": "109-1_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題考的是全身麻醉誘導前對困難通氣或困難氣道的預測。題幹問「最不可能」，因此官方答案 A 是指風濕性心臟病本身不是典型困難通氣預測因子；其餘選項都可能因上呼吸道、頸椎或睡眠呼吸障礙增加通氣或插管難度。\n\n【選項詳解】\n- A. 正確。風濕性心臟病主要影響心臟瓣膜、肺高壓或心衰竭風險，會影響麻醉風險評估，但不是典型的困難面罩通氣或困難插管解剖預測因子。\n- B. 錯誤。唐氏症常有巨舌、上呼吸道狹窄、低張力與頸椎不穩定，麻醉前應預期可能通氣或插管較困難。\n- C. 錯誤。類風濕性關節炎可能造成顳顎關節活動受限、環杓關節或頸椎受累，特別是寰樞椎不穩定，會增加氣道處置風險。\n- D. 錯誤。阻塞性睡眠呼吸中止症常與肥胖、上呼吸道塌陷及困難面罩通氣相關，是麻醉氣道評估的重要警訊。\n\n【核心考點】\n困難氣道評估重點是口咽構造、頸椎活動度、睡眠呼吸障礙與顳顎關節等因素；單純風濕性心臟病不是典型困難通氣預測因子。",
+      "key_point": "困難通氣常見風險包括 Down syndrome、類風濕頸椎或顳顎關節受限、OSA；風濕性心臟病本身不是典型氣道因子。",
+      "flashcard_front": "困難通氣預測因子：Down syndrome / RA / OSA / 風濕性心臟病",
+      "flashcard_back": "最不典型的是風濕性心臟病；它影響麻醉心血管風險，但不是主要困難氣道解剖因子。",
+      "flashcard_summary": "困難氣道評估 -> 看上呼吸道與頸椎等解剖風險；風濕性心臟病非典型氣道風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\nPulse oximetry 以紅光與紅外光吸收差異估算動脈血氧飽和度，最核心的物理基礎是 oxyhemoglobin 與 deoxyhemoglobin 在 660 nm 與 940 nm 的吸收不同。\n\n【選項詳解】\n- A. 錯誤。SpO2 是連續、非侵入性監測，但指甲油、低灌流、動作、環境光與異常血紅素都可能干擾讀值。\n- B. 正確。O2Hb 與 deO2Hb 對紅光 660 nm 與紅外光 940 nm 的吸收比例不同，儀器利用脈動性動脈血訊號計算 SpO2。\n- C. 錯誤。一氧化碳血紅素會被傳統 pulse oximeter 誤判為氧合血紅素，使 SpO2 假性偏高，而不是低於 SaO2。\n- D. 錯誤。SpO2 大於 90% 不保證組織一定無缺氧；貧血、休克、CO 中毒或局部灌流不良仍可能造成組織缺氧。\n\n【核心考點】\nPulse oximetry 反映的是脈動動脈血中 O2Hb/deO2Hb 的光吸收估算值，會受 COHb、低灌流與外界干擾影響，不能等同於完整組織氧合評估。",
+      "key_point": "Pulse oximetry 使用 660 nm 紅光與 940 nm 紅外光區分 O2Hb 與 deO2Hb。",
+      "flashcard_front": "Pulse oximetry 原理與限制",
+      "flashcard_back": "正確原理是 O2Hb/deO2Hb 對 660 nm 與 940 nm 光吸收不同；COHb 會讓傳統 SpO2 假性偏高。",
+      "flashcard_summary": "SpO2 -> 光吸收估算血氧；COHb、低灌流、指甲油與動作會造成誤差。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問 pacemaker 病人麻醉前與術中處置何者錯誤。電燒可能造成電磁干擾，磁鐵能否改變 pacing 模式取決於裝置種類與設定，不能保證完全避免干擾或危害。\n\n【選項詳解】\n- A. 正確。非心臟手術前應確認 pacemaker 類型、適應症、電池、依賴程度與最近檢查結果，必要時請心臟電生理團隊評估。\n- B. 錯誤。磁鐵通常可能使部分 pacemaker 進入非同步 pacing，但反應依廠牌與設定不同，也不能完全消除電燒干擾，因此不能說「即可完全避免」。\n- C. 正確。心電圖濾波可能讓 pacing spike 不明顯；術中應確保監測能辨識 pacing 與實際脈搏反應。\n- D. 正確。除 ECG 外，還要用 pulse oximetry 或動脈壓波形確認機械性心搏，避免只看到電訊號卻沒有有效灌流。\n\n【核心考點】\nPacemaker 麻醉管理的陷阱是不能把磁鐵當成萬能保護；術前裝置評估、電燒策略與機械性脈搏監測都很重要。",
+      "key_point": "磁鐵不能保證完全避免 pacemaker 術中電燒干擾，反應取決於裝置設定。",
+      "flashcard_front": "Pacemaker + 電燒 + 磁鐵",
+      "flashcard_back": "磁鐵反應不固定，不能保證完全避免 EMI；需術前查裝置並監測有效脈搏。",
+      "flashcard_summary": "Pacemaker 麻醉 -> 磁鐵不是萬能；術前裝置確認與術中有效灌流監測是重點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\nMidazolam 是 benzodiazepine，過量造成鎮靜與呼吸抑制時，特異性拮抗劑是 flumazenil，作用在 GABA-A receptor 的 benzodiazepine binding site。\n\n【選項詳解】\n- A. 正確。Flumazenil 是 benzodiazepine receptor antagonist，可逆轉 midazolam 等 benzodiazepine 的鎮靜與呼吸抑制，但使用時要注意癲癇或長期使用者戒斷風險。\n- B. 錯誤。Dexmedetomidine 是 alpha-2 agonist，用於鎮靜與止痛輔助，不是 benzodiazepine 拮抗劑。\n- C. 錯誤。Ketamine 主要是 NMDA receptor antagonist，具有解離性麻醉與止痛效果，不會拮抗 midazolam。\n- D. 錯誤。Naloxone 是 opioid receptor antagonist，用於嗎啡、fentanyl 等 opioid 過量，不是 midazolam 的解毒劑。\n\n【核心考點】\n解毒劑配對要記牢：benzodiazepine 對 flumazenil；opioid 對 naloxone。",
+      "key_point": "Midazolam 過量的特異性拮抗劑是 flumazenil。",
+      "flashcard_front": "Midazolam overdose antidote",
+      "flashcard_back": "Flumazenil 拮抗 benzodiazepine 受體；naloxone 是 opioid 拮抗劑。",
+      "flashcard_summary": "麻醉解毒劑 -> benzodiazepine: flumazenil；opioid: naloxone。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問 opioids 何者錯誤。嗎啡造成呼吸抑制主要與 mu receptor 作用相關，不是 kappa receptor。\n\n【選項詳解】\n- A. 正確。傳統分類可提到 mu、kappa、delta 等 opioid receptors；sigma 現代多不再視為典型 opioid receptor，但舊式考題常列入歷史分類。\n- B. 正確。典型 opioid receptors 屬於 G protein-coupled receptors，活化後抑制 adenylate cyclase、減少鈣離子流入並增加鉀離子外流。\n- C. 錯誤。嗎啡的鎮痛、欣快與呼吸抑制主要經由 mu receptor，kappa receptor 較與脊髓鎮痛、鎮靜與 dysphoria 相關。\n- D. 正確。Naloxone 是 opioid receptor antagonist，可快速逆轉 opioid 引起的呼吸抑制。\n\n【核心考點】\nOpioid 高頻考點：mu receptor 負責主要鎮痛與呼吸抑制；naloxone 是拮抗劑；opioid receptors 是 GPCR。",
+      "key_point": "嗎啡呼吸抑制主要經 mu receptor，不是 kappa receptor。",
+      "flashcard_front": "Opioid receptor：morphine respiratory depression",
+      "flashcard_back": "Morphine 的呼吸抑制主要是 mu receptor；naloxone 可逆轉 opioid 作用。",
+      "flashcard_summary": "Opioid pharmacology -> mu: 鎮痛與呼吸抑制；naloxone: antagonist。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問 ASA 預防術中周邊神經損傷建議何者不是。Lithotomy 過度牽拉腿後肌群主要可能牽涉坐骨神經或腓總神經張力，股神經較常與髖過度屈曲、外展、外旋或腹股溝壓迫相關。\n\n【選項詳解】\n- A. 正確。術前確認病人能否忍受預期擺位，可提早發現關節活動受限、神經病變或疼痛風險。\n- B. 正確。側臥時適當 chest roll 可減少腋窩與臂叢壓迫，降低上肢神經受損風險。\n- C. 錯誤。Lithotomy 過度拉扯 hamstring 更容易牽涉坐骨神經張力；股神經傷害通常與髖部過度屈曲、外展、外旋或腹股溝區壓迫有關。\n- D. 正確。手肘屈曲會增加 cubital tunnel 壓力，可能增加尺神經受壓風險。\n\n【核心考點】\n手術擺位神經傷害要把神經與姿勢配對：手肘屈曲傷尺神經、側臥腋窩壓迫傷臂叢、lithotomy 牽拉常牽涉坐骨或腓總神經。",
+      "key_point": "Lithotomy 過度拉扯 hamstring 不是典型股神經損傷機轉。",
+      "flashcard_front": "ASA positioning nerve injury：lithotomy / ulnar / brachial plexus",
+      "flashcard_back": "Lithotomy hamstring traction 較牽涉坐骨神經；股神經多與髖屈曲外展外旋或腹股溝壓迫有關。",
+      "flashcard_summary": "術中擺位 -> 神經損傷取決於壓迫或牽拉位置；C 的股神經配對不當。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題問 preeclampsia 何者錯誤。Methylergonovine 會造成血管收縮、升高血壓，子癲前症或高血壓病人產後促進子宮收縮時不應照一般常規使用。\n\n【選項詳解】\n- A. 正確。妊娠 20 週後新發高血壓合併蛋白尿，是典型子癲前症診斷框架。\n- B. 正確。嚴重高血壓會增加腦出血、肺水腫、凝血異常等風險；收縮壓達 160 mmHg 屬 severe range，需積極控制。\n- C. 正確。Magnesium sulfate 用於預防或治療子癲抽搐，並會增強非去極化肌肉鬆弛劑作用，插管麻醉時需調整劑量與監測。\n- D. 錯誤。Methylergonovine 具血管收縮與升壓作用，子癲前症或高血壓患者應避免常規使用，以免血壓惡化。\n\n【核心考點】\n子癲前症產婦要避免會升高血壓的 uterotonic；methylergonovine 是常考禁忌，magnesium sulfate 會增強肌鬆作用。",
+      "key_point": "Preeclampsia 產後不宜常規使用 methylergonovine，因其可升高血壓。",
+      "flashcard_front": "Preeclampsia：uterotonic 禁忌與 magnesium sulfate",
+      "flashcard_back": "Methylergonovine 會血管收縮升壓，preeclampsia 應避免；MgSO4 會增強非去極化肌鬆。",
+      "flashcard_summary": "Preeclampsia -> severe BP 要治療；MgSO4 防抽搐；methylergonovine 會升壓不適合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\nPregabalin 是 gabapentinoid，主要結合電壓依賴性鈣離子通道的 alpha-2-delta subunit，減少興奮性神經傳遞物質釋放而止痛。\n\n【選項詳解】\n- A. 錯誤。Sodium channel blocker 是局部麻醉藥、部分抗癲癇藥等常見機轉，不是 pregabalin 的主要靶點。\n- B. 正確。Pregabalin 作用於 voltage-gated calcium channel 的 alpha-2-delta subunit，常用於神經病變痛。\n- C. 錯誤。Chloride channel 與 GABA-A receptor 相關藥物較有關，pregabalin 雖名稱類似 GABA，但不直接活化 GABA receptor 或 chloride channel。\n- D. 錯誤。Potassium channel opener 不是 pregabalin 的主要止痛機轉。\n\n【核心考點】\nPregabalin/gabapentin 的考點是 alpha-2-delta calcium channel subunit，不是 sodium channel 或 GABA receptor。",
+      "key_point": "Pregabalin 作用於 voltage-gated calcium channel 的 alpha-2-delta subunit。",
+      "flashcard_front": "Pregabalin analgesic mechanism",
+      "flashcard_back": "Pregabalin 結合鈣離子通道 alpha-2-delta subunit，減少神經傳遞物質釋放。",
+      "flashcard_summary": "Pregabalin -> calcium channel alpha-2-delta -> neuropathic pain。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問最不適合拔管的 weaning 指標。RSBI = 呼吸頻率/潮氣容積，數值越高代表淺快呼吸、脫離呼吸器失敗風險越高；大於 105 通常不適合拔管。\n\n【選項詳解】\n- A. 錯誤。Tidal volume >5 mL/kg、vital capacity >10 mL/kg 是可接受的呼吸力學條件，支持嘗試拔管。\n- B. 正確。RSBI >105 表示呼吸淺快，預測 weaning failure，最不適合考慮拔管。\n- C. 錯誤。最大吸氣壓力小於 -25 cmH2O 代表吸氣肌力足夠，是較有利的拔管條件。\n- D. 錯誤。在 FiO2 40-50%、PEEP <5 cmH2O 下 SaO2 >90%，代表氧合條件大致可接受。\n\n【核心考點】\n拔管前要看氧合、通氣、呼吸肌力與 RSBI；RSBI >105 是常考的拔管失敗指標。",
+      "key_point": "RSBI >105 代表淺快呼吸，預測脫離呼吸器失敗。",
+      "flashcard_front": "Weaning/extubation：RSBI cutoff",
+      "flashcard_back": "RSBI >105 最不適合拔管；MIP < -25、TV >5 mL/kg、低 FiO2/PEEP 下氧合可接受較有利。",
+      "flashcard_summary": "Weaning criteria -> RSBI 高代表失敗風險；>105 不適合拔管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\nRetinitis pigmentosa 的典型三徵是 bone-spicule pigmentation、waxy pallor of optic disc、retinal arteriole attenuation；macular edema 可見但不是 classical triad。\n\n【選項詳解】\n- A. 錯誤。骨刺狀黑色素沉積是 retinitis pigmentosa 的典型眼底表現之一。\n- B. 錯誤。視神經盤蠟樣蒼白也是典型三徵之一。\n- C. 錯誤。視網膜小動脈變細是典型三徵之一。\n- D. 正確。黃斑部水腫可作為併發表現影響中央視力，但不屬於 classical triad。\n\n【核心考點】\nRP classical triad：bone-spicule pigmentation、waxy disc pallor、arteriolar attenuation；不要把 macular edema 放進三徵。",
+      "key_point": "Retinitis pigmentosa 典型三徵不包含 macular edema。",
+      "flashcard_front": "Retinitis pigmentosa classical triad",
+      "flashcard_back": "Bone-spicule pigmentation、waxy optic disc pallor、arteriolar attenuation；不含 macular edema。",
+      "flashcard_summary": "RP -> 三徵是骨刺色素、視神經蒼白、小動脈變細。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

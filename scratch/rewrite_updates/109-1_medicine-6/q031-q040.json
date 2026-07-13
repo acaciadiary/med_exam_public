@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-6.json",
+  "dataset_id": "109-1_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n噴乳反射是嬰兒吸吮刺激造成後葉腦下垂體釋放 oxytocin，使乳腺周圍 myoepithelial cells 收縮，把乳汁推出乳管。\n\n【選項詳解】\n- A. 錯誤。Prolactin 主要促進乳汁製造，不是立即噴乳反射的收縮激素。\n- B. 正確。Oxytocin 使乳腺肌上皮細胞收縮，造成 milk ejection 或 let-down reflex。\n- C. 錯誤。Prostaglandin 與子宮收縮、發炎等相關，不是噴乳反射主因。\n- D. 錯誤。Dopamine 會抑制 prolactin 分泌，不會引起噴乳反射。\n\n【核心考點】\n泌乳兩激素：prolactin 產奶，oxytocin 噴奶。",
+      "key_point": "Milk ejection reflex 由 oxytocin 引起。",
+      "flashcard_front": "Milk production vs milk ejection",
+      "flashcard_back": "Prolactin 產奶；oxytocin 使肌上皮細胞收縮而噴乳。",
+      "flashcard_summary": "Lactation -> prolactin production, oxytocin ejection。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\nNST 判讀看胎心率是否隨胎動出現足夠 acceleration。官方答案為 nonreactive，表示圖中胎動後未出現符合週數標準的足夠加速。\n\n【選項詳解】\n- A. 錯誤。Early deceleration 是子宮收縮時胎心率下降且與收縮同步，常與頭部受壓相關，不是 NST 胎動反應判讀。\n- B. 錯誤。Late deceleration 是收縮後延遲下降，提示 uteroplacental insufficiency，題幹提示 FM 胎動，重點是 reactive/nonreactive。\n- C. 錯誤。Reactive NST 需在一定時間內有足夠 fetal movement-associated acceleration；圖中未達標準。\n- D. 正確。Nonreactive 表示未觀察到足夠胎心加速，需延長監測或進一步評估。\n\n【核心考點】\nNST 的重點是胎動後胎心加速；未達 acceleration 標準即 nonreactive。",
+      "key_point": "NST 若胎動後無足夠 fetal heart rate acceleration，判讀為 nonreactive。",
+      "flashcard_front": "NST reactive vs nonreactive",
+      "flashcard_back": "Reactive 要有符合標準的胎心加速；沒有足夠 acceleration 是 nonreactive。",
+      "flashcard_summary": "NST -> fetal movement + acceleration; absent = nonreactive。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": [
+        "圖像題：說明依官方答案與 NST 判讀原則撰寫，建議人工確認圖中胎心加速幅度。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\nBiophysical profile 的 fetal breathing movement 項目：30 分鐘內至少一次持續 30 秒以上的胎兒呼吸運動即可得 2 分；本題有五次且每次 30 秒以上。\n\n【選項詳解】\n- A. 錯誤。0 分是未達一次 30 秒以上胎兒呼吸運動。\n- B. 錯誤。BPP 各項通常以 0 或 2 分計，不給 1 分。\n- C. 正確。30 分鐘內至少一次持續 30 秒以上即可得 2 分，本題明顯符合。\n- D. 錯誤。BPP 單項最高為 2 分，不是 3 分。\n\n【核心考點】\nBPP 單項多為 0 或 2 分；胎兒呼吸在 30 分鐘內有一次持續 30 秒以上即 2 分。",
+      "key_point": "BPP fetal breathing：30 分鐘內至少一次 >=30 秒，得 2 分。",
+      "flashcard_front": "BPP fetal breathing score",
+      "flashcard_back": "30 分鐘內至少一次持續 30 秒以上胎兒呼吸運動 = 2 分。",
+      "flashcard_summary": "BPP breathing -> >=1 episode lasting >=30 sec = 2 points。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n女性尿失禁最常見類型通常是 stress urinary incontinence，因腹壓增加時尿道支持不足或括約肌功能不足而漏尿。\n\n【選項詳解】\n- A. 錯誤。Urge incontinence 與逼尿肌過動相關，常見但不是女性整體最常見類型。\n- B. 正確。Stress incontinence 是女性最常見尿失禁，咳嗽、打噴嚏、運動等腹壓增加時漏尿。\n- C. 錯誤。Mixed incontinence 同時有 stress 與 urge 成分，但不是題目所問最常見單一類型。\n- D. 錯誤。Overflow incontinence 多與尿滯留、神經病變或阻塞相關，在女性較少見。\n\n【核心考點】\n女性尿失禁最常見是 stress incontinence；關鍵字是腹壓增加時漏尿。",
+      "key_point": "女性最常見 urinary incontinence 是 stress urinary incontinence。",
+      "flashcard_front": "Most common female urinary incontinence",
+      "flashcard_back": "Stress incontinence：咳嗽、打噴嚏、運動等腹壓增加時漏尿。",
+      "flashcard_summary": "Female UI -> most common stress incontinence。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n敗血症造成 alveolar-capillary membrane 通透性增加，引起非心因性肺水腫與嚴重低氧，典型稱為 acute respiratory distress syndrome (ARDS)。\n\n【選項詳解】\n- A. 錯誤。Pulmonary edema 是廣義肺水腫，未指出敗血症造成的瀰漫性肺泡微血管損傷症候群。\n- B. 錯誤。Pulmonary hypertension 是肺血管壓力升高，不是本題描述的通透性肺損傷。\n- C. 錯誤。Respiratory permeability defect 不是標準臨床診斷名稱。\n- D. 正確。ARDS 可由敗血症、吸入、創傷等引起，核心是肺泡微血管屏障受損、通透性增加與低氧。\n\n【核心考點】\n敗血症後微血管通透性增加造成非心因性肺水腫，要想到 ARDS。",
+      "key_point": "敗血症造成 alveolar-capillary membrane injury 與通透性增加是 ARDS。",
+      "flashcard_front": "Sepsis + alveolar-capillary permeability lung complication",
+      "flashcard_back": "Acute respiratory distress syndrome (ARDS)。",
+      "flashcard_summary": "Sepsis lung complication -> increased permeability -> ARDS。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n精液檢查發現無精蟲症時，需先確認結果，因檢體、禁慾時間或暫時性因素會影響判讀；因此最佳初步做法是說明原因並重複精液檢查或搭配抽血評估。\n\n【選項詳解】\n- A. 正確。無精蟲症應至少重複精液分析確認，並依情況做 FSH、LH、testosterone 等評估。\n- B. 錯誤。睪丸切片可用於後續鑑別阻塞性或非阻塞性，但不是第一次發現後立即最佳做法。\n- C. 錯誤。ICSI 是治療選項之一，需先釐清是否有可取得精子與病因。\n- D. 錯誤。領養不是唯一選擇；阻塞性或部分非阻塞性無精蟲症仍可能透過取精與輔助生殖。\n\n【核心考點】\n男性不孕看到 azoospermia 要先重複確認與內分泌評估，再談侵入性檢查或治療。",
+      "key_point": "無精蟲症初步應重複精液檢查並評估可能原因。",
+      "flashcard_front": "Initial management of azoospermia",
+      "flashcard_back": "先重複精液分析與抽血評估，不是直接睪丸切片或 ICSI。",
+      "flashcard_summary": "Azoospermia -> confirm with repeat semen analysis + hormonal workup。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n無月經不是 2 個月沒來即可定義。臨床常以原發性或次發性無月經定義，次發性常為原本規則月經停止至少 3 個月，或不規則月經停止至少 6 個月。\n\n【選項詳解】\n- A. 錯誤。2 個月未來不足以作為標準 amenorrhea 定義。\n- B. 正確。評估無月經第一步必須先排除懷孕。\n- C. 正確。解剖結構異常可造成無月經，但相對於懷孕、下視丘-腦下垂體-卵巢軸與內分泌原因比例較少。\n- D. 正確。高泌乳血症會抑制 GnRH，造成排卵障礙與無月經。\n\n【核心考點】\n無月經評估第一步是驗孕；定義不是單純 2 個月沒來。",
+      "key_point": "Amenorrhea 不定義為 2 個月月經沒來；需先排除懷孕。",
+      "flashcard_front": "Amenorrhea definition and first step",
+      "flashcard_back": "不是 2 個月沒來；評估第一步先驗孕，高泌乳血症可造成無月經。",
+      "flashcard_summary": "Amenorrhea -> rule out pregnancy first; 2 months is not standard definition。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\nClomiphene citrate 透過抗雌激素作用增加 GnRH/FSH/LH，前提是下視丘-腦下垂體仍能反應；若是 hypothalamic-pituitary failure，缺乏可被刺激的軸線，因此一定無效。\n\n【選項詳解】\n- A. 錯誤。Hypothalamic-pituitary dysfunction 若仍有部分功能，可能對排卵誘導有反應。\n- B. 正確。Hypothalamic-pituitary failure 代表軸線衰竭，clomiphene 無法刺激足夠 gonadotropin 分泌。\n- C. 錯誤。PCOS 是 clomiphene 常見適應症之一，可誘導排卵。\n- D. 錯誤。子宮內膜異位症造成不孕機轉不同，但 clomiphene 並非「一定無效」；仍取決於是否需誘導排卵。\n\n【核心考點】\nClomiphene 需要完整可反應的 HPO axis；軸線 failure 時無效。",
+      "key_point": "Clomiphene 對 hypothalamic-pituitary failure 一定無效。",
+      "flashcard_front": "Clomiphene citrate ineffective condition",
+      "flashcard_back": "需要 HPO axis 能反應；hypothalamic-pituitary failure 無效。",
+      "flashcard_summary": "Clomiphene -> stimulates endogenous gonadotropins; pituitary failure no response。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n子宮頸癌侵犯下 1/3 陰道但無子宮旁組織侵犯、無腎盂輸尿管水腫，符合 FIGO IIIA。IIA 是上 2/3 陰道侵犯；IIB 是子宮旁侵犯；IIIB 才有骨盆壁或腎水腫。\n\n【選項詳解】\n- A. 錯誤。IB3 是侷限於子宮頸且腫瘤大於 4 cm，本題已侵犯下 1/3 陰道。\n- B. 錯誤。IIA2 可侵犯上 2/3 陰道且腫瘤大於 4 cm，但不能到下 1/3 陰道。\n- C. 錯誤。IIB 需要子宮旁組織侵犯；題幹說子宮旁組織柔軟無侵犯。\n- D. 正確。侵犯下 1/3 陰道且未達骨盆壁、無腎水腫，為 FIGO IIIA。\n\n【核心考點】\n子宮頸癌分期：下 1/3 陰道侵犯是 IIIA；子宮旁侵犯是 IIB；腎水腫或骨盆壁是 IIIB。",
+      "key_point": "子宮頸癌侵犯下 1/3 陰道為 FIGO IIIA。",
+      "flashcard_front": "Cervical cancer FIGO: lower third vagina",
+      "flashcard_back": "下 1/3 陰道侵犯 = IIIA；parametrium = IIB；hydronephrosis/pelvic wall = IIIB。",
+      "flashcard_summary": "Cervical cancer staging -> lower 1/3 vagina = IIIA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n第一孕期唐氏症篩檢包含 NT、free beta-hCG 或 hCG、PAPP-A。Unconjugated estriol 是第二孕期 triple/quad screen 的項目。\n\n【選項詳解】\n- A. 錯誤。hCG 或 free beta-hCG 是第一孕期篩檢項目。\n- B. 錯誤。Nuchal translucency 是第一孕期超音波重要項目。\n- C. 正確。Unconjugated estriol 屬第二孕期母血篩檢項目，不是第一孕期標準項目。\n- D. 錯誤。PAPP-A 是第一孕期母血篩檢項目。\n\n【核心考點】\n第一孕期 Down screen：NT + PAPP-A + free beta-hCG；uE3 是第二孕期項目。",
+      "key_point": "第一孕期唐氏症篩檢不包含 unconjugated estriol。",
+      "flashcard_front": "First trimester Down screen components",
+      "flashcard_back": "包含 NT、PAPP-A、free beta-hCG/hCG；不含 uE3。",
+      "flashcard_summary": "Down screen -> first trimester excludes uE3。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

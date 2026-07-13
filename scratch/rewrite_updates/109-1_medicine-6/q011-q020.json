@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-6.json",
+  "dataset_id": "109-1_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n角膜鹼性灼傷比酸性灼傷更容易穿透組織、造成深層破壞，預後判斷的重要因素之一是 limbal ischemia 程度，因輪部含角膜上皮幹細胞。\n\n【選項詳解】\n- A. 錯誤。鹼性物質會皂化脂肪、快速穿透角膜與前房，通常比酸性灼傷預後更差。\n- B. 錯誤。急救是大量、持續以生理食鹽水或清水沖洗至 pH 接近中性，不應刻意用酸性溶液中和，避免放熱或二次傷害。\n- C. 錯誤。急性期可在眼科監測下使用 topical steroid 減少發炎與角膜溶解風險，並非前 10 天絕對禁止。\n- D. 正確。Limbal ischemia 代表角膜輪部幹細胞與血流受損，與上皮修復能力及視力預後密切相關。\n\n【核心考點】\n眼化學灼傷第一步是立即大量沖洗；鹼傷重於酸傷；limbal ischemia 是預後關鍵。",
+      "key_point": "角膜鹼傷預後與 limbal ischemia 程度高度相關。",
+      "flashcard_front": "Alkali corneal burn prognosis",
+      "flashcard_back": "立即大量沖洗；鹼傷比酸傷嚴重；limbal ischemia 越重預後越差。",
+      "flashcard_summary": "Corneal alkali burn -> urgent irrigation + limbal ischemia predicts prognosis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\nCarotid cavernous fistula 造成海綿竇與眼靜脈壓上升，典型可見眼球突出、結膜充血水腫與 corkscrew-like episcleral vessels。\n\n【選項詳解】\n- A. 錯誤。Salmon patch 常用來描述結膜淋巴瘤等粉紅色病灶，不是 CCF 的典型血管表徵。\n- B. 錯誤。Kaposi sarcoma 是血管性腫瘤，可見於免疫低下病人，不是 CCF 的典型結膜表現。\n- C. 正確。CCF 造成上眼靜脈回流壓升高，結膜與上鞏膜血管可呈扭曲擴張的 corkscrew-like vessels。\n- D. 錯誤。微小動脈瘤常見於糖尿病視網膜病變的視網膜表現，不是 CCF 的主要結膜表徵。\n\n【核心考點】\nCCF 的眼部關鍵字是 pulsatile proptosis、bruit、chemosis、上鞏膜 corkscrew vessels。",
+      "key_point": "Carotid cavernous fistula 可造成 corkscrew-like conjunctival/episcleral vessels。",
+      "flashcard_front": "Carotid cavernous fistula conjunctival sign",
+      "flashcard_back": "CCF 使眼靜脈壓升高，出現結膜與上鞏膜 corkscrew-like vessels。",
+      "flashcard_summary": "CCF -> venous congestion -> corkscrew episcleral vessels。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n白內障術後 posterior capsular opacity 是人工水晶體後方囊袋混濁，標準治療是 Nd:YAG laser posterior capsulotomy。\n\n【選項詳解】\n- A. 正確。Nd:YAG laser 可在後囊造成開口，使視軸恢復透明，是 PCO 的常用治療。\n- B. 錯誤。Phacoemulsification 是移除原本白內障水晶體的手術，不是術後後囊混濁的主要治療。\n- C. 錯誤。人工水晶體是在白內障手術時植入，不能直接治療後囊混濁。\n- D. 錯誤。人工玻璃體不是 PCO 的治療方式。\n\n【核心考點】\n白內障術後看不清若是 posterior capsular opacity，考 Nd:YAG laser capsulotomy。",
+      "key_point": "Posterior capsular opacity 的治療是 Nd:YAG laser capsulotomy。",
+      "flashcard_front": "PCO after cataract surgery treatment",
+      "flashcard_back": "用 Nd:YAG laser posterior capsulotomy，不是再做 phacoemulsification。",
+      "flashcard_summary": "白內障術後 PCO -> Nd:YAG laser。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n眼球往外上方看是 abduction 加 elevation。在外轉位置時，上直肌是主要上轉肌，因此需 lateral rectus 加 superior rectus。\n\n【選項詳解】\n- A. 正確。外直肌使眼球外轉，上直肌在外轉位置負責上轉，兩者共同讓眼球看向 temporal upper。\n- B. 錯誤。上斜肌主要功能是內旋，並在內轉位置使眼球下轉，不是外上看的主要肌肉。\n- C. 錯誤。下直肌主要下轉，與外上方運動方向相反。\n- D. 錯誤。下斜肌在內轉位置主要上轉，但題目已指定外直肌共同作用，外上方主要配上直肌。\n\n【核心考點】\n垂直直肌在外轉眼位作用最純；上直肌負責外轉位上轉，下直肌負責外轉位下轉。",
+      "key_point": "眼球外上看需要 lateral rectus 加 superior rectus。",
+      "flashcard_front": "Eye movement：temporal upper gaze",
+      "flashcard_back": "外上方 = lateral rectus 外轉 + superior rectus 上轉。",
+      "flashcard_summary": "眼外肌 -> 外轉位上轉靠 superior rectus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問眼球運動敘述何者錯誤。Accommodative convergence 是因調節反射誘發的會聚，不屬於 tonic convergence。\n\n【選項詳解】\n- A. 正確。Duction 是單眼運動，可描述 adduction、abduction、elevation、depression、intorsion、extorsion。\n- B. 正確。Version 是雙眼同向運動，例如雙眼一起看右上或左下。\n- C. 正確。Vergence 是雙眼反向運動，包括 convergence 與 divergence。\n- D. 錯誤。Accommodative convergence 來自近距離調節反射；tonic convergence 是基礎眼位張力，兩者分類不同。\n\n【核心考點】\nDuction 單眼、version 雙眼同向、vergence 雙眼異向；accommodative convergence 不等於 tonic convergence。",
+      "key_point": "Accommodative convergence 是調節誘發的會聚，不是 tonic convergence。",
+      "flashcard_front": "Duction / version / vergence / accommodative convergence",
+      "flashcard_back": "Duction 單眼；version 同向；vergence 異向；accommodative convergence 不是 tonic convergence。",
+      "flashcard_summary": "眼球運動分類 -> D 錯在把調節性會聚歸為強直性會聚。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\nUveal coloboma 多因 embryonic fissure 閉合不全，典型位於眼球下方或 inferonasal 區域，鐘點位置常以 6 點鐘表示。\n\n【選項詳解】\n- A. 錯誤。3 點鐘不是典型胚裂閉合不全的位置。\n- B. 正確。先天性脈絡膜或葡萄膜缺損典型在 6 點鐘方向，反映胚裂位置。\n- C. 錯誤。9 點鐘不是典型位置。\n- D. 錯誤。12 點鐘位於上方，不符合典型 embryonic fissure 位置。\n\n【核心考點】\nColoboma 的高頻字眼是 embryonic fissure failure，典型在 inferonasal/6 o'clock。",
+      "key_point": "Uveal coloboma 通常位於 6 點鐘方向。",
+      "flashcard_front": "Uveal tract coloboma location",
+      "flashcard_back": "胚裂閉合不全造成，典型在眼球下方 6 點鐘。",
+      "flashcard_summary": "Coloboma -> embryonic fissure -> 6 o'clock。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n砂眼由 Chlamydia trachomatis 造成，包涵體位於細胞質內，不是細胞核內；題目問錯誤敘述，因此答案是 C。\n\n【選項詳解】\n- A. 正確。砂眼病原是 Chlamydia trachomatis，慢性感染可造成結膜瘢痕與倒睫。\n- B. 正確。Cicatricial trachoma 可在上眼瞼結膜看到 Arlt line，代表結膜瘢痕。\n- C. 錯誤。Chlamydia 的包涵體位於細胞質內，典型不是細胞核內嗜伊紅性包涵體；核內包涵體較會想到病毒感染。\n- D. 正確。治療可用 azithromycin 或 tetracycline 類藥物；舊式考題常列口服與局部四環黴素治療。\n\n【核心考點】\nTrachoma：Chlamydia、上瞼結膜濾泡與瘢痕、Arlt line、Herbert pits；包涵體在細胞質。",
+      "key_point": "砂眼披衣菌包涵體在細胞質內，不在細胞核內。",
+      "flashcard_front": "Trachoma inclusion body location",
+      "flashcard_back": "Chlamydia trachomatis 造成砂眼；包涵體在細胞質，非細胞核。",
+      "flashcard_summary": "Trachoma -> Chlamydia -> cytoplasmic inclusion body。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\nNeonatal gonococcal conjunctivitis 多在出生後 2-5 天發生大量膿性分泌物，進展快且可傷害角膜；第三至第四週較像披衣菌性結膜炎時間。\n\n【選項詳解】\n- A. 正確。新生兒常經產道接觸母親淋病雙球菌而感染。\n- B. 正確。淋病性結膜炎具侵襲性，需全身抗生素治療，常合併局部清潔或局部治療。\n- C. 錯誤。淋病性結膜炎通常出生後數天內出現；第三至第四週才開始較不符合，反而應考慮披衣菌等病因。\n- D. 正確。應做 Gram stain 與培養以確認病原並導引治療。\n\n【核心考點】\n新生兒眼炎時間軸：淋病通常 2-5 天、披衣菌約 5-14 天或較晚；淋病需快速全身治療以保護角膜。",
+      "key_point": "新生兒淋病性結膜炎通常出生後數天內出現，不是第三至第四週。",
+      "flashcard_front": "Neonatal gonococcal conjunctivitis onset",
+      "flashcard_back": "通常出生後 2-5 天大量膿性分泌物，需全身抗生素與培養確認。",
+      "flashcard_summary": "Neonatal conjunctivitis -> gonococcus early and aggressive。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\nScala media 的 endolymph 與 +80 mV endocochlear potential 由 stria vascularis 維持，與鉀離子分泌及內耳電化學梯度有關。\n\n【選項詳解】\n- A. 正確。血管紋負責產生並維持 endolymph 的高鉀濃度與正電位，是 endocochlear potential 來源。\n- B. 錯誤。Reissner membrane 分隔 scala vestibuli 與 scala media，不是主要電位來源。\n- C. 錯誤。Basilar membrane 支撐 Corti organ 並參與頻率分析，不產生 +80 mV 電位。\n- D. 錯誤。Organ of Corti 含毛細胞，負責機械轉電訊號，但 endocochlear potential 主要由 stria vascularis 產生。\n\n【核心考點】\n內耳高頻配對：scala media 裝 endolymph；stria vascularis 產生 endocochlear potential。",
+      "key_point": "Endocochlear potential 來自 stria vascularis。",
+      "flashcard_front": "Endocochlear potential source",
+      "flashcard_back": "Scala media 的 +80 mV 電位由 stria vascularis 維持。",
+      "flashcard_summary": "Cochlea -> stria vascularis -> endolymph high K+ and +80 mV。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n圖像題官方答案為原發性後天性膽脂瘤。此型通常與咽鼓管功能不良造成 pars flaccida retraction pocket 相關，角化上皮堆積後形成膽脂瘤。\n\n【選項詳解】\n- A. 錯誤。先天性膽脂瘤常見於完整鼓膜後方的白色腫塊，沒有典型後天性退縮袋病史。\n- B. 正確。原發性後天性膽脂瘤多由鼓膜鬆弛部退縮袋形成，逐漸堆積角化物並侵蝕中耳或乳突骨質。\n- C. 錯誤。繼發性後天性膽脂瘤常與鼓膜穿孔後鱗狀上皮向中耳移入相關，機轉不同。\n- D. 錯誤。耳道膽脂瘤發生在外耳道，與中耳 pars flaccida retraction pocket 的典型表現不同。\n\n【核心考點】\n膽脂瘤分類要看位置與鼓膜狀態：pars flaccida 退縮袋是原發性後天性膽脂瘤的典型線索。",
+      "key_point": "原發性後天性膽脂瘤常由 pars flaccida retraction pocket 形成。",
+      "flashcard_front": "Primary acquired cholesteatoma",
+      "flashcard_back": "多與咽鼓管功能不良造成鼓膜鬆弛部退縮袋與角化物堆積有關。",
+      "flashcard_summary": "Cholesteatoma -> primary acquired = pars flaccida retraction pocket。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": [
+        "圖像題：說明依官方答案與典型耳鏡表現撰寫，建議人工確認原圖位置。"
+      ]
+    }
+  ]
+}

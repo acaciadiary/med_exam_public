@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-6.json",
+  "dataset_id": "109-1_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nGnRH 由下視丘脈衝式分泌，刺激腦下垂體分泌 LH 與 FSH；因此說 GnRH 只能刺激 LH、不能刺激 FSH 是錯誤。\n\n【選項詳解】\n- A. 錯誤。GnRH 可刺激 anterior pituitary 分泌 LH 與 FSH，脈衝頻率會影響相對分泌比例。\n- B. 正確。GnRH 需 pulsatile secretion 才能維持 gonadotropin 分泌；持續給藥反而抑制軸線。\n- C. 正確。GnRH 是十胜肽，也就是含 10 個胺基酸的 peptide。\n- D. 正確。GnRH 半衰期短，約數分鐘。\n\n【核心考點】\nGnRH 是 pulsatile decapeptide，刺激 LH 與 FSH；連續刺激會 downregulation。",
+      "key_point": "GnRH 可刺激 LH 與 FSH，不是只刺激 LH。",
+      "flashcard_front": "GnRH function",
+      "flashcard_back": "GnRH 是短半衰期十胜肽，脈衝式刺激 LH 和 FSH。",
+      "flashcard_summary": "GnRH -> pulsatile -> LH + FSH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n不孕症常見原因包括排卵障礙、輸卵管因素與男性因素。子宮肌瘤雖可影響生育，尤其是黏膜下或扭曲腔室者，但整體相對不是最常見主因。\n\n【選項詳解】\n- A. 錯誤。排卵障礙是常見女性不孕原因。\n- B. 錯誤。輸卵管阻塞是常見原因，常與骨盆感染或手術相關。\n- C. 正確。子宮肌瘤相對較少直接造成不孕，需看位置是否影響子宮腔。\n- D. 錯誤。男性因素約占相當比例，是不孕評估必須同步檢查的常見原因。\n\n【核心考點】\n不孕症評估不要只看女性；排卵、輸卵管與男性因素常見，肌瘤是否影響生育取決於位置。",
+      "key_point": "相較排卵障礙、輸卵管阻塞與男性因素，子宮肌瘤造成不孕比例較少。",
+      "flashcard_front": "Common infertility causes",
+      "flashcard_back": "常見：排卵障礙、輸卵管因素、男性因素；肌瘤相對較少且看位置。",
+      "flashcard_summary": "Infertility -> fibroid less common cause than ovulatory/tubal/male factors。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n此 22 歲女性肥胖、月經稀發、AFC 20，符合 PCOS 方向；目前未有生育考量，重點是減重、代謝篩檢與用黃體素或荷爾蒙保護內膜，不適合給排卵藥。\n\n【選項詳解】\n- A. 正確。排卵藥用於有懷孕需求的排卵誘導；此人目前沒有生育需求，給排卵藥最不合適。\n- B. 錯誤。長期無排卵會造成內膜持續受雌激素刺激，可用黃體素使內膜週期性剝落。\n- C. 錯誤。減重與生活型態調整是 PCOS 與肥胖治療核心。\n- D. 錯誤。PCOS 常伴胰島素阻抗與糖尿病風險，應篩檢代謝問題。\n\n【核心考點】\nPCOS 沒有生育需求時，不以排卵藥為優先；要保護子宮內膜並處理體重與代謝風險。",
+      "key_point": "PCOS 無生育需求者不適合給排卵藥作為建議。",
+      "flashcard_front": "PCOS without fertility desire management",
+      "flashcard_back": "減重、代謝篩檢、黃體素/荷爾蒙保護內膜；不需排卵藥。",
+      "flashcard_summary": "PCOS -> no fertility desire -> avoid ovulation induction。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n濾泡期抑制 FSH 的 hormone X 可為 estradiol 的負回饋；持續高濃度 hormone Y 誘發 LH surge 也是 estradiol 的正回饋。因此 X 即 Y。Hormone Z 促使 primary oocyte 完成第一次減數分裂是 LH surge。\n\n【選項詳解】\n- A. 正確。X 與 Y 都可指 estradiol：低至中等濃度負回饋抑制 FSH，持續高濃度則正回饋誘發 LH surge。\n- B. 錯誤。Y 是 estradiol，Z 是 LH，兩者不同。\n- C. 錯誤。X 是 estradiol，Z 是 LH。\n- D. 錯誤。濾泡期抑制 FSH 較重要的是 estradiol 與 inhibin B；inhibin A 主要與黃體期較相關。\n\n【核心考點】\nEstradiol 依濃度與時間可負回饋或正回饋；LH surge 促成卵母細胞成熟。",
+      "key_point": "Hormone X 與 Y 都是 estradiol；Z 是 LH。",
+      "flashcard_front": "Follicular hormones: estradiol feedback and LH surge",
+      "flashcard_back": "Estradiol 可抑制 FSH，也可在持續高濃度誘發 LH surge；LH 促進 oocyte maturation。",
+      "flashcard_summary": "Follicular cycle -> estradiol negative/positive feedback; LH triggers maturation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n人工授精 IUI 是將處理後精液置入子宮腔，不需要取卵；IVF、ICSI 與 PGD 都需要先取得卵子或胚胎。\n\n【選項詳解】\n- A. 正確。IUI 不需取卵，適用部分輕度男性因素、不明原因不孕或排卵誘導搭配。\n- B. 錯誤。IVF 需要取卵後在體外受精。\n- C. 錯誤。ICSI 是把單一精子注入卵細胞質，必須先取卵。\n- D. 錯誤。PGD 需有胚胎可供切片檢測，通常建立在 IVF 流程上。\n\n【核心考點】\n輔助生殖中 IUI 不需取卵；IVF/ICSI/PGD 都涉及取卵與胚胎實驗室操作。",
+      "key_point": "不需取卵的人工輔助生殖技術是 intrauterine insemination。",
+      "flashcard_front": "ART that does not require oocyte retrieval",
+      "flashcard_back": "IUI 不需取卵；IVF、ICSI、PGD 需要。",
+      "flashcard_summary": "ART -> IUI no oocyte retrieval。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n官方圖像答案為臍動脈血流速度波形。胎兒 Doppler 中臍動脈波形用於評估胎盤阻力，常看收縮期與舒張末期血流。\n\n【選項詳解】\n- A. 正確。臍動脈 Doppler 呈動脈性脈衝波形，可評估 placental resistance。\n- B. 錯誤。臍靜脈通常較連續、非動脈性脈衝波形。\n- C. 錯誤。中大腦動脈波形用於評估 brain-sparing 或胎兒貧血等，位置與波形判讀不同。\n- D. 錯誤。下行主動脈不是本題官方圖示所指血管。\n\n【核心考點】\n胎兒 Doppler 要分血管：臍動脈看胎盤阻力與舒張末期血流；MCA 看腦循環與貧血。",
+      "key_point": "本題圖示為臍動脈血流速度波形。",
+      "flashcard_front": "Fetal Doppler: umbilical artery waveform",
+      "flashcard_back": "臍動脈 Doppler 用於評估胎盤阻力，重點看 end-diastolic flow。",
+      "flashcard_summary": "Fetal Doppler -> umbilical artery waveform。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": [
+        "圖像題：未直接檢視原圖，依官方答案撰寫。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n承上題，官方圖像判讀為 reversed end-diastolic velocity，表示臍動脈舒張末期血流反向，是胎盤阻力嚴重升高的警訊。\n\n【選項詳解】\n- A. 錯誤。Absence of end-diastolic velocity 是舒張末期血流消失；本題官方答案為反向而非消失。\n- B. 正確。Reversed end-diastolic velocity 代表舒張末期血流逆轉，較 absent 更嚴重。\n- C. 錯誤。Positive 不是臍動脈 Doppler 此處的標準具體判讀。\n- D. 錯誤。Negative 也不是本題所問波形結果的恰當描述。\n\n【核心考點】\n臍動脈 Doppler 嚴重異常順序：舒張末期血流降低、消失、反向；反向代表高風險。",
+      "key_point": "臍動脈 reversed end-diastolic velocity 是嚴重胎盤阻力升高表現。",
+      "flashcard_front": "Umbilical artery Doppler reversed end-diastolic flow",
+      "flashcard_back": "舒張末期血流反向，比 absent end-diastolic flow 更嚴重。",
+      "flashcard_summary": "Umbilical artery Doppler -> reversed EDF indicates severe placental resistance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": [
+        "圖像題：未直接檢視原圖，依官方答案撰寫。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n中風後 CRPS type 1 常影響肩、手腕、手指，形成 shoulder-hand syndrome；肘部相對較少是主要受影響部位。\n\n【選項詳解】\n- A. 錯誤。肩膀常受影響，肩痛與活動受限常見。\n- B. 正確。肘部相對較少是 post-stroke CRPS type 1 的主要受累部位。\n- C. 錯誤。手腕常有疼痛、腫脹與活動受限。\n- D. 錯誤。手指常見水腫、疼痛與僵硬。\n\n【核心考點】\nPost-stroke CRPS type 1 又稱 shoulder-hand syndrome，重點在肩與遠端手部，肘較少。",
+      "key_point": "中風後 CRPS type 1 相對較少影響肘部。",
+      "flashcard_front": "Post-stroke CRPS type 1 affected parts",
+      "flashcard_back": "常影響肩、手腕、手指；肘部相對少。",
+      "flashcard_summary": "Post-stroke CRPS -> shoulder-hand syndrome, elbow less involved。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nAutonomic dysreflexia 多發生於 T6 以上脊髓損傷，通常在 spinal shock 結束後較常見，最常見誘因是膀胱脹尿；不是受傷後一個月內最常發生。\n\n【選項詳解】\n- A. 錯誤。自主神經反射異常通常在損傷後數週至數月、spinal shock 期後較常見，不是最常在一個月內。\n- B. 正確。T6 以上完全脊髓損傷失去上位調控，最容易發生嚴重高血壓反射。\n- C. 正確。膀胱膨脹、導尿管阻塞是最常見誘因。\n- D. 正確。初步處置包括讓病人坐起、鬆開束縛並立即尋找及移除刺激來源。\n\n【核心考點】\nAutonomic dysreflexia：T6 以上、劇烈高血壓、膀胱脹尿常見；處置先坐起並移除刺激。",
+      "key_point": "Autonomic dysreflexia 不常在脊髓損傷後一個月內發生，常在 spinal shock 後。",
+      "flashcard_front": "Autonomic dysreflexia timing and trigger",
+      "flashcard_back": "T6 以上 SCI；膀胱脹尿最常見；先坐起並移除刺激。",
+      "flashcard_summary": "SCI autonomic dysreflexia -> T6 above + bladder distension + remove stimulus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nReflexogenic erection 由外陰部觸覺刺激引發，反射中樞位於 S2-4，主要經副交感骨盆神經控制。\n\n【選項詳解】\n- A. 錯誤。T11-12 下腹神經屬交感路徑，較與 psychogenic erection 或射精相關。\n- B. 正確。S2-4 副交感 pelvic nerve 介導反射性勃起。\n- C. 錯誤。S2-4 pelvic nerve 是副交感，不是交感。\n- D. 錯誤。T11-12 hypogastric nerve 是交感，不是副交感 S2-4 路徑。\n\n【核心考點】\n勃起神經控制：reflexogenic erection = S2-4 parasympathetic pelvic nerve；psychogenic 多涉 T11-L2 sympathetic。",
+      "key_point": "男性反射性勃起由 S2-4 副交感骨盆神經控制。",
+      "flashcard_front": "Reflexogenic erection nerve pathway",
+      "flashcard_back": "S2-4 parasympathetic pelvic nerve。",
+      "flashcard_summary": "Erection physiology -> reflexogenic = S2-4 parasympathetic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T07:24:24+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
