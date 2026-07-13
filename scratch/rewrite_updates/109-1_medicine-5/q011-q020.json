@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-5.json",
+  "dataset_id": "109-1_medicine-5",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-5_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題評估臨床上用於降低腦壓（intracranial pressure, ICP）的各項治療處置。當病患發生顱內壓升高時，應採取能減少大腦血流量、促進腦脊髓液排出或減輕腦組織水腫的生理學手段。過度換氣雖然能藉由排除二氧化碳使腦血管收縮、從而迅速降低腦壓，但若將 PaCO2 降得過低（如 20 mmHg），會導致嚴重的腦血管收縮，進而引發大腦缺血與缺氧壞死，因此在臨床處置上是不建議使用的。\n\n【選項詳解】\n- A. 建議使用。將病患頭部抬高 30 度（Head elevation to 30 degrees）是降低腦壓的首要且最簡單之護理措施，此姿勢可藉由重力作用促進大腦靜脈與腦脊髓液的向下回流，降低腦靜脈竇的壓力，進而減輕顱內壓，且不會對大腦血流量（CBF）造成不良影響。\n- B. 不建議使用。過度換氣（Hyperventilation）可引發低碳酸血症，使腦小動脈收縮，進而降低腦血流量與腦血容積以達到降腦壓效果。然而，當 PaCO2 降至 20 mmHg 時，強烈的血管收縮會引發嚴重的腦部缺血性損傷。目前的臨床指引建議，若因腦疝等緊急狀況需使用過度換氣，目標 PaCO2 應維持在 30–35 mmHg，絕不可過度降至 20 mmHg。\n- C. 建議使用。低溫治療（Targeted temperature management / Hypothermia）可以顯著降低大腦氧氣與葡萄糖的代謝率（每降低體溫 1°C 可減少約 6-7% 的大腦代謝率），進而減輕血管源性與細胞毒性腦水腫，有效降低頑固性高腦壓。\n- D. 建議使用。腦室引流腦脊髓液（Ventricular CSF drainage / EVD）是通過在腦室內放置導管，將多餘的腦脊髓液引流至體外，這能直接減少顱內組織的總容積，是目前臨床上最迅速且有效的降低腦壓方式之一。\n\n【核心考點】\n過度換氣降腦壓的生理機制與安全分壓範圍。過度換氣會降低 PaCO2 引起腦血管收縮，但 PaCO2 的安全極限為 30–35 mmHg。低於 30 mmHg（如 20 mmHg）會誘發重度大腦血管收縮，導致大腦嚴重缺血缺氧。",
+      "key_point": "過度換氣降腦壓的 PaCO2 安全極限為 30-35 mmHg；低於 30 mmHg（如 20 mmHg）會因血管過度收縮導致大腦嚴重缺血缺氧。",
+      "flashcard_front": "降低腦壓處置中，過度換氣（hyperventilation）的 PaCO2 目標值應為何？為甚麼不建議降低至 20 mmHg？",
+      "flashcard_back": "目標值應維持在 30-35 mmHg。若低至 20 mmHg 會引起嚴重的腦血管收縮，導致腦部缺血與缺氧壞死。",
+      "flashcard_summary": "降低腦壓時過度換氣應控制 PaCO2 於 30-35 mmHg；若降至 20 mmHg 會引起嚴重的腦血管收縮與缺血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題考查皮膚移植（Skin Graft）存活的生理階段、手術失敗之常見原因，以及移植皮片後續發生攣縮（Contracture）的生理學規律。皮膚移植片存活後期的攣縮程度與所包含的真皮層（Dermis）厚度有密切關係。真皮層越厚，其抗攣縮能力越強，後期發生的續發性攣縮就越輕微；反之，真皮層越薄，其攣縮則越嚴重，故 C 選項敘述錯誤。\n\n【選項詳解】\n- A. 正確。皮膚移植的存活生理過程必須經歷三個連續階段：早期（術後 24-48 小時內）的血漿滲透吸收期（Plasmatic circulation）、中期的血管吻合接通期（Inosculation），以及後期的再血管化與肉芽組織長入重整期（Organization and revascularization）。\n- B. 正確。移植片與受體床必須緊密貼合才能建立微血管連接。血腫或血清腫積聚（Hematoma or seroma accumulation）會阻礙養分滲透；細菌感染（Infection）會釋放溶解酶破壞移植物；局部運動（Movement）會扯斷新生微血管。此三者是臨床上皮膚移植失敗最常見的三大主因。\n- C. 錯誤。皮膚移植片癒合後的「續發性攣縮（Secondary contracture）」是由於肌纖維母細胞（Myofibroblasts）的收縮所致，其攣縮程度與移植皮片中的真皮層厚度呈反比。真皮層越厚（如全厚皮片 FTSG），越能抑制肌纖維母細胞的活動，因此後期攣縮越少；真皮層越薄（如刃厚皮片 STSG），後期攣縮反而越嚴重。\n- D. 正確。血漿滲透（Plasmatic circulation 或 Plasmatic imbibition）是指皮膚移植後的最初 24 至 48 小時內，此時移植片與受體床之間尚未建立血液循環，皮片完全依賴毛細作用直接吸收受體床滲出的血漿成分與養分來維持細胞存活。\n\n【核心考點】\n皮膚移植的攣縮與厚度關係。移植皮片的真皮層厚度與原發性攣縮（切下時的回縮）呈正比，而與續發性攣縮（癒合後的疤痕攣縮）呈反比。因此，全厚皮片（FTSG）的後期攣縮程度顯著小於刃厚皮片（STSG）。",
+      "key_point": "皮膚移植片真皮層厚度與續發性攣縮（癒合後攣縮）呈反比。真皮層越厚（如全厚皮片），後期愈不會攣縮。",
+      "flashcard_front": "皮膚移植片（skin graft）真皮層厚度與後期續發性攣縮（secondary contracture）的關係為何？",
+      "flashcard_back": "呈反比。真皮層越厚（如全厚皮片 FTSG）後期攣縮越輕微；真皮層越薄（如刃厚皮片 STSG）後期攣縮越嚴重。",
+      "flashcard_summary": "皮膚移植片真皮層厚度與後期續發性攣縮呈反比。全厚皮片比刃厚皮片更抗攣縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題考查臨床常見化學性灼傷（Chemical burn）的特性與緊急處理原則。本題經官方公告更正為多重複核答案，答 A、C 或 D 皆給分。分析其原因：水泥中含有氧化鈣，遇水後會轉化為強鹼性的氫氧化鈣，因此水泥灼傷是典型的「鹼性化學灼傷」，D 敘述「水泥灼傷是酸性化學灼傷」是明顯的錯誤。另外，生石灰等部分乾式粉狀化學物質遇水會劇烈放熱而造成熱灼傷，不可直接沖水，應先刷除，故 A 亦不完全正確；而氫氟酸（HF）灼傷首要步驟仍是大量清水沖洗，而非直接塗抹凝膠，故 C 亦屬錯誤。\n\n【選項詳解】\n- A. 錯誤。並非所有的化學灼傷都應「立即沖水」。對於某些特定化學物質，如生石灰（氧化鈣）粉末，遇水會釋放大量熱能而加重熱灼傷，正確的做法是先將粉末徹底刷除乾淨，之後才能以水沖洗；此外，金屬鈉、鉀遇水會燃燒爆炸，也不得直接大量沖水。\n- B. 正確。嚴重的酸性化學灼傷可能釋放酸性有害氣體，導致吸入性肺損傷及氣道黏膜水腫。若患者已引發系統性酸鹼值異常及呼吸困難，為了保護呼吸道並維持換氣，臨床上必須進行氣管內插管並使用呼吸器輔助呼吸。\n- C. 錯誤。氫氟酸（HF）灼傷時，雖然 2.5% 葡萄糖酸鈣凝膠（Calcium gluconate gel）是不可或缺的特異性治療（鈣離子可與氟離子結合避免低鈣血症與深部組織破壞），但最首要且緊急的步驟依然是「立即以大量清水沖洗」至少 15–30 分鐘，將表面的游離酸沖走，不可以忽略沖水步驟而直接塗藥。\n- D. 錯誤。水泥（Cement）的主成分包含氧化鈣（CaO），在施工或潮濕環境下遇水會發生化學反應，生成呈強鹼性的氫氧化鈣（Ca(OH)2），pH 值通常高達 12 至 13。因此，水泥灼傷是屬於「鹼性化學灼傷」，而非酸性灼傷。\n\n【核心考點】\n化學性灼傷處置關鍵。1. 水泥灼傷是鹼性化學灼傷（遇水產生強鹼氫氧化鈣）。2. 乾粉化學物（如生石灰）必須先刷除再沖水以防放熱。3. 氫氟酸（HF）暴露首要步驟是大量清水沖洗，其後才是使用 2.5% 葡萄糖酸鈣中和氟離子。",
+      "key_point": "水泥灼傷是鹼性化學灼傷。乾粉化學物（如生石灰）應先刷除再大量沖水。氫氟酸灼傷首重大量清水沖洗，再塗抹葡萄糖酸鈣。",
+      "flashcard_front": "水泥灼傷的酸鹼性質為何？化學性灼傷處置中，生石灰（乾粉）與氫氟酸（HF）處理順序有何關鍵？",
+      "flashcard_back": "1. 水泥遇水產生氫氧化鈣，為強鹼性灼傷。2. 生石灰粉末需先刷除再沖水（防遇水放熱）。3. 氫氟酸需先大量清水沖洗，再使用2.5%葡萄糖酸鈣凝膠中和。",
+      "flashcard_summary": "水泥灼傷是鹼性灼傷；生石灰應先刷除後沖水；氫氟酸須先大量清水沖洗，再以葡萄糖酸鈣凝膠中和。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題考查手腕背側伸肌腱腔室（Extensor compartments）的解剖結構。狄奎凡氏症（de Quervain's disease），俗稱「媽媽手」，是指手腕背側「第一伸肌腱腔室」內肌腱因重複過度使用引發的狹窄性腱鞘炎，此腔室容納了外展拇長肌（APL）與伸拇短肌（EPB）的肌腱，故選 A。\n\n【選項詳解】\n- A. 正確。手腕伸肌支持帶（Extensor retinaculum）下方可細分為 6 個解剖腔室。第一個腔室（First compartment）內含有外展拇長肌（Abductor pollicis longus, APL）與伸拇短肌（Extensor pollicis brevis, EPB）肌腱，此腔室發生狹窄性腱鞘炎即為狄奎凡氏症。\n- B. 錯誤。第二個腔室（Second compartment）含有橈側伸腕長肌（ECRL）與橈側伸腕短肌（ECRB）肌腱，此處發炎或摩擦與交界症候群（Intersection syndrome）相關，並非狄奎凡氏症。\n- C. 錯誤。第三個腔室（Third compartment）含有伸拇長肌（Extensor pollicis longus, EPL）肌腱，其解剖路徑圍繞著橈骨背側的 Lister's tubercle，與狄奎凡氏症無關。\n- D. 錯誤。第五個腔室（Fifth compartment）含有小指伸肌（Extensor digiti minimi, EDM）肌腱，通常單獨通過尺骨遠端，與狄奎凡氏症無關。\n\n【核心考點】\n手腕背側伸肌 6 個腔室的內容物解剖。第一腔室包含外展拇長肌（APL）與伸拇短肌（EPB），病變對應 de Quervain's disease；第三腔室包含伸拇長肌（EPL），圍繞 Lister's tubercle。臨床常用 Finkelstein's test 評估第一腔室發炎。",
+      "key_point": "手腕背側第一伸肌腱腔室含有外展拇長肌（APL）與伸拇短肌（EPB）肌腱，此處病變即為狄奎凡氏症（de Quervain's disease）。",
+      "flashcard_front": "狄奎凡氏症（de Quervain's disease）是發生在手腕背側第幾個伸肌腱腔室？其內含哪兩條肌腱？",
+      "flashcard_back": "第一個伸肌腱腔室。內含外展拇長肌（APL）與伸拇短肌（EPB）的肌腱。",
+      "flashcard_summary": "狄奎凡氏症發生在手腕背側第一伸肌腔室，內含外展拇長肌（APL）與伸拇短肌（EPB）肌腱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題考查面部外傷中眼眶爆裂骨折（Orbital blowout fracture）的臨床表現與解剖關係。眼眶壁中最薄弱的部位是眼眶底部（Orbital floor）及眼眶內側壁。當鈍力擊中眼球時，眶內壓力劇增導致眼眶底部爆裂骨折，使位於底部的「下直肌（Inferior rectus muscle）」或周邊脂肪軟組織卡在骨折裂縫中，因而限制眼球向上的移動，而非上直肌卡住，故 C 選項錯誤。\n\n【選項詳解】\n- A. 正確。鈍力撞擊眼部時，外力可能沿著眼眶邊緣傳導，導致眼眶下緣骨折（Infra-orbital rim fracture），常伴隨眼眶下神經損傷，引起同側下眼瞼、鼻翼及上唇的感覺麻木。\n- B. 正確。眼眶底部（Orbital floor）是眼眶骨中最薄且最易骨折的部位。棒球撞擊引起眼眶內壓劇烈增高時，壓力最容易宣洩於此，形成眼眶底部骨折（Orbital floor fracture）。\n- C. 錯誤。眼球向上移動受限，是由於位於眼眶底部的「下直肌（Inferior rectus muscle）」或其周圍軟組織向下嵌入（Entrapment）骨折裂隙中。這導致下直肌被拉扯束縛、無法正常伸展放鬆，進而限制了眼球向上看的能力，並非上直肌被卡住。\n- D. 正確。對於高度懷疑眼眶骨折的病人，眼眶電腦斷層（Orbital CT）是首選的影像學檢查，可以清晰地呈現骨折線位置、骨缺損範圍，以及是否有眼外肌被卡住（Entrapment）的影像特徵。\n\n【核心考點】\n眼眶爆裂骨折（Blowout fracture）的卡壓機制。骨折最常發生於最薄的眼眶底部（Orbital floor），導致眼外肌「下直肌（Inferior rectus）」或其周邊軟組織嵌頓，臨床表現為眼球向上注視受限與複視（Diplopia）。",
+      "key_point": "眼眶底部爆裂骨折（Blowout fracture）會導致下直肌（inferior rectus）或其周圍組織嵌頓卡壓，限制眼球向上看的功能。",
+      "flashcard_front": "眼眶底部骨折（orbital floor fracture）後，眼球向上移動受限（限制向上注視）的解剖原因為何？",
+      "flashcard_back": "是因為位於底部的下直肌（inferior rectus）或其周圍軟組織被卡（entrapment）在眼眶底部的骨折裂縫中，無法放鬆伸展，而非上直肌受卡。",
+      "flashcard_summary": "眼眶底部骨折限制眼球向上移動，是因為下直肌（inferior rectus）或其周圍組織被卡在底部的骨折裂縫中。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題考查顏面部外傷中鼻部外傷的診斷、緊急處置（如鼻中膈血腫的處理）及鼻部解剖重建原則。外傷後若發現鼻中膈血腫（Septal hematoma），臨床上屬於必須立即切開引流的緊急狀況，絕對不能採取保守觀察，因為血腫會阻斷鼻中膈軟骨的營養供應，導致軟骨缺血壞死與馬鞍鼻變形，故 B 選項錯誤。\n\n【選項詳解】\n- A. 正確。鼻骨是顏面部最突出且最容易因外傷而骨折的骨骼。當病患有流鼻血、腫痛與鼻翼撕裂傷時，必須高度懷疑鼻骨骨折（Nasal bone fracture），可安排鼻骨 X 光檢查或電腦斷層檢查以利診斷。\n- B. 錯誤。鼻中膈軟骨是沒有血管直接分布的，其營養完全依賴兩側軟骨膜（Perichondrium） the microvascular diffusion. 如果發生鼻中膈血腫（Septal hematoma），血腫會將軟骨膜與軟骨分離，阻斷營養擴散，導致軟骨在 3-4 天內發生無菌性缺血壞死，或繼發感染化膿，造成鼻中膈穿孔及馬鞍鼻（Saddle nose）塌陷。因此，必須「立即行切開引流並以鼻棉壓迫填塞」，不可保守觀察待其自行吸收。\n- C. 正確。鼻部在整形外科重建中，解剖上分為「三層構造」：外層的皮膚覆蓋（Skin cover）、中層的結構支撐（Structural support，包括鼻骨與鼻軟骨），以及內層的黏膜內襯（Mucosal lining）。重建時必須根據這三層的缺損範圍分別予以評估及重建。\n- D. 正確。在鼻部缺損重建中，鼻唇皮瓣（Nasolabial flap）常用於重建鼻翼、鼻下部中等大小的組織缺損；前額旁正中皮瓣（Paramedian forehead flap）以滑車上動脈（Supratrochlear artery）為軸型血管，是鼻大面積缺損（如鼻尖、鼻翼整體）重建的首選黃金標準局部皮瓣。\n\n【核心考點】\n鼻中膈血腫（Septal hematoma）的緊急切開引流指徵。鼻中膈軟骨無血管，其生存完全依賴軟骨膜。血腫會造成軟骨缺血壞死或感染化膿，進而引發馬鞍鼻塌陷。因此，發現鼻中膈血腫必須「立即切開引流與壓迫填塞」。",
+      "key_point": "鼻中膈血腫（septal hematoma）會阻斷軟骨膜對鼻中膈軟骨的營養供應，導致軟骨壞死塌陷，必須「立即切開引流」，不可保守觀察。",
+      "flashcard_front": "外傷後發現鼻中膈血腫（septal hematoma）為何不能保守治療？正確處置為何？",
+      "flashcard_back": "因為鼻中膈軟骨無血管，依賴軟骨膜擴散供應養分。血腫會阻斷此通道，導致軟骨缺血壞死、塌陷形成馬鞍鼻。正確處置為立即行切開引流與鼻腔壓迫填塞。",
+      "flashcard_summary": "鼻中膈血腫會導致軟骨缺血壞死，引發馬鞍鼻塌陷，必須立即切開引流與壓迫填塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考查整形外科顯微手術（Microsurgery）的適應症與重建臨床應用。顯微手術主要是在手術顯微鏡下，對直徑極小的血管（如小於 1-2 mm）及神經進行縫合與吻合。這項精密技術通常被保留用於修補大面積、多層次或構造複雜的組織缺損（如自由皮瓣移植進行廣泛重建），而非用於常規「小面積」的普通缺損，故 D 選項敘述錯誤。\n\n【選項詳解】\n- A. 正確。顯微自由皮瓣移植（Free tissue transfer）即是將患者遠處部位的組織（如游離腓骨皮瓣、前臂橈側皮瓣）連同其滋養的血管蒂切下，移植到大面積缺損的受區，並在顯微鏡下吻合血管以重建血流，達到重建大面積缺損的目的。\n- B. 正確。對於肢體外傷、嚴重撕裂傷或斷指，顯微外科可用於精細修補與重建受損的小動脈與小靜脈，恢复遠區灌流，是避免肢體壞死與進行斷指再植（Replantation）的核心技術。\n- C. 正確。當周圍神經（如正中神經、尺神經等）受損斷裂時，需要在顯微鏡下進行精細的神經束膜縫合（Perineurial repair）或神經外膜縫合（Epineurial repair），以確保神經束能準確對位，促進神經軸突再生。\n- D. 錯誤。顯微手術技術難度高、耗時長且醫療資源耗費大。對於小面積的普通組織缺損，臨床上通常優先考慮直接縫合、原位縫合、局部皮瓣（Local flap）轉移或皮膚移植（Skin graft）等較為簡單、快速且風險低的手術方式，一般不用於「小面積」的簡單缺損。\n\n【核心考點】\n顯微手術（Microsurgery）的臨床適應症。顯微重建（如游離皮瓣移植、斷指再植、小神經/小血管修補）是用於重建大面積、複雜、深部或無法直接縫合/局部皮瓣處理的組織缺損，不適用於小面積的簡單組織缺損。",
+      "key_point": "顯微手術用於吻合小血管與神經，主要解決大面積、複雜或無法以局部皮瓣修補的重度組織缺損，不適用於小面積的簡單組織缺損。",
+      "flashcard_front": "顯微手術（microsurgery）的主要適應症為何？為何通常不用於小面積組織缺損？",
+      "flashcard_back": "主要用於吻合小血管與神經以重建大面積、深部或複雜組織缺損（如游離皮瓣重建、斷指再植）。小面積缺損可以直接縫合或以局部皮瓣修補，不需動用耗時且高難度的顯微手術。",
+      "flashcard_summary": "顯微手術主要用於大面積、複雜重建與血管神經吻合，不用於小面積的簡單組織缺損。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題考查先天性心臟病（Congenital Heart Disease, CHD）的完全矯正外科手術原則。題幹所述使用「帶瓣膜的同種異體移植物（Valved homograft）」來銜接右心室與肺動脈，是為了重建發育不全或缺失的右心室流出道（Right ventricular outflow tract, RVOT）。在動脈幹症（1）與肺動脈瓣閉鎖合併心室中膈缺損（3）的病患中，右心室流出道均有嚴重解剖缺失或未發育，故完全矯正手術時需要使用帶瓣移植物建立通道，標準答案選 B。\n\n【選項詳解】\n- A. 錯誤。組合 1（動脈幹症）需要使用帶瓣移植物重建右心室流出道；但組合 2（完全性肺靜脈回流異常）僅需行肺靜脈與左心房吻合，不涉及右心室流出道的重建，因此不需要此移植物。\n- B. 正確。組合 1（動脈幹症，Truncus arteriosus）因缺乏獨立肺動脈幹，必須重建右心室至肺動脈；組合 3（肺動脈瓣閉鎖合併心室中膈缺損，PA-VSD）亦因右心室與肺動脈間中斷，需完全重建右心室流出道。兩者在完全矯正手術中皆強烈需要使用帶瓣膜的同種異體移植物（Valved homograft）。\n- C. 錯誤。組合 3 需要使用此移植物；但組合 2（完全性肺靜脈回流異常）不需要此移植物，故此組合選項錯誤。\n- D. 錯誤。組合 1 需要使用此移植物；但組合 4（主動脈窄縮症）是體循環主動脈峽部的發育狹窄，手術在主動脈上進行，右心室流出道與肺動脈結構正常，不需要此移植物，故此組合選項錯誤。\n\n【核心考點】\n右心室流出道（RVOT）重建手術指征。在先天性心臟病完全矯正中，凡是右心室與肺動脈之間解剖結構缺失或完全發育中斷者（如動脈幹症 Truncus arteriosus、肺動脈瓣閉鎖 PA），均需使用帶瓣同種異體移植物（Valved homograft）以重建 RV-to-PA 通道。",
+      "key_point": "帶瓣同種異體移植物（homograft）用於重建缺失的右心室流出道（RVOT），適用於動脈幹症與肺動脈瓣閉鎖合併VSD，不適用於TAPVR與主動脈窄縮。",
+      "flashcard_front": "先天性心臟病完全矯正手術中，哪些疾病需要使用「帶瓣同種異體移植物（valved homograft）」重建右心室至肺動脈通道？",
+      "flashcard_back": "需要重建右心室流出道（RVOT）的疾病，如動脈幹症（truncus arteriosus）與肺動脈瓣閉鎖合併心室中膈缺損（PA-VSD）。",
+      "flashcard_summary": "動脈幹症與肺動脈瓣閉鎖合併VSD因缺乏正常右心室流出道，需使用帶瓣膜的同種異體移植物重建通道。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考查急性心肌梗塞（AMI）的嚴重後期併發症—心室中膈破裂（Ventricular Septal Rupture, VSR）的臨床表現、血流動力學穩定處置（如 IABP 的使用）以及緊急手術的時機與醫療法規。心肌梗塞一週後突發休克、呼吸困難且胸骨左側出現新收縮期雜音，為典型 VSR 表現。此時患者處於心因性休克，臨床「強烈需要」裝置主動脈內氣球幫浦（IABP）以降低左心室後負荷、減少左至右分流，故敘述 2「不須裝置 IABP」是錯誤的，標準答案選 D（僅 2 錯誤）。\n\n【選項詳解】\n- A. 錯誤。本選項包含正確敘述。敘述 1 為正確的診斷（心室中膈破裂）；敘述 3 符合醫療法中病人意識清楚時的自主決定權。\n- B. 錯誤。敘述 1 與 3 均為正確的臨床描述，不可作為「何者錯誤」的答案。\n- C. 錯誤。敘述 4 在醫學與法律上是正確的。雖然患者意識不清且家屬無法聯絡符合醫療法的緊急手術例外，但 VSR 在急性休克期直接進行手術的死亡率極高（可達 50% 以上）。若經初步支持治療後「病情略有改善/血流動力學稍微穩定」，臨床上應繼續給予內科治療與 IABP 支持，儘可能延後 2-4 週待心肌壞死邊緣形成纖維化疤痕組織（Scar tissue）後再行手術，如此可大幅提高手術成功率。因此「不可（意指不應）立即手術」在臨床策略上是正確的。\n- D. 正確。本題只有敘述 2 為錯誤。心室中膈破裂（VSR）會產生大量的左至右分流（Left-to-right shunt）加重心臟負擔。裝置主動脈內氣球幫浦（IABP）為 Class I 的首要支持處置，其在心室收縮期排空氣囊可降低主動脈壓力（後負荷），進而減少左至右分流，並在舒張期充氣增加冠狀動脈灌流以穩定血流動力學。因此，敘述 2「不須裝置主動脈內氣球幫浦」是錯誤的。\n\n【核心考點】\n心室中膈破裂（VSR）的血流動力學與手術時機。VSR 急性期休克應使用 IABP 支持（Class I 推薦）以降低後負荷、減少左至右分流。若患者血流動力學可經支持而暫時穩定，手術時機應盡量「延遲」數週，待心肌邊緣纖維化成熟後再行修補，可避免補丁脫落並降低手術死亡率。",
+      "key_point": "心室中膈破裂（VSR）急性期心因性休克首選 IABP 支持以降低後負荷並減少左至右分流；若患者可經藥物與 IABP 穩定，應延遲手術待心肌纖維化成熟後再修補。",
+      "flashcard_front": "急性心肌梗塞後併發心室中膈破裂（VSR）引發心因性休克時，為何強烈建議裝設 IABP？手術時機通常如何考量？",
+      "flashcard_back": "1. IABP 可在收縮期降低左心室後負荷，從而減少左至右的分流量，並在舒張期增加冠狀動脈灌流。2. 若患者血流動力學經初步支持能穩定，應儘可能延遲手術數週，待壞死心肌周圍形成成熟纖維組織後再修補，以降低急性手術的高死亡率。",
+      "flashcard_summary": "VSR併發休克應使用IABP降低後負荷與左至右分流；若生命徵象可穩定，應延遲手術待纖維化成熟再修補以提高生存率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題考查胸腔外科肺葉切除術（Lobectomy）對術後肺功能影響的比較。肺葉切除後對肺功能的減損程度與切除的肺葉組織容積、重量，以及其所含的肺節（Segments）數量呈正比關係。在人體的 5 個肺葉中，右肺中葉（Right middle lobe）的容積最小，且僅包含 2 個肺節（其餘肺葉均包含 3 至 5 個肺節），因此在沒有其他肺部疾病的背景下，切除右肺中葉對患者術後整體肺功能的減損是最小的，故選 B。\n\n【選項詳解】\n- A. 錯誤。右肺上葉（Right upper lobe）佔右肺總體積的 20-25% 左右，在解剖學上包含 3 個肺節（S1 尖節、S2 後節、S3 前節），切除後造成的肺功能損害大於右肺中葉。\n- B. 正確。右肺中葉（Right middle lobe）是人體所有肺葉中體積最小、重量最輕的肺葉，大約僅佔右肺體積的 10-15%。且在解剖結構上，右肺中葉僅由 2 個肺節組成：S4 外側節（Lateral segment）與 S5 內側節（Medial segment）。因此切除後對換氣功能的影響最小。\n- C. 錯誤。左肺上葉（Left upper lobe）因沒有獨立的中葉，其範圍相當於右肺上葉與中葉的總和，包含舌葉（Lingula），在解剖上包含 4 至 5 個肺節（S1+2 尖後節、S3 前節、S4 上舌節、S5 下舌節），是體積非常大的肺葉，切除後對肺功能損害極為顯著。\n- D. 錯誤。左肺下葉（Left lower lobe）是主要的氣體交換區域，佔左肺體積的近一半，在解剖上包含 4 個肺節（S6 背節、S8 前基底節、S9 外側基底節、S10 後基底節），切除後會對術後肺功能造成嚴重的負擔。\n\n【核心考點】\n肺葉切除與肺節解剖的對應關係。右肺共有 10 個肺節（上3、中2、下5），左肺共有 8-10 個肺節（上4-5、下4-5）。右肺中葉（RML）僅含 S4 與 S5 兩個肺節且容積最小，故切除此葉對術後整體肺功能影響最小。",
+      "key_point": "右肺中葉是人體體積最小的肺葉，且解剖上僅含兩個肺節（S4與S5），切除後對術後整體肺功能的影響最小。",
+      "flashcard_front": "進行肺葉切除術（lobectomy）時，切除哪一個肺葉對患者術後肺功能影響最小？其解剖原因為何？",
+      "flashcard_back": "右肺中葉（RML）。因為右肺中葉是體積最小的肺葉（僅佔右肺10-15%），且解剖上僅含有 2 個肺節（S4 外側節與 S5 內側節）。",
+      "flashcard_summary": "右肺中葉體積最小，且僅含 2 個肺節（S4、S5），切除後對肺功能的影響在所有肺葉中最小。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:50:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

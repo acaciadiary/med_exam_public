@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-5.json",
+  "dataset_id": "109-1_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n兒童腸套疊（Intussusception）首選為灌腸復位，出現腹膜炎或穿孔等禁忌症時才需手術。\n\n【選項詳解】\n- A. 正確。兒童腸套疊的好發年齡確實集中在3個月到2歲之間。此時嬰兒的腸道發育、淋巴組織（如Peyer's patches）可能因病毒感染（如腺病毒）而增殖，易作為套疊的引導點（lead point）。\n- B. 錯誤。大多數小兒腸套疊患者（約70-80%以上）在沒有併發症時，首選非手術的氣體灌腸（pneumatic reduction）或液體/鋇劑灌腸（hydrostatic reduction）即可成功復位，僅有少數復位失敗、反覆復位失敗或有禁忌症的患者才需要手術治療。因此「大多數病人都需要手術治療」的敘述是錯誤的，為本題選項目標。\n- C. 正確。兒童腸套疊最好發的解剖部位是迴腸-盲腸型（ileocolic / ileocecal intussusception），占所有病例的80-90%以上，這是因為此處解剖結構上小腸管徑突然變寬進入大腸，且迴盲瓣處淋巴組織豐富，易被蠕動帶入盲腸。\n- D. 正確。若病童在診斷時已出現明顯的腹膜炎、腸穿孔或休克等症狀，代表套疊的腸段極可能已發生缺血壞死。此時灌腸復位有造成氣腹或腹腔糞便污染的高風險，屬於絕對禁忌症，必須採取緊急手術進行清創與手動復位或腸段切除。\n\n【核心考點】\n兒童腸套疊首選為氣體或液體灌腸復位，手術僅保留給復位失敗、有腹膜炎或穿孔禁忌症者；其好發於3個月至2歲，以迴盲型最為常見。",
+      "key_point": "兒童腸套疊首選為灌腸復位，出現腹膜炎或穿孔等禁忌症時才需手術。",
+      "flashcard_front": "兒童腸套疊（Intussusception）的臨床處置與好發特徵有哪些？",
+      "flashcard_back": "好發於3個月至2歲，迴盲部最常見；首選氣體或液體灌腸復位，若合併腹膜炎或穿孔禁忌症則必須手術。",
+      "flashcard_summary": "腸套疊 -> 3m-2y好發，迴盲型最常見，首選灌腸復位，腹膜炎需手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n早產兒壞死性腸炎（NEC）的初始治療以內科保守支持療法（禁食、胃管減壓、廣效抗生素、輸液）為主；手術僅用於出現腸穿孔（氣腹）或內科治療無效惡化者。\n\n【選項詳解】\n- A. 正確。壞死性腸炎（Necrotizing Enterocolitis, NEC）一旦確診或高度懷疑（Bell's stage I以上），應立即採取禁食（NPO）以減輕腸道排空負擔與細菌繁殖，並放置口胃管進行持續減壓，避免腸胃脹氣壓迫横膈膜或加重腸壁壞死。\n- B. 正確。NEC的病理機制常伴隨腸道屏障受損、細菌移位（bacterial translocation）與敗血症。使用針對革蘭氏陰性菌、陽性菌及厭氧菌的廣效性抗生素是標準的內科治療方針，能有效預防或控制腹膜炎及菌血症。\n- C. 錯誤。大部分NEC患者（約70-80%）可以透過內科保守療法（如禁食、減壓、抗生素及支持療法）治癒。手術治療的絕對指徵主要是發生腸穿孔（放射線檢查出現氣腹，即pneumoperitoneum），或是內科治療無效、病情持續惡化（如難治性代謝性酸中毒、血小板持續低下等），並非「所有」病患都需要手術。\n- D. 正確。由於禁食、發炎導致大量體液滲漏至腹腔及腸腔（第三空間流失），以及可能伴隨的敗血症休克，病童需要積極靜脈點滴輸液以維持血壓、尿量，並嚴密監測並補充流失的電解質（如鈉、鉀、鈣等）。\n\n【核心考點】\n早產兒壞死性腸炎（NEC）的初始治療以內科保守支持療法（禁食、胃管減壓、廣效抗生素、輸液）為主；手術僅用於出現腸穿孔（氣腹）或內科治療無效惡化者。",
+      "key_point": "早產兒壞死性腸炎（NEC）首選內科保守支持治療，僅在穿孔或內科無效時行手術。",
+      "flashcard_front": "早產兒壞死性腸炎（Necrotizing Enterocolitis, NEC）的治療原則為何？",
+      "flashcard_back": "以內科支持治療（禁食、胃管減壓、廣效抗生素、維持液體電解質）為主；當出現氣腹（腸穿孔）或病情惡化時才進行手術。",
+      "flashcard_summary": "壞死性腸炎 -> 內科保守治療為主（禁食、減壓、抗生素），氣腹/內科無效才手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n發炎性腸疾（IBD）在歐美發生率高於亞洲。潰瘍性結腸炎（UC）病變局限於黏膜與黏膜下層，有致癌風險；克隆氏症（CD）為侵犯全腸壁（transmural）的跳躍式病變。兩者皆可合併關節、眼部、皮膚及膽道等腸外表現。\n\n【選項詳解】\n- A. 錯誤。發炎性腸疾（Inflammatory Bowel Disease, IBD）在北歐、北美等西方已開發國家的發生率與盛行率顯著高於亞洲地區。雖然亞洲地區近年來因飲食西化，病例呈上升趨勢，但整體發生率仍遠低於歐美，故此敘述錯誤。\n- B. 正確。潰瘍性結腸炎（Ulcerative Colitis, UC）的發炎病變呈連續性，且主要局限在黏膜（mucosa）與黏膜下層（submucosa）。慢性且反覆發炎會導致纖維化，使得結腸縮短、結腸袋消失（lead pipe sign）。長期病程（如發病超過8-10年）的患者，發生大腸直腸癌（colorectal cancer）的風險會顯著增加。\n- C. 正確。克隆氏症（Crohn's Disease, CD）的病理特徵是跳躍式（skip lesions）的發炎，且病變會侵犯整層腸壁（transmural inflammation），導致易發生瘻管（fistula）、狹窄與膿瘍；它可侵犯自口腔至肛門的整個消化道，其中以末端迴腸（terminal ileum）最為常見。\n- D. 正確。IBD常伴隨多系統的腸外表現（extraintestinal manifestations）。眼部病變包括虹膜炎（iritis）、葡萄膜炎（uveitis）與鞏膜炎；關節病變包括周邊關節炎或強直性脊椎炎；皮膚病變如結節性紅斑（erythema nodosum）或壞疽性膿皮症（pyoderma gangrenosum）；肝膽系統則可併發原發性硬化性膽管炎（PSC），尤其是UC患者。\n\n【核心考點】\n發炎性腸疾（IBD）在歐美發生率高於亞洲。潰瘍性結腸炎（UC）病變局限於黏膜與黏膜下層，有致癌風險；克隆氏症（CD）為侵犯全腸壁（transmural）的跳躍式病變。兩者皆可合併關節、眼部、皮膚及膽道等腸外表現。",
+      "key_point": "發炎性腸疾（IBD）在歐美發生率高，潰瘍性結腸炎與克隆氏症在病變層次、分布與腸外表現上各有特徵。",
+      "flashcard_front": "發炎性腸疾中潰瘍性結腸炎（UC）與克隆氏症（CD）的鑑別重點？",
+      "flashcard_back": "UC侵犯黏膜及黏膜下層、病變連續，有癌化風險；CD為transmural侵犯整層、跳躍式病變、可侵犯全消化道。兩者皆可併發眼、關節、皮膚等腸外表現。",
+      "flashcard_summary": "發炎性腸疾 -> UC為連續黏膜層病變，CD為全層跳躍式病變。兩者皆有腸外表現。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n急性闌尾炎的經典診斷線索為「轉移性右下腹痛」（由臍周T10感覺區轉移至McBurney's point），常伴隨噁心、嘔吐與右下腹局部腹膜刺激徵。\n\n【選項詳解】\n- A. 錯誤。急性膽囊炎（Acute cholecystitis）經典症狀為右上腹（RUQ）絞痛或鈍痛，常於進食油膩食物後加劇，並可能放射至右肩 or 右肩胛骨（稱為Boas' sign），理學檢查常可見Murphy's sign陽性。本例患者的症狀轉移模式與痛點位置不符合膽囊炎。\n- B. 正確。患者出現噁心與肚臍周圍（periumbilical）不適，隨後疼痛轉移並局限於右下腹（RLQ），這是因為闌尾早期發炎刺激內臟傳入神經（T10，表現為臍周痛），當發炎波及壁層腹膜時，疼痛會局限於右下腹McBurney's point。這種「轉移性右下腹痛」（migratory pain）是急性闌尾炎（Acute appendicitis）的特異性臨床表徵。此外，在闌尾炎的腹部X光中，有時可看到右下腹局部腸壁水腫、糞石（fecolith）或局部腸氣積聚（sentinel loop）。\n- C. 錯誤。乙狀結腸位於左下腹，故乙狀結腸憩室炎（Sigmoid diverticulitis）在西方人群中經典症狀為左下腹痛（LLQ pain），常被稱為「左側闌尾炎」。雖然亞洲人有時會發生右側升結腸憩室炎，但單純就肚臍周圍轉移至右下腹痛的臨床表徵而言，闌尾炎仍是首要且最經典的診斷。\n- D. 錯誤。消化性潰瘍（Peptic ulcer disease）若未穿孔，通常表現為上腹部燒灼感，與進食時間相關（如胃潰瘍多為食後痛，十二指腸潰瘍為空腹痛/夜間痛）。若發生潰瘍穿孔，則會引發突發性、極為劇烈的全腹膜炎，X光會顯示横膈膜下有游離氣體（free air），與本例的局限性右下腹痛及轉移模式不符。\n\n【核心考點】\n急性闌尾炎的經典診斷線索為「轉移性右下腹痛」（由臍周T10感覺區轉移至McBurney's point），常伴隨噁心、嘔吐與右下腹局部腹膜刺激徵。",
+      "key_point": "急性闌尾炎的診斷核心是轉移性右下腹痛，由臍周痛（T10）轉移至McBurney's point。",
+      "flashcard_front": "急性闌尾炎引發「轉移性右下腹痛」的臨床特徵與神經學表現為？",
+      "flashcard_back": "起初因發炎刺激內臟傳入神經（T10）表現為肚臍周圍不適，隨後發炎累及壁層腹膜，疼痛轉移並局限於右下腹McBurney's point。",
+      "flashcard_summary": "急性闌尾炎 -> 臍周痛轉移至右下腹McBurney's point，伴隨噁心嘔吐。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:47:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n全直腸繫膜切除術（TME）是中低位直腸癌手術的金標準，其核心優勢在於：沿著胚胎解剖平面銳性分離以完整切除直腸繫膜（降低局部復發率、改善長期預後），同時精確保留盆腔自主神經（減少排尿障礙與性功能障礙）。本題要求選出「不會」發生的結果，故選A。\n\n【選項詳解】\n- A. 正確。此選項為本題答案，因為該敘述是「不會」發生的。全直腸繫膜切除術（Total Mesorectal Excision, TME）強調在直視下以銳性分離方式沿著「神聖平面」（holy plane）操作，能夠精確辨識並完整保留骨盆腔的自主神經（盆神經叢與勃起神經，即hypogastric nerves and pelvic splanchnic nerves）。因此，相較於傳統的盲目鈍性撕裂手術，TME能顯著「降低」術後性無能（勃起與射精障礙）的機率，而非使機率增高。\n- B. 錯誤。此選項是TME「會」產生的正面結果。TME能完整將直腸周圍的脂肪繫膜（含所有引流淋巴結及潛在的微小轉移灶）包覆切除，這大提高了根治性切除的機會，臨床研究已證實能顯著改善病患的長期生存率（長期預後較佳）。\n- C. 錯誤。此選項是TME「會」產生的正面結果。由於TME要求切除整塊直腸繫膜，避免了癌細胞在盆腔殘留，這使直腸癌的局部復發率（local recurrence rate）從傳統手術的20-30%降低至5-10%以下。\n- D. 錯誤。此選項是TME「會」產生的正面結果。由於TME在操作中精確避開並保護了支配膀胱與尿道的盆腔自主神經，患者術後發生排尿困難、神經源性膀胱或膀胱功能異常的機率會明顯減少。\n\n【核心考點】\n全直腸繫膜切除術（TME）是中低位直腸癌手術裝備的金標準，其核心優勢在於：沿著胚胎解剖平面銳性分離以完整切除直腸繫膜（降低局部復發率、改善長期預後），同時精確保留盆腔自主神經（減少排尿障礙與性功能障礙）。",
+      "key_point": "直腸癌全直腸繫膜切除術（TME）在銳性分離下能降低局部復發率，並因保留自主神經而減少性功能與排尿異常。",
+      "flashcard_front": "直腸癌全直腸繫膜切除術（Total Mesorectal Excision, TME）的解剖學優勢與臨床效益？",
+      "flashcard_back": "於直視下沿胚胎解剖平面銳性分離，完整切除直腸繫膜以降低局部復發，並精確保留盆腔自主神經以減少術後性無能及排尿障礙。",
+      "flashcard_summary": "全直腸繫膜切除術 -> 完整切除直腸繫膜，保留盆腔自主神經，減少性無能與排尿障礙。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n脊髓內腫瘤最常見者為原發性的室管膜瘤與星狀細胞瘤，轉移性脊髓內腫瘤極為罕見。黏液乳突狀室管膜瘤（myxopapillary ependymoma）則特異性好發於腰薦椎的脊髓圓錐及終絲部位。\n\n【選項詳解】\n- A. 正確。脊髓內腫瘤（Intramedullary spinal cord tumors）約占所有脊柱/脊髓腫瘤的5%至10%。絕大多數的脊椎腫瘤（約90%以上）屬於硬脊膜外腫瘤（extradural tumors，如骨轉移癌），或是硬膜內髓外腫瘤（intradural extramedullary tumors，如神經鞘瘤、腦膜瘤）。\n- B. 正確。原發性脊髓內淋巴瘤（Primary intramedullary spinal cord lymphoma）極為罕見，在臨床上僅占所有髓內腫瘤的極小部分（通常少於1%），多見於免疫功能低下的病人。\n- C. 錯誤。最常見的原發性脊髓內腫瘤是室管膜瘤（Ependymoma） and 星狀細胞瘤（Astrocytoma），這兩者占了成人所有原發髓內腫瘤的80-90%。相反地，轉移至脊髓內的腫瘤（Intramedullary spinal cord metastasis）在臨床上非常罕見，僅占所有脊髓內腫瘤的1-2%左右。因此，「最常見的intramedullary spinal cord tumor為轉移性腫瘤」的描述是錯誤的，為本題選項目標。\n- D. 正確。黏液乳突狀室管膜瘤（Myxopapillary ependymoma）是室管膜瘤的一種特殊亞型，世界衛生組織（WHO）分級為第一級，幾乎專門好發於脊髓圓錐（conus medullaris）與終絲（filum terminale），在解剖位置上即對應於腰椎與薦椎處。\n\n【核心考點】\n脊髓內腫瘤最常見者為原發性的室管膜瘤與星狀細胞瘤，轉移性脊髓內腫瘤極為罕見。黏液乳突狀室管膜瘤（myxopapillary ependymoma）則特異性好發於腰薦椎的脊髓圓錐及終絲部位。",
+      "key_point": "脊髓內腫瘤以原發性的室管膜瘤與星狀細胞瘤最常見，轉移性腫瘤極罕見。",
+      "flashcard_front": "脊髓內腫瘤（Intramedullary spinal cord tumors）的最常見類型與好發位置？",
+      "flashcard_back": "最常見為室管膜瘤與星狀細胞瘤；轉移癌罕見。黏液乳突狀室管膜瘤（myxopapillary ependymoma）好發於脊髓圓錐與終絲（腰薦椎處）。",
+      "flashcard_summary": "脊髓內腫瘤 -> 原發室管膜瘤/星狀細胞瘤最常見；黏液乳突狀室管膜瘤好發於腰薦椎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n末期心臟衰竭（如LVEF < 20%藥物無效、無法重建的冠心病、依賴人工心臟輔助器者）為心臟移植的適應症；但若複雜先天性心臟病仍能透過傳統手術矯正者，應優先矯正而非進行器官移植。\n\n【選項詳解】\n- A. 適合移植。左心室射出率（LVEF）持續低於20%且伴隨嚴重、反覆的心臟衰竭症狀（屬於New York Heart Association, NYHA Class III-IV），在經過最大劑量內科藥物治療仍無法改善時，是接受心臟移植的標準適應症。\n- B. 適合移植。若患者有嚴重的冠狀動脈疾病導致廣泛性心肌缺血，且冠狀動脈解剖結構過差或遠端血管太細，無法進行傳統的冠狀動脈繞道手術（CABG），也無法以經皮冠狀動脈介入治療（PCI）重建血流，若合併心室功能衰竭，心臟移植是合理的終末期選擇。\n- C. 適合移植。心臟衰竭患者因急性惡化已依賴體外膜肺氧合（ECMO）或心室輔助器（VAD）維持生命，且心臟功能無法恢復、亦無法脫離支持系統時，符合「過渡至移植」（Bridge to transplantation）的指徵，是心臟移植的優先考慮對象。\n- D. 不適合移植。此選項為本題答案。雖然複雜的先天性心臟病（CHD）若到終末期心衰竭可能需要心臟移植，但如果該畸形「可以用傳統手術矯正」，則必須優先選擇外科重建或姑息性手術（如Fontan程序或缺損修補等）來保留自體心臟，而不應在仍有矯正機會時直接進行器官移植，以避免移植後長期免疫抑制劑的副作用及移植物衰竭風險。\n\n【核心考點】\n末期心臟衰竭（如LVEF < 20%藥物無效、無法重建的冠心病、依賴人工心臟輔助器者）為心臟移植的適應症；但若複雜先天性心臟病仍能透過傳統手術矯正者，不應首選移植。",
+      "key_point": "末期心衰竭可進行心臟移植，但若複雜先天性心臟病仍能以傳統手術矯正者則不應首選移植。",
+      "flashcard_front": "心臟移植（Heart transplantation）的適應症與非移植優先考量？",
+      "flashcard_back": "適應症包括LVEF < 20%的重度心衰竭、無法做CABG的缺血性心臟病、依賴ECMO等無法斷離者。若複雜先天性心臟病仍可用傳統手術矯正者，應優先矯正而非移植。",
+      "flashcard_summary": "心臟移植 -> 適用於終末期心衰竭/無法修復的心肌缺血。可用傳統手術矯正的先天性心臟病非優先適應症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n卡洛氏三角（Triangle of Calot）的解剖學邊界由總肝管（內側）、膽囊管（外側/下方）及肝臟下緣（上方）構成，其內部含有膽囊動脈（Cystic artery），是膽囊切除術中辨識與分離的重要安全地標。右門靜脈不屬於此邊界，故選D。\n\n【選項詳解】\n- A. 屬於邊界。在經典解剖學與臨床外科學的架構中，卡洛氏三角（Triangle of Calot，或稱膽囊三角 cystohepatic triangle）的上方邊界為肝臟的下緣（主要是右肝葉下緣，或稱肝臟臟面）。\n- B. 屬於邊界。卡洛氏三角的內側邊界為總肝管（Common hepatic duct），此管道與肝門部的左右肝管相接，向下與膽囊管匯合成膽總管（Common bile duct）。\n- C. 屬於邊界。卡洛氏三角的外側/下方邊界為膽囊管（Cystic duct），即連接膽囊頸部與總肝管的管道。在腹腔鏡膽囊切除術中，必須精確游離出此管道。\n- D. 不屬於邊界。此選項為正確答案。右門靜脈（Right portal vein）位於較深層的肝門靜脈系統中，主要負責輸送腸道回流的血液入肝，並不參與構成卡洛氏三角的解剖學邊界。\n\n【核心考點】\n卡洛氏三角（Triangle of Calot）的解剖學邊界由總肝管（內側）、膽囊管（外側/下方）及肝臟下緣（上方）構成，其內部含有膽囊動脈（Cystic artery），是膽囊切除術中辨識與分離的重要安全地標。",
+      "key_point": "Calot氏三角邊界由右肝下緣、總肝管與膽囊管構成，內部含有膽囊動脈。",
+      "flashcard_front": "卡洛氏三角（Triangle of Calot）的解剖學邊界由哪些構造組成？其中包含什麼重要血管？",
+      "flashcard_back": "邊界為右肝下緣（上方）、總肝管（內側）與膽囊管（外側/下方）；內部包含膽囊動脈，為膽囊切除術中的關鍵解剖地標。",
+      "flashcard_summary": "卡洛氏三角 -> 邊界為右肝下緣、總肝管、膽囊管。內含膽囊動脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:47:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n高鉀血症的心電圖演變順序為：早期出現高尖T波（tall peaked T-waves，通常在血鉀 > 5.5 mmol/L時），隨後出現PR間期延長、P波消失、QRS波變寬，最終形成正弦波（sine wave）與心搏停止。因此6.2 mmol/L的血鉀最可能觀察到高尖T波，選A。\n\n【選項詳解】\n- A. 正確。高鉀血症（Hyperkalemia，如本題中血鉀濃度達 6.2 mmol/L）最早期且最具代表性的心電圖（ECG）表現為出現高、尖且對稱的 T 波（tall peaked T-waves，或稱 tented T-waves），主要在胸前導程（precordial leads）最為明顯。這是因為細胞外高鉀促進了心肌細胞的快速再極化。\n- B. 錯誤。T波平坦或倒置（depressed T-waves）以及出現 U 波（U-waves）是低鉀血症（Hypokalemia，血鉀 < 3.5 mmol/L）的典型心電圖表現，反映了心肌再極化延長與異常。\n- C. 錯誤。ST段上升（ST-segment elevation）通常見於急性心肌梗塞（AMI）、急性心包膜炎（Acute pericarditis）或Brugada症候群等。雖然極度嚴重的高鉀血症可能引發類似心肌梗塞的擬心肌梗塞圖形（pseudoinfarction pattern），但對於6.2 mmol/L這種中度高鉀而言，最標準且最常觀察到的仍然是tall T-waves。\n- D. 錯誤。高鉀血症隨濃度繼續升高，會干擾心房與心室的傳導，導致心房脫極化受阻（P波變平甚至消失）、房室傳導阻滯（PR間期延長），以及心室傳導延遲，進而表現為 QRS 波變寬（QRS widening，而非縮短 shortening），若不處理會演變成正弦波（sine wave）及心室顫動。\n\n【核心考點】\n高鉀血症的心電圖演變順序為：早期出現高尖T波（tall peaked T-waves，通常在血鉀 > 5.5 mmol/L時），隨後出現PR間期延長、P波消失、QRS波變寬，最終形成正弦波（sine wave）與心搏停止。",
+      "key_point": "高鉀血症早期ECG特徵為高尖T波，嚴重時出現PR延長、QRS變寬及正弦波。",
+      "flashcard_front": "高鉀血症（Hyperkalemia）在心電圖（ECG）上的演變特徵為何？",
+      "flashcard_back": "早期（血鉀 > 5.5 mmol/L）出現對稱且高尖的T波（tall peaked T-waves）；隨血鉀升高會出現PR延長、P波變平消失、QRS波變寬，最終形成正弦波。",
+      "flashcard_summary": "高鉀血症ECG -> 早期高尖T波，之後PR延長、P波消失、QRS波變寬，最後正弦波。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n急性高鉀血症處理中，鈣離子（穩定心肌膜電位）最快起效（1-3分鐘）；胰島素+葡萄糖與碳酸氫鈉（促進鉀離子入細胞）約在30分鐘起效；而腸道排鉀樹脂（真正將鉀排出體外）需經消化道作用，起效最慢（數小時以上）。本題要求選出「效果最慢」者，故選D。\n\n【選項詳解】\n- A. 效果較快。靜脈注射短效胰島素（結合高濃度葡萄糖預防低血糖）能藉由刺激細胞膜上的 Na+-K+ ATPase 幫浦，促使細胞外的鉀離子暫時轉移至細胞內，通常在 15-30 分鐘內開始起效，並可持續數小時，是臨床上急性降鉀的常用快速手段。\n- B. 效果最快。靜脈注射鈣離子（如葡萄糖酸鈣或氯化鈣）能提高心肌細胞的動作電位閾值，從而穩定心肌細胞膜電位，對抗高鉀對心臟傳導系統的毒性，預防致死性心律不整。其效果在注射後 1-3 分鐘內即刻顯現，但它「不能」降低血清中的實際鉀離子濃度。\n- C. 效果較快。靜脈注射碳酸氫鈉（Sodium bicarbonate）適用於合併代謝性酸中毒的患者，藉由提高血液pH值，引發 H+-K+ 交換，使細胞外鉀離子進入細胞內。其起效時間約在 30-60 分鐘內，能較快協助降低血鉀。\n- D. 效果最慢。此選項為本題答案。腸胃道鉀離子結合樹脂（Potassium-binding resins，如 sodium polystyrene sulfonate [Kayexalate] 或較新的 patiromer 等）是在腸道中以鈉或鈣離子交換鉀離子，並隨糞便排出體外。此類藥物必須經由消化道蠕動發揮作用，口服或灌腸後通常需要數小時（甚至達數天）才能觀察到降鉀效果，因此在急性高鉀血症的緊急處理中，其效果最慢，不適合作為單一急性搶救藥物。\n\n【核心考點】\n急性高鉀血症處理中，鈣離子（穩定心肌膜電位）最快起效（1-3分鐘）；胰島素+葡萄糖與碳酸氫鈉（促進鉀離子入細胞）約在30分鐘起效；而腸道排鉀樹脂（真正將鉀排出體外）需經消化道作用，起效最慢（數小時以上）。",
+      "key_point": "急性高鉀血症處置中，鈣鹽起效最快（穩定心肌），胰島素入細胞次之，腸道排鉀樹脂最慢。",
+      "flashcard_front": "急性高鉀血症（Hyperkalemia）各項處置的起效速度與作用機制？",
+      "flashcard_back": "最快：靜脈注射鈣鹽（1-3分鐘起效，穩定膜電位）；較快：靜脈胰島素+葡萄糖或碳酸氫鈉（15-30分鐘起效，使鉀入細胞）；最慢：腸胃道排鉀樹脂（數小時起效，經腸道排出鉀）。",
+      "flashcard_summary": "高鉀治療起效速度 -> 鈣鹽（穩定心肌，1-3分） > 胰島素/碳酸氫鈉（轉移入細胞，30分） > 排鉀樹脂（排出體外，數小時）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

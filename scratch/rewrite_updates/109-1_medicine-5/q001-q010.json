@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-5.json",
+  "dataset_id": "109-1_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n人類主要組織相容性複合體（MHC）稱為人類白血球抗原（HLA）。其中 HLA 分子可分為第一型（Class I）與第二型（Class II）。HLA-DR 屬於 Class II MHC 分子，主要表達於抗原呈現細胞表面，向 CD4+ T 細胞呈遞抗原。\n\n【選項詳解】\n- A. 錯誤。HLA-A 屬於第一型（Class I）MHC 分子。Class I MHC 包含 HLA-A、HLA-B、HLA-C，主要表達於幾乎所有具核細胞表面，負責向 CD8+ 毒殺型 T 細胞呈遞內源性抗原（如病毒蛋白、腫瘤抗原）。\n- B. 錯誤。HLA-B 屬於第一型（Class I）MHC 分子，功能與 HLA-A 相同，主要在具核細胞表面與 CD8+ T 細胞的 TCR 及其輔助受體 CD8 結合，引發細胞毒性免疫反應。\n- C. 錯誤。HLA-C 亦屬於第一型（Class I）MHC 分子，同樣負責將內源性勝肽呈遞給 CD8+ T 細胞，而非屬於 Class II 分子。\n- D. 正確。HLA-DR 屬於第二型（Class II）MHC 分子。Class II MHC 包含 HLA-DP、HLA-DQ、HLA-DR，主要表達於專職抗原呈現細胞（如樹突細胞、巨噬細胞及 B 細胞）表面，負責將外源性抗原呈遞給 CD4+ 輔助型 T 細胞。\n\n【核心考點】\n第一型 MHC（HLA-A, B, C）表達於所有具核細胞，呈遞給 CD8+ T 細胞；第二型 MHC（HLA-DP, DQ, DR）表達於抗原呈現細胞（APC），呈遞給 CD4+ T 細胞（口訣：1x8=8，2x4=8）。",
+      "key_point": "HLA-DR 屬於 Class II MHC 分子，主要表達於專職抗原呈現細胞（APC）表面，呈遞抗原給 CD4+ T 細胞。",
+      "flashcard_front": "下列何者屬於 Class II major histocompatibility complex (MHC) 分子？",
+      "flashcard_back": "HLA-DR（以及 HLA-DP、HLA-DQ）屬於 Class II MHC，主要呈遞外源性抗原給 CD4+ T 細胞；而 HLA-A、HLA-B、HLA-C 屬於 Class I MHC。",
+      "flashcard_summary": "MHC 分子分類 -> Class I 包含 HLA-A, B, C；Class II 包含 HLA-DP, DQ, DR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n手術部位感染（SSI）與手術傷口分級密切相關。第四級傷口（髒污/感染傷口）通常存在活動性感染、陳舊性創傷或內臟穿孔，細菌負荷量極高。為了防止深部組織蓄膿與嚴重感染，標準處置為清創後進行延遲縫合或二度縫合。\n\n【選項詳解】\n- A. 錯誤。直接縫合（一期縫合）會將大量細菌與壞死組織封閉於密閉的手術腔室中，極易引發嚴重的深部手術部位感染（SSI）或壞死性筋膜炎，是第四級傷口的禁忌。\n- B. 錯誤。雖然大量生理食鹽水沖洗能降低部分細菌量，但第四級傷口組織多已受細菌嚴重污染或有局部感染，單純沖洗後直接縫合仍會面臨極高的術後感染與傷口裂開風險。\n- C. 錯誤。局部使用抗生素無法替代徹底清創與開放引流的作用。在此類高度污染傷口直接縫合，局部抗生素濃度無法持續且難以阻斷深部膿瘍形成，不符合標準外科原則。\n- D. 正確。第四級傷口（Dirty/Infected）的標準處理流程為：徹底清除壞死組織與異物，保留傷口開放引流並定期換藥；待感染得到控制、肉芽組織生長良好後，再進行延遲一期縫合（delayed primary closure）或讓傷口自行經由二期癒合（secondary intention closure）收口。\n\n【核心考點】\n第四級髒污/感染傷口（Dirty-infected，如內臟穿孔、已化膿傷口）禁止直接一期縫合，應進行徹底清創，並採取延遲縫合（delayed closure）或二度縫合以降低手術部位感染率。",
+      "key_point": "第四級髒污/感染手術傷口應在清創後維持開放，採用延遲縫合或二度縫合，以防深部蓄膿感染。",
+      "flashcard_front": "第四級手術傷口（Dirty-infected）在手術結束時應如何處置？",
+      "flashcard_back": "應採延遲縫合（delayed closure）或二度縫合（secondary intention closure），嚴禁直接一期縫合，以防嚴重的手術部位感染。",
+      "flashcard_summary": "第四級手術傷口處置 -> 徹底清創後保留開放，行延遲縫合或二期癒合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n手術部位感染（SSI）的預防著重於整體無菌原則與患者生理狀態的最佳化。患者若在遠離手術區域之處存有活動性感染灶，細菌可能經由血流定植於手術切口（血行性播散），因此術前避免與控制遠處感染能有效預防 SSI。\n\n【選項詳解】\n- A. 錯誤。不建議常規使用抗生素來預防一般的尿路感染（UTI，如留置導尿管者），因為預防性抗生素無法有效清除尿管表面形成的生物膜（biofilm），反而會篩選出具多重抗藥性的菌株。\n- B. 錯誤。常規全身性抗生素無法預防中央靜脈導管（CVC）相關血流感染。預防 CVC 相關感染的關鍵在於落實無菌置管組合處置（CVC bundle，如最大無菌防護、去水氯己定皮膚消毒）及儘早拔除導管。\n- C. 正確。若手術患者體內其他遠隔部位（如肺部、泌尿道或牙齒）存在感染，細菌易藉由血液循環播散並定植於剛動過手術的受創組織，進而引發 SSI。因此，在術前妥善治療並避免這些遠處感染，是預防 SSI 的重要策略。\n- D. 錯誤。營養風險評估（NRS 2002）分數達 5 分表示患者處於極高的營養風險（重度營養不良）。若不於術前進行適當的營養支持與矯正（通常建議推遲非緊急手術並給予 7-14 天營養支持），會使術後傷口癒合不良、吻合口漏及感染的機率顯著上升。\n\n【核心考點】\n術前應積極治療遠處感染（如尿路感染、肺炎）以防細菌經血流播散造成手術部位感染（SSI）；重度營養不良（NRS 評分高）患者必須在術前給予營養支持以促進傷口癒合。",
+      "key_point": "術前避免或控制遠離手術部位的感染可防止發生 SSI（血行定植）；高營養風險者術前需先予營養矯正。",
+      "flashcard_front": "為何手術前避免遠處感染（如肺炎、尿路感染）可降低手術部位感染（SSI）？",
+      "flashcard_back": "因為遠處感染灶的細菌可能經由血行性播散（hematogenous seeding）定植於手術切口；控制遠處感染可切斷此傳播途徑。",
+      "flashcard_summary": "SSI 預防與術前管理 -> 避免遠處感染血行定植，重度營養不良者術前需先糾正。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出腹內壓增加（IAH）生理反應中「錯誤」的敘述。腹內壓上升會使橫膈膜上移，傳導壓力至胸腔，導致胸腔內壓增加，因而使中央靜脈壓（CVP）出現假性上升而非減少，故選項 B 敘述錯誤。\n\n【選項詳解】\n- A. 錯誤。此敘述正確。腹內壓增加會直接壓迫腎臟實質、腎小動脈及腎靜脈，造成腎血管阻力增加、腎血流量下降以及腎小球濾過率（GFR）下降，臨床上表現為少尿或無尿。\n- B. 正確。此敘述錯誤，符合題意。腹腔壓力增加會向上擠壓橫膈膜，導致胸腔內壓力同步上升。由於大血管受壓與胸腔內壓傳導，中央靜脈壓（CVP）和肺動脈楔壓（PAWP）會呈現假性「上升」而非減少。\n- C. 錯誤。此敘述正確。腹內高壓會壓迫下腔靜脈（IVC），使回心血量（venous return）降低，進而導致心輸出量（cardiac output）下降。身體為維持血壓，會代償性地活化交感神經，使心跳加快。\n- D. 錯誤。此敘述正確。橫膈膜受腹腔壓力推擠向上移位，會直接縮減胸腔容積並壓迫肺部，使得肋膜內壓（intrapleural pressure）隨之增高，進而導致肺順應性下降。\n\n【核心考點】\n腹內壓增高（IAH）時，壓力經由橫膈膜傳導至胸腔，會導致肋膜內壓與中央靜脈壓（CVP）呈現假性「增加」，且回心血量減少會引發代償性心跳加快。",
+      "key_point": "腹內壓增高（IAH）會使橫膈膜上移，導致胸腔內壓、肋膜內壓及中央靜脈壓（CVP）假性增加，心輸出量減少且心跳代償性加快。",
+      "flashcard_front": "腹內壓增加（IAH）時，中央靜脈壓（CVP）與肋膜內壓會如何變化？",
+      "flashcard_back": "兩者皆會「增加」。腹壓會推擠橫膈膜向上，將壓力傳導至胸腔，使胸腔內壓（含肋膜內壓及血管內的 CVP）同步假性升高。",
+      "flashcard_summary": "腹內壓增高之生理影響 -> 腎血流減少、CVP 增加（非減少）、代償性心跳加快、肋膜內壓增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於腹腔腔室症候群（ACS）「錯誤」的敘述。臨床上間接測量腹內壓（IAP）的主要且金標準方法是經由導尿管測量「膀胱內壓」，而非放置鼻胃管，故選項 B 敘述錯誤。\n\n【選項詳解】\n- A. 錯誤。此敘述正確。腹腔腔室症候群（ACS）好發於遭受重度創傷、重症急性胰臟炎、腹主動脈瘤破裂，或在加護病房中接受大量體液復甦（fluid resuscitation）導致腹壁與內臟高度水腫的患者。\n- B. 正確。此敘述錯誤，符合題意。測量腹內壓（IAP）的最標準且常用間接方法是測量「膀胱內壓（intravesical/bladder pressure）」，測量時經由導尿管注入約 20-25 mL 生理食鹽水以利壓力傳導；鼻胃管所測的胃內壓易受胃壁蠕動及胃容積影響，並非主要方法。\n- C. 錯誤。此敘述正確。正常成人腹內壓約為 0-5 mmHg。當 IAP > 12 mmHg 臨床界定為腹內高壓（IAH），會壓迫肺部導致呼吸困難。當壓力升至 25 mmHg 以上，會嚴重壓迫腹腔內大血管（如下腔靜脈、門靜脈），使靜脈回流與內臟灌流急劇下降。\n- D. 錯誤。此敘述正確。確認 ACS 的關鍵在於持續的腹內高壓（通常指 IAP > 20 mmHg）且合併有「新發的器官衰竭」（如少尿、缺氧或低血壓）。決定是否實施開腹減壓手術（decompressive laparotomy）時，器官衰竭的存在與否是核心指標。\n\n【核心考點】\n臨床上間接測量腹內壓（IAP）的黃金標準是測量「膀胱內壓」（bladder pressure）；當腹內壓 > 20 mmHg 且合併器官衰竭時，即可判定為腹腔腔室症候群（ACS），需考慮開腹減壓。",
+      "key_point": "測量腹內壓（IAP）的間接標準方法是經導尿管測量「膀胱內壓」。ACS 判定為腹內壓 > 20 mmHg 伴器官衰竭。",
+      "flashcard_front": "臨床上如何間接監測患者的腹內壓（IAP）？其判定腹腔腔室症候群（ACS）的臨界值為何？",
+      "flashcard_back": "使用導尿管測量「膀胱內壓（bladder pressure）」。當持續的腹內壓 > 20 mmHg 且合併新發器官衰竭時，即可判定為 ACS。",
+      "flashcard_summary": "腹腔腔室症候群（ACS） -> 膀胱內壓為測量金標準，IAP > 20 mmHg + 器官衰竭為手術指徵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:47:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題為否定題，問哪種減重手術「不是單純的限制型（restrictive type）」。減重手術依機制可分為限制型（減少胃容積）與吸收不良型（改變腸道結構減少吸收）。膽胰繞道併十二指腸反轉術（BPD-DS）雖然也切除部分胃，但主要是以縮短腸道吸收路徑為主的「吸收不良型（或混合型）」手術，故選 D。\n\n【選項詳解】\n- A. 錯誤。可調式胃束帶手術（AGB）純粹是利用置於胃上部的可調式矽膠帶限制胃的容積，進食極少便有飽足感，不涉及任何小腸重組與吸收改變，屬於純限制型（restrictive）手術。\n- B. 錯誤。縱式胃隔間術（VBG）是利用釘合器在胃上部造出一個小囊，並用帶子固定出口，藉此限制食物攝入量，亦屬於純限制型手術（臨床上因併發症多現已極少使用）。\n- C. 錯誤。袖狀胃切除術（SG，俗稱切胃）是沿著胃大彎切除約 75-80% 的胃，使殘餘的胃呈現如香蕉狀的袖套，其主要機制也是限制食量（雖然也會減少分泌 ghrelin 的胃底組織），在分類上仍屬於限制型手術。\n- D. 正確。膽胰繞道併十二指腸反轉（BPD-DS）結合了限制型（部分袖狀胃切除）與強烈的吸收不良型（malabsorptive）機制。它將十二指腸遠端切斷，並重組迴腸，使食物與膽胰液在極遠端的共同管道（common channel）才混合，大大縮短了營養物質的吸收長度，因此其主要減重機制來自於吸收不良，不是「單純」的限制型手術。\n\n【核心考點】\n減重手術分類：限制型包括胃束帶（AGB）、袖狀胃切除（SG）；吸收不良型/混合型以膽胰繞道併十二指腸反轉（BPD-DS）為典型代表，藉由改變腸道結構使營養吸收大幅減少。",
+      "key_point": "膽胰繞道併十二指腸反轉（BPD-DS）以吸收不良（malabsorptive）為主要減重機制，非單純限制型手術。",
+      "flashcard_front": "減重手術中，袖狀胃切除（SG）與膽胰繞道併十二指腸反轉（BPD-DS）在機制上有何不同？",
+      "flashcard_back": "袖狀胃切除（SG）屬於限制型（restrictive），僅縮小胃容積；BPD-DS 則屬於吸收不良型（或混合型），藉由改道小腸、縮短吸收長度來減少熱量吸收。",
+      "flashcard_summary": "減重手術分類 -> 限制型（AGB, VBG, SG） vs 吸收不良/混合型（BPD-DS, RYGB）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n30 歲女性、結婚 6 年不孕且月經失調（時有時無），高度暗示其原先即患有功能性腦下垂體腺瘤（如泌乳激素瘤）。患者突發劇烈頭痛、視力模糊與雙顳側偏盲（視交叉受壓迫之特異性視野缺損），此為腦下垂體瘤急性出血或梗塞（腦下垂體中風，pituitary apoplexy）的典型臨床三聯徵，故選 B。\n\n【選項詳解】\n- A. 錯誤。顱咽管瘤（Craniopharyngioma）是由 Rathke's pouch 殘餘上皮細胞發展而來的良性囊性腫瘤。雖然也會壓迫視交叉導致雙顳側偏盲與內分泌障礙，但其病程通常呈漸進性慢性發展，極少出現突發性劇烈頭痛及急性偏盲等「中風樣」表現。\n- B. 正確。腦下垂體腦瘤出血（Pituitary apoplexy，又稱腦下垂體中風）是指原本存在的腦下垂體腺瘤突然發生急性出血或缺血性壞死。這會導致腫瘤體積在數小時內急劇膨脹，向上壓迫位於上方的視交叉（造成突發性雙顳側偏盲及視力障礙），並伴隨腦膜刺激引起的突發性劇烈頭痛，與患者長期不孕（泌乳激素瘤背景）及急性病程完全相符。\n- C. 錯誤。矢狀竇旁腦膜瘤（Parasagittal meningioma）主要壓迫大腦半球頂部的運動皮質皮層（特別是支配雙下肢運動的運動帶區域），典型臨床表現為漸進性雙下肢無力或癲癇，不會壓迫視交叉，亦不會引發雙顳側偏盲與不孕症。\n- D. 錯誤。聽神經瘤（Acoustic neuroma，即前庭神經鞘瘤）位於小腦腦橋角（CPA），其典型臨床表現為單側漸進性感音神經性聽力喪失、耳鳴及眩暈，眼球運動與視野（雙顳側偏盲）不受影響。\n\n【核心考點】\n腦下垂體中風（Pituitary apoplexy）的典型臨床表現：原有內分泌異常（如不孕、泌乳）背景，突發劇烈頭痛、視力模糊、以及因壓迫視交叉（optic chiasm）產生的「雙顳側偏盲」（bitemporal hemianopsia）。",
+      "key_point": "不孕/月經失調女性突發劇烈頭痛與雙顳側偏盲，診斷首選腦下垂體腦瘤出血（pituitary apoplexy）。",
+      "flashcard_front": "一位有慢性月經失調/不孕病史的女性突然發生劇烈頭痛與雙顳側偏盲，最可能的診斷與受壓迫的解剖構造 homes 應為何？",
+      "flashcard_back": "診斷為腦下垂體中風（Pituitary apoplexy）；受壓迫的解剖構造是位於腦下垂體上方的「視交叉（optic chiasm）」。",
+      "flashcard_summary": "腦下垂體中風 -> 慢性內分泌異常背景 + 突發劇烈頭痛 + 雙顳側偏盲（視交叉受壓）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n腰椎椎間盤突出最常發生在脊椎承受身體重力與機械性摩擦力最大的下腰椎節段。在所有腰椎椎間盤突出病例中，約有 90% 以上發生在 L4-L5 以及 L5-S1 這兩個相鄰的關節間隙，故標準答案為 D。\n\n【選項詳解】\n- A. 錯誤。L1-L2 與 L2-L3 屬於高位腰椎節段，此處脊椎活動度較小且承受的機械性剪力與重力負荷相對較輕，因此該處椎間盤突出的發生率極低，兩者合計僅占全部病例的 1-2%。\n- B. 錯誤。L2-L3 與 L3-L4 的椎間盤突出發生率雖然略高於上腰椎，但依然不屬於高發區，這兩個節段的病變比率合起來不到 5%。\n- C. 錯誤。L3-L4 發生率不高，而 L4-L5 雖然是高發位置之一（約佔 40-45%），但與 L3-L4 搭配的選項無法涵蓋「90% 發生率」的統計數據。\n- D. 正確。腰椎最底部的 L4-L5 以及 L5-S1 承受了人體大部分的直立重力，且在日常彎腰、旋轉身體或搬運重物時，此處受到的機械性摩擦與應力集中最為顯著，纖維環最容易退化與撕裂。臨床統計上，這兩個節段的突出佔了所有腰椎椎間盤突出的 90-95%。\n\n【核心考點】\n腰椎椎間盤突出有 90% 以上高發於下腰椎的 L4-L5 與 L5-S1，主因是該節段承受的重力力矩與剪力最大。",
+      "key_point": "腰椎椎間盤突出超過 90% 發生在 L4-5 與 L5-S1 兩個下腰椎節段（承受力最大）。",
+      "flashcard_front": "腰椎椎間盤突出最常發生的兩個特定節段為何？為什麼？",
+      "flashcard_back": "L4-L5 與 L5-S1（占 90% 以上）。因為這兩節段位於腰椎底部，承受直立重力最大，且活動時的應力集中與摩擦剪力最顯著。",
+      "flashcard_summary": "腰椎椎間盤突出好發部位 -> L4-L5 與 L5-S1 佔 90% 以上。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n惡性腫瘤（如肺癌、乳癌、攝護腺癌、腎癌等）極易發生脊椎骨轉移。在整條脊椎中，轉移性腫瘤最常發生的部位是胸椎，其次是腰椎，頸椎則最少見，故標準答案為 B。\n\n【選項詳解】\n- A. 錯誤。頸椎轉移約占所有脊椎轉移性腫瘤的 10%，在所有脊椎節段中發生率最低。這與頸椎骨骼體積較小、血流量相對胸腰椎較低有關。\n- B. 正確。胸椎（Thoracic spine）是脊椎轉移性腫瘤最常發生的部位，約占 60-70%。其主因是胸椎擁有 12 個椎體，長度最長，且該節段胸腔內器官（如肺部、乳房）的靜脈血流會經由無瓣膜的 Batson's 脊椎靜脈叢（Batson's venous plexus）直接引流回流，使腫瘤細胞極易在此處骨髓中定植。\n- C. 錯誤。腰椎（Lumbar spine）的轉移發生率僅次於胸椎，約占 20-25%。雖然腰椎椎體較大且血流豐富，但其節段數較胸椎少，轉移概率在統計上低於胸椎。\n- D. 錯誤。薦椎（Sacrum）的轉移極為少見，其比例在臨床統計上遠低於胸椎與腰椎。\n\n【核心考點】\n脊椎轉移性腫瘤的發生率順序為：胸椎（60-70%） > 腰椎（20-25%） > 頸椎（10%）。胸椎高發主因是節段最長且與胸腔臟器藉由 Batson's 靜脈叢交通。",
+      "key_point": "脊椎轉移性腫瘤中最常轉移的節段為胸椎（Thoracic spine），約占 60-70%。",
+      "flashcard_front": "惡性腫瘤發生脊椎轉移時，最常累及哪一個脊椎節段？",
+      "flashcard_back": "胸椎（Thoracic spine，約占 60-70%），主因是胸椎節段最長，且胸腔臟器（如肺、乳房）的靜脈血流與無閥門的 Batson's 脊椎靜脈叢有豐富交通。",
+      "flashcard_summary": "脊椎轉移性腫瘤好發部位 -> 胸椎（最常轉移，60-70%） > 腰椎 > 頸椎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題為否定題，問何者「不是」常見的硬脊膜內髓外（intradural extramedullary）脊髓腫瘤。脊椎管內腫瘤依解剖位置可分髓內、硬膜內髓外及硬膜外。間變性星狀細胞瘤（anaplastic astrocytoma）生長於脊髓實質內部，屬於「髓內（intramedullary）」腫瘤，故選 D。\n\n【選項詳解】\n- A. 錯誤。腦膜瘤（Meningioma）起源於蛛網膜細胞，是典型的硬脊膜內髓外（intradural extramedullary）腫瘤，佔所有硬膜內髓外脊椎腫瘤的 25% 左右，多見於胸椎的中老年女性。\n- B. 錯誤。神經鞘瘤（Schwannoma）源自周圍神經根的雪旺氏細胞，是硬脊膜內髓外最常見的腫瘤類型（約占 30%），常沿著神經孔向內外延伸生長，呈啞鈴狀（dumbbell shape）。\n- C. 錯誤。神經纖維瘤（Neurofibroma）亦起源於神經鞘細胞，是硬脊膜內髓外常見的良性腫瘤，特別常出現在患有神經纖維瘤病第一型（NF-1）的患者身上。\n- D. 正確。間變性星狀細胞瘤（Anaplastic astrocytoma）屬於神經膠質瘤的一種，病變源於脊髓神經膠質細胞，直接生長在脊髓實質內部，屬於「髓內（intramedullary）」腫瘤。髓內腫瘤最常見者為室管膜瘤（ependymoma）與星狀細胞瘤，與硬膜內髓外腫瘤在解剖分區與手術方式上有本質區別。\n\n【核心考點】\n脊髓腫瘤解剖分類：硬脊膜內髓外（intradural extramedullary）以神經鞘瘤（schwannoma）及腦膜瘤（meningioma）最常見；髓內（intramedullary）最常見為室管膜瘤（ependymoma）與星狀細胞瘤（astrocytoma）。",
+      "key_point": "間變性星狀細胞瘤（anaplastic astrocytoma）屬於脊髓髓內（intramedullary）腫瘤，而非硬膜內髓外腫瘤。",
+      "flashcard_front": "脊髓腫瘤中，meningioma, schwannoma 與 astrocytoma 依解剖位置分類有何不同？",
+      "flashcard_back": "Meningioma 與 schwannoma 屬於「硬脊膜內髓外（intradural extramedullary）」腫瘤；而 Astrocytoma（如 anaplastic astrocytoma）則屬於「髓內（intramedullary）」腫瘤。",
+      "flashcard_summary": "脊髓腫瘤分類 -> 硬膜內髓外（schwannoma, meningioma, neurofibroma） vs 髓內（ependymoma, astrocytoma）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T11:42:39+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
