@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-2.json",
+  "dataset_id": "110-1_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nHLA-B*5701 與藥物過敏；官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。amoxicillin 過敏不以 HLA-B*5701 篩檢為常規。\n- B. 錯誤。carbamazepine 重要基因是 HLA-B*1502 或 HLA-A*3101，依族群而定。\n- C. 正確。abacavir 使用前需檢測 HLA-B*5701，以避免嚴重過敏反應。\n- D. 錯誤。allopurinol 嚴重皮膚反應常與 HLA-B*5801 相關。\n\n【核心考點】\nAbacavir 對應 HLA-B*5701；allopurinol 對應 HLA-B*5801。",
+      "key_point": "Abacavir 對應 HLA-B*5701；allopurinol 對應 HLA-B*5801。",
+      "flashcard_front": "HLA-B*5701 與藥物過敏",
+      "flashcard_back": "Abacavir 對應 HLA-B*5701；allopurinol 對應 HLA-B*5801。",
+      "flashcard_summary": "HLA-B*5701 與藥物過敏 -> Abacavir 對應 HLA-B*5701；allopurinol 對應 HLA-B*5801。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n青黴素類抗生素特性；官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。ampicillin 吸收會受食物影響，amoxicillin 口服吸收較佳。\n- B. 錯誤。dicloxacillin 抗酸且耐 penicillinase，吸收差不是因酸性不穩定。\n- C. 正確。amoxicillin 抗藥性常來自 beta-lactamase，可與 clavulanate 併用克服部分抗藥性。\n- D. 錯誤。nafcillin 主要經肝膽排泄，腎排泄不是主要途徑。\n\n【核心考點】\nAmoxicillin 常因 beta-lactamase 失效；nafcillin 主要肝膽排泄。",
+      "key_point": "Amoxicillin 常因 beta-lactamase 失效；nafcillin 主要肝膽排泄。",
+      "flashcard_front": "青黴素類抗生素特性",
+      "flashcard_back": "Amoxicillin 常因 beta-lactamase 失效；nafcillin 主要肝膽排泄。",
+      "flashcard_summary": "青黴素類抗生素特性 -> Amoxicillin 常因 beta-lactamase 失效；nafcillin 主要肝膽排泄。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n單株抗體腫瘤治療；官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。alemtuzumab 抗 CD52，會造成明顯淋巴球減少與感染風險。\n- B. 錯誤。bevacizumab 抗 VEGF，會影響傷口癒合，通常不適合術後立即投藥。\n- C. 正確。catumaxomab 是 bispecific/trifunctional antibody，可連結腫瘤 EpCAM 與 T cell CD3。\n- D. 錯誤。cetuximab 阻斷 EGFR；ramucirumab 阻斷 VEGFR2，不是同樣阻斷 EGFR。\n\n【核心考點】\nCatumaxomab 可同時橋接腫瘤細胞與 T 細胞。",
+      "key_point": "Catumaxomab 可同時橋接腫瘤細胞與 T 細胞。",
+      "flashcard_front": "單株抗體腫瘤治療",
+      "flashcard_back": "Catumaxomab 可同時橋接腫瘤細胞與 T 細胞。",
+      "flashcard_summary": "單株抗體腫瘤治療 -> Catumaxomab 可同時橋接腫瘤細胞與 T 細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\ntopoisomerase II 抑制抗癌藥；官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。busulfan 是 alkylating agent，常用於骨髓移植前處置。\n- B. 錯誤。cyclophosphamide 是 alkylating agent。\n- C. 正確。idarubicin 是 anthracycline，可抑制 topoisomerase II 並造成 DNA 斷裂。\n- D. 錯誤。methotrexate 抑制 dihydrofolate reductase，影響葉酸代謝。\n\n【核心考點】\nAnthracyclines 如 doxorubicin、idarubicin 可抑制 topoisomerase II。",
+      "key_point": "Anthracyclines 如 doxorubicin、idarubicin 可抑制 topoisomerase II。",
+      "flashcard_front": "topoisomerase II 抑制抗癌藥",
+      "flashcard_back": "Anthracyclines 如 doxorubicin、idarubicin 可抑制 topoisomerase II。",
+      "flashcard_summary": "topoisomerase II 抑制抗癌藥 -> Anthracyclines 如 doxorubicin、idarubicin 可抑制 topoisomerase II。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\nCMF 與 pyrimidine 類似物；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。5-FU 是 pyrimidine analog，代謝物 FdUMP 抑制 thymidylate synthase。\n- B. 錯誤。cytarabine 是 cytidine analog，主要用於 AML 等，非 CMF 乳癌標準成分。\n- C. 錯誤。methotrexate 是 antifolate，CMF 成分之一但不是 pyrimidine 類似物。\n- D. 錯誤。vincristine 是 vinca alkaloid，抑制微小管聚合。\n\n【核心考點】\nCMF 包含 cyclophosphamide、methotrexate、5-fluorouracil；5-FU 抑制 thymidylate synthase。",
+      "key_point": "CMF 包含 cyclophosphamide、methotrexate、5-fluorouracil；5-FU 抑制 thymidylate synthase。",
+      "flashcard_front": "CMF 與 pyrimidine 類似物",
+      "flashcard_back": "CMF 包含 cyclophosphamide、methotrexate、5-fluorouracil；5-FU 抑制 thymidylate synthase。",
+      "flashcard_summary": "CMF 與 pyrimidine 類似物 -> CMF 包含 cyclophosphamide、methotrexate、5-fluorouracil；5-FU 抑制 thymidylate synthase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nSumatriptan 機轉與禁忌；題目問錯誤敘述，官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。sumatriptan 是 5-HT1B/1D agonist，不是 antagonist。\n- B. 正確。與 SSRI/SNRI 等併用需注意 serotonin syndrome 風險。\n- C. 正確。因會造成血管收縮，冠狀動脈疾病病人禁用或避免使用。\n- D. 正確。5-HT1B/1D 活化可使顱內血管收縮並抑制三叉神經胜肽釋放。\n\n【核心考點】\nTriptans 是 5-HT1B/1D agonists，禁用於冠心病等血管收縮高風險者。",
+      "key_point": "Triptans 是 5-HT1B/1D agonists，禁用於冠心病等血管收縮高風險者。",
+      "flashcard_front": "Sumatriptan 機轉與禁忌",
+      "flashcard_back": "Triptans 是 5-HT1B/1D agonists，禁用於冠心病等血管收縮高風險者。",
+      "flashcard_summary": "Sumatriptan 機轉與禁忌 -> Triptans 是 5-HT1B/1D agonists，禁用於冠心病等血管收縮高風險者。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nFenofibrate 機轉；題目問錯誤敘述，官方答案為 D。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。fibrate 類增加脂肪酸氧化，降低三酸甘油脂。\n- B. 正確。fenofibrate 活化 PPAR-alpha。\n- C. 正確。副作用包含肌肉病變、肝功能異常，與 statin 併用需小心。\n- D. 錯誤。fibrate 會增加 lipoprotein lipase 活性，不是抑制。\n\n【核心考點】\nFibrates 活化 PPAR-alpha，上升 LPL、下降 TG。",
+      "key_point": "Fibrates 活化 PPAR-alpha，上升 LPL、下降 TG。",
+      "flashcard_front": "Fenofibrate 機轉",
+      "flashcard_back": "Fibrates 活化 PPAR-alpha，上升 LPL、下降 TG。",
+      "flashcard_summary": "Fenofibrate 機轉 -> Fibrates 活化 PPAR-alpha，上升 LPL、下降 TG。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nEPO 藥理與訊號；題目問錯誤敘述，官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。darbepoetin alfa 是長效 EPO 類似物。\n- B. 正確。EPO 類藥物可能造成高血壓與血栓風險。\n- C. 錯誤。EPO receptor 主要透過 JAK2/STAT 訊號促進紅血球生成；ERK 可為下游之一但不是主要考點描述。\n- D. 正確。EPO 刺激紅血球前驅細胞增殖與分化。\n\n【核心考點】\nEPO 受體典型訊號是 JAK2/STAT，臨床副作用注意高血壓與血栓。",
+      "key_point": "EPO 受體典型訊號是 JAK2/STAT，臨床副作用注意高血壓與血栓。",
+      "flashcard_front": "EPO 藥理與訊號",
+      "flashcard_back": "EPO 受體典型訊號是 JAK2/STAT，臨床副作用注意高血壓與血栓。",
+      "flashcard_summary": "EPO 藥理與訊號 -> EPO 受體典型訊號是 JAK2/STAT，臨床副作用注意高血壓與血栓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nDesmopressin 促凝血機轉；官方答案為 B。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。促進 plasminogen 活化會偏向纖溶，不是促凝血。\n- B. 正確。desmopressin 促進 vWF 與 factor VIII 釋放，可用於輕型 hemophilia A 或 vWD。\n- C. 錯誤。desmopressin 作用於 V2 receptor 增加 cAMP 訊號，不是增加 cAMP 分解。\n- D. 錯誤。ADP receptor 是血小板抗血栓藥如 clopidogrel 的標的。\n\n【核心考點】\nDDAVP 促進 vWF 與 factor VIII 釋放。",
+      "key_point": "DDAVP 促進 vWF 與 factor VIII 釋放。",
+      "flashcard_front": "Desmopressin 促凝血機轉",
+      "flashcard_back": "DDAVP 促進 vWF 與 factor VIII 釋放。",
+      "flashcard_summary": "Desmopressin 促凝血機轉 -> DDAVP 促進 vWF 與 factor VIII 釋放。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n甲狀腺機能亢進用藥；題目問不適合者，官方答案為 B。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 適合。PTU 抑制甲狀腺素合成，也抑制 T4 轉 T3。\n- B. 不適合。levothyroxine 是 T4 補充，會加重甲狀腺亢進。\n- C. 適合。Lugol's solution 可短期抑制甲狀腺素釋放，常用於特定情境。\n- D. 適合。propranolol 可控制心悸、手抖等交感症狀，也部分抑制 T4 轉 T3。\n\n【核心考點】\n甲亢治療避免補充 T4；症狀控制可用 beta blocker。",
+      "key_point": "甲亢治療避免補充 T4；症狀控制可用 beta blocker。",
+      "flashcard_front": "甲狀腺機能亢進用藥",
+      "flashcard_back": "甲亢治療避免補充 T4；症狀控制可用 beta blocker。",
+      "flashcard_summary": "甲狀腺機能亢進用藥 -> 甲亢治療避免補充 T4；症狀控制可用 beta blocker。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

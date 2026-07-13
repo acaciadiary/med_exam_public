@@ -1,0 +1,29 @@
+{
+  "source_file": "public\\data\\exams\\110-1\\medicine-2.json",
+  "dataset_id": "110-1_medicine-2",
+  "merge": false,
+  "update_file_count": 10,
+  "question_count": 100,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 21,
+      "notes": [
+        "題幹與選項疑似混入第22題內容；官方答案 D 與目前選項邏輯不一致，需人工複核。"
+      ]
+    },
+    {
+      "question_number": 40,
+      "notes": [
+        "官方答案 A 可能是因選項文字疑似誤植；砷與西南沿海地下水/烏腳病的實質關聯仍為正確知識。"
+      ]
+    },
+    {
+      "question_number": 88,
+      "notes": [
+        "官方答案 A 可能與常見教科書重點 B（支氣管擴張）有落差，建議人工核對原始答案。"
+      ]
+    }
+  ],
+  "errors": []
+}

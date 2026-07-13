@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n3 個月以下嬰兒、55 歲以上成人、孕婦或細胞免疫缺損者發生細菌性腦膜炎時，要涵蓋 Listeria monocytogenes。Listeria 對 cephalosporins 天然不敏感，首選為 ampicillin。\n\n【選項詳解】\n- A. 錯誤。Ceftriaxone 常用於肺炎鏈球菌、腦膜炎雙球菌等腦膜炎經驗治療，但不能有效涵蓋 Listeria。\n- B. 正確。Ampicillin 是 Listeria monocytogenes 腦膜炎的首選藥物，嚴重感染可合併 gentamicin。\n- C. 錯誤。Vancomycin 用於抗藥性肺炎鏈球菌或 MRSA 考量，不是 Listeria 首選。\n- D. 錯誤。Ciprofloxacin 不是 Listeria 腦膜炎標準首選治療。\n\n【核心考點】\n高風險族群腦膜炎經驗治療要加 ampicillin 以涵蓋 Listeria。",
+      "key_point": "Listeria 腦膜炎首選 ampicillin；cephalosporin 無法可靠涵蓋。",
+      "flashcard_front": "Listeria 腦膜炎首選",
+      "flashcard_back": "Ampicillin；老人、嬰兒、孕婦、細胞免疫缺損腦膜炎要涵蓋。",
+      "flashcard_summary": "Listeria meningitis -> ampicillin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n尿道炎後約數週出現非化膿性下肢關節炎、結膜炎/葡萄膜炎、掌蹠皮疹，典型為 reactive arthritis。常由 Chlamydia trachomatis 或腸胃道感染誘發，與 HLA-B27 強烈相關；不是葡萄球菌感染性心內膜炎與敗血性關節炎。\n\n【選項詳解】\n- A. 錯誤。此病程是尿道炎後免疫介導的 reactive arthritis，不是 staphylococcal infective endocarditis 或 septic arthritis。\n- B. 正確。關節炎、眼部發炎與尿道炎病史符合 reactive arthritis。\n- C. 正確。Non-gonococcal urethritis 最常見病原之一是 Chlamydia trachomatis，也常誘發 reactive arthritis。\n- D. 正確。Reactive arthritis 與 HLA-B27 有高度相關，比例可很高。\n\n【核心考點】\nReactive arthritis 常在泌尿生殖道或腸胃感染後出現，典型為關節炎、尿道炎、結膜炎/葡萄膜炎與 HLA-B27 相關。",
+      "key_point": "尿道炎後關節炎加眼炎與掌蹠皮疹，想到 Chlamydia 相關 reactive arthritis。",
+      "flashcard_front": "Reactive arthritis 線索",
+      "flashcard_back": "感染後數週出現非化膿性關節炎、結膜炎/葡萄膜炎、尿道炎；常與 Chlamydia、HLA-B27 相關。",
+      "flashcard_summary": "NGU 後關節炎 -> reactive arthritis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題問食物中毒與旅行者腹瀉何者錯誤。Shigella 感染劑量低，除了污染食物與水，也可經糞口途徑在人與人之間直接傳播，因此 B 錯。\n\n【選項詳解】\n- A. 正確。Staphylococcus aureus 與 Bacillus cereus 可因預先形成毒素造成很短潛伏期的嘔吐型食物中毒。\n- B. 錯誤。Shigella 可人傳人，托兒所、機構或家庭內糞口傳播很重要。\n- C. 正確。Shigella、Entamoeba histolytica、Giardia 感染劑量相對低；Vibrio cholerae 通常需要較高感染劑量。\n- D. 正確。霍亂毒素造成分泌性水瀉，糞便多為水樣，白血球少或無。\n\n【核心考點】\nShigella 感染劑量低且可人傳人；霍亂是毒素性分泌性水瀉。",
+      "key_point": "Shigella 可經糞口途徑人傳人，不只靠污染食物或水。",
+      "flashcard_front": "Shigella 傳播",
+      "flashcard_back": "感染劑量低，可人傳人；不只經食物與飲水。",
+      "flashcard_summary": "旅行者腹瀉 -> Shigella 可人傳人",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n痰培養為 MRSA，治療需選擇可抗 MRSA 的藥物。Oxacillin 是抗 MSSA 的抗葡萄球菌青黴素，MRSA 因 mecA/PBP2a 對 beta-lactam 類多有抗藥性，因此不宜使用。\n\n【選項詳解】\n- A. 適當。Vancomycin 可治療 MRSA 肺炎，但透析病人需調整劑量與監測濃度。\n- B. 適當。Teicoplanin 為 glycopeptide，可涵蓋 MRSA，部分地區可用。\n- C. 適當。Linezolid 對 MRSA 肺炎有效，且肺部穿透佳。\n- D. 不宜。Oxacillin 適用 MSSA，不適用 MRSA。\n\n【核心考點】\nMRSA 感染不可用 oxacillin/nafcillin 這類 MSSA 用 beta-lactam；常用 vancomycin 或 linezolid。",
+      "key_point": "MRSA 肺炎不宜使用 oxacillin，oxacillin 用於 MSSA。",
+      "flashcard_front": "MRSA 肺炎不宜用藥",
+      "flashcard_back": "Oxacillin 不涵蓋 MRSA；可考慮 vancomycin、teicoplanin、linezolid。",
+      "flashcard_summary": "MRSA -> oxacillin 不宜",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nCOPD 病人肺炎後的預防重點包括戒菸、肺炎鏈球菌疫苗與每年流感疫苗。無感染證據時不應常規使用預防性抗生素，因為會增加抗藥性、副作用與不必要暴露。\n\n【選項詳解】\n- A. 正確。戒菸可降低 COPD 惡化、感染與心血管風險。\n- B. 正確。COPD 或高齡/慢性肺病者若未接種，應建議肺炎鏈球菌疫苗。\n- C. 正確。每年流感疫苗可降低流感與繼發肺炎、COPD 急性惡化風險。\n- D. 錯誤。常規預防性抗生素不是肺炎一般預防策略，除非特定反覆 COPD 急性惡化族群有專門評估。\n\n【核心考點】\nCOPD 肺炎預防靠戒菸與疫苗；不要常規給預防性抗生素。",
+      "key_point": "肺炎預防不常規使用預防性抗生素，重點是戒菸與疫苗。",
+      "flashcard_front": "COPD 肺炎預防",
+      "flashcard_back": "戒菸、肺炎鏈球菌疫苗、每年流感疫苗；不常規預防性抗生素。",
+      "flashcard_summary": "COPD 肺炎預防 -> 不常規 prophylactic antibiotics",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nFive-factor model of personality 是 OCEAN：Openness、Conscientiousness、Extraversion、Agreeableness、Neuroticism。Efficacy 不是五大人格因素之一，因此 C 錯。\n\n【選項詳解】\n- A. 正確。Openness 指對新經驗、想像、審美與多元想法的開放程度。\n- B. 正確。Conscientiousness 指自律、有組織、負責與目標導向。\n- C. 錯誤。Efficacy 是自我效能或能力信念概念，不是 OCEAN 五因素之一。\n- D. 正確。Agreeableness 指合作、信任、同理與追求和諧的人際傾向。\n\n【核心考點】\nOCEAN = Openness、Conscientiousness、Extraversion、Agreeableness、Neuroticism；沒有 Efficacy。",
+      "key_point": "OCEAN 五大人格不包含 Efficacy。",
+      "flashcard_front": "OCEAN 五大人格",
+      "flashcard_back": "Openness、Conscientiousness、Extraversion、Agreeableness、Neuroticism。",
+      "flashcard_summary": "五因素人格 -> Efficacy 不是其中之一",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n老人虐待包含身體、心理、性、財務剝削、疏忽與照護不足。藥物順從性不佳可能反映照護者未協助、刻意 withheld medication、認知/功能問題被忽略，或財務/取得藥物受阻，因此可能是虐待或疏忽線索。\n\n【選項詳解】\n- A. 錯誤。老人虐待並不少見，且常被低估，臨床上應保持警覺與必要篩檢。\n- B. 錯誤。老人虐待不只身體與情緒，也包括財務、性虐待與疏忽。\n- C. 錯誤。下肢水腫不是老人虐待典型特異徵候，需先考慮心腎肝、靜脈或藥物原因。\n- D. 正確。藥物順從性不佳可能是疏忽、照護不足、財務剝削或控制行為的徵候之一。\n\n【核心考點】\n老人虐待範圍很廣；不明原因的用藥不規則、營養差、衛生差或延遲就醫都可提示疏忽或虐待。",
+      "key_point": "藥物順從性不佳可能是老人虐待或疏忽的徵候。",
+      "flashcard_front": "老人虐待可能徵候",
+      "flashcard_back": "不只瘀傷；藥物不規則、疏忽照護、財務剝削、延遲就醫都要警覺。",
+      "flashcard_summary": "Elder abuse -> 藥物順從差也可能是線索",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n18 歲健康男性的預防保健需關注肥胖、性傳染病風險、菸品使用與相關諮詢。青少年/成人常規 idiopathic scoliosis 篩檢不是 USPSTF 強烈建議的必要項目，對 18 歲大一男生尤其最不需要。\n\n【選項詳解】\n- A. 最不需要。Idiopathic scoliosis 篩檢主要針對青春期議題，且 USPSTF 對常規篩檢證據不足；18 歲健康成人門診不是優先項目。\n- B. 需要。成人應篩檢肥胖並提供行為介入或諮詢。\n- C. 需要。已有親密伴侶時，應依性行為風險評估 STI 篩檢與安全性行為諮詢。\n- D. 需要。預防菸品使用與戒菸諮詢是青少年與成人常規預防保健重點。\n\n【核心考點】\n年輕成人預防保健重點是肥胖、性健康與菸品；脊椎側彎常規篩檢不是此情境優先。",
+      "key_point": "18 歲健康男性門診最不需要常規 idiopathic scoliosis 篩檢。",
+      "flashcard_front": "18 歲預防保健最不需要項目",
+      "flashcard_back": "相較肥胖、STI、菸品諮詢，脊椎側彎常規篩檢最不需要。",
+      "flashcard_summary": "USPSTF 預防保健 -> scoliosis 最不需要",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n旅遊疫苗要看目的地、出發時間與入境規定。黃熱病疫苗一般被認為一劑可提供長期甚至終生保護，但部分國家或特殊族群仍可能要求或建議追加。其他選項的時間或追加間隔較不精確。\n\n【選項詳解】\n- A. 不夠正確。A 型肝炎疫苗建議越早接種越好，常建議出發前至少 2 週以建立保護；只說至少 1 週較不理想。\n- B. 不夠正確。B 型肝炎疫苗需要完整時程或加速時程，多數情況一劑且只提前 1 週不足以視為完整保護。\n- C. 正確。黃熱病疫苗原則上長期有效、常視為終生保護，但仍需注意部分國家或特殊情況可能要求 10 年追加。\n- D. 不夠正確。前往沙烏地阿拉伯，特別朝覲/副朝，常需 meningococcal 疫苗證明；追加間隔與疫苗種類、入境規定相關，不能簡化為每 10 年。\n\n【核心考點】\n旅遊疫苗要兼顧免疫保護與入境規定；黃熱病疫苗一劑長期有效，但仍需查目的地規定。",
+      "key_point": "黃熱病疫苗通常一劑長期有效，但部分國家或特殊情境仍可能要求追加。",
+      "flashcard_front": "黃熱病疫苗效期",
+      "flashcard_back": "原則上可視為終生有效；仍需依目的地入境規定確認是否需追加。",
+      "flashcard_summary": "旅遊疫苗 -> 黃熱病疫苗長期有效但看規定",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n敏感度、特異度、陽性預測值與陰性預測值的分母不同。敏感度是有病者中檢驗陽性的比例；特異度是無病者中檢驗陰性的比例；陽性預測值是檢驗陽性者中真正有病的比例；陰性預測值是檢驗陰性者中真正無病的比例。\n\n【選項詳解】\n- A. 正確。敏感度 = true positive / all diseased，也就是罹病者中檢驗陽性的比率。\n- B. 錯誤。特異度應是沒有疾病且檢驗陰性的比率，不是罹病者中陰性。\n- C. 錯誤。陽性預測值應是檢驗陽性者中真正有病的比率，不是沒有病。\n- D. 錯誤。陰性預測值應是檢驗陰性者中真正無病的比率，不是有病。\n\n【核心考點】\nSensitivity/Specificity 以疾病狀態為分母；PPV/NPV 以檢驗結果為分母。",
+      "key_point": "敏感度是有病者中檢驗陽性的比例。",
+      "flashcard_front": "敏感度定義",
+      "flashcard_back": "Sensitivity = TP / (TP + FN)：罹患疾病者中檢驗陽性的比例。",
+      "flashcard_summary": "診斷統計 -> sensitivity 分母是有病者",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

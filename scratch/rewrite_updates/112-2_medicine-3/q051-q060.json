@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n嚴重肺栓塞會突然增加肺血管阻力，使右心室急性擴張與收縮失敗，造成低血壓、心因性休克甚至死亡。這是 massive PE 最關鍵的致死機轉。\n\n【選項詳解】\n- A. 錯誤。Wells score 包含 DVT 徵象、PE 最可能、心跳快、近期手術/臥床、既往 VTE、咳血、癌症；胸痛本身不是 Wells 項目。\n- B. 錯誤。D-dimer 敏感度高，適合低至中風險排除 PE，但專一性低，感染、癌症、懷孕、術後等都可升高。\n- C. 錯誤或不精確。LMWH 本身不以 INR 監測；若使用 warfarin 才需與注射抗凝重疊至少 5 天且 INR 達治療範圍後再停注射藥。\n- D. 正確。嚴重急性 PE 最常見致死機轉是右心室衰竭導致心因性休克。\n\n【核心考點】\nMassive PE 的死亡核心是急性右心衰竭與 obstructive/cardiogenic shock；D-dimer 高敏感但低專一。",
+      "key_point": "嚴重急性肺栓塞最常見致死機轉是右心室衰竭造成心因性休克。",
+      "flashcard_front": "Massive PE 最常見死因",
+      "flashcard_back": "急性肺血管阻力上升 -> 右心室衰竭 -> 休克與死亡。",
+      "flashcard_summary": "急性 PE -> 嚴重者死於右心衰竭/休克",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n原發性副甲狀腺功能亢進典型為 PTH 不適當升高，造成高血鈣、低血磷，並可有高氯性代謝性酸中毒傾向。因此「高血鈣、高血磷及低血氯」是錯誤組合。\n\n【選項詳解】\n- A. 正確。原發性副甲狀腺高能症最常由單一副甲狀腺腺瘤造成。\n- B. 正確。副甲狀腺病變可見於 MEN1 或 MEN2A 等多發性內分泌腫瘤症候群。\n- C. 錯誤。PTH 會促進腎臟排磷，所以常見高血鈣、低血磷，而非高血磷；低血氯也不是典型重點。\n- D. 正確。血鈣極高，特別 >14 mg/dL，需警覺副甲狀腺癌等嚴重病因。\n\n【核心考點】\n原發性副甲狀腺高能症典型實驗室：高鈣、低磷、PTH 不適當升高。",
+      "key_point": "Primary hyperparathyroidism 典型為高血鈣、低血磷，不是高血磷。",
+      "flashcard_front": "原發性副甲狀腺高能症電解質",
+      "flashcard_back": "PTH 高 -> 高血鈣、低血磷；血鈣極高要懷疑副甲狀腺癌。",
+      "flashcard_summary": "Primary hyperparathyroidism -> 高鈣低磷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n老年男性較高的內生性雄性激素通常與較佳性功能、較低代謝疾病風險與較低死亡率相關。低 testosterone 反而常與胰島素阻抗、肥胖、糖尿病與心血管風險較高並存。因此「糖尿病機率較高」最不可能。\n\n【選項詳解】\n- A. 可能。雄性激素較高通常與較高性慾相關。\n- B. 可能。較高內生性 testosterone 常與較佳代謝狀態及較低心血管風險相關，但需注意外源性補充不可直接等同。\n- C. 最不可能。糖尿病風險較高通常與低 testosterone、肥胖與胰島素阻抗相關。\n- D. 可能。較低 testosterone 在老年男性常與較高全因死亡率相關，故較高濃度可能與較低死亡率相關。\n\n【核心考點】\n老年男性低 testosterone 常與代謝症候群、糖尿病與較差預後相關；題目問較高雄性激素最不可能增加糖尿病。",
+      "key_point": "較高內生性雄性激素通常不會使老年男性糖尿病機率較高。",
+      "flashcard_front": "老年男性 testosterone 與糖尿病",
+      "flashcard_back": "低 testosterone 較常與胰島素阻抗與糖尿病風險上升相關。",
+      "flashcard_summary": "Testosterone -> 糖尿病風險較高最不可能",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n糖尿病常合併高血壓，且高血壓會加速腎病變、視網膜病變與大血管疾病。糖尿病病人的血壓控制通常不會比非糖尿病者更寬鬆，許多情境反而需更積極或至少同等嚴格控制。\n\n【選項詳解】\n- A. 正確。糖尿病病人高血壓盛行率較高，兩者常共同出現。\n- B. 正確。ACE inhibitors 或 ARBs 對糖尿病合併高血壓，尤其有蛋白尿或腎病變者，是重要首選。\n- C. 錯誤。糖尿病病人血壓控制目標不應較寬鬆；高風險者常需更積極控制以降低腎臟與心血管併發症。\n- D. 正確。高血壓會促進糖尿病大血管與小血管併發症惡化。\n\n【核心考點】\n糖尿病合併高血壓需積極控制，ACEI/ARB 對腎臟保護尤其重要。",
+      "key_point": "糖尿病病人的血壓控制目標不應比非糖尿病者更寬鬆。",
+      "flashcard_front": "糖尿病合併高血壓治療",
+      "flashcard_back": "常用 ACEI/ARB，尤其蛋白尿或腎病變；血壓目標不比非糖尿病更寬鬆。",
+      "flashcard_summary": "糖尿病高血壓 -> 目標不更寬鬆",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n題目問哪個藥物未曾被核准用來減輕體重。Liraglutide、orlistat 曾被核准作為體重管理藥物；lorcaserin 也曾被核准減重，雖後來因安全疑慮撤市。Sitagliptin 是 DPP-4 inhibitor，用於糖尿病血糖控制，不是核准減重藥。\n\n【選項詳解】\n- A. 錯誤。Liraglutide 的較高劑量製劑曾核准用於體重管理。\n- B. 錯誤。Lorcaserin 曾被核准作為減重藥，後續因安全性考量撤市；「未曾核准」不適用。\n- C. 錯誤。Orlistat 抑制腸道脂肪吸收，是核准減重藥。\n- D. 正確。Sitagliptin 是 DPP-4 inhibitor，用於第二型糖尿病血糖控制，未作為減重藥核准。\n\n【核心考點】\nDPP-4 inhibitor 通常體重中性，不是減重藥；lorcaserin 是曾核准後撤市，不等於未曾核准。",
+      "key_point": "Sitagliptin 未被核准作為減重藥，主要用於第二型糖尿病血糖控制。",
+      "flashcard_front": "哪個不是核准減重藥",
+      "flashcard_back": "Sitagliptin；DPP-4 inhibitor 通常體重中性，不是減重適應症。",
+      "flashcard_summary": "減重藥 -> sitagliptin 未核准",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題問血糖調控何者錯誤。Metformin 主要抑制肝臟糖質新生、改善胰島素敏感性，本身很少造成低血糖；最常造成低血糖的口服降血糖藥較典型是 sulfonylureas 或 meglitinides。\n\n【選項詳解】\n- A. 正確。胰島素由胰臟 β 細胞分泌，可促進葡萄糖進入組織並降低血糖。\n- B. 正確。正常人血糖會隨飲食、運動、壓力與荷爾蒙在一定範圍內波動。\n- C. 正確。嚴重低血糖可造成癲癇、昏迷、心律不整甚至死亡。\n- D. 錯誤。Metformin 單用低血糖風險低，不是最常引起低血糖的口服降血糖藥。\n\n【核心考點】\nMetformin 低血糖風險低；口服藥低血糖常考 sulfonylureas。",
+      "key_point": "Metformin 單用很少造成低血糖，不是最常引起低血糖的口服降糖藥。",
+      "flashcard_front": "口服降糖藥低血糖風險",
+      "flashcard_back": "Sulfonylureas 較常造成低血糖；metformin 單用低血糖風險低。",
+      "flashcard_summary": "血糖藥 -> metformin 非最常低血糖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n最常見的甲狀腺癌是乳突癌。乳突癌常與 RET/PTC、BRAF 等分子變化相關，預後通常較好，常經淋巴轉移。\n\n【選項詳解】\n- A. 正確。Papillary thyroid carcinoma 是最常見甲狀腺癌。\n- B. 錯誤。Follicular carcinoma 較乳突癌少見，較常經血行轉移。\n- C. 錯誤。Medullary carcinoma 來自 C cell，可分泌 calcitonin，與 MEN2 相關，但不是最常見。\n- D. 錯誤。Anaplastic carcinoma 少見但高度惡性，預後差。\n\n【核心考點】\n甲狀腺癌最常見是 papillary carcinoma；最惡性常考 anaplastic carcinoma。",
+      "key_point": "最常見甲狀腺癌是乳突癌。",
+      "flashcard_front": "最常見甲狀腺癌",
+      "flashcard_back": "Papillary thyroid carcinoma。",
+      "flashcard_summary": "甲狀腺癌 -> papillary 最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n腦下垂體後葉主要儲存並釋放抗利尿激素 ADH 與 oxytocin。若後葉或下視丘-後葉路徑受損，ADH 不足會造成中樞性尿崩症，表現為多尿、低尿滲透壓與口渴。\n\n【選項詳解】\n- A. 正確。後葉受損最典型造成 ADH 缺乏，引起尿崩症。\n- B. 錯誤。腎上腺機能不足較與 ACTH 軸或腎上腺本身疾病相關，ACTH 來自前葉。\n- C. 錯誤。甲狀腺功能不足與 TSH 軸或甲狀腺本身有關，TSH 來自前葉。\n- D. 錯誤。性功能異常多與 GnRH/LH/FSH 或性腺疾病相關，不是後葉破壞的最典型表現。\n\n【核心考點】\n後葉問題想到 ADH 與尿崩症；前葉才是 ACTH、TSH、LH/FSH 等內分泌軸。",
+      "key_point": "腦下垂體後葉破壞最典型造成 ADH 缺乏的尿崩症。",
+      "flashcard_front": "腦下垂體後葉破壞",
+      "flashcard_back": "ADH 缺乏 -> 中樞性尿崩症。",
+      "flashcard_summary": "後葉 -> ADH -> 尿崩症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n中心靜脈導管相關血流感染預防 bundle 包括人員教育、置入時最大無菌屏障、chlorhexidine 皮膚消毒、每日評估導管必要性等。常規每兩週更換中心導管不能預防感染，反而增加機械併發症與新感染風險。\n\n【選項詳解】\n- A. 錯誤。包含第 4 項常規每兩週更換導管，這不是 bundle 推薦項目。\n- B. 正確。1 教育訓練、2 最大無菌面防護、3 chlorhexidine 皮膚消毒皆為預防 bundle 重點。\n- C. 錯誤。第 4 項錯，且只含 3、4 不完整。\n- D. 錯誤。第 4 項錯，且缺少 chlorhexidine 皮膚消毒。\n\n【核心考點】\nCLABSI bundle 強調無菌置入與照護；不要常規定期更換中心導管。",
+      "key_point": "CLABSI 預防 bundle 包含教育、最大無菌屏障、chlorhexidine；不常規每兩週換管。",
+      "flashcard_front": "中心靜脈導管感染預防 bundle",
+      "flashcard_back": "教育訓練、最大無菌屏障、chlorhexidine 皮膚消毒、每日評估必要性；不定期常規換管。",
+      "flashcard_summary": "CLABSI bundle -> 123，不含常規換管",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n造血幹細胞移植後 TMP-SMX 常用於預防 Pneumocystis jirovecii，也可降低 Nocardia、Listeria 與部分細菌感染風險。Neisseria meningitidis 預防重點通常是疫苗與特定暴露後抗生素，不是 HSCT 後 TMP-SMX 一年預防的典型目標。\n\n【選項詳解】\n- A. 適當。TMP-SMX 對 Listeria 有活性，可減少相關感染風險。\n- B. 適當。TMP-SMX 是 Nocardia 感染治療與預防的重要藥物。\n- C. 適當。TMP-SMX 對部分呼吸道細菌有作用，免疫低下者可能降低部分 Streptococcus pneumoniae 感染風險，但疫苗仍重要。\n- D. 最不適當。Neisseria meningitidis 不是 HSCT 後 TMP-SMX 預防的典型主要目標。\n\n【核心考點】\nHSCT 後 TMP-SMX 預防以 PJP 為核心，也涵蓋 Nocardia 等；Neisseria meningitidis 不典型。",
+      "key_point": "HSCT 後 TMP-SMX 預防的典型目標不是 Neisseria meningitidis。",
+      "flashcard_front": "HSCT 後 TMP-SMX 預防",
+      "flashcard_back": "主要預防 PJP，也可涵蓋 Nocardia、Listeria；不典型用來預防 meningococcus。",
+      "flashcard_summary": "HSCT prophylaxis -> TMP-SMX 非針對 Neisseria meningitidis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

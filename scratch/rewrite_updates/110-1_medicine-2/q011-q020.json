@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-2.json",
+  "dataset_id": "110-1_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nHPV 病毒學與致癌蛋白；題目問錯誤敘述，官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。HPV 可感染皮膚與黏膜上皮。\n- B. 正確。HPV 是無套膜雙股 DNA 病毒。\n- C. 錯誤。E1A/E1B 是 adenovirus 的早期蛋白；HPV 致癌關鍵是 E6 抑制 p53、E7 抑制 Rb。\n- D. 正確。HPV 16、18 是高風險型，與子宮頸癌等癌症相關。\n\n【核心考點】\nHPV 高風險型靠 E6/E7 干擾 p53/Rb，不是 E1A/E1B。",
+      "key_point": "HPV 高風險型靠 E6/E7 干擾 p53/Rb，不是 E1A/E1B。",
+      "flashcard_front": "HPV 病毒學與致癌蛋白",
+      "flashcard_back": "HPV 高風險型靠 E6/E7 干擾 p53/Rb，不是 E1A/E1B。",
+      "flashcard_summary": "HPV 病毒學與致癌蛋白 -> HPV 高風險型靠 E6/E7 干擾 p53/Rb，不是 E1A/E1B。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n肝炎病毒傳播與基因體；題目問錯誤敘述，官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。HAV 與 HCV 都是正股 RNA 病毒。\n- B. 正確。HBV 與 HCV 都有 envelope。\n- C. 錯誤。HAV 與 HEV 主要經糞口傳染，不是常透過血液傳染。\n- D. 正確。HBV 的 relaxed circular DNA 進入細胞核形成 cccDNA，並以 reverse transcription 完成複製循環。\n\n【核心考點】\nHAV/HEV 走糞口；HBV/HCV 常與血液、體液傳播相關。",
+      "key_point": "HAV/HEV 走糞口；HBV/HCV 常與血液、體液傳播相關。",
+      "flashcard_front": "肝炎病毒傳播與基因體",
+      "flashcard_back": "HAV/HEV 走糞口；HBV/HCV 常與血液、體液傳播相關。",
+      "flashcard_summary": "肝炎病毒傳播與基因體 -> HAV/HEV 走糞口；HBV/HCV 常與血液、體液傳播相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\nHIV envelope protein；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。gp120 是 HIV 表面 envelope glycoprotein，負責結合 CD4 與共同受體。\n- B. 錯誤。HIV 跨膜 envelope 為 gp41，不是 gp21。\n- C. 錯誤。p66 是 reverse transcriptase 次單元，不是 envelope protein。\n- D. 錯誤。p55 是 Gag 前驅蛋白，不是套膜蛋白。\n\n【核心考點】\nHIV envelope 記 gp120 負責附著，gp41 負責融合。",
+      "key_point": "HIV envelope 記 gp120 負責附著，gp41 負責融合。",
+      "flashcard_front": "HIV envelope protein",
+      "flashcard_back": "HIV envelope 記 gp120 負責附著，gp41 負責融合。",
+      "flashcard_summary": "HIV envelope protein -> HIV envelope 記 gp120 負責附著，gp41 負責融合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n皮癬菌屬的分生孢子特徵；官方答案為 B。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。皮癬菌可透過人、人畜或環境接觸傳播。\n- B. 正確。Epidermophyton 產生 macroconidia，但不產生 microconidia。\n- C. 錯誤。Microsporum 常有粗糙壁 macroconidia，並非極少產生。\n- D. 錯誤。Trichophyton 通常 microconidia 較常見，macroconidia 可少見。\n\n【核心考點】\nEpidermophyton 的考點是不產生 microconidia。",
+      "key_point": "Epidermophyton 的考點是不產生 microconidia。",
+      "flashcard_front": "皮癬菌屬的分生孢子特徵",
+      "flashcard_back": "Epidermophyton 的考點是不產生 microconidia。",
+      "flashcard_summary": "皮癬菌屬的分生孢子特徵 -> Epidermophyton 的考點是不產生 microconidia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\npolyene 抗黴菌藥機轉；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。amphotericin B、nystatin 等 polyenes 與 ergosterol 結合形成膜孔，造成內容物流失。\n- B. 錯誤。14-alpha-demethylase 是 azole 類抑制目標。\n- C. 錯誤。squalene epoxidase 是 allylamine 類如 terbinafine 的目標。\n- D. 錯誤。1,3-beta-glucan 合成抑制是 echinocandin 類機轉。\n\n【核心考點】\nPolyenes 直接結合 ergosterol 破壞真菌細胞膜。",
+      "key_point": "Polyenes 直接結合 ergosterol 破壞真菌細胞膜。",
+      "flashcard_front": "polyene 抗黴菌藥機轉",
+      "flashcard_back": "Polyenes 直接結合 ergosterol 破壞真菌細胞膜。",
+      "flashcard_summary": "polyene 抗黴菌藥機轉 -> Polyenes 直接結合 ergosterol 破壞真菌細胞膜。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n真菌菌絲基本型態；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。真菌菌絲可分為有隔菌絲與無隔、多核的 coenocytic hyphae。\n- B. 錯誤。germ tube 是 Candida albicans 等的鑑別特徵，不是菌絲基本二分型。\n- C. 錯誤。pseudohyphae 是酵母出芽後延長的形態，不是基本菌絲分類之一。\n- D. 錯誤。clamp connection 是擔子菌類構造，不是全部真菌菌絲的基本型態。\n\n【核心考點】\n菌絲基本分類是 septate 與 coenocytic。",
+      "key_point": "菌絲基本分類是 septate 與 coenocytic。",
+      "flashcard_front": "真菌菌絲基本型態",
+      "flashcard_back": "菌絲基本分類是 septate 與 coenocytic。",
+      "flashcard_summary": "真菌菌絲基本型態 -> 菌絲基本分類是 septate 與 coenocytic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n百日咳疫苗組成；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。現行常用 DTaP/Tdap 為 acellular pertussis vaccine，含純化抗原成分。\n- B. 錯誤。LPS 不是百日咳疫苗主要組成。\n- C. 錯誤。百日咳疫苗不是活性減毒疫苗。\n- D. 錯誤。莢膜多醣體疫苗用於部分莢膜菌，非百日咳主要策略。\n\n【核心考點】\n百日咳預防重點是 acellular vaccine。",
+      "key_point": "百日咳預防重點是 acellular vaccine。",
+      "flashcard_front": "百日咳疫苗組成",
+      "flashcard_back": "百日咳預防重點是 acellular vaccine。",
+      "flashcard_summary": "百日咳疫苗組成 -> 百日咳預防重點是 acellular vaccine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n抗病毒免疫時序；題目問錯誤敘述，官方答案為 C。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。病毒感染早期會誘發 type I/III interferons，使周邊細胞進入抗病毒狀態。\n- B. 正確。NK cell 在早期辨識並殺死受感染細胞。\n- C. 錯誤。CD8 T 細胞主要透過 TCR 辨識 MHC I 抗原後以 perforin/granzyme 或 Fas-FasL 殺傷，不是靠 ADCC；ADCC 典型由 NK cell 經 Fc receptor 執行。\n- D. 正確。B 細胞分化為漿細胞後產生抗體，中和病毒並限制擴散。\n\n【核心考點】\n病毒免疫：干擾素與 NK 早期上場，CD8 T 細胞靠 MHC I 抗原辨識，不是 ADCC。",
+      "key_point": "病毒免疫：干擾素與 NK 早期上場，CD8 T 細胞靠 MHC I 抗原辨識，不是 ADCC。",
+      "flashcard_front": "抗病毒免疫時序",
+      "flashcard_back": "病毒免疫：干擾素與 NK 早期上場，CD8 T 細胞靠 MHC I 抗原辨識，不是 ADCC。",
+      "flashcard_summary": "抗病毒免疫時序 -> 病毒免疫：干擾素與 NK 早期上場，CD8 T 細胞靠 MHC I 抗原辨識，不是 ADCC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n補體調控與 MAC；官方答案為 A。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 正確。CD59 抑制 C9 聚合，阻止 MAC 形成。\n- B. 錯誤。MCP/CD46 是 factor I 的輔因子，促進 C3b/C4b 分解。\n- C. 錯誤。DAF/CD55 加速 C3/C5 convertase 解離。\n- D. 錯誤。C1 inhibitor 抑制 classical pathway 初始步驟。\n\n【核心考點】\nCD59 專門擋 C9 聚合與 MAC。",
+      "key_point": "CD59 專門擋 C9 聚合與 MAC。",
+      "flashcard_front": "補體調控與 MAC",
+      "flashcard_back": "CD59 專門擋 C9 聚合與 MAC。",
+      "flashcard_summary": "補體調控與 MAC -> CD59 專門擋 C9 聚合與 MAC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n專業抗原呈現給 CD4 T 細胞；官方答案為 B。 解題時先判斷題目是在問正確或錯誤，再把病原、免疫機轉、藥理作用或病理特徵對回各選項。\n\n【選項詳解】\n- A. 錯誤。MHC I 幾乎所有有核細胞表現，主要呈現給 CD8 T 細胞。\n- B. 正確。專業 APC 大量表現 MHC II，將外源性抗原呈現給 CD4 T 細胞。\n- C. 錯誤。MHC III 區域包含補體等基因，不是抗原呈現分子。\n- D. 錯誤。PRR 可辨識病原模式，但不是呈現抗原給 CD4 T 細胞的主要原因。\n\n【核心考點】\nCD4 T 細胞看 MHC II；CD8 T 細胞看 MHC I。",
+      "key_point": "CD4 T 細胞看 MHC II；CD8 T 細胞看 MHC I。",
+      "flashcard_front": "專業抗原呈現給 CD4 T 細胞",
+      "flashcard_back": "CD4 T 細胞看 MHC II；CD8 T 細胞看 MHC I。",
+      "flashcard_summary": "專業抗原呈現給 CD4 T 細胞 -> CD4 T 細胞看 MHC II；CD8 T 細胞看 MHC I。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

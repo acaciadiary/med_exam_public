@@ -1,0 +1,29 @@
+{
+  "source_file": "public\\data\\exams\\112-2\\medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "merge": false,
+  "update_file_count": 8,
+  "question_count": 80,
+  "merged_question_numbers": [],
+  "manual_review": [
+    {
+      "question_number": 29,
+      "notes": [
+        "糖尿病腎病變比例依資料來源與族群不同，建議人工確認官方出題採用的百分比基準。"
+      ]
+    },
+    {
+      "question_number": 35,
+      "notes": [
+        "官方答案為 B；但 D 的 NSAID 敘述以現代臨床也容易被視為過度絕對，建議人工複核官方解析。"
+      ]
+    },
+    {
+      "question_number": 75,
+      "notes": [
+        "影像題未在 JSON 中保留附圖；說明依官方答案 C 與典型超音波特徵撰寫。"
+      ]
+    }
+  ],
+  "errors": []
+}

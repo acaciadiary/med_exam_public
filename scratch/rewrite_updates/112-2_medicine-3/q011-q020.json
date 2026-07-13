@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問 Raynaud phenomenon 何者錯誤。原發性 Raynaud 通常較年輕、對稱、症狀較輕，較少出現潰瘍或組織缺血；若年紀較大才發作、症狀嚴重或單側，應懷疑次發性原因，例如結締組織病或血管病變。\n\n【選項詳解】\n- A. 正確。硬皮症常合併 Raynaud phenomenon，是次發性 Raynaud 的重要病因。\n- B. 錯誤。原發性 Raynaud 通常症狀較輕、預後較好；症狀嚴重反而要懷疑次發性 Raynaud。\n- C. 正確。50 歲以上新發作時，動脈粥狀硬化、周邊血管疾病等次發性原因需納入鑑別。\n- D. 正確。症狀明顯者可用 dihydropyridine 類鈣離子阻斷劑，如 nifedipine，以減少血管痙攣。\n\n【核心考點】\n原發性 Raynaud 多較輕；晚發、嚴重、潰瘍或不對稱時要找次發性原因。",
+      "key_point": "原發性 Raynaud 通常較輕，嚴重症狀應懷疑次發性原因。",
+      "flashcard_front": "Raynaud 原發性 vs 次發性",
+      "flashcard_back": "原發性多較輕；晚發、嚴重、潰瘍、不對稱要懷疑硬皮症或血管疾病。",
+      "flashcard_summary": "Raynaud -> 原發性通常不嚴重",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n急性心包膜炎典型症狀是胸痛，常為尖銳、吸氣或平躺加劇、前傾可緩解，可聽到 pericardial friction rub。治療常用 NSAID 加 colchicine；colchicine 通常不是只用兩週，且可降低復發。\n\n【選項詳解】\n- A. 正確。急性心包膜炎可依病理表現分為 fibrinous 與 effusive，包括漿液性或血性積液等型態。\n- B. 錯誤。急性心包膜炎常見主訴是胸痛，發燒可有但不是取代胸痛的主要表現。\n- C. 錯誤。Pericardial friction rub 是急性心包膜炎重要體徵，比例並非只有不到 10%。\n- D. 錯誤。Colchicine 是急性不明原因性心包膜炎常用輔助治療，療程通常以月計，可降低復發，不是超過兩週會增加慢性化。\n\n【核心考點】\n急性心包膜炎典型是胸痛、摩擦音與心電圖變化；colchicine 可降低復發，並非短於兩週。",
+      "key_point": "急性心包膜炎常見胸痛與 friction rub；colchicine 通常可用數月以降低復發。",
+      "flashcard_front": "急性心包膜炎典型表現與 colchicine",
+      "flashcard_back": "胸痛常見，friction rub 重要；colchicine 可降低復發，療程不是只能兩週。",
+      "flashcard_summary": "急性心包膜炎 -> 胸痛常見，colchicine 降復發",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\nNYHA class II 是「一般日常活動有輕度限制」：休息無症狀，日常活動會比以前喘、累或心悸。Class I 是一般活動無限制；Class III 是低於日常活動就有明顯限制；Class IV 是休息也有症狀。\n\n【選項詳解】\n- A. 錯誤。平常籃球課無異樣，功能上沒有活動限制，較符合 class I。\n- B. 錯誤。原本可搬 20 公斤上二樓，現在搬 15 公斤樓梯走到一半就無法上樓，已是明顯活動限制，較接近 class III。\n- C. 正確。病人仍可完成平常每天走 20 公尺買報紙的活動，但比以前明顯喘和累，符合日常活動輕度受限的 class II。\n- D. 錯誤。需要墊兩個枕頭才能睡表示 orthopnea，是鬱血性心衰竭症狀；題目重點不是當下日常活動輕度限制，嚴重度較不符合 class II 的典型描述。\n\n【核心考點】\nNYHA II：休息無症狀，平常活動會誘發症狀但仍可完成；III 是低於平常活動就明顯受限。",
+      "key_point": "NYHA class II 是日常活動輕度受限，仍可完成平常活動但較喘或疲倦。",
+      "flashcard_front": "NYHA class II 定義",
+      "flashcard_back": "休息無症狀；ordinary activity 會出現症狀或較以前喘累，但不是休息也有症狀。",
+      "flashcard_summary": "NYHA II -> 日常活動輕度限制",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nCHA2DS2-VASc 評估心房顫動中風風險。此病人 78 歲得 2 分，心衰竭或 LVEF 29% 得 1 分，高血壓得 1 分，糖尿病得 1 分；無中風/TIA、血管疾病，男性不加性別分，因此總分 5。\n\n【選項詳解】\n- A. 錯誤。2 分只計入年齡 >=75 歲，漏掉心衰竭、高血壓與糖尿病。\n- B. 錯誤。3 分仍漏算至少兩個已存在的危險因子。\n- C. 錯誤。4 分通常是漏算心衰竭、糖尿病或高血壓其中之一。\n- D. 正確。年齡 >=75 歲 2 分，加上心衰竭 1、高血壓 1、糖尿病 1，共 5 分。\n\n【核心考點】\nCHA2DS2-VASc：CHF 1、HTN 1、Age >=75 為 2、DM 1、Stroke/TIA 2、vascular 1、age 65-74 為 1、female 1。",
+      "key_point": "78 歲 AF 男性合併 HFrEF、高血壓、糖尿病，CHA2DS2-VASc = 5。",
+      "flashcard_front": "CHA2DS2-VASc 計分",
+      "flashcard_back": "本題：年齡 >=75 歲 2 分 + CHF 1 + HTN 1 + DM 1 = 5。",
+      "flashcard_summary": "AF 中風風險 -> 本題 CHA2DS2-VASc 5 分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n44 歲女性 B 肝帶原、HBeAg 陰性、anti-HBe 陽性、AST/ALT 正常，表示病毒可能處於低複製或非活動期，但不是完全沒有病毒。母親與哥哥也帶原，最支持兒時或周產期垂直感染。B 肝帶原且有家族肝癌風險，仍需肝癌監測。\n\n【選項詳解】\n- A. 錯誤。HBeAg 陰性不代表體內完全沒有 HBV，仍可能有 HBV DNA 或低度複製。\n- B. 錯誤。免疫耐受期通常 HBeAg 陽性、HBV DNA 高、ALT 正常，與本題 HBeAg 陰性不符。\n- C. 正確。母親與兄弟皆為 B 肝帶原，最符合垂直感染或幼年家庭內感染；在台灣考題脈絡中垂直感染最典型。\n- D. 錯誤。B 肝帶原者依年齡、性別、肝硬化與家族史需定期肝癌監測；有家族 HCC 史不應說無需每半年超音波。\n\n【核心考點】\nHBeAg 陰性不等於病毒清除；B 肝家族聚集尤其母親帶原時，要想到垂直感染與肝癌監測。",
+      "key_point": "B 肝帶原且家族多人帶原，最可能垂直感染；HBeAg 陰性不代表無病毒。",
+      "flashcard_front": "B 肝帶原：HBeAg 陰性與感染途徑",
+      "flashcard_back": "HBeAg 陰性不等於病毒消失；母親帶原加家族聚集最支持垂直感染。",
+      "flashcard_summary": "慢性 B 肝 -> 家族帶原提示垂直感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n總膽紅素 3.6、直接膽紅素 2.5，屬 conjugated hyperbilirubinemia；但 ALP、GGT、AST、ALT 都正常，表示不是明顯膽道阻塞或肝細胞損傷。Dubin-Johnson syndrome 是肝細胞排泄 conjugated bilirubin 缺陷，會造成良性直接型高膽紅素血症。\n\n【選項詳解】\n- A. 錯誤。Crigler-Najjar syndrome 是 unconjugated bilirubin 上升，與直接型為主不符。\n- B. 錯誤。Gilbert syndrome 也是輕度 unconjugated bilirubin 上升，常在壓力或禁食時出現。\n- C. 正確。Dubin-Johnson syndrome 造成 conjugated bilirubin 排泄缺陷，肝酵素與膽道酵素通常可正常。\n- D. 錯誤。G6PD deficiency 造成溶血時以間接膽紅素上升為主，且會有貧血、網狀紅血球上升等線索。\n\n【核心考點】\n直接型高膽紅素但肝酵素與膽道酵素正常，要想到 Dubin-Johnson 或 Rotor syndrome。",
+      "key_point": "Dubin-Johnson syndrome 造成良性直接型高膽紅素血症，其他肝膽酵素可正常。",
+      "flashcard_front": "Direct bilirubin 上升但 AST/ALT/ALP/GGT 正常",
+      "flashcard_back": "想到 Dubin-Johnson syndrome：conjugated bilirubin 排泄缺陷。",
+      "flashcard_summary": "直接型高膽紅素 -> Dubin-Johnson syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題問直腸肛門疾病何者錯誤。內痔分級中，第三級是脫出後需手推回；第四級是脫出且無法推回。因此「需要用手推回去屬於第四級」是錯誤敘述。\n\n【選項詳解】\n- A. 正確。骨盆底損傷、神經系統疾病、失智、中風、重症肌無力或腸躁症等都可能造成或加重大便失禁。\n- B. 正確。大便失禁可用飲食調整、bulking agent、止瀉劑與生物回饋復健等方式治療。\n- C. 錯誤。需手動推回的脫垂內痔是第三級；第四級是持續脫出且無法復位，治療上較常需要手術評估。\n- D. 正確。肛門直腸膿瘍在免疫低下者較需警覺，治療原則是切開引流，抗生素不能取代引流。\n\n【核心考點】\n內痔分級：I 不脫出，II 自行回縮，III 需手推回，IV 無法復位。",
+      "key_point": "內痔需手推回是第三級，不是第四級；第四級是無法復位。",
+      "flashcard_front": "內痔分級",
+      "flashcard_back": "I 不脫出；II 自行回縮；III 需手推回；IV 無法推回。",
+      "flashcard_summary": "痔瘡分級 -> 手推回為第三級",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題問急性腹膜炎何者錯誤。自發性細菌性腹膜炎主要發生於肝硬化腹水病人，重要危險因子是腹水蛋白低、肝功能差、曾有 SBP、腸道細菌移位等；不是以血液白血球過低作為常見重要因子。\n\n【選項詳解】\n- A. 正確。腸道穿孔會讓腸內菌進入腹腔，造成續發性腹膜炎。\n- B. 錯誤。SBP 的典型背景是肝硬化腹水與細菌移位，血液白血球過低不是最常見的重要致病因子。\n- C. 正確。腹膜炎評估需注意局部壓痛、McBurney point、Murphy sign、反彈痛與板狀僵硬等徵象。\n- D. 正確。腹部或胸腹 X 光若見 free air，提示中空臟器穿孔，通常需緊急外科評估。\n\n【核心考點】\n續發性腹膜炎常與穿孔有關；SBP 典型背景是肝硬化腹水，不是單純白血球過低。",
+      "key_point": "SBP 常見於肝硬化腹水，重點是腹水感染風險，不是血液白血球過低。",
+      "flashcard_front": "自發性細菌性腹膜炎常見背景",
+      "flashcard_back": "肝硬化腹水、低腹水蛋白、曾有 SBP、腸道細菌移位；不是白血球過低最典型。",
+      "flashcard_summary": "SBP -> 肝硬化腹水相關",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題問食道鱗狀上皮細胞癌何者錯誤。抽菸與喝酒是重要危險因子，且會增加上呼吸消化道其他癌症風險。鱗狀上皮癌可因 PTHrP 等副腫瘤症候群造成高鈣血症，即使沒有骨轉移也可能發生。\n\n【選項詳解】\n- A. 正確。酒精與菸草對食道鱗狀上皮細胞癌有明確風險加成。\n- B. 正確。相同暴露也提高口腔、咽喉等頭頸部鱗狀上皮癌風險，屬 field cancerization 概念。\n- C. 正確。固體先困難再進展到液體，常提示機械性阻塞；固體與液體一開始都困難則較支持運動障礙。\n- D. 錯誤。鱗狀上皮癌可分泌 PTHrP 造成副腫瘤性高鈣血症，不一定需要骨骼轉移。\n\n【核心考點】\n鱗狀上皮癌的高鈣血症可由 PTHrP 副腫瘤症候群造成，無骨轉移也可能出現。",
+      "key_point": "食道鱗狀上皮癌可因 PTHrP 造成高鈣血症，不一定要有骨轉移。",
+      "flashcard_front": "鱗狀上皮癌與高鈣血症",
+      "flashcard_back": "可由 PTHrP 副腫瘤症候群造成，即使沒有骨轉移也可能高鈣。",
+      "flashcard_summary": "食道鱗癌 -> PTHrP 可致高鈣血症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問食道靜脈瘤急性出血何者錯誤。急性期處置包括復甦、抗生素、血管活性藥物與內視鏡結紮。Nonselective beta blocker 用於一級或二級預防，不用來改善正在發生的急性出血。\n\n【選項詳解】\n- A. 正確。內視鏡靜脈瘤結紮術是食道靜脈瘤出血的重要止血方式。\n- B. 正確。Terlipressin、octreotide 等可降低門脈壓與靜脈瘤出血，急性期有幫助。\n- C. 錯誤。Nonselective beta blockers 主要用於預防再出血或初級預防，急性活動性出血期不作為止血藥。\n- D. 正確。內視鏡需評估胃靜脈瘤是否存在與是否為出血來源，因處置策略可能不同。\n\n【核心考點】\n急性靜脈瘤出血靠血管活性藥物與內視鏡止血；nonselective beta blocker 是預防用，不是急性止血。",
+      "key_point": "Nonselective beta blocker 不用於急性食道靜脈瘤活動性出血止血，主要是預防策略。",
+      "flashcard_front": "食道靜脈瘤急性出血處置",
+      "flashcard_back": "急性期：復甦、抗生素、octreotide/terlipressin、內視鏡結紮；NSBB 用於預防。",
+      "flashcard_summary": "靜脈瘤急性出血 -> NSBB 非急性止血",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

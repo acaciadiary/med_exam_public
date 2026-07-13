@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\nFibromyalgia 是慢性廣泛性疼痛與中樞痛覺敏化相關的症候群，本身不是發炎性關節炎或自體免疫疾病。若沒有伴隨其他免疫或發炎疾病，CRP 與 ESR 通常應為正常；若升高，需另找感染、發炎性風濕病或惡性腫瘤等原因。\n\n【選項詳解】\n- A. 錯誤。CRP 和 ESR 都上升較支持系統性發炎，不是單純 fibromyalgia 的典型表現。\n- B. 錯誤。單獨 CRP 上升仍需懷疑其他發炎、感染或組織傷害來源。\n- C. 錯誤。ESR 上升也不是單純 fibromyalgia 的典型實驗室表現。\n- D. 正確。未合併其他免疫疾病時，fibromyalgia 的 CRP 與 ESR 應多為正常。\n\n【核心考點】\nFibromyalgia 是非發炎性疼痛症候群，發炎指標通常正常。",
+      "key_point": "單純 fibromyalgia 不會造成 CRP/ESR 上升。",
+      "flashcard_front": "Fibromyalgia 的 CRP/ESR",
+      "flashcard_back": "通常正常；若升高要找其他發炎、感染或免疫疾病。",
+      "flashcard_summary": "Fibromyalgia -> CRP/ESR 正常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n類風濕性關節炎典型侵犯小關節、對稱性、多關節，常見 MCP、PIP、腕關節，通常不侵犯 DIP。若 DIP 也明顯受影響，較要想到退化性關節炎或乾癬性關節炎等其他診斷。\n\n【選項詳解】\n- A. 錯誤。RA 通常起始為對稱性小關節發炎，不是先以不對稱大關節為主。\n- B. 正確。DIP 受影響不典型，若同時有 DIP 病灶，常提示合併退化性關節炎。\n- C. 錯誤。RA 常見肌腱滑膜炎，但 flexor tendon tenosynovitis 很常見，不能說 extensor 遠比 flexor 常見很多。\n- D. 錯誤。頸椎，尤其 atlantoaxial 關節，可在長期或嚴重 RA 出現；不是通常發生在早期。\n\n【核心考點】\nRA 典型為對稱性小關節、MCP/PIP/腕關節，DIP 不典型。",
+      "key_point": "RA 通常不侵犯 DIP；DIP 病灶常提示 OA 或其他疾病。",
+      "flashcard_front": "RA 典型關節分布",
+      "flashcard_back": "對稱性小關節，MCP/PIP/腕關節常見；DIP 不典型。",
+      "flashcard_summary": "RA -> DIP 受累通常另想 OA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\nInflammatory myopathies 的病理與族群分布常考。Polymyositis 典型為 endomysial inflammation，CD8+ T cells 侵犯非壞死肌纖維；dermatomyositis 則偏 perivascular/perimysial inflammation 與補體介導微血管病變。官方答案選 C，需理解其強調 polymyositis 的 endomysial CD8+ T cell 浸潤。\n\n【選項詳解】\n- A. 錯誤。Dermatomyositis 可見於成人與兒童；polymyositis 主要見於成人，兒童相對少。\n- B. 錯誤。Inclusion body myositis 多見於 50 歲以上男性，不是女性居多。\n- C. 正確。Polymyositis 的典型切片為 endomysial mononuclear inflammation，以 CD8+ T cells 浸潤肌纖維周圍或內部為重要特徵。\n- D. 錯誤。Necrotizing myopathy 可與自體免疫、statin、抗 SRP/抗 HMGCR、感染或惡性腫瘤相關，不能說與惡性腫瘤較無關。\n\n【核心考點】\nPolymyositis 是 CD8+ T cell endomysial inflammation；dermatomyositis 偏 perivascular/perimysial 與皮膚表現。",
+      "key_point": "Polymyositis 典型為 endomysial CD8+ T cell 浸潤。",
+      "flashcard_front": "Polymyositis 病理",
+      "flashcard_back": "Endomysial inflammation，以 CD8+ T cells 侵犯肌纖維為主。",
+      "flashcard_summary": "Inflammatory myopathy -> polymyositis: CD8 endomysial",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n補體系統，尤其 terminal complement C5-C9，對清除 Neisseria 很重要。反覆 Neisseria meningitidis 或 gonorrhoeae 感染時，最應懷疑補體缺損。\n\n【選項詳解】\n- A. 錯誤。反覆分枝桿菌感染較提示 IL-12/IFN-γ 軸、T 細胞或巨噬細胞功能問題。\n- B. 正確。反覆奈瑟氏菌感染是 terminal complement deficiency 的經典線索。\n- C. 錯誤。反覆帶狀疱疹較與細胞免疫低下有關。\n- D. 錯誤。反覆葡萄球菌感染較常見於中性球功能缺陷、慢性肉芽腫病、皮膚屏障或抗體問題。\n\n【核心考點】\nTerminal complement deficiency 的關鍵感染線索是反覆 Neisseria 感染。",
+      "key_point": "反覆 Neisseria 感染要懷疑 C5-C9 terminal complement deficiency。",
+      "flashcard_front": "補體缺損的典型感染",
+      "flashcard_back": "Terminal complement C5-C9 缺損 -> 反覆 Neisseria 感染。",
+      "flashcard_summary": "補體缺損 -> Neisseria",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題官方答案為 B，問退化性關節炎何者錯誤。OA 的軟骨破壞涉及軟骨細胞、發炎介質、aggrecanase 與多種 MMP，其中 type II collagen 的破壞常與 collagenase/MMP 相關；若題目將「主要被 MMPs 破壞」作為單一簡化說法，可能是官方想考 OA 軟骨基質破壞並非只由 MMPs 主導。因選項 D 的臨床用藥說法也容易引起爭議，已保留人工確認備註。\n\n【選項詳解】\n- A. 正確。手部與髖部 OA 遺傳影響較明顯；膝 OA 與體重、外傷、力學負荷等環境因素關係更強。\n- B. 錯誤。OA 軟骨退化涉及 proteoglycan/aggrecan 流失、aggrecanase 與 MMP 等多重酵素與細胞激素，不能簡化為 type II 軟骨主要只被 MMPs 破壞。\n- C. 正確。華人髖關節 OA 盛行率一般低於白種人，這是流行病學常考差異。\n- D. 依官方答案視為非本題錯誤。NSAIDs 是 OA 症狀控制常用藥，但臨床仍需先做運動、減重、復健、局部治療等個別化策略，不宜僵化理解為所有人必須先用。\n\n【核心考點】\nOA 是整個關節器官的退化性疾病，軟骨基質破壞涉及多種酵素與力學/發炎因子；本題官方鎖定 B。",
+      "key_point": "OA 軟骨破壞不是單一 MMP 機轉即可完整解釋，官方答案鎖定 B。",
+      "flashcard_front": "OA 軟骨破壞機轉",
+      "flashcard_back": "涉及 aggrecan/proteoglycan 流失、aggrecanase、MMP、軟骨細胞與發炎介質等多重因素。",
+      "flashcard_summary": "OA -> 官方答案 B，軟骨破壞非單一 MMP 說法",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方答案為 B；但 D 的 NSAID 敘述以現代臨床也容易被視為過度絕對，建議人工複核官方解析。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n35 歲、ER/PR 陽性且 HER2 3+、腫瘤 3 公分、腋下淋巴結 2 顆轉移，屬需要全身性輔助治療的乳癌。HER2 陽性病人加上 trastuzumab 可顯著降低復發與遠端轉移；乳房保留手術後也需放射線治療，ER/PR 陽性需抗賀爾蒙治療。\n\n【選項詳解】\n- A. 不足。化療、抗賀爾蒙與放射線重要，但未包含 HER2 標靶 trastuzumab，對 HER2 陽性病人效果不如完整治療。\n- B. 不足。紫杉醇化療可作為方案一部分，但仍缺少 HER2 標靶治療。\n- C. 不足。卵巢去功能可作為年輕荷爾蒙受體陽性病人的內分泌策略之一，但不能取代 HER2 標靶與完整輔助治療。\n- D. 正確。化學治療合併 trastuzumab，再加上抗賀爾蒙與放射線，最能涵蓋 HER2 陽性、ER/PR 陽性與乳房保留術後局部控制需求。\n\n【核心考點】\nHER2 陽性早期乳癌輔助治療需加入 HER2 標靶；ER/PR 陽性再加內分泌治療，乳房保留術後需放療。",
+      "key_point": "HER2 陽性乳癌輔助治療需納入 trastuzumab，ER/PR 陽性需抗賀爾蒙，乳房保留術後需放療。",
+      "flashcard_front": "HER2+、ER/PR+ 乳癌術後輔助治療",
+      "flashcard_back": "化療 + trastuzumab + 抗賀爾蒙治療；乳房保留術後加放射線治療。",
+      "flashcard_summary": "乳癌輔助治療 -> HER2+ 加 trastuzumab",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n癌症原發不明時，CK7/CK20 染色可協助推測來源。CK7-/CK20+ 典型支持大腸直腸癌或部分 Merkel cell carcinoma，而非前列腺癌或甲狀腺癌；前列腺常用 PSA/NKX3.1，甲狀腺常用 TTF-1/thyroglobulin/PAX8 等。\n\n【選項詳解】\n- A. 正確。CK7+/CK20+ 可見於胰膽道、卵巢黏液性腫瘤等，需搭配其他標記判讀。\n- B. 正確。CK7+/CK20- 常見於肺腺癌、乳癌、子宮內膜癌等來源。\n- C. 錯誤。CK7-/CK20+ 典型支持大腸直腸來源，不是前列腺癌或甲狀腺癌。\n- D. 正確。CK7-/CK20- 可見於肝細胞癌、腎細胞癌、前列腺癌等，仍需搭配器官特異標記。\n\n【核心考點】\nCK7-/CK20+ 最典型想到 colorectal adenocarcinoma，不是 prostate 或 thyroid。",
+      "key_point": "CK7-/CK20+ 腺癌最典型支持大腸直腸來源。",
+      "flashcard_front": "CK7/CK20：CK7-/CK20+",
+      "flashcard_back": "典型為 colorectal adenocarcinoma；前列腺與甲狀腺需用其他器官特異標記。",
+      "flashcard_summary": "CUP 免疫染色 -> CK7-/CK20+ 想大腸直腸癌",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n治療相關第二癌常考配對：topoisomerase II inhibitors 相關急性白血病多與 11q23/MLL rearrangement、較短潛伏期有關；alkylating agents/radiation 相關 MDS/AML 則常見 chromosome 5 或 7 缺失、潛伏期較長。因此 A 的配對最不恰當。\n\n【選項詳解】\n- A. 最不恰當。Topoisomerase inhibitors 相關 AML 常與 MLL/11q23 相關；chromosome 5 或 7 deletions 更典型屬 alkylating agent 或放療相關 MDS/AML。\n- B. 恰當。Tamoxifen 對子宮內膜有部分雌激素作用，增加 endometrial cancer 風險。\n- C. 恰當。異體骨髓移植後 T-cell depletion 會削弱 EBV 控制，增加 EBV-associated lymphoproliferative disorder 風險。\n- D. 恰當。化學治療，尤其 alkylating agents，可造成 therapy-related myelodysplastic syndrome。\n\n【核心考點】\n治療相關 AML/MDS：alkylating/radiation 常見 -5/-7；topoisomerase II inhibitors 常見 11q23/MLL。",
+      "key_point": "Topoisomerase inhibitor 相關白血病典型是 11q23/MLL，不是 chromosome 5/7 deletion。",
+      "flashcard_front": "治療相關第二癌配對",
+      "flashcard_back": "Alkylating/radiation -> -5/-7 MDS/AML；topoisomerase II inhibitors -> 11q23/MLL AML。",
+      "flashcard_summary": "Second malignancy -> topoisomerase inhibitor 不配 -5/-7",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n胃部非腺癌惡性腫瘤包括淋巴瘤、GIST、平滑肌肉瘤等。胃 MALT lymphoma 常與 Helicobacter pylori 相關，侷限於胃部時第一線常是 H. pylori 根除治療，部分病人可達緩解。\n\n【選項詳解】\n- A. 錯誤。胃淋巴瘤多為 B-cell origin，尤其 MALT lymphoma 與 diffuse large B-cell lymphoma，T-cell origin 不是多數。\n- B. 正確。侷限胃部 MALT lymphoma 第一線治療通常為 H. pylori eradication therapy。\n- C. 錯誤。局限性 leiomyosarcoma 治療重點通常是手術切除，不是化療合併放療為首選。\n- D. 錯誤。轉移性 GIST 主要考慮 tyrosine kinase inhibitor，如 imatinib，而非傳統組合式化學治療。\n\n【核心考點】\n胃 MALT lymphoma 與 H. pylori 相關，早期局限病灶先做除菌治療；GIST 用 TKI。",
+      "key_point": "局限於胃部的 MALT lymphoma 第一線常為 H. pylori 根除治療。",
+      "flashcard_front": "胃 MALT lymphoma 第一線治療",
+      "flashcard_back": "若局限於胃部，先做 H. pylori eradication therapy。",
+      "flashcard_summary": "胃 MALT lymphoma -> H. pylori 除菌",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n第四期腎細胞癌傳統化療效果差，治療重點是 VEGF/VEGFR 標靶治療與免疫治療。選項中 axitinib 是 VEGFR tyrosine kinase inhibitor，屬腎細胞癌常用全身治療藥物；其他選項對應其他癌別或療效不佳。\n\n【選項詳解】\n- A. 錯誤。Doxorubicin 等傳統化療不是 metastatic RCC 的常用有效全身治療。\n- B. 正確。Axitinib 是 VEGFR TKI，可用於晚期腎細胞癌治療，也可與免疫治療搭配於現代治療策略。\n- C. 錯誤。Trastuzumab 針對 HER2，主要用於 HER2 陽性乳癌、胃癌等，不是 RCC 常用藥。\n- D. 錯誤。Sipuleucel-T 用於特定攝護腺癌情境，不是腎細胞癌常用治療。\n\n【核心考點】\n晚期 RCC 對傳統化療不敏感；常用 VEGF/VEGFR 標靶與免疫治療，選項中 axitinib 最符合。",
+      "key_point": "Axitinib 是 VEGFR TKI，是晚期腎細胞癌可用的全身治療藥物。",
+      "flashcard_front": "第四期腎細胞癌常用全身治療",
+      "flashcard_back": "VEGF/VEGFR 標靶與免疫治療；選項中 axitinib 最符合。",
+      "flashcard_summary": "Metastatic RCC -> axitinib",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

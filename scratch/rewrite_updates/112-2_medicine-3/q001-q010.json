@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n低血鈣評估要先確認「是真的低鈣」還是白蛋白低造成的總鈣偏低，並找出 PTH、磷、鎂等調控軸是否異常。1,25(OH)2D 半衰期短、受 PTH 與腎臟活化影響大，通常不是初步評估低血鈣的優先檢查；若要評估維生素 D 儲存量，臨床上較常先看 25(OH)D。\n\n【選項詳解】\n- A. 適當。白蛋白低會使總鈣偏低但游離鈣可能正常；磷可協助判斷副甲狀腺功能、腎臟排磷與維生素 D 相關問題。\n- B. 適當。PTH 是低血鈣鑑別診斷的核心，可區分副甲狀腺功能低下、PTH 阻抗或代償性上升等情境。\n- C. 最不適當。1,25(OH)2D 不是維生素 D 儲存量的最佳初篩，也不如 25(OH)D、PTH、磷、鎂能直接建立低血鈣初步鑑別。\n- D. 適當。低鎂會抑制 PTH 分泌並造成 PTH 阻抗，是低血鈣常見且可矯正的原因。\n\n【核心考點】\n低血鈣初評先確認白蛋白校正鈣或游離鈣，再看 PTH、磷、鎂與 25(OH)D；1,25(OH)2D 通常不是第一線初篩。",
+      "key_point": "低血鈣初步評估重點是白蛋白校正、PTH、磷與鎂；1,25(OH)2D 不適合作為優先初篩。",
+      "flashcard_front": "低血鈣初評最不優先的檢查",
+      "flashcard_back": "通常不是 1,25(OH)2D；先確認白蛋白校正鈣、PTH、磷、鎂，必要時評估 25(OH)D。",
+      "flashcard_summary": "低血鈣評估 -> 1,25(OH)2D 非優先初篩",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n高血鉀常見於鉀由細胞內移出、腎臟排鉀下降，或醛固酮作用不足。NSAIDs 會抑制腎臟前列腺素，降低腎素與醛固酮，進而減少遠端腎小管排鉀，所以最可能造成高血鉀。\n\n【選項詳解】\n- A. 錯誤。胰島素會促進鉀離子進入細胞，是治療高血鉀時暫時降低血鉀的常用方式。\n- B. 錯誤。低鎂可使 ROMK 通道調控異常而與低血鉀相關，並不是最典型造成高血鉀的原因。\n- C. 正確。NSAIDs 可抑制腎素-血管張力素-醛固酮系統，使遠端腎元排鉀能力下降，特別在腎功能不佳或合併 ACEI/ARB 時更容易高血鉀。\n- D. 錯誤。β2 agonist 會活化 Na/K-ATPase，促進鉀進入細胞，常用於高血鉀急性處置的輔助治療。\n\n【核心考點】\n高血鉀的藥物陷阱包括 NSAIDs、ACEI/ARB、保鉀利尿劑與腎功能不全；胰島素與 β2 agonist 則會降低血鉀。",
+      "key_point": "NSAIDs 會降低腎素與醛固酮作用，使腎臟排鉀下降而造成高血鉀。",
+      "flashcard_front": "NSAIDs 與高血鉀",
+      "flashcard_back": "NSAIDs 抑制前列腺素，降低 renin/aldosterone，遠端排鉀下降，可能造成高血鉀。",
+      "flashcard_summary": "高血鉀 -> NSAIDs 抑制 RAAS 造成排鉀下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n疲倦、深色尿與可能黃疸時，優先評估肝膽或溶血相關線索，包括膽紅素分型、尿中 urobilinogen、以及身體診察的黃疸徵象。Creatinine 是腎功能指標，雖可評估整體狀況，但對此題所指的黃疸/深色尿鑑別不是最直接檢查。\n\n【選項詳解】\n- A. 適當。total/direct bilirubin 可區分間接型與直接型高膽紅素血症，協助判斷溶血、肝細胞性或膽汁鬱積性問題。\n- B. 適當。尿中 urobilinogen 可協助辨別肝細胞疾病、溶血與阻塞性黃疸的可能性。\n- C. 適當。鞏膜與舌下黏膜黃染是臨床偵測黃疸的重要身體檢查。\n- D. 最不適當。Creatinine 主要反映腎功能，不能直接解釋膽紅素上升或黃疸型深色尿的來源。\n\n【核心考點】\n疑似黃疸或膽紅素尿時，先看 bilirubin 分型、尿 urobilinogen 與黃疸理學檢查；creatinine 不是此鑑別的第一線重點。",
+      "key_point": "深色尿合併疑似黃疸，優先評估膽紅素分型、urobilinogen 與黃疸徵象。",
+      "flashcard_front": "深色尿與疑似黃疸的初步評估",
+      "flashcard_back": "看 total/direct bilirubin、尿 urobilinogen、鞏膜或黏膜黃染；creatinine 不是最直接檢查。",
+      "flashcard_summary": "黃疸評估 -> creatinine 不是最適當初步鑑別",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n針狀、強烈負雙折射結晶且被白血球吞噬，符合急性痛風性關節炎。急性發作治療以 NSAID、colchicine 或類固醇控制發炎；降尿酸藥如 febuxostat 不是急性止痛消炎藥，發作當下新啟用可能使尿酸波動而延長或惡化發作。\n\n【選項詳解】\n- A. 適當。Colchicine 可抑制嗜中性球發炎反應，是急性痛風發作的治療選項之一。\n- B. 最不恰當。Febuxostat 是 xanthine oxidase inhibitor，用於長期降尿酸，不是急性痛風發作的主要止痛消炎處置。\n- C. 適當。Ibuprofen 等 NSAIDs 可快速減少急性痛風的關節發炎與疼痛，若無腎功能不全、消化道出血等禁忌可使用。\n- D. 適當。Prednisolone 可用於 NSAID 或 colchicine 不適合時的急性痛風治療。\n\n【核心考點】\n急性痛風先抗發炎止痛；febuxostat/allopurinol 屬長期降尿酸策略，不是新發急性期的首要處置。",
+      "key_point": "急性痛風發作治療以 NSAID、colchicine 或類固醇為主，febuxostat 不是急性止痛消炎藥。",
+      "flashcard_front": "急性痛風最不適合新啟用的藥",
+      "flashcard_back": "Febuxostat；它是長期降尿酸藥，不是急性發作的抗發炎止痛處置。",
+      "flashcard_summary": "急性痛風 -> febuxostat 非急性期首選",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n痛風病史、血尿、X 光不顯影結石，最符合尿酸結石。尿酸結石處置重點是降低尿酸生成與鹼化尿液；促尿酸排泄藥 probenecid 會增加尿中尿酸，可能促進尿酸結石形成或惡化，因此最不恰當。\n\n【選項詳解】\n- A. 適當。Allopurinol 可降低尿酸生成，對高尿酸尿或反覆尿酸結石病人有幫助。\n- B. 適當。Potassium citrate 可鹼化尿液，提高尿酸溶解度，是尿酸結石常用治療。\n- C. 最不恰當。Probenecid 促進腎臟排尿酸，使尿中尿酸濃度上升，會增加尿酸結石風險。\n- D. 適當。Sodium bicarbonate 也可鹼化尿液，使尿酸較不易沉澱，但需注意鈉負荷。\n\n【核心考點】\n尿酸結石通常 X 光不顯影；治療靠尿液鹼化與降低尿酸生成，避免促尿酸排泄藥。",
+      "key_point": "尿酸結石避免 probenecid，因其增加尿中尿酸而提高結石風險。",
+      "flashcard_front": "痛風病人尿酸結石最不適合的藥",
+      "flashcard_back": "Probenecid；會增加尿酸排泄與尿中尿酸濃度，可能惡化尿酸結石。",
+      "flashcard_summary": "尿酸結石 -> 避免 probenecid",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問心導管與冠狀動脈造影何者錯誤。顯影劑相關急性腎損傷確實可用術前水分補充降低風險，但 N-acetylcysteine 的保護效果證據不一致，並非所有病人術前「均應」給予；題目中絕對化用語是錯誤關鍵。\n\n【選項詳解】\n- A. 正確。擇期心導管整體風險低，但仍可能有心肌梗塞、中風、死亡等罕見嚴重併發症。\n- B. 正確。含碘顯影劑可造成類過敏反應，雖不常見但可能嚴重。\n- C. 錯誤。顯影劑可造成急性腎損傷，高風險者重點是適當補液與減少腎毒性暴露；N-acetylcysteine 不是所有病人都必須常規使用。\n- D. 正確。疑似冠心病接受冠狀動脈造影前常需抗血小板治療考量；單純心導管無常規預防性抗生素需求。\n\n【核心考點】\n心導管顯影劑腎損傷預防以風險分層與水分補充為主；「所有人均給 N-acetylcysteine」是過度絕對化。",
+      "key_point": "顯影劑腎損傷預防重點是高風險辨識與補液，N-acetylcysteine 不是所有病人常規必給。",
+      "flashcard_front": "冠狀動脈造影與 N-acetylcysteine",
+      "flashcard_back": "N-acetylcysteine 對顯影劑腎損傷預防證據不穩，不能說術前所有病人均應給予。",
+      "flashcard_summary": "心導管顯影劑 -> 補液重要，NAC 非人人必給",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n冠狀動脈疾病藥物治療中，beta blocker 可降低心跳、收縮力與心肌耗氧，能改善心絞痛，且在心肌梗塞後特定族群可降低死亡率。其他選項的錯誤多在藥物機轉或用藥形式。\n\n【選項詳解】\n- A. 正確。Beta blocker 減少心肌耗氧、減輕心絞痛，並可改善心肌梗塞後病人的預後。\n- B. 錯誤。短效 dihydropyridine 會反射性心搏過速，可能惡化心肌缺血；若使用鈣離子阻斷劑，通常選長效製劑或依病況選擇 non-DHP。\n- C. 錯誤。Aspirin 對血小板 cyclooxygenase 是不可逆抑制，不是可逆性抑制。\n- D. 錯誤。有機硝酸鹽釋放 NO 後主要活化 soluble guanylyl cyclase、增加 cGMP，使血管平滑肌鬆弛；不是 adenylyl cyclase。\n\n【核心考點】\n冠心病藥物考點：beta blocker 降低心肌耗氧；aspirin 不可逆抑制 COX；nitrate 走 NO-cGMP 路徑。",
+      "key_point": "Beta blocker 可減少心肌耗氧並改善心絞痛，心肌梗塞後可降低死亡率。",
+      "flashcard_front": "冠心病藥物：beta blocker、aspirin、nitrate",
+      "flashcard_back": "Beta blocker 降耗氧；aspirin 不可逆抑制 COX；nitrate 活化 guanylyl cyclase/cGMP。",
+      "flashcard_summary": "冠心病藥物 -> beta blocker 正確，aspirin/nitrate 機轉常考",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n年輕男性猝死、反覆 VT/VF、心尖與左下胸骨緣收縮期雜音、冠狀動脈無阻塞，搭配圖像情境最符合肥厚型心肌症。肥厚型心肌症若有左心室出口阻塞，利尿劑會減少前負荷，使出口阻塞惡化，因此不能「增加利尿劑使用量」作為一般策略。\n\n【選項詳解】\n- A. 正確。年輕人運動或熬夜後惡性心律不整、收縮期雜音與無冠狀動脈阻塞，符合肥厚型心肌症的典型考題線索。\n- B. 正確。曾發生心跳停止或持續性 VT/VF 屬高風險，需評估 ICD 作為次級預防。\n- C. 正確。症狀嚴重且藥物治療不足的阻塞型 HCM，可考慮酒精中隔消融或外科中隔切除；末期心衰竭可評估心臟移植。\n- D. 錯誤。利尿劑降低前負荷，可能加重左心室出口阻塞與低血壓；HCM 症狀控制常用 beta blocker 或 non-DHP calcium channel blocker。\n\n【核心考點】\n阻塞型肥厚型心肌症避免過度降低前負荷；猝死高風險或曾 VT/VF 者要評估 ICD。",
+      "key_point": "阻塞型 HCM 不宜增加利尿劑，因前負荷下降會加重左心室出口阻塞。",
+      "flashcard_front": "肥厚型心肌症最不適當處置",
+      "flashcard_back": "避免過度利尿或降低前負荷；曾 VT/VF 或心跳停止要評估 ICD。",
+      "flashcard_summary": "HCM -> 利尿劑可惡化出口阻塞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n65 歲男性突發胸悶與心悸，心跳約 130/min，題目附圖診斷為 atrial fibrillation。雖未顯示圖像，考題重點通常是心電圖呈現不規則不規則節律、無明確 P 波，QRS 多為窄波。\n\n【選項詳解】\n- A. 錯誤。Sinus tachycardia 應有規則節律，且每個 QRS 前可見一致 P 波。\n- B. 錯誤。Atrial tachycardia 通常節律較規則，且有異位但可辨識的 P 波形態。\n- C. 正確。Atrial fibrillation 典型為不規則不規則 RR interval、缺乏固定 P 波，老年人可表現為心悸與胸悶。\n- D. 錯誤。Ventricular tachycardia 多為規則寬 QRS tachycardia，臨床風險高，但不符合典型 AF 心電圖描述。\n\n【核心考點】\n心房顫動心電圖關鍵是不規則不規則節律與無固定 P 波；與規則性竇性或心房頻脈區分。",
+      "key_point": "Atrial fibrillation 的心電圖特徵是不規則不規則 RR interval 與無明確 P 波。",
+      "flashcard_front": "心房顫動 ECG 關鍵",
+      "flashcard_back": "Irregularly irregular rhythm，沒有固定 P 波，QRS 通常窄。",
+      "flashcard_summary": "心房顫動 -> 不規則不規則且無固定 P 波",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n肺高壓早期常只有喘、疲倦、胸悶等非特異症狀；篩檢常先用心臟超音波估計右心負荷與肺動脈壓，確診仍需右心導管。貧血不是肺高壓確診後「常合併」的典型必要特徵，因此此敘述錯誤。\n\n【選項詳解】\n- A. 正確。肺高壓早期症狀常不專一，如活動喘、疲倦、胸悶或暈厥。\n- B. 正確。心臟超音波是疑似肺高壓時常用的第一線非侵入性篩檢工具。\n- C. 正確。肺高壓的血流動力學確診需靠右心導管量測平均肺動脈壓、肺楔壓與肺血管阻力等。\n- D. 錯誤。肺高壓可與多種疾病共存，但貧血不是確診肺高壓後常見或必要的典型合併症；反而慢性缺氧性疾病可見紅血球增多。\n\n【核心考點】\n肺高壓：症狀不特異，超音波篩檢，右心導管確診；不要把貧血當成典型合併特徵。",
+      "key_point": "肺高壓以心臟超音波篩檢、右心導管確診；貧血不是典型常見合併特徵。",
+      "flashcard_front": "肺高壓診斷流程",
+      "flashcard_back": "症狀常不特異；心臟超音波先篩檢，右心導管確診。",
+      "flashcard_summary": "肺高壓 -> echo 篩檢，right heart catheterization 確診",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題問癌症預防何者錯誤。HBV 疫苗可預防慢性 B 肝與其後續 HCC 風險；HPV 疫苗對尚未感染的型別可預防持續感染與癌前病變。但 HPV 疫苗保護期很長，不等於可保證終生免疫，且仍需依建議接受篩檢。\n\n【選項詳解】\n- A. 正確。B 型肝炎疫苗可降低慢性 HBV 感染，也能降低 HBV 相關肝細胞癌風險。\n- B. 正確。對未感染過的 HPV 型別，接種疫苗可預防該型別的持續感染。\n- C. 正確。預防高危險 HPV 持續感染可進一步降低子宮頸等部位癌前病變。\n- D. 錯誤。HPV 疫苗保護效果持久，但不能概括宣稱接種後一定終生免疫。\n\n【核心考點】\n癌症預防疫苗包括 HBV 與 HPV；HPV 疫苗不能取代篩檢，也不應絕對宣稱終生免疫。",
+      "key_point": "HPV 疫苗保護效果持久，但不能保證終生免疫。",
+      "flashcard_front": "HPV 疫苗能否保證終生免疫",
+      "flashcard_back": "不能絕對保證；可預防未感染型別的持續感染與癌前病變，但仍需篩檢。",
+      "flashcard_summary": "癌症預防 -> HPV 疫苗非保證終生免疫",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n血小板雖無細胞核，但仍含有 mRNA、核糖體與翻譯機制，可在活化時合成部分蛋白質。因此說血小板無 RNA、沒有合成蛋白能力是錯誤的。\n\n【選項詳解】\n- A. 錯誤。血小板無核，但仍有 RNA 與蛋白質合成能力，尤其在活化狀態下可進行有限度轉譯。\n- B. 正確。血小板直徑約 1-5 μm，壽命約 7-10 天，是常見基礎數據。\n- C. 正確。GPIb-IX-V 與 von Willebrand factor 結合，對血小板黏附與活化很重要。\n- D. 正確。急性冠狀動脈症候群中血小板活化增加，血小板-血小板與血小板-白血球交互作用增強。\n\n【核心考點】\n血小板無核但不是代謝完全靜止；仍可攜帶 RNA 並合成部分蛋白。",
+      "key_point": "血小板無核但含 RNA，可進行有限度蛋白質合成。",
+      "flashcard_front": "血小板是否有 RNA/蛋白合成",
+      "flashcard_back": "有 RNA，可有限度合成蛋白；無核不等於無轉譯能力。",
+      "flashcard_summary": "血小板 -> 無核但有 RNA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題問造血幹細胞移植何者最不恰當。同父同母手足每位 HLA 全合機率約 25%，所以至少一位符合為 1-(0.75)^n。ABO 不合並不是 allogeneic HSCT 的絕對障礙，通常靠血品處理、移植物處理與支持治療，不需要因此常規增加免疫抑制或做受贈者脾切除。\n\n【選項詳解】\n- A. 恰當。每位同胞 HLA matched 機率約 1/4，n 位同胞至少一位 matched 的機率為 1-(3/4)^n。\n- B. 最不恰當。ABO 不合可處理，不通常需要增加移植前免疫抑制劑或切除 recipient 脾臟。\n- C. 恰當。自體移植使用自己的細胞，沒有典型 GVHD 或 graft rejection 問題。\n- D. 恰當。G-CSF 可動員周邊血幹細胞；plerixafor 阻斷 CXCR4 可增加幹細胞釋放與收集量。\n\n【核心考點】\nAllogeneic HSCT 重點是 HLA；ABO 不合可管理，不是靠常規脾切除或加重免疫抑制解決。",
+      "key_point": "ABO 不合不是造血幹細胞移植的絕對禁忌，通常不需受贈者脾切除。",
+      "flashcard_front": "造血幹細胞移植 ABO 不合",
+      "flashcard_back": "可透過血品/移植物處理與支持治療管理，不通常需加重免疫抑制或脾切除。",
+      "flashcard_summary": "HSCT -> ABO 不合非靠脾切除處理",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\nCLL 的細胞遺傳預後常考：isolated del(13q14) 預後較佳；del(11q) 與 bulky lymphadenopathy、較差預後相關；del(17p)/TP53 異常預後最差且影響治療選擇。\n\n【選項詳解】\n- A. 正確。del(13)(q14.3)，尤其單獨存在時，是 CLL 較佳預後指標。\n- B. 錯誤。del(11q22.3) 常涉及 ATM，預後較差。\n- C. 錯誤。Trisomy 12 屬中間預後，不是最佳。\n- D. 錯誤。del(17p13.1) 涉及 TP53，預後不佳，對傳統化療反應差。\n\n【核心考點】\nCLL 預後：del13q 較佳；del11q、del17p 較差，del17p/TP53 最需警覺。",
+      "key_point": "CLL 中 isolated del(13q14) 是較佳預後染色體變異。",
+      "flashcard_front": "CLL 預後染色體",
+      "flashcard_back": "del13q 較佳；trisomy 12 中間；del11q、del17p 較差。",
+      "flashcard_summary": "CLL -> del(13q14) 預後較佳",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nCOPD 診斷需要肺功能檢查證明不可完全可逆的氣流阻塞，典型標準是支氣管擴張劑後 FEV1/FVC < 0.70。題目選項中的「支氣管擴張試驗」代表 spirometry with bronchodilator，是診斷 COPD 的必要檢查。\n\n【選項詳解】\n- A. 錯誤。胸部 CT 可評估肺氣腫、肺癌或其他肺病，但不是診斷 COPD 的必要檢查。\n- B. 錯誤。支氣管鏡用於懷疑腫瘤、異物、感染或出血等，不是 COPD 診斷必需。\n- C. 正確。支氣管擴張劑前後肺功能可確認持續性氣流阻塞，是 COPD 診斷核心。\n- D. 錯誤。Alpha-1 antitrypsin 可在年輕、家族史或非典型肺氣腫時評估，但不是所有 COPD 診斷必要檢查。\n\n【核心考點】\nCOPD 診斷靠肺功能：post-bronchodilator FEV1/FVC < 0.70。",
+      "key_point": "COPD 診斷必要檢查是支氣管擴張劑後肺功能測試。",
+      "flashcard_front": "COPD 診斷必要檢查",
+      "flashcard_back": "Spirometry after bronchodilator；FEV1/FVC < 0.70 支持持續性氣流阻塞。",
+      "flashcard_summary": "COPD -> bronchodilator spirometry 必要",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\nCOPD 病人使用長效支氣管擴張劑後仍不穩定，若血中嗜酸性球比例較高，代表較可能對 inhaled corticosteroid 有反應。本題 eosinophil 5%，在 WBC 9500/mm3 下約 475/mm3，支持加上 ICS。\n\n【選項詳解】\n- A. 較不適合。Theophylline 治療窗窄、副作用與交互作用較多，現代 COPD add-on 角色有限。\n- B. 較不適合。Macrolide 可用於特定反覆急性惡化族群，但本題最明確線索是嗜酸性球偏高。\n- C. 不適合。Leukotriene modifier 不是 COPD 常規 add-on 治療重點。\n- D. 正確。血中 eosinophil 偏高且症狀/惡化控制不佳時，加上 inhaled corticosteroid 較可能有益。\n\n【核心考點】\nCOPD 加 ICS 的重要線索之一是血中 eosinophil 偏高，尤其有持續症狀或急性惡化風險時。",
+      "key_point": "COPD 長效支氣管擴張劑後仍不穩定且 eosinophil 偏高，可考慮加 ICS。",
+      "flashcard_front": "COPD 何時加 inhaled corticosteroid",
+      "flashcard_back": "症狀或惡化控制不佳，且血中 eosinophil 偏高時較可能受益。",
+      "flashcard_summary": "COPD -> eosinophil 高加 ICS",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n胸腔超音波很適合床邊評估胸水、氣胸與橫膈膜活動；但兩側肺門淋巴腺位於胸腔中央深部，受空氣與骨性結構阻隔，體外胸腔超音波最不容易診斷。\n\n【選項詳解】\n- A. 有幫助。胸腔超音波可敏感偵測肋膜積液，並可導引抽液。\n- B. 有幫助。氣胸可用 lung sliding 消失、barcode sign、lung point 等超音波徵象判斷。\n- C. 有幫助。橫膈膜麻痺可用超音波觀察橫膈膜位移與增厚率。\n- D. 最沒有幫助。肺門淋巴腺在中央縱隔/肺門，體外超音波穿透受限，通常需 CT、PET/CT 或支氣管內超音波等評估。\n\n【核心考點】\n胸腔超音波強在胸膜、胸水、氣胸與橫膈膜；中央肺門淋巴結不是體外超音波強項。",
+      "key_point": "體外胸腔超音波最不適合診斷兩側肺門淋巴腺腫。",
+      "flashcard_front": "胸腔超音波適合與不適合",
+      "flashcard_back": "適合胸水、氣胸、橫膈膜；不適合中央肺門淋巴結。",
+      "flashcard_summary": "胸腔超音波 -> 肺門淋巴結最沒幫助",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\nTLC 70% 表示限制型通氣障礙，FEV1/FVC 80% 不支持阻塞型，最大吸氣壓只有 55% 預測值提示吸氣肌無力。這組合最符合神經肌肉疾病，例如重症肌無力造成呼吸肌無力。\n\n【選項詳解】\n- A. 錯誤。COPD 典型為阻塞型，FEV1/FVC 下降，且 TLC 常正常或升高。\n- B. 較不符合。肥胖可造成限制型，但最大吸氣壓明顯下降更支持神經肌肉弱化。\n- C. 較不符合。肺葉切除術後可造成 TLC 降低，但不典型造成最大吸氣壓明顯降低。\n- D. 正確。重症肌無力可造成呼吸肌無力，使最大吸氣壓降低，肺功能呈限制型樣貌。\n\n【核心考點】\n限制型肺功能合併最大吸氣壓下降，要想到神經肌肉疾病而非單純肺實質或 COPD。",
+      "key_point": "TLC 下降且最大吸氣壓下降，最支持神經肌肉性呼吸肌無力。",
+      "flashcard_front": "限制型肺功能 + MIP 下降",
+      "flashcard_back": "想到神經肌肉疾病，例如重症肌無力；COPD 會 FEV1/FVC 下降。",
+      "flashcard_summary": "肺功能判讀 -> MIP 低提示重症肌無力",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n此女性為活動性肺結核接觸者，胸 X 光正常但 IGRA 陽性，符合潛伏結核感染；關鍵是丈夫的結核菌對 isoniazid 抗藥，因此不能選 INH 單藥預防。對 INH 抗藥、rifampin 可用的潛伏感染，4 個月每日 rifampin 是適合方案。\n\n【選項詳解】\n- A. 錯誤。接觸來源為 INH 抗藥性結核，9 個月 INH 不適合。\n- B. 錯誤。Rifampin 加 pyrazinamide 兩個月因肝毒性風險，不是常規推薦的 LTBI 方案。\n- C. 正確。4 個月每日 rifampin 可用於 INH 抗藥來源接觸者的潛伏結核感染治療。\n- D. 錯誤。Levofloxacin 可在多重抗藥暴露的特殊情境考慮，但不是本題 INH 單一抗藥且 rifampin 可用時的最適合處方。\n\n【核心考點】\nLTBI 治療要看來源個案抗藥性；INH 抗藥接觸者避免 INH，常選 rifampin 4 個月。",
+      "key_point": "INH 抗藥性肺結核接觸者的 LTBI，適合選 4 個月 rifampin。",
+      "flashcard_front": "INH 抗藥 TB 接觸者 LTBI 治療",
+      "flashcard_back": "IGRA 陽性、CXR 正常；避免 INH，若 rifampin 可用可給 4 個月每日 rifampin。",
+      "flashcard_summary": "LTBI -> INH-resistant exposure 用 rifampin 4 個月",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n非結核分枝桿菌可造成免疫正常或有結構性肺病者的慢性肺部感染。M. avium complex 屬慢速生長菌，肺部感染治療通常需要長療程，常治療至痰培養陰轉後至少 12 個月，整體可達約 18 個月。\n\n【選項詳解】\n- A. 錯誤。NTM 肺病不只發生於 HIV；支氣管擴張、COPD、纖瘦中老年女性等族群也可見。\n- B. 錯誤。M. gordonae 常被視為污染菌或低致病性菌，並非最容易造成肺部感染的 NTM。\n- C. 正確。MAC 是慢速生長菌，肺部疾病需多藥合併且長期治療，常約 18 個月或更久。\n- D. 錯誤。M. abscessus 是快速生長菌但治療困難，需長期多藥治療，不是一般肺炎兩週療程。\n\n【核心考點】\nNTM 肺病治療通常很長；MAC 慢速生長且需多藥長療程，M. abscessus 難治也不是短療程。",
+      "key_point": "MAC 肺部感染通常需多藥長療程，治療時間可達約 18 個月。",
+      "flashcard_front": "NTM：MAC 肺病治療時間",
+      "flashcard_back": "MAC 是慢速生長菌，肺病常需多藥治療至培養陰轉後至少 12 個月，總療程可約 18 個月。",
+      "flashcard_summary": "NTM -> MAC 慢速生長且長療程",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-2.json",
+  "dataset_id": "109-1_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n具有 reverse transcriptase 的病毒包含 retrovirus 與 hepatitis B virus。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。乳突瘤病毒是 dsDNA 病毒，不靠反轉錄複製基因體。\n- B. 錯誤。西尼羅河病毒是正股 RNA 黃病毒，不使用反轉錄酶。\n- C. 正確。B 型肝炎病毒是部分雙股 DNA 病毒，複製過程有 RNA 中間體並使用 reverse transcriptase。\n- D. 錯誤。RSV 是負股 RNA 病毒，使用 RNA-dependent RNA polymerase。\n\n【核心考點】\nHBV 雖是 DNA 病毒，但複製週期需要 reverse transcriptase。",
+      "key_point": "HBV 雖是 DNA 病毒，但複製週期需要 reverse transcriptase。",
+      "flashcard_front": "下列那一種病毒會以反轉錄酶(reverse transcriptase)複製病毒基因體?",
+      "flashcard_back": "HBV 雖是 DNA 病毒，但複製週期需要 reverse transcriptase。",
+      "flashcard_summary": "下列那一種病毒會以反轉錄酶(reverse transcriptase)複製病毒基因體? -> HBV 雖是 DNA 病毒，但複製週期需要 reverse transcriptase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\nOseltamivir 是流感病毒 neuraminidase inhibitor。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。蛋白酶抑制劑多用於 HIV 或 HCV 等治療，不是 oseltamivir 主要靶點。\n- B. 正確。oseltamivir 抑制流感病毒 neuraminidase，阻止新病毒顆粒釋放。\n- C. 錯誤。thymidine kinase 與 acyclovir 類抗疱疹病毒藥物活化有關。\n- D. 錯誤。reverse transcriptase 是 HIV/HBV 相關靶點，不是 oseltamivir 的作用點。\n\n【核心考點】\nOseltamivir 抑制流感病毒 neuraminidase。",
+      "key_point": "Oseltamivir 抑制流感病毒 neuraminidase。",
+      "flashcard_front": "抗病毒藥物奧斯他偉(oseltamivir),主要是抑制病毒的那一種酵素?",
+      "flashcard_back": "Oseltamivir 抑制流感病毒 neuraminidase。",
+      "flashcard_summary": "抗病毒藥物奧斯他偉(oseltamivir),主要是抑制病毒的那一種酵素? -> Oseltamivir 抑制流感病毒 neuraminidase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\nNegri body 是狂犬病病毒感染神經細胞的典型包涵體。官方答案為 A。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。狂犬病病毒可在神經細胞胞質形成 Negri bodies。\n- B. 錯誤。HSV 常見核內包涵體與 Cowdry type A，不是 Negri body。\n- C. 錯誤。poxvirus 在胞質複製，可見 Guarnieri bodies。\n- D. 錯誤。HBV 的病理重點是肝細胞感染與免疫傷害，不產生 Negri bodies。\n\n【核心考點】\nNegri bodies 指向 rabies virus。",
+      "key_point": "Negri bodies 指向 rabies virus。",
+      "flashcard_front": "下列何種病毒會在宿主細胞內造成內格里小體(Negri bodies)的產生?",
+      "flashcard_back": "Negri bodies 指向 rabies virus。",
+      "flashcard_summary": "下列何種病毒會在宿主細胞內造成內格里小體(Negri bodies)的產生? -> Negri bodies 指向 rabies virus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n抗病毒胜肽類藥物以 HIV fusion inhibitor enfuvirtide 為代表。官方答案為 A。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。enfuvirtide 是胜肽類融合抑制劑，作用於 HIV gp41。\n- B. 錯誤。ganciclovir 是核苷類似物，主要治療 CMV 等感染。\n- C. 錯誤。lamivudine 是核苷類 reverse transcriptase inhibitor。\n- D. 錯誤。oseltamivir 是小分子 neuraminidase inhibitor。\n\n【核心考點】\nEnfuvirtide 是 HIV gp41 fusion inhibitor，屬胜肽類抗病毒藥。",
+      "key_point": "Enfuvirtide 是 HIV gp41 fusion inhibitor，屬胜肽類抗病毒藥。",
+      "flashcard_front": "有關抑制病毒的藥物中,下列何者是胜肽類的藥物?",
+      "flashcard_back": "Enfuvirtide 是 HIV gp41 fusion inhibitor，屬胜肽類抗病毒藥。",
+      "flashcard_summary": "有關抑制病毒的藥物中,下列何者是胜肽類的藥物? -> Enfuvirtide 是 HIV gp41 fusion inhibitor，屬胜肽類抗病毒藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n德國麻疹病毒可由 MMR 預防；診斷不以常規喉拭子培養為主，題目問錯誤。官方答案為 D。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。rubella 的自然宿主主要是人類。\n- B. 正確。rubella 只有一種血清型，因此疫苗保護力可涵蓋主要感染。\n- C. 正確。MMR 疫苗可預防麻疹、腮腺炎與德國麻疹。\n- D. 錯誤。臨床診斷常依血清學或分子檢測，常規病毒培養不是主要診斷依據。\n\n【核心考點】\nRubella 可用 MMR 預防；診斷重點多為血清學/分子檢測。",
+      "key_point": "Rubella 可用 MMR 預防；診斷重點多為血清學/分子檢測。",
+      "flashcard_front": "有關德國麻疹病毒(rubella virus)的敘述,下列何者錯誤?",
+      "flashcard_back": "Rubella 可用 MMR 預防；診斷重點多為血清學/分子檢測。",
+      "flashcard_summary": "有關德國麻疹病毒(rubella virus)的敘述,下列何者錯誤? -> Rubella 可用 MMR 預防；診斷重點多為血清學/分子檢測。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\nMalassezia furfur 是親脂性酵母菌，培養需要脂質。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。澱粉不是提升 Malassezia 培養率的關鍵營養。\n- B. 錯誤。L-cysteine 常見於某些特殊菌培養需求，不是此菌重點。\n- C. 正確。Malassezia furfur 親脂，培養基加入橄欖油可提高培養率。\n- D. 錯誤。N-acetylglucosamine 不是此題所問的主要培養添加物。\n\n【核心考點】\nMalassezia furfur 親脂，培養常需外加油脂。",
+      "key_point": "Malassezia furfur 親脂，培養常需外加油脂。",
+      "flashcard_front": "培養糠秕馬拉癬菌(Malassezia furfur)時,為提高培養率,最常於培養基中加入下列何者?",
+      "flashcard_back": "Malassezia furfur 親脂，培養常需外加油脂。",
+      "flashcard_summary": "培養糠秕馬拉癬菌(Malassezia furfur)時,為提高培養率,最常於培養基中加入下列何者? -> Malassezia furfur 親脂，培養常需外加油脂。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\nCandida glabrata 通常以酵母型存在，不像 C. albicans 常形成假菌絲/菌絲。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。Candida tropicalis 可形成假菌絲或菌絲樣構造。\n- B. 錯誤。Candida albicans 具 germ tube、假菌絲與菌絲形成能力。\n- C. 正確。Candida glabrata 通常不形成菌絲，較以小型酵母型為主。\n- D. 錯誤。Candida parapsilosis 可形成假菌絲。\n\n【核心考點】\nCandida glabrata 通常不形成菌絲，是與 C. albicans 的高頻對比。",
+      "key_point": "Candida glabrata 通常不形成菌絲，是與 C. albicans 的高頻對比。",
+      "flashcard_front": "下列那一種真菌(fungi)通常不形成菌絲(hyphae)構造?",
+      "flashcard_back": "Candida glabrata 通常不形成菌絲，是與 C. albicans 的高頻對比。",
+      "flashcard_summary": "下列那一種真菌(fungi)通常不形成菌絲(hyphae)構造? -> Candida glabrata 通常不形成菌絲，是與 C. albicans 的高頻對比。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\nM cell 的功能是跨上皮運送腸腔抗原到 Peyer patches 等淋巴組織。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。M 細胞本身不是主要殺菌效應細胞。\n- B. 錯誤。製造抗體是漿細胞功能，不是 M 細胞主要功能。\n- C. 正確。M 細胞負責捕捉並轉運腸道抗原到下方免疫組織。\n- D. 錯誤。保護表皮屏障較屬上皮屏障與黏液等功能，不是 M 細胞重點。\n\n【核心考點】\nM cell 是腸道黏膜抗原取樣與轉運細胞。",
+      "key_point": "M cell 是腸道黏膜抗原取樣與轉運細胞。",
+      "flashcard_front": "位於腸道底層免疫組織中之M細胞的主要免疫功能為:",
+      "flashcard_back": "M cell 是腸道黏膜抗原取樣與轉運細胞。",
+      "flashcard_summary": "位於腸道底層免疫組織中之M細胞的主要免疫功能為: -> M cell 是腸道黏膜抗原取樣與轉運細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\nRIG-I-like receptors 主要辨識病毒 RNA，不是 DNA 病毒的 DNA；題目問錯誤。官方答案為 D。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。TLR 是演化保守的先天免疫受體，無脊椎動物也有相關系統。\n- B. 正確。TLR3 辨識雙股 RNA，TLR7/8 辨識單股 RNA。\n- C. 正確。NOD-like receptors 位於胞內，可辨識細菌細胞壁成分並引發發炎訊號。\n- D. 錯誤。RIG-I-like receptors 主要感知病毒 RNA；胞質 DNA 另由 cGAS-STING 等路徑偵測。\n\n【核心考點】\nRIG-I/MDA5 感知病毒 RNA；胞質 DNA 另有 cGAS-STING 等路徑。",
+      "key_point": "RIG-I/MDA5 感知病毒 RNA；胞質 DNA 另有 cGAS-STING 等路徑。",
+      "flashcard_front": "模式辨識受體(pattern recognition receptors, PRRs)是先天免疫系統用來識別病原相關分子模式(pathogen-  associated molecular p...",
+      "flashcard_back": "RIG-I/MDA5 感知病毒 RNA；胞質 DNA 另有 cGAS-STING 等路徑。",
+      "flashcard_summary": "模式辨識受體(pattern recognition receptors, PRRs)是先天免疫系統用來識別病原相關分子模式(pathogen-  associated molecular p... -> RIG-I/MDA5 感知病毒 RNA；胞質 DNA 另有 cGAS-STING 等路徑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\nTCR 需 CD3 複合體傳遞訊號，CD3 的關鍵 motif 是 ITAM，不是 ITIM；題目問錯誤。官方答案為 D。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。TCR alpha/beta 鏈胞質端短，無法獨立有效傳遞訊號。\n- B. 正確。TCR 與 CD3 複合體共同表現在細胞表面。\n- C. 正確。CD3 複合體含 ITAM，磷酸化後啟動 T 細胞訊號。\n- D. 錯誤。ITIM 是抑制性 motif；CD3 促進活化主要靠 ITAM。\n\n【核心考點】\nTCR 辨識抗原，CD3 的 ITAM 負責活化訊號傳遞。",
+      "key_point": "TCR 辨識抗原，CD3 的 ITAM 負責活化訊號傳遞。",
+      "flashcard_front": "TCR為T細胞辨識外來抗原之主要分子,但TCR本身並不足以執行訊息傳遞的功能。TCR必須與CD3 complex  組合為TCR complex以達到專一辨識抗原及訊息傳遞作用。下列原因何者錯...",
+      "flashcard_back": "TCR 辨識抗原，CD3 的 ITAM 負責活化訊號傳遞。",
+      "flashcard_summary": "TCR為T細胞辨識外來抗原之主要分子,但TCR本身並不足以執行訊息傳遞的功能。TCR必須與CD3 complex  組合為TCR complex以達到專一辨識抗原及訊息傳遞作用。下列原因何者錯... -> TCR 辨識抗原，CD3 的 ITAM 負責活化訊號傳遞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

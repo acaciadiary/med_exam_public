@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-3.json",
+  "dataset_id": "112-2_medicine-3",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-3_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問胰腺癌何者錯誤。胰腺癌切除後復發率高，輔助化學治療已是標準治療之一，可改善無病存活與整體存活；因此說 adjuvant chemotherapy 無確定療效、不是標準治療是錯誤的。\n\n【選項詳解】\n- A. 正確。Germline BRCA2 mutation 會增加胰腺癌風險，也影響家族風險評估與治療策略。\n- B. 正確。慢性胰臟炎造成長期發炎與組織修復，是胰腺癌的危險因子。\n- C. 正確。腫瘤明顯侵犯 superior mesenteric artery 通常屬局部晚期不可切除或至少不是標準可切除病灶。\n- D. 錯誤。手術切除後輔助化療有明確角色，是可切除胰腺癌術後標準治療的重要部分。\n\n【核心考點】\n胰腺癌可切除性看主要血管侵犯；切除後仍需考慮標準輔助化療。",
+      "key_point": "胰腺癌術後輔助化療有療效，是標準治療的一部分。",
+      "flashcard_front": "胰腺癌術後治療",
+      "flashcard_back": "切除後復發風險高，輔助化療是標準治療；SMA 侵犯常表示不可切除。",
+      "flashcard_summary": "胰腺癌 -> 術後 adjuvant chemotherapy 是標準",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nHCC 治療不能只看腫瘤大小與數量，也必須看肝功能、門脈高壓、肝硬化程度與病毒性肝炎等背景。治療選擇從根除性治療、局部治療到全身治療，取決於腫瘤分期與肝臟儲備功能。\n\n【選項詳解】\n- A. 錯誤。RFA 對小型 HCC 可作為根除性治療，特別是早期且不適合手術者。\n- B. 錯誤。TACE 多用於中期 HCC 或橋接治療，療效不能概括說與手術切除差不多。\n- C. 錯誤。Main portal vein thrombosis 代表進展期與預後不佳，通常不是建議肝移植的適應症；也會影響 TACE 安全性。\n- D. 正確。HCC 治療需同時評估腫瘤負荷與肝臟本身狀況，例如肝硬化、Child-Pugh 分級、門脈高壓與病毒控制。\n\n【核心考點】\nHCC 治療是「腫瘤分期 + 肝功能儲備」共同決策，不是單看腫瘤局部能否處理。",
+      "key_point": "HCC 治療必須同時考量腫瘤狀態與肝硬化、病毒性肝炎等肝功能背景。",
+      "flashcard_front": "HCC 治療決策核心",
+      "flashcard_back": "除了腫瘤大小、數目、血管侵犯，也要看肝功能、肝硬化與病毒性肝炎。",
+      "flashcard_summary": "HCC -> 腫瘤與肝功能都要納入治療選擇",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n肝硬化常見併發症來自門脈高壓與肝功能衰竭，包括腹水、食道靜脈曲張、肝性腦病變、凝血異常與肝腎症候群。Focal nodular hyperplasia 是良性肝腫瘤樣病灶，不是肝硬化的常見併發症。\n\n【選項詳解】\n- A. 是常見併發症。肝功能衰退與門體分流使氨等毒素累積，可造成肝性腦病變。\n- B. 是常見併發症。門脈高壓與低白蛋白會促成腹水。\n- C. 不是常見併發症。Focal nodular hyperplasia 為良性局部結節性增生，與肝硬化典型併發症不同。\n- D. 是常見併發症。門脈高壓會造成食道胃靜脈曲張，可能導致大出血。\n\n【核心考點】\n肝硬化併發症多與門脈高壓和肝衰竭相關；FNH 不是典型肝硬化併發症。",
+      "key_point": "Focal nodular hyperplasia 不是肝硬化常見併發症。",
+      "flashcard_front": "肝硬化常見併發症",
+      "flashcard_back": "腹水、食道靜脈曲張、肝性腦病變、肝腎症候群；FNH 不是典型併發症。",
+      "flashcard_summary": "肝硬化 -> FNH 非常見併發症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n此病人 eGFR 11 但無尿毒症症狀、無高血鉀、無嚴重酸中毒、無難治性水腫或肺水腫，血壓與血紅素也可接受。透析應依症狀與併發症啟動，早期只因 eGFR 低而立即開始透析，對存活率不一定有益。\n\n【選項詳解】\n- A. 有助益。避免過度貧血與過度矯正，維持適當血色素有助生活品質與降低併發症。\n- B. 有助益。血壓控制可減緩腎功能惡化並降低心血管風險。\n- C. 最沒有助益。病人目前無明確透析適應症；在無症狀且代謝穩定時立即開始透析，未必改善存活。\n- D. 有助益。晚期 CKD 應轉介腎臟科，規劃腎臟替代療法、血管通路、飲食與併發症管理。\n\n【核心考點】\n透析啟動看 AEIOU 與尿毒症症狀，不是單靠 eGFR 數字；晚期 CKD 應提早腎臟科照會與準備。",
+      "key_point": "晚期 CKD 無尿毒症症狀或嚴重代謝併發症時，立即開始透析不一定改善存活。",
+      "flashcard_front": "何時開始透析",
+      "flashcard_back": "看尿毒症症狀、難治性高血鉀、酸中毒、體液過多、毒物等，不只看 eGFR。",
+      "flashcard_summary": "CKD stage 5 -> 無症狀不必只因 eGFR 立即透析",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n腎移植後新發糖尿病常與免疫抑制劑相關，其中 tacrolimus 的致糖尿病風險特別高，可造成胰島 β 細胞毒性與胰島素分泌下降。題目描述移植腎功能正常但飯前血糖多次超過 200 mg/dL，最要聯想到 tacrolimus。\n\n【選項詳解】\n- A. 較不符合。Cyclosporine 也可能造成代謝副作用，但移植後新發糖尿病與 tacrolimus 的關聯通常更強。\n- B. 正確。Tacrolimus 是 calcineurin inhibitor，與 post-transplant diabetes mellitus 明顯相關。\n- C. 較不符合。Sirolimus 可造成高脂血症、傷口癒合不良等，也可影響代謝，但不是此題最典型答案。\n- D. 較不符合。Mycophenolate mofetil 常見副作用為腸胃不適與骨髓抑制，與高血糖關聯較弱。\n\n【核心考點】\n移植後新發糖尿病要想到 tacrolimus，類固醇也常見；本題選項中 tacrolimus 最典型。",
+      "key_point": "Tacrolimus 是腎移植後新發糖尿病的重要藥物原因。",
+      "flashcard_front": "腎移植後新發糖尿病常見藥物",
+      "flashcard_back": "Tacrolimus 會影響胰島 β 細胞與胰島素分泌，常與 post-transplant diabetes 相關。",
+      "flashcard_summary": "移植後高血糖 -> tacrolimus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n題目問哪一種慢性腎小管間質性病變尚未被證實與 DNA 損傷有關。Karyomegalic interstitial nephritis、Chinese herbal nephropathy 與 Balkan endemic nephropathy 都與基因毒性或 DNA 損傷機轉有明確連結；Mesoamerican nephropathy 主要被認為與熱壓力、脫水、反覆腎損傷、環境或職業暴露相關，DNA 損傷不是已證實核心機轉。\n\n【選項詳解】\n- A. 正確。Mesoamerican nephropathy 的致病機轉仍未完全確定，常與熱壓力、脫水與勞動暴露相關，尚非已證實 DNA 損傷疾病。\n- B. 錯誤。Karyomegalic interstitial nephritis 與 FAN1 等 DNA 修復相關基因異常有關，具 DNA 損傷/修復缺陷脈絡。\n- C. 錯誤。Chinese herbal nephropathy 常與 aristolochic acid 暴露有關，可造成 DNA adduct 與泌尿道癌風險。\n- D. 錯誤。Balkan endemic nephropathy 也與 aristolochic acid 長期暴露及 DNA 損傷相關。\n\n【核心考點】\nAristolochic acid 相關腎病與 DNA adduct/癌化風險相關；Mesoamerican nephropathy 機轉偏熱壓力與環境職業暴露。",
+      "key_point": "Mesoamerican nephropathy 尚未被證實以 DNA 損傷為主要致病機轉。",
+      "flashcard_front": "慢性間質性腎病與 DNA 損傷",
+      "flashcard_back": "Chinese herbal nephropathy、Balkan nephropathy 與 aristolochic acid/DNA adduct 相關；Mesoamerican nephropathy 不是。",
+      "flashcard_summary": "間質性腎病 -> Mesoamerican nephropathy 非已證實 DNA 損傷",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問腎結石處置何者錯誤。腎絞痛可用 NSAIDs；大量輸液或利尿劑不能強迫結石排出；輸尿管遠端結石可用 alpha blocker 等內科排石治療。但體外震波不是所有輸尿管結石的治療首選，需依結石大小、位置、硬度與病人狀況選擇。\n\n【選項詳解】\n- A. 正確。NSAIDs 可降低輸尿管平滑肌痙攣與前列腺素相關疼痛，腎絞痛療效可與 opioids 相當或更佳。\n- B. 正確。大量輸液或利尿劑不會有效促進排石，反而可能增加疼痛或風險。\n- C. 正確。內科排出療法如 alpha blocker 可降低輸尿管痙攣，增加部分輸尿管結石自然排出率。\n- D. 錯誤。ESWL 是治療選項之一，但不能概括為輸尿管結石首選；遠端或較大結石常需考慮 ureteroscopy 等方式。\n\n【核心考點】\n腎結石處置依疼痛控制、感染/阻塞風險與結石位置大小決定；ESWL 不是所有輸尿管結石的通用首選。",
+      "key_point": "ESWL 是輸尿管結石治療選項之一，但不是所有輸尿管結石的首選。",
+      "flashcard_front": "腎絞痛與輸尿管結石處置",
+      "flashcard_back": "NSAIDs 可止痛；大量輸液/利尿不促排石；MET 可用；ESWL 非所有輸尿管結石首選。",
+      "flashcard_summary": "腎結石 -> ESWL 非通用首選",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問 ADPKD 何者無助於減緩腎功能惡化。ADPKD 血壓控制重要，通常優先考慮 RAAS blockade，而不是第一線使用鈣離子阻斷劑；且在腎功能不良時把收縮壓盡量壓到 <110 mmHg 並非一般安全策略。\n\n【選項詳解】\n- A. 無助或不恰當。ADPKD 高血壓多與 RAAS 活化有關，第一線常用 ACEI/ARB；過度嚴格降壓尤其腎功能不良時可能不安全。\n- B. 有助。囊泡感染需選擇脂溶性、囊泡穿透較佳的抗生素，療程常較長。\n- C. 有助。Tolvaptan 為 vasopressin V2 receptor antagonist，可減緩囊泡增大與腎功能下降，適用於特定快速進展風險者。\n- D. 有助。低鹽飲食有助血壓與腎臟保護，也是 CKD/ADPKD 管理重點。\n\n【核心考點】\nADPKD 腎保護重點包括血壓控制、低鹽、適當使用 RAAS blockade 與特定病人的 tolvaptan；CCB 不是第一線腎保護策略。",
+      "key_point": "ADPKD 高血壓通常優先 ACEI/ARB；第一線 CCB 並過度降壓不是減緩惡化的恰當策略。",
+      "flashcard_front": "ADPKD 減緩腎功能惡化",
+      "flashcard_back": "控制血壓與低鹽，常優先 RAAS blockade；快速進展者可考慮 tolvaptan。",
+      "flashcard_summary": "ADPKD -> 第一線 CCB 非腎保護重點",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-3_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題問糖尿病腎病變何者錯誤。糖尿病是台灣與許多國家慢性腎臟病及末期腎病的重要原因；糖尿病腎病變與 RAAS 相關基因、血壓、血糖控制等因素有關，也常與糖尿病視網膜病變並存。選項 B 的比例說法過低且過於固定，與常見約 20-40% 或更高風險脈絡不符，因此為錯誤選項。\n\n【選項詳解】\n- A. 正確。糖尿病是台灣慢性腎臟病與透析的重要原因。\n- B. 錯誤。糖尿病腎病變比例不可簡化為約 20%；常見教材與臨床資料多以約 20-40% 或依族群更高描述。\n- C. 正確。影響 RAAS 活性的基因多型性可與糖尿病腎病變風險相關。\n- D. 正確。糖尿病視網膜病變與典型糖尿病腎病理如 Kimmelstiel-Wilson nodules 有高度相關性，特別支持糖尿病微血管病變。\n\n【核心考點】\n糖尿病腎病變是重要 CKD 原因，常與糖尿病視網膜病變等微血管病變並行；流行病學比例要避免過低或絕對化。",
+      "key_point": "糖尿病腎病變常見比例約 20-40% 或依族群而異，不能固定說只有約 20%。",
+      "flashcard_front": "糖尿病腎病變流行病學與相關性",
+      "flashcard_back": "糖尿病是 CKD 重要原因；糖尿病視網膜病變與 Kimmelstiel-Wilson nodules 相關。",
+      "flashcard_summary": "糖尿病腎病變 -> B 的 20% 固定說法過低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "糖尿病腎病變比例依資料來源與族群不同，建議人工確認官方出題採用的百分比基準。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-3_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n腎臟發育中，pretubular aggregation 到 renal vesicle/腎小管形成涉及 Wnt4、Fgf8、Emx2 等腎單位分化相關訊號。VEGF-A/Kdr 主要與血管內皮與腎絲球血管化相關，不是前腎小管聚合期的核心參與基因。\n\n【選項詳解】\n- A. 正確。VEGF-A/Kdr 主要負責血管生成與內皮訊號，特別與腎絲球毛細血管形成較相關，非 pretubular aggregation 主要基因。\n- B. 錯誤。Wnt4 是 metanephric mesenchyme 轉為 epithelial renal vesicle 的關鍵訊號之一。\n- C. 錯誤。Emx2 參與泌尿系統與腎臟發育相關調控。\n- D. 錯誤。Fgf8 參與早期腎單位形成與腎小管發育，是此階段相關基因之一。\n\n【核心考點】\n前腎小管聚合與腎單位上皮化重點是 Wnt4、Fgf8、Emx2 等；VEGF-A/Kdr 偏血管生成。",
+      "key_point": "VEGF-A/Kdr 偏血管生成，不是 pretubular aggregation 的核心基因。",
+      "flashcard_front": "腎小管發育 pretubular aggregation 基因",
+      "flashcard_back": "Wnt4、Fgf8、Emx2 參與腎單位形成；VEGF-A/Kdr 主要與血管化相關。",
+      "flashcard_summary": "腎發育 -> VEGF-A/Kdr 非前腎小管聚合核心",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-1/medicine-2.json",
+  "dataset_id": "109-1_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "109-1_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\nBaclofen 是 GABAB receptor agonist，治療痙攣。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。dantrolene 作用於骨骼肌 ryanodine receptor，降低鈣釋放。\n- B. 正確。baclofen 活化 GABAB receptor，抑制脊髓神經傳遞以減少痙攣。\n- C. 錯誤。rocuronium 是非去極化神經肌肉阻斷劑。\n- D. 錯誤。tizanidine 是 alpha-2 agonist，可治療痙攣但不是 GABAB agonist。\n\n【核心考點】\nGABAB agonist 治療痙攣代表藥：baclofen。",
+      "key_point": "GABAB agonist 治療痙攣代表藥：baclofen。",
+      "flashcard_front": "下列何者為GABAB受體的致效劑(agonist),主要作用於中樞神經系統,用於治療肌肉疼痛和痙攣?",
+      "flashcard_back": "GABAB agonist 治療痙攣代表藥：baclofen。",
+      "flashcard_summary": "下列何者為GABAB受體的致效劑(agonist),主要作用於中樞神經系統,用於治療肌肉疼痛和痙攣? -> GABAB agonist 治療痙攣代表藥：baclofen。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n非典型抗精神病藥造成 EPS 較少，與 D2 阻斷較弱/解離較快及 5-HT2A 阻斷有關。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。alpha-adrenergic receptor 活化不是 olanzapine 減少 EPS 的原因。\n- B. 錯誤。抑制突觸前 dopamine 釋放不是主要機轉。\n- C. 正確。相較 haloperidol，olanzapine 對 D2 的有效占據/親和力較低並具 serotonin receptor 作用，EPS 較少。\n- D. 錯誤。D1 親和力較高不是降低 EPS 的主要解釋。\n\n【核心考點】\n非典型抗精神病藥 EPS 較少，重點是較少 D2 阻斷與 5-HT2A 拮抗。",
+      "key_point": "非典型抗精神病藥 EPS 較少，重點是較少 D2 阻斷與 5-HT2A 拮抗。",
+      "flashcard_front": "相較於haloperidol,非典型抗精神病藥物olanzapine比較不會造成錐體外症候群(extrapyramidal symptoms),  下列何者為其可能的作用原因?",
+      "flashcard_back": "非典型抗精神病藥 EPS 較少，重點是較少 D2 阻斷與 5-HT2A 拮抗。",
+      "flashcard_summary": "相較於haloperidol,非典型抗精神病藥物olanzapine比較不會造成錐體外症候群(extrapyramidal symptoms),  下列何者為其可能的作用原因? -> 非典型抗精神病藥 EPS 較少，重點是較少 D2 阻斷與 5-HT2A 拮抗。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nDisulfiram 抑制 aldehyde dehydrogenase，飲酒後乙醛堆積。官方答案為 A。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。disulfiram 使乙醛堆積，造成潮紅、噁心、嘔吐、低血壓等不適。\n- B. 錯誤。acamprosate 用於酒精使用疾患維持戒酒，與乙醛堆積無關。\n- C. 錯誤。naltrexone 是 opioid receptor antagonist，可降低酒精 craving。\n- D. 錯誤。baclofen 是 GABAB agonist，非 disulfiram-like 反應主因。\n\n【核心考點】\nDisulfiram + alcohol 造成 acetaldehyde accumulation。",
+      "key_point": "Disulfiram + alcohol 造成 acetaldehyde accumulation。",
+      "flashcard_front": "乙醇(酒精)與下列何者併用會造成乙醛(acetaldehyde)蓄積,導致噁心、嘔吐及低血壓等身體不適的反  應?",
+      "flashcard_back": "Disulfiram + alcohol 造成 acetaldehyde accumulation。",
+      "flashcard_summary": "乙醇(酒精)與下列何者併用會造成乙醛(acetaldehyde)蓄積,導致噁心、嘔吐及低血壓等身體不適的反  應? -> Disulfiram + alcohol 造成 acetaldehyde accumulation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n無機砷中毒可用含巯基螯合劑，如 dimercaprol、succimer、DMPS/unithiol。官方答案為 A。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。unithiol 可螯合砷等重金屬，用於砷中毒。\n- B. 錯誤。penicillamine 常用於銅、鉛等特定重金屬，非本題最佳砷中毒答案。\n- C. 錯誤。deferoxamine 主要治療鐵中毒。\n- D. 錯誤。Prussian blue 用於鉈或放射性銫中毒。\n\n【核心考點】\n砷中毒螯合治療可用含巯基藥物，如 unithiol/DMPS。",
+      "key_point": "砷中毒螯合治療可用含巯基藥物，如 unithiol/DMPS。",
+      "flashcard_front": "下列何者可用於治療急性與慢性無機砷中毒(inorganic arsenic poisoning)的螫合劑(chelating agent)?",
+      "flashcard_back": "砷中毒螯合治療可用含巯基藥物，如 unithiol/DMPS。",
+      "flashcard_summary": "下列何者可用於治療急性與慢性無機砷中毒(inorganic arsenic poisoning)的螫合劑(chelating agent)? -> 砷中毒螯合治療可用含巯基藥物，如 unithiol/DMPS。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n細胞週期專一性藥物配對以 irinotecan 抑制 topoisomerase I、影響 S 期為本題答案；但 ixabepilone-M 也需留意。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。capecitabine/5-FU 類主要影響 DNA 合成，偏 S 期，不是 M 期。\n- B. 正確。irinotecan 抑制 topoisomerase I，主要在 DNA synthesis 的 S 期發揮作用。\n- C. 可能有爭議。ixabepilone 作用於微小管，藥理上可造成 M 期阻滯；若題目要求單選，官方取 B。\n- D. 錯誤。vincristine 抑制微小管聚合，作用於 M 期，不是 S 期。\n\n【核心考點】\nIrinotecan/topoisomerase I inhibitor 屬 S phase 相關；微小管藥多為 M phase。",
+      "key_point": "Irinotecan/topoisomerase I inhibitor 屬 S phase 相關；微小管藥多為 M phase。",
+      "flashcard_front": "下列具細胞週期專一性之抗癌藥物(cell cycle-specific agents)中,藥物與其所抑制細胞週期之配對,何者正  確?",
+      "flashcard_back": "Irinotecan/topoisomerase I inhibitor 屬 S phase 相關；微小管藥多為 M phase。",
+      "flashcard_summary": "下列具細胞週期專一性之抗癌藥物(cell cycle-specific agents)中,藥物與其所抑制細胞週期之配對,何者正  確? -> Irinotecan/topoisomerase I inhibitor 屬 S phase 相關；微小管藥多為 M phase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "C 選項 ixabepilone-M phase 在藥理上也合理，若此題為單選官方答案 B，建議人工複核題目脈絡。"
+      ]
+    },
+    {
+      "question_id": "109-1_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nXanthoma 的泡沫細胞是吞噬脂質的巨噬細胞，細胞質堆積膽固醇/膽固醇酯。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。磷酸鈣沉積較見於鈣化病灶。\n- B. 正確。foamy cells 含大量膽固醇或脂質，呈泡沫狀。\n- C. 錯誤。Mallory-Denk body 是肝細胞內中間絲聚集，常見酒精性肝病等。\n- D. 錯誤。尿酸沉積形成痛風石，不是黃瘤泡沫細胞主要內容。\n\n【核心考點】\n黃瘤泡沫細胞堆積膽固醇/脂質。",
+      "key_point": "黃瘤泡沫細胞堆積膽固醇/脂質。",
+      "flashcard_front": "黃瘤(xanthoma)病灶中,foamy cells細胞質堆積的物質,最可能為:",
+      "flashcard_back": "黃瘤泡沫細胞堆積膽固醇/脂質。",
+      "flashcard_summary": "黃瘤(xanthoma)病灶中,foamy cells細胞質堆積的物質,最可能為: -> 黃瘤泡沫細胞堆積膽固醇/脂質。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n萎縮可因細胞變小與細胞數量減少造成；題目問錯誤。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。胚胎發育中某些暫時性組織會退化萎縮。\n- B. 錯誤。萎縮可包括細胞體積變小，也可能伴隨細胞數目減少。\n- C. 正確。老年性腦萎縮與血液供應減少、細胞耗損等因素相關。\n- D. 正確。脂褐質可在萎縮或老化器官中累積，形成 brown atrophy。\n\n【核心考點】\n萎縮不只細胞變小，也可有細胞數目減少。",
+      "key_point": "萎縮不只細胞變小，也可有細胞數目減少。",
+      "flashcard_front": "下列有關萎縮(atrophy)的敘述,何者錯誤?",
+      "flashcard_back": "萎縮不只細胞變小，也可有細胞數目減少。",
+      "flashcard_summary": "下列有關萎縮(atrophy)的敘述,何者錯誤? -> 萎縮不只細胞變小，也可有細胞數目減少。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n22q11.2 deletion 多為 de novo，典型影響胸腺與副甲狀腺發育。官方答案為 C。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。主要免疫問題是胸腺發育不良造成 T 細胞功能/數量異常，不是 B 細胞為主。\n- B. 錯誤。內分泌問題常為副甲狀腺低下造成低血鈣，不是腦下腺發育不良。\n- C. 正確。多數個案為生殖細胞形成或早期胚胎發育時的 de novo 缺失。\n- D. 錯誤。微小缺失常需 FISH、microarray 等方法，傳統核型分析解析度通常不足。\n\n【核心考點】\n22q11.2 deletion 多為 de novo；胸腺/副甲狀腺發育異常是核心。",
+      "key_point": "22q11.2 deletion 多為 de novo；胸腺/副甲狀腺發育異常是核心。",
+      "flashcard_front": "下列關於染色體22q11.2缺失症候群(chromosome 22q11.2 deletion syndrome)的敘述,何者正確?",
+      "flashcard_back": "22q11.2 deletion 多為 de novo；胸腺/副甲狀腺發育異常是核心。",
+      "flashcard_summary": "下列關於染色體22q11.2缺失症候群(chromosome 22q11.2 deletion syndrome)的敘述,何者正確? -> 22q11.2 deletion 多為 de novo；胸腺/副甲狀腺發育異常是核心。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n三個選項皆可有小血管炎或血管侵犯相關病理。官方答案為 A。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 正確。梅毒可有 endarteritis，typhus 侵犯血管內皮，ecthyma gangrenosum 也有血管侵犯/壞死。\n- B. 錯誤。只選 1、2 會漏掉 ecthyma gangrenosum 的小血管病變。\n- C. 錯誤。只選 2、3 會漏掉梅毒的血管炎/內膜炎。\n- D. 錯誤。只選 1、3 會漏掉 typhus 典型小血管炎。\n\n【核心考點】\n梅毒、斑疹傷寒、壞疽性臁瘡都可見小血管侵犯/血管炎。",
+      "key_point": "梅毒、斑疹傷寒、壞疽性臁瘡都可見小血管侵犯/血管炎。",
+      "flashcard_front": "下列感染性疾病,何者的典型病理變化會出現小血管炎?1第一、二、三期梅毒 2斑疹傷寒(typhus)  3壞疽性臁瘡(ecthyma gangrenosum)",
+      "flashcard_back": "梅毒、斑疹傷寒、壞疽性臁瘡都可見小血管侵犯/血管炎。",
+      "flashcard_summary": "下列感染性疾病,何者的典型病理變化會出現小血管炎?1第一、二、三期梅毒 2斑疹傷寒(typhus)  3壞疽性臁瘡(ecthyma gangrenosum) -> 梅毒、斑疹傷寒、壞疽性臁瘡都可見小血管侵犯/血管炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-1_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n鉛中毒常見血液、神經、腎臟與痛風相關表現；擴張性心肌病變較不典型。官方答案為 B。解題時要先判斷題目是否在問「正確」或「錯誤」，再把病原、藥理機轉或病理特徵對回選項。\n\n【選項詳解】\n- A. 錯誤。鉛抑制 heme 合成，可造成貧血與溶血相關表現。\n- B. 正確。擴張性心肌病變不是鉛中毒的典型常見病變。\n- C. 錯誤。鉛可造成周邊神經病變，成人常見運動神經受損。\n- D. 錯誤。鉛腎病變可造成高尿酸血症與痛風。\n\n【核心考點】\n鉛中毒常考貧血、腹痛、神經病變、腎病變與痛風。",
+      "key_point": "鉛中毒常考貧血、腹痛、神經病變、腎病變與痛風。",
+      "flashcard_front": "關於鉛(lead)中毒的相關症狀與病變,下列何者較不常見?",
+      "flashcard_back": "鉛中毒常考貧血、腹痛、神經病變、腎病變與痛風。",
+      "flashcard_summary": "關於鉛(lead)中毒的相關症狀與病變,下列何者較不常見? -> 鉛中毒常考貧血、腹痛、神經病變、腎病變與痛風。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
