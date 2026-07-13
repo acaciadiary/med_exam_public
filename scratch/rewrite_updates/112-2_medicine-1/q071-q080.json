@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n腎上腺皮質三層：絲球帶分泌 mineralocorticoids 如 aldosterone，束狀帶分泌 glucocorticoids，網狀帶分泌 androgens。\n\n【選項詳解】\n- A. 絲球帶(zona glomerulosa)：正確。絲球帶分泌醛固酮，是正確答案。\n- B. 囊狀帶(zona fasciculata)：錯誤。束狀帶主要分泌 cortisol，不是 aldosterone。\n- C. 網狀帶(zona reticularis)：錯誤。網狀帶主要分泌 androgen，不是 aldosterone。\n- D. 髓質(medulla)：錯誤。腎上腺髓質分泌 catecholamines，不是 aldosterone。\n\n【核心考點】\nGFR 記憶：glomerulosa-salt、fasciculata-sugar、reticularis-sex。",
+      "key_point": "醛固酮主要由腎上腺皮質絲球帶分泌。",
+      "flashcard_front": "Aldosterone / zona glomerulosa",
+      "flashcard_back": "醛固酮主要由腎上腺皮質絲球帶分泌。",
+      "flashcard_summary": "Aldosterone / zona glomerulosa -> 醛固酮主要由腎上腺皮質絲球帶分泌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n顆粒細胞 aromatase 活性可把 theca cell 來的 androgen 轉為 estrogen。若顆粒細胞類固醇生成低落，雌激素下降，會使骨吸收增加，也會減少子宮內膜增生並使 FSH 失去負回饋而上升。\n\n【選項詳解】\n- A. 增進子宮內膜層增生：錯誤。雌激素下降會降低而非增進子宮內膜增生。\n- B. 骨吸收(bone resorption)增加：正確。雌激素不足會增加破骨細胞相關骨吸收，是最可能結果。\n- C. 血液中濾泡促素(FSH)含量降低：錯誤。雌激素與 inhibin 下降會減少負回饋，FSH 通常上升而非降低。\n- D. 血液中黃體生成素(LH)含量降低：錯誤。卵巢類固醇低落時 LH 不一定降低，常因負回饋減少而上升或失衡。\n\n【核心考點】\nGranulosa cells produce estrogen via aromatase；estrogen protects bone and supports endometrial proliferation。",
+      "key_point": "顆粒細胞類固醇生成低落會使雌激素下降，導致骨吸收增加。",
+      "flashcard_front": "Granulosa cells / estrogen / bone resorption",
+      "flashcard_back": "顆粒細胞類固醇生成低落會使雌激素下降，導致骨吸收增加。",
+      "flashcard_summary": "Granulosa cells / estrogen / bone resorption -> 顆粒細胞類固醇生成低落會使雌激素下降，導致骨吸收增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n胚胎性別分化中，Sertoli cells 分泌 Müllerian-inhibiting substance，使副中腎管退化；Leydig cells 產生 testosterone 促進男性內外生殖器分化。\n\n【選項詳解】\n- A. Müllerian-inhibiting substance(MIS)：正確。MIS 直接參與胚胎性別分化，使 Müllerian ducts 退化，是最相關選項。\n- B. follicle-stimulating hormone(FSH)：錯誤。FSH 調控性腺功能，但不是胚胎管道性別分化的主要決定因子。\n- C. androgen-binding protein：錯誤。Androgen-binding protein 參與睪丸內維持高 androgen 環境，較偏生精功能，不是最核心分化訊號。\n- D. inhibin：錯誤。Inhibin 主要負回饋抑制 FSH，不是胚胎性別分化主要訊號。\n\n【核心考點】\n男性分化兩大訊號：MIS 退化 Müllerian ducts；testosterone/DHT 促進 Wolffian ducts 與外生殖器男性化。",
+      "key_point": "Müllerian-inhibiting substance 與胚胎性別分化最相關。",
+      "flashcard_front": "Sex differentiation / MIS / Müllerian ducts",
+      "flashcard_back": "Müllerian-inhibiting substance 與胚胎性別分化最相關。",
+      "flashcard_summary": "Sex differentiation / MIS / Müllerian ducts -> Müllerian-inhibiting substance 與胚胎性別分化最相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n胎兒 HbF 含 gamma chains，和 2,3-BPG 結合較弱，因此對氧氣親和力高於母體 HbA，有利胎盤氧氣由母體轉移給胎兒。\n\n【選項詳解】\n- A. 胎兒心跳速率高於母體：錯誤。胎兒心跳較快不是 Hb 對氧親和力較高的分子原因。\n- B. 胎兒和母體使用不同的血紅蛋白：正確。胎兒使用 HbF，母體主要使用 HbA，兩者結構差異造成胎兒氧親和力較高。\n- C. 胎兒體內含氧量與母體不同：錯誤。體內含氧量不同不是造成 Hb 親和力差異的根本原因。\n- D. 胎兒體內產生較多的血紅蛋白：錯誤。胎兒產生較多 Hb 可影響氧含量，但不是 Hb 對氧結合力較強的原因。\n\n【核心考點】\nHbF binds 2,3-BPG poorly, so O2 affinity is higher than HbA。",
+      "key_point": "胎兒與母體使用不同血紅蛋白，HbF 對氧親和力較高。",
+      "flashcard_front": "Fetal hemoglobin / oxygen affinity",
+      "flashcard_back": "胎兒與母體使用不同血紅蛋白，HbF 對氧親和力較高。",
+      "flashcard_summary": "Fetal hemoglobin / oxygen affinity -> 胎兒與母體使用不同血紅蛋白，HbF 對氧親和力較高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n非競爭性抑制劑 uncompetitive inhibitor 只結合 ES complex，使有效酵素-受質複合體被移除，因此 Vmax 下降，表觀 Km 也下降。\n\n【選項詳解】\n- A. Vmax下降,KM下降：正確。Uncompetitive inhibition 會使 Vmax 與 Km 同時下降，符合本題。\n- B. Vmax不變,KM下降：錯誤。Vmax 不變較不像 uncompetitive；competitive inhibition 才常見 Vmax 不變、Km 上升。\n- C. Vmax下降,KM上升：錯誤。Vmax 下降但 Km 上升不是 uncompetitive 的典型結果。\n- D. Vmax不變,KM上升：錯誤。Vmax 不變、Km 上升是 competitive inhibition 的典型變化。\n\n【核心考點】\nUncompetitive inhibitor lowers both Vmax and Km；competitive raises Km only；pure noncompetitive lowers Vmax only。",
+      "key_point": "非競爭性抑制劑會使 Vmax 下降、Km 下降。",
+      "flashcard_front": "Uncompetitive inhibitor / Vmax and Km decrease",
+      "flashcard_back": "非競爭性抑制劑會使 Vmax 下降、Km 下降。",
+      "flashcard_summary": "Uncompetitive inhibitor / Vmax and Km decrease -> 非競爭性抑制劑會使 Vmax 下降、Km 下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nMichaelis-Menten 的 steady state assumption 指反應初期後，酵素-受質複合體 ES 的形成速率約等於分解速率，使 ES 濃度近似維持穩定。\n\n【選項詳解】\n- A. 反應活化能為零的狀態：錯誤。穩態不是活化能為零；酵素降低活化能但不讓其成為零。\n- B. 酵素催化反應的分子機制：錯誤。穩態是一個速率假設，不是泛指所有酵素催化分子機制。\n- C. 酵素和受質結合的複合體形成和分解的速率一樣：正確。ES 複合體形成與分解速率相等，讓 ES 濃度近似不變，正是 steady state。\n- D. 酵素反應的最大速率：錯誤。最大速率是 Vmax，需在受質飽和時達成，不等於穩態定義。\n\n【核心考點】\nSteady state assumption: d[ES]/dt ≈ 0，也就是 ES formation rate equals breakdown rate。",
+      "key_point": "酵素與受質複合體形成和分解速率相等，是酵素動力學穩態的意義。",
+      "flashcard_front": "Steady state / ES complex",
+      "flashcard_back": "酵素與受質複合體形成和分解速率相等，是酵素動力學穩態的意義。",
+      "flashcard_summary": "Steady state / ES complex -> 酵素與受質複合體形成和分解速率相等，是酵素動力學穩態的意義。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n題目問含碳原子團轉移反應何者錯誤。Biotin 是羧化反應輔因子，通常以共價鍵接在酵素 lysine 殘基上，而不是 cysteine；pyruvate carboxylase 反應本身則是 biotin 參與的正確例子。\n\n【選項詳解】\n- A. Tetrahydrofolate 可參與不同氧化態的一個碳轉移,如CH3-, CH2OH-, and CHO-：非答案。Tetrahydrofolate 可攜帶多種氧化態的一碳單位，敘述正確。\n- B. S-adenosylmethionine(adoMet)由ATP 和methionine 合成,參與甲基(methyl group)轉移：非答案。S-adenosylmethionine 由 methionine 與 ATP 形成，是重要 methyl donor，敘述正確。\n- C. Biotin 與cysteine 結合,參與pyruvate carboxylase 催化pyruvate 的carboxylation,形成oxaloacetate：本題答案。Biotin 不是與 cysteine 結合，而是常接在 lysine 殘基上；題目問錯誤，故選此項。\n- D. Thiamine pyrophosphate(TPP)參與pyruvate dehydrogenase 反應,促使pyruvate 形成acetyl-CoA：非答案。TPP 參與 pyruvate dehydrogenase 將 pyruvate 轉為 acetyl-CoA，敘述正確。\n\n【核心考點】\nBiotin 是 carboxylation 輔因子，連在 enzyme lysine residue；THF 與 SAM 是常見一碳與甲基轉移工具。",
+      "key_point": "Biotin 通常接在酵素 lysine 殘基上，不是 cysteine。",
+      "flashcard_front": "One-carbon transfer / biotin / lysine",
+      "flashcard_back": "Biotin 通常接在酵素 lysine 殘基上，不是 cysteine。",
+      "flashcard_summary": "One-carbon transfer / biotin / lysine -> Biotin 通常接在酵素 lysine 殘基上，不是 cysteine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n肌肉、肝臟與腎臟間運送胺基主要靠 alanine 與 glutamine。Alanine 連結肌肉與肝臟的 glucose-alanine cycle；glutamine 是安全攜帶氮到肝腎的重要形式。\n\n【選項詳解】\n- A. phenylalanine、aspartate：錯誤。Phenylalanine 與 aspartate 不是肌肉、肝、腎間主要氮運送組合。\n- B. serine、valine：錯誤。Serine 與 valine 可參與代謝，但不是主要胺基攜帶者組合。\n- C. glutamine、alanine：正確。Glutamine 與 alanine 是組織間運送氮的主要胺基酸，符合本題。\n- D. glutamate、glutamine：錯誤。Glutamate 在細胞內轉胺很重要，但血中跨器官安全運氮主要是 glutamine 與 alanine。\n\n【核心考點】\nNitrogen transport between tissues: alanine and glutamine。",
+      "key_point": "肌肉、肝臟與腎臟間胺基運送主要靠 glutamine 與 alanine。",
+      "flashcard_front": "Amino group transport / glutamine and alanine",
+      "flashcard_back": "肌肉、肝臟與腎臟間胺基運送主要靠 glutamine 與 alanine。",
+      "flashcard_summary": "Amino group transport / glutamine and alanine -> 肌肉、肝臟與腎臟間胺基運送主要靠 glutamine 與 alanine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nAzaserine 是 glutamine analog，會抑制需要 glutamine 作為胺基供應者的反應，因此可抑制嘌呤核苷酸合成。\n\n【選項詳解】\n- A. 抑制N10-formyl tetrahydrofolate 合成：錯誤。N10-formyl-THF 提供嘌呤環一碳單位，但 azaserine 主要不是抑制其合成。\n- B. 抑制5-phospho-α-D-ribosyl-pyrophosphate(PRPP)合成：錯誤。PRPP 合成受 PRPP synthetase 調控，azaserine 主要不是抑制 PRPP 生成。\n- C. 抑制ribose 5-phosphate 合成以降低核苷酸形成：錯誤。Ribose 5-phosphate 來自 pentose phosphate pathway，並非 azaserine 的主要作用點。\n- D. 抑制glutamine 作為嘌呤核苷酸合成原料：正確。Azaserine 抑制 glutamine-dependent amidotransferase 反應，使 glutamine 不能作為嘌呤合成原料，正確。\n\n【核心考點】\nAzaserine 抑制 glutamine-dependent steps in purine synthesis。",
+      "key_point": "Azaserine 主要抑制 glutamine 作為嘌呤核苷酸合成原料。",
+      "flashcard_front": "Azaserine / glutamine analog / purine synthesis",
+      "flashcard_back": "Azaserine 主要抑制 glutamine 作為嘌呤核苷酸合成原料。",
+      "flashcard_summary": "Azaserine / glutamine analog / purine synthesis -> Azaserine 主要抑制 glutamine 作為嘌呤核苷酸合成原料。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nDNA polymerase I 具有 5'→3' polymerase、3'→5' exonuclease proofreading、以及 5'→3' exonuclease 去除 RNA primer 的活性；聚合方向不會是 3'→5'。\n\n【選項詳解】\n- A. 5'→3' DNA 聚合活性：非答案。DNA polymerase I 有 5'→3' DNA 聚合活性，可延長新股 DNA。\n- B. 3'→5' DNA 聚合活性：本題答案。DNA 聚合酶不能以 3'→5' 方向聚合 DNA；題目問沒有的活性，故選此項。\n- C. 5'→3' DNA 核酸水解活性：非答案。DNA polymerase I 有 5'→3' exonuclease 活性，可移除 RNA primer。\n- D. 3'→5' DNA 核酸水解活性：非答案。DNA polymerase I 有 3'→5' exonuclease 活性，用於 proofreading。\n\n【核心考點】\nDNA polymerase synthesizes 5' to 3'；Pol I 另有 3'→5' proofreading 和 5'→3' exonuclease。",
+      "key_point": "大腸桿菌 DNA polymerase I 沒有 3'→5' DNA 聚合活性。",
+      "flashcard_front": "E. coli DNA polymerase I / no 3-to-5 polymerase",
+      "flashcard_back": "大腸桿菌 DNA polymerase I 沒有 3'→5' DNA 聚合活性。",
+      "flashcard_summary": "E. coli DNA polymerase I / no 3-to-5 polymerase -> 大腸桿菌 DNA polymerase I 沒有 3'→5' DNA 聚合活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-6.json",
+  "dataset_id": "110-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n胎盤回來的氧合血經臍靜脈進入胎兒，部分經靜脈導管繞過肝臟進入下腔靜脈，因此在選項中靜脈導管含氧量最高。\n\n【選項詳解】\n- A. 動脈導管血液多來自肺動脈，含氧量較升主動脈與靜脈導管低。\n- B. 靜脈導管承接來自臍靜脈的高氧合血，為本題答案。\n- C. 升主動脈氧合較高，供應腦與冠狀動脈，但已與下腔靜脈血混合。\n- D. 上腔靜脈回收上半身缺氧血，含氧量低。\n\n【核心考點】\n胎兒最高氧合血路徑：胎盤、臍靜脈、靜脈導管；之後才混入心臟循環。",
+      "key_point": "胎兒循環中靜脈導管血氧含量最高。",
+      "flashcard_front": "胎兒循環中靜脈導管血氧含量最高。",
+      "flashcard_back": "胎兒最高氧合血路徑：胎盤、臍靜脈、靜脈導管；之後才混入心臟循環。",
+      "flashcard_summary": "胎兒循環中靜脈導管血氧含量最高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n地中海貧血篩檢常先看 MCV，再配合血紅素電泳與基因檢測。β-thalassemia 多為點突變；α-thalassemia 常為基因缺失且電泳可能正常。\n\n【選項詳解】\n- A. 同型帶因夫妻生出重型患兒風險典型為 25%，不是 35%。\n- B. 乙型地中海貧血多為 β-globin point mutation，不是大多 deletion。\n- C. MCV 小於 80 只能提示小球性貧血或帶因可能，不能直接診斷。\n- D. 甲型地中海貧血常無法由血紅素電泳偵測，為正確答案。\n\n【核心考點】\nβ-thalassemia 常看 HbA2 上升；α-thalassemia 帶因電泳可正常，常需 DNA test。",
+      "key_point": "甲型地中海貧血帶因常無法靠血紅素電泳偵測，需基因檢測。",
+      "flashcard_front": "甲型地中海貧血帶因常無法靠血紅素電泳偵測",
+      "flashcard_back": "β-thalassemia 常看 HbA2 上升；α-thalassemia 帶因電泳可正常，常需 DNA test。",
+      "flashcard_summary": "甲型地中海貧血帶因常無法靠血紅素電泳偵測，需基因檢測。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\nNIPT/cfDNA 主要用於常見 trisomy、性染色體數目異常，有些平台可篩微缺失；基因單點突變通常不是一般 cfDNA 篩檢項目。\n\n【選項詳解】\n- A. 基因單點突變不是一般母血 cfDNA 篩檢主要可檢出的項目，故為答案。\n- B. 染色體三倍體症如 trisomy 21/18/13 是主要篩檢目標。\n- C. 性染色體數目異常可由許多 cfDNA 平台篩檢。\n- D. 染色體微小片段缺失在部分平台可篩檢，雖非所有情境都建議，但不是本題最不能檢出的選項。\n\n【核心考點】\nNIPT 先想染色體數目異常；單基因點突變不是一般常規 cfDNA 篩檢。",
+      "key_point": "一般 cell-free fetal DNA 篩檢主要偵測染色體數目異常，不能作為一般單點突變篩檢。",
+      "flashcard_front": "一般 cell-free fetal DNA 篩檢主要偵測染色體數目異常",
+      "flashcard_back": "NIPT 先想染色體數目異常；單基因點突變不是一般常規 cfDNA 篩檢。",
+      "flashcard_summary": "一般 cell-free fetal DNA 篩檢主要偵測染色體數目異常，不能作為一般單點突變篩檢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\nUterine atony 是產後出血最常見原因，危險因子包括子宮過度伸展、產程過久、感染、子宮鬆弛藥物等；多胞胎會使子宮過度擴張。\n\n【選項詳解】\n- A. 多胞胎造成子宮過度伸展，是子宮收縮無力最常見考點。\n- B. 前置胎盤可造成產前出血，也可增加產後出血風險，但不是 atony 最典型原因。\n- C. 胎盤早剝與出血、凝血異常相關，不是最常見 atony 原因。\n- D. 母體肥胖可增加產科風險，但不是本題最佳答案。\n\n【核心考點】\n產後出血 4T 中 Tone 最常見；子宮過度伸展如多胞胎、羊水過多、巨大兒是 atony 高風險。",
+      "key_point": "子宮過度伸展是產後子宮收縮無力常見原因，多胞胎最典型。",
+      "flashcard_front": "子宮過度伸展是產後子宮收縮無力常見原因",
+      "flashcard_back": "產後出血 4T 中 Tone 最常見；子宮過度伸展如多胞胎、羊水過多、巨大兒是 atony 高風險。",
+      "flashcard_summary": "子宮過度伸展是產後子宮收縮無力常見原因，多胞胎最典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題需讀胎頭與母體骨盆相對位置。LOP 是 left occiput posterior，代表胎兒枕骨指向母體左後象限；依附圖標示，最符合此方向。\n\n【選項詳解】\n- A. LOA 表示枕骨在母體左前方，與附圖後方位置不符。\n- B. LOP 表示枕骨在母體左後方，符合附圖，因此為答案。\n- C. ROA 表示枕骨在母體右前方，方向不符。\n- D. ROP 表示枕骨在母體右後方，左右方向不符。\n\n【核心考點】\n胎位縮寫讀法：第一字母是母體左右，O 是 fetal occiput，最後 A/P 是前/後；本題為 LOP。",
+      "key_point": "胎頭位置圖官方答案為 LOP，表示枕骨位於母體左後方。",
+      "flashcard_front": "胎頭位置圖官方答案為 LOP",
+      "flashcard_back": "胎位縮寫讀法：第一字母是母體左右，O 是 fetal occiput，最後 A/P 是前/後；本題為 LOP。",
+      "flashcard_summary": "胎頭位置圖官方答案為 LOP，表示枕骨位於母體左後方。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n胎兒鏡手術常用於可由內視鏡介入改善胎兒預後的病況，如 TTTS 雷射、FETO、後尿道瓣膜處置、羊膜帶釋放等；薦尾椎畸胎瘤多不以胎兒鏡為典型處理。\n\n【選項詳解】\n- A. 雙胞胎輸血症候群可用胎兒鏡雷射凝固胎盤吻合血管。\n- B. 後尿道瓣膜可考慮胎兒膀胱鏡或相關介入。\n- C. 羊膜帶造成壓迫時可考慮胎兒鏡釋放。\n- D. 薦尾椎畸胎瘤通常不宜列為胎兒鏡手術適應症，故為答案。\n\n【核心考點】\n胎兒鏡適應症抓「可用鏡下切開、阻塞、雷射或釋放改善病程」；SCT 多不是典型胎兒鏡題目答案。",
+      "key_point": "薦尾椎畸胎瘤通常不屬於常規胎兒鏡手術適應症。",
+      "flashcard_front": "薦尾椎畸胎瘤通常不屬於常規胎兒鏡手術適應症。",
+      "flashcard_back": "胎兒鏡適應症抓「可用鏡下切開、阻塞、雷射或釋放改善病程」；SCT 多不是典型胎兒鏡題目答案。",
+      "flashcard_summary": "薦尾椎畸胎瘤通常不屬於常規胎兒鏡手術適應症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nGDM 若飲食與運動後血糖仍明顯超標，需藥物治療；考試傳統首選為 insulin，並非只追蹤或只飲食。\n\n【選項詳解】\n- A. 空腹血糖 168 mg/dL 已明顯超過控制目標，單靠飲食不足。\n- B. 口服降血糖藥可在部分情境使用，但本題傳統最佳答案是胰島素。\n- C. 胰島素合併飲食控制可有效控制孕期血糖，為正確答案。\n- D. 不控制只追蹤會增加胎兒過大、肩難產與新生兒低血糖等風險。\n\n【核心考點】\nGDM 治療階梯：先飲食運動；不達標就加藥，國考常以 insulin 為標準答案。",
+      "key_point": "妊娠糖尿病飲食控制後空腹血糖 168 mg/dL，需加胰島素並持續飲食控制。",
+      "flashcard_front": "妊娠糖尿病飲食控制後空腹血糖 168 mg/dL",
+      "flashcard_back": "GDM 治療階梯：先飲食運動；不達標就加藥，國考常以 insulin 為標準答案。",
+      "flashcard_summary": "妊娠糖尿病飲食控制後空腹血糖 168 mg/dL，需加胰島素並持續飲食控制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n母親 HBeAg 陽性且 HBV viral load 很高，是垂直感染失敗的重要風險因子。新生兒免疫球蛋白與疫苗可大幅降低感染，但高病毒量未治療仍有殘餘風險。\n\n【選項詳解】\n- A. 1% 過低，比較像低病毒量且免疫預防成功後的風險概念。\n- B. 約 10% 符合高病毒量、HBeAg 陽性且母親未抗病毒治療下免疫預防後的殘餘風險。\n- C. 50% 過高，未反映新生兒免疫預防已大幅降低感染。\n- D. 90% 接近未預防高風險情境，不符合已接受 immunoprophylaxis。\n\n【核心考點】\nHBV 垂直感染：HBeAg 陽性與高 viral load 是失敗風險；高病毒量孕婦晚孕期抗病毒可再降低風險。",
+      "key_point": "高病毒量且 HBeAg 陽性的孕婦，即使新生兒完整免疫預防仍有約 10% 感染風險。",
+      "flashcard_front": "高病毒量且 HBeAg 陽性的孕婦",
+      "flashcard_back": "HBV 垂直感染：HBeAg 陽性與高 viral load 是失敗風險；高病毒量孕婦晚孕期抗病毒可再降低風險。",
+      "flashcard_summary": "高病毒量且 HBeAg 陽性的孕婦，即使新生兒完整免疫預防仍有約 10% 感染風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n題目問不符合母胎感染致畸效應的配對。Parvovirus B19 可致胎兒水腫；CMV 可致顱內鈣化；rubella 可致小頭症與多器官異常；toxoplasmosis 主要是 CNS 與眼部病灶。\n\n【選項詳解】\n- A. Parvovirus B19 可造成胎兒貧血與 hydrops fetalis，配對正確。\n- B. CMV 可造成顱內鈣化，配對正確。\n- C. 先天性心臟缺陷不是 toxoplasmosis 的典型配對，因此為答案。\n- D. Rubella 可造成小頭症等先天感染表現，配對可接受。\n\n【核心考點】\nTORCH 配對要背典型：CMV 顱內鈣化，toxoplasma 顱內鈣化/水腦/脈絡膜視網膜炎，parvovirus 水腫。",
+      "key_point": "弓形蟲典型為顱內鈣化、腦積水與脈絡膜視網膜炎，不是先天性心臟缺陷。",
+      "flashcard_front": "弓形蟲典型為顱內鈣化、腦積水與脈絡膜視網膜炎",
+      "flashcard_back": "TORCH 配對要背典型：CMV 顱內鈣化，toxoplasma 顱內鈣化/水腦/脈絡膜視網膜炎，parvovirus 水腫。",
+      "flashcard_summary": "弓形蟲典型為顱內鈣化、腦積水與脈絡膜視網膜炎，不是先天性心臟缺陷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n診斷性子宮鏡可直接觀察子宮腔，對不明原因出血、子宮腔病灶與不孕評估有幫助；小型器械可在門診操作。\n\n【選項詳解】\n- A. 不孕症評估可考慮子宮鏡檢查子宮腔因素，敘述合理。\n- B. 不明原因子宮出血可由子宮鏡協助診斷。\n- C. 診斷性子宮鏡可於門診使用，說不可於門診使用較不適當。\n- D. 子宮鏡能直接看子宮腔，對腔內病灶通常比 HSG 更直接。\n\n【核心考點】\n診斷性子宮鏡的優勢是直接視診子宮腔，且可門診化；HSG 主要看腔形與輸卵管通暢。",
+      "key_point": "診斷性子宮鏡可在門診執行，說不可於門診使用不適當。",
+      "flashcard_front": "診斷性子宮鏡可在門診執行",
+      "flashcard_back": "診斷性子宮鏡的優勢是直接視診子宮腔，且可門診化；HSG 主要看腔形與輸卵管通暢。",
+      "flashcard_summary": "診斷性子宮鏡可在門診執行，說不可於門診使用不適當。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

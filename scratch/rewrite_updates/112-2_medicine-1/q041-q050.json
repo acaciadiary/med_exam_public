@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n細支氣管相較支氣管，沒有軟骨板與黏膜下腺，但管壁有平滑肌並含彈性纖維，上皮逐漸由纖毛柱狀變為單層立方。\n\n【選項詳解】\n- A. 整個細支氣管的管壁上皮均為具纖毛的偽複層柱狀上皮(ciliated, pseudostratified columnar epithelium)：錯誤。細支氣管越往遠端上皮會變低，並非整段都為具纖毛偽複層柱狀上皮。\n- B. 其管壁具有平滑肌(smooth muscle)：正確。細支氣管管壁有平滑肌，可調節氣道阻力，是正確敘述。\n- C. 其上皮下方具有腺體和軟骨板(cartilage plate)：錯誤。細支氣管沒有軟骨板與黏膜下腺，這是和支氣管的差異。\n- D. 其管壁不具有彈性纖維(elastic fibers)：錯誤。細支氣管仍有彈性纖維，有助呼吸週期中的回彈。\n\n【核心考點】\nBronchiole 有 smooth muscle、無 cartilage、無 submucosal gland。",
+      "key_point": "細支氣管管壁具有平滑肌，但沒有軟骨板與腺體。",
+      "flashcard_front": "細支氣管 / smooth muscle / 無軟骨腺體",
+      "flashcard_back": "細支氣管管壁具有平滑肌，但沒有軟骨板與腺體。",
+      "flashcard_summary": "細支氣管 / smooth muscle / 無軟骨腺體 -> 細支氣管管壁具有平滑肌，但沒有軟骨板與腺體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n胰臟外分泌腺泡有泡心細胞，代表閏管細胞伸入腺泡中心，是區分胰臟與唾液腺的重要特徵；耳下腺沒有泡心細胞。\n\n【選項詳解】\n- A. 酵素原細胞(zymogenic cells)：錯誤。耳下腺與胰臟都可見漿液性腺泡及酵素原顆粒，不是胰臟獨有。\n- B. 泡心細胞(centroacinar cells)：正確。泡心細胞是胰臟特徵，耳下腺沒有，是正確答案。\n- C. 小葉間管(interlobular duct)：錯誤。小葉間管可見於多種外分泌腺，不是胰臟獨有。\n- D. 閏管(intercalated duct)：錯誤。閏管在胰臟與耳下腺皆可見，不能用來區分。\n\n【核心考點】\nPancreas 特徵是 centroacinar cells；parotid 是純漿液腺但無泡心細胞。",
+      "key_point": "泡心細胞存在於胰臟，不存在於耳下腺。",
+      "flashcard_front": "胰臟 / centroacinar cells",
+      "flashcard_back": "泡心細胞存在於胰臟，不存在於耳下腺。",
+      "flashcard_summary": "胰臟 / centroacinar cells -> 泡心細胞存在於胰臟，不存在於耳下腺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n題目問唾液腺何者錯誤。閏管在耳下腺較發達，在舌下腺最不發達；舌下腺以黏液腺為主。\n\n【選項詳解】\n- A. 耳下腺(parotid gland)主要由漿液腺(serous gland)所組成：非答案。耳下腺主要為漿液腺，敘述正確。\n- B. 閏管(intercalated duct)構造在舌下腺(sublingual gland)中最為發達：本題答案。閏管在舌下腺並非最發達，通常耳下腺較發達；題目問錯誤，故選此項。\n- C. 下頜下腺(submandibular gland)由漿液腺(serous gland)與黏液腺(mucous gland)混合組成：非答案。下頜下腺為混合腺，以漿液性成分較多，敘述可接受。\n- D. 線紋管(striated duct)細胞的底部具有長條形的粒線體和底部胞膜皺褶(infoldings of the basal plasma\n membrane)：非答案。線紋管底部有粒線體與基底膜皺褶，利於離子運輸，敘述正確。\n\n【核心考點】\nParotid 純漿液且閏管明顯；sublingual 黏液為主且閏管不發達。",
+      "key_point": "唾液腺閏管不是在舌下腺最發達。",
+      "flashcard_front": "唾液腺 / intercalated duct / sublingual gland",
+      "flashcard_back": "唾液腺閏管不是在舌下腺最發達。",
+      "flashcard_summary": "唾液腺 / intercalated duct / sublingual gland -> 唾液腺閏管不是在舌下腺最發達。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n近曲小管、遠曲小管與集尿小管多為單層立方上皮。乳頭管，也就是 Bellini duct，管徑較大，常呈單層柱狀或較高上皮，因此不是主要單層立方。\n\n【選項詳解】\n- A. 乳頭管(papillary duct)：本題答案。乳頭管上皮較高，可為單層柱狀，並非主要單層立方；題目問不是，故選此項。\n- B. 近曲小管(proximal convoluted tubule)：非答案。近曲小管典型為單層立方上皮，具刷狀緣。\n- C. 集尿小管(collecting tubule)：非答案。集尿小管多為單層立方上皮，往乳頭管逐漸變高。\n- D. 遠曲小管(distal convoluted tubule)：非答案。遠曲小管主要為單層立方上皮，刷狀緣不明顯。\n\n【核心考點】\n腎小管多為 simple cuboidal；papillary duct 管徑大且上皮較高，是常見例外。",
+      "key_point": "乳頭管主要不是單層立方上皮，可呈較高柱狀上皮。",
+      "flashcard_front": "腎小管上皮 / papillary duct",
+      "flashcard_back": "乳頭管主要不是單層立方上皮，可呈較高柱狀上皮。",
+      "flashcard_summary": "腎小管上皮 / papillary duct -> 乳頭管主要不是單層立方上皮，可呈較高柱狀上皮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n蔓狀叢是精索內包繞睪丸動脈的靜脈網，具較厚肌肉壁，屬非典型靜脈，有助逆流熱交換與睪丸降溫。\n\n【選項詳解】\n- A. 僅具有環走的平滑肌層：錯誤。蔓狀叢不是僅有環走平滑肌層，靜脈壁結構較特殊且肌肉較厚。\n- B. 肌肉層僅出現於中膜層(tunica media)：錯誤。肌肉層描述不能只限於一般中膜層概念，蔓狀叢被列為非典型靜脈。\n- C. 位於睪丸(testis)中：錯誤。蔓狀叢位於精索內、睪丸外周附近，不是在睪丸實質中。\n- D. 有較厚的肌肉壁,屬於非典型的靜脈(atypical vein)：正確。蔓狀叢有較厚肌肉壁，屬非典型靜脈，敘述正確。\n\n【核心考點】\nPampiniform plexus 是精索內非典型靜脈網，功能是睪丸動脈逆流熱交換。",
+      "key_point": "蔓狀叢有較厚肌肉壁，屬於非典型靜脈。",
+      "flashcard_front": "蔓狀叢 / atypical vein / countercurrent heat exchange",
+      "flashcard_back": "蔓狀叢有較厚肌肉壁，屬於非典型靜脈。",
+      "flashcard_summary": "蔓狀叢 / atypical vein / countercurrent heat exchange -> 蔓狀叢有較厚肌肉壁，屬於非典型靜脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n三級絨毛含胎兒血管，外層為合胞滋養層。懷孕晚期細胞滋養層變薄不連續，合胞體結增加，可用來評估絨毛成熟度。\n\n【選項詳解】\n- A. 可藉由合胞體結(syncytial knots)的數目,來評估絨毛(chorionic villi)的成熟度：正確。合胞體結數量會隨胎盤絨毛成熟增加，可作為成熟度指標，敘述正確。\n- B. 懷孕晚期,絨毛最外層為完整且顯著的細胞滋養層(cytotrophoblast)：錯誤。懷孕晚期細胞滋養層通常變薄且不連續，不是完整且顯著的外層。\n- C. 不具有血管及合胞滋養層(syncytiotrophoblast)：錯誤。三級絨毛具有胎兒血管，也有合胞滋養層，此敘述錯誤。\n- D. 其結締組織中只含有間葉細胞(mesenchymal cells)與纖維母細胞(fibroblasts)：錯誤。三級絨毛基質除間葉細胞與纖維母細胞外，也含血管與其他基質成分，不是只含這兩者。\n\n【核心考點】\nTertiary villi 特色是含血管；胎盤成熟可見 syncytial knots 增加、屏障變薄。",
+      "key_point": "合胞體結數目可協助評估胎盤絨毛成熟度。",
+      "flashcard_front": "三級絨毛 / syncytial knots / 胎盤成熟",
+      "flashcard_back": "合胞體結數目可協助評估胎盤絨毛成熟度。",
+      "flashcard_summary": "三級絨毛 / syncytial knots / 胎盤成熟 -> 合胞體結數目可協助評估胎盤絨毛成熟度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n簡單擴散最適合小型非極性分子或未帶電脂溶性分子。葡萄糖體積較大且親水，需 GLUT 或 SGLT 等蛋白協助跨膜。\n\n【選項詳解】\n- A. 二氧化碳：錯誤。二氧化碳小且非極性，可快速簡單擴散通過細胞膜。\n- B. 甘油：錯誤。甘油雖具極性，但小分子可相對有限地穿膜，也可有 aquaglyceroporin；不如葡萄糖依賴轉運蛋白。\n- C. 醋酸：錯誤。醋酸在未解離型態可較容易通過脂質雙層。\n- D. 葡萄糖：正確。葡萄糖親水且較大，通常需 GLUT 或 SGLT 等蛋白協助進出細胞，是最不能單純擴散者。\n\n【核心考點】\n大而親水的營養分子通常需要 transporter；CO2 這類小非極性分子可簡單擴散。",
+      "key_point": "葡萄糖需藉由轉運蛋白進出細胞，不能有效簡單擴散。",
+      "flashcard_front": "膜通透性 / glucose / transporter",
+      "flashcard_back": "葡萄糖需藉由轉運蛋白進出細胞，不能有效簡單擴散。",
+      "flashcard_summary": "膜通透性 / glucose / transporter -> 葡萄糖需藉由轉運蛋白進出細胞，不能有效簡單擴散。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n題目問最不適當。錐細胞解析度高是因為在黃斑中央凹有高度集中與低匯聚，而不是因為總數比桿細胞多；事實上桿細胞總數遠多於錐細胞。\n\n【選項詳解】\n- A. 錐細胞(cone)和桿細胞(rod)皆位於視網膜內,最遠離玻璃體的外層位置：非答案。感光細胞外節位於視網膜外層、遠離玻璃體，方向描述正確。\n- B. 錐細胞(cone)因數量遠較桿細胞(rod)多,因此錐細胞對空間解像力(或視覺敏銳度)的貢獻較桿細胞多：本題答案。錐細胞總數不是遠多於桿細胞；錐細胞解析度高主要因中央凹分布與神經匯聚少，故此敘述最不適當。\n- C. 亮適應主要涉及rhodopsin 之分解而非形成,所以較暗適應需時較短：非答案。亮適應涉及視紫質分解與感光系統敏感度下降，通常比暗適應快，敘述可接受。\n- D. 錐細胞(cone)被激起反應所需的光子量較桿細胞(rod)為多,因此在黑暗中去尋找光度極低的目標時,不\n 宜聚焦凝視：非答案。錐細胞需較強光，暗處偵測微弱光源時不要用中央凹直視，改用旁視可動員桿細胞，敘述合理。\n\n【核心考點】\nRods 數量多、暗視敏感；cones 在中央凹解析度高，但總數少於 rods。",
+      "key_point": "錐細胞對視覺敏銳度貢獻高不是因為總數多於桿細胞。",
+      "flashcard_front": "視網膜 / cones rods / 數量與視覺敏銳度",
+      "flashcard_back": "錐細胞對視覺敏銳度貢獻高不是因為總數多於桿細胞。",
+      "flashcard_summary": "視網膜 / cones rods / 數量與視覺敏銳度 -> 錐細胞對視覺敏銳度貢獻高不是因為總數多於桿細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n病灶位於中腦四疊體中線附近，會切斷紅核以上對屈肌的促進並保留橋腦網狀脊髓徑對伸肌的促進，形成去大腦僵直，四肢伸直僵硬。\n\n【選項詳解】\n- A. 上下肢皆伸直僵硬：正確。上下肢皆伸直僵硬符合去大腦僵直，常見於紅核以下或中腦嚴重病灶造成伸肌張力優勢。\n- B. 上肢蜷起向內靠近胸部,下肢伸直僵硬：錯誤。上肢屈曲、下肢伸直較符合去皮質姿勢，病灶通常在紅核以上。\n- C. 下肢蜷起向內,上肢伸直僵硬向外：錯誤。下肢屈曲、上肢伸直不是此類中腦病灶的典型姿勢。\n- D. 頸部僵硬,上下肢完全失去張力：錯誤。完全失去張力不符合橋腦網狀脊髓徑仍促進伸肌的設定。\n\n【核心考點】\nDecerebrate rigidity 是上下肢伸直；decorticate posture 是上肢屈曲、下肢伸直。",
+      "key_point": "中腦紅核以下功能受損可造成去大腦僵直，表現為上下肢伸直僵硬。",
+      "flashcard_front": "去大腦僵直 / midbrain lesion / extensor rigidity",
+      "flashcard_back": "中腦紅核以下功能受損可造成去大腦僵直，表現為上下肢伸直僵硬。",
+      "flashcard_summary": "去大腦僵直 / midbrain lesion / extensor rigidity -> 中腦紅核以下功能受損可造成去大腦僵直，表現為上下肢伸直僵硬。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n極大生命威脅時交感神經活化，典型反應包括血壓上升、血糖上升、支氣管擴張與瞳孔散大。瞳孔縮小屬副交感優勢反應，最不可能出現。\n\n【選項詳解】\n- A. 血壓升高：非答案。交感活化使心輸出量與血管張力上升，血壓升高是典型反應。\n- B. 瞳孔縮小：本題答案。交感反應會造成瞳孔散大，不是縮小；題目問最不可能，故選此項。\n- C. 血糖升高：非答案。腎上腺素與交感活化會促進肝醣分解與糖質新生，血糖升高合理。\n- D. 氣管平滑肌放鬆：非答案。交感 beta-2 作用會使支氣管平滑肌放鬆，有助通氣。\n\n【核心考點】\nFight-or-flight：mydriasis、bronchodilation、血糖升高、血壓上升；miosis 是副交感。",
+      "key_point": "重大威脅下交感活化會使瞳孔散大，不會使瞳孔縮小。",
+      "flashcard_front": "交感反應 / fight-or-flight / 瞳孔散大",
+      "flashcard_back": "重大威脅下交感活化會使瞳孔散大，不會使瞳孔縮小。",
+      "flashcard_summary": "交感反應 / fight-or-flight / 瞳孔散大 -> 重大威脅下交感活化會使瞳孔散大，不會使瞳孔縮小。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

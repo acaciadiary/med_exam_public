@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題幹描述右眼受光後雙側瞳孔縮小，重點是對側 consensual light reflex 的中樞連結。視網膜訊息到達頂蓋前區後，會經後聯合把訊息送到對側 Edinger-Westphal 核，再經動眼神經副交感路徑造成縮瞳。\n\n【選項詳解】\n- A. 前聯合神經束(anterior commissure)：錯誤。前聯合主要連結兩側大腦半球前部，與瞳孔對光反射的頂蓋前區到 E-W 核路徑無關。\n- B. 後聯合神經束(posterior commissure)：正確。後聯合是頂蓋前區訊息跨至對側 Edinger-Westphal 核的重要通路，因此可產生直接與間接對光反射。\n- C. 視神經交叉(optic chiasma)：錯誤。視神經交叉處理部分視網膜纖維交叉，位置在傳入視覺路徑，不是頂蓋前區到對側 E-W 核的連結。\n- D. 上小腦腳交叉(superior cerebellar decussation)：錯誤。上小腦腳交叉屬小腦輸出與運動協調路徑，和瞳孔副交感反射路徑不同。\n\n【核心考點】\n瞳孔對光反射的雙側性來自 pretectal area 經 posterior commissure 連到兩側 E-W 核；看到 consensual light reflex 要想到後聯合。",
+      "key_point": "頂蓋前區到對側 Edinger-Westphal 核的連結主要經後聯合。",
+      "flashcard_front": "瞳孔對光反射 / posterior commissure / Edinger-Westphal 核",
+      "flashcard_back": "頂蓋前區到對側 Edinger-Westphal 核的連結主要經後聯合。",
+      "flashcard_summary": "瞳孔對光反射 / posterior commissure / Edinger-Westphal 核 -> 頂蓋前區到對側 Edinger-Westphal 核的連結主要經後聯合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目問由 Clarke 背核發出、傳遞下肢本體感覺的路徑。Clarke nucleus 接收下肢與軀幹無意識本體覺，主要投射形成背側脊髓小腦徑進入小腦。\n\n【選項詳解】\n- A. 背側脊髓小腦徑(dorsal spinocerebellar tract)：正確。背側脊髓小腦徑來自 Clarke 背核，傳遞同側下肢與軀幹的無意識本體覺，是本題正確配對。\n- B. 腹側脊髓小腦徑(ventral spinocerebellar tract)：錯誤。腹側脊髓小腦徑主要傳遞脊髓中間神經元與下肢運動活動相關訊息，並非 Clarke 背核的典型輸出。\n- C. 楔狀核小腦徑(cuneocerebellar tract)：錯誤。楔狀核小腦徑傳遞上肢與上軀幹本體覺，對應 accessory cuneate nucleus，不是下肢 Clarke 背核。\n- D. 吻端脊髓小腦徑(rostral spinocerebellar tract)：錯誤。吻端脊髓小腦徑主要與上肢無意識本體覺相關，不是本題下肢 Clarke 背核路徑。\n\n【核心考點】\nClarke nucleus 對應下肢無意識本體覺，走 dorsal spinocerebellar tract；上肢類似資訊則想到 cuneocerebellar tract。",
+      "key_point": "Clarke 背核主要發出背側脊髓小腦徑，傳遞下肢無意識本體覺。",
+      "flashcard_front": "Clarke 背核 / 下肢無意識本體覺 / dorsal spinocerebellar tract",
+      "flashcard_back": "Clarke 背核主要發出背側脊髓小腦徑，傳遞下肢無意識本體覺。",
+      "flashcard_summary": "Clarke 背核 / 下肢無意識本體覺 / dorsal spinocerebellar tract -> Clarke 背核主要發出背側脊髓小腦徑，傳遞下肢無意識本體覺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n題目問何者不是 direct basal ganglia pathway 的主要構造。直接路徑為 cortex 到 striatum，再抑制 GPi/SNr，最後影響 thalamus；subthalamic nucleus 是間接路徑的重要站點。\n\n【選項詳解】\n- A. 殼核(putamen)：非答案。殼核屬於 striatum，是直接路徑接收皮質輸入的重要結構。\n- B. 內蒼白球(internal segment of globus pallidus)：非答案。內蒼白球是直接路徑的輸出核，受 striatum 抑制後改變對丘腦的抑制。\n- C. 丘腦下核(subthalamus)：本題答案。丘腦下核主要位於間接路徑中，經興奮 GPi/SNr 增加對丘腦抑制，因此不是直接路徑主要構造。\n- D. 丘腦(thalamus)：非答案。丘腦是基底核輸出影響皮質運動活動前的重要中繼站，屬直接路徑功能鏈的一部分。\n\n【核心考點】\n直接路徑重點是 striatum 抑制 GPi/SNr 以釋放丘腦；subthalamic nucleus 是間接路徑的高頻考點。",
+      "key_point": "丘腦下核屬於基底核間接路徑，不是直接路徑的主要站點。",
+      "flashcard_front": "基底核直接路徑 / 間接路徑 / subthalamic nucleus",
+      "flashcard_back": "丘腦下核屬於基底核間接路徑，不是直接路徑的主要站點。",
+      "flashcard_summary": "基底核直接路徑 / 間接路徑 / subthalamic nucleus -> 丘腦下核屬於基底核間接路徑，不是直接路徑的主要站點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目問海馬到乳頭體的連結。Papez circuit 中，海馬的主要輸出經穹窿到乳頭體，之後再到前丘腦核與扣帶迴，和記憶迴路有關。\n\n【選項詳解】\n- A. 終紋(stria terminalis)：錯誤。終紋主要連結杏仁核到下視丘與隔區，不是海馬到乳頭體的纖維束。\n- B. 穹窿(fornix)：正確。穹窿是海馬輸出到乳頭體的主要白質束，正是本題所問連結。\n- C. 內側前腦束(medial forebrain bundle)：錯誤。內側前腦束與獎賞、自律與下視丘相關通路較有關，不是 Papez circuit 的海馬至乳頭體段。\n- D. 內側縱束(medial longitudinal fasciculus)：錯誤。內側縱束整合眼球運動與前庭訊息，和海馬乳頭體連結無關。\n\n【核心考點】\n海馬到乳頭體走 fornix；杏仁核相關常見纖維則是 stria terminalis。",
+      "key_point": "海馬至乳頭體的主要連結纖維是穹窿。",
+      "flashcard_front": "海馬 / 乳頭體 / fornix / Papez circuit",
+      "flashcard_back": "海馬至乳頭體的主要連結纖維是穹窿。",
+      "flashcard_summary": "海馬 / 乳頭體 / fornix / Papez circuit -> 海馬至乳頭體的主要連結纖維是穹窿。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目問交感節前神經元何者錯誤。交感節前神經元位在 T1-L2 脊髓側角，解剖上屬 lamina VII，可受下視丘下行路徑調控；Clarke 背核則處理本體覺。\n\n【選項詳解】\n- A. 細胞體主要位於脊髓灰質(gray matter of spinal cord)之lamina VII：非答案。交感節前神經元位於胸腰髓側角，側角屬灰質 lamina VII，所以此敘述正確。\n- B. 可接受下視丘脊髓徑(hypothalamospinal fiber)之訊息：非答案。下視丘可透過 hypothalamospinal tract 調控自律神經節前神經元，所以此敘述正確。\n- C. 神經元位於脊髓背核(nucleus dorsalis of Clarke)中：本題答案。Clarke 背核是本體覺中繼核，不是交感節前神經元所在處；題目問錯誤，故選此項。\n- D. 脊髓胸段(thoracic spinal cord)含有交感節前神經元：非答案。胸髓包含交感節前神經元，特別是 T1-L2 節段的側角，因此此敘述正確。\n\n【核心考點】\n交感節前神經元在 T1-L2 lateral horn；Clarke nucleus 是下肢本體覺，不要把兩者混在一起。",
+      "key_point": "交感節前神經元位於胸腰髓側角 lamina VII，不位於 Clarke 背核。",
+      "flashcard_front": "交感節前神經元 / lateral horn / Clarke nucleus",
+      "flashcard_back": "交感節前神經元位於胸腰髓側角 lamina VII，不位於 Clarke 背核。",
+      "flashcard_summary": "交感節前神經元 / lateral horn / Clarke nucleus -> 交感節前神經元位於胸腰髓側角 lamina VII，不位於 Clarke 背核。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目考眼眶血管走行。眼動脈是內頸動脈分支，和視神經一起經視神經管進入眼眶，供應眼球與眼眶內容物。\n\n【選項詳解】\n- A. 眼動脈(ophthalmic artery)經由視神經管(optic canal)進入眼眶：正確。眼動脈經視神經管入眼眶，通常伴隨視神經走行，是正確敘述。\n- B. 眼動脈(ophthalmic artery)為中腦膜動脈(middle meningeal artery)之分支：錯誤。眼動脈來自內頸動脈，不是中腦膜動脈分支；中腦膜動脈多屬上頷動脈系統。\n- C. 眼下靜脈(inferior ophthalmic vein)通過共同腱環(common tendinous ring)進入眼眶：錯誤。眼靜脈主要經眶上裂與海綿竇交通，選項說眼下靜脈通過共同腱環進入眼眶不正確。\n- D. 淚動脈(lacrimal artery)位於視神經內側：錯誤。淚動脈走向眼眶外上方供應淚腺，位於視神經外側而非內側。\n\n【核心考點】\n眼動脈是 ICA 分支，經 optic canal 入眼眶；眶上裂則是多數眼外肌神經與眼靜脈的重要通道。",
+      "key_point": "眼動脈是內頸動脈分支，與視神經一起經視神經管入眼眶。",
+      "flashcard_front": "眼動脈 / optic canal / 眼眶血管",
+      "flashcard_back": "眼動脈是內頸動脈分支，與視神經一起經視神經管入眼眶。",
+      "flashcard_summary": "眼動脈 / optic canal / 眼眶血管 -> 眼動脈是內頸動脈分支，與視神經一起經視神經管入眼眶。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目考頸外靜脈的位置與回流。頸外靜脈屬淺層靜脈，跨過胸鎖乳突肌表面，收集頭皮與部分顏面淺層靜脈血後注入鎖骨下靜脈。\n\n【選項詳解】\n- A. 屬於頸部深層靜脈：錯誤。頸外靜脈是淺層靜脈，不屬於頸動脈鞘內的深層靜脈系統。\n- B. 位於胸鎖乳突肌(sternocleidomastoid muscle)之下：錯誤。它通常位於胸鎖乳突肌表面，不是在該肌深層。\n- C. 與迷走神經(vagus nerve)伴行：錯誤。迷走神經走在頸動脈鞘內，伴行的是內頸靜脈與頸動脈，不是頸外靜脈。\n- D. 收集部分顏面的血液後注入鎖骨下靜脈(subclavianvein)：正確。頸外靜脈收集部分顏面與頭頸淺層血液，最後匯入鎖骨下靜脈，故此敘述正確。\n\n【核心考點】\n頸外靜脈是 SCM 表淺的靜脈，回流到 subclavian vein；頸動脈鞘內才是內頸靜脈和迷走神經。",
+      "key_point": "頸外靜脈位於胸鎖乳突肌表淺，收集淺層頭頸血後注入鎖骨下靜脈。",
+      "flashcard_front": "頸外靜脈 / SCM 表淺 / subclavian vein",
+      "flashcard_back": "頸外靜脈位於胸鎖乳突肌表淺，收集淺層頭頸血後注入鎖骨下靜脈。",
+      "flashcard_summary": "頸外靜脈 / SCM 表淺 / subclavian vein -> 頸外靜脈位於胸鎖乳突肌表淺，收集淺層頭頸血後注入鎖骨下靜脈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n聲音嘶啞提示迷走神經或喉返神經功能受損，舌後三分之一與口咽感覺喪失提示舌咽神經受損。CN IX、X、XI 共同通過頸靜脈孔，因此顱底腫瘤最可能在此。\n\n【選項詳解】\n- A. 盲孔(foramen cecum)處：錯誤。盲孔位在前顱窩附近，與 CN IX、X 通過及聲音嘶啞無直接關係。\n- B. 圓孔(foramen rotundum)處：錯誤。圓孔通過上頷神經 V2，主要影響臉部中段感覺，不會同時造成舌後感覺喪失與聲音嘶啞。\n- C. 頸靜脈孔(jugular foramen)處：正確。頸靜脈孔通過舌咽、迷走與副神經，能解釋口咽與舌後三分之一感覺喪失及聲音嘶啞。\n- D. 枕骨大孔(foramen magnum)處：錯誤。枕骨大孔通過延髓、脊髓與椎動脈等，典型不會選擇性造成 CN IX、X 的顱底孔症候群。\n\n【核心考點】\n聲音嘶啞加舌後三分之一感覺問題要想到 CN X 和 CN IX；共同出口是 jugular foramen。",
+      "key_point": "CN IX、X、XI 通過頸靜脈孔，病灶可造成舌後感覺喪失與聲音嘶啞。",
+      "flashcard_front": "頸靜脈孔 / CN IX X XI / 聲音嘶啞與舌後感覺",
+      "flashcard_back": "CN IX、X、XI 通過頸靜脈孔，病灶可造成舌後感覺喪失與聲音嘶啞。",
+      "flashcard_summary": "頸靜脈孔 / CN IX X XI / 聲音嘶啞與舌後感覺 -> CN IX、X、XI 通過頸靜脈孔，病灶可造成舌後感覺喪失與聲音嘶啞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問穿過甲狀舌骨膜進入喉部的神經。上喉神經內支和 superior laryngeal artery 一起穿過甲狀舌骨膜，提供聲帶以上喉黏膜感覺。\n\n【選項詳解】\n- A. 舌咽神經(glossopharyngeal nerve)：錯誤。舌咽神經主要供應咽部、舌後三分之一與莖突咽肌，不穿過甲狀舌骨膜入喉。\n- B. 內喉神經(internal laryngeal nerve)：正確。內喉神經是上喉神經內支，穿過甲狀舌骨膜，供應聲帶以上感覺，正是本題答案。\n- C. 外喉神經(external laryngeal nerve)：錯誤。外喉神經走向環甲肌，主要是運動支，不是穿膜進入喉腔的感覺支。\n- D. 喉返神經(recurrent laryngeal nerve)：錯誤。喉返神經由下方進入喉部，供應多數喉內肌與聲帶以下感覺，不經甲狀舌骨膜。\n\n【核心考點】\n穿 thyroid membrane 是 internal laryngeal nerve；支配 cricothyroid 則想到 external laryngeal nerve。",
+      "key_point": "內喉神經穿過甲狀舌骨膜，供應聲帶以上喉黏膜感覺。",
+      "flashcard_front": "甲狀舌骨膜 / internal laryngeal nerve",
+      "flashcard_back": "內喉神經穿過甲狀舌骨膜，供應聲帶以上喉黏膜感覺。",
+      "flashcard_summary": "甲狀舌骨膜 / internal laryngeal nerve -> 內喉神經穿過甲狀舌骨膜，供應聲帶以上喉黏膜感覺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n共同腱環包圍視神經管與眶上裂中央部分，內有 CN III、VI、鼻睫神經等結構；滑車神經進入眼眶後走在腱環外上方，不在共同腱環內。\n\n【選項詳解】\n- A. 第三對腦神經(CN III)：非答案。動眼神經上下支通過共同腱環內進入眼眶，支配多數眼外肌。\n- B. 第四對腦神經(CN IV)：本題答案。滑車神經經眶上裂入眼眶，但走在共同腱環外，支配上斜肌；題目問不會出現在環內，故選此項。\n- C. 第五對腦神經(CN V)：非答案。第五對中與眼眶相關的鼻睫神經分支通過腱環內；雖非整個 CN V 都在環內，但此選項不如 CN IV 明確排除。\n- D. 第六對腦神經(CN VI)：非答案。外展神經通過共同腱環內，支配外直肌。\n\n【核心考點】\n共同腱環內記 CN III、VI、鼻睫神經與視神經相關構造；CN IV 在腱環外是常考例外。",
+      "key_point": "滑車神經經眶上裂入眼眶，但不在共同腱環內。",
+      "flashcard_front": "共同腱環 / orbital apex / CN IV",
+      "flashcard_back": "滑車神經經眶上裂入眼眶，但不在共同腱環內。",
+      "flashcard_summary": "共同腱環 / orbital apex / CN IV -> 滑車神經經眶上裂入眼眶，但不在共同腱環內。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

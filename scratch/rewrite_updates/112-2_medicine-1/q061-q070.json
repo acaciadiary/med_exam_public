@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n健康者平靜呼吸時，吸氣需橫膈與外肋間肌收縮作功；呼氣主要靠肺與胸壁彈性回縮，通常是被動過程。\n\n【選項詳解】\n- A. 僅吸氣階段需要作功：正確。平靜呼吸時主要只有吸氣階段需要肌肉作功，正確。\n- B. 僅呼氣階段需要作功：錯誤。平靜呼氣通常是被動彈性回縮，不是唯一需要作功的階段。\n- C. 吸氣階段與呼氣階段的作功量相同：錯誤。吸氣主動、呼氣被動，兩者作功量不相同。\n- D. 吸氣階段與呼氣階段均不需要作功：錯誤。吸氣需要肌肉收縮，因此不能說兩階段都不需作功。\n\n【核心考點】\nQuiet breathing: inspiration active, expiration passive；用力呼吸時呼氣肌才明顯參與。",
+      "key_point": "健康者平靜呼吸時主要只有吸氣需要作功。",
+      "flashcard_front": "平靜呼吸作功 / inspiration active / expiration passive",
+      "flashcard_back": "健康者平靜呼吸時主要只有吸氣需要作功。",
+      "flashcard_summary": "平靜呼吸作功 / inspiration active / expiration passive -> 健康者平靜呼吸時主要只有吸氣需要作功。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n三管都暴露在相同 PO2 40 mmHg 下，溶解氧分壓會趨同。貧血使總氧含量下降但飽和度百分比可接近正常；一氧化碳血紅素使剩餘可用 Hb 氧親和力左移，因此以可結合位點計算的氧飽和百分比可最高，但總氧含量不會相同。\n\n【選項詳解】\n- A. 甲試管血液中的氧分壓最高：錯誤。平衡後三管血液氧分壓由相同氣體決定，不會甲最高。\n- B. 乙試管血液中的血氧飽和度百分比(oxygen saturation percentage, )為甲試管的的50%：錯誤。乙管 Hb 濃度減半會使總氧含量約下降，但飽和度百分比不會變成甲的 50%。\n- C. 丙試管血液中的血氧飽和度百分比最最高：正確。丙管有 COHb，使剩餘 Hb 對氧親和力升高、氧解離曲線左移，在 PO2 40 mmHg 下飽和百分比可最高。\n- D. 三支試管血液中的氧氣總含量(totaal oxygen content)皆相同：錯誤。氧氣總含量取決於 Hb 濃度與可用結合位點，貧血與 COHb 都會降低總含量，不會三者相同。\n\n【核心考點】\nOxygen content 看 Hb amount；oxygen saturation 看可用 Hb 位點比例；CO 會降低總含量並使曲線左移。",
+      "key_point": "COHb 會使剩餘血紅素氧親和力上升，因此丙管血氧飽和百分比可最高。",
+      "flashcard_front": "CO poisoning / oxygen saturation / oxygen content",
+      "flashcard_back": "COHb 會使剩餘血紅素氧親和力上升，因此丙管血氧飽和百分比可最高。",
+      "flashcard_summary": "CO poisoning / oxygen saturation / oxygen content -> COHb 會使剩餘血紅素氧親和力上升，因此丙管血氧飽和百分比可最高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n副交感使唾液量多且較水樣，交感使分泌較少且較黏稠。唾腺受自主神經調控時，細胞內鈣離子是重要第二訊息，例如 muscarinic M3 與 alpha-adrenergic 路徑可提高 Ca2+。\n\n【選項詳解】\n- A. 在交感神經的作用下,唾液的分泌量量會較副交感神經作用下為多：錯誤。副交感通常使唾液分泌量較多，交感不是量較多的主要狀態。\n- B. 在副交感神經的作用下,唾液會較交交感神經作用下為黏稠：錯誤。交感作用下唾液較黏稠；副交感較水樣，選項方向相反。\n- C. 接受自主神經影響後,唾腺細胞內參參與的訊息因子有鈣離子：正確。唾腺細胞受自主神經刺激時會使用 Ca2+ 等訊息因子，敘述最適當。\n- D. 唾腺細胞上的接受器,主要為甲型腎腎上腺素(alpha-adrenergic)受體與尼古丁(nnicotinic)型受體：錯誤。唾腺效應細胞主要受 muscarinic 與 adrenergic 受體調控，不是以 nicotinic 受體為主要效應受體。\n\n【核心考點】\nSalivation: parasympathetic = watery, high volume；sympathetic = more viscous；Ca2+ 是重要訊號。",
+      "key_point": "自主神經調控唾腺分泌時，鈣離子是重要細胞內訊息因子。",
+      "flashcard_front": "唾液分泌 / autonomic regulation / Ca2+",
+      "flashcard_back": "自主神經調控唾腺分泌時，鈣離子是重要細胞內訊息因子。",
+      "flashcard_summary": "唾液分泌 / autonomic regulation / Ca2+ -> 自主神經調控唾腺分泌時，鈣離子是重要細胞內訊息因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n壁細胞產生胃酸需要碳酸酐酶生成 H+ 與 HCO3-，H+ 再由 H+/K+ ATPase 分泌到胃腔，Cl- 也進入胃腔形成 HCl。\n\n【選項詳解】\n- A. 受胃泌素釋放胜肽(gastrin releasingg peptide, GRP)直接刺激細胞生成胃酸：錯誤。GRP 主要刺激 G cell 分泌 gastrin，再間接促進胃酸，不是直接刺激壁細胞生成胃酸的主要說法。\n- B. 經氫氯離子共同轉運蛋白(H+-Cl - cootransporter)作用後,釋放胃酸：錯誤。胃酸分泌關鍵是 H+/K+ ATPase，不是 H+-Cl- cotransporter。\n- C. 受黏液素(mucin)直接抑制Gs 蛋白白,因而打開氯離子通道(Cl- channel),抑制制細胞生成胃酸：錯誤。黏液素主要保護黏膜，不是直接抑制 Gs 蛋白以打開氯離子通道來抑制胃酸的機制。\n- D. 需有碳酸酐酵素(carbonic anhydrasee)的參與,才能生成胃酸：正確。壁細胞需要碳酸酐酶產生 H+，才能有效分泌胃酸，敘述正確。\n\n【核心考點】\nParietal cell acid secretion 需要 carbonic anhydrase 與 H+/K+ ATPase；gastrin、ACh、histamine 促進分泌。",
+      "key_point": "胃酸生成需要碳酸酐酶參與。",
+      "flashcard_front": "胃酸分泌 / parietal cell / carbonic anhydrase",
+      "flashcard_back": "胃酸生成需要碳酸酐酶參與。",
+      "flashcard_summary": "胃酸分泌 / parietal cell / carbonic anhydrase -> 胃酸生成需要碳酸酐酶參與。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n血漿滲透壓估算公式為 2[Na+] + glucose/18 + BUN/2.8。代入 2x135 + 180/18 + 56/2.8 = 270 + 10 + 20 = 300 mOsm/kg H2O。\n\n【選項詳解】\n- A. 300：正確。300 符合 2Na + glucose/18 + BUN/2.8 的計算結果。\n- B. 310：錯誤。310 高估了本題數值，可能多加了鉀或換算錯誤。\n- C. 320：錯誤。320 也高於正確估算，與公式不符。\n- D. 330：錯誤。330 明顯過高，不符合鈉、葡萄糖與 BUN 代入結果。\n\n【核心考點】\nSerum osmolality ≈ 2Na + glucose/18 + BUN/2.8；本題為 300。",
+      "key_point": "本題血漿滲透壓估算為 300 mOsm/kg H2O。",
+      "flashcard_front": "血漿滲透壓 / 2Na + glucose/18 + BUN/2.8",
+      "flashcard_back": "本題血漿滲透壓估算為 300 mOsm/kg H2O。",
+      "flashcard_summary": "血漿滲透壓 / 2Na + glucose/18 + BUN/2.8 -> 本題血漿滲透壓估算為 300 mOsm/kg H2O。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nBartter syndrome 是亨利氏環上升厚支 thick ascending limb 的 NKCC2、ROMK、ClC-Kb 等異常，功能上類似 loop diuretic。Na-Cl cotransporter 位於遠曲小管，與 Gitelman syndrome 較相關。\n\n【選項詳解】\n- A. Na+-Cl - cotransporter：本題答案。Na+-Cl- cotransporter 位於遠曲小管，非 TAL 的主要 Bartter 致病通道；題目問最不可能，故選此項。\n- B. Na+-K+-2Cl - contrasporter(NKCC2)：非答案。NKCC2 是 TAL 管腔側重要轉運蛋白，Bartter 可由其缺陷造成。\n- C. ClC-Kb Cl- channels：非答案。ClC-Kb 氯離子通道異常可造成 Bartter syndrome。\n- D. ROMK K+channels：非答案。ROMK 參與 TAL 鉀回收與 NKCC2 運作，其缺陷也是 Bartter 機轉之一。\n\n【核心考點】\nBartter = TAL = NKCC2/ROMK/ClC-Kb；Gitelman = DCT = Na-Cl cotransporter。",
+      "key_point": "Na+-Cl- cotransporter 位於遠曲小管，最不符合 Bartter syndrome 的 TAL 機轉。",
+      "flashcard_front": "Bartter syndrome / TAL / NCC",
+      "flashcard_back": "Na+-Cl- cotransporter 位於遠曲小管，最不符合 Bartter syndrome 的 TAL 機轉。",
+      "flashcard_summary": "Bartter syndrome / TAL / NCC -> Na+-Cl- cotransporter 位於遠曲小管，最不符合 Bartter syndrome 的 TAL 機轉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n催產素促進排乳與子宮平滑肌收縮，分娩時有正回饋。黃體素通常維持妊娠、降低子宮興奮性，不會刺激催產素促進子宮收縮的作用。\n\n【選項詳解】\n- A. 催產素是造成排乳(milk ejection)作用的主要荷爾蒙：非答案。催產素使乳腺肌上皮細胞收縮，是排乳反射主要荷爾蒙，正確。\n- B. 在產後,催產素分泌作用可由嬰兒吸吮乳房所誘發：非答案。嬰兒吸吮乳房可刺激下視丘-後葉釋放催產素，正確。\n- C. 催產素促進子宮平滑肌收縮的作用,會被黃體素(progesterone)的作用所刺激：本題答案。黃體素通常抑制子宮收縮、維持妊娠，不會刺激催產素促收縮作用；題目問錯誤，故選此項。\n- D. 在分娩期間,催產素分泌調控屬於正向回饋調控機轉：非答案。分娩時子宮頸擴張促進催產素分泌，進一步增強收縮，屬正回饋。\n\n【核心考點】\nOxytocin 負責 milk ejection 與 uterine contraction；progesterone 通常維持子宮安定。",
+      "key_point": "黃體素不會刺激催產素促進子宮收縮的作用。",
+      "flashcard_front": "Oxytocin / milk ejection / progesterone",
+      "flashcard_back": "黃體素不會刺激催產素促進子宮收縮的作用。",
+      "flashcard_summary": "Oxytocin / milk ejection / progesterone -> 黃體素不會刺激催產素促進子宮收縮的作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n生長激素受體屬 cytokine receptor，活化需二聚合並啟動 JAK-STAT。GH 促進蛋白合成、抗胰島素作用使血糖上升；長期 GH 不足反而較可能低血糖或生長不良，不會造成血糖升高。\n\n【選項詳解】\n- A. 二聚合作用(dimerization)是活化其受體必要步驟：非答案。GH 受體二聚合是訊號活化的重要步驟，敘述正確。\n- B. 生長激素分泌過多,會增加身體蛋白質的合成作用：非答案。GH 過多會促進蛋白質合成與組織生長，敘述正確。\n- C. 使用體抑素(somatostatin)可以用來治療肢端肥大症(acromegaly)：非答案。體抑素類似物可抑制 GH 分泌，用於肢端肥大症治療，敘述正確。\n- D. 長期生長激素分泌不足,會造成血糖升高：本題答案。GH 具有升糖與抗胰島素作用；長期不足不會造成血糖升高，題目問錯誤故選此項。\n\n【核心考點】\nGH 過多會升糖、促生長；GH 不足不會造成高血糖。",
+      "key_point": "長期生長激素分泌不足不會造成血糖升高。",
+      "flashcard_front": "Growth hormone / JAK-STAT / acromegaly / glucose",
+      "flashcard_back": "長期生長激素分泌不足不會造成血糖升高。",
+      "flashcard_summary": "Growth hormone / JAK-STAT / acromegaly / glucose -> 長期生長激素分泌不足不會造成血糖升高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nSGLT 使用鈉離子電化學梯度進行次級主動運輸，主要在腸道與腎小管吸收葡萄糖。胰島素主要調控 GLUT4，不直接調控 SGLT。\n\n【選項詳解】\n- A. SGLT 運送葡萄糖進入細胞通常是經由促進性擴散(facilitated diffusion)作用：錯誤。SGLT 是 Na+-glucose cotransport，屬次級主動運輸，不是促進性擴散。\n- B. SGLT 主要分布在肝臟及脂肪組織：錯誤。肝臟與脂肪組織主要使用 GLUT 系列；SGLT 重要分布在腸道與腎近端小管。\n- C. 胰島素通常不直接調控SGLT 運送葡萄糖之作用：正確。胰島素主要調控 GLUT4 轉位，通常不直接調控 SGLT 運送葡萄糖，敘述最適當。\n- D. 給與第二型SGLT 抑制劑通常會導致血糖升高：錯誤。SGLT2 抑制劑增加尿糖排出，通常降低血糖，不會導致血糖升高。\n\n【核心考點】\nSGLT 是鈉依賴次級主動運輸；GLUT4 才是胰島素調控重點。",
+      "key_point": "胰島素通常不直接調控 SGLT 的葡萄糖運送。",
+      "flashcard_front": "SGLT / secondary active transport / insulin independent",
+      "flashcard_back": "胰島素通常不直接調控 SGLT 的葡萄糖運送。",
+      "flashcard_summary": "SGLT / secondary active transport / insulin independent -> 胰島素通常不直接調控 SGLT 的葡萄糖運送。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n酪胺酸衍生荷爾蒙包括 catecholamines 與 thyroid hormones，與壓力反應、新陳代謝、生長發育高度相關。生理時鐘主要與松果體 melatonin 相關，而 melatonin 由 tryptophan 衍生。\n\n【選項詳解】\n- A. 壓力反應：非答案。腎上腺素與正腎上腺素來自酪胺酸，和壓力反應密切相關。\n- B. 生理時鐘：本題答案。生理時鐘主要由褪黑激素調節，而褪黑激素由色胺酸衍生，與酪胺酸衍生荷爾蒙關聯最小。\n- C. 新陳代謝：非答案。甲狀腺素來自酪胺酸碘化，深度調控新陳代謝。\n- D. 生長發育：非答案。甲狀腺素對生長與神經發育重要，因此與酪胺酸衍生荷爾蒙有關。\n\n【核心考點】\nTyrosine-derived hormones 包含 catecholamines 和 thyroid hormones；melatonin 是 tryptophan-derived。",
+      "key_point": "生理時鐘與褪黑激素較相關，和酪胺酸衍生荷爾蒙關聯最小。",
+      "flashcard_front": "Tyrosine-derived hormones / melatonin exclusion",
+      "flashcard_back": "生理時鐘與褪黑激素較相關，和酪胺酸衍生荷爾蒙關聯最小。",
+      "flashcard_summary": "Tyrosine-derived hormones / melatonin exclusion -> 生理時鐘與褪黑激素較相關，和酪胺酸衍生荷爾蒙關聯最小。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

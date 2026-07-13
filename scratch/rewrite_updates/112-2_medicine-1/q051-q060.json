@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n切斷 optic chiasm 不影響兩眼表現，表示記憶不是靠視交叉單一路徑傳遞；切斷 corpus callosum 後未訓練側眼不能表現，表示兩側大腦皮質可各自存放或接收該制約記憶，左右半球間需靠胼胝體整合。\n\n【選項詳解】\n- A. 該制約的學習有偏重大腦皮質某一邊的功能側化現象(lateralization)：錯誤。結果強調跨半球傳遞與雙側可存放，不是單純某一側皮質功能側化。\n- B. 該制約記憶僅能存於左腦皮質：錯誤。若記憶僅存於左腦皮質，無法解釋正常情況左右眼皆能表現且需胼胝體傳遞。\n- C. 該制約記憶提取必須經由右腦皮質：錯誤。記憶提取不必然必須經右腦皮質；左眼受訓後左眼仍可表現。\n- D. 該制約記憶可存放於左腦及右腦皮質：正確。左右眼皆可表現但切斷胼胝體後右眼不能表現，最適合說明記憶可在左右皮質存放或經胼胝體轉移。\n\n【核心考點】\n此題重點不是 optic chiasm，而是 corpus callosum 對左右大腦皮質記憶表現的連結作用。",
+      "key_point": "該制約記憶可存放於左右大腦皮質，跨半球表現需胼胝體連結。",
+      "flashcard_front": "制約記憶 / corpus callosum / bilateral cortical storage",
+      "flashcard_back": "該制約記憶可存放於左右大腦皮質，跨半球表現需胼胝體連結。",
+      "flashcard_summary": "制約記憶 / corpus callosum / bilateral cortical storage -> 該制約記憶可存放於左右大腦皮質，跨半球表現需胼胝體連結。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n抑制性突觸後電位常由 Cl- 進入或 K+ 外流造成膜電位更負。甘胺酸受體是脊髓與腦幹常見的 ligand-gated chloride channel，開啟後造成 IPSP。\n\n【選項詳解】\n- A. AMPA 受體(AMPAreceptor)：錯誤。AMPA 受體主要讓 Na+ 內流造成快速 EPSP，屬興奮性麩胺酸受體。\n- B. NMDA 受體(NMDAreceptor)：錯誤。NMDA 受體也是興奮性麩胺酸受體，通透 Na+、K+ 與 Ca2+，不造成典型 IPSP。\n- C. 甘胺酸受體(glycinereceptor)：正確。甘胺酸受體開啟 Cl- 通道，使膜電位超極化或穩定，造成 IPSP。\n- D. 尼古丁受體(nicotinic receptor)：錯誤。尼古丁受體是陽離子通道，活化多造成去極化興奮。\n\n【核心考點】\nGlycine 和 GABA-A 都是 Cl- channel 型抑制性受體；AMPA/NMDA/nicotinic 多為興奮性陽離子通道。",
+      "key_point": "甘胺酸受體開啟氯離子通道，最可能造成 IPSP。",
+      "flashcard_front": "IPSP / glycine receptor / chloride channel",
+      "flashcard_back": "甘胺酸受體開啟氯離子通道，最可能造成 IPSP。",
+      "flashcard_summary": "IPSP / glycine receptor / chloride channel -> 甘胺酸受體開啟氯離子通道，最可能造成 IPSP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n血清素多存在於腸嗜鉻細胞與血小板等周邊組織；受體多為 GPCR，只有 5-HT3 是離子通道。SSRI 抑制血清素再攝取，是治療憂鬱症常用藥物。\n\n【選項詳解】\n- A. 人體血清素含量最多的部位的是大腦,其次是消化系統與血液：錯誤。人體血清素最多在消化道，血小板也含量高，不是大腦最多。\n- B. 人體血清素受體主要是離子通道型受體：錯誤。血清素受體大多是 G protein-coupled receptor，只有 5-HT3 是離子通道型。\n- C. 血清素神經元(serotonergic neurons)在睡覺時要比清醒時的活性來得高：錯誤。血清素神經元通常清醒時活性較高，睡眠時下降，REM 期更低。\n- D. 選擇性血清素再攝取抑制劑(selective serotonin reuptake inhibitors)臨床上可用來治療憂鬱症(depression)：正確。SSRI 可提高突觸間血清素作用，臨床用於憂鬱症等疾病，敘述正確。\n\n【核心考點】\nSerotonin 多在腸道；受體大多 GPCR；SSRI 是憂鬱症常用治療。",
+      "key_point": "選擇性血清素再攝取抑制劑可用於治療憂鬱症。",
+      "flashcard_front": "Serotonin / SSRI / depression",
+      "flashcard_back": "選擇性血清素再攝取抑制劑可用於治療憂鬱症。",
+      "flashcard_summary": "Serotonin / SSRI / depression -> 選擇性血清素再攝取抑制劑可用於治療憂鬱症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nFast pain 是尖銳、定位較準的疼痛，主要由有髓鞘 A-delta 纖維傳遞，傳導速度比 C fiber 快。\n\n【選項詳解】\n- A. 傳入纖維為具有髓鞘的C 纖維：錯誤。C 纖維通常無髓鞘，傳遞慢痛與灼痛，不是有髓鞘 fast pain 纖維。\n- B. 傳入神經纖維活化後,釋出的傳導物質通常為serotonin：錯誤。疼痛初級傳入常釋放 glutamate 或 substance P，不是通常釋放 serotonin。\n- C. 傳入纖維為具有髓鞘的A-delta 纖維：正確。A-delta 纖維有髓鞘、傳導較快，負責 fast pain，是正確答案。\n- D. 因傳導速度快,通常較slow pain 不能精確定位疼痛點：錯誤。Fast pain 因傳導快且定位較精確，選項說較 slow pain 不能精確定位是反向錯誤。\n\n【核心考點】\nFast pain = myelinated A-delta = sharp, well localized；slow pain = unmyelinated C fiber。",
+      "key_point": "Fast pain 主要由有髓鞘 A-delta 纖維傳遞。",
+      "flashcard_front": "fast pain / A-delta fiber / glutamate",
+      "flashcard_back": "Fast pain 主要由有髓鞘 A-delta 纖維傳遞。",
+      "flashcard_summary": "fast pain / A-delta fiber / glutamate -> Fast pain 主要由有髓鞘 A-delta 纖維傳遞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n題目問錯誤。骨骼肌與心肌有 T-tubule 與 DHPR 參與，但平滑肌沒有典型橫小管系統，鈣來源與調控方式也不同，因此不能說三種肌肉都需要動作電位傳入 T-tubule。\n\n【選項詳解】\n- A. 心肌、平滑肌與骨骼肌都需要動作電位傳入橫小管(transverse tubule, T-tubule),並活化電壓依賴性鈣離子通\n 道：本題答案。平滑肌沒有典型 T-tubule，且收縮可由多種訊號引發；把心肌、骨骼肌、平滑肌都說成需 T-tubule 是錯誤。\n- B. 橫小管(transverse tubule, T-tubule)膜上的電壓依賴性鈣離子通道,也稱為二氫吡啶受器(dihydropyridine\n receptor)：非答案。T-tubule 上的 L-type voltage-dependent Ca2+ channel 又稱 dihydropyridine receptor，敘述正確。\n- C. 骨骼肌橫小管(transverse tubule, T-tubule)膜上的鈣離子通道的活化,改變肌漿網膜的鈣離子通道之構型,而\n 釋出鈣離子：非答案。骨骼肌 DHPR 活化會機械性改變 RyR 構型，促使肌漿網釋放鈣，敘述正確。\n- D. 心肌橫小管(transverse tubule, T-tubule)膜上的鈣離子通道的活化,讓鈣離子流入,而促成肌漿網膜鈣離子通\n 道釋出鈣離子：非答案。心肌 L-type Ca2+ channel 讓鈣流入，引發 calcium-induced calcium release，敘述正確。\n\n【核心考點】\n骨骼肌：DHPR 機械偶合 RyR；心肌：Ca2+ influx 觸發 CICR；平滑肌沒有典型 T-tubule。",
+      "key_point": "平滑肌沒有典型橫小管，因此不是三種肌肉都需動作電位傳入 T-tubule。",
+      "flashcard_front": "興奮收縮偶合 / T-tubule / 平滑肌",
+      "flashcard_back": "平滑肌沒有典型橫小管，因此不是三種肌肉都需動作電位傳入 T-tubule。",
+      "flashcard_summary": "興奮收縮偶合 / T-tubule / 平滑肌 -> 平滑肌沒有典型橫小管，因此不是三種肌肉都需動作電位傳入 T-tubule。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nCO2 在血中以溶解、碳酸氫根，以及與血紅素胺基端形成 carbaminohemoglobin 運送。2,3-BPG 主要調節氧與血紅素親和力，選項所說增加 CO2 與 Fe2+ 結合並非主要機制。\n\n【選項詳解】\n- A. CO2溶解於血漿(plasma)中：非答案。部分 CO2 直接溶於血漿，屬正常運送形式之一。\n- B. CO2經碳酸酐酶(carbonic anhydrase)轉化成H2CO3：非答案。紅血球碳酸酐酶使 CO2 與水形成碳酸，再解離為 H+ 與 HCO3-，是主要運送機制。\n- C. 紅血球醣解作用產物2,3-biphosphoglycerate(2,3-BPG)減少,可增加CO2與Fe2+結合：本題答案。2,3-BPG 主要影響氧解離曲線，CO2 不是靠 Fe2+ 結合運送；此敘述與 CO2 運送最無關。\n- D. 紅血球之血紅素(hemoglobin)可結合CO2：非答案。CO2 可與血紅素蛋白的胺基端結合形成 carbaminohemoglobin，屬運送形式之一。\n\n【核心考點】\nCO2 運送以 bicarbonate 最多，其次 carbamino compounds 和溶解態；2,3-BPG 是氧親和力調節者。",
+      "key_point": "2,3-BPG 減少與 CO2 運送機制最無關。",
+      "flashcard_front": "CO2 transport / bicarbonate / carbaminohemoglobin / 2,3-BPG",
+      "flashcard_back": "2,3-BPG 減少與 CO2 運送機制最無關。",
+      "flashcard_summary": "CO2 transport / bicarbonate / carbaminohemoglobin / 2,3-BPG -> 2,3-BPG 減少與 CO2 運送機制最無關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n題目問心臟調控何者錯誤。竇房結自發去極化受 funny current 的 Na+ 內流、Ca2+ 通道與 K+ 外流共同影響，因此說與 Na+ 無關是錯誤。\n\n【選項詳解】\n- A. SA node 同時接受交感神經與副交感神經之調控：非答案。SA node 同時受交感與副交感調控，以改變心率，敘述正確。\n- B. AV node 同時接受交感神經與副交感神經之調控：非答案。AV node 也受交感與副交感調控，以改變傳導速度，敘述正確。\n- C. 強力刺激迷走神經,可減慢心跳速率,並且降低心肌的收縮能力：非答案。強迷走刺激可減慢心率，並可降低心房收縮力；整體迷走對心室收縮力影響較小，但此項不如 D 明確錯誤。\n- D. SA node 的膜電位是由鈣離子與鉀離子調控,與鈉離子無關：本題答案。SA node 第四期去極化包含 funny Na+ current，並非與鈉離子無關；題目問錯誤，故選此項。\n\n【核心考點】\nSA node pacemaker potential 重要離子包括 funny Na+ current、T/L-type Ca2+ 與 K+ conductance 改變。",
+      "key_point": "竇房結膜電位調控與 funny Na+ current 有關，不能說與鈉離子無關。",
+      "flashcard_front": "SA node / funny current / Na+",
+      "flashcard_back": "竇房結膜電位調控與 funny Na+ current 有關，不能說與鈉離子無關。",
+      "flashcard_summary": "SA node / funny current / Na+ -> 竇房結膜電位調控與 funny Na+ current 有關，不能說與鈉離子無關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n第二心音來自主動脈瓣與肺動脈瓣關閉，標誌心室收縮期結束、舒張期開始。因此在正常心臟收縮期中不會聽到第二心音作為收縮期內事件。\n\n【選項詳解】\n- A. 心電圖出現T 波：非答案。T 波代表心室再極化，發生在收縮後段附近，可與機械收縮期重疊。\n- B. 聽見第二心音：本題答案。第二心音是半月瓣關閉、收縮期結束的聲音，嚴格說不屬於收縮期中發生的現象。\n- C. 主動脈壓力達到最高：非答案。主動脈壓在心室射血期達高峰，屬收縮期現象。\n- D. 肺動脈壓力達到最高：非答案。肺動脈壓也在右心室射血期上升達高峰，屬收縮期現象。\n\n【核心考點】\nS1 開始心室收縮期；S2 結束心室收縮期並開始舒張期。",
+      "key_point": "第二心音代表半月瓣關閉，標誌心室收縮期結束。",
+      "flashcard_front": "心臟收縮期 / S2 / semilunar valve closure",
+      "flashcard_back": "第二心音代表半月瓣關閉，標誌心室收縮期結束。",
+      "flashcard_summary": "心臟收縮期 / S2 / semilunar valve closure -> 第二心音代表半月瓣關閉，標誌心室收縮期結束。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n長時間費力運動時，心率與心搏量上升，使心輸出量明顯增加；骨骼肌血管擴張使總周邊阻力下降或不會顯著上升。\n\n【選項詳解】\n- A. 一個健康成人執行費力長時間運動時,他的心輸出量會顯著增加：正確。健康成人費力運動時心輸出量可大幅增加，以供應肌肉氧需求，敘述正確。\n- B. 一個健康成人執行費力長時間運動時,他的整體周邊血管阻力(total peripheral resistance)會顯著增加：錯誤。運動時骨骼肌血管擴張，總周邊阻力通常下降，不是顯著增加。\n- C. 一個健康成人執行費力長時間運動時,他的組織耗氧量會增加數倍,原因是心搏量(stroke volume)也以倍\n 數增加：錯誤。耗氧量增加數倍主要靠心輸出量與氧萃取增加，不是心搏量單獨以倍數增加即可解釋。\n- D. 一個健康成人在步入中老年以後,心輸出量通常隨著年齡增加而緩慢增加：錯誤。老化通常使最大心輸出量下降，不會隨年齡緩慢增加。\n\n【核心考點】\nExercise increases cardiac output and oxygen extraction; TPR tends to fall because skeletal muscle vasodilation dominates。",
+      "key_point": "費力長時間運動會使心輸出量顯著增加。",
+      "flashcard_front": "運動 / cardiac output / total peripheral resistance",
+      "flashcard_back": "費力長時間運動會使心輸出量顯著增加。",
+      "flashcard_summary": "運動 / cardiac output / total peripheral resistance -> 費力長時間運動會使心輸出量顯著增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n淨過濾壓可用 (毛細血管靜水壓 + 組織膠體滲透壓) - (組織靜水壓 + 血漿膠體滲透壓) 計算。本題為 (15+3)-(0+28) = -10 mmHg，負值表示液體傾向回到微血管。\n\n【選項詳解】\n- A. -16 毫米汞柱,液體流向傾向流入微血管：錯誤。-16 mmHg 方向雖是流入微血管，但數值計算錯誤。\n- B. -10 毫米汞柱,液體流向傾向流入微血管：正確。-10 mmHg 且液體傾向流入微血管，符合 Starling forces 計算。\n- C. 40 毫米汞柱,液體流向傾向流出微血管：錯誤。40 mmHg 為正值且流出，未正確扣除血漿膠體滲透壓。\n- D. 46 毫米汞柱,液體流向傾向流出微血管：錯誤。46 mmHg 更明顯錯估各壓力方向，與公式不符。\n\n【核心考點】\nNFP = Pc + πi - Pi - πc；正值過濾、負值回吸收。",
+      "key_point": "本題淨過濾壓為 -10 mmHg，液體傾向流入微血管。",
+      "flashcard_front": "Starling forces / net filtration pressure",
+      "flashcard_back": "本題淨過濾壓為 -10 mmHg，液體傾向流入微血管。",
+      "flashcard_summary": "Starling forces / net filtration pressure -> 本題淨過濾壓為 -10 mmHg，液體傾向流入微血管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

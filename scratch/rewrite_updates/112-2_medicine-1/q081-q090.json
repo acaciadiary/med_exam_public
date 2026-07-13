@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-1.json",
+  "dataset_id": "112-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\nPCR 需要模板 DNA、primers、耐熱 DNA polymerase、dNTPs、Mg2+ 與緩衝液。DNA 合成能量來自 dNTP 本身的三磷酸鍵，不需額外 ATP。\n\n【選項詳解】\n- A. DNA 聚合酶(DNA polymerase)：非答案。PCR 需要 DNA polymerase 進行延伸，通常使用耐熱聚合酶。\n- B. ATP：本題答案。PCR 通常不需加入 ATP，因為聚合反應使用 dNTP 作為原料與能量來源。\n- C. 脫氧核糖核苷三磷酸(dNTPs)：非答案。dNTPs 是新 DNA 鏈合成的四種原料，必須加入。\n- D. 鎂離子(Mg2+)：非答案。Mg2+ 是 DNA polymerase 活性所需輔因子，通常必須加入。\n\n【核心考點】\nPCR needs template, primers, thermostable polymerase, dNTPs, Mg2+；not ATP。",
+      "key_point": "PCR 通常不需要額外加入 ATP。",
+      "flashcard_front": "PCR components / ATP not required",
+      "flashcard_back": "PCR 通常不需要額外加入 ATP。",
+      "flashcard_summary": "PCR components / ATP not required -> PCR 通常不需要額外加入 ATP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n遺傳性非息肉症大腸直腸癌又稱 Lynch syndrome，典型由 DNA mismatch repair genes 如 MLH1、MSH2、MSH6、PMS2 缺陷造成，導致 microsatellite instability。\n\n【選項詳解】\n- A. 核苷酸切除修復(nucleotide excision repair)：錯誤。核苷酸切除修復缺陷典型與 xeroderma pigmentosum 相關，不是 HNPCC 主因。\n- B. 鹼基切除修復(base excision repair)：錯誤。鹼基切除修復處理小型鹼基損傷，非 HNPCC 典型核心。\n- C. 重組修復(recombinational repair)：錯誤。重組修復缺陷可見於 BRCA 相關腫瘤風險，不是 HNPCC 主要機轉。\n- D. 核酸錯誤配對修復(mismatch repair)：正確。Mismatch repair 缺陷造成 Lynch syndrome/HNPCC，是本題正確答案。\n\n【核心考點】\nHNPCC/Lynch syndrome = mismatch repair defect = microsatellite instability。",
+      "key_point": "HNPCC 主要是 DNA 錯誤配對修復缺陷。",
+      "flashcard_front": "HNPCC / Lynch syndrome / mismatch repair",
+      "flashcard_back": "HNPCC 主要是 DNA 錯誤配對修復缺陷。",
+      "flashcard_summary": "HNPCC / Lynch syndrome / mismatch repair -> HNPCC 主要是 DNA 錯誤配對修復缺陷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nAUG 是起始密碼子。真核蛋白質合成起始胺基酸是 methionine；細菌起始使用 N-formylmethionine。\n\n【選項詳解】\n- A. 在真核和細菌中均為methionine：錯誤。細菌起始胺基酸不是一般 methionine，而是 N-formylmethionine。\n- B. 在真核和細菌中均為N-formylmethionine：錯誤。真核起始不是 N-formylmethionine，而是 methionine。\n- C. 在真核細胞中為methionine;而細菌中為N-formylmethionine：正確。真核為 methionine，細菌為 N-formylmethionine，敘述正確。\n- D. 在真核細胞中為N-formylmethionine;而細菌中為methionine：錯誤。此選項把真核與細菌起始胺基酸顛倒了。\n\n【核心考點】\nStart codon AUG：eukaryote starts with Met；bacteria starts with fMet。",
+      "key_point": "真核起始胺基酸為 methionine，細菌為 N-formylmethionine。",
+      "flashcard_front": "Initiation codon / methionine / N-formylmethionine",
+      "flashcard_back": "真核起始胺基酸為 methionine，細菌為 N-formylmethionine。",
+      "flashcard_summary": "Initiation codon / methionine / N-formylmethionine -> 真核起始胺基酸為 methionine，細菌為 N-formylmethionine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n組織蛋白富含 lysine、arginine 等鹼性胺基酸，帶正電，可和帶負電的 DNA 磷酸骨架結合，形成 nucleosome。\n\n【選項詳解】\n- A. 富含酸性胺基酸並與DNA 結合：錯誤。Histones 不是富含酸性胺基酸；酸性會較不利於結合 DNA 負電骨架。\n- B. 富含酸性胺基酸並與RNA 結合：錯誤。Histones 主要包裝 DNA，不是以 RNA 為主要結合對象。\n- C. 富含鹼性胺基酸並與DNA 結合：正確。Histones 富含鹼性胺基酸並與 DNA 結合，敘述正確。\n- D. 富含鹼性胺基酸並與RNA 結合：錯誤。雖富含鹼性胺基酸，但主要功能是與 DNA 結合，不是 RNA。\n\n【核心考點】\nHistones are basic proteins rich in lysine and arginine that bind negatively charged DNA。",
+      "key_point": "組織蛋白富含鹼性胺基酸並與 DNA 結合。",
+      "flashcard_front": "Histones / basic amino acids / DNA",
+      "flashcard_back": "組織蛋白富含鹼性胺基酸並與 DNA 結合。",
+      "flashcard_summary": "Histones / basic amino acids / DNA -> 組織蛋白富含鹼性胺基酸並與 DNA 結合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n真核 mRNA 5' cap 是 7-methylguanosine 透過不尋常的 5'-to-5' triphosphate linkage 接到 mRNA 5' 端，有助穩定、輸出與轉譯起始。\n\n【選項詳解】\n- A. 7-methylguanosine 以5'-to-3'diphosphate linkage 方式結合至mRNA：錯誤。鍵結不是 5'-to-3' diphosphate，而是 5'-to-5' triphosphate。\n- B. 7-methylguanosine 以5'-to-5'triphosphatelinkage 方式結合至mRNA：正確。7-methylguanosine 以 5'-to-5' triphosphate linkage 接到 mRNA，是正確敘述。\n- C. N6-methyladenosine 以5'-to-5'triphosphatelinkage 方式結合至mRNA：錯誤。5' cap 的鹼基是 7-methylguanosine，不是 N6-methyladenosine。\n- D. O6-methylguanosine 以5'-to-3'diphosphatelinkage 方式結合至mRNA：錯誤。O6-methylguanosine 與 5'-to-3' diphosphate linkage 都不是標準 mRNA cap。\n\n【核心考點】\nEukaryotic 5' cap = 7-methylguanosine linked 5' to 5' via triphosphate bridge。",
+      "key_point": "真核 mRNA 5' cap 是 7-methylguanosine 以 5'-to-5' triphosphate linkage 連接。",
+      "flashcard_front": "mRNA 5' cap / 7-methylguanosine / 5'-5' triphosphate",
+      "flashcard_back": "真核 mRNA 5' cap 是 7-methylguanosine 以 5'-to-5' triphosphate linkage 連接。",
+      "flashcard_summary": "mRNA 5' cap / 7-methylguanosine / 5'-5' triphosphate -> 真核 mRNA 5' cap 是 7-methylguanosine 以 5'-to-5' triphosphate linkage 連接。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\nAttenuation 是細菌 trp operon 依細胞內 tryptophan 多寡，透過 leader peptide translation 速度影響 mRNA secondary structure，進而微調轉錄是否提前終止。\n\n【選項詳解】\n- A. 當色胺酸(tryptophan)存在時,可增進trpoperon 的轉錄表現：錯誤。色胺酸存在時通常抑制 trp operon 表現，不是增進轉錄表現。\n- B. 可調節此operon 的轉錄表現,以因應細胞中微量色胺酸(tryptophan)的改變：正確。Attenuation 可因應細胞內微量 tryptophan 改變，調節 operon 轉錄表現，最符合定義。\n- C. 可直接抑制trpmRNA 轉譯作用的機制：錯誤。Attenuation 的直接效果是影響轉錄提前終止，不是直接抑制 trp mRNA 轉譯。\n- D. 作用在trpoperon 內每一個基因個別的啟動子(promoter)上：錯誤。它作用於 leader/attenuator 區域，不是在 operon 每個基因各自 promoter 上。\n\n【核心考點】\ntrp attenuation couples translation of leader peptide to transcription termination, fine-tuning low tryptophan changes。",
+      "key_point": "trp operon attenuation 可因應細胞中 tryptophan 微量變化調節轉錄。",
+      "flashcard_front": "trp operon attenuation / tryptophan fine tuning",
+      "flashcard_back": "trp operon attenuation 可因應細胞中 tryptophan 微量變化調節轉錄。",
+      "flashcard_summary": "trp operon attenuation / tryptophan fine tuning -> trp operon attenuation 可因應細胞中 tryptophan 微量變化調節轉錄。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\nSuccinate dehydrogenase 位於粒線體內膜，既是 TCA cycle 將 succinate 氧化成 fumarate 的酵素，也是電子傳遞鏈 complex II。\n\n【選項詳解】\n- A. Succinate dehydrogenase：正確。Succinate dehydrogenase 同時屬於 TCA cycle 與 ETC complex II，位於內膜，正確。\n- B. Succinyl-CoA synthetase：錯誤。Succinyl-CoA synthetase 是 TCA 中 substrate-level phosphorylation 酵素，不是 ETC 複合體。\n- C. Malate dehydrogenase：錯誤。Malate dehydrogenase 參與 TCA，但不是電子傳遞鏈複合體。\n- D. Isocitrate dehydrogenase：錯誤。Isocitrate dehydrogenase 參與 TCA 產生 NADH/CO2，但不位於 ETC 複合體中。\n\n【核心考點】\nComplex II = succinate dehydrogenase，是 TCA 與 ETC 的交會點。",
+      "key_point": "Succinate dehydrogenase 同時參與 TCA cycle 與電子傳遞鏈 complex II。",
+      "flashcard_front": "Succinate dehydrogenase / Complex II / TCA and ETC",
+      "flashcard_back": "Succinate dehydrogenase 同時參與 TCA cycle 與電子傳遞鏈 complex II。",
+      "flashcard_summary": "Succinate dehydrogenase / Complex II / TCA and ETC -> Succinate dehydrogenase 同時參與 TCA cycle 與電子傳遞鏈 complex II。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n葡萄糖新生不是糖解完全逆轉，需繞過不可逆步驟。由 pyruvate 到 glucose 需要 pyruvate carboxylase、PEPCK 等，消耗 ATP 與 GTP，且反應分布在粒線體、細胞質與內質網。\n\n【選項詳解】\n- A. 葡萄糖新生全部的反應都發生在細胞質：錯誤。葡萄糖新生部分步驟在粒線體與內質網，不是全部在細胞質。\n- B. 葡萄糖新生將pyruvate 轉化成葡萄糖需要消耗ATP 及GTP：正確。Pyruvate 轉成 glucose 需消耗 ATP 與 GTP，敘述正確。\n- C. 葡萄糖新生過程中所參與的酵素與糖解作用(glycolysis)完全相同,只是反應方向相反：錯誤。糖解不可逆步驟需由不同酵素繞過，不是完全相同酵素反向。\n- D. Phosphoenolpyruvate carboxykinase(PEPCK)的功能是將phosphoenolpyruvate 轉化成oxaloacetate：錯誤。PEPCK 是將 oxaloacetate 轉成 phosphoenolpyruvate，不是反向。\n\n【核心考點】\nGluconeogenesis costs energy: 4 ATP + 2 GTP + 2 NADH per glucose from pyruvate。",
+      "key_point": "葡萄糖新生由 pyruvate 形成 glucose 需要消耗 ATP 與 GTP。",
+      "flashcard_front": "Gluconeogenesis / ATP and GTP / PEPCK",
+      "flashcard_back": "葡萄糖新生由 pyruvate 形成 glucose 需要消耗 ATP 與 GTP。",
+      "flashcard_summary": "Gluconeogenesis / ATP and GTP / PEPCK -> 葡萄糖新生由 pyruvate 形成 glucose 需要消耗 ATP 與 GTP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n糖解作用主要調控步驟是 hexokinase/glucokinase、PFK-1、pyruvate kinase。Enolase 雖參與糖解，但不是主要速率調控酵素。\n\n【選項詳解】\n- A. 己糖激酶(hexokinase)：非答案。己糖激酶催化葡萄糖磷酸化，是糖解調控點之一。\n- B. 磷酸果糖激酶(phosphofructokinase)：非答案。磷酸果糖激酶 PFK-1 是糖解最重要限速酵素。\n- C. 烯醇化酶(enolase)：本題答案。烯醇化酶催化 2-phosphoglycerate 到 PEP，但不是主要速率調控者；題目問並非主要，故選此項。\n- D. 丙酮酸激酶(pyruvate kinase)：非答案。丙酮酸激酶催化最後不可逆步驟，是糖解調控點之一。\n\n【核心考點】\nGlycolysis key regulatory enzymes: hexokinase/glucokinase, PFK-1, pyruvate kinase。",
+      "key_point": "Enolase 不是糖解作用速率的主要調控酵素。",
+      "flashcard_front": "Glycolysis regulation / enolase",
+      "flashcard_back": "Enolase 不是糖解作用速率的主要調控酵素。",
+      "flashcard_summary": "Glycolysis regulation / enolase -> Enolase 不是糖解作用速率的主要調控酵素。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\nAcetyl-CoA carboxylase 受檸檬酸與胰島素活化，受 AMPK 磷酸化抑制。Coenzyme A 本身不是 ACC 活性的主要調控者。\n\n【選項詳解】\n- A. 胰島素(insulin)：非答案。胰島素促進去磷酸化並活化 ACC，有利脂肪酸合成。\n- B. 輔酶A(coenzyme A)：本題答案。Coenzyme A 不是 ACC 的主要活性調控因子；題目問最不受調控，故選此項。\n- C. 檸檬酸(citrate)：非答案。檸檬酸是能量充足訊號，可促進 ACC 聚合與活化。\n- D. AMP-activated protein kinase(AMPK)：非答案。AMPK 在能量不足時磷酸化並抑制 ACC，減少脂肪酸合成。\n\n【核心考點】\nACC activated by citrate/insulin, inhibited by AMPK and palmitoyl-CoA。",
+      "key_point": "輔酶 A 不是 acetyl-CoA carboxylase 的主要調控因子。",
+      "flashcard_front": "Acetyl-CoA carboxylase / citrate / insulin / AMPK",
+      "flashcard_back": "輔酶 A 不是 acetyl-CoA carboxylase 的主要調控因子。",
+      "flashcard_summary": "Acetyl-CoA carboxylase / citrate / insulin / AMPK -> 輔酶 A 不是 acetyl-CoA carboxylase 的主要調控因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-6.json",
+  "dataset_id": "110-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問「不能作為正壓呼吸工具」的例外。正壓呼吸需要能與病人氣道形成足夠密閉並推送氣體的裝置；氣管內管、喉頭罩與麻醉面罩都可用於通氣，Venturi mask 主要是控制吸入氧濃度的開放式給氧面罩。\n\n【選項詳解】\n- A. 凡德里面罩可提供固定 FiO2，但不是密閉通氣迴路，不能有效建立正壓呼吸，因此是本題例外。\n- B. 喉頭罩可覆蓋喉入口並連接呼吸囊或呼吸器，可進行正壓通氣，所以不是例外。\n- C. 氣管內管直接建立人工氣道，是正壓通氣最典型的工具。\n- D. 麻醉面罩若密合於臉部，可連接呼吸囊進行面罩正壓通氣。\n\n【核心考點】\n正壓呼吸看的是「能否形成通氣密閉系統」；Venturi mask 是氧療工具，不是正壓通氣工具。",
+      "key_point": "Venturi mask 是固定氧濃度給氧工具，不能建立正壓呼吸所需的密閉氣道。",
+      "flashcard_front": "Venturi mask 是固定氧濃度給氧工具",
+      "flashcard_back": "正壓呼吸看的是「能否形成通氣密閉系統」；Venturi mask 是氧療工具，不是正壓通氣工具。",
+      "flashcard_summary": "Venturi mask 是固定氧濃度給氧工具，不能建立正壓呼吸所需的密閉氣道。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目比較術後 AKI 相關腎功能監測。肌酸酐受產生量與分布容積影響，常在 GFR 已下降後才上升；直接或估算 GFR 的變化較能反映腎功能。\n\n【選項詳解】\n- A. 少尿可提示腎灌流或腎功能問題，不能說術後少尿完全正常且不影響腎功能。\n- B. GFR 下降比血漿肌酸酐上升更早、更直接反映腎功能變化，因此為正確敘述。\n- C. 肌酸酐上升通常與 GFR 下降相關，說兩者無關是錯誤。\n- D. NGAL 是 AKI 早期 biomarker，常可在損傷後數小時上升，不是只能等到術後 24 小時內才測得。\n\n【核心考點】\n術後 AKI 的重點是早期偵測：GFR、尿量與早期 biomarker 都可提供線索；肌酸酐常是較慢的指標。",
+      "key_point": "AKI 早期監測以 GFR 變化較肌酸酐更敏感；肌酸酐常延遲反映腎功能下降。",
+      "flashcard_front": "AKI 早期監測以 GFR 變化較肌酸酐更敏感；肌酸酐常延遲反映腎功能下降。",
+      "flashcard_back": "術後 AKI 的重點是早期偵測：GFR、尿量與早期 biomarker 都可提供線索；肌酸酐常是較慢的指標。",
+      "flashcard_summary": "AKI 早期監測以 GFR 變化較肌酸酐更敏感；肌酸酐常延遲反映腎功能下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題考麻醉深度監測。BIS、entropy 等是由 EEG 訊號分析而來，可作為鎮靜程度與麻醉深度的輔助監測，但不能單獨取代完整臨床判斷。\n\n【選項詳解】\n- A. 腦血氧監測反映腦氧合，並非麻醉深度本身的良好直接指標。\n- B. EEG-derived monitoring 可降低術中 awareness 風險的判斷輔助，說完全無助並不正確。\n- C. EEG 分析能協助評估鎮靜程度與全身麻醉深度，是本題正確答案。\n- D. BIS 過低代表麻醉過深，可能與不良預後相關，不能說越低後遺症越少。\n\n【核心考點】\n麻醉深度監測常用 EEG-derived index 作為輔助；看 BIS/entropy 時仍要合併生命徵象、藥量與病人狀況。",
+      "key_point": "EEG-derived monitoring 可輔助評估鎮靜與全身麻醉深度。",
+      "flashcard_front": "EEG-derived monitoring 可輔助評估鎮靜與全身麻醉深度。",
+      "flashcard_back": "麻醉深度監測常用 EEG-derived index 作為輔助；看 BIS/entropy 時仍要合併生命徵象、藥量與病人狀況。",
+      "flashcard_summary": "EEG-derived monitoring 可輔助評估鎮靜與全身麻醉深度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目問吸入性麻醉劑的錯誤敘述。Sevoflurane 與 desflurane 屬 fluorinated ether；desflurane 低溶解度使甦醒快，乾燥 CO2 absorber 可使 desflurane 產生 CO、sevoflurane 產生 compound A。\n\n【選項詳解】\n- A. Desflurane 血氣分配係數低，麻醉深度改變與甦醒都較快，敘述正確。\n- B. 兩者是氟化醚而非氯化物，這一句錯誤，所以為本題答案。\n- C. 乾燥二氧化碳吸收劑可使 desflurane 降解產生一氧化碳，敘述正確。\n- D. Sevoflurane 可與乾燥吸收劑反應產生 compound A，敘述正確。\n\n【核心考點】\n吸入麻醉劑常考三件事：血氣分配係數、化學分類、乾燥 CO2 absorber 的降解副產物。",
+      "key_point": "Sevoflurane 與 desflurane 是氟化醚，不是氯化物。",
+      "flashcard_front": "Sevoflurane 與 desflurane 是氟化醚",
+      "flashcard_back": "吸入麻醉劑常考三件事：血氣分配係數、化學分類、乾燥 CO2 absorber 的降解副產物。",
+      "flashcard_summary": "Sevoflurane 與 desflurane 是氟化醚，不是氯化物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目問「不是」局部麻醉劑造成的中樞神經症狀。LAST 早期常見口周麻木、舌頭感覺異常、眩暈、耳鳴、金屬味與躁動，嚴重時可抽搐與昏迷。\n\n【選項詳解】\n- A. 口周麻木是局部麻醉劑全身毒性的典型早期中樞症狀。\n- B. 舌頭感覺異常也是典型早期神經症狀。\n- C. 眩暈可出現在中樞神經毒性早期。\n- D. 幻覺不是 LAST 最典型的早期中樞神經表現，因此最符合題目「不是」。\n\n【核心考點】\nLAST 先記早期警訊：口周麻木、舌麻、耳鳴、金屬味、眩暈；之後才可能進展到抽搐、心律不整與循環崩潰。",
+      "key_point": "局部麻醉劑全身毒性早期中樞症狀以口周麻木、舌麻、眩暈、耳鳴等較典型；幻覺不是典型早期表現。",
+      "flashcard_front": "局部麻醉劑全身毒性早期中樞症狀以口周麻木、舌麻、眩暈、耳鳴等較典型；幻覺不是典型早期表現。",
+      "flashcard_back": "LAST 先記早期警訊：口周麻木、舌麻、耳鳴、金屬味、眩暈；之後才可能進展到抽搐、心律不整與循環崩潰。",
+      "flashcard_summary": "局部麻醉劑全身毒性早期中樞症狀以口周麻木、舌麻、眩暈、耳鳴等較典型；幻覺不是典型早期表現。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n硬脊膜外麻醉定位靠「阻力突然消失」。針尖通過皮膚、棘上韌帶、棘間韌帶後，穿過黃韌帶進入硬膜外腔；硬膜外腔阻力較低，因此出現 LOR。\n\n【選項詳解】\n- A. 豎脊肌位於較表層與旁側，不是 LOR 出現的關鍵最後結構。\n- B. 棘間韌帶在黃韌帶之前，通過它後仍未進入硬膜外腔。\n- C. 黃韌帶是進入硬膜外腔前的關鍵結構，穿過後出現 LOR，故為正確答案。\n- D. 硬脊膜位於硬膜外腔深側；若穿破硬脊膜就可能進入蛛網膜下腔，不是硬膜外定位目標。\n\n【核心考點】\n硬膜外麻醉的層次記法：皮膚、棘上韌帶、棘間韌帶、黃韌帶、硬膜外腔；LOR 發生在穿過黃韌帶之後。",
+      "key_point": "硬膜外針穿過黃韌帶後進入硬膜外腔，會出現 loss of resistance。",
+      "flashcard_front": "硬膜外針穿過黃韌帶後進入硬膜外腔",
+      "flashcard_back": "硬膜外麻醉的層次記法：皮膚、棘上韌帶、棘間韌帶、黃韌帶、硬膜外腔；LOR 發生在穿過黃韌帶之後。",
+      "flashcard_summary": "硬膜外針穿過黃韌帶後進入硬膜外腔，會出現 loss of resistance。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問顱內血腫急診手術麻醉的錯誤敘述。原則是維持腦灌流、避免顱內壓上升、避免低血壓與缺氧；傳統考點會避開可能增加腦血流或 ICP 的藥物。\n\n【選項詳解】\n- A. 避免腦血管舒張藥物可降低 ICP 上升風險，敘述合理。\n- B. Ketamine 傳統上被認為可能增加腦血流與 ICP，不是顱內血腫的理想誘導選擇，因此為錯誤敘述。\n- C. 若術後需插管轉 ICU，以 opioid-based 麻醉合併肌鬆維持可控制壓力反應與通氣，敘述合理。\n- D. CPP 小於 60 mmHg 可能造成腦灌流不足與再傷害，敘述正確。\n\n【核心考點】\n神經麻醉核心是「降 ICP、保 CPP、避免缺氧與低血壓」；官方題目採傳統 ketamine 不宜用於高 ICP 的邏輯。",
+      "key_point": "顱內血腫急診麻醉須避免升高 ICP；ketamine 傳統上不是理想誘導藥。",
+      "flashcard_front": "顱內血腫急診麻醉須避免升高 ICP；ketamine 傳統上不是理想誘導藥。",
+      "flashcard_back": "神經麻醉核心是「降 ICP、保 CPP、避免缺氧與低血壓」；官方題目採傳統 ketamine 不宜用於高 ICP 的邏輯。",
+      "flashcard_summary": "顱內血腫急診麻醉須避免升高 ICP；ketamine 傳統上不是理想誘導藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n傳統 open thoracotomy 疼痛強烈，良好止痛可改善咳嗽、深呼吸與肺部併發症。胸段硬膜外止痛可涵蓋切口與胸壁疼痛，常優於單純全身性止痛。\n\n【選項詳解】\n- A. 硬膜外止痛能提供區域性、連續且效果佳的術後止痛，是本題最佳答案。\n- B. IVPCA 可止痛，但全身 opioid 副作用較多，對開胸切口動態疼痛通常不如硬膜外。\n- C. 腋下神經叢阻斷主要涵蓋上肢，無法充分處理開胸與肋間疼痛。\n- D. 口服 NSAID 可作輔助，但不足以作為全肺切除開胸後最佳止痛方式。\n\n【核心考點】\n大型開胸術後止痛優先想到 thoracic epidural analgesia；它能改善呼吸復健與疼痛控制。",
+      "key_point": "開胸手術後止痛以胸段硬膜外止痛通常效果最佳。",
+      "flashcard_front": "開胸手術後止痛以胸段硬膜外止痛通常效果最佳。",
+      "flashcard_back": "大型開胸術後止痛優先想到 thoracic epidural analgesia；它能改善呼吸復健與疼痛控制。",
+      "flashcard_summary": "開胸手術後止痛以胸段硬膜外止痛通常效果最佳。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問營養支持併發症的錯誤敘述。重症營養支持可能造成腹瀉、逆流、靜脈炎、血糖變化與導管相關感染；營養量改變時均需重新評估胰島素與低血糖風險。\n\n【選項詳解】\n- A. 腸道營養可引起腹瀉，也可能增加胃殘留、胃脹與逆流風險，敘述正確。\n- B. 周邊靜脈營養因滲透壓與靜脈刺激，會增加靜脈炎風險，敘述正確。\n- C. 全靜脈營養減量需監測血糖；腸道營養減量同樣可能影響胰島素需求，說不需注意是錯誤。\n- D. 接受靜脈營養者若敗血症，要考慮周邊或中央導管造成 bloodstream infection，敘述正確。\n\n【核心考點】\n營養支持考題常把「路徑併發症」與「代謝併發症」混在一起；任何熱量輸入改變都要重估血糖與胰島素。",
+      "key_point": "不論 TPN 或 EN 減量，都需注意血糖與胰島素調整；不能說 EN 減量不需監測。",
+      "flashcard_front": "不論 TPN 或 EN 減量",
+      "flashcard_back": "營養支持考題常把「路徑併發症」與「代謝併發症」混在一起；任何熱量輸入改變都要重估血糖與胰島素。",
+      "flashcard_summary": "不論 TPN 或 EN 減量，都需注意血糖與胰島素調整；不能說 EN 減量不需監測。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\nVogt-Koyanagi-Harada disease 是自體免疫性黑色素細胞相關疾病。早期常見雙側葡萄膜炎、視力下降、頭痛/腦膜刺激、CSF pleocytosis 與聽覺症狀；白斑、白髮、脫髮常較晚出現。\n\n【選項詳解】\n- A. 視力減退是早期眼部發炎常見表現。\n- B. 聽力減退或耳鳴可在早期伴隨出現。\n- C. 皮膚白斑多屬較晚期皮膚表現，疾病初期最不可能看到，因此為答案。\n- D. CSF 單核白血球增多可出現在早期腦膜炎樣階段。\n\n【核心考點】\nVKH 分期重點：早期眼部與腦膜耳症狀，晚期才常見皮膚毛髮去色素變化。",
+      "key_point": "VKH 初期以眼部與腦膜/聽覺表現為主，皮膚白斑多屬晚期或恢復期表現。",
+      "flashcard_front": "VKH 初期以眼部與腦膜/聽覺表現為主",
+      "flashcard_back": "VKH 分期重點：早期眼部與腦膜耳症狀，晚期才常見皮膚毛髮去色素變化。",
+      "flashcard_summary": "VKH 初期以眼部與腦膜/聽覺表現為主，皮膚白斑多屬晚期或恢復期表現。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T20:10:17+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
