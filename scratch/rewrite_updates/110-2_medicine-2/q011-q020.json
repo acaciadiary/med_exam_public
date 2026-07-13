@@ -1,0 +1,139 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": { "start": 11, "end": 20 },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題詢問最易引發新生兒先天性白內障的病毒。孕婦在懷孕早期若感染德國麻疹病毒（Rubella virus），病毒會通過胎盤垂直傳染給胎兒，導致嚴重的先天性畸形，即先天性德國麻疹症候群（Congenital Rubella Syndrome, CRS）。\n\n【選項詳解】\n- A. 錯誤。新生兒感染單純疱疹病毒（HSV）多是在分娩過程中經產道接觸受感染的分泌物所致（以 HSV-2 為主），主要表現為皮膚皰疹、腦炎或全身性瀰漫性感染，並非以先天性白內障為典型特徵。\n- B. 錯誤。孕期若感染腸病毒（如柯薩奇病毒、伊科病毒），可能導致胎兒死產或新生兒心肌炎、無菌性腦膜炎等全身性疾病，但極少引起先天性白內障。\n- C. 錯誤。腺病毒主要引起呼吸道感染、流行性角結膜炎（EKC，俗稱紅眼症）或出血性膀胱炎，並非 torch 先天性垂直感染的常見致病原，亦不以先天性白內障為典型表現。\n- D. 正確。德國麻疹病毒（Rubella virus）垂直感染會引發先天性德國麻疹症候群（CRS），其典型三大臨床特徵為白內障（congenital cataract）、心臟畸形（如開放性動脈導管 PDA）以及感覺神經性耳聾。\n\n【核心考點】\n先天性德國麻疹症候群（CRS）的典型三聯徵（classic triad）為：白內障（眼部病變）、動脈導管未閉/肺動脈狹窄（心血管病變）及感覺神經性聽力喪失（耳部病變）。",
+      "key_point": "德國麻疹病毒垂直感染會導致先天性德國麻疹症候群（CRS），其典型三聯徵為先天性白內障、心臟畸形（如動脈導管未閉 PDA）及感覺神經性耳聾。",
+      "flashcard_front": "孕婦早期垂直感染何種病毒最易導致嬰兒先天性白內障？其典型三聯徵為何？",
+      "flashcard_back": "德國麻疹病毒（Rubella virus）。其典型三聯徵（classic triad）為：先天性白內障、先天性心臟病（如動脈導管未閉 PDA）與感覺神經性聽力喪失。",
+      "flashcard_summary": "垂直感染德國麻疹病毒 -> 先天性白內障 + PDA + 感覺神經性耳聾。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題探長各病毒經由性行為（包括直接黏膜接觸、精液傳播及口肛性接觸）傳染的可能性。單純疱疹病毒（HSV-2為主）、茲卡病毒（可存留於精液）及A型肝炎病毒（可經口肛途徑傳播）皆已被證實可經性行為或性接觸感染，而麻疹病毒主要經由飛沫與空氣傳播，非性行為感染。\n\n【選項詳解】\n- A. 正確/答對給分。此選項包含1（A型肝炎病毒）與2（單純疱疹病毒）。單純疱疹病毒（HSV-2為主）主要經由性接觸與黏膜暴露傳染；A型肝炎病毒（HAV）雖然主由糞口途徑傳播，但在男男性行為者（MSM）等口肛接觸（oral-anal sex）等行為中，極易發生傳播，故臨床上亦將其視為可經由性行為感染的病毒。\n- B. 正確/答對給分. 此選項包含2（單純疱疹病毒）與3（茲卡病毒）。單純疱疹病毒（HSV）經性接觸傳播已是醫學常識；茲卡病毒（Zika virus）雖主要由埃及斑蚊傳播，但病毒可長期存留於男性的精液中，已被證實可經由無套性行為進行人傳人，因此2與3皆可經性行為感染。\n- C. 錯誤。此選項包含3（茲卡病毒）與4（麻疹病毒）。茲卡病毒可經性傳播，但麻疹病毒（Measles virus）屬於高傳染性的空氣與飛沫傳播病毒，非性行為傳播。\n- D. 正確/答對給分. 此選項包含1（A型肝炎病毒）與3（茲卡病毒）。如前所述，A型肝炎病毒可經由口肛性接觸等行為傳播，而茲卡病毒可經由精液進行性傳播，兩者均屬可能經性行為感染的途徑。\n\n【核心考點】\n除了經典的性傳染病毒（如HIV、HBV、HCV、HPV、HSV）外，茲卡病毒（Zika virus）可透過精液性傳播，且A型肝炎病毒（HAV）可經口肛性接觸傳播。考選部因此更正 A、B、D 均給分。",
+      "key_point": "除了常見性病病毒外，茲卡病毒（Zika virus）可存在於精液中進行性傳播，而A型肝炎病毒（HAV）可經由口肛性接觸等行為感染。",
+      "flashcard_front": "A型肝炎病毒（HAV）、單純疱疹病毒（HSV）與茲卡病毒（Zika virus）是否皆可經由性行為感染？",
+      "flashcard_back": "是。HSV 經由直接黏膜接觸傳播，Zika 可留存於精液經性交傳播，HAV 雖主由糞口傳播，但可經口肛性接觸傳播。",
+      "flashcard_summary": "HSV、Zika、HAV -> 皆具經性行為或性接觸傳播之能力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": [
+        "補充提醒：本題考選部公布之官方更正答案為 A、B、D 均給分。"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題採否定式問法，要求找出不屬於愛滋病（HIV）抗病毒藥物機轉的選項。HIV 為反轉錄病毒，其生命週期包含進入、反轉錄、整合、轉錄轉譯、組裝與成熟等階段，其藥物皆針對 these 特定步驟；而神經氨酸酶抑制劑則是針對流感病毒的釋放階段。\n\n【選項詳解】\n- A. 錯誤。反轉錄酶抑制劑（Reverse transcriptase inhibitor）是愛滋病（HIV）抗病毒治療（ART）的基石，可分為核苷類（NRTIs，如 Tenofovir、Emtricitabine）與非核苷類（NNRTIs，如 Efavirenz），用以阻斷單股病毒 RNA 反轉換為雙股 DNA 的過程。\n- B. 錯誤。蛋白酶抑制劑（Protease inhibitor, PIs，如 Darunavir、Atazanavir）可抑制 HIV 蛋白酶，防止新合成的非活性多肽鏈前體裂解，使病毒無法成熟且失去感染力。\n- C. 錯誤。整合酶抑制劑（Integrase strand transfer inhibitor, INSTIs，如 Dolutegravir、Bictegravir）是目前第一線雞尾酒療法（HAART）的核心成分，能抑制病毒整合酶將反轉錄好的雙股 DNA 嵌入宿主基因組中。\n- D. 正確。神經氨酸酶抑制劑（Neuraminidase inhibitor，如 Oseltamivir 克流感）主要作用於流感病毒（Influenza virus）表面的神經氨酸酶，阻止成熟病毒從宿主細胞出芽釋放，對不具備該酵素的 HIV（反轉錄病毒）毫無療效。\n\n【核心考點】\n愛滋病（HIV）雞尾酒療法（ART）的靶點主要有：反轉錄酶（RT）、整合酶（Integrase）、蛋白酶（Protease）及進入受體（CCR5/gp41）；而神經氨酸酶抑制劑（Neuraminidase inhibitor）為流感病毒（Influenza）的專屬治療藥物。",
+      "key_point": "愛滋病（HIV）抗病毒用藥靶點不包含流感病毒專屬的神經氨酸酶抑制劑（Neuraminidase inhibitor）。",
+      "flashcard_front": "常用於治療流感病毒的「神經氨酸酶抑制劑」（如 Oseltamivir）是否可用於治療愛滋病（HIV）？原因為何？",
+      "flashcard_back": "否。愛滋病為反轉錄病毒，其抗病毒治療（ART）靶向反轉錄酶、整合酶與蛋白酶等；神經氨酸酶抑制劑為流感病毒出芽釋放的阻斷劑，對 HIV 無效。",
+      "flashcard_summary": "HIV 治療藥物靶點 -> 不含神經氨酸酶抑制劑（Neuraminidase inhibitor）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題考查副黏液病毒（Paramyxoviridae，如麻疹病毒、腮腺炎病毒及呼吸道融合病毒 RSV）的病毒學特徵。包含其基因體極性（負鏈 ss[-]RNA）、酵素攜帶（內含 RdRp）、轉錄特點（轉錄衰減）以及融合蛋白（F protein）引起的細胞病變效應（syncytium）。\n\n【選項詳解】\n- A. 錯誤。副黏液病毒（Paramyxoviridae）為單股負鏈 RNA（ss[-]RNA）病毒，其基因體極性與 mRNA 相反，無法直接作為模板進行蛋白質轉譯，必須先轉錄成正鏈的 mRNA。\n- B. 錯誤。負鏈 RNA 病毒無法直接利用宿主細胞的轉譯系統，因此病毒顆粒中必須包裹自身攜帶的 RNA 依賴性 RNA 聚合酶（RdRp，由 L 蛋白與 P 蛋白組成），以便進入細胞後立即轉錄。\n- C. 正確。副黏液病毒表面的融合蛋白（Fusion protein, F protein）能引發受感染細胞的細胞膜與鄰近未受感染細胞融合，進而在體外培養或病理切片中觀察到多核巨大細胞（syncytium）。\n- D. 錯誤。副黏液病毒的轉錄符合「轉錄衰減（transcriptional attenuation）」機制，RdRp 從 3' 端往 5' 端轉錄時，越靠近 3' 端的基因（如核蛋白 N）轉錄產量越高，越靠近 5' 端的基因（如聚合酶 L）產量越低，各蛋白產量並不一致。\n\n【核心考點】\n副黏液病毒（Paramyxovirus）具有融合蛋白（F protein），可引發特徵性的多核巨大細胞融合（syncytium）；其為負鏈 RNA 病毒，病毒顆粒中必定包裹有 RNA 依賴性 RNA 聚合酶（RdRp），且其基因轉錄產量呈現遞減衰減。",
+      "key_point": "副黏液病毒（Paramyxoviridae）為單股負鏈 RNA 病毒，顆粒中含有 RdRp，可藉融合蛋白（F protein）引發鄰近細胞融合形成多核巨大細胞（syncytium）。",
+      "flashcard_front": "副黏液病毒（Paramyxoviridae）具有何種特殊蛋白可引發何種細胞病變效應（CPE）？",
+      "flashcard_back": "融合蛋白（F protein），可引發受感染細胞與周邊細胞的細胞膜融合，形成多核巨大細胞（syncytium）。",
+      "flashcard_summary": "副黏液病毒 -> 藉融合蛋白（F protein）形成多核巨大細胞（syncytium）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題為否定式單選題，考查小RNA病毒科（Picornaviridae）的分類與特徵。小RNA病毒科的共同特徵是：微小（直徑約 30 nm）、無套膜（naked）、二十面體對稱的單股正鏈 RNA 病毒；冠狀病毒則屬於冠狀病毒科，具套膜且基因體巨大。\n\n【選項詳解】\n- A. 錯誤。A型肝炎病毒（HAV）分類上屬於小RNA病毒科的肝病毒屬（Hepatovirus），為無套膜的單股正鏈 RNA 病毒。\n- B. 錯誤. 腸病毒（Enterovirus）為小RNA病毒科的代表屬（包括脊髓灰質炎病毒、克沙奇病毒等），是典型的無套膜、正單股 RNA 病毒。\n- C. 錯誤。鼻病毒（Rhinovirus）為小RNA病毒科鼻病毒屬，是引起人類普通感冒最常見的病原體，亦為無套膜正股 RNA 病毒。\n- D. 正確。冠狀病毒（Coronavirus）屬於冠狀病毒科（Coronaviridae），其特徵為具有套膜（envelope）且擁有極大的單股正鏈 RNA 基因體（約 26-32 kb，小RNA病毒科則僅約 7-8 kb 且無套膜）。\n\n【核心考點】\n小RNA病毒科（Picornaviridae）常見成員包含：腸病毒（Enterovirus）、鼻病毒（Rhinovirus）及A型肝炎病毒（HAV）；而冠狀病毒（Coronavirus）屬於冠狀病毒科，其結構有套膜（envelope）且基因體（~30 kb）遠大於小RNA病毒（~7.5 kb）。",
+      "key_point": "冠狀病毒（Coronavirus）屬於冠狀病毒科，具套膜且基因體巨大（約30 kb）；A型肝炎病毒、腸病毒與鼻病毒則屬於無套膜的小RNA病毒科（Picornaviridae）。",
+      "flashcard_front": "冠狀病毒（Coronavirus）與小RNA病毒科（Picornaviridae）在套膜結構與基因體大小上有何差異？",
+      "flashcard_back": "冠狀病毒具套膜（envelope）且基因體巨大（約30 kb）；小RNA病毒科（如HAV、腸病毒、鼻病毒）無套膜且基因體極小（約7.5 kb）。",
+      "flashcard_summary": "冠狀病毒不屬於小RNA病毒科 -> 具套膜且基因體大（小RNA病毒無套膜且小）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題考查絲狀病毒科（Filoviridae，以伊波拉病毒為代表）的流行病學與病毒構造特徵。包括宿主與人傳人特性（物理性接觸為媒介）、基因體極性（負單股 RNA）及病毒形態（呈多形性絲狀而非子彈型）。\n\n【選項詳解】\n- A. 正確。絲狀病毒科成員（如伊波拉病毒 Ebola virus、馬堡病毒 Marburg virus）的天然宿主主要為果蝠，可經接觸受感染的猩猩或猴子等靈長類動物引發溢出感染，並可透過直接接觸感染者的血液、分泌物或器官在人群中引發人傳人傳播。\n- B. 錯誤。2018-2020 年的伊波拉病毒大流行主要發生於剛果民主共和國（DRC，特別是基伍地區），而非海地；海地在 2010 年地震後發生過嚴重的霍亂（Cholera）大流行。\n- C. 錯誤。絲狀病毒科的基因體屬於單股負鏈 RNA（ss[-]RNA），並非正股 RNA，在宿主細胞內需要攜帶 RdRp 來轉錄 mRNA。\n- D. 錯誤。伊波拉病毒（Ebola virus）顯微鏡下呈長絲狀、分叉或「U」字形等特徵性多形性構造（故稱絲狀病毒）；子彈型（bullet-shaped）則是彈狀病毒科（Rhabdoviridae，如狂犬病病毒 Rabies virus）的典型形態。\n\n【核心考點】\n伊波拉病毒（Ebola virus）屬於絲狀病毒科，天然宿主為蝙蝠，具人傳人能力且引起嚴重出血熱；其為單股負鏈 RNA 病毒，病毒顆粒呈絲狀（filamentous），子彈型則是狂犬病病毒（Rhabdovirus）的特徵。",
+      "key_point": "絲狀病毒科（如伊波拉病毒）呈多形性絲狀，天然宿主為蝙蝠，可經由接觸受感染動物或患者體液人傳人；其基因體為單股負鏈 RNA。",
+      "flashcard_front": "伊波拉病毒（Ebola virus）在顯微鏡下呈何種形態？其傳播途徑與基因極性為何？",
+      "flashcard_back": "呈長絲狀或多形性（非子彈型）。為單股負鏈 RNA 病毒，可經接觸受感染蝙蝠/猴子或病患體液而人傳人。",
+      "flashcard_summary": "伊波拉病毒 -> 絲狀、單股負鏈 RNA、經蝙蝠/猴子及人傳人。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考查格特隱球菌（Cryptococcus gattii）與常見的新型隱球菌（Cryptococcus neoformans）的鑑別特點。重點在於其宿主特異性（格特隱球菌常感染正常人）及臨床嚴重度（常形成隱球菌瘤導致嚴重的神經壓迫症狀）。\n\n【選項詳解】\n- A. 錯誤。隱球菌屬（Cryptococcus）皆為具有厚莢膜的酵母菌（encapsulated yeast），莢膜是其主要的毒力因子，能有效逃避宿主吞噬細胞的清除作用。\n- B. 錯誤。格特隱球菌主要分布於熱帶與亞熱帶地區，其主要的環境宿主為尤加利樹（Eucalyptus）等植物，常存留於樹洞或其周圍土壤中。\n- C. 錯誤。相較於新型隱球菌（C. neoformans）主要感染細胞免疫低下（如愛滋病患者、器官移植者）的宿主，格特隱球菌具有更強的毒力，常感染免疫健全（immunocompetent）的健康人群。\n- D. 正確。格特隱球菌感染後極易在中樞神經系統中形成實體性隱球菌瘤（cryptococcoma），常造成嚴重的顱內壓增高與局灶性神經學缺損，其神經學症狀通常比新型隱球菌更嚴重、病程更長，且常需要外科減壓，故「臨床神經學症狀較輕微」是錯誤敘述。\n\n【核心考點】\n格特隱球菌（Cryptococcus gattii）與新型隱球菌（C. neoformans）皆為有莢膜的酵母菌，但格特隱球菌常感染「免疫健全者」（immunocompetent），且更易在腦部或肺部產生隱球菌瘤（cryptococcoma），臨床神經學症狀更嚴重而非輕微。",
+      "key_point": "格特隱球菌（C. gattii）常感染免疫健全者，容易在腦部形成隱球菌瘤（cryptococcoma），臨床神經學症狀通常較新型隱球菌嚴重。",
+      "flashcard_front": "格特隱球菌（C. gattii）與新型隱球菌（C. neoformans）在易感人群與臨床神經學症狀嚴重度上有何不同？",
+      "flashcard_back": "格特隱球菌常感染「免疫健全者」（新型隱球菌好發於免疫低下者），且更易形成腦部隱球菌瘤，臨床神經學症狀通常更嚴重。",
+      "flashcard_summary": "格特隱球菌 -> 常感染免疫健全者，易形成隱球菌瘤，症狀嚴重。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題探討補體系統（Complement system）的生理學特性與歷史背景。答題重點在於補體蛋白的主要生成器官（肝臟而非脾臟）以及在血液中的存在形式（平日無活性，需被特定級聯反應活化）。\n\n【選項詳解】\n- A. 錯誤。Jules Bordet 於 19 世紀末發現血清中除抗體外，還有一種能被加熱（56°C, 30分鐘）滅活的物質，此物質配合抗體可溶解細菌，他將其命名為 alexin（後改稱補體 complement），並因此獲得 1919 年諾貝爾獎。\n- B. 正確。補體系統的 30 多種蛋白質主要是在「肝臟」（由肝細胞及庫佛氏細胞）合成並分泌至血漿，而非脾臟；且這些補體蛋白平時是以無活性的酵素前體（zymogens）狀態循環於血液中，只有在病原體或抗原抗體複合物刺激下才會被水解活化，以防正常自體組織受損。\n- C. 錯誤。補體的活化途徑有三種：傳統途徑（抗原抗體複合物結合 C1）、替代途徑（自發水解 C3 結合病原表面）與凝集素途徑（甘露糖結合凝集素 MBL 與病原菌表面的甘露糖結合），三者最終都會形成 C3 轉化酶並啟動級聯蛋白酶反應。\n- D. 錯誤。補體級聯活化產生多種活性片段：如 C3b 具調理作用（opsonization）能促進吞吞噬作用；C3a、C5a 作為過敏毒素（anaphylatoxins），能促進肥大細胞釋放組織胺以介導發炎反應，且 C5a 具有強烈的趨化作用（chemotaxis）以吸引中性粒細胞。\n\n【核心考點】\n補體蛋白（如 C1-C9）主要由「肝臟」合成，且平時在血清中以「無活性酵素前體（zymogens）」形式存在；活化途徑包含傳統、替代與凝集素三條途徑，其裂解產物（如 C3b/C5a）分別具調理、趨化與發炎介導功能。",
+      "key_point": "補體蛋白主要由肝臟合成，在血清中以無活性的酵素前體（zymogens）形式存在，需被激活後才產生級聯反應。",
+      "flashcard_front": "補體系統（complement system）主要在人體何處合成？平日在血清中以何種狀態存在？",
+      "flashcard_back": "主要由肝臟（肝細胞）合成（而非脾臟）；平日在血中以無活性酵素前體（zymogens）形式存在，受刺激活化後才產生反應。",
+      "flashcard_summary": "補體系統 -> 主要由肝臟產生，平時為無活性的酵素前體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考查第一型主要組織相容性複合體（MHC class I）與第二型（MHC class II）在結構、抗原呈現來源及結合胜肽長度上的重要差異。\n\n【選項詳解】\n- A. 錯誤。MHC class I 主要呈獻胞內合成的「內源性抗原」（如病毒蛋白或腫瘤抗原），經由蛋白酶體降解、TAP 轉運至內質網後與 MHC I 結合，再呈獻至細胞表面以活化 CD8+ 細胞毒殺型 T 細胞。\n- B. 正確。MHC class I 分子的抗原結合槽兩端是「封閉」的，因此結合的胜肽長度較短，通常為 8-10 個胺基酸。而 MHC class II 分子的抗原結合槽兩端是「開放」的，可以容納並呈獻較長、伸出槽外的勝肽，通常為 13-17 個胺基酸。\n- C. 錯誤。MHC class I 屬於異源二聚體，結構上由一條跨膜的 α 重鏈（由第 6 號染色體基因編碼）與一條非共價結合的輕鏈 β2-microglobulin（由第 15 號染色體基因編碼）組成。\n- D. 錯誤。MHC class I 的抗原結合槽（peptide-binding cleft）是由跨膜 α 重鏈的 α1 與 α2 domain 共同摺疊形成的平台結構；相較之下，MHC class II 的抗原結合槽則是由 α1 與 β1 domain 共同形成。\n\n【核心考點】\nMHC class I 抗原結合槽兩端封閉，呈獻內源性抗原給 CD8+ T 細胞，結合胜肽長度較短（8-10 aa）；MHC class II 結合槽兩端開放，呈獻外源性抗原給 CD4+ T 細胞，結合胜肽長度較長（13-17 aa）。",
+      "key_point": "MHC class I 的抗原結合槽兩端封閉，結合勝肽較短（8-10 aa）；MHC class II 抗原結合槽兩端開放，結合勝肽較長（13-17 aa）。",
+      "flashcard_front": "MHC class I 與 MHC class II 分子所呈獻的抗原勝肽（peptides）在長度與結合槽結構上有何差異？",
+      "flashcard_back": "MHC class I 結合槽兩端封閉，結合胜肽較短（8-10 aa）；MHC class II 結合槽兩端開放，結合胜肽較長（13-17 aa）。",
+      "flashcard_summary": "MHC class I 呈獻 8-10 aa 胜肽；MHC class II 呈獻 13-17 aa 胜肽。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題考查淋巴細胞中免疫球蛋白與 T 細胞受體（TCR）基因進行 V(D)J 重組（V(D)J recombination）時各酶與修復蛋白的分子功能。特別是突觸形成、剪切、髮夾結構打開及非同源末端連接（NHEJ）各步驟的關鍵角色。\n\n【選項詳解】\n- A. 錯誤。RAG-1 與 RAG-2 蛋白形成複合物，能特異性識別重組信號序列（RSS），並在交界處引入 DNA 雙股斷裂，形成髮夾結構（hairpin loop）。\n- B. 錯誤。在 V(D)J 重組的非同源末端連接（NHEJ）修復過程中，DNA ligase IV 與其穩定輔因子 XRCC4 形成複合物，負責將已經過修整的 DNA 斷裂點進行共價連接。\n- C. 錯誤。Artemis 是一種核酸內切酶，在被 DNA-PKcs 磷酸化活化後，負責剪開由 RAG 剪切產生的 DNA 髮夾結構（hairpin loop），因為剪切點通常不對稱，會在末端留下單股突出，經填補後形成回文核苷酸（P-nucleotides）。\n- D. 正確。末端去氧核苷酸轉移酶（TdT）的功能是「在 DNA 編碼端連接處隨機插入非模板核苷酸（N-nucleotides）」，以大幅增加抗體與 TCR 的多樣性。而結合並標記 DNA 雙股斷裂端以啟動 NHEJ 修復路徑的蛋白是 Ku70/Ku80 異源二聚體，TdT 並非負責標記斷裂點的蛋白。\n\n【核心考點】\nV(D)J 重組中，TdT 的作用是在連接處隨機加入非模板核苷酸（N-nucleotides）以增加連接處多樣性；而標記 DNA 雙股斷裂端的則是 Ku70/Ku80 蛋白。",
+      "key_point": "V(D)J 重組中，TdT 的作用是在連接處隨機加入非模板核苷酸（N-nucleotides）以增加抗體與 TCR 多樣性，標記斷裂端者為 Ku70/Ku80。",
+      "flashcard_front": "免疫球蛋白 V(D)J 重組中，末端去氧核苷酸轉移酶（TdT）的主要功能是什麼？標記 DNA 雙股斷裂端的蛋白又是何者？",
+      "flashcard_back": "TdT 負責在重組連接處隨機加入非模板核苷酸（N-nucleotides）以增加多樣性；負責標記並結合 DNA 雙股斷裂端的是 Ku70/Ku80。",
+      "flashcard_summary": "TdT -> 隨機加入非模板 N-nucleotides 增加 V(D)J 重組多樣性（Ku蛋白負責標記斷裂端）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

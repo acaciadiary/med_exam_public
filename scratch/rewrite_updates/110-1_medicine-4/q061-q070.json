@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題官方接受 A-D，表示孕期雙相情緒障礙用藥致畸胎風險敘述可能存在考題爭議。整體原則是 valproate 風險最高且應避免，lithium 與 Ebstein anomaly 風險相關但絕對風險低，carbamazepine 與神經管缺損相關，lamotrigine 的口裂風險證據較早期研究提出但後續較不一致。\n\n【選項詳解】\n- A. Lithium 與 Ebstein anomaly 的關聯是傳統考點，但現代資料認為絕對風險低；是否稱為錯誤有爭議。\n- B. Valproic acid 會增加神經管缺損，也可增加其他畸形風險，包含心臟畸形風險；若問錯誤，單選不穩定。\n- C. Lamotrigine 與 oral cleft 的關聯曾被報告，但證據強度與一致性較 valproate 低，可能是爭議來源。\n- D. Carbamazepine 與神經管缺損風險相關，是常見考點；官方全選需保留更正答案。\n\n【核心考點】\n孕期 mood stabilizer：valproate 最應避免；lithium、carbamazepine、lamotrigine 風險需個別評估，此題官方接受全選。",
+      "key_point": "孕期 mood stabilizer：valproate 最應避免；lithium、carbamazepine、lamotrigine 風險需個別評估，此題官方接受全選。",
+      "flashcard_front": "孕期 bipolar 用藥爭議題",
+      "flashcard_back": "官方 A-D；valproate 高風險，lithium/carbamazepine/lamotrigine 需個別評估。",
+      "flashcard_summary": "孕期情緒穩定劑 -> 致畸胎風險需精準表述；本題官方全選。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方答案為 A-D，全選題；孕期情緒穩定劑風險敘述受證據更新與措辭影響。"
+      ]
+    },
+    {
+      "question_id": "110-1_medicine-4_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n題幹描述被監視、被植入晶片、命令式幻聽叫他自殺，屬思覺失調症陽性症狀且有急性自殺風險。藥物治療可使用第二代抗精神病藥；診斷時間通常至少 6 個月，不是 1 年。\n\n【選項詳解】\n- A. 思覺失調症診斷通常需病程至少 6 個月，包含至少 1 個月活躍期症狀，不是至少 1 年。\n- B. 強制住院須符合精神衛生法程序與期間規定，不能簡化為再經一位醫師鑑定後逕行 60 天。\n- C. ADHD 不是診斷思覺失調症前必須先排除的核心疾病；需排除的是物質、身體病因與情感性精神病等。\n- D. Risperidone 是治療思覺失調症常用第二代抗精神病藥，2 mg 可作為治療劑量起點或調整範圍之一。\n\n【核心考點】\n思覺失調症可用 risperidone 等抗精神病藥；診斷病程不是至少 1 年。",
+      "key_point": "思覺失調症可用 risperidone 等抗精神病藥；診斷病程不是至少 1 年。",
+      "flashcard_front": "Schizophrenia 治療",
+      "flashcard_back": "可使用 risperidone；診斷通常病程至少 6 個月。",
+      "flashcard_summary": "思覺失調症 -> 陽性症狀 + 抗精神病藥治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n器官移植後常見精神科問題包括適應障礙、憂鬱、焦慮、PTSD、譫妄與藥物相關精神症狀。單純妄想症不是穩定移植術後最常見或最預期的併發症。\n\n【選項詳解】\n- A. 移植後面對疾病壓力、身體限制與角色改變，適應障礙常見。\n- B. 重大醫療經驗、加護病房與生命威脅可造成 PTSD 症狀。\n- C. 妄想症通常是以非怪異妄想為主的慢性精神病，並非移植後常見併發症，因此最不會出現。\n- D. 移植後因身體負擔、預後焦慮與免疫抑制治療，重鬱症風險增加。\n\n【核心考點】\n移植後常見適應障礙、PTSD 與憂鬱；妄想症不是典型常見併發症。",
+      "key_point": "移植後常見適應障礙、PTSD 與憂鬱；妄想症不是典型常見併發症。",
+      "flashcard_front": "移植後精神科併發症",
+      "flashcard_back": "常見 adjustment disorder、PTSD、depression；delusional disorder 較不典型。",
+      "flashcard_summary": "移植精神醫學 -> 壓力相關與憂鬱常見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n憂鬱症單胺假說涉及 norepinephrine、serotonin、dopamine 等。NE 主要來自 locus coeruleus，serotonin 主要來自 raphe nuclei；抗憂鬱藥多是抑制再回收而非加強再回收。\n\n【選項詳解】\n- A. Norepinephrine 主要來自 locus coeruleus，不是 raphe nuclei。\n- B. Serotonin 主要來自 raphe nuclei，不是 locus coeruleus。\n- C. 憂鬱症神經化學機轉與 NE、5-HT、dopamine 等單胺傳導物質相關，敘述正確。\n- D. SSRI 是抑制 serotonin reuptake，使突觸間 serotonin 增加，不是加強再回收。\n\n【核心考點】\n憂鬱症與 NE、serotonin、dopamine 相關；NE 來自 locus coeruleus，serotonin 來自 raphe nuclei。",
+      "key_point": "憂鬱症與 NE、serotonin、dopamine 相關；NE 來自 locus coeruleus，serotonin 來自 raphe nuclei。",
+      "flashcard_front": "憂鬱症單胺假說",
+      "flashcard_back": "NE、5-HT、dopamine；SSRI 抑制 reuptake。",
+      "flashcard_summary": "Depression -> monoamine hypothesis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n病人 8 個月對工作、孩子、健康等多個領域過度擔心，伴隨心悸、胸悶、頭痛、睡眠不安與專注困難，且影響功能，最符合廣泛性焦慮症。\n\n【選項詳解】\n- A. GAD 是持續至少 6 個月、對多項事件難以控制的過度焦慮與擔心，並伴隨身體與認知症狀，符合題幹。\n- B. 解離症重點是意識、記憶、身分或知覺整合中斷，不是慢性多主題擔憂。\n- C. 畏懼症是對特定物體或情境的明確恐懼與逃避，題幹焦慮範圍廣泛。\n- D. 強迫症是侵入性強迫思考與重複行為，題幹沒有明顯強迫儀式。\n\n【核心考點】\nGAD 是超過 6 個月、多領域、難以控制的過度擔心並影響功能。",
+      "key_point": "GAD 是超過 6 個月、多領域、難以控制的過度擔心並影響功能。",
+      "flashcard_front": "多領域擔心 8 個月",
+      "flashcard_back": "廣泛性焦慮症。",
+      "flashcard_summary": "GAD -> chronic excessive worry + somatic symptoms。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n恐慌症發作常有強烈心悸、胸悶、呼吸困難、瀕死感，病人常以為是心臟病或急症，因此主動到急診求助比率高。\n\n【選項詳解】\n- A. 恐慌發作症狀急、強烈且像身體急症，最容易促使病人自行前往急診。\n- B. 重鬱症可有自殺風險或身體症狀，但主動急診求助比率通常不如恐慌發作。\n- C. 畏懼症多以逃避特定情境為主，不一定以急性身體症狀到急診。\n- D. 雙相情緒障礙可能因躁症或鬱症就醫，但題目問主動急診求助最常見仍是恐慌症。\n\n【核心考點】\n恐慌發作常被病人誤認為心肺急症，因此急診求助率高。",
+      "key_point": "恐慌發作常被病人誤認為心肺急症，因此急診求助率高。",
+      "flashcard_front": "最常主動急診求助的精神疾病",
+      "flashcard_back": "恐慌症。",
+      "flashcard_summary": "Panic disorder -> 急性身體症狀驅動急診求助。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n老人精神病症狀常可對低劑量抗精神病藥有反應，但需小心副作用、跌倒、錐體外症狀與失智症相關死亡風險。說反應不佳過度概括。\n\n【選項詳解】\n- A. 老人族群憂鬱症狀相當常見，社區與護理之家皆需篩檢，敘述可接受。\n- B. 關節炎是老年失能常見原因，盛行與失能負擔可高於失智症，敘述可接受。\n- C. 老年精神病症狀並非一概對抗精神病藥反應不佳；可治療但需低劑量、慢調整並監測風險，因此此項錯誤。\n- D. 妄想症可在中年較常見，老年也可能發生，被害妄想常見，敘述可接受。\n\n【核心考點】\n老人精神病症狀可用抗精神病藥治療，但需低劑量與嚴密監測，不是反應不佳。",
+      "key_point": "老人精神病症狀可用抗精神病藥治療，但需低劑量與嚴密監測，不是反應不佳。",
+      "flashcard_front": "老人 psychotic symptoms 治療",
+      "flashcard_back": "可對抗精神病藥有反應，但副作用風險高。",
+      "flashcard_summary": "老人精神醫學 -> 抗精神病藥可用但需謹慎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n額顳葉認知障礙症分為行為變異型與語言變異型，常較早發且部分有家族性，進展可較 AD 快。相對保留的是學習記憶與知覺動作功能；社會認知在 bvFTD 常明顯受損。\n\n【選項詳解】\n- A. DSM-5 相關描述可分行為與語言變異型，敘述正確。\n- B. 家族遺傳型 FTD 常有較早發病特徵，敘述正確。\n- C. FTD 平均進展可比 AD 快，敘述可接受。\n- D. FTD 尤其行為變異型常損害社會認知與人格行為，不能說社會認知相對保存，因此錯誤。\n\n【核心考點】\nFTD 常損害社會認知與行為控制；相對保留的是早期記憶或視空間功能。",
+      "key_point": "FTD 常損害社會認知與行為控制；相對保留的是早期記憶或視空間功能。",
+      "flashcard_front": "FTD 認知特徵",
+      "flashcard_back": "社會認知常受損，不是相對保存。",
+      "flashcard_summary": "FTD -> 行為/語言變異，社會認知受損。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nKetamine 是 NMDA receptor antagonist，可造成解離性麻醉、記憶缺損，通常保留呼吸並刺激交感神經；低劑量也被研究用於快速抗憂鬱效果。\n\n【選項詳解】\n- A. Ketamine 會刺激交感神經，使心跳與血壓上升，且相對保留呼吸驅動，敘述正確。\n- B. Ketamine 的機轉是 NMDA receptor antagonist，不是 agonist，因此此項錯誤。\n- C. 解離與記憶缺損是 ketamine 的典型中樞作用。\n- D. 低劑量 ketamine 或 esketamine 有快速降低憂鬱症狀的研究與臨床應用。\n\n【核心考點】\nKetamine 是 NMDA receptor antagonist，不是 agonist。",
+      "key_point": "Ketamine 是 NMDA receptor antagonist，不是 agonist。",
+      "flashcard_front": "Ketamine 機轉",
+      "flashcard_back": "NMDA receptor antagonist。",
+      "flashcard_summary": "Ketamine -> dissociation、sympathetic stimulation、NMDA antagonism。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n酒精戒斷症狀通常先出現手抖與自律神經亢進，接著可能有幻覺，再來癲癇發作，最後是 delirium tremens。因此題目順序為 2、1、4、3。\n\n【選項詳解】\n- A. 1、2、3、4 把幻覺放在手抖前且譫妄早於抽搐，不符合典型時間序。\n- B. 4、2、1、3 把抽搐放最早，不符合多數戒斷時間進程。\n- C. 2、1、4、3 符合手抖、自律症狀先出現，之後幻覺、抽搐，最後譫妄的典型順序。\n- D. 3、2、1、4 把譫妄放最早，與 delirium tremens 較晚出現不符。\n\n【核心考點】\n酒精戒斷常見順序：手抖、自律亢進 -> 幻覺 -> 抽搐 -> 譫妄。",
+      "key_point": "酒精戒斷常見順序：手抖、自律亢進 -> 幻覺 -> 抽搐 -> 譫妄。",
+      "flashcard_front": "酒精戒斷時間順序",
+      "flashcard_back": "手抖 -> 幻覺 -> 抽搐 -> 譫妄。",
+      "flashcard_summary": "Alcohol withdrawal -> 2-1-4-3。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題問何種藥物能藉由抑制蝕骨細胞（osteoclast）活性，以降低血鈣並提升骨密度。臨床上，雙磷酸鹽類（bisphosphonates）藥物如 alendronate 會被蝕骨細胞吞噬，進而干擾其胞內代謝、促其凋亡，是用於治療骨質疏鬆症與高血鈣症的重要藥物。\n\n【選項詳解】\n- A. 錯誤。sucralfate 是一種胃黏膜保護劑，在酸性環境中會形成帶負電荷的膠狀複合物，黏附於胃十二指腸潰瘍處，形成物理性保護屏障，對蝕骨細胞活性、血鈣及骨密度沒有影響。\n- B. 錯誤。acetaminophen（乙醯胺酚）是中樞型止痛退燒藥，主要藉由抑制中樞神經系統的環氧化酶（COX）來緩解疼痛與退燒，不具備抗發炎作用，也不會調節蝕骨細胞活性或影響骨密度。\n- C. 錯誤。warfarin 是一種口服抗凝血藥，為維生素 K 拮抗劑（vitamin K antagonist），阻斷肝臟合成維生素 K 依賴型凝血因子（II、VII、IX、X），臨床用於預防血栓形成，與蝕骨細胞及增加骨密度無關。\n- D. 正確。alendronate 屬於雙磷酸鹽類（bisphosphonates），能特異性結合於骨骼的羥磷灰石（hydroxyapatite）表面。當蝕骨細胞進行骨吸收時會吞噬該藥物，進而抑制法尼基焦磷酸合成酶（FPP synthase），阻斷蛋白質異戊二烯化（prenylation），誘導蝕骨細胞凋亡，達到抑制骨吸收、降血鈣與增加骨密度的效果。\n\n【核心考點】\n雙磷酸鹽類（如 alendronate）的機轉為結合骨表面羥磷灰石、被蝕骨細胞吞噬，進而抑制其焦磷酸合成酶並誘導其凋亡，用於治療骨質疏鬆與降血鈣。",
+      "key_point": "雙磷酸鹽類（如 alendronate）藉由結合骨表面羥磷灰石並被蝕骨細胞吞噬，抑制其關鍵酵素並誘導其凋亡，以抑制骨吸收並增加骨密度。",
+      "flashcard_front": "骨質疏鬆與高血鈣治療 / 雙磷酸鹽類 / 抑制蝕骨細胞活性",
+      "flashcard_back": "Alendronate 屬於雙磷酸鹽類，特異性結合羥磷灰石並在骨吸收時被蝕骨細胞吞噬，進而抑制法尼基焦磷酸合成酶並誘導其凋亡。",
+      "flashcard_summary": "骨質疏鬆治療 -> 雙磷酸鹽類 alendronate 經蝕骨細胞吞噬後，抑制法尼基焦磷酸合成酶以誘導其凋亡並增加骨密度",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n55 歲停經後婦女的乳房腫瘤切除後，病理分析顯示為雌激素受體（ER）與黃體素受體（PR）陽性，顯示腫瘤生長受雌激素調控。此時應給予抗荷爾蒙療法。選擇性雌激素受體調節劑（SERM）如 tamoxifen，在乳腺組織中可作為雌激素受體的拮抗劑，是這類乳癌患者的首選輔助治療藥物。\n\n【選項詳解】\n- A. 錯誤。flutamide 是一種非類固醇類雄性素受體拮抗劑（androgen receptor antagonist），主要用於治療前列腺癌以阻斷雄性素作用，對雌激素與黃體素受體陽性的乳房腫瘤不具備針對性的治療效果。\n- B. 錯誤。mifepristone（RU-486）是黃體素受體拮抗劑（progesterone receptor antagonist），在臨床上主要與前列腺素併用於早期妊娠的藥物人工流產，並非乳腺癌術後標準的輔助抗荷爾蒙藥物。\n- C. 正確。tamoxifen 屬於選擇性雌激素受體調節劑（SERM），在乳腺組織中扮演受體拮抗劑，能與內源性雌激素競爭結合雌激素受體（ER），阻斷雌激素對乳癌細胞的增殖訊號；同時，它在骨骼與子宮內膜具有部分的受體致效活性。\n- D. 錯誤。danazol 是一種弱雄性素（weak androgen）及黃體素受體促效劑，會抑制下視丘-腦下垂體-卵巢軸釋放促性腺激素，臨床上主要用於治療子宮內膜異位症與纖維囊性乳房疾病，不適合作為 ER(+) 乳癌術後的標準荷爾蒙治療。\n\n【核心考點】\n雌激素受體陽性（ER+）乳癌之術後輔助治療，以選擇性雌激素受體調節劑（SERM，如 tamoxifen）或芳香酶抑制劑（AI，如 anastrozole，常用於停經後）為主，藉此阻斷雌激素刺激。",
+      "key_point": "雌激素受體陽性（ER+）乳癌術後的首選荷爾蒙輔助治療為選擇性雌激素受體調節劑（SERM，如 tamoxifen），能拮抗乳腺的雌激素受體以抑制癌細胞增殖。",
+      "flashcard_front": "ER/PR受體陽性乳腺癌 / 術後輔助治療 / 抗荷爾蒙療法",
+      "flashcard_back": "首選選擇性雌激素受體調節劑（SERM）如 tamoxifen，藉由在乳腺組織拮抗雌激素受體，競爭性阻斷雌激素的促增殖作用。",
+      "flashcard_summary": "乳癌荷爾蒙治療 -> ER/PR(+)乳癌首選 tamoxifen (SERM) 拮抗乳腺雌激素受體",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題問何種藥物為中性內肽酶（neprilysin）抑制劑，藉由阻斷 neprilysin 對心房利鈉肽（ANP）和腦利鈉肽（BNP）的分解，增加體內利鈉肽濃度，達到擴張血管、排鈉利尿並減輕心臟負荷的效果。Sacubitril 即為此類抑制劑，臨床常與血管張力素受體阻斷劑（ARB）如 valsartan 組成 ARNI 複方，用於治療射出分率減少的心衰竭（HFrEF）。\n\n【選項詳解】\n- A. 錯誤。flunarizine 是一種選擇性鈣離子通道阻斷劑（calcium channel blocker），臨床主要用於預防偏頭痛與改善前庭引起的眩暈，並不具備 neprilysin 抑制作用，亦不用於治療心衰竭。\n- B. 錯誤。nesiritide 是一種重組人腦利鈉肽（recombinant human BNP），直接作為 BNP 受體致效劑來發揮排鈉與血管擴張作用，而非藉由抑制 neprilysin 酵素來減少體內內源性 ANP/BNP 的分解。\n- C. 錯誤. ranolazine 是一種晚期鈉電流抑制劑（late sodium current inhibitor），能減少心肌細胞內鈣離子超載，改善心肌缺氧與心絞痛，但其不具有抑制 neprilysin 或增加 ANP/BNP 濃度的功能。\n- D. 正確。sacubitril 是 neprilysin（中性內肽酶）的前驅藥，在體內轉化為活性代謝物後，能特異性抑制 neprilysin，進而阻止內源性血管活性肽（如 ANP、BNP、緩激肽 bradykinin）的降解，有助於舒張血管、降低血壓及對抗心肌重構。\n\n【核心考點】\nNeprilysin 抑制劑（如 sacubitril）藉由阻斷內源性利鈉肽（ANP/BNP）的降解來治療心衰竭。臨床上常與 ARB 結合製成雙重機轉的 ARNI 藥物（Sacubitril/Valsartan）。",
+      "key_point": "Sacubitril 為 neprilysin 抑制劑的前驅藥，能增加內源性 ANP 和 BNP 的半衰期以擴張血管與排鈉利尿，臨床與 valsartan 組成 ARNI 治療心衰竭。",
+      "flashcard_front": "心衰竭治療 / Neprilysin 抑制劑 / 增加 ANP 與 BNP",
+      "flashcard_back": "Sacubitril 能抑制 neprilysin，減少內源性利鈉肽（ANP/BNP）降解，擴張血管並減輕心臟負荷，常與 ARB（valsartan）併用。",
+      "flashcard_summary": "心衰竭藥物 -> sacubitril 抑制 neprilysin，阻斷 ANP/BNP 分解以發揮擴張血管及利尿作用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題問何種抗心律不整藥物因半衰期極短，特別適合用於手術中或急性的心律不整。Esmolol 是一種超短效選擇性 beta-1 受體阻斷劑（半衰期僅約 9 分鐘），經由紅血球內部的酯酶（esterases）快速水解而失去活性，便於臨床隨時調整劑量，在發生不良反應（如嚴重低血壓）時停藥即可迅速恢復。\n\n【選項詳解】\n- A. 正確。esmolol 是 Class II 抗心律不整藥物，屬於選擇性 beta-1 受體阻斷劑，其化學結構中含有酯鍵（ester bond），靜脈注射後會被紅血球胞質內的酯酶快速水解，半衰期極短（約 9 分鐘），最適合手術中急性室上性心搏過速（SVT）的即時控制。\n- B. 錯誤。dofetilide 屬於 Class III 抗心律不整藥物，為選擇性鉀離子通道阻斷劑（I_Kr blocker），半衰期約為 10 小時，主要經腎臟排泄，用於維持心房顫動患者的正常竇性心律，不屬於手術期超短效快速控制的藥物。\n- C. 錯誤。propafenone 屬於 Class IC 抗心律不整藥物，為強效鈉離子通道阻斷劑，亦具備弱的 beta 阻斷活性，其半衰期約為 2-10 小時，主要用於預防室上性心律不整，無法在手術期提供分鐘級別的快速劑量微調。\n- D. 錯誤。dronedarone 屬於 Class III 抗心律不整藥物，是 amiodarone 的非碘化衍生物，半衰期約為 13-19 小時，臨床用於降低陣發性心房顫動患者的住院風險，藥效持續時間長，不適用於急性手術期快速起效與失效的控制。\n\n【核心考點】\nEsmolol 為超短效 beta-1 阻斷劑，其半衰期短（約 9 分鐘）係因紅血球內酯酶的水解作用，適合手術期間或急性期室上性心律不整的快速控制與滴定。",
+      "key_point": "Esmolol 含有酯鍵，會被紅血球胞質內酯酶迅速水解，半衰期僅約 9 分鐘，是手術中控制急性心律不整的首選超短效 beta-1 阻斷劑。",
+      "flashcard_front": "手術期心律不整 / 超短效 beta-1 阻斷劑 / 藥物代謝機制",
+      "flashcard_back": "Esmolol 為超短效 beta-1 阻斷劑，經由紅血球內酯酶水解，半衰期僅約 9 分鐘，利於術中滴定給藥與隨時停藥。",
+      "flashcard_summary": "抗心律不整藥物 -> esmolol 為超短效 beta-1 阻斷劑，經紅血球內酯酶快速水解（半衰期 ~9 分鐘），適用於手術期急性心律不整",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考 Mirabegron 的藥理分類、作用部位、臨床適應症及副作用。Mirabegron 是一種選擇性 beta-3 交感神經受體致效劑（agonist），藉由活化膀胱逼尿肌（detrusor muscle）上的 beta-3 受體，促進逼尿肌舒張並增加膀胱儲尿容量，臨床上主要用於改善膀胱過動症（OAB）的急尿與頻尿症狀。\n\n【選項詳解】\n- A. 錯誤。mirabegron 是一種選擇性 beta-3 交感神經受體「致效劑（agonist）」，並非「拮抗劑（antagonist）」，藉由模擬交感神經刺激來放鬆膀胱平滑肌。\n- B. 錯誤。mirabegron 主要作用於膀胱逼尿肌上的 beta-3 受體使其「舒張」，而對尿道括約肌（主要受 alpha-1 受體控制收縮）無直接舒張作用。\n- C. 正確。mirabegron 藉由放鬆逼尿肌，能顯著增加膀胱的儲尿容量並減少不自主收縮，因此在臨床上被廣泛用於改善膀胱過動症（OAB）引起的伴隨症狀（如急尿、頻尿及急迫性尿失禁）。\n- D. 錯誤。mirabegron 活化 beta-3 受體可能活化部分心血管系統受體或影響周邊血管阻力，其主要副作用是「高血壓（hypertension）」與心跳加快，而非低血壓（hypotension），控制不良的高血壓患者應慎用。\n\n【核心考點】\nMirabegron 為 beta-3 交感神經受體致效劑（agonist），作用是放鬆膀胱逼尿肌以治療膀胱過動症（OAB），其主要副作用為血壓升高。",
+      "key_point": "Mirabegron 為選擇性 beta-3 交感神經受體致效劑，能使逼尿肌放鬆以改善膀胱過動症（OAB），其主要副作用為高血壓與心跳過快。",
+      "flashcard_front": "Mirabegron / 藥理機轉 / 膀胱過動症治療",
+      "flashcard_back": "Mirabegron 是選擇性 beta-3 受體致效劑（agonist），可放鬆膀胱逼尿肌以增加容量，常用於 OAB，主要副作用為高血壓。",
+      "flashcard_summary": "膀胱過動症治療 -> mirabegron 為選擇性 beta-3 受體致效劑，放鬆逼尿肌，副作用為高血壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題考膽鹼酯類（choline esters）擬副交感神經藥物（parasympathomimetics）的化學結構與受體選擇性。這類藥物包括 acetylcholine、methacholine、carbachol 與 bethanechol。其中，bethanechol 分子中具有「胺甲醯基（carbamoyl group）」與「β-甲基（beta-methyl group）」，前者使其能完全抵抗膽鹼酯酶（AChE）水解，後者使其對蕈毒鹼受體（M）具有高度選擇性，對菸鹼性受體（N）幾乎無活化作用。\n\n【選項詳解】\n- A. 錯誤。acetylcholine（乙醯膽鹼）是內源性神經傳遞物質，結構中沒有防禦水解的化學基團，因此極易被突觸間隙的乙醯膽鹼酯酶（AChE）迅速水解；且它對蕈毒鹼受體（M）及菸鹼性受體（N）皆有強烈的活化作用，無受體選擇性。\n- B. 錯誤。methacholine 結構中具有 β-甲基，這使其對 M 受體具有很高的選擇性（對 N 受體作用弱），但它結構中仍是乙醯基而非胺甲醯基，因此對膽鹼酯酶（AChE）只有中等抗性，水解速度雖慢於 acetylcholine，但仍會被分解。\n- C. 錯誤。carbachol 結構中具有胺甲醯基，能夠完全抵抗膽鹼酯酶（AChE）的分解；但它缺乏 β-甲基，因此對 M 受體和 N 受體（菸鹼性受體）都有強烈的活化作用，不符合「活化菸鹼性受體作用最弱」的條件。\n- D. 正確。bethanechol 分子結構同時具有胺甲醯基（使之能抵抗膽鹼酯酶水解，作用時間長）以及 β-甲基（使之對 M 受體有高度特異性，對 N 受體作用極弱），因此最符合對 N 受體活化最弱且不易被膽鹼酯酶分解的描述。\n\n【核心考點】\n膽鹼酯類藥物中，結構的「β-甲基」決定其具備 M 受體選擇性（對 N 作用極弱，如 methacholine, bethanechol），而「胺甲醯基」取代乙醯基則決定其能抵抗膽鹼酯酶（AChE）水解（如 carbachol, bethanechol）。",
+      "key_point": "Bethanechol 分子中具有胺甲醯基與 β-甲基，使其能抵抗膽鹼酯酶分解，且具備高度蕈毒鹼選擇性（對菸鹼性受體作用極弱）。",
+      "flashcard_front": "膽鹼酯類 / 結構效應關係（SAR）/ 膽鹼酯酶抗性與受體選擇性",
+      "flashcard_back": "β-甲基賦予 M 受體選擇性（弱 N 作用，如 bethanechol/methacholine）；胺甲醯基賦予 AChE 抗性（如 bethanechol/carbachol）。Bethanechol 兩者皆備。",
+      "flashcard_summary": "擬副交感神經藥 -> bethanechol 同時具 β-甲基（M 選擇性）與胺甲醯基（抗 AChE），N 作用最弱且最不易水解",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題為否定題，問何者不是 ipratropium 治療氣喘的機制。Ipratropium 是一種吸入性抗膽鹼藥物（M受體拮抗劑），藉由非選擇性拮抗支氣管平滑肌上的 M3 等蕈毒鹼受體，阻斷迷走神經釋放乙醯膽鹼（ACh）引起的氣道收縮，從而達到支氣管擴張及減少黏液分泌的作用，但它不具有抗發炎或抑制細胞激素生合成的作用。\n\n【選項詳解】\n- A. 錯誤。減少呼吸道黏液分泌是 ipratropium 治療氣喘的主要作用之一。M3 受體也分佈於氣道腺體，ipratropium 藉由阻斷 M3 受體，可有效減少迷走神經興奮引起的支氣管黏液過度分泌。\n- B. 錯誤。鬆弛支氣管平滑肌是 ipratropium 最核心的藥理作用。它能競爭性拮抗支氣管平滑肌上的 M3 受體，阻斷乙醯膽鹼刺激引起的 G_q 蛋白偶聯通路（減少 IP3/DAG 及鈣離子釋放），使支氣管平滑肌放鬆。\n- C. 正確。ipratropium 屬於支氣管擴張劑，不具備抗發炎效果，因此無法抑制發炎性細胞激素（cytokines）和趨化素（chemokines）的生合成（這是吸入性糖皮質激素如 fluticasone 或 budesonide 的作用機轉），故本選項並非其主要作用。\n- D. 錯誤。拮抗乙醯膽鹼作用是 ipratropium 的基本藥理機制。作為第四級銨鹽（quaternary ammonium）抗膽鹼藥，它藉由與乙醯膽鹼競爭蕈毒鹼受體來發揮作用。\n\n【核心考點】\nIpratropium 是吸入性 M 受體拮抗劑（抗膽鹼藥），藉由拮抗 M3 受體放鬆支氣管平滑肌並減少腺體分泌。它屬於症狀緩解劑（bronchodilator），不具備吸入性類固醇（ICS）抑制細胞激素生合成的抗發炎效應。",
+      "key_point": "Ipratropium 藉由拮抗 M3 受體鬆弛支氣管平滑肌並減少黏液分泌，但其不具備任何抗發炎或抑制細胞激素生合成的作用。",
+      "flashcard_front": "Ipratropium / 作用機轉 / 氣喘治療定位",
+      "flashcard_back": "Ipratropium 為 M 受體拮抗劑，可放鬆氣道平滑肌、減低分泌物，但無吸入類固醇（ICS）阻斷細胞激素生合成的抗炎活性。",
+      "flashcard_summary": "氣喘藥物機轉 -> ipratropium 為抗膽鹼支氣管擴張劑，不具抗炎或抑制細胞激素合成作用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考前列腺素類似物 misoprostol 的藥理性質與藥物動力學。Misoprostol 是一種人工合成的 PGE1 類似物，臨床上用於預防 NSAID 引起的胃潰瘍，或與 mifepristone 併用進行早期終止妊娠。它口服吸收極快，並在體內迅速經去酯化代謝為游離酸 misoprostol acid 發揮主要藥效。\n\n【選項詳解】\n- A. 錯誤。misoprostol 是前列腺素 E1（prostaglandin E1, PGE1）的合成結構類似物，而非前列腺環素（prostaglandin I2, PGI2，如 iloprost）的類似物。\n- B. 正確。misoprostol 口服後吸收極為迅速且完全，並在體內（包含胃腸道黏膜及肝臟）經過第一相代謝進行去酯化（de-esterification），生成其主要活性代謝物 misoprostol acid，此代謝產物具有強效的藥理活性。\n- C. 錯誤。misoprostol 的血中半衰期（half-life）非常短，其活性代謝物 misoprostol acid 的消除半衰期僅約 20 至 40 分鐘（少於 1 小時），而非長達 20 小時，因此臨床上通常需要一天多次給藥。\n- D. 錯誤。misoprostol 具有雙重作用機轉：一方面結合胃壁細胞上的 EP3 受體，經由 G_i 途徑抑制胃酸分泌；另一方面，它能促進胃黏膜上皮細胞分泌黏液（mucus）與碳酸氫鹽（bicarbonate），增加胃黏膜血流量，具備強大的胃黏膜保護作用。\n\n【核心考點】\nMisoprostol 為合成的 PGE1 類似物，口服後快速吸收並去酯化為活性代謝物 misoprostol acid，半衰期極短（約 20-40 分鐘）；它兼具抑制胃酸分泌與保護胃黏膜（促進黏液/碳酸氫鹽分泌）雙重作用。",
+      "key_point": "Misoprostol 是合成的 PGE1 類似物，口服吸收迅速且代謝為活性的 misoprostol acid，其半衰期僅約 20-40 分鐘，且兼具抑制胃酸與胃黏膜保護作用。",
+      "flashcard_front": "Misoprostol / 藥物分類 / 藥代動力學與黏膜保護",
+      "flashcard_back": "Misoprostol 是 PGE1 類似物。口服後經去酯化生成活性代謝物 misoprostol acid。半衰期極短（20-40分）。具 EP3 介導的抑酸與黏液分泌保護作用。",
+      "flashcard_summary": "胃黏膜保護藥 -> misoprostol 為 PGE1 類似物，口服代謝為活性 misoprostol acid，半衰期極短（<1小時），具抑酸與防護雙重活性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題問急性嚴重偏頭痛發作時的第一線治療藥物，且因會引起血管收縮而禁忌於冠狀動脈疾病患者。Triptan 類藥物（如 sumatriptan）是選擇性 5-HT1B/1D 受體致效劑，能收縮擴張的腦膜血管並抑制三叉神經傳導，但因同時會刺激冠狀動脈的 5-HT1B 受體引起冠脈收縮，因此患有缺血性心臟病、心絞痛或控制不良高血壓的患者禁用。\n\n【選項詳解】\n- A. 錯誤。lorcaserin 是一種選擇性 5-HT2C 受體致效劑，臨床上曾用於抑制食慾以減重（後因致癌風險疑慮已撤市），它既非急性偏頭痛發作的第一線用藥，其作用機轉也與偏頭痛治療無關。\n- B. 錯誤。aspirin（阿斯匹靈）是不可逆的環氧化酶（COX-1/COX-2）抑制劑，雖可用於輕度至中度偏頭痛的消炎止痛，但它對冠狀動脈有保護作用（低劑量用於預防心肌梗塞），絕非冠狀動脈疾病患者的「禁忌」用藥。\n- C. 錯誤。phentermine 是一種擬交感神經胺類藥物（安非他命類似物），主要用作短期減重藥物以抑制食慾，並非偏頭痛發作時的第一線治療用藥。\n- D. 正確。sumatriptan 屬於 triptan 類藥物，是 5-HT1B/1D 受體致效劑。它能活化腦膜血管上的 5-HT1B 受體引起血管收縮，並活化三叉神經末梢 of 5-HT1D 受體以抑制發炎性胜肽（如 CGRP）釋放。然而，它也會收縮冠狀動脈，可能誘發心肌梗塞或心絞痛，因此冠狀動脈疾病（CAD）患者絕對禁用。\n\n【核心考點】\nTriptan 類藥物（如 sumatriptan）為 5-HT1B/1D 受體致效劑，用於急性嚴重偏頭痛發作。其活化 5-HT1B 會引起血管收縮，故冠狀動脈疾病（CAD）、腦血管疾病或控制不良高血壓患者禁用。",
+      "key_point": "Sumatriptan 是 5-HT1B/1D 受體致效劑，用於急性偏頭痛發作，其收縮血管作用使冠狀動脈疾病患者列為絕對禁忌。",
+      "flashcard_front": "急性偏頭痛 / Triptan 類藥物機轉 / 冠心病禁忌原因",
+      "flashcard_back": "Sumatriptan 活化 5-HT1B/1D 引起腦膜血管收縮與抑制發炎性胜肽，亦會收縮冠狀動脈，故冠狀動脈疾病（CAD）或控制不良的高血壓禁用。",
+      "flashcard_summary": "偏頭痛藥物 -> sumatriptan 為 5-HT1B/1D 致效劑，因具收縮冠脈作用，冠心病患者絕對禁用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考前列腺素（prostaglandin）類藥物及其類似物的臨床適應症。肺動脈高壓（PAH）患者肺部前列腺環素（prostacyclin, PGI2）濃度通常下降。Iloprost 是一種合成的 PGI2 類似物，藉由活化血管平滑肌上的 IP 受體，調控 cAMP 途徑，發揮強大的擴張肺血管及抑制血小板凝集作用，主要以吸入方式給藥來治療肺高壓。\n\n【選項詳解】\n- A. 錯誤。latanoprost 是一種前列腺素 F2a（PGF2a）的結構類似物，主要藉由促進房水經由葡萄膜鞏膜通路（uveoscleral pathway）流出以降低眼壓，臨床上僅用於治療青光眼與高眼壓症，不適用於治療肺高壓。\n- B. 錯誤。zileuton 是一種 5-脂氧合酶（5-lipoxygenase, 5-LOX）抑制劑，能阻斷白三烯素（leukotrienes）的合成，在臨床上僅作為預防與長期治療氣喘的口服藥物，對肺高壓無血管擴張治療效果。\n- C. 正確。iloprost 是前列腺環素（PGI2）的穩定合成類似物，能特異性與血管平滑肌的 IP 受體結合，活化腺苷酸環化酶（adenylyl cyclase）增加胞內 cAMP，導致肺血管平滑肌鬆弛，吸入給藥能有效改善肺高壓患者的運動耐受力。\n- D. 錯誤。dinoprostone 是前列腺素 E2（PGE2）的合成物，主要作用於子宮平滑肌使其收縮，並促進子宮頸成熟（cervical ripening），臨床上主要用於催產及終止妊娠，不適用於肺高壓的治療。\n\n【核心考點】\nPGI2 類似物（如 iloprost, epoprostenol）能活化 IP 受體、提升 cAMP 以放鬆血管平滑肌，臨床上以吸入或靜脈注射給藥治療肺高壓（PAH）。",
+      "key_point": "Iloprost 為穩定的 PGI2 類似物，藉由活化 IP 受體以擴張肺部小動脈，吸入給藥用於治療肺動脈高壓（PAH）。",
+      "flashcard_front": "肺高壓治療 / 前列腺環素（PGI2）類似物 / 擴血管機轉",
+      "flashcard_back": "Iloprost 是 PGI2 類似物，能結合 IP 受體、增加 cAMP 使肺血管平滑肌舒張，常用於治療肺高壓。",
+      "flashcard_summary": "肺高壓治療 -> PGI2 類似物 iloprost 結合 IP 受體增加 cAMP 舒張肺血管，吸入給藥治療肺高壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T18:58:26+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

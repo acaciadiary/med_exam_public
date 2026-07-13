@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-1.json",
+  "dataset_id": "110-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n兩試管 PO2 都是 40 mmHg，但乙的 PCO2 較高。CO2 上升使 pH 下降並造成 Bohr effect，血紅素氧解離曲線右移，在相同 PO2 下氧飽和度較低。本題官方答案為 C。\n\n【選項詳解】\n- A. 乙的血氧飽和度較低，血液總氧含量不會與甲相同。\n- B. 血漿溶解氧主要由 PO2 決定，兩者 PO2 相同時血漿溶解氧相近，不是甲更多的核心差異。\n- C. 乙 PCO2 較高造成 Bohr effect，血紅素氧飽和度比甲低，故正確。\n- D. PCO2 較高會使 pH 較低，不是較高。\n\n【核心考點】\nCO2 上升/酸中毒 -> Bohr effect -> Hb-O2 affinity 下降，同 PO2 下 O2 saturation 降低。",
+      "key_point": "CO2 上升/酸中毒 -> Bohr effect -> Hb-O2 affinity 下降，同 PO2 下 O2 saturation 降低。",
+      "flashcard_front": "甲、乙兩試管內含有相同的正常人體血液,分別灌入氣體使得兩者血液之氧分壓( )均為40 mmHg,甲  試管內血液之二氧化碳分壓( )為40 mmHg,乙試管內血液之二氧化碳分...",
+      "flashcard_back": "CO2 上升/酸中毒 -> Bohr effect -> Hb-O2 affinity 下降，同 PO2 下 O2 saturation 降低。",
+      "flashcard_summary": "CO2 上升/酸中毒 -> Bohr effect -> Hb-O2 affinity 下降，同 PO2 下 O2 saturation 降低。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n脂肪酵素可由舌/口腔、胃、小腸與胰臟相關分泌參與脂肪消化；膽囊主要儲存與濃縮膽汁，本身不分泌 lipase。本題官方答案為 D。\n\n【選項詳解】\n- A. 口腔可有 lingual lipase 參與脂肪消化，尤其在早期消化中有角色。\n- B. 小腸上皮與腸液可有少量脂解相關酵素或消化輔助作用，不是最少。\n- C. 胰臟分泌 pancreatic lipase，是脂肪消化最主要來源。\n- D. 膽囊儲存膽汁、排出膽鹽幫助乳化脂肪，但不分泌脂肪酵素，故最少。\n\n【核心考點】\n膽囊排膽汁不分泌 lipase；脂肪消化主要靠 pancreatic lipase。",
+      "key_point": "膽囊排膽汁不分泌 lipase；脂肪消化主要靠 pancreatic lipase。",
+      "flashcard_front": "正常生理狀況下,下列何種器官所分泌的脂肪酵素(lipase)最少?",
+      "flashcard_back": "膽囊排膽汁不分泌 lipase；脂肪消化主要靠 pancreatic lipase。",
+      "flashcard_summary": "膽囊排膽汁不分泌 lipase；脂肪消化主要靠 pancreatic lipase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n脂溶性維生素 A、D、E、K 功能各有典型配對：A 視覺與上皮、D 鈣磷吸收、E 抗氧化、K 凝血因子 gamma-carboxylation。增加肌肉張力不是維生素 K 的主要功能。本題官方答案為 A。\n\n【選項詳解】\n- A. 維生素 K 主要參與凝血因子修飾，不是增加肌肉張力，故為最不恰當答案。\n- B. 活化態維生素 D 可促進腸道鈣磷吸收，敘述正確。\n- C. 維生素 E 是脂溶性抗氧化劑，保護細胞膜脂質，敘述正確。\n- D. 維生素 A 參與視紫質等感光色素形成，敘述正確。\n\n【核心考點】\n脂溶性維生素：A vision，D calcium，E antioxidant，K coagulation。",
+      "key_point": "脂溶性維生素：A vision，D calcium，E antioxidant，K coagulation。",
+      "flashcard_front": "下列有關脂溶性維生素功能的敘述,何者最不恰當?",
+      "flashcard_back": "脂溶性維生素：A vision，D calcium，E antioxidant，K coagulation。",
+      "flashcard_summary": "脂溶性維生素：A vision，D calcium，E antioxidant，K coagulation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n遠曲小管管腔側 Na-Cl cotransporter 的鈉再吸收，最終仰賴基底外側 Na/K ATPase 維持低細胞內 Na+；基底外側 K+ channel 讓 K+ 回收並維持 Na/K ATPase 運作與膜電位。本題官方答案為 A。\n\n【選項詳解】\n- A. 基底外側 K+ channel 支持 K+ recycling、膜電位與 Na/K ATPase 功能，間接維持管腔側鈉再吸收驅動力，故正確。\n- B. 氯離子通道可參與氯外流，但題目問最有賴於搭配的關鍵通道時，K+ recycling 更核心。\n- C. 基底外側鈉通道不是維持低細胞內 Na+ 的主要機制；主要靠 Na/K ATPase。\n- D. 遠曲小管早段對水通透性低，水通道不是 NCC 鈉再吸收的主要搭配。\n\n【核心考點】\nDCT NaCl reabsorption 靠 luminal NCC，加上 basolateral Na/K ATPase 與 K+ recycling 維持梯度。",
+      "key_point": "DCT NaCl reabsorption 靠 luminal NCC，加上 basolateral Na/K ATPase 與 K+ recycling 維持梯度。",
+      "flashcard_front": "在distal convoluted tubule的靠管腔(tubular lumen)側的細胞膜上,對鈉再吸收的同向運輸子(cotransporter)  的運轉,最有賴於...",
+      "flashcard_back": "DCT NaCl reabsorption 靠 luminal NCC，加上 basolateral Na/K ATPase 與 K+ recycling 維持梯度。",
+      "flashcard_summary": "DCT NaCl reabsorption 靠 luminal NCC，加上 basolateral Na/K ATPase 與 K+ recycling 維持梯度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n菊糖可自由濾過，不被分泌、不被再吸收，因此清除率等於 GFR。用來估腎血漿流量的是 PAH，而不是 inulin。本題官方答案為 C。\n\n【選項詳解】\n- A. 菊糖可經腎絲球自由濾過，敘述正確。\n- B. 菊糖不被腎小管分泌或再吸收，這正是測 GFR 的理由。\n- C. 菊糖清除率接近 GFR，不接近腎血漿流量；腎血漿流量用 PAH 估算，故為錯誤答案。\n- D. 菊糖清除率與腎小球濾過率接近，敘述正確。\n\n【核心考點】\nInulin clearance = GFR；PAH clearance 估 renal plasma flow。",
+      "key_point": "Inulin clearance = GFR；PAH clearance 估 renal plasma flow。",
+      "flashcard_front": "有關應用菊糖(inulin)於腎功能測量之敘述,下列何者錯誤?",
+      "flashcard_back": "Inulin clearance = GFR；PAH clearance 估 renal plasma flow。",
+      "flashcard_summary": "Inulin clearance = GFR；PAH clearance 估 renal plasma flow。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nMesangial cell 收縮會降低濾過表面積，常受 angiotensin II、endothelin、norepinephrine 等血管收縮物質促進。Dopamine 在腎臟多與血管舒張、利鈉相關，最不可能造成收縮。本題官方答案為 A。\n\n【選項詳解】\n- A. 多巴胺在低劑量腎臟作用偏血管舒張與利鈉，不是典型促進 mesangial contraction 因子，故為答案。\n- B. endothelin 是強力血管收縮物質，可促進 mesangial cell 收縮。\n- C. angiotensin II 可收縮出球小動脈，也可促進 mesangial cell 收縮。\n- D. norepinephrine 透過交感 alpha 作用促進血管與 mesangial 收縮。\n\n【核心考點】\nMesangial contraction 常由 Ang II、endothelin、NE 促進；dopamine 腎臟作用偏舒張/利鈉。",
+      "key_point": "Mesangial contraction 常由 Ang II、endothelin、NE 促進；dopamine 腎臟作用偏舒張/利鈉。",
+      "flashcard_front": "下列何者最不可能造成腎間質細胞(mesangial cell)的收縮?",
+      "flashcard_back": "Mesangial contraction 常由 Ang II、endothelin、NE 促進；dopamine 腎臟作用偏舒張/利鈉。",
+      "flashcard_summary": "Mesangial contraction 常由 Ang II、endothelin、NE 促進；dopamine 腎臟作用偏舒張/利鈉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\nACTH 作用於腎上腺皮質 MC2 receptor，主要經 Gs-cAMP-PKA 路徑促進膽固醇運送與類固醇生成。原發性腎上腺不足時 cortisol 低，負回饋減少使 ACTH 上升。本題官方答案為 D。\n\n【選項詳解】\n- A. ACTH 主要不是 PLC 路徑，而是 cAMP/PKA 路徑。\n- B. 類固醇生成關鍵是膽固醇進入粒線體，非平滑內質網作為第一步。\n- C. 皮質醇為脂溶性類固醇，合成後擴散釋放，不是預先儲於分泌囊泡。\n- D. 原發性腎上腺不足 cortisol 下降，對下視丘/腦下垂體負回饋降低，使 ACTH 增加，故正確。\n\n【核心考點】\nACTH = cAMP/PKA 促 steroidogenesis；primary adrenal insufficiency = cortisol 低、ACTH 高。",
+      "key_point": "ACTH = cAMP/PKA 促 steroidogenesis；primary adrenal insufficiency = cortisol 低、ACTH 高。",
+      "flashcard_front": "有關腎上腺皮質促素(adrenocorticotropic hormone, ACTH)調控皮質醇(cortisol)分泌的敘述,下列何者正  確?",
+      "flashcard_back": "ACTH = cAMP/PKA 促 steroidogenesis；primary adrenal insufficiency = cortisol 低、ACTH 高。",
+      "flashcard_summary": "ACTH = cAMP/PKA 促 steroidogenesis；primary adrenal insufficiency = cortisol 低、ACTH 高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\nGH 受 GHRH 與 ghrelin 促進，受 somatostatin 抑制；飢餓、運動與慢波睡眠可增加 GH，老化 GH 分泌下降。多巴胺典型抑制 prolactin，不是 GH 的主要抑制因子。本題官方答案為 A。\n\n【選項詳解】\n- A. 下視丘 dopamine 主要抑制 prolactin，不是抑制 GH 的典型調控，故為最不適當答案。\n- B. 飢餓狀態可促進 GH，以動員能源並維持血糖。\n- C. 慢波睡眠，尤其深睡期，會促進 GH 脈衝分泌。\n- D. GH 分泌隨年齡增加而下降，50 歲通常低於 20 歲。\n\n【核心考點】\nGH regulation：GHRH/ghrelin 促進，somatostatin 抑制；dopamine 主要抑制 prolactin。",
+      "key_point": "GH regulation：GHRH/ghrelin 促進，somatostatin 抑制；dopamine 主要抑制 prolactin。",
+      "flashcard_front": "有關生長荷爾蒙(growth hormone)生成分泌之調控,下列敘述何者最不適當?",
+      "flashcard_back": "GH regulation：GHRH/ghrelin 促進，somatostatin 抑制；dopamine 主要抑制 prolactin。",
+      "flashcard_summary": "GH regulation：GHRH/ghrelin 促進，somatostatin 抑制；dopamine 主要抑制 prolactin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n進食後腸道 enteroendocrine cells 分泌 incretin，特別是 GLP-1 與 GIP，可葡萄糖依賴性促進胰島素分泌。DPP-4 是分解 GLP-1 的酵素，不是促胰島素的腸泌素本身。本題官方答案為 C。\n\n【選項詳解】\n- A. 腎上腺素來自腎上腺髓質/交感系統，通常抑制胰島素並促升糖，不是進食腸泌素。\n- B. DPP-4 是分解 incretin 的酵素，不是促進胰島素分泌的腸道荷爾蒙。\n- C. GLP-1 是進食後由腸道 L cells 分泌的 incretin，可促進胰島素分泌，故正確。\n- D. GLUT-4 是胰島素敏感組織的葡萄糖運輸蛋白，不是腸道分泌物。\n\n【核心考點】\nIncretin effect：GLP-1/GIP 進食後促 insulin；DPP-4 分解 incretin。",
+      "key_point": "Incretin effect：GLP-1/GIP 進食後促 insulin；DPP-4 分解 incretin。",
+      "flashcard_front": "進食最主要可刺激腸道內分泌細胞(enteroendocrine cells)分泌下列何種物質來促進胰臟分泌胰島素  (insulin)?",
+      "flashcard_back": "Incretin effect：GLP-1/GIP 進食後促 insulin；DPP-4 分解 incretin。",
+      "flashcard_summary": "Incretin effect：GLP-1/GIP 進食後促 insulin；DPP-4 分解 incretin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n類固醇生成的限速早期步驟是膽固醇由外粒線體膜運入內粒線體膜，StAR 蛋白負責此運送；缺陷可造成先天性脂質性腎上腺增生。本題官方答案為 D。\n\n【選項詳解】\n- A. 膽固醇酯酶可釋放游離膽固醇，但不是把膽固醇送入粒線體的關鍵蛋白。\n- B. LDL receptor 負責攝取膽固醇來源，不是粒線體內運送步驟。\n- C. HDL receptor 可參與膽固醇取得，但不是本題所問的 StAR 功能。\n- D. StAR 促進膽固醇進入粒線體以啟動 steroidogenesis，缺陷可造成 congenital lipoid adrenal hyperplasia，故正確。\n\n【核心考點】\nSteroidogenesis first key step：StAR moves cholesterol into mitochondria。",
+      "key_point": "Steroidogenesis first key step：StAR moves cholesterol into mitochondria。",
+      "flashcard_front": "下列何者是促進膽固醇進入粒線體以啟動類固醇生成(steroidogenesis)之重要因子,且其基因缺失會導致先  天性腎上腺增生症(congenital lipoid ad...",
+      "flashcard_back": "Steroidogenesis first key step：StAR moves cholesterol into mitochondria。",
+      "flashcard_summary": "Steroidogenesis first key step：StAR moves cholesterol into mitochondria。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

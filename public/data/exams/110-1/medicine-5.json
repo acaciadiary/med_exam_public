@@ -4,7 +4,7 @@
   "title": "110 年第一次醫師國考：醫學（五）",
   "subject": "medicine-5",
   "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=302&code=110020&q=1&s=33&t=Q",
-  "updated_at": "2026-06-30T14:05:39.265Z",
+  "updated_at": "2026-07-13T00:00:00+08:00",
   "questions": [
     {
       "id": "110-1_medicine-5_001",
@@ -17,9 +17,9 @@
         "D": "最近的文獻,亦有Tranexamic acid(TXA)應用在Damage Control Principles中"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「目前對於重大外傷病患的處理,大都依據Damage Control Principles;針對這種處理策略的敘述,下列何者錯\n 誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：重大外傷病患的「致命三聯徵 (Lethal triad)」包括：低體溫 (Hypothermia)、代謝性酸中毒 (Metabolic acidosis) 及「凝血功能障礙 (Coagulopathy)」，並不包括低血壓 (Hypotension)，因此選項 (A) 敘述錯誤。外傷控制手術策略強調不進行耗時的確定性重建，而是快速止血、控制腸道污染並暫時性關閉腹腔；對於大出血的復甦，建議以 1:1:1 的比例給予紅血球、新鮮冷凍血漿與血小板；且早期投予傳明酸 (Tranexamic acid, TXA) 能有效減少出血及死亡率。\n\n【選項詳解】\n- A. 正確答案。選項內容：「外傷病患出現的lethal triad包括 hypotension, hypothermia, metabolic acidosis」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「手術策略為積極復甦處置(aggressive resuscitation),快速止血處理(quickly managing bleeding),腸道破\n 裂快速縫合或局部切掉但不接回,及胸腹部開刀傷口暫時性關閉(temporary closure)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「軍方於戰場處理的經驗,建議resuscitation時,Packed RBC, FFP及platelet應使用1:1:1的比例」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「最近的文獻,亦有Tranexamic acid(TXA)應用在Damage Control Principles中」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n重大外傷控制 (Damage Control) 的致命三聯徵定義。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "重大外傷控制 (Damage Control) 的致命三聯徵定義。",
-      "flashcard_summary": "外傷致命三聯徵 -> 外傷致命三聯徵為低體溫、酸中毒及凝血障礙（非低血壓）；大量輸血建議比例為 1:1:1。",
+      "explanation": "【題幹解析】\n題目問 damage control principles 何者錯誤。外傷 lethal triad 是低體溫、酸中毒與凝血障礙；低血壓是休克表現與原因之一，但不是 lethal triad 的三項之一。\n\n【選項詳解】\n- A. 此項把 hypotension 列入 lethal triad，漏掉 coagulopathy，因此是錯誤敘述。\n- B. damage control surgery 重點是先快速止血、控制污染、暫時關腹或關胸，之後再分期重建，敘述正確。\n- C. 大量出血復甦常採接近 1:1:1 的 PRBC、FFP、platelet 比例，以避免稀釋性凝血障礙。\n- D. TXA 可用於重大外傷早期抗纖溶治療，是 damage control resuscitation 可考慮的一環。\n\n【核心考點】\n外傷 lethal triad 是 hypothermia、acidosis、coagulopathy，不包括 hypotension。",
+      "key_point": "外傷 lethal triad 是 hypothermia、acidosis、coagulopathy，不包括 hypotension。",
+      "flashcard_summary": "外科概論 -> 外傷 lethal triad 是 hypothermia、acidosis、coagulopathy，不包括 hypotension。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -27,13 +27,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "重大外傷控制 / 致命三聯徵 (Lethal triad) / 外科控制手術策略 / 大量輸血比例 / 傳明酸 (TXA)",
-      "flashcard_back": "外傷致命三聯徵是「低體溫、酸中毒、凝血功能障礙」，不包含低血壓；大量輸血建議 PRBC:FFP:PLT 採 1:1:1。",
+      "flashcard_back": "外傷 lethal triad 是 hypothermia、acidosis、coagulopathy，不包括 hypotension。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_002",
@@ -46,9 +46,9 @@
         "D": "急性疼痛(acute pain)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「39歲男性,有本態性高血壓、高脂血症、糖尿病及肝功能異常等病史並接受藥物控制,因病態性肥胖接受腹腔\n 鏡袖狀胃切除手術(sleeve gastrectomy)。術前病人體重130公斤,身體質量指數(body mass index)為42\n .4kg/m2,血壓146/70 mmHg,心跳72次/分,呼吸16次/分。術後4小時病人主訴呼吸困難,意識呈焦慮狀態,當\n 時血壓120/95 mmHg、心跳117次/分、呼吸26次/分,給與氧氣3公升/分,使用後,動脈血氧飽和度可達100%。\n 此時病人最有可能的診斷為何?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腹腔鏡袖狀胃切除術後 4 小時出現呼吸急促、焦慮、心搏過速 (117次/分) 及脈搏壓變窄 (120/95 mmHg，收縮壓與舒張壓僅差 25 mmHg)，是典型的「急性失血 (acute blood loss)」引發代償性休克的早期表現，故選 (C)。胃切除手術切線長，術後極易發生吻合口或切線滲血；急性失血會造成回心血量減少，引發交感神經興興奮而心跳加快、血管強烈收縮使舒張壓上升（導致脈壓差變小）以及代償性呼吸增快以維持組織灌流。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「急性肺栓塞(acute pulmonary embolism)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「急性心肌梗塞(acute myocardial infarction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「急性失血(acute blood loss)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「急性疼痛(acute pain)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n減重手術後早期併發症（急性失血）的臨床辨識。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "減重手術後早期併發症（急性失血）的臨床辨識。",
-      "flashcard_summary": "術後急性失血辨識 -> 術後出現心速快、呼吸喘且脈壓差變小，是急性失血引發代償性休克的典型表現。",
+      "explanation": "【題幹解析】\n術後 4 小時呼吸困難、焦慮、心搏過速、脈壓變窄，但給少量氧氣後血氧可達 100%，較不像肺栓塞或心肌梗塞；減重手術早期需優先懷疑術後出血造成代償性休克。\n\n【選項詳解】\n- A. 肺栓塞可呼吸困難與心搏快，但通常低氧較明顯，且題幹血氧可迅速達 100%，不是最符合。\n- B. 急性心肌梗塞可術後發生，但題幹缺胸痛、心電圖或心肌酵素線索。\n- C. 術後早期心搏快、焦慮、呼吸變快與脈壓變窄，最需懷疑急性失血。\n- D. 疼痛可造成心搏快與焦慮，但不能解釋術後早期潛在休克型生命徵象變化。\n\n【核心考點】\n減重手術術後早期心搏快與脈壓變窄，要優先排除急性失血。",
+      "key_point": "減重手術術後早期心搏快與脈壓變窄，要優先排除急性失血。",
+      "flashcard_summary": "一般外科 -> 減重手術術後早期心搏快與脈壓變窄，要優先排除急性失血。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -56,13 +56,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "胃袖狀切除術後 / 呼吸增快焦慮 / 心搏過速 (HR 117) / 脈壓差變窄 (120/95) / 診斷",
-      "flashcard_back": "減重手術後心速快、呼吸急且脈壓差顯著變窄，高度提示急性失血（出血性休克）的代償反應。",
+      "flashcard_back": "減重手術術後早期心搏快與脈壓變窄，要優先排除急性失血。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_003",
@@ -75,9 +75,9 @@
         "D": "類固醇初期高劑量使用會產生全身水腫情形"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「器官移植病患初期常使用高劑量的類固醇,下列敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：為了避免長期使用類固醇帶來的嚴重副作用（如骨質疏鬆、糖尿病、高血壓及白內障），現代器官移植的長期維持療法多傾向採用「減免類固醇療法 (steroid-sparing or steroid-free regimen)」，而非將長期合併類固醇作為必然的標準給藥模式，故選項 (A) 敘述錯誤。類固醇的副作用具劑量依賴性；當發生急性排斥時，標準處置是給予高劑量類固醇脈衝治療 (steroid pulse therapy)；且在初期高劑量使用時，因其具有保鈉排鉀作用，常會引發水鈉滯留而造成全身水腫。\n\n【選項詳解】\n- A. 正確答案。選項內容：「長期合併類固醇使用仍是移植病患標準的給藥模式」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「副作用的產生是dose dependent」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「急性排斥往往需要高劑量類固醇注射治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「類固醇初期高劑量使用會產生全身水腫情形」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n移植後免疫抑制劑中類固醇的使用策略與限制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "移植後免疫抑制劑中類固醇的使用策略與限制。",
-      "flashcard_summary": "移植類固醇使用策略 -> 移植維持期傾向減免類固醇，非長期必然標準；急性排斥需用高劑量脈衝治療。",
+      "explanation": "【題幹解析】\n移植初期或急性排斥時可用高劑量類固醇，但長期維持治療越來越強調 steroid minimization 或 withdrawal，以減少感染、代謝與水腫等副作用。\n\n【選項詳解】\n- A. 長期合併類固醇已非所有移植病患的標準模式，許多方案會嘗試減量或停用，因此此項錯誤。\n- B. 類固醇副作用如高血糖、水腫、感染、骨質疏鬆多與劑量及時間相關。\n- C. 急性排斥常以 pulse steroid 作為第一線治療之一。\n- D. 初期高劑量類固醇可造成鈉水滯留與全身水腫。\n\n【核心考點】\n移植類固醇常用於誘導或排斥治療，長期維持需盡量減量以降低副作用。",
+      "key_point": "移植類固醇常用於誘導或排斥治療，長期維持需盡量減量以降低副作用。",
+      "flashcard_summary": "移植外科 -> 移植類固醇常用於誘導或排斥治療，長期維持需盡量減量以降低副作用。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -85,13 +85,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "移植免疫抑制 / 類固醇長期維持 / 減免類固醇療法 / 副作用劑量依賴 / 急性排斥脈衝",
-      "flashcard_back": "移植長期維持治療傾向「減免類固醇」以減少副作用，非必須長期使用；急性排斥以高劑量類固醇脈衝治療。",
+      "flashcard_back": "移植類固醇常用於誘導或排斥治療，長期維持需盡量減量以降低副作用。",
       "category_group": "醫學（五）",
       "category": "移植外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_004",
@@ -104,9 +104,9 @@
         "D": "血液中癌胚蛋白(carcinoembryonic antigen, CEA)的敏感及專一性並不佳,但可做為手術後追蹤腫瘤復發的\n 參考"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關人類惡性腫瘤之描述,下列何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：尿液中的 Bence Jones protein 是「多發性骨髓瘤 (Multiple myeloma)」特有的單株游離免疫球蛋白輕鏈，並非淋巴癌的腫瘤生物指標，因此選項 (B) 敘述錯誤。肺臟與肋膜由於血流豐富，是多種惡性腫瘤最容易發生血行性轉移的部位；針對肺、肝、腦部的單一孤立性轉移灶進行手術切除，能顯著改善部分患者的預後與存活率；血清 CEA 雖不適合做為大眾篩檢工具，但極適合用於大腸直腸癌手術後的復發追蹤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「惡性腫瘤最常轉移的位置之一為肺臟及肋膜」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「尿中Bence Jones protein是淋巴癌的腫瘤生物指標(tumor biomarker)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「手術切除肺臟、肝臟或腦部的單一轉移病灶,有機會延長病人存活率」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「血液中癌胚蛋白(carcinoembryonic antigen, CEA)的敏感及專一性並不佳,但可做為手術後追蹤腫瘤復發的\n 參考」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n惡性腫瘤生物標記與轉移治療原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "惡性腫瘤生物標記與轉移治療原則。",
-      "flashcard_summary": "腫瘤指標與轉移 -> Bence Jones 蛋白為多發性骨髓瘤的指標；單一孤立轉移灶切除可延長存活。",
+      "explanation": "【題幹解析】\nBence Jones protein 是免疫球蛋白輕鏈，典型見於多發性骨髓瘤，不是淋巴癌的典型腫瘤標記。\n\n【選項詳解】\n- A. 肺與肋膜是多種惡性腫瘤常見轉移部位，敘述正確。\n- B. 尿中 Bence Jones protein 指向 plasma cell dyscrasia，尤其多發性骨髓瘤，不是 lymphoma marker。\n- C. 少數單一肺、肝、腦轉移病灶在選擇良好病人中切除可延長存活。\n- D. CEA 敏感度與專一性不足以篩檢，但可用於大腸癌等術後追蹤復發趨勢。\n\n【核心考點】\nBence Jones protein 是多發性骨髓瘤相關輕鏈，不是淋巴癌腫瘤標記。",
+      "key_point": "Bence Jones protein 是多發性骨髓瘤相關輕鏈，不是淋巴癌腫瘤標記。",
+      "flashcard_summary": "外科概論 -> Bence Jones protein 是多發性骨髓瘤相關輕鏈，不是淋巴癌腫瘤標記。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -114,13 +114,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腫瘤標記 / Bence Jones protein / 多發性骨髓瘤 vs 淋巴癌 / 單一轉移灶切除 / CEA 臨床用途",
-      "flashcard_back": "尿中 Bence Jones 蛋白是「多發性骨髓瘤」的特異標記而非淋巴癌；單一轉移病灶手術切除有助延長存活。",
+      "flashcard_back": "Bence Jones protein 是多發性骨髓瘤相關輕鏈，不是淋巴癌腫瘤標記。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_005",
@@ -133,9 +133,9 @@
         "D": "尿道感染(urinary tract infection)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「術後48至72小時內發燒較常見的原因是:」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：手術後 48 至 72 小時內的早期發燒，最常見的原因是「肺泡塌陷 (atelectasis)」，多因麻醉、術後疼痛導致患者呼吸受限、痰液蓄積所致，故選 (C)。一般而言，尿道感染 (UTI) 與靜脈栓塞多發生於術後 3 天左右；傷口感染 (wound infection) 常在術後 3 至 5 天顯現；而腹內膿瘍 (intra-abdominal abscess) 等深部感染則通常要到術後 5 至 7 天以上才會引起發燒。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「傷口發炎(wound infection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「腹內膿瘍(intra-abdominal abscess)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「肺泡塌陷(atelectasis)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「尿道感染(urinary tract infection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n手術後早期發燒的常見病因與時間線。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "手術後早期發燒的常見病因與時間線。",
-      "flashcard_summary": "術後早期發燒原因 -> 術後前3天（48-72小時）發燒主因為肺泡塌陷，3天後發燒才多考慮傷口或尿道感染。",
+      "explanation": "【題幹解析】\n術後 48 至 72 小時內發燒常見於肺泡塌陷或早期肺部併發症；傷口感染、腹內膿瘍與泌尿道感染通常較晚或需特定危險因子。\n\n【選項詳解】\n- A. 傷口感染多在術後數天後較常出現，48 小時內不是最常見。\n- B. 腹內膿瘍通常需較長時間形成，常見於術後一週左右或更晚。\n- C. 早期術後因疼痛、麻醉、換氣不足造成 atelectasis，是 48 至 72 小時發燒常見原因。\n- D. 尿道感染多與導尿及時間相關，通常不是術後最早期發燒主因。\n\n【核心考點】\n術後早期 48 至 72 小時發燒，常先想到 atelectasis。",
+      "key_point": "術後早期 48 至 72 小時發燒，常先想到 atelectasis。",
+      "flashcard_summary": "外科概論 -> 術後早期 48 至 72 小時發燒，常先想到 atelectasis。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -143,13 +143,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "術後發燒時間線 / 48-72小時早期發燒 / 肺泡塌陷 / 傷口感染 / 腹內膿瘍",
-      "flashcard_back": "術後48-72小時內發燒最常見原因為「肺泡塌陷」；傷口感染與尿道感染通常在3天後發生。",
+      "flashcard_back": "術後早期 48 至 72 小時發燒，常先想到 atelectasis。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_006",
@@ -162,9 +162,9 @@
         "D": "30~35 Kcal x BW(Kg)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「營養支持對於外科重症的病人極為重要,下列何者最接近正常體重病人一天的基礎能量消耗(basal energy\n expenditure)?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：對於一般體重正常、處於相對穩定狀態的住院病患，其每日基礎能量消耗 (Basal energy expenditure, BEE) 或維持性熱量需求約為「25 至 30 Kcal/kg」，因此選項 (C) 最接近正常需求。若患者處於嚴重感染、重大燒傷或多重外傷等高代謝壓力狀態下，每日能量需求可能需提升至 30 至 35 Kcal/kg 以上；而 15 至 20 Kcal/kg 則多用於肥胖患者的低熱量支持或早期滋養型餵食。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「10~15 Kcal x BW(Kg)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「15~20 Kcal x BW(Kg)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「25~30 Kcal x BW(Kg)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「30~35 Kcal x BW(Kg)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n外科患者基礎能量消耗與每日熱量需求估算。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "外科患者基礎能量消耗與每日熱量需求估算。",
-      "flashcard_summary": "每日基礎能量需求 -> 正常體重病患每日基礎熱量消耗約為 25-30 Kcal/kg。",
+      "explanation": "【題幹解析】\n正常體重外科重症病人的每日基礎能量需求常以 25 至 30 kcal/kg/day 估算，之後再依壓力程度、營養狀態與間接熱量測定調整。\n\n【選項詳解】\n- A. 10 至 15 kcal/kg/day 通常低於一般成人基礎需求，容易低估。\n- B. 15 至 20 kcal/kg/day 仍偏低，較像低熱量或特殊限制策略。\n- C. 25 至 30 kcal/kg/day 是常用的正常成人每日熱量需求估算。\n- D. 30 至 35 kcal/kg/day 偏高，較適合特定高代謝或補償性需求，不是最接近基礎需求。\n\n【核心考點】\n外科重症成人每日熱量常先以 25 至 30 kcal/kg/day 估算。",
+      "key_point": "外科重症成人每日熱量常先以 25 至 30 kcal/kg/day 估算。",
+      "flashcard_summary": "外科概論 -> 外科重症成人每日熱量常先以 25 至 30 kcal/kg/day 估算。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -172,13 +172,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "基礎能量消耗 (BEE) / 外科營養支持 / 每日熱量估算 / 正常體重 / 高代謝壓力",
-      "flashcard_back": "正常體重患者每日基礎能量需求約為「25-30 Kcal/kg」；高代謝發炎狀態下則需 30-35 Kcal/kg。",
+      "flashcard_back": "外科重症成人每日熱量常先以 25 至 30 kcal/kg/day 估算。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_007",
@@ -191,9 +191,9 @@
         "D": "肢體顫抖(tremor)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是常壓性水腦(normal pressure hydrocephalus)臨床的三樣典型表徵(triad)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：常壓性水腦症 (NPH) 的典型臨床三聯徵 (triad) 包括：失智 (Dementia)、步態不穩 (Gait ataxia / disturbance) 及尿失禁 (Urinary incontinence)，並不包括「肢體顫抖 (Tremor)」，因此選項 (D) 正確。這三個症狀主要是因為擴大的側腦室壓迫了皮質脊髓側束（支配下肢與膀胱的纖維）以及前額葉皮質連接纖維所致；肢體顫抖通常是巴金森氏症或原發性震顫的特徵，非 NPH 核心表現。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「失智(dementia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「步態不穩(gait ataxia)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「尿失禁(urinary incontinence)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「肢體顫抖(tremor)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n常壓性水腦症 (NPH) 典型三聯徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "常壓性水腦症 (NPH) 典型三聯徵。",
-      "flashcard_summary": "NPH典型三聯徵 -> NPH典型表現包括失智、步態不穩與尿失禁，不含肢體顫抖。",
+      "explanation": "【題幹解析】\n常壓性水腦典型三聯徵是 gait disturbance、dementia、urinary incontinence。顫抖不是 NPH triad 之一。\n\n【選項詳解】\n- A. 失智或認知退化是 NPH 三聯徵之一。\n- B. 步態不穩常是 NPH 最早且最明顯的症狀。\n- C. 尿失禁是 NPH 三聯徵之一，常較晚出現。\n- D. 肢體顫抖較支持 Parkinsonism 或其他運動障礙，不是 NPH 三聯徵。\n\n【核心考點】\nNPH 三聯徵是步態障礙、失智、尿失禁。",
+      "key_point": "NPH 三聯徵是步態障礙、失智、尿失禁。",
+      "flashcard_summary": "神經外科 -> NPH 三聯徵是步態障礙、失智、尿失禁。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -201,13 +201,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "常壓性水腦症 (NPH) / 典型三聯徵 (Triad) / 肢體顫抖 / 壓迫解剖路徑",
-      "flashcard_back": "NPH 的三聯徵為「失智、步態不穩、尿失禁」；「肢體顫抖」不屬於 NPH 典型三聯徵。",
+      "flashcard_back": "NPH 三聯徵是步態障礙、失智、尿失禁。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_008",
@@ -220,9 +220,9 @@
         "D": "有可能侵犯進入周圍的靜脈竇(venous sinus)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於腦膜瘤(Meningioma)的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腦膜瘤 (Meningioma) 的腫瘤細胞並非源自於硬腦膜 (Dura)，而是源自於蛛網膜的「蛛網膜帽狀細胞 (Arachnoid cap cells)」，雖然它在影像學上常有硬腦膜附著的特徵（硬腦膜尾徵 dural tail），因此選項 (A) 敘述錯誤。大多數腦膜瘤為良性，但有少數可能發生惡性轉變；腦膜瘤常會刺激鄰近的顱骨，導致周圍骨質增生 (hyperostosis)；且腫瘤生長時有可能侵犯並進入周圍的硬腦膜靜脈竇（如上矢狀竇）。\n\n【選項詳解】\n- A. 正確答案。選項內容：「腫瘤細胞源自於硬腦膜(Dura)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「有可能從良性變為惡性(malignant transformation)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「有可能導致周圍骨增生(hyperostosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「有可能侵犯進入周圍的靜脈竇(venous sinus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n腦膜瘤 (Meningioma) 的組織學來源與病理特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "腦膜瘤 (Meningioma) 的組織學來源與病理特徵。",
-      "flashcard_summary": "腦膜瘤來源與病理 -> 腦膜瘤源自蛛網膜帽狀細胞，可致周圍骨增生，少數有惡性轉變之可能。",
+      "explanation": "【題幹解析】\n腦膜瘤源自 arachnoid cap cells，而不是硬腦膜本身。它常附著硬腦膜，並可造成周圍骨增生、侵犯靜脈竇，少數可惡性轉化。\n\n【選項詳解】\n- A. 腦膜瘤細胞來源是蛛網膜帽細胞，不是 dura，因此此項錯誤。\n- B. 腦膜瘤多為良性，但可有 atypical 或 malignant transformation。\n- C. 腦膜瘤可刺激鄰近顱骨造成 hyperostosis。\n- D. 腫瘤可能侵犯或包繞 venous sinus，影響切除策略。\n\n【核心考點】\nMeningioma 來源是 arachnoid cap cells，不是 dura。",
+      "key_point": "Meningioma 來源是 arachnoid cap cells，不是 dura。",
+      "flashcard_summary": "神經外科 -> Meningioma 來源是 arachnoid cap cells，不是 dura。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -230,13 +230,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腦膜瘤 (Meningioma) / 組織學來源 / 蛛網膜帽狀細胞 / 硬腦膜尾徵 / 骨質增生",
-      "flashcard_back": "腦膜瘤源自「蛛網膜帽狀細胞」而非硬腦膜本身；其可侵犯靜脈竇並引致周圍骨質增生。",
+      "flashcard_back": "Meningioma 來源是 arachnoid cap cells，不是 dura。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_009",
@@ -249,9 +249,9 @@
         "D": "前脈絡膜動脈(anterior choroidal artery)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「三叉神經痛最常因那一條血管壓迫而造成?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：三叉神經痛最常見的病因是神經根部受到鄰近血管壓迫，其中最主要的壓迫血管是「小腦上動脈 (Superior cerebellar artery, SCA)」，佔所有病理壓迫的七成以上，故選 (C)。小腦前下動脈 (AICA) 亦可造成壓迫，但頻率較 SCA 低；而微血管減壓術 (Microvascular decompression, MVD) 即是通過將壓迫的神經與 SCA 等血管分開來根治三叉神經痛。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「前小腦下動脈(anterior inferior cerebellar artery)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「後小腦下動脈(posterior inferior cerebellar artery)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「小腦上動脈(superior cerebellar artery)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「前脈絡膜動脈(anterior choroidal artery)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n三叉神經痛的血管壓迫病因與微血管減壓術。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "三叉神經痛的血管壓迫病因與微血管減壓術。",
-      "flashcard_summary": "三叉神經痛壓迫血管 -> 三叉神經痛最常受小腦上動脈（SCA）壓迫，可用微血管減壓術治療。",
+      "explanation": "【題幹解析】\n典型三叉神經痛多由三叉神經 root entry zone 受血管壓迫造成，最常見壓迫血管是 superior cerebellar artery。\n\n【選項詳解】\n- A. AICA 可造成其他顱神經壓迫症候群，但不是三叉神經痛最常見血管。\n- B. PICA 較常與舌咽神經或延髓旁結構相關，不是本題最常見。\n- C. SCA 最常壓迫三叉神經 root entry zone，是微血管減壓術常見目標。\n- D. 前脈絡膜動脈位於顱內較前方深部，不是三叉神經痛典型壓迫血管。\n\n【核心考點】\n三叉神經痛最常見血管壓迫來源是 superior cerebellar artery。",
+      "key_point": "三叉神經痛最常見血管壓迫來源是 superior cerebellar artery。",
+      "flashcard_summary": "神經外科 -> 三叉神經痛最常見血管壓迫來源是 superior cerebellar artery。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -259,13 +259,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "三叉神經痛 / 常見壓迫血管 / 小腦上動脈 (SCA) / 微血管減壓術 (MVD)",
-      "flashcard_back": "三叉神經痛最常見的致病壓迫血管為「小腦上動脈 (SCA)」，治療首選手術為 MVD。",
+      "flashcard_back": "三叉神經痛最常見血管壓迫來源是 superior cerebellar artery。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_010",
@@ -278,9 +278,9 @@
         "D": "踝反射降低所代表的通常是S1神經根壓迫"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關腰椎退化神經病變,下列敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腰椎間盤突出 (lumbar disc herniation) 最常發生的部位是「L4-L5」或「L5-S1」，這兩處合計佔所有腰椎間盤突出病例的 90% 以上，而 L3-L4 則相對少見，因此選項 (A) 敘述錯誤。退化性椎管狹窄主要是由黃韌帶肥厚或後側小關節增生引起；其特徵是脊髓神經受壓引致間歇性跛行，患者在暫時坐下或前傾身體時症狀可緩解；且踝反射 (Ankle reflex) 由 S1 神經根支配，其反射減弱提示 S1 神經根受壓。\n\n【選項詳解】\n- A. 正確答案。選項內容：「腰椎椎間盤突出(lumbar disc herniation)最常發生在L3-4或L4-5處」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「腰椎退化椎管狹窄常導因於後側小關節或黃韌帶變大、變厚,造成神經椎孔狹小,神經壓迫」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「間歇性跛行可藉由暫時坐下而使症狀緩解」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「踝反射降低所代表的通常是S1神經根壓迫」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n腰椎間盤突出與退化性脊椎病變的解剖分布與特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "腰椎間盤突出與退化性脊椎病變的解剖分布與特徵。",
-      "flashcard_summary": "腰椎間盤好發節段 -> 腰椎間盤突出最常好發於 L4-5 及 L5-S1，踝反射降低提示 S1 神經根受壓。",
+      "explanation": "【題幹解析】\n腰椎椎間盤突出最常發生在 L4-5 與 L5-S1，不是 L3-4 或 L4-5；腰椎狹窄則常因小面關節肥厚與黃韌帶肥厚造成神經壓迫。\n\n【選項詳解】\n- A. 最常見位置應是 L4-5 與 L5-S1，此項把 L3-4 列為最常見之一而漏掉 L5-S1，錯誤。\n- B. 退化性椎管狹窄常由 facet hypertrophy、ligamentum flavum hypertrophy 造成。\n- C. 神經性跛行常因坐下或前彎使椎管空間增加而緩解。\n- D. S1 神經根受壓常造成 Achilles tendon reflex 降低。\n\n【核心考點】\n腰椎椎間盤突出最常見於 L4-5、L5-S1。",
+      "key_point": "腰椎椎間盤突出最常見於 L4-5、L5-S1。",
+      "flashcard_summary": "神經外科 -> 腰椎椎間盤突出最常見於 L4-5、L5-S1。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -288,13 +288,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腰椎間盤突出 / 好發節段 / L4-5 與 L5-S1 / 椎管狹窄成因 / 踝反射減弱定位",
-      "flashcard_back": "腰椎間盤突出最常發生於「L4-5 或 L5-S1」，而非 L3-4；S1 神經根受壓會導致踝反射降低。",
+      "flashcard_back": "腰椎椎間盤突出最常見於 L4-5、L5-S1。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_011",
@@ -307,9 +307,9 @@
         "D": "第四型"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「依據Mathes and Nahai對肌肉皮瓣(muscle flaps)血管供應做分類,下列那一型較少用來做顯微組織移植的肌\n 肉皮瓣?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據 Mathes and Nahai 分類，第四型 (Type IV) 肌肉皮瓣的特徵是具有「多個節段性主要血管供應 (multiple segmental vascular pedicles)」（如縫匠肌），若將其切下做游離移植，必須吻合多處血管否則極易壞死，因此最不常用於顯微組織移植，故選 (D)。第一型（單一血管蒂）、第二型（單一主要血管蒂加數個次要血管蒂）與第三型（雙主要血管蒂，如腹直肌）由於具備明確粗大的主要血管蒂，極適合做游離皮瓣吻合。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第一型」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「第二型」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「第三型」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「第四型」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nMathes and Nahai 肌肉皮瓣血管分類與顯微自由皮瓣移植。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "Mathes and Nahai 肌肉皮瓣血管分類與顯微自由皮瓣移植。",
-      "flashcard_summary": "皮瓣血管分類與移植 -> Mathes & Nahai 第四型皮瓣因有多節段血管蒂，極少用於顯微游離皮瓣移植。",
+      "explanation": "【題幹解析】\nMathes and Nahai 第 IV 型肌肉皮瓣為節段性小血管供應，缺乏單一可靠主血管蒂，較不適合做顯微自由組織移植。\n\n【選項詳解】\n- A. 第 I 型有單一主要血管蒂，常可作可靠皮瓣。\n- B. 第 II 型有主要血管蒂加次要血管蒂，可用於多種肌肉皮瓣。\n- C. 第 III 型有兩個主要血管蒂，供血可靠。\n- D. 第 IV 型為節段性血管供應，做自由皮瓣時較難取得可靠吻合血管，因此較少使用。\n\n【核心考點】\nMathes and Nahai 第 IV 型節段性供血肌肉較少作顯微自由皮瓣。",
+      "key_point": "Mathes and Nahai 第 IV 型節段性供血肌肉較少作顯微自由皮瓣。",
+      "flashcard_summary": "整形外科 -> Mathes and Nahai 第 IV 型節段性供血肌肉較少作顯微自由皮瓣。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -317,13 +317,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "Mathes & Nahai 分類 / 游離皮瓣移植 / 第四型 (Type IV) / 多節段血管蒂 / 整形外科",
-      "flashcard_back": "第四型肌肉皮瓣（如縫匠肌）因具多節段血管蒂，不適合切下做顯微游離移植，臨床上極少使用。",
+      "flashcard_back": "Mathes and Nahai 第 IV 型節段性供血肌肉較少作顯微自由皮瓣。",
       "category_group": "醫學（五）",
       "category": "整形外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_012",
@@ -336,9 +336,9 @@
         "D": "給與lactated Ringer solution 2小時後,尿量突然變少,可再給與albumin,從0.5ml / Kg / % TBSA burn area開\n 始給與"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「在大面積燒燙傷治療中,充分的體液復甦(fluid resuscitation)是避免休克的重要治療。對於30歲、70公斤的\n 男性燒燙傷病人,二度及三度傷口共占體表面積(TBSA)40%,下列處置何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在燒燙傷發生後的「最初 12 至 24 小時內」，由於全身毛細血管通透性極度增加，此時給予白蛋白 (colloid/albumin) 會使膠體漏至組織間隙，加重組織水腫，因此在術後 2 小時內不應給予白蛋白，故選 (D)。Parkland 公式計算前 8 小時點滴速率為：4 mL * 70 kg * 40% / 2 / 8 = 700 mL/hr；成人復甦的目標尿量為 0.5 mL/kg/hr（對 70kg 病人即為 35 mL/hr），復甦時必須建立靜脈管線並嚴密監測尿量。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「建立靜脈管線(IV line)開始體液復甦(fluid resuscitation),並插尿管監測尿量」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「如果按照Parkland formula靜脈輸液是給與lactated Ringer solution,從700cc/hr開始給與」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「尿量須維持在35 cc/hr 以上」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「給與lactated Ringer solution 2小時後,尿量突然變少,可再給與albumin,從0.5ml / Kg / % TBSA burn area開\n 始給與」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n大面積燒燙傷體液復甦（Parkland 公式）與膠體溶液使用時機。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "大面積燒燙傷體液復甦（Parkland 公式）與膠體溶液使用時機。",
-      "flashcard_summary": "燒傷液體復甦原則 -> 大面積燒傷初期通透性增加，前12-24小時禁用白蛋白；成人復甦目標尿量為 0.5 mL/kg/hr。",
+      "explanation": "【題幹解析】\nParkland 公式為 4 mL x 體重 x %TBSA，70 kg、40% 為 11200 mL，前 8 小時給一半約 5600 mL，也就是約 700 mL/hr。早期復甦主用 LR，albumin 不作為 2 小時後尿量少的立即常規處置。\n\n【選項詳解】\n- A. 大面積燒傷需建立 IV、開始復甦並以尿量監測灌流，正確。\n- B. Parkland 前 8 小時約 700 mL/hr LR，計算正確。\n- C. 成人尿量目標約 0.5 mL/kg/hr，70 kg 約 35 mL/hr。\n- D. 復甦初期尿量不足應先調整 crystalloid 速度並評估灌流，過早給 albumin 不適當。\n\n【核心考點】\n燒傷 Parkland 公式前 24 小時以 LR 為主，成人尿量目標約 0.5 mL/kg/hr。",
+      "key_point": "燒傷 Parkland 公式前 24 小時以 LR 為主，成人尿量目標約 0.5 mL/kg/hr。",
+      "flashcard_summary": "整形外科 -> 燒傷 Parkland 公式前 24 小時以 LR 為主，成人尿量目標約 0.5 mL/kg/hr。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -346,13 +346,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "燒燙傷復甦 / Parkland 公式計算 / 尿量指標 / 白蛋白使用時機 / 毛細血管通透性",
-      "flashcard_back": "大面積燒傷前 12-24 小時內「不宜給予白蛋白」以防漏出加重水腫；復甦目標尿量為 0.5 mL/kg/hr (此例為 35 mL/hr)。",
+      "flashcard_back": "燒傷 Parkland 公式前 24 小時以 LR 為主，成人尿量目標約 0.5 mL/kg/hr。",
       "category_group": "醫學（五）",
       "category": "整形外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_013",
@@ -365,9 +365,9 @@
         "D": "5→4→2→3→1"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「請選擇出急性傷口癒合過程(wound healing)正確的順序:1重塑期(remodeling) 2增生期\n (proliferation) 3成熟期(maturation) 4發炎期(inflammation) 5凝血(coagulation)」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性傷口癒合的標準生理過程，首先是血管受損後的「凝血期 (5, coagulation)」，緊接著是白血球聚集的「發炎期 (4, inflammation)」，隨後成纖維細胞與血管增生的「增生期 (2, proliferation)」，隨之而來的是膠原蛋白排列的「成熟期 (3, maturation)」，最後是疤痕重組與收縮的「重塑期 (1, remodeling)」。因此，正確的順序為 5 → 4 → 2 → 3 → 1，故選 (D)。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「1→2→3→4→5」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「4→5→3→2→1」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「5→4→1→2→3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「5→4→2→3→1」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n急性傷口癒合的生理階段順序。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "急性傷口癒合的生理階段順序。",
-      "flashcard_summary": "傷口癒合階段 -> 傷口癒合依序為凝血、發炎、增生、成熟與重塑期。",
+      "explanation": "【題幹解析】\n急性傷口癒合順序為止血凝血、發炎、增生、成熟，之後進入長期重塑。因此序列是 5 -> 4 -> 2 -> 3 -> 1。\n\n【選項詳解】\n- A. 把重塑放最前面，與傷口癒合生理相反。\n- B. 發炎前應先止血凝血，且成熟不會早於增生。\n- C. 凝血與發炎開頭正確，但重塑不會早於增生。\n- D. 凝血、發炎、增生、成熟、重塑為正確順序。\n\n【核心考點】\n傷口癒合順序：coagulation -> inflammation -> proliferation -> maturation -> remodeling。",
+      "key_point": "傷口癒合順序：coagulation -> inflammation -> proliferation -> maturation -> remodeling。",
+      "flashcard_summary": "外科概論 -> 傷口癒合順序：coagulation -> inflammation -> proliferation -> maturation -> remodeling。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -375,13 +375,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "傷口癒合順序 / 凝血 / 發炎 / 增生 / 成熟 / 重塑",
-      "flashcard_back": "傷口癒合正確順序為：凝血 (5) → 發炎 (4) → 增生 (2) → 成熟 (3) → 重塑 (1)。",
+      "flashcard_back": "傷口癒合順序：coagulation -> inflammation -> proliferation -> maturation -> remodeling。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_014",
@@ -394,9 +394,9 @@
         "D": "膠原蛋白(collagen)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「傷口癒合的機轉中, 下列何者最先出現並扮演啟動癒合的角色?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在傷口受傷後，最早抵達局部病灶並啟動癒合反應的是「血小板 (Platelet)」，它除了參與凝血形成血栓外，還會釋放多種關鍵的生長因子（如 PDGF、TGF-β）來募集發炎細胞（如巨噬細胞），進而啟動後續的發炎與增生階段，故選 (A)。紅血球主要參與凝血塊包埋，無啟動功能；巨噬細胞於發炎期（約 24-48 小時後）發揮吞噬與信號傳遞作用；膠原蛋白則是後期增生與成熟期由成纖維細胞合成的結構蛋白。\n\n【選項詳解】\n- A. 正確答案。選項內容：「血小板(platelet)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「紅血球(RBC)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「巨噬細胞(macrophage)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「膠原蛋白(collagen)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n啟動傷口癒合反應的細胞成分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "啟動傷口癒合反應的細胞成分。",
-      "flashcard_summary": "啟動傷口癒合之細胞 -> 傷口癒合由最早抵達並釋放生長因子的血小板所啟動。",
+      "explanation": "【題幹解析】\n傷口受傷後最早的事件是止血與血小板活化。血小板釋放 PDGF、TGF-beta 等因子，啟動發炎與後續修復。\n\n【選項詳解】\n- A. 血小板最早聚集形成血栓並釋放生長因子，是啟動癒合的重要角色。\n- B. 紅血球主要攜氧，不是啟動傷口癒合的核心細胞。\n- C. 巨噬細胞在發炎與清創期重要，但晚於血小板初始反應。\n- D. 膠原蛋白主要在增生與重塑期沉積，不是最早啟動者。\n\n【核心考點】\n血小板是傷口癒合最早啟動止血與生長因子訊號的細胞。",
+      "key_point": "血小板是傷口癒合最早啟動止血與生長因子訊號的細胞。",
+      "flashcard_summary": "外科概論 -> 血小板是傷口癒合最早啟動止血與生長因子訊號的細胞。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -404,13 +404,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "傷口癒合 / 最早抵達 / 啟動因子 / 血小板 / 生長因子釋放",
-      "flashcard_back": "傷口受損後「血小板」最早出現並釋放生長因子以啟動癒合連鎖反應。",
+      "flashcard_back": "血小板是傷口癒合最早啟動止血與生長因子訊號的細胞。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_015",
@@ -423,9 +423,9 @@
         "D": "血管性肉瘤(angiosarcoma)是相對良性的腫瘤,好發於頭頸區域,手術切除是主要治療"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關皮膚惡性腫瘤的敘述,下列何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：隆突性皮膚纖維肉瘤 (DFSP) 屬於一種低度惡性的軟組織肉瘤，其臨床特徵是局部侵犯性強但「極少發生淋巴轉移」，因此治療以廣泛性手術切除 (wide local excision) 為主，常規上不需要做預防性淋巴結摘除，故選 (B)。卡波西氏肉瘤 (KS) 是與第八型人類疱疹病毒 (HHV-8) 相關而非腺病毒；惡性纖維組織瘤 (MFH) 內部的未分化多形性肉瘤惡性度極高且非常容易發生肺部等遠端轉移；血管肉瘤 (Angiosarcoma) 則是高度惡性、侵襲性強且預後極差的血管內皮惡性腫瘤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Kaposi's sarcoma跟人類腺病毒(adeno virus)相關,好發於年輕人或免疫不全的人」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「皮纖維肉瘤(dermatofibrosarcoma protuberans)是一種低度惡性的皮膚癌,手術切除是主要治療,無需做淋\n 巴的摘除」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「惡性纖維組織瘤(malignant fibrous histiocytoma)好發於老年人,治療方法是手術切除即可,且很少轉移」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「血管性肉瘤(angiosarcoma)是相對良性的腫瘤,好發於頭頸區域,手術切除是主要治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n皮膚惡性腫瘤（DFSP、卡波西氏肉瘤、血管肉瘤）的臨床特質與治療。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "皮膚惡性腫瘤（DFSP、卡波西氏肉瘤、血管肉瘤）的臨床特質與治療。",
-      "flashcard_summary": "皮膚肉瘤特徵 -> DFSP為低度惡性且不常淋巴轉移，手術切除即可；卡波西肉瘤與HHV-8相關；血管肉瘤高度惡性。",
+      "explanation": "【題幹解析】\nDFSP 是低度惡性的皮膚軟組織腫瘤，局部復發率高但淋巴轉移少，治療以廣泛切除或 Mohs 手術為主，不需常規淋巴廓清。\n\n【選項詳解】\n- A. Kaposi sarcoma 與 HHV-8 相關，不是 adenovirus。\n- B. DFSP 低度惡性、以手術切除為主，淋巴轉移少，不需常規淋巴摘除。\n- C. 惡性纖維組織瘤屬高惡性肉瘤，不能說很少轉移且手術即可。\n- D. Angiosarcoma 是侵襲性高的惡性血管腫瘤，不是相對良性。\n\n【核心考點】\nDFSP 以局部侵襲與復發為主，手術切除是主要治療，淋巴轉移少。",
+      "key_point": "DFSP 以局部侵襲與復發為主，手術切除是主要治療，淋巴轉移少。",
+      "flashcard_summary": "整形外科 -> DFSP 以局部侵襲與復發為主，手術切除是主要治療，淋巴轉移少。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -433,13 +433,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "皮膚惡性腫瘤 / DFSP 治療 / 淋巴結摘除必要性 / 卡波西氏肉瘤病原 / 血管肉瘤預後",
-      "flashcard_back": "DFSP 為低度惡性且極少淋巴轉移，以手術切除為主，無須做淋巴摘除；卡波西氏肉瘤與 HHV-8 相關。",
+      "flashcard_back": "DFSP 以局部侵襲與復發為主，手術切除是主要治療，淋巴轉移少。",
       "category_group": "醫學（五）",
       "category": "整形外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_016",
@@ -452,9 +452,9 @@
         "D": "234"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列那些先天性心臟病若不及時手術,可能會發生所謂的Eisenmenger syndrome,最後需要心肺移植?1肺動\n 脈瓣狹窄 2心室中隔缺損 3動脈幹症(truncus arteriosus) 4開放性動脈導管」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：艾森曼格症候群是因長期嚴重的左向右分流（left-to-right shunt）導致肺動脈高壓，最終使分流轉為右向左而出現發紺。心室中隔缺損（VSD）、動脈幹症（truncus arteriosus）與開放性動脈導管（PDA）皆屬於左向右分流的病變，若不及時手術均可能引發此症候群。肺動脈瓣狹窄屬於阻塞性病變，不會造成左向右分流，因此不會引起此症候群。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「僅12」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「僅13」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「123」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「234」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n辨識會導致艾森曼格症候群（Eisenmenger syndrome）的左向右分流先天性心臟病。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識會導致艾森曼格症候群（Eisenmenger syndrome）的左向右分流先天性心臟病。",
-      "flashcard_summary": "艾森曼格症候群成因 -> 長期左向右分流（如VSD、PDA、動脈幹症）引起肺高壓及分流逆轉，肺動脈瓣狹窄等阻塞病變則不會。",
+      "explanation": "【題幹解析】\nEisenmenger syndrome 來自長期大量左向右分流導致肺血管阻力上升並反轉分流。VSD、truncus arteriosus、PDA 都可造成，單純肺動脈瓣狹窄不屬左向右分流。\n\n【選項詳解】\n- A. 包含肺動脈瓣狹窄而漏掉 PDA 或 truncus，錯誤。\n- B. 肺動脈瓣狹窄不是 Eisenmenger 典型原因，組合錯誤。\n- C. 包含肺動脈瓣狹窄且漏掉 PDA，錯誤。\n- D. VSD、truncus arteriosus、PDA 均可造成肺高壓與 Eisenmenger syndrome。\n\n【核心考點】\nEisenmenger 來自未矯正左向右分流，如 VSD、PDA、truncus arteriosus。",
+      "key_point": "Eisenmenger 來自未矯正左向右分流，如 VSD、PDA、truncus arteriosus。",
+      "flashcard_summary": "心臟外科 -> Eisenmenger 來自未矯正左向右分流，如 VSD、PDA、truncus arteriosus。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -462,13 +462,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "艾森曼格症候群 / 左向右分流 / 先天性心臟病 / 肺動脈高壓 / 心肺移植",
-      "flashcard_back": "艾森曼格症候群是由長期左向右分流引起的肺高壓與分流逆轉，VSD、PDA、動脈幹症均屬此類；肺動脈瓣狹窄則非分流病變。",
+      "flashcard_back": "Eisenmenger 來自未矯正左向右分流，如 VSD、PDA、truncus arteriosus。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_017",
@@ -481,9 +481,9 @@
         "D": "對於急性史丹佛A型(Stanford type A)之主動脈剝離合併有器官供血不足的病患,與無器官供血不足者,\n 兩者之預後相同"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「在急性主動脈剝離(aortic dissection)的治療上,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性史丹佛A型（Stanford type A）主動脈剝離若合併器官供血不足（malperfusion），其手術死亡率與併發症發生率會顯著上升，預後明顯較差。高度懷疑剝離時應先控制血壓與心跳以減少主動脈壁剪應力。Stanford A型應行緊急手術，而Stanford B型合併器官供血不足者，血管內主動脈支架術（TEVAR）是首選介入治療方式。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「在高度懷疑為主動脈剝離之情形下,可先實行降低心跳及控制血壓之藥物治療(anti-pulse therapy and blood\n pressure control)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「對急性史丹佛A型(Stanford type A)之主動脈剝離病患,應考慮進行緊急主動脈置換手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「對急性史丹佛B型(Stanford type B)之主動脈剝離合併有器官供血不足(malperfusion)之病患,應立即考\n 慮介入性血管內主動脈支架術(endovascular treatment)之可能性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「對於急性史丹佛A型(Stanford type A)之主動脈剝離合併有器官供血不足的病患,與無器官供血不足者,\n 兩者之預後相同」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握急性主動脈剝離的治療原則與預後影響因子。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握急性主動脈剝離的治療原則與預後影響因子。",
-      "flashcard_summary": "主動脈剝離預後與治療 -> Stanford A型合併器官灌流不足者預後較差，A型應緊急手術，B型合併灌流不足首選支架治療。",
+      "explanation": "【題幹解析】\n急性主動脈剝離需先降心跳與血壓；Stanford A 通常緊急手術，Stanford B 若有 malperfusion 可考慮 TEVAR。malperfusion 會讓 Stanford A 預後變差，不可能與無 malperfusion 相同。\n\n【選項詳解】\n- A. 高度懷疑時先以 beta blocker 等降低 shear stress 是正確處置。\n- B. Stanford A 涉及升主動脈，破裂與心包填塞風險高，需緊急手術。\n- C. 複雜型 Stanford B 合併 malperfusion 是血管內介入的重要適應症。\n- D. 器官供血不足代表併發症與死亡風險升高，預後不會相同，因此錯誤。\n\n【核心考點】\n急性 A 型剝離需緊急手術；malperfusion 是預後不良因子。",
+      "key_point": "急性 A 型剝離需緊急手術；malperfusion 是預後不良因子。",
+      "flashcard_summary": "心臟外科 -> 急性 A 型剝離需緊急手術；malperfusion 是預後不良因子。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -491,13 +491,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "主動脈剝離 / 史丹佛A型 / 史丹佛B型 / 器官供血不足 / 控制心跳血壓",
-      "flashcard_back": "Stanford A型須緊急開胸手術，Stanford B型合併器官灌流不足首選介入支架；若合併器官灌流不足，A型預後會顯著變差。",
+      "flashcard_back": "急性 A 型剝離需緊急手術；malperfusion 是預後不良因子。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_018",
@@ -510,9 +510,9 @@
         "D": "不會引發全身發炎反應症候群(systemic inflammatory response syndrome, SIRS)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關心臟手術時使用人工心肺機之敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：使用人工心肺機（CPB）時，血液與人工管道的非生理性表面接觸，會活化多種發炎途徑，進而引發全身發炎反應症候群（SIRS）。人工心肺機可藉由熱交換器調節體溫，並透過氧合器進行氣體交換以暫時替代肺臟功能。此外，結合心臟麻痺液（cardioplegia）灌流，能提供無血且心臟停止跳動的手術視野。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「可以升降體溫」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「合併心臟麻痺液(cardioplegia)使用,可以讓心臟完全停止跳動」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「氧合器(oxygenator)可以暫時取代肺臟功能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「不會引發全身發炎反應症候群(systemic inflammatory response syndrome, SIRS)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解人工心肺機（CPB）的生理功能與可能引起的併發症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解人工心肺機（CPB）的生理功能與可能引起的併發症。",
-      "flashcard_summary": "人工心肺機副作用 -> 人工心肺機可調節體溫與氣體交換，但會誘發全身發炎反應症候群（SIRS）。",
+      "explanation": "【題幹解析】\n人工心肺機可取代心肺功能、調控體溫，配合 cardioplegia 讓心臟停跳；但血液接觸人工表面會引發補體與發炎反應，可造成 SIRS。\n\n【選項詳解】\n- A. CPB 可配合熱交換器進行降溫與復溫。\n- B. Cardioplegia 可使心臟停跳以利手術操作。\n- C. Oxygenator 暫時負責氣體交換，可取代肺功能。\n- D. CPB 可引發 systemic inflammatory response，說不會引發 SIRS 是錯誤。\n\n【核心考點】\nCPB 功能強大但可引發全身發炎反應。",
+      "key_point": "CPB 功能強大但可引發全身發炎反應。",
+      "flashcard_summary": "心臟外科 -> CPB 功能強大但可引發全身發炎反應。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -520,13 +520,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "人工心肺機 (CPB) / 心臟麻痺液 / 氧合器 / 全身發炎反應症候群 (SIRS)",
-      "flashcard_back": "人工心肺機可調節體溫、取代肺臟功能並使心臟停跳，但血液接觸外物會誘發全身發炎反應症候群（SIRS）。",
+      "flashcard_back": "CPB 功能強大但可引發全身發炎反應。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_019",
@@ -539,9 +539,9 @@
         "D": "僅23"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「68歲農婦因右手輕微無力伴隨下肢輕微水腫來診,經診斷為二尖瓣狹窄(mitral stenosis),超音波顯示為心\n 房顫動(atrial fibrillation)且瓣膜開口為1.35 cm2,過去有右側膿胸且經開胸治療之病史,下列敘述或處置何\n 者正確?1中風之故,不應給與抗凝血劑,如warfarin 2應建議進行心導管檢查 3進行瓣膜手術,且可同\n 時進行迷宮手術(Cox-Maze procedure) 4可選擇胸腔鏡或小傷口內視鏡進行手術」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：二尖瓣狹窄合併心房顫動有極高的中風風險，應給予抗凝血劑（如 Warfarin）治療。病患為68歲，術前建議進行心導管以評估冠狀動脈疾病；在進行瓣膜手術時，同時進行迷宮手術（Cox-Maze）可有效控制心房顫動。雖然微創手術常用，但患者有右側膿胸及開胸病史，局部嚴重黏連使得右側胸腔鏡或小傷口手術成為禁忌。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「僅14」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「234」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「123」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「僅23」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n評估二尖瓣狹窄合併心房顫動的治療策略與手術禁忌。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評估二尖瓣狹窄合併心房顫動的治療策略與手術禁忌。",
-      "flashcard_summary": "二尖瓣狹窄合併房顫處置 -> 需用抗凝血劑並可在術中併做迷宮手術，有右側開胸與膿胸病史者禁用右胸微創手術。",
+      "explanation": "【題幹解析】\n二尖瓣狹窄合併心房顫動與疑似栓塞事件，需抗凝血而不是避免；術前常需心導管評估冠脈與血流動力。瓣膜手術可合併 Cox-Maze，但既往右側膿胸開胸會使胸腔鏡或小傷口入路不適合。\n\n【選項詳解】\n- A. 第 1 錯，AF 合併 MS 及中風風險應給 warfarin；第 4 也因既往胸腔病史不佳。\n- B. 第 4 不恰當，右側膿胸開胸後沾黏可能不適合胸腔鏡或小傷口手術。\n- C. 第 1 錯，不能因中風就不抗凝。\n- D. 第 2 心導管評估與第 3 瓣膜手術合併 Maze 較合理。\n\n【核心考點】\n二尖瓣狹窄合併 AF 需抗凝；瓣膜手術可合併 Maze，胸腔沾黏會限制微創入路。",
+      "key_point": "二尖瓣狹窄合併 AF 需抗凝；瓣膜手術可合併 Maze，胸腔沾黏會限制微創入路。",
+      "flashcard_summary": "心臟外科 -> 二尖瓣狹窄合併 AF 需抗凝；瓣膜手術可合併 Maze，胸腔沾黏會限制微創入路。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -549,13 +549,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "二尖瓣狹窄 / 心房顫動 / 右側膿胸開胸病史 / 迷宮手術 / 心導管",
-      "flashcard_back": "MS合併AF需給予抗凝血劑並可在術中併做迷宮手術；因右胸嚴重黏連，不宜採右側微創胸腔鏡手術。",
+      "flashcard_back": "二尖瓣狹窄合併 AF 需抗凝；瓣膜手術可合併 Maze，胸腔沾黏會限制微創入路。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_020",
@@ -568,9 +568,9 @@
         "D": "術後可能之合併症含心包膜填充、出血、腦病變、腎衰竭、縱膈腔炎等"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列對冠狀動脈繞道術(coronary artery bypass grafting, CABG)之描述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：雖然不停跳冠狀動脈繞道術（OPCAB）可減少部分因心肺機引起的短期發炎反應，但多項研究顯示，其長期血管通暢率（long-term patency rate）並未優於傳統停跳術式，甚至可能因血管縫合難度增加而略低。對於合併糖尿病的多支血管病變患者，CABG 是首選治療。術後長期通暢率以內乳動脈（ITA）優於大隱靜脈（SVG）。\n\n【選項詳解】\n- A. 正確答案。選項內容：「不使用心肺機之不停跳術式(off-pump coronary artery bypass)比傳統之停跳之術式,在各項研究皆顯示可\n 以減少發炎指數,即有更好之長期通暢率」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「如果病人是70歲女性,其三條冠狀血管皆有80到90%狹窄,且有糖尿病,冠狀動脈繞道術應該是首選之治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「對長期通暢率而言,內乳動脈遠佳於大隱靜脈,術後用藥可建議阿斯匹靈、乙型阻斷劑、抗心律不整藥物、\n 降血脂藥物」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「術後可能之合併症含心包膜填充、出血、腦病變、腎衰竭、縱膈腔炎等」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n比較不停跳（Off-pump）與停跳（On-pump）冠狀動脈繞道術的預後與適應症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "比較不停跳（Off-pump）與停跳（On-pump）冠狀動脈繞道術的預後與適應症。",
-      "flashcard_summary": "冠狀動脈繞道術比較 -> 不停跳術式長期通暢率沒有優於停跳術式，糖尿病合併多支血管病變首選CABG。",
+      "explanation": "【題幹解析】\nOff-pump CABG 可減少部分 CPB 相關發炎或併發症，但研究並未一致顯示長期 graft patency 較佳；多血管病變合併糖尿病常偏向 CABG。\n\n【選項詳解】\n- A. off-pump 並非各項研究都顯示長期通暢率較好，此過度概括為錯誤。\n- B. 糖尿病合併三條冠狀動脈嚴重狹窄，CABG 常是較佳血運重建策略。\n- C. 內乳動脈長期通暢率優於大隱靜脈；術後需抗血小板、降脂與心臟保護用藥。\n- D. CABG 併發症可包含出血、心包填塞、中風或腦病變、腎衰竭、縱膈腔炎等。\n\n【核心考點】\nOff-pump CABG 不可概括為長期通暢率一定優於 on-pump。",
+      "key_point": "Off-pump CABG 不可概括為長期通暢率一定優於 on-pump。",
+      "flashcard_summary": "心臟外科 -> Off-pump CABG 不可概括為長期通暢率一定優於 on-pump。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -578,13 +578,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "冠狀動脈繞道術 (CABG) / 不停跳術式 (off-pump) / 多支血管病變合併糖尿病 / 內乳動脈",
-      "flashcard_back": "不停跳術式長期通暢率並未優於停跳術式；多支血管病變合併糖尿病首選CABG，內乳動脈通暢率優於靜脈。",
+      "flashcard_back": "Off-pump CABG 不可概括為長期通暢率一定優於 on-pump。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_021",
@@ -597,9 +597,9 @@
         "D": "胸腺瘤分期是根據Masaoka staging,第4a期是指有淋巴轉移"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「關於胸腺瘤之敘述,何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：手術完全切除是胸腺瘤最主要的治療手段，若腫瘤侵犯上腔靜脈（SVC），進行血管切除並重建仍能達到較好的預後。大約只有10%~15%的重症肌無力（MG）患者會發現胸腺瘤（但30%~50%的胸腺瘤患者有MG）。侵襲性胸腺瘤可壓迫或侵犯上腔靜脈而引起上腔靜脈症候群。Masaoka分期中，第4a期是指胸膜或心包膜的播種（dissemination），淋巴或血行轉移屬於4b期。\n\n【選項詳解】\n- A. 正確答案。選項內容：「手術是主要治療成功的方法,即使切除上腔靜脈再重建,預後也比較好」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「10%~50%的重症肌無力病人會發現胸腺瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「胸腺瘤不是胸腺癌,不會有上腔靜脈症候群(SVC Syndrome)發生」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「胸腺瘤分期是根據Masaoka staging,第4a期是指有淋巴轉移」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n掌握胸腺瘤的臨床表現、分期系統與治療原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握胸腺瘤的臨床表現、分期系統與治療原則。",
-      "flashcard_summary": "胸腺瘤臨床特徵 -> 手術切除為主要治療，重症肌無力僅15%有胸腺瘤，Masaoka 4a期是胸膜/心包膜播種。",
+      "explanation": "【題幹解析】\n胸腺瘤以完整手術切除為主要治療，若能完整切除即使需合併大血管重建，預後仍較不可切除者好。Masaoka IVa 是胸膜或心包膜播散，不是淋巴轉移。\n\n【選項詳解】\n- A. 完整切除是胸腺瘤治療核心，必要時合併 SVC 切除重建仍可改善預後。\n- B. 較常見說法是約 10 至 15% 重症肌無力患者有胸腺瘤；10 至 50% 過寬且不精準。\n- C. 胸腺瘤可侵犯周邊造成 SVC syndrome，不能說不會。\n- D. Masaoka IVa 指胸膜或心包播散；淋巴或血行轉移為 IVb。\n\n【核心考點】\n胸腺瘤治療以完整切除為主；Masaoka IVa 是胸膜/心包播散。",
+      "key_point": "胸腺瘤治療以完整切除為主；Masaoka IVa 是胸膜/心包播散。",
+      "flashcard_summary": "胸腔外科 -> 胸腺瘤治療以完整切除為主；Masaoka IVa 是胸膜/心包播散。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -607,13 +607,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "胸腺瘤 / 重症肌無力 / 上腔靜脈症候群 / Masaoka分期4a / 手術切除重建",
-      "flashcard_back": "胸腺瘤手術完全切除是關鍵，侵犯上腔靜脈可重建；重症肌無力患者僅10%-15%有胸腺瘤；Masaoka 4a為胸膜播種而非淋巴轉移。",
+      "flashcard_back": "胸腺瘤治療以完整切除為主；Masaoka IVa 是胸膜/心包播散。",
       "category_group": "醫學（五）",
       "category": "胸腔外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_022",
@@ -626,9 +626,9 @@
         "D": "DLCO小於50%應加測運動心肺功能檢查,因為運動心肺功能檢查較準確"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「病人需要進行肺葉切除手術,下列關於肺功能的檢測敘述何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據肺癌術前評估指引，當第一秒用力呼氣量（FEV1）或一氧化碳擴散量（DLCO）小於預期值的60%（或DLCO低於50%）時，手術風險增加，應加測運動心肺功能檢查（CPET）以提供更準確的風險分階。術後預估第一秒用力呼氣量（ppo-FEV1）或 ppo-DLCO 若小於30-40%，代表手術風險極高，不可視為安全。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「FEV1為術後肺容積的最常用指標,一般要大於40%才能做肺葉切除」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「FEV1數據不足時,估算預期術後FEV1(ppo-FEV1)在20~30%以上應可以安全進行手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「DLCO小於80%會增加手術風險」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「DLCO小於50%應加測運動心肺功能檢查,因為運動心肺功能檢查較準確」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n評估肺葉切除手術的術前肺功能指標與風險分階。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評估肺葉切除手術的術前肺功能指標與風險分階。",
-      "flashcard_summary": "肺切除術前肺功能評估 -> FEV1或DLCO小於預期值60%時應加測運動心肺功能檢查（CPET）。",
+      "explanation": "【題幹解析】\n肺葉切除前需評估 FEV1、DLCO 與預測術後功能。DLCO 明顯下降者需進一步做運動心肺功能檢查，以更準確估計手術風險。\n\n【選項詳解】\n- A. FEV1 是重要指標，但不能只說術後肺容積且門檻描述不精準。\n- B. ppo-FEV1 20 至 30% 屬高風險，不能簡單說可安全手術。\n- C. DLCO <80% 可提示風險增加，但不是最精準的處置敘述。\n- D. DLCO <50% 應加做 cardiopulmonary exercise test 以評估最大攝氧量與手術風險，最正確。\n\n【核心考點】\n肺切除前 DLCO 低時應加做運動心肺功能檢查分層風險。",
+      "key_point": "肺切除前 DLCO 低時應加做運動心肺功能檢查分層風險。",
+      "flashcard_summary": "胸腔外科 -> 肺切除前 DLCO 低時應加做運動心肺功能檢查分層風險。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -636,13 +636,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "肺葉切除術 / 術前肺功能 / FEV1 / DLCO / 運動心肺功能檢查 (CPET)",
-      "flashcard_back": "FEV1或DLCO小於預期值60%（或DLCO<50%）時，應安排運動心肺功能檢查（CPET）以進行更精準的風險評估。",
+      "flashcard_back": "肺切除前 DLCO 低時應加做運動心肺功能檢查分層風險。",
       "category_group": "醫學（五）",
       "category": "胸腔外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_023",
@@ -655,9 +655,9 @@
         "D": "小顆的胸腺瘤合併有重症肌無力時,應盡早手術切除"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關於縱膈腔疾病的敘述,下列何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：精原性生殖細胞瘤（seminoma）絕不會分泌甲型胎兒蛋白（AFP），若 AFP 上升則診斷應歸為非精原性生殖細胞瘤（non-seminomatous GCT）。精原性生殖細胞瘤對放射線治療高度敏感。兒童縱膈腔腫瘤以神經性腫瘤最常見。合併重症肌無力的胸腺瘤即使腫瘤很小，也應儘早手術切除以改善神經症狀。\n\n【選項詳解】\n- A. 正確答案。選項內容：「精原性生殖細胞瘤(seminomatous germ cell tumor)常分泌AFP(α-fetoprotein)或β-hCG(human chorionic\n gonadotropin),為放療有效(radiosensitive)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「大人和小孩的縱膈腔腫瘤好發種類不同,小孩常是神經性腫瘤(neurogenic tumor)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「縱膈腔腫瘤經由手術移除後再輔助治療,其預後會比直接對大腫瘤做化放療有效」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「小顆的胸腺瘤合併有重症肌無力時,應盡早手術切除」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n區分縱膈腔生殖細胞瘤的腫瘤標記特徵與治療原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分縱膈腔生殖細胞瘤的腫瘤標記特徵與治療原則。",
-      "flashcard_summary": "精原細胞瘤與腫瘤標記 -> 精原性生殖細胞瘤AFP值正常（不分泌AFP），對放射治療非常敏感。",
+      "explanation": "【題幹解析】\n縱膈腔 seminoma 通常 AFP 不升高，可能有 beta-hCG 輕度上升，且 radiosensitive；AFP 升高反而支持 non-seminomatous germ cell tumor。\n\n【選項詳解】\n- A. Seminoma 不應常分泌 AFP；AFP 上升要懷疑 non-seminomatous 成分，因此此項錯誤。\n- B. 小兒縱膈腔腫瘤常見 neurogenic tumor，成人則 thymoma、lymphoma、germ cell tumor 等較重要。\n- C. 可切除腫瘤通常以手術取得局部控制並視病理輔助治療，對預後有利。\n- D. 小胸腺瘤合併重症肌無力時，手術切除是重要治療。\n\n【核心考點】\n縱膈腔 seminoma 通常 AFP 不升高；AFP 升高提示非精原細胞瘤成分。",
+      "key_point": "縱膈腔 seminoma 通常 AFP 不升高；AFP 升高提示非精原細胞瘤成分。",
+      "flashcard_summary": "胸腔外科 -> 縱膈腔 seminoma 通常 AFP 不升高；AFP 升高提示非精原細胞瘤成分。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -665,13 +665,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "縱膈腔腫瘤 / 精原細胞瘤 (Seminoma) / 腫瘤標記 AFP / 重症肌無力",
-      "flashcard_back": "精原性生殖細胞瘤（seminoma）的AFP絕對為正常，若AFP升高必為非精原性；此瘤對放療極為敏感。",
+      "flashcard_back": "縱膈腔 seminoma 通常 AFP 不升高；AFP 升高提示非精原細胞瘤成分。",
       "category_group": "醫學（五）",
       "category": "胸腔外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_024",
@@ -684,9 +684,9 @@
         "D": "以後變成squamous cell carcinoma之機率是一般人的40倍"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於Barrett esophagus之敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Barrett 食道是食道下段的複層扁平上皮被單層柱狀上皮取代（即腸化生 intestinal metaplasia），必須透過內視鏡切片（biopsy）確診。其長度以 3 cm 為界，超過者稱為長段（long segment）。Barrett 食道最主要會增加食道「腺癌」（adenocarcinoma）的發生風險（約為一般人的30-40倍），而非鱗狀上皮癌（squamous cell carcinoma）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「是一種intestinal metaplasia」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「如其長度超過3 cm,稱為long segment」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「需要biopsy作確診」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「以後變成squamous cell carcinoma之機率是一般人的40倍」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解 Barrett 食道（Barrett esophagus）的病理特徵與癌化傾向。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解 Barrett 食道（Barrett esophagus）的病理特徵與癌化傾向。",
-      "flashcard_summary": "Barrett食道癌變類型 -> Barrett食道為腸化生，需切片確診，會顯著增加食道「腺癌」（而非鱗狀上皮癌）風險。",
+      "explanation": "【題幹解析】\nBarrett esophagus 是遠端食道鱗狀上皮被 intestinal metaplasia 取代，需 biopsy 確診，癌化主要是 adenocarcinoma，不是 squamous cell carcinoma。\n\n【選項詳解】\n- A. Barrett 食道的病理核心是 intestinal metaplasia。\n- B. 長度超過 3 cm 常稱 long-segment Barrett esophagus。\n- C. 內視鏡懷疑後需切片證實腸化生。\n- D. Barrett 增加的是食道腺癌風險，不是 squamous cell carcinoma，因此錯誤。\n\n【核心考點】\nBarrett esophagus 是 intestinal metaplasia，增加 esophageal adenocarcinoma 風險。",
+      "key_point": "Barrett esophagus 是 intestinal metaplasia，增加 esophageal adenocarcinoma 風險。",
+      "flashcard_summary": "胸腔外科 -> Barrett esophagus 是 intestinal metaplasia，增加 esophageal adenocarcinoma 風險。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -694,13 +694,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "Barrett食道 / 腸化生 (metaplasia) / 切片確診 / 食道腺癌 / 鱗狀上皮癌",
-      "flashcard_back": "Barrett食道是扁平上皮轉為柱狀上皮，需切片確診；主要增加食道「腺癌」風險，而非鱗狀上皮癌。",
+      "flashcard_back": "Barrett esophagus 是 intestinal metaplasia，增加 esophageal adenocarcinoma 風險。",
       "category_group": "醫學（五）",
       "category": "胸腔外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_025",
@@ -713,9 +713,9 @@
         "D": "Nissen fundoplication 是partial fundoplication的一種"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關胃食道逆流之治療,下列何者較不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Nissen fundoplication 是一種 360 度的「全胃底摺疊術」（total fundoplication），而非部分（partial）摺疊術（如 270 度的 Toupet 術式）。第一線治療為生活習慣調整合併質子幫浦抑制劑（PPI）。長期使用 PPI 會因胃酸減少導致胃泌素代償性升高，理論上有引發胃類癌（carcinoid tumor）的風險。若內科藥物治療效果不佳，則應考慮外科手術介入。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「lifestyle modification加上proton pump inhibitor(PPI)為第一線治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「如內科治療已到極限而仍有症狀,則外科手術建議介入」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「很長期使用proton pump inhibitor(PPI)有引起carcinoid tumor之可能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「Nissen fundoplication 是partial fundoplication的一種」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握胃食道逆流的藥物副作用與外科手術方式。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握胃食道逆流的藥物副作用與外科手術方式。",
-      "flashcard_summary": "胃食道逆流手術與藥物 -> Nissen為360度「全」胃底摺疊術，長期使用PPI有阻斷胃酸並誘發類癌之風險。",
+      "explanation": "【題幹解析】\nGERD 第一線是生活調整加 PPI；內科治療失敗可考慮 fundoplication。Nissen fundoplication 是 360 度完全包覆，不是 partial fundoplication。\n\n【選項詳解】\n- A. 生活型態調整與 PPI 是 GERD 典型第一線治療。\n- B. 症狀持續且客觀證實 reflux 時，可考慮抗逆流手術。\n- C. 長期 PPI 可造成高胃泌素血症，與類癌樣變化風險有討論空間。\n- D. Nissen 是 complete 360-degree fundoplication，不是 partial，因此較不適當。\n\n【核心考點】\nNissen fundoplication 是 360 度完全胃底摺疊。",
+      "key_point": "Nissen fundoplication 是 360 度完全胃底摺疊。",
+      "flashcard_summary": "一般外科 -> Nissen fundoplication 是 360 度完全胃底摺疊。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -723,13 +723,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "胃食道逆流 (GERD) / Nissen fundoplication / 質子幫浦抑制劑 (PPI) / 胃底摺疊術",
-      "flashcard_back": "Nissen術式為360度全胃底摺疊術，而非部分摺疊；長期使用PPI可能因高胃泌素血症誘發胃類癌。",
+      "flashcard_back": "Nissen fundoplication 是 360 度完全胃底摺疊。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_026",
@@ -742,9 +742,9 @@
         "D": "手術治療常以結紮橫膈膜上乳糜管(thoracic duct)為主"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關乳糜胸(chylothorax)的敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：乳糜管（thoracic duct）在胸腔下段偏右側行進，並在第四至第六胸椎處轉向左側。因此，在行乳糜管結紮手術時，為方便在橫膈膜上方尋找並結紮乳糜管的主幹，不論乳糜胸發生在左側或右側，手術通常都優先選擇經「右側」胸腔入路，而非左側。左頸部淋巴結廓清術可能傷及乳糜管終端而導致乳糜胸；保守治療（低脂飲食、中鏈脂肪酸）一般先嘗試 1~2 週。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「左頸部/鎖骨上(supraclavicular)淋巴結廓清手術是原因之一」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「常從左側胸腔手術處理」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「保守治療需持續1~2週」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「手術治療常以結紮橫膈膜上乳糜管(thoracic duct)為主」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n掌握乳糜胸（chylothorax）的解剖學特徵與手術入路。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握乳糜胸（chylothorax）的解剖學特徵與手術入路。",
-      "flashcard_summary": "乳糜胸手術入路 -> 乳糜管結紮手術首選「右側」胸腔入路，因為乳糜管在胸腔下段偏右側行進。",
+      "explanation": "【題幹解析】\n乳糜胸來自 thoracic duct 損傷。胸管多在右側胸腔上行後於上胸部轉向左側，因此手術結紮常從右胸、橫膈膜上方處理，並非常從左側胸腔。\n\n【選項詳解】\n- A. 左頸部或鎖骨上淋巴廓清可能傷及胸管末端，造成乳糜漏。\n- B. 手術常由右側胸腔在橫膈膜上結紮胸管，說常從左側處理不正確。\n- C. 保守治療包含禁食、低脂中鏈脂肪飲食或 TPN，常觀察約 1 至 2 週視流量決定。\n- D. 手術治療常在橫膈膜上方結紮 thoracic duct。\n\n【核心考點】\n乳糜胸手術常由右胸在橫膈膜上結紮 thoracic duct。",
+      "key_point": "乳糜胸手術常由右胸在橫膈膜上結紮 thoracic duct。",
+      "flashcard_summary": "胸腔外科 -> 乳糜胸手術常由右胸在橫膈膜上結紮 thoracic duct。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -752,13 +752,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "乳糜胸 (chylothorax) / 乳糜管結紮 (thoracic duct) / 右側胸腔手術 / 左頸淋巴結廓清",
-      "flashcard_back": "乳糜管結紮手術常從「右側」胸腔進行以利於橫膈膜上方結紮主幹；左頸淋巴結切除亦可能引發乳糜胸。",
+      "flashcard_back": "乳糜胸手術常由右胸在橫膈膜上結紮 thoracic duct。",
       "category_group": "醫學（五）",
       "category": "胸腔外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_027",
@@ -771,9 +771,9 @@
         "D": "食道攝影(esophagography)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「一位48歲男性,最近兩個月吞嚥困難、食慾減低、體重減輕5公斤,同時有聲音沙啞現象至門診求診,下列那\n 一項檢查最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者表現為吞嚥困難、體重減輕與聲音沙啞，臨床上高度懷疑為食道癌侵犯喉返神經。評估食道癌的診斷與分期工具包括食道攝影、電腦斷層（CT）及內視鏡超音波（EUS）。內視鏡逆行性膽道胰管攝影（ERCP）是用於診斷與治療膽道及胰臟疾病的工具，與食道病變無關，故最不恰當。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「內視鏡超音波(endoscopic ultrasound)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「內視鏡逆行性膽道胰管攝影(ERCP)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「電腦斷層(CT)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「食道攝影(esophagography)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n根據臨床症狀選擇適當的食道疾病診斷工具。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "根據臨床症狀選擇適當的食道疾病診斷工具。",
-      "flashcard_summary": "食道病變檢查選擇 -> 懷疑食道癌時應使用CT、EUS及食道攝影，ERCP用於膽胰檢查而不適用。",
+      "explanation": "【題幹解析】\n吞嚥困難、體重減輕與聲音沙啞高度懷疑食道癌或縱膈侵犯。檢查可用食道攝影、內視鏡/EUS、CT 分期；ERCP 是膽胰管檢查，與此主訴不相干。\n\n【選項詳解】\n- A. EUS 可評估食道腫瘤壁層侵犯與局部淋巴結，適合。\n- B. ERCP 用於膽道與胰管疾病，不是吞嚥困難或食道癌評估工具。\n- C. CT 可評估腫瘤侵犯、淋巴結與遠端轉移。\n- D. 食道攝影可顯示狹窄、阻塞或黏膜不規則。\n\n【核心考點】\n食道癌評估可用內視鏡/EUS、CT、食道攝影；ERCP 不適合。",
+      "key_point": "食道癌評估可用內視鏡/EUS、CT、食道攝影；ERCP 不適合。",
+      "flashcard_summary": "一般外科 -> 食道癌評估可用內視鏡/EUS、CT、食道攝影；ERCP 不適合。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -781,13 +781,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "吞嚥困難 / 聲音沙啞 / 食道癌評估 / ERCP / 內視鏡超音波 (EUS)",
-      "flashcard_back": "懷疑食道癌侵犯喉返神經時，可用CT、食道攝影及EUS評估；ERCP屬於膽胰系統檢查，無關食道。",
+      "flashcard_back": "食道癌評估可用內視鏡/EUS、CT、食道攝影；ERCP 不適合。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_028",
@@ -800,9 +800,9 @@
         "D": "文獻指出,膽道癌對於化學治療效果很好,但對放射治療的效果並不明確"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關膽管細胞癌(cholangiocarcinoma)的敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：膽管細胞癌不論對化學治療或放射線治療的反應都相對有限（並非反應很好），因此臨床上仍以完整手術切除為唯一的治癒性手段。Klatskin tumor（肝門部膽管癌）是肝外膽管癌中最常見的類型。近年研究顯示，肝內膽管癌與B型/C型肝炎病毒感染、肝硬化、非酒精性脂肪肝及糖尿病等具有相關性。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「從十二指腸壺腹處(Ampulla of Vater)到肝內膽管都有可能發生,其中又以在肝門分支處的膽道癌\n (Klatskin tumor)最常見」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「根據最近的文獻顯示,肝內膽管細胞癌可能跟病毒感染、非酒精性脂肪肝、肝硬化及糖尿病有相關性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「完整切除是肝內膽管細胞癌治療的準則,一般而言,可開刀的比例約可達60%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「文獻指出,膽道癌對於化學治療效果很好,但對放射治療的效果並不明確」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解膽管細胞癌（cholangiocarcinoma）的治療特點與預後。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解膽管細胞癌（cholangiocarcinoma）的治療特點與預後。",
-      "flashcard_summary": "膽管癌治療反應 -> 膽管細胞癌對化放療反應不佳，唯有完整手術切除方能根治。",
+      "explanation": "【題幹解析】\n膽管癌整體預後差，完整切除是唯一可能根治方式。化學治療效果有限，不能說效果很好；放療角色也需依部位與切除狀況評估。\n\n【選項詳解】\n- A. 膽管癌可發生於肝內、肝門與遠端膽管，Klatskin tumor 位於肝門分叉處且常見。\n- B. 肝內膽管癌與慢性肝病、代謝因素及部分感染/發炎因子相關。\n- C. 可切除者以完整切除為治療準則，部分病例可達切除條件。\n- D. 膽道癌對化療反應並非很好，預後仍差，因此此項錯誤。\n\n【核心考點】\n膽管癌根治關鍵是完整切除，化療效果有限。",
+      "key_point": "膽管癌根治關鍵是完整切除，化療效果有限。",
+      "flashcard_summary": "一般外科 -> 膽管癌根治關鍵是完整切除，化療效果有限。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -810,13 +810,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "膽管細胞癌 / Klatskin tumor / 肝內膽管癌危險因子 / 化學治療效果",
-      "flashcard_back": "膽管細胞癌對化療與放療反應皆欠佳，非「效果很好」，完整手術切除是唯一的根治方式。",
+      "flashcard_back": "膽管癌根治關鍵是完整切除，化療效果有限。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_029",
@@ -829,9 +829,9 @@
         "D": "在有胰臟周圍液體堆積中的5%~15%的病患會產生胰臟偽囊腫(pancreatic pseudocyst),急性胰臟炎也會造\n 成鄰近器官出血、感染、器官壓迫及腸道阻塞等併發症"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關急性胰臟炎的敘述,何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：臨床指引明確指出，對於無感染證據的無菌性胰臟壞死（sterile necrosis），常規給予預防性抗生素並不能降低感染風險或改善預後，因此不建議使用。急性胰臟炎常見病因有膽結石、酒精與 ERCP 等。嚴重度評估常用 Ranson 準則、APACHE II 分數與 CTSI 影像指數。約 5%~15% 的局部積水會形成偽囊腫。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「造成急性胰臟炎的危險因子有膽結石,酒精、藥物、自體免疫及經內視鏡逆行性膽道胰臟攝影(ERCP)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「評估疾病嚴重程度的方式有Ranson prognostic criteria、APACHE II分數及電腦斷層嚴重度指數(CT severity\n index)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「若有胰臟及周邊組織壞死但無感染證據,仍須給與抗生素,避免壞死進一步變成感染性壞死或是膿瘍形成」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「在有胰臟周圍液體堆積中的5%~15%的病患會產生胰臟偽囊腫(pancreatic pseudocyst),急性胰臟炎也會造\n 成鄰近器官出血、感染、器官壓迫及腸道阻塞等併發症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n掌握急性胰臟炎壞死組織的抗生素使用原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握急性胰臟炎壞死組織的抗生素使用原則。",
-      "flashcard_summary": "胰臟炎抗生素使用 -> 無感染證據的無菌性胰臟壞死不應給予預防性抗生素。",
+      "explanation": "【題幹解析】\n急性胰臟炎若有無菌性壞死，不建議預防性抗生素；抗生素主要用於感染性壞死、膽管炎或其他明確感染。\n\n【選項詳解】\n- A. 膽結石與酒精是急性胰臟炎最常見危險因子，ERCP、藥物、自體免疫也可造成。\n- B. Ranson、APACHE II、CT severity index 都可用於嚴重度評估。\n- C. 無感染證據的壞死不需預防性抗生素，因此此項錯誤。\n- D. 急性胰臟炎可併發 pseudocyst、出血、感染、壓迫與腸阻塞等。\n\n【核心考點】\n無菌性胰臟壞死不常規使用預防性抗生素。",
+      "key_point": "無菌性胰臟壞死不常規使用預防性抗生素。",
+      "flashcard_summary": "一般外科 -> 無菌性胰臟壞死不常規使用預防性抗生素。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -839,13 +839,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "急性胰臟炎 / 無菌性胰臟壞死 / 預防性抗生素 / 嚴重度評估",
-      "flashcard_back": "無感染證據的胰臟壞死不需常規使用預防性抗生素；嚴重度可用Ranson、APACHE II或CTSI評估。",
+      "flashcard_back": "無菌性胰臟壞死不常規使用預防性抗生素。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_030",
@@ -858,9 +858,9 @@
         "D": "此疾病對化學治療的反應不佳"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關gastric lymphoma的敘述,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：胃部是最常出現原發性消化道淋巴瘤的部位，其中低惡性度黏膜相關淋巴組織（MALT）淋巴瘤的致病機轉與幽門螺旋桿菌（H. pylori）感染密切相關，早期患者可單靠根除 H. pylori 達到治癒。胃淋巴瘤以 B 細胞型（B-cell type）為主，且對化學治療與放射治療的反應非常良好。目前的治療主流已轉向非手術治療，手術僅保留於合併穿孔或大出血等併發症時。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「primary lymphoma在消化道中,最常出現在胃部,且多為T-cell type」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「gastric lymphoma的治療主流仍是以手術切除為優先考慮」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「gastric low-grade MALT lymphoma的致病機轉與幽門桿菌(H. pylori)有關」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「此疾病對化學治療的反應不佳」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n辨識胃淋巴瘤（gastric lymphoma）的病理分類、成因與治療趨勢。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識胃淋巴瘤（gastric lymphoma）的病理分類、成因與治療趨勢。",
-      "flashcard_summary": "胃淋巴瘤特徵與治療 -> 胃MALT淋巴瘤為B細胞型，與幽門桿菌相關，對化放療反應良好，非首選手術。",
+      "explanation": "【題幹解析】\n胃原發淋巴瘤多為 B-cell lymphoma，低度惡性 MALT lymphoma 與 H. pylori 慢性感染刺激有關，早期可先根除幽門螺旋桿菌。\n\n【選項詳解】\n- A. 消化道原發淋巴瘤常見於胃，但多為 B-cell type，不是 T-cell type。\n- B. 現代治療多依病理與分期採 H. pylori eradication、放化療或免疫治療，手術不再是優先主流。\n- C. Low-grade gastric MALT lymphoma 與 H. pylori 有明確關聯，是正確敘述。\n- D. 胃淋巴瘤通常對化療或放療有反應，不能說反應不佳。\n\n【核心考點】\n胃 low-grade MALT lymphoma 與 H. pylori 有關。",
+      "key_point": "胃 low-grade MALT lymphoma 與 H. pylori 有關。",
+      "flashcard_summary": "一般外科 -> 胃 low-grade MALT lymphoma 與 H. pylori 有關。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -868,13 +868,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "胃淋巴瘤 / MALT淋巴瘤 / 幽門螺旋桿菌 (H. pylori) / B細胞型 / 手術治療地位",
-      "flashcard_back": "胃MALT淋巴瘤與幽門桿菌感染相關，多為B細胞型，對化放療敏感，治療主流已非手術。",
+      "flashcard_back": "胃 low-grade MALT lymphoma 與 H. pylori 有關。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_031",
@@ -887,9 +887,9 @@
         "D": "痔瘡靜脈叢曲張(hemorrhoidal venous plexus)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種靜脈曲張現象與門靜脈高壓最為無關?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：門靜脈高壓會導致門-體循環側支建立，引起食道胃底靜脈曲張（經左胃靜脈）、上腹壁靜脈曲張（海蛇頭，經臍旁靜脈）及痔瘡靜脈叢曲張（經直腸上靜脈）。精索靜脈曲張（varicocele）是因精索內靜脈瓣膜受損或解剖構造（如左側精索靜脈直角注入左腎靜脈）造成血液回流受阻所致，與門靜脈高壓無關。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「胃、食道靜脈曲張(esophagogastric varices)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「精索靜脈曲張(varicocele)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「上腹靜脈系統曲張(epigastric venous system)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「痔瘡靜脈叢曲張(hemorrhoidal venous plexus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n區分門靜脈高壓引起的側支循環與其他靜脈曲張。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分門靜脈高壓引起的側支循環與其他靜脈曲張。",
-      "flashcard_summary": "門脈高壓側支循環 -> 門脈高壓導致食道、腹壁與痔靜脈曲張，精索靜脈曲張則無關。",
+      "explanation": "【題幹解析】\n門靜脈高壓會造成食道胃靜脈曲張、腹壁側支循環與痔靜脈叢曲張。精索靜脈曲張多與左腎靜脈回流、精索靜脈瓣膜或腎腫瘤壓迫相關，與門脈高壓最無關。\n\n【選項詳解】\n- A. 食道胃靜脈曲張是門脈高壓最重要側支循環之一。\n- B. 精索靜脈曲張屬性腺靜脈回流問題，與門脈系統最無關。\n- C. 上腹或臍周靜脈曲張可見於門脈高壓的腹壁側支循環。\n- D. 上直腸靜脈與中下直腸靜脈交通可造成痔靜脈叢曲張。\n\n【核心考點】\n門脈高壓側支包含食道胃、腹壁與直腸靜脈；精索靜脈曲張通常無關。",
+      "key_point": "門脈高壓側支包含食道胃、腹壁與直腸靜脈；精索靜脈曲張通常無關。",
+      "flashcard_summary": "一般外科 -> 門脈高壓側支包含食道胃、腹壁與直腸靜脈；精索靜脈曲張通常無關。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -897,13 +897,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "門靜脈高壓 / 側支循環 / 食道靜脈曲張 / 海蛇頭 / 精索靜脈曲張",
-      "flashcard_back": "門靜脈高壓引起食道、腹壁及痔瘡靜脈曲張；精索靜脈曲張是因精索靜脈瓣膜功能不全引起，與門脈壓無關。",
+      "flashcard_back": "門脈高壓側支包含食道胃、腹壁與直腸靜脈；精索靜脈曲張通常無關。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_032",
@@ -916,9 +916,9 @@
         "D": "將不慎切除的膽管2清除乾淨,重新橋接回原處(1-2-3銜接),並由此段膽管2放置T型管作為支架"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「膽囊切除時發現總膽管被電燒刀切除了3公分長度,造成膽汁滲漏,如附圖。下列那一個處置最為恰當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：當總膽管受損缺損長度達 3 公分時，因缺損過大，若直接進行端對端吻合（end-to-end anastomosis）會產生極高的張力，極易導致術後吻合口漏或膽管狹窄。此時最恰當的處置是將近端膽管（肝臟側）與小腸進行吻合（如 Roux-en-Y 膽管空腸吻合術，Hepaticojejunostomy），並將遠端膽管（十二指腸側）縫合結紮。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「將受傷的膽管(1和3)清除乾淨,銜接兩端剩餘的膽管(1和3銜接),由銜接的傷口處放置T型管作為\n 支架」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「將受傷的膽管(1和3)清除乾淨,銜接兩端剩餘的膽管(1和3銜接),由銜接處下方的總膽管(3)放\n 置T型管作為支架」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「將受傷的膽管1清除乾淨,以腸道銜接肝臟側剩餘的膽管1,並縫合3的斷端」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「將不慎切除的膽管2清除乾淨,重新橋接回原處(1-2-3銜接),並由此段膽管2放置T型管作為支架」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n選擇總膽管嚴重缺損受損時的重建手術方式。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "選擇總膽管嚴重缺損受損時的重建手術方式。",
-      "flashcard_summary": "嚴重膽管損傷處置 -> 膽管缺損過大（如3cm）禁用端對端吻合，應採膽管空腸吻合術（Roux-en-Y）重建。",
+      "explanation": "【題幹解析】\n總膽管被切除 3 公分且膽汁滲漏，缺損過長不適合端對端吻合或 T 管橋接，應以 Roux-en-Y hepaticojejunostomy 將肝側膽管接到腸道，遠端斷端關閉。\n\n【選項詳解】\n- A. 3 公分缺損端對端吻合張力過大，易狹窄或漏，T 管不能解決長段缺損。\n- B. 同樣屬張力性端對端吻合，放 T 管也不能使重建可靠。\n- C. 以腸道銜接肝側膽管並關閉遠端斷端，是嚴重膽管缺損較恰當處置。\n- D. 被切除的膽管段通常不可安全橋接回原處，且血供與張力問題大。\n\n【核心考點】\n長段總膽管缺損應以 biliary-enteric anastomosis 重建，如 hepaticojejunostomy。",
+      "key_point": "長段總膽管缺損應以 biliary-enteric anastomosis 重建，如 hepaticojejunostomy。",
+      "flashcard_summary": "一般外科 -> 長段總膽管缺損應以 biliary-enteric anastomosis 重建，如 hepaticojejunostomy。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -926,13 +926,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "總膽管損傷 / 膽管缺損3公分 / 端對端吻合 / 膽管空腸吻合術 (Hepaticojejunostomy)",
-      "flashcard_back": "膽管缺損大於1公分時不可做端對端吻合（張力過大）；應行近端膽管與小腸吻合（Roux-en-Y），遠端縫合。",
+      "flashcard_back": "長段總膽管缺損應以 biliary-enteric anastomosis 重建，如 hepaticojejunostomy。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_033",
@@ -945,9 +945,9 @@
         "D": "器官排斥"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「胰臟移植後,導致病人死亡最常見的原因為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：接受胰臟移植的患者多為長期患有第一型糖尿病且合併腎衰竭的病人，這類患者在術前通常已存有嚴重的動脈粥狀硬化與心血管病變。因此，心血管疾病（如心肌梗塞、中風）是胰臟移植術後導致病人死亡最常見的原因，而非感染或排斥。\n\n【選項詳解】\n- A. 正確答案。選項內容：「心血管疾病」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「惡性腫瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「器官排斥」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n記憶胰臟移植病患最常見的死因。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "記憶胰臟移植病患最常見的死因。",
-      "flashcard_summary": "胰臟移植死因 -> 胰臟移植術後最常見的死因為心血管疾病（與長期糖尿病血管病變有關）。",
+      "explanation": "【題幹解析】\n胰臟移植病人多有長期糖尿病及血管病變背景，即使移植成功，長期死亡最常見原因仍常是心血管疾病。\n\n【選項詳解】\n- A. 糖尿病病人本身心血管風險高，心血管疾病是胰臟移植後常見死因。\n- B. 感染是免疫抑制後重要併發症，但不是此題最常見死因。\n- C. 惡性腫瘤可因免疫抑制風險上升，但整體不是最常見。\n- D. 器官排斥會影響 graft survival，但不一定是病人死亡最常見原因。\n\n【核心考點】\n胰臟移植後病人死亡常見原因是心血管疾病。",
+      "key_point": "胰臟移植後病人死亡常見原因是心血管疾病。",
+      "flashcard_summary": "移植外科 -> 胰臟移植後病人死亡常見原因是心血管疾病。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -955,13 +955,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "胰臟移植 / 最常見死因 / 糖尿病併發症 / 心血管疾病",
-      "flashcard_back": "胰臟移植患者多有長期糖尿病血管病變，術後最常見死因為心血管疾病，而非感染或排斥。",
+      "flashcard_back": "胰臟移植後病人死亡常見原因是心血管疾病。",
       "category_group": "醫學（五）",
       "category": "移植外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_034",
@@ -974,9 +974,9 @@
         "D": "13"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關胰臟炎之敘述,何者正確?1急性胰臟炎70~80%原因為膽道結石及酗酒 2慢性胰臟炎70~80%\n 原因為酗酒 3急性胰臟炎大部分(約90%)應以外科治療 4血液澱粉酶素(amylase)高低可預測急性胰\n 臟炎的嚴重度 5慢性胰臟炎合併糖尿病即應考慮外科治療」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性胰臟炎的兩大主因為膽結石與酒精（占70-80%），而慢性胰臟炎在西方及多數國家最主要的原因為長期酗酒（占70-80%）。絕大多數（約80-90%）的急性胰臟炎為輕度且呈自限性，主要以內科保守支持治療為主。血中澱粉酶（amylase）的高低與疾病嚴重度無關。慢性胰臟炎合併糖尿病屬於內分泌功能不足，首選胰島素等藥物控制，而非手術適應症。\n\n【選項詳解】\n- A. 正確答案。選項內容：「12」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「35」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「45」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「13」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n區分急慢性胰臟炎的常見病因、治療原則與診斷指標。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分急慢性胰臟炎的常見病因、治療原則與診斷指標。",
-      "flashcard_summary": "胰臟炎病因與治療 -> 急慢性胰臟炎多由酒精/結石引起；澱粉酶高低與嚴重度無關；多數急性期以內科治療為主。",
+      "explanation": "【題幹解析】\n急性胰臟炎最常見原因為膽石與酒精；慢性胰臟炎也常與長期酒精相關。急性胰臟炎多數內科支持治療，amylase 高低不預測嚴重度，糖尿病本身不是慢性胰臟炎外科適應症。\n\n【選項詳解】\n- A. 第 1、2 皆正確，因此為正確組合。\n- B. 第 3 錯，急性胰臟炎大多不需外科治療；第 5 也不是一般適應症。\n- C. 第 4 錯，amylase 高低不能代表嚴重度；第 5 也錯。\n- D. 第 1 正確但第 3 錯，組合不對。\n\n【核心考點】\n胰臟炎常見病因：急性為膽石與酒精，慢性多與酒精相關；多數急性病例支持治療。",
+      "key_point": "胰臟炎常見病因：急性為膽石與酒精，慢性多與酒精相關；多數急性病例支持治療。",
+      "flashcard_summary": "一般外科 -> 胰臟炎常見病因：急性為膽石與酒精，慢性多與酒精相關；多數急性病例支持治療。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -984,13 +984,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "急性胰臟炎 / 慢性胰臟炎 / 澱粉酶 (amylase) / 酗酒與膽結石 / 手術適應症",
-      "flashcard_back": "急慢性胰臟炎主因為酒精與膽結石；澱粉酶高低不代表嚴重度；多數急性期採內科保守治療。",
+      "flashcard_back": "胰臟炎常見病因：急性為膽石與酒精，慢性多與酒精相關；多數急性病例支持治療。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_035",
@@ -1003,9 +1003,9 @@
         "D": "小胸肌下方者"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「在乳癌診治中,腋下淋巴腺分為三區(level),其中第二區(level II)位於:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：乳癌手術中腋下淋巴結的分區是以「小胸肌（pectoralis minor muscle）」為解剖地標。第一區（Level I）位於小胸肌外側（lateral）；第二區（Level II）位於小胸肌後方或下方（deep/posterior/below）；第三區（Level III）則位於小胸肌內側或上方（medial/superior）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「thoracic dorsi動脈之外側」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「thoracic dorsi動脈之內側」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「小胸肌上方者」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「小胸肌下方者」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握乳癌腋下淋巴結分區的解剖學邊界。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握乳癌腋下淋巴結分區的解剖學邊界。",
-      "flashcard_summary": "腋下淋巴結解剖分區 -> 淋巴結分區以小胸肌為界：外側為Level I，深部下方為Level II，內側上方為Level III。",
+      "explanation": "【題幹解析】\n乳癌腋下淋巴結分區以小胸肌為界：level I 在小胸肌外側，level II 在小胸肌後方/下方，level III 在小胸肌內側。\n\n【選項詳解】\n- A. Thoracodorsal artery 不是標準 level II 分區界線。\n- B. Thoracodorsal artery 內側也不是乳癌腋下 level 的主要定義。\n- C. 小胸肌上方不是標準描述。\n- D. Level II 位於小胸肌後方或下方，是正確定位。\n\n【核心考點】\n乳癌腋下 level II 淋巴結位於小胸肌後方/下方。",
+      "key_point": "乳癌腋下 level II 淋巴結位於小胸肌後方/下方。",
+      "flashcard_summary": "一般外科 -> 乳癌腋下 level II 淋巴結位於小胸肌後方/下方。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1013,13 +1013,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "乳癌腋下淋巴結 / 腋下淋巴結分區 (Level I, II, III) / 小胸肌 (pectoralis minor)",
-      "flashcard_back": "腋下淋巴結以小胸肌劃分：外側為Level I，下方/後方為Level II，內側/上方為Level III。",
+      "flashcard_back": "乳癌腋下 level II 淋巴結位於小胸肌後方/下方。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_036",
@@ -1032,9 +1032,9 @@
         "D": "若病灶為多發性且在不同象限,則不能選擇乳房保留手術"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「乳癌治療進行乳房保留手術的適應症,下列何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：前哨淋巴結轉移並非乳房保留手術的禁忌症，轉移者可透過腋下淋巴結廓清術或術後放射治療處置，乳房主體仍可保留。乳房保留手術後必須接受輔助放射線治療，因此若有肺部疾病或懷孕等無法接受放療者不適用。多發性且位於不同象限的腫瘤，或腫瘤相對於乳房過大導致切除後嚴重影響外觀者，亦不建議進行保留手術。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「病人因肺部疾病無法接受放射線治療,則不能選擇乳房保留手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「經由外科醫師評估,比較腫瘤相對於乳房大小,經局部切除後,可能影響乳房外觀,則不建議選擇乳房保留\n 手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「若手術當中,前哨淋巴結有乳癌細胞轉移,則不能選擇乳房保留手術」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「若病灶為多發性且在不同象限,則不能選擇乳房保留手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n辨識乳房保留手術（BCS）的適應症與禁忌症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識乳房保留手術（BCS）的適應症與禁忌症。",
-      "flashcard_summary": "乳房保留手術禁忌 -> 前哨淋巴結轉移不影響保留乳房；無法接受放療或多象限多發腫瘤則不可行保留術。",
+      "explanation": "【題幹解析】\n乳房保留手術需能完整切除並接受術後放療。前哨淋巴結陽性不等於不能保乳，後續可依腋下處置與輔助治療規劃。\n\n【選項詳解】\n- A. 無法接受必要放射治療通常不適合乳房保留治療。\n- B. 腫瘤相對乳房過大、切除後外觀差，可能不建議保乳。\n- C. 前哨淋巴結有轉移不是保乳絕對禁忌，因此此項錯誤。\n- D. 多中心或不同象限多發病灶常不適合保乳。\n\n【核心考點】\n前哨淋巴結陽性不是乳房保留手術的絕對禁忌。",
+      "key_point": "前哨淋巴結陽性不是乳房保留手術的絕對禁忌。",
+      "flashcard_summary": "一般外科 -> 前哨淋巴結陽性不是乳房保留手術的絕對禁忌。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1042,13 +1042,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "乳房保留手術 (BCS) / 放射線治療禁忌 / 多發性腫瘤 / 前哨淋巴結轉移",
-      "flashcard_back": "前哨淋巴結轉移非BCS禁忌；無法接受術後放療或不同象限多發性腫瘤則為BCS禁忌。",
+      "flashcard_back": "前哨淋巴結陽性不是乳房保留手術的絕對禁忌。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_037",
@@ -1061,9 +1061,9 @@
         "D": "義乳植入適用於無法維持長時間麻醉的病患"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「對於以義乳方式進行乳房重建(implant based breast reconstruction)的敘述,下列何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：義乳植入式乳房重建的長期滿意度往往隨時間下降，並非維持在90%以上，主要原因在於義乳可能發生莢膜攣縮（capsular contracture）、位移、變形或破損。相較之下，自體皮瓣重建雖手術時間長、技術複雜，但長期外觀自然且隨時間滿意度反而較高。義乳手術時間短，適合無法耐受長時麻醉者，但若術後需接受放射線治療，會增加莢膜攣縮風險，須審慎評估。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「此重建方式在雙側乳房外觀的對稱性方面效果比自體皮瓣好」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「近期要接受輔助放射線治療的病患,應評估其適用性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「因為義乳植入,其外觀並不會隨時間改變,病患的滿意度在五年後仍高達90%」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「義乳植入適用於無法維持長時間麻醉的病患」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n比較義乳植入與自體組織乳房重建的特點與長期預後。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "比較義乳植入與自體組織乳房重建的特點與長期預後。",
-      "flashcard_summary": "乳房重建方式比較 -> 義乳重建手術時間短但長期滿意度常因莢膜攣縮等併發症而下降；自體皮瓣長期效果更自然。",
+      "explanation": "【題幹解析】\n義乳重建手術時間較短，適合部分無法承受長時間麻醉者，但義乳外觀與觸感會隨時間、莢膜攣縮、放療而改變，長期滿意度不可能固定高達 90%。\n\n【選項詳解】\n- A. 義乳在雙側重建時較容易取得對稱體積，敘述可接受。\n- B. 放射線會增加莢膜攣縮、感染與重建失敗風險，需評估適用性。\n- C. 義乳重建會受老化、莢膜攣縮與放療影響，滿意度可下降，因此此項錯誤。\n- D. 義乳重建相對自體皮瓣手術時間短，適合部分麻醉耐受較差者。\n\n【核心考點】\n義乳重建長期可能因莢膜攣縮與放療改變外觀與滿意度。",
+      "key_point": "義乳重建長期可能因莢膜攣縮與放療改變外觀與滿意度。",
+      "flashcard_summary": "整形外科 -> 義乳重建長期可能因莢膜攣縮與放療改變外觀與滿意度。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1071,13 +1071,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "乳房重建 / 義乳植入 / 自體皮瓣 / 莢膜攣縮 / 放射線治療",
-      "flashcard_back": "義乳重建手術快但長期易有莢膜攣縮等問題，滿意度隨時間下降；自體皮瓣重建長期滿意度較佳。",
+      "flashcard_back": "義乳重建長期可能因莢膜攣縮與放療改變外觀與滿意度。",
       "category_group": "醫學（五）",
       "category": "整形外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_038",
@@ -1090,9 +1090,9 @@
         "D": "發生原因是久坐或肝門脈高壓"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「一名6個月的小女嬰,肛門周圍七點鐘方向紅腫,被診斷為肛門周圍膿瘍,治療後有改善;但此情形反反覆覆\n 直到1歲,媽媽發現小女嬰的肛門雖然不腫了,但七點鐘方向離肛門口1公分處有一個小洞,每次擠壓會流出\n 一些分泌物。下列敘述何者最正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：嬰幼兒（特別是一歲以下）的肛門瘻管通常是單純且表淺的，其管道多呈放射狀直接行進，通往相同時鐘方向的肛門隱窩內口，而不遵循成人常見的 Goodsall's rule（即後側開口繞至六點鐘）。因此，本例女嬰七點鐘方向的外開口，其瘻管會直接由七點鐘方向匯入直腸。肛裂通常以塗藥保守治療，但此處已形成具分泌物之小洞，為典型肛門瘻管；嬰兒瘻管成因與久坐或門脈高壓無關。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「是肛裂(anal fissure),抹藥就會好」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「肛門瘻管(anal fistula),瘻管會繞道由六點鐘方向匯入直腸」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「肛門瘻管(anal fistula),瘻管會直接由七點鐘方向匯入直腸」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「發生原因是久坐或肝門脈高壓」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n理解嬰幼兒肛門瘻管的解剖走向與 Goodsall's rule 的適用性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "理解嬰幼兒肛門瘻管的解剖走向與 Goodsall's rule 的適用性。",
-      "flashcard_summary": "嬰幼兒肛門瘻管走向 -> 呈放射狀直行通往同方向內口，不遵循成人Goodsall's rule的繞道規則。",
+      "explanation": "【題幹解析】\n嬰幼兒反覆肛門周圍膿瘍後出現外口與分泌物，符合肛門瘻管。兒童低位瘻管常呈直接徑路，不一定遵循成人 Goodsall rule 繞行。\n\n【選項詳解】\n- A. 肛裂是肛管裂傷造成排便痛與出血，不會形成離肛門 1 公分的小洞反覆流膿。\n- B. 此題外口在 7 點鐘方向，嬰幼兒瘻管多直接進入，不應說繞到 6 點鐘。\n- C. 肛門瘻管可由外口所在方向直接通入肛管或直腸，最符合。\n- D. 久坐或門脈高壓與嬰幼兒肛瘻病因無關。\n\n【核心考點】\n嬰幼兒肛門周圍膿瘍反覆後形成小外口，要想到低位肛門瘻管。",
+      "key_point": "嬰幼兒肛門周圍膿瘍反覆後形成小外口，要想到低位肛門瘻管。",
+      "flashcard_summary": "小兒外科 -> 嬰幼兒肛門周圍膿瘍反覆後形成小外口，要想到低位肛門瘻管。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1100,13 +1100,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "嬰幼兒肛門瘻管 / 走向特徵 / Goodsall's rule 適用性 / 七點鐘方向外開口",
-      "flashcard_back": "嬰幼兒（一歲以下）的肛門瘻管多為簡單且呈放射狀直行，直接通往同方向內口，不遵循成人Goodsall's rule。",
+      "flashcard_back": "嬰幼兒肛門周圍膿瘍反覆後形成小外口，要想到低位肛門瘻管。",
       "category_group": "醫學（五）",
       "category": "小兒外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_039",
@@ -1119,9 +1119,9 @@
         "D": "有症狀者應切除膽囊"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「一名12歲大30公斤重的女童因為右上腹痛來到門診,她過去無特殊病史,理學檢查發現她的右上腹有壓痛,\n 超音波檢查發現膽囊有結石,下列敘述何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：兒童膽結石以色素性結石（pigment stones）最為常見，這常與溶血性疾病相關，與成人以膽固醇結石（cholesterol stones）為主的特徵不同。對於非肥胖且有膽結石的兒童，應考慮是否有遺傳性球形紅血球增多症（hereditary spherocytosis）等溶血性疾病，因此可安排紅血球滲透脆性測驗（osmotic fragility test）。有症狀的膽結石患者應建議進行膽囊切除術。\n\n【選項詳解】\n- A. 正確答案。選項內容：「對孩童而言,大部分的結石是膽固醇結石(cholesterol stone)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「與肥胖無關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「可以做紅血球脆性測驗」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「有症狀者應切除膽囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n了解兒童膽結石的病因分類與診斷方法。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解兒童膽結石的病因分類與診斷方法。",
-      "flashcard_summary": "兒童膽結石特徵 -> 兒童以色素性結石最常見，多與溶血病相關，故可做滲透脆性測驗，非以膽固醇結石為主。",
+      "explanation": "【題幹解析】\n兒童膽結石病因與成人不同，色素結石及溶血疾病需評估；不能說大部分都是膽固醇結石。症狀性膽結石通常建議膽囊切除。\n\n【選項詳解】\n- A. 兒童膽結石常與溶血、膽道疾病或其他因素相關，色素結石重要；說大多為膽固醇結石錯誤。\n- B. 兒童膽結石可與肥胖相關，但題目官方以 A 為錯；此項表述雖簡化但非最佳錯誤點。\n- C. 紅血球脆性測驗可評估遺傳性球狀紅血球症等溶血病因。\n- D. 有症狀膽結石通常建議膽囊切除。\n\n【核心考點】\n兒童膽結石需考慮溶血性色素結石，症狀性病例可手術。",
+      "key_point": "兒童膽結石需考慮溶血性色素結石，症狀性病例可手術。",
+      "flashcard_summary": "小兒外科 -> 兒童膽結石需考慮溶血性色素結石，症狀性病例可手術。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1129,13 +1129,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "兒童膽結石 / 結石成分 / 溶血性疾病 / 紅血球滲透脆性測驗",
-      "flashcard_back": "兒童膽結石以色素性結石最常見（常與溶血疾病相關），成人則以膽固醇結石為主；疑有遺傳球形紅血球症可驗滲透脆性。",
+      "flashcard_back": "兒童膽結石需考慮溶血性色素結石，症狀性病例可手術。",
       "category_group": "醫學（五）",
       "category": "小兒外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_040",
@@ -1148,9 +1148,9 @@
         "D": "甲狀舌骨囊腫(thyroglossal duct cyst)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者非幼兒常見的頸部腫瘤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：囊狀水瘤（cystic hygroma，現稱淋巴管畸形）、鰓裂囊腫（branchial cleft cyst）及甲狀舌骨囊腫（thyroglossal duct cyst）皆是幼兒非常常見的先天性頸部腫塊。相比之下，頸部的畸胎瘤（teratoma）在幼兒極為罕見，雖然可能發生，但不屬於「常見」的頸部腫瘤。\n\n【選項詳解】\n- A. 正確答案。選項內容：「畸胎瘤(teratoma)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「囊狀水瘤(cystic hygroma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「鰓裂囊腫(branchial cleft cyst)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「甲狀舌骨囊腫(thyroglossal duct cyst)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n辨識幼兒常見的先天性頸部腫塊與腫瘤。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識幼兒常見的先天性頸部腫塊與腫瘤。",
-      "flashcard_summary": "幼兒常見頸部腫塊 -> 囊狀水瘤、鰓裂囊腫及甲狀舌骨囊腫常見，畸胎瘤在頸部則罕見。",
+      "explanation": "【題幹解析】\n幼兒常見頸部腫塊多為先天性囊腫或淋巴血管畸形，如 cystic hygroma、branchial cleft cyst、thyroglossal duct cyst。畸胎瘤可發生但不是常見頸部腫瘤。\n\n【選項詳解】\n- A. 頸部畸胎瘤相對少見，不屬幼兒常見頸部腫瘤。\n- B. 囊狀水瘤是兒童常見先天性頸部腫塊。\n- C. 鰓裂囊腫是兒童與年輕人常見側頸部先天性病灶。\n- D. 甲狀舌骨囊腫是常見正中頸部腫塊。\n\n【核心考點】\n幼兒常見頸部腫塊包含囊狀水瘤、鰓裂囊腫、甲狀舌骨囊腫。",
+      "key_point": "幼兒常見頸部腫塊包含囊狀水瘤、鰓裂囊腫、甲狀舌骨囊腫。",
+      "flashcard_summary": "小兒外科 -> 幼兒常見頸部腫塊包含囊狀水瘤、鰓裂囊腫、甲狀舌骨囊腫。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1158,13 +1158,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "幼兒頸部腫塊 / 囊狀水瘤 / 鰓裂囊腫 / 甲狀舌骨囊腫 / 畸胎瘤",
-      "flashcard_back": "囊狀水瘤、鰓裂囊腫與甲狀舌骨囊腫皆為幼兒常見的先天性頸部腫塊；頸部畸胎瘤則極為罕見。",
+      "flashcard_back": "幼兒常見頸部腫塊包含囊狀水瘤、鰓裂囊腫、甲狀舌骨囊腫。",
       "category_group": "醫學（五）",
       "category": "小兒外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_041",
@@ -1177,9 +1177,9 @@
         "D": "問:醫師還要再為小寶貝安排什麼檢查嗎?答:我們需要再安排一個核磁共振檢查,來確認睪丸的位置及目\n 前的大小"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「一個剛滿月的男嬰,在新生兒健檢的時候,小兒科醫師發現他的右側陰囊內摸不到睪丸,故將他轉診到小兒\n 外科醫師門診。小兒外科醫師為男嬰做身體檢查,發現在external ring的位置可以觸診到尚未降下的睪丸,且\n 此睪丸無法下拉至陰囊。於是,男嬰的媽媽提出了許多問題,下列那一個回答不適合?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：隱睪症的診斷與評估主要依賴理學檢查（觸診）。本例中睪丸已可在腹股溝外環（external ring）觸及，因此完全不需要再安排昂貴且需要鎮靜的核磁共振（MRI）或超音波檢查。睪丸在出生後6個月內仍有機會自行下降，若滿6個月至1歲仍未下降，應安排睪丸固定術以防睪丸萎縮及日後惡化。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「問:怎麼辦,小寶貝的睪丸會不會有機會繼續往下降?答:在六個月至一歲之前,都還是可能有機會繼續往\n 下降。但是過了六個月至一歲若還沒降下來,可能就沒什麼機會了」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「問:如果小寶貝的睪丸一直都沒有下降的跡象,那要怎麼辦?答:我們通常會觀察到六個月至一歲大之間,\n 若發現睪丸沒有下降的情形,就要安排手術治療將睪丸固定在陰囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「問:如果不開刀,讓睪丸一直在上面,會怎麼樣嗎?答:那這個睪丸可能會隨著年紀增大漸漸的萎縮」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「問:醫師還要再為小寶貝安排什麼檢查嗎?答:我們需要再安排一個核磁共振檢查,來確認睪丸的位置及目\n 前的大小」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握隱睾症（undescended testis）的臨床評估與治療時機。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握隱睾症（undescended testis）的臨床評估與治療時機。",
-      "flashcard_summary": "隱睪症診斷與處置 -> 隱睪症以理學觸診為主，無須常規做MRI；若6-12個月大仍未下降應行固定手術。",
+      "explanation": "【題幹解析】\n本例睪丸已可在 external ring 觸診到，屬可觸及隱睪，診斷主要靠理學檢查，不需 MRI 確認位置。多數自發下降發生在出生後 6 個月內，未下降則安排睪丸固定術。\n\n【選項詳解】\n- A. 出生後前幾個月仍可能下降，6 個月至 1 歲後機會降低，回答合理。\n- B. 若 6 個月至 1 歲仍未下降，安排 orchiopexy 是合理處置。\n- C. 隱睪長期留在高位會影響發育並可能萎縮，也增加不孕與腫瘤風險。\n- D. 可觸及隱睪不需常規 MRI；影像通常不會改變處置，因此此回答不適合。\n\n【核心考點】\n可觸及隱睪靠理學檢查診斷，6 至 12 個月未下降應安排睪丸固定術。",
+      "key_point": "可觸及隱睪靠理學檢查診斷，6 至 12 個月未下降應安排睪丸固定術。",
+      "flashcard_summary": "小兒外科 -> 可觸及隱睪靠理學檢查診斷，6 至 12 個月未下降應安排睪丸固定術。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1187,13 +1187,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "隱睪症 / 觸診評估 / 手術時機 / 影像檢查必要性 / 睪丸萎縮",
-      "flashcard_back": "隱睪症主要依賴理學檢查診斷，若已觸及睪丸位置，無須安排MRI；6個月至1歲未下降應行睪丸固定術。",
+      "flashcard_back": "可觸及隱睪靠理學檢查診斷，6 至 12 個月未下降應安排睪丸固定術。",
       "category_group": "醫學（五）",
       "category": "小兒外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_042",
@@ -1206,9 +1206,9 @@
         "D": "每24小時給與2,000毫升0.9%生理食鹽水(normal saline)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「一名12歲45公斤重的男童,因為急性闌尾炎接受腹腔鏡闌尾切除手術,下列何者是比較適當的點滴輸液?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：依據 Holliday-Segar 公式計算小兒24小時維持水量：前10公斤為 100 mL/kg（1000 mL），第二個10公斤為 50 mL/kg（500 mL），剩餘的25公斤為 20 mL/kg（500 mL），總計為 2000 mL。維持液成分應包含適當的電解質（鈉、鉀）與能量（葡萄糖），因此含有5%葡萄糖、0.45%氯化鈉及20 mEq/L鉀離子的點滴最為合適。純生理食鹽水缺乏糖與鉀，長期使用易致電解質失衡與酸中毒；代用血漿用於休克擴容，不作常規維持點滴。\n\n【選項詳解】\n- A. 正確答案。選項內容：「每24小時給與2,000毫升輸液,其中內含5%葡萄糖,0.45%氯化鈉,20毫當量/升(mEq/liter)鉀離子」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「每24小時給與1,500毫升林格氏液(Ringer's solution)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「每24小時給與1,500毫升代用血漿(Gelofusine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「每24小時給與2,000毫升0.9%生理食鹽水(normal saline)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n使用 Holliday-Segar 公式計算小兒維持點滴的量與成分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "使用 Holliday-Segar 公式計算小兒維持點滴的量與成分。",
-      "flashcard_summary": "小兒維持點滴計算 -> 45kg小兒每日維持水量為2000ml，應補給含葡萄糖、適量鈉與鉀之點滴。",
+      "explanation": "【題幹解析】\n45 公斤兒童維持液以 Holliday-Segar 估算約 1000+500+500=2000 mL/day。維持液需含葡萄糖、適量鈉與鉀，術後穩定且有尿後可補鉀。\n\n【選項詳解】\n- A. 2000 mL/day 並含 5% glucose、0.45% saline 與 20 mEq/L KCl，最接近小兒維持點滴。\n- B. 1500 mL LR 量偏少且不含葡萄糖與鉀，不適合作維持液。\n- C. 代用血漿不是一般術後維持點滴。\n- D. 2000 mL NS 鈉氯負荷較高且不含葡萄糖與鉀，非最佳維持液。\n\n【核心考點】\nHolliday-Segar：45 kg 兒童維持液約 2000 mL/day，需葡萄糖與適量電解質。",
+      "key_point": "Holliday-Segar：45 kg 兒童維持液約 2000 mL/day，需葡萄糖與適量電解質。",
+      "flashcard_summary": "小兒外科 -> Holliday-Segar：45 kg 兒童維持液約 2000 mL/day，需葡萄糖與適量電解質。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1216,13 +1216,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "小兒點滴維持量 / Holliday-Segar公式 / 45公斤維持水 / 點滴電解質成分",
-      "flashcard_back": "45kg小兒24小時維持水量為2000ml（1000+500+500）；成分以含葡萄糖、低張鈉（如0.45%）與鉀離子為佳。",
+      "flashcard_back": "Holliday-Segar：45 kg 兒童維持液約 2000 mL/day，需葡萄糖與適量電解質。",
       "category_group": "醫學（五）",
       "category": "小兒外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_043",
@@ -1235,9 +1235,9 @@
         "D": "80%~90%的患者需要手術治療"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於肛門裂傷(anal fissure)的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：學術指引與臨床統計顯示，約80%~90%的急性肛裂患者在接受溫水坐浴、高纖飲食、軟便劑或局部藥物（如硝酸甘油軟膏）等保守治療後即可痊癒，僅有少數慢性且藥物無效者需要手術（如側內括約肌切斷術）。肛裂是齒狀線以下至外肛門緣的皮膚裂傷，因該處受體壁感覺神經支配，故疼痛感極為劇烈。好發於肛門的正後方（最常見）或正前方。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「肛門裂傷簡稱肛裂,是齒狀線和肛門緣之間的上皮受傷,多半發生在肛門的正後方或正前方」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「因為肛裂部位聚集著敏感的感覺神經,所以傷口雖小但有如刺骨般的疼痛」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「慢性肛裂是因硬便及肛裂的惡性循環導致肛門潰瘍」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「80%~90%的患者需要手術治療」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解肛裂（anal fissure）的臨床表現與治療原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解肛裂（anal fissure）的臨床表現與治療原則。",
-      "flashcard_summary": "肛裂治療原則 -> 80%-90%的肛裂經保守治療可痊癒，僅極少數慢性頑固性患者需手術。",
+      "explanation": "【題幹解析】\n肛裂多因硬便造成肛管上皮裂傷，疼痛明顯，多數可用軟便、局部藥物與解除括約肌痙攣治療；只有少數慢性或難治病例需手術。\n\n【選項詳解】\n- A. 肛裂位於齒狀線到肛門緣間，常在正後或正前方，敘述正確。\n- B. 該區感覺神經豐富，小裂傷也可造成劇痛。\n- C. 硬便、疼痛、括約肌痙攣與缺血可形成慢性肛裂惡性循環。\n- D. 大多數肛裂不需手術，說 80 至 90% 需手術明顯錯誤。\n\n【核心考點】\n肛裂多數先保守治療，只有難治慢性肛裂才考慮手術。",
+      "key_point": "肛裂多數先保守治療，只有難治慢性肛裂才考慮手術。",
+      "flashcard_summary": "大腸直腸科 -> 肛裂多數先保守治療，只有難治慢性肛裂才考慮手術。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1245,13 +1245,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "肛裂 (anal fissure) / 好發位置 / 劇烈疼痛 / 保守治療比例 / 手術指徵",
-      "flashcard_back": "80%-90%的肛裂可經溫水坐浴及藥物等保守治療痊癒，不需手術；多發生於正後或正前方。",
+      "flashcard_back": "肛裂多數先保守治療，只有難治慢性肛裂才考慮手術。",
       "category_group": "醫學（五）",
       "category": "大腸直腸科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_044",
@@ -1264,9 +1264,9 @@
         "D": "stage I"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「依據Hinchey classification描述大腸憩室炎(colon diverticulitis)嚴重度的分類,若發生generalized purulent\n peritonitis的情況是屬於下列那一個stage?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Hinchey 分類系統用於評估憩室炎穿孔的嚴重度。Stage I 為結腸旁膿瘍（pericolic abscess）。Stage II 為骨盆腔或腹膜後膿瘍（pelvic/retroperitoneal abscess）。Stage III 為瀰漫性化膿性腹膜炎（generalized purulent peritonitis）。Stage IV 則為瀰漫性糞便性腹膜炎（generalized feculent peritonitis）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「stage IV」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「stage III」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「stage II」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「stage I」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n掌握大腸憩室炎的 Hinchey 分類系統。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握大腸憩室炎的 Hinchey 分類系統。",
-      "flashcard_summary": "Hinchey憩室炎分類 -> Hinchey Stage III為瀰漫性化膿性腹膜炎，Stage IV為糞便性腹膜炎。",
+      "explanation": "【題幹解析】\nHinchey classification 中 stage I 是局部膿瘍或 phlegmon，stage II 是骨盆或遠端膿瘍，stage III 是廣泛化膿性腹膜炎，stage IV 是糞便性腹膜炎。\n\n【選項詳解】\n- A. Stage IV 是 generalized fecal peritonitis，不是 purulent peritonitis。\n- B. Generalized purulent peritonitis 對應 Hinchey stage III。\n- C. Stage II 是 pelvic、distant 或 retroperitoneal abscess。\n- D. Stage I 是 pericolic abscess 或 phlegmon。\n\n【核心考點】\nHinchey III 是 generalized purulent peritonitis；Hinchey IV 是 fecal peritonitis。",
+      "key_point": "Hinchey III 是 generalized purulent peritonitis；Hinchey IV 是 fecal peritonitis。",
+      "flashcard_summary": "大腸直腸科 -> Hinchey III 是 generalized purulent peritonitis；Hinchey IV 是 fecal peritonitis。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1274,13 +1274,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "大腸憩室炎 / Hinchey分類 / 化膿性腹膜炎 / 糞便性腹膜炎",
-      "flashcard_back": "Hinchey Stage III為瀰漫性化膿性腹膜炎，Stage IV為瀰漫性糞便性腹膜炎，I與II則為局限性膿瘍。",
+      "flashcard_back": "Hinchey III 是 generalized purulent peritonitis；Hinchey IV 是 fecal peritonitis。",
       "category_group": "醫學（五）",
       "category": "大腸直腸科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_045",
@@ -1293,9 +1293,9 @@
         "D": "缺血性腸炎(ischemic colitis)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「病患接受腹主動脈瘤修補手術後3天發生左下腹痛、血便,其最可能原因為何?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腹主動脈瘤修補手術中，通常需要結紮下腸繫膜動脈（IMA），若側支循環（如來自內髂動脈或中結腸動脈）不足，會導致左側結腸（尤其是乙狀結腸）缺血，引發缺血性腸炎。此併發症典型表現於術後數天內，出現左下腹痛與血便。偽膜性腸炎與抗生素使用相關；潰瘍性結腸炎與憩室炎通常不是動脈手術後急性發生的主要原因。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「偽膜性腸炎(pseudomembranous colitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「潰瘍性腸炎(ulcerative colitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「結腸憩室炎(diverticulitis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「缺血性腸炎(ischemic colitis)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n識別腹主動脈瘤（AAA）修補術後的嚴重併發症：缺血性腸炎（ischemic colitis）。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "識別腹主動脈瘤（AAA）修補術後的嚴重併發症：缺血性腸炎（ischemic colitis）。",
-      "flashcard_summary": "AAA術後左下腹痛血便 -> IMA結紮後若側支循環不足，易引發左側結腸「缺血性腸炎」。",
+      "explanation": "【題幹解析】\nAAA 修補後第 3 天左下腹痛與血便，要高度懷疑左半結腸缺血，常與 inferior mesenteric artery 或 hypogastric circulation 灌流不足有關。\n\n【選項詳解】\n- A. 偽膜性腸炎可腹瀉與腹痛，但 AAA 術後血便最需先想到缺血。\n- B. 潰瘍性腸炎不是 AAA 術後急性血便的最可能原因。\n- C. 憩室炎可左下腹痛，但術後血便與灌流問題更支持缺血性腸炎。\n- D. AAA 修補後 ischemic colitis 是典型嚴重併發症，符合左下腹痛與血便。\n\n【核心考點】\nAAA 修補後腹痛血便要懷疑 ischemic colitis。",
+      "key_point": "AAA 修補後腹痛血便要懷疑 ischemic colitis。",
+      "flashcard_summary": "大腸直腸科 -> AAA 修補後腹痛血便要懷疑 ischemic colitis。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1303,13 +1303,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腹主動脈瘤修補 (AAA) / 下腸繫膜動脈 (IMA) 結紮 / 左下腹痛與血便 / 缺血性腸炎",
-      "flashcard_back": "AAA修補術中結紮IMA可能導致左側結腸供血不足，術後幾天出現左下腹痛及血便，應懷疑缺血性腸炎。",
+      "flashcard_back": "AAA 修補後腹痛血便要懷疑 ischemic colitis。",
       "category_group": "醫學（五）",
       "category": "大腸直腸科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_046",
@@ -1322,9 +1322,9 @@
         "D": "大腸息肉轉化成大腸癌的時間約需1~2年"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關大腸息肉的敘述,下列何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：大腸腺瘤轉化為大腸癌（Adenoma-to-carcinoma sequence）是一個漫長的過程，平均需要 5 到 10 年的時間，而非僅需 1~2 年。腺瘤性息肉的癌化風險與大小正相關，大於 2 公分者癌化機率顯著增加。組織學分類中，絨毛狀腺瘤（villous adenoma）的癌化機率明顯高於管狀腺瘤（tubular adenoma）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「大腸息肉經過許多基因的變異,可能長成大腸癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「腺性息肉越大,癌化的機率越高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「villous adenoma較tubular adenoma癌化的機率高」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「大腸息肉轉化成大腸癌的時間約需1~2年」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解腺瘤性息肉發展為大腸癌的時間與病理特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解腺瘤性息肉發展為大腸癌的時間與病理特徵。",
-      "flashcard_summary": "息肉癌化時間與特徵 -> 大腸腺瘤惡化為大腸癌通常需5-10年，絨毛狀腺瘤及大息肉癌化機率較高。",
+      "explanation": "【題幹解析】\n腺瘤到大腸癌通常需要多年累積突變，常以約 7 至 10 年估計；1 至 2 年過短。息肉大小越大、villous 成分越高，癌化風險越高。\n\n【選項詳解】\n- A. 腺瘤癌化是多基因、多步驟變異累積過程，敘述正確。\n- B. 腺瘤越大，高度 dysplasia 與癌化機率越高。\n- C. Villous adenoma 比 tubular adenoma 癌化風險高。\n- D. 腺瘤轉癌通常需多年，不是約 1 至 2 年，因此錯誤。\n\n【核心考點】\n大腸腺瘤癌化通常需多年，風險隨大小與 villous 成分增加。",
+      "key_point": "大腸腺瘤癌化通常需多年，風險隨大小與 villous 成分增加。",
+      "flashcard_summary": "大腸直腸科 -> 大腸腺瘤癌化通常需多年，風險隨大小與 villous 成分增加。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1332,13 +1332,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "大腸息肉癌化 / 腺瘤-癌症序列 / 惡化時間 / 絨毛狀與管狀腺瘤 / 息肉大小",
-      "flashcard_back": "大腸腺瘤發展為大腸癌通常需要5-10年；絨毛狀腺瘤及較大息肉的癌化風險較高。",
+      "flashcard_back": "大腸腺瘤癌化通常需多年，風險隨大小與 villous 成分增加。",
       "category_group": "醫學（五）",
       "category": "大腸直腸科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_047",
@@ -1351,9 +1351,9 @@
         "D": "腹腔鏡手術與開腹手術的腫瘤清除率(oncologic clearance)相當"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「對年長病患而言,使用腹腔鏡手術切除大腸腫瘤,相較於開腹手術切除大腸腫瘤之優點,不包含下列何項?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腹腔鏡大腸切除手術在老年患者中可減少術後疼痛、縮短住院時間並降低心肺併發症，且其腫瘤清除率（oncologic clearance）與開腹手術相當。然而，大型臨床研究顯示，在手術期間（peri-operative period）針對「大腸切除本身」的重大吻合口併發症率及整體死亡率方面，腹腔鏡與開腹手術並無顯著差異（沒有顯著減少）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「減少心肺併發症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「減少手術期間(peri-operative period)關於大腸切除的併發症及死亡率」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「傷口較小」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「腹腔鏡手術與開腹手術的腫瘤清除率(oncologic clearance)相當」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n比較腹腔鏡與開腹大腸切除手術的優缺點與預後。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "比較腹腔鏡與開腹大腸切除手術的優缺點與預後。",
-      "flashcard_summary": "腹腔鏡大腸切除優勢 -> 腹腔鏡可減小傷口及心肺併發症，但其腸切除本身的手術期死亡率與開腹無顯著差異。",
+      "explanation": "【題幹解析】\n腹腔鏡大腸癌手術可有較小傷口、較快恢復與部分心肺併發症較少，且腫瘤清除率可相當；但不一定能降低大腸切除本身的 perioperative 併發症與死亡率。\n\n【選項詳解】\n- A. 腹腔鏡傷口小、疼痛少，對年長者可能降低部分心肺併發症。\n- B. 整體大腸切除相關併發症與死亡率不一定因腹腔鏡而顯著下降，因此不是優點。\n- C. 傷口較小是腹腔鏡明確優點。\n- D. 在合適病人與技術下，腹腔鏡大腸癌手術 oncologic clearance 可與開腹相當。\n\n【核心考點】\n腹腔鏡大腸癌手術傷口小、恢復快，但不保證降低所有 perioperative morbidity/mortality。",
+      "key_point": "腹腔鏡大腸癌手術傷口小、恢復快，但不保證降低所有 perioperative morbidity/mortality。",
+      "flashcard_summary": "大腸直腸科 -> 腹腔鏡大腸癌手術傷口小、恢復快，但不保證降低所有 perioperative morbidity/mortality。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1361,13 +1361,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腹腔鏡大腸切除 / 開腹手術比較 / 老年患者優勢 / 腫瘤清除率 / 手術期死亡率",
-      "flashcard_back": "腹腔鏡手術可減少心肺併發症與傷口大小，且腫瘤清除率相當，但手術期本身死亡率與開腹無顯著差異。",
+      "flashcard_back": "腹腔鏡大腸癌手術傷口小、恢復快，但不保證降低所有 perioperative morbidity/mortality。",
       "category_group": "醫學（五）",
       "category": "大腸直腸科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_048",
@@ -1380,9 +1380,9 @@
         "D": "手術範圍側邊需剝離至髂骨前上棘(anterior superior iliac spine)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「全腹膜外疝氣修補手術(total extraperitoneal approach)的手術過程不需要執行下列何項?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在進行全腹膜外疝氣修補手術（TEP）時，必須保護腹股溝區的神經以避免術後慢性疼痛，尤其是位於「疼痛金三角（Triangle of Pain）」內的股外側皮神經（lateral femoral cutaneous nerve），不可進行結紮。手術步驟包括復位疝氣囊、自恥骨聯合分離並曝露 Cooper's ligament，以及向側邊剝離至髂骨前上棘（ASIS），以確保有足夠空間放置並鋪平人工網膜。\n\n【選項詳解】\n- A. 正確答案。選項內容：「結紮股皮神經側枝(lateral femoral cutaneous nerve)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「復位腹股溝疝氣囊」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「從恥骨聯合分離Cooper's ligament」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「手術範圍側邊需剝離至髂骨前上棘(anterior superior iliac spine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n掌握全腹膜外疝氣修補術（TEP）的手術步驟與神經保護。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握全腹膜外疝氣修補術（TEP）的手術步驟與神經保護。",
-      "flashcard_summary": "TEP疝氣修補與神經 -> TEP術中必須避免損傷或結紮股外側皮神經，應分離Cooper's ligament及ASIS以放置網膜。",
+      "explanation": "【題幹解析】\nTEP 腹股溝疝氣修補是在腹膜外空間剝離、復位疝囊、暴露 Cooper ligament 並放置 mesh，需避免傷害神經；不需要結紮 lateral femoral cutaneous nerve。\n\n【選項詳解】\n- A. 側股皮神經應保護避免術後麻痛，不是手術中需結紮的結構。\n- B. 復位疝氣囊是修補疝氣的必要步驟。\n- C. 暴露 Cooper ligament 有助於 mesh 放置與內側覆蓋。\n- D. 側方剝離需足夠到 ASIS 附近以覆蓋 myopectineal orifice。\n\n【核心考點】\nTEP 修補需保護神經，不需結紮 lateral femoral cutaneous nerve。",
+      "key_point": "TEP 修補需保護神經，不需結紮 lateral femoral cutaneous nerve。",
+      "flashcard_summary": "外科概論 -> TEP 修補需保護神經，不需結紮 lateral femoral cutaneous nerve。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1390,13 +1390,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "TEP疝氣修補 / 疼痛金三角 / 股外側皮神經 / Cooper's ligament / 網膜鋪平",
-      "flashcard_back": "TEP手術中需保護股外側皮神經，不可結紮；須剝離至Cooper's ligament及ASIS以鋪平網膜。",
+      "flashcard_back": "TEP 修補需保護神經，不需結紮 lateral femoral cutaneous nerve。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_049",
@@ -1409,9 +1409,9 @@
         "D": "2,500 c.c."
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「在急診室,一位30歲70公斤男性,主訴約60分鐘前左上腹部被刀刺傷,傷口疼痛,生命徵候:心跳105/分、\n 血壓110/95 mmHg、呼吸22/分,病人略顯焦慮,身體檢查發現左上腹部2公分傷口,四肢濕冷。預估該病人體\n 內出血量最可能為下列何者?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據高級外傷生命支持（ATLS）失血分類，此患者心跳 105 下/分（介於100-120）、呼吸 22 次/分（介於20-30）、血壓尚可維持但脈搏壓變窄（110/95 mmHg）、四肢冰冷且輕微焦慮，符合「第二級出血（Class II hemorrhage，失血量15%~30%）」。對於 70 公斤的成人（總血量約 5000 cc），第二級失血量約為 750~1500 cc，因此最可能為 1000 cc。第一級通常徵象正常；第三級會出現明顯低血壓與心跳大於120。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「500 c.c.」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「1,000 c.c.」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「1,700 c.c.」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「2,500 c.c.」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n根據 ATLS 分級評估創傷病患的失血量。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "根據 ATLS 分級評估創傷病患的失血量。",
-      "flashcard_summary": "ATLS第二級出血特徵 -> 失血量15%-30%（約1000cc），心跳100-120，血壓可維持但脈壓變窄。",
+      "explanation": "【題幹解析】\n70 kg 男性心跳 105、血壓尚可但脈壓窄、焦慮、四肢濕冷，約為 ATLS class II hemorrhage，失血約 15 至 30%，也就是約 750 至 1500 mL，最接近 1000 mL。\n\n【選項詳解】\n- A. 500 mL 約低於 15% 血容量，通常生命徵象變化較不明顯。\n- B. 1000 mL 符合 class II 失血範圍與心搏過速、焦慮、濕冷表現。\n- C. 1700 mL 接近 class III，通常會有更明顯低血壓與呼吸心跳變化。\n- D. 2500 mL 屬重度 class IV 失血，通常休克更明顯。\n\n【核心考點】\nATLS class II hemorrhage 約失血 750 至 1500 mL，會有心搏快與焦慮。",
+      "key_point": "ATLS class II hemorrhage 約失血 750 至 1500 mL，會有心搏快與焦慮。",
+      "flashcard_summary": "外科概論 -> ATLS class II hemorrhage 約失血 750 至 1500 mL，會有心搏快與焦慮。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1419,13 +1419,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "ATLS出血分級 / 第二級出血 / 失血量估算 / 脈搏壓變窄 / 心跳100-120",
-      "flashcard_back": "第二級出血失血量約15%-30%（約750-1500cc），徵象為心跳100-120、呼吸20-30、脈搏壓變窄、血壓可維持。",
+      "flashcard_back": "ATLS class II hemorrhage 約失血 750 至 1500 mL，會有心搏快與焦慮。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_050",
@@ -1438,9 +1438,9 @@
         "D": "此時輸液除血液製品外,以lactated Ringer's 溶液或生理食鹽水為主"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「承上題,病人經過20分鐘的初步處理突然意識不清,生命徵象:心跳145/分、血壓60/45 mmHg、呼吸32/分,\n 下列何項處置不適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者失血量已進入第四級（Class IV）休克，出現嚴重低血壓與昏迷，必須立即插管維持呼吸道並緊急手術止血。在手術完全控制出血前，急救目標為維持基本器官灌流，即實施「容許度低血壓」（目標收縮壓在 80~90 mmHg），而非盲目使用升壓劑將收縮壓拉高至 120 mmHg，因為過高的血壓會沖刷已形成的血栓而加劇出血。此時應以輸血與晶體溶液快速復甦，而非將升壓劑作為主要手段。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「插上氣管內管以維持呼吸道暢通」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「準備緊急手術以控制出血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「緊急輸血及使用升壓劑,以維持收縮壓在120 mmHg」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「此時輸液除血液製品外,以lactated Ringer's 溶液或生理食鹽水為主」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n掌握失血性休克的急救處置與「容許度低血壓（permissive hypotension）」原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握失血性休克的急救處置與「容許度低血壓（permissive hypotension）」原則。",
-      "flashcard_summary": "出血性休克治療原則 -> 術前應採取容許度低血壓（收縮壓80-90），不可盲目使用升壓劑拉高血壓，以免加重出血。",
+      "explanation": "【題幹解析】\n病人已進入失血性休克，需維持氣道、緊急手術止血、輸血與晶體液復甦。未控制出血前不應以升壓劑把收縮壓強拉到 120 mmHg，以免增加出血；應採止血復甦與容許性低血壓。\n\n【選項詳解】\n- A. 意識不清且休克時插管保護氣道合理。\n- B. 穿刺傷惡化成休克，需緊急手術控制出血。\n- C. 未止血前用升壓劑追求 SBP 120 不適當，可能增加出血與稀釋復甦問題。\n- D. 血品為主，必要晶體液可用 LR 或 NS，敘述合理。\n\n【核心考點】\n出血未控制前避免過度升壓，重點是止血復甦與緊急控制出血。",
+      "key_point": "出血未控制前避免過度升壓，重點是止血復甦與緊急控制出血。",
+      "flashcard_summary": "外科概論 -> 出血未控制前避免過度升壓，重點是止血復甦與緊急控制出血。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1448,13 +1448,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "出血性休克 / 容許度低血壓 (Permissive hypotension) / 升壓劑使用 / 手術止血 / 復甦輸液",
-      "flashcard_back": "出血性休克在手術止血前應維持「容許度低血壓」（目標收縮壓80-90），禁用升壓劑強行拉高血壓至正常。",
+      "flashcard_back": "出血未控制前避免過度升壓，重點是止血復甦與緊急控制出血。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_051",
@@ -1467,9 +1467,9 @@
         "D": "對於脊髓損傷核磁共振檢查優於電腦斷層檢查"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「一名30歲男性,車禍後不省人事,送至醫院急診,此時已經恢復意識但發現左手腳無力,右側麻痛,仔細檢\n 查後確定左手前臂尚可彎曲但難以抓握或伸直,右手腳對溫度和痛覺較不敏感。對於此病人的相關問題,下\n 列敘述何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在評估脊髓（spinal cord）損傷、韌帶撕裂、實質水腫或血腫時，核磁共振（MRI）的解析度與診斷價值顯著優於電腦斷層（CT）。大多數脊髓損傷好發於頸椎（cervical spine）而非腰椎。C3~C5 損傷會因影響膈神經而導致立即性呼吸衰竭，C6 損傷則不一定。中央脊髓症候群（central cord syndrome）的特徵是上肢受損比下肢嚴重。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「絕大多數的脊椎損傷位於腰椎」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「C6的傷害一定會造成立即的呼吸衰竭」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「central cord syndrome對下肢的影響大過上肢」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「對於脊髓損傷核磁共振檢查優於電腦斷層檢查」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n比較脊髓損傷的影像學評估與臨床症候群特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "比較脊髓損傷的影像學評估與臨床症候群特徵。",
-      "flashcard_summary": "脊髓損傷診斷與症候群 -> 脊髓損傷評估以MRI為首選；中央脊髓症候群上肢症狀重於下肢。",
+      "explanation": "【題幹解析】\n脊髓損傷評估骨性傷害 CT 很重要，但若要看脊髓、韌帶、椎間盤與血腫壓迫，MRI 優於 CT。題幹有脊髓半側症候群線索，影像需評估神經結構。\n\n【選項詳解】\n- A. 脊髓損傷常見於頸椎，其次胸腰椎，不能說絕大多數位於腰椎。\n- B. C6 損傷不一定立即呼吸衰竭；呼吸衰竭更典型於 C3-C5 以上影響膈神經。\n- C. Central cord syndrome 通常上肢受影響大於下肢。\n- D. MRI 對脊髓本身、軟組織與壓迫原因評估優於 CT。\n\n【核心考點】\n脊髓損傷若評估神經與軟組織，MRI 優於 CT。",
+      "key_point": "脊髓損傷若評估神經與軟組織，MRI 優於 CT。",
+      "flashcard_summary": "神經外科 -> 脊髓損傷若評估神經與軟組織，MRI 優於 CT。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1477,13 +1477,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "脊髓損傷 / 核磁共振 (MRI) 與電腦斷層 (CT) / 頸椎損傷 / 中央脊髓症候群 / 膈神經 C3-C5",
-      "flashcard_back": "診斷脊髓實質損傷，MRI優於CT；中央脊髓症候群為上肢受損重於下肢；C3-C5受損易致呼吸衰竭。",
+      "flashcard_back": "脊髓損傷若評估神經與軟組織，MRI 優於 CT。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_052",
@@ -1496,9 +1496,9 @@
         "D": "left humerus fracture"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「承上題,此病人最可能的診斷是:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者表現為左側肢體無力（同側運動功能喪失）與右側痛溫覺喪失（對側痛溫覺喪失），這是典型的脊髓半切症候群，即布朗-塞卡症候群（Brown-Séquard syndrome）的表現。這是因為皮質脊髓路徑（運動）在延腦交叉，故同側受損；而脊髓視丘路徑（痛溫覺）在進入脊髓後即交叉至對側上行，故對側受損。中央脊髓症候群常呈雙側對稱且上肢重於下肢。\n\n【選項詳解】\n- A. 正確答案。選項內容：「Brown-Séquard syndrome」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「central cord syndrome」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「thalamic hemorrhage」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「left humerus fracture」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n辨識布朗-塞卡症候群（Brown-Séquard syndrome）的神經學定位表現。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識布朗-塞卡症候群（Brown-Séquard syndrome）的神經學定位表現。",
-      "flashcard_summary": "布朗-塞卡症候群特徵 -> 脊髓半切引起同側運動與深感覺喪失，以及對側痛溫覺喪失。",
+      "explanation": "【題幹解析】\n同側運動無力加對側痛溫覺下降，是脊髓半切的典型定位，也就是 Brown-Sequard syndrome。本題左側運動受損、右側痛溫覺下降符合左側脊髓半切。\n\n【選項詳解】\n- A. Brown-Sequard syndrome 表現為同側運動/本體覺喪失與對側痛溫覺喪失，最符合。\n- B. Central cord syndrome 以上肢大於下肢無力為主，不會典型造成對側痛溫覺喪失。\n- C. 視丘出血可造成感覺運動障礙，但題幹創傷後脊髓長束解離更符合。\n- D. 左肱骨骨折不能解釋右側痛溫覺減退與神經長束症狀。\n\n【核心考點】\nBrown-Sequard syndrome：同側運動受損、對側痛溫覺受損。",
+      "key_point": "Brown-Sequard syndrome：同側運動受損、對側痛溫覺受損。",
+      "flashcard_summary": "神經外科 -> Brown-Sequard syndrome：同側運動受損、對側痛溫覺受損。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1506,13 +1506,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "布朗-塞卡症候群 (Brown-Séquard) / 同側運動喪失 / 對側痛溫覺喪失 / 脊髓半切",
-      "flashcard_back": "脊髓半切處置（布朗-塞卡症候群）會導致受損平面以下「同側運動及深感覺喪失、對側痛溫覺喪失」。",
+      "flashcard_back": "Brown-Sequard syndrome：同側運動受損、對側痛溫覺受損。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_053",
@@ -1525,9 +1525,9 @@
         "D": "頸部淋巴腺腫大"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「一位60歲女性到門診就醫,主訴頸部摸到腫塊,理學檢查發現左側甲狀腺有一2公分大小結節。請依前述情形\n 回答以下3題。\n 有些合併症狀會使臨床醫師較易懷疑此甲狀腺腫瘤為惡性,但下列何者除外?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：心悸（palpitations）通常是甲狀腺功能亢進（如毒性多結節性甲狀腺腫或良性腺瘤過度分泌甲狀腺素）的表現，這類功能性結節為惡性的機率極低。相反地，聲音沙啞（懷疑侵犯喉返神經）、吞嚥困難（懷疑壓迫食道）與頸部淋巴腺腫大（懷疑淋巴結轉移）均為腫瘤向外侵犯或轉移的徵象，高度暗示為惡性腫瘤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「聲音沙啞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「心悸」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「吞嚥困難」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「頸部淋巴腺腫大」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n區分甲狀腺結節惡性特徵與良性功能性症狀。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分甲狀腺結節惡性特徵與良性功能性症狀。",
-      "flashcard_summary": "甲狀腺結節良惡性鑑別 -> 局部侵犯症狀（沙啞、吞嚥困難）及淋巴結腫大提示惡性，心悸常與良性功能性結節相關。",
+      "explanation": "【題幹解析】\n甲狀腺結節惡性警訊包括聲音沙啞、吞嚥困難、固定硬結、頸部淋巴結腫大。心悸較像甲狀腺功能亢進症狀，不是惡性腫瘤特異警訊。\n\n【選項詳解】\n- A. 聲音沙啞可能代表 recurrent laryngeal nerve 侵犯，是惡性警訊。\n- B. 心悸較常反映甲狀腺功能亢進或焦慮，非結節惡性特徵。\n- C. 吞嚥困難可能表示腫瘤壓迫或侵犯周邊結構。\n- D. 頸部淋巴結腫大可代表甲狀腺癌淋巴轉移。\n\n【核心考點】\n甲狀腺結節惡性警訊包括聲音沙啞、吞嚥困難、淋巴結腫大；心悸不是。",
+      "key_point": "甲狀腺結節惡性警訊包括聲音沙啞、吞嚥困難、淋巴結腫大；心悸不是。",
+      "flashcard_summary": "一般外科 -> 甲狀腺結節惡性警訊包括聲音沙啞、吞嚥困難、淋巴結腫大；心悸不是。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1535,13 +1535,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "甲狀腺結節 / 惡性懷疑特徵 / 聲音沙啞 / 吞嚥困難 / 心悸 / 功能性結節",
-      "flashcard_back": "聲音沙啞、吞嚥困難及淋巴結腫大提示甲狀腺癌可能；心悸多為良性功能亢進結節之表現。",
+      "flashcard_back": "甲狀腺結節惡性警訊包括聲音沙啞、吞嚥困難、淋巴結腫大；心悸不是。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_054",
@@ -1554,9 +1554,9 @@
         "D": "97~99%"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「頸部超音波證實左側甲狀腺有一實心腫瘤,甲狀腺細針穿刺細胞學檢查顯示為濾泡型腫瘤(follicular\n neoplasm)。根據2009年版Bethesda甲狀腺細胞學診斷系統,該腫瘤為惡性的機率大約多少?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據 2009 年 Bethesda 甲狀腺細胞學診斷系統，「濾泡型腫瘤（follicular neoplasm，即 Bethesda IV）」的惡性機率約為 15%~30%，通常需要手術切除以進行病理確診（區分濾泡癌與濾泡腺瘤）。Bethesda III（AUS/FLUS）的惡性率為 5-15%；Bethesda V（懷疑惡性）為 60-75%；Bethesda VI（惡性）為 97-99%。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「5~15%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「15~30%」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「60~75%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「97~99%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n記憶 Bethesda 甲狀腺細胞學診斷系統的惡性機率。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "記憶 Bethesda 甲狀腺細胞學診斷系統的惡性機率。",
-      "flashcard_summary": "Bethesda分類惡性率 -> 濾泡型腫瘤（Bethesda IV）的惡性機率為15%-30%，需手術切除病理診斷。",
+      "explanation": "【題幹解析】\nBethesda IV 類別為 follicular neoplasm/suspicious for follicular neoplasm，惡性風險約 15 至 30%，需診斷性手術切除判斷包膜或血管侵犯。\n\n【選項詳解】\n- A. 5 至 15% 較接近 Bethesda III 的較低風險範圍。\n- B. Follicular neoplasm 在 2009 Bethesda 系統惡性風險約 15 至 30%。\n- C. 60 至 75% 較接近 suspicious for malignancy。\n- D. 97 至 99% 接近 malignant cytology，不是 follicular neoplasm。\n\n【核心考點】\nBethesda IV follicular neoplasm 惡性風險約 15 至 30%。",
+      "key_point": "Bethesda IV follicular neoplasm 惡性風險約 15 至 30%。",
+      "flashcard_summary": "一般外科 -> Bethesda IV follicular neoplasm 惡性風險約 15 至 30%。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1564,13 +1564,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "甲狀腺細胞學 / Bethesda系統 / 濾泡型腫瘤 (Bethesda IV) / 惡性機率",
-      "flashcard_back": "Bethesda IV（濾泡型腫瘤）的惡性率約為15%-30%；Bethesda III為5%-15%；V為60%-75%。",
+      "flashcard_back": "Bethesda IV follicular neoplasm 惡性風險約 15 至 30%。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_055",
@@ -1583,9 +1583,9 @@
         "D": "腫瘤大小"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「經與外科醫師討論後,患者接受左側甲狀腺切除手術,病理檢查證實為濾泡變異型乳突癌(follicular variant\n of papillary thyroid cancer)。下列何者不會影響患者的病理分期(TNM stage)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在甲狀腺乳突癌的 TNM 分期中，病患的「年齡」（以55歲為界）、腫瘤大小（T）以及是否侵犯甲狀腺旁肌肉（外犯程度）都是決定分期的重要因子。然而，「性別（gender）」在 TNM 分期系統中並不是一項評估變數，因此不會影響病理分期。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「年齡」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「性別」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「侵犯甲狀腺旁肌肉」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「腫瘤大小」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n掌握甲狀腺乳突癌 AJCC/TNM 分期的決定因子。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握甲狀腺乳突癌 AJCC/TNM 分期的決定因子。",
-      "flashcard_summary": "甲狀腺癌分期因子 -> 甲狀腺乳突癌分期受年齡、腫瘤大小及周圍侵犯影響，與性別無關。",
+      "explanation": "【題幹解析】\n甲狀腺分化癌 TNM 分期會考慮年齡、腫瘤大小、甲狀腺外侵犯與轉移；性別不是 AJCC/TNM 分期因子。\n\n【選項詳解】\n- A. 分化型甲狀腺癌分期長期納入年齡作重要分層。\n- B. 性別會影響流行病學或預後討論，但不是 TNM stage 決定因子。\n- C. 侵犯甲狀腺旁肌肉屬甲狀腺外侵犯，會影響 T 分期。\n- D. 腫瘤大小直接影響 T 分期。\n\n【核心考點】\n甲狀腺乳突癌 TNM 分期看年齡、腫瘤大小、侵犯與轉移，不看性別。",
+      "key_point": "甲狀腺乳突癌 TNM 分期看年齡、腫瘤大小、侵犯與轉移，不看性別。",
+      "flashcard_summary": "一般外科 -> 甲狀腺乳突癌 TNM 分期看年齡、腫瘤大小、侵犯與轉移，不看性別。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1593,13 +1593,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "甲狀腺乳突癌 / TNM分期 / 年齡界限 / 腫瘤大小與侵犯 / 性別因子",
-      "flashcard_back": "年齡（55歲）、腫瘤大小及甲狀腺旁肌肉侵犯均會影響分期，但「性別」不在TNM分期指標中。",
+      "flashcard_back": "甲狀腺乳突癌 TNM 分期看年齡、腫瘤大小、侵犯與轉移，不看性別。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_056",
@@ -1612,9 +1612,9 @@
         "D": "副甲狀腺機能亢進導致骨吸收(bone resorption)增強,可能導致骨骼出現褐色瘤(brown tumor)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關腎衰竭病患會造成腎性骨發育不全(renal osteodystrophy)之敘述,下列何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腎衰竭時，腎絲球過濾率下降會減少磷酸鹽的排泄，導致「高血磷症（hyperphosphatemia）」，而非低血磷。高血磷會與鈣結合，且腎臟製造活性維生素 D 減少，兩者共同導致低血鈣，進而刺激副甲狀腺代償性過度分泌，引發次發性副甲狀腺機能亢進。高濃度的副甲狀腺素（PTH）會增強骨骼吸收，在嚴重時可能於骨骼中形成褐色瘤（brown tumor）。\n\n【選項詳解】\n- A. 正確答案。選項內容：「腎絲球功能不良會使血磷值過低」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「活性維生素D的製造減少」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「血鈣過低導致次發性副甲狀腺機能亢進」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「副甲狀腺機能亢進導致骨吸收(bone resorption)增強,可能導致骨骼出現褐色瘤(brown tumor)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n理解腎衰竭導致腎性骨發育不全（renal osteodystrophy）的病理生理機制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "理解腎衰竭導致腎性骨發育不全（renal osteodystrophy）的病理生理機制。",
-      "flashcard_summary": "腎性骨病變機制 -> 腎衰竭引起高血磷及活性維生素D減少，導致低血鈣與次發性副甲狀腺阻斷。",
+      "explanation": "【題幹解析】\n腎衰竭時磷排泄下降，會造成高血磷，不是低血磷；同時活性維生素 D 減少、低血鈣與次發性副甲狀腺亢進，造成腎性骨病變。\n\n【選項詳解】\n- A. 腎絲球功能不良使磷排泄變差，血磷升高，因此此項最不適當。\n- B. 腎臟 1-alpha hydroxylation 減少，活性維生素 D 降低。\n- C. 低鈣與高磷刺激 PTH 上升，造成次發性副甲狀腺亢進。\n- D. PTH 過高使骨吸收增加，嚴重可有 brown tumor。\n\n【核心考點】\n腎衰竭骨病變是高血磷、低活性維生素 D、低鈣與次發性副甲狀腺亢進。",
+      "key_point": "腎衰竭骨病變是高血磷、低活性維生素 D、低鈣與次發性副甲狀腺亢進。",
+      "flashcard_summary": "骨科 -> 腎衰竭骨病變是高血磷、低活性維生素 D、低鈣與次發性副甲狀腺亢進。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -1622,13 +1622,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腎性骨發育不全 / 腎衰竭 / 血磷變化 / 活性維生素D / 次發性副甲狀腺亢進 / 褐色瘤 (brown tumor)",
-      "flashcard_back": "腎衰竭會導致「高血磷」與低血鈣，進而刺激副甲狀腺素分泌（次發性亢進），增強骨吸收並可形成褐色瘤。",
+      "flashcard_back": "腎衰竭骨病變是高血磷、低活性維生素 D、低鈣與次發性副甲狀腺亢進。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_057",
@@ -1641,9 +1641,9 @@
         "D": "原發性軟骨肉瘤(primary chondrosarcoma)的治療流程為:術前放射治療(radiotherapy)及廣泛性腫瘤切\n 除"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關軟骨肉瘤(chondrosarcoma)的敘述,下列何者最正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：軟骨肉瘤（chondrosarcoma）好發於40至70歲的中老年人，且對化學治療及放射治療均不敏感，治療以廣泛性手術切除為主。由於低惡性度軟骨肉瘤與良性內生軟骨瘤在組織病理上極難區分，因此診斷及惡性度分級必須綜合臨床表現、X光等影像特徵與病理組織進行三方評估。Codman 氏三角骨膜反應常見於骨肉瘤（osteosarcoma），而軟骨肉瘤在 X 光上典型表現為環弧狀鈣化（ring-and-arc calcification）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「好發在10~20歲的青少年」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「原發性軟骨肉瘤(primary chondrosarcoma)生長速度較慢,X光檢查常可見到Codman 氏三角骨膜反應\n (Codman triangle periosteal reaction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「正確惡性度分級常需要綜合臨床症狀、放射線學及組織病理學等三方證據」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「原發性軟骨肉瘤(primary chondrosarcoma)的治療流程為:術前放射治療(radiotherapy)及廣泛性腫瘤切\n 除」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n掌握軟骨肉瘤（chondrosarcoma）的流行病學、診斷要點與治療特點。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握軟骨肉瘤（chondrosarcoma）的流行病學、診斷要點與治療特點。",
-      "flashcard_summary": "軟骨肉瘤診斷與治療 -> 軟骨肉瘤好發於中老年，對化放療不敏感，診斷須綜合臨床、影像與病理三方證據。",
+      "explanation": "【題幹解析】\n軟骨肉瘤多見於成人，診斷與分級需整合疼痛、影像侵襲性與病理；它對化療與放療相對不敏感，主要治療是廣泛切除。\n\n【選項詳解】\n- A. 10 至 20 歲更常想到 osteosarcoma 或 Ewing sarcoma；chondrosarcoma 多見於成人。\n- B. Codman triangle 是侵襲性骨膜反應，較典型於 osteosarcoma 等，不是慢性原發軟骨肉瘤常見描述。\n- C. 軟骨肉瘤分級需結合臨床、影像與組織病理，最正確。\n- D. 軟骨肉瘤通常以廣泛切除為主，放療不是標準術前治療。\n\n【核心考點】\nChondrosarcoma 分級需整合臨床、影像與病理，治療以廣泛切除為主。",
+      "key_point": "Chondrosarcoma 分級需整合臨床、影像與病理，治療以廣泛切除為主。",
+      "flashcard_summary": "骨科 -> Chondrosarcoma 分級需整合臨床、影像與病理，治療以廣泛切除為主。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1651,13 +1651,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "軟骨肉瘤 / 好發年齡 / 骨膜反應 (Codman) / 化放療敏感度 / 三合一診斷",
-      "flashcard_back": "軟骨肉瘤好發於中老年人，化放療無效，以手術為主；診斷需結合臨床、影像與病理（三合一）評估。",
+      "flashcard_back": "Chondrosarcoma 分級需整合臨床、影像與病理，治療以廣泛切除為主。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_058",
@@ -1670,9 +1670,9 @@
         "D": "合併關節內的骨折塊或游離小體(loose bodies)時,可採保守治療"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於橈骨頭部骨折(radial head fracture)之敘述,下列何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：橈骨頭部骨折若合併有移位的關節內骨折塊或游離小體（loose bodies），會導致關節面不平整或造成機械性卡鎖，引發關節磨損與活動受限，這是明確的手術適應症，不適合採取保守治療。大多數單純且無明顯移位（Mason Type I）的骨折可使用懸吊帶保守治療。受傷機轉多為跌倒時手掌撐地，若骨折後前臂旋前或旋後受限（機械性阻礙），亦需手術介入。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「多數的受傷機轉是跌倒時手肘伸直手掌撐地(fall onto the outstretched hand)造成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「若未合併韌帶損傷或其他骨折,則大部分單純橈骨頭部骨折(isolated radial head fracture)可採用保守治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「骨折後若前臂旋後(supination)和旋前(pronation)的範圍受限,即符合手術治療的適應症」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「合併關節內的骨折塊或游離小體(loose bodies)時,可採保守治療」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n評估橈骨頭部骨折（radial head fracture）的手術適應症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評估橈骨頭部骨折（radial head fracture）的手術適應症。",
-      "flashcard_summary": "橈骨頭骨折手術指徵 -> 合併關節內游離體或前臂旋轉受限時應手術治療，無移位之單純骨折可保守治療。",
+      "explanation": "【題幹解析】\n橈骨頭骨折常由 FOOSH 造成，多數無移位且無機械阻擋者可保守治療；若有 loose body 或關節內骨折塊造成活動受限，通常需手術處理。\n\n【選項詳解】\n- A. 跌倒手掌撐地使力量傳到橈骨頭，是常見機轉。\n- B. 單純、穩定、無明顯移位的 isolated radial head fracture 多可保守治療。\n- C. 旋前旋後受限代表機械阻擋或位移，屬手術評估適應症。\n- D. 關節內游離骨塊可能造成卡住與退化，採保守治療不恰當。\n\n【核心考點】\n橈骨頭骨折若有旋前旋後受限或 loose body，需考慮手術。",
+      "key_point": "橈骨頭骨折若有旋前旋後受限或 loose body，需考慮手術。",
+      "flashcard_summary": "骨科 -> 橈骨頭骨折若有旋前旋後受限或 loose body，需考慮手術。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1680,13 +1680,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "橈骨頭部骨折 / 受傷機轉 / 保守治療條件 / 關節內游離體 / 前臂旋轉受限",
-      "flashcard_back": "橈骨頭骨折合併關節內游離體或關節面卡鎖（旋前旋後受限）時必須手術，不可保守治療。",
+      "flashcard_back": "橈骨頭骨折若有旋前旋後受限或 loose body，需考慮手術。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_059",
@@ -1699,9 +1699,9 @@
         "D": "使用石膏固定時,應將石膏材料浸泡在攝氏60度以上的熱水中,不可使用室溫的水,以避免石膏硬化的時間\n 過久,影響骨折復位的固定"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「關於石膏(casting)及副木(splinting)固定的原則,下列敘述何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：治療遠端橈骨骨折時，若初期患部嚴重腫脹，直接以環形石膏固定易引發腔室症候群。此時最安全的作法是先以背側副木固定（容許腫脹空間），待1至2週消腫後再換成石膏。踝關節固定應維持在 90 度中立位以防阿基里斯腱攣縮。石膏固定後若抱怨異常疼痛，應立即拆除檢查，以排除壓迫或缺血；浸泡石膏的水溫不可過高（避免>60度），以防石膏固化放熱時造成皮膚灼傷。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「嚴重足踝扭傷使用副木固定時,應將足踝固定在蹠屈30度(30 degrees of plantar flexion),以獲得最佳固定\n 效果」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「某病患足踝骨折後以石膏固定,兩天後抱怨石膏固定處有疼痛情形。此時為避免骨折移位,不可立刻拆除石\n 膏,應密切觀察患部一週,若仍持續疼痛,始可拆除石膏檢視患部」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「治療遠端橈骨骨折(distal radial fracture)時,若擔心受傷初期軟組織腫脹過於嚴重,可先使用背側副木\n (dorsal slab or splint)固定,待一至二週消腫後,再換成石膏固定」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「使用石膏固定時,應將石膏材料浸泡在攝氏60度以上的熱水中,不可使用室溫的水,以避免石膏硬化的時間\n 過久,影響骨折復位的固定」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n掌握骨折固定中石膏與副木的臨床應用原則與併發症預防。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握骨折固定中石膏與副木的臨床應用原則與併發症預防。",
-      "flashcard_summary": "骨折固定原則 -> 嚴重腫脹初期宜先用副木固定，消腫後再換石膏；石膏後異常疼痛應立即拆除檢查。",
+      "explanation": "【題幹解析】\n骨折急性期腫脹明顯時，先用副木比環形石膏安全，可避免腫脹後壓迫。疼痛加劇需立即拆開檢查，石膏水溫也不可過高以免燙傷。\n\n【選項詳解】\n- A. 嚴重足踝扭傷固定通常採功能位或中立位，不是蹠屈 30 度。\n- B. 石膏後疼痛需立即評估壓迫、腔室症候群或皮膚問題，不能觀察一週。\n- C. 遠端橈骨骨折急性腫脹時先 dorsal splint，消腫後改石膏，是適當作法。\n- D. 石膏不可用 60 度以上熱水，會硬化過快並可能燙傷。\n\n【核心考點】\n骨折急性腫脹期先用副木，疼痛加劇要立即拆開檢查。",
+      "key_point": "骨折急性腫脹期先用副木，疼痛加劇要立即拆開檢查。",
+      "flashcard_summary": "骨科 -> 骨折急性腫脹期先用副木，疼痛加劇要立即拆開檢查。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1709,13 +1709,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "石膏與副木固定 / 遠端橈骨骨折 / 初期腫脹處理 / 踝關節固定角度 / 石膏痛覺主訴",
-      "flashcard_back": "嚴重腫脹初期宜用副木（如背側副木），消腫後再改石膏以防腔室症候群；石膏後異常疼痛必須立即拆除檢視。",
+      "flashcard_back": "骨折急性腫脹期先用副木，疼痛加劇要立即拆開檢查。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_060",
@@ -1728,9 +1728,9 @@
         "D": "測試時,將肩關節從外展(abduction)90度及旋轉0度(neutral rotation),往內旋(internal rotation)做到最\n 大極限"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關肩關節的前側不穩定性之不安測試(apprehension test)的敘述,下列何者最不適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：肩關節前側不穩定性的不安測試（apprehension test）旨在模擬肩膀前脫位的姿勢。測試時，應將患者的肩關節置於外展（abduction）90度，並逐漸向「外旋（external rotation）」做到最大極限，此動作會將肱骨頭往前推，若患者感到快要脫位而產生不安或抗拒，即為陽性。選項將外旋寫為「內旋（internal rotation）」，與機制相悖，故最不適當。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「病人可採平躺或坐姿方式進行檢查」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「病人平躺時,檢查者宜站在病人側方」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「病人採坐姿時,檢查者宜站在病人後方」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「測試時,將肩關節從外展(abduction)90度及旋轉0度(neutral rotation),往內旋(internal rotation)做到最\n 大極限」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n了解肩關節前側不穩定不安測試（apprehension test）的檢查步驟與生理機制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解肩關節前側不穩定不安測試（apprehension test）的檢查步驟與生理機制。",
-      "flashcard_summary": "肩關節不安測試 -> 測試前側不穩定應將肩膀外展90度並行「外旋」，而非內旋。",
+      "explanation": "【題幹解析】\n肩前不穩 apprehension test 是肩外展 90 度並逐步外旋，誘發病人害怕前脫位；不是往內旋做到極限。\n\n【選項詳解】\n- A. 病人可平躺或坐姿接受檢查。\n- B. 平躺時檢查者站病人側方方便控制肩肘。\n- C. 坐姿時檢查者可站後方進行外展外旋。\n- D. 測試動作應為 abduction 90 度加 external rotation，不是 internal rotation，因此錯誤。\n\n【核心考點】\n肩前不穩 apprehension test：肩外展 90 度並外旋。",
+      "key_point": "肩前不穩 apprehension test：肩外展 90 度並外旋。",
+      "flashcard_summary": "骨科 -> 肩前不穩 apprehension test：肩外展 90 度並外旋。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1738,13 +1738,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "肩關節不穩定 / 前側脫位 / 不安測試 (Apprehension test) / 檢查姿勢 / 外旋與內旋",
-      "flashcard_back": "前側不穩定不安測試是將肩關節外展90度並行「外旋」至極限，觀察病患是否有脫位恐懼感。",
+      "flashcard_back": "肩前不穩 apprehension test：肩外展 90 度並外旋。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_061",
@@ -1757,9 +1757,9 @@
         "D": "通常與荷爾蒙或內分泌異常有關"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「有關兒童的股骨頭骨骺滑移(slipped capital femoral epiphysis)的敘述,下列何者最適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：股骨頭骨骺滑移（SCFE）好發於青春期快速發育的青少年（而非學齡前兒童），且肥胖是重要危險因子。研究指出，SCFE 的發生常與內分泌或荷爾盟異常相關，如甲狀腺功能低下、生長激素異常或性腺功能低下，這會導致骨骼年齡發育遲緩（而非早熟）。雙側發生的機率約為20%~40%（非75%）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「通常好發於學齡前兒童」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「兩側發生機率約75%」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「骨骼年齡通常比生理年齡早熟」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「通常與荷爾蒙或內分泌異常有關」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握股骨頭骨骺滑移（SCFE）的流行病學與內分泌相關因子。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握股骨頭骨骺滑移（SCFE）的流行病學與內分泌相關因子。",
-      "flashcard_summary": "SCFE臨床特徵 -> SCFE好發於青春期青少年，常與肥胖及內分泌異常有關，骨骼年齡多發育遲緩。",
+      "explanation": "【題幹解析】\nSCFE 常見於青春期、肥胖男孩，也可與內分泌異常相關；不是學齡前好發，雙側約 20 至 40%，骨齡常落後而非早熟。\n\n【選項詳解】\n- A. SCFE 好發於青春期，不是學齡前兒童。\n- B. 雙側發生率約 20 至 40%，75% 過高。\n- C. 患者骨齡常較生理年齡延遲，生長板較脆弱。\n- D. SCFE 與肥胖、青春期及內分泌異常相關，是較適當敘述。\n\n【核心考點】\nSCFE 好發青春期肥胖兒童，並與內分泌異常或骨齡延遲相關。",
+      "key_point": "SCFE 好發青春期肥胖兒童，並與內分泌異常或骨齡延遲相關。",
+      "flashcard_summary": "骨科 -> SCFE 好發青春期肥胖兒童，並與內分泌異常或骨齡延遲相關。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1767,13 +1767,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "股骨頭骨骺滑移 (SCFE) / 好發年齡 / 內分泌異常 / 骨骼年齡 / 雙側發生率",
-      "flashcard_back": "SCFE好發於青春期青少年，常與肥胖及內分泌異常（如甲腺低下）相關，骨骼年齡多偏向遲緩而非早熟。",
+      "flashcard_back": "SCFE 好發青春期肥胖兒童，並與內分泌異常或骨齡延遲相關。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_062",
@@ -1786,9 +1786,9 @@
         "D": "小多角骨(trapezoid)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「跌倒時若手臂伸直且手掌直接著地,因而導致腕骨(carpal bone)骨折且腕部的橈側疼痛,其骨折最常見的\n 是下列何者?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：跌倒時以手掌撐地（FOOSH）是常見的手部創傷機轉，其中最常發生骨折的腕骨是舟狀骨（scaphoid），約佔所有腕骨骨折的60%~70%。舟狀骨骨折的典型症狀為解剖學鼻煙壺處（anatomical snuffbox）壓痛與橈側腕部疼痛。由於舟狀骨血液由遠端往近端供應，此處骨折極易併發缺血性壞死（avascular necrosis）。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「月狀骨(lunate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「舟狀骨(scaphoid)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「大多角骨(trapezium)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「小多角骨(trapezoid)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n辨識最常見的腕骨骨折種類。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識最常見的腕骨骨折種類。",
-      "flashcard_summary": "最常見腕骨骨折 -> 手掌撐地最常導致「舟狀骨」骨折，臨床特徵為鼻煙壺處有壓痛。",
+      "explanation": "【題幹解析】\nFOOSH 後腕部橈側疼痛，最常見腕骨骨折是 scaphoid fracture。需注意解剖鼻煙壺壓痛與近端骨片缺血性壞死風險。\n\n【選項詳解】\n- A. 月狀骨可脫位或骨折，但不是 FOOSH 後最常見腕骨骨折。\n- B. 舟狀骨位於橈側，FOOSH 後最常骨折，符合腕部橈側疼痛。\n- C. 大多角骨骨折較少見，常與拇指基部外傷相關。\n- D. 小多角骨骨折罕見，不是最常見。\n\n【核心考點】\n最常見腕骨骨折是 scaphoid fracture。",
+      "key_point": "最常見腕骨骨折是 scaphoid fracture。",
+      "flashcard_summary": "骨科 -> 最常見腕骨骨折是 scaphoid fracture。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1796,13 +1796,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腕骨骨折 / 手掌撐地 / 鼻煙壺壓痛 / 舟狀骨 (scaphoid) / 缺血性壞死",
-      "flashcard_back": "舟狀骨（scaphoid）是手掌撐地受傷時最容易骨折的腕骨，常表現為解剖學鼻煙壺處壓痛。",
+      "flashcard_back": "最常見腕骨骨折是 scaphoid fracture。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_063",
@@ -1815,9 +1815,9 @@
         "D": "大部分無法單純靠止痛消炎藥物及復健治療改善症狀"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「一位55歲女性走路步態穩定,主訴近半年來頸部疼痛,且會延伸到右肩三角肌(deltoid muscle)的部位。檢\n 查發現將手臂舉過頭及維持外展(abduction)姿勢時會減輕疼痛,但將頭後仰及轉向右側時會引發疼痛。下\n 列敘述何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者頭部後仰並轉向右側會引發疼痛，此為陽性的 Spurling's test；而將手臂舉過頭及外展可減輕疼痛，此為典型的「肩膀外展緩解徵象（shoulder abduction relief sign）」，均強烈暗示為頸椎神經根壓迫（Cervical radiculopathy，此處壓迫C5神經根影響三角肌）。患者步態穩定，無明顯脊髓病變引起的上運動神經元徵象。絕大多數（約90%）的神經根壓迫患者可透過止痛藥及復健等保守治療改善。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「具有明顯的上運動神經元徵象(upper motor neuron sign)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「主要因右肩旋轉肌袖(rotator cuff)及三角肌肌腱發炎引起疼痛」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「主要因頸椎神經根受到壓迫引起疼痛」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「大部分無法單純靠止痛消炎藥物及復健治療改善症狀」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n診斷頸椎神經根壓迫（cervical radiculopathy）的臨床表徵與檢查。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "診斷頸椎神經根壓迫（cervical radiculopathy）的臨床表徵與檢查。",
-      "flashcard_summary": "頸椎神經根壓迫表現 -> 表現為頭後仰轉側引痛（Spurling(+)）與手舉過頭減痛（外展緩解），為神經根壓迫特徵。",
+      "explanation": "【題幹解析】\n頸痛放射到三角肌區，手舉過頭疼痛減輕符合 shoulder abduction relief sign，頭後仰轉向患側誘發疼痛符合 Spurling-like 機轉，最支持頸椎神經根壓迫。\n\n【選項詳解】\n- A. 題幹沒有痙攣、反射亢進、Babinski 等上運動神經元徵象。\n- B. 旋轉肌袖或三角肌肌腱炎不會因頸部後仰轉向患側而典型誘發放射痛。\n- C. 頸椎神經根壓迫可造成頸肩放射痛，舉手減輕與頸部姿勢誘發都支持。\n- D. 多數 cervical radiculopathy 可先以止痛、復健等保守治療改善。\n\n【核心考點】\nCervical radiculopathy 可有 Spurling 誘發與 shoulder abduction relief sign。",
+      "key_point": "Cervical radiculopathy 可有 Spurling 誘發與 shoulder abduction relief sign。",
+      "flashcard_summary": "神經外科 -> Cervical radiculopathy 可有 Spurling 誘發與 shoulder abduction relief sign。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1825,13 +1825,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "頸椎神經根壓迫 / Spurling's test / 肩膀外展緩解徵象 / 三角肌疼痛 / 保守治療",
-      "flashcard_back": "頸部疼痛延伸至三角肌，伴隨Spurling(+)與肩膀外展緩解，診斷為頸神經根壓迫（C5），首選保守復健治療。",
+      "flashcard_back": "Cervical radiculopathy 可有 Spurling 誘發與 shoulder abduction relief sign。",
       "category_group": "醫學（五）",
       "category": "神經外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_064",
@@ -1844,9 +1844,9 @@
         "D": "補充液體並觀察症狀以及追蹤腎積水嚴重度"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「一位懷孕十週的30歲女士因為急性腹痛就診,尿液檢查呈現顯微性血尿以及尿路感染,超音波檢查發現左腎\n 中度積水,疑似左輸尿管結石造成阻塞以及感染,則下列何種治療最不適宜?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：體外震波碎石術（ESWL）在孕婦中屬於絕對禁忌症，因為其衝擊波可能導致胎兒損傷或流產。此外，當患者合併有尿路阻塞與急性感染時，直接進行輸尿管鏡碎石等積極碎石手術易引發菌血症或敗血性休克。此時最適當的首要治療為抗生素治療，配合經皮腎臟造瘻（PCN）或雙J導管置入進行緊急引流減壓，待感染控制後再處置結石。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「施行經皮腎臟造瘻(percutaneous nephrostomy, PCN)引流」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「施行雙J導管放置(double-J ureteral stent)處置」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「即刻施行輸尿管鏡檢查以及雷射碎石手術或體外震波碎石術」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「補充液體並觀察症狀以及追蹤腎積水嚴重度」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n評估孕婦合併尿路阻塞感染時的治療禁忌與原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評估孕婦合併尿路阻塞感染時的治療禁忌與原則。",
-      "flashcard_summary": "孕婦結石感染處置 -> 孕婦禁用體外震波碎石（ESWL），若有感染阻塞應先予PCN或雙J管引流減壓，不可立即碎石。",
+      "explanation": "【題幹解析】\n懷孕 10 週合併輸尿管結石阻塞與感染，重點是抗生素與引流，可用 PCN 或 double-J stent。體外震波碎石禁用，急性期立刻雷射碎石也不宜作為最不安全選擇。\n\n【選項詳解】\n- A. PCN 可快速引流感染性阻塞，孕期可考慮。\n- B. 雙 J 導管可解除阻塞，是孕期常用選項。\n- C. 體外震波碎石孕期禁忌，感染阻塞急性期也不宜立刻碎石，因此最不適宜。\n- D. 若症狀輕且無敗血症可補液觀察；但本題有感染阻塞時仍須嚴密評估引流。\n\n【核心考點】\n孕婦結石合併感染阻塞先引流，ESWL 禁忌。",
+      "key_point": "孕婦結石合併感染阻塞先引流，ESWL 禁忌。",
+      "flashcard_summary": "泌尿科 -> 孕婦結石合併感染阻塞先引流，ESWL 禁忌。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1854,13 +1854,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "孕婦輸尿管結石 / 合併尿道感染 / 體外震波碎石 (ESWL) 禁忌 / 緊急減壓引流 / PCN與雙J導管",
-      "flashcard_back": "孕婦禁用體外震波碎石（ESWL）；合併感染阻塞時應先以PCN或雙J管引流減壓並給抗生素，不可立即行碎石手術。",
+      "flashcard_back": "孕婦結石合併感染阻塞先引流，ESWL 禁忌。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_065",
@@ -1873,9 +1873,9 @@
         "D": "Cushing's syndrome常有高血壓及肥胖"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關腎上腺瘤(adrenal tumor)之敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：接受雙側腎上腺切除術（bilateral adrenalectomy）的病患，因體內無法再自主產生皮質醇（cortisol）與醛固酮，術後必須終身補充糖皮質激素（如 cortisol/hydrocortisone）與礦物皮質激素，以預防致命的急性腎上腺危象（adrenal crisis）。庫欣氏症候群是由於體內過量皮質醇所致，常表現為中心性肥胖與高血壓，最常見原因為雙側腎上腺皮質增生。Mitotane 是一種腎上腺毒性藥物，可用於治療無法手術的腎上腺癌。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Cushing's syndrome與過量分泌cortisol有關,大多數發生於bilateral adrenocortical hyperplasia」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「病人接受雙側腎上腺切除(bilateral adrenalectomy)術後,不需補充cortisol」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「mitotane可以用來治療腎上腺癌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「Cushing's syndrome常有高血壓及肥胖」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n了解腎上腺切除術後激素替代治療與庫欣氏症候群（Cushing's syndrome）的臨床管理。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解腎上腺切除術後激素替代治療與庫欣氏症候群（Cushing's syndrome）的臨床管理。",
-      "flashcard_summary": "腎上腺切除後處置 -> 雙側腎上腺切除後必須終身補充皮質醇以預防腎上腺危象。",
+      "explanation": "【題幹解析】\n雙側腎上腺切除後病人失去內源性 cortisol 與 aldosterone 來源，需終身補充 glucocorticoid，並常需 mineralocorticoid。Cushing syndrome 常有高血壓與肥胖。\n\n【選項詳解】\n- A. Cushing syndrome 可由雙側腎上腺皮質增生或其他 ACTH 相關原因造成，敘述可接受。\n- B. 雙側 adrenalectomy 後必須補充 cortisol，說不需補充是錯誤。\n- C. Mitotane 可用於 adrenocortical carcinoma。\n- D. Cushing syndrome 常見中心性肥胖、高血壓、高血糖等。\n\n【核心考點】\n雙側腎上腺切除後需類固醇替代治療。",
+      "key_point": "雙側腎上腺切除後需類固醇替代治療。",
+      "flashcard_summary": "一般外科 -> 雙側腎上腺切除後需類固醇替代治療。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1883,13 +1883,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "雙側腎上腺切除 / 術後激素替代 / 腎上腺危象 / 庫欣氏症候群 (Cushing's) / Mitotane",
-      "flashcard_back": "雙側腎上腺切除後患者必須「終身補充皮質醇」，以防發生急性腎上腺危象；Mitotane可用於治療腎上腺癌。",
+      "flashcard_back": "雙側腎上腺切除後需類固醇替代治療。",
       "category_group": "醫學（五）",
       "category": "一般外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_066",
@@ -1902,9 +1902,9 @@
         "D": "Temsirolimus為VEGF路徑中mTOR之抑制劑"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「有關晚期腎細胞癌新發展之生物醫療製劑,下列敘述何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：血管內皮生長因子（VEGF）抑制劑（如 Sunitinib）最主要且常見的副作用為高血壓、手足症候群（hand-foot syndrome）、蛋白尿與疲憊，雖然可能引起甲狀腺功能低下，但並非其最主要或最常見的副作用。腎細胞癌常與 VHL 基因突變有關，導致 VEGF 及 PDGF 等血管新生因子過度表達。Sunitinib 及 Sorafenib 等屬於多靶點酪氨酸激酶抑制劑，而 Temsirolimus 則為 mTOR 抑制劑。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Tyrosine kinase活性與腎細胞癌von Hippel-Lindau基因突變有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「Sunitinib、bevacizumab、sorafenib為VEGF,PDGF血管新生因子之抑制劑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「VEGF抑制劑之最主要副作用為甲狀腺功能低下」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「Temsirolimus為VEGF路徑中mTOR之抑制劑」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n掌握晚期腎細胞癌標靶藥物的機轉與主要副作用。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握晚期腎細胞癌標靶藥物的機轉與主要副作用。",
-      "flashcard_summary": "腎癌標靶藥物副作用 -> VEGF抑制劑主要副作用為高血壓、手足症候群及蛋白尿，非以甲腺功能低下為主。",
+      "explanation": "【題幹解析】\n晚期 RCC 標靶治療常抑制 VEGF/PDGF 或 mTOR 路徑。VEGF 抑制劑常見副作用包括高血壓、蛋白尿、出血、手足症候群等；甲狀腺低下可見於 sunitinib，但不是 VEGF 抑制劑最主要副作用。\n\n【選項詳解】\n- A. VHL 失活使 HIF/VEGF 路徑上升，與 RCC 血管新生相關。\n- B. Sunitinib、sorafenib 與 bevacizumab 都與 VEGF/PDGF 血管新生抑制相關。\n- C. VEGF 抑制劑主要副作用不是甲狀腺功能低下，因此此項錯誤。\n- D. Temsirolimus 是 mTOR inhibitor，用於 RCC 的標靶治療。\n\n【核心考點】\nRCC VEGF 標靶常見副作用是高血壓、蛋白尿等；甲狀腺低下不是最主要副作用。",
+      "key_point": "RCC VEGF 標靶常見副作用是高血壓、蛋白尿等；甲狀腺低下不是最主要副作用。",
+      "flashcard_summary": "泌尿科 -> RCC VEGF 標靶常見副作用是高血壓、蛋白尿等；甲狀腺低下不是最主要副作用。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1912,13 +1912,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腎細胞癌標靶藥物 / VEGF抑制劑 / mTOR抑制劑 / 藥物副作用 / 高血壓與手足症候群",
-      "flashcard_back": "VEGF抑制劑（如Sunitinib）最主要的副作用為高血壓及手足症候群，而非甲狀腺功能低下；Temsirolimus為mTOR抑制劑。",
+      "flashcard_back": "RCC VEGF 標靶常見副作用是高血壓、蛋白尿等；甲狀腺低下不是最主要副作用。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_067",
@@ -1931,9 +1931,9 @@
         "D": "立刻開始給與荷爾蒙治療"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「李先生65歲,最近健康檢查發現前列腺特定抗原(prostate-specific antigen)值為10.5 ng/mL,游離型PSA比值\n 為15%,肛門指檢並沒有摸到任何前列腺硬結節,經直腸超音波檢查發現前列腺有一低回音病灶(hypoechoic\n lesion),下列建議何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者前列腺特定抗原（PSA）值為 10.5 ng/mL（大於正常值4.0 ng/mL），且游離型比值低於 15%（暗示惡性可能），超音波亦發現前列腺低回音病灶，此時為確診是否為前列腺癌，最恰當的下一步處置是安排「經直腸超音波導引前列腺切片檢查（TRUS-guided biopsy）」。在病理切片確診前，不可直接進行前列腺根除手術或給予荷爾蒙治療，亦不可僅採觀察。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「先觀察一年後再檢查PSA」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「建議進行前列腺根除手術(radical prostatectomy)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「安排經直腸超音波導引前列腺切片檢查」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「立刻開始給與荷爾蒙治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n評估懷疑前列腺癌病患的診斷流程。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評估懷疑前列腺癌病患的診斷流程。",
-      "flashcard_summary": "前列腺癌診斷步驟 -> PSA值大於10且游離比值低，且超音波有病灶時，應首選進行前列腺切片檢查。",
+      "explanation": "【題幹解析】\nPSA 10.5、free PSA ratio 15%、TRUS 低回音病灶，雖 DRE 無硬結，仍有前列腺癌疑慮。診斷下一步是影像導引或系統性前列腺切片，而非直接根除或荷爾蒙治療。\n\n【選項詳解】\n- A. PSA 已升高且 free PSA ratio 偏低，不宜單純觀察一年。\n- B. 根除手術需先有病理診斷與分期，不能直接手術。\n- C. TRUS-guided prostate biopsy 是取得診斷的適當下一步。\n- D. 荷爾蒙治療用於特定前列腺癌情境，不能在未診斷前立刻開始。\n\n【核心考點】\n懷疑前列腺癌需先安排前列腺切片取得病理診斷。",
+      "key_point": "懷疑前列腺癌需先安排前列腺切片取得病理診斷。",
+      "flashcard_summary": "泌尿科 -> 懷疑前列腺癌需先安排前列腺切片取得病理診斷。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -1941,13 +1941,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "前列腺癌篩檢 / PSA > 10 / 游離型PSA比值 / 經直腸超音波病灶 / 前列腺切片",
-      "flashcard_back": "PSA升高且游離比值低、超音波有低回音病灶者，應安排超音波導引前列腺切片確診，而非直接手術或給藥。",
+      "flashcard_back": "懷疑前列腺癌需先安排前列腺切片取得病理診斷。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_068",
@@ -1960,9 +1960,9 @@
         "D": "M1 and M4"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「分布在人類膀胱逼尿肌(detrusor muscle)的蕈毒素受體亞型(muscarinic receptor subtype)主要是:」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：人類膀胱逼尿肌上分布的蕈毒素受體主要為 M2 與 M3 亞型。其中 M2 受體在數量上占大多數（約80%），但主要負責引發逼尿肌收縮的則是 M3 受體。因此，臨床上治療膀胱過動症（OAB）的抗膽鹼藥物（如 Solifenacin）主要透過阻斷 M3 受體來放鬆逼尿肌。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「M1 and M2」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「M2 and M3」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「M1 and M3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「M1 and M4」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n記憶控制膀胱逼尿肌收縮的蕈毒素受體（muscarinic receptor）亞型。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "記憶控制膀胱逼尿肌收縮的蕈毒素受體（muscarinic receptor）亞型。",
-      "flashcard_summary": "逼尿肌受體亞型 -> 膀胱逼尿肌上的主要蕈毒素受體為M2和M3，其中M3負責介導膀胱收縮。",
+      "explanation": "【題幹解析】\n膀胱逼尿肌 muscarinic receptor 以 M2 數量最多、M3 直接主導收縮功能，因此臨床抗膽鹼藥物主要針對 M3 相關作用。\n\n【選項詳解】\n- A. M1 不是膀胱逼尿肌主要受體組合之一。\n- B. Detrusor 主要有 M2 與 M3，其中 M3 負責收縮，正確。\n- C. M1 不是主要逼尿肌受體。\n- D. M4 不是膀胱逼尿肌主要受體。\n\n【核心考點】\n膀胱逼尿肌主要 muscarinic receptor 為 M2 與 M3，收縮以 M3 為主。",
+      "key_point": "膀胱逼尿肌主要 muscarinic receptor 為 M2 與 M3，收縮以 M3 為主。",
+      "flashcard_summary": "泌尿科 -> 膀胱逼尿肌主要 muscarinic receptor 為 M2 與 M3，收縮以 M3 為主。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -1970,13 +1970,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "膀胱逼尿肌 / 蕈毒素受體亞型 (muscarinic) / 膀胱收縮 / 膀胱過動症藥物",
-      "flashcard_back": "逼尿肌上以M2和M3受體為主；其中M2數量最多，但M3是介導逼尿肌收縮的最主要受體。",
+      "flashcard_back": "膀胱逼尿肌主要 muscarinic receptor 為 M2 與 M3，收縮以 M3 為主。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_069",
@@ -1989,9 +1989,9 @@
         "D": "發燒"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「急性單純膀胱炎(acute uncomplicated cystitis)最不會出現下列那一項症狀?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性單純性膀胱炎（acute uncomplicated cystitis）屬於下尿路感染，典型症狀為頻尿、急尿、排尿灼熱疼痛及血尿，但「不會」出現發燒等全身性症狀。若患者出現發燒、畏寒或腰痛（flank pain），代表感染已向上蔓延至腎臟，臨床診斷應為急性腎盂腎炎（acute pyelonephritis）或合併敗血症。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「頻尿與急尿」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「血尿」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「解尿灼熱與疼痛」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「發燒」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n區分下尿路感染（膀胱炎）與上尿路感染（腎盂腎炎）的症狀差異。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分下尿路感染（膀胱炎）與上尿路感染（腎盂腎炎）的症狀差異。",
-      "flashcard_summary": "膀胱炎與發燒關係 -> 急性單純性膀胱炎不會發燒，若有發燒則提示為急性腎盂腎炎等上尿路感染。",
+      "explanation": "【題幹解析】\n急性單純膀胱炎是下尿路感染，典型有頻尿、急尿、解尿灼熱疼痛與可見血尿。發燒代表上泌尿道感染或全身感染，最不符合單純膀胱炎。\n\n【選項詳解】\n- A. 頻尿與急尿是膀胱刺激症狀，常見。\n- B. 膀胱炎可有血尿或尿液混濁。\n- C. 解尿灼熱與疼痛是典型 dysuria。\n- D. 發燒較支持腎盂腎炎或複雜性感染，不是單純膀胱炎典型症狀。\n\n【核心考點】\n單純膀胱炎通常無發燒；發燒要懷疑腎盂腎炎或敗血症。",
+      "key_point": "單純膀胱炎通常無發燒；發燒要懷疑腎盂腎炎或敗血症。",
+      "flashcard_summary": "泌尿科 -> 單純膀胱炎通常無發燒；發燒要懷疑腎盂腎炎或敗血症。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -1999,13 +1999,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "急性單純膀胱炎 / 下尿路感染 / 急尿頻尿血尿 / 發燒 / 急性腎盂腎炎",
-      "flashcard_back": "單純膀胱炎為下尿路感染，不應有發燒症狀；若出現發燒與腰痛提示已進展為急性腎盂腎炎。",
+      "flashcard_back": "單純膀胱炎通常無發燒；發燒要懷疑腎盂腎炎或敗血症。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_070",
@@ -2018,9 +2018,9 @@
         "D": "給與利尿劑促進排尿及排石"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「一位45歲男性因左側腰痛,發燒到39度,至急診求診。電腦斷層掃描發現左側上1/3輸尿管有一1cm結石,合\n 併腎積水,右腎正常。病人尿量減少,血壓偏低(95/65 mmHg),血液白血球19,500/cumm,CRP值16\n mg/dL。急診醫師立即抽血及收集尿液做細菌培養,給與靜脈輸液及抗生素治療。下列後續處置何者較適\n 當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：患者因輸尿管結石阻塞合併腎積水，且出現發燒、白血球增高、低血壓（敗血性休克早期徵象），此為「尿路敗血症（urosepsis）」的醫療急症。此時必須立即進行「緊急尿路減壓引流」（如立即進行經皮腎臟造瘻 PCN 或置入雙 J 管），以排出積膿，否則單靠抗生素治療無法控制感染，且死亡率極高。在急性感染休克期，絕對禁止立即進行逆行性輸尿管鏡碎石手術（URS），因為手術沖水會增加腎盂內壓，使細菌與內毒素更易進入血液，加重休克。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「立即進行左側輸尿管鏡碎石手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「立即安排左側經皮腎臟引流」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「繼續使用抗生素保守治療」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「給與利尿劑促進排尿及排石」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n處理結石阻塞合併尿路敗血症（urosepsis）的急症處置原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "處理結石阻塞合併尿路敗血症（urosepsis）的急症處置原則。",
-      "flashcard_summary": "尿路敗血症減壓引流 -> 結石阻塞併發發燒休克時，須先以PCN引流減壓，不可直接作碎石手術。",
+      "explanation": "【題幹解析】\n輸尿管結石合併發燒、腎積水、低血壓、白血球與 CRP 升高，是阻塞性腎盂腎炎/urosepsis。急症重點是抗生素加立即引流，PCN 是合適選項，急性期不先碎石。\n\n【選項詳解】\n- A. 感染阻塞時立刻輸尿管鏡碎石會增加敗血症風險，不是優先。\n- B. 立即經皮腎臟引流可解除感染性阻塞，最適當。\n- C. 單用抗生素無法解除阻塞，敗血症可能惡化。\n- D. 利尿劑不能解決阻塞，還可能加重病況。\n\n【核心考點】\n結石阻塞合併 urosepsis 要立即引流加抗生素，先救命再碎石。",
+      "key_point": "結石阻塞合併 urosepsis 要立即引流加抗生素，先救命再碎石。",
+      "flashcard_summary": "泌尿科 -> 結石阻塞合併 urosepsis 要立即引流加抗生素，先救命再碎石。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2028,13 +2028,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "尿路敗血症 (urosepsis) / 結石阻塞 / 減壓引流 / PCN / 碎石手術禁忌",
-      "flashcard_back": "結石阻塞合併發燒及低血壓時，應立即行PCN或放雙J管引流減壓；急性期禁用輸尿管鏡碎石以防敗血症加劇。",
+      "flashcard_back": "結石阻塞合併 urosepsis 要立即引流加抗生素，先救命再碎石。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_071",
@@ -2047,9 +2047,9 @@
         "D": "服用rifampin的病人"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「治療勃起功能障礙的病人,必須注意使用PDE5 inhibitors的禁忌,下列何種狀況的病人可以安全使用PDE5\n inhibitors?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：五型磷酸二酯酶抑制劑（PDE5i，如威而鋼）會導致血管擴張，因此在半年內有心肌梗塞病史、主動脈狹窄（易誘發嚴重低血壓）或重度肝功能損傷（Child-Pugh C，藥物代謝嚴重受阻）的患者中為使用禁忌。Rifampin 為 CYP3A4 的強誘導劑，會加速 PDE5i 的代謝並降低其療效，但這僅會影響藥物效果，並不屬於安全上的絕對禁忌症，因此在上述選項中是唯一可以安全使用的。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「最近6個月發生心肌梗塞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「嚴重肝功能損傷達Child-Pugh C者」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「大動脈狹窄(aortic stenosis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「服用rifampin的病人」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握五型磷酸二酯酶抑制劑（PDE5 inhibitor）的臨床使用禁忌。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握五型磷酸二酯酶抑制劑（PDE5 inhibitor）的臨床使用禁忌。",
-      "flashcard_summary": "PDE5i禁忌與安全 -> 心肌梗塞、主動脈狹窄及重度肝損者禁用PDE5i；併用Rifampin僅降低療效而非安全禁忌。",
+      "explanation": "【題幹解析】\nPDE5 inhibitors 禁忌或需避免於近期心肌梗塞、不穩定心血管疾病、嚴重肝損傷與某些結構性心臟病。Rifampin 會降低藥物濃度，屬交互作用需調整療效期待，但不是絕對禁忌。\n\n【選項詳解】\n- A. 最近 6 個月心肌梗塞屬高風險心血管狀態，不宜安全使用。\n- B. Child-Pugh C 嚴重肝功能損傷會影響代謝，通常避免。\n- C. 主動脈狹窄可能無法承受血管擴張與性活動負荷，需避免或嚴格評估。\n- D. Rifampin 為 CYP inducer 可能降低 PDE5 inhibitor 效果，但不是典型絕對禁忌。\n\n【核心考點】\nPDE5 inhibitor 避免用於近期 MI、嚴重肝病與高風險心血管病；rifampin 主要是交互作用。",
+      "key_point": "PDE5 inhibitor 避免用於近期 MI、嚴重肝病與高風險心血管病；rifampin 主要是交互作用。",
+      "flashcard_summary": "泌尿科 -> PDE5 inhibitor 避免用於近期 MI、嚴重肝病與高風險心血管病；rifampin 主要是交互作用。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2057,13 +2057,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "PDE5 抑制劑 (威而鋼) / 血管擴張 / 使用禁忌 / 心肌梗塞 / 主動脈狹窄 / Rifampin 交互作用",
-      "flashcard_back": "半年內心肌梗塞、主動脈狹窄及重度肝損者禁用PDE5i；併用Rifampin會降低療效但非安全禁忌。",
+      "flashcard_back": "PDE5 inhibitor 避免用於近期 MI、嚴重肝病與高風險心血管病；rifampin 主要是交互作用。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_072",
@@ -2076,9 +2076,9 @@
         "D": "renal angiomyolipoma"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「45歲女性病人接受年度健康檢查,發現左腎腫瘤,下圖為注射對比劑之腎臟電腦斷層攝影(computed\n tomography of kidneys),最可能之診斷為何?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腎血管平滑肌脂肪瘤（Angiomyolipoma, AML）是腎臟最常見的良性腫瘤，由血管、平滑肌和脂肪組織組成。在電腦斷層（CT）檢查中，若腫瘤內含有明確的「脂肪密度區域」（CT值小於 -20 HU），即具有高度專一性，可直接診斷為良性 AML，不需立即切除。若腫瘤不含脂肪，則需與腎細胞癌（RCC）進行鑑別診斷。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「renal cell carcinoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「renal lymphoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「renal urothelial carcinoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「renal angiomyolipoma」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n藉由電腦斷層影像特徵診斷腎血管平滑肌脂肪瘤（angiomyolipoma, AML）。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "藉由電腦斷層影像特徵診斷腎血管平滑肌脂肪瘤（angiomyolipoma, AML）。",
-      "flashcard_summary": "腎血管平滑肌脂肪瘤診斷 -> 腎臟腫瘤於CT影像中若呈現明確脂肪密度，即可確診為良性AML。",
+      "explanation": "【題幹解析】\n腎臟 CT 若腫瘤內含明顯脂肪密度，最典型是 angiomyolipoma。RCC、lymphoma、urothelial carcinoma 通常不以脂肪成分為特徵。\n\n【選項詳解】\n- A. RCC 可增強且外觀多樣，但典型不含大量成熟脂肪。\n- B. Renal lymphoma 多為均質低增強腫塊或多發病灶，不是脂肪性腫瘤。\n- C. Renal urothelial carcinoma 多源自腎盂集尿系統，不以脂肪密度腎實質腫塊表現。\n- D. Angiomyolipoma 由血管、平滑肌與脂肪組成，CT 脂肪密度最具診斷性。\n\n【核心考點】\n腎腫瘤 CT 有脂肪密度要想到 angiomyolipoma。",
+      "key_point": "腎腫瘤 CT 有脂肪密度要想到 angiomyolipoma。",
+      "flashcard_summary": "泌尿科 -> 腎腫瘤 CT 有脂肪密度要想到 angiomyolipoma。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2086,13 +2086,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "腎臟良性腫瘤 / 電腦斷層 (CT) 脂肪密度 / 血管平滑肌脂肪瘤 (AML) / 治療原則",
-      "flashcard_back": "CT影像上若見腎臟腫瘤含有明確的脂肪密度，即可診斷為良性血管平滑肌脂肪瘤（AML）。",
+      "flashcard_back": "腎腫瘤 CT 有脂肪密度要想到 angiomyolipoma。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_073",
@@ -2105,9 +2105,9 @@
         "D": "DeBakey第三型主動脈剝離(DeBakey Type III aortic dissection)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「50歲男性至急診就醫,主訴突發性胸痛持續逾半小時,胸部電腦斷層影像如附圖,正確診斷為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：主動脈壁內血腫（intramural hematoma, IMH）是主動脈阻力血管破裂出血在主動脈壁內形成血腫，但在電腦斷層上看不到典型主動脈剝離的內膜片與真假雙腔。其分型與主動脈剝離相同：只要病變累及「升主動脈」即屬於 Stanford A 型；僅累及降主動脈則為 Stanford B 型。Stanford A 型 IMH 因隨時有主動脈破裂或心包填塞風險，屬於外科急症，需緊急手術。\n\n【選項詳解】\n- A. 正確答案。選項內容：「Stanford A型主動脈內皮血腫(Stanford Type A intramural hematoma)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「Stanford B型主動脈內皮血腫(Stanford Type B intramural hematoma)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「Stanford B型主動脈剝離(Stanford Type B aortic dissection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「DeBakey第三型主動脈剝離(DeBakey Type III aortic dissection)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n區分主動脈壁內血腫（IMH）的 Stanford 分型。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "區分主動脈壁內血腫（IMH）的 Stanford 分型。",
-      "flashcard_summary": "壁內血腫分型 -> 壁內血腫累及升主動脈即為Stanford A型，無真假雙腔，屬緊急手術適應症。",
+      "explanation": "【題幹解析】\n主動脈壁內血腫若侵犯升主動脈即 Stanford type A；若只在降主動脈則 type B。題目影像官方答案為 A 型 IMH，重點是沒有典型 intimal flap 而是壁內血腫。\n\n【選項詳解】\n- A. 侵犯升主動脈的 intramural hematoma 屬 Stanford type A，符合官方影像判讀。\n- B. Type B 不侵犯升主動脈，與官方影像不符。\n- C. Aortic dissection 通常可見內膜瓣與真假腔，題目為壁內血腫。\n- D. DeBakey III 也屬降主動脈剝離，不符合 A 型壁內血腫。\n\n【核心考點】\n主動脈壁內血腫侵犯升主動脈即 Stanford type A。",
+      "key_point": "主動脈壁內血腫侵犯升主動脈即 Stanford type A。",
+      "flashcard_summary": "心臟外科 -> 主動脈壁內血腫侵犯升主動脈即 Stanford type A。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2115,13 +2115,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "主動脈內皮血腫 (IMH) / 升主動脈累及 / Stanford A型與B型 / 內膜撕裂片",
-      "flashcard_back": "IMH在CT上無真假雙腔與內膜片，僅見壁增厚；累及升主動脈為Stanford A型，屬外科緊急手術指徵。",
+      "flashcard_back": "主動脈壁內血腫侵犯升主動脈即 Stanford type A。",
       "category_group": "醫學（五）",
       "category": "心臟外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_074",
@@ -2134,9 +2134,9 @@
         "D": "eosinophilic granuloma"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「23歲男性無特殊病史,近二個月來,他覺得舉重物時右髖部附近會痛,附圖為X光攝影,最可能的診斷為\n 何?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：骨纖維發育不良（fibrous dysplasia）是一種良性骨病變，正常骨組織被增生的纖維骨組織取代。其在 X 光片上的典型特徵為病灶呈現均質的「毛玻璃樣外觀（ground-glass appearance）」，邊緣常有硬化骨包圍，且好發於青少年與年輕人。軟骨母細胞瘤多位於骨骺；骨肉瘤則會呈現侵襲性骨破壞與骨膜反應。\n\n【選項詳解】\n- A. 正確答案。選項內容：「fibrous dysplasia」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「chondroblastoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「osteogenic sarcoma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「eosinophilic granuloma」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n辨識骨纖維發育不良（fibrous dysplasia）的 X 光影像特徵。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "辨識骨纖維發育不良（fibrous dysplasia）的 X 光影像特徵。",
-      "flashcard_summary": "骨纖維發育不良影像 -> 骨纖維發育不良X光典型表現為毛玻璃樣外觀，多為良性病變。",
+      "explanation": "【題幹解析】\n年輕成人髖部疼痛，X 光若呈 ground-glass matrix、骨膨脹與 shepherd's crook deformity，典型為 fibrous dysplasia。\n\n【選項詳解】\n- A. Fibrous dysplasia 常有 ground-glass 影像與股骨近端變形，符合。\n- B. Chondroblastoma 多見於青少年骨骺，影像與位置不同。\n- C. Osteogenic sarcoma 常有侵襲性骨膜反應、Codman triangle 或 sunburst，不符合良性慢性影像。\n- D. Eosinophilic granuloma 常見溶骨性病灶，臨床影像不如 fibrous dysplasia 典型。\n\n【核心考點】\nFibrous dysplasia 影像常見 ground-glass appearance 與股骨近端變形。",
+      "key_point": "Fibrous dysplasia 影像常見 ground-glass appearance 與股骨近端變形。",
+      "flashcard_summary": "骨科 -> Fibrous dysplasia 影像常見 ground-glass appearance 與股骨近端變形。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2144,13 +2144,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "骨良性病變 / 毛玻璃外觀 / 骨纖維發育不良 (fibrous dysplasia) / X光特徵",
-      "flashcard_back": "骨纖維發育不良在X光上的典型特徵為「毛玻璃樣外觀」，常發生於股骨近端等長骨。",
+      "flashcard_back": "Fibrous dysplasia 影像常見 ground-glass appearance 與股骨近端變形。",
       "category_group": "醫學（五）",
       "category": "骨科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_075",
@@ -2163,9 +2163,9 @@
         "D": "副木固定右小腿"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「45歲男性因機車車禍被送至急診,病人主訴後頸、腹部及右下肢疼痛。身體檢查發現雙手感覺麻木、上腹部\n 大片瘀青、右大腿5公分撕裂傷滲血、右小腿外觀變形,應優先執行下列何種處置?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據高級外傷生命支持（ATLS）的救治原則，首要步驟為 A（Airway）與頸椎保護。患者車禍後主訴「後頸疼痛」且合併「雙手感覺麻木」，高度懷疑有頸椎損傷之可能，因此必須優先予以戴上頸圈固定頸椎，以防止二次神經損傷甚至高位截癱。腹部電腦斷層、傷口止血與小腿固定均應在頸椎保護與生命徵象穩定後再行處理。\n\n【選項詳解】\n- A. 正確答案。選項內容：「帶上頸圈」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「安排腹部電腦斷層」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「傷口加壓止血」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「副木固定右小腿」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n遵循 ATLS 流程對創傷病患進行優先處置。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "遵循 ATLS 流程對創傷病患進行優先處置。",
-      "flashcard_summary": "創傷頸椎保護優先 -> 創傷後疑似頸椎損傷者，應優先戴上頸圈固定，再行後續處置。",
+      "explanation": "【題幹解析】\nATLS 初評先處理 A、B、C，且懷疑頸椎傷害時要先保護頸椎。病人後頸痛與雙手麻木，優先戴頸圈並維持脊椎保護。\n\n【選項詳解】\n- A. 先保護頸椎符合 trauma primary survey，最優先。\n- B. 腹部 CT 需在生命徵象穩定且初評處置後安排。\n- C. 滲血傷口需加壓，但題幹最關鍵優先是頸椎保護。\n- D. 右小腿變形需固定，但在頸椎保護與初評之後處理。\n\n【核心考點】\n創傷病人疑頸椎傷害時，primary survey 先保護頸椎與氣道。",
+      "key_point": "創傷病人疑頸椎傷害時，primary survey 先保護頸椎與氣道。",
+      "flashcard_summary": "外科概論 -> 創傷病人疑頸椎傷害時，primary survey 先保護頸椎與氣道。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2173,13 +2173,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "創傷急救 / ATLS流程 / 頸椎保護 / 後頸痛合併手麻 / 優先處置",
-      "flashcard_back": "創傷患有後頸痛與雙手麻木時，必須優先戴上頸圈固定頸椎，遵循ATLS中A與頸椎保護優先之原則。",
+      "flashcard_back": "創傷病人疑頸椎傷害時，primary survey 先保護頸椎與氣道。",
       "category_group": "醫學（五）",
       "category": "外科概論",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_076",
@@ -2192,9 +2192,9 @@
         "D": "無痛的血尿常見於泌尿道感染"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關血尿的敘述,下列何者最正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：兒童血尿最常見的原因為腎絲球腎炎（如 IgA 腎病變或鏈球菌感染後腎絲球腎炎）。良性前列腺肥大（BPH）因前列腺組織增生且血管豐富，常是老年男性血尿的常見原因。血尿最常見的病因是尿路感染與結石，而非腫瘤。無痛性血尿是泌尿道癌症的典型警訊，而尿路感染引起的血尿通常會伴隨排尿疼痛及灼熱感。\n\n【選項詳解】\n- A. 正確答案。選項內容：「兒童的血尿常見原因是腎絲球腎炎」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「良性的前列腺肥大不會造成血尿」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「血尿最常見的原因是腎或泌尿道腫瘤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「無痛的血尿常見於泌尿道感染」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n了解不同年齡層血尿的常見病因與臨床鑑別診斷。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解不同年齡層血尿的常見病因與臨床鑑別診斷。",
-      "flashcard_summary": "血尿鑑別診斷 -> 兒童血尿常見於腎絲球腎炎，無痛性血尿需排除腫瘤，BPH亦會造成血尿。",
+      "explanation": "【題幹解析】\n兒童血尿常見原因包括腎絲球腎炎、感染、結石或先天異常。成人無痛血尿需警覺泌尿道腫瘤；BPH 也可造成血尿；UTI 多伴疼痛或刺激症狀。\n\n【選項詳解】\n- A. 兒童血尿常見重要原因是腎絲球腎炎，最正確。\n- B. 良性前列腺肥大可因血管增生或感染造成血尿，不能說不會。\n- C. 血尿最常見原因不一定是腫瘤，需依年齡與症狀分層。\n- D. 無痛血尿反而要懷疑腫瘤；感染常有頻尿、急尿、疼痛。\n\n【核心考點】\n兒童血尿常見腎絲球腎炎；成人無痛血尿需排除泌尿道腫瘤。",
+      "key_point": "兒童血尿常見腎絲球腎炎；成人無痛血尿需排除泌尿道腫瘤。",
+      "flashcard_summary": "泌尿科 -> 兒童血尿常見腎絲球腎炎；成人無痛血尿需排除泌尿道腫瘤。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2202,13 +2202,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "血尿病因 / 兒童血尿 / 良性前列腺肥大 (BPH) / 無痛性血尿 / 尿路感染",
-      "flashcard_back": "兒童血尿常見於腎絲球腎炎；BPH會引起血尿；無痛性血尿提示腫瘤，尿路感染則多為有痛性血尿。",
+      "flashcard_back": "兒童血尿常見腎絲球腎炎；成人無痛血尿需排除泌尿道腫瘤。",
       "category_group": "醫學（五）",
       "category": "泌尿科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_077",
@@ -2221,9 +2221,9 @@
         "D": "於急診復位後常無法恢復進食"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「一位65歲女性,因下頷骨脫位(mandible dislocation)至急診求治,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：下頷骨脫位以「前脫位（anterior dislocation）」最為常見，診斷主要依賴無法閉口、唾液外流及下巴前突等典型臨床症狀。在急診成功進行手動復位後，病患的關節恢復原位，即可恢復進食（但建議先食用軟質食物，並避免張口過大以防再次脫位），因此選項中敘述「常無法恢復進食」是錯誤的。若復位後患者能正常咬合與閉口，通常無須常規再照 X 光追蹤。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「脫位型態以前脫位(anterior dislocation)最常見」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「診斷是以臨床症狀為主」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「復位後只要病人能立即闔上嘴巴,通常無須再安排X光攝影追蹤」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「於急診復位後常無法恢復進食」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n掌握下頷骨脫位（mandible dislocation）的臨床表現、診斷與復位後照護。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "掌握下頷骨脫位（mandible dislocation）的臨床表現、診斷與復位後照護。",
-      "flashcard_summary": "下頷骨脫位復位 -> 脫位復位後可立即恢復進食軟食，無須長期禁食，注意避免過度張口即可。",
+      "explanation": "【題幹解析】\n下頷骨脫位以前脫位最常見，診斷主要靠張口不能閉合等臨床表現。急診復位成功後通常可恢復閉口與進食，只需短期限制張口與追蹤。\n\n【選項詳解】\n- A. 下頷骨脫位最常見是 anterior dislocation。\n- B. 典型症狀為張口無法閉合、疼痛、流涎，診斷以臨床為主。\n- C. 若無外傷骨折疑慮且復位後可閉口，通常不必常規 X 光追蹤。\n- D. 復位後多可恢復進食，只需避免大張口，因此此項錯誤。\n\n【核心考點】\n下頷骨前脫位復位後通常可閉口並逐步恢復進食。",
+      "key_point": "下頷骨前脫位復位後通常可閉口並逐步恢復進食。",
+      "flashcard_summary": "整形外科 -> 下頷骨前脫位復位後通常可閉口並逐步恢復進食。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2231,13 +2231,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "下頷骨脫位 / 前脫位最常見 / 臨床診斷 / 復位後照護與飲食 / 咬合評估",
-      "flashcard_back": "下頷骨脫位以前脫位最常見；急診復位後病患可恢復進食軟食，但需限制張口幅度以防復發。",
+      "flashcard_back": "下頷骨前脫位復位後通常可閉口並逐步恢復進食。",
       "category_group": "醫學（五）",
       "category": "整形外科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_078",
@@ -2250,9 +2250,9 @@
         "D": "醫事人員為防治家庭暴力行為或保護家庭暴力被害人之權益,有受到身體或精神上不法侵害之虞者,得請求\n 警察機關提供必要之協助"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「近年來,家庭暴力頻傳,外科醫師常常會遇到疑似的病例,根據家庭暴力防治法之規定,下列何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據《家庭暴力防治法》規定，醫事人員（包括醫師、護理師等）在執行職務時若知悉有疑似家庭暴力情事，負有法定通報義務，必須在 24 小時內通報當地主管機關，並非僅是警察的責任。醫療機構對家暴被害人不得無故拒診或拒開驗傷診斷書。當醫事人員因防治家暴工作有受不法侵害之虞時，可請求警察機關提供必要協助。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「醫事人員在執行職務時知有疑似家庭暴力情事者,應立即通報當地主管機關,至遲不得逾24小時」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「通報疑似家庭暴力情事者,是警察的責任,跟醫師無關」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「醫療機構對於家庭暴力之被害人,不得無故拒絕診療及開立驗傷診斷書」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「醫事人員為防治家庭暴力行為或保護家庭暴力被害人之權益,有受到身體或精神上不法侵害之虞者,得請求\n 警察機關提供必要之協助」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n了解醫療人員在《家庭暴力防治法》中的通報義務與法律責任。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "了解醫療人員在《家庭暴力防治法》中的通報義務與法律責任。",
-      "flashcard_summary": "家暴通報法規 -> 醫事人員負有疑似家暴事件的24小時內法定通報義務，不可推諉為他人責任。",
+      "explanation": "【題幹解析】\n醫事人員執行業務時知悉疑似家庭暴力，有法定通報義務，通常需立即通報且不得逾 24 小時；不是只有警察的責任。\n\n【選項詳解】\n- A. 醫事人員知悉疑似家暴應依法通報，時限敘述正確。\n- B. 通報不是警察專屬責任，醫師與醫事人員也有法定義務，因此錯誤。\n- C. 醫療機構不得無故拒絕診療或開立驗傷診斷書，正確。\n- D. 醫事人員若有受害風險，可請求警察提供必要協助。\n\n【核心考點】\n醫事人員對疑似家庭暴力有法定通報義務。",
+      "key_point": "醫事人員對疑似家庭暴力有法定通報義務。",
+      "flashcard_summary": "其他 -> 醫事人員對疑似家庭暴力有法定通報義務。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2260,13 +2260,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "家庭暴力防治法 / 醫事人員通報義務 / 24小時通報時限 / 拒絕診療限制 / 警察協助",
-      "flashcard_back": "醫事人員發現疑似家暴時「必須在24小時內主動通報」，且不得無故拒絕診療或開立驗傷診斷書。",
+      "flashcard_back": "醫事人員對疑似家庭暴力有法定通報義務。",
       "category_group": "醫學（五）",
       "category": "其他",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_079",
@@ -2279,9 +2279,9 @@
         "D": "歐陽先生先前雖拒絕手術,是因為他沒有考量過緊急狀況,所以歐陽先生先前沒拒絕緊急手術的話,應施行\n 手術"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「歐陽先生是一位70歲男性,膝下無子女,平時在家中照顧患有重度失智症的妻子,最近因為嚴重頭痛來院檢\n 查,發現自己有一中腦動脈之動脈瘤。你是一位神經外科醫師,你建議他開刀夾除動脈瘤,但也告訴他手術\n 有死亡的風險。歐陽先生決定先不手術,回去想一想再說。沒想到就在一週後,他因為動脈瘤出血昏迷被送\n 到急診室,若不緊急手術歐陽先生必會死亡,但是卻無法聯絡到任何家屬以諮詢意見,如何處理最適當?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：根據《醫療法》第60條與第63條規定，當病患處於生命危急且無行為能力、無法聯絡家屬時，醫師應施行緊急手術以救治生命。病患先前拒絕的是「預防性/選擇性」手術（ elective surgery ），並非在面臨立即死亡威脅時的「緊急救命」手術，且病患未簽署拒絕急救意願書（DNR/AD）。因此，在病人先前並未明確拒絕緊急救命手術的前提下，醫師應施行緊急手術以維護生命安全。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「歐陽先生先前已拒絕手術了,因此不應該施行緊急手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「不管歐陽先生事前有沒有聲明拒絕緊急手術,依照你的專業判斷該做手術就該進行手術」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「在沒有聯絡到家屬,歐陽先生此時也無行為能力,之前又決定先不手術的情況下,最好不要開刀」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「歐陽先生先前雖拒絕手術,是因為他沒有考量過緊急狀況,所以歐陽先生先前沒拒絕緊急手術的話,應施行\n 手術」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n評古病人先前拒絕預防性手術於昏迷急救時的法律與倫理考量。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "評古病人先前拒絕預防性手術於昏迷急救時的法律與倫理考量。",
-      "flashcard_summary": "緊急手術同意權 -> 先前拒絕選擇性手術不適用於緊急救命狀況，生命危急且聯絡不到家屬時應行緊急手術。",
+      "explanation": "【題幹解析】\n先前拒絕的是非緊急預防性手術，並未明確拒絕日後動脈瘤破裂昏迷時的救命手術。現在若不手術必死且無法聯絡代理人，依緊急例外與最佳利益可施行手術。\n\n【選項詳解】\n- A. 先前只是表示回去考慮，不能視為拒絕所有緊急救命治療。\n- B. 若病人曾明確拒絕緊急手術，仍須尊重；此項說不管事前聲明都做，過度。\n- C. 緊急危及生命且無代理人時，不手術會違反救命與最佳利益原則。\n- D. 先前未拒絕緊急狀況下的手術，因此可依緊急醫療例外施行救命手術。\n\n【核心考點】\n未明確拒絕緊急救命治療時，危及生命且無代理人可依緊急例外處置。",
+      "key_point": "未明確拒絕緊急救命治療時，危及生命且無代理人可依緊急例外處置。",
+      "flashcard_summary": "其他 -> 未明確拒絕緊急救命治療時，危及生命且無代理人可依緊急例外處置。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2289,13 +2289,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "緊急手術 / 醫療法第63條 / 限制行為能力 / 先前拒絕手術 / 選擇性 vs. 緊急手術",
-      "flashcard_back": "先前拒絕選擇性手術不代表拒絕緊急救命手術；在病人生命危急且無法聯絡家屬時，應依醫療法施行緊急手術。",
+      "flashcard_back": "未明確拒絕緊急救命治療時，危及生命且無代理人可依緊急例外處置。",
       "category_group": "醫學（五）",
       "category": "其他",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     },
     {
       "id": "110-1_medicine-5_080",
@@ -2308,9 +2308,9 @@
         "D": "尊重病患自主權,但應盡力勸導患者住院,勸導無效時行使干涉權"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「某成年男患者急性右側胸痛被送到急診室,症狀及檢查結果均明確顯示是小範圍自發性氣胸。患者意識清\n 醒,生命徵兆穩定,但拒絕插胸管減壓引流或住院觀察,堅持要回家。此時醫生應該:」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：當成年且神智清醒的病患拒絕住院或治療時，基於「病人自主權原則」，醫師應尊重其決定，不可強行留院。然而，醫師仍有義務詳細說明不治療的風險並盡力勸導；若勸導無效，應請病患簽署「自動出院意願書（AMA form）」以確保其在充分知情下做出拒絕，並保護醫療團隊免於法律糾紛。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「行使醫生自主權,為治病救人避免發生意外,強行把患者留院觀察」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「尊重病患自主權,仍應盡力勸導患者住院,無效時,請他辦好相關手續後再准其離院」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「尊重病患自主權,同意病患回家」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「尊重病患自主權,但應盡力勸導患者住院,勸導無效時行使干涉權」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n處理神智清醒病患拒絕醫療建議（AMA）的倫理與法律原則。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "處理神智清醒病患拒絕醫療建議（AMA）的倫理與法律原則。",
-      "flashcard_summary": "拒絕治療處理 -> 尊重清醒病人的自主決定權，勸導無效時須簽署自動出院意願書後放行。",
+      "explanation": "【題幹解析】\n清醒、有決策能力的穩定病人可拒絕建議治療。醫師應充分說明風險、勸導、提供替代方案與返診警訊，若仍拒絕，完成 AMA 或相關手續後尊重其離院。\n\n【選項詳解】\n- A. 病人有能力且非立即失能危險時，不能單以醫師自主強行留院。\n- B. 尊重病人自主，同時盡力告知與勸導，無效時辦妥相關手續離院，最適當。\n- C. 單純同意回家不足，醫師仍需充分告知、勸導與記錄。\n- D. 干涉權通常限於病人無能力或重大立即危害等情境，不能任意使用。\n\n【核心考點】\n有決策能力病人拒絕治療時，需充分告知與記錄後尊重自主。",
+      "key_point": "有決策能力病人拒絕治療時，需充分告知與記錄後尊重自主。",
+      "flashcard_summary": "其他 -> 有決策能力病人拒絕治療時，需充分告知與記錄後尊重自主。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2318,13 +2318,13 @@
       "answer_status": "standard",
       "answer_source": "official_answer",
       "flashcard_front": "病人自主權 / 拒絕治療 / 神智清醒成年人 / 自動出院 (AMA) / 充分告知風險",
-      "flashcard_back": "神智清醒者有權拒絕治療；醫師應盡力勸導，若勸導無效則須請其簽署自動出院（AMA）同意書後准其離院。",
+      "flashcard_back": "有決策能力病人拒絕治療時，需充分告知與記錄後尊重自主。",
       "category_group": "醫學（五）",
       "category": "其他",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00"
     }
   ]
 }

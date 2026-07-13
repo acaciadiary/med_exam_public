@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-1.json",
+  "dataset_id": "110-2_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題是否定式解剖題，要找「不是」內頸動脈（internal carotid artery, ICA）直接分支的血管。ICA 在顱內可給出眼動脈、後交通動脈、前脈絡叢動脈，終末分支為前大腦動脈與中大腦動脈；前交通動脈則連接兩側前大腦動脈。本題官方答案為 D。\n\n【選項詳解】\n- A. 眼動脈是內頸動脈進入顱腔後的重要分支，會經視神經管進入眼眶，因此不是本題要找的例外。\n- B. 中大腦動脈是內頸動脈的終末分支之一，供應大腦半球外側面大部分區域，因此屬於 ICA 分支系統。\n- C. 前脈絡叢動脈通常由內頸動脈發出，供應內囊、視徑與脈絡叢等構造，因此是 ICA 分支。\n- D. 前交通動脈連接左右前大腦動脈，屬 Willis 環的交通支，不是內頸動脈直接發出的分支，故為答案。\n\n【核心考點】\n內頸動脈的高頻分支包括眼動脈、後交通動脈、前脈絡叢動脈，以及 ACA/MCA 終末分支；前交通動脈是兩側 ACA 之間的連接。",
+      "key_point": "內頸動脈的高頻分支包括眼動脈、後交通動脈、前脈絡叢動脈，以及 ACA/MCA 終末分支；前交通動脈是兩側 ACA 之間的連接。",
+      "flashcard_front": "下列何者不是內頸動脈的分支?",
+      "flashcard_back": "內頸動脈的高頻分支包括眼動脈、後交通動脈、前脈絡叢動脈，以及 ACA/MCA 終末分支；前交通動脈是兩側 ACA 之間的連接。",
+      "flashcard_summary": "內頸動脈的高頻分支包括眼動脈、後交通動脈、前脈絡叢動脈，以及 ACA/MCA 終末分支；前交通動脈是兩側 ACA 之間的連接。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n右側胸段半側脊髓損傷符合 Brown-Sequard syndrome。皮質脊髓徑與後柱在脊髓內同側傳導，痛溫覺的脊髓丘腦徑則在進入脊髓後不久交叉，因此會出現同側下肢無力與本體/震動覺受損、對側痛溫覺受損。本題官方答案為 A。\n\n【選項詳解】\n- A. 右側皮質脊髓徑受損會造成右側、病灶以下的上運動神經元型無力，胸段病灶主要影響右下肢，故正確。\n- B. 震動覺走後柱，胸段右半切會影響右側下肢震動覺，不是左側。\n- C. 痛覺纖維進入脊髓後交叉到對側上行，右側脊髓丘腦徑受損較會造成左側病灶以下痛溫覺異常，不是右側。\n- D. 胸段病灶位於支配上肢的頸膨大以下，不會造成左側上肢無力。\n\n【核心考點】\nBrown-Sequard syndrome：同側運動與後柱感覺受損，對側痛溫覺受損；胸段病灶主要表現在下肢。",
+      "key_point": "Brown-Sequard syndrome：同側運動與後柱感覺受損，對側痛溫覺受損；胸段病灶主要表現在下肢。",
+      "flashcard_front": "胸段右半邊脊髓損傷,可能造成下列何種症狀?",
+      "flashcard_back": "Brown-Sequard syndrome：同側運動與後柱感覺受損，對側痛溫覺受損；胸段病灶主要表現在下肢。",
+      "flashcard_summary": "Brown-Sequard syndrome：同側運動與後柱感覺受損，對側痛溫覺受損；胸段病灶主要表現在下肢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n腭扁桃腺血流主要來自外頸動脈系統的咽部、舌部與顎部相關分支；題目要找不供應腭扁桃腺者。上甲狀腺動脈主要往甲狀腺與喉部，不是腭扁桃腺供血來源。本題官方答案為 D。\n\n【選項詳解】\n- A. 面動脈可發出扁桃腺支及升腭動脈，常是腭扁桃腺的重要供血來源。\n- B. 舌動脈的背舌支可供應舌根與扁桃腺附近區域，因此可參與腭扁桃腺供血。\n- C. 升咽動脈供應咽壁與扁桃腺區域，是腭扁桃腺血流來源之一。\n- D. 上甲狀腺動脈主要供應甲狀腺、喉部與鄰近肌肉，通常不供應腭扁桃腺，故為答案。\n\n【核心考點】\n腭扁桃腺供血記面動脈扁桃腺支/升腭、舌動脈背舌支、升咽動脈；上甲狀腺動脈偏向甲狀腺與喉部。",
+      "key_point": "腭扁桃腺供血記面動脈扁桃腺支/升腭、舌動脈背舌支、升咽動脈；上甲狀腺動脈偏向甲狀腺與喉部。",
+      "flashcard_front": "下列何者不供應腭扁桃腺(palatine tonsil)血液?",
+      "flashcard_back": "腭扁桃腺供血記面動脈扁桃腺支/升腭、舌動脈背舌支、升咽動脈；上甲狀腺動脈偏向甲狀腺與喉部。",
+      "flashcard_summary": "腭扁桃腺供血記面動脈扁桃腺支/升腭、舌動脈背舌支、升咽動脈；上甲狀腺動脈偏向甲狀腺與喉部。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n大岩神經（greater petrosal nerve）來自面神經膝狀神經節，沿顳骨岩部前面的大岩神經溝前行。本題考顱底骨性溝的位置。本題官方答案為 C。\n\n【選項詳解】\n- A. 蝶骨有卵圓孔、圓孔、棘孔與翼突等重要構造，但大岩神經溝不位於蝶骨。\n- B. 頂骨主要形成顱蓋上外側部，與大岩神經在顱底的走行無關。\n- C. 大岩神經溝位於顳骨岩部前面，這是本題的定位重點，故正確。\n- D. 枕骨包含枕骨大孔、舌下神經管等構造，不是大岩神經溝的位置。\n\n【核心考點】\n大岩神經溝位於顳骨岩部前面；大岩神經是面神經副交感纖維通往翼腭神經節的重要路徑。",
+      "key_point": "大岩神經溝位於顳骨岩部前面；大岩神經是面神經副交感纖維通往翼腭神經節的重要路徑。",
+      "flashcard_front": "大岩神經溝(groove for greater petrosal nerve) 位於:",
+      "flashcard_back": "大岩神經溝位於顳骨岩部前面；大岩神經是面神經副交感纖維通往翼腭神經節的重要路徑。",
+      "flashcard_summary": "大岩神經溝位於顳骨岩部前面；大岩神經是面神經副交感纖維通往翼腭神經節的重要路徑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題比較顱底孔洞通過的神經。盲孔多為導血管通道，通常沒有神經通過；其他選項均有明確神經穿行。本題官方答案為 D。\n\n【選項詳解】\n- A. 頸靜脈孔有舌咽、迷走、副神經（CN IX, X, XI）通過，因此不是答案。\n- B. 圓孔有上頷神經（CN V2）通過，是典型顱底孔洞配對。\n- C. 篩後孔可有篩後神經與血管通過，因此仍有神經成分。\n- D. 盲孔通常只與導血管相關，沒有固定神經通過，故為答案。\n\n【核心考點】\n顱底孔洞要配對神經：頸靜脈孔 IX/X/XI，圓孔 V2，篩後孔篩後神經；盲孔通常無神經。",
+      "key_point": "顱底孔洞要配對神經：頸靜脈孔 IX/X/XI，圓孔 V2，篩後孔篩後神經；盲孔通常無神經。",
+      "flashcard_front": "下列何者無神經通過?",
+      "flashcard_back": "顱底孔洞要配對神經：頸靜脈孔 IX/X/XI，圓孔 V2，篩後孔篩後神經；盲孔通常無神經。",
+      "flashcard_summary": "顱底孔洞要配對神經：頸靜脈孔 IX/X/XI，圓孔 V2，篩後孔篩後神經；盲孔通常無神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目考腹主動脈分支起點高低。腸繫膜上動脈與腎上腺中動脈多在 L1 附近，腎動脈約 L1-L2，睪丸/卵巢動脈較低，約 L2 自腹主動脈發出。本題官方答案為 D。\n\n【選項詳解】\n- A. 腸繫膜上動脈起點約 L1，下於腹腔幹但仍高於性腺動脈。\n- B. 腎上腺中動脈多在 L1 附近自腹主動脈側面發出，不是最低。\n- C. 腎動脈約在 L1-L2 之間，位置通常仍高於睪丸動脈。\n- D. 睪丸動脈約在 L2 高度由腹主動脈前外側發出，在四者中起點最低，故正確。\n\n【核心考點】\n腹主動脈分支由高到低可抓：SMA/腎上腺中動脈、腎動脈、性腺動脈；性腺動脈通常最低。",
+      "key_point": "腹主動脈分支由高到低可抓：SMA/腎上腺中動脈、腎動脈、性腺動脈；性腺動脈通常最低。",
+      "flashcard_front": "下列何動脈的起點水平位置最低?",
+      "flashcard_back": "腹主動脈分支由高到低可抓：SMA/腎上腺中動脈、腎動脈、性腺動脈；性腺動脈通常最低。",
+      "flashcard_summary": "腹主動脈分支由高到低可抓：SMA/腎上腺中動脈、腎動脈、性腺動脈；性腺動脈通常最低。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n直腸上段血流來自直腸上動脈，直腸上動脈是腸繫膜下動脈（inferior mesenteric artery, IMA）的終末分支。直腸中、下動脈則較偏髂內動脈系統。本題官方答案為 B。\n\n【選項詳解】\n- A. 腸繫膜上動脈供應中腸衍生腸段，至橫結腸近端/脾曲前，不是直腸上段主來源。\n- B. 腸繫膜下動脈終末分支為直腸上動脈，供應直腸上段，故為答案。\n- C. 腰動脈供應後腹壁與脊髓相關分支，不是直腸上段主要血流。\n- D. 髂內動脈系統供應直腸中、下段較重要，但直腸上段主要來自 IMA。\n\n【核心考點】\n直腸血供分層：上直腸動脈來自 IMA，中/下直腸動脈多來自髂內動脈系統。",
+      "key_point": "直腸血供分層：上直腸動脈來自 IMA，中/下直腸動脈多來自髂內動脈系統。",
+      "flashcard_front": "直腸上段的動脈血來自:",
+      "flashcard_back": "直腸血供分層：上直腸動脈來自 IMA，中/下直腸動脈多來自髂內動脈系統。",
+      "flashcard_summary": "直腸血供分層：上直腸動脈來自 IMA，中/下直腸動脈多來自髂內動脈系統。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\nL1 屬 T1-L2 交感外流節段，因此可同時具有白交通支與灰交通支。白交通支帶有交感節前有髓纖維進入交感鏈；灰交通支帶有交感節後無髓纖維回到脊神經。本題官方答案為 D。\n\n【選項詳解】\n- A. L1 確實有白交通支且含節前纖維，但不是只有白交通支，還有灰交通支。\n- B. 白交通支的纖維是節前有髓纖維，不是節後纖維。\n- C. 白、灰交通支都存在的描述對，但白交通支不是節後纖維。\n- D. L1 同時有白與灰交通支，且分別含節前與節後交感纖維，故正確。\n\n【核心考點】\n白交通支只在 T1-L2，帶節前有髓交感纖維；灰交通支幾乎所有脊神經都有，帶節後無髓纖維。",
+      "key_point": "白交通支只在 T1-L2，帶節前有髓交感纖維；灰交通支幾乎所有脊神經都有，帶節後無髓纖維。",
+      "flashcard_front": "連接交感神經鏈(sympathetic chain)與L1脊神經的是:",
+      "flashcard_back": "白交通支只在 T1-L2，帶節前有髓交感纖維；灰交通支幾乎所有脊神經都有，帶節後無髓纖維。",
+      "flashcard_summary": "白交通支只在 T1-L2，帶節前有髓交感纖維；灰交通支幾乎所有脊神經都有，帶節後無髓纖維。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n男性尿道分為膀胱內部、前列腺部、膜部與海綿體部。海綿體尿道穿過陰莖尿道海綿體，長度遠長於其他三段。本題官方答案為 D。\n\n【選項詳解】\n- A. 膀胱內尿道部很短，只穿過膀胱壁，並非最長。\n- B. 前列腺尿道約數公分，長於膜部但短於海綿體部。\n- C. 膜性尿道短且狹窄，通過尿生殖膈區域，不是最長。\n- D. 海綿體尿道沿陰莖海綿體前行，是男性尿道最長的部分，故正確。\n\n【核心考點】\n男性尿道最長是海綿體部；膜部短、窄且臨床上外傷重要。",
+      "key_point": "男性尿道最長是海綿體部；膜部短、窄且臨床上外傷重要。",
+      "flashcard_front": "男性尿道(male urethra)最長的部分是:",
+      "flashcard_back": "男性尿道最長是海綿體部；膜部短、窄且臨床上外傷重要。",
+      "flashcard_summary": "男性尿道最長是海綿體部；膜部短、窄且臨床上外傷重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n膝關節包含股脛關節與股髕關節，關節面由股骨、脛骨與髕骨參與。腓骨雖在膝外側附近，形成上脛腓關節，但不屬膝關節關節面。本題官方答案為 C。\n\n【選項詳解】\n- A. 股骨遠端髁與脛骨平台形成股脛關節，是膝關節主要構成骨。\n- B. 脛骨近端平台參與股脛關節，是膝關節構成骨。\n- C. 腓骨頭與脛骨形成上脛腓關節，不進入膝關節腔，也不構成膝關節面，故為答案。\n- D. 髕骨與股骨滑車面形成股髕關節，是膝關節的一部分。\n\n【核心考點】\n膝關節由股骨、脛骨、髕骨構成；腓骨靠近膝但屬上脛腓關節，不構成膝關節。",
+      "key_point": "膝關節由股骨、脛骨、髕骨構成；腓骨靠近膝但屬上脛腓關節，不構成膝關節。",
+      "flashcard_front": "下列何者不參與構成膝關節?",
+      "flashcard_back": "膝關節由股骨、脛骨、髕骨構成；腓骨靠近膝但屬上脛腓關節，不構成膝關節。",
+      "flashcard_summary": "膝關節由股骨、脛骨、髕骨構成；腓骨靠近膝但屬上脛腓關節，不構成膝關節。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

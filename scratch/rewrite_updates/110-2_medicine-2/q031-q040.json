@@ -1,0 +1,141 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": "q031-q040",
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題考查絛蟲的生活史特點。關鍵線索在於「幼蟲可在人體小腸絨毛內發育」且「完成生活史（即不需中間宿主即可在單一宿主完成）」。短小包膜絛蟲是唯一不需要中間宿主即可在人體內完成生活史的絛蟲。\n\n【選項詳解】\n- A. 正確。短小包膜絛蟲（Hymenolepis nana）為「直接生活史」的特例。人體攝入蟲卵後，六鉤蚴（oncosphere）在小腸孵出並直接侵入小腸絨毛，於其中發育為擬囊尾蚴（cysticercoid），之後擬囊尾蚴破出小腸絨毛進入腸腔，附著於腸壁發育為成蟲。這使得它不需要中間宿主即可在人體內發育並完成生活史，也極易造成重複性自體內感染（auto-infection）。\n- B. 錯誤。豬肉絛蟲（Taenia solium）的生活史中，人是成蟲的唯一天然終宿主（寄生於小腸），而豬是主要的中間宿主。豬隻吞食蟲卵後，在其肌肉等組織內發育為囊尾蚴（cysticercus），人因食入含囊尾蚴的生豬肉而感染。若人誤食蟲卵，則會發育為幼蟲（囊尾蚴）寄生於人體組織（如大腦、肌肉），但幼蟲無法在人體小腸絨毛內發育成熟並直接完成生活史。\n- C. 錯誤。多房性包生絛蟲（Echinococcus multilocularis）的成蟲寄生於狐狸、狗等犬科動物的小腸。人是其中間宿主（誤食蟲卵所致），其六鉤蚴在人體內會隨血流移行至肝臟、肺臟等實質器官發育為多房性棘球蚴（alveolar hydatid cyst），引起嚴重病變，但其成蟲不寄生於人體，其幼蟲更無法在人體小腸絨毛內發育並完成生活史。\n- D. 錯誤。曼森裂頭絛蟲（Spirometra mansonoides）的第一中間宿主為劍水蚤，第二中間宿主為蛇、蛙、鳥類等脊椎動物。人誤食含裂頭蚴（plerocercoid）的食物或水，會使裂頭蚴寄生於皮下組織、眼部或腦部，造成裂頭蚴病（sparganosis），但人並非其終宿主，其幼蟲無法在人體小腸絨毛發育為成蟲以完成生活史。\n\n【核心考點】\n短小包膜絛蟲（Hymenolepis nana）是絛蟲中唯一具有「直接生活史」特性的蟲種，其六鉤蚴可直接在終宿主（人或鼠）的小腸絨毛發育為擬囊尾蚴並發育成蟲，不需中間宿主，易造成自體內重複感染。",
+      "key_point": "短小包膜絛蟲（Hymenolepis nana）是絛蟲中唯一具直接生活史的蟲種，可在人體小腸絨毛發育，不需中間宿主。",
+      "flashcard_front": "何種絛蟲的幼蟲可在人體小腸絨毛內發育，無需中間宿主即可完成生活史？",
+      "flashcard_back": "短小包膜絛蟲（Hymenolepis nana）。其六鉤蚴在小腸絨毛發育為擬囊尾蚴，再回到腸腔發育成蟲，為直接生活史。",
+      "flashcard_summary": "短小包膜絛蟲生活史 -> 幼蟲可在人小腸絨毛發育為擬囊尾蚴，不需中間宿主，具直接生活史。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題考查瘧原蟲（Plasmodium spp.）的生活史，包括紅血球內生殖（無性）、蚊體內生殖（有性）、肝臟內休眠（復發）及瘧色素的代謝來源。選項 A 精確描述了在人體內裂殖子分化為配子母細胞的過程。\n\n【選項詳解】\n- A. 正確。瘧原蟲在人體紅血球內進行裂殖生殖，釋放出的裂殖子（merozoite）除繼續侵入新紅血球外，部分會在紅血球內發育分化為大配子母細胞（macrogametocyte）與小配子母細胞（microgametocyte），這是有性生殖的準備階段。\n- B. 錯誤。大/小配子母細胞必須先被瘧蚊吸血攝入蚊體內，並在蚊胃中成熟為配子（gamete）完成受精，形成合子（zygote）後，合子再發育為能運動的卵動子（ookinete）。卵動子穿過蚊胃壁發育為卵囊（oocyst），在卵囊內進行減數分裂與有絲分裂，最終產生大量的孢子體（sporozoite）。因此，受精與發育為卵動子的過程是發生在蚊體內，而非在人體受精後再被攝入。\n- C. 錯誤。造成間日瘧（P. vivax）或卵形瘧（P. ovale）「復發（relapse）」的主因，是部分孢子體進入肝細胞後不立即發育，而是轉變為休眠的「遲殖子（hypnozoite）」。當遲殖子在數月或數年後甦醒，才會開始進行裂殖生殖，進而釋放裂殖子進入血液引起症狀；這與一般的裂殖生殖期（schizogony，如裂殖體發育）不同。\n- D. 錯誤。瘧色素（hemozoin）是瘧原蟲在紅血球內消化宿主血紅素（hemoglobin，而非乳鐵蛋白 lactoferrin）時，將對其有毒性的游遊離血紅素（heme）聚合轉化成的無毒性不溶性結晶體，呈棕黑色，富含鐵離子。\n\n【核心考點】\n1. 瘧原蟲在人體內進行無性生殖（裂殖生殖），在蚊體內進行有性生殖（配子生殖與孢子生殖）。\n2. 復發（relapse）源自肝臟內的遲殖子（hypnozoite）休眠；瘧色素（hemozoin）是由紅血球內的血紅素（hemoglobin）分解產生的結晶。",
+      "key_point": "部分瘧原蟲裂殖子在人體紅血球發育為配子母細胞；復發與肝內遲殖子休眠有關；瘧色素源於血紅素分解。",
+      "flashcard_front": "瘧原蟲生活史中，何階段在人體紅血球形成？復發與何者有關？瘧色素原料為何？",
+      "flashcard_back": "1. 裂殖子發育為大/小配子母細胞。 2. 復發與肝臟內遲殖子（hypnozoite）休眠有關。 3. 瘧色素原料是血紅素（hemoglobin）。",
+      "flashcard_summary": "瘧原蟲生活史 -> 人體內形成配子母細胞；肝內遲殖子休眠致復發；分解血紅素產生瘧色素結晶。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題考查隱孢子蟲（Cryptosporidium）的寄生部位、生活史特性以及其在免疫缺陷患者中的臨床意義。隱孢子蟲是引起人類頑固性水瀉的常見病原，對愛滋病患者而言是致命的伺機性感染源。\n\n【選項詳解】\n- A. 錯誤。隱孢子蟲症的主要症狀是嚴重水樣腹瀉、腹痛、脫水等，但它不會引發乳糜瀉（celiac disease）。乳糜瀉是一種因對麩質（gluten）過敏而導致的自體免疫性腸病，與隱孢子蟲感染無直接病理關聯。\n- B. 錯誤。隱孢子蟲的發育部位非常特殊，蟲體寄生於小腸黏膜上皮細胞的「刷狀緣（brush border）」，處於細胞膜內但細胞質外的胞器（intracellular but extracytoplasmic）結構中。它不會入侵小腸的深層肌肉層（muscularis）。\n- C. 正確。隱孢子蟲（主要為 Cryptosporidium parvum 和 Cryptosporidium hominis）是免疫功能低下者，特別是愛滋病（AIDS）患者常見的伺機性寄生蟲感染症。在免疫健全者中，此病多為自限性；但在 CD4+ T細胞低下的愛滋患者中，可導致慢性、無法控制的嚴重水瀉，危及生命。\n- D. 錯誤。隱孢子蟲排出體外的卵囊呈圓形或橢圓形（直徑約 4-6 微米），且在隨糞便排出時就已經是「完全成熟」且具有感染力的卵囊，內部含有4個裸露的子孢子（sporozoite），不含有孢子囊（sporocyst），也完全不需在體外經過發育階段即可直接感染下一位宿主（此與糞等孢子蟲 Isospora 等需在體外成熟不同）。\n\n【核心考點】\n隱孢子蟲（Cryptosporidium）是愛滋病患重要的伺機性感染病原，寄生於腸道上皮刷狀緣（細胞膜內細胞質外），其排出之卵囊已完全成熟且具感染力（內含4個裸露子孢子，無孢子囊），不需體外發育。",
+      "key_point": "隱孢子蟲是愛滋病患常見伺機性感染源，寄生於腸上皮刷狀緣（細胞膜內細胞質外），排出之卵囊已具感染力。",
+      "flashcard_front": "隱孢子蟲主要寄生部位為何？其卵囊排出時是否已成熟？臨床上常見於哪類免疫缺陷患者？",
+      "flashcard_back": "1. 寄生於小腸黏膜上皮刷狀緣（細胞膜內但細胞質外）。 2. 排出時已成熟（內含4個裸露子孢子，無孢子囊）。 3. 愛滋病（AIDS）患者之伺機性感染。",
+      "flashcard_summary": "隱孢子蟲特徵 -> 愛滋病伺機感染；寄生於刷狀緣；排出之卵囊即具感染力（含4子孢子，無孢子囊）。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題考查傳染病病媒與俗稱的對應關係。關鍵線索在於「白蛉（sandfly）」所傳播的寄生蟲病，其所引起的內臟利什曼病又被稱作黑熱病（kala-azar）。\n\n【選項詳解】\n- A. 錯誤。黑水熱（blackwater fever）不是一種獨立的寄生蟲病，而是惡性瘧疾（Plasmodium falciparum）引起的嚴重併發症。由於急性血管內溶血，釋放大量血紅素隨尿液排出，導致尿液呈現黑紅色（血紅素尿），其病媒為瘧蚊（Anopheles spp.），而非白蛉。\n- B. 錯誤。黑死病（black death）即鼠疫，是由鼠疫桿菌（Yersinia pestis）引起的一種烈性細菌性傳染病，而非寄生蟲病，其主要的傳播病媒是帶菌的跳蚤（flea，特別是印度鼠蚤）。\n- C. 正確。黑熱病（kala-azar）即內臟利什曼病（visceral leishmaniasis），是由杜氏利什曼原蟲（Leishmania donovani）引起的寄生蟲病。其傳播媒介為吸血的雙翅目昆蟲白蛉（sandfly）。病原體在白蛉胃內發育為前鞭毛體（promastigote），並在叮咬人類時傳入人體，侵犯巨噬細胞。\n- D. 錯誤。斷骨熱（breakbone fever）是登革熱（dengue fever）的別稱，因患者常伴隨嚴重的肌肉與骨骼劇痛而得名。登革熱是由登革病毒（dengue virus）引起的病毒性傳染病，其主要傳播媒介為埃及斑蚊（Aedes aegypt）和白線斑蚊（Aedes albopictus），而非白蛉。\n\n【核心考點】\n白蛉（sandfly）是利什曼原蟲（Leishmania spp.）的傳播病媒，引起的內臟型利什曼病又被稱作黑熱病（kala-azar），臨床特徵為發熱、肝脾腫大、貧血與皮膚色素沉著。",
+      "key_point": "白蛉（sandfly）是利什曼原蟲的傳播病媒，引起的內臟利什曼病又稱黑熱病（kala-azar）。",
+      "flashcard_front": "白蛉（sandfly）傳播何種寄生蟲病？該病之俗稱與主要侵犯細胞為何？",
+      "flashcard_back": "黑熱病（kala-azar，即內臟利什曼病）。由杜氏利什曼原蟲引起，侵犯巨噬細胞。",
+      "flashcard_summary": "白蛉與黑熱病 -> 白蛉（sandfly）傳播利什曼原蟲，引起內臟利什曼病（俗稱黑熱病/kala-azar）。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題考查巴貝氏原蟲症（babesiosis）的傳播媒介。巴貝氏原蟲是一種寄生於紅血球內的蜱傳原蟲，主要由硬蜱屬（Ixodes spp.）叮咬傳播，這也是萊姆病的傳播病媒。\n\n【選項詳解】\n- A. 錯誤。革蜱屬（Dermacentor spp.）蜱蟲（如安氏革蜱 Dermacentor andersoni）主要是傳播落磯山斑疹熱（Rocky Mountain spotted fever，立克次體感染）與兔熱病（tularemia）的媒介，並非巴貝氏原蟲的主要病媒。\n- B. 正確。巴貝氏原蟲（如微小巴貝氏原蟲 Babesia microti）主要透過硬蜱屬（Ixodes spp.，如肩突硬蜱 Ixodes scapularis）的若蟲或成蟲叮咬而傳播。值得注意的是，硬蜱屬也是萊姆病（Lyme disease）病原體——伯氏疏螺旋體（Borrelia burgdorferi）的傳播媒介，兩者常發生共同感染（co-infection）。\n- C. 錯誤。花蜱屬（Amblyomma spp.）蜱蟲（如美洲花蜱 Amblyomma americanum）主要傳播人單核球埃里希體病（human monocytic ehrlichiosis）與南方蜱傳相關皮疹病（STARI），並非傳播巴貝氏原蟲之主要病媒。\n- D. 錯誤。血蜱屬（Haemaphysalis spp.）蜱蟲（如長角血蜱 Haemaphysalis longicornis）主要與發熱伴血小板減少綜合韁病毒（SFTSV）或萊姆病之局部傳播有關，並非人類巴貝氏原蟲症之主要病媒。\n\n【核心考點】\n硬蜱屬（Ixodes spp.）是人巴貝氏原蟲症（Babesia microti）及萊姆病（Lyme disease）的共同傳播媒介，臨床上若懷疑其中一種蜱傳疾病，需注意合併感染的可能性。",
+      "key_point": "硬蜱屬（Ixodes spp.）是傳播人巴貝氏原蟲症（Babesia microti）及萊姆病的共同病媒。",
+      "flashcard_front": "傳播人巴貝氏原蟲症（human babesiosis）的主要病媒為何屬蜱蟲？其與哪種螺旋體疾病共用病媒？",
+      "flashcard_back": "硬蜱屬（Ixodes spp.）。與萊姆病（Lyme disease）共用肩突硬蜱等病媒，臨床需注意共同感染。",
+      "flashcard_summary": "巴貝氏原蟲病媒 -> 硬蜱屬（Ixodes spp.）為主要病媒，與萊姆病螺旋體共用病媒，常有合併感染。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題考查列聯表資料分析方法的選擇。題目探討兩種手術方式（類別變數：機器人 vs 傳統）與術後併發症（類別變數：有併發症 vs 無併發症）的關聯。由於總樣本數極小（10人與12人），且事件發生數極低（1人與2人），這會導致列聯表中的期望值過小，故需選擇適合小樣本類別資料的費雪精確檢定。\n\n【選項詳解】\n- A. 錯誤。簡單線性迴歸（Simple linear regression）用於探討一個連續型自變數與一個連續型應變數之間的線性關係，並建立預測模型。本題中的自變數（手術方式）與應變數（是否發生併發症）皆為二分名目尺度（categorical/binary），因此不適用簡單線性迴歸。\n- B. 錯誤。對數等級檢定（Log rank test）是一種非參數檢定，用於比較兩組或多組生存曲線（time-to-event data，即考慮了事件發生與否以及追蹤時間的存活資料）是否有顯著差異。本題只記錄了併發症發生的人數，並未涉及時間因素（隨訪時間或生存時間），因此不適用此方法。\n- C. 錯誤。皮爾森卡方檢定（Chi-square test of independence）適用於分析大樣本的二維列聯表。其基本假設要求每個細格（cell）的「期望值（expected value）」不可過小。一般規則為：若有任一細格的期望值小於 5，或者總樣本數小於 40，卡方檢定的近似值會不準確。本題中，機器人手術組共 10 人，1人有併發症，9人無；傳統手術組共 12 人，2人有併發症，10人無。總人數僅 22 人，且併發症發生率極低，顯然有多個細格的期望值小於 5（例如有併發症之機器人組期望值為 10 * 3 / 22 = 1.36），因此不適合使用卡方檢定。\n- D. 正確。費雪精確檢定（Fisher's exact test）是利用超幾何分布直接計算在邊際頻數固定下，觀察到當前列聯表及更極端情況的精確機率。它不依賴大樣本的卡方分布近似，特別適用於小樣本（例如總樣本數 N < 40）或列聯表中任一細格期望值小於 5 的二分名目資料關聯性分析。\n\n【核心考點】\n分析 2x2 列聯表（類別資料關聯性）時：\n1. 大樣本（總數 > 40 且所有細格期望值 >= 5）選用卡方檢定（Chi-square test）。\n2. 小樣本（總數 < 40 或有細格期望值 < 5）必須選用費雪精確檢定（Fisher's exact test）以求得精確的顯著性機率。",
+      "key_point": "2x2列聯表分析中，若總樣本數小於40或有細格期望值小於5，應優先選用費雪精確檢定（Fisher's exact test）。",
+      "flashcard_front": "分析2x2列聯表時，若樣本數過小或有細格期望值小於5，最恰當的統計檢定為何？",
+      "flashcard_back": "費雪精確檢定（Fisher's exact test）。",
+      "flashcard_summary": "小樣本列聯表統計 -> 樣本小或期望值小於5時，選用費雪精確檢定（Fisher's exact test）而非卡方檢定。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題考查流行病學研究設計的分類特徵，特別是「雙向研究法（ambispective study）」的定義。巢疊病例對照研究結合了前瞻性（在世代研究中前瞻收集暴露資料與檢體）與回顧性（在疾病發生後回顧檢測檢體）的特徵，屬於典型的雙向研究設計。\n\n【選項詳解】\n- A. 錯誤。橫斷研究（cross-sectional study）是在單一時間點上，同時測量研究對象的暴露因子與疾病狀態，無法確認因果先後順序。它屬於單向研究（現況調查），既非回顧也非前瞻。\n- B. 錯誤。世代研究（cohort study）主要為前瞻性（亦有回顧性世代研究，但仍是沿著時間軸從暴露追蹤至疾病發生），從未發病的暴露組與非暴露組出發，追蹤觀察其未來的疾病發生狀況。它一般被歸為單向的前瞻性研究。\n- C. 錯誤。病例對照研究（case-control study）是典型的回顧性（retrospective）研究，先確定已發病的病例組與未發病的對照組，再往回調查其過去的暴露史。它屬於單向的回顧性研究。\n- D. 正確。巢疊病例對照研究（nested case-control study，又稱嵌套式病例對照研究）是將病例對照研究「巢疊/嵌套」於一個前瞻性世代研究（cohort study）之中。研究開始時先建立一個前瞻性世代，並收集所有成員的基線暴露資料與檢體。隨著時間推移，當世代成員中新發生疾病時，這些發病者即成為病例組；接著從該成員發病時點仍未發病的同世代成員中，匹配選出對照組。之後，回顧性地分析這些人已在前瞻性階段收集好的基線檢體與暴露資料。因為它在時間軸上嵌套於前瞻性世代中，又採用了病例對照的回顧性分析方式，能夠有效結合兩者的優點（避免回憶偏差且節約檢體檢測成本），被歸類為「雙向研究法（ambispective design）」。\n\n【核心考點】\n巢疊病例對照研究（nested case-control study）結合了前瞻性世代研究（前瞻收集暴露資料與檢體）與回顧性病例對照研究（在有病例發生時才回顧分析對照組檢體）的優勢，是一種兼具雙重特性的流行病學雙向研究設計，能有效控制回憶偏差並降低檢測成本。",
+      "key_point": "巢疊病例對照研究將病例對照設計嵌套於前瞻性世代中，回顧分析已收集的檢體，屬於流行病學雙向研究法。",
+      "flashcard_front": "何種流行病學研究設計是將病例對照研究嵌套於前瞻性世代研究中，屬於雙向研究法？",
+      "flashcard_back": "巢疊病例對照研究（nested case-control study）。",
+      "flashcard_summary": "雙向研究設計 -> 巢疊病例對照研究（nested case-control study）嵌套於世代研究中，屬於雙向研究法。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題考查流行病學中「匹配（matching）」的設計原理與主要目的。匹配是指在設計階段，使暴露組與非暴露組在某些已知的非研究變項上分布一致，主要目的在於控制或避免干擾，以確保兩組的基線水平對等。\n\n【選項詳解】\n- A. 正確。匹配（matching）最主要的目的在於「控制或避免干擾（confounding）」。性別、年齡、居住地等變項如果與研究的暴露因子及目標疾病皆有關聯，便會成為干擾因子（confounder）。藉由匹配，使這些潛在干擾因子在兩組（暴露組與非暴露組，或病例組與對照組）的分布完全一致，便能消除它們對關聯性估計的干擾，從而得到更準確的暴露與疾病關聯強度。\n- B. 錯誤。匹配限制了對照組的選取範圍，使其與暴露組在性別、年齡等特徵上高度相似，這實際上是「降低」了樣本在這些變項上的異質性（heterogeneity），使兩組變項分布均質化，而非增加樣本的異質性。\n- C. 錯誤。匹配會導致收案的對照組無法代表一般人群的真實分布（例如，若暴露組全為老年男性，則匹配出來的非暴露組也必須全是老年男性，整個樣本缺乏女性與年輕人），因此匹配反而會限制或「降低」研究結果的外推性（external validity/generalisability）。\n- D. 錯誤。樣本的不回應率（non-response rate）主要與問卷設計、受訪者配合度、追蹤機制等收集資料的實務操作有關。匹配在設計上會增加篩選研究對象的難度（可能找不到合適的匹配對象，即過度匹配問題 overmatching），對降低不回應率沒有正面效果。\n\n【核心考點】\n在流行病學研究設計階段，匹配（matching）的最主要目的是為了控制干擾因子（confounding factors），使其在兩組間分布均勻以避免干擾偏差；但匹配的缺點是會降低樣本異質性、減少外推性，且若匹配了非干擾因子可能導致過度匹配（overmatching）而降低統計檢定力。",
+      "key_point": "流行病學設計中的匹配（matching）最主要目的是控制與控制干擾因子，但會降低外推性與樣本異質性。",
+      "flashcard_front": "流行病學研究在設計階段針對性別、年齡等變項進行匹配（matching）的最主要目的為何？",
+      "flashcard_back": "控制或避免干擾因子（confounding factors）帶來的偏差。",
+      "flashcard_summary": "匹配的目的 -> 流行病學匹配（matching）最主要目的是控制干擾（confounding）。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題考查環境毒物（特別是鉛）的暴露效應與毒理學特性。由於鉛在體內不同組織的半衰期差異極大，且選項 C 與 D 在學術表述上皆有瑕疵，因此官方最終公布更正答案為 C 或 D 均給分。作答時需分析各選項的毒理學機制與更正背景。\n\n【選項詳解】\n- A. 說明此選項敘述適當。在高溫、高濕度的環境下，皮膚的血管會擴張、血流量增加，且皮膚角質層的水合作用（hydration）增強，這會顯著降低皮膚的屏障功能，進而導致經皮吸收環境毒性物質（如農藥、有機溶劑）的速度與總量增加。\n- B. 說明此選項敘述適當。相較於成人，兒童體重輕、代謝器官（肝、腎）發育未完全，且其血腦障壁（blood-brain barrier）通推性較高，呼吸速率與單位體重進食量亦較高，加上常有手口接觸行為，因此對多數環境毒物（如重金屬鉛、空氣污染物）的易感受性（susceptibility）與毒性敏感度通常高於成人。\n- C. 說明此選項被判定為最不恰當（給分）之理由。慢性鉛中毒確實會損害腎臟近端腎小管，導致重吸收功能障礙，病理特徵包括近端腎小管上皮細胞核內出現嗜酸性的「鉛-蛋白質複合物包含體（lead-containing inclusion bodies）」。這會引發獲得性范可尼氏症候群（Fanconi syndrome），其典型表現應為糖尿（glucosuria）、胺基酸尿（aminoaciduria）與磷酸鹽尿（phosphaturia），但通常「不以明顯蛋白尿（proteinuria）為主要特徵」，或者僅有輕微的管型/小分子蛋白尿，若出現嚴重蛋白尿通常代表已進展至晚期慢性間質性腎炎或腎小球硬化。由於此選項表述不夠精準，故被官方認定為不恰當而給分。\n- D. 說明此選項被判定為最不恰當（給分）之理由。鉛在人體內的半衰期並非單一數值，而是依組織不同呈「多房室模型（multicompartment model）」：在血液與軟組織中的半衰期約為 30 至 40 天；在海綿骨（trabecular bone）中約為數年；而在皮質骨（cortical bone）中的半衰期則長達 20 至 30 年。因此，直接寫「鉛暴露在人體的半衰期約為 200 天」是完全不符合人體毒物動力學事實的，此為最明顯的錯誤陳述。\n\n【核心考點】\n1. 鉛（Lead）在人體內的清除呈多房室動力學：血液半衰期約 30 天，骨骼半衰期長達 20-30 年。\n2. 慢性鉛中毒會侵犯近端腎小管，使細胞核內產生含鉛包含體，導致重吸收障礙（Fanconi syndrome，表現為糖尿、胺基酸尿，而顯著蛋白尿通常較少見）。\n\n【補充提醒】\n本題官方公布之更正答案為 C 或 D 均給分。原標準答案為 D，複審考量 C 的蛋白尿描述不夠精確，且 D 顯屬錯誤，故兩者均給分。",
+      "key_point": "鉛清除呈多房室動力學（骨骼半衰期長達數十年），慢性中毒可致近端腎小管含鉛包含體與重吸收障礙，本題C或D均給分。",
+      "flashcard_front": "鉛在人體內的骨骼半衰期長短？慢性鉛中毒引起的近端腎小管病變（Fanconi症候群）主要表現為何？",
+      "flashcard_back": "1. 骨骼半衰期長達20-30年（血液約30天）。 2. 范可尼氏症候群（表現為糖尿、胺基酸尿，而顯著蛋白尿通常較少見）。本題官方答案更正為C或D皆給分。",
+      "flashcard_summary": "鉛暴露效應 -> 鉛在骨骼半衰期長達數十年；慢性中毒致近端腎小管含鉛包含體與重吸收障礙，本題C或D均給分。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": [
+        "第 39 題官方公布更正答案為 C 或 D 均給分"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題考查臺灣常見職業重金屬暴露的危害與來源。電鍍工廠勞工鼻中膈穿孔之主要職業危害因子是六價鉻酸，而非硫酸；而銀樓回收黃金的過程（火燒吹金）涉及汞齊化（amalgamation） or 黃金精煉，具有明確的汞暴露風險。由於選項 B 與 C 在語意與實務討論上存在爭議，官方最終更正為 B 或 C 均給分。\n\n【選項詳解】\n- A. 說明此選項敘述適當。鎘（Cadmium）具有熔點低（約 321°C）與易延展的物理特性，在工業上常被加入合金中作為銲接用的銀銲料（silver solder）。吸入鎘銲接產生的氧化鎘煙霧是導致急性鎘肺炎或慢性鎘中毒（如痛痛病、腎小管功能障礙）的重要職業暴露途徑。\n- B. 說明此選項被判定為最不恰當（給分）之理由。傳統上銀樓在回收黃金或煉金時，常使用「汞齊法」（將黃金與汞混合形成汞齊，再加熱將汞蒸發以純化黃金），這會使業者暴露於高濃度的汞蒸氣中。因此「有汞金屬暴露風險」在實務上是完全正確的職業病危害描述。然而，有部分考量認為現代銀樓多採用王水法或送交專業精煉廠，小規模銀樓已少用汞，且原題目設計之不恰當答案應為 C。官方為免爭議，最終將 B 與 C 均列為給分答案。\n- C. 說明此選項被判定為最不恰當（給分）之理由。電鍍工廠勞工發生「鼻中膈穿孔（nasal septal perforation）」是極為典型的職業病，其最主要的致病因子是電鍍槽中逸散出的「鉻酸霧（chromic acid mists，即六價鉻 Cr-VI）」對鼻黏膜造成的強烈腐蝕與破壞，而非「硫酸暴露」。雖然硫酸具腐蝕性，但極少引起鼻中膈穿孔。此為最明確錯誤之敘述，也是原本設定的唯一正解。\n- D. 說明此選項敘述適當。鉛蓄電池製造是傳統高鉛暴露的職業。鉛具生殖毒性，且能輕易通過胎盤屏障進入胎兒體內。若女性勞工在孕期或受孕前體內積聚高濃度的鉛，會嚴重干擾胎兒的神經系統發育，導致其出生後嬰兒在認知發展、智商與行為上受損。\n\n【核心考點】\n1. 電鍍工業中最具指標性的職業病危害為六價鉻（鉻酸霧）引起的鼻中膈穿孔與鉻潰瘍。\n2. 黃金回收（傳統汞齊法）存在汞暴露風險；鉛蓄電池業為高鉛暴露行業，鉛具胚胎與神經毒性。\n\n【補充提醒】\n本題官方公布之更正答案為 B 或 C 均給分。原標準答案為 C（主因是鼻中膈穿孔由鉻酸而非硫酸引起），複審因 B 的暴露實務爭議，判定 B 或 C 均給分。",
+      "key_point": "電鍍廠勞工鼻中膈穿孔的特徵性危害主因是暴露於鉻酸霧（六價鉻），而傳統黃金回收（汞齊法）具汞暴露風險。",
+      "flashcard_front": "電鍍工廠勞工鼻中膈穿孔的主要職業病危害因子為何？黃金回收具何種重金屬風險？",
+      "flashcard_back": "1. 六價鉻（鉻酸霧，硫酸不會引起鼻中膈穿孔）。 2. 黃金回收具汞暴露風險。本題官方答案更正為B或C皆給分。",
+      "flashcard_summary": "重金屬職業暴露 -> 電鍍廠鼻中膈穿孔主因是鉻酸（六價鉻）；黃金回收具汞風險，本題B或C均給分。",
+      "review_status": "done",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": [
+        "第 40 題官方公布更正答案為 B 或 C 均給分"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n皮肌炎典型皮膚表現包括 Gottron papules 與 heliotrope rash，成人需注意惡性腫瘤，小兒較常見皮膚鈣化。皮膚病灶常會癢，不能說大多沒有搔癢。\n\n【選項詳解】\n- A. Gottron papules 與 heliotrope sign 是皮肌炎經典皮膚表現。\n- B. 皮肌炎皮疹可有明顯搔癢，說大多沒有搔癢症狀不正確。\n- C. 成人皮肌炎與惡性腫瘤風險增加相關，包含卵巢癌、鼻咽癌等，敘述正確。\n- D. Calcinosis cutis 較常見於 juvenile dermatomyositis，敘述正確。\n\n【核心考點】\n皮肌炎皮疹可以癢；成人注意癌症，小兒注意 calcinosis。",
+      "key_point": "皮肌炎皮疹可以癢；成人注意癌症，小兒注意 calcinosis。",
+      "flashcard_front": "Dermatomyositis 皮膚表現",
+      "flashcard_back": "Gottron、heliotrope，可搔癢；成人癌症風險增加。",
+      "flashcard_summary": "皮肌炎 -> 經典皮疹 + 可癢 + 惡性腫瘤關聯。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n兒童臉部脫屑性白斑，Wood lamp 無特殊螢光，需先鑑別黴菌感染如 tinea faciei 或 pityriasis versicolor，最優先且快速的是 KOH 鏡檢。\n\n【選項詳解】\n- A. 皮膚切片侵入性較高，通常不是兒童脫屑白斑的第一步檢查。\n- B. KOH 鏡檢可快速檢出皮屑中的黴菌菌絲，是優先檢查。\n- C. 貼膚試驗用於接觸性皮膚炎過敏原評估，不是此題第一線。\n- D. 黴菌培養可作確認或菌種鑑定，但比 KOH 慢，通常不是優先第一步。\n\n【核心考點】\n脫屑性白斑先用 KOH 快速排除黴菌感染。",
+      "key_point": "脫屑性白斑先用 KOH 快速排除黴菌感染。",
+      "flashcard_front": "兒童臉部脫屑白斑檢查",
+      "flashcard_back": "優先 KOH 鏡檢。",
+      "flashcard_summary": "皮膚黴菌鑑別 -> KOH 快速、培養較慢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n乾癬指甲可見 pitting、oil drop/salmon patch、onycholysis 與 subungual hyperkeratosis。此題官方接受 A-D，表示原單選判讀有爭議；作答時應以官方更正答案為準，同時理解各敘述可能的爭點。\n\n【選項詳解】\n- A. 列出的變化都是乾癬常見指甲病變，nail pitting 也常見；若問錯誤，此項本身不典型錯。\n- B. Nail pitting 反映 nail matrix 角化異常，敘述通常正確。\n- C. 指甲乾癬與乾癬性關節炎風險相關，但「強烈相關性」用語可能因證據與定義而有爭議。\n- D. Oil spots/oil drop sign 對乾癬相當具特徵性，但高度專一性的程度在考題語境可能有爭議；官方接受全選。\n\n【核心考點】\n乾癬指甲病變包含 pitting、oil drop、onycholysis、subungual hyperkeratosis；此題官方接受全選。",
+      "key_point": "乾癬指甲病變包含 pitting、oil drop、onycholysis、subungual hyperkeratosis；此題官方接受全選。",
+      "flashcard_front": "乾癬指甲病變爭議題",
+      "flashcard_back": "常見 pitting、oil drop、onycholysis、subungual hyperkeratosis；官方 A-D。",
+      "flashcard_summary": "Psoriasis nail -> 多種典型病變；本題官方更正全選。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方答案為 A-D，全選題；部分敘述用語如強烈相關或高度專一性可能造成爭議。"
+      ]
+    },
+    {
+      "question_id": "110-1_medicine-4_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n出生即有臉部葡萄酒色斑，合併癲癇與對側肢體無力，典型為 Sturge-Weber syndrome，與 leptomeningeal angioma 相關。\n\n【選項詳解】\n- A. 結節硬化症可有癲癇與皮膚表現如 ash-leaf spots、angiofibroma，但不是臉部朱紅胎記加 leptomeningeal angioma 的典型組合。\n- B. 神經纖維瘤症典型是 cafe-au-lait spots、neurofibromas、Lisch nodules，不符合葡萄酒色斑與癲癇組合。\n- C. VHL 與血管母細胞瘤、腎細胞癌、嗜鉻細胞瘤等相關，不是此臉部胎記症候群。\n- D. Sturge-Weber 典型有三叉神經分布 port-wine stain、癲癇、偏癱與腦膜血管瘤。\n\n【核心考點】\n臉部 port-wine stain 合併癲癇與偏癱要想到 Sturge-Weber syndrome。",
+      "key_point": "臉部 port-wine stain 合併癲癇與偏癱要想到 Sturge-Weber syndrome。",
+      "flashcard_front": "Port-wine stain + seizure + hemiparesis",
+      "flashcard_back": "Sturge-Weber disease。",
+      "flashcard_summary": "神經皮膚症候群 -> Sturge-Weber = 臉部酒紅斑 + 癲癇。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nVHL 是腫瘤抑制基因疾病，可形成中樞神經系統血管母細胞瘤等血管性腫瘤，較容易有出血併發症。其他選項主要是血栓傾向，而非腦出血。\n\n【選項詳解】\n- A. Protein C 缺乏主要造成靜脈血栓傾向，不是腦出血高風險疾病。\n- B. Protein S 缺乏同樣是血栓傾向，與出血性腦病變不符。\n- C. VHL 可有中樞神經血管母細胞瘤等血管性病灶，可能併發出血，最符合。\n- D. Antithrombin III 缺乏造成血栓形成風險增加，不是腦出血傾向。\n\n【核心考點】\nVHL 會形成血管性腫瘤，較需注意中樞神經出血併發症。",
+      "key_point": "VHL 會形成血管性腫瘤，較需注意中樞神經出血併發症。",
+      "flashcard_front": "遺傳病 + 腦出血併發症",
+      "flashcard_back": "von Hippel-Lindau disease。",
+      "flashcard_summary": "VHL -> 血管母細胞瘤與出血風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n腦靜脈竇栓塞可造成頭痛、癲癇、顱內壓上升與靜脈性出血。診斷常需 MRI/MRV 或 CTV；治療即使有出血性梗塞也通常需抗凝血。\n\n【選項詳解】\n- A. CVT 可合併靜脈性腦出血，因此說不會合併腦出血錯誤。\n- B. MRI/MRV 通常比一般 CT 更能評估靜脈竇與腦實質變化，CT 不是較高診斷價值的單一最佳答案。\n- C. 腦壓高時若有腦疝脫風險，不應以腰椎穿刺緊急引流作常規處置。\n- D. CVT 治療核心是抗凝血，常用 heparin 後接口服抗凝血，即使有出血性病灶也需個案評估。\n\n【核心考點】\n腦靜脈竇栓塞可出血，但治療仍以抗凝血為核心。",
+      "key_point": "腦靜脈竇栓塞可出血，但治療仍以抗凝血為核心。",
+      "flashcard_front": "Cerebral venous thrombosis 治療",
+      "flashcard_back": "可合併出血；仍常給抗凝血。",
+      "flashcard_summary": "CVT -> MRI/MRV 診斷，抗凝血治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n姿勢性頭痛是顱內低壓的核心線索：躺下改善、站起加劇。注射顯影 MRI 的 diffuse pachymeningeal enhancement 也支持自發性顱內低壓。\n\n【選項詳解】\n- A. 偏頭痛可劇烈，但通常不是典型站立惡化、平躺改善，也不會典型造成瀰漫硬腦膜顯影。\n- B. 蜘蛛網膜下腔出血是雷擊頭痛，需急診排除，但姿勢性緩解與硬腦膜顯影較不典型。\n- C. 自發性顱內低壓因 CSF leak 造成姿勢性頭痛與瀰漫硬腦膜顯影，最符合。\n- D. 叢發性頭痛為單側眼眶周圍劇痛合併自律神經症狀，非此影像與姿勢特徵。\n\n【核心考點】\n姿勢性頭痛加 diffuse pachymeningeal enhancement 要想到自發性顱內低壓。",
+      "key_point": "姿勢性頭痛加 diffuse pachymeningeal enhancement 要想到自發性顱內低壓。",
+      "flashcard_front": "站立頭痛、躺下改善 + 硬腦膜顯影",
+      "flashcard_back": "自發性顱內低壓。",
+      "flashcard_summary": "SIH -> orthostatic headache + pachymeningeal enhancement。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n嚴重顱內壓上升可出現 Cushing triad：高血壓、心搏過慢、呼吸不規則。低血壓與心搏加速不是典型嚴重 IICP 表現。\n\n【選項詳解】\n- A. 嚴重 IICP 典型是高血壓與 bradycardia，而不是低血壓、心搏加速，因此此項錯誤。\n- B. Cushing reflex 暗示腦幹受壓與腦疝脫風險，是危險徵象。\n- C. 疑似顱內壓升高者腰椎穿刺前需先做腦部影像，以降低誘發腦疝脫風險。\n- D. 眼底鏡可檢查 papilledema，是慢性或顯著顱壓上升的線索。\n\n【核心考點】\nCushing triad 是高血壓、心搏過慢、呼吸不規則。",
+      "key_point": "Cushing triad 是高血壓、心搏過慢、呼吸不規則。",
+      "flashcard_front": "IICP Cushing reflex",
+      "flashcard_back": "高血壓、bradycardia、呼吸不規則；不是低血壓心搏快。",
+      "flashcard_summary": "顱內壓上升 -> LP 前先影像，注意 papilledema。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n抽搐性重積癲癇是神經急症，但兒童死亡率並非 50% 以上。評估需找感染、代謝、中毒、結構病灶等原因；發燒者即使無明顯腦膜炎徵象，仍常需考慮 CSF 檢查。\n\n【選項詳解】\n- A. 兒童 convulsive status epilepticus 的死亡率遠低於 50% 以上，這個數字過度誇大，因此錯誤。\n- B. 長時間抽搐會造成兒茶酚胺上升、酸中毒與高熱，可能誘發心律不整與全身併發症。\n- C. 發燒合併重積癲癇需積極排除 CNS 感染，臨床上常需腰椎穿刺，除非有禁忌。\n- D. 成人或無發燒兒童的重積癲癇需評估結構性病因，神經影像是重要檢查。\n\n【核心考點】\n兒童重積癲癇很嚴重，但死亡率不是 50% 以上。",
+      "key_point": "兒童重積癲癇很嚴重，但死亡率不是 50% 以上。",
+      "flashcard_front": "兒童 status epilepticus 死亡率",
+      "flashcard_back": "不是 50% 以上；需找感染與結構病因。",
+      "flashcard_summary": "重積癲癇 -> 急症但死亡率不可誇大。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n阻塞型睡眠呼吸中止症可在各睡眠期發生，REM 期因肌張力降低可能較嚴重，但不是只發生在 REM。中樞型可見於腦幹病變；CPAP 是常用有效治療。\n\n【選項詳解】\n- A. 腦幹控制呼吸節律，腦幹中風或發炎可造成 central sleep apnea，敘述正確。\n- B. 肥胖短頸與 acromegaly 會使上呼吸道狹窄，增加 OSA 風險，敘述正確。\n- C. OSA 可發生於 NREM 與 REM，REM 期可能加重但不是只發生於 REM，因此此項錯誤。\n- D. CPAP 可維持上呼吸道正壓開放，是 OSA 最常用且有效的治療之一。\n\n【核心考點】\nOSA 不只發生在 REM；REM 期可能較嚴重但不是唯一時期。",
+      "key_point": "OSA 不只發生在 REM；REM 期可能較嚴重但不是唯一時期。",
+      "flashcard_front": "OSA 發生睡眠期",
+      "flashcard_back": "可在 REM 與 NREM；不是只在 REM。",
+      "flashcard_summary": "Sleep apnea -> OSA 可全睡眠期發生，CPAP 有效。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

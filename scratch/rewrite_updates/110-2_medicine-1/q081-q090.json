@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-1.json",
+  "dataset_id": "110-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n大腸桿菌染色體 DNA 複製的主要複製型聚合酶是 DNA polymerase III；DNA polymerase I 主要移除 RNA primer 並補缺口。本題官方答案為 C。\n\n【選項詳解】\n- A. DNA polymerase I 參與 RNA primer 移除與 DNA 修補，不是主要複製聚合酶。\n- B. DNA polymerase II 多與 DNA 修復/壓力反應相關，不是染色體複製主力。\n- C. DNA polymerase III 是 E. coli 染色體複製的主要聚合酶，故正確。\n- D. DNA polymerase IV 屬 translesion synthesis 相關，不是主要複製酶。\n\n【核心考點】\nE. coli replication main polymerase = DNA pol III；primer removal = DNA pol I。",
+      "key_point": "E. coli replication main polymerase = DNA pol III；primer removal = DNA pol I。",
+      "flashcard_front": "大腸桿菌裡染色體DNA複製最主要的聚合酶為:",
+      "flashcard_back": "E. coli replication main polymerase = DNA pol III；primer removal = DNA pol I。",
+      "flashcard_summary": "E. coli replication main polymerase = DNA pol III；primer removal = DNA pol I。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n同源性重組中，RecA 會結合單股 DNA 形成核蛋白螺旋絲，促進同源序列搜尋與 strand invasion。本題官方答案為 C。\n\n【選項詳解】\n- A. DNA polymerase 負責合成 DNA，不是包覆 ssDNA 形成重組螺旋絲的蛋白。\n- B. RuvC 是 Holliday junction resolvase，作用在後期切解結構。\n- C. RecA 包覆 ssDNA 形成 helical filament，是同源重組核心蛋白，故正確。\n- D. RecBCD 參與 DNA 末端處理與產生可供 RecA 裝載的 ssDNA，但不是題目所問包覆形成螺旋絲者。\n\n【核心考點】\nHomologous recombination：RecA coats ssDNA and mediates strand invasion。",
+      "key_point": "Homologous recombination：RecA coats ssDNA and mediates strand invasion。",
+      "flashcard_front": "大腸桿菌進行同源性重組(homologous recombination)時,下列何種蛋白質會包覆於此過程中產生之單股  DNA上,形成螺旋的細絲(helical filam...",
+      "flashcard_back": "Homologous recombination：RecA coats ssDNA and mediates strand invasion。",
+      "flashcard_summary": "Homologous recombination：RecA coats ssDNA and mediates strand invasion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nUvrA、UvrB、UvrC 組成細菌 nucleotide excision repair 系統，可辨認 UV thymine dimer 等 bulky DNA lesion，切除受損寡核苷酸片段。本題官方答案為 D。\n\n【選項詳解】\n- A. 直接修復如 photolyase 直接修復 thymine dimer，不是 UvrABC excinuclease 主要分類。\n- B. 重組修復處理複製後缺口等，核心不是 UvrABC。\n- C. 錯誤配對修復以 MutS/MutL/MutH 等為典型，不是 UvrABC。\n- D. UvrABC excinuclease 是核苷酸切除修復的細菌系統，故正確。\n\n【核心考點】\nUvrABC = bacterial nucleotide excision repair for bulky lesions。",
+      "key_point": "UvrABC = bacterial nucleotide excision repair for bulky lesions。",
+      "flashcard_front": "UvrABC核酸內切酶(UvrABC excinuclease)參與下列何種DNA修復機制?",
+      "flashcard_back": "UvrABC = bacterial nucleotide excision repair for bulky lesions。",
+      "flashcard_summary": "UvrABC = bacterial nucleotide excision repair for bulky lesions。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n真核轉譯起始依賴 5' cap、eIFs、掃描至 AUG；某些情境可用 IRES。Shine-Dalgarno sequence 是原核 mRNA 與 16S rRNA 配對的起始訊號，不是真核一般起始所需。本題官方答案為 D。\n\n【選項詳解】\n- A. 5' cap 是真核 cap-dependent translation initiation 的重要結構。\n- B. IRES 可在部分病毒或特殊 mRNA 中促進真核核糖體進入，仍屬真核可用機制。\n- C. eIF2 攜帶 initiator Met-tRNA 至小次單元，是真核起始重要因子。\n- D. Shine-Dalgarno sequence 是原核轉譯起始序列，對真核細胞最不重要，故為答案。\n\n【核心考點】\nEukaryotic initiation uses 5' cap/eIF/scanning; Shine-Dalgarno is prokaryotic。",
+      "key_point": "Eukaryotic initiation uses 5' cap/eIF/scanning; Shine-Dalgarno is prokaryotic。",
+      "flashcard_front": "下列何者對真核細胞中的蛋白質轉譯起始(translation initiation)最不重要?",
+      "flashcard_back": "Eukaryotic initiation uses 5' cap/eIF/scanning; Shine-Dalgarno is prokaryotic。",
+      "flashcard_summary": "Eukaryotic initiation uses 5' cap/eIF/scanning; Shine-Dalgarno is prokaryotic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\nchloramphenicol、cycloheximide、puromycin 都抑制蛋白質合成不同步驟；penicillin 抑制細菌細胞壁 peptidoglycan 交聯，不直接抑制蛋白質生合成。本題官方答案為 C。\n\n【選項詳解】\n- A. chloramphenicol 抑制原核 50S peptidyl transferase，會抑制蛋白質合成。\n- B. cycloheximide 抑制真核 60S translocation，會抑制蛋白質合成。\n- C. penicillin 抑制細胞壁合成，不抑制蛋白質生合成，故為答案。\n- D. puromycin 類似 aminoacyl-tRNA，造成 premature chain termination，會抑制蛋白質合成。\n\n【核心考點】\nPenicillin targets cell wall transpeptidation, not protein synthesis。",
+      "key_point": "Penicillin targets cell wall transpeptidation, not protein synthesis。",
+      "flashcard_front": "下列何種物質不會抑制蛋白質的生合成?",
+      "flashcard_back": "Penicillin targets cell wall transpeptidation, not protein synthesis。",
+      "flashcard_summary": "Penicillin targets cell wall transpeptidation, not protein synthesis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n拓樸異構酶透過暫時切斷 DNA 磷酸雙酯鍵、讓 DNA 旋轉或穿越後再接回，以解除複製與轉錄時的超螺旋張力。本題官方答案為 A。\n\n【選項詳解】\n- A. 暫時切斷並重新接合 DNA 以紓緩纏繞壓力，是 topoisomerase 核心功能，故正確。\n- B. 保護染色體尾端是 telomere/telomere-binding proteins 的功能，不是 topoisomerase。\n- C. 組蛋白修飾由 histone acetyltransferase、deacetylase、methyltransferase 等執行，不是 topoisomerase 主要功能。\n- D. 致癌基因轉譯後修飾不是 topoisomerase 的典型作用。\n\n【核心考點】\nTopoisomerase cuts and rejoins DNA to relieve supercoiling。",
+      "key_point": "Topoisomerase cuts and rejoins DNA to relieve supercoiling。",
+      "flashcard_front": "有關拓樸異構酶(topoisomerase)功能的敘述,下列何者正確?",
+      "flashcard_back": "Topoisomerase cuts and rejoins DNA to relieve supercoiling。",
+      "flashcard_summary": "Topoisomerase cuts and rejoins DNA to relieve supercoiling。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n核糖體由 rRNA 與蛋白質構成，大小次單元都含 rRNA；rRNA 不只是結構，也具催化功能，peptidyl transferase 活性由大次單元 rRNA 執行。本題官方答案為 C。\n\n【選項詳解】\n- A. 大小次單元都含 rRNA，不是只有大次單元。\n- B. rRNA 也有催化功能，尤其 peptidyl transferase，不只結構角色。\n- C. 大次單元由多個 rRNA 與蛋白質組成，此描述最適當，故正確。\n- D. peptidyl transferase 的催化核心是 rRNA，核糖體是 ribozyme，不是蛋白質執行。\n\n【核心考點】\nRibosome is a ribonucleoprotein; peptidyl transferase is rRNA-catalyzed。",
+      "key_point": "Ribosome is a ribonucleoprotein; peptidyl transferase is rRNA-catalyzed。",
+      "flashcard_front": "有關核糖體(ribosomes)的描述,下列何者最適當?",
+      "flashcard_back": "Ribosome is a ribonucleoprotein; peptidyl transferase is rRNA-catalyzed。",
+      "flashcard_summary": "Ribosome is a ribonucleoprotein; peptidyl transferase is rRNA-catalyzed。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\nPDH complex 將 pyruvate 氧化脫羧為 acetyl-CoA，整體產物包括 CO2、acetyl-CoA 與 NADH。反應先脫羧釋放 CO2，再轉移乙醯基形成 acetyl-CoA，最後再生輔因子產生 NADH。本題官方答案為 D。\n\n【選項詳解】\n- A. CO2 來自初始脫羧，應先於 acetyl-CoA 釋放，此順序不對。\n- B. PDH 最終還原 NAD+ 產生 NADH，不釋放 FADH2 作為產物。\n- C. FAD 是酵素輔因子中間傳遞電子，最終不是釋放 FADH2。\n- D. 依序可概念化為 CO2、acetyl-CoA、NADH，故正確。\n\n【核心考點】\nPDH: pyruvate + CoA + NAD+ -> acetyl-CoA + CO2 + NADH。",
+      "key_point": "PDH: pyruvate + CoA + NAD+ -> acetyl-CoA + CO2 + NADH。",
+      "flashcard_front": "Pyruvate dehydrogenase(PDH)催化pyruvate轉化為acetyl-CoA的過程中會依序釋放出:",
+      "flashcard_back": "PDH: pyruvate + CoA + NAD+ -> acetyl-CoA + CO2 + NADH。",
+      "flashcard_summary": "PDH: pyruvate + CoA + NAD+ -> acetyl-CoA + CO2 + NADH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\nAmylopectin 是澱粉的分支成分，由 alpha-D-glucose 以 alpha-1,4 鍵形成主鏈，並以 alpha-1,6 鍵形成分支。本題官方答案為 C。\n\n【選項詳解】\n- A. 只有 alpha-1,4 長直鏈較像 amylose，不是 amylopectin 的分支特徵。\n- B. beta-1,4 長直鏈是 cellulose 的特色，不是 amylopectin。\n- C. alpha-1,4 主鏈加 alpha-1,6 分支符合 amylopectin，故正確。\n- D. beta 鍵結不符合澱粉 amylopectin；澱粉為 alpha glucose polymer。\n\n【核心考點】\nAmylose = alpha-1,4 mostly linear；amylopectin = alpha-1,4 with alpha-1,6 branches。",
+      "key_point": "Amylose = alpha-1,4 mostly linear；amylopectin = alpha-1,4 with alpha-1,6 branches。",
+      "flashcard_front": "Amylopectin是葡萄糖單體以何種方式聚合而成的多醣?",
+      "flashcard_back": "Amylose = alpha-1,4 mostly linear；amylopectin = alpha-1,4 with alpha-1,6 branches。",
+      "flashcard_summary": "Amylose = alpha-1,4 mostly linear；amylopectin = alpha-1,4 with alpha-1,6 branches。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n可直接合成 ATP 的高能化合物包括 1,3-BPG、PEP 與 phosphocreatine。3-phosphoglycerate 不是高能磷酸供體，需先轉成 2-PG 再成 PEP。本題官方答案為 B。\n\n【選項詳解】\n- A. 1,3-bisphosphoglycerate 可經 phosphoglycerate kinase 直接產生 ATP。\n- B. 3-phosphoglycerate 不能直接把磷酸轉給 ADP 合成 ATP，故為答案。\n- C. phosphocreatine 可經 creatine kinase 直接再生 ATP。\n- D. phosphoenolpyruvate 可經 pyruvate kinase 直接產生 ATP。\n\n【核心考點】\n直接 substrate-level ATP donors：1,3-BPG、PEP、phosphocreatine；3-PG 不是。",
+      "key_point": "直接 substrate-level ATP donors：1,3-BPG、PEP、phosphocreatine；3-PG 不是。",
+      "flashcard_front": "在細胞中,下列那種化合物無法直接用以合成ATP?",
+      "flashcard_back": "直接 substrate-level ATP donors：1,3-BPG、PEP、phosphocreatine；3-PG 不是。",
+      "flashcard_summary": "直接 substrate-level ATP donors：1,3-BPG、PEP、phosphocreatine；3-PG 不是。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

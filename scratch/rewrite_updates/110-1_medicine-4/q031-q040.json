@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n47,XX,+21 是典型自由三體型唐氏症。唐氏症常有低張力、特殊外觀、智能障礙與先天性心臟病，尤其 endocardial cushion defect 或 AV canal defect。\n\n【選項詳解】\n- A. 47,XX,+21 這位病童是自由三體型，但唐氏症整體還可由 Robertsonian translocation 或 mosaicism 造成，不能說都可發現三條獨立 21 號染色體。\n- B. 唐氏症新生兒典型是肌張力低下，不是高張力。\n- C. 斷掌可見於唐氏症，但也可見於正常人，特異性不高。\n- D. 唐氏症常合併心內膜墊缺損，是重要先天性心臟病關聯。\n\n【核心考點】\n唐氏症常合併 AV canal/endocardial cushion defect，且新生兒多低張力。",
+      "key_point": "唐氏症常合併 AV canal/endocardial cushion defect，且新生兒多低張力。",
+      "flashcard_front": "Down syndrome 心臟病",
+      "flashcard_back": "常合併 endocardial cushion defect。",
+      "flashcard_summary": "唐氏症 -> 低張力、AV canal defect。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n多數先天性代謝異常是體染色體隱性遺傳，不是性聯遺傳。臨床常非特異，可能像敗血症，新生兒篩檢與特殊氣味可提供線索。\n\n【選項詳解】\n- A. 大多數 inborn errors of metabolism 為 autosomal recessive，因此說多為性聯遺傳是錯誤。\n- B. 新生兒篩檢可在症狀前找出部分可治療代謝病，敘述正確。\n- C. 代謝異常可表現為餵食差、嗜睡、嘔吐、酸中毒，常與敗血症難區分。\n- D. 某些疾病有特殊氣味，如楓糖尿症或 PKU，可作為診斷線索。\n\n【核心考點】\n先天性代謝異常多為體染色體隱性遺傳，症狀常像敗血症。",
+      "key_point": "先天性代謝異常多為體染色體隱性遺傳，症狀常像敗血症。",
+      "flashcard_front": "IEM 遺傳模式",
+      "flashcard_back": "多為 autosomal recessive，不是多數性聯。",
+      "flashcard_summary": "IEM -> AR 最常見、症狀非特異、新生兒篩檢重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n新生兒篩檢是以特定代謝物或荷爾蒙指標初篩。CAH 主要篩檢 17-hydroxyprogesterone，不是泛稱 androgen。\n\n【選項詳解】\n- A. PKU 以 phenylalanine 升高作為篩檢重點，配對正確。\n- B. 高胱胺酸尿症常以 methionine 升高作為篩檢指標，配對正確。\n- C. 先天性甲狀腺低能症可用 TSH 篩檢，配對正確。\n- D. 先天性腎上腺增生症篩檢主要看 17-hydroxyprogesterone，不是 androgen，因此配對錯誤。\n\n【核心考點】\nCAH 新生兒篩檢指標是 17-hydroxyprogesterone。",
+      "key_point": "CAH 新生兒篩檢指標是 17-hydroxyprogesterone。",
+      "flashcard_front": "CAH 新生兒篩檢",
+      "flashcard_back": "17-hydroxyprogesterone，不是 androgen。",
+      "flashcard_summary": "新生兒篩檢 -> CAH 看 17-OHP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n口服 isotretinoin 是強致畸胎藥物，懷孕為絕對禁忌，需嚴格避孕與孕前檢測。其他選項可能需監測或調整，但不是絕對禁忌。\n\n【選項詳解】\n- A. B 型肝炎帶原需注意肝功能監測，但不是使用 isotretinoin 的絕對禁忌。\n- B. 培養出格蘭氏陰性菌不是 isotretinoin 絕對禁忌，反而痤瘡治療失敗時需評估感染或毛囊炎。\n- C. 對抗生素有抗藥性可能是考慮 isotretinoin 的原因之一，不是禁忌。\n- D. 懷孕使用 isotretinoin 有高度致畸胎風險，是絕對禁忌。\n\n【核心考點】\nIsotretinoin 絕對禁忌是懷孕。",
+      "key_point": "Isotretinoin 絕對禁忌是懷孕。",
+      "flashcard_front": "口服 A 酸禁忌",
+      "flashcard_back": "懷孕絕對禁忌，因高度致畸胎。",
+      "flashcard_summary": "Isotretinoin -> pregnancy contraindication。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n異位性皮膚炎主要診斷依據是慢性反覆濕疹、劇癢、年齡相關分布與個人或家族異位性體質。藥物過敏史不是典型主要依據。\n\n【選項詳解】\n- A. 嬰幼兒 AD 常在臉部與四肢伸側，敘述符合年齡分布。\n- B. 難以控制的癢感是 AD 的核心診斷特徵。\n- C. AD 關聯的是氣喘、過敏性鼻炎、食物過敏等 atopy 病史，不是一般藥物過敏史，因此此項錯誤。\n- D. 慢性反覆發作是 AD 診斷的重要特徵。\n\n【核心考點】\nAD 看 atopy 個人或家族史，不是單純藥物過敏史。",
+      "key_point": "AD 看 atopy 個人或家族史，不是單純藥物過敏史。",
+      "flashcard_front": "AD 診斷主要依據",
+      "flashcard_back": "癢、慢性反覆、典型分布、atopy 病史。",
+      "flashcard_summary": "異位性皮膚炎 -> atopy，不等於藥物過敏。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n巴金森氏症患者合併頭皮屑、眉毛與鼻翼周圍脫屑性紅斑，典型是脂漏性皮膚炎。好發於皮脂腺豐富區域，與 Malassezia、皮脂與神經疾病相關。\n\n【選項詳解】\n- A. 脂漏性皮膚炎好發頭皮、眉間、鼻翼、耳後與胸前，可見油膩脫屑紅斑，且與 Parkinson disease 相關。\n- B. 缺脂性皮膚炎多在乾燥皮膚如小腿，與皮脂腺豐富臉部脂漏分布不符。\n- C. 異位性皮膚炎通常有慢性劇癢、異位性體質與年齡相關分布，不是此題最典型。\n- D. 接觸性皮膚炎需有接觸過敏或刺激暴露史，分布也常對應接觸區域。\n\n【核心考點】\nParkinson disease 合併臉部皮脂區脫屑紅斑要想到脂漏性皮膚炎。",
+      "key_point": "Parkinson disease 合併臉部皮脂區脫屑紅斑要想到脂漏性皮膚炎。",
+      "flashcard_front": "Parkinson + 鼻翼眉毛脫屑紅斑",
+      "flashcard_back": "脂漏性皮膚炎。",
+      "flashcard_summary": "脂漏性皮膚炎 -> 頭皮、眉間、鼻翼，與 Parkinson 相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n手掌腳掌紅斑的鑑別包括二期梅毒、藥疹、病毒疹等。IgE 升高不能診斷異位性皮膚炎，且成人急性掌蹠紅斑也不是 AD 典型表現。\n\n【選項詳解】\n- A. 二期梅毒常侵犯手掌腳掌，詢問性接觸史與相關暴露有助鑑別。\n- B. VDRL 可篩檢梅毒，HIV 與性傳染病共病評估相關，處置合理。\n- C. 藥物過敏可能合併口腔、眼睛黏膜症狀，需鑑別嚴重藥疹如 SJS/TEN。\n- D. IgE 可在異位性體質升高，但不具診斷特異性，不能以 IgE 異常升高診斷 AD，因此此項錯誤。\n\n【核心考點】\n手掌腳掌紅斑要排除二期梅毒與藥疹；IgE 不能診斷異位性皮膚炎。",
+      "key_point": "手掌腳掌紅斑要排除二期梅毒與藥疹；IgE 不能診斷異位性皮膚炎。",
+      "flashcard_front": "手掌腳掌紅斑鑑別",
+      "flashcard_back": "二期梅毒、藥疹；IgE 不能診斷 AD。",
+      "flashcard_summary": "掌蹠紅斑 -> VDRL/HIV 與藥疹黏膜評估。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n快速生長、中央角質栓、火山口狀結節，是 keratoacanthoma 的典型描述。臨床與鱗狀細胞癌相近，常需切除或病理確認。\n\n【選項詳解】\n- A. 基底細胞癌常見珍珠樣丘疹、捲曲邊緣與毛細血管擴張，通常不是快速火山口狀角質栓。\n- B. Bowen disease 是原位鱗狀細胞癌，常為慢性紅色鱗屑斑塊，不是火山口狀結節。\n- C. Keratoacanthoma 典型為短期快速長大、中央角質栓與 crater-like nodule，最符合。\n- D. 惡性黑色素瘤重點是色素不規則、ABCDE 變化，不是典型角質栓火山口外觀。\n\n【核心考點】\n快速長大的火山口狀中央角質栓結節要想到 keratoacanthoma。",
+      "key_point": "快速長大的火山口狀中央角質栓結節要想到 keratoacanthoma。",
+      "flashcard_front": "Crater-like keratin plug nodule",
+      "flashcard_back": "Keratoacanthoma。",
+      "flashcard_summary": "角化棘皮瘤 -> 快速生長、中央角質栓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n亞洲人與台灣人的 cutaneous melanoma 常見型態是 acral lentiginous melanoma，常位於手掌、足底與甲下。\n\n【選項詳解】\n- A. 結節型黑色素瘤可見且侵襲性高，但不是台灣人最常見型。\n- B. 肢端黑痣型黑色素細胞癌是亞洲族群最常見皮膚黑色素瘤類型，符合題意。\n- C. 表淺擴散型在白種人常見，但在台灣與亞洲人不是最常見。\n- D. 惡性黑痣型多見於老年人日曬部位，非台灣最常見型。\n\n【核心考點】\n台灣與亞洲人最常見 melanoma 型態是 acral lentiginous melanoma。",
+      "key_point": "台灣與亞洲人最常見 melanoma 型態是 acral lentiginous melanoma。",
+      "flashcard_front": "台灣最常見 melanoma",
+      "flashcard_back": "Acral lentiginous melanoma。",
+      "flashcard_summary": "黑色素瘤族群差異 -> 亞洲人 acral lentiginous 最常見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n慢性糖尿病患者上背部無症狀增厚硬化，典型是 scleredema diabeticorum。常見於頸後、上背，皮膚呈木板樣硬化。\n\n【選項詳解】\n- A. 庫欣氏症候群可有皮膚變薄、紫紋、易瘀青與向心性肥胖，不是上背局部硬腫。\n- B. Scleredema 與糖尿病相關，常侵犯頸後與上背，造成皮膚增厚硬化，最符合。\n- C. Scleromyxedema 常見蠟樣丘疹、黏蛋白沉積與單株免疫球蛋白病變，表現不同。\n- D. 皮肌炎有 Gottron papules、heliotrope rash 與近端肌無力，不是糖尿病上背硬化病灶。\n\n【核心考點】\n糖尿病患者頸後上背皮膚增厚硬化要想到 scleredema diabeticorum。",
+      "key_point": "糖尿病患者頸後上背皮膚增厚硬化要想到 scleredema diabeticorum。",
+      "flashcard_front": "糖尿病 + 上背硬化增厚",
+      "flashcard_back": "Scleredema。",
+      "flashcard_summary": "糖尿病皮膚病 -> scleredema 好發上背頸後。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

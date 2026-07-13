@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n原發性常壓性水腦症典型三聯徵是步態障礙、認知退化、尿失禁，其中步態障礙常最早且最明顯。放液試驗或引流後步態改善支持診斷與分流效益。\n\n【選項詳解】\n- A. 尿失禁是 NPH 三聯徵之一，不能說很少併有。\n- B. 步態異常常是最早、最常見且最可逆的症狀，敘述正確。\n- C. NPH 認知問題多為額葉執行功能與精神動作變慢，不是特別以人臉辨認障礙為主。\n- D. CSF tap test 或引流後步態改善可預測分流手術反應，不能說無法改善。\n\n【核心考點】\nNPH 三聯徵中步態障礙通常最早、最常見。",
+      "key_point": "NPH 三聯徵中步態障礙通常最早、最常見。",
+      "flashcard_front": "NPH 最早症狀",
+      "flashcard_back": "步態障礙。",
+      "flashcard_summary": "NPH -> gait disturbance、dementia、urinary incontinence。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n阿茲海默症腦脊髓液典型生物標記為 Aβ42 下降與 phosphorylated tau 上升。Aβ42 下降反映 amyloid 沉積於腦內，tau 上升反映神經元損傷與纖維糾結。\n\n【選項詳解】\n- A. Aβ42 在 CSF 通常下降，不是上升。\n- B. Aβ42 下降與 phosphorylated tau 上升才符合 AD；此項兩者方向皆不對或不完整。\n- C. Aβ42 下降、phosphorylated tau 上升是早期 AD 最典型組合。\n- D. phosphorylated tau 通常上升，不是下降。\n\n【核心考點】\nAD CSF：Aβ42 下降、phosphorylated tau 上升。",
+      "key_point": "AD CSF：Aβ42 下降、phosphorylated tau 上升。",
+      "flashcard_front": "AD 腦脊髓液 marker",
+      "flashcard_back": "Aβ42 low，phosphorylated tau high。",
+      "flashcard_summary": "阿茲海默症 -> amyloid low in CSF, tau high。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n路易氏體失智症有認知波動、早期視幻覺、REM sleep behavior disorder、parkinsonism 與跌倒昏倒。病人常對抗精神病藥物敏感，dopamine agonist 可能加重精神症狀，應避免積極使用。\n\n【選項詳解】\n- A. DLB 若用 dopamine agonist 可能惡化幻覺與精神症狀，不應儘量使用來治療 parkinsonism，因此錯誤。\n- B. 早期反覆視幻覺是 DLB 重要特徵。\n- C. REM sleep behavior disorder 常在 DLB 出現，甚至可早於認知症狀。\n- D. 認知波動、自律神經問題、跌倒或昏倒可見於 DLB。\n\n【核心考點】\nDLB 常有視幻覺與 RBD；dopamine agonist 可能加重精神症狀。",
+      "key_point": "DLB 常有視幻覺與 RBD；dopamine agonist 可能加重精神症狀。",
+      "flashcard_front": "DLB 用藥陷阱",
+      "flashcard_back": "避免積極使用 dopamine agonist；注意視幻覺與 RBD。",
+      "flashcard_summary": "DLB -> 視幻覺、RBD、波動；多巴胺藥物要小心。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n周邊神經病變常造成遠端感覺異常、無力、肌肉萎縮、自律神經症狀與深部肌腱反射降低。反射增強是上運動神經元徵象，不是周邊神經病變常見症狀。\n\n【選項詳解】\n- A. 周邊運動神經受損會造成無力、萎縮或肌束顫動，屬常見表現。\n- B. 肌腱反射增強代表中樞上運動神經元病灶，周邊神經病變通常反射降低或消失，因此不是常見症狀。\n- C. 麻木、刺痛、疼痛或本體感覺異常是周邊神經病變常見症狀。\n- D. 小纖維或自主神經受損可造成姿勢性低血壓、出汗異常、腸胃或泌尿症狀。\n\n【核心考點】\n周邊神經病變通常反射降低；反射增強提示上運動神經元病灶。",
+      "key_point": "周邊神經病變通常反射降低；反射增強提示上運動神經元病灶。",
+      "flashcard_front": "周邊神經病變反射",
+      "flashcard_back": "通常降低或消失，不是增強。",
+      "flashcard_summary": "Peripheral neuropathy -> sensory/motor/autonomic + hyporeflexia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n帶狀疱疹病毒潛伏於感覺神經節，再活化後沿皮節造成疼痛與水泡。常見肋間神經與三叉神經第一分支，眼帶狀疱疹可傷角膜；主要不是侵犯運動神經元。\n\n【選項詳解】\n- A. 三叉神經第一分支受侵犯可造成 herpes zoster ophthalmicus，可能傷及角膜。\n- B. VZV 主要侵犯感覺神經節與皮節，雖可偶有運動神經併發症，但說主要侵犯運動神經元不恰當。\n- C. 胸段肋間神經是帶狀疱疹常見分布。\n- D. 三叉神經第一分支是重要好發部位，因眼部併發症需特別注意。\n\n【核心考點】\n帶狀疱疹主要是感覺神經節再活化，不是主要侵犯運動神經元。",
+      "key_point": "帶狀疱疹主要是感覺神經節再活化，不是主要侵犯運動神經元。",
+      "flashcard_front": "Herpes zoster 神經侵犯",
+      "flashcard_back": "主要感覺神經節；常見肋間神經與 V1。",
+      "flashcard_summary": "VZV neuropathy -> sensory dermatomal pain/rash。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n先天性肌強直症、paramyotonia congenita 與高血鉀性週期性麻痺都屬骨骼肌離子通道病變。肌強直性失養症是三核苷酸重複擴增造成的多系統疾病，不屬典型 channelopathy。\n\n【選項詳解】\n- A. Myotonia congenita 多與氯離子通道 CLCN1 相關，屬 channelopathy。\n- B. Paramyotonia congenita 多與鈉離子通道 SCN4A 相關，屬 channelopathy。\n- C. Hyperkalemic periodic paralysis 常與骨骼肌鈉離子通道變異相關，屬 channelopathy。\n- D. Myotonic dystrophy 是 CTG 或 CCTG repeat expansion 疾病，不是離子通道病變。\n\n【核心考點】\nMyotonic dystrophy 是 repeat expansion，不是 channelopathy。",
+      "key_point": "Myotonic dystrophy 是 repeat expansion，不是 channelopathy。",
+      "flashcard_front": "不是 channelopathy 的肌病",
+      "flashcard_back": "Myotonic dystrophy。",
+      "flashcard_summary": "肌肉 channelopathy -> chloride/sodium channel；DM 是 repeat expansion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n神經性梅毒診斷需血清梅毒證據加上腦脊髓液證據。CSF VDRL 特異性高，血清 treponemal test 陽性支持感染；EEG PLEDs 不是神經梅毒診斷標準。\n\n【選項詳解】\n- A. 血清 MHA-TP 陽性加 CSF VDRL 陽性，是最具診斷正確性的組合。\n- B. CSF VDRL 有用，但 EEG PLEDs 不是神經梅毒診斷依據，因此組合不佳。\n- C. 血清 MHA-TP 有用，但 EEG PLEDs 不具神經梅毒特異診斷價值。\n- D. CSF TPHA 可支持但特異性不如 CSF VDRL，且 EEG PLEDs 不適合作為診斷組合。\n\n【核心考點】\n神經性梅毒以血清梅毒試驗陽性加 CSF VDRL 陽性最具特異性。",
+      "key_point": "神經性梅毒以血清梅毒試驗陽性加 CSF VDRL 陽性最具特異性。",
+      "flashcard_front": "Neurosyphilis 診斷",
+      "flashcard_back": "血清 treponemal test + CSF VDRL。",
+      "flashcard_summary": "神經梅毒 -> CSF VDRL 特異性高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n結核性腦膜炎需及早給抗結核藥物，療程通常較長且超過 6 個月；輔助 corticosteroid 可降低死亡率與神經後遺症。因此說不可使用類固醇是錯誤。\n\n【選項詳解】\n- A. 結核性腦膜炎常建議使用輔助類固醇，說不可使用是錯誤。\n- B. 高度懷疑時不應等待所有培養結果才治療，需及早投予抗結核藥物。\n- C. 中樞神經結核療程通常需至少 6 個月以上，常依指引與病況更長。\n- D. Isoniazid 可造成 pyridoxine deficiency 相關周邊神經炎，併用 pyridoxine 可預防。\n\n【核心考點】\n結核性腦膜炎治療需早期抗結核藥物，常合併輔助類固醇。",
+      "key_point": "結核性腦膜炎治療需早期抗結核藥物，常合併輔助類固醇。",
+      "flashcard_front": "TB meningitis 類固醇",
+      "flashcard_back": "可使用輔助 corticosteroid。",
+      "flashcard_summary": "結核腦膜炎 -> 早治療、長療程、INH 加 B6、類固醇可用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n沒有外界刺激卻感受到知覺刺激，稱為幻覺。錯覺則是對真實外界刺激的錯誤解讀；妄想是固定錯誤信念；失憶是記憶障礙。\n\n【選項詳解】\n- A. Illusion 是有外界刺激但解讀錯誤，例如把繩子看成蛇。\n- B. Delusion 是與現實不符且難以動搖的信念，不是感官知覺經驗。\n- C. Hallucination 是無外界刺激時出現感官知覺，符合題幹定義。\n- D. Amnesia 是記憶缺損，與無刺激的知覺經驗不同。\n\n【核心考點】\n幻覺是沒有外界刺激卻有知覺；錯覺是有刺激但解讀錯。",
+      "key_point": "幻覺是沒有外界刺激卻有知覺；錯覺是有刺激但解讀錯。",
+      "flashcard_front": "Hallucination 定義",
+      "flashcard_back": "無外界刺激卻有知覺經驗。",
+      "flashcard_summary": "精神症狀定義 -> hallucination vs illusion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n抗精神病藥物可造成多種 EPS。Rabbit syndrome 是口周快速節律性顫動，類似兔嘴動作；急性肌張力不全較常見於年輕男性，藥物誘發 parkinsonism 與 tardive dyskinesia 較常見於年長者。\n\n【選項詳解】\n- A. Rabbit syndrome 表現為嘴唇與口周肌肉顫動，符合定義。\n- B. NMS 可發生於各族群，典型風險與高效價抗精神病藥、快速加量、脫水等較相關，不是特別年長女性。\n- C. 藥物誘發 parkinsonism 較常見於年長者與女性，不是年輕男性高風險。\n- D. 角弓反張屬急性肌張力不全表現，較常見於年輕男性，不是年長女性高風險。\n\n【核心考點】\nRabbit syndrome 是抗精神病藥物造成的口周顫動。",
+      "key_point": "Rabbit syndrome 是抗精神病藥物造成的口周顫動。",
+      "flashcard_front": "Rabbit syndrome",
+      "flashcard_back": "嘴唇與口周肌肉顫動。",
+      "flashcard_summary": "EPS -> rabbit syndrome 為 perioral tremor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

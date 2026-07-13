@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題考查用於治療難治性慢性痛風（refractory chronic gout）的新型降尿酸藥物。對於傳統降尿酸藥物（如 Allopurinol、Febuxostat）治療無效或無法耐受的重度痛風患者，可以使用重組尿酸氧化酶（uricase）製劑來催化體內尿酸分解。\n\n【選項詳解】\n- A. 正確。Pegloticase 是一種經過聚乙二醇（PEG）修飾的重組哺乳動物尿酸氧化酶（uricase）。人類在進化過程中喪失了有功能的尿酸氧化酶基因，而 pegloticase 能將體內難溶的尿酸高效催化氧化為高水溶性且易於排泄的 allantoin（尿囊素），顯著降低血尿酸濃度，專門用於常規降尿酸治療失效的難治性慢性痛風。\n- B. 錯誤。Ketorolac 是一種強效的非類固醇消炎止痛藥（NSAID），主要藉由抑制環氧合酶（COX）來阻斷前列腺素合成，用於緩解急性痛風發作時的劇烈疼痛與發炎反應，但它不具有降尿酸的作用。\n- C. 錯誤。Tramadol 是一種弱鴉片類止痛藥，主要作用於微受體（μ-opioid receptor），並微弱抑制去甲腎上腺素與血清素的再回收。它在臨床上用於中度至重度疼痛的控制，無法降低人體內的尿酸濃度。\n- D. 錯誤。Anakinra 是一種重組的白介素-1 受體拮抗劑（IL-1ra）。它能阻斷 IL-1 與其受體結合，抑制發炎反應。雖然可用於急性痛風發作且對 NSAIDs、秋水仙素或類固醇有禁忌的二線抗發炎治療，但它不具備降尿酸的功能，無法用於慢性痛風的降尿酸治療。\n\n【核心考點】\n難治性慢性痛風的降尿酸治療首選為 pegloticase，其機轉為重組尿酸氧化酶（uricase），可將難溶的尿酸轉化為水溶性 allantoin 促進排泄。",
+      "key_point": "Pegloticase 為重組尿酸氧化酶，可將難溶尿酸轉化為高水溶性 allantoin，用於傳統藥物無效之難治性慢性痛風。",
+      "flashcard_front": "難治性慢性痛風的降尿酸新藥與機轉",
+      "flashcard_back": "Pegloticase，為重組尿酸氧化酶（uricase），能將難溶尿酸分解為易排泄的 allantoin（尿囊素）。",
+      "flashcard_summary": "難治性痛風藥物 -> Pegloticase（將尿酸轉化為 allantoin）",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出不屬於嗎啡（morphine）在治療劑量下藥理作用的選項。嗎啡是鴉片受體（主要為 μ-receptor）的強效致效劑，其典型副交感作用會使瞳孔收縮，而非擴大。\n\n【選項詳解】\n- A. 正確（本題選不包括者）。嗎啡會興奮中腦動眼神經的 Edinger-Westphal 核（EW 核），增加副交感神經的流出，進而引起瞳孔括約肌收縮，導致瞳孔縮小（出現特徵性的「針尖樣瞳孔」pinpoint pupils），而非瞳孔擴大。\n- B. 錯誤（為嗎啡的藥理作用）。嗎啡能直接抑制延腦的咳嗽中樞，具備強效的止咳（antitussive）作用，但因其成癮性及呼吸抑制風險，臨床上常用結構類似但成癮性較低的 codeine 或 dextromethorphan 代替。\n- C. 錯誤（為嗎啡的藥理作用）。嗎啡會作用於胃腸道的 μ 鴉片受體，抑制腸壁肌張力並減慢腸道蠕動，同時增加括約肌張力並促進水分吸收，常導致便秘（constipation）副作用。\n- D. 錯誤（為嗎啡的藥理作用）。嗎啡作用於中樞神經系統的鴉片受體，能產生顯著的鎮靜（sedation）與嗜睡作用，並有緩解患者因疼痛引起的焦慮與恐懼情緒的效果。\n\n【核心考點】\n嗎啡（morphine）會興奮 Edinger-Westphal 核而引發瞳孔縮小（針尖樣瞳孔）；其餘中樞與周邊作用包含止咳、減緩胃腸蠕動及鎮靜。",
+      "key_point": "嗎啡（morphine）興奮動眼神經副交感核（Edinger-Westphal 核），會引起瞳孔縮小而非擴大。",
+      "flashcard_front": "嗎啡（morphine）對瞳孔的作用及其機轉",
+      "flashcard_back": "引起瞳孔縮小（針尖樣瞳孔），機轉為興奮中腦的 Edinger-Westphal 核，增加副交感神經流出。",
+      "flashcard_summary": "嗎啡對瞳孔的作用 -> 瞳孔縮小（針尖樣），非擴大",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題考查吸入性麻醉劑的血液氣體分配係數（blood:gas partition coefficient）。血液氣體分配係數反映吸入性麻醉劑在血液中的溶解度。溶解度越高（數值越大），藥物越容易留在血液中，使得肺泡與大腦之間的氣體分壓達到平衡所需的時間越長。\n\n【選項詳解】\n- A. 錯誤。若藥物起始作用與恢復皆快，代表血液氣體分配係數較小（如 desflurane、sevoflurane），此時血中溶解度低，血液不留存麻醉劑，能迅速將藥物送達大腦，也能在停藥時快速排空。\n- B. 錯誤。血液氣體分配係數大時，血中溶解度高，停藥後藥物會緩慢從巨大的血液緩衝池中釋放並呼出，因此甦醒與恢復（recovery）也慢，不會「恢復快」。\n- C. 錯誤. 血液氣體分配係數大時，大腦分壓上升慢，故起始作用（onset）較慢，不會「起始作用快」。\n- D. 正確。血液氣體分配係數越大，代表該麻醉劑在血液中的溶解度（solubility）越高。這意味著血液像一個巨大的吸水海綿，會大量溶解吸入的麻醉劑，導致大腦中的藥物分壓緩慢上升，故起始作用（onset）慢；同樣地，停藥時，血液中大量溶解的藥物需要較長時間才能被肺部呼出，因此甦醒恢復（recovery）也慢。\n\n【核心考點】\n吸入性麻醉劑之血液氣體分配係數越大，代表其血液溶解度越高，達到腦部分壓平衡的時間越長，因此麻醉誘導（起效）與甦醒恢復（甦醒）均變慢。",
+      "key_point": "吸入性麻醉劑的血液氣體分配係數越大，血中溶解度越高，麻醉起效（onset）與恢復（recovery）皆越慢。",
+      "flashcard_front": "血液氣體分配係數與吸入性麻醉劑起效、甦醒速度的關係",
+      "flashcard_back": "分配係數越大，血液溶解度高，導致腦部分壓平衡與消退均變慢，因此起效慢且甦醒慢。",
+      "flashcard_summary": "分配係數與麻醉速度 -> 分配係數越大，起效與恢復均慢",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考查具有雙重再回收抑制活性（去甲腎上腺素與多巴胺）、結構與苯丙胺（amphetamine）相似，且具戒菸適應症的抗憂鬱藥物。臨床上此藥為非典型抗憂鬱藥，屬於去甲腎上腺素與多巴胺再回收抑制劑（NDRI）。\n\n【選項詳解】\n- A. 正確。Bupropion 化學結構屬於單環氨基酮類，與 amphetamine 類似。其作用機轉為微弱抑制突觸前神經元對去甲腎上腺素（NE）和多巴胺（DA）的再回收。藉由提升腦中多巴胺濃度，能減輕戒菸時因缺乏尼古丁而產生的戒斷症狀與渴望，是唯一具戒菸輔助適應症且無性功能障礙副作用的抗憂鬱藥。\n- B. 錯誤。Imipramine 是一種傳統的三環抗憂鬱藥（TCA），主要抑制血清素（5-HT）和去甲腎上腺素（NE）的再回收。其結構並非與 amphetamine 類似，臨床上亦無戒菸的輔助適應症。\n- C. 錯誤。Trazodone 屬於血清素拮抗及再回收抑制劑（SARI），主要阻斷 5-HT2A 受體並微弱抑制 5-HT 再回收，具有強效的鎮靜與抗焦慮作用，常在臨床上低劑量用於治療失眠。其結構與作用機轉皆與本題不符，亦不具備輔助戒菸的作用。\n- D. 錯誤。Fluoxetine 是一種選擇性血清素再回收抑制劑（SSRI），主要特異性抑制 5-HT 的再回收。其化學結構為苯丙醚衍生物，與 amphetamine 不同，臨床上用於憂鬱症，但不做為戒菸的輔助藥物。\n\n【核心考點】\nBupropion 是 NDRI 類非典型抗憂鬱藥，結構似 amphetamine，藉由抑制 dopamine 和 norepinephrine 再回收，在臨床上同時具有抗憂鬱與戒菸輔助的雙重用途。",
+      "key_point": "Bupropion 結構與苯丙胺類似，為去甲腎上腺素與多巴胺再回收抑制劑（NDRI），臨床用於抗憂鬱與輔助戒菸。",
+      "flashcard_front": "結構似 amphetamine 且可用於戒菸的抗憂鬱藥",
+      "flashcard_back": "Bupropion，屬於 NDRI，可抑制 norepinephrine 與 dopamine 的再回收，能降低戒菸戒斷症狀。",
+      "flashcard_summary": "戒菸輔助抗憂鬱藥 -> Bupropion（NDRI，結構似 amphetamine）",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題考查特定重金屬解毒劑的螯合機轉。題目強調「螯合單價重金屬離子」且「促進複合物自腸道排出」，這是阻斷重金屬腸肝循環的口服非吸收性金屬結合劑的典型特徵。\n\n【選項詳解】\n- A. 錯誤。Penicillamine（青黴胺）主要用於螯合二價或多價重金屬離子（如銅、汞、鉛），其形成的螯合物為水溶性，是由腎臟經尿液排出，而非自腸道排出。臨床上它是威爾森氏症（銅堆積）的首選藥物。\n- B. 正確。Prussian blue（普魯士藍，不溶性六氰合鐵酸鐵）是一種口服不被腸道吸收的無機螯合劑。它在腸道中利用其晶格內的鉀離子，與毒性單價陽離子如鉈（Tl+）或放射性銫-137（Cs+）進行離子交換，形成高度穩定且不溶的複合物，隨糞便排出體外。這能有效阻斷鉈與銫的腸肝循環，加速其排出。\n- C. 錯誤。Succimer（DMSA）主要口服後與體內的鉛、汞及砷等二/三價重金屬螯合，複合物主要經由腎臟排泄至尿液中，不屬於腸道排出的單價重金屬螯合劑。\n- D. 錯誤。Deferoxamine 是一種專一性極高的三價鐵離子（Fe3+）及鋁離子（Al3+）螯合劑，用於治療急性鐵中毒或慢性鐵質沉著症。它與鐵結合形成的水溶性複合物也是經由腎臟排泄，而非在腸道結合排出。\n\n【核心考點】\nPrussian blue（普魯士藍）利用離子交換機制在腸道中選擇性結合單價重金屬離子（鉈、銫），形成不溶性複合物隨糞便排出，能阻斷腸肝循環以達解毒效果。",
+      "key_point": "Prussian blue（普魯士藍）口服不吸收，能在腸道中螯合單價重金屬離子（鉈、銫），阻斷腸肝循環並促進隨糞便排出。",
+      "flashcard_front": "鉈（Tl）與銫（Cs）中毒的解毒劑及作用機轉",
+      "flashcard_back": "普魯士藍（Prussian blue），在腸道中進行離子交換螯合單價重金屬，形成不溶複合物隨糞便排出。",
+      "flashcard_summary": "單價金屬解毒劑 -> 普魯士藍（Prussian blue，阻斷鉈、銫之腸肝循環）",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考查發炎反應中血管介質的生理功能。組織胺（histamine）主要由肥大細胞（mast cells）釋放，是急性發炎反應早期血管變化的主要介質，主要作用於血管內皮細胞及平滑肌。\n\n【選項詳解】\n- A. 錯誤。白血球與血管內皮細胞的緊密黏附（adhesion）主要是由血管內皮細胞上的免疫球蛋白超家族分子（如 ICAM-1）與白血球表面的整合素（integrins，如 LFA-1）相互作用所介導。\n- B. 錯誤。白血球沿血管內皮細胞滾動（rolling）主要由內皮細胞及白血球表面的選擇素家族（selectins，如 P-selectin、E-selectin）與其醣基配體結合所介導。\n- C. 正確。組織胺能作用於血管平滑肌與內皮細胞上的 H1 受體，促使微動脈擴張（導致局部充血發紅），並引發微血管後小靜脈（postcapillary venules）的內皮細胞收縮、細胞間隙增寬，使血管滲透性增加（導致血漿蛋白外滲引發水腫）。\n- D. 錯誤。組織胺在體內急性發炎中主要是促使血管舒張與滲透性增加，而非血管收縮。促進血管收縮及血小板凝聚的主要介質為血栓烷 A2（TXA2）或 serotonin 等。\n\n【核心考點】\n組織胺（histamine）是急性發炎反應中最早釋放的血管活性胺，其主要生理效應為擴張微動脈並增加微血管後小靜脈的滲透性，導致局部紅腫。",
+      "key_point": "組織胺（histamine）是急性發炎中重要的血管活性介質，主要引起微動脈擴張及微血管後小靜脈滲透性增加。",
+      "flashcard_front": "發炎反應中組織胺（histamine）的主要血管生理效應",
+      "flashcard_back": "引發微動脈擴張（充血發紅）與微血管後小靜脈內皮細胞收縮、間隙增寬（血管滲透性增加導致水腫）。",
+      "flashcard_summary": "組織胺血管效應 -> 血管擴張與滲透性增加",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題考查可逆性細胞損傷（reversible injury）與不可逆性細胞損傷（irreversible injury，即細胞死亡）的鑑別指標。當細胞受損到一定程度，其細胞膜結構完整性喪失、粒線體發生不可逆功能障礙，以及細胞核發生破壞，即進入不可逆階段。\n\n【選項詳解】\n- A. 錯誤。細胞受損早期因缺氧使 ATP 生成減少，細胞膜上的鈉鉀幫浦活性降低，導致細胞內鈉離子滯留並吸水，引發急性細胞水腫。這屬於可逆性損傷（reversible injury），移除刺激後細胞仍可恢復正常。\n- B. 正確。細胞核的破壞是細胞進入不可逆壞死（necrosis）的決定性標誌。細胞核的不可逆變化包括：核濃縮（pyknosis）、核碎裂（karyorrhexis，即染色質破碎成片段）以及核溶解（karyolysis）。一旦出現核碎裂，代表細胞遺傳物質已遭徹底且不可逆的降解。\n- C. 錯誤。細胞缺氧時會轉向無氧糖解以產生 ATP，糖解作用的增加會導致乳酸堆積，進而使細胞內 pH 值降低。pH 值降低會使染色質產生可逆性的凝聚，此時若恢復氧氣供應，pH 值與染色質結構仍可回復。\n- D. 錯誤。細胞受損水腫時，由於細胞骨架受損，細胞膜會向外突出形成水泡（membrane blebs），此時細胞膜的半透膜屏障功能尚未完全喪失，仍屬於可逆性損傷的形態學表現。\n\n【核心考點】\n細胞水腫、Na+-K+幫浦失效、pH值降低及膜水泡為可逆性損傷；而細胞核破壞（核濃縮、核碎裂、核溶解）與細胞膜/溶酶體膜破裂、粒線體重度非晶形鈣化為不可逆的壞死特徵。",
+      "key_point": "細胞核的破壞（如核碎裂、核濃縮、核溶解）代表遺傳物質的不可逆降解，是細胞發生不可逆死亡的確定指標。",
+      "flashcard_front": "不可逆細胞損傷（細胞壞死）的形態學與分子指標",
+      "flashcard_back": "細胞核碎裂（karyorrhexis）、核溶解（karyolysis）、核濃縮（pyknosis），以及溶酶體膜與細胞膜破裂。",
+      "flashcard_summary": "細胞死亡指標 -> 核碎裂（karyorrhexis）等核變化為不可逆損傷標誌",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考查診斷潛伏結核感染（LTBI）的免疫學檢驗法——丙型干擾素釋放試驗（IGRA）之生物學原理。該檢驗主要偵測受檢者血液中，針對結核分枝桿菌特異性抗原產生細胞介導免疫反應（cell-mediated immunity）的效應細胞。\n\n【選項詳解】\n- A. 正確。丙型干擾素釋放試驗（IGRA）的基本原理是將受試者的全血與結核桿菌特異性的重組抗原（ESAT-6、CFP-10）體外共同培養。如果受試者先前曾感染過結核菌，其體內已存在致敏的特異性記憶型 T 淋巴細胞。這些 T 淋巴細胞受到特異性抗原刺激後，會被重新活化並大量釋放丙型干擾素（IFN-γ）。\n- B. 錯誤。B 淋巴細胞屬於體液免疫的核心細胞，主要負責抗原呈現及分化為漿細胞以分泌抗體，並不分泌 IFN-γ。\n- C. 錯誤。單核球（monocytes）屬於先天性免疫的吞噬細胞，主要負責吞噬病原體及呈現抗原，活化後主要分泌促發炎細胞激素（如 TNF-α、IL-1 等），而非 IFN-γ。\n- D. 錯誤。嗜中性白血球（neutrophils）是急性發炎反應中的第一線吞噬細胞，主要藉由釋放顆粒內酵素及活性氧物質來殺滅細菌，不具備釋放特異性 IFN-γ 的功能。\n\n【核心考點】\n丙型干擾素釋放試驗（IGRA）依賴特異性結核抗原（如 ESAT-6/CFP-10）刺激全血中已致敏的記憶性 T 淋巴細胞，使其活化並釋放 IFN-γ，藉此評估是否存在結核分枝桿菌的細胞免疫反應。",
+      "key_point": "丙型干擾素釋放試驗（IGRA）的原理，是利用結核菌特異性抗原刺激全血中已致敏的記憶性 T 淋巴細胞以產生 IFN-γ。",
+      "flashcard_front": "丙型干擾素釋放試驗（IGRA）偵測的目標細胞與釋放因子",
+      "flashcard_back": "目標細胞為已致敏的 T 淋巴細胞，受結核菌特異抗原刺激後會釋放丙型干擾素（IFN-γ）。",
+      "flashcard_summary": "IGRA原理 -> 結核特異抗原刺激致敏 T 淋巴細胞產生 IFN-γ",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考查梅毒螺旋體（Treponema pallidum）感染不同分期的臨床病理特徵。梅毒臨床上分為後天性梅毒（第一期、第二期、潛伏期、第三期）與先天性梅毒，各分期具有其獨特且具特異性的皮損與系統性病變。\n\n【選項詳解】\n- A. 正確。第一期梅毒（Primary syphilis）的典型臨床特徵為在病原體侵入部位（主要是外生殖器）出現硬性下疳（chancre）。其特徵為單一、無痛性的紅色潰瘍，邊緣乾淨整齊且基底堅硬，不經治療亦會在 3-6 週內自癒。\n- B. 錯誤。脊髓癆（tabes dorsalis）屬於第三期梅毒（Tertiary syphilis，即晚期神經梅毒）的臨床表現，這是由於梅毒螺旋體侵犯脊髓後索及後根，導致深部感覺喪失與共濟失調。第二期梅毒則主要以全身播散性斑丘疹、手掌腳掌紅疹及扁平濕疣為特徵。\n- C. 錯誤。Hutchinson 齒（赫欽森氏齒）是先天性梅毒（Congenital syphilis）的特徵性牙齒畸形，表現為切牙切緣呈半月形凹陷且牙齒間隙增寬。第三期梅毒在心血管與中樞神經受損外，其特有的皮膚黏膜病變為梅毒腫（gumma）。\n- D. 錯誤。扁平濕疣（condyloma latum）是後天性第二期梅毒（Secondary syphilis）的特徵性皮膚病變，好發於肛門、外生殖器等潮濕摩擦部位，表現為高傳染性的扁平、濕潤乳頭狀斑塊。\n\n【核心考點】\n梅毒各期病變的特徵性配對：\n- 第一期梅毒：硬性下疳（chancre）。\n- 第二期梅毒：扁平濕疣（condyloma latum）、手腳掌紅斑。\n- 第三期梅毒：梅毒腫（gumma）、心血管梅毒、神經梅毒（脊髓癆 tabes dorsalis）。\n- 先天性梅毒：Hutchinson三聯徵（Hutchinson齒、間質性角膜炎、第八對腦神經聽力受損）。",
+      "key_point": "第一期梅毒特徵為硬性下疳（chancre）；第二期特徵為扁平濕疣（condyloma latum）；第三期特徵為梅毒腫與脊髓癆；Hutchinson齒為先天性梅毒特徵。",
+      "flashcard_front": "後天梅毒分期與典型臨床病變配對",
+      "flashcard_back": "第一期：硬性下疳；第二期：扁平濕疣與全身斑疹；第三期：梅毒腫、脊髓癆及心血管受損。",
+      "flashcard_summary": "梅毒臨床分期 -> 第一期硬下疳，第二期扁平濕疣，第三期脊髓癆，先天性Hutchinson齒",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出缺乏菸鹼素（niacin，維生素 B3）時較不常見的症狀。嚴重缺乏菸鹼素會引起糙皮病（pellagra），其臨床特徵以「3D」症狀（皮膚炎、腹瀉、失智）聞名。\n\n【選項詳解】\n- A. 正確（糙皮病不常見此症狀）。憩室炎（diverticulitis）是指大腸壁向外突出的囊狀憩室發生發炎或微穿孔，其病因主要與長期低纖維飲食、結腸內壓升高及糞石阻礙有關，並非缺乏菸鹼素（維生素 B3）的糙皮病表現。\n- B. 錯誤（為糙皮病典型症狀）。失智（dementia）是糙皮病 3D 症狀中的第三個「D」。患者早期可能出現失眠、疲勞、抑鬱，隨後發展為記憶力減退、定向力障礙、精神錯亂以及嚴重的失智。\n- C. 錯誤（為糙皮病典型症狀）。皮膚炎（dermatitis）是糙皮病 3D 症狀中的第一個「D」。其特徵為在陽光照射、摩擦或受壓部位（如面部、頸部、手背）出現對稱性、邊界清楚的紅斑，隨後皮膚變粗糙、增厚、色素沉著及脫屑。在頸部的病變常形成特徵性的 Casal 頸鍊（Casal necklace）。\n- D. 錯誤（為糙皮病典型症狀）。腹瀉（diarrhea）是糙皮病 3D 症狀中的第二個「D」。由於菸鹼素缺乏會導致整個消化道黏膜抗發炎及屏障功能受損，引發舌炎及頑固性腹瀉等消化道症狀。\n\n【核心考點】\n維生素 B3（菸鹼素）缺乏引起的糙皮病（pellagra）具有經典的 3D 症狀：皮膚炎（dermatitis）、腹瀉（diarrhea）及失智（dementia）。第四個 D 則為死亡（death）。憩室炎與維生素缺乏無直接因果關係。",
+      "key_point": "菸鹼素（維生素 B3）嚴重缺乏會引起糙皮病（pellagra），其典型特徵為 3D 症狀：皮膚炎、腹瀉與失智。",
+      "flashcard_front": "菸鹼素（Niacin, Vit B3）缺乏引起的糙皮病（pellagra）典型 3D 症狀",
+      "flashcard_back": "皮膚炎（dermatitis，Casal頸鍊）、腹瀉（diarrhea，消化道黏膜受損）及失智（dementia，神經精神症狀）。",
+      "flashcard_summary": "菸鹼素缺乏糙皮病症狀 -> 3D症狀（皮膚炎、腹瀉、失智），憩室炎與其無關",
+      "review_status": "ready",
+      "explanation_model": "gemini-2.5-pro-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

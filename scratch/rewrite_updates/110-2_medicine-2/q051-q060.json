@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題詢問在 G6PD 缺乏症（蠶豆症）患者中使用何種藥物可能會導致溶血。G6PD 缺乏症患者體內缺乏還原態麩胱甘肽（GSH），對於具有強氧化性的藥物極為敏感，一旦使用會導致嚴重的急性溶血性貧血。\n\n【選項詳解】\n- A. 錯誤。simvastatin 為 HMG-CoA 還原酶抑制劑（降血脂藥），主要不良反應為肌肉毒性（如肌肉酸痛、橫紋肌溶解症）與肝功能異常，但在蠶豆症患者中不會引起急性溶血。\n- B. 正確。rasburicase 是一種重組尿酸氧化酶（recombinant urate oxidase），用於治療腫瘤溶解症候群。它能將尿酸催化代謝為 allantoin，但在反應中會產生強氧化劑過氧化氫（H₂O₂）。因蠶豆症患者體內還原態麩胱甘肽（GSH）不足，無法清除氧化自由基，會誘發嚴重的急性溶血，故為其絕對禁忌症。\n- C. 錯誤。clopidogrel 為 P2Y12 接受體拮抗劑（抗血小板藥物），主要副作用為出血，極罕見情況下可能引發血栓性血小板減少性紫斑症（TTP），但並不會誘發蠶豆症患者的氧化性溶血。\n- D. 錯誤。carbamazepine 為抗癲癇藥物，其嚴重的藥物副作用主要與 HLA-B*1502 基因相關的嚴重皮膚過敏（如史蒂芬強生症候群 SJS/TEN）以及骨髓抑制有關，不會引起蠶豆症患者急性溶血。\n\n【核心考點】\n重組尿酸氧化酶 rasburicase 在催化尿酸氧化時會產生過氧化氫（H₂O₂）強氧化劑，是 G6PD 缺乏症（蠶豆症）患者的絕對禁忌藥物。",
+      "key_point": "重組尿酸氧化酶 rasburicase 催化尿酸會產生過氧化氫強氧化劑，為 G6PD 缺乏症（蠶豆症）之絕對禁忌藥物。",
+      "flashcard_front": "G6PD 缺乏症 / 蠶豆症 / 降尿酸藥物 / 急性溶血禁忌",
+      "flashcard_back": "Rasburicase 催化過程產生 H2O2 強氧化劑，是 G6PD 缺乏症患者的絕對禁忌藥物。",
+      "flashcard_summary": "蠶豆症 -> 禁用 rasburicase（代謝產生 H2O2）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題詢問抗疱疹病毒藥物 acyclovir 的藥理特性與臨床敘述。Acyclovir 是一種鳥嘌呤核苷類似物，必須在被病毒胸苷激酶（thymidine kinase, TK）磷酸化後才具有抗病毒活性，且只對活性複製期（lytic cycle）的病毒有效。\n\n【選項詳解】\n- A. 錯誤。Acyclovir 僅能抑制活性複製期（lytic cycle）的病毒 DNA 聚合酶，對不主動複製且處於潛伏期（latent infection）的病毒完全無效。\n- B. 正確。Acyclovir 為前驅藥，必須先經由病毒特異的胸苷激酶（thymidine kinase, TK）催化進行首次磷酸化，轉為單磷酸鹽後，再藉由宿主細胞激酶（host kinases）進一步磷酸化為三磷酸鹽（active acyclovir triphosphate），才能發揮活性。\n- C. 錯誤。雖然病毒 DNA 聚合酶（viral DNA polymerase）基因突變是抗藥性機制之一，但抗藥性的產生與宿主的免疫狀態密切相關。免疫功能低下的病人（如 HIV 感染者或移植受者）因無法有效清除病毒而需長期或反覆用藥，這會提供強大的藥物篩選壓力，極易產生抗藥性病毒株。\n- D. 錯誤。Valacyclovir 是 acyclovir 的前驅藥，口服後在體內會迅速轉化為 acyclovir，因此若病毒對 acyclovir 產生抗藥性（通常是病毒 TK 基因突變或缺失），對 valacyclovir 也會產生完全的交叉抗藥性，此時應選用不需 TK 活化的 foscarnet、cidofovir 或局部使用的 trifluridine。\n\n【核心考點】\nAcyclovir 須經病毒特有的胸苷激酶（TK）進行首次磷酸化活化；若病毒 TK 突變會產生 acyclovir 與 valacyclovir 的交叉抗藥性，此時應改用 foscarnet 等不需 TK 活化的藥物。",
+      "key_point": "Acyclovir 需經病毒特定胸苷激酶（TK）進行首次磷酸化活化，突變時會與 valacyclovir 產生交叉抗藥性。",
+      "flashcard_front": "Acyclovir / 作用機制 / 胸苷激酶磷酸化 / 交叉抗藥性",
+      "flashcard_back": "Acyclovir 須由病毒胸苷激酶（TK）進行首次磷酸化才具活性；若 TK 突變，對前驅藥 valacyclovir 亦會產生交叉抗藥性。",
+      "flashcard_summary": "Acyclovir -> 須經病毒特定的胸苷激酶（TK）活化，與 valacyclovir 有交叉抗藥性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題為否定題，詢問關於抗巨細胞病毒（CMV）感染藥物的錯誤敘述。CMV 藥物包含 ganciclovir、cidofovir 與 foscarnet。其中 foscarnet 屬於焦磷酸類似物，不需要經過激酶的磷酸化活化即可直接抑制病毒聚合酶。\n\n【選項詳解】\n- A. 正確。Ganciclovir 經 CMV 的 UL97 蛋白激酶首次磷酸化後，對 CMV 的抑制活性比 acyclovir 高出 10 到 100 倍。Acyclovir 由於無法被 CMV 的激酶有效磷酸化，因此對 CMV 的抑制活性極低。\n- B. 正確。Foscarnet 是一種無機焦磷酸類似物，能直接與病毒 DNA 聚合酶、RNA 聚合酶以及 HIV 反轉錄酶的焦磷酸結合位點結合，進而抑制鏈的延伸，因此它對 HSV/CMV 及 HIV 均有抑制活性。\n- C. 錯誤。Cidofovir 為單磷酸核苷酸類似物，需經宿主激酶磷酸化；Ganciclovir 需經 CMV 的 UL97 激酶與宿主激酶磷酸化；然而 Foscarnet 是焦磷酸類似物，不需要經過任何磷酸化即可直接發揮作用。因此「三者皆需要經由磷酸化才能產生作用」的敘述是錯誤的。\n- D. 正確。Cidofovir 具有高度腎毒性（可引發近端腎小管壞死）。NSAIDs 會抑制前列腺素合成，導致腎入球小動脈收縮，減少腎臟血流量，兩者併用會嚴重加劇腎毒性，臨床上應避免併用。\n\n【核心考點】\nFoscarnet 屬於無機焦磷酸類似物，不需要經過體內激酶的磷酸化即可直接抑制病毒 DNA 聚合酶，因此不受病毒激酶突變（如 CMV 的 UL97 突變）的抗藥性影響。",
+      "key_point": "Foscarnet 為無機焦磷酸類似物，不需經過體內磷酸化即可直接抑制病毒 DNA 聚合酶。",
+      "flashcard_front": "抗 CMV 藥物 / foscarnet / 磷酸化活化 / 作用機制",
+      "flashcard_back": "Foscarnet 為焦磷酸類似物，不需經過任何磷酸化活化即可直接發揮作用（不同於 ganciclovir 與 cidofovir）。",
+      "flashcard_summary": "抗 CMV 藥物 -> foscarnet 不需要經過磷酸化即具活性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題詢問抑制細菌蛋白質合成類抗生素的臨床應用正確敘述。在蛋白質合成抑制劑中，林可醯胺類的 clindamycin 抗菌譜主要針對革蘭氏陽性菌及絕對厭氧菌，臨床常與頭孢菌素併用以擴大覆蓋範圍治療盆腔混合感染。\n\n【選項詳解】\n- A. 錯誤。Clindamycin 結合於細菌 50S 核糖體次單元，主要用於治療革蘭氏陽性菌以及絕對厭氧菌（如 Bacteroides fragilis），其無法穿透革蘭氏陰性好氧菌（如大腸桿菌、綠膿桿菌）的外膜，因此對大部分革蘭氏陰性好氧菌感染無效。\n- B. 正確。骨盆腔膿瘍與敗血性流產常是由陰性好氧菌（如 E. coli）與厭氧菌混合引起的感染。Clindamycin 能有效抗厭氧菌，配合第二、三代 cephalosporin（頭孢菌素）來覆蓋革蘭氏陰性好氧菌，為臨床上常用的合併治療方案。\n- C. 錯誤。Quinupristin-dalfopristin 屬於鏈陽性菌素類（Streptogramins），主要用於治療多重抗藥性革蘭氏陽性菌。但它僅適用於屎腸球菌（Enterococcus faecium），對糞腸球菌（Enterococcus faecalis）無效，因為糞腸球菌具有內源性排出幫浦（efflux pump）等抗藥機制。\n- D. 錯誤。Tedizolid 屬於第二代噁唑烷酮類（Oxazolidinones），與 linezolid 類似，對包括耐甲氧西林金黃色葡萄球菌（MRSA）在內的革蘭氏陽性菌具有極佳的抗菌活性，是臨床上治療 MRSA 感染的重要武器。\n\n【核心考點】\nClindamycin 抗菌譜主要針對革蘭氏陽性菌與絕對厭氧菌，臨床常與 cephalosporin 或 aminoglycoside 併用以提供混合性骨盆腔感染的完整廣譜覆蓋。",
+      "key_point": "Clindamycin 主要覆蓋陽性菌與厭氧菌，常與 cephalosporin 併用治療混合性骨盆腔感染。",
+      "flashcard_front": "Clindamycin / 抗菌譜 / 骨盆腔感染併用 / 腸球菌抗藥性分群",
+      "flashcard_back": "Clindamycin 針對陽性菌與厭氧菌，常併用 cephalosporin 治療骨盆腔膿瘍。Quinupristin-dalfopristin 對屎腸球菌有效但對糞腸球菌無效。",
+      "flashcard_summary": "Clindamycin -> 覆蓋厭氧菌與陽性球菌，常與 cephalosporin 併用治療骨盆腔膿瘍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題詢問抗代謝抗癌藥物的錯誤敘述。\n【補充提醒】本題之官方題目文字為「有關抗代謝(antimetabolites)抗癌藥物之敘述,下列何者錯誤?」，題目本文中包含了四個子選項（A. methotrexate... B. pemetrexed... C. cytarabine... D. allopurinol...），然而在資料庫的 options 欄位中，卻錯置為前列腺素（PGD2, PGF2, PGE2, PGI2）。此為試題檔案之欄位Bug，為維持系統正確運作與呈現，我們仍維持 correct_answer 為 A（對應原題目的子選項 A，即與 NSAID 聯用的敘述為錯誤），並於此詳解中解析原始試題的四個子選項。\n\n【選項詳解】\n- A. 錯誤。Methotrexate（MTX）應避免與非類固醇消炎藥物（NSAIDs）合用，其原因並非「影響吸收」，而是因為 NSAIDs 會競爭性地抑制 MTX 在腎小管的主動分泌，且會減少腎臟血流量，使 MTX 的腎臟清除率顯著下降，導致血藥濃度上升而引發致命的骨髓抑制等急性毒性。\n- B. 正確。Pemetrexed主要作用是抑制胸苷酸合成酶（TS）以及二氫葉酸還原酶（DHFR）。在臨床使用時，為了減少其引發的嚴重骨髓抑制和胃腸道黏膜毒性，患者必須常規補充 vitamin B12 和葉酸。\n- C. 正確。Cytarabine（Ara-C）為胞嘧啶阿拉伯糖苷，主要作用是抑制 DNA 聚合酶-α 和 -β 來阻斷 DNA 合成。由於其會被胞苷脫氨酶（cytidine deaminase）快速代謝，且在實體瘤中的活化效率低，因此僅適用於急性白血病等血液腫瘤，不適用於治療實質固態瘤。\n- D. 正確。Allopurinol 會抑制黃嘌呤氧化酶（XO）。由於 6-mercaptopurine（6-MP）主要依賴 XO 代謝失活，併用會導致 6-MP 血中濃度過高而中毒；而另一抗代謝藥 6-thioguanine（6-TG）主要經由其他途徑（如 HPRT 與甲基化）代謝，不依賴 XO，因此選用 6-TG 可避免此交互作用。\n\n【核心考點】\nMethotrexate 與 NSAIDs 併用時，會因為腎血流下降及近端腎小管排泄競爭而導致 MTX 排泄受阻，進而引發嚴重的骨髓抑制等系統性毒性。",
+      "key_point": "Methotrexate 與 NSAIDs 併用會因為競爭腎小管排泄及減少腎血流而增加 MTX 毒性（非影響吸收）。",
+      "flashcard_front": "Methotrexate / NSAIDs 交互作用 / 腎小管排泄競爭 / 骨髓毒性",
+      "flashcard_back": "NSAIDs 會競爭抑制 MTX 於腎小管之主動排泄，並減少腎血流，使 MTX 血中濃度暴增引起嚴重骨髓抑制。",
+      "flashcard_summary": "Methotrexate + NSAIDs -> 競爭腎臟排泄導致 MTX 毒性增加，非影響吸收",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": [
+        "官方 options 欄位為 PGD2, PGF2, PGE2, PGI2，但題幹本身包含 A, B, C, D 抗代謝藥物敘述，本解析依題幹敘述進行選項解析，建議人工核對資料庫結構。"
+      ]
+    },
+    {
+      "question_id": "110-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題詢問解熱鎮痛藥 ibuprofen 作用於腦部以減少何種自泌素的生成來達到退燒效果。當身體發炎或受病毒感染時，下視丘會合成前列腺素，導致體溫調定點上移，而 ibuprofen 透過抑制環氧合酶（COX）來阻止此過程。\n\n【選項詳解】\n- A. 錯誤。PGD2 主要由肥大細胞產生，參與過敏反應、哮喘以及睡眠引導，與發熱反應的體溫調定點上升無主要直接關係。\n- B. 錯誤。PGF2 主要作用於子宮平滑肌收縮，臨床上可用於引產，並非下視丘體溫調控中心介導發熱反應的主要前列腺素。\n- C. 正確。PGE2 是下視丘體溫調節中心調高體溫調定點（set point）的最關鍵介質。發炎因子（如 IL-1, TNF-α）刺激下視丘環氧合酶（COX）活化，產生 PGE₂ 並作用於 EP3 受體，引發發燒。Ibuprofen 透過抑制 COX 活性，減少腦部 PGE₂ 的合成，從而發揮解熱退燒作用。\n- D. 錯誤。PGI2（前列環素）主要由血管內皮細胞合成，具有擴張血管和抑制血小板凝集的作用，並不是下視丘體溫調定點上升的介導者。\n\n【核心考點】\n發燒反應主要是由致熱源刺激下視丘合成 PGE₂ 所引起。解熱鎮痛藥如 ibuprofen 藉由抑制環氧合酶（COX）來減少腦部 PGE₂ 的生成，達到退燒效果。",
+      "key_point": "Ibuprofen 抑制下視丘前列腺素 PGE2 的生成，降低上移的體溫調定點，進而發揮解熱作用。",
+      "flashcard_front": "發燒機制 / PGE2 / 下視丘體溫調定點 / Ibuprofen 解熱作用",
+      "flashcard_back": "致熱源刺激下視丘合成 PGE2 導致體溫調定點上升；Ibuprofen 抑制 COX 減少 PGE2 生成而退燒。",
+      "flashcard_summary": "發燒 -> 下視丘 PGE2 增加；Ibuprofen 透過抑制 PGE2 合成來退燒",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題為否定題，詢問多發性硬化症（multiple sclerosis）用藥 fingolimod 的錯誤敘述。Fingolimod 是一種 S1P 受體調節劑，主要使淋巴細胞表面的 S1P 受體內吞降解，導致淋巴細胞被扣留在淋巴結中，無法進入循環系統。\n\n【選項詳解】\n- A. 正確。Fingolimod 在體內被磷酸化後，會與淋巴細胞表面的 1-磷酸鞘氨醇（S1P）受體結合，並誘導受體發生內吞與降解，藉此調節 S1P 受體通路。\n- B. 錯誤。淋巴細胞表面的 S1P1 受體是其游出淋巴結的關鍵信號。Fingolimod 導致該受體降解，淋巴細胞因而無法感應 S1P 的濃度梯度，被滯留（扣留）在淋巴結中，無法釋放到外周血液循環。因此其效果是「阻止/減少」釋放，而非促進釋放。\n- C. 正確。由於自體反應性 T 細胞被扣留在淋巴結內而無法進入外周血循環，因此穿過血腦屏障進入中樞神經系統大腦及脊髓的自身反應性淋巴細胞數量會顯著減少，從而減緩髓鞘受損。\n- D. 正確。Fingolimod 會活化心臟與心臟傳導系統上的 S1P 受體，在首次給藥時常導致心跳過緩（bradycardia）或房室傳導阻滯（AV block）。因此臨床指引規定，患者首次服藥後必須在醫療機構內進行至少 6 小時的心電圖監護。\n\n【核心考點】\nFingolimod 藉由下調淋巴細胞表面的 S1P1 受體，將淋巴細胞「扣留在淋巴結」內，從而阻止其釋放至循環中侵襲神經髓鞘。其首次服藥之重大副作用為心跳過緩。",
+      "key_point": "Fingolimod 下調淋巴細胞 S1P1 受體，將淋巴細胞扣留在淋巴結內（阻止釋放至循環）。首次用藥具心跳過緩毒性。",
+      "flashcard_front": "Fingolimod / 作用機制 / S1P 受體調節劑 / 淋巴細胞扣留 / 心跳過緩副作用",
+      "flashcard_back": "Fingolimod 導致 S1P1 受體內吞降解，將淋巴細胞扣留在淋巴結（阻止釋放到循環）。首次用藥需監控心跳過緩。",
+      "flashcard_summary": "Fingolimod -> 扣留淋巴細胞在淋巴結中（阻止釋放），首次給藥可能導致心跳過緩",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題為否定題，詢問血小板缺乏症治療藥物（如 romiplostim 與 eltrombopag）的錯誤敘述。Romiplostim 與 eltrombopag 屬於血小板生成素（TPO）受體致效劑，用以促進巨核細胞增殖與成熟。\n\n【選項詳解】\n- A. 錯誤。Romiplostim（重組融合勝肽）與 eltrombopag（口服小分子）均為血小板生成素（TPO）受體致效劑（TPO receptor agonists），而不是 G-CSF（顆粒球殖民刺激因子，如 filgrastim，用以增加中性粒細胞）受體致效劑。\n- B. 正確。慢性C型肝炎患者接受干擾素（peginterferon）合併 ribavirin 治療時，常因骨髓抑制引發血小板缺乏症。口服 eltrombopag 可有效提升血小板數量，確保干擾素治療能順利進行。\n- C. 正確。Eltrombopag 具有潛在肝毒性，可能引起轉氨酶（ALT/AST）和膽紅素顯著升高。因此，在使用 eltrombopag 期間，臨床上必須定期監測患者的肝功能指數。\n- D. 正確。在內源性造血調節中，血小板生成素（TPO）與白介素-11（IL-11）皆是促進巨核細胞分化與生成血小板的重要調節成分，重組 IL-11 製劑亦可用於防範化療引起之重度血小板低下。\n\n【核心考點】\nRomiplostim 與 eltrombopag 均為血小板生成素（TPO）受體致效劑（非 G-CSF 受體致效劑）；eltrombopag 具肝毒性副作用，需定期監測肝功能。",
+      "key_point": "Romiplostim 與 eltrombopag 均為 TPO 受體致效劑而非 G-CSF 受體致效劑，其中 eltrombopag 有肝毒性需監控。",
+      "flashcard_front": "Romiplostim & Eltrombopag / TPO 受體致效劑 / 肝毒性監控 / 抗菌/造血類藥物分類",
+      "flashcard_back": "Romiplostim 與 Eltrombopag 是 TPO（血小板生成素）受體致效劑而非 G-CSF。Eltrombopag 具肝毒性，須定期驗肝功能。",
+      "flashcard_summary": "Romiplostim 與 eltrombopag -> 均為 TPO 受體致效劑（非 G-CSF），後者具肝毒性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題詢問適用於改善慢性腎衰竭所致貧血（腎性貧血）的藥物。腎衰竭時，腎臟合成紅血球生成素（erythropoietin, EPO）的能力嚴重受損，導致骨髓造血刺激不足，補充重組人紅血球生成素為其首選治療。\n\n【選項詳解】\n- A. 正確。腎臟是人體合成 EPO 的主要器官。慢性腎衰竭會使腎臟分泌內源性 EPO 減少，引發腎性貧血。給予重組人紅血球生成素（erythropoietin）能直接刺激骨髓紅血球祖細胞，有效改善貧血。\n- B. 錯誤。Azathioprine 是一種嘌呤合成抑制劑（免疫抑制劑），其常見且嚴重的副作用是骨髓抑制，可能加劇貧血，並不適用於治療貧血。\n- C. 錯誤。Coumarin（如 warfarin）為維生素K拮抗劑（抗凝血劑），用於預防血栓形成，與紅血球生成或改善貧血完全無關。\n- D. 錯誤。Zidovudine 是一種抗 HIV 的核苷類反轉錄酶抑制劑（NRTI），具有顯著的骨髓抑制毒性，常導致患者嚴重貧血（大球性貧血），並非改善貧血的藥物。\n\n【核心考點】\n腎性貧血主要是由於慢性腎衰竭使腎實質產生的紅血球生成素（EPO）不足所致，臨床首選重組人紅血球生成素（erythropoietin）進行補充治療。",
+      "key_point": "慢性腎衰竭導致內源性紅血球生成素（EPO）不足，補充外源性 erythropoietin 可直接改善腎性貧血。",
+      "flashcard_front": "腎性貧血 / 機制與首選藥物 / Erythropoietin / 腎衰竭造血調控",
+      "flashcard_back": "腎性貧血起因於腎臟受損導致紅血球生成素（EPO）分泌不足；臨床給予重組 erythropoietin 可有效刺激造血。",
+      "flashcard_summary": "腎性貧血 -> 首選 erythropoietin（EPO）進行補充治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題為否定題，詢問何種狀況比較不適合用生長激素（growth hormone/somatotropin）治療。生長激素用於治療 GH 缺乏或矮小相關疾病，而肢端肥大症是由於生長激素過多引起，為其絕對禁忌症。\n\n【選項詳解】\n- A. 正確。肢端肥大症（acromegaly）是因為體內生長激素（GH）與 IGF-1 過度分泌所致。治療應以降低 GH 濃度為主（如使用 octreotide 或 pegvisomant），再給予生長激素會使病情急劇惡化，因此絕對不適合使用。\n- B. 錯誤。小胖威利症候群（Prader-Willi syndrome）患者由於下視丘功能異常而常伴有生長激素缺乏，使用生長激素治療能有效改善其終身身高、身體組成（減少脂肪，增加肌肉）與運動能力。\n- C. 錯誤。透納氏症候群（Turner syndrome）女性患者因性染色體異常而身材矮小，臨床上使用重組生長激素治療已被證實能有效增加其成人身高。\n- D. 錯誤。生長激素缺乏症（growth hormone deficiency）患者由於垂體功能不全導致內源性生長激素不足，是使用 somatotropin（重組生長激素）補充治療的最經典適應症。\n\n【核心考點】\n生長激素（somatotropin）主要適用於生長發育遲緩及生長激素缺乏相關病症；肢端肥大症（acromegaly）為生長激素過量分泌之疾病，為生長激素治療之絕對禁忌症。",
+      "key_point": "生長激素 somatotropin 用於發育遲緩或 GH 缺乏者；肢端肥大症為 GH 過剩之疾病，禁用生長激素。",
+      "flashcard_front": "生長激素治療 / 臨床適應症與禁忌 / Somatotropin / 肢端肥大症",
+      "flashcard_back": "生長激素（somatotropin）適用於生長激素缺乏、Turner 及 Prader-Willi 症候群。肢端肥大症為 GH 分泌過剩，屬絕對禁忌。",
+      "flashcard_summary": "生長激素治療 -> 禁用於肢端肥大症；可用於生長激素缺乏、Turner 與 Prader-Willi 症候群",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:05:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

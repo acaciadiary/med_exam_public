@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-2.json",
+  "dataset_id": "110-2_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題考查血栓性血小板減少性紫斑症（TTP）的臨床特徵、致病機轉與治療原理。患者表現為典型五聯症中的微血管病性溶血性貧血（黃疸、碎裂紅血球）、血小板低下（出血傾向）、神經症狀（中風、意識模糊）與腹痛，且凝血功能（PT/APTT）正常，暗示為非凝血因子消耗引起的微血管血栓；經血漿置換治療後改善，確診為 TTP，其機轉為 ADAMTS13 缺乏。\n\n【選項詳解】\n- A. 正確。血栓性血小板減少性紫斑症（TTP）的主因是體內產生自體抗體（IgG）攻擊金屬蛋白酶 ADAMTS13，或先天基因缺陷使其活性不足，導致超大分子量 von Willebrand factor 多聚體（UL-vWF）無法被正常剪切，在微血管內引發異常血小板黏附與血栓。血漿置換術（plasma exchange）能移除患者血中的自體抗體與發炎介質，同時補充新鮮冷凍血漿中的活性 ADAMTS13 酶，是目前 TTP 的第一線首選治療。\n- B. 錯誤。TTP 形成血栓的原因是缺乏 ADAMTS13 去剪切 vWF，而不是產生抗體攻擊 vWF；且血漿置換的目的是清除抗體並補充 ADAMTS13，並非補充 vWF（vWF 過多反而促成微血栓形成）。\n- C. 錯誤。瀰漫性血管內凝血（DIC）雖然也會出現碎裂紅血球與血小板低下，但因為大量消耗凝血因子，其凝血功能檢查（PT 與 APTT）會顯著延長，且通常伴隨 D-dimer 上升，與本題患者「PT 與 APTT 正常」的臨床特徵不符。\n- D. 錯誤。A 型血友病（Hemophilia A）是因第八凝血因子（Factor VIII）缺乏所致，主要表現為深部組織出血（如關節腔積血），其 APTT 會顯著延長，且不會出現血小板低下或碎裂紅血球等微血管病性溶血性貧血（MAHA）的特徵。\n\n【核心考點】\n1. TTP 的典型五聯徵（pentad）：血小板低下、微血管病性溶血性貧血（schistocytes）、神經症狀、發燒、腎功能受損。\n2. 鑑別 TTP 與 DIC：TTP 的 PT/APTT 正常；DIC 的 PT/APTT 顯著延長。\n3. TTP 的病生理機轉為自體抗體攻擊 ADAMTS13 導致其活性下降，首選治療為血漿置換術（PE）。",
+      "key_point": "血栓性血小板減少性紫斑症（TTP）的病生理機轉為 ADAMTS13 缺乏，血漿置換術可藉由清除抗體與補充該酶來改善病情。",
+      "flashcard_front": "TTP (血栓性血小板減少性紫斑症) 的病生理機轉、診斷指標及首選治療方式為何？",
+      "flashcard_back": "機轉：自體抗體攻擊 ADAMTS13 使其缺乏，致 vWF 無法剪切而形成微血栓。\n診斷：PT/APTT 正常、血小板低下、碎裂紅血球（schistocytes）。\n治療：首選血漿置換術（PE）。",
+      "flashcard_summary": "TTP -> ADAMTS13 缺乏與自體抗體攻擊，表現為 PT/APTT 正常、溶血與血小板低下，首選血漿置換。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n本題考查心臟猝死（Sudden Cardiac Death, SCD）的法醫病理學診斷與流行病學。患者具備高齡、抽菸、未控制的高血壓與糖尿病等多重冠狀動脈疾病（CAD）的高危險因子，突然意識喪失後猝死，最常見的基礎解剖病變是嚴重冠狀動脈粥狀硬化。\n\n【選項詳解】\n- A. 正確。在成人心臟猝死（SCD）的解剖案例中，約有 80% 至 90% 存在嚴重的冠狀動脈疾病（Coronary Artery Disease, CAD），特別是管腔狹窄大於 75% 的多支血管硬化。這些患者常在急性心肌缺血或應激下，誘發致死性心室顫動（Ventricular Fibrillation, VF）等心律不整而於數分鐘內死亡。\n- B. 錯誤。心室壁破裂（ventricular free wall rupture）是急性心肌梗塞後約 3-7 天可能發生的嚴重致死性併發症，會引起心包填塞（cardiac tamponade）導致猝死，但這僅占所有心臟猝死案例的極少數，並非最常見的病理發現。\n- C. 錯誤。心肌炎（myocarditis）是心肌的發炎性疾病，常由病毒感染（如 Coxsackievirus）引起，是年輕人或運動員心臟猝死的重要原因之一，但在 60 歲且具多重三高危險因子的中老年群體中，其發生率遠低於冠狀動脈粥狀硬化。\n- D. 錯誤。肺動脈高壓（pulmonary hypertension）會導致右心室肥大及右心衰竭，嚴重時可能引發猝死，但其在臨床與法醫猝死案例中所占的比例非常低，並非心臟猝死最常見的基礎病理改變。\n\n【核心考點】\n1. 成人猝死中最常見的原發死因為心臟猝死（SCD），而心臟猝死最主要的病理生理基礎為缺血性心臟病（IHD），即嚴重的冠狀動脈粥狀硬化（CAD），多死於致死性心律不整（VF）。\n2. 其他較少見的心臟猝死死因包括心肌炎、肥厚性心肌症或心臟瓣膜病，多見於年輕人群。",
+      "key_point": "成人心臟猝死（SCD）最常見的潛在病因是嚴重的冠狀動脈粥狀硬化疾病（CAD）。",
+      "flashcard_front": "成人心臟猝死（SCD）最常見的解剖發現及誘發死因是什麼？",
+      "flashcard_back": "最常見病變為嚴重的冠狀動脈疾病（CAD，占 80% 以上），常因急性缺血誘發致命性心室顫動（VF）等心律不整致死。",
+      "flashcard_summary": "心臟猝死 -> 成人最常見死因為嚴重的冠狀動脈疾病（CAD）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n本題考查細動脈硬化（Arteriolosclerosis）的病理分類與臨床病理特徵。細動脈硬化主要分為玻璃樣細動脈硬化（hyaline arteriolosclerosis）與增殖性細動脈硬化（hyperplastic arteriolosclerosis）。玻璃樣細動脈硬化通常是由於長期、慢性的血流動力學壓力或代謝異常導致血漿蛋白滲漏入血管壁所致；而急性、急遽的重度血壓升高則易導致增殖性硬化或壞死性細動脈炎。\n\n【選項詳解】\n- A. 錯誤。在正常老年人（aging）的腎臟中，生理性的血管老化常伴隨輕微的玻璃樣細動脈硬化，屬於老化過程中的常見退化性病理表現。\n- B. 錯誤。長期良性高血壓（benign hypertension）患者的血管內皮因長期慢性壓力受損，血漿蛋白逐漸滲透進入血管內皮下，並促使平滑肌細胞產生多糖基質，導致細動脈壁呈現均質、粉紅色的玻璃樣增厚（hyaline thickening）。\n- C. 錯誤。糖尿病（diabetes mellitus）患者的血管壁發生非酶性糖化作用（advanced glycation end-products），血管內皮阻隔功能受損，基底膜增厚且血漿蛋白滲漏增加，這會引起極為嚴重的玻璃樣細動脈硬化，且典型地同時侵犯腎小球的入球（afferent）與出球（efferent）細動脈。\n- D. 正確。年輕病人若患有腎上腺嗜鉻細胞瘤（pheochromocytoma），會因為突發性釋放大量兒茶酚胺而引發急劇、顯著的血壓上升（惡性高血壓 malignant hypertension）。在這種急性高血壓狀態下，細動脈主要引發血管壁平滑肌增生的「增殖性/洋蔥皮樣細動脈硬化（hyperplastic arteriolosclerosis）」或「壞死性細動脈炎（necrotizing arteriolitis）」，而非慢性的玻璃樣增厚。\n\n【核心考點】\n1. 玻璃樣細動脈硬化（Hyaline arteriolosclerosis）見於慢性良性高血壓、糖尿病與老年退化，病理特徵為無結構之粉染均質蛋白沉積。\n2. 增殖性細動脈硬化與壞死性細動脈炎見於惡性高血壓（如嗜鉻細胞瘤引發之急性高血壓危象），病理特徵為平滑肌細胞呈「洋蔥皮樣」增生。",
+      "key_point": "慢性良性高血壓、糖尿病與老年退化會引起玻璃樣細動脈硬化；急性惡性高血壓（如嗜鉻細胞瘤危象）則引起增殖性細動脈硬化與壞死性細動脈炎。",
+      "flashcard_front": "玻璃樣細動脈硬化與增殖性細動脈硬化/壞死性細動脈炎的臨床病因對比為何？",
+      "flashcard_back": "玻璃樣（Hyaline）：見於良性高血壓、糖尿病、老年人，因蛋白滲漏所致。\n增殖性/壞死性：見於急重度高血壓（如嗜鉻細胞瘤），呈洋蔥皮樣增生或纖維素樣壞死。",
+      "flashcard_summary": "細動脈硬化 -> 玻璃樣硬化見於良性高血壓/糖尿病；增殖性/壞死性硬化見於惡性高血壓（如嗜鉻細胞瘤）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n本題考查巨母紅血球性貧血（Megaloblastic Anemia）的病因學。巨母紅血球性貧血是因 DNA 合成受阻而導致紅血球前驅細胞「核質發育不平衡（nuclear-cytoplasmic asynchrony）」的貧血。在細胞分裂與複製的過程中，維生素 B12（cobalamin）與葉酸（Vit B9）是合成 DNA 鹼基胸腺嘧啶（thymidine）的關鍵輔酶，缺乏兩者之一會導致此症。\n\n【選項詳解】\n- A. 錯誤。維生素 B1（thiamine，硫胺素）缺乏主要引起腳氣病（beriberi，分為乾性神經病變與濕性心血管病變）或韋尼克-科薩科夫症候群（Wernicke-Korsakoff syndrome），不會影響 DNA 合成，因此不會導致巨母紅血球性貧血。\n- B. 錯誤。維生素 B2（riboflavin，核黃素）是黃素蛋白 FAD 與 FMN 的前驅物，缺乏主要表現為口角炎（angular cheilitis）、唇炎、舌炎與脂漏性皮膚炎，通常不會導致巨母紅血球性貧血。\n- C. 錯誤。維生素 B6（pyridoxine，吡哆醇）缺乏主要影響血紅素（heme）的合成（因為 PLP 是 ALAS 的輔酶），會導致小細胞低色素性貧血或鐵粒幼細胞性貧血（sideroblastic anemia），而非大細胞性的巨母紅血球性貧血。\n- D. 正確。維生素 B12（cobalamin）是同半胱胺酸轉甲基酶（homocysteine methyltransferase）的輔酶，負責將 5-methyl-THF 轉化為 THF。當維生素 B12 缺乏時，葉酸會被卡在甲基化狀態（methylfolate trap），使得胸腺嘧啶核苷酸（dTMP）無法合成，導致 DNA 複製障礙，骨髓紅細胞分裂受阻，胞質內 RNA 及蛋白質正常發育，因而形成體積碩大的巨母紅血球。\n\n【核心考點】\n1. 巨母紅血球性貧血的主因為維生素 B12 或葉酸缺乏導致 DNA 合成障礙。\n2. 區分維生素 B6 與 B12 缺乏之貧血類型：B6 缺乏導致小細胞低色素性/鐵粒幼細胞貧血；B12 缺乏導致大細胞巨母紅血球性貧血。",
+      "key_point": "維生素 B12 或葉酸缺乏會使 DNA 合成受阻，導致骨髓造血細胞核質發育不平衡，引發巨母紅血球性貧血。",
+      "flashcard_front": "巨母紅血球性貧血的病生理機轉與常見缺乏的維生素為何？",
+      "flashcard_back": "因維生素 B12 或葉酸（B9）缺乏，導致胸腺嘧啶（dTMP）合成受阻與 DNA 複製障礙，使細胞核分裂延遲但胞質發育正常（核質不平衡）。",
+      "flashcard_summary": "巨母紅血球性貧血 -> 維生素 B12 或葉酸缺乏阻礙 DNA 合成所致。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題考查陣發性夜間血紅素尿症（Paroxysmal Nocturnal Hemoglobinuria, PNH）的臨床診斷、檢驗與分子遺傳機轉。患者表現出溶血性貧血與血小板低下，且血漿置換治療無效；流式細胞儀證實紅血球表面缺乏 CD55 與 CD59 這兩種補體調節蛋白，此為 PNH 的黃金診斷特徵，其致病機轉為造血幹細胞後天性 PIGA 基因突變。\n\n【選項詳解】\n- A. 錯誤。c-KIT 基因編碼一種酪氨酸激酶受體（stem cell factor receptor），其突變與胃腸道基質瘤（GIST）、肥大細胞增多症（mastocytosis）及部分急性骨髓性白血病（AML）有關，但與 CD55/CD59 膜表面錨定缺陷無關。\n- B. 正確。陣發性夜間血紅素尿症（PNH）是一種後天克隆性造血幹細胞疾病。由於 X 染色體上的 PIGA 基因（phosphatidylinositol glycan anchor biosynthesis class A）發生後天性突變，導致糖磷脂醯肌醇（GPI-anchor）合成缺陷。CD55（衰變加速因子 DAF）與 CD59（膜攻擊複合物抑制劑 MAC-IP）為 GPI 錨定蛋白，無法正常固定在紅血球、白血球與血小板膜表面，使得這些血球失去抵抗補體（complement）攻擊的能力，引發慢性血管內溶血與血栓傾向。\n- C. 錯誤。MPL 基因編碼促血小板生成素受體（TPO receptor），其突變主要與骨髓增殖性腫瘤（如原發性血小板增多症 ET、骨髓纖見化 PMF）相關，不涉及補體調節蛋白 CD55/CD59 的表現。\n- D. 錯誤。JAK2 基因突變（最常見為 JAK2 V617F）會導致下游酪氨酸激酶持續活化，是骨髓增殖性腫瘤（如真性紅血球增多症 PV、原發性血小板增多症 ET）的主要驅動突變，其流式細胞儀檢查不會出現 CD55 或 CD59 缺失。\n\n【核心考點】\n1. PNH 的臨床表現：慢性血管內溶血、含鐵血黃素尿、血栓傾向及全血球減少（如血小板低下）。\n2. PNH 的診斷金標準：流式細胞儀檢測紅血球與粒細胞表面的 CD55（DAF）與 CD59（MAC-IP）表現缺失。\n3. PNH 的致病機制：後天造血幹細胞 PIGA 基因突變導致 GPI 錨定合成受阻。",
+      "key_point": "陣發性夜間血紅素尿症（PNH）是由於後天性 PIGA 基因突變導致 GPI 錨定合成障礙，使 CD55 與 CD59 無法錨定於細胞膜，紅血球因而易受補體攻擊溶血。",
+      "flashcard_front": "PNH (陣發性夜間血紅素尿症) 的致病基因、膜蛋白缺失及臨床診斷依據為何？",
+      "flashcard_back": "基因：後天造血幹細胞 PIGA 基因突變。\n機制：GPI 錨定蛋白合成缺陷，使 CD55（DAF）與 CD59（MAC-IP）缺失。\n診斷：流式細胞儀偵測紅血球/粒細胞表面缺乏 CD55/CD59。",
+      "flashcard_summary": "PNH -> PIGA 基因突變導致 GPI 錨定缺陷，使紅血球缺乏 CD55/CD59 而易被補體溶解。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題為否定題，考查肺高壓（Pulmonary Hypertension, PH）的臨床病因分類。根據世界衛生組織（WHO）對肺高壓的分類，其常見病因包括：動脈性肺高壓、左心疾病引起的肺高壓、肺部疾病/缺氧引起的肺高壓、慢性血栓栓塞性肺高壓（CTEPH）等。三尖瓣狹窄會使血液滯留於右心房，減少排入肺動脈的血流，因此不會引起肺高壓。\n\n【選項詳解】\n- A. 錯誤（敘述正確，非本題所選之錯誤選項）。慢性阻塞性肺病（COPD）屬於 WHO 第三類肺高壓（因肺部疾病或缺氧引起）。慢性缺氧會引發肺部小動脈平滑肌增生與反射性血管收縮，並隨肺泡壁破壞導致毛細血管床減少，從而引發肺血管阻力增加與肺高壓（cor pulmonale 肺心症）。\n- B. 錯誤（敘述正確，非本題所選之錯誤選項）。慢性間質性肺病（ILD，如特發性肺纖維化 IPF）同樣屬於 WHO 第三類肺高壓。廣泛的肺間質纖維化會壓迫並破壞肺部微血管網絡，且伴隨局部缺氧引發血管收縮，是臨床上導致肺高壓的常見嚴重病因。\n- C. 錯誤（敘述正確，非本題所選之錯誤選項）。反覆發生肺部血栓栓塞症（PE）會引發慢性血栓栓塞性肺高壓（CTEPH，屬於 WHO 第四類）。血栓機化造成肺動脈管腔永久性阻塞與狹窄，大幅增加肺血管阻力，是導致進行性肺高壓的重要成因。\n- D. 正確（敘述錯誤，為本題應選答案）。三尖瓣狹窄（tricuspid stenosis）位於右心房與右心室之間。狹窄會阻礙血液從右心房流入右心室，導致右心房壓力升高及體循環靜脈淤血（如頸靜脈怒張、肝脾腫大、下肢水腫），但由於流入肺動脈的血流量反而減少，因此不會引發肺動脈高壓。相較之下，左心疾病（如二尖瓣狹窄或左心衰竭）則會使左心房壓力逆向傳導至肺靜脈與肺毛細血管，是引起第二類肺高壓的最常見病因。\n\n【核心考點】\n1. 肺高壓病因分類：COPD 與 ILD 透過缺氧血管收縮與毛細血管受壓致 PH（第三類）；肺栓塞因血管阻塞致 PH（第四類）；左心病變（如二尖瓣狹窄）因血液淤積肺部致 PH（第二類）。\n2. 右心瓣膜病變（如三尖瓣狹窄）減少肺血流量，引起體循環淤血而非肺高壓。",
+      "key_point": "慢性阻塞性或間質性肺病（缺氧血管收縮）、肺栓塞（血管阻塞）與左心疾病（肺靜脈淤血）會引起肺高壓；右心的三尖瓣狹窄則減少肺血流，引起體循環淤血而非肺高壓。",
+      "flashcard_front": "肺高壓（PH）的常見器官來源病因與右心瓣膜疾病（如三尖瓣狹窄）的效應對比裝化為何？",
+      "flashcard_back": "PH 成因：COPD/間質性肺病（肺泡缺氧）、肺栓塞（栓塞阻力）、二尖瓣狹窄（左心逆向淤血）。\n三尖瓣狹窄：右心房往右心室受阻，減少肺血流，只引起體循環淤血，不引起 PH。",
+      "flashcard_summary": "肺高壓 -> COPD/間質性肺病/肺栓塞/二尖瓣狹窄均可致肺高壓，三尖瓣狹窄則否（僅致體循環淤血）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n本題為否定題，考查惡性胸膜間皮瘤（Malignant Mesothelioma）與石棉暴露（asbestos exposure）的病理生理與流行病學特徵。間皮瘤是源自胸膜或腹膜間皮細胞的惡性腫瘤，與石棉吸入高度相關，有長潛伏期，但腫瘤本身的實體組織內一般找不到石棉小體。\n\n【選項詳解】\n- A. 錯誤（敘述正確，非本題所選之錯誤選項）。約 80% 到 90% 的惡性間皮瘤患者有明確的石棉接觸史，特別是從事造船、建築、剎車片製造或石棉採礦等職業的工人。石棉吸入是目前已知最明確的環境致癌因子。\n- B. 錯誤（敘述正確，非本題所選之錯誤選項）。石棉引起的致癌過程極為緩慢。從最初吸入石棉微絲到臨床診斷出惡性間皮瘤，其潛伏期（latent period）非常長，一般需要 25 到 40 年。\n- C. 錯誤（敘述正確，非本題所選之錯誤選項）。石棉依結構分為溫石棉（蛇紋石類 chrysotile，纖維呈捲曲狀）與角閃石類（amphibole，如青石棉、鐵石棉，呈直針狀）。針狀的角閃石類（amphiboles）不易被巨噬細胞清除，能更深地刺入肺泡並移行至胸膜，因此其致突變性與誘發間皮瘤的能力遠高於溫石棉（chrysotiles）。\n- D. 正確（敘述錯誤，為本題應選答案）。石棉小體（asbestos body，指被含鐵血黃素與蛋白質包裹呈啞鈴狀的石棉纖維）雖然是暴露的病理學證據，但它們主要沉積在「肺泡實質（lung parenchyma）」或周圍間質中。在惡性間皮瘤的腫瘤組織（tumor tissue）本身中，通常是無法或極難找到石棉小體的。因此，診斷間皮瘤並非依靠在腫瘤組織內尋找石棉小體。\n\n【核心考點】\n1. 惡性間皮瘤與石棉（特別是針狀角閃石 amphibole）暴露強烈相關，具數十年的超長潛伏期。\n2. 石棉小體（asbestos body）存在於肺實質中，而非間皮瘤腫瘤組織內。",
+      "key_point": "惡性間皮瘤與石棉（特別是針狀角閃石）暴露高度相關，潛伏期長達數十年，但石棉小體主要存在於周圍肺實質中，而非間皮瘤腫瘤組織內。",
+      "flashcard_front": "惡性間皮瘤與石棉暴露的關係、高危石棉類型及石棉小體的分布特徵為何？",
+      "flashcard_back": "關係：強烈相關，潛伏期可長達 25-40 年。\n類型：直針狀的角閃石類（Amphiboles）致癌力高於溫石棉（chrysotiles）。\n石棉小體：主要分布於周圍肺實質，間皮瘤腫瘤組織內大多不易找到。",
+      "flashcard_summary": "間皮瘤 -> 石棉（角閃石類 amphibole 為主）暴露致癌，潛伏期數十年，腫瘤組織內不易見石棉小體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n本題考查肺部感染性疾病的解剖病理診斷。病理特徵描述為局部性、圓形、中央有充满黃色膿性液體的空腔，且周圍包裹著纖維結締組織構成的增厚囊壁，此為典型肺膿瘍（Lung Abscess）的病變過程。\n\n【選項詳解】\n- A. 錯誤。大葉性或小葉性肺炎（pneumonia）主要表現為肺泡腔內充滿急性發炎細胞（嗜中性白血球）與滲出物，呈現肺實變（consolidation），在未進展為壞死前不會形成中央中空的膿腔及厚纖維外壁。\n- B. 錯誤。肺癌（lung cancer）在大體病理上表現為實體腫瘤硬塊，雖然部分快速生長的腫瘤（如鱗狀細胞癌）可能會因為中央缺血而發生壞死並形成空腔，但空腔內通常為乾燥的碎屑或出血壞死物，且腫瘤邊緣為浸潤性生長之癌細胞，而非規則且均勻的薄層纖維包裹壁。\n- C. 錯誤。肺結核（pulmonary tuberculosis）形成的空腔病灶（cavitary lesion）在大體上極為典型，但其空腔內部所含的物質應為白色的、乾燥呈豆腐渣樣的「乾酪樣壞死物（caseous necrosis）」，且其囊壁在顯微鏡下應為上皮樣細胞、Langerhans 多核巨細胞及淋巴細胞構成的結核性肉芽腫，而非單純的纖維壁包裹黃色膿液。\n- D. 正確。肺膿瘍（lung abscess）是肺組織局限性的化膿性壞死。在急性期，嗜中性白血球液化壞死形成含有濃稠黃色膿液的空腔；隨著病程進展（進入亞急性或慢性期），周圍的肉芽組織與纖維母細胞增生，會在膿腔外圍建立起一層厚度均勻的纖維包裹壁，將化膿病灶局限化。這與題幹所述的大體病理完全吻合。\n\n【核心考點】\n1. 肺部空腔病灶的協同鑑別診斷：肺膿瘍含有黃色膿液且具纖維壁；肺結核含有乾酪樣壞死（caseous necrosis）且具上皮樣肉芽腫壁；空腔性肺癌為實體腫瘤壞死，邊緣為癌細胞浸潤。\n2. 肺膿瘍的成因通常與吸入性肺炎（aspiration pneumonia）或化膿性栓塞相關。",
+      "key_point": "肺部圓形空腔病灶若充滿濃稠黃色膿液且具厚纖維包裹壁，為典型肺膿瘍特徵；若為乾酪樣壞死及上皮樣肉芽腫壁則為肺結核。",
+      "flashcard_front": "如何由大體病理及空腔內含物鑑別肺膿瘍、肺結核與空腔性肺癌？",
+      "flashcard_back": "肺膿瘍：中間為黃色液化膿液，外圍為厚的纖維肉芽包裹壁。\n肺結核：中間為乾酪樣（caseous）壞死，外壁為結核肉芽腫。\n肺癌：中央為缺血出血壞死碎屑，邊緣為浸潤癌細胞。",
+      "flashcard_summary": "肺部空腔病灶 -> 含黃色膿液及厚纖維壁診斷為肺膿瘍；含乾酪樣壞死物診斷為肺結核。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n本題為否定題，考查威爾森氏症（Wilson Disease，肝豆狀核變性）的遺傳學、臨床分佈及病理生理學特徵。威爾森氏症為體染色體隱性遺傳疾病，病生理核心是肝臟細胞內運銅工具基因突變導致銅離子排泄障礙。\n\n【選項詳解】\n- A. 錯誤（敘述正確，非本題所選之錯誤選項）。威爾森氏症通常在童年或青少年至成年早期（多在 6 歲至 40 歲之間）發病，臨床上若在 40 歲以下出現不明原因的急性或慢性肝炎、肝硬化，或伴隨神經精神症狀，應高度懷疑此病。\n- B. 錯誤（敘述正確，非本題所選之錯誤選項）。由於 ATP7B 功能缺陷，肝細胞無法將銅與無銅藍蛋白（apoceruloplasmin）結合形成成熟的血清銅藍蛋白（ceruloplasmin），導致不穩定的無銅藍蛋白在血中半衰期極短而被快速降解，使患者血清 ceruloplasmin 濃度顯著下降（通常 < 20 mg/dL），為臨床重要診斷指標。\n- C. 錯誤（敘述正確，非本題所選之錯誤選項）。游離銅釋放入血後，會沉積於身體多處器官。其中沉積在大腦的基底核（basal ganglia，特別是豆狀核 lenticular nucleus）會引起空泡化變性與星狀細胞增生，臨床表現為巴金森氏樣震顫、步態不穩、構音障礙及精神症狀（故又稱肝豆狀核變性）。\n- D. 正確（敘述錯誤，為本題應選答案）。威爾森氏症的致病基因為位於第 13 號染色體上的 「ATP7B」 基因突變，該基因編碼一種 P 型 ATP 酶（copper-transporting ATPase 2），負責將肝細胞內的銅轉運至高基氏體以合成銅藍蛋白，並介導過剩的銅經溶體排入膽汁。突變導致銅無法排泄，而在體內蓄積。而 ATP8A 基因與此病無關。\n\n【核心考點】\n1. 威爾森氏症是由於 ATP7B 基因突變導致的體染色體隱性遺傳銅離子代謝異常。\n2. 典型臨床與實驗室特徵：發病於 6-40 歲、血清 ceruloplasmin 下降、肝硬化、大腦基底核（豆狀核）變性及角膜 Kaiser-Fleischer 環（K-F ring）。",
+      "key_point": "威爾森氏症是由於第 13 號染色體上的 ATP7B 基因突變，導致肝細胞無法將銅排入膽汁及與 ceruloplasmin 結合，引發銅離子沉積於肝臟、大腦基底核（豆狀核）及角膜。",
+      "flashcard_front": "威爾森氏症（Wilson disease）的致病基因、典型臨床三聯徵及重要生化指標為何？",
+      "flashcard_back": "基因：ATP7B（非 ATP8A）突變，體染色體隱性。\n表現：肝硬化、基底核（豆狀核）變性神經症狀、角膜 K-F 環。\n指標：血清銅藍蛋白（ceruloplasmin）顯著下降（<20 mg/dL）。",
+      "flashcard_summary": "威爾森氏症 -> ATP7B 基因突變致銅離子排泄障礙，表現為 ceruloplasmin 下降、肝硬化與基底核病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n本題為否定題，考查遺傳性血鐵沉著症（Hereditary Hemochromatosis, HH）的遺傳病因、臨床發病特徵及器官受損病理。血鐵沉著症是因鐵過度吸收並沉積於器官（如肝、胰、心）導致實體細胞壞死與纖維化的自體隱性遺傳病，多發生於中年。\n\n【選項詳解】\n- A. 錯誤（敘述正確，非本題所選之錯誤選項）。鐵沉積在肝臟實質細胞內（主要在肝小葉周圍）會產生自由基並引發脂質過氧化，導致進行性肝細胞損傷與瀰漫性纖維化，最終進展為微結節性肝硬化。此類患者發生肝細胞癌（HCC）的風險是常人的 200 倍以上。\n- B. 錯誤（敘述正確，非本題所選之錯誤選項）。鐵廣泛沉積在胰臟的胰島細胞和外分泌腺體會引發間質纖維化與實質萎縮，導致胰島素分泌不足而發生糖尿病（常伴隨皮膚鐵質沉積引起的色素沉著，被稱為「青銅色糖尿病 bronze diabetes」）；若沉積在心肌細胞，則會引發心肌纖維化，導致心臟擴大、限制型或擴張型心肌症以及嚴重的心律不整。\n- C. 正確（敘述錯誤，為本題應選答案）。由於人體缺乏主動排鐵的生理機制，但日常鐵攝入量與吸收量極為微小，體內鐵的病理性累積非常緩慢。患者通常要到中年（體內鐵累積量達到 20-40 克，約為正常存量的數千倍）才會逐漸發病，男性常在 40-50 歲發病，女性因月經及妊娠排鐵保護，通常在停經後（> 50 歲）才發病，極少在兒童時期發病。\n- D. 錯誤（敘述正確，非本題所選之錯誤選項）。絕大多數（約 85-90%）的遺傳性血鐵沉著症患者是由於第 6 號染色體上的 HFE 基因（最常見為 C282Y 或 H63D 突變）突變所致。該突變會干擾肝臟分泌鐵調節素（hepcidin），使小腸上皮的鐵轉運蛋白（ferroportin）失去抑制，導致腸道無節制地超量吸收鐵。\n\n【核心考點】\n1. 遺傳性血鐵沉著症最常由 HFE 基因突變引起，因 hepcidin 下降導致小腸吸收鐵過盛。\n2. 鐵沉積引起器官受損三聯徵（classic triad）：肝硬化（有 HCC 高風險）、青銅色皮膚、糖尿病（胰臟受損）；亦常併發心肌症。\n3. 遺傳性血鐵沉著症因鐵累積速度慢，多發病於中年（男性 >40歲，女性停經後），非兒童期。",
+      "key_point": "遺傳性血鐵沉著症多因 HFE 基因變異引起，導致小腸對鐵吸收無節制；因鐵在體內累積緩慢，多於中年/成年期發病（男性 >40歲，女性停經後），極少在兒童時期發病。",
+      "flashcard_front": "遺傳性血鐵沉著症（HH）的最常見基因變異、發病年齡特徵及器官受損表現為何？",
+      "flashcard_back": "基因：最常見為 HFE 基因變異，體染色體隱性。\n年齡：因鐵累積極緩慢，多發病於中年/成年期，非兒童期。\n表現：肝硬化（HCC 風險高）、胰臟受損（青銅色糖尿病）、心肌纖維化。",
+      "flashcard_summary": "血鐵沉著症 -> 最常見 HFE 基因變異，鐵蓄積緩慢致中年發病，侵犯肝（硬化/癌症）、胰（糖尿病）、心。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

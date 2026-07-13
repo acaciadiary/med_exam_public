@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n兒童慢性腹瀉需逐步評估感染、營養狀態、吸收不良、發炎性腸病與過敏等。HbA1c 反映長期血糖控制，不是營養不良程度的有效標記。\n\n【選項詳解】\n- A. 慢性腹瀉仍需依病史考慮感染性原因，糞便培養或寄生蟲檢查可納入評估。\n- B. prealbumin 半衰期短，可作為近期營養狀態的輔助指標。\n- C. HbA1c 用於評估糖尿病長期血糖控制，不是判讀營養不良程度的生物標記，因此不是建議項目。\n- D. 食物過敏或過敏性腸胃道疾病可造成慢性腹瀉，過敏評估有其角色。\n\n【核心考點】\n慢性腹瀉營養評估可用 prealbumin；HbA1c 不是營養不良指標。",
+      "key_point": "慢性腹瀉營養評估可用 prealbumin；HbA1c 不是營養不良指標。",
+      "flashcard_front": "兒童慢性腹瀉營養指標",
+      "flashcard_back": "Prealbumin 可輔助；HbA1c 不是營養不良指標。",
+      "flashcard_summary": "慢性腹瀉評估 -> 感染、營養、過敏；HbA1c 不適合評估營養。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n典型急性闌尾炎常先出現臍周腹痛，之後轉移到右下腹，並可伴隨厭食、噁心嘔吐；通常是先腹痛後嘔吐。影像與理學檢查陰性不能完全排除。\n\n【選項詳解】\n- A. 腹部 X 光不是診斷闌尾炎的主要工具，糞石只在部分病童可見，不能說大部分都有。\n- B. 感染性腸炎可造成右下腹症狀並與闌尾炎互相鑑別，非傷寒沙門氏菌也可能造成類似或相關表現，不能說不會引起。\n- C. 典型闌尾炎常先腹痛、後嘔吐；若嘔吐先於腹痛，反而較支持腸胃炎等診斷。\n- D. 沒有 muscle guarding 不能排除闌尾炎或破裂，尤其兒童表現可能不典型。\n\n【核心考點】\n典型兒童急性闌尾炎常是先腹痛後嘔吐，檢查陰性不能完全排除。",
+      "key_point": "典型兒童急性闌尾炎常是先腹痛後嘔吐，檢查陰性不能完全排除。",
+      "flashcard_front": "急性闌尾炎症狀順序",
+      "flashcard_back": "典型為先腹痛，後噁心嘔吐。",
+      "flashcard_summary": "闌尾炎 -> 先痛後吐；X 光與 guarding 不是排除依據。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n膽道閉鎖與新生兒肝炎都可造成嬰兒膽汁鬱積。組織學上，膽道閉鎖常見膽管增生與門脈區纖維化；新生兒肝炎則可見發炎細胞浸潤、肝細胞壞死與巨細胞轉化。\n\n【選項詳解】\n- A. 新生兒肝炎整體發生並不少，不能簡化為膽道閉鎖發生率稍高。\n- B. 膽道閉鎖可見 bile ductular proliferation；新生兒肝炎可見發炎細胞浸潤與肝細胞傷害，符合兩者病理鑑別。\n- C. 新生兒肝炎病因多元，病毒性原因不只 B 型肝炎，且許多病例可為特發性或其他感染。\n- D. 膽道閉鎖 Kasai 手術越早越好，通常希望 60 天內處理；滿 4 個月才手術預後較差。\n\n【核心考點】\n膽道閉鎖病理看膽管增生；新生兒肝炎看肝細胞發炎壞死與巨細胞變化。",
+      "key_point": "膽道閉鎖病理看膽管增生；新生兒肝炎看肝細胞發炎壞死與巨細胞變化。",
+      "flashcard_front": "膽道閉鎖 vs 新生兒肝炎病理",
+      "flashcard_back": "膽道閉鎖：膽管增生；新生兒肝炎：發炎細胞浸潤與肝細胞壞死。",
+      "flashcard_summary": "嬰兒膽汁鬱積鑑別 -> 病理切片是重要線索。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n題目問兒童 RDIs 何者錯誤。嬰兒期蛋白質品質很重要，1 歲以下不建議以植物性蛋白占總蛋白 2/3 以上作為原則；兒童鈣、磷、鋅需求大致隨成長增加。\n\n【選項詳解】\n- A. 嬰兒需要高品質蛋白質與足量必需胺基酸，不宜主張植物性蛋白占 2/3 以上，因此是錯誤敘述。\n- B. 骨骼成長使鈣需求隨年齡增加，敘述正確。\n- C. 磷與骨骼、能量代謝相關，兒童期需求也大致隨年齡增加，敘述正確。\n- D. 鋅與成長、免疫與組織修復相關，兒童期需求會隨年齡些微增加，敘述正確。\n\n【核心考點】\n1 歲以下嬰兒不宜以高比例植物性蛋白作為主要蛋白來源。",
+      "key_point": "1 歲以下嬰兒不宜以高比例植物性蛋白作為主要蛋白來源。",
+      "flashcard_front": "嬰兒蛋白質 RDIs",
+      "flashcard_back": "嬰兒重視高品質蛋白，不建議植物性蛋白占多數。",
+      "flashcard_summary": "兒童營養 -> 鈣磷鋅隨年齡增加；嬰兒蛋白品質重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n9 個月嬰兒陣發性劇烈哭鬧、嘔吐，影像若見 target sign 或相關腸阻塞表現，最典型是腸套疊。好發 6 至 36 個月，可有間歇腹痛、嘔吐、血便。\n\n【選項詳解】\n- A. 急性闌尾炎在嬰兒較少見，通常以持續腹痛、發燒、右下腹壓痛為主，不符合典型陣發性哭鬧。\n- B. 嬰兒腸絞痛多發生在較小月齡，通常無影像上的腸套疊表現，也不會有明顯嘔吐與急性腹部影像異常。\n- C. 腸套疊典型為陣發性哭鬧、嘔吐與超音波 target sign，符合題幹。\n- D. 腸道旋轉不良合併中腸扭轉常見膽汁性嘔吐與急症表現，題幹更符合腸套疊。\n\n【核心考點】\n6 至 36 個月嬰兒陣發性腹痛哭鬧與超音波 target sign 要想到腸套疊。",
+      "key_point": "6 至 36 個月嬰兒陣發性腹痛哭鬧與超音波 target sign 要想到腸套疊。",
+      "flashcard_front": "9 個月 + 陣發性哭鬧 + 嘔吐",
+      "flashcard_back": "最可能是腸套疊。",
+      "flashcard_summary": "腸套疊 -> 陣發性哭鬧、嘔吐、target sign。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n血清陰離子間隙公式為 Na - Cl - HCO3。代入鈉 146、氯 115、HCO3 18，得到 146 - 115 - 18 = 13。\n\n【選項詳解】\n- A. 13 是依 Na - Cl - HCO3 正確計算出的結果。\n- B. 29 可能是漏掉氯或使用錯誤公式，不符合標準計算。\n- C. 11 與題幹數值代入不符。\n- D. 6 與題幹數值代入不符，也不符合此題的酸鹼數據。\n\n【核心考點】\nSerum anion gap = Na - Cl - HCO3，本題為 13。",
+      "key_point": "Serum anion gap = Na - Cl - HCO3，本題為 13。",
+      "flashcard_front": "Anion gap 公式",
+      "flashcard_back": "Na - Cl - HCO3；本題 146 - 115 - 18 = 13。",
+      "flashcard_summary": "酸鹼計算 -> anion gap = 13。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n慢性腎臟病兒童身材矮小與營養不良、代謝性酸中毒、腎骨失養、貧血、慢性發炎與 GH/IGF-1 軸抗性有關。重點不是生長激素分泌下降，而是生長激素作用阻抗。\n\n【選項詳解】\n- A. 腎骨失養症會影響骨骼礦化與生長板，會造成身材矮小。\n- B. 代謝性酸中毒會增加蛋白分解並抑制生長，是 CKD 生長遲滯原因。\n- C. CKD 兒童常是 GH/IGF-1 軸作用不良或阻抗，並非主要因生長激素分泌下降，所以此項錯誤。\n- D. 貧血會降低組織供氧並反映慢性病負擔，可加重生長遲滯。\n\n【核心考點】\nCKD 生長遲滯多與 GH resistance 相關，不是單純 GH 分泌下降。",
+      "key_point": "CKD 生長遲滯多與 GH resistance 相關，不是單純 GH 分泌下降。",
+      "flashcard_front": "CKD 兒童矮小機轉",
+      "flashcard_back": "腎骨失養、酸中毒、貧血、GH resistance；不是 GH 分泌下降。",
+      "flashcard_summary": "CKD 成長 -> GH/IGF-1 阻抗而非 GH 分泌不足。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n單純型熱性痙攣是 6 個月至 5 歲兒童發燒時的全身性抽搐，持續小於 15 分鐘，24 小時內不復發，且無局部神經特徵。局部型抽搐屬複雜型特徵。\n\n【選項詳解】\n- A. 單純型熱性痙攣持續時間小於 15 分鐘，敘述正確。\n- B. 單純型應為全身性抽搐；focal convulsion 是複雜型熱性痙攣特徵，因此此項錯誤。\n- C. 24 小時內不復發是單純型定義之一，敘述正確。\n- D. 抽搐後可有短暫嗜睡或意識混亂，但應很快恢復，敘述可接受。\n\n【核心考點】\n單純型熱性痙攣是全身性、小於 15 分鐘、24 小時不復發。",
+      "key_point": "單純型熱性痙攣是全身性、小於 15 分鐘、24 小時不復發。",
+      "flashcard_front": "Simple febrile seizure 定義",
+      "flashcard_back": "全身性、<15 分鐘、24 小時內不復發；局部型不是單純型。",
+      "flashcard_summary": "熱性痙攣 -> focal 表現屬複雜型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\nDystrophin 異常會造成 Duchenne 與 Becker muscular dystrophy。Becker 通常仍有部分 dystrophin 功能，病程較 Duchenne 輕且晚發。\n\n【選項詳解】\n- A. Myotonic dystrophy 是三核苷酸重複擴增疾病，不是 dystrophin 蛋白質或量異常。\n- B. Central core disease 多與 RYR1 等基因相關，不是 dystrophinopathy。\n- C. Spinal muscular atrophy 是下運動神經元疾病，常與 SMN1 缺失相關，不是肌肉細胞 dystrophin 異常。\n- D. Becker muscular dystrophy 是 dystrophin 基因變異造成的 dystrophin 質或量異常。\n\n【核心考點】\nDystrophinopathy 包含 Duchenne 與 Becker muscular dystrophy。",
+      "key_point": "Dystrophinopathy 包含 Duchenne 與 Becker muscular dystrophy。",
+      "flashcard_front": "Dystrophin 異常疾病",
+      "flashcard_back": "Becker muscular dystrophy。",
+      "flashcard_summary": "肌肉失養症 -> Becker/Duchenne = dystrophin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n題目問最不像內分泌異常。13 歲女生尚未初經可仍在正常青春期範圍內；一般會到 15 歲仍無初經或乳房發育後 3 年仍無初經才需更積極評估。\n\n【選項詳解】\n- A. 5 歲一年只長高 2 公分，低於兒童正常生長速率，需懷疑生長激素、甲狀腺或慢性病問題。\n- B. 7 歲男生有陰毛發育屬早發青春期或腎上腺性早熟警訊，需評估。\n- C. 13 歲女生未初經仍可在正常變異內，若其他青春期發育正常，最不像內分泌異常。\n- D. 16 歲男生乳房隆起且持續加重需評估男性女乳症、性腺或內分泌問題。\n\n【核心考點】\n女生 13 歲未初經不一定異常；通常 15 歲仍無初經才更符合原發性無月經評估時點。",
+      "key_point": "女生 13 歲未初經不一定異常；通常 15 歲仍無初經才更符合原發性無月經評估時點。",
+      "flashcard_front": "青春期初經評估",
+      "flashcard_back": "13 歲未初經可仍正常；15 歲仍無初經才需積極評估。",
+      "flashcard_summary": "生長青春期 -> 13 歲女生未初經最不像內分泌異常。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-1.json",
+  "dataset_id": "110-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問 REM sleep 最不適當敘述。REM 腦波低振幅快波，反而類似清醒狀態；NREM 尤其深睡期與清醒腦波差異更大。本題官方答案為 A。\n\n【選項詳解】\n- A. REM 腦波與清醒較相似，說 REM 與清醒差異大於 NREM 與清醒差異是錯誤，故為答案。\n- B. PGO spikes 是 REM 睡眠常見相關現象，敘述合理。\n- C. REM 期有肌張力抑制，頸部與多數骨骼肌張力低於清醒，敘述合理。\n- D. REM 期常伴快速眼動、局部抽動與較可回憶夢境，敘述合理。\n\n【核心考點】\nREM = 腦波像清醒、肌張力低、夢多、PGO spikes；深 NREM 才與清醒腦波差異大。",
+      "key_point": "REM = 腦波像清醒、肌張力低、夢多、PGO spikes；深 NREM 才與清醒腦波差異大。",
+      "flashcard_front": "關於rapid eye movement(REM)sleep的敘述,下列何者最不適當?",
+      "flashcard_back": "REM = 腦波像清醒、肌張力低、夢多、PGO spikes；深 NREM 才與清醒腦波差異大。",
+      "flashcard_summary": "REM = 腦波像清醒、肌張力低、夢多、PGO spikes；深 NREM 才與清醒腦波差異大。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\nfentanyl 對病人具有止痛效果，也因按鈕後帶來疼痛緩解與酬賞而強化按壓行為。Nocebo 是負向期待造成症狀惡化，與 fentanyl 的角色相反。本題官方答案為 B。\n\n【選項詳解】\n- A. fentanyl 是 opioid analgesic，作為止痛劑符合情境。\n- B. nocebo 指負向期待造成不良感受或症狀加重；fentanyl 在此帶來止痛與酬賞，最不可能是 nocebo，故為答案。\n- C. 按壓後獲得止痛會增加未來按壓行為，是行為強化物。\n- D. 疼痛緩解與 opioid 效果可形成酬賞與動機，因此可作為 reward。\n\n【核心考點】\nreinforcer/reward 會增加行為；nocebo 是負向期待造成症狀惡化，和止痛酬賞相反。",
+      "key_point": "reinforcer/reward 會增加行為；nocebo 是負向期待造成症狀惡化，和止痛酬賞相反。",
+      "flashcard_front": "雖聽不懂醫囑和指示,當一位術後產生劇烈疼痛感的病人發現按壓一個白色的鈕能使醫護人員事先準備的  fentanyl溶液自動直接注入自己的靜脈,並產生某種感覺後,術後病人就開始快...",
+      "flashcard_back": "reinforcer/reward 會增加行為；nocebo 是負向期待造成症狀惡化，和止痛酬賞相反。",
+      "flashcard_summary": "reinforcer/reward 會增加行為；nocebo 是負向期待造成症狀惡化，和止痛酬賞相反。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n打開某離子通道時，膜電位會往該離子的平衡電位移動。靜止膜電位 -75 mV；Cl- 平衡電位 -70 mV 較正，打開後去極化；K+ 平衡電位 -80 mV 較負，打開後過極化。本題官方答案為 A。\n\n【選項詳解】\n- A. Cl- 將膜電位拉向 -70 mV，K+ 拉向 -80 mV，因此分別去極化與過極化，故正確。\n- B. 此選項把兩者方向顛倒。\n- C. K+ 平衡電位比靜止膜電位更負，打開 K+ 通道不會去極化。\n- D. Cl- 平衡電位比靜止膜電位更正，打開 Cl- 通道不會過極化。\n\n【核心考點】\n通道打開後，膜電位往該離子的 equilibrium potential 移動。",
+      "key_point": "通道打開後，膜電位往該離子的 equilibrium potential 移動。",
+      "flashcard_front": "假設氯離子的平衡電位為–70 mV,鉀離子的平衡電位為–80 mV,靜止膜電位是–75 mV,在這種情況下打開  氯離子或鉀離子通道,細胞膜電位會如何改變?",
+      "flashcard_back": "通道打開後，膜電位往該離子的 equilibrium potential 移動。",
+      "flashcard_summary": "通道打開後，膜電位往該離子的 equilibrium potential 移動。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n化學突觸傳遞需要動作電位使突觸前電壓依賴性 Ca2+ 通道開啟，Ca2+ 流入觸發囊泡融合與神經傳遞物釋放。本題官方答案為 A。\n\n【選項詳解】\n- A. 阻斷突觸前 Ca2+ 流入會阻止囊泡融合，因此可阻止傳遞物釋放，故正確。\n- B. 典型突觸延遲約 0.5-1 ms，不是 50-100 ms。\n- C. glycine 受體多為 Cl- 通道，通常造成抑制性突觸後電位。\n- D. 神經傳遞物多靠再回收、酵素分解或膠細胞清除，不是大多由微血管擴散回收。\n\n【核心考點】\n突觸前 Ca2+ influx 是 vesicle fusion 與 neurotransmitter release 的必要步驟。",
+      "key_point": "突觸前 Ca2+ influx 是 vesicle fusion 與 neurotransmitter release 的必要步驟。",
+      "flashcard_front": "下列有關突觸訊號傳遞的敘述,何者正確?",
+      "flashcard_back": "突觸前 Ca2+ influx 是 vesicle fusion 與 neurotransmitter release 的必要步驟。",
+      "flashcard_summary": "突觸前 Ca2+ influx 是 vesicle fusion 與 neurotransmitter release 的必要步驟。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n骨骼肌收縮開始的前幾秒需要快速再生 ATP，最立即的來源是 phosphocreatine 將高能磷酸轉給 ADP，由 creatine kinase 催化。本題官方答案為 A。\n\n【選項詳解】\n- A. 磷酸肌酸可快速把磷酸轉給 ADP 形成 ATP，是最初數秒主要來源，故正確。\n- B. 氧化磷酸化效率高但啟動與供氧較慢，不是最初幾秒主要來源。\n- C. 糖解作用可在短時間提供 ATP，但通常接在磷酸肌酸系統之後成為重要來源。\n- D. 脂肪酸不經 glycolysis 產生 ATP，而是經 beta-oxidation 與氧化磷酸化，速度更慢。\n\n【核心考點】\n肌肉立即能量系統：ATP-PCr 最快；接著無氧糖解，長時間靠氧化代謝。",
+      "key_point": "肌肉立即能量系統：ATP-PCr 最快；接著無氧糖解，長時間靠氧化代謝。",
+      "flashcard_front": "骨骼肌開始收縮時,前幾秒鐘所需的ATP主要來自下列何者?",
+      "flashcard_back": "肌肉立即能量系統：ATP-PCr 最快；接著無氧糖解，長時間靠氧化代謝。",
+      "flashcard_summary": "肌肉立即能量系統：ATP-PCr 最快；接著無氧糖解，長時間靠氧化代謝。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nSA node 的 pacemaker potential（phase 4）由 funny Na+ current、T-type Ca2+ 及後續 Ca2+ 流入共同促成，並伴隨 K+ 外流減少，使膜電位緩慢上升。本題官方答案為 A。\n\n【選項詳解】\n- A. 鈉離子與鈣離子流入是緩慢去極化的主要來源，故正確。\n- B. 鈣離子流出不會造成 pacemaker 去極化，方向錯誤。\n- C. 鈉離子流出會使膜電位較負，不符合緩慢上升。\n- D. 鈉、鈣皆流出不會造成去極化。\n\n【核心考點】\nSA node phase 4：If Na+ inward、Ca2+ inward、K+ outward 減少。",
+      "key_point": "SA node phase 4：If Na+ inward、Ca2+ inward、K+ outward 減少。",
+      "flashcard_front": "SA node在產生動作電位前,有一段pacemaker potential,下列那一狀況是造成此一緩慢上升電位產生的主要原  因?",
+      "flashcard_back": "SA node phase 4：If Na+ inward、Ca2+ inward、K+ outward 減少。",
+      "flashcard_summary": "SA node phase 4：If Na+ inward、Ca2+ inward、K+ outward 減少。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n短暫阻斷血流後移除阻斷，缺血期間累積的代謝物與低氧會使血管擴張，恢復血流時出現短暫血流增加，稱反應性充血。本題官方答案為 B。\n\n【選項詳解】\n- A. 主動性充血是組織代謝活動增加時血流上升，如運動肌肉，不是解除短暫阻斷後的現象。\n- B. 阻斷血流後再放開造成過度血流，是反應性充血，故正確。\n- C. 肌原反應是血管平滑肌對壓力伸展的自動調節，不是此題主因。\n- D. 對傷害的反應太廣，不能解釋綁住手指後放開的典型局部血流機制。\n\n【核心考點】\nReactive hyperemia = ischemia 後放開，代謝物累積造成短暫血流過多。",
+      "key_point": "Reactive hyperemia = ischemia 後放開，代謝物累積造成短暫血流過多。",
+      "flashcard_front": "若以一條繩線緊綁某根手指頭根部1~2分鐘後,移除該繩線後會發現該手指因短暫血流增加而變紅,這現象  最主要是下列何種局部控制機制所致?",
+      "flashcard_back": "Reactive hyperemia = ischemia 後放開，代謝物累積造成短暫血流過多。",
+      "flashcard_summary": "Reactive hyperemia = ischemia 後放開，代謝物累積造成短暫血流過多。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n失血時維持平均動脈壓主要靠交感活化：心跳加快、收縮力增加、微動脈收縮、靜脈收縮與副交感下降。心房利鈉肽（ANP）在心房伸展增加時釋放，會促進排鈉利尿與血管擴張，失血時不應增加。本題官方答案為 D。\n\n【選項詳解】\n- A. 腎上腺素增加可刺激竇房結，提高心率，符合代償。\n- B. 微動脈半徑減少代表血管收縮，可增加周邊阻力維持血壓。\n- C. 副交感活性下降可使心率上升，是壓力感受器反射的一部分。\n- D. 失血時心房充盈下降，不會增加 ANP；ANP 增加還會降低血容量與血壓，故最不可能。\n\n【核心考點】\n失血代償靠交感上升、血管收縮、心率上升；ANP 是容量過多時的利鈉降壓訊號。",
+      "key_point": "失血代償靠交感上升、血管收縮、心率上升；ANP 是容量過多時的利鈉降壓訊號。",
+      "flashcard_front": "林小明跌倒受傷引起失血,但平均動脈壓卻無明顯改變。這是因為此時體內為了維持循環系統正常運作,啟  動了一些恆定(homeostasis)機制。這些機制最不可能包括下列何項?",
+      "flashcard_back": "失血代償靠交感上升、血管收縮、心率上升；ANP 是容量過多時的利鈉降壓訊號。",
+      "flashcard_summary": "失血代償靠交感上升、血管收縮、心率上升；ANP 是容量過多時的利鈉降壓訊號。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n心肌動作電位有長 plateau phase，使不反應期很長，接近收縮期間，避免強直收縮並確保心室舒張充盈。本題官方答案為 B。\n\n【選項詳解】\n- A. 正常每次心跳時心肌功能性合胞體幾乎同步活化，不是只有部分細胞收縮。\n- B. 心肌不反應期大約與動作電位 plateau 持續時間相當，故正確。\n- C. 心搏量主要與舒張末期肌肉長度/前負荷正相關，不是收縮末期容積越大越好。\n- D. 等容舒張期心室正在放鬆，並非處於產生最大收縮力的最佳長度描述。\n\n【核心考點】\n心肌長 plateau -> 長 refractory period -> 防止 tetanus。",
+      "key_point": "心肌長 plateau -> 長 refractory period -> 防止 tetanus。",
+      "flashcard_front": "下列有關心臟生理之敘述,何者正確?",
+      "flashcard_back": "心肌長 plateau -> 長 refractory period -> 防止 tetanus。",
+      "flashcard_summary": "心肌長 plateau -> 長 refractory period -> 防止 tetanus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n膈神經支配橫膈，吸氣時需要橫膈收縮，因此平靜吸氣與用力吸氣都會增加膈神經放電；呼氣平靜時多為被動。本題官方答案為 C。\n\n【選項詳解】\n- A. 用力吸氣時橫膈仍會更強收縮，膈神經放電不會不增加。\n- B. 平靜呼氣多為被動，不是膈神經放電增加的時相。\n- C. 平靜吸氣與用力吸氣均需橫膈收縮，膈神經放電頻率增加，故正確。\n- D. 呼氣尤其平靜呼氣不以膈神經興奮為主。\n\n【核心考點】\n膈神經放電增加代表橫膈吸氣收縮；平靜與用力吸氣都會增加。",
+      "key_point": "膈神經放電增加代表橫膈吸氣收縮；平靜與用力吸氣都會增加。",
+      "flashcard_front": "呼吸時,膈神經(phrenic nerve)的放電頻率(firing frequency)於何時增加?",
+      "flashcard_back": "膈神經放電增加代表橫膈吸氣收縮；平靜與用力吸氣都會增加。",
+      "flashcard_summary": "膈神經放電增加代表橫膈吸氣收縮；平靜與用力吸氣都會增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

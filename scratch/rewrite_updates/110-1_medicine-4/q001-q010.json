@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-4.json",
+  "dataset_id": "110-1_medicine-4",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-4_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題幹的重點是發燒、頸部淋巴結腫大、肝脾腫大、扁桃腺象牙白滲出物、Hoagland sign，以及 atypical lymphocyte 18% 合併肝功能上升。這是傳染性單核球增多症的典型組合，最符合 EB virus 感染。\n\n【選項詳解】\n- A. 肺炎鏈球菌常造成肺炎、中耳炎、鼻竇炎或侵襲性敗血症，不會典型造成非典型淋巴球明顯上升與肝脾腫大。\n- B. 白色念珠菌可造成鵝口瘡或免疫低下者侵襲性感染，但題幹的全身淋巴增生、肝炎與 atypical lymphocytosis 並不符合。\n- C. EB virus 會造成 infectious mononucleosis，典型為發燒、咽扁桃腺炎、淋巴結腫大、肝脾腫大、眼瞼浮腫與非典型淋巴球上升。\n- D. 腸病毒常見手足口病、疱疹性咽峽炎或無菌性腦膜炎，不是這種單核球增多症樣表現。\n\n【核心考點】\n發燒、咽扁桃腺炎、肝脾腫大與 atypical lymphocyte >10% 要想到 EBV 傳染性單核球增多症。",
+      "key_point": "發燒、咽扁桃腺炎、肝脾腫大與 atypical lymphocyte >10% 要想到 EBV 傳染性單核球增多症。",
+      "flashcard_front": "發燒 + 扁桃腺滲出物 + Hoagland sign + atypical lymphocyte",
+      "flashcard_back": "最符合 EB virus 感染造成的傳染性單核球增多症。",
+      "flashcard_summary": "傳染性單核球增多症 -> EBV、atypical lymphocytosis、肝功能異常。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題考川崎氏症接受高劑量 IVIG 後的疫苗時程。IVIG 會干擾活性減毒疫苗的免疫反應，因此 MMR、水痘等活性疫苗通常需延後；非活性疫苗如肺炎鏈球菌疫苗不受此限制。\n\n【選項詳解】\n- A. 服用低劑量 aspirin 不是流感疫苗禁忌，反而因 aspirin 與流感相關 Reye syndrome 風險，臨床上通常更重視流感預防。\n- B. 活性日本腦炎疫苗屬活性疫苗，剛接受高劑量 IVIG 後不宜只按原時程接種，需依建議延後。\n- C. 接種 MMR、水痘後 2 天即發病並接受 IVIG，不等於 1 個月後立刻補打；活性疫苗通常需延後約 11 個月後再評估補種。\n- D. 肺炎鏈球菌疫苗不是活性疫苗，不會被 IVIG 明顯中和，因此接種期程可照常進行。\n\n【核心考點】\n高劑量 IVIG 後要延後活性疫苗，非活性疫苗如肺炎鏈球菌疫苗通常不受影響。",
+      "key_point": "高劑量 IVIG 後要延後活性疫苗，非活性疫苗如肺炎鏈球菌疫苗通常不受影響。",
+      "flashcard_front": "川崎氏症 IVIG 後疫苗",
+      "flashcard_back": "MMR、水痘等活性疫苗延後；肺炎鏈球菌等非活性疫苗可照期程。",
+      "flashcard_summary": "IVIG 後接種 -> 活性疫苗延後，非活性疫苗不受影響。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n出生後 2 天即發生敗血症，且題幹暗示革蘭氏陽性球菌鏈狀排列，最典型是早發型新生兒敗血症的 Group B Streptococcus。主要感染途徑是母體產道定殖後，在分娩前後上行感染或垂直感染。\n\n【選項詳解】\n- A. GBS 是革蘭氏陽性鏈球菌，不是革蘭氏陰性菌。\n- B. 早發型新生兒敗血症常見病原是 GBS 與 E. coli；Listeria 可見但不是最常見。\n- C. GBS 常由母體陰道或直腸定殖，經產道上行或分娩時垂直傳染給新生兒，符合題幹。\n- D. GBS 不是新生兒泌尿道感染最常見致病菌；泌尿道感染通常仍以腸道革蘭氏陰性菌較常見。\n\n【核心考點】\n早發型新生兒敗血症想到 GBS，感染多來自母體產道上行或垂直傳染。",
+      "key_point": "早發型新生兒敗血症想到 GBS，感染多來自母體產道上行或垂直傳染。",
+      "flashcard_front": "早發型新生兒敗血症 + 鏈球菌",
+      "flashcard_back": "Group B Streptococcus，常經母體產道上行感染。",
+      "flashcard_summary": "新生兒早發敗血症 -> GBS -> 母體產道上行感染。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目問預防注射建議何者錯誤。早產兒疫苗原則上依出生後實際年齡接種，劑量不因早產而減半；IVIG 後則需延後活性疫苗。\n\n【選項詳解】\n- A. 早產兒通常依出生後年齡，而不是矯正年齡接種例行疫苗，所以此敘述正確。\n- B. 五合一疫苗對早產兒不需減半，應使用標準劑量；減半會造成免疫效果不足，因此這是錯誤敘述。\n- C. 高劑量免疫球蛋白會影響活性疫苗免疫反應，MMR、水痘等通常需延後約 11 個月，敘述正確。\n- D. B 型肝炎疫苗與五合一疫苗可同日不同部位接種，敘述正確。\n\n【核心考點】\n早產兒例行疫苗按出生後年齡與標準劑量施打，不因早產而減量。",
+      "key_point": "早產兒例行疫苗按出生後年齡與標準劑量施打，不因早產而減量。",
+      "flashcard_front": "早產兒疫苗劑量",
+      "flashcard_back": "依出生後年齡接種，疫苗劑量不減半。",
+      "flashcard_summary": "早產兒疫苗 -> 實際年齡、標準劑量。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問成人與兒童普通感冒最常見病毒。普通感冒病原很多，但 rhinovirus 是最常見原因。\n\n【選項詳解】\n- A. 流感病毒可造成高燒、肌痛與明顯全身症狀，屬 influenza-like illness，不是普通感冒最常見病原。\n- B. 鼻病毒是普通感冒最常見病毒，常造成流鼻水、鼻塞、喉嚨痛與輕微咳嗽。\n- C. 腸病毒可造成手足口病、疱疹性咽峽炎或無菌性腦膜炎，雖可有上呼吸道症狀，但不是最常見感冒病原。\n- D. 腺病毒可造成咽結膜熱、扁桃腺炎或肺炎，但整體普通感冒最常見仍是 rhinovirus。\n\n【核心考點】\n普通感冒最常見病原是 rhinovirus。",
+      "key_point": "普通感冒最常見病原是 rhinovirus。",
+      "flashcard_front": "Common cold 最常見病毒",
+      "flashcard_back": "Rhinovirus。",
+      "flashcard_summary": "普通感冒 -> rhinovirus 最常見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目問哮吼何者最不恰當。Croup 是病毒造成的聲門下狹窄，典型年齡 6 個月至 3 歲，晚秋冬季較多；X 光典型是 steeple sign，不是 thumb sign。\n\n【選項詳解】\n- A. thumb sign 是急性會厭炎會厭腫脹的側頸 X 光表現；croup 典型是正面頸部 X 光 steeple sign，因此此項最不恰當。\n- B. croup 好發於 6 個月至 3 歲兒童，敘述正確。\n- C. 中重度 croup 使用類固醇可降低聲門下發炎與住院需求，嚴重者也可用 epinephrine 霧化，敘述正確。\n- D. 副流感病毒相關 croup 常在晚秋與初冬較常見，敘述正確。\n\n【核心考點】\nCroup 是 steeple sign；thumb sign 要想到急性會厭炎。",
+      "key_point": "Croup 是 steeple sign；thumb sign 要想到急性會厭炎。",
+      "flashcard_front": "Croup X 光特徵",
+      "flashcard_back": "Croup: steeple sign；epiglottitis: thumb sign。",
+      "flashcard_summary": "哮吼鑑別 -> steeple sign，不是 thumb sign。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n第 5 天足月兒總膽紅素 19 mg/dL、直接膽紅素 0.5 mg/dL，屬非結合型高膽紅素血症。處置重點是評估溶血或貧血、增加餵食與照光；MRCP 用於膽道阻塞評估，不適合此情境。\n\n【選項詳解】\n- A. 新生兒黃疸需評估溶血與貧血等危險因子，所以可檢驗是否貧血。\n- B. 直接膽紅素不高，並非膽汁鬱積或膽道閉鎖型黃疸，安排膽道胰管磁振造影不符合第一線處置，因此最不適合。\n- C. 第 5 天足月兒總膽紅素 19 mg/dL 需依時齡與風險評估，常可能達照光治療門檻。\n- D. 母乳攝取不足可加重非結合型黃疸，增加哺餵可促進腸蠕動與膽紅素排出。\n\n【核心考點】\n非結合型新生兒黃疸先評估溶血、餵食與照光，直接膽紅素高才考慮膽道阻塞檢查。",
+      "key_point": "非結合型新生兒黃疸先評估溶血、餵食與照光，直接膽紅素高才考慮膽道阻塞檢查。",
+      "flashcard_front": "第 5 天黃疸 + direct bilirubin 正常",
+      "flashcard_back": "非結合型黃疸；MRCP 不是適當第一線處置。",
+      "flashcard_summary": "新生兒黃疸 -> indirect 高：照光與餵食；direct 高才查膽道。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n足月新生兒生命徵象與身長大致正常，但頭圍 30 公分偏小。足月新生兒頭圍通常約 33 至 35 公分，30 公分需懷疑小頭症或測量錯誤。\n\n【選項詳解】\n- A. 新生兒心跳約 100 至 160 次/分鐘，130 次/分鐘在正常範圍。\n- B. 新生兒呼吸約 30 至 60 次/分鐘，50 次/分鐘仍可接受。\n- C. 足月新生兒頭圍通常約 33 至 35 公分，30 公分明顯偏小，是最異常的發現。\n- D. 足月新生兒身長約 50 公分，屬正常範圍。\n\n【核心考點】\n足月新生兒頭圍約 33 至 35 公分；30 公分偏小需評估。",
+      "key_point": "足月新生兒頭圍約 33 至 35 公分；30 公分偏小需評估。",
+      "flashcard_front": "足月新生兒正常頭圍",
+      "flashcard_back": "約 33 至 35 cm；30 cm 最異常。",
+      "flashcard_summary": "新生兒評估 -> 頭圍 30 cm 偏小。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問哪些母親仍可親自哺餵母乳。活動性乳房 HSV、HIV 與 HTLV 通常不建議直接哺餵；肺結核接受適當治療一段時間後，若傳染性已控制，可在感染控制措施下哺乳。\n\n【選項詳解】\n- A. 乳房有活動性 HSV 病灶時，嬰兒接觸病灶可能感染，應避免患側直接哺餵。\n- B. 肺結核若已接受至少 2 週適當治療、臨床改善且傳染性下降，通常可親自哺乳並配合感染控制。\n- C. 在台灣與多數已開發地區，HIV 感染是母乳哺餵禁忌，以避免垂直傳染。\n- D. HTLV 可經母乳傳染，通常不建議哺餵母乳。\n\n【核心考點】\n肺結核經適當治療後可評估哺乳；HIV、HTLV 與乳房活動性 HSV 通常禁忌。",
+      "key_point": "肺結核經適當治療後可評估哺乳；HIV、HTLV 與乳房活動性 HSV 通常禁忌。",
+      "flashcard_front": "母乳哺餵禁忌",
+      "flashcard_back": "HIV、HTLV、乳房活動 HSV 禁忌；TB 治療後可評估哺餵。",
+      "flashcard_summary": "母乳禁忌 -> HIV/HTLV/乳房 HSV；治療後 TB 可哺乳。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-4_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n巨大兒或肩難產後，肩內收內轉、前臂旋前、抓握反射保留、Moro 反射患側不能外展，典型是 Erb palsy。受損位置是上臂神經叢 C5-C6。\n\n【選項詳解】\n- A. C1-C2 主要與上頸部功能相關，不會造成典型 waiter's tip 上肢姿勢。\n- B. C3-C4 主要與橫膈神經及頸部功能較相關，不是 Erb palsy 的主要根節。\n- C. C5-C6 受損會影響肩外展、外旋與肘屈曲，手部抓握可保留，符合 Erb palsy。\n- D. C7-C8 或下臂神經叢受損較會影響手部功能與抓握，題幹抓握正常不支持。\n\n【核心考點】\nErb palsy 是 C5-C6 損傷，手部抓握通常保留。",
+      "key_point": "Erb palsy 是 C5-C6 損傷，手部抓握通常保留。",
+      "flashcard_front": "新生兒 Erb palsy",
+      "flashcard_back": "肩內收內轉、前臂旋前、抓握保留；C5-C6 損傷。",
+      "flashcard_summary": "臂神經叢產傷 -> Erb palsy = C5-C6。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

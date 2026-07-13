@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-2/medicine-1.json",
+  "dataset_id": "110-2_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "110-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n甲狀腺分泌入血的主要荷爾蒙量以 T4 最多；T3 生物活性較強，但許多 T3 由周邊組織將 T4 去碘轉換而來。本題官方答案為 A。\n\n【選項詳解】\n- A. T4 是正常甲狀腺分泌量最多的甲狀腺荷爾蒙，故正確。\n- B. reverse T3 是 T4 的非活性代謝產物，不是分泌最多者。\n- C. DIT 是甲狀腺素合成中的碘化酪胺酸殘基，不是主要分泌荷爾蒙。\n- D. T3 活性較強，但分泌量少於 T4，多由周邊轉換產生。\n\n【核心考點】\n甲狀腺分泌量 T4 > T3；活性 T3 > T4。",
+      "key_point": "甲狀腺分泌量 T4 > T3；活性 T3 > T4。",
+      "flashcard_front": "正常的甲狀腺分泌最多的荷爾蒙為何?",
+      "flashcard_back": "甲狀腺分泌量 T4 > T3；活性 T3 > T4。",
+      "flashcard_summary": "甲狀腺分泌量 T4 > T3；活性 T3 > T4。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\nLH receptor 在男性 Leydig cells 上，LH 刺激睪固酮生成；睪固酮對 Sertoli cell 支持精子生成非常重要。LH receptor 缺失導致睪固酮不足，精子生成能力低。本題官方答案為 D。\n\n【選項詳解】\n- A. inhibin 由 Sertoli cells 分泌，主要回饋抑制 FSH，不是 LH receptor 缺失時最直接缺乏的調節物。\n- B. cortisol 與壓力及代謝相關，不是男性精子生成的主要局部調節因子。\n- C. estradiol 在男性也有少量作用，但不是 LH receptor 缺失造成精子生成低下的主軸。\n- D. LH 透過 Leydig cells 促進 testosterone，睪固酮是精子生成的重要支持，故正確。\n\n【核心考點】\nLH -> Leydig cell -> testosterone；FSH -> Sertoli cell；testosterone 與 FSH 共同支持 spermatogenesis。",
+      "key_point": "LH -> Leydig cell -> testosterone；FSH -> Sertoli cell；testosterone 與 FSH 共同支持 spermatogenesis。",
+      "flashcard_front": "黃體生成素受器(LH receptor)缺失的男性,其精子生成(spermatogenesis)能力低,此顯示下列何者具有參  與調節精子生成的重要性?",
+      "flashcard_back": "LH -> Leydig cell -> testosterone；FSH -> Sertoli cell；testosterone 與 FSH 共同支持 spermatogenesis。",
+      "flashcard_summary": "LH -> Leydig cell -> testosterone；FSH -> Sertoli cell；testosterone 與 FSH 共同支持 spermatogenesis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nFSH 促進卵巢顆粒細胞增生、芳香化酶活性與濾泡由早期走向竇狀濾泡。缺乏 FSH 會導致 antral follicles 缺乏、雌激素低，而 androgen 可相對正常。本題官方答案為 B。\n\n【選項詳解】\n- A. LH 主要刺激卵泡膜細胞產生 androgen；題幹 androgen 正常，不最支持 LH 缺乏。\n- B. FSH 缺乏會使顆粒細胞功能與濾泡成熟受阻，antral follicles 少且 estrogen 低，故正確。\n- C. inhibin 是由顆粒細胞分泌、回饋抑制 FSH；缺乏 inhibin 不會造成 FSH 缺乏型表現。\n- D. GnRH 缺乏通常會同時降低 LH 與 FSH，使 androgen 也可能下降，不如單純 FSH 缺乏符合。\n\n【核心考點】\nFSH 支持 granulosa cell、aromatase 與 antral follicle development；LH 支持 theca androgen。",
+      "key_point": "FSH 支持 granulosa cell、aromatase 與 antral follicle development；LH 支持 theca androgen。",
+      "flashcard_front": "女性因幾乎無月經週期而求診,經檢查發現其卵巢幾乎沒有空腔濾泡(antral follicles),血液雄性素  (androgen)含量正常而雌性素(estrogen)低落;...",
+      "flashcard_back": "FSH 支持 granulosa cell、aromatase 與 antral follicle development；LH 支持 theca androgen。",
+      "flashcard_summary": "FSH 支持 granulosa cell、aromatase 與 antral follicle development；LH 支持 theca androgen。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n肌紅蛋白 heme 中的 O2 結合會由遠端 histidine（distal His）穩定，形成氫鍵並降低一氧化碳相對親和力。本題官方答案為 B。\n\n【選項詳解】\n- A. serine 可形成氫鍵，但不是肌紅蛋白 heme 氧結合位點的典型遠端殘基。\n- B. histidine，特別是 distal histidine，可與 O2 形成氫鍵穩定結合，故正確。\n- C. proline 結構特殊，常造成二級結構轉折，不是此處穩定 O2 的殘基。\n- D. tyrosine 有酚基可形成氫鍵，但不是肌紅蛋白 O2 結合的經典答案。\n\n【核心考點】\nMyoglobin O2 binding 由 distal histidine 穩定；proximal histidine 則連接 heme iron。",
+      "key_point": "Myoglobin O2 binding 由 distal histidine 穩定；proximal histidine 則連接 heme iron。",
+      "flashcard_front": "氧氣和肌紅蛋白(myoglobin)結合時,蛋白質上的何種胺基酸會和此氧分子形成氫鍵,使氧分子結合更為穩  定?",
+      "flashcard_back": "Myoglobin O2 binding 由 distal histidine 穩定；proximal histidine 則連接 heme iron。",
+      "flashcard_summary": "Myoglobin O2 binding 由 distal histidine 穩定；proximal histidine 則連接 heme iron。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n酵素催化效率常用 kcat/KM 表示，結合 turnover number 與底物親和/所需濃度資訊；數值越大，低底物濃度下催化越有效。本題官方答案為 C。\n\n【選項詳解】\n- A. 1/kcat 越大代表 turnover 越慢，不代表效率越佳。\n- B. KM 越大通常表示達半最大速率所需底物濃度越高，不等同效率越好。\n- C. kcat/KM 是酵素催化效率指標，數值越大越佳，故正確。\n- D. KM/kcat 是催化效率的倒數方向，越大反而通常越差。\n\n【核心考點】\nCatalytic efficiency = kcat/KM。",
+      "key_point": "Catalytic efficiency = kcat/KM。",
+      "flashcard_front": "下列何者數值越大,表示酵素之催化效率越佳?",
+      "flashcard_back": "Catalytic efficiency = kcat/KM。",
+      "flashcard_summary": "Catalytic efficiency = kcat/KM。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n酵素降低活化能、穩定過渡態、加速達到平衡，但不改變反應物與產物間的自由能差，也不改變平衡常數。本題官方答案為 A。\n\n【選項詳解】\n- A. 酵素不改變反應物與產物的自由能差 ΔG，只降低活化能，因此此敘述錯誤，故為答案。\n- B. 酵素常藉由穩定 transition state 降低活化能，敘述正確。\n- C. 許多酵素具有立體化學專一性，敘述正確。\n- D. 酵素可加快正反反應，使系統更快達平衡，但不改變平衡位置，敘述正確。\n\n【核心考點】\nEnzyme lowers activation energy, not ΔG or Keq。",
+      "key_point": "Enzyme lowers activation energy, not ΔG or Keq。",
+      "flashcard_front": "下列關於酵素的敘述,何者錯誤?",
+      "flashcard_back": "Enzyme lowers activation energy, not ΔG or Keq。",
+      "flashcard_summary": "Enzyme lowers activation energy, not ΔG or Keq。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nphenylalanine hydroxylase 將 phenylalanine 羥化為 tyrosine，需要 tetrahydrobiopterin（BH4）作為輔因子；BH4 缺乏也可造成高苯丙胺酸血症。本題官方答案為 A。\n\n【選項詳解】\n- A. tetrahydrobiopterin 是 phenylalanine hydroxylase 必需輔因子，故正確。\n- B. biotin 是羧化反應常見輔酶，不是此羥化反應的輔因子。\n- C. thiamine pyrophosphate 參與氧化脫羧與轉酮醇反應，不是 PAH 輔因子。\n- D. pyridoxal phosphate 常參與胺基轉移與脫羧，不是 phenylalanine hydroxylase 的核心輔因子。\n\n【核心考點】\nPhenylalanine -> tyrosine by phenylalanine hydroxylase requires BH4。",
+      "key_point": "Phenylalanine -> tyrosine by phenylalanine hydroxylase requires BH4。",
+      "flashcard_front": "缺乏phenylalanine hydroxylase會造成苯丙酮尿症。phenylalanine hydroxylase催化由phenylalanine生成tyrosine...",
+      "flashcard_back": "Phenylalanine -> tyrosine by phenylalanine hydroxylase requires BH4。",
+      "flashcard_summary": "Phenylalanine -> tyrosine by phenylalanine hydroxylase requires BH4。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n羧化反應需要攜帶 CO2 的輔酶，典型為 biotin，例如 pyruvate carboxylase、acetyl-CoA carboxylase、propionyl-CoA carboxylase。本題官方答案為 A。\n\n【選項詳解】\n- A. biotin 負責攜帶活化 CO2，是羧化反應輔酶，故正確。\n- B. NAD+ 主要參與氧化還原反應，接受 hydride，不攜帶 CO2。\n- C. FAD 也是氧化還原輔因子，不是羧化反應 CO2 carrier。\n- D. TPP 參與醛基轉移與脫羧反應，不是羧化反應攜帶 CO2 的輔酶。\n\n【核心考點】\nCarboxylation uses biotin as CO2 carrier。",
+      "key_point": "Carboxylation uses biotin as CO2 carrier。",
+      "flashcard_front": "下列何種輔酶(coenzyme)於羧化反應(carboxylation)中用以攜帶CO2?",
+      "flashcard_back": "Carboxylation uses biotin as CO2 carrier。",
+      "flashcard_summary": "Carboxylation uses biotin as CO2 carrier。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n迴文序列指雙股 DNA 以 5' 到 3' 方向讀取時，互補股呈對稱序列。選項 B 的 CCTTCCGGAAGG 互補反向仍可對應自身。本題官方答案為 B。\n\n【選項詳解】\n- A. AGGTCCTCCAGG 的反向互補不等於自身，不是迴文序列。\n- B. CCTTCCGGAAGG 的兩半互補對稱，符合 DNA palindromic sequence，故正確。\n- C. GAATCCCTTAGG 反向互補後不與原序列相同。\n- D. GGATCCCCTAGG 雖含部分限制酶樣片段，但整段不呈完整迴文對稱。\n\n【核心考點】\nDNA palindrome 要看反向互補是否相同，不是單股正反讀一樣。",
+      "key_point": "DNA palindrome 要看反向互補是否相同，不是單股正反讀一樣。",
+      "flashcard_front": "下列何者屬於迴文序列(palindromic sequence)?",
+      "flashcard_back": "DNA palindrome 要看反向互補是否相同，不是單股正反讀一樣。",
+      "flashcard_summary": "DNA palindrome 要看反向互補是否相同，不是單股正反讀一樣。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nLesch-Nyhan syndrome 由 HGPRT 缺乏造成嘌呤 salvage pathway 障礙，導致尿酸過多與神經行為症狀；de novo pathway 本身仍可運作且常因 PRPP 增加而上升。本題官方答案為 B。\n\n【選項詳解】\n- A. HGPRT 缺乏是 Lesch-Nyhan syndrome 的病因，敘述正確。\n- B. 此病是 salvage pathway 缺陷，不是無法用 de novo pathway 合成 guanine；de novo 反而可增加，故為錯誤答案。\n- C. HGPRT deficiency 為 X-linked recessive，敘述正確。\n- D. 嘌呤分解增加造成尿酸過多，可導致痛風、腎結石與組織傷害，敘述正確。\n\n【核心考點】\nLesch-Nyhan = HGPRT salvage defect, X-linked, hyperuricemia, self-mutilation；de novo purine synthesis not absent。",
+      "key_point": "Lesch-Nyhan = HGPRT salvage defect, X-linked, hyperuricemia, self-mutilation；de novo purine synthesis not absent。",
+      "flashcard_front": "下列關於Lesch-Nyhan syndrome的敘述,何者錯誤?",
+      "flashcard_back": "Lesch-Nyhan = HGPRT salvage defect, X-linked, hyperuricemia, self-mutilation；de novo purine synthesis not absent。",
+      "flashcard_summary": "Lesch-Nyhan = HGPRT salvage defect, X-linked, hyperuricemia, self-mutilation；de novo purine synthesis not absent。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-13T19:01:25+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
