@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-6.json",
+  "dataset_id": "110-1_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題詢問術前進行 modified Mallampati classification 氣道評估時，若病人最大張口且舌頭盡力伸出時「僅能看見硬顎（hard palate），無法看見軟顎（soft palate）」之分類等級。此為 Class IV，代表病人的舌頭相對於口腔空間過大，插管難度極高，因此正確答案為 A。\n\n【選項詳解】\n- A. 正確。在 modified Mallampati 氣道分級中，Class IV 定義為只能看見硬顎（hard palate），而軟顎（soft palate）、懸雍垂（uvula）及咽門弓（fauces/pillars）均被舌頭等周邊組織完全遮蔽，提示可能為極度困難插管的氣道。\n- B. 錯誤。Class II 定義為可看見軟顎（soft palate）、咽門弓（fauces），以及懸雍垂（uvula）的上方部分或大部分，通常插管難度較低。\n- C. 錯誤。Class I 為最容易插管的等級，可清晰看見軟顎（soft palate）、咽門弓（fauces）、完整的懸雍垂（uvula）以及前後扁桃腺柱（tonsillar pillars）。\n- D. 錯誤。Class III 定義為只能看見軟顎（soft palate）及懸雍垂的基底（base of the uvula），此時懸雍垂大部分已被遮蔽，亦提示有插管困難之風險，但仍能看見軟顎，不符合題幹中「只可看見硬顎，不能看見軟顎」的描述。\n\n【核心考點】\nModified Mallampati classification 氣道評估分級標準：Class I 可見軟顎、懸雍垂、咽門弓與扁桃腺柱；Class II 可見軟顎與大部分懸雍垂；Class III 僅見軟顎與懸雍垂基底；Class IV 僅見硬顎，軟顎完全不可見。",
+      "key_point": "Modified Mallampati classification 氣道評估分級標準：Class IV 僅能看見硬顎，軟顎完全不可見。",
+      "flashcard_front": "Mallampati 氣道分級 / 術前插管評估 / 只見硬顎 (hard palate) / 軟顎不可見",
+      "flashcard_back": "Mallampati Class IV 僅能看見硬顎，軟顎不可見，提示為困難插管氣道。",
+      "flashcard_summary": "Mallampati 氣道分級 -> 僅能看見硬顎（軟顎不可見）屬於 Mallampati Class IV。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題詢問全身麻醉中導致潮氣末二氧化碳（end-tidal CO2, EtCO2）數值「突然降低」的排除原因。本題為否定題，正確答案為 C（病人發燒），因為發燒會加速全身代謝，進一步增加二氧化碳的產生，導致 EtCO2 上升而非降低。\n\n【選項詳解】\n- A. 錯誤的排除選項。當氣管內管（endotracheal tube）發生嚴重折疊或彎折時，會造成呼吸道阻塞，使得肺泡氣體無法順利排出，進而導致 EtCO2 監測數值突然且劇烈地下降（甚至降至零）。\n- B. 錯誤的排除選項. 若呼吸迴路（breathing circuit）發生脫落、鬆脫或嚴重漏氣，監測儀器將無法收集到病人的呼出氣體，會導致偵測到的 EtCO2 數值立刻驟降或消失。\n- C. 正確（本題所求之不包括項）。發燒（fever）或惡性高熱（malignant hyperthermia）會導致體內細胞代謝率增加、氧氣消耗量增加，進而產生更多的二氧化碳（CO2 production increases），這會使 EtCO2 數值逐漸上升，而非突然降低。\n- D. 錯誤的排除選項。急性肺栓塞（acute pulmonary embolism）會阻斷肺部血流，導致灌流不足，產生大量生理死腔（alveolar dead space）。由於缺乏血液灌流的肺泡無法進行氣體交換，呼出的氣體中 CO2 濃度會大幅稀釋，導致 EtCO2 突然顯著降低。\n\n【核心考點】\n全身麻醉期間 EtCO2 突然降低常見於通氣受阻（如管路折疊、鬆脫、漏氣、食道插管）或心肺血液灌流驟減（如肺栓塞、心跳停止、嚴重低血壓）。而發燒、惡性高熱、通氣不足等因素則會增加 CO2 的產生或累積，導致 EtCO2 上升。",
+      "key_point": "全身麻醉期間，發燒或惡性高熱會使代謝率增加而增加 EtCO2；管路阻塞或肺栓塞則會導致 EtCO2 驟降。",
+      "flashcard_front": "潮氣末二氧化碳 (EtCO2) 降低 / 迴路鬆脫 / 氣管內管折疊 / 肺栓塞 / 發燒代謝率",
+      "flashcard_back": "發燒會使代謝上升而增加 EtCO2；而管路折疊、迴路脫落及肺栓塞則會導致 EtCO2 突然降低。",
+      "flashcard_summary": "EtCO2異常原因 -> 管路折疊、迴路鬆脫及肺栓塞使EtCO2下降，發燒則使EtCO2上升。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題詢問基本麻醉監測中，關於體溫監測概念與敘述的錯誤選項。本題為否定題，正確答案為 C，因為接受區域麻醉（regional anesthesia）的患者，會因交感神經阻斷引起周邊血管擴張，造成核心體溫重新分佈，依然有相當高的失溫風險，因此仍必須進行體溫監測。\n\n【選項詳解】\n- A. 錯誤的排除選項。術後低體溫引發的寒顫發抖（shivering）是機體為了產熱的自主反應，在成人會增加 50% 至 100%（甚至更多）的代謝產熱與耗氧量。這會大幅增加心臟負擔，對冠狀動脈疾病或心血管疾病患者而言，可能誘發心肌缺氧、心絞痛或心肌梗塞。\n- B. 錯誤的排除選項。根據麻醉臨床指引，若預期全身麻醉時間超過 30 分鐘，為了預防圍術期低體溫（perioperative hypothermia）及其併發症（如凝血功能異常、傷口感染率上升），應常規進行體溫監測，並維持核心體溫（core temperature）在攝氏 36 度以上。\n- C. 正確（本題所求之錯誤敘述）。區域麻醉（如脊髓麻醉或硬脊膜外麻醉）會阻斷交感神經傳導，導致血管舒張及熱量由核心向周邊再分佈，且會壓抑下視丘的體溫調節中樞。因此，區域麻醉患者仍會面臨顯著的失溫與寒顫風險，臨床上同樣需要常規監測體溫。\n- D. 錯誤的排除選項。老年患者由於生理機能退化，其啟動血管收縮防禦反應的溫度閾值（vasoconstrictive threshold）會下降（即需要在更低的體溫下才會開始收縮血管以保溫），加上基礎代謝率與產熱能力較差，在冷氣房手術室中更容易發生意外失溫。\n\n【核心考點】\n圍術期體溫管理：全身麻醉超過 30 分鐘或區域麻醉（會因血管擴張、冷覺受損而失溫）均需常規進行體溫監測，維持核心體溫 >= 36°C。低體溫引起的寒顫會增加耗氧量與心血管併發症風險。",
+      "key_point": "接受全身或區域麻醉者均應常規監測體溫，以防失溫與術後寒顫引起心血管負擔。",
+      "flashcard_front": "麻醉體溫監測 / 區域麻醉失溫 / 術後發抖 (shivering) / 老年人血管收縮閾值 / 核心體溫 > 36度",
+      "flashcard_back": "區域麻醉患者仍會因血管擴張而失溫，亦須監測體溫；術後發抖會顯著增加耗氧量與心血管風險。",
+      "flashcard_summary": "麻醉體溫監測原則 -> 區域麻醉患者亦有失溫風險故需監測體溫；術後發抖會增加心肌缺氧風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題詢問有關局部麻醉劑（local anesthetics）藥理特性的錯誤敘述。本題為否定題，正確答案為 A，因為局部麻醉劑的主要作用機轉是結合並阻斷神經細胞膜上的「電位門控型鈉離子通道（voltage-gated sodium channels）」，藉此抑制動作電位的產生與傳導，而非鈣離子通道。\n\n【選項詳解】\n- A. 正確（本題所求之錯誤敘述）。局部麻醉劑主要作用於軸突膜上的電位門控型「鈉」離子通道（voltage-gated sodium channels）。它能阻斷鈉離子內流，使細胞膜無法去極化（depolarization），進而阻斷神經訊號傳導。\n- B. 錯誤的排除選項。神經纖維對局部麻醉劑的敏感性與其解剖構造密切相關：一般而言，直徑較細的纖維（axonal diameter 較小）及有髓鞘（myelinated）的纖維（如負責自主神經傳導的 B 纖維、傳遞溫痛覺的 A-delta 纖維）比無髓鞘的粗纖維更易被阻斷，故神經阻斷的順序會受纖維直徑和髓鞘化程度的影響。\n- C. 錯誤的排除選項. 若局部麻醉劑過量或誤注入血管，會引發局部麻醉劑全身性毒性（LAST）。其會阻斷心肌細胞的鈉離子通道，抑制心臟傳導與心肌收縮力，臨床表現為低血壓、心律不整、傳導阻滯，甚至心跳停止。\n- D. 錯誤的排除選項。高脂溶性（lipid solubility）的局部麻醉劑（如 bupivacaine、tetracaine）通常與血漿及組織蛋白結合率（protein binding）較高，因此藥物能長時間停留在神經組織附近，使作用時間（duration of action）較長。\n\n【核心考點】\n局部麻醉劑的藥理機制與特性：主要阻斷神經細胞的電位門控型「鈉離子通道」；脂溶性與蛋白質結合率呈正相關，決定作用時間長短；神經敏感性受直徑與髓鞘影響；過量會引發嚴重的局部麻醉劑全身性毒性（LAST），抑制中樞神經與心血管系統。",
+      "key_point": "局部麻醉劑主要結合並阻斷電位門控型鈉離子通道，抑制動作電位傳導。",
+      "flashcard_front": "局部麻醉劑 / 作用通道 / 神經纖維敏感度 / 脂溶性與作用時間 / 系統性毒性 (LAST)",
+      "flashcard_back": "局部麻醉劑主要阻斷「鈉離子通道」而非鈣通道；脂溶性高則作用長；過量會造成心血管與中樞神經毒性。",
+      "flashcard_summary": "局部麻醉劑機轉 -> 局部麻醉劑主要阻斷電位門控型鈉離子通道，過量會引發心血管與中樞毒性。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題詢問關於合成鴉片類藥物 remifentanil 之藥理與代謝特性的錯誤敘述。本題為否定題，正確答案為 D，因為 remifentanil 的酯鍵是由紅血球及組織中的「非特異性酯酶（non-specific esterases）」水解，而非假性膽鹼酯酶（pseudocholinesterase），因此假性膽鹼酯酶缺乏症（pseudocholinesterase deficiency）的患者仍可安全使用此藥。\n\n【選項詳解】\n- A. 錯誤的排除選項。Remifentanil 結構中含有酯基（ester linkage），可直接被血流（紅血球）及組織中的非特異性酯酶（non-specific esterases）快速水解而失去活性，此代謝過程不依賴肝臟或腎臟。\n- B. 錯誤的排除選項。由於全身組織中含有大量的酯酶，remifentanil 在體內被極速代謝，其排除半衰期（elimination half-life）非常短，通常介於 3 至 10 分鐘之間。\n- C. 錯誤的排除選項。Remifentanil 的「情境敏感半衰期（context-sensitive half-time）」極為穩定，即使長時間連續靜脈輸注（continuous infusion），其代謝速度也不會減慢，與 fentanyl 或 sufentanil 等其他鴉片類藥物相比，極不易在體內蓄積。\n- D. 正確（本題所求之錯誤敘述）。假性膽鹼酯酶（pseudocholinesterase）主要代謝的麻醉藥物為 succinylcholine 與 mivacurium。而 remifentanil 是經由非特異性酯酶（non-specific esterases）代謝，故假性膽鹼酯酶缺乏的患者使用 remifentanil 是完全安全且不受影響的。\n\n【核心考點】\nRemifentanil 的藥動力學特性：超短效 mu-受體促效劑，因具酯鍵而由血中及組織「非特異性酯酶」代謝，不依賴肝腎功能，亦不受假性膽鹼酯酶（pseudocholinesterase）缺乏影響。連續輸注不易累積，停藥後甦醒極快。",
+      "key_point": "Remifentanil 經紅血球與組織中非特異性酯酶水解代謝，不依賴肝腎，不受假性膽鹼酯酶缺乏影響。",
+      "flashcard_front": "Remifentanil / 代謝途徑 / 非特異性酯酶 / 假性膽鹼酯酶缺乏 / 排除半衰期",
+      "flashcard_back": "Remifentanil經非特異性酯酶水解，假性膽鹼酯酶缺乏者可安全使用；其排除半衰期極短且不易累積。",
+      "flashcard_summary": "Remifentanil代謝特性 -> Remifentanil由非特異性酯酶水解，不受假性膽鹼酯酶缺乏影響，排除極快不累積。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題詢問手術中採頭低腳高姿勢（Trendelenburg position）對生理影響與臨床應用的錯誤敘述。本題為否定題，正確答案為 B，因為頭低腳高姿勢主要是利用重力將腹腔內臟器推向頭側，以露出盆腔，故常用於「下腹部或盆腔」手術（如婦科、大腸直腸手術）；而「上腹部」手術則通常採用頭高腳低姿勢（Reverse Trendelenburg position）。\n\n【選項詳解】\n- A. 錯誤的排除選項。頭低腳高姿勢下，重力會使頭頸部靜脈回流受阻，微血管壓力上升。若維持此姿勢時間過長，會導致面部、咽喉及喉頭組織水腫（laryngeal edema），在手術結束拔管後可能引發上呼吸道阻塞。\n- B. 正確（本題所求之錯誤敘述）。上腹部手術（如胃切除、膽囊切除等）通常需要暴露上腹腔，因此會採用頭高腳低姿勢（Reverse Trendelenburg position），讓腹腔臟器因重力向下移，以利手術進行。頭低腳高姿勢（Trendelenburg position）主要用於下腹部及骨盆腔手術。\n- C. 錯誤的排除選項。頭低腳高使大量血液回流至上半身，中央靜脈壓（CVP）會顯著升高；同時，頸靜脈壓上升會阻礙腦脊髓液及眼球內房水的排流，導致顱內壓（ICP）與眼內壓（IOP）顯著增加。\n- D. 錯誤的排除選項。在此姿勢下，腹腔臟器會因重力壓迫橫膈膜並向胸腔推擠，使胸腔容積減小、肺順應性下降，導致肺功能儲備容量（FRC）降低，進而大幅增加肺塌陷（atelectasis）與換氣灌流失調的風險。\n\n【核心考點】\nTrendelenburg position（頭低腳高姿勢）的生理改變：\n1. 應用：適用於下腹與盆腔手術；上腹手術則用 Reverse Trendelenburg。\n2. 心血管/神經：CVP、ICP、IOP 均升高，可能導致喉頭水腫。\n3. 呼吸：橫膈膜被腹腔臟器往上壓，導致 FRC 下降、肺順應性降低，增加肺塌陷風險。",
+      "key_point": "頭低腳高姿勢（Trendelenburg position）適用於下腹及盆腔手術，會使眼壓與顱內壓升高，並因壓迫橫膈膜降低肺功能儲備容量（FRC）。",
+      "flashcard_front": "頭低腳高姿勢 (Trendelenburg) / 上腹部與下腹部手術 / 顱內壓眼內壓 / 喉頭水腫 / 肺功能儲備容量 (FRC)",
+      "flashcard_back": "Trendelenburg用於下腹與盆腔手術，上腹手術用反Trendelenburg；此姿勢會升高眼壓、顱壓，並降低FRC。",
+      "flashcard_summary": "Trendelenburg姿勢應用 -> Trendelenburg適用於下腹及盆腔手術，會使眼壓、顱內壓升高並降低FRC。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題詢問在使用 bupivacaine 進行鎖骨上神經叢阻斷術時，若患者突發心室性心搏過速（VT，提示發生局部麻醉劑全身性毒性 LAST）時，最不恰當的急救處置。本題為否定題，正確答案為 B，因為 lidocaine 與 bupivacaine 同為醯胺類（amide）鈉離子通道阻斷劑，在 LAST 引起的心律不整中給予 lidocaine 會加重對心肌細胞的毒性，可能導致心搏停止。\n\n【選項詳解】\n- A. 錯誤的排除選項。給予 20% 脂肪乳劑（Intralipid / lipid emulsion）是治療局部麻醉劑全身性毒性（LAST）的黃金準則。脂肪乳劑能發揮「脂肪沉澱（lipid sink）」效應，將血中高脂溶性的 bupivacaine 吸附，並提供心肌細胞代謝能量，從而挽救心臟毒性。\n- B. 正確（本題所求之最不恰當處置）。Lidocaine 是 Ib 類抗心律不整藥，其機轉同樣是阻斷鈉離子通道。在 bupivacaine 中毒導致心律不整時給予 lidocaine，會產生藥物加成效應，惡化心臟傳導阻滯與心肌抑制，極易導致致命的心跳停止。此時心律不整首選 amiodarone。\n- C. 錯誤的排除選項。當懷疑發生局部麻醉劑全身性毒性時，首要步驟必須是「立即停止注射局部麻醉劑」，以防毒性進一步加深。\n- D. 錯誤的排除選項。LAST 常先出現中樞神經系統毒性，包括耳鳴、金屬味覺，進而引發全身性癲癇抽搐（seizure）。若發生癲癇，應首選苯二氮平類藥物（如 midazolam）來穩定神經細胞膜以控制抽搐，並確保氣道安全與氧氣供應。\n\n【核心考點】\n局部麻醉劑全身性毒性（LAST）治療原則（以 Bupivacaine 中毒為經典）：\n1. 立即停用局麻藥，並確保呼吸道與給氧。\n2. 藥物解毒：首選 20% 脂肪乳劑（Intralipid）輸注。\n3. 癲癇處置：給予 Midazolam。\n4. 心律不整處置：禁用 Lidocaine 與鈣離子通道阻斷劑；心肺復甦時若需用 epinephrine 應使用低劑量（每次 < 1 mcg/kg），避免使用 vasopressin。",
+      "key_point": "Bupivacaine 誘發 LAST 之心室性心搏過速時，應立即停藥並給予脂肪乳劑（Intralipid），禁用 lidocaine。",
+      "flashcard_front": "局部麻醉劑毒性 (LAST) / Bupivacaine 誘發心室心搏過速 / 脂肪乳劑 (Intralipid) / Lidocaine 禁忌 / 抽搐處理",
+      "flashcard_back": "Bupivacaine引起LAST之VT時，首選Intralipid解毒，禁用Lidocaine（會加重毒性）；抽搐可用Midazolam。",
+      "flashcard_summary": "局部麻醉劑中毒急救 -> 醯胺類局麻藥引起系統性心臟毒性時，應給予脂肪乳劑，禁用Lidocaine，以防心臟毒性加重。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題詢問全膝關節置換手術（total knee arthroplasty, TKA）術後，何種止痛技術的止痛效果最差。TKA 術後的切口及主要疼痛來源位於膝關節前側，該區域的神經支配主要來自股神經（femoral nerve）及其分支。因此，單獨使用僅支配膝部後側及下肢後側的坐骨神經阻斷（sciatic nerve block），無法阻斷前側的大部分手術痛覺，其止痛效果最差，故正確答案為 C。\n\n【選項詳解】\n- A. 錯誤。硬脊膜外止痛（epidural analgesia）透過在硬脊膜外腔注入局部麻醉劑或鴉片類藥物，能同時阻斷兩側腰薦神經根（包括股神經與坐骨神經），可提供大範圍且極佳的術後止痛效果。\n- B. 錯誤。股神經阻斷（femoral nerve block）直接作用於股神經（L2-L4），能有效阻斷膝關節前側、內側及股四頭肌的疼痛傳導，為 TKA 術後最經典且有效的區域止痛方式之一。\n- C. 正確。坐骨神經（sciatic nerve, L4-S3）主要支配膝關節後側、小腿及足部的感覺。由於 TKA 的手術切口、骨骼切除及組織牽拉主要位於膝關節前側，因此單獨使用坐骨神經阻斷無法緩解前側的主要劇痛，止痛效果在四個選項中為最差。\n- D. 錯誤。收肌管阻斷（adductor canal block）為純感覺神經阻斷，主要阻斷股神經的終末分支——隱神經（saphenous nerve），並可能波及閉孔神經。它能提供與股神經阻斷相當的膝前側止痛效果，且能保留股四頭肌的運動功能，有利於患者術後早期下床活動。\n\n【核心考點】\n全膝關節置換手術（TKA）的術後止痛解剖學：\n1. 膝關節前側（主切口與骨切除痛）：由股神經（femoral nerve）及其分支隱神經（saphenous nerve）支配。因此股神經阻斷或收肌管阻斷止痛效果佳。\n2. 膝關節後側：由坐骨神經（sciatic nerve）支配。單獨坐骨神經阻斷無法涵蓋前側主痛覺，效果最差。",
+      "key_point": "全膝置換術（TKA）前側疼痛由股神經支配，故單獨坐骨神經阻斷（僅支配膝後側）止痛效果最差。",
+      "flashcard_front": "全膝關節置換 (TKA) / 術後止痛 / 股神經阻斷 / 收肌管阻斷 / 坐骨神經阻斷",
+      "flashcard_back": "TKA術後疼痛主要在膝前側，由股神經支配；坐骨神經僅支配後側，故單獨阻斷坐骨神經止痛效果最差。",
+      "flashcard_summary": "膝關節術後止痛選擇 -> TKA術後以股神經或收肌管阻斷（阻斷膝前側）效果佳，單獨坐骨神經阻斷（僅阻斷膝後側）效果最差。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題詢問臨床上處理敗血性休克（septic shock）時，在充足液體復甦後若仍無法維持目標血壓，何種心血管升壓藥物為第一優先首選。根據「存活敗血症運動（Surviving Sepsis Campaign, SSC）」指引，正腎上腺素（norepinephrine）因其對 alpha-1 受體具高度專一性，可強效收縮血管提升血壓，且相較於 dopamine 不易引發心律不整，因此為第一優先考量，正確答案為 C。\n\n【選項詳解】\n- A. 錯誤。多巴胺（dopamine）過去曾被廣泛使用，但大規模式臨床試驗證實，其與正腎上腺素相比，會顯著增加患者發生心律不整（特別是心房顫動、心室頻脈）的風險及死亡率。目前僅在合併心跳過緩且心律不整風險極低的特定患者中，才考慮作為替代藥物。\n- B. 錯誤。腎上腺素（epinephrine）具有強效的 alpha 與 beta 受體促效作用，雖能顯著增加心輸出量與血壓，但容易導致心跳過速、乳酸堆積（因刺激 beta-2 受體促進有氧糖解）及心肌耗氧量大增。目前指引建議將其作為正腎上腺素反應不佳時的第二線加用或替代藥物。\n- C. 正確。正腎上腺素（norepinephrine）主要興奮 alpha-1 腎上腺素受體，引發強烈的血管收縮以提高平均動脈壓（MAP）；同時對 beta-1 受體有溫和的刺激作用，能維持心輸出量。臨床實證顯示其升壓效果穩定且副反應（如心律不整）較少，是敗血性休克的第一線首選血管活性藥物。\n- D. 錯誤。血管加壓素（vasopressin）主要作用於血管平滑肌的 V1 受體引發收縮。目前指引不建議單獨將其作為第一線藥物，而是建議在正腎上腺素已達到較大劑量（如 0.25-0.5 mcg/kg/min）但仍無法維持目標血壓時，作為第二線加用藥物，以減少正腎上腺素的用量。\n\n【核心考點】\n敗血性休克（septic shock）升壓藥物首選：\n1. 第一線首選：Norepinephrine（正腎上腺素）。\n2. 第二線加用：Vasopressin（血管加壓素，用以減少 norepinephrine 劑量）或 Epinephrine（腎上腺素）。\n3. Dopamine 由於心律不整副作用高，已退居次位。",
+      "key_point": "敗血性休克液體復甦無效時，第一線血管活性升壓藥首選正腎上腺素（norepinephrine）。",
+      "flashcard_front": "敗血性休克 / 升壓藥物首選 / 正腎上腺素 / 多巴胺比較",
+      "flashcard_back": "敗血性休克低血壓首選第一線藥物為正腎上腺素（norepinephrine），因其維持血壓效果佳且心律不整副作用小。",
+      "flashcard_summary": "敗血性休克首選用藥 -> 敗血性休克第一線升壓藥物首選為正腎上腺素（norepinephrine）。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題詢問高度近視（pathologic myopia）患者眼底（視網膜與黃斑部）常見病理變化的排除選項。本題為否定題，正確答案為 D，因為血管樣紋（angioid streaks）是由於 Bruch 氏膜變性破裂所致，主要與彈性假黃瘤（pseudoxanthoma elasticum, PXE）、Paget 氏骨病或血紅素病變（如鐮刀型貧血）等系統性疾病相關，並非高度近視的典型眼底病變（高度近視常見的是漆裂樣紋 lacquer cracks）。\n\n【選項詳解】\n- A. 錯誤的排除選項。後葡萄腫（posterior staphyloma）是高度近視最特異的病理特徵，因眼軸過度拉長，後極部鞏膜局部變薄並向後方擴張塌陷，形成類似葡萄腫樣的向後突起。\n- B. 錯誤的排除選項。Fuchs 斑點（Förster-Fuchs spot）是高度近視黃斑部病變的晚期表現。主要是因 Bruch 氏膜破裂引起黃斑部脈絡膜新生血管（CNV）出血，出血吸收機化後，局部網膜色素上皮（RPE）增生及色素沉著所留下的暗黑色斑點。\n- C. 錯誤的排除選項。隨著眼軸不斷拉長，脈絡膜與視網膜會受到過度牽拉而變薄，導致血管萎縮與血液灌流不足，進而產生廣泛或斑塊狀的脈絡膜視網膜萎縮（chorioretinal atrophy），使眼底呈現出白色鞏膜外露的區塊。\n- D. 正確（本題所求之錯誤敘述）。血管樣紋（angioid streaks）是圍繞視盤呈放射狀延伸的灰褐色條紋，本質是 Bruch 氏膜彈性纖維變性與鈣化破裂所致。臨床上最常與系統性遺傳疾病「彈性假黃瘤（pseudoxanthoma elasticum）」相關（其他如 Paget 氏病、鐮刀型貧血），而非高度近視引起（高度近視的類似紋路稱為漆裂樣紋 lacquer cracks）。\n\n【核心考點】\n高度近視（Pathologic Myopia）眼底特徵與鑑別診斷：\n1. 高度近視典型特徵：眼軸拉長、後葡萄腫（posterior staphyloma）、漆裂樣紋（lacquer cracks）、Fuchs 斑點（CNV出血後色素沉著）、脈絡膜視網膜萎縮。\n2. 血管樣紋（Angioid streaks）：代表 Bruch 氏膜變性鈣化破裂，經典聯想為系統性疾病彈性假黃瘤（PXE），而非高度近視。",
+      "key_point": "高度近視常伴隨後葡萄腫、Fuchs 斑點及視網膜萎縮；血管樣紋則與彈性假黃瘤等系統性疾病相關。",
+      "flashcard_front": "高度近視眼底病變 / 後葡萄腫 / Fuchs 斑 / 脈絡膜視網膜萎縮 / 血管樣紋 (angioid streaks)",
+      "flashcard_back": "高度近視常見後葡萄腫、Fuchs斑及脈絡膜視網膜萎縮；血管樣紋則多與彈性假黃瘤等系統性疾病有關。",
+      "flashcard_summary": "高度近視眼底特徵 -> 高度近視可見後葡萄腫及Fuchs斑，血管樣紋則多與系統性遺傳疾病相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:12:05+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

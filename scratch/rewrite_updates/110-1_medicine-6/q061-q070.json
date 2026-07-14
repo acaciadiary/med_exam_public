@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-6.json",
+  "dataset_id": "110-1_medicine-6",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-6_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題詢問慢性去髓鞘病變在神經傳導速度（NCV）與肌電圖（EMG）檢查中的典型表現。髓鞘主要負責神經衝動的跳躍式傳導，其受損會顯著降低傳導速度並延長潛期。複合肌肉動作電位（CMAP）的振幅則反映具備傳導能力的有髓鞘運動軸突之同步興奮總和，去髓鞘病變通常僅造成其維持正常或降低，不可能增加。\n\n【選項詳解】\n- A. 錯誤。遠端潛期（distal latency）是指刺激神經最遠端至記錄到肌肉收縮動作電位的時間。當神經發生去髓鞘病變時，該段神經傳導速度變慢，因此遠端潛期延長（變長）是典型的常見電生理表現，故此選項敘述符合疾病特徵，不合題意。\n- B. 正確。複合肌肉動作電位（compound muscle action potential, CMAP）振幅增加極為罕見。去髓鞘病變因傳導速度減慢，各纖維衝動到達時間不同步（即時間分散 temporal dispersion）或發生傳導阻滯（conduction block），會導致 CMAP 振幅「正常或降低」，絕不會增加。因此這是最不常出現的結果，為本題標準答案。\n- C. 錯誤。感覺神經傳導速度（sensory nerve conduction velocity, SNCV）是由髓鞘完整性決定的，髓鞘病變會造成神經衝動傳導速度顯著下降（變慢），此為去髓鞘的典型電生理表現，故此選項敘述符合疾病特徵，不合題意。\n- D. 錯誤。在慢性去髓鞘病變中，由於反覆去髓鞘與再髓鞘化（demyelination and remyelination）過程，以及去神經支配後肌肉再支配（reinnervation）時產生的新生小軸突，會導致各運動單元纖維的發放時間出現時間差，使得肌電圖記錄到的運動單元電位波（MUAP）中多相波（polyphasic wave，即波形穿過基準線大於 4 次以上）的比率增加，此為慢性病變常見表現，故此選項敘述符合疾病特徵，不合題意。\n\n【核心考點】\n去髓鞘病變（demyelination）的電生理特徵：傳導速度變慢、潛期變長、時間分散（temporal dispersion），且 CMAP 振幅僅會正常或下降，不會增加；與以「CMAP振幅顯著降低、傳導速度基本正常」為特徵的軸突病變（axonal neuropathy）形成對比。",
+      "key_point": "去髓鞘病變使神經傳導速度變慢、遠端潛期延長，但 CMAP 振幅僅會正常或降低，不會增加。",
+      "flashcard_front": "慢性去髓鞘病變（demyelination）的電生理檢查特徵",
+      "flashcard_back": "遠端潛期變長、感覺與運動傳導速度變慢；CMAP 振幅僅會維持正常或因傳導阻滯降低，不可能增加。",
+      "flashcard_summary": "去髓鞘電生理特徵 -> 傳導速度變慢且遠端潛期延長，CMAP振幅只會降低或正常，不會增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題考查足底筋膜炎（plantar fasciitis）的生物力學致病因素。足底筋膜炎常見於足部力學結構異常或關節活動度受限的患者，這些異常會在步態中對足底筋膜造成持續且過度的牽拉負荷，進而引發微小撕裂與無菌性發炎。距下關節旋後主要使足部呈現剛性結構，並非牽拉筋膜的致病因素。\n\n【選項詳解】\n- A. 錯誤。高弓足（high-arched foot）患者的足底筋膜高度緊張且足弓缺乏彈性，在承重時無法有效吸收來自地面的衝擊力，會將力量直接傳導至足底筋膜，導致受壓與拉扯增加，是明確的力學致病因素之一。\n- B. 正確。在步態的承重期中，足部需要進行「距下關節旋前（subtalar joint pronation）」以利吸震，但若過度旋前（over-pronation）會使足弓塌陷、拉長足底筋膜，造成過度牽張。而距下關節旋後（subtalar joint supination）則會使足弓升高、足底筋膜縮短，並使足部轉為剛性槓桿（rigid lever）以利推離，因此「距下關節旋後」非拉扯筋膜的致病因素，為本題標準答案。\n- C. 錯誤。蹠屈（plantar flexion）活動度變差代表小腿後側肌群（如腓腸肌、比目魚肌）或阿基里斯腱過度緊繃（這會限制足踝背屈 dorsiflexion 的活動度），在步行或跑步推進時，會導致足底筋膜受到代償性過度牽拉，是引起足底筋膜炎的常見力學因素之一。\n- D. 錯誤。第一蹠趾關節僵硬（hallux limitus）會干擾步態中的鉸車機制（windlass mechanism）。在步態的推離期（push-off），大拇趾需正常背屈以拉緊足底筋膜來穩定足弓；若此關節僵硬，會使足底筋膜在推離時承受異常應力，是明確的力學致病因素之一。\n\n【核心考點】\n足底筋膜炎常見力學致病因子包含高弓/扁平足、第一蹠趾關節僵硬及過度旋前；距下關節旋後非主因。",
+      "key_point": "足底筋膜炎常見力學致病因子包含高弓/扁平足、第一蹠趾關節僵硬及過度旋前；距下關節旋後非主因。",
+      "flashcard_front": "足底筋膜炎（plantar fasciitis）的生物力學致病因子",
+      "flashcard_back": "高弓足、過度旋前（pronation）、第一蹠趾關節僵硬（hallux limitus）為致病因子；距下關節旋後（supination）非致病因子。",
+      "flashcard_summary": "足底筋膜炎力學成因 -> 距下關節過度旋前與第一蹠趾關節僵硬是致病主因，旋後則非。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題在原始資料庫中存在題幹與選項合併/錯位的嚴重排版問題。題幹前半部與選項實際上屬於第 64 題（門閾學說，Gate control theory），但系統設定之正確答案為 C。\n補充提醒：本題官方答案為 C，若以門閾學說的生理機制而言，正確的抑制關係應為刺激 A 型纖維（X）以抑制 C 型纖維（Y，即選項 B）；若以原第 63 題「右膝外側撞擊後急性積血腫脹」而言，最正確的處置是先抽取關節積液或積血（即原 63 題的選項 C）以減壓止痛。以下針對門閾學說的選項進行醫學解析。\n\n【選項詳解】\n- A. 錯誤。B 型神經纖維主要是自主神經系統的節前纖維，並不參與門閾學說（gate control theory）中在脊髓背角對於體感痛覺傳遞的調控機制。\n- B. 醫學上正確（但非此錯位題目之系統設定答案）。在門閾學說中，X 應為大直徑、傳導快的 A 型（A-beta）觸覺纖維，Y 應為小直徑、傳導慢的 C 型（或 A-delta）痛覺傳入纖維。刺激 A 型纖維可藉由活化脊髓膠狀質的抑制性中間神經元，關閉痛覺閘門，從而抑制 C 型纖維的痛覺傳遞。\n- C. 系統設定之正確答案，但醫學上不正確。此選項認為是刺激 B 型纖維（X）以抑制 A 型纖維（Y），這不符合門閾學說中「由粗大感覺纖維抑制細小痛覺纖維」的生理機制（B型纖維與痛覺調控無涉，且被抑制者應為 C 或 A-delta 纖維）。\n- D. 錯誤。C 型纖維是無髓鞘的慢痛傳導纖維，其興奮會使閘門開啟以利痛覺傳導，並非作為刺激來源去抑制傳導觸覺的 A 型纖維。\n\n【核心考點】\n1. 急性膝關節內血腫之處置：外傷後有關節內血腫（常見於前十字韌帶斷裂）致嚴重腫脹及活動受限時，首選處置是關節穿刺抽取積血以減壓。\n2. 門閾學說（Gate control theory）：生理機制為活化粗大的 A 型（A-beta）感覺纖維，以抑制細小的 C 型（及 A-delta）痛覺傳入纖維。",
+      "key_point": "急性膝關節內大量積血應先穿刺抽取以減壓止痛；門閾學說是刺激粗大 A 型纖維以抑制細小 C 型纖維。",
+      "flashcard_front": "急性膝關節積血處置與門閾學說神經纖維分類",
+      "flashcard_back": "急性膝血腫首選抽取積血減壓；門閾學說中 X 為大直徑 A 型感覺纖維，Y 為小直徑 C 型（或 A-delta）痛覺纖維。",
+      "flashcard_summary": "膝關節血腫與門閾學說 -> 急性關節血腫首選抽取積液減壓；門閾學說以較粗的A型纖維刺激抑制較細的痛覺傳導。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": [
+        "題幹與選項存在合併錯位錯誤。題幹包含63與64題內容，選項為64題門閾學說選項，但正確答案卻保留了63題的C（對應門閾學說的B為真，但此處設定為C）。建議後續修復數據庫結構。"
+      ]
+    },
+    {
+      "question_id": "110-1_medicine-6_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題詢問 1965 年由 Melzack 與 Wall 提出的門閾學說（gate control theory）之神經生理學機轉。該學說認為，刺激粗大有髓鞘的感覺神經纖維，能在脊髓背角層級抑制細小無髓鞘的痛覺神經纖維之衝動傳導，從而關閉痛覺傳入的「閘門」。\n\n【選項詳解】\n- A. 錯誤。B 型神經纖維是自主神經系統中的節前纖維，與門閾學說所描述之軀體感覺（觸覺與痛覺）的突觸抑制調控無直接關聯。\n- B. 正確。在門閾學說中，X 為大直徑、傳導速度快且有髓鞘的 A 型（主要是 A-beta）觸壓覺纖維；Y 為小直徑、傳導速度慢且無髓鞘的 C 型（或輕度髓鞘的 A-delta）痛覺纖維。刺激 A 型纖維會活化脊髓背角膠狀質（substantia gelatinosa）內的抑制性中間神經元，進而抑制 C 型纖維的痛覺訊號傳導，符合學說機制，為本題標準答案。\n- C. 錯誤。B 型纖維與軀體感覺調控無關，且 A 型纖維在該機制中是扮演刺激源以產生抑制作用，而非被抑制的對象。\n- D. 錯誤。C 型纖維是痛覺傳入纖維，其興奮會打開閘門以促進痛覺傳導，而非用來抑制傳導觸覺的 A 型纖維。\n\n【核心考點】\n門閾學說（Gate control theory）之生理機制：刺激大直徑、傳導快的 A 型（A-beta）感覺纖維，在脊髓背角（膠狀質）產生抑制，從而阻斷小直徑、傳導慢的 C 型（及 A-delta）痛覺纖維的傳遞。",
+      "key_point": "門閾學說是藉由刺激粗大、傳導快的 A 型纖維，在脊髓背角抑制細小、傳導慢的 C 型痛覺纖維。",
+      "flashcard_front": "門閾學說（gate control theory）中 X（刺激）與 Y（被抑制）的纖維種類",
+      "flashcard_back": "X 為傳導觸壓覺的粗大 A 型（A-beta）纖維；Y 為傳導痛覺的細小 C 型（或 A-delta）纖維。",
+      "flashcard_summary": "門閾學說 -> 刺激 A 型（A-beta）纖維，抑制 C 型（或 A-delta）痛覺纖維傳導。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考查脊柱側彎（scoliosis）的臨床評估方法、病因探討以及保守治療（背架）的原則。青少年特發性脊柱側彎是最常見的類型，治療上會根據患者骨骼成熟度（Risser sign）及側彎 Cobb's angle 來決定追蹤、配戴背架或手術評估。\n\n【選項詳解】\n- A. 錯誤。側彎測量器（scoliometer）是在患者進行亞當式前彎測試（Adam's forward bend test）時置於患者背部，用以測量軀幹旋轉角度（Angle of Trunk Rotation, ATR）。這反映的是椎骨旋轉所致之軸狀面（transverse plane）畸形，而非額平面（frontal plane）。額平面的側彎角度（Cobb's angle）需透過站立 X 光片測量，故此敘述不正確。\n- B. 錯誤。脊柱側彎多為特發性（idiopathic），其病因與基因遺傳、前庭系統發育、神經肌肉控制失調等多重發育與基因因子相關，與日常生活中的「睡姿」並無因果關係，故此敘述不正確。\n- C. 錯誤。目前臨床實證醫學指引（如 SOSORT 指引）指出，無論是表面或深層的電刺激（electrical stimulation），對延緩脊柱側彎的進展或改善側彎角度均無明確的療效，不應將電刺激做為常規的脊柱側彎治療手段，故此敘述不正確。\n- D. 正確。對於骨骼發育尚未成熟（Risser sign ≤ 3）且側彎角度在 20°~40° 之間的患者，配戴背架（如 Boston brace 或 Milwaukee brace）的主要目的是藉由外在力學支撐，防範與「避免脊柱側彎角度在生長發育高峰期持續惡化」，而非將側彎角度矯正回零度。此敘述正確，為本題標準答案。\n\n【核心考點】\n脊柱側彎背架治療旨在減緩角度惡化而非完全矯正；側彎測量器測量的是軸狀面軀幹旋轉角度。",
+      "key_point": "脊柱側彎背架治療旨在減緩角度惡化而非完全矯正；側彎測量器測量的是軸狀面軀幹旋轉角度。",
+      "flashcard_front": "脊柱側彎（scoliosis）背架目的與側彎測量器（scoliometer）測量平面",
+      "flashcard_back": "背架目的為防止側彎惡化；側彎測量器測量前彎時軸狀面（transverse plane）的軀幹旋轉角度（ATR）。",
+      "flashcard_summary": "脊柱側彎治療與測量 -> 背架主要在預防側彎惡化，側彎測量器測量軸狀面的軀幹旋轉角。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題考查燒燙傷後的擺位（positioning）與防攣縮輔具（副木及壓力衣）的使用原則。本題為否定句，需要選出陳述「錯誤」的選項。當面臨腋下及胸側燒燙傷時，為防範肩膀因疤痕收縮而出現內收攣縮，復健擺位應擺在對抗攣縮的外展與外旋位置。\n\n【選項詳解】\n- A. 正確敘述。燒燙傷患者在傷口癒合及疤痕形成期，因為疼痛與疤痕收縮，肢體本能上偏好處於屈曲（flexed）與內收等張力最低的舒適姿勢。然而，這極易導致嚴重的關節攣縮，因此復健擺位必須強制將關節固定在伸展與對抗攣縮的姿勢。因為本題問何者錯誤，故此選項非所選答案。\n- B. 正確敘述。燒燙傷輔具（如肢體副木）的最主要目的，是在患者休息或睡眠時，將受傷的關節與軟組織維持在長度拉開的抗攣縮位置，以預防發生嚴重的關節攣縮（contracture）與關節變形。因為本題問何者錯誤，故此選項非所選答案。\n- C. 正確敘述。壓力衣（compression garments）能提供持續的機械性壓力（通常大於 20 mmHg），減少傷口的微血管血流、抑制組織缺氧並促使膠原纖維平行排列，進而能有效抑制疤痕過度增生，是防範肥厚性疤痕（hypertrophic scarring）的關鍵輔具。因為本題問何者錯誤，故此選項非所選答案。\n- D. 錯誤敘述。腋下或胸側如果發生燒燙傷，極易引發肩關節內收與下垂攣縮。為預防此種攣縮，應使用飛機副木（airplane splint，或稱外展副木）將肩關節擺位在「外展（abduction，通常約 90 度）」與外旋的對抗性姿勢，而非維持「內收（adduction）」姿勢。故此選項敘述錯誤，符合題意為本題標準答案。\n\n【核心考點】\n腋下燒燙傷防攣縮擺位應使用飛機副木維持肩關節外展與外旋，不可維持在內收姿勢。",
+      "key_point": "腋下燒燙傷防攣縮擺位應使用飛機副木維持肩關節外展與外旋，不可維持在內收姿勢。",
+      "flashcard_front": "腋下/胸側燒燙傷擺位原則與飛機副木（airplane splint）",
+      "flashcard_back": "防攣縮擺位需對抗攣縮倾向；腋下燒傷應使用飛機副木維持肩關節「外展」與外旋，而非內收。",
+      "flashcard_summary": "燒燙傷擺位 -> 腋下燒傷應使用飛機副木維持肩關節外展與外旋，防止內收攣縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考查年輕與職業運動員在劇烈運動中發生心源性猝死（Sudden Cardiac Death, SCD）的常見病因。本題為否定句，需要選出「最不常」引起運動猝死的疾病。運動猝死多與遺傳性心臟畸形、冠狀動脈發育異常或主動脈根部病變相關。\n\n【選項詳解】\n- A. 正確敘述。肥厚性心肌症（hypertrophic cardiomyopathy, HCM）是 35 歲以下年輕運動員運動猝死最常見的病因。心肌異常肥厚會導致左心室流出道阻塞，在劇烈運動時容易引發致命性的心室顫動（VF）或心室頻脈（VT）。因為本題問何者不是常造成猝死原因，故此選項非所選答案。\n- B. 正確敘述。主動脈瘤（aortic aneurysms）破裂是劇烈運動猝死常見原因之一，尤其好發於馬凡氏症候群（Marfan syndrome）等先天結締組織異常患者，劇烈運動時血壓劇增易導致主動脈夾層（剝離）或動脈瘤急性破裂。因為本題問何者不是常造成猝死原因，故此選項非所選答案。\n- C. 正確敘述。先天性冠狀動脈發育異常（coronary artery anomalies，如左冠狀動脈起源於右冠狀竇並介於主動脈與肺動脈之間）在運動時血管受擴張的兩大動脈擠壓，會導致急性心肌缺氧與致命心律不整，是運動猝死的第二常見原因。因為本題問何者不是常造成猝死原因，故此選項非所選答案。\n- D. 錯誤敘述。二尖瓣脫垂（mitral valve prolapse, MVP）在一般人群中的盛行率頗高（約 2-3%），且絕大多數患者病程良性、無症狀，預後十分良好，極少在劇烈運動中單獨或直接引發致命性心律不整或猝死，非運動猝死的主因。故此選項符合題意，為本題標準答案。\n\n【核心考點】\n運動猝死主因包含肥厚性心肌症、冠狀動脈異常及主動脈瘤破裂；二尖瓣脫垂極少單獨導致猝死。",
+      "key_point": "運動猝死主因包含肥厚性心肌症、冠狀動脈異常及主動脈瘤破裂；二尖瓣脫垂極少單獨導致猝死。",
+      "flashcard_front": "年輕運動員在劇烈運動中猝死（SCD）的常見與非常見病因",
+      "flashcard_back": "肥厚性心肌症（HCM）為最常見原因，其次為冠狀動脈異常及主動脈瘤破裂；二尖瓣脫垂（MVP）則極罕見引發猝死。",
+      "flashcard_summary": "運動猝死心血管原因 -> HCM 與冠狀動脈異常為猝死主因，二尖瓣脫垂預後良好非主因。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考查呼吸照護與胸腔物理治療中清除氣道蓄痰的臨床原則及效益。本題為否定句，需要選出陳述「錯誤」的選項。在臨床排痰治療中，袪痰藥物與物理排痰法是相輔相成的，並無儘量避免使用的原則。\n\n【選項詳解】\n- A. 正確敘述。姿勢引流（postural drainage）是利用重力原理，將患者擺位在特定姿勢，使受影響肺葉的分泌物在重力牽引下流向大氣管，以利病患自主咳出或使用抽吸清除，是胸腔物理治療的常用手段。因為本題問何者錯誤，故此選項非所選答案。\n- B. 正確敘述。清除蓄痰能保持呼吸道通暢、降低氣道阻力、增加通氣量，進而顯著改善肺部的氣體交換（gas exchange）；同時也能使呼吸道阻力下降，從而降低病人呼吸時消耗的能量（呼吸功）。因為本題問何者錯誤，故此選項非所選答案。\n- C. 錯誤敘述。當患者呼吸道有大量蓄痰或痰液過於黏稠時，臨床上「常需搭配」使用袪痰藥物（mucoactive medications，如黏液溶解劑 acetylcysteine），以降黏並促進氣道纖毛運動以利排出，而非「儘量避免使用」。故此選項敘述錯誤，符合題意為本題標準答案。\n- D. 正確敘述。蓄積的痰液容易阻塞小支氣管造成阻塞性肺塌陷（atelectasis），且為病原菌孳生提供溫床。有效排痰能維持肺泡擴張，並降低吸入性肺炎等繼發性感染的機率。因為本題問何者錯誤，故此選項非所選答案。\n\n【核心考點】\n清除氣道蓄痰可改善氣體交換並降低呼吸功；排痰過程中常需配合使用袪痰藥物以稀釋分泌物。",
+      "key_point": "清除氣道蓄痰可改善氣體交換並降低呼吸功；排痰過程中常需配合使用袪痰藥物以稀釋分泌物。",
+      "flashcard_front": "氣道蓄痰清除效益與袪痰藥物（mucoactive medications）的使用原則",
+      "flashcard_back": "清除蓄痰能改善氣體交換並降低呼吸功，應「配合」使用袪痰藥物（黏液溶解劑）以稀釋痰液，而非避免使用。",
+      "flashcard_summary": "氣道清除與藥物 -> 清除蓄痰可降低呼吸功及肺塌陷，需搭配袪痰藥物以利排出。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題考查小兒先天性脊髓發育異常或神經肌肉疾病的相關併發症。脊髓脊膜膨出常因後腦結構發育異常（Chiari 畸形）而導致腦脊髓液通路受阻，引起高頻率的水腦症併發症，其餘選項所述疾病則極少合併水腦症。\n\n【選項詳解】\n- A. 正確。脊髓脊膜膨出症（myelomeningocele）是嚴重的開放性神經管缺損。高達 80%~90% 的病童會合併 Arnold-Chiari II 畸形，特徵為小腦扁桃體、蚓部及部分腦幹向枕骨大孔疝出，這會阻礙第四腦室及中腦導水管的腦脊髓液回流，造成嚴重的交通性或非交通性水腦症（hydrocephalus），通常需接受腦脊髓液分流手術（shunt placement）。此選項為最常合併水腦症之疾病，為本題標準答案。\n- B. 錯誤。腦性麻痺（cerebral palsy）是由於發育中的胎兒或嬰兒大腦受到非進行性損傷所致，主要引發運動與姿勢功能障礙。除非患者原發病因是嚴重的顱內出血或感染所致的繼發性水腦，否則水腦症本身並非腦性麻痺的典型或常見併發症，故此選項錯誤。\n- C. 錯誤。脊髓性肌肉萎縮症（spinal muscular atrophy, SMA）是由於運動神經元存活基因（SMN1）突變，導致脊髓前角細胞退化所引起的進行性肢體無力與萎縮。其大腦構造與腦脊髓液循環完全正常，不會合併水腦症，故此選項錯誤。\n- D. 錯誤。肌肉失養症（muscular dystrophy，如 Duchenne 氏症）是一組進行性肌肉變性壞死的遺傳性骨骼肌疾病，病變僅局限於肌肉纖維，並不影響中樞神經系統及腦脊髓液循環，不會合併水腦症，故此選項錯誤。\n\n【核心考點】\n脊髓脊膜膨出症因常合併 Arnold-Chiari II 型畸形阻塞腦室通道，有高達八成以上病童合併水腦症。",
+      "key_point": "脊髓脊膜膨出症因常合併 Arnold-Chiari II 型畸形阻塞腦室通道，有高達八成以上病童合併水腦症。",
+      "flashcard_front": "小兒脊髓脊膜膨出症（myelomeningocele）最常合併之併發症",
+      "flashcard_back": "最常合併水腦症（hydrocephalus），因其高度伴隨 Arnold-Chiari II 型畸形導致腦脊髓液循環受阻。",
+      "flashcard_summary": "脊髓脊膜膨出與水腦 -> 脊髓脊膜膨出症常合併 Arnold-Chiari II 畸形，造成八成以上病童合併水腦症。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考查小腦損傷對言語與語言功能造成的影響。小腦主要負責動作的協調、時序及精細度控制。當小腦受損時，發音肌肉的協調性喪失，會導致說話節律與音調異常，在臨床上稱為運動失調型吶吃。\n\n【選項詳解】\n- A. 正確。小腦主要負責運動調控的精密協調與時序。當小腦受損時，發音器官（如舌、唇、聲帶等）的肌肉收縮失去協調，說話會呈現語調節律失控、發音模糊、爆發性或北歐式斷續發音（scanning speech），這在臨床上稱為運動失調型吶吃（ataxic dysarthria），為本題標準答案。\n- B. 錯誤。弛緩型吶吃（flaccid dysarthria）主要是由於下運動神經元（LMN）或支配發音器官的腦神經（如 CN V, VII, IX, X, XII）受損，導致發音器官肌肉無力、張力低下與萎縮，非小腦病變之特徵，故此選項錯誤。\n- C. 錯誤。布洛卡氏失語症（Broca's aphasia）是大腦皮質額下回（Broca's area）受損所引發的表達性語言中樞受損，病人特徵為口語表達不流暢、字詞提取困難但理解力尚可，屬於「失語症（aphasia）」而非發音協調障礙的「吶吃（dysarthria）」，故此選項錯誤。\n- D. 錯誤。經皮質感覺型失語症（transcortical sensory aphasia）是大腦皮質顳頂枕葉交界區受損引起的接受性語言障礙（理解力極差但覆誦功能完好），與小腦的運動協調功能無關，故此選項錯誤。\n\n【核心考點】\n小腦病變主要影響運動協調，導致口語發音肌肉失調，呈現運動失調型吶吃（斷續發音）。",
+      "key_point": "小腦病變主要影響運動協調，導致口語發音肌肉失調，呈現運動失調型吶吃（斷續發音）。",
+      "flashcard_front": "小腦受損（cerebellar lesion）所引發的口語語言障礙類型",
+      "flashcard_back": "會引發運動失調型吶吃（ataxic dysarthria），表現為發音模糊、爆發性或北歐式斷續言語。",
+      "flashcard_summary": "小腦損傷語言障礙 -> 小腦病變會導致運動失調型吶吃（構音障礙），失語症則由大腦皮質病變引起。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

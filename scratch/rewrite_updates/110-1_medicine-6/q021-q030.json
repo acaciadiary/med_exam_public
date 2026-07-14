@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-6.json",
+  "dataset_id": "110-1_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題詢問實施眼震電圖的溫差試驗（caloric test）時，不同溫度刺激與引發眼球震顫方向的關係。溫差試驗是利用高於或低於體溫的介質刺激外半規管，引起內淋巴液流動，進而透過前庭眼反射（VOR）產生眼震。臨床上判定眼震方向是以「快相（rapid phase）」為準，其方向遵循「COWS」口訣，即冷刺激引發對側眼震（Cold-Opposite），溫刺激引發同側眼震（Warm-Same）。\n\n【選項詳解】\n- A. 錯誤。右耳灌入 30 度冷水（低於體溫的冷刺激），根據 COWS 規則（Cold-Opposite），產生的眼震快相應朝向刺激的對側，即向左側，而非向右。\n- B. 正確。左耳灌入 44 度溫水（高於體溫的溫刺激），根據 COWS 規則（Warm-Same），產生的眼震快相應朝向刺激的同側，即向左側。雙眼的眼震方向一致，因此右眼眼震快相向左為正確敘述。\n- C. 錯誤。右耳灌入 24 度冷空氣（冷刺激），引發的眼震快相向對側（左側），而眼震慢相（slow phase）與快相方向相反，應偏向刺激的同側，即向右側，而非向左。\n- D. 錯誤。左耳灌入 50 度溫空氣（溫刺激），引發的眼震快相向同側（左側），而眼震慢相（slow phase）與快相方向相反，應偏向刺激的對側，即向右側，而非向左。\n\n【核心考點】\n溫差試驗（caloric test）的眼震方向判讀：快相方向遵循 COWS 規則（冷對溫同），慢相方向與快相相反（冷同溫對）。",
+      "key_point": "溫差試驗眼震快相方向遵循 COWS 規則（冷刺激向對側，溫刺激向同側），慢相則相反。",
+      "flashcard_front": "溫差試驗 (caloric test) / 眼震快慢相判定 / COWS 規則",
+      "flashcard_back": "眼震快相遵循 COWS：灌冷水（Cold）快相向對側（Opposite），灌溫水（Warm）快相向同側（Same）。慢相方向與快相相反。",
+      "flashcard_summary": "溫差試驗眼震方向 -> 遵循 COWS 規則，冷水刺激快相向對側，溫水刺激快相向同側。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題詢問哪一種顱底腫瘤在磁振造影（MRI）檢查時會呈現特徵性的「鹽及胡椒徵象（salt and pepper sign）」。此影像表現是高度血管化腫瘤的指標，由高流速血管的流空效應（low signal flow voids）與局灶性出血/慢速血流（high signal foci）交織而成，是診斷副神經節瘤（paraganglioma）的經典影像依據。\n\n【選項詳解】\n- A. 錯誤。聽神經瘤（acoustic neuroma）在 MRI 上典型表現為位於橋腦小腦角（CPA）的圓形或啞鈴狀腫塊，常伴有內聽道擴大，注射顯影劑後呈均勻或不均勻的顯著強化，並可能有囊變區，但無 salt and pepper sign。\n- B. 錯誤。腺樣囊狀癌（adenoid cystic carcinoma）為源自唾液腺的惡性腫瘤，侵犯顱底時常呈現沿著腦神經蔓延的神經旁侵犯（perineural invasion）影像，表現為受累神經增粗與異常強化，但不具備 salt and pepper sign 的特徵。\n- C. 錯誤。膽固醇肉芽腫（cholesterol granuloma）好發於顳骨岩尖，其內含大量膽固醇結晶與慢性出血，因含鐵血黃素與脂質的影響，在 T1WI 與 T2WI 均呈現雙重高訊號，且病灶內缺乏豐富 Og 高流量灌流血管，因此無 salt and pepper sign。\n- D. 正確。副神經節瘤（paraganglioma，如頸靜脈球瘤、鼓室球瘤）是極富血管的腫瘤。在 MRI（特別是 T2WI 或 T1 加顯影劑）上，其內部的多處迂曲微小血管流空（flow voids）呈現點狀低訊號（pepper），而腫瘤實質、局灶出血或慢血流呈現點狀高訊號（salt），共同構成特徵性的 salt and pepper sign。\n\n【核心考點】\n顱底副神經節瘤（paraganglioma）的 MRI 特徵性表現為 \"salt and pepper sign\"，起因於豐富的高流量血管流空（胡椒）與局灶出血/血流淤滯（鹽）的交織。",
+      "key_point": "顱底副神經節瘤（paraganglioma）在 MRI 上有特徵性的 salt and pepper sign，由血管流空與局灶出血所致。",
+      "flashcard_front": "顱底腫瘤 / 磁振造影 salt and pepper sign / 血管流空與出血",
+      "flashcard_back": "副神經節瘤（paraganglioma）因高度血管化，在 MRI 上呈現血管流空（黑點，胡椒）與出血/慢血流（白點，鹽）交織的 salt and pepper sign。",
+      "flashcard_summary": "鹽及胡椒徵象 -> 磁振造影上呈現此特徵的顱底腫瘤為富含血管的副神經節瘤（paraganglioma）。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題為否定題，詢問治療膽脂瘤（cholesteatoma）的手術中最不可能包含哪一種術式。本題正確選項為錯誤的術式。膽脂瘤具有侵蝕周邊顳骨與聽小骨的特性，手術核心為「徹底清除病灶（防復發）」與「重建聽力結構（防傳導性聽失）」。鐙骨切除術是治療耳硬化症的專用術式，在膽脂瘤患者中切除鐙骨足板會打通內耳，屬於手術禁忌。\n\n【選項詳解】\n- A. 錯誤。乳突切除術（mastoidectomy）是膽脂瘤手術的常用基本術式。當膽脂瘤向後蔓延至乳突氣室時，必須切除部分乳突骨質以徹底清除深部病灶，並建立通暢引流。\n- B. 錯誤。聽小骨鏈成型術（ossiculoplasty）是膽脂瘤手術中重建聽力的重要步驟。膽脂瘤常侵蝕聽小骨（特別是砧骨長突），在病灶徹底清除後，常需使用人工聽小骨（如 PORP 或 TORP）重建傳導路徑。\n- C. 錯誤。上鼓室鑿開術（atticotomy）是清除局限性膽脂瘤的常用術式。因膽脂瘤常起源於鼓膜鬆弛部並最先侵犯上鼓室，此術式能直接暴露並切除該區域的病變。\n- D. 正確。鐙骨切除術（stapedectomy）主要用於治療耳硬化症（otosclerosis）所致的鐙骨足板固定。在膽脂瘤或慢性中耳炎的手術中，若鐙骨受損，應進行病灶清除並在足板上做聽骨鏈重建，絕不可切除鐙骨足板。因為在有潛在感染或膽脂瘤的術野中打開鐙骨足板（進入前庭），極易導致內耳感染（迷路炎）、外淋巴瘻管，甚至全聾或腦膜炎，故此術式為本題最不可能包括（且禁忌）的術式。\n\n【核心考點】\n膽脂瘤手術以病灶清除（乳突切除、上鼓室鑿開）及聽骨鏈重建為原則；鐙骨切除術（stapedectomy）為耳硬化症術式，在慢性中耳感染環境中因有內耳損傷與外淋巴漏風險而列為禁忌。",
+      "key_point": "膽脂瘤手術以清除病灶及聽骨重建為主；鐙骨切除術（stapedectomy）為耳硬化症術式，在膽脂瘤環境下為內耳感染禁忌。",
+      "flashcard_front": "膽脂瘤手術 / 鐙骨切除術 (stapedectomy) / 耳硬化症 / 術式禁忌",
+      "flashcard_back": "膽脂瘤手術包含乳突切除與聽骨鏈重建，但禁用治療耳硬化症的鐙骨切除術，因有打通前庭導致迷路炎、全聾及腦膜炎的重大風險。",
+      "flashcard_summary": "膽脂瘤手術術式 -> 包含乳突切除及聽骨鏈重建，但不包括（且禁用）耳硬化症專用的鐙骨切除術。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題詢問以手術建立呼吸繞道（氣管切開造口術與環甲膜切開術）的正確醫學敘述。氣管切開造口術（tracheostomy）是建立長期氣道的標準手術，其安全且適當的位置在第 2 至第 4 氣管環之間；而環甲膜切開術（cricothyrotomy）因鄰近聲門易導致喉狹窄，僅適用於緊急臨時搶救。\n\n【選項詳解】\n- A. 錯誤。氣管切開造口術適用於長期人工氣道；但環甲膜切開術（cricothyrotomy）因切口鄰近環狀軟骨與聲帶，長期留置氣切管極易導致環狀軟骨軟化與喉狹窄（laryngeal stenosis），因此僅能作為緊急暫時性氣道，不適合作為長期繞道。\n- B. 錯誤。前頸靜脈（anterior jugular vein）是在前頸部中線兩側縱向走行的血管。當橫向切開頸部皮膚時，仍會橫切這些血管的路徑；避免受損的方法是在鈍性分離皮下組織時，將縱行血管向兩側牽拉避開，而非僅靠皮膚橫切。\n- C. 正確。氣管切開造口術（tracheostomy）的標準安全切開與造口位置為第二至第四氣管環（2nd to 4th tracheal rings）之間。此處可避開上方第一氣管環以減少喉狹窄風險，並避開下方胸骨上凹的無名動脈（innominate artery），是圖中最適當且安全的位置。\n- D. 錯誤. 氣切手術位置處於頸部前中線，而外頸動脈位於頸部外側深處（頸動脈三角內），手術中線入路極難傷及外頸動脈。術後持續滲血最可能的原因是傷及氣管前方的「甲狀腺峽部（thyroid isthmus）」、前頸靜脈或甲狀腺靜脈叢。\n\n【核心考點】\n氣管切開造口術的標準手術部位為第二至第四氣管環；環甲膜切開術因有極高的喉狹窄風險，僅限於緊急暫時性氣道建立，不宜長期使用。",
+      "key_point": "氣切造口最佳位置在第二至第四氣管環；環甲膜切開術易引起喉部狹窄，僅限緊急暫時使用。",
+      "flashcard_front": "外科呼吸繞道 / 氣管切開造口術 (tracheostomy) 安全位置 / 環甲膜切開術 (cricothyrotomy) 併發症",
+      "flashcard_back": "氣切造口安全位置為第2-4氣管環；環甲膜切開術因易導致喉部狹窄，不可用於長期氣道留置。",
+      "flashcard_summary": "氣切與環甲膜切開位置 -> 氣管切開造口術適當位置為第2-4氣管環；環甲膜切開術僅供緊急暫時使用。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題為否定題，詢問哪一種手術在術後發生「聲帶麻痺」的機率最低。本題正確選項為發生機率最低的術式。聲帶的運動由喉返神經（recurrent laryngeal nerve, RLN）支配。喉返神經源自迷走神經，其解剖路徑深入胸腔（左側繞主動脈弓，右側繞鎖骨下動脈）後沿氣管食道溝上行。因此，凡是涉及胸腔、縱膈腔或食道的手術，皆有損傷該神經的風險；而扁桃腺切除術位於口咽部，與喉返神經路徑完全無涉。\n\n【選項詳解】\n- A. 錯誤。肺局部或全葉切除手術（特別是左側）常需廓清主動脈弓旁的縱膈腔淋巴結，此處鄰近左側喉返神經折返處，手術中容易因拉扯或直接切斷神經而導致術後聲帶麻痺。\n- B. 錯誤。食道切除手術（esophagectomy）中，喉返神經緊貼於食道兩側的氣管食道溝內上行。在剝離食道與廓清周邊雙側喉返神經旁淋巴結時，神經極易受到機械牽拉、電燒熱損傷或直接切斷，具有高機率的術後聲帶麻痺風險。\n- C. 錯誤。心臟繞道手術（CABG）術中分離縱膈腔、左內乳動脈（LIMA）剝離以及局部冰泥降溫保護心肌時，均有可能直接拉扯或低溫凍傷主動脈弓下方的左側喉返神經，導致術後聲帶麻痺。\n- D. 正確。扁桃腺切除手術（tonsillectomy）的切除範圍局限於口咽部的扁桃腺窩（tonsillar fossa），其解剖位置遠高於喉部與胸腔，完全不接觸也不涉及喉返神經的走行路徑，因此術後發生聲帶麻痺的機率最低。\n\n【核心考點】\n喉返神經（RLN）具有特殊的胸腔走行路徑（左繞主動脈弓，右繞鎖骨下動脈，沿氣管食道溝上行），故肺、食道、心臟等胸腔/縱膈腔手術有受損致聲帶麻痺的風險，而口咽部手術（如扁桃腺切除）則無此風險。",
+      "key_point": "喉返神經行經胸腔與氣管食道溝，易受胸腔與食道手術損傷；口咽部的扁桃腺切除術不涉及其路徑，聲帶麻痺機率最低。",
+      "flashcard_front": "聲帶麻痺原因 / 喉返神經 (RLN) 解剖路徑 / 胸腔與食道手術 / 扁桃腺切除術",
+      "flashcard_back": "喉返神經左繞主動脈弓、右繞鎖骨下動脈上行。肺、食道及心臟手術有高機率損傷神經致聲帶麻痺；局限於口咽部的扁桃腺切除術則無此風險。",
+      "flashcard_summary": "聲帶麻痺手術風險 -> 喉返神經繞行胸腔，胸腔/食道手術具受損風險，口咽部扁桃腺切除術機率最低。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題詢問關於唾液腺結石症（sialolithiasis）的正確醫學敘述。唾液腺結石好發於下頷腺，且其結石多為不透光性（radiopaque）。相反地，腮腺結石較少見，且大多為透光性（radiolucent），故在一般的 X 光檢查中極難被診斷，通常需要藉由超音波或電腦斷層（CT）來確診。\n\n【選項詳解】\n- A. 錯誤。唾液腺結石的化學組成除了無機礦物質羥磷灰石（hydroxyapatite）之外，還含有相當比例的有機物質（如醣蛋白、黏多醣、細胞碎屑及細菌等組成的核心結構，約佔結石乾重的 10-25%），並非「通常不含有機物質」。\n- B. 錯誤。唾液腺結石最常發生於下頷腺（submandibular gland，約佔 80-90%），腮腺（parotid gland）僅佔約 10-20%。這與下頷腺導管（Wharton's duct）長且向上走行（需抗重力流動）、唾液分泌物中黏液素（mucin）比例高、酸鹼值偏鹼以及鈣磷離子濃度高有關。\n- C. 正確。腮腺結石因礦物質化程度較低，有高達 60-80% 屬於透光性（radiolucent），在普通的 X 光片（如平片或咬合片）上往往無法顯影，因此不易僅靠 X 光片進行診斷，常需仰賴超音波或電腦斷層（CT）。\n- D. 錯誤。單純的唾液腺內視鏡術（sialoendoscopy）在沒有雷射碎石（laser lithotripsy）、體外震波（ESWL）或合併切開外置術等輔助手段下，其網籃或抓鉗只能安全移除小於 4-5 mm 的結石。大於 1 公分（10 mm）的結石因體積過大，無法直接經由狹窄的唾液管路拉出。\n\n【核心考點】\n唾液腺結石好發於下頷腺（多為 radiopaque）；腮腺結石較少見且多為透光性（radiolucent），平片不易診斷。單純內視鏡取石有尺寸限制（<5 mm）。",
+      "key_point": "唾液腺結石好發於下頷腺；腮腺結石多為透光性（radiolucent）不易由一般X光確診；內視鏡取大結石須合併碎石。",
+      "flashcard_front": "唾液腺結石症 / 下頷腺與腮腺比較 / 影像學透光性 (radiolucent) / 內視鏡取石限制",
+      "flashcard_back": "結石好發於下頷腺（多呈radiopaque）；腮腺結石多呈透光性（radiolucent），X光難診斷。單純內視鏡只能取小於5mm結石。",
+      "flashcard_summary": "唾液腺結石特性 -> 下頷腺結石最常見且多不透光；腮腺結石多透光，難僅靠X光診斷，大結石無法單用內視鏡取出。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題詢問有關唾液腺惡性腫瘤的正確病理與臨床概念。腺樣囊狀癌（adenoid cystic carcinoma, ACC）雖然臨床生長進展緩慢，但局部侵犯性極強，且具有顯著的「神經旁侵犯（perineural invasion）」傾向，這也是手術邊緣難以清乾淨且術後易局部復發與出現面神經麻痺的原因。\n\n【選項詳解】\n- A. 錯誤。腮腺（parotid gland）最常見的惡性腫瘤是黏液上皮癌（mucoepidermoid carcinoma）；但在下頷腺（submandibular gland）與小唾液腺（minor salivary glands），最常見的惡性腫瘤則是腺樣囊狀癌（adenoid cystic carcinoma）。\n- B. 錯誤。黏液上皮癌的病理分級取決於多種細胞比例。分化良好（低惡性度）的腫瘤內含有較多成熟的黏液細胞（mucinous cells）與微囊結構；而高惡性度的腫瘤則以實體片狀分佈的表皮樣細胞（epidermoid cells）與中間細胞為主，黏液細胞極少。因此，黏液細胞愈多，惡性度愈低。\n- C. 正確。腺樣囊狀癌（ACC）是一種臨床上生長緩慢但極具侵襲性的惡性腫瘤。其最顯著的病理特徵是具有高度嗜神經性，極易發生神經旁侵犯（perineural invasion），沿神經周圍鞘擴散。\n- D. 錯誤。腺樣囊狀癌確實極易發生遠端轉移（尤其是轉移至肺與骨骼），但因為其生長速度慢，這些轉移通常表現為「遲發性轉移」（late metastasis），常在術後 5 年、10 年甚至 15 年後才緩慢發生，並非「均在治療後 3 年內發生」。\n\n【核心考點】\n腺樣囊狀癌（ACC）臨床病程慢但具高度神經旁侵犯性（perineural invasion）與遲發性遠端轉移；黏液上皮癌（MEC）中黏液細胞比例愈高，惡性度愈低。",
+      "key_point": "腺樣囊狀癌（ACC）生長慢但極易沿神經旁侵犯，且易有遲發性遠端轉移；黏液上皮癌黏液細胞多者惡性度較低。",
+      "flashcard_front": "唾液腺惡性腫瘤 / 腺樣囊狀癌 (ACC) 臨床特點 / 黏液上皮癌 (MEC) 病理分級",
+      "flashcard_back": "腺樣囊狀癌生長慢、易有神經旁侵犯（perineural invasion），常有遲發性（>5-10年）遠端轉移。黏液上皮癌之黏液細胞愈多，惡性度愈低。",
+      "flashcard_summary": "唾液腺惡性腫瘤特徵 -> 腺樣囊狀癌生長緩慢但具嗜神經性，遠端轉移多為遲發；黏液上皮癌中黏液細胞多則惡性度低。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題詢問全球最常見的單基因遺傳疾病（single-gene disorder / monogenic disorder）。地中海貧血（海洋性貧血，thalassemia）是因血紅素中的球蛋白鏈（alpha 或 beta）合成缺陷所致的體染色體隱性遺傳病，其基因突變攜帶者在全球人口中占比高達 5% 左右，為全球盛行率與攜帶率最高的單基因遺傳病。\n\n【選項詳解】\n- A. 錯誤。囊性纖維化（cystic fibrosis）是西方白人中最常見的體染色體隱性遺傳疾病（約每 25 名白人中有一位帶因者），但在亞洲人中極罕見，因此全球總盛行率遠低於地中海貧血。\n- B. 錯誤。X染色體脆折症（fragile X syndrome）是導致遺傳性智能障礙最常見的單基因原因（X染色體顯性遺傳，具不完全外顯率），男性盛行率約為 1/4000，女性約為 1/8000，全球患病人數與地中海貧血相比仍屬少數。\n- C. 錯誤。苯酮尿症（PKU）是體染色體隱性遺傳的胺基酸代謝異常罕見疾病，其全球新生兒發病率通常在 1/10000 至 1/20000 之間，並非全球最常見。\n- D. 正確。地中海貧血（thalassemia）為全球最常見的單基因疾病。由於其對瘧疾具有演化上的保護優勢，在熱帶、亞熱帶、地中海、中東及東南亞地區攜帶率極高。全球約有數億人為帶因者，盛行率居單基因遺傳病之首。\n\n【核心考點】\n全球盛行率最高的單基因遺傳疾病為地中海貧血（海洋性貧血）；相較之下，囊性纖維化則為西方白人地區性常見的單基因病。",
+      "key_point": "全球最常見的單基因遺傳疾病是地中海貧血（海洋性貧血），在全球及台灣等亞熱帶地區帶因率極高。",
+      "flashcard_front": "單基因遺傳疾病 / 全球最常見 / 地中海貧血 / 囊性纖維化 (Cystic Fibrosis)",
+      "flashcard_back": "地中海貧血（海洋性貧血）是全球最常見的單基因疾病，帶因率高達5%；而囊性纖維化是西方白人最常見的體隱性遺傳病。",
+      "flashcard_summary": "最常見單基因疾病 -> 全球總體最常見的單基因疾病為地中海貧血，囊性纖維化則具白人族群特異性。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題詢問在妊娠 32 週時，若超音波下測得羊水最大垂直徑（deepest vertical pocket, DVP）只有 1 公分，其在胎兒生物生理評估（Biophysical Profile, BPP）的羊水量分項中得分為何。BPP 的計分方式非常特殊，每一項評估指標只有「合格（得 2 分）」與「不合格（得 0 分）」兩種分數。羊水量分項的合格定義為至少有一個羊水囊的最大垂直徑大於 2 公分，本案僅有 1 公分，故判定為不合格，得分為 0 分。\n\n【選項詳解】\n- A. 錯誤。胎兒生物生理評估（BPP）的單項計分只有 0 分（異常/不合格）或 2 分（正常/合格），完全沒有 3 分這個分值。\n- B. 錯誤。羊水量分項要獲得正常合格的 2 分，超音波檢查必須至少看到一個羊水囊的垂直徑（DVP）大於 2 公分。本題中垂直徑僅有 1 公分，未達標準，不能得 2 分。\n- C. 錯誤。胎兒生物生理評估（BPP）的單項計分只有 0 分或 2 分，沒有 1 分這個分值。\n- D. 正確。因為超音波下羊水最大垂直徑為 1 公分，小於合格標準（DVP > 2 cm），此項指標被判定為異常，因此在 BPP 羊水量分項下的得分為 0 分。\n\n【核心考點】\n胎兒生物生理評估（BPP）單項評分規則為非 0 即 2 分制；羊水量合格的定義為最大羊水垂直徑（DVP）大於 2 公分，低於此值則計 0 分。",
+      "key_point": "胎兒生物生理評估（BPP）單項評分非 0 即 2 分；羊水量合格標準為最大垂直徑（DVP）大於 2 公分，低於此值得 0 分。",
+      "flashcard_front": "胎兒生物生理評估 (BPP) / 羊水量合格定義 / 最大垂直徑 (DVP) / 評分規則",
+      "flashcard_back": "BPP 各項評分僅有 2 分（合格）或 0 分（不合格）。羊水量合格標準為 DVP > 2 cm；若 DVP ≦ 2 cm（如本題 1 cm）則該項得 0 分。",
+      "flashcard_summary": "BPP 羊水量評分 -> 羊水最大垂直徑大於 2 cm 得 2 分，否則得 0 分。本題為 1 cm 故得 0 分。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題詢問一位 53 歲停經婦女，主訴急性起病（病史僅 1 週）的急迫性尿失禁時，最適當的首要臨床處置。對於突然發生的尿失禁或尿急症狀，臨床上最重要、最簡單且必須首先排除的病因是「急性尿路感染（UTI）」。因此，第一線檢查為無創的尿液常規檢查與尿液培養，在排除感染前不應進行任何侵入性尿流動力學或內視鏡檢查。\n\n【選項詳解】\n- A. 正確。尿液檢查及培養（Urinalysis and urine culture）能快速、無創地篩檢出是否為急性尿路感染（UTI）所引發的膀胱逼尿肌敏感與急迫性尿失禁。這是臨床評估急性尿失禁的第一步與最合適處置。\n- B. 錯誤。尿道壓力測量（UPP）為侵入性尿動力學檢查，主要用於評估尿道內括約肌的功能狀態（如壓力性尿失禁）。在患者可能處於急性感染期時，進行此檢查不僅結果不準確，還可能將細菌帶入深部引發嚴重逆行性感染。\n- C. 錯誤。靜脈腎盂造影（IVP）是一種利用顯影劑評估上尿路（腎臟及輸尿管）結構的放射線檢查。急迫性尿失禁與上尿路結構異常關聯極低，且 IVP 具輻射暴露及顯影劑過敏與腎毒性風險，不適合作為初步篩檢。\n- D. 錯誤。膀胱尿道鏡檢查（cystourethroscopy）是侵入性內視鏡檢查，主要用於評估血尿、懷疑膀胱腫瘤或懷疑有廔管的患者。在未排除急性尿路感染前，膀胱鏡檢查為相對禁忌症，可能造成菌血症或感染擴散。\n\n【核心考點】\n急性起病（一週）的急迫性尿失禁，臨床評估首要步驟為進行尿液分析與培養以排除尿路感染（UTI），感染未排除前禁用尿動力學與內視鏡等侵入性檢查。",
+      "key_point": "急性起病的急迫性尿失禁，首要處置是進行尿液常規檢查及培養以排除尿路感染（UTI）。",
+      "flashcard_front": "急性急迫性尿失禁 / 排除尿路感染 (UTI) / 首要檢查 / 侵入性檢查禁忌",
+      "flashcard_back": "急性起病的尿失禁首選「尿液常規及培養」以排除尿路感染（UTI）。在感染未排除前，不宜進行尿動力學（如尿道壓力測量）或膀胱鏡等侵入性檢查。",
+      "flashcard_summary": "急性尿失禁首選檢查 -> 一週急迫性尿失禁首要行尿常規及培養排除UTI，以防侵入性檢查引發感染擴散。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

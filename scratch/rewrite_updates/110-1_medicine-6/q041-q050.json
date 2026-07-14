@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-6.json",
+  "dataset_id": "110-1_medicine-6",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題描述一名妊娠 34 週孕婦，有早期破水（PPROM）病史，且出現發燒（38.6°C）、心搏過速（102 bpm）、母體白血球顯著上升（WBC 19,000/mm3）等症狀，臨床上已符合絨毛膜羊膜炎（chorioamnionitis）的診斷。當確診絨毛膜羊膜炎時，首要處置是立即投予靜脈廣效抗生素治療並計畫分娩，以降低母嬰併發症。\n\n【選項詳解】\n- A. 錯誤。促胎兒肺成熟劑（betamethasone）適用於妊娠 24 至 34 週有早產風險且無子宮內感染的孕婦；當患者已確診為絨毛膜羊膜炎時，應以控制感染及引產分娩為首要，不應因施打類固醇而延遲分娩。\n- B. 錯誤。子宮鬆弛劑（安胎藥，tocolytics）在絨毛膜羊膜炎（宮內感染）時為絕對禁忌症，因為延遲分娩會增加母體敗血症與胎兒新生兒敗血症的風險，應避免安胎。\n- C. 正確。孕婦符合絨毛膜羊膜炎診斷（發燒 > 38°C、白血球增多、母體心搏過速、胎膜早破），接下來最適當的處置是立即給予靜脈廣效抗生素治療（如 Ampicillin 加上 Gentamicin），以降低母嬰感染併發症。\n- D. 錯誤。雖然需要盡速分娩，但絨毛膜羊膜炎本身並非立即剖腹產的絕對指徵。在胎心音呈良好反應（reactive）且胎兒為頭位的情況下，應先給予抗生素並首選經陰道引產（vaginal delivery），剖腹產反而會增加母體腹腔感染與傷口感染的風險。\n\n【核心考點】\n未足月早期破水（PPROM）合併絨毛膜羊膜炎（chorioamnionitis）之首要處置原則：立即給予抗生素並計畫分娩，禁用安胎藥，在無其他產科適應症時首選陰道分娩。",
+      "key_point": "早期破水合併絨毛膜羊膜炎之首要處置原則。",
+      "flashcard_front": "早期破水 / 發燒 / 心搏過速 / 絨毛膜羊膜炎 / 首要處置",
+      "flashcard_back": "破水合併發燒等絨毛膜羊膜炎徵候，應立即投予靜脈抗生素治療並著手引產分娩，禁用安胎藥。",
+      "flashcard_summary": "絨毛膜羊膜炎處置 -> 確診後立即給予抗生素並著手準備分娩，禁用安胎藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n陰部神經終端運動潛伏期（PNTML）檢測是評估陰部神經及其支配肌肉完整性的電生理方法。測試時使用 St. Mark 電極片，經由陰道或直腸在坐骨棘（ischial spine，題幹誤譯為腸骨脊）處刺激陰部神經（pudendal nerve），並在肛門外括約肌處測量運動誘發電位反應。\n\n【選項詳解】\n- A. 正確。陰部神經分支出肛門下神經（inferior anal nerve）支配肛門外括約肌（anal sphincter）。PNTML 檢測中，St. Mark 電極的記錄端貼在指根部，當手指深入直腸或陰道於坐骨棘刺激陰部神經時，指根處的電極剛好位於肛門括約肌旁，藉此測量其收縮的潛伏時間（正常約為 2.0 ± 0.2 ms）。\n- B. 錯誤。尿道括約肌雖然也受到陰部神經分支（會陰神經 perineal nerve）支配，但在常規的 PNTML 測試中，St. Mark 電極是特別設計用來貼附於肛門括約肌處以測量其反應，而非尿道括約肌。\n- C. 錯誤。逼尿肌由副交感神經（骨盆內臟神經 pelvic splanchnic nerves，S2-S4）支配，非受體神經性質的陰部神經支配，因此無法透過刺激陰部神經來測量其肌肉反應。\n- D. 錯誤。提肛肌主要由骶神經直接分支（S3-S4）及陰部神經共同支配，但在 PNTML 電生理檢測中，臨床標準記錄電極的定位是放在肛門外括約肌，而非提肛肌。\n\n【核心考點】\n陰部神經電學檢測（PNTML）的解剖定位與記錄肌肉：刺激點為坐骨棘（ischial spine）處的陰部神經，記錄點為肛門外括約肌（anal sphincter）。",
+      "key_point": "陰部神經電氣學檢測（PNTML）之刺激與記錄部位。",
+      "flashcard_front": "陰部神經電檢 (PNTML) / 坐骨棘 / 刺激部位 / 記錄肌肉部位",
+      "flashcard_back": "PNTML利用電極在坐骨棘刺激陰部神經，並在肛門外括約肌(anal sphincter)記錄反應。",
+      "flashcard_summary": "PNTML記錄肌肉 -> 經陰道或直腸在坐骨棘刺激神經，於肛門括約肌記錄反應。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n病患為年輕女性，急性發生外陰部劇烈疼痛，臨床檢查發現外陰部有成群的小水泡（grouped vesicles）及表淺性潰瘍（shallow ulcers），這是單純疱疹病毒（HSV）所引起的生殖器疱疹（genital herpes）之典型特徵。\n\n【選項詳解】\n- A. 錯誤。一期梅毒（primary syphilis）的典型病灶為硬性下疳（chancre），通常為單一、無痛性的硬化潰瘍，並不會以成群水泡的形態呈現。\n- B. 正確。生殖器疱疹（genital herpes）由單純疱疹病毒（HSV）感染所致，初期會在受感染的黏膜或皮膚表面出現成群的小水泡，水泡破裂後形成表淺且伴隨劇烈疼痛的潰瘍，常伴有局部灼熱感與淋巴結腫痛。\n- C. 錯誤。軟性下疳（chancroid）由杜克雷嗜血桿菌（Haemophilus ducreyi）引起，其病灶為疼痛性的深部潰瘍，表面常有膿性分泌物，並常伴隨化膿性腹股溝淋巴結炎，病程中不以成群的小水泡為前驅表現。\n- D. 錯誤。病毒疣（尖銳濕疣，俗稱菜花）由人類乳突病毒（HPV，主要是第 6、11 型）引起，表現為外陰部無痛性的乳突狀或花椰菜狀增生贅生物，不具備水泡與表淺潰瘍的特徵。\n\n【核心考點】\n外陰部潰瘍與水泡性性傳染病（STI）之臨床鑑別診斷：生殖器疱疹為「痛、成群水泡、表淺潰瘍」；梅毒為「無痛、硬性潰瘍」；軟性下疳為「痛、深潰瘍伴化膿性淋巴結炎」；病毒疣為「無痛、菜花狀贅生物」。",
+      "key_point": "外陰部疼痛伴隨成群小水泡與表淺潰瘍之診斷。",
+      "flashcard_front": "外陰部疼痛 /成群小水泡 / 表淺性潰瘍 / 生殖器疱疹",
+      "flashcard_back": "外陰部疼痛伴隨成群小水泡與表淺潰瘍，最可能的診斷是生殖器疱疹（herpes）。",
+      "flashcard_summary": "外陰水泡潰瘍診斷 -> 外陰部疼痛且有成群水泡與潰瘍，最可能診斷為疱疹(herpes)。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題詢問腹腔鏡手術中，腹腔內二氧化碳（CO2）氣腹壓力長時間過高所產生的併發症，何者為錯誤描述。腹腔內壓力過高會壓迫下腔靜脈（IVC），導致回心血量減少、心輸出量下降，進而引起「低血壓」而非高血壓，因此選項 C 的敘述為錯誤（為本題之正確答案）。\n\n【選項詳解】\n- A. 說明此選項為正確之併發症。在建立氣腹或手術過程中，若腹壓過高或氣腹針誤刺入腹腔內血管，二氧化碳氣體可能進入靜脈循環而導致氣體栓塞（gas embolism）。\n- B. 說明此選項為正確之併發症。長時間高壓氣腹下，腹膜會大量吸收二氧化碳，導致高碳酸血症（hypercapnia）與酸中毒，進而刺激交感神經或引起心肌過敏，誘發心律不整（arrhythmia）。\n- C. 說明此選項為錯誤之描述，為本題之正確答案。長時間腹腔內二氧化碳壓力過高（一般高於 15 mmHg），會顯著壓迫下腔靜脈及腹腔臟器血管，使靜脈回流（venous return）受阻、心輸出量降低，臨床上的主要併發症為「低血壓」，而非持續性高血壓。\n- D. 說明此選項為正確之併發症。氣腹壓力升高會直接增加腹腔內壓，將橫膈膜及胃部向上推擠，再加上手術時常採頭低腳高位，極易促使胃酸逆流（gastroesophageal reflux）至食道，增加吸入性肺炎的風險。\n\n【核心考點】\n腹腔鏡氣腹（pneumoperitoneum）高壓對心血管與呼吸生理的影響：高壓壓迫 IVC 導致回心血量下降與低血壓；CO2 吸收引起高碳酸血症與心律不整；腹壓上升導致胃食道逆流及呼吸順應性下降。",
+      "key_point": "腹腔鏡氣腹壓力過高對心血管及生理機能之影響。",
+      "flashcard_front": "腹腔鏡手術 / 二氧化碳壓力過高 / 心輸出量 / 胃酸逆流 / 低血壓",
+      "flashcard_back": "高壓氣腹壓迫下腔靜脈會減少回心血量，易導致低血壓而非持續性高血壓，並引發心律不整與胃酸逆流。",
+      "flashcard_summary": "腹腔鏡高壓併發症 -> 高壓氣腹壓迫靜脈回流易引發低血壓而非高血壓，可伴隨心律不整與逆流。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n子宮內膜癌（主要是第一型，子宮內膜樣腺癌）的發生與長期暴露於無對抗性雌激素（unopposed estrogen）刺激密切相關。本題詢問何種情形下子宮內膜癌的風險較低，答案是吸菸（C），因為吸菸具有抗雌激素效應。\n\n【選項詳解】\n- A. 錯誤。停經過晚（如大於 52 歲停經）會延長子宮內膜暴露於無對抗性雌激素的時間，增加子宮內膜增生與癌變的風險。\n- B. 錯誤。Lynch 症候群（遺傳性非息肉病性結直腸癌，HNPCC，尤其是 Lynch II 型）是由 DNA 錯配修復基因（MMR）突變引起，患者除了大腸癌外，罹患子宮內膜癌的終生風險高達 40-60%，是極高風險因子。\n- C. 正確。吸菸（smoking）會促進肝臟中雌激素的代謝（特別是羥基化途徑），並降低體內雌激素的活性，具有抗雌激素（anti-estrogenic）效果，因此臨床上吸菸反而與「降低」第一型子宮內膜癌的風險相關。\n- D. 錯誤。糖尿病（diabetes mellitus）常伴隨高胰島素血症與肥胖，胰島素與類胰島素生長因子-1（IGF-1）可刺激內膜增生，且肥胖會使周邊脂肪組織轉化更多雌酮（estrone），顯著增加子宮內膜癌風險。\n\n【核心考點】\n子宮內膜癌（endometrial cancer）之危險因子與保護因子：危險因子包括肥胖、未生育、停經過晚、外源性雌激素使用、糖尿病、Lynch 症候群；保護因子包括吸菸、口服避孕藥（OCP）及多產。",
+      "key_point": "子宮內膜癌之危險因子與保護因子（吸菸）。",
+      "flashcard_front": "子宮內膜癌 / 危險因子 / 停經過晚 / 糖尿病 / 吸菸",
+      "flashcard_back": "停經過晚與糖尿病增加內膜癌風險；吸菸因降低雌激素水平，與較低的內膜癌風險相關。",
+      "flashcard_summary": "子宮內膜癌與吸菸 -> 吸菸會降低體內雌激素，是子宮內膜癌的保護因子（風險較低）。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n子宮肉瘤（uterine sarcomas）是一組惡性度高的非上皮性惡性腫瘤。其中，「低惡性子宮內膜間質肉瘤（low-grade ESS）」具有特殊的荷爾蒙受體表現特性，其腫瘤細胞大多呈雌激素受體（ER）及黃體素受體（PR）強陽性。因此，手術後輔助使用高劑量黃體素（如 Megestrol acetate 或 Medroxyprogesterone acetate）或芳香酶抑制劑（aromatase inhibitors）能取得良好的控制效果。\n\n【選項詳解】\n- A. 錯誤。子宮肌肉瘤（leiomyosarcoma, LMS）通常不表達或僅弱表達雌黃體素受體，對荷爾蒙治療反應極差，術後輔助治療主要以化學治療或觀察為主，高劑量黃體素對其無顯著療效。\n- B. 正確。低惡性子宮內膜間質肉瘤（low-grade ESS）具有高度表達的 ER 和 PR（>90% 陽性率），屬於高度荷爾蒙依賴性腫瘤，在手術切除（子宮及雙側卵巢輸卵管切除）後，給予高劑量黃體素可以有效抑制殘餘腫瘤生長並預防復發。\n- C. 錯誤。癌肉瘤（carcinosarcoma，過去稱為惡性混合穆勒氏瘤 MMMT，現歸類為化生性子宮內膜癌）對荷爾蒙反應不佳，其臨床進展快速，術後治療以化學治療或放射治療為主。\n- D. 錯誤. 未分化子宮內膜間質肉瘤（undifferentiated ESS, UESS）分化極差，細胞形態不具備間質細胞特徵，通常已失去 ER 和 PR 的表達，惡性度極高且對荷爾蒙治療無反應，主要以化療為主。\n\n【核心考點】\n子宮肉瘤（uterine sarcomas）的亞型分類與荷爾蒙敏感度：low-grade ESS 強烈表達 ER/PR，術後適用高劑量黃體素或芳香酶抑制劑治療；LMS、UESS 及 carcinosarcoma 則對荷爾蒙不敏感。",
+      "key_point": "子宮肉瘤中對荷爾蒙治療反應最佳的類型與術後處置。",
+      "flashcard_front": "子宮肉瘤 / 荷爾蒙受體 / 術後高劑量黃體素 / 低惡性度子宮內膜間質肉瘤",
+      "flashcard_back": "低惡性度子宮內膜間質肉瘤(low-grade ESS)富含雌黃體素受體，術後可用高劑量黃體素治療。",
+      "flashcard_summary": "荷爾蒙敏感子宮肉瘤 -> 低惡性度子宮內膜間質肉瘤對黃體素治療反應最好。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題詢問僅有後腹腔淋巴結轉移（retroperitoneal lymph node metastasis，包括骨盆腔 pelvic 淋巴結及主動脈旁 para-aortic 淋巴結）而無腹腔內其他組織受侵犯的卵巢上皮癌，在 2014 FIGO 分期中之歸類。根據該分期，此情況應歸為 Stage IIIA1。\n\n【選項詳解】\n- A. 錯誤。Stage IIB 指腫瘤局限在骨盆腔內，且有侵犯至其他骨盆腔組織（如子宮、輸卵管以外的器官如膀胱、直腸），但無淋巴結轉移。\n- B. 錯誤。Stage IIIC 指腹腔內轉移灶的最大徑大於 2 cm（肉眼可見），不論是否有後腹腔淋巴結轉移。\n- C. 錯誤。Stage IIIB 指腹腔內轉移灶的最大徑小於或等於 2 cm，不論是否有後腹腔淋巴結轉移。\n- D. 正確。根據 2014 FIGO 分期新制，若腫瘤局限於骨盆腔內（或原發於卵巢/輸卵管），且僅有後腹腔淋巴結轉移（pelvic or para-aortic lymph node metastasis）而無腹膜轉移，則歸類為 Stage IIIA1。進一步依淋巴結轉移病灶之大小細分為：IIIA1(i) 轉移灶 ≤ 10 mm，IIIA1(ii) 轉移灶 > 10 mm。\n\n【核心考點】\n2014 FIGO 卵巢癌分期中，Stage III 的細分標準：Stage IIIA1 專門指僅有後腹腔/骨盆腔/主動脈旁淋巴結轉移者；而 IIIA2, IIIB, IIIC 則涉及腹膜/腹腔內組織轉移。",
+      "key_point": "卵巢上皮癌 2014-FIGO 分期中僅有骨盆腔淋巴轉移之期別判定。",
+      "flashcard_front": "卵巢上皮癌 / 2014-FIGO分期 / 局限卵巢 / 骨盆腔淋巴結轉移",
+      "flashcard_back": "腫瘤限於卵巢但有骨盆腔或主動脈旁淋巴結轉移，分期為Stage IIIA1。",
+      "flashcard_summary": "卵巢癌淋巴轉移分期 -> 僅有骨盆腔或主動脈旁淋巴轉移者，歸為Stage IIIA1。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題詢問關於次發性無月經（指曾有月經，但後來停經超過 3 個月，或若月經不規則者停經超過 6 個月）的病因描述何者錯誤。Kallmann 症候群是一種先天性 GnRH 分泌障礙，患者由於未曾有過月經，臨床上表現為「原發性無月經症（primary amenorrhea）」，故 C 為錯誤描述（本題之正確答案）。\n\n【選項詳解】\n- A. 說明此選項為正確敘述。高泌乳激素血症（hyperprolactinemia）會抑制下視丘分泌 GnRH，進而減少 FSH 與 LH 分泌，導致排卵障礙，是引起次發性無月經症的常見病因。\n- B. 說明此選項為正確敘述。Asherman 症候群（宮腔粘連）常因人工流產手術過度刮宮導致子宮內膜基底層受損並粘連，使子宮內膜無法正常增生與剝脫，為解剖構造異常導致的次發性無月經。\n- C. 說明此選項為錯誤敘述，為本題之正確答案。Kallmann 症候群（Kallmann's syndrome）是由於下視丘促性腺激素釋放激素（GnRH）神經元移行障礙所致之低促性腺激素性性腺功能低下症（hypogonadotropic hypogonadism），特徵為無青春期發育與「原發性無月經（primary amenorrhea）」，而非次發性無月經，常合併嗅覺喪失（anosmia）。\n- D. 說明此選項為正確敘述。懷孕是暫時性的生理性（physiological）次發性無月經，因為懷孕後胎盤分泌大量人絨毛膜促性腺激素（hCG）與孕酮，維持黃體功能，抑制排卵與子宮內膜剝脫。\n\n【核心考點】\n原發性與次發性無月經症（amenorrhea） the病因鑑別。Kallmann 症候群為原發性；泌乳激素過高、Asherman 症候群、懷孕為次發性。",
+      "key_point": "次發性無月經症之病因與原發性無月經症（Kallmann 症候群）之鑑別。",
+      "flashcard_front": "次發性無月經症 / Kallmann 症候群 / 嗅覺喪失 / 懷孕 / Asherman",
+      "flashcard_back": "Kallmann症候群為先天性GnRH分泌障礙，表現為原發性無月經；懷孕與Asherman為次發性無月經原因。",
+      "flashcard_summary": "無月經與Kallmann -> Kallmann症候群導致原發性無月經，而非次發性無月經。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n在正常月經週期中，排卵前的黃體化激素高峰（LH surge）需要雌二醇（E2）對下視丘和腦下垂體產生「正回饋」（positive feedback）作用來誘發。此正回饋作用的觸發臨界值為：E2 血中濃度必須達到 200 pg/mL 以上，且此高濃度必須維持至少 36 至 50 小時。\n\n【選項詳解】\n- A. 錯誤。在排卵前，黃體尚未形成，孕酮（progesterone）尚未開始大量分泌，其濃度通常極低（<1-2 ng/mL），故不需要且不可能在此時達到 >15 ng/mL。\n- B. 錯誤。同理，排卵前孕酮（progesterone）血中濃度不會達到 5 ng/mL，且排卵前 LH surge 的主要誘發因子是雌二醇（E2）的正回饋，而非黃體素。\n- C. 正確。誘發 LH surge 需要雌二醇（E2）達到特定閾值並維持足夠時間以引發下視丘/腦下垂體的世界級正回饋，標準門檻即為 E2 濃度 >200 pg/mL 且持續 36 至 50 小時以上（通常大於 50 小時為穩健之誘發時間）。\n- D. 錯誤。E2 濃度僅達到 100 pg/mL 不足以觸發正回饋效應以誘發 LH surge，必須達到 200 pg/mL 以上的臨界濃度。\n\n【核心考點】\n排卵前 LH surge 的激素正回饋機制：雌二醇 E2 需大於 200 pg/mL 且維持 36 至 50 小時。",
+      "key_point": "排卵前 LH surge 的激素正回饋機制：雌二醇 E2 需大於 200 pg/mL 且維持 36 至 50 小時。",
+      "flashcard_front": "排卵前 / LH surge / 雌二醇 (E2) 濃度限制 / 持續時間",
+      "flashcard_back": "誘發LH surge需要E2濃度大於200 pg/mL，且持續時間超過50小時（36-50小時）。",
+      "flashcard_summary": "LH surge與E2濃度 -> E2濃度須大於200 pg/mL且維持超過50小時以誘發排卵前LH surge。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-6_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題詢問多囊性卵巢症候群（PCOS）的診斷標準中，何者「不是」其中之一。目前臨床最常用的是 2003 年鹿特丹診斷標準（Rotterdam criteria），其包含三大要素：（1）排卵稀少或無排卵、（2）臨床或生化上的高雄性素血症、（3）超音波呈現多囊性卵巢。三者中符合兩者並排除其他疾病即可診斷。肥胖雖常見，但不是診斷標準，故 D 為正確答案。\n\n【選項詳解】\n- A. 說明此選項為正確之診斷標準。超音波下可見單側或雙側卵巢內有 12 個或以上直徑 2-9 mm 的小卵泡，或卵巢體積增大（>10 mL），此為鹿特丹標準中超音波有多囊性卵巢（PCO）影像之定義。\n- B. 說明此選項為正確之診斷標準。臨床上表現為多毛（hirsutism）、痤瘡（acne）或雄性禿，或抽血檢驗血中游離睪固酮（free testosterone）等雄性激素濃度升高，此符合高雄性素（hyperandrogenism）之診斷標準。\n- C. 說明此選項為正確之診斷標準。臨床上出現月經稀發（oligomenorrhea，週期 >35天）或無月經（amenorrhea），反映了排卵稀少（oligoovulation）或慢性無月經（anovulation）的排卵障礙。\n- D. 說明此選項非診斷標準，為本題之正確答案。雖然大約 50-80% 的 PCOS 患者伴隨體重過重、肥胖及胰島素阻抗（insulin resistance），且肥胖會加重 PCOS 的臨床症狀，但體重過重或肥胖「並非」診斷 PCOS 的必要標準。許多的非肥胖女性（瘦型 PCOS）亦可符合上述診斷標準。\n\n【核心考點】\n多囊性卵巢症候群（PCOS）之鹿特丹診斷標準：排卵障礙、高雄性素、超音波 PCO 表現（三選二）；肥胖與胰島素阻抗為常見伴隨特徵而非診斷標準。",
+      "key_point": "多囊性卵巢症候群（PCOS）鹿特丹診斷標準項目。",
+      "flashcard_front": "多囊性卵巢症 (PCOS) / 鹿特丹診斷標準 / 雄性素過多 / 肥胖",
+      "flashcard_back": "PCOS診斷標準為寡排卵、雄性素過多、多囊性卵巢超音波影像，肥胖並非診斷標準之一。",
+      "flashcard_summary": "PCOS診斷標準 -> 包含排卵障礙、雄性素高、多囊卵巢影像，肥胖非診斷標準。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-subagent",
+      "explanation_generated_at": "2026-07-14T13:15:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

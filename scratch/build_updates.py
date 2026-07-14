@@ -1,0 +1,152 @@
+import json
+import os
+
+updates = [
+    {
+        "question_id": "110-1_medicine-6_051",
+        "question_number": 51,
+        "explanation": "【題幹解析】\n本題詢問與先天性兩側輸精管缺失（Congenital Bilateral Absence of the Vas Deferens, CBAVD）最密切相關的遺傳性疾病。CBAVD 患者表現為阻塞性無精子症，高達 70% 至 80% 的患者同時帶有囊性纖維化跨膜電導調節器（CFTR）基因的突變。因此，囊性纖維化（Cystic fibrosis）為本題標準答案。\n\n【選項詳解】\n- A. 正確。囊性纖維化（Cystic fibrosis）是由於 CFTR 基因突變所致，該基因編碼上皮細胞的氯離子通道。輸精管上皮在發育過程中對 CFTR 的功能高度依賴，CFTR 異常會使局部黏液脫水稠化並阻礙管腔發育，最終導致雙側輸精管先天性退化或缺失（CBAVD）。\n- B. 錯誤。Kallmann 症候群（Kallmann's syndrome）是由於促性腺激素釋放激素（GnRH）神經元移行障礙，導致低促性腺激素型性腺功能減退症（hypogonadotropic hypogonadism），通常伴隨嗅覺缺失，其患者具有輸精管，只是因缺乏促性腺激素而無法促進精子生成。\n- C. 錯誤。Kartagener 症候群（Kartagener's syndrome）是原發性纖毛運動障礙（primary ciliary dyskinesia）的一種，特徵為內臟逆位、慢性鼻竇炎和支氣管擴張。其不孕主因是精子尾部纖毛（鞭毛）微管結構異常導致精子活動力極差，而非輸精管解剖構造缺損。\n- D. 錯誤。Klinefelter 症候群（克氏症候群，典型核型為 47, XXY）是因性染色體異常導致睪丸曲細精管纖維化、睪丸萎縮與無精子症。雖然患者睪丸發育不良，但其體內雙側輸精管的發育正常，並無先天性缺損。\n\n【核心考點】\n先天性兩側輸精管缺失（CBAVD）是 CFTR 基因突變的常見臨床表現之一，與囊性纖維化（Cystic fibrosis）具有高度遺傳關聯性。",
+        "key_point": "先天性兩側輸精管缺失（CBAVD）患者常帶有 CFTR 基因突變，與囊性纖維化（Cystic fibrosis）高度相關。",
+        "flashcard_front": "男性不孕 / 先天性兩側輸精管缺失 (CBAVD) / 基因突變 / 囊性纖維化",
+        "flashcard_back": "兩側輸精管先天缺損（CBAVD）與囊性纖維化（Cystic fibrosis，CFTR 基因突變）高度相關，佔此類患者的 70-80%。",
+        "flashcard_summary": "CBAVD 與囊性纖維化關聯 -> 雙側輸精管缺損（CBAVD）高度相關於囊性纖維化（CFTR 基因突變）。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_052",
+        "question_number": 52,
+        "explanation": "【題幹解析】\n本題描述一名 37 歲女性出現卵巢早衰（Premature Ovarian Insufficiency, POI；特徵為閉經、FSH > 40 mIU/mL、E2 < 20 pg/mL），且有明確的家族遺傳史（母親 36 歲早停經、哥哥智能不足）。此臨床特徵高度指向 X 染色體脆折症相關的 FMR1 基因前突變（premutation），因此應建議檢測 FMR 基因。\n\n【選項詳解】\n- A. 正確。X 染色體脆折症基因（FMR1 基因）的 5' 端非轉譯區含有 CGG 重複序列。一般人重複次數在 45 次以下；若重複次數在 55-200 次之間稱為前突變（premutation），會導致女性卵巢早衰風險大幅上升（POI 可見於 20% 的前突變攜帶者，亦可遺傳自母親）；若傳遞給下一代並擴增至 200 次以上稱為全突變（full mutation），會造成 FMR1 基因甲基化而無法表現，在男性會導致 X 染色體脆折症，表現為智能不足、大睪丸等特徵。\n- B. 錯誤。SMN1 基因（Survival Motor Neuron 1）突變會導致限制性脊髓性肌萎縮症（Spinal Muscular Atrophy, SMA），這是一種漸進式運動神經元退化疾病，與卵巢早衰或伴隨哥哥智能不足的遺傳鏈結無關。\n- C. 錯誤。CYP21A2 基因編碼 21-羥化酶（21-hydroxylase），其突變會導致先天性腎上腺增生症（Congenital Adrenal Hyperplasia, CAH），雖然嚴重型可引起女性外生殖器男性化或不孕，但其臨床表現不具有「男性智能不足與女性卵巢早衰」的典型 X 染色體連鎖遺傳規律。\n- D. 錯誤。PKD1 基因（Polycystic Kidney Disease 1）突變主要導致體染色體顯性多囊腎臟病（ADPKD），臨床特徵為雙側腎臟多發性囊腫、高血壓及腎衰竭，與卵巢早衰及家族男性智能不足無關。\n\n【核心考點】\n家族性卵巢早衰合併男性親屬智能不足時，應高度懷疑 X 染色體脆折症的 FMR1 基因前突變（premutation）。",
+        "key_point": "家族性卵巢早衰與男性親屬智能不足高度提示 FMR1 基因（X 染色體脆折症相關）突變。",
+        "flashcard_front": "卵巢早衰 / 家族早停經 / 兄弟智能不足 / 基因檢測 / FMR1",
+        "flashcard_back": "應建議檢測 FMR1 基因。FMR1 前突變（CGG 重複 55-200 次）與女性卵巢早衰相關；全突變（>200 次）則導致男性 X 染色體脆折症與智能不足。",
+        "flashcard_summary": "卵巢早衰與 FMR1 基因 -> 卵巢早衰伴家族智力障礙史，應檢測 FMR1 基因（排除 X 染色體脆折症前突變）。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_053",
+        "question_number": 53,
+        "explanation": "【題幹解析】\n本題考查不孕症評估中子宮輸卵管攝影（Hysterosalpingography, HSG）的判讀原則、臨床限制與後續處置。HSG 僅能藉由顯影劑描繪子宮腔內部的輪廓，無法觀察子宮外廓，因此無法單獨鑑別中膈子宮（外輪廓正常）與雙角子宮（外輪廓呈心形凹陷），需結合超音波或核磁共振（MRI）輔助。故選項 A 敘述正確。\n\n【選項詳解】\n- A. 正確。HSG 只能呈現子宮腔內顯影的「腔內輪廓」，無法看清子宮底外部（外輪廓）是否凹陷，故中膈子宮（腔內有中膈，外觀平滑）和雙角子宮（外觀凹陷呈雙角）在 HSG 上皆可能呈現雙腔影。臨床上必須藉由三維超音波（3D ultrasound）或核磁共振（MRI）觀察外輪廓來進行鑑別診斷。\n- B. 錯誤。中膈子宮（septate uterus）若合併習慣性流產，其手術治療方式應是利用子宮鏡（hysteroscopy）進行中膈切除術（hysteroscopic septal resection），而非透過腹腔鏡（laparoscopy）進行切除。腹腔鏡主要用於監視盆腔外觀，避免子宮鏡切除時穿孔。\n- C. 錯誤。當患者存在遠端輸卵管阻塞（如輸卵管水腫 hydrosalpinx）時，HSG 灌注顯影劑容易將病原體往上推送，引發骨盆腔發炎（PID）或輸卵管卵巢膿瘍（TOA）。因此，臨床指引建議對於此類高風險患者，在接受 HSG 檢查前後應給予預防性抗生素（如 Doxycycline）。\n- D. 錯誤。HSG 顯示近端輸卵管阻塞常因顯影劑注入時引起宮角平滑肌痙攣（tubal spasm）所致，並不代表真實的解剖學阻塞。因此不能單憑一次 HSG 檢查即確診近端阻塞，通常需要重做、配合子宮鏡選擇性插管造影或腹腔鏡加通色素試驗（chromotubation）確認後，才能安排後續治療。\n\n【核心考點】\nHSG 僅能顯影宮腔內輪廓，鑑別雙角與中膈子宮需結合外部超音波；中膈切除應使用子宮鏡；近端阻塞需排除宮角痙攣之偽陽性；遠端阻塞者做 HSG 需給予預防性抗生素。",
+        "key_point": "HSG 僅顯示子宮腔內輪廓，無法區分中膈與雙角子宮，需搭配超音波或 MRI 觀察外廓。",
+        "flashcard_front": "子宮輸卵管攝影 (HSG) 限制 / 中膈與雙角子宮鑑別 / 近端與遠端阻塞處理",
+        "flashcard_back": "HSG 僅顯示宮腔輪廓，鑑別中膈/雙角子宮需超音波或 MRI；中膈切除採子宮鏡手術；近端阻塞可能因痙攣引起需再驗；遠端阻塞 HSG 前後需給予預防性抗生素。",
+        "flashcard_summary": "HSG 臨床評估原則 -> 溫和切除中膈需用子宮鏡，HSG 輔助診斷需配合超音波區分中膈或雙角子宮。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_054",
+        "question_number": 54,
+        "explanation": "【題幹解析】\n本題考查妊娠初期合併甲狀腺低下及自體免疫抗體陽性患者的甲狀腺素補充指引。根據美國甲狀腺學會（ATA）指引，懷孕初期胎兒的甲狀腺尚未發育完全，需完全依賴母體提供甲狀腺素。若孕婦 TSH 高於 2.5 mIU/L 且抗甲狀腺過氧化物酶抗體（TPOAb）呈陽性，其流產、早產及胎兒神經發育異常風險最高，強烈建議及早補充左旋甲狀腺素（Levothyroxine）。故選項 A 為最需要補充之狀況。\n\n【選項詳解】\n- A. 正確。TSH 達 4.5 mIU/L（高於懷孕初期建議上限值 2.5 mIU/L），且抗甲狀腺抗體（主要為 TPOAb）呈陽性。這代表患者存在自體免疫性甲狀腺炎（如橋本氏甲狀腺炎），在妊娠期間甲狀腺代償能力差，且抗體陽性本身就是流產的獨立危險因子。指引強烈建議此時應立即補充甲狀腺素，以降低習慣性流產與胎兒發育異常的風險。\n- B. 錯誤。TSH 為 2.0 mIU/L 屬於妊娠初期的正常目標範圍（TSH < 2.5 mIU/L）。雖然抗甲狀腺抗體為陽性，但目前甲狀腺功能尚屬正常（euthyroid），僅需定期追蹤 TSH 變化，並非最急需補充甲狀腺素的狀況。\n- C. 錯誤。TSH 為 4.5 mIU/L 雖已偏高，但抗甲狀腺抗體呈陰性，代表並非自體免疫原因引起的甲狀腺炎，發生流產的風險相較於「TSH偏高且抗體陽性」者較低。雖然此狀態也可能考慮補充，但其臨床指引的推薦強度與急迫性低於抗體陽性者（選項 A）。\n- D. 錯誤。TSH 為 2.0 mIU/L 且抗甲狀腺抗體為陰性，代表該孕婦的甲狀腺功能完全正常，且無自體免疫抗體風險，因此完全不須要補充甲狀腺素。\n\n【核心考點】\n妊娠初期孕婦若 TSH > 2.5 mIU/L 且抗甲狀腺抗體（TPOAb）陽性，為預防流產及胎兒神經發育障礙，應強烈建議補充甲狀腺素（L-thyroxine）。",
+        "key_point": "懷孕初期 TSH > 2.5 mIU/L 且抗甲狀腺抗體（TPOAb）陽性時，流產風險高，應首要補充甲狀腺素。",
+        "flashcard_front": "妊娠初期 / 甲狀腺低下 / 抗甲狀腺抗體 / 補充甲狀腺素指引",
+        "flashcard_back": "懷孕初期 TSH > 2.5 mIU/L 且自體免疫抗體陽性，流產與發育異常風險最高，指引強烈建議補充甲狀腺素；TSH 正常（< 2.5）或抗體陰性者急迫性較低。",
+        "flashcard_summary": "孕初期補充甲狀腺素指引 -> TSH > 2.5 且抗體陽性為強烈補充指引之首要對象，以降低流產風險。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_055",
+        "question_number": 55,
+        "explanation": "【題幹解析】\n本題考查輔助生殖技術（Assisted Reproductive Technology, ART）中，使用人類絨毛促性腺激素（hCG）作為「破卵針」以促進卵泡最終成熟與排卵的生理機轉、施打時機與副作用防治。在濾泡發育成熟（至少兩顆達 17-18 mm）時給予 hCG 可以模擬黃體化激素（LH）高峰。故選項 B 正確。\n\n【選項詳解】\n- A. 錯誤。hCG 和 LH 的 alpha 次單位完全相同，beta 次單位高度同源，因此 hCG 可以直接結合並活化 LH 接受器。然而，由於 hCG 的 beta 鏈含有額外的羧基端胜肽且醣基化程度較高，其體內排除半衰期（約 24-36 小時）顯著比 LH（約 1-2 小時）更長。\n- B. 正確。在控制性卵巢刺激（COH）監測過程中，當經陰道超音波測量發現至少有兩顆主導濾泡（dominant follicles）的平均直徑達到 17-18 mm 時，代表濾泡已趨成熟，此時施打 hCG 能最有效誘導卵子進行第一次減數分裂並釋放，是公認的破卵時機。\n- C. 錯誤。施打 hCG 後，卵子成熟與排卵發生的時間約在 36-40 小時。為了在排卵發生前（避免卵子自行排掉而無法收集）取得卵子，取卵手術（oocyte retrieval）通常安排在施打 hCG 後的 34-36 小時進行，而非 12-14 小時。\n- D. 錯誤。在 GnRH 拮抗劑（antagonist）療程中，若濾泡發育數量過多（如 >15-20 顆），患者發生卵巢過度刺激症候群（OHSS）的風險極高。hCG 因半衰期長會持續刺激黃體，加重 OHSS。此時為預防 OHSS，應避免使用 hCG，改用 GnRH 促進劑（GnRH agonist，如 leuprolide）觸發內源性 LH 突增（LH surge）來促進卵子成熟。\n\n【核心考點】\nART 中破卵針（hCG）的施打標準為至少兩顆濾泡達 17-18 mm；取卵時間為施打後 34-36 小時；高 OHSS 風險患者應改用 GnRH agonist 破卵以代替 hCG。",
+        "key_point": "ART 中，hCG 破卵時機為至少兩顆濾泡達 17-18 mm，取卵於施打後 34-36 小時，高 OHSS 風險者禁用 hCG 破卵。",
+        "flashcard_front": "人工生殖 (ART) / 破卵針 (hCG) / 施打指標與時間 / OHSS 預防",
+        "flashcard_back": "當至少兩顆濾泡達 17-18 mm 時施打 hCG；取卵手術定於施打後 34-36 小時；hCG 半衰期比 LH 長；高 OHSS 風險時應改用 GnRH agonist 破卵以防惡化。",
+        "flashcard_summary": "ART hCG 與取卵原則 -> 濾泡雙顆達 17-18 mm 時施打 hCG，34-36 小時後取卵，高 OHSS 風險者應改用 GnRH agonist。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_056",
+        "question_number": 56,
+        "explanation": "【題幹解析】\n本題考查產前超音波診斷胎兒先天畸形的特徵性影像。題幹與下題為無腦症（anencephaly）的雙題組。懷孕 16 週時，無腦症胎兒因為缺乏正常的顱蓋骨（calvarium）與大腦半球，使得眼眶以上構造缺失、面部眼球向上突出。在超音波冠狀面或矢狀面上會呈現如同青蛙雙眼突出的特異性影像，稱為「青蛙眼徵象（frog sign）」，受累器官為頭部（head）。故選項 A 正確。\n\n【選項詳解】\n- A. 正確。在無腦症（anencephaly）胎兒中，由於神經管前端未閉合，導致額骨及頂骨缺損、大腦萎縮，使兩側眼眶向上且向外突出，在頭部超音波冠狀切面上呈現特徵性的青蛙臉/青蛙眼影像（frog-eye sign / frog sign）。\n- B. 錯誤。「香蕉徵象（banana sign）」是指小腦（cerebellum）在超音波下呈現彎曲如香蕉狀，這是因為脊柱裂（spina bifida）導致後顱窩內容物向枕骨大孔疝脫（Chiari II 畸形），牽拉小腦所致，並非頭部顱骨完全缺失之青蛙眼。\n- C. 錯誤。「檸檬徵象（lemon sign）」是指胎兒額骨向內凹陷使雙側前額骨呈檸檬形狀，通常是額骨（frontal bones）受後顱窩拉扯凹陷所致，常見於妊娠 24 週前的開裂性脊柱裂，與腦橋（pons）或無腦症無關。\n- D. 錯誤。「鑰匙孔徵象（keyhole sign）」是胎兒膀胱（bladder）合併近端尿道因尿道瓣膜（如後尿道瓣膜 posterior urethral valves, PUV）阻塞而顯著擴張的超音波特徵，受累器官是膀胱與尿道，而非腦室（ventricle）。\n\n【核心考點】\n無腦症（anencephaly）胎兒在頭部超音波上的特徵是因顱骨缺失、眼眶突出的「青蛙眼徵象（frog sign）」。",
+        "key_point": "產前超音波下，胎兒無腦症（anencephaly）的頭部特徵為「青蛙眼徵象（frog sign）」。",
+        "flashcard_front": "產前超音波 / 胎兒頭部畸形 / 顱蓋骨缺損 / 青蛙眼 (frog sign)",
+        "flashcard_back": "胎兒無腦症因缺乏顱骨，眼眶突出，在頭部超音波下呈現 frog sign；banana sign 與 lemon sign 與脊柱裂（Chiari II）相關；keyhole sign 與後尿道瓣膜尿路阻塞相關。",
+        "flashcard_summary": "胎兒超音波青蛙眼特徵 -> 無腦症胎兒頭部超音波典型呈現顱骨缺損及眼眶突出的青蛙眼徵象（frog sign）。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_057",
+        "question_number": 57,
+        "explanation": "【題幹解析】\n本題承接上題，詢問該超音波下呈現「頭部青蛙眼徵象（frog sign）」的胎兒最可能的診斷。青蛙眼徵象是由於顱蓋骨完全缺損（acrania）、大腦半球發育不全或缺失所造成，是無腦症（anencephaly）的病理特徵。因此，無腦症為本題之正確診斷。\n\n【選項詳解】\n- A. 錯誤。唐氏症（Down syndrome，三染色體 21）在懷孕初期超音波的常見特徵為頸部透明帶增厚（increased nuchal translucency, NT）或鼻骨發育不良（absent/hypoplastic nasal bone），並不會出現顱骨與大腦完全缺失的無腦症表現。\n- B. 錯誤。愛德華氏症（Trisomy 18）典型的超音波異常包括脈絡叢囊腫（choroid plexus cysts）、草莓形頭顱、握拳時手指重疊（clenched fist with overlapping fingers）、搖椅底樣腳掌（rocker-bottom feet）與心臟畸形等，不會表現為無腦症。\n- C. 錯誤。巴陶氏症（Trisomy 13）常表現為前腦無裂畸形（holoprosencephaly）、小腦畸形、唇顎裂、多指畸形（polydactyly）及嚴重小眼症，但並非顱骨與大腦半球皆缺損之無腦症。\n- D. 正確。無腦症（anencephaly）屬於嚴重的開放性神經管缺損（neural tube defect, NTD），因胚胎發育時神經管頭端閉合失敗所致。超音波下典型表現為完全沒有大腦半球及覆蓋的顱骨（acrania），僅餘面部結構和突出的眼球（frog sign）。\n\n【核心考點】\n超音波下胎兒表現出顱骨缺失與頭部 frog sign 時，最經典的臨床診斷為無腦症（anencephaly）。",
+        "key_point": "胎兒頭部超音波呈現顱骨缺失與 frog sign 時，最可能的診斷為無腦症（anencephaly）。",
+        "flashcard_front": "胎兒畸形 / 顱骨完全缺損 / frog sign / 最可能診斷",
+        "flashcard_back": "胎兒頭部超音波見顱骨缺失與 frog sign，為無腦症（anencephaly）之特異性診斷。唐氏症、Trisomy 18 及 13 不會表現為顱骨與大腦完全缺損。",
+        "flashcard_summary": "無腦症超音波診斷 -> 胎兒無腦症在超音波上呈現顱骨缺損及突出的青蛙眼（frog sign）。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_058",
+        "question_number": 58,
+        "explanation": "【題幹解析】\n本題考查腹股溝疝氣手術後常見的神經損傷併發症及其解剖學對應。感覺異常性股痛（Meralgia paresthetica）是指大腿前外側出現麻木、針刺感或燒灼痛。該症狀是由於股外側皮神經（Lateral Femoral Cutaneous Nerve, LFCN）在其走行經過腹股溝韌帶下方時受壓迫或手術牽拉、結紮所致。因此，受損神經為股外側皮神經。\n\n【選項詳解】\n- A. 正確。股外側皮神經（LFCN，源自 L2-L3 脊神經前支）是一條純感覺神經，穿過髂嵴與腹股溝韌帶深面進入大腿。在腹股溝疝氣修補術中，此神經容易因手術縫合、補片固定或拉扯而受損或被壓迫，引發大腿前外側感覺異常與燒灼痛（meralgia paresthetica）。\n- B. 錯誤。隱神經（Saphenous nerve）是股神經（femoral nerve）最長的分支，為純感覺神經，負責小腿內側及足內側緣的感覺。其受傷常發生在膝關節大隱靜脈剝離術、半月板修補或大隱靜脈取血管手術中，而非疝氣手術，也不會引起大腿外側症狀。\n- C. 錯誤。下臀神經（Inferior gluteal nerve，源自 L5-S2）是純運動神經，主要支配臀大肌（gluteus maximus），受損時會導致臀大肌萎縮、大腿伸展與起立困難，並不會引起大腿外側的感覺麻痛。\n- D. 錯誤。閉孔神經（Obturator nerve，源自 L2-L4）支配大腿內收肌群（內收長肌、內收短肌、大內收肌及股薄肌）以及大腿內側的皮膚感覺。其損傷通常與骨盆腔手術（如淋巴結清掃）或產科產道擠壓相關，表現為大腿內側感覺異常及大腿內收無力。\n\n【核心考點】\n疝氣手術後出現大腿外側感覺麻痛（meralgia paresthetica）是由於股外側皮神經（LFCN）受壓迫或損傷。",
+        "key_point": "疝氣手術後大腿外側感覺麻痛（meralgia paresthetica）是股外側皮神經（LFCN）受損的特徵。",
+        "flashcard_front": "感覺異常性股痛 (meralgia paresthetica) / 疝氣手術後 / 大腿外側麻痛 / 受損神經",
+        "flashcard_back": "受損神經為股外側皮神經（LFCN），此神經行經腹股溝韌帶下方，受損引起大腿外側純感覺麻痛。隱神經支配小腿內側；下臀神經支配臀大肌；閉孔神經支配大腿內側與內收肌。",
+        "flashcard_summary": "感覺異常性股痛受損神經 -> 腹股溝疝氣手術後大腿外側麻痛（感覺異常性股痛）源於股外側皮神經受損。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_059",
+        "explanation": "【題幹解析】\n本題是一題否定題，要求選出關於脊髓損傷後異位性骨化症（Heterotopic Ossification, HO）的錯誤敘述。標準答案為 D。異位性骨化症是指在非骨組織中形成層板骨。在骨化初期（發炎活躍期），局部血管豐富且造骨細胞極度活躍，此時若貿然進行手術切除，會造成極高的復發率。手術應延遲至骨化完全成熟後才可進行。\n\n【選項詳解】\n- A. 此選項敘述正確。異位性骨化症在脊髓損傷患者中，最常侵犯髖關節（hip joint，約佔 60% 以上），其次為膝關節、肩關節和肘關節，皆為大關節周圍的軟組織。\n- B. 此選項敘述正確。脊髓損傷後的 HO 最常發生在受傷後 1 至 6 個月內（通常在受傷後第 3-4 個月發病率達到高峰），早期表現為局部紅腫熱痛與關節活動度下降。\n- C. 此選項敘述正確。三相式骨骼掃描（three-phase bone scan）是早期診斷 HO 最敏感的影像學檢查，在 X 光片尚未顯影前（發病 2-4 週內），骨掃描即能顯示局部血流增加及造骨活性上升。\n- D. 此選項敘述錯誤，為本題標準答案。在異位性骨化症的「初期」（未成熟期），病灶仍處於高度血管化及發炎期。若此時進行手術切除，會引發更劇烈的炎性反應與造骨活性，導致極高的術後復發率。臨床上必須等骨化病灶完全「成熟」（通常需在傷後 1-2 年，待 X 光邊界清晰、血清鹼性磷酸酶 ALP 降至正常、且三相式骨掃描活性降至平穩後）才可安全進行手術切除。\n\n【核心考點】\n異位性骨化症（HO）在急性發炎初期（未成熟）禁忌手術切除；手術必須等骨化完全成熟（通常 1-2 年，ALP 與骨掃描穩定後）方能進行以避免極高復發率。",
+        "question_number": 59,
+        "key_point": "異位性骨化症（HO）在骨化初期禁忌手術切除，必須等待病灶成熟穩定後（通常 1-2 年）才可手術。",
+        "flashcard_front": "脊髓損傷 / 異位性骨化症 (HO) / 好發部位與時間 / 早期診斷 / 手術切除時機",
+        "flashcard_back": "異位性骨化症最常好發於髖關節，多在傷後 1-6 個月發生；診斷首選三相式骨掃描；初期（未成熟）切除極易復發，必須等 1-2 年骨化完全成熟後才可手術。",
+        "flashcard_summary": "異位性骨化症治療時機 -> 骨化初期切除易復發，手術須延遲至骨化成熟（約 1-2 年後）方可進行。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    },
+    {
+        "question_id": "110-1_medicine-6_060",
+        "question_number": 60,
+        "explanation": "【題幹解析】\n本題考查脊髓半切症候群（Brown-Séquard syndrome）的典型臨床表現及其神經解剖學基礎。當脊髓發生單側半切（hemisection）受損時，由於不同感覺與運動傳導徑路在脊髓內的交叉位置不同，會導致受損同側的皮質脊髓徑（運動）與後柱-內側丘系徑（深感覺）受損，以及受損對側的脊髓丘腦徑（痛、溫覺）受損。故選項 D 正確。\n\n【選項詳解】\n- A. 錯誤。Brown-Séquard 症候群的本體感覺（深感覺）在受損同側是喪失的（因後柱徑路在延腦才交叉，脊髓內為同側上行），而非完好。\n- B. 錯誤。此選項敘述不符合 Brown-Séquard 症候群的非對稱性特徵。同側肢體肌力會喪失，對側痛溫覺會喪失，而非只有本體感覺受損其餘皆完好。\n- C. 錯誤。四肢肌力喪失且上肢受損重於下肢，是中央脊髓症候群（Central cord syndrome）的典型特徵，常見於頸椎過度伸展（hyperextension）受傷的患者，與脊髓半切無關。\n- D. 正確。皮質脊髓徑（corticospinal tract，負責運動肌力）與後柱（dorsal column，負責本體感覺、震動覺）在進入脊髓後皆於同側走行（延腦已交叉或未交叉但在脊髓為同側）；而脊髓丘腦徑（spinothalamic tract，負責痛覺與溫度覺）在進入脊髓後 1-2 個節段內即交叉至對側上行。因此，單側脊髓受損會導致受損同側的下肢肌力與本體感覺喪失，以及受損對側的下肢痛覺與溫度感覺喪失。\n\n【核心考點】\nBrown-Séquard 症候群（脊髓半切）的典型症狀為：受損同側運動（肌力）與本體感覺喪失，受損對側痛覺與溫度感覺喪失。",
+        "key_point": "Brown-Séquard 症候群（脊髓半切）典型表現為受損同側運動及本體感覺喪失，對側痛溫覺喪失。",
+        "flashcard_front": "脊髓半切症候群 (Brown-Séquard) / 受損同側與對側 / 症狀與傳導路徑",
+        "flashcard_back": "受損同側：皮質脊髓徑（運動肌力）與後柱（本體感覺）喪失；受損對側：脊髓丘腦徑（痛溫覺）喪失。中央脊髓症候群為上肢無力重於下肢。",
+        "flashcard_summary": "Brown-Séquard 症候群特徵 -> 表現為受損同側運動與本體感覺喪失，對側痛覺與溫度覺喪失。",
+        "review_status": "ai_generated",
+        "explanation_model": "antigravity-subagent",
+        "explanation_generated_at": "2026-07-14T13:13:29+08:00",
+        "manual_review_notes": []
+    }
+]
+
+out_data = {
+    "source_file": "public/data/exams/110-1/medicine-6.json",
+    "dataset_id": "110-1_medicine-6",
+    "range": {
+        "start": 51,
+        "end": 60
+    },
+    "updates": updates
+}
+
+out_path = "d:\\Antigravity\\med_exam_public\\scratch\\rewrite_updates\\110-1_medicine-6\\q051-q060.json"
+os.makedirs(os.path.dirname(out_path), exist_ok=True)
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(out_data, f, ensure_ascii=False, indent=2)
+
+print("Updates successfully written.")
