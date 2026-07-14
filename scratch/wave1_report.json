@@ -1,0 +1,74 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "merge": true,
+  "update_file_count": 5,
+  "question_count": 50,
+  "merged_question_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "manual_review": [
+    {
+      "question_number": 13,
+      "notes": [
+        "官方公佈一律給分，原因在於題目要求選出「正確」選項，但 A、C、D 均有明顯醫學學理錯誤，B 為唯一正確指引，出題有爭議。"
+      ]
+    },
+    {
+      "question_number": 20,
+      "notes": [
+        "官方公佈答 C 或 D 均給分。主要原因在於 C 確屬錯誤，而 D 敘述過於絕對，忽略了臨床上常使用 Terlipressin + Albumin 藥物治療來逆轉部分 HRS 的事實。"
+      ]
+    }
+  ],
+  "errors": []
+}

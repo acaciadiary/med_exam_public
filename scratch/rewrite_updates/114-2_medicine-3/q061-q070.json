@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-3_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題考查感染性心內膜炎（Infective Endocarditis, IE）的外科手術適應症。評估是否需要手術介入的關鍵在於是否有嚴重瓣膜受損導致的心衰竭、無法控制的感染（如頑固性菌血症、人工瓣膜復發）或高栓塞風險。\n\n【選項詳解】\n- A. 錯誤。此選項包含第 3 項。治療 3 天持續發燒通常不需要立即動手術，此時應繼續評估抗生素的療效、檢測血藥濃度或排除其他熱源，而非直接進行心臟外科手術。\n- B. 錯誤。此選項包含第 3 項，且漏掉了第 1 與第 2 項的明確適應症。\n- C. 錯誤。此選項包含第 3 項。\n- D. 正確。第 1 項（腱索斷裂 `chordae tendineae rupture` 併嚴重急性心衰竭）、第 2 項（適當抗生素治療 7-10 天後仍持續菌血症，代表頑固性感染）、以及第 4 項（人工瓣膜心內膜炎經積極抗生素治療後仍復發，強烈提示植入物深部感染）均為明確的急症或頑固感染，皆符合心臟外科手術治療指引。\n\n【核心考點】\n感染性心內膜炎手術適應症主要有三類：急性瓣膜逆流併心衰竭或休克、抗生素治療 7-10 天仍菌血症之頑固感染、以及人工瓣膜心內膜炎復發或伴隨瓣周膿瘍。",
+      "key_point": "感染性心內膜炎手術適應症為腱索斷裂急性心衰、7-10天頑固菌血症及人工瓣膜感染復發。",
+      "flashcard_front": "感染性心內膜炎（IE）外科手術適應症",
+      "flashcard_back": "包括：1. 瓣膜受損/腱索斷裂導致嚴重急性心衰竭；2. 適當抗生素治療7-10天仍持續菌血症；3. 人工瓣膜感染（PVE）且經治療後仍復發。治療3天發燒非手術適應症。",
+      "flashcard_summary": "感染性心內膜炎手術指引 -> 腱索斷裂併急性心衰、7-10天抗生素治療仍菌血症、人工瓣膜復發皆為手術適應症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題測驗創傷弧菌（Vibrio vulnificus）敗血症的臨床診斷。慢性肝炎或肝硬化患者因為血鐵濃度較高及細胞免疫功能不全，是創傷弧菌的高危險群。患者在海鮮市場被海魚刺傷，可在數小時內迅速進展為壞死性軟組織感染、出血性水泡及低血壓休克，死亡率極高。\n\n【選項詳解】\n- A. 錯誤。綠膿桿菌（Pseudomonas aeruginosa）常引起燒燙傷感染、長期住院院內感染或溫水浴缸毛囊炎。雖然在嚴重免疫低下者可發生壞疽性深部膿皰（ecthyma gangrenosum），但與「海魚刺傷」及「慢性肝炎迅速進展為敗血性休克」的病史關聯性低。\n- B. 錯誤。金黃色葡萄球菌（Staphylococcus aureus）是蜂窩性組織炎的常見致病菌。但其進展速度一般不如創傷弧菌快速（被魚刺傷後 12 小時內即進展為多器官衰竭之出血性水泡與低血壓休克），且缺乏與慢性肝病及海洋接觸的典型特異性連結。\n- C. 錯誤。奇異變形桿菌（Proteus mirabilis）主要引起尿路感染，常伴隨鹼性尿與鳥糞石結石，並非海洋創傷引起的急性壞死性皮膚與軟組織感染致病原。\n- D. 正確。創傷弧菌（Vibrio vulnificus）為溫暖海域常見的革蘭氏陰性菌。慢性 B 肝病史患者（肝功能受損）接觸海魚被刺傷，數小時內足背迅速紅腫、出現水泡，並在 12 小時內進展至敗血性休克（血壓 77/50 mmHg）及多器官受損（腎衰竭、黃疸、血小板低下），為經典的創傷弧菌敗血症表現。\n\n【核心考點】\n慢性肝病患者若有海洋或海鮮接觸史（如被魚刺傷），並迅速出現壞死性蜂窩性組織炎、出血性水泡與敗血性休克，應直覺聯想創傷弧菌（Vibrio vulnificus）感染。",
+      "key_point": "慢性肝病患者接觸海鮮刺傷，迅速進展為出血性水泡與敗血症，最常見致病菌為創傷弧菌。",
+      "flashcard_front": "創傷弧菌（Vibrio vulnificus）敗血症的典型情境",
+      "flashcard_back": "慢性肝炎/肝硬化患者＋接觸海邊/海鮮刺傷＋數小時內迅速紅腫並出現出血性水泡＋進展至低血壓休克與多器官衰竭。",
+      "flashcard_summary": "創傷弧菌敗血症 -> 慢性肝病患者被海魚刺傷，12小時內快速進展至出血性水泡與敗血性休克。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題考查院內感染控制中的「標準防護措施（Standard Precautions）」之核心概念。標準防護措施基於「所有病人的血液、體液、分泌物與排泄物均可能含有具傳染性致病原」之假設，是臨床感控的基本防線。\n\n【選項詳解】\n- A. 錯誤。標準防護措施並不侷限於特定傳染病（如愛滋病）病人，而是將所有病人都視為潛在傳染源，且不只針對已知來源的致病菌。\n- B. 錯誤。標準防護措施並非僅針對肝炎病人，而是所有入住或接受診療之患者，目的在防範已知與未知的所有病原體。\n- C. 錯誤。對於確診或疑似多重抗藥性細菌（MDRO，如 MRSA、VRE）感染的病人，除了實施「標準防護措施」之外，還必須採取額外的「接觸傳播防護措施（Contact Precautions）」，而非僅靠標準防護措施。\n- D. 正確。標準防護措施是針對醫院中「所有病人」的基本感染防護，無論其診斷為何，旨在降低由「已知及未知來源」之致病菌傳播的風險，防範醫病之間的雙向傳染。\n\n【核心考點】\n標準防護措施適用於所有病人的基本防護，其防護範疇包含血液、所有體液、分泌物、排泄物（不含汗水）、不完整皮膚與黏膜，以減少已知與未知病原的傳播。",
+      "key_point": "標準防護措施適用於所有病人，目的是減少已知及未知來源之致病菌傳播。",
+      "flashcard_front": "標準防護措施（Standard Precautions）實施對象與目的",
+      "flashcard_back": "實施對象為「所有病人」（不論是否有傳染病診斷）；目的是減少「已知及未知來源」之致病菌傳播。",
+      "flashcard_summary": "標準防護措施概念 -> 適用於所有病人，旨在防範已知及未知來源之體液與血液傳播。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題考查抗生素協同/加成作用（Synergistic effect）的藥理機制。Aminoglycosides 的作用標的在細菌內部的 30S 核糖體，必須穿透細胞壁；而細胞壁抑制劑可破壞細菌壁的屏障，進而產生協同效應。\n\n【選項詳解】\n- A. 正確。青黴素類（Penicillins）為 β-lactam 抗生素，能抑制細菌細胞壁合成。這使得氨基糖苷類（Aminoglycosides）更容易進入細菌體內與 30S 核糖體結合，兩者併用具有顯著的協同加成作用，臨床上常用於治療腸球菌心內膜炎或嚴重綠膿桿菌感染。\n- B. 錯誤。四環黴素（Tetracycline）為抑菌性蛋白質合成抑制劑。與同屬蛋白質合成抑制劑的氨基糖苷類併用時，並無破壞細胞壁以促進吸收的協同機制，有時甚至可能產生拮抗作用。\n- C. 錯誤。磺胺類（Sulfonamide）為葉酸合成早期抑制劑。其與 Aminoglycosides 併用沒有明顯的細胞壁穿透協同機制。\n- D. 錯誤。Trimethoprim 為二氫葉酸還原酶抑制劑。與 Sulfonamide 併用有很好的協同作用（如 Bactrim），但與 Aminoglycosides 併用並無特殊的加成協同作用。\n\n【核心考點】\nβ-lactam 類抗生素（如 Penicillins）破壞細菌細胞壁，能協助 Aminoglycosides 進入菌體，達到 1+1>2 的殺菌協同加成效應（Synergism）。",
+      "key_point": "β-lactam 類（如 penicillin）抑制細胞壁合成，與 aminoglycoside 併用可產生進入菌體的協同殺菌效應。",
+      "flashcard_front": "Penicillin 與 Aminoglycoside 併用的藥理協同效應",
+      "flashcard_back": "Penicillin 抑制細胞壁合成，破壞屏障；Aminoglycoside（作用於30S）得以更容易穿透進入菌體，兩者併用具殺菌加成效應（如治療腸球菌心內膜炎）。",
+      "flashcard_summary": "抗生素協同效應 -> Penicillin破壞壁＋Aminoglycoside入內抑制30S = 協同殺菌效果。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考查 AIDS 患者機會性感染中，進行性多發性腦白質病變（PML）的病原體。PML 是一種嚴重的去髓鞘性中樞神經系統疾病，多發生於細胞免疫功能嚴重低下（如 CD4 < 200/mm³）的患者。\n\n【選項詳解】\n- A. 錯誤。人類免疫缺乏病毒（HIV）本身主要引起 HIV 相關失智症（HIV-associated dementia）或無菌性腦膜炎，而非 PML 的直接病原體。\n- B. 正確。PML 是由 JC 病毒（John Cunningham virus，一種 Polyomavirus）引起的。JC 病毒在免疫正常者多呈無症狀潛伏，但在嚴重免疫抑制（如 AIDS 或使用單株抗體 natalizumab 治療者）時會重新活化，專一性地破壞大腦的少突膠質細胞（oligodendrocytes），導致多發性去髓鞘病變。\n- C. 錯誤。Epstein-Barr 病毒（EBV）在 AIDS 患者中主要與原發性中樞神經系統淋巴瘤（Primary CNS Lymphoma）、口腔毛狀白斑（oral hairy leukoplakia）以及全身性淋巴瘤相關。\n- D. 錯誤。巨細胞病毒（CMV）在 AIDS 患者中主要引起巨細胞病毒視網膜炎、食道炎、結腸炎，中樞神經系統中則引起腦炎（encephalitis）或多發性神經根炎，非 PML。\n\n【核心考點】\n進行性多發性腦白質病變（PML）的致病原為 JC 病毒（JC virus），其病生理特徵為選擇性侵犯並破壞中樞神經少突膠質細胞，造成廣泛的去髓鞘病變。",
+      "key_point": "進行性多發性腦白質病變（PML）的致病原為 JC 病毒，會破壞少突膠質細胞導致去髓鞘。",
+      "flashcard_front": "進行性多發性腦白質病變（PML）的病原體與受損細胞",
+      "flashcard_back": "致病原為 JC 病毒（JC virus）。在嚴重細胞免疫低下（如AIDS）時活化，攻擊中樞神經系統的少突膠質細胞（oligodendrocytes），導致多發性去髓鞘。",
+      "flashcard_summary": "PML與JC病毒 -> PML致病原為JC virus，藉由攻擊少突膠質細胞造成去髓鞘腦病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於緊張性頭痛在「生物心理社會模式（Biopsychosocial model, BPS model）」觀點下的「錯誤」敘述。BPS 模式強調疾病是生理特徵、心理狀態及社會環境三者相互影響的結果。\n\n【選項詳解】\n- A. 說明此選項敘述正確（不選）。緊張性頭痛的「生理（Bio）」因素確實與頭部、頸部及肩部的肌肉持續緊張、缺血及收縮緊繃有著直接的關聯。\n- B. 說明此選項敘述錯誤（選此項）。焦慮與憂鬱等負面「心理（Psycho）」狀態會「降低」大腦對疼痛的閾值（pain threshold），而非提升。這會使人對軀體感覺更加敏感、放大疼痛的知覺，進而加劇頭痛的症狀。\n- C. 說明此選項敘述正確（不選）。生活中的重大壓力事件（Psycho/Social）會透過神經內分泌系統誘發肌肉緊繃，是影響緊張性頭痛發作頻率與嚴重度的關鍵誘因。\n- D. 說明此選項敘述正確（不選）。缺乏良好的「社會（Social）」支持系統會使個體在面對壓力時，失去人際支持的緩衝效果，導致自主神經系統過度反應而容易發病。\n\n【核心考點】\n負面情緒與心理疾病（如焦慮、憂鬱）會降低（而非提升）疼痛閾值，使人對疼痛更敏感。緊張性頭痛是多因素的生理心理社會交互疾病。",
+      "key_point": "焦慮憂鬱的心理狀態會降低疼痛閾值（對疼痛更敏感），而非提升疼痛閾值。",
+      "flashcard_front": "生理心理社會模式（BPS）下焦慮憂鬱與疼痛閾值的關係",
+      "flashcard_back": "焦慮、憂鬱等心理狀態會「降低」疼痛閾值，使得病人對身體的疼痛刺激更加敏感，加重緊張性頭痛等軀體症狀。",
+      "flashcard_summary": "BPS與疼痛閾值 -> 焦慮憂鬱會降低疼痛閾值，提高個體對緊張性頭痛等疼痛的敏感度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考查老年醫學（Geriatrics）中高齡患者的用藥處方原則。高齡患者因生理功能退化與多重共病，常面臨多重用藥（polypharmacy）及高藥物副作用風險，因此在診斷新症狀時必須抱持高度的臨床警覺。\n\n【選項詳解】\n- A. 錯誤。與社區護理師共同作業在部分居家醫療情境中有益，但「mandatorily（強制地、務必）」是不切實際的，並非所有高齡病人用藥處方皆需或能強制與社區護理師合作，不是一項通用的臨床處方原則。\n- B. 錯誤。「總是啟用頻次相近的藥物（always）」的說法過於絕對且不安全。老年用藥的基本原則是儘量簡化劑型與給藥頻次（Start low, go slow），但絕非強求所有藥物頻次相同，否則易導致給藥錯誤或不當用藥。\n- C. 正確。高齡患者出現任何新症狀（如譫妄、跌倒、尿滯留），臨床醫師必須優先排除是藥物不良事件（Adverse Drug Events, ADE）所致。如此才能避免誤開新藥去治療舊藥副作用的「處方瀑布（prescribing cascade）」，為最經典且最重要的處方防範原則。\n- D. 錯誤。「每日（daily）」更新與回顧藥物清單在一般門診或長期照護機構中並不實用且執行困難。通常是在每次就診、出入院或藥物處方調整等「臨床交接處」進行藥物整合（medication reconciliation）即可，而非將「每日更新」列為常規處方原則。\n\n【核心考點】\n老年人用藥新出現任何症狀，均應先視為藥物副作用所引起，以防止處方瀑布（prescribing cascade）的發生，這是老年醫學的黃金用藥守則。",
+      "key_point": "高齡患者新發生的任何症狀均應先懷疑是藥物副作用所引起，以防杜處方瀑布。",
+      "flashcard_front": "老年人用藥安全防範：處方瀑布（Prescribing Cascade）",
+      "flashcard_back": "高齡患者出現任何新症狀時，首要原則是懷疑該症狀為現有藥物的副作用（ADE）引起，避免盲目加開新藥來治療此副作用，導致藥物越開越多。",
+      "flashcard_summary": "老年處方原則 -> 任何新症狀首要懷疑藥物副作用，避免處方瀑布。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考查性與性別少數青少年（LGBTQIA+）的心理健康及社會適應風險。大規模流行病學研究指出，由於社會歧視、性別認同污名化及缺乏支持系統，性少數青少年的憂鬱與自殺企圖風險均顯著升高，其中特定群體風險最具代表性。\n\n【選項詳解】\n- A. 錯誤。雙性戀（Bisexual）青少年的焦慮、憂鬱及自殺風險確實高於異性戀同儕，但根據文獻統計，其面臨直接暴力與高比例自殺企圖的相對風險，仍低於跨性別青少年。\n- B. 錯誤。男同性戀（Gay）與女同性戀青少年在學校面臨較高的排擠風險，但在各項針對霸凌及自殺意念/企圖的對比研究中，其風險數據仍然低於跨性別青少年。\n- C. 錯誤。雙性人（Intersex）青少年雖然也面對身體認同及早期醫療處置帶來的心理壓力，但若以整體校園霸凌、人身安全受威脅與自殺企圖的流行病學統計數據而言，跨性別青少年在各研究中呈現的風險值最高。\n- D. 正確。跨性別青少年（Transgender）的性別認同與出生生理性別不符。他們在社會、家庭和學校環境中常遭遇最嚴重的偏見、霸凌與拒絕，甚至在尋求適當醫療時面臨重重障礙，導致其憂鬱症發病率、自殘和自殺企圖（高達 30-50% 曾有自殺嘗試）的發生率在所有性與性別少數群體中高居首位。\n\n【核心考點】\n在 LGBTQIA+ 群體中，跨性別青少年（Transgender）因同時面臨嚴重的性別污名、家庭排斥與社會歧視，其遭受霸凌、憂鬱及自殺企圖的相對風險是性少數群體中最高的。",
+      "key_point": "跨性別青少年在性少數群體中遭遇霸凌、憂鬱與自殺企圖的風險最高。",
+      "flashcard_front": "LGBTQIA+ 青少年心理健康高風險群",
+      "flashcard_back": "跨性別青少年（Transgender）由於性別認同與社會期望的強烈衝突、高比例的霸凌與家庭排斥，其憂鬱及自殺企圖的風險在所有性少數群體中為最高。",
+      "flashcard_summary": "跨性別青少年心理風險 -> 在LGBTQIA+中，跨性別青少年遭遇霸凌及出現自殺意念與企圖的風險位居首位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題為否定題，考查美國運動醫學會（ACSM）所制定的運動處方指引。ACSM 對於有氧運動的頻率、時間、結構與強度測量（如主觀運動強度評分表 Borg RPE Scale）有明確的數值規範。\n\n【選項詳解】\n- A. 說明此選項敘述正確（不選）。ACSM 建議一般成年人為了維持心肺適能，最佳的有氧運動頻率為每週 3-5 次，每次持續時間為 20-60 分鐘。\n- B. 說明此選項敘述錯誤（選此項）。在 Borg RPE 表（評分範圍 6-20 分）中，中等強度（Moderate intensity）被界定為 12~13 分（主觀感覺為「稍微吃力」到「吃力」）。評分 9~11 分（感覺為「很輕鬆」到「輕鬆」）則被歸類為低強度（Light intensity），因此該選項敘述錯誤。\n- C. 說明此選項敘述正確（不選）。ACSM 建議一個標準的運動訓練單元必須結構化，包含暖身期（warm-up）、有氧或阻力訓練期（conditioning）、以及緩和期（cool-down），以防運動傷害。\n- D. 說明此選項敘述正確（不選）。運動結束後應進行至少 3~5 分鐘（或 5-10 分鐘）的緩和運動，以協助血液回流、穩定血壓，避免運動突停導致血液滯留於下肢所造成的低血壓或頭暈。\n\n【核心考點】\n美國運動醫學會（ACSM）將 Borg RPE 指數 12~13 分判定為中等強度運動；9~11 分為低強度運動。運動單元應完整包含暖身、訓練與緩和三階段。",
+      "key_point": "ACSM 將 Borg RPE 指數 12~13 分界定為中等強度；9~11 分則為低強度有氧運動。",
+      "flashcard_front": "ACSM Borg RPE 運動強度標準與緩和時間",
+      "flashcard_back": "中等強度有氧運動界定為 Borg RPE 12-13 分（9-11分為低強度）。每次運動結束後應進行至少3-5分鐘的緩和運動（cool-down），以穩定血壓。",
+      "flashcard_summary": "運動處方強度 -> 中等強度有氧為Borg RPE 12-13分，緩和運動應至少持續3-5分鐘。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考查美國預防醫學工作小組（USPSTF）的化學性預防（Chemoprevention）臨床指南建議等級。USPSTF 的建議等級分為 A、B、C、D 及 I，其中 Grade A 表示強烈建議提供此服務，因其具有顯著且明確的臨床淨效益。\n\n【選項詳解】\n- A. 錯誤。USPSTF 指南目前反對（Grade D）無已知維生素 D 缺乏或骨質疏鬆的 65 歲以上社區老人，常規補充維生素 D 來預防跌倒或骨折，因現有證據顯示其無預防淨效益。\n- B. 錯誤。USPSTF 指南反對（Grade D）常規補充維生素 E 或 β-胡蘿蔔素來預防心血管疾病或癌症，因證據顯示其無法降低發生率且有潛在的健康風險。\n- C. 正確。USPSTF 指南強烈建議（Grade A）所有計畫懷孕或可能懷孕的女性，每日應額外補充 0.4~0.8 毫克（400~800 微克）的葉酸（Folic acid），以有效預防胎兒神經管缺陷（Neural Tube Defects, NTDs），這是選項中唯一且級別最高（Grade A）的化學預防建議。\n- D. 錯誤。根據 USPSTF 的最新指南，針對 60 歲以上無心血管疾病史的成年人，啟動低劑量阿斯匹靈（Aspirin，如 81-100 mg）進行心血管疾病一級預防的淨效益為零且伴隨消化道出血風險，因此 USPSTF 反對（Grade D）常規啟動此預防性用藥。\n\n【核心考點】\nUSPSTF 指南中，準備或可能懷孕婦女補充葉酸（0.4~0.8 mg/d）以預防神經管缺陷屬於 Grade A（最高建議等級）；而老年人補充維生素 D 預防跌倒、補充維生素 E 預防心血管病、以及 60 歲以上常規服用 aspirin 一級預防心血管病均為不建議的 Grade D。",
+      "key_point": "備孕婦女補充葉酸 0.4-0.8 mg 預防胎兒神經管缺陷是 USPSTF 的 Grade A（最高）建議。",
+      "flashcard_front": "USPSTF 化學預防建議等級（葉酸、維生素 D、維生素 E、Aspirin）",
+      "flashcard_back": "1. 備孕婦女補充葉酸 0.4-0.8 mg/d 預防神經管缺陷：Grade A（強烈建議）；2. 60歲以上啟動 Aspirin 一級預防心血管病、老人補充維生素 D 預防跌倒、補維生素 E 預防心血管病：皆為 Grade D（不建議）。",
+      "flashcard_summary": "USPSTF建議等級 -> 備孕補充葉酸為Grade A，60歲以上一級預防使用Aspirin及老人補維生素D/E皆為Grade D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

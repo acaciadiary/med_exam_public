@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-3_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題評估類風濕性關節炎患者出現單側膝關節積水之病因鑑別。患者原本的類風濕性關節炎控制良好，近兩週卻在「運動時」出現右膝痛與積水，且關節液白血球（WBC）數值為 800/mm³。關節液分析是區分發炎性與非發炎性病變的核心關鍵。\n\n【選項詳解】\n- A. 錯誤。若類風濕性關節炎突然活躍，關節液通常呈「發炎性」改變，其白血球數值通常會大於 2,000/mm³，甚至達到 5,000 至 20,000/mm³，且常伴隨多關節對稱性發炎與晨僵，與本題關節液 WBC 僅 800/mm³ 及運動誘發不符。\n- B. 錯誤。當藥物控制不佳或無法控制時，受累關節的滑膜會持續處於慢性發炎狀態，抽取之關節液應呈現發炎性表徵（WBC > 2,000/mm³，以中性粒細胞為主），而非本題的非發炎性數值。\n- C. 錯誤。痛風屬於晶體誘發的發炎性關節炎，急性發作時關節液白血球數值會顯著升高（通常 > 2,000/mm³，甚至可達數萬），且在偏光顯微鏡下應可觀察到針狀的尿酸鈉（MSU）結晶。\n- D. 正確。退化性關節炎屬於「非發炎性」關節病變，其關節液白血球數值通常介於 200 至 2,000/mm³ 之間（本題為 800/mm³，符合標準），且症狀常在活動或運動時加劇，最符合本題之臨床與實驗室檢查特徵。\n\n【核心考點】\n關節液分析判讀：白血球數 < 2,000/mm³ 屬於非發炎性（常見於退化性關節炎、外傷）；> 2,000/mm³ 則屬於發炎性（常見於類風濕性關節炎、痛風等）。",
+      "key_point": "類風濕性關節炎控制良好患者突發單膝痛，若關節液 WBC < 2,000/mm³ 提示為非發炎性病變，最可能診斷為退化性關節炎。",
+      "flashcard_front": "類風濕性關節炎患者若突發單膝痛且關節液 WBC 為 800/mm³，最可能之診斷為何？",
+      "flashcard_back": "退化性關節炎。因為關節液 WBC < 2,000/mm³ 屬於非發炎性關節液，且好發於運動時疼痛。",
+      "flashcard_summary": "關節液 WBC < 2000/mm³ -> 非發炎性關節液，最常見於退化性關節炎而非 RA 活躍期",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題測試反應性關節炎（Reactive arthritis）的常見前驅腸道感染病原體。反應性關節炎是一種在特定部位（如胃腸道或泌尿生殖道）感染後所誘發的自體免疫性、無菌性關節炎，通常與 HLA-B27 基因有強烈關聯。\n\n【選項詳解】\n- A. 錯誤。志賀氏菌（*Shigella*，尤其是 *Shigella flexneri*）是引發細菌性痢疾的常見病原，也是臨床上已知極易誘發感染後反應性關節炎的典型腸道致病菌之一。\n- B. 錯誤。耶爾森氏菌（*Yersinia*，如 *Yersinia enterocolitica*）常經由受污染食物傳播引起腸炎，是引發反應性關節炎的經典腸道病原菌，好發於 HLA-B27 陽性患者。\n- C. 正確。梭狀芽孢桿菌（*Clostridium*，如引起偽膜性腸炎的 *Clostridioides difficile*）雖然是常見的腸道致病菌，但在臨床統計與醫學文獻中，極少或最不易誘發反應性關節炎。\n- D. 錯誤. 彎曲桿菌（*Campylobacter*，尤其是 *Campylobacter jejuni*）是常見的感染性腹瀉病原，也是誘發反應性關節炎（以及 Guillain-Barré syndrome）的常見胃腸道細菌。\n\n【核心考點】\n反應性關節炎（Reactive arthritis）的常見前驅感染源：腸道病原（*Salmonella*, *Shigella*, *Yersinia*, *Campylobacter*）及泌尿生殖道病原（*Chlamydia trachomatis*）。",
+      "key_point": "反應性關節炎（Reactive arthritis）常繼發於 *Salmonella*、*Shigella*、*Yersinia* 或 *Campylobacter* 等腸道感染，而 *Clostridium* 極少誘發此病。",
+      "flashcard_front": "下列腸道菌何者最不易誘發反應性關節炎 (Reactive arthritis)：Shigella、Yersinia、Clostridium、Campylobacter？",
+      "flashcard_back": "Clostridium。常見誘發反應性關節炎的腸道病原菌為 Shigella、Yersinia、Campylobacter 及 Salmonella。",
+      "flashcard_summary": "反應性關節炎前驅感染 -> 腸道菌（Shigella, Yersinia, Campylobacter）及 Chlamydia，Clostridium 則無關",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題評估系統性紅斑狼瘡（Systemic Lupus Erythematosus, SLE）的臨床表現與自體抗體篩檢。22 歲女性出現慢性發燒、雙側手指及腕關節疼痛、白血球與血小板減少以及蛋白尿，高度符合 SLE 的診斷準則。本題要求判定在這些自體抗體中，何者的敏感度最高、最容易呈現陽性。\n\n【選項詳解】\n- A. 錯誤。抗雙股 DNA 抗體（anti-dsDNA）對診斷 SLE 具有高度特異性（約 97%），且其力價與疾病活性（尤其是狼瘡腎炎）密切相關，但其敏感度僅約 60-70%，不如抗核抗體（ANA）敏感。\n- B. 錯誤。抗史密斯抗體（anti-Smith / anti-Sm）是 SLE 的高度特異性標記（>99%），被納入診斷標準中，但其敏感度非常低，僅有約 10-30% 的 SLE 患者會呈現陽性。\n- C. 正確。抗核抗體（Antinuclear antibodies, ANA）在 SLE 患者中的陽性率高達 95% 至 99% 以上，具備極高的敏感度。在 2019 年 EULAR/ACR 診斷標準中，ANA 陽性更是被列為進入診斷評估的必要門檻指標。\n- D. 錯誤。抗心脂抗體（anticardiolipin antibodies, aCL）屬於抗磷脂質抗體，與抗磷脂質症候群（APS）相關，在 SLE 患者中的陽性率大約僅有 30-40%，敏感度遠低於 ANA。\n\n【核心考點】\n系統性紅斑狼瘡（SLE）自體抗體的臨床應用：ANA 敏感度最高（>95-99%），適合做首選篩檢門檻；anti-dsDNA 與 anti-Sm 則是特異性高，適合做確診工具。",
+      "key_point": "診斷系統性紅斑狼瘡（SLE）時，抗核抗體（ANA）的敏感度最高（>95-99%），是最容易呈現陽性的篩檢指標。",
+      "flashcard_front": "在診斷系統性紅斑狼瘡（SLE）的各類自體抗體中，哪一個抗體的敏感度最高、最容易呈現陽性？",
+      "flashcard_back": "抗核抗體（antinuclear antibodies, ANA）。其敏感度高達 95% 以上，為 SLE 診斷的首要篩檢指標。",
+      "flashcard_summary": "SLE 自體抗體陽性率 -> ANA 敏感度最高 (>95%)，而 anti-dsDNA 與 anti-Sm 特異性高 but 敏感度較低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題測試原發性免疫缺陷疾病中，T 細胞表面 CD40L（CD154）基因突變所導致的致病機轉。CD40L 在活化 T 細胞表面表達，與 B 細胞表面的 CD40 結合後，能刺激 B 細胞進行免疫球蛋白類別轉換（class switch recombination）。\n\n【選項詳解】\n- A. 錯誤。X-linked 慢性肉芽腫病（X-linked CGD）是由於吞噬細胞的 NADPH 氧化酶複合物中 *CYBB* 基因（編碼 gp91phox）缺陷，導致無法產生活性氧自由基來殺死過氧化氫酶陽性菌，與 T 細胞之 CD40L 無關。\n- B. 錯誤。Wiskott-Aldrich 症候群（WAS）是由於 *WAS* 基因突變，導致細胞骨架調節蛋白（WASP）缺失，進而影響 T 細胞活化及血小板功能，臨床表現為濕疹、血小板低下（血小板體積微小）及免疫缺陷。\n- C. 錯誤。常見變異型免疫缺陷病（CVID）是一組異質性的抗體生成缺陷疾病，主要特徵是低 IgG 伴隨低 IgA 或 IgM，致病基因多樣且多與 B 細胞分化受阻有關（如 *TACI*, *ICOS*），而非由單一 CD40L 突變引起。\n- D. 正確。X-linked 高 IgM 症候群（X-linked hyper-IgM syndrome, Type 1）是因為 X 染色體上的 *CD40LG* 基因突變，導致 T 細胞無法提供 B 細胞類別轉換的協同刺激訊號，使 B 細胞僅能分泌 IgM，而無法生成 IgG、IgA 與 IgE。\n\n【核心考點】\nX-linked hyper-IgM syndrome 是因 T 細胞 CD40L 基因突變，導致 B 細胞無法進行免疫球蛋白的類別轉換（Class switching），臨床表現為低 IgG/IgA/IgE 與正常或升高的 IgM。",
+      "key_point": "X-linked hyper-IgM syndrome 是因為 T 細胞表面 CD40L 基因突變，導致 B 細胞無法進行免疫球蛋白類別轉換。",
+      "flashcard_front": "哪一種原發性免疫缺陷疾病是由於 T 淋巴細胞表面的 CD40L (CD154) 基因突變所引起？",
+      "flashcard_back": "X-linked hyper-IgM syndrome (X-linked 結合高 IgM 症候群)。因缺乏 CD40L 導致 B 細胞無法進行類別轉換，僅能產生 IgM。",
+      "flashcard_summary": "CD40L 基因異常 -> B 細胞類別轉換受阻，導致 X-linked hyper-IgM syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題評估不同類型血管炎（Vasculitis）與特定病毒感染或自體抗體之間的病生理關聯性。臨床上，某些血管炎的發生與特定肝炎病毒感染或抗中性球細胞質抗體（ANCA）有著密切的對應關係。\n\n【選項詳解】\n- A. 錯誤。肉芽腫性血管炎（granulomatosis with polyangiitis, GPA，舊稱 Wegener's granulomatosis）屬於 ANCA 相關血管炎（主要與 c-ANCA/PR3-ANCA 相關），其發病機制與 B 型肝炎病毒無直接關聯。\n- B. 錯誤。結節性多動脈炎（polyarteritis nodosa, PAN）在病因上與「B 型肝炎」病毒（HBV）感染密切相關（約 10-30% 的 PAN 患者有 HBV 感染證據），而非 C 型肝炎。\n- C. 正確。顯微鏡下多血管炎（microscopic polyangiitis, MPA）屬於小血管炎，與抗中性球細胞質抗體（antineutrophil cytoplasmic antibodies, ANCA，尤其是 p-ANCA/MPO-ANCA）的陽性反應高度相關。\n- D. 錯誤。冷凍球蛋白血症血管炎（cryoglobulinemic vasculitis）與「C 型肝炎」病毒（HCV）感染高度相關（高達 70-90% 的病例為 HCV 陽性），而非 A 型肝炎。\n\n【核心考點】\n血管炎與關聯病原/抗體：GPA/MPA 與 ANCA 相關；PAN 與 B 型肝炎（HBV）相關；冷凍球蛋白血症血管炎與 C 型肝炎（HCV）相關。",
+      "key_point": "顯微鏡下多血管炎（MPA）與 ANCA（p-ANCA/MPO-ANCA）密切相關，而結節性多動脈炎（PAN）與 B 肝相關，冷凍球蛋白血症血管炎與 C 肝相關。",
+      "flashcard_front": "不同血管炎與病毒或抗體的關聯：GPA、PAN、MPA、Cryoglobulinemic vasculitis 分別與何者相關？",
+      "flashcard_back": "MPA 與 ANCA 相關；PAN 與 B 型肝炎相關；Cryoglobulinemic vasculitis 與 C 型肝炎相關；GPA 為 ANCA 相關。",
+      "flashcard_summary": "血管炎關聯因子 -> MPA-ANCA, PAN-HBV, Cryoglobulinemic-HCV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題考查常用癌症化學治療藥物的特異性副作用與毒性特徵。不同的化療藥物在人體各器官系統產生的毒性不同，臨床用藥時需密切追蹤其限制性毒性（limiting toxicity）。\n\n【選項詳解】\n- A. 錯誤。Taxanes（紫杉醇類，如 Paclitaxel）主要是透過促進微管聚合並抑制其解聚，從而阻斷細胞分裂。其常見的蓄積性毒性即為末梢周圍神經病變，常表現為手套及襪子分佈的麻木感，因此此敘述正確，非選錯誤之正確答案。\n- B. 正確。Bleomycin（博萊黴素）在化療藥物中以「幾乎不引起骨髓抑制」（myelosuppression-sparing）為其重要特點，但其最嚴重的限制性毒性為肺毒性（可能導致間質性肺炎及肺纖維化）與皮膚色素沉著，故此選項敘述錯誤，符合本題要求。\n- C. 錯誤。Cisplatin（順鉑）是常見的鉑類抗癌藥，其最著名的副作用為腎小管損傷（腎毒性），臨床上常需要給予大量輸液（hydration）來預防，亦具備耳毒性及強烈致吐性，因此此敘述正確，非選錯誤之正確答案。\n- D. 錯誤。Epirubicin（表柔比星）屬於蒽環類抗生素（Anthracyclines），其具有累積劑量依賴性的心臟毒性，可引起心肌受損，進而發展為擴張型心肌病變與心力衰竭，因此此敘述正確，非選錯誤之正確答案。\n\n【核心考點】\n抗癌化療藥物的經典器官毒性：Bleomycin 具肺毒性但極少骨髓抑制；Cisplatin 具腎毒性及耳毒性；Anthracyclines（如 Epirubicin）具心臟毒性；Taxanes 具周圍神經毒性。",
+      "key_point": "博萊黴素（Bleomycin）幾乎不具骨髓抑制毒性，但具有顯著的肺毒性（肺纖維化）；Cisplatin 具腎毒性，Anthracyclines 具心臟毒性。",
+      "flashcard_front": "化學治療藥物中，哪一種抗癌藥物以「幾乎不引起骨髓抑制」為特徵，但有顯著的肺纖維化毒性？",
+      "flashcard_back": "博萊黴素（Bleomycin）。其副作用以肺纖維化及皮膚色素沉著著稱，但骨髓抑制作用極輕微。",
+      "flashcard_summary": "Bleomycin 毒性 -> 幾乎不引起骨髓抑制，主要毒性為肺纖維化（pulmonary fibrosis）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題測試肝細胞癌（Hepatocellular Carcinoma, HCC）的分子遺傳學特徵，特別是各類常見體細胞基因變異（somatic mutations）在肝細胞癌患者中的盛行率（突變頻率）高低比較。\n\n【選項詳解】\n- A. 正確。*TSC1*/*TSC2* 基因編碼的蛋白可抑制 mTOR 通路。在肝細胞癌中，*TSC1*/*TSC2* 的突變率極低（盛行率通常小於 3% 至 5%），是選項中突變頻率最低者。\n- B. 錯誤。*TERT* 啟動子（TERT promoter）突變是肝細胞癌中最常見的基因變異，盛行率可高達 50-60%，其突變會使端粒酶異常活化，導致細胞無限分裂。\n- C. 錯誤。*CTNNB1* 基因（編碼 β-catenin）突變在肝細胞癌中相當常見，盛行率約佔 20-30%，會導致 Wnt/β-catenin 訊號通路的異常活化。\n- D. 錯誤。*TP53* 抑癌基因突變在肝細胞癌中也非常普遍，盛行率約為 25-45%，特別是在黃麴毒素（aflatoxin B1）暴露或 B 型肝炎產生的基因突變。\n\n【核心考點】\n肝細胞癌（HCC）的基因突變譜：*TERT* promoter 突變最常見（>50%）；*TP53* 與 *CTNNB1* 次之（20-40%）；而 *TSC1*/*TSC2* 等 mTOR 通路突變則非常罕見（<5%）。",
+      "key_point": "在肝細胞癌（HCC）的常見體細胞突變中，*TERT* promoter 突變最常見（>50%），而 *TSC1*/*TSC2* 突變最罕見（<3%）。",
+      "flashcard_front": "在肝細胞癌（HCC）常見的基因變異中，*TSC1*/*TSC2*、*TERT* promoter、*CTNNB1*、*TP53* 何者的盛行率最低？",
+      "flashcard_back": "*TSC1*/*TSC2* 突變（盛行率通常 < 3-5%）。而 *TERT* promoter 突變盛行率最高（50-60%）。",
+      "flashcard_summary": "HCC 基因突變頻率 -> TERT promoter 最高 (50-60%)，TSC1/TSC2 突變最低 (<5%)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題測試非何杰金氏淋巴瘤（Non-Hodgkin's Lymphoma, NHL）的流行病學、細胞免疫表型標記、標靶藥物作用機轉及亞型分類。重點在於辨識 CD10、CD20 自體標記與 Rituximab 之間的對應關係。\n\n【選項詳解】\n- A. 錯誤。彌漫性大 B 細胞淋巴瘤（DLBCL）不論在歐美西方國家或是亞洲東方國家，都是發生率最高、最常見的侵襲性非何杰金氏淋巴瘤亞型，約佔全部病例的 30-40%，此敘述正確，非選錯誤之正確答案。\n- B. 正確。Rituximab（莫須瘤）是針對 B 細胞表面特異性抗原 「CD20」 的單株抗體，而非 CD10。CD10 主要表達於前 B 細胞與生發中心 B 細胞，在成熟的周邊 B 細胞上通常不表達，亦非 B 細胞專有，故此選項敘述錯誤，符合本題要求。\n- C. 錯誤。伯基特氏淋巴瘤（Burkitt's lymphoma）生長極為迅速，具有高度侵犯中樞神經系統的傾向，故常規化療必須包含預防性腦脊髓液內藥物注射（intrathecal chemo）；該病對高劑量化療反應極佳，治癒率通常可達 50-80% 以上，此敘述正確，非選錯誤之正確答案。\n- D. 錯誤. 蕈樣肉芽腫（Mycosis fungoides）是一種原發於皮膚的輔助型 T 細胞（CD4+）淋巴瘤，病程進展緩慢，主要侵犯皮膚，可能表現為紅斑、斑塊或腫瘤，此敘述正確，非選錯誤之正確答案。\n\n【核心考點】\n非何杰金氏淋巴瘤（NHL）分類與標靶治療：DLBCL 最常見；Rituximab 的治療靶點是 CD20（非 CD10）；Burkitt's 需預防中樞神經侵犯；Mycosis fungoides 是皮膚 T 細胞淋巴瘤。",
+      "key_point": "單株抗體 Rituximab 的治療標的是 CD20 而非 CD10，CD10 主要表現於生發中心 B 細胞與前 B 細胞。",
+      "flashcard_front": "標靶藥物 Rituximab（莫須瘤）在治療 B 細胞淋巴瘤時，其所針對的細胞表面抗原標的為何？",
+      "flashcard_back": "CD20。CD10（CALLA）並非 Rituximab 的治療標的，且在成熟的周邊 B 細胞表面通常不表達。",
+      "flashcard_summary": "Rituximab 標靶 -> CD20 (非 CD10)；DLBCL 在東西方皆為最常見之 NHL 亞型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題評估特定微生物感染（包括病毒和細菌）與惡性淋巴瘤（Lymphoma）發生之間的特異性因果關係與流行病學關聯。\n\n【選項詳解】\n- A. 正確。中非地區（地方性 Endemic）的 Burkitt's lymphoma 與「愛潑斯坦-巴爾病毒」（Epstein-Barr virus, EBV）感染有超過 90% 的極高關聯性，而非巨細胞病毒（Cytomegalovirus, CMV），故此選項之對應最不適當，為本題標準答案。\n- B. 錯誤。結外鼻型 NK/T 細胞淋巴瘤（extranodal nasal NK/T-cell lymphoma）在亞洲及中南美洲發生率較高，且幾乎 100% 的病例都與 Epstein-Barr virus (EBV) 的感染密切相關，對應正確。\n- C. 錯誤。人類 T 細胞白血病病毒第一型（HTLV-1）感染與成人 T 細胞白血病/淋巴瘤（Adult T-cell leukemia/lymphoma, ATLL）有直接的病因關係，盛行於日本西南部及加勒比海等流行區，對應正確。\n- D. 錯誤。胃黏膜相關組織淋巴瘤（gastric MALT lymphoma）與「幽門螺桿菌」（*Helicobacter pylori*）的慢性感染高度相關，早期患者在接受抗生素根除 *H. pylori* 後，多數可獲得完全緩解，對應正確。\n\n【核心考點】\n微生物感染與淋巴瘤的關聯性：EBV 與 Burkitt's 及鼻型 NK/T 淋巴瘤相關；HTLV-1 與成人 T 細胞淋巴瘤（ATL）相關；*H. pylori* 與胃 MALT 淋巴瘤相關。",
+      "key_point": "中非地區地方性 Burkitt's lymphoma 與 Epstein-Barr 病毒（EBV）感染密切相關，而非巨細胞病毒（CMV）。",
+      "flashcard_front": "地方性（中非地區）Burkitt's lymphoma 的發生與哪種病毒感染有高達 90% 以上的密切關聯？",
+      "flashcard_back": "Epstein-Barr 病毒 (EBV)。而非巨細胞病毒 (CMV)；胃 MALT 淋巴瘤則與 Helicobacter pylori 相關。",
+      "flashcard_summary": "淋巴瘤與微生物關聯 -> Burkitt's & 鼻型 NK/T-cell - EBV; ATL - HTLV-1; MALT - H. pylori",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題考查慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）與其他骨髓增生性疾病及反應性白血球增多的臨床與血液抹片鑑別診斷。患者健康檢查發現極高白血球數（78,500/μL）與輕微血小板增多（495,000/μL），但血紅素正常，此組合極具特異性。\n\n【選項詳解】\n- A. 錯誤。原發性血小板增多症（essential thrombocytosis, ET）以血小板顯著且持續升高為主要特徵（通常 > 450,000/μL，常達百萬以上），白血球雖可輕度增加，但極少會高達 78,500/μL 這樣極端的數值。\n- B. 正確。慢性骨髓性白血病（CML）慢性期的典型血像為顯著的白血球增多，且外周血抹片中可見「所有分化階段的粒細胞」（從 myeloblast 到成熟中性粒細胞，呈現左移 left shift），並常伴有嗜鹼性球及嗜酸性球的增加，且血小板常輕度上升，符合本題健檢無病史患者的臨床表徵。\n- C. 錯誤。類白血病反應（leukemoid reaction）是因嚴重感染、發炎或腫瘤刺激引起的反應性白血球增多，白血球數通常小於 50,000/μL（極少數可更高），且多有明確的原發病史；其抹片主要以成熟中性粒細胞為主，無嗜鹼性球增加，且中性粒細胞鹼性磷酸酶（LAP score）會升高（CML 則降低）。\n- D. 錯誤。急性骨髓性白血病（AML）起病急驟，骨髓腔常被大量未成熟的芽細胞佔據，導致正常造血受壓迫，臨床上多伴隨顯著的貧血（Hb 低下）與血小板低下（易出血），且抹片中骨髓母細胞（myeloblasts）比例應大於 20%，與本題患者 Hb 14.5 g/dL 和血小板 495,000/μL 的正常/偏高狀態不符。\n\n【核心考點】\n慢性骨髓性白血病（CML）的診斷特徵：白血球顯著增多、血液抹片見全階段分化粒細胞與嗜鹼性球增加；與 AML（貧血及血小板低下、以 blast 為主） and 類白血病反應（有感染病史、LAP 升高）相鑑別。",
+      "key_point": "慢性骨髓性白血病（CML）以顯著的白血球增多與外周血見全階段分化粒細胞為特徵，且通常血小板偏高，而無明顯貧血或血小板低下。",
+      "flashcard_front": "健檢意外發現 WBC 78,500/μL、PLT 495,000/μL，血液抹片見全階段分化粒細胞（left shift）且無貧血，最可能之診斷為何？",
+      "flashcard_back": "慢性骨髓性白血病（CML）。AML 常伴隨貧血/血小板低下且芽細胞 > 20%；類白血病反應常有感染病史且 LAP 升高。",
+      "flashcard_summary": "白血球極度升高 + 全階段分化粒細胞 + 無貧血 -> 典型 CML 慢性期表現",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:25:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

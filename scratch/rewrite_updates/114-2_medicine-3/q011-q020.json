@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題描述一名年輕女性有顯著的青年猝死家族史（哥哥與弟弟），並在坐雲霄飛車（強烈情緒刺激與交感神經興奮）時昏厥，這是遺傳性心律不整症候群——特別是第一型長 QT 症候群（Long QT Syndrome Type 1, LQT1）的典型臨床表現。此類病患極易因交感神經活化而誘發心室顫動（VF）或扭轉型室性心動過速（Torsades de Pointes, TdP）導致猝死。\n\n【選項詳解】\n- A. 正確。許多藥物（如抗心律不整藥、某些抗生素或精神科藥物）以及電解質異常（特別是低鉀血症、低鎂血症）會進一步延長 QT 間期，誘發致死性心律不整，因此詳問過去用藥史與監測電解質是急診評估的必要步驟。\n- B. 正確。先天性長 QT 症候群是由於心肌細胞膜上的離子通道基因突變所致，例如 KCNQ1（LQT1，鉀通道減少外流）或 SCN5A（LQT3，鈉通道持續內流），這些異常會延長動作電位時程（action potential duration），在心電圖上表現為 QT 間期延長。\n- C. 正確。遺傳性心律不整症候群有不同的基因突變型態（如 LQT1、LQT2、LQT3），不同基因型所對應的誘發因子（如運動、惡性事件或睡眠）及對 Beta 阻斷劑等治療的反應與預後皆有顯著差異。\n- D. 錯誤。對於已發生過昏厥（症狀性）且有猝死家族史的長 QT 症候群患者，植入式心臟去顫器（ICD）是目前證實最能有效預防猝死、改善預後且挽救生命的關鍵介入措施。\n\n【核心考點】\n遺傳性長 QT 症候群（LQTS）的病理生理機轉（離子通道異常）、臨床誘發因子（LQT1 常由運動或交感神經活化誘發）與預後處置（有症狀或高風險者首選 ICD 植入以預防猝死）。",
+      "key_point": "遺傳性長 QT 症候群（LQTS）患者若已出現昏厥症狀且有猝死家族史，植入式心臟去顫器（ICD）是預防猝死並改善預後的關鍵治療方式。",
+      "flashcard_front": "遺傳性長 QT 症候群 (LQTS) / 坐雲霄飛車昏厥、猝死家族史之最有效預防猝死處置",
+      "flashcard_back": "應植入式心臟去顫器 (ICD) 治療。LQTS 是因鈉/鉀離子通道異常延長動作電位，高風險患者植入 ICD 能顯著改善預後。",
+      "flashcard_summary": "LQTS + 昏厥/猝死家族史 -> 植入 ICD 預防猝死",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n一名高血壓患者在接受降壓藥物治療後血壓控制良好，但隨後出現突發性劇烈乾咳，且肺部與胸部影像檢查皆無異常。此為典型由血管張力素轉換酶抑制劑（ACEI）引起的藥物副作用。ACEI 會抑制緩激肽（bradykinin）及 P 物質的降解，導致其在呼吸道累積，進而刺激 C 纖維引起乾咳。最優先的臨床步驟是確認患者所服用的降壓藥種類。\n\n【選項詳解】\n- A. 錯誤。ACEI 引起的咳嗽為無痰的乾咳，並非因分泌物過多引起，因此給予化痰藥水無法緩解症狀。\n- B. 錯誤。此類乾咳並非由支氣管痙攣或氣喘所致，故開立氣管擴張劑對緩解 ACEI 引起的乾咳無實質療效。\n- C. 正確。最優先處置是確認病人是否正在服用 ACEI（如 Enalapril, Lisinopril 等）。若確認為 ACEI 所致，停藥後咳嗽通常會在數週內自行緩解，並可更換為不會累積緩激肽的血管張力素受體阻斷劑（ARB）。\n- D. 錯誤。患者胸部 X 光已顯示正常，且病史高度指向藥物副作用，此時直接安排高輻射與高成本的胸部電腦斷層（CT）是不必要的過度醫療。\n\n【核心考點】\n高血壓藥物 ACEI 的典型副作用（緩激肽累積導致劇烈乾咳），以及當懷疑此副作用時的處置流程（先詢問用藥史並考慮停藥，更換為 ARB）。",
+      "key_point": "ACEI 類降壓藥易因抑制緩激肽分解而引起乾咳副作用，懷疑時應先詢問用藥史並停藥，可更換為 ARB 治療。",
+      "flashcard_front": "高血壓患者服用藥物後出現突發性乾咳，X 光與聽診正常 / 最優先處置與機轉",
+      "flashcard_back": "應詢問患者使用何種高血壓藥物（確認是否為 ACEI）。機轉為 ACEI 抑制緩激肽（bradykinin）降解，刺激呼吸道引起乾咳，停藥後可改善並可更換為 ARB。",
+      "flashcard_summary": "高血壓藥物後乾咳 -> 疑 ACEI 副作用 -> 應詢問藥歷並更換為 ARB",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題評估冠狀動脈疾病合併穩定型心絞痛（Stable angina）之藥物處置原則，包括乙型交感神經阻斷劑（Beta blocker）、血管張力素轉換酶抑制劑（ACEI）、鈣離子通道阻斷劑（CCB）及抗血小板藥物之臨床指引規範。由於本題官方公佈一律給分（選擇 A、B、C、D 均給分），反映出選項的學理敘述可能存在不嚴謹或相互矛盾之處。\n\n【選項詳解】\n- A. 說明。本選項稱「曾發生心肌梗塞者除外」為錯誤敘述。實際上，對於曾發生心肌梗塞（MI）的患者，Beta blocker 能顯著降低再次心肌梗塞與猝死風險，是更應優先且長期使用的首選藥物。因此該選項敘述在醫學學理上是錯誤的。\n- B. 說明。本選項稱「合併糖尿病或左心室功能不全者，均應給與 ACEI，但要注意腎功能變化」為臨床指引所支持。ACEI 可降低心血管事件風險，且具有腎臟保護作用，但需注意血清肌酸酐與鉀離子變化。此敘述在臨床實務上是正確的。\n- C. 說明。本選項稱「CCB 不應與長效硝化物（nitrate）合用以免水腫」為錯誤敘述。在穩定型心絞痛的二線治療中，當 Beta blocker 療效不足或有禁忌時，常會合併使用 CCB 與長效硝化物以協同擴張冠狀動脈，兩者合用並非絕對禁忌。\n- D. 說明。本選項稱「dipyridamole 建議應常規給與」為錯誤敘述。Dipyridamole 會擴張非缺血區域的小動脈，導致「冠狀動脈竊流症候群（coronary steal syndrome）」，使缺血區域血流進一步減少而加重心絞痛，因此穩定型心絞痛患者不建議常規使用。一線抗血小板藥物應為 Aspirin 或 Clopidogrel。\n\n【補充提醒】\n官方公佈本題「答A或B或C或D者均給分（一律給分）」。主要原因在於題目要求選出「正確」敘述，但選項 A、C、D 的學理明顯錯誤，而僅有選項 B 在多數臨床指引中為正確處置，出題設計可能存在瑕疵。\n\n【核心考點】\n穩定型心絞痛的藥物治療原則（心肌梗塞後必用 Beta blocker、糖尿病或左心室功能不全優先用 ACEI、禁用 dipyridamole 以免冠狀動脈竊流）。",
+      "key_point": "穩定型心絞痛合併糖尿病或左心室不全者應優先給予 ACEI；心肌梗塞後患者更應使用 Beta blocker；避免常規使用 dipyridamole 以免引發冠狀動脈竊流。",
+      "flashcard_front": "穩定心絞痛合併糖尿病/左心室不全/心肌梗塞病史之降壓與抗栓藥物原則 (官方一律給分題)",
+      "flashcard_back": "合併糖尿病或左心室不全優先用 ACEI（注意腎功能與血鉀）；心肌梗塞後必用 Beta blocker 以改善預後；CCB 與長效硝化物非合用禁忌；dipyridamole 因冠狀動脈竊流效應不建議使用。",
+      "flashcard_summary": "心絞痛併心肌梗塞 -> 用 Beta blocker；併糖尿病 -> 用 ACEI；禁用 dipyridamole",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": [
+        "官方公佈一律給分，原因在於題目要求選出「正確」選項，但 A、C、D 均有明顯醫學學理錯誤，B 為唯一正確指引，出題有爭議。"
+      ]
+    },
+    {
+      "question_id": "114-2_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題描述一位有胸悶、心悸及收縮期心雜音的女性，經超音波確診為二尖瓣脫垂（Mitral Valve Prolapse, MVP）。二尖瓣脫垂是最常見的瓣膜心臟病之一，主要病理特徵是瓣膜的黏液性變性（myxomatous degeneration），導致瓣膜在收縮期向左心房突出。我們需要辨識關於此疾病的錯誤臨床敘述。\n\n【選項詳解】\n- A. 錯誤。二尖瓣脫垂確實常見於女性，但其好發年齡較為年輕，通常在青年或年輕成年期（約 15 至 30 歲）即被診斷或出現症狀，並非好發於 40 至 60 歲的中老年族群。\n- B. 正確。二尖瓣脫垂的根本病因為瓣膜的黏液性（myxomatous）變性，這種結締組織病變並非僅限於二尖瓣，亦可能同時或單獨累及三尖瓣（導致三尖瓣脫垂）或主動脈瓣。\n- C. 正確。二尖瓣脫垂常與遺傳性結締組織疾病有高度相關，例如成骨不全症（osteogenesis imperfecta）、馬凡氏症候群（Marfan syndrome）及彈性纖維外傷性假黃瘤（Ehlers-Danlos syndrome）等。\n- D. 正確。當二尖瓣脫垂伴隨中重度迴流時，可能會引發左心房擴大與心房顫動（Afib）。一旦合併心房顫動且有缺血性中風史，即屬於高血栓栓塞風險患者，應使用口服抗凝血藥物進行二級預防。\n\n【核心考點】\n二尖瓣脫垂（MVP）的流行病學（青年女性好發）、病理機轉（黏液性變性）、相關系統性疾病（結締組織疾病）與合併症（心房顫動與抗凝血指引）。",
+      "key_point": "二尖瓣脫垂（MVP）多見於年輕女性（15-30歲），本質為瓣膜黏液性變性，可伴隨結締組織病變，併發心房顫動與中風者需抗凝血治療。",
+      "flashcard_front": "二尖瓣脫垂 (MVP) / 好發族群、病理病因與抗凝血指引",
+      "flashcard_back": "錯誤：好發於40-60歲（實際好發於15-30歲年輕女性）。病理為黏液性變性，可累及其他瓣膜或伴隨成骨不全症等結締組織病；合併二尖瓣迴流、心房顫動且有中風史者應投與抗凝血藥。",
+      "flashcard_summary": "MVP 好發於15-30歲女性 -> 黏液性變性 -> 合併心房顫動/中風史需抗凝",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題評估發炎性腸道疾病（IBD）中克隆氏病（Crohn's disease, CD）的臨床與病理特徵。克隆氏病可侵犯從口腔到肛門的任何消化道管壁，且發炎範圍為全層性。我們需將克隆氏病的特徵與潰瘍性結腸炎（Ulcerative Colitis, UC）進行鑑別。\n\n【選項詳解】\n- A. 正確。克隆氏病的發炎特徵為「全層性發炎（transmural inflammation）」，發炎細胞穿透腸壁黏膜下層及肌肉層，極易導致腸壁穿孔並在相鄰腸段或器官間形成瘻管（fistula）或腹腔膿瘍。\n- B. 錯誤。克隆氏病的腸道病灶分布特徵為「跳躍性/節段性病灶（skip lesions / segmental lesions）」，即病變區域與正常黏膜交替出現；而「連續性病灶（continuous lesions）」且局限於大腸黏膜層是潰瘍性結腸炎（UC）的典型特徵。\n- C. 正確。克隆氏病最常侵犯末端迴腸（terminal ileum）與盲腸，但常會保留直腸（rectal sparing），因此直腸不一定會受到侵犯；相較之下，潰瘍性結腸炎則幾乎一定會從直腸開始向上連續性侵犯。\n- D. 正確。由於全層性發炎造成慢性肉芽腫性病變，反覆發炎與纖維化癒合會導致腸壁增厚，在病程後期經常造成腸道狹窄（stricture）進而引起小腸阻塞。\n\n【核心考點】\n克隆氏病（CD）與潰瘍性結腸炎（UC）的病理分布鑑別（CD 為跳躍性/全層性/直腸保留，常併發瘻管及狹窄；UC 為連續性/黏膜層/必侵犯直腸）。",
+      "key_point": "克隆氏病（CD）的特徵為全層性發炎與跳躍性/節段性病灶，直腸常不受侵犯，易併發瘻管與腸道狹窄。",
+      "flashcard_front": "克隆氏病 (Crohn's disease) 與潰瘍性結腸炎 (UC) 之病灶分布與併發症鑑別",
+      "flashcard_back": "錯誤：連續性病兆（實際為跳躍性/節段性病兆，連續性為 UC 特徵）。克隆氏病為全層發炎，常保留直腸，易引發瘻管（fistula）及腸道狹窄阻塞。",
+      "flashcard_summary": "Crohn's disease -> 跳躍性/全層發炎、常保留直腸、易致瘻管/狹窄",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n一名有胃食道逆流症狀（胃酸逆流、胸口灼熱）的肥胖患者接受胃鏡檢查，胃鏡下顯示食道下段正常扁平上皮被紅色柱狀上皮所取代，此為典型的巴瑞特氏食道（Barrett's esophagus）。Barrett's esophagus 是因慢性胃酸刺激導致食道下段的複層扁平上皮轉化為單層柱狀上皮（腸化生 intestinal metaplasia），屬於癌前病變。\n\n【選項詳解】\n- A. 正確。肥胖會顯著增加腹內壓，進而加重胃食道逆流。因此減重是改善逆流症狀及防止 Barrett's esophagus 惡化的重要非藥物治療措施。\n- B. 正確。質子幫浦抑制劑（PPI）能強力抑制胃酸分泌，是治療胃食道逆流與控制 Barrett's esophagus 症狀、減少酸刺激的首選藥物。\n- C. 正確。雖然抑酸治療（如 PPI）能有效緩解逆流症狀並降低發炎，但臨床上一般的藥物治療無法使已經發生「腸化生（metaplasia）」的巴瑞特氏黏膜逆轉恢復為正常的扁平上皮細胞，病患仍需定期接受胃鏡追蹤。\n- D. 錯誤。巴瑞特氏食道（Barrett's esophagus）是「食道腺癌（adenocarcinoma）」的癌前病變，會顯著增加食道腺癌的風險。而食道鱗狀細胞癌（squamous cell carcinoma）的危險因子主要是抽菸、飲酒、嚼檳榔及食用滾燙食物，與 Barrett's esophagus 無直接關聯。\n\n【核心考點】\n巴瑞特氏食道（Barrett's esophagus）的定義（扁平上皮轉化為柱狀上皮/腸化生）、藥物治療局限性（無法逆轉化生黏膜）與惡性病變風險（增加食道腺癌而非鱗狀細胞癌風險）。",
+      "key_point": "巴瑞特氏食道（Barrett's esophagus）是食道腺癌的癌前病變（非鱗狀細胞癌），由慢性胃食道逆流引起，抑酸藥物無法逆轉已化生的黏膜。",
+      "flashcard_front": "胃食道逆流患者胃鏡呈現 Barrett's esophagus / 臨床意義與癌症風險",
+      "flashcard_back": "錯誤：食道鱗狀細胞癌風險增加（實際是顯著增加「食道腺癌」風險）。巴瑞特氏食道是扁平上皮轉為柱狀上皮（腸化生），PPI/減重可控制症狀但無法逆轉化生黏膜。",
+      "flashcard_summary": "Barrett's esophagus -> 腺癌風險增加 (非鱗狀癌)、藥物無法逆轉化生",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題測試胰臟癌的解剖學位置與其臨床表現之間的關係。胰臟可分為頭部、體部與尾部。胰臟頭部被十二指腸環繞，且總膽管（common bile duct）會穿過胰頭後方。因此，胰臟癌的腫瘤位置會直接影響其首發與最常見的壓迫症狀。\n\n【選項詳解】\n- A. 正確。由於總膽管穿越胰頭，位於頭部的胰臟癌在腫瘤體積尚小時，就極易壓迫總膽管導致膽汁淤積，臨床上常表現為早期的「無痛性黃疸（painless jaundice）」。相較之下，體、尾部胰臟癌遠離膽管，通常要到晚期轉移或壓迫時才會出現黃疸。\n- B. 錯誤。體重減輕是胰臟癌極為普遍的全身性症狀，無論腫瘤位於胰臟的哪一個部位，患者在診斷時多有顯著的體重減輕，這並非胰頭癌相對於體尾部癌的特異性表現（實際上體尾部癌因診斷較晚，體重減輕往往更嚴重）。\n- C. 錯誤。腹痛在胰臟癌（特別是侵犯後腹腔神經叢時）非常常見，但相較於胰頭癌，胰體、尾部癌症因缺乏早期壓迫症狀，往往是以上腹痛或背部放射痛為首發表現，腹痛並非胰頭癌特有的鑑別症狀。\n- D. 錯誤。噁心嘔吐可因腫瘤壓迫十二指腸造成胃排空受阻引起，但在胰臟癌病程中，其出現率與特異性遠低於胰頭癌引起的阻塞性黃疸。\n\n【核心考點】\n胰臟癌的位置與症狀關聯（胰頭癌易壓迫總膽管引起早期黃疸；胰體尾部癌早期症狀隱匿，常以腹痛、體重減輕為晚期表現）。",
+      "key_point": "胰臟頭部癌因解剖位置鄰近總膽管，相對於體、尾部癌，最常見且較早出現的特異性症狀為阻塞性黃疸。",
+      "flashcard_front": "胰臟頭部癌相對於體尾部癌，最典型且常見的症狀與解剖機轉",
+      "flashcard_back": "答案為黃疸。解剖機轉為總膽管穿過胰臟頭部，腫瘤易提早壓迫總膽管導致阻塞性黃疸（常為無痛性黃疸）；體尾部癌則常以腹痛及體重減輕為晚期表現。",
+      "flashcard_summary": "胰頭癌 -> 壓迫總膽管 -> 易有早期黃疸",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n患者表現為轉氨酶極度升高（GPT 1860 U/L、GOT 1256 U/L，皆 > 1000 U/L）且黃疸（Total bilirubin 6.8 mg/dL），而鹼性磷酸酶正常，此為典型的急性肝細胞損傷（急性肝炎 acute hepatitis）特徵。在台灣，成人急性肝炎最常見的傳染性病因為病毒性肝炎（特別是 B 型與 C 型肝炎）。對於過去肝炎史不詳的急性發作患者，最優先且具高臨床效益的初步篩檢應同時涵蓋這兩者。\n\n【選項詳解】\n- A. 錯誤。檢測 anti-HBs（表面抗體）和 anti-HBc（核心抗體）有助於評估 B 肝的免疫狀態或既往感染，但對急性肝炎的「首要病因篩檢」而言，並未涵蓋 C 型肝炎的診斷，不夠全面。\n- B. 錯誤。雖然 anti-HCV 可診斷 C 肝，但 anti-HBc（尤其是總抗體）無法作為判斷是否正處於 B 肝感染活動期的首選初篩工具，且漏檢了最重要的 B 肝表面抗原（HBsAg）。\n- C. 錯誤。此組合僅能診斷或排除 B 型肝炎感染及免疫力，完全忽略了同樣是急性肝炎常見病因的 C 型肝炎。\n- D. 正確。HBsAg（B 肝表面抗原）是診斷是否有活性 B 肝感染的指標；anti-HCV（C 肝抗體）是篩檢 C 肝感染的一線指標。這兩個指標 the 組合（HBsAg + anti-HCV）是篩檢急性病毒性肝炎最實用、最常見的第一線進一步檢查組合。\n\n【核心考點】\n急性肝炎（轉氨酶 > 1000 U/L）的病毒性病因評估，以及第一線篩檢的黃金組合（HBsAg 評估 B 肝，anti-HCV 評估 C 肝）。",
+      "key_point": "急性肝细胞損傷（GOT/GPT > 1000 U/L）伴黃疸時，首要病毒性病因初篩組合為 HBsAg（B 肝）與 anti-HCV（C 肝）。",
+      "flashcard_front": "轉氨酶極度升高 (>1000 U/L) 伴隨黃疸之急性肝炎初篩指標組合",
+      "flashcard_back": "應檢測 HBsAg（篩檢 B 肝）及 anti-HCV（篩檢 C 肝）。此二者為台灣成人急性病毒性肝炎最常見且關鍵的初步鑑別診斷工具。",
+      "flashcard_summary": "急性肝炎 (GPT/GOT>1000) -> 初篩 HBsAg + anti-HCV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題描述一位具備肥胖、糖尿病及無飲酒史的女性，經超音波篩檢發現脂肪肝。此為典型的代謝相關脂肪性肝病（MASLD，舊稱非酒精性脂肪肝病 NAFLD）。我們需評估脂肪肝的診斷標準、超音波的影像學限制、繼發性病因及實驗室數值的臨床意義。\n\n【選項詳解】\n- A. 正確。非酒精性脂肪肝病（NAFLD）定義為在排除每日顯著飲酒量（女性 < 20g，男性 < 30g）及其他繼發性原因後，肝臟組織中以甘油三酯（triglyceride）為主的脂肪蓄積超過 5%。此患者符合此定義。\n- B. 錯誤。腹部超音波可藉由肝臟回音增強（與腎臟皮質對比呈 bright liver）、聲波衰減等特徵靈敏地偵測出肝臟脂肪浸潤（steatosis），但超音波「無法」區分單純的脂肪累積還是已經伴隨肝細胞壞死、發炎的脂肪性肝炎（steatohepatitis）。確診脂肪性肝炎（NASH）仍需依賴肝切片（liver biopsy）病理診斷。\n- C. 正確。許多藥物會干擾肝臟的脂質代謝，如化療藥 Methotrexate、乳癌藥 Tamoxifen 及類固醇 Glucocorticoid，皆是已知會引起繼發性脂肪肝的常見藥物。\n- D. 正確。NAFLD 患者的轉氨酶（AST/ALT）數值可呈現正常或輕度升高，但血清轉氨酶的數值高低與肝臟病理組織學的嚴重度（如發炎程度或纖維化分期）並無直接線性相關，轉氨酶正常的患者仍可能存有顯著的肝纖維化。\n\n【核心考點】\n非酒精性脂肪肝（NAFLD / MASLD）的超音波診斷局限性（超音波只能診斷脂肪變性，不能診斷發炎/肝炎）、藥物引起的繼發性脂肪肝及肝功能數值的臨床解讀。",
+      "key_point": "腹部超音波可偵測肝臟脂肪浸潤（steatosis），但無法區分或診斷是否合併發炎的脂肪性肝炎（steatohepatitis），後者需肝切片確診。",
+      "flashcard_front": "非酒精性脂肪肝病 (NAFLD) / 腹部超音波之影像學局限性與黃金診斷標準",
+      "flashcard_back": "錯誤：超音波可同時偵測脂肪性肝炎（實際僅能偵測脂肪浸潤/steatosis，無法診斷脂肪性肝炎/steatohepatitis）。確診發炎需依賴肝臟切片病理檢查。藥物如類固醇、tamoxifen 可致脂肪肝。",
+      "flashcard_summary": "超音波診斷脂肪肝 -> 無法區分脂肪性肝炎 (需肝切片)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題測試嚴重肝病併發症——肝腎症候群（Hepatorenal Syndrome, HRS）的臨床分類、病理生理學機轉與治療原則。由於官方公佈答 C 或 D 或 CD 者均給分（即 C 或 D 均算對），顯示選項 C 與 D 在學理及臨床論述上皆有錯誤或具備明顯爭議。\n\n【選項詳解】\n- A. 說明。本選項稱「HRS 常常發生於嚴重肝硬化而且合併難治性腹水(refractory ascites)的患者」為正確敘述。HRS 是失代償性肝硬化患者因嚴重門脈高壓導致的腎功能不全，患者幾乎都伴隨有難治性腹水。\n- B. 說明。本選項稱「第一型(type 1)HRS 是一種急性而且在兩星期內快速惡化的腎衰竭」為傳統分類的正確描述。Type 1 HRS（現改稱 HRS-AKI）以急性、快速進展（兩週內肌酸酐加倍或大於 2.5 mg/dL）為特徵，預後極差。\n- C. 說明。本選項稱「HRS 的發生與全身血管收縮阻力上升有關」為錯誤敘述。HRS 的核心機轉是門脈高壓導致一氧化氮（NO）等擴血管物質釋放，引起「內臟血管極度擴張（splanchnic vasodilation）」，這會使全身血管阻力（SVR）顯著「下降」（呈現高心輸出、低阻力的過度動力循環）。全身有效血容量減少進而反射性引起交感神經與 RAAS 活化，導致「腎臟血管極度收縮」，而非全身血管收縮阻力上升。\n- D. 說明。本選項稱「一旦發生HRS,患者預後極差,須依賴肝移植救治」為具爭議之錯誤敘述。雖然肝移植是唯一能根治肝硬化與 HRS 的根本療法，但現今臨床上首選藥物治療，如血管收縮劑（特利加壓素 Terlipressin 或 midodrine/octreotide）合併白蛋白（Albumin）輸注，能有效逆轉大部分患者的腎衰竭，作為橋接肝移植手段，因此「須依賴肝移植救治」的絕對說法在現代醫學中不夠嚴謹。\n\n【補充提醒】\n官方公佈本題「答C或D或CD者均給分」。選項 C 確屬錯誤，因其機轉是內臟血管擴張導致全身外周阻力降低；選項 D 敘述過於絕對，忽略了現代藥物（Terlipressin + Albumin）能有效逆轉部分 HRS 腎衰竭的臨床實務，故皆判定為有瑕疵之錯誤選項。\n\n【核心考點】\n肝腎症候群（HRS）的病理生理機轉（內臟血管擴張導致全身阻力下降、腎臟血管代償性強烈收縮）與現代治療原則（血管收縮劑 Terlipressin 搭配 Albumin 可部分逆轉，肝移植為根本治療）。",
+      "key_point": "肝腎症候群（HRS）由內臟血管擴張（全身血管阻力下降）與腎血管極度收縮引起；首選 Terlipressin 搭配 Albumin 治療，肝移植為根治手段。",
+      "flashcard_front": "肝腎症候群 (HRS) / 病理生理機轉與現代治療原則 (官方多選給分題)",
+      "flashcard_back": "錯誤：全身血管收縮阻力上升（實際是內臟血管擴張導致全身血管阻力降低，但腎血管強烈收縮）。治療首選 Terlipressin + Albumin 藥物治療，可逆轉腎衰竭，肝移植為根本治療（非唯一救治手段）。",
+      "flashcard_summary": "HRS 機轉 -> 內臟血管擴張 (全身阻力低)、腎血管收縮 -> 治療首選 Terlipressin+Albumin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+      "manual_review_notes": [
+        "官方公佈答 C 或 D 均給分。主要原因在於 C 確屬錯誤，而 D 敘述過於絕對，忽略了臨床上常使用 Terlipressin + Albumin 藥物治療來逆轉部分 HRS 的事實。"
+      ]
+    }
+  ]
+}

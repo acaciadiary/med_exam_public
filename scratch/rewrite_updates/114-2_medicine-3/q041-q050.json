@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-3_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n患者為 35 歲女性，表現為孤立性血小板低下（血小板計數 13,000/μL），但紅血球、白血球及分類均正常，且肝腎功能、HIV、ANA 及大小便潛血皆為陰性，無特殊服藥史。此臨床表現符合原發性免疫性血小板低下症（Immune Thrombocytopenia, ITP）之診斷。當患者血小板計數低於 30,000/μL 且伴隨出血傾向（瘀青加劇）時，應立即啟動一線治療。\n\n【選項詳解】\n- A. 錯誤。在免疫性血小板低下症中，由於患者體內存在針對血小板的自體抗體，輸入的血小板會被脾臟中的巨噬細胞快速破壞，使得輸注效果極差。因此，除非發生危及生命的嚴重活動性出血（例如顱內出血或消化道大出血），否則不應常規或優先進行血小板輸注。\n- B. 錯誤。靜脈注射免疫球蛋白（IVIG）雖是一線治療，但其價格昂貴且療效短暫，主要用於需要快速提升血小板計數的緊急狀況，例如準備緊急手術或有嚴重活動性出血者。此患者目前僅有皮膚瘀青，無急性大出血徵兆，故非首選的優先處置。\n- C. 正確。類固醇治療（如口服 prednisone 或靜脈注射 dexamethasone）是成人 ITP 的標準一線首選治療，能有效抑制巨噬細胞對血小板的吞噬作用，並減少自體抗體的產生，達到快速提升血小板的效果。\n- D. 錯誤。Eltrombopag 為促血小板生成素受體激動劑（TPO-RA），屬於二線治療藥物。適用於對一線類固醇或 IVIG 反應不佳、切脾後仍難治，或病程進入慢性期的 ITP 患者，不適用於新診斷患者的初期首選處置。\n\n【核心考點】\n免疫性血小板低下症（ITP）當血小板低於 30,000/μL 且有出血症狀時應治療，首選一線處置為類固醇；血小板輸注僅限於危及生命的緊急出血。",
+      "key_point": "免疫性血小板低下症（ITP）一線首選治療為類固醇；若無危及生命的嚴重出血，不應優先輸注血小板。",
+      "flashcard_front": "免疫性血小板低下症（ITP）且血小板 < 30,000/μL 伴隨瘀青的一線優先處置",
+      "flashcard_back": "優先給予類固醇治療（corticosteroid treatment）。血小板輸注僅用於危及生命的緊急大出血，而 TPO-RA（如 eltrombopag）為二線用藥。",
+      "flashcard_summary": "ITP 治療 -> 首選類固醇（corticosteroid）而非輸血小板",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n患者表現為黃疸、輕度貧血（Hb 9.6 g/dL），總膽紅素顯著升高（4.5 mg/dL），但直接型膽紅素僅佔 0.6 mg/dL（佔總膽紅素的 13.3%），顯示其黃疸以非結合型（間接型）膽紅素升高為主。同時，患者 AST 輕度上升（85 U/L）而 ALT 正常（32 U/L），此為紅血球破壞釋放 AST 造成的特徵。結合尿液呈現深茶色（血管內溶血釋放的游離血紅素導致血紅素尿），最符合血管內溶血（intravascular hemolysis）的表現。\n\n【選項詳解】\n- A. 錯誤。急性肝炎引起的黃疸屬於肝細胞性黃疸，其血清中的結合型（直接型）與非結合型（間接型）膽紅素通常會同步顯著升高，且肝指數 ALT (GPT) 與 AST (GOT) 會呈數百甚至數千的顯著上升，與本案 ALT 正常、AST 僅輕度升高的臨床數據不符。\n- B. 正確。血管內溶血會導致大量紅血球在血管內破壞，釋放出大量的非結合型膽紅素而引起黃疸；同時，釋放出的游離血紅素超過觸珠蛋白（haptoglobin）的結合極限後會從尿中排出，形成血紅素尿，使尿液呈現暗褐色或深茶色。\n- C. 錯誤。尿路感染（UTI）典型症狀為發燒、頻尿、尿急與解尿疼痛，尿液鏡檢可見白血球或紅血球（血尿），但不會引起以間接膽紅素升高為主的黃疸，也不會導致嚴重的非結合型膽紅素血症。\n- D. 錯誤。膽囊結石若造成膽道阻塞（如總膽管結石），會引起阻塞性黃疸。此時膽汁無法排出，直接型（結合型）膽紅素會顯著上升（佔總膽紅素 50% 以上），且尿中會出現膽紅素（膽紅素尿），與本案非結合型膽紅素升高為主的數據相違背。\n\n【核心考點】\n非結合型（間接型）膽紅素升高伴隨貧血與深色尿（血紅素尿），為血管內溶血的特徵；肝細胞性與阻塞性黃疸則以直接型（結合型）膽紅素升高為主。",
+      "key_point": "非結合型膽紅素顯著升高、貧血、AST輕微上升且ALT正常，配合深茶色尿液，高度提示血管內溶血。",
+      "flashcard_front": "非結合型膽紅素升高為主、貧血、AST 輕度上升但 ALT 正常且伴深色尿的診斷",
+      "flashcard_back": "診斷為血管內溶血（intravascular hemolysis）。因紅血球釋放間接膽紅素與游離血紅素，造成間接膽紅素血症與血紅素尿。",
+      "flashcard_summary": "非結合型黃疸 + 貧血 -> 血管內溶血（intravascular hemolysis）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n患者成功接受了非血親造血幹細胞移植（HSCT）。移植後，捐贈者的造血幹細胞會在受體骨髓中定植並重建其整個造血與免疫系統。因此，受體體內所有源自造血幹細胞的分化細胞（如紅血球、白血球、血小板、骨髓細胞）其基因型皆會轉化為捐贈者的 DNA。若要進行患者本人的血緣鑑定，必須採集未受移植造血幹細胞影響的患者自身上皮或組織體細胞。\n\n【選項詳解】\n- A. 錯誤。血液中富含源自造血幹細胞分化而來的各類血球細胞，在造血幹細胞移植成功重建後，血液細胞的 DNA 已完全被捐贈者（donor）的基因型取代，因此無法用來鑑定病人本身的血緣。\n- B. 正確。髮根含有毛囊上皮細胞，這些細胞屬於病人原有的外胚層體細胞，其分裂與增殖不受移植的造血幹細胞影響，其 DNA 仍保留病人原本的基因，因此能提供最可靠的人身血緣鑑定。\n- C. 錯誤。骨髓是造血幹細胞定植與增殖的場所。移植成功後，骨髓中的造血前驅細胞及基質細胞多已被捐贈者的細胞所取代，檢測其 DNA 亦會呈現捐贈者的基因型。\n- D. 錯誤。白血球是從移植的造血幹細胞分化而來的免疫細胞，其 DNA 完全屬於捐贈者，檢測白血球 DNA 只會驗出捐贈者的基因資訊，無法代表患者原本的血緣。\n\n【核心考點】\n造血幹細胞移植成功後，受體的造血與免疫系統（如血液、骨髓、白血球）之 DNA 皆被捐贈者取代，需使用毛囊（髮根）等原體細胞進行個人血緣鑑定。",
+      "key_point": "造血幹細胞移植後，受體的血液與骨髓系統基因型會變為捐贈者，進行個人血緣鑑定需使用髮根（毛囊上皮）等未受造血系統影響的體細胞。",
+      "flashcard_front": "造血幹細胞移植（HSCT）成功後，鑑定患者本身人身血緣應採用何種檢體",
+      "flashcard_back": "應採用髮根（含有病人本身的毛囊上皮細胞）。血液、骨髓與白血球等造血細胞皆已被捐贈者（donor）的 DNA 取代。",
+      "flashcard_summary": "造血幹細胞移植後鑑定 -> 髮根（毛囊上皮體細胞）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n大腸直腸癌經典的腺瘤-腺癌途徑（Adenoma-Carcinoma Sequence）涉及一連串基因的逐步變異。此過程中，抑癌基因（Tumor suppressor genes）需要因突變或缺失而「失活（inactivation）」以促進腫瘤發展；相反地，原癌基因（Proto-oncogenes）則必須藉由突變而「活化（activation）」來加速細胞生長。本題要求選出與腺瘤樣息肉轉變為大腸直腸癌無關的變異。\n\n【選項詳解】\n- A. 錯誤。APC 基因是一個抑癌基因。APC 的雙等位基因失活（APC inactivation）是正常大腸黏膜演變成早期腺瘤的第一步也是關鍵步驟（\"first hit\"），因此與癌症轉化密切相關。\n- B. 正確。KRAS (K-ras) 是一個原癌基因，在腫瘤演變過程中，它必須透過點突變產生「活化（activation）」，使下游客路（MAPK 途徑）持續活化，進而促進早期腺瘤長大為中期與晚期腺瘤。K-ras 的「失活（inactivation）」與癌症發展無關。\n- C. 錯誤。SMAD4 基因（位於染色體 18q，與 DCC 基因同區域）為抑癌基因。SMAD4 的失活（SMAD4 inactivation）會阻斷 TGF-beta 的抑制性訊號傳導，通常發生於中期腺瘤向晚期腺瘤進展的階段。\n- D. 錯誤。p53 (TP53) 基因是著名的抑癌基因（基因體守護者）。p53 的失活（p53 inactivation）是腺瘤向具浸潤性的大腸腺癌惡性轉化過程中最重要的晚期關鍵事件。\n\n【核心考點】\n大腸直腸癌的腺瘤-腺癌途徑中，APC、SMAD4、p53 等抑癌基因是因「失活（inactivation）」致癌，而原癌基因 KRAS 則是因「活化（activation）」突變致癌。",
+      "key_point": "大腸癌腺瘤-腺癌途徑中，抑癌基因 APC、SMAD4、p53 發生失活（inactivation），而原癌基因 KRAS 則是發生活化（activation）。",
+      "flashcard_front": "大腸直腸癌 Adenoma-Carcinoma Sequence 中，KRAS、APC、SMAD4、p53 突變的形式差別",
+      "flashcard_back": "APC、SMAD4、p53 等抑癌基因發生失活（inactivation），而 KRAS 原癌基因發生突變活化（activation）。因此 K-ras inactivation 與大腸癌無關。",
+      "flashcard_summary": "大腸癌基因變化 -> KRAS 活化（activation），抑癌基因（APC/SMAD4/p53）失活（inactivation）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nCURB-65 評分系統是用於評估社區型肺炎（CAP）患者嚴重度及決定治療場所（門診、住院或加護病房）的臨床預後評估工具。每個符合的項目可得 1 分，總分為 0 至 5 分。本題旨在考查該評分系統所包含的五項核心指標。\n\n【選項詳解】\n- A. 正確。心跳次數並不是 CURB-65 的評估指標項目。雖然心搏過速常與嚴重感染相關，但它被納入的是另一個評估工具——肺炎嚴重指數（PSI, Pneumonia Severity Index），而非 CURB-65。\n- B. 錯誤。血中尿素氮（Urea）為 CURB-65 中的 「U」。當 BUN > 7 mmol/L (或 > 19 mg/dL) 時，表示患者可能有脫水或併發腎功能不全，計為 1 分。\n- C. 錯誤。呼吸次數（Respiratory rate）為 CURB-65 中的 「R」。當呼吸速率 ≧ 30 次/分鐘時，表示患者有顯著的呼吸窘迫或缺氧，計為 1 分。\n- D. 錯誤。血壓（Blood pressure）為 CURB-65 中的 「B」。當收縮壓 < 90 mmHg 或舒張壓 ≦ 60 mmHg 時，提示患者可能發生感染性休克，計為 1 分。\n\n【核心考點】\n社區型肺炎評估工具 CURB-65 的五大指標為：意識混亂（C）、血中尿素氮 > 19 mg/dL（U）、呼吸次數 ≧ 30/min（R）、血壓收縮壓 < 90 或舒張壓 ≦ 60（B）、年齡 ≧ 65 歲（65），不包含心跳次數。",
+      "key_point": "CURB-65 包含意識、血中尿素氮、呼吸速率、血壓及年齡 65 歲，不包含心跳次數。",
+      "flashcard_front": "社區型肺炎嚴重度評估工具 CURB-65 的五項核心指標",
+      "flashcard_back": "C：Confusion（意識混亂）；U：Urea（BUN > 19 mg/dL）；R：Respiratory rate（≧ 30/min）；B：Blood pressure（收縮壓 < 90 或舒張壓 ≦ 60 mmHg）；65：年齡 ≧ 65 歲。心跳次數不在此評分中。",
+      "flashcard_summary": "CURB-65 指標 -> C、U、R、B、65（不含心跳）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n患者為糖尿病史多年的老年人，臨床表現為發燒、咳膿痰 5 天，胸部 X 光顯示肺部有空洞伴隨實質化病變。這是一副典型的肺膿瘍（lung abscess）或壞死性肺炎（necrotizing pneumonia）的臨床圖像。由於這類病變涉及組織壞死與膿腔形成，抗生素的療程必須足夠長以防止復發。\n\n【選項詳解】\n- A. 錯誤。克雷伯氏肺炎桿菌（Klebsiella pneumoniae）在糖尿病患者中容易引起嚴重的血行播散。若患者血液或痰液培養出此菌，臨床上應高度警惕轉移性感染，必須安排眼底檢查排除內源性眼內炎（Endophthalmitis），並安排腹部超音波檢查排除肝膿瘍（Liver abscess）。\n- B. 錯誤。若經驗性抗生素治療無效且痰液/血液常規培養呈陰性，提示可能存在不常見的致病原（如結核分枝桿菌、真菌、厭氧菌等）或局部引流不暢。此時需藉由超音波或電腦斷層導引穿刺（CT/US-guided aspiration）取得病灶深部的壞死組織或膿液進行特殊微生物培養，以精準指導用藥。\n- C. 錯誤。肺膿瘍常與誤吸（aspiration）相關，特別是在有糖尿病、吞嚥障礙或牙周病的患者中。吸入性肺炎的致病菌通常為混合性感染，其中常包含大量的口腔厭氧菌，因此經驗性抗生素治療必須涵蓋厭氧菌（如使用 Clindamycin、Amoxicillin-clavulanate 或 Carbapenem）。\n- D. 正確。肺膿瘍或壞死性肺炎的抗生素治療療程通常較長，通常需要治療至胸部 X 光顯示空洞完全閉合或僅剩微小的疤痕病灶，典型的療程通常需要 3 至 6 週，甚至更長，僅使用「兩週」的療程極易導致治療失敗與復發。\n\n【核心考點】\n肺膿瘍/空洞性實質化病變的抗生素治療療程應較長（通常 3 至 6 週，直到影像空洞消失），經驗性抗生素必須覆蓋厭氧菌；K. pneumoniae 感染需防範眼內炎與肝膿瘍。",
+      "key_point": "肺膿瘍或壞死性肺炎的經驗性抗生素治療需涵蓋厭氧菌，且療程通常需要 3-6 週（直到影像空洞閉合），不能僅治療兩週。",
+      "flashcard_front": "糖尿病患者發燒、膿痰且 X 光呈現肺空洞實質化（肺膿瘍）的抗生素療程與病原考量",
+      "flashcard_back": "抗生素治療應涵蓋厭氧菌，療程通常需 3-6 週（直到影像空洞閉合，非僅兩週）。若為 K. pneumoniae，應加做眼底與腹部超音波排除血行轉移感染。",
+      "flashcard_summary": "肺膿瘍治療 -> 需涵蓋厭氧菌，療程 3-6 週（非兩週）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n患者氣喘頻繁發作（每天 3~4 次，每月急診，FEV1 降至 56%），代表氣喘處於重度且未控制的狀態。更重要的是，患者對支氣管擴張劑的反應越來越差。氣喘的病理學本質是慢性氣道發炎，當發炎失控時，會導致氣道水腫 and 黏液阻塞，使支氣管擴張劑效果下降。因此，處置的關鍵在於根本性地「抗發炎」，而非單純使用擴張劑。\n\n【選項詳解】\n- A. 正確。規則使用吸入性類固醇（ICS，如 fluticasone 或 budesonide）是氣喘抗發炎治療的基石。吸入性類固醇能直接作用於氣道黏膜，減輕發炎細胞浸潤與分泌物，恢復氣道彈性，並能恢復 beta-2 受體對支氣管擴張劑的敏感性，是解決該患者症狀的根本處置。\n- B. 錯誤。規則使用口服支氣管擴張劑（如口服 beta-2 促進劑或增加口服茶鹼劑量）不僅無法解決根本的氣道黏膜發炎，反而會引發全身性副作用，如心悸、手抖、失眠與心律不整等，不符合目前氣喘控制的指引。\n- C. 錯誤。長效型抗膽鹼藥物（LAMA）可作為氣喘控制的附加（add-on）治療以改善肺功能，但在氣喘的控制中，不能在沒有使用吸入性類固醇（ICS）的情況下單獨或優先規則使用 LAMA，這無法解決底層的免疫發炎。\n- D. 錯誤。長效型支氣管擴張劑（LABA，如 salmeterol）是很好的控制藥物，但**絕對禁止在沒有併用吸入性類固醇（ICS）的情況下單獨規則使用 LABA**。單獨使用 LABA 會掩蓋發炎惡化，甚至增加氣喘死亡風險（GINA 指引的黑盒子警示），故不可作為單一調整。\n\n【核心考點】\n氣喘控制的基石是抗發炎，首選吸入性類固醇（ICS）；當支氣管擴張劑反應變差時更需加強 ICS。不可在無 ICS 的情況下單獨規則使用 LABA。",
+      "key_point": "氣喘是慢性發炎疾病，控制首選為吸入性類固醇（ICS），絕不可在無類固醇基礎下單獨規則使用長效支氣管擴張劑（LABA）。",
+      "flashcard_front": "氣喘每日發作、FEV1 降至 56% 且對擴張劑反應差時的關鍵調整處置",
+      "flashcard_back": "應規則使用吸入性類固醇（ICS）或其他抗發炎藥物以解決基礎發炎。不可單獨規則使用長效支氣管擴張劑（LABA），以免增加氣喘死亡風險。",
+      "flashcard_summary": "氣喘未控制 -> 規則使用吸入性類固醇（ICS）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n患者表現為一週內的急性呼吸道症狀、兩側肺浸潤，且肺泡灌洗液（BALF）中嗜酸性球（eosinophil）比例顯著升高至 20%（正常值應 < 1%）。BALF 中嗜酸性球 ≧ 20% 是診斷「嗜酸性球性肺部疾病」的關鍵支持指標。我們需分析各選項疾病的免疫病理特徵以找出最不符合此特徵者。\n\n【選項詳解】\n- A. 錯誤。Churg-Strauss syndrome（現稱嗜酸性肉芽腫性多血管炎，EGPA）是一種系統性壞死性小血管炎，典型表現為嚴重氣喘、外周血及組織中嗜酸性球顯著增多。患者的肺泡灌洗液（BALF）中嗜酸性球比例常大幅升高，甚至可超過 20% 至 50%。\n- B. 錯誤。Loffler's syndrome（呂弗勒症候群）屬於單純型肺嗜酸性球增多症，通常由藥物反應或寄生蟲感染（如蛔蟲幼蟲移行）引起。其特徵為短暫、游走性的肺部浸潤，且外周血及 BALF 中嗜酸性球皆會明顯升高。\n- C. 正確。過敏性肺炎（Hypersensitivity pneumonitis, HP）是由吸入有機粉塵或特定化學抗原引起的免疫介導性肺部發炎。其肺泡灌洗液（BALF）的典型特徵為**淋巴球（lymphocytes）比例顯著升高**（通常 > 50%，且以 CD8+ 淋巴球為主，導致 CD4+/CD8+ 比值下降），而嗜酸性球一般正常或僅輕微增加（通常 < 5%）。因此，HP 最不可能表現為 BALF 嗜酸性球高達 20%。\n- D. 錯誤。嗜酸性球性肺炎（Eosinophilic pneumonia，包括急性 AEP 與慢性 CEP）的定義就是肺實質內嗜酸性球的異常聚集。在急性嗜酸性球性肺炎中，BALF 中的嗜酸性球比例通常非常高（典型者大於 25%），是該疾病的診斷要件。\n\n【核心考點】\n肺泡灌洗液（BALF）中嗜酸性球顯著增加（≧ 20%）見於 EGPA、Loffler's 症候群與嗜酸性球性肺炎；而過敏性肺炎（HP）的 BALF 特徵為淋巴球顯著增加（通常 > 50%）。",
+      "key_point": "肺泡灌洗液中嗜酸性球 > 20% 提示嗜酸性球性肺疾病；過敏性肺炎（HP）的灌洗液特徵為淋巴球（>50%）增加而非嗜酸性球。",
+      "flashcard_front": "肺泡灌洗液（BALF）中嗜酸性球達 20% 時，最不可能的肺炎診斷與其病理特徵",
+      "flashcard_back": "最不可能為過敏性肺炎（hypersensitivity pneumonitis）。過敏性肺炎的 BALF 典型特徵為淋巴球（lymphocyte）大於 50%，而非嗜酸性球。",
+      "flashcard_summary": "BALF 嗜酸性球高 -> 排除過敏性肺炎（過敏性肺炎多淋巴球）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n臨床上將肺炎依據感染發生的時間、地點與照護環境進行分類，這能指引經驗性抗生素的選擇（如是否需要涵蓋多重抗藥菌 MDR）。本題考查社區型肺炎（CAP）、院內肺炎（HAP）、呼吸器相關肺炎（VAP）與健康照護相關肺炎（HCAP）的學術與臨床定義。\n\n【選項詳解】\n- A. 錯誤。社區型肺炎（CAP）定義為在醫院外感染的肺炎，或是在住院後 48 小時內（未滿 48 小時）出現且不符合健康照護相關肺炎定義的肺部急性感染，因為這段時間內的感染多是在入院前就已處於潛伏期。\n- B. 錯誤。院內肺炎（HAP）通常是指在住院 48 小時或以上所發生的肺炎（非因入院時已處於潛伏期）。此外，在出院後 14 天內新發生的急性肺部感染，在許多臨床研究與操作指引中亦常被歸類為 HAP，以反映其病原可能來自前次住院的院內菌。\n- C. 正確。呼吸器相關肺炎（VAP）的嚴格定義為：患者在接受氣管內插管（intubation）並使用機械通氣（mechanical ventilation）**至少 48 小時（即 ≧ 48 小時）以後**才發生的院內肺炎，選項中寫「24 小時以後」在時間定義上是錯誤的。\n- D. 錯誤。健康照護相關肺炎（HCAP）的定義項目之一即為：在 90 天內曾在急性照護醫院住院大於 2 天的患者。此類患者攜帶抗藥性金黃色葡萄球菌（MRSA）或綠膿桿菌等 MDR 菌株的風險較高。（註：雖然 2016 年後 ATS/IDSA 指南已取消 HCAP 這一大類，轉而對個體進行抗藥菌風險評估，但在醫學考試中，此定義描述仍屬於 HCAP 傳統定義的標準寫法）。\n\n【核心考點】\n呼吸器相關肺炎（VAP）的定義是指接受氣管插管與機械通氣「48小時以上」才發生的肺炎；社區型與院內肺炎的區分時間點亦通常以住院「48小時」為界。",
+      "key_point": "呼吸器相關肺炎（VAP）是指使用呼吸器 48 小時（非 24 小時）以後產生的院內肺炎。",
+      "flashcard_front": "呼吸器相關肺炎（VAP）的定義時間條件",
+      "flashcard_back": "患者接受氣管內插管與機械通氣「至少 48 小時（≧ 48 小時）以後」所發生的肺炎。",
+      "flashcard_summary": "VAP 定義 -> 機械通氣 ≧ 48 小時後發生的肺炎",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題考查肺癌的流行病學危險因子、篩檢工具（低劑量電腦斷層）的物理特性、晚期患者戒菸的臨床重要性，以及營養補充品在預防醫學上的角色。\n\n【選項詳解】\n- A. 錯誤。肺癌最主要的危險因子是吸菸（tobacco smoking），約有 85% 的肺癌發病與死亡可歸因於吸菸。雖然家族肺癌病史會增加風險，但並非「最主要」的危險因子。\n- B. 正確。即使是第四期肺癌患者，戒菸仍極為重要。吸菸會藉由誘導肝臟代謝酶（如 CYP1A2）顯著降低某些化療藥物或標靶藥物（如 EGFR-TKI 厄洛替尼 erlotinib）的血藥濃度，導致療效變差；此外，吸菸引起的組織缺氧會降低放射治療的敏感性，且會增加治療相關的心肺併發症。\n- C. 錯誤. 低劑量電腦斷層（LDCT）的輻射量雖然僅約為傳統胸部電腦斷層的 1/5 至 1/10（約為 0.6 至 1.5 mSv），但它仍有微量電離輻射。反覆或長期頻繁地進行電腦斷層篩檢，在理論上仍存在累積輻射暴露並微幅增加誘發癌症的風險，不能說「沒有風險」。\n- D. 錯誤。多項大型隨機雙盲臨床試驗（如 CARET 試驗和 ATBC 試驗）已經證實，吸菸者若大量補充抗氧化維生素（如 beta-carotene 胡蘿蔔素及維生素 A），非但不能預防肺癌，反而會顯著「增加」肺癌的發生率與死亡率。\n\n【核心考點】\n第四期肺癌患者戒菸可避免藥物代謝加快並提升放化療敏感度；吸菸者補充大量 beta-carotene 反而增加肺癌風險；LDCT 篩檢仍有微量輻射風險。",
+      "key_point": "第四期肺癌患者戒菸仍可避免藥物代謝加速（如CYP1A2誘導）並提高治療效果；抽菸者服用高劑量胡蘿蔔素反而增加肺癌風險。",
+      "flashcard_front": "第四期肺癌患者為何仍需戒菸，以及吸菸者補充 beta-carotene 的效果",
+      "flashcard_back": "吸菸會誘導藥物代謝（如 CYP1A2 降低標靶藥物濃度）並減弱放化療效果，故仍須戒菸；抽菸者大量補充 beta-carotene 反而會顯著增加肺癌發生率。",
+      "flashcard_summary": "肺癌與吸菸 -> 四期仍要戒菸（提升療效）；抽菸者補胡蘿蔔素反增肺癌率",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:21:12+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

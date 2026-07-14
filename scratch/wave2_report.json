@@ -1,0 +1,54 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "merge": true,
+  "update_file_count": 3,
+  "question_count": 30,
+  "merged_question_numbers": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "manual_review": [
+    {
+      "question_number": 54,
+      "notes": [
+        "官方更正全體給分題（原官方公佈答案為 D）。已在解析中詳細補充爭議原因與各選項臨床時機。"
+      ]
+    },
+    {
+      "question_number": 55,
+      "notes": [
+        "官方更正答 C 或 D 或 CD 均給分。已在解析中詳細拆解糖尿病足的多因子成因及血糖對大/微血管併發症的試驗爭議。"
+      ]
+    }
+  ],
+  "errors": []
+}

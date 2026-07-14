@@ -1,151 +1,155 @@
-# -*- coding: utf-8 -*-
 import json
 import os
 
 updates = [
-    {
-        "question_id": "110-2_medicine-3_031",
-        "question_number": 31,
-        "explanation": "【題幹解析】\n病患為36歲女性，臨床表現有微燒、上眼瞼及臉頰部紅疹（提示 Heliotrope rash 或 Gottron's sign），且伴隨近端肢體無力（「必須側身以雙手扶持起床」代表近端大腿及軀幹肌群無力）。血清學檢查顯示 ANA 輕度陽性（1:40 speckled）且補體（C3、C4）正常，最有可能的診斷為皮肌炎（dermatomyositis）。\n\n【選項詳解】\n- A. 正確。皮肌炎（dermatomyositis）以對稱性近端肌肉無力（例如起床、起立、爬樓梯困難）為核心臨床表徵，並常伴隨特徵性皮膚病變，如上眼瞼的紫紅色斑（Heliotrope rash）與臉頰紅疹，與本病患的病史完全符合。\n- B. 錯誤。全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）雖可有發燒、臉部紅疹及 ANA 陽性，但一般不會以如此典型且嚴重的急性近端骨骼肌無力為首發表現，且 SLE 活性期通常會伴隨補體（C3、C4）的明顯消耗下降。\n- C. 錯誤。濕疹（eczema）為單純的皮膚發炎反應，會造成局部皮膚紅腫、搔癢與脫屑，但絕不會合併全身性的骨骼肌病變與近端肌肉無力症狀。\n- D. 錯誤。光敏感（photosensitivity）是皮膚對紫外線產生的異常免疫反應，為多種風濕免疫疾病（如 SLE）或藥物引發的皮膚症狀，但不會造成近端肌肉無力與起立困難。\n\n【核心考點】\n皮肌炎（Dermatomyositis）的診斷關鍵在於「對稱性近端肌無力」合併特徵性皮膚表現（如上眼瞼紫紅斑 Heliotrope rash、關節伸側 Gottron 氏丘疹）。臨床上若出現起床或站立需要雙手扶持的近端肌病變，且伴隨臉部紅疹，應高度懷疑皮肌炎。",
-        "key_point": "皮肌炎（Dermatomyositis）的診斷核心在於對稱性近端肌無力合併特徵性皮膚病變（Heliotrope rash、Gottron's papules）。",
-        "flashcard_front": "皮肌炎 (Dermatomyositis) / 臨床診斷特徵",
-        "flashcard_back": "典型表現為對稱性近端肌無力（如起立、起床困難），合併特徵性皮膚紅疹（如上眼瞼紫紅斑 Heliotrope rash 或關節伸側 Gottron 氏丘疹）。",
-        "flashcard_summary": "皮肌炎診斷 -> 對稱性近端肌無力伴隨眼瞼/臉頰特徵性紅疹。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_032",
-        "question_number": 32,
-        "explanation": "【題幹解析】\n21歲男性自青少年期（15歲）起，反覆發生由流行性感冒嗜血桿菌（Haemophilus influenzae，一種有莢膜的細菌）引起的肺炎，並伴有慢性鼻竇炎與支氣管擴張，而全血球計數及分類大致在正常範圍。此病史高度提示「體液免疫缺陷（humoral immunodeficiency，即抗體缺乏）」，例如常見變異型免疫缺陷病（CVID）。為了評估體液免疫缺損，首要且最關鍵的檢查是檢測血清中免疫球蛋白（IgG, IgA, IgM）的定量。\n\n【選項詳解】\n- A. 錯誤。CD4 與 CD8 淋巴細胞計數主要用於評估細胞免疫（cellular immunity）缺陷，例如 HIV/AIDS 或重症聯合免疫缺陷病（SCID）。本例主要為反覆有莢膜細菌引起的局部竇肺部感染，主要是抗體調理作用不足的問題，而非細胞免疫缺損。\n- B. 正確。反覆的有莢膜細菌（如流感嗜血桿菌、肺炎鏈球菌）感染與支氣管擴張，是體液免疫（抗體）缺陷的典型表現。測量血清免疫球蛋白 G（serum IgG）及其他免疫球蛋白（IgA、IgM）濃度，是診斷原發性抗體缺陷病的第一步與最基礎評估。\n- C. 錯誤。血中免疫球蛋白 E（serum IgE）主要與過敏性疾病（如氣喘、異位性皮膚炎）或特定寄生蟲感染相關。雖然高 IgE 症候群也會有反覆感染，但其典型為冷膿瘍（cold abscess）及粗糙面容，檢測 IgE 對此病患的一般體液免疫篩檢幫助有限。\n- D. 錯誤。血中第三與第四補體（serum C3 and C4）缺乏雖會增加有莢膜細菌的感染機率，但原發性補體缺乏極為罕見且常伴隨自體免疫疾病（如 SLE）。相較之下，抗體缺乏症的盛行率遠高於補體缺乏，故首選篩檢仍為血清免疫球蛋白定量。\n\n【核心考點】\n反覆發生有莢膜細菌（如流感嗜血桿菌）引起的呼吸道感染與支氣管擴張，提示體液免疫（抗體）缺陷。篩檢的第一步是檢測血清免疫球蛋白定量（IgG, IgA, IgM）。",
-        "key_point": "反覆發生有莢膜細菌引起的竇肺部感染提示體液免疫缺損，首選篩檢為檢測血清免疫球蛋白濃度。",
-        "flashcard_front": "體液免疫缺損 (Humoral Immunodeficiency) / 首選篩檢項目",
-        "flashcard_back": "反覆出現有莢膜細菌（如流感嗜血桿菌、肺炎鏈球菌）感染與支氣管擴張時，應首選檢測血清免疫球蛋白（IgG、IgA、IgM）定量。",
-        "flashcard_summary": "體液免疫缺損篩檢 -> 反覆莢膜細菌感染者首選檢測血清免疫球蛋白（IgG）。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_033",
-        "question_number": 33,
-        "explanation": "【題幹解析】\n診斷全身性紅斑狼瘡（SLE）常參考 ACR/EULAR 的分類標準。在此標準中，抗核抗體（ANA）是進入診斷標準的必要入口條件（Entry criterion，敏感度 >95%）；第四補體（C4）降低反映補體系統活化消耗（免疫學標準）；全血球計數（CBC）可用於評估溶血性貧血、白血球減少或血小板減少（血液學標準）。抗 SSA 抗體雖然在部分 SLE 病患中呈陽性，但並未列入 SLE 診斷分類標準中，其主要與乾燥症或新生兒狼瘡相關，因此對確診 SLE 幫助最小。\n\n【選項詳解】\n- A. 錯誤。抗核抗體（ANA）是診斷 SLE 的入門篩檢指標，敏感度極高（>95-98%）。在 2019 EULAR/ACR 標準中，ANA 必須呈陽性（>= 1:80）才能繼續評估其餘分類項目，故對確診幫助極大。\n- B. 錯誤。第四補體（C4）的降低代表補體系統被活化消耗，在 SLE 分類標準中屬於重要的免疫學評分指標，且補體下降常反映疾病活性（特別是狼瘡腎炎），對確診與活性追蹤皆極具價值。\n- C. 錯誤。全血球計數與血球分類（CBC with DC）可評估病患是否具有 SLE 診斷標準中的血液學異常，包括自體免疫性溶血性貧血、白血球減少症（WBC < 4,000/μL）、淋巴球減少症（< 1,000/μL）或血小板減少症（< 100,000/μL）。\n- D. 正確。抗 SSA 抗體（anti-SSA/Ro）雖然在約 30% 的 SLE 病患中呈陽性，但其臨床特異性主要關聯於乾燥症（Sjögren's syndrome）及新生兒狼瘡。在現行的 SLE 分類診斷標準中，並未將 anti-SSA 列為主要的免疫學診斷抗體（主要採用 anti-dsDNA、anti-Sm 及抗磷脂抗體），因此對確診 SLE 的直接幫助最小。\n\n【核心考點】\n在 SLE 診斷標準中，ANA 是必備篩檢入口，低補體（C3/C4）與血球減少是核心指標；抗 SSA 抗體主要與乾燥症及新生兒狼瘡相關，在 SLE 分類標準中非主要診斷抗體，對確診 SLE 的直接診斷權重最小。",
-        "key_point": "在 SLE 診斷標準中，ANA 是必備篩檢入口，低補體（C3/C4）與血球減少是核心指標；抗 SSA 抗體對確診 SLE 的直接特異性與診斷權重最低。",
-        "flashcard_front": "全身性紅斑性狼瘡 (SLE) / 診斷標準中抗 SSA 抗體之角色",
-        "flashcard_back": "抗 SSA (Ro) 抗體主要與乾燥症及新生兒狼瘡相關，在 SLE 分類標準中非主要診斷抗體，對確診 SLE 的直接診斷權重最小。",
-        "flashcard_summary": "SLE診斷指標 -> ANA、低補體及血球低下為核心標準，抗SSA抗體診斷權重最小。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_034",
-        "question_number": 34,
-        "explanation": "【題幹解析】\n該40歲女性有顯著的多發癌症家族史（包含乳癌、淋巴癌、結腸癌），雖然其姑媽（父系）的 BRCA-1 和 BRCA-2 檢測為陰性，但這僅排除 BRCA-1/2 的突變。遺傳性乳癌及其他遺傳性癌症綜合症（如 Li-Fraumeni 症候群、Lynch 症候群）還可能與許多其他抑癌基因（如 TP53, PTEN, PALB2, CHEK2, ATM 等）突變相關，因此應考慮進行 BRCA-1 及 BRCA-2 以外的基因檢測。\n\n【選項詳解】\n- A. 錯誤。雖然兩位姑媽（父系親屬）的 BRCA-1/2 基因檢測為陰性，但相關的癌症易感基因突變仍有可能是從父親那邊遺傳過來（如父親患有淋巴癌，堂兄患有結腸癌，暗示可能存在其他抑癌基因的突變）。遺傳性癌症基因可經由父系或母系雙方遺傳。\n- B. 錯誤。即使是遺傳性乳癌高危險群，常規的乳癌篩檢推薦每年接受乳房磁振造影（MRI）與乳房攝影（mammography）檢查。正子攝影（PET scan）具有高輻射劑量且對無症狀早期乳癌的篩檢敏感度不足，不用於常規篩檢。\n- C. 正確。遺傳性乳癌與卵巢癌綜合症除了 BRCA-1 和 BRCA-2 之外，還與 TP53（Li-Fraumeni 症候群）、PTEN（Cowden 症候群）、PALB2、ATM、CHEK2 等多個基因突變相關。當家族中存在多發癌症且 BRCA1/2 為陰性時，應考慮使用多基因面板（multi-gene panel）進行更廣泛的篩檢。\n- D. 錯誤。預防乳癌的化學預防藥物，如選擇性雌激素受體調節劑（SERM，如 tamoxifen）或芳香環轉化酶抑制劑（AI，如 exemestane），雖可用於降低高風險女性的乳癌風險，但芳香環轉化酶抑制劑主要建議用於「停經後」女性。本病患僅 40 歲，仍處於停經前，不適合首選 AI。\n\n【核心考點】\n乳癌及其他遺傳性癌症的基因諮詢中，單純 BRCA-1/2 陰性不能完全排除其他抑癌基因突變（如 TP53, PTEN, PALB2 等）。對於多發癌症家族史者，應考慮擴展多基因面板（multi-gene panel）檢測。停經前女性預防乳癌化學預防藥物首選為 SERM (如 Tamoxifen)，而非 AI (Aromatase inhibitors)。",
-        "key_point": "乳癌家族中 BRCA-1/2 陰性不能排除其他遺傳性癌症基因（如 TP53, PTEN, PALB2）突變，應考慮擴展多基因面板（multi-gene panel）檢測。",
-        "flashcard_front": "遺傳性乳癌諮詢 / BRCA-1/2 陰性之意義",
-        "flashcard_back": "家族中BRCA-1/2檢測陰性仍無法排除其他高/中外顯率抑癌基因（如TP53、PTEN、PALB2）突變，應考慮進行多基因面板檢測。",
-        "flashcard_summary": "遺傳性乳癌篩檢 -> BRCA陰性且有顯著家族史者，應考慮多基因面板（multi-gene panel）檢測。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_035",
-        "question_number": 35,
-        "explanation": "【題幹解析】\nEGFR（HER1）與 HER2 皆屬於受體酪胺酸激酶 ErbB 家族，其過度表達或突變主要見於「上皮細胞」來源的惡性腫瘤（carcinoma）。例如肺腺癌常有 EGFR 突變，結腸癌可使用抗 EGFR 單株抗體，乳癌常有 HER2 擴增。然而，腸平滑肌惡性肉瘤（leiomyosarcoma）是來自「間葉組織（mesenchymal tissue）」的惡性肉瘤（sarcoma），其增殖機轉與 EGFR/HER2 通路無關，因此不適用此類標靶治療。\n\n【選項詳解】\n- A. 錯誤。大腸直腸癌（結腸癌）常使用抗 EGFR 單株抗體（如 Cetuximab、Panitumumab）進行標靶治療，前提是腫瘤基因檢測為 KRAS/NRAS/BRAF 野生型（wild-type）。\n- B. 錯誤。非小細胞肺癌（特別是肺腺癌）中，EGFR 突變是非常常見的驅動突變，第一線治療常使用小分子 EGFR 酪胺酸激酶抑制劑（EGFR TKI，如 Gefitinib、Afatinib、Osimertinib）。\n- C. 正確。腸平滑肌惡性肉瘤（intestinal leiomyosarcoma）屬於軟組織肉瘤（soft tissue sarcoma），源於間葉組織（非上皮組織），其增殖與轉移不依賴 EGFR 或 HER2 信號通路，臨床上 EGFR 相關標靶治療對其無療效。\n- D. 錯誤。乳癌中約有 15-20% 屬於 HER2 陽性（HER2 為 EGFR 家族成員，即 ErbB2），臨床上會使用抗 HER2 單株抗體（如 Trastuzumab, Pertuzumab）或抗體藥物複合體（ADC，如 T-DM1, T-DXd）進行標靶治療。\n\n【核心考點】\nEGFR (HER1) 與 HER2 標靶藥物主要應用於「上皮來源」的惡性腫瘤（如肺腺癌、結腸癌、乳癌）。間葉組織來源的肉瘤（如平滑肌肉瘤）不適用此類標靶治療。",
-        "key_point": "EGFR (HER1) 與 HER2 標靶藥物主要應用於上皮細胞來源的惡性腫瘤，間葉組織來源的肉瘤（如平滑肌肉瘤）不適用此類治療。",
-        "flashcard_front": "EGFR/HER2 標靶治療 / 肉瘤 (Sarcoma) 之適用性",
-        "flashcard_back": "EGFR與HER2標靶主要用於上皮源性癌症（如肺癌、結腸癌、乳癌），間葉組織源的肉瘤（如平滑肌肉瘤）不依賴此通路，故不適用。",
-        "flashcard_summary": "EGFR標靶適應症 -> 適用於上皮源性惡性腫瘤，間葉組織來源之肉瘤不適用。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_036",
-        "question_number": 36,
-        "explanation": "【題幹解析】\n標靶治療藥物 Imatinib（商品名 Gleevec）是歷史上第一個研發成功的小分子酪胺酸激酶抑制劑（TKI）。它主要作用於 Bcr-Abl 融合蛋白，該蛋白是由於第9號與第22號染色體易位（費城染色體，Philadelphia chromosome）所產生的異常融合激酶，為慢性骨髓性白血病（CML）的核心致病機轉。Imatinib 同時還能抑制 c-Kit 與 PDGFR。\n\n【選項詳解】\n- A. 正確。Imatinib 主要特異性抑制費城染色體產生的 Bcr-Abl 融合蛋白之酪胺酸激酶活性，阻斷下游的異常增殖信號，因此成為治療慢性骨髓性白血病（CML）的一線藥物。此外，它也能抑制 c-Kit，故常用於治療胃腸道基質瘤（GIST）。\n- B. 錯誤。PML-RARα 是第15號與第17號染色體易位產生的融合蛋白，見於急性前骨髓性白血病（APL，AML-M3）。其標靶治療藥物主要是全反式維甲酸（ATRA）與三氧化二砷（ATO），而非 imatinib。\n- C. 錯誤。NF-κB 是一種調控免疫與發炎反應的轉錄因子。雖然在多種癌症中異常活化，但 Imatinib 並不是 NF-κB 的抑制劑（臨床上有些蛋白酶體抑制劑如 Bortezomib 會間接影響 NF-κB 通路）。\n- D. 錯誤。EGFRα（或一般指 EGFR）的抑制劑包括 gefitinib、erlotinib、afatinib、osimertinib 等小分子 TKI，以及 cetuximab 等單株抗體。Imatinib 並不抑制 EGFR。\n\n【核心考點】\nImatinib (Gleevec) 是針對 Bcr-Abl 融合蛋白的酪胺酸激酶抑制劑，是費城染色體陽性 CML 的首選藥物；它同時也能抑制 c-Kit，可用於治療胃腸道基質瘤 (GIST)。",
-        "key_point": "標靶藥物 Imatinib 是針對 Bcr-Abl 融合蛋白的酪胺酸激酶抑制劑，是治療 CML 的一線藥物，同時能抑制 c-Kit 用於治療 GIST。",
-        "flashcard_front": "Imatinib (基利克) / 主要作用標靶",
-        "flashcard_back": "Imatinib為酪胺酸激酶抑制劑，主要抑制費城染色體產生的Bcr-Abl融合蛋白（用於CML），以及c-Kit受體（用於GIST）。",
-        "flashcard_summary": "Imatinib作用靶點 -> 抑制Bcr-Abl（治療CML）與c-Kit（治療GIST）。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_037",
-        "question_number": 37,
-        "explanation": "【題幹解析】\n狼瘡抗凝血因子（Lupus anticoagulant, LA）是一種抗磷脂抗體（antiphospholipid antibody）。雖然在試管內（in vitro）它會干擾磷脂質，導致以磷脂質為基礎的凝血時間（如 aPTT）延長；但在體內（in vivo），它實際上會促進血小板活化與凝血反應，引發高凝狀態（易造成動靜脈血栓、流產，而「非」出血傾向）。當病患的 aPTT 延長時，進行混合試驗（Mixing test，將患者血漿與正常血漿 1:1 混合）：若是凝血因子缺乏，補入正常血漿後 aPTT 會被矯正至正常；但因 LA 是一種「抗體/抑制物（inhibitor）」，它會繼續中和正常血漿中的磷脂質與因子，因此混合試驗中 aPTT「不會」變為正常（即無法被矯正）。此外，LA 也常見於非 SLE 患者（如原發性抗磷脂抗體症候群），並會與 VDRL 試劑中的心脂質（cardiolipin）發生交叉反應，導致梅毒血清試驗偽陽性。\n\n【選項詳解】\n- A. 錯誤。狼瘡抗凝血因子（LA）在體內的作用是促進血栓形成（Prothrombotic），因此病患臨床上主要表現為血管栓塞或習慣性流產，通常沒有出血傾向，此敘述正確。\n- B. 正確。LA 會與試劑中的磷脂結合而使體外 aPTT 延長。在混合試驗（Mixing study）中，由於 LA 是一種循環抑制物（circulating inhibitor/antibody），會中和混合進來的正常凝血因子/磷脂，因此 aPTT 仍會維持延長，無法被矯正（corrected）至正常範圍。故「會變為正常」的描述是錯誤的。\n- C. 錯誤。LA 不僅見於全身性紅斑性狼瘡（SLE）患者，也常見於「原發性抗磷脂抗體症候群（Primary Antiphospholipid Syndrome）」，或因藥物、感染所誘發的短暫陽性，因此非 SLE 患者也可能出現，此敘述正確。\n- D. 錯誤。抗磷脂抗體（包括 LA 與抗心脂抗體 anticardiolipin antibody）會與梅毒篩檢試劑（如 VDRL、RPR）中的心脂質抗原產生交叉反應，導致梅毒血清試驗呈現「生物性偽陽性」，此敘述正確。\n\n【核心考點】\n狼瘡抗凝血因子 (LA) 在體內會促進血栓，但在體外會導致 aPTT 延長。由於 LA 屬於循環抑制物 (inhibitor)，其引起的 aPTT 延長無法藉由混合試驗 (mixing study) 被矯正至正常。同時，它也常導致梅毒檢驗 (VDRL/RPR) 出現偽陽性。",
-        "key_point": "狼瘡抗凝血因子（LA）是循環抑制物而非因子缺乏，故其引起的 aPTT 延長在混合試驗（mixing study）中無法被矯正至正常。",
-        "flashcard_front": "狼瘡抗凝血因子 (LA) / 混合試驗 (Mixing Test) 反應",
-        "flashcard_back": "LA屬於循環磷脂結合抗體（抑制物），在混合正常血漿的試驗中，無法被正常因子稀釋矯正，aPTT仍會維持延長。",
-        "flashcard_summary": "狼瘡抗凝因子實驗室特徵 -> 體外aPTT延長且混合試驗無法矯正，體內則促血栓。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_038",
-        "question_number": 38,
-        "explanation": "【題幹解析】\n這名孕婦有月經量多、姐姐產後大出血的家族史，血液檢查顯示：血小板數量正常（275,000/μL），但出血時間（Bleeding time, BT）延長至 14 分（反映血小板黏附功能異常）；PT 正常（外在與共同路徑正常），但 aPTT 延長至 44 秒（內生性路徑異常）。臨床上，同時伴隨「血小板計數正常、出血時間延長、aPTT延長」的遺傳性出血疾病，最典型就是類血友病（von Willebrand disease, vWD）。這是因為 von Willebrand factor (vWF) 負責血小板與內皮細胞的黏附（vWF 缺乏導致 BT 延長），同時 vWF 也是第八因子（Factor VIII）的載體蛋白以穩定第八因子（vWF 缺乏導致第八因子濃度下降，進而使 aPTT 延長）。\n\n【選項詳解】\n- A. 錯誤。A 型血友病（Hemophilia A）是 X 染色體隱性遺傳疾病，主要發生在男性，其病原為第八凝血因子（Factor VIII）缺乏。血友病會導致 aPTT 延長，但其「出血時間（Bleeding time, BT）」與血小板功能正常，且典型臨床症狀為深部關節或肌肉出血，而非皮膚黏膜或月經出血。\n- B. 正確。類血友病（vWD）為最常見的遺傳性出血疾病，通常為體染色體顯性遺傳。vWF 的功能是協助血小板黏附至受損血管壁，並保護血中第八因子。缺乏 vWF 會同時導致血小板功能受損（表現為 bleeding time 延長、皮膚黏膜出血如月經量多）及第八因子減少（表現為 aPTT 延長），但血小板數量正常。\n- C. 錯誤。慢性肝炎（chronic hepatitis）若造成凝血功能異常，主要是因為肝臟合成凝血因子能力下降，通常會先引起「PT 延長」（因為第七因子半衰期最短，最先受影響），且常伴隨脾臟腫大導致的血小板低下，與本題 PT 正常、血小板正常的實驗室數據不符。\n- D. 錯誤。尿毒症（uremia）會因為尿毒素累積干擾血小板功能，導致出血時間（Bleeding time）延長，但尿毒症本身不會直接引起 aPTT 延長，且病患並無腎臟病病史，30 歲孕婦若有嚴重尿毒症，臨床上會有顯著的腎功能衰竭症狀，與本題情境不符。\n\n【核心考點】\n類血友病 (vWD) 是最常見的體染色體遺傳出血疾病，其特徵是血小板數量正常，但出血時間 (BT) 延長（vWF 媒介血小板黏附受阻）且 aPTT 延長（vWF 缺乏導致第八因子不穩定）。",
-        "key_point": "類血友病（vWD）是因 vWF 缺乏導致血小板黏附功能異常（BT延長）及第八因子不穩定（aPTT延長），但血小板數量與 PT 正常。",
-        "flashcard_front": "類血友病 (vWD) / 經典實驗室檢查特徵",
-        "flashcard_back": "表現為血小板數量正常，但出血時間（BT）延長（反映血小板功能受損）以及aPTT延長（反映第八因子濃度低下），PT則維持正常。",
-        "flashcard_summary": "類血友病實驗室診斷 -> 血小板數正常，出血時間(BT)與aPTT同時延長。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_039",
-        "question_number": 39,
-        "explanation": "【題幹解析】\n原發性肺癌（特別是位於肺尖的 Pancoast tumor）局部擴散時會侵犯周圍的神經結構。若侵犯「頸部交感神經節（星狀神經節 stellate ganglion）」，會導致 Horner 氏症候群；若侵犯「臂神經叢（C8、T1、T2）」，則會導致 Pancoast 症候群。而膈神經（phrenic nerve, C3-C5）受壓迫或侵犯會導致「橫膈膜麻痺（diaphragmatic paralysis）」，表現為患側橫膈上升及呼吸困難，與 Horner 氏症候群無關。\n\n【選項詳解】\n- A. 正確。Horner 氏症候群是由於「頸部交感神經鏈（特別是星狀神經節 stellate ganglion）」受到腫瘤侵犯或壓迫所致，並非由膈神經（phrenic nerve）麻痺引起。膈神經麻痺會導致同側橫膈上升及呼吸困難，兩者為完全不同的神經路徑。因此本敘述錯誤，為本題應選答案。\n- B. 錯誤。Horner 氏症候群的典型臨床四聯徵（tetrad）包括眼皮下垂（ptosis，瞼板肌無力）、瞳孔縮小（miosis，瞳孔放大肌無力）、無汗症（anhidrosis，交感泌汗受阻）及眼球陷沒（enophthalmos，因眼眶肌張力減退），此敘述正確。\n- C. 錯誤。Pancoast 症候群（又稱肺尖腫瘤症候群）是指肺癌長在肺尖（sulcus tumor）局部擴散，侵犯臂神經叢的下幹（主要是第8頸神經 C8、第1胸神經 T1 及第2胸神經 T2），此敘述正確。\n- D. 錯誤。由於 Pancoast 腫瘤壓迫 C8、T1 臂神經叢，此處神經支配手臂的尺側（ulnar side），因此典型症狀為同側肩膀劇烈疼痛，並向手臂內側（尺骨側）及無名指、小指放射，此敘述正確。\n\n【核心考點】\nHorner 氏症候群是因「交感神經鏈」受侵犯所致，表現為 miosis, ptosis, anhidrosis；Pancoast 症候群則是因肺尖癌壓迫「臂神經叢下幹 (C8-T2)」，導致肩痛並放射至手臂尺側。膈神經 (C3-C5) 麻痺則會造成橫膈提升而非 Horner 氏症候群。",
-        "key_point": "肺癌局部擴散侵犯頸交感神經鏈會導致 Horner 氏症候群；侵犯臂神經叢下幹（C8-T2）會導致 Pancoast 症候群。膈神經麻痺則導致橫膈上升。",
-        "flashcard_front": "肺癌局部擴散 / Horner 氏症候群 vs 膈神經麻痺",
-        "flashcard_back": "Horner氏症候群是因腫瘤侵犯「交感神經鏈（星狀神經節）」所致。膈神經（phrenic nerve）受損會導致同側橫膈上升，兩者路徑不同。",
-        "flashcard_summary": "肺部腫瘤神經壓迫 -> 交感神經鏈受損導致Horner氏症候群，膈神經受損導致橫膈上升。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    },
-    {
-        "question_id": "110-2_medicine-3_040",
-        "question_number": 40,
-        "explanation": "【題幹解析】\n膀胱癌（絕大多數為尿路上皮癌 urothelial carcinoma）的臨床特點是多發性與易復發。流行病學統計顯示，在初次診斷膀胱癌的病患中，約有 70% 到 80% 的患者屬於「非肌肉侵犯性膀胱癌（Non-muscle invasive bladder cancer, NMIBC）」，也就是臨床上所稱的表淺（superficial）型（包括 Ta, T1, Tis）。這類癌症通常可先經由尿道膀胱腫瘤切除術（TURBT）配合膀胱內藥物灌注治療，但極易復發。而初診斷即為肌肉侵犯型或轉移型者僅佔少數。\n\n【選項詳解】\n- A. 正確。初診斷膀胱癌時，約有 70-80% 的病例為表淺型（即非肌肉侵犯型，侷限在黏膜 Ta/Tis 或黏膜下層 T1）。這類腫瘤通常預後較佳，但復發率高。\n- B. 錯誤。平滑肌侵犯型（muscle-invasive，期別為 T2 以上）在初診斷時約佔 20-30%。此類型需要進行更具侵襲性的治療，例如根治性膀胱切除術（radical cystectomy）或全身性化學治療，並非最常見的初診斷期別。\n- C. 錯誤。轉移型（metastatic）膀胱癌在初診斷時非常罕見，比例通常小於 5-10%。雖然肺部是膀胱癌常見的遠端轉移部位之一，但絕非初次診斷時最常見的期別。\n- D. 錯誤。轉移至肝臟同樣屬於晚期轉移型（Stage IV），在初次確診膀胱癌的病患中僅佔極低比例，不符合最常見期別的流行病學分佈。\n\n【核心考點】\n初次診斷膀胱癌時，最常見的期別為非肌肉侵犯型 / 表淺型 (Non-muscle invasive / superficial bladder cancer，約佔 70-80%)，其預後較好但復發率高。",
-        "key_point": "初次診斷膀胱癌時，最常見的期別為表淺型（非肌肉侵犯性膀胱癌，約佔 70-80%），其預後較佳但復發率高。",
-        "flashcard_front": "膀胱癌 / 初次診斷最常見之臨床期別",
-        "flashcard_back": "初診斷膀胱癌時最常見的是表淺型（非肌肉侵犯型，侷限於黏膜或黏膜下層），約占所有病例的 70-80%。",
-        "flashcard_summary": "膀胱癌臨床期別 -> 初次診斷最常見為表淺型（非肌肉侵犯型，占70-80%）。",
-        "review_status": "ai_generated",
-        "explanation_model": "gemini-2.5-pro",
-        "explanation_generated_at": "2026-07-13T19:20:47+08:00",
-        "manual_review_notes": []
-    }
+  {
+    "question_id": "114-2_medicine-3_051",
+    "question_number": 51,
+    "explanation": "【題幹解析】\n本題詢問關於乳糜胸（chylothorax）特徵與診斷的正確敘述。乳糜胸是由於胸管（thoracic duct）受損或阻塞，導致含有高濃度三酸甘油酯與乳糜微粒的淋巴液蓄積於胸膜腔中。\n\n【選項詳解】\n- A. 錯誤。乳糜胸胸水最具特徵性的生化檢測值是三酸甘油酯（triglyceride）大於 110 mg/dL，而非膽固醇（cholesterol）數值高於 110 mg/dL。膽固醇數值極高（通常大於 250 mg/dL）而三酸甘油酯低下，是「假性乳糜胸（pseudochylothorax）」的表現。\n- B. 正確。胸管受損（thoracic duct injury）是乳糜胸最常見的病因，臨床上主要以心胸外科手術或外傷等醫源性創傷（iatrogenic trauma）佔最大多數，其次則為淋巴瘤等非創傷性腫瘤壓迫。\n- C. 錯誤。乳糜液內富含乳糜微粒、甘油三酯、蛋白質及大量淋巴球，因此乳糜胸的胸水化學與細胞分析符合「滲出液（exudate）」的標準，而非濾出液（transudate）。\n- D. 錯誤。乳糜胸的治療初期應優先採取保守療法（如禁食、改用中鏈三酸甘油酯飲食、給予 octreotide 以減少淋巴液產生）及肋膜腔引流。若長期放置豬尾巴導管（pig-tail）引流，會造成淋巴液、蛋白質與免疫球蛋白大量流失，引發嚴重營養不良及免疫抑制。\n\n【核心考點】\n乳糜胸（Chylothorax）的診斷以胸水三酸甘油酯（TG）> 110 mg/dL 為金標準，本質上為滲出液。最常見原因為胸管受損（多見於胸腔手術等醫源性創傷）。治療首重減少淋巴回流，避免長期引流導致嚴重營養流失。",
+    "key_point": "乳糜胸的診斷標準為胸水三酸甘油酯 (TG) > 110 mg/dL，本質為滲出液，最常見於胸管手術或外傷等醫源性創傷。",
+    "flashcard_front": "乳糜胸 (chylothorax) 的診斷標準、胸水性質及最常見原因為何？",
+    "flashcard_back": "診斷標準：胸水三酸甘油酯 (TG) > 110 mg/dL；胸水性質：滲出液 (exudate)；最常見原因：胸管創傷 (thoracic duct trauma，多為手術等醫源性傷害)。",
+    "flashcard_summary": "乳糜胸 -> 診斷為 TG > 110 mg/dL，屬滲出液，最常見於胸管手術或創傷。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_052",
+    "question_number": 52,
+    "explanation": "【題幹解析】\n本題描述一位 70 歲男性有長期重度吸菸史，發現左下肺葉 2 公分腫瘤及左腎上腺 2 公分腫瘤。病患同時合併高血壓（約 160/95 mmHg）。對於這顆意外發現的腎上腺腫瘤（adrenal incidentaloma），首先必須評估其荷爾蒙分泌功能，特別是在進行任何侵入性處置前，必須先排除嗜鉻細胞瘤。\n\n【選項詳解】\n- A. 正確。在評估腎上腺意外瘤時，首要步驟為篩檢是否為功能性腫瘤。由於此病患有高血壓表現，必須先測量 24 小時尿液兒茶酚胺（catecholamine）、香草扁桃酸（VMA）或甲氧基腎上腺素類（metanephrines），以排除嗜鉻細胞瘤。\n- B. 錯誤。在未明確腎上腺腫瘤是否具有內分泌功能（特別是未排除嗜鉻細胞瘤）以及未釐清病理診斷前，直接安排手術切除是極具風險的，若為嗜鉻細胞瘤，可能在手術觸碰腫瘤時誘發嚴重的兒茶酚胺風暴。\n- C. 錯誤。細針穿刺細胞學檢查（FNA）常用於懷疑惡性腫瘤轉移的病人，但在進行任何腎上腺穿刺活檢之前，必須「絕對排除」嗜鉻細胞瘤。若對未經藥物準備的嗜鉻細胞瘤進行穿刺，會誘發大量兒茶酚胺釋放，引發致死性的高血壓危象。\n- D. 錯誤。病患左下肺葉有疑似惡性腫瘤，其腎上腺腫瘤有高度可能是轉移灶，若僅安排 3~6 個月後電腦斷層追蹤，會延誤癌症的分期診斷與治療時機，且無法評估該腫瘤是否有內分泌功能。\n\n【核心考點】\n面對新發現的腎上腺意外瘤（Adrenal incidentaloma），在進行細針穿刺（FNA）或手術切除前，必須優先通過 24 小時尿液 catecholamine、VMA 或 metanephrines 檢測來排除嗜鉻細胞瘤（Pheochromocytoma），以避免誘發致命性高血壓危象。",
+    "key_point": "評估腎上腺意外瘤時，手術或細針穿刺前必須優先檢測兒茶酚胺或 VMA 以排除嗜鉻細胞瘤，避免高血壓危象。",
+    "flashcard_front": "評估腎上腺意外瘤 (adrenal incidentaloma) 時，在手術或細針穿刺前，最重要的生化篩檢為何？",
+    "flashcard_back": "必須先測量 24hr 尿液兒茶酚胺 (catecholamine)、VMA 或 metanephrines 以排除嗜鉻細胞瘤 (pheochromocytoma)，防止穿刺或手術誘發致死性高血壓危象。",
+    "flashcard_summary": "腎上腺意外瘤 -> 手術/穿刺前必先排除嗜鉻細胞瘤 (測 24hr 尿液 catecholamine/VMA)。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_053",
+    "question_number": 53,
+    "explanation": "【題幹解析】\n本題詢問治療肢端肥大症（acromegaly）時，能最有效同時降低生長素（GH）和類胰島素生長因子-I（IGF-I）的藥物。肢端肥大症多因垂體腺瘤過度分泌生長激素所致，藥物治療首選能直接作用於垂體受體並抑制其分泌的藥物。\n\n【選項詳解】\n- A. 錯誤。Cabergoline 是多巴胺受體促效劑（dopamine agonist），在肢端肥大症患者中，只有少數人（約 20-30%）能達到 GH 和 IGF-I 的正常化，通常僅用於病情較輕、手術後殘餘腫瘤或合併分泌泌乳素的個案，療效不如體抑素類似物。\n- B. 錯誤。Pegvisomant 是生長激素受體拮抗劑（GH receptor antagonist），能非常有效地阻斷周邊的 GH 受體，從而顯著降低肝臟產生的 IGF-I。然而，它不會降低血中的生長素（GH）濃度，反而會因為阻斷負回饋機制而導致血中 GH 反饋性升高。\n- C. 正確。體抑素類似物（somatostatin analogues，如 octreotide、lanreotide）能結合垂體生長激素瘤上的 SSTR-2 與 SSTR-5 受體，直接且強力抑制生長素（GH）的合成與分泌，進而降低血中生長素與周邊 IGF-I 的濃度，是臨床上最有效降低這兩者的一線藥物。\n- D. 錯誤。Bromocriptine 亦為多巴胺受體促效劑，但其對於降低 GH 和 IGF-I 的臨床療效與耐受性皆劣於 cabergoline，目前在肢端肥大症的治療中已非首選。\n\n【核心考點】\n肢端肥大症（Acromegaly）藥物治療中，Somatostatin analogues (如 octreotide) 可直接抑制垂體腫瘤，同時降低 GH 與 IGF-I。GH 受體拮抗劑 (Pegvisomant) 雖能顯著降低 IGF-I，但不會降低（甚至會代償性升高）血中 GH 濃度。",
+    "key_point": "Somatostatin analogues (如 octreotide) 能直接抑制垂體腫瘤，同時降低 GH 與 IGF-I；而 GH 受體拮抗劑 (Pegvisomant) 僅能降低 IGF-I，無法降低 GH 濃度。",
+    "flashcard_front": "治療肢端肥大症，Somatostatin analogues 與 Pegvisomant 對於 GH 與 IGF-I 的降低效果有何主要差異？",
+    "flashcard_back": "Somatostatin analogues (如 octreotide) 可直接抑制垂體分泌，同時有效降低 GH 與 IGF-I；Pegvisomant 為 GH 受體拮抗劑，僅能降低 IGF-I，但血中 GH 濃度不會下降 (反而可能代償性升高)。",
+    "flashcard_summary": "肢端肥大症治療 -> 體抑素類似物同時降低 GH 與 IGF-I；Pegvisomant 只降 IGF-I (GH 不降)。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_054",
+    "question_number": 54,
+    "explanation": "【題幹解析】\n本題詢問通常在甲狀腺危象（thyrotoxic crisis / thyroid storm）時才會使用的藥物。甲狀腺危象是嚴重的甲狀腺機能亢進急症，臨床上需使用多種藥物（包括抗甲狀腺藥物、乙型阻斷劑、碘劑及皮質類固醇等）進行多靶點治療。本題經官方更正為全體給分（原標準答案為 D）。\n\n【選項詳解】\n- A. 正確（全體給分）。Propranolol 是非選擇性 $\\beta$ 受體阻斷劑，在甲狀腺危象中常用於控制嚴重心搏過速與交感神經亢進症狀，且高劑量時能抑制外周 T4 轉化為 T3。然而，Propranolol 也被極廣泛用於治療一般甲狀腺機能亢進的心悸症狀，並非僅在危象時才使用。\n- B. 正確（全體給分）。Propylthiouracil (PTU) 是硫醯胺類（thionamides）抗甲狀腺藥物，在甲狀腺危象中因能額外抑制外周 T4 轉換成 T3 而被列為首選。但它也是日常口服治療一般甲狀腺機能亢進（特別是妊娠早期）的常規一線用藥。\n- C. 正確（全體給分）。Carbimazole 為抗甲狀腺藥物前驅藥，在體內轉化為 methimazole 起效，主要用於日常甲亢的維持治療。由於它不能抑制周邊 T4 轉化為 T3，在甲狀腺危象中一般不作為首選，亦非危象專用。\n- D. 正確（全體給分，原標準答案）。Lugol's solution（盧戈氏溶液 / 碘液）富含無機碘，可利用 Wolff-Chaikoff 效應暫時性阻斷甲狀腺素的釋放。由於長期使用會產生逸脫效應（escape phenomenon）導致甲亢反彈惡化，故在臨床上通常僅限於甲狀腺危象的緊急控制，或是甲狀腺切除術前 7-10 天的短期術前準備以減少腺體充血，平時一般甲亢的維持治療中絕不長期使用。\n\n【核心考點】\n無機碘劑（如 Lugol's solution、SSKI）因具備暫時性抑制甲狀腺素釋放的作用，且長期使用會發生逸脫效應，因此臨床應用嚴格受限，通常僅在甲狀腺危象或 Graves' disease 術前準備等特殊緊急時機才會使用。一般甲亢則以 thionamides (如 methimazole, PTU) 及 $\\beta$-blockers 為主。",
+    "key_point": "無機碘劑 (如 Lugol's solution) 因具備 Wolff-Chaikoff 效應但有逸脫效應，臨床上僅限於甲狀腺危象與甲狀腺切除術前準備短期使用。",
+    "flashcard_front": "為什麼無機碘劑 (如 Lugol's solution) 通常僅在甲狀腺危象或術前準備時使用，而不做為一般甲亢的長期維持治療？",
+    "flashcard_back": "因為長期使用無機碘劑會產生逸脫效應 (escape phenomenon)，使抑制甲狀腺素合成與釋放的作用失效，導致甲亢反彈惡化。因此臨床僅限於危象緊急阻斷或術前減少腺體血管增生。",
+    "flashcard_summary": "無機碘劑 -> 因逸脫效應限於甲狀腺危象及術前準備短期使用，不可做為一般甲亢之長期藥物。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": [
+      "官方更正全體給分題（原標準答案為 D）。已在解析中詳細補充爭議原因與各選項臨床時機。"
+    ]
+  },
+  {
+    "id": "114-2_medicine-3_055",
+    "question_number": 55,
+    "explanation": "【題幹解析】\n本題評估關於糖尿病慢性併發症分類與病因敘述的適當性。糖尿病的慢性併發症主要分為微血管病變與大血管病變。本題經官方更正，答 C 或 D 或 CD 者均給分。\n\n【選項詳解】\n- A. 錯誤（非最不適當敘述，屬於正確描述）。糖尿病視網膜病變（diabetic retinopathy）是由於視網膜毛細血管周皮細胞流失與基底膜增厚，屬於非常典型的微血管病變（microvascular complication）。\n- B. 錯誤（非最不適當敘述，屬於正確描述）。冠狀動脈心臟病（coronary heart disease）涉及冠狀動脈等中大型動脈的粥狀硬化與阻塞，屬於典型的大血管病變（macrovascular complication）。\n- C. 正確（為不適當敘述）。糖尿病足病變（diabetic foot）的成因是多因素的，包含周邊神經病變（diabetic neuropathy，與微血管病變高度相關）、血管病變（特別是周邊動脈大血管病變 PAD）以及局部免疫下降易受感染。大血管病變造成的下肢缺血是糖尿病足難以癒合的主因，故說「不是大血管病變」顯然是錯誤的。\n- D. 正確（為不適當敘述）。慢性高血糖（chronic hyperglycemia）是否為大血管病變的「直接」原因，在臨床研究上曾有爭議。雖然高血糖會透過形成糖化終產物（AGEs）與阻礙內皮一氧化氮合成等途徑損害血管，但多個大型隨機臨床試驗（如 UKPDS、ACCORD、ADVANCE 等）顯示，嚴格控制血糖對降低大血管事件（如心肌梗塞、中風）的短期保護效果，遠不如對微血管病變顯著，且大血管病變深受高血壓、高血脂、抽菸等多重因子影響。因此「是否直接造成較無定論」在字義上具備學術爭議，亦被判定為可給分的選項。\n\n【核心考點】\n糖尿病足（Diabetic foot）的病因結合了微血管相關的神經病變與大血管相關的周邊動脈阻塞病變（PAD），缺血是大血管阻塞的直接後果。此外，嚴格控制血糖能顯著預防微血管病變，但對大血管併發症的預防則需結合血壓與血脂等多因子控制，單純控糖效果在臨床試驗中較具學術爭議。",
+    "key_point": "糖尿病足病變的成因包含周邊神經病變及大血管相關的周邊動脈病變 (PAD)；而血糖控制對於微血管併發症效果顯著，對大血管事件的直接預防則具爭議。",
+    "flashcard_front": "糖尿病足 (diabetic foot) 的病因結構為何？高血糖控制與微/大血管併發症的關係有何不同？",
+    "flashcard_back": "糖尿病足成因包含神經病變 (微血管相關) 與下肢血管阻塞 (大血管相關 PAD)。控制高血糖能顯著降低微血管病變 (如視網膜、腎病變) 的風險，但對大血管病變 (如心肌梗塞、周邊血管病變) 的預防則需合併控制血壓與血脂，單純控糖效果在大型試驗中較無定論。",
+    "flashcard_summary": "糖尿病併發症 -> 糖尿病足兼具神經與大血管病變；嚴格控糖對微血管預防極明確，對大血管則需多因子控制。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": [
+      "官方更正答 C 或 D 或 CD 均給分。已在解析中詳細拆解糖尿病足的多因子成因及血糖對大/微血管併發症的試驗爭議。"
+    ]
+  },
+  {
+    "id": "114-2_medicine-3_056",
+    "question_number": 56,
+    "explanation": "【題幹解析】\n本題詢問根據 NCEP: ATP III 的診斷標準，下列哪位男性成人符合代謝症候群（metabolic syndrome）個案。NCEP: ATP III 診斷標準規定，若符合定義的 5 項指標中的 3 項或以上，即可確診為代謝症候群。\n\n【選項詳解】\n- A. 錯誤。該男性僅符合 2 項指標：血壓偏高（$\ge$ 130/85 mmHg，此處為 132/78 mmHg）與三酸甘油酯過高（$\ge$ 150 mg/dL，此處為 190 mg/dL）。其腰圍為 89 cm（未達男性 > 102 cm 標準）、HDL-C 為 46 mg/dL（未低於男性 < 40 mg/dL 標準），而白蛋白尿並非 ATP III 診斷項目。\n- B. 錯誤。該男性僅符合 2 項指標：空腹血糖偏高（$\ge$ 100 mg/dL，此處為 109 mg/dL）與三酸甘油酯過高（$\ge$ 150 mg/dL，此處為 242 mg/dL）。其血壓未達標，且 BMI 與白蛋白尿均不是 ATP III 代謝症候群的診斷指標（診斷指標為腰圍而非 BMI）。\n- C. 正確。該男性共符合 4 項指標：(1) 腰圍 105 cm（達男性 > 102 cm 標準）；(2) 血壓 142/86 mmHg（達 $\ge$ 130/85 mmHg 標準）；(3) 空腹血糖 116 mg/dL（達 $\ge$ 100 mg/dL 標準）；(4) 三酸甘油酯 216 mg/dL（達 $\ge$ 150 mg/dL 標準）。因符合項目達 4 項（$\ge$ 3 項），診斷成立。其 HDL-C 42 mg/dL 則在男性正常範圍內（未低於 40 mg/dL）。\n- D. 錯誤。該男性僅符合 2 項指標：血壓偏高（$\ge$ 130/85 mmHg，此處為 146/88 mmHg）與空腹血糖偏高（$\ge$ 100 mg/dL，此處為 123 mg/dL）。其總膽固醇與 BMI 非診斷指標，HDL-C 46 mg/dL 亦未低於 40 mg/dL。\n\n【核心考點】\nNCEP: ATP III 代謝症候群診斷標準（男性）為以下 5 項中符合至少 3 項：(1) 腹部肥胖（腰圍 > 102 cm）；(2) 三酸甘油酯 $\ge$ 150 mg/dL；(3) HDL-C < 40 mg/dL；(4) 血壓 $\ge$ 130/85 mmHg；(5) 空腹血糖 $\ge$ 100 mg/dL。需注意 BMI、總膽固醇及白蛋白尿均非診斷指標。",
+    "key_point": "NCEP: ATP III 代謝症候群診斷標準規定，男性腰圍 > 102 cm、TG $\ge$ 150、HDL < 40、BP $\ge$ 130/85、空腹血糖 $\ge$ 100 mg/dL，符合三項以上即可診斷。",
+    "flashcard_front": "NCEP: ATP III 代謝症候群診斷標準中，男性的 5 項診斷指標與界限值分別 homes？",
+    "flashcard_back": "男性代謝症候群需符合以下 5 項中至少 3 項：\n1. 腰圍 (Waist circumference) > 102 cm (台灣國健署為 $\ge$ 90 cm)\n2. 三酸甘油酯 (TG) $\ge$ 150 mg/dL\n3. 高密度膽固醇 (HDL-C) < 40 mg/dL\n4. 血壓 $\ge$ 130/85 mmHg\n5. 空腹血糖 (Fasting glucose) $\ge$ 100 mg/dL\n(註：總膽固醇、BMI、白蛋白尿皆非診斷項目)",
+    "flashcard_summary": "代謝症候群診斷 (ATP III) -> 男腰 > 102cm, TG $\ge$ 150, HDL < 40, BP $\ge$ 130/85, 血糖 $\ge$ 100，符合三項診斷。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_057",
+    "question_number": 57,
+    "explanation": "【題幹解析】\n本題詢問下列何者最不可能導致低血糖（hypoglycemia）。解答時應先了解各個選項在生理病理或藥理機制上對血糖的影響。\n\n【選項詳解】\n- A. 正確（最不可能導致低血糖，其副作用為高血糖）。Thiazide 類利尿劑在臨床上的常見副作用是「高血糖」而非低血糖。其主要機制是利尿導致低血鉀，低血鉀會抑制胰臟 $\\beta$ 細胞釋放胰島素，並使周邊組織對胰島素的敏感性下降。\n- B. 錯誤。胰島素瘤（insulinoma）是分泌胰島素的胰臟神經內分泌腫瘤，腫瘤會不受調控地自主釋放大量內源性胰島素，是引發反覆空腹低血糖（Whipple's triad）的經典原因。\n- C. 錯誤。Glimepiride 是一種磺醯脲類（sulfonylurea）口服降血糖藥，主要是透過促進胰臟 $\\beta$ 細胞的胰島素分泌來降血糖。若服用過量，會造成胰島素過剩並引起嚴重且持續性的低血糖。\n- D. 錯誤。敗血症（sepsis）等重症患者中，由於全身性發炎反應導致葡萄糖消耗急劇增加，且常合併肝功能受損導致肝糖分解與糖質新生（gluconeogenesis）受阻，臨床上常會誘發非糖尿病性的重症低血糖。\n\n【核心考點】\n自發性低血糖的常見病因包括胰島素瘤、磺醯脲類藥物過量及重症（如敗血症導致糖質新生受阻與消耗增加）。而 Thiazide 類利尿劑的代謝副作用則為高血糖（機制與低血鉀抑制胰島素釋放相關）、高尿酸、高鈣以及低鈉、低鉀。",
+    "key_point": "Thiazide 類利尿劑的副作用為高血糖，其藉由低血鉀抑制胰島素分泌；而胰島素瘤、磺醯脲類過量及敗血症均會引發低血糖。",
+    "flashcard_front": "Thiazide 類利尿劑、胰島素瘤、Glimepiride 過量與敗血症對血糖的影響及機制有何不同？",
+    "flashcard_back": "1. Thiazide 類利尿劑：會導致高血糖。機制為低血鉀干擾胰島素釋放，並降低胰島素敏感性。\n2. 胰島素瘤 (insulinoma)：自主分泌大量胰島素導致空腹低血糖。\n3. Glimepiride (Sulfonylurea)：刺激胰島素分泌，過量會造成嚴重低血糖。\n4. 敗血症 (sepsis)：因發炎因子造成糖消耗量大增且抑制肝臟糖質新生，可引發重症低血糖。",
+    "flashcard_summary": "血糖影響因素 -> Thiazide 引起高血糖；胰島素瘤、磺醯脲類過量及敗血症則會引發低血糖。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_058",
+    "question_number": 58,
+    "explanation": "【題幹解析】\n本題描述一位 25 歲年輕男性（患有糖尿病數年，需靠注射胰島素控制血糖）因熬夜、壓力大且飲用含糖飲料，出現心悸、氣喘、噁心、嘔吐、腹痛與體重減輕。急診理學檢查顯示心跳 100 次/分、血壓 110/70 mmHg，隨機血糖為 560 mg/dL。此病史與臨床表現高度提示為糖尿病酮酸中毒（Diabetic Ketoacidosis, DKA）發作，這是一種因胰島素絕對或相對缺乏所致的內科急症。\n\n【選項詳解】\n- A. 錯誤（非不適當處置，屬於正確步驟）。懷疑 DKA 時，必須立即抽血檢測靜脈或動脈血氣分析（確認 pH 值與 $\\text{HCO}_3^-$ 以評估酸中毒程度）、血中電解質（特別是鉀離子，因胰島素治療會使鉀離子進入細胞內，需監測以防致命性低血鉀）及血糖。\n- B. 錯誤（非不適當處置，屬於正確步驟）。DKA 治療的兩大核心為：(1) 靜脈輸注大量生理食鹽水以矯正嚴重脫水與恢復血容量；(2) 靜脈點滴注射速效型胰島素以降低血糖並逆轉酮酸生成。\n- C. 正確（為不適當處置）。患者高血糖的原因是體內胰島素絕對或相對不足（常因熬夜壓力、喝含糖飲料、擅自停藥或感染誘發），**胰島素是治療 DKA 唯一能救命的降血糖藥物**，絕非「胰島素無效」，此時絕對不可停用胰島素或改用口服降糖藥，否則會使病情迅速惡化致死。\n- D. 錯誤（非不適當處置，屬於正確步驟）。DKA 屬於臨床重症，容易合併嚴重電解質紊亂、心律不整、腦水腫或休克，治療期間需要每 1 至 2 小時追蹤生化數值並精密調整輸液與藥物，因此必須安排病人住院密切治療與監測。\n\n【核心考點】\n糖尿病酮酸中毒 (DKA) 的發病機轉為胰島素絕對或相對不足，首要治療為大量靜脈輸液（補水）與靜脈點滴注射速效胰島素。胰島素是逆轉 DKA 的唯一關鍵藥物，不可改用口服降糖藥，且須密切追蹤血鉀以防止治療中發生致命低血鉀。",
+    "key_point": "糖尿病酮酸中毒 (DKA) 的治療首重大量靜脈補水與靜脈注射速效胰島素以逆轉酮酸生成，切不可改用口服降糖藥，且需嚴密監測並補充足夠的血鉀。",
+    "flashcard_front": "針對懷疑糖尿病酮酸中毒 (DKA) 的急診患者，其病因機轉與三大治療原則為何？",
+    "flashcard_back": "病因機轉：胰島素絕對或相對缺乏。\n治療原則：\n1. 大量靜脈點滴生理食鹽水，矯正嚴重脫水。\n2. 靜脈點滴速效胰島素，逆轉酮體生成 (絕不可改用口服藥)。\n3. 密切監測並補充電解質，特別是當血鉀低於 5.2 mEq/L 時需及時補鉀，以防胰島素使用後引發致命低血鉀。",
+    "flashcard_summary": "DKA 處理 -> 機轉為胰島素缺乏，治療為大量補水、靜脈點滴胰島素，以及密切監測/補充鉀離子。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_059",
+    "question_number": 59,
+    "explanation": "【題幹解析】\n本題詢問病毒性腦炎（viral encephalitis）病人的腦脊髓液（CSF）檢查報告中最不可能出現的結果。解答本題需將病毒性、細菌性、結核性或真菌性腦膜炎的 CSF 化學與細胞特徵進行鑑別。\n\n【選項詳解】\n- A. 錯誤（非最不可能出現，屬於可能出現的描述）。雖然多數病毒性腦膜炎的腦脊髓液中無紅血球，但某些會引起局部腦組織出血壞死的病毒性腦炎（最典型為單純皰疹病毒腦炎 HSV encephalitis，常造成雙側顳葉出血壞死），其腦脊髓液中常見紅血球數目增加。\n- B. 錯誤（非最不可能出現，屬於可能出現的描述）。病毒感染引起的腦膜發炎反應會導致血腦障壁通透性增加與發炎反應，使腦脊髓液中的蛋白質濃度輕度至中度增加（通常在 50 至 150 mg/dL 之間，但極少像細菌性腦膜炎那般高達數百 mg/dL）。\n- C. 錯誤（非最不可能出現，屬於可能出現的描述）。病毒性腦炎的典型 CSF 細胞反應為白血球數目中度增加（通常 < 1000 cells/$\mu$L），且分類上以單核球或淋巴球（lymphocytes）為主（雖然在感染極早期 24 小時內，可能短暫以嗜中性球為主，但隨後會迅速轉為淋巴球）。\n- D. 正確（為最不可能出現之結果）。在單純病毒性腦炎中，病毒通常不消耗葡萄糖，因此腦脊髓液的葡萄糖濃度大多正常，其與血液葡萄糖濃度的比值（CSF/serum glucose ratio）通常大於 0.6。若該比值顯著下降至小於 0.4，是細菌性、結核性或真菌性腦膜炎的特徵（因為這些病原體與大量嗜中性球會消耗葡萄糖）。\n\n【核心考點】\n腦脊髓液 (CSF) 鑑別診斷中，病毒性腦炎/腦膜炎的特徵為葡萄糖濃度正常 (CSF/serum ratio > 0.6) 且白血球以淋巴球為主。若比值小於 0.4 (葡萄糖顯著降低)，則強烈指向細菌、結核或真菌性腦膜炎。此外，HSV 腦炎因侵犯顳葉出血壞死，CSF 可見紅血球增加。",
+    "key_point": "病毒性腦炎的腦脊髓液 (CSF) 特徵為葡萄糖濃度正常 (CSF/serum ratio > 0.6)；若比值 < 0.4，則強烈提示為細菌性、結核性或真菌性腦膜炎。",
+    "flashcard_front": "如何從腦脊髓液 (CSF) 的葡萄糖比值 (CSF/serum ratio) 與細胞分類鑑別病毒性與細菌性腦膜炎/腦炎？",
+    "flashcard_back": "1. 病毒性腦炎/腦膜炎：CSF 葡萄糖正常 (CSF/serum ratio > 0.5-0.6)；白血球以淋巴球 (lymphocytes) 為主。\n2. 細菌性腦膜炎：CSF 葡萄糖顯著下降 (CSF/serum ratio < 0.4)；白血球顯著增加且以嗜中性球 (neutrophils) 為主。\n(註：HSV 腦炎可因顳葉壞死而使 CSF 出現紅血球。)",
+    "flashcard_summary": "CSF 鑑別 -> 病毒性：葡萄糖正常、以淋巴球為主；細菌/結核/真菌性：葡萄糖顯著降低 (<0.4)。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  },
+  {
+    "id": "114-2_medicine-3_060",
+    "question_number": 60,
+    "explanation": "【題幹解析】\n本題詢問下列何者最不可能傳播人類免疫不全病毒（HIV）。解答本題需理解 HIV 病毒在不同體液中的濃度分佈，以及其主要的生理傳播途徑。\n\n【選項詳解】\n- A. 錯誤。陰道性交（vaginal sex）是全球最普遍的 HIV 傳播途徑之一。體液（如精液、陰道分泌物）中的病毒能透過陰道或子宮頸黏膜的微小破損進入人體，若同時合併其他性傳染病（如梅毒、疱疹等造成黏膜潰瘍）會使風險倍增。\n- B. 錯誤。共用針頭（needle sharing）是效率極高的血液傳播途徑。靜脈注射毒品者共用針頭或針筒時，微量的殘留血液會直接進入下一個人的循環系統中，造成高機率的感染。\n- C. 正確。親吻（kissing）最不可能傳播 HIV。唾液中的 HIV 病毒量極低，不足以造成感染，且唾液中含有天然的抗病毒蛋白。除非雙方皆有嚴重的口腔黏膜大面積開放性出血傷口，否則一般的社交性接觸或親吻不具備傳播風險。\n- D. 錯誤。肛交（anal sex）是性行為中傳播 HIV 風險最高者，特別是對接受方（receptive partner）而言。直腸黏膜僅由單層柱狀上皮組成，且缺乏潤滑分泌，在摩擦中極易產生微小撕裂傷，使病毒輕易接觸黏膜下的毛細血管而造成感染。\n\n【核心考點】\n人類免疫不全病毒（HIV）的主要傳播途徑包括不安全行為（肛交風險最高，特別是接受方；其次為陰道性交）、血液接觸（共用針頭、輸入污染血品）及母子垂直感染。一般的日常社交接觸、共用餐具或親吻（因唾液中病毒載量極低且有抑制物質）在臨床上最不可能導致感染。",
+    "key_point": "HIV 的主要傳播途徑為不安全性行為 (其中肛交風險最高)、血液接觸 (如共用針頭) 與母子垂直傳播；親吻等唾液接觸在臨床上最不可能傳播。",
+    "flashcard_front": "HIV 的三大主要傳播途徑為何？為什麼親吻和一般的社交接觸不會傳播 HIV？",
+    "flashcard_back": "三大傳播途徑：不安全性行為 (肛交、陰道性交)、血液接觸 (共用針頭、針扎、污染血品)、母子垂直傳播。\n不透過親吻傳播原因：唾液中的 HIV 病毒量極低，且唾液含有可抑制病毒活性的酶。一般社交接觸或無出血傷口的親吻皆不具備臨床感染風險。",
+    "flashcard_summary": "HIV 傳播 -> 性行為 (肛交風險高)、血液與母子傳播為主；唾液中病毒量低，親吻不具傳播風險。",
+    "review_status": "ai_generated",
+    "explanation_model": "codex-high-quality-rewrite",
+    "explanation_generated_at": "2026-07-14T13:30:00+08:00",
+    "manual_review_notes": []
+  }
 ]
 
+# Write to the destination JSON
 output_data = {
-    "source_file": "public/data/exams/110-2/medicine-3.json",
-    "dataset_id": "110-2_medicine-3",
-    "range": { "start": 31, "end": 40 },
-    "updates": updates
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": { "start": 51, "end": 60 },
+  "updates": updates
 }
 
-output_path = r"d:\Antigravity\med_exam_public\scratch\rewrite_updates\110-2_medicine-3\q031-q040.json"
-os.makedirs(os.path.dirname(output_path), exist_ok=True)
+target_file = "scratch/rewrite_updates/114-2_medicine-3/q051-q060.json"
+os.makedirs(os.path.dirname(target_file), exist_ok=True)
 
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(output_data, f, indent=2, ensure_ascii=False)
+with open(target_file, "w", encoding="utf-8") as f:
+    json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-print("SUCCESS")
+print(f"Successfully generated {target_file}")

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-3.json",
+  "dataset_id": "114-2_medicine-3",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-3_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題探討家庭暴力與疑似兒虐受害者的臨床評估與處置方針與介入規範。在面對疑似受虐兒童或性侵害受害者時，必須依據醫學實證與法規進行精確的檢查與介入，以保障患者安全並留存法醫證據。\n\n【選項詳解】\n- A. 錯誤。臨床上，光憑觀察瘀傷的顏色演變（例如紅、紫、綠、黃）來估計傷害發生的時間是非常不可靠的。瘀傷顏色的改變受受損部位、皮下脂肪厚度、膚色及個體差異等多重因素影響，無法藉此「正確判斷」精確時間。\n- B. 正確。對於小於 2 歲的疑似受虐兒童，由於可能存在無臨床症狀的隱匿性骨折（如肋骨骨折或骨骺端骨折），指引建議進行全身骨骼 X 光檢查（skeletal survey），並在 2 至 3 週後重新追蹤，以利發現初期不明顯但隨後出現骨痂形成的骨折。\n- C. 錯誤。一歲以下的嬰兒即使神經學檢查完全正常，也不能排除顱內傷害（如虐待性腦傷 Abusive Head Trauma）。嬰兒的顱骨接縫尚未完全閉合，代償空間較大，早期可能無症狀，若高度懷疑受虐仍應進行頭部電腦斷層（CT）或核磁共振（MRI）評估。\n- D. 錯誤。性侵害後的緊急避孕措施中，口服 1.5 mg levonorgestrel 應在性接觸後的「72 小時（3 天）內」服用效果最佳，而非 7 天內。\n\n【核心考點】\n小於 2 歲的疑似兒虐案例應進行全面骨骼 X 光檢查，並於 2-3 週後追蹤以偵測隱匿性骨折。緊急避孕藥 levonorgestrel 需在 72 小時內服用。",
+      "key_point": "小於 2 歲的疑似兒虐案例應進行全面骨骼 X 光檢查，並於 2-3 週後追蹤以偵測隱匿性骨折。",
+      "flashcard_front": "疑似兒虐受害者的骨骼檢查與處置",
+      "flashcard_back": "對小於 2 歲的疑似受虐兒童，應開立全身骨骼 X 光檢查，並於 2-3 週後追蹤以偵測隱匿性骨折。",
+      "flashcard_summary": "疑似兒虐 -> 小於 2 歲應做全身骨骼 X 光（skeletal survey）並於 2-3 週後追蹤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題考查實證醫學（Evidence-Based Medicine, EBM）的證據等級排列。實證醫學將研究依其設計的科學嚴謹度與偏誤風險進行分級，從系統性回顧到專家意見，由高至低形成金字塔結構。\n\n【選項詳解】\n- A. 錯誤。排列順序不正確，此順序未將統合分析放在最高層級，亦將專家意見置於世代研究之前。\n- B. 正確。實證醫學證據等級由高到低依次為：3. 統合分析（Meta-analysis，匯集多項 RCT 數據）、1. 世代研究（Cohort study，前瞻或回顧性觀察研究）、4. 個案對照研究（Case-control study，回顧性尋找暴露史）、5. 個案報告（Case report，單一或少數病例描述）、2. 專家意見（Expert opinion，缺乏系統性實證支持）。因此正確排序為 3 -> 1 -> 4 -> 5 -> 2。\n- C. 錯誤。將世代研究置於統合分析之上是錯誤的，統合分析結合了隨機對照試驗的數據，證據等級高於觀察性的世代研究。\n- D. 錯誤。將專家意見置於個案對照與個案報告之前是錯誤的，專家意見在證據等級中屬於最底層。\n\n【核心考點】\n實證醫學證據等級由高至低為：系統性回顧/統合分析 ＞ 隨機對照試驗（RCT） ＞ 世代研究 ＞ 個案對照研究 ＞ 個案報告 ＞ 專家意見。",
+      "key_point": "實證醫學證據等級由高至低為：統合分析 ＞ 世代研究 ＞ 個案對照研究 ＞ 個案報告 ＞ 專家意見。",
+      "flashcard_front": "實證醫學（EBM）的證據等級排列",
+      "flashcard_back": "由高至低為：統合分析（meta-analysis）＞ 世代研究（cohort study）＞ 個案對照研究（case-control study）＞ 個案報告（case report）＞ 專家意見（expert opinion）。",
+      "flashcard_summary": "證據等級 -> 統合分析 > 世代研究 > 個案對照 > 個案報告 > 專家意見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題探討臨終譫妄（terminal delirium）的臨床處置。臨終譫妄是臨終病患常見的不可逆症狀，治療目標為減輕焦慮、躁動並提升病患的舒適度。本題經官方更正，答 A 或 C 或 AC 者均給分。\n\n【選項詳解】\n- A. 正確。非藥物治療是安寧緩和醫療的重要部分。在病床旁播放輕柔的音樂或宗教性唱誦，有助於提供平靜安詳的感官環境，能有效減輕臨終病人的焦慮與躁動。\n- B. 錯誤。對於處於臨終譫妄且生命僅剩數小時的病人，過度增加翻身頻率（如強行每兩小時翻身）反而會增加病人的痛苦與躁動。此時應以舒適護理為主，適度減少侵入性操作。\n- C. 正確。Lorazepam（Ativan）為短至中效的苯二氮平類（benzodiazepines）藥物，具備良好的鎮靜與抗焦慮作用。在病人出現極度躁動或臨終譫妄合併嚴重焦慮時，舌下給予 1-2 mg 可作為合理的緩解處置。\n- D. 錯誤。治療臨終譫妄的抗精神病藥物（如 haloperidol 或 olanzapine）應由「低劑量」開始使用並緩慢滴定，不應直接使用「高劑量」。此外，GABA agonist 並非處理此類幻覺與躁動的首選藥物。\n\n【核心考點】\n臨終譫妄的照護重點在於舒適護理。非藥物處置（如平靜環境、音樂）與合理使用苯二氮平類藥物（如 lorazepam）皆為臨床認可的適當舒緩方式。",
+      "key_point": "臨終譫妄的處置應結合非藥物支持（如音樂與安靜環境）及藥物鎮靜（如使用 lorazepam），以舒適照護為首要目標。",
+      "flashcard_front": "臨終譫妄（terminal delirium）的處置方針",
+      "flashcard_back": "以舒適照護為優先，非藥物處置（播音樂/宗教唱誦）或給予苯二氮平類藥物（lorazepam 1-2 mg 舌下）皆為適當處置（官方多重給分 A 或 C）。",
+      "flashcard_summary": "臨終譫妄 -> 以舒適為重，可使用非藥物支持（音樂）或藥物鎮靜（lorazepam），應避免頻繁翻身打擾。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考查主動脈疾病（主動脈瘤、主動脈擴張）的影像學診斷特徵與評估工具的選擇。臨床上必須針對不同的解剖位置與病變嚴重度，選擇最適合的影像學工具進行確診與後續評估。\n\n【選項詳解】\n- A. 錯誤。主動脈瘤多數與嚴重的動脈粥狀硬化（atherosclerosis）相關，因此在主動脈瘤病變處，常常可以觀察到主動脈管壁出現明顯的鈣化（calcification）表現。\n- B. 錯誤。一般經胸部體表超音波（TTE）由於受限於骨骼與肺部氣體的阻擋，對於主動脈弓及降主動脈的評估視窗非常受限，無法進行良好的完整評估，常需借助食道超音波（TEE）或電腦斷層。\n- C. 正確。電腦斷層血管攝影（CTA）是診斷胸主動脈瘤（Thoracic Aortic Aneurysm）最主要且最精確的影像工具，能清楚顯示動脈瘤的大小、範圍、分支血管受累情形及有無血栓。\n- D. 錯誤。輕微的主動脈擴張在一般的胸部或腹部 X 光檢查中很難被發現，因為 X 光為二維重疊影像，解析度不足以診斷早期或輕微的管徑變化，需依賴超音波、CT 或 MRI。\n\n【核心考點】\n電腦斷層血管攝影（CTA）是胸主動脈瘤最主要且最準確的診斷工具。體表超音波受限於音窗，難以良好評估主動脈弓與降主動脈。",
+      "key_point": "胸主動脈瘤最主要且準確的診斷工具是電腦斷層血管攝影（CTA）。",
+      "flashcard_front": "胸主動脈瘤的首選診斷影像工具",
+      "flashcard_back": "電腦斷層（CT/CTA）是胸主動脈瘤最主要的診斷工具，可精確測量管徑並顯現解剖細節。",
+      "flashcard_summary": "胸主動脈瘤 -> 電腦斷層（CT）為最主要診斷工具；一般體表超音波對主動脈弓及降主動脈評估效果差。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題藉由臨床表徵與影像學特徵診斷兒童急腹症。12 歲兒童出現近三日未解便、排出「黏液狀排泄物」（提示 currant jelly stool），且腹部超音波顯示特徵性病變，應高度懷疑腸套疊。\n\n【選項詳解】\n- A. 錯誤。急性闌尾炎在超音波下的特徵性表現為盲端、無蠕動、且直徑大於 6 mm 的闌尾管狀構造（橫切面亦有 target sign），但其臨床表現多為轉移性右下腹痛與發燒，且不以解出黏液狀排泄物為特徵性表現。\n- B. 錯誤。腹股溝疝氣主要表現為腹壁或腹股溝處的可還納性腫塊，超音波會顯示腸管或網膜脫出至腹壁缺損之外，與腹腔內的套疊同心圓影像不符。\n- C. 錯誤。惡性大腸癌在 12 歲兒童極罕見，且超音波影像與黏液便的急性病程高度指向腸道套疊，而非腫瘤引起的阻塞。\n- D. 正確。腸套疊（Intussusception）常伴隨腹痛、便秘及解出像紅紫色果醬般的黏液血便（currant jelly stool）。腹部超音波橫切面呈現特徵性的「同心圓徵」（target sign）或「甜甜圈徵」（doughnut sign），縱切面呈現「偽腎臟徵」（pseudokidney sign），完全符合本題的臨床與影像描述。\n\n【核心考點】\n腸套疊在腹部超音波的特徵性表現為橫切面的「同心圓徵/甜甜圈徵」（target sign/doughnut sign）與縱切面的「偽腎臟徵」（pseudokidney sign），臨床常伴隨黏液血便。",
+      "key_point": "腸套疊在超音波橫切面呈現「同心圓徵/甜甜圈徵」（target sign/doughnut sign），臨床特徵性表徵包括黏液血便。",
+      "flashcard_front": "腸套疊（Intussusception）的超音波特徵",
+      "flashcard_back": "超音波橫切面呈現「同心圓徵」或「甜甜圈徵」（target sign / doughnut sign），縱切面呈現「偽腎臟徵」（pseudokidney sign）。",
+      "flashcard_summary": "腸套疊 -> 超音波特徵為同心圓徵（target sign），臨床症狀包括腹痛與黏液便（currant jelly stool）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考查孕婦復甦急救（Maternal Resuscitation）與急症處置的生理基礎與臨床指引。孕婦由於增大的子宮壓迫下腔靜脈以及孕期生理變化，其急救與氣道處置均有其特殊原則。\n\n【選項詳解】\n- A. 錯誤。在心跳停止的孕婦執行心肺復甦術（CPR）時，不再建議將病患置於左側躺（left lateral tilt），因為這會降低胸外按壓的質量與效率。最新指引建議維持「平躺（supine）」，並由施救者實施「手動子宮左偏（manual left uterine displacement, LUD）」以解除大血管壓迫。\n- B. 錯誤。Amiodarone 在孕期分類為 FDA D 級藥物，會通過胎盤屏障，可能導致胎兒甲狀腺功能異常、生長遲緩及心搏過緩，在孕婦心房顫動的心律控制中非首選藥物（通常選用 beta-blocker、digoxin，或於生命徵象不穩時進行電擊去顫）。\n- C. 正確。孕婦進行快速順序插管（RSI）時，所使用的誘導藥物及肌肉鬆弛劑（如 succinylcholine）劑量，應依據其實際體重計算，其藥物「每公斤體重劑量」與一般成人相同，不需要刻意調低首劑劑量。\n- D. 錯誤。對於懷孕 20 週以上的孕婦，妊娠子宮會顯著壓迫下腔靜脈。若從股靜脈（femoral vein）注射藥物，藥物會滯留在膈膜以下，難以進入體循環發揮作用。因此，靜脈注射途徑應優先選擇「膈膜以上」的靜脈（如上肢或頸靜脈）。\n\n【核心考點】\n孕婦 CPR 應採平躺並配合手動子宮左偏（LUD）以維持按壓品質；20週以上孕婦急救給藥應選擇隔膜以上靜脈；Amiodarone 具胎兒毒性非孕婦心律不整首選。",
+      "key_point": "孕婦 CPR 應採平躺並實施手動子宮左偏（LUD），給藥應優先選擇膈膜以上靜脈，RSI 插管藥物每公斤劑量與成人相同。",
+      "flashcard_front": "孕婦復甦急救（CPR）與給藥原則",
+      "flashcard_back": "1. 採平躺並實施手動子宮左偏（LUD）。2. 靜脈給藥應在膈膜以上（避開下腔靜脈壓迫）。3. 插管（RSI）藥物每公斤劑量與一般成人相同。",
+      "flashcard_summary": "孕婦急救 -> 平躺+手動子宮左偏（LUD）；給藥限膈膜以上靜脈；RSI 藥物劑量與成人相同。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題考查大量傷患檢傷分類中的 START（Simple Triage and Rapid Treatment，簡單檢傷及快速治療）原則。檢傷分類旨在資源有限的情況下，依據呼吸、循環與意識狀態將病人分類，以優先救治存活機率高的重傷者。\n\n【選項詳解】\n- A. 錯誤。此順序錯誤地將 1（無脈搏且頭部嚴重變形，已死亡，屬黑標）放在第一優先。在 START 中，黑標病患的救治順序為最後。\n- B. 正確。根據 START 原則評估這四位病人：\n  - 病人 2：大腿開放性骨折且「橈動脈微弱」，代表循環灌流受損，屬於**紅標（Immediate，第一優先）**。\n  - 病人 4：左小腿變形但心跳正常、生命徵象穩定且無法行走，屬於**黃標（Delayed，第二優先）**。\n  - 病人 3：多處擦傷但「可正常行走」，屬於輕傷的**綠標（Minor，第三優先）**。\n  - 病人 1：無脈搏且頭部嚴重變形，已無生命跡象，屬於**黑標（Deceased，最後或不予救治）**。\n  因此，優先順序為 2（紅）-> 4（黃）-> 3（綠）-> 1（黑），即 2431。\n- C. 錯誤。此順序誤將 1（黑標）排在 3（綠標）之前。黑標在現場資源有限時，優先級為最低。\n- D. 錯誤。此順序完全倒置，將已死亡的黑標（1）置於首位，而將最需立即救治的紅標（2）延後。\n\n【核心考點】\nSTART 檢傷分類分級：紅標（立即治療） ＞ 黃標（延遲治療） ＞ 綠標（輕傷自行行走） ＞ 黑標（死亡/瀕死）。循環受損（橈動脈微弱）屬紅標；無脈搏且嚴重頭外傷屬黑標。",
+      "key_point": "START 檢傷分類優先順序為：紅標（立即，如循環異常） ＞ 黃標（延遲，骨折但生命徵象穩） ＞ 綠標（輕傷可自行行走） ＞ 黑標（死亡/無脈搏）。",
+      "flashcard_front": "大量傷患 START 檢傷分類排序",
+      "flashcard_back": "優先順序：紅標（Immediate，如橈動脈微弱） ＞ 黃標（Delayed，如骨折但生命徵象穩） ＞ 綠標（Minor，能行走者） ＞ 黑標（Deceased，無脈搏/呼吸）。",
+      "flashcard_summary": "START 檢傷 -> 紅標（立即） > 黃標（延遲） > 綠標（輕傷） > 黑標（死亡）。橈動脈微弱為紅標；可行走為綠標。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考查心跳停止（ACLS）之可逆原因評估。一位洗腎病患出現胸痛及無脈搏心電活動（PEA）/ 意識不清，臨床上必須快速檢索 ACLS 指引中的 5Hs & 5Ts，找出最可能的心血管可逆原因。\n\n【選項詳解】\n- A. 錯誤。高血鉀（Hyperkalemia）是 5Hs 之一，也是末期腎病變（ESRD）病患最常見且危及生命的併發症。高血鉀常導致心跳停止或嚴重的緩慢心律不整，是臨床上必須首要考量與排除的可逆原因。\n- B. 錯誤。低體溫（Hypothermia）is 5Hs 之一，屬於 ACLS 可逆原因中必須列入鑑別的項目。\n- C. 錯誤。急性冠心症（Coronary thrombosis）是 5Ts 之一。此病患發病前主訴「胸部不適」，且透析病患本身為心血管疾病之極高風險族群，因此必須高度懷疑為心肌梗塞所致的心跳停止。\n- D. 正確。高血糖（Hyperglycemia）「不屬於」ACLS 5Hs & 5Ts 中列出的直接可逆原因。5Hs 包括低血容、缺氧、酸中毒、高/低血鉀及低體溫；雖然嚴重高血糖可能誘發酸中毒或脫水，但高血糖本身並非指引列出的直接可逆因子。\n\n【核心考點】\nACLS 心跳停止的十個可逆原因（5Hs & 5Ts）：低血容、缺氧、酸中毒、高/低血鉀、低體溫；張力性氣胸、心包填塞、毒素、肺栓塞、冠狀動脈血栓（急性冠心症）。高血糖不在此列。",
+      "key_point": "高血糖不屬於 ACLS 心跳停止的 5Hs & 5Ts 直接可逆原因；高血鉀、低體溫與急性冠心症則皆在其中。",
+      "flashcard_front": "ACLS 心跳停止的可逆原因（5Hs & 5Ts）",
+      "flashcard_back": "- 5Hs：Hypovolemia（低血容）、Hypoxia（缺氧）、Hydrogen ion（酸中毒）、Hypo-/Hyperkalemia（高低血鉀）、Hypothermia（低體溫）。\\n- 5Ts：Tension pneumothorax（張力性氣胸）、Tamponade（心包填塞）、Toxins（毒素）、Thrombosis pulmonary（肺栓塞）、Thrombosis coronary（冠狀動脈血栓/急性冠心症）。\\n*高血糖不在其中。",
+      "flashcard_summary": "5Hs & 5Ts -> 高血鉀、低體溫（5Hs）及急性冠心症（5Ts）是可逆原因；高血糖不是 ACLS 列出的直接可逆原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考查醫學倫理與醫療決策中有關「醫師與同儕關係」及「跨專業團隊合作」的原則。醫療工作以病人安全為最高考量，醫師應與同儕及其他照護人員通力合作，並在專業與倫理界線上做出適當判斷。\n\n【選項詳解】\n- A. 正確。依據世界醫師會（WMA）《里斯本病人權利宣言》與《醫學倫理手冊》等指引，醫療照護需多團隊協同，醫師有義務與同儕及其他健康照護者互相協調合作，以提供病人最完善的醫療服務。\n- B. 錯誤。發現同儕專業能力不足或倫理失當時，通常應本著專業自治（Professional autonomy）精神，第一優先應是尋求適當管道（如醫院內部科主任、醫學會或專業審查機制）協助或輔導，情節嚴重且內部機制無效才向外部司法單位或倫理委員會舉報，而非一開始就將司法或外部舉報作為第一優先。\n- C. 錯誤。尊重師長雖然是醫德的一部分，但不能凌駕於病人安全與法規之上。當老師要求學生獨立操作「超越當前能力」的醫療行為時，基於病人安全，學生應拒絕獨立操作，或要求在老師的直接指導監督下進行，而非盲目配合。\n- D. 錯誤。現代醫療為高度複雜的團隊合作，多專科照護（multidisciplinary care）是提升治療成效的關鍵。醫師絕不能單打獨鬥，必須講求與同儕及跨領域團隊的合作。\n\n【核心考點】\n醫師有義務與同儕及其他健康照護人員協調合作。面對同儕不當行為或師長不合理要求，應以「病人安全」為最高指導原則，不應盲目配合或直接向外司法舉報。",
+      "key_point": "醫師有義務與同儕及其他健康照護人員協調合作。病人安全是最高原則，不能因尊重師長而盲目配合超越能力的獨立醫療操作。",
+      "flashcard_front": "醫學倫理中的同儕關係與醫療合作",
+      "flashcard_back": "1. 醫師有義務與其他健康照護者協調合作。2. 病人安全高於對師長的遵從，不能配合超越自身能力的獨立醫療操作。",
+      "flashcard_summary": "醫學倫理同儕關係 -> 醫師必須與團隊協作；病人安全為首要考量，拒絕超越能力的獨立醫療操作，發現同儕不當先走內部程序。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-3_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題考查台灣《安寧緩和醫療條例》中關於「病情告知」的法律責任與實務規範。病情告知是末期病人行使自主權的前提，法規明文規範告知的主體與內容，不能由其他醫事人員或家屬代為承擔主要法律義務。\n\n【選項詳解】\n- A. 正確。根據《安寧緩和醫療條例》第 8 條規定，實施安寧緩和醫療時，應將病情及治療方針告知家屬或病患（並以告知病患為優先）。\n- B. 正確。第 8 條條文明文規定：「病人要求要知道時，由醫師告知之。」這是醫師的專業責任與法定職責。\n- C. 錯誤。條例明確規定「病人要求要知道時，由醫師告知之」，而非由護理人員或家屬告知。病情告知與維生醫療抉擇說明屬於「醫師」的法定責任與專業職權，護理人員或家屬不可代醫師履行此法定告知義務。\n- D. 正確。第 8 條規定告知內容應包括：病情、安寧緩和醫療之治療方針及維生醫療抉擇。\n\n【核心考點】\n《安寧緩和醫療條例》規定，當末期病人要求知情時，應由「醫師」親自告知病情、安寧緩和醫療方針及維生醫療抉擇，此法定責任不可推諉予護理人員或家屬。",
+      "key_point": "根據《安寧緩和醫療條例》規定，末期病人要求知情時，必須由「醫師」告知病情、緩和治療方針及維生醫療抉擇。",
+      "flashcard_front": "安寧緩和醫療條例中的病情告知義務人",
+      "flashcard_back": "當末期病人要求知道病情時，依法必須由「醫師」告知，不得由護理人員或親密家屬代為履行此告知責任。",
+      "flashcard_summary": "病情告知義務 -> 依《安寧緩和醫療條例》，病人要求知情時，必須由醫師親自告知，不得推諉給護理師或家屬。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-14T13:24:41.283942+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
