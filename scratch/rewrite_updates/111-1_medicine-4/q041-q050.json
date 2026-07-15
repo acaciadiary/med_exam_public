@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-4.json",
+  "dataset_id": "111-1_medicine-4",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-4_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n盤狀紅斑性狼瘡（DLE）的典型病理特徵包括表皮萎縮、毛孔角質栓塞、基底細胞液樣變性、以及真皮層淋巴球浸潤。直接免疫螢光（DIF）檢查在表皮與真皮交界處可見IgG和補體的線性沉積（稱為Lupus band test陽性），結合頸部萎縮性脫屑皮損，最符合盤狀紅斑性狼瘡的診斷。\n\n【選項詳解】\n- A. 皮膚淋巴癌(cutaneous lymphoma)：皮膚淋巴癌可有慢性斑塊，但本題病理有基底液化、毛囊角栓與 lupus band，較不像淋巴癌。\n- B. 皮膚類肉瘤(sarcoidosis)：皮膚類肉瘤以非乾酪性肉芽腫為病理重點，不符合本題表皮萎縮與免疫螢光線性沉積。\n- C. 盤狀紅斑性狼瘡 (discoid lupus erythematosus)：為本題答案；DLE 典型有角質栓塞、基底層液化變性、毛囊周圍發炎與表皮真皮交界免疫沉積。\n- D. 亞急性皮膚紅斑性狼瘡(subacute cutaneous lupus erythematosus)：亞急性皮膚紅斑狼瘡多為環狀或丘疹鱗屑疹，較少形成明顯萎縮疤痕與毛囊角栓。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：盤狀紅斑性狼瘡（DLE）的皮膚病理與直接免疫螢光（DIF）特徵。",
+      "key_point": "盤狀紅斑性狼瘡（DLE）的皮膚病理與直接免疫螢光（DIF）特徵。",
+      "flashcard_front": "頸部萎縮性脫屑皮損 / 表皮萎縮 / 基底細胞液樣變性 / DIF 交界處 IgG 線性沉積",
+      "flashcard_back": "毛孔角栓與基底液樣變性，加 DIF 顯示表真交界處 IgG 線性沉積，為盤狀紅斑性狼瘡（DLE）特徵。",
+      "flashcard_summary": "DLE病理特徵 -> 表皮萎縮、基底液樣變性與DIF在皮真交界見IgG沉積提示盤狀紅斑性狼瘡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n脂漏性角化症（俗稱老人斑）是一種完全良性的表皮增生疾病，並非原位癌（原位癌如 Bowen's disease 具有惡性潛能），因此選項A敘述錯誤。它好發於老年人，日曬是常見誘因。若在短時間內突然出現大量伴有搔癢的脂漏性角化症病灶，稱為 Leser-Trélat sign，這被視為一種副腫瘤表徵，需注意是否合併胃癌等內臟惡性疾患。\n\n【選項詳解】\n- A. 脂漏性角化症為一種原位癌的皮膚疾病：為本題答案；脂漏性角化症是良性表皮腫瘤，不是原位癌。\n- B. 日曬可能是造成此疾病的原因之一：日曬、年齡與遺傳都可能與脂漏性角化症增加有關，此敘述可接受。\n- C. 好發於老年人：脂漏性角化症好發於中老年人，常呈貼上去樣蠟狀斑塊。\n- D. 若短期間內出現大量脂漏性角化症病灶,稱為Leser-Trélat sign;需注意是否合併其他惡性疾患(如胃癌)：短期大量出現脂漏性角化症稱 Leser-Trélat sign，需警覺內臟惡性腫瘤。\n\n【核心考點】\n遇到否定式題幹，先確認題目是在問錯誤、例外或最不適當者，再逐一檢查每個選項的醫學敘述。核心主題：脂漏性角化症的良性特徵與Leser-Trélat sign的臨床意義。",
+      "key_point": "脂漏性角化症的良性特徵與Leser-Trélat sign的臨床意義。",
+      "flashcard_front": "脂漏性角化症 / 良性 vs. 原位癌 / 突發大量病灶 (Leser-Trélat sign) / 胃癌關聯",
+      "flashcard_back": "脂漏性角化症是良性表皮增生而非原位癌；突發大量病灶（Leser-Trélat sign）需注意合併胃癌等內臟腫瘤。",
+      "flashcard_summary": "脂漏性角化症特徵 -> 屬於完全良性的表皮增生；突發大量病灶（Leser-Trélat sign）提示可能合併內臟癌症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nPeutz-Jeghers症候群（PJS）是一種體染色體顯性遺傳疾病，特徵為皮膚黏膜黑色素斑點（常在幼年即出現在嘴唇及口腔黏膜）及胃腸道錯構瘤性息肉（多發生在小腸，而非大腸）。PJS患者一生中罹患胃腸道癌、乳癌、胰臟癌、生殖系統腫瘤及其他器官惡性腫瘤的風險顯著增高，故選項C敘述正確。\n\n【選項詳解】\n- A. 自體隱性遺傳：Peutz-Jeghers syndrome 是自體顯性遺傳，非自體隱性。\n- B. 黏膜黑斑多在成年後才會開始出現：黏膜黑斑常在兒童期即出現，並非多在成年後才開始。\n- C. 常伴發胃腸道、生殖系統和其他器官的良性或惡性腫瘤：為本題答案；PJS 會增加胃腸道、胰臟、生殖系統等多器官良惡性腫瘤風險。\n- D. 胃腸道如有息肉,常發生在大腸：PJS 息肉常見於小腸，尤其空腸，不是以大腸為最典型位置。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：Peutz-Jeghers症候群（PJS）的遺傳方式、息肉分布與惡性腫瘤風險。",
+      "key_point": "Peutz-Jeghers症候群（PJS）的遺傳方式、息肉分布與惡性腫瘤風險。",
+      "flashcard_front": "嘴唇黑斑 / 胃腸道息肉 / Peutz-Jeghers 症候群 (PJS) / 遺傳方式 / 息肉部位",
+      "flashcard_back": "PJS為顯性遺傳，嘴唇黑斑幼年出現，錯構瘤息肉好發於小腸而非大腸，且伴有高癌症風險。",
+      "flashcard_summary": "Peutz-Jeghers症候群特徵 -> 顯性遺傳，幼年嘴唇現黑斑，錯構瘤息肉好發於小腸，癌症風險高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n當病患看向左側時，右眼無法內收，且左眼外展時出現眼球震顫，而向右看及上下看均正常，這是典型的「核間性眼肌麻痺（INO）」。INO的病灶位於眼球無法內收那一側的內側縱向束（MLF）。在此題中，看向左邊時右眼無法內收，故病灶位於右側內側縱向束，答案為B。\n\n【選項詳解】\n- A. 左邊內側縱向束(left medial longitudinal fasciculus)：左 MLF 病灶會造成向右看時左眼內收障礙，不符合本題向左看右眼不能內收。\n- B. 右邊內側縱向束(right medial longitudinal fasciculus)：為本題答案；右眼內收障礙且對側外展眼震是右側 MLF 病灶造成的右側 INO。\n- C. 左邊正中旁橋腦網狀結構(left paramedian pontine reticular formation)：左 PPRF 病灶會造成向左凝視癱瘓，左眼也無法正常外展，與本題不同。\n- D. 右邊正中旁橋腦網狀結構(right paramedian pontine reticular formation)：右 PPRF 病灶會影響向右凝視，不會只造成向左看時右眼內收障礙。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：核間性眼肌麻痺（INO）的臨床表現與MLF病灶定位。",
+      "key_point": "核間性眼肌麻痺（INO）的臨床表現與MLF病灶定位。",
+      "flashcard_front": "向左看右眼不能內收 / 左眼外展眼震 / 核間性眼肌麻痺 (INO) / 病灶定位",
+      "flashcard_back": "INO的病灶位於無法內收眼同側的內側縱向束（MLF）；向左看時右眼無法內收，病灶在右側MLF。",
+      "flashcard_summary": "INO定位診斷 -> 往病灶對側看時同側眼無法內收，對側眼外展且眼震，病灶在無法內收眼同側之MLF。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n在急性腦梗塞發生的數分鐘至數小時內，細胞缺氧形成細胞毒性水腫，限制了水分子的隨機擴散。擴散加權影像（DWI）能極其敏感地偵測到這種水分子擴散受限，在超急性期（發病數分鐘內）即呈現高訊號（亮點），因此敏感度最高。相較之下，T1、T2及FLAIR序列通常需要數小時甚至一天後才能顯現病變。\n\n【選項詳解】\n- A. T1-weighted imaging：T1 對超急性缺血變化敏感度低，通常不是數分鐘內偵測細胞毒性水腫的首選。\n- B. T2-weighted imaging：T2 可見較晚期水腫變化，但超急性期不如 DWI 敏感。\n- C. fluid-attenuated inversion recovery(FLAIR)imaging：FLAIR 對部分早期病灶有幫助，但數分鐘內細胞毒性水腫仍以 DWI 最敏感。\n- D. diffusion-weighted imaging(DWI)：為本題答案；DWI 可偵測水分子擴散受限，是超急性腦梗塞最敏感序列。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：超急性腦中風影像診斷首選序列與細胞毒性水腫的DWI表現。",
+      "key_point": "超急性腦中風影像診斷首選序列與細胞毒性水腫的DWI表現。",
+      "flashcard_front": "急性腦中風 / 梗塞數分鐘後 / 細胞毒性水腫 / MRI 最敏感序列",
+      "flashcard_back": "擴散加權影像（DWI）能在超急性腦梗塞發作數分鐘內，敏感地偵測到細胞毒性水腫所致的水分子擴散受限。",
+      "flashcard_summary": "超急性腦中風影像 -> 擴散加權影像（DWI）是偵測超急性腦梗塞細胞毒性水腫最敏感的序列。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n患者有心律不整與高血壓史，突發右側肢體無力和無法言語，提示優勢大腦半球（左側）受損。中大腦動脈（MCA）供應大腦外側部，包括運動皮質及語言區。左側MCA的大面積梗塞會導致右側偏癱、失語症，且隨著腦水腫加重可能導致意識昏迷，因此最可能發生問題的血管為左側中大腦動脈。\n\n【選項詳解】\n- A. 左側內頸動脈(internal carotid artery)：內頸動脈阻塞可造成大範圍中風，但失語加右側偏癱最直接定位仍是左 MCA 皮質供應區。\n- B. 左側前大腦動脈(anterior cerebral artery)：前大腦動脈梗塞以下肢無力、額葉症狀較明顯，不是典型失語合併右側偏癱。\n- C. 左側中大腦動脈(middle cerebral artery)：為本題答案；左 MCA 供應語言區與側面運動皮質，梗塞會造成失語及右臉手為主偏癱。\n- D. 左側後大腦動脈(posterior cerebral artery)：後大腦動脈梗塞主要造成視野缺損與枕葉症狀，不符合本題主要神經缺損。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：腦中風血管定位（中大腦動脈 MCA 梗塞）與失語症及對側偏癱的對應關係。",
+      "key_point": "腦中風血管定位（中大腦動脈 MCA 梗塞）與失語症及對側偏癱的對應關係。",
+      "flashcard_front": "突發右側無力 / 無法言語 (失語症) / 左側優勢半球受損 / 中大腦動脈 (MCA)",
+      "flashcard_back": "對側偏癱伴隨失語症（優勢半球受損），提示中大腦動脈（MCA）梗塞，病灶多在左側MCA。",
+      "flashcard_summary": "MCA梗塞定位 -> 右側無力伴隨失語症提示左側中大腦動脈（MCA）阻塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n暈厥是由於腦部短暫灌流不足引起，常可伴隨短暫的肌肉強直，但其本質非大腦異常放電，故不可據此確診為癲癇，選項D最恰當。大約有 30-50% 的癲癇患者其腦部 MRI 是正常的，故 MRI 正常不能排除癲癇。腦電圖出現棘波僅代表有癲癇樣放電傾向，若無臨床發作史，不能單憑 EEG 確診。\n\n【選項詳解】\n- A. 正常的腦部磁振造影可以排除病人有癲癇的可能：正常 MRI 不能排除癲癇，許多癲癇患者結構影像可正常。\n- B. 暈厥(syncope)的病人如腦電圖出現棘波(spike waves)就可確診為癲癇：暈厥時 EEG 偶見尖波或非特異變化不能單獨確診癲癇，仍需臨床脈絡。\n- C. 嬰幼兒童一旦曾發生熱痙攣(febrile convulsion)就可確認以後會有癲癇：熱性痙攣多數為良性，曾發作不代表日後一定會有癲癇。\n- D. 暈厥同時有短暫的肌肉強直仍不可確診為癲癇：為本題答案；暈厥可伴短暫強直或抽動，稱痙攣性暈厥，不能因此直接診斷癲癇。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：癲癇與痙攣性暈厥、熱痙攣的臨床鑑別診斷原則。",
+      "key_point": "癲癇與痙攣性暈厥、熱痙攣的臨床鑑別診斷原則。",
+      "flashcard_front": "癲癇鑑別診斷 / 痙攣性暈厥 (convulsive syncope) / MRI正常 / EEG 棘波意義",
+      "flashcard_back": "暈厥伴隨短暫強直（痙攣性暈厥）不可確診為癲癇；MRI正常不能排除癲癇；單憑EEG棘波無發作不能確診。",
+      "flashcard_summary": "癲癇與暈厥鑑別 -> 痙攣性暈厥伴隨短暫強直不可確診為癲癇，且MRI正常亦不能排除癲癇。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n用於預防偏頭痛的常用抗癲癇藥物為 Topiramate 與 Valproate，而 Carbamazepine 主要用於治療三叉神經痛，並不常用於預防偏頭痛，故選項C最不恰當。Triptan 類藥物具有收縮血管作用，故缺血性心臟病或嚴重高血壓等心血管疾病患者禁用。偏頭痛若發作頻繁，應考慮啟動預防性治療。\n\n【選項詳解】\n- A. 急性期的治療藥物triptan的使用,須注意心血管疾病的禁忌症：Triptan 具血管收縮作用，冠心病或高風險心血管疾病需注意禁忌，敘述正確。\n- B. 如果一個月發作4次以上,可以考慮使用預防性藥物：每月發作約 4 次以上、影響生活或急性藥物使用過多時可考慮預防治療。\n- C. 抗癲癇藥物如carbamazepine常用於預防偏頭痛：為本題答案；偏頭痛預防常用 topiramate、valproate、beta blocker 等，carbamazepine 不是常規常用預防藥。\n- D. 預防性用藥的選擇宜考慮病患是否有其他共病,如高血壓或躁鬱症：預防藥選擇需考慮共病，例如高血壓可考慮 beta blocker，躁鬱症可考慮部分情緒穩定劑。\n\n【核心考點】\n遇到否定式題幹，先確認題目是在問錯誤、例外或最不適當者，再逐一檢查每個選項的醫學敘述。核心主題：偏頭痛急性期與預防性治療的藥物選擇與禁忌。",
+      "key_point": "偏頭痛急性期與預防性治療的藥物選擇與禁忌。",
+      "flashcard_front": "偏頭痛預防用藥 / 抗癲癇藥 / Carbamazepine 角色 / Triptan 禁忌",
+      "flashcard_back": "偏頭痛預防用 Topiramate 與 Valproate，不用 Carbamazepine；Triptan 類心血管病患禁用。",
+      "flashcard_summary": "偏頭痛用藥原則 -> 預防用藥可選Topiramate，不選Carbamazepine；Triptan類心血管疾病者禁用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n青少年肌躍性癲癇（JME）屬於全面性癲癇。對於全面性癲癇，應避免使用主要針對局部性發作且可能加重肌躍性發作的鈉離子通道阻斷劑，如 Phenytoin，因為這些藥物會顯著惡化 JME 的症狀，故選B。首選藥物通常是廣效性的 Valproate，或者 Levetiracetam、Topiramate 等。\n\n【選項詳解】\n- A. levetiracetam：Levetiracetam 可用於廣泛性癲癇與 JME，通常不是需避免藥物。\n- B. phenytoin：為本題答案；phenytoin 可能惡化肌躍性或失神發作，JME 應避免。\n- C. valproate：Valproate 對 JME 效果佳，是傳統有效藥物，但育齡女性需注意致畸風險。\n- D. topiramate：Topiramate 可作為 JME 治療選項之一，非本題最需避免者。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：青少年肌躍性癲癇（JME）的用藥禁忌與首選藥物。",
+      "key_point": "青少年肌躍性癲癇（JME）的用藥禁忌與首選藥物。",
+      "flashcard_front": "青少年肌躍性癲癇 (JME) / 全面性癲癇 / 禁忌抗癲癇藥 / 鈉通道阻斷劑",
+      "flashcard_back": "JME（全面性癲癇）應避免使用 Phenytoin 等鈉通道阻斷劑，以免加重肌躍發作；首選為 Valproate。",
+      "flashcard_summary": "JME用藥禁忌 -> 青少年肌躍性癲癇（JME）禁用 Phenytoin 等局部性抗癲癇藥，首選為 Valproate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-4_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n一氧化碳（CO）中毒會引起嚴重的細胞缺氧，而大腦基底核中的蒼白球對缺氧特別敏感，是最容易發生雙側壞死與病變的部位。當雙側蒼白球受損後，患者常會繼發出現巴金森症候群的症狀。典型的原發性巴金森氏症則是中腦黑質多巴胺細胞退化。\n\n【選項詳解】\n- A. 尾核(caudate)：尾核可與運動與認知相關，但一氧化碳中毒典型易傷害部位不是尾核。\n- B. 殼部(putamen)：殼核屬基底核，可受缺氧影響，但 CO 中毒經典對稱病灶多在蒼白球。\n- C. 蒼白球(globus pallidus)：為本題答案；一氧化碳中毒典型造成雙側蒼白球壞死，日後可有 parkinsonism。\n- D. 黑質(substantia nigra)：黑質退化是原發性巴金森病核心病理，不是一氧化碳中毒最常見病灶。\n\n【核心考點】\n先抓題幹最具鑑別力的線索，再連回診斷、機轉、治療或解剖定位。核心主題：一氧化碳中毒引發巴金森症候群的解剖病灶位置。",
+      "key_point": "一氧化碳中毒引發巴金森症候群的解剖病灶位置。",
+      "flashcard_front": "一氧化碳 (CO) 中毒 / 巴金森症候群 / 基底核缺氧病灶 / 雙側蒼白球壞死",
+      "flashcard_back": "一氧化碳中毒引起的巴金森症候群，其主要壞死病灶位於基底核的雙側蒼白球（Globus pallidus）。",
+      "flashcard_summary": "一氧化碳中毒病灶 -> 一氧化碳中毒引發的巴金森症候群，其典型病灶位於基底核的蒼白球。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-3.json",
+  "dataset_id": "113-1_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。右心雜音通常吸氣變大，左心雜音多在吐氣較明顯；Valsalva 與站立會降低前負荷，蹲下會增加前負荷與後負荷。\n\n【選項詳解】\n- A. Valsalva 降低靜脈回流，多數雜音包含主動脈狹窄會變短變弱，敘述正確。\n- B. 三尖瓣逆流是右心雜音，吸氣時因回流量增加而變大聲，不是吐氣時變大聲，故錯誤。\n- C. 站立降低前負荷，二尖瓣逆流雜音通常變小，敘述正確。\n- D. 蹲下增加前負荷與後負荷，可減少 HOCM 左心室出口阻塞，雜音變小，敘述正確。\n\n【核心考點】\n右心雜音吸氣增強；HOCM 雜音在前負荷下降時變大、蹲下時變小。",
+      "key_point": "三尖瓣逆流雜音是吸氣變大聲，不是吐氣。",
+      "flashcard_front": "心雜音動態變化",
+      "flashcard_back": "三尖瓣逆流雜音是吸氣變大聲，不是吐氣。",
+      "flashcard_summary": "心雜音動態變化：三尖瓣逆流雜音是吸氣變大聲，不是吐氣。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\nHCM 多為遺傳性肌節蛋白疾病，出生時未必已有肥厚；若有出口阻塞，治療應避免降低前負荷或後負荷，並以 beta-blocker、non-DHP CCB 等減慢心率。少數會進展為終末期擴大型表現。\n\n【選項詳解】\n- A. HCM 進展成擴大型心肌症或終末期收縮功能不全的比例低，通常小於 10%，敘述正確。\n- B. 多數病人不是出生時就有明顯左心室肥厚，肥厚常隨年齡發展而出現。\n- C. 有出口阻塞時不應以血管擴張為原則，因降低後負荷可能加劇阻塞；重點是減慢心率與減少收縮力。\n- D. 運動時血壓反應異常，尤其血壓不上升或下降，才是猝死風險線索；血壓增加 30 mmHg 不是危險因子。\n\n【核心考點】\nHOCM 治療避免 vasodilator 與脫水，優先減慢心率、降低收縮力。",
+      "key_point": "HCM 只有少數會進展為擴大型心肌症。",
+      "flashcard_front": "肥厚型心肌症",
+      "flashcard_back": "HCM 只有少數會進展為擴大型心肌症。",
+      "flashcard_summary": "肥厚型心肌症：HCM 只有少數會進展為擴大型心肌症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n血壓袖帶太小會讓測量值被高估，不是低估。小腿收縮壓通常比上臂高，兩臂收縮壓差距正常多在 10 mmHg 內。\n\n【選項詳解】\n- A. 上肢與下肢血壓差異可受主動脈閉鎖不全或周邊血管疾病影響，敘述可接受。\n- B. 小腿收縮壓通常因周邊脈波放大而比上臂高約 10-20 mmHg，敘述正確。\n- C. 袖帶長度約手臂周徑 80%、寬度約 40% 是正確原則；但小袖帶會高估血壓，不是低估，故錯誤。\n- D. 兩側上臂收縮壓差通常應小於或等於約 10 mmHg，若明顯較大需考慮血管病變。\n\n【核心考點】\n血壓袖帶太小會高估，太大會低估；袖帶大小是血壓測量常考陷阱。",
+      "key_point": "不合適的小袖帶會明顯高估血壓。",
+      "flashcard_front": "血壓測量",
+      "flashcard_back": "不合適的小袖帶會明顯高估血壓。",
+      "flashcard_summary": "血壓測量：不合適的小袖帶會明顯高估血壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n心臟猝死常與缺血性心臟病造成的 VT/VF 有關。ICD 可以終止致命心律不整、降低猝死，但 ICD shock 代表病人本身仍是高風險族群，不會使後續死亡率與心衰竭風險大幅減少。\n\n【選項詳解】\n- A. 心室性心律不整需靠心電圖、植入裝置紀錄或電生理誘發確認，敘述正確。\n- B. 若可能，取得 12 導程心電圖有助判斷起源與潛在心臟病，敘述正確。\n- C. ICD 能快速終止 VT/VF，但啟動本身代表復發與心衰竭風險仍高，不代表往後死亡率大幅減少，故錯誤。\n- D. 急性處置首要是血流動力穩定，必要時立即電擊或急救，敘述正確。\n\n【核心考點】\nICD 是保護裝置，不是把高風險病人變成低風險；ICD shock 後仍需找原因與優化治療。",
+      "key_point": "ICD 終止心律不整不代表後續死亡率與心衰竭風險大幅下降。",
+      "flashcard_front": "心室性心律不整與猝死",
+      "flashcard_back": "ICD 終止心律不整不代表後續死亡率與心衰竭風險大幅下降。",
+      "flashcard_summary": "心室性心律不整與猝死：ICD 終止心律不整不代表後續死亡率與心衰竭風險大幅下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\nAST/ALT 超過 1000 IU/L 常見於缺血性肝炎、急性病毒性肝炎、藥物或毒物性肝炎，也可見於嚴重自體免疫性肝炎。脂肪性肝炎通常為輕到中度升高。\n\n【選項詳解】\n- A. 自體免疫性肝炎急性發作時可有明顯轉胺酶升高，可能超過 1000。\n- B. 缺血性肝炎常因肝臟低灌流造成 AST/ALT 急遽大幅上升，是典型原因。\n- C. 脂肪性肝炎多為慢性輕中度轉胺酶升高，較不會出現 AST/ALT >1000，是本題答案。\n- D. 藥物性肝炎，尤其 acetaminophen 或嚴重 DILI，可造成非常高的轉胺酶。\n\n【核心考點】\nAST/ALT >1000 先想缺血、毒物/藥物、急性病毒或嚴重免疫性肝炎；脂肪肝通常不會這麼高。",
+      "key_point": "脂肪性肝炎較少造成 aminotransferase >1000 IU/L。",
+      "flashcard_front": "轉胺酶大幅上升",
+      "flashcard_back": "脂肪性肝炎較少造成 aminotransferase >1000 IU/L。",
+      "flashcard_summary": "轉胺酶大幅上升：脂肪性肝炎較少造成 aminotransferase >1000 IU/L。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n右下腹痛、腹瀉、體重減輕、發燒、鵝卵石樣病灶、結節性紅斑與關節痛，指向 Crohn disease。治療無效時可升級生物製劑等藥物，不是直接以手術作為下一步標準治療。\n\n【選項詳解】\n- A. Crohn disease 與腸道菌叢、遺傳與免疫失調有關，敘述正確。\n- B. Crohn 可侵犯全腸胃道，跳躍性病灶與瘻管、膿瘍、狹窄是典型特徵。\n- C. 非乾酪性肉芽腫是 Crohn 的經典病理線索，雖非每例都有。\n- D. 5-ASA、類固醇或傳統免疫抑制劑無效時，通常考慮 anti-TNF、anti-integrin、anti-IL-12/23 等生物製劑；手術主要用於併發症或局部難治病灶，故此敘述錯誤。\n\n【核心考點】\nCrohn 的藥物治療可升級到生物製劑；手術不是藥物無效後一律的下一步。",
+      "key_point": "Crohn disease 難治時常升級生物製劑，手術保留給併發症或局部難治。",
+      "flashcard_front": "克隆氏症治療",
+      "flashcard_back": "Crohn disease 難治時常升級生物製劑，手術保留給併發症或局部難治。",
+      "flashcard_summary": "克隆氏症治療：Crohn disease 難治時常升級生物製劑，手術保留給併發症或局部難治。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n胃酸由 parietal cell 分泌，受 histamine H2 receptor、gastrin 與迷走神經刺激調控。Chief cell 主要分泌 pepsinogen，不是 H2 blocker 的主要作用細胞。\n\n【選項詳解】\n- A. 制酸劑直接中和胃酸，提高胃內 pH，敘述正確。\n- B. H2 receptor antagonist 阻斷的是 parietal cell 上的 H2 receptor，以降低胃酸分泌；chief cell 說法錯誤。\n- C. PPI 不可逆抑制 parietal cell 的 H+/K+-ATPase，是強效抑酸機轉，敘述正確。\n- D. 長期 PPI 停藥後可能出現 rebound acid hypersecretion，敘述正確。\n\n【核心考點】\n胃酸分泌主角是 parietal cell；chief cell 主分泌 pepsinogen。",
+      "key_point": "H2 blocker 作用在 parietal cell，不是 chief cell。",
+      "flashcard_front": "胃藥機轉",
+      "flashcard_back": "H2 blocker 作用在 parietal cell，不是 chief cell。",
+      "flashcard_summary": "胃藥機轉：H2 blocker 作用在 parietal cell，不是 chief cell。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n急性出血早期血紅素可能尚未下降，因血漿與紅血球一起流失，需經輸液或體液重新分布後才被稀釋。因此不能因初始 Hb 正常就排除嚴重出血。\n\n【選項詳解】\n- A. 病史可協助判斷潰瘍、肝硬化靜脈曲張、NSAID 或抗凝血使用等出血原因，處置合理。\n- B. 生命徵象、姿勢性低血壓與休克徵象是評估嚴重出血的關鍵，處置合理。\n- C. 急性大量出血初期 Hb 可正常，不能因此判斷沒有嚴重出血，故最不恰當。\n- D. 活動性出血或可見血管的潰瘍需內視鏡止血，可降低再出血與不良結果，敘述正確。\n\n【核心考點】\n急性出血早期 Hb 可能騙人；先看生命徵象與臨床灌流。",
+      "key_point": "初始血紅素正常不能排除嚴重急性上消化道出血。",
+      "flashcard_front": "急性上消化道出血",
+      "flashcard_back": "初始血紅素正常不能排除嚴重急性上消化道出血。",
+      "flashcard_summary": "急性上消化道出血：初始血紅素正常不能排除嚴重急性上消化道出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n不同營養素有典型吸收部位：鐵主要在十二指腸，鈣多在上端小腸；膽酸在末端迴腸回收；脂溶性維生素為 A、D、E、K。分泌型腹瀉禁食仍持續。\n\n【選項詳解】\n- A. 鐵與鈣主要在十二指腸與近端小腸吸收，敘述正確。\n- B. 膽酸主要在末端迴腸吸收，不是大腸。\n- C. A、D、E、K 是脂溶性維生素，不是水溶性。\n- D. 分泌型腹瀉即使禁食仍不會明顯改善；滲透型腹瀉才會因禁食減輕。\n\n【核心考點】\n近端小腸吸收鐵與鈣，末端迴腸吸收膽酸與 B12；分泌型腹瀉禁食仍持續。",
+      "key_point": "鐵與鈣主要在上端小腸吸收。",
+      "flashcard_front": "腸胃道吸收",
+      "flashcard_back": "鐵與鈣主要在上端小腸吸收。",
+      "flashcard_summary": "腸胃道吸收：鐵與鈣主要在上端小腸吸收。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n小腸阻塞較大腸阻塞常見，術後沾黏是小腸阻塞常見原因。大腸阻塞最常見原因通常是大腸癌，腸扭轉不是最常見原因。\n\n【選項詳解】\n- A. 整體而言小腸阻塞比大腸阻塞常見，敘述正確。\n- B. 術後沾黏是小腸阻塞最常見原因之一，敘述正確。\n- C. 大腸阻塞最常見原因是大腸癌；volvulus 雖可造成阻塞，但不是最常見原因，故錯誤。\n- D. 乙狀結腸扭轉可先以內視鏡減壓與置管，若壞死或穿孔則需手術，敘述正確。\n\n【核心考點】\n大腸阻塞第一常見原因是癌症；乙狀結腸扭轉可內視鏡減壓。",
+      "key_point": "腸扭轉不是大腸阻塞最常見原因。",
+      "flashcard_front": "急性腸阻塞",
+      "flashcard_back": "腸扭轉不是大腸阻塞最常見原因。",
+      "flashcard_summary": "急性腸阻塞：腸扭轉不是大腸阻塞最常見原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

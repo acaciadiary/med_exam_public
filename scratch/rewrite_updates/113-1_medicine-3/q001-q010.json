@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-3.json",
+  "dataset_id": "113-1_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題目問 GDM 敘述何者最不適當。GDM 重點是 24-28 週篩檢、先以營養治療與血糖監測控制，未達標時再加藥；最常被考的陷阱是產後第二型糖尿病風險會明顯增加，不是接近一般孕婦。\n\n【選項詳解】\n- A. 24-28 週是一般風險孕婦常規篩檢 GDM 的時程，選項正確。\n- B. 確診後先做飲食控制、運動與自我血糖監測，若達標可不需藥物，選項正確。\n- C. 生活型態治療無法達標時可使用胰島素，部分情境也會考慮 metformin 或 glyburide 等口服藥，選項正確。\n- D. GDM 代表未來第二型糖尿病風險大幅升高，產後仍需追蹤糖代謝，因此說風險與未罹患 GDM 女性接近是錯誤敘述。\n\n【核心考點】\nGDM 的考點是篩檢時程、階梯式治療與長期代謝風險；產後糖尿病風險升高是關鍵警訊。",
+      "key_point": "GDM 產後第二型糖尿病風險明顯上升，不能視為與一般女性相同。",
+      "flashcard_front": "妊娠糖尿病",
+      "flashcard_back": "GDM 產後第二型糖尿病風險明顯上升，不能視為與一般女性相同。",
+      "flashcard_summary": "妊娠糖尿病：GDM 產後第二型糖尿病風險明顯上升，不能視為與一般女性相同。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目要辨認量表與適用對象是否配對。APACHE II 用於 ICU 重症，IPI 用於非何杰金氏淋巴瘤，TIMI 用於急性冠心症；BODE 則是 COPD 預後量表，不是壓傷量表。\n\n【選項詳解】\n- A. APACHE II 評估加護病房重症病人的疾病嚴重度與死亡風險，配對正確。\n- B. BODE 包含 BMI、氣流阻塞、呼吸困難與運動能力，用於 COPD 預後，不用來評估 pressure injury，故最不恰當。\n- C. International Prognostic Index 是非何杰金氏淋巴瘤常用預後工具，配對正確。\n- D. TIMI risk score 可用於急性冠心症風險分層，包括 NSTE-ACS，配對正確。\n\n【核心考點】\n臨床量表要記對族群：APACHE II 重症、BODE COPD、IPI 淋巴瘤、TIMI 急性冠心症。",
+      "key_point": "BODE Index 是 COPD 預後量表，不是壓傷評估量表。",
+      "flashcard_front": "預後評估量表",
+      "flashcard_back": "BODE Index 是 COPD 預後量表，不是壓傷評估量表。",
+      "flashcard_summary": "預後評估量表：BODE Index 是 COPD 預後量表，不是壓傷評估量表。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n承上題比較四個量表是否納入年齡。APACHE II、IPI、TIMI risk score 都有年齡相關項目；BODE Index 由 BMI、FEV1、dyspnea、6-minute walk distance 組成，沒有年齡。\n\n【選項詳解】\n- A. 只有一種納入年齡會漏掉 APACHE II、IPI 與 TIMI，數量太少。\n- B. 兩種也仍少算一個含年齡的量表。\n- C. APACHE II、IPI、TIMI 三種納入年齡；BODE 不納入年齡，故共有三種。\n- D. 四種全都納入年齡不正確，因 BODE Index 沒有年齡項目。\n\n【核心考點】\nBODE 的四個字母就是記憶點，沒有 age；其他三個量表才有年齡。",
+      "key_point": "APACHE II、IPI、TIMI 含年齡，BODE 不含年齡。",
+      "flashcard_front": "預後量表中的年齡",
+      "flashcard_back": "APACHE II、IPI、TIMI 含年齡，BODE 不含年齡。",
+      "flashcard_summary": "預後量表中的年齡：APACHE II、IPI、TIMI 含年齡，BODE 不含年齡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n病人晨起眼瞼與臉部水腫、無端坐呼吸或夜間陣發性呼吸困難，較像低白蛋白造成的腎病症候群水腫，而非心衰竭或甲狀腺毒症。最符合的是嚴重低白蛋白血症。\n\n【選項詳解】\n- A. NT-proBNP 2500 pg/mL 支持心衰竭，但題幹缺乏平躺喘、夜間喘醒等典型鬱血症狀，不是最符合。\n- B. Albumin 1.8 g/dL 可造成低膠體滲透壓與眼瞼水腫，最符合腎病症候群或嚴重蛋白流失表現。\n- C. TSH 9.0 可見於甲狀腺低下，但題幹沒有怕冷、便祕、黏液性水腫等主軸，且眼瞼水腫更像低白蛋白。\n- D. Free T4 2.8 ng/dL 指向甲狀腺毒症，通常不會造成這種低白蛋白型全身水腫。\n\n【核心考點】\n晨起眼瞼水腫加全身水腫要想到腎病症候群；抽血最直接線索是低白蛋白。",
+      "key_point": "腎病症候群水腫最符合低白蛋白血症。",
+      "flashcard_front": "腎病症候群水腫",
+      "flashcard_back": "腎病症候群水腫最符合低白蛋白血症。",
+      "flashcard_summary": "腎病症候群水腫：腎病症候群水腫最符合低白蛋白血症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n敲擊面神經誘發同側臉部抽動是 Chvostek sign；血壓計加壓誘發腕手痙攣是 Trousseau sign。兩者都是神經肌肉興奮性增加，典型指向低血鈣。\n\n【選項詳解】\n- A. 高血鈣較常有便祕、多尿、意識改變與 QT 縮短，不會造成 Chvostek/Trousseau sign。\n- B. 低血鈣會增加神經肌肉興奮性，導致臉部抽動與 carpal spasm，是本題答案。\n- C. 高血磷可伴隨低血鈣，但題目問最直接的離子異常，應選低血鈣。\n- D. 低血磷可造成肌肉無力、橫紋肌溶解或呼吸肌無力，不是這兩個體徵的典型原因。\n\n【核心考點】\nChvostek sign 與 Trousseau sign 是低血鈣的經典臨床體徵。",
+      "key_point": "臉部抽動與腕手痙攣代表低血鈣造成神經肌肉興奮性上升。",
+      "flashcard_front": "低血鈣體徵",
+      "flashcard_back": "臉部抽動與腕手痙攣代表低血鈣造成神經肌肉興奮性上升。",
+      "flashcard_summary": "低血鈣體徵：臉部抽動與腕手痙攣代表低血鈣造成神經肌肉興奮性上升。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題考心導管壓力曲線。肥厚型阻塞性心肌症有 Brockenbrough-Braunwald-Morrow sign；心包填塞 y descent 變鈍；縮窄性心包膜炎有 dip-and-plateau 或 square root sign，且 RV 收縮壓通常不高。\n\n【選項詳解】\n- A. Brockenbrough-Braunwald sign 典型見於肥厚型阻塞性心肌症，不是主動脈瓣狹窄；AS 的早搏後壓差邏輯不同。\n- B. 心包填塞時右心房壓上升，但 y descent 受限而變鈍；明顯 y descent 反而較支持縮窄性心包膜炎。\n- C. 縮窄性心包膜炎常有右心室 dip-and-plateau/square root sign，右心室收縮壓多低於 50 mmHg，敘述正確。\n- D. 限制性心肌病可有雙心室舒張壓接近，但右心室舒張末期壓力不會高於右心室收縮壓的 1/3 這種說法不典型。\n\n【核心考點】\n心包填塞是 y descent 變鈍；縮窄性心包膜炎是明顯 y descent 與 square root sign。",
+      "key_point": "縮窄性心包膜炎的心導管特徵是 square root sign。",
+      "flashcard_front": "心導管壓力波形",
+      "flashcard_back": "縮窄性心包膜炎的心導管特徵是 square root sign。",
+      "flashcard_summary": "心導管壓力波形：縮窄性心包膜炎的心導管特徵是 square root sign。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nNSTE-ACS 的重點是以 troponin 判斷 NSTEMI、依風險決定侵入性治療時機。GRACE >140 屬高風險，即使暫時穩定，也應考慮早期侵入性策略。\n\n【選項詳解】\n- A. NSTE-ACS 可有 ST depression 或 T wave inversion，但急診心電圖不一定超過半數都有新的 ST 下降；深度 T 波倒置也不是最常見表現。\n- B. Troponin 上升已符合心肌壞死證據，即使 CK 正常仍可診斷 NSTEMI，選項錯誤。\n- C. Aspirin 與 P2Y12 inhibitor 常用，但 GPIIb/IIIa inhibitor 不是所有病人例行三合一使用，需依高風險或介入情境決定。\n- D. 血行動力穩定但 GRACE >140 仍屬高風險 NSTE-ACS，通常應在 24 小時內安排冠狀動脈攝影並考慮血流重建，敘述正確。\n\n【核心考點】\nNSTE-ACS 高風險指標如 GRACE >140 會推動早期侵入性治療；troponin 比 CK 更關鍵。",
+      "key_point": "GRACE >140 的 NSTE-ACS 應考慮 24 小時內侵入性評估。",
+      "flashcard_front": "NSTE-ACS 處置",
+      "flashcard_back": "GRACE >140 的 NSTE-ACS 應考慮 24 小時內侵入性評估。",
+      "flashcard_summary": "NSTE-ACS 處置：GRACE >140 的 NSTE-ACS 應考慮 24 小時內侵入性評估。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。Tl-201 類似鉀離子，主要經 Na/K ATPase 主動攝取，半衰期約 73 小時而非 12 小時；Tc-99m sestamibi 半衰期約 6 小時，與粒線體膜電位相關。\n\n【選項詳解】\n- A. 心肌同位素攝取與血流及心肌細胞存活相關，是心肌灌流造影的基礎。\n- B. Tl-201 的半衰期約 73 小時，不是 12 小時；雖可有再分布現象，但此選項的半衰期與描述不正確。\n- C. Tc-99m sestamibi 半衰期約 6 小時，進入心肌後主要受膜電位影響而滯留，作為灌流示蹤劑可接受。\n- D. Tl-201 與鉀離子有相似生物學特性，會被心肌細胞主動攝取，敘述正確。\n\n【核心考點】\nTl-201 像鉀、半衰期長且可再分布；Tc-99m sestamibi 半衰期約 6 小時。",
+      "key_point": "Tl-201 半衰期不是 12 小時。",
+      "flashcard_front": "核醫心肌灌流造影",
+      "flashcard_back": "Tl-201 半衰期不是 12 小時。",
+      "flashcard_summary": "核醫心肌灌流造影：Tl-201 半衰期不是 12 小時。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n姿勢性昏厥、全身症狀、心尖部舒張中期低頻音與中風，配合左心房腫瘤，符合左心房黏液瘤。考點是好發左心房、女性較多、手術切除為主，以及脆弱絨毛狀表面易栓塞。\n\n【選項詳解】\n- A. 心房黏液瘤女性較多，男女比例不是 3:1 男性較多。\n- B. 治療以手術完整切除為主；術後不因復發率高而例行長期 heparin 或 NOAC 預防中風。\n- C. 黏液瘤最常發生在左心房，通常為單發，不是大部分在右心房且常多發。\n- D. 黏液瘤可呈絨毛狀、膠凍樣且易碎，表面碎片或血栓脫落可造成腦中風等栓塞，敘述正確。\n\n【核心考點】\n左心房黏液瘤會造成姿勢性瓣口阻塞與栓塞；最常在左心房，治療為手術切除。",
+      "key_point": "黏液瘤脆弱絨毛狀表面脫落可造成全身性栓塞。",
+      "flashcard_front": "左心房黏液瘤",
+      "flashcard_back": "黏液瘤脆弱絨毛狀表面脫落可造成全身性栓塞。",
+      "flashcard_summary": "左心房黏液瘤：黏液瘤脆弱絨毛狀表面脫落可造成全身性栓塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n高齡、有高血壓與心肌梗塞病史的心房顫動病人，中風風險高，需要抗凝血。DOAC 各有劑量與反轉劑特色；dabigatran 有 idarucizumab 可作為特異性反轉劑。\n\n【選項詳解】\n- A. 此病人 CHA2DS2-VASc 分數高，不應說不需要抗凝血。\n- B. Dabigatran 發生危急出血或需緊急手術時，可使用 idarucizumab 反轉抗凝作用，敘述正確。\n- C. Apixaban 一般為一天兩次；若希望一天一次，較常想到 rivaroxaban 或 edoxaban。\n- D. Aspirin 不能取代抗凝血作為心房顫動中風預防，即使出血風險高也應調整風險而非改 aspirin。\n\n【核心考點】\n心房顫動中風預防以抗凝血為核心；dabigatran 的特異性反轉劑是 idarucizumab。",
+      "key_point": "Dabigatran 有特異性 reversal agent idarucizumab。",
+      "flashcard_front": "心房顫動抗凝血",
+      "flashcard_back": "Dabigatran 有特異性 reversal agent idarucizumab。",
+      "flashcard_summary": "心房顫動抗凝血：Dabigatran 有特異性 reversal agent idarucizumab。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
