@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\nZileuton 抑制 5-lipoxygenase，減少 leukotriene 合成，可用於輕中度氣喘控制。其他選項不是氣喘控制藥，NSAIDs 還可能誘發氣喘惡化。\n\n【選項詳解】\n- A. Misoprostol 是 PGE1 analog，用於胃潰瘍預防或婦產科用途，不治療氣喘。\n- B. Ibuprofen 是 NSAID，非氣喘治療藥，部分病人還會因 COX inhibition 誘發氣喘。\n- C. 正確。Zileuton 抑制 5-lipoxygenase，降低 leukotriene，適用於氣喘控制。\n- D. Indomethacin 是 NSAID，不是氣喘治療藥，亦可能加重 aspirin-sensitive asthma。\n\n【核心考點】\n氣喘 leukotriene 路徑：zileuton 抑 5-LOX，montelukast/zafirlukast 阻 receptor。",
+      "key_point": "Zileuton 可用於輕中度氣喘，因其抑制 leukotriene 合成。",
+      "flashcard_front": "Zileuton 與氣喘",
+      "flashcard_back": "氣喘 leukotriene 路徑：zileuton 抑 5-LOX，montelukast/zafirlukast 阻 receptor。",
+      "flashcard_summary": "Zileuton 與氣喘：Zileuton 可用於輕中度氣喘，因其抑制 leukotriene 合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\nFluoxetine 是 selective serotonin reuptake inhibitor，抗憂鬱作用主要與增加 synaptic serotonin 有關。\n\n【選項詳解】\n- A. Norepinephrine 與 SNRI、TCA 等有關，但 fluoxetine 最典型是 serotonin。\n- B. 正確。Fluoxetine 抑制 serotonin reuptake，提高 5-HT 神經傳遞。\n- C. Glutamate 不是 fluoxetine 的主要抗憂鬱機轉。\n- D. Acetylcholine 與抗膽鹼副作用等較相關，不是 fluoxetine 的主要機轉。\n\n【核心考點】\nSSRI 名稱常 -oxetine、-traline、-pram；核心是增加 serotonin。",
+      "key_point": "Fluoxetine 的抗憂鬱作用主要與 serotonin 有關。",
+      "flashcard_front": "Fluoxetine 與 serotonin",
+      "flashcard_back": "SSRI 名稱常 -oxetine、-traline、-pram；核心是增加 serotonin。",
+      "flashcard_summary": "Fluoxetine 與 serotonin：Fluoxetine 的抗憂鬱作用主要與 serotonin 有關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nPhenytoin 延長 voltage-gated sodium channel inactive state，且是肝臟微粒體酵素誘導劑，會增加許多藥物代謝；說它抑制酵素、減少代謝是錯的。\n\n【選項詳解】\n- A. 對。Phenytoin 延長鈉離子通道不反應期，抑制高頻放電。\n- B. 錯。Phenytoin 是 CYP enzyme inducer，通常增加其他藥物代謝。\n- C. 對。Phenytoin 高度與 albumin 結合，低白蛋白時游離濃度會上升。\n- D. 對。Fosphenytoin 是水溶性前驅藥，溶解度較 phenytoin 好。\n\n【核心考點】\nPhenytoin：Na channel、零級動力學、高蛋白結合、CYP inducer、牙齦增生與毛髮增多等副作用。",
+      "key_point": "Phenytoin 是肝酵素誘導劑，不是抑制劑。",
+      "flashcard_front": "Phenytoin 藥理與酵素誘導",
+      "flashcard_back": "Phenytoin：Na channel、零級動力學、高蛋白結合、CYP inducer、牙齦增生與毛髮增多等副作用。",
+      "flashcard_summary": "Phenytoin 藥理與酵素誘導：Phenytoin 是肝酵素誘導劑，不是抑制劑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n長期使用鴉片類會對鎮痛、欣快、呼吸抑制等產生耐受，但 miosis 與 constipation 通常較不易產生耐受。\n\n【選項詳解】\n- A. 正確。瞳孔縮小對鴉片耐受性較不明顯，是長期使用仍可見的表現。\n- B. 鎮痛效果會逐漸產生耐受，需要較高劑量。\n- C. 咳嗽抑制也可產生一定耐受，不是最不容易的選項。\n- D. 欣快感會產生耐受，與成癮用藥增加相關。\n\n【核心考點】\nOpioid tolerance 常見，但 miosis 和 constipation 相對不易產生耐受。",
+      "key_point": "鴉片類作用中，miosis 最不容易產生耐受。",
+      "flashcard_front": "鴉片類耐受性例外",
+      "flashcard_back": "Opioid tolerance 常見，但 miosis 和 constipation 相對不易產生耐受。",
+      "flashcard_summary": "鴉片類耐受性例外：鴉片類作用中，miosis 最不容易產生耐受。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nDeferoxamine 是鐵螯合劑，適用於急性鐵中毒或鐵過量；會形成 ferrioxamine，可使尿液呈 vin rose 色。\n\n【選項詳解】\n- A. Dimercaprol 用於砷、汞、鉛等重金屬中毒，不是鐵中毒首選。\n- B. Penicillamine 常用於銅中毒/Wilson disease，也可用於部分重金屬，不是鐵中毒主藥。\n- C. Melarsoprol 是非洲錐蟲病藥物，不治療鐵中毒。\n- D. 正確。Deferoxamine 螯合鐵，是鐵中毒主要治療藥物。\n\n【核心考點】\n解毒劑配對：鐵 deferoxamine/deferasirox；銅 penicillamine；鉛 EDTA/dimercaprol/succimer。",
+      "key_point": "鐵中毒使用 deferoxamine。",
+      "flashcard_front": "鐵中毒解毒劑",
+      "flashcard_back": "解毒劑配對：鐵 deferoxamine/deferasirox；銅 penicillamine；鉛 EDTA/dimercaprol/succimer。",
+      "flashcard_summary": "鐵中毒解毒劑：鐵中毒使用 deferoxamine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n腦組織缺血梗塞後，因酵素分解與巨噬細胞清除，常形成液化壞死，數月後可留下囊性空洞。\n\n【選項詳解】\n- A. 正確。中樞神經系統梗塞典型是 liquefactive necrosis，晚期可形成 cystic cavity。\n- B. 凝固性壞死較常見於心、腎、脾等實質器官缺血梗塞，不是腦梗塞典型。\n- C. 乾酪性壞死常見於結核等肉芽腫感染。\n- D. 凋亡是個別細胞程序性死亡，不會形成 4 公分囊性空洞的典型病理。\n\n【核心考點】\n缺血壞死例外：腦梗塞是液化壞死；多數其他實質器官是凝固性壞死。",
+      "key_point": "大腦梗塞後囊性空洞代表液化壞死。",
+      "flashcard_front": "腦梗塞與液化壞死",
+      "flashcard_back": "缺血壞死例外：腦梗塞是液化壞死；多數其他實質器官是凝固性壞死。",
+      "flashcard_summary": "腦梗塞與液化壞死：大腦梗塞後囊性空洞代表液化壞死。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nTGF-beta 是促進 fibroblast activation、collagen deposition 與組織纖維化的核心 cytokine/growth factor。\n\n【選項詳解】\n- A. 正確。TGF-beta 是纖維化與膠原沉積最重要的促進因子之一。\n- B. IL-1 促發炎與發燒等，雖可間接參與修復，但不是纖維化最核心答案。\n- C. Selectin 主要參與白血球滾動與黏附。\n- D. Histamine 造成血管擴張、通透性增加與過敏反應，不是纖維化主因。\n\n【核心考點】\nFibrosis 高產因子就是 TGF-beta：刺激 fibroblast 與 collagen。",
+      "key_point": "組織纖維化最相關的是 TGF-beta。",
+      "flashcard_front": "TGF-beta 與纖維化",
+      "flashcard_back": "Fibrosis 高產因子就是 TGF-beta：刺激 fibroblast 與 collagen。",
+      "flashcard_summary": "TGF-beta 與纖維化：組織纖維化最相關的是 TGF-beta。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nHSV 與 VZV 都屬 herpesvirus，可在感覺神經節建立 latent infection，日後再活化造成復發性疱疹或帶狀疱疹；poliovirus 不以感覺神經元潛伏感染為主要病理。\n\n【選項詳解】\n- A. 包含 poliovirus，因此錯。Poliovirus 主要侵犯運動神經元造成急性無力，不是感覺神經元潛伏。\n- B. 包含 poliovirus 且缺少 VZV，因此錯。\n- C. 包含 poliovirus 且缺少 HSV，因此錯。\n- D. 正確。HSV 與 VZV 會潛伏於感覺神經節，造成復發性臨床表現。\n\n【核心考點】\nHerpesviruses 特色是 latent infection；HSV/VZV 潛伏在感覺神經節。",
+      "key_point": "HSV 與 VZV 可在感覺神經元建立潛伏感染。",
+      "flashcard_front": "感覺神經元潛伏感染：HSV/VZV",
+      "flashcard_back": "Herpesviruses 特色是 latent infection；HSV/VZV 潛伏在感覺神經節。",
+      "flashcard_summary": "感覺神經元潛伏感染：HSV/VZV：HSV 與 VZV 可在感覺神經元建立潛伏感染。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n象腿症是淋巴阻塞導致肢體或陰囊巨大腫脹，最典型病因是淋巴絲蟲感染，如 Wuchereria bancrofti。\n\n【選項詳解】\n- A. 猩紅熱由 A 群鏈球菌毒素造成皮疹與咽炎，不造成象腿症。\n- B. 弓漿蟲病不以淋巴阻塞性象腿症為主要表現。\n- C. 膿痂疹是皮膚細菌感染，不是象腿症典型病因。\n- D. 正確。Filariasis 可造成慢性淋巴阻塞與 elephantiasis。\n\n【核心考點】\nElephantiasis 幾乎直接聯想 lymphatic filariasis。",
+      "key_point": "象腿症最典型出現於絲蟲病。",
+      "flashcard_front": "象腿症與絲蟲病",
+      "flashcard_back": "Elephantiasis 幾乎直接聯想 lymphatic filariasis。",
+      "flashcard_summary": "象腿症與絲蟲病：象腿症最典型出現於絲蟲病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n高核質比、深染與多形性可在反應性或增生性良性細胞中某種程度出現；不典型有絲分裂最支持惡性，最不可能出現在良性細胞。\n\n【選項詳解】\n- A. 正確。Atypical mitoses 是惡性腫瘤重要形態特徵，良性細胞最不應出現。\n- B. 高核質比可提示惡性，但某些未成熟或反應性細胞也可較高，不如 atypical mitoses 特異。\n- C. Hyperchromasia 可見於惡性，也可能在退化或反應性變化中出現。\n- D. Pleomorphism 支持惡性，但某些良性反應或內分泌組織也可有形態變異。\n\n【核心考點】\n惡性形態中最特異要看 atypical mitotic figures、侵犯與轉移；單一深染或多形性較不特異。",
+      "key_point": "Atypical mitoses 最不可能出現在良性細胞。",
+      "flashcard_front": "惡性腫瘤細胞形態：不典型有絲分裂",
+      "flashcard_back": "惡性形態中最特異要看 atypical mitotic figures、侵犯與轉移；單一深染或多形性較不特異。",
+      "flashcard_summary": "惡性腫瘤細胞形態：不典型有絲分裂：Atypical mitoses 最不可能出現在良性細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

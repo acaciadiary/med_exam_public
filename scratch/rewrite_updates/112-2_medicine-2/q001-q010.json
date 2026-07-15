@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題目問兩型痲瘋病比較中「最不適當」的敘述。Tuberculoid leprosy 以強細胞免疫、lepromin test 陽性和菌量少為特色；lepromatous leprosy 則細胞免疫差、菌量多、傳染力高，lepromin 反應通常弱或陰性，因此 A 是錯誤敘述。\n\n【選項詳解】\n- A. 錯。兩型並不都對 lepromin 有高度免疫反應；高度反應主要見於 tuberculoid leprosy，lepromatous leprosy 因細胞免疫低下常為陰性或弱反應。\n- B. 對。Tuberculoid leprosy 以局部肉芽腫和細胞免疫為主，體液免疫球蛋白量通常不會像 lepromatous leprosy 那樣明顯上升。\n- C. 對。Lepromatous leprosy 可發生 erythema nodosum leprosum，屬免疫複合體相關反應。\n- D. 對。Lepromatous leprosy 菌量多、病灶廣泛，傳染力通常高於 tuberculoid leprosy。\n\n【核心考點】\n痲瘋病兩型的考點是細胞免疫強弱：tuberculoid 強、lepromin 陽性、菌少；lepromatous 弱、lepromin 弱或陰性、菌多且傳染力高。",
+      "key_point": "Lepromatous leprosy 不是 lepromin 高反應，而是細胞免疫差、菌量多。",
+      "flashcard_front": "痲瘋病：tuberculoid 與 lepromatous leprosy",
+      "flashcard_back": "痲瘋病兩型的考點是細胞免疫強弱：tuberculoid 強、lepromin 陽性、菌少；lepromatous 弱、lepromin 弱或陰性、菌多且傳染力高。",
+      "flashcard_summary": "痲瘋病：tuberculoid 與 lepromatous leprosy：Lepromatous leprosy 不是 lepromin 高反應，而是細胞免疫差、菌量多。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題幹的關鍵是細菌性肝膿瘍、MacConkey agar 粉紅色菌落代表乳糖發酵，且菌落高度黏稠，最典型是高黏液型 Klebsiella pneumoniae。\n\n【選項詳解】\n- A. 大腸桿菌可乳糖發酵而呈粉紅色，但不以高度黏稠莢膜菌落和侵襲性肝膿瘍為典型線索。\n- B. 創傷弧菌常與海水、海鮮、壞死性軟組織感染或敗血症相關，不是 MacConkey 高黏稠乳糖發酵菌落的典型答案。\n- C. 霍亂弧菌以水樣腹瀉和 TCBS 培養基線索較典型，不是造成高黏稠肝膿瘍菌落的主角。\n- D. 正確。Klebsiella pneumoniae 是乳糖發酵革蘭陰性桿菌，莢膜使菌落黏稠，亞洲常見侵襲性肝膿瘍表現。\n\n【核心考點】\n肝膿瘍加上 MacConkey 粉紅色、高黏稠菌落，要想到莢膜明顯的 Klebsiella pneumoniae。",
+      "key_point": "高黏稠乳糖發酵菌落與肝膿瘍是 Klebsiella pneumoniae 的高產線索。",
+      "flashcard_front": "Klebsiella pneumoniae 肝膿瘍與 hypermucoviscosity",
+      "flashcard_back": "肝膿瘍加上 MacConkey 粉紅色、高黏稠菌落，要想到莢膜明顯的 Klebsiella pneumoniae。",
+      "flashcard_summary": "Klebsiella pneumoniae 肝膿瘍與 hypermucoviscosity：高黏稠乳糖發酵菌落與肝膿瘍是 Klebsiella pneumoniae 的高產線索。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n題目問 gyrase-A subunit 突變會影響哪類抗生素。Fluoroquinolones 作用於 DNA gyrase/topoisomerase，gyrA 突變會降低 ciprofloxacin 等藥物敏感性。\n\n【選項詳解】\n- A. 正確。Ciprofloxacin 屬 fluoroquinolone，主要抑制 DNA gyrase 與 topoisomerase IV；gyrA 突變是典型抗藥機轉。\n- B. Ampicillin 是 beta-lactam，作用在細胞壁轉胜肽酶，不是 DNA gyrase。\n- C. Cephalosporin 也是 beta-lactam，抗藥性多與 beta-lactamase、PBP 或通透性改變有關。\n- D. Clindamycin 作用在 50S ribosomal subunit，與 DNA gyrase 突變無直接關係。\n\n【核心考點】\nGyrA/topoisomerase 相關突變對應 fluoroquinolone 抗藥性；細胞壁與蛋白質合成抑制劑不是這個標的。",
+      "key_point": "gyrase-A 突變最典型造成 ciprofloxacin 抗藥。",
+      "flashcard_front": "Fluoroquinolone 抗藥性與 DNA gyrase",
+      "flashcard_back": "GyrA/topoisomerase 相關突變對應 fluoroquinolone 抗藥性；細胞壁與蛋白質合成抑制劑不是這個標的。",
+      "flashcard_summary": "Fluoroquinolone 抗藥性與 DNA gyrase：gyrase-A 突變最典型造成 ciprofloxacin 抗藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目問革蘭陰性菌抗藥性通常無關的機制。水解酵素、標的突變與 efflux pump 都常見；形成內孢子是 Bacillus/Clostridium 等革蘭陽性桿菌特色，不是革蘭陰性菌常規抗藥機轉。\n\n【選項詳解】\n- A. 有關。Beta-lactamase 等酵素可水解抗生素，是革蘭陰性菌常見抗藥方式。\n- B. 有關。藥物標的突變可使 quinolone、rifampin 等抗生素失效。\n- C. 有關。Efflux pump 可降低菌體內藥物濃度，是多重抗藥的重要原因。\n- D. 正確。形成內孢子不是革蘭陰性菌典型特徵，也不是其通常抗藥機制。\n\n【核心考點】\n革蘭陰性菌抗藥常考三件事：破壞藥物、改變標的、降低濃度；內孢子不是它們的典型答案。",
+      "key_point": "革蘭陰性菌通常不靠形成內孢子產生抗藥性。",
+      "flashcard_front": "革蘭陰性菌抗藥機轉",
+      "flashcard_back": "革蘭陰性菌抗藥常考三件事：破壞藥物、改變標的、降低濃度；內孢子不是它們的典型答案。",
+      "flashcard_summary": "革蘭陰性菌抗藥機轉：革蘭陰性菌通常不靠形成內孢子產生抗藥性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\nLegionella 需要 L-cysteine 和鐵等特殊營養，最適合的分離培養基是 buffered charcoal yeast extract agar。\n\n【選項詳解】\n- A. 正確。Buffered charcoal yeast extract agar 是分離 Legionella 的經典培養基。\n- B. Caffeic acid agar 常用於 Cryptococcus 等酚氧化酶相關鑑別，不是 Legionella 首選。\n- C. Regan-Lowe agar 用於 Bordetella pertussis 培養。\n- D. Cystine-tellurite agar 常用於 Corynebacterium diphtheriae。\n\n【核心考點】\nLegionella 難培養，記住 BCYE agar；Bordetella 對 Regan-Lowe，白喉桿菌對 tellurite。",
+      "key_point": "Legionella 的分離培養基是 buffered charcoal yeast extract agar。",
+      "flashcard_front": "Legionella 培養基",
+      "flashcard_back": "Legionella 難培養，記住 BCYE agar；Bordetella 對 Regan-Lowe，白喉桿菌對 tellurite。",
+      "flashcard_summary": "Legionella 培養基：Legionella 的分離培養基是 buffered charcoal yeast extract agar。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n金黃色葡萄球菌食物中毒是預先形成、耐熱 enterotoxin 引起，潛伏期短，常在數小時內噁心嘔吐，通常支持療法即可且病程短。\n\n【選項詳解】\n- A. 錯。Staphylococcal enterotoxin 具耐熱性，加熱後食物仍可能致病。\n- B. 錯。疾病由毒素造成，通常以補液與支持療法為主，不需大量抗生素。\n- C. 正確。潛伏期短，約 1-6 小時，平均約 4 小時符合預先形成毒素的特色。\n- D. 錯。症狀多在 24-48 小時內改善，通常不會至少持續 4-5 天。\n\n【核心考點】\n短潛伏期嘔吐型食物中毒要想到預先形成毒素：S. aureus 耐熱腸毒素，治療重點是支持療法。",
+      "key_point": "S. aureus 腸毒素食物中毒潛伏期短，約數小時發作。",
+      "flashcard_front": "Staphylococcus aureus 腸毒素食物中毒",
+      "flashcard_back": "短潛伏期嘔吐型食物中毒要想到預先形成毒素：S. aureus 耐熱腸毒素，治療重點是支持療法。",
+      "flashcard_summary": "Staphylococcus aureus 腸毒素食物中毒：S. aureus 腸毒素食物中毒潛伏期短，約數小時發作。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問最不可能經由性行為傳染的致病菌。淋病、梅毒、砂眼披衣菌都是典型性傳染病；Listeria monocytogenes 主要經污染食物感染。\n\n【選項詳解】\n- A. Neisseria gonorrhoeae 是典型性傳染病病原，會造成尿道炎、子宮頸炎等。\n- B. Treponema pallidum 經性接觸傳播，是梅毒病原。\n- C. Chlamydia trachomatis 常造成性傳染之尿道炎、子宮頸炎和骨盆腔發炎。\n- D. 正確。Listeria monocytogenes 多經受污染食物傳播，與孕婦、新生兒、免疫低下感染相關，不是典型性傳染病。\n\n【核心考點】\n性傳染病常見病原包括淋病雙球菌、梅毒螺旋體、砂眼披衣菌；Listeria 主要是食媒感染。",
+      "key_point": "Listeria monocytogenes 最不可能是性行為傳染病原。",
+      "flashcard_front": "性傳染病病原",
+      "flashcard_back": "性傳染病常見病原包括淋病雙球菌、梅毒螺旋體、砂眼披衣菌；Listeria 主要是食媒感染。",
+      "flashcard_summary": "性傳染病病原：Listeria monocytogenes 最不可能是性行為傳染病原。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n題目問細菌呼吸作用最不適當的敘述。有氧呼吸以氧為終端電子接受者，能量產量通常高於無氧呼吸與發酵；無氧呼吸不會比有氧呼吸產生更多 ATP。\n\n【選項詳解】\n- A. 對。有氧呼吸利用電子傳遞鏈與氧化磷酸化，ATP 產量高於發酵。\n- B. 對。細菌沒有粒線體，電子傳遞鏈位在細胞膜。\n- C. 對。兼性厭氧菌可在無氧環境使用非氧電子接受者進行無氧呼吸，或改走發酵。\n- D. 錯。有氧呼吸通常 ATP 產量最高，無氧呼吸因終端電子接受者能量較低，產量較少。\n\n【核心考點】\n能量產量大致為有氧呼吸最高，無氧呼吸次之，發酵較低；細菌電子傳遞鏈在細胞膜。",
+      "key_point": "無氧呼吸不會比有氧呼吸產生更多 ATP。",
+      "flashcard_front": "細菌呼吸作用與 ATP 產量",
+      "flashcard_back": "能量產量大致為有氧呼吸最高，無氧呼吸次之，發酵較低；細菌電子傳遞鏈在細胞膜。",
+      "flashcard_summary": "細菌呼吸作用與 ATP 產量：無氧呼吸不會比有氧呼吸產生更多 ATP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問敗血梭狀芽胞桿菌不是何者。C. septicum 是厭氧、芽胞形成革蘭陽性桿菌，與 occult colon cancer、非外傷性肌壞死有關；「對氧氣有耐受性」不符合典型梭菌特色。\n\n【選項詳解】\n- A. 正確。Clostridium 屬多為厭氧菌，C. septicum 雖可存在環境中，但描述成對氧氣有耐受性並不恰當。\n- B. 對。C. septicum bacteremia 或 myonecrosis 與潛藏性大腸癌有重要關聯。\n- C. 對。梭菌在血液培養基可呈擴散或游走樣生長，並可有溶血表現。\n- D. 對。C. septicum 可造成 spontaneous/nontraumatic gas gangrene 或 myonecrosis。\n\n【核心考點】\nC. septicum 的高產聯想是 occult colon cancer 與非外傷性肌壞死；梭菌整體仍以厭氧為核心。",
+      "key_point": "C. septicum 與大腸癌、非外傷性肌壞死相關，不是耐氧菌。",
+      "flashcard_front": "Clostridium septicum 特徵",
+      "flashcard_back": "C. septicum 的高產聯想是 occult colon cancer 與非外傷性肌壞死；梭菌整體仍以厭氧為核心。",
+      "flashcard_summary": "Clostridium septicum 特徵：C. septicum 與大腸癌、非外傷性肌壞死相關，不是耐氧菌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n題目問病毒敘述最適當者。RNA-dependent RNA polymerase 校對能力較差，RNA 病毒複製錯誤率通常高於 DNA 病毒。\n\n【選項詳解】\n- A. 正確。RNA 病毒聚合酶缺乏有效 proofreading，突變率通常高於 DNA 病毒。\n- B. 不精確。病毒增殖是依感染週期產生大量子代，不能簡化成等比級數作為通則。\n- C. 錯。無套膜的腸病毒通常比有套膜的流感病毒更能耐受環境。\n- D. 錯。多數 RNA 病毒在細胞質複製，但 influenza virus 等會在細胞核進行重要複製步驟。\n\n【核心考點】\nRNA 病毒高突變率是核心；但不要忘記 influenza 是 RNA 病毒中會進入細胞核複製的例外。",
+      "key_point": "RNA 病毒的複製錯誤率通常高於 DNA 病毒。",
+      "flashcard_front": "病毒複製與 RNA 病毒變異",
+      "flashcard_back": "RNA 病毒高突變率是核心；但不要忘記 influenza 是 RNA 病毒中會進入細胞核複製的例外。",
+      "flashcard_summary": "病毒複製與 RNA 病毒變異：RNA 病毒的複製錯誤率通常高於 DNA 病毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

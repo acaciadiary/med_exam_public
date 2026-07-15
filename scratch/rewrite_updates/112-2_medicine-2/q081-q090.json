@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n以 systolic dysfunction 為主的心肌病常見於 dilated cardiomyopathy，原因包括酒精、doxorubicin、病毒性心肌炎、TTN mutation 等；amyloidosis 通常造成 restrictive cardiomyopathy 與舒張功能障礙。\n\n【選項詳解】\n- A. 只包含酒精與 doxorubicin，漏掉 TTN mutation，因此不完整。\n- B. 正確。酒精、doxorubicin、TTN 基因突變皆可造成以收縮功能障礙為主的心肌病。\n- C. 漏掉酒精，且 doxorubicin 也是重要原因，因此不完整。\n- D. 包含 amyloidosis；類澱粉沉積較典型是 restrictive cardiomyopathy，不是 systolic dysfunction 主機轉。\n\n【核心考點】\nDilated cardiomyopathy 對 systolic dysfunction；restrictive cardiomyopathy 對 amyloidosis 與 diastolic dysfunction。",
+      "key_point": "酒精、doxorubicin、TTN mutation 可造成收縮功能障礙心肌病。",
+      "flashcard_front": "擴張型心肌病與收縮功能障礙",
+      "flashcard_back": "Dilated cardiomyopathy 對 systolic dysfunction；restrictive cardiomyopathy 對 amyloidosis 與 diastolic dysfunction。",
+      "flashcard_summary": "擴張型心肌病與收縮功能障礙：酒精、doxorubicin、TTN mutation 可造成收縮功能障礙心肌病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\nPTT 反映 intrinsic/common pathway。Hemophilia A 因 factor VIII 缺乏會延長 PTT；Von Willebrand disease 因 vWF 穩定 factor VIII，也可使 PTT 增加。TTP 與 Glanzmann 主要是血小板問題，PTT 通常不延長。\n\n【選項詳解】\n- A. 包含 Hemophilia A 正確，但 TTP 通常凝血時間正常，因此不對。\n- B. 正確。Hemophilia A 與 VWD 都可造成 PTT 增加。\n- C. Glanzmann 是 GPIIb/IIIa 缺陷造成血小板聚集異常，PT/PTT 通常正常。\n- D. 包含 Glanzmann，故不正確；TTP 與 VWD 的機轉也不同。\n\n【核心考點】\nPTT 延長：intrinsic pathway factor 缺乏或 inhibitor；VWD 可因 factor VIII 降低而延長 PTT。",
+      "key_point": "Hemophilia A 與 Von Willebrand disease 可增加 PTT。",
+      "flashcard_front": "PTT 延長疾病",
+      "flashcard_back": "PTT 延長：intrinsic pathway factor 缺乏或 inhibitor；VWD 可因 factor VIII 降低而延長 PTT。",
+      "flashcard_summary": "PTT 延長疾病：Hemophilia A 與 Von Willebrand disease 可增加 PTT。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nThymic follicular hyperplasia 最典型與 myasthenia gravis 相關，病理可見 germinal centers，反映自體免疫 B 細胞反應。\n\n【選項詳解】\n- A. 類風濕性關節炎可有淋巴濾泡樣變化，但不是胸腺濾泡增生最典型疾病。\n- B. 正確。重症肌無力常合併 thymic follicular hyperplasia，也可合併 thymoma。\n- C. Graves disease 是自體免疫甲狀腺疾病，不是胸腺濾泡增生最常見配對。\n- D. 硬皮症與纖維化、自體免疫相關，不是此胸腺病變典型答案。\n\n【核心考點】\nMG 與 thymus 關聯很強：可見 thymic hyperplasia 或 thymoma。",
+      "key_point": "胸腺淋巴濾泡增生最常見於重症肌無力。",
+      "flashcard_front": "胸腺濾泡增生與重症肌無力",
+      "flashcard_back": "MG 與 thymus 關聯很強：可見 thymic hyperplasia 或 thymoma。",
+      "flashcard_summary": "胸腺濾泡增生與重症肌無力：胸腺淋巴濾泡增生最常見於重症肌無力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\nThymoma 可伴隨多種副腫瘤自體免疫表現，包含 myasthenia gravis、pure red cell aplasia 和 hypogammaglobulinemia。\n\n【選項詳解】\n- A. 畸胎瘤可含多胚層組織，但不是 pure red cell aplasia 最典型腫瘤。\n- B. 正確。Thymoma 最常與 pure red cell aplasia 併發。\n- C. 腦膜瘤不以純紅血球再生不良為典型副腫瘤表現。\n- D. 生殖細胞瘤不是 PRCA 的經典配對。\n\n【核心考點】\nThymoma 的伴隨疾病：myasthenia gravis、pure red cell aplasia、Good syndrome。",
+      "key_point": "純紅血球再生不良最常併發胸腺瘤。",
+      "flashcard_front": "Thymoma 與 pure red cell aplasia",
+      "flashcard_back": "Thymoma 的伴隨疾病：myasthenia gravis、pure red cell aplasia、Good syndrome。",
+      "flashcard_summary": "Thymoma 與 pure red cell aplasia：純紅血球再生不良最常併發胸腺瘤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\nG6PD 溶血、大球性貧血與再生不良性貧血都可由藥物引發；小球性貧血最常與缺鐵、慢性病或血紅素合成異常相關，與藥物使用最不直接。\n\n【選項詳解】\n- A. G6PD 缺乏者使用氧化性藥物可誘發溶血性貧血。\n- B. 大球性貧血可由 methotrexate、trimethoprim、phenytoin 等影響葉酸代謝藥物造成。\n- C. 再生不良性貧血可與 chloramphenicol、化療藥等藥物相關。\n- D. 正確。小球性貧血多與缺鐵或 thalassemia 等相關，與藥物使用最不相關。\n\n【核心考點】\n藥物可造成溶血、巨球性或骨髓抑制；小球性貧血優先想缺鐵與血紅素病。",
+      "key_point": "小球性貧血與藥物使用最不相關。",
+      "flashcard_front": "藥物相關貧血類型",
+      "flashcard_back": "藥物可造成溶血、巨球性或骨髓抑制；小球性貧血優先想缺鐵與血紅素病。",
+      "flashcard_summary": "藥物相關貧血類型：小球性貧血與藥物使用最不相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n肺腺癌是最常見的原發性肺癌型態，特別常見於女性、年輕、非吸菸者與周邊肺部病灶。\n\n【選項詳解】\n- A. 鱗狀細胞癌與吸菸關聯強，常中央型，不是年輕不抽菸女性最常見。\n- B. 正確。Adenocarcinoma 是年輕女性與非吸菸者最常見的原發性肺癌。\n- C. 小細胞癌與吸菸高度相關，惡性度高，常中央型。\n- D. 大細胞癌較少見，不是此族群最常見型態。\n\n【核心考點】\n非吸菸者、女性、周邊肺癌，優先想到 adenocarcinoma。",
+      "key_point": "年輕不抽菸女性最常見原發性肺癌是腺癌。",
+      "flashcard_front": "肺腺癌流行病學",
+      "flashcard_back": "非吸菸者、女性、周邊肺癌，優先想到 adenocarcinoma。",
+      "flashcard_summary": "肺腺癌流行病學：年輕不抽菸女性最常見原發性肺癌是腺癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\nCOPD/阻塞性肺疾病包括肺氣腫、慢性支氣管炎、支氣管擴張與氣喘等；ARDS 是急性瀰漫性肺泡傷害造成的限制性/換氣障礙，不屬於瀰漫性阻塞性肺疾病。\n\n【選項詳解】\n- A. 肺氣腫是 COPD 代表之一，屬阻塞性肺疾病。\n- B. 慢性支氣管炎是 COPD 代表之一。\n- C. 支氣管擴張會造成阻塞性通氣障礙與慢性化膿性感染。\n- D. 正確。ARDS 是急性肺泡上皮與微血管傷害，不屬於瀰漫性阻塞性肺疾病。\n\n【核心考點】\n阻塞性肺病看氣流呼出受限；ARDS 是 diffuse alveolar damage，不是 COPD 類。",
+      "key_point": "ARDS 不屬於瀰漫性阻塞性肺疾病。",
+      "flashcard_front": "瀰漫性阻塞性肺疾病",
+      "flashcard_back": "阻塞性肺病看氣流呼出受限；ARDS 是 diffuse alveolar damage，不是 COPD 類。",
+      "flashcard_summary": "瀰漫性阻塞性肺疾病：ARDS 不屬於瀰漫性阻塞性肺疾病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n氣喘常與 Th2、IgE、eosinophil、Curschmann spirals、Charcot-Leyden crystals 相關，屬第一型過敏反應；說屬第二型過敏反應最不適當。\n\n【選項詳解】\n- A. 對。Th2 細胞分泌 IL-4、IL-5、IL-13，促進 IgE、嗜酸性球和黏液分泌。\n- B. 錯。氣喘典型屬 type I hypersensitivity，不是 type II cytotoxic hypersensitivity。\n- C. 對。嗜酸性白血球增加是過敏性氣喘常見特徵。\n- D. 對。Curschmann spirals 是支氣管黏液栓旋渦狀結構，可見於氣喘。\n\n【核心考點】\n氣喘病理記 type I hypersensitivity、Th2、IgE、eosinophils、Curschmann spirals。",
+      "key_point": "氣喘最不適當的敘述是屬於第二型過敏反應。",
+      "flashcard_front": "氣喘病理與過敏型態",
+      "flashcard_back": "氣喘病理記 type I hypersensitivity、Th2、IgE、eosinophils、Curschmann spirals。",
+      "flashcard_summary": "氣喘病理與過敏型態：氣喘最不適當的敘述是屬於第二型過敏反應。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n急性胰臟炎常見原因包括膽石、酒精、高三酸甘油脂、ERCP、藥物與高血鈣；低血鈣通常是胰臟炎結果或嚴重度指標，不是常見原因。\n\n【選項詳解】\n- A. 酗酒是急性胰臟炎最常見原因之一。\n- B. 胰管阻塞，特別是膽石阻塞壺腹部，可引發急性胰臟炎。\n- C. 高三酸甘油脂血症是急性胰臟炎重要原因。\n- D. 正確。低血鈣不是常見原因；相反地，急性胰臟炎可因脂肪皂化造成低血鈣。\n\n【核心考點】\n急性胰臟炎原因記 gallstones、alcohol、hypertriglyceridemia、hypercalcemia；hypocalcemia 是結果。",
+      "key_point": "低血鈣不是常見急性胰臟炎原因。",
+      "flashcard_front": "急性胰臟炎原因",
+      "flashcard_back": "急性胰臟炎原因記 gallstones、alcohol、hypertriglyceridemia、hypercalcemia；hypocalcemia 是結果。",
+      "flashcard_summary": "急性胰臟炎原因：低血鈣不是常見急性胰臟炎原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n最常見唾液腺良性腫瘤是 pleomorphic adenoma；最常見惡性唾液腺腫瘤通常是 mucoepidermoid carcinoma，不是 squamous cell carcinoma。\n\n【選項詳解】\n- A. 對。Pleomorphic adenoma 是最常見唾液腺良性腫瘤。\n- B. 錯。最常見唾液腺惡性腫瘤為 mucoepidermoid carcinoma，而不是 squamous cell carcinoma。\n- C. 對。Mucoepidermoid carcinoma 常見 MAML2 translocation。\n- D. 對。Adenoid cystic carcinoma 典型有 perineural invasion，疼痛與復發風險高。\n\n【核心考點】\n唾液腺：最常見良性 pleomorphic adenoma；最常見惡性 mucoepidermoid carcinoma；adenoid cystic carcinoma 愛侵犯神經。",
+      "key_point": "最常見唾液腺惡性腫瘤不是鱗狀細胞癌，而是黏液表皮樣癌。",
+      "flashcard_front": "唾液腺腫瘤",
+      "flashcard_back": "唾液腺：最常見良性 pleomorphic adenoma；最常見惡性 mucoepidermoid carcinoma；adenoid cystic carcinoma 愛侵犯神經。",
+      "flashcard_summary": "唾液腺腫瘤：最常見唾液腺惡性腫瘤不是鱗狀細胞癌，而是黏液表皮樣癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

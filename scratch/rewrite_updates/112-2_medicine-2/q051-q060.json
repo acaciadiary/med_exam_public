@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nBioavailability 是到達全身循環的未改變藥物比例。靜脈注射直接進入血液，定義上生體可用率為 100%，高於口服、直腸或吸入等途徑。\n\n【選項詳解】\n- A. 口服會受吸收不完全與 first-pass metabolism 影響，bioavailability 通常低於 IV。\n- B. 直腸給藥可部分避開首渡效應，但吸收變異大，不是最高。\n- C. 吸入型藥物可有快速局部或全身作用，但全身生體可用率不一定最高。\n- D. 正確。Intravenous injection 直接進入全身循環，bioavailability 為 100%。\n\n【核心考點】\n問最高 bioavailability，答案幾乎永遠先看 IV，因其沒有吸收與首渡代謝損失。",
+      "key_point": "靜脈注射生體可用率最高，定義為 100%。",
+      "flashcard_front": "生體可用率與給藥途徑",
+      "flashcard_back": "問最高 bioavailability，答案幾乎永遠先看 IV，因其沒有吸收與首渡代謝損失。",
+      "flashcard_summary": "生體可用率與給藥途徑：靜脈注射生體可用率最高，定義為 100%。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n題目問 cephalosporins 錯誤敘述。Ceftazidime 與 cefoperazone 是具有抗綠膿桿菌活性的 cephalosporins，因此說兩者都無法治療 Pseudomonas 是錯的。\n\n【選項詳解】\n- A. 對。Cephalexin 是第一代，對革蘭陽性菌較好，對 Pseudomonas 效果差。\n- B. 對。Cefuroxime 第二代可涵蓋 H. influenzae 等呼吸道病原。\n- C. 錯。Ceftazidime 與 cefoperazone 都具抗 P. aeruginosa 活性。\n- D. 對。Enterobacter 可誘導 AmpC beta-lactamase，使用 ceftriaxone 容易出現抗藥性。\n\n【核心考點】\n抗綠膿 cephalosporin 要記 ceftazidime、cefepime、cefoperazone 等；Enterobacter 小心 AmpC。",
+      "key_point": "Ceftazidime 與 cefoperazone 可用於 Pseudomonas 感染。",
+      "flashcard_front": "Cephalosporin 世代與 Pseudomonas",
+      "flashcard_back": "抗綠膿 cephalosporin 要記 ceftazidime、cefepime、cefoperazone 等；Enterobacter 小心 AmpC。",
+      "flashcard_summary": "Cephalosporin 世代與 Pseudomonas：Ceftazidime 與 cefoperazone 可用於 Pseudomonas 感染。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\nDoxorubicin 是 anthracycline 類抗腫瘤抗生素，主要抑制 topoisomerase II、嵌入 DNA 並產生自由基；不是抑制 topoisomerase I。\n\n【選項詳解】\n- A. 對。Doxorubicin 屬 anthracycline，傳統分類為抗腫瘤抗生素。\n- B. 錯。Doxorubicin 主要抑制 topoisomerase II；topoisomerase I 抑制劑是 irinotecan、topotecan 等。\n- C. 對。心肌自由基傷害與累積劑量相關心臟毒性是高產考點。\n- D. 對。Doxorubicin 屬 cell cycle-nonspecific agent。\n\n【核心考點】\nDoxorubicin：topoisomerase II、free radical、cardiotoxicity；topoisomerase I 是 irinotecan/topotecan。",
+      "key_point": "Doxorubicin 不是 topoisomerase I 抑制劑，而是 topoisomerase II 相關。",
+      "flashcard_front": "Doxorubicin 機轉與毒性",
+      "flashcard_back": "Doxorubicin：topoisomerase II、free radical、cardiotoxicity；topoisomerase I 是 irinotecan/topotecan。",
+      "flashcard_summary": "Doxorubicin 機轉與毒性：Doxorubicin 不是 topoisomerase I 抑制劑，而是 topoisomerase II 相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nBleomycin 是抗腫瘤抗生素，可造成 DNA strand breaks，臨床作為抗癌藥；其餘選項主要是抗菌藥或不同用途。\n\n【選項詳解】\n- A. 正確。Bleomycin 可抑制腫瘤細胞增殖，主要臨床用途是抗癌，毒性常考肺纖維化。\n- B. Gentamicin 是 aminoglycoside 抗生素，主要治療細菌感染，不是抗癌藥。\n- C. Telithromycin 是 ketolide/macrolide 類抗生素，用於呼吸道感染等，不是抗癌藥。\n- D. Daptomycin 是抗革蘭陽性菌藥物，作用於細胞膜，不作為抗癌藥。\n\n【核心考點】\n抗癌抗生素常見 doxorubicin、bleomycin、dactinomycin；bleomycin 要記 DNA breaks 與肺毒性。",
+      "key_point": "Bleomycin 是臨床抗癌用的抗生素類藥物。",
+      "flashcard_front": "Bleomycin 抗癌抗生素",
+      "flashcard_back": "抗癌抗生素常見 doxorubicin、bleomycin、dactinomycin；bleomycin 要記 DNA breaks 與肺毒性。",
+      "flashcard_summary": "Bleomycin 抗癌抗生素：Bleomycin 是臨床抗癌用的抗生素類藥物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\nCyclophosphamide 是 alkylating agent prodrug，須經肝臟 cytochrome P450 活化後產生 DNA alkylating 作用。\n\n【選項詳解】\n- A. 錯。Azathioprine 是 6-mercaptopurine 的前驅物，兩者屬免疫抑制/抗代謝藥，不是免疫增強劑。\n- B. 錯。CHOP 的 C 是 cyclophosphamide，不是 cisplatin；H 是 doxorubicin，O 是 vincristine，P 是 prednisone。\n- C. 正確。Cyclophosphamide 經 CYP450 活化後形成具 alkylating 作用的代謝物。\n- D. 錯。Methotrexate 抑制 dihydrofolate reductase，不是 topoisomerase II。\n\n【核心考點】\nCyclophosphamide 是 CYP 活化的 alkylating prodrug；MTX 抑制 DHFR；CHOP 的 C 是 cyclophosphamide。",
+      "key_point": "Cyclophosphamide 需經 CYP450 活化才具 DNA alkylating 作用。",
+      "flashcard_front": "抗癌藥物基礎機轉",
+      "flashcard_back": "Cyclophosphamide 是 CYP 活化的 alkylating prodrug；MTX 抑制 DHFR；CHOP 的 C 是 cyclophosphamide。",
+      "flashcard_summary": "抗癌藥物基礎機轉：Cyclophosphamide 需經 CYP450 活化才具 DNA alkylating 作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nCyclosporine 抑制 calcineurin，減少 NFAT 活化與 IL-2 transcription，抑制 T 細胞活化。它不是主要減少 IL-1 產生。\n\n【選項詳解】\n- A. 對。Cyclosporine-cyclophilin complex 抑制 calcineurin。\n- B. 對。Calcineurin 被抑制後 NFAT 無法有效進入細胞核促進 IL-2 表現。\n- C. 錯。Cyclosporine 的核心是減少 IL-2，而不是 IL-1。\n- D. 對。腎毒性與高血壓是 cyclosporine 重要副作用。\n\n【核心考點】\nCalcineurin inhibitors：cyclosporine、tacrolimus；都降低 IL-2，毒性常考腎毒性、高血壓。",
+      "key_point": "Cyclosporine 主要減少 IL-2，不是 IL-1。",
+      "flashcard_front": "Cyclosporine 與 calcineurin",
+      "flashcard_back": "Calcineurin inhibitors：cyclosporine、tacrolimus；都降低 IL-2，毒性常考腎毒性、高血壓。",
+      "flashcard_summary": "Cyclosporine 與 calcineurin：Cyclosporine 主要減少 IL-2，不是 IL-1。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nAbciximab 是 monoclonal antibody fragment，抑制血小板 GPIIb/IIIa receptor，阻斷 fibrinogen 橋接造成的血小板凝集。題目選項 B 把 receptor 寫成 IIIb/IIa，順序與名稱錯誤。\n\n【選項詳解】\n- A. 對。Abciximab 是單株抗體片段類抗血小板藥。\n- B. 錯。正確標的是 glycoprotein IIb/IIIa，不是 IIIb/IIa。\n- C. 對。抑制 GPIIb/IIIa 會阻斷 fibrinogen 介導的血小板聚集。\n- D. 對。Tirofiban 也是 GPIIb/IIIa inhibitor，機轉類似但不是抗體。\n\n【核心考點】\nGPIIb/IIIa inhibitors 阻斷 fibrinogen 連接血小板；abciximab 是抗體，tirofiban/eptifibatide 是非抗體類。",
+      "key_point": "Abciximab 的標的是 GPIIb/IIIa，不是 GPIIIb/IIa。",
+      "flashcard_front": "Abciximab 與 GPIIb/IIIa",
+      "flashcard_back": "GPIIb/IIIa inhibitors 阻斷 fibrinogen 連接血小板；abciximab 是抗體，tirofiban/eptifibatide 是非抗體類。",
+      "flashcard_summary": "Abciximab 與 GPIIb/IIIa：Abciximab 的標的是 GPIIb/IIIa，不是 GPIIIb/IIa。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nOprelvekin 是 recombinant IL-11，可刺激 megakaryocyte 與血小板生成，用於化療後血小板低下；它不是用來減少周邊嗜中性球。\n\n【選項詳解】\n- A. 對。IL-11 可促進 megakaryocyte 發育並提高血小板數。\n- B. 對。IL-11 對多種造血與免疫細胞可有刺激作用。\n- C. 錯。Oprelvekin 目標是改善 thrombocytopenia，不是降低 neutrophil 數量。\n- D. 對。常見副作用包括疲倦、頭痛、水腫與心律不整等。\n\n【核心考點】\nOprelvekin = IL-11 = 提升血小板；G-CSF/GM-CSF 才是白血球生成相關高產藥。",
+      "key_point": "Oprelvekin 用於化療後血小板低下，不會主要減少 neutrophil。",
+      "flashcard_front": "Oprelvekin 重組 IL-11",
+      "flashcard_back": "Oprelvekin = IL-11 = 提升血小板；G-CSF/GM-CSF 才是白血球生成相關高產藥。",
+      "flashcard_summary": "Oprelvekin 重組 IL-11：Oprelvekin 用於化療後血小板低下，不會主要減少 neutrophil。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nTamoxifen 是 selective estrogen receptor modulator，於乳房組織拮抗 estrogen receptor，常用於 ER 陽性乳癌輔助治療。\n\n【選項詳解】\n- A. Progesterone 不是主要作為 ER 標的乳癌輔助治療的代表藥。\n- B. Ketoconazole 抑制真菌 ergosterol 與人體 steroid synthesis，非乳癌 ER 標的輔助治療代表。\n- C. 正確。Tamoxifen 作用於 estrogen receptor，用於 ER-positive breast cancer。\n- D. Danazol 是弱 androgen 類藥物，常與子宮內膜異位症等用途相關，不是 ER 乳癌輔助治療代表。\n\n【核心考點】\nER-positive breast cancer 的經典藥物：tamoxifen 是 SERM；aromatase inhibitors 降低 estrogen 生成。",
+      "key_point": "Tamoxifen 以 estrogen receptor 為主要標的治療乳癌。",
+      "flashcard_front": "Tamoxifen 與 estrogen receptor",
+      "flashcard_back": "ER-positive breast cancer 的經典藥物：tamoxifen 是 SERM；aromatase inhibitors 降低 estrogen 生成。",
+      "flashcard_summary": "Tamoxifen 與 estrogen receptor：Tamoxifen 以 estrogen receptor 為主要標的治療乳癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nLiraglutide 是 GLP-1 receptor agonist，為 peptide 類藥物，臨床需皮下注射；其餘選項為口服降血糖藥。\n\n【選項詳解】\n- A. Acarbose 是 alpha-glucosidase inhibitor，口服使用。\n- B. Saxagliptin 是 DPP-4 inhibitor，口服使用。\n- C. 正確。Liraglutide 是 GLP-1 receptor agonist，需注射給藥。\n- D. Rosiglitazone 是 thiazolidinedione/PPAR-gamma agonist，口服使用。\n\n【核心考點】\nGLP-1 receptor agonists 多為注射型 peptide；DPP-4 inhibitor、TZD、alpha-glucosidase inhibitor 多為口服。",
+      "key_point": "Liraglutide 必須以注射方式給予。",
+      "flashcard_front": "注射型降血糖藥：GLP-1 agonist",
+      "flashcard_back": "GLP-1 receptor agonists 多為注射型 peptide；DPP-4 inhibitor、TZD、alpha-glucosidase inhibitor 多為口服。",
+      "flashcard_summary": "注射型降血糖藥：GLP-1 agonist：Liraglutide 必須以注射方式給予。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

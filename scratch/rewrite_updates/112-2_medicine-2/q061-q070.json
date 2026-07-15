@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n腎上腺腫瘤造成 Cushing syndrome 時，可用抑制 steroid synthesis 的藥物降低 cortisol。Ketoconazole 可抑制多個 CYP steroidogenic enzymes，減少皮質醇生成。\n\n【選項詳解】\n- A. Triamcinolone 是糖皮質素，會加重類 Cushing 狀態，不是減輕症狀。\n- B. Betamethasone 也是強效糖皮質素，不適合用來降低 Cushing 症狀。\n- C. Fludrocortisone 主要具 mineralocorticoid 活性，不是抑制 cortisol 生成的藥物。\n- D. 正確。Ketoconazole 可抑制腎上腺 steroid synthesis，減少 Cushing syndrome 的 cortisol 過多。\n\n【核心考點】\nCushing 藥物治療可用 ketoconazole、metyrapone、mitotane 等降低 steroid synthesis。",
+      "key_point": "Ketoconazole 可抑制類固醇生成以改善 Cushing syndrome。",
+      "flashcard_front": "Ketoconazole 抑制 steroid synthesis",
+      "flashcard_back": "Cushing 藥物治療可用 ketoconazole、metyrapone、mitotane 等降低 steroid synthesis。",
+      "flashcard_summary": "Ketoconazole 抑制 steroid synthesis：Ketoconazole 可抑制類固醇生成以改善 Cushing syndrome。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nAliskiren 是直接 renin inhibitor，可降低 angiotensin I 生成，用於高血壓；其他選項分別作用在 ACE、aldosterone receptor、AT1 receptor。\n\n【選項詳解】\n- A. 正確。Aliskiren 直接抑制 renin。\n- B. Captopril 是 ACE inhibitor，抑制 angiotensin I 轉成 angiotensin II。\n- C. Eplerenone 是 aldosterone receptor antagonist。\n- D. Losartan 是 angiotensin II receptor blocker，阻斷 AT1 receptor。\n\n【核心考點】\nRAAS 藥物定位：aliskiren 抑 renin，ACEI 抑 ACE，ARB 阻 AT1，spironolactone/eplerenone 阻 aldosterone receptor。",
+      "key_point": "Aliskiren 是直接 renin inhibitor。",
+      "flashcard_front": "直接 renin inhibitor",
+      "flashcard_back": "RAAS 藥物定位：aliskiren 抑 renin，ACEI 抑 ACE，ARB 阻 AT1，spironolactone/eplerenone 阻 aldosterone receptor。",
+      "flashcard_summary": "直接 renin inhibitor：Aliskiren 是直接 renin inhibitor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nAmiodarone 含碘且會影響甲狀腺功能，可抑制 T4 轉換成 T3，也可能造成 hypo- 或 hyperthyroidism。\n\n【選項詳解】\n- A. Adenosine 作用於 AV node，短效治療 PSVT，不是 T4 轉 T3 的典型藥物。\n- B. 正確。Amiodarone 可抑制 peripheral conversion of T4 to T3，且有多種甲狀腺毒性。\n- C. Lidocaine 是 class Ib 抗心律不整藥，不具此甲狀腺轉換抑制特色。\n- D. Dronedarone 結構類似但不含碘，甲狀腺影響較 amiodarone 少，較不符合題幹強調的 T4 轉 T3 抑制。\n\n【核心考點】\nAmiodarone 毒性記肺纖維化、甲狀腺異常、肝毒性、角膜沉積、皮膚變色。",
+      "key_point": "Amiodarone 可抑制 T4 轉變為 T3。",
+      "flashcard_front": "Amiodarone 與甲狀腺作用",
+      "flashcard_back": "Amiodarone 毒性記肺纖維化、甲狀腺異常、肝毒性、角膜沉積、皮膚變色。",
+      "flashcard_summary": "Amiodarone 與甲狀腺作用：Amiodarone 可抑制 T4 轉變為 T3。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\nTolvaptan 是口服 V2 receptor antagonist，可促進 free water excretion，用於低血鈉等情境；conivaptan 通常為靜脈使用。\n\n【選項詳解】\n- A. Conivaptan 是 vasopressin receptor antagonist，但臨床多為 IV，不是口服型代表。\n- B. Metolazone 是 thiazide-like diuretic，不是 ADH antagonist。\n- C. Triamterene 是 ENaC blocker，屬保鉀利尿劑，不是 vaptan。\n- D. 正確。Tolvaptan 是口服 V2 antagonist。\n\n【核心考點】\nVasopressin antagonists 字尾常是 -vaptan；tolvaptan 口服，促進 aquaresis。",
+      "key_point": "Tolvaptan 是口服 vasopressin/ADH receptor antagonist。",
+      "flashcard_front": "Vasopressin antagonist：vaptans",
+      "flashcard_back": "Vasopressin antagonists 字尾常是 -vaptan；tolvaptan 口服，促進 aquaresis。",
+      "flashcard_summary": "Vasopressin antagonist：vaptans：Tolvaptan 是口服 vasopressin/ADH receptor antagonist。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nMirabegron 是 beta-3 adrenergic receptor agonist，可放鬆逼尿肌，治療 overactive bladder。\n\n【選項詳解】\n- A. Sibutramine 是減重相關藥物，非 beta-3 過動膀胱治療藥。\n- B. Lorcaserin 是 5-HT2C agonist 減重藥，不是膀胱 beta-3 藥物。\n- C. 正確。Mirabegron 活化 beta-3 adrenoceptor，促進膀胱儲尿期逼尿肌放鬆。\n- D. Buspirone 是 5-HT1A partial agonist，主要用於焦慮，不治療 overactive bladder。\n\n【核心考點】\n過動膀胱藥物：抗 muscarinic 或 beta-3 agonist mirabegron。",
+      "key_point": "Mirabegron 透過 beta-3 receptor 治療過動膀胱。",
+      "flashcard_front": "Mirabegron 與過動膀胱",
+      "flashcard_back": "過動膀胱藥物：抗 muscarinic 或 beta-3 agonist mirabegron。",
+      "flashcard_summary": "Mirabegron 與過動膀胱：Mirabegron 透過 beta-3 receptor 治療過動膀胱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nVarenicline 是 alpha4beta2 nicotinic acetylcholine receptor partial agonist，用於戒菸；不是 muscarinic receptor antagonist。\n\n【選項詳解】\n- A. 錯。Varenicline 作用於 nicotinic receptor，非 muscarinic receptor antagonist。\n- B. 對。主要臨床用途是 smoking cessation。\n- C. 對。可能出現情緒、睡眠或神經精神相關副作用，需臨床注意。\n- D. 對。戒菸效果通常優於 bupropion。\n\n【核心考點】\nVarenicline = alpha4beta2 nicotinic partial agonist；bupropion = NE/DA reuptake inhibition 與 nicotinic antagonism。",
+      "key_point": "Varenicline 不是 muscarinic antagonist，而是 nicotinic partial agonist。",
+      "flashcard_front": "Varenicline 戒菸藥理",
+      "flashcard_back": "Varenicline = alpha4beta2 nicotinic partial agonist；bupropion = NE/DA reuptake inhibition 與 nicotinic antagonism。",
+      "flashcard_summary": "Varenicline 戒菸藥理：Varenicline 不是 muscarinic antagonist，而是 nicotinic partial agonist。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\nZafirlukast 是 leukotriene receptor antagonist，阻斷 cysteinyl leukotriene receptor，減少支氣管收縮與發炎。\n\n【選項詳解】\n- A. Adenosine receptor antagonist 不是 zafirlukast 的機轉。\n- B. 正確。Zafirlukast 拮抗 leukotriene receptor，用於氣喘控制。\n- C. 減少 cAMP 降解是 phosphodiesterase inhibitor 如 theophylline 的機轉。\n- D. 減少組織胺釋放較接近 mast cell stabilizer 或抗組織胺概念，不是 zafirlukast。\n\n【核心考點】\nLeukotriene modifiers：montelukast/zafirlukast 阻 receptor；zileuton 抑 5-lipoxygenase。",
+      "key_point": "Zafirlukast 是 leukotriene receptor antagonist。",
+      "flashcard_front": "Zafirlukast 氣喘機轉",
+      "flashcard_back": "Leukotriene modifiers：montelukast/zafirlukast 阻 receptor；zileuton 抑 5-lipoxygenase。",
+      "flashcard_summary": "Zafirlukast 氣喘機轉：Zafirlukast 是 leukotriene receptor antagonist。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\nAlvimopan 是周邊 mu-opioid receptor antagonist，用於減少術後腸阻塞；中樞穿透少，但使用上有住院與療程限制，且曾有心血管安全疑慮。\n\n【選項詳解】\n- A. 正確。Alvimopan 屬周邊鴉片受體拮抗劑，臨床使用需注意心血管風險與限制。\n- B. 錯。它較少進入中樞神經；限制使用不是因中樞作用強。\n- C. 錯。因主要作用周邊，可與術後鴉片止痛併用以減少腸道副作用，不會明顯拮抗中樞止痛。\n- D. 錯。Alvimopan 是口服藥，住院限制與安全管理相關，不是只能注射。\n\n【核心考點】\nAlvimopan 是周邊 mu antagonist：改善 opioid-related/postoperative ileus，少進 CNS，口服但有使用限制。",
+      "key_point": "Alvimopan 是周邊鴉片受體拮抗劑並需注意心血管安全。",
+      "flashcard_front": "Alvimopan",
+      "flashcard_back": "Alvimopan 是周邊 mu antagonist：改善 opioid-related/postoperative ileus，少進 CNS，口服但有使用限制。",
+      "flashcard_summary": "Alvimopan：Alvimopan 是周邊鴉片受體拮抗劑並需注意心血管安全。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n官方答案為 tegaserod。Tegaserod 是 5-HT4 receptor agonist，可促進腸胃蠕動；cisapride 也有 5-HT4 agonist 性質但因心律風險限制，題目在選項中以 tegaserod 作為最適合答案。\n\n【選項詳解】\n- A. 正確。Tegaserod 是 5-HT4 agonist，促進 acetylcholine 釋放與腸胃蠕動。\n- B. Cisapride 也具 5-HT4 agonist/prokinetic 作用，但因 QT prolongation 與心律不整風險，臨床使用受限；本題官方取 tegaserod。\n- C. Fluoxetine 是 SSRI，主要用於憂鬱症等，不是 5-HT4 agonist。\n- D. Ritanserin 是 serotonin receptor antagonist 類，不是 5-HT4 agonist 促蠕動藥。\n\n【核心考點】\n5-HT4 agonist 可促進腸胃蠕動；考題若在 tegaserod 與其他藥間選，tegaserod 是典型答案。",
+      "key_point": "Tegaserod 是 5-HT4 agonist。",
+      "flashcard_front": "5-HT4 agonist 與腸胃蠕動",
+      "flashcard_back": "5-HT4 agonist 可促進腸胃蠕動；考題若在 tegaserod 與其他藥間選，tegaserod 是典型答案。",
+      "flashcard_summary": "5-HT4 agonist 與腸胃蠕動：Tegaserod 是 5-HT4 agonist。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\nDinoprostone 是 prostaglandin E2，可促進子宮頸成熟與誘發子宮收縮，常用於引產。\n\n【選項詳解】\n- A. 正確。Dinoprostone/PGE2 可用於 cervical ripening 與 induction of labor。\n- B. Alprostadil 是 PGE1，常用於維持動脈導管開放或勃起功能相關用途，不是最適合引產答案。\n- C. Iloprost 是 prostacyclin analog，用於肺動脈高壓等，不作引產主藥。\n- D. Latanoprost 是 PGF2alpha analog，用於青光眼降低眼壓。\n\n【核心考點】\n引產與子宮頸成熟常用 PGE2 dinoprostone；維持 PDA 用 PGE1 alprostadil；青光眼用 latanoprost。",
+      "key_point": "Dinoprostone 是適合用於懷孕婦女引產的 PGE2。",
+      "flashcard_front": "Dinoprostone 引產",
+      "flashcard_back": "引產與子宮頸成熟常用 PGE2 dinoprostone；維持 PDA 用 PGE1 alprostadil；青光眼用 latanoprost。",
+      "flashcard_summary": "Dinoprostone 引產：Dinoprostone 是適合用於懷孕婦女引產的 PGE2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-2.json",
+  "dataset_id": "112-2_medicine-2",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n題目問 TCR/BCR 敘述何者錯誤。BCR 的膜型抗體可結合抗原，但 BCR 固定在 B 細胞膜上時主要負責抗原辨識與訊號；抗體 Fc 的補體、Fc receptor 等效應功能主要是分泌型抗體執行，不能說膜上 BCR 的功能和抗體完全一樣。\n\n【選項詳解】\n- A. 對。典型 TCR 由 alpha/beta 鏈構成，BCR 由兩重鏈兩輕鏈構成，兩者抗原結合位都在 variable region。\n- B. 對。TCR 通常一個抗原結合位且只在細胞膜上；BCR/抗體有兩個 Fab，B 細胞活化後可分泌抗體。\n- C. 錯。BCR 是膜型免疫球蛋白，Fab 可辨識抗原，但膜上 BCR 的 Fc 區不等同於分泌抗體在體液中執行 Fc 效應功能。\n- D. 對。TCR 需要同時辨識 MHC 與 peptide，這是 T 細胞偵測感染細胞的核心。\n\n【核心考點】\nTCR 看 MHC-peptide；BCR 可直接認抗原。膜型 BCR 負責辨識與訊號，分泌型抗體才主要執行 Fc effector functions。",
+      "key_point": "膜上 BCR 不等於分泌型抗體的完整 Fc 效應功能。",
+      "flashcard_front": "TCR 與 BCR 功能差異",
+      "flashcard_back": "TCR 看 MHC-peptide；BCR 可直接認抗原。膜型 BCR 負責辨識與訊號，分泌型抗體才主要執行 Fc effector functions。",
+      "flashcard_summary": "TCR 與 BCR 功能差異：膜上 BCR 不等於分泌型抗體的完整 Fc 效應功能。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nFingolimod/FTY720 是 S1P receptor modulator，會使淋巴球無法有效離開淋巴結，降低自體反應性淋巴球進入中樞神經造成多發性硬化症發炎。官方選項中 D 最接近此 S1PR1 路徑。\n\n【選項詳解】\n- A. 錯。Fingolimod 不是以阻斷自體抗體造成的 ADCC 為主要機轉。\n- B. 錯。減少 IL-2、抑制 T 細胞增生較像 calcineurin inhibitor 的下游效果，不是 fingolimod 的核心。\n- C. 錯。阻斷 IL-6 receptor/JAK-STAT 較接近 tocilizumab 或 JAK inhibitor 的概念。\n- D. 正確但題目文字略簡化。Fingolimod 作用於 S1PR1，使淋巴球滯留於淋巴結、減少外周與中樞神經浸潤；不是主要靠誘發 T 細胞凋亡。\n\n【核心考點】\nFingolimod 記 S1P receptor modulator：讓淋巴球出不了淋巴結，用於多發性硬化症。",
+      "key_point": "Fingolimod 透過 S1PR1 調節造成淋巴球滯留。",
+      "flashcard_front": "Fingolimod 與 S1P receptor",
+      "flashcard_back": "Fingolimod 記 S1P receptor modulator：讓淋巴球出不了淋巴結，用於多發性硬化症。",
+      "flashcard_summary": "Fingolimod 與 S1P receptor：Fingolimod 透過 S1PR1 調節造成淋巴球滯留。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方答案 D 方向正確，但「進而凋亡」不是 fingolimod 的主要藥理重點。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n題目問不是 Fc 部分功能者。中和作用主要靠 Fab 抗原結合區阻斷毒素或病毒與受體結合；補體活化、調理與 mast cell degranulation 都與 Fc receptor 或 Fc 區相關。\n\n【選項詳解】\n- A. 是 Fc 功能。IgG/IgM 的 Fc 區可啟動 classical complement pathway。\n- B. 正確。Neutralization 主要靠 Fab 區結合病毒、毒素或黏附分子，阻斷其作用。\n- C. 是 Fc 功能。Opsonization 依靠 Fc 與吞噬細胞 Fc receptor 互動。\n- D. 是 Fc 功能。IgE 的 Fc 區結合 mast cell/basophil 上 FcεRI，抗原交聯後促進 degranulation。\n\n【核心考點】\nFab 負責 antigen binding 與 neutralization；Fc 負責補體、調理、ADCC、mast cell 活化等效應。",
+      "key_point": "中和作用主要是 Fab，不是 Fc 功能。",
+      "flashcard_front": "抗體 Fc 與 Fab 功能",
+      "flashcard_back": "Fab 負責 antigen binding 與 neutralization；Fc 負責補體、調理、ADCC、mast cell 活化等效應。",
+      "flashcard_summary": "抗體 Fc 與 Fab 功能：中和作用主要是 Fab，不是 Fc 功能。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\nOral tolerance 是腸道免疫對食物抗原或共生菌建立低反應性，常與 regulatory T cells、TGF-beta、IL-10 等免疫調節有關。\n\n【選項詳解】\n- A. 錯。食物抗原即使被消化，仍可有 peptide 被免疫系統辨識；oral tolerance 不是單純因小分子不刺激免疫。\n- B. 錯。胸腺負選擇是中樞耐受，食物抗原的 oral tolerance 主要發生於周邊黏膜免疫環境。\n- C. 錯。不是所有食物都必然引發 oral tolerance，且個體、劑量與黏膜環境會影響結果。\n- D. 正確。分泌 TGF-beta 的調節型 T 細胞/輔助 T 細胞參與腸道周邊耐受。\n\n【核心考點】\nOral tolerance 是周邊黏膜免疫耐受，重點是 Treg、TGF-beta、IL-10，而非胸腺刪除。",
+      "key_point": "Oral tolerance 與分泌 TGF-beta 的調節性 T 細胞有關。",
+      "flashcard_front": "Oral tolerance",
+      "flashcard_back": "Oral tolerance 是周邊黏膜免疫耐受，重點是 Treg、TGF-beta、IL-10，而非胸腺刪除。",
+      "flashcard_summary": "Oral tolerance：Oral tolerance 與分泌 TGF-beta 的調節性 T 細胞有關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n第一型過敏與 IgE、Th2 偏向和 mast cell 相關。衛生假說認為幼年過度乾淨、微生物暴露不足，可能使免疫調節不足並增加過敏風險。\n\n【選項詳解】\n- A. 正確。嬰幼兒時期過度乾淨、感染與微生物刺激少，符合 hygiene hypothesis 對過敏風險上升的解釋。\n- B. 較不符合。早期某些微生物暴露反而可能促進免疫調節，不是第一型過敏最相關選項。\n- C. 麻疹或 A 肝感染史不是第一型過敏發生最直接、最典型的危險因子。\n- D. 第一型過敏核心是 allergen-specific IgE，不是高濃度 IgG2a。\n\n【核心考點】\n第一型過敏記 IgE、Th2、mast cell；衛生假說解釋幼年微生物暴露不足會增加過敏傾向。",
+      "key_point": "過度乾淨的幼年環境與第一型過敏風險增加最相關。",
+      "flashcard_front": "衛生假說與第一型過敏",
+      "flashcard_back": "第一型過敏記 IgE、Th2、mast cell；衛生假說解釋幼年微生物暴露不足會增加過敏傾向。",
+      "flashcard_summary": "衛生假說與第一型過敏：過度乾淨的幼年環境與第一型過敏風險增加最相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nTLR9 主要辨識 unmethylated CpG DNA。SLE 中核酸免疫複合物可刺激 endosomal TLR，anti-dsDNA 相關 DNA 訊號最符合 TLR9。\n\n【選項詳解】\n- A. TLR1 常與 TLR2 形成異源二聚體辨識細菌脂蛋白，不是 dsDNA 主要受器。\n- B. TLR4 典型辨識 LPS，也可參與多種內源性訊號，但不是 anti-dsDNA 的核心答案。\n- C. TLR7 主要辨識單股 RNA，較常連到 RNA-containing immune complex。\n- D. 正確。TLR9 位於 endosome，辨識 DNA/CpG，與 SLE anti-dsDNA 相關免疫活化相符。\n\n【核心考點】\n核酸 TLR 配對：TLR7 看 RNA，TLR9 看 DNA；SLE anti-dsDNA 對 TLR9。",
+      "key_point": "Anti-dsDNA 免疫活化主要連到 TLR9。",
+      "flashcard_front": "SLE anti-dsDNA 與 TLR9",
+      "flashcard_back": "核酸 TLR 配對：TLR7 看 RNA，TLR9 看 DNA；SLE anti-dsDNA 對 TLR9。",
+      "flashcard_summary": "SLE anti-dsDNA 與 TLR9：Anti-dsDNA 免疫活化主要連到 TLR9。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n慢性排斥的核心病理是血管內皮損傷、內膜增生、血管狹窄與纖維化，造成移植器官慢性缺血與功能下降。\n\n【選項詳解】\n- A. NK cell 不是慢性排斥最典型主軸；移植排斥主要由 T 細胞與抗體等適應性免疫驅動。\n- B. 正確。小血管內皮損傷、細胞浸潤、血管壁增厚硬化與蒼白缺血，是慢性排斥典型描述。\n- C. 這比較像超急性排斥，預存抗體造成快速血管炎、血栓與植體壞死。\n- D. 慢性排斥不是接受者突變出植體抗原，而是對 donor alloantigen 的長期免疫反應。\n\n【核心考點】\n移植排斥時間軸：超急性是預存抗體；急性是 T 細胞/抗體；慢性是血管狹窄、纖維化、缺血。",
+      "key_point": "慢性排斥最典型是移植體血管硬化與慢性缺血。",
+      "flashcard_front": "慢性移植排斥",
+      "flashcard_back": "移植排斥時間軸：超急性是預存抗體；急性是 T 細胞/抗體；慢性是血管狹窄、纖維化、缺血。",
+      "flashcard_summary": "慢性移植排斥：慢性排斥最典型是移植體血管硬化與慢性缺血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\nCTLA-4 是 T 細胞抑制性受器，會與抗原呈現細胞上的 CD80/CD86 競爭結合，降低共刺激。Anti-CTLA-4 阻斷此抑制訊號以增強抗腫瘤 T 細胞反應。\n\n【選項詳解】\n- A. 錯。CTLA-4 不結合 MHC；TCR 才辨識 MHC-peptide。\n- B. 錯。PD-1 是另一個 T 細胞抑制受器，不是 CTLA-4 在樹突細胞上的配體。\n- C. 正確。CTLA-4 結合 APC 上的 CD80/CD86，與 CD28 競爭共刺激配體。\n- D. 錯。CD11b 是 integrin/髓系細胞標記，不是 CTLA-4 的主要配體。\n\n【核心考點】\nCTLA-4 對 CD80/CD86；PD-1 對 PD-L1/PD-L2。免疫檢查點治療就是解除 T 細胞煞車。",
+      "key_point": "CTLA-4 結合樹突細胞上的 CD80/CD86。",
+      "flashcard_front": "Anti-CTLA-4 腫瘤免疫療法",
+      "flashcard_back": "CTLA-4 對 CD80/CD86；PD-1 對 PD-L1/PD-L2。免疫檢查點治療就是解除 T 細胞煞車。",
+      "flashcard_summary": "Anti-CTLA-4 腫瘤免疫療法：CTLA-4 結合樹突細胞上的 CD80/CD86。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\nToxocara、Angiostrongylus、Loa loa 都可造成眼部或視神經相關病變；Anisakis 主要由生食海魚感染，引起胃腸道或過敏反應，眼病變最不典型。\n\n【選項詳解】\n- A. Toxocara canis 可造成 ocular larva migrans，是兒童單眼視網膜病變的重要原因。\n- B. Angiostrongylus cantonensis 可造成嗜酸性腦膜炎，也可有眼內移行相關病變。\n- C. Loa loa 成蟲可在結膜下移行，眼蟲是經典線索。\n- D. 正確。Anisakis 主要造成胃腸道 anisakiasis 或過敏反應，最不可能引起眼睛病變。\n\n【核心考點】\n眼部寄生蟲記 Toxocara 眼幼蟲移行、Loa loa 眼蟲；Anisakis 偏胃腸道與過敏。",
+      "key_point": "Anisakis spp. 最不典型造成眼睛病變。",
+      "flashcard_front": "寄生蟲與眼部病變",
+      "flashcard_back": "眼部寄生蟲記 Toxocara 眼幼蟲移行、Loa loa 眼蟲；Anisakis 偏胃腸道與過敏。",
+      "flashcard_summary": "寄生蟲與眼部病變：Anisakis spp. 最不典型造成眼睛病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n手腳接觸污泥後搔癢、延伸紅斑，最像皮膚幼蟲移行症/鉤蟲爬行疹。東方毛線蟲主要是腸道線蟲感染，通常不是造成皮膚延伸紅斑的原因。\n\n【選項詳解】\n- A. 可成立。寄生蟲幼蟲在皮膚移行可引發局部過敏與劇癢。\n- B. 可成立。抓破皮後可能繼發細菌性感染，臨床上需要注意。\n- C. 正確。Trichostrongylus orientalis 主要與腸道感染相關，不是皮膚爬行疹的典型病原。\n- D. 可成立。鉤蟲幼蟲穿入皮膚後移行，可造成 creeping eruption。\n\n【核心考點】\n土壤接觸後線狀、蛇行、搔癢紅斑，要想到鉤蟲造成 cutaneous larva migrans。",
+      "key_point": "爬行疹典型是動物鉤蟲幼蟲皮膚移行，不是東方毛線蟲。",
+      "flashcard_front": "鉤蟲爬行疹與土壤接觸",
+      "flashcard_back": "土壤接觸後線狀、蛇行、搔癢紅斑，要想到鉤蟲造成 cutaneous larva migrans。",
+      "flashcard_summary": "鉤蟲爬行疹與土壤接觸：爬行疹典型是動物鉤蟲幼蟲皮膚移行，不是東方毛線蟲。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
