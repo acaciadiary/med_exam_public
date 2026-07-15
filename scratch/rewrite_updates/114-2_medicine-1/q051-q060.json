@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-1.json",
+  "dataset_id": "114-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題考點是自主神經系統分部。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n交感是胸腰部 thoracolumbar；副交感是頭薦部 craniosacral。\n\n【選項詳解】\n- A. 頭薦部門是副交感，不是交感，此項錯誤。\n- B. 交感節前神經元釋放 ACh，正確。\n- C. 多數副交感節後神經元釋放 ACh，正確。\n- D. 副交感神經節通常靠近或位於標的器官，正確。\n\n【核心考點】\nsympathetic is thoracolumbar, not craniosacral。",
+      "key_point": "sympathetic is thoracolumbar, not craniosacral。",
+      "flashcard_front": "自主神經何者最不適當？",
+      "flashcard_back": "交感稱為頭薦部門是錯的。",
+      "flashcard_summary": "自主神經系統分部 -> 交感稱為頭薦部門是錯的。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題考點是代謝型受體。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nα1 adrenergic receptor 是 norepinephrine 的 Gq 型代謝型受體；nicotinic 與 AMPA 是離子型受體。\n\n【選項詳解】\n- A. norepinephrine 可作用於 α1 receptor，屬 GPCR，正確。\n- B. 5-HT1 是 serotonin 受體，不是 histamine 受體。\n- C. nicotinic receptor 是配體閘門離子通道，不是代謝型受體。\n- D. AMPA receptor 是離子型 glutamate receptor，不是代謝型受體。\n\n【核心考點】\nnorepinephrine paired with alpha-1 receptor is metabotropic。",
+      "key_point": "norepinephrine paired with alpha-1 receptor is metabotropic。",
+      "flashcard_front": "神經傳導物質與代謝型受體正確配對？",
+      "flashcard_back": "norepinephrine -> alpha-1 receptor。",
+      "flashcard_summary": "代謝型受體 -> norepinephrine -> alpha-1 receptor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題考點是前庭直線加速度。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n球囊主要感受垂直方向線性加速度；橢圓囊偏水平線性加速度；半規管感受角加速度。\n\n【選項詳解】\n- A. 半規管偵測旋轉角加速度，不是垂直線性加速度。\n- B. 橢圓囊偏水平線性加速度。\n- C. 球囊對垂直線性加速度最重要，正確。\n- D. 柯蒂氏器是聽覺受器，不是前庭加速度受器。\n\n【核心考點】\nsaccule senses vertical linear acceleration。",
+      "key_point": "saccule senses vertical linear acceleration。",
+      "flashcard_front": "垂直加速主要靠哪個構造？",
+      "flashcard_back": "球囊。",
+      "flashcard_summary": "前庭直線加速度 -> 球囊。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題考點是副交感與調視。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n副交感使瞳孔縮小、睫狀肌收縮、懸韌帶放鬆、水晶體變圓變厚以看近物。\n\n【選項詳解】\n- A. 睫狀體環肌收縮是副交感調視反應。\n- B. 睫狀肌收縮使懸韌帶張力下降。\n- C. 水晶體會變圓變厚，不會變薄變長，此項最不可能。\n- D. 副交感使瞳孔括約肌收縮，瞳孔變小。\n\n【核心考點】\nparasympathetic accommodation makes lens thicker, not thinner/longer。",
+      "key_point": "parasympathetic accommodation makes lens thicker, not thinner/longer。",
+      "flashcard_front": "副交感興奮眼球何者最不可能？",
+      "flashcard_back": "水晶體變薄變長。",
+      "flashcard_summary": "副交感與調視 -> 水晶體變薄變長。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題考點是運動初期 ATP 來源。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n開始運動最初數秒主要靠肌肉內 creatine phosphate 快速再生 ATP。\n\n【選項詳解】\n- A. 脂肪酸氧化供能慢，較適合長時間運動。\n- B. 葡萄糖分解可供短中期能量，但不是最初幾秒最快來源。\n- C. 蛋白質不是正常短時間運動主要能量來源。\n- D. 磷酸肌酸可快速把磷酸轉給 ADP，是最初幾秒主要 ATP 來源。\n\n【核心考點】\nfirst seconds of exercise use creatine phosphate。",
+      "key_point": "first seconds of exercise use creatine phosphate。",
+      "flashcard_front": "運動最初數秒 ATP 來源？",
+      "flashcard_back": "磷酸肌酸。",
+      "flashcard_summary": "運動初期 ATP 來源 -> 磷酸肌酸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題考點是骨骼肌纖維型態。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n2X 型是快速糖解型，收縮快但粒線體、肌紅蛋白、微血管較少，容易疲勞。\n\n【選項詳解】\n- A. 2X 粒線體較少；第 1 型氧化能力較強。\n- B. 2X 型快速但較易疲勞，正確。\n- C. 第 1 型肌紅蛋白較多，不是 2X。\n- D. 第 1 型微血管較豐富，不是 2X。\n\n【核心考點】\ntype 2X fibers fatigue faster than type I fibers。",
+      "key_point": "type 2X fibers fatigue faster than type I fibers。",
+      "flashcard_front": "2X 與第 1 型相比何者不同？",
+      "flashcard_back": "2X 較容易疲勞。",
+      "flashcard_summary": "骨骼肌纖維型態 -> 2X 較容易疲勞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題考點是纖維蛋白溶解。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n溶栓是 plasminogen 轉為 plasmin 後分解 fibrin；可溶性 fibrin fragments 是分解產物，不會聚集成 fibrin。\n\n【選項詳解】\n- A. 內皮細胞分泌 tPA，正確。\n- B. plasminogen 需活化成 plasmin 才能分解 fibrin，正確。\n- C. 可溶性 fibrin fragments 是 fibrin 被分解後產物，不是聚集成 fibrin，此項錯誤。\n- D. fibrin 可促進 tPA 對 plasminogen 的活化效率，正確。\n\n【核心考點】\nfibrin fragments are breakdown products, not building blocks of fibrin。",
+      "key_point": "fibrin fragments are breakdown products, not building blocks of fibrin。",
+      "flashcard_front": "血栓溶解何者錯誤？",
+      "flashcard_back": "可溶性纖維蛋白片段聚集成 fibrin 是錯的。",
+      "flashcard_summary": "纖維蛋白溶解 -> 可溶性纖維蛋白片段聚集成 fibrin 是錯的。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題考點是ECG 判讀。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n高血鉀典型可見 tall peaked T waves；一度 AV block 是 PR 延長，不是縮短。\n\n【選項詳解】\n- A. 高血鉀可造成高尖 T 波，正確。\n- B. 一度房室傳導阻斷為 PR interval 延長，不是縮短。\n- C. aVR 通常與 lead II 方向相反，QRS 多不相似向上。\n- D. 胸前導程 T 波不會全部正常向下；多數左胸導程 T 波應向上。\n\n【核心考點】\nhyperkalemia commonly causes tall T waves in lead II when calcium is normal。",
+      "key_point": "hyperkalemia commonly causes tall T waves in lead II when calcium is normal。",
+      "flashcard_front": "ECG 描述何者最適當？",
+      "flashcard_back": "高血鉀 lead II 常見高 T 波。",
+      "flashcard_summary": "ECG 判讀 -> 高血鉀 lead II 常見高 T 波。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題考點是心室肌動作電位 phase 1。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nphase 1 初期快速再極化來自 fast Na+ channel 關閉與 transient outward K+ current 開啟。\n\n【選項詳解】\n- A. Na+ 通道關閉、K+ 外流增加造成 phase 1，正確。\n- B. Cl- 通道不是心室肌 phase 1 的主要機制。\n- C. L-type Ca2+ 打開與 plateau 相關，不是關閉後打開 T-type。\n- D. T-type/L-type 轉換不是此階段主要機制。\n\n【核心考點】\ninitial rapid repolarization: Na channels close, K channels open。",
+      "key_point": "initial rapid repolarization: Na channels close, K channels open。",
+      "flashcard_front": "去極化與平原期之間快速再極化機制？",
+      "flashcard_back": "關閉鈉通道、打開鉀通道。",
+      "flashcard_summary": "心室肌動作電位 phase 1 -> 關閉鈉通道、打開鉀通道。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考點是心室肌與竇房結動作電位。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n兩者再極化都依賴 K+ 外流；但 SA node 無穩定 -90 mV 靜止電位，去極化主要為 Ca2+。\n\n【選項詳解】\n- A. SA node 沒有穩定 -90 mV resting potential。\n- B. SA node 動作電位沒有典型心室肌 plateau。\n- C. SA node phase 0 主要靠 Ca2+ influx，不是 fast Na+。\n- D. 兩者再極化皆主要靠 K+ 外流，正確。\n\n【核心考點】\nrepolarization in both ventricular myocytes and SA node cells is mainly K+ efflux。",
+      "key_point": "repolarization in both ventricular myocytes and SA node cells is mainly K+ efflux。",
+      "flashcard_front": "心室肌與 SA node 比較何者適當？",
+      "flashcard_back": "再極化主要都是 K+ 通道開啟。",
+      "flashcard_summary": "心室肌與竇房結動作電位 -> 再極化主要都是 K+ 通道開啟。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

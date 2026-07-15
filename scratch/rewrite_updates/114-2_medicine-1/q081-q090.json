@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-1.json",
+  "dataset_id": "114-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題考點是HIV 高變異原因。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nHIV reverse transcriptase 缺乏校讀能力，複製錯誤率高，造成基因體快速變異。\n\n【選項詳解】\n- A. 隨機插入可影響宿主基因，但不是快速變異主因。\n- B. 特殊 DNA 水解酵素不是 HIV 高突變率核心。\n- C. 反轉錄酶 fidelity 差、缺乏校讀，正確。\n- D. 蛋白酶切割影響病毒成熟，不是基因體高變異主因。\n\n【核心考點】\nlow fidelity reverse transcriptase drives HIV mutation。",
+      "key_point": "low fidelity reverse transcriptase drives HIV mutation。",
+      "flashcard_front": "HIV 快速變異主因？",
+      "flashcard_back": "反轉錄酶精準度不佳。",
+      "flashcard_summary": "HIV 高變異原因 -> 反轉錄酶精準度不佳。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n本題考點是大腸桿菌 mismatch repair。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nE. coli 以 Dam methylase 甲基化 GATC 序列 adenine，舊股甲基化、新股暫未甲基化以供辨識。\n\n【選項詳解】\n- A. 不是移除 thymine 甲基。\n- B. uracil methylation 成 thymine 不是模板股標記機制。\n- C. 腺嘌呤甲基化標記舊股 DNA，正確。\n- D. 胞嘧啶甲基化不是 E. coli mismatch repair 的典型模板辨識。\n\n【核心考點】\nE. coli marks template strand by adenine methylation。",
+      "key_point": "E. coli marks template strand by adenine methylation。",
+      "flashcard_front": "MMR 如何標記模板股？",
+      "flashcard_back": "腺嘌呤甲基化。",
+      "flashcard_summary": "大腸桿菌 mismatch repair -> 腺嘌呤甲基化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n本題考點是aminoacyl-tRNA synthetase 專一性。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n若酵素催化仍在但辨識 tRNA 專一性下降，錯誤胺基酸/錯誤 tRNA 配對增加，造成蛋白質序列錯誤。\n\n【選項詳解】\n- A. 攜帶多種胺基酸不會提高正確合成效率，反而降低 fidelity。\n- B. 錯誤 charging 會使轉譯解碼錯誤增加，產生異常蛋白，正確。\n- C. 題目說催化活性不受影響，故不會完全無法連接胺基酸。\n- D. 問題在 charging specificity，不是核糖體無法識別 tRNA。\n\n【核心考點】\nloss of tRNA recognition specificity increases translational decoding errors。",
+      "key_point": "loss of tRNA recognition specificity increases translational decoding errors。",
+      "flashcard_front": "aaRS 專一性降低後果？",
+      "flashcard_back": "產生功能異常蛋白。",
+      "flashcard_summary": "aminoacyl-tRNA synthetase 專一性 -> 產生功能異常蛋白。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n本題考點是TFIIH 功能。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nTFIIH 有 helicase、ATPase 與 kinase 活性，協助 promoter opening 與 RNA Pol II CTD phosphorylation；不是負責終止。\n\n【選項詳解】\n- A. TFIIH helicase 活性需 ATP hydrolysis，正確功能。\n- B. TFIIH 參與轉錄前起始複合體形成，正確。\n- C. TFIIH 具有 helicase 與 kinase 活性，正確。\n- D. 轉錄終止不是 TFIIH 的主要生理功能，故為答案。\n\n【核心考點】\nTFIIH is for initiation/promoter opening, not transcription termination。",
+      "key_point": "TFIIH is for initiation/promoter opening, not transcription termination。",
+      "flashcard_front": "TFIIH 不具何功能？",
+      "flashcard_back": "轉錄終止。",
+      "flashcard_summary": "TFIIH 功能 -> 轉錄終止。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題考點是operon operator。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\noperator 是 repressor binding site；repressor 結合後阻止 RNA polymerase 有效轉錄。\n\n【選項詳解】\n- A. suppressor tRNA 參與轉譯讀穿突變，不是 operator 結合蛋白。\n- B. miRNA 是真核轉錄後調控小 RNA，不是原核 operator 結合者。\n- C. inducer 通常結合 repressor 改變其活性，不直接作為 operator 結合分子。\n- D. repressor 直接結合 operator，正確。\n\n【核心考點】\noperator sequence is bound by repressor。",
+      "key_point": "operator sequence is bound by repressor。",
+      "flashcard_front": "operator 主要由何分子結合？",
+      "flashcard_back": "repressor。",
+      "flashcard_summary": "operon operator -> repressor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題考點是trp operon attenuation。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\ntrp operon 前導序列含連續 tryptophan codons，核糖體停滯與否反映 tryptophan 濃度並決定 attenuation。\n\n【選項詳解】\n- A. 前導胜肽不是催化 attenuation 的酵素。\n- B. tryptophan 低時核糖體停在 Trp codons，通常允許轉錄繼續，不是提前衰減。\n- C. 前導胜肽不直接結合 RNA polymerase 限制其移動。\n- D. leader peptide 中的 Trp codons 使 attenuation 能感測細胞 tryptophan，正確。\n\n【核心考點】\nleader peptide tryptophan codons allow attenuation to sense tryptophan level。",
+      "key_point": "leader peptide tryptophan codons allow attenuation to sense tryptophan level。",
+      "flashcard_front": "trp operon 何者最適當？",
+      "flashcard_back": "前導胜肽序列中的 Trp codons 調控轉錄活性。",
+      "flashcard_summary": "trp operon attenuation -> 前導胜肽序列中的 Trp codons 調控轉錄活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n本題考點是substrate-level phosphorylation。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n1,3-BPG 在 phosphoglycerate kinase 反應中把高能磷酸轉給 ADP，直接生成 ATP。\n\n【選項詳解】\n- A. glycerol-3-phosphate 不能一步直接生成 ATP。\n- B. 6-phosphogluconolactone 在 PPP 中，不直接產生 ATP。\n- C. fructose 1,6-bisphosphate 需後續多步糖解，不直接生成 ATP。\n- D. 1,3-BPG 經 phosphoglycerate kinase 可直接生成 ATP，正確。\n\n【核心考點】\n1,3-bisphosphoglycerate can generate ATP in one step via phosphoglycerate kinase。",
+      "key_point": "1,3-bisphosphoglycerate can generate ATP in one step via phosphoglycerate kinase。",
+      "flashcard_front": "哪個一個反應可直接製造 ATP？",
+      "flashcard_back": "1,3-bisphosphoglycerate。",
+      "flashcard_summary": "substrate-level phosphorylation -> 1,3-bisphosphoglycerate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n本題考點是多醣分類。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\ncellulose 是植物細胞壁結構多醣；amylose、amylopectin 與 glycogen 是儲存多醣。\n\n【選項詳解】\n- A. cellulose 是植物細胞壁結構多醣，正確。\n- B. amylose 是澱粉儲存多醣成分。\n- C. amylopectin 是澱粉儲存多醣成分。\n- D. glycogen 是動物儲存多醣。\n\n【核心考點】\ncellulose is structural polysaccharide。",
+      "key_point": "cellulose is structural polysaccharide。",
+      "flashcard_front": "哪個是結構型多醣？",
+      "flashcard_back": "cellulose。",
+      "flashcard_summary": "多醣分類 -> cellulose。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n本題考點是膜脂骨架。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nphosphatidylcholine 是 glycerophospholipid，以 glycerol 為骨架；sphingolipids 以 sphingosine/ceramide 為骨架。\n\n【選項詳解】\n- A. cholesterol 是 sterol，不以 glycerol 為骨架。\n- B. phosphatidylcholine 是 glycerophospholipid，含 glycerol backbone，正確。\n- C. ceramide 是 sphingolipid 核心，以 sphingosine 為骨架。\n- D. sphingomyelin 是 sphingolipid，不是 glycerol backbone。\n\n【核心考點】\nphosphatidylcholine has glycerol backbone。",
+      "key_point": "phosphatidylcholine has glycerol backbone。",
+      "flashcard_front": "哪個複合脂質含 glycerol 架構？",
+      "flashcard_back": "phosphatidylcholine。",
+      "flashcard_summary": "膜脂骨架 -> phosphatidylcholine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n本題考點是palmitate 合成 NADPH。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n脂肪酸合成每次延長循環需 2 NADPH，palmitate 需 7 輪，共 14 NADPH。\n\n【選項詳解】\n- A. 7 是延長循環次數，不是 NADPH 數。\n- B. 7 輪每輪 2 個 NADPH，共 14，正確。\n- C. 16 接近碳數，不是 NADPH 數。\n- D. 21 過多。\n\n【核心考點】\npalmitate synthesis consumes 14 NADPH。",
+      "key_point": "palmitate synthesis consumes 14 NADPH。",
+      "flashcard_front": "合成 1 mol palmitate 需幾 mol NADPH？",
+      "flashcard_back": "14。",
+      "flashcard_summary": "palmitate 合成 NADPH -> 14。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

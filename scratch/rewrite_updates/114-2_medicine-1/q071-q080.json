@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-1.json",
+  "dataset_id": "114-2_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題考點是beta 細胞葡萄糖感應。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n胰臟 beta 細胞以 GLUT-2 與 glucokinase 感應血糖，啟動 ATP/KATP/Ca2+ 路徑分泌 insulin。\n\n【選項詳解】\n- A. GLUT-2 是 beta 細胞葡萄糖進入與感應的重要分子，缺失會降低 insulin 分泌。\n- B. 葡萄糖-鈣反向運輸不是 beta 細胞感糖的標準分子。\n- C. 葡萄糖-氯反向運輸不是此路徑核心。\n- D. 葡萄糖-胺基酸共同運輸不是 beta 細胞主要血糖感應機制。\n\n【核心考點】\nGLUT-2 is key for beta-cell glucose sensing。",
+      "key_point": "GLUT-2 is key for beta-cell glucose sensing。",
+      "flashcard_front": "beta 細胞無法感應血糖最可能缺失？",
+      "flashcard_back": "GLUT-2。",
+      "flashcard_summary": "beta 細胞葡萄糖感應 -> GLUT-2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題考點是副甲狀腺切除後低鈣。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nPTH 缺乏造成低血鈣、高血磷、腸鈣吸收下降；低鈣會增加神經肌肉興奮性，不會下降。\n\n【選項詳解】\n- A. PTH 下降使腎臟排磷下降，血磷上升可能發生。\n- B. 低血鈣會使神經肌肉興奮性上升，不是下降，因此最不可能。\n- C. PTH 缺乏使活性維生素 D 減少，腸鈣吸收下降。\n- D. PTH 缺乏造成血鈣下降。\n\n【核心考點】\nhypocalcemia increases neuromuscular excitability。",
+      "key_point": "hypocalcemia increases neuromuscular excitability。",
+      "flashcard_front": "副甲狀腺切除後最不可能？",
+      "flashcard_back": "神經肌肉興奮性下降。",
+      "flashcard_summary": "副甲狀腺切除後低鈣 -> 神經肌肉興奮性下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題考點是卵巢濾泡發育。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nprimordial follicle 在出生前已形成，青春期後是在 FSH 影響下開始週期性募集，而非青春期才形成初級濾泡的起點。\n\n【選項詳解】\n- A. 原始濾泡在胎兒/出生前已存在，並非到青春期才有最早期濾泡發育概念，此項最不適當。\n- B. 初級濾泡形成 zona pellucida，是正確特徵。\n- C. 月經週期中會募集多個濾泡並選出 dominant follicle，正確。\n- D. atresia 可發生於各發育階段，正確。\n\n【核心考點】\nprimordial follicles are present before puberty; recruitment occurs cyclically after puberty。",
+      "key_point": "primordial follicles are present before puberty; recruitment occurs cyclically after puberty。",
+      "flashcard_front": "濾泡生長何者最不適當？",
+      "flashcard_back": "原始濾泡至青春期才開始發育形成初級濾泡的說法過度簡化。",
+      "flashcard_summary": "卵巢濾泡發育 -> 原始濾泡至青春期才開始發育形成初級濾泡的說法過度簡化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考點是胜肽鍵數量。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nn 個胺基酸形成一條線性多肽時有 n-1 個胜肽鍵；12 個胺基酸有 11 個。\n\n【選項詳解】\n- A. 9 少算了三個鍵。\n- B. 10 少算了一個鍵。\n- C. 12 個胺基酸形成線性多肽有 11 個胜肽鍵，正確。\n- D. 12 是胺基酸數，不是胜肽鍵數。\n\n【核心考點】\npeptide bonds = amino acids - 1。",
+      "key_point": "peptide bonds = amino acids - 1。",
+      "flashcard_front": "12 胺基酸多肽有幾個胜肽鍵？",
+      "flashcard_back": "11 個。",
+      "flashcard_summary": "胜肽鍵數量 -> 11 個。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題考點是固有無序蛋白。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nintrinsically disordered proteins 缺乏單一固定三維構形，但常有調控與訊號功能，並可與多種伙伴作用。\n\n【選項詳解】\n- A. 固有無序蛋白常有重要功能，不是大多無功能。\n- B. 缺乏穩定單一三維結構是其核心特性。\n- C. 其組成常富含帶電/極性胺基酸，不是主要由芳香族胺基酸組成。\n- D. 它們常透過結構彈性與其他蛋白互動。\n\n【核心考點】\nintrinsically disordered proteins lack a fixed 3D structure。",
+      "key_point": "intrinsically disordered proteins lack a fixed 3D structure。",
+      "flashcard_front": "固有無序蛋白特性？",
+      "flashcard_back": "缺乏確定三維結構。",
+      "flashcard_summary": "固有無序蛋白 -> 缺乏確定三維結構。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考點是血紅蛋白 2,3-BPG。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n2,3-BPG 結合去氧血紅蛋白，穩定 T state，降低氧親和力，幫助周邊釋氧。\n\n【選項詳解】\n- A. R state 是高氧親和狀態，2,3-BPG 不穩定它。\n- B. 2,3-BPG 穩定低氧親和的 T state，正確。\n- C. A form 是 DNA/RNA helix 用語，不是 Hb 四級結構。\n- D. Z form 也是核酸構形用語，不是 Hb 狀態。\n\n【核心考點】\n2,3-BPG stabilizes T state of hemoglobin。",
+      "key_point": "2,3-BPG stabilizes T state of hemoglobin。",
+      "flashcard_front": "2,3-BPG 使 Hb 形成哪種四級結構？",
+      "flashcard_back": "T state。",
+      "flashcard_summary": "血紅蛋白 2,3-BPG -> T state。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題考點是脂溶性維生素吸收。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n膽汁幫助脂質與脂溶性維生素 A、D、E、K 形成微膠粒吸收。\n\n【選項詳解】\n- A. vitamin A 為脂溶性，需膽汁協助吸收，正確。\n- B. vitamin B6 為水溶性。\n- C. vitamin B12 為水溶性，吸收需 intrinsic factor，不是膽汁。\n- D. vitamin C 為水溶性。\n\n【核心考點】\nvitamin A is fat-soluble and needs bile for absorption。",
+      "key_point": "vitamin A is fat-soluble and needs bile for absorption。",
+      "flashcard_front": "哪種維生素需要膽汁吸收？",
+      "flashcard_back": "vitamin A。",
+      "flashcard_summary": "脂溶性維生素吸收 -> vitamin A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考點是人類基因組。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n人類蛋白質編碼序列只占基因組少數，約 1-2%；說超過 40% 編碼蛋白質明顯錯誤。\n\n【選項詳解】\n- A. 真核基因常由 introns 打斷，呈不連續，正確。\n- B. 蛋白質編碼區只占很小比例，非超過 40%，此項錯誤。\n- C. 轉座子/重複序列約占相當大比例，接近半數的說法可接受。\n- D. centromere 與 telomere 為具特殊功能的重複 DNA，正確。\n\n【核心考點】\nprotein-coding DNA is a small fraction, not over 40%。",
+      "key_point": "protein-coding DNA is a small fraction, not over 40%。",
+      "flashcard_front": "人類基因組何者錯誤？",
+      "flashcard_back": "超過 40% DNA 編碼蛋白質。",
+      "flashcard_summary": "人類基因組 -> 超過 40% DNA 編碼蛋白質。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考點是5-FU 作用機轉。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n5-FU 代謝成 FdUMP 後抑制 thymidylate synthase，使 dTMP 合成受阻。\n\n【選項詳解】\n- A. xanthine oxidase 與嘌呤分解及 allopurinol 相關，不是 5-FU 主要標靶。\n- B. CPS II 參與嘧啶合成早期步驟，不是 FdUMP 直接抑制標靶。\n- C. adenosine deaminase 與嘌呤代謝/SCID 相關。\n- D. FdUMP 抑制 thymidylate synthase，阻斷 dTMP 合成，正確。\n\n【核心考點】\nFdUMP inhibits thymidylate synthase。",
+      "key_point": "FdUMP inhibits thymidylate synthase。",
+      "flashcard_front": "5-FU 抑制哪個酵素？",
+      "flashcard_back": "胸苷酸合成酶。",
+      "flashcard_summary": "5-FU 作用機轉 -> 胸苷酸合成酶。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題考點是免疫球蛋白輕鏈重組。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nV-J 重組是 DNA 層級的基因重排；J-C 連接是在 RNA splicing 層級完成。\n\n【選項詳解】\n- A. J-C 不是 DNA 重組，而是轉錄後 RNA splicing。\n- B. V-J 在 DNA 重排，J-C 在 RNA splicing，正確。\n- C. J-C 不是蛋白質層級。\n- D. V-J 不是 RNA 層級。\n\n【核心考點】\nlight chain V-J recombination occurs in DNA; J-C joining occurs in RNA processing。",
+      "key_point": "light chain V-J recombination occurs in DNA; J-C joining occurs in RNA processing。",
+      "flashcard_front": "輕鏈 V-J 與 J-C 分別在哪層面？",
+      "flashcard_back": "DNA；RNA。",
+      "flashcard_summary": "免疫球蛋白輕鏈重組 -> DNA；RNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

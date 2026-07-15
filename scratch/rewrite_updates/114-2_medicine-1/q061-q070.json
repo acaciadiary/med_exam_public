@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-1.json",
+  "dataset_id": "114-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題考點是Cushing reflex。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n顱內壓上升可造成 Cushing response：血壓上升、反射性心跳下降，常合併呼吸異常。\n\n【選項詳解】\n- A. 血壓下降不符合典型 Cushing response。\n- B. 血壓上升且心跳速率下降最符合 Cushing reflex。\n- C. 心跳上升不是典型反射結果。\n- D. 血壓下降、心跳上升較像休克代償，不是顱壓上升典型。\n\n【核心考點】\nincreased ICP -> hypertension with bradycardia。",
+      "key_point": "increased ICP -> hypertension with bradycardia。",
+      "flashcard_front": "顱內壓上升最易見何變化？",
+      "flashcard_back": "血壓上升、心跳下降。",
+      "flashcard_summary": "Cushing reflex -> 血壓上升、心跳下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題考點是Fick principle 氧含量。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n全身耗氧 250 mL/min、心輸出 5 L/min，動靜脈氧差為 50 mL/L；動脈 200 mL/L，靜脈約 150 mL/L。\n\n【選項詳解】\n- A. 150 mL/L 符合 Fick 計算，正確。\n- B. 146 mL/L 可能混入血紅素結合量計算，但題目可直接用總氧含量與耗氧量。\n- C. 143 mL/L 低估靜脈氧含量。\n- D. 47 mL/L 過低，不符合正常心輸出下耗氧差。\n\n【核心考點】\nCvO2 = CaO2 - VO2/CO = 200 - 250/5 = 150 mL/L。",
+      "key_point": "CvO2 = CaO2 - VO2/CO = 200 - 250/5 = 150 mL/L。",
+      "flashcard_front": "體靜脈血氧濃度最接近？",
+      "flashcard_back": "150 mL/L。",
+      "flashcard_summary": "Fick principle 氧含量 -> 150 mL/L。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題考點是通氣量調控。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n高 CO2 是強烈通氣刺激，低 O2 也刺激周邊化學受器；兩者合併時 minute ventilation 最大。\n\n【選項詳解】\n- A. 接近正常氧且 CO2 很低，通氣刺激小。\n- B. 低氧可增加通氣，但 CO2 低時刺激不如合併高 CO2。\n- C. 高 CO2 可明顯刺激通氣，但氧氣正常。\n- D. 低氧加高 CO2 同時刺激周邊與中樞化學受器，通氣量最大。\n\n【核心考點】\n5% O2 + 5% CO2 gives strongest ventilatory drive。",
+      "key_point": "5% O2 + 5% CO2 gives strongest ventilatory drive。",
+      "flashcard_front": "哪種吸入氣使總通氣量最大？",
+      "flashcard_back": "5% O2 + 5% CO2。",
+      "flashcard_summary": "通氣量調控 -> 5% O2 + 5% CO2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題考點是膽固醇吸收。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n游離膽固醇為脂溶性分子，小腸吸收以被動擴散/載體輔助擴散概念為主，考題答案取 diffusion。\n\n【選項詳解】\n- A. 不是以 ATP 驅動的初級主動運輸為主。\n- B. 不是典型鈉梯度次級主動運輸。\n- C. 游離膽固醇由微膠粒到小腸上皮主要靠擴散進入，正確。\n- D. 內吞不是本題主要機制。\n\n【核心考點】\nfree cholesterol absorption is mainly diffusion from micelles into enterocytes。",
+      "key_point": "free cholesterol absorption is mainly diffusion from micelles into enterocytes。",
+      "flashcard_front": "游離膽固醇如何吸收？",
+      "flashcard_back": "擴散作用。",
+      "flashcard_summary": "膽固醇吸收 -> 擴散作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題考點是secretin 作用。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nsecretin 由十二指腸 S cells 分泌，促進胰臟與膽道 HCO3- 分泌，並抑制胃酸/胃泌素相關分泌。\n\n【選項詳解】\n- A. 膽囊收縮主要是 CCK 功能，不是 secretin 最主要作用。\n- B. 促膽囊收縮仍偏 CCK。\n- C. 刺激胰臟 HCO3- 分泌並抑制胃腺 gastrin，最符合 secretin。\n- D. 促胃酸 HCl 分泌不是 secretin 作用。\n\n【核心考點】\nsecretin stimulates pancreatic bicarbonate and inhibits gastric secretion/gastrin。",
+      "key_point": "secretin stimulates pancreatic bicarbonate and inhibits gastric secretion/gastrin。",
+      "flashcard_front": "secretin 最主要直接作用？",
+      "flashcard_back": "促胰臟碳酸氫根分泌並抑制 gastrin。",
+      "flashcard_summary": "secretin 作用 -> 促胰臟碳酸氫根分泌並抑制 gastrin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題考點是腎臟滲透壓調節。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n正常尿液可被稀釋至約 50 mOsm/L，也可濃縮至約 1200 mOsm/L；ADH 作用在集合管。\n\n【選項詳解】\n- A. 血漿滲透壓升高才刺激 ADH，低於 280 不會刺激。\n- B. 口渴閾值通常高於 ADH 分泌閾值。\n- C. ADH 主要增加集合管水通透性，不是近端小管。\n- D. 正常腎臟可大幅稀釋與濃縮尿液，範圍約 50 到 1200 mOsm/L，正確。\n\n【核心考點】\nurine osmolality can range roughly 50 to 1200 mOsm/L。",
+      "key_point": "urine osmolality can range roughly 50 to 1200 mOsm/L。",
+      "flashcard_front": "腎滲透壓調節何者適當？",
+      "flashcard_back": "尿液可低至 50、高至 1200 mOsm/L。",
+      "flashcard_summary": "腎臟滲透壓調節 -> 尿液可低至 50、高至 1200 mOsm/L。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考點是亨氏環水分再吸收。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n厚上行支是稀釋段，不透水，主要靠 NKCC2 再吸收 Na-K-2Cl，不是 Na-Cl cotransporter 且不再吸水。\n\n【選項詳解】\n- A. 下降支有 AQP1，對水高度通透，正確。\n- B. 厚上行支不透水，且主要 transporter 是 NKCC2，不是 NCC，此項錯誤。\n- C. 基底外側 Na-K ATPase 提供鈉再吸收驅動力；但水不跟隨厚上行支通過。\n- D. 離開厚上行支進入遠端小管的管液呈低張，正確。\n\n【核心考點】\nthick ascending limb is water-impermeable and uses NKCC2。",
+      "key_point": "thick ascending limb is water-impermeable and uses NKCC2。",
+      "flashcard_front": "腎小管水分再吸收何者錯誤？",
+      "flashcard_back": "厚上行支因 Na-Cl cotransporter 再吸收水分是錯的。",
+      "flashcard_summary": "亨氏環水分再吸收 -> 厚上行支因 Na-Cl cotransporter 再吸收水分是錯的。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考點是胰島素代謝作用。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n胰島素促進葡萄糖利用、肝醣與脂肪合成，抑制糖質新生、脂解與生酮。\n\n【選項詳解】\n- A. 高血鉀較會刺激胰島素分泌，低血鉀不是促進因子。\n- B. 胰島素抑制肝臟葡萄糖產生。\n- C. 胰島素促進脂肪組織脂肪合成，正確。\n- D. 胰島素抑制 ketogenesis，不是促進。\n\n【核心考點】\ninsulin promotes lipogenesis in adipose tissue。",
+      "key_point": "insulin promotes lipogenesis in adipose tissue。",
+      "flashcard_front": "胰島素何者最適當？",
+      "flashcard_back": "促進脂肪組織脂肪合成。",
+      "flashcard_summary": "胰島素代謝作用 -> 促進脂肪組織脂肪合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題考點是醣蛋白荷爾蒙 alpha 次單元。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nTSH、LH、FSH、hCG 共享 alpha subunit，差異在 beta subunit。\n\n【選項詳解】\n- A. GH 與 prolactin 不是與 TSH 同族的醣蛋白荷爾蒙。\n- B. FSH 是同族，但 ACTH 不是；配對不全對。\n- C. ADH 與 oxytocin 是神經垂體胜肽，不是此 alpha subunit 家族。\n- D. LH 與 hCG 都與 TSH 共享 alpha subunit，正確。\n\n【核心考點】\nTSH shares alpha subunit with LH, FSH, and hCG。",
+      "key_point": "TSH shares alpha subunit with LH, FSH, and hCG。",
+      "flashcard_front": "哪兩個與 TSH 有相同 alpha subunit？",
+      "flashcard_back": "LH 與 hCG。",
+      "flashcard_summary": "醣蛋白荷爾蒙 alpha 次單元 -> LH 與 hCG。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考點是壓力軸荷爾蒙。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n壓力刺激下視丘分泌 CRH，再刺激腦下垂體分泌 ACTH；下視丘不直接分泌 ACTH。\n\n【選項詳解】\n- A. 嚴重低血糖可刺激腎上腺素分泌，正確。\n- B. 壓力使 HPA axis 活化，cortisol 增加，正確。\n- C. ACTH 由腦下垂體前葉分泌；下視丘分泌 CRH，此項錯誤。\n- D. ACTH 分泌受晝夜節律調控，正確。\n\n【核心考點】\nhypothalamus secretes CRH, not ACTH。",
+      "key_point": "hypothalamus secretes CRH, not ACTH。",
+      "flashcard_front": "荷爾蒙分泌何者最不適當？",
+      "flashcard_back": "壓力使下視丘分泌 ACTH 是錯的。",
+      "flashcard_summary": "壓力軸荷爾蒙 -> 壓力使下視丘分泌 ACTH 是錯的。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

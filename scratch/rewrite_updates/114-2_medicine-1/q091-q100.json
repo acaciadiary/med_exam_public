@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/114-2/medicine-1.json",
+  "dataset_id": "114-2_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "114-2_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題考點是胰島素與脂肪酸氧化。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\n血糖高時 insulin 上升，促進 acetyl-CoA carboxylase 產生 malonyl-CoA，抑制 CPT1，使脂肪酸進入粒線體氧化下降。\n\n【選項詳解】\n- A. 血糖低時 glucagon 上升會促進脂肪酸氧化，不是減少。\n- B. 血糖高時 glucagon 不會上升。\n- C. 血糖高時 insulin 上升，抑制脂肪酸進入粒線體氧化，正確。\n- D. 血糖低時 insulin 不會上升。\n\n【核心考點】\nhigh glucose -> insulin -> malonyl-CoA inhibits CPT1 -> less fatty acid oxidation。",
+      "key_point": "high glucose -> insulin -> malonyl-CoA inhibits CPT1 -> less fatty acid oxidation。",
+      "flashcard_front": "血糖與脂質氧化何者正確？",
+      "flashcard_back": "血糖高時 insulin 上升，減少脂肪酸入粒線體氧化。",
+      "flashcard_summary": "胰島素與脂肪酸氧化 -> 血糖高時 insulin 上升，減少脂肪酸入粒線體氧化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n本題考點是尿素循環區室。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nglutamate oxidative deamination 產生 NH4+ 在肝臟粒線體；尿素循環前兩步在線粒體，後續在細胞質完成尿素生成。\n\n【選項詳解】\n- A. glutamate 釋放 NH4+ 在肝粒線體，尿素生成後段在細胞質，最符合。\n- B. 過氧化體不是主要場所。\n- C. 尿素循環不全在線粒體，也不靠囊泡運送尿素。\n- D. 過氧化體、內質網與囊泡運送說法錯誤。\n\n【核心考點】\nammonia generation is mitochondrial; urea cycle spans mitochondria and cytosol with urea formed in cytosol。",
+      "key_point": "ammonia generation is mitochondrial; urea cycle spans mitochondria and cytosol with urea formed in cytosol。",
+      "flashcard_front": "尿素循環何者最適切？",
+      "flashcard_back": "NH4+ 釋放在粒線體，尿素產生後段在細胞質。",
+      "flashcard_summary": "尿素循環區室 -> NH4+ 釋放在粒線體，尿素產生後段在細胞質。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n本題考點是生酮胺基酸。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nleucine 與 lysine 是純生酮胺基酸；arginine、proline、glutamate 主要為生糖性。\n\n【選項詳解】\n- A. 白胺酸為純生酮胺基酸，可轉成 acetyl-CoA/acetoacetate，正確。\n- B. 精胺酸主要為生糖性。\n- C. 脯胺酸主要為生糖性。\n- D. 麩胺酸主要為生糖性，進入 TCA 中間產物。\n\n【核心考點】\nleucine is ketogenic amino acid。",
+      "key_point": "leucine is ketogenic amino acid。",
+      "flashcard_front": "哪個生酮胺基酸可供能？",
+      "flashcard_back": "白胺酸 leucine。",
+      "flashcard_summary": "生酮胺基酸 -> 白胺酸 leucine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題考點是電子傳遞鏈質子幫浦。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nComplex I、III、IV 將質子由 matrix 泵至 intermembrane space；Complex III 每對電子約泵 4 H+。\n\n【選項詳解】\n- A. Complex I 將 H+ 泵到膜間腔，不是 matrix。\n- B. Complex III 也將 H+ 泵到膜間腔，不是 matrix。\n- C. Complex III 經 Q cycle 將約 4 H+ 移至膜間腔，正確。\n- D. Complex IV 通常泵約 2 H+，不是 4 H+。\n\n【核心考點】\ncomplex III pumps 4 protons to intermembrane space。",
+      "key_point": "complex III pumps 4 protons to intermembrane space。",
+      "flashcard_front": "呼吸鏈何者正確？",
+      "flashcard_back": "complex III 將 4 H+ 移至膜間腔。",
+      "flashcard_summary": "電子傳遞鏈質子幫浦 -> complex III 將 4 H+ 移至膜間腔。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n本題考點是胰島素活化 glycogen synthase。題目官方答案為 D；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\ninsulin 經 Akt 使 GSK3 磷酸化而被抑制；GSK3 不再抑制 glycogen synthase，GS 活性上升。\n\n【選項詳解】\n- A. GSK3 去磷酸化會較活化，且會抑制 GS，不會活化 GS。\n- B. 磷酸化 GSK3 是抑制其活性，不是提高活性。\n- C. 去磷酸化 GSK3 不會抑制其活性。\n- D. insulin 使 GSK3 磷酸化而抑制它，解除對 GS 的抑制，正確。\n\n【核心考點】\ninsulin phosphorylates/inhibits GSK3, activating glycogen synthase。",
+      "key_point": "insulin phosphorylates/inhibits GSK3, activating glycogen synthase。",
+      "flashcard_front": "insulin 如何活化 GS？",
+      "flashcard_back": "使 GSK3 磷酸化並抑制其活性。",
+      "flashcard_summary": "胰島素活化 glycogen synthase -> 使 GSK3 磷酸化並抑制其活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題考點是PKA 活化。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nPKA holoenzyme 的 regulatory subunits 結合 cAMP 後釋放 catalytic subunits。\n\n【選項詳解】\n- A. cAMP 結合 PKA regulatory subunit，使 catalytic subunit 釋放，正確。\n- B. cAMP 不是主要結合 catalytic subunit。\n- C. Ca2+ 不是 PKA 的主要活化配體。\n- D. Ca2+ 結合 catalytic subunit 不是 PKA 活化機制。\n\n【核心考點】\ncAMP binds the regulatory subunits of PKA。",
+      "key_point": "cAMP binds the regulatory subunits of PKA。",
+      "flashcard_front": "PKA 活化需要什麼？",
+      "flashcard_back": "cAMP 結合 R 次單元。",
+      "flashcard_summary": "PKA 活化 -> cAMP 結合 R 次單元。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題考點是PI3K 訊息傳遞。題目官方答案為 C；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nPI3K 將 PIP2 磷酸化成 PIP3，招募 Akt/PKB 等 PH-domain 蛋白到細胞膜。\n\n【選項詳解】\n- A. Ras 是小 GTPase，不是 PI3K 的主要膜脂質受質。\n- B. PKC 是下游訊號蛋白，不是 PI3K 磷酸化的膜脂。\n- C. PI3K 磷酸化 PIP2 形成 PIP3，正確。\n- D. PKB/Akt 是被 PIP3 招募活化的蛋白，不是 PI3K 的受質膜脂。\n\n【核心考點】\nPI3K phosphorylates PIP2 to PIP3。",
+      "key_point": "PI3K phosphorylates PIP2 to PIP3。",
+      "flashcard_front": "PI3K 磷酸化哪個膜分子？",
+      "flashcard_back": "PIP2。",
+      "flashcard_summary": "PI3K 訊息傳遞 -> PIP2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題考點是cloning vector 容量。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nYAC 可承載非常大片段 DNA，容量通常大於 BAC、phage vector 與 plasmid。\n\n【選項詳解】\n- A. pBR322 plasmid 容量小。\n- B. YAC 可承載最大 DNA 片段，正確。\n- C. phage vector 容量中等，小於人工染色體。\n- D. BAC 容量大，但通常小於 YAC。\n\n【核心考點】\nYAC carries the largest DNA inserts among listed vectors。",
+      "key_point": "YAC carries the largest DNA inserts among listed vectors。",
+      "flashcard_front": "哪個載體可承載最大 DNA 片段？",
+      "flashcard_back": "YAC。",
+      "flashcard_summary": "cloning vector 容量 -> YAC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題考點是siRNA 長度。題目官方答案為 B；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nmammalian RNAi 中 siRNA 通常約 21-23 nucleotides，導入 RISC 後進行序列專一性沉默。\n\n【選項詳解】\n- A. 11-13 太短。\n- B. 21-23 nucleotides 是典型 siRNA 長度，正確。\n- C. 31-33 過長。\n- D. 41-43 過長。\n\n【核心考點】\nsiRNA is usually about 21-23 nucleotides。",
+      "key_point": "siRNA is usually about 21-23 nucleotides。",
+      "flashcard_front": "siRNA 一般幾個核苷酸？",
+      "flashcard_back": "21-23。",
+      "flashcard_summary": "siRNA 長度 -> 21-23。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "114-2_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題考點是蛋白質交互作用分析。題目官方答案為 A；判斷時要先確認題目是在問正確敘述、錯誤敘述或最不可能的選項，再把選項對回解剖位置、生理機轉或分子功能。\nco-IP、yeast two-hybrid、tandem affinity purification 都常用於蛋白交互作用；IHC 主要看組織定位/表現。官方答案標 A，但依一般生化實驗概念較可能有爭議。\n\n【選項詳解】\n- A. 官方答案為串接親和共純化；但 TAP 常用於純化蛋白複合體與交互作用研究，故此官方答案值得複核。\n- B. 免疫共沉澱是典型蛋白質交互作用分析方法。\n- C. 免疫組織化學主要看組織定位與表現，通常不是直接證明交互作用的方法。\n- D. 酵母菌雙雜交是典型蛋白質交互作用篩選方法。\n\n【核心考點】\nprotein-protein interaction assays commonly include co-IP, yeast two-hybrid, and tandem affinity purification; IHC is mainly localization.",
+      "key_point": "protein-protein interaction assays commonly include co-IP, yeast two-hybrid, and tandem affinity purification; IHC is mainly localization.",
+      "flashcard_front": "哪種一般不適用於蛋白質交互作用？",
+      "flashcard_back": "官方答案為 A；此題建議人工複核。",
+      "flashcard_summary": "蛋白質交互作用分析 -> 官方答案為 A；此題建議人工複核。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T22:19:51+08:00",
+      "manual_review_notes": [
+        "官方答案 A 與常見實驗方法認知可能不一致；IHC 通常更不像直接蛋白交互作用分析，建議人工複核。"
+      ]
+    }
+  ]
+}
