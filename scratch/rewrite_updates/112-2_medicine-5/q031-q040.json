@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-5.json",
+  "dataset_id": "112-2_medicine-5",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-5_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n膽囊癌預後差，常與膽結石、慢性發炎、瓷膽囊等相關。膽結石是最重要危險因子，多數膽囊癌病人可伴隨膽結石。\n\n【選項詳解】\n- A. 部分早期膽囊癌可在膽囊切除後偶然發現，但不能說大部分都如此診斷。\n- B. 膽囊癌整體預後差，五年存活率不高，選項明顯錯誤。\n- C. 膽結石與慢性膽囊發炎是膽囊癌最重要危險因子，描述正確。\n- D. T2 膽囊癌通常需擴大根除手術與肝床切除/淋巴清掃評估，不是單純追蹤。\n\n【核心考點】\n膽囊癌考點是膽結石與預後差；T2 以上通常需更積極手術。",
+      "key_point": "膽結石是膽囊癌最重要危險因子之一。",
+      "flashcard_front": "膽囊癌危險因子",
+      "flashcard_back": "膽囊癌考點是膽結石與預後差；T2 以上通常需更積極手術。",
+      "flashcard_summary": "膽囊癌危險因子：膽結石是膽囊癌最重要危險因子之一。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\nEnterocutaneous fistula 多為術後併發症，治療先控制敗血症、補液營養、保護皮膚並等待可能自然關閉。多數低風險瘻管可保守治療關閉，但輸出量、瘻管長度與阻塞感染會影響預後。\n\n【選項詳解】\n- A. 腸皮瘻管最常見原因是手術後併發症，不是惡性腫瘤侵犯。\n- B. 輸出量分類各教材略有差異，常把高輸出定為大於 500 mL/day；但嚴格 low-output 常低於 200 mL/day，因此此句不是最佳考點。\n- C. 瘻管短於 2 cm 較不容易自行關閉，長而窄且無阻塞感染者才較有機會關閉。\n- D. 超過半數病人可先採保守治療並有自然關閉機會，符合官方答案。\n\n【核心考點】\n腸皮瘻管先穩定病人與營養支持；是否會關閉取決於輸出量、長度、阻塞、感染與腫瘤等因素。",
+      "key_point": "Enterocutaneous fistula 多可先保守治療，部分病人可自行關閉。",
+      "flashcard_front": "腸皮瘻管自然關閉",
+      "flashcard_back": "腸皮瘻管先穩定病人與營養支持；是否會關閉取決於輸出量、長度、阻塞、感染與腫瘤等因素。",
+      "flashcard_summary": "腸皮瘻管自然關閉：Enterocutaneous fistula 多可先保守治療，部分病人可自行關閉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": [
+        "Q32 瘻管輸出量 low/moderate/high 的切點不同教材可能有差異，已依官方答案解釋。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-5_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n胰臟頭部癌常以無痛性黃疸表現，Courvoisier sign 可見膽囊腫大。術前常規 ERCP 膽道減壓並不會降低術後傷口感染，反而可能增加膽道感染；通常只在膽管炎、嚴重黃疸或延遲手術等情況使用。\n\n【選項詳解】\n- A. 遺傳性胰臟癌與 PRSS1、STK11、CDKN2A、BRCA2 等基因相關，正確。\n- B. 頭部癌常黃疸，體尾部癌常疼痛與體重減輕，正確。\n- C. 胰頭癌造成膽道阻塞時可有可觸及且無痛性膽囊腫大，即 Courvoisier sign。\n- D. 錯誤。常規術前 ERCP 減壓不會減少術後傷口感染，且可能增加感染風險。\n\n【核心考點】\n胰頭癌常黃疸；術前膽道減壓不是常規降感染手段，要有特定適應症。",
+      "key_point": "胰臟癌術前常規 ERCP 膽道減壓不會降低術後傷口感染。",
+      "flashcard_front": "胰臟癌與術前膽道引流",
+      "flashcard_back": "胰頭癌常黃疸；術前膽道減壓不是常規降感染手段，要有特定適應症。",
+      "flashcard_summary": "胰臟癌與術前膽道引流：胰臟癌術前常規 ERCP 膽道減壓不會降低術後傷口感染。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\nInsulinoma 典型為 Whipple triad：低血糖症狀、低血糖被證實、給糖後症狀改善。內生性胰島素過多會有 insulin 與 C-peptide 同時升高；外來胰島素則 C-peptide 低。\n\n【選項詳解】\n- A. 三徵稱 Whipple triad，不是 Charcot triad；且血糖單位應為 mg/dL，不是 mg/mL。\n- B. 低血糖時 insulin 高且 C-peptide 高，支持內生性胰島素分泌，如 insulinoma。\n- C. Insulinoma 多為單發且良性，不是多發為主。\n- D. 多數 insulinoma 為 sporadic；MEN1 相關者較可能多發，不是較多單發。\n\n【核心考點】\n低血糖合併 insulin 與 C-peptide 都高，才支持內生性 insulinoma。",
+      "key_point": "Insulinoma 診斷可用低血糖時 C-peptide 上升來區分外來胰島素。",
+      "flashcard_front": "Insulinoma 診斷",
+      "flashcard_back": "低血糖合併 insulin 與 C-peptide 都高，才支持內生性 insulinoma。",
+      "flashcard_summary": "Insulinoma 診斷：Insulinoma 診斷可用低血糖時 C-peptide 上升來區分外來胰島素。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\nHepatic adenoma 與口服避孕藥、代謝症候群等相關，可能出血或惡性轉化；FNH 是良性增生，常有中央疤痕，惡性轉化與出血風險低，多半觀察即可。\n\n【選項詳解】\n- A. 口服避孕藥與 hepatic adenoma 關聯較強，不是 FNH 較有關。\n- B. 肝腺瘤較可能自發性出血，也有惡性轉化風險，正確。\n- C. 影像上 FNH 常有典型中央疤痕，MRI/CT 常能區分兩者。\n- D. FNH 多數不需手術；肝腺瘤則依大小、症狀、性別與風險考慮切除。\n\n【核心考點】\nHepatic adenoma 有出血與惡性風險；FNH 通常良性觀察。",
+      "key_point": "肝腺瘤比 FNH 更需擔心出血與惡性轉化。",
+      "flashcard_front": "肝腺瘤與 FNH",
+      "flashcard_back": "Hepatic adenoma 有出血與惡性風險；FNH 通常良性觀察。",
+      "flashcard_summary": "肝腺瘤與 FNH：肝腺瘤比 FNH 更需擔心出血與惡性轉化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\nPringle maneuver 是暫時夾住 hepatoduodenal ligament 內的 portal triad，也就是肝動脈、門脈與膽管，以控制肝臟流入血流。常採間歇性夾閉，例如夾 15 分鐘、放 5 分鐘，減少肝缺血傷害。\n\n【選項詳解】\n- A. Pringle 夾的是肝動脈與門脈流入，不是肝靜脈流出。\n- B. 間歇性夾 15 分鐘、放鬆 5 分鐘是常見考試描述，正確。\n- C. 肝功能差者更需減少全肝缺血，選擇性或半肝血流控制可能較有利。\n- D. 連續與間歇性、選擇性控制對缺血再灌流傷害可能不同，不能說無差異。\n\n【核心考點】\nPringle maneuver 控制 portal triad 流入血流，不控制 hepatic vein 流出。",
+      "key_point": "Pringle maneuver 常採間歇性 15 分鐘夾閉、5 分鐘放鬆。",
+      "flashcard_front": "Pringle maneuver",
+      "flashcard_back": "Pringle maneuver 控制 portal triad 流入血流，不控制 hepatic vein 流出。",
+      "flashcard_summary": "Pringle maneuver：Pringle maneuver 常採間歇性 15 分鐘夾閉、5 分鐘放鬆。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n近年 sleeve gastrectomy 因技術相對簡單、效果佳且避免腸道繞道，成為常見減重手術。代謝手術主要改善 type 2 diabetes；吸收不良型或繞道型較需長期營養補充；早期滲漏多需積極評估。\n\n【選項詳解】\n- A. Sleeve gastrectomy 近年相當普遍，是正確敘述。\n- B. 代謝手術主要治療 type 2 diabetes，不是 type 1 diabetes。\n- C. 較需要長期補充維生素的是吸收不良或繞道成分較多的手術，不是單純限制性手術。\n- D. 術後早期腸道滲漏可能危及生命，不能概括說多數保守治療即可。\n\n【核心考點】\n減重手術常考 sleeve gastrectomy 普及、type 2 diabetes 改善與營養缺乏風險。",
+      "key_point": "近年減重手術常用 sleeve gastrectomy；代謝手術主要針對 type 2 diabetes。",
+      "flashcard_front": "減重手術基本概念",
+      "flashcard_back": "減重手術常考 sleeve gastrectomy 普及、type 2 diabetes 改善與營養缺乏風險。",
+      "flashcard_summary": "減重手術基本概念：近年減重手術常用 sleeve gastrectomy；代謝手術主要針對 type 2 diabetes。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n甲狀腺細針穿刺若為 Bethesda I nondiagnostic，下一步通常是超音波導引下重做 FNA，以取得足夠檢體。未有診斷前不應直接放射碘或手術，單純追蹤也可能延誤診斷。\n\n【選項詳解】\n- A. 重做細針穿刺是 Bethesda nondiagnostic 結節的標準下一步。\n- B. 放射性碘不是 nondiagnostic solid nodule 的診斷處置。\n- C. 尚未有惡性或可疑診斷，不宜直接甲狀腺葉切除作為第一步。\n- D. 2 公分實心結節且 FNA nondiagnostic，單純 6 個月後追蹤不如重做 FNA 恰當。\n\n【核心考點】\nBethesda I 的關鍵處置是重做 FNA，最好在超音波導引下取樣。",
+      "key_point": "甲狀腺 FNA nondiagnostic 時，下一步通常是 repeat FNA。",
+      "flashcard_front": "Bethesda nondiagnostic 甲狀腺結節",
+      "flashcard_back": "Bethesda I 的關鍵處置是重做 FNA，最好在超音波導引下取樣。",
+      "flashcard_summary": "Bethesda nondiagnostic 甲狀腺結節：甲狀腺 FNA nondiagnostic 時，下一步通常是 repeat FNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\nPheochromocytoma 合併 medullary thyroid carcinoma 要想到 MEN2 與 RET 突變。MTC 追蹤用 calcitonin 與 CEA；MTC 不是濾泡細胞來源，不吸收放射碘，因此 131I whole body scan 不適合定位復發。\n\n【選項詳解】\n- A. MEN2A 可合併副甲狀腺亢進，追蹤鈣、磷、PTH 合理。\n- B. Calcitonin 與 CEA 是 MTC 復發追蹤的重要腫瘤指標。\n- C. 錯誤。MTC 來自 C cell，不攝取碘，131I whole body scan 不是定位復發的適當檢查。\n- D. Pheochromocytoma 可追蹤 catecholamine 代謝物與影像，描述合理。\n\n【核心考點】\nMTC 追蹤用 calcitonin/CEA，不用 radioiodine scan。",
+      "key_point": "甲狀腺髓質癌不是濾泡細胞癌，不能用 131I whole body scan 追蹤定位。",
+      "flashcard_front": "MEN2 與甲狀腺髓質癌追蹤",
+      "flashcard_back": "MTC 追蹤用 calcitonin/CEA，不用 radioiodine scan。",
+      "flashcard_summary": "MEN2 與甲狀腺髓質癌追蹤：甲狀腺髓質癌不是濾泡細胞癌，不能用 131I whole body scan 追蹤定位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\nMEN2 是 RET proto-oncogene 的遺傳性疾病，家族成員應做 RET 基因檢測。兒童若有致病突變，需依突變風險決定預防性甲狀腺切除時機。\n\n【選項詳解】\n- A. Thyroglobulin 用於分化型甲狀腺癌追蹤，不適合 MEN2/MTC 篩檢。\n- B. RET proto-oncogene 基因檢測可確認是否遺傳 MEN2 風險，最適宜。\n- C. 超音波可找結節，但不能取代遺傳風險篩檢，且可能太晚。\n- D. Calcitonin/CEA 可追蹤 MTC，但家族幼兒風險評估首選 RET 檢測。\n\n【核心考點】\nMEN2 家族篩檢先做 RET，不是等 calcitonin 升高或超音波看到腫瘤。",
+      "key_point": "MEN2 家族成員應以 RET proto-oncogene 檢測作為篩檢重點。",
+      "flashcard_front": "MEN2 家族篩檢",
+      "flashcard_back": "MEN2 家族篩檢先做 RET，不是等 calcitonin 升高或超音波看到腫瘤。",
+      "flashcard_summary": "MEN2 家族篩檢：MEN2 家族成員應以 RET proto-oncogene 檢測作為篩檢重點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

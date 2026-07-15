@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-5.json",
+  "dataset_id": "112-2_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n生命跡象不穩定且持續出血的外傷病人啟動 massive transfusion protocol 時，重點是用接近全血的平衡復甦，避免只補紅血球造成凝血因子與血小板稀釋。本題官方更正接受 C、D，代表 1:1:2 與 1:1:1 都被視為合理的高比例血漿與血小板策略。\n\n【選項詳解】\n- A. 血漿與血小板相對太少，紅血球比例過高，容易加重稀釋性凝血病變，臨床結果較差。\n- B. 比 1:1:4 稍平衡，但仍偏向紅血球補充，不能充分反映大量出血時同步補凝血因子與血小板的原則。\n- C. 1:1:2 是常用的平衡大量輸血比例，可降低凝血障礙與失血死亡風險，為官方接受答案之一。\n- D. 1:1:1 最接近全血復甦，亦符合現代外傷大量輸血強調的血漿、血小板、紅血球平衡補充，為官方接受答案之一。\n\n【核心考點】\n大量輸血不是只補紅血球，而是要早期補血漿與血小板；常考比例為 1:1:1 或 1:1:2。",
+      "key_point": "大量輸血流程應採平衡復甦，血漿、血小板與紅血球比例常以 1:1:1 或 1:1:2 為高分考點。",
+      "flashcard_front": "大量輸血流程的血品比例",
+      "flashcard_back": "大量輸血不是只補紅血球，而是要早期補血漿與血小板；常考比例為 1:1:1 或 1:1:2。",
+      "flashcard_summary": "大量輸血流程的血品比例：大量輸血流程應採平衡復甦，血漿、血小板與紅血球比例常以 1:1:1 或 1:1:2 為高分考點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n術後肺水腫可分為靜水壓上升型與通透性增加型。體液過量、急性左心衰竭、胰臟炎造成的全身性發炎都可導致肺水腫；單純高血壓若未造成急性心衰竭，較不是典型直接原因。\n\n【選項詳解】\n- A. 胰臟炎可引發全身發炎反應與 ARDS，增加肺微血管通透性，可能造成非心因性肺水腫。\n- B. 體液容積過量會提高肺微血管靜水壓，是術後肺水腫常見原因。\n- C. 急性左心衰竭會使肺靜脈壓上升，造成心因性肺水腫。\n- D. 高血壓本身不是術後肺水腫的典型直接原因，除非已造成急性心衰竭或容量負荷問題，因此最不容易造成肺水腫。\n\n【核心考點】\n肺水腫常見機轉是容量或左心壓力過高，或發炎造成微血管通透性增加；單純高血壓不是最典型原因。",
+      "key_point": "術後肺水腫常見於體液過量、左心衰竭、ARDS/胰臟炎，單純高血壓較不典型。",
+      "flashcard_front": "術後肺水腫原因",
+      "flashcard_back": "肺水腫常見機轉是容量或左心壓力過高，或發炎造成微血管通透性增加；單純高血壓不是最典型原因。",
+      "flashcard_summary": "術後肺水腫原因：術後肺水腫常見於體液過量、左心衰竭、ARDS/胰臟炎，單純高血壓較不典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\nCDI 常發生於抗生素使用後，因腸道菌叢被破壞而讓 C. difficile 增生並產生毒素。治療原則是停用誘發抗生素，並使用針對 CDI 的口服 vancomycin 或 fidaxomicin，不是再給廣效抗革蘭陰性菌抗生素。\n\n【選項詳解】\n- A. CDI 可有水瀉、發燒，嚴重結腸炎時可有血便或白血球升高，描述可接受。\n- B. 糞便毒素或核酸檢測可輔助診斷；嚴重或診斷不明時也可能以內視鏡看到偽膜性腸炎。\n- C. 錯誤。應停用不必要的誘發抗生素，並給口服 vancomycin 或 fidaxomicin；廣效抗革蘭陰性菌藥物反而可能惡化菌叢失衡。\n- D. 腹瀉會造成脫水、低鉀、酸鹼失衡等問題，補充水分與電解質是支持治療重點。\n\n【核心考點】\nCDI 的治療不是擴大抗生素涵蓋，而是停誘發藥並給針對 C. difficile 的治療。",
+      "key_point": "CDI 治療首重停用誘發抗生素，並使用口服 vancomycin 或 fidaxomicin。",
+      "flashcard_front": "困難梭狀芽孢桿菌感染治療",
+      "flashcard_back": "CDI 的治療不是擴大抗生素涵蓋，而是停誘發藥並給針對 C. difficile 的治療。",
+      "flashcard_summary": "困難梭狀芽孢桿菌感染治療：CDI 治療首重停用誘發抗生素，並使用口服 vancomycin 或 fidaxomicin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n傷口癒合需要良好灌流、沒有過度張力、沒有血腫與感染。其中感染會延長發炎期、破壞新生組織並增加膠原分解，是最常見也最重要的可處理原因。\n\n【選項詳解】\n- A. 傷口感染會使發炎持續、膠原沉積與上皮化受阻，是傷口癒合延遲最常見原因。\n- B. 縫合技巧不佳會造成張力過高或死腔，但整體而言不如感染常見。\n- C. 傷口流血或血腫會增加感染風險並影響癒合，但不是最常見的直接原因。\n- D. 糖尿病、營養不良、免疫抑制等合併症會延遲癒合，但題目問最常見原因時仍以感染為主。\n\n【核心考點】\n傷口癒合延遲的第一個要想到感染，因為感染會使發炎期延長並破壞修復環境。",
+      "key_point": "傷口感染是傷口癒合延遲最常見原因。",
+      "flashcard_front": "傷口癒合延遲最常見原因",
+      "flashcard_back": "傷口癒合延遲的第一個要想到感染，因為感染會使發炎期延長並破壞修復環境。",
+      "flashcard_summary": "傷口癒合延遲最常見原因：傷口感染是傷口癒合延遲最常見原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\nSSI 必須與手術切口、深部軟組織或器官腔室感染有關，並符合時間範圍。肺炎屬呼吸道感染，不是手術部位感染；切口膿瘍、人工物相關感染、吻合處膿瘍才符合 SSI 概念。\n\n【選項詳解】\n- A. 術後 21 天發生肺炎與敗血症，感染源在呼吸道，不在切口、深部切口或器官腔室，因此不符合 SSI 定義。\n- B. 疝氣修補術後 28 天傷口癒合不良、有分泌物與膿瘍，符合表淺或深部切口 SSI。\n- C. 關節置換屬植入物相關手術，11 個月後傷口紅腫且穿刺培養陽性，仍可符合植入物相關 SSI/人工關節感染範圍。\n- D. 胃切除後吻合處膿瘍屬器官腔室感染，雖表面傷口正常，仍符合 organ/space SSI。\n\n【核心考點】\nSSI 看感染是否發生在切口、深部組織或手術相關器官腔室；術後肺炎不是 SSI。",
+      "key_point": "術後肺炎不是 surgical site infection；吻合處膿瘍與切口膿瘍才是 SSI。",
+      "flashcard_front": "手術部位感染 SSI 定義",
+      "flashcard_back": "SSI 看感染是否發生在切口、深部組織或手術相關器官腔室；術後肺炎不是 SSI。",
+      "flashcard_summary": "手術部位感染 SSI 定義：術後肺炎不是 surgical site infection；吻合處膿瘍與切口膿瘍才是 SSI。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\nMELD 用於估計末期肝病短期死亡風險與肝移植優先順序，核心參數為 bilirubin、INR、creatinine，現代 MELD-Na 另納入 sodium。白血球計數不屬 MELD。\n\n【選項詳解】\n- A. 總膽紅素反映肝臟排泄功能，是 MELD 的核心參數。\n- B. 白血球計數可反映感染或發炎，但不是 MELD 分數公式的項目。\n- C. 肌酐酸反映腎功能，肝硬化合併腎功能差預後差，因此是 MELD 參數。\n- D. INR 反映凝血合成功能，是 MELD 的核心參數。\n\n【核心考點】\nMELD 記 bilirubin、INR、creatinine；不要把 WBC 或 albumin 混進來。",
+      "key_point": "MELD score 的基本參數為 bilirubin、INR、creatinine，非 WBC。",
+      "flashcard_front": "MELD score 組成",
+      "flashcard_back": "MELD 記 bilirubin、INR、creatinine；不要把 WBC 或 albumin 混進來。",
+      "flashcard_summary": "MELD score 組成：MELD score 的基本參數為 bilirubin、INR、creatinine，非 WBC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n嚴重燒傷後高代謝與蛋白質分解會造成 lean body mass 下降。臨床常以 10%、20%、30%、40% 對應不同嚴重後果：10% 免疫下降、20% 傷口癒合延遲、30% 肺炎與壓瘡、40% 死亡風險顯著上升。\n\n【選項詳解】\n- A. 10% 損失較早出現的是免疫功能下降，不是最典型的傷口癒合延遲門檻。\n- B. 20% 損失更常對應傷口癒合延遲，而免疫功能下降在較早階段即可出現。\n- C. 30% 淨體重損失會明顯增加肺炎與壓瘡風險，符合考點。\n- D. 40% 損失常與死亡風險上升相關，不是主要用來描述脆弱性骨折。\n\n【核心考點】\n燒傷後 lean body mass loss 越高，從免疫下降、傷口癒合差，到肺炎壓瘡與死亡風險逐步增加。",
+      "key_point": "燒傷病人 lean body mass loss 約 30% 時，肺炎與壓瘡風險明顯增加。",
+      "flashcard_front": "燒傷淨體重損失併發症",
+      "flashcard_back": "燒傷後 lean body mass loss 越高，從免疫下降、傷口癒合差，到肺炎壓瘡與死亡風險逐步增加。",
+      "flashcard_summary": "燒傷淨體重損失併發症：燒傷病人 lean body mass loss 約 30% 時，肺炎與壓瘡風險明顯增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n多數功能性腦下垂體腺瘤，如 ACTH、GH、TSH 分泌腫瘤，首選經蝶竇手術切除。泌乳激素瘤對 dopamine agonist 反應佳，通常先以 cabergoline 或 bromocriptine 治療。\n\n【選項詳解】\n- A. ACTH 分泌腫瘤造成 Cushing disease，通常首選經蝶竇手術。\n- B. GH 分泌腫瘤造成肢端肥大症，手術是主要初始治療之一。\n- C. TSH 分泌腫瘤少見，但通常也以手術為優先治療。\n- D. Prolactinoma 多先用 dopamine agonist，可縮小腫瘤並降低 prolactin，通常不是手術第一優先。\n\n【核心考點】\n垂體腺瘤中最愛考的例外是 prolactinoma：先用 dopamine agonist，不先開刀。",
+      "key_point": "Prolactinoma 的第一線治療通常是 dopamine agonist，而非手術。",
+      "flashcard_front": "腦下垂體腫瘤治療",
+      "flashcard_back": "垂體腺瘤中最愛考的例外是 prolactinoma：先用 dopamine agonist，不先開刀。",
+      "flashcard_summary": "腦下垂體腫瘤治療：Prolactinoma 的第一線治療通常是 dopamine agonist，而非手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n出血性腦中風急性照護包含血壓、血糖、體位、吞嚥與壓瘡預防等。預防性抗癲癇藥不是所有病人都一定需要，通常用於癲癇發作、皮質出血或高風險情境。\n\n【選項詳解】\n- A. 避免高血糖是合理照護目標，常以小於 180 mg/dL 作為急性重症控制目標。\n- B. 急性腦出血常需控制收縮壓，約 140 到 160 mmHg 是常見考試範圍。\n- C. 意識障礙或臥床病人要注意翻身與皮膚照護，預防壓瘡是正確照護。\n- D. 錯誤。沒有癲癇發作或特定高風險狀況時，不是所有出血性中風都一定要預防性抗癲癇藥。\n\n【核心考點】\n出血性中風可控制血壓與血糖並預防併發症，但抗癲癇藥不是每位病人常規必給。",
+      "key_point": "腦出血照護不等於一定給預防性抗癲癇藥。",
+      "flashcard_front": "出血性中風照護",
+      "flashcard_back": "出血性中風可控制血壓與血糖並預防併發症，但抗癲癇藥不是每位病人常規必給。",
+      "flashcard_summary": "出血性中風照護：腦出血照護不等於一定給預防性抗癲癇藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n此題依附圖判讀，官方答案指出該影像位置屬顱內動脈瘤好發位置之一。缺少附圖時，作答重點是不要過度推論破裂或固定為中大腦動脈瘤；常見好發處包含 anterior communicating、posterior communicating、MCA bifurcation 等分叉處。\n\n【選項詳解】\n- A. 未破裂動脈瘤不是靠抗血小板藥物預防破裂或梗塞，治療需依大小、位置與破裂風險評估。\n- B. 官方圖像位置被判定為顱內動脈瘤好發處，因此為正確。\n- C. 若影像位置非 MCA bifurcation，不能單憑有動脈瘤就判為中大腦動脈瘤。\n- D. CTA 看見動脈瘤不代表已破裂；破裂需結合臨床蜘蛛膜下腔出血或影像出血證據。\n\n【核心考點】\n顱內動脈瘤常在 Willis circle 分叉處；影像題要避免把位置、破裂與處置混為一談。",
+      "key_point": "CTA 動脈瘤影像需判斷位置；不能看到動脈瘤就推定破裂。",
+      "flashcard_front": "顱內動脈瘤影像判讀",
+      "flashcard_back": "顱內動脈瘤常在 Willis circle 分叉處；影像題要避免把位置、破裂與處置混為一談。",
+      "flashcard_summary": "顱內動脈瘤影像判讀：CTA 動脈瘤影像需判斷位置；不能看到動脈瘤就推定破裂。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-15T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
