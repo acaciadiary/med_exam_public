@@ -2421,9 +2421,9 @@
         "D": "DNA促旋酶(DNA gyrase)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者具有5'端至3'端的核酸外切酶(exonuclease)活性?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：DNA聚合酶I型（DNA polymerase I）是原核生物中唯一同時具有 5'→3' 核酸外切酶（exonuclease）活性與 3'→5' 核酸外切酶活性的 DNA 聚合酶，其中 5'→3' 外切酶活性主要用於移除 RNA 引子。DNA聚合酶III型僅具有 3'→5' 外切酶活性（校對功能），而不具備 5'→3' 外切酶活性。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「primase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「DNA聚合酶I型(DNA polymeraseI)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「DNA聚合酶III型(DNA polymeraseIII)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「DNA促旋酶(DNA gyrase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n具有5'-3'外切酶活性的DNA聚合酶種類。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "具有5'-3'外切酶活性的DNA聚合酶種類。",
-      "flashcard_summary": "DNA聚合酶I活性 -> DNA聚合酶I型具5'→3'外切核酸酶活性，能切除複製起點之RNA引子。",
+      "explanation": "【題幹解析】\n本題問哪一個酵素具有 5'->3' 核酸外切酶活性。原核生物 DNA polymerase I 的特色，是同時具有 5'->3' exonuclease、3'->5' proofreading exonuclease 與聚合酶活性；其中 5'->3' exonuclease 可移除 RNA primer，因此答案為 B。\n\n【選項詳解】\n- A. Primase 負責合成 RNA primer，提供 DNA polymerase 延伸所需的 3'-OH，並不是負責移除 primer 的 5'->3' 外切酶。\n- B. DNA polymerase I 具有 5'->3' exonuclease，可在 lagging strand 成熟時移除 RNA primer，同時補上 DNA，是本題所問的酵素。\n- C. DNA polymerase III 是原核細胞主要複製酵素，具有 3'->5' 校對活性，但沒有典型的 5'->3' exonuclease primer-removal 功能。\n- D. DNA gyrase 是拓樸異構酶，負責解除複製叉前方的正超螺旋張力，不進行核酸外切酶反應。\n\n【核心考點】\n原核 DNA polymerase I 的高頻考點是 5'->3' exonuclease 移除 RNA primer；DNA polymerase III 則是主要複製酵素與 3'->5' proofreading。",
+      "key_point": "原核 DNA polymerase I 的高頻考點是 5'->3' exonuclease 移除 RNA primer；DNA polymerase III 則是主要複製酵素與 3'->5' proofreading。",
+      "flashcard_summary": "原核 DNA polymerase I 的高頻考點是 5'->3' exonuclease 移除 RNA primer；DNA polymerase III 則是主要複製酵素與 3'->5' proofreading。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2431,13 +2431,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "分子生物學 / DNA聚合酶I / 5'→3'核酸外切酶 / 移除引子 / 原核生物",
-      "flashcard_back": "DNA聚合酶I型具特有的5'→3'核酸外切酶活性，負責在複製時切除 RNA primer 並填補空隙。",
+      "flashcard_back": "原核 DNA polymerase I 的高頻考點是 5'->3' exonuclease 移除 RNA primer；DNA polymerase III 則是主要複製酵素與 3'->5' proofreading。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_082",
@@ -2450,9 +2450,9 @@
         "D": "DNA解螺旋酶"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「在DNA複製中,下列何酵素功能主要是用以增加DNA複製之準確度?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在 DNA 複製過程中，DNA 聚合酶具有的 3'→5' 外切核酸酶（exonuclease）活性發揮了校對（proofreading）功能。當發生鹼基配對錯誤時，此活性可將錯誤的核苷酸從 3' 端切除並重新合成正確鹼基，從而大幅提高 DNA 複製的準確度。單股結合蛋白和解螺旋酶主要參與複製叉維持，無校對功能。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「單股DNA結合蛋白」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「3'→5'外切核酸酶」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「DNA連接酶」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「DNA解螺旋酶」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nDNA複製中負責校對並提高準確度的酶活性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "DNA複製中負責校對並提高準確度的酶活性。",
-      "flashcard_summary": "DNA複製校對活性 -> 3'→5'外切核酸酶具有校對功能，能移去3'端錯配鹼基以維持複製的高準確度。",
+      "explanation": "【題幹解析】\n題目問 DNA 複製準確度由哪一個功能增加。真正降低複製錯誤率的是 DNA polymerase 的 3'->5' exonuclease proofreading：一旦新接上的鹼基錯配，酵素可從 3' 端切除錯誤核苷酸後再延伸，因此答案為 B。\n\n【選項詳解】\n- A. 單股 DNA 結合蛋白負責穩定已解開的單股 DNA，避免重新配對或被分解，但不負責校對錯配鹼基。\n- B. 3'->5' 外切核酸酶就是 proofreading 活性，可移除剛接上的錯誤核苷酸，是提升複製準確度的關鍵。\n- C. DNA ligase 負責封合 Okazaki fragments 之間的 nick，修補磷酸二酯鍵缺口，並不判斷鹼基是否配錯。\n- D. DNA helicase 負責解開雙股 DNA，使複製叉前進；它提供模板，但不進行錯誤校對。\n\n【核心考點】\nDNA 複製的準確度靠 polymerase 選擇正確鹼基加上 3'->5' exonuclease proofreading，而不是靠 ligase 或 helicase。",
+      "key_point": "DNA 複製的準確度靠 polymerase 選擇正確鹼基加上 3'->5' exonuclease proofreading，而不是靠 ligase 或 helicase。",
+      "flashcard_summary": "DNA 複製的準確度靠 polymerase 選擇正確鹼基加上 3'->5' exonuclease proofreading，而不是靠 ligase 或 helicase。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2460,13 +2460,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "分子生物學 / DNA複製校對 / 3'→5'外切核酸酶 / 錯配修復 / 提升準確度",
-      "flashcard_back": "DNA複製時的校對功能是由3'→5'外切核酸酶活性執行，可切除錯配鹼基以提升複製保真度。",
+      "flashcard_back": "DNA 複製的準確度靠 polymerase 選擇正確鹼基加上 3'->5' exonuclease proofreading，而不是靠 ligase 或 helicase。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_083",
@@ -2479,9 +2479,9 @@
         "D": "5'端含-AACp-5'"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「大部分的真核細胞含40~50種不同的tRNAs,下列何者是這些tRNA之共同序列?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在所有真核與原核細胞的 tRNA 分子中，其 3' 端皆具有共同的 -CCA-3'OH 序列。此序列是氨基醯-tRNA 合成酶將對應氨基酸共價連結的活化位點。5' 端通常是磷酸化的 G 殘基，而非 -CCA 序列，且 tRNA 末端不具備 5' 帽結構。\n\n【選項詳解】\n- A. 正確答案。選項內容：「3'端含-CCA-3'OH」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「3'端含-AAC-3'OH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「5'端含-CCAp-5'」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「5'端含-AACp-5'」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n所有tRNA分子的共同末端序列結構。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "所有tRNA分子的共同末端序列結構。",
-      "flashcard_summary": "tRNA的3'末端序列 -> 所有tRNA的3'端共同擁有-CCA-3'OH序列，為氨基酸結合之特異部位。",
+      "explanation": "【題幹解析】\n題目問不同 tRNA 的共同序列。成熟 tRNA 的 3' 端共同具有 CCA-3'OH，胺基酸就是接到最末端 adenosine 的 3'-OH 上，形成 aminoacyl-tRNA，因此答案為 A。\n\n【選項詳解】\n- A. 3' 端 CCA-3'OH 是成熟 tRNA 的共同受胺基酸端，aminoacyl-tRNA synthetase 會把對應胺基酸接在這裡。\n- B. AAC 不是 tRNA 的共同 3' 端序列；把 CCA 反向寫成 AAC 會失去受胺基酸端的標準意義。\n- C. CCA 位在 3' 端而不是 5' 端；5' 端寫成 CCAp-5' 不符合 tRNA 共同末端結構。\n- D. AAC 既不是共同序列，也不是位於 5' 端的 tRNA 特徵。\n\n【核心考點】\n所有成熟 tRNA 的共同記憶點是 3'-CCA-OH；胺基酸接在 terminal A 的 3'-OH。",
+      "key_point": "所有成熟 tRNA 的共同記憶點是 3'-CCA-OH；胺基酸接在 terminal A 的 3'-OH。",
+      "flashcard_summary": "所有成熟 tRNA 的共同記憶點是 3'-CCA-OH；胺基酸接在 terminal A 的 3'-OH。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2489,13 +2489,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "分子生物學 / tRNA共同結構 / 3'末端序列 / 氨基酸結合位點 / CCA",
-      "flashcard_back": "所有tRNA的3'末端皆為 -CCA-3'OH 序列，此處為攜帶並共價鍵結氨基酸的活性位置。",
+      "flashcard_back": "所有成熟 tRNA 的共同記憶點是 3'-CCA-OH；胺基酸接在 terminal A 的 3'-OH。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_084",
@@ -2508,9 +2508,9 @@
         "D": "啟始階段需要的aminoacyl-tRNA是Met-tRNAiMet"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「關於真核細胞蛋白質合成的啟始階段(initiation stage),下列敘述何者錯誤?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在真核細胞蛋白質合成啟始階段，大、小次單元必須先分離。小次單元（40S）先與啟始因子及 Met-tRNAiMet 結合，接著與具有 5' 帽或 IRES 結構的 mRNA 結合併掃描尋找起始密碼子。只有在定位起始密碼子後，大次單元（60S）才會結合形成完整的 80S 核糖體。因此，大小次單元並非先結合再與 mRNA 結合。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「需要mRNA、核糖體(ribosome)與aminoacyl-tRNA的參與」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「mRNA必須具有5'端帽結構(5'cap structure)或internal ribosome entry site(IRES)才能參與啟始作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「核糖體的大與小兩個次單元(large and small subunits)必須形成完整的核糖體(ribosome)才能與mRNA結\n 合」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「啟始階段需要的aminoacyl-tRNA是Met-tRNAiMet」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n真核細胞蛋白質合成啟始階段的核糖體結合順序。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "真核細胞蛋白質合成啟始階段的核糖體結合順序。",
-      "flashcard_summary": "蛋白質合成啟始步驟 -> 小次單元先與mRNA結合併定位起始密碼子，大次單元隨後加入，並非先形成完整核糖體。",
+      "explanation": "【題幹解析】\n題目問真核蛋白質轉譯起始階段何者錯誤。真核起始時是 40S 小次單元先與起始因子、Met-tRNAiMet 及 mRNA 結合並掃描起始密碼子，定位後 60S 大次單元才加入形成 80S ribosome；所以 C 的『先形成完整核糖體才能與 mRNA 結合』錯誤。\n\n【選項詳解】\n- A. 轉譯起始需要 mRNA、核糖體小/大次單元與起始 tRNA 參與，這是正確背景敘述。\n- B. 典型真核 mRNA 依賴 5' cap 啟始，部分病毒或特殊 mRNA 可經 IRES 啟始，這項敘述可成立。\n- C. 真核起始不是完整 80S ribosome 先與 mRNA 結合；而是 40S 先組成起始複合體並掃描，之後 60S 才加入，因此這是錯誤敘述。\n- D. 真核起始使用 initiator methionyl-tRNA，也就是 Met-tRNAiMet，這是正確敘述。\n\n【核心考點】\n真核轉譯起始順序：40S + initiation factors + Met-tRNAiMet 先找 start codon，60S 後加入形成 80S。",
+      "key_point": "真核轉譯起始順序：40S + initiation factors + Met-tRNAiMet 先找 start codon，60S 後加入形成 80S。",
+      "flashcard_summary": "真核轉譯起始順序：40S + initiation factors + Met-tRNAiMet 先找 start codon，60S 後加入形成 80S。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -2518,13 +2518,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "蛋白質合成 / 啟始階段 / 核糖體次單元 / 40S結合 / 60S隨後",
-      "flashcard_back": "蛋白質合成啟始時，核糖體大、小次單元需先分離，由小次單元先與mRNA結合，最後大次單元才加入。",
+      "flashcard_back": "真核轉譯起始順序：40S + initiation factors + Met-tRNAiMet 先找 start codon，60S 後加入形成 80S。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_085",
@@ -2537,9 +2537,9 @@
         "D": "決定眼睛顏色的基因總稱"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「同質異化基因(homeotic genes)在果蠅胚胎發育期(developmental stages)主要扮演何種角色?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：同質異化基因（homeotic genes，如 Hox 基因）在果蠅胚胎發育後期表現，主要功能是決定每一個已劃分體節（segment）的詳細特徵結構（例如發育成觸角或足）。它們並非卵效應基因，也不僅限於決定翅膀或眼睛顏色，而是控制身體縱軸體節的身分識別。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「基因在產卵期時開始作轉錄表現,其mRNA在卵中呈休眠狀態直到受精後才被啟動」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「在胚胎發育後期表現,決定每一體節的詳細結構」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「決定翅膀的基因總稱」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「決定眼睛顏色的基因總稱」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n果蠅發育中同質異化基因 (homeotic genes) 的生理角色。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "果蠅發育中同質異化基因 (homeotic genes) 的生理角色。",
-      "flashcard_summary": "同質異化基因角色 -> 同質異化基因在發育後期決定體節的身分，指導各體節分化出特定的解剖結構。",
+      "explanation": "【題幹解析】\n題目問 homeotic genes 在果蠅胚胎發育中的角色。Homeotic/Hox genes 不負責一開始建立體軸或單一器官顏色，而是在體節形成後決定各體節的身分與詳細結構，因此答案為 B。\n\n【選項詳解】\n- A. 這比較像 maternal-effect genes 的概念，mRNA 先存在卵中並在受精後影響早期體軸，不是 homeotic genes 的主要角色。\n- B. Homeotic genes 在胚胎發育後期指定每個 segment 的 identity，例如哪個體節形成觸角、足或翅相關構造，是正確敘述。\n- C. 翅膀發育會受特定調控基因影響，但 homeotic genes 不是『決定翅膀的基因總稱』。\n- D. 眼睛顏色屬於色素與遺傳表型問題，不是 homeotic genes 的典型功能。\n\n【核心考點】\nHomeotic/Hox genes 的考點是 segment identity：決定體節身分與構造，而不是決定早期體軸或單一表徵顏色。",
+      "key_point": "Homeotic/Hox genes 的考點是 segment identity：決定體節身分與構造，而不是決定早期體軸或單一表徵顏色。",
+      "flashcard_summary": "Homeotic/Hox genes 的考點是 segment identity：決定體節身分與構造，而不是決定早期體軸或單一表徵顏色。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2547,13 +2547,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "發育生物學 / 同質異化基因 (Hox) / 果蠅胚胎 / 體節特徵 / 發育後期",
-      "flashcard_back": "同質異化基因在胚胎發育後期表現，負責決定每一體節發育的詳細器官結構與特徵。",
+      "flashcard_back": "Homeotic/Hox genes 的考點是 segment identity：決定體節身分與構造，而不是決定早期體軸或單一表徵顏色。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_086",
@@ -2566,9 +2566,9 @@
         "D": "zinc finger"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者負責DNA結合蛋白形成二聚體(protein dimers)的主要基序(motif)?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：亮氨酸拉鍊（leucine zipper）是一種常見於轉錄因子的結構基序（motif），其特徵為每隔七個氨基酸出現一個亮氨酸，亮氨酸側鏈交互作用形成疏水界面，主要負責調控蛋白間的二聚化（protein dimerization）。鋅指（zinc finger）與同源域（homeodomain）主要負責與 DNA 鹼基進行特異性結合，而非以二聚化為主要功能。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「β-barrel」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「homeodomain」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「leucine zipper」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「zinc finger」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\nDNA結合蛋白中負責形成二聚體的結構基序。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "DNA結合蛋白中負責形成二聚體的結構基序。",
-      "flashcard_summary": "亮氨酸拉鍊基序 -> 亮氨酸拉鍊基序是介導轉錄因子等DNA結合蛋白二聚化（dimerization）的重要結構。",
+      "explanation": "【題幹解析】\n題目問哪一種 DNA 結合蛋白基序主要負責形成二聚體。Leucine zipper 每隔約 7 個胺基酸出現 leucine，兩條 alpha helix 以疏水面互相拉合，常讓轉錄因子形成 dimer，因此答案為 C。\n\n【選項詳解】\n- A. Beta-barrel 是常見於膜蛋白或特定蛋白折疊的結構形式，並不是 DNA-binding transcription factor 二聚化的典型 motif。\n- B. Homeodomain 主要是 helix-turn-helix 類 DNA-binding domain，用來辨認 DNA 序列，不是以二聚化為主功能。\n- C. Leucine zipper 的 leucine 疏水面使兩個蛋白單體拉合形成 dimer，是本題所問的基序。\n- D. Zinc finger 以鋅離子穩定結構並與 DNA/RNA 或蛋白質互動，典型考點是核酸辨認而非主要負責 dimerization。\n\n【核心考點】\nLeucine zipper 記成 dimerization motif；homeodomain 與 zinc finger 則多考 DNA-binding。",
+      "key_point": "Leucine zipper 記成 dimerization motif；homeodomain 與 zinc finger 則多考 DNA-binding。",
+      "flashcard_summary": "Leucine zipper 記成 dimerization motif；homeodomain 與 zinc finger 則多考 DNA-binding。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -2576,13 +2576,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "分子生物學 / DNA結合蛋白 / 二聚體基序 / 亮氨酸拉鍊 / 轉錄因子",
-      "flashcard_back": "亮氨酸拉鍊（leucine zipper）主要促成蛋白質形成二聚體；鋅指和homeodomain主要負責結合DNA。",
+      "flashcard_back": "Leucine zipper 記成 dimerization motif；homeodomain 與 zinc finger 則多考 DNA-binding。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_087",
@@ -2595,9 +2595,9 @@
         "D": "α-酮基戊二酸(α-ketoglutarate)與異檸檬酸(isocitrate)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「那兩個克氏循環(TCA cycle)的中間產物皆可直接經由一次轉胺反應(transamination)合成胺基酸?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：草醯乙酸（oxaloacetate）和 α-酮基戊二酸（α-ketoglutarate）皆可藉由一步轉胺反應（transamination）分別直接轉化為天門冬胺酸（aspartate）和麩胺酸（glutamate）。檸檬酸、琥珀酸和蘋果酸等 TCA 中間產物則無法通過一次轉胺基反應直接生成對應的氨基酸。\n\n【選項詳解】\n- A. 正確答案。選項內容：「草醯乙酸(oxaloacetate)與α-酮基戊二酸(α-ketoglutarate)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「檸檬酸(citrate)與琥珀酸(succinate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「琥珀酸(succinate)與蘋果酸(malate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「α-酮基戊二酸(α-ketoglutarate)與異檸檬酸(isocitrate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\nTCA循環中間產物與氨基酸轉胺基反應的對應關係。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "TCA循環中間產物與氨基酸轉胺基反應的對應關係。",
-      "flashcard_summary": "TCA中間產物與轉胺 -> 草醯乙酸和α-酮基戊二酸可直接經一次轉胺反應分別合成天門冬胺酸與麩胺酸。",
+      "explanation": "【題幹解析】\n題目問哪些 TCA 中間產物可經一次轉胺反應直接形成胺基酸。Oxaloacetate 接受胺基可形成 aspartate；alpha-ketoglutarate 接受胺基可形成 glutamate，兩者都是典型轉胺反應，因此答案為 A。\n\n【選項詳解】\n- A. Oxaloacetate -> aspartate、alpha-ketoglutarate -> glutamate 都是一次 transamination 即可完成的對應關係。\n- B. Citrate 與 succinate 不是直接經一次轉胺形成標準胺基酸的 alpha-keto acid 對應物。\n- C. Succinate 與 malate 雖是 TCA 中間產物，但不是直接接受胺基即可生成主要胺基酸的典型組合。\n- D. Alpha-ketoglutarate 可轉胺成 glutamate，但 isocitrate 不能直接經一次轉胺形成常考胺基酸，因此整組不對。\n\n【核心考點】\n轉胺反應最常考兩組：alpha-ketoglutarate/glutamate 與 oxaloacetate/aspartate。",
+      "key_point": "轉胺反應最常考兩組：alpha-ketoglutarate/glutamate 與 oxaloacetate/aspartate。",
+      "flashcard_summary": "轉胺反應最常考兩組：alpha-ketoglutarate/glutamate 與 oxaloacetate/aspartate。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2605,13 +2605,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / TCA 循環 / 轉胺基反應 / 草醯乙酸 / α-酮基戊二酸 / 天門冬胺酸與麩胺酸",
-      "flashcard_back": "草醯乙酸經轉胺生成天門冬胺酸，α-酮基戊二酸經轉胺生成麩胺酸，皆為一步反應。",
+      "flashcard_back": "轉胺反應最常考兩組：alpha-ketoglutarate/glutamate 與 oxaloacetate/aspartate。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_088",
@@ -2624,9 +2624,9 @@
         "D": "丙酮酸脫氫酶(pyruvate dehydrogenase)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列那種酶所催化之反應不產生二氧化碳?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：3-磷酸甘油醛脫氫酶（GAPDH）催化 3-磷酸甘油醛氧化並加上無機磷酸生成 1,3-雙磷酸甘油酸，此反應不釋放 CO2。異檸檬酸脫氫酶、α-酮戊二酸脫氫酶及丙酮酸脫氫酶催化的皆為氧化脫羧反應（oxidative decarboxylation），反應過程中皆會產生並釋放 CO2。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「異檸檬酸脫氫酶(isocitrate dehydrogenase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「3-磷酸甘油醛脫氫酶(glyceraldehyde-3-phosphate dehydrogenase)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「α-酮戊二酸脫氫酶(α-ketoglutarate dehydrogenase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「丙酮酸脫氫酶(pyruvate dehydrogenase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n不產生二氧化碳的脫氫酶反應判定。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "不產生二氧化碳的脫氫酶反應判定。",
-      "flashcard_summary": "不產生CO2的脫氫酶 -> 3-磷酸甘油醛脫氫酶反應不產生CO2，而TCA循環的脫氫酶多伴隨氧化脫羧釋出CO2。",
+      "explanation": "【題幹解析】\n題目問哪個酵素反應不產生 CO2。異檸檬酸脫氫酶、alpha-ketoglutarate dehydrogenase、pyruvate dehydrogenase 都是氧化脫羧反應；GAPDH 在糖解作用中把 glyceraldehyde-3-phosphate 轉成 1,3-BPG，不會脫羧，因此答案為 B。\n\n【選項詳解】\n- A. Isocitrate dehydrogenase 會將 isocitrate 轉成 alpha-ketoglutarate，過程包含氧化脫羧並釋放 CO2。\n- B. Glyceraldehyde-3-phosphate dehydrogenase 進行氧化與加磷酸反應，生成 1,3-bisphosphoglycerate，不產生 CO2。\n- C. Alpha-ketoglutarate dehydrogenase 會將 alpha-ketoglutarate 轉成 succinyl-CoA，屬氧化脫羧並產生 CO2。\n- D. Pyruvate dehydrogenase 將 pyruvate 轉為 acetyl-CoA，也是氧化脫羧反應，會產生 CO2。\n\n【核心考點】\n會放 CO2 的常見反應是脫羧；GAPDH 是糖解氧化磷酸化步驟，不是脫羧步驟。",
+      "key_point": "會放 CO2 的常見反應是脫羧；GAPDH 是糖解氧化磷酸化步驟，不是脫羧步驟。",
+      "flashcard_summary": "會放 CO2 的常見反應是脫羧；GAPDH 是糖解氧化磷酸化步驟，不是脫羧步驟。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2634,13 +2634,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / 脫氫酶 / 二氧化碳釋放 / 糖解作用 / TCA循環 / 氧化脫羧",
-      "flashcard_back": "糖解作用的 GAPDH 反應不產生 CO2；而丙酮酸、異檸檬酸、α-酮戊二酸脫氫酶皆會釋放 CO2。",
+      "flashcard_back": "會放 CO2 的常見反應是脫羧；GAPDH 是糖解氧化磷酸化步驟，不是脫羧步驟。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_089",
@@ -2653,9 +2653,9 @@
         "D": "無法進行糖解作用"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「細胞在無氧狀態下(anaerobic condition)進行葡萄糖糖解作用(glycolysis)時,下列相關敘述何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在無氧條件下，細胞會將糖解作用產生的丙酮酸進一步還原為乳酸（lactate），每分子葡萄糖可產生兩分子乳酸，以將 NADH 重新氧化為 NAD+。此反應過程淨產生兩分子 ATP。雖然過程中伴隨 NADH 的暫時生成與消耗，但淨產物中不含 NADH。無氧下糖解反應仍能順利進行，並非無法進行。\n\n【選項詳解】\n- A. 正確答案。選項內容：「可進行完整的糖解作用,產生兩分子乳酸(lactate)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「僅能生成NADH,但不會產生ATP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「能同時生成ATP及NADH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「無法進行糖解作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n無氧狀態下糖解作用的反應產物與能量生成。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "無氧狀態下糖解作用的反應產物與能量生成。",
-      "flashcard_summary": "無氧糖解產物 -> 無氧糖解能順利進行，每分子葡萄糖淨產生 2 ATP 與 2 乳酸，無淨 NADH 生成。",
+      "explanation": "【題幹解析】\n題目問無氧狀態下糖解作用的敘述。無氧時 glycolysis 仍可進行，pyruvate 會被 lactate dehydrogenase 還原成 lactate，以把 NADH 再氧化為 NAD+ 供糖解持續進行；一分子 glucose 淨產 2 ATP 與 2 lactate，因此答案為 A。\n\n【選項詳解】\n- A. 無氧糖解可完整走到 pyruvate，接著轉成兩分子 lactate 並再生 NAD+，這正是無氧糖解的典型結果。\n- B. 糖解作用本身會淨產 ATP；說只生成 NADH 而不產 ATP 錯誤。\n- C. 糖解過程中雖短暫形成 NADH，但無氧條件下 NADH 會用於還原 pyruvate 成 lactate，淨結果不是累積 NADH。\n- D. 無氧條件不會讓 glycolysis 停止；紅血球等細胞正是依賴無氧糖解產 ATP。\n\n【核心考點】\n無氧糖解：glucose -> 2 lactate，淨 2 ATP，NADH 被用來再生 NAD+。",
+      "key_point": "無氧糖解：glucose -> 2 lactate，淨 2 ATP，NADH 被用來再生 NAD+。",
+      "flashcard_summary": "無氧糖解：glucose -> 2 lactate，淨 2 ATP，NADH 被用來再生 NAD+。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
@@ -2663,13 +2663,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / 無氧糖解 / 乳酸生成 / 淨能量 (ATP) / NAD+再生",
-      "flashcard_back": "無氧糖解中，一分子葡萄糖產生兩分子乳酸與淨兩分子 ATP，NADH 會被消耗以再生 NAD+。",
+      "flashcard_back": "無氧糖解：glucose -> 2 lactate，淨 2 ATP，NADH 被用來再生 NAD+。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_090",
@@ -2682,9 +2682,9 @@
         "D": "花生四烯酸(arachidonate)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種物質可直接經由cyclooxygenase的作用,產生前列凝素(thromboxanes)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：前列凝素（thromboxanes）和前列腺素（prostaglandins）皆屬於類花生酸類（eicosanoids），是由二十碳的多元不飽和脂肪酸——花生四烯酸（arachidonate）作為直接底物，在環氧化酶（cyclooxygenase, COX）的催化下合成。乙醯輔酶A、棕櫚酸和硬脂酸不能直接被 COX 催化生成前列凝素。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「乙醯輔酶A(acetyl-CoA)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「棕櫚酸(palmitate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「硬脂酸(stearate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「花生四烯酸(arachidonate)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n前列凝素 (thromboxanes) 生合成的前驅物。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "前列凝素 (thromboxanes) 生合成的前驅物。",
-      "flashcard_summary": "前列凝素前驅物 -> 前列凝素是花生四烯酸經環氧化酶（COX）途徑代謝生成的二十碳衍生物。",
+      "explanation": "【題幹解析】\n題目問 cyclooxygenase 可直接作用於哪個物質產生 thromboxanes。COX 的直接底物是 arachidonic acid/arachidonate，生成 prostaglandin endoperoxides 後再轉成 thromboxane；因此答案為 D。\n\n【選項詳解】\n- A. Acetyl-CoA 是許多脂質合成的基礎碳源，但不是 COX 直接作用生成 thromboxane 的底物。\n- B. Palmitate 是 16 碳飽和脂肪酸，不是 eicosanoid/thromboxane 合成的直接 COX 底物。\n- C. Stearate 是 18 碳飽和脂肪酸，也不是 COX 產生 thromboxane 的直接底物。\n- D. Arachidonate 是 20 碳多元不飽和脂肪酸，經 COX 路徑形成 prostaglandins 與 thromboxanes，是正確答案。\n\n【核心考點】\nThromboxane、prostaglandin、prostacyclin 都屬 arachidonic acid 經 COX 路徑形成的 eicosanoids。",
+      "key_point": "Thromboxane、prostaglandin、prostacyclin 都屬 arachidonic acid 經 COX 路徑形成的 eicosanoids。",
+      "flashcard_summary": "Thromboxane、prostaglandin、prostacyclin 都屬 arachidonic acid 經 COX 路徑形成的 eicosanoids。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2692,13 +2692,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / 環氧化酶 (COX) / 前列凝素 / 花生四烯酸 / 脂質介質",
-      "flashcard_back": "前列凝素（thromboxanes）是由花生四烯酸在環氧化酶（COX）催化下直接合成的脂質產物。",
+      "flashcard_back": "Thromboxane、prostaglandin、prostacyclin 都屬 arachidonic acid 經 COX 路徑形成的 eicosanoids。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_091",
@@ -2711,9 +2711,9 @@
         "D": "磷酸化的鈉-鉀離子唧筒對鉀離子的親和力低於對鈉離子的親和力"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「關於鈉-鉀離子唧筒(Na+-K+pump)的機制,下列敘述何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：鈉-鉀離子幫浦（Na+-K+ pump）在被 ATP 磷酸化後，會轉變為 E2-P 構型。此狀態對鈉離子的親和力會降低（釋放鈉離子至細胞外），並對鉀離子產生極高親和力（結合細胞外的鉀離子）。因此，「磷酸化的幫浦對鉀離子親和力低於對鈉離子」的描述是錯誤的，此選項為本題答案。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「每運送三莫耳(moles)鈉離子至細胞外需水解一莫耳ATP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「與鈉離子結合後會導致鈉-鉀離子唧筒的磷酸化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Cardiotonic steroid,如洋地黃(digitalis)會結合並抑制心臟細胞之鈉-鉀離子唧筒的功能」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「磷酸化的鈉-鉀離子唧筒對鉀離子的親和力低於對鈉離子的親和力」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n鈉-鉀離子幫浦在不同磷酸化狀態下對離子的親和力變化。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "鈉-鉀離子幫浦在不同磷酸化狀態下對離子的親和力變化。",
-      "flashcard_summary": "鈉鉀幫浦親和力變化 -> 磷酸化後的鈉鉀幫浦對鉀離子具有高親和力，對鈉離子則具有低親和力。",
+      "explanation": "【題幹解析】\n本題是負向題，問 Na+-K+ pump 機制何者錯誤。Na+-K+ ATPase 每水解 1 ATP，通常送出 3 Na+、送入 2 K+。泵被磷酸化後轉成 E2-P，對 Na+ 親和力下降而釋放 Na+，對細胞外 K+ 親和力上升而結合 K+；所以 D 把親和力方向講反了。\n\n【選項詳解】\n- A. 每 1 ATP 推出 3 Na+ 是 Na+-K+ ATPase 的標準化學計量，這項正確。\n- B. E1 狀態結合細胞內 Na+ 後會被 ATP 磷酸化，推動構型改變，這項正確。\n- C. Digitalis 類 cardiotonic steroids 可抑制 Na+-K+ ATPase，進而影響心肌細胞內 Na+/Ca2+ 平衡，這項正確。\n- D. 磷酸化後的 E2-P 對 K+ 親和力較高、對 Na+ 親和力較低；選項說 K+ 親和力低於 Na+，正是錯誤處。\n\n【核心考點】\nNa+-K+ ATPase：3 Na+ out、2 K+ in；磷酸化狀態釋放 Na+ 並提高對 K+ 的親和力。",
+      "key_point": "Na+-K+ ATPase：3 Na+ out、2 K+ in；磷酸化狀態釋放 Na+ 並提高對 K+ 的親和力。",
+      "flashcard_summary": "Na+-K+ ATPase：3 Na+ out、2 K+ in；磷酸化狀態釋放 Na+ 並提高對 K+ 的親和力。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2721,13 +2721,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "細胞生理 / 鈉鉀幫浦 / 磷酸化狀態 (E2-P) / 離子親和力 / 結合與釋放",
-      "flashcard_back": "磷酸化的鈉-鉀幫浦（E2-P狀態）對鉀離子具有高親和力，對鈉離子具有低親和力，藉此將鉀泵入細胞。",
+      "flashcard_back": "Na+-K+ ATPase：3 Na+ out、2 K+ in；磷酸化狀態釋放 Na+ 並提高對 K+ 的親和力。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_092",
@@ -2740,9 +2740,9 @@
         "D": "促進糖質新生(gluconeogenesis)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者為肝臟粒線體內的HMG-CoA synthase的主要功能?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：HMG-CoA 合成酶（HMG-CoA synthase）在肝臟中存在兩種同工酶。位於粒線體內的同工酶是酮體合成（ketone body biosynthesis）的限速步驟，催化乙醯輔酶A與乙醯乙醯輔酶A結合生成 HMG-CoA；而位於細胞質內的同工酶則參與膽固醇的合成途徑。因此，粒線體內的作用為促進酮體合成。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「促進膽固醇合成(cholesterol biosynthesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「抑制脂肪酸合成(fatty acid biosynthesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「促進酮體合成(ketone body biosynthesis)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「促進糖質新生(gluconeogenesis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n肝臟粒線體內 HMG-CoA 合成酶的生理功能與途徑。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "肝臟粒線體內 HMG-CoA 合成酶的生理功能與途徑。",
-      "flashcard_summary": "HMG-CoA合成酶定位與功能 -> 肝臟粒線體內的HMG-CoA合成酶催化酮體合成，而細胞質同工酶參與膽固醇合成。",
+      "explanation": "【題幹解析】\n題目限定在肝臟粒線體內的 HMG-CoA synthase。粒線體型 HMG-CoA synthase 是 ketogenesis 的關鍵酵素，將 acetyl-CoA 與 acetoacetyl-CoA 形成 HMG-CoA；細胞質型才連到膽固醇合成，因此答案為 C。\n\n【選項詳解】\n- A. 膽固醇合成主要涉及細胞質/內質網路徑的 HMG-CoA reductase 與細胞質型 HMG-CoA synthase，不是題目指定的粒線體型主要功能。\n- B. 粒線體 HMG-CoA synthase 不是脂肪酸合成抑制酵素；脂肪酸合成主要在細胞質進行。\n- C. 肝臟粒線體 HMG-CoA synthase 是酮體生成路徑的關鍵步驟，促進 ketone body biosynthesis。\n- D. Gluconeogenesis 需要 pyruvate carboxylase、PEPCK 等酵素，HMG-CoA synthase 不是糖質新生的主要功能酵素。\n\n【核心考點】\nHMG-CoA synthase 要看位置：粒線體型參與酮體合成，細胞質型參與膽固醇合成前段。",
+      "key_point": "HMG-CoA synthase 要看位置：粒線體型參與酮體合成，細胞質型參與膽固醇合成前段。",
+      "flashcard_summary": "HMG-CoA synthase 要看位置：粒線體型參與酮體合成，細胞質型參與膽固醇合成前段。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -2750,13 +2750,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / HMG-CoA合成酶 / 粒線體 vs. 細胞質 / 酮體合成 / 膽固醇合成",
-      "flashcard_back": "肝臟粒線體內的 HMG-CoA 合成酶負責合成酮體；細胞質內的同工酶則負責膽固醇的合成。",
+      "flashcard_back": "HMG-CoA synthase 要看位置：粒線體型參與酮體合成，細胞質型參與膽固醇合成前段。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_093",
@@ -2769,9 +2769,9 @@
         "D": "bilirubin"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是血基質(heme)生合成的前驅物或中間產物?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：血基質（heme）合成的起始原料是甘胺酸（glycine）和琥珀醯輔酶A（succinyl-CoA），並在縮合後生成中間產物 δ-氨基酮戊酸（ALA）。膽紅素（bilirubin）則是血基質在體內降解代謝的最終產物，並非合成的前驅物或中間產物。因此，膽紅素不屬於血基質生合成的前驅物或中間產物。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「glycine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「succinyl-CoA」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「δ-aminolevulinate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「bilirubin」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n血基質 (heme) 生合成途徑的前驅物與代謝產物判定。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "血基質 (heme) 生合成途徑的前驅物與代謝產物判定。",
-      "flashcard_summary": "血基質合成與降解 -> 甘胺酸、琥珀醯輔酶A與ALA參與血基質合成，而膽紅素為血基質分解之產物。",
+      "explanation": "【題幹解析】\n題目問哪一個不是 heme 生合成的前驅物或中間產物。Heme 合成由 glycine 與 succinyl-CoA 起始，形成 delta-aminolevulinate 後進入 porphyrin 合成路徑；bilirubin 是 heme 分解後的代謝產物，不是合成中間物，因此答案為 D。\n\n【選項詳解】\n- A. Glycine 與 succinyl-CoA 在 ALA synthase 催化下形成 delta-aminolevulinate，是 heme 合成起始原料。\n- B. Succinyl-CoA 是 heme 合成的起始前驅物之一。\n- C. Delta-aminolevulinate 是 heme 合成早期中間產物。\n- D. Bilirubin 來自 heme 分解代謝，位在 heme breakdown 而非 heme biosynthesis 路徑。\n\n【核心考點】\nHeme 合成從 glycine + succinyl-CoA -> ALA 開始；bilirubin 是 heme 分解產物。",
+      "key_point": "Heme 合成從 glycine + succinyl-CoA -> ALA 開始；bilirubin 是 heme 分解產物。",
+      "flashcard_summary": "Heme 合成從 glycine + succinyl-CoA -> ALA 開始；bilirubin 是 heme 分解產物。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2779,13 +2779,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / 血基質合成 / 甘胺酸 / 琥珀醯輔酶A / δ-ALA / 膽紅素",
-      "flashcard_back": "甘胺酸與琥珀醯輔酶A是血基質合成前驅物，δ-ALA為中間產物；膽紅素則是血基質的降解代謝產物。",
+      "flashcard_back": "Heme 合成從 glycine + succinyl-CoA -> ALA 開始；bilirubin 是 heme 分解產物。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_094",
@@ -2798,9 +2798,9 @@
         "D": "methyltransferase"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「GOT和GPT指數是一般肝功能的指標,此兩種酵素具有那一類酵素活性?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：GOT（天門冬胺酸轉胺酶，AST）和 GPT（丙胺酸轉胺酶，ALT）是評估肝功能受損的重要指標。這兩種酵素催化氨基酸與 α-酮酸之間的氨基轉移，屬於轉胺酶（transaminase/aminotransferase）。它們不需要消耗 ATP 進行激酶（kinase）或去羧基（decarboxylase）反應。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「kinase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「decarboxylase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「transaminase」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「methyltransferase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n肝功能指標 GOT 與 GPT 催化的生化反應類型。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "肝功能指標 GOT 與 GPT 催化的生化反應類型。",
-      "flashcard_summary": "GOT與GPT酵素活性 -> GOT與GPT為催化轉胺反應的轉胺酶，常作為評估肝細胞損傷的指標。",
+      "explanation": "【題幹解析】\n題目問 GOT 與 GPT 的酵素活性類型。GOT/AST 與 GPT/ALT 都是 aminotransferase/transaminase，催化胺基在胺基酸與 alpha-keto acid 之間轉移，因此答案為 C。\n\n【選項詳解】\n- A. Kinase 是轉移磷酸基，通常與 ATP/磷酸化有關，不是 GOT/GPT 的反應類型。\n- B. Decarboxylase 是脫羧釋放 CO2，與 GOT/GPT 的轉胺反應不同。\n- C. Transaminase 會轉移胺基；GOT/AST 與 GPT/ALT 正是轉胺酶。\n- D. Methyltransferase 轉移甲基，不是肝功能指標 GOT/GPT 的酵素分類。\n\n【核心考點】\nGOT=AST、GPT=ALT；兩者都是 transaminase/aminotransferase。",
+      "key_point": "GOT=AST、GPT=ALT；兩者都是 transaminase/aminotransferase。",
+      "flashcard_summary": "GOT=AST、GPT=ALT；兩者都是 transaminase/aminotransferase。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -2808,13 +2808,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "臨床生化 / 肝功能指標 / GOT & GPT / 氨基轉移 / 轉胺酶",
-      "flashcard_back": "GOT（AST）與 GPT（ALT）屬於轉胺酶（transaminase），催化氨基酸與酮酸之間的轉胺基作用。",
+      "flashcard_back": "GOT=AST、GPT=ALT；兩者都是 transaminase/aminotransferase。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_095",
@@ -2827,9 +2827,9 @@
         "D": "皆位於粒線體內膜"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「人類細胞之氧化磷酸化反應(oxidative phosphorylation)中,參與電子傳遞鏈(electron transport chain)與\n ATP合成的酵素位於何處?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在人類細胞的氧化磷酸化反應中，電子傳遞鏈（Complex I至IV）的蛋白質複合物，以及催化 ATP 合成的 ATP 合成酶（Complex V），均嵌入並定位在粒線體內膜（inner mitochondrial membrane）上。粒線體外膜主要含有通道蛋白（如VDAC），不參與電子傳遞與 ATP 的直接生成。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「電子傳遞鏈位於粒線體外膜;ATP合成的酵素位於粒線體內膜」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「電子傳遞鏈位於粒線體內膜;ATP合成的酵素位於粒線體外膜」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「皆位於粒線體外膜」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「皆位於粒線體內膜」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n氧化磷酸化電子傳遞鏈與 ATP 合成酶的亞細胞定位。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "氧化磷酸化電子傳遞鏈與 ATP 合成酶的亞細胞定位。",
-      "flashcard_summary": "氧化磷酸化定位 -> 電子傳遞鏈與ATP合成酶皆定位於粒線體內膜，共同完成細胞呼吸與能量產生。",
+      "explanation": "【題幹解析】\n題目問氧化磷酸化中電子傳遞鏈與 ATP synthase 的位置。人類粒線體中 ETC complexes I-IV 與 ATP synthase/complex V 都嵌在粒線體內膜，利用內膜兩側質子梯度合成 ATP，因此答案為 D。\n\n【選項詳解】\n- A. 電子傳遞鏈不在外膜；外膜主要有 porin/VDAC 等通道蛋白。\n- B. ATP synthase 也不在外膜，它和電子傳遞鏈一樣位於內膜。\n- C. 兩者都位於外膜錯誤，外膜不是氧化磷酸化的主要場所。\n- D. 電子傳遞鏈與 ATP synthase 都在粒線體內膜，這是氧化磷酸化能建立質子梯度的基礎。\n\n【核心考點】\n氧化磷酸化定位在粒線體內膜：ETC 建立質子梯度，ATP synthase 利用梯度製造 ATP。",
+      "key_point": "氧化磷酸化定位在粒線體內膜：ETC 建立質子梯度，ATP synthase 利用梯度製造 ATP。",
+      "flashcard_summary": "氧化磷酸化定位在粒線體內膜：ETC 建立質子梯度，ATP synthase 利用梯度製造 ATP。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2837,13 +2837,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "細胞生物 / 氧化磷酸化 / 電子傳遞鏈 / ATP合成酶 / 粒線體內膜",
-      "flashcard_back": "參與氧化磷酸化的電子傳遞鏈（Complex I-IV）與 ATP 合成酶均位於粒線體內膜上。",
+      "flashcard_back": "氧化磷酸化定位在粒線體內膜：ETC 建立質子梯度，ATP synthase 利用梯度製造 ATP。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_096",
@@ -2856,9 +2856,9 @@
         "D": "ubiquinone"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者為粒線體電子傳遞鏈Complex II的electron donor?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：電子傳遞鏈複合體 II（Complex II）即為琥珀酸脫氫酶（succinate dehydrogenase），它在 TCA 循環中催化琥珀酸（succinate）氧化為延胡索酸，並將電子直接轉移給輔酶 FAD。因此，琥珀酸是該複合體的電子供體（electron donor）。NADH 是複合體 I 的電子供體，而 ubiquinone 則是接收複合體 I 和 II 電子的受體。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「NADH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「succinate」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「NADPH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「ubiquinone」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n粒線體電子傳遞鏈複合體 II 的電子直接供體。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "粒線體電子傳遞鏈複合體 II 的電子直接供體。",
-      "flashcard_summary": "複合體II電子供體 -> 粒線體電子傳遞鏈複合體II以琥珀酸為電子供體，將其氧化並提供電子給傳遞鏈。",
+      "explanation": "【題幹解析】\n題目問 Complex II 的 electron donor。Complex II 就是 succinate dehydrogenase，催化 succinate -> fumarate，電子先交給 FAD，再傳給 ubiquinone，因此 succinate 是電子供體，答案為 B。\n\n【選項詳解】\n- A. NADH 是 Complex I 的 electron donor，不是 Complex II 的直接供體。\n- B. Succinate 在 Complex II 被氧化成 fumarate，提供電子給 FAD，是正確答案。\n- C. NADPH 主要參與還原合成與抗氧化系統，不是粒線體 ETC Complex II 的供體。\n- D. Ubiquinone 是接受 Complex I/II 電子的移動載體，不是 Complex II 的 electron donor。\n\n【核心考點】\nComplex I 收 NADH；Complex II 是 succinate dehydrogenase，收 succinate 的電子並傳給 ubiquinone。",
+      "key_point": "Complex I 收 NADH；Complex II 是 succinate dehydrogenase，收 succinate 的電子並傳給 ubiquinone。",
+      "flashcard_summary": "Complex I 收 NADH；Complex II 是 succinate dehydrogenase，收 succinate 的電子並傳給 ubiquinone。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2866,13 +2866,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "生化代謝 / 電子傳遞鏈 / Complex II / 琥珀酸脫氫酶 / 電子供體",
-      "flashcard_back": "Complex II（琥珀酸脫氫酶）以琥珀酸（succinate）為電子直接供體，氧化生成延胡索酸並將電子傳給FAD。",
+      "flashcard_back": "Complex I 收 NADH；Complex II 是 succinate dehydrogenase，收 succinate 的電子並傳給 ubiquinone。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_097",
@@ -2885,9 +2885,9 @@
         "D": "造成粒線體cytochrome c釋出,引發細胞蛋白質及DNA的破壞"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「免疫細胞分泌tumor necrosis factor(TNF),造成標的細胞的凋亡(apoptosis),下列何者是其正確的作用?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腫瘤壞死因子（TNF）與其特異性受體結合後，會啟動外源性凋亡路徑。此路徑會活化 caspase 8，進而切割 Bid 成為 tBid，促使粒線體外膜通透性增加，導致細胞色素 c（cytochrome c）釋放至細胞質中。釋放的細胞色素 c 與 Apaf-1 結合活化 caspase 9 和 3，最終引發細胞內蛋白質和 DNA 的降解與破壞。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「TNF無特異性受器,但TNF可結合Fas 受器而引起細胞凋亡」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「TNF活化caspase 8,分解cytochrome c引起細胞凋亡」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「破壞參與DNA合成的酵素」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「造成粒線體cytochrome c釋出,引發細胞蛋白質及DNA的破壞」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nTNF 誘導細胞凋亡的訊息傳遞與粒線體途徑。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "TNF 誘導細胞凋亡的訊息傳遞與粒線體途徑。",
-      "flashcard_summary": "TNF誘導凋亡機制 -> TNF可活化caspase引發粒線體釋出細胞色素c，進而激活下游酶類降解胞內蛋白質及DNA。",
+      "explanation": "【題幹解析】\n題目問 TNF 造成標的細胞 apoptosis 的正確作用。TNF 與 TNF receptor 結合後可啟動 death-domain 訊號與 caspase cascade，並可透過 Bid 連到粒線體路徑，使 cytochrome c 釋出，最後活化下游 caspases 造成蛋白質與 DNA 分解；官方答案為 D。\n\n【選項詳解】\n- A. TNF 有自己的 TNF receptors；Fas/FasL 是另一組 death receptor 系統，不能說 TNF 無特異性受器而靠 Fas receptor。\n- B. TNF 可活化 caspase 8，但 cytochrome c 是從粒線體釋出並參與 apoptosome 訊號，不是被 caspase 8『分解』。\n- C. 凋亡會導致 DNA fragmentation，但 TNF 的核心機轉不是直接破壞 DNA 合成酵素。\n- D. TNF 訊號可促進粒線體 cytochrome c 釋放，活化 caspase cascade，造成蛋白質與 DNA 受控分解，符合題意。\n\n【核心考點】\nTNF/Fas 類 death receptor 會啟動 caspase 8，並可連到粒線體 cytochrome c 與 caspase 9/3 的 apoptosis cascade。",
+      "key_point": "TNF/Fas 類 death receptor 會啟動 caspase 8，並可連到粒線體 cytochrome c 與 caspase 9/3 的 apoptosis cascade。",
+      "flashcard_summary": "TNF/Fas 類 death receptor 會啟動 caspase 8，並可連到粒線體 cytochrome c 與 caspase 9/3 的 apoptosis cascade。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
@@ -2895,13 +2895,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "細胞生物 / TNF 凋亡 / 細胞色素 c / 粒線體外膜 / 蛋白質與DNA破壞",
-      "flashcard_back": "TNF路徑活化後會引起粒線體釋出細胞色素 c（cytochrome c），活化下游效應caspases以破壞蛋白質與DNA。",
+      "flashcard_back": "TNF/Fas 類 death receptor 會啟動 caspase 8，並可連到粒線體 cytochrome c 與 caspase 9/3 的 apoptosis cascade。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_098",
@@ -2914,9 +2914,9 @@
         "D": "用來治療陽痿之藍色藥丸Viagra其主要藥物作用是促進cyclic GMP(cGMP)的產生"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於guanylyl cyclase的敘述,何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：鳥苷酸環化酶（guanylyl cyclase, GC）負責將 GTP 轉化為 cGMP。小腸上皮細胞膜上的 GC 受體（GC-C）與配體 guanylin 結合後會活化，產生 cGMP 以開啟 CFTR 氯離子通道，調控水分與 Cl- 分泌。GC 不僅有膜結合型受體，也有可溶型（如受NO活化的sGC）。威而鋼（Viagra）是抑制 cGMP 降解酶（PDE5），而非促進 cGMP 的產生。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「guanylyl cyclase主要功能是使cyclic GMP(cGMP)轉變為5'-GMP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「guanylyl cyclase是細胞膜上的受體(receptor),皆為穿透性蛋白質(integral protein)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「guanylin可結合在小腸上之guanylyl cyclase receptor,進而調控小腸內Cl-離子分泌」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「用來治療陽痿之藍色藥丸Viagra其主要藥物作用是促進cyclic GMP(cGMP)的產生」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n鳥苷酸環化酶 (guanylyl cyclase) 的生理功能與受體調控。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "鳥苷酸環化酶 (guanylyl cyclase) 的生理功能與受體調控。",
-      "flashcard_summary": "鳥苷酸環化酶作用 -> 配體guanylin結合小腸鳥苷酸環化酶受體，透過增加cGMP來調控小腸的氯離子分泌。",
+      "explanation": "【題幹解析】\n題目問 guanylyl cyclase 何者正確。Guanylyl cyclase 的功能是把 GTP 轉成 cGMP；小腸上皮的膜型 guanylyl cyclase C 可被 guanylin 活化，增加 cGMP 並調控 CFTR 相關 Cl- 與水分分泌，因此答案為 C。\n\n【選項詳解】\n- A. 把 cGMP 分解成 5'-GMP 的是 phosphodiesterase，不是 guanylyl cyclase；guanylyl cyclase 是生成 cGMP。\n- B. Guanylyl cyclase 有膜型 receptor guanylyl cyclase，也有可溶型 soluble guanylyl cyclase；不能說全都是穿膜受體。\n- C. Guanylin 可結合小腸 GC-C receptor，提高 cGMP，進而調節 Cl- 分泌與腸道水分，是正確敘述。\n- D. Viagra/sildenafil 主要抑制 PDE5，減少 cGMP 分解；它不是直接促進 guanylyl cyclase 產生 cGMP。\n\n【核心考點】\nGuanylyl cyclase 生成 cGMP；PDE 分解 cGMP；guanylin-GC-C-cGMP 可調節腸道 Cl- 分泌。",
+      "key_point": "Guanylyl cyclase 生成 cGMP；PDE 分解 cGMP；guanylin-GC-C-cGMP 可調節腸道 Cl- 分泌。",
+      "flashcard_summary": "Guanylyl cyclase 生成 cGMP；PDE 分解 cGMP；guanylin-GC-C-cGMP 可調節腸道 Cl- 分泌。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
@@ -2924,13 +2924,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "細胞訊號 / 鳥苷酸環化酶 / Guanylin / cGMP / 氯離子分泌",
-      "flashcard_back": "Guanylin可結合並活化小腸膜上的鳥苷酸環化酶受體，提升cGMP濃度，進而刺激小腸 Cl- 離子分泌。",
+      "flashcard_back": "Guanylyl cyclase 生成 cGMP；PDE 分解 cGMP；guanylin-GC-C-cGMP 可調節腸道 Cl- 分泌。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_099",
@@ -2943,9 +2943,9 @@
         "D": "後者和受體結合後會和DNA結合"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於胜肽類(peptide)荷爾蒙和類固醇類(steroid)荷爾蒙的比較,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：胜肽類荷爾蒙（如胰島素、副甲狀腺素）是親水性的，在血液中多呈游離狀態輸送，不需攜帶蛋白；類固醇類荷爾蒙則是親脂性的，在血液中必須與特異的攜帶蛋白結合進行運輸。胜肽類受體位於細胞膜上並常產生第二信使如 cAMP，而類固醇受體位於細胞內，結合後可直接進入核內調節 DNA 轉錄。因此，選項B中「前者有攜帶蛋白，後者沒有」的描述是錯誤的。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「前者的受體在細胞膜上,而後者在細胞內」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「在血液中前者有攜帶蛋白(carrier protein),後者沒有攜帶蛋白」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「前者如副甲狀腺荷爾蒙(parathyroid hormone)和細胞膜上受體結合後可產生cAMP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「後者和受體結合後會和DNA結合」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n胜肽類荷爾蒙與類固醇荷爾蒙在血液輸送與受體特性的比較。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "胜肽類荷爾蒙與類固醇荷爾蒙在血液輸送與受體特性的比較。",
-      "flashcard_summary": "荷爾蒙類別比較 -> 類固醇荷爾蒙在血液中需攜帶蛋白且受體在胞內，胜肽荷爾蒙則游離運輸且受體在膜上。",
+      "explanation": "【題幹解析】\n本題是負向比較題，問 peptide hormone 與 steroid hormone 何者錯誤。Peptide hormone 親水，通常在血中游離、作用於細胞膜受體；steroid hormone 親脂，常需 carrier protein 運輸並作用於細胞內受體。因此 B 把攜帶蛋白方向講反。\n\n【選項詳解】\n- A. Peptide hormone 多作用於細胞膜受體；steroid hormone 可穿過細胞膜並結合細胞內受體，這項正確。\n- B. 血中需要 carrier protein 的主要是親脂性的 steroid hormone；peptide hormone 通常不需攜帶蛋白，故本選項錯誤。\n- C. 副甲狀腺素屬 peptide hormone，可透過細胞膜受體與 cAMP 訊號傳遞，這項正確。\n- D. Steroid hormone-receptor complex 可進入細胞核與 DNA hormone response elements 互動，調控轉錄，這項正確。\n\n【核心考點】\nPeptide hormone：膜受體、第二信使、血中多游離；steroid hormone：細胞內受體、調控轉錄、血中常需 carrier protein。",
+      "key_point": "Peptide hormone：膜受體、第二信使、血中多游離；steroid hormone：細胞內受體、調控轉錄、血中常需 carrier protein。",
+      "flashcard_summary": "Peptide hormone：膜受體、第二信使、血中多游離；steroid hormone：細胞內受體、調控轉錄、血中常需 carrier protein。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2953,13 +2953,13 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "內分泌生理 / 胜肽類荷爾蒙 / 類固醇荷爾蒙 / 攜帶蛋白 / 受體位置",
-      "flashcard_back": "親脂性的類固醇荷爾蒙在血液中需要攜帶蛋白，受體在細胞內；親水性的胜肽荷爾蒙通常游離運輸，受體在膜上。",
+      "flashcard_back": "Peptide hormone：膜受體、第二信使、血中多游離；steroid hormone：細胞內受體、調控轉錄、血中常需 carrier protein。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "109-1_medicine-1_100",
@@ -2972,9 +2972,9 @@
         "D": "圖示 D（圖片選項，請對照官方題本）"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者不是type II限制酶的辨認序列?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：II型限制酶（Type II restriction enzymes）主要辨認 DNA 雙股中的特異性迴文序列（palindromic sequence），即正讀和反讀互補股序列相同（如 5'-GAATTC-3' 及其互補股）。此類限制酶在辨認位點內或附近進行精確切割，產生黏性末端或鈍端。若選項中缺少對稱雙股迴文特徵，則非其辨認序列。本題因題目選項內容缺失，官方公布答案為 B，作答時需注意迴文序列的判定規則。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「圖示 A（圖片選項，請對照官方題本）」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「圖示 B（圖片選項，請對照官方題本）」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「圖示 C（圖片選項，請對照官方題本）」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「圖示 D（圖片選項，請對照官方題本）」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nII型限制酶辨認DNA序列的特徵與對稱性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "II型限制酶辨認DNA序列的特徵與對稱性。",
-      "flashcard_summary": "II型限制酶辨認序列 -> II型限制酶辨認並切斷特異性的雙股DNA迴文對稱序列，是基因工程的重要工具。",
+      "explanation": "【題幹解析】\n本題是圖片選項題，問哪一個不是 Type II restriction enzyme 的辨認序列。Type II 限制酶通常辨認短的雙股 DNA palindromic sequence，並在辨認位點內或附近切割；官方答案為 B，因此作答重點是檢查圖示 B 是否缺乏互補股正反讀對稱的迴文特徵。\n\n【選項詳解】\n- A. 圖示 A 需對照官方題本；若呈現雙股互補且正反讀具迴文對稱，則可作為 Type II restriction enzyme 辨認序列。\n- B. 官方答案為 B，表示圖示 B 應是不符合 Type II restriction enzyme 典型迴文辨認規則的序列。\n- C. 圖示 C 需對照官方題本；若具互補迴文序列，就屬於常見 Type II 限制酶可辨認的型態。\n- D. 圖示 D 需對照官方題本；若兩股 DNA 呈現正反讀互補對稱，也可符合 Type II 限制酶辨認序列。\n\n【核心考點】\nType II restriction enzyme 最常考辨認 palindromic DNA sequence；圖片題若選項缺失，需回官方題本比對序列對稱性。",
+      "key_point": "Type II restriction enzyme 最常考辨認 palindromic DNA sequence；圖片題若選項缺失，需回官方題本比對序列對稱性。",
+      "flashcard_summary": "Type II restriction enzyme 最常考辨認 palindromic DNA sequence；圖片題若選項缺失，需回官方題本比對序列對稱性。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
@@ -2982,15 +2982,18 @@
       "answer_status": "standard",
       "answer_source": "official_correction",
       "flashcard_front": "分子生物 / II型限制酶 / 辨認序列 / 迴文序列 / 雙股對稱",
-      "flashcard_back": "II型限制酶特異性地辨認並切割 DNA 中的雙股對稱迴文序列（如GAATTC）；非迴文序列則無法被其辨認。",
+      "flashcard_back": "Type II restriction enzyme 最常考辨認 palindromic DNA sequence；圖片題若選項缺失，需回官方題本比對序列對稱性。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual-restored+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00",
       "option_asset_status": "image_options_missing_asset",
-      "answer_note": " 本題選項為圖片型選項；目前資料庫未含圖片資產，已以圖示 A-D 佔位。"
+      "answer_note": " 本題選項為圖片型選項；目前資料庫未含圖片資產，已以圖示 A-D 佔位。",
+      "manual_review_notes": [
+        "本題選項為圖片，需對照官方題本確認圖示 B 的序列對稱性。"
+      ]
     }
   ]
 }

@@ -1732,7 +1732,7 @@
         "D": "ћќѝ"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題考查細菌耐藥性中，超廣效 β-內醯胺酶（ESBL，多由大腸桿菌或克雷伯氏肺炎菌產生）所能水解的抗生素範圍，以及臨床用藥原則。\n\n【選項詳解】\n- 項目 ћ. **cefotaxime**（第三代頭孢子素）：ESBL 酶的命名即源於其能水解並使「廣效性」頭孢子素失效。它能強效水解並破壞第一代、第二代、以及第三代（如 cefotaxime、ceftriaxone）與第四代頭孢子素，使其失去抗生物活性。故此項會被水解失效。\n- 項目 ќ. **aztreonam**（monobactam 單環內醯胺類）：ESBL 亦具有水解單環內醯胺類抗生素的能力。因此產生 ESBL 的細菌對 aztreonam 通常高度耐藥。故此項會被水解失效。\n- 項目 ѝ. **ertapenem**（carbapenem 碳青黴烯類）：ESBL 酶的**活性部位無法水解碳青黴烯類**。因此，Ertapenem、Imipenem、Meropenem 等對 ESBL 產生菌具有極佳的穩定性與敏感性。在臨床上，碳青黴烯類是治療 ESBL 產生菌所致重症感染的**黃金首選藥物**。故此項不會被水解失效。\n綜合上述，ESBL 可水解使之失效的抗生素為 ћ（cefotaxime）與 ќ（aztreonam），但不包含 ѝ（ertapenem）。故最正確的組合是「僅ћќ」，為選項 A。\n\n【核心考點】\nESBL（超廣效 β-內醯胺酶）的耐藥譜：\n1. **被水解失效**：所有 Penicillins、第 1 至 4 代 Cephalosporins、Monobactams (Aztreonam)。\n2. **不被水解（敏感）**：Carbapenems（Ertapenem, Meropenem 等，首選治療）、Cephamycins (Cefoxitin)。",
+      "explanation": "【題幹解析】\n本題考查細菌耐藥性中，超廣效 β-內醯胺酶（ESBL，多由大腸桿菌或克雷伯氏肺炎菌產生）所能水解的抗生素範圍，以及臨床用藥原則。\n\n【選項詳解】\n- 項目 ћ. **cefotaxime**（第三代頭孢子素）：ESBL 酶的命名即源於其能水解並使「廣效性」頭孢子素失效。它能強效水解並破壞第一代、第二代、以及第三代（如 cefotaxime、ceftriaxone）與第四代頭孢子素，使其失去抗生物活性。故此項會被水解失效。\n- 項目 ќ. **aztreonam**（monobactam 單環內醯胺類）：ESBL 亦具有水解單環內醯胺類抗生素的能力。因此產生 ESBL 的細菌對 aztreonam 通常高度耐藥。故此項會被水解失效。\n- 項目 ѝ. **ertapenem**（carbapenem 碳青黴烯類）：ESBL 酶的**活性部位無法水解碳青黴烯類**。因此，Ertapenem、Imipenem、Meropenem 等對 ESBL 產生菌具有極佳的穩定性與敏感性。在臨床上，碳青黴烯類是治療 ESBL 產生菌所致重症感染的**黃金首選藥物**。故此項不會被水解失效。\n綜合上述，ESBL 可水解使之失效的抗生素為 ћ（cefotaxime）與 ќ（aztreonam），但不包含 ѝ（ertapenem）。故最正確的組合是「僅ћќ」，為選項 A。\n\n補充選項判讀：\n- A. 選項 A 為「僅ћќ」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n- B. 選項 B 為「僅ћѝ」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「僅ќѝ」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「ћќѝ」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n\n【核心考點】\nESBL（超廣效 β-內醯胺酶）的耐藥譜：\n1. **被水解失效**：所有 Penicillins、第 1 至 4 代 Cephalosporins、Monobactams (Aztreonam)。\n2. **不被水解（敏感）**：Carbapenems（Ertapenem, Meropenem 等，首選治療）、Cephamycins (Cefoxitin)。",
       "key_point": "超廣效 β-內醯胺酶（ESBL）水解抗生素的範圍（水解青黴素、三四代頭孢及單環類），與碳青黴烯類（Carbapenems）的敏感度。",
       "flashcard_summary": "ESBL 耐藥譜 / 第三代頭孢子素 (Cefotaxime) / 單環類 (Aztreonam) / 碳青黴烯類 (Ertapenem) -> ESBL 水解 cefotaxime、aztreonam；碳青黴烯類（ertapenem）不被水解，為首選。",
       "review_status": "ai_generated",
@@ -1747,8 +1747,8 @@
       "category": "感染科",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T16:44:09.763548+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "111-2_medicine-3_061",

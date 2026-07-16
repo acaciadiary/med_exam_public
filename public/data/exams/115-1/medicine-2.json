@@ -626,7 +626,7 @@
         "D": "345"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題考查 B 細胞抗體類型轉換（class switch recombination, CSR）所需的分子與配體。類型轉換需要 T-B 細胞的相互作用（CD40 與 CD40L 結合）提供活化訊號，並在 B 細胞內藉由 AID（活化誘導胞苷去胺酶）進行 DNA 切割重組。若這些基因發生缺失，將導致抗體無法進行類型轉換（臨床上常表現為高 IgM 症候群），故選A。\n\n【選項詳解】\n- 1. Activation-induced cytidine deaminase (AID) 是介介體細胞高頻突變與抗體類型轉換必需的酶，缺失會導致 CSR 無法進行。\n- 3. CD40 位於 B 細胞表面，缺失會使其無法接收輔助 T 細胞的訊號。\n- 4. CD40L（CD40 ligand）位於活化輔助 T 細胞表面，缺失會導致經典的 X 染色體聯鎖高 IgM 症候群，抗體無法轉換成 IgG、IgA 或 IgE。\n- 2. RAG-1 / RAG-2 參與重鏈與輕鏈的初期 V(D)J 重組，缺失會導致 B 細胞與 T 細胞發育完全停滯，造成重度聯合免疫缺陷症（SCID），而非單純類型轉換障礙。\n- 5. TdT 負責在 V(D)J 連接處隨機加入核苷酸（N-nucleotide addition）以增加多樣性，不參與抗體恆定區的類型轉換。\n綜上所述，1、3、4 缺失會造成抗體類型轉換障礙，答案選 A。\n\n【核心考點】\n抗體類型轉換的分子機制：AID、CD40/CD40L 交互作用；高 IgM 症候群的病因。",
+      "explanation": "【題幹解析】\n本題考查 B 細胞抗體類型轉換（class switch recombination, CSR）所需的分子與配體。類型轉換需要 T-B 細胞的相互作用（CD40 與 CD40L 結合）提供活化訊號，並在 B 細胞內藉由 AID（活化誘導胞苷去胺酶）進行 DNA 切割重組。若這些基因發生缺失，將導致抗體無法進行類型轉換（臨床上常表現為高 IgM 症候群），故選A。\n\n【選項詳解】\n- 1. Activation-induced cytidine deaminase (AID) 是介介體細胞高頻突變與抗體類型轉換必需的酶，缺失會導致 CSR 無法進行。\n- 3. CD40 位於 B 細胞表面，缺失會使其無法接收輔助 T 細胞的訊號。\n- 4. CD40L（CD40 ligand）位於活化輔助 T 細胞表面，缺失會導致經典的 X 染色體聯鎖高 IgM 症候群，抗體無法轉換成 IgG、IgA 或 IgE。\n- 2. RAG-1 / RAG-2 參與重鏈與輕鏈的初期 V(D)J 重組，缺失會導致 B 細胞與 T 細胞發育完全停滯，造成重度聯合免疫缺陷症（SCID），而非單純類型轉換障礙。\n- 5. TdT 負責在 V(D)J 連接處隨機加入核苷酸（N-nucleotide addition）以增加多樣性，不參與抗體恆定區的類型轉換。\n綜上所述，1、3、4 缺失會造成抗體類型轉換障礙，答案選 A。\n\n補充選項判讀：\n- A. 選項 A 為「134」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n- B. 選項 B 為「245」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「125」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「345」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n\n【核心考點】\n抗體類型轉換的分子機制：AID、CD40/CD40L 交互作用；高 IgM 症候群的病因。",
       "flashcard_summary": "抗體類型轉換/Class-switch/AID/CD40/CD40L/高IgM症候群 -> AID、CD40、CD40L 缺失會導致抗體類型轉換障礙",
       "correct_answers": [
         "A"
@@ -641,8 +641,8 @@
       "category_confidence": "high",
       "category_source": "auto",
       "review_status": "ai_generated",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-05T04:22:06.154515+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "115-1_medicine-2_023",
@@ -945,7 +945,7 @@
         "D": "34"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題考查人巴貝氏原蟲症（human babesiosis）的臨床治療用藥。巴貝氏原蟲是寄生於紅血球內的蜱傳原蟲，臨床上對於中重度感染的最佳治療方案是使用聯合療法，經典的聯合用藥為克林黴素（clindamycin）合併奎寧（quinine），故選D（包含3與4）。\n\n【選項詳解】\n- 1. 青黴素（penicillin）：為 β-lactam 類抗生素，主要針對細菌細胞壁，對原蟲完全無效。\n- 2. 四環素（tetracycline）：雖然對某些原蟲有微弱抑制作用，但非巴貝氏原蟲的最佳一線首選藥物。\n- 3. 奎寧（quinine）：與克林黴素聯合使用（Clindamycin + Quinine），是治療巴貝氏原蟲症的傳統標準療法。\n- 4. 克林黴素（clindamycin）：與奎寧聯合使用，可有效殺滅體內巴貝氏原蟲。另一個現代常用方案為 Atovaquone + Azithromycin，但選項中未列出。\n綜上所述，3 與 4 結合為最佳治療用藥，答案選 D。\n\n【核心考點】\n人巴貝氏原蟲症（Babesiosis）的藥物治療：Clindamycin + Quinine 聯合療法，或 Atovaquone + Azithromycin 方案。",
+      "explanation": "【題幹解析】\n本題考查人巴貝氏原蟲症（human babesiosis）的臨床治療用藥。巴貝氏原蟲是寄生於紅血球內的蜱傳原蟲，臨床上對於中重度感染的最佳治療方案是使用聯合療法，經典的聯合用藥為克林黴素（clindamycin）合併奎寧（quinine），故選D（包含3與4）。\n\n【選項詳解】\n- 1. 青黴素（penicillin）：為 β-lactam 類抗生素，主要針對細菌細胞壁，對原蟲完全無效。\n- 2. 四環素（tetracycline）：雖然對某些原蟲有微弱抑制作用，但非巴貝氏原蟲的最佳一線首選藥物。\n- 3. 奎寧（quinine）：與克林黴素聯合使用（Clindamycin + Quinine），是治療巴貝氏原蟲症的傳統標準療法。\n- 4. 克林黴素（clindamycin）：與奎寧聯合使用，可有效殺滅體內巴貝氏原蟲。另一個現代常用方案為 Atovaquone + Azithromycin，但選項中未列出。\n綜上所述，3 與 4 結合為最佳治療用藥，答案選 D。\n\n補充選項判讀：\n- A. 選項 A 為「12」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- B. 選項 B 為「23」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「24」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「34」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n\n【核心考點】\n人巴貝氏原蟲症（Babesiosis）的藥物治療：Clindamycin + Quinine 聯合療法，或 Atovaquone + Azithromycin 方案。",
       "flashcard_summary": "巴貝氏原蟲/Babesiosis/克林黴素/Clindamycin/奎寧/Quinine/聯合用藥 -> 巴貝氏原蟲症的最佳治療為 Clindamycin 加上 Quinine 聯合治療",
       "correct_answers": [
         "D"
@@ -960,8 +960,8 @@
       "category_confidence": "high",
       "category_source": "auto",
       "review_status": "ai_generated",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-05T04:22:06.252979+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "115-1_medicine-2_034",

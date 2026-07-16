@@ -655,7 +655,7 @@
         "D": "血清白蛋白(serum albumin)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\nMELD score（Model for End-Stage Liver Disease）是用於預測末期肝病患者短期（3個月）死亡率的評分系統。公式所用參數能直接客觀評估肝腎功能。\n\n【選項詳解】\n- A、B、C. 錯誤。傳統 MELD score 計算公式包含三個客觀化學指標：血清肌酸酐（Creatinine，評估腎功能）、血清總膽紅素（Bilirubin，評估肝臟代謝）及國際標準化比值（INR，評估肝臟凝血合成）。\n- D. 正確。血清白蛋白（Serum albumin）是 Child-Pugh 評分的五大參數之一，但「並不屬於」MELD 評分的計算參數。故本選項符合題意。\n\n【核心考點】\nMELD score 計算指標（Creatinine, Bilirubin, INR）、MELD score 與 Child-Pugh score 參數的區別（Child-Pugh 包含 Albumin, Bilirubin, PT/INR, Ascites, Encephalopathy）。",
+      "explanation": "【題幹解析】\nMELD score（Model for End-Stage Liver Disease）是用於預測末期肝病患者短期（3個月）死亡率的評分系統。公式所用參數能直接客觀評估肝腎功能。\n\n【選項詳解】\n- A、B、C. 錯誤。傳統 MELD score 計算公式包含三個客觀化學指標：血清肌酸酐（Creatinine，評估腎功能）、血清總膽紅素（Bilirubin，評估肝臟代謝）及國際標準化比值（INR，評估肝臟凝血合成）。\n- D. 正確。血清白蛋白（Serum albumin）是 Child-Pugh 評分的五大參數之一，但「並不屬於」MELD 評分的計算參數。故本選項符合題意。\n\n補充選項判讀：\n- A. 選項 A 為「血清肌酸酐(serum creatinine)」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- B. 選項 B 為「血清總膽紅素(serum total bilirubin)」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「國際標準化比值(international normalized ratio, INR)」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「血清白蛋白(serum albumin)」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n\n【核心考點】\nMELD score 計算指標（Creatinine, Bilirubin, INR）、MELD score 與 Child-Pugh score 參數的區別（Child-Pugh 包含 Albumin, Bilirubin, PT/INR, Ascites, Encephalopathy）。",
       "flashcard_summary": "MELD score 參數 -> Creatinine、Bilirubin、INR（不含 Albumin）",
       "correct_answers": [
         "D"
@@ -670,8 +670,8 @@
       "category_confidence": "high",
       "category_source": "auto",
       "review_status": "ai_generated",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-05T04:22:08.011813+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "115-1_medicine-5_024",
@@ -974,7 +974,7 @@
         "D": "1trigger finger;2boutonnière deformity"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n手指末端撞擊受傷導致的伸肌腱病變是手外科常見創傷。本題考查受傷時的急性診斷與長期未治癒演變而來的特定指部畸形。\n\n【選項詳解】\n- 1. 錘狀指（mallet finger）：右手食指末端遭受高速撞擊，DIP 關節呈屈曲狀態且無法主動伸直，但 X 光無骨折。這是因為伸指肌腱在遠端指骨附著處發生斷裂或撕裂，臨床上稱為 mallet finger。\n- 2. 天鵝頸畸形（swan neck deformity）：若 mallet finger 未獲得良好固定或修復，時間一長，伸指肌腱向近端回縮，使得近端指間關節（PIP）上的側索張力過高、背側拉扯增加，導致 PIP 關節過度伸直（hyperextension），同時 DIP 關節呈持續屈曲（flexion）。此種 PIP 過伸、DIP 屈曲的特殊外觀稱為天鵝頸畸形。\n- 比較：鈕扣孔畸形（boutonnière deformity）則是 PIP 屈曲、DIP 過伸，主要因 PIP 背側中央腱（central slip）斷裂所致。Jersey finger 則為深屈指肌腱（FDP）從遠端指骨撕裂，症狀是 DIP 無法主動屈曲。故本題正解為 A。\n\n【核心考點】\nMallet finger 定義（DIP 伸指肌腱斷裂，DIP 無法主動伸直）、Swan neck deformity 機轉（PIP 過伸、DIP 屈曲）、Boutonnière deformity 鑑別（PIP 屈曲、DIP 過伸）。",
+      "explanation": "【題幹解析】\n手指末端撞擊受傷導致的伸肌腱病變是手外科常見創傷。本題考查受傷時的急性診斷與長期未治癒演變而來的特定指部畸形。\n\n【選項詳解】\n- 1. 錘狀指（mallet finger）：右手食指末端遭受高速撞擊，DIP 關節呈屈曲狀態且無法主動伸直，但 X 光無骨折。這是因為伸指肌腱在遠端指骨附著處發生斷裂或撕裂，臨床上稱為 mallet finger。\n- 2. 天鵝頸畸形（swan neck deformity）：若 mallet finger 未獲得良好固定或修復，時間一長，伸指肌腱向近端回縮，使得近端指間關節（PIP）上的側索張力過高、背側拉扯增加，導致 PIP 關節過度伸直（hyperextension），同時 DIP 關節呈持續屈曲（flexion）。此種 PIP 過伸、DIP 屈曲的特殊外觀稱為天鵝頸畸形。\n- 比較：鈕扣孔畸形（boutonnière deformity）則是 PIP 屈曲、DIP 過伸，主要因 PIP 背側中央腱（central slip）斷裂所致。Jersey finger 則為深屈指肌腱（FDP）從遠端指骨撕裂，症狀是 DIP 無法主動屈曲。故本題正解為 A。\n\n補充選項判讀：\n- A. 選項 A 為「1mallet finger;2swan neck deformity」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n- B. 選項 B 為「1trigger finger;2swan neck deformity」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「1jersey finger;2boutonnière deformity」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「1trigger finger;2boutonnière deformity」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n\n【核心考點】\nMallet finger 定義（DIP 伸指肌腱斷裂，DIP 無法主動伸直）、Swan neck deformity 機轉（PIP 過伸、DIP 屈曲）、Boutonnière deformity 鑑別（PIP 屈曲、DIP 過伸）。",
       "flashcard_summary": "指部畸形病理 -> Mallet finger（DIP無法伸直）；未治癒演變為 Swan neck（PIP過伸、DIP屈曲）",
       "correct_answers": [
         "A"
@@ -989,8 +989,8 @@
       "category_confidence": "high",
       "category_source": "auto",
       "review_status": "ai_generated",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-05T04:22:08.103144+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "115-1_medicine-5_035",
@@ -1003,7 +1003,7 @@
         "D": "葡萄糖"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題考查小兒燒燙傷液體復甦（Fluid resuscitation）與成人之不同。必須考慮到幼兒（小於 2 歲或體重小於 20 公斤）特殊的能量代謝與生理特性。\n\n【選項詳解】\n- A、B、C. 錯誤。雖然電解質（鈉、氯、鈣、鉀）在液體復甦中非常重要，但乳酸林格氏液（Lactated Ringer's）中已含有符合生理比例的鈉、氯、鉀、鈣等離子。\n- D. 正確。小於 2 歲或體重小於 20 公斤的幼兒，體內的肝醣儲存量（glycogen storage）極為有限，且在高應激狀態下，兒茶酚胺釋放會迅速耗竭肝醣，極易併發危及生命的低血糖。因此，除了使用乳酸林格氏液按 Parkland 算式補充燒傷流失液體外，還必須同時給予「含五分糖（D5W 或 D5LR）」的維持液，以防止低血糖的發生。\n\n【核心考點】\n兒童燒傷輸液復甦指引（Parkland formula 以 LR 為主）、幼兒（<2歲或<20kg）肝醣儲存量少、預防低血糖需補充葡萄糖（D5LR / D5W）。",
+      "explanation": "【題幹解析】\n本題考查小兒燒燙傷液體復甦（Fluid resuscitation）與成人之不同。必須考慮到幼兒（小於 2 歲或體重小於 20 公斤）特殊的能量代謝與生理特性。\n\n【選項詳解】\n- A、B、C. 錯誤。雖然電解質（鈉、氯、鈣、鉀）在液體復甦中非常重要，但乳酸林格氏液（Lactated Ringer's）中已含有符合生理比例的鈉、氯、鉀、鈣等離子。\n- D. 正確。小於 2 歲或體重小於 20 公斤的幼兒，體內的肝醣儲存量（glycogen storage）極為有限，且在高應激狀態下，兒茶酚胺釋放會迅速耗竭肝醣，極易併發危及生命的低血糖。因此，除了使用乳酸林格氏液按 Parkland 算式補充燒傷流失液體外，還必須同時給予「含五分糖（D5W 或 D5LR）」的維持液，以防止低血糖的發生。\n\n補充選項判讀：\n- A. 選項 A 為「鉀離子」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- B. 選項 B 為「鈉離子」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「鈣離子」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「葡萄糖」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n\n【核心考點】\n兒童燒傷輸液復甦指引（Parkland formula 以 LR 為主）、幼兒（<2歲或<20kg）肝醣儲存量少、預防低血糖需補充葡萄糖（D5LR / D5W）。",
       "flashcard_summary": "幼兒燒傷輸液 -> 除乳酸林格氏液外，需加葡萄糖 (Dextrose) 以防低血糖",
       "correct_answers": [
         "D"
@@ -1018,8 +1018,8 @@
       "category_confidence": "high",
       "category_source": "auto",
       "review_status": "ai_generated",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-05T04:22:08.103144+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "115-1_medicine-5_036",

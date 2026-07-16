@@ -483,7 +483,7 @@
         "D": "T3N2bM0"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題考查 AJCC 第八版（8th edition）口腔癌（包含舌癌）的 TNM 分期診斷。相較於舊版，第八版在 T 分期引入了「侵犯深度（DOI）」作為升級指標，在 N 分期則強調了淋巴結的數量、側位與「囊外延伸（ENE）」狀態。\n\n【選項詳解】\n- T 分期判定：腫瘤最大徑為 3 cm（落於 2~4 cm 區間），但侵犯深度（DOI）高達 11 mm。根據 AJCC 第八版口腔癌指南，不論腫瘤大小，只要 DOI > 10 mm 即被判定為 T3。因此郭先生為 T3。\n- N 分期判定：在同側頸部發現 3 顆轉移淋巴結（複數同側轉移，屬於多發性同側淋巴結），最大徑為 2 cm（均未超過 6 cm），且無囊外淋巴結延伸（extranodal extension, ENE-）。根據指引，同側多個淋巴結轉移、最大徑 ≤ 6 cm 且 ENE 陰性者，定義為 N2b。因此郭先生為 N2b。\n- M 分期判定：無遠端器官轉移，判定為 M0。\n- 綜合以上，郭先生的癌症分期為 T3N2bM0，故 D 選項為正確。而 A（N2a 為單顆同側 >3 cm 且 ≤6 cm，ENE-）、B 與 C（N2c 為雙側或對側淋巴結轉移）均為錯誤的分期。\n\n【核心考點】\n口腔癌 AJCC 第八版分期：侵犯深度（DOI）> 10 mm 即使腫瘤小於 4 cm 亦會被判定為 T3；同側多發且最大徑 ≤ 6 cm 且無囊外延伸（ENE-）定義為 N2b。",
+      "explanation": "【題幹解析】\n本題考查 AJCC 第八版（8th edition）口腔癌（包含舌癌）的 TNM 分期診斷。相較於舊版，第八版在 T 分期引入了「侵犯深度（DOI）」作為升級指標，在 N 分期則強調了淋巴結的數量、側位與「囊外延伸（ENE）」狀態。\n\n【選項詳解】\n- T 分期判定：腫瘤最大徑為 3 cm（落於 2~4 cm 區間），但侵犯深度（DOI）高達 11 mm。根據 AJCC 第八版口腔癌指南，不論腫瘤大小，只要 DOI > 10 mm 即被判定為 T3。因此郭先生為 T3。\n- N 分期判定：在同側頸部發現 3 顆轉移淋巴結（複數同側轉移，屬於多發性同側淋巴結），最大徑為 2 cm（均未超過 6 cm），且無囊外淋巴結延伸（extranodal extension, ENE-）。根據指引，同側多個淋巴結轉移、最大徑 ≤ 6 cm 且 ENE 陰性者，定義為 N2b。因此郭先生為 N2b。\n- M 分期判定：無遠端器官轉移，判定為 M0。\n- 綜合以上，郭先生的癌症分期為 T3N2bM0，故 D 選項為正確。而 A（N2a 為單顆同側 >3 cm 且 ≤6 cm，ENE-）、B 與 C（N2c 為雙側或對側淋巴結轉移）均為錯誤的分期。\n\n補充選項判讀：\n- A. 選項 A 為「T3N2aM0」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- B. 選項 B 為「T3N2cM0」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「T2N2cM0」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「T3N2bM0」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n\n【核心考點】\n口腔癌 AJCC 第八版分期：侵犯深度（DOI）> 10 mm 即使腫瘤小於 4 cm 亦會被判定為 T3；同側多發且最大徑 ≤ 6 cm 且無囊外延伸（ENE-）定義為 N2b。",
       "key_point": "DOI>10mm為T3；同側多發為N2b",
       "flashcard_summary": "口腔癌 DOI > 10 mm 升為 T3；同側多顆 ≤ 6 cm 且 ENE- 歸為 N2b。",
       "review_status": "ai_generated",
@@ -498,8 +498,8 @@
       "category": "其他",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-subagent",
-      "explanation_generated_at": "2026-07-06T10:38:36.569023+00:00"
+      "explanation_model": "codex-option-detail-repair",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00"
     },
     {
       "id": "113-2_medicine-5_018",

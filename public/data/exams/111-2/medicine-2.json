@@ -559,10 +559,10 @@
       "flashcard_summary": "TCR 多樣性機制 -> V(D)J隨機組合，RAG1/2重組，TdT介導N核苷酸添加 (AIRE與CSR無關)",
       "key_point": "T 細胞受體（TCR）基因重組與多樣性產生的核心分子機制。",
       "flashcard_front": "TCR (T細胞受體) / 基因多樣性機制 / TdT / RAG1/2 / AIRE",
-      "explanation_generated_at": "2026-06-26T16:42:13.576693+00:00",
+      "explanation_generated_at": "2026-07-17T00:25:45+08:00",
       "review_status": "ai_generated",
       "category_confidence": "high",
-      "explanation_model": "antigravity-direct",
+      "explanation_model": "codex-option-detail-repair",
       "id": "111-2_medicine-2_020",
       "category_source": "auto",
       "question_number": 20,
@@ -575,7 +575,7 @@
         "C": "12345"
       },
       "answer_source": "official_correction",
-      "explanation": "【題幹解析】\n本題考查 T 細胞在胸腺發育中，其抗原受體（TCR）多樣性產生的機制。TCR 多樣性的生成機制與 B 細胞的免疫球蛋白（BCR）非常相似，主要包括組合多樣性與連接多樣性。\n\n【選項詳解】\n- 1. 正確。TCR 基因的 V 區（可變區）是由多個基因片段（V, D, J）組成。其中 TCR α/γ 鏈由 V、J 片段組成，β/δ 鏈則由 V、D、J 片段組成。這構成了 TCR 組合多樣性的基因基礎。\n- 2. 正確。V(D)J DNA 重組（V(D)J recombination）是隨機選擇基因片段進行拼接的過程，是產生抗原受體多樣性的核心機制。\n- 3. 正確。RAG1 與 RAG2 基因表現：RAG1/RAG2（Recombination-activating genes）重組酶負責辨識重組訊號序列（RSS）並將 DNA 切開，是進行 V(D)J 重組的關鍵限制酶。\n- 4. 錯誤。AIRE（Autoimmune regulator）基因主要在胸腺髓質上皮細胞（mTECs）中表達，負責促進多種外周組織特異性抗原（TSAs）在胸腺內轉錄，用於 T 細胞的負向篩選（negative selection）以淘汰自體反應性 T 細胞，並不參與 TCR 基因重組與多樣性構建的過程。\n- 5. 正確。TdT（Terminal deoxynucleotidyl transferase）基因表現：TdT 為末端去氧核苷酸轉移酶，它能在重組的基因片段連接處隨機添加非模板核苷酸（N 核苷酸），顯著增加了連接處的多樣性。\n- 6. 錯誤。類型轉換重組（Class switch recombination, CSR）是 B 細胞在活化後，抗體基因恆定區（Constant region）進行重組的機制（如從 IgM 轉換為 IgG 或 IgA），T 細胞的 TCR 基因發育中完全沒有類型轉換重組。\n- 7. 正確。N-nucleotide addition（N 核苷酸添加）即是指由 TdT 在 DNA 連接處隨機插入核苷酸的過程，是 TCR 連接多樣性（junctional diversity）的主要來源。\n\n綜上所述，與 TCR 多樣性有關的機制為 1, 2, 3, 5, 7。正確組合為 12357，對應選項 A。\n\n【核心考點】\nTCR 與 BCR 多樣性產生的三大機制：\n1. 組合多樣性（combinatorial diversity）：V(D)J 片段的多樣隨機拼接，依賴 RAG1/RAG2。\n2. 連接多樣性（junctional diversity）：連接處核苷酸的切除與 N/P 核苷酸的添加，TdT 負責 N 核苷酸添加。\n3. 多股鏈組合多樣性：不同 α 鏈與 β 鏈隨機配對。注意 AIRE 參與的是陰性篩選而非多樣性產生；CSR 僅存在於 B 細胞分化中。",
+      "explanation": "【題幹解析】\n本題考查 T 細胞在胸腺發育中，其抗原受體（TCR）多樣性產生的機制。TCR 多樣性的生成機制與 B 細胞的免疫球蛋白（BCR）非常相似，主要包括組合多樣性與連接多樣性。\n\n【選項詳解】\n- 1. 正確。TCR 基因的 V 區（可變區）是由多個基因片段（V, D, J）組成。其中 TCR α/γ 鏈由 V、J 片段組成，β/δ 鏈則由 V、D、J 片段組成。這構成了 TCR 組合多樣性的基因基礎。\n- 2. 正確。V(D)J DNA 重組（V(D)J recombination）是隨機選擇基因片段進行拼接的過程，是產生抗原受體多樣性的核心機制。\n- 3. 正確。RAG1 與 RAG2 基因表現：RAG1/RAG2（Recombination-activating genes）重組酶負責辨識重組訊號序列（RSS）並將 DNA 切開，是進行 V(D)J 重組的關鍵限制酶。\n- 4. 錯誤。AIRE（Autoimmune regulator）基因主要在胸腺髓質上皮細胞（mTECs）中表達，負責促進多種外周組織特異性抗原（TSAs）在胸腺內轉錄，用於 T 細胞的負向篩選（negative selection）以淘汰自體反應性 T 細胞，並不參與 TCR 基因重組與多樣性構建的過程。\n- 5. 正確。TdT（Terminal deoxynucleotidyl transferase）基因表現：TdT 為末端去氧核苷酸轉移酶，它能在重組的基因片段連接處隨機添加非模板核苷酸（N 核苷酸），顯著增加了連接處的多樣性。\n- 6. 錯誤。類型轉換重組（Class switch recombination, CSR）是 B 細胞在活化後，抗體基因恆定區（Constant region）進行重組的機制（如從 IgM 轉換為 IgG 或 IgA），T 細胞的 TCR 基因發育中完全沒有類型轉換重組。\n- 7. 正確。N-nucleotide addition（N 核苷酸添加）即是指由 TdT 在 DNA 連接處隨機插入核苷酸的過程，是 TCR 連接多樣性（junctional diversity）的主要來源。\n\n綜上所述，與 TCR 多樣性有關的機制為 1, 2, 3, 5, 7。正確組合為 12357，對應選項 A。\n\n補充選項判讀：\n- A. 選項 A 為「12357」，與上方逐項判斷得到的正確組合或正確敘述一致，因此為本題答案。\n- B. 選項 B 為「13567」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- C. 選項 C 為「12345」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n- D. 選項 D 為「12356」，與上方已判定的正確組合或關鍵條件不一致，因此排除。\n\n【核心考點】\nTCR 與 BCR 多樣性產生的三大機制：\n1. 組合多樣性（combinatorial diversity）：V(D)J 片段的多樣隨機拼接，依賴 RAG1/RAG2。\n2. 連接多樣性（junctional diversity）：連接處核苷酸的切除與 N/P 核苷酸的添加，TdT 負責 N 核苷酸添加。\n3. 多股鏈組合多樣性：不同 α 鏈與 β 鏈隨機配對。注意 AIRE 參與的是陰性篩選而非多樣性產生；CSR 僅存在於 B 細胞分化中。",
       "correct_answers": [
         "A"
       ],
