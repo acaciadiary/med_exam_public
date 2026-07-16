@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nBehçet disease 是全身性血管炎，可造成復發性口腔潰瘍、生殖器潰瘍、皮膚與眼部病變。HLA-B51 是相關風險因子，不是診斷必備條件；也不能把雙眼葡萄膜炎加 HLA-B51 當成診斷標準。\n\n【選項詳解】\n- A. HLA-B51 陽性可支持風險但非診斷標準，且 Behçet 診斷需整合口腔、生殖器、皮膚、眼部等臨床表現，因此此敘述錯誤。\n- B. 口腔潰瘍、生殖器潰瘍與血管病灶都是 Behçet 常見全身表現。\n- C. Behçet 血管炎可影響動脈與靜脈，眼底螢光血管攝影可評估視網膜血管炎與滲漏。\n- D. 治療可依嚴重度使用類固醇、免疫調節劑或抗 TNF 等生物製劑。\n\n【核心考點】\nBehçet 是臨床診斷的全身性血管炎；HLA-B51 是關聯因子，不是必要診斷標準。",
+      "key_point": "Behçet disease 不以 HLA-B51 陽性作為必要診斷條件。",
+      "flashcard_front": "Behçet 葡萄膜炎",
+      "flashcard_back": "臨床診斷重點是復發口腔潰瘍、眼病變、生殖器潰瘍、皮膚/血管病變；HLA-B51 非必備。",
+      "flashcard_summary": "Behçet -> HLA-B51 not diagnostic criterion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n中年男性、角膜基質晶狀沉積與 arcus，典型指向 Schnyder corneal dystrophy 或脂質沉積相關角膜病變，常與血中膽固醇或脂質異常有關。\n\n【選項詳解】\n- A. 膽固醇升高可造成角膜脂質沉積、arcus 或晶狀沉積，是本題最可能答案。\n- B. 鈣離子沉積較典型是 band keratopathy，呈帶狀角膜鈣化，不是本題晶狀脂質沉積的主要線索。\n- C. 銅離子沉積典型是 Wilson disease 的 Kayser-Fleischer ring，位置與臨床意義不同。\n- D. 同半胱胺酸升高與晶狀體脫位、血栓風險相關，非典型角膜晶狀沉積原因。\n\n【核心考點】\n角膜 arcus 合併晶狀脂質沉積要想到 cholesterol/lipid abnormality；銅是 Kayser-Fleischer ring。",
+      "key_point": "角膜晶狀沉積與 arcus 最要懷疑膽固醇升高。",
+      "flashcard_front": "角膜脂質沉積",
+      "flashcard_back": "Schnyder/脂質沉積 -> cholesterol；Wilson -> copper ring。",
+      "flashcard_summary": "corneal crystal + arcus -> cholesterol",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題官方為全給分，作答時仍可掌握考點：角膜內皮細胞主要靠增大與移行代償，真正再生能力有限；若受損過多會導致角膜水腫，嚴重時需角膜移植。\n\n【選項詳解】\n- A. 一般教學認為角膜內皮細胞再生能力很差，主要靠鄰近細胞擴大與移行補位；若題目說具有適度再生能力，容易被視為錯誤，但本題官方全給分，需保留異常計分狀態。\n- B. 內皮的 barrier 與 pump 功能維持角膜相對脫水與透明，含水量約 78%，是正確核心。\n- C. 外傷或手術若造成內皮細胞密度不足，pump failure 會造成不可逆角膜水腫。\n- D. 不可逆角膜水腫造成視力下降時，可考慮內皮角膜移植或穿透性角膜移植等治療。\n\n【核心考點】\n角膜內皮細胞再生能力有限；功能是 barrier/pump，失代償會角膜水腫。本題官方 all_credit，勿擅改答案。",
+      "key_point": "角膜內皮再生能力有限，官方全給分需保留。",
+      "flashcard_front": "角膜內皮 all_credit",
+      "flashcard_back": "內皮靠 pump 維持透明；再生差，受損過多會水腫。",
+      "flashcard_summary": "corneal endothelium -> limited regeneration, all_credit",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方 answer_status 為 all_credit；題解保留全給分，不改答案。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問較不會合併白內障的全身病。糖尿病、myotonic dystrophy、異位性皮膚炎都可增加白內障風險；Graves disease 主要造成甲狀腺眼病變，如眼球突出、眼外肌肥厚與複視，白內障不是典型合併症。\n\n【選項詳解】\n- A. 糖尿病會增加白內障風險，且可較早發生。\n- B. 強直性肌肉失養症常合併特徵性白內障，是經典關聯。\n- C. 異位性皮膚炎可合併 anterior/posterior subcapsular cataract，也可能與搔抓外傷或類固醇使用相關。\n- D. Graves disease 典型眼部問題是 thyroid eye disease，不是白內障，因此最不會合併白內障。\n\n【核心考點】\n白內障全身關聯：DM、myotonic dystrophy、atopic dermatitis；Graves 主要是甲狀腺眼病變。",
+      "key_point": "Graves disease 較不會典型合併白內障。",
+      "flashcard_front": "白內障全身病除外",
+      "flashcard_back": "DM、myotonic dystrophy、atopic dermatitis 會；Graves 較不是。",
+      "flashcard_summary": "cataract association -> Graves is exception",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n三歲以下兒童雙眼視網膜出血、沒有明顯頭部外傷，要高度懷疑 abusive head trauma/shaken baby syndrome。眼底常見多層、多區域視網膜出血。\n\n【選項詳解】\n- A. 第一型糖尿病兒童可有糖尿病視網膜病變，但三歲以下初診且雙眼大量出血不是典型。\n- B. 嬰兒搖晃症可因加減速與顱內壓變化造成雙眼視網膜出血，是本題最重要診斷。\n- C. 頑固型癲癇本身不會典型造成雙眼視網膜出血。\n- D. JIA 相關葡萄膜炎多為慢性前葡萄膜炎，重點是發炎與併發症，不是無外傷雙眼視網膜出血。\n\n【核心考點】\n幼兒無明顯外傷卻有雙眼視網膜出血，要想到 shaken baby syndrome/abusive head trauma。",
+      "key_point": "三歲以下雙眼視網膜出血要懷疑嬰兒搖晃症。",
+      "flashcard_front": "幼兒雙眼視網膜出血",
+      "flashcard_back": "無明顯外傷時優先警覺 shaken baby syndrome。",
+      "flashcard_summary": "retinal hemorrhage in infant -> shaken baby syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n弱視來自視覺發育期影像品質差、兩眼影像不等或斜視造成抑制。間歇性交替性外斜視因兩眼可交替使用，較不易造成單眼長期抑制；單眼白內障與高度屈光參差風險更高。\n\n【選項詳解】\n- A. 間歇性交替性外斜視通常兩眼輪流注視，單眼被長期抑制的機會較小，因此造成弱視可能性較小。\n- B. 單眼先天性白內障會造成嚴重 deprivation amblyopia，風險很高。\n- C. 兩眼視差五百度屬高度 anisometropia，容易造成屈光參差性弱視。\n- D. 兩眼遠視四百度可能造成雙眼影像模糊，形成屈光性弱視。\n\n【核心考點】\n交替性斜視比單眼固定斜視較不易弱視；單眼白內障與高度屈光參差是高風險。",
+      "key_point": "間歇性交替性外斜視造成弱視的可能性較小。",
+      "flashcard_front": "兒童弱視風險",
+      "flashcard_back": "單眼白內障、屈光參差、高度遠視風險高；交替外斜視較低。",
+      "flashcard_summary": "amblyopia -> alternating intermittent exotropia lower risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n類固醇眼部副作用包括 posterior subcapsular cataract、眼壓升高/青光眼，以及可能誘發或加重 central serous chorioretinopathy。視神經炎不是典型類固醇副作用。\n\n【選項詳解】\n- A. 1、2、4 包含視神經炎；視神經炎不是類固醇常見眼副作用，因此不完整。\n- B. 2、3、4 同樣包含視神經炎且漏掉白內障，不正確。\n- C. 1、3、4 包含視神經炎且漏掉眼壓升高，不正確。\n- D. 1 白內障、2 眼壓升高、3 中心性漿液性脈絡膜視網膜病變皆可與類固醇相關，是正確組合。\n\n【核心考點】\n類固醇眼副作用：白內障、眼壓升高/青光眼、central serous chorioretinopathy；不是視神經炎。",
+      "key_point": "類固醇眼部副作用為白內障、眼壓升高、CSCR。",
+      "flashcard_front": "steroid eye side effects",
+      "flashcard_back": "cataract + IOP elevation + CSCR；不包括 optic neuritis。",
+      "flashcard_summary": "steroid -> cataract, glaucoma, CSCR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\nGraves ophthalmopathy 造成複視主要因眼外肌發炎纖維化與肥厚，最常侵犯下直肌。影像典型是肌腹肥厚但肌腱相對 spared；若肌腹和肌腱都肥大，較不像典型甲狀腺眼病變。\n\n【選項詳解】\n- A. 眼外肌肥厚與纖維化會限制眼球運動，導致複視，敘述正確。\n- B. 下直肌最常受侵犯，常造成上轉受限與垂直複視。\n- C. 典型 CT 是 extraocular muscle belly enlargement with tendon sparing，不是肌腹與肌腱都肥大，故為錯誤。\n- D. 斜視手術應等甲狀腺狀態與眼位穩定，通常至少數月，避免活動期變化造成復發或過矯。\n\n【核心考點】\n甲狀腺眼病變影像：眼外肌肌腹肥厚、肌腱相對保留；最常下直肌。",
+      "key_point": "Graves 眼病變 CT 典型為肌腹肥厚、肌腱保留。",
+      "flashcard_front": "Graves diplopia CT",
+      "flashcard_back": "inferior rectus common；tendon sparing 是關鍵。",
+      "flashcard_summary": "thyroid eye disease -> belly enlarged, tendon spared",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n聽神經瘤常造成單側感音神經性聽損、耳鳴、語音辨識度下降，ABR 可見第 V 波潛時延長或 I-V interval 延長。患側語音辨識度通常不會和健側相同。\n\n【選項詳解】\n- A. 純音聽力檢查患側聽力變差符合 vestibular schwannoma 常見表現。\n- B. 單側耳鳴很常見，是臨床警訊之一。\n- C. 患側語音辨識度常比健側差，若說相同最不適當。\n- D. ABR 第五波潛時延長可反映聽神經傳導受影響，是可見檢查結果。\n\n【核心考點】\n聽神經瘤：單側 SNHL、耳鳴、speech discrimination 下降、ABR V wave latency 延長。",
+      "key_point": "聽神經瘤患側語音辨識度通常下降。",
+      "flashcard_front": "聽神經瘤聽力檢查",
+      "flashcard_back": "患側聽力與語音辨識較差，ABR V 波延長。",
+      "flashcard_summary": "acoustic neuroma -> poor speech discrimination",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n眩暈合併聽力症狀時要想到內耳病變。Meniere disease 典型為反覆眩暈、波動性低頻聽損、耳鳴與耳悶；BPPV、前庭神經炎與前庭性偏頭痛通常不以聽損為主要特徵。\n\n【選項詳解】\n- A. BPPV 是短暫姿勢誘發眩暈，通常沒有聽力損失。\n- B. 前庭神經炎主要侵犯前庭神經，若合併聽損則較像 labyrinthitis，不是典型 vestibular neuritis。\n- C. Meniere disease 最常合併聽力損失，且常為波動性低頻感音神經性聽損。\n- D. 前庭性偏頭痛可有聲光敏感與眩暈，但固定聽力損失不是主要特徵。\n\n【核心考點】\n反覆眩暈加波動性聽損、耳鳴、耳悶是 Meniere disease 的經典組合。",
+      "key_point": "最常合併聽力損失的眩暈疾病是 Meniere disease。",
+      "flashcard_front": "眩暈合併聽損",
+      "flashcard_back": "Meniere disease = episodic vertigo + fluctuating hearing loss + tinnitus/aural fullness。",
+      "flashcard_summary": "vertigo + hearing loss -> Meniere",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

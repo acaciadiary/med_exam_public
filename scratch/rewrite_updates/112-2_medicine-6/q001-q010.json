@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題考困難面罩通氣的術前預測因子。典型風險可用 MOANS 記憶：Mask seal 困難、Obesity/Obstruction、Age、No teeth、Stiff lungs；大量鬍鬚會破壞面罩密合，是最直接的危險因子。\n\n【選項詳解】\n- A. 有大量鬍鬚之男性會讓面罩邊緣漏氣，難以建立有效正壓通氣，是困難面罩通氣的重要預測因子。\n- B. 青少年通常不是困難面罩通氣的典型高風險族群；年長、肥胖、睡眠呼吸中止或顏面結構異常更常見。\n- C. BMI 小於 20 kg/m2 不屬於常見風險；肥胖或頸部軟組織增加才會增加通氣困難。\n- D. Mallampati II 只代表口咽視野輕度受限，較不如 Mallampati III/IV 或鬍鬚造成的密合不良具有預測力。\n\n【核心考點】\n困難面罩通氣要先想「面罩密合」與「上呼吸道阻塞」；鬍鬚、肥胖、無牙、年長與肺順應性差都會增加風險。",
+      "key_point": "大量鬍鬚會造成面罩漏氣，是困難面罩通氣的預測因子。",
+      "flashcard_front": "difficult mask ventilation 預測因子",
+      "flashcard_back": "大量鬍鬚、肥胖、無牙、年長、睡眠呼吸中止或肺順應性差；本題選大量鬍鬚。",
+      "flashcard_summary": "困難面罩通氣 -> 鬍鬚造成面罩密合不良",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\nSvO2 是全身靜脈血回到右心後、經肺動脈混合後的氧飽和度，因此最準確的採血位置是肺動脈。中心靜脈氧飽和度 ScvO2 可作替代趨勢，但不等同於真正混合靜脈血。\n\n【選項詳解】\n- A. 外頸靜脈只反映局部頭頸部靜脈血，不能代表全身混合靜脈血。\n- B. 橈動脈導管抽到的是動脈血，可測 SaO2 或 PaO2，不是 SvO2。\n- C. 中央靜脈導管多位於上腔靜脈或右心房附近，測得的是 ScvO2，仍未完全混合下半身與冠狀竇回流。\n- D. 肺動脈導管位於肺動脈，血液已在右心充分混合，最能測得 mixed venous oxygen saturation。\n\n【核心考點】\nSvO2 要由肺動脈導管測量；中心靜脈導管測的是 ScvO2，兩者臨床趨勢相關但位置與意義不同。",
+      "key_point": "混合靜脈氧飽和度 SvO2 應由肺動脈導管抽血。",
+      "flashcard_front": "SvO2 採血位置",
+      "flashcard_back": "肺動脈導管；中央靜脈導管是 ScvO2。",
+      "flashcard_summary": "SvO2 -> pulmonary artery catheter",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n題目問麻醉中呼吸監測何者錯誤。氧合與換氣都要監測；pulse oximetry 看氧合，capnography 看換氣與氣管內管位置。EtCO2 與 PaCO2 的差距會受死腔、肺栓塞、低心輸出、肺部疾病影響，不是固定值。\n\n【選項詳解】\n- A. 呼吸監測確實包含 oxygenation 與 ventilation，兩者代表不同生理層面。\n- B. Pulse oximetry 是麻醉基礎監測的必要項目，用於連續追蹤血氧飽和度。\n- C. Capnography 可監測 ventilation，持續有二氧化碳波形也能協助確認氣管內管在氣管內。\n- D. EtCO2 與 PaCO2 的差距不是固定不變，尤其通氣灌流不均或死腔增加時會改變，所以不能說完全反映 PaCO2。\n\n【核心考點】\nEtCO2 是 PaCO2 的趨勢指標，不是固定差距的完全替代品；氧合與換氣要分開監測。",
+      "key_point": "EtCO2-PaCO2 差距會隨死腔與循環狀態改變。",
+      "flashcard_front": "麻醉呼吸監測錯誤敘述",
+      "flashcard_back": "錯在 EtCO2 與 PaCO2 差距固定且可完全反映 PaCO2。",
+      "flashcard_summary": "麻醉監測 -> EtCO2 可看趨勢但不等於 PaCO2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題考局部麻醉劑分類與代謝。Ester 類主要由血漿 pseudocholinesterase 代謝；amide 類主要在肝臟代謝，因此 A 把 amide 與 ester 的代謝方式混淆。\n\n【選項詳解】\n- A. amide 類如 lidocaine、bupivacaine 主要經肝臟代謝，不是主要靠血中偽膽鹼酯酶，故為錯誤敘述。\n- B. 注射部位血管越豐富，systemic absorption 越快、血中濃度越高，這是正確觀念。\n- C. 非離子化型較能穿過神經膜，比例受 pKa 與組織 pH 影響，會影響 onset。\n- D. Bupivacaine 誤入血管可造成嚴重心律不整與心血管毒性，需警覺 LAST。\n\n【核心考點】\nEster 類局麻藥靠 pseudocholinesterase；amide 類靠肝臟代謝。Bupivacaine 血管內注射心臟毒性特別重要。",
+      "key_point": "Amide 類局部麻醉劑主要肝臟代謝，不是 pseudocholinesterase。",
+      "flashcard_front": "局部麻醉劑代謝",
+      "flashcard_back": "ester -> pseudocholinesterase；amide -> liver。",
+      "flashcard_summary": "local anesthetics -> amide 肝代謝",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目問 opioids 何者錯誤。長期 opioid 使用可出現耐受、依賴與 opioid-induced hyperalgesia，也就是痛覺敏感增加，不是痛覺減退。\n\n【選項詳解】\n- A. Morphine 代謝物可在肝腎功能不佳時累積，造成鎮靜、昏迷與呼吸抑制，臨床需減量或換藥。\n- B. 快速給予大劑量 opioid，尤其 fentanyl 類，可造成胸壁僵硬而影響通氣。\n- C. 長期使用 opioids 可能造成 hyperalgesia 或 tolerance，不是 hypoalgesia，因此此敘述錯誤。\n- D. 大劑量 opioid 可抑制手術壓力反應，減少 catecholamine 上升，常見於心臟麻醉概念。\n\n【核心考點】\n長期 opioid 不是單純越用越不痛；可出現耐受與 opioid-induced hyperalgesia。",
+      "key_point": "長期 opioid 可造成痛覺過敏 hyperalgesia，而非 hypoalgesia。",
+      "flashcard_front": "opioid 長期使用",
+      "flashcard_back": "可能出現 tolerance、dependence、opioid-induced hyperalgesia。",
+      "flashcard_summary": "opioids -> 長期使用可能痛覺過敏",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n孕婦接受非產科手術時，要維持母體氧合、正常二氧化碳與子宮胎盤灌流。Permissive hypercapnia 可能造成胎兒酸中毒或影響 uteroplacental perfusion，不是常規原則。\n\n【選項詳解】\n- A. 孕婦麻醉應避免明顯高碳酸血症，維持接近正常 PaCO2；permissive hypercapnia 不適合作為常規處置，故為錯誤敘述。\n- B. 氣腹壓力過高會降低靜脈回流與子宮胎盤灌流，腹腔鏡時應盡量使用較低且足夠的壓力。\n- C. 過度頭低或頭高都可能影響呼吸力學與血流動力學，孕婦應避免極端姿勢。\n- D. 25 週已有胎兒存活可能性，術中或術前術後胎心監測應與產科團隊討論並執行可行方案。\n\n【核心考點】\n孕婦非產科手術重點是母體氧合、正常換氣、避免低血壓與過高氣腹壓；不要把 ARDS 的 permissive hypercapnia 直接套用。",
+      "key_point": "孕婦腹腔鏡麻醉不宜採 permissive hypercapnia。",
+      "flashcard_front": "孕婦非產科手術麻醉",
+      "flashcard_back": "維持氧合、接近正常 CO2、低氣腹壓、避免極端姿勢並考慮胎心監測。",
+      "flashcard_summary": "pregnancy anesthesia -> avoid permissive hypercapnia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問 labor epidural analgesia 何者錯誤。現代觀念不要求等子宮頸開 3 cm 才能施打；產婦有需求且無禁忌時可給予，早期施打不會因此必然增加剖腹產率。\n\n【選項詳解】\n- A. 第一產程疼痛主要來自子宮收縮與子宮頸擴張，傳入約 T10-L1，敘述正確。\n- B. 必須等到子宮頸口 3 cm 以上才可施打是過時觀念；不應因開指未達 3 cm 而延遲有效止痛，故為錯誤。\n- C. Epidural 持續到第二產程可能與第二產程延長、器械助產增加有關，需調整濃度與劑量。\n- D. Test dose 可協助偵測誤入血管或蜘蛛膜下腔，避免高位脊髓麻醉或局麻藥毒性。\n\n【核心考點】\n產痛硬脊膜外止痛不需等到 3 cm；第一產程 T10-L1，第二產程加上 S2-S4。",
+      "key_point": "Labor epidural 可依產婦需求施打，不必等子宮頸開 3 cm。",
+      "flashcard_front": "產痛 epidural 時機",
+      "flashcard_back": "無禁忌且產婦需要即可施打；3 cm 才能打是錯誤限制。",
+      "flashcard_summary": "labor epidural -> 不需等 3 cm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n癌症慢性疼痛需使用可長期、穩定、可調整的 opioid。Meperidine 代謝物 normeperidine 會累積造成神經毒性與癲癇風險，不適合長期使用，尤其不建議以靜脈 meperidine 作長期癌痛控制。\n\n【選項詳解】\n- A. Transdermal fentanyl 可用於穩定慢性癌痛，尤其已使用 opioid 且需要長效控制者。\n- B. Oral morphine 是癌症疼痛長期控制的典型選項，可用速效與長效劑型調整。\n- C. Intravenous meperidine 不適合長期癌痛用藥，因作用短、代謝物神經毒性及累積風險高。\n- D. Oral oxycodone 可作癌痛長期治療選項之一，依疼痛程度與副作用調整。\n\n【核心考點】\nMeperidine 不適合慢性癌痛長期使用；癌痛常用 oral morphine、oxycodone 或 transdermal fentanyl。",
+      "key_point": "癌痛長期用藥避免 meperidine，尤其 IV meperidine。",
+      "flashcard_front": "癌症疼痛長期 opioid",
+      "flashcard_back": "常用 morphine、oxycodone、fentanyl patch；避免 meperidine。",
+      "flashcard_summary": "cancer pain -> meperidine not for long-term",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\nBerlin definition 的 ARDS 包含：一週內發生、雙側肺部浸潤、非心衰或輸液過多完全解釋、且在 PEEP/CPAP >=5 下依 PaO2/FiO2 分輕中重度。\n\n【選項詳解】\n- A. 一週內出現已知臨床事件或新的/惡化呼吸症狀，是 Berlin definition 的時間條件。\n- B. PaO2/FiO2 <=300 是 ARDS 氧合條件，但重度是 <=100；<=300 包含輕度到重度。\n- C. ARDS 不能由左心衰竭或液體過多完全解釋；初期常合併左心室衰竭不是診斷條件。\n- D. 影像應為雙側混濁陰影，不能用單側左肺浸潤作為典型描述。\n\n【核心考點】\nARDS Berlin definition：一週內、雙側浸潤、非心衰完全解釋、PaO2/FiO2 <=300 且需 PEEP/CPAP 條件。",
+      "key_point": "ARDS Berlin 定義的時間條件是一週內發生或惡化。",
+      "flashcard_front": "ARDS Berlin definition",
+      "flashcard_back": "一週內、雙側浸潤、非心因性為主、PaO2/FiO2 分級。",
+      "flashcard_summary": "ARDS -> Berlin definition timing within 1 week",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\nOCT 主要提供黃斑部與視網膜/脈絡膜的橫切面結構，適合看高度近視的黃斑裂孔、脈絡膜新生血管相關變化、後葡萄腫造成的黃斑牽引等。格子狀退化位於周邊視網膜，主要靠散瞳眼底檢查，不是 OCT 的主要用途。\n\n【選項詳解】\n- A. 黃斑裂孔位於黃斑中心，OCT 可直接看全層或部分厚度裂孔，是主要檢查。\n- B. 格子狀退化多在周邊視網膜，OCT 臨床上不是主要檢查工具，因此為除外。\n- C. 脈絡膜新生血管會影響黃斑結構，OCT/OCT-A 可協助評估積液與病灶。\n- D. 高度近視後葡萄腫可伴隨黃斑牽引或劈裂，OCT 有助於評估後極部病變。\n\n【核心考點】\nOCT 強在黃斑與後極部橫切面；周邊 lattice degeneration 主要靠散瞳眼底檢查。",
+      "key_point": "OCT 不是格子狀退化的主要檢查。",
+      "flashcard_front": "高度近視 OCT 除外",
+      "flashcard_back": "黃斑裂孔、CNV、後極部病變適合 OCT；lattice degeneration 多靠周邊眼底檢查。",
+      "flashcard_summary": "OCT -> macula/posterior pole, not peripheral lattice",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

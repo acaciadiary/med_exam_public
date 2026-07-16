@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n會陰裂傷分級：第 1 度皮膚/陰道黏膜；第 2 度會陰肌肉但未傷肛門括約肌；第 3 度傷肛門括約肌，3a 是 external anal sphincter 小於 50% 厚度撕裂；第 4 度延伸至 anorectal mucosa。\n\n【選項詳解】\n- A. 第 1 度只傷及 vaginal epithelium 或 perineal skin，正確。\n- B. 第 2 度傷及 perineal muscles，但 anal sphincter complex 完整，正確。\n- C. 3a 不是小於 1/3，而是小於 50% external anal sphincter thickness，故此敘述錯誤。\n- D. 第 4 度包括 anal sphincter complex 並延伸到 anorectal mucosa，描述正確。\n\n【核心考點】\nOASIS 分級：3a 是 EAS 厚度小於 50%，不是小於 1/3。",
+      "key_point": "第 3a 度會陰裂傷為 EAS 小於 50% 撕裂。",
+      "flashcard_front": "會陰裂傷分級",
+      "flashcard_back": "1皮膚黏膜、2會陰肌、3括約肌、4直腸黏膜；3a <50% EAS。",
+      "flashcard_summary": "perineal tear -> 3a <50% EAS",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n剖腹產相較自然產常見風險包括出血、感染、血栓、麻醉與手術相關傷害；但骨盆底肌肉受損較常與陰道生產、產鉗或難產相關。題目問剖腹產潛在合併症何者錯誤。\n\n【選項詳解】\n- A. 剖腹產為手術，平均出血量通常較自然產多，正確。\n- B. 手術、產褥期與活動減少會增加靜脈血栓風險，正確。\n- C. 有糖尿病或血栓風險者需考慮胰島素或抗凝血劑銜接，正確。\n- D. 骨盆底肌肉受損機會較高是陰道生產較典型，剖腹產相對有保護效果，因此此敘述錯誤。\n\n【核心考點】\n剖腹產增加手術出血、感染與血栓風險；骨盆底受損較偏陰道生產風險。",
+      "key_point": "剖腹產不會比自然產更容易造成骨盆底肌肉受損。",
+      "flashcard_front": "剖腹產合併症除外",
+      "flashcard_back": "C/S: bleeding, VTE, surgical risks; pelvic floor injury more vaginal delivery。",
+      "flashcard_summary": "cesarean complications -> pelvic floor injury less typical",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n產褥熱是產後發燒的臨床問題，產後第一天發燒常見原因可為脫水、肺不張、藥物、脹奶等；骨盆腔感染通常較常在產後 2-3 天後出現，不能說自然產產後第一天超過一半是骨盆腔細菌感染。\n\n【選項詳解】\n- A. 產褥熱一般以產後體溫超過 38 度作為重要門檻，敘述可接受。\n- B. 自然產產後第一天發燒超過一半為骨盆腔細菌感染此說法過度，故為錯誤。\n- C. 高燒、spiking fever、病程快速惡化時需警覺 A 型鏈球菌等嚴重感染。\n- D. 脹奶可造成產後發燒，是產褥熱鑑別之一。\n\n【核心考點】\n產後第一天發燒不等於多數骨盆腔感染；產褥感染常在產後數日較典型。",
+      "key_point": "自然產產後第一天發燒不應直接認定多數為骨盆腔感染。",
+      "flashcard_front": "產褥熱錯誤敘述",
+      "flashcard_back": "postpartum day 1 fever often non-pelvic; pelvic infection later more likely。",
+      "flashcard_summary": "puerperal fever -> day 1 not mostly pelvic infection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\nSMA 是常染色體隱性運動神經元疾病，大多與 5q13.2 的 SMN1 基因缺失或突變相關。新生兒篩檢與帶因篩檢日益重要，並非只有孕婦有症狀才檢驗。\n\n【選項詳解】\n- A. 多數 SMA 由染色體 5q13.2 上 SMN1 基因異常造成，正確。\n- B. SMA 不代表多數胎兒第三孕期胎死腹中；臨床嚴重度從嬰兒期重症到成人型不等。\n- C. 即使發生率不高，帶因篩檢與新生兒篩檢有其價值，不是等孕婦肌無力才檢驗。\n- D. SMA 不是以胎兒股骨過短作為典型超音波特徵。\n\n【核心考點】\nSMA 經典基因位置是 5q13.2 SMN1；不是以孕婦症狀或胎兒短股骨診斷。",
+      "key_point": "SMA 多由 5q13.2 的 SMN1 基因突變或缺失造成。",
+      "flashcard_front": "SMA 遺傳",
+      "flashcard_back": "autosomal recessive, SMN1 on 5q13.2。",
+      "flashcard_summary": "SMA -> SMN1 5q13.2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n剖腹產預防性抗生素通常術前單次給藥。若盤尼西林/頭孢嚴重過敏，可用 clindamycin 加 aminoglycoside 作替代。本題產婦體重未達需高劑量 cefazolin 的情況且有過敏史。\n\n【選項詳解】\n- A. Cefazolin 是常用第一線，但盤尼西林過敏尤其若擔心立即型過敏時不選，且 1.5 mg 劑量也不合理。\n- B. Gentamycin 單用缺乏足夠厭氧與革蘭陽性覆蓋，不適合作剖腹產預防單方。\n- C. Clindamycin 合併 gentamycin 可覆蓋革蘭陽性、厭氧與部分革蘭陰性菌，是過敏病人的合適替代方案。\n- D. Ceftriaxone 每 12 小時不是剖腹產術前預防感染的標準單次預防策略。\n\n【核心考點】\n剖腹產預防抗生素：cefazolin 為常用；嚴重 beta-lactam 過敏可用 clindamycin + gentamicin。",
+      "key_point": "盤尼西林過敏剖腹產預防感染可用 clindamycin + gentamycin。",
+      "flashcard_front": "剖腹產預防抗生素",
+      "flashcard_back": "beta-lactam allergy -> clindamycin plus gentamicin。",
+      "flashcard_summary": "C/S prophylaxis allergy -> clindamycin + gentamicin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n題目問並非哺乳禁忌。HCV 感染通常不是哺乳禁忌，除非乳頭破裂出血需暫停該側或依情況處理；化療、HIV、未治療開放性肺結核則需避免或暫停直接哺乳。\n\n【選項詳解】\n- A. 產婦正在接受化學治療時，藥物可能經乳汁影響嬰兒，是哺乳禁忌或需停止。\n- B. C 型肝炎感染本身不是哺乳禁忌，病毒不主要透過乳汁傳播，因此為答案。\n- C. HIV 感染在可取得安全替代餵食的環境通常不建議哺乳，以避免垂直傳播。\n- D. 未治療開放性肺結核有傳染風險，治療前不宜直接哺乳接觸嬰兒。\n\n【核心考點】\nHCV 不是一般哺乳禁忌；HIV、化療、未治療開放性 TB 則需避免或暫停。",
+      "key_point": "C 型肝炎感染不是產後哺乳禁忌。",
+      "flashcard_front": "哺乳禁忌除外",
+      "flashcard_back": "HCV may breastfeed unless nipple bleeding; HIV/chemo/untreated TB avoid。",
+      "flashcard_summary": "breastfeeding -> HCV not contraindication",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nWhite classification 中，妊娠期間才診斷的 GDM 依是否需藥物分 A1 與 A2。A1 是飲食控制即可；A2 需要藥物。題目空腹 95、飯後 2 小時 115 且飲食控制，屬 A1。\n\n【選項詳解】\n- A. A1 代表妊娠糖尿病以飲食控制即可，符合題幹。\n- B. A2 代表需要胰島素或藥物控制，題目未需要藥物。\n- C. B 類通常指孕前已存在、發病年齡或病程符合特定條件的糖尿病，不是單純 GDM 飲食控制。\n- D. C 類也屬孕前糖尿病分類，與本題初次妊娠診斷不符。\n\n【核心考點】\nGDM White classification：A1 飲食控制，A2 需藥物。",
+      "key_point": "妊娠糖尿病飲食控制即可為 White A1。",
+      "flashcard_front": "White classification GDM",
+      "flashcard_back": "A1 diet controlled; A2 medication required。",
+      "flashcard_summary": "GDM -> White A1 if diet controlled",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\nCongenital Zika syndrome 最嚴重與最具代表性的異常是中樞神經系統，尤其小頭症、腦鈣化、皮質發育異常與神經發展障礙。\n\n【選項詳解】\n- A. 腦部是先天性茲卡症最嚴重、最典型受影響器官系統。\n- B. 肺臟不是 congenital Zika syndrome 的主要靶器官。\n- C. 心臟異常不是此症候群的核心嚴重表現。\n- D. 可有關節攣縮等表現，但最嚴重與最典型仍是腦部與神經發育異常。\n\n【核心考點】\nZika 垂直感染最重要是 fetal brain injury：microcephaly、intracranial calcification、neurodevelopmental impairment。",
+      "key_point": "先天性茲卡症最嚴重異常在腦部。",
+      "flashcard_front": "congenital Zika syndrome",
+      "flashcard_back": "most severe abnormalities involve fetal brain/CNS。",
+      "flashcard_summary": "Zika -> fetal brain abnormalities",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n32+5 週 PPROM 且無羊膜腔感染時，處置包含住院觀察、抗生素延長潛伏期、GBS 預防、34 週前皮質類固醇促肺成熟。Tocolytics 在 PPROM 通常不常規建議，可能增加感染風險，僅非常短期特定目的才考慮。\n\n【選項詳解】\n- A. GBS prophylaxis 需依篩檢或風險處理，是合理治療。\n- B. 宮縮抑制劑在 PPROM 不建議常規使用，尤其無明確短期目標時最不建議。\n- C. 34 週前使用 corticosteroid 可促進胎肺成熟，降低新生兒併發症。\n- D. 抗生素可延長 latency 並降低感染與新生兒風險，是 PPROM 常規處置之一。\n\n【核心考點】\nPPROM 未感染：抗生素、GBS prophylaxis、34 週前 steroid；tocolytics 不常規使用。",
+      "key_point": "PPROM 32+5 週最不建議常規使用 tocolytics。",
+      "flashcard_front": "PPROM management",
+      "flashcard_back": "latency antibiotics + steroids + GBS prophylaxis; avoid routine tocolysis。",
+      "flashcard_summary": "PPROM -> no routine tocolytics",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n卵巢子宮內膜異位瘤手術中，囊腫剝除 excisional surgery 相較單純引流/燒灼可降低復發並改善疼痛與自然懷孕機會，但可能影響卵巢儲備。題目問最不適當。\n\n【選項詳解】\n- A. Endometrioma 常與骨盆側壁、卵巢窩或周邊組織沾黏，正確。\n- B. Excisional surgery 通常降低復發機率，不是增加復發機率，因此最不適當。\n- C. 骨盆側壁沾黏或解剖變形時，腹腔鏡手術可能傷及輸尿管，需辨認走向。\n- D. 適當 excision 可改善後續自然懷孕機會，但需平衡卵巢功能損失。\n\n【核心考點】\nEndometrioma cystectomy/excision 通常降低復發並改善自然懷孕機會，但需避免輸尿管與卵巢儲備傷害。",
+      "key_point": "Endometrioma excisional surgery 不會增加復發，通常降低復發。",
+      "flashcard_front": "卵巢子宮內膜異位瘤手術",
+      "flashcard_back": "excision lowers recurrence and may improve fertility; watch ureter/ovarian reserve。",
+      "flashcard_summary": "endometrioma -> excision reduces recurrence",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

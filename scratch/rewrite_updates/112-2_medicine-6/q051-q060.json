@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n2008 FIGO 子宮內膜癌手術分期不再把 positive peritoneal cytology 單獨納入分期，但仍應記錄，因可能有預後意義。肌層侵犯、淋巴結與膀胱侵犯都會影響期別。\n\n【選項詳解】\n- A. 肌層侵犯深度決定 IA/IB 等分期，會影響期別。\n- B. Positive peritoneal cytology 在 2008 FIGO 不改變手術期別，因此為答案。\n- C. 骨盆腔淋巴結陽性屬 stage IIIC1，會影響期別。\n- D. 膀胱侵犯屬局部進展 stage IVA，會影響期別。\n\n【核心考點】\n2008 FIGO endometrial cancer：腹腔細胞學陽性需記錄但不改變分期。",
+      "key_point": "Positive peritoneal cytology 不影響 2008 FIGO 子宮內膜癌期別。",
+      "flashcard_front": "endometrial cancer FIGO 2008",
+      "flashcard_back": "peritoneal cytology no longer changes stage; nodes/bladder/myometrium do。",
+      "flashcard_summary": "FIGO 2008 endometrial -> cytology not staging",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n子宮頸癌 FIGO 2018 納入影像與病理資訊，淋巴結轉移列為 IIIC；但子宮頸癌分期基本仍是臨床分期為主，不是主要以手術分期為依據。\n\n【選項詳解】\n- A. 2018 FIGO 可參考影像與病理結果，敘述正確。\n- B. 子宮頸癌不是主要以手術分期為依據，因此此敘述錯誤。\n- C. PET/CT 常用於評估骨盆腔外淋巴結或遠端轉移，正確。\n- D. 骨盆腔淋巴轉移在 2018 FIGO 屬 IIIC1，為第三期，正確。\n\n【核心考點】\n子宮頸癌 FIGO 2018 可用影像/病理補充分期，但不是以手術分期為主；淋巴結陽性為 IIIC。",
+      "key_point": "子宮頸癌分期不是主要以手術分期為依據。",
+      "flashcard_front": "子宮頸癌 FIGO 2018",
+      "flashcard_back": "imaging allowed; nodal disease stage IIIC; not primarily surgical staging。",
+      "flashcard_summary": "cervical cancer staging -> not surgical staging",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n子宮頸小細胞癌是罕見但高度惡性的神經內分泌癌，早期即容易淋巴與遠端轉移，預後比一般鱗狀上皮癌差，常需含 platinum/etoposide 類似小細胞癌策略的多模式治療。\n\n【選項詳解】\n- A. 子宮頸小細胞癌多為原發子宮頸神經內分泌癌，不是 60% 由肺部轉移。\n- B. 治療常用 platinum/etoposide 概念；carboplatin/paclitaxel 不是此題最典型配方。\n- C. 遠端轉移比例高於一般鱗狀上皮癌，符合其高侵襲性。\n- D. 肥胖或雌激素使用較與子宮內膜癌 type I 相關，不是子宮頸小細胞癌主因。\n\n【核心考點】\n子宮頸小細胞癌侵襲性高、遠端轉移多，治療常採 platinum-based chemotherapy。",
+      "key_point": "子宮頸小細胞癌遠端轉移比例高於鱗狀上皮癌。",
+      "flashcard_front": "子宮頸小細胞癌",
+      "flashcard_back": "aggressive neuroendocrine carcinoma; distant metastasis common。",
+      "flashcard_summary": "cervical small cell carcinoma -> high distant metastasis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nOHSS 預防重點是降低卵巢刺激強度、使用 GnRH antagonist cycle 時以 GnRH agonist trigger 替代 hCG、使用 cabergoline、freeze-all 等。植入兩個胚胎不會預防 OHSS，懷孕反而可能延長或加重 OHSS。\n\n【選項詳解】\n- A. 降低 gonadotropin 劑量可減少過度卵巢反應，是預防方法。\n- B. Antagonist protocol 中用 GnRH agonist trigger 可減少 hCG 造成的 OHSS 風險。\n- C. 植入兩個胚胎不是 OHSS 預防方法，且多胎/懷孕相關 hCG 可能使 OHSS 更嚴重。\n- D. Cabergoline 可降低 VEGF-mediated vascular permeability，是預防高風險 OHSS 的方法之一。\n\n【核心考點】\nOHSS 預防：減少刺激、agonist trigger、cabergoline、freeze-all；胚胎植入數不是預防手段。",
+      "key_point": "植入兩個胚胎不是預防 OHSS 的方法。",
+      "flashcard_front": "OHSS prevention",
+      "flashcard_back": "reduce gonadotropin, GnRH agonist trigger, cabergoline; not two-embryo transfer。",
+      "flashcard_summary": "OHSS -> embryo transfer number not prevention",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n女性生殖細胞在胎兒期完成 oogonium 增殖並進入減數分裂，出生時多為停在 prophase I 的 primary oocytes。青春期後每週期部分濾泡受 FSH 影響發育，排卵時排出的是 secondary oocyte，需受精後才完成第二次減數分裂。\n\n【選項詳解】\n- A. 卵原細胞在出生前大多已進入初級卵母細胞狀態並停在 meiosis I，為正確核心。\n- B. Primordial follicle 是 primary oocyte 由扁平濾泡細胞包圍；primary follicle 形成時序與敘述用語不精確。\n- C. 初級濾泡早期發育不完全依賴 FSH；FSH 主要促進後續 antral follicle 成長與選擇。\n- D. 排卵時排出 secondary oocyte，停在 meiosis II metaphase，受精後才完成第二次減數分裂。\n\n【核心考點】\n出生時卵細胞多為 primary oocyte 停在 meiosis I；排卵排出 secondary oocyte，受精後完成 meiosis II。",
+      "key_point": "卵原細胞出生前已進入初級卵母細胞。",
+      "flashcard_front": "卵細胞發育",
+      "flashcard_back": "oogonia -> primary oocytes before birth; ovulation releases secondary oocyte。",
+      "flashcard_summary": "oogenesis -> primary oocytes before birth",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nRotterdam criteria 診斷 PCOS 需三項取二：寡排卵/無排卵、臨床或生化高雄性素、多囊性卵巢型態，並排除其他疾病。胰島素阻抗常見但不是診斷條件之一。\n\n【選項詳解】\n- A. 寡經或無月經反映寡排卵/無排卵，是診斷條件。\n- B. 高雄性素或其臨床表現如多毛、痤瘡，是診斷條件。\n- C. 胰島素阻抗與 PCOS 代謝風險密切相關，但不是 Rotterdam 診斷條件，因此為答案。\n- D. 超音波多囊性卵巢型態是診斷條件之一。\n\n【核心考點】\nPCOS Rotterdam：oligo/anovulation、hyperandrogenism、polycystic ovaries 三取二；insulin resistance 不是條件。",
+      "key_point": "胰島素阻抗不是 Rotterdam PCOS 診斷條件。",
+      "flashcard_front": "PCOS Rotterdam criteria",
+      "flashcard_back": "2 of 3: oligo/anovulation, hyperandrogenism, polycystic ovaries。",
+      "flashcard_summary": "PCOS -> insulin resistance not diagnostic criterion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nPOP-Q 用固定量測點描述骨盆器官脫垂：Aa、Ba、C、D、Ap、Bp，加上 genital hiatus、perineal body、total vaginal length。突出 hymen 外記正值，hymen 內側記負值。\n\n【選項詳解】\n- A. POP-Q 包含 A、B、C、D 點、genital hiatus、perineal body 與陰道總長等描述，是正確概念。\n- B. 突出 hymen 外應記為正號，不是負號。\n- C. 子宮頸/子宮脫垂程度主要看 C 點，不是 Aa 點。\n- D. 膀胱前壁脫垂看 anterior compartment 的 Aa/Ba，不是 C 點。\n\n【核心考點】\nPOP-Q：hymen 為 0，外側正、內側負；C 點看 cervix/apex，Aa/Ba 看前壁。",
+      "key_point": "POP-Q 包含 Aa/Ba/C/D/Ap/Bp 與 gh、pb、TVL。",
+      "flashcard_front": "POP-Q",
+      "flashcard_back": "outside hymen positive; C is cervix/apex; Aa/Ba anterior wall。",
+      "flashcard_summary": "POP-Q -> outside hymen positive",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nBrunnstrom 中風復健分期：I 無動作，II 開始痙攣與 synergy，III 痙攣達高峰且 voluntary synergy，IV 開始出現脫離 synergy 的動作且痙攣下降，V 更複雜動作，VI 痙攣接近消失。\n\n【選項詳解】\n- A. Stage II 是痙攣開始出現與 basic synergy 開始，不是獨立動作較明顯。\n- B. Stage III 是痙攣高峰與 synergy pattern 主導。\n- C. Stage IV 開始有部分 independent movement，肌張力開始下降，符合題幹。\n- D. Stage V 是更複雜、較多脫離 synergy 的動作，不是題幹所指開始階段。\n\n【核心考點】\nBrunnstrom IV：開始脫離 synergy 的獨立動作，spasticity 開始下降。",
+      "key_point": "開始有獨立動作且肌張力下降是 Brunnstrom stage IV。",
+      "flashcard_front": "Brunnstrom stage",
+      "flashcard_back": "stage IV begins movements out of synergy with decreasing spasticity。",
+      "flashcard_summary": "Brunnstrom -> stage IV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n老化肌肉常見 sarcopenia：肌肉量與肌力/爆發力下降，近端與下肢功能影響明顯，type II fast-twitch fibers 較易萎縮。上肢比下肢明顯不符合常見功能衰退模式。\n\n【選項詳解】\n- A. 肌力減少通常下肢比上肢更影響功能且較明顯；說上肢比下肢明顯最不適當。\n- B. 肌肉量減少是老化肌肉核心變化。\n- C. 近端肌群功能下降常較遠端明顯，影響起立、爬樓梯等活動。\n- D. Type II 肌纖維較易萎縮，造成速度與爆發力下降。\n\n【核心考點】\nAging muscle：muscle mass/power 下降、type II fiber atrophy、下肢與近端功能影響重要。",
+      "key_point": "老年肌力下降通常不是上肢比下肢更明顯。",
+      "flashcard_front": "aging muscle",
+      "flashcard_back": "sarcopenia affects mass/power; type II fibers and lower limb function decline。",
+      "flashcard_summary": "aging muscle -> lower limb/type II more affected",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nCentral cord syndrome 多見於老年人頸椎退化狹窄後過伸傷害，造成上肢比下肢無力更明顯，且下肢恢復通常較好。它不一定需要骨折脫位，反而常可在無明顯骨折脫位下發生。\n\n【選項詳解】\n- A. 中髓症候群最常發生於頸髓，正確。\n- B. 常因脊椎骨折脫位造成較像其他嚴重脊髓損傷；central cord 常見於頸椎狹窄加過伸傷害且可無骨折，故此敘述最不適當。\n- C. 老年人跌倒造成頸部過伸是典型情境。\n- D. 下肢功能通常比上肢恢復較好，因上肢受影響較重。\n\n【核心考點】\nCentral cord syndrome：老年頸椎狹窄過伸傷害、上肢弱於下肢、可無骨折脫位。",
+      "key_point": "Central cord syndrome 不一定由骨折脫位造成。",
+      "flashcard_front": "central cord syndrome",
+      "flashcard_back": "cervical hyperextension in elderly; upper limb worse than lower limb。",
+      "flashcard_summary": "central cord -> hyperextension, no fracture often",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

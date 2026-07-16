@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題官方為全給分。鼻竇發育的常考概念是：上頜竇與篩竇出生時即已存在，額竇與蝶竇較晚氣化並在兒童期到青春期逐步發育；不同教材對「開始氣化」與「完成發育」表述容易造成爭議。\n\n【選項詳解】\n- A. 額竇通常不是最早開始氣化的鼻竇；上頜竇、篩竇較早可見。因此若單純問最早，A 可能有爭議。\n- B. 篩竇小室出生後仍會發育與氣化，不能說數量不再增加。\n- C. 上頜竇出生時已存在，兒童期逐步變大，青春期也會再明顯增長；視教材語意可能部分可接受。\n- D. 蝶竇發育較晚，但是否同時是最晚開始且最晚完成，需看題目定義；本題官方全給分，應保留異常計分狀態。\n\n【核心考點】\n鼻竇發育題要分清楚出生即存在、開始氣化與完成發育；本題官方 all_credit，不宜改成單一答案。",
+      "key_point": "鼻竇發育題官方全給分，題解保留爭議。",
+      "flashcard_front": "鼻竇發育 all_credit",
+      "flashcard_back": "上頜竇/篩竇較早；額竇/蝶竇較晚；本題全給分。",
+      "flashcard_summary": "sinus development -> all_credit",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方 answer_status 為 all_credit；不同教材對鼻竇氣化時序表述可能造成爭議。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n過敏性鼻炎常見 allergic shiners、Dennie-Morgan lines、allergic salute 造成鼻尖上橫紋、蒼白水腫鼻黏膜與清水鼻涕。本題問理學檢查正確現象。\n\n【選項詳解】\n- A. 常見是下眼瞼暗沉或 allergic shiners，不是顏色反白。\n- B. 鼻尖上橫紋 transverse supratip nasal crease 來自反覆用手上推鼻子，是典型過敏性鼻炎體徵。\n- C. 過敏性鼻炎不會造成縮短的眼睫毛，這不是典型體徵。\n- D. Dennie-Morgan folds 是下眼瞼皺褶，不是上眼瞼皺褶。\n\n【核心考點】\n過敏性鼻炎體徵：allergic shiners、Dennie-Morgan lower lid folds、transverse nasal crease。",
+      "key_point": "鼻尖上橫紋是過敏性鼻炎的典型理學檢查發現。",
+      "flashcard_front": "過敏性鼻炎體徵",
+      "flashcard_back": "allergic salute -> transverse supratip nasal crease。",
+      "flashcard_summary": "allergic rhinitis -> nasal crease",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n題目問軟式與硬式喉內視鏡何者錯誤，官方狀態為 multiple_correct，代表可能接受不只一個錯誤敘述。判斷重點是檢查方式、麻醉需求、診斷與治療用途，以及影像解析度。\n\n【選項詳解】\n- A. 軟式喉內視鏡經鼻或口觀察喉部，通常歸類為間接喉鏡；硬式內視鏡若指門診 rigid laryngoscopy，也常仍是間接觀察，不等於全身麻醉下直接喉鏡，因此此敘述有爭議。\n- B. 若把硬式喉鏡解讀為手術用直接喉鏡，常需全麻；但門診硬式喉內視鏡也可局麻進行，所以此敘述也可能過度絕對。\n- C. 軟式喉內視鏡不僅能診斷，也可做部分處置或導引；說僅能局限於診斷用途過度狹窄。\n- D. 現代軟式與硬式內視鏡皆可提供高解析影像，這個敘述較合理。\n\n【核心考點】\n喉內視鏡題要辨認 rigid 門診檢查與 direct laryngoscopy 手術語境；官方 multiple_correct 時需保留可爭議選項。",
+      "key_point": "軟式喉內視鏡不只限於診斷；硬式是否需全麻要看語境。",
+      "flashcard_front": "喉內視鏡 multiple_correct",
+      "flashcard_back": "A/C 都有錯誤或爭議；D 較正確。",
+      "flashcard_summary": "laryngoscopy -> flexible diagnostic/therapeutic nuance",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方 answer_status 為 multiple_correct；題目對硬式喉鏡語境可能有歧義，保留人工複核。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n氣管切開術相較長期經喉插管，可降低氣道阻力與死腔、增加病人舒適度、利於口腔照護與分泌物清除，也可減少喉部傷害。本題問不是優點。\n\n【選項詳解】\n- A. 氣管切開通常減少上呼吸道無效腔，不是增加 dead space，因此不是優點。\n- B. 在適當病人可利於呼吸器脫離與照護，可能縮短 ICU 或住院時程。\n- C. 避免長期管路通過聲門，可降低聲帶、聲門下與氣管局部傷害。\n- D. 氣切可使用較短且相對較大管徑的管路，減少阻力並利於抽痰。\n\n【核心考點】\n氣管切開優點包括減少 dead space/阻力、利於照護與降低喉部傷害；增加 dead space 不是優點。",
+      "key_point": "氣切不是增加 dead space，而是減少上呼吸道無效腔。",
+      "flashcard_front": "氣管切開優點除外",
+      "flashcard_back": "減少 dead space、降低喉部傷害、利於抽痰；A 錯。",
+      "flashcard_summary": "tracheostomy -> decreases dead space",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n上喉神經外支支配 cricothyroid muscle。該肌負責拉長、拉緊聲帶以產生高音；甲狀腺手術傷到此神經會造成高音困難、聲音疲乏。\n\n【選項詳解】\n- A. Vocalis muscle 主要由 recurrent laryngeal nerve 支配，不是上喉神經外支主要支配。\n- B. Cricothyroid muscle 由 external branch of superior laryngeal nerve 支配，因此受影響最大。\n- C. Posterior cricoarytenoid 是唯一主要外展聲帶的肌肉，由 recurrent laryngeal nerve 支配。\n- D. Lateral cricoarytenoid 內收聲帶，也由 recurrent laryngeal nerve 支配。\n\n【核心考點】\nExternal branch of superior laryngeal nerve 支配 cricothyroid；其他多數喉內肌由 recurrent laryngeal nerve 支配。",
+      "key_point": "上喉神經外支傷害主要影響 cricothyroid muscle。",
+      "flashcard_front": "上喉神經外支",
+      "flashcard_back": "external superior laryngeal nerve -> cricothyroid -> high pitch。",
+      "flashcard_summary": "EBSLN injury -> cricothyroid",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n口腔癌術後輔助治療中，positive margin 與 extranodal extension 是最明確需要 postoperative chemoradiotherapy 的高危險因子。T3/T4、PNI、LVI 常支持術後放射治療，但不一定都需同步化療。\n\n【選項詳解】\n- A. 陽性切緣代表仍可能有殘餘腫瘤，是術後同步化學放射治療的典型高危險因子。\n- B. T3/T4 是高復發風險，常需術後放療評估，但單獨存在時不如 positive margin 明確指向同步化放療。\n- C. 神經侵犯是中高風險因子，常考慮術後放療，但不是最典型的同步化療指標。\n- D. 淋巴血管侵犯增加復發與轉移風險，常支持放療，但同步化療通常看 positive margin 或 extranodal extension。\n\n【核心考點】\n頭頸癌術後 concurrent chemoradiotherapy 最強指標：positive margin、extranodal extension。",
+      "key_point": "口腔癌術後陽性切緣建議同步化學放射治療。",
+      "flashcard_front": "口腔癌術後 CCRT",
+      "flashcard_back": "positive margin/ENE -> CCRT；PNI/LVI/T3-4 多偏 adjuvant RT 風險因子。",
+      "flashcard_summary": "oral cancer postop -> positive margin CCRT",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n唾液腺良性腫瘤中 pleomorphic adenoma 最常見，但治療不能只做 enucleation，因易復發且有惡性轉化風險；Warthin tumor 與抽菸男性相關，別名 papillary cystadenoma lymphomatosum。\n\n【選項詳解】\n- A. Pleomorphic adenoma 最常見沒錯，但主要治療通常是腮腺淺葉切除或適當切除，不是單純 enucleation，因此整句錯。\n- B. Pleomorphic adenoma 有惡性轉化風險，年輕成人通常不以長期觀察為首選。\n- C. Warthin tumor 常見於抽菸男性，但治療不以單純 enucleation 為典型主軸，需依位置與症狀處理。\n- D. Warthin tumor 又稱 papillary cystadenoma lymphomatosum，這是正確配對。\n\n【核心考點】\nPleomorphic adenoma 常見但不可單純剜除；Warthin tumor 與抽菸男性相關，別名 papillary cystadenoma lymphomatosum。",
+      "key_point": "Warthin tumor 又稱 papillary cystadenoma lymphomatosum。",
+      "flashcard_front": "唾液腺良性腫瘤",
+      "flashcard_back": "pleomorphic adenoma 最常見但非 enucleation；Warthin = papillary cystadenoma lymphomatosum。",
+      "flashcard_summary": "Warthin tumor -> papillary cystadenoma lymphomatosum",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n第一孕期藥物流產常用 mifepristone 加 misoprostol；misoprostol 單用也可作為方案。Methotrexate 加 misoprostol可用於某些早期妊娠終止或異位妊娠情境，但 mifepristone 加 methotrexate 不是實務建議組合。\n\n【選項詳解】\n- A. Misoprostol alone 可用，但效果通常低於 mifepristone 合併 misoprostol。\n- B. Mifepristone and misoprostol 是第一孕期藥物流產的標準有效組合。\n- C. Methotrexate and misoprostol 曾用於早期妊娠終止或特定情境，並非本題最不建議組合。\n- D. Mifepristone and methotrexate 機轉組合不符合常用實務，缺少促進子宮收縮排出的 prostaglandin，因此不建議。\n\n【核心考點】\n藥物流產標準組合是 mifepristone + misoprostol；不是 mifepristone + methotrexate。",
+      "key_point": "第一孕期終止妊娠不建議 mifepristone + methotrexate。",
+      "flashcard_front": "第一孕期藥物流產",
+      "flashcard_back": "標準：mifepristone + misoprostol；避免 mifepristone + methotrexate。",
+      "flashcard_summary": "medical abortion -> mifepristone + misoprostol",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n生命徵象穩定且未大量出血的子宮頸懷孕，首要目標是保留子宮並避免大出血。Methotrexate 是常用保守治療的一線選項；手術或栓塞多留給出血、治療失敗或特殊情況。\n\n【選項詳解】\n- A. Methotrexate 注射可抑制滋養層，適合穩定、早期、希望保留生育功能者，是優先考慮。\n- B. 子宮切除是最後手段，通常用於無法控制的大出血或保守治療失敗。\n- C. Cerclage followed by D&C 可能導致嚴重出血，不是穩定病人的多數優先處理。\n- D. 子宮動脈栓塞可作輔助或出血控制，但不是題目描述穩定無症狀時的第一優先。\n\n【核心考點】\n穩定子宮頸懷孕優先保守治療，常用 methotrexate；大出血才考慮侵入處置。",
+      "key_point": "穩定 cervical pregnancy 優先 methotrexate。",
+      "flashcard_front": "子宮頸懷孕處置",
+      "flashcard_back": "stable -> MTX；unstable/bleeding -> embolization/surgery as needed。",
+      "flashcard_summary": "cervical pregnancy -> methotrexate first",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n早期妊娠蛻膜中最豐富的免疫細胞是 uterine natural killer cells。它們參與滋養層侵襲、血管生成與螺旋動脈重塑，是母胎介面免疫調節的核心。\n\n【選項詳解】\n- A. 巨噬細胞存在於蛻膜並參與免疫調節，但數量通常少於 uterine NK cells。\n- B. 嗜中性球不是早期蛻膜中最多的免疫細胞。\n- C. 樹突細胞參與抗原呈現與免疫調節，但不是最多族群。\n- D. 自然殺手細胞，特別是 uterine NK cells，是早期蛻膜最主要免疫細胞，與螺旋動脈重塑密切相關。\n\n【核心考點】\n早期 decidua 最多免疫細胞是 uterine NK cell，功能是調控 trophoblast invasion 與 spiral artery remodeling。",
+      "key_point": "早期蛻膜中最多的是自然殺手細胞。",
+      "flashcard_front": "decidua immune cells",
+      "flashcard_back": "uterine NK cells predominate; regulate trophoblast invasion and spiral artery remodeling。",
+      "flashcard_summary": "decidua -> uterine NK cell",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

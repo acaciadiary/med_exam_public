@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/112-2/medicine-6.json",
+  "dataset_id": "112-2_medicine-6",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "112-2_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n腹腔鏡 CO2 氣體栓塞時，處置包含停止充氣、釋放腹腔氣體、給 100% 氧、循環支持、左側臥與頭低姿勢讓氣體滯留右心尖端，必要時由中央靜脈導管抽氣。右側臥不是典型建議姿勢。\n\n【選項詳解】\n- A. 抽吸或釋放腹腔內 CO2 可停止氣體繼續進入循環，是立即處置之一。\n- B. 右側躺不是典型 Durant maneuver；通常採左側臥加頭低，因此較少考慮。\n- C. 大孔徑中央靜脈導管若位置合適，可嘗試由右心抽吸氣體。\n- D. 頭低可讓氣體遠離右室流出道，配合左側臥較符合典型處置。\n\n【核心考點】\nCO2 embolism：stop insufflation、release gas、100% O2、left lateral decubitus + Trendelenburg、aspirate if possible。",
+      "key_point": "腹腔鏡 CO2 栓塞較不採右側臥，典型是左側臥頭低。",
+      "flashcard_front": "CO2 embolism position",
+      "flashcard_back": "Durant maneuver = left lateral decubitus + head down。",
+      "flashcard_summary": "CO2 embolus -> not right lateral",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n子宮肌瘤是良性平滑肌腫瘤，與 leiomyosarcoma 多被視為不同生物行為，肌瘤癌化成肉瘤非常罕見且不應當作一般自然病程。題目問最不適當。\n\n【選項詳解】\n- A. 一般不認為常見子宮肌瘤會癌化成 leiomyosarcoma；若出現肉瘤，多半不是由良性肌瘤逐步癌化而來，因此最不適當。\n- B. 肌瘤常為單株平滑肌細胞腫瘤，部分有染色體異常，敘述正確。\n- C. 雌激素與黃體素可促進肌瘤生長，故生育年齡常變大、停經後縮小。\n- D. 生長因子與 extracellular matrix 增加參與肌瘤生長，是合理病理機轉。\n\n【核心考點】\n子宮肌瘤是 estrogen/progesterone-sensitive monoclonal benign tumor；不要把 leiomyosarcoma 視為常規癌化結果。",
+      "key_point": "子宮肌瘤通常不會癌化成 leiomyosarcoma。",
+      "flashcard_front": "子宮肌瘤錯誤敘述",
+      "flashcard_back": "leiomyoma and leiomyosarcoma are generally distinct; hormones and ECM promote fibroid growth。",
+      "flashcard_summary": "fibroid -> not typical malignant transformation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nMRKH syndrome 是 Mullerian duct 發育異常，典型為 46,XX、卵巢功能正常、子宮與上段陰道發育不全。常合併泌尿系統與骨骼異常；本題原始選項 D 顯示為亂碼，但官方答案指向泌尿系統。\n\n【選項詳解】\n- A. 視覺異常不是 MRKH 常見合併系統。\n- B. 味覺異常不是 MRKH 的典型合併異常。\n- C. 嗅覺異常較讓人想到 Kallmann syndrome，不是 MRKH 的主要關聯。\n- D. MRKH 常合併腎臟或泌尿系統異常，例如單側腎缺如、異位腎或馬蹄腎；雖然此選項文字在來源檔疑似亂碼，仍符合官方答案方向。\n\n【核心考點】\nMRKH = Mullerian agenesis with normal ovaries; 常合併 renal/urinary tract anomalies。",
+      "key_point": "MRKH syndrome 常合併泌尿系統異常。",
+      "flashcard_front": "MRKH 合併異常",
+      "flashcard_back": "uterovaginal agenesis + renal anomalies; option D source text needs review。",
+      "flashcard_summary": "MRKH -> renal/urinary anomalies",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "來源檔第 43 題 D 選項顯示為亂碼；本次未修改選項文字，僅依官方答案方向撰寫題解。"
+      ]
+    },
+    {
+      "question_id": "112-2_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n子宮切除時輸尿管危險區包括骨盆上緣跨過髂血管處、子宮動脈下方 water under the bridge、靠近子宮頸與 cardinal ligament 處。位在 psoas muscle 上方較偏近端、較容易辨認，不是典型最易受傷位置。\n\n【選項詳解】\n- A. 輸尿管跨過骨盆上緣與髂血管附近是進入骨盆的重要辨認點，可能受傷。\n- B. 輸尿管穿過子宮動脈下方是婦科手術最經典危險區。\n- C. 靠近子宮頸與陰道穹窿處結紮、分離時也容易傷及輸尿管。\n- D. 在 psoas muscle 上的位置通常較高位且較可辨認，不是子宮切除時最典型易受傷位置。\n\n【核心考點】\n婦科手術輸尿管危險點：pelvic brim、under uterine artery、near cervix/cardinal ligament。",
+      "key_point": "腹腔鏡子宮切除時 psoas muscle 上不是典型輸尿管易傷位置。",
+      "flashcard_front": "子宮切除輸尿管危險區",
+      "flashcard_back": "water under the bridge and near cervix are high-risk; psoas segment less typical。",
+      "flashcard_summary": "hysterectomy ureter injury -> not psoas segment",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nPID 常見症狀與徵象包括下腹/骨盆腔疼痛、發燒、子宮頸位移痛、子宮或附件壓痛、陰道分泌物增加。血尿較指向泌尿道疾病，不是 PID 常見症狀。\n\n【選項詳解】\n- A. 骨盆腔疼痛是 PID 的主要症狀。\n- B. 發燒可出現在 PID，尤其較嚴重感染。\n- C. 子宮頸位移痛是 PID 重要理學檢查線索。\n- D. 血尿較常見於泌尿道感染、結石或泌尿系統病變，不是 PID 典型症狀。\n\n【核心考點】\nPID 診斷線索：pelvic pain、fever、cervical motion tenderness；hematuria 不是常見表現。",
+      "key_point": "血尿不是 PID 常見症狀。",
+      "flashcard_front": "PID 症狀除外",
+      "flashcard_back": "pelvic pain + fever + CMT; hematuria suggests urinary tract disease。",
+      "flashcard_summary": "PID -> not hematuria",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n先天性子宮異常與早期流產、反覆流產、早產與胎位不正有關。一般早期流產族群中先天性子宮異常比例約為 5-10%，反覆流產族群會更高。\n\n【選項詳解】\n- A. 1-5% 偏低，較接近一般族群部分估計，不是早期流產孕婦常考比例。\n- B. 5-10% 符合早期流產孕婦可能合併先天性子宮異常的常見考題答案。\n- C. 20-30% 偏高，較不像單次或一般早期流產族群。\n- D. 35-40% 過高，通常不是本題所問比例。\n\n【核心考點】\n早期流產中先天性子宮異常約 5-10%；反覆流產族群比例可更高。",
+      "key_point": "早期流產孕婦約 5-10% 有先天性子宮異常。",
+      "flashcard_front": "早期流產與子宮異常",
+      "flashcard_back": "uterine anomaly prevalence in early miscarriage around 5-10%。",
+      "flashcard_summary": "miscarriage -> uterine anomaly 5-10%",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\nPseudohermaphroditism 指染色體/性腺性別與外生殖器表現不一致，原因常與荷爾蒙合成、作用或受體異常有關。46,XX 女性假性陰陽人的卵巢通常為正常卵巢，不會因此比一般女性更大。\n\n【選項詳解】\n- A. 外生殖器表現與染色體性別不一致，是 pseudohermaphroditism 的核心概念。\n- B. 46,XY 男性假性陰陽人可有尿道下裂、陰莖發育不足或外生殖器模糊。\n- C. 46,XX 女性假性陰陽人常因雄性素暴露導致外生殖器男性化，但卵巢通常仍為女性卵巢，不是較大，因此錯誤。\n- D. 性荷爾蒙濃度異常或受體異常可造成性分化異常，敘述正確。\n\n【核心考點】\n46,XX pseudohermaphroditism 是外生殖器受雄性素影響，卵巢本身通常正常。",
+      "key_point": "女性假性陰陽人不代表卵巢較大。",
+      "flashcard_front": "pseudohermaphroditism",
+      "flashcard_back": "chromosomal/gonadal sex differs from external genitalia; hormone or receptor disorders。",
+      "flashcard_summary": "female pseudohermaphroditism -> ovaries not enlarged",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n反覆發作、多處疼痛性外陰潰瘍最典型是 genital herpes，由 HSV 引起。梅毒初期常是單一無痛性硬下疳；帶狀疱疹沿皮節；LGV 初期潰瘍常不明顯且後續淋巴結病變較突出。\n\n【選項詳解】\n- A. 梅毒初期典型為無痛性 chancre，與反覆疼痛性多處潰瘍不符。\n- B. 單純性疱疹會造成反覆、疼痛性群聚水泡或潰瘍，是最可能診斷。\n- C. 帶狀疱疹通常沿單側皮節分布，不以反覆外陰多處潰瘍為典型。\n- D. 花柳性淋巴肉芽腫常見短暫小潰瘍後出現疼痛淋巴結腫大，不是本題最典型。\n\n【核心考點】\n疼痛、反覆、多發 genital ulcers 要先想到 HSV；無痛硬下疳才偏 syphilis。",
+      "key_point": "反覆疼痛性外陰潰瘍最可能是單純性疱疹。",
+      "flashcard_front": "genital ulcer differential",
+      "flashcard_back": "painful recurrent multiple ulcers -> HSV; painless chancre -> syphilis。",
+      "flashcard_summary": "painful recurrent vulvar ulcer -> HSV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\nEndometrial cancer type I 多為 estrogen-related endometrioid carcinoma，前驅病灶是 atypical hyperplasia/EIN，預後較好。Type II 多為 serous/clear cell、高惡性度、與萎縮內膜及 p53 異常相關，前驅不是 atypical hyperplasia。\n\n【選項詳解】\n- A. Type I 多為 endometrioid type，正確。\n- B. Type I 通常較低 grade、預後較好，正確。\n- C. Atypical hyperplasia 是 type I 的 precursor，不是 type II，因此此敘述錯誤。\n- D. Type II 通常分化差、侵襲性高，正確。\n\n【核心考點】\nEndometrial cancer type I = endometrioid + atypical hyperplasia precursor；type II = serous/clear cell + high grade。",
+      "key_point": "Type II endometrial cancer 的 precursor 不是 atypical hyperplasia。",
+      "flashcard_front": "子宮內膜癌 type I/II",
+      "flashcard_back": "type I precursor atypical hyperplasia; type II high-grade serous/clear cell。",
+      "flashcard_summary": "endometrial cancer -> atypical hyperplasia type I",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "112-2_medicine-6_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n婦科腫瘤標記常考配對：choriocarcinoma 與 beta-hCG、yolk sac tumor 與 AFP、granulosa cell tumor 與 inhibin/AMH、上皮性卵巢癌與 CA-125。故正確配對是 granulosa cell tumor 與 AMH。\n\n【選項詳解】\n- A. Choriocarcinoma 主要標記是 beta-hCG，不是 LDH。\n- B. Yolk sac tumor 主要標記是 AFP，不是 beta-hCG。\n- C. Granulosa cell tumor 可分泌 inhibin 與 AMH，是正確配對。\n- D. Epithelial ovarian cancer 常用 CA-125；SCC antigen 較常與鱗狀細胞癌相關。\n\n【核心考點】\n腫瘤標記：choriocarcinoma beta-hCG、yolk sac AFP、granulosa inhibin/AMH、epithelial ovarian CA-125。",
+      "key_point": "Granulosa cell tumor 可用 AMH 作腫瘤標記。",
+      "flashcard_front": "婦科腫瘤標記",
+      "flashcard_back": "granulosa cell tumor -> inhibin/AMH。",
+      "flashcard_summary": "granulosa tumor -> AMH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
