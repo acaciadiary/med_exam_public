@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-4.json",
+  "dataset_id": "108-1_medicine-4",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-4_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n題目問臺灣現行新生兒代謝異常篩檢何者錯誤。採血通常需等出生滿48小時或餵奶滿24小時後，讓代謝物有足夠累積；若出生一天內就採檢，可能提高偽陰性風險。\n\n【選項詳解】\n- A. 錯誤，為本題答案。新生兒篩檢不是剛出生一天內就採腳跟血；太早採血時胺基酸、有機酸或脂肪酸代謝異常可能尚未表現出來。\n- B. 正確。串聯質譜儀（tandem mass spectrometry, MS/MS）可一次篩檢多種代謝物，是目前新生兒代謝異常篩檢的重要工具。\n- C. 正確。常見篩檢疾病包含胺基酸、有機酸與脂肪酸氧化代謝異常，這些正是MS/MS可偵測的核心類別。\n- D. 正確。低體重、早產、產程或新生兒狀況不穩都可能影響代謝物與採血品質，因此較容易出現偽陽性或需複檢。\n\n【核心考點】\n新生兒代謝異常篩檢通常等出生滿48小時或餵奶滿24小時後採血，不是在出生一天內立即採檢。",
+      "key_point": "新生兒代謝異常篩檢通常等出生滿48小時或餵奶滿24小時後採血，不是在出生一天內立即採檢。",
+      "flashcard_front": "新生兒代謝篩檢 / 採血時間 / 出生滿48小時 / MS/MS",
+      "flashcard_back": "新生兒代謝篩檢需等餵食與代謝物累積後採腳跟血；太早採檢可能造成偽陰性。MS/MS常用於胺基酸、有機酸、脂肪酸代謝異常篩檢。",
+      "flashcard_summary": "新生兒篩檢 -> 出生滿48小時或餵奶滿24小時後採血",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n題目要由家族圖判斷遺傳型態。男女都可罹病、可見同胞發病而父母多為未發病帶因者時，最典型是體染色體隱性遺傳；選項中Cooley anemia符合這個模式。\n\n【選項詳解】\n- A. 錯誤。軟骨發育不全多為體染色體顯性，常見FGFR3突變，與題幹暗示的隱性遺傳不合。\n- B. 正確。庫利氏貧血即重型乙型海洋性貧血，典型為體染色體隱性遺傳，父母常為帶因者。\n- C. 錯誤。Duchenne muscular dystrophy是X染色體聯鎖隱性遺傳，主要影響男孩，不符合男女皆可同等受影響的AR圖譜。\n- D. 錯誤。結節性硬化症多為體染色體顯性，也常有新生突變，不是本題最可能的隱性遺傳答案。\n\n【核心考點】\nCooley anemia屬體染色體隱性遺傳；DMD是X連鎖隱性，軟骨發育不全與結節性硬化症多為體染色體顯性。",
+      "key_point": "Cooley anemia屬體染色體隱性遺傳；DMD是X連鎖隱性，軟骨發育不全與結節性硬化症多為體染色體顯性。",
+      "flashcard_front": "家族譜 / AR遺傳 / Cooley anemia",
+      "flashcard_back": "男女皆可罹病、父母未病但子代發病，常指向體染色體隱性遺傳；庫利氏貧血是典型例子。",
+      "flashcard_summary": "遺傳模式 -> Cooley anemia為體染色體隱性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n15歲男生半夜突發單側睪丸劇痛、冒冷汗，急診首先要想到睪丸扭轉。睪丸扭轉是搶時間的缺血急症，若無法立刻以超音波確認，不應因等待檢查而延誤手術探查。\n\n【選項詳解】\n- A. 錯誤。抗生素適用於附睪睪丸炎等感染，但題幹急性劇痛與自主神經症狀更像扭轉，單給抗生素會延誤救睪。\n- B. 錯誤。睪丸切片不是急性陰囊疼痛的標準處置，且會延誤復位與固定。\n- C. 正確。高度懷疑睪丸扭轉且缺乏即時影像時，應緊急睪丸探查、復位並固定，以降低壞死風險。\n- D. 錯誤。睪丸切除只在探查發現睪丸已壞死不可挽回時才考慮，初始處置不是直接切除。\n\n【核心考點】\n青少年突發單側睪丸劇痛要先排除睪丸扭轉；影像不可得時應緊急手術探查。",
+      "key_point": "青少年突發單側睪丸劇痛要先排除睪丸扭轉；影像不可得時應緊急手術探查。",
+      "flashcard_front": "15歲 / 半夜睪丸劇痛 / 睪丸扭轉 / 急診處置",
+      "flashcard_back": "睪丸扭轉的救援時間很短；高度懷疑時不能等檢查，應緊急手術探查、復位與固定。",
+      "flashcard_summary": "急性睪丸扭轉 -> 不能延誤，優先手術探查",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n題目問脂漏性皮膚炎何者錯誤。脂漏性皮膚炎好發於皮脂腺豐富處，與Malassezia和發炎反應相關，因此外用抗黴菌藥物常有效，說不能有效治療是錯的。\n\n【選項詳解】\n- A. 正確。頭皮、眉毛、鼻翼兩側與耳後都是皮脂腺豐富區，符合脂漏性皮膚炎典型分布。\n- B. 正確。脂漏性皮膚炎可見於嬰兒乳痂，也可見於成人慢性反覆發作。\n- C. 錯誤，為本題答案。Ketoconazole等外用抗黴菌藥物可降低Malassezia相關發炎，常用且有效。\n- D. 正確。病程頑固、範圍廣或表現不尋常時，要想到免疫低下，包含HIV感染。\n\n【核心考點】\n脂漏性皮膚炎與Malassezia相關，外用抗黴菌藥物可有效治療；頑固不尋常時留意HIV。",
+      "key_point": "脂漏性皮膚炎與Malassezia相關，外用抗黴菌藥物可有效治療；頑固不尋常時留意HIV。",
+      "flashcard_front": "脂漏性皮膚炎 / Malassezia / ketoconazole / HIV",
+      "flashcard_back": "脂漏性皮膚炎好發皮脂腺豐富部位，嬰兒與成人都可發生；外用抗黴菌藥物常有效。",
+      "flashcard_summary": "脂漏性皮膚炎 -> 抗黴菌有效，頑固需想HIV",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n類天疱瘡是老年人常見的自體免疫表皮下水疱病。題目問錯誤敘述，『常發生於年輕人』與典型流行病學相反。\n\n【選項詳解】\n- A. 錯誤，為本題答案。Bullous pemphigoid典型好發於老年人，年輕族群相對少見。\n- B. 正確。早期可先出現搔癢、蕁麻疹樣紅斑，之後形成張力性水疱。\n- C. 正確。病理常見表皮下水疱，伴嗜伊紅球浸潤；免疫螢光可見基底膜帶沉積。\n- D. 正確。治療常以局部或全身性皮質類固醇為主，嚴重或頑固者可搭配免疫抑制治療。\n\n【核心考點】\nBullous pemphigoid好發老年人，為表皮下張力性水疱，常有嗜伊紅球浸潤。",
+      "key_point": "Bullous pemphigoid好發老年人，為表皮下張力性水疱，常有嗜伊紅球浸潤。",
+      "flashcard_front": "Bullous pemphigoid / 老年人 / 張力性水疱 / eosinophil",
+      "flashcard_back": "類天疱瘡好發老年人，早期可癢與蕁麻疹樣，病理表皮下水疱伴嗜伊紅球，Nikolsky sign多陰性。",
+      "flashcard_summary": "類天疱瘡 -> 老年人、表皮下水疱、嗜伊紅球",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n慢性搔癢丘疹加上Congo red染色陽性、偏光下蘋果綠雙折射，代表類澱粉蛋白沉積。皮膚局部慢性苔癬樣病灶最符合類澱粉性苔癬。\n\n【選項詳解】\n- A. 錯誤。點滴狀乾癬常為小滴狀鱗屑性紅斑，常與鏈球菌感染後相關，不會以Congo red類澱粉沉積作為診斷重點。\n- B. 錯誤。結節性癢疹可有劇癢結節，但病理核心是反覆搔抓造成的結節性變化，不是Congo red陽性類澱粉沉積。\n- C. 錯誤。扁平苔癬常見紫紅色扁平丘疹與Wickham striae，病理是介面皮膚炎，不是偏光雙折射的類澱粉。\n- D. 正確。類澱粉性苔癬可在真皮乳頭層有類澱粉沉積，Congo red染色與偏光雙折射支持診斷。\n\n【核心考點】\nCongo red陽性且偏光下蘋果綠雙折射代表類澱粉沉積；慢性癢疹樣皮膚病灶可指向lichen amyloidosis。",
+      "key_point": "Congo red陽性且偏光下蘋果綠雙折射代表類澱粉沉積；慢性癢疹樣皮膚病灶可指向lichen amyloidosis。",
+      "flashcard_front": "Congo red / apple-green birefringence / lichen amyloidosis",
+      "flashcard_back": "皮膚慢性搔癢丘疹若切片顯示類澱粉沉積，診斷想到類澱粉性苔癬。",
+      "flashcard_summary": "Congo red + 偏光雙折射 -> 類澱粉性苔癬",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nPatch testing主要用來找出造成過敏性接觸性皮膚炎的特定接觸性過敏原，屬於第IV型延遲性超敏反應的臨床測試。\n\n【選項詳解】\n- A. 錯誤。貼膚試驗不能確診所有接觸性皮膚炎；刺激性接觸性皮膚炎主要靠病史與暴露判斷。\n- B. 正確。貼膚試驗的目的就是辨認特定接觸性過敏原，協助病人日後避免接觸。\n- C. 錯誤。嚴重度需依病灶範圍、發炎程度與功能影響評估，patch testing不是嚴重度量表。\n- D. 錯誤。雖然貼膚試驗通常需在貼後48小時左右判讀，但它不是用來確認發病是否超過48小時。\n\n【核心考點】\nPatch testing的主要目的，是找出過敏性接觸性皮膚炎的接觸性過敏原。",
+      "key_point": "Patch testing的主要目的，是找出過敏性接觸性皮膚炎的接觸性過敏原。",
+      "flashcard_front": "Patch testing / allergic contact dermatitis / allergen",
+      "flashcard_back": "貼膚試驗檢測第IV型延遲性過敏，臨床目的在找出接觸性過敏原，不是判斷嚴重度或所有接觸性皮膚炎。",
+      "flashcard_summary": "貼膚試驗 -> 找接觸性過敏原",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n6歲兒童自2歲起反覆劇癢皮膚病變，加上父母有過敏性鼻炎症狀，提示異位性體質。兒童慢性反覆濕疹與劇癢最符合異位性皮膚炎。\n\n【選項詳解】\n- A. 錯誤。脂漏性皮膚炎偏頭皮、眉間、鼻翼等皮脂腺部位，嬰兒乳痂常見，但不以強烈異位性家族史與反覆劇癢為核心。\n- B. 錯誤。接觸性皮膚炎通常與特定外界接觸區域相關，病灶分布與暴露史比家族過敏史更重要。\n- C. 正確。異位性皮膚炎常自幼兒期開始，反覆劇癢濕疹，並常合併或家族有過敏性鼻炎、氣喘等異位性疾病。\n- D. 錯誤。鬱血性皮膚炎多見於成人慢性靜脈功能不全的下肢病灶，不符合6歲男孩。\n\n【核心考點】\n兒童慢性反覆劇癢濕疹加異位性家族史，最符合異位性皮膚炎。",
+      "key_point": "兒童慢性反覆劇癢濕疹加異位性家族史，最符合異位性皮膚炎。",
+      "flashcard_front": "兒童 / 劇癢濕疹 / 過敏家族史 / atopic dermatitis",
+      "flashcard_back": "異位性皮膚炎常從幼兒期開始，反覆劇癢，常有過敏性鼻炎或氣喘個人或家族史。",
+      "flashcard_summary": "劇癢反覆濕疹 + 異位性家族史 -> 異位性皮膚炎",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\nNikolsky sign陽性代表表皮容易被推開，常見於表皮內鬆解或嚴重表皮壞死。Bullous pemphigoid是表皮下水疱，水疱壁較厚且緊繃，因此Nikolsky sign多為陰性。\n\n【選項詳解】\n- A. 錯誤。SSSS由金黃色葡萄球菌剝脫毒素造成表皮淺層剝離，可出現Nikolsky sign陽性。\n- B. 錯誤。Pemphigus vulgaris是表皮內棘層鬆解，Nikolsky sign典型陽性。\n- C. 錯誤。Stevens-Johnson syndrome有表皮壞死與剝離，也可出現Nikolsky sign陽性。\n- D. 正確。Bullous pemphigoid為表皮下張力性水疱，表皮不易被輕推剝離，Nikolsky sign通常陰性。\n\n【核心考點】\nBullous pemphigoid是表皮下水疱，Nikolsky sign通常陰性；pemphigus vulgaris、SSSS、SJS可陽性。",
+      "key_point": "Bullous pemphigoid是表皮下水疱，Nikolsky sign通常陰性；pemphigus vulgaris、SSSS、SJS可陽性。",
+      "flashcard_front": "Nikolsky sign / bullous pemphigoid / pemphigus vulgaris",
+      "flashcard_back": "Nikolsky sign陽性多見表皮內鬆解或壞死；類天疱瘡為表皮下水疱，所以多為陰性。",
+      "flashcard_summary": "Nikolsky陰性 -> bullous pemphigoid",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n題目問Toxic shock syndrome何者錯誤。TSS重點是金黃色葡萄球菌TSST-1或A群鏈球菌外毒素造成超抗原反應與休克，不是Pseudomonas剝脫毒素。\n\n【選項詳解】\n- A. 正確。TSS可有瀰漫性紅疹、皮膚疼痛與後續脫屑，也可能伴局部感染病灶。\n- B. 正確。TSS可由術後傷口、軟組織或其他深部感染引起，早期皮膚疼痛可很明顯。\n- C. 正確。發燒、肌痛、喉嚨痛、嘔吐腹瀉、低血壓與多器官衰竭都是TSS的重要全身表現。\n- D. 錯誤，為本題答案。TSS不是由Pseudomonas exfoliative toxin造成；葡萄球菌剝脫毒素較與SSSS相關，TSS則是超抗原毒素。\n\n【核心考點】\nTSS由葡萄球菌TSST-1或鏈球菌外毒素等超抗原引起，不是Pseudomonas exfoliative toxin。",
+      "key_point": "TSS由葡萄球菌TSST-1或鏈球菌外毒素等超抗原引起，不是Pseudomonas exfoliative toxin。",
+      "flashcard_front": "Toxic shock syndrome / TSST-1 / superantigen / Pseudomonas錯",
+      "flashcard_back": "TSS有發燒、低血壓、皮疹脫屑與多器官侵犯；致病重點是葡萄球菌或鏈球菌超抗原毒素。",
+      "flashcard_summary": "TSS -> Staph/Strep superantigen，不是Pseudomonas剝脫毒素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

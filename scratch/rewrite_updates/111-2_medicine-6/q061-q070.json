@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題問肌電圖何種疾病最容易出現 fasciculation。肌束顫動常見於下運動神經元興奮性增加，運動神經元疾病如 ALS 是經典考點。\n\n【選項詳解】\n- A. 可有周邊神經病變表現，但糖尿病神經病變以感覺症狀、遠端多發神經病變與去神經變化為主，fasciculation 不是最典型。\n- B. 正確。Motor neuron disease 侵犯下運動神經元時常見 fasciculation、fibrillation、慢性神經再支配等 EMG 變化。\n- C. 不最典型。GBS 是急性免疫性多發神經病變，EMG 常見傳導變慢或 block，fasciculation 不是主要特徵。\n- D. 可有去神經變化。Radiculopathy 可有 fibrillation 與 positive sharp waves，但 fasciculation 最典型仍是運動神經元疾病。\n\n【核心考點】\nFasciculation 是下運動神經元疾病的重要線索，尤其 ALS 等 motor neuron disease。",
+      "key_point": "EMG 最容易見 fasciculation 的選項是 motor neuron disease。",
+      "flashcard_front": "EMG / fasciculation / motor neuron disease",
+      "flashcard_back": "ALS 可同時有上、下運動神經元徵象；肌束顫動提示下運動神經元受損。",
+      "flashcard_summary": "肌電圖 fasciculation -> motor neuron disease",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題問網球肘何者正確。網球肘是 lateral epicondylalgia，病理多為 ECRB 肌腱退化性 tendinosis，而非單純急性發炎。\n\n【選項詳解】\n- A. 錯誤。病理以退化、微撕裂與 angiofibroblastic hyperplasia 為主，不是典型發炎。\n- B. 錯誤。典型病變在外上髁附近伸肌總腱起點，尤其 ECRB 起點，不是肌腱交界處。\n- C. 錯誤。肘關節 ROM 通常保留，疼痛多在 resisted wrist extension 或 gripping 時誘發。\n- D. 正確。最常侵犯 extensor carpi radialis brevis 肌腱。\n\n【核心考點】\nTennis elbow 是 ECRB 起點的退化性肌腱病變，ROM 多正常。",
+      "key_point": "網球肘最常侵犯 ECRB 肌腱起點。",
+      "flashcard_front": "tennis elbow / ECRB / tendinosis",
+      "flashcard_back": "外上髁疼痛、握力或抗阻腕伸誘發，病灶多在 ECRB。",
+      "flashcard_summary": "網球肘 -> ECRB tendinosis，不是單純 inflammation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題問 L3-L4 椎間盤內壓何種姿勢最高。坐姿本身比站立增加腰椎負荷，坐姿前傾又增加彎曲力矩與椎間盤壓力。\n\n【選項詳解】\n- A. 最低之一。平躺時軀幹重量不由腰椎承受，椎間盤壓力較低。\n- B. 較高但非最高。站立需承受體重，但腰椎彎曲力矩較坐姿前傾小。\n- C. 正確。坐姿上半身前傾 20 度會增加腰椎屈曲與椎間盤壓力，是選項中最高。\n- D. 高於平躺與部分站立狀態，但少了前傾力矩，通常低於坐姿前傾。\n\n【核心考點】\n腰椎椎間盤壓力通常平躺最低，坐姿前傾最高；搬重物前傾會更增加風險。",
+      "key_point": "坐姿上半身前傾會使腰椎椎間盤內壓上升最多。",
+      "flashcard_front": "lumbar disc pressure / sitting flexion",
+      "flashcard_back": "坐姿加前傾增加腰椎彎曲力矩與椎間盤負荷。",
+      "flashcard_summary": "椎間盤壓力 -> sitting flexion 最高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題問膝下義肢 PTB 承筒哪個部位可承壓。PTB socket 會把壓力放在可承壓區，避開骨突與敏感區；股骨內髁/髕骨肌腱等可作為承重與懸吊接觸區。\n\n【選項詳解】\n- A. 不宜承壓。腓骨頭表淺且附近有 common peroneal nerve，壓迫可能疼痛或神經傷害。\n- B. 不宜承壓。脛骨嵴是骨性突出，皮膚軟組織少，應避免直接高壓。\n- C. 正確。股骨內髁區域相對可承受壓力，常用於承筒穩定與部分負重接觸。\n- D. 不宜作主要承壓。膕肌肌腱區與後方軟組織需避免過度壓迫，以免疼痛與血管神經受壓。\n\n【核心考點】\nPTB socket 要壓可耐受區、避開骨突與神經；腓骨頭與脛骨嵴是典型 relief 區。",
+      "key_point": "PTB 承筒可承壓區包含股骨髁附近，需避開腓骨頭與脛骨嵴。",
+      "flashcard_front": "PTB socket / pressure tolerant area / medial femoral condyle",
+      "flashcard_back": "膝下義肢承筒設計重點是分散負重並保護骨突與神經。",
+      "flashcard_summary": "PTB socket -> medial femoral condyle 可承壓，fibular head/tibial crest 避壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題問有氧運動何者正確。有氧與無氧不是只靠單一活動名稱劃分，許多運動同時包含不同能量系統；強度、持續時間與肌群大小都會影響分類。\n\n【選項詳解】\n- A. 錯誤。超過 anaerobic threshold 後無氧代謝比例增加，不是典型有氧運動定義。\n- B. 正確。有些運動同時使用有氧與無氧能量系統，依強度與時間不同而難以絕對分類。\n- C. 錯誤。最大心率 30% 至 35% 通常強度太低；有氧訓練常需達中等強度以上並持續一段時間。\n- D. 錯誤。有氧運動通常是大肌群、節律性、可持續的活動；短時間小肌肉運動較不符合典型定義。\n\n【核心考點】\n有氧運動是大肌群、節律性、可持續並主要依賴氧化代謝；實際運動常混合不同能量系統。",
+      "key_point": "有些運動不容易被絕對分成有氧或無氧。",
+      "flashcard_front": "aerobic exercise / anaerobic threshold / exercise classification",
+      "flashcard_back": "超過 anaerobic threshold 時無氧代謝增加；典型有氧運動需可持續且動用大肌群。",
+      "flashcard_summary": "有氧運動 -> 能量系統取決於強度與時間，分類可重疊",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題問冠心病危險分級何者屬高危險。心臟復健風險分級中，左心室收縮功能嚴重下降、複雜心律不整、運動誘發缺血或低血壓等屬高危險。\n\n【選項詳解】\n- A. 不是高危險。急性心肌梗塞後無明顯併發症通常可歸低到中風險，需看運動測試與功能狀態。\n- B. 正確。LVEF 低於 30% 代表嚴重左心室功能不全，是高危險分級重要條件。\n- C. 不一定高危險。CABG 後本身不等於高危險，需看 EF、症狀、心律與運動反應。\n- D. 不一定高危險。年齡 65 歲以上是風險考量，但單獨年齡不是高危險分級的決定條件。\n\n【核心考點】\n心臟復健高危險重點是嚴重 LV dysfunction、複雜 arrhythmia 或運動誘發不穩定，而非單純年齡或手術史。",
+      "key_point": "LVEF < 30% 屬冠心病復健高危險。",
+      "flashcard_front": "cardiac rehabilitation risk stratification / EF < 30%",
+      "flashcard_back": "左心室功能嚴重下降代表運動中不穩定與事件風險較高。",
+      "flashcard_summary": "心臟復健風險 -> EF < 30% 高危險",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題問先天性臂神經叢受損何者正確。Erb palsy 是上幹 C5-C6 較常見；Klumpke palsy 是下幹 C8-T1 較少見。多數產傷性臂叢損傷可自然恢復良好。\n\n【選項詳解】\n- A. 錯誤。Erb palsy 是 upper plexus（C5-C6）損傷，不是下半部。\n- B. 錯誤。Klumpke palsy 是 lower plexus（C8-T1）損傷，不是上半部。\n- C. 錯誤。Erb palsy 比 Klumpke palsy 常見。\n- D. 正確。許多產傷性 Erb 或 Klumpke palsy 可隨時間恢復，雖嚴重撕脫或恢復不佳者需專科評估。\n\n【核心考點】\nErb = upper C5-C6；Klumpke = lower C8-T1；產傷性臂叢損傷多數預後良好。",
+      "key_point": "Erb palsy 是上臂叢且較常見，Klumpke 是下臂叢。",
+      "flashcard_front": "congenital brachial plexus injury / Erb / Klumpke",
+      "flashcard_back": "Erb 常呈 waiter tip posture；Klumpke 可有手內在肌無力與爪手。",
+      "flashcard_summary": "臂叢產傷 -> Erb upper，Klumpke lower，多數恢復佳",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題問高膽紅素血症與哪型腦性麻痺關聯最高。未結合膽紅素沉積基底核可造成 kernicterus，典型後遺症是徐動型或舞蹈徐動型腦性麻痺。\n\n【選項詳解】\n- A. 不是最相關。痙攣型 CP 最常見，常與早產腦室周圍白質軟化、缺氧缺血等相關。\n- B. 正確。高膽紅素造成 kernicterus 主要傷害 basal ganglia，與 athetoid/dyskinetic CP 關聯高。\n- C. 不是最相關。低張型可見於多種中樞或肌肉疾病，但非高膽紅素典型後遺症。\n- D. 不是最相關。失調型多與小腦相關病變有關。\n\n【核心考點】\nKernicterus 傷害 basal ganglia，典型造成 athetoid cerebral palsy、聽損與眼動異常。",
+      "key_point": "Hyperbilirubinemia 最相關的是徐動型腦性麻痺。",
+      "flashcard_front": "kernicterus / athetoid cerebral palsy",
+      "flashcard_back": "膽紅素沉積基底核會造成不自主動作與徐動型腦性麻痺。",
+      "flashcard_summary": "高膽紅素 -> kernicterus -> athetoid CP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題問垂足 FES 主要刺激哪條神經。垂足是踝背屈不足，功能性電刺激常在擺盪期刺激腓神經分支，使脛前肌收縮，產生踝背屈。\n\n【選項詳解】\n- A. 錯誤。脛神經支配小腿後側肌群，主要造成蹠屈，不是矯正垂足的主要刺激目標。\n- B. 正確。深腓神經支配 tibialis anterior 等踝背屈肌，刺激後可改善擺盪期足尖拖地。\n- C. 錯誤。股神經支配股四頭肌，與踝背屈無直接關係。\n- D. 錯誤。蹠神經支配足底內在肌，不能作為垂足 FES 的主要目標。\n\n【核心考點】\n垂足 FES 的目標是啟動踝背屈，主要刺激 deep peroneal nerve/tibialis anterior 功能。",
+      "key_point": "垂足功能性電刺激主要刺激深腓神經。",
+      "flashcard_front": "foot drop / FES / deep peroneal nerve",
+      "flashcard_back": "深腓神經支配脛前肌，刺激可在擺盪期產生足背屈。",
+      "flashcard_summary": "垂足 FES -> deep peroneal nerve",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題問中風後肌力接近正常但不會穿衣，被診斷失用症，最可能位置。失用症是動作計畫或空間操作障礙，常與頂葉，尤其優勢半球或頂葉聯合區病變相關。\n\n【選項詳解】\n- A. 正確。頂葉負責感覺整合、空間與動作計畫，病變可造成 dressing apraxia 或 ideomotor apraxia。\n- B. 較不符合。額葉病變可造成執行功能、動作啟動或 Broca 相關問題，但穿衣失用更偏頂葉。\n- C. 較不符合。枕葉主要視覺處理，病變常造成視野缺損或視覺失認。\n- D. 較不符合。顳葉與語言理解、記憶、聽覺處理相關，非穿衣失用最典型位置。\n\n【核心考點】\n失用症不是肌力不足，而是動作計畫與空間整合問題；頂葉是高頻定位。",
+      "key_point": "穿衣失用症最常連到頂葉病灶。",
+      "flashcard_front": "apraxia / parietal lobe / dressing",
+      "flashcard_back": "肌力接近正常但無法完成 learned movement，要想到 apraxia 與頂葉聯合區。",
+      "flashcard_summary": "Apraxia -> parietal lobe",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

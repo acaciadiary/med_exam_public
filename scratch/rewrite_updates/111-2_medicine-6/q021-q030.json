@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問 Pott puffy tumor 何者正確。它是額竇炎併發額骨骨髓炎與骨膜下膿瘍，早期可能只有前額局部腫脹、壓痛或硬結，常見於兒童與青少年。\n\n【選項詳解】\n- A. 錯誤。病灶是額骨（frontal bone）骨髓炎與骨膜下膿瘍，不是篩骨。\n- B. 錯誤。較常見於兒童、青少年或額竇發育後年輕族群，不是老年人典型疾病。\n- C. 錯誤。它主要與鼻竇炎感染擴散相關，不是自體免疫疾病的典型併發症。\n- D. 正確。早期可能只是前額局部軟組織硬化、腫脹或壓痛，若延誤可進展成顱內併發症。\n\n【核心考點】\nPott puffy tumor = 額竇炎造成額骨骨髓炎與骨膜下膿瘍，前額腫脹可很早出現。",
+      "key_point": "Pott puffy tumor 的部位是 frontal bone，不是 ethmoid bone。",
+      "flashcard_front": "Pott puffy tumor / frontal sinusitis / osteomyelitis",
+      "flashcard_back": "額竇炎若併額骨骨髓炎與骨膜下膿瘍，會出現前額腫脹或硬結。",
+      "flashcard_summary": "Pott puffy tumor -> 額骨骨髓炎與骨膜下膿瘍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題問過敏性鼻炎治療何者不屬第一線。第一線多為避免過敏原、抗組織胺、鼻用類固醇與必要時去充血劑；免疫治療屬於特定病人長期控制策略，不是初始第一線。\n\n【選項詳解】\n- A. 屬第一線。第二代口服或鼻用抗組織胺可改善打噴嚏、流鼻水與鼻癢。\n- B. 可作第一線輔助。去充血劑可短期改善鼻塞，但鼻噴劑不可長期連用以免反彈性鼻炎。\n- C. 屬第一線。鼻用類固醇對鼻塞、流鼻水、打噴嚏與鼻癢都有良好效果，是中重度或持續性過敏性鼻炎核心治療。\n- D. 不屬一般第一線。免疫治療適用於過敏原明確、常規藥物控制不佳或希望減少長期用藥者，屬進階長期治療。\n\n【核心考點】\n過敏性鼻炎第一線是抗組織胺與鼻用類固醇等藥物；免疫治療是篩選後的長期疾病調節治療。",
+      "key_point": "免疫治療不是過敏性鼻炎的一般第一線起始治療。",
+      "flashcard_front": "allergic rhinitis / first-line therapy / immunotherapy",
+      "flashcard_back": "鼻用類固醇是中重度過敏性鼻炎核心治療；免疫治療需特定適應症。",
+      "flashcard_summary": "過敏性鼻炎 -> 抗組織胺/鼻噴類固醇第一線，免疫治療進階",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題問流鼻血治療何者最適當。大多數鼻出血來自前鼻中隔 Kiesselbach plexus，初步處理應壓迫鼻翼前下方與前鼻中隔，必要時鼻填塞或局部止血。\n\n【選項詳解】\n- A. 不適當。應壓迫鼻翼軟部、前鼻中隔區域，不是壓鼻骨；壓鼻骨無法有效壓住前鼻中隔血管叢。\n- B. 不適當。膠原蛋白凝膠基質、氧化纖維素等止血敷料可作為局部止血輔助，不能說無效益。\n- C. 正確。加壓前鼻中隔或做前鼻填塞是常見且合理的處理方式，符合最常見前鼻出血來源。\n- D. 不作為初步最適當。前篩動脈結紮屬於保守與填塞治療失敗、或特定後鼻/上方出血時才考慮的侵入性處置。\n\n【核心考點】\n鼻出血初步處理是壓迫前鼻中隔/鼻翼軟部，局部止血與鼻填塞；手術結紮是後線處置。",
+      "key_point": "鼻出血要壓前鼻中隔，不是壓鼻骨。",
+      "flashcard_front": "epistaxis / anterior septum compression / nasal packing",
+      "flashcard_back": "多數鼻出血來自 Kiesselbach plexus；先壓鼻翼軟部與前鼻中隔。",
+      "flashcard_summary": "鼻出血處理 -> 壓迫前鼻中隔或鼻填塞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，原公告作答鍵為 B。解題仍可掌握成人原因不明聲門下狹窄（iSGS）的典型族群與可能相關因子；若考場遇到最不適當題，需注意官方曾認定選項有爭議。\n\n【選項詳解】\n- A. 通常正確。iSGS 典型好發於中年或生育年齡女性，是此病的重要流行病學線索。\n- B. 有爭議。iSGS 曾被推測與女性荷爾蒙相關，但雌激素受體表現並非穩定、明確的診斷事實；本題原答案指向此項，但官方後來一律給分。\n- C. 可為相關因素。胃食道或咽喉逆流常被討論為可能刺激與發炎因子，雖因果不完全確定，但臨床常評估與治療逆流。\n- D. 可見於研究與臨床推論。聲門下瘢痕組織檢出 pepsin 可支持逆流物到達喉氣管區域的可能性。\n\n【核心考點】\niSGS 好發女性，可能與局部發炎、逆流與荷爾蒙假說相關；本題因官方一律給分，應保留爭議而不硬改答案。",
+      "key_point": "111-2 醫學六第 24 題官方一律給分；原答案 B 涉及 iSGS 與雌激素受體爭議。",
+      "flashcard_front": "idiopathic subglottic stenosis / all credit / estrogen receptor",
+      "flashcard_back": "成人 iSGS 典型見於女性；本題官方更正一律給分，原答案 B 不宜硬背成絕對。",
+      "flashcard_summary": "iSGS -> 好發女性，逆流/荷爾蒙假說；本題官方 all credit",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正：第24題一律給分；原公告作答鍵為 B。"
+      ]
+    },
+    {
+      "question_id": "111-2_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題問早期喉癌 T1/T2 手術與放療比較何者錯誤。早期喉癌可用放射線或保喉手術治療，局部控制與存活率相近；手術不必然造成較差的長期喉保存。\n\n【選項詳解】\n- A. 正確。放射線治療需多次療程，時間與成本通常較單次或短期手術高。\n- B. 正確。對適當選擇的早期喉癌，放療與內視鏡/保喉手術的局部控制、治癒率與存活率大致相近。\n- C. 錯誤。早期喉癌手術多可採保喉方式，如經口雷射或部分喉切除，長期喉保存不一定比放療差。\n- D. 正確。腫瘤位置、暴露困難或侵犯範圍會影響內視鏡切除可行性，可考慮 TORS 或放療。\n\n【核心考點】\n早期喉癌治療強調腫瘤控制與功能保存；手術與放療各有優缺點，不能概括說手術喉保存較差。",
+      "key_point": "早期喉癌保喉手術的喉保存不一定比放療差。",
+      "flashcard_front": "early laryngeal cancer / radiation / surgery / laryngeal preservation",
+      "flashcard_back": "T1/T2 喉癌可選放療或保喉手術；依腫瘤位置與功能需求決策。",
+      "flashcard_summary": "早期喉癌 -> 手術與放療控制率相近，手術不必然喉保存較差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題問唾液腺結石最常出現在哪裡。唾液腺結石最常見於下頷腺，與唾液較黏稠、管徑長、Wharton duct 逆重力向上走有關。\n\n【選項詳解】\n- A. 正確。下頷腺是唾液腺結石最常見部位，常表現為進食時疼痛或腫脹。\n- B. 錯誤。腮腺也可有結石，但比下頷腺少見，Stensen duct 分泌液較稀且流向較有利。\n- C. 錯誤。舌下腺結石相對少見。\n- D. 錯誤。小唾液腺不是典型最常見的唾液腺結石部位。\n\n【核心考點】\nSialolithiasis 最常發生在 submandibular gland；餐時腫痛是典型症狀。",
+      "key_point": "唾液腺結石最常見於下頷腺。",
+      "flashcard_front": "sialolithiasis / submandibular gland",
+      "flashcard_back": "下頷腺唾液較黏、管道長且逆重力，最容易形成結石。",
+      "flashcard_summary": "唾液腺結石 -> submandibular gland 最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問甲狀腺髓質癌何者錯誤。髓質癌來自 parafollicular C cell，分泌 calcitonin；多數是偶發型，少數與 MEN2/RET 家族遺傳相關。\n\n【選項詳解】\n- A. 正確。Medullary thyroid carcinoma 起源於甲狀腺濾泡旁 C 細胞。\n- B. 錯誤。多數髓質癌為 sporadic，少數為 familial 或 MEN2 相關；題目把比例倒過來。\n- C. 正確。髓質癌診斷時頸部淋巴結轉移相當常見，手術評估需重視淋巴結。\n- D. 正確。Calcitonin 是診斷與術後追蹤的重要腫瘤標記，CEA 也常搭配追蹤。\n\n【核心考點】\n甲狀腺髓質癌來自 C cell、calcitonin 可追蹤；多數是偶發型，不是家族型。",
+      "key_point": "Medullary thyroid carcinoma 多數為 sporadic。",
+      "flashcard_front": "medullary thyroid carcinoma / C cell / calcitonin / sporadic",
+      "flashcard_back": "髓質癌源自 C cell；calcitonin 可追蹤；MEN2 相關是少數但重要。",
+      "flashcard_summary": "甲狀腺髓質癌 -> C cell、calcitonin、sporadic 多數",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問 android 型骨盆何者錯誤。Android pelvis 形態較男性化，入口偏心形、側壁會聚、坐骨棘突出、恥骨弓狹窄，通常不利陰道生產。\n\n【選項詳解】\n- A. 正確。Android 型骨盆常有 convergent sidewalls，使胎頭下降空間變窄。\n- B. 正確。明顯坐骨棘會縮小中骨盆，增加產程受阻風險。\n- C. 正確。狹窄恥骨弓是 android pelvis 的典型特徵。\n- D. 錯誤。Android 型骨盆的出口與恥骨弓偏狹窄，不會以骨盆出口橫徑大於 10 cm 作為典型特徵。\n\n【核心考點】\nAndroid pelvis 的考點是會聚側壁、坐骨棘突出與恥骨弓狹窄；它不是寬出口骨盆。",
+      "key_point": "Android 型骨盆通常出口狹窄，不是 transverse diameter of pelvic outlet > 10 cm。",
+      "flashcard_front": "android pelvis / outlet transverse diameter",
+      "flashcard_back": "Android pelvis 較不利生產，因中骨盆與出口空間較狹窄。",
+      "flashcard_summary": "Android pelvis -> convergent sidewalls、prominent spines、narrow pubic arch",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題問懷孕全程哪個荷爾蒙不會隨週數持續增加。Estradiol、estriol 與 hPL 多隨胎盤與妊娠進展上升；hCG 則在第一孕期達高峰後下降並維持平台。\n\n【選項詳解】\n- A. 會持續上升。Estradiol 隨胎盤功能與妊娠週數增加而上升。\n- B. 會持續上升。Estriol 主要反映胎盤與胎兒腎上腺/肝臟單位，孕期通常逐漸上升。\n- C. 正確。hCG 在早孕快速上升，約 8 至 10 週達峰後下降，不是整個孕期持續增加。\n- D. 會持續上升。Human placental lactogen 隨胎盤量增加而上升，與孕期胰島素阻抗相關。\n\n【核心考點】\nhCG 早孕達峰後下降；hPL 與 estrogen 類多隨妊娠進展增加。",
+      "key_point": "hCG 不會整個孕期持續增加，而是第一孕期達峰後下降。",
+      "flashcard_front": "pregnancy hormones / hCG peak",
+      "flashcard_back": "hCG 是早孕診斷重點；第一孕期達高峰後下降並維持較低平台。",
+      "flashcard_summary": "孕期荷爾蒙 -> hCG 早期高峰，hPL/estrogen 持續上升",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，原公告作答鍵為 A。羊水量由胎兒尿液、胎兒吞嚥、肺液分泌、胎盤表面 intramembranous flow 與羊膜 transmembranous flow 共同調控；不同資料對「除胎兒尿液外最多」的表述可有爭議。\n\n【選項詳解】\n- A. 原公告作答鍵。胎兒吞嚥是移除羊水的重要路徑，量很大，常被列為羊水量調控的主要因素之一。\n- B. 有角色但通常不是最多。胎兒肺液分泌會增加羊水量，但相對於吞嚥與胎兒尿液，常不是最大通量來源。\n- C. 可能造成爭議。Intramembranous flow 可在胎盤表面與胎兒血管間調節水分，部分教材強調其在淨調控上的重要性。\n- D. 較少作為最大因素。Transmembranous flow 經羊膜與母體循環交換，通常量較小或在淨調控中較次要。\n\n【核心考點】\n羊水量調控不是單一路徑；胎兒尿液增加羊水、胎兒吞嚥移除羊水，肺液與膜內流動也參與。此題官方 all credit，應記概念而非硬背單一選項。",
+      "key_point": "111-2 醫學六第 30 題官方一律給分；原答案 A，但羊水通量表述有爭議。",
+      "flashcard_front": "amniotic fluid regulation / fetal swallowing / all credit",
+      "flashcard_back": "胎兒尿液是主要來源之一，胎兒吞嚥是主要移除路徑；本題官方更正一律給分。",
+      "flashcard_summary": "羊水調控 -> 胎兒尿液、吞嚥、肺液、intramembranous flow 共同參與；本題 all credit",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正：第30題一律給分；原公告作答鍵為 A。"
+      ]
+    }
+  ]
+}

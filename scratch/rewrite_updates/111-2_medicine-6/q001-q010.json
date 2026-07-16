@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問氣道輔助工具何者錯誤。口咽人工氣道（OPA）與鼻咽人工氣道（NPA）的差別，關鍵在病人是否保有咽喉反射，以及鼻腔置入是否可能因顱底骨折而進入顱內。\n\n【選項詳解】\n- A. 錯誤。清醒病人通常保有 gag reflex，放置 OPA 會刺激舌根與咽後壁，容易造成嘔吐、喉痙攣或吸入風險；若需要輔助氣道，通常 NPA 較能被清醒或半清醒病人耐受。\n- B. 正確。OPA 會刺激口咽部，是誘發嘔吐與吸入性併發症的重要風險，因此適合用在意識不清、咽喉反射減弱的病人。\n- C. 正確。疑似顱底骨折或篩骨板受損時，NPA 可能沿鼻腔誤入顱內，屬於重要禁忌。\n- D. 正確。NPA 通過鼻腔黏膜，鼻黏膜血管豐富，置入過粗、潤滑不足或操作粗暴都可能造成鼻出血。\n\n【核心考點】\nOPA 適合無意識且咽喉反射弱的病人；NPA 較可用於清醒或半清醒病人，但顱底骨折禁用，常見併發症是鼻出血。",
+      "key_point": "清醒病人不優先使用 OPA；顱底骨折禁用 NPA。",
+      "flashcard_front": "OPA / NPA / 清醒病人 / 顱底骨折",
+      "flashcard_back": "OPA 易刺激 gag reflex，清醒病人不宜；NPA 可較被耐受，但顱底骨折禁用。",
+      "flashcard_summary": "人工氣道選擇 -> 清醒病人避免 OPA，顱底骨折避免 NPA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題問麻醉與重症心血管監測何者錯誤。解題重點是 SvO2 的正常範圍、TEE 可提供的即時心臟資訊，以及動態前負荷指標比靜態壓力更能預測輸液反應性。\n\n【選項詳解】\n- A. 錯誤。肺動脈導管可測混合靜脈血氧飽和度（SvO2），用來反映全身氧供與氧耗平衡；正常多約 60% 至 80%，30% 至 50% 已提示嚴重氧供不足或氧耗過高。\n- B. 正確。TEE 可評估心室收縮與舒張、瓣膜、容量狀態、心內血栓與導管位置，除心臟手術外，高風險非心臟手術也可使用。\n- C. 正確。PPV、SVV 等動態指標利用正壓通氣造成的心肺交互作用，通常比 CVP、PCWP 這類靜態壓力更能預測輸液後心輸出是否增加。\n- D. 正確。CVP 與肺動脈導管數值容易受體位、PEEP、心室順應性與操作者解讀影響，臨床最大風險常是誤用數值而非導管本身。\n\n【核心考點】\nSvO2 正常約 60% 至 80%；輸液反應性應優先看動態指標，壓力數值需結合臨床脈絡解讀。",
+      "key_point": "SvO2 30% 至 50% 不是正常值，而是危險的低氧供訊號。",
+      "flashcard_front": "SvO2 / TEE / PPV / CVP",
+      "flashcard_back": "SvO2 反映氧供與氧耗平衡；PPV/SVV 通常比 CVP/PCWP 更能預測輸液反應性。",
+      "flashcard_summary": "心血管監測 -> SvO2 正常約 60-80%，動態指標較能預測輸液反應",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問麻醉中腎功能監測與處理何者正確。術中腎保護的核心不是單靠尿量或 creatinine，而是維持足夠血流動力學、心輸出量、血容量與組織灌流。\n\n【選項詳解】\n- A. 錯誤。尿量是常用且容易取得的監測，但會受 ADH、交感神經、利尿劑、輸液與麻醉深度影響，不能精準代表 GFR 或腎實質功能。\n- B. 錯誤。Creatinine 與 GFR 不是線性正比，而是非線性反比；早期 GFR 下降時 creatinine 可能尚未明顯上升。\n- C. 正確。維持 hemodynamics、足夠心輸出量、血管內容積與腎灌流，是麻醉中預防急性腎損傷最重要的處置方向。\n- D. 錯誤。IL-18 是急性腎小管損傷相關 biomarker，與缺血、發炎或腎小管壓力反應相關，不能說完全無關。\n\n【核心考點】\n術中腎臟保護看的是有效灌流與血液動力學穩定；尿量和 creatinine 都有延遲或干擾，不能單獨代表腎功能。",
+      "key_point": "麻醉中保腎最重要是維持足夠血液動力學與組織灌流。",
+      "flashcard_front": "術中腎臟保護 / 尿量 / creatinine / hemodynamics",
+      "flashcard_back": "尿量與 creatinine 都有侷限；預防 AKI 的核心是維持心輸出、血容量與腎灌流。",
+      "flashcard_summary": "術中腎保護 -> 維持 hemodynamics 比單看尿量或 creatinine 更關鍵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問何者可拮抗過量鴉片類藥物造成的呼吸抑制。題目關鍵是辨認各藥物作用受體：opioid receptor、benzodiazepine receptor、α2 receptor 與 NMDA receptor。\n\n【選項詳解】\n- A. 正確。Naloxone 是 opioid receptor 競爭性拮抗劑，可快速逆轉 morphine、fentanyl 等鴉片類藥物造成的呼吸抑制、嗜睡與瞳孔縮小。\n- B. 錯誤。Flumazenil 是 benzodiazepine receptor 拮抗劑，用於逆轉 benzodiazepine 鎮靜，不是 opioid 過量的解藥。\n- C. 錯誤。Dexmedetomidine 是 α2 agonist，可鎮靜、止痛並降低交感活性，沒有 opioid receptor 專一拮抗作用。\n- D. 錯誤。Ketamine 主要是 NMDA receptor antagonist，具有解離麻醉與止痛效果，不能拮抗 opioid 造成的呼吸抑制。\n\n【核心考點】\nOpioid 過量造成呼吸抑制時使用 naloxone；benzodiazepine 過量才考慮 flumazenil。",
+      "key_point": "Naloxone 是 opioid receptor antagonist，可逆轉 opioid-induced respiratory depression。",
+      "flashcard_front": "opioid reversal / naloxone / flumazenil",
+      "flashcard_back": "Naloxone 競爭性拮抗 opioid receptor；flumazenil 是 benzodiazepine 拮抗劑。",
+      "flashcard_summary": "鴉片類過量 -> naloxone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問靜脈麻醉劑何者錯誤。需要分辨各藥物的主要受體與臨床風險：benzodiazepine 與 barbiturate 都偏向 GABA-A 系統，propofol 製劑則有感染風險。\n\n【選項詳解】\n- A. 正確。Benzodiazepine 可造成劑量相關呼吸抑制，與 opioid 或其他鎮靜藥併用時甚至可導致 apnea。\n- B. 正確。Propofol 是脂質乳劑，若無菌操作或保存不當，容易支持細菌生長，因此開瓶後需依規範使用。\n- C. 正確。Barbiturate 抑制中樞神經，包含腦幹 reticular activating system，臨床可造成鎮靜與麻醉。\n- D. 錯誤。Barbiturate 主要增強 GABA-A 受體 chloride channel 的抑制作用；NMDA receptor antagonist 是 ketamine 的典型機轉。\n\n【核心考點】\nBarbiturate 與 benzodiazepine 的重點是 GABA-A；ketamine 才是 NMDA 拮抗。",
+      "key_point": "Barbiturate 不是靠 NMDA receptor，而是增強 GABA-A 抑制作用。",
+      "flashcard_front": "靜脈麻醉劑 / benzodiazepine / propofol / barbiturate",
+      "flashcard_back": "Barbiturate 增強 GABA-A 抑制；propofol 脂質乳劑需注意污染與感染。",
+      "flashcard_summary": "靜脈麻醉劑機轉 -> barbiturate: GABA-A；ketamine: NMDA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問麻醉誘導時面罩通氣困難，哪個改善效果最差。困難面罩通氣通常要改善上呼吸道塌陷、舌根後墜與面罩密合，而不是單純用力下壓。\n\n【選項詳解】\n- A. 最差。用力往下壓緊面罩可能造成軟組織塌陷、壓迫下顎與舌根後墜，反而惡化氣道阻塞；正確是雙手托下顎並維持密合。\n- B. 有效。OPA 可將舌根與咽後壁分開，減少上呼吸道阻塞，適合無意識且無 gag reflex 的病人。\n- C. 有效。NPA 可繞過口咽舌根阻塞，對部分保有咽喉反射或張口困難病人有幫助，但需避開顱底骨折。\n- D. 有效。壓額抬下巴可改善舌根後墜，是基本氣道開放手法之一。\n\n【核心考點】\n面罩通氣困難時要開放氣道、使用 airway adjunct、調整頭頸與下顎位置；單純用力壓面罩不是好方法。",
+      "key_point": "困難面罩通氣不應只用力下壓面罩，應改善氣道開放與面罩密合。",
+      "flashcard_front": "困難面罩通氣 / airway adjunct / jaw position",
+      "flashcard_back": "改善面罩通氣要抬下巴、托下顎、放 OPA/NPA；硬壓面罩可能使氣道更塌陷。",
+      "flashcard_summary": "困難面罩通氣 -> airway positioning 與 adjunct 優於用力壓面罩",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題問何者不是經食道超音波（TEE）能取得的資訊。TEE 可直接看心室、瓣膜、容量與主動脈等結構，但不能像冠狀動脈攝影一樣評估冠狀動脈狹窄程度。\n\n【選項詳解】\n- A. 可取得。TEE 可由二尖瓣流入、組織都卜勒與左心房相關指標評估左心室舒張功能。\n- B. 可取得。TEE 可透過 ventricular volume、outflow tract velocity-time integral 等方式估算心輸出量。\n- C. 可取得。TEE 可測主動脈瓣面積、壓力梯度與瓣膜形態，用於評估主動脈瓣狹窄嚴重度。\n- D. 不能可靠取得。冠狀動脈狹窄程度主要靠冠狀動脈攝影、冠脈 CT 或功能性缺血評估；TEE 不能作為常規冠脈狹窄分級工具。\n\n【核心考點】\nTEE 擅長即時評估心臟結構與功能；冠狀動脈狹窄程度不是 TEE 的常規可靠資訊。",
+      "key_point": "TEE 不能取代冠狀動脈攝影來判斷冠脈狹窄程度。",
+      "flashcard_front": "TEE / cardiac function / coronary stenosis",
+      "flashcard_back": "TEE 可評估心室、瓣膜與容量；冠脈狹窄需冠狀動脈攝影或相關檢查。",
+      "flashcard_summary": "TEE 能看心室與瓣膜 -> 不能可靠分級冠狀動脈狹窄",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題問慢性疼痛硬脊膜外注射何者錯誤。重點是 epidural injection 可用於神經根痛，通常需影像導引；頸椎注射風險較高但並非臨床不用。\n\n【選項詳解】\n- A. 正確。輕到中度神經根壓迫造成 radicular pain 時，硬脊膜外類固醇注射可減少發炎與神經根刺激。\n- B. 正確。為了確認針尖位置、避免血管內或硬膜內注射，臨床常用 X 光透視或其他影像導引。\n- C. 正確。類固醇可減少神經根發炎，合併局部麻醉藥常較單用局部麻醉藥有較佳短中期疼痛控制。\n- D. 錯誤。頸椎 epidural injection 因脊髓與血管風險較高，需要嚴格適應症與技術，但仍是臨床可使用的處置。\n\n【核心考點】\n硬脊膜外注射可治療神經根痛；頸椎注射是高風險技術，不等於完全不用。",
+      "key_point": "頸椎 epidural injection 仍可臨床使用，只是風險與技術要求較高。",
+      "flashcard_front": "epidural steroid injection / radicular pain / cervical injection",
+      "flashcard_back": "Epidural injection 常需影像導引；頸椎注射風險高但不是禁用或不存在。",
+      "flashcard_summary": "慢性神經根痛 -> image-guided epidural steroid injection 可用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問敗血性休克多重器官問題何者錯誤。敗血症常造成發炎、凝血活化、血小板低下、壓力性潰瘍與代謝異常；胰島素阻抗通常導致高血糖而非低血糖。\n\n【選項詳解】\n- A. 錯誤。敗血症與壓力反應會造成 catecholamine、cortisol 上升與 insulin resistance，典型表現是高血糖；低血糖若出現常代表肝衰竭、耗竭或嚴重病況。\n- B. 正確。敗血症會活化血小板與凝血系統，血小板消耗導致 thrombocytopenia，可是早期警訊之一。\n- C. 正確。嚴重敗血症可引發凝血與纖溶失衡，造成 DIC、微血栓與出血傾向。\n- D. 正確。重症壓力、低灌流與凝血異常可造成 stress-related mucosal disease，增加上消化道出血風險。\n\n【核心考點】\n敗血症的 insulin resistance 典型造成高血糖；血小板低下、DIC 與壓力性潰瘍都是常見重症併發症。",
+      "key_point": "敗血性休克的胰島素阻抗通常導致高血糖，不是低血糖。",
+      "flashcard_front": "敗血性休克 / insulin resistance / DIC / thrombocytopenia",
+      "flashcard_back": "敗血症常有高血糖、血小板低下、DIC 與壓力性潰瘍出血風險。",
+      "flashcard_summary": "敗血症代謝 -> insulin resistance 多造成高血糖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題問年齡相關黃斑部退化（AMD）何者最適合 anti-VEGF。Anti-VEGF 主要治療濕性 AMD 的脈絡膜新生血管，對乾性退化與已形成纖維瘢痕效果有限。\n\n【選項詳解】\n- A. 不最適合。Drusen 是乾性 AMD 的典型沉積物，代表風險與退化，但不是 anti-VEGF 的主要治療標的。\n- B. 不最適合。RPE atrophy 屬乾性或地圖狀萎縮表現，anti-VEGF 無法逆轉已萎縮的 RPE 與感光細胞。\n- C. 正確。Choroidal neovascularization 是濕性 AMD 的核心病變，VEGF 驅動血管新生與滲漏，因此 anti-VEGF 是主要治療。\n- D. 不最適合。Disciform scarring 代表末期纖維化瘢痕，活動性新生血管減少，視力恢復有限。\n\n【核心考點】\nAnti-VEGF 治療濕性 AMD 的活動性脈絡膜新生血管；乾性 drusen、RPE 萎縮或末期瘢痕不是主要適應症。",
+      "key_point": "濕性 AMD 有 choroidal neovascularization 時最適合 anti-VEGF。",
+      "flashcard_front": "AMD / anti-VEGF / choroidal neovascularization",
+      "flashcard_back": "Anti-VEGF 的目標是 VEGF 驅動的新生血管與滲漏，典型適應症是濕性 AMD。",
+      "flashcard_summary": "AMD 治療 -> anti-VEGF 用於 choroidal neovascularization",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

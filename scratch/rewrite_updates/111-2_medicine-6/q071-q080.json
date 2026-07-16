@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問 De Quervain 肌腱腱鞘炎是哪兩條肌腱。病灶位於第一伸肌隔間，包含 abductor pollicis longus 與 extensor pollicis brevis。\n\n【選項詳解】\n- A. 錯誤。伸拇短肌正確，但外展拇短肌是 thenar 肌群，不屬第一伸肌隔間。\n- B. 錯誤。外展拇長肌正確，但伸拇長肌位於第三伸肌隔間，不是 De Quervain 主要病灶。\n- C. 正確。伸拇短肌（EPB）與外展拇長肌（APL）是 De Quervain tenosynovitis 的典型兩條肌腱。\n- D. 錯誤。伸拇長肌與外展拇短肌都不是典型組合。\n\n【核心考點】\nDe Quervain = first dorsal compartment tenosynovitis = APL + EPB。",
+      "key_point": "De Quervain 侵犯 APL 與 EPB。",
+      "flashcard_front": "De Quervain tenosynovitis / APL / EPB",
+      "flashcard_back": "第一伸肌隔間包含外展拇長肌與伸拇短肌；Finkelstein test 可誘發疼痛。",
+      "flashcard_summary": "De Quervain -> APL + EPB",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題問眼部影像診斷何者錯誤。甲狀腺眼病變可造成眼外肌肥大，也可造成眼眶脂肪增生或水腫，進而造成凸眼。\n\n【選項詳解】\n- A. 正確。眼眶腫塊鑑別包括腫瘤如淋巴瘤、視神經腫瘤，也包括血管性病灶。\n- B. 正確。鼻竇炎或鼻竇腫瘤等眼眶外疾病可侵犯或壓迫眼眶，造成凸眼。\n- C. 正確。甲狀腺眼病變造成眼外肌變大常為雙側，典型保留肌腱。\n- D. 錯誤。甲狀腺眼病變不只影響眼外肌，也可造成眼眶脂肪增加、發炎水腫與容積增加。\n\n【核心考點】\nThyroid eye disease 影像可見眼外肌肥大與 orbital fat expansion；兩者都可導致 proptosis。",
+      "key_point": "甲狀腺眼病變會造成眼眶脂肪增大或水腫。",
+      "flashcard_front": "thyroid eye disease imaging / extraocular muscle / orbital fat",
+      "flashcard_back": "TED 常雙側眼外肌肥大且可有眶脂肪增生，造成凸眼與壓迫性視神經病變。",
+      "flashcard_summary": "甲狀腺眼病影像 -> 眼外肌肥大 + orbital fat expansion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題問頸椎 CT 第 3 至第 4 頸椎鈣化病灶診斷。若鈣化位於椎體後方、椎管前方，沿後縱韌帶走向，最符合後縱韌帶骨化（OPLL）。\n\n【選項詳解】\n- A. 較不符合。舊椎體骨折會有椎體高度改變、楔形變或骨折後變形，不是典型後方韌帶鈣化。\n- B. 正確。OPLL 是 posterior longitudinal ligament ossification，常見於頸椎，可造成脊髓壓迫與頸椎狹窄。\n- C. 較不符合。僵直性脊椎炎常有 syndesmophyte、竹節脊椎與薦髂關節炎，不是局部後縱韌帶骨化的典型描述。\n- D. 較不符合。結核性脊椎椎間盤炎常見椎體破壞、椎間盤受侵與冷膿瘍，不是韌帶線狀鈣化。\n\n【核心考點】\n頸椎椎體後方沿後縱韌帶鈣化，要想到 OPLL，可導致 cervical myelopathy。",
+      "key_point": "Cervical posterior longitudinal ligament ossification 是 OPLL。",
+      "flashcard_front": "OPLL / cervical CT / posterior longitudinal ligament",
+      "flashcard_back": "OPLL 常在頸椎造成椎管狹窄與脊髓壓迫，影像位於椎體後緣。",
+      "flashcard_summary": "頸椎後方鈣化 -> OPLL",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題問 18 歲女性急性下腹痛與腹部 X 光影像最可能診斷。畸胎瘤常含脂肪、鈣化、牙齒或骨樣成分；年輕女性急性腹痛也需擔心卵巢扭轉。\n\n【選項詳解】\n- A. 較不符合。右髂內動脈瘤可有骨盆鈣化影，但 18 歲女性急性下腹痛與典型含鈣化腫塊較不支持。\n- B. 較不符合。骨盆腔發炎性疾病通常靠症狀、內診與超音波/CT，不會以牙齒或骨樣鈣化為典型 X 光線索。\n- C. 正確。成熟囊性畸胎瘤可含牙齒、骨頭或鈣化，X 光可見鈣化結構，年輕女性常見。\n- D. 較不符合。薦骨骨折會有骨折線與外傷史，不會呈現卵巢腫瘤樣鈣化。\n\n【核心考點】\n年輕女性骨盆腔含鈣化、牙齒或骨樣影像，典型想到卵巢成熟囊性畸胎瘤。",
+      "key_point": "X 光看到骨盆腔牙齒/骨樣鈣化要想到 teratoma。",
+      "flashcard_front": "teratoma / pelvic X-ray / calcification teeth bone",
+      "flashcard_back": "成熟囊性畸胎瘤可含外胚層組織，如毛髮、脂肪、牙齒與骨頭。",
+      "flashcard_summary": "年輕女性骨盆鈣化腫塊 -> teratoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題問眼睛鈍傷何者最正確。前房出血可能阻塞房水排出或造成血球堵塞 trabecular meshwork，導致眼壓上升，是重要追蹤點。\n\n【選項詳解】\n- A. 不精確。眼球不能上看在鈍傷後常見於眼眶底 blowout fracture 造成下直肌嵌頓，也可能是神經問題，不能直接推第三對腦神經受傷。\n- B. 正確。Hyphema 可造成眼壓升高、角膜血染與再出血風險，需避免劇烈活動並追蹤眼壓。\n- C. 錯誤。Preseptal hemorrhage 位於眼眶隔前，通常不造成 orbital compartment syndrome；真正危險的是 retrobulbar hemorrhage。\n- D. 錯誤。眼球破裂可能視力嚴重下降，但有時初期不一定明顯，不能以視力尚可排除 ruptured globe。\n\n【核心考點】\n鈍傷後 hyphema 要追蹤眼壓；retrobulbar hemorrhage 才是急性眼眶腔室症候群的典型原因。",
+      "key_point": "前房出血可能造成眼壓升高。",
+      "flashcard_front": "blunt eye trauma / hyphema / orbital compartment syndrome / globe rupture",
+      "flashcard_back": "眼外傷若疑眼球破裂不可壓眼，需保護眼罩並緊急眼科處置。",
+      "flashcard_summary": "眼鈍傷 -> hyphema 可升眼壓，retrobulbar hemorrhage 才需緊急減壓",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題問成年人頸部側面腫塊原因何者最罕見。成人側頸腫塊要高度懷疑惡性轉移或淋巴瘤，也可能是唾液腺腫瘤；甲狀舌管囊腫典型在中線。\n\n【選項詳解】\n- A. 可見。淋巴瘤常以頸部淋巴結腫大表現，成人側頸腫塊需列入鑑別。\n- B. 可見。腮腺或下頷腺腫瘤可表現為側頸或下頷角附近腫塊。\n- C. 最罕見。甲狀舌管囊腫典型位於頸部中線、舌骨附近，吞嚥或伸舌會移動，不是成人側頸腫塊常見原因。\n- D. 可見。成人側頸淋巴結轉移需考慮上消化呼吸道或其他癌症轉移，包括消化道來源。\n\n【核心考點】\n成人側頸腫塊先排除惡性與轉移；甲狀舌管囊腫典型是中線病灶。",
+      "key_point": "甲狀舌管囊腫通常是頸部中線腫塊，不是成人側頸腫塊常見原因。",
+      "flashcard_front": "adult lateral neck mass / thyroglossal duct cyst",
+      "flashcard_back": "成人新出現側頸腫塊要先把惡性淋巴結轉移放在重要鑑別。",
+      "flashcard_summary": "成人側頸腫塊 -> 惡性轉移/淋巴瘤常見；thyroglossal duct cyst 偏中線",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題問頭部外傷 GCS 7、血壓很高、瞳孔不等大要 RSI 時何藥需特別小心。傳統考點認為 ketamine 可能增加腦血流與顱內壓，頭部外傷或顱壓升高需謹慎；現代觀點較細緻，但考題官方答案仍指 ketamine。\n\n【選項詳解】\n- A. 不是最需小心。Lidocaine 曾被用於插管前抑制顱壓反應，雖證據有限，但不是此題的禁忌重點。\n- B. 正確。Ketamine 傳統上被認為可能升高 intracranial pressure；在疑似顱壓升高、瞳孔不等大的頭部外傷病人需特別小心。\n- C. 相對適合。Etomidate 對血液動力學影響小，常用於不穩定病人 RSI；需注意腎上腺抑制但不是此題核心。\n- D. 需注意低血壓但非此題答案。Propofol 可降低腦代謝與顱壓，但會造成低血壓，頭傷病人使用需維持腦灌流壓。\n\n【核心考點】\n頭部外傷 RSI 要兼顧顱內壓與腦灌流壓；傳統考點對 ketamine 升顱壓採謹慎態度。",
+      "key_point": "疑似顱壓升高的頭部外傷 RSI，ketamine 在傳統考題中需特別小心。",
+      "flashcard_front": "RSI / head injury / ketamine / intracranial pressure",
+      "flashcard_back": "頭傷插管要避免低血壓、缺氧與顱壓惡化；藥物選擇需看血壓與腦灌流。",
+      "flashcard_summary": "頭傷 RSI -> 傳統考點 ketamine 需慎用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題問病人要求醫師對丈夫保密且病歷不能記載時，醫師如何應對。醫師應維護病人隱私，不任意告知配偶；但病歷屬醫療照護與法律文件，必須誠實完整記載。\n\n【選項詳解】\n- A. 正確。醫師可承諾對丈夫保密，除非有法律或重大危害例外；但病歷仍需詳實記載，不能因病人要求而偽造或省略重要資訊。\n- B. 錯誤。保密可以，但病歷不記載會違反病歷真實性與醫療專業義務。\n- C. 錯誤。誠實原則不等於必須向丈夫揭露病人私密過去；醫師對病人有保密義務。\n- D. 錯誤。丈夫一般沒有取得妻子既往婚育史的重大知情權，除非涉及明確重大危害或法定通報。\n\n【核心考點】\n保密與病歷真實可以並存：對第三人保密，但醫療紀錄需誠實完整。",
+      "key_point": "醫師應保護病人隱私，但不能不實或故意省略病歷。",
+      "flashcard_front": "confidentiality / medical record / truthful documentation",
+      "flashcard_back": "病人隱私不因婚姻關係自動讓配偶知情；病歷是專業與法律紀錄，需真實。",
+      "flashcard_summary": "醫療倫理 -> 對配偶保密，病歷仍需詳實記載",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題問醫師拒絕家屬不要告知癌症報告的要求，是考量哪項倫理原則。病人有權知道自己的診斷與治療選項，醫師應尊重病人的知情與決策自主。\n\n【選項詳解】\n- A. 不是最佳。行善原則重視病人利益，但若以保護病人為由剝奪知情，可能造成 paternalism。\n- B. 正確。尊重自主要求醫師向有決定能力的病人提供重要醫療資訊，讓病人能自行做決策。\n- C. 不是最佳。不傷害原則可解釋家屬擔心衝擊，但不能作為常規隱瞞診斷的理由。\n- D. 不是最佳。正義原則關注公平分配與公正對待，不是本題拒絕隱瞞的核心。\n\n【核心考點】\n癌症診斷告知的倫理核心是尊重病人自主與知情同意；家屬不能取代有能力病人的知情權。",
+      "key_point": "拒絕家屬要求隱瞞病情，主要是尊重病人自主。",
+      "flashcard_front": "truth telling / autonomy / family request nondisclosure",
+      "flashcard_back": "有決定能力的病人有權知道診斷與治療資訊，才能做自主選擇。",
+      "flashcard_summary": "病情告知 -> respect for autonomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題問末期病人意識不清且醫護認為死亡不可避免時，不施行急救的優先次序。應先查病人是否已有 DNR 意願書；若無或需確認，再查醫療委任代理人；最後才由家屬依法定程序同意。\n\n【選項詳解】\n- A. 正確。先尊重病人已簽署的 DNR 意願書，再查有無醫療委任代理人，最後才徵詢家屬同意，是最符合病人自主優先的順序。\n- B. 錯誤。若先找家屬而跳過醫療委任代理人，會弱化病人事前指定代理人的效力。\n- C. 錯誤。醫療委任代理人重要，但若病人已簽 DNR 意願書，應先以病人明示意願為最高優先。\n- D. 錯誤。先代理人、再家屬、最後才查 DNR 會顛倒病人自主意願的優先性。\n\n【核心考點】\n末期病人急救決策優先尊重病人本人預立意願，其次是醫療委任代理人，再來才是家屬同意。",
+      "key_point": "DNR 決策順序：先查病人意願書，再查醫療委任代理人，再徵求家屬同意。",
+      "flashcard_front": "末期病人急救 / DNR / healthcare proxy / family consent",
+      "flashcard_back": "病人自主優先於家屬意見；意識不清時依預立意願與代理人制度處理。",
+      "flashcard_summary": "DNR 優先序 -> 意願書 > 醫療委任代理人 > 家屬同意",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

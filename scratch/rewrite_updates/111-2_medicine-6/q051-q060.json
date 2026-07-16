@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問何者不是陰道鏡下侵犯性病灶特徵。醋酸白化可見於 HPV/CIN 等上皮病變，敏感但不特異；真正侵犯性病灶更重視異常血管、不規則表面、潰瘍與壞死。\n\n【選項詳解】\n- A. 是特徵。異常、粗大或不規則血管可提示高級別或侵犯性病灶。\n- B. 是特徵。不規則表面、上皮潰爛或腫塊樣變化需懷疑侵犯癌。\n- C. 不是侵犯專一特徵。醋酸塗抹後白化常見於 HPV 感染或 CIN，不能單獨代表侵犯性病灶。\n- D. 是特徵。血管增生、壞死或顏色不均可提示侵犯性病變。\n\n【核心考點】\nAcetowhite 是陰道鏡常見異常但不等於侵犯癌；侵犯性病灶要看血管、潰瘍、壞死與表面不規則。",
+      "key_point": "醋酸白化不是子宮頸陰道鏡下侵犯性病灶的專一特徵。",
+      "flashcard_front": "colposcopy / invasive lesion / acetowhite",
+      "flashcard_back": "醋酸白化可見於 CIN；若疑侵犯癌需切片確認。",
+      "flashcard_summary": "陰道鏡侵犯癌特徵 -> 異常血管/潰瘍/壞死；acetowhite 不特異",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題問妊娠滋養細胞疾病何者錯誤。多數 GTD 會 hCG 升高，但不能說所有病人都一定異常上升；疾病包含葡萄胎、侵襲性葡萄胎、絨毛膜癌、胎盤部位滋養細胞腫瘤等，表現不同。\n\n【選項詳解】\n- A. 大致正確。GTD 是妊娠相關滋養層細胞異常增生疾病，常與胎盤滋養細胞來源有關。\n- B. 錯誤。多數 GTD 會 hCG 上升，但某些型態如 placental site trophoblastic tumor hCG 可不高或僅輕度上升，不能說都會異常上升。\n- C. 正確。GTN 化療治癒後仍可能保留生育能力並正常懷孕，需完成追蹤後再懷孕。\n- D. 正確。低風險 GTN 對 methotrexate 或 actinomycin D 等化療反應佳，緩解率高。\n\n【核心考點】\nGTD/GTN 追蹤常用 hCG，但不是所有滋養細胞腫瘤都一定高 hCG；低風險 GTN 化療效果好。",
+      "key_point": "不能絕對說所有 GTD 病人 hCG 都會異常上升。",
+      "flashcard_front": "GTD / hCG / GTN chemotherapy / normal pregnancy after cure",
+      "flashcard_back": "GTD 需以 hCG 追蹤，但要知道不同亞型表現不同。",
+      "flashcard_summary": "GTD -> 多數 hCG 高，但 PSTT 等可不明顯；低風險 GTN 化療佳",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題問子宮內膜癌 type I 與 type II 何者不恰當。Type I 多為 estrogen-related endometrioid carcinoma，較年輕、常見 PTEN；type II 較高齡、高惡性、與 HER2/p53 等相關。同步原發卵巢上皮癌較常與 type I/endometrioid 型相關。\n\n【選項詳解】\n- A. 恰當。Type I 通常與 estrogen exposure、肥胖、無排卵等相關；type II 較不直接依賴荷爾蒙。\n- B. 恰當。Type I 常較年輕或圍停經族群；type II 多見於較高齡、萎縮性內膜背景。\n- C. 不恰當。同步原發卵巢上皮癌較常見於 type I endometrioid carcinoma，不是 type II 比 type I 更容易。\n- D. 恰當。PTEN mutation 常見於 type I；HER2/neu 擴增可見於 serous/type II 相關腫瘤。\n\n【核心考點】\nType I 子宮內膜癌與雌激素、PTEN、較年輕及同步卵巢 endometrioid 腫瘤較相關；type II 較高惡性。",
+      "key_point": "同步原發卵巢癌較常與 type I 子宮內膜癌相關。",
+      "flashcard_front": "endometrial cancer type I type II / synchronous ovarian cancer",
+      "flashcard_back": "Type I 多為 endometrioid、荷爾蒙相關；type II 多為 serous/clear cell 等高惡性型。",
+      "flashcard_summary": "內膜癌分類 -> type I: estrogen/PTEN/synchronous ovarian；type II: 高齡高惡性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題問何者最能表示卵巢卵泡庫存量下降。卵巢庫存下降時 AFC 低、AMH 低、day 3 FSH 常上升；AFC 小於 4 是直接且強的低庫存線索。\n\n【選項詳解】\n- A. 錯誤。卵巢庫存下降時 day 3 FSH 常上升，不是下降。\n- B. 錯誤。Day 3 estradiol 偏高可能假性壓低 FSH，低 estradiol 不是最能代表庫存下降的指標。\n- C. 正確。兩側 antral follicle count 總數小於 4 表示可募集卵泡數少，支持卵巢庫存下降。\n- D. 錯誤。AMH 由小卵泡分泌，卵巢庫存下降時 AMH 下降，不是上升。\n\n【核心考點】\n卵巢庫存下降：AFC 低、AMH 低、day 3 FSH 高。",
+      "key_point": "AFC < 4 是卵巢庫存量下降的重要指標。",
+      "flashcard_front": "ovarian reserve / AFC / AMH / day 3 FSH",
+      "flashcard_back": "Antral follicle count 與 AMH 反映可募集卵泡數；低值提示 ovarian reserve decreased。",
+      "flashcard_summary": "卵巢庫存下降 -> AFC 低、AMH 低、FSH 高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題問 PCOS 雄性素過高何者不是原因。PCOS 高胰島素會刺激卵巢 androgen 生成並降低肝臟 SHBG，使游離睪固酮增加；SHBG 過多反而會降低游離 androgen。\n\n【選項詳解】\n- A. 可造成。部分 PCOS 或相關高雄性素狀態可有腎上腺 DHEAS 增加。\n- B. 可造成。卵巢 theca cell 在 LH 與 insulin 影響下增加 testosterone 生成。\n- C. 不是原因。SHBG 會結合性激素，肝臟分泌過多 SHBG 會降低游離 testosterone；PCOS 常見的是 SHBG 降低。\n- D. 可造成。胰島素過多會促進卵巢 androgen 生成並抑制 SHBG，增加游離雄性素。\n\n【核心考點】\nPCOS 高雄性素來自卵巢/腎上腺 androgen 增加與 SHBG 降低；高 SHBG 不是高雄性素原因。",
+      "key_point": "PCOS 常是 SHBG 下降造成游離 androgen 增加，不是 SHBG 上升。",
+      "flashcard_front": "PCOS / hyperandrogenism / SHBG / insulin",
+      "flashcard_back": "高胰島素促進卵巢 androgen 並降低 SHBG，使游離 testosterone 增加。",
+      "flashcard_summary": "PCOS 高雄性素 -> insulin 高、testosterone/DHEAS 高、SHBG 低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題問正常女性 LH surge 開始後多久排卵。LH surge 啟動卵母細胞成熟與濾泡破裂，排卵通常在 LH surge 開始後約 34 至 36 小時。\n\n【選項詳解】\n- A. 太早。10 至 12 小時通常不足以完成 LH surge 後的排卵流程。\n- B. 偏早。22 至 24 小時仍早於典型排卵時間。\n- C. 正確。排卵通常發生在 LH surge 開始後約 34 至 36 小時，IVF 取卵時間也依此安排。\n- D. 偏晚。46 至 48 小時通常已超過排卵典型時間，可能錯過最佳取卵時機。\n\n【核心考點】\nLH surge 開始後約 34 至 36 小時排卵；取卵需在排卵前安排。",
+      "key_point": "Ovulation occurs about 34-36 hours after onset of LH surge。",
+      "flashcard_front": "LH surge / ovulation timing / IVF trigger",
+      "flashcard_back": "IVF 取卵通常安排在 trigger 後約 34-36 小時，避免已排卵。",
+      "flashcard_summary": "LH surge -> 34-36 小時後排卵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題問尿失禁手術何者錯誤。壓力性尿失禁吊帶手術的重點是中段尿道支撐；TVT 是無張力置於 mid-urethra，而不是膀胱頸。\n\n【選項詳解】\n- A. 正確。Burch colposuspension 將陰道旁組織固定到 Cooper ligament，以改善尿道膀胱頸支撐。\n- B. 錯誤。TVT 是以無張力方式放在中段尿道（mid-urethra）下方，不是膀胱頸處。\n- C. 正確。TOT 經閉孔路徑較避開 Retzius space，因此腸道與大血管損傷風險較 TVT 低。\n- D. 正確。TVT 經恥骨後路徑，較 TOT 更容易發生膀胱穿孔。\n\n【核心考點】\nTVT/TOT 都是 mid-urethral sling；TVT 膀胱穿孔風險較高，TOT 大血管與腸道風險較低。",
+      "key_point": "TVT 吊帶放在中段尿道，不是膀胱頸。",
+      "flashcard_front": "stress urinary incontinence surgery / TVT / mid-urethra",
+      "flashcard_back": "TVT 走恥骨後路徑，TOT 走閉孔路徑；兩者皆支撐中段尿道。",
+      "flashcard_summary": "尿失禁手術 -> TVT 是 mid-urethral sling",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問何者不是中大腦動脈中風常見症狀。MCA 供應外側額頂顳葉，可造成偏癱、失語、忽略、失用等；動作不能性緘默較典型與雙側前額葉或 ACA/扣帶迴相關。\n\n【選項詳解】\n- A. 常見。非優勢半球 MCA，特別右頂葉受損，可造成 neglect syndrome。\n- B. 常見。優勢半球頂葉或額頂網絡受損可造成 apraxia。\n- C. 可見但不是典型最核心。Affective agnosia 可與右半球情緒韻律或臉部情緒辨識網絡受損相關，但不是 MCA 經典常見主症狀。\n- D. 最不屬常見 MCA。Akinetic mutism 多見於雙側前額葉、前扣帶或 ACA 區域病變，非典型 MCA 常見表現。\n\n【核心考點】\nMCA 中風常見外側大腦皮質症狀：失語、忽略、失用、偏癱；akinetic mutism 更偏 ACA/前扣帶病灶。",
+      "key_point": "動作不能性緘默不是 MCA 中風常見典型症狀。",
+      "flashcard_front": "MCA stroke / neglect / apraxia / akinetic mutism",
+      "flashcard_back": "MCA 供應外側大腦半球；ACA/前扣帶病變較會造成 akinetic mutism。",
+      "flashcard_summary": "MCA stroke -> neglect/apraxia/aphasia 常見，akinetic mutism 偏 ACA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題問周邊神經病變復健治療何者錯誤。Neurotmesis 是神經完全斷裂，若沒有連續性，單靠復健等 3 個月會延誤修補時機，應及早外科評估。\n\n【選項詳解】\n- A. 正確。早期支架與被動關節運動可預防攣縮、維持關節活動度與功能位置。\n- B. 正確。完全去神經肌肉可使用特定電刺激策略延緩萎縮與纖維化，但效果有限且需適當參數。\n- C. 錯誤。Neurotmesis 是神經截斷或完全斷裂，通常需要早期手術評估與修補，不應一律先復健 3 個月。\n- D. 正確。Neuropraxia 是傳導阻斷、軸突連續性保留，預後通常良好，數週到數月可恢復。\n\n【核心考點】\n神經損傷分級決定處置：neuropraxia 可期待恢復；neurotmesis 需早期外科評估。",
+      "key_point": "Neurotmesis 不應固定先復健 3 個月才考慮手術。",
+      "flashcard_front": "peripheral nerve injury / neurotmesis / surgery",
+      "flashcard_back": "Neuropraxia 預後好；axonotmesis 需再生；neurotmesis 常需修補。",
+      "flashcard_summary": "周邊神經損傷 -> neurotmesis 需早期手術評估",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，原公告作答鍵為 A。題目所稱 Formet's sign 應是 Froment's sign，典型測試拇指內收肌功能；尺神經病變時病人夾紙會以拇長屈肌代償而拇 IP 關節屈曲。\n\n【選項詳解】\n- A. 原公告作答鍵且醫學上最符合。尺神經支配 adductor pollicis 與多數骨間肌，病變會造成 Froment sign 陽性。\n- B. 不符合。橈神經主要影響腕指伸展，典型是垂腕，不是 Froment sign 的神經。\n- C. 不符合。正中神經支配 thenar 部分肌肉與拇長屈肌；Froment sign 中拇長屈肌常是代償肌，不是主要受損神經。\n- D. 不符合。肌皮神經支配肱二頭肌等前臂屈肌群，與手內在肌萎縮及 Froment sign 無直接關係。\n\n【核心考點】\nFroment sign 是尺神經病變導致 adductor pollicis 無力的表現；本題因拼字或命題因素官方 all credit。",
+      "key_point": "Froment sign 典型是 ulnar nerve lesion；111-2 第 60 題官方一律給分。",
+      "flashcard_front": "Froment sign / ulnar nerve / all credit",
+      "flashcard_back": "夾紙時拇 IP 屈曲代表以 median-innervated FPL 代償 ulnar-innervated adductor pollicis。",
+      "flashcard_summary": "Froment sign -> ulnar nerve；本題 all credit",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正：第60題一律給分；原公告作答鍵為 A。"
+      ]
+    }
+  ]
+}

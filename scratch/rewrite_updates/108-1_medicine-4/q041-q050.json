@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-4.json",
+  "dataset_id": "108-1_medicine-4",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-4_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n題目問青年型皮肌炎何者錯誤。成人皮肌炎較需警覺惡性腫瘤，但juvenile dermatomyositis較典型的是皮膚血管病變、肌炎與鈣化症，鼻咽癌關聯不是其常見特色。\n\n【選項詳解】\n- A. 正確。Juvenile dermatomyositis可有皮膚表現明顯而肌肉症狀較少的amyopathic或hypomyopathic表現。\n- B. 正確。皮膚鈣化症是兒童皮肌炎常考併發症，尤其病程慢性或控制不佳時更常見。\n- C. 正確。血管病變是JDM的重要病理機轉，可造成皮膚潰瘍、甲摺微血管變化與系統性表現。\n- D. 錯誤，為本題答案。鼻咽癌等惡性腫瘤關聯主要是成人皮肌炎考點，青年型皮肌炎並不常見。\n\n【核心考點】\nJuvenile dermatomyositis常見鈣化症與血管病變；惡性腫瘤關聯遠低於成人型。",
+      "key_point": "Juvenile dermatomyositis常見鈣化症與血管病變；惡性腫瘤關聯遠低於成人型。",
+      "flashcard_front": "JDM / calcinosis cutis / vasculopathy / malignancy少",
+      "flashcard_back": "青年型皮肌炎與成人不同，重點是皮膚肌肉發炎、血管病變與鈣化症，不是鼻咽癌。",
+      "flashcard_summary": "JDM -> calcinosis與vasculopathy常見，癌症關聯少",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n題目問皮膚黑色素過度沉著何者錯誤。汗斑可造成低色素或高色素斑，不是只會變深；Malassezia相關代謝物可影響黑色素生成。\n\n【選項詳解】\n- A. 正確。黑色素細胞數量增加或黑色素生成、轉運增加，都可能造成皮膚顏色變深。\n- B. 錯誤，為本題答案。汗斑可呈現低色素、紅褐色或高色素斑，並非只造成膚色變深。\n- C. 正確。轉移性黑色素瘤可釋放或造成廣泛色素變化，少數情況可見universal melanosis。\n- D. 正確。基因、荷爾蒙與紫外線都可影響黑色素細胞活性或黑色素合成。\n\n【核心考點】\n汗斑可造成低色素或高色素斑；說只會造成膚色變深是錯誤的。",
+      "key_point": "汗斑可造成低色素或高色素斑；說只會造成膚色變深是錯誤的。",
+      "flashcard_front": "Pityriasis versicolor / hypopigmentation / hypermelanosis",
+      "flashcard_back": "汗斑由Malassezia造成，臨床可變深也可變淺，因此不是單純黑色素過度沉著疾病。",
+      "flashcard_summary": "汗斑 -> 可低色素也可高色素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n題目問黑色素沉著治療何者錯誤。表皮黑色素較能用外用淡斑藥處理；真皮深層色素需要能穿透較深且選擇性破壞色素的雷射，Nd:YAG通常比IPL更適合。\n\n【選項詳解】\n- A. 正確。表皮層黑色素增加時，hydroquinone可抑制黑色素生成，常用於表皮型色素沉著。\n- B. 錯誤，為本題答案。真皮層色素較深，IPL穿透與選擇性較有限，Q-switched Nd:YAG等雷射通常更合適。\n- C. 正確。雷射能量過高或治療太密集會破壞黑色素細胞，可能造成醫源性色素脫失。\n- D. 正確。外用A酸可促進角質代謝並輔助淡化雀斑或表皮型色素問題，但常需合併防曬。\n\n【核心考點】\n真皮色素沉著通常較適合Nd:YAG等可達深層的雷射，IPL不是較佳選擇。",
+      "key_point": "真皮色素沉著通常較適合Nd:YAG等可達深層的雷射，IPL不是較佳選擇。",
+      "flashcard_front": "真皮黑色素 / IPL / Nd:YAG / hydroquinone",
+      "flashcard_back": "表皮黑色素可用hydroquinone等外用藥；真皮深層色素需較深穿透雷射，過度治療會色素脫失。",
+      "flashcard_summary": "色素治療 -> 表皮外用藥，真皮偏Nd:YAG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n高齡男性足部紫色斑塊，加上病理篩板狀或裂隙狀血管增生，最典型是Kaposi sarcoma。此病常與HHV-8相關，可見於老年、免疫低下或HIV感染者。\n\n【選項詳解】\n- A. 錯誤。血管肉瘤多為侵襲性惡性血管腫瘤，常見頭頸部或放射後皮膚，不以足部慢性紫斑與HHV-8脈絡為典型。\n- B. 正確。Kaposi sarcoma典型表現為紫紅色斑塊、結節，病理有裂隙狀血管增生與梭形細胞。\n- C. 錯誤。血管角化瘤是表淺血管擴張合併角化，通常為小丘疹，不符合本題病理描述。\n- D. 錯誤。竇狀血管瘤是良性血管病變，與高齡足部紫色斑塊及Kaposi典型病理不合。\n\n【核心考點】\n足部紫色斑塊加裂隙狀/篩板狀血管增生，最符合Kaposi sarcoma。",
+      "key_point": "足部紫色斑塊加裂隙狀/篩板狀血管增生，最符合Kaposi sarcoma。",
+      "flashcard_front": "紫色斑塊 / slit-like vascular spaces / Kaposi sarcoma",
+      "flashcard_back": "Kaposi sarcoma可見紫紅色皮膚斑塊或結節，病理有裂隙狀血管與梭形細胞，與HHV-8相關。",
+      "flashcard_summary": "紫色斑塊 + 裂隙狀血管 -> Kaposi sarcoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n承上題為Kaposi sarcoma。Kaposi sarcoma最重要的病毒關聯是human herpesvirus 8，也稱Kaposi sarcoma-associated herpesvirus。\n\n【選項詳解】\n- A. 正確。HHV-8與Kaposi sarcoma有強關聯，是本題承上題最直接的病毒答案。\n- B. 錯誤。HSV-2主要造成生殖器疱疹，與Kaposi sarcoma不是典型關聯。\n- C. 錯誤。HPV與子宮頸癌、肛門癌、疣等相關，不是Kaposi sarcoma的致病病毒。\n- D. 錯誤。EBV與鼻咽癌、Burkitt lymphoma、部分Hodgkin lymphoma等相關，不是Kaposi sarcoma的典型病毒。\n\n【核心考點】\nKaposi sarcoma與HHV-8感染相關。",
+      "key_point": "Kaposi sarcoma與HHV-8感染相關。",
+      "flashcard_front": "Kaposi sarcoma / HHV-8",
+      "flashcard_back": "看到Kaposi sarcoma就連到HHV-8；它也稱Kaposi sarcoma-associated herpesvirus。",
+      "flashcard_summary": "Kaposi sarcoma -> HHV-8",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n病人晚間10點正常、早上8點醒來即有中風症狀，屬wake-up stroke；到院時已無法確定在傳統IV tPA時間窗內。題幹未提供可做再灌流治療的特殊影像條件，因此最適合急性處置是抗血小板治療。\n\n【選項詳解】\n- A. 錯誤。IV tPA需符合時間窗與影像條件；醒後中風若無進階影像篩選，不可直接視為可溶栓。\n- B. 錯誤。頸動脈支架不是左側放射冠小梗塞的急性標準處置，需有相對應大血管狹窄適應症。\n- C. 正確。無法使用溶栓或取栓時，缺血性中風急性期常以抗血小板藥物作為基本治療。\n- D. 錯誤。抗凝血主要用於心房顫動等心因性栓塞特定情境，急性小梗塞不能常規立即抗凝。\n\n【核心考點】\nWake-up stroke若無法證明在再灌流治療適應症內，急性處置以抗血小板等標準治療為主。",
+      "key_point": "Wake-up stroke若無法證明在再灌流治療適應症內，急性處置以抗血小板等標準治療為主。",
+      "flashcard_front": "Wake-up stroke / IV tPA時間窗 / antiplatelet",
+      "flashcard_back": "醒後中風發作時間不明；若未符合溶栓或取栓條件，急性缺血性中風以抗血小板治療為主。",
+      "flashcard_summary": "醒後中風 -> 未符溶栓條件時抗血小板",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n此題有官方更正為A與C皆可給分。一般臨床上蜘蛛膜下腔出血最常見原因可包含外傷；若限定自發性SAH，最典型原因是囊狀動脈瘤破裂。題解應保留官方多重答案。\n\n【選項詳解】\n- A. 正確。外傷是整體SAH常見原因，官方更正接受此選項。\n- B. 錯誤。動靜脈畸形可造成顱內出血或SAH，但不是最常見答案。\n- C. 正確。自發性SAH最典型、最常考原因是顱內囊狀動脈瘤破裂，官方也接受此選項。\n- D. 錯誤。梭狀動脈瘤不是SAH最常見原因，考試上不如囊狀動脈瘤典型。\n\n【核心考點】\n本題官方更正A、C皆給分；整體SAH可見外傷，自發性SAH最典型是囊狀動脈瘤破裂。",
+      "key_point": "本題官方更正A、C皆給分；整體SAH可見外傷，自發性SAH最典型是囊狀動脈瘤破裂。",
+      "flashcard_front": "SAH / trauma / saccular aneurysm / 官方更正",
+      "flashcard_back": "蜘蛛膜下腔出血若問整體原因可考外傷；若問自發性SAH，最典型是berry/saccular aneurysm破裂。本題A、C皆接受。",
+      "flashcard_summary": "SAH原因 -> 官方更正A與C皆可",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "官方更正多重答案：A與C皆接受，已保留原始答案欄位不改動。"
+      ]
+    },
+    {
+      "question_id": "108-1_medicine-4_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\nCerebral venous sinus thrombosis最常見表現是頭痛，可能因靜脈壓上升與顱內壓升高造成。其他局灶神經症狀、癲癇或意識障礙可出現，但不是最常見。\n\n【選項詳解】\n- A. 錯誤。複視可因顱內壓升高造成第六腦神經麻痺而出現，但不是最常見主訴。\n- B. 正確。頭痛是CVST最常見臨床表現，可為亞急性、漸進或類似偏頭痛樣。\n- C. 錯誤。單側肢體無力可因靜脈性梗塞或出血出現，但頻率低於頭痛。\n- D. 錯誤。意識障礙代表較嚴重或廣泛病變，並非最常見初始表現。\n\n【核心考點】\n腦靜脈竇栓塞最常見臨床表現是頭痛。",
+      "key_point": "腦靜脈竇栓塞最常見臨床表現是頭痛。",
+      "flashcard_front": "CVST / 最常見症狀 / headache",
+      "flashcard_back": "CVST可有頭痛、癲癇、局灶神經缺損與顱內壓升高；最常見仍是頭痛。",
+      "flashcard_summary": "CVST -> 頭痛最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\nREM sleep behavior disorder是REM睡眠肌肉失張力消失，病人會把夢境動作演出來。REM睡眠較集中在後半夜，因此RBD通常在後半夜出現，且常與未來突觸核蛋白病變相關。\n\n【選項詳解】\n- A. 正確。REM期在睡眠後半夜較多，所以RBD事件常在後半夜發生。\n- B. 錯誤。RBD動作通常隨夢境內容變化，不像某些癲癇或刻板行為有高度固定模式。\n- C. 錯誤。RBD較預示Parkinson disease、Lewy body dementia或multiple system atrophy等synucleinopathy，不是最典型變成阿茲海默症。\n- D. 錯誤。RBD夢境常是被追趕、攻擊或防衛等不愉快內容，病人可能揮拳踢腿而受傷。\n\n【核心考點】\nRBD常在後半夜發生，且是Parkinson disease與Lewy body dementia等synucleinopathy的重要前驅線索。",
+      "key_point": "RBD常在後半夜發生，且是Parkinson disease與Lewy body dementia等synucleinopathy的重要前驅線索。",
+      "flashcard_front": "REM sleep behavior disorder / 後半夜 / synucleinopathy",
+      "flashcard_back": "RBD是REM期肌肉失張力消失，病人演出夢境；常在後半夜發生，未來要警覺巴金森相關神經退化。",
+      "flashcard_summary": "RBD -> 後半夜、夢境演出、synucleinopathy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n14歲、晨起肌陣攣、跌倒、智力正常與家族史，典型是青少年肌陣攣性癲癇（JME）。題目問錯誤，診斷成兒童失神性癲癇不恰當。\n\n【選項詳解】\n- A. 正確。JME腦波可見廣泛性多棘慢波，常在4-6 Hz附近描述。\n- B. 正確。JME常有遺傳傾向，家族癲癇基因資訊可作為診斷輔助，但仍需臨床與EEG判斷。\n- C. 正確。Valproate對JME效果佳，常被視為首選之一；女性用藥需另外評估致畸與生殖風險。\n- D. 錯誤，為本題答案。兒童失神性癲癇典型是短暫發呆與3-Hz spike-wave，不是晨起肌陣攣跌倒。\n\n【核心考點】\n青少年晨起肌陣攣加廣泛性多棘慢波，最符合JME；不是兒童失神性癲癇。",
+      "key_point": "青少年晨起肌陣攣加廣泛性多棘慢波，最符合JME；不是兒童失神性癲癇。",
+      "flashcard_front": "14歲 / morning myoclonus / JME / valproate",
+      "flashcard_back": "JME常在青春期出現晨起肌陣攣，可伴全身強直陣攣；EEG為廣泛性多棘慢波，治療常用valproate等。",
+      "flashcard_summary": "晨起肌陣攣 -> Juvenile myoclonic epilepsy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

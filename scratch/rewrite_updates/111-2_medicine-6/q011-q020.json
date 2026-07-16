@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問何者不是牽引性視網膜剝離常見原因。牽引性剝離來自纖維血管膜或瘢痕收縮牽拉；急性後玻璃體剝離較常造成裂孔性剝離。\n\n【選項詳解】\n- A. 是常見原因。增殖性糖尿病視網膜病變會形成纖維血管膜，收縮後牽拉視網膜造成 tractional retinal detachment。\n- B. 是常見原因。嚴重早產兒視網膜病變可有異常血管增生與纖維化牽引，造成牽引性剝離。\n- C. 是常見原因。穿透性後段眼外傷可造成玻璃體與視網膜纖維化、增殖性玻璃體視網膜病變，進而牽引視網膜。\n- D. 不是常見原因。急性後玻璃體剝離常因牽拉造成視網膜裂孔，典型後續是裂孔性而非牽引性視網膜剝離。\n\n【核心考點】\n牽引性視網膜剝離常見於 PDR、ROP、外傷後纖維化；急性 PVD 更典型連到裂孔性剝離。",
+      "key_point": "急性後玻璃體剝離不是牽引性視網膜剝離的常見原因。",
+      "flashcard_front": "tractional retinal detachment / PDR / ROP / PVD",
+      "flashcard_back": "PDR/ROP/外傷纖維膜會牽引視網膜；急性 PVD 常造成裂孔性剝離。",
+      "flashcard_summary": "視網膜剝離機轉 -> fibrous traction vs retinal tear",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題問結膜炎分泌物何者錯誤。分泌物型態可提示病因：病毒多 watery，過敏常 mucoid/stringy，細菌與性病感染多膿性或黏液膿性。\n\n【選項詳解】\n- A. 正確。披衣菌結膜炎常有慢性濾泡性結膜炎與黏液膿狀分泌物。\n- B. 正確。淋病奈瑟菌可造成急性嚴重膿性分泌物，甚至迅速侵犯角膜，是眼科急症。\n- C. 錯誤。急性過敏性結膜炎常見的是黏液性、牽絲狀或水樣分泌物；若題目將單純 mucoid 與急性過敏作不恰當對應，考點在分泌物分類需更精準，過敏尤其重點是癢與黏絲狀分泌物。\n- D. 正確。病毒性結膜炎典型為水樣分泌物，常合併濾泡、耳前淋巴結或上呼吸道症狀。\n\n【核心考點】\nWatery 偏病毒，severe purulent 偏淋病，mucopurulent 可見於細菌或披衣菌；過敏最重要線索是癢與黏絲狀分泌物。",
+      "key_point": "結膜炎分泌物判讀要連同癢、濾泡、膿性程度與病程一起看。",
+      "flashcard_front": "結膜炎分泌物 / watery / mucoid / purulent",
+      "flashcard_back": "病毒多水樣；淋病可嚴重膿性；披衣菌常黏液膿性；過敏重點是癢與黏絲狀分泌物。",
+      "flashcard_summary": "結膜炎分泌物 -> watery 病毒，膿性細菌/淋病，癢加黏絲狀偏過敏",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問遠距視力表結果如何解讀。裸視視力代表未矯正狀態下看遠的能力；視力好不等於一定遠視，視力差也不能單獨診斷遠視或排除遠視。\n\n【選項詳解】\n- A. 不正確。裸視 1.5 代表遠距視力很好，但不能直接推論是遠視眼；正視眼或輕度遠視也可能視力好。\n- B. 較正確。近視眼遠方影像落在視網膜前，未矯正時遠距視力通常下降；裸視 1.5 表示明顯近視的可能性低。\n- C. 不正確。裸視 0.5 代表未矯正遠距視力較差，可能是近視、散光、眼疾或其他原因，不能直接等於遠視。\n- D. 不正確。遠視病人若調節不足、年齡較大或合併其他屈光問題，也可能裸視不佳，因此不能說 0.5 不會是遠視。\n\n【核心考點】\n遠距裸視好代表明顯近視可能低，但不能用單一視力值診斷遠視；屈光狀態需驗光確認。",
+      "key_point": "裸視 1.5 只能說不太像明顯近視，不能直接診斷遠視。",
+      "flashcard_front": "遠距視力 / 裸視 1.5 / 近視遠視",
+      "flashcard_back": "視力表結果是功能表現；近視遠視需屈光檢查，不能只靠裸視數字判斷。",
+      "flashcard_summary": "遠距視力解讀 -> 裸視佳不等於遠視，但明顯近視機率低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問先天性白內障何者錯誤。先天性白內障可造成白瞳與剝奪性弱視；單側白內障因兩眼競爭不平衡，通常比雙側更容易造成嚴重弱視。\n\n【選項詳解】\n- A. 正確。先天性白內障是白瞳的重要鑑別診斷，需與視網膜母細胞瘤、ROP、Coats disease 等區分。\n- B. 正確。雙眼輕微、不影響視軸的白內障可追蹤觀察，視覺發育受威脅時才需及早手術。\n- C. 錯誤。單側白內障通常比雙側更容易造成深度弱視，因為正常眼會抑制患眼視覺輸入；雙側雖也會影響發育，但競爭性抑制較不同。\n- D. 正確。先天性白內障手術後可能發生續發性青光眼，需要長期追蹤眼壓與視神經。\n\n【核心考點】\n先天性白內障要警覺白瞳與弱視；單側病灶常比雙側更容易造成嚴重弱視。",
+      "key_point": "單側先天性白內障較容易造成嚴重剝奪性弱視。",
+      "flashcard_front": "先天性白內障 / leukocoria / amblyopia",
+      "flashcard_back": "先天性白內障可造成白瞳；若影響視軸需及早處理並長期追蹤青光眼。",
+      "flashcard_summary": "先天性白內障 -> 單側比雙側更容易造成嚴重弱視",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問弱視何者正確。弱視是視覺發育關鍵期因斜視、屈光不正或剝奪造成視皮質發育異常，越早發現與治療效果越好。\n\n【選項詳解】\n- A. 錯誤。弱視可單眼也可雙眼，例如雙眼高度屈光不正或雙側視覺剝奪都可能造成雙眼弱視。\n- B. 錯誤。內斜視常造成弱視，但外斜視若持續或造成抑制，也可能造成弱視，不能說完全不會。\n- C. 錯誤。老年人白內障造成矯正視力不佳屬於眼球介質混濁造成的視力下降，不是發育關鍵期的弱視。\n- D. 正確。弱視治療有時間窗，學齡前篩檢視力、立體感與斜視能及早發現並改善預後。\n\n【核心考點】\n弱視是兒童視覺發育期問題；早期篩檢、矯正屈光、遮眼或其他治療越早越有效。",
+      "key_point": "弱視需在 critical period 內及早發現與治療。",
+      "flashcard_front": "弱視 / critical period / screening",
+      "flashcard_back": "弱視可由斜視、屈光不正或視覺剝奪造成；不是所有成人視力差都叫弱視。",
+      "flashcard_summary": "弱視 -> 關鍵期內治療效果最好，學齡前應篩檢",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問視神經盤水腫的鑑別何者不相關。真正的 disc swelling 代表視神經乳頭腫脹；正常眼壓性青光眼典型是視神經凹陷與神經纖維層流失，不是乳頭水腫。\n\n【選項詳解】\n- A. 相關。糖尿病或高血壓可造成視神經病變、缺血性視神經病變或相關眼底變化，可能出現視神經盤腫脹。\n- B. 相關。Papilledema 是顱內壓上升造成的雙側視神經盤水腫，是重要鑑別。\n- C. 不相關。正常眼壓性青光眼是視神經萎縮與杯盤比增加，通常不是視神經盤水腫的表現。\n- D. 相關。中心視網膜靜脈阻塞早期或輕微病例可有視神經盤充血腫脹與視網膜出血。\n\n【核心考點】\nDisc swelling 的鑑別包含顱壓高、缺血、發炎、血管阻塞等；青光眼重點是 cupping，不是 swelling。",
+      "key_point": "正常眼壓性青光眼通常造成視神經凹陷，不是 optic disc swelling。",
+      "flashcard_front": "optic disc swelling / papilledema / glaucoma / CRVO",
+      "flashcard_back": "Papilledema 是顱壓高；正常眼壓性青光眼典型為視神經凹陷與視野缺損。",
+      "flashcard_summary": "視神經盤水腫鑑別 -> papilledema/血管/缺血；青光眼是 cupping",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題問侵犯眼睛的病毒何者不屬於疱疹病毒科。需背疱疹病毒家族成員：HSV、VZV、CMV、EBV、HHV-6/7/8；HIV 是反轉錄病毒。\n\n【選項詳解】\n- A. 屬於。Varicella-zoster virus 是 human herpesvirus 3，可造成帶狀疱疹眼病變。\n- B. 屬於。Epstein-Barr virus 是 human herpesvirus 4，可與眼部發炎或免疫相關病變有關。\n- C. 不屬於。HIV 屬於 Retroviridae 的 lentivirus，不是 herpes viruses；它可造成免疫低下並增加 CMV retinitis 等機會。\n- D. 屬於。Cytomegalovirus 是 human herpesvirus 5，免疫低下者可造成 CMV retinitis。\n\n【核心考點】\nVZV、EBV、CMV 都是 herpesvirus；HIV 是 retrovirus。",
+      "key_point": "HIV 不屬於疱疹病毒科。",
+      "flashcard_front": "herpes viruses / VZV / EBV / CMV / HIV",
+      "flashcard_back": "Herpesvirus 家族包含 HSV、VZV、EBV、CMV；HIV 是反轉錄病毒。",
+      "flashcard_summary": "病毒分類 -> VZV/EBV/CMV 是 herpesvirus，HIV 是 retrovirus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題問甲狀腺眼病變眼瞼攣縮何者錯誤。Lid retraction 是眼瞼位置異常偏高或偏低；眼球下看時上眼瞼跟隨下降延遲稱 lid lag，不是 lid retraction 的定義特徵。\n\n【選項詳解】\n- A. 正確。甲狀腺眼病變可單側或雙側，雖常雙側但不必然對稱。\n- B. 正確。眼瞼攣縮可發生於上眼瞼或下眼瞼，造成 scleral show 與暴露性角膜病變。\n- C. 正確。提上瞼肌與 Müller muscle 等 lid retractors 受交感活性、發炎或纖維化影響，可造成眼瞼攣縮。\n- D. 錯誤。眼球下看時上眼瞼下降延遲是 lid lag；它可見於 Graves，但不是眼瞼攣縮本身的特徵描述。\n\n【核心考點】\nGraves 眼病變常見 lid retraction；lid lag 是下視時上眼瞼追隨延遲，兩者要分開。",
+      "key_point": "下視時上眼瞼下落延遲是 lid lag，不是 lid retraction 的定義。",
+      "flashcard_front": "Graves ophthalmopathy / lid retraction / lid lag",
+      "flashcard_back": "Lid retraction 是眼瞼位置退縮；lid lag 是眼球下看時眼瞼跟隨延遲。",
+      "flashcard_summary": "甲狀腺眼病變 -> lid retraction 與 lid lag 不同",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題描述 50 歲左耳聽損、偶爾流膿，配合耳鏡影像判斷最可能診斷。慢性反覆耳漏與鼓膜穿孔或中耳慢性發炎最符合慢性中耳炎；膽脂瘤通常需有上鼓室凹陷袋、角質堆積或骨破壞線索。\n\n【選項詳解】\n- A. 較不符合。急性中耳炎通常是急性耳痛、發燒、鼓膜紅腫膨出，病程較急，不是長期偶爾流膿與聽損。\n- B. 較不符合。積液性中耳炎多為中耳積液與傳導性聽損，通常沒有反覆膿性耳漏。\n- C. 正確。慢性中耳炎常有鼓膜穿孔、反覆耳漏與傳導性聽力損失，符合題幹慢性病程。\n- D. 需鑑別但不是最可能。膽脂瘤可有惡臭耳漏與骨破壞，若影像呈典型角質堆積或 attic retraction 才更支持。\n\n【核心考點】\n慢性耳漏加聽損優先想到慢性中耳炎；膽脂瘤要看角質堆積、凹陷袋與骨破壞等特徵。",
+      "key_point": "反覆耳漏與聽力損失是慢性中耳炎的典型線索。",
+      "flashcard_front": "耳漏 / 聽損 / 慢性中耳炎 / 膽脂瘤",
+      "flashcard_back": "慢性中耳炎常見鼓膜穿孔、反覆耳漏與傳導性聽損；膽脂瘤需注意骨破壞線索。",
+      "flashcard_summary": "耳漏與聽損 -> 慢性中耳炎",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問老年型聽力退化何者最不適當。Presbycusis 典型為雙側對稱、漸進性高頻聽力下降，會影響語音辨識，噪音暴露會加重。\n\n【選項詳解】\n- A. 適當。男性常因噪音與職業暴露等因素，同年齡聽力退化可較女性嚴重。\n- B. 適當。長期噪音傷害會破壞毛細胞，使年齡相關聽力退化更明顯。\n- C. 適當。高頻聽損會影響子音辨識，病人常抱怨聽得到聲音但聽不清楚內容。\n- D. 不適當。老年型聽力退化通常從高頻開始，不是低頻先退化。\n\n【核心考點】\nPresbycusis 典型是高頻感音神經性聽損，造成語音辨識下降。",
+      "key_point": "老年型聽力退化通常先影響高頻。",
+      "flashcard_front": "presbycusis / high frequency hearing loss",
+      "flashcard_back": "Presbycusis 是漸進性高頻感音神經性聽損；噪音暴露會加劇。",
+      "flashcard_summary": "老年型聽損 -> 高頻先下降，語音辨識變差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-4.json",
+  "dataset_id": "108-1_medicine-4",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-4_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n題目問妥瑞氏症何者錯誤。Tourette disorder需有多個動作tic與至少一個聲音tic，病程超過一年，且起病在18歲以前；不是12歲以前。\n\n【選項詳解】\n- A. 正確。診斷需多個動作抽搐與至少一個聲音抽搐，但兩者不一定同時出現。\n- B. 錯誤，為本題答案。診斷標準是18歲以前發病，選項說12歲前過於嚴格。\n- C. 正確。症狀造成明顯困擾時，可用低劑量抗精神病藥物如aripiprazole、risperidone或haloperidol。\n- D. 正確。妥瑞氏症男性多於女性，是常見流行病學特徵。\n\n【核心考點】\nTourette disorder需動作與聲音tic、病程超過一年，且18歲以前發病。",
+      "key_point": "Tourette disorder需動作與聲音tic、病程超過一年，且18歲以前發病。",
+      "flashcard_front": "Tourette disorder / motor tic / vocal tic / onset before 18",
+      "flashcard_back": "妥瑞氏症不是12歲前，而是18歲前發病；可用行為治療與低劑量抗精神病藥物。",
+      "flashcard_summary": "妥瑞氏症 -> 18歲以前發病",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\nADHD過動衝動症狀常隨年齡較早改善，但注意力問題可能延續到成人，且物質使用共病風險較高。治療統合分析並不支持非藥物治療遠優於藥物治療。\n\n【選項詳解】\n- A. 正確。過動與衝動常比注意力缺陷更容易隨年齡下降。\n- B. 正確。部分ADHD患者到成人仍有注意力、執行功能與組織能力困難。\n- C. 錯誤，為本題答案。藥物治療，尤其刺激劑，對核心症狀效果明確；非藥物治療不是遠優於藥物。\n- D. 正確。ADHD與物質使用疾患、行為問題、焦慮或情緒疾患等共病風險增加。\n\n【核心考點】\nADHD藥物治療對核心症狀效果明確；非藥物治療並非遠優於藥物治療。",
+      "key_point": "ADHD藥物治療對核心症狀效果明確；非藥物治療並非遠優於藥物治療。",
+      "flashcard_front": "ADHD / treatment / stimulant / adult attention symptoms",
+      "flashcard_back": "ADHD過動可改善較早，注意力問題可持續；治療上藥物對核心症狀效果強，常搭配行為介入。",
+      "flashcard_summary": "ADHD治療 -> 藥物療效不弱於非藥物",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nNarcolepsy的白天嗜睡可用促醒藥物治療。選項中modafinil是被FDA認可用於治療嗜睡症白天過度嗜睡的藥物。\n\n【選項詳解】\n- A. 錯誤。Clozapine是抗精神病藥，與嗜睡症治療無關且可能造成嗜睡。\n- B. 錯誤。Lorazepam是benzodiazepine，具鎮靜效果，不是治療narcolepsy的促醒藥。\n- C. 錯誤。Lithium用於雙極性疾患等情境，不是narcolepsy標準治療。\n- D. 正確。Modafinil可促進清醒，是narcolepsy日間嗜睡常用且核准的治療藥物。\n\n【核心考點】\nModafinil可用於narcolepsy的日間過度嗜睡治療。",
+      "key_point": "Modafinil可用於narcolepsy的日間過度嗜睡治療。",
+      "flashcard_front": "Narcolepsy / modafinil",
+      "flashcard_back": "嗜睡症白天過度嗜睡可用modafinil等促醒藥物；猝倒另依情況治療。",
+      "flashcard_summary": "Narcolepsy -> modafinil",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n題目問酒精相關障礙何者錯誤。酒精可幫助入睡但會破壞睡眠結構，增加夜間醒來，減少REM與深睡期品質，因此說減少睡眠中斷、增加REM與stage 4 sleep是錯的。\n\n【選項詳解】\n- A. 正確。酒精使用疾患常共病其他物質使用、反社會人格、情感性疾患與焦慮疾患。\n- B. 正確。酒精戒斷可有手抖、焦慮、噁心、幻覺、癲癇，嚴重可譫妄震顫。\n- C. 正確。Benzodiazepines是酒精戒斷治療首選，可降低癲癇與譫妄風險。\n- D. 錯誤，為本題答案。酒精雖可縮短入睡時間，但會造成睡眠片段化，抑制REM並降低深睡品質。\n\n【核心考點】\n酒精會破壞睡眠結構並使睡眠片段化；戒斷治療首選benzodiazepines。",
+      "key_point": "酒精會破壞睡眠結構並使睡眠片段化；戒斷治療首選benzodiazepines。",
+      "flashcard_front": "Alcohol / withdrawal / benzodiazepines / sleep architecture",
+      "flashcard_back": "酒精戒斷可手抖、焦慮、幻覺、癲癇；治療首選BZD。酒精不會改善睡眠品質，反而使睡眠中斷。",
+      "flashcard_summary": "酒精 -> 入睡快但睡眠品質差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n睡眠驚恐與夢遊屬NREM parasomnia，常發生於前半夜的深睡期；夢魘則多發生於REM睡眠，常在後半夜。\n\n【選項詳解】\n- A. 錯誤。睡眠驚恐多在前半夜深層NREM睡眠，不是後半夜。\n- B. 錯誤。夢遊主要發生於NREM深睡期，不是REM期。\n- C. 錯誤。夢魘主要發生於REM睡眠，醒後常記得夢境內容。\n- D. 正確。睡眠驚恐常發生於非快速動眼期的深睡期，病人可尖叫、驚恐且醒後記憶少。\n\n【核心考點】\n睡眠驚恐與夢遊發生於深層NREM，夢魘發生於REM。",
+      "key_point": "睡眠驚恐與夢遊發生於深層NREM，夢魘發生於REM。",
+      "flashcard_front": "Sleep terror / NREM deep sleep / nightmare REM",
+      "flashcard_back": "NREM parasomnia包含睡眠驚恐與夢遊，常在前半夜；REM夢魘多在後半夜且醒後記得。",
+      "flashcard_summary": "睡眠驚恐 -> deep NREM",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n腹部鈍傷後懷疑肝臟血管傷害或出血，穩定病人首選影像通常是對比增強電腦斷層，可快速評估肝臟裂傷、血腫、活動性出血與其他腹內傷害。\n\n【選項詳解】\n- A. 錯誤。血管攝影可用於診斷兼栓塞治療，但通常不是初步最優先的整體腹部評估工具。\n- B. 正確。電腦斷層掃描是鈍傷性腹部臟器與血管傷害評估的優先影像。\n- C. 錯誤。MRI耗時且急診可近性較差，不適合作為急性腹部創傷首選。\n- D. 錯誤。同位素肝臟掃描不適合急性創傷出血評估。\n\n【核心考點】\n穩定腹部鈍傷懷疑肝臟血管傷害，優先做對比增強CT。",
+      "key_point": "穩定腹部鈍傷懷疑肝臟血管傷害，優先做對比增強CT。",
+      "flashcard_front": "腹部鈍傷 / 肝臟出血 / CT",
+      "flashcard_back": "急性腹部創傷要快速評估實質器官與活動性出血，對比CT最實用；血管攝影偏治療性栓塞。",
+      "flashcard_summary": "肝臟創傷血管傷害 -> CT優先",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n發燒合併macules、papules、vesicles不同階段皮疹，是水痘典型表現。水痘在出疹前1-2天就有傳染力，因此說疹子出現後才開始傳染最不恰當。\n\n【選項詳解】\n- A. 正確。水痘由varicella-zoster virus引起，屬Herpesviridae。\n- B. 錯誤，為本題答案。水痘在出疹前即具傳染性，並持續到所有病灶結痂。\n- C. 正確。水痘可併發腦炎、肺炎、細菌性皮膚感染等，成人或免疫低下更需警覺。\n- D. 正確。兒童病毒感染尤其水痘或流感應避免aspirin，以免增加Reye syndrome風險。\n\n【核心考點】\n水痘出疹前1-2天已具傳染性，直到所有病灶結痂；避免使用aspirin。",
+      "key_point": "水痘出疹前1-2天已具傳染性，直到所有病灶結痂；避免使用aspirin。",
+      "flashcard_front": "Varicella / macule papule vesicle / contagious before rash / aspirin",
+      "flashcard_back": "水痘皮疹可同時有不同階段病灶；傳染期從出疹前開始到結痂，避免aspirin以防Reye syndrome。",
+      "flashcard_summary": "水痘 -> 出疹前已具傳染性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n急性缺血性中風多數血壓會因疼痛、焦慮、顱壓等因素上升，通常不急著降壓；若未接受rt-PA，降壓門檻比200/100更高。rt-PA符合條件可改善預後，最大劑量90 mg。\n\n【選項詳解】\n- A. 正確。許多中風病人的血壓在疼痛、躁動、顱壓與壓力改善後會下降，過早降太低可能影響腦灌流。\n- B. 錯誤，為本題答案。缺血性中風若不溶栓，通常需更高血壓才急降；200/100以上就緊急降壓過度籠統且門檻不對。\n- C. 正確。發病3小時內且符合適應症的缺血性中風，rt-PA可改善神經學預後。\n- D. 正確。Alteplase劑量常為0.9 mg/kg，最大劑量90 mg。\n\n【核心考點】\n急性缺血性中風未溶栓時避免過度降壓；rt-PA劑量0.9 mg/kg、最大90 mg。",
+      "key_point": "急性缺血性中風未溶栓時避免過度降壓；rt-PA劑量0.9 mg/kg、最大90 mg。",
+      "flashcard_front": "Acute ischemic stroke / BP control / rt-PA 90 mg",
+      "flashcard_back": "缺血性中風血壓控制要保留腦灌流；溶栓者需降到較低門檻，未溶栓者通常門檻更高。",
+      "flashcard_summary": "缺血性中風血壓 -> 不可200/100就一律急降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考病人自主與拒絕輸血。成年且有行為能力者，若有明確文書證據表達拒絕輸血，即使情況危及生命，醫師原則上應尊重其自主決定；兒童與未成年人則需以最佳利益保護為核心。\n\n【選項詳解】\n- A. 正確。具行為能力成年病人有清楚拒絕輸血意願時，醫師應尊重其自主，即使緊急且不輸血可能死亡。\n- B. 錯誤。懷孕36週涉及母體自主與胎兒利益的複雜衝突，不能作為本題最明確應尊重拒絕輸血的單純情境。\n- C. 錯誤。15歲未成年人拒絕救命輸血時，醫師需評估法律、父母代理與未成年人最佳利益，不能單純等同成年自主。\n- D. 錯誤。父母不能以宗教理由替8歲病童拒絕必要救命治療；兒童最佳利益可優先於父母決定。\n\n【核心考點】\n具行為能力成年病人若有明確拒絕輸血意願，應尊重其自主；未成年病童以最佳利益為核心。",
+      "key_point": "具行為能力成年病人若有明確拒絕輸血意願，應尊重其自主；未成年病童以最佳利益為核心。",
+      "flashcard_front": "Jehovah's Witness / refusal of blood / adult capacity / child best interest",
+      "flashcard_back": "成年有能力且有清楚文書拒絕輸血時，醫師原則上尊重；未成年人或兒童不可任意拒絕救命治療。",
+      "flashcard_summary": "拒絕輸血 -> 成年有能力且明確意願才最能尊重",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-4_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n早產兒長期呼吸器依賴、慢性腎衰竭、腹膜透析與黴菌性腹膜炎，整體預後極差且治療負擔高。若經充分溝通、取得父母同意並符合法規與倫理程序，可轉向緩和醫療，由醫療團隊撤除維生治療以減輕痛苦。\n\n【選項詳解】\n- A. 錯誤。父母是代理決策者，但撤除呼吸器應由醫療團隊依程序執行，不是要求父母親自移除。\n- B. 正確。在病童最佳利益、充分告知與同意下，施予緩和醫療並由醫護人員撤除呼吸器是較合適作法。\n- C. 錯誤。若治療已高度無效且只增加痛苦，倫理上不必無限度使用所有醫療手段搶救到最後。\n- D. 錯誤。只停止手術但保留長期維生治療，可能延長痛苦且未完整回應家庭與病童最佳利益；需整體緩和照護計畫。\n\n【核心考點】\n重症新生兒若預後極差且治療負擔高，經父母同意與醫療團隊程序，可轉向緩和醫療並撤除維生治療。",
+      "key_point": "重症新生兒若預後極差且治療負擔高，經父母同意與醫療團隊程序，可轉向緩和醫療並撤除維生治療。",
+      "flashcard_front": "重症新生兒 / 緩和醫療 / withdrawal of ventilator / 父母同意",
+      "flashcard_back": "撤除維生治療不是放棄照護，而是轉向緩和醫療；需以病童最佳利益、充分溝通與程序正義為核心。",
+      "flashcard_summary": "重症新生兒末期照護 -> 父母同意後醫療團隊施行緩和撤除",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

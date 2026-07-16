@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-2/medicine-6.json",
+  "dataset_id": "111-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "111-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題問足月胎兒臍動脈 Doppler 何者正常。正常臍動脈阻力會隨妊娠進展下降，足月 S/D ratio 通常小於 3，舒張末期血流應存在且向前。\n\n【選項詳解】\n- A. 異常。S/D ratio 大於該週數第 95 百分位代表胎盤阻力偏高，不是正常。\n- B. 正確。足月臍動脈 S/D ratio 小於 3 通常屬正常範圍。\n- C. 異常。Absent end-diastolic flow 表示胎盤阻力嚴重上升，與胎兒生長受限、缺氧風險相關。\n- D. 異常。Reversed end-diastolic flow 是更嚴重異常，代表高風險胎兒狀態。\n\n【核心考點】\n正常足月臍動脈 Doppler 應有向前舒張末期血流，S/D ratio 通常小於 3。",
+      "key_point": "足月 umbilical artery Doppler 正常常見 S/D ratio < 3。",
+      "flashcard_front": "umbilical artery Doppler / S-D ratio / absent end-diastolic flow",
+      "flashcard_back": "Absent 或 reversed end-diastolic flow 都是胎盤阻力升高的危險異常。",
+      "flashcard_summary": "臍動脈 Doppler -> 足月 S/D < 3 且舒張末期血流向前",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題問難產三大因素何者錯誤。難產常用 3P：power、passenger、passage；pubic symphysis shape 不是標準三大分類之一。\n\n【選項詳解】\n- A. 錯誤。Pubic symphysis shape 不是難產三大因素的標準項目；骨盆問題應歸在 passage，而非另列 pubis。\n- B. 正確。Power 指子宮收縮力與產婦用力不足，是產程遲滯常見因素。\n- C. 正確。Passenger 指胎兒大小、姿勢、胎位或先露異常，胎兒過大可造成難產。\n- D. 正確。Passage 指骨盆或軟組織產道狹窄、阻塞或不利生產。\n\n【核心考點】\n難產三大 P 是 power、passenger、passage；骨盆形態屬 passage。",
+      "key_point": "Dystocia 的三大因素是 power、passenger、passage。",
+      "flashcard_front": "dystocia / power passenger passage",
+      "flashcard_back": "子宮收縮不足、胎兒過大或胎位異常、產道狹窄都可造成難產。",
+      "flashcard_summary": "難產 -> 3P: power, passenger, passage",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題問胎兒水腫常見原因何者錯誤。Hydrops fetalis 可由染色體異常、感染、心衰竭、貧血或雙胎併發症造成；無腦症不是典型常見原因。\n\n【選項詳解】\n- A. 可造成。Turner syndrome 常與 cystic hygroma、淋巴回流異常及胎兒水腫相關。\n- B. 可造成。CMV 感染可導致胎兒貧血、肝脾腫大、心衰竭或低蛋白，進而水腫。\n- C. 可造成。雙胞胎輸血症候群可造成受血胎心衰竭或供血胎貧血，兩者都可能導致 hydrops。\n- D. 錯誤。無腦症是神經管缺陷，雖可合併羊水過多等問題，但不是胎兒水腫的常見典型原因。\n\n【核心考點】\n非免疫性胎兒水腫常見原因包括染色體異常、感染、心血管問題、貧血與 TTTS；無腦症不是常見主因。",
+      "key_point": "Anencephaly 不是 hydrops fetalis 的常見原因。",
+      "flashcard_front": "hydrops fetalis / Turner / CMV / TTTS / anencephaly",
+      "flashcard_back": "Hydrops 是胎兒心衰竭或液體平衡失調的結果，需找染色體、感染、貧血與心血管原因。",
+      "flashcard_summary": "胎兒水腫 -> Turner、CMV、TTTS 常見；anencephaly 非典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題問胎兒生理評估 BPP 處置何者錯誤。BPP 低分代表胎兒缺氧風險；4 分通常已屬異常，依週數與臨床情況多應考慮生產，而不是單純隔日再評估。\n\n【選項詳解】\n- A. 正確。BPP 6 分且羊水過少代表慢性胎盤功能或胎兒狀態風險，通常建議生產。\n- B. 正確。BPP 6 分、羊水正常且週數大於 36 週時，因已接近足月，常建議生產。\n- C. 錯誤。BPP 4 分通常代表胎兒狀態異常，若已達可存活週數，多應進一步處置或生產，不是等隔日再看作為合理處置。\n- D. 正確。BPP 2 分表示高度異常，通常建議立即評估並生產。\n\n【核心考點】\nBPP 分數越低越擔心胎兒缺氧；6 分依羊水與週數處理，4 分或 2 分多偏向積極生產。",
+      "key_point": "BPP 4 分通常不應只是隔日再評估。",
+      "flashcard_front": "biophysical profile / BPP score / delivery",
+      "flashcard_back": "BPP 評估 NST、呼吸、張力、胎動、羊水；羊水過少會使 6 分也偏向生產。",
+      "flashcard_summary": "BPP 處置 -> 低分尤其 4 分以下多需積極處理",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題問絨毛膜羊膜炎最主要原因。上行性感染是主要機轉，破水時間延長使陰道菌上行進入羊膜腔的機會增加，是最重要危險因子。\n\n【選項詳解】\n- A. 不是主要原因。抽菸與多種孕產風險相關，但不是 chorioamnionitis 的最主要原因。\n- B. 正確。破水時間延長會破壞羊膜屏障，增加細菌上行感染，是絨毛膜羊膜炎最重要危險因子之一。\n- C. 不是最主要。免疫抑制可能增加感染風險，但不如 prolonged rupture of membranes 典型。\n- D. 不是主要原因。妊娠糖尿病可增加感染風險，但不是絨毛膜羊膜炎最主要原因。\n\n【核心考點】\nChorioamnionitis 多由陰道菌上行感染，破水時間越長風險越高。",
+      "key_point": "破水時間延長是絨毛膜羊膜炎的重要危險因子。",
+      "flashcard_front": "chorioamnionitis / prolonged rupture of membranes",
+      "flashcard_back": "羊膜破裂後屏障消失，陰道菌更容易上行感染羊膜腔。",
+      "flashcard_summary": "絨毛膜羊膜炎 -> prolonged rupture of membranes",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題問幾乎一半胎兒死亡由哪種懷孕併發症造成。胎兒生長受限反映胎盤功能不全與慢性缺氧，是胎死腹中的重要相關因素。\n\n【選項詳解】\n- A. 可相關但非此題最佳。子癇前症可造成胎盤灌流不良與胎兒風險，但題目指向更廣泛且常見的胎兒生長受限。\n- B. 可相關但非最佳。羊水過少常反映胎盤功能或胎兒腎泌尿問題，可增加風險，但不是此題所問主要併發症。\n- C. 可造成胎死。胎兒畸形是重要原因之一，但不是題目所指幾乎一半的併發症分類。\n- D. 正確。Fetal growth restriction 與胎盤功能不全、慢性缺氧及胎兒死亡高度相關，是胎死風險的重要指標。\n\n【核心考點】\n胎兒生長受限代表胎盤供應不足與慢性胎兒壓力，是胎死腹中的重要風險線索。",
+      "key_point": "Fetal growth restriction 是胎兒死亡的重要相關併發症。",
+      "flashcard_front": "fetal death / fetal growth restriction",
+      "flashcard_back": "FGR 常反映胎盤功能不全與慢性缺氧，需加強胎兒監測。",
+      "flashcard_summary": "胎兒死亡風險 -> fetal growth restriction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題問何者不是正常懷孕葡萄糖代謝現象。懷孕會形成空腹低血糖、飯後高血糖與高胰島素血症；飯後 glucagon 正常仍會被抑制，不是更不受抑制。\n\n【選項詳解】\n- A. 是懷孕現象。胎兒持續消耗葡萄糖，加上母體代謝改變，孕婦可有輕微空腹低血糖。\n- B. 是懷孕現象。胎盤荷爾蒙造成胰島素阻抗，使飯後血糖上升更明顯。\n- C. 是懷孕現象。為克服胰島素阻抗，母體胰島素分泌增加，飯後可有高胰島素血症。\n- D. 不是典型現象。飯後升糖素應受抑制；懷孕的主要代謝特徵是胰島素阻抗與補償性高胰島素，而不是飯後 glucagon 更不受抑制。\n\n【核心考點】\n正常孕期有加速飢餓與飯後胰島素阻抗：空腹血糖偏低、飯後血糖與胰島素偏高。",
+      "key_point": "懷孕時不是以飯後 glucagon 不受抑制作為典型現象。",
+      "flashcard_front": "pregnancy glucose metabolism / insulin resistance / glucagon",
+      "flashcard_back": "胎盤荷爾蒙造成胰島素阻抗；母體以增加胰島素分泌補償。",
+      "flashcard_summary": "孕期糖代謝 -> 空腹低血糖、飯後高血糖、高胰島素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題問 30 週重度子癇前症若需終止懷孕，何種情況不能等待 48 小時類固醇而應立即生產。若母體病況不穩，尤其無法控制的高血壓急症，母體安全優先。\n\n【選項詳解】\n- A. 正確。無法控制的高血壓急症代表中風、腦出血、心衰竭與器官傷害風險高，不應為完成類固醇而延遲生產。\n- B. 不一定立即。早期破水需看感染、胎兒狀態與孕週；若母胎穩定，可能仍可短期期待或完成類固醇。\n- C. 不一定立即。羊水過少提示胎盤或胎兒狀態風險，需監測，但未必單獨成為立即生產的絕對理由。\n- D. 不一定立即。肝功能上升是 severe feature，但若未進展為 HELLP、肝破裂疑慮或母胎不穩，處置需綜合判斷。\n\n【核心考點】\n重度子癇前症期待治療的前提是母胎穩定；無法控制的高血壓急症需立即處置與生產。",
+      "key_point": "無法控制的高血壓急症是重度子癇前症立即生產的重要指標。",
+      "flashcard_front": "severe preeclampsia / immediate delivery / uncontrolled hypertension",
+      "flashcard_back": "類固醇可爭取 48 小時促胎肺成熟，但不能犧牲母體安全。",
+      "flashcard_summary": "重度子癇前症 -> 母體不穩或高血壓急症不可等類固醇",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題問子癇前症內皮損傷後續變化不包括何者。子癇前症是全身血管內皮功能失調，典型造成血管痙攣、血管通透性增加與血栓性病變，不是充血性病變。\n\n【選項詳解】\n- A. 包括。內皮功能失調造成 vasospasm，導致高血壓與器官灌流下降。\n- B. 包括。血管通透性增加造成 plasma leakage、水腫與血液濃縮。\n- C. 包括。凝血系統活化與內皮傷害可造成微血栓、血小板消耗與 HELLP 相關表現。\n- D. 不包括。子癇前症核心是痙攣、漏出與血栓性缺血，不是血管充血性病變。\n\n【核心考點】\n子癇前症病理是 endothelial dysfunction：vasospasm、capillary leak、microthrombi。",
+      "key_point": "子癇前症後續變化不包括充血性病變。",
+      "flashcard_front": "preeclampsia / endothelial injury / vasospasm / leakage / thrombosis",
+      "flashcard_back": "內皮損傷造成高血壓、水腫/蛋白尿與器官缺血，不是單純充血。",
+      "flashcard_summary": "子癇前症 -> 血管痙攣、血漿外洩、血栓性病變",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題問先天性腎上腺增生診治何者最不適當。常見 21-hydroxylase deficiency 造成 androgen 過多，46,XX 可外陰男性化但內生殖器由 Müllerian duct 正常發育，通常有子宮。\n\n【選項詳解】\n- A. 適當。女性胎兒 androgen 過多可造成 ambiguous genitalia。\n- B. 最不適當。CAH 主要影響腎上腺類固醇合成與外陰分化，Müllerian 結構通常存在，不是常合併子宮畸形。\n- C. 適當。21-hydroxylase deficiency 會使 17-hydroxyprogesterone 上升，是診斷重要檢驗。\n- D. 適當。治療需補充 glucocorticoid，如 hydrocortisone；鹽流失型還需 mineralocorticoid 與鹽分。\n\n【核心考點】\nCAH 典型是 cortisol 合成缺陷、ACTH 上升與 androgen 過多；46,XX 內生殖器通常正常。",
+      "key_point": "CAH 不會常規造成子宮畸形；17-OHP 上升支持 21-hydroxylase deficiency。",
+      "flashcard_front": "congenital adrenal hyperplasia / 17-OHP / uterus",
+      "flashcard_back": "46,XX CAH 可外陰男性化，但子宮與 Müllerian 結構通常存在。",
+      "flashcard_summary": "CAH -> ambiguous genitalia、17-OHP 高、hydrocortisone 治療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
