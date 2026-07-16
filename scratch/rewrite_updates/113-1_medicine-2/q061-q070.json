@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n醫源性 Cushing syndrome 是 glucocorticoid 過多，常見月亮臉、軀幹肥胖、多毛、高血糖與肌肉無力；低血糖反而少見。\n\n【選項詳解】\n- A. 月亮臉是 Cushing syndrome 典型表現。\n- B. 軀幹肥胖與脂肪重新分布是典型表現。\n- C. 多毛或皮膚改變可見於 Cushing syndrome。\n- D. 類固醇過多傾向造成高血糖與胰島素阻抗，不是低血糖，因此此項較少出現。\n\n【核心考點】\nCushing syndrome 代謝表現是高血糖，不是低血糖。",
+      "key_point": "Cushing syndrome 代謝表現是高血糖，不是低血糖。",
+      "flashcard_front": "Cushing syndrome 少見症狀",
+      "flashcard_back": "低血糖少見；常見高血糖、月亮臉、軀幹肥胖。",
+      "flashcard_summary": "Cushing syndrome 少見症狀 -> 低血糖少見；常見高血糖、月亮臉、軀幹肥胖。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nFurosemide 是 loop diuretic，作用在亨利氏環粗上升支，抑制 Na+/K+/2Cl- cotransporter。\n\n【選項詳解】\n- A. 亨利氏環上升支抑制 NKCC2 是 furosemide 的正確機轉。\n- B. Na+/Cl- cotransporter 是 thiazide 類在遠曲小管的主要靶點，不是 furosemide。\n- C. NKCC2 位置在亨利氏環粗上升支，不是近端腎小管。\n- D. 近端腎小管 Na+/Cl- cotransporter 不是 furosemide 的主要作用點。\n\n【核心考點】\nLoop diuretic = thick ascending limb NKCC2 inhibitor。",
+      "key_point": "Loop diuretic = thick ascending limb NKCC2 inhibitor。",
+      "flashcard_front": "furosemide 機轉",
+      "flashcard_back": "抑制亨利氏環粗上升支 Na+/K+/2Cl- cotransporter。",
+      "flashcard_summary": "furosemide 機轉 -> 抑制亨利氏環粗上升支 Na+/K+/2Cl- cotransporter。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nmolsidomine、nitroprusside 釋放 NO 增加 cGMP；tadalafil 抑制 PDE5 也增加 cGMP。Bosentan 是 endothelin receptor antagonist，非透過增加 cGMP。\n\n【選項詳解】\n- A. molsidomine 為 NO donor 類藥物，可經 cGMP 造成血管擴張。\n- B. bosentan 阻斷 endothelin receptor，減少內皮素造成的血管收縮，不是藉增加 cGMP。\n- C. sodium nitroprusside 釋放 NO，活化 guanylyl cyclase 增加 cGMP。\n- D. tadalafil 抑制 PDE5，減少 cGMP 分解而促進血管擴張。\n\n【核心考點】\nBosentan 是 endothelin receptor antagonist；PDE5 inhibitor 與 NO donor 才走 cGMP。",
+      "key_point": "Bosentan 是 endothelin receptor antagonist；PDE5 inhibitor 與 NO donor 才走 cGMP。",
+      "flashcard_front": "非 cGMP 血管擴張藥",
+      "flashcard_back": "bosentan。",
+      "flashcard_summary": "非 cGMP 血管擴張藥 -> bosentan。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\namiodarone、disopyramide、dofetilide 都有抑制 K+ channel、延長 repolarization 的作用；adenosine 主要作用於 A1 receptor，增加 K+ conductance 與抑制 Ca2+ influx，但不是 K+ channel blocker。\n\n【選項詳解】\n- A. adenosine 不抑制 K+ channel；它透過腺苷受體減慢 AV node conduction，是本題答案。\n- B. amiodarone 屬 class III 為主，會抑制 K+ channel 延長動作電位。\n- C. disopyramide 屬 class IA，除 Na+ channel 外也延長 repolarization，具 K+ channel 抑制相關效果。\n- D. dofetilide 是選擇性 IKr K+ channel blocker。\n\n【核心考點】\ndofetilide/amiodarone 抑制 K；adenosine 是 AV node 抑制藥，不是 K blocker。",
+      "key_point": "dofetilide/amiodarone 抑制 K；adenosine 是 AV node 抑制藥，不是 K blocker。",
+      "flashcard_front": "不抑制 K channel 抗心律不整藥",
+      "flashcard_back": "adenosine。",
+      "flashcard_summary": "不抑制 K channel 抗心律不整藥 -> adenosine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nScopolamine 是抗 muscarinic 藥，可用於暈車、散瞳與腸胃痙攣；但會造成尿滯留，因此排尿困難者不適用。\n\n【選項詳解】\n- A. 抗 muscarinic 藥可造成散瞳與睫狀肌麻痺，必要時可用於散瞳。\n- B. scopolamine 常用於暈動病預防，敘述正確。\n- C. 抗膽鹼會抑制膀胱逼尿肌收縮、加重尿滯留，排尿困難最不適用。\n- D. 抗 muscarinic 可減少腸蠕動與痙攣，腹痛腹瀉某些情境可用。\n\n【核心考點】\n抗 muscarinic 藥會加重尿滯留，BPH 或排尿困難要避免。",
+      "key_point": "抗 muscarinic 藥會加重尿滯留，BPH 或排尿困難要避免。",
+      "flashcard_front": "scopolamine 不適用",
+      "flashcard_back": "排尿困難或尿滯留。",
+      "flashcard_summary": "scopolamine 不適用 -> 排尿困難或尿滯留。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\ndoxazosin、clonidine、betaxolol 都可降血壓；midodrine 是 α1 agonist，造成血管收縮，用於姿勢性低血壓，會升血壓。\n\n【選項詳解】\n- A. doxazosin 是 α1 blocker，可造成血管擴張、降低血壓。\n- B. clonidine 是中樞 α2 agonist，降低交感輸出而降血壓。\n- C. midodrine 是 α1 agonist，用來升高血壓治療姿勢性低血壓，因此不具降壓效果。\n- D. betaxolol 是 β1 blocker，可降低血壓與心率。\n\n【核心考點】\nmidodrine 是升壓 α1 agonist；doxazosin、clonidine、β-blocker 才可降壓。",
+      "key_point": "midodrine 是升壓 α1 agonist；doxazosin、clonidine、β-blocker 才可降壓。",
+      "flashcard_front": "不降血壓藥物",
+      "flashcard_back": "midodrine 會升血壓。",
+      "flashcard_summary": "不降血壓藥物 -> midodrine 會升血壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\nCiclesonide 是吸入後在肺部由 esterase 活化的 prodrug，口咽部活性較低，因此較少口腔念珠菌等局部副作用。\n\n【選項詳解】\n- A. budesonide 是常用吸入類固醇，但不是以氣管 esterase 活化、降低口腔念珠菌風險的代表答案。\n- B. ciclesonide 為 prodrug，經肺部 esterase 轉成活性代謝物，局部口腔副作用較少。\n- C. flunisolide 不是本題所描述的 esterase 活化 prodrug 代表。\n- D. mometasone 為吸入/鼻用類固醇，但不是本題機轉代表。\n\n【核心考點】\nciclesonide 是吸入性類固醇 prodrug，肺部活化，口腔念珠菌風險較低。",
+      "key_point": "ciclesonide 是吸入性類固醇 prodrug，肺部活化，口腔念珠菌風險較低。",
+      "flashcard_front": "吸入後 esterase 活化 ICS",
+      "flashcard_back": "ciclesonide。",
+      "flashcard_summary": "吸入後 esterase 活化 ICS -> ciclesonide。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n急性結腸假性阻塞（Ogilvie syndrome）可用 neostigmine 增加副交感活性，促進結腸蠕動解除擴張。\n\n【選項詳解】\n- A. sucralfate 是胃黏膜保護劑，不會有效改善急性結腸假性阻塞。\n- B. bismuth 用於消化不良、腹瀉或幽門螺旋桿菌療法輔助，不是 Ogilvie syndrome 治療。\n- C. neostigmine 抑制 acetylcholinesterase，增加腸道蠕動，是急性結腸假性阻塞適合藥物。\n- D. metoclopramide 主要促進上消化道蠕動與止吐，對急性結腸假性阻塞不是最佳答案。\n\n【核心考點】\nOgilvie syndrome 藥物治療首選常考 neostigmine。",
+      "key_point": "Ogilvie syndrome 藥物治療首選常考 neostigmine。",
+      "flashcard_front": "acute colonic pseudo-obstruction",
+      "flashcard_back": "neostigmine。",
+      "flashcard_summary": "acute colonic pseudo-obstruction -> neostigmine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n腹瀉型腸躁症治療可用 5-HT3 antagonist 如 alosetron、抗痙攣藥等；linaclotide 促進腸液分泌，用於便秘型 IBS，會加重腹瀉。\n\n【選項詳解】\n- A. alosetron 是 5-HT3 antagonist，可用於特定嚴重 IBS-D 患者。\n- B. scopolamine 抗膽鹼可減少腸痙攣，能緩解部分腹痛腹瀉症狀。\n- C. octreotide 可抑制腸道分泌與某些分泌性腹瀉，方向上可減少腹瀉。\n- D. linaclotide 是 guanylate cyclase-C agonist，增加腸液分泌與蠕動，主要治 IBS-C，最不適用 IBS-D。\n\n【核心考點】\nlinaclotide 治便秘型 IBS，不適合腹瀉型 IBS。",
+      "key_point": "linaclotide 治便秘型 IBS，不適合腹瀉型 IBS。",
+      "flashcard_front": "IBS-D 最不適合藥物",
+      "flashcard_back": "linaclotide。",
+      "flashcard_summary": "IBS-D 最不適合藥物 -> linaclotide。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\nanakinra、canakinumab、rilonacept 都直接阻斷 IL-1 路徑；apremilast 是 PDE4 inhibitor，調節 cAMP 與發炎細胞激素，不是 IL-1 路徑抑制劑。\n\n【選項詳解】\n- A. apremilast 抑制 PDE4，不能直接抑制 IL-1 訊息傳遞，因此符合題目。\n- B. anakinra 是 IL-1 receptor antagonist，可抑制 IL-1 訊息。\n- C. canakinumab 是 anti-IL-1β monoclonal antibody，可阻斷 IL-1β。\n- D. rilonacept 是 IL-1 trap，可結合 IL-1，抑制其路徑。\n\n【核心考點】\nIL-1 抑制藥：anakinra、canakinumab、rilonacept；apremilast 是 PDE4 inhibitor。",
+      "key_point": "IL-1 抑制藥：anakinra、canakinumab、rilonacept；apremilast 是 PDE4 inhibitor。",
+      "flashcard_front": "非 IL-1 pathway inhibitor",
+      "flashcard_back": "apremilast。",
+      "flashcard_summary": "非 IL-1 pathway inhibitor -> apremilast。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

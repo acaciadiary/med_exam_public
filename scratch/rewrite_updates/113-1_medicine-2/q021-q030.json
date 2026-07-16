@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\nB 細胞、樹突細胞與巨噬細胞都是 professional antigen-presenting cells，會表現 MHC II；活化後也可表現 B7 共刺激分子。\n\n【選項詳解】\n- A. 三者皆屬專業抗原呈獻細胞，能表現 MHC class II 與 B7，最適當。\n- B. 有核細胞普遍表現 MHC I，不能說三者不表現 MHC I。\n- C. 最能活化 naïve T cell 的通常是樹突細胞，不是 B 細胞。\n- D. 樹突細胞具有未成熟巡邏到成熟遷移的典型過程，但 B 細胞與巨噬細胞不能一概套用同一句描述。\n\n【核心考點】\n專業 APC 包括 dendritic cell、macrophage、B cell；其中 dendritic cell 最擅長活化 naïve T cell。",
+      "key_point": "專業 APC 包括 dendritic cell、macrophage、B cell；其中 dendritic cell 最擅長活化 naïve T cell。",
+      "flashcard_front": "professional APC",
+      "flashcard_back": "B cell、dendritic cell、macrophage 表現 MHC II 與共刺激分子。",
+      "flashcard_summary": "professional APC -> B cell、dendritic cell、macrophage 表現 MHC II 與共刺激分子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nB 細胞初次活化後最早分泌 IgM；IgG 可穿胎盤、IgE 活化肥大細胞、IgM 與 IgG 可活化補體。\n\n【選項詳解】\n- A. 可穿過胎盤的是 IgG，不是 IgA；IgA 主要見於黏膜分泌與母乳。\n- B. 補體活化最典型是 IgM，其次 IgG；IgE 主要與過敏與寄生蟲反應相關。\n- C. IgM 是 naïve B 細胞活化後最早分泌的抗體，敘述正確。\n- D. 活化 mast cells 主要是 IgE 經 FcεRI 結合後交聯，不是 IgG。\n\n【核心考點】\n抗體功能速記：IgM 最早且強補體；IgG 過胎盤；IgA 黏膜；IgE 肥大細胞與寄生蟲。",
+      "key_point": "抗體功能速記：IgM 最早且強補體；IgG 過胎盤；IgA 黏膜；IgE 肥大細胞與寄生蟲。",
+      "flashcard_front": "最早分泌抗體",
+      "flashcard_back": "B 細胞活化後最早分泌 IgM。",
+      "flashcard_summary": "最早分泌抗體 -> B 細胞活化後最早分泌 IgM。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n腸道上皮細胞可用 TLR、NOD1/2 偵測病原相關分子，也可透過 stress ligand 如 MIC-A/B 讓免疫細胞辨識異常細胞；PGE2 不是主要用來清除病原菌的辨識分子。\n\n【選項詳解】\n- A. TLRs 可辨識微生物成分並啟動先天免疫，可能參與清除病原。\n- B. NOD1、NOD2 可感測細菌 peptidoglycan 片段，是腸道先天免疫重要分子。\n- C. PGE2 是發炎介質，主要調節血管、疼痛、發燒等反應，不是腸道上皮用來辨識並清除病原菌的典型分子。\n- D. MIC-A/B 是壓力誘導配體，可被 NKG2D 辨識，幫助免疫系統處理受感染或壓力細胞。\n\n【核心考點】\n腸道上皮清除病原重點是 PRR（TLR、NOD）與壓力配體；PGE2 是發炎調節介質。",
+      "key_point": "腸道上皮清除病原重點是 PRR（TLR、NOD）與壓力配體；PGE2 是發炎調節介質。",
+      "flashcard_front": "腸道上皮抗病原分子",
+      "flashcard_back": "TLR、NOD1/2、MIC-A/B 可參與；PGE2 不是主要清除分子。",
+      "flashcard_summary": "腸道上皮抗病原分子 -> TLR、NOD1/2、MIC-A/B 可參與；PGE2 不是主要清除分子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\nWiskott-Aldrich syndrome 的缺陷基因是 WAS，影響 actin cytoskeleton；NF-κB 不是此病的標準配對。\n\n【選項詳解】\n- A. X-linked SCID 常因 IL-2 receptor common gamma chain 缺陷，配對正確。\n- B. Wiskott-Aldrich syndrome 應配 WAS gene，不是 NF-κB，因此最不適當。\n- C. Bruton X-linked agammaglobulinemia 是 BTK 缺陷，配對正確。\n- D. DiGeorge syndrome 與 22q11.2 deletion、TBX1 相關，配對可接受。\n\n【核心考點】\nWiskott-Aldrich = WAS gene；BTK = XLA；common gamma chain = X-linked SCID；TBX1 = DiGeorge。",
+      "key_point": "Wiskott-Aldrich = WAS gene；BTK = XLA；common gamma chain = X-linked SCID；TBX1 = DiGeorge。",
+      "flashcard_front": "Wiskott-Aldrich syndrome 基因",
+      "flashcard_back": "WAS gene，不是 NF-κB。",
+      "flashcard_summary": "Wiskott-Aldrich syndrome 基因 -> WAS gene，不是 NF-κB。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n第一型過敏反應是 IgE 介導的立即型過敏，常見疾病包括過敏性鼻炎、結膜炎、氣喘與蕁麻疹。\n\n【選項詳解】\n- A. 麩質病主要與 T cell 免疫反應和 HLA-DQ2/DQ8 相關，不是 IgE 介導第一型過敏。\n- B. 血清病是免疫複合體沉積造成的第三型過敏反應。\n- C. 過敏性鼻結膜炎由 IgE 與 mast cell 介導，屬第一型過敏反應。\n- D. 過敏性接觸性皮膚炎是 T cell 介導的第四型遲發型過敏反應。\n\n【核心考點】\n第一型過敏 = IgE + mast cell；過敏性鼻炎/結膜炎是典型例子。",
+      "key_point": "第一型過敏 = IgE + mast cell；過敏性鼻炎/結膜炎是典型例子。",
+      "flashcard_front": "IgE 介導第一型過敏",
+      "flashcard_back": "過敏性鼻結膜炎、過敏性氣喘、蕁麻疹等。",
+      "flashcard_summary": "IgE 介導第一型過敏 -> 過敏性鼻結膜炎、過敏性氣喘、蕁麻疹等。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nIL-10 是重要抗發炎 cytokine，能抑制 macrophage 與 Th1 發炎反應；缺乏 IL-10 容易造成腸道慢性發炎，模型上常見 colitis/IBD。\n\n【選項詳解】\n- A. IL-10 knockout mice 典型會自發性腸炎，類似 inflammatory bowel disease，最符合。\n- B. lupus-like syndrome 與免疫複合體、自體抗體相關，但不是 IL-10 knockout 的典型首選。\n- C. 淋巴增生性疾病常見於調控細胞死亡或免疫調節缺陷，不是本題 IL-10 缺失的經典表現。\n- D. 類風濕性關節炎涉及多種 cytokine 與自體免疫機制，但 IL-10 knockout 最典型仍是腸炎。\n\n【核心考點】\nIL-10 是抗發炎煞車；缺乏時最典型造成腸道發炎/IBD 樣疾病。",
+      "key_point": "IL-10 是抗發炎煞車；缺乏時最典型造成腸道發炎/IBD 樣疾病。",
+      "flashcard_front": "IL-10 knockout mouse",
+      "flashcard_back": "容易發生 inflammatory bowel disease-like colitis。",
+      "flashcard_summary": "IL-10 knockout mouse -> 容易發生 inflammatory bowel disease-like colitis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n題目問腫瘤抗原何者最不適當。TAA 可在正常組織低量表現、腫瘤高表現；TSA 多來自突變或病毒。鑑定 TAA 通常靠表現量與蛋白體/轉錄體比較，不能說單細胞轉錄體定序是目前最常用方法。\n\n【選項詳解】\n- A. TAA 在正常與腫瘤都可能表現，但腫瘤量較高或位置不同，敘述正確。\n- B. TSA 可來自突變 neoantigen、病毒蛋白等，WES 常用於找突變來源的 neoantigen，敘述合理。\n- C. 現行 CAR-T 多針對表面 TAA，例如 CD19、BCMA 等；少數 TSA 理論上也可成為目標，敘述可接受。\n- D. TAA 的鑑定不以單細胞轉錄體定序作為最常用標準方法；此說法過度絕對，最不適當。\n\n【核心考點】\nTAA 是腫瘤高表現的共享抗原；TSA 是突變/病毒等腫瘤特異抗原，TAA 不以單細胞轉錄體定序作為最常用鑑定法。",
+      "key_point": "TAA 是腫瘤高表現的共享抗原；TSA 是突變/病毒等腫瘤特異抗原，TAA 不以單細胞轉錄體定序作為最常用鑑定法。",
+      "flashcard_front": "TAA vs TSA",
+      "flashcard_back": "TAA 正常也可能有；TSA 多來自突變或病毒。",
+      "flashcard_summary": "TAA vs TSA -> TAA 正常也可能有；TSA 多來自突變或病毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n題目問可用疫苗預防的腫瘤。HPV 疫苗可預防高風險 HPV 型別感染，進而降低 HPV-16 相關子宮頸癌風險。\n\n【選項詳解】\n- A. non-Hodgkin lymphoma 沒有以常規疫苗直接預防的標準做法。\n- B. HER2 過度表現乳癌目前不是以常規預防疫苗避免發生的腫瘤。\n- C. 轉移性黑色素瘤已有免疫治療概念，但不是可注射疫苗預防的典型腫瘤。\n- D. HPV 疫苗可預防 HPV-16/18 等感染，因此可預防相關子宮頸癌。\n\n【核心考點】\n能用疫苗預防的典型癌症：HPV 相關子宮頸癌、HBV 相關肝癌。",
+      "key_point": "能用疫苗預防的典型癌症：HPV 相關子宮頸癌、HBV 相關肝癌。",
+      "flashcard_front": "疫苗可預防癌症",
+      "flashcard_back": "HPV vaccine 預防 HPV-16 related cervical cancer。",
+      "flashcard_summary": "疫苗可預防癌症 -> HPV vaccine 預防 HPV-16 related cervical cancer。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n題目考寄生蟲臨床表現組合。犬蛔蟲可造成眼部幼蟲移行，班氏絲蟲慢性感染可造成象皮病，蛔蟲可異位寄生；鞭蟲感染免疫低下並非必然死亡。\n\n【選項詳解】\n- A. 包含犬蛔蟲正確，但把鞭蟲必致死納入，所以不對。\n- B. 班氏絲蟲與蛔蟲兩項正確，但漏掉犬蛔蟲眼部幼蟲移行症。\n- C. 犬蛔蟲、班氏絲蟲、蛔蟲三項皆正確，且排除鞭蟲必致死的錯誤敘述。\n- D. 四項全選會包含鞭蟲感染必造成死亡，過度絕對且錯誤。\n\n【核心考點】\nToxocara 可 ocular larva migrans；Wuchereria 可 elephantiasis；Ascaris 可 ectopic parasitism；Trichuris 不等於免疫低下必死。",
+      "key_point": "Toxocara 可 ocular larva migrans；Wuchereria 可 elephantiasis；Ascaris 可 ectopic parasitism；Trichuris 不等於免疫低下必死。",
+      "flashcard_front": "寄生蟲症狀配對",
+      "flashcard_back": "犬蛔蟲眼幼蟲移行、班氏絲蟲象皮病、蛔蟲異位寄生。",
+      "flashcard_summary": "寄生蟲症狀配對 -> 犬蛔蟲眼幼蟲移行、班氏絲蟲象皮病、蛔蟲異位寄生。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n十二指腸鉤蟲幼蟲經皮膚進入後，會經血流到肺、穿入肺泡、上行至咽部被吞下，最後到小腸發育成成蟲。\n\n【選項詳解】\n- A. 犬蛔蟲在人類多為幼蟲移行症，人不是其正常成蟲宿主，不是到小腸發育成蟲的答案。\n- B. 海獸胃線蟲由食入生魚感染，幼蟲侵入胃腸壁，不需心肺移行後到小腸成蟲。\n- C. 十二指腸鉤蟲有典型皮膚侵入、心肺移行、吞入後小腸成蟲的生活史。\n- D. 有棘頜口線蟲可造成移行性病灶，但在人類不是經心肺移行後到小腸成蟲的典型路徑。\n\n【核心考點】\n鉤蟲與蛔蟲常考肺部移行；本題選項中能到小腸發育成成蟲的是十二指腸鉤蟲。",
+      "key_point": "鉤蟲與蛔蟲常考肺部移行；本題選項中能到小腸發育成成蟲的是十二指腸鉤蟲。",
+      "flashcard_front": "心肺移行後小腸成蟲",
+      "flashcard_back": "Ancylostoma duodenale 鉤蟲。",
+      "flashcard_summary": "心肺移行後小腸成蟲 -> Ancylostoma duodenale 鉤蟲。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

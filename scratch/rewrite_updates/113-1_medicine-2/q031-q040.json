@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n血吸蟲成蟲寄生位置與產卵量是常考點。S. mansoni/japonicum 主要在腸繫膜靜脈系統，S. haematobium 在膀胱靜脈叢；S. japonicum 產卵量最高。\n\n【選項詳解】\n- A. S. mansoni 主要在腸繫膜靜脈，膀胱靜脈叢是 S. haematobium 的重點。\n- B. S. haematobium 主要在膀胱靜脈叢，不是腸繫膜靜脈叢。\n- C. 血吸蟲卵造成肉芽腫常在腸壁、肝臟或泌尿道等部位；題目說經血流異位陷入腎臟不是最適當概括。\n- D. S. japonicum 產卵量高，日產卵可非常多，是最適當敘述。\n\n【核心考點】\nS. haematobium 膀胱；S. mansoni/japonicum 腸繫膜；S. japonicum 產卵最多。",
+      "key_point": "S. haematobium 膀胱；S. mansoni/japonicum 腸繫膜；S. japonicum 產卵最多。",
+      "flashcard_front": "血吸蟲位置與產卵量",
+      "flashcard_back": "S. japonicum 產卵量最高；S. haematobium 在膀胱靜脈叢。",
+      "flashcard_summary": "血吸蟲位置與產卵量 -> S. japonicum 產卵量最高；S. haematobium 在膀胱靜脈叢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n官方答案選水生植物相關的是 Fasciola hepatica 與 Fasciolopsis buski。兩者感染型囊蚴可附著在水生植物上，食入後感染；Clonorchis 以淡水魚為第二中間宿主，Dicrocoelium 與螞蟻相關。\n\n【選項詳解】\n- A. 牛羊肝吸蟲與薑片蟲都可由水生植物上的囊蚴感染，符合官方答案組合。\n- B. 中華肝吸蟲主要與淡水魚有關，槍狀肝吸蟲則與螞蟻等陸生生活史相關，不是水生植物組合。\n- C. 包含牛羊肝吸蟲正確，但中華肝吸蟲重點是淡水魚，不是水生植物。\n- D. 包含薑片蟲正確，但槍狀肝吸蟲不是水生植物相關。\n\n【核心考點】\n水生植物感染線索：Fasciola hepatica、Fasciolopsis buski；Clonorchis 要想淡水魚，Dicrocoelium 要想螞蟻。",
+      "key_point": "水生植物感染線索：Fasciola hepatica、Fasciolopsis buski；Clonorchis 要想淡水魚，Dicrocoelium 要想螞蟻。",
+      "flashcard_front": "水生植物相關吸蟲",
+      "flashcard_back": "Fasciola hepatica 與 Fasciolopsis buski。",
+      "flashcard_summary": "水生植物相關吸蟲 -> Fasciola hepatica 與 Fasciolopsis buski。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": [
+        "題幹稱水生植物為中間宿主較不精確；嚴格寄生蟲學上水生植物多是囊蚴附著的感染媒介，仍依官方答案解釋。"
+      ]
+    },
+    {
+      "question_id": "113-1_medicine-2_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n發燒、腹脹、貧血、肝脾腫大，骨髓巨噬細胞內看到寄生蟲，是內臟利什曼病（kala-azar）的典型線索，病原為 Leishmania donovani。\n\n【選項詳解】\n- A. Trypanosoma cruzi 造成 Chagas disease，常見心肌病或巨食道/巨結腸，不是巨噬細胞內 amastigote 的內臟利什曼病。\n- B. Leishmania tropica 主要造成皮膚利什曼病，不是肝脾腫大、骨髓巨噬細胞感染的典型答案。\n- C. T. brucei gambiense 造成非洲睡眠病，病媒為采采蠅，臨床不是本題骨髓巨噬細胞內寄生蟲。\n- D. Leishmania donovani 感染巨噬細胞，造成內臟利什曼病、發燒、貧血與肝脾腫大，最符合。\n\n【核心考點】\n骨髓巨噬細胞內寄生蟲加肝脾腫大，考 Leishmania donovani 的內臟利什曼病。",
+      "key_point": "骨髓巨噬細胞內寄生蟲加肝脾腫大，考 Leishmania donovani 的內臟利什曼病。",
+      "flashcard_front": "kala-azar 病原",
+      "flashcard_back": "Leishmania donovani，巨噬細胞內 amastigote。",
+      "flashcard_summary": "kala-azar 病原 -> Leishmania donovani，巨噬細胞內 amastigote。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\nPlasmodium knowlesi 是猴瘧，可感染人類，紅血球年齡選擇性較不嚴格，24 小時裂殖週期；形成 hypnozoite 是 P. vivax/ovale 的特色。\n\n【選項詳解】\n- A. P. knowlesi 可感染人類與非人靈長類，宿主專一性不強，敘述正確。\n- B. 它可侵犯不同年齡紅血球，不像 vivax 偏年輕、malariae 偏老紅血球，敘述正確。\n- C. P. knowlesi  erythrocytic schizogony 約 24 小時，可能每日發燒，敘述正確。\n- D. hypnozoites 是 P. vivax 與 P. ovale 的肝內休眠型，P. knowlesi 不形成，故此項錯誤。\n\n【核心考點】\nP. knowlesi：猴瘧、人畜共通、24 小時週期；沒有 hypnozoite。",
+      "key_point": "P. knowlesi：猴瘧、人畜共通、24 小時週期；沒有 hypnozoite。",
+      "flashcard_front": "Plasmodium knowlesi 錯誤敘述",
+      "flashcard_back": "不形成 hypnozoite；hypnozoite 屬 vivax/ovale。",
+      "flashcard_summary": "Plasmodium knowlesi 錯誤敘述 -> 不形成 hypnozoite；hypnozoite 屬 vivax/ovale。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n病媒在傷口或皮膚產卵，幼蟲孵化後寄生組織，是蠅蛆症（myiasis）的典型表現；選項中以綠蠅最符合。\n\n【選項詳解】\n- A. 白蛉傳播 Leishmania，但不是最常在傷口產卵孵化成幼蟲寄生的病媒。\n- B. 跳蚤可傳播鼠疫、斑疹傷寒等，某些可造成皮膚病灶，但不是本題蠅蛆症典型答案。\n- C. 蝨可傳播流行性斑疹傷寒等，並非在傷口產卵造成組織蛆症的主角。\n- D. 綠蠅等蠅類可在傷口產卵，幼蟲侵入或寄生組織造成 myiasis，最符合。\n\n【核心考點】\n傷口產卵、幼蟲寄生組織是蠅蛆症，病媒選蠅類。",
+      "key_point": "傷口產卵、幼蟲寄生組織是蠅蛆症，病媒選蠅類。",
+      "flashcard_front": "傷口產卵幼蟲寄生",
+      "flashcard_back": "綠蠅造成 myiasis。",
+      "flashcard_summary": "傷口產卵幼蟲寄生 -> 綠蠅造成 myiasis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n同一批病人服藥前後收縮壓比較是成對資料；單尾或雙尾會影響拒絕域與 p 值解讀，但不改變由資料算出的 test statistic。\n\n【選項詳解】\n- A. 200 筆看似兩組資料，其實來自 100 位病人前後測，前後值成對相關，不能視為互相獨立。\n- B. 應用 paired t test 時自由度是配對差值數量減一，也就是 99，不是 198。\n- C. 單尾或雙尾檢定改變臨界值與 p 值方向，但同一資料算出的 test statistic 不變，最恰當。\n- D. paired t test 主要假設配對差值近似常態，不必要求服藥前與服藥後原始血壓各自完全常態。\n\n【核心考點】\n前後測同一人是 paired data；paired t test 自由度 n-1，單/雙尾不改變 test statistic。",
+      "key_point": "前後測同一人是 paired data；paired t test 自由度 n-1，單/雙尾不改變 test statistic。",
+      "flashcard_front": "paired t test 前後測",
+      "flashcard_back": "同一人前後測為成對資料；df=n-1；test statistic 不因單/雙尾改變。",
+      "flashcard_summary": "paired t test 前後測 -> 同一人前後測為成對資料；df=n-1；test statistic 不因單/雙尾改變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n簡單線性迴歸以握力為依變項、年齡為自變項，模式為 y = intercept + slope × x；截距 26.8、斜率 -0.25。\n\n【選項詳解】\n- A. 截距不需除以樣本數 200；把 26.8/200 放進模式是錯誤理解。\n- B. 題目指定握力是依變項，不能把年齡放成依變項。\n- C. 握力 = 26.8 - 0.25 × 年齡，完全符合截距與斜率定義。\n- D. 同樣把年齡錯放為依變項，且不符合題目指定模型。\n\n【核心考點】\n線性迴歸模式寫成 dependent variable = intercept + slope × independent variable。",
+      "key_point": "線性迴歸模式寫成 dependent variable = intercept + slope × independent variable。",
+      "flashcard_front": "簡單線性迴歸式",
+      "flashcard_back": "握力 = 26.8 - 0.25 × 年齡。",
+      "flashcard_summary": "簡單線性迴歸式 -> 握力 = 26.8 - 0.25 × 年齡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n陰性預測值 80% 表示所有快篩陰性者中，真正沒有流感者佔 80%；因此陰性者中仍得到流感者為 1-80% = 20%。\n\n【選項詳解】\n- A. 40% 是把敏感度 60% 的漏診率誤當成陰性者中患病率，與題目給的 NPV 不同。\n- B. 30% 是特異度 70% 的假陽性率概念，也不是陰性者中仍有病比例。\n- C. 陰性預測值 80% 代表陰性者中 20% 實際仍有病，故此項正確。\n- D. 題目已直接給陰性預測值，所以可以判斷陰性者中患病比例。\n\n【核心考點】\nNPV = 陰性者中真正無病比例；陰性者中仍有病 = 1 - NPV。",
+      "key_point": "NPV = 陰性者中真正無病比例；陰性者中仍有病 = 1 - NPV。",
+      "flashcard_front": "NPV 80%",
+      "flashcard_back": "陰性反應者中仍有病比例為 20%。",
+      "flashcard_summary": "NPV 80% -> 陰性反應者中仍有病比例為 20%。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n臨床試驗隨機分組的核心目的是讓已知與未知干擾因子在各組平均分布相近，降低 confounding。\n\n【選項詳解】\n- A. 測量誤差主要靠標準化量測、校正工具與盲法降低，不是隨機分組的主要目的。\n- B. 隨機分組可使 confounders 在組間分布趨於平衡，是最重要目的。\n- C. 測量準確度取決於量測工具與程序，隨機分組不直接提高準確度。\n- D. 再現性與研究設計、樣本與方法透明度有關，非隨機分組的直接主要功能。\n\n【核心考點】\nRandomization 的考點是平衡干擾因子、降低 confounding。",
+      "key_point": "Randomization 的考點是平衡干擾因子、降低 confounding。",
+      "flashcard_front": "臨床試驗隨機分組目的",
+      "flashcard_back": "讓干擾因子在兩組分布相似。",
+      "flashcard_summary": "臨床試驗隨機分組目的 -> 讓干擾因子在兩組分布相似。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n全球環境變遷可造成暖化、病媒分布改變、臭氧層破壞與海平面上升；畜牧業增加主要與甲烷、氧化亞氮等溫室氣體相關，不是二氧化硫濃度上升。\n\n【選項詳解】\n- A. 暖化可改變病媒蚊與動物宿主分布，增加傳染病風險，屬公共衛生衝擊。\n- B. 臭氧層破壞使紫外線暴露增加，皮膚癌風險上升，屬公共衛生衝擊。\n- C. 二氧化碳增加造成溫室效應與海平面上升，屬全球變遷重要影響。\n- D. 牛隻畜養增加主要牽涉甲烷等溫室氣體，不是其排泄物造成二氧化硫濃度上升，因此不是恰當敘述。\n\n【核心考點】\n畜牧業與全球暖化常考甲烷，不是二氧化硫。",
+      "key_point": "畜牧業與全球暖化常考甲烷，不是二氧化硫。",
+      "flashcard_front": "全球環境變遷錯誤敘述",
+      "flashcard_back": "畜牧業增加主要與甲烷相關，不是二氧化硫。",
+      "flashcard_summary": "全球環境變遷錯誤敘述 -> 畜牧業增加主要與甲烷相關，不是二氧化硫。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

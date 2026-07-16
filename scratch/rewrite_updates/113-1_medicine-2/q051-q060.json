@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n弱酸藥物用 Henderson-Hasselbalch：pH = pKa + log([A-]/[HA])。pH 4、pKa 6，log 比值 = -2，所以 [A-]:[HA] = 1:100。\n\n【選項詳解】\n- A. 1:10 代表 pH 比 pKa 低 1；本題 pH 比 pKa 低 2。\n- B. 10:1 表示離子型較多，應發生在 pH 高於 pKa 的環境。\n- C. pH 比 pKa 低 2，弱酸多為非離子型，離子型與非離子型比例為 1:100。\n- D. 100:1 是 pH 比 pKa 高 2 時的弱酸比例，方向相反。\n\n【核心考點】\n弱酸：pH-pKa = log(A-/HA)；pH 比 pKa 低 2 時 A-/HA = 1/100。",
+      "key_point": "弱酸：pH-pKa = log(A-/HA)；pH 比 pKa 低 2 時 A-/HA = 1/100。",
+      "flashcard_front": "弱酸 pKa=6, pH=4",
+      "flashcard_back": "[A-]:[HA] = 1:100。",
+      "flashcard_summary": "弱酸 pKa=6, pH=4 -> [A-]:[HA] = 1:100。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n肺囊蟲肺炎（Pneumocystis jirovecii pneumonia, PCP）首選治療與預防藥物都是 trimethoprim-sulfamethoxazole。\n\n【選項詳解】\n- A. TMP-SMX 是 PCP 首選治療組合，正確。\n- B. vancomycin-gentamicin 主要針對細菌感染組合，不是 PCP 首選。\n- C. penicillin V-streptomycin 不是肺囊蟲治療組合。\n- D. amoxicillin-clavulanate 用於部分細菌感染，不涵蓋 PCP 首選治療。\n\n【核心考點】\nPCP 的治療與預防首選均是 TMP-SMX。",
+      "key_point": "PCP 的治療與預防首選均是 TMP-SMX。",
+      "flashcard_front": "肺囊蟲肺炎首選",
+      "flashcard_back": "trimethoprim-sulfamethoxazole。",
+      "flashcard_summary": "肺囊蟲肺炎首選 -> trimethoprim-sulfamethoxazole。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\nvinca alkaloids 抑制微小管聚合。vincristine 的劑量限制毒性以周邊神經病變較典型；vinblastine 則骨髓抑制較明顯。\n\n【選項詳解】\n- A. 骨髓抑制較常是 vinblastine 明顯，非 vincristine 較突出副作用。\n- B. 禿頭可見於多種化療，但不是 vincristine 相較 vinblastine 的主要差異。\n- C. 心臟毒性不是 vinca alkaloids 的典型差異重點；anthracycline 才常考心毒性。\n- D. vincristine 較易造成周邊神經病變，是本題答案。\n\n【核心考點】\nvincristine = neurotoxicity；vinblastine = bone marrow suppression。",
+      "key_point": "vincristine = neurotoxicity；vinblastine = bone marrow suppression。",
+      "flashcard_front": "vincristine vs vinblastine",
+      "flashcard_back": "vincristine 較易周邊神經病變。",
+      "flashcard_summary": "vincristine vs vinblastine -> vincristine 較易周邊神經病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nKRAS 突變的大腸直腸癌對抗 EGFR 單株抗體如 cetuximab 通常無效，因下游訊號已持續活化；因此與 FOLFOX 併用不會得到顯著療效。\n\n【選項詳解】\n- A. KRAS 突變預測 cetuximab 效果差，此項說有顯著療效是錯誤。\n- B. sorafenib 曾是晚期或不可切除肝癌的代表性標靶藥物，考題脈絡下敘述可接受。\n- C. gemcitabine 可用於轉移性胰臟癌治療，敘述正確。\n- D. erlotinib、afatinib、osimertinib 都是 EGFR 突變 NSCLC 可用的 EGFR TKI，敘述正確。\n\n【核心考點】\nKRAS mutation 是 anti-EGFR therapy 在大腸直腸癌效果差的重要預測因子。",
+      "key_point": "KRAS mutation 是 anti-EGFR therapy 在大腸直腸癌效果差的重要預測因子。",
+      "flashcard_front": "KRAS 突變與 cetuximab",
+      "flashcard_back": "KRAS 突變時 cetuximab 通常無效。",
+      "flashcard_summary": "KRAS 突變與 cetuximab -> KRAS 突變時 cetuximab 通常無效。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n5-HT3 是 ligand-gated cation channel，與化學受器觸發區和嘔吐反射密切相關；5-HT2 是 Gq coupled，不是 chemoreceptor reflex 的主要受體。\n\n【選項詳解】\n- A. 5-HT1B/1D 為 Gi coupled，可降低 cAMP，敘述正確。\n- B. 5-HT4 可促進腸道神經傳遞與蠕動，敘述正確。\n- C. chemoreceptor trigger zone 與嘔吐反射重點是 5-HT3；把它歸給 5-HT2 是錯誤。\n- D. 5-HT3 是 ligand-gated Na+/K+ cation channel，敘述正確。\n\n【核心考點】\n嘔吐反射與 5-HT3 相關；5-HT2 是 Gq receptor。",
+      "key_point": "嘔吐反射與 5-HT3 相關；5-HT2 是 Gq receptor。",
+      "flashcard_front": "serotonin receptor 錯誤敘述",
+      "flashcard_back": "chemoreceptor reflex 重點是 5-HT3，不是 5-HT2。",
+      "flashcard_summary": "serotonin receptor 錯誤敘述 -> chemoreceptor reflex 重點是 5-HT3，不是 5-HT2。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\npertuzumab 是抗 HER2 單株抗體，阻斷 HER2 dimerization；不是抗 VEGFR。其他選項 PD-1/PD-L1/EGFR 對應正確。\n\n【選項詳解】\n- A. avelumab 是 anti-PD-L1，可結合腫瘤細胞或免疫細胞上的 PD-L1，敘述正確。\n- B. nivolumab 是 anti-PD-1，主要作用於 T 細胞上的 PD-1，敘述正確。\n- C. panitumumab 是 anti-EGFR，可用於特定 RAS wild-type 大腸直腸癌，敘述正確。\n- D. pertuzumab 靶點是 HER2，不是 VEGFR，因此此項錯誤。\n\n【核心考點】\npertuzumab/trastuzumab 都是 HER2 相關抗體；VEGF/VEGFR 另想 bevacizumab、ramucirumab 等。",
+      "key_point": "pertuzumab/trastuzumab 都是 HER2 相關抗體；VEGF/VEGFR 另想 bevacizumab、ramucirumab 等。",
+      "flashcard_front": "pertuzumab 靶點",
+      "flashcard_back": "HER2，不是 VEGFR。",
+      "flashcard_summary": "pertuzumab 靶點 -> HER2，不是 VEGFR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nErythropoietin 可治療 CKD 或化療相關貧血，但會增加血栓與高血壓風險；控制不良高血壓是重要禁忌或需避免情境。\n\n【選項詳解】\n- A. 貧血或缺氧會刺激腎臟增加 erythropoietin 合成，敘述正確。\n- B. 可用於慢性腎病與部分化療引起貧血，敘述正確。\n- C. EPO 使紅血球生成增加，可能提高血栓事件風險，敘述正確。\n- D. 高血壓控制不良者不宜使用或需先控制，說可使用是錯誤。\n\n【核心考點】\nEPO 可治 CKD/化療貧血，但副作用包括高血壓與血栓； uncontrolled hypertension 要避免。",
+      "key_point": "EPO 可治 CKD/化療貧血，但副作用包括高血壓與血栓； uncontrolled hypertension 要避免。",
+      "flashcard_front": "EPO 禁忌/副作用",
+      "flashcard_back": "血栓與高血壓風險；高血壓控制不良不宜用。",
+      "flashcard_summary": "EPO 禁忌/副作用 -> 血栓與高血壓風險；高血壓控制不良不宜用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n直接凝血酶抑制劑中，dabigatran 是可口服的 DOAC，可降低非瓣膜性心房顫動的中風與全身性栓塞風險。\n\n【選項詳解】\n- A. lepirudin 是注射用直接凝血酶抑制劑，非本題口服 AF 預防用藥。\n- B. bivalirudin 為注射用，常用於介入治療抗凝，不是口服 AF 用藥。\n- C. dabigatran 可口服，直接抑制 thrombin，是非瓣膜性 AF 抗凝選項。\n- D. argatroban 為注射用直接凝血酶抑制劑，常見於 HIT 情境，不是口服。\n\n【核心考點】\n可口服直接 thrombin inhibitor = dabigatran。",
+      "key_point": "可口服直接 thrombin inhibitor = dabigatran。",
+      "flashcard_front": "口服 direct thrombin inhibitor",
+      "flashcard_back": "dabigatran。",
+      "flashcard_summary": "口服 direct thrombin inhibitor -> dabigatran。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nRepaglinide 是 meglitinide 類促胰島素分泌藥，作用短，主要控制餐後血糖；可用於腎功能不全或老年人時謹慎調整，不能說不宜用於所有這些患者。\n\n【選項詳解】\n- A. repaglinide 服餐前使用、作用短，適合控制餐後血糖波動，敘述正確。\n- B. 它不是 sulfonylurea，對磺脲類嚴重過敏者可作替代選項，敘述可接受。\n- C. 可單用或與 metformin 等 biguanide 併用於第 2 型糖尿病，敘述正確。\n- D. repaglinide 多由肝臟代謝，腎功能不全或老年人可謹慎使用；說不宜用於腎功能不全和老年人過度絕對。\n\n【核心考點】\nrepaglinide 短效、餐前、控餐後血糖；腎功能不全不是絕對不能用。",
+      "key_point": "repaglinide 短效、餐前、控餐後血糖；腎功能不全不是絕對不能用。",
+      "flashcard_front": "repaglinide 錯誤敘述",
+      "flashcard_back": "不應籠統說腎功能不全或老年人不宜使用。",
+      "flashcard_summary": "repaglinide 錯誤敘述 -> 不應籠統說腎功能不全或老年人不宜使用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nAnastrozole 是 aromatase inhibitor，降低雌激素，長期使用可造成骨質流失與骨質疏鬆。\n\n【選項詳解】\n- A. bazedoxifene 是 SERM，可用於骨質疏鬆相關治療，非典型造成骨鬆。\n- B. calcitonin 可抑制破骨細胞，用於骨質疏鬆或高血鈣治療。\n- C. strontium ranelate 曾用於骨質疏鬆治療，不是本題長期導致骨鬆答案。\n- D. anastrozole 抑制雌激素生成，長期會增加骨質疏鬆與骨折風險。\n\n【核心考點】\naromatase inhibitor 會降低雌激素，副作用是骨質流失。",
+      "key_point": "aromatase inhibitor 會降低雌激素，副作用是骨質流失。",
+      "flashcard_front": "anastrozole 長期副作用",
+      "flashcard_back": "骨質疏鬆。",
+      "flashcard_summary": "anastrozole 長期副作用 -> 骨質疏鬆。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

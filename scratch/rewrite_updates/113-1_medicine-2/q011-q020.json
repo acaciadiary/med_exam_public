@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nParvovirus B19 會感染紅血球前驅細胞，抑制紅血球生成；可造成第五病、再生不良危象與胎兒水腫。\n\n【選項詳解】\n- A. parvovirus B19 是單股 DNA 病毒，不是雙股 DNA。\n- B. 主要經呼吸道飛沫、血液或垂直傳播，不是典型糞口傳染。\n- C. 病毒利用 P antigen 感染 erythroid precursor，造成細胞溶解與紅血球生成暫停，敘述正確。\n- D. 兒童感染常為傳染性紅斑（fifth disease），嬰兒玫瑰疹主要是 HHV-6/7。\n\n【核心考點】\nParvovirus B19 是單股 DNA 病毒，親紅血球前驅細胞，考點是 aplastic crisis 與 fifth disease。",
+      "key_point": "Parvovirus B19 是單股 DNA 病毒，親紅血球前驅細胞，考點是 aplastic crisis 與 fifth disease。",
+      "flashcard_front": "Parvovirus B19 target cell",
+      "flashcard_back": "感染 erythroid precursor，抑制紅血球生成。",
+      "flashcard_summary": "Parvovirus B19 target cell -> 感染 erythroid precursor，抑制紅血球生成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\nRT-QuIC 利用異常 PrPSc 作為 seed，誘導正常重組 PrP 轉成聚集纖絲，藉由即時螢光訊號偵測是否有 PrPSc。\n\n【選項詳解】\n- A. 正常 PrPC 不會自發成為檢測所依賴的病理性纖絲種子。\n- B. PrPSc 具有誘導錯誤摺疊與聚集成纖絲的 seeded conversion 特性，正是 RT-QuIC 的核心。\n- C. 方向相反；PrPSc 會促使 PrPC 轉成異常構型，不是把 PrPSc 轉回 PrPC。\n- D. PrPSc 通常較抗蛋白酶分解、較穩定，不是因為半衰期較短而被偵測。\n\n【核心考點】\nRT-QuIC 考的是 PrPSc 的 seeded aggregation：異常 prion 可誘導正常 PrP 形成纖絲。",
+      "key_point": "RT-QuIC 考的是 PrPSc 的 seeded aggregation：異常 prion 可誘導正常 PrP 形成纖絲。",
+      "flashcard_front": "RT-QuIC 原理",
+      "flashcard_back": "利用 PrPSc seed 促進 PrP 聚集成 amyloid-like fibril。",
+      "flashcard_summary": "RT-QuIC 原理 -> 利用 PrPSc seed 促進 PrP 聚集成 amyloid-like fibril。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n大多數人類 DNA 病毒在細胞核複製；poxvirus 是重要例外，因具有完整複製與轉錄所需酵素，可在細胞質內複製。\n\n【選項詳解】\n- A. poxvirus 在細胞質複製，是與多數 DNA 病毒最重要的差異。\n- B. 線型雙股 DNA 不是 poxvirus 獨有，並非與多數 DNA 病毒最主要差異。\n- C. poxvirus 有自己的 DNA polymerase，但此特徵服務於細胞質複製；題目問主要差異時以細胞質複製最關鍵。\n- D. strand displacement 是某些病毒複製策略，不是 poxvirus 相對其他人類 DNA 病毒的典型主差異。\n\n【核心考點】\npoxvirus 是 DNA 病毒中少數在細胞質複製的高頻例外。",
+      "key_point": "poxvirus 是 DNA 病毒中少數在細胞質複製的高頻例外。",
+      "flashcard_front": "poxvirus 與其他 DNA virus 差異",
+      "flashcard_back": "poxvirus 在細胞質複製。",
+      "flashcard_summary": "poxvirus 與其他 DNA virus 差異 -> poxvirus 在細胞質複製。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n題目問抗病毒治療何者最不適當。indinavir 是 HIV protease inhibitor，不是 HSV 治療藥；HSV 常用 acyclovir、valacyclovir 等。\n\n【選項詳解】\n- A. indinavir 用於 HIV 治療，機轉為抑制 HIV protease；拿來治療單純疱疹病毒感染不適當。\n- B. ribavirin 合併 interferon 曾是 C 型肝炎治療選項，雖現代已多由 DAA 取代，但作為考題敘述可接受。\n- C. 狂犬病暴露後須做傷口處理並給予疫苗，未接種者也需狂犬病免疫球蛋白，敘述方向正確。\n- D. amantadine 可抑制 influenza A 的 M2 channel；臨床因抗藥性已少用，但藥理敘述正確。\n\n【核心考點】\nindinavir 是 HIV protease inhibitor；HSV 治療關鍵是 acyclovir 類核苷類似物。",
+      "key_point": "indinavir 是 HIV protease inhibitor；HSV 治療關鍵是 acyclovir 類核苷類似物。",
+      "flashcard_front": "indinavir 適應症",
+      "flashcard_back": "HIV protease inhibitor，不是 HSV 治療藥。",
+      "flashcard_summary": "indinavir 適應症 -> HIV protease inhibitor，不是 HSV 治療藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n一歲托育中心幼兒出現水瀉、嘔吐、輕微發燒與脫水，是輪狀病毒腸胃炎的典型臨床情境。\n\n【選項詳解】\n- A. 輪狀病毒常造成嬰幼兒嚴重水瀉與嘔吐，托育環境易傳播，能解釋本題的年齡、群聚環境與脫水住院。\n- B. 流感病毒主要造成呼吸道症狀、發燒與肌肉痠痛，非以水瀉脫水為主要表現。\n- C. B 型肝炎病毒主要造成肝炎與慢性感染，不是急性托育中心水瀉嘔吐的典型原因。\n- D. EB 病毒典型為傳染性單核球增多症等，不是嬰幼兒急性水瀉脫水首選。\n\n【核心考點】\n幼兒托育中心急性水瀉、嘔吐、脫水，先想 rotavirus。",
+      "key_point": "幼兒托育中心急性水瀉、嘔吐、脫水，先想 rotavirus。",
+      "flashcard_front": "嬰幼兒水瀉脫水",
+      "flashcard_back": "輪狀病毒（rotavirus）是典型原因。",
+      "flashcard_summary": "嬰幼兒水瀉脫水 -> 輪狀病毒（rotavirus）是典型原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\nEmergomyces 是溫度雙型性真菌，常經吸入感染，免疫低下尤其 HIV 患者可出現播散性疾病與皮膚病灶。\n\n【選項詳解】\n- A. 25°C 黴菌型、37°C 酵母型是溫度雙型性真菌的典型敘述。\n- B. 吸入孢子後可播散，皮膚病灶常見，敘述正確。\n- C. Emergomyces 感染多見於免疫不全者，特別是 HIV/AIDS；說多數感染者健康不適當。\n- D. 嚴重感染可使用 amphotericin B 後接 triazole 治療，敘述合理。\n\n【核心考點】\nEmergomyces 是機會性、溫度雙型性真菌，常見於免疫低下並可有皮膚病灶。",
+      "key_point": "Emergomyces 是機會性、溫度雙型性真菌，常見於免疫低下並可有皮膚病灶。",
+      "flashcard_front": "Emergomyces 高風險族群",
+      "flashcard_back": "多見於免疫不全者，不是多數健康人感染。",
+      "flashcard_summary": "Emergomyces 高風險族群 -> 多見於免疫不全者，不是多數健康人感染。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\nEchinocandin 抑制真菌 β-1,3-D-glucan cell wall synthesis，對 Candida 殺菌，對 Aspergillus 有活性；對 Cryptococcus、Mucorales 與 Fusarium 效果差。\n\n【選項詳解】\n- A. 毛黴菌對 echinocandin 效果差，治療常需 amphotericin B、手術與控制危險因子。\n- B. 隱球菌細胞壁特性使 echinocandin 效果不佳，治療以 amphotericin B、flucytosine、fluconazole 等為主。\n- C. Fusarium 對 echinocandin 通常不理想，臨床多考慮 voriconazole 或 amphotericin B。\n- D. 麴菌對 echinocandin 有治療活性，雖常非單一首選，但在選項中最符合。\n\n【核心考點】\nEchinocandin 對 Candida 與 Aspergillus 有用；對 Cryptococcus、Mucorales、Fusarium 較差。",
+      "key_point": "Echinocandin 對 Candida 與 Aspergillus 有用；對 Cryptococcus、Mucorales、Fusarium 較差。",
+      "flashcard_front": "Echinocandin 抗黴菌範圍",
+      "flashcard_back": "抑制 β-1,3-D-glucan；選項中 Aspergillus 最適合。",
+      "flashcard_summary": "Echinocandin 抗黴菌範圍 -> 抑制 β-1,3-D-glucan；選項中 Aspergillus 最適合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n造血位置隨發育時期轉移：早期 yolk sac，胎兒期 fetal liver，出生前後骨髓成為主要造血處；fetal heart 不是典型造血器官。\n\n【選項詳解】\n- A. yolk sac 是胚胎早期造血位置之一，不是最不可能。\n- B. fetal liver 是胎兒期重要造血器官。\n- C. fetal heart 不是造血作用的典型場所，因此最不可能。\n- D. bone marrow 是出生後主要造血處。\n\n【核心考點】\n造血發育順序可記 yolk sac -> fetal liver -> bone marrow；心臟不是造血器官。",
+      "key_point": "造血發育順序可記 yolk sac -> fetal liver -> bone marrow；心臟不是造血器官。",
+      "flashcard_front": "胚胎與出生後造血位置",
+      "flashcard_back": "yolk sac、fetal liver、bone marrow；不是 fetal heart。",
+      "flashcard_summary": "胚胎與出生後造血位置 -> yolk sac、fetal liver、bone marrow；不是 fetal heart。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n第一型干擾素（IFN-α/β）由病毒感染細胞誘發，建立抗病毒狀態並增加 MHC I 表現，但不是自己直接分解病毒。\n\n【選項詳解】\n- A. 病毒感染有核細胞可誘導 type I interferon，敘述正確。\n- B. type I interferon 是訊號分子，誘導宿主細胞抗病毒基因表現，不是直接把病毒分解。\n- C. 它可誘導 RNase、PKR 等抗病毒路徑，破壞病毒 mRNA 或抑制蛋白轉譯。\n- D. 增加 MHC I 表現可幫助 CD8 T 細胞辨識感染細胞，敘述正確。\n\n【核心考點】\nIFN-α/β 不是直接殺病毒，而是讓細胞進入抗病毒狀態並強化 MHC I 呈現。",
+      "key_point": "IFN-α/β 不是直接殺病毒，而是讓細胞進入抗病毒狀態並強化 MHC I 呈現。",
+      "flashcard_front": "type I interferon 作用",
+      "flashcard_back": "誘導抗病毒基因與 MHC I，不直接分解病毒。",
+      "flashcard_summary": "type I interferon 作用 -> 誘導抗病毒基因與 MHC I，不直接分解病毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\nclonal expansion 指成熟淋巴細胞遇到特異性抗原後在周邊淋巴組織大量增殖，不是在胸腺或骨髓發育階段發生。\n\n【選項詳解】\n- A. TCR αβ 與 γδ 分別形成兩大類 T 細胞受體，敘述正確。\n- B. 抗原受體與抗原間的非共價作用包括氫鍵、凡德瓦力等，敘述正確。\n- C. 把 clonal expansion 說成胸腺或骨髓發育過程中的外來抗原刺激是錯的；它發生在成熟淋巴細胞遇抗原後。\n- D. MHC restriction 表示 TCR 辨識抗原胜肽時需搭配自身 MHC，敘述正確。\n\n【核心考點】\nclonal expansion 是成熟淋巴球在周邊遇到抗原後增殖，不是中樞淋巴器官發育過程。",
+      "key_point": "clonal expansion 是成熟淋巴球在周邊遇到抗原後增殖，不是中樞淋巴器官發育過程。",
+      "flashcard_front": "clonal expansion 定義",
+      "flashcard_back": "成熟淋巴細胞遇特異性抗原後大量增殖。",
+      "flashcard_summary": "clonal expansion 定義 -> 成熟淋巴細胞遇特異性抗原後大量增殖。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

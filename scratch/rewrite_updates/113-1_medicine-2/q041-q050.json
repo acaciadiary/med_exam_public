@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n毒化物代謝常使物質更具極性，便於尿液或膽汁排泄；尿液排泄的代謝物多為較高極性，而非較低極性。\n\n【選項詳解】\n- A. 肝臟含豐富代謝酵素，是毒化物代謝最主要器官，敘述正確。\n- B. 由尿液排泄的代謝物通常較水溶、較高極性；說較低極性最不恰當。\n- C. Phase II 主要是 conjugation，例如 glucuronidation、sulfation、acetylation 等，敘述正確。\n- D. 代謝物可作為生物偵測與暴露評估指標，敘述正確。\n\n【核心考點】\n代謝通常增加極性與水溶性，利於尿液排泄；Phase II 是 conjugation。",
+      "key_point": "代謝通常增加極性與水溶性，利於尿液排泄；Phase II 是 conjugation。",
+      "flashcard_front": "毒化物代謝與尿液排泄",
+      "flashcard_back": "尿中代謝物多為較高極性，不是較低極性。",
+      "flashcard_summary": "毒化物代謝與尿液排泄 -> 尿中代謝物多為較高極性，不是較低極性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\nAQI 由各污染物副指標計算後，以最大值作為該測站 AQI，因為最大值代表當日健康風險最嚴重的污染物。\n\n【選項詳解】\n- A. AQI 監測項目包括 O3、PM2.5、PM10、CO、SO2、NO2，敘述正確。\n- B. AQI 會將污染物濃度換算成健康影響相關的副指標值，敘述正確。\n- C. AQI 取各副指標最大值，不是最小值；此項最不恰當。\n- D. AQI 大於 100 表示對敏感族群或一般民眾健康不良風險增加，敘述正確。\n\n【核心考點】\nAQI 是各污染物副指標中的最大值，不是最小值。",
+      "key_point": "AQI 是各污染物副指標中的最大值，不是最小值。",
+      "flashcard_front": "AQI 計算",
+      "flashcard_back": "取各污染物副指標最大值作為 AQI。",
+      "flashcard_summary": "AQI 計算 -> 取各污染物副指標最大值作為 AQI。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n作業環境測定標準用於評估與管理工作場所暴露，協助職業衛生控制；它不是職業病診斷標準本身。\n\n【選項詳解】\n- A. 8 小時日時量平均容許濃度是長期工作暴露可接受水準的概念，敘述大致正確。\n- B. 短時間時量平均容許濃度通常指 15 分鐘內的平均暴露不得超過標準，敘述正確。\n- C. 最高容許濃度是任何時間不得超過的上限，敘述正確。\n- D. 作業環境測定標準是暴露評估與管理依據，不等於職業病診斷標準，因此最不恰當。\n\n【核心考點】\n容許濃度是職業暴露管理標準，不是直接的職業病診斷標準。",
+      "key_point": "容許濃度是職業暴露管理標準，不是直接的職業病診斷標準。",
+      "flashcard_front": "作業環境測定標準用途",
+      "flashcard_back": "用於暴露評估與管理，不是職業病診斷標準。",
+      "flashcard_summary": "作業環境測定標準用途 -> 用於暴露評估與管理，不是職業病診斷標準。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n社會行銷 4P 為 product、price、place、promotion；politics 可屬政策或倡議環境，但不是基本 4P 之一。\n\n【選項詳解】\n- A. promotion 是 4P 之一，指促銷或溝通推廣。\n- B. place 是 4P 之一，指通路或可近性。\n- C. politics 不是傳統社會行銷 4P 的核心項目，因此是答案。\n- D. price 是 4P 之一，指金錢與非金錢成本。\n\n【核心考點】\n社會行銷 4P：product、price、place、promotion。",
+      "key_point": "社會行銷 4P：product、price、place、promotion。",
+      "flashcard_front": "社會行銷 4P",
+      "flashcard_back": "不包括 politics。",
+      "flashcard_summary": "社會行銷 4P -> 不包括 politics。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n劉太太不想乳攝的主因是過去疼痛經驗造成她認為行動有障礙；健康信念模式中這屬於 perceived barriers，也可和 perceived benefits 一起權衡。\n\n【選項詳解】\n- A. 她距離近、有通知，但因疼痛經驗不願再做，最符合行動障礙與利益權衡。\n- B. 易感受性是個人認為自己罹病風險高低；題幹沒有強調她覺得自己不會得乳癌。\n- C. 衛生所通知是行動線索，但她已收到線索仍不去，真正阻力是疼痛障礙。\n- D. 自我效能是相信自己能完成行動；題幹不是不會安排或無能力完成檢查。\n\n【核心考點】\n健康信念模式中，疼痛、費用、麻煩等阻礙屬 perceived barriers。",
+      "key_point": "健康信念模式中，疼痛、費用、麻煩等阻礙屬 perceived barriers。",
+      "flashcard_front": "健康信念模式：疼痛不想篩檢",
+      "flashcard_back": "屬行動障礙與利益權衡。",
+      "flashcard_summary": "健康信念模式：疼痛不想篩檢 -> 屬行動障礙與利益權衡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n渥太華憲章五大行動綱領包括制定健康公共政策、創造支持性環境、強化社區行動、發展個人技能、調整健康服務方向。\n\n【選項詳解】\n- A. 制定健康的公共政策是五大綱領之一。\n- B. 強化社會行銷內涵不是渥太華憲章五大行動綱領之一。\n- C. 發展個人技能是五大綱領之一。\n- D. 創造支持性環境是五大綱領之一。\n\n【核心考點】\nOttawa Charter 五大綱領不含社會行銷；要記健康政策、支持環境、社區行動、個人技能、健康服務再定位。",
+      "key_point": "Ottawa Charter 五大綱領不含社會行銷；要記健康政策、支持環境、社區行動、個人技能、健康服務再定位。",
+      "flashcard_front": "渥太華憲章五大行動綱領",
+      "flashcard_back": "不包括強化社會行銷內涵。",
+      "flashcard_summary": "渥太華憲章五大行動綱領 -> 不包括強化社會行銷內涵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n疾病管制署前身整併自防疫、檢疫、預防醫學研究與慢性病防治相關單位；選項中最符合的是防疫處、檢疫總所、預防醫學研究所、慢性病防治局。\n\n【選項詳解】\n- A. 疫情指揮中心不是當時合併改制的四個前身單位組合，故不適當。\n- B. 熱帶醫學研究所不是此題標準組合中的單位。\n- C. 防疫處、檢疫總所、預防醫學研究所、慢性病防治局符合疾病管制署改制前身的考點。\n- D. 血清疫苗製造所不是此題所列標準合併組合。\n\n【核心考點】\n疾管署前身考點：防疫處、檢疫總所、預防醫學研究所、慢性病防治局。",
+      "key_point": "疾管署前身考點：防疫處、檢疫總所、預防醫學研究所、慢性病防治局。",
+      "flashcard_front": "疾病管制署前身",
+      "flashcard_back": "防疫處、檢疫總所、預防醫學研究所、慢性病防治局。",
+      "flashcard_summary": "疾病管制署前身 -> 防疫處、檢疫總所、預防醫學研究所、慢性病防治局。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n論量計酬依服務量付款，服務越多收入越高，容易誘發供給與醫療量增加，因此最不容易控制費用上漲。\n\n【選項詳解】\n- A. 總額預算設定整體支出上限，控制費用能力強。\n- B. 論量計酬會鼓勵增加服務量，是控制費用最不利的支付制度。\n- C. 論病例計酬以病例或診斷相關群組固定支付，較能限制單案費用。\n- D. 論人計酬以人頭固定支付，醫療提供者有控制成本誘因。\n\n【核心考點】\n費用控制最差通常是 fee-for-service；總額、case payment、capitation 較有成本控制誘因。",
+      "key_point": "費用控制最差通常是 fee-for-service；總額、case payment、capitation 較有成本控制誘因。",
+      "flashcard_front": "最不易控制費用支付制度",
+      "flashcard_back": "論量計酬（fee for service）。",
+      "flashcard_summary": "最不易控制費用支付制度 -> 論量計酬（fee for service）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\nWHO 醫療照護體系績效三大目標常考健康、回應性與財務公平/風險保護；醫療提供者滿意度不是三大目標之一。\n\n【選項詳解】\n- A. 健康水準屬於醫療體系績效核心目標。\n- B. 醫療提供者滿意度可作為管理指標，但不是 WHO 三大目標之一。\n- C. 病人滿意、尊嚴與可近性可歸入 responsiveness，屬三大目標相關概念。\n- D. 病人家庭財務負擔對應公平財務分擔/財務風險保護，是三大目標相關概念。\n\n【核心考點】\nWHO health system goals：health、responsiveness、fair financial contribution；不含 provider satisfaction。",
+      "key_point": "WHO health system goals：health、responsiveness、fair financial contribution；不含 provider satisfaction。",
+      "flashcard_front": "WHO 醫療體系三大目標",
+      "flashcard_back": "不包括醫療提供者滿意度。",
+      "flashcard_summary": "WHO 醫療體系三大目標 -> 不包括醫療提供者滿意度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n病人自主權利法允許依預立醫療決定處理特定臨床條件，如末期病人、不可逆昏迷、永久植物人、極重度失智等；不是所有程度失智症都適用。\n\n【選項詳解】\n- A. 癌症末期病人屬可適用預立醫療決定的條件之一。\n- B. 不可逆轉昏迷屬可適用條件之一。\n- C. 永久植物人狀態屬可適用條件之一。\n- D. 法律並非涵蓋所有程度的失智症；通常限於極重度失智等特定情境，因此不得僅因任何程度失智就依預立決定撤除治療。\n\n【核心考點】\n預立醫療決定適用於法定特定臨床條件；失智症不是所有程度都適用。",
+      "key_point": "預立醫療決定適用於法定特定臨床條件；失智症不是所有程度都適用。",
+      "flashcard_front": "病人自主權利法不適用條件",
+      "flashcard_back": "不是所有程度失智症都可依預立醫療決定撤除維生治療。",
+      "flashcard_summary": "病人自主權利法不適用條件 -> 不是所有程度失智症都可依預立醫療決定撤除維生治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n紫外線最典型造成 DNA 相鄰嘧啶鹼基形成 pyrimidine dimer，特別是 thymine dimer；若修復失敗可導致皮膚癌。\n\n【選項詳解】\n- A. 形成嘧啶二聚體是 UV 致癌的核心 DNA 損傷。\n- B. 雙股 DNA 斷裂較常與游離輻射等相關，不是 UV 主要考點。\n- C. 染色體非平衡轉位不是 UV light 的主要直接 DNA 損傷。\n- D. 基因擴增可見於癌症演化，但不是 UV 的主要初始 DNA 損傷。\n\n【核心考點】\nUV causes pyrimidine dimers；ionizing radiation causes double-strand breaks。",
+      "key_point": "UV causes pyrimidine dimers；ionizing radiation causes double-strand breaks。",
+      "flashcard_front": "UV DNA damage",
+      "flashcard_back": "pyrimidine dimer。",
+      "flashcard_summary": "UV DNA damage -> pyrimidine dimer。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n生牛肉後 O157:H7 出血性腹瀉，接著少尿、血尿、急性腎衰竭，是 STEC-HUS；Shiga toxin 傷害內皮細胞，造成微血管病變性溶血與腎損傷。\n\n【選項詳解】\n- A. ADAMTS13 下降是 TTP 的重要機轉，不是典型 STEC-HUS 主因。\n- B. Shiga toxin 對血管內皮尤其腎小球內皮造成傷害，是 HUS 致病主因。\n- C. HUS 屬血小板微血栓性病變，PT/PTT 通常不如 DIC 那樣延長；初期 PTT 延長不是常見核心。\n- D. 產生 von Willebrand factor 抗體不是 STEC-HUS 的致病機制。\n\n【核心考點】\nSTEC-HUS = endothelial injury by Shiga toxin，並非 ADAMTS13 缺乏的 TTP。",
+      "key_point": "STEC-HUS = endothelial injury by Shiga toxin，並非 ADAMTS13 缺乏的 TTP。",
+      "flashcard_front": "O157:H7 HUS 機轉",
+      "flashcard_back": "Shiga toxin 傷害血管內皮細胞。",
+      "flashcard_summary": "O157:H7 HUS 機轉 -> Shiga toxin 傷害血管內皮細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n白色梗塞常發生在緻密實質器官、終末動脈供血且缺乏雙重血流的器官，如心、脾、腎；腎臟梗塞屬典型白色梗塞。\n\n【選項詳解】\n- A. 睪丸扭轉因靜脈回流受阻，較易出現出血性/紅色梗塞。\n- B. 肺有雙重血流且組織疏鬆，肺梗塞多為紅色梗塞。\n- C. 小腸梗塞常因靜脈淤血與再灌流，偏紅色梗塞。\n- D. 腎臟為緻密器官且終末動脈供血，典型為白色梗塞。\n\n【核心考點】\n白色梗塞：心、脾、腎；紅色梗塞：肺、腸、睪丸扭轉、靜脈阻塞或再灌流。",
+      "key_point": "白色梗塞：心、脾、腎；紅色梗塞：肺、腸、睪丸扭轉、靜脈阻塞或再灌流。",
+      "flashcard_front": "白色梗塞例子",
+      "flashcard_back": "腎臟梗塞。",
+      "flashcard_summary": "白色梗塞例子 -> 腎臟梗塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n前列腺素 E2 可維持動脈導管開放；抑制 PGE2 合成（如 indomethacin/ibuprofen）可促進開放性動脈導管關閉。\n\n【選項詳解】\n- A. 開放性動脈導管可用 NSAID 抑制 PGE2 促進關閉，最符合。\n- B. 心房中膈缺損不是靠抑制 PGE2 治療。\n- C. 心室中膈缺損也不是以 PGE2 抑制作為主要治療。\n- D. 主動脈閉鎖等 ductal-dependent lesion 反而可能需要 PGE1 維持導管開放。\n\n【核心考點】\nPDA 關閉用 indomethacin/ibuprofen；ductal-dependent lesions 用 PGE1 維持開放。",
+      "key_point": "PDA 關閉用 indomethacin/ibuprofen；ductal-dependent lesions 用 PGE1 維持開放。",
+      "flashcard_front": "PGE2 抑制治療",
+      "flashcard_back": "開放性動脈導管。",
+      "flashcard_summary": "PGE2 抑制治療 -> 開放性動脈導管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n急性骨髓性白血病（AML）診斷通常以骨髓或周邊血 myeloblasts ≥20% 為門檻；25% 已符合 AML。\n\n【選項詳解】\n- A. 原發性骨髓纖維化重點是巨核細胞異常與骨髓纖維化，不以 myeloblast 25% 為診斷。\n- B. CML 可有慢性期、加速期、急變期；單看 myeloblast 25% 已偏向急性白血病/急變，不是一般 CML 診斷。\n- C. myeloblasts 25% 超過 AML 診斷門檻，最符合急性骨髓性白血病。\n- D. MDS 通常 blasts 未達 AML 門檻；達 20% 以上應診斷 AML。\n\n【核心考點】\nAML blast cutoff 常考 ≥20%。",
+      "key_point": "AML blast cutoff 常考 ≥20%。",
+      "flashcard_front": "myeloblast 25%",
+      "flashcard_back": "急性骨髓性白血病（AML）。",
+      "flashcard_summary": "myeloblast 25% -> 急性骨髓性白血病（AML）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n鬱血性脾腫大最常見原因是門脈高壓，而門脈高壓最常由肝硬化造成。\n\n【選項詳解】\n- A. 心臟衰竭可造成全身靜脈鬱血，但不是鬱血性脾腫大最常見原因。\n- B. 門靜脈血栓可造成門脈壓升高與脾腫大，但流行上不如肝硬化常見。\n- C. 脾靜脈血栓可造成局部脾鬱血，但不是最常見原因。\n- D. 肝硬化導致門脈高壓，是鬱血性脾腫大最常見原因。\n\n【核心考點】\n鬱血性脾腫大最常因肝硬化造成門脈高壓。",
+      "key_point": "鬱血性脾腫大最常因肝硬化造成門脈高壓。",
+      "flashcard_front": "鬱血性脾腫大最常見原因",
+      "flashcard_back": "肝硬化。",
+      "flashcard_summary": "鬱血性脾腫大最常見原因 -> 肝硬化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n惡性間皮瘤與石棉暴露密切相關，最常發生於胸膜，可有 BAP1 等突變；其以局部侵犯為主，遠端轉移並非最典型常見表現。\n\n【選項詳解】\n- A. 石棉暴露是惡性間皮瘤最重要危險因子之一，敘述正確。\n- B. BAP1 突變可見於間皮瘤，敘述正確。\n- C. 惡性間皮瘤最常見位置是胸膜，敘述正確。\n- D. 間皮瘤常局部擴展包覆肺臟，遠端轉移不是最典型常見表現，因此此項錯誤。\n\n【核心考點】\nMesothelioma：asbestos、pleura、BAP1；以局部侵犯為主。",
+      "key_point": "Mesothelioma：asbestos、pleura、BAP1；以局部侵犯為主。",
+      "flashcard_front": "惡性間皮瘤錯誤敘述",
+      "flashcard_back": "不以常造成遠端轉移為典型。",
+      "flashcard_summary": "惡性間皮瘤錯誤敘述 -> 不以常造成遠端轉移為典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n氣胸可造成縱膈偏移、肺塌陷後纖維化或感染相關併發症；肺癌不是氣胸的典型併發症，反而某些肺病或腫瘤可造成氣胸。\n\n【選項詳解】\n- A. 張力性氣胸可造成縱膈腔偏移，是重要併發症。\n- B. 反覆或治療後可出現肺部瘢痕或沾黏，可能相關。\n- C. 肺癌不是氣胸造成的併發症，因此最不可能。\n- D. 感染或胸腔處置後可能有積膿等併發症，雖非最常見但比肺癌更合理。\n\n【核心考點】\n氣胸急性危險併發症是張力性氣胸與縱膈偏移；肺癌不是其併發症。",
+      "key_point": "氣胸急性危險併發症是張力性氣胸與縱膈偏移；肺癌不是其併發症。",
+      "flashcard_front": "氣胸最不可能併發症",
+      "flashcard_back": "肺癌。",
+      "flashcard_summary": "氣胸最不可能併發症 -> 肺癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n肺錯構瘤（hamartoma）是最常見良性肺腫瘤，常含軟骨、脂肪與結締組織等成熟組織。\n\n【選項詳解】\n- A. hamartoma 是最常見良性肺腫瘤，為正確答案。\n- B. 孤立性纖維瘤可發生於胸膜或肺相關部位，但不是最常見良性肺腫瘤。\n- C. 血管瘤可為良性腫瘤，但在肺部不如 hamartoma 常見。\n- D. 平滑肌瘤可發生但不是最常見肺良性腫瘤。\n\n【核心考點】\n最常見良性肺腫瘤是 hamartoma。",
+      "key_point": "最常見良性肺腫瘤是 hamartoma。",
+      "flashcard_front": "最常見良性肺腫瘤",
+      "flashcard_back": "錯構瘤（hamartoma）。",
+      "flashcard_summary": "最常見良性肺腫瘤 -> 錯構瘤（hamartoma）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n自體免疫性肝炎常有高 IgG/γ-globulin、漿細胞浸潤，對類固醇或免疫抑制劑反應佳；第二型較常見於兒童或年輕人，不是老年人。\n\n【選項詳解】\n- A. IgG 或 γ-球蛋白增高是 AIH 常見實驗室表現。\n- B. 第二型 AIH 通常較常見於兒童與年輕族群；說較常發生於老年人是錯誤。\n- C. 病理可見界面性肝炎與漿細胞浸潤，未治療可進展肝硬化，敘述正確。\n- D. 類固醇或免疫抑制治療通常可改善發炎，敘述正確。\n\n【核心考點】\nType 2 autoimmune hepatitis 較常見於兒童/年輕人，不是老年人。",
+      "key_point": "Type 2 autoimmune hepatitis 較常見於兒童/年輕人，不是老年人。",
+      "flashcard_front": "自體免疫性肝炎錯誤敘述",
+      "flashcard_back": "第二型不是較常發生於老年人。",
+      "flashcard_summary": "自體免疫性肝炎錯誤敘述 -> 第二型不是較常發生於老年人。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n慢性胰臟炎是反覆發炎造成的不可逆纖維化、腺泡萎縮與導管改變，常保留相對較多胰島；不是可逆變化。\n\n【選項詳解】\n- A. 嚴重急性胰臟炎可造成 shock、ARDS、DIC、AKI 等全身併發症，敘述正確。\n- B. PRSS1、SPINK1 等突變與遺傳性或反覆胰臟炎相關，敘述正確。\n- C. 慢性胰臟炎組織學常見廣泛纖維化，導管與蘭氏小島相對殘留，敘述正確。\n- D. 慢性胰臟炎造成永久結構破壞與纖維化，屬不可逆變化，因此此項錯誤。\n\n【核心考點】\n慢性胰臟炎 = 不可逆纖維化與外分泌破壞。",
+      "key_point": "慢性胰臟炎 = 不可逆纖維化與外分泌破壞。",
+      "flashcard_front": "慢性胰臟炎錯誤敘述",
+      "flashcard_back": "不是可逆變化。",
+      "flashcard_summary": "慢性胰臟炎錯誤敘述 -> 不是可逆變化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n大量 NSAIDs 使用後上腹痛、噁心嘔吐與吐血，最可能是前列腺素下降造成胃黏膜保護減弱，引起急性糜爛性胃炎或潰瘍出血。\n\n【選項詳解】\n- A. NSAIDs 抑制 COX、降低 PGE2，導致急性胃炎與出血，能直接解釋她大量止痛藥後的上腹痛與吐血。\n- B. 胃腺癌通常不是幾天內因 NSAIDs 使用後急性吐血的最可能原因。\n- C. 幽門螺旋桿菌可造成慢性胃炎與潰瘍，但題幹強調大量 NSAIDs 與急性症狀，較支持 NSAID 急性胃炎。\n- D. 增生性息肉多為慢性病灶，非此急性上消化道出血最可能原因。\n\n【核心考點】\nNSAIDs 造成胃黏膜 PGE2 下降，導致急性胃炎/糜爛與出血。",
+      "key_point": "NSAIDs 造成胃黏膜 PGE2 下降，導致急性胃炎/糜爛與出血。",
+      "flashcard_front": "NSAID + 吐血",
+      "flashcard_back": "急性胃炎或糜爛性胃炎最可能。",
+      "flashcard_summary": "NSAID + 吐血 -> 急性胃炎或糜爛性胃炎最可能。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n長期第二型糖尿病胰島常沉積 islet amyloid polypeptide（amylin）形成類澱粉沉積，並伴隨 β 細胞功能下降。\n\n【選項詳解】\n- A. 脂褐質是老化或耗損色素，不是第二型糖尿病胰島典型沉積物。\n- B. 第二型糖尿病胰島常有 amylin 形成的類澱粉沉積，最符合。\n- C. 鈣質沉積不是第二型糖尿病胰島最典型病理變化。\n- D. 鋅與胰島素儲存有關，但不是長期第二型糖尿病胰島病理沉積答案。\n\n【核心考點】\nType 2 DM 胰島病理：amylin amyloid deposition。",
+      "key_point": "Type 2 DM 胰島病理：amylin amyloid deposition。",
+      "flashcard_front": "第二型糖尿病胰島沉積",
+      "flashcard_back": "類澱粉（amylin/IAPP）。",
+      "flashcard_summary": "第二型糖尿病胰島沉積 -> 類澱粉（amylin/IAPP）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n腎臟乳突狀癌常見 trisomy 7、trisomy 17 與男性 loss of Y；染色體 3p 缺失是透明細胞腎細胞癌的典型變化。\n\n【選項詳解】\n- A. 3p deletion 與 VHL/clear cell RCC 相關，最不可能是 papillary RCC 的典型異常。\n- B. trisomy 7 是 papillary RCC 常見異常。\n- C. trisomy 17 也是 papillary RCC 常見異常。\n- D. 男性 loss of Y 可見於 papillary RCC，屬典型配對之一。\n\n【核心考點】\nPapillary RCC = trisomy 7/17、loss of Y；Clear cell RCC = 3p/VHL。",
+      "key_point": "Papillary RCC = trisomy 7/17、loss of Y；Clear cell RCC = 3p/VHL。",
+      "flashcard_front": "papillary RCC 非典型基因異常",
+      "flashcard_back": "3p deletion。",
+      "flashcard_summary": "papillary RCC 非典型基因異常 -> 3p deletion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n乳房放射狀疤痕是良性硬化性病灶，但影像與形態可呈星芒狀、不規則，容易與浸潤性乳癌混淆。\n\n【選項詳解】\n- A. radial scar 與第一型糖尿病沒有典型關聯。\n- B. 名稱有 scar，但不一定是外傷或手術後造成的疤痕。\n- C. 血性乳頭分泌較常考乳管內乳突瘤等，不是 radial scar 最典型敘述。\n- D. radial scar 形狀不規則、影像可似癌，常需與乳癌鑑別，最適當。\n\n【核心考點】\nRadial scar 是良性但可模仿乳癌的不規則星芒狀病灶。",
+      "key_point": "Radial scar 是良性但可模仿乳癌的不規則星芒狀病灶。",
+      "flashcard_front": "乳房 radial scar",
+      "flashcard_back": "形狀不規則，會與乳癌混淆。",
+      "flashcard_summary": "乳房 radial scar -> 形狀不規則，會與乳癌混淆。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n原位乳癌代表癌細胞仍侷限於導管或小葉內，未突破基底膜；病理上保留完整肌上皮層是判斷未侵犯的重要特徵。\n\n【選項詳解】\n- A. 完整 myoepithelial layer 支持原位病灶，為最重要鑑別特徵。\n- B. 纖維化與纖維母細胞增生可見於多種病灶，不是診斷原位乳癌的核心。\n- C. 淋巴球漿細胞浸潤有無不是區分原位與侵犯的最重要標準。\n- D. ER 陽性可協助分類與治療，但不能作為原位乳癌診斷最重要特徵。\n\n【核心考點】\n原位癌的關鍵是未突破基底膜，乳房病理看肌上皮層仍完整。",
+      "key_point": "原位癌的關鍵是未突破基底膜，乳房病理看肌上皮層仍完整。",
+      "flashcard_front": "原位乳癌最重要病理特徵",
+      "flashcard_back": "完整肌上皮層。",
+      "flashcard_summary": "原位乳癌最重要病理特徵 -> 完整肌上皮層。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n第一型子宮內膜癌通常較年輕、雌激素相關、endometrioid，前驅為子宮內膜增生；第二型較年長、較侵襲，serous carcinoma 可有 serous endometrial intraepithelial carcinoma 等前驅病灶，不能說罕見相關前驅病灶。\n\n【選項詳解】\n- A. 第一型通常發生年齡較早，與雌激素相關，敘述正確。\n- B. 第一型多為 endometrioid adenocarcinoma，前驅為 endometrial hyperplasia，敘述正確。\n- C. serous carcinoma 屬第二型，且可有漿液性子宮內膜上皮內癌等前驅病灶；說罕見相關前驅病灶不適當。\n- D. 第二型通常較高惡性度、臨床更 aggressive，敘述正確。\n\n【核心考點】\nType I endometrial cancer = endometrioid/hyperplasia；Type II serous carcinoma 更 aggressive，且可有 serous intraepithelial precursor。",
+      "key_point": "Type I endometrial cancer = endometrioid/hyperplasia；Type II serous carcinoma 更 aggressive，且可有 serous intraepithelial precursor。",
+      "flashcard_front": "子宮內膜癌 Type I vs II",
+      "flashcard_back": "第二型 serous carcinoma 不是沒有重要前驅病灶。",
+      "flashcard_summary": "子宮內膜癌 Type I vs II -> 第二型 serous carcinoma 不是沒有重要前驅病灶。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n血管炎造成周邊神經缺血，常呈不對稱、多灶性的單神經炎多發（mononeuritis multiplex）。\n\n【選項詳解】\n- A. polyneuropathy 可見於糖尿病等瀰漫性病變，但不是血管炎最典型表現。\n- B. 單一 mononeuropathy 太局限，血管炎常多灶分布。\n- C. polyradiculoneuropathy 較偏神經根與周邊神經廣泛發炎，非血管炎最常見型態。\n- D. mononeuritis multiplex 由多個神經血管供應區缺血造成，是血管炎最典型周邊神經病變。\n\n【核心考點】\nVasculitic neuropathy 最典型是 mononeuritis multiplex。",
+      "key_point": "Vasculitic neuropathy 最典型是 mononeuritis multiplex。",
+      "flashcard_front": "血管炎周邊神經病變",
+      "flashcard_back": "mononeuritis multiplex。",
+      "flashcard_summary": "血管炎周邊神經病變 -> mononeuritis multiplex。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n題幹提示高度傳染性腦組織病變，搭配病理圖常指 prion disease 的海綿狀腦病變；臨床典型是快速進行性失智、肌陣攣與神經功能退化。\n\n【選項詳解】\n- A. prion disease 不以惡性腦瘤為典型結局。\n- B. 自發性蜘蛛膜下腔大出血多與腦動脈瘤破裂相關，不是海綿狀腦病變的典型表現。\n- C. Creutzfeldt-Jakob disease 等 prion disease 典型造成快速進行性失智，最符合。\n- D. 腦膜炎以感染發炎與腦膜刺激症狀為主，不是高度傳染性海綿狀腦病變的典型臨床。\n\n【核心考點】\nprion disease/海綿狀腦病變的臨床關鍵是快速進行性失智。",
+      "key_point": "prion disease/海綿狀腦病變的臨床關鍵是快速進行性失智。",
+      "flashcard_front": "高度傳染性腦組織病變",
+      "flashcard_back": "prion disease 常見快速進行性失智。",
+      "flashcard_summary": "高度傳染性腦組織病變 -> prion disease 常見快速進行性失智。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\nWillis 氏環若有囊狀動脈瘤，破裂最典型造成自發性蜘蛛膜下腔出血，常表現突發劇烈頭痛。\n\n【選項詳解】\n- A. 痴呆通常不是 Willis 氏環動脈瘤破裂的典型直接表現。\n- B. 步態不穩與共濟失調較常定位小腦或後索/前庭系統，不是本題最可能結果。\n- C. 舞蹈症常與基底核病變相關，不是 Willis 氏環動脈瘤典型表現。\n- D. Willis 氏環 berry aneurysm 破裂會導致自發性蜘蛛膜下腔出血，最符合。\n\n【核心考點】\nCircle of Willis berry aneurysm rupture = subarachnoid hemorrhage。",
+      "key_point": "Circle of Willis berry aneurysm rupture = subarachnoid hemorrhage。",
+      "flashcard_front": "Willis 氏環動脈瘤",
+      "flashcard_back": "破裂造成自發性蜘蛛膜下腔出血。",
+      "flashcard_summary": "Willis 氏環動脈瘤 -> 破裂造成自發性蜘蛛膜下腔出血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

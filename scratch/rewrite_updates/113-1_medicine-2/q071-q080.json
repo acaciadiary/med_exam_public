@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\ncelecoxib、etodolac、meloxicam 都相對偏 COX-2；piroxicam 是傳統非選擇性 NSAID，對 COX-2 選擇性最低。\n\n【選項詳解】\n- A. celecoxib 是選擇性 COX-2 inhibitor，選擇性高。\n- B. etodolac 相對偏 COX-2，選擇性高於傳統非選擇性 NSAID。\n- C. piroxicam 是非選擇性 NSAID，對 COX-2 選擇性最低。\n- D. meloxicam 有相對 COX-2 偏向性，選擇性高於 piroxicam。\n\n【核心考點】\nCOX-2 選擇性：celecoxib 高；meloxicam/etodolac 偏 COX-2；piroxicam 低。",
+      "key_point": "COX-2 選擇性：celecoxib 高；meloxicam/etodolac 偏 COX-2；piroxicam 低。",
+      "flashcard_front": "COX-2 選擇性最低",
+      "flashcard_back": "piroxicam。",
+      "flashcard_summary": "COX-2 選擇性最低 -> piroxicam。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n躁症（mania）治療常用 lithium、valproate、carbamazepine 或抗精神病藥；fluoxetine 是 SSRI，可能誘發或惡化躁症，不適合單用治療 mania。\n\n【選項詳解】\n- A. valproic acid 可用於急性躁症與雙相情感障礙維持治療。\n- B. lithium 是雙相情感障礙躁症的經典治療。\n- C. carbamazepine 可作為 mood stabilizer 治療躁症。\n- D. fluoxetine 為 SSRI 抗憂鬱藥，不是 mania 治療首選，且可能誘發躁轉。\n\n【核心考點】\nmania 治療用 mood stabilizer；SSRI 不適合治療急性 mania。",
+      "key_point": "mania 治療用 mood stabilizer；SSRI 不適合治療急性 mania。",
+      "flashcard_front": "mania 最不適合藥物",
+      "flashcard_back": "fluoxetine。",
+      "flashcard_summary": "mania 最不適合藥物 -> fluoxetine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\ntramadol 主要是弱 μ-opioid receptor agonist，並抑制 serotonin/norepinephrine reuptake；不是 κ receptor agonist。\n\n【選項詳解】\n- A. μ opioid receptor 是 Gi/o coupled receptor，會抑制 adenylate cyclase，敘述正確。\n- B. opioid receptor 可位於突觸前抑制 neurotransmitter release，也可位於突觸後造成 hyperpolarization。\n- C. endorphins 與 dynorphins 都是內生性 opioid peptides，敘述正確。\n- D. tramadol 不是 κ agonist；其主要為弱 μ agonist 加上單胺再回收抑制，因此此項錯誤。\n\n【核心考點】\ntramadol = weak μ agonist + SNRI-like effect，不是 κ agonist。",
+      "key_point": "tramadol = weak μ agonist + SNRI-like effect，不是 κ agonist。",
+      "flashcard_front": "tramadol 機轉",
+      "flashcard_back": "弱 μ agonist，並抑制 NE/5-HT 回收。",
+      "flashcard_summary": "tramadol 機轉 -> 弱 μ agonist，並抑制 NE/5-HT 回收。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\nParoxetine 是 SSRI，主要抑制 serotonin transporter（SERT），增加突觸間 serotonin。\n\n【選項詳解】\n- A. 抑制 serotonin 回收是 paroxetine 的主要作用機制。\n- B. 抑制 norepinephrine 回收較屬 SNRI 或 TCA 相關機轉，不是 paroxetine 主要作用。\n- C. 阻斷 D2 受體是抗精神病藥常見機轉，不是 SSRI。\n- D. 阻斷 5-HT2 不是 paroxetine 的主要抗憂鬱機轉。\n\n【核心考點】\nparoxetine 是 SSRI，抑制 serotonin reuptake。",
+      "key_point": "paroxetine 是 SSRI，抑制 serotonin reuptake。",
+      "flashcard_front": "paroxetine 機轉",
+      "flashcard_back": "抑制 serotonin 回收。",
+      "flashcard_summary": "paroxetine 機轉 -> 抑制 serotonin 回收。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nβ-blocker 過量造成心搏過緩與低血壓時，glucagon 可直接活化心肌 glucagon receptor，增加 cAMP，繞過 β receptor 改善心收縮與心率。\n\n【選項詳解】\n- A. theophylline 可作為某些支氣管擴張或腺苷相關情境用藥，但不是 β-blocker 過量首選解毒。\n- B. caffeine 不是臨床處理 β-blocker 中毒的標準解毒藥。\n- C. metaproterenol 是 β agonist，但受體被阻斷時效果有限，不是最佳解毒選擇。\n- D. glucagon 不經 β receptor 而增加 cAMP，是 β-blocker 過量的經典解毒藥。\n\n【核心考點】\nβ-blocker overdose 解毒先想 glucagon，因其可獨立增加心肌 cAMP。",
+      "key_point": "β-blocker overdose 解毒先想 glucagon，因其可獨立增加心肌 cAMP。",
+      "flashcard_front": "β-blocker 過量解毒",
+      "flashcard_back": "glucagon。",
+      "flashcard_summary": "β-blocker 過量解毒 -> glucagon。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n心肌梗塞再灌流傷害的核心機轉之一是氧自由基大量生成，伴隨鈣離子失衡與發炎，反而加重細胞損傷。\n\n【選項詳解】\n- A. 中間絲減少不是再灌流傷害最典型的加重機轉。\n- B. 血流恢復帶來氧氣，產生 reactive oxygen species/free radicals，是再灌流傷害關鍵。\n- C. 粒線體腫脹可見於不可逆細胞傷害，但題目問再灌流後最可能加重的變化，最佳是自由基形成。\n- D. 蛋白質合成減少可見於一般細胞傷害，但不是再灌流傷害核心機轉。\n\n【核心考點】\nIschemia-reperfusion injury 重點：free radicals、calcium overload、inflammation。",
+      "key_point": "Ischemia-reperfusion injury 重點：free radicals、calcium overload、inflammation。",
+      "flashcard_front": "再灌流傷害",
+      "flashcard_back": "自由基增加是重要機轉。",
+      "flashcard_summary": "再灌流傷害 -> 自由基增加是重要機轉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nApoptosis 典型為細胞縮小、染色質濃縮、DNA fragmentation 與 apoptotic bodies，通常不引起明顯發炎。\n\n【選項詳解】\n- A. 細胞腫脹較典型屬 necrosis，不是 apoptosis。\n- B. 細胞內鈣離子明顯增加可見於細胞傷害與壞死相關機轉，但不是 apoptosis 最典型形態。\n- C. 嗜中性球浸潤代表發炎反應，necrosis 較常見；apoptosis 通常不引起明顯發炎。\n- D. 染色質濃縮是 apoptosis 最典型的形態學變化。\n\n【核心考點】\nApoptosis = cell shrinkage、chromatin condensation、apoptotic bodies、少發炎。",
+      "key_point": "Apoptosis = cell shrinkage、chromatin condensation、apoptotic bodies、少發炎。",
+      "flashcard_front": "apoptosis 典型現象",
+      "flashcard_back": "染色質濃縮。",
+      "flashcard_summary": "apoptosis 典型現象 -> 染色質濃縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nMarfan syndrome 多由 FBN1 突變造成 fibrillin-1 異常，使 TGF-β 訊號過度活化；主要影響骨骼、眼睛與心血管系統。\n\n【選項詳解】\n- A. Marfan 主要涉及心血管、骨骼與眼部，不是神經系統作為三大主要器官。\n- B. COL1A1/COL1A2 是第一型膠原相關，較與 osteogenesis imperfecta 等相關；Marfan 是 FBN1。\n- C. fibrillin 異常造成 TGF-β 過度活化，是 Marfan 致病機制之一，最適當。\n- D. 診斷多依臨床、家族史與 FBN1 基因檢測；FISH 不是最適合的標準工具。\n\n【核心考點】\nMarfan = FBN1/fibrillin-1 defect + increased TGF-β signaling。",
+      "key_point": "Marfan = FBN1/fibrillin-1 defect + increased TGF-β signaling。",
+      "flashcard_front": "Marfan syndrome 機轉",
+      "flashcard_back": "FBN1 異常導致 TGF-β 過度活化。",
+      "flashcard_summary": "Marfan syndrome 機轉 -> FBN1 異常導致 TGF-β 過度活化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nTh2 反應與 IL-4、IL-5、IL-13、IgE、嗜酸性球、蠕蟲感染與外因性過敏相關；肉芽腫性發炎典型偏 Th1/macrophage。\n\n【選項詳解】\n- A. 把肉芽腫性發炎也納入 Th2 不適當，因其典型為 Th1 介導。\n- B. 蠕蟲感染與外因性過敏性鼻炎都屬 Th2 相關反應，組合正確。\n- C. 包含過敏性鼻炎正確，但肉芽腫性發炎不是 Th2 典型。\n- D. 包含蠕蟲感染正確，但肉芽腫性發炎不是 Th2 典型。\n\n【核心考點】\nTh2 = helminth、IgE、eosinophil、allergy；Th1 = granuloma。",
+      "key_point": "Th2 = helminth、IgE、eosinophil、allergy；Th1 = granuloma。",
+      "flashcard_front": "Th2 相關疾病",
+      "flashcard_back": "蠕蟲感染與外因性過敏性鼻炎。",
+      "flashcard_summary": "Th2 相關疾病 -> 蠕蟲感染與外因性過敏性鼻炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n腎移植超急性排斥由既存抗供者抗體造成，補體活化與內皮傷害導致血栓、嗜中性球浸潤與缺血性壞死。\n\n【選項詳解】\n- A. 微血管血小板與纖維素血栓、嗜中性球浸潤、缺血性傷害，最像超急性排斥。\n- B. 淋巴細胞性間質血管炎較偏急性細胞性排斥的表現。\n- C. tubulitis 也是急性 T 細胞媒介排斥的重要表現，不是超急性。\n- D. 腎絲球炎與腎小管周圍微血管炎可見於抗體媒介排斥，但題目問最類似超急性病變，血栓性缺血更典型。\n\n【核心考點】\nHyperacute rejection = preformed antibody + complement + thrombosis + ischemic necrosis。",
+      "key_point": "Hyperacute rejection = preformed antibody + complement + thrombosis + ischemic necrosis。",
+      "flashcard_front": "超急性排斥病理",
+      "flashcard_back": "微血管血栓與缺血性傷害。",
+      "flashcard_summary": "超急性排斥病理 -> 微血管血栓與缺血性傷害。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

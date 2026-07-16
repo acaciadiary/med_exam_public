@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-2.json",
+  "dataset_id": "113-1_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n牧場工人接觸動物或畜產品後，皮膚丘疹快速進展成無痛潰瘍與黑色壞死焦痂（necrotic eschar），並有水腫與淋巴結病變，是皮膚炭疽的典型線索。\n\n【選項詳解】\n- A. 枯草桿菌多為環境菌，偶見機會性感染，不會典型造成黑色焦痂與畜牧相關皮膚炭疽。\n- B. 破傷風梭菌重點是破傷風毒素造成痙攣性麻痺，臨床不是壞死焦痂皮膚病灶。\n- C. 肉毒桿菌造成肉毒毒素中毒，以顱神經症狀與下行性鬆弛性麻痺為主，不是本題皮膚潰瘍。\n- D. 炭疽桿菌可形成孢子，常與動物皮毛或畜牧暴露有關；皮膚型炭疽會由丘疹、水疱進展成黑色壞死焦痂，符合題幹。\n\n【核心考點】\n牧場或動物製品暴露加上無痛黑色焦痂，要優先想到皮膚炭疽（Bacillus anthracis）。",
+      "key_point": "牧場或動物製品暴露加上無痛黑色焦痂，要優先想到皮膚炭疽（Bacillus anthracis）。",
+      "flashcard_front": "牧場工人 + necrotic eschar",
+      "flashcard_back": "皮膚炭疽最典型病原是 Bacillus anthracis。",
+      "flashcard_summary": "牧場工人 + necrotic eschar -> 皮膚炭疽最典型病原是 Bacillus anthracis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目問傷寒沙門氏菌無症狀帶原最常藏在哪裡。Salmonella Typhi 可在膽囊長期存活，特別是膽結石或膽道生物膜環境，因此形成慢性帶原。\n\n【選項詳解】\n- A. 肝臟可在急性感染時受影響，但不是慢性無症狀帶原最典型的藏匿部位。\n- B. 膽囊是 Typhoid Mary 這類慢性帶原者最典型的位置，細菌可在膽汁與膽結石表面生物膜中持續存在。\n- C. 胰臟不是 Salmonella Typhi 慢性帶原的經典器官。\n- D. 大腸可排出病菌造成傳播，但長期帶原的關鍵 reservoir 通常是膽囊而非大腸本身。\n\n【核心考點】\n傷寒帶原的高頻考點是 Salmonella Typhi 長期潛伏於膽囊，並經糞口途徑持續散播。",
+      "key_point": "傷寒帶原的高頻考點是 Salmonella Typhi 長期潛伏於膽囊，並經糞口途徑持續散播。",
+      "flashcard_front": "Typhoid Mary / Salmonella Typhi chronic carrier",
+      "flashcard_back": "最常藏匿於膽囊，尤其與膽結石、生物膜有關。",
+      "flashcard_summary": "Typhoid Mary / Salmonella Typhi chronic carrier -> 最常藏匿於膽囊，尤其與膽結石、生物膜有關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n漢堡或生菜後出血性腹瀉，再併發溶血性尿毒症候群（HUS），典型指向產志賀毒素大腸桿菌，常見血清型為 O157:H7。\n\n【選項詳解】\n- A. EIEC 以侵襲腸黏膜造成痢疾樣腹瀉為主，但不是 HUS 的典型病因。\n- B. EAEC 常造成持續性或旅行者腹瀉，與兒童慢性腹瀉較相關，不是出血性腸炎合併 HUS 的首選。\n- C. EPEC 常造成嬰幼兒水瀉，機轉是 attaching and effacing lesion，通常不產生志賀毒素造成 HUS。\n- D. STEC/EHEC 產生 Shiga toxin，會傷害腸道與腎臟內皮，引起出血性腹瀉與 HUS，正好串起本題的食物暴露、血便與腎臟併發症。\n\n【核心考點】\n生牛肉或生菜暴露後出血性腹瀉加 HUS，病原先想 STEC/EHEC。",
+      "key_point": "生牛肉或生菜暴露後出血性腹瀉加 HUS，病原先想 STEC/EHEC。",
+      "flashcard_front": "出血性腹瀉 + HUS",
+      "flashcard_back": "Shiga toxin-producing E. coli（STEC/EHEC），典型 O157:H7。",
+      "flashcard_summary": "出血性腹瀉 + HUS -> Shiga toxin-producing E. coli（STEC/EHEC），典型 O157:H7。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\nβ-內醯胺酶抑制劑本身抗菌力有限，主要價值是保護 β-內醯胺抗生素不被分解，與 penicillin 類合併時恢復或增強療效。\n\n【選項詳解】\n- A. clavulanate、sulbactam、tazobactam 等本身通常沒有高度殺菌活性，不能單獨當主要抗生素。\n- B. 它們不是以窄效型細胞壁抑制抗生素的角色使用，而是酵素抑制輔助藥。\n- C. 與青黴素類或其他 β-內醯胺合併，可抑制細菌 β-內醯胺酶，保護主藥並產生協同效果。\n- D. MRSA 的關鍵是 PBP2a 改變，不是單純 β-內醯胺酶；β-內醯胺酶抑制劑不能解決典型 MRSA 抗藥性。\n\n【核心考點】\nβ-內醯胺酶抑制劑的考點是「保護 β-內醯胺主藥」，不是自己強力殺菌，也不是治療 MRSA 的答案。",
+      "key_point": "β-內醯胺酶抑制劑的考點是「保護 β-內醯胺主藥」，不是自己強力殺菌，也不是治療 MRSA 的答案。",
+      "flashcard_front": "β-lactamase inhibitor 作用",
+      "flashcard_back": "與 β-lactam 合併，抑制 β-lactamase，保護主藥。",
+      "flashcard_summary": "β-lactamase inhibitor 作用 -> 與 β-lactam 合併，抑制 β-lactamase，保護主藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n脂多醣體（LPS）是革蘭氏陰性菌外膜成分，毒性主要來自 lipid A，可活化先天免疫引發發炎反應、發燒與休克。\n\n【選項詳解】\n- A. 脂胞壁酸是革蘭氏陽性菌細胞壁成分，不是革蘭氏陰性菌特有結構。\n- B. LPS 又稱內毒素沒錯，但毒性主要來自 lipid A，不是核心多醣體。\n- C. LPS 可透過 TLR4 等路徑刺激巨噬細胞與發炎細胞激素，是最適當的敘述。\n- D. LPS 相對耐熱，煮沸不一定能有效去除其內毒素活性。\n\n【核心考點】\nLPS 屬革蘭氏陰性菌外膜內毒素，lipid A 是毒性核心，會強烈誘發發炎反應。",
+      "key_point": "LPS 屬革蘭氏陰性菌外膜內毒素，lipid A 是毒性核心，會強烈誘發發炎反應。",
+      "flashcard_front": "LPS / endotoxin",
+      "flashcard_back": "Gram-negative outer membrane；lipid A 造成毒性並誘發發炎。",
+      "flashcard_summary": "LPS / endotoxin -> Gram-negative outer membrane；lipid A 造成毒性並誘發發炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目考基本細菌構造。細菌沒有粒線體，革蘭氏陽性與陰性菌都有 peptidoglycan；部分細菌可有鞭毛以利運動。\n\n【選項詳解】\n- A. 壁膜間隙在革蘭氏陰性菌較明顯，不能說僅革蘭氏陽性菌具有。\n- B. peptidoglycan 是細菌細胞壁共同重要成分，革蘭氏陽性菌尤其厚，不是陰性菌才有。\n- C. 細菌是原核生物，沒有粒線體；ATP 主要由細胞膜相關電子傳遞等機制產生。\n- D. 部分細菌具有鞭毛，負責運動性，是正確的細菌構造描述。\n\n【核心考點】\n細菌為原核生物，沒有粒線體；peptidoglycan 非陰性菌專屬，鞭毛只存在於部分菌種。",
+      "key_point": "細菌為原核生物，沒有粒線體；peptidoglycan 非陰性菌專屬，鞭毛只存在於部分菌種。",
+      "flashcard_front": "細菌構造基本辨識",
+      "flashcard_back": "部分細菌有鞭毛；細菌沒有粒線體。",
+      "flashcard_summary": "細菌構造基本辨識 -> 部分細菌有鞭毛；細菌沒有粒線體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nHaemophilus influenzae 需要 X factor（hemin）與 V factor（NAD）才能生長；巧克力瓊脂經加熱溶血，可釋放這些因子。\n\n【選項詳解】\n- A. 甘露醇鹽瓊脂主要用於篩選耐鹽的 Staphylococcus，特別是 S. aureus，不適合 H. influenzae。\n- B. 巧克力瓊脂可提供 X 與 V factors，是培養 H. influenzae 的經典培養基。\n- C. MacConkey agar 用於革蘭氏陰性腸道菌分離與乳糖發酵判讀，不是嗜血桿菌的標準選擇。\n- D. 一般血液培養基未充分釋放 V factor，H. influenzae 生長不如巧克力瓊脂理想。\n\n【核心考點】\nH. influenzae 需要 X 與 V factor，培養基選巧克力瓊脂。",
+      "key_point": "H. influenzae 需要 X 與 V factor，培養基選巧克力瓊脂。",
+      "flashcard_front": "Haemophilus influenzae 培養基",
+      "flashcard_back": "巧克力瓊脂，提供 hemin（X）與 NAD（V）。",
+      "flashcard_summary": "Haemophilus influenzae 培養基 -> 巧克力瓊脂，提供 hemin（X）與 NAD（V）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\nClostridium perfringens 依毒素分型。C 型產生 beta toxin，與壞疽性腸炎、腸壞死（pig-bel）關係最典型。\n\n【選項詳解】\n- A. A 型最常見，常與氣壞疽和食物中毒相關，但不是壞疽性腸炎最典型分型。\n- B. B 型可造成動物腸毒血症，並非本題人類壞疽性腸炎高頻答案。\n- C. C 型的 beta toxin 可造成腸黏膜壞死，是 necrotizing enteritis 的典型分型。\n- D. D 型以 epsilon toxin 與動物疾病較相關，不是本題所問的壞疽性腸炎。\n\n【核心考點】\n產氣莢膜桿菌 C 型與 beta toxin、壞疽性腸炎最相關。",
+      "key_point": "產氣莢膜桿菌 C 型與 beta toxin、壞疽性腸炎最相關。",
+      "flashcard_front": "C. perfringens necrotizing enteritis",
+      "flashcard_back": "Type C，beta toxin。",
+      "flashcard_summary": "C. perfringens necrotizing enteritis -> Type C，beta toxin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問主要不是作用於細菌細胞壁的抗生素。linezolid 是 oxazolidinone，抑制 50S ribosome 起始複合體形成，屬蛋白質合成抑制劑。\n\n【選項詳解】\n- A. isoniazid 抑制分枝桿菌 mycolic acid 合成，屬細胞壁相關作用。\n- B. ethambutol 抑制 arabinosyl transferase，影響分枝桿菌細胞壁 arabinogalactan。\n- C. linezolid 作用於 50S ribosomal subunit，抑制蛋白質合成，不是細胞壁作用藥。\n- D. vancomycin 結合 D-Ala-D-Ala，抑制 peptidoglycan 合成，明確作用於細胞壁。\n\n【核心考點】\nlinezolid 是 50S 蛋白質合成抑制劑；INH、ethambutol、vancomycin 都與細胞壁合成相關。",
+      "key_point": "linezolid 是 50S 蛋白質合成抑制劑；INH、ethambutol、vancomycin 都與細胞壁合成相關。",
+      "flashcard_front": "非細胞壁作用抗生素",
+      "flashcard_back": "linezolid 抑制 50S ribosome，不是細胞壁合成。",
+      "flashcard_summary": "非細胞壁作用抗生素 -> linezolid 抑制 50S ribosome，不是細胞壁合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題是問 prion 敘述何者最不適當。prion 是錯誤摺疊蛋白造成傳染性海綿狀腦病變，對一般消毒與滅菌方式抗性高，但不代表只能在腦部測到。\n\n【選項詳解】\n- A. prion 疾病主要病變在中樞神經，但異常 prion 可在淋巴網狀組織等部位出現；說只能在腦部測到過於絕對。\n- B. prion 對許多一般抗病毒化學與物理處理有抗性，這是經典特性。\n- C. 腦內海綿狀變化是 prion disease 的代表性病理。\n- D. prion 不含核酸，主要以錯誤摺疊蛋白形式傳播感染性，敘述正確。\n\n【核心考點】\nprion 是具感染性的錯誤摺疊蛋白，可造成海綿狀腦病變，且對一般去活化方法抗性高；「只能在腦部測到」太絕對。",
+      "key_point": "prion 是具感染性的錯誤摺疊蛋白，可造成海綿狀腦病變，且對一般去活化方法抗性高；「只能在腦部測到」太絕對。",
+      "flashcard_front": "prion 最不適當敘述",
+      "flashcard_back": "不能說只能在腦部測到；本質是感染性錯誤摺疊蛋白。",
+      "flashcard_summary": "prion 最不適當敘述 -> 不能說只能在腦部測到；本質是感染性錯誤摺疊蛋白。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T18:33:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
