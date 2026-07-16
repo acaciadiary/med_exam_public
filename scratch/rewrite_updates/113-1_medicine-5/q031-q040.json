@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-5.json",
+  "dataset_id": "113-1_medicine-5",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-5_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n題目問哪一種減重手術同時具有限制進食量（restriction）與造成部分吸收不良（malabsorption）的效果。Roux-en-Y 胃繞道會做出小胃囊並繞過部分近端小腸，因此同時符合兩種機轉。\n\n【選項詳解】\n- A. 腹腔鏡調節式胃束帶（AGB）主要靠束帶縮小胃入口、限制食量，屬於 restrictive procedure，沒有腸道繞道造成的吸收不良。\n- B. Roux-en-Y 胃腸繞道（RYGB）以小胃囊限制攝食，並讓食物繞過部分胃、十二指腸與近端空腸，兼具 restriction 與 malabsorption，最符合題意。\n- C. 垂直束帶胃成形術主要也是限制胃容量，沒有典型的小腸繞道吸收不良效果。\n- D. 胃內水球是內視鏡暫時性占位裝置，機轉是增加飽足感與限制攝食，並非吸收不良型手術。\n\n【核心考點】\n減重手術分類要抓機轉：胃束帶、胃水球、垂直束帶胃成形偏 restrictive；Roux-en-Y gastric bypass 同時有小胃囊與腸道繞道，所以是 restriction plus malabsorption。",
+      "key_point": "Roux-en-Y gastric bypass 同時具有限制攝食與部分吸收不良效果。",
+      "flashcard_front": "減重手術：哪一種兼具 restriction 與 malabsorption？",
+      "flashcard_back": "Roux-en-Y 胃繞道；小胃囊限制攝食，腸道繞道造成部分吸收不良。",
+      "flashcard_summary": "Bariatric surgery -> RYGB = restriction + malabsorption",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n題目問肝硬化臨床表徵何者錯誤。肝硬化可有雌激素代謝下降、門脈高壓、hyperdynamic circulation；肌肉痙攣常與有效循環量不足、低血壓傾向與利尿劑等因素相關，不是高平均動脈壓。\n\n【選項詳解】\n- A. 正確。蜘蛛痣與手掌紅斑常與肝臟對性荷爾蒙代謝下降、雌激素效應增加有關。\n- B. 大方向是門脈高壓造成臍周側枝循環與腹壁雜音；嚴格說常見描述是再通的臍靜脈而非臍動脈，題目官方答案未選此項，建議保留文字疑義。\n- C. 正確。肝硬化常有 hyperdynamic circulation，表現為心輸出量與心跳上升、周邊血管阻力下降。\n- D. 錯誤。肝硬化肌肉痙攣常見於有效動脈血容量不足、腹水、利尿劑使用與腎素-血管張力素系統活化；高平均動脈壓不是典型關聯。\n\n【核心考點】\n肝硬化不是只有肝功能差，也會造成門脈高壓與全身血流動力學改變。肌肉痙攣多與低有效循環量、電解質與利尿治療相關，看到高平均動脈壓要警覺。",
+      "key_point": "肝硬化肌肉痙攣不典型由高平均動脈壓造成；常與有效循環量不足、腹水與利尿劑相關。",
+      "flashcard_front": "肝硬化肌肉痙攣的典型關聯？",
+      "flashcard_back": "常與腹水、利尿劑、低有效循環量與 RAAS 活化有關；不是高平均動脈壓。",
+      "flashcard_summary": "Cirrhosis signs -> muscle cramps relate to low effective volume, not high MAP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "Q32 選項 B 使用「臍動脈」描述 Cruveilhier-Baumgarten murmur，常規應為臍靜脈/臍旁靜脈，建議人工確認題目文字。"
+      ]
+    },
+    {
+      "question_id": "113-1_medicine-5_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題考 Crohn disease 的流行病學與腸外表現。Crohn disease 是慢性復發性發炎性腸病，不會靠手術根治；可侵犯從口腔到肛門的任何部位，抽菸是重要危險因子。\n\n【選項詳解】\n- A. 錯誤。Crohn disease 可因狹窄、瘻管或膿瘍接受手術，但手術不能治癒疾病，術後仍可能復發。\n- B. 錯誤。Crohn disease 可侵犯整個消化道，最常見在末端迴腸與右側大腸，不是主要只侵犯大腸；主要侵犯大腸較符合 ulcerative colitis。\n- C. 正確。Crohn disease 在已開發國家、較高社經族群較常見，抽菸會增加發病與復發風險。\n- D. 不精確。Crohn disease 可有腸外表現，但 pyoderma gangrenosum、ankylosing spondylitis 常不一定與腸道發炎嚴重度平行；周邊關節炎等才較常與腸道活動度相關。\n\n【核心考點】\nCrohn disease 的考點是跳躍性、全層發炎、可侵犯全消化道，抽菸是危險因子且手術不能根治。腸外表現要分辨是否與腸道活動度平行。",
+      "key_point": "Crohn disease 不能以手術根治，抽菸是危險因子，常侵犯末端迴腸與右側大腸。",
+      "flashcard_front": "Crohn disease：抽菸與手術治癒性？",
+      "flashcard_back": "抽菸是危險因子；手術處理併發症但不能根治，仍可能復發。",
+      "flashcard_summary": "Crohn disease -> smoking risk, transmural skip lesions, surgery not curative",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n胃神經內分泌腫瘤來自胃黏膜的 enterochromaffin-like cell 等神經內分泌細胞，與 GIST 的 interstitial cell of Cajal 不同。題目問錯誤敘述，因此來源細胞混淆是關鍵。\n\n【選項詳解】\n- A. 錯誤。interstitial cell of Cajal 是胃腸道基質瘤（GIST）的來源，不是胃神經內分泌腫瘤的來源。\n- B. 正確。Type II gastric NET 與 gastrinoma、Zollinger-Ellison syndrome 及 MEN1 相關。\n- C. 正確。局部可切除的胃神經內分泌腫瘤治療重點是完整切除，依型別、大小、侵犯深度決定內視鏡或手術方式。\n- D. 正確。Type III 通常為散發型、與高胃泌素血症無關，惡性度與轉移風險較高，預後最差。\n\n【核心考點】\nGastric NET 與 GIST 的來源要分清楚：NET 是神經內分泌細胞，GIST 才是 Cajal cell。胃 NET 的 type III 最具侵襲性。",
+      "key_point": "Interstitial cell of Cajal 是 GIST 來源，不是胃神經內分泌腫瘤來源。",
+      "flashcard_front": "胃神經內分泌腫瘤與 GIST 的來源細胞差異？",
+      "flashcard_back": "胃 NET 來自神經內分泌細胞；GIST 才來自 interstitial cell of Cajal。",
+      "flashcard_summary": "Gastric NET -> ECL/neuroendocrine cells, not Cajal cells",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n35 歲女性長期使用口服避孕藥、肝臟 6 公分腫瘤且腹腔內有少量液體，官方答案指向肝細胞腺瘤破裂或出血。題幹的影像描述 peripheral enhancement with centripetal progression 較像血管瘤，因此本題需保留人工確認註記。\n\n【選項詳解】\n- A. 官方答案。Hepatocellular adenoma 好發年輕女性，與口服避孕藥及同化類固醇相關；較大的腺瘤有出血、破裂與少數惡性轉化風險，可造成急性腹痛與腹腔液體。\n- B. 錯誤。Focal nodular hyperplasia 多為中心疤痕、放射狀血管供應，通常不與口服避孕藥造成的出血破裂強烈連結。\n- C. 錯誤。Hamartoma 不是此類年輕女性 OCP 相關、急性疼痛肝腫瘤的典型診斷。\n- D. 需注意。Hemangioma 的典型影像確實是 peripheral nodular enhancement with centripetal fill-in，但題目同時給 OCP、6 公分與腹腔液體，官方答案採肝細胞腺瘤邏輯。\n\n【核心考點】\n年輕女性長期 OCP + 肝腫瘤 + 急性腹痛/出血風險，要想到 hepatocellular adenoma；但 peripheral enhancement with centripetal progression 是 hemangioma 的典型影像語，需人工核對官方題目。",
+      "key_point": "OCP 相關、可出血破裂的良性肝腫瘤是 hepatocellular adenoma。",
+      "flashcard_front": "年輕女性長期 OCP，肝腫瘤急性腹痛與出血風險？",
+      "flashcard_back": "優先考 hepatocellular adenoma；但若影像是典型向心性填充，需鑑別 hemangioma。",
+      "flashcard_summary": "Liver tumor + OCP + hemorrhage risk -> hepatocellular adenoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "Q35 影像描述 peripheral enhancement with centripetal progression 典型較像 hemangioma，但官方答案為 liver cell adenoma，建議人工確認。"
+      ]
+    },
+    {
+      "question_id": "113-1_medicine-5_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\nCharcot triad 是急性膽管炎的經典三徵：發燒、黃疸、右上腹痛。若再加上低血壓與意識改變，稱 Reynolds pentad，代表病情更嚴重。\n\n【選項詳解】\n- A. 發燒是 Charcot triad 的一項，反映膽道感染與菌血症風險。\n- B. 黃疸是 Charcot triad 的一項，來自膽道阻塞造成膽紅素上升。\n- C. 右上腹腫塊不是 Charcot triad；膽管炎典型是疼痛而非摸到腫塊。\n- D. 右上腹痛是 Charcot triad 的一項，常與膽道阻塞及發炎有關。\n\n【核心考點】\nCharcot triad = fever + jaundice + right upper quadrant pain；不要把右上腹腫塊混入三徵。",
+      "key_point": "Charcot triad 包含發燒、黃疸、右上腹痛，不包含右上腹腫塊。",
+      "flashcard_front": "急性膽管炎 Charcot triad？",
+      "flashcard_back": "發燒、黃疸、右上腹痛。",
+      "flashcard_summary": "Acute cholangitis -> Charcot triad = fever, jaundice, RUQ pain",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nBD-IPMN 的 high-risk stigmata 包括阻塞性黃疸、增強 mural nodule >=5 mm、主胰管明顯擴張（約 >=10 mm）。發燒不是判斷 BD-IPMN 惡性風險的 high-risk feature。\n\n【選項詳解】\n- A. Jaundice 若由胰頭囊性病灶造成，屬 high-risk stigmata，提示可能已有阻塞與惡性風險。\n- B. Fever 不是 IPMN 惡性風險分層的 high-risk feature；除非另有感染或膽管炎情境，不能用來判定 IPMN 高風險。\n- C. 主胰管大於 1 cm 是 high-risk stigmata，提示 main duct involvement 或高惡性風險。\n- D. Enhancing mural nodule 大於 5 mm 是 high-risk stigmata，與惡性或高度異生風險相關。\n\n【核心考點】\nIPMN high-risk features 看阻塞性黃疸、主胰管顯著擴張與增強壁結節；發燒不是標準惡性風險特徵。",
+      "key_point": "BD-IPMN high-risk feature 不包括 fever。",
+      "flashcard_front": "BD-IPMN high-risk feature 不包括？",
+      "flashcard_back": "Fever；高風險重點是阻塞性黃疸、主胰管 >=10 mm、增強壁結節 >=5 mm。",
+      "flashcard_summary": "BD-IPMN -> high-risk: jaundice, MPD >=10 mm, enhancing mural nodule >=5 mm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n病人血鈣 15.5 mg/dL、PTH 明顯升高且有意識改變，符合嚴重高血鈣危象。第一步是恢復血容量、增加腎臟鈣排泄，因此先大量 isotonic saline 補液。\n\n【選項詳解】\n- A. Furosemide 不是一開始就連續使用；若未先補足血容量，會加重脫水與腎功能惡化。利尿劑只在補液後、容量過多時謹慎考慮。\n- B. 正確。Normal saline rehydration 是嚴重高血鈣急性處置第一步，可矯正脫水並促進 calciuresis。\n- C. 副甲狀腺切除可作為根本治療，但急診初始處置仍需先穩定病人與降鈣，不是第一個動作。\n- D. Cinacalcet 可用於部分副甲狀腺功能亢進控制，但口服起效較慢，不適合取代高血鈣危象初期補液。\n\n【核心考點】\n嚴重高血鈣急救先補 isotonic saline；等容量恢復後才考慮其他降鈣策略。不要一開始就給 loop diuretic。",
+      "key_point": "高血鈣危象初始處置是 normal saline rehydration。",
+      "flashcard_front": "嚴重高血鈣危象第一步處置？",
+      "flashcard_back": "先以 normal saline 補液，恢復血容量並促進尿鈣排泄。",
+      "flashcard_summary": "Severe hypercalcemia -> first step normal saline hydration",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n術後 TSH 稍高、free T4 正常是亞臨床甲狀腺低下。是否補充 thyroxine 取決於懷孕、症狀、TSH 高度、甲狀腺腫或結節等；TSH receptor antibody 是 Graves disease 相關抗體，不是補充甲狀腺素的典型理由。\n\n【選項詳解】\n- A. 懷孕時甲狀腺素需求增加，亞臨床低下也可能影響母胎，通常較積極補充。\n- B. 剩餘甲狀腺有結節或腫大時，可考慮補充或追蹤，以避免 TSH 刺激與處理低下狀態。\n- C. 冠心病患者若補充需低劑量慢慢調整；但亞臨床低下與心血管風險相關，臨床上會納入治療考量。\n- D. TSH receptor antibody 主要支持 Graves disease/自體免疫甲亢相關診斷，不是此病人術後亞臨床低下需補充 thyroxine 的理由。\n\n【核心考點】\n亞臨床甲狀腺低下補不補，要看 TSH 高度、懷孕、症狀、抗 TPO、甲狀腺腫與心血管因素；TRAb 是 Graves 相關，不是低下補充的典型指標。",
+      "key_point": "TSH receptor antibody 不是術後亞臨床甲狀腺低下補充 thyroxine 的典型適應症。",
+      "flashcard_front": "亞臨床甲狀腺低下補 thyroxine：哪個不是典型理由？",
+      "flashcard_back": "TSH receptor antibody；它主要與 Graves disease 相關。",
+      "flashcard_summary": "Subclinical hypothyroidism -> TRAb is not a usual indication for thyroxine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n12 歲男童嚴重高血壓、尿 VMA 上升、腎上腺腫塊，最像嗜鉻細胞瘤。術前需先 alpha blockade 控制血壓，再視情況加 beta blocker；spironolactone 不是嗜鉻細胞瘤術前標準降壓準備。\n\n【選項詳解】\n- A. 最不適當。Spironolactone 用於原發性醛固酮症等 mineralocorticoid 相關高血壓；嗜鉻細胞瘤術前應以 alpha blocker（如 phenoxybenzamine 或 doxazosin）為核心。\n- B. 可接受。腎上腺嗜鉻細胞瘤在充分術前準備後可手術切除，許多病例可採腹腔鏡，是否開腹需依大小、侵犯與惡性疑慮判斷。\n- C. 正確。術中高血壓危象可用 nitroprusside、phentolamine 等快速降壓藥控制。\n- D. 正確。若術後復發或懷疑多發/轉移病灶，MIBG scan 可用於偵測嗜鉻細胞瘤或副神經節瘤病灶。\n\n【核心考點】\n嗜鉻細胞瘤手術前先 alpha blockade，再補足血容量；不能用 spironolactone 取代 alpha blockade。",
+      "key_point": "嗜鉻細胞瘤術前降壓準備首重 alpha blockade，不是 spironolactone。",
+      "flashcard_front": "嗜鉻細胞瘤術前降壓準備？",
+      "flashcard_back": "先 alpha blockade（如 phenoxybenzamine/doxazosin）並補足血容量。",
+      "flashcard_summary": "Pheochromocytoma -> pre-op alpha blockade, not spironolactone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

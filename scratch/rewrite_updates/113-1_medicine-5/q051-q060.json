@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-5.json",
+  "dataset_id": "113-1_medicine-5",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-5_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nPelvic floor 主要包括 levator ani 與 coccygeus。Levator ani 由 puborectalis、pubococcygeus、iliococcygeus 組成；gluteus maximus 是臀大肌，不屬於骨盆底肌群。\n\n【選項詳解】\n- A. Puborectalis 是 levator ani 的一部分，維持 anorectal angle 與 continence。\n- B. Iliococcygeus 是 levator ani 的一部分，屬骨盆底肌群。\n- C. Pubococcygeus 是 levator ani 的一部分，屬骨盆底肌群。\n- D. Gluteus maximus 是臀部伸髖肌，不是 pelvic floor 的組成。\n\n【核心考點】\n骨盆底肌群記 levator ani：puborectalis、pubococcygeus、iliococcygeus；臀大肌不在其中。",
+      "key_point": "Gluteus maximus 不屬於 pelvic floor。",
+      "flashcard_front": "Pelvic floor 不包括哪個肌肉？",
+      "flashcard_back": "Gluteus maximus；骨盆底重點是 levator ani 三肌。",
+      "flashcard_summary": "Pelvic floor -> levator ani, not gluteus maximus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n降結腸位於左側腹，手術游離 splenic flexure 時容易牽扯脾臟與脾周韌帶。降結腸癌手術大出血最常見原因是脾臟撕裂傷。\n\n【選項詳解】\n- A. 正確。左側結腸與脾彎游離時可能造成 splenic capsular tear，是降結腸/左側結腸手術常見大出血來源。\n- B. 錯誤。上腸繫膜靜脈較接近右側結腸、小腸與胰頭區域，不是降結腸癌手術最常見出血原因。\n- C. 錯誤。下腔靜脈位於後腹腔中線偏右，受傷嚴重但不是降結腸手術最常見原因。\n- D. 錯誤。主動脈撕裂罕見且災難性，非一般降結腸癌手術最常見大出血來源。\n\n【核心考點】\n左側結腸手術要小心脾彎與脾臟被膜，splenic injury 是重要出血併發症。",
+      "key_point": "降結腸癌手術大出血最常見原因是脾臟撕裂傷。",
+      "flashcard_front": "降結腸癌手術大出血常見原因？",
+      "flashcard_back": "脾臟撕裂傷，尤其在脾彎游離時。",
+      "flashcard_summary": "Descending colon surgery bleeding -> splenic tear",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題是組合題。腹腔鏡闌尾切除可檢視腹腔、傷口感染較少且恢復較快；開放手術不能像腹腔鏡一樣完整檢查腹腔。延遲性闌尾炎若形成膿瘍，腹腔鏡或影像導引引流可能有角色，不能說完全沒有助益。\n\n【選項詳解】\n- A. 不對。ћ 與 ѝ 為合理敘述，但 ќ 是錯的，故此組合不完整。\n- B. 不對。ћ 合理，但 ќ 與 ў 為錯誤敘述；題目問錯誤者，還需排除 ћ。\n- C. 不對。ќ 錯，但 ѝ 是安全手術原則，並非錯誤敘述。\n- D. 正確。ќ 錯在開放式闌尾切除不能像腹腔鏡一樣檢查整個腹膜腔；ў 錯在延遲性闌尾炎/膿瘍時引流可能有幫助，不能一概不施行。\n\n【核心考點】\n腹腔鏡闌尾切除的優勢包括較好腹腔檢視與較少傷口感染。延遲性闌尾炎合併膿瘍時，治療策略可包含抗生素與引流，不能說腹腔鏡引流一定無益。",
+      "key_point": "闌尾切除比較題中，錯誤敘述為 ќ 與 ў。",
+      "flashcard_front": "腹腔鏡 vs 開放式闌尾切除：哪兩句錯？",
+      "flashcard_back": "ќ 與 ў；完整腹腔檢視是腹腔鏡優勢，延遲性膿瘍可考慮引流。",
+      "flashcard_summary": "Appendectomy comparison -> false statements: open explores whole cavity; drainage never useful",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n腹腔鏡手術多用 CO2 氣腹，但壓力通常約 12-15 mmHg，不是 25 mmHg。其他敘述關於急性膽囊炎手術較困難、NG 減壓、膽道攝影方式與污染結石取出原則皆合理。\n\n【選項詳解】\n- A. 不完整。ћ、ѝ、ў 正確，但漏掉 џ。\n- B. 錯誤。ќ 說氣腹壓力 25 mmHg 過高，不是正確敘述。\n- C. 錯誤。包含 ќ，因此整組不正確。\n- D. 正確。ћ、ѝ、ў、џ 為正確敘述；排除錯誤的 ќ。\n\n【核心考點】\n腹腔鏡 CO2 pneumoperitoneum 常用壓力約 12-15 mmHg。急性膽囊炎較困難，必要時做 cholangiogram；膽囊破裂要用取物袋並清除散落結石。",
+      "key_point": "腹腔鏡氣腹壓力通常約 12-15 mmHg，25 mmHg 過高。",
+      "flashcard_front": "腹腔鏡常用 CO2 氣腹壓力？",
+      "flashcard_back": "約 12-15 mmHg；25 mmHg 不是常規設定。",
+      "flashcard_summary": "Laparoscopy -> CO2 pneumoperitoneum usually 12-15 mmHg",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n單孔腹腔鏡容易發生器械在體內外互相碰撞，因此需要長短不一、細長且高品質影像設備來改善操作。題目問錯誤敘述，B 把 varied-length instruments 的好處說反。\n\n【選項詳解】\n- A. 正確。較長器械可達到手術區域並增加操作角度。\n- B. 錯誤。長短不一的器械可錯開手柄位置，減少體外器械碰撞，並改善單孔手術的 ergonomics。\n- C. 正確。高畫質鏡頭可改善視野，對單孔手術尤其重要。\n- D. 正確。Slimline instruments 有助於減少體內與體外碰撞。\n\n【核心考點】\nSingle-incision laparoscopic surgery 的限制是 triangulation 變差與器械碰撞；長短不一、細長器械與好鏡頭可降低困難。",
+      "key_point": "Varied-length instruments 可減少單孔腹腔鏡體外器械碰撞。",
+      "flashcard_front": "單孔腹腔鏡為何使用長短不一器械？",
+      "flashcard_back": "錯開手柄、減少體外碰撞並改善操作。",
+      "flashcard_summary": "Single-incision laparoscopy -> varied-length instruments reduce clashing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題考骨腫瘤好發年齡與部位。Chondroblastoma 典型發生於青少年、長骨骨骺。其他選項混淆 Ollier 與 Maffucci、GCT 復發率與 simple bone cyst 好發族群。\n\n【選項詳解】\n- A. 錯誤。Ollier disease 是多發性 enchondromatosis；若合併血管瘤，稱 Maffucci syndrome。\n- B. 正確。Chondroblastoma 好發於青少年長骨 epiphysis，如股骨遠端、脛骨近端、肱骨近端。\n- C. 錯誤。Giant cell tumor 可局部侵襲且刮除後有復發風險，不能說復發率極低。\n- D. 錯誤。Simple bone cyst 好發於兒童與青少年，常在肱骨近端或股骨近端，不是成年人肱骨遠端。\n\n【核心考點】\n骨腫瘤常考年齡與位置：chondroblastoma = 青少年 epiphysis；simple bone cyst = 兒少 proximal humerus/femur；Ollier 不等於 Maffucci。",
+      "key_point": "Chondroblastoma 好發於青少年長骨骨骺。",
+      "flashcard_front": "Chondroblastoma 好發年齡與位置？",
+      "flashcard_back": "青少年長骨骨骺。",
+      "flashcard_summary": "Bone tumors -> chondroblastoma in adolescent epiphysis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n人工關節置換感染預防重點是選對預防性抗生素、在切皮前適當時間給藥，並避免不必要延長。一般多在切皮前 60 分鐘內給予；vancomycin/fluoroquinolone 因輸注較久可提早。\n\n【選項詳解】\n- A. 正確。依手術類型、常見菌與病人過敏/耐藥風險選擇 prophylactic antibiotics，是降低感染的核心措施。\n- B. 不最適當。多數預防性抗生素應在切皮前 60 分鐘內完成給藥；120 分鐘是特定需長時間輸注藥物的例外，不是一般原則。\n- C. 錯誤。預防性抗生素通常不需延長到術後 72 小時，過度使用會增加抗藥性與副作用。\n- D. 錯誤。Vancomycin 或 clindamycin 不是常規人人使用，通常保留給 beta-lactam 過敏或 MRSA 風險等情境。\n\n【核心考點】\n手術預防性抗生素三件事：選對藥、切皮前適時給、不要過度延長。人工關節常見目標是皮膚菌，依院內規範與病人風險調整。",
+      "key_point": "人工關節置換預防感染應適當選擇並按時給予預防性抗生素。",
+      "flashcard_front": "人工關節置換預防感染最適當原則？",
+      "flashcard_back": "選擇合適預防性抗生素，於切皮前適當時間給予，不常規延長或人人用 vancomycin。",
+      "flashcard_summary": "Arthroplasty infection prevention -> appropriate prophylactic antibiotics",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n單純性肘關節脫臼復位後若穩定，治療重點是短期固定後早期活動，避免長期僵硬。固定至少 2 個月會增加 stiffness，並非適當處置。\n\n【選項詳解】\n- A. 正確。Simple elbow dislocation 閉鎖復位後多可穩定，慢性再發性脫臼較少。\n- B. 正確。肘關節後脫臼最常見，前脫臼較少見。\n- C. 最不適當。若復位後穩定，通常短期固定後早期復健；固定 2 個月會造成肘關節僵硬。\n- D. 正確。若復位後仍不穩、合併骨折或神經血管問題，可考慮手術治療。\n\n【核心考點】\n肘關節脫臼復位後要避免長期固定；穩定者短期 immobilization 後 early motion。",
+      "key_point": "穩定的單純肘脫臼不應固定至少 2 個月。",
+      "flashcard_front": "穩定單純肘關節脫臼復位後，固定多久？",
+      "flashcard_back": "短期固定後早期活動；長期 2 個月固定不適當。",
+      "flashcard_summary": "Simple elbow dislocation -> early motion after short immobilization",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n20 歲年輕男性四部分近端肱骨骨折，大小結節與外科頸移位超過 1 公分。年輕人應盡量保留自身肱骨頭，最適當為開放復位內固定。\n\n【選項詳解】\n- A. 正確。年輕病人移位性 proximal humerus fracture 通常以 ORIF 恢復解剖位置與肩功能。\n- B. 錯誤。半肩人工關節較常用於高齡、粉碎嚴重且肱骨頭不可重建者，不是 20 歲首選。\n- C. 錯誤。多部位移位超過 1 公分的嚴重骨折，閉鎖復位經皮鋼針較難穩定與準確重建。\n- D. 錯誤。全肩人工關節不適合年輕急性近端肱骨骨折作為首選，除非特殊不可重建情境。\n\n【核心考點】\n年輕病人移位性近端肱骨多部分骨折，以保頭與解剖復位為主；人工關節多留給高齡或不可重建病例。",
+      "key_point": "年輕人移位性近端肱骨多部分骨折首選 ORIF。",
+      "flashcard_front": "20 歲移位性近端肱骨四部分骨折，首選？",
+      "flashcard_back": "開放復位內固定，盡量保留肱骨頭。",
+      "flashcard_summary": "Young displaced proximal humerus fracture -> ORIF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nACL 主要限制脛骨前移，也參與旋轉穩定。ACL 可分前內側束與後外側束；膝伸直時後外側束較緊，膝屈曲時前內側束較緊。因此說伸直時後外側束鬆弛是錯的。\n\n【選項詳解】\n- A. 正確。ACL 的主要功能是防止 anterior tibial translation。\n- B. 正確。ACL 參與膝關節旋轉穩定與 screw-home mechanism 相關控制。\n- C. 最不適當。Posterolateral bundle 在膝伸直時較緊，屈曲時相對較鬆；題目敘述相反。\n- D. 正確。ACL 依脛骨附著位置與張力行為常分為 anteromedial bundle 與 posterolateral bundle。\n\n【核心考點】\nACL 兩束張力：AM bundle 屈曲較緊，PL bundle 伸直較緊。ACL 主要防止脛骨前移。",
+      "key_point": "ACL posterolateral bundle 在膝伸直時較緊，不是鬆弛。",
+      "flashcard_front": "ACL 後外側束何時較緊？",
+      "flashcard_back": "膝伸直時較緊；前內側束在屈曲時較緊。",
+      "flashcard_summary": "ACL bundles -> PL tight in extension, AM tight in flexion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

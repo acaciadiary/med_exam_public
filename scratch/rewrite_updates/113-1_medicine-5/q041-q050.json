@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-5.json",
+  "dataset_id": "113-1_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n保留乳房治療需能完整切除腫瘤並保留可接受外觀，且病灶不應是多中心、瀰漫或無法定位清除。多處不在同一象限的不確定顯微鈣化代表可能多中心病灶，較不適合保乳。\n\n【選項詳解】\n- A. E 罩杯且腫瘤約 2 公分，通常有機會達到足夠切緣與可接受外觀，不是保乳禁忌。\n- B. 腋下淋巴結轉移不是保乳的絕對禁忌；可搭配腋下處置、全身治療與放射治療。\n- C. 最不適合。多處且不在同一象限的可疑顯微鈣化，可能代表 multicentric disease 或廣泛 DCIS，難以用單一局部切除達到安全切緣。\n- D. 侵犯性乳癌本身不等於不能保乳；早期單一病灶可採乳房保留手術合併放射治療。\n\n【核心考點】\n保乳禁忌重點是多中心病灶、瀰漫可疑鈣化、無法取得陰性切緣或無法接受放療；淋巴結陽性或侵犯性乳癌本身不是絕對禁忌。",
+      "key_point": "多象限可疑顯微鈣化最不適合乳房保留治療。",
+      "flashcard_front": "乳癌何者最不適合保留乳房？",
+      "flashcard_back": "多處、不同象限的可疑顯微鈣化，因可能多中心或廣泛 DCIS。",
+      "flashcard_summary": "Breast-conserving therapy -> multicentric suspicious microcalcifications are unfavorable",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n乳房攝影是族群篩檢主要工具，但在緻密乳房中敏感度下降，這也是年輕女性篩檢效果較差的原因之一。題目問錯誤敘述，C 把緻密乳房的影響說反了。\n\n【選項詳解】\n- A. 正確。Mammography 是歐美乳癌大量篩檢最常用且證據最完整的工具。\n- B. 正確。乳房超音波受操作者影響，較不適合作為單獨大規模篩檢工具，但可作為特定族群或診斷輔助。\n- C. 錯誤。Mammography 在緻密乳房的敏感度較差，不是較好；50 歲以上效果較好，部分原因是乳房密度下降、腫瘤生長速度與基礎風險不同。\n- D. 正確。50 歲以下篩檢效益較受限制，原因包括乳房較緻密、偽陽性較多，以及部分腫瘤生長較快。\n\n【核心考點】\nMammography 在脂肪性乳房較容易看出病灶，在 dense breast 敏感度下降；年輕女性常因乳房較緻密而篩檢表現較差。",
+      "key_point": "緻密乳房會降低 mammography 敏感度。",
+      "flashcard_front": "Mammography 在緻密乳房的敏感度？",
+      "flashcard_back": "下降；緻密組織會遮蔽病灶。",
+      "flashcard_summary": "Mammography -> dense breasts reduce sensitivity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n21 歲女性、超音波 BI-RADS 2 且疑似 fibroadenoma，屬良性影像。年輕女性乳房緻密，通常以超音波追蹤為主，不會優先安排乳房攝影。\n\n【選項詳解】\n- A. 可考慮。雖 BI-RADS 2 多為良性，若症狀或臨床判斷需要，可安排 6-12 個月超音波追蹤確認穩定。\n- B. 較不考慮。21 歲乳房緻密且輻射暴露需斟酌，BI-RADS 2 良性病灶通常不需進一步 mammography。\n- C. 可視情況考慮。若病灶快速變大、影像不典型或病人焦慮，可安排 core needle biopsy，但不是每例必要。\n- D. 可考慮。疼痛困擾可給止痛藥與支持性處置，並追蹤症狀。\n\n【核心考點】\n年輕女性疑似纖維腺瘤且 BI-RADS 2，以超音波與臨床追蹤為主；mammography 通常不是第一線。",
+      "key_point": "21 歲 BI-RADS 2 疑似 fibroadenoma，較不需乳房攝影。",
+      "flashcard_front": "21 歲疑似 fibroadenoma，BI-RADS 2，較不考慮？",
+      "flashcard_back": "乳房攝影；年輕乳房緻密且良性影像，多以超音波追蹤。",
+      "flashcard_summary": "Young fibroadenoma BI-RADS 2 -> ultrasound follow-up, not routine mammography",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n幼兒嘔吐合併腹部 X 光若呈現近端腸阻塞或 double bubble，鑑別常包括十二指腸蹼、環狀胰與腸旋轉不良併扭轉。胃蹼造成的是胃出口或胃內阻塞，較不符合典型十二指腸阻塞鑑別。\n\n【選項詳解】\n- A. 最不可能。Gastric web 位於胃，通常造成胃出口相關阻塞，不是典型 double bubble/十二指腸阻塞影像的主要鑑別。\n- B. 十二指腸蹼可造成近端十二指腸阻塞，是幼兒嘔吐與 double bubble 的重要鑑別。\n- C. 環狀胰會壓迫十二指腸第二部，造成十二指腸阻塞，是典型鑑別。\n- D. 腸旋轉不良併中腸扭轉可造成近端腸阻塞與膽汁性嘔吐，需列入急症鑑別。\n\n【核心考點】\n幼兒近端十二指腸阻塞的鑑別包含 duodenal web、annular pancreas、malrotation with volvulus；gastric web 較不像同一組典型鑑別。",
+      "key_point": "幼兒疑似十二指腸阻塞時，胃蹼是較不可能的鑑別。",
+      "flashcard_front": "幼兒近端十二指腸阻塞較不可能鑑別？",
+      "flashcard_back": "胃蹼；典型要想到十二指腸蹼、環狀胰、腸旋轉不良併扭轉。",
+      "flashcard_summary": "Pediatric proximal obstruction -> duodenal web/annular pancreas/malrotation, not gastric web",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題考鼠蹊部疝氣的解剖。兒童常見間接型鼠蹊疝氣，從腹壁下動脈外側經內鼠蹊環進入；提睪肌來自腹內斜肌，是正確敘述。\n\n【選項詳解】\n- A. 錯誤。間接型鼠蹊疝氣從 inferior epigastric vessels 外側突出，直接型才在其內側、Hesselbach triangle。\n- B. 錯誤。Iliohypogastric nerve 不與精索一起穿出外鼠蹊環；大腿內側上方感覺較與 ilioinguinal/genitofemoral 分支相關。\n- C. 正確。Cremaster muscle 主要由 internal oblique muscle 延伸而來，包繞精索與睪丸。\n- D. 錯誤。Testicular artery 直接來自主動脈腹部段，不是內髂動脈。\n\n【核心考點】\n鼠蹊疝氣解剖要記 inferior epigastric vessels 內外側：indirect 在外側，direct 在內側；cremaster 來自 internal oblique。",
+      "key_point": "提睪肌由腹內斜肌延伸而來。",
+      "flashcard_front": "提睪肌來源？間接疝與腹壁下動脈的位置？",
+      "flashcard_back": "提睪肌來自腹內斜肌；間接疝在 inferior epigastric vessels 外側。",
+      "flashcard_summary": "Inguinal anatomy -> cremaster from internal oblique",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n頸部胸鎖乳突肌前緣皮膚小開口並有分泌物，是第二鰓裂瘻管的典型位置。甲狀舌管瘻管則多在頸中線，會隨吞嚥或伸舌移動。\n\n【選項詳解】\n- A. 錯誤。甲狀舌管瘻管通常位於頸部中線，與舌骨、甲狀舌管殘跡相關，不是胸鎖乳突肌前緣側頸開口。\n- B. 正確。Second branchial remnant fistula 常在胸鎖乳突肌前緣有外口，可有黏液樣分泌物或反覆感染。\n- C. 錯誤。淋巴結發炎可有腫痛紅熱，但不典型形成先天性小開口與持續分泌物。\n- D. 錯誤。淋巴管瘤多為柔軟囊性腫塊，常在後頸三角，不是典型皮膚瘻管開口。\n\n【核心考點】\n側頸、胸鎖乳突肌前緣的小開口與分泌物，優先想到第二鰓裂瘻管；中線病灶才想到甲狀舌管。",
+      "key_point": "第二鰓裂瘻管常在胸鎖乳突肌前緣有皮膚開口與分泌物。",
+      "flashcard_front": "胸鎖乳突肌前緣小開口有分泌物，最可能？",
+      "flashcard_back": "第二鰓裂遺跡瘻管。",
+      "flashcard_summary": "Lateral neck opening anterior to SCM -> second branchial cleft fistula",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n1 歲半外傷兒童昏迷、低血壓、低血氧，GCS E1V1M4 約 6 分，屬需積極處置的重症外傷。GCS <=8、無法保護呼吸道或氧合不佳時應插管，不能因仍有自發呼吸就不插管。\n\n【選項詳解】\n- A. 錯誤。GCS 約 6 分且血氧 90%、休克，不能視為呼吸道安全；兒童重症外傷需保護 airway，插管是合理處置。\n- B. 正確。Primary/secondary survey 要全身檢查，尋找外傷、內出血與可壓迫止血來源。\n- C. 正確。10 kg 兒童 isotonic crystalloid 20 mL/kg 約 200 mL；多次輸液仍休克需及早輸血。\n- D. 正確。穩定或初步復甦後可用全身 CT 評估多重外傷，但不能延誤復甦。\n\n【核心考點】\n兒童外傷先 ABC。GCS <=8 或氧合差代表不能保護呼吸道，需插管；休克復甦以 20 mL/kg 等張液起步，無效則輸血。",
+      "key_point": "兒童重症外傷 GCS <=8 不應因有自發呼吸就延後插管。",
+      "flashcard_front": "兒童外傷 GCS 約 6 分但仍自發呼吸，可以不插管嗎？",
+      "flashcard_back": "不可以；GCS <=8/氧合差需保護呼吸道。",
+      "flashcard_summary": "Pediatric trauma -> GCS <=8 needs airway protection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n承上題，兒童外傷輸血後血壓改善但仍需監測。胸管立即引流量是否需開胸，兒童通常看大量初始血胸或持續出血；10 kg 兒童 230 mL 約 23 mL/kg，未必一放出就等同立即開胸，需看持續出血與生命徵象。\n\n【選項詳解】\n- A. 正確。意識不清即使初始 CT 無出血，仍需追蹤 GCS、瞳孔與神經變化，惡化時重做頭部 CT。\n- B. 正確。外傷休克復甦後仍要追蹤抽血、生命徵象、尿量與輸血反應。\n- C. 正確。兒童可有肺挫傷或血胸而沒有明顯肋骨骨折；影像與氧合狀態需綜合判斷。\n- D. 錯誤。胸管初始 230 mL 血性引流在 10 kg 兒童需嚴密評估，但是否立即開胸通常取決於大量初始出血、持續出血速率與血流動力學，不是單看此數字立刻開胸。\n\n【核心考點】\n外傷性血胸開胸適應症看大量初始引流、持續高流量出血與休克。兒童要用體重換算並看趨勢，不能只因一次引流就直接開胸。",
+      "key_point": "兒童血胸是否開胸要看引流量/體重、持續出血與生命徵象。",
+      "flashcard_front": "兒童外傷血胸，胸管初始引流後一定立刻開胸嗎？",
+      "flashcard_back": "不一定；需看大量/持續出血、體重換算與血流動力學。",
+      "flashcard_summary": "Traumatic hemothorax -> thoracotomy depends on massive or ongoing bleeding",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n兒童腸套疊最常見為迴盲部套疊，典型表現為陣發性腹痛、嘔吐、血便與香腸狀腫塊。無腹膜炎或穿孔時，空氣或水溶性/靜水壓灌腸復位常是第一線治療。\n\n【選項詳解】\n- A. 錯誤。2 的法則是 Meckel diverticulum 的記憶口訣，不是腸套疊的主要臨床表現。\n- B. 錯誤。99mTc-pertechnetate scan 用於偵測含異位胃黏膜的 Meckel diverticulum，不是腸套疊確診首選。\n- C. 錯誤。最常見先天性胃腸道畸形是 Meckel diverticulum，不是腸套疊。\n- D. 正確。大多數單純性腸套疊可用影像導引的 hydrostatic 或 pneumatic reduction，若有腹膜炎、穿孔或復位失敗才手術。\n\n【核心考點】\n腸套疊與 Meckel diverticulum 常被混考：2 的法則與 99mTc scan 是 Meckel；單純腸套疊治療常先灌腸復位。",
+      "key_point": "單純性腸套疊多可先做 hydrostatic/pneumatic reduction。",
+      "flashcard_front": "單純性兒童腸套疊第一線處置？",
+      "flashcard_back": "影像導引空氣或靜水壓灌腸復位。",
+      "flashcard_summary": "Intussusception -> nonoperative enema reduction for uncomplicated cases",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n糞便潛血陽性後大腸鏡發現 1 公分有莖性息肉，最適當是內視鏡息肉切除並送病理。僅切片或觀察會留下可能腺瘤性病灶與癌化風險。\n\n【選項詳解】\n- A. 正確。Pedunculated polyp 通常可直接內視鏡 polypectomy，兼具診斷與治療。\n- B. 錯誤。只切片無法完整移除息肉，也可能漏掉局部高級別病變或早期癌。\n- C. 錯誤。1 公分有莖性息肉沒有侵犯癌證據時，不需直接做腹腔鏡前位切除。\n- D. 錯誤。糞便潛血陽性且已見息肉，不應單純觀察，應切除並病理檢查。\n\n【核心考點】\n大腸鏡看到可切除息肉，標準處置是 polypectomy 並送病理；手術保留給不可內視鏡切除或疑似侵犯癌等情境。",
+      "key_point": "1 公分有莖性大腸息肉最適當處置是內視鏡息肉切除。",
+      "flashcard_front": "1 公分有莖性乙狀結腸息肉處置？",
+      "flashcard_back": "內視鏡息肉切除並送病理。",
+      "flashcard_summary": "Pedunculated colon polyp -> endoscopic polypectomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

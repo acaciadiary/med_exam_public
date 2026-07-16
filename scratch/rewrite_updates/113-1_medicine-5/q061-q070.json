@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-5.json",
+  "dataset_id": "113-1_medicine-5",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-5_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n斷指再接的典型適應症包括拇指、多指、小孩斷指與較遠端乾淨切斷。單指多段截肢代表 crush/avulsion 或多節段損傷，技術困難且功能預後差，較不適合。\n\n【選項詳解】\n- A. 拇指對手部功能極重要，拇指截肢是再接強適應症。\n- B. 多指截肢會嚴重影響手功能，通常積極考慮再接。\n- C. 小孩癒合與神經恢復潛力較好，斷指再接適應症較寬。\n- D. 最不適當。單指多段截肢血管、神經、肌腱與骨骼損傷複雜，成功率與功能預後較差，通常不是理想適應症。\n\n【核心考點】\n斷指再接強適應症：thumb、multiple digits、children。單指嚴重 crush/avulsion 或多段截肢預後差，較不建議。",
+      "key_point": "單指多段截肢不是理想的手指再接適應症。",
+      "flashcard_front": "斷指再接強適應症？哪個較不適當？",
+      "flashcard_back": "拇指、多指、小孩適合；單指多段截肢較不適合。",
+      "flashcard_summary": "Replantation indications -> thumb, multiple digits, child; not single multi-level injury",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nL5/S1 spondylolisthesis 常使 L5 神經根在椎間孔處受到牽拉或壓迫，造成下肢酸麻。題目為 L5 on S1 第一級滑脫，最可能受壓迫為 L5 nerve root。\n\n【選項詳解】\n- A. L3 神經根位置較高，與 L5/S1 滑脫的典型壓迫不符。\n- B. L4 神經根較常與 L4/5 病灶相關，不是 L5/S1 滑脫最典型受壓根。\n- C. 正確。L5/S1 椎弓解離性滑脫常造成 L5 神經根在椎間孔受壓。\n- D. S1 神經根較常與 L5/S1 椎間盤突出壓迫 traversing root 相關；滑脫造成 foraminal stenosis 時常影響 exiting L5 root。\n\n【核心考點】\n椎弓解離性 L5/S1 spondylolisthesis 常壓迫 exiting L5 root；和椎間盤突出壓迫 traversing root 的概念要分清楚。",
+      "key_point": "L5 on S1 spondylolisthesis 最常壓迫 L5 神經根。",
+      "flashcard_front": "L5 on S1 spondylolisthesis 最可能壓迫哪條神經根？",
+      "flashcard_back": "L5 nerve root。",
+      "flashcard_summary": "L5/S1 spondylolisthesis -> L5 nerve root compression",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nKlippel-Feil syndrome 是胚胎早期頸椎分節失敗造成先天性頸椎融合。典型三徵是短頸、低後髮際與頸部活動受限，且可合併泌尿、心肺、神經與聽力異常。\n\n【選項詳解】\n- A. 正確。受孕後第 3-8 週左右體節分節失敗，造成頸椎先天融合。\n- B. 錯誤。Klippel-Feil 可合併腎臟泌尿、生殖、心肺、神經與聽力障礙，並不少見。\n- C. 錯誤。典型是低後髮際（low posterior hairline），不是高後髮際。\n- D. 錯誤。典型是短頸與頸部活動受限，不是頸部較長。\n\n【核心考點】\nKlippel-Feil syndrome = congenital cervical fusion due to segmentation failure；短頸、低後髮際、頸活動受限是經典三徵。",
+      "key_point": "Klippel-Feil syndrome 由胚胎早期頸椎分節失敗造成。",
+      "flashcard_front": "Klippel-Feil syndrome 的成因與三徵？",
+      "flashcard_back": "頸椎分節失敗；短頸、低後髮際、頸活動受限。",
+      "flashcard_summary": "Klippel-Feil -> cervical segmentation failure, short neck, low hairline",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n完全性鹿角結石體積大、佔據腎盂腎盞，單靠 ESWL 或 ureteroscopy 清石率不足。最佳治療通常是經皮腎臟碎石取石術（PCNL），必要時分期或合併其他方式。\n\n【選項詳解】\n- A. ESWL 對小結石較適合；完整鹿角結石體積大且常為感染石，單用震波清石率差。\n- B. 輸尿管鏡可處理部分上泌尿道結石，但對 complete staghorn stone 通常效率與清石率不足。\n- C. 正確。PCNL 可直接建立腎臟通道碎石取石，是完全性鹿角結石的主要治療選擇。\n- D. 尿液鹼化主要用於尿酸結石等特定結石，不能處理完整鹿角結石的機械負荷與感染風險。\n\n【核心考點】\nStaghorn stone 尤其 complete type，治療目標是最大化 stone-free rate 並控制感染，首選 PCNL。",
+      "key_point": "完全性鹿角結石最佳選擇是 PCNL。",
+      "flashcard_front": "Complete renal staghorn stone 首選治療？",
+      "flashcard_back": "經皮腎臟碎石取石術（PCNL）。",
+      "flashcard_summary": "Complete staghorn stone -> percutaneous nephrolithotomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nTa、低惡性度、0.5 公分包皮陰莖鱗癌屬表淺早期病灶，治療應盡量器官保留，如局部切除、雷射、包皮環切或 Mohs。根除性陰莖手術過度治療。\n\n【選項詳解】\n- A. 可考慮。小型低度表淺病灶可用雷射等器官保留方式，需適當追蹤。\n- B. 最不建議。陰莖根除手術對 0.5 公分 Ta 低惡性度病灶過度治療，功能與心理傷害大。\n- C. 可考慮。病灶在包皮且早期時，包皮環切可同時治療與取得病理。\n- D. 可考慮。Mohs micrographic surgery 可用於選擇性早期病灶以保留組織。\n\n【核心考點】\n早期低度陰莖癌以 organ-sparing therapy 為主；根除性手術留給較進展或無法局部控制的病灶。",
+      "key_point": "小型 Ta 低度包皮鱗癌最不建議陰莖根除手術。",
+      "flashcard_front": "0.5 cm Ta 低度陰莖/包皮 SCC，最不建議？",
+      "flashcard_back": "陰莖根除手術；早期病灶以器官保留為主。",
+      "flashcard_summary": "Early penile SCC -> organ-sparing, not radical penectomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nIMDC metastatic RCC risk factors 包括 Karnofsky performance status 低、診斷到治療時間短、hemoglobin 低、corrected calcium 高、neutrophil 高、platelet 高。LDH 是 MSKCC/Heng 以外其他模型常見項目，但不是 IMDC 項目。\n\n【選項詳解】\n- A. Performance status 是 IMDC 風險因子之一，反映病人體能與預後。\n- B. 正確答案。LDH 不是 IMDC 六項風險因子；它較常見於其他腫瘤或舊模型的風險評估。\n- C. Hemoglobin 低於正常下限是 IMDC 風險因子之一。\n- D. Corrected serum calcium 高於正常上限是 IMDC 風險因子之一。\n\n【核心考點】\nIMDC 六因子：低 KPS、診斷至治療 <1 年、低 Hb、高 corrected Ca、高 neutrophil、高 platelet；沒有 LDH。",
+      "key_point": "LDH 不是 IMDC metastatic RCC risk factor。",
+      "flashcard_front": "IMDC metastatic RCC risk factors 不包括？",
+      "flashcard_back": "LDH；IMDC 包括 KPS、時間、Hb、Ca、neutrophil、platelet。",
+      "flashcard_summary": "IMDC RCC risk -> no LDH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n轉移性攝護腺癌的核心是 androgen deprivation therapy，手術去勢與 LHRH agonist/antagonist 都可達到去勢效果。早期且預期壽命超過 10 年者，優先考慮根治性治療或積極監測，不是先給賀爾蒙治療。\n\n【選項詳解】\n- A. 正確。睪丸切除與 LHRH agonist 都可達到去勢治療效果，用於轉移性攝護腺癌。\n- B. 錯誤。早期攝護腺癌且預期壽命 >10 年，應依風險分層考慮根除性攝護腺切除、放療或主動監測；單獨賀爾蒙治療不是首選根治策略。\n- C. 正確。TURP 是處理膀胱出口阻塞症狀的手術，不是攝護腺癌根除手術。\n- D. 正確。LHRH agonist 與 antagonist 都可用於 ADT，差異在起效、testosterone flare 與個別風險。\n\n【核心考點】\n早期可治癒攝護腺癌看風險分層與預期壽命，治療目標是根治或監測；ADT 主要用於轉移性或特定合併治療情境。",
+      "key_point": "早期且預期壽命 >10 年攝護腺癌，不應首先考慮單獨賀爾蒙治療。",
+      "flashcard_front": "早期攝護腺癌、預期壽命 >10 年，首選賀爾蒙治療嗎？",
+      "flashcard_back": "不是；依風險考慮根治手術、放療或主動監測。",
+      "flashcard_summary": "Early prostate cancer -> curative options/active surveillance, not first-line hormone alone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\nBPH 是老年男性常見良性腫瘤，與年齡、雄激素/雌激素平衡、發炎與遺傳因素都有關。說其成因與遺傳無關過於絕對。\n\n【選項詳解】\n- A. 正確。BPH 是男性最常見良性腫瘤之一，盛行率隨年齡增加。\n- B. 正確。前列腺阻塞與下泌尿道症狀常隨年齡增加而更常見。\n- C. 最不恰當。BPH 有家族與遺傳傾向，尤其較早發或較嚴重病例；不能說與遺傳無關。\n- D. 正確。老化後 androgen/estrogen 比例改變，雌激素相對影響可能參與 BPH 發生。\n\n【核心考點】\nBPH 是年齡相關疾病，但不是單純老化；荷爾蒙、基質上皮互動、發炎與遺傳都可能參與。",
+      "key_point": "BPH 成因不能說與遺傳無關。",
+      "flashcard_front": "BPH 成因與遺傳完全無關嗎？",
+      "flashcard_back": "不是；家族與遺傳因素可能參與，尤其早發或嚴重病例。",
+      "flashcard_summary": "BPH -> age-related but genetic factors may contribute",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-5_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n題目官方答案選 A，但 Peyronie's disease 常被認為與陰莖白膜反覆微創傷後癒合異常、纖維斑塊形成有關；A 本身看起來是正確敘述。B、C、D 也多為合理敘述，因此本題建議人工複核官方答案。\n\n【選項詳解】\n- A. 官方答案標示為錯誤，但常規醫學知識認為 Peyronie's disease 確實可能與 tunica albuginea 微創傷後異常癒合與纖維化有關；此處需人工確認。\n- B. 正確。Peyronie's disease 可造成勃起疼痛、陰莖彎曲與畸形，並影響性交功能。\n- C. 正確。Peyronie's disease 與糖尿病、高血壓、Dupuytren contracture 等纖維化或血管代謝相關狀態有關聯。\n- D. 正確。Collagenase clostridium histolyticum 注射是特定穩定期、可觸及斑塊且彎曲達標病例的非手術治療選項之一。\n\n【核心考點】\nPeyronie's disease 是 tunica albuginea 纖維斑塊造成陰莖彎曲與疼痛；創傷後異常癒合是常見病因假說。此題官方答案與常規知識可能衝突，勿自行改答案，應人工複核。",
+      "key_point": "Peyronie's disease 常與白膜微創傷後異常癒合及纖維斑塊有關；本題官方答案需複核。",
+      "flashcard_front": "Peyronie's disease 常見病因假說？",
+      "flashcard_back": "陰莖白膜微創傷後異常癒合形成纖維斑塊；本題官方答案 A 建議複核。",
+      "flashcard_summary": "Peyronie disease -> fibrosis of tunica albuginea; official answer likely needs review",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "Q69 官方答案為 A，但 A 敘述符合常見 Peyronie's disease 病因假說，建議人工複核官方答案或題目文字。"
+      ]
+    },
+    {
+      "question_id": "113-1_medicine-5_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n原發性膀胱輸尿管逆流是先天性 UVJ 抗逆流機制不全，常因輸尿管膀胱內段太短或接合處發育異常。續發性則來自膀胱高壓、出口阻塞或神經性膀胱。\n\n【選項詳解】\n- A. 膀胱內壓過高會克服抗逆流機制，屬續發性 VUR 原因。\n- B. 膀胱出口阻塞使膀胱壓上升，屬續發性 VUR 原因。\n- C. 正確。UVJ 先天結構/功能異常造成抗逆流機制不足，是原發性 VUR 的核心原因。\n- D. 神經性膀胱造成排尿功能障礙與高壓，屬續發性 VUR。\n\n【核心考點】\nPrimary VUR = UVJ congenital incompetence；secondary VUR = high-pressure bladder/outlet obstruction/neurogenic bladder。",
+      "key_point": "原發性 VUR 來自 UVJ 抗逆流機制病變。",
+      "flashcard_front": "原發性膀胱輸尿管逆流原因？",
+      "flashcard_back": "膀胱輸尿管接合處（UVJ）抗逆流機制異常。",
+      "flashcard_summary": "Primary VUR -> UVJ abnormality",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
