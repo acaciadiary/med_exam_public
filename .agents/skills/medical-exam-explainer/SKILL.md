@@ -85,7 +85,10 @@ Use a review gate after each completed 100 questions:
   - Check that each option A-D has a concrete reason.
   - Check that wrong options explain the specific false statement, not generic "not best answer" language.
   - Check that banned filler phrases are absent.
+  - Check that no long sentence or source paragraph is reused across three or more option explanations.
+  - For negative stems such as "不是" or "較不可能", check that the labels make the logic clear: the keyed option is the exception, while the other options are true/possible statements.
   - Check that `key_point`, `flashcard_summary`, and `flashcard_back` are useful and not vague.
+  - Check that learning fields do not carry a stale department/template label unrelated to the question content.
   - Check that no question text, options, answer keys, IDs, ordering, or frontend files changed.
   - Flag suspected medical or official-answer issues for manual review.
 - If the reviewer finds serious issues, pause the next writing wave and repair the failed 10-question range with a fresh worker.
@@ -132,7 +135,7 @@ Required structure:
 
 For multi-answer or official correction questions, clearly state the accepted answer set and why each accepted choice is valid.
 
-For negative questions such as "何者錯誤", "何者不適當", "何者較不可能", explicitly remind that the selected option is the wrong/inappropriate statement.
+For negative questions such as "何者錯誤", "何者不適當", "何者不是", "何者較不可能", explicitly remind that the selected option is the wrong/inappropriate statement, exception, or non-typical item. Do not label the other options as simply "wrong" without explaining that they are true/possible and therefore not selected.
 
 ## Gold Standard Rewrite Pattern
 
@@ -219,14 +222,20 @@ Never write these template-like phrases unless immediately followed by specific 
 - `最符合題幹`
 - `核心記憶點`
 - `定義、機轉、典型表現或處置原則`
+- `標準答案所接受的判斷`
+- `雖然與題目主題相關`
+- `與標準答案的關鍵判斷不一致`
+- `對照本題核心解析`
 
 These phrases are considered low-quality when used as filler. Replace them with concrete mechanisms, clinical clues, diagnostic criteria, anatomy, pathology, pharmacology, treatment principles, or exam-relevant contrasts.
 
 Also eliminate these low-value rewrite habits:
 
 - Repeating the same source paragraph after every option.
+- Repeating the same long sentence or core paragraph in three or more A-D option explanations, even if each option has a different opening phrase.
 - Saying only `此選項不是最佳答案`.
 - Saying only `與正確答案的關鍵判斷點不一致`.
+- Saying only `與標準答案的關鍵判斷不一致`.
 - Saying `作答時應回到題幹線索與標準答案比對`.
 - Writing a core point like `熟悉疾病機轉、臨床表現、診斷檢查與治療原則`.
 - Using department labels such as `心臟內科的基本判斷能力` as the main explanation.
@@ -300,11 +309,13 @@ Use this prompt for each 100-question review gate:
 審查標準：
 1. 每題是否都有【題幹解析】【選項詳解】【核心考點】。
 2. A-D 是否都有各自的具體醫學理由，而不是共用同一段話。
-3. 是否出現禁用模板句：非本題答案、不是本題標準答案、回到題幹線索、請用題幹線索連回、不能最精準回答本題、最符合題幹、核心記憶點、定義、機轉、典型表現或處置原則。
+3. 是否出現禁用模板句：非本題答案、不是本題標準答案、回到題幹線索、請用題幹線索連回、不能最精準回答本題、最符合題幹、核心記憶點、定義、機轉、典型表現或處置原則、標準答案所接受的判斷、雖然與題目主題相關、與標準答案的關鍵判斷不一致、對照本題核心解析。
 4. 是否還有「此選項不是最佳答案」「與正確答案的關鍵判斷點不一致」「原始解析重點指出」這類低品質句。
-5. key_point、flashcard_summary、flashcard_back 是否具體可用。
-6. 是否有疑似醫學內容錯誤或官方答案疑義。
-7. update JSON 是否只包含允許欄位，沒有夾帶題目、選項、答案、JSON 結構或前端修改。
+5. 是否有同一長句或同一核心段落出現在三個以上選項；有的話列為返工。
+6. 若題幹是否定問法，例如「不是」「錯誤」「較不可能」，是否清楚說明正答是例外，而其他選項是真正可能或正確的敘述。
+7. key_point、flashcard_summary、flashcard_back 是否具體可用，且沒有殘留錯誤科別或舊模板標籤。
+8. 是否有疑似醫學內容錯誤或官方答案疑義。
+9. update JSON 是否只包含允許欄位，沒有夾帶題目、選項、答案、JSON 結構或前端修改。
 
 請輸出：
 1. 審查範圍與題數
@@ -333,14 +344,16 @@ After updating explanations:
 7. For micro-batches, confirm the merged diff only touches approved question ranges.
 8. Spot-check at least one rewritten question per 10-question range before launching the next wave.
 9. Run available project validation/build commands when reasonable.
-10. If local browser access to `localhost` or `127.0.0.1` is blocked, do not retry repeatedly. Use server response checks, data loading checks, tests, and build verification.
+10. Run a file-scoped `content:trust` audit for the active paper after merge, especially before saying a paper is clean.
+11. Treat `repeated_option_segment`, `banned_template_phrase`, stale learning fields, and unclear negative-stem labels as repair items, even when `validate:explanations` passes.
+12. If local browser access to `localhost` or `127.0.0.1` is blocked, do not retry repeatedly. Use server response checks, data loading checks, tests, and build verification.
 
 Suggested checks when relevant:
 
 ```powershell
 python .agents/skills/medical-exam-explainer/scripts/check_diff.py
 python .agents/skills/medical-exam-explainer/scripts/check_progress.py
-npm run content:trust
+node scripts/exams/run_python.mjs scripts/exams/audit_content_trust.py public/data/exams/<YEAR>/<SUBJECT>.json --out reports/<YEAR>_<SUBJECT>-content-trust.json
 npm run build
 ```
 

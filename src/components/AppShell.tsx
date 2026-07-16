@@ -487,8 +487,9 @@ export function AppShell({
                   <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-[0.8rem] border border-[#f7cddd] bg-[#ffe7ef] text-[#b65f7c]">
                     <PencilLine size={18} />
                   </div>
-                  <span className="font-hand text-lg font-bold text-[#3f342d] dark:text-[#f8edf3] truncate">
-                    Ariel's Med 醫師國考
+                  <span className="font-hand whitespace-nowrap text-lg font-bold text-[#3f342d] dark:text-[#f8edf3]">
+                    <span className="sm:hidden">A.Med</span>
+                    <span className="hidden sm:inline">Ariel's Med 醫師國考</span>
                   </span>
                 </button>
                 <div className="flex shrink-0 items-center gap-1.5">

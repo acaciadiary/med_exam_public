@@ -77,7 +77,7 @@ describe("QuestionCard", () => {
     await user.click(screen.getByRole("button", { name: "回報第 1 題" }));
 
     expect(screen.getByRole("heading", { name: "回報題目問題" })).toBeInTheDocument();
-    expect(screen.getByDisplayValue("115年第1次 醫學一 - 第 1 題")).toBeInTheDocument();
+    expect(screen.getByDisplayValue("115-1 第 1 題")).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "送出回報" })).toBeDisabled();
   });
 });

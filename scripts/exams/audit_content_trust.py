@@ -22,6 +22,10 @@ BANNED_TEMPLATE_PHRASES = (
     "最符合題幹",
     "核心記憶點",
     "定義、機轉、典型表現或處置原則",
+    "標準答案所接受的判斷",
+    "雖然與題目主題相關",
+    "與標準答案的關鍵判斷不一致",
+    "對照本題核心解析",
 )
 
 OPTION_LINE_PATTERN = re.compile(
@@ -63,6 +67,32 @@ def detected_option_labels(explanation: str) -> set[str]:
     return {match.group(1) for match in OPTION_LINE_PATTERN.finditer(section)}
 
 
+def option_blocks(explanation: str) -> list[tuple[str, str]]:
+    section = option_section(explanation)
+    matches = list(OPTION_LINE_PATTERN.finditer(section))
+    blocks: list[tuple[str, str]] = []
+    for index, match in enumerate(matches):
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(section)
+        blocks.append((match.group(1), section[match.end() : end].strip()))
+    return blocks
+
+
+def repeated_option_segments(explanation: str) -> list[dict[str, Any]]:
+    segment_labels: dict[str, set[str]] = {}
+    for label, block in option_blocks(explanation):
+        for segment in re.split(r"[。；;!?！？\n]+", block):
+            compact = re.sub(r"\s+", "", segment)
+            if len(compact) >= 36:
+                segment_labels.setdefault(compact, set()).add(label)
+
+    repeated = [
+        {"segment": segment, "labels": sorted(labels)}
+        for segment, labels in segment_labels.items()
+        if len(labels) >= 3
+    ]
+    return sorted(repeated, key=lambda item: (-len(item["labels"]), -len(item["segment"])))
+
+
 def text_excerpt(text: str, limit: int = 220) -> str:
     compact = re.sub(r"\s+", " ", text).strip()
     if len(compact) <= limit:
@@ -89,6 +119,7 @@ def audit_file(path: Path, min_explanation_chars: int, max_samples_per_file: int
     incomplete_option_samples: list[dict[str, Any]] = []
     missing_heading_samples: list[dict[str, Any]] = []
     short_explanation_samples: list[dict[str, Any]] = []
+    repeated_option_samples: list[dict[str, Any]] = []
 
     for question in questions:
         explanation = str(question.get("explanation", "") or "").strip()
@@ -128,6 +159,15 @@ def audit_file(path: Path, min_explanation_chars: int, max_samples_per_file: int
         elif not explanation:
             issue_counts["empty_explanation"] += 1
 
+        repeated_segments = repeated_option_segments(explanation)
+        if repeated_segments:
+            issue_counts["repeated_option_segment"] += 1
+            if len(repeated_option_samples) < max_samples_per_file:
+                sample = question_ref(path, dataset, question)
+                sample["labels"] = repeated_segments[0]["labels"]
+                sample["repeated_segment"] = text_excerpt(repeated_segments[0]["segment"])
+                repeated_option_samples.append(sample)
+
         for phrase in BANNED_TEMPLATE_PHRASES:
             hits = explanation.count(phrase)
             if hits:
@@ -138,6 +178,7 @@ def audit_file(path: Path, min_explanation_chars: int, max_samples_per_file: int
         issue_counts["missing_required_headings"] * 4
         + issue_counts["incomplete_option_details"] * 4
         + issue_counts["empty_explanation"] * 4
+        + issue_counts["repeated_option_segment"] * 4
         + issue_counts["short_explanation"] * 2
         + issue_counts["invalid_review_status"] * 2
         + issue_counts["banned_template_phrase"]
@@ -156,6 +197,7 @@ def audit_file(path: Path, min_explanation_chars: int, max_samples_per_file: int
             "missing_headings": missing_heading_samples,
             "incomplete_options": incomplete_option_samples,
             "short_explanations": short_explanation_samples,
+            "repeated_options": repeated_option_samples,
         },
     }
 
@@ -225,6 +267,7 @@ def build_report(args: argparse.Namespace) -> dict[str, Any]:
         "incomplete_option_samples": collect_samples(file_reports, "incomplete_options", args.samples),
         "missing_heading_samples": collect_samples(file_reports, "missing_headings", args.samples),
         "short_explanation_samples": collect_samples(file_reports, "short_explanations", args.samples),
+        "repeated_option_samples": collect_samples(file_reports, "repeated_options", args.samples),
         "files": file_reports,
     }
 
