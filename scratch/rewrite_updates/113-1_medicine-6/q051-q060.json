@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-6.json",
+  "dataset_id": "113-1_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n子宮內膜癌危險因子多與長期未對抗雌激素暴露有關，如肥胖、未生育、慢性無排卵、單用 estrogen 與 tamoxifen。經產婦因懷孕期間 progesterone 影響，風險相對下降。\n\n【選項詳解】\n- A. 是危險因子。肥胖會增加周邊芳香化，提升 estrogen 暴露。\n- B. 是危險因子。Tamoxifen 對子宮內膜有部分雌激素樣作用。\n- C. 是危險因子。停經後單用 estrogen 會刺激子宮內膜增生。\n- D. 不是危險因子，故為本題應選。經產婦相對於未生育者風險較低。\n\n【核心考點】\n子宮內膜癌危險因子核心是 unopposed estrogen；經產是保護因素。",
+      "key_point": "經產婦不是子宮內膜癌危險因子。",
+      "flashcard_front": "子宮內膜癌危險因子",
+      "flashcard_back": "經產婦不是子宮內膜癌危險因子。",
+      "flashcard_summary": "子宮內膜癌危險因子 -> 經產婦不是子宮內膜癌危險因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n高危險型 HPV 透過 E6、E7 影響腫瘤抑制蛋白：E6 促進 p53 降解，E7 抑制 Rb，導致細胞週期失控與子宮頸癌發生。\n\n【選項詳解】\n- A. 錯誤。E1、E2 主要與病毒複製和調控相關，不是主要致癌蛋白組合。\n- B. 錯誤。E4、E5 不是子宮頸癌經典考點的 p53/Rb 致癌蛋白。\n- C. 正確。E6 作用於 p53，E7 作用於 Rb，是高危險 HPV 致癌關鍵。\n- D. 錯誤。L1、L2 是衣殼蛋白，與疫苗抗原相關，不是主要致癌蛋白。\n\n【核心考點】\nHPV E6 抑制 p53，E7 抑制 Rb。",
+      "key_point": "HPV 子宮頸癌致癌蛋白為 E6、E7。",
+      "flashcard_front": "HPV 致癌蛋白",
+      "flashcard_back": "HPV 子宮頸癌致癌蛋白為 E6、E7。",
+      "flashcard_summary": "HPV 致癌蛋白 -> HPV 子宮頸癌致癌蛋白為 E6、E7。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n上皮性卵巢癌中漿液性癌最常見，尤其 high-grade serous carcinoma 具有臨床重要性。Type I/II 分類不是以 estrogen 過度刺激為核心；BRCA 與高級別漿液性癌關聯較強。\n\n【選項詳解】\n- A. 正確。Serous adenocarcinoma 是上皮性卵巢癌最常見細胞型。\n- B. 錯誤。Type I 卵巢癌多為低度惡性、階段性演進，不是單純雌激素刺激誘發。\n- C. 錯誤。BRCA1/2 與 high-grade serous carcinoma 較相關，不是 mucinous 約 25%。\n- D. 錯誤。化療對多數上皮性卵巢癌重要，但不能說所有卵巢癌病人都會提高存活率。\n\n【核心考點】\n上皮性卵巢癌最常見為 serous carcinoma；BRCA 常連到 high-grade serous。",
+      "key_point": "Serous adenocarcinoma 是最常見的上皮性卵巢癌型態。",
+      "flashcard_front": "上皮性卵巢癌",
+      "flashcard_back": "Serous adenocarcinoma 是最常見的上皮性卵巢癌型態。",
+      "flashcard_summary": "上皮性卵巢癌 -> Serous adenocarcinoma 是最常見的上皮性卵巢癌型態。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n輔助生殖科技 ART 通常指在體外操作卵子、精子或胚胎的技術，如 IVF、GIFT、PGT 相關流程。IUI 只是將精子置入子宮腔，沒有體外操作卵子或胚胎，通常不列入 ART。\n\n【選項詳解】\n- A. 屬於 ART。IVF 在體外完成受精與胚胎培養。\n- B. 屬於 ART。GIFT 涉及取卵與配子處理後放入輸卵管。\n- C. 不屬於 ART，故為本題應選。IUI 只將處理後精子置入子宮，未操作卵子或胚胎。\n- D. 屬於 ART 相關。PGT 需胚胎形成後取樣檢驗，與 IVF 流程密切相關。\n\n【核心考點】\nART 的關鍵是體外處理卵子、精子或胚胎；IUI 通常不算 ART。",
+      "key_point": "IUI 不屬於典型 assisted reproductive technology。",
+      "flashcard_front": "ART 定義",
+      "flashcard_back": "IUI 不屬於典型 assisted reproductive technology。",
+      "flashcard_summary": "ART 定義 -> IUI 不屬於典型 assisted reproductive technology。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n青春期前陰道出血需完整鑑別，包括泌尿道、腸胃道、外傷、異物、感染、腫瘤與性早熟。沒有乳房或恥毛發育不能完全排除性早熟或內分泌原因，仍需依病史與檢查評估。\n\n【選項詳解】\n- A. 正確。看似陰道出血時，來源可能其實是尿道或肛門直腸。\n- B. 錯誤，故為本題應選。無乳房或恥毛發育不能直接排除性早熟或其他內分泌原因。\n- C. 正確。異物或外陰傷害都要警覺性侵害與兒少保護議題。\n- D. 正確。尿道口脫垂與陰道橫紋肌肉瘤都可能表現為紅色易出血腫塊。\n\n【核心考點】\n青春期前出血不能用單一第二性徵檢查排除重大診斷；要廣泛鑑別與保護評估。",
+      "key_point": "無乳房或恥毛發育不能完全排除性早熟相關診斷。",
+      "flashcard_front": "青春期前陰道出血",
+      "flashcard_back": "無乳房或恥毛發育不能完全排除性早熟相關診斷。",
+      "flashcard_summary": "青春期前陰道出血 -> 無乳房或恥毛發育不能完全排除性早熟相關診斷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nProlactin 與多數腦下垂體前葉荷爾蒙不同，主要受到下視丘 dopamine 的抑制性控制。TRH 上升可刺激 prolactin，因此甲狀腺低下可造成高泌乳素。\n\n【選項詳解】\n- A. 錯誤。高泌乳素可見於甲狀腺低下，因 TRH 增加刺激 prolactin；不是甲狀腺分泌增加。\n- B. 正確。下視丘 dopamine 持續抑制 prolactin 分泌，是主要調控機制。\n- C. 錯誤。懷孕會使 prolactin 上升屬生理現象，不需例行持續監測 prolactin。\n- D. 錯誤。泌乳素瘤病人產後是否哺乳需個別評估，不是絕對不建議。\n\n【核心考點】\nProlactin 主要受 dopamine 抑制；甲狀腺低下可經 TRH 造成高泌乳素。",
+      "key_point": "泌乳激素主要由下視丘 dopamine 抑制控制。",
+      "flashcard_front": "泌乳激素調控",
+      "flashcard_back": "泌乳激素主要由下視丘 dopamine 抑制控制。",
+      "flashcard_summary": "泌乳激素調控 -> 泌乳激素主要由下視丘 dopamine 抑制控制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nStress urinary incontinence 與種族、懷孕生產、骨盆底支持和中年荷爾蒙變化相關，常在中年達高峰；高齡者 urgency/mixed incontinence 比例增加，不能說年紀越大 SUI 發生率一路越高。\n\n【選項詳解】\n- A. 正確。白種人 SUI 盛行率較高是常見流行病學考點。\n- B. 正確。Parity 對 SUI 影響較明顯，對 urgency incontinence 的影響較小。\n- C. 正確。SUI 盛行率常在約 50 歲左右達高峰。\n- D. 錯誤，故為本題應選。年齡增加後 urgency 與 mixed 型態增加，SUI 不一定持續隨年齡上升。\n\n【核心考點】\nSUI 常與骨盆底支持和中年因素相關；高齡尿失禁型態不等於 SUI 單調上升。",
+      "key_point": "應力性尿失禁不是年紀越大發生率就越高。",
+      "flashcard_front": "婦女尿失禁流行病學",
+      "flashcard_back": "應力性尿失禁不是年紀越大發生率就越高。",
+      "flashcard_summary": "婦女尿失禁流行病學 -> 應力性尿失禁不是年紀越大發生率就越高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n正常咽部期吞嚥反射快速完成，食團刺激咽門弓或後咽壁後啟動；此時需同時保護呼吸道並讓食團進入食道。軟腭上提後縮以關閉鼻咽，喉部上提並關閉氣道，環咽肌/上食道括約肌應放鬆打開讓食團通過。\n\n【選項詳解】\n- A. 適當。咽部期吞嚥反射通常約 1 秒內完成。\n- B. 適當。食團接觸咽門弓或後咽壁可啟動吞嚥反射。\n- C. 適當。軟腭後縮上提以避免鼻咽逆流。\n- D. 不適當，故為本題應選。環咽肌在吞嚥時應放鬆開啟，不是關閉。\n\n【核心考點】\n吞嚥咽部期：軟腭關鼻咽，喉部保護氣道，上食道括約肌放鬆開啟。",
+      "key_point": "環咽肌於吞嚥反射時應放鬆，不是關閉。",
+      "flashcard_front": "吞嚥咽部期",
+      "flashcard_back": "環咽肌於吞嚥反射時應放鬆，不是關閉。",
+      "flashcard_summary": "吞嚥咽部期 -> 環咽肌於吞嚥反射時應放鬆，不是關閉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nBrown-Séquard syndrome 是半側脊髓損傷：同側運動與本體覺受損，對側痛溫覺受損。預後相對其他不完全脊髓損傷佳，多數可恢復一定行走能力。\n\n【選項詳解】\n- A. 錯誤。痛溫覺在脊髓交叉後上行，因此受傷對側痛溫覺喪失。\n- B. 錯誤。本體覺走後索，同側上行，故受傷同側本體覺受損。\n- C. 正確。Brown-Séquard 屬不完全損傷，行走預後相對較好，多數可恢復獨立行走。\n- D. 錯誤。運動功能受損較嚴重在受傷同側，而非對側。\n\n【核心考點】\n半側脊髓損傷：同側 UMN/本體覺，對側痛溫覺；預後相對佳。",
+      "key_point": "Brown-Séquard syndrome 多數病人可恢復獨立行走。",
+      "flashcard_front": "Brown-Sequard syndrome",
+      "flashcard_back": "Brown-Séquard syndrome 多數病人可恢復獨立行走。",
+      "flashcard_summary": "Brown-Sequard syndrome -> Brown-Séquard syndrome 多數病人可恢復獨立行走。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n2016 NPUAP 分級中，第三級壓瘡為全皮層皮膚缺損，可見脂肪、肉芽或卷邊，但不暴露筋膜、肌肉、肌腱、韌帶、軟骨或骨；若暴露深部支持結構才是第四級。\n\n【選項詳解】\n- A. 錯誤。第二級是部分皮層缺損或水泡，不會看到脂肪。\n- B. 正確。全皮層缺損、可見脂肪與肉芽、未暴露肌腱軟骨，屬第三級。\n- C. 錯誤。第四級需暴露或可直接觸及筋膜、肌肉、肌腱、韌帶、軟骨或骨。\n- D. 錯誤。2016 分級沒有第五級這個標準分級。\n\n【核心考點】\nStage 3 壓瘡可見脂肪但不見深部支持結構；Stage 4 才暴露肌腱、軟骨或骨。",
+      "key_point": "全皮層缺損可見脂肪但無肌腱軟骨暴露為第三級壓瘡。",
+      "flashcard_front": "壓瘡分級",
+      "flashcard_back": "全皮層缺損可見脂肪但無肌腱軟骨暴露為第三級壓瘡。",
+      "flashcard_summary": "壓瘡分級 -> 全皮層缺損可見脂肪但無肌腱軟骨暴露為第三級壓瘡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

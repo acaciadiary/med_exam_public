@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-6.json",
+  "dataset_id": "113-1_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問味覺神經支配何者錯誤。舌前 2/3 由顏面神經經鼓索支配，舌後 1/3 由舌咽神經支配，會厭與下咽部味覺則屬迷走神經分支；舌下神經主要是舌肌運動神經。\n\n【選項詳解】\n- A. 正確。舌前 2/3 味覺經鼓索神經併入顏面神經（CN VII），再進入中樞。\n- B. 正確。味覺不是單一腦神經負責，而是 CN VII、IX、X 分區支配。\n- C. 正確。舌後 1/3 味覺主要由舌咽神經（CN IX）傳入。\n- D. 錯誤，故為本題應選。會厭區域味覺來自迷走神經（CN X），不是舌下神經；CN XII 負責舌運動。\n\n【核心考點】\n味覺支配口訣：舌前 2/3 CN VII、舌後 1/3 CN IX、會厭 CN X；CN XII 是舌運動，不管味覺。",
+      "key_point": "會厭味覺由迷走神經支配，舌下神經只負責舌肌運動。",
+      "flashcard_front": "味覺神經支配",
+      "flashcard_back": "會厭味覺由迷走神經支配，舌下神經只負責舌肌運動。",
+      "flashcard_summary": "味覺神經支配 -> 會厭味覺由迷走神經支配，舌下神經只負責舌肌運動。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n過敏性鼻炎先有致敏化：第一次接觸過敏原後產生特異性 IgE 並附著於肥大細胞；再次接觸才出現早期反應，反覆或持續暴露會引發嗜酸性球等參與的晚期發炎。\n\n【選項詳解】\n- A. 錯誤。第一次接觸主要是致敏化，不是立即產生典型早期發炎反應。\n- B. 錯誤。再次接觸會使 IgE 交聯、肥大細胞釋放介質，形成早期反應；致敏化已在先前發生。\n- C. 正確。反覆接觸過敏原後可出現 late-phase inflammation，造成持續鼻塞與黏膜發炎。\n- D. 錯誤。長期暴露會增加症狀與共病風險，但不能說必然產生所有併發症。\n\n【核心考點】\n過敏性鼻炎流程為致敏化、再次暴露的早期反應、反覆暴露後的晚期發炎。",
+      "key_point": "反覆過敏原暴露會造成 allergic rhinitis 的 late-phase inflammation。",
+      "flashcard_front": "過敏性鼻炎病生理",
+      "flashcard_back": "反覆過敏原暴露會造成 allergic rhinitis 的 late-phase inflammation。",
+      "flashcard_summary": "過敏性鼻炎病生理 -> 反覆過敏原暴露會造成 allergic rhinitis 的 late-phase inflammation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n急性鼻竇炎眼眶併發症的 Chandler 分類依感染位置由淺到深排列。圖示題官方答案為 group III，代表感染已形成眼眶骨膜下膿瘍，常位於眼眶內側骨膜下。\n\n【選項詳解】\n- A. 錯誤。Group I 是隔膜前蜂窩組織炎，病灶在 orbital septum 前方，尚未進入眼眶內。\n- B. 錯誤。Group II 是眼眶蜂窩組織炎，有眼眶內發炎但尚未形成局限膿瘍。\n- C. 正確。Group III 為 subperiosteal abscess，鼻竇感染穿過骨壁後在骨膜下形成膿瘍。\n- D. 錯誤。Group IV 是 orbital abscess，膿瘍位於眼眶組織內，比骨膜下膿瘍更深。\n\n【核心考點】\nChandler：I preseptal、II orbital cellulitis、III subperiosteal abscess、IV orbital abscess、V cavernous sinus thrombosis。",
+      "key_point": "眼眶骨膜下膿瘍是 Chandler group III。",
+      "flashcard_front": "Chandler 分類",
+      "flashcard_back": "眼眶骨膜下膿瘍是 Chandler group III。",
+      "flashcard_summary": "Chandler 分類 -> 眼眶骨膜下膿瘍是 Chandler group III。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題問小兒氣切何者錯誤。兒童氣切術後早期最怕脫管與再建立呼吸道困難，即使手術順利也需要嚴密監測，不宜直接送一般病房觀察。\n\n【選項詳解】\n- A. 正確。現代小兒氣切常見適應症包括長期插管、長期呼吸器依賴或上呼吸道阻塞。\n- B. 正確。進入氣管前置放 stay sutures 可在早期脫管時協助重新辨認與牽開氣管。\n- C. 錯誤，故為本題應選。術後早期仍有出血、阻塞、脫管等風險，通常需加護或嚴密監測。\n- D. 正確。造口 maturation 可依醫師習慣與病況決定，不是每例都必須執行。\n\n【核心考點】\n小兒氣切術後早期不是「已建立呼吸道就安全」，脫管與再插入困難是重要風險。",
+      "key_point": "小兒氣切術後需嚴密監測，不宜直接轉一般病房。",
+      "flashcard_front": "小兒氣管切開術",
+      "flashcard_back": "小兒氣切術後需嚴密監測，不宜直接轉一般病房。",
+      "flashcard_summary": "小兒氣管切開術 -> 小兒氣切術後需嚴密監測，不宜直接轉一般病房。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n鼻咽癌治療後聽力受損常來自放射線對內耳或中耳結構的影響、耳咽管功能障礙造成中耳積液，以及 cisplatin 等鉑金類藥物耳毒性；標靶藥物不是典型常見原因。\n\n【選項詳解】\n- A. 正確。放射線可能傷害耳蝸、聽神經或中耳構造，造成感音性或混合性聽損。\n- B. 正確。放療後耳咽管功能不良可導致反覆中耳積液與傳導性聽損。\n- C. 正確。Cisplatin 等鉑金類化療具耳毒性，常造成高頻感音性聽損。\n- D. 錯誤，故為本題應選。標靶治療不是鼻咽癌治療後聽損最常見的典型原因。\n\n【核心考點】\n鼻咽癌治療後聽損常見三類：放射線傷害、耳咽管功能不良、鉑金類耳毒性。",
+      "key_point": "標靶治療不是鼻咽癌治療後聽損的常見典型原因。",
+      "flashcard_front": "鼻咽癌治療後聽損",
+      "flashcard_back": "標靶治療不是鼻咽癌治療後聽損的常見典型原因。",
+      "flashcard_summary": "鼻咽癌治療後聽損 -> 標靶治療不是鼻咽癌治療後聽損的常見典型原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n下咽癌有豐富淋巴引流，頸部轉移常見且多在同側頸部 level II、III、IV。單側下咽癌最高風險區域不是 level I，也不是後三角或中央頸部為主。\n\n【選項詳解】\n- A. 錯誤。Level I 較常與口腔癌相關，不是下咽癌最高風險區。\n- B. 正確。同側第二、三、四區淋巴結是下咽癌常見且高風險的轉移區。\n- C. 錯誤。Level V 可受影響，但不是單側下咽癌最典型最高風險組合。\n- D. 錯誤。第六、七區屬中央或上縱膈相關區域，不是本題所問最高風險區。\n\n【核心考點】\n下咽癌頸部轉移常考同側 level II、III、IV。",
+      "key_point": "單側下咽癌淋巴轉移最高風險為同側第二、三、四區。",
+      "flashcard_front": "下咽癌淋巴轉移",
+      "flashcard_back": "單側下咽癌淋巴轉移最高風險為同側第二、三、四區。",
+      "flashcard_summary": "下咽癌淋巴轉移 -> 單側下咽癌淋巴轉移最高風險為同側第二、三、四區。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\nCetuximab 是抗 EGFR 的單株抗體，頭頸部鱗狀細胞癌常見 EGFR 表現，故可作為放療合併或復發轉移治療的一部分。\n\n【選項詳解】\n- A. 正確。Cetuximab 直接作用於 epidermal growth factor receptor（EGFR）。\n- B. 錯誤。Ras 是 EGFR 下游訊息傳遞相關分子，不是 cetuximab 的直接標的。\n- C. 錯誤。VEGFR 是血管新生路徑標的，與 cetuximab 不同。\n- D. 錯誤。Notch1 可能與頭頸癌分子病理相關，但不是 cetuximab 標的。\n\n【核心考點】\nCetuximab = anti-EGFR monoclonal antibody。",
+      "key_point": "頭頸癌常用標靶 cetuximab 作用於 EGFR。",
+      "flashcard_front": "Cetuximab 標的",
+      "flashcard_back": "頭頸癌常用標靶 cetuximab 作用於 EGFR。",
+      "flashcard_summary": "Cetuximab 標的 -> 頭頸癌常用標靶 cetuximab 作用於 EGFR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n妊娠 11-14 週頸部透明帶增厚代表染色體異常、先天性心臟病與其他結構異常風險升高，最常被聯想到 Down syndrome，但不是立即終止妊娠的診斷。\n\n【選項詳解】\n- A. 錯誤。NT 增厚是風險訊號，需進一步諮詢與檢查，不等於預後極差或必須立即終止妊娠。\n- B. 正確。NT 3.3 mm 增厚提示染色體異常風險上升，其中以 Down syndrome 最具代表性。\n- C. 錯誤。NT 增厚會增加先天性心臟病風險，但題目給的 15% 過於絕對，需依 NT 厚度與檢查結果評估。\n- D. 錯誤。羊膜穿刺染色體正常後仍需追蹤結構異常，尤其心臟超音波評估。\n\n【核心考點】\n第一孕期 NT 增厚是染色體異常與結構異常風險指標，正常染色體不代表後續可忽略追蹤。",
+      "key_point": "NT 增厚最常考 Down syndrome 風險升高。",
+      "flashcard_front": "胎兒頸部透明帶",
+      "flashcard_back": "NT 增厚最常考 Down syndrome 風險升高。",
+      "flashcard_summary": "胎兒頸部透明帶 -> NT 增厚最常考 Down syndrome 風險升高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n停經後陰道出血、妊娠週數與子宮大小不相稱、嚴重噁心、極高 β-hCG、超音波 snowstorm appearance 且看不到胎兒，最符合妊娠滋養層細胞疾病，典型為葡萄胎。\n\n【選項詳解】\n- A. 錯誤。早期流產可出血，但通常不會有 β-hCG 40 萬與典型暴風雪影像。\n- B. 錯誤。子宮外孕通常不會使子宮腔內充滿囊狀雜回音組織，也不符合子宮 12 週大小。\n- C. 正確。高 β-hCG、子宮過大與 snowstorm appearance 是 GTD/葡萄胎典型線索。\n- D. 錯誤。雙胞胎可使子宮較大與 hCG 較高，但不會形成典型葡萄胎樣超音波。\n\n【核心考點】\n葡萄胎三線索：陰道出血、β-hCG 明顯過高、超音波 snowstorm。",
+      "key_point": "高 β-hCG 加 snowstorm appearance 指向 gestational trophoblastic disease。",
+      "flashcard_front": "葡萄胎診斷",
+      "flashcard_back": "高 β-hCG 加 snowstorm appearance 指向 gestational trophoblastic disease。",
+      "flashcard_summary": "葡萄胎診斷 -> 高 β-hCG 加 snowstorm appearance 指向 gestational trophoblastic disease。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n妊娠早期 progesterone 先由卵巢黃體分泌，約 7-9 週後發生 luteal-placental shift，胎盤逐漸成為主要來源。因此 8 週以後主要來自胎盤。\n\n【選項詳解】\n- A. 錯誤。卵巢黃體在妊娠早期重要，但之後主導角色逐漸轉給胎盤。\n- B. 錯誤。母親腎上腺不是妊娠 progesterone 的主要分泌來源。\n- C. 錯誤。胎兒腎上腺參與雌激素前驅物生成較重要，不是 progesterone 主要來源。\n- D. 正確。妊娠 8 週後胎盤成為 progesterone 的主要來源。\n\n【核心考點】\nLuteal-placental shift：妊娠早期黃體支撐，約 8 週後胎盤接手 progesterone。",
+      "key_point": "妊娠 8 週後 progesterone 主要由胎盤分泌。",
+      "flashcard_front": "黃體胎盤轉換",
+      "flashcard_back": "妊娠 8 週後 progesterone 主要由胎盤分泌。",
+      "flashcard_summary": "黃體胎盤轉換 -> 妊娠 8 週後 progesterone 主要由胎盤分泌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

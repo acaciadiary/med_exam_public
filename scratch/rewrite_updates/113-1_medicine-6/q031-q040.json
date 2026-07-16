@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-6.json",
+  "dataset_id": "113-1_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n產鉗或真空等操作性陰道生產須符合先決條件：子宮頸全開、已破水、胎頭位置與方位清楚、胎頭已銜接、骨盆足夠，且胎兒不宜有凝血或骨骼脆弱疾病。\n\n【選項詳解】\n- A. 適當。破水後才能安全評估並施行產鉗。\n- B. 不適當，故為本題應選。胎頭必須已 engage，未銜接代表失敗與傷害風險高。\n- C. 適當。子宮頸必須全開，否則會造成子宮頸與產道傷害。\n- D. 適當。胎兒若有凝血病變，器械助產會增加出血風險。\n\n【核心考點】\n產鉗前提包含 cervix fully dilated、ruptured membrane、engaged head、known position。",
+      "key_point": "產鉗生產前胎頭必須 engage 到骨盆。",
+      "flashcard_front": "產鉗生產條件",
+      "flashcard_back": "產鉗生產前胎頭必須 engage 到骨盆。",
+      "flashcard_summary": "產鉗生產條件 -> 產鉗生產前胎頭必須 engage 到骨盆。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\nProlonged latent phase 多先採休息、鎮痛、觀察與支持治療；非緊急情況不一定要積極催生。真正進入 active phase 後，才依 protraction 或 arrest 評估子宮收縮、胎頭骨盆不對稱與 oxytocin。\n\n【選項詳解】\n- A. 正確。傳統定義初產婦 latent phase 超過 20 小時可稱 prolonged latent phase。\n- B. 錯誤，故為本題應選。非緊急 prolonged latent phase 通常先支持與觀察，不是一般都加 oxytocin。\n- C. 正確。第一產程 protraction 可先觀察、支持並評估收縮與胎兒狀況。\n- D. 正確。第二產程 arrest 要評估 CPD；若無 CPD 且收縮不足，可考慮 oxytocin。\n\n【核心考點】\nLatent phase 延長不等於立即催生；active phase 或 second stage arrest 才更需積極評估介入。",
+      "key_point": "非緊急 prolonged latent phase 通常先支持觀察，不是一般直接加 oxytocin。",
+      "flashcard_front": "異常產程處置",
+      "flashcard_back": "非緊急 prolonged latent phase 通常先支持觀察，不是一般直接加 oxytocin。",
+      "flashcard_summary": "異常產程處置 -> 非緊急 prolonged latent phase 通常先支持觀察，不是一般直接加 oxytocin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n胎盤早期剝離典型為疼痛性陰道出血、子宮壓痛或板狀硬、胎兒窘迫，嚴重時可合併凝血異常。超音波敏感度有限，不能因看不到血塊就排除。無痛性大量出血反而較典型提示前置胎盤。\n\n【選項詳解】\n- A. 錯誤，故為本題應選。無痛性大量出血是前置胎盤的典型描述，不是胎盤早剝。\n- B. 正確。胎盤剝離會影響胎盤灌流，可造成胎心音減速或胎兒窘迫。\n- C. 正確。子宮明顯觸痛是早剝重要臨床線索。\n- D. 正確。超音波不敏感，能看到胎盤後血塊的比例不高，診斷主要靠臨床。\n\n【核心考點】\n早剝是痛性出血加子宮壓痛；前置胎盤是無痛性出血。",
+      "key_point": "無痛性大量陰道出血較支持前置胎盤，不是胎盤早期剝離。",
+      "flashcard_front": "胎盤早期剝離",
+      "flashcard_back": "無痛性大量陰道出血較支持前置胎盤，不是胎盤早期剝離。",
+      "flashcard_summary": "胎盤早期剝離 -> 無痛性大量陰道出血較支持前置胎盤，不是胎盤早期剝離。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n經產婦、規則宮縮後很快生產，屬急產情境。急產可能使子宮肌疲乏或協調不良，也可能伴隨軟產道傷害；在選項中最常考與最可能的產後風險是子宮收縮無力造成出血。\n\n【選項詳解】\n- A. 較不典型。神經受傷常與長時間壓迫、產鉗或姿勢有關，不是此題主要風險。\n- B. 正確。經產婦加快速分娩後，需警覺 uterine atony 與產後出血。\n- C. 較不典型。滯留性胎盤可造成出血，但題幹沒有第三產程延長或胎盤排出困難線索。\n- D. 較不典型。膀胱功能異常通常與產程延長、硬脊膜外麻醉或手術較相關。\n\n【核心考點】\n急產與經產婦產後要先想到產後出血，常見機轉包括 uterine atony。",
+      "key_point": "快速生產後常見風險為子宮收縮無力。",
+      "flashcard_front": "急產與產後出血",
+      "flashcard_back": "快速生產後常見風險為子宮收縮無力。",
+      "flashcard_summary": "急產與產後出血 -> 快速生產後常見風險為子宮收縮無力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n孕婦有前胎自發性早產史，這胎 22 週超音波圖示通常考短子宮頸或子宮頸閉鎖不全；有早產史且中孕期子宮頸明顯縮短時，最適合子宮頸環紮。\n\n【選項詳解】\n- A. 正確。有自發性早產史合併中孕期短子宮頸時，cerclage 是重要處置。\n- B. 錯誤。低劑量 aspirin 主要用於子癲前症高風險預防，不是治療短子宮頸。\n- C. 可用於部分短子宮頸情境，但有典型早產史且題目圖示指向需環紮時，cerclage 更符合。\n- D. 錯誤。安胎藥用於急性早產宮縮，不能矯正子宮頸結構性風險。\n\n【核心考點】\n前胎自發早產加中孕期短子宮頸，國考常選 cerclage。",
+      "key_point": "有早產史且 22 週短子宮頸，優先考慮子宮頸環紮。",
+      "flashcard_front": "早產史與子宮頸短",
+      "flashcard_back": "有早產史且 22 週短子宮頸，優先考慮子宮頸環紮。",
+      "flashcard_summary": "早產史與子宮頸短 -> 有早產史且 22 週短子宮頸，優先考慮子宮頸環紮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\nTOLAC 相較選擇性重複剖腹產，主要增加子宮裂開、子宮感染與輸血等風險；子宮切除是罕見嚴重事件，整體並非最明確增加的常見母體併發症。\n\n【選項詳解】\n- A. 會增加。TOLAC 若失敗或發生子宮裂開，輸血風險會上升。\n- B. 較不會增加，故為本題應選。Hysterectomy 罕見，並非 TOLAC 相對 ERCD 最典型增加項目。\n- C. 會增加。試產失敗後剖腹或產程延長，子宮內感染風險較高。\n- D. 會增加。子宮裂開或裂開前的 dehiscence 是 TOLAC 的核心風險。\n\n【核心考點】\nTOLAC 主要風險：uterine rupture/dehiscence、infection、transfusion；子宮切除不是最常見增加項。",
+      "key_point": "TOLAC 相較重複剖腹，子宮切除風險不是最典型增加的母體併發症。",
+      "flashcard_front": "TOLAC 母體風險",
+      "flashcard_back": "TOLAC 相較重複剖腹，子宮切除風險不是最典型增加的母體併發症。",
+      "flashcard_summary": "TOLAC 母體風險 -> TOLAC 相較重複剖腹，子宮切除風險不是最典型增加的母體併發症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n需要胰島素治療的妊娠糖尿病，通常依空腹與餐後血糖分配 basal 與 prandial insulin。餐後血糖與巨嬰風險密切相關，因此不能全部只用長效胰島素。\n\n【選項詳解】\n- A. 適當。起始總劑量常約 0.7-1.0 U/kg/day，再依孕期與血糖調整。\n- B. 不適宜，故為本題應選。妊娠糖尿病常需要餐前短效或速效胰島素控制餐後血糖，不應全選長效。\n- C. 適當。餐後高血糖與胎兒過度生長、巨嬰特別相關。\n- D. 適當。規律自我監測與治療調整可降低巨嬰等不良結果。\n\n【核心考點】\nGDM 胰島素治療要看空腹與餐後血糖，不能只靠長效胰島素。",
+      "key_point": "妊娠糖尿病不應全部使用長效胰島素，餐後血糖控制很重要。",
+      "flashcard_front": "妊娠糖尿病胰島素",
+      "flashcard_back": "妊娠糖尿病不應全部使用長效胰島素，餐後血糖控制很重要。",
+      "flashcard_summary": "妊娠糖尿病胰島素 -> 妊娠糖尿病不應全部使用長效胰島素，餐後血糖控制很重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n懷孕高血壓常用較安全藥物如 labetalol、nifedipine、hydralazine 或 methyldopa。ACE inhibitors 會影響胎兒腎臟發育並導致羊水過少等胎兒毒性，最不建議使用。\n\n【選項詳解】\n- A. 可用。部分腎上腺素受體阻斷劑如 labetalol 是孕期常用降壓藥。\n- B. 可用。Hydralazine 等血管擴張劑可用於特定孕期高血壓情境。\n- C. 可用。鈣離子通道阻斷劑如 nifedipine 常用於孕期降壓。\n- D. 禁用或最不建議。ACE inhibitors 會造成胎兒腎毒性、羊水過少與發育問題。\n\n【核心考點】\n孕期高血壓避開 ACEI/ARB；常用 labetalol、nifedipine、hydralazine、methyldopa。",
+      "key_point": "懷孕期間最不建議使用 ACE inhibitors。",
+      "flashcard_front": "妊娠高血壓用藥禁忌",
+      "flashcard_back": "懷孕期間最不建議使用 ACE inhibitors。",
+      "flashcard_summary": "妊娠高血壓用藥禁忌 -> 懷孕期間最不建議使用 ACE inhibitors。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\nICP 的母體症狀常為搔癢，實驗室以血清 bile acids 上升最具診斷與胎兒風險意義。胎兒不良預後與膽汁酸濃度最直接相關，而非單純 ALT、ALP 或 bilirubin。\n\n【選項詳解】\n- A. 正確。膽汁酸升高與胎兒窘迫、早產、死胎等風險最直接相關。\n- B. 錯誤。Bilirubin 可上升但不是胎兒不良預後最直接指標。\n- C. 錯誤。ALP 孕期本來可因胎盤來源而上升，臨床判讀價值有限。\n- D. 錯誤。ALT 可反映肝細胞受損，但胎兒風險評估主要看 bile acids。\n\n【核心考點】\nICP 胎兒風險看 maternal serum bile acids。",
+      "key_point": "妊娠肝內膽汁淤積最直接相關胎兒不良預後的是膽汁酸升高。",
+      "flashcard_front": "妊娠肝內膽汁淤積",
+      "flashcard_back": "妊娠肝內膽汁淤積最直接相關胎兒不良預後的是膽汁酸升高。",
+      "flashcard_summary": "妊娠肝內膽汁淤積 -> 妊娠肝內膽汁淤積最直接相關胎兒不良預後的是膽汁酸升高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n腹腔鏡適用於許多良性婦科疾病與部分早期病灶，如子宮外孕、不孕症評估治療與部分肌瘤。第二期子宮頸癌屬較進展期惡性腫瘤，通常不作為腹腔鏡微創手術的典型適應症。\n\n【選項詳解】\n- A. 適用。6 公分漿膜下肌瘤可依位置與醫師經驗考慮腹腔鏡肌瘤切除。\n- B. 適用。子宮外孕常可用腹腔鏡診斷與治療。\n- C. 適用。不孕症手術如沾黏、內膜異位症或輸卵管評估可採腹腔鏡。\n- D. 較不適用，故為本題應選。第二期子宮頸癌通常需依分期考慮放化療或根治性治療，不是一般腹腔鏡微創適應症。\n\n【核心考點】\n腹腔鏡常用於良性婦科與部分早期疾病；較進展子宮頸癌不屬典型微創適應症。",
+      "key_point": "第二期子宮頸癌較不適合一般腹腔鏡微創手術。",
+      "flashcard_front": "腹腔鏡適應症",
+      "flashcard_back": "第二期子宮頸癌較不適合一般腹腔鏡微創手術。",
+      "flashcard_summary": "腹腔鏡適應症 -> 第二期子宮頸癌較不適合一般腹腔鏡微創手術。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
