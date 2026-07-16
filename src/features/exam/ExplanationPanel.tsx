@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 import { randomEncouragement } from "../../lib/encouragements";
 import { loadDiseaseComparisons } from "../../lib/loadExamData";
 import { DiseaseComparison } from "./DiseaseComparison";
+import { ReportModal } from "../../components/ReportModal";
 import type { ExamQuestion } from "../../types/exam";
 import type { DiseaseComparisonGroup } from "../../types/disease";
 import type { AppTheme } from "../../components/ThemeToggle";
@@ -96,33 +97,9 @@ function inferExamId(question: ExamQuestion) {
   return question.id.match(/^(.+)_\d{3}$/)?.[1] || "未知考卷";
 }
 
-function getCurrentPageUrl() {
-  if (typeof window === "undefined") return "未知頁面";
-
-  return window.location.href;
-}
-
-function buildReportHref(question: ExamQuestion) {
-  const examId = inferExamId(question);
-  const subject = `回報醫考題目：${examId} 第 ${question.question_number} 題`;
-  const body = [
-    "我想回報這一題：",
-    "",
-    `考卷 id：${examId}`,
-    `題目 id：${question.id}`,
-    `題號：${question.question_number}`,
-    `目前頁面：${getCurrentPageUrl()}`,
-    "",
-    "回報類型：答案疑義 / 詳解錯誤 / 排版問題 / 其他",
-    "",
-    "問題描述：",
-  ].join("\n");
-
-  return `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-}
-
 export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
   const [comparisons, setComparisons] = useState<DiseaseComparisonGroup[]>([]);
+  const [isReportOpen, setIsReportOpen] = useState(false);
 
   useEffect(() => {
     loadDiseaseComparisons()
@@ -204,8 +181,6 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
             className:
               "border-[#f2d7a9] bg-[#fff8df] text-[#87693d] dark:border-[#725d32] dark:bg-[#40341f] dark:text-[#f1d58b]",
           };
-  const reportHref = buildReportHref(question);
-
   return (
     <>
       <div className="mt-6 box-border w-full min-w-0 max-w-full overflow-hidden rounded-[1.1rem] border border-[#d8eadf] bg-[#effaf5]/82 p-4 shadow-sm dark:border-[#3f6d5e] dark:bg-[#182f2a]/90 sm:p-5">
@@ -231,15 +206,16 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
                 待優化
               </span>
             )}
-            <a
-              href={reportHref}
+            <button
+              type="button"
+              onClick={() => setIsReportOpen(true)}
               className="inline-flex items-center gap-1.5 rounded-full border border-[#efd9d0] bg-white/70 px-3 py-1 text-xs font-semibold text-[#6f5b50] transition hover:border-[#f1aac8] hover:bg-[#fff0f6] hover:text-[#9a496b] dark:border-white/10 dark:bg-[#2b2430]/72 dark:text-[#dccbd3] dark:hover:bg-[#472431]"
               aria-label={`回報第 ${question.question_number} 題`}
               title="回報答案疑義、詳解錯誤或排版問題"
             >
               <Mail size={14} />
               回報此題
-            </a>
+            </button>
           </div>
         </div>
         <div className="mobile-safe-text mt-4 rounded-[0.9rem] border border-[#d8eadf] bg-white/64 px-4 py-3 text-sm font-semibold leading-6 text-[#4c806e] dark:border-[#3f6d5e] dark:bg-[#11241f] dark:text-[#b8efd9]">
@@ -260,6 +236,12 @@ export function ExplanationPanel({ question, theme }: ExplanationPanelProps) {
           theme={theme}
         />
       ))}
+
+      <ReportModal
+        isOpen={isReportOpen}
+        onClose={() => setIsReportOpen(false)}
+        question={question}
+      />
     </>
   );
 }

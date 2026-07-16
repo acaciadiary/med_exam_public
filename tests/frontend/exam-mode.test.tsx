@@ -59,7 +59,9 @@ describe("QuestionCard", () => {
     expect(screen.getByText("此題重點為 free water deficit 的計算。")).toBeInTheDocument();
   });
 
-  it("shows content status and a prefilled report link", () => {
+  it("shows content status and opens the report form", async () => {
+    const user = userEvent.setup();
+
     render(
       <QuestionCard
         question={{ ...question, review_status: "ai_generated" }}
@@ -72,14 +74,11 @@ describe("QuestionCard", () => {
 
     expect(screen.getByText("待優化")).toBeInTheDocument();
 
-    const reportLink = screen.getByRole("link", { name: "回報第 1 題" });
-    const href = reportLink.getAttribute("href") || "";
+    await user.click(screen.getByRole("button", { name: "回報第 1 題" }));
 
-    expect(href).toContain("mailto:");
-    expect(decodeURIComponent(href)).toContain("考卷 id：115-1_medicine-1");
-    expect(decodeURIComponent(href)).toContain("題目 id：115-1_medicine-1_001");
-    expect(decodeURIComponent(href)).toContain("題號：1");
-    expect(decodeURIComponent(href)).toContain("目前頁面：");
+    expect(screen.getByRole("heading", { name: "回報題目問題" })).toBeInTheDocument();
+    expect(screen.getByDisplayValue("115年第1次 醫學一 - 第 1 題")).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: "送出回報" })).toBeDisabled();
   });
 });
 
