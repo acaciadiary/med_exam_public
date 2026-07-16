@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-1.json",
+  "dataset_id": "113-1_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n冠狀動脈受局部代謝調控很強。Adenosine、NO 與心肌代謝率上升都促進舒張；心跳變慢使耗氧下降，代謝性舒張訊號減少，較可能相對收縮。\n\n【選項詳解】\n- A. adenosine 是冠脈強力局部舒張因子，濃度增加會擴張而非收縮。\n- B. 心跳速率減慢使心肌耗氧與代謝產物下降，冠脈局部舒張驅動降低，最可能造成相對收縮。\n- C. nitric oxide 會活化 cGMP 路徑造成血管平滑肌舒張，不會引起收縮。\n- D. 心臟代謝率增加會產生更多代謝性舒張因子，使冠狀動脈擴張以增加供血。\n\n【核心考點】\n冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "key_point": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "flashcard_front": "下列那一因子最可能引起冠狀動脈(coronary artery)血管收縮?",
+      "flashcard_back": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "flashcard_summary": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n吸入空氣的氧分壓最高；肺泡氣因持續與血液交換並含二氧化碳，氧分壓較低；呼出氣混合了解剖死腔空氣與肺泡氣，因此介於兩者之間。\n\n【選項詳解】\n- A. 呼出氣不是最低，因為它混合了未參與氣體交換的死腔空氣，氧分壓高於純肺泡氣。\n- B. inspired air > expired air > alveolar air 符合死腔混合與肺泡氣交換後氧分壓較低的邏輯，故正確。\n- C. 吸入氣與肺泡氣不相等；肺泡氣氧分壓因交換與 CO2 存在而較低。\n- D. 呼出氣與肺泡氣不相等，呼出氣混有死腔空氣，所以氧分壓較高。\n\n【核心考點】\n氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "key_point": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "flashcard_front": "某健康者在海平面呼吸一般空氣,正常情況下,比較各處氧分壓( )的大小關係,下列排序何者正確?  1吸入的氣體(inspired air,在鼻腔中測量) 2肺泡",
+      "flashcard_back": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "flashcard_summary": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nCO2 可穿過血腦障壁刺激中樞化學感受器；題目給的碳酸酐酶抑制劑無法穿過血腦障壁，因此兩組中樞化學感受器所受直接影響相同。\n\n【選項詳解】\n- A. 周邊碳酸酐酶被抑制會影響 CO2/H+ 轉換與周邊化學感受器反應，兩組肺泡通氣量不一定相同。\n- B. 實驗組周邊化學感受器未必更強；碳酸酐酶受抑制通常會減慢局部 H+ 生成，不能穩定判為更強。\n- C. 舌咽神經主要傳遞頸動脈體訊號，題幹選項談控制組較低並不符合周邊藥物效應的穩定判斷。\n- D. 藥物不進入中樞，CO2 仍可進入腦脊髓液，因此兩組 central chemoreceptor 活性相同是最穩定答案。\n\n【核心考點】\n不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "key_point": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "flashcard_front": "已知某藥物會抑制碳酸酐酶(carbonic anhydrase),但是無法穿透血腦障壁(blood-brain barrier)。  實驗中,大白鼠分為兩組,控",
+      "flashcard_back": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "flashcard_summary": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\nSecretin 由十二指腸 S cells 受酸刺激分泌，作用於胰臟管細胞與膽道上皮，促進 bicarbonate-rich fluid 分泌以中和胃酸。\n\n【選項詳解】\n- A. secretin 刺激 pancreatic duct cells 分泌 HCO3-，協助十二指腸酸鹼中和，敘述正確。\n- B. secretin 不是胰臟製造，也不是促進胃酸分泌；它通常抑制胃酸並促進中和。\n- C. secretin 主要經 Gs/cAMP 促進 bicarbonate 分泌，不是抑制 Gq 以促進胃酸。\n- D. 氯離子通道可參與分泌液電解質運作，但此選項未指出 secretin 的主要標的與 bicarbonate 分泌，不如 A 完整。\n\n【核心考點】\nSecretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "key_point": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "flashcard_front": "下列關於胰泌素(secretin)的敘述,何者正確?",
+      "flashcard_back": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "flashcard_summary": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n小腸吸收單醣：glucose 與 galactose 由頂端膜 SGLT1 伴隨 Na+ 吸收；fructose 由 GLUT5；lactose 必須先被 lactase 分解。\n\n【選項詳解】\n- A. 小腸 glucose 主要走 SGLT1；SGLT2 主要在腎近曲小管負責葡萄糖再吸收。\n- B. fructose 主要由 GLUT5 吸收；GLUT4 是胰島素敏感的肌肉與脂肪細胞轉運蛋白。\n- C. galactose 與 glucose 一樣主要經 SGLT1 與 Na+ 共同運輸進入腸細胞，故正確。\n- D. lactose 是雙醣，需先分解為 glucose 與 galactose；GLUT5 吸收的是 fructose。\n\n【核心考點】\n小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "key_point": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "flashcard_front": "對於腸細胞(enterocyte)吸收的糖類物質與方式的敘述,下列何者最正確?",
+      "flashcard_back": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "flashcard_summary": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nHenle loop 上行粗支的頂端膜主要使用 Na+-K+-2Cl- cotransporter 進行鈉再吸收，這也是 loop diuretics 的抑制標的。\n\n【選項詳解】\n- A. Na+-K+-2Cl- cotransporter（NKCC2）位於上行粗支頂端膜，是本題正確答案。\n- B. Na+-glucose cotransporter 主要在近曲小管回收葡萄糖，不是上行粗支主力。\n- C. Na+-phosphate cotransporter 主要在近曲小管參與磷酸鹽再吸收。\n- D. Na+-Cl- cotransporter 是遠曲小管代表轉運子，為 thiazide 類利尿劑標的。\n\n【核心考點】\n上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "key_point": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "flashcard_front": "在亨利氏彎管上行枝粗管的管腔膜(apical membrane)上,最主要以何種同向運輸子(cotransporter)進  行鈉的再吸收?",
+      "flashcard_back": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "flashcard_summary": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n限水會提高血漿滲透壓，刺激 ADH 分泌；ADH 增加集合管水通透性，使水回收增加、尿液濃縮，尿滲透壓上升。\n\n【選項詳解】\n- A. 限水後 ADH 上升且尿液被濃縮，尿滲透壓與血漿 ADH 都增加，故正確。\n- B. ADH 增加會讓尿液濃縮，不會使尿滲透壓下降。\n- C. 尿滲透壓雖會增加，但 ADH 不會減少；限水會刺激 ADH 分泌。\n- D. 限水不是水負荷狀態，不會讓尿滲透壓與 ADH 同時下降。\n\n【核心考點】\n限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "key_point": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "flashcard_front": "人在限制喝水(water deprivation)4小時之後,尿液滲透壓及血漿antidiuretic hormone(ADH)濃度較  開始限水時基礎值(ba",
+      "flashcard_back": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "flashcard_summary": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n腎上腺網狀帶分泌 DHEA、DHEAS 等 androgen，主要受 ACTH 影響；gonadotropins 主要調控性腺，不是腎上腺雄性素主調控。\n\n【選項詳解】\n- A. 腎上腺雄性素主要受 ACTH 調控，而非 LH/FSH 等 gonadotropins，因此此敘述最不適當。\n- B. DHEAS 常在年輕成人約 20 歲左右達高峰，之後隨年齡下降，敘述可接受。\n- C. 青春期前男孩若腎上腺 androgen 過多，可造成假性性早熟或男性化表現。\n- D. 成年女性 androgen 過多可造成多毛、痤瘡、月經異常等腎上腺性徵異常表現。\n\n【核心考點】\n腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "key_point": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "flashcard_front": "有關腎上腺皮質分泌雄性素(androgen)作用的敘述,下列何者最不適當?",
+      "flashcard_back": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "flashcard_summary": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n急性壓力同時啟動 HPA axis 與交感-腎上腺髓質系統，使 ACTH、glucocorticoid 與 catecholamines 相關反應上升。\n\n【選項詳解】\n- A. 壓力刺激會增加 CRH/ACTH，並同步活化交感神經，是最完整正確的敘述。\n- B. 對兒茶酚胺心血管作用具有 permissive action 的主要是 glucocorticoids，不是 ACTH 本身。\n- C. 脂肪分解在急性壓力中主要受 catecholamines 等快速訊號驅動；glucocorticoid 不是唯一或主要即刻原因。\n- D. 交感神經是急性壓力反應核心，切除後不可能保有完整壓力反應。\n\n【核心考點】\n急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "key_point": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "flashcard_front": "身體對抗急性壓力反應,下列何者敘述最為適當?",
+      "flashcard_back": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "flashcard_summary": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n甲狀腺素促進心臟對兒茶酚胺反應、促進腦發育並增加脂肪分解；過量時在肌肉常造成蛋白分解與肌肉消耗。\n\n【選項詳解】\n- A. 甲狀腺素會增加 beta-adrenergic responsiveness，使心臟對兒茶酚胺反應上升，正確。\n- B. 甲狀腺素過多時常增加肌肉蛋白分解，造成肌無力與消耗；概括為增加蛋白質合成最不恰當。\n- C. 甲狀腺素對胎兒與嬰幼兒中樞神經發育很重要，敘述正確。\n- D. 甲狀腺素可促進脂肪分解與基礎代謝，敘述正確。\n\n【核心考點】\n甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "key_point": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "flashcard_front": "有關甲狀腺素對各組織器官的作用,下列何者最不恰當?",
+      "flashcard_back": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "flashcard_summary": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

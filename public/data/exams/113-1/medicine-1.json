@@ -166,23 +166,23 @@
         "D": "1245"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n鼓膜（tympanic membrane）分隔外耳道與中耳腔，其兩側表面具有不同的感覺神經支配。這是一道經典的體感覺支配題，重點在於區分一般體感覺（touch, pain）與特殊感覺（special sense, 聽覺與平衡）。\n\n【選項詳解】\n- 1 三叉神經（trigeminal nerve）：主要是下頷支（V3）發出的耳顳神經（auriculotemporal nerve），支配鼓膜外側面外部的一般體感覺，參與支配。\n- 2 顏面神經（facial nerve）：有少數體感覺纖維支配鼓膜外側面的部分區域，參與支配。\n- 3 前庭耳蝸神經（vestibulocochlear nerve）：專司特殊感覺（special somatic afferent），包括前庭系統的平衡覺與耳蝸系統的聽覺，不負責外耳、中耳或鼓膜的一般體感覺（觸覺、痛覺），故必須排除。\n- 4 舌咽神經（glossopharyngeal nerve）：其分支鼓室神經（tympanic nerve）在鼓室形成鼓室叢（tympanic plexus），支配鼓膜內側面的一般體感覺，參與支配。\n- 5 迷走神經（vagus nerve）：其耳支（Arnold's nerve）支配部分外耳道及鼓膜外側面的一般體感覺，參與支配。\n綜合以上，排除 3 後，參與支配一般體感覺的神經為 1、2、4、5，故選 D。\n\n【核心考點】\n鼓膜的體感覺支配：外側面由 CN V3（耳顳神經）和 CN X（耳支）為主，少部分由 CN VII 支配；內側面由 CN IX（經鼓室叢）支配。CN VIII 只負責聽覺和平衡，不支配鼓膜體感覺。",
-      "key_point": "鼓膜的一般體感覺由三叉神經（CN V3）、顏面神經（CN VII）、舌咽神經（CN IX）與迷走神經（CN X）共同支配，前庭耳蝸神經（CN VIII）僅負責特殊感覺（聽覺、平衡）。",
-      "flashcard_summary": "鼓膜一般感覺 / 排除 CN VIII -> 外側面由 CN V3、X、少許 VII 支配；內側面由 CN IX 支配；CN VIII 無一般體感覺功能",
+      "explanation": "【題幹解析】\n題目問鼓膜的一般體感覺支配，重點是排除第 VIII 對腦神經。鼓膜外側面主要由三叉神經 V3 的耳顳神經與迷走神經耳支支配，部分可由顏面神經支配；內側面由舌咽神經經鼓室叢支配。\n\n【選項詳解】\n- A. 123 包含三叉神經與顏面神經，但錯把前庭耳蝸神經列入，且漏掉舌咽神經與迷走神經，因此不正確。\n- B. 1234 雖包含舌咽神經，但仍錯列第 VIII 對前庭耳蝸神經，且漏掉迷走神經，因此不正確。\n- C. 2345 包含顏面、舌咽與迷走神經，但仍錯列前庭耳蝸神經，且漏掉三叉神經 V3 的耳顳神經，因此不正確。\n- D. 1245 排除了只負責聽覺與平衡的前庭耳蝸神經，保留三叉、顏面、舌咽與迷走神經，符合鼓膜體感覺支配。\n\n【核心考點】\n鼓膜體感覺支配為 CN V3、少部分 CN VII、CN IX 與 CN X；CN VIII 負責聽覺與平衡，不支配鼓膜體感覺。",
+      "key_point": "鼓膜體感覺支配為 CN V3、少部分 CN VII、CN IX 與 CN X；CN VIII 負責聽覺與平衡，不支配鼓膜體感覺。",
+      "flashcard_summary": "鼓膜體感覺支配為 CN V3、少部分 CN VII、CN IX 與 CN X；CN VIII 負責聽覺與平衡，不支配鼓膜體感覺。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "鼓膜感覺支配 / 體感覺神經 / CN VIII 的角色 / 內外面支配對照",
-      "flashcard_back": "鼓膜一般體感覺由三叉（V3）、顏面（VII）、舌咽（IX，支配內側）、迷走（X）共同支配。前庭耳蝸神經（VIII）只管聽覺與平衡，不支配一般感覺，看到直接排除。",
+      "flashcard_front": "鼓膜(tympanic membrane)的體感覺由下列那些神經支配?1三叉神經(trigeminal nerve) 2顏面神經  (facial nerve)",
+      "flashcard_back": "鼓膜體感覺支配為 CN V3、少部分 CN VII、CN IX 與 CN X；CN VIII 負責聽覺與平衡，不支配鼓膜體感覺。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T03:05:09.766951+00:00"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_007",
@@ -369,23 +369,23 @@
         "D": "後大腦動脈(posterior cerebral artery)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n翼點（pterion）是額骨、頂骨、顳骨和蝶骨大翼在顱側面的「H」形骨縫交界處。此處骨質最為薄弱，且深面有腦膜中動脈（middle meningeal artery）的前支經過。翼點骨折極易撕裂該動脈，導致血液集聚在硬腦膜與顱骨之間，形成硬腦膜外血腫（epidural hematoma, EDH），臨床上常表現出清醒期（lucid interval）。\n\n【選項詳解】\n- A. 硬腦膜靜脈竇（dural sinus）破裂通常與矢狀下/上竇或橫竇等特定骨板受損相關，且多引發硬腦膜下或特定部位血腫，並非翼點受撞擊時最典型破裂的血管，故此選項錯誤。\n- B. 正確。腦膜中動脈（來自上頜動脈）前支緊貼翼點深面的骨溝走行。翼點處受創骨折時，骨折片易刺破此動脈，引起高壓的動脈血快速噴湧，數小時內即壓迫腦部引發急性硬腦膜外血腫（EDH）。\n- C. 前大腦動脈（anterior cerebral artery）與 D. 後大腦動脈（posterior cerebral artery）皆位於蛛網膜下腔，若破裂會導致蛛網膜下腔出血（SAH），與硬腦膜外血腫無關，故選項錯誤。\n\n【核心考點】\n翼點（pterion）解剖：額、頂、顳、蝶骨交界點，深面有腦膜中動脈（MMA）前支。損傷後典型後果為硬腦膜外血腫（EDH），特徵是「lucid interval」（短暫清醒期）。",
-      "key_point": "翼點（pterion）骨折最易損傷深面的腦膜中動脈（middle meningeal artery），導致硬腦膜外血腫（EDH）。",
-      "flashcard_summary": "翼點外傷 / MMA 破裂 -> 腦膜中動脈前支受損導致急性硬腦膜外血腫（EDH），常有短暫清醒期（lucid interval）",
+      "explanation": "【題幹解析】\n翼點（pterion）骨質薄，深面有腦膜中動脈前支經過。側頭部撞擊後數小時出現硬腦膜外血腫，最典型就是腦膜中動脈破裂。\n\n【選項詳解】\n- A. 硬腦膜靜脈竇受傷可造成靜脈性出血，但翼點撞擊後典型硬腦膜外血腫不是 dural sinus 破裂。\n- B. 腦膜中動脈前支貼近翼點深面，骨折後易破裂，造成動脈性硬腦膜外血腫與 lucid interval，故正確。\n- C. 前大腦動脈位於顱內蛛網膜下腔，破裂較會造成蛛網膜下腔或腦內相關出血，不是翼點 EDH 典型血管。\n- D. 後大腦動脈供應枕葉與下顳葉等區域，位置與翼點外傷導致硬腦膜外血腫的典型機轉不符。\n\n【核心考點】\n翼點骨折最怕腦膜中動脈破裂，造成硬腦膜外血腫。",
+      "key_point": "翼點骨折最怕腦膜中動脈破裂，造成硬腦膜外血腫。",
+      "flashcard_summary": "翼點骨折最怕腦膜中動脈破裂，造成硬腦膜外血腫。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "翼點骨折 / 腦膜中動脈 / 硬腦膜外血腫 / lucid interval / 來源血管",
-      "flashcard_back": "翼點（pterion）骨板薄，深面有腦膜中動脈（MMA）經過。受創骨折易刺破 MMA 導致硬腦膜外血腫（EDH）。大腦前/後動脈破裂則導致蛛網膜下腔出血（SAH）。",
+      "flashcard_front": "頭部外側近翼點(pterion)處受到撞擊,數小時後發生硬腦膜外血腫,最可能是下列那一血管破裂?",
+      "flashcard_back": "翼點骨折最怕腦膜中動脈破裂，造成硬腦膜外血腫。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T03:05:40.318348+00:00"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_014",
@@ -514,23 +514,23 @@
         "D": "十二指腸上升段(ascending part of duodenum)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n膽汁與胰液的共同排放路徑是人體消化解剖的核心。膽總管（common bile duct）自膽囊與肝臟下行，與主胰管（main pancreatic duct / Wirsung's duct）在十二指腸壁內匯合，膨大形成肝胰壺腹（ampulla of Vater），其周圍有 Oddi 括約肌包繞，最終開口於十二指腸的特定壁段。\n\n【選項詳解】\n- A. 十二指腸上段（superior part / 第一部）：長約 5 cm，主要為膽囊與肝十二指腸韌帶鄰近處，無膽管或胰管開口，故此選項錯誤。\n- B. 正確。十二指腸下降段（descending part / 第二部）長約 7-10 cm，在其後內側壁上有一隆起構造稱為大十二指腸乳頭（major duodenal papilla）。膽總管與主胰管在此處共同開口。若有副胰管（accessory pancreatic duct），則開口於大乳頭稍上方的小十二指腸乳頭（minor duodenal papilla）。\n- C. 十二指腸水平段（horizontal part / 第三部）與 D. 十二指腸上升段（ascending part / 第四部）均位於遠端，與空腸相接，無主要膽胰管開口，故此選項錯誤。\n\n【核心考點】\n十二指腸的解剖分部與地標：\n1. 第一部（上段）：易發生十二指腸潰瘍的球部（bulbar part）。\n2. 第二部（下降段）：大十二指腸乳頭（膽總管與主胰管開口）、小十二指腸乳頭（副胰管開口）。",
-      "key_point": "膽總管（bile duct）與主胰管（main pancreatic duct）匯合後，共同開口於十二指腸下降段（descending part）的大十二指腸乳頭。",
-      "flashcard_summary": "膽胰管開口定位 / 十二指腸 -> 共同開口於十二指腸下降段（第二部）的大十二指腸乳頭",
+      "explanation": "【題幹解析】\n主胰管與膽總管通常在十二指腸壁內匯合成肝胰壺腹，經大十二指腸乳頭開口；大十二指腸乳頭位於十二指腸下降段。\n\n【選項詳解】\n- A. 十二指腸上段接近幽門與球部，常與潰瘍相關，但不是膽總管與主胰管共同開口處。\n- B. 十二指腸下降段內側壁有大十二指腸乳頭，膽總管與主胰管共同開口於此，故正確。\n- C. 十二指腸水平段位於較遠端，與 SMA/SMV 前方通過等解剖關係較相關，沒有主要膽胰管開口。\n- D. 十二指腸上升段接近十二指腸空腸曲與 Treitz ligament，不是肝胰壺腹開口處。\n\n【核心考點】\n膽總管與主胰管共同開口於十二指腸下降段的大十二指腸乳頭。",
+      "key_point": "膽總管與主胰管共同開口於十二指腸下降段的大十二指腸乳頭。",
+      "flashcard_summary": "膽總管與主胰管共同開口於十二指腸下降段的大十二指腸乳頭。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "膽胰管共同開口 / 肝胰壺腹 / 大十二指腸乳頭 / 十二指腸下降段 / 膽總管",
-      "flashcard_back": "膽總管與主胰管匯合成肝胰壺腹，開口於十二指腸下降段（第二部）的大十二指腸乳頭。副胰管則開口於其上方的小十二指腸乳頭。",
+      "flashcard_front": "主胰管(main pancreatic duct)及膽管(bile duct)會共同開口於何處?",
+      "flashcard_back": "膽總管與主胰管共同開口於十二指腸下降段的大十二指腸乳頭。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T03:05:40.318348+00:00"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_019",
@@ -543,23 +543,23 @@
         "D": "腹橫肌腱膜(aponeurosis of transversus abdominis)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n腹股溝管（inguinal canal）是腹前壁下部一條斜行的肌肉與腱膜間裂隙。管內有精索（男性）或子宮圓韌帶（女性）通過。腹股溝管的內口稱為深環，外口稱為淺環。掌握這兩個環口在腹壁各層次中的定位是解剖與臨床疝氣診斷的基石。\n\n【選項詳解】\n- A. 正確。腹股溝深環（deep inguinal ring）位於腹股溝韌帶中點上方約 1.25 cm 處，是腹橫筋膜（transversalis fascia）向外突起包裹精索/子宮圓韌帶所形成的一個卵圓形孔洞。精索由此環進入腹股溝管。\n- B. 腹內斜肌（internal oblique muscle）與 D. 腹橫肌（transversus abdominis）的下緣游離呈弓狀，跨過精索上方，並向後融合形成聯合腱（conjoint tendon），這兩處均無深環的開口結構，故選項錯誤。\n- C. 腹外斜肌腱膜（aponeurosis of external oblique muscle）在恥骨結節外上方裂開形成一個三角形孔洞，即為腹股溝淺環（superficial inguinal ring / 外環），並非深環，故此選項錯誤。\n\n【核心考點】\n腹股溝管的邊界與環口：\n1. 內口（深環）：位於腹橫筋膜（transversalis fascia），且位在腹壁下動脈（inferior epigastric artery）的外側。\n2. 外口（淺環）：位於腹外斜肌腱膜（aponeurosis of external oblique muscle），位在恥骨結節上方。",
-      "key_point": "腹股溝深環（deep inguinal ring）是腹橫筋膜（transversalis fascia）上的卵圓形孔洞；腹股溝淺環（superficial inguinal ring）則是腹外斜肌腱膜的開口。",
-      "flashcard_summary": "腹股溝管環口定位 -> 深環（內口）在腹橫筋膜；淺環（外口）在腹外斜肌腱膜",
+      "explanation": "【題幹解析】\n腹股溝管有兩個環口：深環是腹橫筋膜的開口，淺環是腹外斜肌腱膜的開口。深環位於腹壁下動脈外側，是間接腹股溝疝的入口。\n\n【選項詳解】\n- A. 腹股溝深環是 transversalis fascia 向外形成的開口，精索或子宮圓韌帶由此進入腹股溝管，故正確。\n- B. 腹內斜肌參與腹股溝管上壁與部分精索包被，但不形成深環。\n- C. 腹外斜肌腱膜形成的是腹股溝淺環，不是深環。\n- D. 腹橫肌腱膜可參與聯合腱與腹股溝管後壁補強，但不是深環所在層。\n\n【核心考點】\n腹股溝深環在腹橫筋膜；腹股溝淺環在腹外斜肌腱膜。",
+      "key_point": "腹股溝深環在腹橫筋膜；腹股溝淺環在腹外斜肌腱膜。",
+      "flashcard_summary": "腹股溝深環在腹橫筋膜；腹股溝淺環在腹外斜肌腱膜。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "腹股溝管環口 / 腹股溝深環 / 腹股溝淺環 / 腹橫筋膜 / 腹外斜肌腱膜",
-      "flashcard_back": "腹股溝深環（內環）是腹橫筋膜的開口，位於腹壁下血管外側（間接疝氣入口）。腹股溝淺環（外環）是腹外斜肌腱膜的三角形裂隙，位於恥骨結節上方。",
+      "flashcard_front": "腹股溝深環(deep inguinal ring)位於下列何結構?",
+      "flashcard_back": "腹股溝深環在腹橫筋膜；腹股溝淺環在腹外斜肌腱膜。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T03:05:40.318348+00:00"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_020",
@@ -572,23 +572,23 @@
         "D": "下胰十二指腸動脈(inferior pancreaticoduodenal artery)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n腹腔內臟器的血液供應主要來自腹主動脈的三大分支：腹腔幹（celiac trunk）、上腸繫膜動脈（superior mesenteric artery, SMA）與下腸繫膜動脈（inferior mesenteric artery, IMA）。本題測驗胰臟與十二指腸交界處的雙重血管來源吻合環。\n\n【選項詳解】\n- A. 前上胰十二指腸動脈（anterior superior pancreaticoduodenal artery）與 B. 後上胰十二指腸動脈（posterior superior pancreaticoduodenal artery）：兩者皆源自胃十二指腸動脈（gastroduodenal artery, GDA）。GDA 為總肝動脈的分支，發源自腹腔幹（celiac trunk）系統，故選項錯誤。\n- C. 左結腸動脈（left colic artery）：供應降結腸，是下腸繫膜動脈（IMA）的分支，故此選項錯誤。\n- D. 正確。下胰十二指腸動脈（inferior pancreaticoduodenal artery）是上腸繫膜動脈（SMA）發出的第一個分支，分為前支與後支，分別與前上、後上胰十二指腸動脈在胰頭與十二指腸凹槽中吻合，形成豐富的側支循環。此吻合代表了前腸（foregut, 腹腔幹供血）與中腸（midgut, SMA 供血）在胚胎發育與血供上的交界點。\n\n【核心考點】\n胰十二指腸動脈吻合環與胚胎發育：\n1. 上胰十二指腸動脈（前/後）：來自腹腔幹（Celiac trunk）→ 胃十二指腸動脈（GDA），供應前腸衍生物。\n2. 下胰十二指腸動脈（前/後）：來自上腸繫膜動脈（SMA），供應中腸衍生物。",
-      "key_point": "下胰十二指腸動脈（inferior pancreaticoduodenal artery）是上腸繫膜動脈（SMA）的分支；前/後上胰十二指腸動脈則來自胃十二指腸動脈（腹腔幹分支）。",
-      "flashcard_summary": "胰十二指腸血管來源 -> 上胰十二指腸動脈來自腹腔幹（GDA分支）；下胰十二指腸動脈來自上腸繫膜動脈（SMA分支）",
+      "explanation": "【題幹解析】\n胰頭與十二指腸血供形成前腸與中腸的吻合。上胰十二指腸動脈來自胃十二指腸動脈，屬腹腔幹系統；下胰十二指腸動脈來自上腸繫膜動脈。\n\n【選項詳解】\n- A. 前上胰十二指腸動脈來自胃十二指腸動脈，屬腹腔幹系統，不是 SMA 直接分支。\n- B. 後上胰十二指腸動脈同樣來自胃十二指腸動脈，不是 SMA 分支。\n- C. 左結腸動脈是下腸繫膜動脈分支，供應降結腸等後腸相關區域。\n- D. 下胰十二指腸動脈由上腸繫膜動脈發出，並與上胰十二指腸動脈形成吻合，故正確。\n\n【核心考點】\nSMA 分支包含 inferior pancreaticoduodenal artery；superior pancreaticoduodenal arteries 來自 GDA。",
+      "key_point": "SMA 分支包含 inferior pancreaticoduodenal artery；superior pancreaticoduodenal arteries 來自 GDA。",
+      "flashcard_summary": "SMA 分支包含 inferior pancreaticoduodenal artery；superior pancreaticoduodenal arteries 來自 GDA。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "下胰十二指腸動脈 / 上胰十二指腸動脈 / SMA 分支 / 腹腔幹分支 / 前中腸交界",
-      "flashcard_back": "下胰十二指腸動脈是上腸繫膜動脈（SMA）的第一分支。前/後上胰十二指腸動脈則來自腹腔幹分支（胃十二指腸動脈）。此二血管群吻合代表前腸與中腸的交界。",
+      "flashcard_front": "下列何者是上腸繫膜動脈(superior mesenteric artery)的分支?",
+      "flashcard_back": "SMA 分支包含 inferior pancreaticoduodenal artery；superior pancreaticoduodenal arteries 來自 GDA。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "antigravity-direct",
-      "explanation_generated_at": "2026-06-26T03:05:40.318348+00:00"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_021",
@@ -891,23 +891,23 @@
         "D": "脛骨(tibia)、距骨(talus)與跟骨(calcaneus)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「踝關節(ankle joint)由下列那三塊骨頭共同構成?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：踝關節是脛骨遠端、內踝與腓骨外踝共同夾住距骨滑車所形成的滑膜關節，因此答案為脛骨、腓骨與距骨。跟骨主要與距骨形成距下關節，不是踝關節的直接構成骨。這題常見陷阱是把跟骨與距骨混在一起。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「股骨(femur)、脛骨(tibia)與腓骨(fibula)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「脛骨(tibia)、腓骨(fibula)與跟骨(calcaneus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「脛骨(tibia)、腓骨(fibula)與距骨(talus)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「脛骨(tibia)、距骨(talus)與跟骨(calcaneus)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n踝關節由脛骨、腓骨與距骨共同構成踝穴與距骨滑車的關節面。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "踝關節由脛骨、腓骨與距骨共同構成踝穴與距骨滑車的關節面。",
-      "flashcard_summary": "踝關節 / 踝穴 / talus -> 由脛骨、腓骨與距骨共同構成",
+      "explanation": "【題幹解析】\n題目考踝關節的骨性構成。真正的踝關節是脛骨遠端與腓骨外踝形成踝穴，和距骨滑車相接；跟骨主要參與距下關節，不是踝關節本體。\n\n【選項詳解】\n- A. 股骨屬大腿骨，參與髖關節與膝關節，不參與踝關節，因此錯誤。\n- B. 脛骨與腓骨正確，但跟骨是足跟骨，主要與距骨形成距下關節，不能取代距骨。\n- C. 脛骨、腓骨與距骨共同形成踝穴與距骨滑車的關節面，是踝關節的正確組合。\n- D. 脛骨與距骨正確，但漏掉腓骨外踝，且把跟骨列入踝關節本體，因此錯誤。\n\n【核心考點】\n踝關節由脛骨、腓骨與距骨形成；跟骨屬距下關節的關鍵骨，不是踝關節三骨之一。",
+      "key_point": "踝關節由脛骨、腓骨與距骨形成；跟骨屬距下關節的關鍵骨，不是踝關節三骨之一。",
+      "flashcard_summary": "踝關節由脛骨、腓骨與距骨形成；跟骨屬距下關節的關鍵骨，不是踝關節三骨之一。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "踝關節 / 踝穴 / 內外踝 / talus",
-      "flashcard_back": "看到踝關節先想到 tibia 與 fibula 夾住 talus 的滑車。跟骨屬距下關節，不直接列入踝關節構成。",
+      "flashcard_front": "踝關節(ankle joint)由下列那三塊骨頭共同構成?",
+      "flashcard_back": "踝關節由脛骨、腓骨與距骨形成；跟骨屬距下關節的關鍵骨，不是踝關節三骨之一。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_032",
@@ -920,23 +920,23 @@
         "D": "內胚層(endoderm)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「胚胎的胚內體腔(intraembryonic coelom),最早出現在下列何者?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：外側中胚層會裂開形成體壁中胚層與臟壁中胚層，中間的空隙就是胚內體腔。軸旁中胚層主要形成體節，中間中胚層偏向泌尿生殖系統，內胚層則不形成此體腔。這是胚層衍生物的基本配對題。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「軸旁中胚層(paraxial mesoderm)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「中間中胚層(intermediate mesoderm)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「外側中胚層(lateral mesoderm)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「內胚層(endoderm)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n胚內體腔最早出現在外側中胚層，之後分裂成體壁層與臟壁層。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "胚內體腔最早出現在外側中胚層，之後分裂成體壁層與臟壁層。",
-      "flashcard_summary": "胚內體腔 / 外側中胚層 -> 最早出現在 lateral mesoderm",
+      "explanation": "【題幹解析】\n胚內體腔來自外側中胚層內部裂隙的形成。外側中胚層分成體壁層與臟壁層，兩層之間的空間即為胚內體腔。\n\n【選項詳解】\n- A. 軸旁中胚層主要形成體節，進一步衍生脊椎、骨骼肌與真皮，不是胚內體腔最早出現處。\n- B. 中間中胚層主要衍生泌尿生殖系統，並非體腔裂隙形成的主要來源。\n- C. 外側中胚層會裂開形成胚內體腔，並分成體壁與臟壁中胚層，故為正確答案。\n- D. 內胚層主要形成消化道與呼吸道上皮，不形成胚內體腔。\n\n【核心考點】\n胚內體腔最早出現在外側中胚層，並把外側中胚層分成體壁層與臟壁層。",
+      "key_point": "胚內體腔最早出現在外側中胚層，並把外側中胚層分成體壁層與臟壁層。",
+      "flashcard_summary": "胚內體腔最早出現在外側中胚層，並把外側中胚層分成體壁層與臟壁層。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "胚內體腔 / lateral mesoderm / 體壁層 / 臟壁層",
-      "flashcard_back": "胚內體腔的關鍵是外側中胚層裂開。只要記住 somatic 與 splanchnic mesoderm 之間形成腔隙，就能快速判斷。",
+      "flashcard_front": "胚胎的胚內體腔(intraembryonic coelom),最早出現在下列何者?",
+      "flashcard_back": "胚內體腔最早出現在外側中胚層，並把外側中胚層分成體壁層與臟壁層。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_033",
@@ -949,23 +949,23 @@
         "D": "副神經(accessory nerve)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「衍生自第二咽弓(second pharyngeal arch)的肌肉,是由下列那一條腦神經支配?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：第二咽弓又稱 hyoid arch，其肌肉衍生物包括表情肌、鐙骨肌等，支配神經是第七對顏面神經。第一咽弓對應三叉神經，第三咽弓對應舌咽神經。國考很常把咽弓衍生物與腦神經配對一起考。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「三叉神經(trigeminal nerve)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「顏面神經(facial nerve)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「舌咽神經(glossopharyngeal nerve)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「副神經(accessory nerve)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第二咽弓衍生的肌肉由顏面神經支配。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "第二咽弓衍生的肌肉由顏面神經支配。",
-      "flashcard_summary": "第二咽弓 / 表情肌 -> 支配神經是顏面神經",
+      "explanation": "【題幹解析】\n咽弓題要把弓序、衍生肌肉與腦神經配對。第二咽弓又稱 hyoid arch，其肌肉衍生物由第七對顏面神經支配。\n\n【選項詳解】\n- A. 三叉神經主要對應第一咽弓，支配咀嚼肌、下頷舌骨肌、二腹肌前腹等，不是第二咽弓。\n- B. 顏面神經支配第二咽弓衍生肌肉，例如表情肌、鐙骨肌、莖突舌骨肌與二腹肌後腹，故正確。\n- C. 舌咽神經對應第三咽弓，典型支配 stylopharyngeus，不是第二咽弓。\n- D. 副神經主要支配胸鎖乳突肌與斜方肌，不是咽弓衍生肌的標準配對。\n\n【核心考點】\n第二咽弓的支配神經是顏面神經；第一咽弓是三叉神經，第三咽弓是舌咽神經。",
+      "key_point": "第二咽弓的支配神經是顏面神經；第一咽弓是三叉神經，第三咽弓是舌咽神經。",
+      "flashcard_summary": "第二咽弓的支配神經是顏面神經；第一咽弓是三叉神經，第三咽弓是舌咽神經。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "第二咽弓 / hyoid arch / 表情肌 / CN VII",
-      "flashcard_back": "咽弓神經配對要背熟：第二咽弓對顏面神經。看到表情肌、鐙骨肌等衍生物，就要聯想到 CN VII。",
+      "flashcard_front": "衍生自第二咽弓(second pharyngeal arch)的肌肉,是由下列那一條腦神經支配?",
+      "flashcard_back": "第二咽弓的支配神經是顏面神經；第一咽弓是三叉神經，第三咽弓是舌咽神經。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_034",
@@ -978,23 +978,23 @@
         "D": "發育過程中均呈現中空管狀的結構"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於十二指腸(duodenum)發育的敘述,何者最適當?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：十二指腸源自前腸末端與中腸前段，不是前腸與後腸，因此 A 錯。它的血供來自腹腔動脈幹與上腸繫膜動脈，而不是下腸繫膜動脈，所以 B 也錯。發育中曾短暫被上皮增生填塞後再再通，不會全程維持中空管狀，故 D 不對。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「由前腸(foregut)與後腸(hindgut)共同發育而來」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「血液供應有上腸繫膜動脈(superior mesenteric artery)與下腸繫膜動脈(inferior mesenteric\n artery)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「因胃(stomach)的旋轉使十二指腸旋轉至右側,並且大部分貼在後腹壁」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「發育過程中均呈現中空管狀的結構」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n十二指腸因胃旋轉而偏向右側，且大部分次發性後腹膜化。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "十二指腸因胃旋轉而偏向右側，且大部分次發性後腹膜化。",
-      "flashcard_summary": "十二指腸發育 / 胃旋轉 -> 旋轉至右側且大部分貼附後腹壁",
+      "explanation": "【題幹解析】\n十二指腸由前腸末端與中腸前段共同形成，隨胃旋轉移向右側，且大部分成為次發性後腹膜構造。\n\n【選項詳解】\n- A. 十二指腸不是由前腸與後腸共同形成；其遠端部分來自中腸，後腸不參與。\n- B. 十二指腸血供反映前腸與中腸來源，來自腹腔動脈幹與上腸繫膜動脈，不是下腸繫膜動脈。\n- C. 胃旋轉使十二指腸轉向右側並貼近後腹壁，形成大部分次發性後腹膜化，敘述最適當。\n- D. 十二指腸發育時腔道會暫時被上皮增生填塞，之後再通，因此不是全程維持中空管狀。\n\n【核心考點】\n十二指腸源自前腸末端與中腸前段，因胃旋轉而右移並多數次發性後腹膜化。",
+      "key_point": "十二指腸源自前腸末端與中腸前段，因胃旋轉而右移並多數次發性後腹膜化。",
+      "flashcard_summary": "十二指腸源自前腸末端與中腸前段，因胃旋轉而右移並多數次發性後腹膜化。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "十二指腸發育 / 胃旋轉 / 右移 / 次發性後腹膜",
-      "flashcard_back": "十二指腸的經典發育重點是隨胃旋轉向右偏，並貼附後腹壁。血供則分屬腹腔幹與 SMA，是前腸與中腸交界特徵。",
+      "flashcard_front": "下列關於十二指腸(duodenum)發育的敘述,何者最適當?",
+      "flashcard_back": "十二指腸源自前腸末端與中腸前段，因胃旋轉而右移並多數次發性後腹膜化。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_035",
@@ -1007,23 +1007,23 @@
         "D": "右心房壓力高於左心房"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「嬰兒剛出生使用肺部呼吸時,常會伴隨一些現象的改變,下列敘述何者正確?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：新生兒第一次呼吸後肺泡張開、血氧上升，會使肺血管阻力明顯下降，更多血液流入肺循環。左心房回流增加後，左房壓會高於右房壓，促使卵圓孔功能性關閉。因此正確改變是肺部血流量上升。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「肺部血管阻力顯著增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「肺部血流量上升」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「肺動脈管壁顯著變厚」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「右心房壓力高於左心房」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n出生後肺泡擴張使肺血管阻力下降，肺血流量上升。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "出生後肺泡擴張使肺血管阻力下降，肺血流量上升。",
-      "flashcard_summary": "出生後循環 / 肺阻力下降 -> 肺部血流量上升",
+      "explanation": "【題幹解析】\n出生後第一次呼吸讓肺泡擴張、肺氧分壓上升，肺血管阻力快速下降，肺血流量增加，左心房回流與壓力上升，促進胎兒循環轉換。\n\n【選項詳解】\n- A. 出生後肺血管阻力是顯著下降，不是增加，因肺泡擴張與氧氣上升使肺血管舒張。\n- B. 肺血管阻力下降後，右心輸出更多流入肺循環，因此肺部血流量上升，敘述正確。\n- C. 肺動脈管壁不會在剛出生呼吸時立刻顯著變厚；急性變化主要是血管阻力與血流改變。\n- D. 肺靜脈回流增加使左心房壓力高於右心房，促成卵圓孔功能性關閉，故此選項方向相反。\n\n【核心考點】\n出生後肺泡擴張使肺血管阻力下降、肺血流量上升，左房壓開始高於右房壓。",
+      "key_point": "出生後肺泡擴張使肺血管阻力下降、肺血流量上升，左房壓開始高於右房壓。",
+      "flashcard_summary": "出生後肺泡擴張使肺血管阻力下降、肺血流量上升，左房壓開始高於右房壓。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "出生後循環轉換 / 肺血管阻力下降 / 肺血流上升 / 卵圓孔",
-      "flashcard_back": "胎兒到新生兒循環轉換的核心是肺部張開後肺阻力下降，所以肺血流增加。不要把胎兒期右心優勢套用到出生後。",
+      "flashcard_front": "嬰兒剛出生使用肺部呼吸時,常會伴隨一些現象的改變,下列敘述何者正確?",
+      "flashcard_back": "出生後肺泡擴張使肺血管阻力下降、肺血流量上升，左房壓開始高於右房壓。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_036",
@@ -1036,23 +1036,23 @@
         "D": "端腦(telencephalon)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「大腦導水管(cerebral aqueduct)是衍生自那一腦泡(brain vesicle)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：中腦的腔室在發育後保留成狹窄的大腦導水管，連接第三腦室與第四腦室。端腦形成側腦室，間腦形成第三腦室，菱腦則形成第四腦室。只要把腦泡與腦室衍生物對上就能作答。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「菱腦(rhombencephalon)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「中腦(mesencephalon)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「間腦(diencephalon)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「端腦(telencephalon)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n大腦導水管是中腦腔室狹窄後所形成的通道。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "大腦導水管是中腦腔室狹窄後所形成的通道。",
-      "flashcard_summary": "大腦導水管 / 中腦 -> cerebral aqueduct 衍生自 mesencephalon",
+      "explanation": "【題幹解析】\n腦室系統的胚胎來源要和腦泡對應。中腦腔室在發育後變窄，形成連接第三與第四腦室的大腦導水管。\n\n【選項詳解】\n- A. 菱腦主要形成第四腦室相關腔室，不是大腦導水管。\n- B. 中腦（mesencephalon）的腔室保留為大腦導水管，連接第三與第四腦室，故正確。\n- C. 間腦主要形成第三腦室，不是大腦導水管。\n- D. 端腦形成大腦半球與側腦室，不形成大腦導水管。\n\n【核心考點】\n大腦導水管是中腦腔室變窄後的衍生物。",
+      "key_point": "大腦導水管是中腦腔室變窄後的衍生物。",
+      "flashcard_summary": "大腦導水管是中腦腔室變窄後的衍生物。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "cerebral aqueduct / mesencephalon / 第三腦室 / 第四腦室",
-      "flashcard_back": "導水管是中腦留下來的腔道，專門連接第三與第四腦室。腦泡衍生題最適合用腦室對照記憶。",
+      "flashcard_front": "大腦導水管(cerebral aqueduct)是衍生自那一腦泡(brain vesicle)?",
+      "flashcard_back": "大腦導水管是中腦腔室變窄後的衍生物。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_037",
@@ -1065,23 +1065,23 @@
         "D": "可殺死細菌、真菌、病毒等致病微生物(pathogenic microorganisms)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關使用福馬林(formalin)來固定生物組織的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：福馬林中的甲醛可與蛋白質形成交聯，使組織固定、變硬並抑制自溶，也具有殺菌能力。它不是以充分固定脂質聞名，脂質在一般石蠟處理中反而容易流失。故說它可與脂質充分作用、完整保存細胞膜並不正確。\n\n【選項詳解】\n- A. 正確答案。選項內容：「可與脂質(lipid)充分作用,保存細胞膜的完整性」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「可使蛋白質(protein)變性,讓組織變硬」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「可防止細胞的自溶作用(autolysis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「可殺死細菌、真菌、病毒等致病微生物(pathogenic microorganisms)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n福馬林主要固定蛋白質而非脂質，因此對細胞膜脂質保存有限。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "福馬林主要固定蛋白質而非脂質，因此對細胞膜脂質保存有限。",
-      "flashcard_summary": "福馬林固定 / 蛋白質交聯 -> 主要固定蛋白質，不是充分保存脂質",
+      "explanation": "【題幹解析】\n福馬林固定主要靠甲醛與蛋白質形成交聯，能抑制自溶、殺死微生物並讓組織變硬；對脂質與細胞膜保存並非強項。\n\n【選項詳解】\n- A. 福馬林不以完整保存脂質或細胞膜為主要作用，脂質在常規處理中容易被溶出，因此這是錯誤敘述。\n- B. 甲醛可與蛋白質形成交聯，使組織固定、變硬，是福馬林的典型作用。\n- C. 固定可抑制細胞自溶與腐敗，因此可防止 autolysis。\n- D. 福馬林具有殺菌與滅活微生物作用，可保存檢體並降低感染風險。\n\n【核心考點】\n福馬林主要固定蛋白質，不是脂質固定劑；因此對細胞膜脂質保存有限。",
+      "key_point": "福馬林主要固定蛋白質，不是脂質固定劑；因此對細胞膜脂質保存有限。",
+      "flashcard_summary": "福馬林主要固定蛋白質，不是脂質固定劑；因此對細胞膜脂質保存有限。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "formalin / protein cross-link / 固定 / 自溶抑制 / 脂質保存差",
-      "flashcard_back": "固定劑考點要抓住福馬林主要作用在蛋白質。若題目強調脂質完整保存，通常不是福馬林的優勢。",
+      "flashcard_front": "下列有關使用福馬林(formalin)來固定生物組織的敘述,何者錯誤?",
+      "flashcard_back": "福馬林主要固定蛋白質，不是脂質固定劑；因此對細胞膜脂質保存有限。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_038",
@@ -1094,23 +1094,23 @@
         "D": "具纖毛的偽複層柱狀上皮(ciliated pseudostratified columnar epithelium)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「氣管的內襯上皮(lining epithelium of trachea)是屬於:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：氣管內襯為呼吸上皮，也就是具纖毛的偽複層柱狀上皮，並含杯狀細胞以清除吸入顆粒。複層扁平上皮較常見於摩擦較大的口腔、食道等處。這是呼吸道組織學最基本的辨識點。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「單層柱狀上皮(simple columnar epithelium)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「複層扁平上皮(stratified squamous epithelium)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「複層柱狀上皮(stratified columnar epithelium)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「具纖毛的偽複層柱狀上皮(ciliated pseudostratified columnar epithelium)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n氣管典型上皮是具纖毛的偽複層柱狀呼吸上皮。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "氣管典型上皮是具纖毛的偽複層柱狀呼吸上皮。",
-      "flashcard_summary": "氣管上皮 / 呼吸上皮 -> 具纖毛的偽複層柱狀上皮",
+      "explanation": "【題幹解析】\n氣管內襯是典型呼吸上皮，為具纖毛的偽複層柱狀上皮，並有杯狀細胞協助黏液纖毛清除。\n\n【選項詳解】\n- A. 單層柱狀上皮可見於腸胃道等處，但氣管典型不是單層柱狀。\n- B. 複層扁平上皮適合抵抗摩擦，常見於口腔、食道與陰道，不是正常氣管上皮。\n- C. 複層柱狀上皮較少見，可見於部分大導管，不是氣管的代表上皮。\n- D. 具纖毛偽複層柱狀上皮就是氣管與大氣道的典型呼吸上皮，故正確。\n\n【核心考點】\n氣管內襯是具纖毛偽複層柱狀上皮，屬典型呼吸上皮。",
+      "key_point": "氣管內襯是具纖毛偽複層柱狀上皮，屬典型呼吸上皮。",
+      "flashcard_summary": "氣管內襯是具纖毛偽複層柱狀上皮，屬典型呼吸上皮。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "trachea / respiratory epithelium / cilia / pseudostratified columnar",
-      "flashcard_back": "一看到氣管就先想偽複層纖毛柱狀上皮加杯狀細胞。不要和食道的複層扁平上皮混淆。",
+      "flashcard_front": "氣管的內襯上皮(lining epithelium of trachea)是屬於:",
+      "flashcard_back": "氣管內襯是具纖毛偽複層柱狀上皮，屬典型呼吸上皮。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_039",
@@ -1123,23 +1123,23 @@
         "D": "軟骨組織的再生非常旺盛,受傷時可完整癒合"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於軟骨(cartilage)的敘述,何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：軟骨組織缺乏血管、淋巴與神經，營養多從軟骨膜或滑液擴散而來，因此修復能力較差。透明軟骨主要是第二型膠原蛋白，不是第一型；附加生長來自軟骨膜內層細胞分化，而不是成熟軟骨細胞直接主導。故唯一正確為無血管結構。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「軟骨組織的附加生長(appositional growth)是直接由軟骨細胞(chondrocyte)分裂並分泌基質\n (matrix)而成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「透明軟骨(hyaline cartilage)的基質(matrix)主要是由第一型膠原蛋白(type I collagen)構成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「軟骨組織是一個沒有血管的結構(avascular structure)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「軟骨組織的再生非常旺盛,受傷時可完整癒合」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n軟骨是無血管組織，營養主要靠擴散供應。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "軟骨是無血管組織，營養主要靠擴散供應。",
-      "flashcard_summary": "軟骨 / avascular -> 軟骨組織沒有血管，修復能力有限",
+      "explanation": "【題幹解析】\n軟骨缺乏血管、淋巴與神經，營養依靠軟骨膜或滑液擴散，所以修復能力有限。透明軟骨基質主要是第二型膠原蛋白。\n\n【選項詳解】\n- A. 附加生長主要由軟骨膜內層的 chondrogenic cells 分化為 chondroblasts，不是成熟 chondrocytes 直接主導。\n- B. 透明軟骨主要含第二型膠原蛋白；第一型膠原蛋白較典型見於纖維軟骨與骨等組織。\n- C. 軟骨是無血管組織，營養靠擴散供應，敘述正確。\n- D. 軟骨因缺血管而再生能力差，受傷後通常不易完整癒合。\n\n【核心考點】\n軟骨是 avascular structure，透明軟骨以 type II collagen 為主且修復能力差。",
+      "key_point": "軟骨是 avascular structure，透明軟骨以 type II collagen 為主且修復能力差。",
+      "flashcard_summary": "軟骨是 avascular structure，透明軟骨以 type II collagen 為主且修復能力差。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "cartilage / avascular / type II collagen / appositional growth",
-      "flashcard_back": "軟骨最核心特徵是 avascular，所以修復差。若題目把 type I collagen 或旺盛再生放進透明軟骨，多半是陷阱。",
+      "flashcard_front": "下列關於軟骨(cartilage)的敘述,何者正確?",
+      "flashcard_back": "軟骨是 avascular structure，透明軟骨以 type II collagen 為主且修復能力差。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_040",
@@ -1152,23 +1152,23 @@
         "D": "不負責形成髓磷脂(myelin)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關神經組織中之衛星細胞(satellite cell)的敘述,何者正確?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：衛星細胞位於周邊神經系統的神經節，圍繞神經元細胞本體提供支持與代謝調節。形成周邊髓鞘的是許旺細胞，而不是衛星細胞。它們體積不大，H&E 下也不是多核柱狀細胞。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「圍繞中樞神經系統的神經元細胞本體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「是大型的柱狀細胞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「在H&E染色,為多核的細胞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「不負責形成髓磷脂(myelin)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n周邊神經節的衛星細胞包繞神經元胞體，但不負責形成髓鞘。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "周邊神經節的衛星細胞包繞神經元胞體，但不負責形成髓鞘。",
-      "flashcard_summary": "衛星細胞 / 神經節 / 髓鞘對照 -> 包繞胞體但不形成髓鞘",
+      "explanation": "【題幹解析】\n衛星細胞位於周邊神經系統神經節，包繞神經元胞體並提供支持；形成周邊髓鞘的是 Schwann cell，不是 satellite cell。\n\n【選項詳解】\n- A. 衛星細胞包繞的是周邊神經節的神經元胞體；中樞神經系統由星狀膠細胞、少突膠細胞等支持。\n- B. 衛星細胞不是大型柱狀細胞，而是小型扁平或立方樣支持細胞。\n- C. H&E 下衛星細胞不是多核細胞；它們環繞神經元胞體形成一圈支持細胞。\n- D. 衛星細胞不形成 myelin；PNS 髓鞘由 Schwann cell 形成，故此選項正確。\n\n【核心考點】\n衛星細胞包繞 PNS 神經節胞體，不負責形成髓鞘；PNS 髓鞘由 Schwann cell 形成。",
+      "key_point": "衛星細胞包繞 PNS 神經節胞體，不負責形成髓鞘；PNS 髓鞘由 Schwann cell 形成。",
+      "flashcard_summary": "衛星細胞包繞 PNS 神經節胞體，不負責形成髓鞘；PNS 髓鞘由 Schwann cell 形成。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "satellite cell / PNS ganglion / 包繞胞體 / Schwann cell 對照",
-      "flashcard_back": "神經膠細胞題先分位置與功能：衛星細胞包神經節胞體，許旺細胞做髓鞘。不要把 PNS 兩種支持細胞角色混用。",
+      "flashcard_front": "下列有關神經組織中之衛星細胞(satellite cell)的敘述,何者正確?",
+      "flashcard_back": "衛星細胞包繞 PNS 神經節胞體，不負責形成髓鞘；PNS 髓鞘由 Schwann cell 形成。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_041",
@@ -1181,23 +1181,23 @@
         "D": "是很薄的扁平(squamous)細胞"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「關於第二型肺泡細胞(type-II pneumocyte)之敘述,下列何者正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：第二型肺泡細胞為立方形細胞，數量較多但覆蓋表面積較少，負責分泌 surfactant 以降低表面張力。第一型肺泡細胞才是薄而扁平、覆蓋大部分肺泡表面的細胞。氣血屏障也不包含肺泡巨噬細胞。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「在肺泡細胞中占40%,覆蓋95%的肺泡表面(alveolar air surface)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「與肺泡巨噬細胞(alveolar macrophage)共同組成氣血屏障(air-blood barrier)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「分泌界面活性劑(surfactant)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「是很薄的扁平(squamous)細胞」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n第二型肺泡細胞的代表功能是分泌肺泡界面活性劑。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "第二型肺泡細胞的代表功能是分泌肺泡界面活性劑。",
-      "flashcard_summary": "第二型肺泡細胞 / surfactant -> type II pneumocyte 主要分泌界面活性劑",
+      "explanation": "【題幹解析】\n第二型肺泡細胞是立方形分泌細胞，負責製造 surfactant，降低肺泡表面張力並協助肺泡穩定。\n\n【選項詳解】\n- A. 覆蓋大部分肺泡表面的是第一型肺泡細胞；第二型細胞數量可不少，但覆蓋表面積較小。\n- B. 氣血屏障由第一型肺泡細胞、融合基底膜與微血管內皮等組成，肺泡巨噬細胞不是屏障成分。\n- C. 第二型肺泡細胞分泌 surfactant，是最典型功能，故正確。\n- D. 薄而扁平的是第一型肺泡細胞；第二型肺泡細胞較偏立方形。\n\n【核心考點】\nType II pneumocyte 分泌 surfactant；type I pneumocyte 才是薄而覆蓋面積大的氣體交換細胞。",
+      "key_point": "Type II pneumocyte 分泌 surfactant；type I pneumocyte 才是薄而覆蓋面積大的氣體交換細胞。",
+      "flashcard_summary": "Type II pneumocyte 分泌 surfactant；type I pneumocyte 才是薄而覆蓋面積大的氣體交換細胞。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "type II pneumocyte / surfactant / cuboidal / type I 對照",
-      "flashcard_back": "肺泡細胞題要記住：type I 薄扁負責交換，type II 分泌 surfactant 並可再生。不要把兩者表面積與外形搞反。",
+      "flashcard_front": "關於第二型肺泡細胞(type-II pneumocyte)之敘述,下列何者正確?",
+      "flashcard_back": "Type II pneumocyte 分泌 surfactant；type I pneumocyte 才是薄而覆蓋面積大的氣體交換細胞。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_042",
@@ -1210,23 +1210,23 @@
         "D": "潘氏細胞(Paneth cells)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種細胞具有黏原顆粒(mucinogen granules)?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：賁門腺以分泌黏液為主，因此細胞內可見 mucinogen granules。胰腺泡細胞與耳下腺腺泡細胞屬漿液性分泌，富含酶原顆粒；潘氏細胞則含抗菌顆粒而非黏原顆粒。這題是在分辨黏液腺與漿液腺細胞。\n\n【選項詳解】\n- A. 正確答案。選項內容：「胃賁門腺細胞(cardiac glandular cells)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「胰腺泡細胞(pancreatic acinar cells)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「耳下腺腺泡細胞(parotid acinar cells)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「潘氏細胞(Paneth cells)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n胃賁門腺細胞屬黏液分泌細胞，含有黏原顆粒。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "胃賁門腺細胞屬黏液分泌細胞，含有黏原顆粒。",
-      "flashcard_summary": "黏原顆粒 / 胃賁門腺 -> cardiac glandular cells 含 mucinogen granules",
+      "explanation": "【題幹解析】\n黏原顆粒代表黏液分泌細胞的特徵。胃賁門腺以分泌黏液為主，因此可見 mucinogen granules。\n\n【選項詳解】\n- A. 胃賁門腺細胞屬黏液分泌細胞，含 mucinogen granules，故正確。\n- B. 胰腺泡細胞主要分泌消化酵素，富含 zymogen granules，不是黏原顆粒。\n- C. 耳下腺腺泡細胞是漿液性分泌細胞，主要有酶原顆粒，不是黏液顆粒。\n- D. 潘氏細胞含抗菌顆粒，例如 lysozyme、defensins，不是典型 mucinogen granules。\n\n【核心考點】\n胃賁門腺是黏液腺，含黏原顆粒；胰腺泡與耳下腺偏漿液性，潘氏細胞偏抗菌顆粒。",
+      "key_point": "胃賁門腺是黏液腺，含黏原顆粒；胰腺泡與耳下腺偏漿液性，潘氏細胞偏抗菌顆粒。",
+      "flashcard_summary": "胃賁門腺是黏液腺，含黏原顆粒；胰腺泡與耳下腺偏漿液性，潘氏細胞偏抗菌顆粒。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "mucinogen granules / cardiac gland / mucous cell / serous acinus 對照",
-      "flashcard_back": "黏原顆粒出現在黏液分泌細胞，如胃賁門腺。若看到胰臟、耳下腺或潘氏細胞，多半不是 mucinogen。",
+      "flashcard_front": "下列何種細胞具有黏原顆粒(mucinogen granules)?",
+      "flashcard_back": "胃賁門腺是黏液腺，含黏原顆粒；胰腺泡與耳下腺偏漿液性，潘氏細胞偏抗菌顆粒。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_043",
@@ -1239,9 +1239,9 @@
         "D": "黏液腺(mucous gland)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者最不可能出現在膽囊的固有層(lamina propria)?」\n標準答案為 A、B、C、D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：膽囊黏膜下無明顯黏膜肌層，固有層內可見結締組織、小靜脈與淋巴管，部分區域也可見腺體，尤其靠近頸部。至於穿孔型微血管是否作為『最不可能』選項，教材描述可能不一致，因此官方已宣布本題一律給分。作答上仍建議掌握膽囊固有層以血管、淋巴與結締組織為主。\n\n【選項詳解】\n- A. 正確答案。選項內容：「穿孔型微血管(fenestrated capillary)」此選項最符合題幹線索與標準答案。\n- B. 正確答案。選項內容：「小靜脈(venule)」此選項最符合題幹線索與標準答案。\n- C. 正確答案。選項內容：「淋巴管(lymphatic vessel)」此選項最符合題幹線索與標準答案。\n- D. 正確答案。選項內容：「黏液腺(mucous gland)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n膽囊固有層常見小血管與淋巴管，本題因敘述爭議已官方一律給分。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "膽囊固有層常見小血管與淋巴管，本題因敘述爭議已官方一律給分。",
-      "flashcard_summary": "膽囊固有層 / 組成 / 一律給分 -> 以結締組織與小血管淋巴管為主，本題官方全給分",
+      "explanation": "【題幹解析】\n題目問膽囊固有層最不可能出現何者，但官方已一律給分。讀書時仍要掌握膽囊黏膜的基本構造：固有層可見結締組織、小血管與淋巴管，黏液腺較常在頸部區域，且膽囊沒有典型黏膜肌層與黏膜下層。\n\n【選項詳解】\n- A. 穿孔型微血管是否可作為最不可能選項有教材差異，是本題爭議來源之一，官方接受給分。\n- B. 小靜脈可存在於固有層結締組織中，因此若單選為最不可能並不穩定，官方給分合理。\n- C. 淋巴管可存在於固有層，並非明確排除構造，故本題不宜硬改答案。\n- D. 膽囊黏液腺可見於頸部附近，若題目未限定區域容易產生爭議，因此官方一律給分。\n\n【核心考點】\n膽囊固有層可有小血管、淋巴與結締組織；本題因構造描述與區域差異，官方一律給分。",
+      "key_point": "膽囊固有層可有小血管、淋巴與結締組織；本題因構造描述與區域差異，官方一律給分。",
+      "flashcard_summary": "膽囊固有層可有小血管、淋巴與結締組織；本題因構造描述與區域差異，官方一律給分。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A",
@@ -1252,14 +1252,14 @@
       "answer_status": "all_credit",
       "answer_source": "official_correction",
       "answer_note": "第43題一律給分",
-      "flashcard_front": "膽囊固有層 / 小血管 / 淋巴管 / 腺體 / 一律給分",
-      "flashcard_back": "本題核心是膽囊固有層的基本組成，但官方已全給分，表示選項存在爭議。遇到這類題目要同時記知識點與留意勘誤。",
+      "flashcard_front": "下列何者最不可能出現在膽囊的固有層(lamina propria)?",
+      "flashcard_back": "膽囊固有層可有小血管、淋巴與結締組織；本題因構造描述與區域差異，官方一律給分。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_044",
@@ -1272,23 +1272,23 @@
         "D": "外根鞘(external root sheath)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者富含血管,負責提供養分及氧氣給毛囊(hair follicle)?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：真皮乳頭位在毛球基部，內有豐富微血管，提供毛囊增殖細胞氧氣與養分。玻璃膜與內外根鞘主要屬支持或包覆構造，不是主要血供來源。這是毛囊組織學的基本定位題。\n\n【選項詳解】\n- A. 正確答案。選項內容：「真皮乳頭(dermal papilla)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「玻璃膜(glassy membrane)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「內根鞘(internal root sheath)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「外根鞘(external root sheath)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n毛囊底部的真皮乳頭富含血管，供應毛母質生長所需營養。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "毛囊底部的真皮乳頭富含血管，供應毛母質生長所需營養。",
-      "flashcard_summary": "毛囊血供 / 真皮乳頭 -> dermal papilla 富含血管供應毛囊",
+      "explanation": "【題幹解析】\n毛囊的養分與氧氣主要來自毛球底部的真皮乳頭。真皮乳頭含豐富微血管，並提供訊號支持毛髮生長。\n\n【選項詳解】\n- A. 真皮乳頭位於毛球基部，血管豐富，是供應毛囊養分與氧氣的主要構造，故正確。\n- B. 玻璃膜是毛囊外側的基底膜樣結構，主要提供界面支持，不是血管供應來源。\n- C. 內根鞘包覆毛幹並協助成形，但不富含血管。\n- D. 外根鞘是上皮性包覆構造，不是提供毛囊血供的主要部位。\n\n【核心考點】\n毛囊血供與營養重點在毛球底部的 dermal papilla。",
+      "key_point": "毛囊血供與營養重點在毛球底部的 dermal papilla。",
+      "flashcard_summary": "毛囊血供與營養重點在毛球底部的 dermal papilla。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "hair follicle / dermal papilla / 毛球 / 血管供應",
-      "flashcard_back": "毛囊需要血供時，先想到真皮乳頭位在毛球底部。它是毛髮生長所需營養的主要來源。",
+      "flashcard_front": "下列何者富含血管,負責提供養分及氧氣給毛囊(hair follicle)?",
+      "flashcard_back": "毛囊血供與營養重點在毛球底部的 dermal papilla。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_045",
@@ -1301,23 +1301,23 @@
         "D": "腎上腺髓質(adrenal medulla)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者的細胞內含有大量的脂肪小滴(lipid droplets),且可分泌糖皮質素(glucocorticoid)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：束狀帶細胞因含大量脂質前驅物而呈泡沫狀，是分泌 cortisol 等 glucocorticoids 的主要區帶。球小帶分泌醛固酮，網狀帶偏向雄性素，髓質則分泌兒茶酚胺。題目結合形態與功能，答案明確是束狀帶。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「腎上腺皮質(adrenal cortex)的球小帶(zona glomerulosa)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「腎上腺皮質(adrenal cortex)的束狀帶(zona fasciculata)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「腎上腺皮質(adrenal cortex)的網狀帶(zona reticularis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「腎上腺髓質(adrenal medulla)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n腎上腺束狀帶細胞富含脂滴，主要分泌糖皮質素。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "腎上腺束狀帶細胞富含脂滴，主要分泌糖皮質素。",
-      "flashcard_summary": "束狀帶 / 脂滴 / 糖皮質素 -> zona fasciculata 分泌 glucocorticoid",
+      "explanation": "【題幹解析】\n腎上腺皮質束狀帶細胞含大量脂肪小滴，外觀泡沫狀，主要分泌 cortisol 等 glucocorticoids。\n\n【選項詳解】\n- A. 球小帶主要分泌 aldosterone 等 mineralocorticoids，不是糖皮質素主力來源。\n- B. 束狀帶含大量脂質前驅物並分泌 glucocorticoids，是本題正確答案。\n- C. 網狀帶主要分泌 adrenal androgens，雖屬皮質但不是糖皮質素主要區帶。\n- D. 腎上腺髓質分泌 catecholamines，不分泌 glucocorticoids。\n\n【核心考點】\n腎上腺皮質：球小帶 aldosterone、束狀帶 cortisol、網狀帶 androgen。",
+      "key_point": "腎上腺皮質：球小帶 aldosterone、束狀帶 cortisol、網狀帶 androgen。",
+      "flashcard_summary": "腎上腺皮質：球小帶 aldosterone、束狀帶 cortisol、網狀帶 androgen。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "zona fasciculata / lipid droplets / cortisol / adrenal cortex",
-      "flashcard_back": "腎上腺皮質區帶配對要背熟：球小帶鹽、束狀帶糖、網狀帶性。看到大量脂滴加 glucocorticoid，就選束狀帶。",
+      "flashcard_front": "下列何者的細胞內含有大量的脂肪小滴(lipid droplets),且可分泌糖皮質素(glucocorticoid)?",
+      "flashcard_back": "腎上腺皮質：球小帶 aldosterone、束狀帶 cortisol、網狀帶 androgen。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_046",
@@ -1330,23 +1330,23 @@
         "D": "尿道(urethra)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「附圖中的上皮(epithelium)主要出現於下列何者?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：輸卵管內襯上皮由纖毛細胞與分泌細胞組成，通常呈單層柱狀，常見明顯黏膜皺褶，與圖示最相符。陰道是複層扁平上皮，輸出小管則常見高低不齊的波浪狀管腔邊界，尿道上皮則依部位變化較大。故答案選輸卵管最合理。\n\n【選項詳解】\n- A. 正確答案。選項內容：「輸卵管(uterine tube)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「陰道(vagina)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「輸出小管(efferent ductules)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「尿道(urethra)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n輸卵管黏膜典型為具纖毛的單層柱狀上皮並伴高度皺褶。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "輸卵管黏膜典型為具纖毛的單層柱狀上皮並伴高度皺褶。",
-      "flashcard_summary": "輸卵管上皮 / 纖毛 / 黏膜皺褶 -> 典型為單層柱狀上皮，常見於 uterine tube",
+      "explanation": "【題幹解析】\n附圖題原重點指向具纖毛細胞與分泌細胞、黏膜皺褶明顯的單層柱狀上皮，最符合輸卵管。\n\n【選項詳解】\n- A. 輸卵管黏膜有纖毛細胞與分泌細胞，形成皺褶並幫助卵子與受精卵移動，最符合題意。\n- B. 陰道為非角化複層扁平上皮，不是纖毛單層柱狀上皮。\n- C. 輸出小管可有高低不齊、鋸齒狀或波浪狀管腔邊界，與輸卵管典型皺褶不同。\n- D. 尿道上皮依部位可變化，並非此題附圖所指的典型輸卵管上皮。\n\n【核心考點】\n輸卵管上皮由纖毛細胞與分泌細胞構成，常見黏膜皺褶。",
+      "key_point": "輸卵管上皮由纖毛細胞與分泌細胞構成，常見黏膜皺褶。",
+      "flashcard_summary": "輸卵管上皮由纖毛細胞與分泌細胞構成，常見黏膜皺褶。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "圖像題 / 輸卵管上皮 / 單層柱狀 / 纖毛 / 黏膜皺褶",
-      "flashcard_back": "辨認輸卵管時要抓住纖毛單層柱狀上皮與多摺疊黏膜。若是陰道則會看到複層扁平上皮，差異很大。",
+      "flashcard_front": "附圖中的上皮(epithelium)主要出現於下列何者?",
+      "flashcard_back": "輸卵管上皮由纖毛細胞與分泌細胞構成，常見黏膜皺褶。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_047",
@@ -1359,23 +1359,23 @@
         "D": "膽固醇"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「細胞膜主要由蛋白質與下列何種化學物質組成?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：細胞膜主要由 phospholipid bilayer 與蛋白質組成，磷脂雙層提供基本屏障與流動性。膽固醇雖可調節流動性，但不是題目所問的主要化學組成。甘油與三酸甘油酯則不是細胞膜的主體骨架。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「甘油」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「三酸甘油酯」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「磷脂質」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「膽固醇」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n細胞膜的基本骨架是磷脂雙層，再嵌入各種膜蛋白。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "細胞膜的基本骨架是磷脂雙層，再嵌入各種膜蛋白。",
-      "flashcard_summary": "細胞膜組成 / 磷脂雙層 -> 細胞膜主要由蛋白質與磷脂質構成",
+      "explanation": "【題幹解析】\n細胞膜的基本架構是磷脂雙層加上膜蛋白。膽固醇可調節流動性，但不是題目問的主要化學骨架。\n\n【選項詳解】\n- A. 甘油是脂質骨架的一部分，但不是細胞膜與蛋白質並列的主要化學組成答案。\n- B. 三酸甘油酯是儲存脂質，不是細胞膜雙層的主要結構脂質。\n- C. 磷脂質形成 phospholipid bilayer，是細胞膜最主要的脂質骨架，故正確。\n- D. 膽固醇可調節膜流動性與穩定性，但不是本題所問的主要組成類別。\n\n【核心考點】\n細胞膜主要由磷脂雙層與蛋白質構成，膽固醇負責調節膜性質。",
+      "key_point": "細胞膜主要由磷脂雙層與蛋白質構成，膽固醇負責調節膜性質。",
+      "flashcard_summary": "細胞膜主要由磷脂雙層與蛋白質構成，膽固醇負責調節膜性質。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "cell membrane / phospholipid bilayer / membrane protein / cholesterol 對照",
-      "flashcard_back": "細胞膜組成題先背『磷脂雙層加蛋白質』。膽固醇是調節成分，不是基本雙層的主角。",
+      "flashcard_front": "細胞膜主要由蛋白質與下列何種化學物質組成?",
+      "flashcard_back": "細胞膜主要由磷脂雙層與蛋白質構成，膽固醇負責調節膜性質。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_048",
@@ -1388,23 +1388,23 @@
         "D": "節細胞(ganglion cell)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種視網膜內的細胞是具有一閾值,超過即能夠產生動作電位(action potential)?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：大多數視網膜細胞如感光細胞、雙極細胞與水平細胞主要以漸進電位傳遞訊號。節細胞則具有閾值並能產生 action potential，其軸突組成視神經。無軸突細胞多為局部調節，並非主要外傳動作電位的類型。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「雙極細胞(bipolar cell)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「水平細胞(horizontal cell)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「無軸突細胞(amacrine cell)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「節細胞(ganglion cell)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n視網膜節細胞會產生動作電位，是視覺訊息輸出到中樞的主要神經元。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "視網膜節細胞會產生動作電位，是視覺訊息輸出到中樞的主要神經元。",
-      "flashcard_summary": "視網膜 / 動作電位 -> 具有閾值並產生 action potential 的是 ganglion cell",
+      "explanation": "【題幹解析】\n視網膜多數神經元以 graded potential 傳遞訊號；真正具有閾值並產生動作電位、將訊號送出眼球的是節細胞。\n\n【選項詳解】\n- A. 雙極細胞主要以漸進電位傳遞，不是主要產生動作電位的輸出細胞。\n- B. 水平細胞負責側向調節，主要使用漸進電位。\n- C. 無軸突細胞多作局部調節，部分可有特殊放電特性，但不是視網膜主要外傳動作電位細胞。\n- D. 節細胞達閾值後可產生 action potentials，其軸突組成視神經，故正確。\n\n【核心考點】\n視網膜節細胞是產生動作電位並形成視神經的主要輸出細胞。",
+      "key_point": "視網膜節細胞是產生動作電位並形成視神經的主要輸出細胞。",
+      "flashcard_summary": "視網膜節細胞是產生動作電位並形成視神經的主要輸出細胞。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "retina / ganglion cell / action potential / bipolar cell 對照",
-      "flashcard_back": "視網膜中真正把訊號用 action potential 傳出的是 ganglion cell。其他多數細胞主要靠 graded potential。",
+      "flashcard_front": "下列何種視網膜內的細胞是具有一閾值,超過即能夠產生動作電位(action potential)?",
+      "flashcard_back": "視網膜節細胞是產生動作電位並形成視神經的主要輸出細胞。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_049",
@@ -1417,23 +1417,23 @@
         "D": "intermediolateral column"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「自主神經系統的節前神經元細胞本體除位於一些腦神經的運動神經核外,也會存在脊髓的下列何處?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：交感節前神經元的細胞體位於胸腰髓的 intermediolateral column，也就是側角。dorsal root ganglion 是感覺神經元胞體所在；substantia gelatinosa 與 Rexed lamina IX 分別對應背角痛覺調節與軀體運動神經元。故答案為中間外側柱。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「dorsal root ganglion」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「substantia gelatinosa」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Rexed's laminae IX」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「intermediolateral column」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n脊髓中的自主神經節前神經元位於中間外側柱。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "脊髓中的自主神經節前神經元位於中間外側柱。",
-      "flashcard_summary": "自主神經節前神經元 / 側角 -> 位於 spinal cord 的 intermediolateral column",
+      "explanation": "【題幹解析】\n自主神經節前神經元除腦幹副交感核外，也位於脊髓特定區域。交感節前神經元位於 T1-L2 的 intermediolateral column。\n\n【選項詳解】\n- A. dorsal root ganglion 內是感覺神經元胞體，不是自主神經節前神經元。\n- B. substantia gelatinosa 位於背角，主要和痛溫覺調節相關。\n- C. Rexed lamina IX 含軀體運動神經元，支配骨骼肌，不是自主節前神經元主要位置。\n- D. intermediolateral column 是胸腰髓交感節前神經元胞體所在，故正確。\n\n【核心考點】\n交感節前神經元胞體位於 T1-L2 intermediolateral column。",
+      "key_point": "交感節前神經元胞體位於 T1-L2 intermediolateral column。",
+      "flashcard_summary": "交感節前神經元胞體位於 T1-L2 intermediolateral column。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "preganglionic neuron / spinal cord / intermediolateral column / lateral horn",
-      "flashcard_back": "自主神經節前神經元在脊髓要先想側角，也就是 intermediolateral column。感覺神經元則在 dorsal root ganglion，不要混淆。",
+      "flashcard_front": "自主神經系統的節前神經元細胞本體除位於一些腦神經的運動神經核外,也會存在脊髓的下列何處?",
+      "flashcard_back": "交感節前神經元胞體位於 T1-L2 intermediolateral column。",
       "category_group": "醫學（一）",
       "category": "解剖學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_050",
@@ -1446,23 +1446,23 @@
         "D": "增加膀胱括約肌收縮"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何項反應,交感神經和副交感神經的作用通常是較為一致的?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：副交感神經會明顯增加稀薄水樣唾液，交感神經也可促進較黏稠、蛋白較多的唾液分泌，因此兩者在『增加唾液分泌』方向上較一致。心跳速率與腸胃蠕動則通常呈相反作用；膀胱括約肌也主要受交感與副交感不同方向調控。題目考的是少數同向效應的例外。\n\n【選項詳解】\n- A. 正確答案。選項內容：「增加唾液分泌量」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「增加心臟跳動速率」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「增加胃腸蠕動」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「增加膀胱括約肌收縮」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n交感與副交感神經對唾液分泌都可有促進作用，只是分泌性質不同。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "交感與副交感神經對唾液分泌都可有促進作用，只是分泌性質不同。",
-      "flashcard_summary": "自律神經 / 唾液分泌 -> 交感與副交感通常都可增加分泌，只是性質不同",
+      "explanation": "【題幹解析】\n多數器官中交感與副交感作用相反，但唾液腺是例外：兩者都可促進分泌，只是分泌物性質不同。\n\n【選項詳解】\n- A. 副交感促進大量水樣唾液，交感也促進較黏稠、蛋白較多的唾液，因此方向較一致。\n- B. 心跳速率通常由交感增加、副交感降低，方向相反。\n- C. 胃腸蠕動通常由副交感增加、交感降低，方向相反。\n- D. 膀胱括約肌與排尿反射中交感、副交感多呈相反調控，不是同向例外。\n\n【核心考點】\n唾液分泌是交感與副交感都可增加的少數同向例外；心跳、腸蠕動與排尿多相反。",
+      "key_point": "唾液分泌是交感與副交感都可增加的少數同向例外；心跳、腸蠕動與排尿多相反。",
+      "flashcard_summary": "唾液分泌是交感與副交感都可增加的少數同向例外；心跳、腸蠕動與排尿多相反。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "autonomic / 唾液分泌 / 同向作用 / 稀薄 vs 黏稠",
-      "flashcard_back": "自律神經大多拮抗，但唾液分泌是常見例外，兩者都能促進。差別在副交感偏水樣、交感偏黏稠蛋白性。",
+      "flashcard_front": "下列何項反應,交感神經和副交感神經的作用通常是較為一致的?",
+      "flashcard_back": "唾液分泌是交感與副交感都可增加的少數同向例外；心跳、腸蠕動與排尿多相反。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_051",
@@ -1475,23 +1475,23 @@
         "D": "第V層"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「大腦皮質接收感官傳入的刺激訊息,並將這些訊息再傳出至其他特定的大腦皮質或神經核做進一步的處理。\n 因此,大腦皮質傳出訊息的神經元通常是大型的錐體神經元(pyramidal neuron,又稱Betz cell),且其\n 樹突分布深廣,軸突包覆有較完整髓鞘,且以麩胺酸為主要的突觸傳遞物質。大腦皮質雖厚達六層,上述這\n 些負責傳出訊息的大型錐體神經元,其細胞體之分布密度通常在下列那一層最高?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：大型錐體神經元，包含 Betz cells，主要集中在大腦皮質第 V 層，負責向腦幹、脊髓等處輸出訊息。第 IV 層偏向接受丘腦感覺輸入，第 I 層細胞稀少。這題是在考六層新皮質的功能分工。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「第Ia層」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「第Ib層」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「第II層」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「第V層」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n大腦皮質第 V 層含大型錐體細胞，是主要皮質輸出層。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "大腦皮質第 V 層含大型錐體細胞，是主要皮質輸出層。",
-      "flashcard_summary": "大腦皮質第 V 層 / 錐體細胞 -> 主要輸出神經元密度最高的層次",
+      "explanation": "【題幹解析】\n大腦皮質大型錐體神經元負責皮質輸出，其中 Betz cells 最典型位於第 V 層，向腦幹與脊髓投射。\n\n【選項詳解】\n- A. 第 I 層主要為分子層，細胞稀少，不是大型錐體神經元密集層。\n- B. 第 Ib 層不是六層新皮質中大型輸出錐體細胞的典型高密度位置。\n- C. 第 II 層以小型顆粒細胞與局部皮質連結較典型，不是 Betz cell 主力層。\n- D. 第 V 層是大型錐體細胞與皮質下輸出神經元密集處，故正確。\n\n【核心考點】\n新皮質第 V 層含大型錐體神經元，負責重要皮質下輸出。",
+      "key_point": "新皮質第 V 層含大型錐體神經元，負責重要皮質下輸出。",
+      "flashcard_summary": "新皮質第 V 層含大型錐體神經元，負責重要皮質下輸出。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "neocortex layer V / pyramidal neuron / Betz cell / output layer",
-      "flashcard_back": "皮質分層題常用一句話記：IV 層收輸入，V 層送輸出。看到大型錐體細胞就先想第五層。",
+      "flashcard_front": "大腦皮質接收感官傳入的刺激訊息,並將這些訊息再傳出至其他特定的大腦皮質或神經核做進一步的處理。  因此,大腦皮質傳出訊息的神經元通常是大型的錐體神經元(pyra",
+      "flashcard_back": "新皮質第 V 層含大型錐體神經元，負責重要皮質下輸出。",
       "category_group": "醫學（一）",
       "category": "組織學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_052",
@@ -1504,23 +1504,23 @@
         "D": "因持續服用抗癌藥物,使N-acetyltransferase活性受到強烈的抑制"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何項缺損,最不可能影響人類在進入缺乏光源的暗周期期間,血液中褪黑激素(melatonin)濃度先升\n 後降的現象?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：黑暗訊號需經 retinohypothalamic tract 到視交叉上核，再透過交感路徑影響松果體分泌 melatonin，因此 A、C、D 的缺損都可能影響褪黑激素變化。geniculate ganglion 屬顏面神經感覺節，並非此晝夜節律路徑的必要節點，所以最不可能影響的是 B。這題關鍵在褪黑激素神經路徑的完整性。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「retinohypothalamic tract的神經束因缺血而萎縮(atrophy)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「geniculate ganglion中的神經細胞因缺血而凋亡」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「松果體(pineal gland)嚴重鈣化結石造成分泌細胞凋亡」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「因持續服用抗癌藥物,使N-acetyltransferase活性受到強烈的抑制」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n褪黑激素的晝夜變化依賴視網膜到下視丘再到松果體路徑，與 geniculate ganglion 無直接關鍵關係。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "褪黑激素的晝夜變化依賴視網膜到下視丘再到松果體路徑，與 geniculate ganglion 無直接關鍵關係。",
-      "flashcard_summary": "褪黑激素節律 / SCN 路徑 -> 最不影響者為 geniculate ganglion 缺損",
+      "explanation": "【題幹解析】\n黑暗促進 melatonin 的路徑為視網膜到視交叉上核，再經交感路徑影響松果體。geniculate ganglion 屬顏面神經感覺節，不在此路徑上。\n\n【選項詳解】\n- A. retinohypothalamic tract 把光暗訊號送到視交叉上核，受損會影響 melatonin 節律。\n- B. geniculate ganglion 是顏面神經感覺節，與松果體褪黑激素節律路徑無直接關係，最不可能影響。\n- C. 松果體分泌細胞受損會直接影響 melatonin 生成。\n- D. N-acetyltransferase 是 melatonin 合成的重要酵素，受抑制會影響夜間濃度變化。\n\n【核心考點】\nMelatonin 節律需要視網膜、SCN、交感路徑與松果體；geniculate ganglion 不屬此路徑。",
+      "key_point": "Melatonin 節律需要視網膜、SCN、交感路徑與松果體；geniculate ganglion 不屬此路徑。",
+      "flashcard_summary": "Melatonin 節律需要視網膜、SCN、交感路徑與松果體；geniculate ganglion 不屬此路徑。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "melatonin rhythm / retinohypothalamic tract / SCN / pineal gland / geniculate ganglion",
-      "flashcard_back": "褪黑激素晝夜節律靠視網膜-SCN-交感-松果體這條路。geniculate ganglion 不在這條主軸上，是這題的排除點。",
+      "flashcard_front": "下列何項缺損,最不可能影響人類在進入缺乏光源的暗周期期間,血液中褪黑激素(melatonin)濃度先升  後降的現象?",
+      "flashcard_back": "Melatonin 節律需要視網膜、SCN、交感路徑與松果體；geniculate ganglion 不屬此路徑。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_053",
@@ -1533,23 +1533,23 @@
         "D": "漸進電位若為去極化,則不隨距離而消減"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關漸進電位(graded potential)的敘述,何者錯誤?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：graded potential 具有時間加成與空間加成，且幅度會隨刺激強度改變，也可能是去極化或過極化。它屬被動傳導，因此會隨距離遞減。若訊號不衰減地長距離傳播，那是動作電位的特性。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「漸進電位有加成性,包括時間加成與空間加成」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「漸進電位可能會隨刺激大小而改變其大小」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「漸進電位可以是去極化,也可以是過極化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「漸進電位若為去極化,則不隨距離而消減」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n漸進電位會隨距離衰減，這是它和動作電位的重要差異。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "漸進電位會隨距離衰減，這是它和動作電位的重要差異。",
-      "flashcard_summary": "漸進電位 / 衰減 -> graded potential 會隨距離遞減",
+      "explanation": "【題幹解析】\n漸進電位可隨刺激強度改變，有時間與空間加成，可去極化或過極化；但它會隨距離衰減，不像動作電位能不衰減傳導。\n\n【選項詳解】\n- A. 漸進電位可以進行時間加成與空間加成，敘述正確。\n- B. 漸進電位幅度與刺激大小相關，刺激越強可產生越大電位變化。\n- C. 漸進電位可能是 EPSP 型去極化，也可能是 IPSP 型過極化。\n- D. 漸進電位屬被動電流傳播，會隨距離衰減；不衰減是動作電位特性，故 D 錯。\n\n【核心考點】\nGraded potential 可加成、幅度可變、可正可負，但會隨距離衰減。",
+      "key_point": "Graded potential 可加成、幅度可變、可正可負，但會隨距離衰減。",
+      "flashcard_summary": "Graded potential 可加成、幅度可變、可正可負，但會隨距離衰減。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "graded potential / summation / amplitude varies / decremental",
-      "flashcard_back": "漸進電位的重點是可加成、可變幅、可衰減。題目若說不隨距離消減，就在描述 action potential 而不是 graded potential。",
+      "flashcard_front": "下列有關漸進電位(graded potential)的敘述,何者錯誤?",
+      "flashcard_back": "Graded potential 可加成、幅度可變、可正可負，但會隨距離衰減。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_054",
@@ -1562,23 +1562,23 @@
         "D": "甘胺酸(glycine)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「苯二氮平(benzodiazepines, BZDs)藥物有幫助睡眠的效果,因為它會結合至下列何種傳導物質受體的BZD\n 結合位置?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：BZDs 會結合在 GABA_A 受體的 benzodiazepine binding site，增強 GABA 對氯離子通道開啟的效果，因此具有鎮靜與助眠作用。它不是作用在 dopamine、glutamate 或 glycine 受體的 BZD 位點。這是神經藥理與生理常見整合題。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「多巴胺(dopamine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「麩胺酸(glutamate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「γ-胺基丁酸(GABA)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「甘胺酸(glycine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\nbenzodiazepines 是 GABA_A 受體的正向變構調節劑。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "benzodiazepines 是 GABA_A 受體的正向變構調節劑。",
-      "flashcard_summary": "benzodiazepine / GABA_A -> BZD 結合 GABA 受體的 benzodiazepine 位點",
+      "explanation": "【題幹解析】\nBenzodiazepines 結合 GABA_A receptor 上的 BZD site，增強 GABA 造成的氯離子通道開啟頻率，產生鎮靜與助眠效果。\n\n【選項詳解】\n- A. 多巴胺受體不是 BZD 的助眠作用標的。\n- B. 麩胺酸是主要興奮性傳遞物質，BZD 不作用於 glutamate receptor 的 BZD site。\n- C. GABA_A receptor 具有 benzodiazepine binding site，BZD 增強 GABA 抑制作用，故正確。\n- D. 甘胺酸也是抑制性傳遞物質，但不是 BZD 的典型受體標的。\n\n【核心考點】\nBZD 作用於 GABA_A receptor 的 benzodiazepine site，增強 GABAergic inhibition。",
+      "key_point": "BZD 作用於 GABA_A receptor 的 benzodiazepine site，增強 GABAergic inhibition。",
+      "flashcard_summary": "BZD 作用於 GABA_A receptor 的 benzodiazepine site，增強 GABAergic inhibition。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "benzodiazepine / GABA_A / positive allosteric modulator / sleep",
-      "flashcard_back": "看到 BZD 就要聯想到 GABA_A 受體，不是直接開通道，而是增強 GABA 效果。這是常見藥理機轉題。",
+      "flashcard_front": "苯二氮平(benzodiazepines, BZDs)藥物有幫助睡眠的效果,因為它會結合至下列何種傳導物質受體的BZD  結合位置?",
+      "flashcard_back": "BZD 作用於 GABA_A receptor 的 benzodiazepine site，增強 GABAergic inhibition。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_055",
@@ -1591,23 +1591,23 @@
         "D": "肌凝蛋白輕鏈(myosin light chain)"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「誘發平滑肌收縮的鈣離子是結合到下列何種蛋白?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：平滑肌不像骨骼肌依賴 troponin，而是由 Ca2+ 結合 calmodulin，進一步活化 myosin light-chain kinase 來促進收縮。tropomyosin 與 myosin light chain 都參與後續過程，但不是 Ca2+ 的第一個主要結合標的。這是平滑肌與骨骼肌調控差異的重點。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「旋轉素(troponin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「旋轉肌凝素(tropomyosin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「攜鈣素(calmodulin)」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「肌凝蛋白輕鏈(myosin light chain)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n平滑肌收縮的 Ca2+ 先結合 calmodulin，再活化 MLCK。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "平滑肌收縮的 Ca2+ 先結合 calmodulin，再活化 MLCK。",
-      "flashcard_summary": "平滑肌收縮 / Ca2+ -> 鈣離子主要先結合 calmodulin",
+      "explanation": "【題幹解析】\n平滑肌收縮的鈣訊號不是透過 troponin，而是 Ca2+ 結合 calmodulin，活化 MLCK，使 myosin light chain 磷酸化後促進收縮。\n\n【選項詳解】\n- A. Troponin 是骨骼肌與心肌鈣調控的重要蛋白，平滑肌缺乏典型 troponin 調控。\n- B. Tropomyosin 參與肌絲調控，但不是平滑肌 Ca2+ 的主要結合蛋白。\n- C. Ca2+ 在平滑肌主要先結合 calmodulin，再啟動 MLCK，故正確。\n- D. Myosin light chain 是 MLCK 的磷酸化目標，不是 Ca2+ 直接結合的主要感受蛋白。\n\n【核心考點】\n平滑肌：Ca2+ 結合 calmodulin，活化 MLCK，磷酸化 myosin light chain。",
+      "key_point": "平滑肌：Ca2+ 結合 calmodulin，活化 MLCK，磷酸化 myosin light chain。",
+      "flashcard_summary": "平滑肌：Ca2+ 結合 calmodulin，活化 MLCK，磷酸化 myosin light chain。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "smooth muscle / Ca2+ / calmodulin / MLCK / troponin 對照",
-      "flashcard_back": "平滑肌題看到鈣離子就先想 calmodulin，不是 troponin。Ca2+-calmodulin 之後才去活化 MLCK。",
+      "flashcard_front": "誘發平滑肌收縮的鈣離子是結合到下列何種蛋白?",
+      "flashcard_back": "平滑肌：Ca2+ 結合 calmodulin，活化 MLCK，磷酸化 myosin light chain。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_056",
@@ -1620,23 +1620,23 @@
         "D": "不受影響"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「興奮dynamic γ-motor neuron時,其所支配之骨骼肌會產生何種變化?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：γ-motor neuron 支配肌梭內梭肌，dynamic γ 主要增強對快速伸長與長度變化的敏感度，使牽張反射調節更精細。它不會讓牽張反射消失，反而可增加肌梭輸入效能。故最合適的變化是對長度改變敏感度上升。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「張力(tone)降低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「對該骨骼肌長度變化之敏感度增加」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「牽張反射(strech reflex)消失」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「不受影響」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\ndynamic γ-motor neuron 會提高肌梭對肌肉長度變化的敏感度。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "dynamic γ-motor neuron 會提高肌梭對肌肉長度變化的敏感度。",
-      "flashcard_summary": "dynamic gamma / 肌梭敏感度 -> 增加對骨骼肌長度變化的敏感度",
+      "explanation": "【題幹解析】\nDynamic gamma motor neuron 支配肌梭內梭肌，特別提高肌梭對快速伸長與長度變化的敏感度，使牽張反射更靈敏。\n\n【選項詳解】\n- A. 興奮 dynamic gamma neuron 不會使肌張力反射性降低；它會提高肌梭敏感度。\n- B. dynamic gamma 活化會增加肌梭對骨骼肌長度變化，尤其快速伸長的敏感度，故正確。\n- C. 牽張反射不會消失，反而因肌梭傳入較敏感而較容易被調節。\n- D. dynamic gamma neuron 直接調整肌梭敏感性，不會完全無影響。\n\n【核心考點】\nDynamic gamma motor neuron 增加肌梭對肌肉長度變化的敏感度。",
+      "key_point": "Dynamic gamma motor neuron 增加肌梭對肌肉長度變化的敏感度。",
+      "flashcard_summary": "Dynamic gamma motor neuron 增加肌梭對肌肉長度變化的敏感度。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "dynamic gamma motor neuron / muscle spindle / length sensitivity / stretch reflex",
-      "flashcard_back": "γ 系統的重點是調整肌梭靈敏度，不是直接產生主要張力。dynamic γ 特別強化對長度變化的回應。",
+      "flashcard_front": "興奮dynamic γ-motor neuron時,其所支配之骨骼肌會產生何種變化?",
+      "flashcard_back": "Dynamic gamma motor neuron 增加肌梭對肌肉長度變化的敏感度。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_057",
@@ -1649,23 +1649,23 @@
         "D": "維生素K"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「面對一位患有惡性貧血的患者,下列營養補充劑中,何者最適合用來改善症狀?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：惡性貧血通常源自內在因子缺乏導致維生素 B12 吸收不良，進而造成巨球性貧血與神經症狀。治療重點是補充 vitamin B12，而不是 A、D 或 K。這題是營養素功能與臨床表現的經典配對。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「維生素A」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「維生素B12」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「維生素D」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「維生素K」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n惡性貧血是維生素 B12 缺乏所致，補充 B12 最能改善。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "惡性貧血是維生素 B12 缺乏所致，補充 B12 最能改善。",
-      "flashcard_summary": "惡性貧血 / 內在因子 -> 最適合補充維生素 B12",
+      "explanation": "【題幹解析】\n惡性貧血多因內在因子缺乏造成 vitamin B12 吸收不良，引起巨球性貧血與可能神經症狀，治療重點是補充 B12。\n\n【選項詳解】\n- A. 維生素 A 與視覺、上皮分化相關，不是惡性貧血的主要缺乏營養素。\n- B. 惡性貧血是 vitamin B12 吸收障礙造成，補充 B12 最能改善症狀，故正確。\n- C. 維生素 D 主要調節鈣磷與骨代謝，不治療惡性貧血主因。\n- D. 維生素 K 參與凝血因子活化，與惡性貧血的巨球性貧血機轉不同。\n\n【核心考點】\nPernicious anemia 來自 intrinsic factor 缺乏導致 B12 吸收不良，治療補充 vitamin B12。",
+      "key_point": "Pernicious anemia 來自 intrinsic factor 缺乏導致 B12 吸收不良，治療補充 vitamin B12。",
+      "flashcard_summary": "Pernicious anemia 來自 intrinsic factor 缺乏導致 B12 吸收不良，治療補充 vitamin B12。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "pernicious anemia / intrinsic factor / vitamin B12 / megaloblastic anemia",
-      "flashcard_back": "看到惡性貧血就先想內在因子缺乏與 B12 吸收障礙。治療上要補 B12，而不是只補葉酸。",
+      "flashcard_front": "面對一位患有惡性貧血的患者,下列營養補充劑中,何者最適合用來改善症狀?",
+      "flashcard_back": "Pernicious anemia 來自 intrinsic factor 缺乏導致 B12 吸收不良，治療補充 vitamin B12。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_058",
@@ -1678,23 +1678,23 @@
         "D": "心室壓力維持不變"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「對正常的心臟週期而言,在第一心音與第二心音之間,會發生下列何項生理變化?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：S1 是房室瓣關閉，S2 是半月瓣關閉，兩者之間主要是心室收縮與射血期，因此心室容積會快速下降。心房去極化發生在心室收縮前，心室壓力也不是全程維持不變。這題要把心音和心週期事件正確對應。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心房於此時去極化」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「心室容積快速下降」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「心房壓力先上升之後下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「心室壓力維持不變」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n第一心音到第二心音之間對應心室收縮期，心室容積整體下降。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "第一心音到第二心音之間對應心室收縮期，心室容積整體下降。",
-      "flashcard_summary": "第一到第二心音 / 心室收縮期 -> 心室容積快速下降",
+      "explanation": "【題幹解析】\n第一心音 S1 到第二心音 S2 之間是心室收縮期，包含等容收縮與射血期；射血期心室容積快速下降。\n\n【選項詳解】\n- A. 心房去極化對應 P wave，發生在心室收縮前，不是在 S1 到 S2 的主要事件。\n- B. S1 到 S2 之間有心室射血，心室容積快速下降，故正確。\n- C. 心房壓力會有波動，但不是此期間最具代表性的主要生理變化。\n- D. 心室壓力在等容收縮上升、射血期變化，並非維持不變。\n\n【核心考點】\nS1 到 S2 是心室收縮與射血期，心室容積下降。",
+      "key_point": "S1 到 S2 是心室收縮與射血期，心室容積下降。",
+      "flashcard_summary": "S1 到 S2 是心室收縮與射血期，心室容積下降。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "S1 to S2 / ventricular systole / ejection / ventricular volume falls",
-      "flashcard_back": "聽到 S1 到 S2，就先想心室收縮期。這段時間最代表性的容積變化就是心室把血射出、容積下降。",
+      "flashcard_front": "對正常的心臟週期而言,在第一心音與第二心音之間,會發生下列何項生理變化?",
+      "flashcard_back": "S1 到 S2 是心室收縮與射血期，心室容積下降。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_059",
@@ -1707,23 +1707,23 @@
         "D": "增加靜脈順應性(increase of venous compliance)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種情況最有可能增加心輸出量(cardiac output)?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：慢性貧血會降低血液攜氧能力，身體代償性增加心輸出量以維持組織氧供，故 A 最可能。心肌梗塞與心肌炎會削弱幫浦功能；靜脈順應性增加則降低回心血量，也不利於輸出量上升。這題是在考心輸出量的代償反應。\n\n【選項詳解】\n- A. 正確答案。選項內容：「慢性中度貧血(moderate chronic anemia)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「心肌梗塞(myocardial infarction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「心肌炎(myocarditis)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「增加靜脈順應性(increase of venous compliance)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n慢性中度貧血可因周邊阻力下降與代償性心跳加快而增加心輸出量。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "慢性中度貧血可因周邊阻力下降與代償性心跳加快而增加心輸出量。",
-      "flashcard_summary": "心輸出量增加 / 慢性貧血 -> moderate chronic anemia 最可能增加 cardiac output",
+      "explanation": "【題幹解析】\n慢性中度貧血降低血液攜氧量，身體常以增加心輸出量代償，以維持組織氧輸送。\n\n【選項詳解】\n- A. 慢性貧血可造成高輸出狀態，心跳與心輸出量代償上升，故最可能增加 cardiac output。\n- B. 心肌梗塞損害收縮功能，通常降低而非增加心輸出量。\n- C. 心肌炎造成心肌發炎與收縮功能下降，不利於心輸出量增加。\n- D. 靜脈順應性增加會讓血液滯留於靜脈，降低回心血量與前負荷，通常不增加心輸出量。\n\n【核心考點】\n慢性貧血可因氧輸送不足而代償性增加心輸出量。",
+      "key_point": "慢性貧血可因氧輸送不足而代償性增加心輸出量。",
+      "flashcard_summary": "慢性貧血可因氧輸送不足而代償性增加心輸出量。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "cardiac output / chronic anemia / compensation / venous return / MI 對照",
-      "flashcard_back": "心輸出量增加常見於高代謝或代償狀態，如貧血。若是心肌病變或靜脈回流下降，通常會讓心輸出量變差。",
+      "flashcard_front": "下列何種情況最有可能增加心輸出量(cardiac output)?",
+      "flashcard_back": "慢性貧血可因氧輸送不足而代償性增加心輸出量。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_060",
@@ -1736,23 +1736,23 @@
         "D": "分布到微動脈的交感神經活性增加,減少微動脈半徑,增加周邊總阻力"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「在大失血造成動脈壓下降時,體內循環系統為維持恆定,會產生一連串接續反應將血壓朝向正常值回復,該\n 過程中最不可能發生者為下列何項?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：動脈壓下降時，壓力感受器反射會減少迷走神經活性並增加交感活性，使心跳加快、收縮力上升、靜脈回流增加及周邊阻力上升。選項 A 把副交感增加與心跳加快連在一起，方向完全相反，因此最不可能發生。其餘 B、C、D 都是典型代償反應。\n\n【選項詳解】\n- A. 正確答案。選項內容：「分布到心臟的副交感神經活性增加,使心房竇房結心跳速率增快」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「分布到心室心肌細胞的交感神經活性增加,增強心室收縮與心搏量」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「分布到靜脈的交感神經活性增加,增加靜脈回流與心臟舒張末期容積」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「分布到微動脈的交感神經活性增加,減少微動脈半徑,增加周邊總阻力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n大失血時為恢復血壓會降低副交感、增加交感，不會靠增加副交感來讓心跳變快。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "大失血時為恢復血壓會降低副交感、增加交感，不會靠增加副交感來讓心跳變快。",
-      "flashcard_summary": "大失血 / 壓力感受器反射 -> 不會靠增加副交感神經來加快心跳",
+      "explanation": "【題幹解析】\n大失血造成血壓下降時，壓力感受器反射會增加交感、降低副交感，以提升心跳、收縮力、靜脈回流與周邊阻力。\n\n【選項詳解】\n- A. 副交感活性增加會降低竇房結心跳速率，不會使心跳變快；此敘述方向相反，最不可能發生。\n- B. 交感刺激心室可增加收縮力，有助維持 stroke volume 與血壓。\n- C. 交感刺激靜脈收縮可增加靜脈回流與舒張末期容積，是典型代償。\n- D. 交感刺激微動脈收縮可增加總周邊阻力，有助拉回血壓。\n\n【核心考點】\n失血低血壓反射：交感上升、副交感下降，心跳收縮力與周邊阻力增加。",
+      "key_point": "失血低血壓反射：交感上升、副交感下降，心跳收縮力與周邊阻力增加。",
+      "flashcard_summary": "失血低血壓反射：交感上升、副交感下降，心跳收縮力與周邊阻力增加。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "hemorrhage / baroreflex / sympathetic up / parasympathetic down / BP recovery",
-      "flashcard_back": "失血時的反射方向很重要：交感上升、迷走下降。若題目說副交感增加卻讓心跳變快，通常就是錯誤選項。",
+      "flashcard_front": "在大失血造成動脈壓下降時,體內循環系統為維持恆定,會產生一連串接續反應將血壓朝向正常值回復,該  過程中最不可能發生者為下列何項?",
+      "flashcard_back": "失血低血壓反射：交感上升、副交感下降，心跳收縮力與周邊阻力增加。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_061",
@@ -1765,23 +1765,23 @@
         "D": "心臟代謝率增加"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列那一因子最可能引起冠狀動脈(coronary artery)血管收縮?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：adenosine、nitric oxide 與心肌代謝率上升都會促進冠狀動脈擴張，以增加供血。若心跳速率減慢，心肌耗氧量下降，局部代謝性舒張因子減少，血管較可能呈現相對收縮。故四個選項中最可能引起收縮的是心跳速率減緩。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「腺苷酸(adenosine)之局部濃度增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「心跳速率減緩」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「nitric oxide之局部濃度增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「心臟代謝率增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n冠狀動脈張力與心肌代謝需求密切耦合，心跳減慢時代謝性舒張刺激減少而較易收縮。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "冠狀動脈張力與心肌代謝需求密切耦合，心跳減慢時代謝性舒張刺激減少而較易收縮。",
-      "flashcard_summary": "冠狀動脈 / 代謝調控 / 心跳減慢 -> 耗氧下降使血管較可能收縮",
+      "explanation": "【題幹解析】\n冠狀動脈受局部代謝調控很強。Adenosine、NO 與心肌代謝率上升都促進舒張；心跳變慢使耗氧下降，代謝性舒張訊號減少，較可能相對收縮。\n\n【選項詳解】\n- A. adenosine 是冠脈強力局部舒張因子，濃度增加會擴張而非收縮。\n- B. 心跳速率減慢使心肌耗氧與代謝產物下降，冠脈局部舒張驅動降低，最可能造成相對收縮。\n- C. nitric oxide 會活化 cGMP 路徑造成血管平滑肌舒張，不會引起收縮。\n- D. 心臟代謝率增加會產生更多代謝性舒張因子，使冠狀動脈擴張以增加供血。\n\n【核心考點】\n冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "key_point": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
+      "flashcard_summary": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "coronary flow / adenosine / nitric oxide / metabolic demand / bradycardia",
-      "flashcard_back": "冠狀動脈最受代謝需求控制，代謝越高越擴張。若心率下降、耗氧下降，擴張刺激變少，才較容易收縮。",
+      "flashcard_front": "下列那一因子最可能引起冠狀動脈(coronary artery)血管收縮?",
+      "flashcard_back": "冠脈血流主要隨心肌代謝需求調整；代謝需求下降時冠脈較可能收縮。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_062",
@@ -1794,23 +1794,23 @@
         "D": "1>2=3"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「某健康者在海平面呼吸一般空氣,正常情況下,比較各處氧分壓( )的大小關係,下列排序何者正確?\n 1吸入的氣體(inspired air,在鼻腔中測量) 2肺泡內氣體(alveolar air) 3呼出的氣體\n (expired air,在鼻腔中測量)」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：鼻腔中的吸入空氣雖受濕化影響，但氧分壓仍高於肺泡氣。呼出氣是肺泡氣與解剖死腔空氣的混合，因此其氧分壓通常介於吸入氣與肺泡氣之間。故正確排序為 inspired air > expired air > alveolar air。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「1>2>3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「1>3>2」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「1=2>3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「1>2=3」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n吸入空氣氧分壓最高，呼出氣因含死腔氣體而高於純肺泡氣。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "吸入空氣氧分壓最高，呼出氣因含死腔氣體而高於純肺泡氣。",
-      "flashcard_summary": "氧分壓排序 / 吸入 呼出 肺泡 -> inspired air > expired air > alveolar air",
+      "explanation": "【題幹解析】\n吸入空氣的氧分壓最高；肺泡氣因持續與血液交換並含二氧化碳，氧分壓較低；呼出氣混合了解剖死腔空氣與肺泡氣，因此介於兩者之間。\n\n【選項詳解】\n- A. 呼出氣不是最低，因為它混合了未參與氣體交換的死腔空氣，氧分壓高於純肺泡氣。\n- B. inspired air > expired air > alveolar air 符合死腔混合與肺泡氣交換後氧分壓較低的邏輯，故正確。\n- C. 吸入氣與肺泡氣不相等；肺泡氣氧分壓因交換與 CO2 存在而較低。\n- D. 呼出氣與肺泡氣不相等，呼出氣混有死腔空氣，所以氧分壓較高。\n\n【核心考點】\n氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "key_point": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
+      "flashcard_summary": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "PO2 排序 / inspired air / alveolar air / expired air / dead space",
-      "flashcard_back": "呼出氣不是純肺泡氣，因為混入死腔空氣，所以 PO2 會比肺泡氣高一點。整體排序就是吸入最高、肺泡最低。",
+      "flashcard_front": "某健康者在海平面呼吸一般空氣,正常情況下,比較各處氧分壓( )的大小關係,下列排序何者正確?  1吸入的氣體(inspired air,在鼻腔中測量) 2肺泡",
+      "flashcard_back": "氧分壓排序：吸入氣 > 呼出氣 > 肺泡氣。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_063",
@@ -1823,23 +1823,23 @@
         "D": "兩組大白鼠的中樞化學感受器(central chemoreceptor)活性相同"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「已知某藥物會抑制碳酸酐酶(carbonic anhydrase),但是無法穿透血腦障壁(blood-brain barrier)。\n 實驗中,大白鼠分為兩組,控制組未曾經過藥物處理,實驗組則事先接受該藥物注射進入體動脈(systemic\n artery)血中。若讓兩組大白鼠分別吸入比平時更高濃度的二氧化碳(CO2),會發生下列何種反應?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：中樞化學感受器感受的是腦脊髓液中的 H+ 變化，而 CO2 可自由穿過血腦障壁；若碳酸酐酶抑制劑無法進入中樞，其對中樞 chemoreceptor 的直接影響應相同。周邊化學感受器如主動脈體可能受到系統性藥物影響，但題目最穩定的判斷是兩組的中樞 chemoreceptor 活性相同。這題重點在分清血腦障壁隔絕了哪些效應。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「兩組大白鼠的肺泡通氣量(alveolar ventilation)相同」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「實驗組的主動脈體(aortic body)化學感受器(chemoreceptor)活性(activity)比控制組更強」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「控制組的舌咽神經(glossopharyngeal nerve)放電頻率(firing frequency)比實驗組更低」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「兩組大白鼠的中樞化學感受器(central chemoreceptor)活性相同」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n藥物無法穿越血腦障壁時，不會直接改變中樞化學感受器對 CO2 的反應。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "藥物無法穿越血腦障壁時，不會直接改變中樞化學感受器對 CO2 的反應。",
-      "flashcard_summary": "CA 抑制劑 / 不過 BBB / 中樞化學感受器 -> 兩組 central chemoreceptor 活性相同",
+      "explanation": "【題幹解析】\nCO2 可穿過血腦障壁刺激中樞化學感受器；題目給的碳酸酐酶抑制劑無法穿過血腦障壁，因此兩組中樞化學感受器所受直接影響相同。\n\n【選項詳解】\n- A. 周邊碳酸酐酶被抑制會影響 CO2/H+ 轉換與周邊化學感受器反應，兩組肺泡通氣量不一定相同。\n- B. 實驗組周邊化學感受器未必更強；碳酸酐酶受抑制通常會減慢局部 H+ 生成，不能穩定判為更強。\n- C. 舌咽神經主要傳遞頸動脈體訊號，題幹選項談控制組較低並不符合周邊藥物效應的穩定判斷。\n- D. 藥物不進入中樞，CO2 仍可進入腦脊髓液，因此兩組 central chemoreceptor 活性相同是最穩定答案。\n\n【核心考點】\n不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "key_point": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
+      "flashcard_summary": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "carbonic anhydrase inhibitor / BBB 不通過 / CO2 inhalation / central chemoreceptor",
-      "flashcard_back": "CO2 能進中樞，但不能過 BBB 的藥物進不去。若藥物只在周邊，中央化學感受器的直接反應不應因此改變。",
+      "flashcard_front": "已知某藥物會抑制碳酸酐酶(carbonic anhydrase),但是無法穿透血腦障壁(blood-brain barrier)。  實驗中,大白鼠分為兩組,控",
+      "flashcard_back": "不能穿過血腦障壁的碳酸酐酶抑制劑不直接改變中樞化學感受器反應。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_064",
@@ -1852,23 +1852,23 @@
         "D": "作用於氯離子通道(Cl- channel),協助酸鹼中和"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列關於胰泌素(secretin)的敘述,何者正確?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：secretin 由十二指腸 S cells 分泌，主要刺激胰臟管細胞與膽道上皮分泌富含 bicarbonate 的液體，協助中和進入十二指腸的胃酸。它不是由胰臟製造，也不會促進胃酸分泌。選項 D 只提 Cl- channel 太狹隘，A 才是正確完整描述。\n\n【選項詳解】\n- A. 正確答案。選項內容：「作用在胰臟管細胞(pancreatic duct cell),協助酸鹼中和」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「由胰臟(pancreas)製造,促進胃酸分泌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「透過抑制Gq蛋白,促進胃酸分泌」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「作用於氯離子通道(Cl- channel),協助酸鹼中和」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n胰泌素作用在胰管細胞，促進 HCO3- 分泌以中和胃酸。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "胰泌素作用在胰管細胞，促進 HCO3- 分泌以中和胃酸。",
-      "flashcard_summary": "胰泌素 / 胰管細胞 / HCO3- -> 促進酸鹼中和",
+      "explanation": "【題幹解析】\nSecretin 由十二指腸 S cells 受酸刺激分泌，作用於胰臟管細胞與膽道上皮，促進 bicarbonate-rich fluid 分泌以中和胃酸。\n\n【選項詳解】\n- A. secretin 刺激 pancreatic duct cells 分泌 HCO3-，協助十二指腸酸鹼中和，敘述正確。\n- B. secretin 不是胰臟製造，也不是促進胃酸分泌；它通常抑制胃酸並促進中和。\n- C. secretin 主要經 Gs/cAMP 促進 bicarbonate 分泌，不是抑制 Gq 以促進胃酸。\n- D. 氯離子通道可參與分泌液電解質運作，但此選項未指出 secretin 的主要標的與 bicarbonate 分泌，不如 A 完整。\n\n【核心考點】\nSecretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "key_point": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
+      "flashcard_summary": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "secretin / pancreatic duct cell / bicarbonate / acid neutralization",
-      "flashcard_back": "胰泌素的招牌作用是『胰管分泌 HCO3- 中和酸』。來源在十二指腸，不在胰臟本身。",
+      "flashcard_front": "下列關於胰泌素(secretin)的敘述,何者正確?",
+      "flashcard_back": "Secretin 由十二指腸 S cells 分泌，刺激胰管 HCO3- 分泌來中和胃酸。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_065",
@@ -1881,23 +1881,23 @@
         "D": "乳糖(lactose)主要透過葡萄糖運輸蛋白-5(glucose transporter-5, GLUT-5)直接吸收"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「對於腸細胞(enterocyte)吸收的糖類物質與方式的敘述,下列何者最正確?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：小腸 enterocyte 的葡萄糖與半乳糖主要由 apical SGLT1 與鈉共同運輸進入細胞；果糖則走 GLUT5。SGLT2 主要在腎近曲小管，不是小腸主力；乳糖必須先分解成單醣才可被吸收。故最正確為半乳糖經 SGLT1 吸收。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「葡萄糖(glucose)主要透過鈉依賴型葡萄糖共同運輸蛋白-2(sodium-dependent glucose\n cotransporter-2, SGLT-2)直接吸收」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「果糖(fructose)主要透過葡萄糖運輸蛋白-4(glucose transporter-4, GLUT-4)直接吸收」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「半乳糖(galactose)主要透過鈉依賴型葡萄糖共同運輸蛋白-1(sodium-dependent glucose\n transporter-1, SGLT-1)直接吸收」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「乳糖(lactose)主要透過葡萄糖運輸蛋白-5(glucose transporter-5, GLUT-5)直接吸收」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\n半乳糖和葡萄糖都經由小腸刷狀緣的 SGLT1 吸收。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "半乳糖和葡萄糖都經由小腸刷狀緣的 SGLT1 吸收。",
-      "flashcard_summary": "腸道單醣吸收 / SGLT1 -> 半乳糖主要經 SGLT1 直接吸收",
+      "explanation": "【題幹解析】\n小腸吸收單醣：glucose 與 galactose 由頂端膜 SGLT1 伴隨 Na+ 吸收；fructose 由 GLUT5；lactose 必須先被 lactase 分解。\n\n【選項詳解】\n- A. 小腸 glucose 主要走 SGLT1；SGLT2 主要在腎近曲小管負責葡萄糖再吸收。\n- B. fructose 主要由 GLUT5 吸收；GLUT4 是胰島素敏感的肌肉與脂肪細胞轉運蛋白。\n- C. galactose 與 glucose 一樣主要經 SGLT1 與 Na+ 共同運輸進入腸細胞，故正確。\n- D. lactose 是雙醣，需先分解為 glucose 與 galactose；GLUT5 吸收的是 fructose。\n\n【核心考點】\n小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "key_point": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
+      "flashcard_summary": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "enterocyte sugar uptake / SGLT1 / GLUT5 / SGLT2 對照 / lactose digestion",
-      "flashcard_back": "小腸單醣吸收要背熟：glucose、galactose 走 SGLT1，fructose 走 GLUT5。SGLT2 是腎臟常考陷阱。",
+      "flashcard_front": "對於腸細胞(enterocyte)吸收的糖類物質與方式的敘述,下列何者最正確?",
+      "flashcard_back": "小腸：glucose/galactose 用 SGLT1，fructose 用 GLUT5，lactose 先消化再吸收。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_066",
@@ -1910,23 +1910,23 @@
         "D": "Na+-Cl-"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「在亨利氏彎管上行枝粗管的管腔膜(apical membrane)上,最主要以何種同向運輸子(cotransporter)進\n 行鈉的再吸收?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：thick ascending limb 的刷膜主要使用 Na+-K+-2Cl- cotransporter 吸收溶質，這也是 loop diuretics 的作用標的。Na+-Cl- cotransporter 則是遠曲小管的代表。故本題正確答案是 Na+-K+-2Cl-。\n\n【選項詳解】\n- A. 正確答案。選項內容：「Na+-K+-2Cl-」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「Na+-glucose」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「Na+-phosphate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「Na+-Cl-」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n亨利氏袢粗上行支再吸收鈉的主要 apical transporter 是 NKCC2。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "亨利氏袢粗上行支再吸收鈉的主要 apical transporter 是 NKCC2。",
-      "flashcard_summary": "亨利氏袢粗上行支 / NKCC2 -> 鈉主要靠 Na+-K+-2Cl- 同向運輸子再吸收",
+      "explanation": "【題幹解析】\nHenle loop 上行粗支的頂端膜主要使用 Na+-K+-2Cl- cotransporter 進行鈉再吸收，這也是 loop diuretics 的抑制標的。\n\n【選項詳解】\n- A. Na+-K+-2Cl- cotransporter（NKCC2）位於上行粗支頂端膜，是本題正確答案。\n- B. Na+-glucose cotransporter 主要在近曲小管回收葡萄糖，不是上行粗支主力。\n- C. Na+-phosphate cotransporter 主要在近曲小管參與磷酸鹽再吸收。\n- D. Na+-Cl- cotransporter 是遠曲小管代表轉運子，為 thiazide 類利尿劑標的。\n\n【核心考點】\n上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "key_point": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
+      "flashcard_summary": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "TAL / NKCC2 / loop diuretic / Na-K-2Cl / DCT 對照",
-      "flashcard_back": "腎臟轉運體定位高頻考點：粗上行支是 NKCC2，遠曲小管才是 NCC。看到 loop diuretic 也要想到同一位置。",
+      "flashcard_front": "在亨利氏彎管上行枝粗管的管腔膜(apical membrane)上,最主要以何種同向運輸子(cotransporter)進  行鈉的再吸收?",
+      "flashcard_back": "上行粗支 apical Na+ 再吸收主力是 NKCC2；遠曲小管是 NCC。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_067",
@@ -1939,23 +1939,23 @@
         "D": "尿液滲透壓及血漿ADH濃度均減少"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「人在限制喝水(water deprivation)4小時之後,尿液滲透壓及血漿antidiuretic hormone(ADH)濃度較\n 開始限水時基礎值(baseline)有何變化?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：水分攝取受限會使血漿滲透壓上升，刺激下視丘與後葉增加 ADH 分泌。ADH 促使集合管水通透性增加，使尿液更濃縮，因此尿液滲透壓也上升。故尿滲透壓與 ADH 皆增加。\n\n【選項詳解】\n- A. 正確答案。選項內容：「尿液滲透壓及血漿ADH濃度均增加」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「尿液滲透壓減少,血漿ADH濃度增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「尿液滲透壓增加,血漿ADH濃度減少」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「尿液滲透壓及血漿ADH濃度均減少」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n限水後 ADH 上升，集合管吸水增加，尿滲透壓也上升。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "限水後 ADH 上升，集合管吸水增加，尿滲透壓也上升。",
-      "flashcard_summary": "限水 / ADH / 尿滲透壓 -> 兩者都會上升",
+      "explanation": "【題幹解析】\n限水會提高血漿滲透壓，刺激 ADH 分泌；ADH 增加集合管水通透性，使水回收增加、尿液濃縮，尿滲透壓上升。\n\n【選項詳解】\n- A. 限水後 ADH 上升且尿液被濃縮，尿滲透壓與血漿 ADH 都增加，故正確。\n- B. ADH 增加會讓尿液濃縮，不會使尿滲透壓下降。\n- C. 尿滲透壓雖會增加，但 ADH 不會減少；限水會刺激 ADH 分泌。\n- D. 限水不是水負荷狀態，不會讓尿滲透壓與 ADH 同時下降。\n\n【核心考點】\n限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "key_point": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
+      "flashcard_summary": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "water deprivation / ADH / urine osmolality / collecting duct",
-      "flashcard_back": "限水後的標準反應是 ADH 上升、尿液濃縮。若題目出現一增一減，多半就是干擾選項。",
+      "flashcard_front": "人在限制喝水(water deprivation)4小時之後,尿液滲透壓及血漿antidiuretic hormone(ADH)濃度較  開始限水時基礎值(ba",
+      "flashcard_back": "限水使 ADH 上升，集合管回收水增加，尿液滲透壓上升。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_068",
@@ -1968,23 +1968,23 @@
         "D": "在成年女性,若腎上腺雄性素分泌過量,可能造成腎上腺性徵異常綜合症(adrenogenital syndrome)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「有關腎上腺皮質分泌雄性素(androgen)作用的敘述,下列何者最不適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：腎上腺網狀帶分泌的 DHEA、DHEAS 等雄性素主要受 ACTH 調控，與性腺受到的 LH/FSH 調控不同。DHEAS 濃度常在年輕成人達高峰，過量也可能造成兒童假性性早熟或女性男性化表現。故最不適當的是說主要受 gonadotropins 調控。\n\n【選項詳解】\n- A. 正確答案。選項內容：「其分泌作用主要受到促性腺激素(gonadotropins)的調控」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「其先質dehydroepiandrosterone sulfate(DHEAS)血中濃度通常在20歲左右達到高峰」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「在青春期前男性,若腎上腺雄性素分泌過量,可能造成假性性早熟(precocious pseudopuberty)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「在成年女性,若腎上腺雄性素分泌過量,可能造成腎上腺性徵異常綜合症(adrenogenital syndrome)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n腎上腺皮質雄性素主要受 ACTH 影響，不是 gonadotropins 主導。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "腎上腺皮質雄性素主要受 ACTH 影響，不是 gonadotropins 主導。",
-      "flashcard_summary": "腎上腺雄性素 / ACTH -> 主要不受 gonadotropins 調控",
+      "explanation": "【題幹解析】\n腎上腺網狀帶分泌 DHEA、DHEAS 等 androgen，主要受 ACTH 影響；gonadotropins 主要調控性腺，不是腎上腺雄性素主調控。\n\n【選項詳解】\n- A. 腎上腺雄性素主要受 ACTH 調控，而非 LH/FSH 等 gonadotropins，因此此敘述最不適當。\n- B. DHEAS 常在年輕成人約 20 歲左右達高峰，之後隨年齡下降，敘述可接受。\n- C. 青春期前男孩若腎上腺 androgen 過多，可造成假性性早熟或男性化表現。\n- D. 成年女性 androgen 過多可造成多毛、痤瘡、月經異常等腎上腺性徵異常表現。\n\n【核心考點】\n腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "key_point": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
+      "flashcard_summary": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "adrenal androgen / ACTH / DHEAS / precocious pseudopuberty / adrenogenital",
-      "flashcard_back": "腎上腺雄性素和性腺雄性素要分開記：前者看 ACTH，後者才看 gonadotropins。這是內分泌常見陷阱。",
+      "flashcard_front": "有關腎上腺皮質分泌雄性素(androgen)作用的敘述,下列何者最不適當?",
+      "flashcard_back": "腎上腺 androgen 主要受 ACTH 調控；gonadotropins 主要調控性腺。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_069",
@@ -1997,23 +1997,23 @@
         "D": "切除交感神經的動物,仍可保有完整之對抗壓力反應的能力"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「身體對抗急性壓力反應,下列何者敘述最為適當?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：急性壓力會使 hypothalamus 啟動 HPA axis，造成 ACTH 與後續 glucocorticoid 上升，也會同步活化交感-腎上腺髓質系統。對兒茶酚胺的允許作用來自 glucocorticoids，不是 ACTH 本身；切除交感神經也不可能保留完整急性壓力反應。故 A 最恰當。\n\n【選項詳解】\n- A. 正確答案。選項內容：「壓力刺激可造成血中促腎上腺皮質素(ACTH)濃度升高,也會同時活化交感神經」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「循環中促腎上腺皮質素(ACTH)存在,對於兒茶酚胺類荷爾蒙對心血管的作用具有允許作用(permissive\n action)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「醣皮質素(glucocorticoid)的升高,是造成壓力反應中脂肪分解作用的主要原因」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「切除交感神經的動物,仍可保有完整之對抗壓力反應的能力」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n急性壓力反應會同時活化 HPA 軸與交感神經系統。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "急性壓力反應會同時活化 HPA 軸與交感神經系統。",
-      "flashcard_summary": "急性壓力 / HPA 軸 / 交感神經 -> ACTH 升高且交感神經同步活化",
+      "explanation": "【題幹解析】\n急性壓力同時啟動 HPA axis 與交感-腎上腺髓質系統，使 ACTH、glucocorticoid 與 catecholamines 相關反應上升。\n\n【選項詳解】\n- A. 壓力刺激會增加 CRH/ACTH，並同步活化交感神經，是最完整正確的敘述。\n- B. 對兒茶酚胺心血管作用具有 permissive action 的主要是 glucocorticoids，不是 ACTH 本身。\n- C. 脂肪分解在急性壓力中主要受 catecholamines 等快速訊號驅動；glucocorticoid 不是唯一或主要即刻原因。\n- D. 交感神經是急性壓力反應核心，切除後不可能保有完整壓力反應。\n\n【核心考點】\n急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "key_point": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
+      "flashcard_summary": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "acute stress / ACTH / HPA axis / sympathetic activation / catecholamine",
-      "flashcard_back": "急性壓力不要只背一條路，要同時想到 HPA 軸和交感神經。允許作用則主要是 glucocorticoid 的概念。",
+      "flashcard_front": "身體對抗急性壓力反應,下列何者敘述最為適當?",
+      "flashcard_back": "急性壓力會同時啟動 HPA axis 與交感神經；glucocorticoids 對 catecholamines 有 permissive effect。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_070",
@@ -2026,23 +2026,23 @@
         "D": "脂肪組織:促進脂肪分解作用"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關甲狀腺素對各組織器官的作用,下列何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：甲狀腺素可提高心臟對兒茶酚胺的敏感性、促進腦部發育，也能增加脂肪分解，這些都是經典作用。對骨骼肌而言，過量甲狀腺素常導致蛋白質分解增加與肌肉消耗，因此把它概括成『增加蛋白質合成作用』最不恰當。題目考的是典型生理效應而不是單一情境下的合成反應。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「心臟:促進心臟對兒茶酚胺的反應」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「肌肉:增加蛋白質合成作用」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「神經系統:促進大腦發育」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「脂肪組織:促進脂肪分解作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n甲狀腺素雖促進整體代謝，但對肌肉並不以『增加蛋白質合成』作為最典型描述。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "甲狀腺素雖促進整體代謝，但對肌肉並不以『增加蛋白質合成』作為最典型描述。",
-      "flashcard_summary": "甲狀腺素作用 / 肌肉 -> 最不恰當的是單純說增加蛋白質合成",
+      "explanation": "【題幹解析】\n甲狀腺素促進心臟對兒茶酚胺反應、促進腦發育並增加脂肪分解；過量時在肌肉常造成蛋白分解與肌肉消耗。\n\n【選項詳解】\n- A. 甲狀腺素會增加 beta-adrenergic responsiveness，使心臟對兒茶酚胺反應上升，正確。\n- B. 甲狀腺素過多時常增加肌肉蛋白分解，造成肌無力與消耗；概括為增加蛋白質合成最不恰當。\n- C. 甲狀腺素對胎兒與嬰幼兒中樞神經發育很重要，敘述正確。\n- D. 甲狀腺素可促進脂肪分解與基礎代謝，敘述正確。\n\n【核心考點】\n甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "key_point": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
+      "flashcard_summary": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "thyroid hormone / beta-adrenergic sensitivity / brain development / lipolysis / muscle catabolism",
-      "flashcard_back": "甲狀腺素最常見考點是升代謝、增心臟反應、促神經發育。若題目把肌肉單純寫成增加蛋白質合成，往往不夠準確。",
+      "flashcard_front": "有關甲狀腺素對各組織器官的作用,下列何者最不恰當?",
+      "flashcard_back": "甲狀腺素促進代謝與兒茶酚胺反應；過量時肌肉偏分解而非單純合成。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_071",
@@ -2055,23 +2055,23 @@
         "D": "小腸鈣吸收作用增加"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「有關身體對低血鈣狀況的可能反應,下列敘述何者最不恰當?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：低血鈣會刺激副甲狀腺素分泌，減少尿鈣排出並提升腎臟 1α-hydroxylase 活性，使活性維生素 D 增加，進一步提高腸鈣吸收。肝臟主要進行 25-hydroxylation，不是製造 1,25-(OH)2D3 的主要器官。故最不恰當的是 B。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「副甲狀腺素分泌增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「肝臟分泌之1,25-(OH)2D3 增加」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「尿液中鈣排泄作用減少」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「小腸鈣吸收作用增加」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n低血鈣時會增加 PTH 與腎臟活化維生素 D，不是肝臟直接增加 1,25-(OH)2D3 分泌。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "低血鈣時會增加 PTH 與腎臟活化維生素 D，不是肝臟直接增加 1,25-(OH)2D3 分泌。",
-      "flashcard_summary": "低血鈣 / 活性維生素 D -> 不是肝臟分泌 1,25-(OH)2D3 增加",
+      "explanation": "【題幹解析】\n低血鈣會刺激 PTH 分泌，促進腎臟保鈣並增加腎臟 1-alpha hydroxylase 活性，使 1,25-(OH)2D3 增加，進而增加腸鈣吸收。\n\n【選項詳解】\n- A. 低血鈣會刺激副甲狀腺素分泌增加，是正確代償。\n- B. 1,25-(OH)2D3 主要由腎臟活化生成；肝臟主要做 25-hydroxylation，因此說肝臟分泌增加最不恰當。\n- C. PTH 會增加腎小管鈣再吸收，使尿鈣排泄減少，屬低血鈣代償。\n- D. 活性維生素 D 增加會促進小腸鈣吸收，屬低血鈣後續代償。\n\n【核心考點】\n低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "key_point": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "flashcard_summary": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "hypocalcemia / PTH / kidney 1-alpha hydroxylase / intestinal Ca absorption / liver 對照",
-      "flashcard_back": "活性維生素 D 最後一步在腎臟，不在肝臟。看到低血鈣時，先想到 PTH 上升、腎臟活化 vitamin D。",
+      "flashcard_front": "有關身體對低血鈣狀況的可能反應,下列敘述何者最不恰當?",
+      "flashcard_back": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_072",
@@ -2084,23 +2084,23 @@
         "D": "升糖素(glucagon)升高可促進胰島素的分泌作用"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關胰島素分泌調控的敘述,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：迷走神經活化可促進胰島 β 細胞分泌胰島素，是進食期常見反應。血糖濃度是最主要調控因子，而 GLP-1 與升糖素在特定條件下也可促進胰島素分泌。故錯誤選項是說副交感神經會抑制胰島素。\n\n【選項詳解】\n- A. 正確答案。選項內容：「副交感神經活性升高會抑制胰島素的分泌」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「胰島素的分泌作用主要受血糖濃度的調控」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「在高血糖狀態下,類升糖素胜肽-1(glucagon-like peptide-1)可有效增強胰島素的分泌作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「升糖素(glucagon)升高可促進胰島素的分泌作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n副交感活性通常促進胰島素分泌，不是抑制。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "副交感活性通常促進胰島素分泌，不是抑制。",
-      "flashcard_summary": "胰島素分泌 / 副交感神經 -> 副交感活化會促進，不會抑制分泌",
+      "explanation": "【題幹解析】\n胰島素分泌主要受血糖調控，也受 incretin、迷走神經與部分胰島激素影響。副交感神經通常促進進食期胰島素分泌，不是抑制。\n\n【選項詳解】\n- A. 副交感迷走神經活化會促進胰島素分泌；說會抑制是錯誤敘述。\n- B. 血糖濃度是 beta cell 胰島素分泌最主要調控因子，正確。\n- C. GLP-1 在高血糖時增強 glucose-dependent insulin secretion，正確。\n- D. glucagon 可透過胰島內 paracrine 或血糖相關機制促進胰島素分泌，敘述可接受。\n\n【核心考點】\n胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "key_point": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "flashcard_summary": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "insulin secretion / parasympathetic / glucose / GLP-1 / glucagon",
-      "flashcard_back": "進食生理中副交感是幫助胰島素分泌的，不是壓抑。這題的核心是把神經調控方向記正確。",
+      "flashcard_front": "下列有關胰島素分泌調控的敘述,何者錯誤?",
+      "flashcard_back": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
       "category_group": "醫學（一）",
       "category": "生理學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_073",
@@ -2113,23 +2113,23 @@
         "D": "implanted blastocyst"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「透明帶(zona pellucida)不存在於下列何者?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：secondary oocyte、zygote 與 morula 都仍包覆在 zona pellucida 內，以避免異位著床。當囊胚準備著床時會先脫離透明帶，之後才能與子宮內膜接觸。故 implanted blastocyst 不再具有透明帶。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「secondary oocyte」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「zygote」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「morula」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「implanted blastocyst」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n透明帶在囊胚著床前存在，hatching 後著床中的囊胚不再有透明帶。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "透明帶在囊胚著床前存在，hatching 後著床中的囊胚不再有透明帶。",
-      "flashcard_summary": "透明帶 / 著床前後 -> implanted blastocyst 不再具有 zona pellucida",
+      "explanation": "【題幹解析】\n透明帶包覆 secondary oocyte、zygote 與 morula，可避免過早著床；囊胚著床前會 hatch，脫離透明帶。\n\n【選項詳解】\n- A. secondary oocyte 仍有 zona pellucida 包覆，並參與精卵辨識與防止多精入卵。\n- B. zygote 仍在透明帶內進行早期卵裂。\n- C. morula 仍被 zona pellucida 包覆，以避免輸卵管異位著床。\n- D. 囊胚著床前已脫離透明帶；implanted blastocyst 不再有 zona pellucida，故正確。\n\n【核心考點】\n透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "key_point": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "flashcard_summary": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "zona pellucida / hatching / morula / implanted blastocyst",
-      "flashcard_back": "透明帶存在到囊胚孵化之前，著床前必須先脫去。看到 implanted blastocyst 就要直接排除 zona pellucida。",
+      "flashcard_front": "透明帶(zona pellucida)不存在於下列何者?",
+      "flashcard_back": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
       "category_group": "醫學（一）",
       "category": "胚胎及發育生物學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_074",
@@ -2142,23 +2142,23 @@
         "D": "Vmax不變,KM上升"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「在競爭性抑制劑(competitive inhibitor)的存在下,下列何項是可預期的Michaelis-Menten酵素動力學\n 變化?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：competitive inhibitor 與受質競爭活性位，增加達到相同反應速率所需的受質濃度，因此表觀 KM 上升。若受質濃度足夠高，仍可克服抑制而達到原本 Vmax。這是 Michaelis-Menten 常考的標準變化。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「Vmax下降,KM下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「Vmax不變,KM下降」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「Vmax下降,KM上升」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「Vmax不變,KM上升」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n競爭性抑制會使表觀 KM 上升，但 Vmax 不變。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "競爭性抑制會使表觀 KM 上升，但 Vmax 不變。",
-      "flashcard_summary": "競爭性抑制 / Michaelis-Menten -> Vmax 不變，KM 上升",
+      "explanation": "【題幹解析】\n競爭性抑制劑與受質競爭活性位，增加達到半最大速率所需受質濃度，所以表觀 KM 上升；高受質濃度可克服抑制，Vmax 不變。\n\n【選項詳解】\n- A. 競爭性抑制不降低 Vmax，也不降低 KM，此組合錯誤。\n- B. Vmax 不變正確，但 KM 應上升而非下降。\n- C. KM 上升正確，但 Vmax 不會下降；Vmax 下降較像非競爭性抑制。\n- D. competitive inhibition 的典型變化是 Vmax 不變、KM 上升，故正確。\n\n【核心考點】\nCompetitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "key_point": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "flashcard_summary": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "competitive inhibition / Vmax unchanged / Km increased / active site competition",
-      "flashcard_back": "競爭性抑制記一組就夠：Vmax 不變、Km 上升。因為高濃度受質仍能把抑制劑比下去。",
+      "flashcard_front": "在競爭性抑制劑(competitive inhibitor)的存在下,下列何項是可預期的Michaelis-Menten酵素動力學  變化?",
+      "flashcard_back": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_075",
@@ -2171,23 +2171,23 @@
         "D": "R基團(R group;side chain)之間氫鍵(hydrogen bond)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何者為穩定蛋白質α-螺旋結構的主要因素?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：alpha helix 的穩定來自同一條多肽主鏈上相隔四個殘基的 C=O 與 N-H 之間形成氫鍵。側鏈之間的靜電與疏水作用可影響結構偏好，但不是 α 螺旋的主要穩定來源。故最核心的答案是主幹胜肽鍵間氫鍵。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「胜肽鏈上α碳原子之間的疏水性(hydrophobic)交互作用」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「螺旋結構內胜肽鏈主幹上的胜肽鍵(peptide bond)之間的氫鍵作用(hydrogen bond)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「R基團(R group;side chain)之間靜電性的作用(electrostatic interaction)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「R基團(R group;side chain)之間氫鍵(hydrogen bond)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nα 螺旋主要靠主鏈胜肽鍵之間的氫鍵穩定。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "α 螺旋主要靠主鏈胜肽鍵之間的氫鍵穩定。",
-      "flashcard_summary": "α 螺旋 / 主鏈氫鍵 -> 主要穩定因素是胜肽主幹的 hydrogen bond",
+      "explanation": "【題幹解析】\nAlpha helix 主要由多肽主鏈內的氫鍵穩定，通常是第 i 個殘基 C=O 與第 i+4 個殘基 N-H 之間形成氫鍵。\n\n【選項詳解】\n- A. α 碳之間的疏水作用不是 α 螺旋主要穩定來源。\n- B. α 螺旋由胜肽主幹 C=O 與 N-H 之間規則氫鍵穩定，故正確。\n- C. 側鏈靜電作用可影響螺旋傾向，但不是主要普遍穩定因素。\n- D. 側鏈氫鍵可能局部影響結構，但 α 螺旋的核心穩定來自主幹氫鍵。\n\n【核心考點】\nα-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "key_point": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "flashcard_summary": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "alpha helix / backbone hydrogen bond / peptide bond / side chain 對照",
-      "flashcard_back": "蛋白質二級結構最重要的是主鏈氫鍵，不是側鏈交互作用。看到 α 螺旋就先想 backbone H-bond。",
+      "flashcard_front": "下列何者為穩定蛋白質α-螺旋結構的主要因素?",
+      "flashcard_back": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_076",
@@ -2200,23 +2200,23 @@
         "D": "isomerases"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「Enzyme Commission(EC)將酵素依反應類型區分為六大類別(classes),下列何者不屬於EC命名系統之酵\n 素類別?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Enzyme Commission 的經典六大類包括 oxidoreductases、transferases、hydrolases、lyases、isomerases 與 ligases。dehydrogenase 是某些 oxidoreductases 的具體酵素名稱，不是 EC 的大類名稱。故不屬於 EC 類別的是 B。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「lyases」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「dehydrogenases」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「hydrolases」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「isomerases」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nEC 酵素六大類是依反應型態命名，dehydrogenase 只是氧化還原酶中的一種常見名稱。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "EC 酵素六大類是依反應型態命名，dehydrogenase 只是氧化還原酶中的一種常見名稱。",
-      "flashcard_summary": "EC 六大類 / 反應型態 -> dehydrogenase 不是獨立的 EC 類別",
+      "explanation": "【題幹解析】\nEC 傳統六大酵素類別是 oxidoreductases、transferases、hydrolases、lyases、isomerases、ligases；dehydrogenase 是氧化還原酶中的一類酵素名稱，不是大類。\n\n【選項詳解】\n- A. lyases 是 EC 六大類之一，屬於裂解或加成反應相關酵素。\n- B. dehydrogenases 是具體酵素族群，歸在 oxidoreductases 之下，不是 EC 六大類名稱，故正確。\n- C. hydrolases 是 EC 六大類之一，催化水解反應。\n- D. isomerases 是 EC 六大類之一，催化異構化反應。\n\n【核心考點】\nEC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "key_point": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "flashcard_summary": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "EC classes / lyase / hydrolase / isomerase / dehydrogenase",
-      "flashcard_back": "EC 大類要記反應型態，不要被常見酵素名字混淆。dehydrogenase 屬於 oxidoreductase 的子類，不是獨立大類。",
+      "flashcard_front": "Enzyme Commission(EC)將酵素依反應類型區分為六大類別(classes),下列何者不屬於EC命名系統之酵  素類別?",
+      "flashcard_back": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_077",
@@ -2229,23 +2229,23 @@
         "D": "氧化形式之lipoate受到hydroxyethyl TPP還原並接受acetyl group"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「Lipoate是pyruvate dehydrogenase complex其中一個輔酶,參與催化pyruvate形成acetyl-CoA,下列有關\n 其結構與功能,何者錯誤?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：lipoate 以 lipoamide 形式共價連到 E2 的 lysine，先接受 hydroxyethyl-TPP 的乙醯基與電子，再把乙醯基轉給 CoA。之後還原型 lipoamide 由 E3 經 FAD 與 NAD+ 重新氧化。選項 A 不僅把 NADP 寫成氧化來源，也把流程描述錯置，因此為錯誤敘述。\n\n【選項詳解】\n- A. 正確答案。選項內容：「含有2個thiol groups,可受到pyruvate dehydrogenase complex之NADP氧化形成雙硫鍵(disulfide\n bond)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「lipoate經由amide連結與dihydrolipoyl transacetylase之lysine結合」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「作為acyl group carrier,轉移到coenzyme A,形成acetyl-CoA」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「氧化形式之lipoate受到hydroxyethyl TPP還原並接受acetyl group」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\nlipoate 在 PDH complex 中以雙硫鍵形式參與酰基轉移，但其再氧化是經 FAD/NAD+，不是 NADP。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "lipoate 在 PDH complex 中以雙硫鍵形式參與酰基轉移，但其再氧化是經 FAD/NAD+，不是 NADP。",
-      "flashcard_summary": "lipoate / PDH / FAD 與 NAD+ -> 錯誤在把再氧化寫成 NADP 參與",
+      "explanation": "【題幹解析】\nLipoate 在 pyruvate dehydrogenase complex 中以 lipoamide 連到 E2 lysine，接受 hydroxyethyl 與乙醯基，再把 acetyl group 轉給 CoA；還原型 lipoamide 由 E3/FAD/NAD+ 再氧化。\n\n【選項詳解】\n- A. lipoate 的再氧化使用 FAD 與 NAD+，不是 NADP；且流程描述把氧化來源寫錯，因此為錯誤敘述。\n- B. lipoate 以 amide linkage 接在 dihydrolipoyl transacetylase（E2）的 lysine 上，敘述正確。\n- C. lipoamide 作為 acyl group carrier，將 acetyl group 轉移給 CoA 形成 acetyl-CoA，正確。\n- D. 氧化型 lipoamide 可接受 hydroxyethyl-TPP 來的乙醯基與電子，敘述符合 PDH 流程。\n\n【核心考點】\nPDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "key_point": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "flashcard_summary": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "PDH complex / lipoate / lipoamide / FAD / NAD+ / acetyl transfer",
-      "flashcard_back": "lipoate 題要記住它綁在 E2 lysine 上搬運 acyl group，最後靠 FAD 再到 NAD+ 重新氧化。NADP 不是這條路徑的角色。",
+      "flashcard_front": "Lipoate是pyruvate dehydrogenase complex其中一個輔酶,參與催化pyruvate形成acetyl-CoA,下列有關  其結構與",
+      "flashcard_back": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_078",
@@ -2258,23 +2258,23 @@
         "D": "硫胺素(thiamine)"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「轉胺酶(transaminases)是參與胺基酸合成的重要酵素,此酵素的活性中心帶有下列那一種輔酶\n (coenzyme)?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：transaminases 需要 pyridoxal phosphate 參與胺基轉移，PLP 來源是維生素 B6。methylcobalamin 主要與甲基轉移相關，folate 參與一碳單位代謝，thiamine 則與脫羧反應有關。故答案為 PLP。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「甲基氰鈷胺(methylcobalamin)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「吡哆醛磷酸(pyridoxal phosphate)」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「葉酸(folic acid)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「硫胺素(thiamine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n轉胺酶的輔酶是吡哆醛磷酸 PLP。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "轉胺酶的輔酶是吡哆醛磷酸 PLP。",
-      "flashcard_summary": "轉胺酶 / PLP -> transaminases 的輔酶是 pyridoxal phosphate",
+      "explanation": "【題幹解析】\nTransaminases 需要 pyridoxal phosphate（PLP）作為輔酶，PLP 來自維生素 B6，可穩定胺基轉移反應中間產物。\n\n【選項詳解】\n- A. methylcobalamin 是維生素 B12 形式，主要參與甲基轉移，不是轉胺酶典型輔酶。\n- B. pyridoxal phosphate 是 transaminase 的核心輔酶，故正確。\n- C. folic acid 參與一碳單位代謝，不是轉胺酶活性中心輔酶。\n- D. thiamine pyrophosphate 常參與脫羧反應，例如 PDH，不是轉胺反應主輔酶。\n\n【核心考點】\n轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "key_point": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "flashcard_summary": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "transaminase / PLP / vitamin B6 / amino acid metabolism",
-      "flashcard_back": "胺基酸轉胺反應看到哪個輔酶都不如先背 PLP。它幾乎是 transamination 的招牌配對。",
+      "flashcard_front": "轉胺酶(transaminases)是參與胺基酸合成的重要酵素,此酵素的活性中心帶有下列那一種輔酶  (coenzyme)?",
+      "flashcard_back": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_079",
@@ -2287,23 +2287,23 @@
         "D": "氫鍵(hydrogen bonds)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「核苷三磷酸(nucleoside triphosphates)以下列何種形式攜帶及傳遞能量?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：ATP、GTP 等 nucleoside triphosphates 的高能量主要來自相鄰磷酸基間的 phosphoanhydride bonds。phosphodiester bonds 常見於核酸骨架，glycosidic bonds 是鹼基與糖的連結。故能量傳遞的關鍵是磷酸酐鍵。\n\n【選項詳解】\n- A. 正確答案。選項內容：「磷酸酐鍵(phosphoanhydride bonds)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「磷酸二酯鍵(phosphodiester bonds)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「糖苷鍵(glycosidic bonds)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「氫鍵(hydrogen bonds)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n核苷三磷酸主要藉由磷酸酐鍵儲存與傳遞高能量。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "核苷三磷酸主要藉由磷酸酐鍵儲存與傳遞高能量。",
-      "flashcard_summary": "核苷三磷酸 / 高能鍵 -> 能量主要儲存在 phosphoanhydride bonds",
+      "explanation": "【題幹解析】\nATP、GTP 等 nucleoside triphosphates 的能量主要儲存在相鄰磷酸基之間的磷酸酐鍵，水解可釋放自由能。\n\n【選項詳解】\n- A. phosphoanhydride bonds 是核苷三磷酸攜帶與傳遞能量的關鍵鍵結，故正確。\n- B. phosphodiester bonds 是核酸糖磷酸骨架的連結，不是 ATP 高能磷酸鍵。\n- C. glycosidic bond 連接糖與鹼基，不是主要能量傳遞鍵。\n- D. 氫鍵參與鹼基配對等非共價作用，不是 NTP 儲能的主要形式。\n\n【核心考點】\nNTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "key_point": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "flashcard_summary": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "NTP energy / phosphoanhydride bond / ATP / phosphodiester 對照",
-      "flashcard_back": "ATP 高能鍵最常考的是磷酸酐鍵，不是磷酸二酯鍵。後者是 DNA/RNA 骨架的連結方式。",
+      "flashcard_front": "核苷三磷酸(nucleoside triphosphates)以下列何種形式攜帶及傳遞能量?",
+      "flashcard_back": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_080",
@@ -2316,23 +2316,23 @@
         "D": "將DNA與RNA做置換"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「拓樸異構酶(Topoisomerase)的主要功能為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：topoisomerase 的主要作用是改變 DNA supercoiling，幫助複製與轉錄時解除扭轉張力。它不改變鹼基配對專一性，也不直接增加核苷酸數量，更不是做 DNA 與 RNA 置換。這是核酸代謝的基本概念題。\n\n【選項詳解】\n- A. 正確答案。選項內容：「改變DNA分子的超螺旋(supercoil)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「改變DNA分子鹼基配對(base-pairing)的專一性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「改變DNA分子的核苷酸(nucleotide)數目」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「將DNA與RNA做置換」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n拓樸異構酶透過切斷與重新接合 DNA 來調整超螺旋狀態。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "拓樸異構酶透過切斷與重新接合 DNA 來調整超螺旋狀態。",
-      "flashcard_summary": "拓樸異構酶 / supercoil -> 主要功能是改變 DNA 分子的超螺旋",
+      "explanation": "【題幹解析】\nTopoisomerase 透過暫時切開與重新連接 DNA，改變 DNA supercoiling，解除複製與轉錄時的扭轉張力。\n\n【選項詳解】\n- A. 改變 DNA supercoil 是 topoisomerase 的主要功能，故正確。\n- B. 鹼基配對專一性由 A-T、G-C 配對與聚合酶選擇性決定，不是拓樸異構酶功能。\n- C. topoisomerase 不負責增加或減少 DNA 核苷酸數目。\n- D. DNA 與 RNA 置換不是 topoisomerase 的功能；這涉及轉錄或核酸雜合處理。\n\n【核心考點】\nTopoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "key_point": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "flashcard_summary": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "topoisomerase / supercoil / torsional stress / DNA replication",
-      "flashcard_back": "拓樸異構酶想到的就是 supercoil 管理員。凡是描述改變超螺旋或放鬆扭轉壓力，多半就是它。",
+      "flashcard_front": "拓樸異構酶(Topoisomerase)的主要功能為:",
+      "flashcard_back": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_081",
@@ -2345,23 +2345,23 @@
         "D": "Dam甲基化酶(Dam methylase)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「鹼基切除修復(base excision repair)過程中,催化修復作用的第一個酵素為:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：base excision repair 先由 DNA glycosylase 辨識並移除異常鹼基，形成 AP site；接著才由 AP endonuclease 切開骨架，再由 polymerase 與 ligase 完成修補。Dam methylase 是錯配修復中辨識新舊股的相關概念，不是 BER 的第一步。故答案為 DNA glycosylase。\n\n【選項詳解】\n- A. 正確答案。選項內容：「DNA糖基化酶(DNA glycosylase)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「Apurinic/apyrimidinic核酸內切酶(AP endonuclease)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「DNA連接酶(DNA ligase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「Dam甲基化酶(Dam methylase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n鹼基切除修復的第一步是 DNA glycosylase 去除受損鹼基。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "鹼基切除修復的第一步是 DNA glycosylase 去除受損鹼基。",
-      "flashcard_summary": "鹼基切除修復 / 第一步 -> 先由 DNA glycosylase 去除受損鹼基",
+      "explanation": "【題幹解析】\nBase excision repair 的第一步是 DNA glycosylase 辨識異常或受損鹼基並切斷 N-glycosidic bond，形成 AP site。\n\n【選項詳解】\n- A. DNA glycosylase 是 BER 的第一個關鍵酵素，先移除受損鹼基，故正確。\n- B. AP endonuclease 在 AP site 形成後才切開 DNA 骨架，不是第一步。\n- C. DNA ligase 在修補末端負責封合缺口，屬後期步驟。\n- D. Dam methylase 與細菌錯配修復中新舊股辨識相關，不是 BER 第一酵素。\n\n【核心考點】\nBER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "key_point": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "flashcard_summary": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "BER / DNA glycosylase / AP site / AP endonuclease / DNA ligase",
-      "flashcard_back": "BER 的流程順序很愛考：先 glycosylase 拔鹼基，再 endonuclease 切，再補再封。記好第一步就能解題。",
+      "flashcard_front": "鹼基切除修復(base excision repair)過程中,催化修復作用的第一個酵素為:",
+      "flashcard_back": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_082",
@@ -2374,23 +2374,23 @@
         "D": "具有3'端到5'端核酸外切酶(exonuclease)活性"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「關於大腸桿菌(E. coli)DNA聚合酶 I 型(DNA polymerase I)的Klenow fragment,下列敘述何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Klenow fragment 是 E. coli DNA polymerase I 去除 N 端小片段後留下的大型 C 端片段，因此仍具 DNA polymerase 與 3'→5' proofreading exonuclease 活性。被移除的是 5'→3' exonuclease 功能，所以說它具有此活性是錯的。故答案為 B。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「具有DNA聚合酶活性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「具有5'端到3'端核酸外切酶(exonuclease)活性」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「是聚合酶C端(C-terminal)的大片段」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「具有3'端到5'端核酸外切酶(exonuclease)活性」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\nKlenow fragment 保留聚合酶與 3'→5' 校對外切酶活性，但沒有 5'→3' 外切酶。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "Klenow fragment 保留聚合酶與 3'→5' 校對外切酶活性，但沒有 5'→3' 外切酶。",
-      "flashcard_summary": "Klenow fragment / 活性 -> 沒有 5' 到 3' exonuclease 活性",
+      "explanation": "【題幹解析】\nKlenow fragment 是 E. coli DNA polymerase I 去掉 N 端 5'→3' exonuclease 小片段後留下的大型 C 端片段，保留 polymerase 與 3'→5' proofreading 活性。\n\n【選項詳解】\n- A. Klenow fragment 保有 DNA polymerase 活性，敘述正確。\n- B. 5'→3' exonuclease 活性位於被移除的 N 端片段，因此 Klenow fragment 不具有此活性，這是錯誤敘述。\n- C. Klenow fragment 是 polymerase C-terminal 的大片段，敘述正確。\n- D. Klenow fragment 保留 3'→5' exonuclease proofreading 活性，敘述正確。\n\n【核心考點】\nKlenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "key_point": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "flashcard_summary": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "Klenow fragment / DNA pol I / proofreading / lacks 5-to-3 exonuclease",
-      "flashcard_back": "記 Klenow 最好用減法：保留聚合與 3'→5' 校對，失去 5'→3' 外切酶。這是分子生物學高頻題。",
+      "flashcard_front": "關於大腸桿菌(E. coli)DNA聚合酶 I 型(DNA polymerase I)的Klenow fragment,下列敘述何者錯誤?",
+      "flashcard_back": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_083",
@@ -2403,23 +2403,23 @@
         "D": "prenylation"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「致癌基因產物Ras位於細胞膜上傳遞信息,此蛋白是經由何種修飾而能夠結合在細胞膜?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：Ras 蛋白 C 端經過 prenylation 後可增加脂溶性，讓蛋白附著在細胞膜上執行訊號傳遞。ubiquitination 常與蛋白降解有關，acetylation 與 adenylation 也不是 Ras 典型膜定位修飾。故答案是 prenylation。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「ubiquitination」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「acetylation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「adenylation」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「prenylation」此選項最符合題幹線索與標準答案。\n\n【核心考點】\nRas 需經 prenylation 才能錨定在細胞膜內側面傳遞訊息。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "Ras 需經 prenylation 才能錨定在細胞膜內側面傳遞訊息。",
-      "flashcard_summary": "Ras / 細胞膜定位 -> 透過 prenylation 錨定於膜上",
+      "explanation": "【題幹解析】\nRas 需要脂質修飾才能穩定附著於細胞膜。其 C 端 CAAX motif 常經 prenylation（如 farnesylation）增加疏水性並定位到膜上。\n\n【選項詳解】\n- A. ubiquitination 多與蛋白降解或訊號調控相關，不是 Ras 典型膜定位修飾。\n- B. acetylation 常影響染色質或蛋白功能調控，不是 Ras 結合膜的主要機制。\n- C. adenylation 不是 Ras 膜定位的標準修飾。\n- D. prenylation 讓 Ras 取得疏水性脂質尾端以附著細胞膜，故正確。\n\n【核心考點】\nRas 經 prenylation 取得膜定位能力。",
+      "key_point": "Ras 經 prenylation 取得膜定位能力。",
+      "flashcard_summary": "Ras 經 prenylation 取得膜定位能力。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "Ras / membrane anchoring / prenylation / signaling protein",
-      "flashcard_back": "小 G 蛋白 Ras 的膜定位考點幾乎都指向 prenylation。只要題目問 Ras 為何能貼膜，多半就是這個修飾。",
+      "flashcard_front": "致癌基因產物Ras位於細胞膜上傳遞信息,此蛋白是經由何種修飾而能夠結合在細胞膜?",
+      "flashcard_back": "Ras 經 prenylation 取得膜定位能力。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_084",
@@ -2432,23 +2432,23 @@
         "D": "σ"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「原核生物RNA聚合酶在進行轉錄延伸作用(elongation)時,下列那一個次單元(subunit)參與最少?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：σ subunit 在 transcription initiation 時負責辨識 promoter，形成開放複合體後多會脫離。elongation 主要依賴核心酶的 α、β、β' 等次單元。故在轉錄延伸過程中參與最少的是 σ。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「α」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「β」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「β’」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「σ」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n原核 RNA polymerase 的 sigma 因子主要用於啟動子辨識，延伸期參與最少。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "原核 RNA polymerase 的 sigma 因子主要用於啟動子辨識，延伸期參與最少。",
-      "flashcard_summary": "原核 RNA 聚合酶 / sigma -> elongation 時參與最少的是 σ 次單元",
+      "explanation": "【題幹解析】\n原核 RNA polymerase holoenzyme 的 sigma subunit 主要負責 initiation 時辨識 promoter；進入 elongation 後，核心酶 alpha、beta、beta prime 才是主要執行者。\n\n【選項詳解】\n- A. alpha subunit 屬核心酶成分，在轉錄延伸中仍屬酶複合體的一部分。\n- B. beta subunit 參與 RNA 合成催化，是延伸期核心成分。\n- C. beta prime subunit 參與 DNA template 結合，是核心酶重要成分。\n- D. sigma subunit 主要在起始辨識 promoter，延伸期多脫離或參與最少，故正確。\n\n【核心考點】\n細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "key_point": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "flashcard_summary": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "prokaryotic RNA polymerase / sigma factor / promoter recognition / elongation",
-      "flashcard_back": "σ 因子是起跑員，不是長跑員。它幫助找到 promoter，但延伸主要靠 core enzyme 完成。",
+      "flashcard_front": "原核生物RNA聚合酶在進行轉錄延伸作用(elongation)時,下列那一個次單元(subunit)參與最少?",
+      "flashcard_back": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_085",
@@ -2461,23 +2461,23 @@
         "D": "(5')GGC"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「擺動假說(wobble hypothesis)允許某些tRNA識別多個密碼子(codon)。在酵母菌中,一個tRNAArg具有反\n 密碼子(anticodon)(5')ICG,此tRNAArg應可識別下列那一個精胺酸(arginine)密碼子?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：anticodon 5'-ICG 反向互補後可辨識以 CG 開頭、第三位符合 inosine wobble 規則的 arginine codon。選項中只有 5'-CGA 屬精胺酸 codon，且可與該 anticodon 配對。這題重點是 wobble 規則與反密碼子的方向性。\n\n【選項詳解】\n- A. 正確答案。選項內容：「(5')CGA」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「(5')AGC」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「(5')UGC」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「(5')GGC」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n含 inosine 的 anticodon 具擺動配對能力，可辨識特定第三位鹼基的多個 codon。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "含 inosine 的 anticodon 具擺動配對能力，可辨識特定第三位鹼基的多個 codon。",
-      "flashcard_summary": "擺動假說 / inosine / anticodon -> 5'-ICG 可辨識的精胺酸 codon 包含 CGA",
+      "explanation": "【題幹解析】\nWobble 題要注意 anticodon 與 codon 方向相反。tRNAArg anticodon 5'-ICG 可和 arginine codon 5'-CGA 配對，且 inosine 在 wobble 位置可增加辨識彈性。\n\n【選項詳解】\n- A. 5'-CGA 是 arginine codon，能與 5'-ICG anticodon 依方向性與 wobble 規則配對，故正確。\n- B. 5'-AGC 不是此 tRNAArg 對應的 CGN 類 arginine codon，且配對方向不符。\n- C. 5'-UGC 是 cysteine codon，不是 arginine codon。\n- D. 5'-GGC 是 glycine codon，不是 arginine codon。\n\n【核心考點】\nAnticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "key_point": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "flashcard_summary": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "wobble hypothesis / inosine / anticodon 5-ICG / arginine codon",
-      "flashcard_back": "看到 inosine 要想到它可和 U、C、A 擺動配對；再別忘記 anticodon 與 codon 是反向互補。方向判斷錯了最容易失分。",
+      "flashcard_front": "擺動假說(wobble hypothesis)允許某些tRNA識別多個密碼子(codon)。在酵母菌中,一個tRNAArg具有反  密碼子(anticodon)",
+      "flashcard_back": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_086",
@@ -2490,23 +2490,23 @@
         "D": "ribosomal RNase"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「脊椎動物中,由下列那種酶負責合成18S與28S rRNA?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：在脊椎動物中，RNA polymerase I 主要轉錄大部分核糖體 RNA，也就是 18S、5.8S 和 28S。RNA polymerase III 則負責 5S rRNA 與 tRNA。故合成 18S 與 28S rRNA 的酶是 RNA polymerase I。\n\n【選項詳解】\n- A. 正確答案。選項內容：「RNA polymerase I」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「RNA polymerase II」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「RNA polymerase III」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「ribosomal RNase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n真核 RNA polymerase I 負責合成 18S、5.8S 與 28S rRNA 前驅物。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "真核 RNA polymerase I 負責合成 18S、5.8S 與 28S rRNA 前驅物。",
-      "flashcard_summary": "RNA polymerase I / rRNA -> 負責合成 18S 與 28S rRNA",
+      "explanation": "【題幹解析】\n真核細胞 RNA polymerase 分工：Pol I 轉錄 45S pre-rRNA，產生 18S、5.8S、28S rRNA；Pol III 負責 5S rRNA 與 tRNA。\n\n【選項詳解】\n- A. RNA polymerase I 負責 18S 與 28S rRNA 的前驅轉錄，故正確。\n- B. RNA polymerase II 主要轉錄 mRNA 與部分 snRNA，不是 18S/28S rRNA 主力。\n- C. RNA polymerase III 轉錄 tRNA 與 5S rRNA，不轉錄 18S 與 28S。\n- D. ribosomal RNase 不是合成 rRNA 的聚合酶。\n\n【核心考點】\nPol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "key_point": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "flashcard_summary": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "RNA polymerase I / 18S / 28S / rRNA / polymerase III 對照",
-      "flashcard_back": "rRNA 題最常考分工：Pol I 做大顆的 rRNA，Pol III 做 5S。把這個分工背熟就很穩。",
+      "flashcard_front": "脊椎動物中,由下列那種酶負責合成18S與28S rRNA?",
+      "flashcard_back": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_087",
@@ -2519,23 +2519,23 @@
         "D": "兩莫耳的ATP以及兩莫耳的NADH"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「無氧代謝時,將一莫耳(mole)的葡萄糖經由糖解作用(glycolysis)及酵素lactate dehydrogenase轉化\n 成兩莫耳的乳酸(lactate),最終淨產生:」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：glycolysis 每 1 莫耳葡萄糖淨得 2 ATP 與 2 NADH，但在無氧條件下 lactate dehydrogenase 會把 NADH 再氧化回 NAD+，供糖解持續進行。故最後淨能量只剩 2 ATP，不保留額外 NADH。答案為 2 莫耳 ATP。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「一莫耳的ATP」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「兩莫耳的ATP」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「一莫耳的ATP以及兩莫耳的NADH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「兩莫耳的ATP以及兩莫耳的NADH」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n無氧糖解把 1 莫耳葡萄糖轉成 2 莫耳乳酸時，淨產生 2 莫耳 ATP。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "無氧糖解把 1 莫耳葡萄糖轉成 2 莫耳乳酸時，淨產生 2 莫耳 ATP。",
-      "flashcard_summary": "無氧糖解 / 乳酸生成 -> 每莫耳葡萄糖淨產生 2 莫耳 ATP",
+      "explanation": "【題幹解析】\n無氧糖解中，每 1 mole glucose 淨產生 2 ATP；產生的 NADH 會在 lactate dehydrogenase 反應中把 pyruvate 還原為 lactate，同時再生 NAD+，所以不淨保留 NADH。\n\n【選項詳解】\n- A. 糖解每葡萄糖淨 ATP 是 2，不是 1。\n- B. 無氧轉成 2 mole lactate 後，淨能量為 2 mole ATP，故正確。\n- C. NADH 在 lactate dehydrogenase 反應中被消耗再生 NAD+，不淨保留 2 mole NADH。\n- D. ATP 兩莫耳正確，但 NADH 不會淨產生兩莫耳，因此此選項錯誤。\n\n【核心考點】\n無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "key_point": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "flashcard_summary": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "anaerobic glycolysis / lactate / net ATP 2 / NADH recycled",
-      "flashcard_back": "無氧糖解的關鍵是 LDH 把 NADH 用掉換回 NAD+，所以最後記成『只剩 2 ATP』。不要把有氧代謝的 NADH 收益帶進來。",
+      "flashcard_front": "無氧代謝時,將一莫耳(mole)的葡萄糖經由糖解作用(glycolysis)及酵素lactate dehydrogenase轉化  成兩莫耳的乳酸(lactat",
+      "flashcard_back": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_088",
@@ -2548,23 +2548,23 @@
         "D": "glucose-6-phosphate與maltose"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「飲食中的植物性澱粉(amylopectin and amylose),會在我們的消化道中被水解成:」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：amylose 與 amylopectin 先被 α-amylase 分解成 maltose、maltotriose 與 limit dextrins，最後刷狀緣酵素再轉為 glucose。選項中最符合整體消化產物概念的是 glucose 與 maltose。glucose-1-phosphate 或 glucose-6-phosphate 則屬細胞內代謝中間物，不是腸道消化產物。\n\n【選項詳解】\n- A. 正確答案。選項內容：「glucose與maltose」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「glucose與glucose-1-phosphate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「glucose-1-phosphate與maltose」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「glucose-6-phosphate與maltose」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n飲食中的澱粉經消化主要產生葡萄糖與麥芽糖等寡醣中間產物。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "飲食中的澱粉經消化主要產生葡萄糖與麥芽糖等寡醣中間產物。",
-      "flashcard_summary": "植物性澱粉消化 / maltose 與 glucose -> 澱粉在消化道會被水解成 glucose 與 maltose",
+      "explanation": "【題幹解析】\n飲食澱粉 amylose 與 amylopectin 先被 amylase 分解成 maltose、maltotriose 與 limit dextrins，刷狀緣再分解成 glucose；選項中最符合消化產物的是 glucose 與 maltose。\n\n【選項詳解】\n- A. glucose 與 maltose 是澱粉腸道消化過程中合理產物，故正確。\n- B. glucose-1-phosphate 是細胞內代謝中間物，不是腸道澱粉水解主要產物。\n- C. maltose 可出現，但 glucose-1-phosphate 不屬腸腔消化產物。\n- D. glucose-6-phosphate 是細胞內磷酸化葡萄糖，不是消化道水解產物。\n\n【核心考點】\n澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "key_point": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "flashcard_summary": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "starch digestion / amylase / maltose / glucose / brush border",
-      "flashcard_back": "飲食澱粉在腸道是先變成 maltose 等中間產物，再被分解成 glucose。帶有 phosphate 的糖多是細胞內代謝物，不是消化道內容物。",
+      "flashcard_front": "飲食中的植物性澱粉(amylopectin and amylose),會在我們的消化道中被水解成:",
+      "flashcard_back": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_089",
@@ -2577,23 +2577,23 @@
         "D": "aspartate, arginine, threonine"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「在醣蛋白質(glycoproteins)分子中,下列那一組胺基酸殘基(amino acid residues)皆可參與醣基\n (carbohydrate moiety)與蛋白質的鍵結?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：N-linked glycosylation 典型連接在 asparagine；O-linked glycosylation 常連接在 serine 或 threonine。其餘選項列出的 amino acid 並不是常見醣鏈接位點。故正確組合為 asparagine、serine、threonine。\n\n【選項詳解】\n- A. 正確答案。選項內容：「asparagine, serine, threonine」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「cysteine, aspartate, glutamate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「serine, glutamine, arginine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「aspartate, arginine, threonine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n糖蛋白可經 N-linked 與 O-linked glycosylation 連到 Asn、Ser、Thr。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "糖蛋白可經 N-linked 與 O-linked glycosylation 連到 Asn、Ser、Thr。",
-      "flashcard_summary": "糖蛋白鍵結位點 / N-link O-link -> 可連到 asparagine、serine、threonine",
+      "explanation": "【題幹解析】\n醣蛋白鍵結常考 N-linked 與 O-linked。N-linked glycosylation 接在 asparagine；O-linked 常接在 serine 或 threonine。\n\n【選項詳解】\n- A. asparagine、serine、threonine 分別涵蓋 N-linked 與 O-linked 常見醣基連接位點，故正確。\n- B. cysteine、aspartate、glutamate 不是典型醣蛋白醣鏈連接組合。\n- C. serine 可參與 O-linked，但 glutamine 與 arginine 不是典型主要連接位點。\n- D. threonine 可參與 O-linked，但 aspartate 與 arginine 不是常見主要醣基接點。\n\n【核心考點】\nGlycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "key_point": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "flashcard_summary": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "glycoprotein / N-linked / O-linked / Asn / Ser / Thr",
-      "flashcard_back": "醣蛋白的標準位點要記成 N-link to Asn，O-link to Ser/Thr。只要看到這三個殘基同列，通常就是正解。",
+      "flashcard_front": "在醣蛋白質(glycoproteins)分子中,下列那一組胺基酸殘基(amino acid residues)皆可參與醣基  (carbohydrate moi",
+      "flashcard_back": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_090",
@@ -2606,23 +2606,23 @@
         "D": "與膽固醇的量有關"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列有關膽鹽(bile salts)的敘述,何者錯誤?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：膽鹽由膽固醇衍生，生合成速率決定步驟由 cholesterol 7α-hydroxylase 催化，過程也需 cytochrome P450 參與。它們具有親水與疏水兩端，因此能乳化脂質、促進小腸吸收。錯誤之處在於把膽鹽描述成非極性分子。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「由7α-hydroxylase催化其生合成之速率決定步驟」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「屬於非極性分子,可促進脂質在小腸的吸收」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「合成時需要cytochrome P450酵素的參與」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「與膽固醇的量有關」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n膽鹽是兩親性分子，不是單純非極性分子。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "膽鹽是兩親性分子，不是單純非極性分子。",
-      "flashcard_summary": "膽鹽 / amphipathic -> 錯誤敘述是把膽鹽說成非極性分子",
+      "explanation": "【題幹解析】\n膽鹽由膽固醇衍生，速率決定步驟由 cholesterol 7-alpha hydroxylase 催化，且具兩親性，可乳化脂質促進吸收；說它是非極性分子是錯的。\n\n【選項詳解】\n- A. cholesterol 7-alpha hydroxylase 是膽酸合成速率決定步驟，敘述正確。\n- B. 膽鹽是兩親性分子，不是單純非極性；此敘述把分子特性說錯，故為答案。\n- C. 膽酸合成涉及 cytochrome P450 酵素系統，敘述正確。\n- D. 膽鹽由膽固醇衍生，合成與膽固醇供應及調控有關，敘述可接受。\n\n【核心考點】\n膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "key_point": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "flashcard_summary": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "bile salts / amphipathic / 7-alpha-hydroxylase / cholesterol / lipid absorption",
-      "flashcard_back": "膽鹽最重要的化學特性是 amphipathic，這也是它能乳化脂質的原因。若題目寫成單純非極性，就是典型錯誤。",
+      "flashcard_front": "下列有關膽鹽(bile salts)的敘述,何者錯誤?",
+      "flashcard_back": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_091",
@@ -2635,23 +2635,23 @@
         "D": "N-acetylglutamate"
       },
       "correct_answer": "C",
-      "explanation": "【題幹解析】\n本題題幹為：「高雪氏症(Gaucher's disease)屬於溶小體儲積症(lysosomal storage disorder)的一種,與下列那一\n 類物質的代謝有關?」\n標準答案為 C。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：高雪氏症是因 glucocerebrosidase 缺乏，導致 glucocerebroside 在巨噬細胞內累積。glucocerebroside 屬於 sphingolipid 類，因此本病本質上是鞘脂質代謝障礙。不是 glycogen、choline 或 N-acetylglutamate 的主要代謝疾病。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「glycogen」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- B. 非本題答案。選項內容：「choline」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n- C. 正確答案。選項內容：「sphingolipid」此選項最符合題幹線索與標準答案。\n- D. 非本題答案。選項內容：「N-acetylglutamate」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 C 比較。\n\n【核心考點】\nGaucher disease 是 sphingolipid 代謝異常造成的溶小體儲積症。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "Gaucher disease 是 sphingolipid 代謝異常造成的溶小體儲積症。",
-      "flashcard_summary": "Gaucher disease / sphingolipid -> 屬於鞘脂質代謝異常的溶小體儲積症",
+      "explanation": "【題幹解析】\nGaucher disease 是 lysosomal storage disorder，因 glucocerebrosidase 缺乏造成 glucocerebroside 累積；glucocerebroside 屬 sphingolipid。\n\n【選項詳解】\n- A. glycogen 代謝異常對應 glycogen storage diseases，不是 Gaucher disease。\n- B. choline 不是 Gaucher disease 累積物或主要代謝類別。\n- C. Gaucher disease 是 sphingolipid 代謝異常，故正確。\n- D. N-acetylglutamate 與尿素循環調控相關，不是 Gaucher disease 的核心物質。\n\n【核心考點】\nGaucher disease 是 glucocerebrosidase 缺乏造成的 sphingolipid storage disease。",
+      "key_point": "Gaucher disease 是 glucocerebrosidase 缺乏造成的 sphingolipid storage disease。",
+      "flashcard_summary": "Gaucher disease 是 glucocerebrosidase 缺乏造成的 sphingolipid storage disease。",
       "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "Gaucher disease / lysosomal storage / glucocerebrosidase / sphingolipid",
-      "flashcard_back": "看到 Gaucher 就要直接連到 sphingolipid 累積，尤其是 glucocerebroside。這是溶小體儲積症的經典配對。",
+      "flashcard_front": "高雪氏症(Gaucher's disease)屬於溶小體儲積症(lysosomal storage disorder)的一種,與下列那一  類物質的代謝有關?",
+      "flashcard_back": "Gaucher disease 是 glucocerebrosidase 缺乏造成的 sphingolipid storage disease。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_092",
@@ -2664,23 +2664,23 @@
         "D": "內質網"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「在脊椎動物細胞內,脂肪酸之omega氧化(ω-oxidation)反應主要發生於:」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：ω-oxidation 發生在 endoplasmic reticulum，尤其是肝臟微粒體系統，與 β-oxidation 主要在粒線體不同。這條路徑會在脂肪酸末端甲基進行氧化。故正確位置是內質網。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「細胞核」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「粒線體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「高基氏體」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「內質網」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n脂肪酸的 ω-oxidation 主要在平滑內質網進行。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "脂肪酸的 ω-oxidation 主要在平滑內質網進行。",
-      "flashcard_summary": "ω-oxidation / 位置 -> 主要發生於內質網",
+      "explanation": "【題幹解析】\n脂肪酸 omega-oxidation 主要在內質網，尤其肝臟 microsomal system；它氧化脂肪酸 omega 端，和粒線體 beta-oxidation 不同。\n\n【選項詳解】\n- A. 細胞核負責 DNA/RNA 相關功能，不是脂肪酸 omega-oxidation 主要位置。\n- B. 粒線體是 beta-oxidation 主場所，不是 omega-oxidation 主要位置。\n- C. 高基氏體負責蛋白與脂質加工運輸，不是 omega-oxidation 主場所。\n- D. omega-oxidation 主要在內質網進行，故正確。\n\n【核心考點】\n脂肪酸 beta-oxidation 在粒線體；omega-oxidation 主要在內質網。",
+      "key_point": "脂肪酸 beta-oxidation 在粒線體；omega-oxidation 主要在內質網。",
+      "flashcard_summary": "脂肪酸 beta-oxidation 在粒線體；omega-oxidation 主要在內質網。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "omega oxidation / ER / microsome / beta oxidation 對照",
-      "flashcard_back": "脂肪酸氧化最常考位置分工：β-oxidation 想粒線體，ω-oxidation 想內質網。把兩者分清就不易失分。",
+      "flashcard_front": "在脊椎動物細胞內,脂肪酸之omega氧化(ω-oxidation)反應主要發生於:",
+      "flashcard_back": "脂肪酸 beta-oxidation 在粒線體；omega-oxidation 主要在內質網。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_093",
@@ -2693,23 +2693,23 @@
         "D": "甲硫胺酸(methionine)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「人體之脯胺酸(proline)或是精胺酸(arginine)主要由下列何種胺基酸代謝轉換形成?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：glutamate 可轉成 glutamate semialdehyde，再進一步形成 proline；同一路徑也與 ornithine、arginine 代謝互相關聯。其他選項如 tryptophan、valine、methionine 並不是這兩者的主要來源。故答案為 glutamate。\n\n【選項詳解】\n- A. 正確答案。選項內容：「麩胺酸(glutamate)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「色胺酸(tryptophan)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「纈胺酸(valine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「甲硫胺酸(methionine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\nproline 與 arginine 代謝都可由 glutamate 路徑衍生。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "proline 與 arginine 代謝都可由 glutamate 路徑衍生。",
-      "flashcard_summary": "proline 與 arginine / 前驅物 -> 主要由 glutamate 代謝轉換形成",
+      "explanation": "【題幹解析】\nGlutamate 可轉為 glutamate semialdehyde，進一步和 proline、ornithine、arginine 代謝互通，因此是 proline 與 arginine 的重要來源。\n\n【選項詳解】\n- A. glutamate 可經共同中間產物連到 proline 與 arginine 生成路徑，故正確。\n- B. tryptophan 主要與 serotonin、niacin 等代謝相關，不是 proline/arginine 主來源。\n- C. valine 是支鏈胺基酸，不是 proline 或 arginine 的主要前驅物。\n- D. methionine 主要與 methyl group、SAM 與 sulfur amino acid 代謝相關，不是本題主來源。\n\n【核心考點】\nProline 與 arginine 可由 glutamate 路徑衍生。",
+      "key_point": "Proline 與 arginine 可由 glutamate 路徑衍生。",
+      "flashcard_summary": "Proline 與 arginine 可由 glutamate 路徑衍生。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "proline synthesis / arginine metabolism / glutamate / ornithine pathway",
-      "flashcard_back": "胺基酸家族記憶時，proline 與 arginine 常和 glutamate 家族放在一起。看到這兩個一起問，先想 glutamate。",
+      "flashcard_front": "人體之脯胺酸(proline)或是精胺酸(arginine)主要由下列何種胺基酸代謝轉換形成?",
+      "flashcard_back": "Proline 與 arginine 可由 glutamate 路徑衍生。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_094",
@@ -2722,23 +2722,23 @@
         "D": "麩胺酸(glutamate)"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「在饑餓時,人體會分解蛋白質產生胺基酸以供應能量,下列那一種胺基酸過度代謝最容易導致酮症\n (ketosis)?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：leucine 與 lysine 是純 ketogenic amino acids，代謝產物偏向 acetyl-CoA 或 acetoacetate，因此在飢餓時較易促進 ketosis。methionine、arginine、glutamate 則不是純生酮胺基酸。故最容易導致酮症的是白胺酸。\n\n【選項詳解】\n- A. 正確答案。選項內容：「白胺酸(leucine)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「甲硫胺酸(methionine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「精胺酸(arginine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「麩胺酸(glutamate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\n白胺酸是純生酮胺基酸，過度代謝最容易增加酮體生成。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "白胺酸是純生酮胺基酸，過度代謝最容易增加酮體生成。",
-      "flashcard_summary": "生酮胺基酸 / 白胺酸 -> 過度代謝最容易導致 ketosis",
+      "explanation": "【題幹解析】\nLeucine 與 lysine 是純生酮胺基酸，代謝產物偏向 acetyl-CoA 或 acetoacetate；飢餓時過度代謝最容易增加酮體生成。\n\n【選項詳解】\n- A. leucine 是純 ketogenic amino acid，過度代謝容易促進 ketosis，故正確。\n- B. methionine 是 glucogenic amino acid，不是最典型導致酮症的胺基酸。\n- C. arginine 屬 glucogenic，不是純生酮胺基酸。\n- D. glutamate 可進入 TCA cycle 成為 alpha-ketoglutarate，偏 glucogenic，不是本題答案。\n\n【核心考點】\n純生酮胺基酸是 leucine 與 lysine；本題選 leucine。",
+      "key_point": "純生酮胺基酸是 leucine 與 lysine；本題選 leucine。",
+      "flashcard_summary": "純生酮胺基酸是 leucine 與 lysine；本題選 leucine。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "ketogenic amino acid / leucine / starvation / ketosis / lysine 對照",
-      "flashcard_back": "記生酮胺基酸最經典就是 leucine、lysine。若題目問最容易造成酮症，白胺酸通常很有力。",
+      "flashcard_front": "在饑餓時,人體會分解蛋白質產生胺基酸以供應能量,下列那一種胺基酸過度代謝最容易導致酮症  (ketosis)?",
+      "flashcard_back": "純生酮胺基酸是 leucine 與 lysine；本題選 leucine。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_095",
@@ -2751,23 +2751,23 @@
         "D": "ubiquinone:cytochrome c oxidoreductase"
       },
       "correct_answer": "B",
-      "explanation": "【題幹解析】\n本題題幹為：「下列那一個酵素位於粒線體電子傳遞鏈的complex IV?」\n標準答案為 B。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：complex I 是 NADH dehydrogenase，complex II 是 succinate dehydrogenase，complex III 是 ubiquinone-cytochrome c oxidoreductase，complex IV 則是 cytochrome oxidase。它負責把電子傳給氧並生成水。故答案為 cytochrome oxidase。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「NADH dehydrogenase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- B. 正確答案。選項內容：「cytochrome oxidase」此選項最符合題幹線索與標準答案。\n- C. 非本題答案。選項內容：「succinate dehydrogenase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n- D. 非本題答案。選項內容：「ubiquinone:cytochrome c oxidoreductase」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 B 比較。\n\n【核心考點】\n電子傳遞鏈 complex IV 就是 cytochrome c oxidase。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "電子傳遞鏈 complex IV 就是 cytochrome c oxidase。",
-      "flashcard_summary": "電子傳遞鏈 / complex IV -> 對應 cytochrome oxidase",
+      "explanation": "【題幹解析】\n電子傳遞鏈 complex IV 是 cytochrome c oxidase，負責把電子從 cytochrome c 傳給氧，形成水。\n\n【選項詳解】\n- A. NADH dehydrogenase 是 complex I，不是 complex IV。\n- B. cytochrome oxidase 即 complex IV，負責氧作為最終電子接受者的步驟，故正確。\n- C. succinate dehydrogenase 是 complex II，也屬 TCA cycle 酵素。\n- D. ubiquinone:cytochrome c oxidoreductase 是 complex III，不是 complex IV。\n\n【核心考點】\nETC：I NADH dehydrogenase、II succinate dehydrogenase、III cytochrome bc1、IV cytochrome c oxidase。",
+      "key_point": "ETC：I NADH dehydrogenase、II succinate dehydrogenase、III cytochrome bc1、IV cytochrome c oxidase。",
+      "flashcard_summary": "ETC：I NADH dehydrogenase、II succinate dehydrogenase、III cytochrome bc1、IV cytochrome c oxidase。",
       "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "ETC complex IV / cytochrome oxidase / oxygen reduction / complex map",
-      "flashcard_back": "電子傳遞鏈分段要整組記：I NADH、II succinate、III cytochrome bc1、IV cytochrome oxidase。問 complex IV 就直接選 cytochrome oxidase。",
+      "flashcard_front": "下列那一個酵素位於粒線體電子傳遞鏈的complex IV?",
+      "flashcard_back": "ETC：I NADH dehydrogenase、II succinate dehydrogenase、III cytochrome bc1、IV cytochrome c oxidase。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_096",
@@ -2780,23 +2780,23 @@
         "D": "PH domain"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「Ca2+是一重要的訊息分子,細胞中存在Ca2+結合蛋白例如calmodulin參與其傳訊機制,而calmodulin蛋白最\n 主要藉由那個結構來結合Ca2+?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：EF-hand domain 是典型鈣離子結合結構，存在於 calmodulin 等 Ca2+-binding proteins。SH2、PTB 與 PH domain 分別偏向辨識 phosphotyrosine、特定蛋白序列或膜脂質，不是主要鈣結合位點。故答案為 EF hand domain。\n\n【選項詳解】\n- A. 正確答案。選項內容：「EF hand domain」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「SH2 domain」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「PTB domain」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「PH domain」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\ncalmodulin 以 EF-hand motif 結合 Ca2+ 並啟動下游訊息。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "calmodulin 以 EF-hand motif 結合 Ca2+ 並啟動下游訊息。",
-      "flashcard_summary": "calmodulin / Ca2+ 結合 -> 主要藉由 EF-hand domain",
+      "explanation": "【題幹解析】\nCalmodulin 是典型 Ca2+-binding protein，主要藉 EF-hand motif/domain 結合鈣離子，之後調節下游酵素與訊號傳遞。\n\n【選項詳解】\n- A. EF hand domain 是 calmodulin 結合 Ca2+ 的典型結構，故正確。\n- B. SH2 domain 主要辨識 phosphotyrosine，不是 Ca2+ 結合結構。\n- C. PTB domain 與特定 phosphotyrosine 或蛋白序列辨識相關，不是 calmodulin 鈣結合位點。\n- D. PH domain 多與 phosphoinositides 膜定位相關，不是 Ca2+ 結合主結構。\n\n【核心考點】\nCalmodulin 以 EF-hand motif 結合 Ca2+。",
+      "key_point": "Calmodulin 以 EF-hand motif 結合 Ca2+。",
+      "flashcard_summary": "Calmodulin 以 EF-hand motif 結合 Ca2+。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "calmodulin / Ca2+ binding / EF-hand / signaling domain",
-      "flashcard_back": "只要題目把 calmodulin 和鈣結合結構放一起，答案幾乎都是 EF-hand。其他 domain 多用在蛋白或脂質訊號辨識。",
+      "flashcard_front": "Ca2+是一重要的訊息分子,細胞中存在Ca2+結合蛋白例如calmodulin參與其傳訊機制,而calmodulin蛋白最  主要藉由那個結構來結合Ca2+?",
+      "flashcard_back": "Calmodulin 以 EF-hand motif 結合 Ca2+。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_097",
@@ -2809,23 +2809,23 @@
         "D": "serotonin"
       },
       "correct_answer": "A",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種分子引發的訊息傳遞通常不使用cAMP作為其主要的second messenger?」\n標準答案為 A。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：atrial natriuretic factor 作用於具 guanylyl cyclase 活性的受體，增加 cGMP。glucagon 常透過 Gs-cAMP，dopamine 與 serotonin 也有多種受體亞型，其中部分可經 cAMP 傳遞。故最明確不以 cAMP 為主的是 ANF。\n\n【選項詳解】\n- A. 正確答案。選項內容：「atrial natriuretic factor(ANF)」此選項最符合題幹線索與標準答案。\n- B. 非本題答案。選項內容：「glucagon」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- C. 非本題答案。選項內容：「dopamine」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n- D. 非本題答案。選項內容：「serotonin」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 A 比較。\n\n【核心考點】\nANF 的主要 second messenger 是 cGMP，不是 cAMP。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "ANF 的主要 second messenger 是 cGMP，不是 cAMP。",
-      "flashcard_summary": "ANF / second messenger -> 主要使用 cGMP，不是 cAMP",
+      "explanation": "【題幹解析】\nANF/ANP 作用於具有 guanylyl cyclase 活性的受體，使 cGMP 增加；相較之下 glucagon 常走 Gs-cAMP，dopamine 與 serotonin 也有可影響 cAMP 的受體亞型。\n\n【選項詳解】\n- A. ANF 的主要 second messenger 是 cGMP，不是 cAMP，故是本題答案。\n- B. glucagon 典型透過 Gs 活化 adenylyl cyclase，使 cAMP 上升。\n- C. dopamine 受體中 D1-like 可增加 cAMP，D2-like 可降低 cAMP，因此與 cAMP 訊號有關。\n- D. serotonin 有多種受體亞型，其中部分經 G protein 影響 cAMP，不如 ANF 明確排除 cAMP。\n\n【核心考點】\nANF/ANP 主要透過 guanylyl cyclase receptor 產生 cGMP。",
+      "key_point": "ANF/ANP 主要透過 guanylyl cyclase receptor 產生 cGMP。",
+      "flashcard_summary": "ANF/ANP 主要透過 guanylyl cyclase receptor 產生 cGMP。",
       "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "ANF / cGMP / guanylyl cyclase receptor / cAMP 對照",
-      "flashcard_back": "心房利鈉因子的招牌訊號是 cGMP，不是 cAMP。題目若在 second messenger 中要找例外，ANF 很常出現。",
+      "flashcard_front": "下列何種分子引發的訊息傳遞通常不使用cAMP作為其主要的second messenger?",
+      "flashcard_back": "ANF/ANP 主要透過 guanylyl cyclase receptor 產生 cGMP。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_098",
@@ -2838,23 +2838,23 @@
         "D": "酪胺酸(tyrosine)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「下列何種胺基酸為兒茶酚胺類激素(catecholamine hormones)生成之前驅物?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：tyrosine 先轉為 DOPA，再經 dopamine、norepinephrine 到 epinephrine，是 catecholamine 的經典生合成路徑。其他選項不是這條激素路徑的主要前驅物。故答案為酪胺酸。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「天門冬醯胺(asparagine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「穀胺酸(glutamate)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「精胺酸(arginine)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「酪胺酸(tyrosine)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n兒茶酚胺由酪胺酸經 DOPA 路徑合成。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "兒茶酚胺由酪胺酸經 DOPA 路徑合成。",
-      "flashcard_summary": "兒茶酚胺前驅物 / tyrosine -> catecholamine hormones 由酪胺酸生成",
+      "explanation": "【題幹解析】\nCatecholamines 的生合成從 tyrosine 開始，依序形成 DOPA、dopamine、norepinephrine，最後可形成 epinephrine。\n\n【選項詳解】\n- A. asparagine 不是 catecholamine 合成路徑的前驅物。\n- B. glutamate 是興奮性神經傳遞物與多種胺基酸代謝中間，但不是兒茶酚胺前驅物。\n- C. arginine 與 NO、尿素循環等相關，不是 catecholamine 主要前驅物。\n- D. tyrosine 是 catecholamine hormones 的經典前驅物，故正確。\n\n【核心考點】\nCatecholamine 合成路徑：tyrosine -> DOPA -> dopamine -> norepinephrine -> epinephrine。",
+      "key_point": "Catecholamine 合成路徑：tyrosine -> DOPA -> dopamine -> norepinephrine -> epinephrine。",
+      "flashcard_summary": "Catecholamine 合成路徑：tyrosine -> DOPA -> dopamine -> norepinephrine -> epinephrine。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "catecholamine synthesis / tyrosine / DOPA / dopamine / epinephrine",
-      "flashcard_back": "兒茶酚胺路徑起點一定先想 tyrosine。只要考前驅物，酪胺酸幾乎就是標準答案。",
+      "flashcard_front": "下列何種胺基酸為兒茶酚胺類激素(catecholamine hormones)生成之前驅物?",
+      "flashcard_back": "Catecholamine 合成路徑：tyrosine -> DOPA -> dopamine -> norepinephrine -> epinephrine。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_099",
@@ -2867,23 +2867,23 @@
         "D": "GCTAGC"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「大部分常用的限制酶(restriction enzyme)會辨識迴文序列(palindromic sequence)以截切去氧核糖核\n 酸,下列何者為迴文序列?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：palindromic sequence 的定義是其互補股以相反方向讀取時序列相同，這也是多數限制酶辨識的形式。GCTAGC 的反向互補後仍可對應相同讀法，因此符合迴文序列。其餘選項不符合典型反向互補對稱。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「CCCCCC」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「AGCAGC」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「TAGGAT」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「GCTAGC」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n迴文序列在雙股 DNA 上正反向讀取相同，GCTAGC 符合此特性。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "迴文序列在雙股 DNA 上正反向讀取相同，GCTAGC 符合此特性。",
-      "flashcard_summary": "迴文序列 / reverse complement -> GCTAGC 為限制酶可辨識的 palindrome",
+      "explanation": "【題幹解析】\n限制酶常辨識 DNA palindrome，也就是雙股 DNA 以相反方向讀取時呈現互補對稱。GCTAGC 的 reverse complement 仍為 GCTAGC。\n\n【選項詳解】\n- A. CCCCCC 的互補股為 GGGGGG，反向互補不等於原序列，不是典型限制酶 palindrome。\n- B. AGCAGC 的 reverse complement 為 GCTGCT，與原序列不同。\n- C. TAGGAT 的 reverse complement 為 ATCCTA，與原序列不同。\n- D. GCTAGC 的 reverse complement 仍為 GCTAGC，符合迴文序列，故正確。\n\n【核心考點】\nDNA palindrome 要看 reverse complement 是否與原序列相同；GCTAGC 符合。",
+      "key_point": "DNA palindrome 要看 reverse complement 是否與原序列相同；GCTAGC 符合。",
+      "flashcard_summary": "DNA palindrome 要看 reverse complement 是否與原序列相同；GCTAGC 符合。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "palindromic sequence / restriction enzyme / reverse complement / GCTAGC",
-      "flashcard_back": "判斷迴文序列要看 reverse complement 是否相同，不是只看順著念好不好看。這是限制酶辨識序列的經典概念。",
+      "flashcard_front": "大部分常用的限制酶(restriction enzyme)會辨識迴文序列(palindromic sequence)以截切去氧核糖核  酸,下列何者為迴文序列?",
+      "flashcard_back": "DNA palindrome 要看 reverse complement 是否與原序列相同；GCTAGC 符合。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "medium",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     },
     {
       "id": "113-1_medicine-1_100",
@@ -2896,23 +2896,23 @@
         "D": "反轉錄酶(reverse transcriptase)"
       },
       "correct_answer": "D",
-      "explanation": "【題幹解析】\n本題題幹為：「聚合酶鏈鎖反應(polymerase chain reaction, PCR)不需要下列何種物質?」\n標準答案為 D。解題時先抓住題幹中的臨床線索、檢查數值或關鍵概念，再判斷哪個選項最符合題意。\n\n原本詳解重點：標準 polymerase chain reaction 是針對 DNA 模板進行擴增，核心材料包含雙股 DNA、primer、耐熱 DNA polymerase 與 dNTPs。reverse transcriptase 是 RT-PCR 處理 RNA 時才需要的酶，並非一般 PCR 必備。故答案為反轉錄酶。\n\n【選項詳解】\n- A. 非本題答案。選項內容：「DNA雙股模板(template)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- B. 非本題答案。選項內容：「引子(primer)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- C. 非本題答案。選項內容：「去氧核糖核酸聚合酶(DNA polymerase)」此選項不是本題標準答案；作答時應回到題幹關鍵線索，並與正解 D 比較。\n- D. 正確答案。選項內容：「反轉錄酶(reverse transcriptase)」此選項最符合題幹線索與標準答案。\n\n【核心考點】\n一般 PCR 需要 DNA 模板、引子與 DNA polymerase，不需要 reverse transcriptase。 複習時不要只背答案，應同時確認正確選項成立的理由，以及其他選項為何不符合題幹條件。",
-      "key_point": "一般 PCR 需要 DNA 模板、引子與 DNA polymerase，不需要 reverse transcriptase。",
-      "flashcard_summary": "PCR / 必需材料 -> 一般 PCR 不需要 reverse transcriptase",
+      "explanation": "【題幹解析】\n一般 PCR 是以 DNA 模板擴增 DNA，必備核心包含 template DNA、primers、耐熱 DNA polymerase 與 dNTPs；reverse transcriptase 是 RNA 反轉錄成 cDNA 的 RT-PCR 才需要。\n\n【選項詳解】\n- A. DNA template 是一般 PCR 擴增的模板，屬必要成分。\n- B. primer 提供 DNA polymerase 延伸起點，屬 PCR 必要成分。\n- C. DNA polymerase 負責延伸新股 DNA，屬 PCR 必要成分。\n- D. reverse transcriptase 用於 RNA 先轉成 cDNA 的 RT-PCR，不是一般 PCR 必需物質，故正確。\n\n【核心考點】\n一般 PCR 需要 DNA template、primers、DNA polymerase 與 dNTPs；reverse transcriptase 是 RT-PCR 才需要。",
+      "key_point": "一般 PCR 需要 DNA template、primers、DNA polymerase 與 dNTPs；reverse transcriptase 是 RT-PCR 才需要。",
+      "flashcard_summary": "一般 PCR 需要 DNA template、primers、DNA polymerase 與 dNTPs；reverse transcriptase 是 RT-PCR 才需要。",
       "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
       "answer_source": "official_correction",
-      "flashcard_front": "PCR essentials / DNA template / primer / DNA polymerase / reverse transcriptase",
-      "flashcard_back": "普通 PCR 擴增 DNA，不需 reverse transcriptase。只有從 RNA 起始的 RT-PCR 才會先用到反轉錄酶。",
+      "flashcard_front": "聚合酶鏈鎖反應(polymerase chain reaction, PCR)不需要下列何種物質?",
+      "flashcard_back": "一般 PCR 需要 DNA template、primers、DNA polymerase 與 dNTPs；reverse transcriptase 是 RT-PCR 才需要。",
       "category_group": "醫學（一）",
       "category": "生物化學",
       "category_confidence": "high",
       "category_source": "auto",
-      "explanation_model": "gemini-pro-manual+structured-v2",
-      "explanation_generated_at": "2026-06-30T14:05:39.265Z"
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00"
     }
   ]
 }

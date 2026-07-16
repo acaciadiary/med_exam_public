@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-1.json",
+  "dataset_id": "113-1_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\nBase excision repair 的第一步是 DNA glycosylase 辨識異常或受損鹼基並切斷 N-glycosidic bond，形成 AP site。\n\n【選項詳解】\n- A. DNA glycosylase 是 BER 的第一個關鍵酵素，先移除受損鹼基，故正確。\n- B. AP endonuclease 在 AP site 形成後才切開 DNA 骨架，不是第一步。\n- C. DNA ligase 在修補末端負責封合缺口，屬後期步驟。\n- D. Dam methylase 與細菌錯配修復中新舊股辨識相關，不是 BER 第一酵素。\n\n【核心考點】\nBER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "key_point": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "flashcard_front": "鹼基切除修復(base excision repair)過程中,催化修復作用的第一個酵素為:",
+      "flashcard_back": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "flashcard_summary": "BER 第一酵素是 DNA glycosylase，先移除受損鹼基形成 AP site。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\nKlenow fragment 是 E. coli DNA polymerase I 去掉 N 端 5'→3' exonuclease 小片段後留下的大型 C 端片段，保留 polymerase 與 3'→5' proofreading 活性。\n\n【選項詳解】\n- A. Klenow fragment 保有 DNA polymerase 活性，敘述正確。\n- B. 5'→3' exonuclease 活性位於被移除的 N 端片段，因此 Klenow fragment 不具有此活性，這是錯誤敘述。\n- C. Klenow fragment 是 polymerase C-terminal 的大片段，敘述正確。\n- D. Klenow fragment 保留 3'→5' exonuclease proofreading 活性，敘述正確。\n\n【核心考點】\nKlenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "key_point": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "flashcard_front": "關於大腸桿菌(E. coli)DNA聚合酶 I 型(DNA polymerase I)的Klenow fragment,下列敘述何者錯誤?",
+      "flashcard_back": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "flashcard_summary": "Klenow fragment 保留 polymerase 與 3'→5' exonuclease，缺少 5'→3' exonuclease。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nRas 需要脂質修飾才能穩定附著於細胞膜。其 C 端 CAAX motif 常經 prenylation（如 farnesylation）增加疏水性並定位到膜上。\n\n【選項詳解】\n- A. ubiquitination 多與蛋白降解或訊號調控相關，不是 Ras 典型膜定位修飾。\n- B. acetylation 常影響染色質或蛋白功能調控，不是 Ras 結合膜的主要機制。\n- C. adenylation 不是 Ras 膜定位的標準修飾。\n- D. prenylation 讓 Ras 取得疏水性脂質尾端以附著細胞膜，故正確。\n\n【核心考點】\nRas 經 prenylation 取得膜定位能力。",
+      "key_point": "Ras 經 prenylation 取得膜定位能力。",
+      "flashcard_front": "致癌基因產物Ras位於細胞膜上傳遞信息,此蛋白是經由何種修飾而能夠結合在細胞膜?",
+      "flashcard_back": "Ras 經 prenylation 取得膜定位能力。",
+      "flashcard_summary": "Ras 經 prenylation 取得膜定位能力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n原核 RNA polymerase holoenzyme 的 sigma subunit 主要負責 initiation 時辨識 promoter；進入 elongation 後，核心酶 alpha、beta、beta prime 才是主要執行者。\n\n【選項詳解】\n- A. alpha subunit 屬核心酶成分，在轉錄延伸中仍屬酶複合體的一部分。\n- B. beta subunit 參與 RNA 合成催化，是延伸期核心成分。\n- C. beta prime subunit 參與 DNA template 結合，是核心酶重要成分。\n- D. sigma subunit 主要在起始辨識 promoter，延伸期多脫離或參與最少，故正確。\n\n【核心考點】\n細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "key_point": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "flashcard_front": "原核生物RNA聚合酶在進行轉錄延伸作用(elongation)時,下列那一個次單元(subunit)參與最少?",
+      "flashcard_back": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "flashcard_summary": "細菌 sigma factor 主責 promoter recognition/initiation，elongation 時參與最少。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\nWobble 題要注意 anticodon 與 codon 方向相反。tRNAArg anticodon 5'-ICG 可和 arginine codon 5'-CGA 配對，且 inosine 在 wobble 位置可增加辨識彈性。\n\n【選項詳解】\n- A. 5'-CGA 是 arginine codon，能與 5'-ICG anticodon 依方向性與 wobble 規則配對，故正確。\n- B. 5'-AGC 不是此 tRNAArg 對應的 CGN 類 arginine codon，且配對方向不符。\n- C. 5'-UGC 是 cysteine codon，不是 arginine codon。\n- D. 5'-GGC 是 glycine codon，不是 arginine codon。\n\n【核心考點】\nAnticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "key_point": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "flashcard_front": "擺動假說(wobble hypothesis)允許某些tRNA識別多個密碼子(codon)。在酵母菌中,一個tRNAArg具有反  密碼子(anticodon)",
+      "flashcard_back": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "flashcard_summary": "Anticodon 要反向讀取配對；5'-ICG 可辨識 arginine codon 5'-CGA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n真核細胞 RNA polymerase 分工：Pol I 轉錄 45S pre-rRNA，產生 18S、5.8S、28S rRNA；Pol III 負責 5S rRNA 與 tRNA。\n\n【選項詳解】\n- A. RNA polymerase I 負責 18S 與 28S rRNA 的前驅轉錄，故正確。\n- B. RNA polymerase II 主要轉錄 mRNA 與部分 snRNA，不是 18S/28S rRNA 主力。\n- C. RNA polymerase III 轉錄 tRNA 與 5S rRNA，不轉錄 18S 與 28S。\n- D. ribosomal RNase 不是合成 rRNA 的聚合酶。\n\n【核心考點】\nPol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "key_point": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "flashcard_front": "脊椎動物中,由下列那種酶負責合成18S與28S rRNA?",
+      "flashcard_back": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "flashcard_summary": "Pol I 產生 18S、5.8S、28S rRNA；Pol III 產生 5S rRNA 與 tRNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n無氧糖解中，每 1 mole glucose 淨產生 2 ATP；產生的 NADH 會在 lactate dehydrogenase 反應中把 pyruvate 還原為 lactate，同時再生 NAD+，所以不淨保留 NADH。\n\n【選項詳解】\n- A. 糖解每葡萄糖淨 ATP 是 2，不是 1。\n- B. 無氧轉成 2 mole lactate 後，淨能量為 2 mole ATP，故正確。\n- C. NADH 在 lactate dehydrogenase 反應中被消耗再生 NAD+，不淨保留 2 mole NADH。\n- D. ATP 兩莫耳正確，但 NADH 不會淨產生兩莫耳，因此此選項錯誤。\n\n【核心考點】\n無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "key_point": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "flashcard_front": "無氧代謝時,將一莫耳(mole)的葡萄糖經由糖解作用(glycolysis)及酵素lactate dehydrogenase轉化  成兩莫耳的乳酸(lactat",
+      "flashcard_back": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "flashcard_summary": "無氧糖解：1 glucose 到 2 lactate，淨產生 2 ATP，NADH 被用來再生 NAD+。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n飲食澱粉 amylose 與 amylopectin 先被 amylase 分解成 maltose、maltotriose 與 limit dextrins，刷狀緣再分解成 glucose；選項中最符合消化產物的是 glucose 與 maltose。\n\n【選項詳解】\n- A. glucose 與 maltose 是澱粉腸道消化過程中合理產物，故正確。\n- B. glucose-1-phosphate 是細胞內代謝中間物，不是腸道澱粉水解主要產物。\n- C. maltose 可出現，但 glucose-1-phosphate 不屬腸腔消化產物。\n- D. glucose-6-phosphate 是細胞內磷酸化葡萄糖，不是消化道水解產物。\n\n【核心考點】\n澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "key_point": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "flashcard_front": "飲食中的植物性澱粉(amylopectin and amylose),會在我們的消化道中被水解成:",
+      "flashcard_back": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "flashcard_summary": "澱粉消化產物以 maltose、maltotriose、limit dextrins 到 glucose 為主，不產生 phosphorylated glucose。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n醣蛋白鍵結常考 N-linked 與 O-linked。N-linked glycosylation 接在 asparagine；O-linked 常接在 serine 或 threonine。\n\n【選項詳解】\n- A. asparagine、serine、threonine 分別涵蓋 N-linked 與 O-linked 常見醣基連接位點，故正確。\n- B. cysteine、aspartate、glutamate 不是典型醣蛋白醣鏈連接組合。\n- C. serine 可參與 O-linked，但 glutamine 與 arginine 不是典型主要連接位點。\n- D. threonine 可參與 O-linked，但 aspartate 與 arginine 不是常見主要醣基接點。\n\n【核心考點】\nGlycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "key_point": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "flashcard_front": "在醣蛋白質(glycoproteins)分子中,下列那一組胺基酸殘基(amino acid residues)皆可參與醣基  (carbohydrate moi",
+      "flashcard_back": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "flashcard_summary": "Glycoprotein 常見連接殘基：N-linked 到 Asn，O-linked 到 Ser/Thr。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n膽鹽由膽固醇衍生，速率決定步驟由 cholesterol 7-alpha hydroxylase 催化，且具兩親性，可乳化脂質促進吸收；說它是非極性分子是錯的。\n\n【選項詳解】\n- A. cholesterol 7-alpha hydroxylase 是膽酸合成速率決定步驟，敘述正確。\n- B. 膽鹽是兩親性分子，不是單純非極性；此敘述把分子特性說錯，故為答案。\n- C. 膽酸合成涉及 cytochrome P450 酵素系統，敘述正確。\n- D. 膽鹽由膽固醇衍生，合成與膽固醇供應及調控有關，敘述可接受。\n\n【核心考點】\n膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "key_point": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "flashcard_front": "下列有關膽鹽(bile salts)的敘述,何者錯誤?",
+      "flashcard_back": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "flashcard_summary": "膽鹽是 cholesterol 衍生的兩親性分子，可乳化脂質；不是非極性分子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

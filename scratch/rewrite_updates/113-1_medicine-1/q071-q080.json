@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/113-1/medicine-1.json",
+  "dataset_id": "113-1_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "113-1_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n低血鈣會刺激 PTH 分泌，促進腎臟保鈣並增加腎臟 1-alpha hydroxylase 活性，使 1,25-(OH)2D3 增加，進而增加腸鈣吸收。\n\n【選項詳解】\n- A. 低血鈣會刺激副甲狀腺素分泌增加，是正確代償。\n- B. 1,25-(OH)2D3 主要由腎臟活化生成；肝臟主要做 25-hydroxylation，因此說肝臟分泌增加最不恰當。\n- C. PTH 會增加腎小管鈣再吸收，使尿鈣排泄減少，屬低血鈣代償。\n- D. 活性維生素 D 增加會促進小腸鈣吸收，屬低血鈣後續代償。\n\n【核心考點】\n低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "key_point": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "flashcard_front": "有關身體對低血鈣狀況的可能反應,下列敘述何者最不恰當?",
+      "flashcard_back": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "flashcard_summary": "低血鈣刺激 PTH；活性維生素 D 的 1-alpha hydroxylation 主要在腎臟，不是肝臟。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n胰島素分泌主要受血糖調控，也受 incretin、迷走神經與部分胰島激素影響。副交感神經通常促進進食期胰島素分泌，不是抑制。\n\n【選項詳解】\n- A. 副交感迷走神經活化會促進胰島素分泌；說會抑制是錯誤敘述。\n- B. 血糖濃度是 beta cell 胰島素分泌最主要調控因子，正確。\n- C. GLP-1 在高血糖時增強 glucose-dependent insulin secretion，正確。\n- D. glucagon 可透過胰島內 paracrine 或血糖相關機制促進胰島素分泌，敘述可接受。\n\n【核心考點】\n胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "key_point": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "flashcard_front": "下列有關胰島素分泌調控的敘述,何者錯誤?",
+      "flashcard_back": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "flashcard_summary": "胰島素分泌主軸是血糖；副交感與 GLP-1 通常促進胰島素分泌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n透明帶包覆 secondary oocyte、zygote 與 morula，可避免過早著床；囊胚著床前會 hatch，脫離透明帶。\n\n【選項詳解】\n- A. secondary oocyte 仍有 zona pellucida 包覆，並參與精卵辨識與防止多精入卵。\n- B. zygote 仍在透明帶內進行早期卵裂。\n- C. morula 仍被 zona pellucida 包覆，以避免輸卵管異位著床。\n- D. 囊胚著床前已脫離透明帶；implanted blastocyst 不再有 zona pellucida，故正確。\n\n【核心考點】\n透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "key_point": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "flashcard_front": "透明帶(zona pellucida)不存在於下列何者?",
+      "flashcard_back": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "flashcard_summary": "透明帶存在於卵母細胞到 morula；囊胚著床前會 hatch 而消失。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n競爭性抑制劑與受質競爭活性位，增加達到半最大速率所需受質濃度，所以表觀 KM 上升；高受質濃度可克服抑制，Vmax 不變。\n\n【選項詳解】\n- A. 競爭性抑制不降低 Vmax，也不降低 KM，此組合錯誤。\n- B. Vmax 不變正確，但 KM 應上升而非下降。\n- C. KM 上升正確，但 Vmax 不會下降；Vmax 下降較像非競爭性抑制。\n- D. competitive inhibition 的典型變化是 Vmax 不變、KM 上升，故正確。\n\n【核心考點】\nCompetitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "key_point": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "flashcard_front": "在競爭性抑制劑(competitive inhibitor)的存在下,下列何項是可預期的Michaelis-Menten酵素動力學  變化?",
+      "flashcard_back": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "flashcard_summary": "Competitive inhibitor：Vmax 不變，apparent KM 上升。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nAlpha helix 主要由多肽主鏈內的氫鍵穩定，通常是第 i 個殘基 C=O 與第 i+4 個殘基 N-H 之間形成氫鍵。\n\n【選項詳解】\n- A. α 碳之間的疏水作用不是 α 螺旋主要穩定來源。\n- B. α 螺旋由胜肽主幹 C=O 與 N-H 之間規則氫鍵穩定，故正確。\n- C. 側鏈靜電作用可影響螺旋傾向，但不是主要普遍穩定因素。\n- D. 側鏈氫鍵可能局部影響結構，但 α 螺旋的核心穩定來自主幹氫鍵。\n\n【核心考點】\nα-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "key_point": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "flashcard_front": "下列何者為穩定蛋白質α-螺旋結構的主要因素?",
+      "flashcard_back": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "flashcard_summary": "α-helix 的主要穩定力是 peptide backbone 內部氫鍵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nEC 傳統六大酵素類別是 oxidoreductases、transferases、hydrolases、lyases、isomerases、ligases；dehydrogenase 是氧化還原酶中的一類酵素名稱，不是大類。\n\n【選項詳解】\n- A. lyases 是 EC 六大類之一，屬於裂解或加成反應相關酵素。\n- B. dehydrogenases 是具體酵素族群，歸在 oxidoreductases 之下，不是 EC 六大類名稱，故正確。\n- C. hydrolases 是 EC 六大類之一，催化水解反應。\n- D. isomerases 是 EC 六大類之一，催化異構化反應。\n\n【核心考點】\nEC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "key_point": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "flashcard_front": "Enzyme Commission(EC)將酵素依反應類型區分為六大類別(classes),下列何者不屬於EC命名系統之酵  素類別?",
+      "flashcard_back": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "flashcard_summary": "EC 六大類沒有 dehydrogenases；它屬 oxidoreductases 的具體酵素族。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nLipoate 在 pyruvate dehydrogenase complex 中以 lipoamide 連到 E2 lysine，接受 hydroxyethyl 與乙醯基，再把 acetyl group 轉給 CoA；還原型 lipoamide 由 E3/FAD/NAD+ 再氧化。\n\n【選項詳解】\n- A. lipoate 的再氧化使用 FAD 與 NAD+，不是 NADP；且流程描述把氧化來源寫錯，因此為錯誤敘述。\n- B. lipoate 以 amide linkage 接在 dihydrolipoyl transacetylase（E2）的 lysine 上，敘述正確。\n- C. lipoamide 作為 acyl group carrier，將 acetyl group 轉移給 CoA 形成 acetyl-CoA，正確。\n- D. 氧化型 lipoamide 可接受 hydroxyethyl-TPP 來的乙醯基與電子，敘述符合 PDH 流程。\n\n【核心考點】\nPDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "key_point": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "flashcard_front": "Lipoate是pyruvate dehydrogenase complex其中一個輔酶,參與催化pyruvate形成acetyl-CoA,下列有關  其結構與",
+      "flashcard_back": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "flashcard_summary": "PDH lipoamide 連在 E2 lysine；還原型 lipoamide 由 FAD/NAD+ 再氧化，不是 NADP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nTransaminases 需要 pyridoxal phosphate（PLP）作為輔酶，PLP 來自維生素 B6，可穩定胺基轉移反應中間產物。\n\n【選項詳解】\n- A. methylcobalamin 是維生素 B12 形式，主要參與甲基轉移，不是轉胺酶典型輔酶。\n- B. pyridoxal phosphate 是 transaminase 的核心輔酶，故正確。\n- C. folic acid 參與一碳單位代謝，不是轉胺酶活性中心輔酶。\n- D. thiamine pyrophosphate 常參與脫羧反應，例如 PDH，不是轉胺反應主輔酶。\n\n【核心考點】\n轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "key_point": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "flashcard_front": "轉胺酶(transaminases)是參與胺基酸合成的重要酵素,此酵素的活性中心帶有下列那一種輔酶  (coenzyme)?",
+      "flashcard_back": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "flashcard_summary": "轉胺酶的輔酶是 PLP，來源為 vitamin B6。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nATP、GTP 等 nucleoside triphosphates 的能量主要儲存在相鄰磷酸基之間的磷酸酐鍵，水解可釋放自由能。\n\n【選項詳解】\n- A. phosphoanhydride bonds 是核苷三磷酸攜帶與傳遞能量的關鍵鍵結，故正確。\n- B. phosphodiester bonds 是核酸糖磷酸骨架的連結，不是 ATP 高能磷酸鍵。\n- C. glycosidic bond 連接糖與鹼基，不是主要能量傳遞鍵。\n- D. 氫鍵參與鹼基配對等非共價作用，不是 NTP 儲能的主要形式。\n\n【核心考點】\nNTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "key_point": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "flashcard_front": "核苷三磷酸(nucleoside triphosphates)以下列何種形式攜帶及傳遞能量?",
+      "flashcard_back": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "flashcard_summary": "NTP 的高能鍵是磷酸基之間的 phosphoanhydride bonds。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "113-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nTopoisomerase 透過暫時切開與重新連接 DNA，改變 DNA supercoiling，解除複製與轉錄時的扭轉張力。\n\n【選項詳解】\n- A. 改變 DNA supercoil 是 topoisomerase 的主要功能，故正確。\n- B. 鹼基配對專一性由 A-T、G-C 配對與聚合酶選擇性決定，不是拓樸異構酶功能。\n- C. topoisomerase 不負責增加或減少 DNA 核苷酸數目。\n- D. DNA 與 RNA 置換不是 topoisomerase 的功能；這涉及轉錄或核酸雜合處理。\n\n【核心考點】\nTopoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "key_point": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "flashcard_front": "拓樸異構酶(Topoisomerase)的主要功能為:",
+      "flashcard_back": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "flashcard_summary": "Topoisomerase 改變 DNA 超螺旋，解除複製與轉錄造成的扭轉壓力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
