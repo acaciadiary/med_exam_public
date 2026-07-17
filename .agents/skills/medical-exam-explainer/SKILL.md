@@ -55,7 +55,8 @@ For quality-critical rewrites, use short-lived micro-batch workers:
 - Each writer writes a standalone update file:
   - Path pattern: `scratch/rewrite_updates/<YEAR>_<SUBJECT>/q<START>-q<END>.json`
   - Example: `scratch/rewrite_updates/109-1_medicine-3/q001-q010.json`
-- After the wave finishes, collect update files, validate update JSON, scan for banned filler, and close those subagents.
+- After the wave finishes, collect update files, validate update JSON, run the anti-AI style gate, and close those subagents.
+- Do not send a 10-question update file to review if it still contains banned filler phrases, repeated option paragraphs, or generic "not the best answer" wording.
 - The main thread merges approved update files into the source exam JSON after review.
 - Then launch the next wave of 5 fresh subagents.
 - Finish all ranges for the current paper before starting the next paper.
@@ -72,9 +73,20 @@ Why this matters:
 
 If subagents are unavailable, process the same 10-question ranges sequentially in the main thread and report that fallback.
 
-### 100-Question Review Gate
+### Review Gates
 
-Use a review gate after each completed 100 questions:
+Use a lightweight gate after every 10-question update file and a full review gate after each completed 100 questions.
+
+10-question anti-AI gate:
+
+- Run this before a micro-batch can be marked ready for review.
+- The update file must have zero banned template phrases.
+- No sentence or paragraph longer than one short clause should be reused across three or more options in the same question.
+- Each option A-D must mention that option's own medical content, not only compare it to the standard answer.
+- Wrong options must name the concrete wrong claim, mechanism, anatomy, diagnostic criterion, contraindication, or management step.
+- If a 10-question file fails this gate, repair only the failed questions and rerun the gate before review.
+
+100-question review gate:
 
 - For a 100-question paper, run the review subagent after the whole paper is rewritten.
 - For an 80-question paper, combine with the next paper's first 20 rewritten questions when convenient, or run an 80-question review gate if it is the end of the current work chunk.
@@ -86,6 +98,7 @@ Use a review gate after each completed 100 questions:
   - Check that wrong options explain the specific false statement, not generic "not best answer" language.
   - Check that banned filler phrases are absent.
   - Check that no long sentence or source paragraph is reused across three or more option explanations.
+  - Check that options do not share a rigid template opening such as "對照本題核心解析" or "雖然與題目主題相關". Each option should begin from the option's own content when possible.
   - For negative stems such as "不是" or "較不可能", check that the labels make the logic clear: the keyed option is the exception, while the other options are true/possible statements.
   - Check that `key_point`, `flashcard_summary`, and `flashcard_back` are useful and not vague.
   - Check that learning fields do not carry a stale department/template label unrelated to the question content.
@@ -241,6 +254,32 @@ Also eliminate these low-value rewrite habits:
 - Using department labels such as `心臟內科的基本判斷能力` as the main explanation.
 - Treating all wrong options as generic distractors instead of explaining each option's actual false statement.
 
+## Anti-AI Style Gate
+
+This project should read like a careful senior student or teacher explaining the exam logic, not like a templated answer generator.
+
+Hard fail patterns:
+
+- Starting many options with the same scaffolding phrase, such as "對照本題核心解析", "雖然與題目主題相關", or "與標準答案的關鍵判斷不一致".
+- Explaining wrong options only by saying they are not the official answer.
+- Copying the same disease overview, stem summary, or treatment paragraph into A, B, C, and D.
+- Writing a core point that could fit almost any question, such as "熟悉定義、機轉、臨床表現與治療原則".
+- Making the explanation sound like it is grading options from outside the question instead of teaching why each option is medically right or wrong.
+
+Preferred human explanation style:
+
+- Start each option from the option's own claim: "C 錯在把外淋巴與內淋巴的鈉鉀組成反過來", "B 錯在 ACE inhibitor/ARB 懷孕禁用", "D 對，因為 metformin 會抑制肝臟糖質新生".
+- Use short exam-facing contrasts: "不是一律禁用 aspirin，而是高風險孕婦可用低劑量 aspirin 預防子癲前症".
+- For infectious disease, surgery, anatomy, pathology, pharmacology, and guideline-like questions, name the exact clue, structure, mechanism, drug class, threshold, or contraindication.
+- Keep the tone professional and compact. Avoid sounding chatty, but also avoid boilerplate.
+- If the same sentence would still make sense after replacing the disease name with another disease, it is probably too generic and should be rewritten.
+
+Content trust interpretation:
+
+- `validate:explanations` passing means the format is complete; it does not prove the explanation is natural or high quality.
+- A paper is not ready to call "clean" until its file-scoped `content:trust` report has `banned_template_phrase = 0` and `repeated_option_segment = 0`, or the remaining flags are explicitly reviewed and accepted with a reason.
+- If whole-site `content:trust` is noisy, use file-scoped trust for the active paper and track unrelated risky files as backlog.
+
 ## Medical Accuracy Rules
 
 - Use current standard medical knowledge for stable concepts.
@@ -285,7 +324,9 @@ update JSON 只能包含 source_file、dataset_id、range、updates，以及每�
 1. A-D 是否都有自己的具體醫學理由？
 2. 是否刪掉「回到題幹線索」「不是最佳答案」「原始解析重點指出」等模板句？
 3. 【核心考點】是否是可複用的考試規則，而不是科別空話？
-4. 是否只輸出了 update JSON，沒有直接改原始考卷檔？
+4. 是否沒有在三個以上選項重複同一段疾病總論或題幹摘要？
+5. 每個錯誤選項是否都明確指出該選項自己的錯點？
+6. 是否只輸出了 update JSON，沒有直接改原始考卷檔？
 
 若發現官方答案疑似錯誤，不要更改答案，請在詳解中以「補充提醒」指出需要人工複核，並在回報中列出題號。
 
@@ -294,7 +335,8 @@ update JSON 只能包含 source_file、dataset_id、range、updates，以及每�
 2. 疑似需人工複核題號
 3. update JSON 檔案路徑
 4. 是否已清除禁用模板句
-5. 是否通過 JSON 格式檢查
+5. 是否沒有重複選項段落
+6. 是否通過 JSON 格式檢查
 ```
 
 ## Review Subagent Prompt Template
@@ -316,6 +358,7 @@ Use this prompt for each 100-question review gate:
 7. key_point、flashcard_summary、flashcard_back 是否具體可用，且沒有殘留錯誤科別或舊模板標籤。
 8. 是否有疑似醫學內容錯誤或官方答案疑義。
 9. update JSON 是否只包含允許欄位，沒有夾帶題目、選項、答案、JSON 結構或前端修改。
+10. 若這批題解讀起來像用固定模板套出的答案，請直接列為返工，即使格式驗證會通過。
 
 請輸出：
 1. 審查範圍與題數
@@ -337,16 +380,18 @@ After updating explanations:
    - question ids and question numbers match the source.
    - updates stay inside the assigned range.
    - only allowed update fields are present.
-3. Search update files for banned filler phrases before review.
-4. Run the 100-question review gate against update files before merging when applicable.
-5. Merge only approved update files into source exam JSON.
-6. After merge, compare diffs and confirm only explanation-related fields changed.
-7. For micro-batches, confirm the merged diff only touches approved question ranges.
-8. Spot-check at least one rewritten question per 10-question range before launching the next wave.
-9. Run available project validation/build commands when reasonable.
-10. Run a file-scoped `content:trust` audit for the active paper after merge, especially before saying a paper is clean.
-11. Treat `repeated_option_segment`, `banned_template_phrase`, stale learning fields, and unclear negative-stem labels as repair items, even when `validate:explanations` passes.
-12. If local browser access to `localhost` or `127.0.0.1` is blocked, do not retry repeatedly. Use server response checks, data loading checks, tests, and build verification.
+3. Search update files for banned filler phrases and repeated option paragraphs before review.
+4. Run the 10-question anti-AI style gate before a micro-batch can be approved.
+5. Run the 100-question review gate against update files before merging when applicable.
+6. Merge only approved update files into source exam JSON.
+7. After merge, compare diffs and confirm only explanation-related fields changed.
+8. For micro-batches, confirm the merged diff only touches approved question ranges.
+9. Spot-check at least one rewritten question per 10-question range before launching the next wave.
+10. Run available project validation/build commands when reasonable.
+11. Run a file-scoped `content:trust` audit for the active paper after merge, especially before saying a paper is clean.
+12. Treat `repeated_option_segment`, `banned_template_phrase`, stale learning fields, and unclear negative-stem labels as repair items, even when `validate:explanations` passes.
+13. Do not call an active paper clean unless file-scoped `content:trust` has zero risky findings, or the remaining findings are explicitly listed and accepted as false positives.
+14. If local browser access to `localhost` or `127.0.0.1` is blocked, do not retry repeatedly. Use server response checks, data loading checks, tests, and build verification.
 
 Suggested checks when relevant:
 
@@ -368,6 +413,7 @@ Final response to the user must include:
 - Whether the micro-batch workflow was used, including batch size and max parallel workers.
 - How many 10-question update JSON files were produced and merged.
 - How many 100-question review gates were run and whether any repair queue remains.
+- Whether the 10-question anti-AI style gates passed, especially banned phrase and repeated option checks.
 - Any suspected answer/content issues requiring manual review.
 - What validation was run and whether it passed.
 - Confirmation that no website structure was changed.
