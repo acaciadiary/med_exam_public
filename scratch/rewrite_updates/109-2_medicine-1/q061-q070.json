@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-1.json",
+  "dataset_id": "109-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題探討急性高山生理適應。登上高海拔環境時，因大氣壓下降，吸入氧分壓降低，導致動脈血氧分壓（PaO2）下降。低血氧會刺激頸動脈體與主動脈體等周邊化學受器，引發反射性過度換氣，使肺泡通氣量增加。由於過度換氣會排出大量二氧化碳，導致動脈二氧化碳分壓（PaCO2）下降，並引發呼吸性鹼中毒。因此，PaCO2 增加是最不可能發生的變化。此外，待了七天後，長期低氧會刺激腎臟分泌紅血球生成素（EPO），促進骨髓造血，使血比容（Hct）增加。\n\n【選項詳解】\n- A. 錯誤。高海拔適應過程中，由於持續低氧，會刺激腎臟釋放紅血球生成素（erythropoietin, EPO），進而促進骨髓製造紅血球。在山上待了七天後，血比容（hematocrit）會出現代償性增加，此生理變化會發生。\n- B. 錯誤。由於高海拔地區的大氣壓力降低，吸入空氣的氧分壓隨之下降，因此肺泡及動脈氧分壓（PaO2）必然會顯著下降，此生理變化會發生。\n- C. 正確。低氧刺激周邊化學受器會引發過度換氣（hyperventilation），導致體內二氧化碳排出量大於產生量，因此動脈二氧化碳分壓（PaCO2）會下降而發生呼吸性鹼中毒，最不可能發生 PaCO2 增加的現象。\n- D. 錯誤. 低氧血症（PaO2 下降）會刺激周邊化學受器，反射性興奮延腦呼吸中樞，使呼吸加深加快，肺泡通氣量（alveolar ventilation）因而顯著增加，此生理變化會發生。\n\n【核心考點】\n高海拔低氧會引發周邊化學受器調控的過度換氣，導致 PaCO2 下降（呼吸性鹼中毒）與肺泡通氣量上升，且長期適應後會透過 EPO 刺激造血使血比容增加。",
+      "key_point": "高海拔低氧環境會刺激周邊化學受器引起過度換氣，使肺泡通氣量增加、PaCO2下降（呼吸性鹼中毒），且經數天適應後會刺激EPO分泌而使血比容增加。",
+      "flashcard_front": "高海拔生理適應（Hct、PaO2、PaCO2、通氣量）",
+      "flashcard_back": "PaO2下降刺激周邊化學受器 -> 肺泡通氣量增加 -> 排出CO2使PaCO2下降（呼吸性鹼中毒）；待數天後因EPO刺激使血比容（Hct）增加。",
+      "flashcard_summary": "高海拔適應 -> 肺泡通氣量↑、PaO2↓、PaCO2↓、Hct↑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題探討直立姿勢下重力對肺部各項生理參數的影響。受重力作用影響，直立時肺底的胸膜腔負壓較小，肺泡在呼氣末期未被過度拉張，因此順應性（compliance）較高，吸氣時的通氣量大於肺尖。同時，重力也使肺循環血液大量匯集於肺底，故肺底的血液灌流量亦遠大於肺尖。然而，重力對血液灌流量的影響幅度（肺底是肺尖的約 10 倍）遠大於對通氣量的影響幅度（肺底是肺尖的約 2-3 倍），導致肺通氣量與血液灌流量之比值（V/Q ratio）在肺底最低（約 0.6），而在肺尖最高（約 3.0 以上）。因此，肺底小於肺尖的數值為 V/Q 比值。\n\n【選項詳解】\n- A. 錯誤。直立時，重力造成肺底的跨肺壓（transpulmonary pressure）較小，肺泡在吸氣前未被過度充氣，使其處於順應性較佳的曲線上，吸氣時的肺通氣量（ventilation, V）在肺底大於肺尖。\n- B. 錯誤。由於重力與肺動脈壓較低的關係，血液會向下積聚，使肺底的血液灌流量（perfusion, Q）遠大於肺尖（肺底屬於 West zone 3，肺尖則接近 zone 1 或 2）。\n- C. 正確。因為重力對血液灌流量（Q）的影響大於對通氣量（V）的影響，所以在肺底 Q 的增加比例遠高於 V 的增加比例，導致通氣/灌流比值（V/Q ratio）在肺底（約 0.6）明顯小於肺尖（約 3.3）。\n- D. 錯誤。肺底的肺泡在呼氣末期體積較小，處於壓力-容積曲線中較陡峭（順應性較佳）的部分，因此肺順應性（lung compliance）在肺底大於肺尖。\n\n【核心考點】\n直立姿勢下，受重力影響，肺底的通氣量（V）、灌流量（Q）及順應性皆大於肺尖，但因 Q 隨重力增加的幅度遠大於 V，故 V/Q 比值呈現肺底小於肺尖的趨勢。",
+      "key_point": "直立位時，重力使肺底的通氣量（V）與血液灌流量（Q）皆大於肺尖，但因灌流量增加幅度大得多，故V/Q比值在肺底最低、肺尖最高。",
+      "flashcard_front": "直立位下肺尖與肺底之生理指標比較（V、Q、V/Q、順應性）",
+      "flashcard_back": "肺底的通氣量（V）、灌流量（Q）、順應性皆大於肺尖；但因Q增加幅度遠大於V，故V/Q比值為肺底（約0.6）小於肺尖（約3.3）。",
+      "flashcard_summary": "直立位肺生理 -> V、Q、順應性為肺底 > 肺尖；V/Q比值為肺底 < 肺尖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_062"
+    },
+    {
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題考點為胃腸道的遷徙性複合運動（MMC）。MMC 是在空腹（進食間期）時發生於胃和小腸的週期性電生理與收縮活動，其主要功能是將消化道內殘留的食物殘渣、脫落的上皮細胞及細菌推入大腸，扮演「胃腸道清潔工（housekeeper）」的角色。MMC 主要受到小腸釋放的胃動素（motilin）的化學調控。當進食後，食物進入十二指腸會立刻終止 MMC，並由消化期的分節收縮（segmentation）與蠕動（peristalsis）取代。\n\n【選項詳解】\n- A. 正確。胃動素（motilin）是由小腸（特別是十二指腸與空腸）的十二指腸 M 細胞分泌，是誘發與促進空腹期小腸遷徙性複合運動（MMC）最主要的激素。\n- B. 錯誤。當食物進入胃並排空至十二指腸（即進食後）時，食物中脂肪及蛋白質等成分會引發體液與神經反射，導致空腹期的 MMC 反射性「暫時停止」，轉換成消化期的收縮模式，而非排空後才停止。\n- C. 錯誤。分節收縮（segmentation）是進食消化期間的主要運動形式，負責混合食糜；當大部分食物被消化吸收、胃腸道進入空腹期（消化後期）時，MMC 會「取代」分節收縮，開始進行清潔。\n- D. 錯誤。MMC 發生於空腹期，其功能是清除胃與小腸內殘留的殘渣和細菌，避免細菌過度滋生（清潔工功能）；混合及消化食糜則是消化期「分節收縮（segmentation）」的主要功能。\n\n【核心考點】\n空腹期小腸遷徙性複合運動（MMC）的調控與生理功能。",
+      "key_point": "小腸遷徙性複合運動（MMC）發生於空腹期，主要由胃動素（motilin）促進，扮演胃腸道清潔工角色；進食後則暫停並轉為分節收縮與蠕動。",
+      "flashcard_front": "遷徙性複合運動（MMC）的調控、生理功能與進食影響",
+      "flashcard_back": "MMC由胃動素（motilin）促進，於空腹期發生，用以清除殘渣與防細菌滋生（清潔工）；進食後（食物入十二指腸）即暫停，轉為分節收縮。",
+      "flashcard_summary": "MMC -> 發生於空腹期、motilin促進、清潔殘渣；進食後暫停",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_063"
+    },
+    {
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題考點為胰液分泌的激素調節。胰液包含富含消化酵素的成分（由胰臟腺泡細胞分泌）與富含碳酸氫根的鹼性液體（由胰導管細胞分泌）。膽囊收縮素（CCK）由小腸的 I 細胞分泌，主要刺激物為食糜中的脂肪與蛋白質分解產物，它能直接作用於胰臟腺泡細胞，促進富含酵素的胰液分泌。而胰泌素（secretin）則主要作用於胰導管細胞，刺激其分泌大量水分與碳酸氫根以中和胃酸。\n\n【選項詳解】\n- A. 正確。膽囊收縮素（CCK）由小腸 I 細胞分泌，是直接作用於胰臟腺泡細胞（pancreatic acinar cells）以刺激大量胰臟消化酵素分泌的最主要激素。\n- B. 錯誤。胃泌素（gastrin）由胃 G 細胞分泌，主要作用是刺激胃壁細胞分泌胃酸，雖然結構與 CCK 相似且可弱效結合 CCK 受器，但並非刺激胰酵素分泌的最主要激素。\n- C. 錯誤。胰泌素（secretin）由小腸 S 細胞分泌，主要由酸性食糜刺激釋放，主要作用於胰導管細胞（duct cells），促使其分泌富含碳酸氫鈉（NaHCO3）與水分的鹼性液體，對酵素分泌的直接刺激作用很小。\n- D. 錯誤。體抑素（somatostatin）是由胃腸道及胰臟 D 細胞分泌的抑制性激素，會抑制多種胃腸道激素的釋放及胰臟的外分泌功能，而非刺激分泌。\n\n【核心考點】\n胰臟外分泌調節中，CCK 主要作用於腺泡細胞刺激消化酵素分泌，而 secretin 主要作用於導管細胞刺激碳酸氫根與水分的分泌。",
+      "key_point": "膽囊收縮素（CCK）主要刺激胰臟腺泡細胞分泌富含消化酵素的胰液；胰泌素（secretin）則刺激胰導管細胞分泌富含碳酸氫根的鹼性液。",
+      "flashcard_front": "胰臟外分泌調控（CCK vs. 胰泌素）",
+      "flashcard_back": "膽囊收縮素（CCK）刺激腺泡細胞分泌「消化酵素」；胰泌素（secretin）刺激導管細胞分泌「碳酸氫根與水（鹼性液）」。",
+      "flashcard_summary": "CCK -> 腺泡分泌酵素；Secretin -> 導管分泌碳酸氫根",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_064"
+    },
+    {
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題探討不同腎小管管段對水分的通透性。在正常情況下，亨利氏環的細下降支（thin descending limb）管壁上高度表達水通道蛋白-1（Aquaporin-1, AQP1），使其對水分具有極高且不依賴激素調節的基礎通透性，但對 NaCl 等溶質幾乎不通透，這是建立髓質高滲透壓梯度的重要構造。相對地，細上升支（thin ascending limb）與粗上升支（thick ascending limb）對水分完全不通透。集尿管髓質部的水分通透性則取決於抗利尿激素（ADH）的存在與否，其基礎通透性（在無 ADH 時）極低。\n\n【選項詳解】\n- A. 正確。亨利氏彎管的細下降支（thin descending limb）管壁細胞膜上具有高密度的 Aquaporin-1（AQP1）水通道，對水分通透性極大，但對溶質通透性極低，使水分能因間質高滲透壓而被動重吸收。\n- B. 錯誤。亨利氏彎管的細上升支（thin ascending limb）對水分「完全不通透」，但對鈉、氯離子具有被動通透性，是稀釋尿液的起點。\n- C. 錯誤。亨利氏彎管的粗上升支（thick ascending limb）同樣對水分「完全不通透」，且具有 NKCC2 轉運體進行溶質的主動重吸收，又被稱為稀釋段（diluting segment）。\n- D. 錯誤。集尿管的髓質部（inner medullary portion）對水分的通透性是「可調控的（regulated）」，高度依賴抗利尿激素（ADH）刺激 Aquaporin-2（AQP2）嵌入頂端膜。在缺乏 ADH 的情況下，其對水的通透性很低，因此整體而言，細下降支的基礎水分通透性最大。\n\n【核心考點】\n腎小管各段的水分通透性差異：細下降支具高基礎通透性（AQP1）；上升支（細/粗）對水皆不通透；集尿管通透性則受 ADH 調節（AQP2）。",
+      "key_point": "亨利氏環細下降支對水分具極高之基礎通透性（AQP-1），而細上升支與粗上升支對水分完全不通透，集尿管之水分通透性則由ADH調節。",
+      "flashcard_front": "腎小管各段水分通透性（細下降支、細上升支、粗上升支、集尿管）",
+      "flashcard_back": "細下降支：通透性極高（AQP1，不依賴ADH）；細上升支與粗上升支：完全不通透；集尿管：可調控（依賴ADH調節AQP2）。",
+      "flashcard_summary": "腎小管水通透性 -> 細下降支最大；上升支不透水；集尿管受ADH控制",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_065"
+    },
+    {
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題考點為高鉀攝取的生理調節。當每日鉀離子攝取量倍增時，血漿鉀離子濃度的微幅增加會直接刺激腎上腺皮質球狀帶細胞分泌醛固酮（aldosterone）。醛固酮作用於腎臟皮質集尿管的主細胞（principal cells），促進基底側膜 Na+/K+-ATPase 的活性及頂端膜 K+ 通道（ROMK）的表達，從而大幅增加鉀離子的分泌與排出。經過三週的代償適應，鉀排泄率與攝取量達到新平衡，血鉀濃度會維持在正常範圍內，不會持續大幅上升。\n\n【選項詳解】\n- A. 錯誤。在鉀攝取量增加的初期，血鉀會短暫微幅上升，但經過三週的代償調節（透過醛固酮增加腎臟排鉀），身體已建立新的平衡，此時血鉀濃度會維持在正常範圍內，不會出現大幅度上升（>1 mmol/L）的持續性高血鉀。\n- B. 錯誤。醛固酮的作用是促進「保鈉排鉀」。當醛固酮增加時，腎臟重吸收鈉離子的能力增加，因此鈉離子的排出速率（sodium excretion rate）不會大幅度上升，甚至可能稍微下降或維持平衡。\n- C. 正確。血鉀濃度的增加是刺激醛固酮分泌最強烈的生理因素之一。為了排除多餘的鉀離子，血漿中的醛固酮（aldosterone）濃度會持續上升，以維持高水平的排鉀效能。\n- D. 錯誤。腎臟對鉀離子排出的「調節」主要發生在遠端小管後段以及集尿管（特別是主細胞），近端腎小管主要負責重吸收大部分濾過的鉀（約 67%），並不負責因高鉀攝取而產生的排鉀調節。\n\n【核心考點】\n高鉀攝取會刺激腎上腺皮質分泌醛固酮，醛固酮作用於遠端及集尿管主細胞增加鉀排出，使血鉀在長期適應後維持恆定。",
+      "key_point": "鉀離子攝取量增加會直接刺激醛固酮（aldosterone）分泌，藉此加強遠曲小管與集尿管主細胞的排鉀功能，維持血鉀恆定。",
+      "flashcard_front": "長期高鉀攝取對醛固酮與血鉀之調節影響",
+      "flashcard_back": "高血鉀刺激腎上腺皮質釋放醛固酮，醛固酮作用於集尿管主細胞促進K+排出；三週後血鉀已代償平衡，不會大幅上升，但醛固酮維持高值。",
+      "flashcard_summary": "高鉀攝取 -> 醛固酮↑、集尿管排鉀↑、血鉀維持恆定",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_066"
+    },
+    {
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題考點為下視丘對腦下垂體前葉激素分泌的調控模式。腦下垂體前葉的促激素（如 FSH、LH、TSH 及 GH、ACTH）分泌均需要下視丘釋放的促激素釋放因子（如 GnRH、TRH 等）進行「正向刺激」。一旦將垂體前葉移植到遠處（如腎臟包膜），使其脫離與下視丘的垂體門脈系統連接，這些促激素會因為失去下視丘的正向刺激而分泌量暴跌或降至極低，與切除垂體者類似，故其相較於對照組的有效分泌可視為幾乎不變或極低（-）。相反地，下視丘對泌乳素（PRL）的分泌是以「持續性抑制」為主（主要透過多巴胺 dopamine 作用於 D2 受器）。因此，當垂體前葉移植後脫離下視丘的血管支配，多巴胺的抑制作用消失（去抑制，disinhibition），移植的垂體前葉會不受控制地大量分泌 PRL（↑）。\n\n【選項詳解】\n- A. 錯誤。FSH、LH 及 TSH 的分泌均需要下視丘釋放激素（GnRH、TRH）的「正向刺激」。移植至腎包膜後失去此刺激，其分泌量會顯著「下降」（在此以 - 表示幾乎不變或無功能性分泌），不可能明顯增加。\n- B. 錯誤。下視丘對泌乳素（PRL）主要起強烈的「抑制」作用。移植後失去下視丘多巴胺的抑制，PRL 分泌會大幅增加（↑），而非幾乎不變（-）。\n- C. 錯誤。FSH、LH 會因為失去下視丘 GnRH 的正向刺激而分泌下降，而 PRL 則會因為去抑制作用而分泌上升，選項的變化方向與生理學事實完全相反。\n- D. 正確。移植的垂體前葉脫離門脈系統後，因失去下視丘正向釋放激素（TRH, GnRH）的刺激，TSH、FSH、LH 分泌量極低（-）；但因脫離了下視丘多巴胺的強烈 Tonic 抑制作用（去抑制），PRL 分泌會顯著增加（↑）。\n\n【核心考點】\n下視丘對垂體前葉多數促激素（FSH/LH/TSH）為正向刺激調節，對 PRL 則為負向抑制（多巴胺）調節；中斷下視丘-垂體聯繫會導致 FSH/LH/TSH 缺乏而 PRL 暴增。",
+      "key_point": "下視丘對垂體前葉多數促激素（FSH/LH/TSH）起正向促進作用，但對泌乳素（PRL）起 Tonic 抑制作用（多巴胺）；中斷兩者聯繫會導致促激素分泌低下而PRL暴增。",
+      "flashcard_front": "腦下垂體前葉移植（脫離下視丘門脈系統）對各激素分泌的影響",
+      "flashcard_back": "失去下視丘刺激 -> FSH、LH、TSH 分泌下降至極低（-）；失去下視丘多巴胺抑制（去抑制） -> PRL 分泌顯著增加（↑）。",
+      "flashcard_summary": "垂體移植 -> 失去下視丘控制 -> FSH/LH/TSH↓(-)、PRL↑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_067"
+    },
+    {
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題考點為促激素（tropic hormone）的定義。促激素（tropic hormone）是指其生理作用的靶細胞/靶器官是「另一個內分泌腺」，其作用是刺激該內分泌腺的發育、生長以及促使其分泌相應的靶激素。甲狀腺刺激素（TSH）由腦下垂體前葉分泌，其唯一的生理標的是甲狀腺（另一個內分泌腺），能促使甲狀腺分泌甲狀腺素（T3/T4），是極為典型的促激素。相對地，直接作用於非內分泌的外周靶組織以產生最終生理效應的激素稱為非促激素（non-tropic hormone）。\n\n【選項詳解】\n- A. 錯誤。甲狀腺素（thyroxine, T4）是由甲狀腺分泌的激素，其生理作用是直接作用於全身絕大多數的體細胞，促進新陳代謝與生長發育，其靶細胞並非其他內分泌腺，因此屬於非促激素（non-tropic hormone）。\n- B. 錯誤。胰島素樣生長因子-1（IGF-1）主要由肝臟在生長激素（GH）刺激下分泌，直接作用於骨骼、肌肉等外周組織以促進生長，屬於非促激素。\n- C. 錯誤。前列腺素 E2（prostaglandin E2）是一種局部作用的類花生酸類物質（eicosanoids），主要作用於鄰近的平滑肌、免疫細胞等外周靶細胞，不屬於促激素。\n- D. 正確。甲狀腺刺激素（TSH）是由腦下垂體前葉分泌，其生理靶器官為甲狀腺，能刺激甲狀腺濾泡細胞的增殖以及甲狀腺激素（T3/T4）的合成與釋放，完全符合促激素（tropic hormone）的定義。\n\n【核心考點】\n促激素（Tropic hormone）的定義是特異性作用於「其他內分泌腺」以調節其分泌與生長，TSH、ACTH、LH、FSH 均為典型範例。",
+      "key_point": "促激素（tropic hormone）以「其他內分泌腺」為生理靶器官，刺激其分泌與發育，如TSH作用於甲狀腺；甲狀腺素與IGF-1則直接作用於外周組織。",
+      "flashcard_front": "促激素（tropic hormone）的定義與代表性激素",
+      "flashcard_back": "促激素是指作用於其他內分泌腺的激素，如腦下垂體分泌的 TSH、ACTH、LH、FSH 等；而 thyroxine、IGF-1 直接作用於外周組織，屬非促激素。",
+      "flashcard_summary": "Tropic hormone -> 作用於其他內分泌腺（如TSH）；Non-tropic -> 作用於外周組織",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_068"
+    },
+    {
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題考點為甲狀腺素在血液循環中的運送方式。甲狀腺素（四碘甲狀腺原氨酸, Tetraiodothyronine / Thyroxine / T4）具有高度的親脂性，在血漿中極難溶解，因此超過 99.9% 的 T4 必須與血漿蛋白結合進行運輸。在血液中，甲狀腺素結合球蛋白（TBG）是親和力最高、最主要的特異性載體蛋白，結合並運輸了約 70% 的循環 T4。其餘部分則由 transthyretin（舊稱甲狀腺素滋養前蛋白 thyroxine-binding prealbumin, TBPA，約結合 15%）及白蛋白（albumin，約結合 15%）負責運送。\n\n【選項詳解】\n- A. 錯誤。白蛋白（albumin）雖然在血漿中含量最高，且能結合多種疏水性物質（包括 T4），但其對 T4 的親和力遠低於 TBG，在體內僅承載約 15% 的 T4 運輸。\n- B. 錯誤。甲狀腺素轉運蛋白（transthyretin, TTR）能結合並運輸 T4（約佔 15%），但在正常血液循環中，其重要性與所占的結合比例仍遠低於 TBG。\n- C. 正確。甲狀腺素結合球蛋白（TBG）是由肝臟合成的醣蛋白，對甲狀腺素具有極高之特異性與親和力，承載了血液中高達 70% 的 T4，是體內最主要的 T4 運輸蛋白。\n- D. 錯誤。免疫球蛋白（immunoglobulin）主要負責體液免疫反應，特異性結合外來抗原，並不具備結合及運輸甲狀腺素的生理功能。\n\n【核心考點】\n甲狀腺素（T4）在血漿中主要與 TBG 結合運輸（占 70%），部分與 transthyretin 及 albumin 結合，僅有小於 0.1% 為游離態（free T4）。",
+      "key_point": "甲狀腺素（T4）在血漿中主要結合特異性高的甲狀腺素結合球蛋白（TBG，佔70%）進行運輸，僅極微量以游離型態存在。",
+      "flashcard_front": "甲狀腺素（T4）在血液循環中的運送蛋白比例與特點",
+      "flashcard_back": "T4高度親脂，>99.9%與血漿蛋白結合。其中甲狀腺素結合球蛋白（TBG）親和力最高且最主導（運送約70%）；transthyretin與albumin各佔約15%。",
+      "flashcard_summary": "T4運送 -> TBG（70%） > transthyretin（15%） = albumin（15%）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:44:17+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_069"
+    },
+    {
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題考查胚胎時期男性性器官發育與性別分化的調控機制。男性胚胎性別分化由 Y 染色體上的 SRY 基因啟動，促使性腺發育為睪丸。發育中的睪丸隨後分泌雄性素（刺激中腎管分化為副睪、輸精管等）及 AMH/MIS（抑制女性穆勒氏管發育）。濾泡促素（FSH）在胚胎期的器官形成過程中不發揮作用，主要在青春期後調控精子生成，故選 A。\n\n【選項詳解】\n- A. 正確答案（最不相關）。濾泡促素（FSH）雖然由腦下垂體前葉分泌，但在胚胎早期的性器官形成與性別分化階段並不扮演調控角色。FSH 的主要生理功能是青春期後刺激睪丸 Sertoli 細胞發育，促進精子生成。\n- B. 染色體 Y 上的 SRY 基因（性別決定區）是決定遺傳性別的關鍵因素。SRY 蛋白能誘導原始雙能性腺向睪丸方向發育，如果缺乏 Y 染色體，原始性腺則預設發育為卵巢。\n- C. 雄性素（androgen，如睪固酮）由胚胎睪丸的 Leydig 細胞分泌，負責刺激中腎管（Wolffian duct）發育為副睪、輸精管及精囊；其代謝物雙氫睪固酮（DHT）則負責引導外生殖器的男性化發育。\n- D. 穆勒氏管抑制物質（MIS，又稱抗穆勒氏管激素 AMH）由胚胎睪丸的 Sertoli 細胞分泌，主要生理功能是誘導女性生殖管的前驅結構——穆勒氏管（Müllerian duct）主動凋亡與退化，防止男性胚胎發育出子宮與輸卵管。\n\n【核心考點】\n男性胚胎性別分化的三階段調控：SRY 基因決定性腺方向、AMH/MIS 促使女性管道退化、雄性素（Testosterone / DHT）促進男性內部管道與外生殖器發育。",
+      "key_point": "男性胚胎器官分化由Y染色體（SRY基因）、雄性素與抗穆勒氏管激素（MIS/AMH）調控，FSH則在青春期後才起作用。",
+      "flashcard_front": "男性胚胎性別分化與器官形成之調控因子（Y染色體、androgen、MIS/AMH、FSH）",
+      "flashcard_back": "濾泡促素（FSH）。FSH 在胚胎期器官分化中無關，其主要功能是出生後及青春期刺激睪丸 Sertoli 細胞以促進精子發育。",
+      "flashcard_summary": "男性性器官分化調控 -> 睪丸分化：Y染色體（SRY）；女性管道退化：MIS/AMH；男性管道與外生殖器發育：雄性素；無關FSH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:47:10+08:00",
+      "manual_review_notes": [],
+      "question_id": "109-2_medicine-1_070"
+    }
+  ]
+}

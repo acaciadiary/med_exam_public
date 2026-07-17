@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-1.json",
+  "dataset_id": "109-2_medicine-1",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-1_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題問淋巴系統的錯誤敘述。淋巴微管（lymphatic capillary）起自組織間隙的盲管，結構高度特化以利於大分子和組織液回流。其主要特徵為「基底膜極不完整或缺失」，且管腔內部「不具有瓣膜」（瓣膜是收集淋巴管才具備的構造）。因此 D 選項敘述錯誤，為本題正答。\n\n【選項詳解】\n- A. 正確。淋巴管起點為盲管狀的淋巴微管（blind-ended lymphatic capillary），不與其他微血管直接相通，而是游離在組織間隙中以收集組織液。\n- B. 正確。淋巴微管的內皮細胞邊緣呈疊瓦狀覆蓋且無周細胞，加上基底膜極不完整，這使得其通透性顯著大於一般連續性或有孔微血管，能允許蛋白質等大分子通過。\n- C. 正確。淋巴微管結構極為簡單，管壁主要僅由一層單層扁平內皮細胞（endothelial cell）所構成。\n- D. 錯誤。淋巴微管並不具有完整的基底膜（其基底膜多為缺失或不連續），且其管腔內部亦無瓣膜；瓣膜主要存在於管徑較粗的收集淋巴管（collecting lymphatic vessels）中。\n\n【核心考點】\n淋巴微管（Lymphatic Capillary）的組織學微細結構（盲管起始、無完整基底膜、無管內瓣膜）與高通透性特徵。",
+      "key_point": "淋巴微管（lymphatic capillary）呈盲管起始，管壁無完整基底膜且管腔內無瓣膜，這與具有完整基底膜的一般微血管及具有管內瓣膜的收集淋巴管不同。",
+      "flashcard_front": "淋巴微管（lymphatic capillary）與一般微血管（blood capillary）及收集淋巴管在基底膜與瓣膜上的結構差異為何？",
+      "flashcard_back": "淋巴微管無完整基底膜（不連續或缺失）且無管內瓣膜，通透性大於微血管；瓣膜主要存在於較粗的收集淋巴管中。",
+      "flashcard_summary": "淋巴微管結構 -> 盲管起始、無完整基底膜、無瓣膜，通透性極高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題考胃幽門與十二指腸交接處的組織學特徵。此處是消化道的重要轉折點，在十二指腸側，黏膜下層含有豐富的十二指腸腺（Brunner's gland，布魯納氏腺），其排泄管需穿過黏膜肌層（muscularis mucosae）開口於腸腺，導致此處的黏膜肌層呈現不連續的狀態。因此 C 選項正確。\n\n【選項詳解】\n- A. 錯誤。表面黏膜細胞（surface mucous cell）是胃黏膜上皮的特點，主要負責分泌不溶性黏液屏障；十二指腸的上皮主要由吸收細胞（單層柱狀細胞）與杯狀細胞構成。\n- B. 錯誤。布魯納氏腺（Brunner's gland，又稱十二指腸腺）是十二指腸黏膜下層的特徵性外分泌腺體，負責分泌鹼性黏液以中和胃酸，胃的壁內不含此腺體。\n- C. 正確。在交接處的十二指腸側，黏膜下層內布魯納氏腺的排泄管需要穿過黏膜肌層以開口於小腸腺窩，這種穿插結構導致其黏膜肌層呈現不連續的分散狀態。\n- D. 錯誤。幽門括約肌是由胃的肌外層（muscularis externa）之「環形平滑肌（circular muscle）」顯著加厚增生而成，並非縱走平滑肌（longitudinal muscle）。\n\n【核心考點】\n胃幽門與十二指腸交接處的組織結構微細變化（上皮轉換、幽門括約肌的肌肉層構成、以及布魯納氏腺導管穿過黏膜肌層造成的黏膜肌層不連續性）。",
+      "key_point": "胃幽門與十二指腸交接處，十二指腸腺（Brunner's glands）的導管穿過黏膜肌層導致黏膜肌層不連續；幽門括約肌由環形平滑肌加厚形成。",
+      "flashcard_front": "胃與十二指腸交接處的組織學特徵（包含黏膜肌層連續性、腺體分佈與括約肌肌肉方向）為何？",
+      "flashcard_back": "十二指腸黏膜肌層因 Brunner's gland 導管穿過呈不連續；Brunner's gland 僅在十二指腸黏膜下層；幽門括約肌由環形肌（非縱走肌）加厚形成。",
+      "flashcard_summary": "幽門交接處組織學 -> 十二指腸黏膜肌層不連續（Brunner's 導管穿過）；幽門括約肌為加厚的環形肌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題考消化道管壁神經系統的定位。位於肌外層（muscularis externa）的內環肌與外縱肌之間的神經叢為歐巴氏神經叢（Auerbach's plexus，又稱肌間神經叢），其主要生理功能是調控平滑肌的協調收縮，進而調節腸胃道的蠕動。因此 C 選項為正確答案。\n\n【選項詳解】\n- A. 錯誤。梅斯納氏小體（Meissner's corpuscle）是位於皮膚真皮乳頭層內的觸覺感受器，負責偵測輕微觸覺與低頻震動，與消化系統無關。\n- B. 錯誤。梅斯納氏神經叢（Meissner's plexus，即黏膜下神經叢）位於消化管壁的「黏膜下層」，主要負責控制腺體分泌與局部血流，而非肌外層的蠕動調節。\n- C. 正確。歐巴氏神經叢（Auerbach's plexus，即肌間神經叢）位於肌外層的內環肌與外縱肌之間，主要調控消化道平滑肌的協調收縮，是調節腸道蠕動的中樞。\n- D. 錯誤。蒲金氏纖維（Purkinje fiber）是心臟心室內負責快速傳導電生理訊號的特化心肌細胞，與消化系統及腸蠕動無涉。\n\n【核心考點】\n腸神經系統（ENS）中歐巴氏（肌間）神經叢與梅斯納氏（黏膜下）神經叢的解剖層次（肌外層 vs 黏膜下層）與功能分工（蠕動 vs 分泌）。",
+      "key_point": "歐巴氏神經叢（Auerbach's plexus）位於肌外層的環形肌與縱走肌之間，控制腸道蠕動；梅斯納氏神經叢（Meissner's plexus）位於黏膜下層，控制分泌與局部血流。",
+      "flashcard_front": "比較消化道 Auerbach's plexus 與 Meissner's plexus 的解剖位置與生理功能。",
+      "flashcard_back": "Auerbach's 位於肌外層（內環外縱之間），調節腸道蠕動；Meissner's 位於黏膜下層，調節腺體分泌與局部血流。",
+      "flashcard_summary": "腸神經叢分佈 -> Auerbach's 於肌外層調控蠕動；Meissner's 於黏膜下層調控分泌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題考腎小管構造在腎皮質與腎髓質的解剖空間分佈。腎單位中，只有亨利氏環的細段（thin limb of loop of Henle）以及部分直粗段與集尿管位於腎髓質（renal medulla）中；而腎小體、近曲小管、遠曲小管與緻密斑等皆定位於腎皮質（renal cortex）。故 C 選項正確。\n\n【選項詳解】\n- A. 錯誤。遠曲小管（distal convoluted tubule）侷限於腎皮質中，環繞在腎小體周圍，負責進行電解質與水分的最終重吸收及排泄調節。\n- B. 錯誤. 緻密斑（macula densa）是遠曲小管起始段貼近腎小球血管極處的特化上皮細胞，具有化學感受器功能，位於腎皮質內。\n- C. 正確。亨利氏環的細段（thin limb of loop of Henle）位於腎髓質內，其管壁由單層扁平上皮組成，負責利用髓質高滲透壓進行水分與鈉離子的被動轉運。\n- D. 錯誤。腎小體（renal corpuscle）由腎小球和血管球囊組成，是血液過濾的起點，全部均位於腎皮質中。\n\n【核心考點】\n腎臟皮質（Cortex）與髓質（Medulla）在組織解剖學上的構造分佈差異（皮質含腎小體與曲小管；髓質含亨利氏環細段與集尿管）。",
+      "key_point": "腎小體、近/遠曲小管及緻密斑皆位於腎皮質；腎髓質內主要分佈有亨利氏環細段與集尿管。",
+      "flashcard_front": "腎臟皮質與髓質內分別有哪些腎單位（nephron）構造？",
+      "flashcard_back": "皮質：腎小體、近曲小管、遠曲小管、緻密斑；髓質：亨利氏環細段、集尿管。",
+      "flashcard_summary": "腎臟解剖分佈 -> 皮質含腎小體與曲小管；髓質含亨利氏環細段與集尿管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題考陰莖組織學與微循環特點。陰莖海綿體（corpora cavernosa）是由多個不規則的血管竇（血管腔）組成，其小樑壁中含有豐富的平滑肌束，平滑肌舒張使血管竇充血是勃起的關鍵生理機制，故 B 選項正確。\n\n【選項詳解】\n- A. 錯誤。包覆陰莖海綿體的白膜（tunica albuginea）是一層堅韌的「緻密結締組織（dense connective tissue）」，並非疏鬆結締組織，以在勃起時限制海綿體擴張並維持足夠的硬度。\n- B. 正確。陰莖海綿體內部為不規則的血管竇，竇壁小樑中含有豐富的平滑肌束；平滑肌在副交感神經刺激下舒張，是引發大量動脈血流入與勃起的關鍵機制。\n- C. 錯誤。陰莖海綿體內有特化的螺旋動脈（helicine arteries），勃起時血液可直接自螺旋動脈注入海綿體血管竇，繞過傳統的微血管網，此為特化的血管短路。\n- D. 錯誤。陰莖的皮膚薄，且陰莖體及龜頭（glans penis）的皮下結締組織中均「不含有脂肪組織」，這有助於維持皮膚滑動性與勃起時的硬度。\n\n【核心考點】\n陰莖海綿體的組織結構特徵（白膜屬緻密結締組織、海綿體小樑含平滑肌束控制充血、微循環具備螺旋動脈直通血管竇的短路、以及皮下無脂肪的特徵）。",
+      "key_point": "陰莖白膜由緻密結締組織構成；海綿體血管竇旁有平滑肌控制充血；血流可經螺旋動脈直通血管竇（無須經微血管）；陰莖皮下不含脂肪。",
+      "flashcard_front": "說明陰莖的白膜屬何種結締組織？海綿體微循環與皮下組織有何結構特點？",
+      "flashcard_back": "白膜為緻密結締組織；海綿體平滑肌控制血管竇充血；螺旋動脈可直接灌流血管竇（繞過微血管）；皮下組織無脂肪。",
+      "flashcard_summary": "陰莖組織學 -> 白膜為緻密結締組織；海綿體小樑含平滑肌；螺旋動脈直通血管竇；皮下無脂肪。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題考睪丸支持細胞（Sertoli cell）的生理特徵與結構。Sertoli 細胞在青春期後失去分裂能力，主要藉由基底部的「緊密接合（tight junctions）」形成相鄰支持細胞間的接合複合體，這構成了血睪障壁（blood-testis barrier, BTB），能防止免疫細胞攻擊發育中的單倍體精子。故 C 選項正確。\n\n【選項詳解】\n- A. 錯誤。睪丸支持細胞（Sertoli cell）在青春期之後會分化成熟，此時便完全失去有絲分裂與複製增殖的能力。\n- B. 錯誤。形成支持細胞間接合複合體（以及血睪障壁）最關鍵且核心的連接方式是「緊密接合（tight junction）」，而非黏連接合（adherens junction），如此才能形成高阻抗的防禦屏障。\n- C. 正確。相鄰支持細胞基底側之間的緊密接合構成了血睪障壁（blood-testis barrier），將精細管隔開以提供發育中精子免受免疫系統攻擊的微環境。\n- D. 錯誤。支持細胞兼具外分泌與內分泌功能：外分泌包括分泌雄烯二酮結合蛋白（ABP）；內分泌則包括分泌抑素（inhibin B）入血液，負回饋抑制腦下垂體分泌 FSH。\n\n【核心考點】\n睪丸支持細胞（Sertoli Cell）的成熟狀態（青春期後不分裂）、血睪障壁的緊密接合本質、以及外分泌與內分泌雙重調控功能。",
+      "key_point": "睪丸支持細胞（Sertoli cell）青春期後不分裂，其間的緊密接合（tight junction）構成血睪障壁（BTB），具外分泌（ABP）及內分泌（inhibin B）雙重功能。",
+      "flashcard_front": "睪丸支持細胞（Sertoli cell）在分裂能力、細胞間接合類型以及分泌功能上有何特點？",
+      "flashcard_back": "青春期後無分裂能力；藉緊密接合（tight junction）形成血睪障壁；兼具外分泌（ABP）與內分泌（inhibin B）功能。",
+      "flashcard_summary": "Sertoli細胞特徵 -> 青春期後不分裂；緊密接合構成血睪障壁；具外分泌（ABP）及內分泌（inhibin B）功能。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題考內耳平衡感受器的功能分工。半規管（semicircular canals）壺腹內的壺腹嵴（crista ampullaris）含有毛細胞，專司偵測頭部轉動時產生的角加速度（angular acceleration）。因此 C 選項為正確答案。\n\n【選項詳解】\n- A. 錯誤。柯蒂氏器（organ of Corti）位於耳蝸內，是負責將聲音機械震動轉換為聽覺神經衝動的聽覺感受器，不參與頭部平衡或加速度的偵測。\n- B. 錯誤。耳蝸管（cochlear duct，又稱中階 scala media）內充滿內淋巴液，主要是容納柯蒂氏器以進行聽覺傳導，不負責感應平衡或角加速度。\n- C. 正確。半規管（semicircular canals）內的壺腹嵴專司感應頭部旋轉時產生的角加速度，藉由管內內淋巴液對毛細胞纖毛的偏折來偵測旋轉運動。\n- D. 錯誤。橢圓囊與球囊（utricle and saccule）屬於耳石器官，內含耳石斑，主要負責感應水平與垂直方向的直線加速度（linear acceleration）以及靜態平衡，而非角加速度。\n\n【核心考點】\n內耳平衡感覺系統的生理分工（半規管負責角加速度，橢圓囊與球囊負責直線加速度與重力，耳蝸則專司聽覺）。",
+      "key_point": "半規管（semicircular canals）感應旋轉產生的角加速度；橢圓囊與球囊（utricle and saccule）感應直線加速度與重力；耳蝸負責聽覺。",
+      "flashcard_front": "內耳中負責感應「角加速度」與「直線加速度」的構造分別為何？",
+      "flashcard_back": "角加速度由半規管（semicircular canals）感應；直線加速度與重力（靜態平衡）由橢圓囊與球囊（utricle and saccule）感應。",
+      "flashcard_summary": "內耳平衡傳導 -> 半規管偵測角加速度；橢圓囊/球囊偵測直線加速度與重力。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題考大腦語言中樞的解剖定位與臨床特徵。弓狀束（arcuate fasciculus）是連接顳葉 Wernicke 區與額葉 Broca 區的聯絡纖維束，受損會導致傳導性失語症（conduction aphasia），其典型特徵為患者理解與自發表達大致流利，但「完全無法重複或覆誦（repetition）」他人語句。故 A 選項最恰當。\n\n【選項詳解】\n- A. 正確。弓狀束（arcuate fasciculus）負責傳遞 Wernicke 區與 Broca 區之間的訊息，其受損會阻斷理解與產出中樞的聯繫，導致「傳導性失語症（conduction aphasia）」，核心特徵是患者無法進行覆誦。\n- B. 錯誤。Broca 區受損會導致表達性（非流利）失語症，患者口語表達極不流利、吃力；而口語表達流利但內容雜亂無章、毫無意義則是 Wernicke 區（感覺性語言中樞）受損的典型特徵。\n- C. 錯誤。不論是左撇子或右撇子，絕大多數人（90%以上）的語言功能優勢半球都位於「左大腦皮質」，因此其 Wernicke 區通常位於左側而非右大腦皮質。\n- D. 錯誤。大腦主要語言中樞中，Broca 區位於額葉（額下回），Wernicke 區主要位於顳葉（顳上回後部），兩者均不位於頂葉（parietal lobe）。\n\n【核心考點】\n大腦語言中樞（Broca 區與 Wernicke 區）的解剖定位與臨床失語症分類（Broca/Wernicke/傳導性失語症的特徵及弓狀束的作用），以及左腦優勢半球的普遍性。",
+      "key_point": "弓狀束連結 Wernicke 區與 Broca 區，受損導致覆誦障礙的傳導性失語症；多數人語言中樞在左腦；Broca 區在額葉（控制表達），Wernicke 區在顳葉（控制理解）。",
+      "flashcard_front": "比較 Broca's aphasia、Wernicke's aphasia 與 conduction aphasia 的臨床表現與病灶定位。",
+      "flashcard_back": "Broca's（額葉）：不流利表達但理解正常；Wernicke's（顳葉）：流利但無意義、理解差；Conduction（弓狀束受損）：覆誦能力極差，但理解與自發表達大致正常。",
+      "flashcard_summary": "失語症分類 -> Broca非流利(額葉)；Wernicke流利無意義(顳葉)；傳導性無法覆誦(弓狀束)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題考味覺傳導中感受鮮味（umami taste）的媒介化學物質。鮮味主要是由左旋麩胺酸鹽（L-glutamate）刺激舌頭味蕾上的 G 蛋白偶聯受體（由 T1R1 與 T1R3 組成的異體二聚體）所產生。因此 D 選項為正確媒介物。\n\n【選項詳解】\n- A. 錯誤。葡萄糖（glucose）是引發甜味（sweet taste）的主要化學物質，主要與味蕾上的 T1R2 + T1R3 甜味受器結合傳遞訊號。\n- B. 錯誤。甘油（glycerol）在味覺刺激上呈現微甜味，並非引發鮮味的代表物質。\n- C. 錯誤。氯化鈉（NaCl）是引發鹹味（salty taste）的典型化學物質，主要藉由鈉離子流入味覺細胞膜上的鈉通道（如 ENaC）引發去極化。\n- D. 正確。麩胺酸鹽（glutamate）是引發鮮味（umami）的核心配體，它與味覺細胞表面的 T1R1 + T1R3 二聚體受器結合，刺激下游客釋放神經傳導物質以產生鮮味感。\n\n【核心考點】\n五種基本味覺（甜、鹹、酸、苦、鮮）的特異性化學刺激物配體與其受器轉導機制（GPCR 對比通道蛋白）。",
+      "key_point": "鮮味（umami）的化學配體是 glutamate，受器為 T1R1+T1R3 GPCR；甜味受器為 T1R2+T1R3；鹹味由鈉離子經通道媒介。",
+      "flashcard_front": "五種基本味覺中，鮮味、甜味與鹹味的典型化學刺激物及轉導機制分別為何？",
+      "flashcard_back": "鮮味：glutamate（T1R1+T1R3 GPCR）；甜味：glucose等（T1R2+T1R3 GPCR）；鹹味：鈉離子（ENaC 通道）。",
+      "flashcard_summary": "味覺機制 -> 鮮味: glutamate (T1R1+T1R3)；甜味: 醣類 (T1R2+T1R3)；鹹味: 鈉離子 (ENaC)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題考基底核（Basal ganglia）對運動皮質（motor cortex）的活性調節路徑。基底核主要透過直接與間接路徑調節運動：直接路徑（Direct pathway）藉由去抑制作用（disinhibition）「增強」運動皮質活性以促進運動；間接路徑（Indirect pathway）則透過興奮蒼白球內側（GPi），進而「降低（抑制）」運動皮質活性以抑制多餘動作。故 B 選項正確。\n\n【選項詳解】\n- A. 錯誤。直接路徑是增強（促進）運動皮質活性的路徑，而間接路徑是降低（抑制）運動皮質活性的路徑，選項將兩者功能說反了。\n- B. 正確。直接路徑經由抑制蒼白球內側/黑質網狀部（GPi/SNr），解除對視丘的抑制（即去抑制作用），進而增強運動皮質活性；間接路徑則經由視丘下核（STN）興奮 GPi/SNr，增強對視丘的抑制，進而降低運動皮質活性。\n- C. 錯誤。直接與間接路徑在運動調控上為一正一負的拮抗關係，並非兩者皆降低運動皮質活性。\n- D. 錯誤。直接與間接路徑在運動調控上為一正一負的拮抗關係，分別增強與降低運動皮質活性，並非兩者皆增強活性。\n\n【核心考點】\n基底核（Basal Ganglia）迴路中直接路徑與間接路徑對運動皮質（Motor Cortex）活性的拮抗調節（直接路徑促進運動、間接路徑抑制運動）。",
+      "key_point": "基底核直接路徑（Direct pathway）藉由去抑制作用增強運動皮質活性以促進運動；間接路徑（Indirect pathway）則加強對視丘的抑制，降低皮質活性以阻止多餘運動。",
+      "flashcard_front": "比較基底核（Basal ganglia）調控運動的直接路徑與間接路徑對運動皮質（motor cortex）的影響。",
+      "flashcard_back": "直接路徑：增強運動皮質活性，促進運動（Go）；間接路徑：降低運動皮質活性，抑制運動（No-go）。",
+      "flashcard_summary": "基底核運動調控 -> 直接路徑增強皮質活性（Go）；間接路徑降低皮質活性（No-go）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

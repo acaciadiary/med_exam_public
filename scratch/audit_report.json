@@ -1,94 +1,75 @@
 {
-  "total_checked": 80,
-  "passed": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40,
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50,
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70,
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    78,
-    79,
-    80
-  ],
-  "failed": {},
-  "medical_flags": [
-    [
-      16,
-      [
-        "官方更正：答B、D皆給分，原標準答案為 D。"
-      ]
+  "total_audited": 100,
+  "passed_count": 92,
+  "all_passed": false,
+  "issues": {
+    "q001-q010.json": [
+      {
+        "qid": "109-2_medicine-1_001",
+        "qnum": 1,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['spinaltract）', 'ospinaltract']"
+        ]
+      },
+      {
+        "qid": "109-2_medicine-1_008",
+        "qnum": 8,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['clymphnodes）', 'lymphnodes）主', 'ymphnodes）主要']"
+        ]
+      }
+    ],
+    "q011-q020.json": [
+      {
+        "qid": "109-2_medicine-1_018",
+        "qnum": 18,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['erebralarter', 'rebralartery', 'cerebralarte', 'ebralartery,']"
+        ]
+      }
+    ],
+    "q021-q030.json": [
+      {
+        "qid": "109-2_medicine-1_021",
+        "qnum": 21,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['artery）是外頸動脈']"
+        ]
+      },
+      {
+        "qid": "109-2_medicine-1_028",
+        "qnum": 28,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['esicalpouch）', 'vesicalpouch', 'ovesicalpouc']"
+        ]
+      }
+    ],
+    "q051-q060.json": [
+      {
+        "qid": "109-2_medicine-1_054",
+        "qnum": 54,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['ngle-unit）平滑', '（multi-unit）', '（single-unit', '單位（multi-uni', '單單位（single-u', 'single-unit）', 'ulti-unit）平滑', '單位（single-un', 'lti-unit）平滑肌', '多單位（multi-un', 'multi-unit）平', '位（multi-unit', '位（single-uni', 'ingle-unit）平', 'gle-unit）平滑肌']"
+        ]
+      }
+    ],
+    "q061-q070.json": [
+      {
+        "qid": "109-2_medicine-1_065",
+        "qnum": 65,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['cendinglimb）', 'scendinglimb']"
+        ]
+      }
+    ],
+    "q071-q080.json": [
+      {
+        "qid": "109-2_medicine-1_076",
+        "qnum": 76,
+        "issues": [
+          "Detected repeated segments across >=3 options: ['$v_0=V_{max}', 'v_0=V_{max}\\\\', '_0=V_{max}\\\\c', 'V_{max}\\\\cdot', '=V_{max}\\\\cdo', '0=V_{max}\\\\cd']"
+        ]
+      }
     ]
-  ]
+  }
 }

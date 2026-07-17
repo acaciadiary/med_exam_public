@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-1.json",
+  "dataset_id": "109-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\nKlenow 片段（Klenow fragment）是大腸桿菌 DNA 聚合酶 I（DNA polymerase I）經限制性蛋白酶（如 subtilisin）剪切後產生的 C 端大片段。它保留了 5'→3' DNA 聚合酶活性與 3'→5' 外切酶（校對）活性，但失去了 5'→3' 外切酶活性。Klenow 片段本身並不具有拓樸異構酶（topoisomerase）活性，因此 D 選項敘述錯誤，為本題標準答案。\n\n【選項詳解】\n- A. 正確。Klenow 片段保留了親代 DNA 聚合酶 I 的 5'→3' DNA 聚合酶活性，可用於體外合成 DNA，如補平雙股 DNA 的 5' 突出端。\n- B. 正確。Klenow 片段保留了 3'→5' 外切酶活性，此活性負責 DNA 複製過程中的校對（proofreading）功能，可切除錯配的核苷酸。\n- C. 正確。Klenow 片段是將大腸桿菌 DNA 聚合酶 I 以蛋白酶水解後所產生的 C 端大片段，其 N 端小片段則包含已失去的 5'→3' 外切酶活性。\n- D. 錯誤。拓樸異構酶（topoisomerase）是負責調節 DNA 超螺旋狀態的獨立酵素家族。Klenow 片段不具備切割並重接 DNA 雙股以釋放張力的拓樸異構酶活性。\n\n【核心考點】\nKlenow fragment 是大腸桿菌 DNA Pol I 的 C 端大片段，保有 5'→3' 聚合酶與 3'→5' 外切酶活性，但失去 5'→3' 外切酶活性，且不具備拓樸異構酶活性。",
+      "key_point": "Klenow fragment 包含 DNA Pol I 的 5'→3' 聚合與 3'→5' 外切活性，但不具 5'→3' 外切及拓樸異構酶活性。",
+      "flashcard_front": "Klenow fragment 的酵素活性與來源",
+      "flashcard_back": "源自大腸桿菌 DNA 聚合酶 I 的 C 端大片段，具 5'→3' 聚合酶與 3'→5' 外切酶活性，但無 5'→3' 外切酶與拓樸異構酶活性。",
+      "flashcard_summary": "Klenow fragment -> 具 5'→3' 聚合及 3'→5' 外切（校對）活性，失去 5'→3' 外切活性，無拓樸異構酶功能。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n在大腸桿菌（原核生物）的 DNA 複製叉中，DNA 合成必須依賴引子合成酶（primase，即 DnaG）合成一小段 RNA 引子，提供自由的 3'-OH 末端，以供 DNA 聚合酶 III 延伸。因此 B 選項是正確的反應描述。\n\n【選項詳解】\n- A. 錯誤。DNA 解旋酶（helicase，大腸桿菌中為 DnaB）的功能是水解 ATP 以解開雙股 DNA 的氫鍵，使其成為單股模板。它不具備內切酶（endocalypse）活性，不會切斷 DNA 的磷酸二酯鍵。\n- B. 正確。在複製叉中，不論是領先股還是落後股的岡崎片段起始，都需要引子合成酶（primase）合成一段約 10-12 個核苷酸的 RNA 引子，以提供 DNA 聚合酶延伸所必需的 3'-OH 基團。\n- C. 錯誤。DNA 拓樸異構酶 I（topoisomerase I）藉由切斷並重新黏合 DNA 單股來釋放解旋時產生的正超螺旋張力，其切斷是利用酵素活性中心的酪氨酸進行轉酯化反應，並不具備水解切除核苷酸的「外切酶（exonuclease）」活性。\n- D. 錯誤。在大腸桿菌複製叉中，負責主要 DNA 鏈延伸與合成的是 DNA 聚合酶 III（DNA polymerase III）。DNA 聚合酶 II（DNA polymerase II）主要參與 DNA 受損時的 SOS 修復，而非複製叉中的主要合成酶。\n\n【核心考點】\n大腸桿菌複製叉酵素功能：DnaB（解旋酶）解開氫鍵；DnaG（引子合成酶）合成 RNA 引子提供 3'-OH；Pol III 進行主要 DNA 合成；拓樸異構酶釋放超螺旋張力（非外切酶活性）。",
+      "key_point": "大腸桿菌複製叉中，主要由引子合成酶（primase）合成 RNA 引子供 Pol III 延伸，解旋酶不具內切酶活性，拓樸異構酶不具外切酶活性。",
+      "flashcard_front": "大腸桿菌複製叉中 DNA 合成的關鍵酵素與功能",
+      "flashcard_back": "引子合成酶（primase）負責合成提供 3'-OH 的 RNA 引子；解旋酶（DnaB）解雙股；DNA 聚合酶 III 負責主要合成；拓樸異構酶釋放張力。",
+      "flashcard_summary": "大腸桿菌複製叉酵素 -> primase 合成 RNA 引子；Pol III 負責主要 DNA 合成；helicase 解雙股無內切活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n胺醯-tRNA 合成酶（aminoacyl-tRNA synthetase, aaRS）負責催化轉譯的「充電（charging）」步驟，精確配對胺基酸與其相對應的 tRNA。反應過程中，它先利用 ATP 活化胺基酸生成 aminoacyl-AMP 中體，接著將胺基酸的羧基與 tRNA 3' 端腺苷酸的核糖羥基縮合，形成高能的酯鍵，此反應即為酯化作用，故 A 選項正確。\n\n【選項詳解】\n- A. 正確。胺醯-tRNA 合成酶可將活化的胺基酸直接接在對應 tRNA 3' 端 CCA 的核糖羥基（2'-OH 或 3'-OH）上，此共價鍵為酯鍵（ester bond），因此該化學反應屬於酯化作用（esterification）。\n- B. 錯誤。胺醯-tRNA 合成酶本身即具有完整的催化活性，能直接結合胺基酸、ATP 和 tRNA 並催化酯化反應，不需要另外與特定蛋白質結合來「間接」促進此過程。\n- C. 錯誤。胺醯-tRNA 合成酶主要游離於細胞質中，並不屬於核糖體（ribosome）結構的一部分。在核糖體中負責催化勝肽鍵（peptide bond）形成的是肽基轉移酶（peptidyl transferase）。\n- D. 錯誤。胺基酸的活化步驟（即形成活化中間體 aminoacyl-AMP）需要消耗 ATP（腺苷三磷酸）並水解為 AMP 與焦磷酸（PPi），而非使用 GTP（鳥苷三磷酸）。\n\n【核心考點】\n胺醯-tRNA 合成酶直接利用 ATP 催化特定胺基酸與對應 tRNA 3' 端的羥基進行酯化作用，形成高能的胺醯-tRNA，過程不需 GTP 活化，亦非在核糖體內進行。",
+      "key_point": "胺醯-tRNA 合成酶消耗 ATP，直接催化胺基酸羧基與對應 tRNA 3' 端羥基進行酯化反應，生成高能酯鍵。",
+      "flashcard_front": "胺醯-tRNA 合成酶（aminoacyl-tRNA synthetase）的功能與反應機制",
+      "flashcard_back": "在細胞質中利用 ATP 將胺基酸活化為 aminoacyl-AMP，隨後與對應 tRNA 3' 端進行酯化作用（esterification）形成高能酯鍵；不需 GTP，亦非核糖體成分。",
+      "flashcard_summary": "aminoacyl-tRNA synthetase -> 消耗 ATP，將胺基酸直接與對應 tRNA 3' 端羥基進行酯化，形成高能胺醯-tRNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n在原核細胞蛋白質轉譯的延伸期（elongation）中，肽基轉移酶（peptidyl transferase）負責催化勝肽鍵的形成。此酶的活性中心並非由蛋白質構成，而是大次單元核糖體中的 23S rRNA，它是一種具有催化能力的核酶（ribozyme），故 D 選項敘述正確。\n\n【選項詳解】\n- A. 錯誤。合成一個胜肽鍵需要消耗 4 個高能磷酸鍵：胺基酸活化需消耗 1 個 ATP 水解為 AMP + PPi（等同消耗 2 個高能磷酸鍵）；EF-Tu 引導胺醯-tRNA 進入 A 位消耗 1 個 GTP；核糖體移位（EF-G）消耗 1 個 GTP。\n- B. 錯誤。在轉譯延伸期中，新進入的胺醯-tRNA 首先結合在核糖體的 A 位（A site）。只有在轉譯起始時，起始的 fMet-tRNA 才會直接進入 P 位（P site）。\n- C. 錯誤。在原核細胞中，負責蛋白質合成時核糖體移位作用（translocation）的延伸因子是 EF-G。EF-Tu 的功能是協助帶有 GTP 的胺醯-tRNA 進入核糖體的 A 位，並不參與移位。\n- D. 正確。肽基轉移酶的催化活性完全來自大次單元核糖體中的 23S rRNA（在真核生物中為 28S rRNA），它不依賴任何蛋白質多勝肽鏈的化學基團進行催化，因此屬於核酶（ribozyme）。\n\n【核心考點】\n原核細胞轉譯延伸期：每合成一個胜肽鍵消耗 4 個高能磷酸鍵；新 tRNA 進入 A 位；EF-Tu 負責載入 A 位；EF-G 負責移位（translocation）；肽基轉移酶本質為 23S rRNA (ribozyme)。",
+      "key_point": "原核轉譯延伸期中，肽基轉移酶是 23S rRNA (ribozyme)；每一胜肽鍵合成消耗 4 個高能磷酸鍵；EF-Tu 負責載入 A 位，EF-G 負責移位。",
+      "flashcard_front": "原核細胞轉譯延伸期的能量消耗與酶/因子角色",
+      "flashcard_back": "每一胜肽鍵形成消耗 4 個高能磷酸鍵（1 ATP + 2 GTP）。EF-Tu 帶 tRNA 入 A 位，EF-G 催化移位。肽基轉移酶是 23S rRNA（ribozyme）。",
+      "flashcard_summary": "轉譯延伸期 -> 肽基轉移酶為 23S rRNA (ribozyme)；EF-Tu 用於 A 位載入；EF-G 用於移位；合成每胜肽鍵需 4 高能磷酸鍵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n本題考查胺基酸代謝途徑。酪胺酸（tyrosine）是體內多種重要物質的前驅物，包括兒茶酚胺類神經傳導物質（多巴胺、正腎上腺素、腎上腺素）、黑色素以及甲狀腺素。S-腺苷甲硫胺酸（SAM）是體內的甲基供體，由必需胺基酸甲硫胺酸（methionine）與 ATP 合成，與酪胺酸無關，故選 A。\n\n【選項詳解】\n- A. 正確答案（非源於酪胺酸）。S-腺苷甲硫胺酸（SAM）是細胞內主要的活性甲基供體，其生合成是直接利用甲硫胺酸（methionine）與 ATP，在甲硫胺酸腺苷轉移酶（MAT）的催化下合成，不涉及酪胺酸代謝路徑。\n- B. 腎上腺素（epinephrine）屬於兒茶酚胺類激素，其生合成途徑為：酪胺酸（tyrosine） $\rightarrow$ L-DOPA $\rightarrow$ 多巴胺 $\rightarrow$ 正腎上腺素 $\rightarrow$ 腎上腺素，故其來源為酪胺酸。\n- C. 黑色素（melanin）是賦予皮膚與毛髮顏色的色素，由黑素細胞內的酪胺酸酶（tyrosinase）將酪胺酸羥化並進一步氧化、聚合而成，故其來源為酪胺酸。\n- D. 多巴胺（dopamine）是中樞神經系統的重要神經傳導物質，由酪胺酸經由酪胺酸羥化酶轉化為 L-DOPA 後，再經芳香族 L-胺基酸脫羧酶脫去羧基生成。\n\n【核心考點】\n酪胺酸（tyrosine）的代謝產物（多巴胺、正腎上腺素、腎上腺素、黑色素、甲狀腺素）與甲硫胺酸（methionine）產物（S-腺苷甲硫胺酸 SAM）的生化途徑鑑別。",
+      "key_point": "酪胺酸是兒茶酚胺（多巴胺/正腎上腺素/腎上腺素）與黑色素的前驅物；S-腺苷甲硫胺酸由甲硫胺酸與ATP合成。",
+      "flashcard_front": "酪胺酸（Tyrosine）代謝產物與 SAM 的生合成前驅物",
+      "flashcard_back": "S-adenosylmethionine (SAM)。SAM 是體內活性甲基供體，由甲硫胺酸（methionine）與 ATP 合成，不源於酪胺酸（tyrosine）。",
+      "flashcard_summary": "酪胺酸代謝衍生物 -> 酪胺酸產物：多巴胺、腎上腺素、黑色素、甲狀腺素；甲硫胺酸產物：SAM。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:47:10+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n在真核細胞的泛素-蛋白酶體路徑（ubiquitin-proteasome pathway）中，標記待降解蛋白質需要三種泛素化酵素：E1（泛素活化酶）、E2（泛素結合酶）和 E3（泛素連接酶）。其中，E3 負責特異性辨識目標靶蛋白（受質），並直接催化泛素分子與受質的離氨酸（lysine）殘基結合，因此 E3 是催化直接結合的主要酵素，故選 C。\n\n【選項詳解】\n- A. 錯誤。E1 是泛素活化酶（ubiquitin-activating enzyme），利用 ATP 水解的能量將泛素活化，並在自身半胱胺酸上形成高能硫酯鍵，不直接與待降解的受質蛋白結合。\n- B. 錯誤。E2 是泛素結合酶（ubiquitin-conjugating enzyme），負責從 E1 接收活化的泛素，並將其暫時結合在自身的半胱胺酸殘基上。E2 不直接負責特異性辨識受質蛋白並催化其與泛素結合。\n- C. 正確。E3 是泛素連接酶（ubiquitin ligase），它具有辨識特異性標的蛋白質（受質）的結構域，能將 E2 上連結的泛素分子直接轉移並與標的蛋白質的離胺酸側鏈氨基形成共價異胜肽鍵。\n- D. 錯誤。E4 是泛素鏈延伸因子（ubiquitin chain elongation factor），主要參與多聚泛素鏈的進一步延伸，而非催化首個泛素分子直接與受質蛋白結合的主要特異性酵素。\n\n【核心考點】\n泛素-蛋白酶體路徑酵素：E1（活化泛素，消耗 ATP）、E2（傳遞泛素）、E3（連接酶，特異性辨識受質並催化泛素與之結合）。",
+      "key_point": "泛素-蛋白酶體系統中，E3 泛素連接酶負責特異性辨識目標蛋白並直接催化泛素與其結合，E1 負責活化泛素，E2 負責傳遞。",
+      "flashcard_front": "泛素化修飾酵素（E1, E2, E3）的功能區別",
+      "flashcard_back": "E1（活化酶）消耗 ATP 活化泛素；E2（結合酶）傳遞泛素；E3（連接酶）負責特異性識別靶蛋白，並直接催化泛素與靶蛋白結合。",
+      "flashcard_summary": "泛素化步驟 -> E1: 活化泛素 (需 ATP) -> E2: 結合/傳遞 -> E3: 特異性辨識靶蛋白並直接催化泛素連接。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n五碳糖磷酸途徑（pentose phosphate pathway, PPP）是葡萄糖代謝的旁路。它不直接產生 ATP，亦不生成進入呼吸鏈產能的 NADH。該途徑的核心生理功能在於：1. 產生還原型輔酶 NADPH，用作細胞抗氧化及還原型合成的還原力；2. 產生核糖-5-磷酸（ribose-5-phosphate），為合成核苷酸（RNA、DNA 等）提供五碳糖來源。因此，C 選項敘述正確。\n\n【選項詳解】\n- A. 錯誤。五碳糖磷酸途徑在進行過程中不產生任何 ATP。葡萄糖徹底氧化產生約 30-32 莫耳 ATP 是由有氧糖解、檸檬酸循環與電子傳遞鏈共同完成的。\n- B. 錯誤。在五碳糖磷酸途徑的氧化階段中，每莫耳葡萄糖-6-磷酸（G6P）會伴隨去羧反應脫去 1 莫耳的 CO2 形成五碳糖（核酮糖-5-磷酸），而非產生 5 莫耳的 CO2。\n- C. 正確。該途徑產生的核酮糖-5-磷酸可經由異構酶轉化為核糖-5-磷酸（ribose-5-phosphate），這是體內生合成核苷酸（如 ATP、GTP、NAD+、RNA、DNA）所需的五碳糖核糖之主要來源。\n- D. 錯誤。五碳糖磷酸途徑所產生的是 NADPH，其主要功能是提供還原力進行生物合成與維持還原型麩胱甘肽以抗氧化，並不進入粒線體呼吸鏈（電子傳遞鏈）產生能量；進入呼吸鏈產生能量的是 NADH 與 FADH2。\n\n【核心考點】\n五碳糖磷酸途徑（PPP）的功能：產生 NADPH（提供還原力、抗氧化，不進入電子傳遞鏈）與核糖-5-磷酸（核苷酸合成前驅物）；不產生 ATP，不產生 NADH。",
+      "key_point": "五碳糖磷酸途徑（PPP）不產生 ATP 或 NADH，主要產生還原型 NADPH（用於抗氧化與合成）及核糖-5-磷酸（用於合成核苷酸）。",
+      "flashcard_front": "五碳糖磷酸途徑（pentose phosphate pathway）的功能與產物",
+      "flashcard_back": "產生還原型 NADPH（用於還原型合成及抗氧化，不進入呼吸鏈）與核糖-5-磷酸（提供核苷酸與核酸合成原料）；不直接產生 ATP 或 NADH。",
+      "flashcard_summary": "Pentose Phosphate Pathway -> 產生 NADPH (抗氧化/合成) 與 ribose-5-phosphate (核苷酸原料)；不產 ATP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n肝素（heparin）是一種高度帶負電荷的酸性黏多醣（GAG），其雙糖重複單位主要以 alpha 1→4 糖苷鍵連接。臨床上，肝素被廣泛用作靜脈注射抗凝血劑，主要是因為它能與抗凝血酶 III（antithrombin III）結合，使後者對凝血酶（thrombin）和 factor Xa 的抑制活性提高數千倍。其他選項的黏多醣主要含 beta 糖苷鍵，且不具備臨床抗凝血效果。\n\n【選項詳解】\n- A. 錯誤。硫酸軟骨素 A（chondroitin sulfate A）主要存在於軟骨與骨骼中，其二糖單位主要由 glucuronic acid 與 N-acetylgalactosamine 4-sulfate 以 beta 1→3 鍵連接，雙糖間為 beta 1→4 鍵。它沒有抗凝血功能。\n- B. 正確。肝素（heparin）的二糖重複單位（包含氨基葡萄糖與糖醛酸）是由 alpha 1→4 糖苷鍵相連。它是體內強效的天然抗凝血物質，臨床上常作為預防與治療血栓的抗凝血藥物。\n- C. 錯誤。玻尿酸（hyaluronic acid）是由 D-glucuronic acid 與 N-acetylglucosamine 透過 beta 1→3 與 beta 1→4 鍵相連組成的無硫黏多醣。主要功能是保水與潤滑關節，不具抗凝血活性。\n- D. 錯誤。硫酸皮膚素（dermatan sulfate）主要分佈在皮膚與血管中，其雙糖結構以 beta 1→3 與 beta 1→4 鍵連接。它在臨床上不被用作抗凝血劑。\n\n【核心考點】\n肝素（Heparin）是含有 alpha 1→4 糖苷鍵的高度硫酸化的酸性黏多醣，臨床上作為第一線抗凝血劑。",
+      "key_point": "肝素（heparin）是含有 alpha 1→4 糖苷鍵的高度硫酸化酸性黏多醣，臨床上作為抗凝血劑（活化抗凝血酶 III）。",
+      "flashcard_front": "具 alpha 1→4 糖苷鍵的抗凝血黏多醣",
+      "flashcard_back": "肝素（heparin），是由 alpha 1→4 糖苷鍵連接的高度硫酸化酸性黏多醣，臨床上藉由活化抗凝血酶 III（antithrombin III）發揮抗凝血效果。",
+      "flashcard_summary": "Heparin -> 含有 alpha 1→4 糖苷鍵的酸性黏多醣，臨床上用作靜脈抗凝血劑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n在有氧代謝環境下，細胞質中糖解作用（glycolysis）產生的丙酮酸（pyruvate）必須進入粒線體基質，在該處被丙酮酸去氫酶複合體（PDH）催化進行氧化脫羧，直接轉化為乙醯輔酶 A（acetyl-CoA）。乙醯輔酶 A 隨後與草醯乙酸縮合，才能正式進入克式循環（TCA cycle）進行完全氧化。因此，B 是正確分子。\n\n【選項詳解】\n- A. 錯誤。乳酸（lactic acid）是無氧條件下，丙酮酸在細胞質中經由乳酸去氫酶（LDH）還原而成的產物，主要是為了回收 NAD+ 以維持糖解反應。乳酸並非丙酮酸直接進入克式循環的化學形式。\n- B. 正確。丙酮酸在粒線體基質中經由 PDH 複合體催化，脫去一分子 CO2 並與輔酶 A 結合形成乙醯輔酶 A（acetyl-CoA）。這是糖類、脂質與氨基酸進入克式循環（TCA cycle）共同的活化關鍵產物。\n- C. 錯誤。S-腺苷甲硫胺酸（SAM）是細胞內的主要甲基供體，參與各種甲基化反應，與丙酮酸的氧化分解及進入克式循環無涉。\n- D. 錯誤。磷酸烯醇丙酮酸（phosphoenolpyruvate, PEP）是糖解作用中產生丙酮酸的前驅物，由丙酮酸激酶催化 PEP 轉變為丙酮酸。它不是丙酮酸去向的下游氧化產物。\n\n【核心考點】\n糖解作用與克式循環的連接反應：有氧下，丙酮酸在粒線體內由丙酮酸去氫酶（PDH）催化氧化脫羧生成乙醯輔酶 A（acetyl-CoA）以進入 TCA cycle。",
+      "key_point": "糖解產生的丙酮酸在有氧下必須於粒線體內被 PDH 催化轉化為乙醯輔酶 A（acetyl-CoA），才能與草醯乙酸縮合進入克式循環氧化。",
+      "flashcard_front": "丙酮酸進入克式循環前的直接轉換分子",
+      "flashcard_back": "乙醯輔酶 A（acetyl-CoA）。丙酮酸在粒線體中經丙酮酸去氫酶複合體（PDH）氧化脫羧生成乙醯輔酶 A，隨後與草醯乙酸縮合進入克式循環。",
+      "flashcard_summary": "Pyruvate to TCA cycle -> 丙酮酸經 PDH 轉化為 acetyl-CoA，隨後與草醯乙酸縮合進入克式循環。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n膽固醇（cholesterol）生合成骨架中的 27 個碳原子全部來自乙酸（acetate，以 acetyl-CoA 形式參與）。合成路徑中，乙醯輔酶 A 縮合生成 HMG-CoA，進一步還原為甲羥戊酸，並轉化為五碳的活性異戊二烯單位（isoprene units）；多個異戊二烯單位聚合生成 30 碳的鯊烯（squalene），鯊烯再環化為羊毛脂醇，最終生成膽固醇。二氫鞘氨醇（sphinganine）是生合成鞘脂類（sphingolipids）的前驅物，不參與膽固醇的合成，故選 C。\n\n【選項詳解】\n- A. 錯誤。乙酸（acetate）以乙醯輔酶 A（acetyl-CoA）的形式提供膽固醇合成所需的所有 27 個碳原子，是膽固醇生合成最基礎的碳源前驅物。\n- B. 錯誤。異戊二烯（isoprene）是膽固醇合成的中間積木。甲羥戊酸會脫羧生成五碳的活性異戊二烯焦磷酸鹽（IPP 與 DMAPP），這些異戊二烯單位是聚合形成後續大分子骨架的前驅物。\n- C. 正確。二氫鞘氨醇（sphinganine）是由棕櫚醯輔酶 A（palmitoyl-CoA）與絲胺酸（serine）縮合還原而來，是用來合成神經鞘脂類（如神經醯胺 ceramide）的專屬前驅物，並不參與膽固醇的生合成。\n- D. 錯誤。鯊烯（squalene）是 30 碳的線性多烯烴，由焦磷酸法尼酯（FPP）縮合而成。鯊烯會經由環化反應生成羊毛脂醇，這是膽固醇固醇環結構的直接前驅物。\n\n【核心考點】\n膽固醇生合成前驅物：乙酸（以 acetyl-CoA 形式）為原料，經 mevalonate 生成五碳活性異戊二烯（isoprene units），再縮合為 30 碳鯊烯（squalene）並環化；二氫鞘氨醇（sphinganine）則為鞘脂類的前驅物。",
+      "key_point": "膽固醇合成原料為乙酸（acetyl-CoA），經 mevalonate、五碳活性異戊二烯（isoprene）、30碳鯊烯（squalene）聚合與環化而成；二氫鞘氨醇（sphinganine）是鞘脂合成前驅物。",
+      "flashcard_front": "膽固醇生合成的前驅物與排除項目",
+      "flashcard_back": "前驅物包括乙酸（acetate）、異戊二烯單位（isoprene units，如 IPP）、鯊烯（squalene）。二氫鞘氨醇（sphinganine）則是鞘脂（sphingolipids）合成的前驅物，不參與膽固醇合成。",
+      "flashcard_summary": "膽固醇合成前驅物 -> Acetate -> Isoprene units -> Squalene -> Lanosterol -> Cholesterol；sphinganine 用於鞘脂合成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

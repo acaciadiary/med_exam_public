@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-1.json",
+  "dataset_id": "109-2_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題標準答案為 D。肉鹼棕櫚醯基轉移酶（CPT）是長鏈脂肪酸進入粒線體基質進行 β-氧化的關鍵限速酶。當 CPT 受損時，活化後的長鏈脂肪酸無法穿過粒線體內膜，從而阻斷能量的產生。\n\n【選項詳解】\n- A. 錯誤。NADH 帶有還原當量，無法直接穿透粒線體內膜，但它是利用「蘋果酸-天門冬胺酸穿梭」或「甘油-3-磷酸穿梭」系統將電子傳入粒線體，與 CPT 系統無關。\n- B. 錯誤。Succinyl-CoA 是克氏循環的中間產物，直接在粒線體基質內合成，不需要從細胞質中運入，也不是 CPT 的轉運底物。\n- C. 錯誤。三酸甘油酯分子體積過大，無法直接被運入粒線體。它必須先在細胞質中經由脂肪酶水解為游離脂肪酸，再活化成 acyl-CoA 後，方能透過肉鹼接駁系統運入。\n- D. 正確。碳數大於 12 的長鏈脂肪酸（long-chain fatty acids）在細胞質活化為 acyl-CoA 後，必須經由位於外膜的 CPT-1 轉換為 acylcarnitine，穿過內膜後再由 CPT-2 轉回 acyl-CoA，因此 CPT 損害會直接阻礙其運入。\n\n【核心考點】\n長鏈脂肪酸進入粒線體氧化的肉鹼接駁系統（Carnitine shuttle system）及其限速酵素 CPT-1 與 CPT-2 的生理角色。",
+      "key_point": "長鏈脂肪酸需經由肉鹼接駁系統（含限速酶 CPT-1/CPT-2）方能進入粒線體進行 β-氧化，而極性分子如 NADH 則需藉由專屬穿梭系統。",
+      "flashcard_front": "肉鹼棕櫚醯基轉移酶 (CPT) 損壞會直接影響哪種物質運入粒線體？",
+      "flashcard_back": "長鏈脂肪酸 (long-chain fatty acids)。長鏈脂肪酸活化後必須經由 CPT-1 與 CPT-2 轉換運送；而 NADH 利用穿梭系統，三酸甘油酯則需先水解。",
+      "flashcard_summary": "CPT 損壞 -> 長鏈脂肪酸無法運入粒線體進行 β-氧化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n本題要求選出「錯誤」的敘述，標準答案為 B。乙醯輔酶 A 羧化酶（ACC）是脂肪酸合成的限速步驟，此羧化反應需要消耗 ATP 並以生物素為輔酶，並不消耗 NADH。\n\n【選項詳解】\n- A. 正確的敘述，故不選。ACC 催化乙醯輔酶 A（acetyl-CoA）的羧化反應，生成丙二醯輔酶 A（malonyl-CoA），這是脂肪酸鏈延伸的直接碳源前驅物。\n- B. 錯誤的敘述，符合題意當選。ACC 的羧化反應消耗的是 ATP，不涉及氧化還原，因此不消耗 NADH。脂肪酸合成中消耗 NADPH 的步驟是後續由脂肪酸合酶（FAS）催化的還原反應。\n- C. 正確的敘述，故不選。ACC 催化產生 malonyl-CoA 的步驟，是整條脂肪酸合成路徑中的關鍵速率限制步驟（rate-limiting step）。\n- D. 正確的敘述，故不選。當細胞能量狀態低（AMP 上升）時，會活化 AMP 活化蛋白質激酶（AMPK）。AMPK 會將 ACC 磷酸化使其去活化，從而抑制脂肪酸合成以保留能量。\n\n【核心考點】\n乙醯輔酶 A 羧化酶（ACC）催化脂肪酸合成限速步驟的反應方程式（消耗 ATP、產出 malonyl-CoA）及其受 AMPK 磷酸化的負調控機制。",
+      "key_point": "脂肪酸合成的限速酶 ACC 催化羧化反應需消耗 ATP，不直接消耗 NADH/NADPH；且 ACC 活性受 AMPK 磷酸化抑制。",
+      "flashcard_front": "乙醯輔酶 A 羧化酶 (ACC) 在脂肪酸合成中的反應特性與調節方式？",
+      "flashcard_back": "ACC 催化生限速步驟 malonyl-CoA，此羧化反應消耗 ATP (不消耗 NADH/NADPH)；當能量不足 (AMP 上升) 時，會被 AMPK 磷酸化而抑制活性。",
+      "flashcard_summary": "ACC 催化限速反應 -> 消耗 ATP 產生 malonyl-CoA，受 AMPK 磷酸化抑制",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n本題標準答案為 A。天門冬胺酸-精胺醯琥珀酸分流（aspartate-argininosuccinate shunt，亦稱 Krebs 雙環）是藉由 fumarate 與 aspartate 等關鍵中間產物的互換，將尿素循環與檸檬酸循環緊密連結的生化途徑。\n\n【選項詳解】\n- A. 正確。尿素循環中產生的 fumarate 可轉化為 malate 進入檸檬酸循環；而檸檬酸循環中的 oxaloacetate 經轉胺作用生成 aspartate，進入細胞質參與尿素循環，此分流成功連結了這兩個循環。\n- B. 錯誤。Cori 循環（Cori cycle）是骨骼肌中的乳酸經血液運往肝臟進行糖質新生，再將葡萄糖運回肌肉的循環，與此分流無關。\n- C. 錯誤。乙醛酸循環（glyoxylate cycle）是植物與微生物將脂肪酸轉化為糖類的途徑，人類等哺乳動物體內缺乏此循環的關鍵酵素，故不存在此連結。\n- D. 錯誤。葡萄糖-丙胺酸循環（glucose-alanine cycle）是肌肉利用 alanine 將氨基運送至肝臟進行尿素合成及糖質新生的路徑，不直接參與此雙環分流的化學互換。\n\n【核心考點】\n天門冬胺酸-精胺醯琥珀酸分流（Krebs bicycle）的運作機制，即藉由轉化 fumarate 與 aspartate 連結尿素循環與檸檬酸循環。",
+      "key_point": "天門冬胺酸-精胺醯琥珀酸分流（Krebs 雙環）利用 fumarate 與 aspartate 的互換，將尿素循環與檸檬酸循環（TCA 循環）連結起來。",
+      "flashcard_front": "Aspartate-argininosuccinate shunt 連結了哪兩個代謝循環？",
+      "flashcard_back": "尿素循環 (urea cycle) 與檸檬酸循環 (citric acid cycle)。透過 fumarate 進入 TCA 循環、及 TCA 循環產生的 oxaloacetate 轉胺成 aspartate 回歸尿素循環來連結。",
+      "flashcard_summary": "Aspartate-argininosuccinate shunt -> 連結尿素循環與檸檬酸循環",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題標準答案為 D。白化症（albinism）主要是由於體內黑色素（melanin）合成受阻所致。而黑色素合成的最初始前驅物質是酪胺酸（tyrosine），其代謝途徑異常是致病主因。\n\n【選項詳解】\n- A. 錯誤。離胺酸（lysine）是必需生酮胺基酸，其代謝產物主要為 acetyl-CoA，與黑色素的生合成路徑完全無關。\n- B. 錯誤。精胺酸（arginine）主要參與尿素循環以及一氧化氮（NO）的生成，不是黑色素合成的前驅物。\n- C. 錯誤。色胺酸（tryptophan）是血清素、褪黑激素及菸鹼酸的前驅物，其代謝異常（如 Hartnup disease）不會導致白化症。\n- D. 正確。黑色素（melanin）是由酪胺酸（tyrosine）在黑素細胞中經酪胺酸酶（tyrosinase）催化，逐步羥化並氧化成多巴（DOPA）及多巴醌，最後聚合而成。因此，酪胺酸代謝異常（如缺乏酪胺酸酶）會導致白化症。\n\n【核心考點】\n黑色素（melanin）合成的生化前驅物為酪胺酸（tyrosine），其限速酵素酪胺酸酶（tyrosinase）缺陷是造成遺傳性白化症的最常見原因。",
+      "key_point": "黑色素合成以酪胺酸（tyrosine）為前驅物，其關鍵代謝酵素酪胺酸酶（tyrosinase）缺陷是白化症的主要成因。",
+      "flashcard_front": "何種胺基酸代謝異常是導致白化症 (albinism) 最主要的原因？",
+      "flashcard_back": "酪胺酸 (tyrosine)。黑色素的合成起點為酪胺酸，黑素細胞內的酪胺酸酶 (tyrosinase) 缺陷會使酪胺酸無法轉化為黑色素，進而導致白化症。",
+      "flashcard_summary": "酪胺酸代謝異常 / 酪胺酸酶缺陷 -> 白化症 (albinism)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n本題標準答案為 A。琥珀酸去氫酶（Complex II）是克氏循環中唯一與粒線體內膜結合的酵素。它能直接將琥珀酸（succinate）氧化為延胡索酸，並將電子直接傳遞給 Complex II 的輔基 FAD，不產生或經過游離的 NADH。\n\n【選項詳解】\n- A. 正確。琥珀酸（succinate）在 Complex II（琥珀酸去氫酶）催化下氧化為 fumarate。電子在此步驟中直接轉移到酵素結合的 FAD 形成 FADH2，再經鐵硫中心傳給輔酶 Q，全程不涉及 NADH 的產生與傳遞。\n- B. 錯誤。檸檬酸（citrate）需先異構化為 isocitrate，再經異檸檬酸去氫酶催化生成 α-ketoglutarate，此反應會釋放高能電子給 NAD+ 產生 NADH，進而由 Complex I 氧化。\n- C. 錯誤。α-酮戊二酸（α-ketoglutarate）經 α-酮戊二酸去氫酶複合物催化進行氧化脫羧，反應中會產生 NADH 並釋放二氧化碳，並非直接傳給 Complex II。\n- D. 錯誤。蘋果酸（malate）經蘋果酸去氫酶催化氧化為草醯乙酸，此步驟亦會產生 NADH，隨後將電子送至電子傳遞鏈的 Complex I，而非 Complex II。\n\n【核心考點】\n琥珀酸去氫酶（Complex II）在克氏循環與電子傳遞鏈中的雙重角色，以及其直接利用 FAD/FADH2（不經由 NADH）傳遞電子的特點。",
+      "key_point": "琥珀酸（succinate）在 Complex II 催化下氧化成 fumarate，電子直接傳遞給 FAD 產生 FADH2，不涉及複合物 I 用的游離 NADH。",
+      "flashcard_front": "克氏循環中哪一個中間產物的氧化不經由 NADH，而是直接傳遞電子給 Complex II？",
+      "flashcard_back": "琥珀酸 (succinate)。它經由 Complex II (琥珀酸去氫酶) 氧化為 fumarate，電子直接轉移給結合態的 FAD 形成 FADH2，跳過 Complex I 與 NADH。",
+      "flashcard_summary": "琥珀酸氧化 -> 電子直接傳給 Complex II 的 FAD，不產生 NADH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題標準答案為 A。粒線體電子傳遞鏈中的 Complex III（又稱輔酶 Q-細胞色素 c 還原酶）主要負責接收還原態輔酶 Q（ubiquinol）的電子，並藉由 Q 循環將其傳遞給單電子移動載體細胞色素 c（cytochrome c）。\n\n【選項詳解】\n- A. 正確。Complex III 的主要生理功能是將電子從還原態的輔酶 Q（ubiquinol）轉移給親水性且可移動的細胞色素 c（cytochrome c），使其被還原以繼續送往 Complex IV。\n- B. 錯誤。琥珀酸（succinate）是 Complex II 的電子供體（被氧化者），不是 Complex III 傳遞電子的受體。\n- C. 錯誤。NADH 是 Complex I 的電子供體（提供電子給 FMN），而非 Complex III 之後的電子受體。\n- D. 錯誤。輔酶 Q（ubiquinone，氧化態）在 Complex I 和 II 接收電子，並以還原態（ubiquinol）形式將電子提供給 Complex III。因此，輔酶 Q 是 Complex III 的電子「供體」而非電子「受體」。\n\n【核心考點】\n粒線體電子傳遞鏈中 Complex III 的反應機制，特別是將電子從脂溶性的輔酶 Q（ubiquinol）傳遞給水溶性的細胞色素 c（cytochrome c）。",
+      "key_point": "電子傳遞鏈中 Complex III 負責將來自還原態輔酶 Q（ubiquinol）的電子傳遞給移動性電子載體細胞色素 c（cytochrome c）。",
+      "flashcard_front": "電子傳遞鏈的 Complex III 主要將電子傳遞給何種分子？",
+      "flashcard_back": "細胞色素 c (cytochrome c)。Complex III (Coenzyme Q-cytochrome c reductase) 將電子從還原態輔酶 Q 轉移至 cytochrome c，後者再將電子運往 Complex IV。",
+      "flashcard_summary": "Complex III -> 傳遞電子給細胞色素 c (cytochrome c)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題標準答案為 B。PI-3K 訊息傳遞路徑中，活化後的 PI-3K 將細胞膜上的 PIP2 磷酸化為 PIP3。PIP3 作為第二信使，能與含有 PH 結構域（Pleckstrin homology domain）的下游激酶結合並招募至膜上，進而活化 PKB。\n\n【選項詳解】\n- A. 錯誤. cGMP 是環狀核苷酸第二信使，主要由鳥苷酸環化酶合成，不與 PIP3 結合，其下游主要活化標的為 PKG。\n- B. 正確。Protein Kinase B（PKB，又稱 Akt）結構中含有 PH 結構域，能特異性結合細胞膜上的 PIP3，促使其定位至細胞膜，隨後被 PDK1 磷酸化而活化，是 PI-3K 路徑的主要效應蛋白。\n- C. 錯誤。Protein Kinase G（PKG）是受 cGMP（而非 PIP3）活化的蛋白質激酶，主要參與調節血管平滑肌舒張等功能。\n- D. 錯誤。攜鈣素激酶（calmodulin kinase, CaMK）是受到鈣離子與攜鈣素結合所形成的複合物（Ca2+/calmodulin）活化，與 PIP3 的結合無關。\n\n【核心考點】\nPI-3K/Akt 訊息路徑中，第二信使 PIP3 藉由 PH 結構域招募並活化蛋白質激酶 B（PKB/Akt）的分子生化機制。",
+      "key_point": "PI-3K 路徑產生的第二信使 PIP3 能與 PKB（Akt）結構中的 PH 結構域結合，招募其至膜上並促成其活化。",
+      "flashcard_front": "在 PI-3K 訊息傳遞路徑中，PIP3 結合並活化哪一個蛋白質激酶？",
+      "flashcard_back": "蛋白質激酶 B (Protein Kinase B, PKB / Akt)。PKB 含有 PH 結構域，能與膜上的 PIP3 結合而被招募至膜上，進而被 PDK1 磷酸化活化。",
+      "flashcard_summary": "PIP3 結合 PH 結構域 -> 活化蛋白質激酶 B (PKB / Akt)",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題要求選出「錯誤」的敘述，標準答案為 D。鈣離子與二醯基甘油（DAG）是磷脂酶 C（PLC）活化後的下游次級訊息傳遞者，兩者會協同（synergistic）促進蛋白質激酶 C（PKC）的活化，而非相反作用。\n\n【選項詳解】\n- A. 正確的敘述，故不選。細胞質內游離鈣離子濃度極低（約 100 nM）。為防細胞毒性，大部分的鈣離子都與蛋白質（如肌漿網內的 calsequestrin、細胞質的 calmodulin 或 parvalbumin）結合。\n- B. 錯誤的敘述（此選項有爭議，但非官方標準答案）。細胞外液的游離鈣離子濃度約為 1.0 - 1.2 mM，而內質網/肌漿網內的游離鈣離子濃度約為 0.1 - 1.0 mM，故內質網內濃度通常等同或低於細胞外液，此選項描述有生理學瑕疵。但與 D 選項極度明確的相反機制相比，官方仍以 D 為標準答案。\n- C. 正確的敘述，故不選。鈣離子主要是藉由與攜鈣素（calmodulin）結合形成複合物，進而改變下游多種關鍵調節蛋白與激酶的構型並予以活化。\n- D. 錯誤的敘述，符合題意當選。鈣離子（由 IP3 促進內質網釋放）與 DAG（位於膜上）皆為次級訊息傳遞者，兩者共同作用於 PKC，具協同活化（synergistic activation）的效果，調節作用方向一致，而非相反。\n\n【核心考點】\n【補充提醒：本題官方答案為 D，但選項 B 描述「內質網內鈣離子濃度高於細胞外液」在生理學上亦有爭議，一般而言內質網內游離鈣濃度（0.1–1.0 mM）通常不高於細胞外液（1.2 mM），應屬選項瑕疵。】\n鈣離子作為次級訊息傳遞者的生理分布（游離鈣濃度極低、多與蛋白結合），以及與 DAG 協同活化蛋白質激酶 C（PKC）的機制。",
+      "key_point": "鈣離子與 DAG 對 PKC 的調節為協同活化而非相反；且細胞內游離鈣極低，多數與蛋白質結合。",
+      "flashcard_front": "鈣離子與二醯基甘油 (DAG) 如何共同調節蛋白質激酶 C (PKC) 的活性？",
+      "flashcard_back": "兩者具有協同 (synergistic) 促進作用。IP3 釋放的鈣離子與膜上的 DAG 共同結合並活化 PKC，兩者的調節作用方向一致而非相反。",
+      "flashcard_summary": "鈣離子與 DAG -> 協同活化 PKC（調節作用非相反）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": [
+        "選項 B 關於內質網與細胞外液鈣離子濃度高低之描述可能存在生理學瑕疵，但 D 選項明顯與生化機制相反，仍屬最合理答案。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題標準答案為 A。胰島素（insulin）是人體內最主要的合成代謝激素，在脂肪細胞中會促進脂肪酸的合成與儲存，並藉由抑制激素敏感性脂肪酶（HSL）來阻斷脂肪水解與代謝，故無法促進其分解產生 ATP。\n\n【選項詳解】\n- A. 正確。胰島素（insulin）會促進脂肪細胞攝取葡萄糖並進行三酸甘油酯合成。同時，它會活化磷酸二酯酶（PDE）降解 cAMP，降低 PKA 活性，導致激素敏感性脂肪酶（HSL）去活化，從而強烈抑制脂肪分解以產生 ATP。\n- B. 錯誤。升糖素（glucagon）與 GPCR 結合後會活化腺苷酸環化酶，提高 cAMP 並活化 PKA，進而將 HSL 磷酸化活化，促進脂肪水解產生脂肪酸以供能。\n- C. 錯誤。腎上腺素（epinephrine）藉由與 β-腎上腺素受體結合，同樣透過 cAMP-PKA 訊息傳遞路徑活化 HSL，強烈促進脂肪水解以應對能量消耗需求。\n- D. 錯誤。糖皮質激素（glucocorticoids）在應激或飢餓狀態下，會藉由調控轉錄來增加 HSL 等脂肪分解酶的表現量，並協同兒茶酚胺促進脂肪的動員與分解。\n\n【核心考點】\n胰島素抑制脂肪分解（去活化 HSL）的生化調控路徑，與升糖素、腎上腺素及糖皮質激素等促進脂肪分解的對立生理功能。",
+      "key_point": "胰島素為合成代謝激素，會降低 cAMP-PKA 活性，進而抑制限速酶 HSL 以阻斷脂肪水解；而升糖素、腎上腺素等則促進 HSL 活性以分解脂肪。",
+      "flashcard_front": "胰島素 (insulin) 如何影響脂肪細胞中的脂肪代謝？",
+      "flashcard_back": "胰島素會抑制脂肪分解 (lipolysis)。它藉由活化 PDE 降低 cAMP 濃度，抑制 PKA，使激素敏感性脂肪酶 (HSL) 去活化，從而阻止脂肪水解產生 ATP。",
+      "flashcard_summary": "胰島素 -> 抑制 HSL 活性，阻斷脂肪分解代謝",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題標準答案為 A。基因定點突變（site-directed mutagenesis）是在現有雙股 DNA 質體上，利用含有特定突變鹼基的引子進行體外 PCR 擴增。該過程不涉及將 RNA 轉化為 DNA，因此不需要反轉錄酶。\n\n【選項詳解】\n- A. 正確。反轉錄酶（reverse transcriptase）是以單股 RNA 為模板合成互補 DNA（cDNA）的酵素。基因定點突變是在 DNA 水平上進行的定點修飾，完全不涉及 RNA 模板，因此不需要反轉錄酶。\n- B. 錯誤。DNA 聚合酶（DNA polymerase，如具高保真度的 Pfu polymerase）是必需的，用於在體外延伸含有突變鹼基的引子，以合成完整且帶有突變的雙股 DNA 質體。\n- C. 錯誤。Deoxyribonucleoside triphosphate（dNTPs，即去氧核苷三磷酸）是 DNA 聚合酶合成新 DNA 鏈所必須的核苷酸原料，不可或缺。\n- D. 錯誤。突變的引子（mutated primers）是定點突變的關鍵成分，引子序列中含有與原模板不完全配對的突變鹼基，藉此在 PCR 複製過程中將突變引入新合成的鏈中。\n\n【核心考點】\n基因定點突變（site-directed mutagenesis）的分子生物學原理，包括使用突變引子、高保真 DNA 聚合酶、dNTP 原料進行體外擴增，與反轉錄酶無涉。",
+      "key_point": "基因定點突變是利用突變引子、DNA 聚合酶與 dNTPs 在體外複製 DNA 質體，其模板與產物皆為 DNA，不需反轉錄酶。",
+      "flashcard_front": "基因定點突變 (site-directed mutagenesis) 過程不需要下列何者？",
+      "flashcard_back": "反轉錄酶 (reverse transcriptase)。定點突變是以雙股 DNA 為模板進行體外 PCR 複製，需要 DNA 聚合酶、dNTPs 與突變引子，不涉及 RNA 轉回 DNA 的反轉錄過程。",
+      "flashcard_summary": "基因定點突變 -> 不需要反轉錄酶，需要突變引子、DNA 聚合酶與 dNTPs",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

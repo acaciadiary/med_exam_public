@@ -1,0 +1,180 @@
+import json
+import os
+from datetime import datetime
+
+def main():
+    target_dir = r"d:\Antigravity\med_exam_public\scratch\rewrite_updates\109-2_medicine-1"
+    os.makedirs(target_dir, exist_ok=True)
+    target_file = os.path.join(target_dir, "q071-q080.json")
+    
+    timestamp = "2026-07-17T18:44:17+08:00"
+    
+    updates = [
+        # Q71
+        {
+            "question_id": "109-2_medicine-1_071",
+            "question_number": 71,
+            "explanation": "【題幹解析】\n分娩（parturition）的啟動與維持是由多種激素和局部因子共同調節的複雜生理過程。在分娩啟動時，胎兒下視丘-垂體-腎上腺軸（HPA axis）會被活化，釋放促腎上腺皮質激素（ACTH）和皮質醇，進而調控胎盤分泌雌激素與孕酮的比例，啟動後續反應。隨後，子宮頸受到牽張會經由神經反射刺激母體後葉釋放催產素（oxytocin），催產素直接作用於子宮平滑肌細胞膜上的受體，強烈刺激子宮收縮。同時，子宮脫膜與胎盤會局部合成前列腺素（prostaglandins），前列腺素能促進子宮頸結締組織軟化（cervical ripening）並加強子宮平滑肌對催產素的敏感性。相較之下，泌乳素（prolactin）主要是促進產後乳腺發育與乳汁的分泌與生成，在分娩過程的子宮收縮與產程進展中並不起主要催化或啟動作用，故 D 最不相關，為正確答案。\n\n【選項詳解】\n- A: adrenocorticotropic hormone (ACTH) 與分娩相關。胎兒發育成熟後，胎兒下視丘-垂體-腎上腺軸活化，ACTH 釋放增加會刺激胎兒腎上腺產生皮質醇（cortisol）及 DHEA-S，後者在胎盤轉化為雌激素，改變雌激素/孕酮比例，進而啟動分娩。\n- B: oxytocin 與分娩極為相關。由下視丘合成、垂體後葉釋放的催產素是引起分娩時子宮平滑肌強烈且節律性收縮的核心激素，臨床上也常用於催產與引產。\n- C: prostaglandin 與分娩極為相關。前列腺素（如 PGE2 和 PGF2α）可引發子宮頸膠原纖維降解以軟化子宮頸，並能與催產素產生協同作用，直接刺激子宮平滑肌收縮。\n- D: prolactin 與分娩最無直接關聯。泌乳素是由腦下垂體前葉分泌的蛋白質激素，其主要生理效應是促進乳腺泡發育以及產後乳汁的合成與分泌。在分娩啟動和子宮收縮的過程中並非關鍵因子。\n\n【核心考點】\n分娩啟動的內分泌機制：胎兒 HPA 軸活化（ACTH/皮質醇）改變雌/孕激素比例，繼而引發前列腺素局部釋放（子宮頸軟化與平滑肌收縮）與催產素系統活化（強烈子宮收縮）。泌乳素則專司產後乳汁生成。",
+            "key_point": "分娩啟動主要依賴胎兒 HPA 軸（ACTH）、前列腺素與催產素調控子宮收縮與子宮頸軟化；泌乳素則主要負責產後乳汁生成，與分娩啟動最不相關。",
+            "flashcard_front": "分娩過程（Parturition）最不相關的激素是？（ACTH、oxytocin、prostaglandin、prolactin 比較）",
+            "flashcard_back": "正答為 prolactin（泌乳素）。\n- ACTH：活化胎兒 HPA 軸，啟動分娩。\n- Oxytocin：直接刺激子宮收縮。\n- Prostaglandin：促進子宮頸軟化及平滑肌收縮。\n- Prolactin：主要功能是促進產後乳汁分泌與生成。",
+            "flashcard_summary": "分娩調控激素：ACTH/前列腺素/催產素負責分娩啟動與收縮；泌乳素（prolactin）負責產後泌乳，與分娩無關。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q72
+        {
+            "question_id": "109-2_medicine-1_072",
+            "question_number": 72,
+            "explanation": "【題幹解析】\n視野出現雙側顳側偏盲（bitemporal hemianopsia）是解剖定位診斷中的經典病徵。在視神經傳導通路中，來自兩側鼻側視網膜（nasal retina）的視神經纖維（負責接收兩側顳側視野的影像資訊）會在視交叉（optic chiasm）進行交叉，而顳側視網膜纖維則不交叉。解剖學上，腦下垂體位於蝶鞍（sella turcica）內，正處於視交叉的下方。當腦下垂體腫瘤（pituitary tumor）向上生長並壓迫視交叉中部的交叉纖維時，便會阻斷來自兩側鼻側視網膜的傳導訊號，進而導致雙側顳側偏盲。此外，腫瘤壓迫蝶鞍周圍結構和腦膜，也會引起患者頭痛 and 腦壓增高。因此，最可能的診斷是腦下垂體腫瘤，故選 D。\n\n【選項詳解】\n- A: 枕葉部腫瘤(occipital lobe tumor) 枕葉皮質是視覺中樞。枕葉腫瘤壓迫通常導致對側同向偏盲（contralateral homonymous hemianopsia）或視野缺損伴隨黃斑部保留（macular sparing），不會造成兩側顳側偏盲。\n- B: 顳葉部腫瘤(temporal lobe tumor) 顳葉內有通過的視放射下半部纖維（Meyer's loop）。顳葉腫瘤受損會導致對側上象限偏盲（contralateral homonymous superior quadrantanopsia，又稱「pie in the sky」），而非雙側顳側偏盲。\n- C: 額葉部腫瘤(frontal lobe tumor) 額葉不直接包含視神經傳導路徑的主要纖維。額葉腫瘤臨床上多以人格改變、運動性失語（Broca's aphasia）或運動功能障礙為主要表現，一般不會產生特異性的雙側顳側偏盲。\n- D: 腦下垂體腫瘤(pituitary tumor) 腦下垂體位於蝶鞍內，向上發展時會直接由下往上壓迫正上方的視交叉中部（交叉的鼻側視網膜纖維），是引發視野雙側顳側偏盲與壓迫性頭痛最經典且最常見的定位診斷病變。\n\n【核心考點】\n視神經傳導通路的解剖定位：視交叉（optic chiasm）受壓迫導致雙側顳側偏盲。蝶鞍部病變（如腦下垂體腫瘤、顱咽管瘤）是壓迫視交叉最常見的病因。而枕葉病變多造成同向偏盲，顳葉病變造成上象限盲。",
+            "key_point": "視野雙側顳側偏盲為視交叉（optic chiasm）受壓迫的特徵性表現；位於視交叉正下方的腦下垂體腫瘤是最常見的病因。",
+            "flashcard_front": "視野雙側顳側偏盲（bitemporal hemianopsia）的病變定位及最常見病因為何？",
+            "flashcard_back": "病變定位：視交叉（optic chiasm）中部受壓迫（阻斷來自雙側鼻側視網膜的交叉纖維）。\n最常見病因：腦下垂體腫瘤（pituitary tumor）。\n- 枕葉病變：對側同向偏盲。\n- 顳葉（Meyer's loop）病變：對側上象限盲（pie in the sky）。",
+            "flashcard_summary": "雙側顳側偏盲 -> 視交叉受壓迫 -> 最常見為腦下垂體腫瘤向上壓迫。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q73
+        {
+            "question_id": "109-2_medicine-1_073",
+            "question_number": 73,
+            "explanation": "【題幹解析】\n承接上題，病患最可能的診斷為腦下垂體腫瘤（pituitary tumor）。在所有具分泌功能的腦下垂體前葉腫瘤中，以泌乳素瘤（prolactinoma）最為常見。當血中泌乳素（prolactin）濃度異常升高時，高濃度的泌乳素會對下視丘產生負回饋，強烈抑制下視丘脈衝式釋放促性腺激素釋放激素（GnRH）。一旦 GnRH 分泌減少，腦下垂體前葉分泌的黃體成長激素（LH）和濾泡刺激素（FSH）也隨之下游減少，進而導致睪丸製造與分泌睪固酮（testosterone）不足。在男性身上，低睪固酮血症會直接表現為性慾減退（libido decrease）及陰莖勃起功能障礙（erectile dysfunction）。因此，引起這類臨床症狀且濃度偏高的激素最可能是泌乳素，故選 B。\n\n【選項詳解】\n- A: adrenocorticotropic hormone(ACTH) 若 ACTH 分泌過高，會刺激腎上腺皮質分泌過量皮質醇，導致庫欣氏症（Cushing's disease），主要表現為滿月臉、水牛肩、中心性肥胖與皮膚紫紋等，而非以單純性慾減退與陽痿為首要特異性表現。\n- B: prolactin 泌乳素過高（高泌乳素血症）是男性勃起功能障礙及性慾變差的常見內分泌病因。高泌乳素會抑制 GnRH 的釋放，使 LH、FSH 降低，進而導致促性腺激素低下症（hypogonadotropic hypogonadism）。\n- C: luteinizing hormone(LH) LH 主要作用是刺激睪丸的 Leydig 細胞合成與分泌睪固酮。若 LH 偏高，通常是原發性性腺功能低下（如睪丸本身受損）時的代償反應。若是由於垂體腫瘤壓迫或高泌乳素血症引發的勃起功能障礙，LH 通常是偏低或處於正常範圍，而非顯著偏高。\n- D: follicle-stimulating hormone(FSH) FSH 主要作用是刺激睪丸的 Sertoli 細胞以促進精子生成。與 LH 類似，在下視丘-垂體軸功能受抑制的垂體瘤病患中，FSH 不會偏高；若是原發性睪丸衰竭代償性升高，其主要影響精子生成，對性慾與勃起功能的直接調控作用也較小。\n\n【核心考點】\n高泌乳素血症（Hyperprolactinemia）對生殖軸的抑制機制：泌乳素抑制下視丘 GnRH 脈衝式分泌，使垂體前葉分泌的 LH、FSH 下降，導致睪丸分泌睪固酮減少，引發男性性功能障礙（性慾低下、勃起障礙）。",
+            "key_point": "高泌乳素（prolactin）會抑制下視丘 GnRH 的分泌，進而減少垂體 LH 和 FSH 的釋放，造成低促性腺激素性腺功能低下（睪固酮降低），在男性引起勃起功能障礙與性慾減退。",
+            "flashcard_front": "腦下垂體腫瘤引起男性性功能障礙（性慾與勃起差）時，最可能升高的是哪種激素？其生理機制為何？",
+            "flashcard_back": "正答為 Prolactin（泌乳素）。\n生理機制：高泌乳素抑制下視丘 GnRH 釋放，使下游 LH、FSH 減少，導致睪丸分泌的睪固酮（testosterone）降低，造成低促性腺激素性腺功能低下（hypogonadotropic hypogonadism）。",
+            "flashcard_summary": "泌乳素升高 -> 抑制 GnRH -> 降低 LH/FSH 及睪固酮 -> 導致男性性慾減退與勃起功能障礙。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q74
+        {
+            "question_id": "109-2_medicine-1_074",
+            "question_number": 74,
+            "explanation": "【題幹解析】\n鐮刀型細胞貧血症（Sickle cell anemia）是由於血紅素 β 鏈（β-globin）基因發生單一核苷酸突變（GAG 變為 GTG），導致編碼的第 6 位氨基酸由原本帶負電荷、具親水性的麩氨酸（Glutamate, Glu）被替換成電中性、強烈親水性較低的非極性纈氨酸（Valine, Val）。在去氧狀態下（deoxy-Hb S），突變產生的纈氨酸會暴露於分子表面，並與鄰近血紅素分子 β 鏈上的另外兩個非極性氨基酸（Phe 85 和 Leu 88）形成一個「疏水性貼片（hydrophobic patch）」。此疏水性貼片會促使多個去氧血紅素 S 分子之間通過疏水性交互作用（hydrophobic interactions）互相吸引並聚集，聚合成不溶性的長纖維結晶。這會使紅血球變形呈鐮刀狀、彈性變差而易發生溶血及微血管阻塞。此聚集過程是由非共價的疏水作用力驅動，不涉及共價鍵、雙硫鍵或離子鍵的增加，故選 C。\n\n【選項詳解】\n- A: 血紅素S間形成共價鍵(covalent bond) 錯誤。去氧血紅素 S 的分子聚集是由弱化學鍵（非共價鍵 the hydrophobic interactions）所驅動的物理聚合過程，分子之間並未建立新的共價鍵連結。\n- B: 血紅素S間形成雙硫鍵(disulfide bond) 錯誤。雙硫鍵是由半胱氨酸（Cysteine）的巰基（-SH）在氧化條件下形成的共價鍵。麩氨酸突變為纈氨酸並不涉及半胱氨酸的引入，且聚集不依賴雙硫鍵形成。\n- C: 血紅素S間的疏水性交互作用(hydrophobic interactions)增加 正確。突變引入的非極性纈氨酸在去氧狀態下會暴露於分子表面，與相鄰血紅素分子的疏水區域結合，通過疏水性交互作用使去氧血紅素 S 聚集成纖維狀沉澱。\n- D: 血紅素S間的離子交互作用(ionic interactions)增加 錯誤。麩氨酸（帶負電荷，能參與離子鍵）被電中性的纈氨酸取代，實際上是消除了原本可能存在的離子交互作用（鹽橋），而非增加離子交互作用。\n\n【核心考點】\n鐮刀型細胞貧血症（HbS）的分子病理機制：β-globin 第 6 位 Glu (親水帶負電) -> Val (疏水非極性) 突變。在去氧狀態下分子表面形成疏水性貼片，通過非共價的疏水性交互作用使去氧 HbS 分子非正常聚集，導致紅血球鐮刀化。",
+            "key_point": "鐮刀型血紅素（HbS）是由於 β 鏈第 6 位親水的 Glu 突變為疏水的 Val。在去氧狀態下，Val 暴露於表面並藉由疏水性交互作用導致 HbS 分子大量聚集沉澱。",
+            "flashcard_front": "鐮刀型細胞貧血症中，HbS 聚集（aggregation）的核心分子力學基礎與氨基酸改變為何？",
+            "flashcard_back": "氨基酸改變：β-globin 第 6 位帶電極性的麩氨酸（Glu）突變為非極性疏水的纈氨酸（Val）。\n分子力學基礎：在去氧狀態下，表面暴露的 Val 與相鄰分子的疏水部位產生疏水性交互作用（hydrophobic interactions），導致分子間異常物理聚合。",
+            "flashcard_summary": "HbS 突變（Glu6Val）使分子表面暴露非極性 Val，在去氧狀態下透過疏水性交互作用增加而異常聚集。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q75
+        {
+            "question_id": "109-2_medicine-1_075",
+            "question_number": 75,
+            "explanation": "【題幹解析】\n異位調控（allosteric regulation）是指多聚體蛋白質（如血紅素或某些異位酶）中的某一個次單元與配體（ligand）結合後，誘發蛋白質發生構形改變（conformational change），進而傳遞到其他未結合的次單元，改變其與配體的結合親和力或催化活性。\n- 當影響其他結合位點親和力的「調控配體」與「被影響的配體」是「同一種化學物質」時，這種現象稱為同向異位性作用（homotropic allosteric interaction），例如氧氣（O2）與血紅素（Hemoglobin）的結合，會促使同一個血紅素分子上的其他氧氣結合位點對氧氣的親和力升高（協同效應 cooperative effect）。\n- 若調控配體與被調控配體是「不同分子」，則稱為異向異位作用（heterotropic allosteric interaction，例如 CO2、2,3-BPG 或 H+ 調控血紅素對氧氣的親和力）。\n同向異位性作用本質上是相同配體在不同位點間的互相影響，故選項 B 最精準地符合同向異位性作用的定義。\n\n【選項詳解】\n- A: 一分子的配體與蛋白質上的結合位點結合後，會影響第二個相同的配體分子結合到同一位點上 錯誤。同一個結合位點（binding site）在一個時間點只能與一個配體分子結合，異位調控的定義是指一個結合位點的結合影響了「該蛋白質上其他不同位置的結合位點」，而非同一個位點。\n- B: 一分子的配體與蛋白質上的結合位點(binding site)結合後,會影響該蛋白質其他配體結合位點與配體的結合能力 正確。這正是異位調控（allosteric effect）的基本定義；而當前後結合的配體是同一種分子時，則稱為「同向（homotropic）」異位作用。\n- C: 二個不同的配體能與同一個蛋白質結合位點(binding site)結合 錯誤。這通常是競爭性結合（competitive binding）或競爭性抑制的機制，與異位調控（allosteric）所強調的「不同位點間的構形傳導」定義不符。\n- D: 配體與蛋白質結合位點結合後，不會造成該蛋白質其他部分的結構變化(conformational change) 錯誤。異位調控的物理基礎正是依賴配體結合後所引發的蛋白質三級/四級結構構形變化（如血紅素從緊密態 T 態轉變為鬆弛態 R 態）。如果不發生結構變化，就無法影響其他位點，故此說法錯誤。\n\n【核心考點】\n同向異位性作用（Homotropic Allosteric Interaction）的特徵：多亞基蛋白質中，相同配體分子在不同位點結合時產生的協同效應（如 O2 與 Hb 結合的協同性），其機制是藉由配體誘導的構形改變（T 態與 R 態的轉換）來調控其他同類結合位點的親和力。",
+            "key_point": "同向異位性作用定義為：一分子的配體結合後，透過誘導構形改變，影響該多亞基蛋白質上「其他位點」與「同種配體」的結合親和力。",
+            "flashcard_front": "蛋白質的同向異位性作用（homotropic allosteric interaction）定義為何？",
+            "flashcard_back": "定義：當一種配體分子結合到蛋白質的某個位點後，會影響該蛋白質上其他位點與「同種配體」的結合能力。\n範例：氧氣與血紅素結合，促使血紅素發生構形改變（T 態 -> R 態），從而提高其餘次單元與氧氣結合的親和力。",
+            "flashcard_summary": "同向異位性作用是指相同配體分子結合到一個亞基，藉由構形改變影響該蛋白質其他亞基對相同配體的親和力。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q76
+        {
+            "question_id": "109-2_medicine-1_076",
+            "question_number": 76,
+            "explanation": "【題幹解析】\nMichaelis-Menten 動力學方程式描述了酶促反應初速度（v0）與受質濃度（[S]）之間的定量關係，其數學運算式為：\n$$v_0 = \\frac{V_{max} \\cdot [S]}{K_m + [S]}$$\n其中 $V_{max}$ 為最大反應速度，$K_m$ 為米氏常數（即反應速度達到最大速度一半時的受質濃度）。\n根據題意，當反應初速度 $v_0 = 0.8 V_{max}$ 時，代入方程式可得：\n$$0.8 V_{max} = \\frac{V_{max} \\cdot [S]}{K_m + [S]}$$\n等號兩邊同時約去非零的 $V_{max}$，得到：\n$$0.8 = \\frac{[S]}{K_m + [S]}$$\n交叉相乘整理方程式：\n$$0.8 \\cdot (K_m + [S]) = [S]$$\n$$0.8 K_m + 0.8 [S] = [S]$$\n$$0.8 K_m = [S] - 0.8 [S]$$\n$$0.8 K_m = 0.2 [S]$$\n解出 $[S]$：\n$$[S] = \\frac{0.8}{0.2} K_m = 4 K_m$$\n因此，當反應速度達到 $0.8 V_{max}$ 時，受質的濃度 $[S]$ 必須為 $4 K_m$，故選 C。\n\n【選項詳解】\n- A: 2 Km 錯誤。當 $[S] = 2 K_m$ 時，代入方程式可得：$v_0 = \\frac{V_{max} \\cdot 2 K_m}{K_m + 2 K_m} = \\frac{2}{3} V_{max} \\approx 0.67 V_{max}$，並非 $0.8 V_{max}$。\n- B: 3 Km 錯誤。當 $[S] = 3 K_m$ 時，代入方程式可得：$v_0 = \\frac{V_{max} \\cdot 3 K_m}{K_m + 3 K_m} = \\frac{3}{4} V_{max} = 0.75 V_{max}$，並非 $0.8 V_{max}$。\n- C: 4 Km 正確。當 $[S] = 4 K_m$ 時，代入方程式可得：$v_0 = \\frac{V_{max} \\cdot 4 K_m}{K_m + 4 K_m} = \\frac{4}{5} V_{max} = 0.8 V_{max}$，完全符合題幹要求。\n- D: 5 Km 錯誤。當 $[S] = 5 K_m$ 時，代入方程式可得：$v_0 = \\frac{V_{max} \\cdot 5 K_m}{K_m + 5 K_m} = \\frac{5}{6} V_{max} \\approx 0.83 V_{max}$，並非 $0.8 V_{max}$。\n\n【核心考點】\n米氏動力學（Michaelis-Menten kinetics）的公式推導：利用米氏方程 $v_0 = V_{max} \\cdot [S] / (K_m + [S])$ 計算特定初速度下的受質濃度與 $K_m$ 的倍數關係。熟記常用比例可加速解題：$[S]=K_m$ 時 $v_0=0.5 V_{max}$；$[S]=3 K_m$ 時 $v_0=0.75 V_{max}$；$[S]=4 K_m$ 時 $v_0=0.8 V_{max}$；$[S]=9 K_m$ 時 $v_0=0.9 V_{max}$。",
+            "key_point": "米氏方程計算：當初速度 $v_0 = 0.8 V_{max}$ 時，受質濃度 $[S]$ 為 $4 K_m$；推導過程為 $0.8(K_m + [S]) = [S] \\Rightarrow [S] = 4 K_m$。",
+            "flashcard_front": "在符合 Michaelis-Menten 動力學的酶促反應中，當反應初速度達到 0.8 Vmax 時，受質濃度 [S] 應為 Km 的多少倍？請列出計算過程。",
+            "flashcard_back": "應為 4 倍（4 Km）。\n計算過程：\n$v_0 = V_{max}[S] / (Km + [S]) \\Rightarrow 0.8 V_{max} = V_{max}[S] / (Km + [S]) \\Rightarrow 0.8 = [S] / (Km + [S]) \\Rightarrow 0.8 Km + 0.8 [S] = [S] \\Rightarrow 0.2 [S] = 0.8 Km \\Rightarrow [S] = 4 Km$。",
+            "flashcard_summary": "當初速度 v0 = 0.8 Vmax 時，代入米氏方程解出受質濃度 [S] 必定等於 4 Km。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q77
+        {
+            "question_id": "109-2_medicine-1_077",
+            "question_number": 77,
+            "explanation": "【題幹解析】\n焦磷酸硫胺素（Thiamine pyrophosphate, TPP）是維生素 B1（Thiamine）在體內的活性輔酶形式。在化學結構上，TPP 的活性部位在於其噻唑環（thiazole ring）上的第 2 位碳原子（C2），該碳原子酸性較強，容易失去質子形成帶負電荷的碳陰離子（carbanion）。這個碳陰離子具有很強的親核性，能進攻丙酮酸（pyruvate）等 α-酮酸的羰基碳（carbonyl carbon）。\n在丙酮酸脫羧酶（pyruvate decarboxylase）催化的非氧化脫羧反應中，丙酮酸與 TPP 結合後釋放二氧化碳（CO2），形成一個穩定的共振中間體——羥乙基-TPP（hydroxyethyl-TPP）。這個羥乙基實質上就是一個被還原並活化的醛基（aldehyde group）。隨後，羥乙基-TPP 解離釋放出乙醛（acetaldehyde）並使 TPP 再生。因此，在這個催化反應中，TPP 所負責轉移與攜帶的基團為活性醛基（在許多生化教科書中亦稱為活性羥乙基，即 hydroxyethyl group，代表活化的醛基結構），故選 C。\n\n【選項詳解】\n- A: methyl group 錯誤。甲基（methyl group）在體內的轉移主要由 S-腺苷甲硫氨酸（S-adenosylmethionine, SAM）或活性葉酸（如 N5-methyl-THF）作為輔酶來負責，與 TPP 的功能無涉。\n- B: acyl group 錯誤。醯基（acyl group，如乙醯基）的轉移主要由輔酶 A（Coenzyme A, CoA-SH）或脂醯胺（lipoamide）來負責，例如在丙酮酸去氫酶複合體（PDH complex）的後續步驟中。\n- C: aldehyde group 正確。TPP 的噻唑環會進攻丙酮酸的酮基，脫羧後攜帶羥乙基（活性醛基形式），最後將其釋放為乙醛，因此 TPP 負責轉移的基團為活性醛基。\n- D: carboxyl group 錯誤。羧基（carboxyl group）的轉移與固定（羧化反應）是由以生物素（biotin，維生素 B7）為輔酶的羧化酶（如 pyruvate carboxylase）來負責的，需要消耗 ATP。\n\n【核心考點】\n維生素與生化輔酶的基團轉移專一性：\n1. TPP (維生素 B1)：轉移「活性醛基」或參與 α-酮酸的脫羧反應。\n2. 生物素 (Biotin)：轉移「羧基（CO2）」。\n3. SAM/葉酸 (B9)：轉移「甲基/一碳單位」。\n4. 輔酶 A (CoA) / 脂醯胺：轉移「醯基」。",
+            "key_point": "焦磷酸硫胺素（TPP）在丙酮酸脫羧酶反應中，透過噻唑環親核進攻，與脫羧產物形成羥乙基-TPP（活性醛基中間體），負責轉移醛基（aldehyde group）。",
+            "flashcard_front": "Thiamine pyrophosphate (TPP) 作為輔酶時，其活性化學結構為何？在丙酮酸脫羧過程中轉移什麼基團？",
+            "flashcard_back": "活性結構：噻唑環（thiazole ring）的 C2 碳陰離子。\n轉移基團：活性醛基（aldehyde group，以羥乙基形式存在）。\n- 轉移羧基：生物素（biotin）。\n- 轉移甲基：SAM / 葉酸。\n- 轉移醯基：輔酶 A / 脂醯胺。",
+            "flashcard_summary": "TPP 藉由噻唑環親核作用參與 α-酮酸脫羧，中間體為羥乙基，在反應中扮演轉移活性醛基的角色。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q78
+        {
+            "question_id": "109-2_medicine-1_078",
+            "question_number": 78,
+            "explanation": "【題幹解析】\n鈷胺素（Cobalamin，即維生素 B12）是所有維生素中結構最為複雜且分子量最大的化合物，其核心結構是由一個鈷離子與類似卟啉的咕啉環（corrin ring）所組成的配位化合物。在自然界中，合成咕啉環需要大約 30 個酶催化步驟。如此龐大且複雜的生合成基因組與酶系統，僅存在於特定的微生物（包括部分細菌和古菌，如 *Propionibacterium freudenreichii*、*Pseudomonas denitrificans* 等）中。包括人類在內的所有脊椎動物、昆蟲等無脊椎動物，以及所有的高等植物，均完全缺乏合成維生素 B12 所需的酶。因此，動物體內的維生素 B12 必須依賴飲食中攝取動物性食物（其體內的維生素 B12 也是由其腸道微生物產生或經由食物鏈累積而來）。故微生物是自然界中唯一能自行合成 cobalamin 的生物，答案選 C。\n\n【選項詳解】\n- A: 脊椎動物 錯誤。脊椎動物（包含哺乳類、鳥類等）完全沒有合成維生素 B12 的酶系統。人體所需的維生素 B12 必須從食物（如肉類、蛋、奶）中攝取，或由大腸內的共生細菌產生（但大腸吸收效率極低，主要仍靠小腸吸收飲食來源）。\n- B: 昆蟲 錯誤。昆蟲等無脊椎動物亦缺乏自行合成維生素 B12 的酶系統，需藉由取食微生物或共生菌來獲得。\n- C: 微生物 正確。自然界中唯有特定細菌和古菌（微生物）擁有合成維生素 B12 所需的完整基因簇和生化路徑，是地球上所有維生素 B12 的根本來源。\n- D: 植物 錯誤。高等植物既不能合成維生素 B12，其生長發育一般也不需要維生素 B12。因此，嚴格的素食者非常容易面臨維生素 B12 缺乏的風險，需要額外補充由細菌發酵生產的維生素 B12。\n\n【核心考點】\n維生素 B12（鈷胺素）的來源特異性：維生素 B12 只能由「特定細菌與古菌（微生物）」合成，高等動物（包括脊椎動物和昆蟲）和植物皆無法自行合成。臨床上嚴格素食者（Vegan）常因缺乏動物性飲食來源而導致維生素 B12 缺乏，引起惡性貧血或神經系統病變。",
+            "key_point": "鈷胺素（維生素 B12）結構極其複雜，自然界中僅有特定細菌 and 古菌（微生物）擁有完整的生合成路徑，動植物均無法自行合成。",
+            "flashcard_front": "Cobalamin（維生素 B12）在自然界中的唯一生合成來源是哪一類生物？高等植物與脊椎動物是否能合成？",
+            "flashcard_back": "唯一來源：微生物（特定細菌與古菌）。\n高等植物與脊椎動物：完全無法合成。\n臨床應用：素食者缺乏動物性食物易導致 B12 缺乏，可能引發巨幼紅血球性貧血（惡性貧血）與亞急性聯合變性神經病變。",
+            "flashcard_summary": "維生素 B12（鈷胺素）只能由特定微生物合成，動植物均無此能力，因此人體必須由膳食動物性來源中獲取。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q79
+        {
+            "question_id": "109-2_medicine-1_079",
+            "question_number": 79,
+            "explanation": "【題幹解析】\n核酸鹼基的去胺作用（Deamination）是指鹼基環上的氨基（-NH2）在水解酶或自發性化學反應中被切除，並被羰基氧（=O）所取代的反應。這在 DNA 損傷與點突變中具有重要的病理生理意義。\n我們來看各鹼基去胺後的產物：\n1. 胞嘧啶（Cytosine）去胺會轉化為尿嘧啶（Uracil）。\n2. 5'-甲基胞嘧啶（5'-methylcytosine）在第 4 位碳上的氨基被去胺（轉化為羰基氧）後，其化學結構正等於胸腺嘧啶（Thymine, 5-methyluracil），故選項 B 正確。此反應是引發 DNA 自發性過渡突變（Transition mutation, C -> T）最常見的分子機制。\n3. 腺嘌呤（Adenine）去胺會轉化為次黃嘌呤（Hypoxanthine）。\n4. 鳥糞嘌呤（Guanine）去胺會轉化為黃嘌呤（Xanthine）。\n比對選項，只有選項 B 的產物關係是正確的去胺作用。\n\n【選項詳解】\n- A: 胞嘧啶(cytosine)變成次黃嘌呤(hypoxanthine) 錯誤。胞嘧啶（Cytosine）去胺後的產物是尿嘧啶（Uracil）。次黃嘌呤（Hypoxanthine）是腺嘌呤（Adenine）去胺後的產物。\n- B: 5'-甲基胞嘧啶(5'-methylcytosine)變成胸腺嘧啶(thymine) 正確。5'-甲基胞嘧啶的結構就是胸腺嘧啶在第 4 位多了一個氨基；因此，當其第 4 位氨基發生去胺水解時，會直接轉變為胸腺嘧啶（Thymine）。這在 CpG 島常導致自發性 C 突變成 T。\n- C: 腺嘌呤(adenine)變成黃嘌呤(xanthine) 錯誤。腺嘌呤（Adenine）去胺後會轉化為次黃嘌呤（Hypoxanthine）。而黃嘌呤（Xanthine）是鳥糞嘌呤（Guanine）去胺後的產物。\n- D: 鳥糞嘌呤(guanine)變成尿嘧啶(uracil) 錯誤。鳥糞嘌呤（Guanine）去胺後轉化為黃嘌呤（Xanthine）。尿嘧啶（Uracil）則是胞嘧啶（Cytosine）去胺後的產物。\n\n【核心考點】\nDNA/RNA 鹼基去胺作用（Deamination）的對應產物規律：\n1. Cytosine -> Uracil（尿嘧啶）\n2. 5'-methylcytosine -> Thymine（胸腺嘧啶）\n3. Adenine -> Hypoxanthine（次黃嘌呤）\n4. Guanine -> Xanthine（黃嘌呤）\n5. Uracil 與 Thymine 之間不是去胺關係，而是甲基化關係。",
+            "key_point": "鹼基去胺反應對應關係：Cytosine變Uracil；5'-methylcytosine變Thymine；Adenine變Hypoxanthine；Guanine變Xanthine。",
+            "flashcard_front": "請列出四種 DNA 鹼基（Cytosine, 5'-methylcytosine, Adenine, Guanine）發生去胺作用（Deamination）後的化學產物。",
+            "flashcard_back": "- Cytosine（胞嘧啶） $\\rightarrow$ Uracil（尿嘧啶）\n- 5'-methylcytosine（5'-甲基胞嘧啶） $\\rightarrow$ Thymine（胸腺嘧啶）\n- Adenine（腺嘌呤） $\\rightarrow$ Hypoxanthine（次黃嘌呤）\n- Guanine（鳥糞嘌呤） $\\rightarrow$ Xanthine（黃嘌呤）",
+            "flashcard_summary": "鹼基去胺產物：C $\\rightarrow$ U；5-me-C $\\rightarrow$ T（重要突變源）；A $\\rightarrow$ Hypoxanthine；G $\\rightarrow$ Xanthine。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        },
+        # Q80
+        {
+            "question_id": "109-2_medicine-1_080",
+            "question_number": 80,
+            "explanation": "【題幹解析】\n在中性 pH 環境下，雙股核酸雜交鏈（hybrid duplexes）的熱相對穩定度（通常以解鏈溫度 melting temperature, Tm 來衡量）高低順序為：RNA-RNA > DNA-RNA > DNA-DNA。\n造成此種穩定度差異的物理與化學機制主要有三：\n1. 2'-OH 基團的影響：RNA 的核糖在 2' 位置具有羥基（-OH），而 DNA 的去氧核糖則無。這個 2'-OH 基團能與鄰近的磷酸二酯骨架或水分形成額外的氫鍵，從而鎖定並穩定雙鏈結構。\n2. 螺旋構形的差異：富含 RNA 的雙鏈（RNA-RNA 及 DNA-RNA）在熱力學上傾向於形成 A 型雙螺旋（A-form helix），而雙股 DNA 通常形成 B 型雙螺旋（B-form helix）。A 型雙螺旋中，相鄰鹼基之間的堆疊作用力（base-stacking interactions）比 B 型雙螺旋更為緊密且強烈，顯著提高了雙鏈的熱穩定性。\n3. 偶極矩與溶劑效應：RNA-RNA 雙鏈在水分中的熱力學自由能變化（$\\Delta G$）最負，表示其結合狀態最為穩定。\n綜合上述，熱穩定度排序為 RNA-RNA > DNA-RNA > DNA-DNA，故選 D。\n\n【選項詳解】\n- A: DNA-DNA>RNA-RNA>DNA-RNA 錯誤。DNA-DNA 在三者中穩定度最低，因為其缺乏 2'-OH 且主要以 B 型螺旋存在，鹼基堆疊作用力小於 A 型螺旋的 RNA 雙鏈。\n- B: RNA-DNA>RNA-RNA>DNA-DNA 錯誤。RNA-RNA 雙鏈的穩定度高於 DNA-RNA 雜交雙鏈，因為 RNA-RNA 具有完全雙側的 2'-OH 所提供的額外穩定氫鍵與更完美的 A 型構形。\n- C: RNA-RNA>DNA-DNA>DNA-RNA 錯誤。DNA-RNA 雜交雙鏈的熱穩定度高於 DNA-DNA。因為 DNA-RNA 偏向 A 型構形，且具有單股 RNA 提供的 2'-OH 交互作用，比純 DNA-DNA 更穩定。\n- D: RNA-RNA>DNA-RNA>DNA-DNA 正確。完全符合熱力學測定結果。RNA 的 2'-OH 提供了額外氫鍵穩定度，且富含 RNA 的 A 型雙螺旋具有更強的鹼基堆疊力，故穩定度最高，DNA-DNA 最低。\n\n【核心考點】\n雙股核酸的熱力學穩定度比較：在中性 pH 下，熱穩定度順序為 RNA-RNA > DNA-RNA > DNA-DNA。其根本原因在於 RNA 的 2'-OH 基團能提供額外的穩定作用力，且 RNA 偏好的 A 型雙螺旋比 DNA 的 B 型雙螺旋具有更緊密、更強的鹼基堆疊力（base-stacking force）。",
+            "key_point": "中性 pH 下熱穩定度順序為 RNA-RNA > DNA-RNA > DNA-DNA；主因是 RNA 核糖 2'-OH 能提供額外氫鍵，且 A 型螺旋的鹼基堆疊力強於 B 型螺旋。",
+            "flashcard_front": "在中性 pH 下，RNA-RNA、DNA-RNA、DNA-DNA 三種雙股核酸的熱穩定度（Tm）大小順序為何？請說明兩點關鍵物理化學成因。",
+            "flashcard_back": "順序：RNA-RNA > DNA-RNA > DNA-DNA。\n成因：\n1. 2'-OH 基團：RNA 核糖 2' 位的羥基可提供額外的氫鍵，穩定骨架。\n2. A型螺旋構形：富含 RNA 的雙股偏向 A 型螺旋，其鹼基堆疊作用力（base-stacking force）強於 DNA-DNA 偏向的 B 型螺旋。",
+            "flashcard_summary": "熱穩定度：RNA-RNA > DNA-RNA > DNA-DNA。RNA 的 2'-OH 氫鍵與 A 型螺旋強鹼基堆疊力是其高穩定性的關鍵。",
+            "review_status": "completed",
+            "explanation_model": "antigravity",
+            "explanation_generated_at": timestamp,
+            "manual_review_notes": ""
+        }
+    ]
+    
+    result = {
+        "source_file": "public/data/exams/109-2/medicine-1.json",
+        "dataset_id": "109-2_medicine-1",
+        "range": "q071-q080",
+        "updates": updates
+    }
+    
+    with open(target_file, 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+        
+    print(f"Successfully generated {target_file}")
+    
+    # Simple verification
+    assert len(result["updates"]) == 10, "Should have exactly 10 questions"
+    for q in result["updates"]:
+        q_num = q["question_number"]
+        assert 71 <= q_num <= 80, f"Question number {q_num} out of range"
+        # Check required fields
+        required = ["question_id", "question_number", "explanation", "key_point", "flashcard_front", "flashcard_back", "flashcard_summary", "review_status", "explanation_model", "explanation_generated_at", "manual_review_notes"]
+        for field in required:
+            assert field in q, f"Missing field {field} in question {q_num}"
+            
+    print("Verification passed! All criteria met.")
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-1.json",
+  "dataset_id": "109-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n梅尼爾氏症候群（Ménière's disease）的主要病理生理機轉為內耳的膜迷路積水（endolymphatic hydrops）。內淋巴液過度積聚導致液壓異常升高，進而異常刺激內耳中負責平衡感覺的前庭系統（特別是半規管與前庭的毛細胞），傳送錯誤的平衡訊號至中樞，引發強烈眩暈。\n\n【選項詳解】\n- A. 正確。內耳（Inner ear）包含前庭、半規管及耳蝸。梅尼爾氏症的病生理機轉是內淋巴積水（endolymphatic hydrops），直接導致內耳中的半規管與前庭器官壓力異常增高，進而刺激毛細胞（hair cells），引發陣發性眩暈、耳鳴與漸進性聽力喪失。因此眩暈的最直接異常刺激來源為內耳。\n- B. 錯誤。聽覺皮質（Auditory cortex）位於大腦顳葉，負責接收和處理來自耳蝸的神經訊號以產生聽覺認知，並不直接感受內淋巴壓力變化，也不是梅尼爾氏症眩暈症狀的原始刺激受體部位。\n- C. 錯誤。小腦（Cerebellum）是中樞神經系統中整合平衡與運動協調的器官，雖然梅尼爾氏症引發的前庭異常訊號會傳入小腦，但小腦本身並非梅尼爾氏症中內淋巴積水直接壓迫與異常刺激的物理部位。\n- D. 錯誤。視神經交叉（Optic chiasm）為視覺傳導路徑中兩側視神經部分纖維交叉的結構，與內耳平衡覺（前庭系統）的病理生理機轉無關，其受損主要導致雙顳側偏盲。\n\n【核心考點】\n梅尼爾氏症候群（Ménière's disease）之病理機轉為內淋巴積水（endolymphatic hydrops），直接刺激內耳前庭與半規管的感受器引發眩暈，病變定位於外周的前庭器官（內耳），而非中樞神經系統。",
+      "key_point": "梅尼爾氏症候群由內耳內淋巴積水直接刺激前庭器官（內耳）引起眩暈，屬於周邊性前庭病變。",
+      "flashcard_front": "梅尼爾氏症候群（Ménière's disease）產生眩暈的病理機轉與病變部位？",
+      "flashcard_back": "病理機轉為內淋巴積水（endolymphatic hydrops），直接異常刺激位於「內耳」的前庭與半規管毛細胞，造成周邊性眩暈。",
+      "flashcard_summary": "梅尼爾氏症候群 -> 內淋巴積水 -> 異常刺激內耳前庭器官 -> 眩暈。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n哺乳動物的晝夜節律（生物時鐘）主要由下視丘的視交叉上核（Suprachiasmatic nucleus, SCN）所主控。SCN 接收來自視網膜上含有黑視素（melanopsin）的節細胞之直接光照訊號，並將該訊息同步至外在環境的光暗週期，從而調節松果體分泌褪黑激素及其他全身性生理與行為節律。\n\n【選項詳解】\n- A. 錯誤。齒狀回（Dentate gyrus）是海馬迴（Hippocampus）的一部分，主要參與學習、記憶的形成與空間導航，以及成體神經發生（adult neurogenesis），與晝夜節律學理上無直接關係。\n- B. 正確。視交叉上核（Suprachiasmatic nucleus, SCN）位於下視丘，為哺乳動物的主生物時鐘（master circadian pacemaker）。它透過視網膜下視丘路徑（retinohypothalamic tract）直接接收環境光照訊息，調控多種生理功能的 24 小時晝夜節律。\n- C. 錯誤. 蒼白球（Globus pallidus）是基底核（Basal ganglia）的組成部分，主要負責軀體運動的規劃與協調，屬於運動控制迴路的一部分，並不調控晝夜節律。\n- D. 錯誤。孤立核（Solitary nucleus）位於延腦，是內臟感覺（包括味覺、心血管與呼吸的化學與壓力感受器傳入神經）的重要中繼站，不參與主導人體晝夜節律的設定。\n\n【核心考點】\n下視丘的視交叉上核（suprachiasmatic nucleus, SCN）是調控哺乳動物晝夜節律（circadian rhythms）的核心中樞，受視網膜傳入光照訊號的同步化調節。",
+      "key_point": "晝夜節律的中樞調控部位是位於下視丘的視交叉上核（SCN）。",
+      "flashcard_front": "調控晝夜節律（circadian rhythms）的 master pacemaker 結構為何？",
+      "flashcard_back": "位於下視丘的「視交叉上核」（suprachiasmatic nucleus, SCN），藉由視網膜下視丘路徑接收光照訊號進行同步。",
+      "flashcard_summary": "晝夜節律調控 -> 視交叉上核 (SCN)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n內耳的前庭系統包括耳石器（otolith organs，即橢圓囊 utricle 與球囊 saccule）與半規管。其中，耳石器主要負責偵測線性加速度與重力變化。球囊（saccule）的耳石斑（macula）在解剖上呈接近垂直方向排列，當身體發生垂直位移（如電梯上下加速、減速）時，重力與慣性使耳石相對於毛細胞移位，產生神經興奮，進而引發姿勢反射以維持平衡。\n\n【選項詳解】\n- A. 錯誤。橢圓囊（Utricle）的耳石斑呈接近水平取向（horizontal orientation），主要偵測水平面方向的線性加速度（如前後、左右的位移）和頭部傾斜，非垂直方向線性加速度的主要感受器。\n- B. 正確。球囊（Saccule）的耳石斑呈接近垂直取向（vertical orientation），主要偵測垂直方向的線性加速度（如電梯上下加速、減速引起的垂直位移）和重力變化，並將訊號傳送至中樞以啟動前庭脊髓反射維持姿勢平衡。\n- C. 錯誤。半規管（Semicircular ducts）包括前、後、外三個半規管，其壺腹嵴主要負責偵測旋轉角加速度（angular acceleration），而非偵測直線的線性位移。\n- D. 錯誤。耳蝸（Cochlea）內有柯蒂氏器（organ of Corti），專門負責將聲波的機械振動轉換為神經電訊號傳遞至聽覺中樞，與平衡覺或加速度的偵測完全無關。\n\n【核心考點】\n耳石器官（otolith organs）的解剖取向與生理功能分工：球囊（saccule）呈垂直取向，主要偵測垂直線性加速度（如升降梯位移）；橢圓囊（utricle）呈水平取向，主要偵測水平線性加速度。",
+      "key_point": "球囊（saccule）主要偵測垂直方向的線性加速度；橢圓囊（utricle）主要偵測水平方向的線性加速度。",
+      "flashcard_front": "內耳中橢圓囊（utricle）與球囊（saccule）偵測線性加速度方向的差異？",
+      "flashcard_back": "橢圓囊（utricle）呈水平排列，偵測「水平」線性加速度（如前後左右位移）；球囊（saccule）呈垂直排列，偵測「垂直」線性加速度（如升降梯垂直位移）。",
+      "flashcard_summary": "垂直線性加速度偵測 -> 球囊 (saccule)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n單單位平滑肌（如胃腸道、子宮、小血管壁的平滑肌）細胞間有大量的間隙接合（gap junctions），使電訊號能快速擴散，整塊肌肉呈現合胞體（syncytium）般運作。單單位平滑肌具有自發性慢波電位（pacemaker activity），使其即使在缺乏外在神經或激素刺激時，仍能維持微弱且持續的基礎張力（tone）。相反地，多單位平滑肌（如睫狀肌、虹膜、豎毛肌）的細胞相互獨立，缺乏間隙接合，沒有自發性動作電位，其收縮高度依賴外在自主神經釋放神經傳遞物質或激素的刺激。\n\n【選項詳解】\n- A. 正確。單單位（single-unit）平滑肌具自發性慢波與動作電位，且細胞間因間隙接合（gap junctions）而電偶聯，能在沒有外在刺激下持續維持低強度的基礎張力（myogenic tone）。多單位（multi-unit）平滑肌的各個肌細胞彼此獨立，需仰賴神經或化學物質的直接刺激才會收縮，平時無自發性張力。\n- B. 錯誤。應為單單位（single-unit）平滑肌「會」產生自發性動作電位（具有起搏細胞 pacemaker cells 產生慢波電位，如腸道 Cajal 間質細胞），而多單位（multi-unit）平滑肌「不會」產生自發性電位（需由自主神經系統直接支配與活化）。\n- C. 錯誤。當單單位（single-unit）平滑肌受到拉伸時，細胞膜上的機械敏感性離子通道會被開啟而引發去極化，促使肌肉產生收縮反應（稱為拉伸-收縮反射 stretch-induced contraction，如膀胱和胃腸充盈時的收縮）。多單位（multi-unit）平滑肌被拉長時，則不會產生這種主動性的自發收縮反應。\n- D. 錯誤。兩者之收縮強度與活性皆會受到激素（hormones）、局部化學因子（如 pH、O₂、CO₂）或神經傳遞物質的調節。例如，多單位平滑肌如虹膜擴大肌、睫狀肌等，或是單單位平滑肌如子宮和血管，均會廣泛響應多種循環激素（如腎上腺素、催產素等）的調控。\n\n【核心考點】\n單單位平滑肌具有間隙接合（電共軛合胞體）、慢波電位（自發性動作電位）、牽張引發收縮（stretch-induced contraction）及自發性張力（myogenic tone）；多單位平滑肌無間隙接合、無自發電位、收縮由神經或激素直接啟動。",
+      "key_point": "單單位平滑肌具有間隙接合和自發性慢波電位，在無外在刺激下仍能維持基礎張力；多單位平滑肌細胞相互獨立，無自發張力。",
+      "flashcard_front": "單單位（single-unit）與多單位（multi-unit）平滑肌在自發性動作電位與張力維持上的主要差異？",
+      "flashcard_back": "單單位平滑肌細胞間有間隙接合，會產生自發性電位，且在無外在刺激下仍能維持基礎張力；多單位平滑肌無自發性電位與張力，其收縮需由神經或激素驅動。",
+      "flashcard_summary": "平滑肌差異 -> 単單位具自發張力與電位，多單位需仰賴外在刺激。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題詢問因骨骼肌突觸後膜之菸鹼型乙醯膽鹼受體（nicotinic acetylcholine receptor, nAChR）功能性數量減少，且可用乙醯膽鹼酯酶抑制劑（acetylcholinesterase inhibitor, AChEI）治療的疾病。重症肌無力（Myasthenia gravis）是典型的自體免疫疾病，患者體內因產生針對突觸後膜 nAChR 的自體抗體，導致受體降解加速與結構損毀；使用 AChEI 可延緩突觸間隙內乙醯膽鹼的分解，增加其濃度以補償受體不足造成的傳導障礙。\n\n【選項詳解】\n- A. 錯誤。肌肉痙攣（Muscle cramps）是肌肉發生非自主的強直性收縮，通常與局部肌肉疲勞、脫水、電解質失衡（如低鈉、低鎂）或運動神經元異常興奮有關，並非突觸後膜菸鹼型受體減少所致，其首要治療通常為拉伸肌肉或補充電解質，而非使用乙醯膽鹼酯酶抑制劑。\n- B. 錯誤。低鈣性抽搐（Hypocalcemic tetany）是因為細胞外液鈣離子濃度降低，導致電壓敏感性鈉通道閾電位下移，神經細胞與骨骼肌纖維的興奮性異常增高，進而產生自發性放電和抽搐。其病因與膽鹼受體缺失無關，治療應以補鈣（如注射葡萄糖酸鈣 calcium gluconate）為主。\n- C. 錯誤。肌肉營養不良症（Muscular dystrophy，如 Duchenne 型）為基因突變造成的遺傳性肌肉變性疾病，主因是肌肉結構蛋白（如 dystrophin 基因）缺陷導致肌細胞崩解萎縮，與突觸後膜膽鹼受器的數量缺失無關，且無法使用乙醯膽鹼酯酶抑制劑進行有效治療。\n- D. 正確。重症肌無力（Myasthenia gravis）為抗體破壞突觸後膜菸鹼型受體（nAChR）所致的自體免疫疾病。使用乙醯膽鹼酯酶抑制劑（如 pyridostigmine）能阻斷乙醯膽鹼的分解，提高神經肌肉接頭處的乙醯膽鹼濃度，以代償減少的受體並改善肌無力症狀。\n\n【核心考點】\n重症肌無力（Myasthenia gravis, MG）的病理生理學機轉（突觸後膜菸鹼型乙醯膽鹼受器 nAChR 被自體抗體破壞而減少）與藥物治療原理（使用乙醯膽鹼酯酶抑制劑 AChEI 增加突觸間隙 ACh 濃度）。",
+      "key_point": "重症肌無力（Myasthenia gravis）由於菸鹼型乙醯膽鹼受體減少引發肌無力，可使用乙醯膽鹼酯酶抑制劑治療。",
+      "flashcard_front": "重症肌無力（myasthenia gravis）的病生理機制與首選對症治療藥物？",
+      "flashcard_back": "病機是突觸後膜菸鹼型乙醯膽鹼受體（nAChR）遭受自體抗體破壞；對症治療常使用乙醯膽鹼酯酶抑制劑（如 pyridostigmine）以提高突觸間隙 ACh 濃度。",
+      "flashcard_summary": "重症肌無力 -> 乙醯膽鹼受體減少 -> 以乙醯膽鹼酯酶抑制劑（AChEI）治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題詢問與凝血機制調控最無關的蛋白質。凝血系統包括促進血液凝固的凝血因子（如 fibrinogen、thrombin）以及防止血栓過度蔓延的抗凝調控因子（如 protein C）。C-反應蛋白（C-reactive protein, CRP）是由肝臟合成的急性期發炎反應蛋白，主要用作全身性發炎或感染的臨床指標，並不直接參與凝血或抗凝血梯級的生化反應。因此選項 C 是最無關的例外。\n\n【選項詳解】\n- A. 錯誤。纖維蛋白原（Fibrinogen，即凝血因子 I）是由肝臟製造的溶性血漿蛋白。在凝血反應的最後階段，纖維蛋白原會被凝血酶（thrombin）剪切水解成不溶性的纖維蛋白（fibrin）單體，這些單體聚合交聯後形成穩定的血栓。因此它與凝血調控密切相關，並非與此最無關者。\n- B. 錯誤。蛋白質 C（Protein C）是一種由維生素 K 依賴的抗凝血因子。當它被凝血酶-血栓調節素複合物（thrombin-thrombomodulin complex）活化為活化蛋白質 C（APC）後，能選擇性地水解失活凝血因子 Va 和 VIIIa，從而抑制凝血酶的產生，起關鍵的負回饋抗凝調控作用。因此它與凝血調控密切相關。\n- C. 正確。C-反應蛋白（C-reactive protein, CRP）是臨床上常見的急性發炎反應蛋白（acute-phase reactant），主要在發炎、組織損傷或感染時由肝臟細胞受 IL-6 等細胞激素刺激後合成釋放，不直接參與凝血瀑布（coagulation cascade）或其直接抗凝調控。這是最與凝血無關的選項。\n- D. 錯誤。凝血酶（Thrombin，即活性凝血因子 IIa）是凝血瀑布的樞紐。它能將纖維蛋白原轉化為纖維蛋白，並活化血小板以及凝血因子 V、VIII、XI、XIII，具有強烈的促凝血作用；同時，它也能活化 protein C 啟動抗凝機制，是調控凝血過程的核心分子。因此它與凝血調控高度相關。\n\n【核心考點】\n凝血瀑布的核心促進因子（如 fibrinogen、thrombin）與內源性抗凝調控蛋白（如 protein C）皆直接參與凝血的動態平衡；而 C-反應蛋白（CRP）是發炎指標蛋白，不直接參與凝血瀑布的級聯反應。",
+      "key_point": "C-反應蛋白（CRP）是急性期發炎反應指標，不直接參與凝血及抗凝血瀑布的調控；而 fibrinogen、protein C 和 thrombin 皆直接參與此機制。",
+      "flashcard_front": "比較 fibrinogen, protein C, thrombin, 及 C-reactive protein (CRP) 與凝血機制的相關性？",
+      "flashcard_back": "Fibrinogen（因子 I）與 thrombin（因子 IIa）為促凝血因子；Protein C 為內源性抗凝血蛋白；而「C-reactive protein (CRP)」僅為急性期發炎反應指標，與凝血機制調控最無關。",
+      "flashcard_summary": "凝血調控無關 -> C-反應蛋白 (CRP)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n人體心血管系統的血液分布非常不均勻。在正常安静的生理狀態下，體循環的靜脈系統（包括大靜脈、小靜脈、靜脈竇）由於管壁薄且順應性（compliance）極大，在承受低壓的情況下可容納全身大約 60% 至 65% 的總血液容積，因此在血流動力學中被稱為「容量血管」（capacitance vessels）。而動脈系統、微血管以及心臟腔室內的血量所佔比例均遠低於靜脈系統。\n\n【選項詳解】\n- A. 錯誤。心臟腔室在正常舒張期末所含的血液容積以及肺循環的總血量，合計僅佔全身總血量的約 15% 左右。雖然心臟是循環的動力幫浦，但其常態儲血量遠小於體循環的靜脈系統。\n- B. 錯誤。體循環動脈系統（包括主動脈、分配動脈、小動脈）主要作用是承受高壓並將血液快速輸送至全身，管壁富含彈性纖維與平滑肌，順應性很低。在正常情況下，動脈系統僅容納全身總血量的約 13% 至 15%。\n- C. 正確。靜脈系統（Veins）管壁薄且擴張性高，順應性約為動脈的 24 倍。在安靜狀態下，約有 60% 到 65% 的血液儲存於靜脈與小靜脈中。因此靜脈是人體最大的血液儲存庫（capacitance reservoir）。\n- D. 錯誤。微血管（Capillaries）管壁極薄且管徑細小，雖然全身微血管的總表面積與總截面積非常龐大以利於物質交換，但在任一瞬間，全身微血管中所容納的實際血液容積僅佔全身總血量的約 5% 左右。\n\n【核心考點】\n體循環靜脈系統具有高順應性（compliance），在正常安靜狀態下容納全身 60-65% 的血液，故稱為容量血管（capacitance vessels）；動脈系統為阻力/壓力血管，微血管為交換血管。",
+      "key_point": "正常情況下，靜脈系統容納全身約 60%–65% 的血液，是體內最大的血液容積分布處（容量血管）。",
+      "flashcard_front": "體循環中，何種血管系統正常安靜下所容納的血液容積最大？",
+      "flashcard_back": "「靜脈系統」（包括靜脈與小靜脈），因管壁順應性大，容納了全身約 60%–65% 的血量，被稱為容量血管（capacitance vessels）。",
+      "flashcard_summary": "血液容積最大系統 -> 靜脈系統（容量血管，佔 60-65%）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n右心房壓（Right Atrial Pressure, RAP）主要由兩個因素決定：第一是心臟將血液泵出右心房進入肺循環的能力（與 RAP 呈反比）；第二是外周血液回流至右心房的靜脈回流量（與 RAP 呈正比）。小動脈擴張降低阻力會使靜脈回流增加，從而傾向於使右心房壓升高。本題官方最後公佈之更正答案為 A 或 C 均給分，然其背後學理機轉各有其探討代償之角度。\n\n【選項詳解】\n- A. 說明此選項為何正確或錯誤。在基本生理學模型中，加強心臟的幫浦功能（心肌收縮力增強、心輸出量增加）會更有效地將右心房的血液抽往右心室與肺循環，此作用通常會導致右心房壓（RAP）降低而非升高。然而，官方更正此選項亦給分，可能是考量到在部分代償狀況下，若心輸出量增加伴隨劇烈交感神經興奮，使全身靜脈強烈收縮並大幅增加靜脈回流，在特定生理平衡點下亦可能伴隨 RAP 的升高。\n- B. 錯誤。降低靜脈回流（Venous return）意味著流回右心房的血量減少，這會直接導致右心房的充盈量下降，進而使右心房壓降低，而非升高。\n- C. 說明此選項為何正確或錯誤. 當全身小動脈擴張、周邊血管阻力（TPR）降低時，動脈血流向靜脈側的阻礙減少，會促使靜脈回流量增加。當流入右心房的血流量增多時，在心臟功能固定的前提下，右心房的充盈壓與右心房壓會因而升高。此選項為官方原本公佈的標準答案。\n- D. 錯誤。大量失血後，全身總血液量顯著減少，平均體循環充盈壓（MSFP）下降，導致靜脈回流量銳減，這會使右心房壓顯著降低（臨床上低血容性休克時 RAP/CVP 通常極低），不可能造成右心房壓升高。\n\n【補充提醒】\n本題官方答案經疑義處理後更正為：答 A 或 C 選項者皆給分。在標準血流動力學曲線上（Guyton's venous return and cardiac output curves），加強心臟幫浦功能會使右心房壓降低；而降低周邊阻力（擴張小動脈）會使靜脈回流曲線向右上方移動，傾向使右心房壓升高。作答時應以 C 較符合靜態血流動力學之預期，但須注意官方在代償機制認定上放寬了 A 選項之正確性。\n\n【核心考點】\n右心房壓（RAP）受到心臟泵血功能（呈反比關係）與靜脈回流量（呈正比關係）的雙重調節；小動脈擴張降低周邊阻力會增加靜脈回流，進而升高右心房壓。",
+      "key_point": "右心房壓主要受心臟泵血能力與靜脈回流量調節。小動脈擴張（降阻力）會增加靜脈回流，進而可能使右心房壓升高。官方更正 A 或 C 均給分。",
+      "flashcard_front": "影響右心房壓（RAP）的血流動力學決定因子？",
+      "flashcard_back": "1. 心臟將血液泵出右心房的能力（與 RAP 呈反比）；2. 靜脈回流量（與 RAP 呈正比）。小動脈舒張降低阻力會使靜脈回流增加，進而傾向使右心房壓升高。",
+      "flashcard_summary": "右心房壓調節 -> 受心臟泵血能力（反比）與靜脈回流量（正比）影響。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": [
+        "官方答案疑義：第58題原答案為C，更正為A、C給分。詳解已加入說明與補充提醒。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n舉重屬於高強度的阻力運動（阻力訓練），骨骼肌在此過程中進行強烈的等長收縮（isometric contraction）。當骨骼肌強烈收縮時，肌纖維內產生的張力會直接在物理上機械性地壓迫穿行於肌肉中的小動脈和微血管，阻礙血液流動。這種血管的外部機械性壓迫會使血管管腔變窄甚至閉塞，從而導致血管周邊總阻力（TPR）在當下劇烈升高。\n\n【選項詳解】\n- A. 正確。舉重為典型的等長收縮（isometric contraction）運動。肌肉強烈收縮時，內部的高肌內壓（intramuscular pressure）會直接物理性地機械壓迫行經其間的骨骼肌血管，使小動脈管徑縮小、阻力大幅增加，進而導致全身血管周邊總阻力（TPR）及血壓在運動當下急劇上升。\n- B. 錯誤。心輸出量增加和血壓上升是心血管系統對運動刺激的生理反應結果，而非導致血管周邊總阻力（TPR）上升的物理原因。事實上，若僅是心輸出量增加，若無血管收縮，TPR 不會主動上升。\n- C. 錯誤。肌肉在運動過程中產生的局部代謝物因子（如乳酸、腺苷、K⁺、H⁺ 和一氧化氮 NO 等）會促使局部血管平滑肌舒張，其生理作用是降低局部阻力以增加肌肉血流，與題幹所問的當下 TPR 上升方向相反。\n- D. 錯誤。感壓受器反射（Baroreceptor reflex）的正常生理功能是透過調節自主神經來穩定血壓（當血壓上升時引發副交感興奮、交感抑制以降低血壓與阻力）。在阻力運動時，中樞神經會將感壓反射的控制點重設（reset）至較高水平以容許血壓上升，但該反射本身送出之訊號調節絕非導致 TPR 上升的物理主因。\n\n【核心考點】\n高強度阻力運動（等長收縮）中，肌肉強烈收縮所產生的機械性壓迫（intramuscular compression）是造成局部及全身總外周阻力（TPR）當下急劇升高的主要物理生理機制。",
+      "key_point": "舉重等強烈等長收縮運動中，肌肉收縮對行經血管的機械壓迫是造成當下 TPR 急劇上升的最主要原因。",
+      "flashcard_front": "舉重（等長收縮運動）時，造成周邊總阻力（TPR）及血壓當下急劇上升的首要機制為何？",
+      "flashcard_back": "骨骼肌強烈收縮產生的機械壓迫（壓迫肌肉內的小動脈與微血管），使得血管阻力物理性地大幅增加。",
+      "flashcard_summary": "舉重 TPR 上升原因 -> 骨骼肌收縮機械性壓迫血管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考查肺界面活性劑（pulmonary surfactant）的生理學特徵。肺界面活性劑主要由第二型肺泡細胞分泌，其核心物理效應是「降低」液-氣界面的表面張力。這能穩定大小肺泡（防止小肺泡萎陷）、增加肺順應性並減少呼吸功。因此選項 D 稱其可「增加」表面張力是錯誤的，符合題意。\n\n【選項詳解】\n- A. 肺界面活性劑主要由第二型肺泡細胞（Type II alveolar cells）合成並儲存在其細胞質的板層體中，隨後經胞吐作用釋放到肺泡表面的液膜中。\n- B. 根據拉普拉斯定律（P = 2T/r），若缺乏肺界面活性劑，液-氣界面表面張力會大幅升高，導致小肺泡的萎陷壓力大增，氣體流向大肺泡，使小肺泡極易塌陷（atelectasis）而不易擴張（如新生兒呼吸窘迫症候群 NRDS）。\n- C. 肺順應性（compliance）是指肺擴張的容易程度。界面活性劑藉由降低表面張力，消除了大部分因液體薄膜吸引力產生的回縮力，從而使肺部更容易被吹脹，即增加了肺順應性。\n- D. 正確答案（敘述錯誤）。肺界面活性劑（主要成分為 DPPC）具有雙親性，能穿插在水分子之間干擾其氫鍵，從而大幅「降低」肺泡液-氣界面的表面張力，而非「增加」表面張力。\n\n【核心考點】\n肺界面活性劑的生理機制（降低表面張力、穩定肺泡大小、增加肺順應性、由第二型肺泡細胞分泌）。",
+      "key_point": "肺界面活性劑由第二型肺泡細胞分泌，作用是降低表面張力，防止肺泡塌陷並增加肺順應性。",
+      "flashcard_front": "肺界面活性劑（surfactant）的核心生理功能與分泌細胞？",
+      "flashcard_back": "可增加表面張力。界面活性劑的作用是「降低」肺泡表面張力（surface tension），藉此穩定不同大小的肺泡並「增加」肺的順應性。",
+      "flashcard_summary": "肺界面活性劑 -> 第二型肺泡細胞分泌；主要作用為降低表面張力、增加順應性、防止萎陷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:47:10+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
