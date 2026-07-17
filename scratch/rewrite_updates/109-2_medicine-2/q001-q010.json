@@ -1,0 +1,139 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-2.json",
+  "dataset_id": "109-2_medicine-2",
+  "range": { "start": 1, "end": 10 },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題詢問在冬季（12月中旬）引發急性呼吸道感染、伴隨肌肉酸痛、且隨後併發細菌性肺炎及肌炎的病原體。由於該病原體傳染力極強，導致同住家人在短時間內（一星期後）出現群聚感染，這些特徵高度符合流行性感冒病毒感染之臨床與流行病學表現。\n\n【選項詳解】\n- A. 錯誤。麻疹病毒主要透過空氣或飛沫傳播，臨床上以高燒、咳嗽、鼻炎、結膜炎等前驅症狀為主，並在口腔黏膜出現特異性的柯氏斑（Koplik spots），隨後出現由耳後擴散至全身的紅疹，與本題無皮疹且伴隨肌炎之表現不符。\n- B. 錯誤。呼吸道細胞融合病毒（RSV）是嬰幼兒細支氣管炎（bronchiolitis）與肺炎的主要病原，臨床主要表現為喘鳴（wheezing）與呼吸急促，雖亦常見於冬季，但極少在兒童引起肌炎，且非本題主要考量的臨床特徵。\n- C. 正確。流行性感冒病毒主要於冬季流行，會引發發燒、頭痛、肌肉酸痛及乾咳等全身性症狀；其會破壞呼吸道黏膜上皮，使患者容易繼發細菌性肺炎（如金黃色葡萄球菌或肺炎鏈球菌感染），且在兒童中併發肌炎（myositis，特別是雙側小腿肌肉劇痛）是其特有的併發症。\n- D. 錯誤。腸病毒71型在台灣通常於夏季至初秋流行，臨床主要引起手足口病（hand-foot-mouth disease）及疱疹性咽峽炎（herpangina），重症則以中樞神經系統受累（如腦幹腦炎）為主，而非以肌肉酸痛及肌炎為主要表現。\n\n【核心考點】\n流行性感冒病毒（Influenza virus）在冬季流行，其典型臨床特徵為全身肌肉酸痛、高傳染性（家庭群聚），且兒童感染後可能併發肌炎及繼發性細菌性肺炎。",
+      "key_point": "流行性感冒病毒常在冬季流行，兒童感染後易併發肌炎與繼發性細菌性肺炎。",
+      "flashcard_front": "流行性感冒病毒的典型兒童併發症與流行季節為何？",
+      "flashcard_back": "流行性感冒病毒主要在冬季流行，兒童感染後易併發肌炎（小腿肌痛）及繼發性細菌性肺炎（如金黃色葡萄球菌或肺炎鏈球菌）。",
+      "flashcard_summary": "流感病毒併發症（肌炎、繼發細菌性肺炎）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題探討分子生物學技術（DNA技術）在結核分枝桿菌診斷上的局限性。雖然核酸偵測可大幅縮短診斷時間並提供高敏感度與特異性，但目前DNA技術僅能針對已知的抗藥基因突變（如偵測rpoB基因突變來預測rifampin抗藥性）進行篩檢，無法完全取代傳統藥敏試驗以提供完整、精確的表型抗藥性分析，故D為不包括的優點。\n\n【選項詳解】\n- A. 錯誤。此為DNA技術的優點。藉由專一性引子進行聚合酶連鎖反應（PCR）等核酸擴增技術，能直接針對結核分枝桿菌的特異性基因片段（如IS6110）進行偵測，可有效避免與其他非結核分枝桿菌（NTM）產生交叉反應，顯著提升菌種鑑定之專一性。\n- B. 錯誤。此為DNA技術的優點。傳統抹片鏡檢需要每毫升痰液中含有約10,000隻以上的細菌才易被檢出，而核酸擴增技術能將極微量的DNA複製放大，因此在體液中細菌量極低時仍有極高的偵測敏感度。\n- C. 錯誤。此為DNA技術的優點。結核分枝桿菌的倍增時間長（約15至20小時），傳統培養法（如固體培養基）通常需要2至8星期才能長出菌落；而DNA分子檢測通常只需數小時至一天即可得知結果，達成快速診斷的目的。\n- D. 正確。此非DNA技術的優點。DNA技術僅能篩檢特定的已知突變位點（例如katG與inhA基因突變代表isoniazid抗藥），無法全面涵蓋所有未知的抗藥機制，因此要精確且完整地評估所有第一線與第二線抗結核藥物的耐藥性，仍必須仰賴傳統的表型藥物敏感性試驗（DST）。\n\n【核心考點】\n結核分枝桿菌的核酸擴增檢驗（NAAT）具備快速、高敏感度與高專一性之優勢，但評估完整抗藥性仍需搭配傳統表型培養與藥敏試驗。",
+      "key_point": "結核分枝桿菌的核酸擴增檢驗（NAAT）雖快且敏感，但評估完整抗藥性仍需傳統表型培養藥敏試驗。",
+      "flashcard_front": "分子生物學技術（DNA技術）在結核病診斷上的主要限制為何？",
+      "flashcard_back": "DNA分子檢驗僅能篩檢特定的已知抗藥突變基因，無法精確且完整判讀所有抗藥性，仍需傳統表型培養藥敏試驗。",
+      "flashcard_summary": "DNA技術與傳統培養在結核抗藥性診斷的局限",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題考查Ambler分類系統中B級β-內醯胺酶（Class B β-内醯胺酶，又稱金屬β-內醯胺酶，MBLs）的結構與功能特性。本題為否定問法，C選項指出其無法分解碳青黴烯類（carbapenems）為錯誤敘述，因為金屬β-內醯胺酶的核心特徵即為能夠高效水解碳青黴烯類，其餘選項則為正確描述。\n\n【選項詳解】\n- A. 錯誤。此為正確敘述。Class B β-lactamase（金屬β-內醯胺酶）在其進化演變與結構上，與鋅離子依賴型的金屬蛋白酶（metalloproteases）家族具有相似的活性中心結構與水解機制，皆是利用水分子攻擊肽鍵或醯胺鍵。\n- B. 錯誤。此為正確敘述。B級β-內醯胺酶活性中心含有一個或兩個二價鋅離子（Zn²⁺），這些金屬離子負責活化水分子以進行親核性攻擊，並穩定水解過程中的過渡態，因此其催化活性必須依賴金屬離子。\n- C. 正確。此為錯誤敘述（符合題意）。Class B β-lactamase（如NDM-1、VIM、IMP）是極具臨床威脅的金屬碳青黴烯酶，能夠廣泛且高效地分解包括carbapenems、penicillins及cephalosporins在內的大多數β-內醯胺類抗生素（但無法水解monobactams如aztreonam）。\n- D. 錯誤。此為正確敘述。在臨床常見的腸桿菌科（Enterobacteriaceae）與綠膿桿菌中，編碼金屬β-內醯胺酶的基因（如blaNDM、blaVIM）主要位於質體（plasmids）或轉座子（transposons）等可移動遺傳元件上，這也是其在醫院內快速擴散傳播的主因。\n\n【核心考點】\nClass B 金屬β-內醯胺酶（MBLs）以鋅離子為活性中心，可水解大多數β-內醯胺類抗生素（包括carbapenems，但不包括aztreonam），且其基因多位於質體上，易發生抗藥性水平傳播。",
+      "key_point": "Class B 金屬β-內醯胺酶以鋅離子為活性中心，可高效分解碳青黴烯類抗生素（carbapenems），但無法分解單環類（monobactams）。",
+      "flashcard_front": "Class B 金屬β-內醯胺酶（MBL）的結構特徵與水解底物範圍為何？",
+      "flashcard_back": "活性中心含鋅離子，可水解包含碳青黴烯類（carbapenems）在內的大多數β-內醯胺類抗生素，但無法水解單環類（如 aztreonam）。其基因多位於質體上。",
+      "flashcard_summary": "Class B 金屬β-內醯胺酶特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題旨在考查結核分枝桿菌標準治療計畫中，世界衛生組織（WHO）所規範的第一線核心藥物。在所列的四種藥物中，1 異菸鹼醯（isoniazid, INH）及 4 乙胺丁醇（ethambutol, EMB）屬於經典的抗結核第一線藥物，其餘兩者非抗結核藥，故應選擇結合 1 和 4 的 C 選項。\n\n【選項詳解】\n- A. 錯誤。此組合包含 3 兩性黴素B（amphotericin B），其為廣效性抗真菌藥物（藉由結合真菌細胞膜上的麥角固醇造成細胞膜通透性改變），臨床上用於治療嚴重全身性深部真菌感染，對結核分枝桿菌完全無效。\n- B. 錯誤。此組合包含 2 硫胂密胺（melarsoprol，有機砷化合物，用於治療非洲錐蟲病/睡眠病的晚期中樞神經感染）與 3 兩性黴素B（抗真菌藥），兩者皆非第一線抗結核藥物。\n- C. 正確。此組合包含 1 異菸鹼醯（isoniazid）與 4 乙胺丁醇（ethambutol）。異菸鹼醯透過抑制 mycolic acid 的合成來阻斷結核菌細胞壁的生成，而乙胺丁醇則是抑制 arabinosyl transferase 來阻礙細胞壁阿拉伯半乳聚糖的合成，兩者皆為 WHO 推薦的第一線抗結核標準配方（HERZ）成員。\n- D. 錯誤。此組合包含 2 硫胂密胺（抗寄生蟲藥），其對結核分枝桿菌沒有治療活性，不能作為抗結核藥物使用。\n\n【核心考點】\n結核病第一線標準治療藥物為 RIF (rifampin)、INH (isoniazid)、PZA (pyrazinamide) 及 EMB (ethambutol)，臨床上需注意各自的藥理機轉與副作用（如 INH 具周邊神經炎與肝毒性，EMB 具視神經炎）。",
+      "key_point": "WHO建議的結核病第一線標準藥物包含 RIF、INH、PZA、EMB，其餘非抗結核藥（如抗真菌藥或抗寄生蟲藥）不在此列。",
+      "flashcard_front": "WHO 推薦的非多重抗藥性結核病第一線標準治療藥物（HERZ）有哪些？",
+      "flashcard_back": "第一線藥物包含：異菸鹼醯（isoniazid）、利福平（rifampin）、吡嗪醯胺（pyrazinamide）與乙胺丁醇（ethambutol）。",
+      "flashcard_summary": "第一線抗結核病藥物（HERZ）",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題考查傷寒沙門氏桿菌（Salmonella enterica serovar Typhi）的宿主特異性、傳播途徑與病理特徵。本題為否定問法，B選項指出其大多由帶菌的家禽或家畜直接傳染給人為錯誤敘述，因為傷寒沙門氏桿菌是人類專一性的病原體，無動物宿主，傳播源均為人類，其餘選項皆為正確描述。\n\n【選項詳解】\n- A. 錯誤。此為正確敘述。傷寒沙門氏桿菌的傳播完全依賴人與人之間的糞口途徑，主要經由攝入受感染者或慢性帶原者糞便、尿液所污染的水源或食物而引起感染。\n- B. 正確。此為錯誤敘述（符合題意）。非傷寒沙門氏菌（如 Salmonella Typhimurium、Salmonella Enteritidis）才是常見的動物源性病原，多經由受污染的家禽、蛋類或家畜傳染給人；而傷寒沙門氏桿菌（S. Typhi）僅以人類為唯一宿主，不會從家禽或家畜傳染。\n- C. 錯誤。此為正確敘述。S. Typhi 經口進入腸道後，會穿過黏膜下層並被巨噬細胞吞噬，隨後經由淋巴與血流擴散至全身的網狀內皮系統，進而感染並腫大肝臟與脾臟，導致臨床上出現肝脾腫大的特徵。\n- D. 錯誤。此為正確敘述。約有1%至5%的傷寒感染者在康復後會成為慢性無症狀帶原者（定義為排菌超過一年），此時病原菌通常會持續潛伏並在膽囊（gall bladder）中增殖，並隨膽汁排入腸道排出體外。\n\n【核心考點】\n傷寒沙門氏桿菌是人類專屬的病原體（無動物宿主），傳播途徑為糞口傳染，且慢性帶原者體內的細菌主要潛伏於膽囊。",
+      "key_point": "傷寒沙門氏桿菌為人類專一性病原體，無動物宿主，傳播源均為人類糞口感染，且慢性帶原者常潛伏於膽囊。",
+      "flashcard_front": "傷寒沙門氏桿菌（S. Typhi）的宿主特異性與慢性潛伏部位為何？",
+      "flashcard_back": "S. Typhi 為人類專性病原體，無動物宿主（不從家禽家畜傳染），傳染途徑為糞口傳染，慢性帶原者常潛伏於膽囊。",
+      "flashcard_summary": "傷寒沙門氏桿菌宿主特異性與膽囊潛伏",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題考查金黃色葡萄球菌（S. aureus）與表皮葡萄球菌（S. epidermidis）在實驗室鑑定上的生化特徵差異。本題為否定問法，詢問何者「無法」區分兩者。由於這兩種細菌皆屬於葡萄球菌屬（Staphylococcus），均呈觸酶（catalase）陽性，因此無法利用觸酶試驗來區分，故D為正確答案。\n\n【選項詳解】\n- A. 錯誤。此為有效的區分特徵。金黃色葡萄球菌具有凝固酶（coagulase），可使血漿中的纖維蛋白原轉化為纖維蛋白而產生凝集，屬於凝固酶陽性球菌；而表皮葡萄球菌不具備此能力，屬於凝固酶陰性葡萄球菌（CoNS）。\n- B. 錯誤。此為有效的區分特徵。金黃色葡萄球菌在甘露醇高鹽瓊脂培養基（MS Agar）上生長時，能醱酵甘露醇產生酸，使培養基由紅色轉為黃色；而表皮葡萄球菌則無法醱酵甘露醇，培養基仍維持紅色。\n- C. 錯誤。此為有效的區分特徵。在血瓊脂平板（Blood Agar）上，金黃色葡萄球菌通常表現為β-溶血（周圍出現完全透明的溶血環，因其分泌溶血素）；而表皮葡萄球菌則呈γ-溶血（不具溶血活性，周圍無溶血變化）。\n- D. 正確。此試驗無法區分兩者。觸酶（catalase）試驗主要用於鑑別「葡萄球菌屬」（均為觸酶陽性，可將雙氧水分解產生氣泡）與「鏈球菌屬」（均為觸酶陰性）；由於金黃色葡萄球菌與表皮葡萄球菌均為觸酶陽性，故此方法無法用來鑑別兩者。\n\n【核心考點】\n觸酶試驗用於鑑別葡萄球菌（陽性）與鏈球菌（陰性）；而區分金黃色葡萄球菌（coagulase +, mannitol +, β-hemolysis）與表皮葡萄球菌（coagulase -, mannitol -, γ-hemolysis）則需利用凝固酶、甘露醇醱酵與溶血試驗。",
+      "key_point": "金黃色葡萄球菌為凝固酶、甘露醇醱酵與β-溶血陽性；表皮葡萄球菌皆為陰性；兩者均呈觸酶（catalase）陽性。",
+      "flashcard_front": "如何區分金黃色葡萄球菌與表皮葡萄球菌？觸酶試驗是否可行？",
+      "flashcard_back": "兩者皆為觸酶陽性，故無法用觸酶試驗區分。可利用凝固酶（S. aureus + / S. epidermidis -）、甘露醇醱酵（+ / -）與溶血型態（β-溶血 / γ-溶血）區分。",
+      "flashcard_summary": "金黃色葡萄球菌與表皮葡萄球菌的鑑別",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題探討原核生物（細菌）基因表現及操縱子（operon）的調控機制。本題為否定問法，C選項指出乳糖操縱子（lac operon）的基因表現主要受到定額感應系統（quorum-sensing system）的直接調控為錯誤敘述，因為lac操縱子主要受環境中乳糖與葡萄糖含量的直接調節，與用來感應細菌密度的定額感應無直接關係，其餘選項均屬正確描述。\n\n【選項詳解】\n- A. 錯誤。此為正確敘述。細菌的基因表現常以操縱子為單位，數個功能相關的基因會由同一個啟動子啟動轉錄，產生一條多順反子（polycistronic）mRNA，該 mRNA 包含多個轉譯起始位點，因此可同時轉譯出多種不同的蛋白質。\n- B. 錯誤。此為正確敘述。由於原核細胞沒有核膜，轉錄產生的 mRNA 不需經過複雜的修飾即可直接與核糖體結合，因此在 DNA 上進行 mRNA 轉錄的同時，核糖體便能附著在剛合成的 mRNA 上開始進行轉譯（即轉錄-轉譯偶聯, transcription-translation coupling）。\n- C. 正確。此為錯誤敘述（符合題意）。乳糖操縱子（lac operon）的表現是直接受到環境中乳糖（透過解除 LacI 阻遏蛋白的抑制）和葡萄糖（透過 cAMP-CAP 複合物活化啟動子）的雙重調控，而非受控於感應菌群密度的定額感應系統（後者多調控生物膜形成或毒力因子釋放）。\n- D. 錯誤。此為正確敘述。色胺酸操縱子（trp operon）屬於可抑制型調控，當環境中色胺酸濃度高時，色胺酸會作為共同抑制子（co-repressor）結合並活化無活性的阻遏蛋白（repressor），使其與操縱基因（operator）結合，從而阻斷轉錄。\n\n【核心考點】\n原核生物轉錄與轉譯可同時進行，且常以多順反子mRNA同時轉譯多種蛋白；lac操縱子由乳糖與葡萄糖濃度控制，而trp操縱子則由色胺酸作為共同抑制子來調控。",
+      "key_point": "細菌可進行轉錄-轉譯偶聯，其 lac 操縱子主要受環境中乳糖與葡萄糖含量的直接調控，而非定額感應系統。",
+      "flashcard_front": "乳糖操縱子（lac operon）的直接調控因子防範？",
+      "flashcard_back": "lac 操縱子直接受乳糖（解除阻遏）與葡萄糖（CAP-cAMP 活化）調控，與定額感應系統無關。細菌因無核膜，轉錄與轉譯可同時進行。",
+      "flashcard_summary": "乳糖操縱子調控與轉錄轉譯偶聯",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題探討厭氧性革蘭氏陽性球菌（如 Peptostreptococcus 屬）的生物特徵、生態分佈與藥物敏感性。此題官方更正為答 A 或 B 均給分。主要原因在於：厭氧菌由於缺乏依賴氧氣進行主動運輸的電子傳遞系統，對氨基醣苷類抗生素具有天然抗藥性，故 B 敘述錯誤；而部分屬於此分類的球菌（如 Peptococcus niger）在早期或特定分類學文獻中偶有被指出可能形成類似芽胞的結構，因此 A 敘述亦具爭議。本題為否定問法，故答A或B均成立，其餘選項均為正確描述。\n\n【選項詳解】\n- A. 正確。此敘述在分類學上具爭議性。絕大多數厭氧性革蘭氏陽性球菌（如消化鏈球菌 Peptostreptococcus）是不產生芽孢的，但由於少數菌屬在特定培養條件下可能表現出類似芽孢的特殊休眠結構，因此「都不會產生芽胞」的絕對性陳述被判定為錯誤（符合題意）。\n- B. 正確. 此為錯誤敘述（符合題意）。氨基醣苷類抗生素（aminoglycosides）進入細菌體內需要藉由需氧型電子傳遞鏈產生的質子泵動力（proton motive force），因此絕對厭氧菌對此類藥物具有天然的耐藥性，臨床上無法單獨使用氨基醣苷類來治療厭氧菌感染。\n- C. 錯誤。此為正確敘述。厭氧性革蘭氏陽性球菌是人體多個部位黏膜與皮膚的正常菌叢成員，大量存在於口腔、大腸、陰道以及皮膚皺褶處，與宿主維持共生關係。\n- D. 錯誤。此為正確敘述。這些厭氧球菌平常不致病，但當宿主黏膜屏障受損（如手術、外傷或缺血）或免疫力下降時，它們會侵入無菌組織，造成混合性厭氧菌感染（例如吸入性肺炎、腹腔內膿瘍），屬於典型的伺機性感染。\n\n【核心考點】\n厭氧菌對氨基醣苷類（aminoglycosides）具有天然抗藥性，因為其藥物攝入需要氧氣依賴型主動運輸；臨床上厭氧性革蘭氏陽性球菌多為正常菌叢，並在黏膜受損時引起伺機性感染。\n補充提醒：官方公佈此題答A或B皆給分。",
+      "key_point": "絕對厭氧菌缺乏需氧型電子傳遞鏈以主動運輸藥物，故對氨基醣苷類（aminoglycosides）具天然抗藥性。",
+      "flashcard_front": "為何氨基醣苷類抗生素對絕對厭氧菌無效？",
+      "flashcard_back": "氨基醣苷類進入細菌需藉由需氧電子傳遞鏈產生的質子泵動力（需氧氣存在），厭氧菌缺乏此路徑，故對此藥具天然抗藥性。官方此題公佈答A或B皆給分。",
+      "flashcard_summary": "厭氧菌對氨基醣苷類的天然抗藥性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": [
+        "官方更正此題答A或B皆給分（原標準答案為B，但A所述皆不產生芽孢亦有爭議）。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題考查炭疽桿菌（Bacillus anthracis）的傳播途徑與其引發的臨床病症分類。本題為否定問法，B選項指出其常引起「肌肉壞死型炭疽」為錯誤敘述，因為肌肉壞死（又稱氣性壞疽）主要是由產氣莢膜梭菌（Clostridium perfringens）等厭氧梭狀芽孢桿菌引起，而非炭疽桿菌，其餘選項則為炭疽桿菌常見的三大感染途徑所致之疾病。\n\n【選項詳解】\n- A. 錯誤。此為炭疽桿菌引起的疾病。腸胃型炭疽是因食入含有炭疽桿菌孢子且未煮熟的受污染肉類所致，細菌在消化道黏膜繁殖並釋放毒素，導致腸道出血、壞死與穿孔，致死率極高。\n- B. 正確。此非炭疽桿菌引起的常規疾病（符合題意）。肌肉壞死（myonecrosis，即氣性壞疽 gas gangrene）的病原體主要是產氣莢膜梭菌（Clostridium perfringens），該菌藉由釋放 α 毒素等水解酶造成骨骼肌大範圍壞死與產氣，而非炭疽桿菌的臨床表現。\n- C. 錯誤。此為最常見的炭疽類型。皮膚型炭疽是由於受損皮膚直接接觸含有孢子的動物製品（如毛皮或骨粉）而感染，特徵為無痛性的黑色焦痂（eschar）並伴隨周圍嚴重的非凹陷性水腫。\n- D. 錯誤。此為致死率最高的炭疽類型。吸入性炭疽（又稱羊毛工病 Woolsorters' disease）是因吸入懸浮於空氣中的炭疽桿菌孢子所致，孢子在縱隔淋巴結發芽並產生毒素，引起出血性縱隔腔炎與敗血症，X光下可見經典的縱隔腔增寬（widened mediastinum）。\n\n【核心考點】\n炭疽桿菌主要藉由接觸、吸入或食入孢子引起皮膚型（黑色焦痂）、吸入性（出血性縱隔腔炎）及腸胃型炭疽；而氣性壞疽（肌肉壞死）則是由產氣莢膜梭菌（Clostridium perfringens）等厭氧梭狀芽孢桿菌所致。",
+      "key_point": "炭疽桿菌常見疾病分型為皮膚型（黑色焦痂）、吸入性及腸胃型炭疽；而氣性壞疽（肌肉壞死）則由產氣莢膜梭菌引起。",
+      "flashcard_front": "炭疽桿菌引起的常見臨床類型有哪些？肌肉壞死（氣性壞疽）的病原體為何？",
+      "flashcard_back": "炭疽桿菌引起：皮膚型（有黑色焦痂）、吸入型（縱隔腔增寬）與腸胃型炭疽。肌肉壞死型（氣性壞疽）主要由產氣莢膜梭菌（C. perfringens）引起。",
+      "flashcard_summary": "炭疽桿菌臨床分型與氣性壞疽病原",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題考查 A 群鏈球菌（Group A Streptococcus, GAS，即化膿性鏈球菌）的毒力因子及其致病機轉。本題為否定問法，A選項中的耐熱毒素 STa 和 STb 是產毒性大腸桿菌（ETEC）的重要致病因子，負責引起腹瀉，與化膿性鏈球菌無關，故為正確答案，其餘選項均為化膿性鏈球菌的關鍵毒力因子。\n\n【選項詳解】\n- A. 正確。此非化膿性鏈球菌的毒力因子（符合題意）。耐熱腸毒素 STa 和 STb（heat-stable enterotoxins）是由產毒性大腸桿菌（ETEC）所分泌的，能活化宿主腸道上皮細胞的鳥苷酸環化酶（guanylyl cyclase C），導致細胞內 cGMP 升高並引發水樣腹瀉。\n- B. 錯誤。此為化膿性鏈球菌的毒力因子。鏈球菌溶血素 O（Streptolysin O, SLO）是一種具備氧氣敏感性的溶孔毒素，能破壞宿主紅血球、白血球等細胞膜，臨床上檢測血清中的抗鏈球菌溶血素 O 抗體效價（ASO titer）常用於診斷鏈球菌感染後遺症（如風濕熱）。\n- C. 錯誤。此為化膿性鏈球菌最重要的細胞壁抗原與毒力因子。M 蛋白質（M protein）具有高度抗吞噬能力，能結合宿主的補體調節蛋白（如 Factor H）以阻止補體替代路徑活化，是化膿性鏈球菌逃避免疫清除的核心結構。\n- D. 錯誤。此為化膿性鏈球菌的毒力因子。其莢膜主要由透明質酸（hyaluronic acid）組成，由於透明質酸亦為哺乳動物結締組織的成分，這使該菌能偽裝自身，避免被宿主免疫系統識別，同時也具有阻礙吞噬細胞吞噬的作用。\n\n【核心考點】\n化膿性鏈球菌（Streptococcus pyogenes）的毒力因子包含 M 蛋白質（抗補體、抗吞噬）、透明質酸莢膜（免疫偽裝）以及鏈球菌溶血素 O/S（破壞宿主細胞）；而耐熱毒素 STa/STb 則是產毒性大腸桿菌（ETEC）的腸毒素。",
+      "key_point": "化膿性鏈球菌（GAS）毒力因子包含 M 蛋白質、透明質酸莢膜與鏈球菌溶血素 O，而耐熱毒素 STa/STb 則屬於 ETEC。",
+      "flashcard_front": "化膿性鏈球菌（Streptococcus pyogenes）的主要毒力因子有哪些？",
+      "flashcard_back": "包含 M 蛋白質（抗補體抗吞噬）、透明質酸莢膜（免疫偽裝）與鏈球菌溶血素 O（SLO，溶血及細胞毒性）。耐熱毒素 STa/STb 屬於產毒性大腸桿菌（ETEC）。",
+      "flashcard_summary": "化膿性鏈球菌主要毒力因子",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:53:43+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

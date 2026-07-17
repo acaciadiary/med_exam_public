@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-2.json",
+  "dataset_id": "109-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題詢問何種藥物降眼壓（intraocular pressure, IOP）效果最明顯。前列腺素類似物（prostaglandin analogs）如 bimatoprost，其降眼壓效果在青光眼藥物中最強，主要機制是促進房水經由葡萄膜鞏膜通道（uveoscleral outflow）排出，是目前臨床第一線治療藥物，因此 D 為正確選項。\n\n【選項詳解】\n- A. 錯誤。selexipag 是選擇性非前列腺素類 IP 受體促效劑（prostacyclin receptor agonist），主要用於治療肺動脈高壓（PAH），並非青光眼治療藥物，無顯著降眼壓作用。\n- B. 錯誤。iloprost 為合成的前列腺環素（PGI2）類似物，主要通過吸入或靜脈給藥，用於治療肺動脈高壓或重度肢端缺血，不是用於降低眼壓的藥物。\n- C. 錯誤。alprostadil 為前列腺素 E1（PGE1）類似物，臨床上用於新生兒維持動脈導管開放，或成年男性勃起功能障礙的注射治療，不具備眼科降眼壓的臨床應用。\n- D. 正確。bimatoprost 是一種合成的前列腺素類似物（主要是前列腺醯胺類 prostamide），能高度有效地增加房水經葡萄膜鞏膜（uveoscleral）通道的排出，為降眼壓效果最強、作用最持久的青光眼用藥。\n\n【核心考點】\n前列腺素類似物（如 bimatoprost、latanoprost）是降眼壓效果最強的一線青光眼藥物，其機制為促進葡萄膜鞏膜房水流出。其餘前列腺素類藥物（如 PGE1、PGI2 類似物）則主要用於心血管、呼吸系統或勃起功能障礙。",
+      "key_point": "bimatoprost 為前列腺素類似物，是降眼壓效果最強的一線青光眼藥物，機制為促進葡萄膜鞏膜房水流出。",
+      "flashcard_front": "降眼壓效果最強的一線青光眼藥物及其主要機制",
+      "flashcard_back": "藥物為前列腺素類似物（如 bimatoprost、latanoprost），機制為促進房水經由葡萄膜鞏膜通道（uveoscleral outflow）排出。",
+      "flashcard_summary": "bimatoprost -> 降眼壓效果最強的前列腺素類似物，促進葡萄膜鞏膜房水流出。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題考查中樞性肌肉鬆弛劑 baclofen 的藥理作用機制。Baclofen 是一種 GABA 的結構類似物，主要在脊髓中作為選擇性 $GABA_B$ 受體促效劑（agonist），通過活化 $GABA_B$ 受體引發突觸後超極化（hyperpolarization），抑制興奮性神經傳導物質釋放，從而減輕肌肉痙攣。因此 A 為正確選項。\n\n【選項詳解】\n- A. 正確。baclofen 是選擇性 $GABA_B$ 受體促效劑（agonist），活化 $GABA_B$ 受體（代謝型 G 蛋白質偶聯受體）後會促進鉀離子外流、減少鈣離子內流，使突觸後膜超極化，抑制單突觸和多突觸反射。\n- B. 錯誤。baclofen 是 $GABA_B$ 受體的促效劑（活化劑），而非拮抗劑（抑制劑）。抑制 $GABA_B$ 受體無法達到緩解痙攣的肌肉鬆弛效果。\n- C. 錯誤。活化 $\\alpha_2$-腎上腺素受體是另一種中樞性肌肉鬆弛劑 tizanidine（替扎尼定）的作用機制，而非 baclofen。\n- D. 錯誤。抑制 $\\alpha_2$-腎上腺素受體會增加交感神經釋放去甲腎上腺素，通常會增加肌肉張力，並非中樞性肌肉鬆弛劑的作用機制。\n\n【核心考點】\n中樞性肌肉鬆弛劑的機制鑑別：baclofen 為 $GABA_B$ 受體促效劑；tizanidine 為 $\\alpha_2$-腎上腺素受體促效劑；diazepam 則是作用在 $GABA_A$ 受體。",
+      "key_point": "baclofen 作為 $GABA_B$ 受體促效劑，活化脊髓 $GABA_B$ 受體以產生中樞性肌肉鬆弛作用。",
+      "flashcard_front": "Baclofen 的中樞性肌肉鬆弛機制",
+      "flashcard_back": "作為選擇性 $GABA_B$ 受體促效劑（agonist），活化受體後引起超極化，抑制興奮性遞質釋放。",
+      "flashcard_summary": "baclofen -> $GABA_B$ 受體促效劑，活化受體引起超極化，降低興奮性遞質釋放。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題比較常見鴉片類藥物的止痛效價（potency）。止痛效價（強度）是指達到相同止痛效果所需的藥物劑量，劑量愈低表示效價愈高。Fentanyl（芬太尼）是合成的強效 $\\mu$-opioid 受體促效劑，其效價約為嗎啡（morphine）的 80 到 100 倍，在選項中其止痛強度最高。因此 A 為正確選項。\n\n【選項詳解】\n- A. 正確。fentanyl 為強效合成鴉片類藥物，具有極高脂溶性，其止痛效價（potency）是嗎啡（morphine）的 80 至 100 倍，是目前臨床上效價最高的常用鴉片類鎮痛藥。\n- B. 錯誤. morphine（嗎啡）是天然阿片生物鹼，常作為鴉片類藥物效價比較的基準物（potency = 1），其止痛強度顯著低於 fentanyl。\n- C. 錯誤。methadone（美沙酮）的止痛強度（potency）大致與 morphine 相當或略強（依使用劑量與個體差異而異，一般等效劑量比約為 1:1 至 1:4），但其效價遠低於 fentanyl。\n- D. 錯誤。meperidine（美佩里定，或稱 pethidine）的止痛效價較低，大約僅為嗎啡的 1/10（即需要約 10 倍的劑量才能達到同等嗎啡的止痛效果），是選項中效價最低的藥物。\n\n【核心考點】\n常用鴉片類藥物之止痛效價（potency）比較：fentanyl (80-100x) > morphine (1x) $\\approx$ methadone > meperidine (0.1x)。",
+      "key_point": "fentanyl 的止痛效價（potency）極高，約為 morphine 的 80 至 100 倍，是常用鴉片類藥物中強度最高者。",
+      "flashcard_front": "常用鴉片類藥物之止痛效價（potency）強度排序",
+      "flashcard_back": "fentanyl (80-100) > morphine (1) $\\approx$ methadone > meperidine (0.1)",
+      "flashcard_summary": "fentanyl -> 止痛效價最高的合成鴉片類藥物，約為 morphine 的 80-100 倍。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考查吸入性麻醉藥物的藥理性質比較，特別是 nitrous oxide（笑氣）與 halothane（氟烷）的最小肺泡濃度（MAC）、麻醉強度以及分配係數的關係。MAC 與麻醉強度呈反比，MAC 越大，麻醉強度越弱。Nitrous oxide 的 MAC 超過 100%（約 104%），代表其麻醉強度非常弱；而 halothane 的 MAC 約為 0.75%，代表其麻醉強度非常強。因此，nitrous oxide 的 MAC 值應顯著「大於」halothane，選項 A 敘述錯誤，為本題標準答案。\n\n【選項詳解】\n- A. 錯誤。Nitrous oxide 的最小肺泡濃度（MAC）為 104%，而 halothane 的 MAC 為 0.75%。因為 MAC 與麻醉強度呈反比，所以 nitrous oxide 的 MAC 值遠大於 halothane。\n- B. 正確。Nitrous oxide 的 MAC 極大（104%），代表其麻醉強度（potency）很弱，在常壓下單獨使用無法達到完全麻醉；而 halothane 的 MAC 極小（0.75%），麻醉強度極強。\n- C. 正確。Nitrous oxide 的血液/氣體分配係數極小（約 0.47），在血液中溶解度低；而 halothane 的血液/氣體分配係數較大（約 2.3），在血液中溶解度高。\n- D. 正確。吸入性麻醉藥物的誘導和恢復速度取決於血液中的溶解度（血液/氣體分配係數）。分配係數越小（如 nitrous oxide），血液中達到飽和的速度越快，因此麻醉誘導與恢復的速度越快。\n\n【核心考點】\n吸入性麻醉藥理規則：\n1. MAC 越小 $\\rightarrow$ 麻醉強度（potency）越強。\n2. 血液/氣體分配係數（Blood:gas partition coefficient）越小 $\\rightarrow$ 在血液中溶解度越低 $\\rightarrow$ 肺泡與大腦的麻醉分壓平衡越快 $\\rightarrow$ 誘導與恢復越快。\nNitrous oxide 的 MAC 大、分配係數小；Halothane 的 MAC 小、分配係數大。",
+      "key_point": "MAC 越小則麻醉強度越強；血液/氣體分配係數越小，在血液溶解度越低，誘導及恢復速度越快。笑氣的 MAC 大、分配係數小。",
+      "flashcard_front": "吸入性麻醉藥的 MAC 與血液/氣體分配係數的藥理意義",
+      "flashcard_back": "MAC 與麻醉強度（potency）呈反比。血液/氣體分配係數與誘導及恢復速度呈反比（分配係數越小，誘導恢復越快）。",
+      "flashcard_summary": "nitrous oxide vs halothane -> 笑氣 MAC 大（強度弱）、血液氣體分配係數小（誘導恢復快）；氟烷相反。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題詢問重金屬螯合劑 penicillamine（青黴胺）的治療範圍。Penicillamine 是一種含巰基（-SH）的氨基酸，能有效螯合銅（copper）、汞（mercury）、鉛（lead）等重金屬，並促進其從尿液中排出。開頭螯合銅是第一步。因此，可用於治療銅中毒、威爾森氏症（體內銅堆積）與汞中毒。然而，對於砷（arsenic）中毒，首選的解毒劑為 dimercaprol（二聚丙醇，又稱 BAL）或 succimer，並不使用 penicillamine。因此 D 為正確選項。\n\n【選項詳解】\n- A. 錯誤。penicillamine 內含游離巰基，能與銅離子形成可溶性螯合物，是治療急性或慢性銅中毒（copper poisoning）的有效螯合劑，因此銅中毒包含在治療範圍內。\n- B. 錯誤。威爾森氏症（Wilson's disease）是一種體內銅離子代謝異常、導致銅在肝及腦大量沉積的遺傳疾病。Penicillamine 是臨床上最常用於促使體內銅排出的第一線口服螯合劑。\n- C. 錯誤。penicillamine 可與無機汞離子結合，是治療急性或慢性汞中毒（mercury poisoning）的二線螯合藥物之一，能有效促進尿汞排出。\n- D. 正確。penicillamine 對於砷中毒（arsenic poisoning）的螯合效果極差。臨床上砷中毒的首選螯合解毒劑為 dimercaprol（BAL，肌肉注射）或口服的 succimer（DMSA）。\n\n【核心考點】\n重金屬螯合劑及其首選解毒劑：\n1. 銅（及威爾森氏症）：Penicillamine、Trientine\n2. 汞：Dimercaprol（BAL）、Succimer、Penicillamine\n3. 砷：Dimercaprol（BAL）、Succimer\n4. 鉛：EDTA、Succimer、Penicillamine、Dimercaprol\n5. 鐵：Deferoxamine",
+      "key_point": "penicillamine 可螯合銅（威爾森氏症）、汞及鉛，但不適用於砷中毒；砷中毒首選螯合劑為 dimercaprol 或 succimer。",
+      "flashcard_front": "Penicillamine 與 Arsenic (砷) 中毒的螯合劑選擇",
+      "flashcard_back": "Penicillamine 用於銅（威爾森氏症）、汞、鉛中毒。砷中毒首選為 dimercaprol (BAL) 或 succimer。",
+      "flashcard_summary": "penicillamine -> 螯合銅、汞、鉛，治療威爾森氏症。砷中毒首選為 dimercaprol 或 succimer。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考查病理學中脂肪變性（steatosis，又稱 fatty change）的定義與常見病因。脂肪變性是指在實質細胞（最常發生在肝細胞，但也見於心、腎、骨骼肌）的細胞質內出現「三酸甘油酯」（triglycerides，即中性脂肪）的異常積聚，而非膽固醇（cholesterol）。因此選項 A 的定義錯誤，為本題標準答案。\n\n【選項詳解】\n- A. 錯誤。脂肪變性（steatosis）的定義是實質細胞內「三酸甘油酯（triglycerides）」的異常蓄積。膽固醇的異常蓄積通常會形成泡沫細胞（foam cells，如動脈粥狀硬化或黃色瘤），不稱為脂肪變性。\n- B. 正確。糖尿病患者由於胰島素阻抗，導致周邊脂肪組織釋放大量游遊離脂肪酸進入肝臟，且肝臟脂質合成增加，因此極易形成非酒精性脂肪肝病（NAFLD），即肝臟脂肪變性。\n- C. 正確。酒精（乙醇）代謝過程中，乙醇去氫酶與乙醛去氫酶會將 $NAD^+$ 還原為 $NADH$，使 $NADH/NAD^+$ 比例上升。過多的 $NADH$ 會促進脂肪酸合成（脂質新生）並抑制線粒體的脂肪酸 $\\beta$-氧化，是酒精性脂肪肝核心機轉。\n- D. 正確。蛋白質營養不良（如 Kwashiorkor 症）會導致載脂蛋白（apoproteins）合成不足。三酸甘油酯必須與載脂蛋白結合成極低密度脂蛋白（VLDL）才能運出肝細胞，因此載脂蛋白缺乏會使脂質滯留在肝細胞內，造成脂肪肝。\n\n【核心考點】\n1. 脂肪變性（steatosis）是指實質細胞內「三酸甘油酯（triglycerides）」的堆積。\n2. 脂肪肝的三大常見原因及其機制：酒精（NADH上升 $\\rightarrow$ 促進合成、抑制氧化）、糖尿病與肥胖（游離脂肪酸增加）、蛋白質營養不良（載脂蛋白合成不足導致 VLDL 無法釋放）。",
+      "key_point": "脂肪變性是實質細胞內三酸甘油酯（而非膽固醇）的積聚；蛋白質缺乏降低載脂蛋白合成，酒精代謝增加 NADH 均會促其發生。",
+      "flashcard_front": "脂肪變性 (steatosis) 積聚物質與酒精/蛋白質缺乏之致病機轉",
+      "flashcard_back": "積聚物質為三酸甘油酯（triglycerides）。酒精代謝使 NADH 上升（促進合成/抑制氧化）；蛋白質營養不良減少載脂蛋白（apoprotein）合成導致脂肪無法排出。",
+      "flashcard_summary": "steatosis -> 積聚三酸甘油酯。病因包括酒精（NADH高、抑制氧化）、糖尿病（游離脂肪酸多）、蛋白質不足（載脂蛋白少、VLDL出不去）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題考查急性發炎與慢性發炎在病理組織學表現上的鑑別。慢性發炎（chronic inflammation）的特徵包括：單核細胞浸潤（如巨噬細胞、淋巴球及漿細胞，A、B）、組織破壞，以及由肉芽組織血管增生和纖維化（fibrosis，C）介導的修復。水腫（edema，D）是由於急性血管反應（血管擴張與通透性增加）導致富含蛋白質的液體滲出，是「急性發炎」的典型特徵，在慢性發炎的組織表現中相關性最低。因此 D 為正確選項。\n\n【選項詳解】\n- A. 錯誤。淋巴球（lymphocytes）和漿細胞（plasma cells）是適應性免疫的主要細胞，與單核-巨噬細胞系統共同構成慢性發炎時浸潤的典型「單核炎性細胞」。\n- B. 錯誤。巨噬細胞（macrophages）是慢性發炎的核心細胞，負責吞噬、呈現抗原、釋放細胞激素（如 TNF-$\\alpha$、IL-1），並促使纖維化與組織修復。\n- C. 錯誤. 慢性發炎通常伴隨持久的組織破壞與修復反應。成纖維細胞（fibroblasts）會被活化並分泌膠原蛋白，導致疤痕形成與「纖維化（fibrosis）」，這是慢性發炎的重要組織特徵。\n- D. 正確。水腫（edema）是急性發炎（acute inflammation）的典型血管反應特徵，由微血管通透性增加引起。雖然慢性發炎可能局部殘留微量滲出，但在慢性發炎的組織特徵中，水腫的特異性與相關性明顯最低。\n\n【核心考點】\n發炎的病理組織特徵鑑別：\n1. 急性發炎：血管擴張、充血、水腫（血管通透性上升）、中性球（neutrophils）浸潤。\n2. 慢性發炎：單核細胞（巨噬細胞、淋巴球、漿細胞）浸潤、組織破壞、血管增生（angiogenesis）與纖維化（fibrosis）。",
+      "key_point": "慢性發炎以單核細胞（淋巴球、漿細胞、巨噬細胞）浸潤與纖維化為特徵；水腫則是急性發炎的典型血管反應。",
+      "flashcard_front": "急性發炎與慢性發炎的病理組織特徵鑑別",
+      "flashcard_back": "急性：中性球浸潤、充血、水腫. 慢性：淋巴球/漿細胞/巨噬細胞浸潤、組織破壞、血管增生與纖維化。",
+      "flashcard_summary": "慢性發炎 vs 急性發炎 -> 慢性：淋巴球/漿細胞/巨噬細胞、纖維化。急性：水腫、中性球浸潤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考查全身性紅斑性狼瘡（SLE）引發的器官病理變化。SLE 是一種多系統自體免疫疾病，其特徵為免疫複合物（immune complexes）沉積。在心臟，SLE 可在心臟瓣膜（特別是僧帽瓣及主動脈瓣）的兩面引起無菌性贅生物，稱為非細菌性疣贅性心內膜炎（又稱 Libman-Sacks 心內膜炎），因此 C 敘述正確。\n\n【選項詳解】\n- A. 錯誤。雖然 SLE 常引起狼瘡腎炎（lupus nephritis），但其病理學特徵（如內皮下沉積、蘇木精體 hematoxylin bodies、鐵絲圈樣變 wire loop lesion）並不具有絕對的特異性，其他免疫複合物腎炎也可能有類似表現，臨床上無法僅憑腎臟病理切片「直接診斷」為 SLE，仍需結合臨床標準與血清學（如 ANA, anti-dsDNA）指標。\n- B. 錯誤。狼瘡腎炎依 WHO/ISN-RPS 分類中，最常見且最嚴重的病理型態為第四型「瀰漫增生性腎絲球腎炎（diffuse proliferative glomerulonephritis, DPGN）」，易導致腎衰竭；而膜狀腎絲球腎炎（membranous glomerulonephritis）為第五型，預後通常相對較佳。\n- C. 正確。SLE 是引起非細菌性疣贅性心內膜炎（nonbacterial verrucous endocarditis，即 Libman-Sacks endocarditis）的典型病因。其贅生物（vegetations）常沉積於瓣膜心內膜、腱索或心房心室壁上，通常為無菌性。\n- D. 錯誤。壞疽性臁瘡（ecthyma gangrenosum）是一種皮膚侵襲性感染，主要是由綠膿桿菌（Pseudomonas aeruginosa）感染引起的局部血管炎與缺血壞死，常見於免疫不全患者，而非 SLE 引起之自體免疫性血管炎的主因。\n\n【核心考點】\n1. Libman-Sacks 心內膜炎（非細菌性疣贅性心內膜炎）是 SLE 具特徵性的心臟病變。\n2. 狼瘡腎炎中，最嚴重且最易進展至終末期腎病的是第四型（瀰漫增生性，DPGN），而非第五型（膜性，MGN）。\n3. 壞疽性臁瘡（ecthyma gangrenosum）的致病菌為綠膿桿菌。",
+      "key_point": "SLE 可導致非細菌性疣贅性心內膜炎（Libman-Sacks 心內膜炎）；狼瘡腎炎中最嚴重者為第四型（瀰漫增生性）。",
+      "flashcard_front": "SLE 在心臟與腎臟的特徵性病理表現",
+      "flashcard_back": "心臟：Libman-Sacks 心內膜炎（非細菌性疣贅性心內膜炎，贅生物常位於瓣膜兩面）。腎臟：最嚴重型態為第四型（瀰漫增生性，DPGN）。",
+      "flashcard_summary": "SLE 併發症 -> 心臟：Libman-Sacks 心內膜炎（非細菌性）；腎臟：最嚴重為第四型（瀰漫增生性）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題詢問與 Epstein-Barr 病毒（EBV）感染相關性最低的惡性腫瘤。子宮頸癌（cervical cancer）的發生與高危險型人類乳突病毒（HPV，主要是第 16、18 型）的持續感染有絕對因果關係，與 EBV 無關。而鼻咽癌、伯基特氏淋巴瘤與何杰金氏淋巴瘤的致病機轉均與 EBV 密切相關。因此選項 A 為本題答案。\n\n【選項詳解】\n- A. 正確。子宮頸癌 的首要致病原是人類乳突病毒（HPV），特別是高危險型的 HPV-16 與 HPV-18 基因組整合入宿主細胞，引發 E6/E7 癌蛋白表現而導致細胞惡性化，與 EBV 相關性最低。\n- B. 錯誤。鼻咽癌（nasopharyngeal carcinoma, NPC）與 EBV 感染有極高度的關聯，特別是未分化型鼻咽癌，患者血清中的 EBV 抗體效價（如 IgA VCA/EA）常作為臨床篩檢與監測指標。\n- C. 錯誤。伯基特氏淋巴瘤（Burkitt lymphoma）尤其是非洲地方性（endemic）病例，其腫瘤細胞內幾乎 100% 可偵測到 EBV 基因組，病毒感染與染色體易位 t(8;14) 共同促進 B 細胞惡性增生。\n- D. 錯誤。何杰金氏淋巴瘤（Hodgkin lymphoma）中，有相當比例的 RS 細胞（Reed-Sternberg cells）含有 EBV 基因組（特別是混合細胞型 mixed cellularity subtype），顯示 EBV 參與了其多步驟的致瘤過程。\n\n【核心考點】\n1. 與 EBV 相關的惡性腫瘤：鼻咽癌、Burkitt 淋巴瘤、Hodgkin 淋巴瘤、原發性中樞神經系統淋巴瘤、胃癌（部分）。\n2. 子宮頸癌的特異性病毒病因：人類乳突病毒（HPV-16, 18）。",
+      "key_point": "子宮頸癌主要由 HPV-16、18 引起，而鼻咽癌、Burkitt 淋巴瘤及 Hodgkin 淋巴瘤均與 EBV 感染密切相關。",
+      "flashcard_front": "與 EBV 及 HPV 相關的惡性腫瘤鑑別",
+      "flashcard_back": "EBV 相關：鼻咽癌、Burkitt 淋巴瘤、Hodgkin 淋巴瘤。HPV-16, 18 相關：子宮頸癌、肛門癌、口咽癌。",
+      "flashcard_summary": "EBV vs HPV 相關腫瘤 -> EBV：鼻咽癌、Burkitt 及 Hodgkin 淋巴瘤。HPV：子宮頸癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題考查腫瘤基因體學中基因靜默（gene silencing）的特徵。基因靜默是指基因由於表觀遺傳修飾（例如啟動子高甲基化 promoter hypermethylation）或染色質結構改變，導致基因不表達，這常發生於「抑癌基因（tumor suppressor genes）」。在選項中，$p16$（由 $CDKN2A$ 基因編碼）是關鍵的抑癌基因，在多種惡性腫瘤中常因啟動子甲基化而發生基因靜默。因此 C 為正確選項。\n\n【選項詳解】\n- A. 錯誤。$CDK4$（細胞週期素依賴性激酶 4）是一種促進細胞週期進入 S 期的「原癌基因（oncogene）」。在惡性腫瘤中，CDK4 通常藉由基因擴增（amplification）或過度表現（overexpression）被活化，而非靜默。\n- B. 錯誤。$MDM2$ 是一種泛素連接酶，負責促進抑癌蛋白 p53 降解，本身屬於「原癌基因」。在多種腫瘤中（如脂肪肉瘤），MDM2 藉由基因擴增而過度表現，進而抑制 p53 的功能，不會發生基因靜默。\n- C. 正確。$p16$（$CDKN2A$）是重要的抑癌基因，藉由抑制 CDK4/6 來阻止細胞週期進程。在多種惡性腫瘤（如黑色素瘤、胰臟癌、頭頸部癌）中，$p16$ 常藉由啟動子高甲基化（promoter hypermethylation）或純合性缺失（homozygous deletion）而發生基因靜默，使細胞失去週期調控。\n- D. 錯誤。$EWS$ 基因主要與 Ewing 肉瘤（Ewing sarcoma）中的特定染色體易位相關（如 $t(11;22)$ 形成 $EWS-FLI1$ 融合基因），該融合基因作為異常的轉錄因子促進腫瘤發生，並非發生基因靜默。\n\n【核心考點】\n1. 抑癌基因（如 $p16$、$Rb$、$BRCA1$）在腫瘤中常藉由「啟動子甲基化（promoter methylation）」導致基因靜默（gene silencing）。\n2. 原癌基因（如 $CDK4$、$MDM2$、$MYC$）在腫瘤中常以擴增、突變 or 過度表現等方式被活化。",
+      "key_point": "$p16$ 為抑癌基因，在惡性腫瘤中常因啟動子高甲基化而發生基因靜默；而 $CDK4$ 與 $MDM2$ 為原癌基因，通常被活化或擴增。",
+      "flashcard_front": "腫瘤細胞中原癌基因活化與抑癌基因靜默（以 p16, CDK4, MDM2 為例）",
+      "flashcard_back": "抑癌基因如 $p16$ 常因啟動子高甲基化而發生基因靜默（gene silencing）；原癌基因如 $CDK4$、$MDM2$ 則常因基因擴增或過度表現而活化。",
+      "flashcard_summary": "gene silencing -> 抑癌基因（如 p16）因高甲基化而靜默；原癌基因（如 CDK4, MDM2）則擴增或過度表現。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

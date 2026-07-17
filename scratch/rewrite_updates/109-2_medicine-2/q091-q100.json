@@ -1,0 +1,139 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-2.json",
+  "dataset_id": "109-2_medicine-2",
+  "range": { "start": 91, "end": 100 },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題詢問急性膽囊炎的病理生理機制與危險因子。急性膽囊炎絕大多數由結石阻塞所致，而無結石的急性非結石性膽囊炎通常與局部缺血和全身性重症相關，喝酒並非其直接風險因子，故選項 D 敘述錯誤，為本題答案。\n\n【選項詳解】\n- A. 正確敘述。急性結石性膽囊炎佔所有急性膽囊炎的 90% 以上，其致病機轉主要是膽囊結石嵌頓在膽囊頸部或膽囊管，造成膽汁鬱積與腔內壓力增加，隨後刺激黏膜發炎。\n- B. 正確敘述。當膽囊管被阻塞時，膽囊黏膜因機械性擴張和膽汁鹽的化學刺激而受損，進而合成並釋放前列腺素（如 PGE2 等發炎介質），此反應與膽囊局部發炎和疼痛的產生密切相關。\n- C. 正確敘述。急性非結石性膽囊炎通常發生於無結石的病人，其核心機轉主要與膽囊壁局部血流灌流不足引起的缺血（ischemia）以及膽汁滯留（stasis）有關，進而引發局部黏膜壞死。\n- D. 錯誤敘述。急性非結石性膽囊炎多見於嚴重創傷、大手術、嚴重燒傷或敗血症等重症監護患者；而「喝酒」是急性胰臟炎或慢性酒精性肝炎的常見誘因，與急性非結石性膽囊炎的發生無直接關聯。\n\n【核心考點】\n急性結石性膽囊炎與非結石性膽囊炎的機轉鑑別。非結石性膽囊炎多見於重症且多與微血管缺血相關。",
+      "key_point": "急性非結石性膽囊炎主要與重症時的膽囊局部缺血及膽汁淤積有關，而喝酒並非其危險因子（酒精主要與急性胰臟炎相關）。",
+      "flashcard_front": "急性非結石性膽囊炎 (Acute acalculous cholecystitis) 的主要機轉與危險因子為何？",
+      "flashcard_back": "機轉主要為膽囊局部缺血 (Ischemia) 及膽汁滯留 (Stasis)；常見於嚴重創傷、燒傷、大手術及敗血症等重症患者，與喝酒無直接關係。",
+      "flashcard_summary": "急性膽囊炎 -> 非結石性主要與重症及缺血相關，喝酒無關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n本題詢問 Waterhouse-Friderichsen 症候群的臨床特徵與病理機制。此症候群是一種由於暴發性感染引起的急性雙側腎上腺出血性壞死，其出血起源於血管豐富的髓質而非皮質，故選項 D 敘述錯誤，為本題答案。\n\n【選項詳解】\n- A. 正確敘述。Waterhouse-Friderichsen 症候群最常見於腦膜炎雙球菌（Neisseria meningitidis）引起的暴發性敗血症（腦膜炎雙球菌血症），其他如綠膿桿菌、流感嗜血桿菌等亦可引起。\n- B. 正確敘述。由於嚴重的內毒素血症與血管內皮受損，患者會迅速發展出難以糾正的感染性休克與嚴重低血壓，進一步惡化為急性腎上腺皮質功能不全。\n- C. 正確敘述。暴發性感染會引發全身性血管內皮廣泛損傷，進而活化凝血瀑布反應，常併發嚴重的瀰漫性血管內凝血（DIC），臨床上可見全身皮膚廣泛出現瘀斑與紫斑。\n- D. 錯誤敘述。腎上腺的出血病理過程是首先起始於「腎上腺髓質」（medulla，因其微血管管壁薄且血流豐富），隨後出血進程才由內向外擴展並破壞周圍的皮質（cortex）構造，造成急性雙側腎上腺壞死。\n\n【核心考點】\nWaterhouse-Friderichsen 症候群的病原體（以腦膜炎雙球菌為主）、臨床特徵（低血壓、DIC）與病理上腎上腺由髓質向皮質出血的進程。",
+      "key_point": "Waterhouse-Friderichsen 症候群的腎上腺出血在病理上是自內側的髓質（medulla）開始，再向外擴展破壞皮質（cortex）。",
+      "flashcard_front": "Waterhouse-Friderichsen 症候群 (Waterhouse-Friderichsen syndrome) 的病理出血順序與三大臨床特徵？",
+      "flashcard_back": "病理上出血由腎上腺髓質 (Medulla) 開始，向外擴散至皮質；臨床特徵包括腦膜炎雙球菌敗血症、暴發性休克 (低血壓) 與瀰漫性血管內凝血 (DIC)。",
+      "flashcard_summary": "Waterhouse-Friderichsen 症候群 -> 腎上腺出血由髓質始至皮質，伴隨低血壓與 DIC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n本題詢問藥物或毒物引起的腎小管間質性腎炎中，腎間質浸潤的發炎細胞組成。雖然特定過敏反應會增加特異性細胞，但整體上數量最多的主要浸潤細胞為單核細胞類，故選項 A 為正確答案。\n\n【選項詳解】\n- A. 正確。不論是急性或慢性藥物/毒物引起的腎小管間質性腎炎（tubulointerstitial nephritis, TIN），組織學上在腎臟間質（interstitium）中浸潤的發炎細胞在總數量上皆以淋巴球（lymphocytes）和巨噬細胞（macrophages）佔最主要多數。\n- B. 錯誤。嗜酸性白血球（eosinophils）是急性藥物過敏性間質性腎炎的「特徵性」病理發現（常與 beta-lactam 類抗生素等引起的過敏反應相關），但在間質所有浸潤發炎細胞的總數量比例中，仍不及淋巴球與巨噬細胞。\n- C. 錯誤。漿細胞（plasma cells）雖然可在慢性間質性腎炎或自體免疫性間質性腎炎（如 IgG4 相關疾病）中見到，但並非一般藥物或毒物引起間質性腎炎的最主要浸潤細胞。\n- D. 錯誤。肥大細胞（mast cells）在間質性腎炎中佔極少數，通常在後期的間質纖維化過程中扮演次要的調節角色，並非主要的浸潤細胞。\n\n【核心考點】\n腎小管間質性腎炎的發炎細胞浸潤。區分「特徵性細胞（嗜酸性球）」與「數量上最主要的細胞（淋巴球、巨噬細胞）」。",
+      "key_point": "藥物或毒物性間質性腎炎中，腎間質最主要的浸潤細胞為淋巴球與巨噬細胞；嗜酸性球雖為急性過敏反應的「特徵」，但數量上並非最多。",
+      "flashcard_front": "藥物/毒物性腎小管間質性腎炎 (TIN) 中，數量最多與具特徵性的浸潤細胞各行為何？",
+      "flashcard_back": "數量最多的主要浸潤細胞為淋巴球 (Lymphocytes) 及巨噬細胞 (Macrophages)；急性過敏性間質性腎炎的特徵性細胞為嗜酸性球 (Eosinophils)。",
+      "flashcard_summary": "腎小管間質性腎炎 -> 淋巴球及巨噬細胞為主要浸潤細胞，嗜酸性球為急性特徵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題詢問甲狀腺乳突狀癌的特徵性病理核變化。甲狀腺乳突狀癌的診斷高度依賴細胞核的特異形態，其細胞核仁通常不明顯，因此巨大且紅色的核仁並非其典型表現，故選項 C 為正確答案。\n\n【選項詳解】\n- A. 正確敘述。毛玻璃樣核（Ground-glass nuclei，又稱 Orphan Annie eye nuclei）是由於染色質極度細分散且貼近核膜，使核中心呈現空亮或像磨砂玻璃般的外觀，是甲狀腺乳突狀癌最具特徵的核變化。\n- B. 正確敘述。核內偽包含體（Intranuclear pseudo-inclusions）是由於細胞質呈囊狀嵌入細胞核內，在切片上看起來像核內有邊界清楚的圓形包含體，是診斷甲狀腺乳突狀癌的重要佐證。\n- C. 錯誤敘述。巨大且偏紅的核仁（Giant and red nucleoli）是何杰金氏淋巴瘤（Hodgkin lymphoma）中 Reed-Sternberg（RS）細胞的經典特徵（貓頭鷹眼外觀），甲狀腺乳突狀癌的細胞核仁通常非常小且不明顯。\n- D. 正確敘述。核溝（Intranuclear grooves）是由於核膜發生摺疊，在核內形成一條或數條深色線條，使細胞核看起來像咖啡豆，是甲狀腺乳突狀癌在細針穿刺或切片上的常見核特徵。\n\n【核心考點】\n甲狀腺乳突狀癌（PTC）的三大經典細胞核特徵：毛玻璃樣核（Orphan Annie eye）、核內偽包含體（pseudo-inclusions）與核溝（nuclear grooves）。",
+      "key_point": "甲狀腺乳突狀癌的核變化為 Ground-glass (Orphan Annie eye) 核、核內偽包含體與核溝；巨大偏紅的核仁是何杰金氏淋巴瘤 RS 細胞的特徵。",
+      "flashcard_front": "甲狀腺乳突狀癌 (PTC) 的三大典型細胞核病理特徵為何？",
+      "flashcard_back": "1. 毛玻璃樣核 (Ground-glass / Orphan Annie eye nuclei)\n2. 核內偽包含體 (Intranuclear pseudo-inclusions)\n3. 核溝 (Intranuclear grooves，咖啡豆樣核)",
+      "flashcard_summary": "甲狀腺乳突狀癌 -> 典型核變化為毛玻璃核、偽包含體、核溝，無巨大紅核仁。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n本題詢問異位妊娠（子宮外孕）的流行病學、病因與病理生理。子宮外孕絕大多數發生於輸卵管，卵巢妊娠相對極為罕見，故選項 A 敘述錯誤，為本題答案。\n\n【選項詳解】\n- A. 不正確敘述。異位妊娠最常見的著床位置為「輸卵管」（fallopian tube），約佔所有病例的 95% 以上，其中又以壺腹部（ampulla）最常見；而卵巢妊娠（ovarian pregnancy）的發生率極低，僅佔約 0.5% 到 1% 左右。\n- B. 正確敘述。骨盆腔發炎（PID）引起的慢性輸卵管發炎是異位妊娠最重要的危險因子，發炎會導致輸卵管黏膜粘連、狹窄或纖毛擺動受損，使受精卵難以順利運送至子宮腔。\n- C. 正確敘述。子宮內膜異位症（可能在輸卵管周圍引起粘連與變形）或是先前有過輸卵管結紮、成形術等盆腔手術病史，都會改變輸卵管的結構與暢通度，進而增加子宮外孕風險。\n- D. 正確敘述。當懷孕發生時，體內升高的孕激素會刺激黃體化反應，不論受精卵著床於何處，著床局部及其附近的間質細胞均有可能發生蛻膜化（decidual changes）的生理與病理改變。\n\n【核心考點】\n子宮外孕的好發部位（輸卵管為最常見，約 95%）、危險因子（PID 最重要，其次為子宮內膜異位、開刀史）及局部蛻膜化病理反應。",
+      "key_point": "子宮外孕最常見的著床位置是輸卵管（尤其是壺腹部），最主要的危險因子是骨盆腔發炎（PID）導致的輸卵管損傷。",
+      "flashcard_front": "子宮外孕 (Ectopic pregnancy) 最常見的著床部位與最主要的危險因子？",
+      "flashcard_back": "最常見部位為輸卵管 (Fallopian tube，佔 95% 以上，特別是壺腹部)；最主要的危險因子為骨盆腔發炎 (PID) 導致的輸卵管炎。",
+      "flashcard_summary": "異位妊娠 -> 輸卵管最常見，PID 為最主要危險因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題詢問良性前列腺增生症（BPH）的病理特徵與致病機轉。BPH 的發生主要是由於細胞凋亡受到抑制，使得細胞生存時間延長並在組織中累積，而非單純因為上皮細胞的大量有絲分裂與增殖，故選項 C 敘述不正確，為本題答案。\n\n【選項詳解】\n- A. 正確敘述。良性前列腺增生症的盛行率隨年齡增加而顯著上升，是 50 歲以上男性最常見的良性前列腺疾病，也是引起中老年男性排尿障礙的主要病因。\n- B. 正確敘述。在組織病理學上，BPH 的特徵是圍繞尿道的前列腺移行區（transition zone）內，上皮細胞與纖維肌肉間質（fibromuscular stroma）共同發生結節性增生（nodular hyperplasia）。\n- C. 不正確敘述。BPH 導致腺體肥大的致病機轉中，核心機制是「細胞凋亡（apoptosis）的減少」，使老化的上皮與間質細胞壽命延長、逐漸累積，並非因為細胞有高度的有絲分裂或大量增殖。\n- D. 正確敘述。雄性素（androgen）在 BPH 的發展中至關重要。睪酮在細胞內被 5-alpha 還原酶轉化為活性更強的雙氫睪酮（DHT），DHT 與雄性素受體結合後會刺激局部生長因子釋放並抑制細胞凋亡。\n\n【核心考點】\n良性前列腺增生症（BPH）的發病機轉（主要是細胞凋亡減少，而非大量分裂增殖）、移行區的結節性增生，以及雙氫睪酮（DHT）的作用。",
+      "key_point": "BPH 的病理核心是前列腺移行區的結節性增生，其發病機制主要是因為細胞凋亡減少，而非上皮細胞有高度的分裂增殖。",
+      "flashcard_front": "良性前列腺增生症 (BPH) 的組織發生部位與核心致病機轉？",
+      "flashcard_back": "發生在前列腺的移行區 (Transition zone)，表現為結節性增生；核心機轉是受雙氫睪酮 (DHT) 刺激導致「細胞凋亡減少 (Apoptosis decreased)」，使細胞累積，而非單純的大量增殖。",
+      "flashcard_summary": "BPH -> 移行區結節增生，主因細胞凋亡減少，與 DHT 密切相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n本題詢問隱睪症的發育過程、解剖學特徵與臨床併發症。睪丸下降的發育路徑中，若發生中途停留，最常見的阻礙位置是腹股溝管而非腹腔內部，故選項 D 敘述錯誤，為本題答案。\n\n【選項詳解】\n- A. 正確敘述。睪丸的下降過程分為兩期。第一期為腹部位移期（transabdominal phase），睪丸從後腹腔降至骨盆腔的內腹股溝環處，此期主要由穆勒氏管抑制素（MIS，又稱 AMH）及胰島素樣胜肽 3（INSL3）所控制。\n- B. 正確敘述。第二期為腹股溝陰囊期（inguinoscrotal phase），睪丸經由腹股溝管下移進入陰囊，此階段是高度依賴雄性素（androgen，特別是睪酮轉化為雙氫睪酮）及生殖股神經釋放的降鈣素基因相關肽（CGRP）之調控。\n- C. 正確敘述。未下降的睪丸因處於腹腔或腹股溝的高溫環境下，會導致生殖細胞發育受阻與萎縮。若未在適當時機（通常是一歲前）進行睪丸固定術，其日後發生睪丸生殖細胞癌（特別是精原細胞瘤 seminoma）的風險會比常人高出數倍。\n- D. 不正確敘述。隱睪症中睪丸在下降路徑中停留（arrest）最常見的解剖學位置是「腹股溝管（inguinal canal）」，約佔所有隱睪病例的 60% 至 70%；停留在腹腔（abdominal cavity）或腹股溝外環附近的比例相對較低。\n\n【核心考點】\n睪丸下降的兩階段調控因素（第一期 MIS/INSL3、第二期 Androgen）、隱睪症最常見的停留位置（腹股溝管），以及未及時治療引發睪丸癌的風險。",
+      "key_point": "隱睪症中睪丸未下降最常見的停留位置是腹股溝管（inguinal canal），而非腹腔。未及時治療會大幅增加睪丸癌的風險。",
+      "flashcard_front": "睪丸下降的兩個階段調控激素與隱睪症最常見的停留位置？",
+      "flashcard_back": "第一階段 (腹部位移期)：穆勒氏管抑制素 (MIS/AMH) 與 INSL3 調控。\n第二階段 (腹股溝陰囊期)：雄性素 (Androgen) 調控。\n最常見停留位置：腹股溝管 (Inguinal canal)。",
+      "flashcard_summary": "隱睪症 -> 睪丸最常停留在腹股溝管；第一期受 MIS 調控，第二期受雄性素調控。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題詢問成骨不全症（藍骨病/易骨折症）的分子生物學病理機制。成骨不全症是由於編碼骨骼主要結構蛋白的基因突變，導致該結構蛋白合成量不足或結構異常，故選項 A 第一型膠原蛋白為正確答案。\n\n【選項詳解】\n- A. 正確。成骨不全症（Osteogenesis imperfecta）主要是由於編碼「第一型膠原蛋白（Type I collagen）」的基因（COL1A1 或 COL1A2）發生突變。第一型膠原蛋白是骨骼、鞏膜、牙齒和皮膚中最主要的結構多胜肽，因此合成異常會導致骨骼極度脆弱易折、牙齒發育不全，以及因鞏膜變薄透出下方脈絡膜藍色色素而呈現的「藍色鞏膜」（blue sclerae）。\n- B. 錯誤。第二型膠原蛋白（Type II collagen）主要分佈於透明軟骨與眼球玻璃體中。第二型膠原蛋白合成異常會導致軟骨發育不全或脊椎骨骺發育不良等疾病，而非成骨不全症。\n- C. 錯誤。第三型膠原蛋白（Type III collagen）主要存在於血管壁、皮膚與內臟等富含彈性的組織中。其基因（COL3A1）突變會導致血管型 Ehlers-Danlos 症候群（vEDS），引發動脈破裂或中空器官穿孔。\n- D. 錯誤。第四型膠原蛋白（Type IV collagen）是人體所有基底膜（basement membranes）的主要結構成分。其編碼基因突變會導致 Alport 症候群，臨床表現為血尿、進行性腎衰竭與感音神經性聽力喪失。\n\n【核心考點】\n成骨不全症的基因突變與第一型膠原蛋白缺陷的關聯，以及一至四型膠原蛋白在人體內的分佈與相關病理病變（第一型：成骨不全；第二型：軟骨發育不全；第三型：血管型 EDS；第四型：Alport 症候群）。",
+      "key_point": "成骨不全症是由於第一型膠原蛋白（Type I collagen）合成異常（基因 COL1A1/COL1A2 突變），臨床特徵為易骨折與藍色鞏膜。",
+      "flashcard_front": "成骨不全症 (Osteogenesis imperfecta) 的病理機制與一至四型膠原蛋白的典型疾病對應？",
+      "flashcard_back": "成骨不全症為第一型膠原蛋白缺陷。\n其他對應：\n- 第一型：成骨不全症 (骨骼脆弱、藍色鞏膜)。\n- 第二型：軟骨發育不全症 (Achondrogenesis type II)。\n- 第三型：血管型 Ehlers-Danlos 症候群 (血管破裂)。\n- 第四型：Alport 症候群 (血尿、聽力受損)。",
+      "flashcard_summary": "成骨不全症 -> 第一型膠原蛋白 (Type I collagen) 合成缺陷所致。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題詢問不同神經退化性疾病與其特異性異常堆積蛋白質的對應關係。肌萎縮性脊髓側索硬化症主要病理特徵是 TDP-43 蛋白堆積，而非 Tau 蛋白，故選項 C 配對錯誤，為本題答案。\n\n【選項詳解】\n- A. 正確敘述。額顳葉變性/額顳葉失智症（FTLD）主要有兩大病理亞型：一種是 Tau 蛋白異常累積的 FTLD-Tau，另一種是 TDP-43 蛋白（TDA-43 結合蛋白）在神經元胞質中異常沉積的 FTLD-TDP，因此該配對正確。\n- B. 正確敘述。阿茲海默症（AD）的兩大病理標誌為：由細胞外 β-類澱粉蛋白（Aβ）異常沉積所形成的類澱粉斑塊（amyloid plaques），以及由細胞內過度磷酸化的 Tau 蛋白沉積形成的神經纖維糾結（NFTs）。\n- C. 錯誤敘述。肌萎縮性脊髓側索硬化症（ALS，又稱漸凍症）在病理上主要表現為運動神經元胞質內 TDP-43 蛋白的泛素化沉積（佔約 97% 的病例），或是 SOD1、FUS 蛋白的堆積，而與「Tau 蛋白」的沉積無關。\n- D. 正確敘述。帕金森氏症（PD）與路易氏體失智症（DLB）的核心病理特徵是黑質等區域的神經元內部出現路易氏體（Lewy bodies），其最主要的異常堆積成分為 α-synuclein（Alpha-突觸核蛋白）。\n\n【核心考點】\n神經退化性疾病的蛋白質病理學（proteinopathies）分類。熟記常見疾病對應堆積蛋白：AD（Aβ、Tau）、PD（α-synuclein）、ALS（TDP-43、SOD1）、FTLD（Tau、TDP-43）。",
+      "key_point": "肌萎縮性脊髓側索硬化症（ALS）病理特徵是 TDP-43（或 SOD1、FUS）的異常堆積，與 Tau 蛋白無關。",
+      "flashcard_front": "四大神經退化性疾病與其特異性異常堆積蛋白的病理配對？",
+      "flashcard_back": "1. 阿茲海默症 (AD)：Aβ (細胞外) 與過度磷酸化 Tau 蛋白 (細胞內)。\n2. 帕金森氏症 (PD)：α-synuclein (路易氏體)。\n3. 漸凍症 (ALS)：TDP-43 (最常見)、SOD1、FUS。\n4. 額顳葉失智症 (FTLD)：TDP-43 或 Tau。",
+      "flashcard_summary": "神經退化性疾病 -> ALS 主要堆積 TDP-43，而非 Tau。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題詢問 JC 病毒（JCV）在中樞神經系統中感染的親和性細胞。JCV 會特異性感染膠細胞，導致進行性多灶性白質腦病。考選部公布此題答 A 或 B 均給分，故選項 A 與 B 皆為正確答案。\n補充提醒：本題原標準答案僅公布 A，後經考選部複決更正為答 A 或 B 均給分。\n\n【選項詳解】\n- A. 正確。JC 病毒（JCV）主要在「寡樹突神經膠細胞（oligodendrocytes）」中進行溶胞性複製，破壞此類負責形成髓鞘的細胞，進而導致大腦多處發生溫重的脫髓鞘病變（demyelination），這是進行性多灶性白質腦病（PML）最核心的病理特徵。\n- B. 正確。JCV 也會感染「星狀神經膠細胞（astrocytes）」，受感染的星狀細胞細胞核會顯著增大、染色質異常，並轉變為具有多形性的異常巨大細胞（atypical astrocytes），外觀類似惡性神經膠細胞瘤。因星狀神經膠細胞同為主要受害細胞，考選部複決後答 B 亦給分。\n- C. 錯誤。微膠細胞（microglia）是中樞神經系統中的巨噬細胞，主要參與免疫反應與吞噬，並非 JCV 複製與造成主要病變的宿主細胞。\n- D. 錯誤。神經元細胞（neurons）對 JCV 的感染具有高度抗性，病理上在 PML 患者的神經元通常不受 JCV 侵害。\n\n【核心考點】\nJC 病毒（JCV）對中樞神經膠細胞（寡樹突神經膠細胞與星狀神經膠細胞）的感染特異性，及其引發的進行性多灶性白質腦病（PML）病理改變（脫髓鞘與異型星狀細胞）。",
+      "key_point": "JC 病毒主要感染寡樹突神經膠細胞（造成溶胞性脫髓鞘）與星狀神經膠細胞（造成星狀細胞異型性），引起 PML；本題答 A 或 B 均給分。",
+      "flashcard_front": "JC 病毒 (JCV) 在中樞神經系統中主要感染哪些細胞？其引起的典型疾病為何？",
+      "flashcard_back": "主要感染「寡樹突神經膠細胞」與「星狀神經膠細胞」；會引發「進行性多灶性白質腦病 (PML)」，病理特徵為多灶性脫髓鞘與異型星狀細胞。",
+      "flashcard_summary": "JCV -> 感染寡樹突與星狀神經膠細胞，引發 PML；答 A 或 B 均給分。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:56:00+08:00",
+      "manual_review_notes": [
+        "官方更正：第100題答A或B均給分，已於詳解加上補充提醒。"
+      ]
+    }
+  ]
+}

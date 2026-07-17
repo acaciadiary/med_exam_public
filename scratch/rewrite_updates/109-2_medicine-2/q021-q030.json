@@ -1,0 +1,139 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-2.json",
+  "dataset_id": "109-2_medicine-2",
+  "range": { "start": 21, "end": 30 },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題詢問在B細胞發育早期進行抗體重組(V(D)J recombination)時，何種酵素「不參與」此過程。V(D)J重組需要重組酶(RAG-1/RAG-2)負責切開DNA，並透過非同源性末端接合(NHEJ)途徑(包含DNA-PK、DNA ligase IV等)修復拼接；而AID主要在B細胞活化後參與體細胞超突變與抗體類別轉換。\n\n【選項詳解】\n- A. 正確。activation-induced cytidine deaminase(AID) 是本題所選的例外選項。AID (活性誘導胞嘧啶去胺酶) 主要作用於B細胞被抗原活化後的生發中心(germinal center)階段，負責介導體細胞超突變(somatic hypermutation, SHM)與抗體類別轉換重組(class switch recombination, CSR)，並不參與骨髓中未成熟B細胞發育早期的V(D)J基因重組。\n- B. 錯誤。DNA-dependent protein kinase(DNA-PK) 是參與V(D)J重組的酵素，因此不選。DNA-PK在V(D)J重組中扮演關鍵角色，主要負責辨識RAG切開DNA後所產生的雙股斷裂，並募集其他修復蛋白以進行非同源性末端接合(NHEJ)的DNA修復。\n- C. 錯誤。recombination-activating gene(RAG) 是參與V(D)J重組的酵素，因此不選。RAG-1和RAG-2共同組成重組酶複合物，能特異性辨識DNA上的重組訊號序列(RSS)並將其切開，是啟動V(D)J基因重組不可或缺的首要酵素。\n- D. 錯誤。DNA ligase IV 是參與V(D)J重組的酵素，因此不選。DNA ligase IV與XRCC4蛋白形成複合物，在非同源性末端接合(NHEJ)的最後步驟中，負責將斷裂且經處理完畢的DNA骨架重新接合起來。\n\n【核心考點】\n區分抗體基因V(D)J重組(發生於骨髓中B細胞發育早期，使用RAG與NHEJ修復酶)與體細胞超突變/類別轉換(發生於周邊淋巴器官B細胞活化後，使用AID)的酵素參與差異。",
+      "key_point": "V(D)J重組與體細胞超突變/抗體類別轉換的發生階段與所用酵素不同。",
+      "flashcard_front": "抗體基因 V(D)J 重組 vs. 體細胞超突變之酵素差異",
+      "flashcard_back": "V(D)J重組在發育早期(骨髓)由RAG-1/2與NHEJ修復酶介導；體細胞超突變在活化後(生發中心)由AID介導。",
+      "flashcard_summary": "V(D)J重組需RAG與NHEJ；體細胞超突變及類別轉換需AID。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題要求選出「不直接參與」毒殺性T細胞(CTL)對靶細胞執行毒殺效應的分子。CTL殺死靶細胞的直接機制包括釋放穿孔素(perforin)和顆粒酶(granzyme)的顆粒導向途徑，或是透過表面表現的FasL與靶細胞的Fas結合啟動凋亡；而IFN-γ雖由CTL分泌，但其功能在於免疫調節而非直接毒殺。\n\n【選項詳解】\n- A. 錯誤。FasL 與CTL直接毒殺相關，故不選。CTL表面會表現FasL (Fas ligand)，與靶細胞表面受體Fas結合後，會募集FADD並活化Caspase-8，藉由外在凋亡途徑直接誘導靶細胞凋亡。\n- B. 錯誤. Perforin 與CTL直接毒殺相關，故不選。穿孔素(Perforin)是由CTL釋放的胞吐顆粒成分，可在靶細胞膜上聚合並形成孔洞，以利顆粒酶進入細胞質。\n- C. 錯誤。Granzyme 與CTL直接毒殺相關，故不選。顆粒酶(Granzyme，主要是Granzyme B)藉由穿孔素造成的孔洞或內吞作用進入靶細胞，能直接切開並活化Caspase-3等效應分子，引發細胞凋亡。\n- D. 正確。IFN-γ 與直接毒殺作用無直接關聯，是本題正確選項。干擾素-γ (IFN-γ) 是一種由CTL與TH1細胞分泌的促發炎細胞激素，主要生理功能是活化巨噬細胞、上調MHC分子表現及促進細胞介導免疫，並不直接參與CTL對靶細胞的膜穿孔或凋亡引導等即時毒殺過程。\n\n【核心考點】\n毒殺性T細胞(CTL)的直接毒殺機制(穿孔素/顆粒酶途徑、Fas/FasL凋亡途徑)與細胞激素介導的免疫調節(如IFN-γ)之區別。",
+      "key_point": "CTL的直接毒殺機制包含穿孔素/顆粒酶途徑與Fas/FasL凋亡途徑，IFN-γ則為活化巨噬細胞的調節性細胞激素。",
+      "flashcard_front": "毒殺性T細胞(CTL)的毒殺分子與機制",
+      "flashcard_back": "直接毒殺機制為 perforin/granzyme 及 FasL/Fas 途徑；IFN-γ為調節性細胞激素，不直接介導毒殺。",
+      "flashcard_summary": "CTL直接毒殺分子包含perforin、granzyme與FasL；IFN-γ為免疫調節。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題詢問抗體「親合力成熟作用(affinity maturation)」相關機制的錯誤描述。親合力成熟是B細胞在生發中心發生體細胞超突變(SHM)並經由濾泡樹突細胞(FDC)篩選出高親合力BCR的過程，其中超突變僅發生在編碼抗體結合部位的「變異區」(variable region)，不會發生在「固定區」(constant region)。\n\n【選項詳解】\n- A. 正確。此選項描述「在變異區和固定區造成胺基酸序列的改變」是錯誤的，故為本題應選答案。體細胞超突變(SHM)高度局限在Ig基因的「變異區」(V region)，特別是互補決定區(CDR)，其目的在於微調抗體與抗原的親合力；若固定區發生突變，將破壞抗體恆定的結構與效應功能，故該處不受此突變機制影響。\n- B. 錯誤。此選項敘述正確，故不選。體細胞超突變需要脫胺酶 AID 的參與，將胞嘧啶(C)去胺化轉變為尿嘧啶(U)，使DNA複製或修復時產生鹼基錯配或切除，進而引發高頻率的點突變。\n- C. 錯誤。此選項敘述正確，故不選。體細胞超突變是隨機發生的點突變，因此突變後的B細胞抗原接受器(BCR)親合力可能增強、減弱或保持不變，必須透過後續篩選機制去蕪存菁。\n- D. 錯誤。此選項敘述正確，故不選。突變後的B細胞在生發中心會與濾泡樹突細胞(FDC)表面的抗原競爭結合，只有結合力強者能獲得存活訊號與CD4+ T細胞的輔助，親合力低者則會因缺乏訊號而走向凋亡。\n\n【核心考點】\n體細胞超突變(SHM)的基因發生區域(僅限變異區)、AID的分子機轉(C去胺為U)以及濾泡樹突細胞(FDC)在高親合力B細胞陽性篩選中的關鍵角色。",
+      "key_point": "體細胞超突變(SHM)僅限於Ig基因的變異區(variable region)，不發生於固定區。",
+      "flashcard_front": "親合力成熟中體細胞超突變(SHM)的發生區域",
+      "flashcard_back": "體細胞超突變只發生在編碼抗原結合部位的「變異區(variable region)」，固定區(constant region)序列不變。",
+      "flashcard_summary": "體細胞超突變(SHM)發生在變異區；固定區無SHM。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題考查小兒麻痺疫苗(polio vaccines)與小兒麻痺病毒的微生物特性，需找出「錯誤」敘述。小兒麻痺病毒(Poliovirus)屬於人類專屬病原體，在自然界中沒有非人類的動物宿主，因此無法感染牛隻。\n\n【選項詳解】\n- A. 錯誤。此選項敘述正確，故不選。小兒麻痺疫苗確實分為不活化疫苗(IPV，沙克疫苗 Salk vaccine)與減毒活疫苗(OPV，沙賓疫苗 Sabin vaccine)兩大類，提供不同形式的免疫保護。\n- B. 正確。此選項描述「小兒麻痺病毒可感染人類與牛隻」是錯誤的，故為本題正確選項。小兒麻痺病毒是腸病毒的一種，其宿主範圍極窄，在自然環境下僅能感染人類，牛隻等家畜並非其宿主。\n- C. 錯誤。此選項敘述正確，故不選。為避免減毒活疫苗(OPV)在極罕見情況下突變回覆毒力(VDPV)造成疫苗相關麻痺，台灣目前已全面改用去活性的注射小兒麻痺疫苗(IPV)作為常規接種推薦。\n- D. 錯誤。此選項敘述正確，故不選。傳統的口服沙賓疫苗(OPV)是三價疫苗，由第一、二、三型的減毒小兒麻痺病毒株混合配製而成，能同時針對三種血清型產生黏膜免疫。\n\n【核心考點】\n小兒麻痺病毒的宿主特異性(僅限人類)及沙克疫苗(IPV，去活性注射)與沙賓疫苗(OPV，減毒口服)的臨床應用差異。",
+      "key_point": "小兒麻痺病毒(Poliovirus)僅感染人類，天然狀態下無其他動物宿主。",
+      "flashcard_front": "小兒麻痺病毒(Poliovirus)的宿主範圍",
+      "flashcard_back": "小兒麻痺病毒是人類專性病毒，在自然界中僅感染人類，不能感染牛隻等其他動物。",
+      "flashcard_summary": "小兒麻痺病毒為人類專性，不感染牛隻。沙賓疫苗為口服減毒，沙克疫苗為注射去活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題考查「衛生假說(hygiene hypothesis)」與過敏性疾病發病的相互關係，需選出「錯誤」的敘述。衛生假說指出，幼年期缺乏微生物暴露(如過度乾淨、使用抗生素破壞腸道菌相)會妨礙免疫耐受的發展，使免疫反應偏向Th2型，從而「增加」過敏與氣喘的風險。\n\n【選項詳解】\n- A. 錯誤。此選項敘述正確，故不選。發達與先進國家因環境衛生好、微生物接觸少，兒童的免疫系統缺乏早期訓練，導致過敏性疾病的發病率顯著高於發展中國家。\n- B. 錯誤。此選項敘述正確，故不選. 寄生蟲(如蠕蟲)感染能誘導調節性T細胞(Treg)分泌IL-10等抑制性細胞激素；若長期使用驅蟲藥使人體缺乏寄生蟲暴露，將失去此種免疫抑制機制，反而更易引發過敏。\n- C. 錯誤。此選項敘述正確，故不選。兒童早期適度暴露於非致病性或一般環境微生物/感染，有助於活化Th1免疫反應並誘導Treg細胞，從而抑制偏向過敏反應的Th2反應。\n- D. 正確。此選項描述「小孩長期使用抗生素可減少氣喘發生」是錯誤的，故為本題正確選項。長期或早期使用抗生素會大量殺滅體內的正常菌群(特別是腸道微生態)，阻礙免疫系統的正常發育，臨床研究顯示這反而會「增加」氣喘及其他過敏性疾病的發生機率。\n\n【核心考點】\n衛生假說的免疫學機制，即早期適度微生物與寄生蟲暴露可平衡Th1/Th2並促進Treg功能，而抗生素濫用破壞菌相會增加過敏風險。",
+      "key_point": "根據衛生假說，早期使用或濫用抗生素破壞腸道微生態，會增加氣喘等過敏性疾病風險。",
+      "flashcard_front": "衛生假說與早期使用抗生素的關係",
+      "flashcard_back": "早期或長期使用抗生素會破壞正常菌相、妨礙免疫耐受發育，從而「增加」(而非減少)氣喘等過敏病風險。",
+      "flashcard_summary": "衛生假說指早期微生物暴露可預防過敏；抗生素破壞菌相會增加氣喘風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題考查免疫系統建立「自體耐受性」中「中樞耐受性(central tolerance)」的特徵。中樞耐受性是指在初級淋巴器官(如胸腺)中，未成熟淋巴細胞若對呈獻的自體抗原產生過強反應，便會被清除(陰性選擇)或轉化為調節性T細胞(Treg)。\n\n【選項詳解】\n- A. 錯誤。在淋巴結消除自體反應性淋巴細胞屬於周邊耐受性(peripheral tolerance)，而非中樞耐受性。淋巴結是次級淋巴器官，在中樞未被消除而漏網的自體反應性淋巴細胞，會在周邊透過無反應性(anergy)、抑制或凋亡來控制。\n- B. 正確。中樞耐受性的關鍵機制之一，即胸腺髓質上皮細胞在自體免疫調節因子(AIRE)控制下，能表現並呈獻多種平時僅存在於周邊特定組織的抗原(如胰島素、甲狀腺球蛋白等)，藉此在胸腺內消除與這些抗原強烈結合的發育中T細胞。\n- C. 錯誤。中樞耐受性主要依靠細胞凋亡( clonal deletion / 陰性選擇)來清除自體反應性細胞，而非主要透過調節細胞激素方向(cytokine deviation)使淋巴細胞偏向TH2型；且TH2細胞本身也與多種過敏及自體免疫有關。\n- D. 錯誤。組織的隔絕性(例如血腦屏障、眼睛前房、睪丸等免疫特權部位)使淋巴細胞無法接觸自體抗原，此機制稱為抗原隱蔽(antigen sequestration)，是周邊耐受性的一種形式，而非中樞耐受性。\n\n【核心考點】\n自體免疫耐受性中「中樞耐受性」的生理機制。",
+      "key_point": "中樞耐受性在初級淋巴器官(如胸腺)中建立，AIRE控制胸腺髓質上皮細胞表現周邊抗原以進行陰性選擇。",
+      "flashcard_front": "T細胞中樞耐受性(central tolerance)的建立機制",
+      "flashcard_back": "在胸腺內，AIRE誘導胸腺髓質上皮細胞表現周邊組織抗原，藉此消除強烈辨識自體抗原的發育中T細胞。",
+      "flashcard_summary": "中樞耐受性發生於胸腺及骨髓，靠呈獻周邊抗原進行陰性選擇；淋巴結與組織隔絕屬周邊耐受。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題考查T細胞辨識腫瘤抗原的機制。人體內T細胞可以辨識由腫瘤過度表現的自體蛋白質(如黑色素瘤的酪氨酸酶)所產生的胜肽，因為極高濃度的胜肽與MHC分子呈獻，能夠活化原本親合力較低、未在中樞被清除的自體反應性T細胞。\n\n【選項詳解】\n- A. 錯誤。雖然腫瘤變異會表現出如「癌-睪丸抗原(cancer-testis antigens)」，但這些抗原在成年周邊組織(除睪丸外)不表現，因此胸腺中並未建立針對此抗原的中樞耐受，故「可以」產生辨識這些抗原的T細胞來發揮抗腫瘤作用，非「無法產生」。\n- B. 正確。酪氨酸酶(tyrosinase)是黑色素細胞的正常分化抗原，在黑色素瘤中常有極高的表達。當這種正常分化抗原胜肽以非常高密度呈獻在MHC分子上時，能越過原本對該自體抗原較弱的耐受閾值，刺激並活化特定的抗腫瘤T淋巴球。\n- C. 錯誤。PD-L1或PD-L2是免疫檢查點配體，通常是「腫瘤細胞」或「免疫抑制性細胞」過度表現以與T細胞表面的PD-1結合，進而「抑制」T細胞的活化與辨識效應，而非由「T淋巴球表現」來幫助辨識突變抗原。\n- D. 錯誤。HER-2/neu是表皮生長因子受體家族成員，其高表現與腫瘤增殖及惡性度有關，也是T細胞可辨識的腫瘤抗原之一。它本身並不具備直接「抑制T淋巴球對抗原辨識」的功能。\n\n【核心考點】\n腫瘤淋巴球對自體抗原衍生的腫瘤抗原的辨識機制。",
+      "key_point": "腫瘤過度表現正常分化抗原(如酪氨酸酶)時，高密度的胜肽:MHC呈獻能活化未被中樞耐受消除的低親合力自體反應性T細胞。",
+      "flashcard_front": "T細胞對自體衍生腫瘤抗原(如酪氨酸酶)的辨識機制",
+      "flashcard_back": "當黑色素細胞分化抗原酪氨酸酶在黑色素瘤中過度表現，高密度的「胜肽:MHC」能刺激並活化特定的抗腫瘤T細胞。",
+      "flashcard_summary": "黑色素瘤過度表現酪氨酸酶胜肽:MHC，活化低親合力自體反應性T細胞；PD-L1通常由腫瘤細胞表現以抑制T細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題原本詢問與器官移植排斥反應「不相關」的分子。在臨床移植免疫中，同種異體排斥主要由主要組織相容性複合物(MHC class I 與 class II)分子不相容所主導，次要組織相容性抗原也會誘發排斥。而非典型的MHC class I分子 HLA-G 主要表達於胎盤滋養層，具備抑制免疫反應的作用，與移植排斥呈負相關(即不促進排斥)。考選部原給答案為A，但因A、B、C皆與排斥密切相關，題意與事實矛盾，最終官方公布「一律給分」。\n\n【選項詳解】\n- A. 正確。MHC class I分子 (如 HLA-A, B, C) 遍布於所有具核細胞表面。在同種異體移植中，供體的MHC class I分子是受體CD8+ 毒殺性T細胞直接辨識的首要標的，與引發急性排斥反應密切相關。\n- B. 正確。MHC class II分子 (如 HLA-DR, DP, DQ) 主要表達於抗原呈現細胞。移植時供體器官內的樹突細胞( passenger leukocytes)會帶有MHC class II分子，能強烈活化受體的CD4+ 輔助性T細胞，是啟動排斥級聯反應的關鍵。\n- C. 正確。次要組織吻合抗原(minor histocompatibility antigens) 是指除MHC之外，其他具有多型性的自體蛋白質片段。當主MHC完全吻合時(如兄弟姊妹間)，次要抗原的不吻合仍會經由自體MHC呈現，進而誘發較緩慢的慢性移植排斥。\n- D. 正確。HLA-G 是一種非典型(non-classical)且多型性極低的MHC class I分子，主要生理功能是與NK細胞或T細胞表面的抑制性受體(如ILT2, ILT4)結合，引導免疫耐受，在胎母界面與腫瘤免疫逃逸中扮演保護角色，與促進器官移植排斥並不相關。\n\n【核心考點】\n器官移植排斥反應中涉及的MHC分子角色及本題爭議說明。",
+      "key_point": "器官移植排斥主要由MHC class I/II與次要組織吻合抗原不相容介導；HLA-G是非典型MHC-I分子，主要功能為引導免疫耐受。",
+      "flashcard_front": "器官移植排斥相關分子與HLA-G的角色",
+      "flashcard_back": "MHC I/II及次要抗原皆介導排斥。HLA-G為非典型MHC class I，主要與抑制性受體結合以引導免疫耐受(本題考選部最後一律給分)。",
+      "flashcard_summary": "MHC I、II與次要組織吻合抗原與排斥相關；HLA-G介導免疫耐受不促進排斥(本題一律給分)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": [
+        "本題考選部最後公布一律給分。實際上MHC class I、MHC class II與次要組織吻合抗原皆與移植物排斥高度相關，而非典型MHC class I分子HLA-G主要介導免疫耐受，故本題原答案A有誤。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題考查菲律賓毛線蟲(Capillaria philippinensis)的感染途徑、生活史及臨床表現，需找出「無關」(錯誤)的敘述。人類感染菲律賓毛線蟲並非因為食入受「蟲卵」(eggs)污染的魚肉，而是因為食入含有「感染性幼蟲(infective larvae)」的未煮熟淡水魚肉。\n\n【選項詳解】\n- A. 正確。此選項敘述「因食入被蟲卵污染的魚肉而感染」是錯誤的，故為本題正確選項。菲律賓毛線蟲的傳播鏈中，蟲卵隨糞便排出後需在水中孵化，並被淡水魚食入，在魚肌肉或內臟中發育為感染性「幼蟲」，人因生食含此「幼蟲」的魚肉才被感染，而非直接食入蟲卵。\n- B. 錯誤。此選項敘述正確，故不選。菲律賓毛線蟲具有獨特的「自體感染(autoinfection)」機制。雌蟲在宿主腸道內產下的薄殼卵可直接孵化出幼蟲，不需排出體外即可在腸腔內發育為成蟲，導致宿主體內蟲體數暴增。\n- C. 錯誤。此選項敘述正確，故不選。重度感染時，大量蟲體寄生在小腸黏膜，會破壞腸壁完整性並造成蛋白質流失性腸病(protein-losing enteropathy)，進而引起嚴重的低蛋白血症及全身性水腫。\n- D. 錯誤。此選項敘述正確，故不選。自體感染會導致極嚴重的頑固性水瀉，病患常伴隨嚴重的電解質流失(如低鉀血症)與脫水，臨床治療上除了給予驅蟲藥(如mebendazole)外，必須積極補充電解質與水分。\n\n【核心考點】\n菲律賓毛線蟲的感染源、生活史與臨床表現。",
+      "key_point": "菲律賓毛線蟲(Capillaria philippinensis)經由食入含感染性幼蟲的生魚肉而感染，並可在腸道內進行自體感染。",
+      "flashcard_front": "菲律賓毛線蟲的感染途徑與自體感染",
+      "flashcard_back": "感染途徑為吃入含「幼蟲」而非蟲卵的生魚肉。在腸腔內可自體感染，導致重度感染、低蛋白血症與水瀉。",
+      "flashcard_summary": "菲律賓毛線蟲經食入幼蟲魚肉感染，腸腔內自體感染，引起流失性腸病(低蛋白血症)與嚴重脫水。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題詢問「片山熱(Katayama fever)」是由哪一種寄生蟲感染所引起的。片山熱是指急性血吸蟲病(acute schistosomiasis)的臨床表現，通常發生在宿主首次感染日本血吸蟲(Schistosoma japonicum)等血吸蟲後數週，因大量蟲卵釋放引起的免疫複合物超敏反應。\n\n【選項詳解】\n- A. 錯誤。中華肝吸蟲(Clonorchis sinensis) 寄生於膽道系統，主要引起膽管炎、膽結石，長期感染與膽管癌(cholangiocarcinoma)密切相關，但不會引起片山熱的急性超敏反應表現。\n- B. 正確。日本血吸蟲(Schistosoma japonicum) 在宿主門脈系統內發育為成蟲並開始大量產卵，蟲卵釋放的抗原會誘發強烈的全身性過敏反應，即「片山熱」，臨床表現為發燒、蕁麻疹、淋巴結與肝脾腫大及顯著的嗜酸性白血球增多。\n- C. 錯誤。伊羅棘口吸蟲(Echinostoma ilocanum) 寄生在人類小腸，輕度感染多無症狀，重度感染主要引起腹痛、腹瀉等消化道症狀，與片山熱無關。\n- D. 錯誤。槍狀肝吸蟲(Dicrocoelium dendriticum) 亦寄生於膽道，為人畜共通傳染病，引起膽管炎與肝纖維化，但不具有像血吸蟲產卵時引發片山熱這種特異性的急性全身性反應。\n\n【核心考點】\n片山熱(Katayama fever)的病原體歸屬。",
+      "key_point": "片山熱(Katayama fever)是急性血吸蟲病(如日本血吸蟲)的特異性過敏反應表現。",
+      "flashcard_front": "片山熱(Katayama fever)的致病病原",
+      "flashcard_back": "片山熱是日本血吸蟲或曼氏血吸蟲大量產卵時，引起的急性全身性免疫複合物反應(發燒、蕁麻疹、嗜酸球增多)。",
+      "flashcard_summary": "片山熱為急性血吸蟲病(如日本血吸蟲)產卵時的全身性免疫反應；中華肝吸蟲主要與膽管癌相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-17T18:55:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
