@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問總膽管結石何者正確。ERCP 加 sphincterotomy/取石是總膽管結石常用且成功率高的治療方式之一，尤其適合先解除膽道阻塞。官方答案 A。\n\n【選項詳解】\n- A. ERCP 可直接取出 CBD stone 或放置支架，是常用治療方式，因此正確。\n- B. ERCP 取出總膽管結石成功率通常高於 50%，本項明顯低估。\n- C. ERCP 後復發風險常與年齡、膽道擴張、膽囊未處理等因素相關，老人不一定低於年輕人；本項不正確。\n- D. 腹腔鏡膽囊切除合併總膽管探查是選項之一，但不一定優先於 ERCP；需依病人狀況與資源決定。\n\n【核心考點】\nCBD stone 可用 ERCP 取石，成功率高且常作為解除膽道阻塞的一線方式。",
+      "key_point": "CBD stone；ERCP",
+      "flashcard_front": "總膽管結石常以 ERCP 取石；不是只有不到 50% 成功。",
+      "flashcard_back": "總膽管結石 -> ERCP 是治療方式",
+      "flashcard_summary": "總膽管結石常以 ERCP 取石；不是只有不到 50% 成功。 -> 總膽管結石 -> ERCP 是治療方式",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本題問 single-incision laparoscopic surgery 設備與操作益處何者錯誤。單孔手術器械容易互相干擾，因此細長或小直徑器械與鏡頭都有助於減少碰撞、增加操作空間與視野。官方答案 C。\n\n【選項詳解】\n- A. 細長器械可減少體外手柄與體內器械互相碰撞，對單孔手術有幫助。\n- B. 較細長器械可在狹小切口與有限 triangulation 下提升操作便利性，敘述正確。\n- C. 小直徑鏡頭可減少單孔通道擁擠，對操作空間有幫助；說沒有幫助是錯誤。\n- D. 高解析影像能補償單孔手術視角限制並提升辨識組織能力，敘述正確。\n\n【核心考點】\n單孔腹腔鏡的難點是器械擁擠與碰撞；細長器械、小直徑鏡頭與高解析視野都有幫助。",
+      "key_point": "single-incision laparoscopic surgery；小直徑鏡頭",
+      "flashcard_front": "單孔手術空間有限，小直徑鏡頭可減少擁擠，不是無幫助。",
+      "flashcard_back": "單孔腹腔鏡 -> C 否定小鏡頭效益",
+      "flashcard_summary": "單孔手術空間有限，小直徑鏡頭可減少擁擠，不是無幫助。 -> 單孔腹腔鏡 -> C 否定小鏡頭效益",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題問哪項不是 robotic surgery 的優點。達文西系統提供符合人體工學的 console、3D 立體視野、影像穩定與去顫，但仍需要 bedside assistant 更換器械、吸引、牽引與處理突發狀況。官方答案 D。\n\n【選項詳解】\n- A. Console 可讓外科醫師以較符合人體工學的姿勢操作，是機械手臂優點之一。\n- B. 3D stereoscopic vision 是 robotic surgery 的重要優勢，可增加深度感。\n- C. 系統可過濾手部 tremor，讓精細操作更穩定，敘述屬優點。\n- D. 手術仍需 bedside assistant 協助 trocar、換器械、吸引與緊急處理；說不需要助手是錯誤。\n\n【核心考點】\nRobotic surgery 有 3D 視野與 tremor filtering，但仍需要 bedside assistant。",
+      "key_point": "robotic surgery；bedside assistant",
+      "flashcard_front": "達文西優點包含 3D、去顫與人體工學；缺點是仍需床邊助手與團隊配合。",
+      "flashcard_back": "robotic surgery -> 仍需 bedside assistant",
+      "flashcard_summary": "達文西優點包含 3D、去顫與人體工學；缺點是仍需床邊助手與團隊配合。 -> robotic surgery -> 仍需 bedside assistant",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題術後第 7 天開始正常進食後，引流量突然增加且變成乳白混濁，病人無發燒，最符合淋巴管受傷後的 chyle leak。官方答案 C。\n\n【選項詳解】\n- A. Pancreatic leak 常見引流液 amylase 升高，外觀不一定是乳白色，且與進食脂肪後乳糜增加的線索較不吻合。\n- B. Intra-abdominal abscess 常伴發燒、腹痛、白血球上升或膿性引流；本題無感染症狀，不像膿瘍。\n- C. Chyle leak 典型在恢復進食尤其脂肪攝取後出現乳白色高量引流液，因此最可能。\n- D. Bile leak 常呈黃綠色膽汁樣，引流液 bilirubin 高，不會典型呈乳白色混濁。\n\n【核心考點】\n術後進食後乳白色大量引流液，要想到 chyle leak。",
+      "key_point": "chyle leak；胰十二指腸切除術後",
+      "flashcard_front": "進食後引流變乳白且量大，最符合乳糜液滲漏。",
+      "flashcard_back": "術後乳白引流 -> chyle leak",
+      "flashcard_summary": "進食後引流變乳白且量大，最符合乳糜液滲漏。 -> 術後乳白引流 -> chyle leak",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題承上題診斷 chyle leak，檢查應見三酸甘油脂升高、膽固醇相對低，且淋巴球比例高。官方答案 A：4、5。\n\n【選項詳解】\n- A. Chyle 富含 triglyceride 與淋巴球，cholesterol 相對低，因此 4、5 符合診斷。\n- B. 細菌培養陽性偏向膿瘍或感染；amylase 高偏向胰液滲漏，不符合 chyle leak。\n- C. 細菌培養陽性與低 triglyceride、高 cholesterol 都不支持乳糜液滲漏。\n- D. Amylase 高是 pancreatic leak 線索；低 triglyceride 與高 cholesterol 也和 chyle leak 相反。\n\n【核心考點】\nChyle leak：drain triglyceride 高、lymphocyte predominance、cholesterol 相對低。",
+      "key_point": "chyle leak；triglyceride；lymphocyte",
+      "flashcard_front": "乳糜液滲漏檢查是 TG 高與淋巴球比例高。",
+      "flashcard_back": "chyle leak 檢驗 -> 4 和 5",
+      "flashcard_summary": "乳糜液滲漏檢查是 TG 高與淋巴球比例高。 -> chyle leak 檢驗 -> 4 和 5",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題病人頸椎骨折合併四肢癱瘓、低血壓、心跳不快且四肢不冰冷，符合脊髓損傷後交感神經失張力造成的 neurogenic shock。官方答案 C。\n\n【選項詳解】\n- A. Anaphylactic shock 通常有過敏暴露、皮疹、支氣管痙攣或血管性水腫，題幹沒有這些線索。\n- B. Hypovolemic shock 常見心搏過速與四肢冰冷濕黏；本題沒有失血線索，且心跳 60/min 不符合代償性心搏過速。\n- C. 高位脊髓損傷會造成交感輸出下降、血管擴張與相對 bradycardia，最符合 neurogenic shock。\n- D. Cardiogenic shock 需心肌梗塞、心律不整或心泵衰竭線索；題幹主要是頸髓損傷。\n\n【核心考點】\n頸髓損傷後低血壓合併相對心搏過慢與溫暖肢體，典型為 neurogenic shock。",
+      "key_point": "neurogenic shock；cervical spinal cord injury",
+      "flashcard_front": "高位脊髓損傷造成交感失張力，休克時不會有典型心搏過速。",
+      "flashcard_back": "頸髓損傷休克 -> neurogenic shock",
+      "flashcard_summary": "高位脊髓損傷造成交感失張力，休克時不會有典型心搏過速。 -> 頸髓損傷休克 -> neurogenic shock",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題年輕運動員扭轉落地、膝內啪聲、數小時內大量血膝，最典型是 anterior cruciate ligament 斷裂。官方答案 B。\n\n【選項詳解】\n- A. Quadriceps tendon rupture 多見於較年長或慢性肌腱病變，會有主動伸膝困難，不是急性血膝最典型原因。\n- B. ACL rupture 常在非接觸或扭轉落地時發生，聽到 pop 並快速 hemarthrosis，是最符合的診斷。\n- C. Patellar tendon rupture 會造成主動伸膝障礙與髕骨高位，題幹沒有這些伸膝機轉線索。\n- D. Prepatellar bursitis 是髕前滑囊發炎腫脹，通常不是關節腔抽出大量暗紅血液。\n\n【核心考點】\n運動扭轉落地後 pop 聲加快速 hemarthrosis，要想到 ACL rupture。",
+      "key_point": "ACL rupture；acute hemarthrosis",
+      "flashcard_front": "年輕運動員扭轉受傷、啪聲、數小時內血膝，最像 ACL 斷裂。",
+      "flashcard_back": "急性血膝 -> ACL rupture",
+      "flashcard_summary": "年輕運動員扭轉受傷、啪聲、數小時內血膝，最像 ACL 斷裂。 -> 急性血膝 -> ACL rupture",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題問 Paget disease 何者最正確。Paget disease 是骨吸收與骨生成都增加、重塑失序的高轉換骨病；病理可見 mosaic pattern、粗大骨小樑、woven bone 與 cement lines。官方答案 B。\n\n【選項詳解】\n- A. Paget disease 不是單純骨生成增加且骨吸收降低，而是破骨與造骨活動都增加但排列混亂，故錯。\n- B. 粗大骨小樑、不規則 woven bone 與明顯 cement lines 是典型病理特徵，因此正確。\n- C. 尿中 pyridinoline、deoxypyridinoline 等骨吸收標記通常升高，不是偏低。\n- D. 治療常用 bisphosphonate 抑制破骨細胞活性，不是連續 PTH 注射。\n\n【核心考點】\nPaget disease 是高骨轉換且重塑混亂；病理為 mosaic cement lines，治療常用 bisphosphonate。",
+      "key_point": "Paget disease；cement lines；bisphosphonate",
+      "flashcard_front": "Paget 病理有粗大骨小樑與 mosaic cement lines；骨轉換標記升高。",
+      "flashcard_back": "Paget disease -> mosaic cement lines",
+      "flashcard_summary": "Paget 病理有粗大骨小樑與 mosaic cement lines；骨轉換標記升高。 -> Paget disease -> mosaic cement lines",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題問 solitary osteochondroma 與 multiple hereditary exostoses 何者最正確。發生在骨盆、肩胛骨等軀幹扁平骨的外生骨贅，惡性轉化為 chondrosarcoma 的風險較高。官方答案 C。\n\n【選項詳解】\n- A. Multiple hereditary exostoses 多為自體顯性遺傳，外顯率高；不是自體隱性且外顯率低。\n- B. Osteochondroma 的骨性突起通常朝遠離相鄰關節方向生長，不是朝關節方向。\n- C. 骨盆、肩胛骨等扁平骨病灶較難追蹤且 cartilage cap 惡性變風險較高，因此本項正確。\n- D. 無症狀 osteochondroma 常可觀察到骨骼成熟後；未成熟前常規切除並非必要，除非疼痛、壓迫或疑惡性。\n\n【核心考點】\nOsteochondroma 若位於骨盆或肩胛骨等軀幹扁平骨，惡性轉化風險較高。",
+      "key_point": "osteochondroma；multiple hereditary exostoses",
+      "flashcard_front": "MHE 是 AD；骨盆/肩胛骨外生骨贅惡性化風險較高。",
+      "flashcard_back": "骨軟骨瘤 -> 軀幹扁平骨惡性化風險高",
+      "flashcard_summary": "MHE 是 AD；骨盆/肩胛骨外生骨贅惡性化風險較高。 -> 骨軟骨瘤 -> 軀幹扁平骨惡性化風險高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題問踝部骨折 X 光三相位何者最不適當。踝部標準影像包含 AP、lateral、mortise；AP view 不是用來判斷跟骨骨折的最佳相位，跟骨需側位與 axial/Harris view。官方答案 C。\n\n【選項詳解】\n- A. 踝部骨折基本 X 光常包含 AP、lateral、mortise views，敘述正確。\n- B. Mortise view 可打開 ankle mortise，對判斷 talar lateral shift 與 syndesmosis/medial clear space 有幫助。\n- C. Calcaneus fracture 不是靠踝部 AP view 最有助判斷，需跟骨專用影像；本項最不適當。\n- D. Lateral view 可看 posterior malleolus fragment 與踝關節後方關係，敘述正確。\n\n【核心考點】\n踝部骨折看 AP、lateral、mortise；跟骨骨折需跟骨專用側位與軸位，不是踝 AP 最有用。",
+      "key_point": "ankle fracture；mortise view；calcaneus",
+      "flashcard_front": "Mortise 看距骨外移；側位看後踝；跟骨骨折不是踝 AP 的重點。",
+      "flashcard_back": "踝部 X 光 -> AP 不最適合看跟骨",
+      "flashcard_summary": "Mortise 看距骨外移；側位看後踝；跟骨骨折不是踝 AP 的重點。 -> 踝部 X 光 -> AP 不最適合看跟骨",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

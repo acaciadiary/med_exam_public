@@ -1,6 +1,6 @@
 ---
 name: medical-exam-explainer
-description: Use when creating, rewriting, auditing, or batch-updating high-quality Traditional Chinese explanations for Taiwan medical exam question JSON files in this project. Trigger when the user asks to 製作詳解、重寫詳解、修正低品質詳解、把某幾年或某 18 張考卷詳解重寫、處理某一年考卷、分 6 張考卷處理、只替換 explanation/詳解欄位、不改網頁架構、或完成後提醒用 GitHub Desktop Commit and Push origin.
+description: Use when creating, rewriting, auditing, de-templating, or batch-updating high-quality Traditional Chinese explanations for Taiwan medical exam question JSON files in this project. Trigger when the user asks to 製作詳解、重寫詳解、修正低品質詳解、去除模板味詳解、去除 AI 味、消除套版感、把某幾年或某 18 張考卷詳解重寫、處理某一年考卷、分 6 張考卷處理、只替換 explanation/詳解欄位、不改網頁架構、或完成後提醒用 GitHub Desktop Commit and Push origin.
 ---
 
 # Medical Exam Explainer
@@ -9,11 +9,21 @@ Use this skill to produce high-quality Traditional Chinese explanations for medi
 
 The core rule is simple: **only replace explanation-related content. Do not change the question bank structure or frontend.**
 
+The quality rule is just as important: **rewrites must remove template-flavored explanations.** A completed explanation should not merely pass structure validation; it must avoid AI-like scaffolding, repeated option paragraphs, and generic "not the standard answer" wording.
+
+When the user asks to rewrite explanations, treat de-templating as part of the default task even if they do not repeat it. Before writing or merging, actively look for:
+
+- repeated disease summaries pasted into A-D option explanations.
+- stock phrases such as "對照本題核心解析", "雖然與題目主題相關", "與標準答案的關鍵判斷不一致", or "不是本題標準答案".
+- wrong options that do not explain the option's own false claim.
+- core points that could fit any question instead of the specific exam trap.
+
 ## Scope
 
 Allowed changes:
 
 - Rewrite `explanation` / `詳解` / `解析` fields.
+- Rewrite template-flavored explanations into option-specific, teacher-like exam reasoning.
 - Update closely related learning fields only when they already exist and are clearly derived from the explanation, such as `key_point`, `flashcard_summary`, `flashcard_front`, `flashcard_back`, `review_status`, `explanation_model`, and `explanation_generated_at`.
 - Add a gentle note inside the explanation when the official answer appears questionable.
 - During parallel micro-batch work, writer subagents should create 10-question update JSON files under `scratch/rewrite_updates/` instead of editing the source exam JSON directly. The main thread merges approved updates.

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問脈絡叢乳突狀瘤何者錯誤。此腫瘤兒童較常在側腦室，成人則較常見於第四腦室；官方答案 C 把成人好發位置寫成側腦室。\n\n【選項詳解】\n- A. Choroid plexus papilloma 可見於小孩與成人，只是年齡與位置分布不同，敘述正確。\n- B. 嬰幼兒發生比例較高，且常因腦脊髓液過度生成或阻塞而水腦，敘述正確。\n- C. 成人最常見位置較偏第四腦室；側腦室較典型見於兒童，因此本項錯誤。\n- D. 側腦室腫瘤若壓迫鄰近白質、內囊或造成水腦，可能有半癱等神經缺損，敘述可接受。\n\n【核心考點】\nChoroid plexus papilloma：兒童常在側腦室，成人較常在第四腦室。",
+      "key_point": "choroid plexus papilloma；成人位置",
+      "flashcard_front": "脈絡叢乳突狀瘤成人好發第四腦室；兒童較常側腦室。",
+      "flashcard_back": "脈絡叢乳突狀瘤 -> 成人不是最常側腦室",
+      "flashcard_summary": "脈絡叢乳突狀瘤成人好發第四腦室；兒童較常側腦室。 -> 脈絡叢乳突狀瘤 -> 成人不是最常側腦室",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題描述小腦扁桃體下垂約 5 mm 到頸椎脊髓腔，合併 syringomyelia，但沒有脊柱裂或水腦，最符合 Chiari I malformation。官方答案 A。\n\n【選項詳解】\n- A. Chiari I 是小腦扁桃體下疝，常在較大兒童或成人發現，可合併脊髓空洞症，因此正確。\n- B. Chiari II 常與 myelomeningocele、腦幹與小腦蚓部下移、水腦相關；題幹明確說沒有脊柱裂或水腦，不符合。\n- C. Dandy-Walker syndrome 以小腦蚓部發育不良與第四腦室囊狀擴大為核心，不是單純 tonsillar descent。\n- D. Myelomeningocele 是神經管閉合缺陷，題幹明確排除 spinal bifida 相關病灶。\n\n【核心考點】\nChiari I = cerebellar tonsil herniation，可合併 syringomyelia；Chiari II 常合併 myelomeningocele。",
+      "key_point": "Chiari I；syringomyelia",
+      "flashcard_front": "小腦扁桃體下垂約 5 mm 加 syringomyelia、無脊柱裂水腦，選 Chiari I。",
+      "flashcard_back": "小腦扁桃體下垂 -> Chiari I",
+      "flashcard_summary": "小腦扁桃體下垂約 5 mm 加 syringomyelia、無脊柱裂水腦，選 Chiari I。 -> 小腦扁桃體下垂 -> Chiari I",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問腦膿瘍何者正確。腦膿瘍若突然在數小時內惡化，要想到破入腦室或蜘蛛膜下腔，會造成急性腦膜炎、腦室炎與顱內壓快速上升。官方答案 C。\n\n【選項詳解】\n- A. 腦膿瘍可血行播散，但也常由中耳炎、乳突炎、鼻竇炎、牙源性感染或外傷鄰近擴散而來；不能說通常都是血行進入。\n- B. 好發族群不是單純老年人；兒童、青壯年、免疫低下者或有耳鼻竇感染者都可能發生。\n- C. 膿瘍破入腦室或蜘蛛膜下腔會讓感染突然擴散，臨床可在短時間內急遽惡化，因此正確。\n- D. 典型影像是腦實質 ring-enhancing lesion 與周邊水腫，不是最常表現為額葉腦表面的單純 cystic lesion。\n\n【核心考點】\n腦膿瘍突然惡化要想到 rupture into ventricle/subarachnoid space。",
+      "key_point": "腦膿瘍；急遽惡化；破入腦室",
+      "flashcard_front": "腦膿瘍可由鄰近感染或血行而來；突然惡化最怕破入腦室或蜘蛛膜下腔。",
+      "flashcard_back": "腦膿瘍 -> 急惡化代表破裂擴散",
+      "flashcard_summary": "腦膿瘍可由鄰近感染或血行而來；突然惡化最怕破入腦室或蜘蛛膜下腔。 -> 腦膿瘍 -> 急惡化代表破裂擴散",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題考藥物難治型癲癇且放電點定位在右側顳葉時，哪種手術治癒率最高。局部且可切除的顳葉癲癇以 anterior temporal lobectomy 效果最佳。官方答案 A。\n\n【選項詳解】\n- A. Anterior temporal lobectomy 直接切除癲癇焦點及相關顳葉內側結構，對藥物難治型顳葉癲癇的 seizure-free 比例最高，因此正確。\n- B. Multiple subpial transection 用於焦點位於功能皮質、不能完整切除時，治癒率通常不如顳葉切除。\n- C. Corpus callosotomy 是阻斷癲癇擴散的緩解性手術，常用於跌倒發作等廣泛性癲癇，不是局部顳葉癲癇首選。\n- D. Vagus nerve stimulation 多為減少發作頻率的輔助療法，通常不以治癒為目標。\n\n【核心考點】\n藥物難治且定位明確的顳葉癲癇，anterior temporal lobectomy 的治癒率最高。",
+      "key_point": "顳葉癲癇；anterior temporal lobectomy",
+      "flashcard_front": "可定位、可切除的 temporal lobe epilepsy，首選治癒性手術是 anterior temporal lobectomy。",
+      "flashcard_back": "難治型顳葉癲癇 -> anterior temporal lobectomy",
+      "flashcard_summary": "可定位、可切除的 temporal lobe epilepsy，首選治癒性手術是 anterior temporal lobectomy。 -> 難治型顳葉癲癇 -> anterior temporal lobectomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問後骨間神經受損時哪個肌肉不會無力。Posterior interosseous nerve 是 radial nerve 的深支，支配多數手指與拇指伸肌；extensor carpi radialis longus 通常在 PIN 分支前已由 radial nerve 支配。官方答案 B。\n\n【選項詳解】\n- A. Abductor pollicis longus 由 posterior interosseous nerve 支配，PIN 受損會影響拇指外展與伸展相關動作。\n- B. Extensor carpi radialis longus 多由 radial nerve 在分出 PIN 前支配，因此單純 PIN injury 通常不會使它無力，故為答案。\n- C. Extensor pollicis longus 由 PIN 支配，受損會造成拇指 IP 關節伸展無力。\n- D. Extensor digitorum communis 由 PIN 支配，受損會造成 MCP 伸指無力。\n\n【核心考點】\nPIN 支配多數拇指與手指伸肌；ECRL 在分支前由 radial nerve 支配，通常保留。",
+      "key_point": "posterior interosseous nerve；ECRL",
+      "flashcard_front": "PIN injury 會影響 EPL、APL、EDC；ECRL 通常不受影響。",
+      "flashcard_back": "PIN injury -> ECRL 保留",
+      "flashcard_summary": "PIN injury 會影響 EPL、APL、EDC；ECRL 通常不受影響。 -> PIN injury -> ECRL 保留",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問糖尿病足何者錯誤。糖尿病足合併骨髓炎時，X 光變化常比臨床感染延遲約 2 週甚至更久才明顯；MRI 對早期骨髓炎較敏感。官方答案 A。\n\n【選項詳解】\n- A. X-ray 對早期 osteomyelitis 不敏感，骨質破壞通常需一段時間才看得到；只晚 1 週的說法低估延遲，因此錯誤。\n- B. MRI 對骨髓水腫、骨髓炎與深部軟組織感染敏感，可協助早期診斷，敘述正確。\n- C. Bone scan 對骨代謝活性敏感，雖特異性有限，仍可輔助診斷骨髓炎。\n- D. 糖尿病足潰瘍與感染是非創傷性下肢截肢的重要原因，敘述正確。\n\n【核心考點】\n糖尿病足疑骨髓炎時，早期影像首重 MRI；X-ray 變化常延後出現。",
+      "key_point": "糖尿病足；osteomyelitis；MRI",
+      "flashcard_front": "糖尿病足骨髓炎 X-ray 變化晚，MRI 可早期診斷。",
+      "flashcard_back": "糖尿病足骨髓炎 -> X-ray 不是早期敏感工具",
+      "flashcard_summary": "糖尿病足骨髓炎 X-ray 變化晚，MRI 可早期診斷。 -> 糖尿病足骨髓炎 -> X-ray 不是早期敏感工具",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題考手腕背側伸肌腱區間。第 5 伸展區間內容物是 extensor digiti minimi；第 4 是 EDC/EIP，第 3 是 EPL，第 6 是 ECU。官方答案 D。\n\n【選項詳解】\n- A. Extensor indicis proprius 位於第 4 伸展區間，和 extensor digitorum communis 同區，不是第 5。\n- B. Extensor pollicis longus 位於第 3 伸展區間，繞過 Lister tubercle，不是第 5。\n- C. Extensor carpi ulnaris 位於第 6 伸展區間，最靠尺側，不是第 5。\n- D. Extensor digiti minimi 位於第 5 伸展區間，負責小指伸展，因此正確。\n\n【核心考點】\n手腕伸展區間：3 = EPL，4 = EDC/EIP，5 = EDM，6 = ECU。",
+      "key_point": "腕背伸展區間；EDM",
+      "flashcard_front": "第 5 extensor compartment 是 extensor digiti minimi。",
+      "flashcard_back": "手腕第 5 伸展區間 -> EDM",
+      "flashcard_summary": "第 5 extensor compartment 是 extensor digiti minimi。 -> 手腕第 5 伸展區間 -> EDM",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題考身體各部位拆線時機。臉部與眼皮血流佳、張力小，通常較早拆線約 5-7 天；背部、頭皮、手部多需較久。官方答案 B。\n\n【選項詳解】\n- A. 頭皮通常約 7-10 天拆線，12-14 天偏久，除非特殊張力或癒合風險，不是最適當配對。\n- B. 眼皮皮膚薄、血流佳，拆線約 5-7 天最合適，因此正確。\n- C. 背部張力較大且活動牽拉多，通常需要約 10-14 天，5-7 天太早。\n- D. 手部活動多、張力與污染風險較高，常需約 10-14 天，5-7 天偏早。\n\n【核心考點】\n拆線時間依血流與張力調整：眼皮約 5-7 天，背部與手部較久。",
+      "key_point": "拆線時機；eyelid",
+      "flashcard_front": "眼皮血流佳且張力小，約 5-7 天拆線；背部與手部通常更久。",
+      "flashcard_back": "拆線時間 -> 眼皮 5-7 天",
+      "flashcard_summary": "眼皮血流佳且張力小，約 5-7 天拆線；背部與手部通常更久。 -> 拆線時間 -> 眼皮 5-7 天",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題有圖片，官方答案為 B。題幹描述頭皮快速增生且診斷為 melanoma；臨床上 nodular melanoma 可快速垂直生長，但僅憑文字與未檢視圖片不能獨立確認分型外觀，因此以官方答案與選項邏輯說明。\n\n【選項詳解】\n- A. 若圖片呈現快速隆起、結節狀、顏色不均的病灶，會支持 nodular melanoma；但分型仍需依臨床外觀與病理整體判斷，本項不是官方採認的單一正答。\n- B. Nodular melanoma 可發生在多數有皮膚的部位，包括頭皮與軀幹四肢，不限於手足等肢端部位，因此本項最符合官方答案。\n- C. Melanoma 診斷以完整切除切片較佳，但病灶太大或位置困難時可做 incisional biopsy；切片本身不等於促進腫瘤擴散，故本項錯。\n- D. 可切除 melanoma 的主要治療是手術；放射治療可用於特定輔助或緩和情境，不能說與手術有一樣存活率。\n\n【核心考點】\n黑色素瘤診斷以切片確認；nodular melanoma 可見於多數皮膚部位，治療仍以手術為主。",
+      "key_point": "melanoma；nodular melanoma；切片",
+      "flashcard_front": "Nodular melanoma 可發生於多數皮膚部位；切片不因怕擴散而絕對禁止。",
+      "flashcard_back": "melanoma 圖片題 -> 官方 B，需參照原圖",
+      "flashcard_summary": "Nodular melanoma 可發生於多數皮膚部位；切片不因怕擴散而絕對禁止。 -> melanoma 圖片題 -> 官方 B，需參照原圖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題依賴圖片判讀；目前文字資料沒有圖像，建議人工對照原始試題圖片確認分型。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問乳房重建方式何者錯誤。DIEP flap 保留腹直肌，只取深下腹穿通血管與皮瓣，腹壁疝氣或無力風險通常低於 TRAM flap。官方答案 D。\n\n【選項詳解】\n- A. 義乳重建手術時間較短、沒有取自體皮瓣區傷口，是臨床常見且多數病人會選擇的方式，敘述可接受。\n- B. 放射治療會增加莢膜攣縮、纖維化、脂肪壞死與重建失敗風險，敘述正確。\n- C. Latissimus dorsi flap 可提供可靠軟組織覆蓋，對小乳房或需要補強皮膚軟組織者是不錯選擇。\n- D. DIEP 相較 TRAM 的優點正是較少犧牲腹直肌，腹部疝氣風險較低；說 DIEP 較高比例疝氣是錯誤。\n\n【核心考點】\nTRAM 取腹直肌，DIEP 保留肌肉；DIEP 的腹壁併發症通常較少。",
+      "key_point": "乳房重建；TRAM；DIEP",
+      "flashcard_front": "DIEP flap 保留腹直肌，腹壁疝氣風險低於 TRAM。",
+      "flashcard_back": "乳房重建 -> DIEP 不比 TRAM 更易腹部疝氣",
+      "flashcard_summary": "DIEP flap 保留腹直肌，腹壁疝氣風險低於 TRAM。 -> 乳房重建 -> DIEP 不比 TRAM 更易腹部疝氣",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

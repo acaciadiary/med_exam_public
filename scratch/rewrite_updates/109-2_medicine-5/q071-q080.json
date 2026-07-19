@@ -1,0 +1,148 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問睪丸生理何者正確。LH 作用於 Leydig cell 促進 testosterone 分泌；FSH 作用於 Sertoli cell 支持造精；精液 fructose 主要來自儲精囊。官方答案 C。\n\n【選項詳解】\n- A. LH 主要作用在 Leydig cell，不是 Sertoli cell，因此錯。\n- B. FSH 主要作用在 Sertoli cell，支持 spermatogenesis，不是 Leydig cell。\n- C. Testosterone 由 Leydig cell 產生，是本題正確敘述。\n- D. 精液中的 fructose 主要由 seminal vesicle 分泌，不是前列腺；前列腺主要提供 PSA、citrate 等成分。\n\n【核心考點】\nLH-Leydig-testosterone；FSH-Sertoli-spermatogenesis；fructose 來自 seminal vesicle。",
+      "key_point": "Leydig cell；Sertoli cell；fructose",
+      "flashcard_front": "LH 作用 Leydig 產生 testosterone；FSH 作用 Sertoli；fructose 來自儲精囊。",
+      "flashcard_back": "睪丸生理 -> Leydig 產生 testosterone",
+      "flashcard_summary": "LH 作用 Leydig 產生 testosterone；FSH 作用 Sertoli；fructose 來自儲精囊。 -> 睪丸生理 -> Leydig 產生 testosterone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題為血管攝影圖片題，官方答案 B。下腸繫膜動脈血管攝影若箭號位於直腸上段出血，最可能來源是 superior rectal artery，這是 IMA 的終末分支。官方答案 B。\n\n【選項詳解】\n- A. Internal pudendal artery 來自 internal iliac system，主要供應會陰與外生殖器，不是 IMA 攝影中典型直腸上段出血來源。\n- B. Superior rectal artery 是 inferior mesenteric artery 的延續，供應上直腸，最符合 IMA angiography 的箭號出血。\n- C. Inferior gluteal artery 來自 internal iliac，供應臀部，不符合下腸繫膜動脈攝影路徑。\n- D. Superior vesical artery 供應膀胱上部，來自 internal iliac，不是 IMA 分支。\n\n【核心考點】\nIMA 的終末分支是 superior rectal artery，供應上直腸。",
+      "key_point": "inferior mesenteric artery；superior rectal artery",
+      "flashcard_front": "下腸繫膜動脈攝影看到直腸出血，選 superior rectal artery。",
+      "flashcard_back": "IMA 血管攝影 -> superior rectal artery",
+      "flashcard_summary": "下腸繫膜動脈攝影看到直腸出血，選 superior rectal artery。 -> IMA 血管攝影 -> superior rectal artery",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題仰賴血管攝影箭號位置；目前文字資料沒有圖片，建議人工對照原圖確認出血點。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題為 IVU 圖片題，官方答案 C。肉眼血尿合併腎盂或集尿系統內填充缺損，最要考慮上泌尿道 urothelial cell carcinoma。官方答案 C。\n\n【選項詳解】\n- A. Renal cell carcinoma 多來自腎實質，影像常是實質腫塊造成腎輪廓變形或壓迫 collecting system，不是典型集尿系統內病灶。\n- B. Renal lymphoma 可造成多發腎實質病灶或腎臟腫大，但以肉眼血尿與 IVU 集尿系統填充缺損作為典型表現較不合。\n- C. Renal pelvis/upper tract urothelial carcinoma 常以無痛性血尿表現，IVU 可見集尿系統 filling defect，因此最可能。\n- D. Angiomyolipoma 是含脂肪的腎實質良性腫瘤，CT 脂肪密度較具診斷性，與本題 IVU 線索不符。\n\n【核心考點】\n無痛性肉眼血尿加集尿系統 filling defect，要想到 upper tract urothelial carcinoma。",
+      "key_point": "gross hematuria；IVU；upper tract urothelial carcinoma",
+      "flashcard_front": "IVU 若見 renal pelvis filling defect，最像 renal urothelial cell carcinoma。",
+      "flashcard_back": "血尿 IVU -> 腎盂尿路上皮癌",
+      "flashcard_summary": "IVU 若見 renal pelvis filling defect，最像 renal urothelial cell carcinoma。 -> 血尿 IVU -> 腎盂尿路上皮癌",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題依賴 IVU 圖像；目前文字資料沒有圖片，建議人工對照原圖確認 filling defect 位置。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題為三相式 CT 圖片題，官方答案 B。HCC 典型影像是動脈期增強、門脈/延遲期 washout；AFP 可以正常，肝功能也可能尚可，不能因此排除。官方答案 B。\n\n【選項詳解】\n- A. Hemangioma 典型是周邊結節狀不連續增強並逐漸向中央填入，若題圖為 arterial enhancement with washout 則不符合。\n- B. Hepatocellular carcinoma 可呈 arterial phase hyperenhancement 與 venous washout，即使 AFP 正常仍可能成立，因此正確。\n- C. Hepatic cyst 通常為水樣低密度且不增強，不會有典型三相血流增強變化。\n- D. Cholangiocarcinoma 常有延遲性纖維性增強、膽管擴張或周邊病灶特徵，與典型 HCC vascular pattern 不同。\n\n【核心考點】\nHCC 影像重點是 arterial enhancement 與 portal/venous washout；AFP 正常不能排除。",
+      "key_point": "hepatocellular carcinoma；triphasic CT；AFP normal",
+      "flashcard_front": "三相 CT 若動脈期增強、靜脈期 washout，即使 AFP 正常仍可診斷 HCC。",
+      "flashcard_back": "肝臟三相 CT -> HCC 可 AFP 正常",
+      "flashcard_summary": "三相 CT 若動脈期增強、靜脈期 washout，即使 AFP 正常仍可診斷 HCC。 -> 肝臟三相 CT -> HCC 可 AFP 正常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題仰賴 CT 圖像；目前文字資料沒有圖片，建議人工對照原圖確認增強型態。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題問病態性肥胖術後何者最正確。Roux-en-Y gastric bypass 後常見功能性併發症之一是 dumping syndrome，通常在開始進食後出現心悸、冒汗、腹痛、腹瀉或低血糖相關症狀。官方答案 D。\n\n【選項詳解】\n- A. 胃繞道後若有腸阻塞，依阻塞位置可能出現膽汁性嘔吐；不能說不會有膽汁嘔吐物。\n- B. 術後併發症與病人風險、手術種類及外科技術都有關，不能說與技術無明顯關係。\n- C. 吻合口潰瘍多是較晚期併發症，與胃酸、抽菸、NSAID、缺血等相關，不是通常術後 3-5 天產生。\n- D. Dumping syndrome 是 RYGB 常見併發症，與食物快速進入小腸有關，開始進食後才會表現，因此最正確。\n\n【核心考點】\nRYGB 常見併發症包含 dumping syndrome，與進食後高滲食糜快速進入小腸相關。",
+      "key_point": "Roux-en-Y gastric bypass；dumping syndrome",
+      "flashcard_front": "胃繞道後開始進食出現 dumping syndrome 是常見考點。",
+      "flashcard_back": "減重手術併發症 -> RYGB dumping syndrome",
+      "flashcard_summary": "胃繞道後開始進食出現 dumping syndrome 是常見考點。 -> 減重手術併發症 -> RYGB dumping syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題是懷孕 34 週外傷合併腹痛、陰道出血與休克。需同時照顧母體復甦與胎兒風險；官方答案 A 指出陰道液 pH 偏鹼支持羊膜破裂，但其餘選項有危險或不精確處。\n\n【選項詳解】\n- A. 羊水偏鹼性，陰道分泌物 pH 約 7 可支持 amniotic membrane rupture，需再配合臨床與檢查確認，因此為官方答案。\n- B. 陰道出血時若未先排除 placenta previa，貿然內診可能造成大量出血，應先以超音波等方式評估。\n- C. 懷孕後期休克復甦要避免子宮壓迫下腔靜脈，通常採左側傾斜或墊高右髖使子宮左移；題目寫左側抬高容易造成方向錯誤。\n- D. 孕婦創傷以母體救命優先；必要的腹部或骨盆 CT 不應只因胎兒輻射就禁做，需衡量風險並適當防護。\n\n【核心考點】\n孕婦創傷先救母體；疑前置胎盤避免直接內診，必要影像不可因懷孕一概禁止。",
+      "key_point": "pregnancy trauma；ROM；placenta previa；CT",
+      "flashcard_front": "陰道液 pH 偏鹼支持破水；孕婦休克需左側傾斜/子宮左移並以母體復甦優先。",
+      "flashcard_back": "孕婦創傷 -> pH 7 支持羊膜破裂",
+      "flashcard_summary": "陰道液 pH 偏鹼支持破水；孕婦休克需左側傾斜/子宮左移並以母體復甦優先。 -> 孕婦創傷 -> pH 7 支持羊膜破裂",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題計算 GCS。疼痛刺激會張眼是 E2，發出無法理解聲音是 V2，左右手臂反應要取最佳運動反應；左手能撥開疼痛是 localizes pain，M5。總分 2+2+5=9。官方答案 C。\n\n【選項詳解】\n- A. 7 分低估了最佳運動反應；不能因右手臂變形無反應就忽略左手較好的反應。\n- B. 8 分仍少算了 localizes pain 的 M5，或把運動反應算成 withdraw M4。\n- C. E2、V2、M5 合計 9 分，符合題幹描述，因此正確。\n- D. 10 分會需要更好的睜眼、語言或運動反應；題幹語言只有 incomprehensible sounds，不足以到 10。\n\n【核心考點】\nGCS 計分取最佳反應：E2 + V2 + M5 = 9。",
+      "key_point": "Glasgow Coma Scale；localizes pain",
+      "flashcard_front": "疼痛張眼 E2，不可理解聲音 V2，撥開疼痛 M5，總分 9。",
+      "flashcard_back": "GCS -> 2+2+5=9",
+      "flashcard_summary": "疼痛張眼 E2，不可理解聲音 V2，撥開疼痛 M5，總分 9。 -> GCS -> 2+2+5=9",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題考 HIV 診斷後告知、法定通報與法律責任。醫師有通報主管機關義務；若病人同意，可告知同居女友；病人明知感染仍隱瞞並進行危險性行為造成感染，可能負法律責任。官方答案 C：1、3、4。\n\n【選項詳解】\n- A. 1、2、3 包含『病人不同意仍應立即告知女友』，這會牽涉隱私與法定程序；醫師應走通報與輔導機制，而非任意對伴侶揭露。\n- B. 1、2、4 同樣包含未經同意立即告知伴侶，且漏掉醫師法定通報主管機關義務，因此不正確。\n- C. 1 病人同意可告知、3 法定通報、4 明知感染仍危險傳染可能有法律責任，三者符合題意，因此正確。\n- D. 2 不符合本題保密與通報程序邏輯；雖含 3、4，仍因 2 錯而不選。\n\n【核心考點】\nHIV 確診要通報主管機關；告知伴侶需依病人同意與法定程序處理，不可任意洩露隱私。",
+      "key_point": "HIV；法定通報；告知伴侶",
+      "flashcard_front": "HIV：同意可告知伴侶，醫師須通報主管機關，故意隱瞞傳染可能有法律責任。",
+      "flashcard_back": "HIV 法律倫理 -> 1、3、4",
+      "flashcard_summary": "HIV：同意可告知伴侶，醫師須通報主管機關，故意隱瞞傳染可能有法律責任。 -> HIV 法律倫理 -> 1、3、4",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "法規可能隨時間修訂；本題依 109-2 官方答案與考試邏輯撰寫，若用於現行臨床法規請再查最新規範。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題考有決定能力成年病人的自主權。30 歲未婚男性具決定能力，已經醫師說明並同意手術；即使父母不同意或未知情，醫師也應尊重本人決定並完整記錄。官方答案 C。\n\n【選項詳解】\n- A. 成年且具決定能力者不需要等父母同意才能接受醫療，除非法律另有特殊情況。\n- B. 私下取得父母同意侵犯病人隱私與自主，不是合適作法。\n- C. 尊重病人本人決定，並在病歷記錄告知內容、理解能力與同意過程，是最適當作法。\n- D. 病人明確不願告知父母，進手術室後再通知仍違反其隱私與自主。\n\n【核心考點】\n成年且有決定能力的病人，醫療決定以本人知情同意為準，父母不是必要同意人。",
+      "key_point": "知情同意；成年病人自主權",
+      "flashcard_front": "30 歲具決定能力者可自行同意手術；醫師應尊重並記錄，不私下通知父母。",
+      "flashcard_back": "成年病人自主 -> 尊重本人決定並記錄",
+      "flashcard_summary": "30 歲具決定能力者可自行同意手術；醫師應尊重並記錄，不私下通知父母。 -> 成年病人自主 -> 尊重本人決定並記錄",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題問醫療糾紛後補充病歷何者錯誤。病歷可以補充，但必須真實、標明補記時間與原因，不能在事後加入未曾發生的內容或讓補記看起來像原始紀錄。官方答案 A。\n\n【選項詳解】\n- A. 醫師不能把糾紛後新增內容當作原始病歷任意補上；若未標明補記且內容可疑，法院可不採信，因此本項錯誤。\n- B. 補充病歷應清楚標明補記日期、時間與補記者，避免被認為偽造或變造，敘述正確。\n- C. 若補記內容不是事實，可能涉及業務文書登載不實等刑事責任，敘述正確。\n- D. 不實或可疑補記可能造成舉證妨礙的不利益，民事上可能影響舉證責任分配，敘述正確。\n\n【核心考點】\n病歷補記必須真實且標明補記時間；不可事後偽裝成原始紀錄。",
+      "key_point": "病歷補記；醫療糾紛；舉證妨礙",
+      "flashcard_front": "醫療糾紛後可補記真實內容，但須註明日期時間；不實補記會有刑民事風險。",
+      "flashcard_back": "病歷補記 -> 不能事後偽裝原始紀錄",
+      "flashcard_summary": "醫療糾紛後可補記真實內容，但須註明日期時間；不實補記會有刑民事風險。 -> 病歷補記 -> 不能事後偽裝原始紀錄",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題問黏多醣症病童最少發生哪種骨骼病變。Mucopolysaccharidoses 的 dysostosis multiplex 可見鎖骨變寬、脊椎體形狀異常與髖臼發育不良；髖內翻不是典型常見表現。官方答案 D。\n\n【選項詳解】\n- A. Broad clavicle 屬 dysostosis multiplex 可見的骨骼表現，不是最少發生。\n- B. Ovoid 或異常形狀脊椎體可見於黏多醣症骨病變，屬常見考點。\n- C. Acetabular dysplasia 與髖關節發育異常可見於黏多醣症，不是最少發生。\n- D. MPS 較典型為髖臼發育不良、髖外翻或股骨頭問題；coxa vara 相對不是典型常見，因此最符合答案。\n\n【核心考點】\nMPS 的 dysostosis multiplex 包含鎖骨、脊椎與髖臼異常；coxa vara 相對少見。",
+      "key_point": "mucopolysaccharidoses；dysostosis multiplex",
+      "flashcard_front": "黏多醣症常見 broad clavicle、vertebral body abnormality、acetabular dysplasia；較少 coxa vara。",
+      "flashcard_back": "MPS 骨病變 -> coxa vara 最少見",
+      "flashcard_summary": "黏多醣症常見 broad clavicle、vertebral body abnormality、acetabular dysplasia；較少 coxa vara。 -> MPS 骨病變 -> coxa vara 最少見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題問 cubital tunnel syndrome 何者最不適當。此病是尺神經在肘部受壓，臨床診斷加神經傳導/肌電圖最常用；MRI 不是最常用檢查。官方答案 C。\n\n【選項詳解】\n- A. Cubital tunnel syndrome 是尺神經在肘隧道或其附近受壓，敘述正確。\n- B. 尺神經感覺支配小指與無名指尺側半，麻木位置符合本病。\n- C. 最常用的輔助檢查是 nerve conduction study/electromyography；MRI 可用於特殊結構病灶評估，但不是最常用，因此錯誤。\n- D. 晚期尺神經運動支受損會有 intrinsic muscle wasting 與 claw hand，敘述正確。\n\n【核心考點】\nCubital tunnel syndrome 是尺神經壓迫；常用神經傳導與肌電圖，不是 MRI。",
+      "key_point": "cubital tunnel syndrome；ulnar nerve；EMG",
+      "flashcard_front": "小指與無名指尺側麻、晚期 claw hand；常用 NCS/EMG 檢查。",
+      "flashcard_back": "肘隧道症候群 -> MRI 不是最常用",
+      "flashcard_summary": "小指與無名指尺側麻、晚期 claw hand；常用 NCS/EMG 檢查。 -> 肘隧道症候群 -> MRI 不是最常用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題問 adolescent idiopathic scoliosis 何者最正確。AIS 的典型胸椎主彎凸側多在右側；女性在嚴重或需治療曲線比例較高，但 10 度輕微側彎不會到女男 10:1。官方答案 B。\n\n【選項詳解】\n- A. 側彎角約 10 度時性別差距不大；女性比例會在較大角度、進展性曲線中明顯上升，10 倍說法不適當。\n- B. AIS 最常見胸椎右凸曲線，若胸椎左凸反而要注意非典型原因，因此本項正確。\n- C. Risser sign 通常從髂嵴外側/前外側骨化並向後內側進展，不是前下腸骨脊開始。\n- D. 越年輕、骨骼越不成熟時發病，進展風險越高；年紀越大才發病通常惡化風險較低。\n\n【核心考點】\nAIS 典型胸椎右凸；進展風險高在年紀小、Risser 低、曲線大。",
+      "key_point": "adolescent idiopathic scoliosis；right thoracic curve",
+      "flashcard_front": "青春期自發性脊椎側彎常見右胸凸；越接近骨骼成熟，惡化風險越低。",
+      "flashcard_back": "AIS -> 胸椎凸側多為右側",
+      "flashcard_summary": "青春期自發性脊椎側彎常見右胸凸；越接近骨骼成熟，惡化風險越低。 -> AIS -> 胸椎凸側多為右側",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題問飲食來源草酸占尿中草酸比例。大部分尿中草酸來自內生性代謝，飲食直接貢獻約 10-15%。官方答案 B。\n\n【選項詳解】\n- A. 1-5% 低估飲食草酸對尿中草酸的貢獻，不是典型比例。\n- B. 飲食獲得草酸約占尿液排出草酸 10-15%，是本題記憶點，因此正確。\n- C. 40-50% 過高，會誤以為尿中草酸主要由飲食直接決定。\n- D. 80-90% 明顯過高；尿中草酸多數仍與內生性代謝相關。\n\n【核心考點】\n尿中草酸多數為內生性；飲食草酸約占 10-15%。",
+      "key_point": "oxalate；尿路結石",
+      "flashcard_front": "Dietary oxalate 約占尿中 oxalate 10-15%。",
+      "flashcard_back": "尿中草酸來源 -> 飲食約 10-15%",
+      "flashcard_summary": "Dietary oxalate 約占尿中 oxalate 10-15%。 -> 尿中草酸來源 -> 飲食約 10-15%",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題問睪丸腫瘤何者錯誤。隱睪是睪丸癌風險因子；睪丸固定術主要改善檢查與保留功能，考試傳統常強調不能完全消除或明顯降低癌化風險，尤其小學才手術已偏晚。官方答案 C。\n\n【選項詳解】\n- A. Seminoma 是睪丸生殖細胞腫瘤中常見類型，敘述正確。\n- B. 隱睪病人睪丸腫瘤風險較高，題目給 7-10% 可視為隱睪與腫瘤關聯的考點。\n- C. Orchidopexy 並不能把睪丸癌風險恢復到一般人，且小學時矯正已非最佳早期時機；因此本項說可減少發生為官方錯誤點。\n- D. 胎內荷爾蒙環境與生殖細胞腫瘤風險被認為有關，母體 estrogen 暴露是傳統考點之一，敘述可接受。\n\n【核心考點】\n隱睪增加睪丸癌風險；orchidopexy 改善追蹤與生育，不能視為完全預防癌症。",
+      "key_point": "testicular tumor；cryptorchidism；orchidopexy",
+      "flashcard_front": "隱睪是睪丸癌風險因子；固定術不等於消除癌症風險。",
+      "flashcard_back": "睪丸腫瘤 -> orchidopexy 不可當作癌症預防保證",
+      "flashcard_summary": "隱睪是睪丸癌風險因子；固定術不等於消除癌症風險。 -> 睪丸腫瘤 -> orchidopexy 不可當作癌症預防保證",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題問前列腺癌何者錯誤。PSA 可用於篩檢、風險分層、追蹤治療反應，但不是比影像更適合用來偵測淋巴結轉移的工具。官方答案 A。\n\n【選項詳解】\n- A. PSA 高低反映腫瘤負荷與預後風險，但無法直接定位淋巴結轉移；CT/MRI 等影像才是評估淋巴結的工具，因此本項錯誤。\n- B. 一般而言 PSA 越高，代表腫瘤負荷或進展風險越高，預後較差，敘述正確。\n- C. 前列腺癌常轉移骨骼，晚期死亡病人骨轉移比例高，敘述正確。\n- D. 骨轉移常見於中軸骨，尤其脊椎與骨盆，敘述正確。\n\n【核心考點】\nPSA 用於風險與追蹤，不是偵測淋巴結轉移的影像工具替代品。",
+      "key_point": "prostate cancer；PSA；lymph node metastasis",
+      "flashcard_front": "PSA 高代表風險高，但不能直接偵測淋巴結轉移；骨轉移常在脊椎骨盆。",
+      "flashcard_back": "前列腺癌 -> PSA 不優於影像偵測淋巴結",
+      "flashcard_summary": "PSA 高代表風險高，但不能直接偵測淋巴結轉移；骨轉移常在脊椎骨盆。 -> 前列腺癌 -> PSA 不優於影像偵測淋巴結",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題問腎細胞癌 Stauffer syndrome 可能與何種因子過多有關，官方答案為 GM-CSF。Stauffer syndrome 是腎癌的副腫瘤性肝功能異常，沒有肝轉移卻出現膽汁鬱積型肝功能異常與發炎表現。\n\n【選項詳解】\n- A. TNF 可參與癌症發炎與惡病質，但題目所問的腎癌副腫瘤性肝功能異常並未以 TNF 作為命題關鍵。\n- B. Interferon 與免疫調節相關，也曾出現在腎癌治療歷史中；它不是用來解釋此症候群的主要分泌因子。\n- C. EGF 與細胞增生訊號有關，並非此副腫瘤症候群的考試關鍵。\n- D. 本題官方採 GM-CSF 作為腎癌相關副腫瘤表現可能因子，因此選 D。\n\n【核心考點】\nStauffer syndrome 是 RCC 的副腫瘤性肝功能異常；本題官方因子為 GM-CSF。",
+      "key_point": "renal cell carcinoma；Stauffer syndrome；GM-CSF",
+      "flashcard_front": "RCC 可有 Stauffer syndrome；本題官方選 GM-CSF。",
+      "flashcard_back": "腎癌 Stauffer syndrome -> 官方 GM-CSF",
+      "flashcard_summary": "RCC 可有 Stauffer syndrome；本題官方選 GM-CSF。 -> 腎癌 Stauffer syndrome -> 官方 GM-CSF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "常見現代資料也會提到 IL-6 與 Stauffer syndrome；本題選項沒有 IL-6 且官方答案為 GM-CSF，建議人工複核教材來源。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題問 5-alpha reductase inhibitor 治療 BPH 何者錯誤。5-ARI 透過降低 DHT 使前列腺縮小，主要適合前列腺體積較大的病人；體積小者療效有限。官方答案 D。\n\n【選項詳解】\n- A. Finasteride、dutasteride 抑制 testosterone 轉為 DHT，可讓腺體上皮萎縮並縮小前列腺，敘述正確。\n- B. 5-ARI 起效慢，通常需 6 個月以上才能達最大或明顯療效，敘述正確。\n- C. 治療後前列腺體積可約縮小 20%，PSA 約下降 50%，追蹤 PSA 時要校正解讀，敘述正確。\n- D. 5-ARI 對前列腺較大者效果較好，對小體積 BPH 症狀改善有限；說不論大小均有療效是錯誤。\n\n【核心考點】\n5-ARI 適合較大前列腺，使用後 PSA 約下降一半，效果需數月。",
+      "key_point": "BPH；5-alpha reductase inhibitor；PSA",
+      "flashcard_front": "5-ARI 會降低 DHT、縮小前列腺；不是所有大小前列腺都有效。",
+      "flashcard_back": "BPH 5-ARI -> 大前列腺較有效",
+      "flashcard_summary": "5-ARI 會降低 DHT、縮小前列腺；不是所有大小前列腺都有效。 -> BPH 5-ARI -> 大前列腺較有效",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n本題問急性細菌性副睪丸炎何者錯誤。年輕男性常與性傳染病原如 Chlamydia、Gonorrhea 相關；糖尿病或泌尿道結構問題較常見於年長或複雜感染族群。官方答案 B。\n\n【選項詳解】\n- A. 急性副睪丸炎常造成陰囊疼痛腫脹，嚴重時理學檢查難區分睪丸與副睪丸，敘述正確。\n- B. 年輕男性多與性行為相關病原有關，不是通常與糖尿病有關，因此錯誤。\n- C. 小男孩發生副睪丸炎需考慮尿路先天異常或尿液逆流，敘述正確。\n- D. 若形成膿瘍或感染無法控制，常需外科引流，敘述正確。\n\n【核心考點】\n急性副睪丸炎：年輕男性想到 STI；小兒想到泌尿道解剖異常；膿瘍需引流。",
+      "key_point": "acute epididymitis；STI；糖尿病",
+      "flashcard_front": "年輕男性副睪丸炎多與 Chlamydia/Gonorrhea 相關，不是糖尿病為主。",
+      "flashcard_back": "副睪丸炎 -> 年輕男性不是糖尿病典型",
+      "flashcard_summary": "年輕男性副睪丸炎多與 Chlamydia/Gonorrhea 相關，不是糖尿病為主。 -> 副睪丸炎 -> 年輕男性不是糖尿病典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題問高齡男性低睪固酮無關症狀。低 testosterone 可造成性慾下降、骨質疏鬆、肌肉量下降與肥胖/代謝症候群相關；venous leakage 是陰莖血管閉鎖機制問題，不是低睪固酮本身的典型症狀。官方答案 B。\n\n【選項詳解】\n- A. Decreased libido 是低睪固酮最典型症狀之一，不是答案。\n- B. 海綿體靜脈溢漏屬勃起時靜脈閉鎖功能不全，偏血管結構/功能問題，與低睪固酮症候群不直接相同，因此為答案。\n- C. Testosterone 對骨密度有維持作用，低下可導致 osteoporosis，敘述相關。\n- D. 肥胖與低睪固酮常互相相關，並可伴隨代謝症候群，敘述相關。\n\n【核心考點】\n男性低睪固酮典型為性慾低、骨密度下降、肌肉量下降與代謝問題；venous leak 屬血管性 ED。",
+      "key_point": "late-onset hypogonadism；venous leakage",
+      "flashcard_front": "低睪固酮會低性慾與骨鬆；海綿體 venous leakage 不是典型低睪固酮症狀。",
+      "flashcard_back": "低睪固酮 -> venous leakage 無直接關係",
+      "flashcard_summary": "低睪固酮會低性慾與骨鬆；海綿體 venous leakage 不是典型低睪固酮症狀。 -> 低睪固酮 -> venous leakage 無直接關係",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

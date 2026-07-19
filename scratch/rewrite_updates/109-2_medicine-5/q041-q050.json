@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題問侵襲性乳癌下一步治療何者正確。對適合乳房保留的病人，乳房保留手術加術後放射治療與全乳切除的長期存活率相近。官方答案 B。\n\n【選項詳解】\n- A. 立即乳房重建不會因本身而降低存活率或增加局部復發率；需考量放療與併發症，但不是癌症預後禁忌。\n- B. 乳房保留手術加放射治療可達到與全乳切除相近的長期存活，這是乳癌治療基本觀念，因此正確。\n- C. 侵襲性乳癌乳房保留手術的陰性邊緣原則多為 no ink on tumor，並非為提高存活率一定要大於 2 mm。\n- D. 乳房保留加 clear margin 的局部復發率可受放療與病人因素影響；相較全乳切除不能簡化為完全沒有差別。\n\n【核心考點】\n早期乳癌：BCS + radiotherapy 與 mastectomy 長期存活率相近。",
+      "key_point": "breast conserving surgery；mastectomy",
+      "flashcard_front": "適合病人可選 BCS + RT；長期存活率與全乳切除相近。",
+      "flashcard_back": "乳癌手術選擇 -> BCS+RT 存活率不劣於全乳切除",
+      "flashcard_summary": "適合病人可選 BCS + RT；長期存活率與全乳切除相近。 -> 乳癌手術選擇 -> BCS+RT 存活率不劣於全乳切除",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題問膽道閉鎖診斷的黃金標準，官方答案為肝臟切片。嬰兒長期黃疸合併灰白便要高度懷疑膽道閉鎖，必須快速確認並轉介手術，以免錯過 Kasai portoenterostomy 時機。\n\n【選項詳解】\n- A. 病毒血清可排除 TORCH、肝炎等新生兒膽汁鬱積原因，但不能作為診斷膽道閉鎖的黃金標準。\n- B. 超音波可看 gallbladder、triangular cord sign 與其他構造異常，是重要初步檢查，但診斷力有限。\n- C. HIDA 若無腸道排泄可支持膽道阻塞，但重度肝細胞功能不良也會造成假陽性，不能單獨作黃金標準。\n- D. 在本題選項中，肝臟切片可顯示膽管增生、膽汁栓塞與門脈區纖維化等典型變化，最符合官方答案。\n\n【核心考點】\n膽道閉鎖重點是灰白便與持續膽汁鬱積；本題選項中以肝臟切片作黃金標準。",
+      "key_point": "biliary atresia；clay-colored stool；liver biopsy",
+      "flashcard_front": "灰白便嬰兒要懷疑膽道閉鎖；本題官方選 liver biopsy。",
+      "flashcard_back": "膽道閉鎖診斷 -> 本題選肝臟切片",
+      "flashcard_summary": "灰白便嬰兒要懷疑膽道閉鎖；本題官方選 liver biopsy。 -> 膽道閉鎖診斷 -> 本題選肝臟切片",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "部分臨床教材會把術中膽道攝影視為 definitive test；本題選項無該項且官方答案為肝臟切片，建議保留人工複核註記。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題女嬰 4 個月大已有第二次泌尿道感染，且超音波有輕微水腎；此時最優先要找膀胱輸尿管逆流，檢查是 VCUG。官方答案 C。\n\n【選項詳解】\n- A. 腹部 CT 有輻射且不是評估嬰兒 vesicoureteral reflux 的優先檢查，除非懷疑複雜膿瘍或其他問題。\n- B. MRI 不是反覆嬰兒 UTI 後評估 VUR 的第一線檢查，成本與可近性也不適合優先。\n- C. VCUG 可在排尿時觀察膀胱尿液逆流到輸尿管與腎盂，是評估 VUR 的標準檢查，因此正確。\n- D. IVP 對泌尿道解剖可提供資訊，但對 VUR 診斷不如 VCUG，且已較少作為優先檢查。\n\n【核心考點】\n嬰兒反覆 febrile UTI 加水腎，要優先用 VCUG 評估 vesicoureteral reflux。",
+      "key_point": "recurrent UTI；VCUG；VUR",
+      "flashcard_front": "反覆嬰兒 UTI 合併水腎，下一步優先 VCUG。",
+      "flashcard_back": "反覆嬰兒 UTI -> VCUG",
+      "flashcard_summary": "反覆嬰兒 UTI 合併水腎，下一步優先 VCUG。 -> 反覆嬰兒 UTI -> VCUG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題為食道閉鎖相關圖片題，官方答案 D。新生兒餵食嗆咳、發紺、大量流涎且胃管無法進入胃部，典型懷疑 esophageal atresia with/without tracheoesophageal fistula；需先穩定呼吸、避免吸入，並評估 VACTERL 等合併異常，再安排手術。\n\n【選項詳解】\n- A. 食道閉鎖有多種型態；若本題圖示符合常見 Gross type C 則有 distal TEF，但不是所有食道閉鎖都必定有瘻管，文字上此項需依圖判斷。\n- B. 食道閉鎖常合併 VACTERL 相關異常，術前需檢查心臟、脊椎、肛門、腎臟與四肢等系統，敘述正確。\n- C. Gross type C，即近端食道閉鎖合併遠端氣管食道瘻管，是最常見型態，敘述正確。\n- D. 手術時機需在穩定呼吸、控制吸入風險並完成重要合併異常評估後安排；若說沒有其他緊急狀況就一律儘速手術，官方判為較不適當。\n\n【核心考點】\n食道閉鎖先穩定、抽吸近端囊袋並評估 VACTERL；手術時機取決於整體穩定與合併異常。",
+      "key_point": "esophageal atresia；TEF；VACTERL",
+      "flashcard_front": "新生兒餵食嗆咳、流涎且 NG tube 下不去，懷疑食道閉鎖；術前要評估合併異常。",
+      "flashcard_back": "食道閉鎖 -> 先穩定與評估，不是一句儘速手術",
+      "flashcard_summary": "新生兒餵食嗆咳、流涎且 NG tube 下不去，懷疑食道閉鎖；術前要評估合併異常。 -> 食道閉鎖 -> 先穩定與評估，不是一句儘速手術",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題含食道鋇劑圖；官方答案為 D，但 A 的『必定』也可能因文字解讀有爭議，建議人工對照原圖與官方更正。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題問 omphalocele 與 gastroschisis 何者錯誤。Omphalocele 常有包膜且與染色體、心臟等腸道外異常較相關；gastroschisis 無包膜，較常見腸道發育或功能問題。官方答案 B 把兩者特徵顛倒。\n\n【選項詳解】\n- A. Omphalocele 有囊膜包覆膨出臟器；gastroschisis 腸管直接暴露於羊水，無包膜，敘述正確。\n- B. 腸道發育問題較常見於 gastroschisis；腸道外其他系統異常則較常伴隨 omphalocele，因此本項顛倒而錯誤。\n- C. Omphalocele 缺損位於臍部中線，臍帶插入囊膜，敘述正確。\n- D. Gastroschisis 的腹壁缺損典型在臍右側，敘述正確。\n\n【核心考點】\nOmphalocele 有包膜且常合併腸道外異常；gastroschisis 無包膜且常有腸道問題。",
+      "key_point": "omphalocele；gastroschisis",
+      "flashcard_front": "Omphalocele = 中線、有包膜、多合併其他異常；gastroschisis = 臍右側、無包膜、腸道問題多。",
+      "flashcard_back": "腹壁缺損 -> B 顛倒兩者合併異常",
+      "flashcard_summary": "Omphalocele = 中線、有包膜、多合併其他異常；gastroschisis = 臍右側、無包膜、腸道問題多。 -> 腹壁缺損 -> B 顛倒兩者合併異常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題問哪位未合併疾病的手術病人最需要預防性抗生素。Nuss procedure 會置入金屬矯正板，植入物感染後處理困難，因此最需要 perioperative prophylaxis。官方答案 C。\n\n【選項詳解】\n- A. 一般小兒腹股溝疝氣修補屬乾淨手術，若無網片或高風險因素，預防性抗生素需求較低。\n- B. 單純睪丸固定手術多屬乾淨泌尿/陰囊手術，未合併感染時通常不是最需要抗生素的選項。\n- C. Nuss procedure 會放置胸壁金屬板，植入物感染風險與後果較大，因此最應給預防性抗生素。\n- D. 頸部淋巴管瘤切除若無感染與植入物，通常屬乾淨手術，預防抗生素需求不如置入矯正板明確。\n\n【核心考點】\n有植入物的乾淨手術通常比單純乾淨軟組織手術更需要預防性抗生素。",
+      "key_point": "prophylactic antibiotics；Nuss procedure",
+      "flashcard_front": "Nuss procedure 置入金屬板，最需要預防性抗生素。",
+      "flashcard_back": "小兒手術抗生素 -> 植入物優先",
+      "flashcard_summary": "Nuss procedure 置入金屬板，最需要預防性抗生素。 -> 小兒手術抗生素 -> 植入物優先",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題問兒童頸部淋巴結何時最需要手術切片。鎖骨上淋巴結、單顆較大、持續或質地異常都提高惡性或重要病因風險；2 公分 supraclavicular node 最需要切片。官方答案 B。\n\n【選項詳解】\n- A. 多顆 0.5 公分前頸部淋巴結常見於反應性增生或感染後變化，大小與位置都不特別高風險。\n- B. 鎖骨上淋巴結即使兒童也屬警訊位置，且單顆 2 公分較大，最需要手術切片確認診斷。\n- C. 0.8 公分耳後淋巴結常與頭皮或耳部感染相關，大小未達高風險。\n- D. 0.5 公分枕骨區多顆淋巴結常見於頭皮感染或反應性變化，不是最需要切片者。\n\n【核心考點】\n兒童頸部淋巴結警訊：supraclavicular、>2 cm、持續變大、硬固定或全身症狀。",
+      "key_point": "兒童頸部淋巴結；supraclavicular",
+      "flashcard_front": "鎖骨上 2 公分單顆淋巴結是切片警訊。",
+      "flashcard_back": "兒童淋巴結切片 -> supraclavicular 2 cm",
+      "flashcard_summary": "鎖骨上 2 公分單顆淋巴結是切片警訊。 -> 兒童淋巴結切片 -> supraclavicular 2 cm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題問結腸憩室炎必須手術適應症。游離穿孔造成腹膜炎與結腸膀胱瘻管是明確手術適應症；小型局部膿瘍可先抗生素或引流，貧血較像憩室出血議題，不是憩室炎必須手術。官方答案 B：僅 1、3。\n\n【選項詳解】\n- A. 包含 2 的局部 2 公分膿瘍並不一定必須手術，許多可先保守治療，因此僅 1、2、3 不正確。\n- B. 1 游離穿孔腹膜炎與 3 結腸膀胱瘻管都是複雜性憩室炎手術適應症，因此正確。\n- C. 2 不一定必須手術，4 貧血不是憩室炎本身的手術適應症，故不對。\n- D. 把小膿瘍與貧血都列為必須手術過度擴大適應症，不正確。\n\n【核心考點】\n憩室炎必須手術：free perforation with peritonitis、fistula、無法控制敗血症或保守失敗。",
+      "key_point": "diverticulitis；perforation；colovesical fistula",
+      "flashcard_front": "憩室炎游離穿孔腹膜炎與瘻管需手術；小膿瘍可先保守或引流。",
+      "flashcard_back": "憩室炎手術適應症 -> 1 和 3",
+      "flashcard_summary": "憩室炎游離穿孔腹膜炎與瘻管需手術；小膿瘍可先保守或引流。 -> 憩室炎手術適應症 -> 1 和 3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題比較 UC 與 Crohn colitis 何者錯誤。Crohn disease 典型是 transmural inflammation，會造成腸壁增厚、狹窄與 creeping fat；UC 主要限於黏膜層，較不會有 thickened colon wall。官方答案 A。\n\n【選項詳解】\n- A. Thickened colon wall 是 Crohn colitis 較典型的 gross feature，不是 UC 較多，因此本項錯誤。\n- B. Crohn colitis 可見 transmural lymphoid aggregates 與 granuloma 等特徵，敘述正確。\n- C. UC 以連續性黏膜發炎與潰瘍為主，血便比 Crohn 更典型，敘述正確。\n- D. Crohn disease 會復發於小腸與 pouch，通常是 ileal pouch-anal anastomosis 的禁忌或相對禁忌，敘述正確。\n\n【核心考點】\nUC 主要黏膜層、血便常見；Crohn 是 transmural，腸壁增厚與 lymphoid aggregates 較典型。",
+      "key_point": "ulcerative colitis；Crohn colitis",
+      "flashcard_front": "Crohn 才常見 thickened bowel wall；UC 較典型是血便與連續性黏膜病灶。",
+      "flashcard_back": "UC vs Crohn -> 厚壁屬 Crohn",
+      "flashcard_summary": "Crohn 才常見 thickened bowel wall；UC 較典型是血便與連續性黏膜病灶。 -> UC vs Crohn -> 厚壁屬 Crohn",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題問骨盆底肌肉群何者錯誤。Levator ani 主要包括 pubococcygeus、puborectalis、iliococcygeus；piriformis 屬臀部深層肌，不是 levator ani 的組成。官方答案 A。\n\n【選項詳解】\n- A. Levator ani 不包含 piriformis；應包含 iliococcygeus 等肌群，因此本項錯誤。\n- B. 骨盆底肌肉維持骨盆器官支撐，並與肛門括約肌協調排便控制，敘述正確。\n- C. Puborectalis 形成 U 型吊帶，放鬆時 anorectal angle 變直，有助排便，敘述正確。\n- D. 骨盆底功能障礙可造成便祕、排便不全、失禁或骨盆器官脫垂等問題，敘述正確。\n\n【核心考點】\nLevator ani = pubococcygeus、puborectalis、iliococcygeus；不含 piriformis。",
+      "key_point": "pelvic floor；levator ani；piriformis",
+      "flashcard_front": "提肛肌不包含梨狀肌；恥骨直腸肌放鬆可拉直肛門直腸角。",
+      "flashcard_back": "骨盆底肌肉 -> piriformis 不是 levator ani",
+      "flashcard_summary": "提肛肌不包含梨狀肌；恥骨直腸肌放鬆可拉直肛門直腸角。 -> 骨盆底肌肉 -> piriformis 不是 levator ani",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

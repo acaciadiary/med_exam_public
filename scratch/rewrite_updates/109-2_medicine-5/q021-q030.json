@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問體外循環何者錯誤。Cardiopulmonary bypass 可提供心臟手術需要的無血視野，但時間越長，發炎反應、凝血異常與器官傷害風險越高，不能說沒有時間限制。官方答案 C。\n\n【選項詳解】\n- A. 啟動體外循環前需足量 heparin，使 ACT 通常大於 400-480 秒；題目 300-400 units/kg、ACT >450 秒符合常見原則。\n- B. 常溫灌流量約 2.4 L/min/m2；低溫可降低代謝與氧耗，體溫下降會明顯降低氧氣需求，敘述正確。\n- C. CPB 時間越長，術後出血、發炎、腎傷害、神經併發症等風險增加；不能說使用時間沒有限制，因此錯誤。\n- D. 血液接觸人工管路與非生理灌流可引起凝血異常、全身發炎與栓塞相關器官功能不良，敘述正確。\n\n【核心考點】\n體外循環可創造無血視野，但 CPB time 越久併發症越多，不能視為無限制。",
+      "key_point": "cardiopulmonary bypass；CPB time",
+      "flashcard_front": "CPB 前 heparin、ACT 達標；CPB 時間越久，凝血、發炎、栓塞與器官傷害越多。",
+      "flashcard_back": "體外循環 -> 時間不是沒有限制",
+      "flashcard_summary": "CPB 前 heparin、ACT 達標；CPB 時間越久，凝血、發炎、栓塞與器官傷害越多。 -> 體外循環 -> 時間不是沒有限制",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n本題問心臟瓣膜外科解剖何者錯誤。Koch triangle 是房室結所在的重要區域，三尖瓣手術縫合時最怕傷及傳導系統，不能說不必擔心房室傳導異常。官方答案 C。\n\n【選項詳解】\n- A. 主動脈瓣與肺動脈瓣為三片半月瓣葉組成，敘述正確。\n- B. 僧帽瓣由 anterior leaflet 與 posterior leaflet 兩片瓣葉構成，敘述正確。\n- C. Koch triangle 內有 AV node，三尖瓣修補或置換靠近 septal annulus 縫合時需避開；本項說必須縫合且不用擔心傳導異常，錯誤。\n- D. 左迴旋冠狀動脈走行可接近僧帽瓣後葉瓣環，僧帽瓣手術需注意避免傷及，敘述正確。\n\n【核心考點】\nKoch triangle 含 AV node；三尖瓣手術要避免傷及傳導系統。",
+      "key_point": "Koch triangle；AV node；三尖瓣手術",
+      "flashcard_front": "Koch triangle 是傳導系統危險區，不是可放心縫合的區域。",
+      "flashcard_back": "瓣膜外科解剖 -> Koch triangle 需避開 AV node",
+      "flashcard_summary": "Koch triangle 是傳導系統危險區，不是可放心縫合的區域。 -> 瓣膜外科解剖 -> Koch triangle 需避開 AV node",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題為圖片題，官方答案 A。DeBakey type II 主動脈剝離侷限於升主動脈，不延伸到主動脈弓或降主動脈；題圖中 A 對應的 I 應為升主動脈區段。\n\n【選項詳解】\n- A. 若圖中 I 標示升主動脈，這正是 DeBakey type II 的侵犯範圍，因此為官方答案。\n- B. 若 II 代表主動脈弓或其後續區段，已超出 DeBakey type II 的定義，不符合。\n- C. 若 III 代表降胸主動脈，會接近 DeBakey type III 的概念，不是 type II。\n- D. 若 IV 代表更遠端腹主動脈或分支區，與侷限升主動脈的 type II 不符。\n\n【核心考點】\nDeBakey type II = dissection confined to ascending aorta。",
+      "key_point": "aortic dissection；DeBakey type II",
+      "flashcard_front": "DeBakey II 只侵犯升主動脈；本題依圖中 I 對應升主動脈選 A。",
+      "flashcard_back": "主動脈剝離 -> DeBakey II 侷限升主動脈",
+      "flashcard_summary": "DeBakey II 只侵犯升主動脈；本題依圖中 I 對應升主動脈選 A。 -> 主動脈剝離 -> DeBakey II 侷限升主動脈",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "本題答案仰賴圖中 I-IV 標示；目前文字資料沒有圖片，建議人工對照原圖確認 A/I 是否為升主動脈。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題比較 CABG conduit 的 10 年通暢率。內乳動脈長期通暢率最高，橈動脈通常優於大隱靜脈，因此排序為 1 > 3 > 2。官方答案 A。\n\n【選項詳解】\n- A. Internal mammary artery 尤其 LIMA-to-LAD 長期通暢率最佳，radial artery 次之，saphenous vein graft 較低，故本項正確。\n- B. 大隱靜脈不會優於內乳動脈；把靜脈 graft 放第一不符合長期結果。\n- C. 大隱靜脈與內乳動脈位置顛倒，低估了 arterial graft 的長期通暢優勢。\n- D. 橈動脈雖是動脈 graft，但一般仍不優於內乳動脈；且大隱靜脈不會優於內乳動脈。\n\n【核心考點】\nCABG conduit 長期通暢率：internal mammary artery > radial artery > saphenous vein。",
+      "key_point": "CABG conduit；10 年通暢率",
+      "flashcard_front": "內乳動脈長期通暢率最高，橈動脈次之，大隱靜脈較低。",
+      "flashcard_back": "CABG conduit -> IMA > radial > SVG",
+      "flashcard_summary": "內乳動脈長期通暢率最高，橈動脈次之，大隱靜脈較低。 -> CABG conduit -> IMA > radial > SVG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題描述急性心肌梗塞後休克、Grade 4/6 收縮期雜音與肺水腫，要警覺機械性併發症或嚴重缺血性瓣膜問題，需快速超音波評估與循環支持。錯誤在於把不停跳 CABG 說成狀況差時必須使用的固定策略。官方答案 C。\n\n【選項詳解】\n- A. 新出現 loud systolic murmur 合併肺水腫時，心臟超音波可評估急性二尖瓣逆流、心室中隔破裂與心室功能，應該進行。\n- B. IABP 可作為心因性休克與急性機械併發症的暫時循環支持選項，臨床上可考慮。\n- C. 病況差不代表一定要 off-pump CABG；是否用體外循環取決於病灶、血流動力學與手術策略，說必須不停跳以減少併發症過度武斷。\n- D. 多條冠狀動脈嚴重狹窄且合併休克或機械併發症時，外科血運重建可屬重要適應症，敘述可接受。\n\n【核心考點】\nAMI 後休克合併新雜音要先找機械性併發症；off-pump CABG 不是病況差時的必然選擇。",
+      "key_point": "AMI；新收縮期雜音；off-pump CABG",
+      "flashcard_front": "心肌梗塞後休克加新雜音需 echo 與支持；CABG 技術選擇不是固定必須 off-pump。",
+      "flashcard_back": "AMI 後新雜音 -> C 過度絕對",
+      "flashcard_summary": "心肌梗塞後休克加新雜音需 echo 與支持；CABG 技術選擇不是固定必須 off-pump。 -> AMI 後新雜音 -> C 過度絕對",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題問末期心衰竭治療何者錯誤。STICH 試驗顯示在 CABG 加做 surgical ventricular restoration 並未較單純 CABG 改善主要臨床結局，因此 B 錯。官方答案 B。\n\n【選項詳解】\n- A. HeartMate II 是連續流左心室輔助器，可作為 bridge to transplant，也可作 destination therapy，敘述正確。\n- B. STICH 的 SVR 結果沒有證明 CABG 加左心室成型能改善症狀與存活率；本項把沒有明確利益說成改善，錯誤。\n- C. HeartWare 也是 LVAD，可用於長期支持與移植前橋接，敘述正確。\n- D. Total artificial heart 可在特定雙心室末期衰竭病人作為移植前支持，屬可行治療之一。\n\n【核心考點】\nSTICH：CABG 加 surgical ventricular restoration 未優於單純 CABG 的主要臨床結局。",
+      "key_point": "STICH；SVR；LVAD",
+      "flashcard_front": "末期心衰竭可用 LVAD/人工心臟橋接；STICH 不支持常規加做 SVR 改善存活。",
+      "flashcard_back": "末期心衰竭 -> STICH 不支持 SVR 加成",
+      "flashcard_summary": "末期心衰竭可用 LVAD/人工心臟橋接；STICH 不支持常規加做 SVR 改善存活。 -> 末期心衰竭 -> STICH 不支持 SVR 加成",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題問胸壁腫瘤中哪一種血液檢驗通常不異常。Fibrous dysplasia 是良性骨發育異常，通常沒有特異血液檢驗異常；其他惡性或漿細胞疾病較可能有實驗室異常。官方答案 B。\n\n【選項詳解】\n- A. Plasmacytoma 屬漿細胞腫瘤，可能有單株免疫球蛋白、貧血或骨髓相關檢驗異常，不是最佳答案。\n- B. Fibrous dysplasia 多為局部骨病變，血液檢查通常沒有特殊異常，因此正確。\n- C. Osteosarcoma 可伴隨 alkaline phosphatase 或 LDH 升高，血液檢驗較可能出現異常。\n- D. Ewing sarcoma 可有發炎指標、LDH 或血球相關變化，且為惡性腫瘤，不如 fibrous dysplasia 典型正常。\n\n【核心考點】\n胸壁 fibrous dysplasia 通常血液檢驗無特異異常；惡性骨腫瘤或 plasmacytoma 較可能有異常。",
+      "key_point": "胸壁腫瘤；fibrous dysplasia",
+      "flashcard_front": "Fibrous dysplasia 是良性骨發育異常，通常不造成血液檢驗異常。",
+      "flashcard_back": "胸壁腫瘤血檢 -> fibrous dysplasia 通常正常",
+      "flashcard_summary": "Fibrous dysplasia 是良性骨發育異常，通常不造成血液檢驗異常。 -> 胸壁腫瘤血檢 -> fibrous dysplasia 通常正常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題問縱膈腔生殖細胞瘤何者正確。縱膈腔 GCT 多見於年輕男性，約三分之一為 seminoma；血清腫瘤標記與組織診斷都會影響判斷。官方答案 B。\n\n【選項詳解】\n- A. 縱膈腔 germ cell tumor 不是最常發生在 65 歲以上，典型族群是年輕男性，因此錯。\n- B. 縱膈腔 GCT 中 seminoma 佔相當比例，約三分之一可接受，因此正確。\n- C. Pure seminoma 通常 AFP 不升高，hCG 可輕度上升；若 AFP 高要懷疑 nonseminomatous component，因此本項錯。\n- D. 診斷不能完全不看血液 AFP、beta-hCG 等腫瘤標記；FNA 也不一定是最安全且最正確的唯一方式。\n\n【核心考點】\n縱膈腔 GCT 多見於年輕男性；seminoma 約佔三分之一，AFP 高則不支持 pure seminoma。",
+      "key_point": "mediastinal germ cell tumor；seminoma；AFP",
+      "flashcard_front": "縱膈腔 GCT 約三分之一為 seminoma；pure seminoma 通常 AFP 不升高。",
+      "flashcard_back": "縱膈腔 GCT -> seminoma 約三分之一",
+      "flashcard_summary": "縱膈腔 GCT 約三分之一為 seminoma；pure seminoma 通常 AFP 不升高。 -> 縱膈腔 GCT -> seminoma 約三分之一",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題考成人出血性休克分期。體重 60 公斤成人估計血量約 4.2 公升，第三期出血約 30-40% 全血量，會出現明顯心搏過速、低血壓與尿量下降。官方答案 C。\n\n【選項詳解】\n- A. 第一期出血通常小於 15%，尿量多仍維持大於 30 mL/h；5-15 mL/h 已是較嚴重休克，不符合第一期。\n- B. 第二期呼吸速率多約 20-30 次/分，14-20 次/分較接近第一期或正常範圍。\n- C. 第三期出血量約 30-40% 全身血量，這是 ATLS 分期的典型記憶點，因此正確。\n- D. 第四期心跳通常大於 140/min，100-120/min 較接近第二期，不符合第四期。\n\n【核心考點】\nATLS 出血性休克：Class III = 30-40% blood loss。",
+      "key_point": "hemorrhagic shock；ATLS Class III",
+      "flashcard_front": "60 kg 成人血量約 4.2 L；第三期出血約 30-40%。",
+      "flashcard_back": "出血性休克分期 -> 第三期 30-40%",
+      "flashcard_summary": "60 kg 成人血量約 4.2 L；第三期出血約 30-40%。 -> 出血性休克分期 -> 第三期 30-40%",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題問張力性氣胸與心包膜填塞在理學檢查上的差別。兩者都可能有低血壓與頸靜脈怒張，但張力性氣胸會有單側呼吸聲下降與胸廓異常，tamponade 則以心音變小較典型。官方答案 A。\n\n【選項詳解】\n- A. 張力性氣胸會造成患側呼吸聲降低或消失；心包膜填塞通常不造成兩側呼吸聲不一致，因此這是最能區分的發現。\n- B. 外頸靜脈怒張可見於兩者，通常不是以左右不一致作為主要區分點。\n- C. 心音變小是 tamponade 的 Beck triad 之一，張力性氣胸不典型，但選項 A 更直接區分氣胸。\n- D. 血壓下降兩者都會發生，不能用來區分。\n\n【核心考點】\n張力性氣胸和心包膜填塞都可低血壓/JVD；單側呼吸聲下降指向張力性氣胸。",
+      "key_point": "tension pneumothorax；cardiac tamponade",
+      "flashcard_front": "兩者都可休克與 JVD；呼吸聲不一致最能區分 tension pneumothorax。",
+      "flashcard_back": "張力性氣胸 vs tamponade -> 單側呼吸聲",
+      "flashcard_summary": "兩者都可休克與 JVD；呼吸聲不一致最能區分 tension pneumothorax。 -> 張力性氣胸 vs tamponade -> 單側呼吸聲",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

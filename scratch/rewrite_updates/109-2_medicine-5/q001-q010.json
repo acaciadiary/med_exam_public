@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問零期乳癌敘述何者錯誤。零期乳癌主要指原位癌，尚未穿破基底膜，因此淋巴結轉移風險低；治療重點是局部控制，不是例行腋下淋巴廓清。官方答案 C 是錯誤敘述。\n\n【選項詳解】\n- A. DCIS 常在乳房攝影以顯微鈣化表現，這是臨床篩檢常見線索，敘述正確。\n- B. 原位病灶可呈多灶或範圍較廣分布，術前影像評估切除範圍很重要，敘述正確。\n- C. 零期乳癌通常不需要例行 level II 腋下淋巴廓清；只有在特定高風險或全乳切除情境才會考慮前哨淋巴結評估，因此本項錯誤。\n- D. 原位癌手術後一般不需要全身化學治療；可依病灶與受體狀態考慮放射或荷爾蒙治療，敘述正確。\n\n【核心考點】\n零期乳癌未侵犯基底膜，治療以局部切除或全乳切除搭配適當輔助治療為主，不做例行腋下廓清。",
+      "key_point": "零期乳癌不需例行 level II 腋下淋巴廓清。",
+      "flashcard_front": "carcinoma in situ；DCIS；腋下淋巴廓清",
+      "flashcard_back": "零期乳癌未侵犯基底膜，淋巴轉移風險低；錯誤敘述是例行 level II axillary dissection。",
+      "flashcard_summary": "零期乳癌 -> 不例行腋下淋巴廓清",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題問頸部穿刺傷分區何者錯誤。Zone I 到 Zone III 的位置要由下往上記：Zone I 是胸廓入口到環狀軟骨，Zone II 是環狀軟骨到下顎角，Zone III 是下顎角到顱底。官方答案 C 把 Zone I 與 Zone III 的範圍搞反。\n\n【選項詳解】\n- A. Zone II 位在頸部中段，外科暴露相對容易，因此被稱為最容易手術進入的區域，敘述正確。\n- B. Zone II 從 cricoid cartilage 到 angle of mandible，這是標準分界，敘述正確。\n- C. angle of mandible 到 skull base 是 Zone III，不是 Zone I；Zone I 應是胸廓入口到 cricoid cartilage，因此本項錯誤。\n- D. Zone III 靠近顱底，含頸動脈、椎動脈等重要血管，外科近端控制困難，敘述正確。\n\n【核心考點】\n頸部穿刺傷分區：Zone I 在下、Zone II 在中、Zone III 在上；下顎角到顱底屬 Zone III。",
+      "key_point": "頸部外傷 Zone III 是下顎角到顱底。",
+      "flashcard_front": "neck penetrating injury；Zone I II III",
+      "flashcard_back": "Zone I: thoracic inlet-cricoid；Zone II: cricoid-mandible angle；Zone III: mandible angle-skull base。",
+      "flashcard_summary": "頸部穿刺傷分區 -> C 把 Zone I 寫成 Zone III",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題考選擇性手術前 warfarin 停藥後可接受的 INR 目標。多數手術希望凝血功能接近正常，常以 INR 小於 1.5 作為可進刀的門檻。官方答案 C。\n\n【選項詳解】\n- A. INR 2.0 仍接近抗凝治療範圍，對一般選擇性手術出血風險偏高，不是常用上限。\n- B. INR 1.8 雖比治療範圍低，但仍未達常見術前安全目標，尤其對出血風險較高的手術不夠理想。\n- C. INR 低於 1.5 通常表示 warfarin 效果已充分退去，是選擇性手術常用門檻，因此正確。\n- D. INR 1.2 太接近完全正常，並非常規要求；若一律要求到此數值，可能不必要地延後手術。\n\n【核心考點】\nWarfarin 選擇性手術通常停藥約 5 天，常見目標是 INR < 1.5。",
+      "key_point": "Warfarin 術前停藥；INR 門檻",
+      "flashcard_front": "選擇性手術前停 warfarin 約 5 天，常以 INR < 1.5 作為可接受門檻。",
+      "flashcard_back": "warfarin 術前處置 -> INR < 1.5",
+      "flashcard_summary": "選擇性手術前停 warfarin 約 5 天，常以 INR < 1.5 作為可接受門檻。 -> warfarin 術前處置 -> INR < 1.5",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問大量出血或休克的 lethal triad 何者不屬於其中。創傷出血的惡性循環是酸中毒、低體溫與凝血障礙，三者會彼此加重出血。官方答案 A。\n\n【選項詳解】\n- A. Arrhythmia 可能出現在休克或電解質異常時，但不是創傷大量出血所稱 lethal triad 的固定三要素，因此為答案。\n- B. Acidosis 會降低凝血酵素活性與心肌功能，是 lethal triad 的一環。\n- C. Hypothermia 會抑制凝血反應並加重出血，是 lethal triad 的一環。\n- D. Coagulopathy 是大量出血、稀釋、低溫與酸中毒後的重要死亡因子，屬於 lethal triad。\n\n【核心考點】\n創傷出血 lethal triad 是 acidosis、hypothermia、coagulopathy。",
+      "key_point": "lethal triad；trauma shock",
+      "flashcard_front": "大量出血的 lethal triad：酸中毒、低體溫、凝血障礙；不包含 arrhythmia。",
+      "flashcard_back": "大量出血休克 -> lethal triad 三要素",
+      "flashcard_summary": "大量出血的 lethal triad：酸中毒、低體溫、凝血障礙；不包含 arrhythmia。 -> 大量出血休克 -> lethal triad 三要素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問傷口分類與 SSI 發生率何者錯誤。Clean wound 的感染率通常約 1-5% 左右，不會低到 0.1-0.3%；其他分類的感染率會隨污染程度上升。官方答案 A。\n\n【選項詳解】\n- A. Clean wound 沒有進入呼吸、消化、生殖泌尿道等 hollow viscus 且可一期縫合，但 SSI 風險通常仍約百分之數，不是 0.1-0.3% 這種極低值，因此錯誤。\n- B. Clean-contaminated wound 是有控制地進入 hollow viscus，感染率約數個百分比，5-8% 合理。\n- C. Contaminated wound 有明顯污染或 uncontrolled spillage，感染率可到 20% 以上，敘述合理。\n- D. Dirty wound 代表既有感染、壞死或未控制污染，SSI 風險最高，30-40% 合理。\n\n【核心考點】\nSSI 風險隨傷口污染程度增加；clean wound 不是零風險，感染率不應低估到 0.1-0.3%。",
+      "key_point": "SSI；clean wound 感染率",
+      "flashcard_front": "Clean wound 感染率仍約百分之數；污染越重，SSI 風險越高。",
+      "flashcard_back": "傷口分類 -> clean wound 感染率不是 0.1-0.3%",
+      "flashcard_summary": "Clean wound 感染率仍約百分之數；污染越重，SSI 風險越高。 -> 傷口分類 -> clean wound 感染率不是 0.1-0.3%",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問傷口癒合何者錯誤。纖維母細胞主要由局部間質細胞活化、增生並遷移到傷口，不是大多數從遠端組織經血液循環運送而來。官方答案 B。\n\n【選項詳解】\n- A. 受傷後先止血與發炎，血小板、血管通透性增加與趨化因子會招募中性球與巨噬細胞，敘述符合發炎期。\n- B. 增生期的 fibroblast 主要來自局部組織遷移與增生，受 PDGF、TGF-beta 等因子刺激合成膠原；說大多數由血液從遠處運來並不正確。\n- C. Myofibroblast 約在數天後出現，含 alpha-smooth muscle actin，可產生收縮力量促進傷口攣縮，敘述可接受。\n- D. 早期肉芽組織先以第三型膠原為主，之後成熟重塑時逐漸被第一型膠原取代，敘述正確。\n\n【核心考點】\n傷口增生期的 fibroblast 主要是局部細胞活化遷移，不是遠端經血流大量運來。",
+      "key_point": "傷口癒合；fibroblast；collagen III",
+      "flashcard_front": "發炎期先招募發炎細胞；增生期局部 fibroblast 合成膠原，早期 collagen III 先於 collagen I。",
+      "flashcard_back": "傷口癒合 -> fibroblast 來源與膠原轉換",
+      "flashcard_summary": "發炎期先招募發炎細胞；增生期局部 fibroblast 合成膠原，早期 collagen III 先於 collagen I。 -> 傷口癒合 -> fibroblast 來源與膠原轉換",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題官方更正接受 A、B、C、D 皆給分。題目問吸菸與何種癌症無關，但這些癌症與吸菸風險的關聯程度在流行病學上並非完全沒有關係，題目設計容易產生爭議。\n\n【選項詳解】\n- A. 膀胱癌與吸菸有明確關聯，芳香胺等致癌物經尿液排出會暴露泌尿上皮；若題目問無關，本項不適合作為唯一答案。\n- B. 食道癌，尤其鱗狀上皮癌，與吸菸和飲酒都有流行病學關聯；因此也不是明確無關。\n- C. 胰臟癌風險會因吸菸上升，是常被列入吸菸相關癌症的項目之一。\n- D. 大腸癌與吸菸的關聯較前幾項弱，但仍有研究支持風險增加；因此官方採全給分較能反映題目不精確。\n\n【核心考點】\n若考題問吸菸與癌症無關，要小心選項是否其實都有一定流行病學關聯；本題官方全給分。",
+      "key_point": "吸菸相關癌症；官方全給分",
+      "flashcard_front": "膀胱、食道、胰臟與大腸癌都可與吸菸風險有關，本題官方接受 A-D。",
+      "flashcard_back": "吸菸與癌症 -> 本題官方 A-D 全給分",
+      "flashcard_summary": "膀胱、食道、胰臟與大腸癌都可與吸菸風險有關，本題官方接受 A-D。 -> 吸菸與癌症 -> 本題官方 A-D 全給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": [
+        "官方答案接受 A-D 全給分；題幹『無關』與流行病學關聯可能有爭議，建議人工複核原始更正。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題問開腹術後消化液引流流失何者錯誤。膽汁每日量約 300-800 mL，但其碳酸氫根濃度不會高於胰液；胰液才是富含 bicarbonate 的鹼性分泌液。官方答案 C。\n\n【選項詳解】\n- A. 胃液每日可約 1-2 L，含氫離子與氯離子，持續大量流失會造成低鉀與代謝性鹼中毒風險，敘述可接受。\n- B. 小腸液量大且富含 bicarbonate，若由腸瘻或引流大量流失，可能造成 bicarbonate 流失與代謝性酸中毒，敘述正確。\n- C. 膽汁有 bicarbonate，但胰液與腸液的鹼性分泌更重要；說膽汁 HCO3- 濃度比腸液、胰液還高不正確。\n- D. 胰液透明、鹼性且每日約 600-800 mL，含 bicarbonate 與消化酵素，敘述正確。\n\n【核心考點】\n消化液流失要記量與電解質：胰液/腸液富含 bicarbonate，膽汁不是 HCO3- 最高者。",
+      "key_point": "消化液流失；bicarbonate；胰液",
+      "flashcard_front": "胰液與腸液富含 HCO3-；膽汁每日約 300-800 mL，但 HCO3- 不高於胰液。",
+      "flashcard_back": "消化液引流 -> C 高估膽汁 HCO3-",
+      "flashcard_summary": "胰液與腸液富含 HCO3-；膽汁每日約 300-800 mL，但 HCO3- 不高於胰液。 -> 消化液引流 -> C 高估膽汁 HCO3-",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問抗排斥藥物何者正確。Cyclosporine 與 tacrolimus/FK-506 都是 calcineurin inhibitor，會抑制 T 細胞 IL-2 訊號，也都有腎毒性。官方答案 D。\n\n【選項詳解】\n- A. Cyclosporine 與 tacrolimus 都會抑制 calcineurin，進而降低 IL-2 transcription；不是只有 cyclosporine 會抑制 IL-2。\n- B. 急性排斥仍可使用高劑量類固醇作為治療之一，不能說目前已經很少用到而排除。\n- C. 葡萄柚汁會影響 CYP3A/P-gp，可能提高 cyclosporine 濃度；tacrolimus 也受類似代謝交互作用影響，不是簡單改用即可。\n- D. Cyclosporine 與 FK-506 都可能造成血管收縮性腎毒性，是臨床監測濃度與腎功能的重點，因此正確。\n\n【核心考點】\nCalcineurin inhibitors 包含 cyclosporine 與 tacrolimus，兩者都抑制 IL-2 且都有腎毒性。",
+      "key_point": "cyclosporine；tacrolimus；腎毒性",
+      "flashcard_front": "Cyclosporine 和 tacrolimus 都是 calcineurin inhibitor；共同重點是 IL-2 抑制與 nephrotoxicity。",
+      "flashcard_back": "移植免疫抑制 -> CNI 皆有腎毒性",
+      "flashcard_summary": "Cyclosporine 和 tacrolimus 都是 calcineurin inhibitor；共同重點是 IL-2 抑制與 nephrotoxicity。 -> 移植免疫抑制 -> CNI 皆有腎毒性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題問意識不清頭部外傷處置何者錯誤。急性頭部外傷要先做初級評估、神經學評估、穩定生命徵象並安排影像；不應以低劑量抗癲癇藥試驗取代診斷與治療。官方答案 D。\n\n【選項詳解】\n- A. GCS、瞳孔大小與對光反射可快速判斷腦傷嚴重度與顱內壓危象，是正確處置。\n- B. 頭部外傷常合併胸腹、脊椎或四肢傷害，必須同步評估生命徵象與 associated injury。\n- C. 生命徵象穩定後頭部 CT 是評估顱內出血、腦挫傷與需手術病灶的重要檢查。\n- D. 抗癲癇藥可用於特定高風險病人預防早期癲癇，但不是先給低劑量 therapeutic trial 並等 24 小時的標準流程，因此錯誤。\n\n【核心考點】\n頭部外傷先穩定 ABC、做 GCS/瞳孔評估與 CT；抗癲癇藥不是診斷性試驗。",
+      "key_point": "頭部外傷；GCS；抗癲癇預防",
+      "flashcard_front": "意識不清頭部外傷不可用低劑量抗癲癇藥試驗拖延評估；應先穩定並安排 CT。",
+      "flashcard_back": "頭部外傷處置 -> D 非標準流程",
+      "flashcard_summary": "意識不清頭部外傷不可用低劑量抗癲癇藥試驗拖延評估；應先穩定並安排 CT。 -> 頭部外傷處置 -> D 非標準流程",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-5.json",
+  "dataset_id": "109-2_medicine-5",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-5_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題問肺部手術術前評估何者錯誤。阻塞性肺病的典型肺功能變化是 FEV1 下降較 FVC 明顯，使 FEV1/FVC ratio 下降，不是上升。官方答案 B。\n\n【選項詳解】\n- A. FEV1 < 60% predicted 代表通氣功能下降，肺切除後 pulmonary morbidity 風險增加，敘述正確。\n- B. Obstructive disease 如 COPD 會使 FEV1/FVC ratio 降低；說 ratio 上升是限制型疾病較可能的方向，因此錯誤。\n- C. DLCO < 40-50% 表示氣體交換能力差，會增加肺部手術風險，敘述正確。\n- D. VO2 max < 11-15 mL/kg/min 代表運動耐受性差，術後併發症與死亡風險增加，敘述正確。\n\n【核心考點】\n阻塞性肺病的肺功能關鍵是 FEV1/FVC 下降。",
+      "key_point": "肺切除術前評估；FEV1/FVC",
+      "flashcard_front": "Obstructive disease 使 FEV1/FVC 下降；DLCO 與 VO2 max 低代表手術風險高。",
+      "flashcard_back": "肺部手術評估 -> 阻塞型 FEV1/FVC 下降",
+      "flashcard_summary": "Obstructive disease 使 FEV1/FVC 下降；DLCO 與 VO2 max 低代表手術風險高。 -> 肺部手術評估 -> 阻塞型 FEV1/FVC 下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n本題問腹內壓上升何者錯誤。腹內高壓會推高橫膈、降低胸肺順應性、增加呼吸器壓力，對呼吸系統影響明顯；官方答案 A。\n\n【選項詳解】\n- A. 腹內壓升高不只影響腹內器官灌流與靜脈回流，也會抬高橫膈、降低肺順應性並造成通氣困難；說呼吸影響不明顯是錯誤。\n- B. 肥胖會增加基礎腹內壓，是 abdominal hypertension 的風險因素之一。\n- C. 腹內高壓可依壓力分級；較低級別可先保守處理，嚴重或合併器官功能不全時需考慮減壓，敘述方向正確。\n- D. 腹內壓高於約 25 mmHg 且合併器官功能惡化時，要高度懷疑 abdominal compartment syndrome 並評估手術減壓。\n\n【核心考點】\n腹內高壓會同時傷害靜脈回流、腎腸灌流與呼吸力學。",
+      "key_point": "intra-abdominal pressure；abdominal compartment syndrome",
+      "flashcard_front": "腹內壓升高會推高橫膈並降低肺順應性；呼吸影響很明顯。",
+      "flashcard_back": "腹內壓升高 -> 呼吸影響明顯",
+      "flashcard_summary": "腹內壓升高會推高橫膈並降低肺順應性；呼吸影響很明顯。 -> 腹內壓升高 -> 呼吸影響明顯",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題病人 BMI 43、第二型糖尿病控制不佳，又有 LA grade C 胃食道逆流；最適合的代謝減重手術是 Roux-en-Y gastric bypass，兼具減重、改善糖尿病與減少胃食道逆流效果。官方答案 B。\n\n【選項詳解】\n- A. Nissen fundoplication 可治療 GERD，但不是病態性肥胖合併糖尿病的代謝減重手術，不能解決主要問題。\n- B. Roux-en-Y gastric bypass 適合 BMI >40 或 BMI >35 合併代謝疾病者，且對 GERD 較 sleeve gastrectomy 友善，因此正確。\n- C. Vertical banded gastroplasty 已較少使用，減重與代謝效果不如胃繞道，也不適合此情境作為最佳答案。\n- D. Vagotomy 是傳統消化性潰瘍治療相關手術，不是現代代謝減重手術選擇。\n\n【核心考點】\nBMI 43 合併 T2DM 與嚴重 GERD，Roux-en-Y gastric bypass 是較合適的減重代謝手術。",
+      "key_point": "病態性肥胖；T2DM；GERD；RYGB",
+      "flashcard_front": "肥胖合併糖尿病與嚴重 GERD，優先考慮 Roux-en-Y gastric bypass。",
+      "flashcard_back": "減重手術選擇 -> GERD 加 T2DM 選 RYGB",
+      "flashcard_summary": "肥胖合併糖尿病與嚴重 GERD，優先考慮 Roux-en-Y gastric bypass。 -> 減重手術選擇 -> GERD 加 T2DM 選 RYGB",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題問早期胃癌何者錯誤。Early gastric cancer 的定義是癌侵犯侷限於黏膜或黏膜下層，不論是否已有淋巴結轉移；因此侵犯黏膜下層仍可算早期胃癌。官方答案 A。\n\n【選項詳解】\n- A. 早期胃癌可以侵犯到 submucosa，只要沒有超過黏膜下層即可；本項把黏膜下侵犯排除，錯誤。\n- B. 早期胃癌已有淋巴結轉移的比例約一成上下，尤其黏膜下侵犯風險較高，敘述可接受。\n- C. 早期胃癌定義看胃壁侵犯深度，不以淋巴結是否轉移排除，敘述正確。\n- D. 早期胃癌中分化較好的腺癌比例高，題目給的約 70% 屬可接受考點。\n\n【核心考點】\n早期胃癌 = 侵犯限於 mucosa/submucosa，與淋巴結轉移有無無關。",
+      "key_point": "early gastric cancer；submucosa",
+      "flashcard_front": "癌侵犯到黏膜下層仍可稱 early gastric cancer；定義不看淋巴結狀態。",
+      "flashcard_back": "早期胃癌定義 -> 可侵犯黏膜下層",
+      "flashcard_summary": "癌侵犯到黏膜下層仍可稱 early gastric cancer；定義不看淋巴結狀態。 -> 早期胃癌定義 -> 可侵犯黏膜下層",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題要計算 Child-Pugh score。病人意識清楚且無腹水各 1 分，白蛋白 4.3 為 1 分，INR 1.12 為 1 分，總膽紅素 2.52 mg/dL 為 2 分，合計 6 分。官方答案 B。\n\n【選項詳解】\n- A. 5 分會是所有項目都 1 分；但此病人 bilirubin 2.52 mg/dL 落在 2-3 mg/dL，應給 2 分，所以不是 5。\n- B. bilirubin 2 分，加上 albumin、INR、ascites、encephalopathy 各 1 分，總分 6 分，因此正確。\n- C. 7 分需要至少再多一個項目達 2 分；本題白蛋白、INR、腹水與腦病變都沒有達到。\n- D. 8 分代表肝功能更差，與本題無腹水、無腦病變且凝血白蛋白良好不符。\n\n【核心考點】\nChild-Pugh：bilirubin 2.52 給 2 分，其餘各 1 分，總分 6。",
+      "key_point": "Child-Pugh score；bilirubin",
+      "flashcard_front": "無腹水/腦病變、Alb 4.3、INR 1.12 各 1 分；bilirubin 2.52 給 2 分，總分 6。",
+      "flashcard_back": "Child-Pugh 計算 -> 6 分",
+      "flashcard_summary": "無腹水/腦病變、Alb 4.3、INR 1.12 各 1 分；bilirubin 2.52 給 2 分，總分 6。 -> Child-Pugh 計算 -> 6 分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題問現今肝內細菌性膿瘍最常見原因。現代常見來源是膽道感染或膽道阻塞相關的 ascending infection。官方答案 C。\n\n【選項詳解】\n- A. 闌尾炎過去可經門脈造成肝膿瘍，但在現代不是最常見原因。\n- B. 上腸繫膜動脈阻塞造成腸壞死可引起嚴重感染，但不是典型最常見肝膿瘍來源。\n- C. 膽道感染、膽管炎或膽道阻塞可讓細菌上行進入肝內膽道，是目前常見原因，因此正確。\n- D. 外傷可造成肝膿瘍或繼發感染，但比例上不是最常見。\n\n【核心考點】\n細菌性肝膿瘍現代常見原因是膽道感染。",
+      "key_point": "肝膿瘍；膽道感染",
+      "flashcard_front": "現代 pyogenic liver abscess 常由膽道感染或阻塞造成。",
+      "flashcard_back": "細菌性肝膿瘍 -> 膽道感染",
+      "flashcard_summary": "現代 pyogenic liver abscess 常由膽道感染或阻塞造成。 -> 細菌性肝膿瘍 -> 膽道感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題問甲狀腺乳突癌合併頸部淋巴結與肺轉移何者正確。分化良好的乳突癌即使有轉移，仍常以甲狀腺全切除、頸部淋巴處理與術後放射性碘治療作為選項。官方答案 D。\n\n【選項詳解】\n- A. 甲狀腺乳突癌不是以 paclitaxel 全身化療作首選；分化癌主要靠手術、放射性碘與 TSH suppression。\n- B. 乳突癌整體預後通常相對良好，即使有可攝碘轉移也可能長期控制；不能說大多一年內死亡。\n- C. Methimazole 是治療甲狀腺亢進的抗甲狀腺藥，不能抑制乳突癌細胞生長作為癌症治療。\n- D. 甲狀腺全切除可移除原發病灶並利於後續 I-131 治療與 thyroglobulin 追蹤，因此正確。\n\n【核心考點】\nPapillary thyroid carcinoma 有轉移時仍可考慮全甲狀腺切除加 I-131。",
+      "key_point": "papillary thyroid carcinoma；I-131",
+      "flashcard_front": "乳突癌治療核心是手術、放射性碘與追蹤；不是抗甲狀腺藥或一般化療首選。",
+      "flashcard_back": "甲狀腺乳突癌轉移 -> total thyroidectomy + I-131",
+      "flashcard_summary": "乳突癌治療核心是手術、放射性碘與追蹤；不是抗甲狀腺藥或一般化療首選。 -> 甲狀腺乳突癌轉移 -> total thyroidectomy + I-131",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題問洗腎病人續發性副甲狀腺亢進何時建議副甲狀腺切除。Calciphylaxis 代表嚴重鈣磷代謝異常與皮膚缺血壞死，是手術介入的重要適應症。官方答案 D。\n\n【選項詳解】\n- A. 鈣磷乘積 45 mg2/dL2 未達嚴重升高門檻，單獨看不構成手術適應症。\n- B. PTH 200 pg/mL 對洗腎病人並不算難治性嚴重升高，通常不會因此直接手術。\n- C. 25(OH)D 40 nmol/L 表示維生素 D 不足，可先內科補充與調整礦物質代謝，不是切除適應症。\n- D. Calciphylaxis 是嚴重且可能致命的併發症，若與難治性副甲狀腺亢進相關，應考慮副甲狀腺切除，因此正確。\n\n【核心考點】\n洗腎續發性副甲狀腺亢進若出現 calciphylaxis，屬重要手術適應症。",
+      "key_point": "secondary hyperparathyroidism；calciphylaxis",
+      "flashcard_front": "Calciphylaxis 表示嚴重鈣磷代謝異常與皮膚缺血壞死，需考慮 parathyroidectomy。",
+      "flashcard_back": "洗腎副甲狀腺亢進 -> calciphylaxis 要手術",
+      "flashcard_summary": "Calciphylaxis 表示嚴重鈣磷代謝異常與皮膚缺血壞死，需考慮 parathyroidectomy。 -> 洗腎副甲狀腺亢進 -> calciphylaxis 要手術",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題問原發性高醛固酮症與腎上腺腺瘤何者錯誤。篩檢用 ARR，確診可用鹽水負荷；但分辨單側腺瘤與雙側增生時，並不是 40 歲以下都常規必須做 adrenal vein sampling。官方答案 C。\n\n【選項詳解】\n- A. Aldosterone-to-renin ratio 是原發性高醛固酮症最常用初步篩檢，敘述正確。\n- B. 靜脈生理食鹽水輸注試驗可用來確認 aldosterone 分泌是否可被抑制，敘述正確。\n- C. AVS 常用於區分單側與雙側分泌，但年輕、典型低血鉀、明顯醛固酮升高且 CT 單側腺瘤者可有例外；說 40 歲以下常規都要 AVS 不精確，因此錯誤。\n- D. 單側分泌造成的低血鉀在腎上腺切除後常可迅速改善，敘述正確。\n\n【核心考點】\nPrimary aldosteronism：ARR 篩檢、鹽水負荷確認；AVS 是否需要依年齡與典型程度判斷。",
+      "key_point": "primary aldosteronism；ARR；AVS",
+      "flashcard_front": "ARR 是篩檢，高鹽/鹽水負荷可確認；AVS 不是所有 40 歲以下都常規必做。",
+      "flashcard_back": "原發性高醛固酮症 -> C 的 AVS 說法過度絕對",
+      "flashcard_summary": "ARR 是篩檢，高鹽/鹽水負荷可確認；AVS 不是所有 40 歲以下都常規必做。 -> 原發性高醛固酮症 -> C 的 AVS 說法過度絕對",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-5_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題問 ER/PR 陽性、HER2 1+ 的 infiltrating ductal carcinoma 何者正確。Invasive ductal carcinoma/NST 是最常見侵襲性乳癌，約占多數病例。官方答案 A。\n\n【選項詳解】\n- A. Infiltrating ductal carcinoma 是最常見侵襲性乳癌，約占 50-70% 或更高比例，敘述符合考點。\n- B. 未停經且 ER/PR 陽性者常用 tamoxifen，aromatase inhibitor 通常需停經後或合併卵巢抑制，不能說最適合就是 AI。\n- C. HER2 1+ 屬 HER2 negative 傳統分類，不是術後雙標靶治療的典型適應症。\n- D. 術後病理應寫 pT；1.2 cm 是 T1c 而非 T1b，且病理分期不應寫 cT1bN0M0。\n\n【核心考點】\nIDC/NST 是最常見侵襲性乳癌；未停經 ER/PR 陽性多考慮 tamoxifen，HER2 1+ 不屬標靶陽性。",
+      "key_point": "invasive ductal carcinoma；ER/PR；HER2 1+",
+      "flashcard_front": "IDC 是最常見侵襲性乳癌；HER2 1+ 不代表需要 HER2 標靶。",
+      "flashcard_back": "乳癌病理與治療 -> IDC 最常見",
+      "flashcard_summary": "IDC 是最常見侵襲性乳癌；HER2 1+ 不代表需要 HER2 標靶。 -> 乳癌病理與治療 -> IDC 最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T12:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
