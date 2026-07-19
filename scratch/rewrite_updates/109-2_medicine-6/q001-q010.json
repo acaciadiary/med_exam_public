@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-6.json",
+  "dataset_id": "109-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題幹問的是「不是」全身麻醉甦醒拔管期可能相關的併發症，所以要找不典型者。拔管前後常見的呼吸道問題包括上呼吸道阻塞、喉痙攣、支氣管痙攣、吸入性肺炎，以及因上呼吸道阻塞或喉痙攣後用力吸氣造成的負壓性肺水腫（negative pressure pulmonary edema）。選項 A 寫的是「正壓性肺水腫」，不是拔管甦醒期典型列舉的併發症，因此為本題正答。\n\n【選項詳解】\n- A. 拔管甦醒期典型要想到的是負壓性肺水腫，常由喉痙攣或上呼吸道阻塞後用力吸氣造成；選項寫成正壓性肺水腫，並非此時期典型併發症。\n- B. 上呼吸道阻塞可由舌根後墜、喉頭水腫、分泌物或喉痙攣造成，是拔管後最需要警覺的呼吸道問題之一。\n- C. 甦醒期保護性氣道反射尚未完全恢復，嘔吐或胃內容物逆流時可造成吸入性肺炎，所以屬於可能併發症。\n- D. 拔管刺激、氣喘或氣道高反應性可誘發支氣管痙攣，導致喘鳴、氣道壓上升與低氧，屬於常見相關併發症。\n\n【核心考點】\n拔管甦醒期常見的是上呼吸道阻塞、吸入、支氣管痙攣與負壓性肺水腫；題目問「不是」時，要特別抓正壓與負壓的差別。",
+      "key_point": "拔管甦醒期常見的是上呼吸道阻塞、吸入、支氣管痙攣與負壓性肺水腫；題目問「不是」時，要特別抓正壓與負壓的差別。",
+      "flashcard_front": "全身麻醉甦醒拔管時期,下列何者不是可能之相關併發症?",
+      "flashcard_back": "拔管甦醒期常見的是上呼吸道阻塞、吸入、支氣管痙攣與負壓性肺水腫；題目問「不是」時，要特別抓正壓與負壓的差別。",
+      "flashcard_summary": "109-2_medicine-6 Q001 -> 拔管甦醒期常見的是上呼吸道阻塞、吸入、支氣管痙攣與負壓性肺水腫；題目問「不是」時，要特別抓正壓與負壓的差別。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題官方答案是 C。術中使用神經監測（如SSEP、MEP、EMG）能及時發現脊髓手術中的神經損傷。麻醉中維持生理恆定與適當麻醉深度能提升監測效度。在靜脈藥物中，ketamine會增強腦電圖（EEG）的活性，而巴比妥類（barbiturates）則會顯著抑制腦波活性，兩者對腦波的影響截然相反，因此C選項錯誤。\n\n【選項詳解】\n- A. 術中神經監測的目的就是即早偵測神經功能變化，讓團隊可調整牽拉、灌流、血壓或麻醉深度，因此此敘述正確。\n- B. 血壓、體溫、血氧、二氧化碳與麻醉深度會影響 SSEP、MEP 與 EEG 訊號，維持生理恆定可提高判讀可靠度。\n- C. Ketamine 常增加 EEG 活性並可維持誘發電位；barbiturates 則抑制腦波、甚至產生 burst suppression，兩者並不類似。\n- D. SSEP、MEP 與 EMG 都可用於脊柱與脊髓手術，分別監測感覺徑、運動徑與神經根或肌肉反應。\n\n【核心考點】\n術中神經監測受麻醉藥與生理狀態影響；ketamine 與 barbiturates 對 EEG 的方向相反，是本題陷阱。",
+      "key_point": "術中神經監測受麻醉藥與生理狀態影響；ketamine 與 barbiturates 對 EEG 的方向相反，是本題陷阱。",
+      "flashcard_front": "關於術中使用神經監測(neurologic monitors)的功用,下列敘述何者錯誤?",
+      "flashcard_back": "術中神經監測受麻醉藥與生理狀態影響；ketamine 與 barbiturates 對 EEG 的方向相反，是本題陷阱。",
+      "flashcard_summary": "109-2_medicine-6 Q002 -> 術中神經監測受麻醉藥與生理狀態影響；ketamine 與 barbiturates 對 EEG 的方向相反，是本題陷阱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題官方答案是 B。在大手術中，經由肺動脈導管測得的混合靜脈血氧飽和度（SvO2）反映全身組織氧氣供需的平衡，SvO2 降低代表組織灌流不足或氧需求劇增，與術後後遺症密切相關，因此B選項正確。SpO2 > 90% 不代表組織不缺氧（若伴隨重度貧血或低心輸出量）。發燒和疼痛控制不佳會使身體氧氣消耗量增加，進而導致 SvO2 「降低」而非升高。\n\n【選項詳解】\n- A. SpO2 只反映動脈血氧飽和度，無法保證氧氣輸送量；嚴重貧血、低心輸出量或休克時，即使 SpO2 大於 90% 仍可能組織缺氧。\n- B. 混合靜脈血氧飽和度 SvO2 反映全身氧供與氧耗的平衡，術中下降代表供應不足或消耗增加，且和術後不良結果相關。\n- C. 發燒會增加代謝率與氧耗，若心輸出量或血紅素無法補償，SvO2 會下降，而不是升高。\n- D. 疼痛控制不佳會使交感活性與氧耗上升，也會讓 SvO2 下降；選項把方向寫反。\n\n【核心考點】\n氧氣輸送取決於血氧、血紅素與心輸出量；SvO2 下降代表氧供需失衡，SpO2 正常不等於組織一定不缺氧。",
+      "key_point": "氧氣輸送取決於血氧、血紅素與心輸出量；SvO2 下降代表氧供需失衡，SpO2 正常不等於組織一定不缺氧。",
+      "flashcard_front": "麻醉手術中常有手術出血等各種情況,有關維護氧氣輸送(oxygen delivery)防止組織缺氧,下列敘述何者 正確?",
+      "flashcard_back": "氧氣輸送取決於血氧、血紅素與心輸出量；SvO2 下降代表氧供需失衡，SpO2 正常不等於組織一定不缺氧。",
+      "flashcard_summary": "109-2_medicine-6 Q003 -> 氧氣輸送取決於血氧、血紅素與心輸出量；SvO2 下降代表氧供需失衡，SpO2 正常不等於組織一定不缺氧。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題官方答案是 C。最低肺泡濃度（MAC）是指在一個大氣壓下，能使 50% 患者在皮膚劃刀刺激下不產生肢體動作的肺泡麻醉劑濃度。Desflurane 在血和組織中溶解度極低，能快速誘導與甦醒，但若迅速增加其吸入濃度會刺激交感神經，常導致暫時性心率加快（tachycardia）和血壓上升，而非心率下降，故C選項錯誤。Sevoflurane 由於氣味溫和且誘導迅速，是吸入誘導的首選。\n\n【選項詳解】\n- A. MAC 是使 50% 病人在皮膚切開刺激下不產生動作的肺泡濃度，這是吸入麻醉劑效價的標準定義。\n- B. Desflurane 血液與組織溶解度低，肺泡濃度追上吸入濃度快，因此誘導與甦醒都快。\n- C. 迅速提高 desflurane 濃度會刺激交感神經，較典型是心跳加快與血壓上升，不是心率下降。\n- D. Sevoflurane 氣道刺激性低、可快速提高肺泡濃度，常用於平順的吸入誘導，尤其適合不易忍受刺激性氣體者。\n\n【核心考點】\nDesflurane 低溶解度使誘導甦醒快，但快速升濃度會交感刺激；sevoflurane 則較不刺激氣道。",
+      "key_point": "Desflurane 低溶解度使誘導甦醒快，但快速升濃度會交感刺激；sevoflurane 則較不刺激氣道。",
+      "flashcard_front": "下列有關吸入性麻醉劑的敘述,何者錯誤?",
+      "flashcard_back": "Desflurane 低溶解度使誘導甦醒快，但快速升濃度會交感刺激；sevoflurane 則較不刺激氣道。",
+      "flashcard_summary": "109-2_medicine-6 Q004 -> Desflurane 低溶解度使誘導甦醒快，但快速升濃度會交感刺激；sevoflurane 則較不刺激氣道。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題官方答案是 C。Benzodiazepine（BZD）類藥物是藉由與 GABAA 受體結合產生作用，flumazenil 為其特異性拮抗劑。BZD 會降低呼吸中樞對 CO2 的敏感性，並且會「降低」腦部血流量與腦耗氧量（CMRO2），因此C選項中「增加腦耗氧量」的敘述錯誤。Ketamine 則為非競爭性 NMDA 受體拮抗劑，能產生分離性麻醉。\n\n【選項詳解】\n- A. Flumazenil 是 benzodiazepine 受體拮抗劑，可逆轉 BZD 造成的鎮靜與呼吸抑制傾向。\n- B. Benzodiazepine 會降低呼吸中樞對二氧化碳的反應，和其他中樞抑制藥併用時尤其容易呼吸抑制。\n- C. Benzodiazepine 會降低腦血流與腦耗氧量，並非增加腦耗氧量，所以本項錯誤。\n- D. Ketamine 是 NMDA 受體非競爭性拮抗劑，可造成分離性麻醉，這是其主要藥理特色。\n\n【核心考點】\nBenzodiazepine 會抑制中樞、降低 CO2 反應與腦耗氧；flumazenil 是其拮抗劑，ketamine 是 NMDA 拮抗劑。",
+      "key_point": "Benzodiazepine 會抑制中樞、降低 CO2 反應與腦耗氧；flumazenil 是其拮抗劑，ketamine 是 NMDA 拮抗劑。",
+      "flashcard_front": "下列有關靜脈麻醉劑(intravenous anesthetics)的敘述,何者錯誤?",
+      "flashcard_back": "Benzodiazepine 會抑制中樞、降低 CO2 反應與腦耗氧；flumazenil 是其拮抗劑，ketamine 是 NMDA 拮抗劑。",
+      "flashcard_summary": "109-2_medicine-6 Q005 -> Benzodiazepine 會抑制中樞、降低 CO2 反應與腦耗氧；flumazenil 是其拮抗劑，ketamine 是 NMDA 拮抗劑。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題官方答案是 D。評估患者從非去極性肌肉鬆弛劑作用中恢復的最客觀、最精準指標是四聯刺激（Train-of-four, TOF），當 TOF ratio 大於 0.9 時，代表自主呼吸與氣道保護反射已安全恢復。臨床指標如潮氣容積、呼吸速率及吸氣負壓雖然常用，但它們容易受到麻醉劑殘留、疼痛或二氧化碳蓄積等其他因素影響，不夠特異。\n\n【選項詳解】\n- A. 潮氣容積可受疼痛、鎮靜、肺部狀態與努力程度影響，不能精準代表神經肌肉阻斷已恢復。\n- B. 呼吸速率可能因二氧化碳、疼痛或焦慮改變，殘餘肌鬆仍可能被掩蓋，因此不是最佳指標。\n- C. 吸氣負壓是臨床床邊指標，但受病人合作度與呼吸肌努力影響，特異性不如神經刺激監測。\n- D. 四聯刺激 TOF 可直接量化非去極化肌鬆恢復程度，TOF ratio 接近或大於 0.9 才較能排除臨床殘餘阻斷。\n\n【核心考點】\n評估非去極化肌鬆恢復以 TOF 最客觀，臨床呼吸指標容易受多種因素干擾。",
+      "key_point": "評估非去極化肌鬆恢復以 TOF 最客觀，臨床呼吸指標容易受多種因素干擾。",
+      "flashcard_front": "下列何項指標較能評估由非去極性肌肉鬆弛劑(nondepolarizing muscle relaxant)作用中恢復的程度?",
+      "flashcard_back": "評估非去極化肌鬆恢復以 TOF 最客觀，臨床呼吸指標容易受多種因素干擾。",
+      "flashcard_summary": "109-2_medicine-6 Q006 -> 評估非去極化肌鬆恢復以 TOF 最客觀，臨床呼吸指標容易受多種因素干擾。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題官方答案是 C。門診手術麻醉中，抽菸（smoking）是術後噁心嘔吐（PONV）的「保護因子」，抽菸患者發生 PONV 的風險反而比不抽菸者低，因此C選項敘述錯誤。門診手術術前評估通常不需常規做無症狀的實驗室檢查；早產兒的術後呼吸暫停風險高，其門診手術可行性需依受孕後週數（通常需大於50-60週）評估；使用多模式止痛（如合併局部阻滯）能有效減少鴉片類藥物使用。\n\n【選項詳解】\n- A. 門診手術術前檢查應依病史、年齡、共病與手術風險安排，無症狀低風險者不需常規抽一整套實驗室檢查。\n- B. 早產兒與小嬰兒術後呼吸暫停風險較高，是否適合門診手術需看受孕後週數與共病狀態。\n- C. 抽菸在 PONV 風險評估中反而是保護因子；女性、不抽菸、暈動或 PONV 史、術後 opioid 才是典型高風險因子。\n- D. 多模式止痛加入局部或區域麻醉可減少 opioid 用量，降低噁心、嗜睡與呼吸抑制，適合門診恢復需求。\n\n【核心考點】\n門診麻醉重視低風險、快速恢復與少副作用；抽菸不是 PONV 高風險因子，反而在風險表中屬保護因子。",
+      "key_point": "門診麻醉重視低風險、快速恢復與少副作用；抽菸不是 PONV 高風險因子，反而在風險表中屬保護因子。",
+      "flashcard_front": "有關門診手術麻醉(ambulatory anesthesia)的敘述,下列何者錯誤?",
+      "flashcard_back": "門診麻醉重視低風險、快速恢復與少副作用；抽菸不是 PONV 高風險因子，反而在風險表中屬保護因子。",
+      "flashcard_summary": "109-2_medicine-6 Q007 -> 門診麻醉重視低風險、快速恢復與少副作用；抽菸不是 PONV 高風險因子，反而在風險表中屬保護因子。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題官方答案是 C。病患自控式止痛（PCA）可以提供及時且高效的止痛效果，並且因為其內在的負反饋機制（病人因疼痛按壓，若疼痛緩解或鎮靜則停止按壓），能有效降低止痛藥的總劑量與副作用。PCA 常用的藥物除了嗎啡（morphine）之外，還經常使用芬太尼（fentanyl）、右美托咪啶或加入非類固醇抗炎藥等其他非嗎啡藥物進行配方，因此C選項「不宜使用嗎啡以外藥物」錯誤。\n\n【選項詳解】\n- A. PCA 讓病人疼痛時可在安全鎖定時間內自行給藥，能比固定間隔給藥更即時達到止痛。\n- B. PCA 透過病人需求調整給藥，疼痛緩解或鎮靜時自然減少按壓，通常可降低不必要的總劑量。\n- C. PCA 不限於嗎啡，也可用 fentanyl、hydromorphone 或依情境合併其他止痛策略；本項限制過度。\n- D. 病人疼痛時按壓、疼痛降低或嗜睡時停止按壓，正是 PCA 的負回饋安全邏輯。\n\n【核心考點】\nPCA 透過病人需求與鎖定時間形成負回饋，不限於嗎啡，也可依情境使用其他 opioid 或輔助藥物。",
+      "key_point": "PCA 透過病人需求與鎖定時間形成負回饋，不限於嗎啡，也可依情境使用其他 opioid 或輔助藥物。",
+      "flashcard_front": "下列有關以病患自控式止痛治療手術後疼痛的敘述,何者錯誤?",
+      "flashcard_back": "PCA 透過病人需求與鎖定時間形成負回饋，不限於嗎啡，也可依情境使用其他 opioid 或輔助藥物。",
+      "flashcard_summary": "109-2_medicine-6 Q008 -> PCA 透過病人需求與鎖定時間形成負回饋，不限於嗎啡，也可依情境使用其他 opioid 或輔助藥物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題官方答案是 C。對於處於敗血性休克（septic shock）等血流動力學不穩定的重症病人，在休克未糾正及循環未穩定前，過早給予營養支持（尤其是腸胃道灌食）會大幅增加非咬合性非缺血性腸壞死（腸缺血）的風險，因此「越早給予預後越好」的敘述是錯誤的。在循環穩定後才開始逐步給藥。對於一般營養良好的術後患者，補充足夠水分與電解質下可容許禁食達7天；胃排空不良者可用十二指腸管餵食以防吸入。\n\n【選項詳解】\n- A. 營養狀況良好的術後病人若補足水分與電解質，短期禁食可接受，並非一定要立即人工營養。\n- B. 腸胃道手術後若循環穩定且腸道可用，可考慮早期腸道營養，有助維持腸黏膜與免疫功能。\n- C. 敗血性休克仍不穩時過早灌食會增加腸缺血與不耐受風險，應先復甦並穩定血流動力學。\n- D. 胃排空差時改用十二指腸或空腸餵食可降低胃內容物滯留與吸入風險，是合理策略。\n\n【核心考點】\n重症營養支持要先看血流動力學穩定度；休克未穩前不宜急著腸道灌食。",
+      "key_point": "重症營養支持要先看血流動力學穩定度；休克未穩前不宜急著腸道灌食。",
+      "flashcard_front": "重症病人應該儘早給與適當的營養支持,下列處置何者錯誤?",
+      "flashcard_back": "重症營養支持要先看血流動力學穩定度；休克未穩前不宜急著腸道灌食。",
+      "flashcard_summary": "109-2_medicine-6 Q009 -> 重症營養支持要先看血流動力學穩定度；休克未穩前不宜急著腸道灌食。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題官方答案是 B。年齡相關黃斑部退化（AMD）的主要危險因子是年齡，抽菸及遺傳史也顯著增加發病風險。在種族差異方面，白人（Caucasians）的發病率與視力喪失風險明顯高於黑人（Blacks），黑人相對不易發生此病所致的視力喪失，因此B選項敘述錯誤。\n\n【選項詳解】\n- A. AMD 盛行率隨年齡上升，年齡是最重要且不可改變的危險因子。\n- B. 嚴重視力喪失較常見於白人族群；黑人並非較容易發生 AMD 相關視損，因此本項錯誤。\n- C. 家族史與補體相關基因等遺傳因素會增加 AMD 風險，臨床評估時很重要。\n- D. 抽菸會增加氧化傷害並提高 AMD 發生與惡化機率，是重要可改變危險因子。\n\n【核心考點】\nAMD 危險因子包括年齡、白人族群、家族史與抽菸；黑人不是較易視力喪失的族群。",
+      "key_point": "AMD 危險因子包括年齡、白人族群、家族史與抽菸；黑人不是較易視力喪失的族群。",
+      "flashcard_front": "有關年齡相關黃斑部退化(age-related macular degeneration)危險因子之敘述,下列何者錯誤?",
+      "flashcard_back": "AMD 危險因子包括年齡、白人族群、家族史與抽菸；黑人不是較易視力喪失的族群。",
+      "flashcard_summary": "109-2_medicine-6 Q010 -> AMD 危險因子包括年齡、白人族群、家族史與抽菸；黑人不是較易視力喪失的族群。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
