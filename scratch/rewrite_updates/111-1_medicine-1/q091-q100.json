@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-1.json",
+  "dataset_id": "111-1_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】原核 DNA 結合調控蛋白常用 helix-turn-helix motif 插入 DNA major groove 辨識序列。\n\n【選項詳解】\n- A. Homeobox 是真核發育調控常見 DNA-binding domain，不是原核調控蛋白的典型答案。\n- B. Catalytic triad 是許多蛋白酶活性中心結構，和 DNA 結合調控無關。\n- C. EF hand 是鈣離子結合模體，不是原核 DNA 結合蛋白主要辨識結構。\n- D. Helix-turn-helix 是原核轉錄調控蛋白常見 DNA-binding motif，正確。\n\n【核心考點】Helix-turn-helix is a common DNA-binding motif in prokaryotic transcription regulators。",
+      "key_point": "Helix-turn-helix is a common DNA-binding motif in prokaryotic transcription regulators。",
+      "flashcard_front": "原核 DNA 結合 / 結構模體 / HTH / DNA 大溝",
+      "flashcard_back": "Helix-turn-helix is a common DNA-binding motif in prokaryotic transcription regulators。",
+      "flashcard_summary": "原核 DNA 結合 / 結構模體 / HTH / DNA 大溝 -> Helix-turn-helix is a common DNA-binding motif in prokaryotic transcription regulators。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】Cori cycle 中，肌肉無氧糖解產生 lactate，送到肝臟；肝臟經糖質新生把 lactate 轉回 glucose，再送回肌肉。\n\n【選項詳解】\n- A. 乳酸方向是由骨骼肌送到肝臟，不是由肝臟送到骨骼肌。\n- B. 葡萄糖方向是由肝臟產生後送到骨骼肌，不是骨骼肌送到肝臟。\n- C. 肝臟利用 lactate 進行糖質新生產生葡萄糖，是 Cori cycle 核心。\n- D. 骨骼肌主要把 glucose 經糖解轉成 lactate；糖質新生主要在肝臟與腎臟，不是骨骼肌。\n\n【核心考點】Cori cycle: muscle lactate to liver; liver gluconeogenesis produces glucose。",
+      "key_point": "Cori cycle: muscle lactate to liver; liver gluconeogenesis produces glucose。",
+      "flashcard_front": "科氏循環 (Cori cycle) / 乳酸運送 / 糖質新生 / 肝臟與肌肉",
+      "flashcard_back": "Cori cycle: muscle lactate to liver; liver gluconeogenesis produces glucose。",
+      "flashcard_summary": "科氏循環 (Cori cycle) / 乳酸運送 / 糖質新生 / 肝臟與肌肉 -> Cori cycle: muscle lactate to liver; liver gluconeogenesis produces glucose。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】糖解作用不可逆三步為 hexokinase/glucokinase、PFK-1、pyruvate kinase；選項中只有 pyruvate kinase 屬不可逆步驟。\n\n【選項詳解】\n- A. Enolase 催化 2-phosphoglycerate 變 phosphoenolpyruvate，接近平衡，非主要不可逆步驟。\n- B. Phosphoglycerate kinase 催化產生 ATP 的可逆步驟，不是糖解三個不可逆控制點之一。\n- C. Pyruvate kinase 催化 PEP 轉成 pyruvate，為正常生理下不可逆反應。\n- D. Aldolase 催化 fructose-1,6-bisphosphate 裂解，反應可逆，不是本題答案。\n\n【核心考點】Pyruvate kinase catalyzes an irreversible glycolytic step: PEP to pyruvate。",
+      "key_point": "Pyruvate kinase catalyzes an irreversible glycolytic step: PEP to pyruvate。",
+      "flashcard_front": "糖解不可逆反應 / 三大酵素 / 丙酮酸激酶 / 糖解調控點",
+      "flashcard_back": "Pyruvate kinase catalyzes an irreversible glycolytic step: PEP to pyruvate。",
+      "flashcard_summary": "糖解不可逆反應 / 三大酵素 / 丙酮酸激酶 / 糖解調控點 -> Pyruvate kinase catalyzes an irreversible glycolytic step: PEP to pyruvate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】麥芽糖由兩個葡萄糖以 alpha-1,4 糖苷鍵連接；蔗糖是 glucose-fructose，乳糖是 galactose-glucose。\n\n【選項詳解】\n- A. Glc alpha(1→2) Fru 是蔗糖，不是麥芽糖。\n- B. Gal beta(1→4) Glc 是乳糖，不是麥芽糖。\n- C. Glc alpha(1→4) Glc 是麥芽糖的結構，正確。\n- D. Glc alpha(1→1) Glc 不是麥芽糖典型鍵結；麥芽糖需 alpha-1,4。\n\n【核心考點】Maltose = Glc alpha(1 to 4) Glc。",
+      "key_point": "Maltose = Glc alpha(1 to 4) Glc。",
+      "flashcard_front": "麥芽糖結構 / 雙醣糖苷鍵 / 葡萄糖二聚體 / α(1→4) 鍵",
+      "flashcard_back": "Maltose = Glc alpha(1 to 4) Glc。",
+      "flashcard_summary": "麥芽糖結構 / 雙醣糖苷鍵 / 葡萄糖二聚體 / α(1→4) 鍵 -> Maltose = Glc alpha(1 to 4) Glc。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】葡萄糖進入細胞後被 hexokinase 或 glucokinase 磷酸化成 glucose-6-phosphate，帶電後不易穿膜離開，得以留在細胞內代謝。\n\n【選項詳解】\n- A. Glycosylation 是糖基接到蛋白或脂質上的修飾，不是葡萄糖被留在細胞內的主要方式。\n- B. Phosphorylation 使葡萄糖變成 glucose-6-phosphate，帶負電而被留在細胞內，正確。\n- C. Palmitoylation 是脂肪酸接到蛋白質上的修飾，與葡萄糖進入細胞後滯留無關。\n- D. Acetylation 常見於蛋白質或代謝中乙醯基轉移，不是葡萄糖初始代謝的 trapping 步驟。\n\n【核心考點】Phosphorylation traps glucose inside cells as glucose-6-phosphate。",
+      "key_point": "Phosphorylation traps glucose inside cells as glucose-6-phosphate。",
+      "flashcard_front": "葡萄糖留置 / 胞內鎖定 / 磷酸化 (phosphorylation) / 己糖激酶",
+      "flashcard_back": "Phosphorylation traps glucose inside cells as glucose-6-phosphate。",
+      "flashcard_summary": "葡萄糖留置 / 胞內鎖定 / 磷酸化 (phosphorylation) / 己糖激酶 -> Phosphorylation traps glucose inside cells as glucose-6-phosphate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】Pyruvate oxidative decarboxylation、oxidative phosphorylation 與脂肪酸 beta-oxidation 主要在線粒體；pentose phosphate pathway 在細胞質。\n\n【選項詳解】\n- A. Pyruvate oxidative decarboxylation 由 mitochondrial pyruvate dehydrogenase complex 進行。\n- B. Pentose phosphate pathway 主要在細胞質產生 NADPH 與 ribose-5-phosphate，不在線粒體內進行。\n- C. Oxidative phosphorylation 發生在線粒體內膜電子傳遞鏈與 ATP synthase。\n- D. Fatty acid beta-oxidation 主要在線粒體基質進行；很長鏈脂肪酸另有過氧化體起始處理。\n\n【核心考點】Pentose phosphate pathway occurs in the cytosol, not mitochondria。",
+      "key_point": "Pentose phosphate pathway occurs in the cytosol, not mitochondria。",
+      "flashcard_front": "戊糖磷酸途徑 (PPP) / 細胞定位 / 胞質與粒線體 / 代謝區隔",
+      "flashcard_back": "Pentose phosphate pathway occurs in the cytosol, not mitochondria。",
+      "flashcard_summary": "戊糖磷酸途徑 (PPP) / 細胞定位 / 胞質與粒線體 / 代謝區隔 -> Pentose phosphate pathway occurs in the cytosol, not mitochondria。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】膽酸由肝細胞以膽固醇為前驅物合成，幫助脂質與脂溶性維生素吸收；題目問錯誤敘述，水溶性維生素不靠膽酸吸收。\n\n【選項詳解】\n- A. 脂肪消化吸收需要膽酸形成 micelle 協助，因此敘述正確。\n- B. 膽酸可由肝細胞利用膽固醇合成，敘述正確。\n- C. 膽酸促進的是脂溶性維生素吸收，不是水溶性維生素，所以此項錯誤。\n- D. 膽固醇是膽酸合成前驅物，敘述正確。\n\n【核心考點】Bile acids emulsify fats and aid absorption of fat-soluble vitamins A, D, E, K, not water-soluble vitamins。",
+      "key_point": "Bile acids emulsify fats and aid absorption of fat-soluble vitamins A, D, E, K, not water-soluble vitamins。",
+      "flashcard_front": "膽酸 (bile acids) / 膽固醇前驅物 / 脂肪乳化 / 脂溶性維生素吸收",
+      "flashcard_back": "Bile acids emulsify fats and aid absorption of fat-soluble vitamins A, D, E, K, not water-soluble vitamins。",
+      "flashcard_summary": "膽酸 (bile acids) / 膽固醇前驅物 / 脂肪乳化 / 脂溶性維生素吸收 -> Bile acids emulsify fats and aid absorption of fat-soluble vitamins A, D, E, K, not water-soluble vitamins。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】支鏈胺基酸是 leucine、isoleucine、valine；lysine 不是 BCAA。題目問錯誤敘述。\n\n【選項詳解】\n- A. 此選項把 lysine 放入 BCAA，卻漏掉 valine；因此是錯誤敘述。\n- B. BCAA 初始轉胺作用在肌肉較活躍，肌肉 BCAA aminotransferase 活性高於肝臟，敘述正確。\n- C. 楓糖尿症源於 branched-chain alpha-keto acid dehydrogenase complex 缺陷，敘述正確。\n- D. BCAA 後續氧化代謝可產生 NADH 與 FADH2，敘述合理。\n\n【核心考點】BCAAs are leucine, isoleucine, and valine; MSUD is due to BCKD complex deficiency。",
+      "key_point": "BCAAs are leucine, isoleucine, and valine; MSUD is due to BCKD complex deficiency。",
+      "flashcard_front": "支鏈胺基酸 (BCAA) / 成員 / 楓糖尿症 / 肌肉代謝",
+      "flashcard_back": "BCAAs are leucine, isoleucine, and valine; MSUD is due to BCKD complex deficiency。",
+      "flashcard_summary": "支鏈胺基酸 (BCAA) / 成員 / 楓糖尿症 / 肌肉代謝 -> BCAAs are leucine, isoleucine, and valine; MSUD is due to BCKD complex deficiency。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】白胺酸是必需胺基酸，且為純生酮性胺基酸；lysine 也純生酮但不在選項中。\n\n【選項詳解】\n- A. 天門冬胺酸不是必需胺基酸，且主要為生糖性。\n- B. 組胺酸是必需胺基酸，但主要屬生糖性，不是典型生酮性答案。\n- C. 酪胺酸可生糖兼生酮，但不是必需胺基酸，因可由 phenylalanine 生成。\n- D. 白胺酸是必需胺基酸，也是純生酮性胺基酸，因此符合兩個條件。\n\n【核心考點】Leucine is both essential and exclusively ketogenic。",
+      "key_point": "Leucine is both essential and exclusively ketogenic。",
+      "flashcard_front": "生酮且必需胺基酸 / 純生酮性 / 白胺酸 / 離胺酸",
+      "flashcard_back": "Leucine is both essential and exclusively ketogenic。",
+      "flashcard_summary": "生酮且必需胺基酸 / 純生酮性 / 白胺酸 / 離胺酸 -> Leucine is both essential and exclusively ketogenic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】NADH 電子經 complex I、III、IV 傳到氧；I、III、IV 會把質子打到膜間腔，complex II 不打質子。Complex III 每對電子約移動 4 個 H+ 到膜間腔。\n\n【選項詳解】\n- A. Complex I 把 H+ 送到粒線體膜間腔，不是細胞質；題目位置寫錯。\n- B. Complex II 接收 FADH2 電子但不幫浦質子，因此不會移轉 2 個 H+ 到膜間腔。\n- C. Complex III 經 Q cycle 每對電子可將 4 個 H+ 移到膜間腔，敘述正確。\n- D. Complex IV 將 H+ 往膜間腔泵送，且在基質側消耗 H+ 還原氧，不是移到基質。\n\n【核心考點】Electron transport from NADH pumps protons at complexes I, III, IV; complex III transfers 4 H+ to intermembrane space。",
+      "key_point": "Electron transport from NADH pumps protons at complexes I, III, IV; complex III transfers 4 H+ to intermembrane space。",
+      "flashcard_front": "電子傳遞鏈 / 質子泵數 / 複合物 I、III、IV / 膜間隙",
+      "flashcard_back": "Electron transport from NADH pumps protons at complexes I, III, IV; complex III transfers 4 H+ to intermembrane space。",
+      "flashcard_summary": "電子傳遞鏈 / 質子泵數 / 複合物 I、III、IV / 膜間隙 -> Electron transport from NADH pumps protons at complexes I, III, IV; complex III transfers 4 H+ to intermembrane space。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-1.json",
+  "dataset_id": "111-1_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】題目問哪一個腦神經核的軸突會先在腦幹內交叉到對側才離開。這是滑車神經的經典解剖特徵：CN IV 神經核位於中腦下丘水平，纖維在上髓帆交叉後由腦幹背側出腦。\n\n【選項詳解】\n- A. 動眼神經核的纖維主要從同側中腦腹側離開，並不先在腦幹內交叉，因此不符合題目所問的出腦路徑。\n- B. 滑車神經核發出的纖維會在腦幹內交叉到對側，再從背側離開腦幹；這正是本題要考的唯一例外。\n- C. 外旋神經核位於橋腦，纖維從橋延溝附近離開，沒有滑車神經那種先交叉再出腦的特徵。\n- D. 舌下神經核位於延腦，纖維由橄欖與錐體之間出腦，路徑不會先在腦幹內交叉。\n\n【核心考點】滑車神經是唯一在腦幹內交叉、且由腦幹背側離開的腦神經。",
+      "key_point": "滑車神經是唯一在腦幹內交叉、且由腦幹背側離開的腦神經。",
+      "flashcard_front": "腦幹神經核 / 纖維內交叉至對側 / 腦幹背面出腦",
+      "flashcard_back": "滑車神經是唯一在腦幹內交叉、且由腦幹背側離開的腦神經。",
+      "flashcard_summary": "腦幹神經核 / 纖維內交叉至對側 / 腦幹背面出腦 -> 滑車神經是唯一在腦幹內交叉、且由腦幹背側離開的腦神經。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】苔狀纖維進入小腦後，主要終止於顆粒層，與顆粒細胞形成突觸；顆粒細胞再經平行纖維影響蒲金氏細胞。\n\n【選項詳解】\n- A. 分子層含平行纖維與蒲金氏細胞樹突，是顆粒細胞輸出影響蒲金氏細胞的位置，不是苔狀纖維主要形成突觸的層次。\n- B. 蒲金氏細胞層放置蒲金氏細胞胞體；苔狀纖維不以此層作為主要突觸目標，直接強烈接觸蒲金氏細胞的是 climbing fiber。\n- C. 顆粒層含顆粒細胞與小腦小球，苔狀纖維主要在此與顆粒細胞樹突形成突觸，所以是正確答案。\n- D. 把分子層與蒲金氏細胞層合併仍漏掉真正主要位置顆粒層，因此不符合 mossy fiber 的典型終止區。\n\n【核心考點】小腦 mossy fiber 主要和顆粒層的顆粒細胞突觸；climbing fiber 則直接強烈作用於蒲金氏細胞。",
+      "key_point": "小腦 mossy fiber 主要和顆粒層的顆粒細胞突觸；climbing fiber 則直接強烈作用於蒲金氏細胞。",
+      "flashcard_front": "小腦傳入纖維 / 苔狀纖維 / 突觸位置",
+      "flashcard_back": "小腦 mossy fiber 主要和顆粒層的顆粒細胞突觸；climbing fiber 則直接強烈作用於蒲金氏細胞。",
+      "flashcard_summary": "小腦傳入纖維 / 苔狀纖維 / 突觸位置 -> 小腦 mossy fiber 主要和顆粒層的顆粒細胞突觸；climbing fiber 則直接強烈作用於蒲金氏細胞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】兩眼共同向外側注視屬於隨意眼球運動控制，皮質主要由額葉眼動區啟動，再透過腦幹凝視中樞協調雙眼。\n\n【選項詳解】\n- A. 主要運動區控制對側身體骨骼肌的隨意動作，不是兩眼共軛凝視的專門皮質區。\n- B. 主要視覺區負責接收與處理初級視覺訊息，並不主導眼球外側注視動作。\n- C. 運動輔助區偏重動作計畫與雙側協調，並非控制 lateral gaze 的主要皮質定位。\n- D. 額葉眼動區負責啟動隨意性共軛眼球運動，與外側注視最直接相關。\n\n【核心考點】Frontal eye field 控制隨意性共軛凝視，病灶常使眼睛偏向病灶側、看向對側能力下降。",
+      "key_point": "Frontal eye field 控制隨意性共軛凝視，病灶常使眼睛偏向病灶側、看向對側能力下降。",
+      "flashcard_front": "大腦皮質 / 兩眼外側注視 / 隨意掃視控制區",
+      "flashcard_back": "Frontal eye field 控制隨意性共軛凝視，病灶常使眼睛偏向病灶側、看向對側能力下降。",
+      "flashcard_summary": "大腦皮質 / 兩眼外側注視 / 隨意掃視控制區 -> Frontal eye field 控制隨意性共軛凝視，病灶常使眼睛偏向病灶側、看向對側能力下降。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】題目描述同側伸肌收縮、屈肌鬆弛，是維持姿勢與抗重力伸肌張力的前庭脊髓徑功能。\n\n【選項詳解】\n- A. 外側前庭脊髓徑由外側前庭核下行，主要增強同側伸肌與抗重力肌張力，正符合題目描述。\n- B. 網狀脊髓徑會調節姿勢與肌張力，但外側網狀脊髓徑不是題目所指典型促進同側伸肌的路徑。\n- C. 紅核脊髓徑較偏向促進上肢屈肌活動，與伸肌收縮、屈肌鬆弛的描述相反。\n- D. 外側皮質脊髓徑主要控制遠端肢體精細隨意動作，不是抗重力伸肌反射性促進的主要徑路。\n\n【核心考點】外側前庭脊髓徑促進同側軀幹與近端肢體伸肌，幫助姿勢與平衡。",
+      "key_point": "外側前庭脊髓徑促進同側軀幹與近端肢體伸肌，幫助姿勢與平衡。",
+      "flashcard_front": "脊髓下行徑 / 同側伸肌收縮、屈肌鬆弛 / 維持姿勢平衡",
+      "flashcard_back": "外側前庭脊髓徑促進同側軀幹與近端肢體伸肌，幫助姿勢與平衡。",
+      "flashcard_summary": "脊髓下行徑 / 同側伸肌收縮、屈肌鬆弛 / 維持姿勢平衡 -> 外側前庭脊髓徑促進同側軀幹與近端肢體伸肌，幫助姿勢與平衡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】本體感覺需要快速、精準傳遞肌梭與關節位置訊息，因此多由大直徑、有髓鞘纖維承擔，並經背根內側進入後索系統。\n\n【選項詳解】\n- A. 大直徑纖維適合快速傳導本體感覺，且背根內側分支是這類纖維進入脊髓的典型位置。\n- B. 雖然本體感覺纖維較粗，但背根外側較偏痛覺、溫覺等小纖維進入區，因此位置不對。\n- C. 本體感覺不是以小直徑纖維為主；小纖維傳遞較慢，常見於痛溫覺或自主相關訊息。\n- D. 小直徑加背根外側比較符合痛溫覺路徑，不符合 proprioception 的高速度傳導需求。\n\n【核心考點】本體感覺與精細觸覺多走大直徑纖維，從背根內側進入脊髓；痛溫覺小纖維較偏外側。",
+      "key_point": "本體感覺與精細觸覺多走大直徑纖維，從背根內側進入脊髓；痛溫覺小纖維較偏外側。",
+      "flashcard_front": "本體感覺纖維 / 纖維粗細 / 背根進入位置",
+      "flashcard_back": "本體感覺與精細觸覺多走大直徑纖維，從背根內側進入脊髓；痛溫覺小纖維較偏外側。",
+      "flashcard_summary": "本體感覺纖維 / 纖維粗細 / 背根進入位置 -> 本體感覺與精細觸覺多走大直徑纖維，從背根內側進入脊髓；痛溫覺小纖維較偏外側。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】題目問哪一個不是間腦構造。間腦包含丘腦、下視丘、上丘腦與松果體等；豆狀核屬於大腦基底核。\n\n【選項詳解】\n- A. 丘腦是間腦最大組成之一，負責多數感覺訊息中繼，因此不能選為例外。\n- B. 松果體屬於上丘腦，也歸在間腦範圍內，因此不是本題要找的非間腦構造。\n- C. 豆狀核由殼核與蒼白球組成，是基底核的一部分，不屬於間腦，所以是題目所問的例外。\n- D. 下視丘位於間腦腹側，參與自主神經與內分泌調節，明確屬於間腦。\n\n【核心考點】間腦包括 thalamus、hypothalamus、epithalamus；lentiform nucleus 是 basal ganglia。",
+      "key_point": "間腦包括 thalamus、hypothalamus、epithalamus；lentiform nucleus 是 basal ganglia。",
+      "flashcard_front": "腦部發育分區 / 間腦構造 / 豆狀核歸屬",
+      "flashcard_back": "間腦包括 thalamus、hypothalamus、epithalamus；lentiform nucleus 是 basal ganglia。",
+      "flashcard_summary": "腦部發育分區 / 間腦構造 / 豆狀核歸屬 -> 間腦包括 thalamus、hypothalamus、epithalamus；lentiform nucleus 是 basal ganglia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】眼神經是三叉神經第一分支，功能以一般體感覺為主；題目問最不恰當，特殊感覺這個分類不適用。\n\n【選項詳解】\n- A. 眼神經不是視覺、嗅覺、味覺或聽平衡等特殊感覺神經；它是一般體感覺分支，所以此敘述最不恰當。\n- B. CN V1 傳遞一般體感覺，包括痛、溫、觸與角膜感覺，這是正確分類。\n- C. 眼眶結構、角膜與眼周感覺可由眼神經分支傳入，因此這個描述合理。\n- D. 前額、上眼瞼與鼻背等部分顏面感覺屬 CN V1 分布，並非錯誤敘述。\n\n【核心考點】Ophthalmic nerve 是 CN V1，屬一般體感覺，接收眼眶、角膜、前額與部分鼻部感覺。",
+      "key_point": "Ophthalmic nerve 是 CN V1，屬一般體感覺，接收眼眶、角膜、前額與部分鼻部感覺。",
+      "flashcard_front": "眼神經 (CN V1) / 神經性質 / 感覺類型",
+      "flashcard_back": "Ophthalmic nerve 是 CN V1，屬一般體感覺，接收眼眶、角膜、前額與部分鼻部感覺。",
+      "flashcard_summary": "眼神經 (CN V1) / 神經性質 / 感覺類型 -> Ophthalmic nerve 是 CN V1，屬一般體感覺，接收眼眶、角膜、前額與部分鼻部感覺。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】鼻淚管把淚液從淚囊導入鼻腔，開口在下鼻道；臨床上哭泣時流鼻水也來自這條通路。\n\n【選項詳解】\n- A. 最上鼻道位於上鼻甲上方，和鼻淚管開口無關。\n- B. 上鼻道主要接收後篩竇開口，不是淚液進入鼻腔的位置。\n- C. 中鼻道接收額竇、上頷竇與前中篩竇等開口，但不是鼻淚管終點。\n- D. 鼻淚管通向下鼻道，位於下鼻甲下方，因此此選項正確。\n\n【核心考點】Nasolacrimal duct/canal 連通到 inferior meatus。",
+      "key_point": "Nasolacrimal duct/canal 連通到 inferior meatus。",
+      "flashcard_front": "眼眶內側 / 鼻淚管 / 鼻腔開口位置",
+      "flashcard_back": "Nasolacrimal duct/canal 連通到 inferior meatus。",
+      "flashcard_summary": "眼眶內側 / 鼻淚管 / 鼻腔開口位置 -> Nasolacrimal duct/canal 連通到 inferior meatus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】鼓索神經從顏面神經分出，穿過中耳後經岩鼓裂進入顳下窩，之後加入舌神經。\n\n【選項詳解】\n- A. 岩鼓裂是鼓索神經離開中耳、進入顳下窩並加入舌神經的通道。\n- B. 莖乳突孔是顏面神經主幹離開顱骨的位置，不是鼓索神經離開中耳進入顳下窩的裂隙。\n- C. 乳突孔主要與導靜脈等構造相關，並非鼓索神經的典型路徑。\n- D. 咽鼓室管連通中耳與鼻咽，用於壓力平衡，不是鼓索神經離開中耳的孔道。\n\n【核心考點】Chorda tympani 經 petrotympanic fissure 離開中耳，攜帶前舌 2/3 味覺與副交感纖維。",
+      "key_point": "Chorda tympani 經 petrotympanic fissure 離開中耳，攜帶前舌 2/3 味覺與副交感纖維。",
+      "flashcard_front": "鼓索神經 / 出中耳通道 / 顳下窩入口",
+      "flashcard_back": "Chorda tympani 經 petrotympanic fissure 離開中耳，攜帶前舌 2/3 味覺與副交感纖維。",
+      "flashcard_summary": "鼓索神經 / 出中耳通道 / 顳下窩入口 -> Chorda tympani 經 petrotympanic fissure 離開中耳，攜帶前舌 2/3 味覺與副交感纖維。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】頸動脈鞘內容物包含頸總動脈或內頸動脈、內頸靜脈與迷走神經；舌咽神經不在鞘內。\n\n【選項詳解】\n- A. 頸總動脈位於頸動脈鞘內，向上分叉為內外頸動脈。\n- B. 舌咽神經雖穿越頸部深處，但不是頸動脈鞘的標準內容物，因此是本題答案。\n- C. 內頸動脈在頸動脈鞘內向上行進，是鞘內重要血管。\n- D. 迷走神經位於頸動脈鞘內，通常在動脈與內頸靜脈之間偏後方。\n\n【核心考點】Carotid sheath 三大內容物是 common/internal carotid artery、internal jugular vein、vagus nerve。",
+      "key_point": "Carotid sheath 三大內容物是 common/internal carotid artery、internal jugular vein、vagus nerve。",
+      "flashcard_front": "頸部解剖 / 頸動脈鞘內容物 / 排除神經",
+      "flashcard_back": "Carotid sheath 三大內容物是 common/internal carotid artery、internal jugular vein、vagus nerve。",
+      "flashcard_summary": "頸部解剖 / 頸動脈鞘內容物 / 排除神經 -> Carotid sheath 三大內容物是 common/internal carotid artery、internal jugular vein、vagus nerve。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

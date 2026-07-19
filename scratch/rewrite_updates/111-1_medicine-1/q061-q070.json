@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-1.json",
+  "dataset_id": "111-1_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】用 Fick principle：cardiac output = O2 consumption / (arterial O2 content - venous O2 content)。1.9 L/min 等於 1900 mL/min，動靜脈差為 54 mL/L。\n\n【選項詳解】\n- A. 17.5 L/min 相當於把氧耗量或動靜脈差多除了一次，低估了計算值。\n- B. 1900 mL/min 除以 54 mL/L 約為 35 L/min，符合 Fick principle。\n- C. 70 L/min 約為正確值兩倍，常見於把動靜脈差誤算成 27 mL/L。\n- D. 14 L/min 明顯低於公式計算結果，不符合題目給的耗氧量與含氧差。\n\n【核心考點】CO = 1900 / (188-134) = 1900/54，約 35 L/min。",
+      "key_point": "CO = 1900 / (188-134) = 1900/54，約 35 L/min。",
+      "flashcard_front": "Fick 原理 / 計算心輸出量 (CO) / 耗氧量與動靜脈氧差",
+      "flashcard_back": "CO = 1900 / (188-134) = 1900/54，約 35 L/min。",
+      "flashcard_summary": "Fick 原理 / 計算心輸出量 (CO) / 耗氧量與動靜脈氧差 -> CO = 1900 / (188-134) = 1900/54，約 35 L/min。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】失血造成 MAP 下降的直接原因是血容量下降、靜脈回流下降、舒張末期容積下降，進而心輸出量下降；副交感活性減少是代償反應，不是造成 MAP 下降的原因。\n\n【選項詳解】\n- A. 血液總體積下降是失血造成平均動脈壓下降的直接起點。\n- B. 心臟副交感活性減少通常會使心跳變快，是壓力下降後的代償，不是最相關的致壓下降因素。\n- C. 周邊靜脈壓和靜脈回流下降會降低前負荷，直接導致 MAP 下降。\n- D. 心室舒張末期容積下降使搏出量下降，是失血性低血壓的重要機轉。\n\n【核心考點】Hemorrhage lowers MAP by reducing blood volume, venous return, EDV, stroke volume, and cardiac output。",
+      "key_point": "Hemorrhage lowers MAP by reducing blood volume, venous return, EDV, stroke volume, and cardiac output。",
+      "flashcard_front": "急性失血 / 平均動脈壓下降因素 / 自主神經代償反應",
+      "flashcard_back": "Hemorrhage lowers MAP by reducing blood volume, venous return, EDV, stroke volume, and cardiac output。",
+      "flashcard_summary": "急性失血 / 平均動脈壓下降因素 / 自主神經代償反應 -> Hemorrhage lowers MAP by reducing blood volume, venous return, EDV, stroke volume, and cardiac output。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】肺水腫增加擴散距離而降低氧氣擴散能力；運動時肺微血管招募與擴張，使有效交換面積增加，擴散能力上升。\n\n【選項詳解】\n- A. 肺水腫不會增加擴散能力；水腫使膜變厚，氧氣通過更困難。\n- B. 運動時增加這半句正確，但肺水腫時方向錯誤。\n- C. 肺水腫使擴散能力下降，運動使肺血管床招募而擴散能力上升，兩者皆正確。\n- D. 肺水腫下降正確，但運動通常會增加而不是減少擴散能力。\n\n【核心考點】Diffusing capacity decreases in pulmonary edema and increases during exercise。",
+      "key_point": "Diffusing capacity decreases in pulmonary edema and increases during exercise。",
+      "flashcard_front": "肺泡氣體交換 / 氧氣擴散能力 / 肺水腫與運動影響",
+      "flashcard_back": "Diffusing capacity decreases in pulmonary edema and increases during exercise。",
+      "flashcard_summary": "肺泡氣體交換 / 氧氣擴散能力 / 肺水腫與運動影響 -> Diffusing capacity decreases in pulmonary edema and increases during exercise。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】過度換氣會排出更多 CO2，使肺泡 PCO2 與動脈 CO2 含量下降；依肺泡氣體方程式，肺泡 PO2 會上升。\n\n【選項詳解】\n- A. 1 與 2 都對，但漏掉體動脈血 CO2 總含量下降。\n- B. 2 與 3 都對，但過度換氣也會使肺泡氧分壓上升。\n- C. 1 與 3 都對，但也應包含肺泡 CO2 分壓下降。\n- D. 三個敘述都符合過度換氣的氣體變化，因此正確。\n\n【核心考點】Hyperventilation increases alveolar PO2, decreases alveolar PCO2, and lowers arterial total CO2 content。",
+      "key_point": "Hyperventilation increases alveolar PO2, decreases alveolar PCO2, and lowers arterial total CO2 content。",
+      "flashcard_front": "過度換氣 / 肺泡分壓變化 / 體動脈二氧化碳含量",
+      "flashcard_back": "Hyperventilation increases alveolar PO2, decreases alveolar PCO2, and lowers arterial total CO2 content。",
+      "flashcard_summary": "過度換氣 / 肺泡分壓變化 / 體動脈二氧化碳含量 -> Hyperventilation increases alveolar PO2, decreases alveolar PCO2, and lowers arterial total CO2 content。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】D 細胞分泌 somatostatin，會抑制 G 細胞、ECL 細胞與壁細胞，促進胃酸效果最低；其他選項多促酸。\n\n【選項詳解】\n- A. 刺激 D 細胞會增加 somatostatin，抑制胃泌素、組織胺與壁細胞，所以促進胃酸效果最低。\n- B. ECL 細胞釋放 histamine，作用於 H2 受體促進壁細胞分泌胃酸。\n- C. G 細胞分泌 gastrin，可直接或經 ECL 細胞間接促進胃酸分泌。\n- D. 迷走神經透過 ACh 與 GRP 等訊號促進胃酸分泌，效果不低。\n\n【核心考點】Somatostatin from D cells inhibits gastric acid secretion。",
+      "key_point": "Somatostatin from D cells inhibits gastric acid secretion。",
+      "flashcard_front": "消化生理 / 胃酸分泌調控 / 體抑素與 D 細胞",
+      "flashcard_back": "Somatostatin from D cells inhibits gastric acid secretion。",
+      "flashcard_summary": "消化生理 / 胃酸分泌調控 / 體抑素與 D 細胞 -> Somatostatin from D cells inhibits gastric acid secretion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】分節運動是小腸局部來回收縮，重點在混合食糜與增加接觸吸收面，不是快速推進。\n\n【選項詳解】\n- A. 分節運動反覆分割與混合腸腔內容物，是最適當的功能描述。\n- B. 胃結腸反射是進食後促進結腸運動的反射，不是分節運動本身的主要功能。\n- C. 快速推進食物是蠕動或 mass movement 的特性，不是 segmentation 的重點。\n- D. 抑制胃排空與降低胃酸分泌和腸道分節運動的主要生理功能不符。\n\n【核心考點】Segmentation primarily mixes intestinal contents; peristalsis propels。",
+      "key_point": "Segmentation primarily mixes intestinal contents; peristalsis propels。",
+      "flashcard_front": "小腸運動 / 分節運動 (segmentation) / 生理功能",
+      "flashcard_back": "Segmentation primarily mixes intestinal contents; peristalsis propels。",
+      "flashcard_summary": "小腸運動 / 分節運動 (segmentation) / 生理功能 -> Segmentation primarily mixes intestinal contents; peristalsis propels。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】遠端腎小管鉀分泌受 aldosterone、管腔鈉量、流速與血鉀影響；aldosterone 降低會減少 ENaC 與 Na/K ATPase 活性，降低鉀分泌。\n\n【選項詳解】\n- A. 血漿量減少通常啟動 RAAS，提高 aldosterone，反而促進遠端鉀分泌。\n- B. 管腔鈉增加使鈉再吸收增加、管腔偏負，通常促進鉀分泌。\n- C. Aldosterone 降低會減少遠端鈉再吸收與鉀分泌，是最可能造成鉀分泌下降的原因。\n- D. 飲食鉀增加會刺激 aldosterone 與遠端鉀分泌，方向相反。\n\n【核心考點】Aldosterone increases distal K+ secretion; low aldosterone decreases it。",
+      "key_point": "Aldosterone increases distal K+ secretion; low aldosterone decreases it。",
+      "flashcard_front": "腎臟生理 / 鉀離子分泌 / 醛固酮作用",
+      "flashcard_back": "Aldosterone increases distal K+ secretion; low aldosterone decreases it。",
+      "flashcard_summary": "腎臟生理 / 鉀離子分泌 / 醛固酮作用 -> Aldosterone increases distal K+ secretion; low aldosterone decreases it。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】菊糖清除率代表 GFR，公式為 C = UxV/P。題目給 U=35 mg/mL、V=0.6 mL/min、P=0.25 mg/mL。\n\n【選項詳解】\n- A. 35 乘以 0.6 得 21，再除以 0.25 得 84 mL/min，計算正確。\n- B. 106 mL/min 不是依 UxV/P 代入後的結果，可能來自分母誤用。\n- C. 116 mL/min 接近一般男性 GFR，但本題要照給定數字計算。\n- D. 126 mL/min 也是常見正常值範圍附近，但與本題清除率公式不符。\n\n【核心考點】Inulin clearance = 35 x 0.6 / 0.25 = 84 mL/min。",
+      "key_point": "Inulin clearance = 35 x 0.6 / 0.25 = 84 mL/min。",
+      "flashcard_front": "腎臟生理 / 菊糖清除率 (Clearance) / 清除率計算公式",
+      "flashcard_back": "Inulin clearance = 35 x 0.6 / 0.25 = 84 mL/min。",
+      "flashcard_summary": "腎臟生理 / 菊糖清除率 (Clearance) / 清除率計算公式 -> Inulin clearance = 35 x 0.6 / 0.25 = 84 mL/min。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】腦下垂體腫瘤切除會影響 ACTH、TSH、LH/FSH 等軸；aldosterone 主要由 RAAS 與血鉀調控，最不依賴腦下垂體。\n\n【選項詳解】\n- A. 皮質醇受 ACTH 促進，腦下垂體手術後可能明顯受影響。\n- B. Aldosterone 主要受 RAAS 和血鉀控制，對腦下垂體依賴最小。\n- C. 黃體素受 LH/FSH 所屬性腺軸影響，腦下垂體受損可能改變其分泌。\n- D. 甲狀腺素受 TSH 調節，腦下垂體切除後可能下降。\n\n【核心考點】Aldosterone secretion is mainly regulated by angiotensin II and plasma K+, not pituitary ACTH。",
+      "key_point": "Aldosterone secretion is mainly regulated by angiotensin II and plasma K+, not pituitary ACTH。",
+      "flashcard_front": "內分泌生理 / 腦下腺切除影響 / 醛固酮調控途徑",
+      "flashcard_back": "Aldosterone secretion is mainly regulated by angiotensin II and plasma K+, not pituitary ACTH。",
+      "flashcard_summary": "內分泌生理 / 腦下腺切除影響 / 醛固酮調控途徑 -> Aldosterone secretion is mainly regulated by angiotensin II and plasma K+, not pituitary ACTH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】Insulin、thyroid hormone、testosterone 多支持生長與蛋白合成；長期 cortisol 過多會分解蛋白、抑制骨與兒童生長。\n\n【選項詳解】\n- A. 皮質醇具分解代謝作用，過多會抑制線性生長與蛋白合成，是本題答案。\n- B. 胰島素促進葡萄糖攝取、脂肪與蛋白合成，整體偏促進生長。\n- C. 甲狀腺荷爾蒙對兒童正常生長與神經發育必需，不是明顯抑制生長者。\n- D. 睪固酮促進青春期生長、蛋白合成與第二性徵發育，屬生長促進方向。\n\n【核心考點】Cortisol has catabolic and growth-inhibiting effects when excessive or chronic。",
+      "key_point": "Cortisol has catabolic and growth-inhibiting effects when excessive or chronic。",
+      "flashcard_front": "內分泌與生長 / 抑制生長激素 / 皮質醇的分解代謝",
+      "flashcard_back": "Cortisol has catabolic and growth-inhibiting effects when excessive or chronic。",
+      "flashcard_summary": "內分泌與生長 / 抑制生長激素 / 皮質醇的分解代謝 -> Cortisol has catabolic and growth-inhibiting effects when excessive or chronic。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

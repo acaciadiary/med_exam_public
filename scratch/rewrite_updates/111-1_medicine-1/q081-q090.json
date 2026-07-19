@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-1.json",
+  "dataset_id": "111-1_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】雙股 DNA 解旋時鹼基堆疊減少，260 nm 吸光度上升；利用低色度/增色效應可測定 melting temperature。\n\n【選項詳解】\n- A. 導電性不是測定 DNA Tm 的典型物理性質。\n- B. 膠體泳動性可用於大小或構形分析，但不直接用來量測熱變性 Tm。\n- C. 水溶性不是 DNA 雙股融解溫度的主要測量指標。\n- D. 雙股 DNA 具低色度，受熱解旋後吸光增加，這個變化可用來測定 Tm。\n\n【核心考點】DNA melting is monitored by loss of hypochromicity and increased absorbance at 260 nm。",
+      "key_point": "DNA melting is monitored by loss of hypochromicity and increased absorbance at 260 nm。",
+      "flashcard_front": "DNA 融化溫度 (Tm) / 變性吸光值 / 增色效應 / 低色度 (hypochromicity)",
+      "flashcard_back": "DNA melting is monitored by loss of hypochromicity and increased absorbance at 260 nm。",
+      "flashcard_summary": "DNA 融化溫度 (Tm) / 變性吸光值 / 增色效應 / 低色度 (hypochromicity) -> DNA melting is monitored by loss of hypochromicity and increased absorbance at 260 nm。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】糙皮病典型 3D 是 dermatitis、diarrhea、dementia，由 niacin 或 tryptophan 代謝不足導致 NAD/NADP 缺乏。\n\n【選項詳解】\n- A. Thiamine 缺乏造成 beriberi 或 Wernicke-Korsakoff，不是 pellagra。\n- B. Niacin 缺乏造成糙皮病，典型有腹瀉、皮膚炎與癡呆。\n- C. Riboflavin 缺乏常見口角炎、舌炎、脂漏性皮膚炎，不是典型 3D 糙皮病。\n- D. Pantothenic acid 缺乏少見，與 CoA 合成相關，不是 pellagra 的主要原因。\n\n【核心考點】Niacin deficiency causes pellagra: dermatitis, diarrhea, dementia。",
+      "key_point": "Niacin deficiency causes pellagra: dermatitis, diarrhea, dementia。",
+      "flashcard_front": "糙皮病 (pellagra) / 3D 症狀 / 腹瀉皮膚炎癡呆 / 維生素缺乏",
+      "flashcard_back": "Niacin deficiency causes pellagra: dermatitis, diarrhea, dementia。",
+      "flashcard_summary": "糙皮病 (pellagra) / 3D 症狀 / 腹瀉皮膚炎癡呆 / 維生素缺乏 -> Niacin deficiency causes pellagra: dermatitis, diarrhea, dementia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】CoA 由泛酸、ADP 衍生物與 beta-mercaptoethylamine 組成，反應硫原子來自巰基乙胺，不是 cysteine 本身；題目問錯誤。\n\n【選項詳解】\n- A. CoA 結構不是直接由泛酸、ADP 衍生物與 cysteine 結合而成；反應性 thiol 在 beta-mercaptoethylamine 上，因此此項錯誤。\n- B. CoA 的硫原子能形成 thioester 與 acyl group 結合，這是 acyl-CoA 的核心化學。\n- C. Pyruvate dehydrogenase complex 會利用 CoA 形成 acetyl-CoA，敘述正確。\n- D. Alpha-ketoglutarate dehydrogenase complex 也需 CoA，產生 succinyl-CoA，敘述正確。\n\n【核心考點】CoA contains pantothenate, ADP, and beta-mercaptoethylamine; its thiol carries acyl groups。",
+      "key_point": "CoA contains pantothenate, ADP, and beta-mercaptoethylamine; its thiol carries acyl groups。",
+      "flashcard_front": "輔酶 A (CoA) 結構 / 泛酸 / β-mercaptoethylamine / 半胱胺酸區分",
+      "flashcard_back": "CoA contains pantothenate, ADP, and beta-mercaptoethylamine; its thiol carries acyl groups。",
+      "flashcard_summary": "輔酶 A (CoA) 結構 / 泛酸 / β-mercaptoethylamine / 半胱胺酸區分 -> CoA contains pantothenate, ADP, and beta-mercaptoethylamine; its thiol carries acyl groups。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】嘧啶可分解成可溶性產物；thymine 分解產生 beta-aminoisobutyric acid，而 cytosine/uracil 可產生 beta-alanine。\n\n【選項詳解】\n- A. Beta-aminoisobutyric acid 是 thymine 分解後可在尿中測得的代謝產物。\n- B. Beta-alanine 較對應 uracil 與 cytosine 分解，不是 thymine 的典型答案。\n- C. Uridine 是核苷，不是 thymine 分解的最終尿中代謝產物。\n- D. Cytidine 是胞嘧啶核苷，和 thymine 分解產物不相符。\n\n【核心考點】Thymine catabolism yields beta-aminoisobutyric acid。",
+      "key_point": "Thymine catabolism yields beta-aminoisobutyric acid。",
+      "flashcard_front": "胸腺嘧啶分解 / 尿嘧啶分解 / 代謝產物 / β-aminoisobutyric acid",
+      "flashcard_back": "Thymine catabolism yields beta-aminoisobutyric acid。",
+      "flashcard_summary": "胸腺嘧啶分解 / 尿嘧啶分解 / 代謝產物 / β-aminoisobutyric acid -> Thymine catabolism yields beta-aminoisobutyric acid。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】DNA polymerase 的 proofreading 是在新生鏈方向反向移除錯誤核苷酸，靠 3' to 5' exonuclease activity。\n\n【選項詳解】\n- A. 5'→3' polymerase 活性負責延長 DNA 鏈，不是校對切除錯誤鹼基。\n- B. DNA 聚合反應不是 3'→5' 方向進行；新鏈延長方向為 5'→3'。\n- C. 5'→3' exonuclease 活性可移除前方引子或用於 nick translation，不是主要 proofreading。\n- D. 3'→5' exonuclease 可從新生鏈 3' 端移除誤配核苷酸，是主要校對活性。\n\n【核心考點】DNA proofreading uses 3' to 5' exonuclease activity。",
+      "key_point": "DNA proofreading uses 3' to 5' exonuclease activity。",
+      "flashcard_front": "DNA 複製校對 / 3'→5' 外切酶 / 錯誤鹼基切除 / 聚合酶活性",
+      "flashcard_back": "DNA proofreading uses 3' to 5' exonuclease activity。",
+      "flashcard_summary": "DNA 複製校對 / 3'→5' 外切酶 / 錯誤鹼基切除 / 聚合酶活性 -> DNA proofreading uses 3' to 5' exonuclease activity。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】DNA 中出現 uracil 常來自 cytosine 去胺化或 dUTP 誤摻入，先由 uracil-DNA glycosylase 移除鹼基，再走 base excision repair。\n\n【選項詳解】\n- A. 直接修復通常指不切除鹼基而直接還原損傷，例如光復活或 methylguanine 修復，不是移除 uracil 的主路徑。\n- B. 重組修復用於雙股斷裂或複製叉相關問題，不是單一錯誤鹼基 uracil 的主要處理。\n- C. 鹼基切除修復會先移除異常鹼基形成 AP site，再補回正確核苷酸，符合 uracil 修復。\n- D. Mismatch repair 主要修正複製後錯配，並非 DNA 上 uracil 鹼基本身的首要機制。\n\n【核心考點】Uracil in DNA is repaired mainly by base excision repair。",
+      "key_point": "Uracil in DNA is repaired mainly by base excision repair。",
+      "flashcard_front": "去胺化尿嘧啶 / 尿嘧啶-DNA糖苷酶 / 鹼基切除修復 (BER) / 鹼基損傷",
+      "flashcard_back": "Uracil in DNA is repaired mainly by base excision repair。",
+      "flashcard_summary": "去胺化尿嘧啶 / 尿嘧啶-DNA糖苷酶 / 鹼基切除修復 (BER) / 鹼基損傷 -> Uracil in DNA is repaired mainly by base excision repair。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】大腸桿菌 DNA polymerase III 是染色體複製的主要聚合酶，需要 primer 提供 3'-OH 來延長 DNA。\n\n【選項詳解】\n- A. DNA polymerase 不能從無引子開始合成，需要既有 3'-OH。\n- B. DNA polymerase III 是大腸桿菌 DNA 複製時的主要聚合酶，負責快速延長新生鏈。\n- C. Nick translation 常用 DNA polymerase I，利用其 5'→3' exonuclease 與 polymerase 活性。\n- D. 聚合酶需要的是 primer 的 3'-羥基，不是 5'-羥基；此選項把方向寫錯。\n\n【核心考點】E. coli DNA polymerase III is the main replicative polymerase and requires a primer 3'-OH。",
+      "key_point": "E. coli DNA polymerase III is the main replicative polymerase and requires a primer 3'-OH。",
+      "flashcard_front": "原核 DNA 聚合酶 III / 複製主力 / 3'-OH 引子需求 / 5'→3'外切酶缺乏",
+      "flashcard_back": "E. coli DNA polymerase III is the main replicative polymerase and requires a primer 3'-OH。",
+      "flashcard_summary": "原核 DNA 聚合酶 III / 複製主力 / 3'-OH 引子需求 / 5'→3'外切酶缺乏 -> E. coli DNA polymerase III is the main replicative polymerase and requires a primer 3'-OH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】蛋白質接上 ubiquitin，尤其形成 polyubiquitin chain，會被 26S proteasome 辨識並分解。\n\n【選項詳解】\n- A. Methylation 常調控蛋白質或染色質功能，不是蛋白酶體辨識分解的直接標籤。\n- B. Acetylation 可影響蛋白活性、定位或染色質狀態，但不是典型 proteasome 降解訊號。\n- C. Ubiquitination 是蛋白酶體辨識蛋白並進行分解的直接標記。\n- D. Glycosylation 主要影響蛋白折疊、穩定性、分泌與細胞辨識，不是 proteasome 的直接降解標籤。\n\n【核心考點】Ubiquitination targets proteins for proteasomal degradation。",
+      "key_point": "Ubiquitination targets proteins for proteasomal degradation。",
+      "flashcard_front": "蛋白降解標記 / 蛋白酶體 (proteasome) / 泛素化 (ubiquitination) / 後轉譯修飾",
+      "flashcard_back": "Ubiquitination targets proteins for proteasomal degradation。",
+      "flashcard_summary": "蛋白降解標記 / 蛋白酶體 (proteasome) / 泛素化 (ubiquitination) / 後轉譯修飾 -> Ubiquitination targets proteins for proteasomal degradation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】原核轉譯起始時，IF2-GTP 負責把帶 formyl-methionine 的 initiator tRNA 帶到核糖體 P site。\n\n【選項詳解】\n- A. IF1 幫助阻止 tRNA 過早進入 A site，並促進起始複合體組裝，但不攜帶 fMet-tRNA。\n- B. IF2 是 GTP 結合起始因子，負責運送 fMet-tRNA 到核糖體，正確。\n- C. IF3 防止 30S 與 50S 過早結合並協助選擇起始位置，不是 tRNA 載體。\n- D. EF-Tu 在延長期攜帶 aminoacyl-tRNA 至 A site，不負責起始 fMet-tRNA。\n\n【核心考點】IF2 delivers fMet-tRNAi to the bacterial ribosome during initiation。",
+      "key_point": "IF2 delivers fMet-tRNAi to the bacterial ribosome during initiation。",
+      "flashcard_front": "起始 tRNA 載體 / fMet-tRNA / 轉譯起始因子 / IF2",
+      "flashcard_back": "IF2 delivers fMet-tRNAi to the bacterial ribosome during initiation。",
+      "flashcard_summary": "起始 tRNA 載體 / fMet-tRNA / 轉譯起始因子 / IF2 -> IF2 delivers fMet-tRNAi to the bacterial ribosome during initiation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】轉譯釋放因子 RF1/RF2 具有 tRNA mimicry，能進入 A site 辨識 stop codon，立體上最像 tRNA。\n\n【選項詳解】\n- A. IF2 參與起始並結合 GTP，但整體不是最典型的 tRNA mimic 答案。\n- B. EF-Tu 攜帶 aminoacyl-tRNA，本身與 tRNA 結合，但其立體結構不如釋放因子直接模擬 tRNA。\n- C. RF1 進入核糖體 A site 辨識終止密碼，具有類似 tRNA 的空間模擬特徵，因此最相似。\n- D. 伴護蛋白協助蛋白折疊，與 tRNA 形狀模擬無關。\n\n【核心考點】Bacterial release factors structurally mimic tRNA to recognize stop codons in the A site。",
+      "key_point": "Bacterial release factors structurally mimic tRNA to recognize stop codons in the A site。",
+      "flashcard_front": "分子模仿 / 模擬 tRNA 結構 / 轉譯終止 / 釋放因子 (RF1)",
+      "flashcard_back": "Bacterial release factors structurally mimic tRNA to recognize stop codons in the A site。",
+      "flashcard_summary": "分子模仿 / 模擬 tRNA 結構 / 轉譯終止 / 釋放因子 (RF1) -> Bacterial release factors structurally mimic tRNA to recognize stop codons in the A site。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-1.json",
+  "dataset_id": "111-1_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】發炎會啟動下視丘-腦下垂體-腎上腺軸，使腎上腺皮質分泌 cortisol，藉抗發炎與免疫調節限制過度反應。\n\n【選項詳解】\n- A. Renin 主要調節血壓與體液容積，不是身體抗發炎的主要荷爾蒙反應。\n- B. 皮膚與維生素 B 分泌的說法不符合生理；皮膚主要與維生素 D 合成相關。\n- C. 胰臟 somatostatin 可抑制多種內分泌分泌，但不是對抗全身發炎的主要反應。\n- D. 腎上腺分泌 cortisol 可抑制發炎介質與免疫反應，符合題目所問。\n\n【核心考點】Inflammation activates adrenal cortisol secretion, which suppresses inflammatory mediators。",
+      "key_point": "Inflammation activates adrenal cortisol secretion, which suppresses inflammatory mediators。",
+      "flashcard_front": "發炎反應 / 體內抗炎代償 / 腎上腺皮質激素",
+      "flashcard_back": "Inflammation activates adrenal cortisol secretion, which suppresses inflammatory mediators。",
+      "flashcard_summary": "發炎反應 / 體內抗炎代償 / 腎上腺皮質激素 -> Inflammation activates adrenal cortisol secretion, which suppresses inflammatory mediators。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】高張食鹽水會升高血漿滲透壓，刺激口渴與 ADH 分泌增加；題目問最不適當，因此 ADH 減少是錯誤處。\n\n【選項詳解】\n- A. 口渴主要受滲透壓與細胞外液容積調控，此敘述正確。\n- B. 高張食鹽水會使 ADH 增加而非減少，同時造成口渴，所以此項最不適當。\n- C. 細胞外液下降可增加 renin 與 angiotensin II，刺激口渴中樞，敘述合理。\n- D. 容積和滲透壓可分開變動，例如等張失血改變容積但滲透壓未必改變。\n\n【核心考點】Hyperosmolality increases thirst and ADH secretion; volume depletion can stimulate thirst via angiotensin II。",
+      "key_point": "Hyperosmolality increases thirst and ADH secretion; volume depletion can stimulate thirst via angiotensin II。",
+      "flashcard_front": "口渴生理 / 高張食鹽水注射 / 血液滲透壓與 ADH 釋放",
+      "flashcard_back": "Hyperosmolality increases thirst and ADH secretion; volume depletion can stimulate thirst via angiotensin II。",
+      "flashcard_summary": "口渴生理 / 高張食鹽水注射 / 血液滲透壓與 ADH 釋放 -> Hyperosmolality increases thirst and ADH secretion; volume depletion can stimulate thirst via angiotensin II。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】Insulin deficiency 使組織葡萄糖利用下降、脂解增加，肝臟把脂肪酸轉成酮體，造成 ketosis 或 ketoacidosis。\n\n【選項詳解】\n- A. 胰島素不足會降低肝醣合成，並促進肝醣分解與糖質新生，不會增加肝醣合成。\n- B. 肌肉 GLUT4 依賴胰島素；胰島素不足時肌肉葡萄糖吸收下降。\n- C. 胰島素不足促進脂解與肝臟酮體生成，是最典型代謝變化。\n- D. 脂肪合成受胰島素促進，缺乏時會下降而不是增加。\n\n【核心考點】Insulin deficiency increases hepatic ketogenesis and decreases glycogen/lipid synthesis and muscle glucose uptake。",
+      "key_point": "Insulin deficiency increases hepatic ketogenesis and decreases glycogen/lipid synthesis and muscle glucose uptake。",
+      "flashcard_front": "糖尿病生理 / 胰島素缺乏 (insulin deficiency) / 酮體生成代謝",
+      "flashcard_back": "Insulin deficiency increases hepatic ketogenesis and decreases glycogen/lipid synthesis and muscle glucose uptake。",
+      "flashcard_summary": "糖尿病生理 / 胰島素缺乏 (insulin deficiency) / 酮體生成代謝 -> Insulin deficiency increases hepatic ketogenesis and decreases glycogen/lipid synthesis and muscle glucose uptake。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】Michaelis-Menten 反應在受質濃度遠大於 KM 時，酵素接近飽和，反應速率接近 Vmax，不再隨受質濃度明顯改變。\n\n【選項詳解】\n- A. 酵素飽和時速率幾乎固定，與受質濃度無關，近似零級反應。\n- B. 一級反應發生在低受質濃度、速率約與受質濃度成正比時，不是 [S] 遠大於 KM。\n- C. 二級反應需速率與兩個反應物濃度相關，非典型酵素飽和狀態。\n- D. 三元級反應不是 Michaelis-Menten 飽和時的常用近似。\n\n【核心考點】When [S] >> KM, enzyme reaction approximates zero-order kinetics。",
+      "key_point": "When [S] >> KM, enzyme reaction approximates zero-order kinetics。",
+      "flashcard_front": "酵素動力學 / Michaelis-Menten 方程 / 極高受質濃度與反應級數",
+      "flashcard_back": "When [S] >> KM, enzyme reaction approximates zero-order kinetics。",
+      "flashcard_summary": "酵素動力學 / Michaelis-Menten 方程 / 極高受質濃度與反應級數 -> When [S] >> KM, enzyme reaction approximates zero-order kinetics。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】酵素降低活化能但不改變反應平衡與自身總量；沒有酵素時反應仍可能慢速進行。題目問正確敘述。\n\n【選項詳解】\n- A. 酵素可催化放熱或吸熱反應，是否放熱由反應自由能決定，不由酵素決定。\n- B. 酵素不改變平衡常數，催化反應仍可達到化學平衡。\n- C. 酵素作為催化劑在反應前後總量不被消耗，敘述正確。\n- D. 沒有酵素時反應通常仍可發生，只是速率可能極慢，不是完全不會發生。\n\n【核心考點】Enzymes are catalysts: they are not consumed and do not change equilibrium.",
+      "key_point": "Enzymes are catalysts: they are not consumed and do not change equilibrium.",
+      "flashcard_front": "生物催化劑 / 酵素性質 / 化學平衡與總量",
+      "flashcard_back": "Enzymes are catalysts: they are not consumed and do not change equilibrium.",
+      "flashcard_summary": "生物催化劑 / 酵素性質 / 化學平衡與總量 -> Enzymes are catalysts: they are not consumed and do not change equilibrium.",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】雙硫鍵是兩個 cysteine 的硫醇氧化形成的共價鍵，對蛋白質三級或四級結構穩定很重要，可被強還原劑斷開。\n\n【選項詳解】\n- A. 雙硫鍵常顯著穩定蛋白質立體構形，特別是分泌蛋白與細胞外蛋白。\n- B. 雙硫鍵由兩個 cysteine 形成 cystine，不是由 methionine 形成。\n- C. 強還原劑可還原雙硫鍵為硫醇，破壞相關蛋白質結構，因此正確。\n- D. 雙硫鍵是共價鍵，不屬於非共價交互作用。\n\n【核心考點】Disulfide bonds are covalent cystine bonds and are broken by reducing agents。",
+      "key_point": "Disulfide bonds are covalent cystine bonds and are broken by reducing agents。",
+      "flashcard_front": "雙硫鍵 / 半胱胺酸 / 共價鍵結 / 強還原劑",
+      "flashcard_back": "Disulfide bonds are covalent cystine bonds and are broken by reducing agents。",
+      "flashcard_summary": "雙硫鍵 / 半胱胺酸 / 共價鍵結 / 強還原劑 -> Disulfide bonds are covalent cystine bonds and are broken by reducing agents。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】真核細胞週期中，DNA 複製發生於 S phase，也就是 synthesis phase；G1 準備，G2 檢查，M 期分裂。\n\n【選項詳解】\n- A. G1 期主要進行生長與準備進入 DNA 合成，不是複製 DNA 的時期。\n- B. S 期是 DNA synthesis 的時期，染色體 DNA 在此完成複製。\n- C. G2 期在 DNA 複製後，主要進行修復檢查與有絲分裂準備。\n- D. M 期是染色體分離與細胞分裂，不是 DNA 複製期。\n\n【核心考點】DNA replication occurs in S phase of the eukaryotic cell cycle。",
+      "key_point": "DNA replication occurs in S phase of the eukaryotic cell cycle。",
+      "flashcard_front": "真核生物細胞週期 / DNA 複製 / 間期分裂 / S期",
+      "flashcard_back": "DNA replication occurs in S phase of the eukaryotic cell cycle。",
+      "flashcard_summary": "真核生物細胞週期 / DNA 複製 / 間期分裂 / S期 -> DNA replication occurs in S phase of the eukaryotic cell cycle。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】EGF receptor 是 receptor tyrosine kinase，ligand binding 後促使受體二聚化與自體磷酸化。\n\n【選項詳解】\n- A. 菸鹼型乙醯膽鹼受體本身是多次單元的 ligand-gated ion channel，不是由單體受配體後二聚化的典型 RTK。\n- B. EGF 與 EGFR 結合後促進受體由單體形成二聚體並啟動酪胺酸激酶活性。\n- C. Beta-adrenergic receptor 是 G protein-coupled receptor，活化重點不是受體二聚化。\n- D. Integrin 常作為細胞外基質受體並傳遞黏附訊號，不是典型 ligand-induced monomer-to-dimer receptor tyrosine kinase 題型。\n\n【核心考點】EGFR activation involves ligand-induced receptor dimerization and tyrosine autophosphorylation。",
+      "key_point": "EGFR activation involves ligand-induced receptor dimerization and tyrosine autophosphorylation。",
+      "flashcard_front": "激素-受體結合 / 單體變雙聚體 / 酪胺酸激酶受體 / EGF受體",
+      "flashcard_back": "EGFR activation involves ligand-induced receptor dimerization and tyrosine autophosphorylation。",
+      "flashcard_summary": "激素-受體結合 / 單體變雙聚體 / 酪胺酸激酶受體 / EGF受體 -> EGFR activation involves ligand-induced receptor dimerization and tyrosine autophosphorylation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】類固醇源自膽固醇，脂溶性可穿透細胞膜，與細胞內受體結合後調控基因轉錄；題目問錯誤敘述。\n\n【選項詳解】\n- A. 腎上腺皮質類固醇以前驅物膽固醇合成，敘述正確。\n- B. 類固醇可穿透細胞膜，主要作用於細胞質或細胞核內受體；說無法穿膜且必須作用膜受體是錯的。\n- C. 類固醇與受體結合後會造成受體構形改變，使其能調控基因表現。\n- D. 活化後的類固醇受體可作為轉錄調節因子，影響基因轉錄。\n\n【核心考點】Steroid hormones diffuse across membranes and bind intracellular receptors that regulate transcription。",
+      "key_point": "Steroid hormones diffuse across membranes and bind intracellular receptors that regulate transcription。",
+      "flashcard_front": "類固醇受體 / 脂溶性激素 / 細胞膜穿透 / 基因轉錄調控",
+      "flashcard_back": "Steroid hormones diffuse across membranes and bind intracellular receptors that regulate transcription。",
+      "flashcard_summary": "類固醇受體 / 脂溶性激素 / 細胞膜穿透 / 基因轉錄調控 -> Steroid hormones diffuse across membranes and bind intracellular receptors that regulate transcription。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】反義寡核酸可與 RNA 配對，影響 splicing、促進 RNase H 介導 mRNA 降解或阻礙轉譯；它不會把 RNA 序列直接突變成新序列。\n\n【選項詳解】\n- A. 反義寡核酸可遮蔽剪接位點或調整 exon inclusion，確實能影響 RNA splicing。\n- B. 造成 RNA 序列突變不是反義寡核酸的典型作用；它是配對調控，不是改寫核苷酸序列。\n- C. 某些 antisense oligonucleotides 可招募 RNase H，使目標 mRNA 降解。\n- D. 與 mRNA 配對可阻礙 ribosome 或調整可用模板，影響蛋白質轉譯效率。\n\n【核心考點】Antisense oligonucleotides alter RNA processing, stability, or translation, not direct RNA sequence mutation。",
+      "key_point": "Antisense oligonucleotides alter RNA processing, stability, or translation, not direct RNA sequence mutation。",
+      "flashcard_front": "反義寡核酸 (ASO) / RNA 降解 / 剪切調控 / 突變排除",
+      "flashcard_back": "Antisense oligonucleotides alter RNA processing, stability, or translation, not direct RNA sequence mutation。",
+      "flashcard_summary": "反義寡核酸 (ASO) / RNA 降解 / 剪切調控 / 突變排除 -> Antisense oligonucleotides alter RNA processing, stability, or translation, not direct RNA sequence mutation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
