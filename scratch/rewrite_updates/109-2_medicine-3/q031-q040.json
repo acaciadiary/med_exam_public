@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\nSarcoidosis 是非乾酪性肉芽腫疾病，免疫機轉以 CD4 T cell 與巨噬細胞活化為主，最常侵犯肺與肺門淋巴結。\n\n【選項詳解】\n- A. CD4 T 淋巴細胞活化與 granuloma 形成是 sarcoidosis 的核心病理。\n- B. 肺部是 sarcoidosis 最常受侵犯器官，且可造成肺高壓，故此句錯。\n- C. 高血鈣主要來自肉芽腫巨噬細胞增加 1-alpha hydroxylase，產生 calcitriol；不是 ACE 本身造成。\n- D. 治療主力仍是 corticosteroid；TNF-alpha inhibitor 可用於部分難治病例，IL-1 inhibitor 不是最有效標準答案。\n\n【核心考點】\nSarcoidosis 是 CD4 T cell 驅動的非乾酪性肉芽腫，常侵犯肺部。",
+      "key_point": "Sarcoidosis：noncaseating granuloma + CD4 T cell activation。",
+      "flashcard_front": "Sarcoidosis",
+      "flashcard_back": "高血鈣來自 granuloma 巨噬細胞產生 calcitriol，不是 ACE 直接造成。",
+      "flashcard_summary": "Sarcoidosis -> 高血鈣來自 granuloma 巨噬細胞產生 calcitriol，不是 ACE 直接造成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\nMCTD 的典型抗體是 anti-U1 RNP。Anti-centromere antibody 主要與 limited cutaneous systemic sclerosis 或 CREST syndrome 相關。\n\n【選項詳解】\n- A. Sjögren syndrome 常見 anti-Ro/SSA 與 anti-La/SSB，配對正確。\n- B. SLE 的 anti-dsDNA 與疾病活動、腎炎相關，是典型配對。\n- C. MCTD 應配 anti-U1 RNP；anti-centromere 配 limited scleroderma，因此錯誤。\n- D. diffuse systemic sclerosis 常與 anti-Scl-70 相關，配對正確。\n\n【核心考點】\nMCTD 對應 anti-U1 RNP；anti-centromere 對應 limited systemic sclerosis。",
+      "key_point": "MCTD 的抗體是 anti-U1 RNP。",
+      "flashcard_front": "Autoantibody disease pair",
+      "flashcard_back": "Anti-centromere 不是 MCTD，而是 limited scleroderma/CREST。",
+      "flashcard_summary": "Autoantibody disease pair -> Anti-centromere 不是 MCTD，而是 limited scleroderma/CREST。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n風濕熱是 A 群鏈球菌感染後的免疫反應，抗體或 T 細胞與心臟、關節等宿主組織交叉反應，屬分子模仿。\n\n【選項詳解】\n- A. streptococcal antigens 與宿主組織交叉反應，造成 rheumatic fever，是最典型病理機轉。\n- B. 金黃色葡萄球菌可造成感染性心內膜炎或毒素疾病，不是風濕熱主因。\n- C. 癌細胞侵襲與風濕熱無關。\n- D. 類風濕性關節炎是自體免疫關節病，不能解釋鏈球菌感染後風濕熱。\n\n【核心考點】\nRheumatic fever 是 group A strep 後 molecular mimicry。",
+      "key_point": "風濕熱機轉：鏈球菌後分子模仿。",
+      "flashcard_front": "Rheumatic fever pathogenesis",
+      "flashcard_back": "GAS antigen 與宿主組織交叉反應造成風濕熱。",
+      "flashcard_summary": "Rheumatic fever pathogenesis -> GAS antigen 與宿主組織交叉反應造成風濕熱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n僵直性脊椎炎治療第一線是運動與 NSAIDs；若仍控制不佳才考慮 TNF inhibitor 或 IL-17 inhibitor 等生物製劑。\n\n【選項詳解】\n- A. sulfasalazine 對周邊關節炎較有幫助，對 axial spine disease 效果有限。\n- B. anti-TNF 對脊椎發炎與周邊關節都可有效，不只周邊關節。\n- C. NSAIDs 是僵直性脊椎炎第一線藥物，搭配運動復健。\n- D. methotrexate 對 axial disease 幫助有限，也不是每位使用 anti-TNF 者都必須併用。\n\n【核心考點】\nAnkylosing spondylitis 第一線是 NSAIDs 與運動；sulfasalazine/MTX 對 axial disease 有限。",
+      "key_point": "AS 第一線藥物是 NSAIDs。",
+      "flashcard_front": "Ankylosing spondylitis treatment",
+      "flashcard_back": "NSAIDs first-line；anti-TNF 可治 axial inflammation。",
+      "flashcard_summary": "Ankylosing spondylitis treatment -> NSAIDs first-line；anti-TNF 可治 axial inflammation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n纖維肌痛症是臨床診斷，重點是廣泛疼痛指數與症狀嚴重度，例如睡眠差、疲倦、認知症狀；影像與免疫抽血主要用來排除其他疾病，不是確診核心。\n\n【選項詳解】\n- A. 問卷評估疼痛區與全身症狀符合 ACR 診斷方向，是最適當處置。\n- B. 頸椎 MRI 只能評估局部結構病變，不能確立纖維肌痛症。\n- C. RF 可協助評估類風濕關節炎，但病人多年檢查正常且症狀符合 fibromyalgia，重複抽血不是最關鍵。\n- D. 女性荷爾蒙不是纖維肌痛症診斷標準。\n\n【核心考點】\nFibromyalgia 以 WPI 與 symptom severity 量表評估；不是靠影像或單一抽血確診。",
+      "key_point": "Fibromyalgia 診斷靠疼痛分布與症狀量表。",
+      "flashcard_front": "Fibromyalgia diagnosis",
+      "flashcard_back": "廣泛疼痛加睡眠、疲倦、認知症狀，比影像檢查更能確立診斷。",
+      "flashcard_summary": "Fibromyalgia diagnosis -> 廣泛疼痛加睡眠、疲倦、認知症狀，比影像檢查更能確立診斷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n慢性 B 肝合併疑似 HCC 時，血小板低、白蛋白低、INR 延長可反映肝硬化與門脈高壓或肝合成功能下降；AST 升高只代表肝細胞傷害，不等於已有肝硬化。\n\n【選項詳解】\n- A. 血小板 70,000/μL 常見於門脈高壓造成脾臟鬱血，支持肝硬化。\n- B. albumin 2.8 g/dL 表示肝臟合成功能差，支持肝硬化或嚴重肝病。\n- C. INR >2.2 表示凝血因子合成差，是肝功能不全的重要線索。\n- D. AST 100 U/L 只表示肝細胞發炎或傷害，不能單獨代表肝硬化。\n\n【核心考點】\n肝硬化證據看門脈高壓與合成功能：血小板低、albumin 低、INR 高；AST 升高不等於肝硬化。",
+      "key_point": "AST 升高不是肝硬化證據。",
+      "flashcard_front": "Cirrhosis lab evidence",
+      "flashcard_back": "肝硬化常見 thrombocytopenia、hypoalbuminemia、INR prolongation。",
+      "flashcard_summary": "Cirrhosis lab evidence -> 肝硬化常見 thrombocytopenia、hypoalbuminemia、INR prolongation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n可切除胰管腺癌即使能手術，仍常有微小殘存或早期復發風險，所以術後輔助化療有存活益處；題目問正確敘述，R1 resection 約三成是合理考點。\n\n【選項詳解】\n- A. 多數胰臟癌初診斷時已局部晚期或轉移，真正可切除比例不是約 60%。\n- B. 胰臟癌即使可切除，5 年存活率仍不佳，不能說多數預後良好達約 60%。\n- C. 手術病理常發現 microscopic residual disease，R1 resection 約三成可作為考點。\n- D. 術後輔助化療可改善整體存活，不能說不應進行。\n\n【核心考點】\n可切除胰臟癌仍需重視 R1 與復發風險；術後輔助化療有存活益處。",
+      "key_point": "Pancreatic ductal adenocarcinoma resectable disease 仍常需 adjuvant chemotherapy。",
+      "flashcard_front": "Resectable pancreatic cancer",
+      "flashcard_back": "胰臟癌可切除不代表預後好；輔助化療重要。",
+      "flashcard_summary": "Resectable pancreatic cancer -> 胰臟癌可切除不代表預後好；輔助化療重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n第四期腎細胞癌對傳統 cytotoxic chemotherapy 反應差；有效治療以免疫治療與標靶治療為主。\n\n【選項詳解】\n- A. checkpoint inhibitors 是轉移性 RCC 的重要治療，常與其他免疫或 TKI 藥物合併。\n- B. 傳統化學治療對 RCC 效果差，因此不是有效治療。\n- C. VEGF/VEGFR 抗血管新生標靶治療是 metastatic RCC 重要藥物類別。\n- D. mTOR inhibitors 如 everolimus/temsirolimus 曾用於 advanced RCC，屬有效標靶選項。\n\n【核心考點】\nMetastatic RCC 以免疫檢查點抑制劑與 VEGF/mTOR 標靶為主，傳統化療效果差。",
+      "key_point": "RCC 對傳統 chemotherapy 不敏感。",
+      "flashcard_front": "Metastatic renal cell carcinoma treatment",
+      "flashcard_back": "第四期 RCC 的有效治療不是傳統化療。",
+      "flashcard_summary": "Metastatic renal cell carcinoma treatment -> 第四期 RCC 的有效治療不是傳統化療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n老人有 atrophic gastritis、anti-parietal cell antibody、巨球性貧血、pancytopenia、LDH 高與間接膽紅素上升，最符合 pernicious anemia 造成的維生素 B12 缺乏。骨髓會代償性 erythroid hyperplasia，而非 precursor 減少。\n\n【選項詳解】\n- A. B12 缺乏有 ineffective erythropoiesis，網狀紅血球常偏低，敘述正確。\n- B. 骨髓通常是 megaloblastic change 與 erythroid hyperplasia，不是 erythroid precursors 減少。\n- C. 高 LDH 來自 ineffective erythropoiesis 與髓內溶血，符合 B12 缺乏。\n- D. 周邊血 granulocytes 可見 hypersegmented neutrophils，是巨球性貧血典型所見。\n\n【核心考點】\nPernicious anemia 造成 B12 缺乏：巨球性貧血、LDH 高、網狀球低、骨髓 erythroid hyperplasia。",
+      "key_point": "B12 缺乏骨髓 precursor 不少，反而有 megaloblastic hyperplasia。",
+      "flashcard_front": "Pernicious anemia",
+      "flashcard_back": "Anti-parietal cell antibody 加 atrophic gastritis 指向 pernicious anemia。",
+      "flashcard_summary": "Pernicious anemia -> Anti-parietal cell antibody 加 atrophic gastritis 指向 pernicious anemia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\nWarfarin 造成 INR 5.4 但沒有出血時，通常先停藥或調整劑量並追蹤 INR；不應為了預防出血而例行靜脈注射 vitamin K 至 INR <3，尤其機械瓣膜病人還要避免過度逆轉造成血栓。\n\n【選項詳解】\n- A. Warfarin 初期會先降低 protein C/S，抗凝效果也延遲，所以常需 heparin bridging。\n- B. 無出血且 INR 5.4 時不應常規 IV vitamin K 逆轉，處置過度且增加血栓風險。\n- C. 嚴重出血時 FFP 可補充 vitamin K-dependent coagulation factors，快速部分逆轉抗凝。\n- D. protein C/S 缺乏者用 warfarin 需小心皮膚壞死與血栓風險，敘述正確。\n\n【核心考點】\nWarfarin INR 升高但無出血時多先停藥與追蹤；嚴重出血才快速逆轉。",
+      "key_point": "INR 5.4 無出血不常規 IV vitamin K。",
+      "flashcard_front": "Warfarin supratherapeutic INR",
+      "flashcard_back": "機械瓣膜病人過度逆轉 warfarin 可能增加血栓風險。",
+      "flashcard_summary": "Warfarin supratherapeutic INR -> 機械瓣膜病人過度逆轉 warfarin 可能增加血栓風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

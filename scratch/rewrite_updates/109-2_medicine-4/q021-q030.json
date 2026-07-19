@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-4.json",
+  "dataset_id": "109-2_medicine-4",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-4_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題考查藥物誘發狼瘡（Drug-induced lupus, DIL）的臨床及免疫學特點。DIL 是由特定藥物（如 hydralazine, procainamide, isoniazid 等）引起類似全身性紅斑性狼瘡（SLE）的綜合徵，其最具特異性的血清學標記為抗組織蛋白抗體（antihistone antibody）。\n\n【選項詳解】\n- A. 錯誤。與自發性紅斑性狼瘡（SLE）明顯好發於女性（男女比約 1:9）不同，藥物誘發狼瘡（DIL）的男女發生率大致相等，女性並無明顯高發生率，這與易感藥物的使用人群分布及乙醯化代謝基因型相關。\n- B. 正確。抗組織蛋白抗體（antihistone antibody）在 DIL 患者中的陽性率極高，達 95% 以上，是診斷 DIL 最關鍵的免疫學指標。\n- C. 錯誤。DIL 的臨床症狀通常較自發性 SLE 輕微，主要表現為關節痛、發燒、肌痛和皮疹，極少引起嚴重的腎臟病變（腎炎，nephritis）或中樞神經系統病變。\n- D. 錯誤。DIL 的致病機制與大量免疫複合物沉積無關，因此患者的血清補體（complement，如 C3、C4）濃度通常維持正常，而不像自發性 SLE 急性期常伴隨顯著的補體下降。\n\n【核心考點】\n藥物誘發全身性紅斑性狼瘡（DIL）與自發性 SLE 在性別分布、器官侵犯（極少引發腎炎）以及血清學指標（高抗 histone 抗體、補體正常）之臨床鑑別點。",
+      "key_point": "藥物誘發狼瘡 (DIL) 最具特異性的自體抗體為抗組織蛋白抗體 (antihistone antibody)，且通常不伴隨補體下降與嚴重腎炎。",
+      "flashcard_front": "藥物誘發狼瘡 (DIL) 與自發性全身性紅斑性狼瘡 (SLE) 的免疫學與臨床鑑別點為何？",
+      "flashcard_back": "1. DIL 的男女比例相當（SLE女多於男）。2. DIL 的抗組織蛋白抗體 (antihistone antibody) 陽性率 >95%。3. DIL 極少侵犯腎臟與中樞神經，且血清補體通常正常。",
+      "flashcard_summary": "藥物誘發狼瘡 (DIL) -> 抗 histone 抗體陽性 (>95%)，補體通常正常，極少引起嚴重腎炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n病嬰反覆發生細菌感染、伴隨極端升高的外周血白血球，且有「臍帶脫落延遲（通常超過 3 週）」及肚臍炎（Omphalitis）病史，此為第一型白血球沾黏分子缺乏症（Leukocyte adhesion deficiency type 1, LAD-1）的經典表現。這是由於整合素基因突變導致白血球沾黏分子缺陷所致。\n\n【選項詳解】\n- A. 錯誤。Bruton 氏無丙種球蛋白血症（Bruton agammaglobulinemia，亦稱 XLA）是 BTK 基因突變導致 B 細胞發育障礙與體液免疫缺乏，通常在出生 6 個月後母體抗體消失時開始反覆感染，但不會伴隨臍帶脫落延遲，且感染時白血球（中性球）仍可正常移行至局部病灶，外周血白血球不會異常升高。\n- B. 錯誤。慢性肉芽腫病（Chronic granulomatous disease, CGD）是因 NADPH 氧化酶缺陷導致吞噬細胞殺菌功能障礙。病童易發生反覆的過氧化氫酶陽性菌（如金黃色葡萄球菌、黴菌）感染並形成慢性膿瘍與肉芽腫，但其臍帶脫落時間正常，且感染部位可見典型的化膿反應。\n- C. 錯誤。嚴重合併性免疫缺乏症（Severe combined immunodeficiency, SCID）是 T 細胞與 B 細胞同時發育不全或功能缺陷的致命性免疫缺陷。病童在嬰兒期即反覆發生嚴重的機會性感染、頑固性腹瀉及發育不良，但臨床上不會表現出臍帶脫落遲緩，且其淋巴球計數通常極低。\n- D. 正確。白血球沾黏分子缺乏症（Leukocyte adhesion deficiency, LAD）由於整合素（integrin，如 CD18）缺乏，中性球無法黏附於血管內皮細胞並游出血管外抗感染。這會導致病灶處因無中性球浸潤而「無膿液形成」，且中性球積聚在血管內導致外周血白血球顯著升高；「臍帶脫落延遲」更是此病的典型早期臨床特徵。\n\n【核心考點】\n白血球沾黏分子缺乏症（LAD）的發病機制（CD18 缺陷阻礙中性球移行）與臨床三大特徵（臍帶脫落延遲、反覆感染無膿、白血球顯著升高）。",
+      "key_point": "白血球沾黏分子缺乏症 (LAD) 的經典臨床特徵為臍帶脫落延遲、反覆感染但病灶無化膿、以及外周血中性球顯著升高。",
+      "flashcard_front": "為何白血球沾黏分子缺乏症 (LAD) 患者會出現「臍帶遲掉」、「無膿反應」與「血中白血球極高」？",
+      "flashcard_back": "因整合素 (integrin/CD18) 缺陷，導致中性球無法黏附血管內皮並游出血管。白血球滯留在血管內造成血中計數極高，且組織處因缺乏白血球浸潤而無法形成膿液、引發臍帶脫落延遲。",
+      "flashcard_summary": "白血球沾黏分子缺乏症 (LAD) -> CD18/integrin 缺陷，表現為臍帶脫落延遲、無膿感染、白血球顯著升高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於氣喘（asthma）治療的「錯誤」敘述。標準答案為 D。吸入型類固醇（ICS）是目前公認最有效且首選的氣喘長期控制藥物，而非白三烯素調節劑。\n\n【選項詳解】\n- A. 正確敘述（不選）。對於持續型氣喘（persistent asthma）兒童，吸入型類固醇（inhaled corticosteroids, ICS）能直接作用於氣道以抑制慢性發炎反應，是各指引強烈建議的「第一線初始控制藥物」。\n- B. 正確敘述（不選）。緩釋型茶鹼（slow-release theophylline）具有支氣管舒張與微弱的抗發炎作用，在階梯治療中可作為氣喘控制的替代或輔助用藥，但因安全窗口窄，臨床使用需注意監測血中濃度。\n- C. 正確敘述（不選）。氣喘治療採階梯式管理，若患者在使用現有藥物下控制良好且肺功能穩定維持達 3 個月以上，為減少長期用藥副作用，可考慮降階（step down）治療。\n- D. 錯誤敘述（本題正答）。目前最有效且首選的氣喘控制（保養）藥物是「吸入型類固醇（ICS）」。白三烯素調節劑（leukotriene-modifying agent，如 montelukast）雖可單獨做為輕度持續型氣喘的替代藥物或與 ICS 合併使用，但其單獨控制氣喘發炎的效果不及吸入型類固醇。\n\n【核心考點】\n氣喘長期控制藥物（controllers）的臨床分級定位。明確吸入型類固醇（ICS）作為首選且最有效控制藥物的地位，並掌握階梯治療的降階原則（控制良好 3 個月以上）。",
+      "key_point": "吸入型類固醇 (ICS) 是氣喘長期控制的首選且最有效的抗發炎藥物。氣喘控制良好達 3 個月以上可考慮降階治療。",
+      "flashcard_front": "在兒童持續型氣喘的長期管理中，首選的控制型（controller）藥物是什麼？",
+      "flashcard_back": "首選為吸入型類固醇 (inhaled corticosteroids, ICS)；白三烯素調節劑與緩釋型茶鹼為輔助或替代藥物。若控制良好持續 3 個月以上可降階治療。",
+      "flashcard_summary": "氣喘長期控制 -> 首選吸入型類固醇 (ICS)，控制良好 3 個月以上可降階治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於過敏性紫斑症（Henoch-Schönlein purpura, HSP，又稱 IgA 血管炎）的「錯誤」敘述。標準答案為 B。HSP 屬於「非血小板減少性紫斑（non-thrombocytopenic purpura）」，其血小板計數在抽血檢查中是「正常」的。\n\n【選項詳解】\n- A. 正確敘述（不選）。HSP 好發於 3 至 10 歲之間的兒童，且常在呼吸道病毒或細菌感染後發病，因此在寒冷潮濕的冬季和春季最為常見。\n- B. 錯誤敘述（本題正答）。HSP 的發病機制是 IgA 免疫複合物沉積在小血管壁引起的無菌性血管炎。雖然其皮膚紫斑主要對稱分布於下肢及臀部（且為 palpable purpura），但其病因與血小板減少無關，抽血檢查血小板數量通常「完全正常」。\n- C. 正確敘述（不選）。HSP 是一種自限性疾病，臨床多採支持性治療（如止痛、維持水分與電解質平衡）。大多數患者預後良好，病程會在 4 週內自行緩解，少數會反覆發作或併發腎臟受損。\n- D. 正確敘述（不選）。當 HSP患者出現嚴重的腸胃道侵犯（如劇烈腹痛、消化道出血或腸套疊）時，及早給予全身性類固醇（如 prednisolone）可以有效減輕局部組織水腫、緩解腹痛症狀。\n\n【核心考點】\n過敏性紫斑症（HSP）的免疫病理機制與臨床表現。必須牢記其為「非血小板減少性紫斑」以與 ITP 鑑別，並熟悉支持療法的臨床定位與類固醇之使用指引（用於嚴重腸胃侵犯）。",
+      "key_point": "過敏性紫斑症 (HSP) 是一種 IgA 介導的血管炎，其皮膚紫斑為觸摸得到的非血小板減少性紫斑 (血小板數量正常)。",
+      "flashcard_front": "過敏性紫斑症 (HSP) 的臨床診斷中，血小板計數與皮膚紫斑有何特點？",
+      "flashcard_back": "HSP 為「非血小板減少性紫斑」，患者的血小板數量正常。紫斑主要分佈於下肢及臀部，呈對稱性且可觸摸得到 (palpable purpura)。",
+      "flashcard_summary": "過敏性紫斑症 (HSP) -> IgA 血管炎，血小板數量正常，表現為下肢可觸摸紫斑，嚴重腸胃症狀可用類固醇。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題問的是在一歲以內（嬰兒期）發生率最高的兒童惡性腫瘤。神經母細胞瘤（Neuroblastoma）起源於胚胎神經脊細胞，是嬰兒期最常見的惡性實體腫瘤，有高達 36% 至 40% 的病例在一歲前確診，其好發高峰年齡明顯小於其他選項。\n\n【選項詳解】\n- A. 錯誤。急性淋巴性白血病（Acute lymphoblastic leukemia, ALL）是兒童期最常見的惡性腫瘤，但其發病高峰主要集中在 2 至 5 歲之間，在一歲以內的嬰兒中發病率相對較低。\n- B. 錯誤。兒童腦瘤（Brain tumor）是兒童第二常見的癌症，其好發高峰期主要在 5 至 10 歲的學齡期兒童，一歲以內的發病率並非最高。\n- C. 錯誤。兒童骨癌（Bone tumor，如骨肉瘤 osteosarcoma）的發生與骨骼的快速生長發育密切相關，發病高峰主要集中在 10 至 20 歲的青少年期，在嬰兒期極罕見。\n- D. 正確。神經母細胞瘤（Neuroblastoma）起源於胚胎神經脊細胞，常發生於腎上腺髓質或交感神經鏈，是嬰兒期（<1歲）最常見的惡性實體腫瘤，中位診斷年齡約為 17 至 18 個月。\n\n【核心考點】\n常見兒童惡性腫瘤（白血病、腦瘤、骨癌、神經母細胞瘤）的發病年齡高峰分布與流行病學特徵鑑別。",
+      "key_point": "神經母細胞瘤 (Neuroblastoma) 是嬰兒期 (< 1 歲) 最常見的惡性實體腫瘤，而 ALL 的高峰在 2-5 歲，腦瘤在 5-10 歲，骨癌在青少年期。",
+      "flashcard_front": "請列舉神經母細胞瘤、急性淋巴性白血病 (ALL)、腦瘤、骨癌等常見兒童腫瘤的好發年齡高峰。",
+      "flashcard_back": "1. 神經母細胞瘤：一歲以內 (嬰兒期) 最常見。 2. ALL：2 至 5 歲。 3. 腦瘤：5 至 10 歲。 4. 骨癌：10 至 20 歲 (青少年期)。",
+      "flashcard_summary": "兒童腫瘤好發年齡 -> 神經母細胞瘤好發於一歲以內，ALL 於 2-5 歲，腦瘤於 5-10 歲，骨癌於青少年期。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出關於重度乙型地中海貧血（β-thalassemia major，舊稱海洋性貧血）「最不正確」的敘述。標準答案為 B。為了抑制無效造血並預防骨骼變形，重度患者的高輸血療法要求將輸血前血色素維持在 9.5 至 10.5 g/dL（而非 7 g/dL）。\n\n【選項詳解】\n- A. 正確敘述（不選）。出生 6 個月後，體內胎兒血紅素（HbF）的γ鏈合成轉為正常β鏈的生理替代。重度乙型地中海貧血患者因β基因突變無法有效合成β珠蛋白鏈，此時貧血會迅速惡化並需要終身規律輸血。\n- B. 錯誤敘述（本題正答）。若輸血前血色素僅維持在 7 g/dL，過低的血紅素會強烈刺激體內促紅血球生成素（EPO）的分泌，引發骨髓極度增生，進而導致面部骨骼畸形（庫利氏面容）及嚴重肝脾腫大。臨床上高輸血療法（hypertransfusion）的目標是將輸血前血色素維持在 9.5-10.5 g/dL，以抑制無效造血並支持兒童正常生長，而輸血造成的鐵沉積則依靠排鐵劑（chelation therapy）解決。\n- C. 正確敘述（不選）。重度乙型地中海貧血又被稱為庫利氏貧血（Cooley's anemia），得名於 1925 年首次發現此病特徵的 Thomas Cooley 醫師。\n- D. 正確敘述（不選）。乙型地中海貧血是由於第 11 號染色體上的 HBB 基因突變引起，遺傳模式為常染色體隱性遺傳（Autosomal recessive），子女有 25% 的機率自攜帶基因的父母雙方遺傳此病。\n\n【核心考點】\n重度乙型地中海貧血的發病機制（β鏈缺失、無效造血）與臨床高輸血療法原則。牢記輸血前 Hb 應維持在 9.5-10.5 g/dL 以抑制 EPO 代償及預防骨骼變形，並了解長期輸血需搭配排鐵治療。",
+      "key_point": "重度乙型地中海貧血的高輸血治療應將輸血前血色素維持在 9.5-10.5 g/dL，以有效抑制骨髓無效造血與防止骨骼畸形。",
+      "flashcard_front": "為何重度乙型地中海貧血患者的輸血前血色素目標不宜只控制在 7 g/dL？",
+      "flashcard_back": "若血色素過低 (如 7 g/dL)，會刺激體內分泌過多 EPO，導致骨髓過度代償性增生，引起面部骨骼變形 (庫利氏面容) 與肝脾腫大。目標應維持在 9.5-10.5 g/dL 以抑制無效造血。",
+      "flashcard_summary": "重度乙型地中海貧血 -> 輸血前 Hb 目標應維持 9.5-10.5 g/dL 以抑制無效造血、預防骨骼變形。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n本題為否定題，要求選出「最不支持」感染相關噬血症候群（Infection-associated hemophagocytic syndrome，即 HLH）診斷的實驗室檢查項目。標準答案為 D。HLH 的診斷標準包含外周血球減少（cytopenias），故「血小板增多（thrombocytosis）」與此診斷完全相左。\n\n【選項詳解】\n- A. 支持診斷（不選）。低纖維蛋白原血症（Hypofibrinogenemia，通常指纖維蛋白原 < 1.5 g/L）是 HLH 的診斷指標之一。這是因為過度活化的巨噬細胞會大量分泌纖溶酶原活化因子，並消耗纖維蛋白原，導致其濃度顯著下降。\n- B. 支持診斷（不選）。高三酸甘油酯血症（Hypertriglyceridemia，通常指空腹三酸甘油酯 ≧ 265 mg/dL）也是 HLH 的診斷指標之一。活化的組織細胞釋放大量 TNF-α，進而抑制脂蛋白脂酶（lipoprotein lipase）活性，阻礙了三酸甘油酯的清除。\n- C. 支持診斷（不選）。極高鐵蛋白血症（Hyperferritinemia，診斷標準為鐵蛋白 ≧ 500 μg/L，且在急性期常高於 10,000 μg/L）是 HLH 極具特異性且重要的診斷標準，反映了體內網狀內皮系統的過度活化。\n- D. 不支持診斷（本題正答）。HLH 的基本病理生理特徵是骨髓與淋巴組織中活化的巨噬細胞吞噬自身血球，且大量炎性細胞因子抑制骨髓造血，因此外周血呈現「血球減少（cytopenia，常波及兩系或三系）」，表現為貧血、中性球低下或血小板低下（thrombocytopenia），故血小板增多（thrombocytosis）不支持此診斷。\n\n【核心考點】\n噬血症候群（HLH-2004）的診斷標準。掌握包括發燒、脾腫大、血球減少（至少兩系受累）、高三酸甘油酯/低纖維蛋白原、骨髓或淋巴結見噬血現象、NK 細胞活性低下、高鐵蛋白及高可溶性 CD25 等關鍵檢驗指標。",
+      "key_point": "噬血症候群 (HLH) 的特徵為血球減少 (cytopenia)，實驗室指標包含高鐵蛋白、高三酸甘油酯與低纖維蛋白原血症，而非血小板增多。",
+      "flashcard_front": "噬血球性淋巴組織細胞增生症 (HLH) 的典型實驗室診斷標準（三多二少）有哪些？",
+      "flashcard_back": "多：高鐵蛋白 (>500)、高三酸甘油酯 (≧265)、可溶性 CD25 升高。少：血球減少（貧血/白血球低/血小板低）、低纖維蛋白原 (<1.5)。血小板增多 (thrombocytosis) 最不支持診斷。",
+      "flashcard_summary": "噬血症候群 (HLH) -> 診斷特徵包含血球減少、高鐵蛋白、高三酸甘油酯、低纖維蛋白原。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n反向差異性發紺（Reverse differential cyanosis）是指「上肢血氧飽和度低於下肢」。此種罕見生理表現最典型見於完全大血管轉位合併開放性動脈導管（TGA with PDA）伴隨肺高壓或主動脈縮窄之患者，其血流動力學特徵與大血管的解剖學對調位置密切相關，故選 D。\n\n【選項詳解】\n- A. 錯誤。主動脈弓截斷（Interruption of aortic arch）若合併 PDA，升主動脈（供應上肢）含有來自左心室的富氧血，而降主動脈（供應下肢）則主要接受來自右心室經 PDA 注入的缺氧血，這會導致「下肢血氧飽和度低於上肢」的傳統「差異性發紺（differential cyanosis）」，而非反向。\n- B. 錯誤。開放性動脈導管（PDA）合併嚴重肺高壓（艾森門格症候群，Eisenmenger syndrome）時，肺動脈壓力超過主動脈壓引起右向左分流。缺氧的肺動脈血經 PDA 流入降主動脈，導致下肢缺氧發紺，而上肢（由導管近端的主動脈分支供應）血氧仍正常，此為傳統的「差異性發紺」。\n- C. 錯誤。心室中隔缺損（VSD）一般為左向右分流，若發展至晚期 Eisenmenger 症候群，會因為右向左分流導致全身均勻發紺（上、下肢血氧皆低），不會出現上肢血氧反而低於下肢的反向差異性發紺。\n- D. 正確。在完全大血管轉位（TGA）中，主動脈接右心室，肺動脈接左心室。此時體循環缺氧血流入右心室後，直接被泵入主動脈，並通過頭臂幹等分支供應上肢（上肢缺氧）；而左心室的富氧血經肺動脈通過 PDA 注入降主動脈供應下肢（下肢血氧較高），從而產生上肢血氧低於下肢的「反向差異性發紺」。\n\n【核心考點】\n差異性發紺（下肢發紺，見於 PDA 伴右向左分流）與反向差異性發紺（上肢發紺，見於 TGA + PDA 伴右向左分流）之血流動力學與大血管解剖構造異常鑑別診斷。",
+      "key_point": "反向差異性發紺 (Reverse differential cyanosis) 表現為上肢血氧低於下肢，最常見於完全大血管轉位 (TGA) 合併 PDA 與肺高壓。",
+      "flashcard_front": "「差異性發紺」與「反向差異性發紺」的定義與常見疾病為何？",
+      "flashcard_back": "1. 差異性發紺：下肢血氧低於上肢。見於 PDA 伴肺高壓（Eisenmenger）。 2. 反向差異性發紺：上肢血氧低於下肢。見於完全大血管轉位 (TGA) 合併 PDA 伴肺高壓。",
+      "flashcard_summary": "反向差異性發紺 -> 上肢血氧低於下肢，最典型見於完全大血管轉位 (TGA) 合併 PDA 與肺高壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n本題為否定/例外性問題，問的是何種兒童心臟疾病最不會出現左心室擴大。心房中膈缺損（ASD）在產生左向右分流時，血液主要流向右心系統，導致右心房及右心室容量超負荷與右心室擴大，極少引起左心室擴大，故選 C。\n\n【選項詳解】\n- A. 錯誤。心肌炎（Myocarditis）會導致心肌細胞廣泛性發炎、壞死及收縮力低下，在急性或慢性期常因心臟收縮功能衰竭而代償性引起左心室擴大。\n- B. 錯誤。心室中膈缺損（VSD）分流的血液在心室收縮期由左至右流動，經肺循環與肺靜脈回流，會造成左心房與左心室容量超負荷（volume overload），進而導致左心室擴大。\n- C. 正確。心房中膈缺損（ASD）的左向右分流主要使血液流入右心房、右心室與肺循環，導致右心系統容量超負荷而引起右心室擴大；由於流經左心房與左心室的血量並未增加，因此最不會引起左心室擴大。\n- D. 錯誤。擴張型心肌病變（Dilated cardiomyopathy, DCM）的核心病理特徵為心室收縮功能顯著受損，從而代償性地引起左心室（甚至雙心室）進行性擴大。\n\n【核心考點】\n先天性心臟病與心肌病變的血流動力學特徵。ASD 引起右心超負荷（右心室擴大），VSD 則引起左心超負荷（左心室擴大），心肌炎與 DCM 則直接導致左心室擴大。",
+      "key_point": "心房中膈缺損 (ASD) 引起右心系統容量超負荷（右心房與右心室擴大），而心室中膈缺損 (VSD) 則會引起左心房與左心室容量超負荷及擴大。",
+      "flashcard_front": "為何心房中膈缺損 (ASD) 最不會引起左心室擴大，而心室中膈缺損 (VSD) 會？",
+      "flashcard_back": "ASD 的左向右分流直接流向右心房及右心室，導致右心室擴大；而 VSD 的分流血液經肺循環回流至左心房與左心室，造成左心室容量超負荷而擴大。",
+      "flashcard_summary": "左心室擴大鑑別 -> ASD 僅導致右心容量超負荷（right-side volume overload）；VSD、心肌炎與 DCM 皆可造成左心室擴大。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:28:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n本題問的是何種細菌「較少」造成兒童感染性心內膜炎（Infective endocarditis, IE）。兒童 IE 最常見的致病菌為草綠色鏈球菌（如 S. sanguinis，占亞急性 IE 大多數）及金黃色葡萄球菌（S. aureus，占急性 IE 首位）。肺炎鏈球菌（Streptococcus pneumoniae）雖然毒力強悍，但在兒童 IE 中卻極為罕見（<1%），故選 D。\n\n【選項詳解】\n- A. 錯誤。D群鏈球菌/腸球菌（Group D streptococcus / enterococcus，如 Enterococcus faecalis）是引起兒童及成人感染性心內膜炎的常見菌種之一，通常與泌尿道、腸胃道操作或免疫低下狀態相關。\n- B. 錯誤。血鏈球菌（Streptococcus sanguinis）屬於口腔正常菌叢的草綠色鏈球菌，當兒童進行牙科手術或口腔黏膜破損時易進入血流，並黏附於已有結構異常的心臟瓣膜上，是兒童亞急性 IE 「最常見」的致病菌。\n- C. 錯誤。金黃色葡萄球菌（Staphylococcus aureus）具有強烈的破壞性與毒力，能破壞正常的心臟瓣膜，是兒童急性 IE 最主要的致病菌，也是人工瓣膜或置入性心臟裝置相關 IE 的首要病原。\n- D. 正確。肺炎鏈球菌（Streptococcus pneumoniae）雖然是兒童常見的呼吸道與侵襲性感染致病菌，但在兒童 IE 的致病原中所佔比例極低（通常小於 1%），是所有選項中「最少」造成心內膜炎的細菌。\n\n【核心考點】\n兒童感染性心內膜炎（IE）的病原學特徵。熟記首要致病菌為草綠色鏈球菌與金黃色葡萄球菌，而肺炎鏈球菌雖然是兒童常見菌，但引起心內膜炎極為罕見。",
+      "key_point": "兒童感染性心內膜炎 (IE) 的最常見致病原為草綠色鏈球菌與金黃色葡萄球菌，而肺炎鏈球菌 (S. pneumoniae) 引起心內膜炎極為罕見。",
+      "flashcard_front": "兒童感染性心內膜炎 (IE) 常見與罕見的致病菌分別有哪些？",
+      "flashcard_back": "常見：草綠色鏈球菌（如 S. sanguinis，亞急性首位）、金黃色葡萄球菌（急性或正常瓣膜首位）、腸球菌。罕見：肺炎鏈球菌 (Streptococcus pneumoniae，通常 < 1%)。",
+      "flashcard_summary": "兒童感染性心內膜炎 (IE) 致病菌 -> 常見為草綠色鏈球菌、金黃色葡萄球菌；肺炎鏈球菌極罕見 (<1%)。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:25:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

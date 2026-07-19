@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n第 1 型糖尿病因胰島 beta cell 破壞而絕對胰島素缺乏，必須依賴胰島素預防高血糖與酮酸血症。\n\n【選項詳解】\n- A. lispro 是速效胰島素，不是中長效；detemir、glargine 才是基礎胰島素類。\n- B. 短效或速效胰島素主要處理餐前或校正需求，不是每天 basal insulin 的主要來源。\n- C. protamine 會延緩吸收、延長作用，例如 NPH 或預混製劑中的中效成分，不是加速。\n- D. 第 1 型糖尿病需胰島素治療，否則容易發生 DKA。\n\n【核心考點】\nType 1 DM 是絕對胰島素缺乏，需胰島素預防 DKA。",
+      "key_point": "Lispro 是速效；glargine/detemir 是長效。",
+      "flashcard_front": "Insulin preparations",
+      "flashcard_back": "Protamine 延緩胰島素吸收；第 1 型糖尿病必須用胰島素。",
+      "flashcard_summary": "Insulin preparations -> Protamine 延緩胰島素吸收；第 1 型糖尿病必須用胰島素。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n糖尿病是大血管疾病高風險狀態，血脂治療門檻與風險分層通常比一般族群更積極，不能說膽固醇治療準則與無糖尿病者一樣。\n\n【選項詳解】\n- A. 糖尿病使心血管疾病風險約增加 2-4 倍，敘述正確。\n- B. 同時控制血糖、血壓、血脂可降低大血管併發症風險。\n- C. 糖尿病病人的 statin 適應症與 LDL 目標常依高風險處理，不與無糖尿病者完全一樣。\n- D. statin 已證實能降低糖尿病病人心血管事件；aspirin 則依初級或次級預防風險權衡。\n\n【核心考點】\n糖尿病血脂治療採較高心血管風險策略，不能等同一般無糖尿病族群。",
+      "key_point": "Diabetes dyslipidemia management is more aggressive than general population。",
+      "flashcard_front": "Diabetes macrovascular prevention",
+      "flashcard_back": "糖尿病預防大血管疾病要控制血糖、血壓與血脂。",
+      "flashcard_summary": "Diabetes macrovascular prevention -> 糖尿病預防大血管疾病要控制血糖、血壓與血脂。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n我國代謝症候群標準包含腰圍、血壓、空腹血糖、三酸甘油脂、HDL-C。女性腰圍大於等於或大於 80 公分是腹部肥胖切點，最符合選項。\n\n【選項詳解】\n- A. 代謝症候群使用腰圍，不是男女 BMI 都超過 24 作為五項標準之一。\n- B. LDL-C 不是我國代謝症候群五項判定標準。\n- C. HDL-C 切點男女不同，男性 <40、女性 <50 mg/dL；不是男女都 <50。\n- D. 女性腰圍大於 80 公分符合腹部肥胖標準。\n\n【核心考點】\n代謝症候群看腰圍、血壓、空腹血糖、TG、HDL；女性腰圍切點 80 cm。",
+      "key_point": "台灣代謝症候群女性腰圍切點為 80 cm。",
+      "flashcard_front": "Metabolic syndrome criteria Taiwan",
+      "flashcard_back": "LDL 與 BMI 不是我國代謝症候群五項判定標準。",
+      "flashcard_summary": "Metabolic syndrome criteria Taiwan -> LDL 與 BMI 不是我國代謝症候群五項判定標準。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n年輕、BMI 正常、高血壓合併低血鉀，要先懷疑原發性醛固酮增多症；篩檢應測 aldosterone 與 renin，計算 aldosterone-renin ratio。\n\n【選項詳解】\n- A. aldosterone 高且 renin 低是原發性醛固酮增多症線索，是最合適初步檢查。\n- B. ACTH/cortisol 用於 Cushing syndrome 評估，但題幹低血鉀加正常外觀更先考 aldosteronism。\n- C. VMA/catecholamines 用於嗜鉻細胞瘤，通常有陣發高血壓、心悸、頭痛、冒汗。\n- D. fT4/TSH 可評估甲狀腺造成心跳或血壓問題，但不能解釋典型低血鉀高血壓。\n\n【核心考點】\n高血壓合併低血鉀，先篩檢 primary aldosteronism：aldosterone-renin ratio。",
+      "key_point": "Hypertension + hypokalemia -> aldosterone and renin。",
+      "flashcard_front": "Primary aldosteronism screening",
+      "flashcard_back": "年輕高血壓低血鉀要測 ARR。",
+      "flashcard_summary": "Primary aldosteronism screening -> 年輕高血壓低血鉀要測 ARR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n甲狀腺功能亢進常用治療包括抗甲狀腺藥物、放射性碘與手術；立體定位放射線治療不是常規治療方式。\n\n【選項詳解】\n- A. methimazole、propylthiouracil 等口服抗甲狀腺藥物是常用治療。\n- B. 甲狀腺切除可用於大型甲狀腺腫、懷疑癌症、藥物不適用等情境。\n- C. 立體定位放射線治療用於許多腫瘤或腦部病灶，不是甲亢標準治療。\n- D. 放射性碘治療是甲亢常用根治選項之一。\n\n【核心考點】\nHyperthyroidism 治療三大類：抗甲狀腺藥、radioiodine、手術。",
+      "key_point": "立體定位放射線治療不是甲亢常用治療。",
+      "flashcard_front": "Hyperthyroidism treatment",
+      "flashcard_back": "甲亢常用治療不包含 stereotactic radiotherapy。",
+      "flashcard_summary": "Hyperthyroidism treatment -> 甲亢常用治療不包含 stereotactic radiotherapy。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n20 歲男性第二性徵不全、睪丸小而軟，需先確認性腺功能低下型態。第一步應抽 FSH、LH、testosterone，分辨 primary 與 central hypogonadism。\n\n【選項詳解】\n- A. 睪丸超音波可看結構，但無法先分辨軸線問題，不是下一步最適當。\n- B. 未先測 testosterone 與 gonadotropins 就直接補充男性荷爾蒙，可能掩蓋診斷。\n- C. 腦下垂體/下視丘 MRI 適用於懷疑 central hypogonadism，但需先由 FSH/LH 結果支持。\n- D. FSH、LH、testosterone 可區分原發性睪丸衰竭與中樞性低性腺素，是最合適第一步。\n\n【核心考點】\n男性性腺功能低下先測 testosterone、FSH、LH，再決定影像或治療。",
+      "key_point": "Hypogonadism workup starts with FSH/LH/testosterone。",
+      "flashcard_front": "Male hypogonadism evaluation",
+      "flashcard_back": "先用 FSH/LH 分 primary vs secondary hypogonadism。",
+      "flashcard_summary": "Male hypogonadism evaluation -> 先用 FSH/LH 分 primary vs secondary hypogonadism。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n鉤端螺旋體病常由受感染動物尿液污染的水或土壤傳播。初期常有發燒、頭痛、肌肉痠痛，尤其小腿肌痛；嚴重者可黃疸、腎衰竭與出血。\n\n【選項詳解】\n- A. 重要傳播途徑是動物尿液污染環境，不是蚊子叮咬。\n- B. 發燒、頭痛、肌肉酸痛是最初常見症狀，敘述正確。\n- C. Weil disease 可有明顯黃疸，膽紅素可升高；說膽紅素正常或些微升高不典型。\n- D. 暗視野顯微鏡敏感度與特異度有限；診斷常用血清學 MAT 或 PCR，非最準確單一方法。\n\n【核心考點】\nLeptospirosis 早期發燒、頭痛、肌痛；傳播來自動物尿液污染水土。",
+      "key_point": "Leptospirosis 初期症狀：fever、headache、myalgia。",
+      "flashcard_front": "Leptospirosis",
+      "flashcard_back": "鉤端螺旋體不是蚊媒；嚴重時可黃疸與腎衰竭。",
+      "flashcard_summary": "Leptospirosis -> 鉤端螺旋體不是蚊媒；嚴重時可黃疸與腎衰竭。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n化療後 neutropenic fever 需立即給抗綠膿桿菌的廣效 beta-lactam 單方治療；cefepime 是常用選項。\n\n【選項詳解】\n- A. ertapenem 沒有 Pseudomonas 活性，不適合作為高風險嗜中性球低下發燒單方經驗治療。\n- B. cefepime 覆蓋 Pseudomonas，常用於 febrile neutropenia 的單方經驗治療。\n- C. tigecycline 血中濃度與 Pseudomonas 覆蓋不足，不適合作為此情境單方首選。\n- D. daptomycin 只涵蓋革蘭陽性菌，且不能治療肺炎；不適合單方處理 neutropenic fever。\n\n【核心考點】\nFebrile neutropenia 經驗治療需 anti-pseudomonal beta-lactam，如 cefepime。",
+      "key_point": "Neutropenic fever monotherapy：cefepime。",
+      "flashcard_front": "Febrile neutropenia antibiotics",
+      "flashcard_back": "Ertapenem 不抗 Pseudomonas，不能當高風險單方首選。",
+      "flashcard_summary": "Febrile neutropenia antibiotics -> Ertapenem 不抗 Pseudomonas，不能當高風險單方首選。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n孕婦疑似流感屬高風險族群，若症狀符合應儘早使用 oseltamivir，不因懷孕而避免抗病毒藥。\n\n【選項詳解】\n- A. 詢問旅遊史與流感接觸史有助於感染風險與群聚判斷。\n- B. 醫療工作者群聚症狀需通知感染管制並依規定通報，避免院內傳播。\n- C. 輕症可居家休養與自我健康管理，但孕婦仍須評估抗病毒治療。\n- D. 懷孕是流感併發症高風險，oseltamivir 可使用；說不建議任何抗病毒治療是不恰當。\n\n【核心考點】\n孕婦疑似流感應儘早給 oseltamivir；懷孕不是抗病毒禁忌。",
+      "key_point": "Pregnancy influenza：use oseltamivir early。",
+      "flashcard_front": "Influenza in pregnancy",
+      "flashcard_back": "孕婦流感屬高風險，不應因懷孕拒用抗病毒藥。",
+      "flashcard_summary": "Influenza in pregnancy -> 孕婦流感屬高風險，不應因懷孕拒用抗病毒藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n糖尿病人右眼視力模糊、鼻腔黑色分泌物提示侵襲性鼻竇眼眶黴菌感染；官方選項以麴菌為答案，需依附圖病理型態判斷。若看到有隔、銳角分枝菌絲會偏 Aspergillus。\n\n【選項詳解】\n- A. Aspergillus 可造成侵襲性鼻竇炎，病理常見有隔菌絲與銳角分枝；官方答案採此判讀。\n- B. Candida 常見酵母與假菌絲，較少以黑色鼻分泌物、眼眶侵犯作為典型題幹。\n- C. 非結核分枝桿菌是抗酸菌感染，不會呈現黴菌菌絲病理。\n- D. 金黃色葡萄球菌是細菌，不符合題幹附圖病理黴菌感染方向。\n\n【核心考點】\n侵襲性鼻竇黴菌感染需依病理菌絲型態分 Aspergillus 與 Mucorales；本題官方為 Aspergillus。",
+      "key_point": "有隔銳角分枝菌絲支持 Aspergillus。",
+      "flashcard_front": "Invasive fungal sinusitis pathology",
+      "flashcard_back": "糖尿病黑色鼻分泌物是黴菌感染警訊，圖題要看菌絲型態。",
+      "flashcard_summary": "Invasive fungal sinusitis pathology -> 糖尿病黑色鼻分泌物是黴菌感染警訊，圖題要看菌絲型態。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "本題依附圖判斷；臨床文字也會讓人想到 mucormycosis，但選項未列 Mucorales，故保留官方 Aspergillus。"
+      ]
+    }
+  ]
+}

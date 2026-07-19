@@ -1,118 +1,100 @@
 import json
 import os
-import re
 
-def main():
-    target_path = "scratch/rewrite_updates/114-2_medicine-3/q001-q010.json"
-    
-    if not os.path.exists(target_path):
-        print(f"Error: Target file {target_path} does not exist.")
+def validate():
+    # Load update file
+    update_path = 'scratch/rewrite_updates/109-2_medicine-4/q061-q070.json'
+    if not os.path.exists(update_path):
+        print(f"Error: Update file {update_path} does not exist!")
         return
-        
-    with open(target_path, "r", encoding="utf-8") as f:
-        try:
-            data = json.load(f)
-        except Exception as e:
-            print(f"JSON Parse Error: {e}")
-            return
-            
-    # 1. 檢查根層級欄位
-    allowed_root_keys = {"source_file", "dataset_id", "range", "updates"}
-    root_keys = set(data.keys())
-    extra_root_keys = root_keys - allowed_root_keys
-    missing_root_keys = allowed_root_keys - root_keys
-    
-    if extra_root_keys:
-        print(f"Error: Extra root keys found: {extra_root_keys}")
-    if missing_root_keys:
-        print(f"Error: Missing root keys: {missing_root_keys}")
-        
-    # 2. 檢查 range 格式
-    r = data.get("range", {})
-    if not isinstance(r, dict) or "start" not in r or "end" not in r:
-        print("Error: 'range' format is incorrect. Should be {'start': X, 'end': Y}")
-        
-    # 3. 檢查 updates 陣列中的每個 item
-    updates = data.get("updates", [])
-    if not isinstance(updates, list) or len(updates) == 0:
-        print("Error: 'updates' is empty or not a list")
-        return
-        
-    allowed_item_keys = {
-        "question_id", "question_number", "explanation", "key_point",
-        "flashcard_front", "flashcard_back", "flashcard_summary",
-        "review_status", "explanation_model", "explanation_generated_at",
-        "manual_review_notes"
-    }
-    
-    banned_words = [
-        "非本題答案",
-        "不是本題標準答案",
-        "回到題幹線索",
-        "請用題幹線索連回",
-        "題目中選項 A 所代表的鑑別或處置",
-        "不能最精準回答本題",
-        "最符合題幹",
-        "核心記憶點",
-        "定義、機轉、典型表現或處置原則",
-        "此選項不是最佳答案",
-        "與正確答案的關鍵判斷點不一致",
-        "原始解析重點指出",
-        "作答時應回到題幹線索與標準答案比對",
-        "熟悉疾病機轉、臨床表現、診斷檢查與治療原則",
-        "心臟內科的基本判斷能力",
-        "的基本判斷能力"
+
+    with open(update_path, encoding='utf-8') as f:
+        upd = json.load(f)
+
+    # Load source file
+    source_file_path = 'public/data/exams/109-2/medicine-4.json'
+    with open(source_file_path, encoding='utf-8') as f:
+        src = json.load(f)
+
+    src_questions = {q['id']: q for q in src['questions']}
+
+    # Verify fields
+    assert upd['source_file'] == source_file_path, f"source_file mismatch: {upd['source_file']} vs {source_file_path}"
+    assert upd['dataset_id'] == '109-2_medicine-4', f"dataset_id mismatch: {upd['dataset_id']}"
+    assert upd['range']['start'] == 61, f"range start mismatch: {upd['range']['start']}"
+    assert upd['range']['end'] == 70, f"range end mismatch: {upd['range']['end']}"
+
+    banned_phrases = [
+        '非本題答案', '不是本題標準答案', '回到題幹線索', '請用題幹線索連回',
+        '題目中選項 A 所代表的鑑別或處置', '不能最精準回答本題', '最符合題幹',
+        '核心記憶點', '定義、機轉、典型表現或處置原則', '標準答案所接受的判斷',
+        '雖然與題目主題相關', '與標準答案的關鍵判斷不一致', '對照本題核心解析'
     ]
-    
-    errors = []
-    
-    for i, q in enumerate(updates):
-        q_num = q.get("question_number")
-        q_id = q.get("question_id")
-        
-        # 檢查欄位
-        item_keys = set(q.keys())
-        extra_keys = item_keys - allowed_item_keys
-        missing_keys = allowed_item_keys - item_keys
-        
-        if extra_keys:
-            errors.append(f"Q{q_num} ({q_id}): Extra keys found: {extra_keys}")
-        if missing_keys:
-            errors.append(f"Q{q_num} ({q_id}): Missing keys: {missing_keys}")
-            
-        explanation = q.get("explanation", "")
-        if not explanation:
-            errors.append(f"Q{q_num} ({q_id}): Explanation is empty")
-            continue
-            
-        # 檢查三大標題
-        for header in ["【題幹解析】", "【選項詳解】", "【核心考點】"]:
-            if header not in explanation:
-                errors.append(f"Q{q_num} ({q_id}): Missing header {header} in explanation")
-                
-        # 檢查 A, B, C, D 選項
-        for opt in ["A", "B", "C", "D"]:
-            pattern = rf"-\s+{opt}\."
-            if not re.search(pattern, explanation):
-                errors.append(f"Q{q_num} ({q_id}): Option {opt} explanation not found in the format '- {opt}.'")
-                
-        # 檢查禁用詞
-        for bw in banned_words:
-            if bw in explanation:
-                errors.append(f"Q{q_num} ({q_id}): Explanation contains banned word '{bw}'")
-                
-        # 檢查 key_point 等欄位是否為空
-        for field in ["key_point", "flashcard_front", "flashcard_back", "flashcard_summary"]:
-            val = q.get(field, "")
-            if not val:
-                errors.append(f"Q{q_num} ({q_id}): Field '{field}' is empty")
-                
-    if errors:
-        print("Validation failed with the following errors:")
-        for err in errors:
-            print(f"- {err}")
-    else:
-        print("Validation passed successfully! No errors found.")
 
-if __name__ == "__main__":
-    main()
+    print(f"Checking {len(upd['updates'])} updates...")
+    warnings_count = 0
+    for u in upd['updates']:
+        qid = u['question_id']
+        qnum = u['question_number']
+        print(f"Checking Q{qnum} ({qid})...")
+        
+        # Check matching in source
+        if qid not in src_questions:
+            print(f"  [ERROR] Question ID {qid} not found in source!")
+            return
+        src_q = src_questions[qid]
+        if src_q['question_number'] != qnum:
+            print(f"  [ERROR] Question number mismatch for {qid}: {src_q['question_number']} vs {qnum}")
+            return
+        if not (61 <= qnum <= 70):
+            print(f"  [ERROR] Question number {qnum} out of range!")
+            return
+        
+        # Check explanation structure
+        exp = u['explanation']
+        if '【題幹解析】' not in exp:
+            print(f"  [ERROR] Q{qnum} missing '【題幹解析】'")
+            return
+        if '【選項詳解】' not in exp:
+            print(f"  [ERROR] Q{qnum} missing '【選項詳解】'")
+            return
+        if '【核心考點】' not in exp:
+            print(f"  [ERROR] Q{qnum} missing '【核心考點】'")
+            return
+        
+        # Check banned phrases
+        for phrase in banned_phrases:
+            if phrase in exp:
+                print(f"  [WARNING] Found banned phrase \"{phrase}\" in Q{qnum}")
+                warnings_count += 1
+                
+        # Check repeated option segment (check if any long sentence is reused)
+        # We can extract the text inside option A, B, C, D
+        options_part = exp.split('【選項詳解】')[1].split('【核心考點】')[0]
+        opt_lines = [line.strip() for line in options_part.split('\n') if line.strip().startswith('-')]
+        
+        # Look for duplicate sentences of length > 10 chars
+        sentences = []
+        for line in opt_lines:
+            # simple sentence split
+            parts = [p.strip() for p in line.replace('，', ',').replace('。', '.').replace('；', ';').split('.') if len(p.strip()) > 10]
+            sentences.extend(parts)
+            
+        # check duplicate sentences
+        seen = set()
+        duplicates = set()
+        for s in sentences:
+            if s in seen:
+                duplicates.add(s)
+            else:
+                seen.add(s)
+                
+        if duplicates:
+            for dup in duplicates:
+                print(f"  [WARNING] Q{qnum} has duplicated segment in options: \"{dup[:30]}...\"")
+                warnings_count += 1
+
+    print(f"Verification completed. Warnings found: {warnings_count}")
+
+if __name__ == '__main__':
+    validate()

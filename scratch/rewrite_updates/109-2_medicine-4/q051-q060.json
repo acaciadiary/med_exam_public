@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-4.json",
+  "dataset_id": "109-2_medicine-4",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-4_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n輕度認知障礙（Mild Cognitive Impairment, MCI）與失智症（Dementia）都可能有認知功能領域（如記憶力、執行功能、語言 or 視覺空間能力）的受損。然而，兩者最核心的鑑別點在於「日常生活活動能力（Activities of Daily Living, ADL/IADL）」是否能維持獨立自理。MCI 患者的日常生活功能通常能基本維持獨立，而失智症患者的日常生活活動功能已受到顯著干擾，無法完全獨立自理。因此，日常生活活動能力的受損程度是臨床上區分兩者的最主要依據。\n\n【選項詳解】\n- A. 錯誤。執行功能（Executive function）是認知功能領域之一，不論是輕度認知障礙（MCI）還是失智症患者都可能出現執行功能異常（如計畫、組織或解決問題的能力下降），因此無法僅憑此功能的受損與否來區分兩者。\n- B. 錯誤。語言能力（Language skills）亦屬於認知功能範疇，其異常（如命名困難、失語症等）可同時見於輕度認知障礙（MCI）與早期失智症（如阿茲海默症、額顳葉失智症等）患者，不能作為區分兩者的決定性鑑別指標。\n- C. 錯誤。視覺空間能力（Visuospatial skills）為六大認知領域之一，此能力異常（如迷路、無法辨認熟悉的地標）在輕度認知障礙（MCI）與失智症患者中皆可能發生，故不具備區分兩者的專一性。\n- D. 正確。日常生活活動（Activities of daily living, ADL/IADL）是臨床鑑別的核心。根據 DSM-5 診斷標準，輕度神經認知障礙（即 MCI）患者的認知缺損不干擾其日常生活活動的獨立性（如理財、服藥、購物等）；而重度神經認知障礙（即失智症）患者的認知缺損則已干擾其日常生活獨立性，需要他人協助。\n\n【核心考點】\n輕度認知障礙（MCI）與失智症（Dementia）的診斷定義與鑑別重點，即在於日常生活活動能力（ADL/IADL）的受損與獨立性喪失與否。",
+      "key_point": "輕度認知障礙（MCI）與失智症（Dementia）最核心的臨床診斷鑑別點在於日常生活活動能力（ADL/IADL）是否受損且失去獨立自理能力（MCI 維持獨立，失智症則否）。",
+      "flashcard_front": "輕度認知障礙（MCI）與失智症（Dementia）在診斷上的最核心鑑別點為何？",
+      "flashcard_back": "日常生活活動能力（Activities of Daily Living, ADL/IADL）是否能獨立自理。MCI 患者的日常生活獨立性不受干擾；而失智症患者的認知功能受損已嚴重到干擾其日常獨立生活能力。",
+      "flashcard_summary": "輕度認知障礙與失智症的鑑別點 -> 認知缺損是否干擾日常生活活動（ADL）的獨立性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n抗癲癇藥物中，丙戊酸（Valproic acid）是公認最常引起藥物誘導性震顫（Drug-induced tremor）的藥物之一。其引起的震顫通常為雙側對稱性的姿態性震顫或動作性震顫，臨床表現與本態性顫抖（Essential tremor）高度相似，常需進行臨床鑑別診斷。\n\n【選項詳解】\n- A. 錯誤。Phenytoin（苯妥英）的常見神經毒性主要表現為共濟失調（Ataxia）、眼球震顫（Nystagmus）、口齒不清與意向性震顫（小腦性震顫），較少引起類似本態性顫抖的雙手姿態性或動作性震顫。\n- B. 錯誤。Phenobarbital（苯巴比妥）主要副作用為中樞神經抑制，引起鎮靜、嗜睡、認知變慢，戒斷時可能引起震顫，但其本身的藥物毒性並不以引起類似本態性顫抖的慢性動作性震顫為特徵。\n- C. 正確。Valproic acid（丙戊酸）有高達 25% 的患者在長期使用後會出現細微至中等幅度的雙手姿態性與動作性震顫，其頻率與表現與本態性顫抖（Essential tremor）非常相似，通常與藥物劑量相關，減少劑量或停藥可改善。\n- D. 錯誤。Carbamazepine（卡馬西平）的副作用主要為複視、頭暈、共濟失調與低血鈉（因 SIADH 引起），極少引起典型類似本態性顫抖的雙手震顫。\n\n【核心考點】\n抗癲癇藥物常見的特異性副作用，尤其是丙戊酸（Valproic acid）引致的藥物誘發性震顫（臨床上需與本態性顫抖做鑑別）。",
+      "key_point": "丙戊酸（Valproic acid）是常見會引發雙手姿態性及動作性震顫的抗癲癇藥物，其震顫特徵與本態性顫抖非常相似，多與劑量相關。",
+      "flashcard_front": "哪一種常用抗癲癇藥物（AED）最容易引起類似本態性顫抖（Essential tremor）的雙手姿態性/動作性震顫？",
+      "flashcard_back": "丙戊酸（Valproic acid, VPA）。其副作用常包括劑量相關的雙手震顫、體重增加、落髮以及高血氨症。",
+      "flashcard_summary": "丙戊酸副作用 -> 最常引起雙側姿態性/動作性震顫（需與本態性顫抖鑑別）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n患者出現膀胱功能失調（神經性膀胱），下肢感覺異常特別包含「臀部、大腿內側」（俗稱鞍部麻木 saddle anesthesia）以及「雙腳與腳跟的感覺喪失」，這是典型的「馬尾症候群（Cauda equina syndrome）」或「脊髓圓錐症候群（Conus medullaris syndrome）」臨床特徵。此病灶理應定位於腰薦椎水平或馬尾神經根（Cauda equina）。然而本題官方公布之正確答案為 A，後因題目選項與定位描述有明顯設計瑕疵，官方考選部已將此題判定為「一律給分（All credit）」。在臨床診斷上，標準答案應定位於馬尾（D）。\n\n【選項詳解】\n- A. 官方答案（一律給分）。頸椎第五節（C5）病變通常會引起四肢癱瘓、C5 以下感覺喪失及呼吸困難（因膈神經受累），而非僅表現為鞍區感覺喪失及單純下肢感覺/膀胱功能異常，此選項在醫學定位上是不合理的。\n- B. 錯誤（一律給分）。胸椎第四節（T4）病變會導致乳頭水平以下（T4 以下）的軀幹及雙下肢感覺喪失，並伴隨上運動神經元截癱，其感覺喪失界線為胸部，而非僅限於臀部、大腿內側及雙腳。\n- C. 錯誤（一律給分）。胸椎第十節（T10）病變會引起肚臍水平以下（T10 以下）的感覺喪失與下肢癱瘓，其感覺缺損範圍同樣遠大於鞍部及足部。\n- D. 醫學上最合理之診斷選項（一律給分）。馬尾（Cauda equina）病變會直接壓迫腰薦髓神經根，引起典型的馬尾症候群。表現包括：鞍部感覺喪失（Saddle anesthesia，即臀部、大腿內側、會陰部麻木）、下肢（雙腳及腳跟）感覺運動障礙，以及膀胱與直腸功能失調（尿失禁、頻尿、無法憋尿）。\n\n【核心考點】\n馬尾症候群（Cauda equina syndrome）的臨床定位與診斷特徵（鞍區感覺喪失、下肢感覺喪失及膀胱失調），以及脊髓節段與感覺水平的解剖對應關係（本題官方判定一律給分）。",
+      "key_point": "馬尾症候群的典型表現為鞍部感覺喪失（saddle anesthesia，即臀部和大腿內側麻木）、雙足感覺受損與膀胱/直腸功能失調，病灶定位在馬尾神經根（腰薦椎水平）。",
+      "flashcard_front": "臨床上出現鞍部感覺喪失（Saddle anesthesia）、雙下肢麻木無力及膀胱/直腸功能失調時，病灶應定位於何處？",
+      "flashcard_back": "馬尾（Cauda equina）或脊髓圓錐（Conus medullaris），通常位於腰薦椎節段。此為馬尾症候群的典型表現，屬神經外科急症。（本題 109-2-53 因官方答案誤設為 C5，後判定一律給分）",
+      "flashcard_summary": "馬尾症候群定位 -> 鞍部感覺喪失＋膀胱功能失調，病灶在腰薦椎/馬尾處（109-2-53 一律給分）。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": [
+        "官方答案為 A，但醫學定位上描述的是馬尾病變而非 C5 頸椎，本題考選部已判定一律給分。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-4_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n肌肉失養症（Muscular dystrophy）是一群遺傳性肌肉變性疾病。裘馨氏肌肉失養症（DMD）是最常見且最嚴重的類型，其臨床特徵之一即為小腿「假性肥大（Pseudohypertrophy）」，這是因為變性的肌纖維逐漸被脂肪與結締組織取代所致，故選項 A 正確。\n\n【選項詳解】\n- A. 正確。裘馨氏肌肉失養症（DMD）患者因 Dystrophin 蛋白缺乏，骨骼肌細胞膜脆弱受損，腓腸肌等處的肌纖維會逐漸壞死並被脂肪及纖維結締組織取代，臨床上外觀呈現肥大，但實際上肌力顯著減弱，稱為小腿假性肥大。\n- B. 錯誤。裘馨氏肌肉失養症（DMD）是由位於 X 染色體短臂（Xp21）上的 Dystrophin 基因突變所致，遺傳模式為「X 染色體聯鎖隱性遺傳（X-linked recessive）」，而非體染色體隱性遺傳。\n- C. 錯誤。貝克氏肌肉失養症（BMD）與 DMD 是由「同一個」致病基因（Dystrophin 基因）突變所引起（兩者互為同等位基因病變 allelic disorders）。不同點在於 DMD 是因框移突變（frameshift mutation）導致蛋白質完全無法合成，症狀較重；BMD 則是維持讀碼框的突變，能合成部分具功能但異常的蛋白質，故症狀較輕。\n- D. 錯誤。肌強直肌肉失養症（Myotonic dystrophy, DM）是一種多系統受累的體染色體顯性遺傳病，其特徵之一就是會顯著侵犯顏面肌肉，導致患者出現面無表情、眼瞼下垂、顳肌與咬肌萎縮（呈現「斧頭臉」hatchet face）以及構音障礙。\n\n【核心考點】\n裘馨氏與貝克氏肌肉失養症的共同致病基因（Dystrophin 基因）與遺傳模式（X 染色體聯鎖隱性），DMD 的典型症狀（小腿假性肥大），以及肌強直肌肉失養症的顏面肌受侵犯特徵。",
+      "key_point": "DMD/BMD 為 X 染色體聯鎖隱性遺傳，起因於 Dystrophin 基因突變；DMD 典型表現包含小腿假性肥大（肌纖維被脂肪與纖維組織取代）。",
+      "flashcard_front": "裘馨氏肌肉失養症（DMD）與貝克氏肌肉失養症（BMD）的共同遺傳特性與致病基因為何？",
+      "flashcard_back": "兩者皆為「X 染色體聯鎖隱性遺傳」，且致病基因皆為位於 Xp21 的「Dystrophin 基因」（為 allelic disorders）。DMD 蛋白完全缺失，臨床上常伴隨小腿假性肥大。",
+      "flashcard_summary": "肌肉失養症 -> DMD/BMD 皆為 X-linked 且源於 Dystrophin 基因突變；DMD 常見小腿假性肥大；肌強直型會侵犯顏面肌肉。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n恰克-馬利-杜斯氏症（Charcot-Marie-Tooth disease, CMT），又稱遺傳性運動感覺周邊神經病變（HMSN），是臨床上最常見的遺傳性周邊神建立變。其主要侵犯運動神經元，導致肢體遠端肌肉萎縮（如手部內在肌萎縮、小腿「倒香檳酒瓶」樣萎縮）以及骨骼畸形（如空凹足 pes cavus、錘狀趾、馬蹄步態），故選項 B 正確。\n\n【選項詳解】\n- A. 錯誤。CMT 具有高度的遺傳異質性，但臨床上最常見的類型（如 CMT1A，因 PMP22 基因重複突變引起）屬於「體染色體顯性遺傳（Autosomal dominant）」，而非體染色體隱性遺傳。\n- B. 正確。因長期遠端運動神經病變，足部內在肌無力萎傷會導致足底腱膜攣縮，形成典型的空凹足（Pes cavus）、爪狀趾，行走時呈現馬蹄步態（Steppage gait）；手部則會出現魚際肌、骨間肌等手內在肌肉（Intrinsic hand muscle）的萎縮。\n- C. 錯誤。CMT 主要是運動與感覺周邊神經病變，通常不影響自主神經系統。病患不會以自主神經功能障礙（如直立性低血壓、無汗、嚴重排尿障礙）為主要表現。\n- D. 錯誤。CMT 最早出現且最明顯的臨床症狀通常是下肢遠端的「肌肉無力與萎縮」（例如孩童時期表現為容易跌倒、跑步慢、足部畸形）。感覺缺失（如震動感、溫痛感下降）雖然存在，但通常較微弱，且出現的時間比肢體肌肉無力萎縮更晚。\n\n【核心考點】\nCharcot-Marie-Tooth (CMT) 症候群的臨床表現（手內在肌與下肢遠端肌肉萎縮、空凹足）、遺傳型態（顯性為主）與神經受損類型（以運動及感覺神經為主，不影響自主神經）。",
+      "key_point": "CMT 症候群（以體染色體顯性遺傳的 CMT1A 最常見）為周邊神經病變，表現為肢體遠端肌肉無力與萎縮（如手內在肌萎縮）、空凹足（pes cavus）及馬蹄步態，一般不波及自主神經。",
+      "flashcard_front": "Charcot-Marie-Tooth (CMT) 症候群最典型的臨床骨骼與肌肉萎縮特徵為何？",
+      "flashcard_back": "雙下肢遠端肌肉萎縮（呈倒香檳酒瓶狀 inverted champagne bottle）、手部內在肌肉萎縮，以及骨骼畸形如空凹足（Pes cavus）與馬蹄步態（Steppage gait）。",
+      "flashcard_summary": "CMT 症候群 -> 體染色體顯性遺傳為主之周邊神經病變，特徵為遠端運動無力、手內在肌萎縮與空凹足。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n庫賈氏症（Creutzfeldt-Jakob Disease, CJD）是由具傳染性的異常普里昂蛋白（PrPSc）所引起的傳播性海綿狀腦病。臨床特徵為快速進展性失智（Rapidly progressive dementia）、肌躍症（Myoclonus）、小腦共濟失調、錐體/錐體外系症狀（如關節僵硬、肌肉無力），故選項 B 正確。\n\n【選項詳解】\n- A. 錯誤。致病的異常普里昂蛋白（PrPSc）結構中含有大量的 β-折疊（β-sheet），對物理和化學因子具有極高的抵抗力。標準的煮沸、高壓滅菌、紫外線照射、甚至一般濃度的消毒劑均無法將其破壞，必須使用極端條件（如 134°C 高壓蒸氣滅菌至少 18 分鐘，或浸泡於高濃度氫氧化鈉 NaOH 溶液）才能使其失去活性。\n- B. 正確。CJD 典型病程常以小腦共濟失調（步態不穩）或認知功能障礙為起病症狀，隨後出現快速進展的失智症，並伴隨肌躍症（Myoclonus，常因突發聲音或光線誘發肌肉抽搐）、肢體僵硬及無力，最終進入無動性緘默（Akinetic mutism）。\n- C. 錯誤。正常人神經細胞表面表達的普里昂蛋白為「PrPC」（C 代表 Cellular），其二級結構主要由 α-螺旋（α-helix）組成，易被蛋白酶（Protease K）降解；致病性的異常普里昂蛋白才稱為「PrPSc」（Sc 代表 Scrapie，即羊搔癢症），主要為 β-折疊結構。\n- D. 錯誤。庫賈氏症雖然有一段很長的潛伏期（可達數年至數十年），但一旦症狀發作，其病程進展極為迅速。從臨床症狀出現到病患死亡，通常在「1 年內」（約 90% 的患者在一年內死亡），極少會超過 10 年，與典型遲滯病毒（Slow virus）感染的漫長病程不同。\n\n【核心考點】\n庫賈氏症（CJD）的致病機制（PrPC 變性為 PrPSc）、異常普里昂蛋白（PrPSc）的高耐受性物理與化學特徵，以及其發病後以快速進展性失智與肌躍症為特徵的極短病程。",
+      "key_point": "庫賈氏症由異常普里昂蛋白（PrPSc，主要為 β-折疊，抗煮沸且耐受蛋白酶）引起。發病後表現為快速進展性失智與肌躍症，通常於 1 年內死亡。",
+      "flashcard_front": "正常普里昂蛋白（PrPC）與庫賈氏症致病普里昂蛋白（PrPSc）在結構與物理特性上有何主要差異？",
+      "flashcard_back": "PrPC 主要為 α-螺旋，易被蛋白酶分解，無致病性；PrPSc 主要為 β-折疊，具高度物理與化學抗性（煮沸不失活，抗蛋白酶），會誘導 PrPC 變性堆積。發病後呈快速進展性失智，多於一年內死亡。",
+      "flashcard_summary": "庫賈氏症 -> PrPSc（β-sheet）致病，高溫煮沸不失活；臨床特點為快速失智、小腦共濟失調、肌躍症，發病後通常一年內死亡。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n脊髓硬膜外膿腫（Spinal epidural abscess, SEA）通常是化膿性感染（如金黃色葡萄球菌）所致，典型臨床症狀會隨病程進展：先有發燒、局限性背痛與局部脊椎敲擊痛，接著發展為神經根壓迫痛，若未緊急手術減壓，會迅速進展為肢體癱瘓與感覺喪失，故選項 C 正確。\n\n【選項詳解】\n- A. 錯誤。結核性腦膜炎（Tuberculous meningitis）的腦脊髓液（CSF）外觀通常是「清澈或呈毛玻璃狀（Clear to cobweb-like）」，而非化膿性細菌腦膜炎的「混濁狀」。此外，其細胞分類以「單核球/淋巴球（Lymphocytes/Monocytes）」為主，而非嗜中性白血球（PMNs）。\n- B. 錯誤。結核菌腦膜炎屬於「亞急性或慢性」腦膜炎，其病程進展緩慢。從結核菌進入中樞神經到出現發燒、頭痛、頸部僵硬等腦膜炎症狀，病程通常歷時「數週至數個月」，而非僅僅「幾個小時」（後者為急性細菌性腦膜炎的特徵）。\n- C. 正確。脊髓硬膜外膿腫的臨床表現常有四階段：(1) 局限性脊椎背痛與發燒、(2) 沿神經節段放射的神經根疼痛（Radicular pain）、(3) 運動神經元受損導致肢體無力、反射異常及感覺障礙、(4) 完全癱瘓。\n- D. 錯誤。脊髓硬膜外膿腫在體檢時，病灶處脊椎常會有「非常明顯的局部敲擊痛（Percussion tenderness）」，這是診斷的重要臨床線索。此外，若膿腫引發明顯的脊膜刺激症狀，患者亦可能出現 Kernig 徵象。\n\n【核心考點】\n脊髓硬膜外膿腫（SEA）的典型臨床四階段進展與脊椎局部敲擊痛體徵，以及結核性腦膜炎的腦脊髓液檢驗特徵（清亮、淋巴球為主）與慢性病程。",
+      "key_point": "脊髓硬膜外膿腫表現為發燒、局部背痛（伴脊椎敲擊痛）與神經根痛，隨後可能導致癱瘓；結核性腦膜炎的腦脊髓液呈清亮或毛玻璃狀，以淋巴球為主，為亞急性或慢性病程。",
+      "flashcard_front": "脊髓硬膜外膿腫（Spinal epidural abscess）的臨床進展與重要體徵漸變過程為何？",
+      "flashcard_back": "臨床進展：發燒與劇烈局限背痛 -> 放射性神經根痛 -> 肢體麻痺與括約肌失常。體檢時「病灶脊椎敲擊痛」是極具鑑別價值的體徵。",
+      "flashcard_summary": "脊髓硬膜外膿腫 -> 表現為發燒、背痛（伴敲擊痛）及放射性神經根痛，可致癱瘓。結核腦膜炎 CSF 為清澈且淋巴球為主。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n患者因慢性低血鈉（117 mEq/L）在 6 小時內被快速糾正至 137 mEq/L（上升 20 mEq/L，遠超安全限制）。慢性低血鈉時，腦細胞已適應低滲透壓環境；若補鈉過快，水分會被快速抽離腦細胞，引發滲透性脫髓鞘症候群（Osmotic demyelination syndrome, ODS），最常發生於橋腦，即橋腦中央髓鞘溶解症（CPM），故選項 B 正確。\n\n【選項詳解】\n- A. 錯誤。雖然嚴重低血鈉可能引起癲癇，但慢性低血鈉的糾正必須嚴格限制速度。一般建議 24 小時內血鈉上升幅度不可速度超過 8-10 mEq/L（前幾個小時限制在 1-2 mEq/L/hr 且總量受限），過快補充會導致致命的腦部脫髓鞘病變，並非越快越濃越好。\n- B. 正確。若慢性低血鈉補充過快，會導致水分急速移出細胞，造成橋腦神經髓鞘的滲透性破壞，臨床上稱為橋腦中央髓鞘溶解症（CPM）。\n- C. 錯誤。CPM 的神經學症狀（如假性延髓麻痺、四肢癱瘓、吞嚥困難及意識障礙）通常在血鈉過快糾正後的「數天內」（一般為 2 至 6 天）就開始出現，而非「2 週後」才產生。\n- D. 錯誤。雖然此病變最典型且最常發生在橋腦中央的白質，但它也可能發生在「橋腦以外」的構造（稱為 extrapontine myelinolysis, EPM），如基底核（Basal ganglia）、丘腦（Thalamus）、大腦白質等。\n\n【核心考點】\n慢性低血鈉的臨床糾正速率限制（24 小時內不可超過 8-10 mEq/L），以及補鈉過快導致的滲透性脫髓鞘症候群（ODS/CPM）好發部位（主要在橋腦，亦可見於橋腦外）、發病時間與臨床症狀。",
+      "key_point": "慢性低血鈉矯正過快（24小時內限制上升幅度 <8-10 mEq/L）易引發滲透性脫髓鞘症候群（ODS/CPM），通常在補鈉後 2-6 天內出現四肢癱瘓、吞嚥困難等神經學症狀。",
+      "flashcard_front": "慢性低血鈉矯正速度過快會引發何種嚴重神經學併發症？其安全補鈉速率為何？",
+      "flashcard_back": "會引發「滲透性脫髓鞘症候群」（ODS），又稱「橋腦中央髓鞘溶解症」（CPM），常於補鈉後 2-6 天出現四肢癱瘓、吞嚥困難。安全補鈉速率為：24 小時內血鈉上升不超過 8-10 mEq/L。",
+      "flashcard_summary": "補鈉過快併發症 -> 橋腦中央髓鞘溶解症（CPM），於補鈉後 2-6 天發病。慢性低血鈉限速 24 小時內上升 <8-10 mEq/L。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:30:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題為否定問法。思覺失調症（Schizophrenia）的男女終生盛行率大約相等（皆約為 1%）。女性盛行率約為男性兩倍通常是憂鬱症或焦慮症的流行病學特徵，故選項 C 的陳述是錯誤的，為本題應選之正確答案。\n\n【選項詳解】\n- A. 靜坐不能（Akathisia）是第一代及部分第二代抗精神病藥物常見的錐體外副作用（EPS），臨床上第一線常使用 β-受體阻斷劑（如 Propranolol）或苯二氮平類藥物（BZD）來改善坐立不安等症狀。此敘述正確，故不選。\n- B. 在使用抗精神病藥物治療的早期，若患者對藥物高度敏感且出現嚴重的急性錐體外症狀（EPS），臨床研究指出這通常是日後發生遲發性運動異常（Tardive dyskinesia, TD）的危險因子之一。此敘述正確，故不選。\n- C. 思覺失調症的終生盛行率在男女之間大約相等，並無女性顯著高於男性的現象；雖然男性的發病年齡通常較早（15-25歲，女性為25-35歲）且臨床預後較差。此陳述錯誤，為本題正答。\n- D. 思覺失調症的治療強調生理與心理社會的整合模式，除了抗精神病藥物治療，結合社交技巧訓練、職業復健與日間留院等心理社會治療，對於減少復發並提升社會功能至關重要。此敘述正確，故不選。\n\n【核心考點】\n思覺失調症的流行病學特徵（男女盛行率相等，發病年齡與預後有性別差異），以及抗精神病藥物副作用（靜坐不能治療首選 Propranolol，早期 EPS 與遲發性運動異常的關聯性）。",
+      "key_point": "思覺失調症的終生盛行率男女大約相等（皆約為 1%），而非女性為男性的兩倍。抗精神病藥物引起的靜坐不能可首選 Propranolol 治療。",
+      "flashcard_front": "思覺失調症（Schizophrenia）在流行病學上的男女盛行率與發病年齡有何特徵？",
+      "flashcard_back": "終生盛行率「男女相等」（均約 1%）。但發病年齡「男性較早」（高峰為 15-25 歲，女性為 25-35 歲），且男性的臨床預後通常較女性差。",
+      "flashcard_summary": "思覺失調症盛行率 -> 男女盛行率相等（約 1%）。藥物副作用中的靜坐不能可用 Propranolol 治療；早期易有 EPS 者長期較易發生 TD。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:29:07+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-4_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題為否定問法。自閉性思考（Autistic thinking）是個體思考完全受內在主觀幻想、情感或期望支配的一種思考特徵，最主要的表現是與現實脫節並缺乏客觀現實性。因此，「強調思考之客觀性」不符合其精神病理學特徵，為本題應選之正確答案。\n\n【選項詳解】\n- A. 自閉性思考在臨床上呈現高度的「自我中心（Egocentric）」，思考內容多以患者自身的需求、願望與內在世界為出發點，不隨外在環境或他人的客觀意見而修正。此敘述正確，故不選。\n- B. 自閉性思考本質上是由個人的幻想和主觀需求所驅動，因而會忽視、甚至否定客觀的現實法則，絕非強調思考的客觀性。此敘述錯誤，為本題正答。\n- C. 自閉性思考的核心特色是「與現實脫節（Detached from reality）」，患者常活在自己所建構的私密世界中，以個人的主觀幻想來代替並詮釋真實的外界。此敘述正確，故不選。\n- D. 自閉性思考這一概念最早由瑞士精神病學家 Eugen Bleuler 提出，是思覺失調症（Schizophrenia）經典 4A 診斷特徵之一（即 Autism、Association looseness、Affective disturbance、Ambivalence），同時此思考特徵也常出現在自閉症譜系障礙（ASD）個案中。此敘述正確，故不選。\n\n【核心考點】\n自閉性思考（Autistic thinking）的精神病理定義與三大核心特徵（自我中心、脫離現實、缺乏客觀性），以及其作為 Bleuler 提出的思覺失調症 4A 症狀（Autism）之歷史背景與臨床重要性。",
+      "key_point": "自閉性思考的特徵是脫離現實且以自我中心的主觀幻想為主，最不強調思考的客觀性，是思覺失調症 4A 症狀之一，也是自閉症的表現之一。",
+      "flashcard_front": "精神病理學中，自閉性思考（Autistic thinking）的定義與主要特徵為何？",
+      "flashcard_back": "自閉性思考（Bleuler 提出的思覺失調症 4A 之一）指個體思考脫離现实，完全以自我中心和內在主觀幻想為主，不強調也不具備客觀性。常見於思覺失調症與自閉症患者。",
+      "flashcard_summary": "自閉性思考 -> 特徵為自我中心、脫離現實、缺乏客觀性。是思覺失調症 4A 症狀之一，亦見於自閉症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T22:29:07+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

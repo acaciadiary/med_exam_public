@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\nHIV 合併肺結核且 CD4 70，開始抗結核治療後應儘早加入 ART，但為降低藥物交互作用與 IRIS 風險，通常在抗結核治療 2-4 週後開始；CD4 很低者不應延後數月。\n\n【選項詳解】\n- A. 立即同步治療會增加藥物交互作用、副作用與 IRIS 管理困難，通常先讓抗結核治療啟動。\n- B. CD4 <50 或接近重度免疫低下時，抗結核治療 2-4 週後開始 ART 是合適時點。\n- C. 延到 3-4 個月對 CD4 70 的病人太晚，會增加 HIV 相關併發症。\n- D. 等抗結核結束才治療 HIV 會不必要延誤 ART。\n\n【核心考點】\nHIV/TB 共病：先啟動 TB treatment，重度免疫低下者約 2-4 週後開始 ART。",
+      "key_point": "HIV with TB and low CD4：start ART after 2-4 weeks of TB therapy。",
+      "flashcard_front": "HIV TB ART timing",
+      "flashcard_back": "CD4 低者 ART 不應延後到抗結核治療結束。",
+      "flashcard_summary": "HIV TB ART timing -> CD4 低者 ART 不應延後到抗結核治療結束。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n多年反覆濃痰咳嗽，年輕時反覆感染，X 光兩側下肺葉 tram-track sign，典型為支氣管擴張症。\n\n【選項詳解】\n- A. ABPA 常與氣喘、嗜酸性球、IgE 與中央支氣管擴張相關，題幹無這些線索。\n- B. 氣喘以可逆性喘鳴與氣道阻塞為主，不會典型造成長年濃痰與 tram tracks。\n- C. 肺泡蛋白沉積症常見 crazy paving 與低氧，不以反覆感染濃痰和 tram-track 為主。\n- D. bronchiectasis 會有慢性大量膿痰、反覆感染與 tram-track sign。\n\n【核心考點】\n慢性膿痰、反覆感染與 tram-track sign 指向 bronchiectasis。",
+      "key_point": "Tram-track sign + chronic purulent sputum = bronchiectasis。",
+      "flashcard_front": "Bronchiectasis diagnosis",
+      "flashcard_back": "支氣管擴張症常見反覆感染與下肺葉 tram tracks。",
+      "flashcard_summary": "Bronchiectasis diagnosis -> 支氣管擴張症常見反覆感染與下肺葉 tram tracks。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n支氣管擴張症治療包括痰液清除、急性惡化抗生素、必要時支氣管擴張劑或化痰藥；局部反覆感染且內科難控制時可考慮切除。\n\n【選項詳解】\n- A. NTM 培養陽性不等於一定有 NTM lung disease，也不一定具傳染性；需看症狀、影像與多次培養標準。\n- B. 無急性發作時不一定長期預防性抗生素，需依惡化頻率與菌種風險決定。\n- C. 支氣管擴張劑、化痰與呼吸道清除對部分病人有幫助，不能說無幫助。\n- D. 病灶局部且反覆難控制感染或出血時，可考慮外科切除。\n\n【核心考點】\n支氣管擴張症以氣道清除與惡化期抗生素為主；局部難治病灶可手術。",
+      "key_point": "Localized bronchiectasis with recurrent uncontrolled infection may undergo resection。",
+      "flashcard_front": "Bronchiectasis treatment",
+      "flashcard_back": "NTM 培養陽性需符合疾病診斷標準，不是立刻治療。",
+      "flashcard_summary": "Bronchiectasis treatment -> NTM 培養陽性需符合疾病診斷標準，不是立刻治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n針扎暴露處置要立即評估來源與被暴露者、抽 HIV/HBV/HCV 等檢驗、評估 PEP，不能因假期延到數天後才處置。\n\n【選項詳解】\n- A. 來源者與被針扎者的 HIV 檢驗是暴露評估基本步驟。\n- B. HBV、HCV、梅毒等血清檢查可建立基線與後續追蹤。\n- C. 告知空窗期與後續抽血時間是必要衛教。\n- D. PEP 與風險評估有時需在數小時內完成，不能安排年初四才到門診處理。\n\n【核心考點】\n針扎暴露需立即處理與評估 PEP，不可延後數天。",
+      "key_point": "Needlestick injury requires immediate evaluation。",
+      "flashcard_front": "Needlestick management",
+      "flashcard_back": "職業暴露處置不能因假期延後。",
+      "flashcard_summary": "Needlestick management -> 職業暴露處置不能因假期延後。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n來源者 HIV 抗體陰性，但醫療工作者本人篩檢陽性，下一步不是 PEP，而是做確認試驗以判斷是否真的 HIV 感染；本題選 Western blot。\n\n【選項詳解】\n- A. 通報通常需確認診斷後依規定進行；單一 screening test 陽性仍需確認。\n- B. Western blot 是傳統確認試驗，可用來確認 HIV screening test 陽性結果。\n- C. 來源者陰性且本人篩檢陽性時，重點是確認本人感染狀態，不是暴露後預防投藥。\n- D. 陽性 screening test 不能只觀察一個月，需立即確認。\n\n【核心考點】\nHIV screening test 陽性需做確認試驗；職業暴露 PEP 要看來源者風險。",
+      "key_point": "Positive HIV screen -> confirmatory test。",
+      "flashcard_front": "HIV confirmatory testing",
+      "flashcard_back": "單一篩檢陽性不能當確診，也不能只觀察。",
+      "flashcard_summary": "HIV confirmatory testing -> 單一篩檢陽性不能當確診，也不能只觀察。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n台灣代謝症候群五項：男性腰圍 >=90 cm、血壓 >=130/85、空腹血糖 >=100、TG >=150、HDL 男性 <40。林先生腰圍 88 不算，血壓、血糖、TG 符合，HDL 42 不算，共 3 項。\n\n【選項詳解】\n- A. 2 項少算了血壓、血糖、三酸甘油脂三個明確異常。\n- B. 血壓 132/88、空腹血糖 106、TG 180 符合，共 3 項。\n- C. 若把 HDL 42 誤算為異常才會到 4 項；男性 HDL 切點是 <40。\n- D. 5 項需要腰圍與 HDL 也符合，但本題兩者未達標準。\n\n【核心考點】\n台灣男性代謝症候群：腰圍 90、BP 130/85、glucose 100、TG 150、HDL <40。",
+      "key_point": "此題符合血壓、血糖、TG，共 3 項。",
+      "flashcard_front": "Metabolic syndrome item count",
+      "flashcard_back": "男性腰圍 88 與 HDL 42 不達代謝症候群異常標準。",
+      "flashcard_summary": "Metabolic syndrome item count -> 男性腰圍 88 與 HDL 42 不達代謝症候群異常標準。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n起身行走測驗（Timed Up and Go）評估行動能力、平衡與跌倒風險，不是坐骨神經功能檢查。16 秒通常屬異常，提示跌倒風險上升。\n\n【選項詳解】\n- A. 由椅子起身、走 3 公尺、轉身走回坐下，就是 get-up-and-go 或 timed up and go test。\n- B. 16 秒完成較慢，常視為行動功能下降與跌倒高風險。\n- C. 此測驗評估整體移動、平衡與功能狀態，不是坐骨神經專一檢查。\n- D. 跌倒後活動減少、行動測驗異常，可支持衰弱或衰弱風險評估。\n\n【核心考點】\nTimed Up and Go 評估行動功能與跌倒風險，不是坐骨神經測驗。",
+      "key_point": "TUG test assesses mobility and fall risk。",
+      "flashcard_front": "Timed Up and Go test",
+      "flashcard_back": "走 3 公尺來回坐下的測驗重點是跌倒風險。",
+      "flashcard_summary": "Timed Up and Go test -> 走 3 公尺來回坐下的測驗重點是跌倒風險。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n雙向轉診需要家庭醫師整合不同層級醫療資源、安排病人流向與資訊回饋，最能體現協調性。\n\n【選項詳解】\n- A. 可近性指病人容易取得醫療服務，不是轉診制度的核心特色。\n- B. 負責性強調對病人健康結果與照護品質負責，與轉診有關但不是最直接。\n- C. 協調性是連結專科、醫院與社區資源，正是雙向轉診的重點。\n- D. 持續性指長期醫病關係與連續照護；轉診可支持它，但題目問制度特色最直接是協調性。\n\n【核心考點】\n家庭醫師的轉診角色體現 coordination：整合不同醫療層級與資源。",
+      "key_point": "雙向轉診是家庭醫師協調性的表現。",
+      "flashcard_front": "Family medicine coordination",
+      "flashcard_back": "轉診制度重點是協調照護。",
+      "flashcard_summary": "Family medicine coordination -> 轉診制度重點是協調照護。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n慢性疾病運動處方可採分段累積，只要總量達標即可；要求每次必須連續 30-60 分鐘不符合安全、漸進與個人化原則。\n\n【選項詳解】\n- A. 有氧、阻力與伸展分別改善心肺、肌力與柔軟度，敘述合適。\n- B. 能說話不能唱歌是中等強度的實用主觀判斷。\n- C. 每週至少 3 天是常見最低頻率建議，依疾病與能力調整。\n- D. 運動可分段累積，例如每次 10 分鐘以上逐步增加，不必每次連續半小時到一小時。\n\n【核心考點】\n慢性病運動可分段累積，重點是安全漸進與總運動量。",
+      "key_point": "Exercise prescription can be accumulated in bouts。",
+      "flashcard_front": "Chronic disease exercise prescription",
+      "flashcard_back": "不可分段做是錯誤的運動處方觀念。",
+      "flashcard_summary": "Chronic disease exercise prescription -> 不可分段做是錯誤的運動處方觀念。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n對病人與臨床決策最有意義的是知道檢查結果出來後代表什麼：陽性時真正有病機率與陰性時真正沒病機率，也就是 PPV 與 NPV。\n\n【選項詳解】\n- A. 敏感度與特異度描述檢查本身特性，但病人拿到結果後更想知道結果代表的機率。\n- B. 敏感度加 PPV 只涵蓋一部分問題，沒有說明陰性結果的意義。\n- C. 特異度加 NPV 也只涵蓋一部分問題，少了陽性結果的臨床意義。\n- D. PPV 與 NPV 直接回答陽性或陰性結果對該病人的實際意義，最有臨床溝通價值。\n\n【核心考點】\n臨床解釋檢查結果時，PPV/NPV 比 sensitivity/specificity 更貼近病人決策。",
+      "key_point": "Test result counseling relies on PPV and NPV。",
+      "flashcard_front": "Screening test clinical meaning",
+      "flashcard_back": "陽性預測值與陰性預測值回答結果出來後的機率。",
+      "flashcard_summary": "Screening test clinical meaning -> 陽性預測值與陰性預測值回答結果出來後的機率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

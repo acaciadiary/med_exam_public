@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\nIBD 治療要分 induction 與 maintenance。類固醇可誘導緩解，但不適合維持治療；生物製劑能減少類固醇依賴、改善 fistula，5-ASA 是潰瘍性大腸炎維持治療重要藥物。\n\n【選項詳解】\n- A. 包含第 1 點，但類固醇不應作為 maintenance therapy，故此組合錯。\n- B. 第 2、3、4 點都正確：biologics 可 steroid-sparing 並改善 fistula；5-ASA 可用於 UC 維持。\n- C. 只列 2、4 漏掉 biologics 對 fistula healing 的重要效果。\n- D. 全選包含錯誤的第 1 點，因此不對。\n\n【核心考點】\nIBD 類固醇用於誘導緩解，不用作長期維持；biologics 可減少 steroid 並幫助 fistula。",
+      "key_point": "IBD steroids induction only，不作維持治療。",
+      "flashcard_front": "IBD induction maintenance",
+      "flashcard_back": "UC 維持可用 5-ASA；生物製劑可 steroid-sparing 與促進 fistula 癒合。",
+      "flashcard_summary": "IBD induction maintenance -> UC 維持可用 5-ASA；生物製劑可 steroid-sparing 與促進 fistula 癒合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nIBS 是腸腦互動障礙，與內臟敏感、腸道蠕動、心理壓力與中樞調控都有關。嚴重 IBS 在女性較多見。\n\n【選項詳解】\n- A. IBS 不是單純腸壁病變，腸腦軸與中樞神經調控很重要。\n- B. 感染後 IBS 通常女性風險較高，不是男性多於女性。\n- C. IBS 常見於年輕至中年族群；45 歲以上新發症狀反而要注意警訊與器質性疾病。\n- D. 嚴重 IBS 女性比例較高，約可達多數，是本題正確敘述。\n\n【核心考點】\nIBS 是腸腦互動障礙，嚴重個案以女性較多；高齡新發症狀要排除警訊。",
+      "key_point": "IBS 與 gut-brain interaction 有關，女性較常見。",
+      "flashcard_front": "Irritable bowel syndrome",
+      "flashcard_back": "IBS 不是純腸壁病，嚴重者女性居多。",
+      "flashcard_summary": "Irritable bowel syndrome -> IBS 不是純腸壁病，嚴重者女性居多。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題考遺傳性大腸癌與息肉症候群的配對。Lynch syndrome 屬 hereditary nonpolyposis colorectal cancer，常為近端大腸癌與子宮內膜、卵巢等腫瘤風險上升，息肉數不一定多但仍由 adenoma-carcinoma pathway 發展。\n\n【選項詳解】\n- A. FAP 是大量腺瘤性息肉，癌化風險高；但先天異常組合更接近 Gardner 變異型，敘述不如 D 精準。\n- B. Peutz-Jeghers 的息肉是 hamartomatous polyp，不是 adenoma。\n- C. Turcot syndrome 主要是腺瘤性息肉合併中樞神經腫瘤；骨瘤、脂肪瘤、CHRPE 等是 Gardner/FAP 相關特徵。\n- D. Lynch syndrome 常見近端大腸癌，並增加子宮內膜、卵巢、胃、泌尿道、胰膽道等癌症風險。\n\n【核心考點】\nLynch syndrome 是非息肉性遺傳性大腸癌，常見近端大腸與子宮內膜、卵巢等癌症。",
+      "key_point": "Lynch：proximal colon、endometrial/ovarian cancers。",
+      "flashcard_front": "Hereditary GI polyposis syndromes",
+      "flashcard_back": "Peutz-Jeghers 是 hamartoma；Gardner 有骨瘤與軟組織腫瘤；Lynch 常近端大腸癌。",
+      "flashcard_summary": "Hereditary GI polyposis syndromes -> Peutz-Jeghers 是 hamartoma；Gardner 有骨瘤與軟組織腫瘤；Lynch 常近端大腸癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n腎移植後急性腎功能惡化，切片有 C4d 沉積與內皮細胞損傷，典型為抗體媒介排斥（antibody-mediated rejection）。治療重點是移除或中和抗體。\n\n【選項詳解】\n- A. 單純增加 tacrolimus/MMF 對 T 細胞反應較有意義，無法快速處理抗體媒介排斥。\n- B. 類固醇脈衝常用於細胞性排斥，對 C4d 陽性的抗體媒介排斥不足。\n- C. 降低 tacrolimus 可能讓排斥更惡化；透析只能支持腎功能，不能治療排斥機轉。\n- D. 血漿置換移除 donor-specific antibody，IVIG 調節免疫，是抗體媒介排斥的標準治療組合。\n\n【核心考點】\n腎移植 C4d 沉積加內皮損傷指向 antibody-mediated rejection，治療用 plasmapheresis 加 IVIG。",
+      "key_point": "C4d 陽性排斥治療：血漿置換加 IVIG。",
+      "flashcard_front": "Antibody-mediated rejection",
+      "flashcard_back": "AMR 的核心是 donor-specific antibody，需移除或中和抗體。",
+      "flashcard_summary": "Antibody-mediated rejection -> AMR 的核心是 donor-specific antibody，需移除或中和抗體。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n上呼吸道感染後數天即出現肉眼或顯微血尿，腎切片 mesangium 有 IgA 沉積，典型為 IgA nephropathy。與鏈球菌感染後腎炎不同，IgA 常是 synpharyngitic hematuria。\n\n【選項詳解】\n- A. minimal change disease 主要造成 nephrotic syndrome，光學顯微鏡變化少，不是 mesangial IgA 沉積。\n- B. IgA nephropathy 典型為感染同時或數天內血尿，mesangial IgA deposition。\n- C. FSGS 常見節段性硬化與蛋白尿，不以感染後 3 天血尿加 IgA 沉積為特徵。\n- D. membranous nephropathy 是成人腎病症候群與基底膜免疫沉積，非 mesangial IgA。\n\n【核心考點】\nIgA nephropathy：上呼吸道感染同時或數天內血尿，mesangial IgA deposition。",
+      "key_point": "Synpharyngitic hematuria + mesangial IgA = IgA nephropathy。",
+      "flashcard_front": "IgA nephropathy",
+      "flashcard_back": "IgA nephropathy 與 post-strep GN 的時間差是高頻考點。",
+      "flashcard_summary": "IgA nephropathy -> IgA nephropathy 與 post-strep GN 的時間差是高頻考點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nGoodpasture syndrome 的抗體是針對 type IV collagen alpha-3 chain NC1 domain，不是 alpha-5 NC1 domain；其他配對較符合常見腎臟免疫疾病機轉。\n\n【選項詳解】\n- A. PR3-ANCA 與 granulomatosis with polyangiitis 相關，是典型配對。\n- B. 鏈球菌感染後腎炎可與抗鏈球菌抗體反應相關，選項方向較可接受。\n- C. PLA2R antibody 是 primary membranous nephropathy 的重要抗體。\n- D. Goodpasture 抗 glomerular basement membrane 的目標是 type IV collagen alpha-3 NC1 domain；alpha-5 配對錯誤。\n\n【核心考點】\nGoodpasture syndrome 是 anti-alpha-3 NC1 domain of type IV collagen。",
+      "key_point": "Goodpasture 抗體不是 alpha-5，而是 alpha-3 NC1。",
+      "flashcard_front": "Goodpasture antibody",
+      "flashcard_back": "Anti-GBM disease 針對 type IV collagen alpha-3 NC1 domain。",
+      "flashcard_summary": "Goodpasture antibody -> Anti-GBM disease 針對 type IV collagen alpha-3 NC1 domain。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n老人使用 metformin 後發生急性腎衰竭，pH 7.0、HCO3 4 顯示嚴重代謝性酸中毒，尿液無酮體線索且血糖不算典型 DKA，最符合 metformin-associated lactic acidosis。\n\n【選項詳解】\n- A. DKA 通常有高血糖、酮酸與陰離子間隙酸中毒；題幹沒有尿酮或典型酮酸線索。\n- B. rhabdomyolysis 會有肌肉症狀、CK 升高、尿潛血陽性但少紅血球等線索，題幹未提示。\n- C. 腎衰竭使 metformin 蓄積，造成嚴重 lactic acidosis，是最可能診斷。\n- D. type 4 RTA 常為高血鉀、輕中度正常陰離子間隙酸中毒，不會典型 pH 7.0、HCO3 4 如此嚴重。\n\n【核心考點】\nMetformin 在急性腎衰竭時可蓄積，導致嚴重 lactic acidosis。",
+      "key_point": "Metformin + AKI + severe metabolic acidosis = lactic acidosis。",
+      "flashcard_front": "Metformin-associated lactic acidosis",
+      "flashcard_back": "腎功能急壞時 metformin 需停用，避免乳酸性酸中毒。",
+      "flashcard_summary": "Metformin-associated lactic acidosis -> 腎功能急壞時 metformin 需停用，避免乳酸性酸中毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n題目問 AKI 何者錯誤。慢性腎臟病、利尿劑、敗血症等情境會使 FeNa 判讀不可靠；FeNa >1% 不能排除腎前性 AKI。\n\n【選項詳解】\n- A. 腎前性 AKI 因尿素重吸收增加，BUN/Cr 常大於 20。\n- B. 敗血症可造成腎小管傷害與 intrinsic AKI，是住院 AKI 常見原因。\n- C. postrenal AKI 的首要處置是解除阻塞，例如導尿、腎造廔或處理結石腫瘤。\n- D. CKD 或使用利尿劑時 FeNa 可能偏高，不能用 FeNa >1% 直接排除 prerenal AKI。\n\n【核心考點】\nFeNa 判讀受 CKD 與利尿劑影響；不能單靠 FeNa >1% 排除腎前性 AKI。",
+      "key_point": "FeNa >1% 不一定排除 prerenal AKI。",
+      "flashcard_front": "AKI FeNa limitation",
+      "flashcard_back": "AKI 要結合病史、尿沉渣與容量狀態，FeNa 不是絕對規則。",
+      "flashcard_summary": "AKI FeNa limitation -> AKI 要結合病史、尿沉渣與容量狀態，FeNa 不是絕對規則。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n腎移植免疫抑制藥物有典型副作用。Sirolimus 常見高脂血症、傷口癒合差、口腔潰瘍、骨髓抑制等；高尿酸血症不是其典型配對。\n\n【選項詳解】\n- A. glucocorticoid 可造成骨質疏鬆、血糖上升、感染風險增加，配對正確。\n- B. cyclosporine 是 calcineurin inhibitor，腎毒性是重要副作用。\n- C. tacrolimus 也屬 calcineurin inhibitor，移植後糖尿病比 cyclosporine 更典型。\n- D. sirolimus 是 mTOR inhibitor，典型是高脂血症與傷口癒合不良，不是高尿酸血症。\n\n【核心考點】\nSirolimus 典型副作用是高脂血症、傷口癒合差與骨髓抑制。",
+      "key_point": "Sirolimus 不典型配對高尿酸血症。",
+      "flashcard_front": "Transplant drug adverse effects",
+      "flashcard_back": "Calcineurin inhibitors 腎毒性；tacrolimus 糖尿病；sirolimus 高脂血症與傷口癒合差。",
+      "flashcard_summary": "Transplant drug adverse effects -> Calcineurin inhibitors 腎毒性；tacrolimus 糖尿病；sirolimus 高脂血症與傷口癒合差。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n尿毒性出血主要是血小板功能障礙。可用透析、DDAVP、cryoprecipitate、矯正貧血等方式改善；androgen 起效慢，多用於特定慢性情境，不適合持續出血的急性止血。\n\n【選項詳解】\n- A. 尿毒素會干擾血小板黏附與凝集，敘述正確。\n- B. 貧血會降低血小板貼近血管壁的機會，矯正貧血可改善止血。\n- C. desmopressin 可短暫改善血小板功能；cryoprecipitate 也可作為治療選項。\n- D. androgen 起效需數天至數週，且有血栓風險，不是持續出血時合適的急性處置。\n\n【核心考點】\n尿毒性出血急性處置可用 DDAVP、cryoprecipitate、透析與矯正貧血；androgen 起效慢。",
+      "key_point": "Uremic bleeding 是血小板功能不良。",
+      "flashcard_front": "Uremic bleeding treatment",
+      "flashcard_back": "DDAVP 可短效改善尿毒性血小板功能；androgen 不是急性止血首選。",
+      "flashcard_summary": "Uremic bleeding treatment -> DDAVP 可短效改善尿毒性血小板功能；androgen 不是急性止血首選。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

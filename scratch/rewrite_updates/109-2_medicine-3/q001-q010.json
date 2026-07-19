@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n年輕男性突發下肢無力，血鉀 2.0 mEq/L 且尿鉀只有 10 mEq/L，重點不是腎臟漏鉀，而是鉀離子往細胞內移動。亞洲男性出現低血鉀週期性麻痺時，要想到甲狀腺毒性週期性麻痺（thyrotoxic periodic paralysis），因此應加驗甲狀腺功能。\n\n【選項詳解】\n- A. TTKG = 尿鉀 10 x 血漿滲透壓 290 / 血鉀 2.0 / 尿滲透壓 580，約為 2.5，不是 2.0。\n- B. 尿鉀偏低代表腎臟正在保留鉀，與腎臟排鉀過多不合。\n- C. 低血鉀麻痺合併低尿鉀排出，尤其在年輕男性，應檢查 TSH、free T4 以排除甲狀腺毒性週期性麻痺。\n- D. 補鉀不宜加在葡萄糖水，葡萄糖誘發胰島素分泌會讓鉀更往細胞內移動；周邊靜脈濃度限制本身不是本題陷阱。\n\n【核心考點】\n低血鉀先看尿鉀：尿鉀低表示體內轉移或腸胃流失，年輕男性突發麻痺要想到甲狀腺毒性週期性麻痺。",
+      "key_point": "低血鉀麻痺合併低尿鉀時，年輕男性要加驗甲狀腺功能。",
+      "flashcard_front": "低血鉀麻痺與尿鉀",
+      "flashcard_back": "尿鉀低代表非腎性流失或細胞內轉移；亞洲年輕男性突發麻痺要排除 thyrotoxic periodic paralysis。",
+      "flashcard_summary": "低血鉀麻痺與尿鉀 -> 尿鉀低代表非腎性流失或細胞內轉移；亞洲年輕男性突發麻痺要排除 thyrotoxic periodic paralysis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n篩檢適合用在重要、可早期偵測、自然史清楚且有有效治療的疾病；檢查本身也要安全、可接受、成本合理。\n\n【選項詳解】\n- A. 可治療是篩檢的核心條件，否則提早發現未必能改善預後。\n- B. 自然史不清楚時，不容易判斷篩檢時點與追蹤策略，並非良好篩檢標的。\n- C. 對健康影響不大的疾病，篩檢容易造成過度診斷與不必要焦慮。\n- D. 高風險檢查不適合拿來做大量無症狀族群篩檢。\n\n【核心考點】\nWilson-Jungner 篩檢原則強調疾病重要、自然史清楚、可治療，且篩檢工具安全可接受。",
+      "key_point": "篩檢疾病必須重要、自然史清楚且可治療。",
+      "flashcard_front": "篩檢原則",
+      "flashcard_back": "可治療是必要條件；高風險、自然史不明或健康影響小的疾病不適合篩檢。",
+      "flashcard_summary": "篩檢原則 -> 可治療是必要條件；高風險、自然史不明或健康影響小的疾病不適合篩檢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\nBasic ADL 評估的是最基本的自我照顧動作，例如清潔、穿脫衣、如廁、移位、進食與洗澡；服藥管理屬於較複雜的 instrumental ADL。\n\n【選項詳解】\n- A. 個人衛生屬於 basic ADL，反映病人能否完成基本自我照顧。\n- B. 穿衣脫衣是典型 basic ADL 項目。\n- C. 自行服藥需要記憶、安排與執行治療計畫，屬於 instrumental ADL，不是 basic ADL。\n- D. 床椅間移位是 Katz ADL 常見項目，屬於 basic ADL。\n\n【核心考點】\nBasic ADL 是吃、穿、洗、如廁、移位等基本照護；服藥、財務、交通多屬 IADL。",
+      "key_point": "自行服藥不屬於 basic ADL，而屬於 IADL。",
+      "flashcard_front": "Basic ADL vs IADL",
+      "flashcard_back": "Basic ADL 評基本自我照顧；服藥管理是 instrumental ADL。",
+      "flashcard_summary": "Basic ADL vs IADL -> Basic ADL 評基本自我照顧；服藥管理是 instrumental ADL。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n此題官方為全體給分。若依常見 RPI 公式，先以 reticulocyte count x Hct/45 校正，9 x 23/45 約 4.6；再依貧血程度用 maturation correction 約 2 校正，約 2.3，最接近 2.25，但不同考試版本可能因公式或給分爭議而全體給分。\n\n【選項詳解】\n- A. 9.0 是未校正的網狀紅血球百分比，未反映貧血時紅血球總量下降。\n- B. 4.5 接近 reticulocyte index，但還沒有用 maturation time 校正。\n- C. 2.25 接近以 Hct 與成熟時間校正後的 RPI，若按標準算法最合理。\n- D. 1.12 會多校正一次，低估骨髓反應。\n\n【核心考點】\nRPI 需先用 hematocrit 校正 reticulocyte percentage，再依貧血嚴重度校正網狀紅血球成熟時間。",
+      "key_point": "RPI 約等於 corrected reticulocyte count 再除以 maturation correction。",
+      "flashcard_front": "Reticulocyte production index",
+      "flashcard_back": "Retic 9%、Hct 23% 時，校正後 RPI 約 2.25；本題官方為全體給分。",
+      "flashcard_summary": "Reticulocyte production index -> Retic 9%、Hct 23% 時，校正後 RPI 約 2.25；本題官方為全體給分。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "官方給分狀態為 all_credit；依一般公式最接近 C，但題庫保留官方全體給分。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題考腹痛理學檢查的手法與陽性定義。Obturator sign 與 psoas sign 都常用於疑似闌尾炎或腹膜刺激的評估，但姿勢不同。\n\n【選項詳解】\n- A. Grey Turner sign 是腰側或脇腹瘀斑，常見於後腹腔出血；肚臍周圍瘀斑是 Cullen sign。\n- B. 小腸阻塞初期常有高亢、金屬音或陣發性腸音；晚期才可能低活動性。\n- C. Murphy sign 是右上腹深壓時，吸氣因疼痛突然中止；不是吸氣吐氣都痛就算陽性。\n- D. Obturator sign 讓髖膝屈曲後內旋；psoas sign 常使髖伸展或抵抗屈髖誘發疼痛，因此敘述最合理。\n\n【核心考點】\n腹痛檢查要分清瘀斑位置、腸阻塞腸音，以及 Murphy、obturator、psoas sign 的動作。",
+      "key_point": "Grey Turner 在脇腹，Cullen 在臍周；Murphy sign 是吸氣中止。",
+      "flashcard_front": "腹痛理學檢查",
+      "flashcard_back": "腹痛特殊徵象的關鍵是位置與誘發動作，不是只背疾病名稱。",
+      "flashcard_summary": "腹痛理學檢查 -> 腹痛特殊徵象的關鍵是位置與誘發動作，不是只背疾病名稱。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目問急性冠心症分子機制何者錯誤。斑塊破裂後血小板活化、釋放介質、凝血系統啟動都正確；錯在說 GP IIb/IIIa 受體彼此直接連結。\n\n【選項詳解】\n- A. 發炎細胞與 matrix metalloproteinase 會分解纖維帽膠原，使斑塊不穩定。\n- B. 內皮下基質暴露後，血小板黏附活化並釋放 thromboxane A2、serotonin 等促進血管收縮與血小板募集。\n- C. GP IIb/IIIa 不是彼此直接相連，而是透過 fibrinogen 或 von Willebrand factor 作橋接形成聚集。\n- D. 凝血系統產生 thrombin，將 fibrinogen 轉為 fibrin，穩定血栓。\n\n【核心考點】\n血小板聚集靠 GP IIb/IIIa 與 fibrinogen 橋接，不是受體直接互黏。",
+      "key_point": "急性冠心症血小板聚集靠 fibrinogen 橋接 GP IIb/IIIa。",
+      "flashcard_front": "ACS platelet aggregation",
+      "flashcard_back": "GP IIb/IIIa 受體需由 fibrinogen/vWF 橋接，形成血小板團塊。",
+      "flashcard_summary": "ACS platelet aggregation -> GP IIb/IIIa 受體需由 fibrinogen/vWF 橋接，形成血小板團塊。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nNSTEMI 有心肌壞死生物標記上升，但沒有持續 ST elevation。治療需依風險分層安排侵入性策略，不是所有病人都必須 12 小時內接受 PCI。\n\n【選項詳解】\n- A. 臨床缺血症狀加 troponin 或 cardiac enzyme 上升、無 ST elevation，符合 NSTEMI 概念。\n- B. cardiac troponin 對心肌壞死的敏感度與特異度都優於傳統酵素，是診斷核心。\n- C. 12 小時內立即侵入治療主要用於極高風險或不穩定病人；一般 NSTEMI 需依 GRACE、症狀與血流動力學判斷。\n- D. 抗血小板、抗凝血、硝酸鹽與適當 beta blocker 是 NSTEMI 常見內科治療骨架。\n\n【核心考點】\nNSTEMI 的侵入性治療時機依風險分層，不是全部病人一律 12 小時內 PCI。",
+      "key_point": "NSTEMI 治療時機要依風險分層。",
+      "flashcard_front": "NSTEMI risk stratification",
+      "flashcard_back": "NSTEMI 不等於全部立即 PCI；極高風險才需非常早期侵入治療。",
+      "flashcard_summary": "NSTEMI risk stratification -> NSTEMI 不等於全部立即 PCI；極高風險才需非常早期侵入治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\nCHA2DS2-VASc 計分：年齡 75 歲以上 2 分、女性 1 分、高血壓 1 分、糖尿病 1 分，至少為 5 分。若把症狀性喘與心房顫動個案視為心衰竭表現，則可再加 1 分成 6 分，因此官方接受 B 與 C。\n\n【選項詳解】\n- A. 4 分少算了題幹明確提供的年齡、性別、高血壓或糖尿病其中一項。\n- B. 不計心衰竭時，76 歲 2 分、女性 1 分、高血壓 1 分、糖尿病 1 分，合計 5 分。\n- C. 若把活動喘視為心衰竭臨床表現，可再加 1 分，合計 6 分，因此官方也接受。\n- D. 7 分需要再有中風/TIA、血管病變等條件，題幹未提供。\n\n【核心考點】\nCHA2DS2-VASc 需逐項加總；此題因心衰竭判定空間，官方接受 5 或 6 分。",
+      "key_point": "CHA2DS2-VASc：75 歲以上 2 分，女性、高血壓、糖尿病各 1 分。",
+      "flashcard_front": "CHA2DS2-VASc",
+      "flashcard_back": "本題至少 5 分；若計入心衰竭則 6 分，官方接受 B 與 C。",
+      "flashcard_summary": "CHA2DS2-VASc -> 本題至少 5 分；若計入心衰竭則 6 分，官方接受 B 與 C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "官方答案為 multiple_correct：B 與 C；差異來自是否把活動喘視為心衰竭。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題幹有胸悶、疲倦、心跳 48 次/分並附心電圖；官方答案指向房室傳導阻滯。這類圖題需由 PR 間期、P 波與 QRS 的關係判斷，而不是只看心跳慢。\n\n【選項詳解】\n- A. 竇性心動過緩需每個 QRS 前都有規則竇性 P 波且傳導關係固定；若 P-QRS 脫鉤或漏傳就不是單純竇性慢。\n- B. QTc 延長重點是 QT 間期經心率校正後變長，題幹症狀與官方圖像判讀不以此為主。\n- C. 左心室肥厚需看電壓標準與 repolarization pattern，不能解釋明顯緩脈與傳導問題。\n- D. 房室傳導阻滯可造成緩脈、疲倦、胸悶或運動耐受差，是本題最符合的心電圖判讀。\n\n【核心考點】\n緩脈心電圖要先看 P 波與 QRS 的傳導關係；P-R 不固定、漏傳或 AV dissociation 要想到 AV block。",
+      "key_point": "心跳慢合併症狀，心電圖若顯示 P-QRS 傳導異常，優先判斷 AV block。",
+      "flashcard_front": "房室傳導阻滯心電圖",
+      "flashcard_back": "AV block 的重點是 P 波與 QRS 的關係，不只是心跳慢。",
+      "flashcard_summary": "房室傳導阻滯心電圖 -> AV block 的重點是 P 波與 QRS 的關係，不只是心跳慢。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "本題依附圖判讀；目前 JSON 未包含影像，解說保留官方答案並標示為圖題。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n年輕人運動時暈厥、家族猝死、收縮期雜音、左心室肥厚與心室內壓力梯度，典型指向肥厚型阻塞性心肌病變（HOCM）。會降低前負荷或左心室容積的動作會讓阻塞與雜音變明顯。\n\n【選項詳解】\n- A. handgrip 增加後負荷，通常會降低 HOCM 的流出道壓力梯度，使雜音不會更明顯。\n- B. 蹲下增加靜脈回流與後負荷，左心室腔變大，HOCM 雜音常變小。\n- C. 站起會減少前負荷，左心室腔變小，流出道阻塞加劇，雜音變大。\n- D. 抬腳增加 venous return，通常使左心室充盈增加，HOCM 雜音不會增強。\n\n【核心考點】\nHOCM 雜音：前負荷下降或左心室腔變小會變大；蹲下、抬腳通常變小。",
+      "key_point": "HOCM 雜音站起變大，蹲下或抬腳變小。",
+      "flashcard_front": "HOCM murmur maneuver",
+      "flashcard_back": "standing 降低 preload，使 HOCM 流出道阻塞更嚴重。",
+      "flashcard_summary": "HOCM murmur maneuver -> standing 降低 preload，使 HOCM 流出道阻塞更嚴重。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/109-2/medicine-3.json",
+  "dataset_id": "109-2_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "109-2_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nParadoxical splitting 是 A2 延後，使原本吸氣時應變寬的 S2 分裂反而在吸氣時變窄或消失。典型原因包括嚴重主動脈瓣狹窄、左束支傳導阻滯等左心射血延遲狀態。\n\n【選項詳解】\n- A. 二尖瓣關閉屬於 S1，不是 S2 paradoxical splitting 的主因。\n- B. 嚴重主動脈瓣狹窄會使左心室射血時間延長，A2 延後，形成 paradoxical splitting。\n- C. right bundle branch block 會延後 P2，造成一般吸氣變寬的 splitting，不是 paradoxical splitting。\n- D. 肺高壓與右心衰竭多影響 P2 或右心射血，不是典型 A2 延後機轉。\n\n【核心考點】\nParadoxical splitting 的關鍵是 A2 延後，常見於主動脈瓣狹窄或左束支傳導阻滯。",
+      "key_point": "S2 paradoxical splitting 是 A2 延後。",
+      "flashcard_front": "Paradoxical splitting",
+      "flashcard_back": "嚴重 AS 可延後 A2，造成 paradoxical splitting。",
+      "flashcard_summary": "Paradoxical splitting -> 嚴重 AS 可延後 A2，造成 paradoxical splitting。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n題目問下肢周邊動脈疾病何者錯誤。血管雜音代表狹窄處亂流，不代表血管分流；其他選項多與 PAD 嚴重度或偵測方式有關。\n\n【選項詳解】\n- A. 皮膚冷、跛行與脈搏異常都表示下肢灌流不足，病情較嚴重。\n- B. vascular bruit 是血流通過狹窄造成的亂流聲，不等於 shunting。\n- C. 腳趾與手指氧飽和差異可作為周邊灌流不足的線索，但臨床常用 ABI 更標準。\n- D. 雜音大小受血流量、狹窄形態與聽診條件影響，不能單靠音量判斷狹窄程度。\n\n【核心考點】\nPAD 的 bruit 代表狹窄亂流，不是血管分流。",
+      "key_point": "血管雜音不等於 shunt，而常提示 stenosis。",
+      "flashcard_front": "PAD vascular bruit",
+      "flashcard_back": "周邊動脈疾病的 vascular bruit 來自狹窄亂流。",
+      "flashcard_summary": "PAD vascular bruit -> 周邊動脈疾病的 vascular bruit 來自狹窄亂流。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題考心雜音時相與姿勢變化。僧帽瓣狹窄的低頻 rumbling diastolic murmur 在左側臥、心尖部以 bell 聽診最典型。\n\n【選項詳解】\n- A. 主動脈狹窄是 crescendo-decrescendo 收縮期射出性雜音，常在右上胸骨緣，並非單純早期收縮期。\n- B. HOCM 由蹲下變站立時前負荷下降，阻塞加重，雜音會變大，不是變小。\n- C. 連續性雜音可見 PDA、動靜脈廔管或 sinus of Valsalva rupture；心房中膈缺損典型是固定分裂 S2 與收縮期流量雜音。\n- D. 僧帽瓣狹窄是舒張中晚期低頻雜音，左側臥時在心尖部較清楚。\n\n【核心考點】\n僧帽瓣狹窄是心尖部低頻舒張期 rumble；HOCM 站立變大、蹲下變小。",
+      "key_point": "MS 是心尖部舒張期低頻雜音。",
+      "flashcard_front": "心雜音時相",
+      "flashcard_back": "僧帽瓣狹窄的典型聽診是左側臥心尖部 diastolic rumble。",
+      "flashcard_summary": "心雜音時相 -> 僧帽瓣狹窄的典型聽診是左側臥心尖部 diastolic rumble。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n收縮性心衰竭（HFrEF）治療要降低死亡率與住院：RAAS 抑制、beta blocker、MRA、SGLT2 inhibitor 等是核心；非 dihydropyridine CCB 會抑制心肌收縮，通常不宜使用。\n\n【選項詳解】\n- A. 利尿劑可改善鬱血症狀，aldosterone antagonist 在合適病人也可改善預後。\n- B. verapamil、diltiazem 具負性肌力作用，HFrEF 容易惡化心衰竭，因此不宜。\n- C. ACE inhibitor 或 ARB 抑制 RAAS，可降低 HFrEF 死亡率與住院風險。\n- D. beta blocker 是 HFrEF 預後藥物；ivabradine 可用於部分心跳仍快且竇性節律病人。\n\n【核心考點】\nHFrEF 避免 verapamil、diltiazem 等 non-dihydropyridine CCB。",
+      "key_point": "HFrEF 不宜用 verapamil/diltiazem。",
+      "flashcard_front": "HFrEF contraindicated CCB",
+      "flashcard_back": "Non-DHP CCB 會抑制收縮力，收縮性心衰竭不宜。",
+      "flashcard_summary": "HFrEF contraindicated CCB -> Non-DHP CCB 會抑制收縮力，收縮性心衰竭不宜。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n題目問懷孕肝病何者錯誤。懷孕時 alkaline phosphatase 可因胎盤來源上升，但 AST、ALT 通常不因正常懷孕而上升；若轉氨酶升高要找病因。\n\n【選項詳解】\n- A. AFLP 多在第三孕期發生，病理為 microvesicular steatosis，敘述正確。\n- B. HELLP 的根本處置是終止妊娠，臨床常需依母胎狀況安排生產。\n- C. ALP 可生理性升高，但 AST、ALT 升高不是正常懷孕常見變化，因此此句錯誤。\n- D. 肝腺瘤受雌激素影響，懷孕時可增大並增加破裂出血風險。\n\n【核心考點】\n正常懷孕可使 ALP 上升，但 AST/ALT 升高應視為異常。",
+      "key_point": "懷孕 ALP 可上升，AST/ALT 不應被視為正常升高。",
+      "flashcard_front": "Pregnancy liver enzymes",
+      "flashcard_back": "懷孕期間轉氨酶升高要評估肝病，而不是當作生理變化。",
+      "flashcard_summary": "Pregnancy liver enzymes -> 懷孕期間轉氨酶升高要評估肝病，而不是當作生理變化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\nPSC 與 PBC 都是膽汁鬱積型疾病，但癌症風險不同。PSC 與 UC、cholangiocarcinoma 風險密切相關；PBC 主要是中年女性、AMA 陽性與小膽管破壞。\n\n【選項詳解】\n- A. PSC 常合併 ulcerative colitis，是考試常見配對。\n- B. 膽管癌風險明顯上升的是 PSC，不是 PBC，因此此句錯誤。\n- C. 末期 PBC 主要根治選項是肝移植；UDCA 對早期或未末期病人較有意義。\n- D. PBC 以女性居多，常見於中年女性。\n\n【核心考點】\nPSC 合併 UC 且增加 cholangiocarcinoma 風險；PBC 則以女性、AMA、UDCA 為重點。",
+      "key_point": "膽管癌風險考 PSC，不是 PBC。",
+      "flashcard_front": "PSC vs PBC",
+      "flashcard_back": "PSC-UC-cholangiocarcinoma；PBC-中年女性-AMA-UDCA。",
+      "flashcard_summary": "PSC vs PBC -> PSC-UC-cholangiocarcinoma；PBC-中年女性-AMA-UDCA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n此題官方為全體給分。化膿性肝膿瘍的致病菌會因感染來源與地區而不同，台灣常見 Klebsiella pneumoniae，糖尿病病人可有轉移性感染；治療通常需抗生素加引流。\n\n【選項詳解】\n- A. 血行播散造成的肝膿瘍可與 Staphylococcus aureus 或 streptococci 相關，但是否「最常見」受來源與地區影響。\n- B. 原發性肝膿瘍在台灣常見 Klebsiella pneumoniae；若寫 Escherichia coli，可能與部分教材或來源分類不一致。\n- C. 糖尿病合併 Klebsiella 肝膿瘍可併發眼內炎，是高考點。\n- D. 標準處理多為適當抗生素加上經皮或手術引流。\n\n【核心考點】\nKlebsiella 肝膿瘍在糖尿病病人可造成眼內炎；治療以抗生素合併引流為主。",
+      "key_point": "化膿性肝膿瘍治療：抗生素加引流。",
+      "flashcard_front": "Pyogenic liver abscess",
+      "flashcard_back": "台灣常見 Klebsiella；糖尿病注意 endophthalmitis。",
+      "flashcard_summary": "Pyogenic liver abscess -> 台灣常見 Klebsiella；糖尿病注意 endophthalmitis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "官方給分狀態為 all_credit；題幹問錯誤但選項流行病學可能因教材或地區差異產生爭議。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題需依表格判讀 B 型肝炎血清標誌；官方答案指向個案 3 的描述錯誤。過往感染即使 HBsAg 陰性，仍可能有 occult HBV 或低量病毒 DNA，不宜寫成「不可能偵測到病毒」。\n\n【選項詳解】\n- A. HBeAg 陰性且特定抗體組合可見於 HBeAg-negative chronic hepatitis B，也可能是急性感染恢復期，需搭配 HBsAg、IgM anti-HBc 與 HBV DNA。\n- B. 個案 2 若 HBsAg 持續陽性，仍可歸為慢性 B 肝帶原或慢性感染狀態。\n- C. 過往感染通常 anti-HBc、anti-HBs 陽性，但仍不能排除低量 HBV DNA 或 occult infection，因此「不可能偵測到病毒」太絕對。\n- D. 只有 anti-HBs 陽性可見於疫苗接種後，也可能受檢驗假陽性影響。\n\n【核心考點】\nB 肝血清標誌要避免絕對化；過往感染不等於永遠不可能偵測到 HBV DNA。",
+      "key_point": "Resolved HBV 仍可能有 occult HBV。",
+      "flashcard_front": "HBV serology",
+      "flashcard_back": "過往感染常見 anti-HBc/anti-HBs；但不能說病毒一定不可能存在。",
+      "flashcard_summary": "HBV serology -> 過往感染常見 anti-HBc/anti-HBs；但不能說病毒一定不可能存在。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": [
+        "本題依表格判讀；目前 JSON 未包含表格，解說依官方答案保留並說明可能判讀重點。"
+      ]
+    },
+    {
+      "question_id": "109-2_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n題目問慢性 B 肝治療何者錯誤。干擾素雖有固定療程與無抗藥性的優點，但失代償性肝硬化不可使用，可能誘發嚴重肝衰竭或感染風險。\n\n【選項詳解】\n- A. 此排序本身在現代藥物觀點可討論，但本題官方錯誤點不在這句；高效低抗藥性的 nucleo(t)side analogues 是慢性 B 肝主力。\n- B. 干擾素不可用於失代償性肝硬化，因此把它列為可使用是錯誤。\n- C. tenofovir disoproxil fumarate 可能影響腎功能與骨密度，需監測腎功能。\n- D. 肝硬化且 HBV DNA 達治療門檻時應給抗病毒藥物，以降低肝衰竭與 HCC 風險。\n\n【核心考點】\nInterferon 可固定療程、無抗藥性，但失代償性肝硬化禁用。",
+      "key_point": "失代償性肝硬化不可用 interferon。",
+      "flashcard_front": "HBV interferon contraindication",
+      "flashcard_back": "慢性 B 肝合併 decompensated cirrhosis 應避免 interferon。",
+      "flashcard_summary": "HBV interferon contraindication -> 慢性 B 肝合併 decompensated cirrhosis 應避免 interferon。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "109-2_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n肝性腦病變常由誘發因素引起或惡化，例如感染、腸胃道出血、便秘、脫水、低血鉀、鎮靜藥等；治療要找誘因並降低腸道氨產生。\n\n【選項詳解】\n- A. ammonia 常升高，但數值與臨床嚴重度不一定成正比，不能單靠氨值分級。\n- B. 感染與低血鉀都是常見誘發因素，需主動尋找並矯正。\n- C. 不建議長期嚴格限制蛋白質，過度限制會造成營養不良；通常維持適當蛋白攝取。\n- D. 治療首選通常是 lactulose，必要時加 rifaximin；MgO 不是標準治療核心。\n\n【核心考點】\n肝性腦病變要找誘因；感染、低血鉀、便秘、出血都常見，治療以 lactulose 為主。",
+      "key_point": "肝性腦病變誘因包括感染與低血鉀。",
+      "flashcard_front": "Hepatic encephalopathy triggers",
+      "flashcard_back": "HE 的處置是找誘因與 lactulose/rifaximin，不是嚴格禁蛋白。",
+      "flashcard_summary": "Hepatic encephalopathy triggers -> HE 的處置是找誘因與 lactulose/rifaximin，不是嚴格禁蛋白。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-19T23:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
