@@ -117,6 +117,7 @@ export function StudyOverviewPage({
   const years = Array.from(new Set(examStats.map((stat) => stat.exam.year))).sort((a, b) =>
     b.localeCompare(a, "zh-Hant", { numeric: true }),
   );
+  const latestYear = years[0] ?? "";
 
   const hasVisibleProgress = (stats: ExamProgressStat[]) => {
     if (statusFilter === "all") return true;
@@ -286,7 +287,14 @@ export function StudyOverviewPage({
               return (
                 <div key={year} className="rounded-[1.1rem] border border-[#efd9d0] bg-white/58 p-3">
                   <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
-                    <h4 className="text-base font-extrabold text-[#5b4841] dark:text-[#f8edf3]">{year}</h4>
+                    <div className="flex items-center gap-2">
+                      <h4 className="text-base font-extrabold text-[#5b4841] dark:text-[#f8edf3]">{year}</h4>
+                      {year === latestYear ? (
+                        <span className="rounded-full bg-[#e9f6f1] px-2 py-0.5 text-[10px] font-extrabold text-[#4c806e]">
+                          最新考卷
+                        </span>
+                      ) : null}
+                    </div>
                     <span className="text-xs font-semibold text-[#9c7b70] dark:text-[#cbb8c2]">
                       已作答 {yearStats.reduce((sum, stat) => sum + stat.answered, 0)} 題
                     </span>

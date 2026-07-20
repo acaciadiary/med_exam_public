@@ -8,20 +8,20 @@ import {
 import { storageKeys } from "../../src/lib/storageKeys";
 import type { ExamManifestItem } from "../../src/types/exam";
 
-function exam(subject: string, questionCount: number): ExamManifestItem {
+function exam(subject: string, questionCount: number, year = "114-1"): ExamManifestItem {
   return {
-    id: `114-1_${subject}`,
-    year: "114-1",
-    title: `114-1 ${subject}`,
+    id: `${year}_${subject}`,
+    year,
+    title: `${year} ${subject}`,
     subject,
-    path: `data/exams/114-1/${subject}.json`,
+    path: `data/exams/${year}/${subject}.json`,
     question_count: questionCount,
   };
 }
 
-function stat(subject: string, total: number, answered: number): ExamProgressStat {
+function stat(subject: string, total: number, answered: number, year = "114-1"): ExamProgressStat {
   return {
-    exam: exam(subject, total),
+    exam: exam(subject, total, year),
     total,
     answered,
     correct: Math.floor(answered / 2),
@@ -45,16 +45,11 @@ const summary: StudyOverviewSummary = {
   masteredMistakeCount: 0,
 };
 
-function renderPage() {
+function renderPageWithStats(examStats: ExamProgressStat[]) {
   return render(
     <StudyOverviewPage
       summary={summary}
-      examStats={[
-        stat("medicine-1", 100, 20),
-        stat("medicine-2", 100, 0),
-        stat("medicine-3", 80, 30),
-        stat("medicine-4", 80, 30),
-      ]}
+      examStats={examStats}
       categoryStats={[]}
       continueTitle="從第 1 題繼續"
       continueDescription="繼續上一題"
@@ -65,6 +60,15 @@ function renderPage() {
       onGoFavorites={vi.fn()}
     />,
   );
+}
+
+function renderPage() {
+  return renderPageWithStats([
+    stat("medicine-1", 100, 20),
+    stat("medicine-2", 100, 0),
+    stat("medicine-3", 80, 30),
+    stat("medicine-4", 80, 30),
+  ]);
 }
 
 describe("StudyOverviewPage stage tabs", () => {
@@ -114,5 +118,14 @@ describe("StudyOverviewPage stage tabs", () => {
     expect(screen.getByRole("button", { name: "有未寫" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "寫到一半" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "已完成" })).toBeInTheDocument();
+  });
+  it("marks the newest year without hard-coding a specific exam", () => {
+    renderPageWithStats([
+      stat("medicine-1", 100, 0, "114-1"),
+      stat("medicine-1", 100, 0, "115-2"),
+    ]);
+
+    expect(screen.getByText("115-2")).toBeInTheDocument();
+    expect(screen.getByText("最新考卷")).toBeInTheDocument();
   });
 });

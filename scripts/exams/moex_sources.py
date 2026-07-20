@@ -110,6 +110,70 @@ PHYSICIAN_115_FIRST: list[MoexSubject] = [
 ]
 
 
+PHYSICIAN_115_2: list[MoexSubject] = [
+    MoexSubject(
+        id="115-2-physician-medicine-1",
+        year="115-2",
+        exam_code="115090",
+        category_code="301",
+        subject_code="0101",
+        title="115 年第二次醫師國考：醫學（一）",
+        subject="medicine-1",
+        group="醫師（一）",
+    ),
+    MoexSubject(
+        id="115-2-physician-medicine-2",
+        year="115-2",
+        exam_code="115090",
+        category_code="301",
+        subject_code="0102",
+        title="115 年第二次醫師國考：醫學（二）",
+        subject="medicine-2",
+        group="醫師（一）",
+    ),
+    MoexSubject(
+        id="115-2-physician-medicine-3",
+        year="115-2",
+        exam_code="115070",
+        category_code="302",
+        subject_code="0101",
+        title="115 年第二次醫師國考：醫學（三）",
+        subject="medicine-3",
+        group="醫師（二）",
+    ),
+    MoexSubject(
+        id="115-2-physician-medicine-4",
+        year="115-2",
+        exam_code="115070",
+        category_code="302",
+        subject_code="0102",
+        title="115 年第二次醫師國考：醫學（四）",
+        subject="medicine-4",
+        group="醫師（二）",
+    ),
+    MoexSubject(
+        id="115-2-physician-medicine-5",
+        year="115-2",
+        exam_code="115070",
+        category_code="302",
+        subject_code="0103",
+        title="115 年第二次醫師國考：醫學（五）",
+        subject="medicine-5",
+        group="醫師（二）",
+    ),
+    MoexSubject(
+        id="115-2-physician-medicine-6",
+        year="115-2",
+        exam_code="115070",
+        category_code="302",
+        subject_code="0104",
+        title="115 年第二次醫師國考：醫學（六）",
+        subject="medicine-6",
+        group="醫師（二）",
+    ),
+]
+
+
 PHYSICIAN_114_2: list[MoexSubject] = [
     MoexSubject(
         id='114-2-physician-medicine-1',
@@ -1061,6 +1125,7 @@ PHYSICIAN_108_1: list[MoexSubject] = [
 
 PRESETS = {
     "physician-115-first": PHYSICIAN_115_FIRST,
+    "physician-115-second": PHYSICIAN_115_2,
     "physician-114-second": PHYSICIAN_114_2,
     "physician-114-first": PHYSICIAN_114_1,
     "physician-113-second": PHYSICIAN_113_2,

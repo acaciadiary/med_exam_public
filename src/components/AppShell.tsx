@@ -882,6 +882,7 @@ function FilterControl({
   theme: AppTheme;
 }) {
   const [filterOpen, setFilterOpen] = useState(false);
+  const latestYear = yearOptions[0]?.value ?? "";
 
   const activeExam = exams.find((exam) => exam.id === activeExamId);
   const stageLabel = activeStage === "stage-1" ? "一階" : "二階";
@@ -935,7 +936,7 @@ function FilterControl({
                     onMouseDown={(e) => e.preventDefault()}
                     onClick={() => handleYearChange(opt.value)}
                     className={clsx(
-                      "min-h-9 rounded-lg px-3 text-xs font-semibold transition cursor-pointer",
+                      "inline-flex min-h-9 items-center gap-1.5 rounded-lg px-3 text-xs font-semibold transition cursor-pointer",
                       opt.value === activeYear
                         ? theme === "dark"
                           ? "bg-[#4a2c3a] text-[#f3a6c4]"
@@ -949,7 +950,23 @@ function FilterControl({
                         : "bg-white/60 text-[#806b60] border border-[#e6d6c9] hover:bg-[#fff0f6]"
                     )}
                   >
-                    {opt.label}
+                    <span>{opt.label}</span>
+                    {opt.value === latestYear ? (
+                      <span
+                        className={clsx(
+                          "rounded-full px-1.5 py-0.5 text-[10px] font-extrabold",
+                          opt.value === activeYear
+                            ? "bg-white/28 text-current"
+                            : theme === "dark"
+                            ? "bg-white/10 text-[#f3a6c4]"
+                            : theme === "clinical"
+                            ? "bg-[#dbeafe] text-[#1f4e79]"
+                            : "bg-[#fff1f6] text-[#9a496b]",
+                        )}
+                      >
+                        最新
+                      </span>
+                    ) : null}
                   </button>
                 ))}
               </div>
