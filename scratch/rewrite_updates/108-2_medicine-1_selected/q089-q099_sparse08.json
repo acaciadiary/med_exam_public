@@ -1,0 +1,127 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-1.json",
+  "dataset_id": "108-2_medicine-1",
+  "range": {
+    "start": 89,
+    "end": 99
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】奇數碳脂肪酸 beta-oxidation 最後形成 propionyl-CoA，經 carboxylation 與重排後變成 succinyl-CoA 進入 TCA cycle。\n\n【選項詳解】\n- A. Alpha-ketoglutarate 是 TCA 中間物，但不是 propionyl-CoA 轉入循環的直接入口。\n- B. Succinyl-CoA 是奇數碳脂肪酸三碳產物轉換後進入 TCA 的形式。\n- C. Oxaloacetate 可由某些胺基酸或丙酮酸羧化形成，不是此路徑的直接產物。\n- D. Propionyl-CoA 是 beta-oxidation 最後三碳片段，但需先轉成 succinyl-CoA 才進入 TCA。\n\n【核心考點】Odd-chain fatty acids enter the TCA cycle as succinyl-CoA after propionyl-CoA conversion。",
+      "key_point": "Odd-chain fatty acids enter the TCA cycle as succinyl-CoA after propionyl-CoA conversion。",
+      "flashcard_front": "奇數碳脂肪酸代謝 / 丙醯輔酶A (propionyl-CoA) / 變位酶B12 / 琥珀醯輔酶A (succinyl-CoA)",
+      "flashcard_back": "Odd-chain fatty acids enter the TCA cycle as succinyl-CoA after propionyl-CoA conversion。",
+      "flashcard_summary": "奇數碳脂肪酸代謝 / 丙醯輔酶A (propionyl-CoA) / 變位酶B12 / 琥珀醯輔酶A (succinyl-CoA) -> Odd-chain fatty acids enter the TCA cycle as succinyl-CoA after propionyl-CoA conversion。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】Glycophorin 是紅血球膜上的穿膜糖蛋白，其醣鏈位於細胞外側，參與紅血球表面負電荷與血型抗原呈現。醣鏈不會接在細胞質面的胺基酸殘基上。\n\n【選項詳解】\n- A. Glycophorin 是紅血球膜 integral membrane protein，具有穿膜區段。\n- B. 醣鏈位在細胞外面，因為糖基化發生在 ER/Golgi 腔側；細胞質面連醣的說法錯誤。\n- C. 穿膜區通常由非極性胺基酸形成 alpha helix，讓蛋白跨越脂質雙層。\n- D. 紅血球表面寡糖決定 ABO 等血型抗原，糖蛋白與糖脂都可承載相關醣鏈。\n\n【核心考點】Glycophorin oligosaccharides are exposed on the extracellular surface, not the cytoplasmic face。",
+      "key_point": "Glycophorin oligosaccharides are exposed on the extracellular surface, not the cytoplasmic face。",
+      "flashcard_front": "血型糖蛋白(glycophorin) / 寡糖鏈分布位置 / 細胞膜外側 vs 質面 / 穿膜結構",
+      "flashcard_back": "Glycophorin oligosaccharides are exposed on the extracellular surface, not the cytoplasmic face。",
+      "flashcard_summary": "血型糖蛋白(glycophorin) / 寡糖鏈分布位置 / 細胞膜外側 vs 質面 / 穿膜結構 -> Glycophorin oligosaccharides are exposed on the extracellular surface, not the cytoplasmic face。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】小腸腔側葡萄糖進入上皮細胞主要靠 SGLT1，利用鈉離子順電化學梯度共同運輸葡萄糖，屬次級主動運輸。\n\n【選項詳解】\n- A. 促進性擴散主要是 GLUT 介導，常見於基底側葡萄糖離開腸上皮細胞。\n- B. 葡萄糖與鈉離子同向進入細胞，不是反向交換運輸。\n- C. SGLT1 讓 Na+ 與 glucose 共同運輸進入小腸上皮細胞，是正確機制。\n- D. 葡萄糖本身不是由 ATPase 直接泵入細胞；能量間接來自 Na-K ATPase 維持鈉梯度。\n\n【核心考點】Apical intestinal glucose uptake uses Na+-glucose symport via SGLT1。",
+      "key_point": "Apical intestinal glucose uptake uses Na+-glucose symport via SGLT1。",
+      "flashcard_front": "葡萄糖腸道吸收 / SGLT1 / 共轉運(symport) / 促進性擴散(GLUT2)",
+      "flashcard_back": "Apical intestinal glucose uptake uses Na+-glucose symport via SGLT1。",
+      "flashcard_summary": "葡萄糖腸道吸收 / SGLT1 / 共轉運(symport) / 促進性擴散(GLUT2) -> Apical intestinal glucose uptake uses Na+-glucose symport via SGLT1。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】Glucogenic amino acids 可轉成 TCA 中間物。Histidine 代謝最後進入 glutamate，再成 alpha-ketoglutarate，不是 succinyl-CoA。\n\n【選項詳解】\n- A. Glutamate 可經轉胺或氧化脫胺成 alpha-ketoglutarate，配對正確。\n- B. Histidine 的 glucogenic 入口是 glutamate/alpha-ketoglutarate，配 succinyl-CoA 錯誤。\n- C. Aspartate 可轉成 oxaloacetate，是典型 glucogenic 路徑。\n- D. Tyrosine 可分解產生 fumarate，同時也有 ketogenic 成分，這個配對可成立。\n\n【核心考點】Histidine is converted to glutamate and then alpha-ketoglutarate, not succinyl-CoA。",
+      "key_point": "Histidine is converted to glutamate and then alpha-ketoglutarate, not succinyl-CoA。",
+      "flashcard_front": "生糖胺基酸 TCA 中間物 / 天冬胺酸草醯乙酸 / 麩胺酸組胺酸α-酮基戊二酸 / 酪胺酸反丁烯二酸",
+      "flashcard_back": "Histidine is converted to glutamate and then alpha-ketoglutarate, not succinyl-CoA。",
+      "flashcard_summary": "生糖胺基酸 TCA 中間物 / 天冬胺酸草醯乙酸 / 麩胺酸組胺酸α-酮基戊二酸 / 酪胺酸反丁烯二酸 -> Histidine is converted to glutamate and then alpha-ketoglutarate, not succinyl-CoA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】長期高蛋白但低澱粉攝取會使胰島素低、脂肪酸氧化與肝臟 ketogenesis 增加，血中酮體上升。\n\n【選項詳解】\n- A. 高蛋白攝取會增加胺基酸氮負荷，尿素生成與尿中尿素通常增加，不會顯著減少。\n- B. 極少澱粉使身體偏動員脂肪作能量，不是單純大量累積脂肪。\n- C. 低醣狀態促進脂肪酸 beta-oxidation 與酮體生成，血中酮體會升高。\n- D. 酮體增加偏向代謝性酸負荷，不是典型代謝性鹼中毒。\n\n【核心考點】Very low carbohydrate intake promotes fatty acid oxidation and ketone body production。",
+      "key_point": "Very low carbohydrate intake promotes fatty acid oxidation and ketone body production。",
+      "flashcard_front": "高蛋白低碳水飲食 / 糖質新生消耗草醯乙酸 / 乙醯輔酶A堆積 / 酮體上升",
+      "flashcard_back": "Very low carbohydrate intake promotes fatty acid oxidation and ketone body production。",
+      "flashcard_summary": "高蛋白低碳水飲食 / 糖質新生消耗草醯乙酸 / 乙醯輔酶A堆積 / 酮體上升 -> Very low carbohydrate intake promotes fatty acid oxidation and ketone body production。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】電子傳遞鏈最後階段是 complex IV 將電子傳給氧氣並還原成水。Complex IV 又稱 cytochrome c oxidase。\n\n【選項詳解】\n- A. Cytochrome oxidase 位於電子傳遞鏈末端，負責把電子交給氧氣。\n- B. Succinate dehydrogenase 是 complex II，負責把 FADH2 電子送入 ubiquinone，不是最後階段。\n- C. Ubiquinone:cytochrome c oxidoreductase 是 complex III，位在 complex IV 之前。\n- D. NADH dehydrogenase 是 complex I，是 NADH 電子進入傳遞鏈的起點之一。\n\n【核心考點】Cytochrome c oxidase = complex IV, the terminal enzyme reducing O2 to H2O。",
+      "key_point": "Cytochrome c oxidase = complex IV, the terminal enzyme reducing O2 to H2O。",
+      "flashcard_front": "電子傳遞鏈複合體 / Complex IV / cytochrome c oxidase / 終端電子接受者",
+      "flashcard_back": "Cytochrome c oxidase = complex IV, the terminal enzyme reducing O2 to H2O。",
+      "flashcard_summary": "電子傳遞鏈複合體 / Complex IV / cytochrome c oxidase / 終端電子接受者 -> Cytochrome c oxidase = complex IV, the terminal enzyme reducing O2 to H2O。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】被荷爾蒙活化的 phospholipase C 會切 PIP2，產生 DAG 與 IP3。DAG 活化 PKC，IP3 促進內質網釋放鈣離子，使細胞質鈣上升；題目問錯誤故選 D。\n\n【選項詳解】\n- A. PLC 的典型受質是 phosphatidylinositol 4,5-bisphosphate，也就是 PIP2。\n- B. DAG 留在膜上並活化 protein kinase C，是 PLC 訊號的重要分支。\n- C. 許多 Gq-coupled receptors 可活化 PLC-beta，屬 G protein 連結受器路徑。\n- D. IP3 會促進內質網釋放 Ca2+，使細胞質鈣濃度增加，不是減少。\n\n【核心考點】PLC cleaves PIP2 into DAG and IP3; IP3 increases cytosolic Ca2+。",
+      "key_point": "PLC cleaves PIP2 into DAG and IP3; IP3 increases cytosolic Ca2+。",
+      "flashcard_front": "Gq-PLC路徑 / PIP2水解 / IP3與DAG / 胞質鈣離子增加",
+      "flashcard_back": "PLC cleaves PIP2 into DAG and IP3; IP3 increases cytosolic Ca2+。",
+      "flashcard_summary": "Gq-PLC路徑 / PIP2水解 / IP3與DAG / 胞質鈣離子增加 -> PLC cleaves PIP2 into DAG and IP3; IP3 increases cytosolic Ca2+。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】Ras 活化狀態取決於是否結合 GTP。致癌性 Ras 突變常使 GTP 水解失效，尤其無法被 GAP 有效促進水解，因此長時間停留在 GTP-bound 活化狀態。\n\n【選項詳解】\n- A. 若只是增加 GDP 親和力，Ras 會偏失活狀態，不能解釋持續活化。\n- B. 突變 Ras 不受 GAP 正常促進 GTP 水解調控，會維持活化訊號。\n- C. 膜受體與激素結合能力下降會減少上游刺激，並非 Ras 自身持續活化原因。\n- D. Ras 是小 GTPase，不是典型異三聚體 G protein；增加受體與 G protein 結合不是主要機轉。\n\n【核心考點】Oncogenic Ras remains active because GAP-stimulated GTP hydrolysis is impaired。",
+      "key_point": "Oncogenic Ras remains active because GAP-stimulated GTP hydrolysis is impaired。",
+      "flashcard_front": "Ras蛋白活化循環 / G蛋白 / GAP (GTPase-activating protein) / 癌症突變持續活化",
+      "flashcard_back": "Oncogenic Ras remains active because GAP-stimulated GTP hydrolysis is impaired。",
+      "flashcard_summary": "Ras蛋白活化循環 / G蛋白 / GAP (GTPase-activating protein) / 癌症突變持續活化 -> Oncogenic Ras remains active because GAP-stimulated GTP hydrolysis is impaired。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】Genomic library 是把基因組 DNA 切割後接入載體保存，因此需要 restriction enzymes、DNA ligase 與載體如 lambda phage。Reverse transcriptase 是製作 cDNA library 時由 mRNA 反轉錄才需要。\n\n【選項詳解】\n- A. DNA ligase 用於把基因組 DNA 片段接入載體，是建立 genomic library 會用到的材料。\n- B. Bacteriophage lambda 可作為容納 DNA 片段的載體，適合 library 建構。\n- C. Reverse transcriptase 用於由 RNA 製作 cDNA，不是建立 genomic library 的必要材料。\n- D. Restriction enzymes 可切割 genomic DNA 與載體，產生可連接的片段。\n\n【核心考點】Genomic library uses genomic DNA fragments; reverse transcriptase is for cDNA library construction。",
+      "key_point": "Genomic library uses genomic DNA fragments; reverse transcriptase is for cDNA library construction。",
+      "flashcard_front": "基因體文庫(genomic library) / cDNA文庫 / 限制酶與連接酶 / 反轉錄酶(reverse transcriptase)",
+      "flashcard_back": "Genomic library uses genomic DNA fragments; reverse transcriptase is for cDNA library construction。",
+      "flashcard_summary": "基因體文庫(genomic library) / cDNA文庫 / 限制酶與連接酶 / 反轉錄酶(reverse transcriptase) -> Genomic library uses genomic DNA fragments; reverse transcriptase is for cDNA library construction。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

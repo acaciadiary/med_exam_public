@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-1.json",
+  "dataset_id": "108-2_medicine-1",
+  "range": {
+    "start": 65,
+    "end": 76
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】逆流倍增靠亨利氏環上升段粗枝主動再吸收 NaCl，特別是 NKCC2 與 Na-K ATPase，建立髓質滲透壓梯度。題目問錯誤，C 把運輸蛋白與方向都寫錯。\n\n【選項詳解】\n- A. 逆流機制的目的正是建立並維持髓質垂直滲透壓梯度，利於濃縮尿液。\n- B. 上升段粗枝以基底外側 Na-K ATPase 提供能量，驅動 NaCl 再吸收。\n- C. 上升段粗枝使用 Na-K-2Cl cotransporter 將離子由管腔再吸收，不是用 Na-Cl cotransporter 分泌到管腔。\n- D. 直管以逆流交換保存髓質梯度，避免血流把梯度洗掉。\n\n【核心考點】Thick ascending limb reabsorbs NaCl via NKCC2; it does not secrete NaCl into the tubular lumen via NCC。",
+      "key_point": "Thick ascending limb reabsorbs NaCl via NKCC2; it does not secrete NaCl into the tubular lumen via NCC。",
+      "flashcard_front": "腎臟逆流機制 / 亨氏管上升段粗枝(TAL) / NKCC2 / Na-Cl共轉運體(NCC)",
+      "flashcard_back": "Thick ascending limb reabsorbs NaCl via NKCC2; it does not secrete NaCl into the tubular lumen via NCC。",
+      "flashcard_summary": "腎臟逆流機制 / 亨氏管上升段粗枝(TAL) / NKCC2 / Na-Cl共轉運體(NCC) -> Thick ascending limb reabsorbs NaCl via NKCC2; it does not secrete NaCl into the tubular lumen via NCC。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】鈉再吸收在各段腎小管有固定 transporter：近端以 SGLT 等共同運輸，上升段粗枝用 NKCC2，遠曲小管用 NCC，ENaC 主要在晚遠曲與集尿管。\n\n【選項詳解】\n- A. 近端小管大量鈉再吸收，包含鈉-葡萄糖共同轉運蛋白，是正確方向。\n- B. 亨利氏環上升段粗枝使用 Na-K-2Cl cotransporter，對袢利尿劑敏感。\n- C. 上升段細枝不是上皮鈉通道的典型位置，因此此敘述錯誤。\n- D. 遠曲小管使用 Na-Cl cotransporter，對 thiazide 類利尿劑敏感。\n\n【核心考點】Thin ascending limb 不是 ENaC 主要作用處；ENaC 在 late distal tubule/collecting duct。",
+      "key_point": "Thin ascending limb 不是 ENaC 主要作用處；ENaC 在 late distal tubule/collecting duct。",
+      "flashcard_front": "鈉離子再吸收通道 / ENaC位置 / 遠曲小管NCC / 亨氏環上升段NKCC2",
+      "flashcard_back": "Thin ascending limb 不是 ENaC 主要作用處；ENaC 在 late distal tubule/collecting duct。",
+      "flashcard_summary": "鈉離子再吸收通道 / ENaC位置 / 遠曲小管NCC / 亨氏環上升段NKCC2 -> Thin ascending limb 不是 ENaC 主要作用處；ENaC 在 late distal tubule/collecting duct。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】Aldosterone 與 testosterone 是類固醇，1,25-dihydroxycholecalciferol 是維生素 D 衍生的 secosteroid；thyroxine 是碘化酪胺酸衍生物，化學屬性不同。\n\n【選項詳解】\n- A. Aldosterone 是腎上腺皮質製造的礦物皮質類固醇。\n- B. 1,25-dihydroxycholecalciferol 由維生素 D 轉化，屬 secosteroid 類訊號分子。\n- C. Thyroxine 是含碘酪胺酸衍生物，不屬類固醇骨架，因此與其他三者不同。\n- D. Testosterone 是性腺製造的類固醇荷爾蒙。\n\n【核心考點】Thyroxine is an iodinated tyrosine derivative; the others are steroid/secosteroid hormones。",
+      "key_point": "Thyroxine is an iodinated tyrosine derivative; the others are steroid/secosteroid hormones。",
+      "flashcard_front": "激素化學結構分類 / 類固醇激素 / 甲狀腺素(thyroxine) / 胺基酸衍生物",
+      "flashcard_back": "Thyroxine is an iodinated tyrosine derivative; the others are steroid/secosteroid hormones。",
+      "flashcard_summary": "激素化學結構分類 / 類固醇激素 / 甲狀腺素(thyroxine) / 胺基酸衍生物 -> Thyroxine is an iodinated tyrosine derivative; the others are steroid/secosteroid hormones。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】血鉀升高會直接刺激腎上腺皮質球狀帶分泌 aldosterone，促進遠端腎元排鉀並保鈉。\n\n【選項詳解】\n- A. ADH 主要受血漿滲透壓與有效循環量調控，核心作用是水分再吸收。\n- B. Angiotensinogen 由肝臟製造，是 RAAS 前驅蛋白，不是高血鉀最直接上升的激素。\n- C. Aldosterone 對高血鉀反應明顯，可增加集尿管主細胞鉀分泌。\n- D. ANP 主要因心房伸展增加而分泌，促進排鈉，與高血鉀直接調控不如 aldosterone。\n\n【核心考點】Hyperkalemia directly increases aldosterone secretion from zona glomerulosa。",
+      "key_point": "Hyperkalemia directly increases aldosterone secretion from zona glomerulosa。",
+      "flashcard_front": "高血鉀刺激 / 醛固酮(aldosterone) / 腎上腺皮質球狀帶 / 鉀離子排出",
+      "flashcard_back": "Hyperkalemia directly increases aldosterone secretion from zona glomerulosa。",
+      "flashcard_summary": "高血鉀刺激 / 醛固酮(aldosterone) / 腎上腺皮質球狀帶 / 鉀離子排出 -> Hyperkalemia directly increases aldosterone secretion from zona glomerulosa。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】甲狀腺激素脂溶性高，血中多與結合蛋白運送，游離型進入細胞後主要結合核內受器調控基因轉錄。題目問錯誤，細胞膜受器說法不對。\n\n【選項詳解】\n- A. T3/T4 在血中多與 TBG、transthyretin、albumin 等蛋白結合運送。\n- B. 游離型甲狀腺激素進入細胞後作用於核內受器，不是主要結合細胞膜受器。\n- C. 甲狀腺激素半衰期較多數胜肽荷爾蒙長，尤其 T4 更明顯。\n- D. 甲狀腺激素受器作為轉錄調節因子，可改變標的基因轉錄。\n\n【核心考點】Free thyroid hormone binds intracellular/nuclear receptors, not primarily cell membrane receptors。",
+      "key_point": "Free thyroid hormone binds intracellular/nuclear receptors, not primarily cell membrane receptors。",
+      "flashcard_front": "甲狀腺素受器位置 / 親脂性 / 核內受器 / 半衰期TBG",
+      "flashcard_back": "Free thyroid hormone binds intracellular/nuclear receptors, not primarily cell membrane receptors。",
+      "flashcard_summary": "甲狀腺素受器位置 / 親脂性 / 核內受器 / 半衰期TBG -> Free thyroid hormone binds intracellular/nuclear receptors, not primarily cell membrane receptors。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】催產素由下視丘製造、後葉釋放，主要促進子宮收縮與乳腺肌上皮細胞收縮，造成排乳反射。\n\n【選項詳解】\n- A. 催產素促進子宮平滑肌收縮，不是促進子宮鬆弛。\n- B. 催產素使乳腺肌上皮細胞收縮，把乳汁推出乳腺管，是主要作用之一。\n- C. 抑制黃體分解不是人類催產素的主要生理考點。\n- D. 抑制 PGF2α 分泌不是催產素在此題要考的核心作用。\n\n【核心考點】Oxytocin causes milk ejection and uterine contraction。",
+      "key_point": "Oxytocin causes milk ejection and uterine contraction。",
+      "flashcard_front": "催產素(oxytocin)功能 / 排乳作用(milk ejection) / 肌上皮細胞 / 子宮收縮",
+      "flashcard_back": "Oxytocin causes milk ejection and uterine contraction。",
+      "flashcard_summary": "催產素(oxytocin)功能 / 排乳作用(milk ejection) / 肌上皮細胞 / 子宮收縮 -> Oxytocin causes milk ejection and uterine contraction。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】Klinefelter syndrome 多為 47,XXY，睪丸發育不全造成低 testosterone 與精子稀少；因性腺功能低下，LH/FSH 會代償性升高。\n\n【選項詳解】\n- A. 47,XXY 是最常見核型，符合 Klinefelter syndrome。\n- B. 曲細精管功能不良常導致寡精或無精，造成不孕。\n- C. 睪固酮分泌偏低是性腺功能低下的結果。\n- D. LH 與 FSH 通常因負回饋不足而升高，不是降低，因此為錯誤敘述。\n\n【核心考點】Klinefelter syndrome 是 hypergonadotropic hypogonadism：low testosterone with high LH/FSH。",
+      "key_point": "Klinefelter syndrome 是 hypergonadotropic hypogonadism：low testosterone with high LH/FSH。",
+      "flashcard_front": "Klinefelter's syndrome / 47, XXY / 睪固酮濃度 / LH與FSH回饋",
+      "flashcard_back": "Klinefelter syndrome 是 hypergonadotropic hypogonadism：low testosterone with high LH/FSH。",
+      "flashcard_summary": "Klinefelter's syndrome / 47, XXY / 睪固酮濃度 / LH與FSH回饋 -> Klinefelter syndrome 是 hypergonadotropic hypogonadism：low testosterone with high LH/FSH。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】高 prolactin 會抑制 GnRH，進而降低 LH/FSH 與 testosterone，造成性功能障礙。藥物、腦下垂體腫瘤或下視丘-垂體柄病灶都可造成高泌乳素；隱睪症不會解釋 prolactin 150 ng/mL。\n\n【選項詳解】\n- A. 抑制 dopamine 會移除對 prolactin 的抑制，使 prolactin 上升並降低性腺軸功能。\n- B. 腦下垂體 prolactinoma 可直接造成高 prolactin 與低 testosterone。\n- C. 靠近腦下垂體的下視丘或垂體柄病灶會阻斷 dopamine 抑制，也可使 prolactin 上升。\n- D. 隱睪症可影響睪丸生精或功能，但不能解釋明顯高 prolactin，因此最不可能。\n\n【核心考點】Hyperprolactinemia suppresses GnRH; cryptorchidism causes testicular problems but not marked prolactin elevation。",
+      "key_point": "Hyperprolactinemia suppresses GnRH; cryptorchidism causes testicular problems but not marked prolactin elevation。",
+      "flashcard_front": "高泌乳素血症(hyperprolactinemia) / 低睪固酮 / 多巴胺抑制 / 隱睪症",
+      "flashcard_back": "Hyperprolactinemia suppresses GnRH; cryptorchidism causes testicular problems but not marked prolactin elevation。",
+      "flashcard_summary": "高泌乳素血症(hyperprolactinemia) / 低睪固酮 / 多巴胺抑制 / 隱睪症 -> Hyperprolactinemia suppresses GnRH; cryptorchidism causes testicular problems but not marked prolactin elevation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】雙硫鍵由兩個 cysteine 側鏈的 thiol 氧化形成 cystine。Methionine 雖含硫，但其硫是 thioether，不形成典型蛋白質雙硫鍵。\n\n【選項詳解】\n- A. 甲硫胺酸側鏈硫原子不具形成雙硫鍵所需的 thiol，因此此敘述錯誤。\n- B. 強還原劑可把雙硫鍵還原成兩個 thiol，使鍵結斷裂。\n- C. 雙硫鍵可限制蛋白質構形，提高許多蛋白質的穩定性。\n- D. 雙硫鍵異構酶可協助錯配雙硫鍵重排，是蛋白質摺疊的重要酵素。\n\n【核心考點】Disulfide bonds form between cysteine residues, not methionine residues。",
+      "key_point": "Disulfide bonds form between cysteine residues, not methionine residues。",
+      "flashcard_front": "雙硫鍵(disulfide bond)形成 / 半胱胺酸(cysteine) / 甲硫胺酸(methionine) / 還原劑斷裂",
+      "flashcard_back": "Disulfide bonds form between cysteine residues, not methionine residues。",
+      "flashcard_summary": "雙硫鍵(disulfide bond)形成 / 半胱胺酸(cysteine) / 甲硫胺酸(methionine) / 還原劑斷裂 -> Disulfide bonds form between cysteine residues, not methionine residues。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】Glycine 在高 pH 強鹼環境下，羧基去質子化為 COO-，胺基也失去質子成 NH2，因此 pH 12 時主要型態是 NH2-CH2-COO-。\n\n【選項詳解】\n- A. NH3+-CH2-COOH 是強酸環境下較質子化的型態，不符合 pH 12。\n- B. NH2-CH2-COO- 同時呈去質子化羧酸鹽與中性胺基，符合強鹼完成滴定後主要型態。\n- C. NH2-CH3+-COO- 結構本身把主鏈寫錯，glycine 中間應為 CH2。\n- D. NH3+-CH2-COO- 是接近等電點附近的 zwitterion，高 pH 下胺基會去質子化。\n\n【核心考點】At strongly basic pH, glycine is mainly NH2-CH2-COO-。",
+      "key_point": "At strongly basic pH, glycine is mainly NH2-CH2-COO-。",
+      "flashcard_front": "甘胺酸(glycine)滴定 / pH=12解離狀態 / pKa1與pKa2 / 胺基酸帶電性",
+      "flashcard_back": "At strongly basic pH, glycine is mainly NH2-CH2-COO-。",
+      "flashcard_summary": "甘胺酸(glycine)滴定 / pH=12解離狀態 / pKa1與pKa2 / 胺基酸帶電性 -> At strongly basic pH, glycine is mainly NH2-CH2-COO-。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

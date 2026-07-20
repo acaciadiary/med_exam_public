@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-1.json",
+  "dataset_id": "108-2_medicine-1",
+  "range": {
+    "start": 77,
+    "end": 88
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】素食合併惡性貧血指向維生素 B12 缺乏。B12 又稱 cobalamin，核心金屬離子是鈷；吸收需要胃壁細胞分泌的 intrinsic factor。\n\n【選項詳解】\n- A. Cyanocobalamin 是補充劑或儲存形式之一，活性輔酶型主要是 methylcobalamin 與 adenosylcobalamin，不是必須含氰基才活化。\n- B. B12 的金屬不是鐵；含鐵的代表是 heme 類分子。\n- C. Cobalamin 名稱即來自其含鈷離子，符合題目問的含金屬水溶性維生素。\n- D. 促進 B12 吸收的 intrinsic factor 由胃壁細胞分泌，吸收位置在末端迴腸，不是小腸壁細胞分泌。\n\n【核心考點】Vitamin B12 contains cobalt and requires gastric intrinsic factor for ileal absorption。",
+      "key_point": "Vitamin B12 contains cobalt and requires gastric intrinsic factor for ileal absorption。",
+      "flashcard_front": "維生素 B12 (cobalamin) / 惡性貧血 / 鈷離子 / 內在因子(intrinsic factor)",
+      "flashcard_back": "Vitamin B12 contains cobalt and requires gastric intrinsic factor for ileal absorption。",
+      "flashcard_summary": "維生素 B12 (cobalamin) / 惡性貧血 / 鈷離子 / 內在因子(intrinsic factor) -> Vitamin B12 contains cobalt and requires gastric intrinsic factor for ileal absorption。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】雙股 DNA 加熱到高溫會變性，主要破壞鹼基間氫鍵與鹼基堆疊，使雙股解旋並產生 260 nm 吸光度上升的 hyperchromic effect；一般不會斷裂 N-glycosidic covalent bond。\n\n【選項詳解】\n- A. 雙股解開後鹼基暴露，UV 260 nm 吸光度會增加，稱 hyperchromicity。\n- B. N-醣苷共價鍵連接鹼基與去氧核糖，單純加熱變性不會把此共價鍵當作主要斷裂目標。\n- C. 高溫會使雙股螺旋解開，這正是 DNA denaturation 的表現。\n- D. 在中性水溶液中加熱變性通常仍維持溶解，不等於 DNA 沉澱。\n\n【核心考點】DNA heat denaturation disrupts hydrogen bonds/base stacking, not N-glycosidic covalent bonds。",
+      "key_point": "DNA heat denaturation disrupts hydrogen bonds/base stacking, not N-glycosidic covalent bonds。",
+      "flashcard_front": "DNA熱變性(denaturation) / 氫鍵破壞 / N-醣苷鍵與共價鍵 / 增色效應",
+      "flashcard_back": "DNA heat denaturation disrupts hydrogen bonds/base stacking, not N-glycosidic covalent bonds。",
+      "flashcard_summary": "DNA熱變性(denaturation) / 氫鍵破壞 / N-醣苷鍵與共價鍵 / 增色效應 -> DNA heat denaturation disrupts hydrogen bonds/base stacking, not N-glycosidic covalent bonds。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】DNA polymerase 只能從既有核酸鏈的 3'-OH 端延長，不能從零開始合成。因此複製需要 RNA primer 提供可延伸的 3'-OH。\n\n【選項詳解】\n- A. 聚合反應需要的是 3'-OH 攻擊 incoming dNTP 的磷酸，不是 3'-端磷酸基。\n- B. RNA 引子提供自由 3'-OH，讓 DNA polymerase 可以開始延長。\n- C. 5'-OH 不是 DNA polymerase 延長反應的攻擊端。\n- D. 5'-磷酸基可參與後續連接或鏈方向性描述，但不是啟動聚合所需端點。\n\n【核心考點】DNA polymerase requires a free 3'-OH supplied by RNA primer。",
+      "key_point": "DNA polymerase requires a free 3'-OH supplied by RNA primer。",
+      "flashcard_front": "DNA複製引子 / RNA primer / DNA聚合酶限制 / 3'-OH羥基",
+      "flashcard_back": "DNA polymerase requires a free 3'-OH supplied by RNA primer。",
+      "flashcard_summary": "DNA複製引子 / RNA primer / DNA聚合酶限制 / 3'-OH羥基 -> DNA polymerase requires a free 3'-OH supplied by RNA primer。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】人類染色體很長，若每條只有一個複製原點會來不及完成 S phase。真核染色體有多個 replication origins 同步或分時啟動。\n\n【選項詳解】\n- A. 單一複製原點是細菌環狀染色體常見概念，不適用人類每條染色體。\n- B. 兩個複製原點仍遠低於真核大型染色體所需數量。\n- C. 三個複製原點不足以支撐人類染色體在 S phase 完成複製。\n- D. 人類每條染色體有多個複製原點，數量明顯大於三個。\n\n【核心考點】Each human chromosome has many replication origins, far more than three。",
+      "key_point": "Each human chromosome has many replication origins, far more than three。",
+      "flashcard_front": "複製原點(replication origin) / 真核與原核染色體 / 人類染色體 / 多起點複製",
+      "flashcard_back": "Each human chromosome has many replication origins, far more than three。",
+      "flashcard_summary": "複製原點(replication origin) / 真核與原核染色體 / 人類染色體 / 多起點複製 -> Each human chromosome has many replication origins, far more than three。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】Ras 是小 GTPase，活化時結合 GTP，失活時水解成 GDP。Ras 的膜定位靠 C 端 CAAX motif 的 cysteine 被 farnesylation，不是 N 端胺基與 farnesyl 結合。\n\n【選項詳解】\n- A. Ras 突變若使 GTP 水解受阻，會持續傳遞增生訊號，常見於癌症。\n- B. Ras 經 prenylation 等修飾後可附著於細胞膜內側，利於訊號傳遞。\n- C. Farnesyl 接在 Ras C 端 CAAX motif 的 cysteine，不是 N 端氨基，因此此敘述錯誤。\n- D. Farnesyl 屬 isoprenoid，和膽固醇合成都使用 mevalonate pathway 相關前驅物。\n\n【核心考點】Ras farnesylation occurs on a C-terminal cysteine in the CAAX motif, not the N-terminal amino group。",
+      "key_point": "Ras farnesylation occurs on a C-terminal cysteine in the CAAX motif, not the N-terminal amino group。",
+      "flashcard_front": "Ras蛋白修飾 / 法尼基化(farnesylation) / C端半胱氨酸 / 膽固醇途徑前驅物",
+      "flashcard_back": "Ras farnesylation occurs on a C-terminal cysteine in the CAAX motif, not the N-terminal amino group。",
+      "flashcard_summary": "Ras蛋白修飾 / 法尼基化(farnesylation) / C端半胱氨酸 / 膽固醇途徑前驅物 -> Ras farnesylation occurs on a C-terminal cysteine in the CAAX motif, not the N-terminal amino group。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】α-amanitin 對真核 RNA polymerase 的抑制以 RNA polymerase II 最敏感；Pol III 需較高濃度，Pol I 相對不敏感。\n\n【選項詳解】\n- A. RNA polymerase I 主要合成大型 rRNA 前驅物，對 α-amanitin 相對不敏感。\n- B. RNA polymerase II 合成 mRNA 前驅物，對 α-amanitin 最敏感。\n- C. RNA polymerase III 合成 tRNA 與 5S rRNA 等，抑制敏感度低於 Pol II。\n- D. Reverse transcriptase 是 RNA-dependent DNA polymerase，不是此毒素敏感性分類中的真核 RNA polymerase。\n\n【核心考點】RNA polymerase II is most sensitive to alpha-amanitin。",
+      "key_point": "RNA polymerase II is most sensitive to alpha-amanitin。",
+      "flashcard_front": "α-amanitin (死帽蕈毒素) 敏感性 / RNA聚合酶I, II, III / 真核轉錄抑制",
+      "flashcard_back": "RNA polymerase II is most sensitive to alpha-amanitin。",
+      "flashcard_summary": "α-amanitin (死帽蕈毒素) 敏感性 / RNA聚合酶I, II, III / 真核轉錄抑制 -> RNA polymerase II is most sensitive to alpha-amanitin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】Hyaluronic acid 是非硫酸化 glycosaminoglycan，重複雙醣單位為 D-glucuronic acid 與 N-acetylglucosamine。\n\n【選項詳解】\n- A. Galactose 加 N-acetylgalactosamine 較像某些其他醣胺聚醣組合，不是透明質酸。\n- B. Glucose 與 fructose 是一般單醣組合，不能構成 hyaluronic acid 的典型重複單位。\n- C. D-glucuronic acid 與 N-acetylglucosamine 正是 hyaluronic acid 的重複雙醣。\n- D. N-acetylgalactosamine 出現在 chondroitin sulfate 等分子中，透明質酸用的是 N-acetylglucosamine。\n\n【核心考點】Hyaluronic acid repeats D-glucuronic acid + N-acetylglucosamine。",
+      "key_point": "Hyaluronic acid repeats D-glucuronic acid + N-acetylglucosamine。",
+      "flashcard_front": "琉璃醣醛酸(hyaluronic acid)重複單位 / 玻尿酸結構 / D-glucuronic acid / N-acetylglucosamine",
+      "flashcard_back": "Hyaluronic acid repeats D-glucuronic acid + N-acetylglucosamine。",
+      "flashcard_summary": "琉璃醣醛酸(hyaluronic acid)重複單位 / 玻尿酸結構 / D-glucuronic acid / N-acetylglucosamine -> Hyaluronic acid repeats D-glucuronic acid + N-acetylglucosamine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】胰島素是進食後促進儲存與利用葡萄糖的荷爾蒙，會促進骨骼肌與脂肪細胞 GLUT4 轉位，增加葡萄糖攝取。\n\n【選項詳解】\n- A. 胰島素傾向活化 phosphodiesterase、降低 cAMP；抑制 PDE 比較像升高 cAMP 的方向。\n- B. 胰島素會增加肝細胞 fructose-2,6-bisphosphate，促進糖解並抑制糖質新生。\n- C. 胰島素促進糖解、肝醣合成與脂肪合成，不是抑制肝細胞糖解。\n- D. 胰島素刺激 GLUT4 移到肌肉細胞膜，增加葡萄糖進入細胞。\n\n【核心考點】Insulin stimulates GLUT4-mediated glucose uptake in muscle and adipose tissue。",
+      "key_point": "Insulin stimulates GLUT4-mediated glucose uptake in muscle and adipose tissue。",
+      "flashcard_front": "胰島素生理作用 / 活化PDE / F-2,6-BP增加 / GLUT4轉位肌肉",
+      "flashcard_back": "Insulin stimulates GLUT4-mediated glucose uptake in muscle and adipose tissue。",
+      "flashcard_summary": "胰島素生理作用 / 活化PDE / F-2,6-BP增加 / GLUT4轉位肌肉 -> Insulin stimulates GLUT4-mediated glucose uptake in muscle and adipose tissue。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】紅血球糖解支路產生 2,3-BPG，它結合去氧血紅素並降低血紅素對氧的親和力，使氧解離曲線右移。\n\n【選項詳解】\n- A. 1,3-bisphosphoglycerate 是糖解中間物，可產 ATP，但不是調節 Hb 氧親和力的主要分子。\n- B. 2,3-bisphosphoglycerate 會結合 Hb，降低氧親和力，是本題答案。\n- C. Fructose 1,6-bisphosphate 是糖解早期中間物，不直接調節血紅素帶氧能力。\n- D. Fructose 2,6-bisphosphate 調節 PFK-1 與糖質新生，與 Hb 氧親和力無直接關係。\n\n【核心考點】2,3-BPG decreases hemoglobin O2 affinity and promotes oxygen unloading。",
+      "key_point": "2,3-BPG decreases hemoglobin O2 affinity and promotes oxygen unloading。",
+      "flashcard_front": "2,3-BPG (2,3-bisphosphoglycerate) / 血紅蛋白氧親和力 / 氧解離曲線右偏 / 紅血球糖解側支",
+      "flashcard_back": "2,3-BPG decreases hemoglobin O2 affinity and promotes oxygen unloading。",
+      "flashcard_summary": "2,3-BPG (2,3-bisphosphoglycerate) / 血紅蛋白氧親和力 / 氧解離曲線右偏 / 紅血球糖解側支 -> 2,3-BPG decreases hemoglobin O2 affinity and promotes oxygen unloading。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】受質階層磷酸化是高能中間物直接把磷酸轉給 ADP/GDP。PEP、1,3-BPG 與 succinyl-CoA 可直接產生 ATP/GTP；2-phosphoglycerate 不能直接做到。\n\n【選項詳解】\n- A. 2-phosphoglycerate 需先轉成 phosphoenolpyruvate，自己不能直接生成 ATP。\n- B. Phosphoenolpyruvate 經 pyruvate kinase 可直接產生 ATP。\n- C. Succinyl-CoA 經 succinyl-CoA synthetase 可產生 GTP，屬 TCA 的受質階層磷酸化。\n- D. 1,3-bisphosphoglycerate 經 phosphoglycerate kinase 可直接產生 ATP。\n\n【核心考點】2-phosphoglycerate is not a direct substrate-level phosphorylation donor。",
+      "key_point": "2-phosphoglycerate is not a direct substrate-level phosphorylation donor。",
+      "flashcard_front": "受質階層磷酸化 / 糖解與TCA產生ATP / 1,3-BPG與PEP / 2-phosphoglycerate",
+      "flashcard_back": "2-phosphoglycerate is not a direct substrate-level phosphorylation donor。",
+      "flashcard_summary": "受質階層磷酸化 / 糖解與TCA產生ATP / 1,3-BPG與PEP / 2-phosphoglycerate -> 2-phosphoglycerate is not a direct substrate-level phosphorylation donor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

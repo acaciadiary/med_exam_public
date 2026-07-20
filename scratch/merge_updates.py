@@ -1,65 +1,104 @@
 import os
+import sys
 import json
-import glob
+from pathlib import Path
+from datetime import datetime, timezone
 
-def merge():
-    source_file_path = "public/data/exams/109-1/medicine-1.json"
-    updates_dir = "scratch/rewrite_updates/109-1_medicine-1"
+def clean(value):
+    import re
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+def clean_preserve_newlines(value):
+    import re
+    text = str(value or "").replace("\r\n", "\n").strip()
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*\n", "\n\n", text)
+    return text
+
+def main():
+    target_json_path = Path("public/data/exams/110-1/medicine-1.json")
+    updates_dir = Path("scratch/rewrite_updates/110-1_medicine-1")
     
-    if not os.path.exists(source_file_path):
-        print(f"Error: Source file {source_file_path} not found.")
-        return
+    if not target_json_path.exists():
+        print(f"Error: Target file {target_json_path} does not exist.")
+        sys.exit(1)
         
-    with open(source_file_path, "r", encoding="utf-8") as f:
-        source_data = json.load(f)
+    if not updates_dir.exists():
+        print(f"Error: Updates directory {updates_dir} does not exist. No updates to merge.")
+        sys.exit(1)
         
-    questions = source_data.get("questions", [])
-    question_map = {q["id"]: q for q in questions}
+    # Read original exam data
+    with open(target_json_path, 'r', encoding='utf-8') as f:
+        exam_data = json.load(f)
+        
+    questions_dict = {q["id"]: q for q in exam_data.get("questions", [])}
     
-    update_files = glob.glob(os.path.join(updates_dir, "q*.json"))
-    if not update_files:
-        print(f"Error: No update files found in {updates_dir}.")
-        return
-        
-    merged_count = 0
+    success_count = 0
+    issues = []
     
-    for up_path in sorted(update_files):
-        print(f"Processing update file: {up_path}")
-        with open(up_path, "r", encoding="utf-8") as f:
-            up_data = json.load(f)
+    # Read all update JSONs in updates_dir
+    update_files = sorted(list(updates_dir.glob("*.json")))
+    print(f"Found {len(update_files)} update files in {updates_dir}.")
+    
+    for uf in update_files:
+        print(f"Processing {uf.name}...")
+        try:
+            with open(uf, 'r', encoding='utf-8') as f:
+                batch_data = json.load(f)
+        except Exception as e:
+            issues.append(f"Failed to parse JSON for file {uf.name}: {e}")
+            continue
             
-        updates = up_data.get("updates", [])
-        for update in updates:
-            q_id = update["question_id"]
-            if q_id in question_map:
-                target_q = question_map[q_id]
+        # Verify dataset_id
+        if batch_data.get("dataset_id") != "110-1_medicine-1":
+            issues.append(f"File {uf.name} has incorrect dataset_id: {batch_data.get('dataset_id')}")
+            continue
+            
+        updates = batch_data.get("updates", [])
+        for item in updates:
+            qid = item.get("question_id")
+            if not qid:
+                issues.append(f"File {uf.name} contains update with missing question_id.")
+                continue
                 
-                # 合併允許的欄位
-                allowed_fields = [
-                    "explanation",
-                    "key_point",
-                    "flashcard_summary",
-                    "flashcard_front",
-                    "flashcard_back",
-                    "review_status",
-                    "explanation_model",
-                    "explanation_generated_at",
-                    "manual_review_notes"
-                ]
+            orig_q = questions_dict.get(qid)
+            if not orig_q:
+                issues.append(f"Question ID {qid} from {uf.name} not found in target exam.")
+                continue
                 
-                for field in allowed_fields:
-                    if field in update:
-                        target_q[field] = update[field]
-                
-                merged_count += 1
-            else:
-                print(f"Warning: Question ID {q_id} from {up_path} not found in source file.")
-                
-    # 寫回原始檔案
-    with open(source_file_path, "w", encoding="utf-8") as f:
-        json.dump(source_data, f, ensure_ascii=False, indent=2)
+            # Perform verification of correct_answer if provided in update
+            if "correct_answer" in item:
+                if clean(item["correct_answer"]) != clean(orig_q.get("correct_answer")):
+                    issues.append(f"QID {qid}: correct_answer mismatch. Original: {orig_q.get('correct_answer')}, Update: {item['correct_answer']}")
+            
+            # Merge fields
+            orig_q["explanation"] = clean_preserve_newlines(item.get("explanation"))
+            orig_q["key_point"] = clean(item.get("key_point"))
+            
+            # Optional learning helper fields
+            for field in ["flashcard_front", "flashcard_back", "flashcard_summary", "review_status", "explanation_model", "explanation_generated_at"]:
+                if field in item:
+                    if field in ["flashcard_front", "flashcard_back", "flashcard_summary"]:
+                        orig_q[field] = clean(item[field])
+                    else:
+                        orig_q[field] = item[field]
+                        
+            success_count += 1
+            
+    if issues:
+        print("\n=== Issues Found during Merge ===")
+        for issue in issues:
+            print(f"- {issue}")
+        print("=================================\n")
+        # Exit with error if any issue
+        sys.exit(1)
         
-    print(f"Successfully merged {merged_count} question updates into {source_file_path}.")
+    # Write back to original JSON
+    exam_data["updated_at"] = datetime.now(timezone.utc).isoformat()
+    with open(target_json_path, 'w', encoding='utf-8') as f:
+        json.dump(exam_data, f, ensure_ascii=False, indent=2)
+        
+    print(f"Successfully merged {success_count} question updates into {target_json_path}.")
 
 if __name__ == "__main__":
-    merge()
+    main()
