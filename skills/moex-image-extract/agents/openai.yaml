@@ -1,0 +1,4 @@
+interface:
+  display_name: "MOEX Image Extract"
+  short_description: "Scan MOEX PDFs and map question images"
+  default_prompt: "Scan a MOEX question PDF for embedded or page-rendered images, produce a reviewable image-candidate report, and map approved image assets back to the correct exam JSON questions."
