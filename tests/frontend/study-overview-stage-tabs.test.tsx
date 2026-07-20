@@ -127,5 +127,6 @@ describe("StudyOverviewPage stage tabs", () => {
 
     expect(screen.getByText("115-2")).toBeInTheDocument();
     expect(screen.getByText("最新考卷")).toBeInTheDocument();
+    expect(screen.getByText("尚未申覆完成")).toBeInTheDocument();
   });
 });

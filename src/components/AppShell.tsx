@@ -30,6 +30,7 @@ import {
   getSubjectLabel,
   getSubjectNumber,
   groupExamsByStage,
+  isExamAppealPending,
 } from "../lib/examMetadata";
 import type { ExamManifestItem } from "../types/exam";
 import { ThemeToggle, type AppTheme } from "./ThemeToggle";
@@ -887,6 +888,7 @@ function FilterControl({
   const activeExam = exams.find((exam) => exam.id === activeExamId);
   const stageLabel = activeStage === "stage-1" ? "一階" : "二階";
   const subjectLabel = activeExam ? getSubjectLabel(activeExam) : "選擇科目";
+  const activeAppealPending = activeExam ? isExamAppealPending(activeExam) : false;
 
   return (
     <div className="flex min-w-0 max-w-full shrink items-center gap-1.5 font-hand">
@@ -911,6 +913,11 @@ function FilterControl({
           aria-expanded={filterOpen}
         >
           <span className="min-w-0 truncate">{activeYear}・{stageLabel}・{subjectLabel}</span>
+          {activeAppealPending ? (
+            <span className="hidden shrink-0 rounded-full bg-[#fff3cb] px-2 py-0.5 text-[10px] font-extrabold text-[#87693d] sm:inline-flex">
+              尚未申覆完成
+            </span>
+          ) : null}
           <ChevronDown size={12} className={clsx("shrink-0 transition", filterOpen && "rotate-180")} />
         </button>
 
@@ -965,6 +972,11 @@ function FilterControl({
                         )}
                       >
                         最新
+                      </span>
+                    ) : null}
+                    {isExamAppealPending({ year: opt.value }) ? (
+                      <span className="rounded-full bg-[#fff3cb] px-1.5 py-0.5 text-[10px] font-extrabold text-[#87693d]">
+                        尚未申覆完成
                       </span>
                     ) : null}
                   </button>

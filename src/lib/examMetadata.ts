@@ -2,6 +2,8 @@ import type { ExamManifestItem } from "../types/exam";
 
 export type ExamStage = "stage-1" | "stage-2";
 
+const appealPendingYears = new Set(["115-2"]);
+
 const subjectLabels: Record<number, string> = {
   1: "醫學一",
   2: "醫學二",
@@ -30,6 +32,10 @@ export function getSubjectLabel(exam: ExamManifestItem | { subject: string }) {
 
 export function getExamDisplayTitle(exam: ExamManifestItem | { year: string; subject: string }) {
   return `${exam.year}・${getStageLabel(getExamStage(exam))}・${getSubjectLabel(exam)}`;
+}
+
+export function isExamAppealPending(exam: ExamManifestItem | { year: string }) {
+  return appealPendingYears.has(exam.year);
 }
 
 export function groupExamsByStage(exams: ExamManifestItem[]) {

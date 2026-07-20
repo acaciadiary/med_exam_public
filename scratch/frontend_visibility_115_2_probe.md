@@ -90,3 +90,17 @@
 - 已更新 `C:\Users\User\.codex\skills\moex-extract\SKILL.md`。
 - 新增段落：`Frontend visibility after importing a new exam`。
 - 重點：新考卷匯入後，先檢查 manifest 與既有前台入口；若要提高可見性，優先使用既有選單與進度區塊的小標記，並用排序結果支援未來年份。
+
+## 申覆狀態追加紀錄
+
+- 115-2 目前先以前台標籤顯示 `尚未申覆完成`。
+- 標籤位置：
+  - 上方考卷選單。
+  - 我的進度年份區塊。
+- 實作方式：
+  - 在 `src/lib/examMetadata.ts` 集中記錄 pending appeal 年份。
+  - 前台元件只呼叫共用判斷，不改 manifest schema。
+- Skill 追加重點：
+  - 若使用者先寫詳解上線，未來申覆完成後不得直接重建覆蓋 `public/data/exams/<year>/*.json`。
+  - 應先抓取官方更正 PDF 到暫存區解析，再只合併 answer-related fields。
+  - 若官方答案改變，必須標記題目需要重新檢查詳解，避免詳解與新答案矛盾。

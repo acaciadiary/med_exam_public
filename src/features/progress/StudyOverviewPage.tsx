@@ -17,6 +17,7 @@ import {
   getExamStage,
   getStageLabel,
   getSubjectLabel,
+  isExamAppealPending,
   type ExamStage,
 } from "../../lib/examMetadata";
 import { storageKeys } from "../../lib/storageKeys";
@@ -292,6 +293,11 @@ export function StudyOverviewPage({
                       {year === latestYear ? (
                         <span className="rounded-full bg-[#e9f6f1] px-2 py-0.5 text-[10px] font-extrabold text-[#4c806e]">
                           最新考卷
+                        </span>
+                      ) : null}
+                      {isExamAppealPending({ year }) ? (
+                        <span className="rounded-full bg-[#fff3cb] px-2 py-0.5 text-[10px] font-extrabold text-[#87693d]">
+                          尚未申覆完成
                         </span>
                       ) : null}
                     </div>
