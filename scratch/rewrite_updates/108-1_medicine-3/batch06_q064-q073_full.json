@@ -1,0 +1,130 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-3.json",
+  "dataset_id": "108-1_medicine-3",
+  "range": {
+    "start": 64,
+    "end": 73
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\nCSF 開口壓高、白血球以淋巴球為主、蛋白只輕度上升，較像病毒、結核或隱球菌等慢性/亞急性腦膜炎型態。Klebsiella pneumoniae 細菌性腦膜炎通常為嗜中性球為主、蛋白高且葡萄糖低。\n\n【選項詳解】\n- A. HSV 可造成病毒性腦炎或腦膜腦炎，CSF 可呈淋巴球為主，因此不能排除。\n- B. 結核性腦膜炎常有高開口壓、淋巴球為主與亞急性病程，屬可能病原。\n- C. Cryptococcus neoformans 常造成高開口壓與淋巴球性腦膜炎，尤其免疫低下者要考慮。\n- D. Klebsiella pneumoniae 屬急性化膿性細菌性腦膜炎型態，通常嗜中性球為主，與本題 CSF 最不吻合。\n\n【核心考點】\n淋巴球性 CSF 加高開口壓較支持 HSV、TB、Cryptococcus；Klebsiella 最不典型。",
+      "key_point": "淋巴球性 CSF 加高開口壓較支持 HSV、TB、Cryptococcus；Klebsiella 最不典型。",
+      "flashcard_front": "淋巴球性腦膜炎鑑別",
+      "flashcard_back": "高壓淋巴球 CSF 可見 TB/crypto/viral；Klebsiella 多為急性細菌性型態。",
+      "flashcard_summary": "淋巴球性 CSF 加高開口壓較支持 HSV、TB、Cryptococcus；Klebsiella 最不典型。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n承上題 CSF 培養出 yeast，最典型考 cryptococcal meningitis。治療誘導期為 amphotericin B 加 flucytosine，並要找免疫低下原因與肺部或血液播散證據；echinocandin 對隱球菌與中樞感染效果差。\n\n【選項詳解】\n- A. Amphotericin B 加 flucytosine 是 cryptococcal meningitis 的標準誘導治療。\n- B. 隱球菌腦膜炎常與 HIV/AIDS 相關，因此 HIV screening 是必要評估。\n- C. 胸部 X 光、血液黴菌培養與 cryptococcal antigen 可評估肺部來源與播散，合理。\n- D. Echinocandin 對 Cryptococcus 活性不足且中樞穿透差，用於 yeast meningitis 尤其隱球菌時是錯誤選擇。\n\n【核心考點】\nCryptococcal meningitis 誘導治療是 amphotericin B 加 flucytosine，不用 echinocandin。",
+      "key_point": "Cryptococcal meningitis 誘導治療是 amphotericin B 加 flucytosine，不用 echinocandin。",
+      "flashcard_front": "CSF yeast、腦膜炎",
+      "flashcard_back": "考 Cryptococcus；治療 amphotericin B + flucytosine，並篩檢 HIV。",
+      "flashcard_summary": "Cryptococcal meningitis 誘導治療是 amphotericin B 加 flucytosine，不用 echinocandin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nCURB-65 評估 confusion、urea、respiratory rate、blood pressure、age。此 21 歲病人意識清楚、RR 24、血壓未達低血壓標準、年齡未滿 65，臨床低風險，可門診治療並安排追蹤。\n\n【選項詳解】\n- A. 在已知項目中 CURB-65 為低分，且年輕、意識清楚、生命徵象尚可，官方答案為不需住院、可門診治療。\n- B. 一般病房住院通常用於較高 CURB-65 分數、低氧、共病失控或無法口服/追蹤者；題幹未達。\n- C. 加護病房需呼吸衰竭、休克或重症肺炎標準；本題血壓與意識不支持。\n- D. 雖然 CURB-65 包含 urea，但題幹其他四項皆低風險，考題依原則判定為門診治療，不因未抽血即完全無法判定。\n\n【核心考點】\n年輕 CAP 病人 CURB-65 低分且無重症線索時，可門診治療。",
+      "key_point": "年輕 CAP 病人 CURB-65 低分且無重症線索時，可門診治療。",
+      "flashcard_front": "CURB-65 低風險 CAP",
+      "flashcard_back": "意識清楚、RR<30、BP 未達低血壓、年齡<65，通常門診治療。",
+      "flashcard_summary": "年輕 CAP 病人 CURB-65 低分且無重症線索時，可門診治療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n運動誘發氣喘或支氣管收縮的預防，最常用是在運動前吸入短效 beta-2 agonist，可快速支氣管擴張並預防症狀。\n\n【選項詳解】\n- A. 短效吸入型 beta-2 agonist 如 albuterol，可在運動前使用，是預防運動誘發支氣管收縮的最佳選擇。\n- B. 口服 aminophylline 副作用多、治療窗窄，已不是預防運動誘發氣喘的首選。\n- C. 吸入型抗膽鹼劑對部分阻塞性肺病有用，但預防運動誘發氣喘效果不如 SABA。\n- D. Cromolyn 可有預防效果，但起效與可近性不如運動前 SABA，考題最佳答案仍是 SABA。\n\n【核心考點】\n運動誘發氣喘預防首選是運動前吸入 SABA。",
+      "key_point": "運動誘發氣喘預防首選是運動前吸入 SABA。",
+      "flashcard_front": "Exercise-induced bronchoconstriction 預防",
+      "flashcard_back": "運動前使用短效吸入 beta-2 agonist。",
+      "flashcard_summary": "運動誘發氣喘預防首選是運動前吸入 SABA。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n周全性老年評估包括認知、情緒、營養與功能。MMSE 是常用認知篩檢工具，傳統切點常以 24 分以下視為異常，但要注意教育程度會影響判讀。\n\n【選項詳解】\n- A. MMSE 可用於心智狀態評估，24 分以下常作為認知異常篩檢切點；題幹提到高中教育程度，也支持此切點可用。\n- B. GDS-15 常以 0-4 正常、5 分以上需注意，超過 8 分偏向較明顯憂鬱，但不能直接等同確診憂鬱症。\n- C. MNA 短版分數越高營養越好，低分才表示營養不良或風險；高於 10 分不是營養不良。\n- D. Barthel index 分數越高功能越好；31-60 分通常屬較重度依賴，不是輕度失能。\n\n【核心考點】\nMMSE 24 分以下常作為認知異常篩檢切點，但需考慮教育程度。",
+      "key_point": "MMSE 24 分以下常作為認知異常篩檢切點，但需考慮教育程度。",
+      "flashcard_front": "CGA 認知評估",
+      "flashcard_back": "MMSE 可用於篩檢；傳統 24 分以下視為異常。",
+      "flashcard_summary": "MMSE 24 分以下常作為認知異常篩檢切點，但需考慮教育程度。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n狂犬病暴露後預防需依暴露類別給予傷口處理、免疫球蛋白與疫苗。此題採傳統 5 劑疫苗時程，第 0、3、7、14、28 天。\n\n【選項詳解】\n- A. 第 0、3、7、14、28 天共 5 次，是本題官方採用的暴露後疫苗注射時程。\n- B. 第 0、7、14、28 天少了第 3 天劑量，不符合此題所採 5 劑時程。\n- C. 第 0、7、28 天共 3 次不足以對應本題傳統暴露後完整時程。\n- D. 第 0、14、28 天共 3 次也缺少早期第 3、7 天劑量，不是本題答案。\n\n【核心考點】\n狂犬病暴露後疫苗傳統時程為第 0、3、7、14、28 天。",
+      "key_point": "狂犬病暴露後疫苗傳統時程為第 0、3、7、14、28 天。",
+      "flashcard_front": "Rabies PEP 疫苗時程",
+      "flashcard_back": "本題採 5 劑：第 0、3、7、14、28 天。",
+      "flashcard_summary": "狂犬病暴露後疫苗傳統時程為第 0、3、7、14、28 天。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n半年反覆胸痛，檢查排除器質性原因後仍過度擔心、持續尋醫與檢查，核心是對身體症狀的過度想法、焦慮與行為，最符合 DSM-5 身體症狀障礙症。\n\n【選項詳解】\n- A. 重度憂鬱症需以低落情緒、失去興趣、睡眠食慾與自殺意念等為核心；題幹主軸是身體症狀與就醫行為。\n- B. 輕鬱性情感障礙症是慢性低落情緒至少 2 年，題幹沒有長期憂鬱心境主軸。\n- C. 身體症狀障礙症強調一個或多個身體症狀伴隨過度擔心、時間精力投入與反覆求醫，最符合。\n- D. 焦慮症範圍很廣；本題焦慮集中在身體症狀與疾病擔憂，DSM-5 最精準分類是身體症狀障礙症。\n\n【核心考點】\n反覆身體症狀、排除嚴重疾病後仍過度求醫，考 somatic symptom disorder。",
+      "key_point": "反覆身體症狀、排除嚴重疾病後仍過度求醫，考 somatic symptom disorder。",
+      "flashcard_front": "檢查正常仍持續擔心身體病",
+      "flashcard_back": "DSM-5 最符合身體症狀障礙症。",
+      "flashcard_summary": "反覆身體症狀、排除嚴重疾病後仍過度求醫，考 somatic symptom disorder。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n證據層級比較中，系統性回顧與統合分析若品質良好，通常高於單一世代研究、病例對照研究與專家意見。\n\n【選項詳解】\n- A. 世代研究可提供因果時間序列與風險估計，但仍是單一觀察性研究，層級低於高品質統合分析。\n- B. 專家意見受個人經驗影響，通常位於證據層級底部。\n- C. 統合分析整合多個研究結果，尤其納入隨機試驗時，證據層級最高。\n- D. 個案對照研究適合罕見疾病與回溯暴露分析，但受偏差影響較大，層級低於世代研究與統合分析。\n\n【核心考點】\n在列出的研究型態中，meta-analysis 的證據層級最高。",
+      "key_point": "在列出的研究型態中，meta-analysis 的證據層級最高。",
+      "flashcard_front": "EBM 證據層級最高",
+      "flashcard_back": "高品質系統性回顧/統合分析通常高於 cohort、case-control 與 expert opinion。",
+      "flashcard_summary": "在列出的研究型態中，meta-analysis 的證據層級最高。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n題目問沒有從事基層醫療服務的單位。衛生所、社區醫療群與基層診所都直接或組織性提供基層照護；社區健康營造中心偏向健康促進與社區動員，不是基層醫療服務提供單位。\n\n【選項詳解】\n- A. 衛生所是地方公共衛生與部分基層醫療的重要據點，有提供基層服務。\n- B. 社區健康營造中心主要做健康促進、社區參與與資源整合，不是直接從事基層醫療的單位。\n- C. 社區醫療群由基層診所等組成，目的就是強化社區基層照護與轉診合作。\n- D. 基層診所是最典型的第一線基層醫療服務提供者。\n\n【核心考點】\n社區健康營造中心偏健康促進，不是直接基層醫療服務單位。",
+      "key_point": "社區健康營造中心偏健康促進，不是直接基層醫療服務單位。",
+      "flashcard_front": "臺灣社區醫療：非基層醫療服務單位",
+      "flashcard_back": "社區健康營造中心主要是健康促進與社區營造。",
+      "flashcard_summary": "社區健康營造中心偏健康促進，不是直接基層醫療服務單位。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n末期癌症安寧病人意識不清、臥床、極度虛弱消瘦，只能少量半固體進食時，治療目標是舒適與尊嚴。若仍可經口接受少量食物，應以病人能接受的經口進食為主，不強迫人工營養。\n\n【選項詳解】\n- A. 鼻胃管可能造成不適、嗆咳、約束與吸入風險，末期安寧情境通常不會因營養不足而常規放置。\n- B. 周邊靜脈人工營養與水分不一定改善末期癌症生活品質，還可能造成水腫、分泌物增加或不適。\n- C. 中央靜脈全靜脈營養侵入性高，對瀕死末期癌症通常沒有明確舒適利益。\n- D. 繼續給予可接受的少量經口食物，符合舒適照護與病人可承受程度，是最適當作法。\n\n【核心考點】\n末期安寧照護的營養目標是舒適；可經口少量就不強迫管灌或 TPN。",
+      "key_point": "末期安寧照護的營養目標是舒適；可經口少量就不強迫管灌或 TPN。",
+      "flashcard_front": "末期癌症安寧營養",
+      "flashcard_back": "以病人可接受的經口食物為主，避免無益人工營養。",
+      "flashcard_summary": "末期安寧照護的營養目標是舒適；可經口少量就不強迫管灌或 TPN。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    }
+  ]
+}

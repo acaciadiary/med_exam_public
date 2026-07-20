@@ -1,0 +1,130 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-3.json",
+  "dataset_id": "108-1_medicine-3",
+  "range": {
+    "start": 40,
+    "end": 52
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\nCHOP 後出現便秘、腹脹、ileus 與指尖麻木，代表自主神經與周邊神經毒性；CHOP 中最典型造成這些副作用的是 vincristine。\n\n【選項詳解】\n- A. Cyclophosphamide 常考骨髓抑制、出血性膀胱炎與 SIADH，不是 ileus 加指尖麻木的典型主因。\n- B. Adriamycin/doxorubicin 主要副作用是心肌毒性、骨髓抑制與黏膜炎，不以 ileus 為典型。\n- C. Prednisolone 可造成高血糖、感染風險、情緒變化與肌病，但不典型造成自主神經性腸麻痺。\n- D. Vincristine 抑制微小管，典型副作用是周邊神經病變、自主神經病變、便秘與麻痺性腸阻塞。\n\n【核心考點】\nVincristine 的高產值毒性是周邊神經病變與麻痺性腸阻塞。",
+      "key_point": "Vincristine 的高產值毒性是周邊神經病變與麻痺性腸阻塞。",
+      "flashcard_front": "CHOP 後 ileus、手麻",
+      "flashcard_back": "想到 vincristine neurotoxicity，包括便秘、ileus 與周邊神經病變。",
+      "flashcard_summary": "Vincristine 的高產值毒性是周邊神經病變與麻痺性腸阻塞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n題目問 glioblastoma 的錯誤敘述。Temozolomide 對 MGMT promoter methylation、也就是 MGMT 被沉默的腫瘤效果較好；若 MGMT 有表現，會修復烷化劑造成的 DNA 傷害而降低療效。\n\n【選項詳解】\n- A. Glioblastoma 預後差，即使標準治療平均存活仍常小於 2 年，敘述正確。\n- B. 初始治療通常是最大安全切除，接續放射治療合併 temozolomide，敘述正確。\n- C. MGMT 有表現會修復 temozolomide 造成的 O6-methylguanine DNA 損傷，反而較抗藥；有效預測因子是 MGMT promoter methylation。\n- D. Bevacizumab 可用於復發 glioblastoma，能減少血管通透性與周邊水腫，並改善 progression-free survival。\n\n【核心考點】\nGlioblastoma 對 temozolomide 較敏感的線索是 MGMT promoter methylation，而不是 MGMT 表現增加。",
+      "key_point": "Glioblastoma 對 temozolomide 較敏感的線索是 MGMT promoter methylation，而不是 MGMT 表現增加。",
+      "flashcard_front": "GBM：MGMT 與 temozolomide",
+      "flashcard_back": "MGMT methylation 代表修復酵素被沉默，temozolomide 效果較好。",
+      "flashcard_summary": "Glioblastoma 對 temozolomide 較敏感的線索是 MGMT promoter methylation，而不是 MGMT 表現增加。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\nLight's criteria 用來分辨 transudate 與 exudate，需要比較肋膜液與血清的蛋白質及 LDH。其他選項混淆了肋膜液生成吸收、ADA 意義與結核培養敏感度。\n\n【選項詳解】\n- A. 肋膜液主要由 parietal pleura 的微血管產生，並由 parietal pleura 的淋巴吸收；選項把來源與吸收寫錯。\n- B. Light's criteria 需看 pleural fluid/serum protein ratio、pleural fluid/serum LDH ratio 與 pleural fluid LDH，因此要測 LDH 與 total protein。\n- C. ADA 升高，特別是淋巴球性滲出液 ADA >40-50 U/L，較支持結核性肋膜炎，不是高度懷疑淋巴瘤的典型判讀。\n- D. 結核性肋膜積液常是免疫反應為主，肋膜液培養陽性率有限，不能說大多可培養出結核菌。\n\n【核心考點】\nLight's criteria 以肋膜液與血清的 protein、LDH 分辨 transudate/exudate。",
+      "key_point": "Light's criteria 以肋膜液與血清的 protein、LDH 分辨 transudate/exudate。",
+      "flashcard_front": "Light's criteria",
+      "flashcard_back": "比較 pleural fluid 與 serum 的 protein、LDH；ADA 高較支持 TB pleuritis。",
+      "flashcard_summary": "Light's criteria 以肋膜液與血清的 protein、LDH 分辨 transudate/exudate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n肺腺癌標靶題要分清 EGFR 與 ALK。ALK translocation 患者常較年輕、較少抽菸；EGFR 在東亞肺腺癌比例較高，而 T790M 是 EGFR TKI 抗藥機轉，不是 ALK 抗藥。\n\n【選項詳解】\n- A. 東亞肺腺癌 EGFR 突變率常約 40-50%，10-20% 比較接近西方族群或較低估。\n- B. 第四期 EGFR 突變肺腺癌可用 EGFR TKI 控制並延長存活，但通常不是治癒。\n- C. ALK translocation 肺腺癌病人年齡中位數通常較整體肺腺癌年輕，常見於少抽菸者。\n- D. Exon 20 T790M 是 EGFR TKI 抗藥突變，不是 ALK translocation 治療後常見抗藥機轉。\n\n【核心考點】\nALK translocation 肺腺癌常見於較年輕、少抽菸族群；T790M 是 EGFR 抗藥考點。",
+      "key_point": "ALK translocation 肺腺癌常見於較年輕、少抽菸族群；T790M 是 EGFR 抗藥考點。",
+      "flashcard_front": "肺腺癌 ALK translocation",
+      "flashcard_back": "ALK 病人通常較年輕；EGFR T790M 不屬於 ALK 抗藥機轉。",
+      "flashcard_summary": "ALK translocation 肺腺癌常見於較年輕、少抽菸族群；T790M 是 EGFR 抗藥考點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n慢性乾咳超過 8 週且胸部 X 光正常時，要先回頭找常見可逆原因；高血壓藥物中的 ACE inhibitor 是乾咳常見原因，因此問藥史最優先。\n\n【選項詳解】\n- A. 肺功能檢查可評估 asthma 或 COPD，但在有高血壓用藥史的乾咳病人，先確認 ACE inhibitor 較低成本且高產值。\n- B. 鼻竇 X 光可評估上呼吸道咳嗽症候群，但不是本題最優先線索。\n- C. ACE inhibitor 可造成長期乾咳；題幹特別給高血壓用藥史，最應先詢問抗高血壓藥物。\n- D. 24 小時食道 pH 可評估 GERD 相關咳嗽，但通常在病史與初步處置後才考慮。\n\n【核心考點】\n慢性乾咳且 CXR 正常，要先檢查是否使用 ACE inhibitor。",
+      "key_point": "慢性乾咳且 CXR 正常，要先檢查是否使用 ACE inhibitor。",
+      "flashcard_front": "高血壓病人慢性乾咳",
+      "flashcard_back": "先問抗高血壓藥物，特別是 ACE inhibitor。",
+      "flashcard_summary": "慢性乾咳且 CXR 正常，要先檢查是否使用 ACE inhibitor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n老人多年漸進性運動喘、杵狀指、雙下肺細囉音，典型指向間質性肺病，尤其肺纖維化。缺乏發燒、急性濕囉音或局部腫瘤線索。\n\n【選項詳解】\n- A. 肺纖維化常見漸進性活動喘、乾咳、杵狀指與雙側肺底 velcro-like fine crackles，最符合本題。\n- B. 肺水腫通常較急性，常有端坐呼吸、濕囉音、心衰竭或胸部 X 光鬱血線索，不以杵狀指為主。\n- C. 肺炎多有急性發燒、咳痰、局部濕囉音或浸潤，題幹多年病程不支持。\n- D. 肺癌可造成咳嗽、體重減輕、咳血或局部病灶；雙側肺底細囉音加多年活動喘更像纖維化。\n\n【核心考點】\n肺纖維化典型表現是漸進性活動喘、杵狀指與雙側肺底細囉音。",
+      "key_point": "肺纖維化典型表現是漸進性活動喘、杵狀指與雙側肺底細囉音。",
+      "flashcard_front": "老人、杵狀指、雙下肺 fine crackles",
+      "flashcard_back": "最符合肺纖維化或間質性肺病。",
+      "flashcard_summary": "肺纖維化典型表現是漸進性活動喘、杵狀指與雙側肺底細囉音。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n抗結核四合一藥物中，pyrazinamide 最典型造成高尿酸血症與痛風發作；ethambutol 也可能影響尿酸，但考題最常指向 pyrazinamide。\n\n【選項詳解】\n- A. Isoniazid 常考肝炎、周邊神經病變與需補 pyridoxine，不是最典型痛風藥物。\n- B. Rifampin 常考橘紅色體液、肝毒性與藥物交互作用，不是最可能造成痛風者。\n- C. Ethambutol 可造成視神經炎，也可讓尿酸上升，但在四個選項中不如 pyrazinamide 典型。\n- D. Pyrazinamide 會降低尿酸排泄，最容易誘發高尿酸血症與痛風。\n\n【核心考點】\nPyrazinamide 是抗結核藥中最常考的高尿酸與痛風誘發藥物。",
+      "key_point": "Pyrazinamide 是抗結核藥中最常考的高尿酸與痛風誘發藥物。",
+      "flashcard_front": "抗結核藥造成痛風",
+      "flashcard_back": "最典型是 pyrazinamide；ethambutol可影響尿酸但不是本題最佳答案。",
+      "flashcard_summary": "Pyrazinamide 是抗結核藥中最常考的高尿酸與痛風誘發藥物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n健康成人門診肺炎常見病原包括肺炎鏈球菌、黴漿菌與嗜血桿菌。Acinetobacter baumannii 較常見於院內感染、呼吸器相關肺炎或重症照護環境。\n\n【選項詳解】\n- A. 肺炎鏈球菌是社區型肺炎最常見典型病原之一。\n- B. 黴漿菌是年輕或健康成人非典型社區型肺炎常見病原。\n- C. 鮑氏不動桿菌多與院內、呼吸器、抗生素暴露或重症病人相關，對健康門診社區肺炎最不可能。\n- D. 嗜血桿菌可造成社區型肺炎，尤其在有慢性肺病或吸菸者更常見。\n\n【核心考點】\n健康成人社區型肺炎最不典型的是 Acinetobacter baumannii。",
+      "key_point": "健康成人社區型肺炎最不典型的是 Acinetobacter baumannii。",
+      "flashcard_front": "健康成人 CAP 病原",
+      "flashcard_back": "S. pneumoniae、Mycoplasma、H. influenzae 可見；Acinetobacter 多屬院內重症背景。",
+      "flashcard_summary": "健康成人社區型肺炎最不典型的是 Acinetobacter baumannii。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n甲狀腺髓質癌來源是濾泡旁 C 細胞，會分泌 calcitonin，並可與 MEN2 的 RET 突變相關。\n\n【選項詳解】\n- A. 濾泡上皮細胞可產生乳突癌、濾泡癌與未分化癌等，不是髓質癌來源。\n- B. 濾泡旁 C 細胞分泌 calcitonin，是 medullary thyroid cancer 的細胞來源。\n- C. 淋巴球細胞來源會考慮甲狀腺淋巴瘤，不是髓質癌。\n- D. 纖維母細胞不是甲狀腺髓質癌的來源細胞。\n\n【核心考點】\nMedullary thyroid cancer 來自 calcitonin-producing C cells。",
+      "key_point": "Medullary thyroid cancer 來自 calcitonin-producing C cells。",
+      "flashcard_front": "甲狀腺髓質癌來源",
+      "flashcard_back": "濾泡旁 C 細胞，會分泌 calcitonin，與 MEN2/RET 相關。",
+      "flashcard_summary": "Medullary thyroid cancer 來自 calcitonin-producing C cells。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n糖尿病分類題要抓常見型態與診斷切點。第 2 型糖尿病最常見，與肥胖、胰島素阻抗和家族遺傳相關；診斷標準不是空腹血糖 100 或 A1c 6.0%。\n\n【選項詳解】\n- A. 第 1 型糖尿病常在兒童、青少年或年輕成人發病，與自體免疫破壞 beta cell 有關；說好發 30 歲以上不精確。\n- B. 糖尿病診斷通常是空腹血糖 >=126 mg/dL、HbA1c >=6.5%、OGTT 2 小時 >=200 或典型症狀加隨機血糖 >=200；100 與 6% 尚未達標準。\n- C. 第 2 型糖尿病與肥胖、胰島素阻抗及家族史密切相關，是臨床最常見型態。\n- D. 妊娠糖尿病多在懷孕中後期因胎盤荷爾蒙造成胰島素阻抗被篩出，不是好發於前 3 個月。\n\n【核心考點】\n第 2 型糖尿病最常見，與肥胖、胰島素阻抗與家族史相關。",
+      "key_point": "第 2 型糖尿病最常見，與肥胖、胰島素阻抗與家族史相關。",
+      "flashcard_front": "糖尿病診斷與分類",
+      "flashcard_back": "DM 診斷切點：FPG >=126 或 HbA1c >=6.5；T2DM 最常見。",
+      "flashcard_summary": "第 2 型糖尿病最常見，與肥胖、胰島素阻抗與家族史相關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    }
+  ]
+}

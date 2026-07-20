@@ -28,7 +28,7 @@ def main():
         sys.exit(1)
         
     # Read original exam data
-    with open(target_json_path, 'r', encoding='utf-8') as f:
+    with open(target_json_path, 'r', encoding='utf-8-sig') as f:
         exam_data = json.load(f)
         
     questions_dict = {q["id"]: q for q in exam_data.get("questions", [])}
@@ -95,7 +95,7 @@ def main():
         
     # Write back to original JSON
     exam_data["updated_at"] = datetime.now(timezone.utc).isoformat()
-    with open(target_json_path, 'w', encoding='utf-8') as f:
+    with open(target_json_path, 'w', encoding='utf-8-sig') as f:
         json.dump(exam_data, f, ensure_ascii=False, indent=2)
         
     print(f"Successfully merged {success_count} question updates into {target_json_path}.")

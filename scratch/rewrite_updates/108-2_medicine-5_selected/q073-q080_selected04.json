@@ -1,0 +1,62 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-5.json",
+  "dataset_id": "108-2_medicine-5",
+  "range": {
+    "start": 73,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-5_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題需結合附圖 CT。題幹給左上腹痛、發燒、白血球增加，影像若顯示脾臟內低密度或囊性病灶，最符合脾臟膿瘍。重點是病灶位置在左上腹脾臟，而不是腰肌、結腸或胰臟周圍。\n\n【選項詳解】\n- A. Spleen abscess 可表現為發燒、左上腹痛、白血球上升，CT 見脾臟內低密度膿瘍腔，符合官方答案。\n- B. Left psoas muscle abscess 病灶在後腹腔腰大肌，常有腰背痛、髖部活動痛或 psoas sign，位置和脾臟影像不同。\n- C. Colon diverticulitis 通常以左下腹痛、結腸壁增厚與周邊脂肪發炎為主，不是脾臟內病灶。\n- D. Peripancreatic abscess 多接在急性胰臟炎後，位置在胰臟周圍，題幹沒有胰臟炎病史與影像重點。\n\n【核心考點】\n影像診斷先定位。左上腹感染症狀加脾臟內低密度病灶，優先診斷 splenic abscess；不要被其他腹腔膿瘍名稱分散。",
+      "key_point": "脾臟膿瘍的左上腹感染症狀與 CT 定位",
+      "flashcard_front": "Splenic abscess / LUQ pain / fever / CT",
+      "flashcard_back": "左上腹痛、發燒、白血球升高加脾臟內低密度病灶，最符合脾臟膿瘍。",
+      "flashcard_summary": "LUQ pain + fever + splenic low-density lesion -> splenic abscess",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n火燒車後眉毛鼻毛燒焦、臉頸部燒傷、聲音沙啞、呼吸快淺且氧飽和度 70%，高度懷疑吸入性燒傷與上呼吸道水腫。燒傷後水腫會進展，若等待檢查可能錯失插管時機；第一優先是先確保呼吸道。\n\n【選項詳解】\n- A. ABG 可評估氧合、通氣與一氧化碳中毒，但不能取代立即建立呼吸道；在嚴重缺氧與聲音沙啞時不應先等抽血。\n- B. 胸部 X 光早期可能正常，也不能處理即將阻塞的上呼吸道。\n- C. 靜脈輸液是燒傷復甦的重要步驟，但本題已有呼吸道危象，依 ABC 原則 airway 優先。\n- D. Endotracheal intubation 可在水腫惡化前保護呼吸道並改善通氣，是第一優先處置。\n\n【核心考點】\n燒傷急救照 ABC：有吸入性傷害紅旗如臉頸燒傷、鼻毛燒焦、聲音沙啞、低氧，先插管保護 airway，再做檢查與輸液。",
+      "key_point": "吸入性燒傷有呼吸道水腫風險時須優先氣管插管",
+      "flashcard_front": "Inhalation injury / hoarseness / airway / intubation",
+      "flashcard_back": "吸入性燒傷伴聲音沙啞與低氧時，第一優先是氣管內插管保護呼吸道。",
+      "flashcard_summary": "燒傷 ABC -> hoarseness + facial burn + hypoxia -> early intubation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n尺骨近端骨折合併橈骨頭脫位就是 Monteggia fracture-dislocation。題幹明確給出 proximal ulna fracture 與 radial head dislocation，配對到 Monteggia。\n\n【選項詳解】\n- A. Colles fracture 是遠端橈骨骨折向背側移位，常見於跌倒手撐地，並非尺骨近端骨折合併橈骨頭脫位。\n- B. Chauffeur's fracture 是橈骨莖突骨折，與前臂近端尺骨與橈骨頭關節不符。\n- C. Galeazzi fracture 是橈骨遠端或中遠端骨折合併 DRUJ 脫位，和 Monteggia 的骨頭與脫位位置相反。\n- D. Monteggia fracture 定義為尺骨近端骨折合併橈骨頭脫位，符合官方答案。\n\n【核心考點】\nMonteggia 與 Galeazzi 要成對記：Monteggia 是 proximal ulna 加 radial head；Galeazzi 是 radius 加 DRUJ。",
+      "key_point": "Monteggia 氏骨折為尺骨近端骨折合併橈骨頭脫位",
+      "flashcard_front": "Monteggia / proximal ulna fracture / radial head dislocation",
+      "flashcard_back": "尺骨近端骨折合併橈骨頭脫位稱 Monteggia fracture-dislocation。",
+      "flashcard_summary": "Monteggia -> proximal ulna fracture + radial head dislocation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n王醫師已掌握同儕為業績進行無適應症手術的事證，也已私下溝通但未改善。此時專業倫理重點是保護病人安全，並循正式、可追蹤且符合保密原則的內部管道處理，例如向主管、主任或倫理委員會通報。\n\n【選項詳解】\n- A. 置之不理會讓病人持續暴露於不必要手術風險，違反醫療專業保護病人的義務。\n- B. 私下向媒體舉發可能破壞病人隱私與正當程序，通常不是第一線合適處置。\n- C. 攜帶具體資料向主管或倫理委員會檢舉，能兼顧病人安全、證據保存、程序正義與院內治理，最適當。\n- D. 已與陳醫師談過且未改善，再找其他同事談可能延誤正式處理，不能取代通報。\n\n【核心考點】\n醫療倫理題遇到同儕不當醫療且溝通無效，優先走正式內部通報與倫理程序；不要放任，也不要先訴諸媒體。",
+      "key_point": "同儕不當醫療行為應循正式內部倫理通報處理",
+      "flashcard_front": "Medical ethics / unnecessary surgery / internal reporting",
+      "flashcard_back": "同儕疑似無適應症手術且溝通無效時，應帶資料向主管或倫理委員會正式通報。",
+      "flashcard_summary": "同儕不當醫療 -> 溝通無效 -> 內部主管或倫理委員會通報",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

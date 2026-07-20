@@ -1,0 +1,106 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-3.json",
+  "dataset_id": "111-1_medicine-3",
+  "range": {
+    "start": 51,
+    "end": 58
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】本題題幹為「非侵襲性正壓呼吸器(noninvasive positive pressure ventilator)的禁忌症,不包括下列何者?」。非侵襲性正壓呼吸器（NIPPV）的絕對禁忌症包含：血行動力學不穩定（如低血壓休克）、無法保護呼吸道（如重度昏迷 GCS 3分）、無法自行清除呼吸道分泌物（如頻繁抽痰）等。D選項為正確答案，因為二氧化碳瀦留（如 PaCO2 70 mmHg，伴隨呼吸性酸中毒）是 NIPPV（特別是 BiPAP）最主要的「適應症」（例如 COPD 急性惡化），而非禁忌症。 正確答案為 D。\n\n【選項詳解】\n- A.錯誤。血壓60/40 mmHg。\n- B.錯誤。昏迷指數3分。\n- C.錯誤。每20分鐘需要抽痰一次。\n- D.正確。PaCO2 70 mmHg。\n\n【核心考點】非侵襲性正壓呼吸器（NIPPV）的適應症與禁忌症。 本題官方答案為 D；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "非侵襲性正壓呼吸器（NIPPV）的適應症與禁忌症；官方答案為 D。",
+      "flashcard_front": "111-1 medicine-3 第 51 題：官方答案 D 的核心考點",
+      "flashcard_back": "非侵襲性正壓呼吸器（NIPPV）的適應症與禁忌症；官方答案為 D。",
+      "flashcard_summary": "非侵襲性正壓呼吸器（NIPPV）的適應症與禁忌症；官方答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】本題題幹為「下列有關甲狀腺癌的敘述,何者錯誤?」。甲狀腺癌的手術切除有助於確立病理診斷與分期，懷疑轉移時可藉超音波導引細針穿刺（FNA）評估。碘-131（半衰期約 8 天）常用於放射根除治療。C選項錯誤，因為分化良好之甲狀腺癌（如乳突癌、濾泡癌）切除後的追蹤指標是甲狀腺球蛋白（Thyroglobulin, Tg），而非胎兒球蛋白（AFP，後者為肝癌和卵黃囊腫瘤的指標）。 正確答案為 C。\n\n【選項詳解】\n- A.錯誤。手術可以切除病灶有助於組織病理及癌症分期確認。\n- B.錯誤。若懷疑有甲狀腺癌,可以使用甲狀腺超音波進行頸部中央及兩側淋巴結的檢查,並在可疑之淋巴結作細針穿 刺細胞學檢查。\n- C.正確。病理學上,細胞分化良好之甲狀腺癌,例如乳突癌或濾泡癌,術後追蹤腫瘤是否再發的主要生物指標是胎兒 球蛋白(alpha-fetoprotein)。\n- D.錯誤。甲狀腺癌之同位素放射線根除療法,使用之放射線同位素是碘-131(I-131),而碘-131之半衰期約為8.04天。\n\n【核心考點】分化良好型甲狀腺癌的追蹤生物指標（甲狀腺球蛋白 Thyroglobulin）。 本題官方答案為 C；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "分化良好型甲狀腺癌的追蹤生物指標（甲狀腺球蛋白 Thyroglobulin）；官方答案為 C。",
+      "flashcard_front": "111-1 medicine-3 第 52 題：官方答案 C 的核心考點",
+      "flashcard_back": "分化良好型甲狀腺癌的追蹤生物指標（甲狀腺球蛋白 Thyroglobulin）；官方答案為 C。",
+      "flashcard_summary": "分化良好型甲狀腺癌的追蹤生物指標（甲狀腺球蛋白 Thyroglobulin）；官方答案為 C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】本題題幹為「下列何者最不可能引起糖尿病?」。糖尿病的病因多元，包括病毒感染誘發胰島細胞自體免疫破壞（第一型）、肌肉或肝臟產生胰島素阻抗（第二型），以及長期使用類固醇導致糖質新生增加（次發性糖尿病）。D選項為正確答案，因為雙胍類藥物（如 metformin）是治療糖尿病的第一線「降血糖藥物」，其主要機制為減少肝臟糖質新生並增加胰島素敏感性，絕不可能引起糖尿病。 正確答案為 D。\n\n【選項詳解】\n- A.錯誤。一些病毒感染後引起自體免疫反應。\n- B.錯誤。肌肉、脂肪或肝臟產生的胰島素阻抗。\n- C.錯誤。類固醇的使用。\n- D.正確。投與雙胍類的藥物。\n\n【核心考點】糖尿病（Diabetes Mellitus）的病因與雙胍類藥物（biguanides）的作用。 本題官方答案為 D；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "糖尿病（Diabetes Mellitus）的病因與雙胍類藥物（biguanides）的作用；官方答案為 D。",
+      "flashcard_front": "111-1 medicine-3 第 53 題：官方答案 D 的核心考點",
+      "flashcard_back": "糖尿病（Diabetes Mellitus）的病因與雙胍類藥物（biguanides）的作用；官方答案為 D。",
+      "flashcard_summary": "糖尿病（Diabetes Mellitus）的病因與雙胍類藥物（biguanides）的作用；官方答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】本題題幹為「下列有關肥胖的敘述,何者錯誤?」。肥胖是遺傳、飲食與運動等多重因素交互作用的結果，會導致胰島素阻抗並顯著增加糖尿病風險；脂肪細胞能分泌瘦素（leptin）等脂聯素影響代謝。B選項錯誤，身體質量指數（BMI）的計算公式為體重（公斤）除以身高（公尺）的平方，因此 BMI 「越大」代表越肥胖，而非越小。 正確答案為 B。\n\n【選項詳解】\n- A.錯誤。肥胖可以引起胰島素阻抗及糖尿病。\n- B.正確。身體質量指數越小則代表越胖。\n- C.錯誤。肥胖與飲食習慣、運動及基因等因素有關。\n- D.錯誤。脂肪細胞可以分泌許多影響肥胖發生的物質。\n\n【核心考點】肥胖的定義（身體質量指數 BMI）與生理機制。 本題官方答案為 B；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "肥胖的定義（身體質量指數 BMI）與生理機制；官方答案為 B。",
+      "flashcard_front": "111-1 medicine-3 第 54 題：官方答案 B 的核心考點",
+      "flashcard_back": "肥胖的定義（身體質量指數 BMI）與生理機制；官方答案為 B。",
+      "flashcard_summary": "肥胖的定義（身體質量指數 BMI）與生理機制；官方答案為 B。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】本題題幹為「下列敘述何者錯誤?」。第一型糖尿病人接受全靜脈營養（TPN）時，需加基礎胰島素以防 DKA；脂質營養不良性糖尿病可使用重組人類瘦素治療。D選項錯誤，因為對於 80 歲以上的年長糖尿病患者，由於預期壽命較短且極易發生致命性低血糖，血糖控制目標應適度放寬（通常 HbA1c 控制在 < 7.5% 至 < 8.0%，甚至衰弱者放寬至 < 8.5%），控制在 < 6.5% 過於嚴格且非常危險。 正確答案為 D。\n\n【選項詳解】\n- A.錯誤。第一型糖尿病人(type 1 diabetes mellitus)以全靜脈營養(total parenteral nutrition)治療時,除輸液中加胰 島素外,應同時給長效胰島素(long acting insulin)。\n- B.錯誤。使用類固醇(glucocorticoid)之糖尿病人,若空腹血糖超過200 mg/dL以上控制不佳時,常需給與胰島素控 制血糖。\n- C.錯誤。脂質營養不良性之糖尿病(lipodystrophic diabetes mellitus)病人,可使用重組人類瘦素(recombinant human leptin)治療。\n- D.正確。80歲以上之糖尿病病人,其血糖控制目標為糖化血色素<6.5%。\n\n【核心考點】特殊類型糖尿病與老年糖尿病患者的血糖控制目標。 本題官方答案為 D；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "特殊類型糖尿病與老年糖尿病患者的血糖控制目標；官方答案為 D。",
+      "flashcard_front": "111-1 medicine-3 第 55 題：官方答案 D 的核心考點",
+      "flashcard_back": "特殊類型糖尿病與老年糖尿病患者的血糖控制目標；官方答案為 D。",
+      "flashcard_summary": "特殊類型糖尿病與老年糖尿病患者的血糖控制目標；官方答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】本題題幹為「造成次發性高血壓的內分泌疾病中,下列何者最常見?」。次發性高血壓是指由明確病因（如腎臟或內分泌疾病）引起的血壓升高。在所有內分泌疾病導致的次發性高血壓中，原發性醛固酮過高症（primary aldosteronism）是最常見的病因，約佔所有高血壓患者的 5% 至 10%，在頑固性高血壓中比例更高。其他如庫欣氏症候群、嗜鉻細胞瘤及肢端肥大症在臨床上均相對罕見。 正確答案為 A。\n\n【選項詳解】\n- A.正確。原發性醛固酮過高(primary aldosteronism)。\n- B.錯誤。嗜鉻細胞瘤(pheochromocytoma)。\n- C.錯誤。庫欣氏症候群(Cushing's syndrome)。\n- D.錯誤。肢端肥大症(acromegaly)。\n\n【核心考點】次發性高血壓（secondary hypertension）最常見的內分泌病因。 本題官方答案為 A；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "次發性高血壓（secondary hypertension）最常見的內分泌病因；官方答案為 A。",
+      "flashcard_front": "111-1 medicine-3 第 56 題：官方答案 A 的核心考點",
+      "flashcard_back": "次發性高血壓（secondary hypertension）最常見的內分泌病因；官方答案為 A。",
+      "flashcard_summary": "次發性高血壓（secondary hypertension）最常見的內分泌病因；官方答案為 A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】本題題幹為「一位42歲有白斑的女性到門診就醫,主訴這半年來感覺疲倦、怕冷、變胖、抽筋。抽血檢查發現free T4為0.4 ng/dL(正常參考值為0.6~1.75 ng/dL),TSH為25 μIU/mL(正常參考值為0.1~4.5 μIU/mL),有關其病因的 鑑別診斷,下列何種診療最不需要?」。患者表現為 free T4 降低且 TSH 顯著上升（25 μIU/mL），此為典型的「原發性甲狀腺功能低下」（病變在甲狀腺本身，腦下垂體代償性分泌更多 TSH）。此時評估重點在於甲狀腺本身，包括觸診、自體抗體（anti-TPO）檢測以診斷橋本氏甲狀腺炎，以及超音波檢查。D選項正確，因為腦下垂體核磁共振（MRI）是用於評估「中樞性（次發性）甲狀腺功能低下」（TSH和free T4皆低）以排除腦下垂體腫瘤，在此患者中並不需要。 正確答案為 D。\n\n【選項詳解】\n- A.錯誤。甲狀腺觸診和詢問甲狀腺疾病相關家族史。\n- B.錯誤。甲狀腺超音波檢查。\n- C.錯誤。抽血測量甲狀腺相關自體免疫指數,例如anti-thyroid peroxidase antibody(anti-TPO)。\n- D.正確。腦下垂體核磁共振檢查。\n\n【核心考點】原發性甲狀腺功能低下（primary hypothyroidism）的診斷與鑑別診斷。 本題官方答案為 D；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "原發性甲狀腺功能低下（primary hypothyroidism）的診斷與鑑別診斷；官方答案為 D。",
+      "flashcard_front": "111-1 medicine-3 第 57 題：官方答案 D 的核心考點",
+      "flashcard_back": "原發性甲狀腺功能低下（primary hypothyroidism）的診斷與鑑別診斷；官方答案為 D。",
+      "flashcard_summary": "原發性甲狀腺功能低下（primary hypothyroidism）的診斷與鑑別診斷；官方答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "111-1_medicine-3_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】本題題幹為「一位27歲男性,主訴一年來體重上升,身體診察發現有月亮臉、水牛肩、中心型肥胖、皮膚易瘀青、在腹部 和雙腿近端有紫色條紋(purple striae),接下來進行何項檢查最為合適?」。患者具有典型的庫欣氏症候群臨床表現（月亮臉、水牛肩、中心型肥胖、紫紋）。在診斷上，必須「先確定生化診斷，再安排影像定位」。因此，安排腎上腺 CT（C）或腦下垂體 MRI（D）都必須在生化確診後進行，不適合當作首步；高劑量 dexamethasone 抑制試驗（B）是用於鑑別診斷病因，而非初篩。A選項最為合適，因為在臨床初步懷疑時，需先測定基礎皮質醇（cortisol）與 ACTH，並評估其日夜節律（diurnal rhythm）的喪失。 正確答案為 A。\n\n【選項詳解】\n- A.正確。抽血檢查早上8點和下午4點的cortisol和ACTH。\n- B.錯誤。進行high dose dexamethasone suppression test。\n- C.錯誤。安排腎上腺電腦斷層檢查。\n- D.錯誤。安排腦下垂體核磁共振檢查。\n\n【核心考點】庫欣氏症候群（Cushing's syndrome）的診斷步驟與臨床流程。 本題官方答案為 A；準備考試時要抓住該題的定義門檻、典型適應症或禁忌點，而不是只記選項位置。",
+      "key_point": "庫欣氏症候群（Cushing's syndrome）的診斷步驟與臨床流程；官方答案為 A。",
+      "flashcard_front": "111-1 medicine-3 第 58 題：官方答案 A 的核心考點",
+      "flashcard_back": "庫欣氏症候群（Cushing's syndrome）的診斷步驟與臨床流程；官方答案為 A。",
+      "flashcard_summary": "庫欣氏症候群（Cushing's syndrome）的診斷步驟與臨床流程；官方答案為 A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-selected-detemplate-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    }
+  ]
+}

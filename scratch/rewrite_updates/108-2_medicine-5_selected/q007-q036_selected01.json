@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-5.json",
+  "dataset_id": "108-2_medicine-5",
+  "range": {
+    "start": 7,
+    "end": 36
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nDandy-Walker malformation 的病灶在後顱窩，典型包括小腦蚓部發育不全、後顱窩囊性擴大，以及第四腦室出口阻塞。腦脊髓液在第四腦室往蛛網膜下腔流出受阻，所以最早、最直接被撐大的腔室是第四腦室。\n\n【選項詳解】\n- A. 第三腦室位在第四腦室上游；阻塞持續後可因水腦而擴大，但不是 Dandy-Walker 出口阻塞最早受影響的腦室。\n- B. 第四腦室正是 Dandy-Walker 畸形囊性擴張的核心位置，第四腦室出口閉鎖會使它最早變大，符合官方答案。\n- C. 大腦導水管連接第三、第四腦室；若導水管狹窄會造成第三與側腦室擴大，與 Dandy-Walker 的第四腦室出口問題不同。\n- D. 側腦室位於更上游，可能在後期水腦時擴大，但不是最先產生擴大現象的部位。\n\n【核心考點】\nDandy-Walker 要抓「第四腦室出口阻塞加後顱窩囊性擴大」。出口卡在第四腦室之後，最早被壓力撐大的就是第四腦室，而不是第三腦室、導水管或側腦室。",
+      "key_point": "Dandy-Walker 畸形的第四腦室出口阻塞與最早擴大腦室",
+      "flashcard_front": "Dandy-Walker / 第四腦室出口阻塞 / 最早擴大腦室",
+      "flashcard_back": "Dandy-Walker malformation 最早擴大的是第四腦室，因為阻塞發生在第四腦室出口。",
+      "flashcard_summary": "Dandy-Walker -> 第四腦室出口阻塞 -> 第四腦室最早擴大",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n急性左前胸痛不能只想心肌梗塞，也要把急性主動脈剝離放進鑑別。B 型主動脈剝離不波及升主動脈，若有併發症或適合介入治療，可考慮胸主動脈腔內修復術（TEVAR）。急性心肌梗塞的急性再灌流首選通常是 PCI；CABG 是特定冠狀動脈病灶或 PCI 不適合時才考慮，不是「立即必須」。因此 1、2、3 正確，4 錯。\n\n【選項詳解】\n- A. 123 包含主動脈剝離鑑別、B 型剝離可考慮腔內支架、AMI 可考慮 PCI，三項都符合急診胸痛處置邏輯。\n- B. 134 把第 4 項納入，但 AMI 不是一診斷就必須立即 CABG；急性期常先評估 PCI 再灌流。\n- C. 僅24 少了主動脈剝離鑑別與 PCI，且包含錯誤的立即 CABG，組合不合理。\n- D. 僅4 只留下最不精確的處置敘述；CABG 不是急性心肌梗塞的一律第一線處置。\n\n【核心考點】\n急性胸痛先排除致命病因：AMI 與主動脈剝離都要想。B 型剝離可走 TEVAR 評估；AMI 急性再灌流重點是 PCI，不是反射性安排 CABG。",
+      "key_point": "急性胸痛中主動脈剝離與心肌梗塞的鑑別及初始介入原則",
+      "flashcard_front": "急性胸痛 / B 型主動脈剝離 / AMI / PCI",
+      "flashcard_back": "胸痛需同時鑑別主動脈剝離與 AMI；B 型剝離可評估 TEVAR，AMI 急性期常以 PCI 為主要再灌流方式。",
+      "flashcard_summary": "急性胸痛 -> 剝離和 AMI 都要鑑別；B 型剝離可 TEVAR；AMI 優先 PCI 而非一律 CABG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。原發性縱膈腔生殖細胞瘤中，成熟畸胎瘤常見；seminoma 通常不會讓 AFP 升高，若 AFP 升高就要懷疑 nonseminomatous germ cell tumor 成分。nonseminomatous tumor 可見 beta-HCG 升高，而 seminoma 對放射治療相對敏感。\n\n【選項詳解】\n- A. Teratoma 在縱膈腔生殖細胞瘤中常見，這是可接受的正確敘述，不是本題要選的錯誤項。\n- B. Seminoma 病人的 AFP 應維持正常；AFP 升高提示非精原細胞瘤成分，所以這句是錯誤敘述，符合官方答案。\n- C. Nonseminomatous tumor 可分泌 beta-HCG，也常伴 AFP 異常，這句並非錯誤。\n- D. Seminoma 通常比 nonseminomatous tumor 對放射治療更敏感，這是兩者治療反應的重要差異。\n\n【核心考點】\n生殖細胞瘤標記要記：AFP 升高不支持純 seminoma。看到 seminoma 加 AFP 上升，要改想 nonseminomatous 成分。",
+      "key_point": "縱膈腔生殖細胞瘤的 seminoma 與 nonseminomatous 腫瘤標記差異",
+      "flashcard_front": "縱膈 germ cell tumor / seminoma / AFP / beta-HCG",
+      "flashcard_back": "純 seminoma 不會升高 AFP；AFP 升高要懷疑 nonseminomatous germ cell tumor 成分。",
+      "flashcard_summary": "縱膈生殖細胞瘤 -> seminoma AFP 正常；AFP 高代表非精原細胞瘤成分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。肝性腦病變來自肝臟解毒下降或門脈分流，使氨等神經毒性物質累積；表現可從睡眠、行為改變到撲翼樣震顫。胃腸道出血會增加腸道蛋白負荷與產氨，是典型誘因。急性期不應鼓勵大量高蛋白飲食，而是控制誘因並依狀況調整蛋白來源與量。\n\n【選項詳解】\n- A. 行為改變與 flapping tremor 是肝性腦病變常考的神經精神表現，敘述正確。\n- B. 急性肝性腦病變時大量高蛋白會增加腸道產氨，可能惡化症狀；說「應多吃」是錯誤建議，符合官方答案。\n- C. 胃腸道出血後血液蛋白在腸道被分解，氨產生增加，確實可誘發肝性腦病變。\n- D. 氨濃度常升高，雖然臨床嚴重度不一定與數值完全平行，但方向上符合病理機轉。\n\n【核心考點】\n肝性腦病變考誘因時要想到感染、便秘、電解質異常與胃腸道出血。急性期處置是降低氨負荷與處理誘因，不是補大量高蛋白。",
+      "key_point": "肝性腦病變的誘因、血氨上升與蛋白飲食調整",
+      "flashcard_front": "肝性腦病變 / 胃腸道出血 / 血氨 / 高蛋白",
+      "flashcard_back": "肝性腦病變急性期不應大量高蛋白飲食；胃腸道出血會增加腸道產氨而誘發症狀。",
+      "flashcard_summary": "肝性腦病變 -> 血氨上升與 GI bleeding 誘發；急性期避免大量高蛋白",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。切口性疝氣是腹壁筋膜癒合失敗造成，張力過大、傷口感染、肥胖、營養不良等都會增加風險。症狀性或明顯缺損通常需手術修補；mesh 可降低復發，尤其適合較大缺損，但不是每個缺口在任何情境都一定要放人工網膜。\n\n【選項詳解】\n- A. 過去手術傷口張力太大或癒合不良會使筋膜無法穩定癒合，是切口性疝氣的重要病因。\n- B. 術後傷口感染會破壞局部組織癒合強度，是形成切口性疝氣的常見危險因子。\n- C. 已形成的切口性疝氣若要根治，主要靠外科修補；束腹或觀察只能作為症狀控制或特定病人的暫時策略。\n- D. Mesh 很常用也能降低復發，但極小缺損或污染手術區可能選擇直接縫合或其他策略；「一定要」太絕對，因此錯誤。\n\n【核心考點】\n疝氣題看到「一定、全部、唯一」要小心。切口性疝氣根治靠手術，mesh 常是好選擇，但修補方式仍取決於缺損大小與污染風險。",
+      "key_point": "切口性疝氣成因與人工網膜修補的適用限制",
+      "flashcard_front": "切口性疝氣 / 傷口感染 / mesh / 絕對化敘述",
+      "flashcard_back": "切口性疝氣常因筋膜癒合不良形成，手術可根治；mesh 常用但不是所有缺口都一定要使用。",
+      "flashcard_summary": "切口性疝氣 -> 感染與張力是危險因子；mesh 常用但不等於一定使用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n本題依賴圖一 CT 與圖二標本，需保留官方答案解讀。題幹給的是肝門附近腫瘤造成膽道阻塞的判讀題；若腫瘤位在肝門膽管分叉處，會先影響左右肝管匯流，官方答案指向左肝管阻塞。它不是尾狀葉腫瘤，也不是典型完全實心肝腫塊或肝膿瘍。\n\n【選項詳解】\n- A. Caudate lobe 是肝臟第一節，位置在肝門後方；題目重點是肝門膽管阻塞，不是單純尾狀葉腫瘤定位。\n- B. 左肝管阻塞可解釋肝門部腫瘤造成局部膽管擴張與手術標本所見，符合官方答案。\n- C. 肝門部膽管癌常沿膽管壁浸潤、造成膽道狹窄與阻塞，不一定呈現「全實心腫瘤」型態。\n- D. 肝膿瘍通常會有感染性囊腔、發燒或膿瘍影像脈絡；題幹手術標本與膽管阻塞更支持腫瘤性病灶。\n\n【核心考點】\n肝門部膽管癌（Klatskin tumor）考的是膽管分叉與左右肝管阻塞，不是把所有肝門病灶都當肝膿瘍或實心肝腫瘤。此題含附圖，最終仍以官方影像判讀為準。",
+      "key_point": "肝門部膽管腫瘤造成左肝管阻塞的影像與解剖判讀",
+      "flashcard_front": "肝門部腫瘤 / Klatskin tumor / 左肝管阻塞 / 附圖判讀",
+      "flashcard_back": "肝門部膽管腫瘤可阻塞左或右肝管；本題官方影像判讀為左肝管阻塞。",
+      "flashcard_summary": "肝門部膽管癌 -> 看左右肝管阻塞與膽道擴張；此題官方答案為左肝管阻塞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。胰臟神經內分泌腫瘤中，功能性腫瘤以 insulinoma 常見；insulinoma 用 Whipple triad 抓低血糖、低血糖症狀、補葡萄糖後緩解。神經內分泌腫瘤典型為 hypervascular，contrast CT 常在動脈期顯影，不是大多 hypovascular 的完全低顯影腫塊。\n\n【選項詳解】\n- A. 胰島素瘤是最常見的功能性胰臟神經內分泌腫瘤，會造成低血糖症狀，敘述正確。\n- B. Whipple triad 包含低血糖、低血糖時出現症狀、給葡萄糖後症狀緩解，是 insulinoma 的診斷線索。\n- C. Insulinoma 多為血管豐富，增強 CT 常可見明顯早期顯影；說大部分 hypovascular 且完全低顯影是錯誤敘述。\n- D. Insulinoma 的性別發生率差異不大，這不是本題的錯誤點。\n\n【核心考點】\n胰臟神經內分泌腫瘤和胰臟腺癌影像不同：NET 常 hypervascular。Insulinoma 再加 Whipple triad，是低血糖題的高頻組合。",
+      "key_point": "胰島素瘤的 Whipple triad 與 hypervascular 影像特徵",
+      "flashcard_front": "Insulinoma / Whipple triad / hypervascular CT",
+      "flashcard_back": "Insulinoma 常見 Whipple triad，影像多為 hypervascular，而非 hypovascular 低顯影腫塊。",
+      "flashcard_summary": "胰島素瘤 -> Whipple triad；胰臟 NET 多 hypervascular",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n碘-131 治療需要腫瘤細胞保留攝碘能力，主要用在分化型甲狀腺癌，例如乳突癌與濾泡癌；Hürthle cell carcinoma 屬分化型範圍，攝碘能力較不穩定但仍可依風險評估。髓質癌來自濾泡旁 C 細胞，分泌 calcitonin，不靠碘代謝，因此不適合接受 I-131 治療。\n\n【選項詳解】\n- A. 乳突癌是分化型甲狀腺癌，若有淋巴結轉移或中高風險特徵，甲狀腺全切後可考慮 I-131。\n- B. 濾泡癌同樣屬分化型甲狀腺癌，具攝碘特性，風險合適時可用放射性碘治療。\n- C. 髓質癌源自 C 細胞，不攝碘；I-131 對其治療效果不佳，是本題不適合者。\n- D. Hürthle cell carcinoma 雖攝碘率較傳統乳突癌、濾泡癌差，但仍歸在分化型癌風險評估脈絡，不是最典型禁忌答案。\n\n【核心考點】\nI-131 的核心是「分化型、會攝碘」。Medullary thyroid carcinoma 來自 C cell、看 calcitonin，不吃碘這套。",
+      "key_point": "碘-131 治療適用於分化型甲狀腺癌，不適用髓質癌",
+      "flashcard_front": "I-131 / 分化型甲狀腺癌 / 髓質癌 / C cell",
+      "flashcard_back": "乳突癌與濾泡癌可依風險考慮 I-131；髓質癌源自 C 細胞，不適合放射性碘治療。",
+      "flashcard_summary": "I-131 -> 分化型甲狀腺癌；medullary carcinoma 不攝碘",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。前哨淋巴結切片可在臨床腋下陰性的乳癌病人減少不必要腋下廓清，降低上肢淋巴水腫風險；全乳房切除時也常同時做 SLNB。臨床已摸到腋下淋巴結時，通常需進一步針吸或切片證實，不是典型直接做 SLNB 的族群。外科醫師有學習曲線，但不能因前百例出現偽陰性就絕對禁止再執行。\n\n【選項詳解】\n- A. SLNB 若陰性可避免完整腋下淋巴廓清，因此能降低手臂淋巴水腫，是其主要優點。\n- B. SLNB 有學習曲線與可接受的偽陰性率監測；前百例若有偽陰性需檢討技術與品質，並非從此不應再做，故此句錯誤。\n- C. 乳房全切除者仍可做 SLNB，而且常建議在 mastectomy 同次完成，因日後較難再準確定位淋巴引流。\n- D. 若理學檢查已摸到可疑腋下淋巴結，代表臨床腋下陽性風險高，通常不屬標準 SLNB 適應症。\n\n【核心考點】\nSLNB 適合臨床腋下陰性病人，目的是減少 ALND 併發症。偽陰性率是品質監測與訓練問題，不是用一個絕對句把醫師資格永久否定。",
+      "key_point": "乳癌前哨淋巴結切片的適應症、優點與學習曲線",
+      "flashcard_front": "乳癌 / SLNB / ALND / 偽陰性率",
+      "flashcard_back": "SLNB 可降低 ALND 造成的淋巴水腫，適用於臨床腋下陰性病人；學習曲線需監測但非一有偽陰性即永久禁做。",
+      "flashcard_summary": "SLNB -> 減少 ALND；臨床腋下陰性較適合；偽陰性需品質監測",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。10 歲女童乳暈下單側、壓痛、約 2 公分硬塊，最常見是青春期前後乳芽發育或暫時性乳腺發育，可先觀察追蹤；另一側之後也可能出現。沒有快速變大、皮膚潰瘍、血性分泌物等警訊時，不應直接安排侵入性切片。\n\n【選項詳解】\n- A. Prepubertal 或早期青春期乳腺發育可表現為乳暈下壓痛硬塊，是本題最可能的良性狀況。\n- B. 青春期乳芽可先單側出現，再變成雙側或較對稱，左側之後出現並不奇怪。\n- C. 典型乳芽發育以衛教與追蹤為主，觀察硬塊大小、疼痛與青春期進展即可。\n- D. 直接安排 biopsy 會增加疤痕與乳腺傷害風險；在典型良性乳芽發育下不是合適處置，因此為錯誤敘述。\n\n【核心考點】\n兒童乳暈下壓痛硬塊多先想生理性乳芽發育。除非有惡性或感染警訊，處置是追蹤，不是切片。",
+      "key_point": "女童乳暈下硬塊多為良性乳芽發育，典型情境先追蹤",
+      "flashcard_front": "女童乳暈下硬塊 / prepubertal gynecomastia / follow-up",
+      "flashcard_back": "兒童典型乳芽發育可單側且壓痛，通常觀察追蹤；沒有警訊不需立即切片。",
+      "flashcard_summary": "兒童乳暈下壓痛硬塊 -> 多為乳芽發育；先觀察，不直接 biopsy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

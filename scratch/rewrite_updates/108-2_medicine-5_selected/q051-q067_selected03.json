@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-5.json",
+  "dataset_id": "108-2_medicine-5",
+  "range": {
+    "start": 51,
+    "end": 67
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-5_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n肺動脈瓣閉鎖的新生兒若沒有足夠肺血流，會仰賴開放性動脈導管把主動脈血流導向肺動脈。前列腺素 E1 可維持或重新打開 ductus arteriosus，讓肺血流增加，因此發紺改善。\n\n【選項詳解】\n- A. 前列腺素不會把閉鎖的肺動脈瓣打開；瓣膜本身仍然閉鎖，所以不是改善原因。\n- B. PGE1 使動脈導管維持開放或再開，提供到肺動脈的血流，正是 ductal-dependent pulmonary blood flow 的急救機轉。\n- C. 心房中隔缺損可幫助心房間混合，但不能直接增加肺動脈血流，無法解釋給 PGE1 後改善。\n- D. 體動脈到肺動脈側枝可能存在於部分先天心臟病，但 PGE1 的立即效果主要是作用在動脈導管。\n\n【核心考點】\n新生兒發紺性心臟病給 PGE1，要想到 ductal-dependent circulation。肺動脈瓣閉鎖靠動脈導管供應肺血流，打開導管就能改善缺氧。",
+      "key_point": "肺動脈瓣閉鎖的新生兒以 PGE1 重新開放動脈導管增加肺血流",
+      "flashcard_front": "Pulmonary atresia / PGE1 / PDA / cyanosis",
+      "flashcard_back": "PGE1 可開放動脈導管，使肺動脈瓣閉鎖的新生兒增加肺血流並改善發紺。",
+      "flashcard_summary": "肺動脈瓣閉鎖 -> ductal-dependent pulmonary flow；PGE1 開 PDA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n這題是肺動脈瓣閉鎖、完整心室中隔、右心室發育不良，且有右心室竇狀交通到冠狀動脈並合併左主冠狀動脈出口狹窄。這代表可能存在右心室依賴型冠狀動脈循環；若強行打開右心室出口或降低右心室壓力，可能造成冠狀動脈灌流惡化。最佳策略是先提供體肺分流，如 Blalock-Taussig shunt，而不是打開肺動脈瓣。\n\n【選項詳解】\n- A. 肺動脈瓣切開會改變右心室壓力，對右心室依賴型冠狀循環可能危險，不是最佳選擇。\n- B. Blalock-Taussig 分流術可從體循環提供肺血流，避開直接減壓右心室的風險，符合官方答案。\n- C. Transannular patch 用於擴大右心室出口，但此病人右心室發育不良且冠狀循環風險高，不宜作為最佳處置。\n- D. 肺動脈瓣切開加分流仍包含右心室減壓風險，因此不如單純體肺分流安全。\n\n【核心考點】\n肺動脈瓣閉鎖合併完整心室中隔時，若看到 RV sinusoid 到冠狀動脈與冠狀狹窄，要小心 RVDCC。這種病人避免直接右心室減壓，先以體肺分流供肺血流。",
+      "key_point": "肺動脈瓣閉鎖合併右心室依賴型冠狀循環時避免右心室減壓",
+      "flashcard_front": "PA-IVS / RVDCC / Blalock-Taussig shunt",
+      "flashcard_back": "PA-IVS 合併 RVDCC 時，不宜直接肺動脈瓣切開；可用 Blalock-Taussig shunt 提供肺血流。",
+      "flashcard_summary": "PA-IVS 加 RVDCC -> 避免 RV decompression；選 BT shunt",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nDe Quervain 氏症是第一伸肌腱腔室狹窄性腱鞘炎，受累的是 abductor pollicis longus（APL）與 extensor pollicis brevis（EPB）。選項中只有拇指外展長肌腱屬於第一腔室。\n\n【選項詳解】\n- A. Extensor carpi radialis brevis 位於第二伸肌腱腔室，不是 De Quervain 的第一腔室肌腱。\n- B. Extensor carpi radialis longus 也在第二腔室，主要負責手腕伸展與橈偏，解剖位置不在 APL/EPB 的狹窄腱鞘內。\n- C. Extensor pollicis longus 位於第三腔室，通過 Lister tubercle 尺側，不屬第一腔室。\n- D. Abductor pollicis longus 是第一伸肌腱腔室的肌腱之一，和 EPB 一起造成媽媽手，符合官方答案。\n\n【核心考點】\n媽媽手記第一腔室：APL 加 EPB。EPL 是第三腔室，ECRL/ECRB 是第二腔室。",
+      "key_point": "De Quervain 氏症侵犯第一伸肌腱腔室的 APL 與 EPB",
+      "flashcard_front": "De Quervain / first extensor compartment / APL / EPB",
+      "flashcard_back": "De Quervain 氏症是第一伸肌腱腔室病變，包含 APL 與 EPB。",
+      "flashcard_summary": "De Quervain -> 第一腔室 -> APL 和 EPB",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n全髖人工關節置換的後方入路會從臀大肌分開後進入，通常需要處理短外旋肌群與後方關節囊；短外旋肌包括 piriformis、gemelli、obturator internus 等。選項中 superior gemellus 屬短外旋肌，會在後方入路中被切開或放鬆。\n\n【選項詳解】\n- A. Gluteus medius 是外展肌，較常在側方或前外側入路被牽涉；後方入路通常會保留它。\n- B. Gluteus minimus 位於髖外展肌群深層，也不是後方入路必須切斷的主要肌肉。\n- C. Superior gemellus 是短外旋肌群之一，位於髖關節後方，後方入路常需切斷或放鬆，符合官方答案。\n- D. Vastus lateralis 在股骨外側，與標準後方髖關節入路的關節暴露不相符。\n\n【核心考點】\nTHR 後方入路的關鍵是後方短外旋肌群，不是臀中肌。這也是後方入路術後脫位風險與後方軟組織修補常被一起考的原因。",
+      "key_point": "全髖關節置換後方入路需處理短外旋肌群",
+      "flashcard_front": "Total hip replacement / posterior approach / short external rotators",
+      "flashcard_back": "髖關節後方入路常切開短外旋肌群；superior gemellus 屬於此群。",
+      "flashcard_summary": "THR posterior approach -> short external rotators；superior gemellus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n遠端橈骨骨折合併遠端橈尺關節（DRUJ）脫位稱為 Galeazzi fracture-dislocation。此題的關鍵詞已直接給出「遠端橈骨骨折」與「遠端橈尺骨關節脫位」，因此選 Galeazzi。\n\n【選項詳解】\n- A. Galeazzi 氏骨折就是橈骨遠端或中遠端骨折合併 DRUJ 脫位，與題幹完全相符。\n- B. Smith fracture 是遠端橈骨骨折合併掌側移位，沒有以 DRUJ 脫位作為定義。\n- C. Monteggia fracture 是尺骨近端骨折合併橈骨頭脫位，方向與本題相反。\n- D. Essex-Lopresti injury 是橈骨頭骨折、骨間膜破裂與 DRUJ 不穩定的組合，不是單純遠端橈骨骨折合併 DRUJ 脫位。\n\n【核心考點】\n前臂骨折命名最常考配對：Galeazzi 是 radius fracture 加 DRUJ dislocation；Monteggia 是 ulna fracture 加 radial head dislocation。",
+      "key_point": "Galeazzi 氏骨折為遠端橈骨骨折合併遠端橈尺關節脫位",
+      "flashcard_front": "Galeazzi / distal radius fracture / DRUJ dislocation",
+      "flashcard_back": "遠端橈骨骨折合併 DRUJ 脫位稱 Galeazzi fracture-dislocation。",
+      "flashcard_summary": "Galeazzi -> radius fracture + DRUJ dislocation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n題目問 terrible triad of the elbow 的除外。恐怖三合症是肘關節脫臼、橈骨頭骨折、尺骨冠狀突骨折三者並存，代表肘關節非常不穩定。肱骨髁上骨折是兒童常見肘部骨折，但不屬於 terrible triad 定義。\n\n【選項詳解】\n- A. Coronoid fracture 是 terrible triad 的三個組成之一，不能選為除外。\n- B. Radial head fracture 也是 terrible triad 的必要組成之一。\n- C. Supracondylar fracture of humerus 不在 terrible triad 定義中，是本題除外答案。\n- D. Elbow dislocation 是 terrible triad 的核心傷害之一，常與橈骨頭與冠狀突骨折一起出現。\n\n【核心考點】\nElbow terrible triad = elbow dislocation + radial head fracture + coronoid fracture。看到 supracondylar humerus fracture 要排除。",
+      "key_point": "肘關節恐怖三合症由脫臼、橈骨頭骨折與冠狀突骨折組成",
+      "flashcard_front": "Terrible triad elbow / radial head / coronoid / dislocation",
+      "flashcard_back": "肘關節 terrible triad 不包括肱骨髁上骨折。",
+      "flashcard_summary": "Elbow terrible triad -> dislocation + radial head fracture + coronoid fracture",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n題目問哪個不是兒童足踝疾病名稱。Köhler disease 是足舟狀骨骨軟骨病變，Freiberg infarction 是蹠骨頭缺血壞死，Sever disease 是跟骨骨骺炎；三者都可歸在兒童或青少年足踝相關病變。Panner disease 是肱骨小頭骨軟骨病變，屬肘部，不是足踝。\n\n【選項詳解】\n- A. Köhler disease 發生在足舟狀骨，是典型兒童足部骨軟骨病變。\n- B. Freiberg infarction 多影響第二蹠骨頭，也屬前足疾病。\n- C. Panner disease 發生在肘部肱骨小頭，不是足踝疾病，符合官方答案。\n- D. Sever disease 是跟骨骨骺炎，常見於兒童或青少年足跟痛。\n\n【核心考點】\n兒童足踝骨骺炎名稱要配部位：Köhler 足舟狀骨、Freiberg 蹠骨頭、Sever 跟骨。Panner 在肘部。",
+      "key_point": "兒童骨軟骨病變名稱與解剖部位鑑別",
+      "flashcard_front": "Köhler / Freiberg / Sever / Panner",
+      "flashcard_back": "Panner disease 是肱骨小頭病變，不是足踝疾病。",
+      "flashcard_summary": "足踝病名 -> Köhler 足舟狀骨、Freiberg 蹠骨頭、Sever 跟骨；Panner 是肘部",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。腎細胞癌常有副腫瘤症候群，可出現發燒、體重減輕、貧血、肝功能異常、ESR 升高、高血壓、高血鈣等。高血鈣是重要表現，但若說它是最常發生的臨床症狀，且其次是高血壓，過度簡化且不符合常見統計描述；ESR 升高反而常被列為最常見的全身性異常之一。\n\n【選項詳解】\n- A. RCC 約有相當比例病人會出現 paraneoplastic syndrome，20% 是常見考試敘述，可接受。\n- B. ESR 升高常被列為 RCC 副腫瘤或全身性表現中很常見的異常，這句不是錯誤點。\n- C. 高血鈣雖重要，但不是最常見的 paraneoplastic 臨床表現；把它列為最常見且其次高血壓不精確，符合官方錯誤答案。\n- D. 高血鈣可由 PTHrP 等副腫瘤機轉或骨轉移溶骨造成，發生率可達題目所列範圍，敘述合理。\n\n【核心考點】\nRCC 是副腫瘤症候群大戶，但排序要小心。ESR 升高、貧血、發燒、肝功能異常等常見；高血鈣重要但不是最常見。",
+      "key_point": "腎細胞癌副腫瘤症候群常見表現與高血鈣排序陷阱",
+      "flashcard_front": "RCC / paraneoplastic syndrome / ESR / hypercalcemia",
+      "flashcard_back": "RCC 可有副腫瘤症候群；高血鈣重要但不應說成最常見表現。",
+      "flashcard_summary": "RCC paraneoplastic -> ESR 升高常見；高血鈣重要但非最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。根除性膀胱切除術是重大骨盆手術，可用於肌肉侵犯性膀胱癌，以及部分 BCG 或膀胱內治療失敗的 high-grade Ta/T1 或 CIS。手術前需評估出血風險與抗血小板藥物，aspirin 通常不會說「不必停止」；是否停藥要依血栓風險與手術計畫決定。\n\n【選項詳解】\n- A. High-grade 膀胱癌或 CIS 經膀胱內治療仍反覆復發，可能需早期根除性膀胱切除，敘述正確。\n- B. Radical cystectomy 出血風險高，aspirin 需術前評估並常需停用或調整；說完全不必停止是錯誤敘述。\n- C. 骨盆大手術後臥床與腫瘤本身會增加深層靜脈血栓風險，需預防與監測。\n- D. Radical cystectomy 有一定手術死亡率，約 1-3% 是常見考試範圍，敘述可接受。\n\n【核心考點】\n根除性膀胱切除是高風險大手術，術前抗血小板與抗凝藥一定要評估。不要把 aspirin 當成完全不用管的藥。",
+      "key_point": "根除性膀胱切除術的適應症、血栓風險與 aspirin 術前評估",
+      "flashcard_front": "Radical cystectomy / aspirin / high-grade bladder cancer",
+      "flashcard_back": "Radical cystectomy 前需評估 aspirin 等抗血小板藥物；不應說術前完全不必停止。",
+      "flashcard_summary": "Radical cystectomy -> 高風險手術；aspirin 需術前評估或調整",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-5_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n題目問錯誤敘述。BPH 源自前列腺 transition zone，由上皮與基質增生組成；基質平滑肌受 alpha-1 交感神經影響，這也是 alpha-blocker 可改善症狀的理由。下泌尿道症狀嚴重度和前列腺大小不一定線性相關，因為症狀還受膀胱出口位置、平滑肌張力與膀胱功能影響。\n\n【選項詳解】\n- A. BPH 主要發生在 transition zone，會壓迫尿道造成膀胱出口阻塞，敘述正確。\n- B. 顯微鏡下有 stromal 與 epithelial hyperplasia；stromal smooth muscle 受 alpha-1 adrenergic tone 影響，敘述正確。\n- C. BPH 與年齡、雄性素環境及雌雄素比例變化相關，題目列為正確敘述時可按官方邏輯保留。\n- D. 肛門指診估到的體積大小不必然與 LUTS 阻塞症狀成正相關；小腺體也可因位置造成明顯症狀，因此此句錯誤。\n\n【核心考點】\nBPH 的大小和症狀不是等號。考題常用 DRE 體積誤導；真正症狀取決於尿道壓迫位置、動態平滑肌張力與膀胱反應。",
+      "key_point": "BPH 的 transition zone 起源、alpha-1 支配與症狀不等於體積大小",
+      "flashcard_front": "BPH / transition zone / alpha-1 / LUTS",
+      "flashcard_back": "BPH 起源於 transition zone；LUTS 嚴重度不一定和 DRE 前列腺大小成正比。",
+      "flashcard_summary": "BPH -> TZ 起源；alpha-1 tone；LUTS 不必然和體積成正比",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T18:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

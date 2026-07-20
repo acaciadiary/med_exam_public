@@ -1,17 +1,17 @@
 import json
-import sys
 
-if hasattr(sys.stdout, 'reconfigure'):
-    sys.stdout.reconfigure(encoding='utf-8')
+target_qs = ["53", "54", "55", "56", "57", "59", "60", "61", "62", "64"]
 
-source_path = 'd:/Antigravity/med_exam_public/public/data/exams/109-1/medicine-1.json'
-
-with open(source_path, 'r', encoding='utf-8') as f:
+with open(r'd:\Antigravity\med_exam_public\public\data\exams\108-2\medicine-3.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-questions = data.get('questions', [])
-q41 = [q for q in questions if q.get('question_number') == 41][0]
+extracted = {}
+for q in data.get('questions', []):
+    q_num = str(q.get('question_number', ''))
+    if q_num in target_qs:
+        extracted[q_num] = q
 
-for k, v in q41.items():
-    if k not in ['explanation', 'question_text', 'options']:
-        print(f"{k}: {repr(v)}")
+with open(r'd:\Antigravity\med_exam_public\scratch\temp_extract_qs.json', 'w', encoding='utf-8') as f:
+    json.dump(extracted, f, ensure_ascii=False, indent=2)
+
+print(f"Extracted {len(extracted)} questions.")

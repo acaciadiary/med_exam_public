@@ -1,0 +1,127 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題測驗奴卡氏菌 (Nocardia) 的微生物學特徵與致病性，需選出正確的描述。標準答案為 C。\n\n【選項詳解】\n- A. 錯在 Nocardia 為革蘭氏陽性桿菌，而非陰性。\n- B. 錯在 Nocardia 是一種常見的伺機性病原，在免疫低下患者（如器官移植、淋巴瘤）最常引起肺部感染，且常擴散至皮膚與中樞神經。\n- C. 正確。Nocardia 為專性需氧的分枝狀桿菌，其細胞壁含有中等長度的黴菌酸 (mycolic acid)，因此在抗酸性染色中呈現弱抗酸性 (weakly acid-fast)。\n- D. 錯在 Nocardia 與分枝桿菌類似，亦能產生索狀因子 (cord factor)，這也是幫助其在巨噬細胞內存活的毒力因子。\n\n【核心考點】\nNocardia 為革蘭氏陽性、具弱抗酸性及需氧的分枝狀桿菌，好發於免疫低下者，引起肺部、皮膚及中樞神經感染。",
+      "key_point": "Nocardia 為含 mycolic acid 的革蘭氏陽性弱抗酸性需氧菌。",
+      "flashcard_front": "Nocardia species 在革蘭氏染色與抗酸染色下的特徵為何？其好發感染部位為何？",
+      "flashcard_back": "1. 革蘭氏陽性分枝狀桿菌\\n2. 弱抗酸性 (weakly acid-fast，因細胞壁含 mycolic acid)\\n3. 專性需氧\\n4. 伺機性感染，最常引起肺部、中樞神經與皮膚感染",
+      "flashcard_summary": "Nocardia 微生物特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題測驗肺炎黴漿菌 (Mycoplasma pneumoniae) 的抗生素選擇。由於其特殊的細胞結構，必須選擇不作用於細胞壁的藥物。標準答案為 D。\n\n【選項詳解】\n- A. 錯在 Penicillin 屬於 beta-lactam 類藥物，主要作用於細菌細胞壁合成。黴漿菌天生沒有細胞壁，因此對此類藥物具天然抗藥性。\n- B. 錯在 Carbapenem 亦為 beta-lactam 類抗生素，對無細胞壁的黴漿菌無效。\n- C. 錯在 Cephalosporin 同樣是干擾細胞壁胜肽聚醣合成的藥物，無法治療黴漿菌感染。\n- D. 正確。Erythromycin 屬於巨環內酯類 (Macrolides)，其機轉為結合細菌核糖體 50S 次單位以抑制蛋白質合成。Macrolides 或四環黴素 (Tetracyclines) 為治療黴漿菌肺炎的首選。\n\n【核心考點】\n黴漿菌因缺乏細胞壁，對所有 beta-lactam 類抗生素（青黴素、頭孢素等）皆具抗藥性，須使用 Macrolides 或 Tetracyclines 治療。",
+      "key_point": "黴漿菌無細胞壁，對 beta-lactam 無效，治療首選為巨環內酯類 (如 Erythromycin)。",
+      "flashcard_front": "治療肺炎黴漿菌 (Mycoplasma pneumoniae) 為何不能使用 beta-lactam 類抗生素？首選藥物是哪些類別？",
+      "flashcard_back": "1. 不能使用 beta-lactam 是因為黴漿菌天生缺乏細胞壁。\\n2. 首選藥物為巨環內酯類 (Macrolides，如 Erythromycin、Azithromycin) 或四環黴素類 (Tetracyclines)，機轉為抑制細菌蛋白質合成。",
+      "flashcard_summary": "黴漿菌用藥選擇",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題測驗分枝桿菌屬 (Mycobacteria) 各菌種的致病性與好發族群。標準答案為 B。\n\n【選項詳解】\n- A. 錯在堪薩斯分枝桿菌 (Mycobacterium kansasii) 是一種非結核分枝桿菌 (NTM)，為致病菌而非正常菌叢，可引起類似肺結核的肺部感染。\n- B. 正確。鳥型分枝桿菌 (Mycobacterium avium complex, MAC) 是愛滋病患者 (尤其 CD4 < 50) 晚期最常見的伺機性細菌感染之一，易造成全身瀰漫性感染。\n- C. 錯在海洋分枝桿菌 (Mycobacterium marinum) 會感染人類，通常經由接觸受汙染的海水或水族箱引起皮膚的「游泳池肉芽腫 (swimming pool granuloma)」。\n- D. 錯在牛型分枝桿菌 (Mycobacterium bovis) 可透過未經巴斯德消毒的牛奶傳染給人類，引起腸道或全身性結核病；其減毒株亦是卡介苗 (BCG) 的來源。\n\n【核心考點】\nMAC 是愛滋病末期常見的伺機性感染；M. marinum 會引起皮膚肉芽腫；M. kansasii 與 M. bovis 均為人類致病菌。",
+      "key_point": "鳥型分枝桿菌 (MAC) 是愛滋病患者晚期常見的瀰漫性伺機感染源。",
+      "flashcard_front": "請列舉三種非結核分枝桿菌 (NTM) 及其在人類造成的典型感染表現。",
+      "flashcard_back": "1. M. avium complex (MAC)：在免疫低下者（如愛滋病 CD4 < 50）引發全身瀰漫性感染。\\n2. M. marinum：接觸海水或水族箱造成的皮膚游泳池肉芽腫。\\n3. M. kansasii：引起類似肺結核的慢性肺部感染。",
+      "flashcard_summary": "分枝桿菌感染特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題測驗糞腸球菌 (Enterococcus faecalis) 常見的臨床感染型態。腸球菌是人類腸道的正常菌叢，但在醫療環境中是重要的院內感染源。標準答案為 D。\n\n【選項詳解】\n- A. 錯在腸球菌極少成為原發性肺炎的致病菌。\n- B. 錯在腦膜炎較常由肺炎鏈球菌、腦膜炎雙球菌、B 群鏈球菌等引起，腸球菌極少引發腦膜炎。\n- C. 錯在常見引起食物中毒的細菌為金黃色葡萄球菌、仙人掌桿菌或沙門氏菌等，腸球菌並不以食物中毒為主要表現。\n- D. 正確。腸球菌是院內感染的常見病原，最常引發泌尿道感染 (尤其是有放置導尿管的病患)，其他常見感染還包括腹腔/骨盆腔感染與感染性心內膜炎。\n\n【核心考點】\n腸球菌 (Enterococcus) 為常見的院內感染源，臨床上最易引起泌尿道感染、心內膜炎及腹腔內感染。",
+      "key_point": "糞腸球菌最常引起院內泌尿道感染及心內膜炎。",
+      "flashcard_front": "糞腸球菌 (Enterococcus faecalis) 作為院內感染常見病原，最常引起哪三種臨床感染？",
+      "flashcard_back": "1. 泌尿道感染 (UTI，尤見於導尿管留置患者)\\n2. 腹腔與骨盆腔感染 (常為多重菌落感染的一部分)\\n3. 感染性心內膜炎",
+      "flashcard_summary": "腸球菌常見感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題測驗 A 群鏈球菌 (Group A Streptococci) 溶血素 O (SLO) 的特性，要求選出錯誤的敘述。標準答案為 C。\n\n【選項詳解】\n- A. 敘述正確，SLO 是一種對氧氣敏感 (oxygen-labile) 的溶血素，會在缺氧環境下表現出強烈的溶血活性。\n- B. 敘述正確，鏈球菌咽喉炎感染後會誘發免疫反應產生抗 SLO 抗體 (ASO)，高 ASO 效價是診斷急性風濕熱 (rheumatic fever) 的重要血清學證據。\n- C. 錯誤。在鏈球菌引起的皮膚感染 (膿皮症) 中，皮膚組織內的膽固醇會結合並抑制 SLO 的抗原性，導致病患體內不易產生高效價的 ASO。對於皮膚感染後引發的併發症（如鏈球菌感染後腎絲球腎炎, PSGN），應改測 Anti-DNase B 效價來幫助診斷。\n- D. 敘述正確，SLO 與肺炎鏈球菌分泌的對氧敏感毒素 (Pneumolysin) 在結構與抗原性上有高度相似的交叉反應。\n\n【核心考點】\nA 群鏈球菌皮膚感染時因皮膚膽固醇中和 SLO，不會產生明顯升高的 ASO，須改測 Anti-DNase B 以確認感染紀錄。",
+      "key_point": "膿皮症患者因皮膚膽固醇抑制 SLO，ASO 效價通常不高，需測 Anti-DNase B。",
+      "flashcard_front": "為什麼 A 群鏈球菌引起的膿皮症患者不易測得高效價的 ASO？應改測哪種抗體來診斷近期感染？",
+      "flashcard_back": "1. 因為皮膚表面的脂質與膽固醇會與 SLO 結合，抑制其抗原性，使身體不易產生 ASO 抗體。\\n2. 此時應改測 Anti-DNase B 效價來確認近期感染 (如診斷 PSGN 時)。",
+      "flashcard_summary": "膿皮症與 ASO 抗體",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題測驗金黃色葡萄球菌 (Staphylococcus aureus) 的毒力因子，要求選出最不可能由該菌產生的酵素。標準答案為 D。\n\n【選項詳解】\n- A. 金黃色葡萄球菌能產生玻尿酸酶 (Hyaluronidase)，藉由分解組織中的玻尿酸，促進細菌在細胞間質中的擴散。\n- B. 金黃色葡萄球菌能分泌 Staphylokinase，其作用類似纖溶酶 (Fibrinolysin)，可溶解血栓幫助細菌散播。\n- C. 凝固酶 (Coagulase) 是金黃色葡萄球菌最具代表性的酵素，能使血漿凝固形成纖維蛋白屏障以躲避吞噬，且是與表皮葡萄球菌 (凝固酶陰性) 鑑別的關鍵試驗。\n- D. 錯誤。C5a 蛋白酶 (C5a peptidase) 是 A 群鏈球菌 (Streptococcus pyogenes) 專屬的重要毒力因子，其功能是降解補體 C5a，藉此抑制嗜中性白血球的趨化作用，金黃色葡萄球菌不會產生此酵素。\n\n【核心考點】\nC5a peptidase 是 A 群鏈球菌的毒力因子，用於分解 C5a 降低白血球趨化作用；凝固酶 (Coagulase) 則是鑑別金黃色葡萄球菌的核心指標。",
+      "key_point": "C5a 蛋白酶為 A 群鏈球菌的毒力因子，金黃色葡萄球菌不產生此酵素。",
+      "flashcard_front": "C5a 蛋白酶 (C5a peptidase) 是哪種細菌的主要毒力因子？其作用機轉為何？",
+      "flashcard_back": "1. 主要為 A 群鏈球菌 (Streptococcus pyogenes) 的毒力因子。\\n2. 作用機轉為降解補體 C5a，藉此抑制嗜中性白血球的趨化作用 (chemotaxis)，幫助細菌逃避免疫攻擊。",
+      "flashcard_summary": "C5a peptidase 特性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題藉由 EB 病毒 (EBV) 多種抗體的血清學表現，判斷病人的感染狀態。anti-VCA IgM 陽性提示近期感染，而 anti-EBNA 陰性則排除過去感染。標準答案為 A。\n\n【選項詳解】\n- A. 正確。在急性初次感染期 (acute primary infection)，血清中最先出現的是 anti-VCA IgM 及 IgG，而核抗原抗體 (anti-EBNA) 在此階段尚未產生（通常需數週到數月才會出現），因此呈現 anti-VCA IgM(+)、anti-EBNA(-) 的組合。\n- B. 錯在若為慢性活躍性感染，通常會有異常升高的 VCA IgG 與 EA 抗體，但不會呈現典型的急性期 IgM(+) 伴隨 EBNA(-) 表現。\n- C. 錯在過去感染 (past infection) 者，其血清中的 anti-VCA IgM 已消失轉為陰性，且 anti-EBNA 應已轉為陽性並終生存在。\n- D. 錯在若為 EB 病毒再活化 (reactivation)，病患曾經感染過，因此 anti-EBNA 會是陽性，且通常伴隨 anti-EA 的再次升高，而非 IgM 陽性。\n\n【核心考點】\nEB 病毒感染急性期的標記為 anti-VCA IgM 陽性且 anti-EBNA 陰性；進入恢復期及終身帶原時，anti-VCA IgM 會消失，而 anti-EBNA 會轉陽。",
+      "key_point": "EBV 急性感染的指標為 anti-VCA IgM 陽性且 anti-EBNA 陰性。",
+      "flashcard_front": "如何藉由血清學區分 EB 病毒 (EBV) 的急性初次感染與過去曾感染？",
+      "flashcard_back": "1. 急性初次感染：anti-VCA IgM (+)、anti-EBNA (-)。(核抗原抗體尚未產生)\\n2. 過去曾感染：anti-VCA IgM (-)、anti-VCA IgG (+)、anti-EBNA (+)。(IgM 消失，核抗原抗體終生存在)",
+      "flashcard_summary": "EBV 血清學判讀",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題測驗核准的愛滋病毒 (HIV) 抗病毒藥物機轉，要求選出目前臨床上不存在的藥物類別。標準答案為 D。\n\n【選項詳解】\n- A. 蛋白酶抑制劑 (Protease inhibitor) 為 FDA 認可的藥物 (字尾多為 -navir)，能阻斷 HIV 蛋白酶切割病毒多聚蛋白，導致新釋放的病毒顆粒不成熟且無感染力。\n- B. 嵌入酶抑制劑 (Integrase inhibitor, INSTI) 為認可的藥物 (字尾多為 -tegravir)，能阻止病毒 DNA 嵌入宿主細胞的染色體中。\n- C. 核苷類似物反轉錄酶抑制劑 (NRTI) 為認可的藥物 (如 AZT, Tenofovir)，藉由偽裝成核苷酸嵌入病毒 DNA 鏈，終止反轉錄過程。\n- D. 錯誤。雖然抑制病毒「出芽 (budding)」在學理上是個潛在靶點，但目前 FDA 並沒有核准任何機轉為「病毒出芽抑制劑」的抗 HIV 藥物。\n\n【核心考點】\n現行 HIV 高效能抗反轉錄病毒療法 (HAART) 的藥物類別包含：進入/融合抑制劑、反轉錄酶抑制劑 (NRTI/NNRTI)、整合酶抑制劑 (INSTI) 以及蛋白酶抑制劑 (PI)；目前尚無出芽抑制劑。",
+      "key_point": "目前核准的抗 HIV 藥物無「病毒出芽抑制劑」。",
+      "flashcard_front": "現行常見的抗 HIV 藥物 (HAART) 包含哪四個主要類別？",
+      "flashcard_back": "1. 進入/融合抑制劑 (Entry/Fusion inhibitors)\\n2. 反轉錄酶抑制劑 (NRTI/NNRTI)\\n3. 整合酶/嵌入酶抑制劑 (Integrase inhibitors, INSTI)\\n4. 蛋白酶抑制劑 (Protease inhibitors, PI)",
+      "flashcard_summary": "HIV 藥物分類",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題測驗人類疱疹病毒科 (Herpesviridae) 中，目前唯一擁有商業化且常規施打活性減毒疫苗的病毒種類。標準答案為 D。\n\n【選項詳解】\n- A. 錯在單純疱疹病毒 (HSV-1 及 HSV-2) 雖然臨床感染普遍，但目前尚未有成功研發並核准上市的疫苗。\n- B. 錯在第八型人類疱疹病毒 (HHV-8) 會引起卡波西氏肉瘤 (Kaposi sarcoma)，目前尚無預防疫苗。\n- C. 錯在 EB 病毒 (Epstein-Barr virus) 雖與多種淋巴瘤及鼻咽癌有關，但至今仍未有常規使用的預防疫苗。\n- D. 正確。水痘-帶狀疱疹病毒 (VZV, HHV-3) 目前已有基於 Oka 疫苗株的活性減毒疫苗廣泛施打於兒童預防水痘，以及針對老年族群預防帶狀疱疹。\n\n【核心考點】\n在人類疱疹病毒群中，僅有水痘-帶狀疱疹病毒 (VZV) 具備核准上市並廣泛施打的減毒活性疫苗。",
+      "key_point": "水痘-帶狀疱疹病毒 (VZV) 是目前唯一有減毒活性疫苗的人類疱疹病毒。",
+      "flashcard_front": "在人類疱疹病毒 (Herpesviruses) 中，目前唯一有市售常規施打疫苗的是哪一種？其疫苗型態為何？",
+      "flashcard_back": "1. 唯一有常規疫苗的是水痘-帶狀疱疹病毒 (Varicella-zoster virus, VZV)。\\n2. 其廣泛使用的為減毒活性疫苗 (live-attenuated vaccine, 如 Oka strain)。",
+      "flashcard_summary": "VZV 疫苗",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:38:11+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-3.json",
+  "dataset_id": "108-1_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n這題考偶然發現的空蝶鞍如何處置。病人月經正常，血糖、血壓、free T4、TSH 與清晨 cortisol 都沒有顯示腦下垂體功能低下或腫瘤壓迫症狀，最適合的做法是說明良性可能性並追蹤，而不是立即治療。\n\n【選項詳解】\n- A. 經蝶鞍手術用於有壓迫症狀、腫瘤或需要病理診斷的病灶；本題只是影像偶發空蝶鞍且內分泌功能正常，沒有手術適應症。\n- B. 放射治療用於特定殘存或復發腦下垂體腫瘤；空蝶鞍本身不是放射治療的標的。\n- C. Bromocriptine 主要治療泌乳素瘤或高泌乳素血症；題幹沒有月經異常、泌乳或泌乳素升高線索。\n- D. 病人無症狀且腦下垂體軸檢查正常，最恰當是 reassurance，必要時安排後續內分泌追蹤。\n\n【核心考點】\n無症狀空蝶鞍且腦下垂體功能正常時，以說明與追蹤為主。",
+      "key_point": "無症狀空蝶鞍且腦下垂體功能正常時，以說明與追蹤為主。",
+      "flashcard_front": "空蝶鞍偶發發現、內分泌正常：下一步？",
+      "flashcard_back": "以 reassurance 與追蹤為主；只有腫瘤、壓迫症狀或內分泌異常才考慮進一步治療。",
+      "flashcard_summary": "無症狀空蝶鞍且腦下垂體功能正常時，以說明與追蹤為主。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n這題考高血鈉的水分缺乏估算與矯正速度。意識不清且血鈉 160 mEq/L 時，要先估算自由水缺乏並緩慢矯正，避免血漿滲透壓下降太快造成腦水腫。\n\n【選項詳解】\n- A. 全身水量通常男性約體重 60%、女性約 50%，選項把男女比例寫反。\n- B. 70 公斤男性的自由水缺乏約為 70 x 0.6 x (160/140 - 1)，約 6 L，不是約 5 L。\n- C. 不易感知水分流失通常約 10 mL/kg/day，發燒、喘或高代謝時更多；5 mL/kg/day過低。\n- D. 慢性或不確定時間的高血鈉，一般每日矯正不超過約 10 mEq/L，以降低腦水腫風險。\n\n【核心考點】\n高血鈉矯正要慢，通常每日下降不超過約 10 mEq/L。",
+      "key_point": "高血鈉矯正要慢，通常每日下降不超過約 10 mEq/L。",
+      "flashcard_front": "高血鈉矯正速度",
+      "flashcard_back": "慢性或時間不明高血鈉應緩慢補自由水，避免每日下降超過約 10 mEq/L。",
+      "flashcard_summary": "高血鈉矯正要慢，通常每日下降不超過約 10 mEq/L。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n慢性腹瀉吃麵粉後加劇、貧血、低鈣與 IgA anti-tissue transglutaminase 陽性，組合最符合麩質敏感性腸病變，也就是 celiac disease。\n\n【選項詳解】\n- A. Irritable bowel syndrome 可有腹瀉與腹痛，但不會造成 anti-tTG IgA 陽性、貧血或低鈣等吸收不良證據。\n- B. Celiac disease 由麩質誘發小腸絨毛萎縮，會有腹瀉、缺鐵性貧血、低鈣，且 anti-tTG IgA 是重要檢驗線索。\n- C. 嗜酸性胃腸炎常與過敏、嗜酸球增加或腸壁浸潤相關，題幹重點是麵粉誘發與 celiac 血清學陽性。\n- D. Crohn disease 可有腹瀉與吸收不良，但常見腹痛、體重下降、肛周病灶或發炎指標，anti-tTG IgA 不是其典型診斷依據。\n\n【核心考點】\n慢性腹瀉加麩質誘發且 anti-tTG IgA 陽性，優先診斷 celiac disease。",
+      "key_point": "慢性腹瀉加麩質誘發且 anti-tTG IgA 陽性，優先診斷 celiac disease。",
+      "flashcard_front": "麵粉後腹瀉、anti-tTG IgA 陽性",
+      "flashcard_back": "最符合 celiac disease，常合併吸收不良造成貧血與低鈣。",
+      "flashcard_summary": "慢性腹瀉加麩質誘發且 anti-tTG IgA 陽性，優先診斷 celiac disease。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n這題考瓣膜病的病因、雜音與血流動力學。二尖瓣狹窄的典型原因仍是風濕性心臟病，病程常延遲多年才表現。\n\n【選項詳解】\n- A. 二尖瓣狹窄最常見原因是風濕性慢性發炎，常在中年女性被診斷，臺灣隨風濕熱減少而病例下降，敘述正確。\n- B. Marfan 可造成主動脈根部擴張與主動脈瓣逆流，但嚴重主動脈逆流常使主動脈瓣關閉聲變小，不是 S2 變大聲。\n- C. 急性中重度瓣膜逆流合併心衰竭時，可用血管擴張劑作為穩定病況的橋接治療，並非不應使用。\n- D. 單純二尖瓣狹窄主要使左心房與肺靜脈壓上升，左心室舒張末壓通常不會像主動脈瓣狹窄那樣升高。\n\n【核心考點】\n二尖瓣狹窄典型病因是風濕性心臟病，血流瓶頸在左心房到左心室之間。",
+      "key_point": "二尖瓣狹窄典型病因是風濕性心臟病，血流瓶頸在左心房到左心室之間。",
+      "flashcard_front": "二尖瓣狹窄常見原因",
+      "flashcard_back": "風濕性慢性發炎最典型；單純 MS 主要升高左心房壓，不一定升高 LVEDP。",
+      "flashcard_summary": "二尖瓣狹窄典型病因是風濕性心臟病，血流瓶頸在左心房到左心室之間。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n這題依心電圖判讀 WPW 旁道位置；題庫文字未保留圖像，只能依官方答案說明。官方答案為左側側壁旁道，通常要看 delta wave 與胸前導程、肢導程極性來定位。\n\n【選項詳解】\n- A. 右心室側壁旁道會呈現不同的 delta wave 與 QRS 軸向；依官方圖像判讀並非此位置。\n- B. 左側側壁旁道常由特定導程的 delta wave 極性支持；本題官方答案採此定位。\n- C. 前中膈旁道較接近 His-Purkinje 區域，心電圖表現與左側側壁不同，且消融風險也不同。\n- D. 後中膈旁道常有下壁導程負向 delta wave 等線索；本題官方判讀不是後中膈。\n\n【核心考點】\nWPW 旁道定位需依 delta wave 與各導程 QRS 極性判讀；本題官方圖像指向左側側壁。",
+      "key_point": "WPW 旁道定位需依 delta wave 與各導程 QRS 極性判讀；本題官方圖像指向左側側壁。",
+      "flashcard_front": "WPW 旁道定位：左側側壁",
+      "flashcard_back": "依 ECG delta wave 極性定位；本題圖像官方答案為 left lateral accessory pathway。",
+      "flashcard_summary": "WPW 旁道定位需依 delta wave 與各導程 QRS 極性判讀；本題官方圖像指向左側側壁。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n慢性腎臟病老人疲倦無力，心電圖題最常考高血鉀的 peaked T wave、PR 延長、QRS 變寬到 sine-wave 的變化；官方答案為高血鉀症。\n\n【選項詳解】\n- A. 高血鈣典型心電圖是 QT interval 縮短，與腎病患者急性危險心電圖變化的考點不同。\n- B. 低血鈣會造成 QT interval 延長，通常不是題幹所指的高血鉀型心電圖。\n- C. 高血鉀可造成肌肉無力、傳導變慢、尖高 T 波與 QRS 變寬，慢性腎臟病是重要危險因子。\n- D. 低血鉀常見 ST depression、T wave flattening 與 U wave，和高血鉀的尖高 T 波方向相反。\n\n【核心考點】\nCKD 病人合併無力與典型 ECG 變化時，要優先想到高血鉀。",
+      "key_point": "CKD 病人合併無力與典型 ECG 變化時，要優先想到高血鉀。",
+      "flashcard_front": "高血鉀 ECG",
+      "flashcard_back": "尖高 T 波、PR 延長、QRS 變寬；CKD 是常見背景。",
+      "flashcard_summary": "CKD 病人合併無力與典型 ECG 變化時，要優先想到高血鉀。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n病毒感染後胸痛、姿勢會影響疼痛、心肌酶與 D-dimer 正常、心超音波無局部壁運動異常且有少量心包膜積液，最符合急性心包膜炎。\n\n【選項詳解】\n- A. 急性冠心病通常較會有心肌酶上升、局部壁運動異常或典型缺血 ECG 變化；本題線索較支持心包膜發炎。\n- B. 心肌炎可在病毒感染後發生，但常有心肌酶上升、心收縮功能下降或心律不整；題幹心臟收縮功能正常。\n- C. 心包膜炎常有姿勢性胸痛、發炎指數上升、廣泛 ECG 變化及少量心包膜積液，與題幹最吻合。\n- D. 肺栓塞常有呼吸困難、低氧、D-dimer 升高或右心負荷線索；本題 D-dimer 正常且有心包膜積液。\n\n【核心考點】\n姿勢性胸痛加心包膜積液，要優先診斷急性心包膜炎。",
+      "key_point": "姿勢性胸痛加心包膜積液，要優先診斷急性心包膜炎。",
+      "flashcard_front": "姿勢性胸痛、少量心包膜積液",
+      "flashcard_back": "最符合急性心包膜炎，常見於病毒感染後。",
+      "flashcard_summary": "姿勢性胸痛加心包膜積液，要優先診斷急性心包膜炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n固定性第二心音分裂、右軸偏移、V1 rSR'、右心房與肺動脈擴大，代表左向右分流造成右心容量負荷，典型診斷是心房中膈缺損。\n\n【選項詳解】\n- A. 心房中膈缺損造成右心容量負荷與肺血流增加，固定性 S2 分裂是高產值體徵。\n- B. 心室中膈缺損常有胸骨左緣全收縮期雜音，長期可肺高壓，但固定性 S2 分裂不是典型線索。\n- C. 主動脈縮窄常見上肢高血壓、股脈延遲與上下肢壓差，不會以固定性 S2 分裂為主。\n- D. 法洛氏四合症多在兒童期以發紺、蹲踞或右心室流出道阻塞表現，不符合此成人無發紺情境。\n\n【核心考點】\n固定性 S2 分裂加右心容量負荷，是 secundum ASD 的典型考點。",
+      "key_point": "固定性 S2 分裂加右心容量負荷，是 secundum ASD 的典型考點。",
+      "flashcard_front": "固定性 S2 分裂、V1 rSR'",
+      "flashcard_back": "最支持心房中膈缺損造成右心容量負荷。",
+      "flashcard_summary": "固定性 S2 分裂加右心容量負荷，是 secundum ASD 的典型考點。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\nAnkle-brachial index 是踝部收縮壓除以上臂收縮壓。本題 dorsalis pedis 收縮壓 90、上臂收縮壓 150，因此 ABI = 90/150 = 0.6。\n\n【選項詳解】\n- A. ABI 以踝部收縮壓除以上臂收縮壓，90/150 等於 0.6，表示周邊動脈疾病可能性高。\n- B. ABI 不需要下肢舒張壓；使用收縮壓即可計算。\n- C. 0.9 會來自錯誤分母或數字代入；本題正確計算是 0.6。\n- D. Dorsalis pedis artery 是 ABI 常用的踝部測量動脈之一，仍可計算。\n\n【核心考點】\nABI = 踝部收縮壓 / 上臂收縮壓；本題 90/150 = 0.6。",
+      "key_point": "ABI = 踝部收縮壓 / 上臂收縮壓；本題 90/150 = 0.6。",
+      "flashcard_front": "ABI 計算",
+      "flashcard_back": "用踝部收縮壓除以上臂收縮壓，不需舒張壓。",
+      "flashcard_summary": "ABI = 踝部收縮壓 / 上臂收縮壓；本題 90/150 = 0.6。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\nAbdominojugular reflux 陽性代表腹部加壓後頸靜脈壓持續升高，反映右心無法處理增加的靜脈回流，常見於容量負荷或右心衰竭狀態。\n\n【選項詳解】\n- A. Pressure overload 指壓力負荷，例如高血壓或瓣膜狹窄；本檢查主要反映靜脈回流增加後右心充盈壓上升。\n- B. 頸靜脈明顯鼓脹代表右心充盈壓高，最符合 volume overload 或右心衰竭相關的容量問題。\n- C. NYHA 第四級是休息時也有症狀的功能分類，不能只靠 abdominojugular reflex 判定。\n- D. 陽性檢查反映右側心臟壓力或容量處理能力，不等同於左側心衰竭診斷。\n\n【核心考點】\nAbdominojugular reflux 陽性代表右心充盈壓升高，常見於容量負荷。",
+      "key_point": "Abdominojugular reflux 陽性代表右心充盈壓升高，常見於容量負荷。",
+      "flashcard_front": "Abdominojugular reflux 陽性",
+      "flashcard_back": "腹部加壓後 JVP 持續升高，提示 volume overload 或右心衰竭。",
+      "flashcard_summary": "Abdominojugular reflux 陽性代表右心充盈壓升高，常見於容量負荷。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    }
+  ]
+}

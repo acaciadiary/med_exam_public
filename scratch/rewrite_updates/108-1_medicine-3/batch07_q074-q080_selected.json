@@ -1,0 +1,70 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-3.json",
+  "dataset_id": "108-1_medicine-3",
+  "range": {
+    "start": 74,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-3_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n題幹為甲狀腺無痛腫大合併頸部淋巴結，且有超音波圖像。資料庫文字未保留圖，但官方答案為乳突狀癌；典型超音波線索包括低回音、微鈣化、邊緣不規則、縱向大於橫向與可疑頸部淋巴結。\n\n【選項詳解】\n- A. 甲狀腺炎常是瀰漫性變化，可有疼痛或甲狀腺功能異常，頸部淋巴結轉移樣表現不是典型。\n- B. 乳突狀癌最常見甲狀腺癌，常可有頸部淋巴結轉移；若超音波見微鈣化或可疑結節，最支持此診斷。\n- C. 甲狀腺瘤通常是良性濾泡性腫瘤，不應造成可疑頸部淋巴結轉移。\n- D. 良性多發性結節多為多顆良性結節，若合併無痛頸部淋巴結與可疑超音波特徵，惡性較需優先考慮。\n\n【核心考點】\n甲狀腺可疑結節合併頸部淋巴結，要高度懷疑 papillary thyroid carcinoma。",
+      "key_point": "甲狀腺可疑結節合併頸部淋巴結，要高度懷疑 papillary thyroid carcinoma。",
+      "flashcard_front": "甲狀腺結節 + 頸部淋巴結",
+      "flashcard_back": "超音波若有微鈣化、低回音、不規則邊緣，最支持乳突狀癌。",
+      "flashcard_summary": "甲狀腺可疑結節合併頸部淋巴結，要高度懷疑 papillary thyroid carcinoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n古柯鹼造成急性冠心症來自交感神經刺激、冠狀動脈痙攣與血栓風險。急性期避免單純 beta blocker，因可能造成 unopposed alpha stimulation，使血管收縮惡化。\n\n【選項詳解】\n- A. Benzodiazepine 可降低交感興奮、焦慮與血壓心跳，是古柯鹼急性毒性常用處置。\n- B. Morphine 可止痛與減少交感反應，並非本題所問禁忌藥物。\n- C. Phentolamine 是 alpha blocker，可用於嚴重高血壓或血管痙攣相關情境，不是禁忌。\n- D. Propranolol 為非選擇性 beta blocker，急性古柯鹼冠心症中可能使 alpha 收縮無拮抗而惡化，屬禁忌考點。\n\n【核心考點】\n急性 cocaine-associated ACS 避免單純 beta blocker，尤其 propranolol。",
+      "key_point": "急性 cocaine-associated ACS 避免單純 beta blocker，尤其 propranolol。",
+      "flashcard_front": "Cocaine ACS 禁忌",
+      "flashcard_back": "避免 propranolol 等 beta blocker，以免 unopposed alpha vasoconstriction。",
+      "flashcard_summary": "急性 cocaine-associated ACS 避免單純 beta blocker，尤其 propranolol。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n此病人有嚴重高血鉀 7.7、 bradycardia、低血壓與代謝性酸中毒。急救重點是穩定心肌、把鉀暫時移入細胞、並排鉀；快速灌注 1 L 生理食鹽水不能有效降低血鉀，CKD 病人還可能容量負荷過多。\n\n【選項詳解】\n- A. 酸中毒時給 bicarbonate 可促進鉀暫時移入細胞，對部分嚴重高血鉀病人可作輔助治療。\n- B. 葡萄糖加胰島素能快速把鉀移入細胞，是嚴重高血鉀的核心處置之一。\n- C. 生理食鹽水快速灌注不能可靠地把鉀移入細胞或排出體外，且 CKD 病人可能容量超載；以稀釋鉀離子作理由不恰當。\n- D. 靜脈鈣劑可穩定心肌細胞膜，拮抗高血鉀對心臟傳導的危險影響，是急救第一步之一。\n\n【核心考點】\n嚴重高血鉀急救：鈣劑護心、胰島素葡萄糖移鉀、必要時 bicarbonate/透析；生理食鹽水不能稀釋治療高鉀。",
+      "key_point": "嚴重高血鉀急救：鈣劑護心、胰島素葡萄糖移鉀、必要時 bicarbonate/透析；生理食鹽水不能稀釋治療高鉀。",
+      "flashcard_front": "嚴重高血鉀處置",
+      "flashcard_back": "IV calcium 穩定心肌，insulin/glucose 移鉀；NS 1 L 不是降鉀治療。",
+      "flashcard_summary": "嚴重高血鉀急救：鈣劑護心、胰島素葡萄糖移鉀、必要時 bicarbonate/透析；生理食鹽水不能稀釋治療高鉀。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n急性闌尾炎可有轉移痛、食慾不佳、右下腹壓痛、發燒與特殊徵象。若問敏感度，右下腹痛或壓痛最常出現；psoas sign 等特殊徵象特異度較高但敏感度低。\n\n【選項詳解】\n- A. Psoas sign 可提示後盲腸闌尾刺激腰大肌，但不是所有闌尾炎都有，敏感度低。\n- B. 轉移痛很有診斷價值，但並非每位病人都出現，敏感度低於右下腹痛。\n- C. 右下腹痛/壓痛是闌尾炎最常見臨床表現之一，在列出的症狀徵象中敏感度最高。\n- D. 發燒可出現但早期可能沒有，本題病人也無發燒，因此敏感度不高。\n\n【核心考點】\n闌尾炎症狀中，右下腹痛最敏感；psoas sign 較偏特異但不敏感。",
+      "key_point": "闌尾炎症狀中，右下腹痛最敏感；psoas sign 較偏特異但不敏感。",
+      "flashcard_front": "Appendicitis 敏感度最高線索",
+      "flashcard_back": "右下腹痛/壓痛比 migration pain、fever、psoas sign 更敏感。",
+      "flashcard_summary": "闌尾炎症狀中，右下腹痛最敏感；psoas sign 較偏特異但不敏感。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    },
+    {
+      "question_id": "108-1_medicine-3_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nJonsen 四主題法是臨床倫理個案分析工具，四格為 medical indications、patient preferences、quality of life、contextual features。Nonmaleficence 是倫理原則之一，但不是四主題法的格子名稱。\n\n【選項詳解】\n- A. 不傷害原則屬生物醫學倫理四原則之一，不是 Jonsen 四主題法的四個主題。\n- B. 醫療適應症是四主題法之一，用來分析診斷、治療目標與醫療效益風險。\n- C. 病人偏好是四主題法之一，關注病人意願、決策能力與知情同意。\n- D. 生活品質是四主題法之一，評估治療對病人功能、痛苦與可接受生活狀態的影響。\n\n【核心考點】\nJonsen 四主題法：醫療適應症、病人偏好、生活品質、脈絡因素。",
+      "key_point": "Jonsen 四主題法：醫療適應症、病人偏好、生活品質、脈絡因素。",
+      "flashcard_front": "Jonsen four boxes",
+      "flashcard_back": "不是 nonmaleficence；四格是 medical indications、patient preferences、quality of life、contextual features。",
+      "flashcard_summary": "Jonsen 四主題法：醫療適應症、病人偏好、生活品質、脈絡因素。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00"
+    }
+  ]
+}

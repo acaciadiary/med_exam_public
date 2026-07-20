@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-1.json",
+  "dataset_id": "110-1_medicine-1",
+  "range": {
+    "start": 58,
+    "end": 69
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n題幹在測驗小動脈（arterioles）血流調控的機制。當供應某一器官的血流下降時，局部組織的缺血與缺氧會導致代謝產物（如 CO2、H+、K+、腺苷）累積，同時血管內壓的下降會引發平滑肌的肌源性舒張（myogenic response），這兩種局部機制共同促使該器官的小動脈擴張，以代償性地增加血流灌注。\n\n【選項詳解】\n- A. 錯誤。骨骼肌的小動脈除了受 β2-受器（負責血管擴張）調控外，也受到 α1-受器（負責血管收縮）的調控。\n- B. 錯誤。腎上腺素與血管平滑肌上的 α-腎上腺受器（主要是 α1）結合時，會導致平滑肌收縮，從而使血管收縮，而非擴張。\n- C. 錯誤。副交感神經通常不直接支配多數血管的小動脈（生殖器官等少數例外）。若有作用，多數是透過釋放乙醯膽鹼刺激內皮細胞產生一氧化氮（NO），進而導致血管舒張。\n- D. 正確。當器官血流下降時，局部代謝物積累與跨壁壓降低引發的肌源性反射，會促使小動脈擴張以增加血流供應。\n\n【核心考點】\n器官血流的局部自主調控，主要依賴代謝物累積引起的血管舒張與血管壁壓力改變引發的肌源性反射。",
+      "key_point": "小動脈血流的局部自主調控（代謝與肌源性機制）。",
+      "flashcard_front": "小動脈調控 / 血流下降 / 局部血管擴張 / 腎上腺素受器",
+      "flashcard_back": "器官灌流不足時，局部酸性代謝物累積與肌源性舒張會促使小動脈擴張；而腎上腺素結合 α 受器則引起血管收縮。",
+      "flashcard_summary": "小動脈血流代償 -> 當供應器官的血流降低時，局部代謝物累積與壓力變化會使該小動脈擴張。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n題幹詢問切除感壓接受器（baroreceptor）傳入神經後，短期內平均動脈壓的變化。正常的感壓接受器會持續發送訊號至延腦，對交感神經中樞產生抑制作用。當完全切除此神經路徑時，交感中樞瞬間失去抑制，會導致交感神經活性暴增，使心跳加快與周邊血管強烈收縮，進而引發短期血壓顯著升高。\n\n【選項詳解】\n- A. 正確。切除感壓接受器的傳入神經（如舌咽神經和迷走神經的相關分支）會解除對延腦交感中樞的抑制，交感神經興奮引發心輸出量增加與全身血管阻力上升，短期內血壓顯著升高。\n- B. 錯誤。失去抑制交感的訊號後，交感活性會上升，不會導致血壓下降。\n- C. 錯誤。由於交感抑制訊號是瞬間消失，血壓會直接飆升，不會出現先降後升的現象。\n- D. 錯誤。感壓接受器是調控血壓的重要反射機制，切除其神經路徑會立刻對血壓產生劇烈影響。\n\n【核心考點】\n感壓接受器平時對交感神經中樞具有持續的抑制作用，切除其傳入路徑會使交感活性失去煞車，導致短期內血壓劇升。",
+      "key_point": "感壓接受器傳入路徑對延腦交感神經中樞的抑制作用。",
+      "flashcard_front": "感壓接受器切除 / 延腦交感中樞 / 短期血壓變化",
+      "flashcard_back": "切除感壓接受器傳入路徑會解除對延腦交感中樞的抑制，使交感活性暴增，引發短期血壓顯著升高。",
+      "flashcard_summary": "感壓接受器去神經化 -> 移除感壓接受器傳入神經會解除交感抑制，引發短期血壓劇升。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題在測驗如何透過潮氣容積（VT）、生理無效腔（VD）與呼吸頻率（f）來計算「肺泡通氣量（alveolar ventilation, VA）」。肺泡通氣量是真正參與氣體交換的氣體量，公式為 $V_A = (V_T - V_D) \\times f$。透過計算可發現，即使三人的總通氣量接近，深慢呼吸（丙）的肺泡通氣量會遠大於淺快呼吸（甲）。\n\n【選項詳解】\n- A. 錯誤。甲的肺泡通氣量是三人中最小的。\n- B. 正確。將數值代入公式 $V_A = (V_T - V_D) \\times f$。\n甲：$(200 - 150) \\times 30 = 1500$ mL/min。\n乙：$(500 - 150) \\times 12 = 4200$ mL/min。\n丙：$(1000 - 150) \\times 6 = 5100$ mL/min。\n因此大小排序為丙 > 乙 > 甲。\n- C. 錯誤。三人計算出來的肺泡通氣量差異顯著。\n- D. 錯誤。丙的數值（5100）大於乙的數值（4200）。\n\n【核心考點】\n肺泡通氣量 $V_A = (V_T - V_D) \\times f$；在呼吸生理上，深慢呼吸比淺快呼吸具有更高的氣體交換效率。",
+      "key_point": "肺泡通氣量（alveolar ventilation）的計算公式：$V_A = (V_T - V_D) \\times f$。",
+      "flashcard_front": "肺泡通氣量 (VA) / 計算公式 / 潮氣容積 / 生理無效腔 / 深慢與淺快",
+      "flashcard_back": "肺泡通氣量 $V_A = (V_T - V_D) \\times f$；在相同條件下，深慢呼吸的肺泡通氣量遠高於淺快呼吸。",
+      "flashcard_summary": "肺泡通氣量比較 -> 計算 $V_A = (V_T - V_D) \\times f$，深慢呼吸的肺泡通氣效率最佳。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n題幹在測驗不同呼吸系統病理變化對「呼吸作功（work of breathing）」的影響。呼吸作功主要用於克服兩大阻力：一是使肺臟及胸廓擴張的「彈性阻力（elastic resistance）」，二是空氣經呼吸道流動時的「氣流阻力（airway resistance）」。表面活性劑不足會使肺順應性下降，導致克服彈性阻力（充氣作功）顯著增加。\n\n【選項詳解】\n- A. 錯誤。氣喘（asthma）主要是呼吸道收縮，造成氣流阻力增加，因此其作功的增加主要用於使「空氣經呼吸道流動」，而非使肺臟充氣。\n- B. 錯誤。肺纖維化（lung fibrosis）會使肺臟組織變硬，順應性（compliance）下降，彈性阻力大增。因此，其作功增加主要是用於「使肺臟充氣」，而非克服氣流阻力。\n- C. 正確。表面活性劑（surfactant）的功能是降低肺泡表面張力、增加肺順應性。當分泌不足時，肺表面張力上升，使肺臟變難擴張，欲使肺臟充氣（克服彈性阻力）的作功便會顯著增加。\n- D. 錯誤。氣管舒張（bronchodilation）會使呼吸道管徑變大，進而「降低」氣流阻力，使空氣流動的作功減少，而非增加。\n\n【核心考點】\n表面活性劑能降低肺泡表面張力；缺乏表面活性劑或發生肺纖維化時，會增加克服「彈性阻力」的肺臟充氣作功；氣喘則增加克服「氣流阻力」的空氣流動作功。",
+      "key_point": "表面活性劑不足與肺纖維化主要增加「彈性阻力（充氣作功）」；氣喘主要增加「氣流阻力」。",
+      "flashcard_front": "呼吸作功 / 表面活性劑 / 肺順應性 / 彈性阻力 / 氣流阻力",
+      "flashcard_back": "表面活性劑不足會使肺泡表面張力升高、肺順應性下降，導致克服彈性阻力（使肺臟充氣）的呼吸作功增加。",
+      "flashcard_summary": "呼吸阻力分類 -> 氣喘增加氣流阻力；表面活性劑不足或肺纖維化會增加克服彈性阻力的充氣作功。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n題幹在問迴腸（ileum）切除後最容易出現的併發症。末端迴腸是人體主動吸收維生素 B12（需先與胃壁細胞分泌的內在因子結合）的唯一場所。一旦迴腸被切除，患者會因無法吸收維生素 B12 而影響紅血球的 DNA 合成與發育，進而引發巨母紅血球性貧血（即惡性貧血）。\n\n【選項詳解】\n- A. 錯誤。雖然迴腸切除會影響膽鹽的重吸收（破壞肝腸循環），可能導致膽鹽缺乏引發脂肪瀉或膽結石，但並不會直接導致黃疸。\n- B. 正確。維生素 B12 的吸收依賴末端迴腸。迴腸切除後，維生素 B12 吸收不良會造成紅血球成熟障礙，最容易導致巨母紅血球性貧血。\n- C. 錯誤。消化道潰瘍通常與胃酸分泌過多（如 Zollinger-Ellison 症候群）、幽門螺旋桿菌感染或使用 NSAIDs 有關，與迴腸切除無關。\n- D. 錯誤。血糖主要受胰島素、升糖素等內分泌激素調控，迴腸切除對血糖過高沒有直接且顯著的影響。\n\n【核心考點】\n末端迴腸是維生素 B12 及膽鹽重吸收的特異性場所，切除後最典型的血液學變化是缺乏維生素 B12 導致的貧血。",
+      "key_point": "末端迴腸負責吸收維生素 B12，切除會導致巨母紅血球性貧血。",
+      "flashcard_front": "迴腸切除 / 維生素 B12 吸收 / 惡性貧血 / 巨母紅血球",
+      "flashcard_back": "末端迴腸是維生素 B12 與膽鹽重吸收的唯一場所，切除後會因維生素 B12 缺乏導致巨母紅血球性貧血。",
+      "flashcard_summary": "迴腸切除併發症 -> 迴腸末端吸收維生素 B12，切除會導致巨母紅血球性貧血。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n題幹詢問膽酸協助脂肪消化的主要機制。肝臟分泌的膽酸（膽鹽）具有親水端與親脂端的兩性分子結構。進入小腸後，膽酸能與大脂肪滴結合，透過「乳化作用（emulsification）」將其打散成無數微小的脂肪微粒。這是一種物理性作用，能大幅增加脂肪與胰脂酶（lipase）的接觸表面積，從而加速脂肪的水解與吸收。\n\n【選項詳解】\n- A. 錯誤。膽酸並不參與電子的得失轉移，不具備氧化還原作用。\n- B. 錯誤。膽酸本身並非消化酵素，不負責化學鍵的「分解作用」，真正的化學分解是由胰臟分泌的胰脂酶（pancreatic lipase）來執行。\n- C. 正確。膽酸藉由其兩性分子的特性，將大塊脂肪滴分散成小脂肪微粒，這個過程稱為乳化作用，是消化脂肪極為關鍵的第一步。\n- D. 錯誤。膽酸的物理性分散不涉及氧化反應。\n\n【核心考點】\n膽酸（膽鹽）不具備酵素活性，其主要功能是透過物理性的乳化作用，增加脂質表面積以利胰脂酶進行化學消化。",
+      "key_point": "膽酸藉由兩性分子的特性對脂肪進行乳化作用（emulsification），以增加胰脂酶的接觸面積。",
+      "flashcard_front": "膽酸 / 脂肪消化 / 乳化作用 / 胰脂酶 / 兩性分子",
+      "flashcard_back": "膽酸藉由兩性結構乳化大脂肪滴，將其變為小微粒，以增加胰脂酶的水解作用表面積。",
+      "flashcard_summary": "膽酸功能 -> 膽酸透過乳化作用將大脂肪顆粒微細化，促進胰脂酶對脂肪的消化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n題幹在測驗如何使用對胺基馬尿酸（PAH）清除率計算「腎血流量（RBF）」。步驟分為兩段：第一步先算出「有效腎血漿流量（eRPF）」，公式為 $eRPF = PAH 清除率 \\div PAH 萃取比率$。第二步，將血漿流量轉換為全血流量，公式為 $RBF = RPF \\div (1 - 血比容)$。\n\n【選項詳解】\n- A. 錯誤。1134 這個數字不符合計算邏輯，可能是錯誤的乘法推導。\n- B. 正確。第一步求有效腎血漿流量：$eRPF = 630 \\div 0.9 = 700$ mL/min。第二步求腎血流量：$RBF = 700 \\div (1 - 0.5) = 1400$ mL/min。因此 1400 mL/min 為正確答案。\n- C. 錯誤。這個數字不符合生理公式的換算結果。\n- D. 錯誤。此為干擾選項。\n\n【核心考點】\n腎血流動力學計算公式：有效腎血漿流量 (eRPF) = PAH 清除率 / PAH 萃取比；腎血流量 (RBF) = RPF / (1 - Hct)。",
+      "key_point": "利用 PAH 清除率求得 RPF，再利用血比容（Hct）換算為腎血流量（RBF）。",
+      "flashcard_front": "PAH 清除率 / 腎血漿流量 (RPF) / 腎血流量 (RBF) / 血比容 (Hct)",
+      "flashcard_back": "RPF = PAH 清除率 / 萃取比率。而總腎血流量 RBF = RPF / (1 - Hct)。",
+      "flashcard_summary": "腎血流量計算 -> $RPF = \\text{清除率}/\\text{萃取比}$，而 $RBF = RPF/(1 - Hct)$。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n題幹在測驗腎小管腎絲球回饋（tubuloglomerular feedback, TGF）的作用機制。當腎小球過濾率（GFR）異常升高，導致流經遠端小管的管腔液流速與 NaCl 濃度增加時，緻密斑（macula densa）細胞會感測到此變化，並釋放旁分泌物質（主要是腺苷 adenosine 及 ATP），作用於入球小動脈，使其收縮，從而調降過高的 GFR。\n\n【選項詳解】\n- A. 錯誤。緻密斑（macula densa）主要是藉由其細胞膜上的 NKCC2 轉運體感應管腔液中的鈉、鉀、氯離子濃度，而非單純感測水分。\n- B. 正確。當緻密斑感測到高鹽流速後，會釋放腺苷（adenosine）。腺苷作用於入球小動脈平滑肌的 A1 受器，引發細胞內鈣離子釋放，促使入球小動脈收縮，以降低 GFR。\n- C. 錯誤。當 TGF 被高流速及高鹽濃度活化時，它會「抑制」腎絲球旁細胞（JG cells）分泌腎素（renin），而非增加。此外，TGF 主要是收縮入球小動脈。\n- D. 錯誤。TGF 是一種負回饋保護機制，其最終結果是讓過度升高的腎小球過濾率（GFR）「下降」回正常水準，而非上升。\n\n【核心考點】\nTGF 反饋機制的流程：GFR 升高 -> 緻密斑感測管腔 NaCl 增加 -> 釋放腺苷 (adenosine) -> 入球小動脈收縮 -> GFR 降低並抑制腎素分泌。",
+      "key_point": "緻密斑感測高鹽流速後釋放腺苷，促使入球小動脈收縮以調降 GFR。",
+      "flashcard_front": "腎小管腎絲球回饋 (TGF) / 緻密斑 / 腺苷 (adenosine) / 入球小動脈",
+      "flashcard_back": "高鹽流速時，緻密斑感測後釋放腺苷，作用於A1受器使入球小動脈收縮，藉此調降GFR並抑制腎素分泌。",
+      "flashcard_summary": "TGF反饋機制 -> 緻密斑感應高鹽流速後釋放腺苷，收縮入球小動脈，降低過高的 GFR。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n題幹詢問下列何種荷爾蒙與正常人類的個體生長（特別指骨骼與全身組織的發育生長）相關性最小。生長激素（GH）、雄激素與雌激素都在人體發育的各階段扮演骨骼增長與生長板閉合的關鍵角色。而泌乳素主要作用於乳腺，與全身骨骼生長無直接關係。\n\n【選項詳解】\n- A. 正確。泌乳素（prolactin）的主要生理功能是促進乳腺發育以及產後乳汁的製造與分泌，它並不參與個體全身骨骼與組織的線性生長，因此與個體生長相關性最小。\n- B. 錯誤。生長激素（growth hormone）是促進孩童及青春期骨骼、軟骨與軟組織生長最為關鍵的荷爾蒙。\n- C. 錯誤。雄激素（androgens）在青春期能顯著促進肌肉發育以及生長板的加速生長（青春期抽高）。\n- D. 錯誤。雌激素（estrogens）在青春期除了促進第二性徵外，更主導了最後骨骺線（生長板）的閉合，對骨骼的最終長度有決定性影響。\n\n【核心考點】\n生長激素與性荷爾蒙是調控全身骨骼與組織生長的主力；泌乳素則專司乳腺發育與泌乳。",
+      "key_point": "泌乳素主要負責乳腺發育與排乳，與全身骨骼生長無關。",
+      "flashcard_front": "個體生長 (growth) / 荷爾蒙調控 / 泌乳素 (prolactin) / 生長激素 (GH)",
+      "flashcard_back": "泌乳素主要控制乳腺發育與泌乳，不參與全身個體的生長發育；GH 與性荷爾蒙才是調控骨骼生長的主因。",
+      "flashcard_summary": "生長相關荷爾蒙 -> 泌乳素主要負責乳腺功能，與個體的全身生長相關性最小。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "110-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n題幹在測驗鈣與磷的體內分布狀態以及腸道吸收機制的差異。雖然鈣質對人體極為重要，但腸道對鈣的吸收率其實比磷差，且鈣的主動吸收高度依賴活化維生素 D 的調節。多數鈣與磷都儲存在骨骼中。\n\n【選項詳解】\n- A. 錯誤。一般飲食中，腸道對磷的吸收效率（通常大於 60-70%）比對鈣的吸收效率（約 30% 左右）更好，且較不易受阻礙。\n- B. 錯誤。人體內高達 85% 的磷以及 99% 的鈣，是儲存於骨骼和牙齒之中，血液與細胞外液中的磷只佔極少數（不到 1%）。\n- C. 錯誤。血液中的鈣約有 50% 是以具生理活性的「游離態（離子態）」存在；約 40% 與白蛋白等血漿蛋白結合；其餘約 10% 則與檸檬酸等陰離子結合形成錯合物。游離態並未高達 95%。\n- D. 正確。鈣在腸黏膜上的主動吸收主要受活化態維生素 D（1,25-(OH)2D3）的調控，它會上調腸道上皮細胞的鈣離子通道以及鈣結合蛋白（calbindin），從而促進鈣的吸收。\n\n【核心考點】\n鈣與磷多儲存於骨骼；腸道對磷的吸收率大於鈣；鈣在腸道的主動吸收高度依賴活化維生素 D 誘導的鈣結合蛋白（calbindin）。",
+      "key_point": "鈣在腸道的吸收高度依賴活化維生素 D，而腸道對磷的吸收效率優於鈣。",
+      "flashcard_front": "鈣磷代謝 / 腸道吸收 / 活化維生素 D / 鈣結合蛋白 / 游離鈣 / 骨骼",
+      "flashcard_back": "鈣在腸黏膜的吸收依賴活化維生素D調控；磷的吸收效率大於鈣；多數磷和鈣均儲存於骨骼中；血鈣約 50% 為游離態。",
+      "flashcard_summary": "鈣磷吸收與調控 -> 腸道對鈣的吸收率不如磷，且鈣的主動吸收高度依賴活化維生素 D 的調節。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:28:02.031389+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

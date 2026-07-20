@@ -1,0 +1,49 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-6.json",
+  "dataset_id": "108-2_medicine-6",
+  "range": {
+    "start": 70,
+    "end": 78
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-6_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n兩側腹股溝疼痛提示 L1 皮節或第一腰神經根受到刺激。題幹又說兩側大腿前屈角度正常，較不像主要髖關節或 iliopsoas 動作受限，而是壓迫性骨折造成神經根相關痛；最可能是 L1 壓迫性骨折，官方答案選 C。\n\n【選項詳解】\n- A. C7：C7 皮節常對應中指與上肢遠端，壓迫時不會以雙側腹股溝疼痛為主要定位線索。\n- B. T8：T8 約在胸腹部上段皮節，接近肋弓或上腹部感覺區，位置明顯高於腹股溝。\n- C. L1：L1 皮節包括腹股溝區，第一腰椎壓迫性骨折可刺激相關神經根而造成雙側腹股溝痛，正好對上題目給的疼痛位置。\n- D. L5：L5 常對應小腿外側、足背與大拇趾伸肌相關功能，典型疼痛放射不會只定位在兩側腹股溝。\n\n【核心考點】\n皮節定位：腹股溝區抓 L1；C7 看中指，T8 看上腹/肋弓附近，L5 看足背與大拇趾。",
+      "key_point": "雙側腹股溝痛對應 L1 皮節，最支持第一腰椎壓迫性骨折。",
+      "flashcard_front": "腹股溝疼痛的皮節定位？",
+      "flashcard_back": "腹股溝區主要對應 L1；壓迫性骨折合併腹股溝痛要想到 L1。",
+      "flashcard_summary": "Groin pain dermatome -> L1；第一腰椎壓迫可刺激 L1 神經根。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:47:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nBlowout fracture 是眼眶受鈍傷後，壓力使較薄弱的眼眶壁破裂，最常見是眶底。眶底下方是 maxillary sinus，所以骨折後較容易看到上頜竇積血；說 frontal sinus 比 maxillary sinus 更容易積血方向錯誤，官方答案選 B。\n\n【選項詳解】\n- A. Waters' view及Caldwell view檢查可助於評估眼底骨折：現在 CT 最精準，但傳統 X 光 Waters view、Caldwell view 可協助初步看眶底與鼻竇變化，因此不是錯誤敘述。\n- B. frontal sinus比maxillary sinus更容易積血：眶底骨折緊鄰上頜竇，血液與眼眶內容物更容易進入 maxillary sinus；frontal sinus 不是典型最容易積血的位置。\n- C. Blowout fracture主要因orbital floor太薄弱導致：眼眶底壁薄且下方接上頜竇，是 blowout fracture 的典型脆弱處，這句正確。\n- D. 常伴隨有複視現象(diplopia)：下直肌或眶內軟組織嵌頓會限制眼球上轉，病人常有複視，尤其向上看時明顯。\n\n【核心考點】\nBlowout fracture 常考眶底薄弱、上頜竇積血、下直肌/軟組織嵌頓與複視；不是 frontal sinus 最易積血。",
+      "key_point": "眼眶爆裂骨折最常涉及眶底，易造成上頜竇積血與複視；frontal sinus 不是典型積血處。",
+      "flashcard_front": "Blowout fracture：最常骨折處與錯誤敘述？",
+      "flashcard_back": "常在 orbital floor，血液進 maxillary sinus 且可複視；錯誤是說 frontal sinus 比 maxillary sinus 更易積血。",
+      "flashcard_summary": "Blowout fracture -> orbital floor、maxillary sinus hematoma、diplopia；非 frontal sinus。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:47:55+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n知情同意的核心是病人在充分理解手術內容、效益、風險與替代方案後，能自行做出是否接受治療的決定。這直接保障醫療倫理中的尊重自主原則，所以官方答案選 A。\n\n【選項詳解】\n- A. 病人自主：醫師說明資訊並確認病人理解，是為了讓病人依自己的價值觀做決定，正是 autonomy 的實踐。\n- B. 病人隱私：隱私重點在個資、病情與身體暴露的保密；知情同意可包含資訊揭露，但主要目的不是隱私保護。\n- C. 資源浪費：資源使用涉及效益、成本與分配，和簽署手術同意書的倫理核心不同。\n- D. 公平正義：公平正義關心資源與照護機會是否公平；本題描述的是單一病人對自己手術做決定，不是分配正義問題。\n\n【核心考點】\nInformed consent 最主要保障 autonomy：病人知道、理解並自願決定。",
+      "key_point": "手術知情同意最主要是確保病人自主權，而非隱私、資源分配或公平正義。",
+      "flashcard_front": "Informed consent 最主要保障哪個倫理原則？",
+      "flashcard_back": "病人自主 autonomy：充分理解後自願決定是否接受治療。",
+      "flashcard_summary": "Informed consent -> autonomy；不是 privacy、resource allocation 或 justice。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:47:55+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

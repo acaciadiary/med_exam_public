@@ -1,0 +1,127 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-1.json",
+  "dataset_id": "110-1_medicine-1",
+  "range": {
+    "start": 92,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n題幹詢問治療家族性高膽固醇血症常用的 Statins 類藥物，其主要的分子作用標的為何。Statins 主要是透過抑制膽固醇生合成路徑中的速率限制酵素（rate-limiting enzyme），藉此減少細胞內膽固醇的合成，進一步促使細胞表面增加 LDL 受體表現量，以降低血中 LDL 濃度。\n\n【選項詳解】\n- A. β-hydroxy-β-methylglutaryl-CoA(HMG-CoA)synthase：錯誤。HMG-CoA 合成酶負責將 Acetyl-CoA 與 Acetoacetyl-CoA 結合成 HMG-CoA，參與膽固醇與酮體合成，但並非此路徑的主要速率限制步驟，也非 Statins 類藥物的作用標的。\n- B. β-hydroxy-β-methylglutaryl-CoA(HMG-CoA)lyase：錯誤。HMG-CoA 裂解酶位於粒線體，參與酮體生成（將 HMG-CoA 分解為乙醯乙酸與乙醯輔酶A）或白胺酸代謝，與膽固醇合成無關。\n- C. β-hydroxy-β-methylglutaryl-CoA(HMG-CoA)reductase：正確。HMG-CoA 還原酶是膽固醇合成的速率限制酵素，負責將 HMG-CoA 還原為甲羥戊酸（mevalonate）。Statins 類藥物（如 atorvastatin 等）是此酵素的競爭性抑制劑。\n- D. β-hydroxy-β-methylglutaryl-CoA(HMG-CoA)isomerase：錯誤。人體內並不存在主要負責 HMG-CoA 異構化的酵素，選項為混淆名詞。\n\n【核心考點】\nStatins 類降血脂藥物的藥理機轉，為競爭性抑制膽固醇合成之速率限制酵素 HMG-CoA reductase。",
+      "key_point": "Statins 類藥物抑制膽固醇生合成的分子靶點。",
+      "flashcard_front": "Statins (他汀類藥物) / 膽固醇合成 / 限速步驟 / HMG-CoA 還原酶 (reductase) / 甲羥戊酸",
+      "flashcard_back": "Statins 藉由競爭性抑制膽固醇合成的限速酶——HMG-CoA 還原酶，來減少胞內膽固醇的合成。",
+      "flashcard_summary": "Statins 作用機制 -> Statins 競爭性抑制膽固醇合成路徑中的限速酶 HMG-CoA 還原酶。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n題幹詢問哪一種胺基酸可同時作為合成尿素（urea）、嘌呤（purine）與嘧啶（pyrimidine）的共同前驅物。生合成過程中，不同的胺基酸會提供特定的碳骨架或氮原子，需要找出在上述三種物質生合成皆有參與的胺基酸。\n\n【選項詳解】\n- A. 甲硫胺酸(methionine)：錯誤。甲硫胺酸主要作為蛋白質轉譯的起始胺基酸，或轉化為 SAM（S-adenosylmethionine）作為生化反應中的主要甲基提供者，不參與提供尿素或核苷酸的骨架。\n- B. 離胺酸(lysine)：錯誤。離胺酸為純粹的生酮胺基酸（ketogenic amino acid），主要代謝成乙醯輔酶A與乙醯乙酸，並未參與尿素、嘌呤或嘧啶環的結構組成。\n- C. 天門冬胺酸(aspartate)：正確。天門冬胺酸在尿素循環中與瓜胺酸結合，提供尿素分子中的第二個氮原子；在嘌呤合成中提供第 1 號氮原子（N1）；在嘧啶合成中，整個天門冬胺酸分子直接併入環中，提供 N1、C4、C5、C6 骨架。\n- D. 脯胺酸(proline)：錯誤。脯胺酸是一種特殊的亞胺基酸，主要與膠原蛋白（collagen）的結構穩定性有關，不參與含氮鹼基或尿素的合成。\n\n【核心考點】\n胺基酸在含氮物質生合成中的功能：Aspartate 參與尿素、嘌呤與嘧啶合成；Glutamine 參與嘌呤與嘧啶合成（提供氮）；Glycine 參與嘌呤合成（提供全分子骨架）。",
+      "key_point": "天門冬胺酸（aspartate）在尿素、嘌呤與嘧啶合成中的供氮/碳骨架作用。",
+      "flashcard_front": "天門冬胺酸 (aspartate) / 尿素循環 / 嘌呤環合成 / 嘧啶環骨架 / 代謝前驅物",
+      "flashcard_back": "天門冬胺酸共同提供尿素循環中的第二個氮、嘌呤環的 N1，以及嘧啶環的大部分碳氮骨架。",
+      "flashcard_summary": "天門冬胺酸代謝角色 -> 天門冬胺酸可作為前驅物，共同參與尿素、嘌呤與嘧啶這三種物質的生物合成。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n本題測驗常見生物小分子的化學本質，需要辨識各選項中何者是由三個胺基酸組成的三胜肽（tripeptide）。\n\n【選項詳解】\n- A. 阿斯巴甜(aspartame)：錯誤。阿斯巴甜是一種人工代糖，化學本質為二胜肽（天門冬胺醯苯丙胺酸甲酯，Aspartyl-phenylalanine-1-methyl ester），由天門冬胺酸與苯丙胺酸兩種胺基酸組成。\n- B. 血清素(serotonin)：錯誤。血清素（5-HT）是由單一胺基酸「色胺酸（tryptophan）」經羥化與脫羧反應修飾而成的單胺類神經傳導物質，不具有胜肽鍵。\n- C. 血基質(heme)：錯誤。血基質是由原紫質九（protoporphyrin IX）與中央一顆鐵離子（Fe2+）構成的非蛋白質輔基（prosthetic group），化學結構中不含胺基酸或胜肽鍵。\n- D. 穀胱甘肽(glutathione)：正確。穀胱甘肽（GSH）是由麩胺酸（Glutamate）、半胱胺酸（Cysteine）及甘胺酸（Glycine）所構成的三胜肽，其特點是麩胺酸藉由側鏈的 γ-羧基與半胱胺酸形成特殊的胜肽鍵，為細胞內重要的抗氧化劑。\n\n【核心考點】\n常見生理活性分子的胺基酸組成：穀胱甘肽（Glutathione）為包含 Glu、Cys、Gly 的三胜肽；阿斯巴甜為二胜肽。",
+      "key_point": "穀胱甘肽（glutathione）的化學結構組成與胜肽分類。",
+      "flashcard_front": "三胜肽 (tripeptide) / 穀胱甘肽 (GSH) / 麩胺酸 / 半胱胺酸 / 甘胺酸 / 阿斯巴甜",
+      "flashcard_back": "穀胱甘肽是由麩胺酸、半胱胺酸與甘胺酸縮合而成的三胜肽，為細胞內重要的抗氧化物質。",
+      "flashcard_summary": "穀胱甘肽結構 -> 穀胱甘肽是一種由三個胺基酸組成的三胜肽（GSH），是體內重要抗氧化劑。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n電子傳遞鏈（ETC）位於粒線體內膜，其功能是藉由電子的傳遞釋放能量，並將粒線體基質中的氫離子（質子）泵至膜間腔（intermembrane space），以建立質子電化學梯度。題幹詢問哪些蛋白質複合體具有質子幫浦的活性。\n\n【選項詳解】\n- A. complexes I, II, III：錯誤。複合體 II 並無氫離子幫浦活性，無法將質子打入膜間腔。\n- B. complexes I, II, IV：錯誤。同上，複合體 II 不具有質子幫浦活性。\n- C. complexes I, III, IV：正確。在電子傳遞鏈中，複合體 I（NADH dehydrogenase）、複合體 III（Cytochrome bc1 complex）與複合體 IV（Cytochrome c oxidase）皆具有質子幫浦功能。當電子流經這三個複合體時，分別會將 4、4、2 個氫離子從基質泵入膜間腔。\n- D. complexes II, III, IV：錯誤。複合體 II（Succinate dehydrogenase）雖參與電子傳遞（將 FADH2 的電子傳給 Ubiquinone），但因其釋放的能量不足以克服電化學梯度，故不具有氫離子幫浦的活性。\n\n【核心考點】\n粒線體電子傳遞鏈中，Complex I、III、IV 皆為質子幫浦（proton pump），而 Complex II 不具備此功能。",
+      "key_point": "粒線體電子傳遞鏈各蛋白質複合體的質子泵活性。",
+      "flashcard_front": "電子傳遞鏈 / 質子幫浦 (proton pump) / 複合體 I, III, IV / 複合體 II / 質子梯度",
+      "flashcard_back": "複合體 I、III、IV 具備質子幫浦活性，可向膜間腔泵送質子；複合體 II 則沒有泵送質子功能。",
+      "flashcard_summary": "電子傳遞鏈質子泵 -> 傳遞鏈中僅複合體 I、III、IV 具備質子幫浦活性以建立跨膜質子梯度。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n題幹詢問關於一氧化氮（NO）特性的錯誤敘述。一氧化氮是一種重要的氣體訊號分子，在血管擴張、神經傳導與免疫反應中扮演重要角色。\n\n【選項詳解】\n- A. 是一種自由基(free radical),可自由擴散通過細胞膜：正確敘述。NO 含有未配對電子，屬於自由基氣體，且具脂溶性，可不依賴受體或通道直接擴散穿透細胞膜。\n- B. 是一種神經傳導物質(neurotransmitter)：正確敘述。在神經系統中，NO 屬於非典型的逆行神經傳導物質（retrograde neurotransmitter），由突觸後神經元產生並擴散回突觸前神經元發揮作用。\n- C. 它的生合成之前驅物是麩胺醯胺(glutamine)：錯誤敘述，為本題正解。NO 是由一氧化氮合酶（NOS）將「精胺酸（Arginine）」轉化為瓜胺酸（Citrulline）的市場所產生的副產物，其前驅物並非麩胺醯胺。\n- D. 在細胞質中它能夠與鳥苷酸環化酶(guanylyl cyclase)結合：正確敘述。NO 進入目標細胞後，會結合並活化細胞質內的可溶性鳥苷酸環化酶（sGC），催化 GTP 轉換成 cGMP，進而產生血管平滑肌舒張等生理效應。\n\n【核心考點】\n一氧化氮（NO）的生合成：前驅物為精胺酸（Arginine），酵素為一氧化氮合酶（NOS），作用標的為活化細胞質內的 sGC 以生成 cGMP。",
+      "key_point": "一氧化氮（nitric oxide）的生合成前驅物與分子功能。",
+      "flashcard_front": "一氧化氮 (NO) / 生合成前驅物 / L-精胺酸 (arginine) / 自由基氣體 / 可溶性鳥苷酸環化酶",
+      "flashcard_back": "一氧化氮是由精胺酸（arginine）在 NOS 催化下合成的自由基氣體，能活化細胞內的鳥苷酸環化酶。",
+      "flashcard_summary": "一氧化氮特性與合成 -> 一氧化氮是由 L-精胺酸（非麩胺醯胺）所合成的氣體自由基，可活化鳥苷酸環化酶。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n題幹詢問致癌基因 ras 突變導致腫瘤時，Ras 蛋白質是處於何種結合狀態。Ras 蛋白屬於單體 G 蛋白（GTPase），作為細胞訊息傳遞樞紐，其活性受到 GTP 與 GDP 的結合狀態所嚴格調控。\n\n【選項詳解】\n- A. GTP-bound的被活化狀態：正確。Ras 蛋白結合 GTP 時呈活化狀態，能向下游傳遞促進細胞生長與分裂的信號。若 ras 發生突變（使其內源性 GTPase 活性喪失，無法將 GTP 水解為 GDP），Ras 會持續處於 GTP-bound 的活化狀態，導致細胞不受控制地增生，形成腫瘤。\n- B. GDP-bound的去活化狀態：錯誤。Ras 結合 GDP 時為去活化（靜止）狀態，不會向下游傳遞生長信號，此狀態不會直接導致腫瘤生成。\n- C. ATP-bound的被活化狀態：錯誤。Ras 蛋白為 G 蛋白，其調控依賴鳥嘌呤核苷酸（GTP/GDP），而非腺嘌呤核苷酸（ATP）。\n- D. ADP-bound的去活化狀態：錯誤。同上理，Ras 蛋白的作用機制與 ADP 無關。\n\n【核心考點】\nRas 蛋白的作用機制：結合 GTP 為活化態（傳遞生長信號），結合 GDP 為不活化態。突變使 GTP 水解能力下降時，會導致 Ras 持續活化而致癌。",
+      "key_point": "Ras 蛋白活性調節狀態與突變致癌機制。",
+      "flashcard_front": "Ras 蛋白 / 致癌基因 / GTP-bound / GDP-bound / GTPase 活性 / 腫瘤生成",
+      "flashcard_back": "Ras 蛋白結合 GTP 時處於活化狀態；突變導致 GTPase 活性喪失時，Ras 持續維持 GTP-bound 態而致癌。",
+      "flashcard_summary": "Ras 突變狀態 -> Ras 蛋白與 GTP 結合時呈活化狀態，突變若使其持續維持在 GTP-bound 態會引發腫瘤。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題測驗乳癌治療藥物 tamoxifen 的作用機轉與特性。Tamoxifen 屬於選擇性雌激素受體調節劑（SERM），在乳腺組織中作為雌激素受體的拮抗劑，用於荷爾蒙依賴型乳癌的治療。\n\n【選項詳解】\n- A. tamoxifen是一種男性激素的專一拮抗劑(antagonist)：錯誤。Tamoxifen 是雌激素受體（Estrogen receptor, ER）的拮抗劑，而非男性激素（雄性激素）的拮抗劑。\n- B. 對雌激素受體呈陰性的乳癌患者效果較好：錯誤。Tamoxifen 的機轉是與雌激素競爭結合雌激素受體，因此僅對「雌激素受體陽性（ER-positive）」的乳癌患者有療效，對 ER 陰性患者無效。\n- C. 必須經由癌細胞表面之受器(receptor)進入細胞：錯誤。雌激素受體屬於核內/細胞質內受體。Tamoxifen 具有高度脂溶性，可直接穿過細胞膜進入細胞內，不需要依賴細胞表面的膜受體。\n- D. 進入細胞後,與雌激素受器結合,影響雌激素調控之基因表達：正確。Tamoxifen 穿透細胞膜進入細胞質後，會與雌激素受體結合形成複合物並進入細胞核，抑制原本雌激素所介導的促生長基因轉錄，從而抑制癌細胞增殖。\n\n【核心考點】\nTamoxifen 藥理機轉：為脂溶性小分子，穿透細胞膜後在細胞質/細胞核內結合雌激素受體（為細胞內受體），作為 ER 的拮抗劑抑制乳癌細胞生長，僅適用於 ER 陽性乳癌。",
+      "key_point": "Tamoxifen 的作用靶點、化學特性與分子藥理機制。",
+      "flashcard_front": "Tamoxifen (三苯氧胺) / 選擇性雌激素受體調節劑 (SERM) / 穿膜擴散 / 基因表達阻斷",
+      "flashcard_back": "Tamoxifen 可直接擴散穿膜，在細胞內結合並拮抗雌激素受器，阻斷雌激素對乳癌細胞基因表達的調控。",
+      "flashcard_summary": "Tamoxifen 作用機制 -> Tamoxifen 直接穿膜進入細胞並與雌激素受器結合，藉以拮抗雌激素調控的基因表達。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題詢問人類基因治療中最常使用的載體（vector）種類。基因治療的目標是將治療性基因有效送入人體細胞核中表現，因此載體必須具備高感染力或高轉染效率。\n\n【選項詳解】\n- A. 酵母菌(yeast)：錯誤。酵母菌為真核微生物，主要用於生產重組蛋白質（如B型肝炎疫苗），無法作為直接感染人體細胞的基因載體。\n- B. 人造細菌染色體(bacterial artificial chromosome)：錯誤。人造細菌染色體（BAC）主要用於構築大片段 DNA 的基因體圖譜與基因庫，由於分子量巨大且缺乏主動進入人體細胞的機制，不適合作為臨床基因治療的遞送載體。\n- C. 腺病毒(adenovirus)：正確。病毒天然具備感染人類細胞的能力，因此在臨床試驗中，經過基因改造去毒性的腺病毒（Adenovirus）、腺相關病毒（AAV）與反轉錄病毒等，是最有效且最常被使用的基因治療載體，能將目標基因穩定送入宿主細胞。\n- D. 噬菌體(bacteriophage)：錯誤。噬菌體是專門感染細菌的病毒，其表面受體辨識系統不適用於人類真核細胞，無法將基因送入人體細胞中。\n\n【核心考點】\n人類基因治療之載體：利用病毒（如 Adenovirus、AAV、Retrovirus、Lentivirus）天然的感染機制，改造成為將治療基因送入目標細胞的載體。",
+      "key_point": "臨床基因治療中常用的高效率遞送載體。",
+      "flashcard_front": "基因治療 (gene therapy) / 病毒載體 / 腺病毒 (adenovirus) / 轉導效率 / 宿主感染力",
+      "flashcard_back": "腺病毒具有極高基因轉導效率且能感染人類等多種細胞，是目前臨床基因治療最常用的病毒載體之一。",
+      "flashcard_summary": "基因治療載體 -> 腺病毒（adenovirus）是臨床上將外源基因送入人體最常使用的病毒載體。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n題幹詢問反轉錄病毒（retrovirus）在將其基因體整合進宿主染色體時，其前病毒（provirus）結構中哪一個元素會重複出現在兩端。\n\n【選項詳解】\n- A. 末端長重複序列(long terminal repeat sequences)：正確。反轉錄病毒在反轉錄過程會於雙股 DNA 的 5' 端及 3' 端形成完全相同的「末端長重複序列（LTRs）」。整合至宿主染色體後，這些 LTRs 包含啟動子（promoter）與增強子（enhancer），負責調控病毒基因的轉錄，為其嵌入時的特徵性重複結構。\n- B. gag gene：錯誤。gag 基因編碼病毒的內部核心結構蛋白（如基質蛋白與衣殼蛋白），在基因體中央區段僅出現一次，並非末端重複序列。\n- C. pol gene：錯誤。pol 基因編碼病毒複製所需的酵素（如反轉錄酶、整合酶、蛋白酶），位於基因體內部，不屬於末端重複結構。\n- D. env gene：錯誤。env 基因編碼病毒套膜醣蛋白（如 gp120 和 gp41），同樣位於基因體內部單一區域，不會在嵌入位點重複出現。\n\n【核心考點】\n反轉錄病毒基因體結構特徵：兩端具備調控基因轉錄的末端長重複序列（LTRs），內部包含結構蛋白（gag）、功能酵素（pol）與套膜蛋白（env）基因。",
+      "key_point": "反轉錄病毒前病毒嵌入宿主基因體時的末端重複特徵。",
+      "flashcard_front": "反轉錄病毒 / 前病毒 (provirus) / 嵌入染色體 / 末端長重複序列 (LTR) / 基因體結構",
+      "flashcard_back": "反轉錄病毒 DNA 嵌入宿主基因體後，在前病毒的 5' 與 3' 兩端皆有相同的 LTR 序列重複存在。",
+      "flashcard_summary": "反轉錄病毒LTR重複 -> 反轉錄病毒基因體在整合進宿主染色體時，其末端長重複序列（LTR）會重複出現在嵌入位點兩側。",
+      "review_status": "reviewed",
+      "explanation_model": "gemini-exp-1206",
+      "explanation_generated_at": "2026-07-20T16:30:30.934517Z",
+      "manual_review_notes": ""
+    }
+  ]
+}

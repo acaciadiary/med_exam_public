@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-4.json",
+  "dataset_id": "108-2_medicine-4",
+  "range": {
+    "start": 1,
+    "end": 17
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-4_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題測驗新生兒常見良性皮疹的鑑別。新生兒毒性紅斑（Erythema toxicum neonatorum）常在出生後數天內出現，表現為紅色斑塊上的小丘疹或水泡，不需治療即可在數週內自行消退。\n\n【選項詳解】\n- A. 正確。新生兒毒性紅斑通常在出生後 24 至 72 小時出現，好發於軀幹與四肢，避開手掌與腳掌，且一週左右會自行消失，與題幹描述完全吻合。\n- B. 錯誤。癰（Carbuncle）是嚴重的皮下細菌感染，會出現紅腫熱痛及化膿，不可能一週內未經治療就自行消失。\n- C. 錯誤。鮭魚斑（Salmon patch）是微血管擴張引起的良性血管瘤，通常平坦且紅色，好發於後頸、眼瞼，不會有水泡表現。\n- D. 錯誤。先天性梅毒（Congenital syphilis）的皮疹多為廣泛性水泡或脫皮，且特別容易侵犯手掌與腳掌，並常伴隨肝脾腫大或骨骼異常等全身症狀，且不會自行消退。\n\n【核心考點】\n新生兒毒性紅斑（Erythema toxicum）表現為出生數天內的紅斑丘疹與水泡（避開掌蹠），不需治療即可自癒。",
+      "key_point": "新生兒毒性紅斑（Erythema toxicum）表現為出生數天內的紅斑丘疹與水泡，避開掌蹠，不需治療可自癒。",
+      "flashcard_front": "3天大新生兒 / 軀幹手腳紅疹水泡 / 避開掌蹠 / 一週後自癒",
+      "flashcard_back": "最可能為新生兒毒性紅斑（Erythema toxicum neonatorum），為良性自限性皮疹。",
+      "flashcard_summary": "新生兒毒性紅斑特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n本題測驗新生兒腹壁缺損疾病的鑑別。題目關鍵在於突出的內臟有「一層薄膜覆蓋」且「與臍帶相連」，這正是臍膨出（Omphalocele）的典型解剖特徵。\n\n【選項詳解】\n- A. 正確。臍膨出的缺損發生在臍環基部，因此脫出的臟器表面會有一層由羊膜與腹膜組成的薄膜包覆，且臍帶會連在該薄膜囊上。\n- B. 錯誤。腹裂（Gastroschisis）的腹壁缺損通常位於臍帶右側，腸道等內臟直接裸露於羊水中，表面「沒有」薄膜覆蓋。\n- C. 錯誤。臍疝氣（Umbilical hernia）是因臍環閉合不全造成腸子突出，但表面被「完整的皮膚」覆蓋，而非薄膜。\n- D. 錯誤。臍肉芽腫（Umbilical granuloma）是臍帶脫落後殘留的紅色肉芽組織，並非內臟突出。\n\n【核心考點】\n臍膨出（Omphalocele）有薄膜包覆且與臍帶相連；腹裂（Gastroschisis）則多在臍帶旁且無薄膜包覆。",
+      "key_point": "臍膨出（Omphalocele）有薄膜包覆且與臍帶相連；腹裂（Gastroschisis）無薄膜包覆。",
+      "flashcard_front": "新生兒 / 內臟突出 / 臍帶相連 / 薄膜覆蓋",
+      "flashcard_back": "臍膨出（Omphalocele）；若無薄膜覆蓋且位於臍帶旁則為腹裂（Gastroschisis）。",
+      "flashcard_summary": "臍膨出 vs 腹裂鑑別",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題測驗新生兒暫時性呼吸過速（TTNB）的病生理機制與流行病學。TTNB 的主因是肺泡液體清除延遲。正答為 B，此選項為錯誤敘述；其他選項皆為正確敘述，故不選。\n\n【選項詳解】\n- A. 正確敘述，故不選。TTNB 的主要機轉為胎兒肺部液體在出生時未能完全吸收或清除延遲，導致短暫的呼吸窘迫。\n- B. 錯誤敘述，故選為正答。自然產的嬰兒在經過產道時會受到物理擠壓，有助於擠出肺部液體；相反地，未經產道擠壓的「剖腹產」嬰兒發生 TTNB 的風險顯著較高。\n- C. 正確敘述，故不選。TTNB 顧名思義是暫時性的，隨著肺部液體逐漸由淋巴及微血管吸收，多數病患症狀會在出生後 48 至 72 小時內緩解。\n- D. 正確敘述，故不選。雖然多數為良性自限性，但少數嚴重的 TTNB 患兒若有嚴重低血氧，可能併發持續性肺動脈高壓（PPHN）。\n\n【核心考點】\n新生兒暫時性呼吸過速（TTNB）肇因於肺部液體吸收延遲，因此未經產道擠壓的「剖腹產」嬰兒風險較自然產高。",
+      "key_point": "新生兒暫時性呼吸過速（TTNB）是由肺部液體吸收延遲引起，剖腹產嬰兒風險較自然產高。",
+      "flashcard_front": "新生兒暫時性呼吸過速 (TTNB) / 主要發生於何種生產方式",
+      "flashcard_back": "剖腹產嬰兒較易發生，因為未經產道擠壓，肺部液體吸收較慢。",
+      "flashcard_summary": "TTNB與生產方式",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題測驗兒童繼發性膽囊水腫（Hydrops of gallbladder）的常見病因。兒童無結石性膽囊水腫通常與急性全身性發炎或感染反應有關。正答為 B，此選項最少合併膽囊水腫；其他選項皆常合併，故不選。\n\n【選項詳解】\n- A. 常合併，故不選。川崎症（Kawasaki disease）是一種全身性血管炎，常併發無結石性膽囊水腫，是其典型併發症之一。\n- B. 最少合併，故選為正答。多脾症（Polysplenia syndrome）屬於先天性異位症候群，常合併心血管畸形與膽道閉鎖，但較少引起急性的繼發性膽囊水腫。\n- C. 常合併，故不選。鏈球菌咽喉炎等全身性感染可能會引起局部淋巴反應，導致淋巴結腫大壓迫膽管，引發無結石性膽囊水腫。\n- D. 常合併，故不選。過敏性紫斑症（HSP）為一種 IgA 血管炎，全身發炎反應也可能影響腸胃道與膽道，進而導致膽囊水腫。\n\n【核心考點】\n兒童膽囊水腫多為急性感染或發炎反應（如川崎氏症、鏈球菌感染、HSP）所繼發；多脾症屬先天解剖異常，極少合併膽囊水腫。",
+      "key_point": "兒童膽囊水腫常繼發於全身性發炎疾病，如川崎氏症、過敏性紫斑症及鏈球菌感染。",
+      "flashcard_front": "兒童繼發性膽囊水腫 (Hydrops of gallbladder) 常見的三個病因",
+      "flashcard_back": "川崎症、過敏性紫斑症 (HSP) 及鏈球菌感染。",
+      "flashcard_summary": "兒童膽囊水腫常見病因",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題測驗威爾森氏症（Wilson disease）的遺傳特徵、臨床表現與診斷標準。威爾森氏症是因銅代謝異常導致銅沉積在肝、腦、眼等器官。正答為 C，此選項為錯誤敘述；其他選項皆為正確敘述，故不選。\n\n【選項詳解】\n- A. 正確敘述，故不選。威爾森氏症是位於第 13 對染色體的 ATP7B 基因突變，屬於體染色體隱性（Autosomal recessive）遺傳。\n- B. 正確敘述，故不選。威爾森氏症初期常表現為無症狀肝指數上升或不明原因肝炎，因此是不明原因肝病的重要鑑別診斷。\n- C. 錯誤敘述，故選為正答。Kayser-Fleischer (K-F) ring 是銅沉積在眼睛的「角膜後彈性層（Descemet's membrane）」，而不是視網膜（Retina）。\n- D. 正確敘述，故不選。由於肝臟合成含銅血清蛋白障礙，大多數威爾森氏症患者血液中的攜銅蛋白（Ceruloplasmin）濃度會顯著降低。\n\n【核心考點】\n威爾森氏症的 K-F 環為銅沉積於「角膜」邊緣的後彈性層，且多數患者血清攜銅蛋白（Ceruloplasmin）會降低。",
+      "key_point": "威爾森氏症的特徵 K-F 環為銅離子沉積於角膜，而非視網膜；屬體染色體隱性遺傳。",
+      "flashcard_front": "威爾森氏症 (Wilson disease) / Kayser-Fleischer ring 沉積部位",
+      "flashcard_back": "角膜後彈性層 (Descemet's membrane)，而非視網膜。",
+      "flashcard_summary": "威爾森氏症KF環位置",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題測驗兒童次發性消化性潰瘍的致病機轉與好發部位。次發性潰瘍常見原因包括藥物（如 NSAIDs）或重大壓力（如燒傷、敗血症）。正答為 B，此選項為錯誤敘述；其他選項皆為正確敘述，故不選。\n\n【選項詳解】\n- A. 正確敘述，故不選。NSAIDs 的主要副作用機轉就是抑制環氧化酶（COX），減少保護性前列腺素（prostaglandin）的合成，削弱胃黏膜屏障。\n- B. 錯誤敘述，故選為正答。NSAIDs 藥物所引起的消化性潰瘍，病變最常見的位置是在「胃（stomach）」，而非十二指腸。\n- C. 正確敘述，故不選。重大生理壓力（如嚴重創傷、敗血症）引起的壓力性潰瘍（Stress ulcer），病程發展極快，通常在壓力事件發生後 24 小時內就會出現胃黏膜病變。\n- D. 正確敘述，故不選。對於嚴重潰瘍出血，氫離子幫浦抑制劑（PPI）能快速提高胃內 pH 值，有助於血小板凝集及止血，是臨床上常用的一線治療藥物。\n\n【核心考點】\n兒童因 NSAIDs 引起的次發性消化性潰瘍最常發生於「胃」，而原發性消化性潰瘍（如幽門螺旋桿菌感染）則較常位於「十二指腸」。",
+      "key_point": "NSAIDs 引起的兒童次發性消化性潰瘍最常見於「胃」，而非十二指腸。",
+      "flashcard_front": "NSAIDs 引起之消化性潰瘍最常見位置",
+      "flashcard_back": "胃（stomach）；與原發性潰瘍常見於十二指腸不同。",
+      "flashcard_summary": "NSAIDs潰瘍好發部位",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題測驗代謝性酸中毒中，高陰離子間隙（High AG）與正常陰離子間隙（Normal AG）的病因鑑別。正答為 C，此選項並非高陰離子間隙型；其他選項皆為高陰離子間隙酸中毒，故不選。\n\n【選項詳解】\n- A. 常見，故不選。DKA 會產生大量酮體（乙醯乙酸與 β-羥基丁酸），這些未測量陰離子會增加，屬於典型的高陰離子間隙酸中毒。\n- B. 常見，故不選。休克導致組織缺氧而累積大量乳酸（未測量陰離子），故屬於高陰離子間隙酸中毒。\n- C. 最罕見，故選為正答。腎小管酸血症（RTA）是因為腎臟流失碳酸氫根或無法排氫，為代償流失的陰離子，血氯會上升，故屬於「正常陰離子間隙（高氯性）」代謝性酸中毒。\n- D. 常見，故不選。乙二醇中毒的代謝產物（如草酸、乙醇酸）會顯著增加未測量陰離子，屬於高陰離子間隙酸中毒（記憶口訣：MUDPILES）。\n\n【核心考點】\n高陰離子間隙代謝酸中毒常見病因（MUDPILES）包括甲醇、尿毒症、DKA、乳酸中毒、乙二醇等；而腎小管酸血症（RTA）則屬於「正常陰離子間隙」酸中毒。",
+      "key_point": "腎小管酸血症（RTA）及嚴重腹瀉屬於正常陰離子間隙（高氯性）代謝性酸中毒。",
+      "flashcard_front": "高陰離子間隙代謝性酸中毒常見口訣 MUDPILES 中不包含哪種腎臟疾病？",
+      "flashcard_back": "不包含腎小管酸血症（RTA），因 RTA 為正常陰離子間隙（高氯性）酸中毒。",
+      "flashcard_summary": "RTA與陰離子間隙",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題測驗兒童過敏性紫斑症腎炎（HSPN）的臨床病程與預後。過敏性紫斑症（HSP）是一種 IgA 相關的小血管炎。\n\n【選項詳解】\n- A. 錯誤。雖然 HSP 發病前常有上呼吸道感染作為誘發因子，但並非「所有」病患在發病當下「都會同時合併」上呼吸道感染症狀。\n- B. 錯誤。HSPN 的腎臟侵犯（如血尿、蛋白尿）通常在皮膚紫斑出現後的數週內（常為 4-6 週）才逐漸顯現，不一定會與紫斑同時出現，因此需持續追蹤尿液。\n- C. 錯誤。HSPN 與 IgA 腎炎在腎臟病理切片下的表現幾乎無法區分，主要須依賴臨床特徵（如 HSP 特有之皮疹、關節痛與腸胃道症狀）來鑑別診斷。\n- D. 正確。HSPN 兒童若在急性期出現明顯的腎炎或腎病症候群，其腎臟實質受損較嚴重，成年後進展為慢性腎臟病（CKD）及高血壓的風險會顯著高於未併發腎炎者。\n\n【核心考點】\n過敏性紫斑症腎炎（HSPN）腎臟症狀常比紫斑晚數週出現；急性期併發嚴重腎炎者，成年後發生慢性腎臟病的風險較高。",
+      "key_point": "過敏性紫斑症腎炎（HSPN）腎臟症狀多晚於紫斑出現，且急性期有腎炎者成年後發展成慢性腎臟病風險較高。",
+      "flashcard_front": "過敏性紫斑症腎炎 (HSPN) 兒童成年後最需關注的風險",
+      "flashcard_back": "若急性期有嚴重腎炎，成年後有較高風險罹患慢性腎臟病（CKD）。",
+      "flashcard_summary": "HSPN遠期預後",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題測驗先天性 TORCH 感染症候群的鑑別。題幹關鍵為「小頭畸形、聽力受損、新生兒黃疸及血小板低下」，加上影像學的「腦室周圍鈣化（periventricular calcification）」，是先天性巨細胞病毒（CMV）感染的典型特徵。\n\n【選項詳解】\n- A. 錯誤。先天性梅毒（Syphilis）通常表現為掌蹠水泡脫皮、骨膜炎、特徵性齒（Hutchinson teeth）及間質性角膜炎，不會以腦室周圍鈣化為主。\n- B. 錯誤。先天性弓漿蟲感染（Toxoplasmosis）的典型三症狀為水腦、脈絡膜視網膜炎及「瀰漫性大腦皮質鈣化」，鈣化位置與 CMV 的腦室周圍不同。\n- C. 錯誤。先天性單純疱疹病毒（HSV）感染多發生於分娩時經過產道感染，以皮膚水泡、角膜炎及嚴重腦炎為主，較少以單純腦室周圍鈣化與聽力喪失表現。\n- D. 正確。先天性巨細胞病毒（CMV）感染是最常見導致兒童非遺傳性感音神經性聽力喪失的原因，且常伴隨小頭症與典型的「腦室周圍（periventricular）鈣化」。\n\n【核心考點】\n先天性 CMV 感染的特徵為「感音神經性聽力喪失」與「腦室周圍鈣化」；先天性弓漿蟲感染則為「水腦」與「大腦皮質瀰漫性鈣化」。",
+      "key_point": "先天性巨細胞病毒（CMV）感染常以小頭症、聽力受損與腦室周圍鈣化為特徵。",
+      "flashcard_front": "小頭畸形 / 感音神經性聽力受損 / 腦室周圍鈣化",
+      "flashcard_back": "最可能的診斷為先天性巨細胞病毒（CMV）感染。",
+      "flashcard_summary": "CMV感染典型特徵",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題測驗兒童頭痛需安排腦部影像學檢查（Red Flags）的適應症。對於原發性偏頭痛，一般不需影像學檢查，除非懷疑有次發性結構病變。\n\n【選項詳解】\n- A. 錯誤。偏頭痛發作頻率高並非影像學檢查的絕對適應症，更需關注的是發作頻率的突然改變或是給予適當藥物後仍無法控制的惡化。\n- B. 錯誤。兒童偏頭痛出現視覺或感覺預兆（Aura）是典型的偏頭痛表現之一，單純的預兆不代表有腦部結構性病變，不需要常規安排神經影像。\n- C. 正確。若頭痛伴隨「局部神經學徵象（Focal neurological sign）」，如單側無力、步態不穩、顱神經異常等，強烈暗示可能有腦瘤或血管病變，為絕對需要影像學檢查的紅旗徵象（Red Flags）。\n- D. 錯誤。偏頭痛具有強烈的遺傳傾向，有家族史反而更支持原發性偏頭痛的診斷，因此不需要因此特地安排神經影像學檢查。\n\n【核心考點】\n兒童頭痛需進行神經影像學檢查的紅旗徵象（Red Flags）包括：伴隨局部神經學異常、半夜痛醒、早上起床常嘔吐、年紀太小（<3歲）或頭痛型態突然劇變。",
+      "key_point": "兒童頭痛伴隨局部神經學徵象（Focal neurological sign），強烈暗示結構性病變，為必作神經影像檢查的紅旗徵象。",
+      "flashcard_front": "兒童頭痛需進行神經影像學檢查的紅旗徵象 (Red Flags)",
+      "flashcard_back": "伴隨局部神經學徵象、半夜痛醒、清晨頻繁嘔吐、型態突然劇變、或是年紀小於 3 歲。",
+      "flashcard_summary": "頭痛影像檢查適應症",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

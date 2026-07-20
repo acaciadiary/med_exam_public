@@ -1,175 +1,184 @@
-import os
 import json
-import sys
 import re
+import sys
 from pathlib import Path
 from datetime import datetime, timezone
 
-# 禁用模板句清單
-BANNED_TEMPLATES = [
+# 禁用詞列表
+BANNED_PHRASES = [
     "非本題答案",
     "不是本題標準答案",
     "回到題幹線索",
     "請用題幹線索連回",
+    "題目中選項 A 所代表的鑑別或處置",
     "不能最精準回答本題",
     "最符合題幹",
     "核心記憶點",
     "定義、機轉、典型表現或處置原則",
+    "標準答案所接受的判斷",
+    "雖然與題目主題相關",
+    "與標準答案的關鍵判斷不一致",
+    "對照本題核心解析",
     "此選項不是最佳答案",
     "與正確答案的關鍵判斷點不一致",
-    "作答時應回到題幹線索與標準答案比對",
-    "熟悉疾病機轉、臨床表現、診斷檢查與治療原則",
-    "原始解析重點指出"
+    "原始解析重點指出",
+    "原解析重點"
 ]
 
-def check_banned_phrases(text, q_num):
+def clean_text(text):
+    return re.sub(r"\s+", " ", str(text or "")).strip()
+
+def check_explanation_quality(question_number, explanation):
     issues = []
-    if not text:
-        return issues
-    for phrase in BANNED_TEMPLATES:
-        if phrase in text:
-            issues.append(f"第 {q_num} 題含有禁用模板句: '{phrase}'")
+    
+    # 檢查是否含有三大段
+    if "【題幹解析】" not in explanation:
+        issues.append(f"Q{question_number}: 缺少 【題幹解析】")
+    if "【選項詳解】" not in explanation:
+        issues.append(f"Q{question_number}: 缺少 【選項詳解】")
+    if "【核心考點】" not in explanation:
+        issues.append(f"Q{question_number}: 缺少 【核心考點】")
+        
+    # 檢查禁用詞
+    for phrase in BANNED_PHRASES:
+        if phrase in explanation:
+            issues.append(f"Q{question_number}: 包含禁用詞 '{phrase}'")
+            
+    # 檢查選項 A-D 的標記
+    for opt in ["- A.", "- B.", "- C.", "- D."]:
+        if opt not in explanation:
+            issues.append(f"Q{question_number}: 缺少選項標記 '{opt}'")
+            
+    # 檢查是否有同一個句子重複出現在多個選項中
+    # 粗略切分選項來說明
+    parts = explanation.split("- ")
+    opt_texts = []
+    for p in parts:
+        if p.startswith("A.") or p.startswith("B.") or p.startswith("C.") or p.startswith("D."):
+            opt_texts.append(p[2:].strip())
+            
+    if len(opt_texts) >= 3:
+        # 尋找是否有長度大於 8 的子句重複出現在 3 個以上的選項中
+        # 簡單用逗號、句號切分
+        clauses_count = {}
+        for text in opt_texts:
+            clauses = re.split(r"[，。；、\s]", text)
+            seen_in_this_opt = set()
+            for c in clauses:
+                c = c.strip()
+                # 排除純英文單字 (如藥名、菌名) 的誤判：必須包含中文字，或長度大於 15
+                has_chinese = bool(re.search(r"[\u4e00-\u9fa5]", c))
+                if len(c) > 8 and (has_chinese or len(c) > 15):
+                    seen_in_this_opt.add(c)
+            for c in seen_in_this_opt:
+                clauses_count[c] = clauses_count.get(c, 0) + 1
+        
+        for clause, count in clauses_count.items():
+            if count >= 3:
+                issues.append(f"Q{question_number}: 子句 '{clause}' 重複出現在 {count} 個選項中 (重複度過高)")
+                
     return issues
 
-def validate_update_file(file_path, source_questions):
-    issues = []
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except Exception as e:
-        return [f"無法解析 JSON 檔案 {file_path.name}: {e}"], None
-
-    # 檢查基本結構
-    required_keys = ["source_file", "dataset_id", "range", "updates"]
-    for k in required_keys:
-        if k not in data:
-            issues.append(f"缺少必要欄位: '{k}'")
-    
-    if issues:
-        return issues, None
-
-    updates = data["updates"]
-    if not isinstance(updates, list):
-        return ["'updates' 必須是一個陣列"], None
-
-    valid_updates = []
-    for u in updates:
-        q_num = u.get("question_number")
-        q_id = u.get("question_id")
-        
-        if q_num is None or q_id is None:
-            issues.append(f"更新項目中缺少 question_number 或 question_id")
-            continue
-            
-        # 尋找原始題目
-        orig_q = source_questions.get(q_id)
-        if not orig_q:
-            issues.append(f"在原始考卷中找不到 question_id: {q_id}")
-            continue
-            
-        if orig_q.get("question_number") != q_num:
-            issues.append(f"題目 ID {q_id} 與題號 {q_num} 在原始考卷中不匹配")
-            continue
-
-        # 檢驗詳解內容
-        exp = u.get("explanation", "")
-        if not exp:
-            issues.append(f"第 {q_num} 題缺少 explanation")
-            continue
-            
-        # 檢驗是否有三段標題
-        for header in ["【題幹解析】", "【選項詳解】", "【核心考點】"]:
-            if header not in exp:
-                issues.append(f"第 {q_num} 題的詳解缺少結構標題: {header}")
-
-        # 檢驗選項詳解是否有 A-D 各自說明
-        for opt in ["- A.", "- B.", "- C.", "- D."]:
-            if opt not in exp:
-                issues.append(f"第 {q_num} 題的選項詳解中可能缺少選項說明: {opt}")
-
-        # 檢驗禁用詞
-        phrase_issues = check_banned_phrases(exp, q_num)
-        issues.extend(phrase_issues)
-
-        # 檢查 key_point 等其他欄位是否存在且不為空
-        for field in ["key_point", "flashcard_summary", "flashcard_front", "flashcard_back"]:
-            val = u.get(field, "")
-            if not val or not str(val).strip():
-                issues.append(f"第 {q_num} 題的欄位 {field} 為空")
-            else:
-                field_phrase_issues = check_banned_phrases(str(val), f"{q_num} ({field})")
-                issues.extend(field_phrase_issues)
-
-        valid_updates.append(u)
-        
-    return issues, valid_updates
-
 def main():
-    source_path = Path("public/data/exams/110-2/medicine-2.json")
-    updates_dir = Path("scratch/rewrite_updates/110-2_medicine-2")
+    updates_dir = Path("scratch/rewrite_updates/108-2_medicine-2")
+    source_file = Path("public/data/exams/108-2/medicine-2.json")
     
-    if not source_path.exists():
-        print(f"錯誤：找不到來源考卷檔案 {source_path}")
+    if not source_file.exists():
+        print(f"Error: Source file {source_file} not found.")
         sys.exit(1)
         
-    # 讀取來源考卷
-    with open(source_path, 'r', encoding='utf-8') as f:
+    if not updates_dir.exists():
+        print(f"Error: Updates directory {updates_dir} not found.")
+        sys.exit(1)
+        
+    # 讀取原始考卷
+    with open(source_file, "r", encoding="utf-8") as f:
         source_data = json.load(f)
         
-    source_questions = {q["id"]: q for q in source_data.get("questions", [])}
+    questions = source_data.get("questions", [])
+    q_dict = {q["id"]: q for q in questions}
     
-    if not updates_dir.exists():
-        print(f"提示：更新目錄 {updates_dir} 還不存在，將為您建立。")
-        updates_dir.mkdir(parents=True, exist_ok=True)
+    update_files = list(updates_dir.glob("*.json"))
+    if not update_files:
+        print("No update files found in the directory.")
         sys.exit(0)
         
-    json_files = list(updates_dir.glob("*.json"))
-    if not json_files:
-        print("沒有找到待合併的 updates JSON 檔案。")
-        sys.exit(0)
-        
-    all_success = True
+    print(f"Found {len(update_files)} update files.")
+    
+    all_issues = []
     merged_count = 0
     now_ts = datetime.now(timezone.utc).isoformat()
     
-    for jf in sorted(json_files):
-        print(f"正在驗證: {jf.name}")
-        issues, valid_updates = validate_update_file(jf, source_questions)
-        
-        if issues:
-            print(f"  [FAIL] 驗證失敗，有以下問題:")
-            for iss in issues:
-                print(f"    - {iss}")
-            all_success = False
-        else:
-            print("  [OK] 驗證成功，準備合併...")
-            for u in valid_updates:
-                q_id = u["question_id"]
-                q = source_questions[q_id]
+    for uf in sorted(update_files):
+        print(f"Processing {uf.name}...")
+        try:
+            with open(uf, "r", encoding="utf-8") as f:
+                up_data = json.load(f)
+        except Exception as e:
+            all_issues.append(f"File {uf.name} is not valid JSON: {str(e)}")
+            continue
+            
+        # 驗證結構
+        if "updates" not in up_data:
+            all_issues.append(f"File {uf.name} is missing 'updates' field.")
+            continue
+            
+        updates = up_data["updates"]
+        for up in updates:
+            qid = up.get("question_id")
+            qnum = up.get("question_number")
+            
+            if not qid or qnum is None:
+                all_issues.append(f"File {uf.name} has update item with missing id/question_number")
+                continue
                 
-                # 更新欄位
-                q["explanation"] = u["explanation"].strip()
-                q["key_point"] = u["key_point"].strip()
-                q["flashcard_summary"] = u["flashcard_summary"].strip()
-                q["flashcard_front"] = u["flashcard_front"].strip()
-                q["flashcard_back"] = u["flashcard_back"].strip()
-                q["review_status"] = "ai_generated"
-                q["explanation_model"] = "codex-high-quality-rewrite"
-                q["explanation_generated_at"] = now_ts
+            orig_q = q_dict.get(qid)
+            if not orig_q:
+                all_issues.append(f"QID {qid} (Q{qnum}) from {uf.name} not found in source file.")
+                continue
                 
-                merged_count += 1
+            # 檢查品質
+            expl = up.get("explanation", "")
+            q_issues = check_explanation_quality(qnum, expl)
+            if q_issues:
+                all_issues.extend([f"[{uf.name}] {iss}" for iss in q_issues])
                 
-    if not all_success:
-        print("\n部分檔案驗證失敗。在所有問題修正之前，不會寫入原始考卷。")
+            # 檢查其他必備欄位
+            for fld in ["key_point", "flashcard_summary", "flashcard_front", "flashcard_back"]:
+                if not up.get(fld):
+                    all_issues.append(f"[{uf.name}] Q{qnum}: 缺少欄位 '{fld}' 或內容為空。")
+            
+            # 若無嚴重問題 (或只列出警告，若要硬性阻擋，我們在後面判斷)
+            # 將欄位 merge 到記憶體中的原始資料
+            orig_q["explanation"] = expl
+            orig_q["key_point"] = clean_text(up.get("key_point"))
+            orig_q["flashcard_summary"] = clean_text(up.get("flashcard_summary"))
+            orig_q["flashcard_front"] = clean_text(up.get("flashcard_front"))
+            orig_q["flashcard_back"] = clean_text(up.get("flashcard_back"))
+            orig_q["review_status"] = "ai_generated"
+            orig_q["explanation_model"] = "codex-high-quality-rewrite"
+            orig_q["explanation_generated_at"] = now_ts
+            
+            # 可選的 manual_review_notes 繼承
+            if "manual_review_notes" in up:
+                orig_q["manual_review_notes"] = up["manual_review_notes"]
+                
+            merged_count += 1
+            
+    if all_issues:
+        print("\n=== FINDINGS AND ISSUES ===")
+        for iss in all_issues:
+            print(f"- {iss}")
+        print("\nThere are quality or format issues. Please fix them before writing to source file.")
+        # 為了安全，即使有問題，如果我們只是想跑測試，我們不寫入。
+        # 不過如果只有少數警告，可以視情況決定。這裡我們不直接寫入以策安全。
         sys.exit(1)
-        
-    # 寫回原始考卷
-    source_data["updated_at"] = now_ts
-    with open(source_path, 'w', encoding='utf-8') as f:
-        json.dump(source_data, f, ensure_ascii=False, indent=2)
-        
-    print(f"\n[SUCCESS] 合併成功！共更新了 {merged_count} 題。")
-    print(f"來源考卷 {source_path.name} 已更新。")
-    
+    else:
+        # 寫回原始考卷
+        source_data["updated_at"] = now_ts
+        with open(source_file, "w", encoding="utf-8") as f:
+            json.dump(source_data, f, ensure_ascii=False, indent=2)
+        print(f"\nAll check passed! Successfully merged {merged_count} questions into {source_file}.")
+
 if __name__ == "__main__":
     main()

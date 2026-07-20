@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/110-1/medicine-1.json",
+  "dataset_id": "110-1_medicine-1",
+  "range": {
+    "start": 70,
+    "end": 81
+  },
+  "updates": [
+    {
+      "question_id": "110-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n長期高鈉飲食會提高體內細胞外液的滲透壓與體液容量。這將引起一系列內分泌與血流動力學的代償機制，主要目標是排鈉並保留水分以平衡滲透壓。\n\n【選項詳解】\n- A. 尿中鈉排泄量上升：正確（非錯誤選項）。高容積與高滲透壓會促使心房利鈉胜肽（ANP）增加並抑制醛固酮（aldosterone），進而減少腎臟對鈉的再吸收，增加尿鈉排泄以排出過多的鈉。\n- B. 血中心房利鈉胜肽(atrial natriuretic peptide)濃度上升：正確（非錯誤選項）。高鈉飲食增加血漿容積，使心房壁受到牽拉，刺激心肌細胞分泌 ANP，促進利鈉與利尿。\n- C. 血中升壓素(vasopressin)濃度下降：錯誤（最不可能發生，為本題正解）。血漿滲透壓上升會刺激下視丘滲透壓受器，促進腦垂腺後葉釋放升壓素（ADH），以增加腎集尿管對水的再吸收，因此升壓素濃度應「上升」而非下降。\n- D. 血中醛固酮(aldosterone)濃度下降：正確（非錯誤選項）。高血鈉與高容積會抑制腎素-血管收縮素-醛固酮系統（RAAS），減少醛固酮的分泌，以減少腎臟保留鈉的作用。\n\n【核心考點】\n長期高鈉飲食的生理代償機制：ADH分泌增加以保留水分、醛固酮減少且ANP增加以促進排鈉。",
+      "key_point": "長期高鈉飲食的生理代償機制：ADH分泌增加以保留水分、醛固酮減少且ANP增加以促進排鈉。",
+      "flashcard_front": "高鈉飲食 / 升壓素 (vasopressin/ADH) / 醛固酮 / ANP / 尿鈉排泄 / 滲透壓",
+      "flashcard_back": "高鈉飲食引發細胞外液高滲透壓與高容積，會促使升壓素（ADH）釋放增加，並使醛固酮下降、ANP上升。",
+      "flashcard_summary": "高鈉飲食內分泌變化 -> 長期高鈉飲食引發高滲透壓，會刺激 ADH 分泌增加，同時使醛固酮下降以促進排鈉。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n賽托利細胞（Sertoli cell）位於睪丸細精管內，主要負責支持並提供精子發育所需的環境，同時參與內分泌的回饋調控以及胚胎發育初期的性別分化。\n\n【選項詳解】\n- A. 經由分泌抑制素B(inhibin B),回饋抑制腦下垂體黃體刺激素(luteinizing hormone)的分泌：錯誤（為本題正解）。Sertoli cell 分泌的抑制素B主要回饋抑制腦下垂體前葉的「濾泡刺激素（FSH）」；抑制黃體刺激素（LH）的機制是由 Leydig cell 分泌的睪固酮（testosterone）負責。\n- B. 提供精子生長所需的養分：正確。Sertoli cell 作為支持細胞，負責提供生精細胞發育過程所需的營養與生長因子。\n- C. 形成血睪屏障(blood-testis barrier)：正確。相鄰的 Sertoli cell 之間透過緊密接合（tight junction）形成血睪屏障，保護發育中的精細胞免受自體免疫系統的攻擊。\n- D. 在胚胎時期,分泌Müllerian抑制物質(Müllerian-inhibiting substance),造成女性原始生殖管道(Müllerian duct)的退化：正確。在男性胚胎發育中，Sertoli cell 分泌 MIS（又稱抗穆勒氏管荷爾蒙 AMH），促使穆勒氏管退化，抑制女性生殖道的形成。\n\n【核心考點】\n睪丸細胞功能與內分泌調控：Sertoli cell 分泌抑制素B抑制FSH、形成血睪屏障並分泌MIS；Leydig cell 分泌睪固酮回饋抑制LH。",
+      "key_point": "睪丸細胞功能與內分泌調控：Sertoli cell 分泌抑制素B抑制FSH、形成血睪屏障並分泌MIS；Leydig cell 分泌睪固酮回饋抑制LH。",
+      "flashcard_front": "賽托利細胞 (Sertoli cell) / 抑制素 B / FSH 抑制 / LH 抑制 / 血睪屏障 / MIS",
+      "flashcard_back": "賽托利細胞分泌的抑制素B主要回饋抑制FSH，不抑制LH；LH受Leydig細胞分泌的睪固酮回饋抑制。",
+      "flashcard_summary": "賽托利細胞回饋調控 -> 賽托利細胞分泌的抑制素 B 回饋抑制 FSH 的分泌，而非抑制 LH。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n利用波長 280 nm 測定蛋白質濃度的原理，是基於特定胺基酸側鏈的共軛雙鍵結構對此波長紫外線具有強烈吸收特性。\n\n【選項詳解】\n- A. 絲胺酸(serine)：錯誤。絲胺酸側鏈僅含有羥基（-OH），缺乏具備吸光特性的芳香環或共軛雙鍵，無法在 280 nm 產生顯著吸收。\n- B. 羥丁胺酸(threonine)：錯誤。羥丁胺酸屬於含羥基的脂肪族胺基酸，無芳香環結構，在 280 nm 波長下沒有吸光能力。\n- C. 色胺酸(tryptophan)：正確。色胺酸的側鏈含有 indole 雙環芳香結構，具有豐富的共軛雙鍵，是所有胺基酸中在 280 nm 吸光度最強的分子，為此定量法的主要依據（另一貢獻者為酪胺酸 tyrosine）。\n- D. 纈胺酸(valine)：錯誤。纈胺酸為支鏈脂肪族胺基酸，側鏈為異丙基，不含芳香環結構，無法吸收 280 nm 的紫外光。\n\n【核心考點】\n蛋白質紫外吸收特性：280 nm 的吸光主要源自含有芳香環的色胺酸（tryptophan）與酪胺酸（tyrosine）。",
+      "key_point": "蛋白質紫外吸收特性：280 nm 的吸光主要源自含有芳香環的色胺酸（tryptophan）與酪胺酸（tyrosine）。",
+      "flashcard_front": "蛋白質定量 / 280 nm 吸光值 / 芳香族胺基酸 / 色胺酸 (tryptophan) / 共軛雙鍵",
+      "flashcard_back": "蛋白質在 280 nm 的紫外光吸光，主要基於色胺酸與酪胺酸的芳香環結構特性。",
+      "flashcard_summary": "280nm蛋白吸光原理 -> 蛋白質在 280 nm 處的紫外吸光主要源自色胺酸和酪胺酸側鏈的芳香環結構。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n酵素（酶）作為生物催化劑，其主要功能是加速化學反應達到平衡的速率，而其機制與熱力學和動力學的特定參數變化有關。\n\n【選項詳解】\n- A. 平衡常數(equilibrium constant)：錯誤。平衡常數（Keq）僅由反應物與產物之間的固有自由能差決定。酵素同時等比例加速正向與逆向反應，無法改變最終的平衡狀態與平衡常數。\n- B. 速率常數(rate constant)：正確。酵素藉由提供不同的反應路徑並降低反應的活化能（activation energy），使得分子更容易跨越能量障壁，進而提高正、逆反應的速率常數。\n- C. 反應物和產物之間的自由能差(free energy difference)：錯誤。自由能差（ΔG）是狀態函數，僅與反應的起點（反應物）和終點（產物）的能量狀態有關，酵素無法改變這個熱力學固有參數。\n- D. 產物的化學結構：錯誤。酵素只催化特定的化學反應，不會改變該反應所應生成之最終產物的化學結構。\n\n【核心考點】\n酵素催化原理：酵素透過降低活化能來提高反應速率常數，但不改變反應物與產物的自由能差（ΔG）與熱力學平衡常數。",
+      "key_point": "酵素催化原理：酵素透過降低活化能來提高反應速率常數，但不改變反應物與產物的自由能差（ΔG）與熱力學平衡常數。",
+      "flashcard_front": "酵素催化 / 活化能降低 / 速率常數 (rate constant) / 平衡常數 (Keq) / 自由能差 (ΔG)",
+      "flashcard_back": "酵素透過降低活化能來提高反應速率常數，但不改變反應的熱力學平衡常數（Keq）與自由能差（ΔG）。",
+      "flashcard_summary": "酵素對反應參數影響 -> 酵素會降低活化能並提高化學反應的速率常數，但不影響熱力學平衡常數或自由能。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nLineweaver-Burk 雙倒數圖的 Y 軸截距為 1/Vmax，X 軸截距為 -1/Km。加入抑制劑後若直線與未加抑制劑的直線交於 Y 軸，代表 Y 軸截距不變。\n\n【選項詳解】\n- A. 競爭性抑制劑(competitive inhibitor)：正確。競爭性抑制劑會與受質競爭酵素的活性位點。當受質濃度極高時可完全克服抑制，因此最大反應速率（Vmax）不變（Y軸截距不變），但表觀親和力下降，導致 Km 增加（X軸截距向原點靠近）。這會產生交於 Y 軸的圖形。\n- B. 非競爭性抑制劑(uncompetitive inhibitor)：錯誤。非競爭性抑制劑僅結合於酵素-受質複合體（ES complex）。這會同時降低 Vmax 與 Km，導致雙倒數圖中的直線與原直線平行，不會交於 Y 軸。\n- C. 混合性抑制劑(mixed inhibitor)：錯誤。混合性抑制劑可結合於游離酵素或酵素-受質複合體，會改變 Vmax 且可能改變 Km。其雙倒數圖的直線交點通常會落在第二或第三象限，而非直接交於 Y 軸。\n- D. 不可逆抑制劑(irreversible inhibitor)：錯誤。不可逆抑制劑會與酵素共價結合而使其永久失去活性，等同於減少了系統中有效酵素的總量。這會使 Vmax 降低，Y 軸截距上升，不會交於同一 Y 軸點。\n\n【核心考點】\n酵素抑制動力學：競爭性抑制導致 Vmax 不變（交於Y軸），Km 增加；非競爭性抑制導致 Vmax 與 Km 同步降低（圖形平行）。",
+      "key_point": "酵素抑制動力學：競爭性抑制導致 Vmax 不變（交於Y軸），Km 增加；非競爭性抑制導致 Vmax 與 Km 同步降低（圖形平行）。",
+      "flashcard_front": "Lineweaver-Burk / 相交於 Y 軸 / Vmax 不變 / Km 上升 / 競爭性抑制 / 雙倒數圖",
+      "flashcard_back": "雙倒數圖中直線相交於 Y 軸代表 {max}$ 不變、而 $ 增加，是競爭性抑制劑的典型特徵。",
+      "flashcard_summary": "競爭性抑制圖形特徵 -> 雙倒數作圖中加入抑制劑後若與原線相交於 Y 軸（Vmax 不變），即為競爭性抑制。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n維生素 A 及其衍生物在人體內有多種形式與功能，包括作為視覺感光分子、基因表現調節的荷爾蒙，以及抗氧化劑前驅物。\n\n【選項詳解】\n- A. Retinoic acid作為hormone,可與細胞核內receptor proteins結合：正確。視黃酸（retinoic acid）在細胞內發揮類似類固醇激素的作用，能穿透細胞核並與核內受體（如 RAR、RXR）結合，調控基因轉錄與細胞分化。\n- B. β-carotene具有多個isoprene units,是vitamin A1的前驅物：正確。β-胡蘿蔔素（β-carotene）是一種多烯類化合物，由多個異戊二烯（isoprene）單位組成，能在體內被裂解轉化為兩分子的視黃醛（retinal），是維生素 A 的重要前驅物。\n- C. all-trans-retinal與rhodopsin結合,經由可見光的激發,形成11-cis-retinal：錯誤（為本題正解）。光化學反應的方向相反。在視覺循環中，正常與視蛋白（opsin）結合的是 11-cis-retinal。當受到可見光激發時，11-cis-retinal 會異構化成 all-trans-retinal，引發視紫質結構改變並解離，進而產生視覺神經衝動。\n- D. 11-cis-retinal與opsin上的lysine形成共價鍵結：正確。在視紫質（rhodopsin）中，11-cis-retinal 透過席夫鹼（Schiff base）的化學鍵，共價結合在視蛋白（opsin）特定的離胺酸（lysine）殘基上。\n\n【核心考點】\n維生素 A 的生理功能與視覺循環：照光使 11-cis-retinal 異構化為 all-trans-retinal 並與 opsin 解離，觸發視覺信號。",
+      "key_point": "維生素 A 的生理功能與視覺循環：照光使 11-cis-retinal 異構化為 all-trans-retinal 並與 opsin 解離，觸發視覺信號。",
+      "flashcard_front": "維生素 A / 視覺循環 / 11-cis-retinal / all-trans-retinal / 照光異構化 / 視蛋白",
+      "flashcard_back": "照光時，視紫質中的 11-cis-retinal 被光激發異構化為 all-trans-retinal，引發視蛋白變性並發出視覺信號。",
+      "flashcard_summary": "視覺循環光化學反應 -> 照光激發會促使 11-cis-retinal 異構化為 all-trans-retinal，非相反。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n在缺氧狀態下，細胞為了持續進行糖解作用產生 ATP，必須將醣解過程中累積的還原力消耗掉，此反應即由乳酸去氫酶（LDH）催化。\n\n【選項詳解】\n- A. FADH2：錯誤。FADH2 主要是粒線體內檸檬酸循環與電子傳遞鏈（如琥珀酸去氫酶）的輔酶，不參與細胞質內丙酮酸還原為乳酸的反應。\n- B. tetrahydrofolate：錯誤。四氫葉酸（THF）是單碳代謝（如胺基酸或核苷酸合成）中轉移甲基、甲醯基等單碳單位的輔酶，與乳酸發酵無關。\n- C. NADH：正確。乳酸去氫酶（LDH）在催化丙酮酸還原為乳酸時，需要消耗還原型輔酶 NADH 作為電子與質子供體。此反應將 NADH 氧化回 NAD+，以確保細胞質中有足夠的 NAD+ 供糖解作用（如甘油醛-3-磷酸去氫酶的反應）持續進行。\n- D. ascorbic acid：錯誤。維生素 C（ascorbic acid）是一種抗氧化劑，也是膠原蛋白合成中脯胺酸羥基化（prolyl hydroxylase）所需的輔因子，不參與糖解作用的氧化還原。\n\n【核心考點】\n無氧糖解的還原力回收：乳酸去氫酶利用 NADH 將丙酮酸還原為乳酸，以再生 NAD+ 維持糖解作用運作。",
+      "key_point": "無氧糖解的還原力回收：乳酸去氫酶利用 NADH 將丙酮酸還原為乳酸，以再生 NAD+ 維持糖解作用運作。",
+      "flashcard_front": "乳酸去氫酶 (LDH) / 丙酮酸還原 / 輔酶 / NADH / 糖解續行 / NAD+ 回收",
+      "flashcard_back": "丙酮酸轉化為乳酸需要還原性輔酶 NADH 提供電子，同時再生 NAD+ 以利糖解作用持續進行。",
+      "flashcard_summary": "乳酸去氫酶輔酶 -> 丙酮酸還原為乳酸需要還原性輔酶 NADH 參與並被氧化為 NAD+。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\nDNA 聚合酶催化新股 DNA 的合成時，必須將單一去氧核苷酸透過磷酸雙酯鍵（phosphodiester bond）連接到正在延長的 DNA 鏈上，且具有嚴格的方向性（5' 到 3'）。\n\n【選項詳解】\n- A. n+1:第三號碳的羥基(-OH);n:第五號碳的磷酸基團：錯誤。新加入的核苷酸（n+1）必須提供高能的磷酸基團，而非 3' 羥基。方向錯誤。\n- B. n+1:第五號碳的羥基(-OH);n:第三號碳的磷酸基團：錯誤。核苷酸 5' 端攜帶的是磷酸基團，而非羥基。\n- C. n+1:第三號碳的磷酸基團;n:第五號碳的羥基(-OH)：錯誤。核苷酸的磷酸基團位於 5' 碳，且已經存在的 DNA 鏈末端是提供 3' 羥基。\n- D. n+1:第五號碳的磷酸基團;n:第三號碳的羥基(-OH)：正確。在新股 DNA 合成過程中，新游離加入的去氧核苷三磷酸（dNTP，即第 n+1 個核苷酸）的 5' 碳上的 α-磷酸基團，會去攻擊正在延長中的 DNA 鏈末端（第 n 個核苷酸）五碳糖上的 3' 羥基（-OH）。釋放焦磷酸後，形成 3',5'-磷酸雙酯鍵。\n\n【核心考點】\nDNA 聚合酶的作用機制：DNA 合成方向為 5'→3'，透過鏈末端的 3'-OH 攻擊新核苷酸的 5'-磷酸基團形成化學鍵。",
+      "key_point": "DNA 聚合酶的作用機制：DNA 合成方向為 5'→3'，透過鏈末端的 3'-OH 攻擊新核苷酸的 5'-磷酸基團形成化學鍵。",
+      "flashcard_front": "DNA 合成 / 磷酸雙酯鍵 / 5' -> 3' / n與n+1核苷酸 / 5' 磷酸基團 / 3' 羥基",
+      "flashcard_back": "新核苷酸 (n+1) 的 5' 磷酸基團與鏈末端已存在核苷酸 (n) 的 3' 羥基反應結合，形成磷酸雙酯鍵。",
+      "flashcard_summary": "磷酸雙酯鍵化學形成 -> DNA 合成中，新加入的第 n+1 核苷酸以其 5' 磷酸基團與前一核苷酸的 3' 羥基結合。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nAZT（Zidovudine）是一種抗反轉錄病毒藥物，屬於核苷酸反轉錄酶抑制劑（NRTI）。其化學結構上的改變使其能干擾病毒的核酸複製過程。\n\n【選項詳解】\n- A. 抑制反轉錄酶活性：正確。AZT 是胸苷（thymidine）的結構類似物，其五碳糖的 3' 位置由疊氮基（-N3）取代了正常的羥基（-OH）。當 AZT 被宿主細胞激酶磷酸化後，HIV 的反轉錄酶會誤認其為正常核苷酸並將其併入延長中的 DNA 鏈。因為缺乏 3'-OH，下一個核苷酸無法透過磷酸雙酯鍵連接，導致 DNA 鏈合成中斷（鏈終止），從而抑制反轉錄酶的功能。\n- B. 阻止核苷酸的生合成：錯誤。阻止核苷酸生合成的藥物通常是干擾葉酸代謝（如 Methotrexate）或抑制特定生合成酵素（如 5-FU 抑制胸苷酸合成酶），AZT 不會直接抑制宿主的核苷酸生合成。\n- C. 阻擋ATP的生成：錯誤。阻擋 ATP 生成的藥物通常是粒線體電子傳遞鏈或氧化磷酸化的抑制劑（如氰化物、寡黴素），AZT 的作用標的在於病毒核酸聚合過程。\n- D. 抑制RNA聚合酶活性：錯誤。AZT 專一性地干擾 HIV 的反轉錄酶（RNA-dependent DNA polymerase），而非宿主或病毒的 RNA 聚合酶（DNA-dependent RNA polymerase），如立汎黴素（Rifampin）才是抑制細菌的 RNA 聚合酶。\n\n【核心考點】\n核苷酸類似物藥理機制：AZT 缺乏 3'-OH 基團，被反轉錄酶併入後會引發鏈終止，達到抗 HIV 效果。",
+      "key_point": "核苷酸類似物藥理機制：AZT 缺乏 3'-OH 基團，被反轉錄酶併入後會引發鏈終止，達到抗 HIV 效果。",
+      "flashcard_front": "AZT (齊多夫定) / 胸苷類似物 / 3'-疊氮基 (-N3) / 鏈終止 / 反轉錄酶抑制",
+      "flashcard_back": "AZT被反轉錄酶併入DNA鏈中，由於缺乏 3'-OH 而造成鏈終止，進而達到抑制反轉錄酶的效果。",
+      "flashcard_summary": "AZT 藥理機制 -> AZT 經由被反轉錄酶併入 DNA 鏈中引發鏈終止，藉以抑制反轉錄酶活性。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    },
+    {
+      "question_id": "110-1_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n大腸桿菌在修復雙股 DNA 斷裂並進行同源重組時，需要一系列蛋白質（如 RecBCD、RecA、Ruv 複合體）的依序參與。\n\n【選項詳解】\n- A. DNA ligase：錯誤。DNA 接合酶（ligase）的功能是在重組或複製的最後階段，消耗 ATP 來修補核酸骨架上的缺口（nick），形成磷酸雙酯鍵，不具備解螺旋或水解功能。\n- B. RuvC：錯誤。RuvC 是同源重組後期的核酸內切酶（resolvase），負責在最後階段將霍利迪交叉（Holliday junction）剪切並解析，不負責起始階段的解螺旋與 DNA 降解。\n- C. RecA：錯誤。RecA 蛋白的功能是結合在單股 DNA 上形成核蛋白絲，負責尋找同源序列並催化「單股入侵（strand invasion）」，本身無解螺旋酶或外切酶活性。\n- D. RecBCD：正確。在同源重組的起始階段，RecBCD 酵素複合體會辨識並結合至 DNA 雙股斷裂處。它利用 ATP 提供的能量展現解螺旋酶（helicase）活性以解開雙股 DNA，同時具備核酸外切酶（exonuclease）活性水解部分 DNA 鏈，直到遇見特定的 Chi 序列，進而產生一段 3' 單股突出端供 RecA 結合。\n\n【核心考點】\n大腸桿菌同源重組機轉：RecBCD 負責起始解螺旋與水解產生單股端；RecA 負責鏈入侵；RuvC 負責解析 Holliday junction。",
+      "key_point": "大腸桿菌同源重組機轉：RecBCD 負責起始解螺旋與水解產生單股端；RecA 負責鏈入侵；RuvC 負責解析 Holliday junction。",
+      "flashcard_front": "同源重組 / 大腸桿菌 / RecBCD / RecA / RuvC / 解螺旋酶與核酸酶 / Chi 序列",
+      "flashcard_back": "RecBCD 具有解螺旋酶與核酸內切/外切酶活性，負責解旋並加工 DNA 斷裂端；RecA 催化鏈入侵。",
+      "flashcard_summary": "RecBCD 重組作用 -> RecBCD 具有解螺旋與核酸酶活性，在大腸桿菌同源重組起始時負責解離與降解 DNA。",
+      "review_status": "ai_generated",
+      "explanation_model": "antigravity-direct",
+      "explanation_generated_at": "2026-07-20T16:28:45+08:00",
+      "manual_review_notes": ""
+    }
+  ]
+}

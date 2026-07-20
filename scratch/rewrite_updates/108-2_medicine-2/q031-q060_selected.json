@@ -1,0 +1,75 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 39,
+    "end": 59
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n本題測驗 Bonferroni 修正法在多重比較時的計算。進行四組樣本的兩兩比較，總共需進行 C(4,2) = 6 次獨立檢定。為了將整體的型一錯誤率 (Type I error) 控制在 0.05，依據 Bonferroni 校正，單次檢定的顯著性水準應除以檢定總次數，即 0.05 / 6。\n\n【選項詳解】\n- A. 0.05 是整體實驗的型一錯誤率，若不進行校正而直接使用 0.05 進行多次兩兩檢定，會大幅增加總體犯型一錯誤的機率。\n- B. 分母應為檢定總次數 6，而非組別總數 4，此計算不符合公式要求。\n- C. 正確。四組的兩兩比較共有 6 次檢定，Bonferroni 法將單次檢定水準設為 0.05 / 6，以確保總體誤差不高於 0.05。\n- D. 分母被誤算為 12，而四組兩兩比較的多重檢定次數應為 6，故此選項計算錯誤。\n\n【核心考點】\nBonferroni 修正法的單次水準公式為 α' = α / m，其中 m 為檢定總次數。k組樣本的兩兩比較次數計算為 C(k,2) = k(k-1)/2。",
+      "key_point": "Bonferroni修正法單次水準應除以檢定總次數（四組兩兩比較為6次）。",
+      "flashcard_front": "進行4組變異數分析後，若採用Bonferroni法進行兩兩比較，欲維持總體型一錯誤率為α，單次檢定的顯著水準應設為多少？",
+      "flashcard_back": "α / 6\n（4組兩兩比較總次數 = C(4,2) = 6，故單次水準為 α/6）",
+      "flashcard_summary": "Bonferroni 多重比較修正計算",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:20.633798+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題測驗社會支持 (social support) 的四種主要類型分類。提供具體的物質資源、場地、金錢或實質幫助（例如提供桌球室作為運動空間），屬於「工具性支持 (instrumental support)」。\n\n【選項詳解】\n- A. 正確。工具性支持是指提供具體的有形幫助、物資、金錢或勞務，小青提供實體的桌球室場地即為此類。\n- B. 情感性支持 (emotional support) 著重於提供關懷、同理心、愛與信任，例如傾聽他人的困擾，而非提供實質場地。\n- C. 資訊性支持 (informational support) 是指提供建議、指導或有用的資訊以幫助他人解決問題，不包含借用場地。\n- D. 評價性支持 (appraisal support) 是指提供建設性回饋、肯定或自我評估的參考標準，協助個人了解自身表現。\n\n【核心考點】\n社會支持分為四類：工具性（給錢/物資/勞力場地）、情感性（關心與陪伴）、資訊性（給予建議衛教）以及評價性（給予肯定與回饋）。",
+      "key_point": "提供場地、物資、金錢或勞力等實質幫助，屬於「工具性支持」。",
+      "flashcard_front": "提供親友金錢借貸或運動場地等實質幫助，屬於哪一種類型的社會支持？",
+      "flashcard_back": "工具性支持 (Instrumental support)",
+      "flashcard_summary": "社會支持類型：工具性支持",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:20.633798+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\nSulfonylureas（如 Glipizide, Glimepiride）為促胰島素分泌劑。其機轉為結合並阻斷胰臟 β 細胞膜上的 ATP 敏感性鉀離子通道 (ATP-sensitive K+ channel)，使細胞去極化，進而打開電壓閘門性鈣離子通道，促進胰島素顆粒的胞吐分泌。\n\n【選項詳解】\n- A. 抑制胰島素被肝臟代謝分解並不是現有降血糖藥物的作用機轉，Sulfonylureas 的作用位置在胰臟 β 細胞。\n- B. Sulfonylureas 主要刺激預先合成好的胰島素釋放，並不會增加胰島素的生合成。增加胰島素敏感性 (insulin sensitizer) 是 Metformin 或 TZDs 類藥物的功能。\n- C. 增加周邊組織細胞的胰島素受體數目或敏感性非 Sulfonylureas 的機轉，亦屬 TZDs 類藥物的潛在效益。\n- D. 正確。Sulfonylureas 的核心藥理機轉就是刺激胰臟 β 細胞分泌胰島素，因此必須在患者胰臟仍有殘餘分泌功能時才有效。\n\n【核心考點】\nSulfonylureas 類降血糖藥物藉由阻斷 β 細胞的 ATP 敏感性鉀離子通道，造成細胞去極化與鈣離子內流，最終促進胰島素分泌，常見副作用為低血糖與體重增加。",
+      "key_point": "Sulfonylureas類藥物藉由阻斷胰臟β細胞鉀離子通道，促進胰島素分泌。",
+      "flashcard_front": "Sulfonylureas類降血糖藥物的主要作用機轉為何？",
+      "flashcard_back": "阻斷胰臟β細胞的ATP敏感性鉀離子通道，使細胞去極化並促進胰島素分泌。",
+      "flashcard_summary": "Sulfonylureas 作用機轉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:20.633798+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n在受體藥理學中，部分促效劑 (partial agonist) 的特徵為即使佔據並飽和所有受體，其產生的最大反應（內在活性，intrinsic efficacy）依然低於完全促效劑 (full agonist)。\n\n【選項詳解】\n- A. 親和力 (binding affinity) 與藥物結合受體的能力有關，partial agonist 的親和力可能大於、等於或小於 full agonist，並無絕對的較小關係。\n- B. 正確。intrinsic efficacy (內在活性) 是指藥物結合受體後引發下游反應的能力，partial agonist 的定義就是其最大效能 (Emax) 介於純拮抗劑與完全促效劑之間（小於 full agonist）。\n- C. 若兩者合用，partial agonist 會與 full agonist 競爭相同的受體結合位，佔據受體卻產生較低的活性，反而會表現出「部分拮抗」的作用，使整體的效能下降而非相加成。\n- D. 兩者受拮抗劑 (antagonist) 抑制的程度取決於各藥物與拮抗劑對受體的相對親和力與濃度，與其身為 partial 或 full agonist 無必然關係。\n\n【核心考點】\n部分促效劑 (partial agonist) 具有受體親和力，但內在活性 (intrinsic efficacy/ Emax) 小於完全促效劑；與完全促效劑合用時會產生拮抗作用。",
+      "key_point": "Partial agonist的特徵為內在活性(intrinsic efficacy)小於full agonist。",
+      "flashcard_front": "何謂部分促效劑 (Partial agonist)？其與完全促效劑合用時會產生什麼效應？",
+      "flashcard_back": "1. 具有受體親和力，但內在活性 (intrinsic efficacy) 低於完全促效劑，無法達到相同的最大效應。\n2. 與完全促效劑合用時，會競爭受體而表現出拮抗作用，降低整體最大反應。",
+      "flashcard_summary": "Partial agonist 的藥理學特性",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:20.633798+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nIsoniazid (INH) 是第一線抗結核藥物。其在人體內主要透過肝臟的 N-乙醯基轉移酶 (N-acetyltransferase, NAT) 進行乙醯化代謝。人類的 NAT 基因具有多型性，可將族群分為「快速乙醯化者」與「慢速乙醯化者」。\n\n【選項詳解】\n- A. Isoniazid 的殺菌機轉為抑制 mycolic acid (黴菌酸) 的合成，從而破壞結核桿菌的「細胞壁」生成，而非細胞膜。\n- B. Isoniazid 口服吸收良好且生體可用率高，臨床上最常以口服途徑給藥治療肺結核，並非只能靜脈注射。\n- C. 正確。INH 在肝臟由 N-acetyltransferase 乙醯化代謝，慢速乙醯化族群容易因藥物蓄積而產生較強的副作用（如周邊神經病變或藥物性紅斑性狼瘡）。\n- D. 視神經病變 (optic neuritis) 是另一種第一線抗結核藥物 Ethambutol 的經典副作用。Isoniazid 的神經毒性主要表現為周邊神經炎 (peripheral neuropathy)，可透過補充維生素 B6 預防。\n\n【核心考點】\nIsoniazid (INH) 抑制細胞壁 mycolic acid 合成，主要由肝臟 N-acetyltransferase 乙醯化代謝。常見副作用為肝毒性及周邊神經炎（需補充 Vit B6）。",
+      "key_point": "Isoniazid主要經由肝臟N-acetyltransferase(NAT)乙醯化代謝。",
+      "flashcard_front": "抗結核藥物 Isoniazid (INH) 的主要肝臟代謝途徑為何？其主要的神經副作用是什麼？",
+      "flashcard_back": "1. 代謝途徑：經由 N-acetyltransferase (NAT) 進行乙醯化代謝。\n2. 神經副作用：周邊神經炎（可補充 Vit B6 預防）。",
+      "flashcard_summary": "Isoniazid 代謝途徑與副作用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:20.633798+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

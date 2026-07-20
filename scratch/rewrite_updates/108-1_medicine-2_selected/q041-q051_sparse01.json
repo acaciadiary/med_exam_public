@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-2.json",
+  "dataset_id": "108-1_medicine-2",
+  "range": {
+    "start": 41,
+    "end": 51
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-2_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題考研究設計。暴露與疾病資料都來自鄉鎮市區層級，缺少個人生活型態等個體資料，因此是在比較群體資料，而不是追蹤或回溯個別病人。\n\n【選項詳解】\n- A. 個案報告是描述單一或少數病例的臨床現象，本題沒有個別病例描述。\n- B. 生態學研究使用地區空污與地區癌症發生率等群體資料，正符合題幹。\n- C. 病例對照研究要先依是否罹病分組，再回溯個人暴露史；本題沒有個人層級病例與對照。\n- D. 世代研究需依暴露狀態追蹤個人未來是否發病；本題不是個人追蹤。\n\n【核心考點】\n生態學研究（ecological study）以群體為分析單位，適合看地區差異與提出假說；缺點是不能直接推論到個人層級，容易有 ecological fallacy。",
+      "key_point": "生態學研究（ecological study）以群體為分析單位，適合看地區差異與提出假說；缺點是不能直接推論到個人層級，容易有 ecological fallacy。",
+      "flashcard_front": "108-1 medicine-2 第 41 題：B 的關鍵考點是什麼？",
+      "flashcard_back": "生態學研究（ecological study）以群體為分析單位，適合看地區差異與提出假說；缺點是不能直接推論到個人層級，容易有 ecological fallacy。 本題答案為 B。",
+      "flashcard_summary": "生態學研究（ecological study）以群體為分析單位，適合看地區差異與提出假說；缺點是不能直接推論到個人層級，容易有 ecological fallacy。 本題答案為 B。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題問酸雨來源。酸雨主要由硫氧化物與氮氧化物在大氣中形成硫酸、硝酸後造成。\n\n【選項詳解】\n- A. 一氧化碳與臭氧不屬酸雨主要前驅物，所以 1、2 不對。\n- B. 此組包含一氧化碳與臭氧，混入非主要酸雨來源。\n- C. 硫氧化物與氮氧化物會轉為強酸性物質，僅 3、4 正確。\n- D. 臭氧不是酸雨效應的主要成因，因此 2 不應列入。\n\n【核心考點】\n酸雨的高頻來源是 SOx 與 NOx；一氧化碳與臭氧雖是重要空污指標，但不是酸雨形成的主要前驅物。",
+      "key_point": "酸雨的高頻來源是 SOx 與 NOx；一氧化碳與臭氧雖是重要空污指標，但不是酸雨形成的主要前驅物。",
+      "flashcard_front": "108-1 medicine-2 第 42 題：C 的關鍵考點是什麼？",
+      "flashcard_back": "酸雨的高頻來源是 SOx 與 NOx；一氧化碳與臭氧雖是重要空污指標，但不是酸雨形成的主要前驅物。 本題答案為 C。",
+      "flashcard_summary": "酸雨的高頻來源是 SOx 與 NOx；一氧化碳與臭氧雖是重要空污指標，但不是酸雨形成的主要前驅物。 本題答案為 C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題考致癌物與非致癌物風險評估的差別。非致癌毒性通常假設有閾值，低於某劑量時不會產生可觀察不良效應。\n\n【選項詳解】\n- A. 非致癌物多採閾值假設，這是本題要選的描述。\n- B. 斜率因子常用於致癌風險線性外推，不是非致癌物的典型做法。\n- C. 10^-6 可接受風險比較屬致癌風險表達方式，非致癌通常看暴露是否超過參考劑量。\n- D. 不確定性分析仍然需要，例如種間差異、個體敏感性與資料不足都要納入。\n\n【核心考點】\n非致癌風險評估重點是閾值、NOAEL/LOAEL、參考劑量與危害商數；致癌風險才常用無閾值線性外推、斜率因子與 10^-6 風險比較。",
+      "key_point": "非致癌風險評估重點是閾值、NOAEL/LOAEL、參考劑量與危害商數；致癌風險才常用無閾值線性外推、斜率因子與 10^-6 風險比較。",
+      "flashcard_front": "108-1 medicine-2 第 43 題：A 的關鍵考點是什麼？",
+      "flashcard_back": "非致癌風險評估重點是閾值、NOAEL/LOAEL、參考劑量與危害商數；致癌風險才常用無閾值線性外推、斜率因子與 10^-6 風險比較。 本題答案為 A。",
+      "flashcard_summary": "非致癌風險評估重點是閾值、NOAEL/LOAEL、參考劑量與危害商數；致癌風險才常用無閾值線性外推、斜率因子與 10^-6 風險比較。 本題答案為 A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題直接考登革熱病媒。登革病毒主要由斑蚊傳播，台灣常見考點是埃及斑蚊與白線斑蚊。\n\n【選項詳解】\n- A. 熱帶家蚊與白腹叢蚊不是登革熱的標準病媒組合。\n- B. 埃及斑蚊與白線斑蚊都是登革熱重要病媒，符合題幹。\n- C. 小黑蚊造成叮咬困擾，白腹叢蚊也不是登革熱主要標準答案。\n- D. 中華瘧蚊與瘧疾較相關，熱帶家蚊不是登革熱主要病媒。\n\n【核心考點】\n登革熱病媒記斑蚊：Aedes aegypti 與 Aedes albopictus；瘧蚊是瘧疾，家蚊常連到日本腦炎等，不要混淆。",
+      "key_point": "登革熱病媒記斑蚊：Aedes aegypti 與 Aedes albopictus；瘧蚊是瘧疾，家蚊常連到日本腦炎等，不要混淆。",
+      "flashcard_front": "108-1 medicine-2 第 44 題：B 的關鍵考點是什麼？",
+      "flashcard_back": "登革熱病媒記斑蚊：Aedes aegypti 與 Aedes albopictus；瘧蚊是瘧疾，家蚊常連到日本腦炎等，不要混淆。 本題答案為 B。",
+      "flashcard_summary": "登革熱病媒記斑蚊：Aedes aegypti 與 Aedes albopictus；瘧蚊是瘧疾，家蚊常連到日本腦炎等，不要混淆。 本題答案為 B。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題考八小時時量平均濃度。每小時前 10 分鐘 60 ppm、後 50 分鐘 0 ppm，整體暴露比例是 10/60。\n\n【選項詳解】\n- A. 60 ppm 只暴露每小時 10 分鐘，平均後為 10 ppm，正確。\n- B. 15 ppm 代表暴露比例或時間權重計算過高。\n- C. 20 ppm 等於把暴露時間估為每小時 20 分鐘，與題幹不符。\n- D. 60 ppm 是暴露時段的瞬間濃度，不是八小時平均濃度。\n\n【核心考點】\nTWA = 總暴露量除以總時間。本題每小時平均為 60 x 10/60 = 10 ppm，八小時重複同樣模式仍是 10 ppm。",
+      "key_point": "TWA = 總暴露量除以總時間。本題每小時平均為 60 x 10/60 = 10 ppm，八小時重複同樣模式仍是 10 ppm。",
+      "flashcard_front": "108-1 medicine-2 第 45 題：A 的關鍵考點是什麼？",
+      "flashcard_back": "TWA = 總暴露量除以總時間。本題每小時平均為 60 x 10/60 = 10 ppm，八小時重複同樣模式仍是 10 ppm。 本題答案為 A。",
+      "flashcard_summary": "TWA = 總暴露量除以總時間。本題每小時平均為 60 x 10/60 = 10 ppm，八小時重複同樣模式仍是 10 ppm。 本題答案為 A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題考職業暴露與癌症。苯是典型造血系統毒物，長期暴露與白血病風險增加相關。\n\n【選項詳解】\n- A. 苯會傷害骨髓與造血系統，最典型癌症是血癌。\n- B. 肝癌常與病毒性肝炎、黃麴毒素、酒精等相關，不是苯的最典型考點。\n- C. 腎癌可與部分化學或吸菸風險相關，但苯首要考造血癌症。\n- D. 皮膚癌較常連到紫外線、砷或瀝青焦油等，不是苯長期暴露的代表癌症。\n\n【核心考點】\n苯暴露要想到骨髓抑制、再生不良性貧血與白血病，尤其急性骨髓性白血病風險。",
+      "key_point": "苯暴露要想到骨髓抑制、再生不良性貧血與白血病，尤其急性骨髓性白血病風險。",
+      "flashcard_front": "108-1 medicine-2 第 46 題：A 的關鍵考點是什麼？",
+      "flashcard_back": "苯暴露要想到骨髓抑制、再生不良性貧血與白血病，尤其急性骨髓性白血病風險。 本題答案為 A。",
+      "flashcard_summary": "苯暴露要想到骨髓抑制、再生不良性貧血與白血病，尤其急性骨髓性白血病風險。 本題答案為 A。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題考台灣成人肥胖 BMI 切點。台灣常用過重為 BMI >= 24，肥胖為 BMI >= 27。\n\n【選項詳解】\n- A. 25 接近某些國際過重切點，但不是台灣成人肥胖切點。\n- B. BMI 27 是我國成人肥胖定義的切點。\n- C. 29 高於台灣肥胖門檻，不是定義切點。\n- D. 31 更接近較嚴重肥胖，不是本題問的成人肥胖起始點。\n\n【核心考點】\n台灣成人 BMI 分類：24 以上為過重，27 以上為肥胖；這和部分國際資料以 30 為肥胖不同。",
+      "key_point": "台灣成人 BMI 分類：24 以上為過重，27 以上為肥胖；這和部分國際資料以 30 為肥胖不同。",
+      "flashcard_front": "108-1 medicine-2 第 47 題：B 的關鍵考點是什麼？",
+      "flashcard_back": "台灣成人 BMI 分類：24 以上為過重，27 以上為肥胖；這和部分國際資料以 30 為肥胖不同。 本題答案為 B。",
+      "flashcard_summary": "台灣成人 BMI 分類：24 以上為過重，27 以上為肥胖；這和部分國際資料以 30 為肥胖不同。 本題答案為 B。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題問醫療費用成長率的主要推力。人口結構、所得提高與醫療科技進步都會直接推升醫療需求或單價。\n\n【選項詳解】\n- A. 人口老化增加慢性病與照護需求，與費用成長高度相關。\n- B. 所得增加會提高醫療需求與願付能力，常推升支出。\n- C. 新醫療科技通常帶來新檢查、新治療與較高成本，是費用成長主因之一。\n- D. 醫病資訊不對稱會影響供需與代理決策，但相較前三者，與整體費用成長率的直接關聯較小。\n\n【核心考點】\n醫療支出成長常由人口老化、所得增加、科技進步與保險支付誘因推動；資訊不對稱重要，但較像醫療市場特性，不是支出成長率最直接因素。",
+      "key_point": "醫療支出成長常由人口老化、所得增加、科技進步與保險支付誘因推動；資訊不對稱重要，但較像醫療市場特性，不是支出成長率最直接因素。",
+      "flashcard_front": "108-1 medicine-2 第 49 題：D 的關鍵考點是什麼？",
+      "flashcard_back": "醫療支出成長常由人口老化、所得增加、科技進步與保險支付誘因推動；資訊不對稱重要，但較像醫療市場特性，不是支出成長率最直接因素。 本題答案為 D。",
+      "flashcard_summary": "醫療支出成長常由人口老化、所得增加、科技進步與保險支付誘因推動；資訊不對稱重要，但較像醫療市場特性，不是支出成長率最直接因素。 本題答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題考原廠新藥昂貴的成本結構。新藥上市前最大負擔通常是研發、臨床試驗與專利壟斷期間的定價能力。\n\n【選項詳解】\n- A. 研究及發展費用包含大量失敗候選藥物成本，是新藥價格的重要來源。\n- B. 專利保護減少競爭，使原廠能在保護期內維持較高價格。\n- C. 臨床試驗需長時間、大規模受試者與法規審查，成本很高。\n- D. 藥品量產製造成本相對研發與試驗通常較小，因此影響較小。\n\n【核心考點】\n原廠新藥貴主要因研發風險、臨床試驗成本與專利保護；單純生產製造成本通常不是最高或最關鍵的成本來源。",
+      "key_point": "原廠新藥貴主要因研發風險、臨床試驗成本與專利保護；單純生產製造成本通常不是最高或最關鍵的成本來源。",
+      "flashcard_front": "108-1 medicine-2 第 50 題：D 的關鍵考點是什麼？",
+      "flashcard_back": "原廠新藥貴主要因研發風險、臨床試驗成本與專利保護；單純生產製造成本通常不是最高或最關鍵的成本來源。 本題答案為 D。",
+      "flashcard_summary": "原廠新藥貴主要因研發風險、臨床試驗成本與專利保護；單純生產製造成本通常不是最高或最關鍵的成本來源。 本題答案為 D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問 metronidazole 不適合治療哪一類感染。它主要涵蓋厭氧菌與部分原蟲，不是淋病球菌用藥。\n\n【選項詳解】\n- A. Metronidazole 對厭氧菌感染有用途，早期也常被列為 C. difficile 治療考點。\n- B. 陰道滴蟲是 metronidazole 的典型適應症。\n- C. 淋病球菌不是 metronidazole 的治療範圍，因此是本題答案。\n- D. 阿米巴性結腸炎可使用 metronidazole 治療侵襲性病灶。\n\n【核心考點】\nMetronidazole 記厭氧菌、Trichomonas、Entamoeba、Giardia；淋病球菌是 Neisseria gonorrhoeae，治療以 ceftriaxone 等為主。",
+      "key_point": "Metronidazole 記厭氧菌、Trichomonas、Entamoeba、Giardia；淋病球菌是 Neisseria gonorrhoeae，治療以 ceftriaxone 等為主。",
+      "flashcard_front": "108-1 medicine-2 第 51 題：C 的關鍵考點是什麼？",
+      "flashcard_back": "Metronidazole 記厭氧菌、Trichomonas、Entamoeba、Giardia；淋病球菌是 Neisseria gonorrhoeae，治療以 ceftriaxone 等為主。 本題答案為 C。",
+      "flashcard_summary": "Metronidazole 記厭氧菌、Trichomonas、Entamoeba、Giardia；淋病球菌是 Neisseria gonorrhoeae，治療以 ceftriaxone 等為主。 本題答案為 C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

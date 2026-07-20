@@ -1,0 +1,153 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n本題詢問何種抗生素會加速肝臟代謝速率，導致其他藥物藥效降低。這代表該藥物必須具備肝臟細胞色素 P450（CYP450）酵素誘導劑的特性。\n\n【選項詳解】\n- A. chloramphenicol 是一種 CYP450 抑制劑，會減緩其他藥物的代謝，導致血中藥物濃度升高，增加毒性風險。\n- B. erythromycin 屬於巨環類抗生素，同樣是知名的 CYP3A4 酵素抑制劑，會使併用藥物的代謝減慢。\n- C. ketoconazole 為抗黴菌藥物，是強效的 CYP3A4 抑制劑，會抑制肝臟代謝，不可用於加速藥物清除。\n- D. rifampin 是強效的 CYP450（尤其是 CYP3A4）酵素誘導劑，能增加肝臟代謝速率，加速併用藥物的清除，從而降低其血中濃度與藥效。\n\n【核心考點】\nRifampin 為典型的肝臟酵素誘導劑，會降低其他藥物的療效；而 chloramphenicol、erythromycin、ketoconazole 皆為酵素抑制劑。",
+      "key_point": "Rifampin 為強效 CYP450 誘導劑，會加速其他藥物代謝。",
+      "flashcard_front": "何種抗生素為強效 CYP450 誘導劑，易使其他藥物加速代謝而降效？",
+      "flashcard_back": "Rifampin",
+      "flashcard_summary": "Rifampin 作為酵素誘導劑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n本題尋找針對疱疹病毒感染，且必須先經由病毒特有胸苷激酶（thymidine kinase）磷酸化才能發揮作用的抗病毒藥物。\n\n【選項詳解】\n- A. abacavir 是核苷酸反轉錄酶抑制劑（NRTI），主要用於治療人類免疫缺乏病毒（HIV）感染，其活化不依賴疱疹病毒的胸苷激酶。\n- B. acyclovir 是一種鳥嘌呤核苷類似物，必須先被疱疹病毒（HSV 或 VZV）的胸苷激酶磷酸化，再經宿主酵素轉換為三磷酸形式，才能專一性阻斷病毒 DNA 聚合酶，對正常細胞毒性極小。\n- C. amantadine 透過阻斷 A 型流感病毒的 M2 質子通道，抑制病毒脫殼過程，不用於治療疱疹病毒感染。\n- D. azidothymidine 同為 NRTI 類藥物，主要作用於 HIV 的反轉錄酶，不需要疱疹病毒酵素活化。\n\n【核心考點】\nAcyclovir 治療 HSV/VZV 的專一性來自於它需要病毒本身的胸苷激酶（thymidine kinase）進行首次磷酸化才能活化。",
+      "key_point": "Acyclovir 需經由疱疹病毒特有的胸苷激酶磷酸化才能發揮作用。",
+      "flashcard_front": "Acyclovir 治療疱疹病毒具高選擇性的原因為何？",
+      "flashcard_back": "必須先被病毒特有的胸苷激酶 (thymidine kinase) 磷酸化才能活化",
+      "flashcard_summary": "Acyclovir 活化機轉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題測驗何種藥物適合治療隅角開放型青光眼（open-angle glaucoma），治療機轉通常為減少房水生成或增加房水排出。\n\n【選項詳解】\n- A. atropine 為抗膽鹼藥物，會引起睫狀肌麻痺及散瞳，可能使前房隅角變窄而阻礙房水排出，易誘發青光眼急性發作，為禁忌症。\n- B. betaxolol 為選擇性 beta-1 腎上腺素受體阻斷劑，局部滴眼可抑制睫狀體上皮細胞產生房水，進而有效降低眼壓，為治療青光眼的第一線用藥之一。\n- C. phentolamine 為非選擇性 alpha 受體阻斷劑，主要用於治療嗜鉻細胞瘤引起的高血壓危象，不具備降低眼壓的適應症。\n- D. tropicamide 亦為短效抗膽鹼藥物，常作為眼底檢查的散瞳劑，與 atropine 一樣可能使隅角變窄、房水排出受阻，禁用於青光眼。\n\n【核心考點】\nbeta 阻斷劑（如 betaxolol、timolol）可藉由減少睫狀體房水生成來治療青光眼；抗膽鹼散瞳劑會使房水排出受阻而禁用。",
+      "key_point": "Betaxolol 為 beta-1 阻斷劑，藉由減少房水生成治療隅角開放型青光眼。",
+      "flashcard_front": "治療隅角開放型青光眼常用的 beta-1 選擇性阻斷劑為何？",
+      "flashcard_back": "Betaxolol",
+      "flashcard_summary": "青光眼用藥 Betaxolol",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題描述小孩在病毒感染期間使用特定退燒藥後引發雷氏症候群（Reye syndrome），需辨識具此禁忌症的藥物。\n\n【選項詳解】\n- A. acetaminophen 不會增加雷氏症候群的風險，是臨床上兒童病毒感染發燒時首選的退燒藥物。\n- B. aspirin（阿斯匹靈）在兒童感染流感或水痘等病毒時使用，極易誘發雷氏症候群，導致急性腦病變與肝臟脂肪變性，因此在兒童發燒中禁用。\n- C. sulindac 為非類固醇消炎止痛藥（NSAID），主要用於成人的風濕性關節炎，且無與兒童雷氏症候群高度相關的臨床警告。\n- D. ibuprofen 為另一種常用的 NSAID，可用於兒童退燒與止痛，並不會引發雷氏症候群。\n\n【核心考點】\n兒童及青少年在感染水痘或流感等病毒時，禁用 aspirin 進行退燒，以免引發致命的急性腦病變及肝脂肪變性（雷氏症候群）。",
+      "key_point": "兒童病毒感染時使用 Aspirin 退燒，易引發雷氏症候群（Reye syndrome）。",
+      "flashcard_front": "兒童感染病毒發燒時，使用何種藥物容易引發 Reye syndrome？",
+      "flashcard_back": "Aspirin",
+      "flashcard_summary": "Aspirin 與 Reye syndrome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題測驗不同抗帕金森病藥物（antiparkinson's drug）的作用機轉分類。\n\n【選項詳解】\n- A. carbidopa 是周邊多巴脫羧酶（DOPA decarboxylase）抑制劑，用來防止 levodopa 在周邊被代謝；levodopa 才是多巴胺的前驅藥物。\n- B. rasagiline 為不可逆的選擇性單胺氧化酶 B（MAO-B）抑制劑，能阻止黑質紋狀體系統內多巴胺的降解，進而延長多巴胺的療效。\n- C. pramipexole 為非麥角鹼衍生物，是一種多巴胺受體促效劑（agonist），而非抑制劑。\n- D. benztropine 為中樞性抗膽鹼藥物，藉由阻斷乙醯膽鹼的作用來恢復基底核內神經傳導物質的平衡，並不具備促進多巴胺釋放的功能。\n\n【核心考點】\n抗帕金森氏症藥物中，rasagiline 為 MAO-B 抑制劑，carbidopa 為周邊酵素抑制劑，pramipexole 為多巴胺受體促效劑。",
+      "key_point": "Rasagiline 為單胺氧化酶 B (MAO-B) 的抑制劑，用於帕金森氏症。",
+      "flashcard_front": "抗帕金森氏症藥物 Rasagiline 的作用機轉為何？",
+      "flashcard_back": "抑制 B 型單胺氧化酶 (MAO-B)，減少 dopamine 降解",
+      "flashcard_summary": "Rasagiline 機轉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題尋找能夠抑制血管內皮生長因子（VEGF）受體活化，進而阻斷腫瘤血管新生的小分子抗癌藥物。\n\n【選項詳解】\n- A. cetuximab 是針對表皮生長因子受體（EGFR）的單株抗體，主要用於治療轉移性大腸直腸癌與頭頸癌，機轉與 VEGFR 無關。\n- B. erlotinib 是針對 EGFR 酪氨酸激酶的小分子抑制劑，主要用於具有 EGFR 突變的非小細胞肺癌。\n- C. sunitinib 是一種多靶點酪氨酸激酶抑制劑（TKI），能抑制 VEGFR 及 PDGFR 等受體，有效阻斷腫瘤血管新生，常用於腎細胞癌與胃腸道基質瘤。\n- D. panitumumab 是一種完全人類的單株抗體，同樣專一性結合並抑制 EGFR，不用於抑制血管內皮生長因子受體。\n\n【核心考點】\nSunitinib 為抑制 VEGFR、PDGFR 的多靶點小分子抑制劑，能抑制腫瘤血管生成；而 cetuximab、erlotinib 則是針對 EGFR 進行抑制。",
+      "key_point": "Sunitinib 為抑制血管內皮生長因子受體 (VEGFR) 的小分子酪氨酸激酶抑制劑。",
+      "flashcard_front": "哪種抗癌藥物可藉由抑制 VEGFR 的活化來阻斷腫瘤血管新生？",
+      "flashcard_back": "Sunitinib",
+      "flashcard_summary": "Sunitinib 與 VEGFR 抑制",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n本題詢問併用 G-CSF 時，造血幹細胞驅動藥物 plerixafor 促進幹細胞進入周邊血液的分子機制。\n\n【選項詳解】\n- A. 強化 JAK/STAT 訊息活化主要是多種細胞激素（如 EPO、TPO）受體下游的傳遞路徑，並非 plerixafor 的作用機制。\n- B. 促進 G-CSF 釋出並非 plerixafor 的功能；G-CSF 是直接以外源性藥物投予來刺激骨髓造血細胞增生。\n- C. Plerixafor 為 CXCR4 拮抗劑，藉由阻斷造血幹細胞表面 CXCR4 與骨髓基質細胞分泌的 SDF-1（CXCL12）結合，使幹細胞自骨髓釋放至周邊血。\n- D. 提高 G-CSF 與受體結合效益並非此藥的藥理作用，plerixafor 是透過干擾趨化因子路徑來發揮動員效果。\n\n【核心考點】\nPlerixafor 是一種 CXCR4 拮抗劑，能中斷 CXCR4/SDF-1 的連結，將造血幹細胞自骨髓驅動至周邊血液中，常與 G-CSF 併用以利幹細胞收集。",
+      "key_point": "Plerixafor 藉由抑制 CXCR4 釋放造血幹細胞至周邊血液。",
+      "flashcard_front": "造血幹細胞穩定藥物 plerixafor 的作用機制為何？",
+      "flashcard_back": "抑制 CXC chemokine receptor 4 (CXCR4)",
+      "flashcard_summary": "Plerixafor 機轉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題考查反義寡核苷酸（antisense oligonucleotide）藥物 mipomersen 降低血脂的作用標的蛋白。\n\n【選項詳解】\n- A. PCSK9 是另一類降血脂藥物（如 evolocumab、alirocumab）的抑制標的，其功能是促進低密度脂蛋白受體（LDLR）的降解，mipomersen 並不針對此蛋白。\n- B. apoC-III 主要存在於乳糜微粒與 VLDL，可抑制脂蛋白脂解酶（LPL），而 mipomersen 的標的並非 apoC-III。\n- C. Mipomersen 能專一性結合編碼載脂蛋白 B-100（ApoB-100）的 mRNA 並促使其降解，從而減少肝臟合成含 ApoB 的脂蛋白（如 VLDL 及 LDL），達到降血脂效果。\n- D. apoA-I 是高密度脂蛋白（HDL）的主要載脂蛋白，具有促進膽固醇逆向運輸的保護功能，不會是降血脂藥物的抑制標的。\n\n【核心考點】\nMipomersen 為反義寡核苷酸，作用於 ApoB-100 mRNA 抑制其轉譯，用於治療同型性家族性高膽固醇血症以降低 LDL。",
+      "key_point": "Mipomersen 為反義寡核苷酸，作用標的為 apoB-100。",
+      "flashcard_front": "反義寡核苷酸藥物 mipomersen 治療家族性高膽固醇血症的抑制標的為何？",
+      "flashcard_back": "apoB-100",
+      "flashcard_summary": "Mipomersen 抑制標的",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n本題詢問何種原發性免疫缺乏症患者在服用口服減毒小兒麻痺疫苗（沙賓疫苗）後，因無法產生中和抗體清除病毒而有極高風險發展為疫苗相關的癱瘓性脊髓灰質炎。\n\n【選項詳解】\n- A. 狄喬治氏症候群（DiGeorge syndrome）主要為胸腺發育不良導致的 T 細胞缺陷，雖然對活病毒疫苗也敏感，但對沙賓疫苗腸道清除的影響不及 B 細胞完全缺乏嚴重。\n- B. Bruton 氏病（性聯丙種免疫球蛋白缺乏血症）患者因 BTK 基因突變，導致 B 細胞無法成熟，體液免疫完全缺乏。他們無法在腸道產生分泌型 IgA 及血清 IgG 來中和口服減毒病毒，使得病毒在腸道持續複製並發生突變神經毒性，造成癱瘓。\n- C. 慢性肉芽腫疾病（CGD）為吞噬細胞的殺菌功能缺陷（缺乏 NADPH 氧化酶），主要容易感染觸媒酶（catalase）陽性的細菌與真菌，對病毒疫苗的反應通常正常。\n- D. 威斯科特-奧爾德里奇症候群（Wiskott-Aldrich syndrome）特徵為血小板低下、濕疹及複合性免疫缺陷，雖然免疫力低下，但沙賓疫苗致癱瘓風險最典型的代表為純 B 細胞缺陷症。\n\n【核心考點】\n性聯丙種免疫球蛋白缺乏血症（Bruton disease）患者缺乏 B 細胞及所有抗體，若接種口服減毒沙賓疫苗，會因無法清除腸道病毒而極易引發癱瘓性脊髓灰質炎。",
+      "key_point": "Bruton 氏病缺乏抗體，服用減毒沙賓疫苗易引發癱瘓性脊髓灰質炎。",
+      "flashcard_front": "何種免疫缺乏症患者服用沙賓活疫苗 (Sabin vaccine) 後，引起癱瘓性脊髓灰質炎的風險極高？",
+      "flashcard_back": "Bruton 氏病 (性聯丙種免疫球蛋白缺乏血症)",
+      "flashcard_summary": "Bruton 病與 Sabin 疫苗風險",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n本題詢問哪些疾病的致病機轉主要與自體抗體（autoantibody）產生有關。其中「尋常型天皰瘡」與「惡性貧血」皆屬典型的自體抗體介導疾病，而「多發性結節性動脈炎」則與免疫複合物沉積相關。\n\n【選項詳解】\n- A. 錯誤。選項包含第 2 項的「多發性結節性動脈炎 (PAN)」，PAN 是中小型血管的壞死性血管炎，其機轉與免疫複合物沉積（例如與 B 型肝炎病毒相關）或 ANCA 相關，而非由自體抗體直接對抗組織細胞抗原引起。\n- B. 錯誤。此選項未包含第 3 項的「惡性貧血」，且包含了非自體抗體主導的第 2 項「多發性結節性動脈炎」。\n- C. 錯誤。此選項未包含第 1 項的「尋常型天皰瘡」，且包含了非自體抗體主導的第 2 項「多發性結節性動脈炎」。\n- D. 正確。第 1 項「尋常型天皰瘡 (pemphigus vulgaris)」因產生對抗 desmoglein-3（橋粒核心醣蛋白-3）的自體抗體破壞細胞黏附，導致棘層鬆解與水泡；第 3 項「惡性貧血 (pernicious anemia)」因產生對抗胃壁細胞或內在因子（intrinsic factor）的自體抗體，導致維生素 B12 吸收障礙。兩者皆由自體抗體致病。\n\n【核心考點】\n尋常型天皰瘡（抗 desmoglein-3 抗體）與惡性貧血（抗胃壁細胞或內在因子抗體）是常見由自體抗體直接引起的自體免疫疾病；結節性多動脈炎（PAN）則主要與免疫複合物沉積相關。",
+      "key_point": "尋常型天皰瘡與惡性貧血屬自體抗體致病；PAN 則與免疫複合物沉積相關。",
+      "flashcard_front": "尋常型天皰瘡與惡性貧血的致病機轉是否主要與自體抗體 (autoantibody) 有關？",
+      "flashcard_back": "是。尋常型天皰瘡為抗 desmoglein-3 抗體，惡性貧血為抗胃壁細胞或內在因子抗體。",
+      "flashcard_summary": "自體抗體相關疾病",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n本題詢問肺癌合併副腫瘤症候群引起的高血鈣症（hypercalcemia），最常見對應哪一種肺癌病理組織學型態。\n\n【選項詳解】\n- A. 腺癌（Adenocarcinoma）是目前最常見的肺癌類型，多好發於周邊肺野，但其較少分泌導致高血鈣的副腫瘤激素。\n- B. 多形性癌（Pleomorphic carcinoma）屬於較少見的肉瘤樣癌，並非引起高血鈣之典型肺癌組織型態。\n- C. 小細胞癌（Small cell carcinoma）常引起副腫瘤症候群，但典型表現為分泌促腎上腺皮質素（ACTH）導致庫欣氏症候群，或分泌抗利尿激素（ADH）導致 SIADH，極少引起高血鈣。\n- D. 鱗狀細胞癌（Squamous cell carcinoma）常會異位性分泌副甲狀腺素相關胜肽（PTHrP），其作用類似副甲狀腺素，促使骨骼鈣質釋放並增加腎臟鈣重吸收，是肺癌合併高血鈣最主要的原因。\n\n【核心考點】\n肺鱗狀細胞癌最常分泌 PTHrP 導致高血鈣（Hypercalcemia）；肺小細胞癌最常分泌 ACTH（引起庫欣氏症候群）及 ADH（引起 SIADH）。",
+      "key_point": "肺鱗狀細胞癌 (Squamous cell carcinoma) 易分泌 PTHrP 導致高血鈣。",
+      "flashcard_front": "臨床上高度懷疑肺癌且合併高血鈣時，最可能的病理切片類型為何？",
+      "flashcard_back": "Squamous cell carcinoma (鱗狀細胞癌)",
+      "flashcard_summary": "肺鱗狀細胞癌與高血鈣",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T16:42:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
