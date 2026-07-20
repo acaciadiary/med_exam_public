@@ -83,6 +83,21 @@ Why this matters:
 
 If subagents are unavailable, process the same 10-question ranges sequentially in the main thread and report that fallback.
 
+### Sparse Target / Jump-List Workflow
+
+Use this when the user provides a non-contiguous question list, skipped questions, a report row such as `1-2, 4-12, 15-24`, or any instruction that clearly targets only selected questions inside a paper.
+
+- Parse the user's list into explicit question numbers before assigning work.
+- Confirm the parsed count matches any count shown by the user, such as "85 questions"; if it does not match, pause and resolve the mismatch before editing.
+- Treat the parsed question-number set as the hard scope. Do not rewrite questions that are not listed, even when they fall inside the same `range` or 10-question block.
+- Split sparse targets into micro-batches of at most 10 listed questions each. A sparse batch may cover non-contiguous numbers, such as `1, 2, 4-11`.
+- Give each sparse worker one paper and one explicit target-number list. Do not describe the assignment only as a broad range if the range contains skipped questions.
+- Name sparse update files so the skipped nature is visible, for example `q001-q012_selected.json` or `q001-q012_sparse01.json`.
+- In the update JSON, keep `range` as the minimum and maximum question number covered by that sparse batch, but include `updates` only for the assigned question numbers.
+- Before merge or final report, compare the source file against the edited file and verify that unlisted question numbers have no explanation-related changes.
+- If an existing validator assumes contiguous 10-question ranges, use the project's partial-range or sparse-aware validation path instead of padding the update file with unassigned questions.
+- Progress reports must mention both completed target questions and untouched skipped questions so the user can see that the jump list was respected.
+
 ### Review Gates
 
 Use a lightweight gate after every 10-question update file and a full review gate after each completed 100 questions.
@@ -216,6 +231,7 @@ Use this shape:
 Rules:
 
 - Include exactly the assigned question range unless a question is intentionally skipped with a `manual_review_notes` reason.
+- For sparse target / jump-list batches, include exactly the assigned question numbers in `updates`; do not include unassigned questions merely because they fall between `range.start` and `range.end`.
 - Do not include question text, options, correct answers, answer status, IDs for other questions, or frontend fields.
 - Preserve `question_id` and `question_number` exactly from the source.
 - `manual_review_notes` must be an array of short strings. Use an empty array if no issue.

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-1.json",
+  "dataset_id": "108-1_medicine-1",
+  "range": {
+    "start": 85,
+    "end": 94
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\nTrp operon 弱化作用利用 leader peptide 上連續 Trp codons 感測色胺酸充足與否，藉由轉錄、轉譯偶聯改變 RNA hairpin 結構。答案是 C。\n\n【選項詳解】\n- A. Trp operon 還有 repressor/operator 調控，弱化作用不是唯一機制。\n- B. leader peptide 不是直接作用於 RNA polymerase，而是透過 ribosome 停滯改變 mRNA 二級結構。\n- C. leader peptide 上的 Trp codons 可反映細胞內 charged tRNA-Trp 供應，是弱化作用核心設計。\n- D. 色胺酸低時 ribosome 停在 Trp codons，會形成 anti-terminator，使 operon 繼續表現，不是引發終止性的弱化。\n\n【核心考點】\nattenuation senses charged tRNA-Trp through ribosome stalling at Trp codons in the leader peptide。",
+      "key_point": "attenuation senses charged tRNA-Trp through ribosome stalling at Trp codons in the leader peptide。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "attenuation senses charged tRNA-Trp through ribosome stalling at Trp codons in the leader peptide。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> attenuation senses charged tRNA-Trp through ribosome stalling at Trp codons in the leader peptide。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n細菌錯配修復利用 Dam methylation 標記舊股；新合成股暫時未甲基化，因此修復系統知道要切除新股錯誤。答案是 C。\n\n【選項詳解】\n- A. 乙醯化常見於蛋白質或組蛋白調控，不是細菌錯配修復辨識模板股的主要 DNA 標記。\n- B. 磷酸化不是細菌 DNA mismatch repair 用來分辨新舊股的標誌。\n- C. Dam methylase 造成的甲基化可標記親代模板股，是本題關鍵。\n- D. 醣化不是 DNA 錯配修復辨認模板股的標準機制。\n\n【核心考點】\nbacterial mismatch repair distinguishes strands by methylation status。",
+      "key_point": "bacterial mismatch repair distinguishes strands by methylation status。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "bacterial mismatch repair distinguishes strands by methylation status。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> bacterial mismatch repair distinguishes strands by methylation status。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n肝醣合成酶將 UDP-glucose 提供的葡萄糖殘基接到肝醣非還原端，形成 alpha-1,4 鍵結；分支酶才形成 alpha-1,6。答案是 D。\n\n【選項詳解】\n- A. 肝醣合成酶被去磷酸化時活化；磷酸化通常使其活性降低。\n- B. 此酵素不只存在於肝臟，骨骼肌等組織也有肝醣合成。\n- C. 葡萄糖單元供給者是 UDP-glucose，不是 glucose-6-phosphate。\n- D. 將葡萄糖殘基接到非還原端並形成 alpha-1,4 鍵結，正是肝醣合成酶功能。\n\n【核心考點】\nglycogen synthase extends glycogen at nonreducing ends by alpha-1,4 linkages using UDP-glucose。",
+      "key_point": "glycogen synthase extends glycogen at nonreducing ends by alpha-1,4 linkages using UDP-glucose。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "glycogen synthase extends glycogen at nonreducing ends by alpha-1,4 linkages using UDP-glucose。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> glycogen synthase extends glycogen at nonreducing ends by alpha-1,4 linkages using UDP-glucose。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\nThiamine pyrophosphate 是 pyruvate dehydrogenase complex 的輔因子。缺乏維生素 B1 時 pyruvate 不能順利轉成 acetyl-CoA，轉向 lactate，造成乳酸中毒。答案是 D。\n\n【選項詳解】\n- A. 異檸檬酸脫氫酶屬 TCA cycle，但不是 B1 缺乏造成乳酸中毒的典型關鍵。\n- B. 乳酸脫氫酶會把 pyruvate 轉為 lactate，但 B1 缺乏的上游問題是 PDH 受損。\n- C. 蘋果酸脫氫酶不是 thiamine 依賴酵素，和此題機轉不符。\n- D. PDH complex 需 thiamine 作輔因子，受損時 pyruvate 累積並轉成 lactate。\n\n【核心考點】\nthiamine deficiency impairs pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, causing lactate accumulation。",
+      "key_point": "thiamine deficiency impairs pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, causing lactate accumulation。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "thiamine deficiency impairs pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, causing lactate accumulation。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> thiamine deficiency impairs pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, causing lactate accumulation。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n胰島素促進骨骼肌與脂肪等肝外組織 GLUT4 轉位到細胞膜，增加葡萄糖攝取；若注射後未進食，容易造成低血糖。答案是 B。\n\n【選項詳解】\n- A. 肝臟主要使用 GLUT2，GLUT1 不是胰島素降低血糖的主軸。\n- B. GLUT4 在肝外胰島素敏感組織增加葡萄糖攝取，是低血糖最主要因素。\n- C. 肝臟以 glucokinase 為主，不是 hexokinase；且本題最直接是肝外 GLUT4 攝糖。\n- D. 肝外 hexokinase 可磷酸化葡萄糖，但胰島素急性降低血糖的核心是 GLUT4 攝入增加。\n\n【核心考點】\ninsulin lowers blood glucose mainly by increasing GLUT4-mediated uptake in muscle and adipose tissue and suppressing hepatic glucose output。",
+      "key_point": "insulin lowers blood glucose mainly by increasing GLUT4-mediated uptake in muscle and adipose tissue and suppressing hepatic glucose output。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 B",
+      "flashcard_back": "insulin lowers blood glucose mainly by increasing GLUT4-mediated uptake in muscle and adipose tissue and suppressing hepatic glucose output。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 B -> insulin lowers blood glucose mainly by increasing GLUT4-mediated uptake in muscle and adipose tissue and suppressing hepatic glucose output。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\nAcetyl-CoA 主要來自脂肪酸 beta-oxidation、ketogenic amino acids 及 pyruvate oxidative decarboxylation。Pyrimidine 分解不屬主要來源，答案是 C。\n\n【選項詳解】\n- A. fatty acids 經 beta-oxidation 產生 acetyl-CoA，是主要來源之一。\n- B. ketogenic amino acids 分解可形成 acetyl-CoA 或 acetoacetate，屬主要來源。\n- C. pyrimidine 分解產物通常進入 beta-alanine、beta-aminoisobutyrate 等路徑，不是 acetyl-CoA 主要來源。\n- D. pyruvate 經 PDH complex 轉成 acetyl-CoA，是醣類代謝的重要來源。\n\n【核心考點】\nmajor acetyl-CoA sources: pyruvate, fatty acids, ketogenic amino acids; pyrimidines are not a major source。",
+      "key_point": "major acetyl-CoA sources: pyruvate, fatty acids, ketogenic amino acids; pyrimidines are not a major source。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "major acetyl-CoA sources: pyruvate, fatty acids, ketogenic amino acids; pyrimidines are not a major source。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> major acetyl-CoA sources: pyruvate, fatty acids, ketogenic amino acids; pyrimidines are not a major source。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\nGSH 被氧化成 GSSG 後，glutathione reductase 使用 NADPH 將 GSSG 還原回 2 個 GSH，不是使用 ATP。否定式答案是 D。\n\n【選項詳解】\n- A. GSH 是 glutamate、cysteine、glycine 三胜肽，敘述正確。\n- B. 某些 leukotriene，如 LTC4，合成時會接上 glutathione，敘述正確。\n- C. 兩個 GSH 氧化時以雙硫鍵形成 GSSG，敘述正確。\n- D. glutathione reductase 需要 NADPH 還原 GSSG，不是直接利用 ATP；此句錯誤。\n\n【核心考點】\nglutathione reductase uses NADPH, while GSH contains Glu-Cys-Gly and forms GSSG via disulfide bond。",
+      "key_point": "glutathione reductase uses NADPH, while GSH contains Glu-Cys-Gly and forms GSSG via disulfide bond。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "glutathione reductase uses NADPH, while GSH contains Glu-Cys-Gly and forms GSSG via disulfide bond。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> glutathione reductase uses NADPH, while GSH contains Glu-Cys-Gly and forms GSSG via disulfide bond。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\nEpinephrine 屬 catecholamine，生合成從 tyrosine 開始，經 DOPA、dopamine、norepinephrine 到 epinephrine。答案是 D。\n\n【選項詳解】\n- A. glycine 是 heme、purine 等路徑常見前驅物，不是 catecholamine 主前驅物。\n- B. tryptophan 是 serotonin、melatonin 與 niacin 的前驅物，不是 epinephrine。\n- C. histidine 可形成 histamine，不是 epinephrine 的前驅物。\n- D. tyrosine 是 dopamine、norepinephrine、epinephrine 的共同起始胺基酸。\n\n【核心考點】\ncatecholamines are synthesized from tyrosine。",
+      "key_point": "catecholamines are synthesized from tyrosine。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "catecholamines are synthesized from tyrosine。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> catecholamines are synthesized from tyrosine。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n轉氨基作用可把胺基轉到 alpha-ketoglutarate 上，直接生成 glutamate。答案是 A。\n\n【選項詳解】\n- A. alpha-ketoglutarate 接受胺基後即形成 glutamic acid，是本題答案。\n- B. pyruvate 接受胺基會形成 alanine，不是 glutamate。\n- C. acetoacetate 是 ketone body 相關分子，不是轉氨基直接形成 glutamate 的受體。\n- D. oxaloacetate 接受胺基會形成 aspartate，不是 glutamate。\n\n【核心考點】\nalpha-ketoglutarate accepts an amino group in transamination to become glutamate。",
+      "key_point": "alpha-ketoglutarate accepts an amino group in transamination to become glutamate。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 A",
+      "flashcard_back": "alpha-ketoglutarate accepts an amino group in transamination to become glutamate。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 A -> alpha-ketoglutarate accepts an amino group in transamination to become glutamate。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\nSerotonin 由 tryptophan 經 hydroxylation 與 decarboxylation 形成；之後可再轉為 melatonin。答案是 C。\n\n【選項詳解】\n- A. arginine 可生成 nitric oxide、urea cycle 相關產物，不是 serotonin 前驅物。\n- B. glutamic acid 可形成 GABA 或參與氮代謝，不是 serotonin 前驅物。\n- C. tryptophan 是 serotonin 生合成的直接前驅胺基酸。\n- D. tyrosine 是 catecholamine 與 thyroid hormone 前驅物，不是 serotonin。\n\n【核心考點】\ntryptophan is the precursor of serotonin and melatonin。",
+      "key_point": "tryptophan is the precursor of serotonin and melatonin。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "tryptophan is the precursor of serotonin and melatonin。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> tryptophan is the precursor of serotonin and melatonin。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

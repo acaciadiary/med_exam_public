@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-1.json",
+  "dataset_id": "108-1_medicine-1",
+  "range": {
+    "start": 74,
+    "end": 83
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n等電點是分子淨電荷為零的 pH；多胜肽仍可能同時帶有正、負局部電荷，但總和為零。答案是 C。\n\n【選項詳解】\n- A. 胺基端與羧基端不會在等電點皆帶正電，羧基端常為負電或依環境解離。\n- B. 等電點不是所有可解離基團都不帶電，而是正負電總和抵消。\n- C. 淨電荷為零正是等電點的定義。\n- D. 帶有四個淨電荷與等電點定義相反。\n\n【核心考點】\nat isoelectric pH, net charge equals zero, not necessarily no charged groups。",
+      "key_point": "at isoelectric pH, net charge equals zero, not necessarily no charged groups。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "at isoelectric pH, net charge equals zero, not necessarily no charged groups。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> at isoelectric pH, net charge equals zero, not necessarily no charged groups。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n蛋白質身分鑑定需要特異抗體、質量資訊或序列資訊。分子篩層析主要依分子大小分離，不能直接確認蛋白質身分。答案是 C。\n\n【選項詳解】\n- A. Western blot 利用特異抗體辨識蛋白，可用於身分鑑定。\n- B. 質譜可提供蛋白質或胜肽質量與序列片段資訊，常用於蛋白鑑定。\n- C. 分子篩層析只能依大小分離或估計分子量，不能直接證明蛋白身分。\n- D. 胺基端序列分析提供序列資訊，可直接協助辨認蛋白質。\n\n【核心考點】\nWestern blot, mass spectrometry, and N-terminal sequencing can identify proteins; size-exclusion chromatography mainly separates by size。",
+      "key_point": "Western blot, mass spectrometry, and N-terminal sequencing can identify proteins; size-exclusion chromatography mainly separates by size。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "Western blot, mass spectrometry, and N-terminal sequencing can identify proteins; size-exclusion chromatography mainly separates by size。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> Western blot, mass spectrometry, and N-terminal sequencing can identify proteins; size-exclusion chromatography mainly separates by size。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n凝膠過濾色層分析法中，大分子先被沖提出來，小分子較晚。四者分子量由大到小為 RNA polymerase、IgG、RNase A、cytochrome c，因此第二順位是 IgG，答案是 B。\n\n【選項詳解】\n- A. cytochrome c 約 13 kDa，接近最小，會較晚沖出，不是第二順位。\n- B. IgG 約 145 kDa，小於 RNA polymerase 但大於 RNase A 與 cytochrome c，因此第二個沖出。\n- C. RNase A 約 13.7 kDa，只比 cytochrome c 稍大，仍屬後段沖出。\n- D. RNA polymerase 約 450 kDa 最大，會第一個沖出，不是第二順位。\n\n【核心考點】\ngel filtration separates by size: largest elutes first。",
+      "key_point": "gel filtration separates by size: largest elutes first。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 B",
+      "flashcard_back": "gel filtration separates by size: largest elutes first。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 B -> gel filtration separates by size: largest elutes first。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n維生素 B12 又稱 cobalamin，結構中含鈷離子。答案是 D。\n\n【選項詳解】\n- A. vitamin K 與凝血因子 gamma-carboxylation 相關，不含鈷為結構特徵。\n- B. vitamin E 是脂溶性抗氧化維生素，不含鈷離子。\n- C. vitamin B6 是 pyridoxine/pyridoxal phosphate 系列，不以鈷為結構核心。\n- D. vitamin B12 的 cobalamin 名稱即反映其含 cobalt，為本題答案。\n\n【核心考點】\nvitamin B12 = cobalamin, contains cobalt。",
+      "key_point": "vitamin B12 = cobalamin, contains cobalt。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "vitamin B12 = cobalamin, contains cobalt。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> vitamin B12 = cobalamin, contains cobalt。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n維生素 A 的活性型 retinoic acid 會與核內 retinoid receptors（RAR/RXR）結合，調控基因表達。答案是 C。\n\n【選項詳解】\n- A. calcitriol receptor 是維生素 D 受器，不是維生素 A 直接結合的主要受器。\n- B. receptor tyrosine kinases 是 insulin、growth factor 等膜受器路徑，不是維生素 A 的核內作用方式。\n- C. nuclear retinoid receptors 是維生素 A/retinoic acid 調控轉錄的直接受器。\n- D. GPCR 是許多胜肽或小分子訊號路徑，不是維生素 A 調控基因表達的主要受器。\n\n【核心考點】\nvitamin A regulates transcription through nuclear retinoid receptors。",
+      "key_point": "vitamin A regulates transcription through nuclear retinoid receptors。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "vitamin A regulates transcription through nuclear retinoid receptors。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> vitamin A regulates transcription through nuclear retinoid receptors。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n霍亂毒素 ADP-ribosylates Gs alpha，抑制其 GTPase，使 Gs 持續活化 adenylyl cyclase，cAMP 上升並造成分泌性腹瀉。題目問錯誤敘述，答案是 A。\n\n【選項詳解】\n- A. Gs alpha 不是無法活化下游效應物，而是持續活化 adenylyl cyclase；這句錯誤，故為答案。\n- B. Gs alpha 維持 GTP-bound 活化態時較不易重新與 beta-gamma 次單元結合，敘述可成立。\n- C. adenylyl cyclase 持續活化是霍亂毒素造成高 cAMP 的核心機轉。\n- D. cAMP 增加會促進腸上皮氯離子與水分分泌，造成大量水瀉。\n\n【核心考點】\ncholera toxin locks Gs alpha in active GTP-bound state -> adenylyl cyclase stays active -> cAMP increases。",
+      "key_point": "cholera toxin locks Gs alpha in active GTP-bound state -> adenylyl cyclase stays active -> cAMP increases。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 A",
+      "flashcard_back": "cholera toxin locks Gs alpha in active GTP-bound state -> adenylyl cyclase stays active -> cAMP increases。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 A -> cholera toxin locks Gs alpha in active GTP-bound state -> adenylyl cyclase stays active -> cAMP increases。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\nHGPRT 活性降低會減少 purine salvage，使 PRPP 與 de novo purine synthesis 增加，尿酸生成上升，可導致痛風。答案是 C。\n\n【選項詳解】\n- A. citrate synthase 是 TCA cycle 酵素，缺乏不會典型造成尿酸過多。\n- B. PRPP synthetase 活性降低會減少 purine 合成基質，方向不符合痛風；活性過高才可能增加尿酸。\n- C. HGPRT 活性降低使 hypoxanthine/guanine salvage 下降，purine 分解成尿酸增加。\n- D. glucose 6-phosphatase 表現上升不是痛風的典型酵素異常機轉。\n\n【核心考點】\nHGPRT deficiency impairs purine salvage and increases uric acid; severe form is Lesch-Nyhan syndrome。",
+      "key_point": "HGPRT deficiency impairs purine salvage and increases uric acid; severe form is Lesch-Nyhan syndrome。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "HGPRT deficiency impairs purine salvage and increases uric acid; severe form is Lesch-Nyhan syndrome。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> HGPRT deficiency impairs purine salvage and increases uric acid; severe form is Lesch-Nyhan syndrome。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n大腸桿菌 Dam methylase 會甲基化親代 DNA 的 GATC 序列，讓錯配修復系統辨認舊模板股與新合成未甲基化股。答案是 B。\n\n【選項詳解】\n- A. Dam methylase 不是把 uracil 甲基化成 thymine；那不是錯配修復的辨識機制。\n- B. 模板股被 Dam methylation 標記後，修復系統可切除新股上的錯誤配對。\n- C. 去除錯誤配對的是錯配修復蛋白群，不是 Dam methylase 本身直接執行。\n- D. 修復目標通常是新合成未甲基化股，不是任意稱為 coding strand 的那一股。\n\n【核心考點】\nDam methylation marks the parental/template strand for bacterial mismatch repair。",
+      "key_point": "Dam methylation marks the parental/template strand for bacterial mismatch repair。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 B",
+      "flashcard_back": "Dam methylation marks the parental/template strand for bacterial mismatch repair。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 B -> Dam methylation marks the parental/template strand for bacterial mismatch repair。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\nE. coli DNA polymerase I 具有 5' to 3' polymerase、3' to 5' exonuclease proofreading、5' to 3' exonuclease 去除 primer 等活性，但沒有 DNA gyrase 活性。答案是 B。\n\n【選項詳解】\n- A. 3' to 5' exonuclease 是 proofreading 活性，DNA polymerase I 具有此功能。\n- B. DNA gyrase 是拓樸異構酶，處理 DNA 超螺旋，不是 DNA polymerase I 活性。\n- C. 5' to 3' DNA polymerase 活性是 DNA polymerase I 的基本合成功能。\n- D. 5' to 3' exonuclease 可移除 RNA primer，是 DNA polymerase I 的特色之一。\n\n【核心考點】\nDNA polymerase I has polymerase plus 3'->5' and 5'->3' exonuclease activities; DNA gyrase is a topoisomerase。",
+      "key_point": "DNA polymerase I has polymerase plus 3'->5' and 5'->3' exonuclease activities; DNA gyrase is a topoisomerase。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 B",
+      "flashcard_back": "DNA polymerase I has polymerase plus 3'->5' and 5'->3' exonuclease activities; DNA gyrase is a topoisomerase。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 B -> DNA polymerase I has polymerase plus 3'->5' and 5'->3' exonuclease activities; DNA gyrase is a topoisomerase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nHistone deacetylase 移除組蛋白乙醯基，使染色質較緊密，通常降低或調節轉錄活性。最主要功能是調節基因轉錄，答案是 A。\n\n【選項詳解】\n- A. 去乙醯化改變染色質開放程度，直接影響基因轉錄，是本題答案。\n- B. HDAC 不會增加組蛋白濃度，而是改變組蛋白修飾狀態。\n- C. 它主要作用在染色質與轉錄層級，不是直接減少 mRNA translation。\n- D. eIF2 穩定性屬轉譯調控議題，與 HDAC 的主要功能不符。\n\n【核心考點】\nhistone acetylation opens chromatin; deacetylation condenses chromatin and regulates transcription。",
+      "key_point": "histone acetylation opens chromatin; deacetylation condenses chromatin and regulates transcription。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 A",
+      "flashcard_back": "histone acetylation opens chromatin; deacetylation condenses chromatin and regulates transcription。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 A -> histone acetylation opens chromatin; deacetylation condenses chromatin and regulates transcription。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

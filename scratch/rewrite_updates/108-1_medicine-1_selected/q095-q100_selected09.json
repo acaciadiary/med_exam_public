@@ -1,0 +1,75 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-1.json",
+  "dataset_id": "108-1_medicine-1",
+  "range": {
+    "start": 95,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\nATP synthase 位於粒線體內膜，利用跨內膜質子梯度在基質側合成 ATP。ATP 不是在內膜與外膜間隙形成，所以否定式答案是 C。\n\n【選項詳解】\n- A. ATP synthase 嵌在粒線體內膜，敘述正確。\n- B. 它利用內膜兩側的 H+ 電化學梯度驅動 ATP 合成，敘述正確。\n- C. ATP 合成的催化頭部朝向 matrix，ATP 在基質側生成，不是在膜間腔；此句錯誤。\n- D. 旋轉催化與構型改變是 ATP synthase 產生 ATP 的重要機制，敘述正確。\n\n【核心考點】\nATP synthase makes ATP on the mitochondrial matrix side using the proton gradient across the inner membrane。",
+      "key_point": "ATP synthase makes ATP on the mitochondrial matrix side using the proton gradient across the inner membrane。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "ATP synthase makes ATP on the mitochondrial matrix side using the proton gradient across the inner membrane。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> ATP synthase makes ATP on the mitochondrial matrix side using the proton gradient across the inner membrane。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\nG1 進入 S 期需要 E2F 釋放以啟動 DNA 合成相關基因。Cyclin E-CDK2 磷酸化 pRb 後，pRb 放開 E2F，細胞週期往 S 期推進。答案是 C。\n\n【選項詳解】\n- A. p53 活化通常誘導 cell-cycle arrest 或 apoptosis，不會刺激進入 S 期。\n- B. p21 是 CDK inhibitor，會抑制 CDK 活性，使細胞週期停下。\n- C. CDK2 磷酸化 pRb 可解除 E2F 抑制，誘導 DNA synthesis enzymes 表現。\n- D. pRb-E2F 複合體會抑制 E2F 作用；形成此複合體不是進入 S 期訊號。\n\n【核心考點】\nCDK2 phosphorylation of pRb releases E2F and promotes G1/S transition。",
+      "key_point": "CDK2 phosphorylation of pRb releases E2F and promotes G1/S transition。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "CDK2 phosphorylation of pRb releases E2F and promotes G1/S transition。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> CDK2 phosphorylation of pRb releases E2F and promotes G1/S transition。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n類固醇受體是細胞內/核內受器，與 G protein 訊息傳遞無關。Adenylyl cyclase、PLC 與 Ras 都可出現在膜受器下游訊號網絡，答案是 A。\n\n【選項詳解】\n- A. 類固醇受體直接結合脂溶性激素並調控轉錄，不屬 G protein 訊息傳遞路徑。\n- B. adenylyl cyclase 是 Gs/Gi 常見下游效應酶，與 G protein 路徑相關。\n- C. phospholipase C 可由 Gq 活化，產生 IP3 與 DAG，與 G protein 路徑相關。\n- D. Ras 是小 GTP-binding protein，常見於受器訊號傳遞網絡，與 GTPase 訊號概念相關。\n\n【核心考點】\nsteroid receptors are intracellular transcription factors, not GPCR pathway proteins。",
+      "key_point": "steroid receptors are intracellular transcription factors, not GPCR pathway proteins。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 A",
+      "flashcard_back": "steroid receptors are intracellular transcription factors, not GPCR pathway proteins。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 A -> steroid receptors are intracellular transcription factors, not GPCR pathway proteins。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\nCalmodulin 以 EF-hand 的 helix-loop-helix motif 結合 Ca2+，構型改變後調節多種標靶蛋白與激酶。它不是靠 amphipathic beta-sheet 結合標靶，所以否定式答案是 B。\n\n【選項詳解】\n- A. calmodulin 與 Ca2+ 結合後會構型改變，暴露標靶蛋白結合面，敘述正確。\n- B. calmodulin 的標靶結合不是靠一個 amphipathic beta-sheet；此結構描述錯誤。\n- C. Ca2+-calmodulin 可調節 CaM kinases、MLCK 等多種 protein kinases，敘述正確。\n- D. EF-hand 是 helix-loop-helix 型 Ca2+ 結合 motif，符合 calmodulin 特性。\n\n【核心考點】\ncalmodulin contains EF-hand helix-loop-helix Ca2+-binding motifs and regulates target enzymes after Ca2+ binding。",
+      "key_point": "calmodulin contains EF-hand helix-loop-helix Ca2+-binding motifs and regulates target enzymes after Ca2+ binding。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 B",
+      "flashcard_back": "calmodulin contains EF-hand helix-loop-helix Ca2+-binding motifs and regulates target enzymes after Ca2+ binding。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 B -> calmodulin contains EF-hand helix-loop-helix Ca2+-binding motifs and regulates target enzymes after Ca2+ binding。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n實驗室讓質體直接進入細菌最常見方法是製備 competent cells，使用 CaCl2 處理後熱休克，使質體 DNA 進入細菌。答案是 D。\n\n【選項詳解】\n- A. 低電壓電泳不是常用轉形方法；電穿孔是高電場短脈衝，概念不同。\n- B. 帶質體的噬菌體屬 transduction 或 phage-mediated delivery，不是質體直接轉形最常用方法。\n- C. 微注射常用於較大型細胞或胚胎操作，不適合當作細菌質體轉形常規方法。\n- D. CaCl2 處理加熱休克是經典 bacterial transformation 方法，正是題目所問的常用方式。\n\n【核心考點】\ncommon bacterial plasmid transformation: CaCl2-treated competent cells plus heat shock; electroporation is another method but not low-voltage electrophoresis。",
+      "key_point": "common bacterial plasmid transformation: CaCl2-treated competent cells plus heat shock; electroporation is another method but not low-voltage electrophoresis。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 D",
+      "flashcard_back": "common bacterial plasmid transformation: CaCl2-treated competent cells plus heat shock; electroporation is another method but not low-voltage electrophoresis。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 D -> common bacterial plasmid transformation: CaCl2-treated competent cells plus heat shock; electroporation is another method but not low-voltage electrophoresis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

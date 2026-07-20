@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-1/medicine-1.json",
+  "dataset_id": "108-1_medicine-1",
+  "range": {
+    "start": 64,
+    "end": 73
+  },
+  "updates": [
+    {
+      "question_id": "108-1_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n唾液澱粉酶與舌脂肪酶缺少時，胰臟與小腸酵素仍可消化醣類、脂肪與蛋白質。答案是 D。\n\n【選項詳解】\n- A. 醣類與脂肪仍可被消化，但蛋白質也能由胃蛋白酶與胰蛋白酶系統消化，所以不只 1、2。\n- B. 脂肪與蛋白質可消化，但醣類也可由胰澱粉酶與小腸刷狀緣酵素消化。\n- C. 醣類與蛋白質可消化，脂肪也可靠胰脂肪酶與膽鹽乳化後消化。\n- D. 即使沒有唾液，醣類、脂肪、蛋白質都仍有其他消化酵素與機制可處理。\n\n【核心考點】\n沒有唾液仍可靠胰澱粉酶、胰脂肪酶與蛋白酶完成三大營養素消化。",
+      "key_point": "沒有唾液仍可靠胰澱粉酶、胰脂肪酶與蛋白酶完成三大營養素消化。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 D",
+      "flashcard_back": "沒有唾液仍可靠胰澱粉酶、胰脂肪酶與蛋白酶完成三大營養素消化。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 D -> 沒有唾液仍可靠胰澱粉酶、胰脂肪酶與蛋白酶完成三大營養素消化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nAquaporin 2 位於集尿管 principal cells，受 vasopressin/ADH 調控轉位到頂膜，增加水再吸收。答案是 A。\n\n【選項詳解】\n- A. vasopressin 經 V2 receptor 促使 AQP2 轉位至頂膜，是本題正確重點。\n- B. 亨利氏環下降枝水通透性高，但主要不是由受 ADH 調控的 AQP2 表現來描述。\n- C. 水分移動方向是由低張向高張環境，選項把滲透方向說反。\n- D. 水通道只提供被動擴散通路，不做 ATP 驅動的主動運輸。\n\n【核心考點】\nADH causes AQP2 insertion into collecting duct apical membrane; water movement is passive along osmotic gradient。",
+      "key_point": "ADH causes AQP2 insertion into collecting duct apical membrane; water movement is passive along osmotic gradient。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 A",
+      "flashcard_back": "ADH causes AQP2 insertion into collecting duct apical membrane; water movement is passive along osmotic gradient。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 A -> ADH causes AQP2 insertion into collecting duct apical membrane; water movement is passive along osmotic gradient。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n腎小管腔內氫離子常由 HCO3-、HPO4 2- 與 NH3/NH4+ 系統緩衝。丁酸根 C3H7COO- 不是常見尿液酸鹼緩衝物，答案是 D。\n\n【選項詳解】\n- A. HCO3- 可在近端腎小管參與氫離子處理與重吸收，不是最不常見者。\n- B. 磷酸鹽 HPO4 2- 是尿液 titratable acid 的重要緩衝系統。\n- C. NH3 可結合 H+ 形成 NH4+，是排酸的重要機制。\n- D. C3H7COO- 不是腎小管常用的主要酸鹼緩衝物質，最符合題意。\n\n【核心考點】\nurinary buffers include bicarbonate, phosphate, and ammonia; organic anions such as butyrate are not standard major buffers。",
+      "key_point": "urinary buffers include bicarbonate, phosphate, and ammonia; organic anions such as butyrate are not standard major buffers。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 D",
+      "flashcard_back": "urinary buffers include bicarbonate, phosphate, and ammonia; organic anions such as butyrate are not standard major buffers。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 D -> urinary buffers include bicarbonate, phosphate, and ammonia; organic anions such as butyrate are not standard major buffers。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n腎小管葡萄糖主要在近端小管再吸收；早段近端小管頂膜以 SGLT2 為主，基底外側再經 GLUT2 離開細胞。答案是 C。\n\n【選項詳解】\n- A. GLUT1 不是遠端腎小管頂膜再吸收葡萄糖的主要運輸蛋白；位置與蛋白都不對。\n- B. SGLT1 是頂膜鈉依賴共同運輸蛋白，不在基底外側膜負責再吸收。\n- C. 近端腎小管頂膜主要使用 SGLT2 再吸收大部分葡萄糖，敘述正確。\n- D. 近端小管基底外側以 GLUT2 較典型，不是主要 GLUT1。\n\n【核心考點】\nproximal tubule apical SGLT2 reabsorbs most filtered glucose; basolateral GLUT2 returns glucose to blood。",
+      "key_point": "proximal tubule apical SGLT2 reabsorbs most filtered glucose; basolateral GLUT2 returns glucose to blood。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 C",
+      "flashcard_back": "proximal tubule apical SGLT2 reabsorbs most filtered glucose; basolateral GLUT2 returns glucose to blood。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 C -> proximal tubule apical SGLT2 reabsorbs most filtered glucose; basolateral GLUT2 returns glucose to blood。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n體溫、cortisol 與 melatonin 都有明顯晝夜節律；胰島素分泌受進食與血糖影響最大，晝夜生物時鐘不是最主要決定因素。答案是 D。\n\n【選項詳解】\n- A. 體溫有晝夜變化，通常清晨較低、傍晚較高。\n- B. cortisol 有明顯日夜節律，清晨較高。\n- C. melatonin 與光暗週期密切相關，夜間分泌上升。\n- D. 胰島素主要隨進食與血糖變動，雖可受節律調節，但最不屬典型晝夜指標。\n\n【核心考點】\ncircadian rhythm strongly affects body temperature, cortisol, and melatonin; insulin is primarily meal/glucose-driven。",
+      "key_point": "circadian rhythm strongly affects body temperature, cortisol, and melatonin; insulin is primarily meal/glucose-driven。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 D",
+      "flashcard_back": "circadian rhythm strongly affects body temperature, cortisol, and melatonin; insulin is primarily meal/glucose-driven。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 D -> circadian rhythm strongly affects body temperature, cortisol, and melatonin; insulin is primarily meal/glucose-driven。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nStAR protein 的主要功能是把膽固醇從粒線體外膜運送到內膜，讓 CYP11A1 將膽固醇轉成 pregnenolone。答案是 C。\n\n【選項詳解】\n- A. 膽固醇轉成 pregnenolone 是 CYP11A1/desmolase 的酵素反應，不是 StAR 直接催化。\n- B. StAR 不負責膽固醇進入細胞內；它重點在粒線體內外膜間運送。\n- C. StAR 將膽固醇送入粒線體內膜側，是類固醇生成的限速步驟。\n- D. LDL 是運送膽固醇的脂蛋白，StAR 不會把膽固醇轉成 LDL。\n\n【核心考點】\nStAR mediates cholesterol transport into mitochondria, the rate-limiting step of steroidogenesis。",
+      "key_point": "StAR mediates cholesterol transport into mitochondria, the rate-limiting step of steroidogenesis。",
+      "flashcard_front": "生物化學 / 題幹線索 / 選項 C",
+      "flashcard_back": "StAR mediates cholesterol transport into mitochondria, the rate-limiting step of steroidogenesis。",
+      "flashcard_summary": "生物化學 / 題幹線索 / 選項 C -> StAR mediates cholesterol transport into mitochondria, the rate-limiting step of steroidogenesis。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n甲狀腺素是脂溶性激素，進入細胞後與核內受器結合，調控基因轉錄。答案是 A。\n\n【選項詳解】\n- A. thyroid hormone 可進入細胞並與核內受器結合，改變基因表現。\n- B. insulin 是胜肽激素，作用於細胞膜 receptor tyrosine kinase。\n- C. growth hormone 作用於細胞膜 JAK-STAT 相關受器，不是細胞內受器。\n- D. ANP 作用於膜上 guanylyl cyclase receptor，增加 cGMP，不是進入細胞核受器。\n\n【核心考點】\nthyroid hormone and steroid hormones act mainly through intracellular/nuclear receptors。",
+      "key_point": "thyroid hormone and steroid hormones act mainly through intracellular/nuclear receptors。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 A",
+      "flashcard_back": "thyroid hormone and steroid hormones act mainly through intracellular/nuclear receptors。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 A -> thyroid hormone and steroid hormones act mainly through intracellular/nuclear receptors。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n腦下垂體前葉功能全面降低時，ACTH 缺乏造成次發性腎上腺皮質功能不足；壓力狀態需額外補充 cortisol。答案是 D。\n\n【選項詳解】\n- A. 只補充 androgen 不能恢復完整精子製造，還需要 FSH/LH 軸功能或相應治療。\n- B. TSH 缺乏會造成中樞性甲狀腺低下，通常需要補充甲狀腺素。\n- C. 前葉功能降低不等於後葉 ADH 缺乏；是否補 ADH 取決於有無尿崩症。\n- D. 壓力狀態下 cortisol 需求增加，ACTH 軸不足者需額外 glucocorticoid。\n\n【核心考點】\npanhypopituitarism needs physiologic hormone replacement, and stress-dose glucocorticoid is required during illness or surgery。",
+      "key_point": "panhypopituitarism needs physiologic hormone replacement, and stress-dose glucocorticoid is required during illness or surgery。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 D",
+      "flashcard_back": "panhypopituitarism needs physiologic hormone replacement, and stress-dose glucocorticoid is required during illness or surgery。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 D -> panhypopituitarism needs physiologic hormone replacement, and stress-dose glucocorticoid is required during illness or surgery。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n血睪屏障由 Sertoli cells 間 tight junction 形成，隔離免疫系統以保護減數分裂後較晚出現抗原的生殖細胞，尤其 primary spermatocytes 之後的細胞。答案是 D。\n\n【選項詳解】\n- A. Leydig cells 位於間質，負責 testosterone 生成，不在血睪屏障後方保護區內。\n- B. myoid cells 位於生精小管周圍，協助收縮與支撐，不是屏障主要保護目標。\n- C. fibroblasts 屬間質細胞，不是血睪屏障保護的生殖細胞。\n- D. primary spermatocytes 位於屏障腔側，需免於免疫辨識，是血睪屏障保護重點。\n\n【核心考點】\nblood-testis barrier protects developing germ cells such as primary spermatocytes and later stages。",
+      "key_point": "blood-testis barrier protects developing germ cells such as primary spermatocytes and later stages。",
+      "flashcard_front": "組織學 / 題幹線索 / 選項 D",
+      "flashcard_back": "blood-testis barrier protects developing germ cells such as primary spermatocytes and later stages。",
+      "flashcard_summary": "組織學 / 題幹線索 / 選項 D -> blood-testis barrier protects developing germ cells such as primary spermatocytes and later stages。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-1_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n乳汁合成主要由 prolactin 促進；oxytocin 主要促進乳汁排出。答案是 B。\n\n【選項詳解】\n- A. oxytocin 讓肌上皮細胞收縮，負責 let-down reflex，不是乳汁合成主因。\n- B. prolactin 作用於乳腺上皮細胞，促進乳汁生成，是本題答案。\n- C. progesterone 在妊娠中促進乳腺發育，但高濃度會抑制產後乳汁大量分泌。\n- D. prostaglandins 不是乳汁生成的主要內分泌調控激素。\n\n【核心考點】\nprolactin makes milk; oxytocin ejects milk。",
+      "key_point": "prolactin makes milk; oxytocin ejects milk。",
+      "flashcard_front": "生理學 / 題幹線索 / 選項 B",
+      "flashcard_back": "prolactin makes milk; oxytocin ejects milk。",
+      "flashcard_summary": "生理學 / 題幹線索 / 選項 B -> prolactin makes milk; oxytocin ejects milk。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-07-20T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
