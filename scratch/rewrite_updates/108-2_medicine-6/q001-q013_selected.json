@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-6.json",
+  "dataset_id": "108-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 13
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n麻醉中體溫監測的陷阱，是把區域麻醉誤認為不用監測。麻醉會抑制體溫調節、造成周邊血管擴張，區域麻醉也可能使阻斷區域散熱增加，因此不能把區域麻醉一概視為不需監測體溫。\n\n【選項詳解】\n- A. 正確。核心溫度較能反映中樞器官溫度；鼻咽、食道下段、肺動脈等位置常用於核心溫度監測，鼻咽溫度在全身麻醉時尤其實用。\n- B. 正確。手術室低溫、麻醉抑制寒顫與血管收縮，加上輸液與暴露，讓低體溫比高體溫常見得多。\n- C. 正確。直腸溫度受局部血流與糞便影響，對快速溫度變化反應較慢；體外循環降溫或復溫時，會落後於較即時的核心監測部位。\n- D. 錯誤。否定題的正答是這個例外敘述；區域麻醉同樣可干擾體溫調節，長時間手術、大範圍阻斷或高風險病人仍應監測體溫。\n\n【核心考點】\n麻醉體溫監測不能只看全身麻醉；凡可能發生臨床顯著體溫變化的麻醉，都要選擇合適部位監測。直腸溫度可用，但在快速升降溫時反應較慢。",
+      "key_point": "區域麻醉也可能造成低體溫，長時間或高風險手術需監測體溫；直腸溫度在快速變溫時會落後核心溫度。",
+      "flashcard_front": "麻醉體溫監測 / 區域麻醉 / 直腸溫度",
+      "flashcard_back": "區域麻醉不是一律免體溫監測；直腸溫度反應慢，體外循環等快速變溫時不如鼻咽、食道或肺動脈即時。",
+      "flashcard_summary": "麻醉體溫監測 / 區域麻醉 / 直腸溫度 -> 區域麻醉不是一律免體溫監測；直腸溫度反應慢，體外循環等快速變溫時不如鼻咽、食道或肺動脈即時。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n手術室外麻醉場所仍要達到可安全處理麻醉與急救的基本條件。題組中的 1、2、3 都是必要條件，4 說不需準備電擊器，正好違反急救設備要求。\n\n【選項詳解】\n- A. 正確。足夠空間、可靠氧氣供應與合適監測儀器都是手術室外麻醉的基本配備；不包含「不需電擊器」才是正確組合。\n- B. 錯誤。把第 4 項也納入會出問題；手術室外麻醉地點仍須具備或可立即取得急救車、急救藥物與電擊器。\n- C. 錯誤。第 1 項空間需求正確，但第 4 項不需電擊器錯誤，而且漏掉氧氣與監測。\n- D. 錯誤。第 2、3 項正確，但第 4 項錯誤，也漏掉足夠的麻醉照護空間。\n\n【核心考點】\n手術室外麻醉不是降低標準，而是把氧氣、抽吸、監測、空間、照明、急救藥物與電擊器帶到非手術室場域。遇到組合題時，含有「不用急救設備」的選項通常要排除。",
+      "key_point": "手術室外麻醉場所需有足夠空間、氧氣供應與監測儀器，且急救設備與電擊器不可省略。",
+      "flashcard_front": "手術室外麻醉 NORA / 基本設備",
+      "flashcard_back": "NORA 地點需氧氣、抽吸、監測、足夠空間與急救設備；電擊器是安全配備，不是可省略項目。",
+      "flashcard_summary": "手術室外麻醉 NORA / 基本設備 -> NORA 地點需氧氣、抽吸、監測、足夠空間與急救設備；電擊器是安全配備，不是可省略項目。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n具有支氣管擴張效果的靜脈麻醉藥，官方更正接受 B、C。Ketamine 以交感活性與抑制支氣管收縮著稱，propofol 也可降低氣道阻力；原始單選答案 B 需依更正視為多重答案。\n\n【選項詳解】\n- A. 錯誤。Thiopental 屬巴比妥類，可能造成組織胺釋放或氣道反應，對氣喘或支氣管痙攣病人不是支氣管擴張代表藥。\n- B. 正確。Ketamine 會保留交感張力、增加兒茶酚胺作用，常被用在氣喘或支氣管痙攣風險病人的誘導選擇。\n- C. 正確。Propofol 可抑制氣道反射並降低氣道阻力，官方更正將其列入可給分答案。\n- D. 錯誤。Midazolam 主要提供鎮靜、抗焦慮與順行性失憶，並不是用來達成支氣管擴張的靜脈麻醉藥。\n\n【核心考點】\n支氣管痙攣風險題要先想到 ketamine；若題目承認更正，propofol 也可因降低氣道阻力而列為答案。Thiopental 與 midazolam 不具代表性支氣管擴張效果。",
+      "key_point": "官方更正接受 ketamine 與 propofol 具支氣管擴張或降低氣道阻力效果。",
+      "flashcard_front": "靜脈麻醉藥 / 支氣管擴張 / 官方更正",
+      "flashcard_back": "Ketamine 是典型支氣管擴張選擇；propofol 可降低氣道阻力，本題官方更正接受 B、C。",
+      "flashcard_summary": "靜脈麻醉藥 / 支氣管擴張 / 官方更正 -> Ketamine 是典型支氣管擴張選擇；propofol 可降低氣道阻力，本題官方更正接受 B、C。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n肥胖病人生理變化的錯誤點，在於把呼吸需求寫成不變。肥胖會增加耗氧與二氧化碳生成，為了維持氣體交換，每分鐘通氣量通常上升。\n\n【選項詳解】\n- A. 正確。肥胖病人血容量、心輸出量與心肌耗氧增加，合併高血壓、睡眠呼吸中止或冠心病時，麻醉中缺血風險更高。\n- B. 錯誤。肥胖會增加代謝需求與二氧化碳產生，每分鐘通氣量常需增加；同時功能餘氣量下降，誘導後容易快速去飽和。\n- C. 正確。肥胖與胃食道逆流、胃排空延遲及腹壓升高相關，麻醉誘導時要留意誤吸風險。\n- D. 正確。短頸、頸圍增加、舌咽軟組織多與睡眠呼吸中止，使面罩通氣與插管困難機率上升。\n\n【核心考點】\n肥胖麻醉的呼吸重點是耗氧增加、每分鐘通氣量需求上升、FRC 下降與去飽和快。看到「通氣量不變」要特別警覺。",
+      "key_point": "肥胖病人每分鐘通氣量與耗氧量通常增加，FRC 下降使麻醉誘導後更易缺氧。",
+      "flashcard_front": "肥胖麻醉 / 呼吸生理 / FRC",
+      "flashcard_back": "肥胖會增加耗氧與 CO2 生成，通氣需求上升；FRC 下降導致誘導後去飽和更快。",
+      "flashcard_summary": "肥胖麻醉 / 呼吸生理 / FRC -> 肥胖會增加耗氧與 CO2 生成，通氣需求上升；FRC 下降導致誘導後去飽和更快。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n糖尿病患麻醉考量的錯誤點在血糖控制目標。手術壓力確實會升高血糖，但 250 mg/dL 不是理想控制目標，過高血糖會增加感染、滲透性利尿與電解質問題。\n\n【選項詳解】\n- A. 正確。糖尿病腎病變、神經病變與冠心病可能在症狀不明顯時已存在，術前評估不能只靠病人主訴。\n- B. 正確。自主神經病變可造成無痛性心肌缺血或梗塞、姿態性低血壓，也常與高血壓及心血管風險並存。\n- C. 錯誤。壓力性高血糖不是放任高血糖的理由；圍手術期通常以約 140-180 mg/dL 為常用目標範圍，250 mg/dL 偏高。\n- D. 正確。禁食且沒有葡萄糖輸注時，手術當天胰島素常需暫停或調整以避免低血糖；若為第 1 型糖尿病，仍需個別保留基礎胰島素。\n\n【核心考點】\n糖尿病麻醉要同時防低血糖與高血糖併發症；壓力反應會升糖，但不代表 250 mg/dL 可以當作合格控制。胰島素處置需看禁食、葡萄糖輸注與糖尿病型態。",
+      "key_point": "糖尿病圍手術期血糖不應放任到約 250 mg/dL；常用控制目標約 140-180 mg/dL，胰島素需依禁食與輸液調整。",
+      "flashcard_front": "糖尿病麻醉 / 圍手術期血糖",
+      "flashcard_back": "手術壓力會升糖，但 250 mg/dL 偏高；圍手術期常抓 140-180 mg/dL，並依禁食與葡萄糖輸注調整胰島素。",
+      "flashcard_summary": "糖尿病麻醉 / 圍手術期血糖 -> 手術壓力會升糖，但 250 mg/dL 偏高；圍手術期常抓 140-180 mg/dL，並依禁食與葡萄糖輸注調整胰島素。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n止痛藥物的關鍵辨識，是肌肉鬆弛不等於止痛。神經肌肉阻斷劑只能造成骨骼肌鬆弛與不動，沒有止痛、鎮靜或失憶作用，不能拿來當止痛治療。\n\n【選項詳解】\n- A. 正確。類鴉片藥物可用於術後急性疼痛，也可在癌症疼痛或特定慢性疼痛情境中使用。\n- B. 正確。類固醇可透過抗發炎、減少神經根水腫或腫瘤周邊水腫，作為某些疼痛治療的輔助藥。\n- C. 錯誤。神經肌肉阻斷劑阻斷神經肌肉接合處傳導，只讓病人不能動；清醒者仍會感到疼痛與焦慮。\n- D. 正確。Gabapentin、pregabalin、carbamazepine 等抗癲癇藥常用於神經病變疼痛。\n\n【核心考點】\n鎮痛、鎮靜、失憶與肌肉鬆弛是不同藥理效果。肌肉鬆弛劑不能取代止痛藥或麻醉深度。",
+      "key_point": "神經肌肉阻斷劑沒有止痛或鎮靜作用，只造成肌肉麻痺，不能單獨作為止痛治療。",
+      "flashcard_front": "止痛藥物 / 神經肌肉阻斷劑",
+      "flashcard_back": "肌肉鬆弛不等於止痛；neuromuscular blocker 只阻斷運動，病人仍可能有疼痛與意識。",
+      "flashcard_summary": "止痛藥物 / 神經肌肉阻斷劑 -> 肌肉鬆弛不等於止痛；neuromuscular blocker 只阻斷運動，病人仍可能有疼痛與意識。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n急性肝衰竭重症照護的錯誤敘述，是把高血鈉當成換肝禁忌。急性肝衰竭最怕腦水腫與顱內壓上升；高正常到輕度高鈉常是控制腦水腫策略之一。\n\n【選項詳解】\n- A. 正確。歐美急性肝衰竭常見原因之一是 acetaminophen 中毒，需早期辨識並給予 N-acetylcysteine 等處置。\n- B. 大致正確但需看情境。急性肝衰竭感染風險高，早期文獻支持某些預防性抗菌策略可降低感染；現代照護更強調監測培養與有感染或高風險時及早治療。\n- C. 正確。腦水腫與顱內壓升高會造成腦疝，是急性肝衰竭死亡與預後不良的重要指標。\n- D. 錯誤。血鈉維持在約 145-155 mmol/L 常用於降低腦水腫風險；單純高血鈉超過 150 mmol/L 不是肝移植禁忌。\n\n【核心考點】\n急性肝衰竭照護的考點是腦水腫、感染監測與移植評估。高正常或輕度高鈉可作為顱內壓管理工具，不能誤當換肝禁忌。",
+      "key_point": "急性肝衰竭可用高正常至輕度高鈉策略降低腦水腫風險；高血鈉本身不是肝移植禁忌。",
+      "flashcard_front": "急性肝衰竭 / 腦水腫 / 高血鈉",
+      "flashcard_back": "ALF 的腦水腫可用高張鹽水維持血鈉約 145-155 mmol/L；這是顱內壓管理策略，不是換肝禁忌。",
+      "flashcard_summary": "急性肝衰竭 / 腦水腫 / 高血鈉 -> ALF 的腦水腫可用高張鹽水維持血鈉約 145-155 mmol/L；這是顱內壓管理策略，不是換肝禁忌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": [
+        "B 選項關於預防性抗生素的現代建議較保守，已在詳解中保留考題語境並加註情境差異。"
+      ]
+    },
+    {
+      "question_id": "108-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n周邊潰瘍性角膜炎常反映周邊角膜免疫性發炎與血管炎，較常連到 RA、SLE、GPA 等系統性免疫病。多發性硬化症的典型眼部表現是視神經炎，和 PUK 的關聯較弱。\n\n【選項詳解】\n- A. 錯誤。類風濕性關節炎是 PUK 的重要系統性相關疾病，可因免疫複合物與血管炎造成周邊角膜溶解。\n- B. 錯誤。SLE 可有血管炎與免疫性眼表病變，雖不如 RA 典型，仍可能與 PUK 相關。\n- C. 錯誤。韋格納肉芽腫即肉芽腫併多血管炎，會造成壞死性鞏膜炎與 PUK，是高風險關聯疾病。\n- D. 正確。多發性硬化症典型眼部問題是視神經炎，不是周邊角膜潰瘍性溶解，因此較不易併發 PUK。\n\n【核心考點】\nPUK 要聯想到系統性血管炎與結締組織病，尤其 RA 與 GPA。MS 的高頻眼科考點是 optic neuritis，不是 PUK。",
+      "key_point": "周邊潰瘍性角膜炎常與 RA、SLE、GPA 等免疫血管炎相關；多發性硬化症較典型是視神經炎。",
+      "flashcard_front": "PUK / 系統性免疫疾病 / MS",
+      "flashcard_back": "PUK 連到 RA、SLE、GPA；MS 主要連到 optic neuritis，所以較不易併發 PUK。",
+      "flashcard_summary": "PUK / 系統性免疫疾病 / MS -> PUK 連到 RA、SLE、GPA；MS 主要連到 optic neuritis，所以較不易併發 PUK。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n砂眼最具診斷意義的病徵，是輪部濾泡與癒合後留下的 Herbert pits。砂眼由 Chlamydia trachomatis 反覆感染造成結膜濾泡與瘢痕，這組病徵比一般結膜刺激更具特異性。\n\n【選項詳解】\n- A. 正確。Limbal follicles 與 Herbert pits 是砂眼的代表性病徵，尤其 Herbert pits 可視為過去輪部濾泡留下的凹陷瘢痕。\n- B. 錯誤。巨大乳頭較常見於春季角結膜炎、過敏性結膜炎或隱形眼鏡相關反應，不是砂眼最具診斷性的病徵。\n- C. 錯誤。Horner-Trantas dots 是春季角結膜炎的角膜緣嗜酸性球堆積，不是砂眼的典型診斷標誌。\n- D. 錯誤。結膜結石是慢性結膜炎或老化可見的非特異性沉積，診斷砂眼的特異性不足。\n\n【核心考點】\n砂眼的高鑑別病徵是輪部濾泡與 Herbert pits；巨型乳頭、Horner-Trantas dots 和結膜結石都指向其他眼表疾病或非特異變化。",
+      "key_point": "砂眼最具診斷意義的病徵是輪部濾泡與 Herbert pits。",
+      "flashcard_front": "砂眼 trachoma / Herbert pits",
+      "flashcard_back": "Trachoma 由反覆披衣菌感染造成；limbal follicles 與 Herbert pits 是最具診斷意義的病徵。",
+      "flashcard_summary": "砂眼 trachoma / Herbert pits -> Trachoma 由反覆披衣菌感染造成；limbal follicles 與 Herbert pits 是最具診斷意義的病徵。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n急性隅角閉鎖性青光眼較不可能立即看到視神經盤凹陷擴大。急性發作的重點是眼壓急升造成疼痛、紅眼、角膜水腫與半散大固定瞳孔；視神經盤凹陷擴大屬慢性青光眼性視神經病變。\n\n【選項詳解】\n- A. 錯誤。結膜與上鞏膜充血是急性眼壓升高時常見的紅眼表現。\n- B. 錯誤。眼壓急升會讓角膜內皮幫浦失衡，造成角膜霧狀水腫與視力下降。\n- C. 錯誤。虹膜括約肌缺血可造成半放大、反應差的瞳孔，是急性隅角閉鎖典型體徵。\n- D. 正確。視神經盤凹陷擴大通常需要較長時間的青光眼性視神經損傷，急性發作當下較不可能是主要可見表現。\n\n【核心考點】\n急性 angle-closure 要記紅、痛、霧、吐、眼壓高、角膜水腫與 mid-dilated pupil。Cup/disc ratio 擴大偏向慢性視神經損傷。",
+      "key_point": "急性隅角閉鎖以角膜水腫、結膜充血與半散大瞳孔為主；視神經盤凹陷擴大是慢性青光眼表現。",
+      "flashcard_front": "急性隅角閉鎖 / 慢性青光眼凹陷",
+      "flashcard_back": "急性發作常見紅眼、角膜水腫、半散大瞳孔；C/D ratio 擴大多屬慢性青光眼性視神經病變。",
+      "flashcard_summary": "急性隅角閉鎖 / 慢性青光眼凹陷 -> 急性發作常見紅眼、角膜水腫、半散大瞳孔；C/D ratio 擴大多屬慢性青光眼性視神經病變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

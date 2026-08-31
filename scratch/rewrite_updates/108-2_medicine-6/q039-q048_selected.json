@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-6.json",
+  "dataset_id": "108-2_medicine-6",
+  "range": {
+    "start": 39,
+    "end": 48
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n邊緣惡性卵巢腫瘤的診斷界線，是沒有破壞性基質侵犯。Borderline tumor 可有上皮增生、乳突結構、核異型與有絲分裂增加，但一旦侵犯基質就屬浸潤性癌。\n\n【選項詳解】\n- A. 錯誤。乳突狀構造與偽多層反映上皮增生，是邊緣性腫瘤可見特徵。\n- B. 錯誤。細胞核異常可出現在 borderline tumor，表示比良性囊腺瘤更活躍。\n- C. 錯誤。有絲分裂增加也是邊緣性腫瘤相對良性腫瘤更活躍的表現。\n- D. 正確。可見基質侵犯代表已進入浸潤性癌診斷範圍，不符合 borderline tumor 的基本定義。\n\n【核心考點】\n卵巢 borderline tumor 的分界點是沒有 stromal invasion。只要看到破壞性基質侵犯，就不能再稱為單純邊緣性腫瘤。",
+      "key_point": "邊緣性卵巢腫瘤可有異型與分裂增加，但不能有基質侵犯。",
+      "flashcard_front": "Borderline ovarian tumor / stromal invasion",
+      "flashcard_back": "Borderline tumor = epithelial proliferation/atypia without destructive stromal invasion；有 invasion 就是 carcinoma。",
+      "flashcard_summary": "Borderline ovarian tumor / stromal invasion -> Borderline tumor = epithelial proliferation/atypia without destructive stromal invasion；有 invasion 就是 carcinoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n懷孕 10 週胎兒發育最不符合的是 CRL 7 公分。10 週胎兒 CRL 大約 3-4 公分，7 公分較接近更晚週數。\n\n【選項詳解】\n- A. 符合。10 週左右四肢與主要關節已形成，手肘可彎曲屬合理描述。\n- B. 不符合。懷孕 10 週 CRL 約 3-4 公分；7 公分偏大，較接近 13 週左右的大小。\n- C. 符合。橫膈膜在胚胎早期已逐步形成，10 週時說已形成大致合理。\n- D. 符合。心臟基本分隔與主要結構在胚胎期已完成，10 週時心臟結構已可辨識。\n\n【核心考點】\n胎兒週數題要把 10 週和 CRL 數字連起來：10 週約 3-4 cm，12-13 週才接近 6-7 cm。器官形成多在第一孕期早段完成。",
+      "key_point": "懷孕 10 週 CRL 約 3-4 cm，7 cm 對 10 週而言過大。",
+      "flashcard_front": "懷孕 10 週 / CRL / 胎兒發育",
+      "flashcard_back": "10 週 CRL 約 3-4 cm；CRL 7 cm 較像 13 週。四肢關節、橫膈膜與心臟基本結構已形成。",
+      "flashcard_summary": "懷孕 10 週 / CRL / 胎兒發育 -> 10 週 CRL 約 3-4 cm；CRL 7 cm 較像 13 週。四肢關節、橫膈膜與心臟基本結構已形成。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n圖示若為產婦雙腿高度屈曲貼近腹部，用來處理肩難產，最符合 McRoberts maneuver。此法可使薦骨變平、旋轉恥骨聯合，幫助前肩脫困。\n\n【選項詳解】\n- A. 錯誤。Rubin maneuver 是以手伸入陰道對胎兒肩部施壓，使肩帶內收或旋轉，不是單純屈曲產婦大腿。\n- B. 正確。McRoberts maneuver 是肩難產第一線手法之一，將產婦髖關節過度屈曲，使大腿貼近腹部。\n- C. 錯誤。Fundal pressure 會把胎兒肩部壓得更卡，處理肩難產時通常避免使用。\n- D. 錯誤。Woods corkscrew maneuver 是內旋胎兒肩膀的手法，不是圖中腿部姿勢調整。\n\n【核心考點】\n肩難產先做 McRoberts 加恥骨上壓，避免 fundal pressure。內轉手法如 Rubin、Woods 是下一層處置。",
+      "key_point": "McRoberts maneuver 是將產婦大腿屈曲貼腹以處理肩難產的第一線手法。",
+      "flashcard_front": "肩難產 / McRoberts maneuver",
+      "flashcard_back": "McRoberts = maternal hips hyperflexed onto abdomen；肩難產避免 fundal pressure，可加 suprapubic pressure。",
+      "flashcard_summary": "肩難產 / McRoberts maneuver -> McRoberts = maternal hips hyperflexed onto abdomen；肩難產避免 fundal pressure，可加 suprapubic pressure。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n會陰裂傷分級取決於傷及深度，臨床上和修補方式、抗生素與後續追蹤都有關。第四度裂傷最嚴重，已穿過肛門括約肌複合體並延伸到直腸黏膜。\n\n【選項詳解】\n- A. 錯誤。只到陰道黏膜或會陰皮膚屬第一度裂傷，深度最淺。\n- B. 錯誤。傷及外肛門括約肌屬第三度裂傷的一部分，尚未達第四度定義。\n- C. 錯誤。傷及內肛門括約肌也仍在第三度裂傷範圍；第四度需再延伸到直腸黏膜。\n- D. 正確。第四度會陰裂傷是肛門括約肌受損且累及直腸黏膜，等於產道與直腸腔之間的黏膜屏障也被破壞。\n\n【核心考點】\n會陰裂傷分級：一度皮膚/黏膜，二度會陰肌肉，三度肛門括約肌，四度直腸黏膜。三度和四度的分水嶺不是有沒有括約肌受傷，而是有沒有傷到 rectal mucosa。",
+      "key_point": "第四度會陰裂傷代表傷及肛門括約肌並延伸到直腸黏膜。",
+      "flashcard_front": "會陰裂傷分級 / 第四度",
+      "flashcard_back": "1 度皮膚黏膜，2 度會陰肌肉，3 度肛門括約肌，4 度直腸黏膜。",
+      "flashcard_summary": "會陰裂傷分級 / 第四度 -> 1 度皮膚黏膜，2 度會陰肌肉，3 度肛門括約肌，4 度直腸黏膜。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n孕婦只超過預產期 2 天，胎心監測 reactive、無規則宮縮、MVP 3.6 cm 屬可接受羊水量，破水陰性且胎兒估重未達明確剖腹指徵。最適當是門診追蹤觀察。\n\n【選項詳解】\n- A. 正確。胎兒監測與羊水量目前 reassuring，尚未達 42 週或其他立即生產指徵，可安排產檢追蹤與警示症狀回診。\n- B. 錯誤。住院引產可在更晚週數、胎兒監測異常、羊水過少或母胎適應症時考慮；本題目前資料不足以支持立即引產。\n- C. 錯誤。剖腹產需有產科適應症，例如胎兒窘迫、產程問題、胎位異常或估重極高；題幹沒有這些條件。\n- D. 錯誤。破水測試陰性、無感染徵象，沒有給抗生素的理由。\n\n【核心考點】\n過預產期少數天不等於必須立即引產或剖腹。NST reactive 且羊水垂直最大池大於 2 cm 時，可密切追蹤。",
+      "key_point": "預產期後 2 天且 NST reactive、羊水量可接受時，最適當為門診追蹤觀察。",
+      "flashcard_front": "預產期後追蹤 / NST reactive / MVP",
+      "flashcard_back": "Post-date 但未 post-term，NST reactive、MVP 3.6 cm、未破水，可先門診密切追蹤。",
+      "flashcard_summary": "預產期後追蹤 / NST reactive / MVP -> Post-date 但未 post-term，NST reactive、MVP 3.6 cm、未破水，可先門診密切追蹤。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n孕期不建議接種的預防性疫苗是水痘疫苗。水痘疫苗屬活性減毒疫苗，孕期禁用；流感不活化疫苗、破傷風/Tdap 與暴露後狂犬病疫苗則可依適應症施打。\n\n【選項詳解】\n- A. 錯誤。孕婦建議接種不活化流感疫苗，以降低母體重症與新生兒感染風險；禁用的是鼻噴活性減毒流感疫苗。\n- B. 錯誤。狂犬病暴露後風險極高，孕期不是接種禁忌，需依暴露風險處理。\n- C. 正確。水痘疫苗是活性減毒疫苗，懷孕期間不建議施打，通常應延至產後。\n- D. 錯誤。破傷風類毒素或 Tdap 可在孕期依時程或傷口處置需要施打，並非孕期禁忌。\n\n【核心考點】\n孕期疫苗先分活性減毒與不活化/類毒素。水痘與 MMR 屬活性減毒，孕期避免；不活化流感與 Tdap 是常見建議疫苗。",
+      "key_point": "孕期禁用活性減毒疫苗如水痘；不活化流感、Tdap/破傷風與必要時狂犬病疫苗可接種。",
+      "flashcard_front": "孕期疫苗 / 活性減毒 / varicella",
+      "flashcard_back": "Varicella vaccine 是 live attenuated，孕期禁用；IIV influenza 與 Tdap 可於孕期施打。",
+      "flashcard_summary": "孕期疫苗 / 活性減毒 / varicella -> Varicella vaccine 是 live attenuated，孕期禁用；IIV influenza 與 Tdap 可於孕期施打。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nCotton swab test 用來評估用力時尿道角度是否過度改變。考題給的準則是靜止尿道角度大於 30 度或最大用力角度大於 30 度，因此是 or 關係。\n\n【選項詳解】\n- A. 正確。只要 resting urethral angle > 30 degrees 或 maximal straining angle > 30 degrees，即符合題目採用的尿道過度移動準則。\n- B. 錯誤。改成 and 會要求兩項都超過 30 度，條件比題目準則更嚴格。\n- C. 錯誤。把最大用力角度門檻改成 45 度，與本題採用的 30 度界限不符。\n- D. 錯誤。同時使用 and 與 45 度門檻，既改變邏輯也提高界限。\n\n【核心考點】\n尿道過度移動的 Q-tip test 題要看清楚角度門檻與 and/or。此題官方採 30 度，且為 or。",
+      "key_point": "Cotton swab test 診斷尿道過度移動採 resting angle >30 度或 maximal straining angle >30 度。",
+      "flashcard_front": "Cotton swab test / urethral hypermobility",
+      "flashcard_back": "本題準則：resting urethral angle >30 或 maximal straining angle >30；注意是 or，不是 and。",
+      "flashcard_summary": "Cotton swab test / urethral hypermobility -> 本題準則：resting urethral angle >30 或 maximal straining angle >30；注意是 or，不是 and。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\nHPV 型別的錯誤敘述，是把 6、11 型歸為高危險型。HPV 6、11 是低危險型，典型造成尖圭濕疣；高危險型與子宮頸癌最相關的是 16、18，且 E6/E7 具有致癌作用。\n\n【選項詳解】\n- A. 正確。Koilocytosis 是 HPV 感染的典型病理變化，可見核周空暈與核異型。\n- B. 錯誤。第 6 與 11 型屬低危險型，常造成生殖器疣；高危險型主要是 16、18 等。\n- C. 正確。HPV 16 是子宮頸癌與高階癌前病變最常見且最重要的型別之一。\n- D. 正確。E6 會促進 p53 降解，E7 會抑制 Rb 路徑，兩者是高危險 HPV 致癌關鍵蛋白。\n\n【核心考點】\nHPV 型別要分低危險 6/11 與高危險 16/18。病理看到 koilocytosis，分子機轉看 E6-p53、E7-Rb。",
+      "key_point": "HPV 6/11 是低危險型；HPV 16/18 是高危險型，E6/E7 為致癌蛋白。",
+      "flashcard_front": "HPV 型別 / koilocytosis / E6 E7",
+      "flashcard_back": "6/11 低危險造成疣；16/18 高危險造成 CIN/cervical cancer。E6 抑制 p53，E7 抑制 Rb。",
+      "flashcard_summary": "HPV 型別 / koilocytosis / E6 E7 -> 6/11 低危險造成疣；16/18 高危險造成 CIN/cervical cancer。E6 抑制 p53，E7 抑制 Rb。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n現代外陰癌處置不包括對所有病人常規做廣泛根除手術。治療趨勢是個別化與縮小不必要手術範圍，避免所有病人常規接受外陰根除加雙側腹股溝淋巴結廓清。\n\n【選項詳解】\n- A. 包括。外陰癌治療需依腫瘤大小、位置、深度、淋巴結風險與病人狀況個別化。\n- B. 包括。骨盆腔淋巴結清除不是所有病人常規需要；外陰癌主要淋巴引流先到腹股溝股部淋巴結。\n- C. 包括。多顆腹股溝淋巴結陽性代表局部復發與死亡風險高，術後放射線可降低 groin recurrence。\n- D. 不包括。把所有病人都做根除性外陰切除與雙側腹股溝淋巴結廓清是過度治療，會增加傷口、淋巴水腫與性功能併發症。\n\n【核心考點】\n外陰癌不是一律大範圍根除手術；處置強調個別化、適當淋巴結評估與術後放療選擇。看到 routine radical surgery for all 要排除。",
+      "key_point": "外陰癌處置強調個別化，不應對所有病人常規執行根除性外陰切除與雙側腹股溝淋巴結廓清。",
+      "flashcard_front": "外陰癌 / 個別化治療 / 淋巴結",
+      "flashcard_back": "Vulvar cancer 現代處置避免一律 radical vulvectomy + bilateral groin dissection；依風險個別化。",
+      "flashcard_summary": "外陰癌 / 個別化治療 / 淋巴結 -> Vulvar cancer 現代處置避免一律 radical vulvectomy + bilateral groin dissection；依風險個別化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-6_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n妊娠滋養細胞腫瘤中，對化療反應最差的是 PSTT。PSTT 來自中間型滋養細胞，hCG 常較低，對傳統化療敏感度低於絨毛癌與侵襲性葡萄胎，治療常以手術為主。\n\n【選項詳解】\n- A. 錯誤。絨毛膜癌雖可高度惡性與轉移，但多數對化療相當敏感。\n- B. 正確。Placental-site trophoblastic tumor 對化療反應較差，若局限於子宮常以子宮切除為主要治療。\n- C. 錯誤。侵襲性 GTN 通常對 methotrexate、actinomycin D 或多藥化療有良好反應。\n- D. 錯誤。轉移性 GTN 仍常以風險分層後化療為主，反應一般優於 PSTT。\n\n【核心考點】\nGTN 多數化療敏感，但 PSTT 是例外，因生物行為與中間型滋養細胞來源而較不敏感。考最差反應時選 PSTT。",
+      "key_point": "胎盤處滋養細胞腫瘤 PSTT 對化療反應較差，常以手術治療為主。",
+      "flashcard_front": "GTN / PSTT / 化療反應",
+      "flashcard_back": "多數 GTN chemo-sensitive；PSTT 對化療較差，局限病灶常以 hysterectomy 為主。",
+      "flashcard_summary": "GTN / PSTT / 化療反應 -> 多數 GTN chemo-sensitive；PSTT 對化療較差，局限病灶常以 hysterectomy 為主。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-31T21:45:54+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
