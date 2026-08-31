@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n題目問主要作用受體不在細胞膜而在細胞內的藥物。Prednisolone 是 glucocorticoid，通過細胞膜後結合細胞質/核內受體，調控基因轉錄，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Erlotinib 抑制 EGFR tyrosine kinase，EGFR 是細胞膜受體型酪胺酸激酶。\n- B. 錯誤。Metoclopramide 主要拮抗 D2 receptor，也有 5-HT4 促進作用，作用於膜上 GPCR。\n- C. 正確。Prednisolone 是類固醇，受體位於細胞內，藥物進入細胞後調控轉錄。\n- D. 錯誤。Diphenhydramine 拮抗 H1 receptor，H1 是細胞膜上的 GPCR。\n\n【核心考點】\n類固醇、甲狀腺素、維生素 D、retinoids 常考 intracellular/nuclear receptors；多數胜肽與單胺受體在膜上。（標準答案為 C。）",
+      "key_point": "Prednisolone 作用於細胞內 glucocorticoid receptor。",
+      "flashcard_front": "intracellular receptor / prednisolone / glucocorticoid",
+      "flashcard_back": "Prednisolone 為類固醇，進入細胞後結合細胞內受體並調控基因轉錄。",
+      "flashcard_summary": "細胞內受體 -> 類固醇 prednisolone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nMifepristone (RU-486) 是 progesterone receptor antagonist，阻斷黃體素維持子宮內膜與妊娠的作用，常與 prostaglandin analog 合用終止早期妊娠，答案選 D。\n\n【選項詳解】\n- A. 抗糖皮質激素作用確實存在，但墮胎用途的主軸是阻斷 progesterone receptor。\n- B. 雌激素分泌不是 RU-486 的主要靶點；拿 estrogen 下降來解釋懷孕中止不精準。\n- C. PGI2 antagonist 不是這個藥的角色；臨床搭配的是 misoprostol 這類 prostaglandin analog 來促進收縮。\n- D. 阻斷 progesterone 會破壞蛻膜與子宮內膜對妊娠的支持，所以能使早期妊娠無法維持。\n\n【核心考點】\nMifepristone = anti-progesterone；misoprostol = prostaglandin E1 analog，兩者常合用於藥物流產。（標準答案為 D。）",
+      "key_point": "RU-486 墮胎主要靠拮抗 progesterone receptor。",
+      "flashcard_front": "mifepristone / RU-486 / progesterone receptor antagonist",
+      "flashcard_back": "Mifepristone 是 progesterone receptor antagonist，阻斷黃體素維持妊娠的作用。",
+      "flashcard_summary": "RU-486 -> 抗黃體素",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\nChlorothiazide 是 thiazide diuretic，抑制遠曲小管 Na-Cl cotransporter，可降低尿鈣、治療高鈣尿，但可造成高血糖、低血鉀；說會引起高血鉀錯，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Thiazide 抑制 Na+ 與 Cl- 再吸收，增加鈉氯排泄。\n- B. 錯誤。Thiazide 可增加遠曲小管鈣再吸收，降低尿鈣，可用於 idiopathic hypercalciuria。\n- C. 錯誤。Thiazide 可造成高血糖、高尿酸、高脂血症等代謝副作用。\n- D. 正確。Thiazide 會增加遠端鈉送達與醛固酮相關鉀排泄，典型副作用是低血鉀，不是高血鉀。\n\n【核心考點】\nThiazide：抑制 NCC、降尿鈣；副作用 hyperGLUC：hyperGlycemia、hyperLipidemia、hyperUricemia、hyperCalcemia，另有 hypokalemia。（標準答案為 D。）",
+      "key_point": "Chlorothiazide 典型造成低血鉀，不是高血鉀。",
+      "flashcard_front": "thiazide / chlorothiazide / hypokalemia / hypercalciuria",
+      "flashcard_back": "Thiazide 抑制 Na-Cl cotransporter，降低尿鈣；常見低血鉀、高血糖與高尿酸。",
+      "flashcard_summary": "Thiazide -> 低血鉀、降尿鈣",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\nAdenosine 主要活化 A1 receptor，增加 AV node K+ conductance 並降低 Ca2+ influx，使 AV nodal conduction 暫停；它不是 Na+ channel blocker。Amiodarone、flecainide、mexiletine 都有抑制 Na+ channel 的作用，答案選 A。\n\n【選項詳解】\n- A. 正確。Adenosine 作用在 purinergic receptor，主要抑制 AV node conduction，不屬 class I Na+ channel blocker。\n- B. 錯誤。Amiodarone 以 class III K+ channel blockade 為主，但也有 class I Na+ channel blocking 等多重作用。\n- C. 錯誤。Flecainide 是 class IC antiarrhythmic，強力抑制 Na+ channel。\n- D. 錯誤。Mexiletine 是 class IB antiarrhythmic，抑制 Na+ channel，類似口服 lidocaine。\n\n【核心考點】\n抗心律不整：class I 阻 Na+；adenosine 用於 PSVT，作用在 AV node，不是 Na+ channel blocker。（標準答案為 A。）",
+      "key_point": "Adenosine 不抑制 Na+ channel，主要短暫抑制 AV node。",
+      "flashcard_front": "adenosine / antiarrhythmic / sodium channel",
+      "flashcard_back": "Adenosine 活化 A1 receptor 抑制 AV node；flecainide、mexiletine 為 Na+ channel blockers，amiodarone 有多重作用。",
+      "flashcard_summary": "抗心律不整 -> adenosine 非 Na channel blocker",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nNicorandil 兼具 nitrate-like NO donor 與 ATP-sensitive K+ channel opener 作用，可降低細胞內鈣、血管擴張並治療心絞痛。它不是打開 sodium channel，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Nicorandil 有 nitrate-like 作用，可增加 NO/cGMP 訊號，促進血管舒張。\n- B. 正確。Nicorandil 打開的是 KATP channel，不是 sodium channel。\n- C. 錯誤。血管平滑肌超極化與 NO 訊號會降低 intracellular Ca2+，造成血管舒張。\n- D. 錯誤。Nicorandil 可用於心絞痛治療，透過降低前後負荷與冠狀動脈擴張改善供需平衡。\n\n【核心考點】\nNicorandil = nitrate + KATP opener；心絞痛治療，不是 Na+ channel opener。（標準答案為 B。）",
+      "key_point": "Nicorandil 打開 KATP channel，不是 sodium channel。",
+      "flashcard_front": "nicorandil / KATP opener / nitrate",
+      "flashcard_back": "Nicorandil 兼具 NO donor 與 KATP channel opener 作用，可治心絞痛；不是開 sodium channel。",
+      "flashcard_summary": "Nicorandil -> NO + KATP，不是 Na channel",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\nLabetalol 同時阻斷 alpha-1 與 beta receptors，因此在列出的 beta blockers 中 alpha 阻斷作用最明顯。Atenolol 偏 β1，propranolol 與 pindolol 主要是非選擇性 beta blockade，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Atenolol 偏 β1 selective，沒有明顯 alpha receptor blockade。\n- B. 正確。Labetalol 兼具 α1 blockade 與非選擇性 β blockade，可降血壓，也常見於妊娠或急症高血壓情境。\n- C. 錯誤。Propranolol 是非選擇性 β blocker，主要阻斷 β1/β2，不以 alpha 阻斷為特色。\n- D. 錯誤。Pindolol 是具 partial agonist activity 的非選擇性 β blocker，不是 alpha blocker。\n\n【核心考點】\n有 alpha + beta blockade 的代表藥是 labetalol、carvedilol；單純 beta blockers 不要混淆。（標準答案為 B。）",
+      "key_point": "Labetalol 具有明顯 alpha-1 阻斷作用。",
+      "flashcard_front": "labetalol / alpha beta blocker",
+      "flashcard_back": "Labetalol 同時阻斷 α1 與 β receptors；atenolol、propranolol、pindolol 主要是 beta blockers。",
+      "flashcard_summary": "交感受體拮抗劑 -> labetalol 有 alpha blockade",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\nMyasthenia gravis 治療使用周邊作用的 acetylcholinesterase inhibitors，如 pyridostigmine、neostigmine、ambenonium。Physostigmine 可進入中樞，常用於抗膽鹼中毒，不適合作為 MG 治療，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Pyridostigmine 是 MG 長期症狀治療最常用的膽鹼酯酶抑制劑之一。\n- B. 正確。Physostigmine 是三級胺，可穿過血腦障壁，主要用於抗膽鹼中毒；MG 治療不選它。\n- C. 錯誤。Neostigmine 是周邊性膽鹼酯酶抑制劑，可用於 MG 或逆轉非去極化肌鬆。\n- D. 錯誤。Ambenonium 也可用於 MG，屬周邊作用的膽鹼酯酶抑制劑。\n\n【核心考點】\nMG 用 pyridostigmine/neostigmine/ambenonium；physostigmine 進 CNS，考抗膽鹼中毒。（標準答案為 B。）",
+      "key_point": "Physostigmine 不適合用於重症肌無力常規治療。",
+      "flashcard_front": "myasthenia gravis / physostigmine / pyridostigmine",
+      "flashcard_back": "MG 用周邊膽鹼酯酶抑制劑如 pyridostigmine；physostigmine 可進 CNS，常用於抗膽鹼中毒。",
+      "flashcard_summary": "MG 膽鹼酯酶抑制劑 -> 不選 physostigmine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\nOmalizumab 是 anti-IgE monoclonal antibody，可與游離 IgE 結合形成複合體，降低 IgE 與 mast cell/basophil FcεRI 結合，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Mepolizumab 是 anti-IL-5，降低 eosinophil 活性，常用於嗜酸性氣喘。\n- B. 錯誤。Tocilizumab 阻斷 IL-6 receptor，用於類風濕性關節炎、cytokine release syndrome 等。\n- C. 正確。Omalizumab 結合血中 IgE，減少 IgE 介導過敏反應，適用於過敏性氣喘等。\n- D. 錯誤。Efalizumab 曾是 anti-CD11a 藥物，與 IgE 中和無關，且因安全性問題已不常使用。\n\n【核心考點】\n氣喘生物製劑：omalizumab-IgE、mepolizumab/reslizumab-IL-5、dupilumab-IL-4R。（標準答案為 C。）",
+      "key_point": "Omalizumab 是 anti-IgE，可清除血中 IgE 複合體。",
+      "flashcard_front": "omalizumab / anti-IgE / asthma",
+      "flashcard_back": "Omalizumab 結合游離 IgE，降低 mast cell/basophil IgE-mediated activation。",
+      "flashcard_summary": "氣喘 anti-IgE -> omalizumab",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nCOPD 長效 muscarinic receptor antagonist 的代表是 tiotropium。Ipratropium 是短效 SAMA，formoterol 是長效 β2 agonist，答案選 C。\n\n【選項詳解】\n- A. Atropine 不是吸入型 COPD 維持治療常用的長效抗膽鹼選擇，且非專一肺部用藥。\n- B. Ipratropium 屬 SAMA，適合短效支氣管擴張；題目要找的是長效藥。\n- C. Tiotropium 是 LAMA，作用時間長，常作 COPD 維持治療的吸入抗膽鹼藥。\n- D. Formoterol 雖然也是長效支氣管擴張劑，但分類是 LABA，不是 muscarinic antagonist。\n\n【核心考點】\nCOPD 吸入藥：SAMA ipratropium、LAMA tiotropium；LABA formoterol/salmeterol。（標準答案為 C。）",
+      "key_point": "Tiotropium 是長效 muscarinic receptor antagonist。",
+      "flashcard_front": "COPD / LAMA / tiotropium",
+      "flashcard_back": "Tiotropium 是 COPD 用長效抗膽鹼 LAMA；ipratropium 是短效 SAMA，formoterol 是 LABA。",
+      "flashcard_summary": "COPD LAMA -> tiotropium",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\nDiclegis 是 doxylamine 加 pyridoxine 的複方，doxylamine 為第一代 H1 antagonist，常用於妊娠噁心嘔吐。答案選 D。\n\n【選項詳解】\n- A. 錯誤。Ondansetron 是 5-HT3 antagonist，可止吐，但題目指定 H1 receptor 拮抗且適合懷孕，較精準是 Diclegis。\n- B. 錯誤。Ranitidine 是 H2 blocker，主要抑制胃酸，不是 H1 antagonist 止吐藥。\n- C. 錯誤。Tiprolisant/pitolisant 類與 H3 receptor 調節較相關，不是妊娠噁心嘔吐的標準 H1 拮抗藥。\n- D. 正確。Diclegis 含 doxylamine（H1 antagonist）與 pyridoxine，是妊娠噁心嘔吐常用選擇。\n\n【核心考點】\nPregnancy nausea/vomiting 常考 doxylamine-pyridoxine；H1 antagonist 不是 H2 blocker 或 5-HT3 blocker。（標準答案為 D。）",
+      "key_point": "Diclegis 含 doxylamine，透過 H1 拮抗治療妊娠噁心嘔吐。",
+      "flashcard_front": "Diclegis / doxylamine / pregnancy nausea",
+      "flashcard_back": "Diclegis = doxylamine + pyridoxine；doxylamine 是 H1 antagonist，可用於妊娠噁心嘔吐。",
+      "flashcard_summary": "妊娠噁心嘔吐 -> Diclegis/doxylamine-pyridoxine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\nUV-C 能量最大但大多被臭氧層吸收，通常無法大量到達地表；對室外地表生物主要造成傷害的是 UV-B 與 UV-A，尤其 UV-B 與皮膚癌相關。因此 A 最不恰當。\n\n【選項詳解】\n- A. 正確。UV-C 雖能量最高，但幾乎被大氣臭氧吸收，不能說它對地表生物傷害最大。\n- B. 錯誤。UV-A 波長最長、能量較低，可穿透較深並到達地表最多。\n- C. 錯誤。UV-B 可造成 DNA damage，過度暴露會增加皮膚癌風險。\n- D. 錯誤。臭氧層稀薄會讓更多 UV 進入低層大氣，促進光化學反應並影響對流層臭氧形成。\n\n【核心考點】\n紫外線能量 UV-C > UV-B > UV-A；但到達地表量 UV-A 最多，UV-C 多被臭氧層擋住。（標準答案為 A。）",
+      "key_point": "UV-C 能量最大但多被臭氧層吸收，非地表主要紫外線傷害來源。",
+      "flashcard_front": "UV-A UV-B UV-C / ozone layer / skin cancer",
+      "flashcard_back": "UV-A 波長最長且到地表最多；UV-B 與皮膚癌相關；UV-C 能量高但多被臭氧吸收。",
+      "flashcard_summary": "UV 題 -> UV-C 能量高但不到地表",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n職業毒性物質進入人體最常見途徑是吸入、皮膚吸收與食入。Infiltration 不是職業暴露中常用的主要進入途徑分類，答案選 D。\n\n【選項詳解】\n- A. 錯誤。吸入是職場氣體、蒸氣、粉塵、煙霧暴露最重要且常見的途徑之一。\n- B. 錯誤。許多脂溶性化學物、農藥與溶劑可經皮膚吸收進入人體。\n- C. 錯誤。食入雖常因手口接觸或污染食物而發生，仍是職業衛生會列入的暴露途徑。\n- D. 正確。滲入不是典型職業毒物進入人體的主要分類；若指注射或傷口進入，也遠少於吸入與皮膚吸收。\n\n【核心考點】\n職業毒物暴露途徑記 inhalation、skin absorption、ingestion；少數才是針扎/傷口進入。（標準答案為 D。）",
+      "key_point": "職業毒物最常見進入途徑為吸入與皮膚吸收；infiltration 不常見。",
+      "flashcard_front": "occupational toxic exposure / inhalation / skin absorption",
+      "flashcard_back": "職業毒物主要經吸入、皮膚吸收、食入進入人體；infiltration 不是常見分類。",
+      "flashcard_summary": "職業暴露途徑 -> 吸入、皮膚、食入",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nPM2.5 的名稱即代表 aerodynamic diameter 小於或等於 2.5 micrometers 的細懸浮微粒，因此答案選 A。\n\n【選項詳解】\n- A. 正確。PM2.5 指粒徑約小於 2.5 微米的空氣微粒，可深入細支氣管與肺泡。\n- B. 錯誤。2.5 奈米太小，不是 PM2.5 定義的單位。\n- C. 錯誤。2.5 公分是肉眼可見尺度，完全不符合懸浮微粒定義。\n- D. 錯誤。2.5 公釐也遠大於細懸浮微粒，不是 PM2.5。\n\n【核心考點】\nPM2.5 = particulate matter with diameter <= 2.5 micrometers；單位是微米，不是奈米、毫米或公分。（標準答案為 A。）",
+      "key_point": "PM2.5 指粒徑小於 2.5 微米的細懸浮微粒。",
+      "flashcard_front": "PM2.5 / 2.5 micrometers",
+      "flashcard_back": "PM2.5 是粒徑小於或等於 2.5 微米的細懸浮微粒。",
+      "flashcard_summary": "PM2.5 -> 2.5 微米",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n社會資本與集體效能強調社區層次的人際互信、社會凝聚與非正式社會控制。居民個人知識屬個人層次因素，不是此理論的核心社會環境概念，答案選 B。\n\n【選項詳解】\n- A. 錯誤。非正式社會控制是集體效能的重要構面，指社區成員共同維持秩序與互相監督的能力。\n- B. 正確。居民個人知識偏向個體教育或認知，不是社會資本/集體效能理論的群體層次核心構面。\n- C. 錯誤。社會凝聚力是社會資本的重要元素，代表社群連結與共同感。\n- D. 錯誤。人們互信程度是社會資本的典型構成，會影響群體合作與健康。\n\n【核心考點】\n社會資本是群體關係資源：trust、social cohesion、reciprocity；集體效能加上 informal social control。（標準答案為 B。）",
+      "key_point": "社會資本/集體效能重點在群體互信、凝聚與非正式社會控制，不是個人知識。",
+      "flashcard_front": "social capital / collective efficacy / individual knowledge",
+      "flashcard_back": "社會資本包含互信與社會凝聚；集體效能包含非正式社會控制。個人知識不是核心社會資本構面。",
+      "flashcard_summary": "社會資本 -> 群體互信凝聚，不是個人知識",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n社會經濟改善與教育提升通常會提高健康識能、壽命與對醫療保健服務品質的期待，不會讓醫療需求單純降低。人口老化與社會異質性也會增加醫療與公衛需求，答案選 A。\n\n【選項詳解】\n- A. 正確。教育與所得提升通常使民眾更重視預防、篩檢與醫療品質，醫療保健需求不一定降低，說法過度簡化。\n- B. 錯誤。人口老化會增加慢性病、長照、復健與醫療照護需求。\n- C. 錯誤。地區社經差異擴大會讓健康不平等與衛生問題更複雜。\n- D. 錯誤。婦女就業率提高時，兒童照護與預防保健確實更常需要學校、托育與社區系統配合。\n\n【核心考點】\n社會變遷常使公共衛生需求更複雜：老化、社經差異、家庭結構改變與服務期待提高。（標準答案為 A。）",
+      "key_point": "教育與所得提升不代表醫療保健服務需求降低。",
+      "flashcard_front": "social change / health care demand / aging",
+      "flashcard_back": "人口老化與社會經濟變遷常增加醫療保健需求與複雜度；教育所得提升不等於需求降低。",
+      "flashcard_summary": "社會變遷 -> 醫療需求更複雜，不是降低",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n藥物濫用預防不能只靠單純知識傳遞或情感性教育；有效介入通常需要生活技能、同儕/家庭/社區策略與持續支持。社會控制、藥物治療與減害策略皆為常見概念，答案選 A。\n\n【選項詳解】\n- A. 正確。單獨講授知識或情感訴求效果有限，不能說只靠這些就能有效延遲或降低青少年非法藥物使用。\n- B. 錯誤。司法體系、藥檢與反毒政策都屬社會控制或結構層面的預防管道。\n- C. 錯誤。物質使用疾患可用替代療法、拮抗劑或厭惡療法等藥物策略，例如 methadone、naltrexone、disulfiram。\n- D. 錯誤。提供乾淨針具屬 harm reduction，可降低 HIV、HCV 等血液傳染與其他傷害。\n\n【核心考點】\n藥物濫用預防要分需求降低、供給控制、治療與 harm reduction；單純知識宣導效果有限。（標準答案為 A。）",
+      "key_point": "青少年藥物濫用預防不能只靠單純知識或情感教育。",
+      "flashcard_front": "substance abuse prevention / harm reduction / education",
+      "flashcard_back": "有效藥物濫用預防需多層次介入；乾淨針具是減害，methadone/naltrexone 是治療策略。",
+      "flashcard_summary": "藥物濫用預防 -> 單純宣導不足",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n物質使用疾患的自然史起點通常是暴露與使用，而非已經進入濫用或依賴才開始。降低暴露與可近性可預防，診斷需看長期型態，答案選 A。\n\n【選項詳解】\n- A. 正確。自然史的起始應從物質暴露、初次使用與風險因子開始；濫用或依賴已是發展後段。\n- B. 錯誤。降低物質暴露機會與可近性可降低使用與後續疾患風險。\n- C. 錯誤。過量等傷害可藉由降低可近性、改變使用情境或治療介入降低風險。\n- D. 錯誤。物質使用疾患診斷看一段時間內的失控使用、功能損害與持續使用模式，不以單次使用判定。\n\n【核心考點】\n物質使用疾患自然史：暴露/初用 -> 規律使用 -> 問題使用 -> 疾患與傷害；預防可在前端降低暴露與可近性。（標準答案為 A。）",
+      "key_point": "物質使用疾患自然史起點不是濫用或依賴，而是暴露與初次使用。",
+      "flashcard_front": "substance use natural history / exposure / dependence",
+      "flashcard_back": "物質使用疾患從暴露與初次使用開始發展，濫用或依賴不是自然史起點。",
+      "flashcard_summary": "物質使用自然史 -> 起點是暴露/初用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n一般稅、社會保險費、指定用途稅都具有某種風險分攤與所得重分配功能。醫療儲蓄帳戶較偏個人帳戶累積與自我支付，社會互助與所得重分配最小，答案選 D。\n\n【選項詳解】\n- A. 錯誤。一般稅可透過累進稅制與公共支出達到較強的所得重分配與社會互助。\n- B. 錯誤。社會保險費透過共同基金與風險分攤，仍具社會互助性。\n- C. 錯誤。指定用途稅雖有特定用途限制，但仍可由社會共同籌資並支持公共服務。\n- D. 正確。醫療儲蓄帳戶多與個人累積、個人支出連動，對高低所得間重分配與社會互助效果較小。\n\n【核心考點】\n財源制度重分配強度通常是稅收/社會保險較高，個人醫療儲蓄帳戶較低。（標準答案為 D。）",
+      "key_point": "醫療儲蓄帳戶的所得重分配與社會互助作用最小。",
+      "flashcard_front": "health financing / medical saving account / redistribution",
+      "flashcard_back": "醫療儲蓄帳戶偏個人自我儲蓄支付，風險分攤與所得重分配較弱。",
+      "flashcard_summary": "醫療財源制度 -> MSA 重分配最小",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題官方全給分，代表四個選項都被接受。醫院市場行為常可用不同目標函數解釋，包括利潤、效用、服務量或價值等模型；既然官方 correct_answers 為 A、B、C、D，作答時以全給分狀態記憶即可。\n\n【選項詳解】\n- A. 全給分。價值極大化也可被視為解釋醫院行為的模型之一；官方未排除此選項。\n- B. 全給分。利潤極大化是市場行為常見模型，尤其用於營利組織分析；官方也給分。\n- C. 全給分。效用極大化常用來描述非營利醫院或管理者目標，官方也接受。\n- D. 全給分。服務量極大化亦可作為醫院行為模型之一；本題官方採全給分處理。\n\n【核心考點】\n遇到官方全給分題，不要硬把四個選項分出唯一錯誤；詳解重點是說明全給分原因與各模型可能成立的語境。（官方全給分。）",
+      "key_point": "第 49 題官方全給分，四個醫院市場行為模型選項皆接受。",
+      "flashcard_front": "hospital market behavior / all credit",
+      "flashcard_back": "醫院行為可用利潤、效用、服務量、價值等模型解釋；本題官方全給分。",
+      "flashcard_summary": "醫院市場行為模型 -> 官方全給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n基本 ADLs 包括洗澡、穿衣、如廁、移位、大小便控制與進食。洗衣屬 instrumental ADLs，需較高層次生活功能，不是基本 ADLs，答案選 C。\n\n【選項詳解】\n- A. 錯誤。洗澡是 Katz ADL 等量表常列的基本日常生活活動。\n- B. 錯誤。穿衣是基本 ADL 項目之一，用來評估個人自理能力。\n- C. 正確。洗衣屬 IADL，例如做家事、購物、理財、交通與用藥管理，不屬基本 ADL。\n- D. 錯誤。進食是基本 ADL 的核心項目之一。\n\n【核心考點】\nADL 是基本自理；IADL 是較複雜的工具性活動。洗衣、購物、煮飯、理財通常歸 IADL。（標準答案為 C。）",
+      "key_point": "洗衣屬 IADL，不是基本 ADL。",
+      "flashcard_front": "ADL / IADL / laundry",
+      "flashcard_back": "ADL 包括洗澡、穿衣、進食等基本自理；洗衣是 IADL。",
+      "flashcard_summary": "ADL vs IADL -> 洗衣是 IADL",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

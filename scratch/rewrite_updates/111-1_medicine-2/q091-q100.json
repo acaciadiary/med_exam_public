@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\nARDS 最常見原因包含敗血症與肺炎；在選項中肺炎是最常見且最直接的誘因。Aspiration、外傷、輸血反應也可造成 ARDS，但頻率較低，答案選 D。\n\n【選項詳解】\n- A. 錯誤。吸入胃內容物可造成化學性肺炎與 ARDS，但不是此選項組合中最常見原因。\n- B. 錯誤。外傷可透過 shock、脂肪栓塞或大量輸血等引發 ARDS，但不是最常見。\n- C. 錯誤。輸血反應如 TRALI 可造成急性肺損傷，但整體上不如肺炎常見。\n- D. 正確。肺炎是 ARDS 最常見直接肺部原因之一，也是此題最適合答案。\n\n【核心考點】\nARDS 常見誘因：sepsis、pneumonia、aspiration、trauma、pancreatitis、TRALI；選項中 pneumonia 最常見。（標準答案為 D。）",
+      "key_point": "選項中引起 ARDS 最常見的原因是肺炎。",
+      "flashcard_front": "ARDS / pneumonia / aspiration / TRALI",
+      "flashcard_back": "ARDS 可由肺炎、敗血症、吸入、外傷、輸血反應等引起；選項中肺炎最常見。",
+      "flashcard_summary": "ARDS 原因 -> 肺炎常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\nH. pylori 與慢性胃炎、消化性潰瘍、胃腺癌、胃 MALT lymphoma 關係密切。胃底腺息肉 fundic gland polyp 常與 PPI 使用或 FAP 相關，和 H. pylori 最無直接關係，答案選 A。\n\n【選項詳解】\n- A. 正確。Fundic gland polyp 通常與 PPI 使用或家族性腺瘤性瘜肉症相關，和 H. pylori 關聯最弱。\n- B. 錯誤。H. pylori 是慢性消化性潰瘍的重要原因，尤其十二指腸潰瘍與部分胃潰瘍。\n- C. 錯誤。H. pylori 慢性胃炎可增加 intestinal-type gastric adenocarcinoma 風險。\n- D. 錯誤。胃 MALT lymphoma 與 H. pylori 關係強，早期病灶可能因根除 H. pylori 而緩解。\n\n【核心考點】\nH. pylori：peptic ulcer、gastric carcinoma、MALT lymphoma；fundic gland polyp 多連 PPI/FAP。（標準答案為 A。）",
+      "key_point": "胃底腺息肉與 H. pylori 最無直接關係。",
+      "flashcard_front": "H. pylori / fundic gland polyp / MALT lymphoma",
+      "flashcard_back": "H. pylori 與消化性潰瘍、胃癌、MALT lymphoma 相關；fundic gland polyp 多與 PPI 或 FAP 相關。",
+      "flashcard_summary": "H. pylori 相關疾病 -> 不含典型 fundic gland polyp",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\nCrohn disease 是全壁性發炎，可有 skip lesions；ulcerative colitis 從直腸連續向近端侵犯，通常不跳躍。說 skip lesion 是 UC 特徵錯，答案選 C。\n\n【選項詳解】\n- A. 區域性腸炎這個別名用在 Crohn disease，常見侵犯末端迴腸，敘述本身沒錯。\n- B. 全壁性發炎也是 Crohn 的特色，能解釋狹窄、瘻管與 fissure。\n- C. Skip lesions 不是 UC 的型態；UC 典型從直腸開始連續往近端延伸，所以此句錯。\n- D. 長期、廣泛 UC 會增加 colorectal cancer 風險，這是需要追蹤監測的原因。\n\n【核心考點】\nCrohn：skip lesion、transmural、任何 GI；UC：continuous from rectum、mucosal/submucosal、大腸癌風險。（標準答案為 C。）",
+      "key_point": "Skip lesion 是 Crohn disease 特徵，不是 ulcerative colitis。",
+      "flashcard_front": "IBD / Crohn / ulcerative colitis / skip lesion",
+      "flashcard_back": "Crohn disease 有 skip lesions 與全壁發炎；ulcerative colitis 多為直腸起始連續性黏膜發炎。",
+      "flashcard_summary": "IBD 分辨 -> skip lesion 屬 Crohn",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n酒後上腹痛放射背部、amylase/lipase 上升與低血鈣，符合急性胰臟炎。嚴重急性胰臟炎可有脂肪壞死、皂化造成低血鈣，以及出血性壞死，答案選 A。\n\n【選項詳解】\n- A. 正確。急性胰臟炎時消化酶活化造成胰臟自我消化，可見 hemorrhagic necrosis 與脂肪壞死。\n- B. 錯誤。心臟廣泛性壞死不會解釋酒後上腹痛放射背部與胰臟酵素上升。\n- C. 錯誤。胃潰瘍穿孔可造成急腹症與腹膜炎，但不典型造成 amylase/lipase 明顯上升與低血鈣。\n- D. 錯誤。肝臟大塊性壞死會以肝衰竭、凝血異常與轉氨酶大幅上升為主，不是此題表現。\n\n【核心考點】\n急性胰臟炎：酒精/膽石、上腹痛放背、amylase/lipase 上升、脂肪壞死皂化低血鈣、出血性壞死。（標準答案為 A。）",
+      "key_point": "急性胰臟炎可出現胰臟出血性壞死與低血鈣。",
+      "flashcard_front": "acute pancreatitis / hemorrhagic necrosis / hypocalcemia",
+      "flashcard_back": "酒精後上腹痛放射背部加 amylase/lipase 上升提示急性胰臟炎，可有出血性壞死與脂肪皂化低血鈣。",
+      "flashcard_summary": "急性胰臟炎 -> 出血性壞死、低血鈣",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\nDense deposit disease 是 alternative complement pathway 調控異常，常因 C3 nephritic factor 穩定 C3 convertase，導致 C3、factor B、properdin 等 alternative pathway 成分消耗。Classical pathway 的 C1 通常維持正常，答案選 B。\n\n【選項詳解】\n- A. C3 是被持續活化與消耗的核心成分，DDD 常見低 C3。\n- B. C1 代表 classical pathway 起始端；DDD 主問題在 alternative pathway，所以 C1 較可能維持正常。\n- C. Factor B 參與 alternative pathway C3 convertase，路徑過度活化時可能被消耗。\n- D. Properdin 會穩定 alternative pathway 的 C3 convertase，因此同樣屬受影響路徑。\n\n【核心考點】\nDense deposit disease/C3 glomerulopathy：alternative pathway dysregulation，低 C3，C1/C4 相對正常。（標準答案為 B。）",
+      "key_point": "Dense deposit disease 主要消耗 alternative pathway，C1 通常正常。",
+      "flashcard_front": "dense deposit disease / alternative complement pathway / C1",
+      "flashcard_back": "DDD 常因 alternative pathway 過度活化造成 C3 下降；classical pathway 的 C1 通常維持正常。",
+      "flashcard_summary": "DDD -> alternative pathway，C1 正常",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n典型 HUS 常發生在兒童腹瀉後，由 Shiga toxin-producing E. coli，尤其 O157:H7 引起。毒素傷害內皮造成微血管病變、血小板低下與急性腎損傷，答案選 B。\n\n【選項詳解】\n- A. 錯誤。A 群鏈球菌可造成咽炎、猩紅熱、風濕熱與腎絲球腎炎，但不是典型 HUS 最常見病原。\n- B. 正確。E. coli O157:H7 產 Shiga-like toxin，是典型腹瀉後 HUS 最常見原因。\n- C. 錯誤。Hib 可造成腦膜炎、會厭炎、肺炎等，不是典型 HUS 主因。\n- D. 錯誤。Viridans streptococci 常與心內膜炎、齲齒相關，不是 HUS 典型病原。\n\n【核心考點】\nTypical HUS = shiga toxin E. coli O157:H7、bloody diarrhea、microangiopathic hemolytic anemia、thrombocytopenia、AKI。（標準答案為 B。）",
+      "key_point": "典型 HUS 最常見病原是產 Shiga toxin 的 E. coli O157:H7。",
+      "flashcard_front": "typical HUS / E. coli O157:H7 / Shiga toxin",
+      "flashcard_back": "典型腹瀉後 HUS 多由 Shiga toxin-producing E. coli O157:H7 引起，造成 MAHA、血小板低下與 AKI。",
+      "flashcard_summary": "典型 HUS -> E. coli O157:H7",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n副甲狀腺癌與腺瘤在細胞異型、核仁、壞死或有絲分裂上可能重疊；最可靠診斷依據是明確侵犯或轉移。選項中腫瘤轉移最能確診 carcinoma，答案選 A。\n\n【選項詳解】\n- A. 正確。遠端轉移或明確局部侵犯是區分副甲狀腺癌與腺瘤最可靠的證據。\n- B. 錯誤。頻繁有絲分裂可增加惡性疑慮，但單獨不如轉移可靠。\n- C. 錯誤。大核仁屬細胞學 atypia，可能提示惡性，但不是最可靠條件。\n- D. 錯誤。腫瘤壞死可見於惡性腫瘤，但副甲狀腺癌診斷仍以侵犯或轉移最具決定性。\n\n【核心考點】\n內分泌腫瘤常不能只靠 atypia 判斷良惡性；parathyroid carcinoma 最可靠是 invasion/metastasis。（標準答案為 A。）",
+      "key_point": "診斷副甲狀腺癌最可靠條件是侵犯或轉移。",
+      "flashcard_front": "parathyroid carcinoma / metastasis / adenoma",
+      "flashcard_back": "副甲狀腺癌與腺瘤細胞形態可能相似，最可靠診斷依據是局部侵犯或轉移。",
+      "flashcard_summary": "副甲狀腺癌 -> 轉移/侵犯最可靠",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n非典型乳管增生 atypical ductal hyperplasia 會明顯增加日後乳癌風險，約為一般女性 4 到 5 倍。非增生性囊腫通常不顯著增加風險，台灣篩檢主要是乳房攝影，纖維腺瘤不典型以乳頭分泌物表現，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Non-proliferative breast cyst 一般不會增加或只極低幅度增加乳癌風險，不是 2.5 倍。\n- B. 正確。Atypical ductal hyperplasia 屬高風險良性病變，日後乳癌風險約增加 4-5 倍。\n- C. 錯誤。台灣乳癌篩檢主要工具是 mammography，超音波可作輔助但不是主要篩檢工具。\n- D. 錯誤。Fibroadenoma 常為可移動、界線清楚腫塊；乳頭分泌物較常考 intraductal papilloma。\n\n【核心考點】\n乳房良性病變風險：non-proliferative 低，proliferative without atypia 中等，atypical hyperplasia 高。（標準答案為 B。）",
+      "key_point": "非典型乳管增生會使乳癌風險約增加 4-5 倍。",
+      "flashcard_front": "atypical ductal hyperplasia / breast cancer risk / mammography",
+      "flashcard_back": "ADH 是高風險乳房病變，乳癌風險約 4-5 倍；篩檢主要靠乳房攝影。",
+      "flashcard_summary": "ADH -> 乳癌風險 4-5 倍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n子宮頸癌最常見為鱗狀上皮癌，其次腺癌；多數與高危險 HPV 相關。腺鱗癌與神經內分泌癌通常較侵襲、預後較差，不是發展到侵襲癌時間較長於鱗狀上皮癌，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Squamous cell carcinoma 仍是子宮頸癌最常見組織型。\n- B. 錯誤。Adenocarcinoma 是第二常見組織型，比例隨篩檢與流行病學變化而相對增加。\n- C. 錯誤。高危險 HPV 與多種子宮頸癌組織型相關，包括腺癌、腺鱗癌與部分神經內分泌癌。\n- D. 正確。腺鱗癌與神經內分泌癌通常較具侵襲性，不能說一般從原位癌發展到侵襲癌較慢。\n\n【核心考點】\n子宮頸癌：最常見 SCC，其次 adenocarcinoma；high-risk HPV 是核心危險因子，神經內分泌癌通常侵襲性高。（標準答案為 D。）",
+      "key_point": "腺鱗癌與神經內分泌癌不應被描述為比鱗狀上皮癌進展更慢。",
+      "flashcard_front": "cervical carcinoma / squamous / adenocarcinoma / neuroendocrine",
+      "flashcard_back": "子宮頸癌最常見為鱗狀上皮癌，其次腺癌；腺鱗癌與神經內分泌癌多較侵襲。",
+      "flashcard_summary": "子宮頸癌組織型 -> SCC 最常見；D 進展慢說法錯",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n停經後婦女雙側實質性卵巢腫瘤，顯微鏡若見 signet-ring cells，典型為 Krukenberg tumor，也就是胃腸道癌轉移至卵巢，常雙側，答案選 B。\n\n【選項詳解】\n- A. 錯誤。卵巢類癌屬性索/生殖細胞或轉移相關神經內分泌腫瘤，可分泌 serotonin，但不以雙側實質性 signet-ring 轉移為典型。\n- B. 正確。Krukenberg tumor 是含黏液 signet-ring cells 的轉移性卵巢腫瘤，常來自胃癌且常雙側。\n- C. 錯誤。Brenner tumor 由 transitional-type epithelium 組成，常為良性單側卵巢腫瘤。\n- D. 錯誤。Struma ovarii 主要由甲狀腺組織構成，屬 monodermal teratoma，不是典型雙側轉移性 signet-ring 腫瘤。\n\n【核心考點】\nKrukenberg tumor = metastatic mucin-producing signet-ring cell carcinoma to ovary，常胃來源、雙側。（標準答案為 B。）",
+      "key_point": "雙側實質性卵巢腫瘤合併 signet-ring cells 要想到 Krukenberg tumor。",
+      "flashcard_front": "Krukenberg tumor / ovary / signet-ring cells",
+      "flashcard_back": "Krukenberg tumor 是轉移至卵巢的黏液性 signet-ring cell carcinoma，常來自胃且常雙側。",
+      "flashcard_summary": "雙側卵巢 + signet-ring cells -> Krukenberg tumor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

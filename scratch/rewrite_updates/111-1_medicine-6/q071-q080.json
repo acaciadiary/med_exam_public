@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "dataset_id": "111-1_medicine-6",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-6_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n失用症是已學會的動作在沒有主要肌力、感覺或理解障礙可解釋時，出現動作計畫或順序執行障礙。它多見於左半球病灶，不是由聽覺認知受損造成。\n\n【選項詳解】\n- A. 正確。Apraxia 指原先會做的動作或工具使用能力變差，重點是動作計畫失常。\n- B. 正確。左大腦半球，特別是頂葉與額頂網絡，和 praxis 關係密切。\n- C. 正確。常見表現包括動作順序錯誤、模仿困難或工具使用步驟不對。\n- D. 錯誤。聽覺認知受損會影響聽懂指令，但不是 apraxia 的主要病因；失用症是動作計畫問題。\n\n【核心考點】\nApraxia 是動作計畫障礙，不是聽覺理解障礙；常和左半球病灶相關。",
+      "key_point": "失用症是動作計畫障礙，非聽覺認知受損造成。",
+      "flashcard_front": "apraxia / left hemisphere / motor planning",
+      "flashcard_back": "失用症患者可能有肌力可動，但無法正確計畫或排序已學會動作。",
+      "flashcard_summary": "失用症 -> 動作計畫障礙",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n成人側頸部囊性腫塊在題目 CT 圖像中官方判讀為腮裂囊腫。Branchial cleft cyst 常見於胸鎖乳突肌前緣附近的側頸部、邊界清楚的囊性病灶。\n\n【選項詳解】\n- A. 錯誤。Cystic hygroma 多見於兒童，常為多房性淋巴管畸形，位置與年齡不如本題典型。\n- B. 錯誤。血管瘤通常有血管性增強或血流特徵，不是單純側頸囊腫的典型官方判讀。\n- C. 錯誤。壞死淋巴結在成人側頸囊性病灶需要鑑別，尤其要排除轉移，但本題影像官方答案指向腮裂囊腫。\n- D. 正確。腮裂囊腫是側頸部常見先天性囊腫，可在成人因感染或腫大才被發現。\n\n【核心考點】\n側頸囊性腫塊考 branchial cleft cyst，但成人患者臨床仍要和壞死轉移淋巴結鑑別。",
+      "key_point": "側頸部邊界清楚囊性腫塊可為腮裂囊腫。",
+      "flashcard_front": "branchial cleft cyst / lateral neck mass / necrotic lymph node",
+      "flashcard_back": "腮裂囊腫常位於側頸部，成人囊性頸部腫塊仍需鑑別轉移淋巴結。",
+      "flashcard_summary": "側頸囊腫 -> 腮裂囊腫",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n突發劇烈頭痛且 CT 顯示蜘蛛網膜下腔出血，下一步要找出出血原因，常以 CTA 評估是否有顱內動脈瘤或血管病灶。\n\n【選項詳解】\n- A. 正確。CTA 可快速評估顱內血管，尋找破裂動脈瘤等 SAH 病因，對後續夾閉或栓塞治療很重要。\n- B. 錯誤。腰椎穿刺可在 CT 陰性但仍懷疑 SAH 時輔助診斷是否出血，不能用來確定出血原因。\n- C. 錯誤。非外傷性 SAH 最常見原因是顱內動脈瘤破裂，不是惡性腫瘤出血。\n- D. 錯誤。SAH 可併發急性或延遲性水腦、血管痙攣與再出血，不能說不會有水腦。\n\n【核心考點】\nSAH 已由 CT 看出後，重點是用 CTA/血管攝影找動脈瘤等病因。",
+      "key_point": "蜘蛛網膜下腔出血可安排 CTA 找出出血病因。",
+      "flashcard_front": "subarachnoid hemorrhage / CTA / aneurysm / hydrocephalus",
+      "flashcard_back": "SAH 常由動脈瘤破裂造成，CT 確認後需血管影像找病因。",
+      "flashcard_summary": "SAH -> CTA 找病因",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n中風後數月在癱瘓側髖部腫脹，DVT 檢查陰性，X 光出現異常骨化，最符合異位性骨化。它常發生於腦傷、脊髓損傷或中風後的大關節周圍。\n\n【選項詳解】\n- A. 錯誤。骨肉瘤是原發惡性骨腫瘤，通常不會以中風後癱瘓側髖部短期腫脹和關節周圍骨化作為典型表現。\n- B. 正確。Heterotopic ossification 常在神經損傷後數週到數月出現，造成關節周圍腫脹、熱、疼痛與活動受限。\n- C. 錯誤。軟骨肉瘤是惡性腫瘤，和中風後關節周圍新生骨化的臨床脈絡不符。\n- D. 錯誤。結核性肉芽腫通常有感染、慢性骨關節破壞或全身線索，不是本題最可能診斷。\n\n【核心考點】\n中風或脊髓損傷後關節周圍腫脹加 X 光骨化，要想到 heterotopic ossification。",
+      "key_point": "中風後髖部腫脹與 X 光骨化最可能為異位性骨化。",
+      "flashcard_front": "heterotopic ossification / stroke rehabilitation / hip swelling",
+      "flashcard_back": "神經損傷後數月可在髖、肘等關節周圍出現異位性骨化。",
+      "flashcard_summary": "中風後髖腫脹 -> 異位性骨化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n典型 Guillain-Barre syndrome 診斷的核心必要條件是進行性肢體無力與深部肌腱反射降低或消失。四個選項中最必要的是無神經反射。\n\n【選項詳解】\n- A. 錯誤。GBS 常在數天到 4 週內進展，但「幾天內惡化」不是每個典型病例的必要條件。\n- B. 錯誤。自律神經異常常見且重要，但不是診斷必要條件。\n- C. 錯誤。神經傳導檢查可支持診斷與分類，但早期可能尚不典型，也不是臨床必要條件。\n- D. 正確。Areflexia 或明顯低反射是典型 GBS 診斷必要條件之一，搭配進行性肢體無力最關鍵。\n\n【核心考點】\nGBS 診斷必要條件抓進行性無力與反射降低/消失；自律神經與電生理是支持或風險評估。",
+      "key_point": "典型 GBS 必要條件包含無反射或低反射。",
+      "flashcard_front": "Guillain-Barre syndrome / areflexia / progressive weakness",
+      "flashcard_back": "GBS 典型表現是進行性肢體無力合併深部肌腱反射下降或消失。",
+      "flashcard_summary": "GBS -> areflexia 必要",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n困難插管評估看口咽可視度、張口、下巴到舌骨/甲狀軟骨距離與頸部活動。Mallampati class III 表示張口伸舌時軟顎與懸雍垂可視度差，插管可能較困難。\n\n【選項詳解】\n- A. 正確。Mallampati III 代表口咽空間視野較差，是困難氣道的風險指標之一。\n- B. 錯誤。下巴到舌骨超過三指幅通常代表空間足夠，較不會造成插管困難。\n- C. 錯誤。嘴巴可打開超過三指幅代表張口良好，有利於喉鏡操作。\n- D. 錯誤。活動式假牙可取下或有時協助面罩密合，本身不是比 Mallampati III 更直接的困難插管指標。\n\n【核心考點】\n困難氣道看到 Mallampati III/IV、張口小、頦舌骨距離短才要警覺。",
+      "key_point": "Mallampati class III 可能導致氣管插管困難。",
+      "flashcard_front": "difficult airway / Mallampati class III / mouth opening",
+      "flashcard_back": "Mallampati 分級越高，口咽視野越差，插管困難風險越高。",
+      "flashcard_summary": "困難氣道 -> Mallampati III",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n生產後 18 小時大量出血仍屬 primary postpartum hemorrhage。PPH 初期 hemoglobin 可能尚未立即下降；uterine atony 最常見，第一線 uterotonic 是 oxytocin。\n\n【選項詳解】\n- A. 錯誤。次發性 PPH 通常指產後 24 小時後到數週內出血；18 小時仍屬早期/原發性 PPH。\n- B. 錯誤。急性大量出血早期 Hb 可能尚未反映實際失血量，不能用沒有下降排除嚴重出血。\n- C. 正確。子宮收縮無力是 PPH 最常見原因，oxytocin 是第一線促子宮收縮藥物。\n- D. 錯誤。超音波可協助評估胎盤或妊娠組織殘留、血塊與子宮狀態，不能說沒有幫助。\n\n【核心考點】\nPPH 先記 24 小時內是 primary，uterine atony 第一線用 oxytocin，Hb 早期可能低估失血。",
+      "key_point": "子宮收縮無力造成 PPH 時，oxytocin 是第一線用藥。",
+      "flashcard_front": "postpartum hemorrhage / uterine atony / oxytocin / primary PPH",
+      "flashcard_back": "產後 18 小時出血屬原發性 PPH；急性出血時 Hb 可延遲下降。",
+      "flashcard_summary": "PPH -> uterine atony 第一線 oxytocin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n此題依 111 年考試時的法規脈絡，未滿 20 歲且未婚者施行人工流產需法定代理人同意；偽造同意書不能替代合法同意，因此醫師應先請她取得父母同意後再處理。\n\n【選項詳解】\n- A. 錯誤。即使病人理解能力看似足夠，題目考的是當時未成年人施行人工流產的法定同意要求。\n- B. 錯誤。擔心她去不安全處所不能讓醫師跳過法定代理人同意；仍應提供諮詢與安全轉介資訊。\n- C. 錯誤。直接請她找別的醫師沒有解決合法同意與照護責任，也不符合適當醫療處置。\n- D. 正確。依題目年度脈絡，應先不進行人工流產，請她取得父母或法定代理人同意後再施行。\n\n【核心考點】\n法規題要依考試年度保存官方答案；111 年脈絡下未滿 20 歲未婚人工流產需法定代理人同意。",
+      "key_point": "111 年考題脈絡下，未滿 20 歲未婚人工流產需父母或法定代理人同意。",
+      "flashcard_front": "induced abortion / minor consent / legal representative / Taiwan law",
+      "flashcard_back": "偽造父母同意書無效；依 111 年考題脈絡，需取得法定代理人同意後才能施行人工流產。",
+      "flashcard_summary": "未成年人人工流產 -> 依 111 年脈絡需法定代理人同意",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": [
+        "法規已隨民法成年年齡於 112 年 1 月 1 日下修至 18 歲而可能影響現行判讀；此處保留 111 年官方答案脈絡。"
+      ]
+    },
+    {
+      "question_id": "111-1_medicine-6_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n當病人面對多種治療而請醫師提出較積極建議時，最大利益原則是以病人的整體利益為核心，包含醫療效益、風險、生活品質與病人價值。\n\n【選項詳解】\n- A. 錯誤。健保財務或制度利益可作資源考量，但不是醫師替個別病人建議治療時的最大利益原則。\n- B. 正確。最大利益原則指向病人的最大利益，是行善原則在臨床決策中的核心。\n- C. 錯誤。醫師的方便、收入或偏好不能凌駕病人利益，否則會產生利益衝突。\n- D. 錯誤。醫院營運利益不是臨床建議的倫理核心，醫師需以病人利益優先。\n\n【核心考點】\n最大利益原則是病人最大利益，不是健保、醫師或醫院利益。",
+      "key_point": "醫療倫理中的最大利益原則是指病人的最大利益。",
+      "flashcard_front": "best interest principle / medical ethics / beneficence",
+      "flashcard_back": "醫師給建議時應以病人利益、風險效益與病人價值為中心。",
+      "flashcard_summary": "最大利益原則 -> 病人的最大利益",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n醫師發現疑似家庭暴力，依法有通報義務；即使病人擔心隱私或家庭關係，醫師仍應以病人安全與法定責任為優先，立即通報主管或保護系統。\n\n【選項詳解】\n- A. 錯誤。隱私重要，但遇疑似家庭暴力有法定通報義務，不能因病人要求就完全不通報。\n- B. 正確。為保護病人安全，醫事人員應立即通報相關單位，並提供安全評估與支持。\n- C. 錯誤。請別人通報不能取代醫師自身的專業責任；重點是確實、即時依法通報。\n- D. 錯誤。把加害者叫來可能增加病人風險，也不是家庭暴力處理的適當第一步。\n\n【核心考點】\n家庭暴力疑似案件屬法定通報；安全優先，不可只以隱私為由不通報。",
+      "key_point": "醫師發現疑似家庭暴力應立即通報。",
+      "flashcard_front": "domestic violence / mandatory reporting / patient safety",
+      "flashcard_back": "疑似家暴時，醫事人員需依法通報並重視被害人安全。",
+      "flashcard_summary": "疑似家暴 -> 醫師法定通報",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    }
+  ]
+}

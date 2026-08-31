@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nThiopental 是 barbiturate 類靜脈全身麻醉劑，脂溶性高、起效快，但因迅速再分布到肌肉與脂肪，單次給藥作用時間短。答案選 B。\n\n【選項詳解】\n- A. 再分布會讓單次給藥迅速退效，而非延長成長效麻醉；長效說法方向相反。\n- B. 脂溶性高使藥物很快通過血腦障壁，靜脈給藥後可快速誘導麻醉。\n- C. 低脂溶性不對；thiopental 恰好因脂溶性高才有快速中樞作用，臨床以靜脈誘導為主。\n- D. 肝代謝不是快速產生活性代謝物；本題短效重點是從腦部再分布到周邊組織。\n\n【核心考點】\nThiopental：barbiturate、脂溶性高、rapid onset、short duration due to redistribution。（標準答案為 B。）",
+      "key_point": "Thiopental 是速效型靜脈麻醉藥，單次作用短來自再分布。",
+      "flashcard_front": "thiopental / rapid onset / redistribution",
+      "flashcard_back": "Thiopental 脂溶性高、起效快，單次作用因再分布而短暫。",
+      "flashcard_summary": "Thiopental -> rapid onset，redistribution 終止作用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n慢性 paraquat 暴露與氧化壓力、多巴胺神經元傷害相關，流行病學上與 Parkinson disease 風險增加最相關，答案選 A。\n\n【選項詳解】\n- A. 正確。Paraquat 結構與 MPP+ 類似，可造成氧化壓力，常被拿來連結帕金森氏症風險。\n- B. 錯誤。阿茲海默症以 amyloid beta、tau 與認知退化為主，和 paraquat 的經典毒理關聯不如 Parkinson disease。\n- C. 錯誤。ALS 與運動神經元退化相關，但 paraquat 題目的標準連結是 Parkinsonism。\n- D. 錯誤。亨丁頓舞蹈症是 CAG repeat 擴增造成的遺傳性基底核疾病，不是 paraquat 慢性暴露的典型後果。\n\n【核心考點】\nParaquat/農藥暴露常考 Parkinson disease，機轉與 oxidative stress、dopaminergic neuron injury 有關。（標準答案為 A。）",
+      "key_point": "長期 paraquat 暴露最常與帕金森氏症相關。",
+      "flashcard_front": "paraquat / Parkinson disease / oxidative stress",
+      "flashcard_back": "慢性 paraquat 暴露與氧化壓力、多巴胺神經元傷害相關，和 Parkinson disease 風險最相關。",
+      "flashcard_summary": "Paraquat 暴露 -> Parkinson disease",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\nCanakinumab 阻斷 IL-1β，tocilizumab 阻斷 IL-6 receptor，ustekinumab 阻斷 IL-12/23 p40；etanercept 是可溶性 TNF receptor fusion protein，阻斷 TNF-α，不是 interleukin，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Canakinumab 是 anti-IL-1β monoclonal antibody，作用於 interleukin pathway。\n- B. 正確。Etanercept 結合並中和 TNF-α，屬 TNF inhibitor，不是阻斷 interleukin 功能。\n- C. 錯誤。Tocilizumab 阻斷 IL-6 receptor，屬抗 interleukin 訊號藥物。\n- D. 錯誤。Ustekinumab 阻斷 IL-12/IL-23 共用 p40 subunit，仍是 interleukin 相關。\n\n【核心考點】\n生物製劑配對：canakinumab-IL-1β、tocilizumab-IL-6R、ustekinumab-IL-12/23、etanercept-TNF。（標準答案為 B。）",
+      "key_point": "Etanercept 阻斷 TNF，不是 interleukin。",
+      "flashcard_front": "etanercept / TNF / interleukin blockers",
+      "flashcard_back": "Canakinumab 抗 IL-1β，tocilizumab 抗 IL-6R，ustekinumab 抗 IL-12/23；etanercept 是 TNF inhibitor。",
+      "flashcard_summary": "抗發炎生物製劑 -> etanercept 阻斷 TNF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nVancomycin 抗藥常來自 D-Ala-D-Ala 改成 D-Ala-D-Lac，使藥物失去結合力。Telavancin 可對部分 vancomycin-resistant 或耐受革蘭陽性菌有作用；dalbavancin 對 VRE 尤其 VanA 型 enterococci 通常效果不足，因此 D 錯。\n\n【選項詳解】\n- A. 錯誤。Vancomycin 抗藥的核心是細胞壁前驅物標的改變，導致與 peptidoglycan precursor 結合能力下降。\n- B. 錯誤。對 penicillin 抗藥肺炎鏈球菌嚴重感染，可用 vancomycin 搭配第三代 cephalosporin 如 cefotaxime/ceftriaxone。\n- C. 錯誤。Telavancin 是 lipoglycopeptide，對多種革蘭陽性菌有效，可涵蓋部分 vancomycin-resistant 或耐受情境，依題目語境為可接受敘述。\n- D. 正確。Dalbavancin 對 vancomycin-resistant enterococci，特別 VanA 型，並非可靠治療選擇；不能概括說可治療 VRE。\n\n【核心考點】\nVancomycin 抗藥：D-Ala-D-Ala -> D-Ala-D-Lac；VRE 治療不能把 dalbavancin 當標準答案，常需依菌種與 VanA/VanB 判斷。（標準答案為 D。）",
+      "key_point": "Dalbavancin 不是治療 vancomycin-resistant enterococci 的可靠標準選擇。",
+      "flashcard_front": "vancomycin resistance / D-Ala-D-Lac / dalbavancin",
+      "flashcard_back": "Vancomycin 抗藥因標的改變而失去結合；dalbavancin 對 VRE 尤其 VanA 型不可靠。",
+      "flashcard_summary": "Vancomycin 抗藥 -> D-Ala-D-Lac；dalbavancin 非 VRE 標準",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\nBusulfan 是 alkylating agent，作用於 DNA，常用於骨髓移植前 conditioning 或慢性骨髓性疾病相關情境，不是常用乳癌治療藥。抗藥性可與 glutathione S-transferase 增加相關，常見副作用包含腸胃不適，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Busulfan 可烷化 DNA，造成交聯與細胞毒性，抑制癌細胞增生。\n- B. 正確。Busulfan 與 cyclophosphamide 都屬 alkylating agents，但 busulfan 不是乳癌常用治療藥；cyclophosphamide 才常見於乳癌方案。\n- C. 錯誤。Glutathione S-transferase 可增加藥物解毒與清除，可能造成 busulfan 抗藥或暴露量改變。\n- D. 錯誤。噁心、嘔吐是許多烷化劑常見副作用，busulfan 也可出現腸胃不適。\n\n【核心考點】\nBusulfan 是 DNA alkylating agent，常記骨髓抑制/移植 conditioning；不要把它當乳癌常用藥。（標準答案為 B。）",
+      "key_point": "Busulfan 屬烷化劑，但不是常用於治療乳癌的代表藥。",
+      "flashcard_front": "busulfan / alkylating agent / breast cancer",
+      "flashcard_back": "Busulfan 烷化 DNA，常用於骨髓移植 conditioning；不是乳癌常用治療藥。",
+      "flashcard_summary": "Busulfan -> alkylating agent，非乳癌常用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nTrimethoprim 對細菌 dihydrofolate reductase 具有較高選擇性，常與 sulfamethoxazole 合用。Pyrimethamine 和 methotrexate 也抑制 DHFR，但分別偏寄生蟲與哺乳類/腫瘤細胞用途，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Sulfamethoxazole 抑制 dihydropteroate synthase，阻斷 PABA 進入葉酸合成，不是 DHFR。\n- B. 正確。Trimethoprim 選擇性抑制細菌 DHFR，使 tetrahydrofolate 合成下降。\n- C. 錯誤。Pyrimethamine 抑制原蟲 DHFR，常用於 toxoplasmosis 或 malaria 相關治療，不是對細菌 DHFR 最具專一性的選項。\n- D. 錯誤。Methotrexate 抑制人類 DHFR，用於癌症、自體免疫疾病與異位妊娠等，不是細菌選擇性最高。\n\n【核心考點】\nTMP-SMX：SMX 抑制 dihydropteroate synthase，TMP 抑制 bacterial DHFR。（標準答案為 B。）",
+      "key_point": "Trimethoprim 選擇性抑制細菌 DHFR。",
+      "flashcard_front": "trimethoprim / bacterial DHFR / TMP-SMX",
+      "flashcard_back": "Sulfamethoxazole 抑制 dihydropteroate synthase；trimethoprim 抑制細菌 DHFR。",
+      "flashcard_summary": "葉酸代謝藥 -> TMP 抑制細菌 DHFR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nDiphenhydramine 是第一代 H1 antagonist，具抗膽鹼作用，可用於急性 dystonia、藥物誘發 extrapyramidal symptoms 的緩解。答案選 C。\n\n【選項詳解】\n- A. 錯誤。Famotidine 是 H2 blocker，主要降低胃酸，不用於錐體外症狀。\n- B. 錯誤。Haloperidol 是 D2 antagonist，本身常造成 EPS，不是緩解 EPS 的 H1 拮抗劑。\n- C. 正確。Diphenhydramine 是第一代 H1 blocker，能穿過血腦障壁且具抗膽鹼作用，可治療急性肌張力不全等 EPS。\n- D. 錯誤。Cetirizine 是第二代 H1 blocker，較少中樞與抗膽鹼作用，不是治療藥物誘發 EPS 的典型選擇。\n\n【核心考點】\n藥物誘發急性 dystonia 可用 benztropine 或 diphenhydramine；第一代 H1 blocker 有中樞抗膽鹼效果。（標準答案為 C。）",
+      "key_point": "Diphenhydramine 是第一代 H1 拮抗劑，可緩解急性 EPS。",
+      "flashcard_front": "diphenhydramine / H1 antagonist / extrapyramidal symptoms",
+      "flashcard_back": "Diphenhydramine 有中樞抗膽鹼作用，可用於急性 dystonia 等藥物誘發 EPS。",
+      "flashcard_summary": "EPS 治療 -> diphenhydramine 或 benztropine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n血栓溶解治療的目標是活化 plasminogen 生成 plasmin；但 plasmin 本身在血中會被快速抑制，不能直接全身靜脈注射作為有效血栓溶解藥。答案選 C。\n\n【選項詳解】\n- A. 抗原性是 streptokinase 的罩門，因來源接近鏈球菌蛋白，過敏反應比 t-PA 常見。\n- B. 這句是在描述 streptokinase 的活化方式：先和 plasminogen 成複合物，再促進 plasmin 形成。\n- C. 直接注射 plasmin 會在血中被 alpha-2 antiplasmin 快速中和，也缺乏血栓局部選擇性，因此是錯誤敘述。\n- D. Fibrin-bound plasminogen 是 t-PA 較偏好的目標，這也是它較具血栓選擇性的理由。\n\n【核心考點】\nThrombolytics 活化 plasminogen，而不是直接打 plasmin；t-PA 較 fibrin-specific，streptokinase 較易過敏。（標準答案為 C。）",
+      "key_point": "Plasmin 不能直接全身靜脈注射作為有效血栓溶解治療。",
+      "flashcard_front": "thrombolytics / plasminogen / plasmin / t-PA",
+      "flashcard_back": "血栓溶解藥活化 plasminogen 產生 plasmin；直接注射 plasmin 會被快速中和。",
+      "flashcard_summary": "血栓溶解 -> 活化 plasminogen，不直接注射 plasmin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nFibrates 如 gemfibrozil 活化 PPAR-α，上調 lipoprotein lipase 與 apoA，增加脂肪酸氧化並降低 VLDL/TG，答案選 A。\n\n【選項詳解】\n- A. 正確。Gemfibrozil 是 fibrate，活化 PPAR-α，最主要降低 triglycerides/VLDL。\n- B. 錯誤。Simvastatin 抑制 HMG-CoA reductase，主要降低 LDL。\n- C. 錯誤。Colestipol 是 bile acid sequestrant，阻斷腸道膽酸再吸收以降低 LDL。\n- D. 錯誤。Ezetimibe 抑制 NPC1L1，降低小腸膽固醇吸收。\n\n【核心考點】\n降血脂藥機轉：fibrate-PPARα-TG；statin-HMG-CoA reductase-LDL；ezetimibe-NPC1L1；bile acid resin-膽酸再吸收。（標準答案為 A。）",
+      "key_point": "Gemfibrozil 活化 PPAR-α，增加 LPL 並降低 VLDL/TG。",
+      "flashcard_front": "gemfibrozil / PPAR-alpha / LPL / VLDL",
+      "flashcard_back": "Fibrates 活化 PPAR-α，增加 LPL 與脂肪酸氧化，降低 VLDL/TG。",
+      "flashcard_summary": "Fibrate -> PPARα -> 降 TG/VLDL",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n病人甲狀腺切除後呈 hypothyroidism，應補充 levothyroxine；上呼吸道症狀可用 dextromethorphan 或 acetaminophen。Methimazole 抑制甲狀腺素合成，會加重甲狀腺低下，不適合，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Levothyroxine 是 T4 補充，用於甲狀腺切除後或 hypothyroidism。\n- B. 錯誤。Dextromethorphan 是止咳藥，對甲狀腺低下本身不是禁忌重點。\n- C. 正確。Methimazole 抑制 thyroid peroxidase，減少甲狀腺素合成，適用 hyperthyroidism，不適合已經 hypothyroid 的病人。\n- D. 錯誤。Acetaminophen 可退燒止痛，輕微上呼吸道感染時可用，與加重甲狀腺低下無直接關係。\n\n【核心考點】\nMethimazole/PTU 治 hyperthyroidism；levothyroxine 治 hypothyroidism。先看病人是甲狀腺素過多還是不足。（標準答案為 C。）",
+      "key_point": "Hypothyroidism 病人不適合使用 methimazole。",
+      "flashcard_front": "hypothyroidism / methimazole / levothyroxine",
+      "flashcard_back": "Methimazole 抑制甲狀腺素合成，治療 hyperthyroidism；甲狀腺切除後 hypothyroidism 應用 levothyroxine。",
+      "flashcard_summary": "甲狀腺低下 -> 補 T4，避免 methimazole",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

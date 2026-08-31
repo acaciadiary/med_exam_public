@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "dataset_id": "111-1_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n35 週妊娠高血壓且胎兒生理評估 10 分，表示目前胎兒狀況良好；若無嚴重特徵，通常採期待處置與規則監測，避免未必要的早產。\n\n【選項詳解】\n- A. 正確。35 週、BPP 10 分且未描述嚴重母胎狀況時，可繼續觀察並定期每週做胎兒生理評估。\n- B. 錯誤。每天 BPP 過度密集，題目未顯示胎兒窘迫或病況快速惡化。\n- C. 錯誤。35 週催生會增加早產相關風險；胎兒評估滿分時不需因擔心窘迫立即引產。\n- D. 錯誤。當日剖腹產需要明確母胎急症或產科適應症，本題沒有胎兒窘迫證據。\n\n【核心考點】\n妊娠高血壓未滿 37 週且母胎穩定時，以期待處置和規則胎兒監測為主。",
+      "key_point": "35 週妊娠高血壓且 BPP 10 分可每週追蹤觀察。",
+      "flashcard_front": "gestational hypertension / biophysical profile / expectant management",
+      "flashcard_back": "35 週妊娠高血壓、胎兒評估良好時通常不急著引產或剖腹。",
+      "flashcard_summary": "妊娠高血壓 35 週 + BPP 10 -> 每週追蹤",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n題目問何者不是剖腹產適應症。胎兒窘迫、產程遲滯與前置胎盤可成為剖腹產理由；GBS 陽性通常是產時抗生素預防新生兒感染，不是剖腹產指徵。\n\n【選項詳解】\n- A. 錯誤。胎兒窘迫若無法快速經陰道生產，可能需要緊急剖腹產。\n- B. 錯誤。產程遲滯或難產在處置失敗時可成為剖腹產適應症。\n- C. 正確。陰道 GBS 篩檢陽性以產時給 penicillin 類抗生素預防為主，不能單獨作為剖腹產理由。\n- D. 錯誤。前置胎盤若覆蓋或接近子宮頸內口，陰道生產會有大出血風險，常需剖腹產。\n\n【核心考點】\nGBS 陽性處理是產時抗生素，不是剖腹產；剖腹產要有胎兒、產程或胎盤等適應症。",
+      "key_point": "GBS 篩檢陽性不是剖腹產適應症。",
+      "flashcard_front": "cesarean indication / group B Streptococcus / placenta previa",
+      "flashcard_back": "胎兒窘迫、產程遲滯、前置胎盤可需剖腹；GBS 陽性給產時抗生素即可。",
+      "flashcard_summary": "剖腹產適應症 -> GBS 陽性不是",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\nACOG 2017 將產後大出血重點定義為產後 24 小時內累積出血量達 1000 mL 以上，或伴隨低血容量症狀/徵象的出血；四個選項中以 1000 mL 最符合。\n\n【選項詳解】\n- A. 錯誤。500 mL 是舊式陰道生產出血量門檻，容易低估或混淆，非 2017 ACOG 的主要統一定義。\n- B. 正確。產後出血超過 1000 mL 是新版定義的重要量化門檻。\n- C. 錯誤。血比容下降可反映失血，但 3% 不是此題所問的 ACOG 定義核心。\n- D. 錯誤。心跳上升可提示血容量不足，但單純增加 20 bpm 不是產後大出血定義。\n\n【核心考點】\nACOG 2017 PPH 定義抓 1000 mL 或低血容量症狀，不再只背陰道產 500 mL。",
+      "key_point": "2017 ACOG 產後大出血定義以出血超過 1000 mL 為核心。",
+      "flashcard_front": "postpartum hemorrhage / ACOG 2017 / 1000 mL",
+      "flashcard_back": "產後大出血新版定義重點是累積出血 1000 mL 以上或伴隨低血容量徵象。",
+      "flashcard_summary": "ACOG 2017 PPH -> 1000 mL",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n題目問誘發產後大出血的子宮相關因素何者錯誤。子宮過度擴張、產程異常與鹵化吸入麻醉藥都會造成 uterine atony；雙角子宮不是這組典型子宮收縮無力因子。\n\n【選項詳解】\n- A. 正確。多胞胎或羊水過多會讓子宮過度擴張，產後較不易有效收縮，增加出血風險。\n- B. 正確。產程遲滯或延長會造成子宮肌疲乏，是子宮收縮無力與 PPH 的常見風險。\n- C. 錯誤。雙角子宮屬子宮形態異常，但在本題列舉的 uterine atony 常見誘因中不是典型答案。\n- D. 正確。Halogenated inhalational anesthetics 會鬆弛子宮平滑肌，可能降低產後子宮收縮而增加出血。\n\n【核心考點】\n產後大出血的 uterine factor 常見於子宮過度擴張、產程延長與麻醉藥造成子宮收縮差。",
+      "key_point": "PPH 子宮相關因素包括過度擴張、產程遲滯與鹵化麻醉藥造成子宮收縮無力。",
+      "flashcard_front": "postpartum hemorrhage / uterine atony / halogenated anesthetics",
+      "flashcard_back": "子宮收縮無力的風險因子包含多胞胎、羊水過多、產程遲滯與吸入性麻醉藥。",
+      "flashcard_summary": "PPH uterine factor -> 雙角子宮不是典型收縮無力誘因",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n絨毛膜取樣可較早做胎兒遺傳診斷，通常在懷孕 10 到 13 週進行；10 週前做 CVS 會增加肢體缺陷等併發症風險，因此 D 錯。\n\n【選項詳解】\n- A. 正確。有家族遺傳疾病時，CVS 可比羊膜穿刺更早取得胎盤絨毛做染色體或基因診斷。\n- B. 正確。CVS 可經腹部或經子宮頸/陰道途徑進行，依胎盤位置與操作者經驗選擇。\n- C. 正確。CVS 看似總流產率較高，部分來自較早孕本身自然流產背景；校正後程序相關風險可接近羊膜穿刺。\n- D. 錯誤。懷孕 10 週前 CVS 併發症較高，尤其和肢體缺陷風險相關，不會因更早做而更安全準確。\n\n【核心考點】\nCVS 的考點是早期診斷但不要早於 10 週；常用時間約 10-13 週。",
+      "key_point": "絨毛膜取樣通常在 10-13 週，10 週前併發症較高。",
+      "flashcard_front": "chorionic villus sampling / CVS timing / limb defects",
+      "flashcard_back": "CVS 可經腹或經陰道途徑取得絨毛，但太早做會增加併發症。",
+      "flashcard_summary": "CVS -> 不應在 10 週前施行",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n足月臀位約 3-4%，frank breech 是較適合考慮陰道產的姿勢。前胎剖腹產會增加評估複雜度，但不是所有情況下的絕對禁忌症。\n\n【選項詳解】\n- A. 正確。臀位在足月時約占 3-4%，比早產週數少見。\n- B. 正確。Frank breech 因臀部先露且雙髖屈曲、雙膝伸展，通常比 footling breech 更適合嚴格篩選下陰道產。\n- C. 正確。羊水量異常會影響胎位轉正與胎兒活動，是臀位相關危險因子之一。\n- D. 錯誤。前胎剖腹產需謹慎評估子宮疤痕與生產風險，但不能一概列為臀位陰道產的絕對禁忌。\n\n【核心考點】\n臀位陰道產要嚴格選案；frank breech 較合適，前胎剖腹產不是絕對禁忌這種絕對句要小心。",
+      "key_point": "前胎剖腹產不是單胞胎臀位陰道產的絕對禁忌。",
+      "flashcard_front": "breech delivery / frank breech / previous cesarean",
+      "flashcard_back": "單胞胎臀位陰道產需選擇適當病例；frank breech 較可考慮。",
+      "flashcard_summary": "臀位陰道產 -> 前胎剖腹產非絕對禁忌",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nHAPO 研究顯示母體血糖升高與胎兒過大、剖腹產、胎兒高胰島素狀態等不良結果呈連續相關。新生兒問題是低血糖風險，而不是高血糖。\n\n【選項詳解】\n- A. 正確。母體高血糖會使胎兒高胰島素與生長增加，出生體重超過第 90 百分位風險上升。\n- B. 正確。胎兒過大與產科併發症會增加 primary cesarean delivery 的機率。\n- C. 錯誤。新生兒出生後離開母體高血糖環境，但胰島素仍高，典型風險是 neonatal hypoglycemia，不是高血糖。\n- D. 正確。臍帶血 C-peptide 高代表胎兒胰島素分泌增加，是 HAPO 關注的不良代謝結果之一。\n\n【核心考點】\nHAPO 的胎兒代謝重點是母體高血糖造成胎兒高胰島素，出生後容易低血糖。",
+      "key_point": "HAPO 研究相關的是新生兒低血糖風險，不是高血糖。",
+      "flashcard_front": "HAPO study / maternal hyperglycemia / neonatal hypoglycemia / C-peptide",
+      "flashcard_back": "母體血糖越高，巨嬰、剖腹產與胎兒高 C-peptide 風險上升；新生兒常擔心低血糖。",
+      "flashcard_summary": "HAPO -> 新生兒低血糖而非高血糖",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n嚴重子癇前症用 magnesium sulfate 預防痙攣，主要經腎臟排除。題目病人腎功能與尿量正常，因此不用因肝功能上升而減 loading 或 maintenance dose，通常持續到產後 24 小時。\n\n【選項詳解】\n- A. 錯誤。Loading dose 不因單純肝功能異常減半；鎂離子劑量調整重點在腎功能、尿量、反射與呼吸。\n- B. 錯誤。維持劑量也不因肝功能上升 3 倍自動減半，腎功能正常且尿量足夠可照標準監測使用。\n- C. 正確。硫酸鎂預防子癇常持續到生產後 24 小時，期間監測深部肌腱反射、呼吸與尿量。\n- D. 錯誤。治療濃度下硫酸鎂不是以心毒性為特徵；中毒時才可能出現呼吸抑制、反射消失與心傳導問題。\n\n【核心考點】\nMgSO4 劑量安全監測看腎功能、尿量、反射與呼吸；嚴重子癇前症常用到產後 24 小時。",
+      "key_point": "嚴重子癇前症用硫酸鎂通常持續至產後 24 小時，腎功能正常不因肝功能異常減半。",
+      "flashcard_front": "severe preeclampsia / magnesium sulfate / postpartum 24 hours",
+      "flashcard_back": "MgSO4 主要經腎排除，監測尿量、反射與呼吸；腎功能正常可用標準維持劑量。",
+      "flashcard_summary": "硫酸鎂 -> 腎功能正常時持續到產後 24 小時",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\nTTTS 發生於單絨毛膜雙胞胎胎盤血管吻合不平衡，最重要的是深部 arterio-venous anastomosis，造成一胎供血、另一胎受血。\n\n【選項詳解】\n- A. 錯誤。帆狀臍帶插入可與血管前置或胎兒風險相關，但不是 TTTS 的主要血管吻合機轉。\n- B. 錯誤。動脈-動脈吻合多為表淺且雙向，反而可能部分平衡壓力，不是造成 TTTS 的主要單向交換。\n- C. 錯誤。靜脈-靜脈吻合也是表淺吻合，非 TTTS 的主要深部病灶。\n- D. 正確。動脈-靜脈吻合通常是深部、單向流動，會造成 donor 與 recipient 之間慢性輸血不平衡。\n\n【核心考點】\nTTTS 的核心是單絨毛膜胎盤深部 AV anastomosis 造成血流不平衡。",
+      "key_point": "TTTS 主要由胎盤動脈-靜脈吻合造成。",
+      "flashcard_front": "twin-twin transfusion syndrome / arteriovenous anastomosis / monochorionic twins",
+      "flashcard_back": "單絨毛膜雙胞胎的深部 AV 吻合會讓供血胎與受血胎形成 TTTS。",
+      "flashcard_summary": "TTTS -> 深部動脈靜脈吻合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n腹腔鏡氣腹壓力過高會增加腹內壓與 CO2 吸收，造成低血壓、hypercarbia，少見但重要的 CO2 embolus 也要警覺。高血糖不是這個機轉下最典型的直接併發症。\n\n【選項詳解】\n- A. 錯誤。高腹壓壓迫下腔靜脈會減少靜脈回流，因此可能造成 hypotension。\n- B. 錯誤。CO2 氣腹可增加二氧化碳吸收，通氣不足時會導致 hypercarbia。\n- C. 錯誤。建立氣腹時若 CO2 進入血管，可造成 carbon dioxide embolus，雖少見但屬已知併發症。\n- D. 正確。Hyperglycemia 不是腹內壓超過 20 mmHg 的典型直接併發症，和 CO2 氣腹生理效應不如其他選項直接。\n\n【核心考點】\n腹腔鏡高氣腹壓的考點是靜脈回流下降、CO2 吸收與栓塞風險，不是血糖上升。",
+      "key_point": "腹腔鏡高腹壓常見低血壓與 hypercarbia，hyperglycemia 不典型。",
+      "flashcard_front": "laparoscopy / pneumoperitoneum / hypercarbia / CO2 embolism",
+      "flashcard_back": "CO2 氣腹壓力太高會減少回心血量並增加 CO2 吸收。",
+      "flashcard_summary": "腹腔鏡高氣腹壓 -> hyperglycemia 最不典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "dataset_id": "111-1_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n噪音性聽損的典型聽力圖是在高頻區出現 notch，最常見於 3 到 6 kHz，常以 4 kHz 最明顯。\n\n【選項詳解】\n- A. 錯誤。0.25 到 0.5 kHz 屬低頻，較不是噪音性永久聽損的典型最重區域。\n- B. 錯誤。1 到 2 kHz 是語音重要頻率，但噪音性聽損初期常不在此最明顯。\n- C. 正確。3 到 6 kHz 尤其 4 kHz notch 是噪音暴露造成永久性聽力損失的經典位置。\n- D. 錯誤。大於 8 kHz 可受年齡與其他因素影響，但國考典型噪音 notch 不是以此作為最佳答案。\n\n【核心考點】\n噪音性聽損常抓 4 kHz notch，選項範圍對應為 3 到 6 kHz。",
+      "key_point": "噪音性永久聽損最典型在 3 到 6 kHz。",
+      "flashcard_front": "noise-induced hearing loss / 4 kHz notch / audiogram",
+      "flashcard_back": "噪音性聽損常見 3-6 kHz、尤其 4 kHz 的聽力圖 notch。",
+      "flashcard_summary": "噪音性聽損 -> 3-6 kHz 最明顯",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n題目問鼻功能評估方法何者錯誤。Acoustic rhinometry、rhinomanometry、nasal peak flowmetry 都可評估鼻腔空間、阻力或氣流；nasometry 評估的是語音鼻音共鳴比例，不是鼻腔立體構造。\n\n【選項詳解】\n- A. 正確。Acoustic rhinometry 利用聲波反射估計鼻腔截面積與容積，可評估鼻腔空間大小。\n- B. 正確。Rhinomanometry 量測鼻腔壓力與流速關係，可評估鼻阻力。\n- C. 正確。Nasal peak flowmetry 以最大鼻氣流量粗略評估鼻通氣功能。\n- D. 錯誤。Nasometry 測的是 nasalance，也就是說話時口鼻聲能比例，常用於鼻音過重或不足評估，不是鼻腔 3D 結構檢查。\n\n【核心考點】\nNasometry 是語音鼻音共鳴檢查；鼻腔空間與阻力要用 acoustic rhinometry 或 rhinomanometry。",
+      "key_point": "Nasometry 評估鼻音共鳴，不是鼻腔立體構造。",
+      "flashcard_front": "nasometry / acoustic rhinometry / rhinomanometry / nasal airflow",
+      "flashcard_back": "Acoustic rhinometry 看鼻腔空間，rhinomanometry 看阻力，nasometry 看語音鼻音。",
+      "flashcard_summary": "鼻功能評估 -> nasometry 不看鼻腔立體構造",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題官方為全給分。傳統教材中急性中耳炎與急性鼻竇炎常見菌包括 Streptococcus pneumoniae、non-typeable Haemophilus influenzae、Moraxella catarrhalis；Staphylococcus aureus 通常較不像典型三大常見菌，但官方已接受 A、B、C、D。\n\n【選項詳解】\n- A. 官方全給分。Streptococcus pneumoniae 其實是急性中耳炎與急性鼻竇炎的重要常見致病菌之一，因此若只問常見菌，A 不應作為排除重點。\n- B. 官方全給分。Haemophilus influenzae，尤其 non-typeable strain，是兒童急性中耳炎與鼻竇炎常見病原。\n- C. 官方全給分。Moraxella catarrhalis 也是急性中耳炎與鼻竇炎常見呼吸道病原，特別在兒童族群常被列入。\n- D. 官方全給分。Staphylococcus aureus 通常不是傳統三大常見病原，較可能是原始命題想考的選項，但本題官方改為全給分。\n\n【核心考點】\n遇到官方全給分題，詳解要同時保留官方答案狀態與原本醫學判斷；AOM/急性鼻竇炎常見三大菌是 S. pneumoniae、H. influenzae、M. catarrhalis。",
+      "key_point": "急性中耳炎與急性鼻竇炎常見菌為 S. pneumoniae、H. influenzae、M. catarrhalis；本題官方全給分。",
+      "flashcard_front": "acute otitis media / acute sinusitis / all credit / common pathogens",
+      "flashcard_back": "AOM/急性鼻竇炎常見病原包括肺炎鏈球菌、流感嗜血桿菌與卡他莫拉菌；此題官方全給分。",
+      "flashcard_summary": "急性中耳炎與鼻竇炎病原 -> 官方全給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": [
+        "官方全給分題；若依傳統常見病原判讀，D 較不像前三大常見菌。"
+      ]
+    },
+    {
+      "question_id": "111-1_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n糖尿病加上吸入式類固醇後出現喉嚨痛、吞嚥不適與咽喉白色病灶，最符合局部免疫受抑後的 Candida 感染。\n\n【選項詳解】\n- A. 錯誤。白斑是黏膜角化性白色病灶，和抽菸、慢性刺激或癌前病變較相關，不會因吸入類固醇急性造成疼痛性咽喉感染。\n- B. 錯誤。乳突瘤病常呈疣狀或乳突狀病灶，與 HPV 相關，不是糖尿病加 inhaled steroid 的典型併發症。\n- C. 錯誤。白喉會形成灰白色偽膜並有全身感染風險，現代臨床較少見，也不符合吸入類固醇後局部黴菌感染線索。\n- D. 正確。Candida 會在免疫或局部防禦下降時增生，吸入性類固醇與糖尿病都是口咽喉念珠菌感染的危險因子。\n\n【核心考點】\n吸入性類固醇後口咽喉疼痛與白色斑塊，要想到 candidiasis，尤其糖尿病患者更容易發生。",
+      "key_point": "吸入性類固醇與糖尿病會增加咽喉 Candida 感染風險。",
+      "flashcard_front": "inhaled corticosteroid / diabetes / laryngeal candidiasis",
+      "flashcard_back": "吸入性類固醇使用後若有咽喉痛與白色病灶，需考慮 Candida 感染。",
+      "flashcard_summary": "吸入類固醇 + 糖尿病 -> 喉部念珠菌感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題依喉內視鏡圖像判斷聲帶病變；官方答案指定圖二為聲帶息肉。聲帶息肉常是單側、局部、較柔軟或半透明的隆起，和聲音濫用或急性發聲創傷相關。\n\n【選項詳解】\n- A. 錯誤。聲帶白斑通常呈白色角化斑塊，需注意癌前病變風險，不是題目官方指定的圖像判讀。\n- B. 正確。聲帶息肉多為單側有蒂或廣基隆起，可造成嗓音沙啞，圖二被官方判讀為 vocal polyp。\n- C. 錯誤。聲帶結節典型是兩側聲帶前中三分之一交界處對稱小結，和單側息肉不同。\n- D. 錯誤。Reinke edema 常為雙側聲帶廣泛水腫、低沉嗓音，外觀不是局部息肉樣病灶。\n\n【核心考點】\n聲帶圖題要分清白斑、結節、息肉與 Reinke edema；息肉多為單側局部隆起，結節多雙側對稱。",
+      "key_point": "聲帶息肉多為單側局部隆起，與聲帶結節的雙側對稱不同。",
+      "flashcard_front": "vocal polyp / vocal nodule / leukoplakia / Reinke edema",
+      "flashcard_back": "聲帶息肉常單側，聲帶結節常雙側對稱；白斑需注意癌前風險。",
+      "flashcard_summary": "喉內視鏡 -> 圖二為聲帶息肉",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n第二期鼻咽癌已有局部區域疾病風險，治療通常以放射治療為主並合併同步化療，而不是只做單獨放療或使用較進階期才考慮的前導/輔助策略。\n\n【選項詳解】\n- A. 錯誤。單獨放射治療對早期非常侷限病灶可考慮，但第二期鼻咽癌通常建議加上同步化療以改善控制率。\n- B. 正確。同步放化療是第二期鼻咽癌常用且較適當的標準治療方向。\n- C. 錯誤。前導性化療後再同步放化療多用於較進展或高腫瘤負荷病例，不是第二期的基本答案。\n- D. 錯誤。同步放化療後再追加輔助化療也偏向較高風險或進展期設計，不是此題第二期的最適當選擇。\n\n【核心考點】\n鼻咽癌第二期治療重點是同步放化療；不要把較晚期的前導或輔助化療流程套到所有病例。",
+      "key_point": "第二期鼻咽癌最適當治療為同步放化療。",
+      "flashcard_front": "nasopharyngeal carcinoma / stage II / concurrent chemoradiotherapy",
+      "flashcard_back": "第二期鼻咽癌常以同步放化療治療，單獨放療通常不足。",
+      "flashcard_summary": "第二期鼻咽癌 -> 同步放化療",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n咽後淋巴結主要接收鼻咽、咽後壁與部分口咽區域引流。舌癌屬口腔癌，常轉移到頸部 level I-III 淋巴結，較不容易到咽後淋巴結。\n\n【選項詳解】\n- A. 錯誤。鼻咽癌和咽後淋巴結引流關係密切，轉移到 retropharyngeal node 很典型。\n- B. 正確。舌癌主要經頸部淋巴鏈轉移，尤其 level I、II、III，較不是咽後淋巴結的典型轉移來源。\n- C. 錯誤。扁桃腺癌屬口咽癌，可能涉及咽後或上頸部淋巴引流，不是最不容易者。\n- D. 錯誤。咽後壁癌解剖上鄰近咽後淋巴引流區，較容易相關。\n\n【核心考點】\n咽後淋巴結常見來源是鼻咽與咽後壁；舌癌較常走口腔癌的頸部 level I-III 引流。",
+      "key_point": "舌癌較不容易轉移到咽後淋巴結。",
+      "flashcard_front": "retropharyngeal lymph node / tongue cancer / nasopharyngeal carcinoma",
+      "flashcard_back": "鼻咽癌與咽後壁癌較會牽涉咽後淋巴結；舌癌多轉移至頸部 level I-III。",
+      "flashcard_summary": "咽後淋巴結轉移 -> 舌癌較不典型",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n12 週停經、陰道大量出血、子宮頸口擴張且可見部分妊娠組織，大部分仍留在子宮內，是不完全性流產。因仍有 retained products，可行 D&C 或其他子宮內容物清除處置。\n\n【選項詳解】\n- A. 錯誤。完全性流產應是妊娠組織已排空、子宮內無殘留；題目明確說大部分組織仍在子宮內。\n- B. 錯誤。先兆性流產的子宮頸口通常未開，妊娠組織未排出；本題已看到組織在擴張的子宮頸口。\n- C. 正確。不完全性流產是部分妊娠組織排出但仍有殘留，出血多且子宮頸口開，可考慮 D&C。\n- D. 錯誤。輸卵管外孕通常不會在子宮頸口看到妊娠組織；本題超音波與內診支持子宮內妊娠流產。\n\n【核心考點】\n流產分類看子宮頸口是否開、妊娠組織是否排出及子宮內是否殘留；部分排出且殘留就是 incomplete abortion。",
+      "key_point": "子宮頸口開且部分組織排出、子宮內仍殘留為不完全性流產。",
+      "flashcard_front": "incomplete abortion / dilatation and curettage / retained products",
+      "flashcard_back": "不完全性流產有開口、出血與殘留妊娠組織，處置可行 D&C。",
+      "flashcard_summary": "不完全性流產 -> 殘留組織可 D&C",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\nMethotrexate 治療子宮外孕需病人穩定且無破裂出血，並避免肝腎血液疾病與哺乳等禁忌。糖尿病本身不是 MTX 治療的典型禁忌症。\n\n【選項詳解】\n- A. 正確。單純糖尿病不是 methotrexate 治療子宮外孕的禁忌；仍需評估肝腎功能與整體穩定度。\n- B. 錯誤。哺乳是 MTX 禁忌或需停止哺乳的情況，因藥物可能影響嬰兒與快速分裂細胞。\n- C. 錯誤。血小板低下代表骨髓或凝血安全疑慮，使用 MTX 可能加重血液毒性。\n- D. 錯誤。腹內出血表示可能破裂或不穩定，應偏向手術處理，不能用 MTX 當主要治療。\n\n【核心考點】\nMTX 治療外孕的禁忌包括哺乳、血液異常、肝腎功能不佳與破裂/腹內出血；糖尿病不是典型禁忌。",
+      "key_point": "子宮外孕使用 MTX 的禁忌不包括單純糖尿病。",
+      "flashcard_front": "ectopic pregnancy / methotrexate contraindications / breastfeeding / thrombocytopenia",
+      "flashcard_back": "MTX 適合穩定未破裂外孕；哺乳、血小板低下、腹內出血都不適合。",
+      "flashcard_summary": "外孕 MTX 禁忌 -> 糖尿病不是典型禁忌",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n這是穩定的未知部位妊娠（pregnancy of unknown location）：超音波未見子宮內或附件妊娠，beta-hCG 仍低於常用 discriminatory zone 且病人穩定。下一步以 48 小時後再追蹤 beta-hCG 趨勢最合適。\n\n【選項詳解】\n- A. 正確。病人穩定、沒有腹膜刺激或附件腫塊時，可再 48 小時追蹤 beta-hCG，以判斷正常早孕、流產或外孕趨勢。\n- B. 錯誤。Progesterone 可幫助判斷妊娠可存活性，但不能定位妊娠，對此時最需要的外孕風險追蹤不如連續 hCG。\n- C. 錯誤。病人生命徵象穩定且無明顯腹痛、腹水或附件腫塊，尚未到立即腹腔鏡檢查的程度。\n- D. 錯誤。AST、creatinine、hemoglobin 多是在準備 MTX 或評估出血治療安全時使用；此題尚未確診外孕或決定用 MTX。\n\n【核心考點】\nPUL 且穩定、hCG 低於判讀區時，先用 serial beta-hCG 與後續超音波追蹤，不要太早侵入處置。",
+      "key_point": "穩定未知部位妊娠應追蹤 serial beta-hCG。",
+      "flashcard_front": "pregnancy of unknown location / serial beta-hCG / discriminatory zone",
+      "flashcard_back": "穩定 PUL 先每 48 小時追蹤 beta-hCG 趨勢，再決定是否重做超音波或治療。",
+      "flashcard_summary": "PUL -> 穩定且 hCG 低時追蹤 48 小時 beta-hCG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    }
+  ]
+}

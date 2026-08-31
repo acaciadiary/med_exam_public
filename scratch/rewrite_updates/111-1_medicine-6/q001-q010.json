@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "dataset_id": "111-1_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n題目問「確認氣管內管在氣管內」的方法何者錯誤；正答 A 是錯誤方法。臨床確認插管位置靠前頸部超音波、呼氣末二氧化碳、聽診與直接視覺化，後頸部超音波看不到氣管與食道的管路關係。\n\n【選項詳解】\n- A. 錯誤。後頸部主要看到頸椎與後方肌肉，不能用來確認氣管內管是否在氣管內；若用超音波，應掃前頸部氣管與食道區。\n- B. 正確。兩側胸部有呼吸音、上腹部沒有進氣音，可支持管路在氣管而非食道，但仍常需搭配其他方法確認。\n- C. 正確。連續規則的呼氣末二氧化碳波形代表通氣氣體經肺泡交換後被呼出，是確認氣管插管的重要客觀證據。\n- D. 正確。光纖支氣管鏡可直接看到氣管環與管端位置，是直接確認氣管內管位置的方法。\n\n【核心考點】\n插管後確認位置時，後頸部超音波不是正確檢查；前頸部超音波、連續 ETCO2 波形、聽診與支氣管鏡才有臨床意義。",
+      "key_point": "確認氣管內管位置時，超音波應看前頸部氣管與食道，不是後頸部。",
+      "flashcard_front": "氣管內管位置確認 / ETCO2 / 前頸部超音波 / 支氣管鏡",
+      "flashcard_back": "後頸部超音波不能確認氣管插管；連續 ETCO2 波形、雙肺聽診與光纖支氣管鏡較可靠。",
+      "flashcard_summary": "氣管插管位置確認 -> 後頸部超音波不是正確方法",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目考侵入性心血管監測中哪些指標真正能反映補液反應。動態指標如 stroke volume variation 比單次靜態壓力值更能預測 intravascular volume responsiveness。\n\n【選項詳解】\n- A. 錯誤。Allen test 可粗略評估手掌側枝循環，但不能保證或預防橈動脈導管後的缺血併發症。\n- B. 錯誤。肺動脈導管能提供血流動力資訊，但常規使用並未被證實能普遍改善重症病人的臨床預後。\n- C. 正確。SVV、PPV 這類動態測量會利用呼吸週期造成的搏出量變化，較能預測病人是否會對補液有反應。\n- D. 錯誤。CVP 受右心功能、胸腔壓、靜脈順應性與機械通氣影響，不會和實際循環血量呈簡單正比。\n\n【核心考點】\n補液反應性要看動態變化，不要只看靜態壓力；CVP 不是血容量的線性尺。",
+      "key_point": "動態指標如 SVV 比 CVP 更能預測補液反應。",
+      "flashcard_front": "侵入性監測 / CVP / SVV / volume responsiveness",
+      "flashcard_back": "心臟前負荷與補液反應性評估中，SVV 等動態指標通常優於 CVP 等靜態指標。",
+      "flashcard_summary": "侵入性心血管監測 -> 動態指標較能預測補液反應",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n麻醉後早期低體溫主要來自麻醉藥造成血管擴張，讓核心熱量重新分布到周邊。這種 redistribution hypothermia 常在麻醉誘導後第一小時最明顯。\n\n【選項詳解】\n- A. 正確。全身麻醉後核心體溫下降 0.5 到 1.5 度很常見，主因是熱量從核心重新分布到周邊。\n- B. 錯誤。麻醉開始後才做體表加溫，對第一小時的重分布低體溫幫助有限；預先加溫較能減少初期下降。\n- C. 錯誤。呼吸道保溫保濕在小兒較有意義，因小兒每公斤通氣量與散熱比例較高，成人效果較有限。\n- D. 錯誤。區域麻醉也會阻斷交感神經與影響溫度調節，仍可能造成低體溫，不能因此省略監測。\n\n【核心考點】\n麻醉初期低體溫的重點是 redistribution；預防要靠術前保溫與持續監測，全身與區域麻醉都要注意。",
+      "key_point": "麻醉後第一小時核心體溫下降常是重分布低體溫。",
+      "flashcard_front": "麻醉低體溫 / redistribution hypothermia / prewarming",
+      "flashcard_back": "麻醉誘導後血管擴張會造成核心熱量外移，預先加溫比事後表面加溫更能預防初期低體溫。",
+      "flashcard_summary": "麻醉中體溫 -> 第一小時常見重分布低體溫",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n題目問局部麻醉劑敘述何者錯誤；epinephrine 加入局麻藥的目的，是用 alpha 受體造成局部血管收縮，而不是血管擴張。\n\n【選項詳解】\n- A. 正確。電位門控鈉離子通道有 resting、activated、inactivated 等狀態，局麻藥對開啟或失活狀態較有親和力。\n- B. 正確。局麻藥全身毒性常先出現中樞症狀，如口周麻、耳鳴、金屬味、躁動或抽搐，嚴重時才進展到心血管毒性。\n- C. 錯誤。Epinephrine 會造成施打部位血管收縮，降低局麻藥吸收速度並延長作用，不是造成血管擴張。\n- D. 正確。中樞神經系統是局麻藥毒性的主要早期受影響部位，嚴重中毒可引起癲癇與意識改變。\n\n【核心考點】\n局麻藥加 epinephrine 是為了局部血管收縮、延長作用並降低全身吸收。",
+      "key_point": "局部麻醉劑加 epinephrine 會血管收縮，不是血管擴張。",
+      "flashcard_front": "local anesthetics / epinephrine / CNS toxicity / sodium channel",
+      "flashcard_back": "局麻藥毒性多先表現於中樞神經；加 epinephrine 的效果是血管收縮與減少吸收。",
+      "flashcard_summary": "局麻藥 -> epinephrine 造成局部血管收縮",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目問哪個藥物可預防性降低術後噁心嘔吐。Dexamethasone 是常用的 PONV 預防藥，常與 5-HT3 antagonist 等合併用於高風險病人。\n\n【選項詳解】\n- A. 正確。Dexamethasone 有止吐效果，常在麻醉誘導時給予以降低手術後噁心嘔吐發生率。\n- B. 錯誤。Edrophonium 是膽鹼酯酶抑制劑，主要用於拮抗非去極化肌鬆藥，不是 PONV 預防藥。\n- C. 錯誤。Fentanyl 是 opioid 止痛藥，反而可能增加噁心嘔吐風險，不能當成預防 PONV 的藥。\n- D. 錯誤。Atracurium 是非去極化肌肉鬆弛劑，作用在神經肌肉接合處，沒有預防噁心嘔吐的用途。\n\n【核心考點】\nPONV 預防常用 dexamethasone、ondansetron 等止吐策略；opioid 可能增加 PONV。",
+      "key_point": "Dexamethasone 可預防性降低術後噁心嘔吐。",
+      "flashcard_front": "PONV / dexamethasone / opioid nausea",
+      "flashcard_back": "術後噁心嘔吐的預防藥包括 dexamethasone；fentanyl 反而可能誘發噁心。",
+      "flashcard_summary": "PONV 預防 -> dexamethasone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n主動脈瓣狹窄的跨瓣壓力差可用簡化 Bernoulli equation 估算：壓力差約等於 4v^2。流速 3.5 m/s 時，4 x 3.5^2 = 49 mmHg，最接近 50 mmHg。\n\n【選項詳解】\n- A. 錯誤。20 mmHg 對應的流速約 2.2 m/s，低於題目給的 3.5 m/s。\n- B. 錯誤。30 mmHg 仍低估；把 3.5 平方後再乘以 4，結果不會只有 30。\n- C. 錯誤。40 mmHg 接近但仍低於 49 mmHg，不是四個選項中最接近的值。\n- D. 正確。3.5 的平方是 12.25，乘以 4 得 49 mmHg，臨床上選最接近的 50 mmHg。\n\n【核心考點】\n跨瓣壓力差用簡化伯努利公式 Delta P = 4v^2；v = 3.5 m/s 時約 49 mmHg。",
+      "key_point": "主動脈瓣狹窄壓力差約為 4v^2。",
+      "flashcard_front": "aortic stenosis / Bernoulli equation / TEE velocity",
+      "flashcard_back": "最高流速 3.5 m/s 時，簡化伯努利公式算出跨瓣壓力差約 49 mmHg。",
+      "flashcard_summary": "主動脈瓣狹窄 -> 4v^2 估壓力差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問 PACU 觀察敘述何者錯誤；麻醉恢復室常見問題不只高血壓，也包含低血壓、呼吸抑制、噁心嘔吐與殘餘肌鬆。\n\n【選項詳解】\n- A. 正確。術後噁心嘔吐是 PACU 常見問題，與麻醉藥、opioid、手術種類與個人體質有關。\n- B. 錯誤。PACU 病人可能高血壓，也可能因出血、低血容量、麻醉藥殘效或心功能不佳而低血壓。\n- C. 正確。PACU 監測需涵蓋呼吸、循環、體溫、意識與疼痛等項目，以便早期處理麻醉後併發症。\n- D. 正確。某些抗生素可增強神經肌肉阻斷或延長肌鬆作用，恢復室需注意呼吸肌無力與殘餘阻斷。\n\n【核心考點】\nPACU 不是只看血壓偏高；低血壓、呼吸、體溫、意識與殘餘肌鬆都要監測。",
+      "key_point": "PACU 可見高血壓也可見低血壓，不能說幾乎不會低血壓。",
+      "flashcard_front": "PACU / postoperative hypotension / residual neuromuscular blockade",
+      "flashcard_back": "麻醉恢復室常見 PONV、呼吸循環不穩與殘餘肌鬆，標準監測不能省略。",
+      "flashcard_summary": "PACU 監測 -> 低血壓也常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n硬膜外止痛可減少全身 opioid、改善呼吸咳嗽與腸胃恢復；但它會阻斷交感神經，造成 sympathetic outflow 下降，而不是增加。\n\n【選項詳解】\n- A. 正確。硬膜外止痛提供區域止痛，可降低全身 opioid 劑量，因此減少噁心、嗜睡與呼吸抑制等副作用。\n- B. 錯誤。硬膜外阻斷會降低交感神經輸出，可能造成血管擴張與低血壓，不會增加 sympathetic outflow。\n- C. 正確。疼痛控制較好且 opioid 用量較少，可促進腸蠕動恢復並降低部分腸胃道併發症。\n- D. 正確。止痛充分時病人較能深呼吸、咳嗽與早期活動，可降低肺不張與肺部併發症風險。\n\n【核心考點】\n硬膜外止痛的好處來自區域止痛與減少 opioid，但交感神經輸出會下降。",
+      "key_point": "硬膜外止痛會降低 sympathetic outflow，不是增加。",
+      "flashcard_front": "epidural analgesia / sympathetic block / opioid sparing",
+      "flashcard_back": "硬膜外止痛能減少 opioid 與肺部、腸胃併發症，但會造成交感阻斷。",
+      "flashcard_summary": "硬膜外止痛 -> 交感神經輸出下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n題目問正壓治療壓力過高的生理影響何者錯誤。高壓正壓通氣會增加肺泡過度擴張、死腔、肺血管阻力並減少靜脈回流，但 10 cmH2O 並非一定會明顯增加 barotrauma 的危險值。\n\n【選項詳解】\n- A. 正確。肺泡過度擴張會壓迫微血管，使無效通氣與死腔增加，有效肺泡通氣反而下降。\n- B. 正確。過高肺容量會增加肺血管阻力，使右心室後負荷上升，嚴重時影響右心功能。\n- C. 正確。胸腔內壓上升會減少靜脈回流與左心前負荷，因此心輸出量可能下降。\n- D. 錯誤。10 cmH2O 屬臨床常用且通常可接受的 PEEP 範圍；barotrauma 風險通常和更高壓力、平台壓與肺病變有關。\n\n【核心考點】\n正壓過高會影響肺泡與循環，但 10 cmH2O 本身不是明顯 barotrauma 的絕對門檻。",
+      "key_point": "正壓通氣壓力太高會增死腔、肺血管阻力並降靜脈回流。",
+      "flashcard_front": "positive pressure ventilation / PEEP / barotrauma / venous return",
+      "flashcard_back": "高壓正壓通氣會造成肺過度擴張與心輸出下降；10 cmH2O 通常不是明顯壓傷門檻。",
+      "flashcard_summary": "正壓治療 -> 高壓副作用與 barotrauma 門檻",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n高度近視造成黃斑部脈絡膜新生血管，主因是眼軸拉長與脈絡膜、Bruch membrane 受牽拉破壞。抗 VEGF 是有效治療；葉黃素無法被視為預防此併發症的標準證據。\n\n【選項詳解】\n- A. 正確。近視雷射改變角膜屈光度，不會縮短眼軸或逆轉後極部結構風險，因此 mCNV 風險不會因此消失。\n- B. 正確。玻璃體內抗 VEGF 注射是 mCNV 影響視力時的重要治療，可抑制新生血管滲漏與增生。\n- C. 正確。年輕患者常因脈絡膜萎縮較少、視網膜狀態較好，治療後視覺預後通常比老年患者佳。\n- D. 錯誤。每天 10 mg 葉黃素可作為保健補充討論，但沒有足夠證據可預防高度近視造成的脈絡膜新生血管。\n\n【核心考點】\n高度近視 mCNV 的核心是眼軸與後極部結構改變；治療重點是抗 VEGF，不是靠葉黃素預防。",
+      "key_point": "高度近視 mCNV 以抗 VEGF 治療，葉黃素不是標準預防法。",
+      "flashcard_front": "pathologic myopia / mCNV / anti-VEGF / lutein",
+      "flashcard_back": "高度近視造成 mCNV 時，抗 VEGF 是重要治療；近視雷射與葉黃素不能消除眼軸相關風險。",
+      "flashcard_summary": "高度近視 mCNV -> 抗 VEGF 治療，葉黃素非標準預防",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    }
+  ]
+}

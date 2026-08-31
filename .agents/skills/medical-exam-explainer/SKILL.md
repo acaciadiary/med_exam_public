@@ -1,6 +1,6 @@
 ---
 name: medical-exam-explainer
-description: Use when creating, rewriting, auditing, de-templating, or batch-updating high-quality Traditional Chinese explanations for Taiwan medical exam question JSON files in this project. Trigger when the user asks to 製作詳解、重寫詳解、修正低品質詳解、去除模板味詳解、去除 AI 味、消除套版感、把某幾年或某 18 張考卷詳解重寫、處理某一年考卷、分 6 張考卷處理、只替換 explanation/詳解欄位、不改網頁架構、或完成後提醒用 GitHub Desktop Commit and Push origin.
+description: Use when creating, rewriting, auditing, de-templating, or batch-updating high-quality Traditional Chinese explanations for Taiwan medical exam question JSON files. Trigger for requests about medical exam explanations, anti-AI style cleanup, explanation validation, selected-question rewrites, full-year rewrites, or GitHub Desktop handoff for this workflow.
 ---
 
 # Medical Exam Explainer

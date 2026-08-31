@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問分枝桿菌屬的例外特徵。Mycobacterium 的細胞壁富含 mycolic acid，因此抗酸染色陽性，且通常生長慢；但其基因組 GC 含量偏高，不是低 GC ratio，所以答案選 D。\n\n【選項詳解】\n- A. 錯誤。Mycolic acid 是分枝桿菌細胞壁的重要脂質，造成抗酸性與對許多藥物、染劑較不易通透，這是典型特徵。\n- B. 錯誤。分枝桿菌多數生長緩慢，結核分枝桿菌培養常需數週；大腸桿菌則可在一般培養條件下快速生長。\n- C. 錯誤。抗酸染色正是辨識分枝桿菌的重要方法，因 mycolic acid 讓菌體可保留 carbol fuchsin。\n- D. 正確。分枝桿菌的 GC ratio 通常偏高；說其染色體 G+C 比例較低，才是本題要找的錯誤敘述。\n\n【核心考點】\nMycobacterium 的高產考點是 mycolic acid、抗酸染色、生長慢與較高 GC content。遇到「何者不是」時，低 GC ratio 是例外。（標準答案為 D。）",
+      "key_point": "分枝桿菌具 mycolic acid、抗酸性與慢生長，GC ratio 不是偏低。",
+      "flashcard_front": "Mycobacterium / mycolic acid / acid-fast stain / GC ratio",
+      "flashcard_back": "分枝桿菌細胞壁有 mycolic acid、抗酸染色陽性且生長慢；其 GC ratio 通常偏高，不是偏低。",
+      "flashcard_summary": "分枝桿菌特徵 -> mycolic acid、抗酸、慢生長、高 GC",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題幹強調必須在含氮氣操作箱或厭氧系統培養，代表要找嚴格厭氧菌。破傷風桿菌 Clostridium tetani 為產芽孢革蘭陽性厭氧桿菌，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Bacillus cereus 是產芽孢革蘭陽性桿菌，但屬需氧或兼性厭氧，並非只能在嚴格厭氧環境生長。\n- B. 正確。Clostridium tetani 是 obligate anaerobe，培養需要厭氧條件，臨床上也與深部缺氧傷口相關。\n- C. 錯誤。Staphylococcus aureus 是兼性厭氧菌，可在一般含氧培養條件下生長。\n- D. 錯誤。Listeria monocytogenes 是兼性胞內菌，也是兼性厭氧，並不需要只能用厭氧系統培養。\n\n【核心考點】\nClostridium 屬多為產芽孢厭氧桿菌；Bacillus 屬雖也產芽孢，但多為需氧或兼性厭氧。（標準答案為 B。）",
+      "key_point": "Clostridium tetani 是嚴格厭氧、產芽孢革蘭陽性桿菌。",
+      "flashcard_front": "obligate anaerobe / Clostridium tetani / Bacillus",
+      "flashcard_back": "破傷風桿菌需厭氧培養；金葡菌、李斯特菌為兼性厭氧，仙人掌桿菌不是只能厭氧培養。",
+      "flashcard_summary": "厭氧培養題 -> Clostridium tetani",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n白喉毒素是 A-B toxin；B 次單元負責結合細胞，A 次單元進入後 ADP-ribosylate elongation factor-2，使 EF-2 失活並抑制蛋白質合成，答案選 C。\n\n【選項詳解】\n- A. 錯誤。40S 次單元是真核小核糖體次單元，白喉毒素不是直接與 40S 結合。\n- B. 錯誤。60S 次單元不是白喉毒素的直接標的；題目要找的是延長階段的 EF-2。\n- C. 正確。Diphtheria toxin 會使 EF-2 失活，轉譯延長反應停止，細胞蛋白質合成被抑制。\n- D. 錯誤。EF-3 主要見於真菌轉譯系統，並非白喉毒素在人體細胞中的經典標的。\n\n【核心考點】\n白喉毒素的關鍵是 ADP-ribosylation of EF-2；Pseudomonas exotoxin A 也可考同一個 EF-2 標的。（標準答案為 C。）",
+      "key_point": "白喉毒素使 EF-2 失活，抑制蛋白質合成。",
+      "flashcard_front": "diphtheria toxin / EF-2 / ADP-ribosylation",
+      "flashcard_back": "白喉毒素 A 次單元 ADP-ribosylate EF-2，阻斷轉譯延長。",
+      "flashcard_summary": "白喉毒素 -> EF-2 失活 -> 蛋白質合成停止",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題問哪一個抗生素不是抑制細菌蛋白質合成。Kanamycin、clindamycin、tetracycline 都作用於核糖體；metronidazole 在厭氧環境形成自由基傷害 DNA，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Kanamycin 屬 aminoglycoside，主要作用於 30S 核糖體，干擾蛋白質合成並造成誤讀 mRNA。\n- B. 錯誤。Clindamycin 作用於 50S 核糖體，抑制 peptide chain elongation。\n- C. 正確。Metronidazole 經厭氧菌還原後產生活性自由基，破壞 DNA，不是靠抑制核糖體蛋白質合成。\n- D. 錯誤。Tetracycline 作用於 30S，阻止 aminoacyl-tRNA 進入 A site。\n\n【核心考點】\n蛋白質合成抑制藥常考 30S aminoglycoside/tetracycline 與 50S macrolide/clindamycin/chloramphenicol；metronidazole 是 DNA damage。（標準答案為 C。）",
+      "key_point": "Metronidazole 抗厭氧菌靠 DNA 損傷，不是蛋白質合成抑制。",
+      "flashcard_front": "protein synthesis inhibitors / metronidazole / DNA damage",
+      "flashcard_back": "Kanamycin、tetracycline 作用 30S，clindamycin 作用 50S；metronidazole 傷害 DNA。",
+      "flashcard_summary": "抗生素機轉 -> metronidazole 不是核糖體抑制劑",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n題目比較細胞膜 sterols。哺乳類細胞膜有 cholesterol，真菌有 ergosterol，Mycoplasma 可從宿主取得 sterol；典型細菌細胞膜不含 sterol，結核分枝桿菌雖細胞壁富脂質，但不以膜固醇為成分，答案選 B。\n\n【選項詳解】\n- A. 錯誤。哺乳類細胞膜含 cholesterol，是維持膜流動性的重要成分。\n- B. 正確。Mycobacterium tuberculosis 是細菌，細胞壁有 mycolic acid，但細胞膜不以 sterols 為典型成分。\n- C. 錯誤。Mycoplasma pneumoniae 缺乏細胞壁，細胞膜可含 sterols，這是黴漿菌的特殊點。\n- D. 錯誤。真菌細胞膜含 ergosterol，這也是 amphotericin B、azole 類藥物的治療標的。\n\n【核心考點】\nSterol 記憶：哺乳類 cholesterol、真菌 ergosterol、黴漿菌可有 sterol；多數細菌沒有 sterol。（標準答案為 B。）",
+      "key_point": "結核分枝桿菌屬細菌，細胞膜不含典型固醇。",
+      "flashcard_front": "sterol / Mycoplasma / fungus / Mycobacterium",
+      "flashcard_back": "真菌有 ergosterol、哺乳類有 cholesterol、Mycoplasma 可含 sterol；典型細菌如結核分枝桿菌不含 sterol。",
+      "flashcard_summary": "膜固醇 -> 細菌通常無，Mycoplasma 與真菌例外要記",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n遊走性紅斑 erythema migrans 是萊姆病的典型早期皮膚病灶，病原為 Borrelia burgdorferi，經 Ixodes tick 傳播，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Coxiella burnetii 造成 Q fever，常與吸入受污染動物產物氣膠相關，不造成典型遊走性紅斑。\n- B. 錯誤。Leptospira interrogans 造成鉤端螺旋體病，可有發燒、結膜充血、肝腎症狀，不是 erythema migrans。\n- C. 錯誤。Rickettsia rickettsii 造成 Rocky Mountain spotted fever，皮疹型態與病媒不同。\n- D. 正確。Borrelia burgdorferi 是萊姆病病原，早期常見擴大的環狀遊走性紅斑。\n\n【核心考點】\nErythema migrans 直接連到 Lyme disease、Borrelia burgdorferi、Ixodes tick。（標準答案為 D。）",
+      "key_point": "遊走性紅斑是 Borrelia burgdorferi 感染的典型皮膚表現。",
+      "flashcard_front": "erythema migrans / Lyme disease / Borrelia",
+      "flashcard_back": "遊走性紅斑提示萊姆病，病原是 Borrelia burgdorferi，病媒是 Ixodes tick。",
+      "flashcard_summary": "遊走性紅斑 -> Borrelia burgdorferi",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題幹的免疫缺陷感染、生物膜、高度抗藥性、耐膽鹽與高鹽環境，指向 Enterococcus faecalis。腸球菌可造成院內感染，且能在 bile 與 6.5% NaCl 中生長，答案選 D。\n\n【選項詳解】\n- A. 錯誤。肺炎鏈球菌可造成肺炎、腦膜炎與菌血症，但不以耐膽鹽、高鹽及生物膜型院內感染為主要考點。\n- B. 錯誤。化膿鏈球菌造成咽炎、蜂窩性組織炎、壞死性筋膜炎等，沒有題幹所列腸球菌耐受特徵。\n- C. 錯誤。轉糖鏈球菌與齲齒、牙菌斑相關，但不是耐膽鹽與高鹽的典型答案。\n- D. 正確。糞腸球菌常見於免疫低下或住院病人，可形成生物膜並具有抗藥性，且耐膽鹽與高鹽環境。\n\n【核心考點】\nEnterococcus 的辨識點是 bile esculin 陽性、可在 6.5% NaCl 生長、院內感染與抗藥性。（標準答案為 D。）",
+      "key_point": "Enterococcus faecalis 可耐膽鹽與高鹽，並常造成抗藥性院內感染。",
+      "flashcard_front": "Enterococcus faecalis / biofilm / bile / 6.5% NaCl",
+      "flashcard_back": "糞腸球菌可在膽鹽與高鹽環境生長，常見免疫低下或院內抗藥感染。",
+      "flashcard_summary": "耐膽鹽高鹽 + 生物膜抗藥 -> Enterococcus faecalis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n題目問無乳鏈球菌何者錯誤。Streptococcus agalactiae 是 Group B Streptococcus，CAMP 陽性，可定殖腸胃道與泌尿生殖道並造成新生兒腦膜炎、肺炎；說它屬 A 群是錯的，答案選 A。\n\n【選項詳解】\n- A. 正確。無乳鏈球菌是 B 群鏈球菌，不是 A 群；A 群代表多為 Streptococcus pyogenes。\n- B. 錯誤。CAMP test 陽性是 Group B Streptococcus 的經典實驗室特徵。\n- C. 錯誤。GBS 可無症狀定殖於腸胃道或女性生殖泌尿道，孕婦帶菌會增加新生兒感染風險。\n- D. 錯誤。GBS 是新生兒肺炎、敗血症與腦膜炎的重要病原。\n\n【核心考點】\nStreptococcus agalactiae = Group B、CAMP positive、新生兒感染；Streptococcus pyogenes = Group A。（標準答案為 A。）",
+      "key_point": "無乳鏈球菌是 B 群鏈球菌，非 A 群。",
+      "flashcard_front": "Streptococcus agalactiae / Group B / CAMP / neonate",
+      "flashcard_back": "GBS 是 Streptococcus agalactiae，CAMP 陽性，可造成新生兒肺炎、敗血症、腦膜炎。",
+      "flashcard_summary": "無乳鏈球菌 -> Group B Streptococcus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問 Legionella pneumophila 的錯誤敘述。Legionella 可存活於阿米巴原蟲內，培養需 L-cysteine 與 iron，治療用 macrolide 或 fluoroquinolone；宿主防禦主要靠細胞免疫，不是抗莢膜抗體，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Legionella 在自然界常與水環境、阿米巴原蟲相關，能在原蟲內存活與增殖。\n- B. 錯誤。培養 Legionella 常用 BCYE agar，需要 L-cysteine 與 iron。\n- C. 正確。Legionella 是胞內病原，主要靠 T 細胞與巨噬細胞相關的細胞免疫控制；抗莢膜抗體不是主軸。\n- D. 錯誤。因為是胞內菌，治療常選可進入細胞的 macrolides 或 fluoroquinolones。\n\n【核心考點】\nLegionella：水環境、阿米巴、BCYE agar 需 cysteine/iron、細胞免疫、macrolide/fluoroquinolone。（標準答案為 C。）",
+      "key_point": "Legionella 的免疫控制主要靠細胞免疫，不是抗莢膜抗體。",
+      "flashcard_front": "Legionella / BCYE / L-cysteine / cell-mediated immunity",
+      "flashcard_back": "Legionella 培養需 L-cysteine 與 iron，治療用 macrolide 或 fluoroquinolone，防禦重點是細胞免疫。",
+      "flashcard_summary": "Legionella -> 胞內菌，靠細胞免疫",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題官方接受 B、C、D。第四型過敏反應屬細胞媒介免疫，病毒感染造成的免疫病理可由干擾素、發炎細胞與細胞激素參與；單純病毒抗體比較偏向中和或免疫複合體機轉，不是本題接受答案。；官方接受 B、C、D\n\n【選項詳解】\n- A. 錯誤。病毒抗體可中和病毒或參與免疫複合體反應，但第四型過敏的核心不是抗體，而是 T 細胞與細胞激素造成的延遲型發炎。\n- B. 正確。干擾素是病毒感染時重要 cytokine，可參與細胞免疫活化與發炎反應，官方將其列為可接受答案。\n- C. 正確。多形核白血球可參與發炎組織傷害；雖不是第四型過敏的起始核心，官方答案將其併列接受。\n- D. 正確。細胞激素是第四型過敏與病毒免疫病理的重要媒介，例如活化巨噬細胞與招募發炎細胞。\n\n【核心考點】\n第四型過敏是細胞媒介反應，重點在 T 細胞、cytokines 與發炎細胞；本題官方多重給分為 B、C、D。（標準答案為 B；官方接受 B、C、D。）",
+      "key_point": "第四型過敏反應以細胞免疫與 cytokine-mediated inflammation 為主，本題官方接受 B、C、D。",
+      "flashcard_front": "type IV hypersensitivity / viral immunopathogenesis / multiple correct",
+      "flashcard_back": "第四型過敏不是抗體主導，而是 T 細胞、細胞激素與發炎細胞造成組織傷害；本題 B、C、D 皆給分。",
+      "flashcard_summary": "病毒免疫病理 -> type IV 為細胞媒介，官方 BCD",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

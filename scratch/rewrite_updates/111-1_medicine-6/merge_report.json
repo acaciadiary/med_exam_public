@@ -1,0 +1,32 @@
+{
+  "dataset_id": "111-1_medicine-6",
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "generated_at": "2026-08-12T14:27:39.460Z",
+  "update_file_count": 8,
+  "merged_question_count": 80,
+  "update_files": [
+    "scratch/rewrite_updates/111-1_medicine-6/q001-q010.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q011-q020.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q021-q030.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q031-q040.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q041-q050.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q051-q060.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q061-q070.json",
+    "scratch/rewrite_updates/111-1_medicine-6/q071-q080.json"
+  ],
+  "immutable_changed": false,
+  "manual_review_questions": [
+    {
+      "question_number": 23,
+      "notes": [
+        "官方全給分題；若依傳統常見病原判讀，D 較不像前三大常見菌。"
+      ]
+    },
+    {
+      "question_number": 78,
+      "notes": [
+        "法規已隨民法成年年齡於 112 年 1 月 1 日下修至 18 歲而可能影響現行判讀；此處保留 111 年官方答案脈絡。"
+      ]
+    }
+  ]
+}

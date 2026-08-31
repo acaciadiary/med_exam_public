@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-6.json",
+  "dataset_id": "111-1_medicine-6",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-6_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n懷孕合併子宮頸癌的預後仍以臨床分期最重要。治療會依分期、孕週、病人意願與胎兒成熟度個別化，不能用絕對語句要求立即終止妊娠。\n\n【選項詳解】\n- A. 錯誤。懷孕合併侵襲性子宮頸癌雖少見，但發生率不是此選項所述數字最能代表考點。\n- B. 錯誤。第一孕期 conization 有出血、流產或早產相關風險，不能簡化成流產率一定低於 10%。\n- C. 錯誤。3-5 mm 侵犯且有 LVSI 時需高度警覺，但處置仍要看分期、孕週與病人意願，不是不論胎兒情況都立即終止懷孕。\n- D. 正確。臨床分期反映腫瘤範圍與轉移風險，是懷孕期間罹患子宮頸癌最重要的預後因子。\n\n【核心考點】\n懷孕合併子宮頸癌不能用單一絕對流程處理；預後最重要仍是癌症臨床分期。",
+      "key_point": "懷孕期間子宮頸癌最重要預後因子是臨床分期。",
+      "flashcard_front": "cervical cancer in pregnancy / clinical stage / conization / LVSI",
+      "flashcard_back": "懷孕合併子宮頸癌治療需個別化，但分期仍是預後核心。",
+      "flashcard_summary": "孕期子宮頸癌 -> 臨床分期最重要",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\nType I 子宮內膜癌多為 endometrioid、和雌激素刺激相關、較常見且預後通常較佳；Type II 如 serous、clear cell 較侵襲、較易子宮外擴散且預後較差。\n\n【選項詳解】\n- A. 正確。Type I 多是 endometrioid adenocarcinoma；Type II 包含 serous carcinoma、clear cell carcinoma 等高風險型態。\n- B. 正確。大多數子宮內膜癌屬 Type I，常和肥胖、無排卵與高雌激素暴露相關。\n- C. 正確。Hyperestrogenism 是 Type I 子宮內膜癌的重要危險因子。\n- D. 錯誤。預後較差、較易子宮外侵犯的是 Type II，不是 Type I。\n\n【核心考點】\nType I 內膜癌較常見、雌激素相關、預後較好；Type II 較侵襲且預後差。",
+      "key_point": "Type I 子宮內膜癌預後通常比 Type II 好。",
+      "flashcard_front": "endometrial cancer / type I / type II / endometrioid / serous",
+      "flashcard_back": "Type I 多為 endometrioid 且雌激素相關；Type II 如 serous/clear cell 較高惡性。",
+      "flashcard_summary": "子宮內膜癌分型 -> Type II 預後較差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\nChoriocarcinoma 透過血行轉移很早，最常見轉移部位是肺，其次可見陰道、腦、肝等部位。\n\n【選項詳解】\n- A. 正確。肺是絨毛膜癌最常見轉移部位，臨床可有咳嗽、咳血或影像結節。\n- B. 錯誤。陰道可發生轉移且容易出血，但頻率低於肺。\n- C. 錯誤。腦轉移屬高風險重要部位，會影響分期與治療，但不是最常見。\n- D. 錯誤。骨盆局部或其他部位可能受累，但絨毛膜癌的典型最常見遠端轉移是肺。\n\n【核心考點】\n絨毛膜癌最常見血行轉移到肺；腦、肝等轉移代表高風險。",
+      "key_point": "Choriocarcinoma 最常見轉移部位是肺。",
+      "flashcard_front": "choriocarcinoma / lung metastasis / gestational trophoblastic neoplasia",
+      "flashcard_back": "絨毛膜癌容易血行轉移，肺部最常見。",
+      "flashcard_summary": "Choriocarcinoma -> 肺轉移最常見",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nAMH 可在月經任一天抽血評估卵巢儲備，AFC 通常在月經第 2-5 天左右評估。AMH 2 ng/mL 通常不代表卵巢功能不佳；AFC 3 顆則支持卵巢儲備低下。\n\n【選項詳解】\n- A. 正確。AMH 週期內波動較小，可在月經任何一天抽血，用於估計 ovarian reserve。\n- B. 錯誤。AMH 2 ng/mL 一般不能直接判定卵巢功能不佳；較低值如接近或低於 1 ng/mL 才較支持低儲備。\n- C. 正確。月經早期做陰道超音波計算 AFC，是評估卵巢儲備的重要方式。\n- D. 正確。AFC 約 3 顆代表可見竇卵泡很少，支持 diminished ovarian reserve。\n\n【核心考點】\n卵巢儲備評估看 AMH 與 AFC；AMH 2 ng/mL 不等於功能不佳，AFC 3 顆才偏低。",
+      "key_point": "AMH 2 ng/mL 通常不代表卵巢功能不佳。",
+      "flashcard_front": "ovarian reserve / AMH / antral follicle count / AFC",
+      "flashcard_back": "AMH 可任一天抽血，AFC 於月經早期測量；AFC 低才支持卵巢儲備差。",
+      "flashcard_summary": "卵巢儲備 -> AMH 2 ng/mL 不算差",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題官方接受 C、D。Androgen 是 estrogen 前驅物，女性 androgen 來源包含卵巢與腎上腺；停經後 androgen 仍可存在但不代表維持不減，女性外生殖器發育主要是缺乏 androgen 作用下形成，不是靠 estrogen 刺激。\n\n【選項詳解】\n- A. 錯誤。雄性素可經 aromatase 轉成雌激素，因此是雌激素前驅物，這句是正確敘述。\n- B. 錯誤。女性體內雄性素來自卵巢與腎上腺，也可由周邊轉換，不是全部由卵巢分泌。\n- C. 正確。停經後 androgen 仍有來源，但整體會隨年齡與卵巢功能改變，不應說維持不減；官方列為可給分錯誤項。\n- D. 正確。女性外生殖器發育主要是在沒有明顯 androgen/DHT 作用下形成，並非由 estrogen 刺激而成；官方也接受此選項。\n\n【核心考點】\n性分化考點：estrogen 來自 androgen 芳香化；女性外生殖器不是靠 estrogen 主動刺激形成。",
+      "key_point": "本題官方接受 C、D；停經後 androgen 不可說維持不減，女性外生殖器非由 estrogen 刺激形成。",
+      "flashcard_front": "androgen / estrogen / aromatase / female external genitalia / multiple correct",
+      "flashcard_back": "Androgen 是 estrogen 前驅物；女性 androgen 來源不只卵巢，外生殖器發育重點是缺乏 DHT 作用。",
+      "flashcard_summary": "性激素 -> 官方多重答案 C、D",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n判斷是否排卵要看排卵前後的生理變化，如 LH surge、基礎體溫上升或黃體期 progesterone。月經第 5 天看濾泡數量主要評估卵巢儲備，不適合判定這個週期是否排卵。\n\n【選項詳解】\n- A. 錯誤。基礎體溫在排卵後受 progesterone 影響會上升，可作為回顧性排卵線索。\n- B. 錯誤。預期月經前一週約為黃體中期，測 progesterone 可確認是否有黃體功能與排卵。\n- C. 正確。月經第 5 天的陰道超音波多用於 AFC 或基礎濾泡評估，無法判斷後續是否排卵。\n- D. 錯誤。尿 LH 檢測可抓 LH surge，常用於預測即將排卵。\n\n【核心考點】\n排卵評估看 LH surge、黃體期 progesterone 或基礎體溫變化；月經第 5 天 AFC 是卵巢儲備，不是排卵確認。",
+      "key_point": "月經第 5 天超音波看濾泡大小與數量不適合判斷是否排卵。",
+      "flashcard_front": "ovulation assessment / basal body temperature / progesterone / LH surge / AFC",
+      "flashcard_back": "判斷排卵可用 BBT、黃體期 progesterone 或尿 LH；月經早期 AFC 主要看卵巢儲備。",
+      "flashcard_summary": "排卵判斷 -> 月經第 5 天 AFC 不適合",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nTVT、TOT 等無張力吊帶手術的核心是把 polypropylene tape 放在尿道中段下方，提供動態支撐以改善應力性尿失禁。\n\n【選項詳解】\n- A. 錯誤。尿道膀胱頸處不是現代 mid-urethral sling 的標準置放位置。\n- B. 錯誤。尿道近端概念較接近傳統膀胱頸懸吊，和 TVT/TOT 的 mid-urethral 支撐不同。\n- C. 正確。吊帶放在尿道中段下方，咳嗽或腹壓上升時提供支撐，減少漏尿。\n- D. 錯誤。尿道遠端位置太靠外，不是應力性尿失禁吊帶手術的有效支撐點。\n\n【核心考點】\n無張力陰道吊帶治療應力性尿失禁時，放置點是 mid-urethra。",
+      "key_point": "TVT/TOT 吊帶置於尿道中段下方。",
+      "flashcard_front": "stress urinary incontinence / TVT / TOT / mid-urethral sling",
+      "flashcard_back": "應力性尿失禁吊帶手術的 polypropylene tape 放在尿道中段。",
+      "flashcard_summary": "尿失禁吊帶 -> mid-urethra",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n題目描述抑制異常姿勢與動作、誘發較正常的獨立肌肉控制，這是 Bobath / neurodevelopmental technique 的核心語言。\n\n【選項詳解】\n- A. 錯誤。Brunnstrom approach 會利用中風後協同動作階段促進恢復，並非主要強調抑制異常姿勢。\n- B. 正確。神經發展技術 NDT 強調抑制異常張力與動作模式，促進正常姿勢控制與選擇性動作。\n- C. 錯誤。本體神經誘發技術較強調感覺輸入、本體感覺與動作誘發，不是題幹這組典型敘述。\n- D. 錯誤。Task-oriented training 以實際功能任務反覆練習與問題解決為主，不以抑制姿勢反射為核心。\n\n【核心考點】\nNDT/Bobath 的關鍵字是抑制異常動作模式並促進正常姿勢控制與 isolated movement。",
+      "key_point": "中風復健中，抑制異常姿勢並誘發獨立肌肉控制是 NDT/Bobath。",
+      "flashcard_front": "stroke rehabilitation / Bobath / neurodevelopmental technique / isolated control",
+      "flashcard_back": "NDT 強調抑制異常張力與動作，促進較正常的姿勢與選擇性控制。",
+      "flashcard_summary": "中風傳統治療 -> NDT/Bobath",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n肱骨螺旋溝骨折最容易傷到橈神經。橈神經支配腕伸肌群，受傷時會出現 wrist drop，無法主動背屈手腕。\n\n【選項詳解】\n- A. 錯誤。尺神經受傷常造成小指無名指感覺異常、爪形手或手內在肌無力，不是典型垂腕。\n- B. 正確。橈神經沿肱骨螺旋溝走行，骨折時容易受傷，造成腕伸肌無力與 dropped wrist。\n- C. 錯誤。正中神經受傷影響拇指對掌、橈側手掌感覺或猿手表現，和螺旋溝骨折較不相符。\n- D. 錯誤。肌皮神經主要支配肱二頭肌等前臂屈曲相關肌群，不會造成典型垂腕。\n\n【核心考點】\n肱骨幹螺旋溝骨折合併垂腕，反射答案是橈神經損傷。",
+      "key_point": "肱骨螺旋溝骨折造成垂腕是橈神經受傷。",
+      "flashcard_front": "radial nerve / spiral groove / wrist drop / humeral shaft fracture",
+      "flashcard_back": "橈神經在肱骨螺旋溝走行，受傷會使腕背屈無力。",
+      "flashcard_summary": "螺旋溝骨折 + wrist drop -> 橈神經",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-6_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n運動單元大小和精細控制程度相反：需要精細控制的眼外肌、喉肌運動單元小；負責大力量的股四頭肌運動單元大。\n\n【選項詳解】\n- A. 錯誤。喉頭肌需要精細控制發聲，運動單元較小。\n- B. 正確。股四頭肌負責大力量伸膝與承重，單一運動神經元可支配較多肌纖維，運動單元最大。\n- C. 錯誤。咀嚼肌力量大但仍需咬合控制，運動單元通常不如股四頭肌大。\n- D. 錯誤。眼內直肌屬眼外肌，需極精細眼球運動控制，運動單元很小。\n\n【核心考點】\n精細肌肉運動單元小，大力量抗重力肌運動單元大；股四頭肌大於眼外肌與喉肌。",
+      "key_point": "股四頭肌有最大的運動單元。",
+      "flashcard_front": "motor unit size / quadriceps / extraocular muscle / laryngeal muscle",
+      "flashcard_back": "運動單元越小控制越精細；股四頭肌因需大力量而運動單元大。",
+      "flashcard_summary": "運動單元大小 -> 股四頭肌最大",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-08-12T14:27:39.460Z",
+      "manual_review_notes": []
+    }
+  ]
+}

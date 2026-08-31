@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n北歐、醃魚或淡水魚食用史，加上嚴重維生素 B12 缺乏與空腸近端帶狀蟲體，典型為廣節裂頭絛蟲 Diphyllobothrium latum，答案選 C。\n\n【選項詳解】\n- A. 錯誤。中華肝吸蟲與食用淡水魚有關，但主要寄生膽道，可造成膽管炎與膽管癌風險，不以 B12 缺乏為典型。\n- B. 錯誤。橫川吸蟲可因食用淡水魚感染並寄生小腸，但不是造成嚴重 B12 缺乏的代表寄生蟲。\n- C. 正確。Diphyllobothrium latum 又稱 fish tapeworm，常與北歐淡水魚相關，可競爭維生素 B12 造成巨幼紅血球性貧血。\n- D. 錯誤。Sparganum proliferum 是裂頭蚴病相關，常呈組織侵犯，不是空腸近端大型帶狀成蟲與 B12 缺乏的典型。\n\n【核心考點】\n魚絛蟲 Diphyllobothrium latum 的高產線索是淡水魚、北方地區、空腸寄生與 vitamin B12 deficiency。（標準答案為 C。）",
+      "key_point": "Diphyllobothrium latum 可因魚類感染並造成維生素 B12 缺乏。",
+      "flashcard_front": "Diphyllobothrium latum / fish tapeworm / B12 deficiency",
+      "flashcard_back": "廣節裂頭絛蟲常由淡水魚傳染，寄生小腸，可造成維生素 B12 缺乏與巨幼紅血球性貧血。",
+      "flashcard_summary": "北歐醃魚 + B12 缺乏 -> Diphyllobothrium latum",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n神經性囊尾幼蟲症 neurocysticercosis 最常由 Taenia solium 的蟲卵感染造成。人吞入豬肉絛蟲蟲卵後幼蟲可播散至中樞神經，答案選 C。\n\n【選項詳解】\n- A. 錯誤。旋毛蟲來自未熟豬肉或野味，幼蟲侵犯肌肉，造成肌痛、眼眶水腫，不是 neurocysticercosis。\n- B. 錯誤。牛肉絛蟲 Taenia saginata 通常造成腸道成蟲感染，不造成典型囊尾幼蟲症。\n- C. 正確。Taenia solium 蟲卵感染可造成 cysticercosis，侵犯腦部時即 neurocysticercosis，是癲癇的重要可預防原因。\n- D. 錯誤。亞洲無鉤絛蟲與腸道絛蟲感染相關，不是神經囊尾幼蟲症的主要病原。\n\n【核心考點】\nTaenia solium 有兩種考法：吃未熟豬肉得腸道成蟲；吞入蟲卵得 cysticercosis/neurocysticercosis。（標準答案為 C。）",
+      "key_point": "Neurocysticercosis 最常由 Taenia solium 蟲卵感染造成。",
+      "flashcard_front": "Taenia solium / neurocysticercosis / eggs",
+      "flashcard_back": "豬肉絛蟲蟲卵感染可形成囊尾幼蟲症，侵犯腦部造成 neurocysticercosis。",
+      "flashcard_summary": "神經囊尾幼蟲症 -> Taenia solium",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n瘧疾週期性發燒與紅血球內裂殖體同步破裂、merozoites 與代謝產物釋放有關。P. vivax 通常 48 小時週期，但不同族群不同步可讓發燒不規則；官方答案選 C。\n\n【選項詳解】\n- A. 錯誤。紅血球破裂時釋放 merozoites 與代謝產物，正是發燒週期的核心機轉之一，不是錯誤敘述。\n- B. 錯誤。許多非 falciparum 感染紅血球階段較同步，因此發燒較有規律；falciparum 常較不規則。\n- C. 正確。P. vivax 多為 48 小時 tertian fever；若有不同 sub-populations 感染，裂殖不同步，可造成不規則發燒。\n- D. 錯誤。P. malariae 潛伏期通常較長，且典型為 72 小時 quartan fever；說它比 P. vivax 潛伏期短並不恰當。\n\n【核心考點】\n瘧疾發燒週期來自 RBC schizont rupture；vivax/ovale 約 48 小時，malariae 約 72 小時，falciparum 可不規則。（標準答案為 C。）",
+      "key_point": "P. vivax 通常 48 小時發燒週期，但不同族群不同步可造成不規則發燒。",
+      "flashcard_front": "malaria fever periodicity / P. vivax / RBC rupture",
+      "flashcard_back": "瘧疾週期性發燒來自紅血球內裂殖體同步破裂；P. vivax 常 48 小時，P. malariae 常 72 小時。",
+      "flashcard_summary": "瘧疾發燒週期 -> RBC 破裂；vivax 48 小時",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\nLeishmania donovani 造成內臟利什曼病 kala-azar，可有發燒、體重減輕、貧血、肝脾腫大與腹瀉。Blackwater fever 是嚴重瘧疾相關血紅素尿，不是杜氏利什曼原蟲典型表現，答案選 C。\n\n【選項詳解】\n- A. 錯誤。內臟利什曼病可出現腸胃症狀，包括腹瀉，並非完全無關。\n- B. 錯誤。骨髓與單核吞噬系統受侵犯可造成貧血、白血球低下與血小板低下。\n- C. 正確。Blackwater fever 典型與 falciparum malaria 嚴重溶血及血紅素尿相關，不是 Leishmania donovani 的代表病症。\n- D. 錯誤。肝脾腫大是 kala-azar 的典型臨床表現之一。\n\n【核心考點】\nLeishmania donovani = visceral leishmaniasis/kala-azar、肝脾腫大、貧血；blackwater fever 記 falciparum malaria。（標準答案為 C。）",
+      "key_point": "Blackwater fever 與嚴重瘧疾較相關，不是 Leishmania donovani 典型病症。",
+      "flashcard_front": "Leishmania donovani / kala-azar / blackwater fever",
+      "flashcard_back": "杜氏利什曼原蟲造成內臟利什曼病，有貧血與肝脾腫大；blackwater fever 是嚴重瘧疾相關。",
+      "flashcard_summary": "Leishmania donovani -> kala-azar；非 blackwater fever",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n鼠疫由 Yersinia pestis 引起，鼠蚤吸血後前胃被菌塊阻塞，反覆吸血時會反流/嘔吐含菌血液到叮咬處，造成感染。若題目問錯誤，官方選 C 可能需依原文細節判讀；目前仍保留官方答案並說明常規機轉。\n\n【選項詳解】\n- A. 錯誤。人類腺鼠疫常出現引流淋巴結疼痛腫大，若叮咬部位在上肢可見腋窩 buboes。\n- B. 錯誤。鼠疫可進展為肺鼠疫，肺鼠疫可經飛沫人傳人，是公共衛生重點。\n- C. 正確。經典機轉常描述為被阻塞鼠蚤 regurgitation/反流帶菌內容物；若選項用「嘔吐作用污染叮咬傷口」可能是對此機轉的簡化，但官方列為錯誤，需注意命題用語。\n- D. 錯誤。Yersinia pestis 是革蘭陰性桿菌，為鼠疫主要致病菌。\n\n【核心考點】\n鼠疫：Yersinia pestis、鼠蚤、腺鼠疫 bubo、肺鼠疫可人傳人。此題 C 的中文用語與經典 regurgitation 機轉接近，建議考前對照官方解析。（標準答案為 C。）",
+      "key_point": "鼠疫由 Yersinia pestis 經鼠蚤傳播，可造成腺鼠疫與肺鼠疫；第35題 C 用語需留意官方判讀。",
+      "flashcard_front": "plague / Yersinia pestis / flea / regurgitation",
+      "flashcard_back": "鼠疫由 Y. pestis 引起，鼠蚤傳播；肺鼠疫可人傳人。C 選項與經典反流機轉接近，但官方列錯誤，宜複核用語。",
+      "flashcard_summary": "鼠疫 -> Y. pestis + 鼠蚤；C 選項用語需留意",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": [
+        "C 選項描述與鼠蚤反流傳播機轉相近，但官方答案列 C；建議人工複核原題文字與官方說明。"
+      ]
+    },
+    {
+      "question_id": "111-1_medicine-2_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n一因子 ANOVA 比較三組平均數時，基本假設包含各組獨立、各母體近似常態、變異數同質。最恰當敘述為三組母體變異數皆相等，答案選 A。\n\n【選項詳解】\n- A. 正確。ANOVA 的重要前提之一是 homogeneity of variance，也就是各組母體變異數相等或近似相等。\n- B. 錯誤。三組兩兩比較共有 3 次，不是 6 次；而且以多個 t 檢定取代 ANOVA 會增加 family-wise type I error，需做適當校正。\n- C. 錯誤。ANOVA 的檢定統計量服從 F distribution，不是 t distribution。\n- D. 錯誤。若以迴歸處理三組類別變項，應使用 dummy variables；直接用 1、2、3 當連續數值會假設線性趨勢，並不等同一般三組比較。\n\n【核心考點】\nANOVA 考點：F test、組間/組內變異、常態與等變異假設；類別組別做迴歸要用 dummy variables。（標準答案為 A。）",
+      "key_point": "三組 ANOVA 的前提之一是各組母體變異數相等。",
+      "flashcard_front": "ANOVA / equal variance / F distribution",
+      "flashcard_back": "ANOVA 比較三組平均數需假設等變異，檢定統計量為 F；類別組別不能隨便用 1、2、3 當連續變項。",
+      "flashcard_summary": "ANOVA -> 等變異假設 + F 分配",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n簡單線性迴歸用一個自變項 X 解釋依變項 Y 的線性關係，但觀察性迴歸本身不能直接證明因果關係。因此最不恰當的是把線性關係說成線性因果關係，答案選 C。\n\n【選項詳解】\n- A. 錯誤。簡單線性迴歸確實是在評估 X 與 Y 是否呈線性關係。\n- B. 錯誤。在標準線性迴歸假設中，更精準是殘差在各 X 下近似常態；考題常簡化為 Y 在給定 X 下近似常態。\n- C. 正確。迴歸可顯示關聯與預測，不代表一定有因果；因果推論需要時序、混雜控制與研究設計支持。\n- D. 錯誤。Simple linear regression 只有一個 independent variable；多個自變項才是 multiple regression。\n\n【核心考點】\n迴歸關係不等於因果關係。Simple linear regression 是一個 X，一個 Y，重點看線性關聯與殘差假設。（標準答案為 C。）",
+      "key_point": "簡單線性迴歸不能單憑模型結果宣稱線性因果關係。",
+      "flashcard_front": "simple linear regression / association vs causation",
+      "flashcard_back": "簡單線性迴歸評估一個 X 與 Y 的線性關聯；迴歸結果本身不能證明因果。",
+      "flashcard_summary": "線性迴歸 -> 關聯/預測，不直接等於因果",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n女性體脂率越高、乳癌風險越高，呈現暴露程度增加時疾病風險也增加，符合因果判斷中的 dose-response effect，答案選 C。\n\n【選項詳解】\n- A. 錯誤。Specificity 指某暴露較特異地導致某結果，但體脂率與乳癌風險的描述不是在強調一對一特異性。\n- B. 錯誤。Temporality 強調暴露必須早於疾病發生；題幹沒有描述時間先後。\n- C. 正確。體脂率越高風險越高，正是劑量反應關係或生物梯度的概念。\n- D. 錯誤。Biologic plausibility 指有合理生物機制支持；題幹沒有描述雌激素、脂肪組織等機制，而是在說風險隨劑量上升。\n\n【核心考點】\nBradford Hill 因果準則中，暴露越多風險越高就是 dose-response effect；暴露先於疾病才是 temporality。（標準答案為 C。）",
+      "key_point": "體脂率越高乳癌風險越高，屬劑量效應。",
+      "flashcard_front": "causal inference / dose-response effect / Bradford Hill",
+      "flashcard_back": "暴露程度增加，疾病風險隨之上升，稱 dose-response effect 或 biological gradient。",
+      "flashcard_summary": "因果判斷 -> 暴露越高風險越高 = dose-response",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n病例致死率 case-fatality rate 是死亡病例數除以已確診病例數。題幹中 621 人確診、2 人死亡，因此病例致死率為 2/621，答案選 B。\n\n【選項詳解】\n- A. 錯誤。2/24 是死亡數除以重症數，較接近重症個案中的死亡比例，不是全部確診病例的 case-fatality。\n- B. 正確。Case-fatality rate 的分母是病例數；本題病例數為 621，死亡數為 2。\n- C. 錯誤。2/3711 是死亡數除以所有船上旅客與船員，較像整個受檢疫群體的死亡比例，不是病例致死率。\n- D. 錯誤。2/(621-2) 把死亡者從病例分母中扣除，會低估定義上的病例總數。\n\n【核心考點】\nCase-fatality = deaths among cases / total cases。不要把分母拿成總暴露人口或重症人口。（標準答案為 B。）",
+      "key_point": "病例致死率為死亡病例數除以確診病例數。",
+      "flashcard_front": "case-fatality rate / deaths / confirmed cases",
+      "flashcard_back": "病例致死率 = 死亡數 / 確診病例數；本題為 2/621。",
+      "flashcard_summary": "病例致死率 -> 2 deaths / 621 cases",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n全球暖化可改變病媒與病原分布、降雨型態，且高溫會促進光化學反應，使臭氧等二次污染物濃度上升並增加心肺疾病風險。說高溫下二次空氣污染物濃度不會增加最不恰當，答案選 B。\n\n【選項詳解】\n- A. 錯誤。溫度、濕度與降雨改變會影響蚊媒、蜱媒及病原生態，進而改變傳染病風險。\n- B. 正確。高溫與日照常促進光化學反應，使臭氧等二次污染物增加；說濃度不會增加不恰當。\n- C. 錯誤。氣候變遷可改變降雨總量、季節分布與極端降雨事件。\n- D. 錯誤。二次污染物如臭氧升高，可能增加氣喘、慢性肺病與心血管事件風險。\n\n【核心考點】\n氣候變遷公共衛生衝擊包括病媒分布、極端天氣、空污加劇與心肺疾病風險增加。（標準答案為 B。）",
+      "key_point": "高溫可促進二次空氣污染物形成，不是濃度不會增加。",
+      "flashcard_front": "climate change / secondary air pollutants / ozone",
+      "flashcard_back": "高溫與日照可促進光化學反應，讓臭氧等二次污染物增加，並提高心肺疾病風險。",
+      "flashcard_summary": "氣候變遷 -> 高溫可增加二次空污",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

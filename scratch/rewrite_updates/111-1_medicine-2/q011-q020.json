@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nHIV 主要感染帶有 CD4 且具 CCR5 或 CXCR4 coreceptor 的細胞，包括 CD4 T cell、macrophage 與 dendritic cell。嗜中性白血球不是主要感染對象，答案選 B。\n\n【選項詳解】\n- A. 錯誤。CD4 T 細胞是 HIV 最重要的感染與破壞對象，與後續免疫缺陷直接相關。\n- B. 正確。嗜中性白血球主要負責吞噬與急性發炎，並非 HIV 的主要感染宿主細胞。\n- C. 錯誤。巨噬細胞可表現 CD4 與 chemokine coreceptors，可被 HIV 感染並作為病毒儲存庫。\n- D. 錯誤。樹突細胞可參與 HIV 捕捉與傳播，也可成為感染相關細胞。\n\n【核心考點】\nHIV 主要目標：CD4 T cells、macrophages、dendritic cells；不是 neutrophils。（標準答案為 B。）",
+      "key_point": "嗜中性白血球不是 HIV 主要感染對象。",
+      "flashcard_front": "HIV target cells / CD4 / macrophage / dendritic cell",
+      "flashcard_back": "HIV 主要感染 CD4 T 細胞、巨噬細胞與樹突細胞；嗜中性球不是主要宿主。",
+      "flashcard_summary": "HIV 目標細胞 -> CD4 T、巨噬、樹突，不是嗜中性球",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\nBaloxavir marboxil 抑制 influenza virus polymerase acidic protein 的 endonuclease 活性，阻斷 cap-snatching。題目選項 PB2、M2、HA、NA 都不是正確標的，因此官方全給分。\n\n【選項詳解】\n- A. 全給分。PB2 參與 cap binding，但 baloxavir 的藥理標的是 PA endonuclease，不是 PB2；因正確標的未列出，官方接受本題全部選項。\n- B. 全給分。M2 是 amantadine、rimantadine 的離子通道標的，不是 baloxavir；本題因缺少 PA endonuclease 選項而全給分。\n- C. 全給分。HA 負責病毒附著與膜融合，並非 baloxavir 的標的；官方全給分並不代表 HA 正確。\n- D. 全給分。NA 是 oseltamivir 等 neuraminidase inhibitors 的標的，不是 baloxavir；本題官方以全給分處理。\n\n【核心考點】\nBaloxavir 抑制 PA endonuclease；M2 對 amantadine，NA 對 oseltamivir，HA 是附著/融合相關。本題因選項缺正答而全給分。（官方全給分。）",
+      "key_point": "Baloxavir 的標的是 influenza PA endonuclease，本題官方全給分。",
+      "flashcard_front": "baloxavir / PA endonuclease / all credit",
+      "flashcard_back": "Baloxavir 阻斷 PA endonuclease 的 cap-snatching；PB2、M2、HA、NA 都不是正確標的，所以本題全給分。",
+      "flashcard_summary": "Baloxavir -> PA endonuclease；選項缺漏 -> 全給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問疱疹病毒與疾病配對的錯誤項。HSV-1 可造成疱疹性腦炎，EBV 可造成 infectious mononucleosis，VZV 可再活化為帶狀疱疹；herpangina 多由 Coxsackie A virus 等 enterovirus 引起，不是 HHV-6，答案選 D。\n\n【選項詳解】\n- A. 錯誤。HSV-1 是成人散發性疱疹性腦炎的重要病原，常侵犯顳葉。\n- B. 錯誤。EBV 感染 B 細胞，可造成發燒、咽炎、淋巴結腫大的傳染性單核球增多症。\n- C. 錯誤。VZV 初感染造成水痘，潛伏於神經節後再活化可造成帶狀疱疹。\n- D. 正確。HHV-6 典型與玫瑰疹 roseola infantum 相關；herpangina 常由 Coxsackie A virus 引起。\n\n【核心考點】\nHHV-6 記 roseola；herpangina 記 Coxsackie A。疱疹病毒配對題要分清 HSV、EBV、VZV、HHV-6。（標準答案為 D。）",
+      "key_point": "Herpangina 不是 HHV-6 的典型疾病，常見病原是 Coxsackie A virus。",
+      "flashcard_front": "HHV-6 / roseola / herpangina / Coxsackie",
+      "flashcard_back": "HHV-6 典型造成 roseola infantum；herpangina 多由 Coxsackie A 等 enterovirus 引起。",
+      "flashcard_summary": "疱疹病毒配對 -> HHV-6 是 roseola，不是 herpangina",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nEbola virus 是不穩定的 enveloped RNA virus，主要經血液、體液或接觸感染者分泌物傳播，不是以腸胃道為主要傳染途徑。它可感染內皮細胞與單核球，引發 cytokine storm、血管通透性增加與出血，答案選 A。\n\n【選項詳解】\n- A. 正確。Ebola 不是穩定且主要經腸胃道傳染的病毒；典型傳播是接觸感染者血液、體液或污染物。\n- B. 錯誤。Ebola 可感染單核球、巨噬細胞與內皮細胞等，快速複製並造成廣泛組織傷害。\n- C. 錯誤。嚴重 Ebola 感染可引發大量發炎介質釋放，造成 cytokine storm 與休克。\n- D. 錯誤。內皮受損與發炎反應會增加血管通透性，造成出血與血流動力學不穩。\n\n【核心考點】\nEbola 是 enveloped filovirus，傳播重點是體液接觸；重症機轉包括 cytokine storm、內皮傷害與出血。（標準答案為 A。）",
+      "key_point": "Ebola 主要經體液接觸傳播，不是穩定且以腸胃道為主的病毒。",
+      "flashcard_front": "Ebola / body fluids / cytokine storm / hemorrhage",
+      "flashcard_back": "Ebola 是 enveloped RNA virus，經血液體液傳播，可感染內皮與單核球並造成 cytokine storm、出血。",
+      "flashcard_summary": "Ebola -> 體液接觸傳播，非腸胃道主傳染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n登革病毒是有套膜的 Flavivirus，與 C 型肝炎病毒同屬 Flaviviridae。它可被乙醚或氯仿去活化，血球凝集抑制不適合精準區分四型，且臨床沒有特效抗登革病毒藥物，答案選 B。\n\n【選項詳解】\n- A. 錯誤。登革病毒有套膜，脂溶劑如乙醚或氯仿可破壞 envelope 而使病毒失活。\n- B. 正確。Dengue virus 與 hepatitis C virus 同屬 Flaviviridae，都是正股 RNA 病毒家族成員。\n- C. 錯誤。血球凝集抑制試驗有交叉反應，不能可靠區分四種登革病毒血清型；分型需靠更專一方法。\n- D. 錯誤。登革熱治療以支持療法為主，沒有常規可用的特效抗病毒藥物。\n\n【核心考點】\nDengue 是 enveloped Flavivirus；治療以支持療法為主，分型不能靠非專一的血球凝集抑制當作唯一依據。（標準答案為 B。）",
+      "key_point": "登革病毒與 HCV 同屬 Flaviviridae。",
+      "flashcard_front": "dengue / Flaviviridae / envelope / supportive care",
+      "flashcard_back": "登革病毒為有套膜 Flavivirus，可被脂溶劑去活化；與 HCV 同屬 Flaviviridae。",
+      "flashcard_summary": "登革病毒 -> Flaviviridae，有套膜",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n題目問阻斷真菌 microtubule 的抗黴菌藥。Griseofulvin 會干擾微管與有絲分裂，常用於皮癬菌感染，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Itraconazole 是 azole 類，抑制 ergosterol 合成，不是 microtubule 抑制劑。\n- B. 正確。Griseofulvin 會結合真菌微管蛋白，抑制有絲分裂紡錘體功能。\n- C. 錯誤。Nystatin 與 ergosterol 結合形成膜孔洞，常用於念珠菌局部感染。\n- D. 錯誤。Terbinafine 抑制 squalene epoxidase，使 ergosterol 合成受阻。\n\n【核心考點】\n抗黴菌藥機轉：griseofulvin 抑制 microtubule；azoles、terbinafine 影響 ergosterol 合成；nystatin/amphotericin B 結合 ergosterol。（標準答案為 B。）",
+      "key_point": "Griseofulvin 阻斷真菌微小管與有絲分裂。",
+      "flashcard_front": "griseofulvin / fungal microtubule / antifungal mechanisms",
+      "flashcard_back": "Griseofulvin 抑制真菌微管；itraconazole 抑制 ergosterol 合成，nystatin 結合 ergosterol，terbinafine 抑制 squalene epoxidase。",
+      "flashcard_summary": "抗黴菌機轉 -> griseofulvin 抑制 microtubule",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\nCryptococcus neoformans 可產生 phenol oxidase/laccase，在 niger seed agar 將 substrate 轉成 melanin，使菌落呈咖啡色，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Buffered charcoal yeast extract agar 主要用於 Legionella 培養，不是 Cryptococcus 產棕色色素的鑑別培養基。\n- B. 錯誤。CHROMagar 可用於某些 Candida species 鑑別，但不是新型隱球菌咖啡色菌落的經典答案。\n- C. 錯誤。Cornmeal agar 常用於觀察 Candida 的型態如 chlamydospore，不是此題重點。\n- D. 正確。Niger seed agar 含 caffeic acid 類 substrate，Cryptococcus neoformans 產 melanin 後菌落呈棕黑色。\n\n【核心考點】\nCryptococcus neoformans：厚莢膜、India ink、urease positive、niger seed agar 棕黑色菌落。（標準答案為 D。）",
+      "key_point": "Cryptococcus neoformans 在 niger seed agar 可形成咖啡色/棕黑色菌落。",
+      "flashcard_front": "Cryptococcus neoformans / niger seed agar / melanin",
+      "flashcard_back": "新型隱球菌有 laccase，可在 niger seed agar 產生 melanin，菌落呈棕黑色。",
+      "flashcard_summary": "Cryptococcus 鑑別 -> niger seed agar 棕黑色",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n題目問免疫系統消滅病原體的錯誤描述。NK cell 可辨識低 MHC I、stress ligands 或經 ADCC 殺細胞，但沒有像 TCR/BCR 那樣以抗原特異性受體直接辨識抗原，答案選 A。\n\n【選項詳解】\n- A. 正確。NK 細胞屬先天免疫，靠 activating/inhibitory receptors 與 missing-self 概念，不靠抗原特異性受體直接辨識抗原。\n- B. 錯誤。巨噬細胞吞噬細菌後，可在 phagolysosome 中以酵素與活性氧等方式殺菌。\n- C. 錯誤。補體活化可形成 membrane attack complex 或促進 opsonization，對細菌清除有重要作用。\n- D. 錯誤。中和抗體可阻斷病毒與細胞受體結合，防止病毒進入宿主細胞。\n\n【核心考點】\n抗原特異性受體是 TCR/BCR 的特色；NK cell 屬先天免疫，靠 missing-self、stress ligand 與 ADCC。（標準答案為 A。）",
+      "key_point": "NK 細胞不以抗原特異性受體直接辨識抗原。",
+      "flashcard_front": "NK cell / antigen-specific receptor / innate immunity",
+      "flashcard_back": "NK cell 靠 missing-self、活化/抑制受體與 ADCC，不像 T/B 細胞用抗原特異性受體直接辨識抗原。",
+      "flashcard_summary": "NK cell -> 先天免疫，不是 TCR/BCR 式抗原特異辨識",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\nT follicular helper cells 協助 germinal center B cells 進行 class switching、somatic hypermutation 與 plasma cell 分化，主要分泌 IL-21，答案選 A。\n\n【選項詳解】\n- A. 正確。IL-21 是 TFH 細胞的重要 cytokine，可促進 B 細胞增生、分化與抗體反應成熟。\n- B. 錯誤。IL-22 常與 Th17/Th22 及上皮屏障反應相關，不是 TFH 的主要代表 cytokine。\n- C. 錯誤。IL-23 主要由抗原呈現細胞分泌，促進 Th17 維持與擴增。\n- D. 錯誤。IL-27 由抗原呈現細胞產生，參與 T 細胞分化調節，不是 TFH 的主要分泌物。\n\n【核心考點】\nTFH 的重點是 B cell help、germinal center、IL-21、CD40L 與 class switching。（標準答案為 A。）",
+      "key_point": "TFH 細胞主要分泌 IL-21 以協助 B 細胞反應。",
+      "flashcard_front": "TFH / IL-21 / germinal center",
+      "flashcard_back": "濾泡輔助 T 細胞分泌 IL-21，協助 germinal center B cell 做 class switching、親和力成熟與分化。",
+      "flashcard_summary": "TFH -> IL-21 -> B cell help",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n題目問腫瘤免疫互動最不適當敘述。CAR-T 通常取出病人自己的 T 細胞進行基因改造後回輸，而不是取健康人的 T 細胞直接改造打回癌症病人，答案選 C。\n\n【選項詳解】\n- A. 錯誤。免疫監視理論認為新生腫瘤細胞可被 T 細胞與 NK 細胞辨識並清除，雖然腫瘤也可能免疫逃脫。\n- B. 錯誤。Rituximab、trastuzumab 等單株抗體可透過補體活化、ADCC 或受體訊號阻斷發揮抗腫瘤作用。\n- C. 正確。CAR-T 多使用患者自體 T 細胞改造後回輸；若使用健康人異體 T 細胞，會涉及排斥與 graft-versus-host 風險，不是標準描述。\n- D. 錯誤。Checkpoint blockade 以 anti-CTLA-4、anti-PD-1/PD-L1 阻斷抑制訊號，使 T 細胞重新攻擊腫瘤。\n\n【核心考點】\nCAR-T 的典型流程是取自體 T cell、基因改造表現 CAR、擴增後回輸；checkpoint blockade 是解除 T cell 抑制。（標準答案為 C。）",
+      "key_point": "CAR-T 療法典型使用病人自體 T 細胞，而不是健康人的 T 細胞。",
+      "flashcard_front": "CAR-T / autologous T cell / checkpoint blockade",
+      "flashcard_back": "CAR-T 通常取病人自己的 T cell 改造後回輸；checkpoint inhibitors 阻斷 CTLA-4 或 PD-1/PD-L1。",
+      "flashcard_summary": "腫瘤免疫治療 -> CAR-T 多為自體 T 細胞",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

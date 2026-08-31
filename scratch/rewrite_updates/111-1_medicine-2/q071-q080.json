@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\nTolvaptan 是選擇性 vasopressin V2 receptor antagonist，可增加自由水排泄 aquaresis，用於特定低血鈉如 SIADH。Conivaptan 同時阻斷 V1a/V2，不是選擇性 V2，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Selepressin 是選擇性 V1a agonist，曾研究於血管張力支持，並非 V2 antagonist。\n- B. 錯誤。Terlipressin 是 vasopressin 類似物，偏 V1 作用，用於食道靜脈曲張出血或肝腎症候群等，不是 V2 antagonist。\n- C. 錯誤。Conivaptan 是 V1a/V2 antagonist，並非選擇性 V2 antagonist。\n- D. 正確。Tolvaptan 選擇性阻斷 V2 receptor，減少集合管水再吸收，可提高血鈉。\n\n【核心考點】\nVaptans 治療 euvolemic/hypervolemic hyponatremia；tolvaptan 選擇性 V2，conivaptan 阻 V1a/V2。（標準答案為 D。）",
+      "key_point": "Tolvaptan 是選擇性 V2 receptor antagonist。",
+      "flashcard_front": "tolvaptan / V2 antagonist / hyponatremia",
+      "flashcard_back": "Tolvaptan 阻斷 V2 receptor 造成 aquaresis，可治療特定低血鈉；conivaptan 是 V1a/V2 antagonist。",
+      "flashcard_summary": "低血鈉 V2 antagonist -> tolvaptan",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\nCAPS 是 cryopyrin/NLRP3 inflammasome 過度活化造成 IL-1β 相關自體發炎疾病。Rilonacept 是 IL-1 trap，可治療 CAPS，包含 familial cold autoinflammatory syndrome，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Ketorolac 是 NSAID，可止痛抗發炎，但不能針對 CAPS 的 IL-1β 核心機轉。\n- B. 正確。Rilonacept 是 IL-1 receptor fusion protein trap，能中和 IL-1，適用於 CAPS。\n- C. 錯誤。Secukinumab 是 anti-IL-17A，常用於乾癬、僵直性脊椎炎等，不是 CAPS 主要治療。\n- D. 錯誤。Tramadol 是止痛藥，不能治療 CAPS 的自體發炎機轉。\n\n【核心考點】\nCAPS = NLRP3/cryopyrin inflammasome -> IL-1β；治療記 anakinra、rilonacept、canakinumab。（標準答案為 B。）",
+      "key_point": "Rilonacept 可中和 IL-1，用於 CAPS。",
+      "flashcard_front": "CAPS / cryopyrin / IL-1 / rilonacept",
+      "flashcard_back": "Cryopyrin-associated periodic syndrome 由 IL-1β 過度活化相關，可用 rilonacept、anakinra、canakinumab。",
+      "flashcard_summary": "CAPS -> IL-1 blockade，rilonacept",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nBenztropine 是抗膽鹼藥，可改善 Parkinson disease tremor，但會造成尿滯留、便秘、認知變差等副作用。老年人若已有排尿不順，最不適合使用 benztropine，答案選 A。\n\n【選項詳解】\n- A. 正確。Benztropine 的 antimuscarinic effect 會加重攝護腺肥大或排尿困難造成的尿滯留。\n- B. 錯誤。Ropinirole 是 dopamine agonist，副作用偏嗜睡、衝動控制、姿態性低血壓，不以抗膽鹼尿滯留為主。\n- C. 錯誤。Selegiline 是 MAO-B inhibitor，增加中樞 dopamine，並非造成排尿不順的代表藥。\n- D. 錯誤。Levodopa 是 dopamine 前驅物，是 Parkinson disease 主要治療藥，不是因排尿不順最該避免的選項。\n\n【核心考點】\n老年人用抗膽鹼藥要小心 urinary retention、glaucoma、delirium；Parkinson tremor 可用 benztropine 但禁忌較多。（標準答案為 A。）",
+      "key_point": "Benztropine 抗膽鹼作用會加重老年人排尿不順。",
+      "flashcard_front": "benztropine / anticholinergic / urinary retention",
+      "flashcard_back": "Benztropine 可治 Parkinson tremor，但抗膽鹼副作用會造成尿滯留，排尿不順老人不適合。",
+      "flashcard_summary": "Parkinson 藥物 -> 排尿不順避免 benztropine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\nMethadone 是長效 opioid receptor agonist，可口服給藥，用於 opioid use disorder 替代治療。它仍有成癮性、停藥可戒斷，且不是拮抗劑，答案選 A。\n\n【選項詳解】\n- A. 正確。Methadone 口服生體可用率佳、半衰期長，適合監督下替代治療。\n- B. 錯誤。Methadone 本身是 opioid agonist，仍具依賴與成癮風險，只是藥動學較平穩可減害。\n- C. 錯誤。Methadone 是 μ-opioid receptor agonist，不是 antagonist；naltrexone、naloxone 才是拮抗劑。\n- D. 錯誤。長期使用 methadone 停藥仍可出現戒斷症狀，甚至因半衰期長而拖得較久。\n\n【核心考點】\nMethadone：口服、長效 μ agonist、替代治療；naltrexone/naloxone 是 antagonist。（標準答案為 A。）",
+      "key_point": "Methadone 可口服，是長效 opioid agonist。",
+      "flashcard_front": "methadone / oral / opioid agonist",
+      "flashcard_back": "Methadone 是可口服長效 μ-opioid agonist，用於鴉片類成癮替代治療；仍會依賴與戒斷。",
+      "flashcard_summary": "Methadone -> 可口服長效 opioid agonist",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nZaleplon 是 nonbenzodiazepine hypnotic，起效快且半衰期很短，適合入睡困難。Flurazepam、diazepam、chlordiazepoxide 都是較長效 benzodiazepines，答案選 A。\n\n【選項詳解】\n- A. 正確。Zaleplon 半衰期約 1 小時，主要改善 sleep onset insomnia，隔日殘餘鎮靜較少。\n- B. 錯誤。Flurazepam 半衰期長且有活性代謝物，較容易隔日嗜睡，不是最短效。\n- C. 錯誤。Diazepam 半衰期長、活性代謝物多，不適合用「半衰期最短」描述。\n- D. 錯誤。Chlordiazepoxide 也是長效 benzodiazepine，常見於酒精戒斷治療，不是短效入睡藥。\n\n【核心考點】\nZ-drugs 中 zaleplon 很短效，適合入睡困難；長效 benzodiazepines 易有隔日殘留。（標準答案為 A。）",
+      "key_point": "Zaleplon 起效快、半衰期短，適合入睡困難。",
+      "flashcard_front": "zaleplon / short half-life / sleep onset insomnia",
+      "flashcard_back": "Zaleplon 是短效 nonbenzodiazepine hypnotic，適合改善入睡困難。",
+      "flashcard_summary": "安眠藥 -> zaleplon 短效助入睡",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nIL-17/Th17 軸對招募嗜中性球與抗細菌、抗真菌黏膜防禦很重要。IL-17 缺乏會使嗜中性球性發炎不足，病灶較可能缺少大量嗜中性球；冷膿瘍的概念是膿瘍發炎反應不明顯，答案選 D。\n\n【選項詳解】\n- A. 錯誤。IL-17 促進 neutrophil recruitment；若缺乏 IL-17，反而不容易形成大量嗜中性球浸潤的典型急性化膿炎。\n- B. 錯誤。尋常型天皰瘡主要是抗 desmoglein 自體抗體造成表皮內水疱，與 IL-17 缺乏不是最直接連結。\n- C. 錯誤。類天皰瘡主要是抗 hemidesmosome/basement membrane zone 抗體造成表皮下水疱。\n- D. 正確。冷膿瘍表示局部紅熱痛等急性發炎反應不明顯，可與嗜中性球招募不足或細胞免疫異常的概念連結。\n\n【核心考點】\nIL-17 促進嗜中性球反應；缺乏時會降低典型化膿性發炎與黏膜抗菌/抗黴菌能力。（標準答案為 D。）",
+      "key_point": "IL-17 缺乏會影響嗜中性球招募，較能連到冷膿瘍樣發炎不明顯病灶。",
+      "flashcard_front": "IL-17 / neutrophil recruitment / cold abscess",
+      "flashcard_back": "Th17/IL-17 促進嗜中性球浸潤；缺乏時急性化膿性發炎反應較不足。",
+      "flashcard_summary": "IL-17 缺乏 -> 嗜中性球反應不足，冷膿瘍",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n胃食道逆流造成食道末端慢性傷害時，可出現 Barrett esophagus，也就是鱗狀上皮被腸型柱狀上皮取代。良性柱狀上皮細胞代表化生 metaplasia，答案選 D。\n\n【選項詳解】\n- A. 錯誤。Dysplasia 是上皮異型增生，代表癌前變化；題幹說良性柱狀上皮，重點是細胞型態轉換。\n- B. 錯誤。Hyperplasia 是細胞數目增加，不是食道鱗狀上皮轉為柱狀上皮。\n- C. 錯誤。Metastasis 是惡性腫瘤轉移，題幹描述良性上皮變化，不符合。\n- D. 正確。Metaplasia 是一種成熟細胞型態被另一種成熟細胞型態取代，Barrett esophagus 即食道末端柱狀化生。\n\n【核心考點】\nBarrett esophagus = intestinal metaplasia from chronic GERD；metaplasia 可增加 adenocarcinoma 風險。（標準答案為 D。）",
+      "key_point": "GERD 後食道末端良性柱狀上皮為化生。",
+      "flashcard_front": "Barrett esophagus / metaplasia / GERD",
+      "flashcard_back": "慢性胃食道逆流可造成食道末端鱗狀上皮化生成柱狀上皮，稱 Barrett esophagus。",
+      "flashcard_summary": "GERD + 食道柱狀上皮 -> metaplasia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nEwing sarcoma family tumors 最常見特徵性染色體轉位是 t(11;22)(q24;q12)，形成 EWSR1-FLI1 fusion，可作為分子診斷依據，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Trisomy 22 不是 ESFT 的典型診斷性異常。\n- B. 正確。t(11;22)(q24;q12) 形成 EWSR1-FLI1，是 Ewing sarcoma 最經典分子變化。\n- C. 錯誤。1p/19q co-deletion 是 oligodendroglioma 的重要分子標記，不是 Ewing sarcoma。\n- D. 錯誤。N-MYC amplification 常與 neuroblastoma 預後不良相關，不是 ESFT 的代表異常。\n\n【核心考點】\nEwing sarcoma = small round blue cell tumor + t(11;22) EWSR1-FLI1。（標準答案為 B。）",
+      "key_point": "Ewing sarcoma 常見 t(11;22)(q24;q12) translocation。",
+      "flashcard_front": "Ewing sarcoma / t(11;22) / EWSR1-FLI1",
+      "flashcard_back": "Ewing sarcoma family tumors 的典型分子診斷是 t(11;22) 造成 EWSR1-FLI1 fusion。",
+      "flashcard_summary": "Ewing sarcoma -> t(11;22) EWSR1-FLI1",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n7 歲兒童、遠端股骨、偏心性小型放射線透亮多葉病灶，最符合 fibrous cortical defect，又稱 non-ossifying fibroma 小型病灶，常為偶然發現，答案選 A。\n\n【選項詳解】\n- A. 正確。Fibrous cortical defect 常見於兒童長骨 metaphysis，偏心、界線清楚、放射線透亮，通常良性且可自限。\n- B. 錯誤。Fibrous dysplasia 可見 ground-glass appearance，常位於骨髓腔，年齡與影像描述不如 A 符合。\n- C. 錯誤。Giant cell tumor 多見骨骺閉合後年輕成人，位於 epiphysis，年齡與位置不符。\n- D. 錯誤。Chondrosarcoma 多見成人/老年，屬惡性軟骨腫瘤，與 7 歲小孩小型皮質缺損不符。\n\n【核心考點】\n兒童長骨 metaphysis 偏心性 radiolucent lesion 要想到 fibrous cortical defect/non-ossifying fibroma。（標準答案為 A。）",
+      "key_point": "兒童遠端股骨偏心性小型透亮病灶最符合 fibrous cortical defect。",
+      "flashcard_front": "fibrous cortical defect / child / eccentric radiolucent metaphysis",
+      "flashcard_back": "Fibrous cortical defect 常見兒童長骨 metaphysis，偏心性、放射線透亮，通常良性自限。",
+      "flashcard_summary": "兒童遠端股骨偏心透亮病灶 -> fibrous cortical defect",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n腦外傷後可有精神症狀、post-traumatic epilepsy、hydrocephalus 等後遺症。脫髓鞘性疾病通常屬免疫或代謝等其他機轉，不是腦外傷常見後遺症，答案選 D。\n\n【選項詳解】\n- A. 錯誤。腦外傷後可出現情緒障礙、人格改變、焦慮、憂鬱或認知行為問題。\n- B. 錯誤。腦外傷是後天性癲癇的重要原因之一，可造成 post-traumatic epilepsy。\n- C. 錯誤。腦外傷後出血、蛛網膜下腔沾黏或吸收障礙可造成水腦。\n- D. 正確。脫髓鞘性病變如 multiple sclerosis 多為免疫相關疾病，不是腦外傷常見後遺症。\n\n【核心考點】\nTBI 後遺症可記 cognitive/psychiatric change、seizure、hydrocephalus；demyelinating disease 不是典型外傷後果。（標準答案為 D。）",
+      "key_point": "脫髓鞘性病變少見於腦外傷後遺症。",
+      "flashcard_front": "traumatic brain injury / sequelae / demyelinating disease",
+      "flashcard_back": "腦外傷後可有精神症狀、癲癇與水腦；脫髓鞘疾病不是常見後遺症。",
+      "flashcard_summary": "腦外傷後遺症 -> 精神、癲癇、水腦；非脫髓鞘",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

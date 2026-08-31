@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/111-1/medicine-2.json",
+  "dataset_id": "111-1_medicine-2",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "111-1_medicine-2_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n腫瘤細胞常表現 PD-L1，與 T 細胞上的 PD-1 結合後傳遞抑制訊號，使 T 細胞活性下降，達到 immune escape，答案選 B。\n\n【選項詳解】\n- A. 錯誤。CD28 是 T 細胞上的共刺激受體，與 B7 結合促進 T cell activation，不是腫瘤用來抑制免疫的典型配體。\n- B. 正確。PD-L1 可由腫瘤細胞表現，結合 PD-1 後抑制 T 細胞反應，是免疫檢查點治療的重要標的。\n- C. 錯誤。PD-1 主要是 T 細胞上的抑制性受體；題目問腫瘤細胞表現以抑制宿主免疫的分子，較精準是 PD-L1。\n- D. 錯誤。CTLA-4 是 T 細胞上的抑制性受體，會與 B7 競爭 CD28 訊號，不是腫瘤細胞表現的典型答案。\n\n【核心考點】\nPD-1 在 T cell，PD-L1 常在 tumor/APC；PD-1/PD-L1 interaction 會抑制 T cell，anti-PD-1/PD-L1 可解除抑制。（標準答案為 B。）",
+      "key_point": "腫瘤細胞表現 PD-L1 可抑制 T 細胞免疫反應。",
+      "flashcard_front": "PD-L1 / PD-1 / tumor immune escape",
+      "flashcard_back": "腫瘤細胞表現 PD-L1，結合 T 細胞 PD-1 後抑制 T cell 活性，是 checkpoint blockade 的標的。",
+      "flashcard_summary": "腫瘤免疫逃脫 -> tumor PD-L1 抑制 T cell PD-1",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nOpsonization 是病原體表面被 IgG 或 C3b 等調理素標記後，讓吞噬細胞更容易辨識與吞噬。吞噬細胞表面的 complement receptors 可辨識 C3b，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Toll-like receptors 辨識 PAMPs 並啟動先天免疫訊號，但不是辨識已附著調理素的主要受體。\n- B. 正確。Complement receptors 可辨識附著在病菌表面的 C3b/iC3b，促進吞噬作用。\n- C. 錯誤。Lectin-like receptors 可辨識醣類結構，例如 mannose receptor，但不等同調理素受體。\n- D. 錯誤。Chemokine receptors 主要接收趨化訊號，引導白血球移動，不是辨識 opsonin 的受體。\n\n【核心考點】\n調理作用常考 IgG Fc receptor 與 C3b complement receptor；C3b 是很高產的 opsonin。（標準答案為 B。）",
+      "key_point": "吞噬細胞的 complement receptors 可辨識 C3b 等補體調理素。",
+      "flashcard_front": "opsonization / C3b / complement receptor",
+      "flashcard_back": "調理作用靠 IgG 或 C3b 標記病原；吞噬細胞以 Fc receptor 或 complement receptor 辨識後吞噬。",
+      "flashcard_summary": "Opsonization -> C3b + complement receptor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\nAtaxia-telangiectasia 由 ATM DNA repair defect 造成，對 DNA double-strand breaks 修復能力差。V(D)J recombination 需要產生並修復雙股斷裂，因此 B、T 細胞受體生成受影響，答案選 A。\n\n【選項詳解】\n- A. 正確。V(D)J recombination 需要 DNA 斷裂與修復；ATM 缺陷會影響淋巴球受體重組，導致免疫缺陷。\n- B. 錯誤。無法產生 IgM 不是 ataxia-telangiectasia 的主要機轉描述；它的根本問題是 DNA repair。\n- C. 錯誤。MHC class I 辨識缺陷會影響 CD8 T cell 相關反應，但不是本病 B、T 細胞數量減少的主因。\n- D. 錯誤。MHC class II 缺陷會造成 bare lymphocyte syndrome 類型免疫缺陷，不是 ataxia-telangiectasia。\n\n【核心考點】\nAtaxia-telangiectasia = ATM mutation、DNA double-strand break repair defect、免疫缺陷、共濟失調、微血管擴張。（標準答案為 A。）",
+      "key_point": "Ataxia-telangiectasia 因 DNA 修復缺陷影響 V(D)J 重組。",
+      "flashcard_front": "ataxia-telangiectasia / ATM / V(D)J recombination",
+      "flashcard_back": "ATM 缺陷造成 DNA 雙股斷裂修復不良，會影響 V(D)J 重組與淋巴球發育。",
+      "flashcard_summary": "A-T syndrome -> ATM DNA repair defect -> V(D)J 受影響",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題問免疫球蛋白基因重組何者錯誤。重鏈先 D-J 再 V-DJ、輕鏈先 κ 再 λ、allelic exclusion 都是正確概念；但 V(D)J junctional diversity 主要集中在 CDR3，不是 CDR1、CDR2、CDR3 都由 junction 造成最大歧異，答案選 C。\n\n【選項詳解】\n- A. 錯誤。B 細胞早期發育時，重鏈基因確實先做 D-J，再做 V-DJ 重組。\n- B. 錯誤。輕鏈通常先嘗試 κ chain V-J 重組，失敗後再嘗試 λ chain，這是輕鏈重組順序的典型考點。\n- C. 正確。V(D)J 接合處造成的 junctional diversity 主要影響 CDR3；CDR1、CDR2 多由 germline V segment 編碼，不是同樣由接合位置造成最大歧異。\n- D. 錯誤。成功重組後會抑制另一等位基因繼續重組，稱 allelic exclusion，使單一 B 細胞表現單一抗原特異性。\n\n【核心考點】\n免疫球蛋白重組：heavy chain D-J -> V-DJ；light chain κ before λ；junctional diversity mainly CDR3；allelic exclusion 保持單一特異性。（標準答案為 C。）",
+      "key_point": "V(D)J 接合造成的最大歧異主要在 CDR3，不是 CDR1、CDR2、CDR3 全部。",
+      "flashcard_front": "BCR rearrangement / CDR3 / allelic exclusion",
+      "flashcard_back": "重鏈先 D-J 再 V-DJ；輕鏈先 κ 後 λ；junctional diversity 主要在 CDR3。",
+      "flashcard_summary": "免疫球蛋白重組 -> 接合歧異主要 CDR3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n本題資料疑似把第 25 題題幹與第 26 題 AID 題幹/選項黏在一起；目前選項實際上是 AID 相關敘述，且官方答案為 C。依現有選項解讀，AID 可促進 somatic hypermutation 與 IgE class switching；CSR 起於 AID 去胺化 cytosine 後的 DNA 修復與雙股斷裂。若把 C 當錯誤選項，可能與穩定免疫學概念不一致，需人工複核原始題目。\n\n【選項詳解】\n- A. Germinal center 高表現這點合理；AID 進入活化 B 細胞後，讓免疫球蛋白可變區發生 somatic hypermutation。\n- B. IgE 轉換屬 class switch recombination，需要 AID 啟動 switch region 的去胺化與後續修復。\n- C. Cytosine 去胺成 uridine 正是 AID 的反應起點，後續 repair 才會造成雙股斷裂並完成 CSR；官方把 C 列為答案，需複核。\n- D. RSS 是 V(D)J recombination 的訊號序列，不主導 class switch；若僅看 AID/CSR 選項，這句反而比較像錯誤敘述。\n\n【核心考點】\n此題需回查官方原題：目前題幹前半問 Th 分化配對，但選項為 AID；且官方答案 C 與常規 AID/CSR 概念疑似衝突。先保留官方答案，不改題庫結構。（標準答案為 C。）",
+      "key_point": "第 25 題疑似題幹/選項錯置，官方答案 C 需人工複核。",
+      "flashcard_front": "Q25 manual review / AID / CSR / RSS",
+      "flashcard_back": "AID 參與 somatic hypermutation 與 class switch recombination；RSS 是 V(D)J recombination 訊號。第 25 題資料疑似混入下一題並需複核。",
+      "flashcard_summary": "第25題 -> 題幹選項疑似錯置，AID/CSR 答案需人工複核",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": [
+        "題幹疑似混入第26題，且現有 AID 選項與官方答案 C 可能不一致；請對照原始試題人工複核。"
+      ]
+    },
+    {
+      "question_id": "111-1_medicine-2_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nAID 會將 cytosine 去胺化成 uridine，啟動 DNA 修復，造成 somatic hypermutation 與 class switch recombination。RSS 是 V(D)J recombination 的訊號序列，不是 CSR 主導序列，所以答案選 D。\n\n【選項詳解】\n- A. 錯誤。AID 在 germinal center B cells 高表現，促進 somatic hypermutation，這是正確敘述。\n- B. 錯誤。IgE 類別轉換屬 class switch recombination，需要 AID 參與，因此這句正確。\n- C. 錯誤。CSR 的起始確實與 AID 將 cytosine 轉成 uridine、引發修復與 DNA 雙股斷裂有關。\n- D. 正確。RSS 是 V(D)J recombination 的 recombination signal sequence，不是 class switch recombination 的主導序列；CSR 主要發生在 switch regions。\n\n【核心考點】\nAID 負責 SHM 與 CSR；RSS 屬 V(D)J recombination，switch regions 才是 CSR 的關鍵位置。（標準答案為 D。）",
+      "key_point": "Class switch recombination 不由 RSS 主導，AID 才是核心酵素。",
+      "flashcard_front": "AID / class switch recombination / RSS",
+      "flashcard_back": "AID 造成 cytosine deamination，促進 SHM 與 CSR；RSS 是 V(D)J 重組訊號，不是 CSR 訊號。",
+      "flashcard_summary": "AID -> SHM/CSR；RSS -> V(D)J，不是 CSR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n題目問去年得流感、今年仍可能再感染的原因。流感病毒抗原變異可使既有免疫保護不完全；此題官方答案選 C，指向 original antigenic sin 對後續變異株抗體反應的影響。\n\n【選項詳解】\n- A. 錯誤。流感病毒不會像 HSV/VZV 一樣潛伏在神經節後冬天再活化；反覆感染主要來自新暴露與抗原變異。\n- B. 錯誤。流感 RNA polymerase 易出錯可造成點突變，但點突變造成的是 antigenic drift，不是 antigenic shift；shift 是基因片段重組 reassortment。\n- C. 正確。Original antigenic sin 指免疫系統偏向喚起第一次感染株的記憶反應，可能使對新變異株的抗體反應不夠理想。\n- D. 錯誤。流感疫苗可降低感染與重症風險，但因抗原變異與疫苗株匹配度限制，不能保證完全不會罹患流感。\n\n【核心考點】\n流感反覆感染要分 antigenic drift、antigenic shift 與 original antigenic sin；點突變是 drift，不是 shift。（標準答案為 C。）",
+      "key_point": "流感反覆感染與抗原變異、original antigenic sin 有關；點突變稱 antigenic drift。",
+      "flashcard_front": "influenza reinfection / original antigenic sin / drift vs shift",
+      "flashcard_back": "流感點突變是 antigenic drift；original antigenic sin 會讓免疫反應偏向舊株，疫苗也不能保證完全不感染。",
+      "flashcard_summary": "流感再感染 -> 抗原變異與 original antigenic sin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n氣喘與異位性皮膚炎屬典型 type 2 immune response，常見 Th2 cytokines 如 IL-4、IL-5、IL-13，以及 IgE 升高。IL-5 與嗜酸性球活化相關，IgE 參與第一型過敏反應，答案選 B。\n\n【選項詳解】\n- A. 錯誤。IL-5 符合 Th2 過敏反應，但 IgA 不是氣喘與異位性皮膚炎最典型升高的抗體類別。\n- B. 正確。Th2/IL-5 反應與嗜酸性球、過敏發炎相關，血清 IgE 升高也符合 atopic disease。\n- C. 錯誤。IFN-γ 是 Th1 代表 cytokine，IgA 主要與黏膜免疫相關，不是此類過敏病的典型組合。\n- D. 錯誤。IgE 正確，但 IFN-γ 偏 Th1 反應；氣喘、異位性皮膚炎更偏 Th2 cytokine profile。\n\n【核心考點】\nAtopy/asthma/eczema 連到 Th2、IL-4/IL-5/IL-13、IgE、eosinophils。（標準答案為 B。）",
+      "key_point": "過敏性氣喘與異位性皮膚炎常見 Th2/IL-5 反應與 IgE 升高。",
+      "flashcard_front": "atopy / asthma / IL-5 / IgE",
+      "flashcard_back": "氣喘、異位性皮膚炎屬 Th2 型過敏反應，常有 IL-5、IL-4/13、IgE 與嗜酸性球增加。",
+      "flashcard_summary": "過敏疾病 -> Th2/IL-5 + IgE",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n吃淡水魚生魚片後出現腹痛、眼眶附近浮腫，並取出約 4 mm 蟲體，典型指向 gnathostomiasis。有棘頜口線蟲幼蟲可由未熟淡水魚傳染並在皮下或眼部移行，答案選 B。\n\n【選項詳解】\n- A. 錯誤。Onchocerca volvulus 經黑蠅傳播，造成河盲症、皮下結節與眼病變，與淡水魚生食不符。\n- B. 正確。Gnathostoma spinigerum 常與食用未熟淡水魚、蛙、雞等有關，可造成移行性皮下腫脹或眼部寄生。\n- C. 錯誤。Thelazia callipaeda 是東方眼蟲，經果蠅類媒介傳播，通常寄生於結膜囊，不是吃淡水魚後腹痛加皮下移行的典型答案。\n- D. 錯誤。Dracunculus medinensis 經飲用含感染性劍水蚤的水傳播，成蟲常從下肢皮膚鑽出。\n\n【核心考點】\nGnathostoma 與未熟淡水魚/肉類、生食史、移行性皮下腫脹與眼部侵犯相關。（標準答案為 B。）",
+      "key_point": "食用淡水魚生魚片後移行性眼周腫脹，考 Gnathostoma spinigerum。",
+      "flashcard_front": "Gnathostoma spinigerum / raw freshwater fish / migratory swelling",
+      "flashcard_back": "有棘頜口線蟲可因食用未熟淡水魚感染，幼蟲移行造成皮下或眼部腫脹病灶。",
+      "flashcard_summary": "淡水魚生食 + 眼周移行蟲體 -> Gnathostoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "111-1_medicine-2_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n題目問鞭蟲感染何者錯誤。Trichuris trichiura 成蟲寄生大腸，幼蟲在腸道發育，重度感染幼童可脫肛；它不像 Strongyloides stercoralis 會自體感染，答案選 C。\n\n【選項詳解】\n- A. 錯誤。人吞入感染性蟲卵後，幼蟲可在小腸孵化並於腸道內發育，之後成蟲主要定居大腸。\n- B. 錯誤。鞭蟲成蟲主要寄生於盲腸與大腸，前端插入黏膜吸附。\n- C. 正確。自體感染是糞小桿線蟲 Strongyloides 的重要特徵，不是鞭蟲的典型生活史。\n- D. 錯誤。幼童重度鞭蟲感染可造成慢性腹瀉、貧血、生長不良，甚至直腸脫垂。\n\n【核心考點】\nTrichuris trichiura：感染性蟲卵入口、成蟲在大腸、重症可脫肛；autoinfection 記 Strongyloides。（標準答案為 C。）",
+      "key_point": "鞭蟲不會造成典型自體感染；自體感染要想到 Strongyloides。",
+      "flashcard_front": "Trichuris trichiura / autoinfection / rectal prolapse",
+      "flashcard_back": "鞭蟲成蟲寄生大腸，重度兒童感染可脫肛；自體感染是 Strongyloides 的特色。",
+      "flashcard_summary": "鞭蟲 -> 大腸與脫肛；非自體感染",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-detemplate-rewrite",
+      "explanation_generated_at": "2026-08-12T22:35:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
