@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n題目問解剖姿勢下股骨外側髁對應到肱骨遠端哪個外側構造。肱骨遠端外側關節面是小頭，內側是滑車，因此答案為 A。\n\n【選項詳解】\n- A. 正確。肱骨小頭位於遠端外側，和橈骨頭形成關節；位置上對應下肢遠端的外側髁概念。\n- B. 錯誤。肱骨滑車位於遠端內側，與尺骨滑車切跡形成關節，不是外側對應構造。\n- C. 錯誤。大結節位於肱骨近端外側，是肩袖肌附著處，和遠端髁的位置對應不同。\n- D. 錯誤。小結節也位於肱骨近端，為肩胛下肌附著處，並非遠端外側關節面。\n\n【核心考點】\n肱骨遠端外側是小頭、內側是滑車；股骨題目若問外側位置對應，先找肱骨遠端外側構造。",
+      "key_point": "肱骨遠端外側關節面是小頭，內側是滑車。",
+      "flashcard_front": "肱骨遠端外側構造是 capitulum 還是 trochlea？",
+      "flashcard_back": "capitulum；trochlea 位於內側。",
+      "flashcard_summary": "humerus distal lateral -> capitulum",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n第二週結束前主要完成著床、雙胚層胚盤、羊膜腔、卵黃囊與胚外中胚層等結構。胚內中胚層要到第三週原腸胚形成時才出現，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。羊膜腔在第二週形成，位於 epiblast 上方。\n- B. 錯誤。次級臍囊會在第二週由卵黃囊重塑而成，是第二週可見構造。\n- C. 錯誤。胚外中胚層在第二週出現，並參與形成絨毛膜腔及胚外支持組織。\n- D. 正確。胚內中胚層來自第三週原條與原腸胚形成過程，不會在第二週結束前出現。\n\n【核心考點】\n第二週是 bilaminar disc 與胚外結構；第三週 gastrulation 才產生胚內中胚層與三胚層胚盤。",
+      "key_point": "胚內中胚層在第三週原腸胚形成時出現，不屬第二週結束前構造。",
+      "flashcard_front": "第二週結束前是否已出現胚內中胚層？",
+      "flashcard_back": "尚未；胚內中胚層要到第三週 gastrulation。",
+      "flashcard_summary": "week 2 -> bilaminar/extr胚 structures; week 3 -> intraembryonic mesoderm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n胚胎與胎兒造血位置會隨時間轉移：最早是卵黃囊，接著肝臟成為主要造血器官，後期才以骨髓為主。第九週屬胎兒早期，主要紅血球生成位置是肝臟，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。卵黃囊負責最早期造血，但到第九週時已不再是主要造血位置。\n- B. 正確。肝臟在胎兒早期至中期是主要造血器官，第九週紅血球生成以肝臟最重要。\n- C. 錯誤。脾臟可參與胎兒造血，但開始較晚且通常不是第九週的主要來源。\n- D. 錯誤。紅骨髓成為主要造血位置是胎兒較後期到出生後的重點，不是第九週主角。\n\n【核心考點】\n造血時間序列可記：卵黃囊早期，肝臟胎兒期主要，骨髓後期與出生後主要。",
+      "key_point": "第九週胎兒期主要造血位置是肝臟。",
+      "flashcard_front": "胎兒第九週主要紅血球生成位置？",
+      "flashcard_back": "肝臟；骨髓要到較後期才成為主要造血位置。",
+      "flashcard_summary": "fetal erythropoiesis at week 9 -> liver",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n胃發育時會沿縱軸旋轉，使背側胃繫膜被帶到左側，形成網膜囊。這正是選項 C 的描述，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。胃大彎主要因原始胃的背側壁生長較快形成，不是右側先膨大、左側前方快於後方造成。\n- B. 錯誤。胃沿縱軸約順時針旋轉 90 度，並非逆時針 180 度；旋轉使左側面轉向前、右側面轉向後。\n- C. 正確。背側胃繫膜因胃旋轉與生長被拉到左側，形成網膜囊及後續大網膜相關空間。\n- D. 錯誤。常見的胃出口問題是肥厚性幽門狹窄，較常見於男嬰；選項所述女嬰與幽門閉鎖不符合典型描述。\n\n【核心考點】\n胃旋轉帶動背側胃繫膜形成網膜囊；胃大彎來自背側壁較快生長。",
+      "key_point": "胃旋轉使背側胃繫膜移向左側並形成網膜囊。",
+      "flashcard_front": "網膜囊和哪個胚胎構造被胃旋轉帶到左側有關？",
+      "flashcard_back": "原始背側胃繫膜。",
+      "flashcard_summary": "stomach rotation -> dorsal mesogastrium leftward -> omental bursa",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n副中腎管又稱 Müllerian duct，在女性發育為輸卵管、子宮、子宮頸與上段陰道。輸卵管來自副中腎管，因此答案為 A。\n\n【選項詳解】\n- A. 正確。輸卵管由副中腎管未融合的上段形成，是 Müllerian duct 衍生物。\n- B. 錯誤。射精管主要來自中腎管系統，與輸精管、精囊等男性內生殖道同源。\n- C. 錯誤。輸精管是中腎管 Wolffian duct 的衍生物，不是副中腎管。\n- D. 錯誤。輸尿管來自輸尿管芽，輸尿管芽由中腎管附近長出，並非副中腎管衍生構造。\n\n【核心考點】\nMüllerian duct 形成女性內生殖道上部；Wolffian duct 形成男性輸精管、附睪、精囊與射精管。",
+      "key_point": "輸卵管是副中腎管衍生物。",
+      "flashcard_front": "副中腎管會形成哪個女性生殖構造？",
+      "flashcard_back": "輸卵管、子宮、子宮頸與上段陰道；本題選輸卵管。",
+      "flashcard_summary": "paramesonephric duct -> uterine tube",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n瞳孔括約肌與瞳孔擴張肌雖屬平滑肌樣結構，但胚胎來源是視杯的神經外胚層，這是眼胚胎學常考例外。因此答案為 A。\n\n【選項詳解】\n- A. 正確。虹膜的 sphincter pupillae 與 dilator pupillae 來自神經外胚層，而非一般平滑肌常見的中胚層來源。\n- B. 錯誤。生發層是表皮基底層相關概念，不是瞳孔括約肌與擴張肌的胚胎來源。\n- C. 錯誤。內胚層形成消化、呼吸道上皮等，不形成虹膜肌。\n- D. 錯誤。大部分平滑肌可來自中胚層，但虹膜瞳孔肌是重要例外，來自神經外胚層。\n\n【核心考點】\n瞳孔括約肌與擴張肌來自神經外胚層；不要用一般平滑肌的中胚層規則套用到虹膜肌。",
+      "key_point": "虹膜括約肌與擴張肌源自神經外胚層。",
+      "flashcard_front": "瞳孔括約肌與擴張肌的胚胎來源？",
+      "flashcard_back": "神經外胚層；這是平滑肌來源的例外。",
+      "flashcard_summary": "iris muscles -> neuroectoderm",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n一般石蠟組織切片流程先固定保存組織，再包埋支撐，接著切成薄片，最後染色觀察。最符合的順序是福馬林固定、包埋、切片、染色，所以答案為 B。\n\n【選項詳解】\n- A. 錯誤。染色必須在切片貼附到玻片後進行，不能在包埋前就先完成常規染色。\n- B. 正確。福馬林固定保存組織型態，包埋提供切片支撐，切片後再染色。\n- C. 錯誤。若未先固定，組織會自溶與變形；固定不會放在包埋、切片、染色之後。\n- D. 錯誤。切片前需要固定與包埋，否則難以得到穩定薄片；染色也不在固定前。\n\n【核心考點】\n常規組織切片流程：固定、脫水透明、包埋、切片、染色；選項常省略中間步驟但相對順序不能錯。",
+      "key_point": "常規組織切片順序是固定、包埋、切片、染色。",
+      "flashcard_front": "福馬林固定後，組織切片流程的基本順序？",
+      "flashcard_back": "固定 -> 包埋 -> 切片 -> 染色。",
+      "flashcard_summary": "histology prep -> fixation, embedding, sectioning, staining",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\nT 小管是肌膜向肌纖維內部凹入形成的管狀結構，可把動作電位傳到肌纖維深處，啟動興奮收縮偶聯。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。肌漿網是肌肉細胞內儲存與釋放鈣離子的膜性構造，不是肌膜內陷形成的傳導通道。\n- B. 正確。T 小管由 sarcolemma 內陷形成，負責把膜電位變化快速帶到細胞深部。\n- C. 錯誤。肌束膜是包圍一束肌纖維的結締組織，與動作電位傳導無關。\n- D. 錯誤。終池是肌漿網的膨大部分，靠近 T 小管並釋放鈣離子，但不是肌膜形成的構造。\n\n【核心考點】\nT 小管傳遞動作電位，肌漿網/終池釋放鈣離子；兩者共同完成骨骼肌與心肌的興奮收縮偶聯。",
+      "key_point": "T 小管是肌膜內陷，負責把動作電位傳到肌纖維深處。",
+      "flashcard_front": "哪個肌肉構造由 sarcolemma 內陷形成並傳遞動作電位？",
+      "flashcard_back": "T 小管。",
+      "flashcard_summary": "T-tubule -> sarcolemma invagination for action potential conduction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n骨細胞位於骨小腔內，突起伸入骨小管，彼此可透過間隙接合交換訊息與營養相關訊號。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。同源細胞群是軟骨細胞常見排列，骨細胞通常各自位在骨小腔內並以突起相連。\n- B. 正確。骨細胞突起經骨小管相互接觸，間隙接合讓離子與小分子訊息在骨細胞網絡間傳遞。\n- C. 錯誤。蝕骨細胞來自單核球/巨噬細胞系，骨細胞不會轉化成蝕骨細胞。\n- D. 錯誤。骨細胞由骨母細胞被包埋在骨基質後分化而來，不是顆粒球前驅細胞來源。\n\n【核心考點】\n骨細胞由骨母細胞而來，住在 lacunae，靠 canaliculi 與 gap junctions 形成訊息網絡；蝕骨細胞是單核巨噬細胞系。",
+      "key_point": "骨細胞透過骨小管內突起與間隙接合彼此傳訊。",
+      "flashcard_front": "骨細胞如何彼此傳遞訊息？",
+      "flashcard_back": "經骨小管內突起形成間隙接合。",
+      "flashcard_summary": "osteocytes -> gap junctions through canaliculi",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n室管膜細胞排列於腦室與脊髓中央管表面，屬單層立方至柱狀上皮樣細胞，典型上不具外板。故答案為 A。\n\n【選項詳解】\n- A. 正確。室管膜細胞形成腦室內襯，常見纖毛與微絨毛，和一般上皮相比典型不具明顯 external lamina。\n- B. 錯誤。室管膜細胞與星狀細胞都源自神經上皮/神經膠前驅細胞譜系，但不是由成熟星狀細胞分化而來。\n- C. 錯誤。蛛網膜的主要細胞是腦膜相關細胞，不是室管膜細胞。\n- D. 錯誤。血腦障壁主要由連續性腦微血管內皮緊密連接、基底膜、周細胞與星狀細胞足突共同維持；室管膜不是主要構成。\n\n【核心考點】\n室管膜細胞襯在腦室與中央管，屬單層上皮樣神經膠細胞；血腦障壁重點是毛細血管內皮緊密連接。",
+      "key_point": "室管膜細胞襯腦室與中央管，為不具典型外板的單層上皮樣細胞。",
+      "flashcard_front": "室管膜細胞主要位在哪裡？是否為血腦障壁主體？",
+      "flashcard_back": "位於腦室與中央管內襯；不是血腦障壁主體。",
+      "flashcard_summary": "ependymal cells -> ventricular lining, no typical external lamina",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

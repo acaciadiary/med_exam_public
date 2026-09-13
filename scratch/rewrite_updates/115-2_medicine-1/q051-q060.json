@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nNMDA receptor 是 glutamate receptor 的一型，在靜止膜電位附近通道孔會被 Mg2+ 阻塞；需要去極化移除 Mg2+ block 後，Ca2+ 與 Na+ 才能有效流入。因此答案為 A。\n\n【選項詳解】\n- A. 正確。NMDA receptor 具有電壓依賴性 Mg2+ block，是突觸可塑性與 LTP 的重要機制。\n- B. 錯誤。GABA receptor，尤其 GABA_A receptor，主要是 Cl- 通道，不以靜止電位下 Mg2+ 阻塞為典型特徵。\n- C. 錯誤。glycine receptor 也是抑制性 Cl- 通道，常見於脊髓與腦幹，和 NMDA 的 Mg2+ block 不同。\n- D. 錯誤。nicotinic receptor 是配體門控陽離子通道，典型開啟由 acetylcholine 結合驅動，不是 Mg2+ 阻塞的代表。\n\n【核心考點】\nNMDA receptor 同時需要 glutamate 結合與膜去極化移除 Mg2+ block，才會大量通過 Ca2+。",
+      "key_point": "NMDA receptor 在靜止電位會被 Mg2+ 阻塞，去極化後解除阻塞。",
+      "flashcard_front": "哪種受體在靜止膜電位會有 Mg2+ block？",
+      "flashcard_back": "NMDA receptor；去極化可移除 Mg2+ 阻塞。",
+      "flashcard_summary": "NMDA receptor -> voltage-dependent Mg2+ block",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n相對不反應期指神經元可以再產生動作電位，但需要比平常更強的刺激。此時部分電位門控 K+ 通道仍開啟，造成膜電位偏負或正在恢復，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。剛開始再極化時，多數 Na+ 通道仍處於不活化狀態，較接近絕對不反應期的範圍。\n- B. 錯誤。Na+ 通道主要不活化是絕對不反應期的關鍵，因為此時無法再被刺激產生新的動作電位。\n- C. 正確。相對不反應期常出現在 K+ 通道尚未完全關閉、膜電位偏向過極化時，所以需要更強刺激才能達閾值。\n- D. 錯誤。若給予和原本一樣強的刺激即可誘發新動作電位，代表興奮性已恢復；相對不反應期需要更強刺激。\n\n【核心考點】\n絕對不反應期看 Na+ channel inactivation；相對不反應期看 K+ channel 持續開啟與 afterhyperpolarization。",
+      "key_point": "相對不反應期常因 K+ 通道仍部分開啟，需要較強刺激才能再放電。",
+      "flashcard_front": "相對不反應期的主要離子通道狀態？",
+      "flashcard_back": "部分電位門控 K+ 通道仍開啟，膜電位較不易達閾值。",
+      "flashcard_summary": "relative refractory period -> K+ channels still open",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n「講出字句有困難」指語言表達受損、非流暢失語，典型病灶在優勢半球額下回的 Broca area。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。視丘背內側核與前額葉、情緒與認知迴路相關，病變可影響認知行為，但不是典型語言產出區。\n- B. 錯誤。視丘前核屬 Papez circuit，與記憶與邊緣系統相關，不是造成表達性失語的首選定位。\n- C. 正確。Broca area 負責語言產出與語法組織，受損會出現說話費力、字句生成困難但理解相對保留。\n- D. 錯誤。Wernicke area 受損主要造成語言理解障礙與流暢但內容錯亂的失語，不是講出字句困難的典型表現。\n\n【核心考點】\nBroca 失語是非流暢、表達困難；Wernicke 失語是流暢但理解差、語意混亂。",
+      "key_point": "講話產出困難最典型是 Broca area 受損。",
+      "flashcard_front": "非流暢、語言表達困難定位在哪裡？",
+      "flashcard_back": "Broca area，通常在優勢半球額下回。",
+      "flashcard_summary": "speech production difficulty -> Broca area",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\nslow pain 多由無髓鞘 C fibers 傳遞，定位較不精確，突觸傳遞常使用 glutamate 與 substance P。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。slow pain 傳導慢且定位較不精確；fast pain 由 A-delta fibers 傳遞，定位相對較清楚。\n- B. 正確。慢痛在後角突觸常以 glutamate 作快速傳遞，substance P 參與較慢、較持續的疼痛訊號。\n- C. 錯誤。A-beta fibers 通常是有髓鞘的大直徑觸覺纖維，不是無髓鞘 slow pain 纖維。\n- D. 錯誤。C fibers 確實負責 slow pain，但它們是無髓鞘纖維，不是具髓鞘纖維。\n\n【核心考點】\nfast pain：A-delta、較快較準；slow pain：C fiber、無髓鞘、glutamate 與 substance P。",
+      "key_point": "slow pain 由無髓鞘 C fibers 傳遞，常釋放 glutamate 與 substance P。",
+      "flashcard_front": "slow pain 的纖維與傳遞物質？",
+      "flashcard_back": "無髓鞘 C fiber；glutamate 與 substance P。",
+      "flashcard_summary": "slow pain -> C fibers, glutamate + substance P",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 D 是最不適當敘述。平滑肌收縮需要 Ca2+，但鈣離子可來自細胞外流入，也可來自肌漿網釋放，不是全部來自細胞外。\n\n【選項詳解】\n- A. 正確敘述。心肌、骨骼肌與平滑肌收縮都需要 Ca2+ 作為興奮收縮偶聯或調節肌動蛋白-肌球蛋白互動的訊號。\n- B. 正確敘述。骨骼肌收縮所需 Ca2+ 主要由肌漿網釋放；T 小管電壓感受器直接驅動 RyR 開啟。\n- C. 正確敘述。心肌需要細胞外 Ca2+ 經 L-type channel 進入，觸發肌漿網釋放更多 Ca2+，稱 calcium-induced calcium release。\n- D. 錯誤敘述。平滑肌 Ca2+ 可由細胞外流入，也可由肌漿網經 IP3 receptor 等路徑釋放，不能說全來自細胞外。\n\n【核心考點】\n骨骼肌 Ca2+ 主要來自 SR；心肌來自 extracellular influx 加 SR release；平滑肌兩者都可用。",
+      "key_point": "平滑肌收縮 Ca2+ 來源包含細胞外流入與肌漿網釋放。",
+      "flashcard_front": "平滑肌收縮所需鈣離子是否全來自細胞外？",
+      "flashcard_back": "不是；可來自細胞外，也可由肌漿網釋放。",
+      "flashcard_summary": "smooth muscle Ca2+ -> extracellular influx + SR release",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n正常周邊血白血球中數量最多的是嗜中性球，約占白血球最大比例，負責急性發炎與細菌感染防禦。因此答案為 A。\n\n【選項詳解】\n- A. 正確。嗜中性球是血中最常見白血球，具吞噬、殺菌與形成 NETs 等功能。\n- B. 錯誤。嗜酸性球比例較低，常與寄生蟲感染、過敏與氣喘相關。\n- C. 錯誤。巨噬細胞主要位於組織；血液中的對應前驅細胞是單核球，數量也少於嗜中性球。\n- D. 錯誤。淋巴球是第二大常見白血球群，與適應性免疫相關，但一般數量少於嗜中性球。\n\n【核心考點】\n正常白血球分類比例中，嗜中性球最多，其次常見為淋巴球。",
+      "key_point": "正常血中白血球數量最多的是嗜中性球。",
+      "flashcard_front": "血液中數量最多的白血球？",
+      "flashcard_back": "嗜中性球。",
+      "flashcard_summary": "most abundant leukocyte -> neutrophil",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n副交感迷走神經釋放 acetylcholine，作用於 SA node 的 M2 receptor，降低 cAMP、減少 funny current 與 Ca2+ current，並增加 K+ conductance。結果是 pacemaker potential 斜率下降、心跳變慢，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。增加 pacemaker potential 斜率會加快心跳，這比較像交感神經作用，不是副交感神經。\n- B. 正確。副交感神經使第 4 期自發去極化斜率下降，SA node 較慢達到閾值，所以心跳速率下降。\n- C. 錯誤。斜率增加會讓閾值更快達到，應使心跳增加，不會減少。\n- D. 錯誤。斜率減少會延長達閾值時間，應使心跳下降，不會增加。\n\n【核心考點】\n交感增加 SA node phase 4 slope；副交感降低 phase 4 slope 並減慢心率。",
+      "key_point": "副交感神經降低 SA node pacemaker potential 斜率，使心跳變慢。",
+      "flashcard_front": "副交感對 SA node 第 4 期斜率與心率的影響？",
+      "flashcard_back": "斜率下降，心率下降。",
+      "flashcard_summary": "parasympathetic SA node -> decreased phase 4 slope, decreased HR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n淋巴回流靠單向瓣膜、骨骼肌擠壓、呼吸造成胸腔壓變化，以及淋巴管本身平滑肌收縮推動。靜脈管平滑肌收縮不是直接促進淋巴管回流的主要機制，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。骨骼肌收縮可擠壓淋巴管，配合瓣膜推動淋巴向心回流。\n- B. 正確。靜脈平滑肌收縮可影響靜脈容量與回流，但不是淋巴管單向回流的直接推動因素，最不可能促進淋巴回流。\n- C. 錯誤。呼吸泵透過胸腔壓與腹腔壓變化，促進淋巴液向胸管與靜脈角移動。\n- D. 錯誤。較大的淋巴管具有平滑肌，可節律性收縮推進淋巴液。\n\n【核心考點】\n淋巴回流的推力來自骨骼肌泵、呼吸泵與淋巴管自身平滑肌；不是靠靜脈壁收縮直接推動。",
+      "key_point": "淋巴回流由骨骼肌泵、呼吸泵與淋巴管平滑肌促進。",
+      "flashcard_front": "下列哪個最不是直接促進淋巴回流的機制：靜脈平滑肌或淋巴管平滑肌？",
+      "flashcard_back": "靜脈平滑肌；淋巴管本身平滑肌才直接推動淋巴。",
+      "flashcard_summary": "lymph return -> skeletal muscle, respiratory pump, lymphatic smooth muscle",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 B 是最不合理敘述。大多數微動脈的神經性調控以交感神經為主，副交感節後纖維並不廣泛直接支配大多數微動脈造成舒張。\n\n【選項詳解】\n- A. 合理。多數微動脈受交感節後纖維釋放 norepinephrine 調控，活化 alpha receptor 造成血管平滑肌收縮。\n- B. 不合理。副交感對全身大多數微動脈沒有廣泛直接支配；以 acetylcholine 作用於大多數微動脈平滑肌 muscarinic receptor 造成舒張的說法過度概括。\n- C. 合理。某些非膽鹼、非腎上腺素神經元可釋放一氧化氮，使平滑肌鬆弛並造成血管舒張。\n- D. 合理。腎上腺素可作用於部分血管平滑肌 beta2 receptor，特別在骨骼肌血管造成舒張。\n\n【核心考點】\n微動脈張力主要受交感 alpha 收縮調控；局部代謝物、NO 與部分 beta2 作用可促進舒張，副交感不是多數微動脈的普遍直接控制。",
+      "key_point": "大多數微動脈主要受交感神經調控，副交感直接支配並不普遍。",
+      "flashcard_front": "大多數微動脈的神經性收縮主要靠哪個系統？",
+      "flashcard_back": "交感神經 norepinephrine 作用於 alpha receptor。",
+      "flashcard_summary": "arterioles -> mainly sympathetic alpha vasoconstriction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n增加靜脈回流與心搏量的主要因素包括靜脈收縮、血液量增加、骨骼肌泵與吸氣時胸腔負壓。呼氣不像吸氣那樣增加胸腔負壓吸引靜脈血回流，貢獻最小，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。靜脈交感活性增加會使靜脈收縮、降低靜脈容量，把血液推回血液循環，增加 venous return。\n- B. 錯誤。血液體積增加會提高平均循環充盈壓，促進靜脈回流並增加心搏量。\n- C. 錯誤。骨骼肌泵擠壓靜脈，配合靜脈瓣膜讓血液向心流動，是重要回流機制。\n- D. 正確。吸氣才因胸腔壓下降、腹腔壓上升而促進靜脈回流；呼氣活動對增加 venous return 的幫助最小。\n\n【核心考點】\n靜脈回流靠血容量、靜脈收縮、骨骼肌泵與吸氣泵；呼氣不是主要增加回流的動作。",
+      "key_point": "吸氣促進靜脈回流；呼氣對增加靜脈回流與心搏量貢獻最小。",
+      "flashcard_front": "呼吸對靜脈回流的主要促進時相是吸氣還是呼氣？",
+      "flashcard_back": "吸氣；胸腔負壓增加促進血液回流。",
+      "flashcard_summary": "venous return -> inspiration helps more than expiration",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

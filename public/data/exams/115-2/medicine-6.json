@@ -25,7 +25,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_002",
@@ -46,7 +46,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_003",
@@ -64,10 +64,12 @@
       "flashcard_summary": "",
       "review_status": "empty",
       "correct_answers": [
-        "A"
+        "A",
+        "B"
       ],
-      "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_status": "multiple_correct",
+      "answer_source": "official_correction",
+      "answer_note": "第3題答A或B或AB者均給分"
     },
     {
       "id": "115-2_medicine-6_004",
@@ -88,7 +90,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_005",
@@ -109,7 +111,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_006",
@@ -130,7 +132,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_007",
@@ -151,7 +153,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_008",
@@ -172,7 +174,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_009",
@@ -193,7 +195,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_010",
@@ -214,7 +216,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_011",
@@ -235,7 +237,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_012",
@@ -256,7 +258,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_013",
@@ -277,7 +279,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_014",
@@ -298,7 +300,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_015",
@@ -319,7 +321,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_016",
@@ -340,7 +342,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_017",
@@ -361,7 +363,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_018",
@@ -382,7 +384,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_019",
@@ -403,7 +405,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_020",
@@ -424,7 +426,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_021",
@@ -445,7 +447,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_022",
@@ -466,7 +468,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_023",
@@ -478,16 +480,20 @@
         "C": "免疫球蛋白E 依賴性黴菌發炎(IgE dependent fungal inflammation)",
         "D": "阿斯匹靈敏感性鼻息肉症(aspirin-sensitive nasal polyposis)"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "",
       "key_point": "",
       "flashcard_summary": "",
       "review_status": "empty",
       "correct_answers": [
-        "C"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_status": "all_credit",
+      "answer_source": "official_correction",
+      "answer_note": "第23題一律給分"
     },
     {
       "id": "115-2_medicine-6_024",
@@ -508,7 +514,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_025",
@@ -529,7 +535,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_026",
@@ -550,7 +556,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_027",
@@ -571,7 +577,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_028",
@@ -592,7 +598,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_029",
@@ -613,7 +619,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_030",
@@ -634,7 +640,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_031",
@@ -655,7 +661,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_032",
@@ -676,7 +682,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_033",
@@ -697,7 +703,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_034",
@@ -718,7 +724,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_035",
@@ -739,7 +745,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_036",
@@ -760,7 +766,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_037",
@@ -781,7 +787,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_038",
@@ -802,7 +808,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_039",
@@ -823,7 +829,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_040",
@@ -844,7 +850,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_041",
@@ -865,7 +871,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_042",
@@ -886,7 +892,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_043",
@@ -907,7 +913,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_044",
@@ -928,7 +934,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_045",
@@ -949,7 +955,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_046",
@@ -970,7 +976,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_047",
@@ -991,7 +997,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_048",
@@ -1012,7 +1018,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_049",
@@ -1033,7 +1039,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_050",
@@ -1054,7 +1060,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_051",
@@ -1075,7 +1081,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_052",
@@ -1096,7 +1102,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_053",
@@ -1117,7 +1123,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_054",
@@ -1138,7 +1144,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_055",
@@ -1159,7 +1165,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_056",
@@ -1180,7 +1186,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_057",
@@ -1201,7 +1207,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_058",
@@ -1222,7 +1228,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_059",
@@ -1243,7 +1249,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_060",
@@ -1264,7 +1270,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_061",
@@ -1285,7 +1291,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_062",
@@ -1306,7 +1312,7 @@
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_063",
@@ -1327,7 +1333,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_064",
@@ -1348,7 +1354,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_065",
@@ -1369,7 +1375,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_066",
@@ -1381,16 +1387,20 @@
         "C": "先天性肌肉性斜頸症(congenital muscular torticollis)患者要評估有無髖關節發育不良\n (developmental dysplasia of the hip)的發生",
         "D": "先天性肌肉性斜頸症(congenital muscular torticollis)的發生率較髖關節發育不良(developmental\n dysplasia of the hip)的發生率為低"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "",
       "key_point": "",
       "flashcard_summary": "",
       "review_status": "empty",
       "correct_answers": [
+        "A",
+        "B",
+        "C",
         "D"
       ],
-      "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_status": "all_credit",
+      "answer_source": "official_correction",
+      "answer_note": "第66題一律給分"
     },
     {
       "id": "115-2_medicine-6_067",
@@ -1411,7 +1421,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_068",
@@ -1432,7 +1442,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_069",
@@ -1453,7 +1463,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_070",
@@ -1474,7 +1484,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_071",
@@ -1495,7 +1505,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_072",
@@ -1516,7 +1526,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_073",
@@ -1537,7 +1547,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_074",
@@ -1558,7 +1568,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_075",
@@ -1579,7 +1589,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_076",
@@ -1600,7 +1610,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_077",
@@ -1621,7 +1631,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_078",
@@ -1642,7 +1652,7 @@
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_079",
@@ -1663,7 +1673,7 @@
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     },
     {
       "id": "115-2_medicine-6_080",
@@ -1684,7 +1694,7 @@
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_answer"
+      "answer_source": "official_correction"
     }
   ]
 }

@@ -1,0 +1,144 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n肺容量由 total lung capacity 降到 functional residual capacity 時，肺泡與小呼吸道受到的牽張力下降，呼吸道管徑變小，因此呼吸道阻力上升。答案為 A。\n\n【選項詳解】\n- A. 正確。肺容量越大，周圍肺泡對小呼吸道的 radial traction 越強，管徑越大、阻力越低；肺容量下降時阻力上升。\n- B. 錯誤。從 TLC 到 FRC 是肺容量明顯下降，呼吸道阻力不會維持完全不變。\n- C. 錯誤。呼吸道阻力會在肺容量下降時增加，不是下降。\n- D. 錯誤。此題主要考肺容量與阻力的反向關係，從高肺容量降到 FRC 的主要趨勢是阻力升高，而非先升後降。\n\n【核心考點】\n肺容量越大，小呼吸道被撐開越多，阻力越低；肺容量下降時呼吸道阻力上升。",
+      "key_point": "肺容量從 TLC 降到 FRC 時，呼吸道阻力會上升。",
+      "flashcard_front": "肺容量下降對呼吸道阻力的影響？",
+      "flashcard_back": "阻力上升；因 radial traction 下降、小呼吸道較窄。",
+      "flashcard_summary": "lung volume down -> airway resistance up",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n動脈氧分壓下降主要由周邊化學受器偵測，其中頸動脈體對低氧引發通氣增加最重要。中樞化學受器主要偵測 CO2 造成的 CSF H+ 變化，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。肺牽扯性受器偵測肺膨脹，參與 Hering-Breuer reflex，不是低動脈氧分壓的主要偵測器。\n- B. 錯誤。中樞化學受器對 CO2/H+ 很敏感，但對動脈 O2 下降本身不是主要感受器。\n- C. 錯誤。下視丘滲透壓受器偵測血漿滲透壓，調節口渴與 ADH，和低氧通氣反應不符。\n- D. 正確。頸動脈體是低 PaO2 引發通氣增加的主要周邊化學受器，特別在 PaO2 明顯下降時活化。\n\n【核心考點】\nPaCO2/H+ 主要看中樞化學受器；PaO2 下降主要看頸動脈體等周邊化學受器。",
+      "key_point": "動脈氧分壓下降主要由頸動脈體偵測並促進通氣。",
+      "flashcard_front": "低 PaO2 引發通氣增加的主要感受器？",
+      "flashcard_back": "頸動脈體。",
+      "flashcard_summary": "low arterial O2 -> carotid bodies",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n本題官方更正接受 B、D 或 BD。B 的小腸 H+ 主動分泌可由 Na+/H+ exchanger 等機制理解；D 的小腸 Ca2+ 主動吸收也成立，尤其在維生素 D 調控下。原始標準答案為 B，但更正後 D 也給分。\n\n【選項詳解】\n- A. 不採為標準答案。Cl- 在腸道的吸收機制可包含交換、伴隨 Na+ 與水的被動移動及不同腸段的主動/分泌機制，單純說小腸與大腸皆以主動運輸吸收不夠精確。\n- B. 可接受。小腸上皮可透過 Na+/H+ exchanger 等方式分泌 H+ 到腸腔，屬主動運輸相關機制，因此符合官方原始答案。\n- C. 錯誤。Na+ 與葡萄糖在小腸是同向共同運輸吸收進入腸細胞，不是反向交換，也不是分泌到腸腔。\n- D. 可接受。Ca2+ 在小腸可經 transcellular active transport 吸收，受維生素 D 調控；官方更正也接受 D。\n\n【核心考點】\n腸道電解質題要分清吸收與分泌：Na+-glucose 是同向吸收；H+ 可分泌；Ca2+ 可在小腸主動吸收。",
+      "key_point": "第63題官方接受 B 與 D；H+ 可主動分泌，Ca2+ 可在小腸主動吸收。",
+      "flashcard_front": "腸道電解質：Na+-glucose、H+、Ca2+ 的方向？",
+      "flashcard_back": "Na+-glucose 是同向吸收；H+ 可分泌；Ca2+ 可主動吸收。",
+      "flashcard_summary": "GI electrolytes -> H+ secretion and Ca2+ active absorption accepted",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": [
+        "官方更正：第63題 B 或 D 或 BD 均給分。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-1_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n脂肪消化後的長鏈脂肪酸與單酸甘油酯進入腸細胞，主要在內質網重新酯化成三酸甘油酯，再和 apolipoprotein 組成乳糜微粒。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。脂肪乳化主要靠膽鹽與膽汁成分，胰液主要提供胰脂肪酶、colipase 與 bicarbonate 等消化輔助。\n- B. 錯誤。胰脂肪酶主要把三酸甘油酯分解成 2-monoglyceride 與游離脂肪酸，不是主要為了產生短鏈脂肪酸。\n- C. 正確。脂肪酸進入腸細胞後在內質網再酯化，形成三酸甘油酯並包裝成 chylomicron。\n- D. 錯誤。乳糜微粒太大，主要進入乳糜管與淋巴系統，再進入血液，不是直接注入肝門脈。\n\n【核心考點】\n脂肪乳化靠膽鹽，消化靠胰脂肪酶；長鏈脂肪酸在腸細胞 ER 再酯化後形成乳糜微粒走淋巴。",
+      "key_point": "脂肪在腸細胞內質網再酯化後形成乳糜微粒，經淋巴回流。",
+      "flashcard_front": "腸細胞中脂肪再酯化主要在哪個胞器？",
+      "flashcard_back": "內質網。",
+      "flashcard_summary": "fat absorption -> reesterification in enterocyte ER, chylomicrons to lymph",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n短時間大量喝白開水會稀釋血漿，使血漿滲透壓下降；滲透壓下降會抑制 ADH 分泌，增加自由水排出。因此血漿滲透壓與 ADH 皆下降，答案為 A。\n\n【選項詳解】\n- A. 正確。喝大量低滲水後血漿滲透壓下降，下視丘滲透壓受器降低 ADH 釋放，腎臟集合管水通透性下降。\n- B. 錯誤。水負荷不會使血漿滲透壓上升，也不會刺激 ADH 上升。\n- C. 錯誤。喝白開水會降低而非增加血漿滲透壓；ADH 減少這半句才符合。\n- D. 錯誤。血漿滲透壓減少會抑制 ADH，不會使 ADH 增加。\n\n【核心考點】\n血漿滲透壓上升刺激 ADH；低滲水負荷使滲透壓下降並抑制 ADH。",
+      "key_point": "大量喝白開水會降低血漿滲透壓與 ADH。",
+      "flashcard_front": "短時間喝大量白開水對 plasma osmolality 與 ADH 的影響？",
+      "flashcard_back": "兩者都下降。",
+      "flashcard_summary": "water loading -> decreased plasma osmolality, decreased ADH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，所以 A、B、C、D 都列為接受答案。就生理概念而言，腎素分泌的主要輸入包含入球小動脈 JG cells 的壓力感受、macula densa 的 NaCl 訊號，以及直接交感 beta1 刺激；若硬要判斷最不相關，出球小動脈壁上的 JG cells 描述最不典型。\n\n【選項詳解】\n- A. 官方接受。直接分布到 juxtaglomerular cells 的腎臟交感神經可經 beta1 receptor 促進 renin secretion，是典型輸入之一。\n- B. 官方接受。概念上 JG cells 主要位於入球小動脈壁，出球小動脈壁不是典型位置；這可能是原題爭議來源之一。\n- C. 官方接受。入球小動脈壁的 JG cells 可感受腎灌流壓變化並分泌 renin，是經典調控點。\n- D. 官方接受。macula densa 位於遠曲小管/亨氏管粗上升支末端附近，可感受 NaCl delivery 並調控 renin。\n\n【核心考點】\nrenin regulation 三大輸入：renal sympathetic beta1、afferent arteriole baroreceptor/JG cells、macula densa NaCl；本題因官方更正一律給分，作答時以更正答案為準。",
+      "key_point": "第66題官方一律給分；renin 主要受交感 beta1、入球小動脈壓力與 macula densa NaCl 調控。",
+      "flashcard_front": "腎素分泌三大調控輸入？",
+      "flashcard_back": "腎交感 beta1、入球小動脈 JG/baroreceptor、macula densa NaCl 訊號。",
+      "flashcard_summary": "renin secretion -> sympathetic, afferent arteriole JG pressure, macula densa",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": [
+        "官方更正：第66題一律給分。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-1_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 A 是最不適當敘述。碘離子從血液進入甲狀腺濾泡細胞主要靠基底外側膜的 sodium-iodide symporter；pendrin 主要位於頂端膜，把碘離子送到濾泡腔。因此 A 錯。\n\n【選項詳解】\n- A. 錯誤敘述。血中 iodide 進入 follicular cell 主要靠 Na+/I- symporter；pendrin 是頂端膜 iodide transporter，負責往 colloid 方向運送。\n- B. 正確敘述。甲狀腺過氧化酶系統使 iodide 氧化並將其接到 thyroglobulin 的 tyrosine residues，形成 MIT 與 DIT。\n- C. 正確敘述。兩個 DIT coupling 形成 T4；MIT 與 DIT coupling 則形成 T3。\n- D. 正確敘述。甲狀腺素釋放需要吞入含碘 thyroglobulin 後，由 lysosome 蛋白水解釋出 T3/T4。\n\n【核心考點】\nNIS 在基底外側膜抓 iodide 入細胞；pendrin 在頂端膜把 iodide 送入 colloid；TPO 負責 organification 與 coupling。",
+      "key_point": "碘離子由血液進入濾泡細胞靠 NIS，不是 pendrin；pendrin 位於頂端膜。",
+      "flashcard_front": "甲狀腺 iodide uptake from blood 靠 NIS 還是 pendrin？",
+      "flashcard_back": "靠 NIS；pendrin 負責頂端膜往濾泡腔運送 iodide。",
+      "flashcard_summary": "thyroid iodide transport -> NIS basolateral, pendrin apical",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 C 是最不適當敘述。cortisol 是升糖壓力激素，促進肝臟糖質新生，並使周邊組織較抗胰島素；它不是促進肝臟對胰島素敏感性的激素。\n\n【選項詳解】\n- A. 正確敘述。胰島素促進骨骼肌葡萄糖攝取與肝醣合成，有助於飯後儲存能量。\n- B. 正確敘述。升糖素作用於肝臟，促進肝醣分解與葡萄糖新生，以維持血糖。\n- C. 錯誤敘述。皮質醇會促進糖質新生並拮抗胰島素作用，長期過多可造成高血糖與胰島素阻抗。\n- D. 正確敘述。腎上腺素可活化脂肪細胞 hormone-sensitive lipase 等路徑，促進脂肪分解。\n\n【核心考點】\n胰島素促進儲存；glucagon、cortisol、epinephrine 偏動員能量。cortisol 的代謝效果通常是抗胰島素、升血糖。",
+      "key_point": "cortisol 促進糖質新生並增加胰島素阻抗，不是提高肝臟胰島素敏感性。",
+      "flashcard_front": "cortisol 對胰島素敏感性的典型影響？",
+      "flashcard_back": "降低胰島素作用、促進胰島素阻抗與糖質新生。",
+      "flashcard_summary": "cortisol -> gluconeogenesis and insulin resistance",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n血壓下降會透過壓力感受器反射與體液調控促進 ADH 釋放；ADH 由下視丘合成、儲存在腦下腺後葉並由後葉釋放。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。體抑素主要由下視丘與胰臟等處分泌，用來抑制多種內分泌訊號；不是血壓下降時前葉主要分泌的應急激素。\n- B. 錯誤。血管收縮素原主要由肝臟製造，不是弓形核分泌。\n- C. 正確。血壓下降可刺激 ADH 釋放，ADH 促進腎臟水分再吸收，濃度較高時也有血管收縮效果。\n- D. 錯誤。ACTH 由腦下腺前葉分泌；中突主要是下視丘釋放因子進入門脈系統的區域，不直接分泌 ACTH。\n\n【核心考點】\nADH 由下視丘合成、後葉釋放；低血壓與高滲透壓都能增加 ADH，但題目配對的是後葉與 ADH。",
+      "key_point": "低血壓可刺激腦下腺後葉釋放 ADH。",
+      "flashcard_front": "血壓下降時可由腦下腺後葉釋放哪種激素？",
+      "flashcard_back": "ADH；促進水分保留並在高濃度時幫助血管收縮。",
+      "flashcard_summary": "low blood pressure -> posterior pituitary ADH release",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n題目問來源與作用組合何者錯誤。ADH 的釋放部位是腦下垂體後葉，合成於下視丘視上核與室旁核；不是腦下垂體前葉。因此答案為 B。\n\n【選項詳解】\n- A. 正確組合。皮質醇來自腎上腺皮質束狀帶，參與能量代謝、壓力反應與抗發炎調控。\n- B. 錯誤組合。ADH 調控血液滲透壓與水分再吸收，但它由後葉釋放，不是前葉來源。\n- C. 正確組合。胰島素由胰臟 beta cells 分泌，促進葡萄糖利用與儲存，調控血糖。\n- D. 正確組合。醛固酮由腎上腺皮質球狀帶分泌，促進 Na+ 保留、K+ 排出，影響血量與電解質。\n\n【核心考點】\n前葉分泌 ACTH、TSH、GH、PRL、FSH、LH；後葉釋放 ADH 與 oxytocin。",
+      "key_point": "ADH 由腦下垂體後葉釋放，不是前葉。",
+      "flashcard_front": "ADH 由腦下垂體前葉還是後葉釋放？",
+      "flashcard_back": "後葉；由下視丘神經元合成後運送到後葉釋放。",
+      "flashcard_summary": "ADH -> posterior pituitary, osmoregulation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

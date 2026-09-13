@@ -120,6 +120,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（一）",
         subject="medicine-1",
         group="醫師（一）",
+        has_correction=True,
     ),
     MoexSubject(
         id="115-2-physician-medicine-2",
@@ -130,6 +131,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（二）",
         subject="medicine-2",
         group="醫師（一）",
+        has_correction=True,
     ),
     MoexSubject(
         id="115-2-physician-medicine-3",
@@ -140,6 +142,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（三）",
         subject="medicine-3",
         group="醫師（二）",
+        has_correction=True,
     ),
     MoexSubject(
         id="115-2-physician-medicine-4",
@@ -150,6 +153,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（四）",
         subject="medicine-4",
         group="醫師（二）",
+        has_correction=True,
     ),
     MoexSubject(
         id="115-2-physician-medicine-5",
@@ -160,6 +164,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（五）",
         subject="medicine-5",
         group="醫師（二）",
+        has_correction=True,
     ),
     MoexSubject(
         id="115-2-physician-medicine-6",
@@ -170,6 +175,7 @@ PHYSICIAN_115_2: list[MoexSubject] = [
         title="115 年第二次醫師國考：醫學（六）",
         subject="medicine-6",
         group="醫師（二）",
+        has_correction=True,
     ),
 ]
 

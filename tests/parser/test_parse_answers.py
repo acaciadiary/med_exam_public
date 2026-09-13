@@ -69,3 +69,19 @@ def test_parse_correction_grid_and_notes():
     assert notes[1]["accepted_answers"] == ["A", "C"]
     assert notes[8]["accepted_answers"] == ["C", "D"]
     assert notes[10]["accepted_answers"] == ["A", "B", "C", "D"]
+
+
+def test_parse_correction_notes_split_across_lines():
+    raw = """
+    備註:
+    第95題答A或
+    D或AD者均給分，第98題一律
+    給分
+    """
+
+    notes = parse_correction_notes(raw)
+
+    assert notes[95]["accepted_answers"] == ["A", "D"]
+    assert notes[95]["status"] == "multiple_correct"
+    assert notes[98]["accepted_answers"] == ["A", "B", "C", "D"]
+    assert notes[98]["status"] == "all_credit"

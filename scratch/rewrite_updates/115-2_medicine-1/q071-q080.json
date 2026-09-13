@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n飢餓數日會降低周邊 T4 轉成 T3，並增加 reverse T3，使基礎代謝下降以節能；重新進食後 T3 會明顯回升。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。短期至數日飢餓時，T3 與 reverse T3 的變化通常比 T4 濃度更明顯。\n- B. 錯誤。reverse T3 會受飢餓影響而上升，並不是最不受影響的項目。\n- C. 正確。飢餓後再進食，周邊 T4 轉 T3 的活性恢復，血中 T3 上升最明顯。\n- D. 錯誤。T4 是前驅與儲備型甲狀腺素，重新進食後最明顯的功能性變化通常不是 T4 上升。\n\n【核心考點】\n飢餓會低 T3、高 reverse T3 以降低代謝；再進食後 T3 回升是關鍵。",
+      "key_point": "飢餓降低 T3、增加 reverse T3；再進食後 T3 最明顯上升。",
+      "flashcard_front": "飢餓數日後再進食，T3/T4/rT3 哪個最明顯回升？",
+      "flashcard_back": "T3；飢餓時 T3 下降、rT3 上升。",
+      "flashcard_summary": "starvation thyroid pattern -> low T3, high rT3; refeeding raises T3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n題目問哪個對子宮收縮的作用與其他三者不同。雌激素、前列腺素與催產素多促進子宮興奮與收縮；黃體素則維持妊娠、降低子宮收縮性，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。雌激素可增加子宮肌對 oxytocin 的敏感性與 gap junction 形成，整體上促進收縮準備。\n- B. 正確。黃體素使子宮肌較安定，降低收縮與興奮性，作用方向和其他三者相反。\n- C. 錯誤。前列腺素可促進子宮收縮與子宮頸成熟，臨床上也可用於引產相關情境。\n- D. 錯誤。催產素直接刺激子宮平滑肌收縮，是分娩時重要促收縮激素。\n\n【核心考點】\nprogesterone quiets uterus；estrogen、prostaglandin、oxytocin promote uterine contractility。",
+      "key_point": "黃體素抑制子宮收縮，與雌激素、前列腺素、催產素的促收縮方向不同。",
+      "flashcard_front": "哪個荷爾蒙使子宮較安定、降低收縮性？",
+      "flashcard_back": "黃體素。",
+      "flashcard_summary": "uterus contraction -> progesterone relaxes, oxytocin/prostaglandin/estrogen promote",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\nFSH 在男性主要作用於 Sertoli cells，促進生精支持功能並刺激 inhibin 分泌；inhibin 會負回饋抑制腦下腺 FSH。答案為 B。\n\n【選項詳解】\n- A. 錯誤。Leydig cells 主要受 LH 刺激分泌 testosterone；不是 FSH 的主要靶細胞。\n- B. 正確。FSH 刺激 Sertoli cells，Sertoli cells 分泌 inhibin，選擇性抑制腦下腺 FSH 分泌。\n- C. 錯誤。theca cells 主要受 LH 作用製造 androgen，再由 granulosa cells aromatase 轉成 estrogen；選項把 FSH 與 estradiol 來源簡化錯置。\n- D. 錯誤。granulosa cells 主要在 FSH 作用下將 theca 來源 androgen 轉成 estrogen，不是分泌 testosterone 後抑制 FSH 的主要路徑。\n\n【核心考點】\n男性：LH -> Leydig -> testosterone；FSH -> Sertoli -> inhibin B 與生精支持。",
+      "key_point": "FSH 刺激 Sertoli cells 分泌 inhibin，負回饋抑制 FSH。",
+      "flashcard_front": "FSH 在男性主要作用於哪種細胞並誘發哪個負回饋激素？",
+      "flashcard_back": "Sertoli cells；分泌 inhibin 抑制 FSH。",
+      "flashcard_summary": "FSH -> Sertoli cell -> inhibin -> decreased FSH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n利用抗原抗體的專一性來抓取目標蛋白，是親合力層析法的典型例子。固定化抗體可選擇性結合含特定抗原表位的蛋白，因此答案為 A。\n\n【選項詳解】\n- A. 正確。affinity chromatography 利用特定結合關係，例如抗原-抗體、酵素-受質類似物或 His-tag-Ni2+。\n- B. 錯誤。離子交換層析依蛋白質淨電荷與帶電樹脂交互作用分離，不是抗原抗體專一性。\n- C. 錯誤。凝膠過濾層析依分子大小分離，大分子較早流出，小分子較晚流出。\n- D. 錯誤。鹽析利用不同蛋白在高鹽濃度下溶解度不同而沉澱，專一性較低。\n\n【核心考點】\n看到抗原抗體、受體配體、tag 與專一結合，優先想到 affinity chromatography。",
+      "key_point": "抗原抗體專一性純化蛋白屬親合力層析法。",
+      "flashcard_front": "利用抗原抗體專一性進行蛋白質純化是哪種層析？",
+      "flashcard_back": "親合力層析法。",
+      "flashcard_summary": "antigen-antibody specificity -> affinity chromatography",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n蛋白質二級結構是主鏈氫鍵形成的局部規則構形，典型例子是 alpha helix 與 beta sheet。四個選項中只有 alpha helix 是二級結構，因此答案為 A。\n\n【選項詳解】\n- A. 正確。alpha helix 由胜肽主鏈 C=O 與 N-H 間的氫鍵穩定，是典型二級結構。\n- B. 錯誤。tetramer 指四個次單元組成的蛋白複合體，屬四級結構概念。\n- C. 錯誤。subunit 是蛋白複合體中的一個多胜肽單元，描述的是四級結構或組成單位，不是二級結構。\n- D. 錯誤。capping structure 不是蛋白質二級結構的標準分類；考試二級結構首要辨認 alpha helix、beta sheet 與 turns。\n\n【核心考點】\n二級結構是 alpha helix、beta sheet、turns；三級是單條多胜肽折疊，四級是多次單元組裝。",
+      "key_point": "alpha helix 是蛋白質二級結構。",
+      "flashcard_front": "蛋白質二級結構的典型例子？",
+      "flashcard_back": "alpha helix 與 beta sheet。",
+      "flashcard_summary": "secondary structure -> alpha helix",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\nBohr effect 指 H+ 與 CO2 增加時，血紅蛋白對氧的親和力下降，氧解離曲線右移。四個選項中最直接對應的是血液酸鹼度，因此答案為 A。\n\n【選項詳解】\n- A. 正確。pH 下降代表 H+ 增加，會降低 hemoglobin 對 O2 的親和力，促進周邊組織釋氧。\n- B. 錯誤。體溫升高也可使氧解離曲線右移，但這不是 Bohr effect 的核心定義。\n- C. 錯誤。大氣含氧量會影響肺泡與血液氧分壓，但 Bohr effect 問的是 Hb 親和力受 H+/CO2 的影響。\n- D. 錯誤。心跳速度會影響血流與氧輸送量，不是 Bohr effect 的分子親和力因素。\n\n【核心考點】\nBohr effect：酸、CO2 多時 Hb-O2 affinity 下降，利於組織釋氧。",
+      "key_point": "Bohr effect 是 pH/CO2 改變血紅蛋白氧親和力。",
+      "flashcard_front": "Bohr effect 主要和哪個血液因素有關？",
+      "flashcard_back": "酸鹼度；H+ 增加、pH 下降會降低 Hb 對 O2 親和力。",
+      "flashcard_summary": "Bohr effect -> pH/CO2 changes Hb-O2 affinity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nCoenzyme A 的結構包含 pantothenic acid、beta-mercaptoethylamine 與 3'-phosphoadenosine diphosphate。vitamin A 不是 CoA 的組成單元，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。pantothenic acid 即維生素 B5，是 CoA 結構的重要部分。\n- B. 錯誤。beta-mercaptoethylamine 提供 CoA 末端的硫醇基，讓 CoA 能形成高能 thioester。\n- C. 錯誤。3'-phosphoadenosine diphosphate 是 CoA 的核苷酸部分，屬其結構組成。\n- D. 正確。vitamin A 與視覺、上皮分化與 retinoid 訊號相關，不是 CoA 結構的一部分。\n\n【核心考點】\nCoA 來自 vitamin B5，功能重點在末端 -SH 形成 acyl-CoA thioester；不要把 vitamin A 混入 CoA 結構。",
+      "key_point": "vitamin A 不是 coenzyme A 的組成單元；CoA 含 pantothenic acid。",
+      "flashcard_front": "CoA 結構中含哪個維生素？不含哪個？",
+      "flashcard_back": "含 pantothenic acid/B5；不含 vitamin A。",
+      "flashcard_summary": "CoA components -> pantothenic acid, beta-mercaptoethylamine, 3'-phosphoadenosine diphosphate",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n原核細胞 DNA 通常維持負超螺旋、低度纏繞狀態，使 DNA 更緊密，也讓雙股較容易局部打開以進行複製與轉錄。因此答案為 A。\n\n【選項詳解】\n- A. 正確。負超螺旋代表 underwound，可儲存能量並促進雙股 DNA 分離，常由 DNA gyrase 維持。\n- B. 錯誤。正超螺旋代表 overwound，會使雙股更難打開，常出現在複製叉前方需被 topoisomerase 緩解。\n- C. 錯誤。鬆弛 DNA 沒有超螺旋張力，緊密排列與促進開股的效果不如負超螺旋。\n- D. 錯誤。原核染色體不是以線性延展狀態維持；其環狀 DNA 需超螺旋與蛋白協助壓縮。\n\n【核心考點】\n負超螺旋 underwound 有助 DNA 壓縮與開股；正超螺旋 overwound 會增加開股困難。",
+      "key_point": "原核 DNA 常維持負超螺旋 underwound 狀態，利於轉錄時開股。",
+      "flashcard_front": "原核 DNA 通常維持哪種超螺旋狀態？",
+      "flashcard_back": "負超螺旋、underwound。",
+      "flashcard_summary": "prokaryotic DNA -> negative supercoiling, underwound",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n核小體核心由 H2A、H2B、H3、H4 各兩個組成八聚體，DNA 纏繞其上。H1 是 linker histone，幫助穩定連接 DNA 與更高階染色質，不屬核心八聚體，因此答案為 A。\n\n【選項詳解】\n- A. 正確。H1 位在核小體外側連接 DNA 區域，協助染色質壓縮，但不屬 histone core。\n- B. 錯誤。H2A 是核心組蛋白之一，參與形成 histone octamer。\n- C. 錯誤。H2B 也是核心組蛋白之一，和 H2A、H3、H4 共同組成核小體核心。\n- D. 錯誤。H3 是核心組蛋白之一，與 H4 形成 tetramer，是核小體核心的重要成分。\n\n【核心考點】\nhistone core 是 H2A、H2B、H3、H4；H1 是 linker histone，不在核心八聚體內。",
+      "key_point": "H1 是 linker histone，不屬核小體 histone core。",
+      "flashcard_front": "哪個 histone 不屬於 nucleosome core？",
+      "flashcard_back": "H1；核心為 H2A、H2B、H3、H4。",
+      "flashcard_summary": "nucleosome core -> H2A/H2B/H3/H4; H1 linker",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 A 是錯誤功能描述。DNA helicase 的工作是解開雙股 DNA；緩解複製過程中前方超螺旋張力主要靠 topoisomerase 或 gyrase。\n\n【選項詳解】\n- A. 錯誤敘述。helicase 使用 ATP 分開雙股 DNA；它造成複製叉前方張力增加，解除超螺旋張力的是 topoisomerase。\n- B. 正確敘述。SSB 結合單股 DNA，防止重新配對與被核酸酶分解，穩定複製叉。\n- C. 正確敘述。primase 合成短 RNA primer，提供 DNA polymerase 延伸所需的 3'-OH。\n- D. 正確敘述。大腸桿菌 DNA polymerase III 是主要複製酶，負責新生 DNA 鏈延長。\n\n【核心考點】\nhelicase 解開雙股；topoisomerase/gyrase 解決超螺旋；primase 做 RNA primer；DNA pol III 延長 DNA。",
+      "key_point": "DNA helicase 負責解旋開股，不負責緩解超螺旋張力。",
+      "flashcard_front": "複製叉前方超螺旋張力由 helicase 還是 topoisomerase 緩解？",
+      "flashcard_back": "topoisomerase/gyrase；helicase 負責解開雙股 DNA。",
+      "flashcard_summary": "replisome -> helicase unwinds, topoisomerase relieves supercoils",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題在考腦幹神經核的位置與傳出纖維走向。疑核位於延髓網狀結構內，提供特殊內臟運動纖維，主要隨第九、十對腦神經支配咽喉相關肌肉，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。舌下神經核是第十二對腦神經的體運動核，支配舌內、外肌，傳出纖維走在舌下神經，不是第九、十對腦神經。\n- B. 錯誤。背側迷走神經核是迷走神經的副交感節前核，雖與第十對腦神經相關，但題目同時要求第九、十對腦神經的傳出纖維，且典型答案是疑核。\n- C. 正確。疑核位於延髓網狀結構，發出特殊內臟傳出纖維，經舌咽神經與迷走神經支配咽、喉肌群。\n- D. 錯誤。孤立核主要接受味覺與內臟感覺傳入，包括舌咽、迷走與顏面神經的感覺纖維，不是本題問的傳出運動核。\n\n【核心考點】\n疑核是 IX、X 的咽喉運動核，位置在延髓網狀結構；孤立核偏感覺，背側迷走神經核偏副交感。",
+      "key_point": "疑核位於延髓網狀結構，特殊內臟運動纖維經 CN IX、X 支配咽喉肌。",
+      "flashcard_front": "CN IX、X 的咽喉運動核位於哪個腦幹神經核？",
+      "flashcard_back": "疑核；它位於延髓網狀結構，發出特殊內臟運動纖維到咽、喉肌。",
+      "flashcard_summary": "疑核 -> 延髓網狀結構內的 IX、X 咽喉運動核",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n頸動脈竇與主動脈弓的壓力感受器訊息分別經舌咽神經與迷走神經進入延髓。這些內臟感覺傳入主要終止於孤立核，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。疑核是咽喉肌的運動核，也參與迷走副交感心臟反射的輸出調控，但不是血壓感覺訊息的主要第一站。\n- B. 正確。孤立核接受舌咽神經與迷走神經的內臟感覺傳入，包括頸動脈竇與主動脈弓壓力感受器訊息。\n- C. 錯誤。背側迷走神經核是副交感節前神經元所在，屬於輸出端，主要不是接收血壓感覺傳入的核團。\n- D. 錯誤。三叉神經脊髓核處理臉部痛溫覺與部分顱腔、外耳感覺，與動脈壓力感受器路徑不符。\n\n【核心考點】\nbaroreceptor afferent：carotid sinus 經 CN IX、aortic arch 經 CN X，最後進入孤立核整合。",
+      "key_point": "頸動脈與主動脈弓壓力感受器傳入經 CN IX、X 到孤立核。",
+      "flashcard_front": "頸動脈竇與主動脈弓血壓訊息進入腦幹後主要到哪裡？",
+      "flashcard_back": "孤立核；它是舌咽、迷走內臟感覺傳入的重要整合站。",
+      "flashcard_summary": "baroreceptor -> CN IX/X -> solitary nucleus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n咬合力道屬於咀嚼肌與牙周相關的本體感覺。三叉神經本體感覺的初級神經元細胞本體有特殊例外，位在中樞內的三叉神經中腦核，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。三叉神經脊髓核主要處理臉部痛覺、溫覺與粗觸覺，不是咀嚼肌本體感覺細胞本體的位置。\n- B. 錯誤。三叉神經橋腦核主要處理臉部精細觸覺與壓覺，與咬合力道的本體感覺來源不同。\n- C. 錯誤。三叉神經運動核支配咀嚼肌收縮，是運動核，不是偵測咬合力道的感覺神經元本體。\n- D. 正確。三叉神經中腦核含咀嚼肌肌梭與牙周本體感覺的初級感覺神經元細胞本體，參與 jaw jerk reflex 與咬合力回饋。\n\n【核心考點】\n三叉神經中腦核是少數把初級感覺神經元細胞本體放在中樞神經系統內的例外，負責咀嚼相關本體感覺。",
+      "key_point": "咀嚼肌與咬合力本體感覺的細胞本體位於三叉神經中腦核。",
+      "flashcard_front": "咬合力與咀嚼肌本體感覺的神經元本體在哪個核？",
+      "flashcard_back": "三叉神經中腦核；它是三叉神經本體感覺的特殊中樞內初級神經元位置。",
+      "flashcard_summary": "bite force proprioception -> mesencephalic trigeminal nucleus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n小腦深部核由外側到內側依序為齒狀核、栓狀核、球狀核、頂核。題目問最外側，所以答案為 D。\n\n【選項詳解】\n- A. 錯誤。頂核是四個深部小腦核中最內側者，常與蚓部與前庭、姿勢控制相關。\n- B. 錯誤。球狀核位於中間區域，和栓狀核合稱中間核，不是最外側。\n- C. 錯誤。栓狀核也屬於中間核之一，位置比齒狀核內側。\n- D. 正確。齒狀核是最大且最外側的小腦深部核，與小腦半球及動作計畫相關。\n\n【核心考點】\n深部小腦核外到內可記為 dentate、emboliform、globose、fastigial；最外側是齒狀核。",
+      "key_point": "小腦深部核外到內：dentate、emboliform、globose、fastigial。",
+      "flashcard_front": "最外側的小腦深部核是哪一個？",
+      "flashcard_back": "齒狀核；外到內依序為齒狀、栓狀、球狀、頂核。",
+      "flashcard_summary": "deep cerebellar nuclei lateral-to-medial -> dentate first",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n丘腦中，視覺傳入主要經外側膝狀核轉接到視覺皮質，聽覺傳入主要經內側膝狀核轉接到聽覺皮質。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。腹前側核與腹外側核主要和基底核、小腦到運動皮質的運動調控路徑相關，不是視聽覺主要中繼站。\n- B. 正確。外側膝狀核處理視覺訊息，內側膝狀核處理聽覺訊息，是丘腦感覺中繼的典型配對。\n- C. 錯誤。腹後外側核接收身體軀幹與四肢的體感覺，腹後內側核接收臉部體感覺與味覺相關傳入，不是視聽覺配對。\n- D. 錯誤。外側背側核與外側後側核偏向聯合核群，並非視覺與聽覺的主要丘腦中繼核。\n\n【核心考點】\n丘腦感覺核要配對記：LGN 對視覺，MGN 對聽覺，VPL/VPM 對體感覺。",
+      "key_point": "視覺經外側膝狀核，聽覺經內側膝狀核。",
+      "flashcard_front": "視覺與聽覺各自對應哪兩個丘腦核？",
+      "flashcard_back": "視覺：外側膝狀核；聽覺：內側膝狀核。",
+      "flashcard_summary": "thalamus -> LGN vision, MGN hearing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目問外耳疼痛最不相關的神經。外耳感覺常見來源包括三叉神經、顏面神經與迷走神經耳支；舌咽神經較典型供應中耳、咽部與扁桃腺區域，和外耳表面疼痛較不直接，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。三叉神經，特別是 V3 的耳顳神經，供應耳廓前上部與外耳道部分感覺，和外耳痛相關。\n- B. 錯誤。顏面神經可參與耳廓與外耳道小部分感覺，也可能在外耳疼痛路徑中被牽涉。\n- C. 正確。舌咽神經主要與中耳腔、咽部與扁桃腺感覺相關；相較於三叉、顏面與迷走神經，它和外耳疼痛最不直接。\n- D. 錯誤。迷走神經的耳支可供應外耳道與耳廓部分區域，刺激時甚至可引發咳嗽反射，因此和外耳感覺有關。\n\n【核心考點】\n外耳痛常牽涉 V3 耳顳神經、CN VII 與 CN X 耳支；CN IX 比較偏中耳與咽部感覺。",
+      "key_point": "外耳感覺較常見於 V3、CN VII、CN X；CN IX 與外耳疼痛最不直接。",
+      "flashcard_front": "外耳疼痛最不相關的顱神經是哪一條？",
+      "flashcard_back": "舌咽神經；它較典型供應中耳與咽部，外耳主要牽涉 V3、VII、X。",
+      "flashcard_summary": "external ear pain -> V3/VII/X more than IX",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問哪個肌肉收縮不會使舌頭後移。頦舌肌的主要作用是把舌頭往前伸並避免舌根後墜，與 retrusion 相反，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。上縱肌屬舌內肌，可縮短舌頭、上捲舌尖，整體上可協助舌形改變與部分後移效果。\n- B. 錯誤。下縱肌可縮短舌頭、使舌尖下彎，也可參與舌體後縮相關動作。\n- C. 錯誤。舌骨舌肌由舌骨走向舌側，收縮時可使舌頭下降並後移，是 retrusion 的典型肌肉之一。\n- D. 正確。頦舌肌由下頷前方拉向舌體，雙側收縮主要使舌頭前伸，臨床上也有維持上呼吸道通暢的意義。\n\n【核心考點】\n舌骨舌肌偏壓低與後縮舌頭；頦舌肌是主要 protrusion 肌，作用方向和舌頭後移相反。",
+      "key_point": "頦舌肌使舌頭前伸，不是後縮；舌骨舌肌可使舌頭下降與後移。",
+      "flashcard_front": "哪個舌肌主要使舌頭前伸而不是後移？",
+      "flashcard_back": "頦舌肌；它是 tongue protrusion 的主要肌肉。",
+      "flashcard_summary": "genioglossus -> protrusion, hyoglossus -> depression/retrusion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n右冠狀動脈主幹沿右側冠狀溝走行。心小靜脈通常也在右冠狀溝內與右冠狀動脈伴行，最後匯入冠狀竇，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。心大靜脈常伴隨前室間動脈，之後沿左冠狀溝走向冠狀竇，較不是右冠狀動脈主幹的伴行靜脈。\n- B. 錯誤。心中靜脈位於後室間溝，常伴隨後室間動脈，不是右冠狀溝內的主幹伴行靜脈。\n- C. 正確。心小靜脈沿右側冠狀溝走行，常與右冠狀動脈伴行並收集右心房、右心室部分靜脈血。\n- D. 錯誤。心後靜脈多位在左心室後面，與右冠狀動脈主幹伴行的關係不如心小靜脈典型。\n\n【核心考點】\n右冠狀溝內要想到右冠狀動脈與心小靜脈；前室間溝是 LAD 與心大靜脈，後室間溝是 PDA 與心中靜脈。",
+      "key_point": "心小靜脈沿右冠狀溝，與右冠狀動脈主幹伴行。",
+      "flashcard_front": "哪條心靜脈常與右冠狀動脈主幹伴行？",
+      "flashcard_back": "心小靜脈；它沿右冠狀溝走行。",
+      "flashcard_summary": "small cardiac vein -> accompanies RCA in right coronary sulcus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n股鞘包住股動脈、股靜脈與股管；由外到內依序為股動脈、股靜脈、股管。股管是最內側的隔間，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。股管的位置用內外側關係描述較精準，不是股鞘的深層隔間。\n- B. 正確。股管位於股靜脈內側，是股鞘最內側的小空間，內有淋巴管與 Cloquet 淋巴結，亦是 femoral hernia 經過處。\n- C. 錯誤。股鞘外側隔間是股動脈，股神經則在股鞘外側、通常不在股鞘內。\n- D. 錯誤。股鞘中間隔間主要是股靜脈，股管不在中間。\n\n【核心考點】\n股三角常用 lateral-to-medial 記憶：NAVEL；股管是最內側的 empty space/lymphatic compartment。",
+      "key_point": "股管位於股鞘最內側，股靜脈的內側。",
+      "flashcard_front": "股管在股鞘內的位置？",
+      "flashcard_back": "偏內側；股鞘由外到內為股動脈、股靜脈、股管。",
+      "flashcard_summary": "femoral canal -> medial compartment of femoral sheath",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n痛覺與溫覺纖維通常是較細的 A-delta 或 C fiber，進入脊髓背根時偏外側；本體感覺與精細觸覺等較粗纖維偏內側。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。small diameter fiber 的描述符合痛覺，但背根內側 division 主要是較粗、髓鞘較厚的觸覺與本體感覺纖維。\n- B. 正確。痛覺傳入纖維多為較細纖維，通常經背根外側進入脊髓，之後可進入 Lissauer tract 並在後角突觸。\n- C. 錯誤。背根內側與 large diameter fiber 較符合觸覺、本體感覺路徑，不是 nociception 的典型組合。\n- D. 錯誤。外側 division 的方向對，但痛覺纖維不是通常較粗的 large diameter fiber。\n\n【核心考點】\n背根外側偏小纖維、痛溫覺；背根內側偏大纖維、精細觸覺與本體感覺。",
+      "key_point": "痛覺纖維多為小直徑 A-delta/C fiber，經背根外側進入脊髓。",
+      "flashcard_front": "痛覺纖維進入脊髓背根時偏內側還是外側？纖維粗細如何？",
+      "flashcard_back": "偏外側，且多為小直徑纖維；內側較偏大直徑觸覺與本體感覺纖維。",
+      "flashcard_summary": "nociception -> lateral dorsal root division, small fibers",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

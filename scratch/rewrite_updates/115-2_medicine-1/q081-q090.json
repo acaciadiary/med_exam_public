@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n轉座子插入受體 DNA 時，目標位點會被 staggered cut，填補缺口後在轉座子兩側形成短的 direct repeats，也就是相同順序的短重複序列。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。轉座插入通常會改變目標位點，至少會留下 target site duplication，不是完全無變化。\n- B. 正確。目標 DNA 兩側會形成相同方向的短重複序列，這是轉座插入後修補造成的特徵。\n- C. 錯誤。相反順序的 inverted repeats 常見於轉座子本身兩端，不是受體 DNA 目標位點被複製後的排列。\n- D. 錯誤。典型插入會造成短序列重複，不是把目標位點整段刪除。\n\n【核心考點】\ntransposon insertion 會造成受體 DNA 的 target site direct repeats；轉座子本身兩端才常有 inverted repeats。",
+      "key_point": "轉座子插入會在兩側形成相同方向的短 target site duplications。",
+      "flashcard_front": "轉座子插入目標 DNA 後，兩側常形成什麼序列？",
+      "flashcard_back": "相同順序的短重複序列，也就是 direct repeats。",
+      "flashcard_summary": "transposition -> target site direct repeats",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\ncisplatin 會造成 DNA 上 bulky adducts 與交聯損傷。這類扭曲雙股螺旋的 bulky lesion 主要由核苷酸切除修復移除，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。直接修復用於少數可直接逆轉的損傷，例如某些甲基化鹼基修復，不是 cisplatin bulky crosslink 的主要路徑。\n- B. 錯誤。鹼基切除修復主要處理小型鹼基損傷、脫胺、氧化或 AP site，不是 cisplatin 造成的大型螺旋扭曲損傷主力。\n- C. 錯誤。錯誤配對修復主要修正複製後鹼基配對錯誤與小插入缺失 loop，不是移除 cisplatin adduct 的主要機制。\n- D. 正確。核苷酸切除修復可切除造成 DNA helix distortion 的 bulky lesions，包括紫外線 pyrimidine dimers 與 cisplatin adducts。\n\n【核心考點】\nNER 修 bulky helix-distorting lesions；BER 修小型鹼基損傷；MMR 修複製後錯配。",
+      "key_point": "cisplatin 造成 bulky DNA adducts，主要靠 nucleotide excision repair 修復。",
+      "flashcard_front": "cisplatin DNA 損傷主要靠哪種修復？",
+      "flashcard_back": "核苷酸切除修復 NER。",
+      "flashcard_summary": "cisplatin adducts -> nucleotide excision repair",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\nRNA polymerase 可直接從 DNA template 開始合成 RNA，不需要 primer。它需要 ribonucleoside triphosphates、DNA 模板與金屬離子輔助催化，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。轉錄需要 ATP、GTP、CTP、UTP 四種 ribonucleoside triphosphates 作為 RNA 原料。\n- B. 正確。RNA polymerase 不需要既有 primer；這是和 DNA polymerase 的重要差異。\n- C. 錯誤。RNA polymerase 催化磷酸二酯鍵形成通常需要 Mg2+ 等二價金屬離子協助。\n- D. 錯誤。轉錄需要 DNA 模板來決定 RNA 序列。\n\n【核心考點】\nDNA polymerase 需要 primer；RNA polymerase 不需要 primer，但需要 DNA template 與 NTPs。",
+      "key_point": "RNA polymerase 轉錄不需要 primer。",
+      "flashcard_front": "RNA polymerase 合成 RNA 需要 primer 嗎？",
+      "flashcard_back": "不需要；DNA polymerase 才需要 primer。",
+      "flashcard_summary": "transcription -> RNA polymerase does not require primer",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 A 是錯誤敘述。ubiquitin 修飾不一定等於 26S proteasome 分解；結果取決於 mono-ubiquitination 或 polyubiquitin chain 的連接型態與細胞情境。\n\n【選項詳解】\n- A. 錯誤敘述。K48-linked polyubiquitin 常導向 proteasome 分解，但 ubiquitin 也可參與膜蛋白內吞、DNA repair、訊號傳遞等非分解功能。\n- B. 正確敘述。蛋白進入 proteasome 分解前，deubiquitinating enzymes 可移除並回收 ubiquitin。\n- C. 正確敘述。ubiquitin 通常透過其 C 端 glycine 和標的蛋白 lysine 側鏈形成異肽鍵。\n- D. 正確敘述。E3 ligase 提供受質辨識並促進 ubiquitin 連接到標的蛋白，是專一性的關鍵。\n\n【核心考點】\nubiquitin 是訊號標籤，不只代表分解；K48 polyubiquitin 最典型導向 26S proteasome。",
+      "key_point": "ubiquitin 修飾不一定導致 proteasome 分解，需看鏈型與修飾型態。",
+      "flashcard_front": "所有 ubiquitinated proteins 都會被 26S proteasome 分解嗎？",
+      "flashcard_back": "不一定；K48 polyubiquitin 最典型導向分解，但其他修飾可做訊號功能。",
+      "flashcard_summary": "ubiquitin -> degradation or signaling depending linkage",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\nlac operon 高度表達需要兩個條件：有 lactose 產生 allolactose 解除 repressor；沒有 glucose 使 cAMP 上升、CAP 結合促進轉錄。因此只有乳糖、沒有葡萄糖時 lacZYA 高度表達，答案為 B。\n\n【選項詳解】\n- A. 錯誤。有乳糖可解除 repressor，但同時有葡萄糖會降低 cAMP，CAP 活化不足，所以不是高度表達。\n- B. 正確。乳糖存在解除 LacI 抑制，葡萄糖缺乏使 cAMP-CAP 活化，兩者同時達成 lac operon 高表達。\n- C. 錯誤。只有葡萄糖、沒有乳糖時 repressor 仍壓在 operator 上，lac genes 不會高度表達。\n- D. 錯誤。乳糖與葡萄糖都沒有時 cAMP 雖高，但沒有 lactose/allolactose 解除 repressor，仍無法高表達。\n\n【核心考點】\nlac operon：lactose on、glucose off 時最高表達。",
+      "key_point": "lacZYA 高度表達需要乳糖存在且葡萄糖缺乏。",
+      "flashcard_front": "lac operon 什麼條件下最高表達？",
+      "flashcard_back": "有乳糖、無葡萄糖。",
+      "flashcard_summary": "lac operon high -> lactose present, glucose absent",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n真核轉譯起始時，mRNA 5' cap 由 eIF4E 直接辨識與結合；eIF4E 是 eIF4F 複合體中的 cap-binding protein。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。eIF4A 是 RNA helicase，幫助解開 5' UTR 二級結構，讓核糖體掃描。\n- B. 錯誤。eIF4B 可促進 eIF4A helicase 活性，但不是直接 cap-binding protein。\n- C. 正確。eIF4E 直接結合 mRNA 5' cap，是 cap-dependent translation initiation 的核心因子。\n- D. 錯誤。eIF4G 是 scaffold protein，連接 eIF4E、eIF4A、PABP 等因子，協助組裝起始複合體。\n\n【核心考點】\neIF4E binds 5' cap；eIF4A unwinds RNA；eIF4G is scaffold。",
+      "key_point": "eIF4E 直接辨識並結合 mRNA 5' cap。",
+      "flashcard_front": "哪個 eIF 直接結合 mRNA 5' cap？",
+      "flashcard_back": "eIF4E。",
+      "flashcard_summary": "translation initiation -> eIF4E binds 5' cap",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n[18F]FDG 進入細胞後會被 hexokinase 磷酸化成 [18F]FDG-6-phosphate。因為它無法像一般葡萄糖順利繼續糖解，會滯留在高葡萄糖攝取的細胞中供 PET 偵測，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。FDG 進入細胞後主要發生磷酸化，不是變成氟代羥基葡萄糖。\n- B. 正確。hexokinase 產生 6-phospho-2-fluoro-2-deoxyglucose，使放射性訊號被困在細胞內。\n- C. 錯誤。此選項少了 deoxy 的關鍵結構描述，並非 FDG 代謝後的正確產物名稱。\n- D. 錯誤。FDG-6-phosphate 因缺少 2 位羥基而不易繼續生成 fructose-1,6-bisphosphate 類產物。\n\n【核心考點】\nFDG-PET 靠 FDG 被 hexokinase 磷酸化成 FDG-6-phosphate 後在細胞內滯留。",
+      "key_point": "FDG 在細胞內被磷酸化成 FDG-6-phosphate 並滯留。",
+      "flashcard_front": "FDG-PET 中 FDG 進入細胞後形成什麼滯留產物？",
+      "flashcard_back": "[18F]FDG-6-phosphate。",
+      "flashcard_summary": "FDG -> FDG-6-phosphate trapped in cells",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n這是否定題，官方答案 C 是錯誤敘述。fructose-1,6-bisphosphate 是 pyruvate kinase 的 feed-forward activator，會促進糖解往下進行；它不是抑制 pyruvate kinase。\n\n【選項詳解】\n- A. 依官方答案視為非錯誤選項。高 acetyl-CoA 代表能量充足並偏向抑制糖解、促進丙酮酸轉入葡萄糖新生路徑；不過若嚴格看 pyruvate kinase 的直接別構調控，常見抑制因子是 ATP、alanine 等，這句的直接機制用語可再人工複核。\n- B. 正確敘述。acetyl-CoA 活化 pyruvate carboxylase，促進 pyruvate 轉為 oxaloacetate，增加葡萄糖新生。\n- C. 錯誤敘述。fructose-1,6-bisphosphate 會活化 pyruvate kinase，屬糖解上游產物促進下游步驟的 feed-forward regulation。\n- D. 正確敘述。fructose-2,6-bisphosphate 活化 PFK-1，促進糖解，同時抑制 fructose-1,6-bisphosphatase 而抑制葡萄糖新生。\n\n【核心考點】\nF1,6BP 活化 pyruvate kinase；F2,6BP 活化 PFK-1 並抑制 FBPase-1。若題目要求錯誤敘述，本題依官方答案選 C。",
+      "key_point": "fructose-1,6-bisphosphate 活化 pyruvate kinase，不是抑制。",
+      "flashcard_front": "F1,6BP 對 pyruvate kinase 的作用？",
+      "flashcard_back": "活化；屬 feed-forward activation，促進糖解。",
+      "flashcard_summary": "glycolysis regulation -> F1,6BP activates pyruvate kinase",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": [
+        "A 選項對 acetyl-CoA 直接抑制 pyruvate kinase 的表述建議人工複核；本題依官方答案保留 C。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-1_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n脂筏是細胞膜中富含 cholesterol、sphingolipids 與特定膜蛋白的微區，用於訊號傳遞與膜蛋白聚集。三酸甘油酯主要是儲存脂質，不是膜脂筏主要成分，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。鞘醣脂是 lipid raft 的典型組成，和膽固醇共同使膜區較有序。\n- B. 錯誤。膽固醇是脂筏的重要成分，可增加膜微區的有序性與穩定性。\n- C. 正確。三酸甘油酯主要存在脂滴中作為能量儲存，不是細胞膜脂筏的主要結構分子。\n- D. 錯誤。脂筏會聚集特定蛋白質，例如受體、GPI-anchored proteins 與訊號分子。\n\n【核心考點】\nlipid raft 富含 cholesterol、sphingolipids/glycosphingolipids 與特定蛋白；不以 triglyceride 為主要成分。",
+      "key_point": "脂筏主要含膽固醇、鞘脂與蛋白質，不包含三酸甘油酯作主要成分。",
+      "flashcard_front": "lipid raft 主要不包含哪類脂質？",
+      "flashcard_back": "三酸甘油酯；它主要是儲存脂質。",
+      "flashcard_summary": "lipid raft -> cholesterol + sphingolipids + proteins, not triglycerides",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n題目問哪個酶催化的反應與 condensation 無關。beta-ketoacyl-ACP reductase 是脂肪酸合成循環中的還原步驟，將 beta-ketoacyl-ACP 還原為 beta-hydroxyacyl-ACP，不是縮合反應，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。acetyl-CoA acetyl transferase 可催化兩個 acetyl-CoA 形成 acetoacetyl-CoA，屬碳骨架縮合相關反應。\n- B. 錯誤。HMG-CoA synthase 將 acetoacetyl-CoA 與 acetyl-CoA 縮合形成 HMG-CoA。\n- C. 錯誤。beta-ketoacyl-ACP synthase 是脂肪酸合成中延長碳鏈的縮合酶，將 malonyl-ACP 單位接上生長中的 acyl chain。\n- D. 正確。beta-ketoacyl-ACP reductase 使用 NADPH 進行還原，並不形成新的 C-C bond，因此與 condensation 無關。\n\n【核心考點】\nsynthase/transferase 常參與縮合或碳骨架延長；reductase 的關鍵是還原反應，不是縮合。",
+      "key_point": "beta-ketoacyl-ACP reductase 催化還原，不是 condensation。",
+      "flashcard_front": "脂肪酸合成中 beta-ketoacyl-ACP reductase 做什麼反應？",
+      "flashcard_back": "還原 beta-keto group，使用 NADPH；不是縮合。",
+      "flashcard_summary": "beta-ketoacyl-ACP reductase -> reduction, not condensation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

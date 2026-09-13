@@ -19,4 +19,5 @@ def test_physician_115_second_preset_uses_stage_specific_exam_codes():
     assert subjects[1].answer_url.endswith("c=301&code=115090&q=1&s=0102&t=S")
     assert subjects[2].question_url.endswith("c=302&code=115070&q=1&s=0101&t=Q")
     assert subjects[-1].answer_url.endswith("c=302&code=115070&q=1&s=0104&t=S")
-    assert all(not subject.has_correction for subject in subjects)
+    assert all(subject.has_correction for subject in subjects)
+    assert subjects[-1].correction_url.endswith("c=302&code=115070&q=1&s=0104&t=M")

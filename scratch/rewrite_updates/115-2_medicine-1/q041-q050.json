@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n淋巴結的血液到淋巴組織入口以高內皮小靜脈最重要，多數 naive lymphocytes 由此進入淋巴結。故答案為 C。\n\n【選項詳解】\n- A. 錯誤。淋巴結網狀纖維主要由 fibroblastic reticular cells 產生，樹狀細胞主要負責抗原呈現，不是網狀纖維的主要來源。\n- B. 錯誤。巨噬細胞可吞噬與呈現抗原，但在活化初始 T 細胞方面，樹狀細胞通常是更有效的專職抗原呈現細胞。\n- C. 正確。大部分循環淋巴球經由副皮質區的高內皮小靜脈進入淋巴結，再依趨化訊號移動到 B cell 或 T cell 區。\n- D. 錯誤。淋巴結有淋巴竇讓淋巴液流經，最後由輸出淋巴管離開，不是靠靜脈竇直接回收淋巴到血液。\n\n【核心考點】\n淋巴球進入淋巴結的主要血管入口是高內皮小靜脈；淋巴液則走輸入淋巴管、淋巴竇、輸出淋巴管。",
+      "key_point": "大部分淋巴球經高內皮小靜脈進入淋巴結。",
+      "flashcard_front": "循環淋巴球主要經哪個構造進入淋巴結？",
+      "flashcard_back": "高內皮小靜脈；常位於副皮質區。",
+      "flashcard_summary": "lymph node entry for lymphocytes -> high endothelial venules",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n心臟內面是心內膜，表面襯有內皮；心臟外面是心外膜，也就是漿膜性心包的臟層，表面覆有間皮。因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。胃的腔面是黏膜上皮，不是內皮；外表面有漿膜時可有間皮，但不符合內襯內皮。\n- B. 錯誤。子宮腔面是子宮內膜上皮與腺體，不是內皮；外層也不是整個器官都以間皮覆蓋。\n- C. 錯誤。膀胱腔面是移行上皮，並非內皮；腹膜只覆蓋其上表面部分。\n- D. 正確。心臟腔面心內膜含內皮，外表面心外膜為臟層心包，覆蓋間皮。\n\n【核心考點】\n內皮襯血管與心腔；間皮覆蓋漿膜腔表面。心臟同時具心內膜內皮與心外膜間皮。",
+      "key_point": "心臟內襯心內膜內皮，外覆心外膜間皮。",
+      "flashcard_front": "哪個器官內面有 endothelium、外面有 mesothelium？",
+      "flashcard_back": "心臟；心內膜為內皮，心外膜為間皮。",
+      "flashcard_summary": "heart -> endocardial endothelium + epicardial mesothelium",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n食道外肌層由上到下逐漸由骨骼肌轉為平滑肌：上三分之一骨骼肌，中三分之一混合，下三分之一平滑肌。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。中三分之一段通常含骨骼肌與平滑肌混合，不是僅有平滑肌。\n- B. 錯誤。上三分之一段主要為骨骼肌，受吞嚥隨意控制相關神經調控。\n- C. 正確。下三分之一段外肌層主要為平滑肌，接近胃部並由自律神經與腸神經系統調節。\n- D. 錯誤。上三分之二包含上段骨骼肌與中段混合肌，不能說僅有平滑肌。\n\n【核心考點】\n食道肌層分布：上 1/3 skeletal，中 1/3 mixed，下 1/3 smooth。",
+      "key_point": "食道下三分之一外肌層僅有平滑肌。",
+      "flashcard_front": "食道哪一段外肌層僅為平滑肌？",
+      "flashcard_back": "下三分之一段。",
+      "flashcard_summary": "esophagus muscle -> upper skeletal, middle mixed, lower smooth",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n毛囊隆突是重要幹細胞區，位於毛囊外根鞘與皮脂腺附近，能供應毛囊週期性再生，也可參與皮脂腺與表皮修復。因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。外根鞘從表皮延伸到毛球，但不同高度的細胞層數與型態會改變，不能說皆不會改變。\n- B. 錯誤。毛基質圍繞真皮乳頭，主要是快速分裂的角質形成細胞，另有黑色素細胞供應色素，並非全由黑色素細胞構成。\n- C. 錯誤。玻璃樣膜是毛囊外周的增厚基底膜樣結構，富含醣蛋白，通常 PAS 陽性，不是 PAS 陰性。\n- D. 正確。毛囊隆突含多能性上皮幹細胞，是毛囊再生、皮脂腺維持及皮膚修復的重要來源。\n\n【核心考點】\n毛囊 bulge 是幹細胞庫；hair matrix 主要是增生角質形成細胞，glassy membrane 屬 PAS 陽性基底膜樣結構。",
+      "key_point": "毛囊隆突是毛囊與皮脂腺相關幹細胞的重要位置。",
+      "flashcard_front": "毛囊主要幹細胞區在哪裡？",
+      "flashcard_back": "毛囊隆突；位於外根鞘與皮脂腺附近。",
+      "flashcard_summary": "hair follicle bulge -> stem cell niche",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n睪固酮主要由睪丸間質中的萊氏細胞製造，受 LH 刺激。史托利細胞則負責支持生精、分泌 inhibin B 與血睪障壁相關功能，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。史托利細胞支持生精細胞發育，分泌 inhibin B 與 androgen-binding protein，不是睪固酮主要來源。\n- B. 正確。萊氏細胞位於曲精小管間質，受 LH 刺激合成與分泌睪固酮。\n- C. 錯誤。精細胞是生精過程中的後期細胞，任務是形成精子，不製造睪固酮。\n- D. 錯誤。基底細胞在不同組織有不同意義，並非睪丸睪固酮分泌細胞。\n\n【核心考點】\nLeydig cell 產生 testosterone；Sertoli cell 支持 spermatogenesis 並分泌 inhibin B。",
+      "key_point": "睪固酮由萊氏細胞分泌，受 LH 刺激。",
+      "flashcard_front": "睪丸中哪種細胞製造睪固酮？",
+      "flashcard_back": "萊氏細胞；史托利細胞主要支持生精。",
+      "flashcard_summary": "Leydig cell -> testosterone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n乳腺導管靠近乳頭末端傳統解剖描述可見膨大區，稱輸乳竇；本題官方答案選 A。其他選項混淆了乳腺來源、上皮與肌上皮細胞。\n\n【選項詳解】\n- A. 正確。輸乳管接近末端可描述為膨大的輸乳竇，是乳腺導管系統的傳統組織學重點。\n- B. 錯誤。輸乳竇與導管上皮會隨位置改變，近乳頭可轉為複層鱗狀上皮；單純說是複層柱狀上皮不恰當。\n- C. 錯誤。乳腺是特化的汗腺，常歸為改良的皮膚腺體，不是特化皮脂腺。\n- D. 錯誤。乳腺腺泡與小導管周圍有肌上皮細胞，可協助乳汁排出。\n\n【核心考點】\n乳腺是特化汗腺，含腺上皮與肌上皮細胞；輸乳管末端傳統上可描述為輸乳竇。",
+      "key_point": "輸乳管近末端的膨大區稱輸乳竇；乳腺有肌上皮細胞且屬特化汗腺。",
+      "flashcard_front": "乳腺輸乳管近末端膨大區稱什麼？",
+      "flashcard_back": "輸乳竇；乳腺周圍也有肌上皮細胞協助排乳。",
+      "flashcard_summary": "mammary gland -> lactiferous sinus near duct end",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n靜止膜電位對鉀離子通透性最敏感，因為靜止時膜對 K+ 的通透性遠高於 Na+。細胞外 K+ 增加會減少 K+ 外流驅動力，使膜電位去極化；同樣增加 2 mM 時，K+ 的影響也比 Na+ 大，所以答案為 D。\n\n【選項詳解】\n- A. 錯誤。Na+ 濃度小幅增加對靜止膜電位影響較小；細胞外 K+ 增加造成的是去極化，不是過極化。\n- B. 錯誤。選項對 K+ 造成去極化的方向正確，但錯在說 Na+ 增加造成更大的膜電位變化。\n- C. 錯誤。Na+ 影響較小這點正確，但細胞外 K+ 增加不會造成過極化，而是去極化。\n- D. 正確。靜止膜電位主要接近 K+ 平衡電位；提高細胞外 K+ 會讓 K+ 平衡電位變得較不負，膜電位跟著去極化。\n\n【核心考點】\n靜止膜電位主要受 K+ 梯度與 K+ leak permeability 影響；細胞外 K+ 上升會去極化，且影響大於同幅度 Na+ 上升。",
+      "key_point": "細胞外 K+ 上升會使靜止膜電位去極化，影響通常大於 Na+ 小幅上升。",
+      "flashcard_front": "提高細胞外 K+ 對靜止膜電位的影響？",
+      "flashcard_back": "造成去極化；靜止膜電位對 K+ 最敏感。",
+      "flashcard_summary": "RMP -> K+ dominated; extracellular K+ increase depolarizes",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n快速動眼睡眠雖是睡眠期，但腦波呈低振幅、快頻率，與清醒時相似，因此有 paradoxical sleep 之稱。答案為 A。\n\n【選項詳解】\n- A. 正確。REM 睡眠的 EEG 類似清醒狀態，伴隨快速眼動、肌張力下降與夢境較鮮明。\n- B. 錯誤。N1 是淺睡期，可有 theta 波與入睡過渡現象，和 REM 有些低振幅特徵但不是最相似答案。\n- C. 錯誤。N2 以 sleep spindle 與 K complex 為特色，和 REM 的清醒樣 EEG 不同。\n- D. 錯誤。N3 是慢波睡眠，以高振幅 delta 波為主，和 REM 最不相似。\n\n【核心考點】\nREM 睡眠腦波像清醒、肌肉張力低；N3 則是慢波 delta sleep。",
+      "key_point": "REM 睡眠腦波低振幅快頻率，最像清醒期。",
+      "flashcard_front": "REM 睡眠腦波最像哪個狀態？",
+      "flashcard_back": "清醒期；因此又稱 paradoxical sleep。",
+      "flashcard_summary": "REM EEG -> awake-like",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 A 是最不適當敘述。騎腳踏車屬程序性、技能性記憶，通常歸為內隱記憶，不是外顯記憶。\n\n【選項詳解】\n- A. 錯誤敘述。騎腳踏車是 procedural memory，屬內隱記憶，主要與基底核、小腦與動作學習相關，不是可陳述的外顯記憶。\n- B. 正確敘述。神經可塑性是神經組織因活動、經驗或損傷而改變連結與功能的能力。\n- C. 正確敘述。長期增益是突觸傳遞效率長期增加的現象，常被用來解釋學習與記憶形成的細胞機制。\n- D. 正確敘述。海馬與邊緣系統相關結構受損會影響新記憶形成，造成順行性失憶。\n\n【核心考點】\n外顯記憶是可陳述的事實與事件；騎腳踏車這類技能是內隱/程序性記憶。",
+      "key_point": "騎腳踏車屬內隱的程序性記憶，不是外顯記憶。",
+      "flashcard_front": "騎腳踏車屬於 explicit 還是 implicit memory？",
+      "flashcard_back": "implicit/procedural memory。",
+      "flashcard_summary": "bike riding -> implicit procedural memory",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n猝睡症最典型和下視丘 orexin/hypocretin 神經元缺失或 orexin 訊號不足有關，導致睡眠與清醒狀態切換不穩定。因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。乙醯膽鹼參與 REM 睡眠與覺醒調控，但其缺失不是猝睡症最典型病因。\n- B. 錯誤。正腎上腺素是清醒與注意力系統的重要傳遞物質，但猝睡症關鍵仍是 orexin/hypocretin 訊號。\n- C. 錯誤。神經胜肽 Y 與食慾、壓力與代謝調控較相關，不是猝睡症最典型分子。\n- D. 正確。orexin 又稱 hypocretin，來自外側下視丘神經元；缺乏會造成白天嗜睡、猝倒與 REM 相關現象不穩定。\n\n【核心考點】\nnarcolepsy 的高頻考點是 orexin/hypocretin 缺乏，特別和猝倒型猝睡症相關。",
+      "key_point": "猝睡症最典型和 orexin/hypocretin 訊號缺乏有關。",
+      "flashcard_front": "narcolepsy 最典型缺乏哪種神經胜肽？",
+      "flashcard_back": "orexin/hypocretin。",
+      "flashcard_summary": "narcolepsy -> orexin/hypocretin deficiency",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

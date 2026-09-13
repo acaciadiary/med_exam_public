@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\nionophore 是能促進離子跨膜移動的分子，常讓離子順電化學梯度移動而破壞梯度；有些 ionophores 是抗生素。它不會提高細胞膜主動運輸功能，因此答案為 D。\n\n【選項詳解】\n- A. 正確敘述。ionophores 可作為離子載體或通道樣分子，改變離子穿膜擴散。\n- B. 正確敘述。某些 ionophores 具有抗生素作用，透過破壞細菌離子梯度影響存活。\n- C. 正確敘述。ionophores 使離子較容易跨膜流動，會耗散膜電位或離子濃度差。\n- D. 錯誤敘述。主動運輸需要能量與特定 pump；ionophore 通常是讓離子被動跨膜，反而破壞主動運輸建立的梯度。\n\n【核心考點】\nionophore 促進被動離子通透並耗散 electrochemical gradient，不是增強 active transport。",
+      "key_point": "ionophores 會破壞離子電化學梯度，不會提高主動運輸功能。",
+      "flashcard_front": "ionophore 對電化學梯度的作用？",
+      "flashcard_back": "促進離子被動跨膜，破壞或耗散梯度。",
+      "flashcard_summary": "ionophores -> passive ion movement, gradient collapse",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\nserine dehydratase 會把 serine 脫水、脫胺，直接產生 pyruvate 與 NH4+。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。serine hydroxymethyltransferase 將 serine 轉為 glycine，並把一碳單位轉給 tetrahydrofolate 形成 N5,N10-methylene-THF。\n- B. 錯誤。glycine cleavage enzyme 分解 glycine，產生 CO2、NH3 與一碳單位，不是直接產生 pyruvate。\n- C. 正確。serine dehydratase 使 serine 直接轉成 pyruvate，是 glucogenic amino acid 代謝的重要反應。\n- D. 錯誤。aspartate aminotransferase 將 aspartate 與 alpha-ketoglutarate 轉為 oxaloacetate 與 glutamate，不是 pyruvate。\n\n【核心考點】\nserine 可經 serine dehydratase 直接變成 pyruvate；aspartate 轉 oxaloacetate，glycine 走一碳代謝。",
+      "key_point": "serine dehydratase 催化 serine 直接生成 pyruvate。",
+      "flashcard_front": "哪個酵素可讓 serine 直接產生 pyruvate？",
+      "flashcard_back": "serine dehydratase。",
+      "flashcard_summary": "serine metabolism -> serine dehydratase produces pyruvate",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n人體細胞合成 proline 的主要前驅物是 glutamate；glutamate 先轉成 glutamate semialdehyde / pyrroline-5-carboxylate，再還原成 proline。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。phenylalanine 主要可轉成 tyrosine，並進一步代謝成 fumarate 與 acetoacetate，不是 proline 主要前驅物。\n- B. 錯誤。tryptophan 可參與 niacin、serotonin、melatonin 等路徑，也可分解成 alanine、acetoacetyl-CoA 相關產物，不是 proline 來源。\n- C. 正確。glutamate 是 proline 合成的主要前驅物，也和 ornithine、arginine 代謝有交會。\n- D. 錯誤。tyrosine 由 phenylalanine 來，主要進入 catecholamine、thyroid hormone、melanin 或分解代謝路徑，不是 proline 前驅物。\n\n【核心考點】\nproline、ornithine、arginine 等可和 glutamate family amino acids 代謝連結；proline 主要來自 glutamate。",
+      "key_point": "proline 主要由 glutamate 合成。",
+      "flashcard_front": "脯胺酸 proline 的主要胺基酸前驅物？",
+      "flashcard_back": "麩胺酸 glutamate。",
+      "flashcard_summary": "proline synthesis -> glutamate precursor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n呼吸鏈 complex III 被完全阻斷時，電子無法由 coenzyme Q 往 cytochrome c 傳遞。阻斷點上游的 NADH 與 coenzyme Q 會偏還原態，下游 cytochrome c 與 complex IV 成分則偏氧化態，因此答案為 A。\n\n【選項詳解】\n- A. 正確。NADH 與 coenzyme Q 位在 complex III 上游，電子堆積使兩者主要維持還原態。\n- B. 錯誤。coenzyme Q 會還原，但 cytochrome c 位在 complex III 下游，收不到電子而偏氧化態。\n- C. 錯誤。cytochrome c 是下游成分偏氧化；cytochrome b 雖屬 complex III 內部，但兩者皆還原的組合不如上游 NADH/Q 的判斷清楚。\n- D. 錯誤。cytochrome a 屬 complex IV 下游，complex III 被阻斷後多偏氧化態，不會與 cytochrome b 共同作為最典型皆還原組合。\n\n【核心考點】\n電子傳遞鏈抑制題：抑制點上游偏還原，下游偏氧化；complex III block 使 NADH 與 CoQ 還原。",
+      "key_point": "complex III 被阻斷時，上游 NADH 與 coenzyme Q 偏還原態。",
+      "flashcard_front": "complex III inhibition 後，上游還原態堆積是哪兩個典型分子？",
+      "flashcard_back": "NADH 與 coenzyme Q。",
+      "flashcard_summary": "ETC complex III block -> reduced NADH and CoQ upstream",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n前列腺素屬 eicosanoids，原料 arachidonic acid 主要儲存在細胞膜磷脂的 sn-2 位置。受到刺激時，phospholipase A2 釋放 arachidonic acid，再進入 COX 路徑合成 prostaglandins。因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。細胞不是主要臨時靠長鏈脂肪酸新生來供應前列腺素原料；重點是膜磷脂釋放既有 arachidonic acid。\n- B. 錯誤。前列腺素通常由需要反應的組織細胞本身釋放膜磷脂中的 arachidonic acid，不是主要仰賴周圍脂肪細胞供應。\n- C. 錯誤。脂肪顆粒主要儲存中性脂肪如 triglycerides，不是前列腺素合成最主要的 arachidonic acid 來源。\n- D. 正確。細胞膜磷脂經 phospholipase A2 作用釋放 arachidonic acid，是 prostaglandin 合成的上游關鍵步驟。\n\n【核心考點】\nprostaglandin synthesis：membrane phospholipid --PLA2--> arachidonic acid --COX--> prostaglandins。",
+      "key_point": "前列腺素原料 arachidonic acid 主要由細胞膜磷脂經 PLA2 釋放。",
+      "flashcard_front": "前列腺素合成的 arachidonic acid 主要來源？",
+      "flashcard_back": "細胞膜磷脂經 phospholipase A2 釋放。",
+      "flashcard_summary": "prostaglandin precursor -> arachidonic acid from membrane phospholipids",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n這是否定題，標準答案 A 是錯誤描述。β-adrenergic receptor 去敏感化時，Gβγ 可招引 βARK/GRK，但受體被磷酸化的位置主要在細胞內的 C 端尾部或細胞內環上的 serine/threonine，不是胺基端。\n\n【選項詳解】\n- A. 錯誤敘述。βARK 確實可被 Gβγ 招引至膜附近，但 GPCR 的調節性磷酸化發生在細胞內區域；胺基端通常在細胞外側，不是 β-arrestin 辨識的主要磷酸化部位。\n- B. 正確敘述。β-arrestin 會結合磷酸化的受體細胞內區域，阻斷進一步 G protein coupling，並促進 clathrin-mediated endocytosis。\n- C. 正確敘述。受體內吞到胞內囊泡後，β-arrestin 可與受體分離，受體可走向回收或降解路徑。\n- D. 正確敘述。受體在胞內被去磷酸化後可回收到細胞膜，使受體重新敏感化。\n\n【核心考點】\nGPCR 去敏感化：GRK 磷酸化細胞內尾端/環，β-arrestin 結合，內吞後去磷酸化可回收。",
+      "key_point": "βARK/GRK 磷酸化 GPCR 的細胞內區域，不是胺基端。",
+      "flashcard_front": "β-adrenergic receptor 去敏感化時，GRK 磷酸化受體哪一側？",
+      "flashcard_back": "細胞內 C 端尾部或細胞內環的 serine/threonine。",
+      "flashcard_summary": "beta receptor desensitization -> GRK phosphorylation intracellular, beta-arrestin endocytosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n題目問何者無助於 G1 進入 S 期。p53 活化 p21 會抑制 CDK2/cyclin E，使細胞週期停在 G1 以修復 DNA，因此是阻止而非促進 G1/S 的作用，答案為 A。\n\n【選項詳解】\n- A. 正確。p53-p21 路徑是 DNA damage checkpoint；p21 抑制 CDK，會阻擋 G1/S transition。\n- B. 錯誤。p21 從 CDK2/cyclin E 複合體脫離會解除抑制，有助 CDK2/cyclin E 活化並推進 S 期。\n- C. 錯誤。活化 CDK2/cyclin E 磷酸化 pRb，使 E2F 從 pRb 抑制中釋放，是進入 S 期的關鍵。\n- D. 錯誤。活化的 E2F 促進 DNA synthesis genes 轉錄，有助細胞進入 S 期。\n\n【核心考點】\nG1/S 推進靠 cyclin E-CDK2 phosphorylates Rb -> E2F activation；p53-p21 是煞車。",
+      "key_point": "p53 活化 p21 會抑制 CDK2/cyclin E，阻止 G1 進入 S 期。",
+      "flashcard_front": "p53-p21 對 G1/S transition 是促進還是抑制？",
+      "flashcard_back": "抑制；p21 抑制 CDK2/cyclin E。",
+      "flashcard_summary": "G1/S checkpoint -> p53-p21 blocks CDK2/cyclin E",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\nDNA polymerase 合成 DNA 時，dNTP 的 alpha phosphate 會被保留在新形成的 DNA 磷酸二酯骨架中，beta 與 gamma phosphate 以 pyrophosphate 離開。因此要標記 DNA 探針需用 alpha-32P-dATP，答案為 A。\n\n【選項詳解】\n- A. 正確。alpha-32P-dATP 的放射性磷會被整合進 DNA backbone，適合製作放射性 DNA probe。\n- B. 錯誤。beta phosphate 在聚合反應中不會保留在 DNA 鏈內，會隨 pyrophosphate 離開。\n- C. 錯誤。gamma phosphate 也不會進入 DNA 骨架，標記後不會留在合成的探針中。\n- D. 錯誤。ATP 是核糖核苷三磷酸；DNA polymerase 合成 DNA 探針需 dATP 等 deoxyribonucleotides。\n\n【核心考點】\n核酸聚合時保留的是 incoming nucleotide 的 alpha phosphate；放射性 DNA 標記用 alpha-32P-dNTP。",
+      "key_point": "DNA 放射性標記要用 alpha-32P-dATP，因 alpha phosphate 會進入 DNA 骨架。",
+      "flashcard_front": "用 DNA polymerase 做 32P DNA probe，標記 dATP 哪個磷酸？",
+      "flashcard_back": "alpha phosphate。",
+      "flashcard_summary": "radiolabeled DNA probe -> alpha-32P-dATP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n要直接看特定基因位於染色體上的位置，可使用帶螢光標記的探針和染色體互補序列雜交，這就是 FISH。因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。RFLP 用限制酶切割與片段長度差異偵測多型性，不能直接在染色體上定位基因。\n- B. 正確。FISH 可用螢光探針在細胞或染色體標本上顯示特定 DNA 序列的位置。\n- C. 錯誤。RT-PCR 先將 RNA 反轉錄成 cDNA，再放大特定序列，主要用於偵測基因表現或 RNA 病毒，不顯示染色體位置。\n- D. 錯誤。DNA microarray 可同時檢測大量序列或表現量變化，但不是直接定位特定基因在染色體上的顯微技術。\n\n【核心考點】\n基因染色體定位看 FISH；基因表現常看 RT-PCR 或 microarray；多型性可用 RFLP。",
+      "key_point": "FISH 可用螢光探針偵測特定基因在染色體上的位置。",
+      "flashcard_front": "偵測特定基因在染色體上的位置用哪個技術？",
+      "flashcard_back": "FISH，螢光原位雜交。",
+      "flashcard_summary": "gene chromosomal location -> FISH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\nPCR 合成 DNA 需要 DNA template、兩條 primers、耐熱 DNA polymerase、Mg2+ buffer 與 dNTPs。題目選項 A 說的是 NTP/ribonucleotides，不是 PCR 合成 DNA 的原料，因此答案為 A。\n\n【選項詳解】\n- A. 正確。PCR 不需要 ATP、GTP、CTP、TTP 這類核糖核苷三磷酸組合；需要的是 deoxyribonucleotides，也就是 dATP、dGTP、dCTP、dTTP。\n- B. 錯誤。DNA 模板是 PCR 放大目標序列的來源，必須加入。\n- C. 錯誤。PCR 反覆高溫變性，需要 thermostable DNA polymerase，如 Taq polymerase。\n- D. 錯誤。PCR 需要一對寡核苷酸引子，分別界定目標片段兩端並提供 3'-OH 給 DNA polymerase 延伸。\n\n【核心考點】\nPCR 原料是 template、two primers、thermostable DNA polymerase、dNTPs；不是 RNA 用的 NTPs。",
+      "key_point": "PCR 需要 dNTPs，不需要 NTPs。",
+      "flashcard_front": "PCR 需要 dNTPs 還是 NTPs？",
+      "flashcard_back": "dNTPs；因為 PCR 合成 DNA。",
+      "flashcard_summary": "PCR components -> DNA template, primers, thermostable polymerase, dNTPs",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

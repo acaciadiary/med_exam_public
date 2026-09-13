@@ -87,26 +87,26 @@ def parse_answer_tokens(body: str) -> list[str]:
 
 def parse_correction_notes(raw_answer_text: str) -> dict[int, dict[str, Any]]:
     text = prepare_text(raw_answer_text)
+    compact_text = re.sub(r"\s+", "", text)
     notes: dict[int, dict[str, Any]] = {}
 
-    for match in MULTI_CREDIT_NOTE_RE.finditer(text):
+    for match in MULTI_CREDIT_NOTE_RE.finditer(compact_text):
         accepted = unique_answers(ANSWER_TOKEN_RE.findall(match.group("body")))
         if accepted:
-            note_text = re.sub(r"\s+", "", match.group(0))
             notes[int(match.group("num"))] = {
                 "accepted_answers": accepted,
                 "status": "multiple_correct",
-                "note": note_text,
+                "note": match.group(0),
             }
 
-    for match in ALL_CREDIT_NOTE_RE.finditer(text):
+    for match in ALL_CREDIT_NOTE_RE.finditer(compact_text):
         notes[int(match.group("num"))] = {
             "accepted_answers": ["A", "B", "C", "D"],
             "status": "all_credit",
             "note": match.group(0),
         }
 
-    for match in ANY_MARKED_CREDIT_NOTE_RE.finditer(text):
+    for match in ANY_MARKED_CREDIT_NOTE_RE.finditer(compact_text):
         notes[int(match.group("num"))] = {
             "accepted_answers": ["A", "B", "C", "D"],
             "status": "all_credit",

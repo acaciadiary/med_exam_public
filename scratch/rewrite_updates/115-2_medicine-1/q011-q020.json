@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-1.json",
+  "dataset_id": "115-2_medicine-1",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-1_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n右眼無法內收代表右側內直肌功能受損。內直肌由動眼神經支配，所以最可能是右側動眼神經病變，答案為 B。\n\n【選項詳解】\n- A. 錯誤。視神經負責視覺傳入，受損會造成視力或視野問題，不會單獨造成眼球內收障礙。\n- B. 正確。動眼神經支配內直肌、上直肌、下直肌、下斜肌與提上眼瞼肌；內直肌受損會使患眼無法內收。\n- C. 錯誤。滑車神經支配上斜肌，主要負責眼球內轉與內收位時向下看，病變常見垂直複視，不是內收喪失。\n- D. 錯誤。外旋神經支配外直肌，病變會造成外展障礙與內斜視，與題目右眼不能內收相反。\n\n【核心考點】\n內直肌由 CN III 支配，外直肌由 CN VI 支配，上斜肌由 CN IV 支配；眼球內收障礙先想動眼神經或內直肌。",
+      "key_point": "眼球內收主要靠內直肌，支配神經是動眼神經。",
+      "flashcard_front": "眼球無法內收最直接想到哪條腦神經受損？",
+      "flashcard_back": "動眼神經；它支配內直肌，使眼球內收。",
+      "flashcard_summary": "adduction of eye -> medial rectus -> CN III",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n錐狀感光細胞負責高解析度與色覺，密度最高的位置是視網膜中央小凹。中央小凹幾乎只有錐狀細胞，適合精細視覺，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。脈絡膜是富血管層，供應外層視網膜營養，本身不是感光細胞最密集的位置。\n- B. 正確。中央小凹位於黃斑中央，錐狀細胞密度最高，負責最清晰的中央視力與色覺。\n- C. 錯誤。視盤是視神經纖維離開眼球的位置，沒有感光細胞，因此形成生理盲點。\n- D. 錯誤。睫狀突與房水分泌、懸韌帶附著相關，不是視網膜感光細胞所在處。\n\n【核心考點】\n中央小凹是 cone density 最高的位置；視盤沒有 rods 或 cones，是盲點。",
+      "key_point": "中央小凹含最高密度錐狀細胞，負責精細中央視覺。",
+      "flashcard_front": "錐狀感光細胞最多的位置？",
+      "flashcard_back": "中央小凹；視盤則沒有感光細胞。",
+      "flashcard_summary": "cones -> central fovea highest density",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n頸後三角內可見頸神經叢的皮神經分支從胸鎖乳突肌後緣穿出，例如小枕、耳大、頸橫與鎖骨上神經。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。顏面動脈由頸外動脈發出的位置在頸前三角內，靠近下頷下腺區域，不是頸後三角的典型觀察內容。\n- B. 錯誤。迷走神經位於頸動脈鞘內，位置較深，與頸總動脈和內頸靜脈伴行，不會在頸後三角表淺皮下直接看到。\n- C. 正確。頸神經叢皮支會在胸鎖乳突肌後緣附近穿出並進入頸後三角，是此區的重要內容。\n- D. 錯誤。肩胛舌骨肌下腹會跨過頸後三角；上腹主要位於頸前三角附近，因此選項寫上腹不恰當。\n\n【核心考點】\n頸後三角的重要表淺神經是頸神經叢皮支；肩胛舌骨肌要分清上腹與下腹。",
+      "key_point": "頸神經叢皮支在胸鎖乳突肌後緣穿出，位於頸後三角相關區域。",
+      "flashcard_front": "頸後三角可見哪些頸神經叢分支？",
+      "flashcard_back": "小枕、耳大、頸橫、鎖骨上神經等皮支。",
+      "flashcard_summary": "posterior triangle -> cutaneous branches of cervical plexus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n耳下腺位於外耳前下方，血液供應和外頸動脈在腺體內分支及附近分支關係密切。上頷動脈、耳後動脈、面橫動脈較相關；枕動脈走向後頭部，與耳下腺供血最不相關，所以答案為 B。\n\n【選項詳解】\n- A. 錯誤。上頷動脈是外頸動脈的終末分支之一，外頸動脈在耳下腺內分支，因此和耳下腺區血供有關。\n- B. 正確。枕動脈主要供應後頭皮與頸後部，走行方向偏後方，與耳下腺本身供血關聯最弱。\n- C. 錯誤。耳後動脈靠近耳後與耳下腺後上方，可供應耳廓與鄰近腺體區域。\n- D. 錯誤。面橫動脈通常來自淺顳動脈，走在顴弓附近橫過臉部，與耳下腺表面與附近組織供血相關。\n\n【核心考點】\n耳下腺和外頸動脈終末分支、淺顳動脈系統及耳後動脈關係密切；枕動脈偏後頭部。",
+      "key_point": "耳下腺供血較相關於外頸動脈及其終末/鄰近分支，枕動脈最不相關。",
+      "flashcard_front": "耳下腺血供最不相關的選項常是哪條偏後頭部的動脈？",
+      "flashcard_back": "枕動脈；它主要供應後頭皮與頸後區。",
+      "flashcard_summary": "parotid blood supply -> ECA branches; occipital least related",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n三叉神經第三分支 V3 帶有運動纖維，支配第一咽弓來源的咀嚼肌。顳肌是咀嚼肌之一，因此答案為 A。\n\n【選項詳解】\n- A. 正確。顳肌由 V3 的深顳神經支配，作用是上提下頷，後部纖維也可協助下頷後縮。\n- B. 錯誤。頰肌屬臉部表情肌，由顏面神經支配；雖位於臉頰，並不是咀嚼肌。\n- C. 錯誤。莖突舌骨肌由顏面神經支配，和二腹肌後腹同屬第二咽弓相關肌肉。\n- D. 錯誤。二腹肌後腹由顏面神經支配；二腹肌前腹才由 V3 的下頷舌骨神經支配。\n\n【核心考點】\nV3 支配咀嚼肌、下頷舌骨肌、二腹肌前腹、腭帆張肌與鼓膜張肌；顏面神經支配表情肌、莖突舌骨肌與二腹肌後腹。",
+      "key_point": "顳肌是咀嚼肌，由三叉神經第三分支 V3 支配。",
+      "flashcard_front": "顳肌由哪條腦神經分支支配？",
+      "flashcard_back": "三叉神經第三分支 V3；它支配咀嚼肌。",
+      "flashcard_summary": "temporalis -> muscle of mastication -> CN V3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n鼻腔內有嗅神經與三叉神經 V1、V2 的感覺分支。V3 主要分布於下頷、舌前二分之一一般感覺、下牙與咀嚼肌等區域，不是鼻腔內的典型神經，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。第一對腦神經的嗅絲穿過篩板，分布於鼻腔上部嗅黏膜，明確出現在鼻腔內。\n- B. 錯誤。V1 的前、後篩神經分支可供應鼻腔前上部黏膜。\n- C. 錯誤。V2 經翼腭神經節相關分支供應鼻腔後下部與鼻中隔，例如鼻腭神經與後鼻支。\n- D. 正確。V3 是下頷神經，主要供應下臉、下牙、舌前一般感覺及咀嚼肌，不是鼻腔黏膜的主要分布神經。\n\n【核心考點】\n鼻腔感覺來源主要是 CN I 嗅覺、V1 前上部、V2 後下部；V3 不屬於鼻腔內典型神經。",
+      "key_point": "鼻腔有 CN I、V1、V2 分支；V3 不在鼻腔內典型分布。",
+      "flashcard_front": "鼻腔感覺常見來自 V1/V2，哪個三叉分支通常不在鼻腔內？",
+      "flashcard_back": "V3；它主要供應下頷區、下牙、舌前一般感覺與咀嚼肌。",
+      "flashcard_summary": "nasal cavity nerves -> CN I, V1, V2; not V3",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n橫膈三大開口要記住位置與通過構造：T8 caval opening 位於中心腱，讓下腔靜脈通過。因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。主動脈經 T12 的主動脈裂孔通過，位置在膈腳後方，不是中心腱。\n- B. 錯誤。食道經 T10 食道裂孔通過，位於右膈腳肌性部分，並非中心腱。\n- C. 正確。下腔靜脈穿過 T8 的腔靜脈孔，該孔位於橫膈中心腱內。\n- D. 錯誤。胸管通常和主動脈一起經主動脈裂孔進入胸腔，不穿過中心腱。\n\n【核心考點】\nI 8, 10 Eggs, A 12：IVC T8 且在中心腱，esophagus T10，aorta T12。",
+      "key_point": "下腔靜脈穿過橫膈中心腱的 T8 腔靜脈孔。",
+      "flashcard_front": "哪個構造穿過橫膈中心腱？",
+      "flashcard_back": "下腔靜脈；通過 T8 caval opening。",
+      "flashcard_summary": "central tendon of diaphragm -> IVC at T8",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n上縱隔位於胸骨角平面以上，包含胸腺、上腔靜脈、主動脈弓及其分支、氣管、食道與胸管等。肺動脈幹位於心包內，屬中縱隔內容，所以答案為 B。\n\n【選項詳解】\n- A. 錯誤。胸腺位於前上縱隔，兒童較明顯，成人可退化為脂肪組織，但仍屬上縱隔相關內容。\n- B. 正確。肺動脈幹從右心室出來，位於心包內的中縱隔，不是上縱隔的典型構造。\n- C. 錯誤。上腔靜脈上段與左右頭臂靜脈位於上縱隔，下段進入心包附近。\n- D. 錯誤。胸管從後縱隔上行後進入上縱隔，再走向左靜脈角，因此會出現在上縱隔。\n\n【核心考點】\n肺動脈幹屬心包內中縱隔；上縱隔常見胸腺、大血管上段、氣管、食道、胸管與神經。",
+      "key_point": "肺動脈幹位於心包內的中縱隔，通常不屬上縱隔內容。",
+      "flashcard_front": "上縱隔通常不包含哪個心包內大血管？",
+      "flashcard_back": "肺動脈幹；它屬中縱隔。",
+      "flashcard_summary": "superior mediastinum excludes pulmonary trunk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n心瓣膜聽診位置不是瓣膜的解剖投影，而是血流聲音傳導最清楚的位置。肺動脈瓣最佳聽診點在左第 2 肋間、胸骨旁，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。右第 2 肋間胸骨旁是主動脈瓣聽診區，不是肺動脈瓣。\n- B. 正確。左第 2 肋間胸骨旁是肺動脈瓣聽診區，對應肺動脈瓣血流向左上方傳導。\n- C. 錯誤。右第 5 肋間靠胸骨處不是肺動脈瓣標準聽診點；三尖瓣多在左下胸骨旁聽。\n- D. 錯誤。左第 5 肋間靠外側接近鎖骨中線才是二尖瓣心尖區；靠胸骨處也不屬肺動脈瓣最佳點。\n\n【核心考點】\n瓣膜聽診：主動脈右 2 ICS、肺動脈左 2 ICS、三尖左下胸骨旁、二尖心尖區。",
+      "key_point": "肺動脈瓣聽診點在左第 2 肋間胸骨旁。",
+      "flashcard_front": "肺動脈瓣最佳聽診位置？",
+      "flashcard_back": "左前胸壁第二肋間靠近胸骨處。",
+      "flashcard_summary": "pulmonary valve auscultation -> left 2nd intercostal space",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-1_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n胸管由腹部乳糜池進入胸腔後，在後縱隔上行，早期常位於主動脈與奇靜脈之間，之後偏左上行。官方答案選 D，重點是後縱隔中胸管和奇靜脈、半奇靜脈交會區的鄰近關係。\n\n【選項詳解】\n- A. 錯誤。胸管在後縱隔通常不描述為位在主動脈前方；它常在主動脈與奇靜脈之間、食道後方附近上行。\n- B. 錯誤。胸管通常經主動脈裂孔與主動脈一起由腹腔進入胸腔，不是經食道裂孔。\n- C. 錯誤。胸管到上縱隔與頸根部時會弓向左靜脈角，和左鎖骨下動脈起始處的前方關係不是最典型描述。\n- D. 正確。後縱隔中胸管和奇靜脈、半奇靜脈及食道相鄰；在半奇靜脈匯入奇靜脈附近，胸管可位於其前方，是四個選項中最恰當者。\n\n【核心考點】\n胸管經主動脈裂孔進入胸腔，在後縱隔上行，與主動脈、奇靜脈、食道的相對位置是常考重點。",
+      "key_point": "胸管經主動脈裂孔入胸，在後縱隔與主動脈、奇靜脈、半奇靜脈關係密切。",
+      "flashcard_front": "胸管通常經哪個橫膈裂孔進入胸腔？",
+      "flashcard_back": "主動脈裂孔；之後在後縱隔上行並逐漸偏左。",
+      "flashcard_summary": "thoracic duct -> aortic hiatus, posterior mediastinum",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T00:41:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
