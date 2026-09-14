@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 91,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n本題是否定問法，考第一型自體免疫胰臟炎。Type 1 AIP 屬 IgG4-related disease，病理有淋巴漿細胞浸潤、纖維化與閉塞性靜脈炎；CFTR 或 PRSS1 突變較和遺傳性/慢性胰臟炎相關。\n\n【選項詳解】\n- A. 錯誤。CFTR、PRSS1 突變不是 type 1 autoimmune pancreatitis 的典型特徵。\n- B. 正確。IgG4 相關 AIP 常見許多 plasma cells 浸潤與 storiform fibrosis。\n- C. 正確。Obliterative phlebitis 是 IgG4-related disease 的重要病理線索之一。\n- D. 正確。Type 1 AIP 是 IgG4-related disease 在胰臟的表現，可合併其他器官 IgG4 病變。\n\n【核心考點】\nType 1 autoimmune pancreatitis = IgG4-related disease、lymphoplasmacytic infiltrate、fibrosis、obliterative phlebitis。",
+      "key_point": "Type 1 AIP 與 IgG4-related disease 相關，不是 CFTR/PRSS1 突變疾病。",
+      "flashcard_front": "Type 1 autoimmune pancreatitis",
+      "flashcard_back": "IgG4-related disease，常見 plasma cell infiltration、fibrosis、obliterative phlebitis。",
+      "flashcard_summary": "AIP type 1 -> IgG4-related disease, not CFTR/PRSS1 mutation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n多瘤病毒在腎臟常指 BK virus，尤其在腎移植或免疫低下者造成腎病變。它主要感染腎小管上皮細胞，造成核內包涵體。\n\n【選項詳解】\n- A. 正確。BK polyomavirus 常感染 tubular epithelial cells，可見病毒性核內包涵體與腎小管傷害。\n- B. 錯誤。Podocytes 與足突融合、蛋白尿疾病較相關，不是 BK virus 最常感染產生 inclusion 的細胞。\n- C. 錯誤。Monocytes 可參與免疫反應，但不是腎臟內典型包涵體細胞。\n- D. 錯誤。Mesangial cells 位於腎絲球，與 IgA nephropathy、MPGN 等較相關，不是 polyomavirus nephropathy 主要靶細胞。\n\n【核心考點】\nBK virus nephropathy：免疫低下/腎移植、腎小管上皮細胞、核內包涵體。",
+      "key_point": "BK polyomavirus 最常感染腎小管上皮細胞並產生核內包涵體。",
+      "flashcard_front": "Polyomavirus 腎臟靶細胞",
+      "flashcard_back": "BK virus nephropathy 主要侵犯 tubular epithelial cells，可見 intranuclear inclusions。",
+      "flashcard_summary": "BK polyomavirus -> tubular epithelial intranuclear inclusions",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n膀胱扁平原位癌是高級別、平坦病灶，常走 TP53/RB 失活路徑。這和低級別乳突狀尿路上皮腫瘤常見 FGFR3/RAS 路徑不同。\n\n【選項詳解】\n- A. 錯誤。TSC1/TSC2 與 mTOR 路徑、結節性硬化症相關，不是膀胱 CIS 最常見突變組合。\n- B. 錯誤。RAS/FGFR3 常見於低級別乳突狀尿路上皮腫瘤，不是 flat CIS 的代表。\n- C. 錯誤。EWS-FLI1 是 Ewing sarcoma 的典型融合，不是膀胱 CIS。\n- D. 正確。TP53 與 RB 路徑異常是高級別 flat carcinoma in situ 的典型分子改變。\n\n【核心考點】\n膀胱腫瘤兩路徑：低級別乳突狀常 FGFR3/RAS；高級別 CIS/invasive 常 TP53/RB。",
+      "key_point": "膀胱扁平原位癌常見 TP53 與 RB 異常。",
+      "flashcard_front": "膀胱 CIS 突變",
+      "flashcard_back": "Flat carcinoma in situ 是高級別路徑，常見 TP53/RB；低級別 papillary 才常 FGFR3/RAS。",
+      "flashcard_summary": "Bladder CIS -> TP53 and RB mutations",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n原發性膜性腎病變是成人 nephrotic syndrome 常見原因，許多病人有 anti-PLA2R antibody。病理為上皮下免疫沉積造成 GBM 增厚，EM 可見 subepithelial deposits。\n\n【選項詳解】\n- A. 正確。原發性 membranous nephropathy 多數可偵測 anti-phospholipase A2 receptor 抗體。\n- B. 錯誤。次發性膜性腎病變可由感染、腫瘤、藥物、自體免疫等誘發，但不是大多數有 anti-basement membrane 抗體；anti-GBM 是另一類疾病。\n- C. 錯誤。銳角狀分叉或 tram-track 加上 mesangial proliferation 較像 membranoproliferative GN，不是典型膜性腎病變。\n- D. 錯誤。膜性腎病變沉積物主要在 subepithelial，不是 mesangial 下方。\n\n【核心考點】\nPrimary membranous nephropathy：anti-PLA2R、subepithelial immune deposits、spike and dome、nephrotic syndrome。",
+      "key_point": "原發性膜性腎病變多數與 anti-PLA2R antibody 相關。",
+      "flashcard_front": "Primary membranous nephropathy",
+      "flashcard_back": "Anti-PLA2R、subepithelial deposits、GBM thickening/spike and dome。",
+      "flashcard_summary": "Membranous nephropathy -> anti-PLA2R and subepithelial deposits",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_095",
+      "question_number": 95,
+      "explanation": "【題幹解析】\n隱睪症是睪丸生殖細胞腫瘤風險因子，即使是單側隱睪，雙側睪丸風險都會上升。其他選項混淆成人與兒童睪丸腫瘤的常見型態與前驅病灶。\n\n【選項詳解】\n- A. 正確。單側隱睪症不只提高患側，也會提高對側睪丸生殖細胞腫瘤風險，反映整體發育異常背景。\n- B. 錯誤。大於 60 歲男性最常見睪丸腫瘤通常要想到淋巴瘤；spermatocytic tumor 好發較老年但不是此敘述的最佳總括。\n- C. 錯誤。兒童 teratoma 常為良性且通常不伴 germ cell neoplasia in situ；青春期後成人型較不同。\n- D. 錯誤。兒童最常見睪丸生殖細胞腫瘤是 yolk sac tumor，不是 teratoma。\n\n【核心考點】\nCryptorchidism 增加雙側睪丸生殖細胞腫瘤風險；兒童常見 yolk sac tumor，老人睪丸腫瘤常考 lymphoma。",
+      "key_point": "單側隱睪會增加雙側睪丸生殖細胞腫瘤風險。",
+      "flashcard_front": "隱睪症與睪丸腫瘤",
+      "flashcard_back": "Cryptorchidism increases germ cell tumor risk in both testes, even when unilateral。",
+      "flashcard_summary": "Testicular tumors -> unilateral cryptorchidism raises bilateral risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題是否定問法，考無排卵週期。無排卵常見於初經後、停經前或內分泌/卵巢疾病；停經後已無週期性排卵與月經，因此不能說無排卵週期最常在停經後看到。\n\n【選項詳解】\n- A. 錯誤。無排卵週期常見於青春期初經後與更年期前後的內分泌不穩定，不是 postmenopausal 最常看到。\n- B. 正確。甲狀腺疾病、高泌乳素血症、腦垂腺病變等都可能干擾排卵。\n- C. 正確。多囊性卵巢症候群等卵巢病灶可造成 chronic anovulation。\n- D. 正確。排卵失敗缺乏黃體素拮抗，子宮內膜受 unopposed estrogen 刺激，可能造成增生與異常出血。\n\n【核心考點】\n無排卵週期導致 unopposed estrogen，增加子宮內膜增生與異常出血風險；不是停經後最常見。",
+      "key_point": "無排卵週期常見於初經後或停經前，不是停經後最常見。",
+      "flashcard_front": "Anovulatory cycle",
+      "flashcard_back": "排卵失敗造成 unopposed estrogen，可致子宮內膜增生與異常出血。",
+      "flashcard_summary": "Anovulation -> unopposed estrogen, not postmenopausal cycles",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n完全性葡萄胎最常見是空卵被一個精子受精後父源染色體複製，形成 46,XX androgenetic karyotype。較少見可由兩個精子受精形成 46,XY。\n\n【選項詳解】\n- A. 正確。46,XX 是 complete mole 最常見核型，且染色體幾乎完全為父源。\n- B. 錯誤。46,XY 也可見於 complete mole，但通常不是最常見。\n- C. 錯誤。69,XXY 是 partial mole 常見三倍體核型之一，不是 complete mole 最常見。\n- D. 錯誤。92,XXXY 為四倍體型態，不是完全性葡萄胎典型最常見核型。\n\n【核心考點】\nComplete mole：46,XX 最常見、父源染色體、無胎兒組織；partial mole：常三倍體 69,XXY。",
+      "key_point": "完全性葡萄胎最常見核型是父源性 46,XX。",
+      "flashcard_front": "Complete mole karyotype",
+      "flashcard_back": "Complete mole 最常見 46,XX androgenetic；partial mole 常為 69,XXY。",
+      "flashcard_summary": "Hydatidiform mole -> complete mole is usually 46,XX androgenetic",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按皮膚病理概念，以 IgA 沿表皮與真皮交界或真皮乳突沉積為主要診斷特徵，D 的 dermatitis herpetiformis 是最典型配對。\n\n【選項詳解】\n- A. 給分上被接受；概念上 pemphigus 多為 IgG 針對 desmoglein，呈表皮內棘融解與細胞間網狀免疫螢光，不是 IgA 沿 DEJ 的典型。\n- B. 給分上被接受；概念上 bullous pemphigoid 以 IgG/C3 線狀沉積於 basement membrane zone 為主，不是 IgA。\n- C. 給分上被接受；概念上 epidermolysis bullosa 多為遺傳性皮膚黏著結構缺陷，診斷重點不是 IgA 免疫沉積。\n- D. 給分上被接受，且概念上 dermatitis herpetiformis 是 IgA 顆粒狀沉積於真皮乳突/DEJ 的代表，和題幹描述相符。\n\n【核心考點】\n水泡病免疫螢光要分清：pemphigus 是 IgG intercellular，bullous pemphigoid 是 IgG/C3 linear BMZ，dermatitis herpetiformis 是 granular IgA。",
+      "key_point": "官方更正一律給分；概念上 IgA 沿 DEJ/真皮乳突沉積最典型是 dermatitis herpetiformis。",
+      "flashcard_front": "IgA 水泡病免疫螢光",
+      "flashcard_back": "Dermatitis herpetiformis 顆粒狀 IgA 沉積於真皮乳突/DEJ；pemphigus 是 IgG 細胞間。",
+      "flashcard_summary": "All-credit item -> IgA at dermal papillae suggests dermatitis herpetiformis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 dermatitis herpetiformis 以 IgA 沉積於真皮乳突/DEJ 為特徵，D 選項符合。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n本題是否定問法，考 prion disease 的 Kuru plaques。Kuru plaques 是 prion protein amyloid plaques，可見於小腦等處，與 CJD 等 prion disease 相關；不是 Aβ 沉積。\n\n【選項詳解】\n- A. 錯誤。Aβ 沉積是 Alzheimer disease 老年斑的主要成分；Kuru plaques 的核心是異常 prion protein。\n- B. 正確。CJD 屬 prion disease，可見海綿狀變化，部分型態可有 amyloid plaques。\n- C. 正確。Prion amyloid plaques 可對 Congo red 呈陽性，符合 amyloid 性質。\n- D. 正確。Kuru plaques 較常在小腦發現，和共濟失調等表現相連。\n\n【核心考點】\nKuru plaques = prion protein amyloid，不是 Alzheimer 的 Aβ plaque。",
+      "key_point": "Kuru plaques 主要是 prion protein 沉積，不是 Aβ。",
+      "flashcard_front": "Kuru plaque 成分",
+      "flashcard_back": "Kuru plaques 是 prion protein amyloid；Aβ 是 Alzheimer disease plaque。",
+      "flashcard_summary": "Prion disease -> Kuru plaques are PrP amyloid, not Aβ",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n本題是否定問法，考腦膜瘤。腦膜瘤多為良性、成人較常見，並與第 22 對染色體/NF2 異常相關；許多腦膜瘤表現 progesterone receptor，懷孕時可能變大較快，不是較慢。\n\n【選項詳解】\n- A. 正確。多數 meningioma 是 WHO grade 1 良性腫瘤，雖仍可因位置造成壓迫症狀。\n- B. 正確。腦膜瘤較常見於成人，兒童較少見。\n- C. 錯誤。孕期受荷爾蒙與血流影響，腦膜瘤可加速生長或症狀惡化；說 progesterone 使生長較慢不適當。\n- D. 正確。第 22 對染色體缺失與 NF2 基因異常是腦膜瘤的重要分子線索。\n\n【核心考點】\nMeningioma：良性多、成人女性較常見、psammoma bodies、第 22 對染色體/NF2、孕期可能變大。",
+      "key_point": "腦膜瘤可能在懷孕時因荷爾蒙影響而增大，不是生長較慢。",
+      "flashcard_front": "Meningioma 懷孕影響",
+      "flashcard_back": "Meningioma 常有 progesterone receptor；孕期可能加速生長，並與 chromosome 22/NF2 相關。",
+      "flashcard_summary": "Meningioma -> pregnancy may accelerate growth, chromosome 22/NF2 involved",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

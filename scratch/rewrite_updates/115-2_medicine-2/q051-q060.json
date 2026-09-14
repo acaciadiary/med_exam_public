@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題是否定問法，考嬰兒與成人藥物動力學。嬰兒體水分比例較高、肝腎功能較未成熟；脂肪比例與脂溶性藥物分布不能說比成人高，尤其新生兒脂肪組織較少。\n\n【選項詳解】\n- A. 正確。嬰兒總體水分比例較高，水溶性藥物分布容積可能較大。\n- B. 錯誤。脂溶性藥物分布於脂肪組織的程度不會因嬰兒而較成人高；嬰兒特別是新生兒脂肪比例較低，這句最不適當。\n- C. 正確。嬰兒肝臟代謝酵素尚未成熟，藥物代謝能力通常較成人低。\n- D. 正確。嬰兒腎絲球過濾與腎小管功能未成熟，腎排除能力較低，需調整劑量。\n\n【核心考點】\n嬰兒藥動學：水多、脂肪與蛋白結合不同、肝代謝與腎排除未成熟。",
+      "key_point": "嬰兒體水分比例高，肝腎清除較低；脂溶性藥物脂肪分布不比成人高。",
+      "flashcard_front": "嬰兒藥物動力學",
+      "flashcard_back": "嬰兒總體水分較高，肝腎功能未成熟；脂肪組織分布不可說較成人高。",
+      "flashcard_summary": "Infant pharmacokinetics -> higher water, immature liver/kidney, lower fat distribution",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\nSulfonylureas 作用在胰臟 beta 細胞 ATP-sensitive potassium channel 的 SUR1 次單元，關閉鉀離子通道，使細胞去極化、鈣離子進入並促進胰島素釋放。\n\n【選項詳解】\n- A. 正確。作用標的是 ATP-sensitive K+ channel；藥物關閉通道後刺激 insulin secretion。\n- B. 錯誤。鈣離子通道是去極化後打開的下游步驟，不是 sulfonylureas 直接結合的主要標的。\n- C. 錯誤。GLUT2 是 beta 細胞葡萄糖感知與攝入相關運輸蛋白，不是 sulfonylureas 的作用標的。\n- D. 錯誤。SGLT2 是腎臟近端小管葡萄糖再吸收運輸蛋白，SGLT2 inhibitors 才作用於此。\n\n【核心考點】\nSulfonylureas 關閉 beta 細胞 ATP-sensitive K+ channel，促進胰島素分泌。",
+      "key_point": "Sulfonylureas 的標的是胰臟 beta 細胞 ATP-sensitive potassium channel。",
+      "flashcard_front": "Sulfonylurea 機轉",
+      "flashcard_back": "關閉 beta 細胞 KATP channel，去極化後開啟 Ca channel，促進 insulin release。",
+      "flashcard_summary": "Sulfonylureas -> close KATP channel to release insulin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n本題是否定問法，考 pilocarpine。Pilocarpine 是 muscarinic agonist，可縮瞳、收縮睫狀肌、增加唾液分泌；膀胱過動症通常用抗 muscarinic 藥減少逼尿肌收縮，不會用口服 pilocarpine 治療。\n\n【選項詳解】\n- A. 正確。Pilocarpine 促進副交感作用，口服可造成腹瀉、流汗、流涎等 muscarinic 副作用。\n- B. 正確。刺激睫狀肌收縮可幫助房水經小樑網排出，曾用於青光眼治療。\n- C. 正確。它可增加唾液與淚液分泌，用於 Sjögren syndrome 的口乾症狀。\n- D. 錯誤。膀胱過動症應降低 M3 介導的逼尿肌過度收縮，常用 antimuscarinic 或 beta-3 agonist；pilocarpine 可能加重尿急。\n\n【核心考點】\nPilocarpine 是 muscarinic agonist，用於青光眼與口乾；膀胱過動症不是它的適應症。",
+      "key_point": "Pilocarpine 是 muscarinic agonist，不用來治療膀胱過動症。",
+      "flashcard_front": "Pilocarpine 適應症",
+      "flashcard_back": "可治青光眼與 Sjögren 口乾；膀胱過動症通常用 antimuscarinic 或 beta-3 agonist。",
+      "flashcard_summary": "Pilocarpine -> muscarinic agonist for glaucoma/xerostomia, not overactive bladder",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n本題是否定問法，考骨骼肌鬆弛劑機轉。Tizanidine 是中樞 alpha-2 adrenergic receptor agonist，可降低脊髓運動神經元興奮；把它說成拮抗 alpha-2 受體是錯的。\n\n【選項詳解】\n- A. 正確。Diazepam 是 benzodiazepine，增強 GABAA receptor 作用，具中樞肌肉鬆弛效果。\n- B. 正確。Baclofen 是 GABAB receptor agonist，常用於 spasticity。\n- C. 錯誤。Tizanidine 是 alpha-2 agonist，不是 antagonist；它藉抑制興奮性神經傳遞降低肌張力。\n- D. 正確。Dantrolene 作用在骨骼肌 ryanodine receptor，減少肌漿網釋放鈣離子。\n\n【核心考點】\n肌鬆藥機轉配對：diazepam-GABAA，baclofen-GABAB，tizanidine-alpha2 agonist，dantrolene-ryanodine receptor。",
+      "key_point": "Tizanidine 是中樞 alpha-2 agonist，不是 alpha-2 antagonist。",
+      "flashcard_front": "肌肉鬆弛劑機轉",
+      "flashcard_back": "Tizanidine = alpha-2 agonist；baclofen = GABAB agonist；dantrolene = RyR inhibition。",
+      "flashcard_summary": "Muscle relaxants -> tizanidine is alpha-2 agonist",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按藥理概念，aminopenicillin 被 beta-lactamase 分解時，應搭配 beta-lactamase inhibitor；選項中 clavulanic acid 才符合這個功能。\n\n【選項詳解】\n- A. 給分上被接受；概念上 amoxicillin 和 ampicillin 同屬 aminopenicillin，兩者併用不能解決 beta-lactamase 抗藥性。\n- B. 給分上被接受；概念上 penicillin G 也會被許多 staphylococcal beta-lactamase 分解，不能保護 ampicillin。\n- C. 給分上被接受；概念上 cephalexin 是第一代 cephalosporin，不是 beta-lactamase inhibitor，也不是和 ampicillin 併用的保護藥。\n- D. 給分上被接受，且概念上 clavulanic acid 是 beta-lactamase inhibitor，可保護 aminopenicillin 免被水解；臨床常見組合是 amoxicillin-clavulanate，ampicillin 則常見 sulbactam。\n\n【核心考點】\n遇到 beta-lactamase 抗藥性，要想到 beta-lactamase inhibitor；clavulanic acid、sulbactam、tazobactam 是代表。",
+      "key_point": "官方更正一律給分；概念上 beta-lactamase 抗藥性需搭配 beta-lactamase inhibitor。",
+      "flashcard_front": "Aminopenicillin + beta-lactamase inhibitor",
+      "flashcard_back": "Clavulanic acid 是 beta-lactamase inhibitor；amoxicillin/ampicillin 彼此併用無法克服 beta-lactamase。",
+      "flashcard_summary": "All-credit item -> beta-lactamase inhibitor protects aminopenicillins",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 beta-lactamase inhibitor clavulanic acid 才能保護 aminopenicillin。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題是否定問法，考第二、三期乳癌輔助治療。芳香環酶抑制劑 letrozole、anastrozole 用於 hormone receptor-positive 乳癌；若癌組織缺乏 ER/PR，抑制雌激素生成通常沒有輔助治療意義。\n\n【選項詳解】\n- A. 正確。停經後 ER-positive 乳癌可使用 tamoxifen 後接續 aromatase inhibitor，是常見內分泌治療策略。\n- B. 正確。CMF，也就是 cyclophosphamide、methotrexate、fluorouracil，是傳統乳癌輔助化療組合之一。\n- C. 正確。HER2 過度表現時，trastuzumab 可加入 anthracycline/taxane 等輔助治療架構以改善預後，但需注意心毒性。\n- D. 錯誤。Letrozole 與 anastrozole 適合 ER/PR 陽性、依賴雌激素訊號的腫瘤；缺乏 ER/PR 表現時不是有效的內分泌輔助治療。\n\n【核心考點】\n乳癌內分泌治療看 hormone receptor；HER2 陽性看 trastuzumab 等抗 HER2 治療。",
+      "key_point": "Aromatase inhibitors 用於 hormone receptor-positive 乳癌，不用於 ER/PR 陰性腫瘤。",
+      "flashcard_front": "乳癌 aromatase inhibitor 適應症",
+      "flashcard_back": "Letrozole/anastrozole 適合停經後 ER/PR 陽性乳癌；ER/PR 陰性不適合內分泌輔助治療。",
+      "flashcard_summary": "Breast cancer endocrine therapy -> aromatase inhibitors require hormone receptors",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n本題是否定問法，考抗瘧藥。Mefloquine 和 quinine 都可能造成心臟傳導、神經精神與其他毒性，已投與 mefloquine 時不應再併用 quinine 來「加強」療效。\n\n【選項詳解】\n- A. 正確。Chloroquine 可能加重乾癬或引發皮膚問題，乾癬患者使用需避免或謹慎。\n- B. 正確。含鈣、鎂制酸劑可影響某些藥物吸收；chloroquine 與制酸劑同服可能降低吸收，通常要錯開。\n- C. 正確。在部分 chloroquine-resistant P. falciparum 地區，mefloquine 可作為治療或預防選項之一，依地區抗藥性而定。\n- D. 錯誤。Mefloquine 後併用 quinine 會增加毒性風險，特別是心律與神經不良反應，不是加強療效的常規策略。\n\n【核心考點】\n抗瘧藥要注意地區抗藥性與藥物毒性；mefloquine 與 quinine 類藥物不應任意併用。",
+      "key_point": "Mefloquine 治療後不應併用 quinine 來加強療效，會增加毒性。",
+      "flashcard_front": "Mefloquine 與 quinine",
+      "flashcard_back": "兩者併用可能增加心臟與神經毒性，不是治療 P. falciparum 的加強策略。",
+      "flashcard_summary": "Antimalarial safety -> avoid mefloquine plus quinine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n本題是否定問法，考 vincristine 副作用。Vincristine 主要造成周邊與自主神經毒性，因此常見便秘、腸麻痺、姿勢性低血壓，也可有 SIADH；腹瀉不是典型副作用。\n\n【選項詳解】\n- A. 正確。自主神經病變可造成姿勢性低血壓。\n- B. 錯誤。Vincristine 的腸胃自主神經毒性典型是便秘或麻痺性腸阻塞，不是腹瀉。\n- C. 正確。周邊神經毒性是 vincristine 的經典限制毒性，可有感覺異常、無力等。\n- D. 正確。Vincristine 可引起 SIADH，造成低血鈉。\n\n【核心考點】\nVincristine = neurotoxicity；記便秘/ileus、周邊神經病變、SIADH，而非腹瀉。",
+      "key_point": "Vincristine 典型副作用是神經毒性與便秘，不是腹瀉。",
+      "flashcard_front": "Vincristine 副作用",
+      "flashcard_back": "常見周邊神經毒性、自主神經毒性、便秘/ileus、SIADH；腹瀉不典型。",
+      "flashcard_summary": "Vincristine toxicity -> neuropathy, constipation, SIADH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nP2Y12 receptor 是血小板 ADP 受體，拮抗後可抑制 ADP 促進的血小板活化與凝集。Ticagrelor 是直接、可逆的 P2Y12 antagonist。\n\n【選項詳解】\n- A. 錯誤。Abciximab 是 GP IIb/IIIa receptor inhibitor，阻斷 fibrinogen 橋接血小板，不是 P2Y12。\n- B. 錯誤。Alteplase 是 tPA 類血栓溶解劑，活化 plasminogen 分解纖維蛋白，不是抗血小板 ADP 受體藥。\n- C. 錯誤。Dipyridamole 抑制 PDE 並增加 adenosine，提升血小板 cAMP，不是 P2Y12 antagonist。\n- D. 正確。Ticagrelor 阻斷 ADP P2Y12 receptor，常用於急性冠心症或支架後抗血小板治療。\n\n【核心考點】\nP2Y12 抑制劑包括 clopidogrel、prasugrel、ticagrelor；abciximab 則是 GP IIb/IIIa 抑制劑。",
+      "key_point": "Ticagrelor 是 ADP P2Y12 receptor antagonist，可抑制血小板凝集。",
+      "flashcard_front": "P2Y12 antagonist",
+      "flashcard_back": "Ticagrelor 直接可逆抑制 P2Y12；clopidogrel/prasugrel 也屬 P2Y12 抑制劑。",
+      "flashcard_summary": "Antiplatelet drugs -> ticagrelor blocks P2Y12",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nAndexanet alfa 是重組 modified factor Xa decoy，用於反轉 apixaban、rivaroxaban 等 factor Xa inhibitor 的抗凝作用。四個選項中 apixaban 最直接符合。\n\n【選項詳解】\n- A. 正確。Apixaban 是直接 factor Xa inhibitor，嚴重或無法控制出血時可考慮 andexanet alfa 作為反轉藥。\n- B. 錯誤。Dabigatran 是直接 thrombin inhibitor，專一反轉藥是 idarucizumab。\n- C. 錯誤。Heparin 的反轉藥是 protamine sulfate，不是 andexanet alfa。\n- D. 錯誤。Warfarin 抑制 vitamin K-dependent factors，反轉常用 vitamin K 與 PCC/FFP，非 andexanet alfa。\n\n【核心考點】\n反轉藥配對：apixaban/rivaroxaban-andexanet alfa，dabigatran-idarucizumab，heparin-protamine，warfarin-vitamin K/PCC。",
+      "key_point": "Andexanet alfa 用於反轉 factor Xa inhibitors，例如 apixaban。",
+      "flashcard_front": "Andexanet alfa 反轉藥",
+      "flashcard_back": "Andexanet alfa 反轉 apixaban/rivaroxaban；dabigatran 用 idarucizumab。",
+      "flashcard_summary": "Anticoagulant reversal -> andexanet alfa for apixaban/rivaroxaban",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

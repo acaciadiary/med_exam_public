@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n題目關鍵是 sphingosine 1-phosphate receptor 調節，使淋巴球留在淋巴結、減少進入中樞神經。這正是 fingolimod 治療多發性硬化症的機轉。\n\n【選項詳解】\n- A. 錯誤。Interferon beta 可調節免疫與降低 MS relapse，但不是 S1P receptor modulator。\n- B. 錯誤。Glatiramer acetate 模擬 myelin basic protein，偏向誘導免疫偏移與調節 T 細胞反應。\n- C. 錯誤。Natalizumab 是抗 alpha-4 integrin 單株抗體，阻止白血球穿越血腦障壁，不是 S1P 受體藥。\n- D. 正確。Fingolimod 是 S1P receptor modulator，讓淋巴球滯留淋巴結，降低 CNS 發炎細胞浸潤。\n\n【核心考點】\nMS 藥物機轉：fingolimod-S1P，natalizumab-alpha4 integrin，interferon beta-免疫調節。",
+      "key_point": "Fingolimod 是 S1P receptor modulator，可阻止淋巴球離開淋巴結。",
+      "flashcard_front": "MS 藥物 S1P receptor",
+      "flashcard_back": "Fingolimod 調節 S1P receptor，使淋巴球滯留淋巴結，降低進入 CNS。",
+      "flashcard_summary": "Multiple sclerosis -> fingolimod modulates S1P receptor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nAromatase inhibitor 抑制周邊組織把 androgen 轉成 estrogen，常用於停經後 hormone receptor-positive 乳癌。Letrozole 是典型第三代 aromatase inhibitor。\n\n【選項詳解】\n- A. 正確。Letrozole 抑制 aromatase，降低雌激素生成，用於 ER-positive 乳癌內分泌治療。\n- B. 錯誤。Fulvestrant 是 selective estrogen receptor degrader，作用在 ER，不是 aromatase。\n- C. 錯誤。Toremifene 是 SERM，拮抗或調節 estrogen receptor，不抑制 estrogen 合成。\n- D. 錯誤。Clomiphene 是 SERM，常用於誘發排卵，機轉不是 aromatase inhibition。\n\n【核心考點】\nAromatase inhibitors 包括 anastrozole、letrozole、exemestane；SERMs 與 SERDs 作用點在 estrogen receptor。",
+      "key_point": "Letrozole 是 aromatase inhibitor，可降低雌激素生成。",
+      "flashcard_front": "Aromatase inhibitor 藥物",
+      "flashcard_back": "Letrozole/anastrozole/exemestane 抑制 aromatase；fulvestrant 是 SERD。",
+      "flashcard_summary": "Breast cancer endocrine drugs -> letrozole inhibits aromatase",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n甲狀腺風暴是嚴重甲狀腺毒症，治療要阻斷交感症狀、抑制新荷爾蒙合成、抑制釋放與周邊 T4 轉 T3。Levothyroxine 是補充 T4，會加重甲狀腺毒症，不適合。\n\n【選項詳解】\n- A. 正確。Propranolol 可控制心搏過速、顫抖等交感症狀，高劑量也可減少 T4 轉 T3。\n- B. 正確。Propylthiouracil 抑制 thyroid peroxidase，並可抑制周邊 T4 轉 T3，是甲狀腺風暴常用藥。\n- C. 錯誤。Levothyroxine 是甲狀腺素補充，會增加甲狀腺素負荷，不能治療 thyroid storm。\n- D. 正確。Potassium iodide 在 thionamide 後使用可抑制甲狀腺素釋放，即 Wolff-Chaikoff effect。\n\n【核心考點】\n甲狀腺風暴治療順序常記 beta-blocker、PTU/methimazole、iodide、glucocorticoid；不要給 T4。",
+      "key_point": "Levothyroxine 會補充 T4，不適合治療甲狀腺風暴。",
+      "flashcard_front": "Thyroid storm 禁用藥",
+      "flashcard_back": "Thyroid storm 要抑制甲狀腺素作用與生成；levothyroxine 會加重病情。",
+      "flashcard_summary": "Thyroid storm -> treat with blocker/thionamide/iodide, not levothyroxine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題是否定問法，考 chlorothiazide。Thiazide diuretics 主要作用在遠端彎曲小管，抑制 Na+/Cl- cotransporter；不是近端腎小管。\n\n【選項詳解】\n- A. 錯誤。Chlorothiazide 的主要作用部位是遠端彎曲小管早段，不是近端腎小管。\n- B. 正確。Thiazides 抑制 Na+/Cl- cotransporter，增加鈉氯排泄。\n- C. 正確。Thiazides 會增加遠端小管鈣再吸收，因此可降低尿鈣。\n- D. 正確。Chlorothiazide 具有弱碳酸酐酶抑制作用，但臨床主要機轉仍是 NCC 抑制。\n\n【核心考點】\nThiazide = distal convoluted tubule NCC inhibition，並增加鈣再吸收；loop diuretic 則在 thick ascending limb。",
+      "key_point": "Chlorothiazide 主要作用於遠端彎曲小管的 Na+/Cl- cotransporter。",
+      "flashcard_front": "Chlorothiazide 作用部位",
+      "flashcard_back": "Thiazide 作用在 DCT，抑制 Na+/Cl- cotransporter，增加 Ca 再吸收。",
+      "flashcard_summary": "Thiazide diuretics -> DCT NaCl cotransporter inhibition",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\nACE inhibitor 抑制 angiotensin-converting enzyme，減少 angiotensin II 生成並降低 aldosterone。Enalapril 是 ACE inhibitor 的代表。\n\n【選項詳解】\n- A. 錯誤。Candesartan 是 angiotensin II receptor blocker，阻斷 AT1 receptor，不抑制 ACE。\n- B. 正確。Enalapril 是 ACE inhibitor，可降低 angiotensin II，治療高血壓與心衰竭等。\n- C. 錯誤。Hydralazine 是直接小動脈血管擴張劑，機轉不是 ACE inhibition。\n- D. 錯誤。Minoxidil 開啟 K+ channel 造成血管平滑肌舒張，也不是 ACE inhibitor。\n\n【核心考點】\n常見 ACE inhibitors 字尾是 -pril；ARBs 多為 -sartan。",
+      "key_point": "Enalapril 是 ACE inhibitor；candesartan 是 ARB。",
+      "flashcard_front": "ACE inhibitor 藥名",
+      "flashcard_back": "Enalapril 抑制 ACE；-pril 是 ACE inhibitor，-sartan 是 ARB。",
+      "flashcard_summary": "Antihypertensives -> enalapril inhibits ACE",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題是否定問法，考 digitalis 毒性。Digoxin 抑制 Na+/K+ ATPase，使細胞內鈣增加；毒性心律不整典型與 delayed afterdepolarizations 有關，不是 early afterdepolarizations。\n\n【選項詳解】\n- A. 正確。Digitalis 毒性可有噁心、嘔吐、腹瀉、視覺異常與多種心律不整。\n- B. 錯誤。Digitalis 造成鈣負荷增加，典型引發 delayed afterdepolarizations；early afterdepolarizations 較常與 QT 延長相關。\n- C. 正確。Digoxin 治療指數小，血中濃度、腎功能與交互作用都需注意。\n- D. 正確。Loop diuretics 可造成低血鉀，低血鉀會增加 digoxin 結合與心臟毒性風險。\n\n【核心考點】\nDigoxin toxicity = narrow therapeutic index、GI/visual symptoms、arrhythmia、DAD；低血鉀會加重毒性。",
+      "key_point": "Digitalis 毒性心律不整典型與 delayed afterdepolarizations 相關。",
+      "flashcard_front": "Digitalis 毒性去極化",
+      "flashcard_back": "Digoxin 增加細胞內 Ca，容易造成 DAD；EAD 多和 QT prolongation 相關。",
+      "flashcard_summary": "Digitalis toxicity -> delayed afterdepolarizations and hypokalemia risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n支氣管平滑肌舒張最直接來自 beta-2 adrenergic receptor 活化，透過 Gs 增加 cAMP，使平滑肌放鬆。臨床吸入型 beta-2 agonist 是氣喘與 COPD 支氣管擴張常用藥。\n\n【選項詳解】\n- A. 錯誤。Alpha-1 receptor 活化主要使血管平滑肌收縮，不是支氣管擴張的主要受體。\n- B. 正確。Beta-2 receptor 活化會增加 cAMP，鬆弛支氣管平滑肌，是最有效的支氣管擴張受體選項。\n- C. 錯誤。M3 muscarinic receptor 活化會造成支氣管收縮與分泌增加；臨床支氣管擴張是用 muscarinic antagonist。\n- D. 錯誤。5-HT3 receptor 與噁心嘔吐反射相關，拮抗劑如 ondansetron 用於止吐，不是支氣管擴張主軸。\n\n【核心考點】\n支氣管擴張記 beta-2 agonist 與 muscarinic antagonist；M3 活化會收縮，M3 阻斷才擴張。",
+      "key_point": "活化 beta-2 adrenergic receptor 可最有效促進支氣管擴張。",
+      "flashcard_front": "支氣管擴張受體",
+      "flashcard_back": "Beta-2 receptor 活化增加 cAMP，鬆弛支氣管平滑肌。",
+      "flashcard_summary": "Bronchodilation -> beta-2 receptor activation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按藥理概念，enprofylline 是 xanthine/methylxanthine 類支氣管擴張藥，特色是相較 theophylline 幾乎不拮抗 adenosine receptor；tiotropium 則是抗 muscarinic 藥。\n\n【選項詳解】\n- A. 給分上被接受；概念上 tiotropium 是長效 muscarinic antagonist，主要阻斷 M3 receptor，不屬 methylxanthines。\n- B. 給分上被接受，且概念上 enprofylline 是 xanthine 類支氣管擴張藥，幾乎沒有 theophylline 式 adenosine receptor antagonism。\n- C. 給分上被接受；概念上 theophylline 是 methylxanthine，但它會拮抗 adenosine receptor，不符合「不會拮抗 adenosine」。\n- D. 給分上被接受；概念上 cromolyn 是 mast cell stabilizer，用於預防過敏性氣喘反應，不是 methylxanthine。\n\n【核心考點】\nMethylxanthine 類常見 theophylline；enprofylline 特別在於支氣管擴張但 adenosine antagonism 很弱。",
+      "key_point": "官方更正一律給分；概念上 enprofylline 是不具明顯 adenosine antagonism 的 xanthine 類。",
+      "flashcard_front": "Enprofylline 機轉特色",
+      "flashcard_back": "Enprofylline 屬 xanthine 類支氣管擴張藥，幾乎不拮抗 adenosine；tiotropium 是 LAMA。",
+      "flashcard_summary": "All-credit item -> enprofylline relaxes airway without strong adenosine antagonism",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 enprofylline 為不具明顯 adenosine antagonism 的 xanthine 類。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n大腸鏡檢查前常用 polyethylene glycol 作為滲透性瀉劑清腸，並可搭配刺激性瀉劑 bisacodyl 增強腸蠕動與排空。\n\n【選項詳解】\n- A. 正確。Bisacodyl 是 stimulant laxative，常和 PEG 清腸方案搭配使用。\n- B. 錯誤。Erythromycin 是 macrolide 抗生素，也可促進胃排空，但不是大腸鏡 PEG 清腸最常搭配藥。\n- C. 錯誤。Lubiprostone 是 chloride channel activator，用於慢性便秘或 IBS-C，不是檢查前標準搭配。\n- D. 錯誤。Octreotide 是 somatostatin analog，可抑制多種分泌，並非清理大腸藥。\n\n【核心考點】\n大腸鏡清腸常見 PEG 加 stimulant laxative；bisacodyl 可促進腸蠕動。",
+      "key_point": "Bisacodyl 可與 PEG 搭配作大腸鏡前清腸。",
+      "flashcard_front": "大腸鏡 PEG 搭配",
+      "flashcard_back": "PEG 常搭配 bisacodyl 這類刺激性瀉劑促進清腸。",
+      "flashcard_summary": "Bowel prep -> PEG plus bisacodyl",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\nPegloticase 是重組 uricase，可把尿酸氧化成水溶性更高的 allantoin，用於難治性慢性痛風。人類缺乏功能性 uricase，因此這個機轉很有辨識度。\n\n【選項詳解】\n- A. 錯誤。Probenecid 是 uricosuric drug，抑制近端小管尿酸再吸收，增加尿酸排泄，但不把尿酸轉成 allantoin。\n- B. 正確。Pegloticase 具有 uricase 活性，可將 uric acid 轉為 allantoin 排出。\n- C. 錯誤。Sulfinpyrazone 也是促尿酸排泄藥，不是 uricase。\n- D. 錯誤。Febuxostat 抑制 xanthine oxidase，減少尿酸生成，不把已形成的尿酸轉為 allantoin。\n\n【核心考點】\n痛風藥分三類：減少生成 xanthine oxidase inhibitors、增加排泄 uricosurics、分解尿酸 pegloticase。",
+      "key_point": "Pegloticase 是 uricase，可將尿酸轉變成 allantoin。",
+      "flashcard_front": "Pegloticase 機轉",
+      "flashcard_back": "Pegloticase 分解 uric acid 成 allantoin，用於難治性痛風。",
+      "flashcard_summary": "Gout therapy -> pegloticase converts uric acid to allantoin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

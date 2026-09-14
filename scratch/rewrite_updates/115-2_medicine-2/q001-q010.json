@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題是肺結核潛伏感染多年後再活化。結核分枝桿菌主要靠 TH1 反應活化巨噬細胞形成肉芽腫，把菌侷限住但不一定完全清除；年老、糖尿病或免疫下降時，休眠菌可再活化造成上葉空洞病灶。\n\n【選項詳解】\n- A. 正確。乾酪性肉芽腫代表細胞免疫把結核菌包圍隔離，能讓初感染沒有明顯症狀，卻也讓部分菌在巨噬細胞內或壞死中心長期存活，日後再活化。\n- B. 錯誤。結核分枝桿菌不是靠快速抗原突變形成多年潛伏；這種說法較像高度變異病毒的免疫逃脫概念。\n- C. 錯誤。嗜中性球過度活化可造成急性發炎傷害，但肺結核潛伏與再活化的核心是巨噬細胞、TH1 與肉芽腫。\n- D. 錯誤。B 細胞抗原耐受不是結核菌潛伏的主要機制；抗體反應也不是控制結核菌的關鍵保護力。\n\n【核心考點】\n肺結核潛伏感染靠細胞免疫與乾酪性肉芽腫侷限病灶，但不等於滅菌；免疫力下降時可從潛伏狀態再活化。",
+      "key_point": "肺結核潛伏與再活化的核心是 TH1-巨噬細胞肉芽腫反應，能侷限但未必清除結核菌。",
+      "flashcard_front": "肺結核潛伏感染：免疫機制",
+      "flashcard_back": "TH1 活化巨噬細胞形成乾酪性肉芽腫，讓結核菌被侷限並可多年後再活化。",
+      "flashcard_summary": "TB latency -> caseating granuloma contains but may not eradicate bacilli",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題考立克次體的傳染窩。流行性斑疹傷寒的 Rickettsia prowazekii 以人類為主要 reservoir，經體蝨傳播；其他選項多有鼠類或其他動物宿主。\n\n【選項詳解】\n- A. 錯誤。Rickettsia akari 造成 rickettsialpox，主要和小鼠及蟎相關，不以人類作主要傳染窩。\n- B. 錯誤。Rickettsia rickettsii 造成落磯山斑疹熱，傳播與硬蜱及動物宿主相關，人類多是偶然宿主。\n- C. 正確。Rickettsia prowazekii 造成流行性斑疹傷寒，典型傳播是人-體蝨-人，因此人類是重要 reservoir。\n- D. 錯誤。Rickettsia typhi 造成鼠型斑疹傷寒，主要 reservoir 是鼠類，常由鼠蚤傳播。\n\n【核心考點】\n記立克次體 reservoir 可用疾病聯想：prowazekii 是 epidemic typhus，核心宿主是人；typhi 是 murine typhus，核心宿主是鼠。",
+      "key_point": "R. prowazekii 造成流行性斑疹傷寒，以人類為主要 reservoir，經體蝨傳播。",
+      "flashcard_front": "Rickettsia prowazekii reservoir",
+      "flashcard_back": "R. prowazekii 的主要傳染窩是人類，典型疾病是流行性斑疹傷寒。",
+      "flashcard_summary": "Rickettsia reservoir -> prowazekii human, typhi rat",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題是否定問法，要找細菌染色體敘述中最不適當者。細菌染色體多為單一環狀、位於類核區且無核膜，複製也採半保留方式；錯點在把細菌說成雙倍體。\n\n【選項詳解】\n- A. 正確。多數細菌染色體是環狀 DNA，雖有少數例外如 Borrelia 具線狀染色體。\n- B. 正確。典型細菌染色體常有一個複製起始點 oriC，從該處雙向複製。\n- C. 正確。細菌沒有核膜，染色體位於細胞質中的類核區。\n- D. 錯誤。大多數細菌是單套基因組狀態而非雙倍體；「半保留複製」本身正確，但「diploid」使整句不適當。\n\n【核心考點】\n細菌染色體常考三件事：環狀、無核膜、單套基因組；複製方式仍是 DNA 的半保留複製。",
+      "key_point": "細菌多為單套基因組，不是雙倍體；染色體常為環狀並由 oriC 起始複製。",
+      "flashcard_front": "細菌染色體特徵",
+      "flashcard_back": "多數細菌為單套、環狀染色體，無核膜，DNA 採半保留複製。",
+      "flashcard_summary": "Bacterial chromosome -> circular haploid nucleoid, semiconservative replication",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題是否定問法，考病毒致病機轉。病毒可直接造成細胞病變，也可透過宿主免疫反應造成症狀；登革出血熱尤其不能簡化成病毒蛋白直接破壞細胞。\n\n【選項詳解】\n- A. 正確。干擾素與多種細胞激素會造成發燒、肌痛、倦怠等類流感症狀。\n- B. 正確。大量病毒抗原與抗體形成免疫複合物時，可活化補體並造成第三型過敏反應。\n- C. 錯誤。伊波拉可有明顯細胞傷害與全身發炎，登革重症則與抗體依賴增強、細胞激素、補體與血管通透性上升有關，不能說兩者主要都由病毒蛋白直接 cytopathic damage 造成。\n- D. 正確。潛伏期時病毒已在體內複製，但病人尚未出現可辨識的疾病表現。\n\n【核心考點】\n病毒致病不只靠直接殺細胞；登革出血熱與免疫病理、血管滲漏及血小板變化密切相關。",
+      "key_point": "登革出血熱重點是免疫病理與血管通透性，不是單純病毒蛋白直接破壞細胞。",
+      "flashcard_front": "病毒出血熱致病機轉",
+      "flashcard_back": "伊波拉可有直接細胞傷害，登革重症常靠抗體依賴增強與免疫反應造成血管滲漏。",
+      "flashcard_summary": "Viral pathogenesis -> dengue hemorrhage is immunopathology, not only cytopathic damage",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n新型隱球菌是具厚多醣體莢膜的酵母菌，常在免疫低下者造成肺部感染或腦膜炎。莢膜可抗吞噬，是重要毒力因子與檢驗線索。\n\n【選項詳解】\n- A. 錯誤。Cryptococcus 是真菌，不用頭孢菌素治療；嚴重感染常用 amphotericin B 加 flucytosine，後續 fluconazole。\n- B. 錯誤。它典型侵犯肺與中樞神經系統，尤其造成隱球菌性腦膜炎，不是主要造成尿道感染。\n- C. 錯誤。感染多與吸入環境中的酵母或孢子有關，例如鳥糞污染環境，不是昆蟲媒介傳染。\n- D. 正確。多醣體莢膜是 Cryptococcus neoformans 的招牌特徵，可用 India ink 或莢膜抗原檢測輔助診斷。\n\n【核心考點】\nCryptococcus neoformans 要聯想到「厚多醣莢膜、免疫低下、肺部或腦膜炎」，治療不是抗細菌藥。",
+      "key_point": "Cryptococcus neoformans 的重要毒力因子是多醣體莢膜。",
+      "flashcard_front": "Cryptococcus neoformans 特色",
+      "flashcard_back": "具多醣體莢膜，常造成免疫低下者肺部感染與腦膜炎。",
+      "flashcard_summary": "Cryptococcus -> polysaccharide capsule, pulmonary/CNS disease",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n題目指定「細菌核糖體突變」，要找最不受這類突變影響的抗生素。A、B、C 都作用在細菌核糖體；levofloxacin 作用在 DNA gyrase/topoisomerase IV。\n\n【選項詳解】\n- A. 錯誤。Kanamycin 是 aminoglycoside，作用在 30S 核糖體，核糖體靶點改變可導致抗藥性。\n- B. 錯誤。Azithromycin 是 macrolide，作用在 50S 核糖體，23S rRNA 或核糖體相關改變會影響活性。\n- C. 錯誤。Minocycline 是 tetracycline 類，作用在 30S，核糖體保護蛋白或靶點變化可造成抗藥性。\n- D. 正確。Levofloxacin 是 fluoroquinolone，主要抑制 DNA gyrase 與 topoisomerase IV，抗藥性通常與 gyrA/parC 等基因突變或外排有關，和核糖體突變關係較小。\n\n【核心考點】\n看到核糖體突變，先排除作用在 30S/50S 的藥；fluoroquinolone 的關鍵靶點是 DNA 拓樸異構酶。",
+      "key_point": "Levofloxacin 作用在 DNA gyrase/topoisomerase IV，不是核糖體。",
+      "flashcard_front": "核糖體突變與抗生素抗藥性",
+      "flashcard_back": "Aminoglycoside、macrolide、tetracycline 作用核糖體；fluoroquinolone 作用 DNA gyrase/topoisomerase IV。",
+      "flashcard_summary": "Antibiotic target -> levofloxacin targets DNA topology enzymes, not ribosome",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n青黴素結合蛋白 PBP 是 beta-lactam 類抗生素抑制細胞壁交聯的靶點。PBP 過量或親和力下降會讓 beta-lactam 類失效，選項中最相關的是 cephalosporins。\n\n【選項詳解】\n- A. 正確。Cephalosporins 屬 beta-lactam，靠結合 PBP 抑制 peptidoglycan transpeptidation；PBP 改變會造成抗藥性。\n- B. 錯誤。Macrolides 作用於 50S 核糖體，常見抗藥性是 rRNA methylation、外排或酵素修飾，不是 PBP。\n- C. 錯誤。Sulfonamides 抑制葉酸合成，抗藥性常與 PABA 競爭或 dihydropteroate synthase 改變有關。\n- D. 錯誤。Aminoglycosides 作用在 30S 核糖體，與 PBP 的細胞壁交聯靶點不同。\n\n【核心考點】\nPBP 改變就是 beta-lactam 抗藥性的經典機制，涵蓋 penicillins、cephalosporins、carbapenems 等。",
+      "key_point": "PBP 變化會造成 beta-lactam 類抗生素抗藥性，cephalosporins 也在其中。",
+      "flashcard_front": "PBP 突變抗藥性",
+      "flashcard_back": "PBP 是 beta-lactam 靶點；PBP 親和力下降或改變會使 cephalosporins 等失效。",
+      "flashcard_summary": "PBP resistance -> beta-lactams including cephalosporins",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n破傷風毒素一旦進入神經末梢並結合，就很難被抗體移除。破傷風免疫球蛋白的主要作用是中和仍在血液或組織中、尚未與神經結合的游離毒素。\n\n【選項詳解】\n- A. 錯誤。破傷風毒素本身會抑制抑制性神經傳導物質釋放，免疫球蛋白不是用來刺激傳導物質釋放。\n- B. 正確。Tetanus immunoglobulin 提供被動免疫，能中和未結合的 tetanospasmin，降低更多毒素進入神經。\n- C. 錯誤。免疫球蛋白只能提供短期被動保護；長期免疫力要靠 tetanus toxoid 疫苗誘導主動免疫。\n- D. 錯誤。免疫球蛋白不殺菌；傷口清創與抗生素才是降低 Clostridium tetani 菌量的處置。\n\n【核心考點】\n破傷風治療要分清楚：TIG 中和游離毒素，疫苗建立長期免疫，清創與抗生素處理細菌來源。",
+      "key_point": "破傷風免疫球蛋白主要中和未結合的游離破傷風毒素。",
+      "flashcard_front": "Tetanus immunoglobulin 目的",
+      "flashcard_back": "TIG 是被動免疫，主要中和尚未與神經結合的破傷風毒素。",
+      "flashcard_summary": "Tetanus management -> TIG neutralizes unbound toxin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題是否定問法，考梅毒血清學追蹤。VDRL/RPR 是 nontreponemal test，抗體效價可反映疾病活性並追蹤治療；treponemal test 多數治療後仍長期陽性。\n\n【選項詳解】\n- A. 正確。VDRL 與 RPR 偵測 cardiolipin 相關抗體，屬 nontreponemal test，常用於篩檢並需 treponemal test 確認。\n- B. 正確。早期下疳時抗體可能尚未上升，nontreponemal test 可暫時陰性，因此高度懷疑時需追蹤或用直接檢測。\n- C. 正確。SLE 等自體免疫狀態可造成梅毒血清學偽陽性，特別是 nontreponemal test；部分 treponemal 免疫測定也可能受干擾。\n- D. 錯誤。Treponemal test 治療後常持續陽性，不能用來判斷治療成效；追蹤治療反應主要看 RPR/VDRL 效價變化。\n\n【核心考點】\n梅毒診斷常需 nontreponemal 加 treponemal 兩類檢驗；追蹤治療請看 RPR/VDRL titer，而不是 treponemal test 轉陰。",
+      "key_point": "梅毒治療反應用 nontreponemal titer 追蹤，treponemal test 常終身陽性。",
+      "flashcard_front": "梅毒檢驗追蹤",
+      "flashcard_back": "RPR/VDRL 可追蹤效價；treponemal tests 多數治療後仍陽性，不適合評估療效。",
+      "flashcard_summary": "Syphilis serology -> nontreponemal titers monitor treatment",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n高度 vancomycin 抗藥性金黃色葡萄球菌的經典機制是取得 vanA operon，使細胞壁前驅物末端由 D-Ala-D-Ala 改為 D-Ala-D-Lac，降低 vancomycin 結合。\n\n【選項詳解】\n- A. 正確。vanA 使 peptidoglycan 前驅物末端變成 D-alanine-D-lactate，vancomycin 親和力大幅下降，這是 VRSA 高度抗藥性的代表機制。\n- B. 錯誤。Vancomycin 主要作用在細胞壁合成前驅物，不是靠進入細胞質後被外排泵排出來失效。\n- C. 錯誤。S. aureus 是革蘭陽性菌，沒有革蘭陰性菌外膜 porin 那種主要進入限制機制。\n- D. 錯誤。臨床上高度抗藥性不是靠產生 vancomycin 水解酶分解藥物。\n\n【核心考點】\nVancomycin 抗藥性重點記 D-Ala-D-Ala 改成 D-Ala-D-Lac；vanA 使藥物抓不到細胞壁前驅物。",
+      "key_point": "VRSA 高度 vancomycin 抗藥性可來自 vanA，將 D-Ala-D-Ala 改為 D-Ala-D-Lac。",
+      "flashcard_front": "VRSA vancomycin resistance",
+      "flashcard_back": "vanA operon 使細胞壁前驅物末端 D-Ala-D-Lac，降低 vancomycin 親和力。",
+      "flashcard_summary": "Vancomycin resistance -> vanA changes D-Ala-D-Ala to D-Ala-D-Lac",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

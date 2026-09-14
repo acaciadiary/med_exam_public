@@ -4,7 +4,7 @@
   "title": "115 年第二次醫師國考：醫學（二）",
   "subject": "medicine-2",
   "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=301&code=115090&q=1&s=0102&t=Q",
-  "updated_at": "2026-07-20T11:44:27.499578+00:00",
+  "updated_at": "2026-09-14T23:45:00+08:00",
   "questions": [
     {
       "id": "115-2_medicine-2_001",
@@ -17,15 +17,19 @@
         "D": "B 淋巴球對結核分枝桿菌的抗原產生耐受性"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是肺結核潛伏感染多年後再活化。結核分枝桿菌主要靠 TH1 反應活化巨噬細胞形成肉芽腫，把菌侷限住但不一定完全清除；年老、糖尿病或免疫下降時，休眠菌可再活化造成上葉空洞病灶。\n\n【選項詳解】\n- A. 正確。乾酪性肉芽腫代表細胞免疫把結核菌包圍隔離，能讓初感染沒有明顯症狀，卻也讓部分菌在巨噬細胞內或壞死中心長期存活，日後再活化。\n- B. 錯誤。結核分枝桿菌不是靠快速抗原突變形成多年潛伏；這種說法較像高度變異病毒的免疫逃脫概念。\n- C. 錯誤。嗜中性球過度活化可造成急性發炎傷害，但肺結核潛伏與再活化的核心是巨噬細胞、TH1 與肉芽腫。\n- D. 錯誤。B 細胞抗原耐受不是結核菌潛伏的主要機制；抗體反應也不是控制結核菌的關鍵保護力。\n\n【核心考點】\n肺結核潛伏感染靠細胞免疫與乾酪性肉芽腫侷限病灶，但不等於滅菌；免疫力下降時可從潛伏狀態再活化。",
+      "key_point": "肺結核潛伏與再活化的核心是 TH1-巨噬細胞肉芽腫反應，能侷限但未必清除結核菌。",
+      "flashcard_summary": "TB latency -> caseating granuloma contains but may not eradicate bacilli",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肺結核潛伏感染：免疫機制",
+      "flashcard_back": "TH1 活化巨噬細胞形成乾酪性肉芽腫，讓結核菌被侷限並可多年後再活化。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_002",
@@ -38,15 +42,19 @@
         "D": "Rickettsia typhi"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考立克次體的傳染窩。流行性斑疹傷寒的 Rickettsia prowazekii 以人類為主要 reservoir，經體蝨傳播；其他選項多有鼠類或其他動物宿主。\n\n【選項詳解】\n- A. 錯誤。Rickettsia akari 造成 rickettsialpox，主要和小鼠及蟎相關，不以人類作主要傳染窩。\n- B. 錯誤。Rickettsia rickettsii 造成落磯山斑疹熱，傳播與硬蜱及動物宿主相關，人類多是偶然宿主。\n- C. 正確。Rickettsia prowazekii 造成流行性斑疹傷寒，典型傳播是人-體蝨-人，因此人類是重要 reservoir。\n- D. 錯誤。Rickettsia typhi 造成鼠型斑疹傷寒，主要 reservoir 是鼠類，常由鼠蚤傳播。\n\n【核心考點】\n記立克次體 reservoir 可用疾病聯想：prowazekii 是 epidemic typhus，核心宿主是人；typhi 是 murine typhus，核心宿主是鼠。",
+      "key_point": "R. prowazekii 造成流行性斑疹傷寒，以人類為主要 reservoir，經體蝨傳播。",
+      "flashcard_summary": "Rickettsia reservoir -> prowazekii human, typhi rat",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Rickettsia prowazekii reservoir",
+      "flashcard_back": "R. prowazekii 的主要傳染窩是人類，典型疾病是流行性斑疹傷寒。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_003",
@@ -59,15 +67,19 @@
         "D": "為雙倍體(diploid)並經半保留方式(semiconservative)進行複製"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，要找細菌染色體敘述中最不適當者。細菌染色體多為單一環狀、位於類核區且無核膜，複製也採半保留方式；錯點在把細菌說成雙倍體。\n\n【選項詳解】\n- A. 正確。多數細菌染色體是環狀 DNA，雖有少數例外如 Borrelia 具線狀染色體。\n- B. 正確。典型細菌染色體常有一個複製起始點 oriC，從該處雙向複製。\n- C. 正確。細菌沒有核膜，染色體位於細胞質中的類核區。\n- D. 錯誤。大多數細菌是單套基因組狀態而非雙倍體；「半保留複製」本身正確，但「diploid」使整句不適當。\n\n【核心考點】\n細菌染色體常考三件事：環狀、無核膜、單套基因組；複製方式仍是 DNA 的半保留複製。",
+      "key_point": "細菌多為單套基因組，不是雙倍體；染色體常為環狀並由 oriC 起始複製。",
+      "flashcard_summary": "Bacterial chromosome -> circular haploid nucleoid, semiconservative replication",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "細菌染色體特徵",
+      "flashcard_back": "多數細菌為單套、環狀染色體，無核膜，DNA 採半保留複製。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_004",
@@ -80,15 +92,19 @@
         "D": "在病毒感染的潛伏期(incubation period),病毒已開始複製,但尚未造成疾病"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考病毒致病機轉。病毒可直接造成細胞病變，也可透過宿主免疫反應造成症狀；登革出血熱尤其不能簡化成病毒蛋白直接破壞細胞。\n\n【選項詳解】\n- A. 正確。干擾素與多種細胞激素會造成發燒、肌痛、倦怠等類流感症狀。\n- B. 正確。大量病毒抗原與抗體形成免疫複合物時，可活化補體並造成第三型過敏反應。\n- C. 錯誤。伊波拉可有明顯細胞傷害與全身發炎，登革重症則與抗體依賴增強、細胞激素、補體與血管通透性上升有關，不能說兩者主要都由病毒蛋白直接 cytopathic damage 造成。\n- D. 正確。潛伏期時病毒已在體內複製，但病人尚未出現可辨識的疾病表現。\n\n【核心考點】\n病毒致病不只靠直接殺細胞；登革出血熱與免疫病理、血管滲漏及血小板變化密切相關。",
+      "key_point": "登革出血熱重點是免疫病理與血管通透性，不是單純病毒蛋白直接破壞細胞。",
+      "flashcard_summary": "Viral pathogenesis -> dengue hemorrhage is immunopathology, not only cytopathic damage",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "病毒出血熱致病機轉",
+      "flashcard_back": "伊波拉可有直接細胞傷害，登革重症常靠抗體依賴增強與免疫反應造成血管滲漏。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_005",
@@ -101,15 +117,19 @@
         "D": "具多醣體莢膜(polysaccharide capsule)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n新型隱球菌是具厚多醣體莢膜的酵母菌，常在免疫低下者造成肺部感染或腦膜炎。莢膜可抗吞噬，是重要毒力因子與檢驗線索。\n\n【選項詳解】\n- A. 錯誤。Cryptococcus 是真菌，不用頭孢菌素治療；嚴重感染常用 amphotericin B 加 flucytosine，後續 fluconazole。\n- B. 錯誤。它典型侵犯肺與中樞神經系統，尤其造成隱球菌性腦膜炎，不是主要造成尿道感染。\n- C. 錯誤。感染多與吸入環境中的酵母或孢子有關，例如鳥糞污染環境，不是昆蟲媒介傳染。\n- D. 正確。多醣體莢膜是 Cryptococcus neoformans 的招牌特徵，可用 India ink 或莢膜抗原檢測輔助診斷。\n\n【核心考點】\nCryptococcus neoformans 要聯想到「厚多醣莢膜、免疫低下、肺部或腦膜炎」，治療不是抗細菌藥。",
+      "key_point": "Cryptococcus neoformans 的重要毒力因子是多醣體莢膜。",
+      "flashcard_summary": "Cryptococcus -> polysaccharide capsule, pulmonary/CNS disease",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Cryptococcus neoformans 特色",
+      "flashcard_back": "具多醣體莢膜，常造成免疫低下者肺部感染與腦膜炎。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_006",
@@ -122,15 +142,19 @@
         "D": "左旋氧氟沙星(levofloxacin)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題目指定「細菌核糖體突變」，要找最不受這類突變影響的抗生素。A、B、C 都作用在細菌核糖體；levofloxacin 作用在 DNA gyrase/topoisomerase IV。\n\n【選項詳解】\n- A. 錯誤。Kanamycin 是 aminoglycoside，作用在 30S 核糖體，核糖體靶點改變可導致抗藥性。\n- B. 錯誤。Azithromycin 是 macrolide，作用在 50S 核糖體，23S rRNA 或核糖體相關改變會影響活性。\n- C. 錯誤。Minocycline 是 tetracycline 類，作用在 30S，核糖體保護蛋白或靶點變化可造成抗藥性。\n- D. 正確。Levofloxacin 是 fluoroquinolone，主要抑制 DNA gyrase 與 topoisomerase IV，抗藥性通常與 gyrA/parC 等基因突變或外排有關，和核糖體突變關係較小。\n\n【核心考點】\n看到核糖體突變，先排除作用在 30S/50S 的藥；fluoroquinolone 的關鍵靶點是 DNA 拓樸異構酶。",
+      "key_point": "Levofloxacin 作用在 DNA gyrase/topoisomerase IV，不是核糖體。",
+      "flashcard_summary": "Antibiotic target -> levofloxacin targets DNA topology enzymes, not ribosome",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "核糖體突變與抗生素抗藥性",
+      "flashcard_back": "Aminoglycoside、macrolide、tetracycline 作用核糖體；fluoroquinolone 作用 DNA gyrase/topoisomerase IV。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_007",
@@ -143,15 +167,19 @@
         "D": "胺基醣苷類(aminoglycosides)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n青黴素結合蛋白 PBP 是 beta-lactam 類抗生素抑制細胞壁交聯的靶點。PBP 過量或親和力下降會讓 beta-lactam 類失效，選項中最相關的是 cephalosporins。\n\n【選項詳解】\n- A. 正確。Cephalosporins 屬 beta-lactam，靠結合 PBP 抑制 peptidoglycan transpeptidation；PBP 改變會造成抗藥性。\n- B. 錯誤。Macrolides 作用於 50S 核糖體，常見抗藥性是 rRNA methylation、外排或酵素修飾，不是 PBP。\n- C. 錯誤。Sulfonamides 抑制葉酸合成，抗藥性常與 PABA 競爭或 dihydropteroate synthase 改變有關。\n- D. 錯誤。Aminoglycosides 作用在 30S 核糖體，與 PBP 的細胞壁交聯靶點不同。\n\n【核心考點】\nPBP 改變就是 beta-lactam 抗藥性的經典機制，涵蓋 penicillins、cephalosporins、carbapenems 等。",
+      "key_point": "PBP 變化會造成 beta-lactam 類抗生素抗藥性，cephalosporins 也在其中。",
+      "flashcard_summary": "PBP resistance -> beta-lactams including cephalosporins",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "PBP 突變抗藥性",
+      "flashcard_back": "PBP 是 beta-lactam 靶點；PBP 親和力下降或改變會使 cephalosporins 等失效。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_008",
@@ -164,15 +192,19 @@
         "D": "殺死破傷風梭菌"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n破傷風毒素一旦進入神經末梢並結合，就很難被抗體移除。破傷風免疫球蛋白的主要作用是中和仍在血液或組織中、尚未與神經結合的游離毒素。\n\n【選項詳解】\n- A. 錯誤。破傷風毒素本身會抑制抑制性神經傳導物質釋放，免疫球蛋白不是用來刺激傳導物質釋放。\n- B. 正確。Tetanus immunoglobulin 提供被動免疫，能中和未結合的 tetanospasmin，降低更多毒素進入神經。\n- C. 錯誤。免疫球蛋白只能提供短期被動保護；長期免疫力要靠 tetanus toxoid 疫苗誘導主動免疫。\n- D. 錯誤。免疫球蛋白不殺菌；傷口清創與抗生素才是降低 Clostridium tetani 菌量的處置。\n\n【核心考點】\n破傷風治療要分清楚：TIG 中和游離毒素，疫苗建立長期免疫，清創與抗生素處理細菌來源。",
+      "key_point": "破傷風免疫球蛋白主要中和未結合的游離破傷風毒素。",
+      "flashcard_summary": "Tetanus management -> TIG neutralizes unbound toxin",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Tetanus immunoglobulin 目的",
+      "flashcard_back": "TIG 是被動免疫，主要中和尚未與神經結合的破傷風毒素。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_009",
@@ -185,15 +217,19 @@
         "D": "血清treponemal test 在治療後抗體轉陰(seroreversion)的比例較nontreponemal test 高,適合做為疾\n 病治療成效的指標"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考梅毒血清學追蹤。VDRL/RPR 是 nontreponemal test，抗體效價可反映疾病活性並追蹤治療；treponemal test 多數治療後仍長期陽性。\n\n【選項詳解】\n- A. 正確。VDRL 與 RPR 偵測 cardiolipin 相關抗體，屬 nontreponemal test，常用於篩檢並需 treponemal test 確認。\n- B. 正確。早期下疳時抗體可能尚未上升，nontreponemal test 可暫時陰性，因此高度懷疑時需追蹤或用直接檢測。\n- C. 正確。SLE 等自體免疫狀態可造成梅毒血清學偽陽性，特別是 nontreponemal test；部分 treponemal 免疫測定也可能受干擾。\n- D. 錯誤。Treponemal test 治療後常持續陽性，不能用來判斷治療成效；追蹤治療反應主要看 RPR/VDRL 效價變化。\n\n【核心考點】\n梅毒診斷常需 nontreponemal 加 treponemal 兩類檢驗；追蹤治療請看 RPR/VDRL titer，而不是 treponemal test 轉陰。",
+      "key_point": "梅毒治療反應用 nontreponemal titer 追蹤，treponemal test 常終身陽性。",
+      "flashcard_summary": "Syphilis serology -> nontreponemal titers monitor treatment",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "梅毒檢驗追蹤",
+      "flashcard_back": "RPR/VDRL 可追蹤效價；treponemal tests 多數治療後仍陽性，不適合評估療效。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_010",
@@ -206,15 +242,19 @@
         "D": "產生萬古黴素水解酶分解萬古黴素"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n高度 vancomycin 抗藥性金黃色葡萄球菌的經典機制是取得 vanA operon，使細胞壁前驅物末端由 D-Ala-D-Ala 改為 D-Ala-D-Lac，降低 vancomycin 結合。\n\n【選項詳解】\n- A. 正確。vanA 使 peptidoglycan 前驅物末端變成 D-alanine-D-lactate，vancomycin 親和力大幅下降，這是 VRSA 高度抗藥性的代表機制。\n- B. 錯誤。Vancomycin 主要作用在細胞壁合成前驅物，不是靠進入細胞質後被外排泵排出來失效。\n- C. 錯誤。S. aureus 是革蘭陽性菌，沒有革蘭陰性菌外膜 porin 那種主要進入限制機制。\n- D. 錯誤。臨床上高度抗藥性不是靠產生 vancomycin 水解酶分解藥物。\n\n【核心考點】\nVancomycin 抗藥性重點記 D-Ala-D-Ala 改成 D-Ala-D-Lac；vanA 使藥物抓不到細胞壁前驅物。",
+      "key_point": "VRSA 高度 vancomycin 抗藥性可來自 vanA，將 D-Ala-D-Ala 改為 D-Ala-D-Lac。",
+      "flashcard_summary": "Vancomycin resistance -> vanA changes D-Ala-D-Ala to D-Ala-D-Lac",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "VRSA vancomycin resistance",
+      "flashcard_back": "vanA operon 使細胞壁前驅物末端 D-Ala-D-Lac，降低 vancomycin 親和力。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_011",
@@ -227,15 +267,19 @@
         "D": "常見的感染症是氣管支氣管炎(tracheobronchitis)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 Mycoplasma pneumoniae 的基本特性。它是無細胞壁、可在無細胞培養基生長的細菌，常造成學齡兒童與年輕人的非典型肺炎或氣管支氣管炎；錯在把它描述為兼性厭氧菌。\n\n【選項詳解】\n- A. 正確。肺炎黴漿菌是可獨立生存的最小型細菌之一，不像病毒必須依賴宿主細胞複製。\n- B. 錯誤。M. pneumoniae 通常描述為需氧或微需氧相關生長，考試重點不是 facultative anaerobe；此敘述最不適當。\n- C. 正確。感染常見於學齡兒童、青少年與年輕成人，可在密集環境中傳播。\n- D. 正確。臨床常見表現包括 tracheobronchitis 與 atypical pneumonia，常有乾咳。\n\n【核心考點】\nMycoplasma pneumoniae 要記無細胞壁、膜含 sterol、非典型肺炎；beta-lactam 對它無效。",
+      "key_point": "M. pneumoniae 無細胞壁且常造成學齡兒童與青年非典型呼吸道感染。",
+      "flashcard_summary": "Mycoplasma -> no cell wall, atypical pneumonia, not beta-lactam target",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Mycoplasma pneumoniae 特徵",
+      "flashcard_back": "無細胞壁、可獨立生存，常造成 tracheobronchitis/atypical pneumonia；不是典型兼性厭氧菌考點。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_012",
@@ -248,15 +292,19 @@
         "D": "145"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考已確立的人類致癌病毒。EBV/HHV-4、HHV-8 與 HTLV-1 是經典人類癌症相關病毒；腺病毒與 HSV 雖可在實驗或部分疾病中被討論，但不是此題列為人類癌症主因的組合。\n\n【選項詳解】\n- A. 錯誤。此組含 adenovirus；腺病毒可在動物或實驗系統致腫瘤，但不是常規考點的人類致癌病毒。\n- B. 錯誤。HSV 與 poxvirus 不屬於典型人類癌症病毒清單；HHV-8 才是 Kaposi sarcoma 相關病毒。\n- C. 正確。3 是 EBV，可與 Burkitt lymphoma、鼻咽癌等相關；4 是 HHV-8，與 Kaposi sarcoma 相關；6 是 HTLV-1，與成人 T 細胞白血病/淋巴瘤相關。\n- D. 錯誤。HAV 或 poxvirus 不屬於此題要選的人類致癌病毒組合。\n\n【核心考點】\n常考人類致癌病毒：HPV、EBV、HBV/HCV、HHV-8、HTLV-1 與 Merkel cell polyomavirus。",
+      "key_point": "EBV、HHV-8、HTLV-1 都是經典人類致癌病毒。",
+      "flashcard_summary": "Oncogenic viruses -> EBV, HHV-8, HTLV-1 are cancer-associated",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "人類致癌病毒組合",
+      "flashcard_back": "EBV/HHV-4、HHV-8、HTLV-1 分別與多種淋巴瘤、Kaposi sarcoma、成人 T 細胞白血病相關。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_013",
@@ -269,15 +317,19 @@
         "D": "A 型肝炎病毒感染容易誘發孕婦死亡"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考肝炎病毒分類與傳播。C 型肝炎病毒屬 Flaviviridae 的 Hepacivirus，與 Zika、dengue 同屬 Flaviviridae 家族；其他選項混淆了 A、B、D、E 型肝炎。\n\n【選項詳解】\n- A. 錯誤。口糞傳染與污染食物較典型是 HAV 或 HEV；HBV 主要經血液、性接觸與周產期傳播。\n- B. 正確。HCV 是 Flaviviridae 成員，Zika virus 也屬 Flaviviridae，所以同一病毒家族。\n- C. 錯誤。HDV 需要 HBV 提供 HBsAg 才能包裝與感染，不是依賴 HEV。\n- D. 錯誤。孕婦重症與高死亡風險的經典考點是 HEV，不是 HAV。\n\n【核心考點】\n肝炎病毒速記：HAV 口糞 Picornaviridae，HBV 血液/性/垂直 Hepadnaviridae，HCV Flaviviridae，HDV 依賴 HBV，HEV 孕婦重症。",
+      "key_point": "HCV 與 Zika/dengue 同屬 Flaviviridae；HDV 依賴 HBV 而非 HEV。",
+      "flashcard_summary": "Hepatitis viruses -> HCV belongs to Flaviviridae with Zika/dengue",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肝炎病毒分類",
+      "flashcard_back": "HCV 是 Flaviviridae；HBV 是 Hepadnaviridae；HAV 是 Picornaviridae；HEV 孕婦重症風險高。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_014",
@@ -290,10 +342,10 @@
         "D": "呼吸道融合病毒(respiratory syncytial virus)、A 型流感病毒(influenza A virus)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按病毒分類概念判斷，C 型肝炎病毒與登革病毒同屬 Flaviviridae；A 型與 B 型肝炎病毒分屬不同科。\n\n【選項詳解】\n- A. 給分上被接受；概念上 HAV 屬 Picornaviridae，HBV 屬 Hepadnaviridae，兩者不是同一病毒科。\n- B. 給分上被接受，且概念上 HCV 屬 Flaviviridae 的 Hepacivirus，登革病毒也屬 Flaviviridae。\n- C. 給分上被接受；概念上 HSV 屬 Herpesviridae，monkeypox virus 屬 Poxviridae，兩者不同科。\n- D. 給分上被接受；概念上 RSV 屬 Pneumoviridae，influenza A 屬 Orthomyxoviridae，兩者不同科。\n\n【核心考點】\n遇到一律給分題，不要自行改答案欄位；學理上本題應記 HCV 與 dengue 同屬 Flaviviridae。",
+      "key_point": "官方更正一律給分；學理上 HCV 與 dengue virus 同屬 Flaviviridae。",
+      "flashcard_summary": "All-credit item -> concept answer is HCV and dengue in Flaviviridae",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -302,7 +354,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第14題一律給分"
+      "answer_note": "第14題一律給分",
+      "flashcard_front": "病毒科：HCV 與 dengue",
+      "flashcard_back": "HCV 和 dengue virus 同屬 Flaviviridae；HAV 與 HBV 分別是 Picornaviridae 與 Hepadnaviridae。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 HCV 與 dengue 同屬 Flaviviridae，HAV 與 HBV 分屬不同科。"
+      ]
     },
     {
       "id": "115-2_medicine-2_015",
@@ -315,15 +374,19 @@
         "D": "彈狀病毒科(rhabdoviridae)之基因組為負股RNA(negative-sense RNA)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考病毒構造與基因體。Caliciviridae 例如 norovirus，基因體是正股單股 RNA，不是雙股線性 DNA。\n\n【選項詳解】\n- A. 正確。Enterovirus 是無套膜病毒，只有 capsid 保護，對酒精與環境較耐受，因此酒精殺滅效果較差。\n- B. 錯誤。Caliciviridae 的基因組是 positive-sense single-stranded RNA，而不是 double-stranded linear DNA。\n- C. 正確。有套膜病毒的 envelope 來自宿主膜並帶有病毒蛋白或醣蛋白，因此包含脂質、蛋白質與醣蛋白。\n- D. 正確。Rhabdoviridae 如 rabies virus，基因體是 negative-sense single-stranded RNA。\n\n【核心考點】\n無套膜病毒較耐酒精與環境；Caliciviridae 是正股 RNA，Rhabdoviridae 是負股 RNA。",
+      "key_point": "Caliciviridae 是正股單股 RNA 病毒，不是雙股 DNA 病毒。",
+      "flashcard_summary": "Virus structure -> calicivirus is positive-sense ssRNA",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Caliciviridae 基因體",
+      "flashcard_back": "Caliciviridae 例如 norovirus，為無套膜、正股 ssRNA 病毒。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_016",
@@ -336,15 +399,19 @@
         "D": "只有DNA 病毒才有可能將被感染的細胞轉型"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問病毒致病性何者最適當。病毒轉型會使細胞獲得不受正常生長控制的特性，常包含 immortalization；其他選項把潛伏、流產性感染與 DNA 病毒範圍說得太絕對。\n\n【選項詳解】\n- A. 錯誤。Latent infection 是病毒基因體長期存在、可再活化，並不等同造成細胞衰老。\n- B. 錯誤。Abortive infection 指病毒進入細胞但無法完成有效複製，不一定導致細胞死亡。\n- C. 正確。被病毒轉型的細胞可出現 immortalization、增殖控制喪失等變化，是腫瘤病毒的重要致病概念。\n- D. 錯誤。RNA 病毒也可能致癌或轉型，例如 retrovirus HTLV-1；不能限縮為 DNA 病毒。\n\n【核心考點】\n病毒感染型態要分清楚：latent 是潛伏可再活化，abortive 是複製不完整，transformation 則與 immortalization 和腫瘤形成相關。",
+      "key_point": "病毒轉型與細胞 immortalization、腫瘤化相關；RNA 病毒也可致癌。",
+      "flashcard_summary": "Viral transformation -> immortalization and oncogenesis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "病毒 transformation",
+      "flashcard_back": "Transformation 可讓細胞 immortalized；latent infection 不等於 senescence，abortive infection 不一定殺細胞。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_017",
@@ -357,15 +424,19 @@
         "D": "inositol"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nMalassezia furfur 是親脂性酵母菌，造成變色糠疹。培養時常需外加長鏈脂肪酸來源，因此 olive oil 是典型答案。\n\n【選項詳解】\n- A. 正確。Olive oil 提供脂質，有利於 Malassezia 這類親脂性真菌生長。\n- B. 錯誤。Thiamine 是維生素 B1，不是 Malassezia 培養最關鍵的脂質需求。\n- C. 錯誤。Nicotinic acid 是維生素 B3 相關成分，不能取代此菌對外源性脂肪的需求。\n- D. 錯誤。Inositol 可作為某些微生物營養或鑑別成分，但不是培養 M. furfur 的高產考點。\n\n【核心考點】\nMalassezia furfur 親脂，培養需要脂質來源；看到 pityriasis versicolor 就聯想到 olive oil。",
+      "key_point": "Malassezia furfur 是親脂性真菌，培養基加 olive oil 有助生長。",
+      "flashcard_summary": "Malassezia -> lipophilic yeast needing olive oil",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Malassezia furfur 培養",
+      "flashcard_back": "M. furfur 親脂，培養常需加入 olive oil 等脂質來源。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_018",
@@ -378,15 +449,19 @@
         "D": "先天性免疫反應具有抗原特異性的免疫記憶"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考先天免疫與後天免疫的差別。先天免疫反應快速、使用固定受體辨識常見病原模式，但典型上沒有抗原特異性的免疫記憶。\n\n【選項詳解】\n- A. 正確。吞噬細胞、自然殺手細胞與補體都是先天免疫的重要武器。\n- B. 正確。先天免疫受體如 TLR 的基因不經 V(D)J 重組，和 BCR/TCR 的多樣性來源不同。\n- C. 正確。感染處的巨噬細胞、樹突細胞等會釋放細胞激素與趨化因子，引發發炎反應。\n- D. 錯誤。抗原特異性記憶是後天免疫的典型特色；先天免疫雖有 trained immunity 概念，但不是本題的傳統分類答案。\n\n【核心考點】\n先天免疫快速、固定受體、無典型抗原特異記憶；後天免疫慢但有特異性與記憶。",
+      "key_point": "先天免疫典型上不具抗原特異性的免疫記憶。",
+      "flashcard_summary": "Innate immunity -> fixed receptors, inflammation, no classic antigen-specific memory",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "先天免疫 vs 後天免疫",
+      "flashcard_back": "先天免疫靠固定 pattern-recognition receptors，不經基因重組，也沒有典型抗原特異記憶。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_019",
@@ -399,15 +474,19 @@
         "D": "IL-5 可以促進MHC class II 表現在抗原呈獻細胞表面上"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考 MHC 基因。人類 MHC class I 主要有 HLA-A、HLA-B、HLA-C 三個基因座；MHC 多基因且高度多型，並不具 allelic exclusion。\n\n【選項詳解】\n- A. 錯誤。MHC 不是單一基因構成，而是多個基因座組成，且族群中高度多型。\n- B. 正確。主要的 MHC class I 基因為 HLA-A、HLA-B、HLA-C，這是最直接的配對。\n- C. 錯誤。Allelic exclusion 是 BCR/TCR 生成時讓單一淋巴球主要表現一種受體特異性的概念，不是 MHC 的特點。\n- D. 錯誤。提升 MHC class II 表現的典型細胞激素是 IFN-γ；IL-5 主要與 B 細胞及嗜酸性球反應相關。\n\n【核心考點】\nMHC class I 主要基因座是 HLA-A、B、C；class II 常記 HLA-DP、DQ、DR。",
+      "key_point": "MHC class I 主要包含 HLA-A、HLA-B、HLA-C 三個基因座。",
+      "flashcard_summary": "MHC I -> HLA-A, HLA-B, HLA-C",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "MHC class I genes",
+      "flashcard_back": "人類主要 MHC class I 基因是 HLA-A、HLA-B、HLA-C。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_020",
@@ -420,15 +499,19 @@
         "D": "血液中自體反應性(autoreactive)的成熟T 細胞增加"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nBAFF 是 B cell activating factor，可促進 B 細胞存活與成熟。BAFF 過量會讓原本應被淘汰的自體反應性 B 細胞存活，增加乾燥症等自體免疫風險。\n\n【選項詳解】\n- A. 錯誤。BAFF 主要影響周邊 B 細胞存活與成熟選擇，不是單純使骨髓 pre-B 細胞大量增加。\n- B. 錯誤。Immature B cell 的骨髓產生不是 BAFF 過量最典型的血液異常；問題在自體反應性細胞逃過周邊耐受。\n- C. 正確。BAFF 過量可救援自體反應性成熟 B 細胞，促進自體抗體生成，和 Sjögren syndrome 病理相符。\n- D. 錯誤。乾燥症可有 T 細胞參與，但 BAFF 的主要目標是 B 細胞，不是直接造成自體反應性成熟 T 細胞增加。\n\n【核心考點】\nBAFF 過量會讓自體反應性 B 細胞在周邊存活，推動自體抗體與 B 細胞型自體免疫。",
+      "key_point": "BAFF 促進 B 細胞存活；過量會增加自體反應性成熟 B 細胞。",
+      "flashcard_summary": "BAFF excess -> survival of autoreactive mature B cells",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "BAFF 與乾燥症",
+      "flashcard_back": "BAFF 過量可讓自體反應性成熟 B 細胞存活，增加 Sjögren syndrome 風險。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_021",
@@ -441,15 +524,19 @@
         "D": "Treg:Bcl-6"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考輔助 T 細胞分化與主控轉錄因子。TH1 的代表轉錄因子是 T-bet；其他選項把 TH2、TFH、Treg 的關鍵因子配錯。\n\n【選項詳解】\n- A. 正確。TH1 分化受 IL-12、IFN-γ 驅動，主控轉錄因子是 T-bet，功能偏向活化巨噬細胞與細胞內病原防禦。\n- B. 錯誤。RORγt 是 TH17 的轉錄因子；TH2 主要是 GATA3。\n- C. 錯誤。TFH 的代表轉錄因子是 Bcl-6，功能是幫助生發中心 B 細胞反應；GATA3 對應 TH2。\n- D. 錯誤。Treg 的代表轉錄因子是 FoxP3；Bcl-6 對應 TFH。\n\n【核心考點】\nT cell subset 配對要背熟：TH1/T-bet，TH2/GATA3，TH17/RORγt，TFH/Bcl-6，Treg/FoxP3。",
+      "key_point": "TH1 的主控轉錄因子是 T-bet。",
+      "flashcard_summary": "T helper differentiation -> TH1 uses T-bet",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "T cell subset 轉錄因子",
+      "flashcard_back": "TH1=T-bet，TH2=GATA3，TH17=RORγt，TFH=Bcl-6，Treg=FoxP3。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_022",
@@ -462,15 +549,19 @@
         "D": "IgM"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性感染早期最能提示「剛感染」的抗體通常是 IgM。A 型肝炎急性感染診斷重點是 anti-HAV IgM；IgG 多代表過去感染或疫苗後免疫。\n\n【選項詳解】\n- A. 錯誤。IgA 常見於黏膜免疫，血中最高 IgA 不是判斷 HAV 急性感染的主要指標。\n- B. 錯誤。IgE 與寄生蟲、過敏反應較相關，不是急性 HAV 感染的判讀抗體。\n- C. 錯誤。IgG 代表較晚期或既往免疫，可在恢復後長期存在，不能單獨表示剛感染。\n- D. 正確。Anti-HAV IgM 在急性 A 型肝炎時上升，是判斷近期感染的標準血清學線索。\n\n【核心考點】\n急性 HAV 感染看 anti-HAV IgM；免疫或過去感染則看 anti-HAV IgG。",
+      "key_point": "急性 A 型肝炎最重要的血清學指標是 anti-HAV IgM。",
+      "flashcard_summary": "HAV serology -> acute infection shows IgM",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "A 型肝炎急性感染抗體",
+      "flashcard_back": "剛感染 HAV 時 anti-HAV IgM 最高；IgG 多代表既往感染或疫苗免疫。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_023",
@@ -483,15 +574,19 @@
         "D": "Omalizumab"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考類風濕性關節炎生物製劑的型式。Abatacept 是 CTLA-4 與 IgG Fc 的融合蛋白，可阻斷 CD28 共刺激訊號；其他選項是單株抗體。\n\n【選項詳解】\n- A. 錯誤。Infliximab 是抗 TNF-α 的嵌合型單株抗體，不是融合蛋白。\n- B. 正確。Abatacept 是 CTLA-4-Ig fusion protein，與 CD80/CD86 結合，阻斷 T 細胞 CD28 共刺激。\n- C. 錯誤。Tocilizumab 是抗 IL-6 receptor 的單株抗體。\n- D. 錯誤。Omalizumab 是抗 IgE 的單株抗體，主要用於過敏性氣喘等，不是 RA 常用融合蛋白答案。\n\n【核心考點】\nRA 生物製劑中 abatacept 是 CTLA-4-Ig 融合蛋白，機轉是阻斷 T 細胞共刺激。",
+      "key_point": "Abatacept 是 CTLA-4-Ig 融合蛋白，阻斷 CD80/CD86-CD28 共刺激。",
+      "flashcard_summary": "Biologics -> abatacept is CTLA-4-Ig fusion protein",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "RA 生物製劑融合蛋白",
+      "flashcard_back": "Abatacept = CTLA-4-Ig fusion protein，用於阻斷 T 細胞共刺激。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_024",
@@ -504,15 +599,19 @@
         "D": "B 細胞和輔助型T 細胞的交互作用對於抗體類型轉換的發生十分重要,如果CD40L 或是CD40 的缺失會造成B\n 細胞和T 細胞無法交互作用而引起IgM 過多症候群(hyper IgM syndrome)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考抗體類型轉換。AID、CD40-CD40L 與細胞激素都很重要；錯誤在把 IL-4 說成促進 IgA 轉換，典型應是 IgE 與部分 IgG 亞型，IgA 更常由 TGF-β 等訊號促進。\n\n【選項詳解】\n- A. 正確。活化 B 細胞在生發中心進行 class switch recombination，需要 AID 造成 DNA 去胺化與重組。\n- B. 正確。疫苗可促進親和力成熟與類型轉換，使 IgM 反應轉為 IgG、IgA 等更有效的免疫反應。\n- C. 錯誤。細胞激素確實決定類型轉換方向，但 IL-4 典型促進 IgE 與 IgG1，不是 IgA；IgA 常與 TGF-β 相關。\n- D. 正確。CD40L 或 CD40 缺陷會使 T-B 細胞互動不足，class switching 失敗，造成 hyper IgM syndrome。\n\n【核心考點】\nClass switching 需要 AID 與 CD40-CD40L；細胞激素決定轉換方向，IL-4 偏 IgE，TGF-β 偏 IgA。",
+      "key_point": "IL-4 典型促進 IgE/IgG1，IgA 類型轉換更常與 TGF-β 相關。",
+      "flashcard_summary": "Class switching -> AID/CD40 required, cytokines set isotype",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "抗體類型轉換 cytokine",
+      "flashcard_back": "Class switching 需 AID 與 CD40-CD40L；IL-4 偏 IgE，TGF-β 偏 IgA。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_025",
@@ -525,10 +624,10 @@
         "D": "oral-associated lymphoid tissue(OALT)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按免疫學分類，GALT、NALT、BALT 都是 MALT 的典型或常見子類；OALT 這個名稱較少作為標準考點，可能是本題爭議來源。\n\n【選項詳解】\n- A. 給分上被接受；概念上 GALT 是 gut-associated lymphoid tissue，屬於最典型的 MALT 子類之一。\n- B. 給分上被接受；概念上 NALT 屬鼻咽相關黏膜淋巴組織，也是 MALT 的一種。\n- C. 給分上被接受；概念上 BALT 屬支氣管相關黏膜淋巴組織，歸在 MALT 架構下。\n- D. 給分上被接受；概念上 oral/oropharyngeal lymphoid tissue 可被視為黏膜相關淋巴組織，但 OALT 命名比 GALT/NALT/BALT 少見，需依原題與公告處理。\n\n【核心考點】\nMALT 是黏膜相關淋巴組織的總稱，典型包含 GALT、NALT、BALT；本題已公告一律給分，學習時應記住 GALT 絕對屬於 MALT。",
+      "key_point": "官方更正一律給分；GALT、NALT、BALT 都是 MALT 的典型子類。",
+      "flashcard_summary": "All-credit item -> GALT/NALT/BALT are MALT subtypes",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -537,7 +636,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第25題一律給分"
+      "answer_note": "第25題一律給分",
+      "flashcard_front": "MALT 子類",
+      "flashcard_back": "MALT 包含 GALT、NALT、BALT；本題一律給分，GALT 不應被當成非 MALT。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；GALT 是典型 MALT，OALT 命名較少見，宜人工確認原題意。"
+      ]
     },
     {
       "id": "115-2_medicine-2_026",
@@ -550,15 +656,19 @@
         "D": "葉片上油脂物質即為抗原,直接活化體內免疫反應所致"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n觸摸植物後隔天才出現癢、水泡與紅腫，是接觸性皮膚炎的延遲型過敏反應。它屬第四型過敏反應，由 T 細胞媒介，常見於毒藤類 urushiol 造成的 hapten 反應。\n\n【選項詳解】\n- A. 錯誤。第三型過敏反應是免疫複合物沉積，例如血清病或 SLE 腎炎；本題是延遲型接觸性皮膚炎。\n- B. 正確。接觸性皮膚炎主要由 TH1、CD8 T 細胞與巨噬細胞參與，症狀常在 24-72 小時後出現。\n- C. 錯誤。IL-4 與 IL-5 大量分泌較偏 TH2、IgE 與嗜酸性球反應，對應第一型過敏或寄生蟲反應。\n- D. 錯誤。植物油脂類物質多作為 hapten，需和皮膚蛋白結合後被呈現給 T 細胞，不是直接以完整抗原活化免疫。\n\n【核心考點】\n接觸性皮膚炎是第四型延遲型過敏反應，重點是 T 細胞而不是 IgE 或免疫複合物。",
+      "key_point": "植物接觸後延遲出疹是第四型過敏反應，由 TH1/CD8 T 細胞媒介。",
+      "flashcard_summary": "Contact dermatitis -> type IV T-cell-mediated hypersensitivity",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "接觸性皮膚炎過敏型態",
+      "flashcard_back": "接觸性皮膚炎屬 type IV delayed hypersensitivity，主要由 T 細胞媒介。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_027",
@@ -571,15 +681,19 @@
         "D": "AIRE 過度表現時直接造成T 細胞的活化,因此引發自體免疫的症狀"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nAIRE 讓胸腺髓質上皮細胞表現多種周邊組織特異抗原，使會強烈辨識自體抗原的 T 細胞在胸腺內被刪除或導向耐受。APECED 的自體免疫正是中樞耐受失敗的結果。\n\n【選項詳解】\n- A. 正確。AIRE 調控組織特異抗原在胸腺中的表現，是刪除自體反應性 T 細胞、建立中樞免疫耐受的關鍵。\n- B. 錯誤。APECED 的分泌腺自體免疫不是因為 AIRE 調控抗原表現過高，而是 AIRE 缺失造成相關自體反應 T 細胞未被淘汰。\n- C. 錯誤。AIRE 不以抑制整體 T 細胞發育為主要功能；它是讓 T 細胞接受自體抗原篩選。\n- D. 錯誤。AIRE 過度表現直接活化 T 細胞不是 APECED 的機轉；疾病關鍵是缺失突變與耐受失敗。\n\n【核心考點】\nAIRE 連結胸腺中樞耐受與 APECED；缺失時自體反應性 T 細胞逃脫，造成多內分泌與黏膜皮膚自體免疫。",
+      "key_point": "AIRE 促進胸腺表現周邊組織抗原，建立 T 細胞中樞耐受。",
+      "flashcard_summary": "AIRE -> central tolerance by thymic tissue-specific antigen expression",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "AIRE 功能",
+      "flashcard_back": "AIRE 讓胸腺呈現組織特異抗原，以刪除自體反應 T 細胞；缺失造成 APECED。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_028",
@@ -592,15 +706,19 @@
         "D": "可與CD86 結合"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 CTLA-4。CTLA-4 是 T 細胞活化後或 Treg 表現的抑制性受體，與 CD28 競爭 CD80/CD86；它不傳遞促進活化的共同刺激訊號。\n\n【選項詳解】\n- A. 正確。CTLA-4 和 CD28 競爭相同配體 CD80/CD86，且 CTLA-4 親和力較高。\n- B. 錯誤。共同刺激訊號主要由 CD28 傳遞；CTLA-4 傳遞抑制訊號，降低 T 細胞活化。\n- C. 正確。CTLA-4 可與抗原呈獻細胞上的 CD80 結合。\n- D. 正確。CTLA-4 也可與 CD86 結合，進一步限制 CD28 共刺激。\n\n【核心考點】\nCD28 是油門，CTLA-4 是煞車；兩者都看 CD80/CD86，但訊號方向相反。",
+      "key_point": "CTLA-4 與 CD28 競爭 CD80/CD86，但功能是抑制 T 細胞活化。",
+      "flashcard_summary": "CTLA-4 -> inhibitory checkpoint competing with CD28",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "CTLA-4 作用",
+      "flashcard_back": "CTLA-4 是 inhibitory receptor，與 CD28 競爭 CD80/CD86，不傳遞共同刺激訊號。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_029",
@@ -613,15 +731,19 @@
         "D": "有棘頜口線蟲(Gnathostoma spinigerum)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n赤腳接觸泥土後經皮膚鑽入，關鍵字是鉤蟲的 filariform larvae。Ancylostoma duodenale 與 Necator americanus 都可經皮膚感染並造成腸道寄生與缺鐵性貧血。\n\n【選項詳解】\n- A. 正確。十二指腸鉤蟲的 filariform larvae 可從受污染土壤穿入皮膚，常從赤腳接觸處感染。\n- B. 錯誤。犬蛔蟲通常造成內臟或眼幼蟲移行症，人類感染多與攝入蟲卵有關，不是典型 filariform larvae 鑽皮。\n- C. 錯誤。肝毛線蟲與攝入蟲卵、肝臟寄生相關，不符合赤腳被幼蟲鑽入。\n- D. 錯誤。有棘頜口線蟲多因食用未煮熟魚、蛙、蛇等含幼蟲食物感染，造成移行性病灶。\n\n【核心考點】\n土壤、赤腳、filariform larvae 經皮膚進入，請先想到鉤蟲。",
+      "key_point": "鉤蟲 filariform larvae 可經皮膚鑽入感染人類。",
+      "flashcard_summary": "Hookworm -> filariform larvae penetrate bare skin",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "鉤蟲感染途徑",
+      "flashcard_back": "Ancylostoma duodenale 的 filariform larvae 從污染土壤經皮膚鑽入。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_030",
@@ -634,15 +756,19 @@
         "D": "蟠尾絲蟲(Onchocerca volvulus)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題幹提到臺灣東部、南部地方性流行並可能侵犯眼睛，指向廣東住血線蟲。此寄生蟲常因攝入含幼蟲的螺類、蛞蝓或被污染食物而感染，可造成嗜酸性腦膜炎與眼部病變。\n\n【選項詳解】\n- A. 正確。Angiostrongylus cantonensis 在臺灣曾有地方性病例，幼蟲可侵犯中樞神經或眼部，造成嗜酸性發炎。\n- B. 錯誤。旋毛蟲主要來自食用未熟肉類，侵犯肌肉造成肌痛、眼周水腫與嗜酸性球增加，不是臺灣東南部眼病地方流行的典型答案。\n- C. 錯誤。犬鉤蟲在人類常造成皮膚幼蟲移行症，和本題地理與眼部侵犯線索不合。\n- D. 錯誤。Onchocerca volvulus 可造成河盲症，但主要流行於非洲等地，由黑蠅傳播，不是臺灣東南部地方性流行重點。\n\n【核心考點】\n臺灣寄生蟲考題遇到東部、南部、嗜酸性腦膜炎或眼部侵犯，要想到廣東住血線蟲。",
+      "key_point": "廣東住血線蟲在臺灣可造成地方性病例，並可侵犯眼睛或中樞神經。",
+      "flashcard_summary": "Angiostrongylus cantonensis -> Taiwan endemic ocular/CNS disease",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Angiostrongylus cantonensis 台灣",
+      "flashcard_back": "廣東住血線蟲可造成嗜酸性腦膜炎與眼部病變，臺灣東南部曾有地方性流行。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_031",
@@ -655,15 +781,19 @@
         "D": "顆粒性包生絛蟲(Echinococcus granulosus)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n把搗碎蛙肉敷在眼周後發生眼周水腫與發炎，是曼森裂頭絛蟲 sparganum 經蛙肉接觸或食入造成 sparganosis 的典型病史。\n\n【選項詳解】\n- A. 錯誤。短小包膜絛蟲主要經攝入蟲卵感染腸道，可自體感染，不會因蛙肉敷眼造成局部幼蟲病灶。\n- B. 錯誤。縮小包膜絛蟲多經攝入含 cysticercoid 的昆蟲感染，和蛙肉民俗療法不合。\n- C. 正確。Spirometra 的 plerocercoid larvae 可存在蛙、蛇等組織中，外敷或食用未熟蛙肉可造成眼部或皮下 sparganosis。\n- D. 錯誤。Echinococcus granulosus 造成包蟲囊腫，主要因攝入犬科動物糞便污染的蟲卵，不是蛙肉敷眼感染。\n\n【核心考點】\n蛙肉、蛇肉、生食或外敷造成移行性皮下/眼部病灶，請想到 Spirometra sparganosis。",
+      "key_point": "蛙肉敷眼後眼部病變是 Spirometra sparganosis 的經典線索。",
+      "flashcard_summary": "Sparganosis -> Spirometra from frog/snake exposure",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "蛙肉敷眼寄生蟲",
+      "flashcard_back": "曼森裂頭絛蟲 Spirometra 的 sparganum 可因蛙肉外敷或生食造成眼部 sparganosis。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_032",
@@ -676,15 +806,19 @@
         "D": "異形異形吸蟲(Heterophyes heterophyes)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n赴日本、生食魚類、腹瀉腹痛、嗜酸性球增加但無貧血，指向小型腸吸蟲感染。橫川氏吸蟲可因生食淡水或半鹹水魚感染，造成腸胃症狀。\n\n【選項詳解】\n- A. 錯誤。中華肝吸蟲主要寄生膽道，常與生食淡水魚及肝膽病變相關，不以單純腹瀉、無貧血的腸道吸蟲表現為主。\n- B. 錯誤。衛氏肺吸蟲常因食用未熟蟹、蛄感染，主要侵犯肺部，會有咳嗽、血痰等線索。\n- C. 正確。Metagonimus yokogawai 是腸吸蟲，可因生食魚類感染，造成腹瀉、腹痛與嗜酸性球增多。\n- D. 錯誤。Heterophyes heterophyes 也是小型腸吸蟲，但本題以日本旅遊與鮭魚相關線索較支持橫川氏吸蟲。\n\n【核心考點】\n生食魚後腸道症狀與嗜酸性球上升，先區分腸吸蟲、肝吸蟲與肺吸蟲的寄生部位和感染食物。",
+      "key_point": "橫川氏吸蟲是魚類相關腸吸蟲，可造成腹瀉與嗜酸性球增多。",
+      "flashcard_summary": "Metagonimus -> fish-borne intestinal fluke with eosinophilia",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "生食魚 腸吸蟲",
+      "flashcard_back": "Metagonimus yokogawai 可因生食魚類感染，寄生腸道造成腹瀉腹痛。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_033",
@@ -697,15 +831,19 @@
         "D": "可於患者肛門潰瘍周圍組織切片發現活動體(trophozoites)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考痢疾阿米巴診斷。急性阿米巴痢疾糞便中常見的是活動體，尤其可能看到吞噬紅血球的 trophozoites；成熟囊體才是主要感染型。\n\n【選項詳解】\n- A. 正確。阿米巴肝膿瘍時糞便不一定容易找到蟲體，血清 ELISA 抗體檢測可作為診斷輔助。\n- B. 錯誤。急性下痢糞便主要尋找 trophozoites，不是感染性的 cysts；cyst 常見於形成糞便並負責傳播。\n- C. 正確。PCR 可區分致病的 E. histolytica 與形態相似但多為非致病的 E. dispar。\n- D. 正確。侵犯性病灶或潰瘍周邊組織可見活動體，符合 invasive amoebiasis。\n\n【核心考點】\nE. histolytica 診斷要分清楚：感染型是 cyst，急性侵襲性病灶常找 trophozoite，PCR 可和 E. dispar 鑑別。",
+      "key_point": "急性阿米巴痢疾糞便主要見 trophozoites，不是以囊體為主。",
+      "flashcard_summary": "Amebiasis -> acute diarrhea has trophozoites, cysts transmit infection",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "E. histolytica 急性診斷",
+      "flashcard_back": "急性下痢找 trophozoites；cyst 是感染型並常見於成形糞便。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_034",
@@ -718,15 +856,19 @@
         "D": "在許多人類罹患非洲錐蟲症的案例中,蟲體入侵神經系統大多發生在感染初期,因此導致昏睡症(sleeping\n sickness)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考非洲錐蟲的生物學與臨床。T. b. rhodesiense 的疾病嚴重度可受寄生蟲毒力與宿主基因型交互影響；其他選項把臨床名詞、生命週期表面蛋白轉換或中樞侵犯時序說錯。\n\n【選項詳解】\n- A. 正確。非洲錐蟲感染的毒力與臨床差異可受寄生蟲株別及宿主血清抗錐蟲因子等基因背景影響。\n- B. 錯誤。頸部後淋巴結腫大典型稱 Winterbottom sign；叮咬處局部病灶常稱 trypanosomal chancre，不是 Jericho boil。\n- C. 錯誤。錐蟲進入采采蠅後，哺乳動物血流型的 VSG 會轉為 procyclin；此選項把方向說反。\n- D. 錯誤。中樞神經侵犯通常是較晚期事件，導致睡眠型態改變與昏睡症表現，不是多數病例一開始就發生。\n\n【核心考點】\n非洲錐蟲考點包括 VSG 抗原變異、采采蠅傳播、Winterbottom sign 與晚期中樞神經侵犯。",
+      "key_point": "T. b. rhodesiense 毒力可受寄生蟲與宿主基因背景交互影響。",
+      "flashcard_summary": "African trypanosomes -> host-parasite genetics and VSG/procyclin switch",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "African trypanosomes 錯誤陷阱",
+      "flashcard_back": "血流型 VSG 在采采蠅中轉為 procyclin；CNS 侵犯多為晚期，頸部淋巴結腫大稱 Winterbottom sign。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_035",
@@ -739,15 +881,19 @@
         "D": "恙蟲病(scrub typhus)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n蘭嶼旅遊後、蟎叮咬致病，最典型是恙蟲病。恙蟲病由 Orientia tsutsugamushi 造成，經恙蟎幼蟲叮咬傳播，可有發燒、焦痂、皮疹與淋巴結腫大。\n\n【選項詳解】\n- A. 錯誤。犬心絲蟲症與蚊傳播的 Dirofilaria 相關，通常不是蘭嶼蟎叮咬後急性發熱疾病。\n- B. 錯誤。瘧疾由 Anopheles 蚊傳播，病原是 Plasmodium，不是 mite。\n- C. 錯誤。黃熱病由 Aedes 等蚊傳播的黃熱病毒造成，與臺灣蘭嶼蟎叮咬線索不合。\n- D. 正確。恙蟲病是恙蟎叮咬傳播的立克次體樣疾病，臺灣離島與山區旅遊史常是考題線索。\n\n【核心考點】\n蟎叮咬加臺灣離島/草叢暴露，優先想到恙蟲病；傳播者是恙蟎幼蟲。",
+      "key_point": "恙蟲病由恙蟎叮咬傳播，臺灣離島與草叢暴露是重要線索。",
+      "flashcard_summary": "Scrub typhus -> chigger mite exposure in Taiwan travel",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "蘭嶼 蟎叮咬 發燒",
+      "flashcard_back": "最可能是 scrub typhus，由 Orientia tsutsugamushi 經恙蟎幼蟲傳播。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_036",
@@ -760,15 +906,19 @@
         "D": "2.7"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n兩獨立樣本且假設母體變異數相等時，用 pooled variance。計算為 [(19-1)×1.5 + (27-1)×1.7] / (19+27-2) = (27 + 44.2) / 44 = 1.62，最接近 1.6。\n\n【選項詳解】\n- A. 正確。1.6 接近合併變異數 1.62，是本題的估計值。\n- B. 錯誤。2.0 比 pooled variance 高，通常來自沒有用自由度加權或計算錯誤。\n- C. 錯誤。2.6 不是兩個變異數 1.5、1.7 的合理加權平均，明顯過高。\n- D. 錯誤。2.7 更高，和題目給定變異數範圍不相符。\n\n【核心考點】\n等變異數兩樣本的 pooled variance 要用自由度 n-1 加權，而不是直接看樣本數或把標準差相加。",
+      "key_point": "Pooled variance = [(n1-1)s1^2 + (n2-1)s2^2] / (n1+n2-2)。",
+      "flashcard_summary": "Pooled variance -> degrees-of-freedom weighted average",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "兩獨立樣本 pooled variance",
+      "flashcard_back": "用自由度加權：[(18)(1.5)+(26)(1.7)]/44 = 1.62，選 1.6。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_037",
@@ -781,15 +931,19 @@
         "D": "疾病別死亡率是指該年度死於特定疾病別的死亡率"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考死亡率指標。年度總死亡率通常用該年度死亡人數除以年中人口或平均人口，而不是年初人口數；標準化死亡率則用固定人口結構調整年齡差異。\n\n【選項詳解】\n- A. 錯誤。粗死亡率的分母通常採年中人口或平均人口，用年初人口會造成估計偏差。\n- B. 正確。標準化死亡率是把各年齡層死亡率套用到指定標準人口結構，以便排除年齡結構差異。\n- C. 正確。題幹已指出 111 年死亡率上升和 COVID-19 新進入主要死因及人口老化有關。\n- D. 正確。疾病別死亡率是特定期間內死於某疾病的人數相對於人口的死亡率。\n\n【核心考點】\n粗死亡率分母看平均或年中人口；標準化死亡率用標準人口結構修正年齡組成。",
+      "key_point": "年度總死亡率分母通常用年中人口或平均人口，不是年初人口。",
+      "flashcard_summary": "Mortality rate -> crude rate uses midyear/average population",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "總死亡率分母",
+      "flashcard_back": "粗死亡率 = 年度死亡人數 / 年中或平均人口；標準化死亡率則調整年齡結構。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_038",
@@ -802,15 +956,19 @@
         "D": "盲性能保證介入組和對照組在基線背景特性上的可比性"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n盲性程序的目的，是避免受試者、照護者或評估者知道分組後改變照護、行為或評估，造成系統性偏差。基線可比性主要靠隨機分派，不是靠盲性。\n\n【選項詳解】\n- A. 正確。盲性可降低介入組與對照組在照護執行、共同介入、期待效應與結果評估上的系統性偏差，使程序更可比。\n- B. 錯誤。盲性可降低期待與觀察偏差，但不只針對介入組的 Hawthorne effect，也包含對照組與研究人員。\n- C. 錯誤。雙盲通常指受試者與研究者或結果評估者等雙方不知道分組，不是只對醫師及護理師實施。\n- D. 錯誤。兩組基線背景特性可比主要由 randomization 達成；盲性處理的是分組後行為與評估偏差。\n\n【核心考點】\n隨機分派保護基線可比性，盲性降低分組後的 performance、detection 與 expectation bias。",
+      "key_point": "臨床試驗盲性主要用來降低分組後執行與評估上的系統性偏差。",
+      "flashcard_summary": "Blinding -> prevents post-randomization performance and assessment bias",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "臨床試驗 blinding 目的",
+      "flashcard_back": "Blinding 降低 performance/detection bias；baseline comparability 主要靠 randomization。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_039",
@@ -823,15 +981,19 @@
         "D": "雙樣本t 檢定(Two-sample t-test)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n胃食道逆流類型 A/B/C 是類別變項，肥胖狀態也是類別變項。要檢定兩個類別變項是否有關聯，使用卡方檢定。\n\n【選項詳解】\n- A. 錯誤。ANOVA 用於比較多組連續變項平均數，不適合兩個類別變項列聯表。\n- B. 錯誤。Log rank test 用於存活曲線或 time-to-event 資料比較，本題沒有追蹤時間到事件。\n- C. 正確。Chi-square test 可分析 GERD 類型與肥胖/非肥胖的列聯表關聯。\n- D. 錯誤。Two-sample t-test 用於比較兩組連續變項平均值，不適合 A/B/C 類型與肥胖狀態。\n\n【核心考點】\n兩個類別變項的關聯用 chi-square test；連續平均值才考 t-test 或 ANOVA。",
+      "key_point": "類別變項與類別變項的關聯分析使用卡方檢定。",
+      "flashcard_summary": "Categorical association -> chi-square test",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "兩類別變項統計方法",
+      "flashcard_back": "GERD 類型與肥胖狀態都是 categorical variables，適合 chi-square test。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_040",
@@ -844,15 +1006,19 @@
         "D": "氫氟碳化物"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n雲量減少、紫外線入射增加，會促進氮氧化物與揮發性有機物進行光化學反應，生成臭氧。這是光化學煙霧的重要污染物。\n\n【選項詳解】\n- A. 正確。地表臭氧是二次污染物，強日照與紫外線會加速其生成。\n- B. 錯誤。一氧化碳主要來自不完全燃燒，不是紫外線光化作用生成的代表二次污染物。\n- C. 錯誤。全氟碳化物是溫室氣體與工業排放相關，不是雲量減少後光化學反應的主要產物。\n- D. 錯誤。氫氟碳化物也屬工業化學物與溫室氣體議題，不是光化學煙霧的核心生成物。\n\n【核心考點】\n強日照、NOx、VOCs 會生成地表臭氧；臭氧是光化學空污的代表二次污染物。",
+      "key_point": "紫外線與光化學反應會促進地表臭氧形成。",
+      "flashcard_summary": "Photochemical pollution -> sunlight increases ground-level ozone",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "光化學作用空污",
+      "flashcard_back": "雲量少、紫外線強會加速 NOx/VOCs 反應生成臭氧。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_041",
@@ -865,15 +1031,19 @@
         "D": "對人類或動物產生的肝臟傷害,型態類似"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考四氯化碳毒性。四氯化碳是典型 intrinsic/direct hepatotoxin，經代謝產生自由基造成脂質過氧化與肝細胞傷害；不是主要由個人體質特異反應造成。\n\n【選項詳解】\n- A. 正確。四氯化碳是可造成化學性肝傷害的環境毒物。\n- B. 錯誤。特異體質反應屬 idiosyncratic toxicity；四氯化碳是劑量相關、機轉較可預測的直接性肝毒物。\n- C. 正確。Intrinsic toxicant 指多數個體達足夠劑量會發生可預測毒性，四氯化碳符合此類。\n- D. 正確。四氯化碳在不同動物與人類可造成相似的肝臟脂肪變性、壞死等毒性型態。\n\n【核心考點】\n四氯化碳是 intrinsic hepatotoxin，靠代謝自由基造成肝細胞損傷。",
+      "key_point": "四氯化碳是直接性、劑量相關的 intrinsic 肝毒性物質。",
+      "flashcard_summary": "CCl4 toxicity -> intrinsic hepatotoxin via free radicals",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "四氯化碳毒性分類",
+      "flashcard_back": "CCl4 是 intrinsic hepatotoxin，不是 idiosyncratic reaction。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_042",
@@ -886,15 +1056,19 @@
         "D": "職業為既有疾病之加重因素者(may aggravate pre-existing disease)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 WHO 對職業病的概念。職業病可指職業是因果因素、複雜情境中的貢獻因素，或使既有疾病惡化；同一工作環境多人同症狀是群聚線索，不是 WHO 定義本身。\n\n【選項詳解】\n- A. 錯誤。Cases clustering 可提示可能的職場危害，需要調查，但不是職業病定義的核心標準。\n- B. 正確。若職業暴露與疾病具有因果關係，可歸為 occupational disease。\n- C. 正確。在多因素疾病中，工作可作為 contributing factor，仍可納入工作相關疾病判斷。\n- D. 正確。工作暴露也可能加重既有疾病，例如氣喘因職場刺激物惡化。\n\n【核心考點】\n職業病判斷重點是工作暴露與疾病的因果、貢獻或惡化關係；群聚是調查訊號，不是定義。",
+      "key_point": "職業病定義看職業暴露是否為因果、貢獻或惡化因素。",
+      "flashcard_summary": "Occupational disease -> work as causal/contributing/aggravating factor",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "WHO 職業病定義",
+      "flashcard_back": "工作可為 causal factor、contributing factor，或 aggravate pre-existing disease；群聚只是線索。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_043",
@@ -907,15 +1081,19 @@
         "D": "甲苯的分子量較苯為大,所以毒性也比苯更強"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考環境毒物。苯是重要造血毒性與致白血病物質；甲苯雖分子量較大，但毒性不能因此推論比苯更強。\n\n【選項詳解】\n- A. 正確。六價鉻較易進入細胞並具強氧化與致癌毒性，通常比三價鉻毒性高。\n- B. 正確。三氯乙烯是常見工業溶劑，曾廣泛用於去脂、清洗與乾洗相關用途。\n- C. 正確。四氯化碳具典型肝毒性，可造成肝細胞傷害。\n- D. 錯誤。毒性強弱不由分子量單獨決定；苯的骨髓毒性與致癌性比甲苯更是考試重點。\n\n【核心考點】\n毒理不能用分子量直接判斷毒性；苯要記骨髓抑制與白血病風險。",
+      "key_point": "苯的毒性與致癌性重於甲苯，不能因甲苯分子量較大就說毒性較強。",
+      "flashcard_summary": "Toxicology -> molecular weight does not determine benzene/toluene toxicity",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "苯 vs 甲苯毒性",
+      "flashcard_back": "苯具骨髓毒性與白血病風險；甲苯分子量較大不代表毒性更強。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_044",
@@ -928,15 +1106,19 @@
         "D": "受社會污名的人在適應過程中,可能會回過頭來影響自己而致自我污名"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 Goffman 的污名分類。Goffman 將污名分為身體污名、人格污名與族群/國族/宗教等 tribal stigma；「東亞病夫」針對中國人的族群與國族貶抑，不能單純歸為身體污名。\n\n【選項詳解】\n- A. 正確。對精神病患者的污名常被錯誤連結到人格、意志或危險性，符合人格污名類型。\n- B. 錯誤。「東亞病夫」雖使用疾病化語言，但社會分類上是在貶抑特定民族/國族群體，較屬 tribal stigma。\n- C. 正確。受污名者常採取隱藏、掩飾、資訊管理等方式避免被排斥。\n- D. 正確。外在污名可內化成 self-stigma，影響自我認同、求助與社會參與。\n\n【核心考點】\nGoffman 污名三類：身體差異、人格瑕疵、族群/國族/宗教等群體污名；自我污名是外在評價內化。",
+      "key_point": "「東亞病夫」屬族群/國族污名，不是單純身體污名。",
+      "flashcard_summary": "Stigma -> ethnic/national slur is tribal stigma",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Goffman stigma 分類",
+      "flashcard_back": "污名分身體、人格、tribal stigma；族群或國族貶抑屬 tribal stigma。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_045",
@@ -949,15 +1131,19 @@
         "D": "目標、行動及社會關係的一致"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n計畫行為理論的相容性原則，要求態度、主觀規範、知覺行為控制、意圖與行為的測量在同一個行為定義上對齊。行為通常需界定目標、行動、脈絡/場域與時間；選項中以目標、發生場域及時間最接近題目要問的共同特質。\n\n【選項詳解】\n- A. 錯誤。知覺控制是理論構面之一，但不是定義行為相容性時的行為特質；社會關係也不是必備的 TACT 元素。\n- B. 錯誤。行動與時間重要，但「他人態度」屬主觀規範相關概念，不是行為本身的定義元素。\n- C. 正確。目標、發生場域及時間對應 target、context、time；行動本身則由所定義的行為承載，是四元素框架中的核心。\n- D. 錯誤。目標與行動有關，但社會關係不能取代場域與時間，會讓測量不相容。\n\n【核心考點】\nTPB 的 compatibility 要讓行為定義與測量一致，常用 action、target、context、time 來檢查。",
+      "key_point": "計畫行為理論相容性原則要求行為的目標、脈絡/場域、時間與行動界定一致。",
+      "flashcard_summary": "TPB compatibility -> behavior measures align by target/context/time/action",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "TPB 相容性原則",
+      "flashcard_back": "行為測量要對齊 action、target、context、time；選項中以目標、場域、時間最貼近。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_046",
@@ -970,15 +1156,19 @@
         "D": "第四級預防策略"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n三段五級預防中，疫苗接種屬第一段預防裡的第二級「特殊保護」。題目問的是五級中的哪一級，不是三段中的第幾段。\n\n【選項詳解】\n- A. 錯誤。第一級是健康促進，例如健康飲食、運動、衛生教育；疫苗屬更具體的保護措施。\n- B. 正確。65 歲以上公費肺炎鏈球菌疫苗是 immunization，屬特殊保護，也就是第二級預防策略。\n- C. 錯誤。第三級在五級分類中是早期診斷與早期治療，較接近篩檢，不是疫苗。\n- D. 錯誤。第四級是限制殘障或減少疾病後續損害，不符合接種前預防感染的目的。\n\n【核心考點】\n三段五級要分清楚：疫苗是第一段預防中的第二級特殊保護。",
+      "key_point": "疫苗接種屬五級預防中的第二級特殊保護。",
+      "flashcard_summary": "Levels of prevention -> vaccination is specific protection, level 2",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "疫苗 三段五級預防",
+      "flashcard_back": "公費肺炎鏈球菌疫苗屬第一段預防的第二級特殊保護。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_047",
@@ -991,15 +1181,19 @@
         "D": "相較於結果評價(outcome evaluation),衝擊評價(impact evaluation)所需要的時間較短,可以觀察\n 到計畫的立即效果,如認知或信念的改變"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考健康促進評價。從計畫擬定、發展到執行期間持續監測，屬形成性或過程相關評價；總結性評價通常在計畫完成後判斷整體成果。\n\n【選項詳解】\n- A. 正確。評價需回扣計畫目標，並可檢視 effectiveness、efficiency、efficacy 等面向。\n- B. 正確。PRECEDE-PROCEED 模式常把評價分為 process、impact、outcome evaluation。\n- C. 錯誤。從規劃到執行一路監測不是 summative evaluation；summative evaluation 偏向計畫結束後的總結判斷。\n- D. 正確。Impact evaluation 常看較短期的知識、態度、信念或行為改變；outcome evaluation 才看較長期健康結果。\n\n【核心考點】\nProcess 看執行品質，impact 看近期認知/行為改變，outcome 看長期健康結果；summative 是結束後總結。",
+      "key_point": "Summative evaluation 是結束後總結；執行過程中的持續監測不是總結性評價。",
+      "flashcard_summary": "Evaluation -> summative is end-of-program judgment, not continuous monitoring",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "健康促進評價類型",
+      "flashcard_back": "PRECEDE-PROCEED：process、impact、outcome；summative 偏計畫結束後總結。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_048",
@@ -1012,15 +1206,19 @@
         "D": "根據物質使用的入門理論(gateway theory),海洛因經常是第一個被嘗試的藥物"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考物質使用疾患與 gateway theory。入門理論通常認為較早接觸的是酒精、菸草或大麻等物質，並非海洛因常作第一個被嘗試的藥物。\n\n【選項詳解】\n- A. 正確。物質使用常從暴露機會、開始使用、持續使用，到因正增強或避免戒斷/負向感受而進展至濫用或成癮。\n- B. 正確。即使尚未到成癮階段，個體仍可能在暴露、初用或持續使用任一階段發生急性或慢性傷害。\n- C. 正確。多數物質使用疾患需要反覆使用與神經適應，才逐漸形成濫用、依賴或成癮。\n- D. 錯誤。海洛因通常不是 gateway theory 所稱最早嘗試的物質；它多被視為較晚、危害較高的非法鴉片類。\n\n【核心考點】\nGateway theory 的入門物質通常是酒精、菸草或大麻，不是海洛因。",
+      "key_point": "Gateway theory 不認為海洛因通常是第一個被嘗試的藥物。",
+      "flashcard_summary": "Substance gateway theory -> heroin is not the usual first substance",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Gateway theory 入門物質",
+      "flashcard_back": "入門理論常從酒精、菸草、大麻等較早接觸物質談起；海洛因通常不是第一個。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_049",
@@ -1033,15 +1231,19 @@
         "D": "自負額制"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n我國健保門急診與住院部分負擔常見型態包含定額、定率與上限規定。自負額制是保險設計中先由被保險人自行負擔一定金額後才給付的概念，並非我國健保部分負擔的主要類型。\n\n【選項詳解】\n- A. 正確。定額部分負擔是門診、急診常見設計，例如每次就醫固定金額。\n- B. 正確。定率部分負擔是依醫療費用比例分擔，住院部分負擔常見這種概念。\n- C. 正確。部分負擔上限可避免病人負擔無限制上升，是健保制度設計的一部分。\n- D. 錯誤。自負額制 deductible 不是題目所問我國健保門急診與住院部分負擔類型。\n\n【核心考點】\n健保部分負擔常考定額、定率與上限；deductible 自負額制是不同保險支付概念。",
+      "key_point": "我國健保部分負擔類型不包含自負額制。",
+      "flashcard_summary": "NHI copayment -> fixed amount, coinsurance, ceiling; no deductible system",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "健保部分負擔類型",
+      "flashcard_back": "門急診和住院部分負擔可有定額、定率、上限；不含 deductible 自負額制。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_050",
@@ -1054,15 +1256,19 @@
         "D": "社群主義"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考健康正義中分配正義的主流理論。功利主義、平等主義與社群主義都可討論資源如何分配；原則主義主要是生物醫學倫理四原則，不是分配正義三大理論之一。\n\n【選項詳解】\n- A. 正確。功利主義重視最大化整體效益，是分配正義的重要理論之一。\n- B. 正確。平等主義重視平等機會、資源或健康結果，常用於健康不平等討論。\n- C. 錯誤。原則主義指自主、不傷害、行善、正義等生醫倫理框架，不屬題目所問分配正義三大主流理論。\n- D. 正確。社群主義重視共同體價值、社會連帶與制度脈絡，也可作為健康正義分配觀點。\n\n【核心考點】\n分配正義理論常考功利主義、平等主義、社群主義；principlism 是臨床倫理常用框架。",
+      "key_point": "原則主義是生醫倫理四原則框架，不是健康正義分配理論三大類之一。",
+      "flashcard_summary": "Health justice -> principlism is not a distributive justice main theory",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "健康正義三大理論",
+      "flashcard_back": "分配正義常談功利主義、平等主義、社群主義；原則主義屬生醫倫理框架。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_051",
@@ -1075,15 +1281,19 @@
         "D": "嬰兒腎臟排除藥物之能力較成人低"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考嬰兒與成人藥物動力學。嬰兒體水分比例較高、肝腎功能較未成熟；脂肪比例與脂溶性藥物分布不能說比成人高，尤其新生兒脂肪組織較少。\n\n【選項詳解】\n- A. 正確。嬰兒總體水分比例較高，水溶性藥物分布容積可能較大。\n- B. 錯誤。脂溶性藥物分布於脂肪組織的程度不會因嬰兒而較成人高；嬰兒特別是新生兒脂肪比例較低，這句最不適當。\n- C. 正確。嬰兒肝臟代謝酵素尚未成熟，藥物代謝能力通常較成人低。\n- D. 正確。嬰兒腎絲球過濾與腎小管功能未成熟，腎排除能力較低，需調整劑量。\n\n【核心考點】\n嬰兒藥動學：水多、脂肪與蛋白結合不同、肝代謝與腎排除未成熟。",
+      "key_point": "嬰兒體水分比例高，肝腎清除較低；脂溶性藥物脂肪分布不比成人高。",
+      "flashcard_summary": "Infant pharmacokinetics -> higher water, immature liver/kidney, lower fat distribution",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "嬰兒藥物動力學",
+      "flashcard_back": "嬰兒總體水分較高，肝腎功能未成熟；脂肪組織分布不可說較成人高。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_052",
@@ -1096,15 +1306,19 @@
         "D": "sodium-glucose co-transporter 2"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nSulfonylureas 作用在胰臟 beta 細胞 ATP-sensitive potassium channel 的 SUR1 次單元，關閉鉀離子通道，使細胞去極化、鈣離子進入並促進胰島素釋放。\n\n【選項詳解】\n- A. 正確。作用標的是 ATP-sensitive K+ channel；藥物關閉通道後刺激 insulin secretion。\n- B. 錯誤。鈣離子通道是去極化後打開的下游步驟，不是 sulfonylureas 直接結合的主要標的。\n- C. 錯誤。GLUT2 是 beta 細胞葡萄糖感知與攝入相關運輸蛋白，不是 sulfonylureas 的作用標的。\n- D. 錯誤。SGLT2 是腎臟近端小管葡萄糖再吸收運輸蛋白，SGLT2 inhibitors 才作用於此。\n\n【核心考點】\nSulfonylureas 關閉 beta 細胞 ATP-sensitive K+ channel，促進胰島素分泌。",
+      "key_point": "Sulfonylureas 的標的是胰臟 beta 細胞 ATP-sensitive potassium channel。",
+      "flashcard_summary": "Sulfonylureas -> close KATP channel to release insulin",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Sulfonylurea 機轉",
+      "flashcard_back": "關閉 beta 細胞 KATP channel，去極化後開啟 Ca channel，促進 insulin release。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_053",
@@ -1117,15 +1331,19 @@
         "D": "口服可治療膀胱過動症"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 pilocarpine。Pilocarpine 是 muscarinic agonist，可縮瞳、收縮睫狀肌、增加唾液分泌；膀胱過動症通常用抗 muscarinic 藥減少逼尿肌收縮，不會用口服 pilocarpine 治療。\n\n【選項詳解】\n- A. 正確。Pilocarpine 促進副交感作用，口服可造成腹瀉、流汗、流涎等 muscarinic 副作用。\n- B. 正確。刺激睫狀肌收縮可幫助房水經小樑網排出，曾用於青光眼治療。\n- C. 正確。它可增加唾液與淚液分泌，用於 Sjögren syndrome 的口乾症狀。\n- D. 錯誤。膀胱過動症應降低 M3 介導的逼尿肌過度收縮，常用 antimuscarinic 或 beta-3 agonist；pilocarpine 可能加重尿急。\n\n【核心考點】\nPilocarpine 是 muscarinic agonist，用於青光眼與口乾；膀胱過動症不是它的適應症。",
+      "key_point": "Pilocarpine 是 muscarinic agonist，不用來治療膀胱過動症。",
+      "flashcard_summary": "Pilocarpine -> muscarinic agonist for glaucoma/xerostomia, not overactive bladder",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Pilocarpine 適應症",
+      "flashcard_back": "可治青光眼與 Sjögren 口乾；膀胱過動症通常用 antimuscarinic 或 beta-3 agonist。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_054",
@@ -1138,15 +1356,19 @@
         "D": "dantrolene 抑制骨骼肌細胞內之ryanodine receptor channel"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考骨骼肌鬆弛劑機轉。Tizanidine 是中樞 alpha-2 adrenergic receptor agonist，可降低脊髓運動神經元興奮；把它說成拮抗 alpha-2 受體是錯的。\n\n【選項詳解】\n- A. 正確。Diazepam 是 benzodiazepine，增強 GABAA receptor 作用，具中樞肌肉鬆弛效果。\n- B. 正確。Baclofen 是 GABAB receptor agonist，常用於 spasticity。\n- C. 錯誤。Tizanidine 是 alpha-2 agonist，不是 antagonist；它藉抑制興奮性神經傳遞降低肌張力。\n- D. 正確。Dantrolene 作用在骨骼肌 ryanodine receptor，減少肌漿網釋放鈣離子。\n\n【核心考點】\n肌鬆藥機轉配對：diazepam-GABAA，baclofen-GABAB，tizanidine-alpha2 agonist，dantrolene-ryanodine receptor。",
+      "key_point": "Tizanidine 是中樞 alpha-2 agonist，不是 alpha-2 antagonist。",
+      "flashcard_summary": "Muscle relaxants -> tizanidine is alpha-2 agonist",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肌肉鬆弛劑機轉",
+      "flashcard_back": "Tizanidine = alpha-2 agonist；baclofen = GABAB agonist；dantrolene = RyR inhibition。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_055",
@@ -1159,10 +1381,10 @@
         "D": "clavulanic acid"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按藥理概念，aminopenicillin 被 beta-lactamase 分解時，應搭配 beta-lactamase inhibitor；選項中 clavulanic acid 才符合這個功能。\n\n【選項詳解】\n- A. 給分上被接受；概念上 amoxicillin 和 ampicillin 同屬 aminopenicillin，兩者併用不能解決 beta-lactamase 抗藥性。\n- B. 給分上被接受；概念上 penicillin G 也會被許多 staphylococcal beta-lactamase 分解，不能保護 ampicillin。\n- C. 給分上被接受；概念上 cephalexin 是第一代 cephalosporin，不是 beta-lactamase inhibitor，也不是和 ampicillin 併用的保護藥。\n- D. 給分上被接受，且概念上 clavulanic acid 是 beta-lactamase inhibitor，可保護 aminopenicillin 免被水解；臨床常見組合是 amoxicillin-clavulanate，ampicillin 則常見 sulbactam。\n\n【核心考點】\n遇到 beta-lactamase 抗藥性，要想到 beta-lactamase inhibitor；clavulanic acid、sulbactam、tazobactam 是代表。",
+      "key_point": "官方更正一律給分；概念上 beta-lactamase 抗藥性需搭配 beta-lactamase inhibitor。",
+      "flashcard_summary": "All-credit item -> beta-lactamase inhibitor protects aminopenicillins",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -1171,7 +1393,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第55題一律給分"
+      "answer_note": "第55題一律給分",
+      "flashcard_front": "Aminopenicillin + beta-lactamase inhibitor",
+      "flashcard_back": "Clavulanic acid 是 beta-lactamase inhibitor；amoxicillin/ampicillin 彼此併用無法克服 beta-lactamase。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 beta-lactamase inhibitor clavulanic acid 才能保護 aminopenicillin。"
+      ]
     },
     {
       "id": "115-2_medicine-2_056",
@@ -1184,15 +1413,19 @@
         "D": "letrozole 及anastrozole 皆能輔助治療缺乏雌激素受體及黃體素受體表現的癌組織"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考第二、三期乳癌輔助治療。芳香環酶抑制劑 letrozole、anastrozole 用於 hormone receptor-positive 乳癌；若癌組織缺乏 ER/PR，抑制雌激素生成通常沒有輔助治療意義。\n\n【選項詳解】\n- A. 正確。停經後 ER-positive 乳癌可使用 tamoxifen 後接續 aromatase inhibitor，是常見內分泌治療策略。\n- B. 正確。CMF，也就是 cyclophosphamide、methotrexate、fluorouracil，是傳統乳癌輔助化療組合之一。\n- C. 正確。HER2 過度表現時，trastuzumab 可加入 anthracycline/taxane 等輔助治療架構以改善預後，但需注意心毒性。\n- D. 錯誤。Letrozole 與 anastrozole 適合 ER/PR 陽性、依賴雌激素訊號的腫瘤；缺乏 ER/PR 表現時不是有效的內分泌輔助治療。\n\n【核心考點】\n乳癌內分泌治療看 hormone receptor；HER2 陽性看 trastuzumab 等抗 HER2 治療。",
+      "key_point": "Aromatase inhibitors 用於 hormone receptor-positive 乳癌，不用於 ER/PR 陰性腫瘤。",
+      "flashcard_summary": "Breast cancer endocrine therapy -> aromatase inhibitors require hormone receptors",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "乳癌 aromatase inhibitor 適應症",
+      "flashcard_back": "Letrozole/anastrozole 適合停經後 ER/PR 陽性乳癌；ER/PR 陰性不適合內分泌輔助治療。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_057",
@@ -1205,15 +1438,19 @@
         "D": "對於已經投與mefloquine 治療原蟲者,可併用quinine 加強治療效益"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考抗瘧藥。Mefloquine 和 quinine 都可能造成心臟傳導、神經精神與其他毒性，已投與 mefloquine 時不應再併用 quinine 來「加強」療效。\n\n【選項詳解】\n- A. 正確。Chloroquine 可能加重乾癬或引發皮膚問題，乾癬患者使用需避免或謹慎。\n- B. 正確。含鈣、鎂制酸劑可影響某些藥物吸收；chloroquine 與制酸劑同服可能降低吸收，通常要錯開。\n- C. 正確。在部分 chloroquine-resistant P. falciparum 地區，mefloquine 可作為治療或預防選項之一，依地區抗藥性而定。\n- D. 錯誤。Mefloquine 後併用 quinine 會增加毒性風險，特別是心律與神經不良反應，不是加強療效的常規策略。\n\n【核心考點】\n抗瘧藥要注意地區抗藥性與藥物毒性；mefloquine 與 quinine 類藥物不應任意併用。",
+      "key_point": "Mefloquine 治療後不應併用 quinine 來加強療效，會增加毒性。",
+      "flashcard_summary": "Antimalarial safety -> avoid mefloquine plus quinine",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Mefloquine 與 quinine",
+      "flashcard_back": "兩者併用可能增加心臟與神經毒性，不是治療 P. falciparum 的加強策略。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_058",
@@ -1226,15 +1463,19 @@
         "D": "抗利尿激素分泌不當症候群(SIADH)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 vincristine 副作用。Vincristine 主要造成周邊與自主神經毒性，因此常見便秘、腸麻痺、姿勢性低血壓，也可有 SIADH；腹瀉不是典型副作用。\n\n【選項詳解】\n- A. 正確。自主神經病變可造成姿勢性低血壓。\n- B. 錯誤。Vincristine 的腸胃自主神經毒性典型是便秘或麻痺性腸阻塞，不是腹瀉。\n- C. 正確。周邊神經毒性是 vincristine 的經典限制毒性，可有感覺異常、無力等。\n- D. 正確。Vincristine 可引起 SIADH，造成低血鈉。\n\n【核心考點】\nVincristine = neurotoxicity；記便秘/ileus、周邊神經病變、SIADH，而非腹瀉。",
+      "key_point": "Vincristine 典型副作用是神經毒性與便秘，不是腹瀉。",
+      "flashcard_summary": "Vincristine toxicity -> neuropathy, constipation, SIADH",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Vincristine 副作用",
+      "flashcard_back": "常見周邊神經毒性、自主神經毒性、便秘/ileus、SIADH；腹瀉不典型。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_059",
@@ -1247,15 +1488,19 @@
         "D": "ticagrelor"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nP2Y12 receptor 是血小板 ADP 受體，拮抗後可抑制 ADP 促進的血小板活化與凝集。Ticagrelor 是直接、可逆的 P2Y12 antagonist。\n\n【選項詳解】\n- A. 錯誤。Abciximab 是 GP IIb/IIIa receptor inhibitor，阻斷 fibrinogen 橋接血小板，不是 P2Y12。\n- B. 錯誤。Alteplase 是 tPA 類血栓溶解劑，活化 plasminogen 分解纖維蛋白，不是抗血小板 ADP 受體藥。\n- C. 錯誤。Dipyridamole 抑制 PDE 並增加 adenosine，提升血小板 cAMP，不是 P2Y12 antagonist。\n- D. 正確。Ticagrelor 阻斷 ADP P2Y12 receptor，常用於急性冠心症或支架後抗血小板治療。\n\n【核心考點】\nP2Y12 抑制劑包括 clopidogrel、prasugrel、ticagrelor；abciximab 則是 GP IIb/IIIa 抑制劑。",
+      "key_point": "Ticagrelor 是 ADP P2Y12 receptor antagonist，可抑制血小板凝集。",
+      "flashcard_summary": "Antiplatelet drugs -> ticagrelor blocks P2Y12",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "P2Y12 antagonist",
+      "flashcard_back": "Ticagrelor 直接可逆抑制 P2Y12；clopidogrel/prasugrel 也屬 P2Y12 抑制劑。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_060",
@@ -1268,15 +1513,19 @@
         "D": "warfarin"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nAndexanet alfa 是重組 modified factor Xa decoy，用於反轉 apixaban、rivaroxaban 等 factor Xa inhibitor 的抗凝作用。四個選項中 apixaban 最直接符合。\n\n【選項詳解】\n- A. 正確。Apixaban 是直接 factor Xa inhibitor，嚴重或無法控制出血時可考慮 andexanet alfa 作為反轉藥。\n- B. 錯誤。Dabigatran 是直接 thrombin inhibitor，專一反轉藥是 idarucizumab。\n- C. 錯誤。Heparin 的反轉藥是 protamine sulfate，不是 andexanet alfa。\n- D. 錯誤。Warfarin 抑制 vitamin K-dependent factors，反轉常用 vitamin K 與 PCC/FFP，非 andexanet alfa。\n\n【核心考點】\n反轉藥配對：apixaban/rivaroxaban-andexanet alfa，dabigatran-idarucizumab，heparin-protamine，warfarin-vitamin K/PCC。",
+      "key_point": "Andexanet alfa 用於反轉 factor Xa inhibitors，例如 apixaban。",
+      "flashcard_summary": "Anticoagulant reversal -> andexanet alfa for apixaban/rivaroxaban",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Andexanet alfa 反轉藥",
+      "flashcard_back": "Andexanet alfa 反轉 apixaban/rivaroxaban；dabigatran 用 idarucizumab。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_061",
@@ -1289,15 +1538,19 @@
         "D": "fingolimod hydrochloride"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題目關鍵是 sphingosine 1-phosphate receptor 調節，使淋巴球留在淋巴結、減少進入中樞神經。這正是 fingolimod 治療多發性硬化症的機轉。\n\n【選項詳解】\n- A. 錯誤。Interferon beta 可調節免疫與降低 MS relapse，但不是 S1P receptor modulator。\n- B. 錯誤。Glatiramer acetate 模擬 myelin basic protein，偏向誘導免疫偏移與調節 T 細胞反應。\n- C. 錯誤。Natalizumab 是抗 alpha-4 integrin 單株抗體，阻止白血球穿越血腦障壁，不是 S1P 受體藥。\n- D. 正確。Fingolimod 是 S1P receptor modulator，讓淋巴球滯留淋巴結，降低 CNS 發炎細胞浸潤。\n\n【核心考點】\nMS 藥物機轉：fingolimod-S1P，natalizumab-alpha4 integrin，interferon beta-免疫調節。",
+      "key_point": "Fingolimod 是 S1P receptor modulator，可阻止淋巴球離開淋巴結。",
+      "flashcard_summary": "Multiple sclerosis -> fingolimod modulates S1P receptor",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "MS 藥物 S1P receptor",
+      "flashcard_back": "Fingolimod 調節 S1P receptor，使淋巴球滯留淋巴結，降低進入 CNS。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_062",
@@ -1310,15 +1563,19 @@
         "D": "clomiphene"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nAromatase inhibitor 抑制周邊組織把 androgen 轉成 estrogen，常用於停經後 hormone receptor-positive 乳癌。Letrozole 是典型第三代 aromatase inhibitor。\n\n【選項詳解】\n- A. 正確。Letrozole 抑制 aromatase，降低雌激素生成，用於 ER-positive 乳癌內分泌治療。\n- B. 錯誤。Fulvestrant 是 selective estrogen receptor degrader，作用在 ER，不是 aromatase。\n- C. 錯誤。Toremifene 是 SERM，拮抗或調節 estrogen receptor，不抑制 estrogen 合成。\n- D. 錯誤。Clomiphene 是 SERM，常用於誘發排卵，機轉不是 aromatase inhibition。\n\n【核心考點】\nAromatase inhibitors 包括 anastrozole、letrozole、exemestane；SERMs 與 SERDs 作用點在 estrogen receptor。",
+      "key_point": "Letrozole 是 aromatase inhibitor，可降低雌激素生成。",
+      "flashcard_summary": "Breast cancer endocrine drugs -> letrozole inhibits aromatase",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Aromatase inhibitor 藥物",
+      "flashcard_back": "Letrozole/anastrozole/exemestane 抑制 aromatase；fulvestrant 是 SERD。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_063",
@@ -1331,15 +1588,19 @@
         "D": "potassium iodide"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n甲狀腺風暴是嚴重甲狀腺毒症，治療要阻斷交感症狀、抑制新荷爾蒙合成、抑制釋放與周邊 T4 轉 T3。Levothyroxine 是補充 T4，會加重甲狀腺毒症，不適合。\n\n【選項詳解】\n- A. 正確。Propranolol 可控制心搏過速、顫抖等交感症狀，高劑量也可減少 T4 轉 T3。\n- B. 正確。Propylthiouracil 抑制 thyroid peroxidase，並可抑制周邊 T4 轉 T3，是甲狀腺風暴常用藥。\n- C. 錯誤。Levothyroxine 是甲狀腺素補充，會增加甲狀腺素負荷，不能治療 thyroid storm。\n- D. 正確。Potassium iodide 在 thionamide 後使用可抑制甲狀腺素釋放，即 Wolff-Chaikoff effect。\n\n【核心考點】\n甲狀腺風暴治療順序常記 beta-blocker、PTU/methimazole、iodide、glucocorticoid；不要給 T4。",
+      "key_point": "Levothyroxine 會補充 T4，不適合治療甲狀腺風暴。",
+      "flashcard_summary": "Thyroid storm -> treat with blocker/thionamide/iodide, not levothyroxine",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Thyroid storm 禁用藥",
+      "flashcard_back": "Thyroid storm 要抑制甲狀腺素作用與生成；levothyroxine 會加重病情。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_064",
@@ -1352,15 +1613,19 @@
         "D": "具有碳酸酐酶的抑制作用"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 chlorothiazide。Thiazide diuretics 主要作用在遠端彎曲小管，抑制 Na+/Cl- cotransporter；不是近端腎小管。\n\n【選項詳解】\n- A. 錯誤。Chlorothiazide 的主要作用部位是遠端彎曲小管早段，不是近端腎小管。\n- B. 正確。Thiazides 抑制 Na+/Cl- cotransporter，增加鈉氯排泄。\n- C. 正確。Thiazides 會增加遠端小管鈣再吸收，因此可降低尿鈣。\n- D. 正確。Chlorothiazide 具有弱碳酸酐酶抑制作用，但臨床主要機轉仍是 NCC 抑制。\n\n【核心考點】\nThiazide = distal convoluted tubule NCC inhibition，並增加鈣再吸收；loop diuretic 則在 thick ascending limb。",
+      "key_point": "Chlorothiazide 主要作用於遠端彎曲小管的 Na+/Cl- cotransporter。",
+      "flashcard_summary": "Thiazide diuretics -> DCT NaCl cotransporter inhibition",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Chlorothiazide 作用部位",
+      "flashcard_back": "Thiazide 作用在 DCT，抑制 Na+/Cl- cotransporter，增加 Ca 再吸收。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_065",
@@ -1373,15 +1638,19 @@
         "D": "minoxidil"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nACE inhibitor 抑制 angiotensin-converting enzyme，減少 angiotensin II 生成並降低 aldosterone。Enalapril 是 ACE inhibitor 的代表。\n\n【選項詳解】\n- A. 錯誤。Candesartan 是 angiotensin II receptor blocker，阻斷 AT1 receptor，不抑制 ACE。\n- B. 正確。Enalapril 是 ACE inhibitor，可降低 angiotensin II，治療高血壓與心衰竭等。\n- C. 錯誤。Hydralazine 是直接小動脈血管擴張劑，機轉不是 ACE inhibition。\n- D. 錯誤。Minoxidil 開啟 K+ channel 造成血管平滑肌舒張，也不是 ACE inhibitor。\n\n【核心考點】\n常見 ACE inhibitors 字尾是 -pril；ARBs 多為 -sartan。",
+      "key_point": "Enalapril 是 ACE inhibitor；candesartan 是 ARB。",
+      "flashcard_summary": "Antihypertensives -> enalapril inhibits ACE",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "ACE inhibitor 藥名",
+      "flashcard_back": "Enalapril 抑制 ACE；-pril 是 ACE inhibitor，-sartan 是 ARB。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_066",
@@ -1394,15 +1663,19 @@
         "D": "與loop diuretics 合用時,易產生心臟毒性"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 digitalis 毒性。Digoxin 抑制 Na+/K+ ATPase，使細胞內鈣增加；毒性心律不整典型與 delayed afterdepolarizations 有關，不是 early afterdepolarizations。\n\n【選項詳解】\n- A. 正確。Digitalis 毒性可有噁心、嘔吐、腹瀉、視覺異常與多種心律不整。\n- B. 錯誤。Digitalis 造成鈣負荷增加，典型引發 delayed afterdepolarizations；early afterdepolarizations 較常與 QT 延長相關。\n- C. 正確。Digoxin 治療指數小，血中濃度、腎功能與交互作用都需注意。\n- D. 正確。Loop diuretics 可造成低血鉀，低血鉀會增加 digoxin 結合與心臟毒性風險。\n\n【核心考點】\nDigoxin toxicity = narrow therapeutic index、GI/visual symptoms、arrhythmia、DAD；低血鉀會加重毒性。",
+      "key_point": "Digitalis 毒性心律不整典型與 delayed afterdepolarizations 相關。",
+      "flashcard_summary": "Digitalis toxicity -> delayed afterdepolarizations and hypokalemia risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Digitalis 毒性去極化",
+      "flashcard_back": "Digoxin 增加細胞內 Ca，容易造成 DAD；EAD 多和 QT prolongation 相關。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_067",
@@ -1415,15 +1688,19 @@
         "D": "serotonin 5-HT3 receptor"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n支氣管平滑肌舒張最直接來自 beta-2 adrenergic receptor 活化，透過 Gs 增加 cAMP，使平滑肌放鬆。臨床吸入型 beta-2 agonist 是氣喘與 COPD 支氣管擴張常用藥。\n\n【選項詳解】\n- A. 錯誤。Alpha-1 receptor 活化主要使血管平滑肌收縮，不是支氣管擴張的主要受體。\n- B. 正確。Beta-2 receptor 活化會增加 cAMP，鬆弛支氣管平滑肌，是最有效的支氣管擴張受體選項。\n- C. 錯誤。M3 muscarinic receptor 活化會造成支氣管收縮與分泌增加；臨床支氣管擴張是用 muscarinic antagonist。\n- D. 錯誤。5-HT3 receptor 與噁心嘔吐反射相關，拮抗劑如 ondansetron 用於止吐，不是支氣管擴張主軸。\n\n【核心考點】\n支氣管擴張記 beta-2 agonist 與 muscarinic antagonist；M3 活化會收縮，M3 阻斷才擴張。",
+      "key_point": "活化 beta-2 adrenergic receptor 可最有效促進支氣管擴張。",
+      "flashcard_summary": "Bronchodilation -> beta-2 receptor activation",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "支氣管擴張受體",
+      "flashcard_back": "Beta-2 receptor 活化增加 cAMP，鬆弛支氣管平滑肌。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_068",
@@ -1436,10 +1713,10 @@
         "D": "cromolyn"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按藥理概念，enprofylline 是 xanthine/methylxanthine 類支氣管擴張藥，特色是相較 theophylline 幾乎不拮抗 adenosine receptor；tiotropium 則是抗 muscarinic 藥。\n\n【選項詳解】\n- A. 給分上被接受；概念上 tiotropium 是長效 muscarinic antagonist，主要阻斷 M3 receptor，不屬 methylxanthines。\n- B. 給分上被接受，且概念上 enprofylline 是 xanthine 類支氣管擴張藥，幾乎沒有 theophylline 式 adenosine receptor antagonism。\n- C. 給分上被接受；概念上 theophylline 是 methylxanthine，但它會拮抗 adenosine receptor，不符合「不會拮抗 adenosine」。\n- D. 給分上被接受；概念上 cromolyn 是 mast cell stabilizer，用於預防過敏性氣喘反應，不是 methylxanthine。\n\n【核心考點】\nMethylxanthine 類常見 theophylline；enprofylline 特別在於支氣管擴張但 adenosine antagonism 很弱。",
+      "key_point": "官方更正一律給分；概念上 enprofylline 是不具明顯 adenosine antagonism 的 xanthine 類。",
+      "flashcard_summary": "All-credit item -> enprofylline relaxes airway without strong adenosine antagonism",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -1448,7 +1725,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第68題一律給分"
+      "answer_note": "第68題一律給分",
+      "flashcard_front": "Enprofylline 機轉特色",
+      "flashcard_back": "Enprofylline 屬 xanthine 類支氣管擴張藥，幾乎不拮抗 adenosine；tiotropium 是 LAMA。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 enprofylline 為不具明顯 adenosine antagonism 的 xanthine 類。"
+      ]
     },
     {
       "id": "115-2_medicine-2_069",
@@ -1461,15 +1745,19 @@
         "D": "octreotide"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n大腸鏡檢查前常用 polyethylene glycol 作為滲透性瀉劑清腸，並可搭配刺激性瀉劑 bisacodyl 增強腸蠕動與排空。\n\n【選項詳解】\n- A. 正確。Bisacodyl 是 stimulant laxative，常和 PEG 清腸方案搭配使用。\n- B. 錯誤。Erythromycin 是 macrolide 抗生素，也可促進胃排空，但不是大腸鏡 PEG 清腸最常搭配藥。\n- C. 錯誤。Lubiprostone 是 chloride channel activator，用於慢性便秘或 IBS-C，不是檢查前標準搭配。\n- D. 錯誤。Octreotide 是 somatostatin analog，可抑制多種分泌，並非清理大腸藥。\n\n【核心考點】\n大腸鏡清腸常見 PEG 加 stimulant laxative；bisacodyl 可促進腸蠕動。",
+      "key_point": "Bisacodyl 可與 PEG 搭配作大腸鏡前清腸。",
+      "flashcard_summary": "Bowel prep -> PEG plus bisacodyl",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "大腸鏡 PEG 搭配",
+      "flashcard_back": "PEG 常搭配 bisacodyl 這類刺激性瀉劑促進清腸。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_070",
@@ -1482,15 +1770,19 @@
         "D": "febuxostat"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nPegloticase 是重組 uricase，可把尿酸氧化成水溶性更高的 allantoin，用於難治性慢性痛風。人類缺乏功能性 uricase，因此這個機轉很有辨識度。\n\n【選項詳解】\n- A. 錯誤。Probenecid 是 uricosuric drug，抑制近端小管尿酸再吸收，增加尿酸排泄，但不把尿酸轉成 allantoin。\n- B. 正確。Pegloticase 具有 uricase 活性，可將 uric acid 轉為 allantoin 排出。\n- C. 錯誤。Sulfinpyrazone 也是促尿酸排泄藥，不是 uricase。\n- D. 錯誤。Febuxostat 抑制 xanthine oxidase，減少尿酸生成，不把已形成的尿酸轉為 allantoin。\n\n【核心考點】\n痛風藥分三類：減少生成 xanthine oxidase inhibitors、增加排泄 uricosurics、分解尿酸 pegloticase。",
+      "key_point": "Pegloticase 是 uricase，可將尿酸轉變成 allantoin。",
+      "flashcard_summary": "Gout therapy -> pegloticase converts uric acid to allantoin",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Pegloticase 機轉",
+      "flashcard_back": "Pegloticase 分解 uric acid 成 allantoin，用於難治性痛風。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_071",
@@ -1503,15 +1795,19 @@
         "D": "aprotinin"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n遺傳性血管性水腫與 bradykinin 過多造成血管通透性上升有關。Icatibant 是 bradykinin B2 receptor antagonist，可用於急性發作治療。\n\n【選項詳解】\n- A. 錯誤。Aliskiren 是 direct renin inhibitor，用於高血壓，作用於 RAAS 上游。\n- B. 錯誤。Captopril 是 ACE inhibitor；ACE inhibition 反而可增加 bradykinin，造成咳嗽或血管性水腫副作用。\n- C. 正確。Icatibant 阻斷 bradykinin B2 receptor，可治療 hereditary angioedema 急性發作。\n- D. 錯誤。Aprotinin 是 serine protease inhibitor，歷史上用於減少出血，不是 B2 receptor antagonist。\n\n【核心考點】\nHereditary angioedema 急性治療可用 icatibant；它阻斷 bradykinin B2 receptor。",
+      "key_point": "Icatibant 是 bradykinin B2 receptor antagonist，用於遺傳性血管性水腫。",
+      "flashcard_summary": "Hereditary angioedema -> icatibant blocks bradykinin B2 receptor",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Hereditary angioedema 藥物",
+      "flashcard_back": "Icatibant 阻斷 bradykinin B2 receptor，可治療急性發作。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_072",
@@ -1524,15 +1820,19 @@
         "D": "aspirin"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n兒童病毒感染發燒時使用 aspirin，特別與 influenza 或 varicella 相關，會增加 Reye syndrome 風險。臨床通常改用 acetaminophen 等較安全退燒藥。\n\n【選項詳解】\n- A. 錯誤。Acetaminophen 是兒童退燒常用選擇，主要風險是過量肝毒性，不是 Reye syndrome 的典型藥物。\n- B. 錯誤。Ibuprofen 可用於部分兒童退燒止痛，雖有腎臟、胃腸或水痘皮膚感染等注意事項，但 Reye syndrome 連結最典型是 aspirin。\n- C. 錯誤。Celecoxib 是 COX-2 inhibitor，不是兒童病毒發燒 Reye syndrome 的標準考點。\n- D. 正確。Aspirin/salicylates 用於兒童病毒感染時與 Reye syndrome 相關，應避免。\n\n【核心考點】\n兒童或青少年病毒感染退燒避免 aspirin，因為可能誘發 Reye syndrome。",
+      "key_point": "兒童病毒感染使用 aspirin 會增加 Reye syndrome 風險。",
+      "flashcard_summary": "Reye syndrome -> aspirin in viral illness",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Reye syndrome 藥物",
+      "flashcard_back": "兒童 influenza/varicella 等病毒感染避免 aspirin；退燒常用 acetaminophen。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_073",
@@ -1545,15 +1845,19 @@
         "D": "flurazepam 的血中半衰期比alprazolam 長"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 benzodiazepines。BZD 結合位點位於 GABAA receptor 的 alpha 與 gamma subunit 交界，不是 alpha 與 beta 之間。\n\n【選項詳解】\n- A. 正確。Benzodiazepines 作用在 ionotropic GABAA receptor，增強 GABA 開啟 chloride channel 的頻率。\n- B. 錯誤。BZD 結合位點在 alpha-gamma interface；GABA 本身的結合位點才與 beta-alpha interface 相關。\n- C. 正確。BZD 需要 GABA 存在才能增強作用，單獨不直接開啟 chloride channel，因此比 barbiturate 安全。\n- D. 正確。Flurazepam 具長效活性代謝物，半衰期通常比 alprazolam 長。\n\n【核心考點】\nBZD 作用 GABAA、增加 chloride channel 開啟頻率、需 GABA 存在；結合位點是 alpha-gamma。",
+      "key_point": "Benzodiazepine 結合位點在 GABAA receptor 的 alpha 與 gamma subunit 之間。",
+      "flashcard_summary": "Benzodiazepines -> GABAA alpha-gamma binding site",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "BZD 結合位點",
+      "flashcard_back": "BZD bind at alpha-gamma interface；GABA bind at alpha-beta interface。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_074",
@@ -1566,15 +1870,19 @@
         "D": "nicotine"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題以藥理考試的相對成癮風險作比較。Nicotine 與 alcohol 的成癮與戒斷風險高，cannabinoids 也可形成 cannabis use disorder；ketamine 雖有濫用與心理依賴風險，但在四者中通常被列為較低。\n\n【選項詳解】\n- A. 正確。Ketamine 可被濫用，仍需嚴格管制；但相較 nicotine、alcohol 與 cannabinoids，傳統考試分類常把其成癮風險列得較低。\n- B. 錯誤。Cannabinoids 可造成使用疾患、耐受與戒斷，成癮風險不是四者最低。\n- C. 錯誤。Alcohol 具有明顯獎賞、耐受與危險戒斷，成癮負擔很高。\n- D. 錯誤。Nicotine 是高度成癮物質，強化效果與戒斷症狀都明顯。\n\n【核心考點】\n比較成癮風險時，nicotine 與 alcohol 通常高；ketamine 有濫用風險但在本題四選項中最低。",
+      "key_point": "本題四者相較，ketamine 的成癮風險最低，但仍有濫用與依賴風險。",
+      "flashcard_summary": "Addiction risk -> ketamine lowest among listed options in this exam context",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "成癮風險比較",
+      "flashcard_back": "Nicotine、alcohol 成癮性高；cannabinoids 也可成癮；ketamine 在四者中相對最低。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_075",
@@ -1587,15 +1895,19 @@
         "D": "無機砷鹽"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n顫抖、牙齦口炎、肢痛病、周邊神經病變與肺炎，組合指向汞中毒，特別是汞蒸氣或無機汞相關表現。汞可造成神經、口腔黏膜、腎臟與呼吸道毒性。\n\n【選項詳解】\n- A. 錯誤。無機鉛常造成腹痛、貧血、周邊神經病變、腎毒性與兒童神經發育傷害，但牙齦口炎與肢痛病搭配更像汞。\n- B. 錯誤。有機鉛偏中樞神經毒性，可有精神症狀與腦病變，不是此題典型組合。\n- C. 正確。汞元素暴露可造成 tremor、gingivostomatitis、acrodynia、周邊神經病變及吸入後肺炎。\n- D. 錯誤。無機砷鹽常見胃腸症狀、周邊神經病變、皮膚色素沉著與角化、癌症風險，和牙齦口炎/汞顫抖不合。\n\n【核心考點】\n汞中毒記 tremor、gingivostomatitis、erethism、acrodynia、神經與腎毒性；吸入汞蒸氣可傷肺。",
+      "key_point": "汞中毒可造成顫抖、牙齦口炎、肢痛病與周邊神經病變。",
+      "flashcard_summary": "Mercury toxicity -> tremor, gingivostomatitis, acrodynia, neuropathy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "汞中毒表現",
+      "flashcard_back": "Mercury poisoning：tremor、gingivostomatitis、acrodynia、neuropathy，可有肺炎。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_076",
@@ -1608,15 +1920,19 @@
         "D": "atrophy"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考細胞適應與惡性變化的關聯。化生是成熟細胞型態被另一種成熟細胞型態取代，常因慢性刺激而生；長期化生可進一步發展為 dysplasia 與 carcinoma。\n\n【選項詳解】\n- A. 錯誤。Hypertrophy 是細胞變大，常見於肌肉或心肌負荷增加，本身與惡性轉化關聯不如化生直接。\n- B. 錯誤。Aplasia 是器官或組織未發育，不是慢性刺激後癌前變化的典型細胞適應。\n- C. 正確。Metaplasia 可在慢性刺激下出現，例如支氣管鱗狀化生或 Barrett esophagus，若刺激持續可增加惡性變化風險。\n- D. 錯誤。Atrophy 是細胞縮小或數量減少，常因失用、缺血、營養不足或去神經化造成，與癌前進程不如化生典型。\n\n【核心考點】\n化生本身可逆，但代表慢性刺激；持續刺激可進展為 dysplasia，進一步增加癌化風險。",
+      "key_point": "Metaplasia 是和惡性轉化風險最密切的細胞適應。",
+      "flashcard_summary": "Cell adaptation -> metaplasia can precede dysplasia and cancer",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "細胞適應與癌化",
+      "flashcard_back": "Metaplasia 可因慢性刺激而生，持續刺激可進展 dysplasia/carcinoma。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_077",
@@ -1629,15 +1945,19 @@
         "D": "mucinous carcinoma of colon"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nPsammoma body 是同心圓狀鈣化，常見於 papillary thyroid carcinoma、serous papillary ovarian tumor、meningioma 等。選項中最典型是甲狀腺乳突癌。\n\n【選項詳解】\n- A. 正確。Papillary carcinoma of thyroid 常見乳突結構、Orphan Annie eye nuclei、核溝與 psammoma bodies。\n- B. 錯誤。乳房 ductal carcinoma 可有鈣化，但 psammoma body 不是其最典型顯微特徵。\n- C. 錯誤。胰臟 acinar cell carcinoma 以腺泡分化與酵素顆粒相關特徵為主，不以砂粒體著稱。\n- D. 錯誤。結腸 mucinous carcinoma 以大量細胞外黏液為特色，不是 psammoma body 經典腫瘤。\n\n【核心考點】\nPsammoma body 常考 PTC、papillary serous cystadenocarcinoma、meningioma；甲狀腺乳突癌最直覺。",
+      "key_point": "甲狀腺乳突癌容易見 psammoma bodies。",
+      "flashcard_summary": "Psammoma bodies -> papillary thyroid carcinoma",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Psammoma body 常見腫瘤",
+      "flashcard_back": "Papillary thyroid carcinoma、serous papillary ovarian carcinoma、meningioma 都可見砂粒體。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_078",
@@ -1650,15 +1970,19 @@
         "D": "類風濕因子(rheumatoid factor)陽性常見於此病"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nSjögren syndrome 是自體免疫破壞淚腺與唾液腺，常有 anti-SS-A/Ro、anti-SS-B/La、ANA 與 rheumatoid factor。題目要找具備的特徵，RF 陽性常見最穩。\n\n【選項詳解】\n- A. 錯誤。Sjögren 可有腎小管間質性腎炎與 distal RTA，常見腎絲球病變不是主要特徵。\n- B. 錯誤。Anti-SS-A 或 anti-SS-B 是重要相關抗體，但並非完全專一於 Sjögren，SLE 等也可出現。\n- C. 錯誤。Sjögren 增加的是 B 細胞非何杰金淋巴瘤，尤其 MALT lymphoma，不是最常見 T 細胞淋巴瘤。\n- D. 正確。Rheumatoid factor 陽性在 Sjögren syndrome 常見，也反映 B 細胞活化與自體抗體生成。\n\n【核心考點】\nSjögren 記乾眼乾口、anti-SSA/SSB、RF 常陽性、B cell MALT lymphoma 風險上升。",
+      "key_point": "Sjögren syndrome 常見 rheumatoid factor 陽性，且增加 B 細胞 MALT lymphoma 風險。",
+      "flashcard_summary": "Sjögren -> RF positivity and B-cell lymphoma risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Sjögren syndrome 特徵",
+      "flashcard_back": "乾眼乾口、anti-SSA/SSB、RF 陽性，併發 B cell MALT lymphoma 風險增加。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_079",
@@ -1671,15 +1995,19 @@
         "D": "接觸性皮膚炎(contact dermatitis)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n第二型過敏反應是抗體針對細胞表面或基質抗原，造成細胞破壞或受體功能改變。重症肌無力由抗 acetylcholine receptor 抗體造成神經肌肉傳遞障礙，屬第二型過敏反應。\n\n【選項詳解】\n- A. 正確。Myasthenia gravis 是抗 ACh receptor 抗體造成受體功能阻斷與破壞，屬 type II hypersensitivity。\n- B. 錯誤。Lupus nephritis 主要是免疫複合物沉積造成，屬第三型過敏反應。\n- C. 錯誤。Serum sickness 是典型第三型過敏反應，與循環免疫複合物沉積有關。\n- D. 錯誤。Contact dermatitis 是 T cell-mediated delayed type IV hypersensitivity。\n\n【核心考點】\nType II 是抗體打細胞或受體；myasthenia gravis、Graves disease、autoimmune hemolytic anemia 都是常考例子。",
+      "key_point": "重症肌無力是抗 acetylcholine receptor 抗體造成的第二型過敏反應。",
+      "flashcard_summary": "Hypersensitivity -> myasthenia gravis is type II",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Type II hypersensitivity 例子",
+      "flashcard_back": "Myasthenia gravis 屬 type II；lupus nephritis/serum sickness 屬 type III；contact dermatitis 屬 type IV。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_080",
@@ -1692,15 +2020,19 @@
         "D": "全民健康保險的實施"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n臺灣子宮頸癌死亡率長期下降，最重要公共衛生因素是子宮頸抹片篩檢普及，能早期發現癌前病變與早期癌並治療。HPV 疫苗很重要，但對過去 20 年死亡率下降的貢獻不如篩檢時間長。\n\n【選項詳解】\n- A. 正確。Pap smear 普及屬篩檢與早期治療，可大幅降低侵襲性子宮頸癌與死亡率。\n- B. 錯誤。HPV 疫苗可預防高風險 HPV 感染，但導入時間與族群涵蓋使其不是臺灣這 20 年死亡率下降的最主要原因。\n- C. 錯誤。口服避孕藥不是降低子宮頸癌死亡率的主要公共衛生措施。\n- D. 錯誤。全民健保提高可近性，但子宮頸癌死亡下降最直接的制度性工具仍是抹片篩檢。\n\n【核心考點】\n子宮頸癌死亡率下降的經典答案是 Pap smear 篩檢；HPV vaccine 主要是預防感染與未來癌症負擔。",
+      "key_point": "子宮頸抹片普及是臺灣子宮頸癌死亡率下降的最重要原因。",
+      "flashcard_summary": "Cervical cancer mortality -> Pap smear screening lowered deaths",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "子宮頸癌死亡率下降原因",
+      "flashcard_back": "Pap smear 篩檢可早期發現癌前病變與早期癌，是死亡率下降主因。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_081",
@@ -1713,15 +2045,19 @@
         "D": "不再損失心肌細胞"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考再灌流傷害。急性心肌梗塞後恢復血流雖能挽救缺血區，但也可因自由基、鈣超載、白血球發炎與微血管傷害造成額外心肌細胞死亡。\n\n【選項詳解】\n- A. 正確。再灌流後壞死心肌的酵素與 troponin 可持續釋出或出現 washout 現象，血中濃度仍可能上升。\n- B. 正確。氧氣重新供應會增加 reactive oxygen species，參與再灌流傷害。\n- C. 正確。白血球聚集與發炎介質會加重組織傷害。\n- D. 錯誤。再灌流不是完全停止心肌細胞損失；reperfusion injury 本身可造成額外壞死或凋亡。\n\n【核心考點】\n再灌流可救心肌，也可傷心肌；ROS、鈣超載與白血球發炎是 reperfusion injury 三大關鍵。",
+      "key_point": "心肌再灌流仍可因 ROS、鈣超載與白血球造成額外心肌損傷。",
+      "flashcard_summary": "Reperfusion injury -> ROS and inflammation can kill myocardium",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "心肌 reperfusion injury",
+      "flashcard_back": "再灌流可增加 ROS、白血球聚集與細胞死亡，並非不再損失心肌。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_082",
@@ -1734,15 +2070,19 @@
         "D": "Libman-Sacks 氏心內膜炎(Libman-Sacks disease)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nNBTE 是無菌性血栓性心內膜炎，vegetations 主要由血小板與纖維蛋白構成，發炎細胞很少。感染性心內膜炎則有大量微生物與發炎反應。\n\n【選項詳解】\n- A. 正確。Nonbacterial thrombotic endocarditis 的 vegetation 通常較脆、無菌、發炎細胞少。\n- B. 錯誤。細菌性心內膜炎含微生物、壞死碎屑與大量發炎細胞，不是最少發炎。\n- C. 錯誤。人工瓣膜感染性心內膜炎仍屬感染性病灶，可有明顯發炎與破壞。\n- D. 錯誤。Libman-Sacks endocarditis 與 SLE 相關，可有免疫複合物與發炎成分，比 NBTE 更有免疫發炎背景。\n\n【核心考點】\nNBTE 的 vegetation 是 bland thrombi，血小板與 fibrin 為主，發炎細胞最少。",
+      "key_point": "NBTE 的心內膜 vegetation 發炎細胞最少，主要是血小板與纖維蛋白。",
+      "flashcard_summary": "Endocarditis -> NBTE has bland vegetations with minimal inflammation",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "NBTE vegetation",
+      "flashcard_back": "Nonbacterial thrombotic endocarditis 是 bland sterile thrombi，發炎細胞少。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_083",
@@ -1755,15 +2095,19 @@
         "D": "先天基因突變"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考擴大性心肌病變原因。酒精、心肌炎後遺症與基因突變都是 DCM 常見原因；放射線治療較典型造成心包膜、瓣膜、冠狀動脈或限制性纖維化問題，不是典型 DCM 原因。\n\n【選項詳解】\n- A. 正確。長期酒精使用可造成毒性心肌病變與 DCM。\n- B. 正確。病毒性或免疫性心肌炎後可留下擴大性心肌病變。\n- C. 錯誤。放射線相關心臟病以纖維化、限制性變化、心包膜病變或冠狀動脈疾病較典型，不是 DCM 經典病因。\n- D. 正確。遺傳突變，例如細胞骨架或 sarcomere 蛋白相關基因，可造成家族性 DCM。\n\n【核心考點】\nDCM 常見原因：酒精、心肌炎、doxorubicin、圍產期、遺傳；放射線纖維化較偏限制或心包/瓣膜病。",
+      "key_point": "放射線治療造成纖維化不是擴大性心肌病變的典型原因。",
+      "flashcard_summary": "Dilated cardiomyopathy -> alcohol, myocarditis, genetics; not radiation fibrosis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "DCM 原因",
+      "flashcard_back": "DCM 可由酒精、心肌炎後、基因突變等造成；放射線纖維化較偏限制性/心包病變。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_084",
@@ -1776,15 +2120,19 @@
         "D": "類癌(carcinoid)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n抗乙醯膽鹼受器抗體造成重症肌無力，加上前縱隔腫瘤，最典型是胸腺瘤。胸腺與 T 細胞教育、自體耐受相關，因此胸腺瘤可伴隨 MG。\n\n【選項詳解】\n- A. 錯誤。鱗狀細胞癌可出現在肺或其他部位，但和 MG 及前縱隔腫瘤的經典配對不如胸腺瘤。\n- B. 錯誤。畸胎瘤可發生在前縱隔，但不典型伴隨 anti-ACh receptor antibody 的 MG。\n- C. 正確。Thymoma 是前縱隔腫瘤，常與 myasthenia gravis 相關。\n- D. 錯誤。類癌可發生於胸腺或支氣管，但和本題 MG 線索不如 thymoma。\n\n【核心考點】\n前縱隔腫瘤加重症肌無力，先選 thymoma。",
+      "key_point": "Thymoma 是與 myasthenia gravis 經典相關的前縱隔腫瘤。",
+      "flashcard_summary": "Anterior mediastinal mass -> thymoma associated with myasthenia gravis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "前縱隔腫瘤 + MG",
+      "flashcard_back": "抗 ACh receptor 抗體、肌無力、前縱隔腫瘤最可能是 thymoma。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_085",
@@ -1797,15 +2145,19 @@
         "D": "骨髓中的造血細胞(hematopoietic cells)形態正常"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n骨髓化生不良症候群是造血幹細胞克隆性疾病，多見於老年人，骨髓造血細胞形態異常但無效造血，外周血常呈 cytopenia，且有進展成 AML 的風險。\n\n【選項詳解】\n- A. 正確。MDS 約有一部分病人會進展成 AML，題目所列 10%-40% 符合常見病理考點。\n- B. 錯誤。MDS 多見於老年人，不是兒童與青少年為主。\n- C. 錯誤。MDS 的外周血通常是貧血、白血球低下或血小板低下等 cytopenias，不是三系都偏高。\n- D. 錯誤。骨髓中造血細胞有 dysplasia，例如核形異常、環狀鐵粒幼細胞或小巨核細胞等。\n\n【核心考點】\nMDS = elderly、dysplastic marrow、ineffective hematopoiesis、peripheral cytopenias、AML risk。",
+      "key_point": "MDS 可進展為 AML，且外周血常為 cytopenia 而非血球增加。",
+      "flashcard_summary": "MDS -> dysplasia, cytopenias, AML progression risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "MDS 特徵",
+      "flashcard_back": "老年人常見，骨髓 dysplasia、無效造血、外周血 cytopenias，部分進展 AML。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_086",
@@ -1818,15 +2170,19 @@
         "D": "常見突變的基因有CDKN2A、BAP1、NF2"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考惡性間皮瘤。惡性間皮瘤預後差，多數病人存活不超過兩年；它可發生於肋膜，需和肺腺癌轉移鑑別，並常有 BAP1、NF2、CDKN2A 等基因異常。\n\n【選項詳解】\n- A. 正確。惡性間皮瘤可發生在臟側或壁側肋膜，常呈瀰漫性包繞肺部。\n- B. 錯誤。惡性間皮瘤預後通常不佳，多數病人無法存活超過兩年。\n- C. 正確。肺腺癌轉移到肋膜是重要鑑別診斷，可用 calretinin、WT1、D2-40、TTF-1 等免疫染色組合判斷。\n- D. 正確。BAP1、NF2、CDKN2A 等基因改變是惡性間皮瘤常見分子異常。\n\n【核心考點】\n惡性間皮瘤與石綿暴露、肋膜瀰漫腫瘤、預後差、BAP1/NF2/CDKN2A 改變相關。",
+      "key_point": "惡性間皮瘤預後差，多數病人存活不超過兩年。",
+      "flashcard_summary": "Mesothelioma -> pleural tumor with poor survival",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "惡性間皮瘤預後",
+      "flashcard_back": "Malignant mesothelioma 常發生肋膜、預後差，常見 BAP1/NF2/CDKN2A 改變。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_087",
@@ -1839,15 +2195,19 @@
         "D": "最常見於肋膜"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n孤立性纖維瘤是間葉性腫瘤，最常見於肋膜，也可發生於多處軟組織。典型免疫染色為 CD34 與 STAT6 陽性，和石綿暴露關係不像惡性間皮瘤那樣密切。\n\n【選項詳解】\n- A. 錯誤。Keratin 陽性較支持上皮性腫瘤或間皮瘤；solitary fibrous tumor 通常不是 keratin 陽性為主。\n- B. 錯誤。SFT 常見 CD34 陽性，近年也常用 nuclear STAT6 幫助診斷。\n- C. 錯誤。石綿暴露與惡性間皮瘤關聯強，SFT 不以石綿暴露為典型病因。\n- D. 正確。SFT 最經典發生部位是肋膜，雖然也可在胸膜外部位出現。\n\n【核心考點】\nSolitary fibrous tumor：pleura、CD34 positive、STAT6 nuclear positive，和 asbestos 不強相關。",
+      "key_point": "孤立性纖維瘤最常見於肋膜，常 CD34/STAT6 陽性。",
+      "flashcard_summary": "SFT -> pleural mesenchymal tumor, CD34/STAT6 positive",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Solitary fibrous tumor",
+      "flashcard_back": "最常見於 pleura；CD34 與 nuclear STAT6 常陽性，不是 asbestos 相關腫瘤。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_088",
@@ -1860,15 +2220,19 @@
         "D": "2314"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n大葉性肺炎典型四期順序為充血期、紅色肝變期、灰色肝變期、緩解期。題目代號是 3、2、1、4。\n\n【選項詳解】\n- A. 錯誤。此排序把灰色肝變放在紅色肝變前，順序不對。\n- B. 正確。3 充血期先發生，接著 2 紅色肝變，然後 1 灰色肝變，最後 4 緩解期。\n- C. 錯誤。充血後應先紅色肝變，不是灰色肝變。\n- D. 錯誤。紅色肝變前還有充血期，不能以 2 開頭。\n\n【核心考點】\nLobar pneumonia 四期：congestion -> red hepatization -> gray hepatization -> resolution。",
+      "key_point": "大葉性肺炎順序是充血、紅色肝變、灰色肝變、緩解。",
+      "flashcard_summary": "Lobar pneumonia -> congestion, red, gray, resolution",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "大葉性肺炎四期順序",
+      "flashcard_back": "Congestion -> red hepatization -> gray hepatization -> resolution，即 3-2-1-4。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_089",
@@ -1881,15 +2245,19 @@
         "D": "與十二指腸潰瘍有關"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 H. pylori 胃炎。幽門螺旋桿菌最常定殖在胃竇黏液層與表面上皮附近，胃竇通常比胃體更容易受感染；說胃體比胃竇更容易感染不適當。\n\n【選項詳解】\n- A. 錯誤。H. pylori 典型先以 antrum 為主，胃體為主的感染常見於長期病程或特定酸分泌狀態，不是通常情況。\n- B. 正確。H. pylori 慢性胃炎可與 hyperplastic/inflammatory polyps 相關。\n- C. 正確。菌體常位於表面與頸部區域上皮細胞表面的黏液層中，而不是深入腺體底部。\n- D. 正確。H. pylori 與十二指腸潰瘍關聯密切，常透過胃竇胃炎與酸分泌改變造成。\n\n【核心考點】\nH. pylori 喜歡胃竇表面黏液層，與慢性胃炎、十二指腸潰瘍、MALToma 和胃癌風險相關。",
+      "key_point": "H. pylori 通常以胃竇感染較典型，不是胃體比胃竇更容易。",
+      "flashcard_summary": "H. pylori gastritis -> antrum-predominant colonization",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "H. pylori 感染部位",
+      "flashcard_back": "H. pylori 常在 antrum 表面黏液層，與十二指腸潰瘍和 MALToma 相關。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_090",
@@ -1902,15 +2270,19 @@
         "D": "胃MALT 瘤(MALToma)相關的最常見基因易位是t(9;22)(q21;q21)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考胃 MALT lymphoma。胃最常見淋巴瘤是 extranodal marginal zone B-cell lymphoma，常由 H. pylori 驅動；常見易位包括 t(11;18)(q21;q21)，不是 t(9;22)。\n\n【選項詳解】\n- A. 正確。胃淋巴瘤以 extranodal marginal zone B-cell lymphoma of MALT type 最典型。\n- B. 正確。H. pylori 感染是胃 MALToma 重要誘發因素，早期可因根除治療而退縮。\n- C. 正確。轉化成 diffuse large B-cell lymphoma 常與更多基因異常累積有關，包括 p53、p16 失活。\n- D. 錯誤。t(9;22) 是 Philadelphia chromosome，典型見於 CML；胃 MALToma 常考 t(11;18)(API2-MALT1)。\n\n【核心考點】\n胃 MALToma 與 H. pylori、邊緣區 B 細胞、t(11;18) 相關；t(9;22) 是 CML。",
+      "key_point": "胃 MALToma 常見 t(11;18)，不是 t(9;22)。",
+      "flashcard_summary": "Gastric MALT lymphoma -> H. pylori and t(11;18), not Philadelphia",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "胃 MALToma 易位",
+      "flashcard_back": "胃 MALT lymphoma 常與 H. pylori 相關，常考 t(11;18)(API2-MALT1)。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_091",
@@ -1923,15 +2295,19 @@
         "D": "與IgG4 相關疾病(IgG4-related disease)有關"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考第一型自體免疫胰臟炎。Type 1 AIP 屬 IgG4-related disease，病理有淋巴漿細胞浸潤、纖維化與閉塞性靜脈炎；CFTR 或 PRSS1 突變較和遺傳性/慢性胰臟炎相關。\n\n【選項詳解】\n- A. 錯誤。CFTR、PRSS1 突變不是 type 1 autoimmune pancreatitis 的典型特徵。\n- B. 正確。IgG4 相關 AIP 常見許多 plasma cells 浸潤與 storiform fibrosis。\n- C. 正確。Obliterative phlebitis 是 IgG4-related disease 的重要病理線索之一。\n- D. 正確。Type 1 AIP 是 IgG4-related disease 在胰臟的表現，可合併其他器官 IgG4 病變。\n\n【核心考點】\nType 1 autoimmune pancreatitis = IgG4-related disease、lymphoplasmacytic infiltrate、fibrosis、obliterative phlebitis。",
+      "key_point": "Type 1 AIP 與 IgG4-related disease 相關，不是 CFTR/PRSS1 突變疾病。",
+      "flashcard_summary": "AIP type 1 -> IgG4-related disease, not CFTR/PRSS1 mutation",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Type 1 autoimmune pancreatitis",
+      "flashcard_back": "IgG4-related disease，常見 plasma cell infiltration、fibrosis、obliterative phlebitis。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_092",
@@ -1944,15 +2320,19 @@
         "D": "膈細胞(mesangial cells)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n多瘤病毒在腎臟常指 BK virus，尤其在腎移植或免疫低下者造成腎病變。它主要感染腎小管上皮細胞，造成核內包涵體。\n\n【選項詳解】\n- A. 正確。BK polyomavirus 常感染 tubular epithelial cells，可見病毒性核內包涵體與腎小管傷害。\n- B. 錯誤。Podocytes 與足突融合、蛋白尿疾病較相關，不是 BK virus 最常感染產生 inclusion 的細胞。\n- C. 錯誤。Monocytes 可參與免疫反應，但不是腎臟內典型包涵體細胞。\n- D. 錯誤。Mesangial cells 位於腎絲球，與 IgA nephropathy、MPGN 等較相關，不是 polyomavirus nephropathy 主要靶細胞。\n\n【核心考點】\nBK virus nephropathy：免疫低下/腎移植、腎小管上皮細胞、核內包涵體。",
+      "key_point": "BK polyomavirus 最常感染腎小管上皮細胞並產生核內包涵體。",
+      "flashcard_summary": "BK polyomavirus -> tubular epithelial intranuclear inclusions",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Polyomavirus 腎臟靶細胞",
+      "flashcard_back": "BK virus nephropathy 主要侵犯 tubular epithelial cells，可見 intranuclear inclusions。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_093",
@@ -1965,15 +2345,19 @@
         "D": "TP53 和 RB"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n膀胱扁平原位癌是高級別、平坦病灶，常走 TP53/RB 失活路徑。這和低級別乳突狀尿路上皮腫瘤常見 FGFR3/RAS 路徑不同。\n\n【選項詳解】\n- A. 錯誤。TSC1/TSC2 與 mTOR 路徑、結節性硬化症相關，不是膀胱 CIS 最常見突變組合。\n- B. 錯誤。RAS/FGFR3 常見於低級別乳突狀尿路上皮腫瘤，不是 flat CIS 的代表。\n- C. 錯誤。EWS-FLI1 是 Ewing sarcoma 的典型融合，不是膀胱 CIS。\n- D. 正確。TP53 與 RB 路徑異常是高級別 flat carcinoma in situ 的典型分子改變。\n\n【核心考點】\n膀胱腫瘤兩路徑：低級別乳突狀常 FGFR3/RAS；高級別 CIS/invasive 常 TP53/RB。",
+      "key_point": "膀胱扁平原位癌常見 TP53 與 RB 異常。",
+      "flashcard_summary": "Bladder CIS -> TP53 and RB mutations",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "膀胱 CIS 突變",
+      "flashcard_back": "Flat carcinoma in situ 是高級別路徑，常見 TP53/RB；低級別 papillary 才常 FGFR3/RAS。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_094",
@@ -1986,15 +2370,19 @@
         "D": "電子顯微鏡下可見免疫沉澱物主要沉著於膈細胞(mesangial cells)下方,造成基底膜增厚"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n原發性膜性腎病變是成人 nephrotic syndrome 常見原因，許多病人有 anti-PLA2R antibody。病理為上皮下免疫沉積造成 GBM 增厚，EM 可見 subepithelial deposits。\n\n【選項詳解】\n- A. 正確。原發性 membranous nephropathy 多數可偵測 anti-phospholipase A2 receptor 抗體。\n- B. 錯誤。次發性膜性腎病變可由感染、腫瘤、藥物、自體免疫等誘發，但不是大多數有 anti-basement membrane 抗體；anti-GBM 是另一類疾病。\n- C. 錯誤。銳角狀分叉或 tram-track 加上 mesangial proliferation 較像 membranoproliferative GN，不是典型膜性腎病變。\n- D. 錯誤。膜性腎病變沉積物主要在 subepithelial，不是 mesangial 下方。\n\n【核心考點】\nPrimary membranous nephropathy：anti-PLA2R、subepithelial immune deposits、spike and dome、nephrotic syndrome。",
+      "key_point": "原發性膜性腎病變多數與 anti-PLA2R antibody 相關。",
+      "flashcard_summary": "Membranous nephropathy -> anti-PLA2R and subepithelial deposits",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Primary membranous nephropathy",
+      "flashcard_back": "Anti-PLA2R、subepithelial deposits、GBM thickening/spike and dome。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_095",
@@ -2007,17 +2395,21 @@
         "D": "畸胎瘤(teratoma)是兒童最常見的生殖細胞腫瘤"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n隱睪症是睪丸生殖細胞腫瘤風險因子，即使是單側隱睪，雙側睪丸風險都會上升。其他選項混淆成人與兒童睪丸腫瘤的常見型態與前驅病灶。\n\n【選項詳解】\n- A. 正確。單側隱睪症不只提高患側，也會提高對側睪丸生殖細胞腫瘤風險，反映整體發育異常背景。\n- B. 錯誤。大於 60 歲男性最常見睪丸腫瘤通常要想到淋巴瘤；spermatocytic tumor 好發較老年但不是此敘述的最佳總括。\n- C. 錯誤。兒童 teratoma 常為良性且通常不伴 germ cell neoplasia in situ；青春期後成人型較不同。\n- D. 錯誤。兒童最常見睪丸生殖細胞腫瘤是 yolk sac tumor，不是 teratoma。\n\n【核心考點】\nCryptorchidism 增加雙側睪丸生殖細胞腫瘤風險；兒童常見 yolk sac tumor，老人睪丸腫瘤常考 lymphoma。",
+      "key_point": "單側隱睪會增加雙側睪丸生殖細胞腫瘤風險。",
+      "flashcard_summary": "Testicular tumors -> unilateral cryptorchidism raises bilateral risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "D"
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第95題答A或D或AD者均給分"
+      "answer_note": "第95題答A或D或AD者均給分",
+      "flashcard_front": "隱睪症與睪丸腫瘤",
+      "flashcard_back": "Cryptorchidism increases germ cell tumor risk in both testes, even when unilateral。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_096",
@@ -2030,15 +2422,19 @@
         "D": "排卵失敗會造成子宮內膜過度的動情激素(estrogen)刺激"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考無排卵週期。無排卵常見於初經後、停經前或內分泌/卵巢疾病；停經後已無週期性排卵與月經，因此不能說無排卵週期最常在停經後看到。\n\n【選項詳解】\n- A. 錯誤。無排卵週期常見於青春期初經後與更年期前後的內分泌不穩定，不是 postmenopausal 最常看到。\n- B. 正確。甲狀腺疾病、高泌乳素血症、腦垂腺病變等都可能干擾排卵。\n- C. 正確。多囊性卵巢症候群等卵巢病灶可造成 chronic anovulation。\n- D. 正確。排卵失敗缺乏黃體素拮抗，子宮內膜受 unopposed estrogen 刺激，可能造成增生與異常出血。\n\n【核心考點】\n無排卵週期導致 unopposed estrogen，增加子宮內膜增生與異常出血風險；不是停經後最常見。",
+      "key_point": "無排卵週期常見於初經後或停經前，不是停經後最常見。",
+      "flashcard_summary": "Anovulation -> unopposed estrogen, not postmenopausal cycles",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Anovulatory cycle",
+      "flashcard_back": "排卵失敗造成 unopposed estrogen，可致子宮內膜增生與異常出血。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_097",
@@ -2051,15 +2447,19 @@
         "D": "92,XXXY"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n完全性葡萄胎最常見是空卵被一個精子受精後父源染色體複製，形成 46,XX androgenetic karyotype。較少見可由兩個精子受精形成 46,XY。\n\n【選項詳解】\n- A. 正確。46,XX 是 complete mole 最常見核型，且染色體幾乎完全為父源。\n- B. 錯誤。46,XY 也可見於 complete mole，但通常不是最常見。\n- C. 錯誤。69,XXY 是 partial mole 常見三倍體核型之一，不是 complete mole 最常見。\n- D. 錯誤。92,XXXY 為四倍體型態，不是完全性葡萄胎典型最常見核型。\n\n【核心考點】\nComplete mole：46,XX 最常見、父源染色體、無胎兒組織；partial mole：常三倍體 69,XXY。",
+      "key_point": "完全性葡萄胎最常見核型是父源性 46,XX。",
+      "flashcard_summary": "Hydatidiform mole -> complete mole is usually 46,XX androgenetic",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Complete mole karyotype",
+      "flashcard_back": "Complete mole 最常見 46,XX androgenetic；partial mole 常為 69,XXY。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_098",
@@ -2072,10 +2472,10 @@
         "D": "dermatitis herpetiformis"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按皮膚病理概念，以 IgA 沿表皮與真皮交界或真皮乳突沉積為主要診斷特徵，D 的 dermatitis herpetiformis 是最典型配對。\n\n【選項詳解】\n- A. 給分上被接受；概念上 pemphigus 多為 IgG 針對 desmoglein，呈表皮內棘融解與細胞間網狀免疫螢光，不是 IgA 沿 DEJ 的典型。\n- B. 給分上被接受；概念上 bullous pemphigoid 以 IgG/C3 線狀沉積於 basement membrane zone 為主，不是 IgA。\n- C. 給分上被接受；概念上 epidermolysis bullosa 多為遺傳性皮膚黏著結構缺陷，診斷重點不是 IgA 免疫沉積。\n- D. 給分上被接受，且概念上 dermatitis herpetiformis 是 IgA 顆粒狀沉積於真皮乳突/DEJ 的代表，和題幹描述相符。\n\n【核心考點】\n水泡病免疫螢光要分清：pemphigus 是 IgG intercellular，bullous pemphigoid 是 IgG/C3 linear BMZ，dermatitis herpetiformis 是 granular IgA。",
+      "key_point": "官方更正一律給分；概念上 IgA 沿 DEJ/真皮乳突沉積最典型是 dermatitis herpetiformis。",
+      "flashcard_summary": "All-credit item -> IgA at dermal papillae suggests dermatitis herpetiformis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -2084,7 +2484,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第98題一律給分"
+      "answer_note": "第98題一律給分",
+      "flashcard_front": "IgA 水泡病免疫螢光",
+      "flashcard_back": "Dermatitis herpetiformis 顆粒狀 IgA 沉積於真皮乳突/DEJ；pemphigus 是 IgG 細胞間。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 dermatitis herpetiformis 以 IgA 沉積於真皮乳突/DEJ 為特徵，D 選項符合。"
+      ]
     },
     {
       "id": "115-2_medicine-2_099",
@@ -2097,15 +2504,19 @@
         "D": "較常發現於小腦"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考 prion disease 的 Kuru plaques。Kuru plaques 是 prion protein amyloid plaques，可見於小腦等處，與 CJD 等 prion disease 相關；不是 Aβ 沉積。\n\n【選項詳解】\n- A. 錯誤。Aβ 沉積是 Alzheimer disease 老年斑的主要成分；Kuru plaques 的核心是異常 prion protein。\n- B. 正確。CJD 屬 prion disease，可見海綿狀變化，部分型態可有 amyloid plaques。\n- C. 正確。Prion amyloid plaques 可對 Congo red 呈陽性，符合 amyloid 性質。\n- D. 正確。Kuru plaques 較常在小腦發現，和共濟失調等表現相連。\n\n【核心考點】\nKuru plaques = prion protein amyloid，不是 Alzheimer 的 Aβ plaque。",
+      "key_point": "Kuru plaques 主要是 prion protein 沉積，不是 Aβ。",
+      "flashcard_summary": "Prion disease -> Kuru plaques are PrP amyloid, not Aβ",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Kuru plaque 成分",
+      "flashcard_back": "Kuru plaques 是 prion protein amyloid；Aβ 是 Alzheimer disease plaque。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     },
     {
       "id": "115-2_medicine-2_100",
@@ -2118,15 +2529,19 @@
         "D": "可能與第22 對染色體缺失有關"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，考腦膜瘤。腦膜瘤多為良性、成人較常見，並與第 22 對染色體/NF2 異常相關；許多腦膜瘤表現 progesterone receptor，懷孕時可能變大較快，不是較慢。\n\n【選項詳解】\n- A. 正確。多數 meningioma 是 WHO grade 1 良性腫瘤，雖仍可因位置造成壓迫症狀。\n- B. 正確。腦膜瘤較常見於成人，兒童較少見。\n- C. 錯誤。孕期受荷爾蒙與血流影響，腦膜瘤可加速生長或症狀惡化；說 progesterone 使生長較慢不適當。\n- D. 正確。第 22 對染色體缺失與 NF2 基因異常是腦膜瘤的重要分子線索。\n\n【核心考點】\nMeningioma：良性多、成人女性較常見、psammoma bodies、第 22 對染色體/NF2、孕期可能變大。",
+      "key_point": "腦膜瘤可能在懷孕時因荷爾蒙影響而增大，不是生長較慢。",
+      "flashcard_summary": "Meningioma -> pregnancy may accelerate growth, chromosome 22/NF2 involved",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Meningioma 懷孕影響",
+      "flashcard_back": "Meningioma 常有 progesterone receptor；孕期可能加速生長，並與 chromosome 22/NF2 相關。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00"
     }
   ]
 }

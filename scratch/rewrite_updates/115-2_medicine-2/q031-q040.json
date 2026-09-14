@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n把搗碎蛙肉敷在眼周後發生眼周水腫與發炎，是曼森裂頭絛蟲 sparganum 經蛙肉接觸或食入造成 sparganosis 的典型病史。\n\n【選項詳解】\n- A. 錯誤。短小包膜絛蟲主要經攝入蟲卵感染腸道，可自體感染，不會因蛙肉敷眼造成局部幼蟲病灶。\n- B. 錯誤。縮小包膜絛蟲多經攝入含 cysticercoid 的昆蟲感染，和蛙肉民俗療法不合。\n- C. 正確。Spirometra 的 plerocercoid larvae 可存在蛙、蛇等組織中，外敷或食用未熟蛙肉可造成眼部或皮下 sparganosis。\n- D. 錯誤。Echinococcus granulosus 造成包蟲囊腫，主要因攝入犬科動物糞便污染的蟲卵，不是蛙肉敷眼感染。\n\n【核心考點】\n蛙肉、蛇肉、生食或外敷造成移行性皮下/眼部病灶，請想到 Spirometra sparganosis。",
+      "key_point": "蛙肉敷眼後眼部病變是 Spirometra sparganosis 的經典線索。",
+      "flashcard_front": "蛙肉敷眼寄生蟲",
+      "flashcard_back": "曼森裂頭絛蟲 Spirometra 的 sparganum 可因蛙肉外敷或生食造成眼部 sparganosis。",
+      "flashcard_summary": "Sparganosis -> Spirometra from frog/snake exposure",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n赴日本、生食魚類、腹瀉腹痛、嗜酸性球增加但無貧血，指向小型腸吸蟲感染。橫川氏吸蟲可因生食淡水或半鹹水魚感染，造成腸胃症狀。\n\n【選項詳解】\n- A. 錯誤。中華肝吸蟲主要寄生膽道，常與生食淡水魚及肝膽病變相關，不以單純腹瀉、無貧血的腸道吸蟲表現為主。\n- B. 錯誤。衛氏肺吸蟲常因食用未熟蟹、蛄感染，主要侵犯肺部，會有咳嗽、血痰等線索。\n- C. 正確。Metagonimus yokogawai 是腸吸蟲，可因生食魚類感染，造成腹瀉、腹痛與嗜酸性球增多。\n- D. 錯誤。Heterophyes heterophyes 也是小型腸吸蟲，但本題以日本旅遊與鮭魚相關線索較支持橫川氏吸蟲。\n\n【核心考點】\n生食魚後腸道症狀與嗜酸性球上升，先區分腸吸蟲、肝吸蟲與肺吸蟲的寄生部位和感染食物。",
+      "key_point": "橫川氏吸蟲是魚類相關腸吸蟲，可造成腹瀉與嗜酸性球增多。",
+      "flashcard_front": "生食魚 腸吸蟲",
+      "flashcard_back": "Metagonimus yokogawai 可因生食魚類感染，寄生腸道造成腹瀉腹痛。",
+      "flashcard_summary": "Metagonimus -> fish-borne intestinal fluke with eosinophilia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題是否定問法，考痢疾阿米巴診斷。急性阿米巴痢疾糞便中常見的是活動體，尤其可能看到吞噬紅血球的 trophozoites；成熟囊體才是主要感染型。\n\n【選項詳解】\n- A. 正確。阿米巴肝膿瘍時糞便不一定容易找到蟲體，血清 ELISA 抗體檢測可作為診斷輔助。\n- B. 錯誤。急性下痢糞便主要尋找 trophozoites，不是感染性的 cysts；cyst 常見於形成糞便並負責傳播。\n- C. 正確。PCR 可區分致病的 E. histolytica 與形態相似但多為非致病的 E. dispar。\n- D. 正確。侵犯性病灶或潰瘍周邊組織可見活動體，符合 invasive amoebiasis。\n\n【核心考點】\nE. histolytica 診斷要分清楚：感染型是 cyst，急性侵襲性病灶常找 trophozoite，PCR 可和 E. dispar 鑑別。",
+      "key_point": "急性阿米巴痢疾糞便主要見 trophozoites，不是以囊體為主。",
+      "flashcard_front": "E. histolytica 急性診斷",
+      "flashcard_back": "急性下痢找 trophozoites；cyst 是感染型並常見於成形糞便。",
+      "flashcard_summary": "Amebiasis -> acute diarrhea has trophozoites, cysts transmit infection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n本題考非洲錐蟲的生物學與臨床。T. b. rhodesiense 的疾病嚴重度可受寄生蟲毒力與宿主基因型交互影響；其他選項把臨床名詞、生命週期表面蛋白轉換或中樞侵犯時序說錯。\n\n【選項詳解】\n- A. 正確。非洲錐蟲感染的毒力與臨床差異可受寄生蟲株別及宿主血清抗錐蟲因子等基因背景影響。\n- B. 錯誤。頸部後淋巴結腫大典型稱 Winterbottom sign；叮咬處局部病灶常稱 trypanosomal chancre，不是 Jericho boil。\n- C. 錯誤。錐蟲進入采采蠅後，哺乳動物血流型的 VSG 會轉為 procyclin；此選項把方向說反。\n- D. 錯誤。中樞神經侵犯通常是較晚期事件，導致睡眠型態改變與昏睡症表現，不是多數病例一開始就發生。\n\n【核心考點】\n非洲錐蟲考點包括 VSG 抗原變異、采采蠅傳播、Winterbottom sign 與晚期中樞神經侵犯。",
+      "key_point": "T. b. rhodesiense 毒力可受寄生蟲與宿主基因背景交互影響。",
+      "flashcard_front": "African trypanosomes 錯誤陷阱",
+      "flashcard_back": "血流型 VSG 在采采蠅中轉為 procyclin；CNS 侵犯多為晚期，頸部淋巴結腫大稱 Winterbottom sign。",
+      "flashcard_summary": "African trypanosomes -> host-parasite genetics and VSG/procyclin switch",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n蘭嶼旅遊後、蟎叮咬致病，最典型是恙蟲病。恙蟲病由 Orientia tsutsugamushi 造成，經恙蟎幼蟲叮咬傳播，可有發燒、焦痂、皮疹與淋巴結腫大。\n\n【選項詳解】\n- A. 錯誤。犬心絲蟲症與蚊傳播的 Dirofilaria 相關，通常不是蘭嶼蟎叮咬後急性發熱疾病。\n- B. 錯誤。瘧疾由 Anopheles 蚊傳播，病原是 Plasmodium，不是 mite。\n- C. 錯誤。黃熱病由 Aedes 等蚊傳播的黃熱病毒造成，與臺灣蘭嶼蟎叮咬線索不合。\n- D. 正確。恙蟲病是恙蟎叮咬傳播的立克次體樣疾病，臺灣離島與山區旅遊史常是考題線索。\n\n【核心考點】\n蟎叮咬加臺灣離島/草叢暴露，優先想到恙蟲病；傳播者是恙蟎幼蟲。",
+      "key_point": "恙蟲病由恙蟎叮咬傳播，臺灣離島與草叢暴露是重要線索。",
+      "flashcard_front": "蘭嶼 蟎叮咬 發燒",
+      "flashcard_back": "最可能是 scrub typhus，由 Orientia tsutsugamushi 經恙蟎幼蟲傳播。",
+      "flashcard_summary": "Scrub typhus -> chigger mite exposure in Taiwan travel",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n兩獨立樣本且假設母體變異數相等時，用 pooled variance。計算為 [(19-1)×1.5 + (27-1)×1.7] / (19+27-2) = (27 + 44.2) / 44 = 1.62，最接近 1.6。\n\n【選項詳解】\n- A. 正確。1.6 接近合併變異數 1.62，是本題的估計值。\n- B. 錯誤。2.0 比 pooled variance 高，通常來自沒有用自由度加權或計算錯誤。\n- C. 錯誤。2.6 不是兩個變異數 1.5、1.7 的合理加權平均，明顯過高。\n- D. 錯誤。2.7 更高，和題目給定變異數範圍不相符。\n\n【核心考點】\n等變異數兩樣本的 pooled variance 要用自由度 n-1 加權，而不是直接看樣本數或把標準差相加。",
+      "key_point": "Pooled variance = [(n1-1)s1^2 + (n2-1)s2^2] / (n1+n2-2)。",
+      "flashcard_front": "兩獨立樣本 pooled variance",
+      "flashcard_back": "用自由度加權：[(18)(1.5)+(26)(1.7)]/44 = 1.62，選 1.6。",
+      "flashcard_summary": "Pooled variance -> degrees-of-freedom weighted average",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n本題是否定問法，考死亡率指標。年度總死亡率通常用該年度死亡人數除以年中人口或平均人口，而不是年初人口數；標準化死亡率則用固定人口結構調整年齡差異。\n\n【選項詳解】\n- A. 錯誤。粗死亡率的分母通常採年中人口或平均人口，用年初人口會造成估計偏差。\n- B. 正確。標準化死亡率是把各年齡層死亡率套用到指定標準人口結構，以便排除年齡結構差異。\n- C. 正確。題幹已指出 111 年死亡率上升和 COVID-19 新進入主要死因及人口老化有關。\n- D. 正確。疾病別死亡率是特定期間內死於某疾病的人數相對於人口的死亡率。\n\n【核心考點】\n粗死亡率分母看平均或年中人口；標準化死亡率用標準人口結構修正年齡組成。",
+      "key_point": "年度總死亡率分母通常用年中人口或平均人口，不是年初人口。",
+      "flashcard_front": "總死亡率分母",
+      "flashcard_back": "粗死亡率 = 年度死亡人數 / 年中或平均人口；標準化死亡率則調整年齡結構。",
+      "flashcard_summary": "Mortality rate -> crude rate uses midyear/average population",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n盲性程序的目的，是避免受試者、照護者或評估者知道分組後改變照護、行為或評估，造成系統性偏差。基線可比性主要靠隨機分派，不是靠盲性。\n\n【選項詳解】\n- A. 正確。盲性可降低介入組與對照組在照護執行、共同介入、期待效應與結果評估上的系統性偏差，使程序更可比。\n- B. 錯誤。盲性可降低期待與觀察偏差，但不只針對介入組的 Hawthorne effect，也包含對照組與研究人員。\n- C. 錯誤。雙盲通常指受試者與研究者或結果評估者等雙方不知道分組，不是只對醫師及護理師實施。\n- D. 錯誤。兩組基線背景特性可比主要由 randomization 達成；盲性處理的是分組後行為與評估偏差。\n\n【核心考點】\n隨機分派保護基線可比性，盲性降低分組後的 performance、detection 與 expectation bias。",
+      "key_point": "臨床試驗盲性主要用來降低分組後執行與評估上的系統性偏差。",
+      "flashcard_front": "臨床試驗 blinding 目的",
+      "flashcard_back": "Blinding 降低 performance/detection bias；baseline comparability 主要靠 randomization。",
+      "flashcard_summary": "Blinding -> prevents post-randomization performance and assessment bias",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n胃食道逆流類型 A/B/C 是類別變項，肥胖狀態也是類別變項。要檢定兩個類別變項是否有關聯，使用卡方檢定。\n\n【選項詳解】\n- A. 錯誤。ANOVA 用於比較多組連續變項平均數，不適合兩個類別變項列聯表。\n- B. 錯誤。Log rank test 用於存活曲線或 time-to-event 資料比較，本題沒有追蹤時間到事件。\n- C. 正確。Chi-square test 可分析 GERD 類型與肥胖/非肥胖的列聯表關聯。\n- D. 錯誤。Two-sample t-test 用於比較兩組連續變項平均值，不適合 A/B/C 類型與肥胖狀態。\n\n【核心考點】\n兩個類別變項的關聯用 chi-square test；連續平均值才考 t-test 或 ANOVA。",
+      "key_point": "類別變項與類別變項的關聯分析使用卡方檢定。",
+      "flashcard_front": "兩類別變項統計方法",
+      "flashcard_back": "GERD 類型與肥胖狀態都是 categorical variables，適合 chi-square test。",
+      "flashcard_summary": "Categorical association -> chi-square test",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n雲量減少、紫外線入射增加，會促進氮氧化物與揮發性有機物進行光化學反應，生成臭氧。這是光化學煙霧的重要污染物。\n\n【選項詳解】\n- A. 正確。地表臭氧是二次污染物，強日照與紫外線會加速其生成。\n- B. 錯誤。一氧化碳主要來自不完全燃燒，不是紫外線光化作用生成的代表二次污染物。\n- C. 錯誤。全氟碳化物是溫室氣體與工業排放相關，不是雲量減少後光化學反應的主要產物。\n- D. 錯誤。氫氟碳化物也屬工業化學物與溫室氣體議題，不是光化學煙霧的核心生成物。\n\n【核心考點】\n強日照、NOx、VOCs 會生成地表臭氧；臭氧是光化學空污的代表二次污染物。",
+      "key_point": "紫外線與光化學反應會促進地表臭氧形成。",
+      "flashcard_front": "光化學作用空污",
+      "flashcard_back": "雲量少、紫外線強會加速 NOx/VOCs 反應生成臭氧。",
+      "flashcard_summary": "Photochemical pollution -> sunlight increases ground-level ozone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題是否定問法，考 Mycoplasma pneumoniae 的基本特性。它是無細胞壁、可在無細胞培養基生長的細菌，常造成學齡兒童與年輕人的非典型肺炎或氣管支氣管炎；錯在把它描述為兼性厭氧菌。\n\n【選項詳解】\n- A. 正確。肺炎黴漿菌是可獨立生存的最小型細菌之一，不像病毒必須依賴宿主細胞複製。\n- B. 錯誤。M. pneumoniae 通常描述為需氧或微需氧相關生長，考試重點不是 facultative anaerobe；此敘述最不適當。\n- C. 正確。感染常見於學齡兒童、青少年與年輕成人，可在密集環境中傳播。\n- D. 正確。臨床常見表現包括 tracheobronchitis 與 atypical pneumonia，常有乾咳。\n\n【核心考點】\nMycoplasma pneumoniae 要記無細胞壁、膜含 sterol、非典型肺炎；beta-lactam 對它無效。",
+      "key_point": "M. pneumoniae 無細胞壁且常造成學齡兒童與青年非典型呼吸道感染。",
+      "flashcard_front": "Mycoplasma pneumoniae 特徵",
+      "flashcard_back": "無細胞壁、可獨立生存，常造成 tracheobronchitis/atypical pneumonia；不是典型兼性厭氧菌考點。",
+      "flashcard_summary": "Mycoplasma -> no cell wall, atypical pneumonia, not beta-lactam target",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題考已確立的人類致癌病毒。EBV/HHV-4、HHV-8 與 HTLV-1 是經典人類癌症相關病毒；腺病毒與 HSV 雖可在實驗或部分疾病中被討論，但不是此題列為人類癌症主因的組合。\n\n【選項詳解】\n- A. 錯誤。此組含 adenovirus；腺病毒可在動物或實驗系統致腫瘤，但不是常規考點的人類致癌病毒。\n- B. 錯誤。HSV 與 poxvirus 不屬於典型人類癌症病毒清單；HHV-8 才是 Kaposi sarcoma 相關病毒。\n- C. 正確。3 是 EBV，可與 Burkitt lymphoma、鼻咽癌等相關；4 是 HHV-8，與 Kaposi sarcoma 相關；6 是 HTLV-1，與成人 T 細胞白血病/淋巴瘤相關。\n- D. 錯誤。HAV 或 poxvirus 不屬於此題要選的人類致癌病毒組合。\n\n【核心考點】\n常考人類致癌病毒：HPV、EBV、HBV/HCV、HHV-8、HTLV-1 與 Merkel cell polyomavirus。",
+      "key_point": "EBV、HHV-8、HTLV-1 都是經典人類致癌病毒。",
+      "flashcard_front": "人類致癌病毒組合",
+      "flashcard_back": "EBV/HHV-4、HHV-8、HTLV-1 分別與多種淋巴瘤、Kaposi sarcoma、成人 T 細胞白血病相關。",
+      "flashcard_summary": "Oncogenic viruses -> EBV, HHV-8, HTLV-1 are cancer-associated",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題考肝炎病毒分類與傳播。C 型肝炎病毒屬 Flaviviridae 的 Hepacivirus，與 Zika、dengue 同屬 Flaviviridae 家族；其他選項混淆了 A、B、D、E 型肝炎。\n\n【選項詳解】\n- A. 錯誤。口糞傳染與污染食物較典型是 HAV 或 HEV；HBV 主要經血液、性接觸與周產期傳播。\n- B. 正確。HCV 是 Flaviviridae 成員，Zika virus 也屬 Flaviviridae，所以同一病毒家族。\n- C. 錯誤。HDV 需要 HBV 提供 HBsAg 才能包裝與感染，不是依賴 HEV。\n- D. 錯誤。孕婦重症與高死亡風險的經典考點是 HEV，不是 HAV。\n\n【核心考點】\n肝炎病毒速記：HAV 口糞 Picornaviridae，HBV 血液/性/垂直 Hepadnaviridae，HCV Flaviviridae，HDV 依賴 HBV，HEV 孕婦重症。",
+      "key_point": "HCV 與 Zika/dengue 同屬 Flaviviridae；HDV 依賴 HBV 而非 HEV。",
+      "flashcard_front": "肝炎病毒分類",
+      "flashcard_back": "HCV 是 Flaviviridae；HBV 是 Hepadnaviridae；HAV 是 Picornaviridae；HEV 孕婦重症風險高。",
+      "flashcard_summary": "Hepatitis viruses -> HCV belongs to Flaviviridae with Zika/dengue",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，因此 A-D 都列為接受答案。若按病毒分類概念判斷，C 型肝炎病毒與登革病毒同屬 Flaviviridae；A 型與 B 型肝炎病毒分屬不同科。\n\n【選項詳解】\n- A. 給分上被接受；概念上 HAV 屬 Picornaviridae，HBV 屬 Hepadnaviridae，兩者不是同一病毒科。\n- B. 給分上被接受，且概念上 HCV 屬 Flaviviridae 的 Hepacivirus，登革病毒也屬 Flaviviridae。\n- C. 給分上被接受；概念上 HSV 屬 Herpesviridae，monkeypox virus 屬 Poxviridae，兩者不同科。\n- D. 給分上被接受；概念上 RSV 屬 Pneumoviridae，influenza A 屬 Orthomyxoviridae，兩者不同科。\n\n【核心考點】\n遇到一律給分題，不要自行改答案欄位；學理上本題應記 HCV 與 dengue 同屬 Flaviviridae。",
+      "key_point": "官方更正一律給分；學理上 HCV 與 dengue virus 同屬 Flaviviridae。",
+      "flashcard_front": "病毒科：HCV 與 dengue",
+      "flashcard_back": "HCV 和 dengue virus 同屬 Flaviviridae；HAV 與 HBV 分別是 Picornaviridae 與 Hepadnaviridae。",
+      "flashcard_summary": "All-credit item -> concept answer is HCV and dengue in Flaviviridae",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": [
+        "官方更正一律給分；概念上 HCV 與 dengue 同屬 Flaviviridae，HAV 與 HBV 分屬不同科。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-2_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題是否定問法，考病毒構造與基因體。Caliciviridae 例如 norovirus，基因體是正股單股 RNA，不是雙股線性 DNA。\n\n【選項詳解】\n- A. 正確。Enterovirus 是無套膜病毒，只有 capsid 保護，對酒精與環境較耐受，因此酒精殺滅效果較差。\n- B. 錯誤。Caliciviridae 的基因組是 positive-sense single-stranded RNA，而不是 double-stranded linear DNA。\n- C. 正確。有套膜病毒的 envelope 來自宿主膜並帶有病毒蛋白或醣蛋白，因此包含脂質、蛋白質與醣蛋白。\n- D. 正確。Rhabdoviridae 如 rabies virus，基因體是 negative-sense single-stranded RNA。\n\n【核心考點】\n無套膜病毒較耐酒精與環境；Caliciviridae 是正股 RNA，Rhabdoviridae 是負股 RNA。",
+      "key_point": "Caliciviridae 是正股單股 RNA 病毒，不是雙股 DNA 病毒。",
+      "flashcard_front": "Caliciviridae 基因體",
+      "flashcard_back": "Caliciviridae 例如 norovirus，為無套膜、正股 ssRNA 病毒。",
+      "flashcard_summary": "Virus structure -> calicivirus is positive-sense ssRNA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問病毒致病性何者最適當。病毒轉型會使細胞獲得不受正常生長控制的特性，常包含 immortalization；其他選項把潛伏、流產性感染與 DNA 病毒範圍說得太絕對。\n\n【選項詳解】\n- A. 錯誤。Latent infection 是病毒基因體長期存在、可再活化，並不等同造成細胞衰老。\n- B. 錯誤。Abortive infection 指病毒進入細胞但無法完成有效複製，不一定導致細胞死亡。\n- C. 正確。被病毒轉型的細胞可出現 immortalization、增殖控制喪失等變化，是腫瘤病毒的重要致病概念。\n- D. 錯誤。RNA 病毒也可能致癌或轉型，例如 retrovirus HTLV-1；不能限縮為 DNA 病毒。\n\n【核心考點】\n病毒感染型態要分清楚：latent 是潛伏可再活化，abortive 是複製不完整，transformation 則與 immortalization 和腫瘤形成相關。",
+      "key_point": "病毒轉型與細胞 immortalization、腫瘤化相關；RNA 病毒也可致癌。",
+      "flashcard_front": "病毒 transformation",
+      "flashcard_back": "Transformation 可讓細胞 immortalized；latent infection 不等於 senescence，abortive infection 不一定殺細胞。",
+      "flashcard_summary": "Viral transformation -> immortalization and oncogenesis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\nMalassezia furfur 是親脂性酵母菌，造成變色糠疹。培養時常需外加長鏈脂肪酸來源，因此 olive oil 是典型答案。\n\n【選項詳解】\n- A. 正確。Olive oil 提供脂質，有利於 Malassezia 這類親脂性真菌生長。\n- B. 錯誤。Thiamine 是維生素 B1，不是 Malassezia 培養最關鍵的脂質需求。\n- C. 錯誤。Nicotinic acid 是維生素 B3 相關成分，不能取代此菌對外源性脂肪的需求。\n- D. 錯誤。Inositol 可作為某些微生物營養或鑑別成分，但不是培養 M. furfur 的高產考點。\n\n【核心考點】\nMalassezia furfur 親脂，培養需要脂質來源；看到 pityriasis versicolor 就聯想到 olive oil。",
+      "key_point": "Malassezia furfur 是親脂性真菌，培養基加 olive oil 有助生長。",
+      "flashcard_front": "Malassezia furfur 培養",
+      "flashcard_back": "M. furfur 親脂，培養常需加入 olive oil 等脂質來源。",
+      "flashcard_summary": "Malassezia -> lipophilic yeast needing olive oil",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題是否定問法，考先天免疫與後天免疫的差別。先天免疫反應快速、使用固定受體辨識常見病原模式，但典型上沒有抗原特異性的免疫記憶。\n\n【選項詳解】\n- A. 正確。吞噬細胞、自然殺手細胞與補體都是先天免疫的重要武器。\n- B. 正確。先天免疫受體如 TLR 的基因不經 V(D)J 重組，和 BCR/TCR 的多樣性來源不同。\n- C. 正確。感染處的巨噬細胞、樹突細胞等會釋放細胞激素與趨化因子，引發發炎反應。\n- D. 錯誤。抗原特異性記憶是後天免疫的典型特色；先天免疫雖有 trained immunity 概念，但不是本題的傳統分類答案。\n\n【核心考點】\n先天免疫快速、固定受體、無典型抗原特異記憶；後天免疫慢但有特異性與記憶。",
+      "key_point": "先天免疫典型上不具抗原特異性的免疫記憶。",
+      "flashcard_front": "先天免疫 vs 後天免疫",
+      "flashcard_back": "先天免疫靠固定 pattern-recognition receptors，不經基因重組，也沒有典型抗原特異記憶。",
+      "flashcard_summary": "Innate immunity -> fixed receptors, inflammation, no classic antigen-specific memory",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題考 MHC 基因。人類 MHC class I 主要有 HLA-A、HLA-B、HLA-C 三個基因座；MHC 多基因且高度多型，並不具 allelic exclusion。\n\n【選項詳解】\n- A. 錯誤。MHC 不是單一基因構成，而是多個基因座組成，且族群中高度多型。\n- B. 正確。主要的 MHC class I 基因為 HLA-A、HLA-B、HLA-C，這是最直接的配對。\n- C. 錯誤。Allelic exclusion 是 BCR/TCR 生成時讓單一淋巴球主要表現一種受體特異性的概念，不是 MHC 的特點。\n- D. 錯誤。提升 MHC class II 表現的典型細胞激素是 IFN-γ；IL-5 主要與 B 細胞及嗜酸性球反應相關。\n\n【核心考點】\nMHC class I 主要基因座是 HLA-A、B、C；class II 常記 HLA-DP、DQ、DR。",
+      "key_point": "MHC class I 主要包含 HLA-A、HLA-B、HLA-C 三個基因座。",
+      "flashcard_front": "MHC class I genes",
+      "flashcard_back": "人類主要 MHC class I 基因是 HLA-A、HLA-B、HLA-C。",
+      "flashcard_summary": "MHC I -> HLA-A, HLA-B, HLA-C",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\nBAFF 是 B cell activating factor，可促進 B 細胞存活與成熟。BAFF 過量會讓原本應被淘汰的自體反應性 B 細胞存活，增加乾燥症等自體免疫風險。\n\n【選項詳解】\n- A. 錯誤。BAFF 主要影響周邊 B 細胞存活與成熟選擇，不是單純使骨髓 pre-B 細胞大量增加。\n- B. 錯誤。Immature B cell 的骨髓產生不是 BAFF 過量最典型的血液異常；問題在自體反應性細胞逃過周邊耐受。\n- C. 正確。BAFF 過量可救援自體反應性成熟 B 細胞，促進自體抗體生成，和 Sjögren syndrome 病理相符。\n- D. 錯誤。乾燥症可有 T 細胞參與，但 BAFF 的主要目標是 B 細胞，不是直接造成自體反應性成熟 T 細胞增加。\n\n【核心考點】\nBAFF 過量會讓自體反應性 B 細胞在周邊存活，推動自體抗體與 B 細胞型自體免疫。",
+      "key_point": "BAFF 促進 B 細胞存活；過量會增加自體反應性成熟 B 細胞。",
+      "flashcard_front": "BAFF 與乾燥症",
+      "flashcard_back": "BAFF 過量可讓自體反應性成熟 B 細胞存活，增加 Sjögren syndrome 風險。",
+      "flashcard_summary": "BAFF excess -> survival of autoreactive mature B cells",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

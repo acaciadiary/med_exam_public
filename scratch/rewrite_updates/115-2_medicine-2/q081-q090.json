@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 81,
+    "end": 90
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_081",
+      "question_number": 81,
+      "explanation": "【題幹解析】\n本題是否定問法，考再灌流傷害。急性心肌梗塞後恢復血流雖能挽救缺血區，但也可因自由基、鈣超載、白血球發炎與微血管傷害造成額外心肌細胞死亡。\n\n【選項詳解】\n- A. 正確。再灌流後壞死心肌的酵素與 troponin 可持續釋出或出現 washout 現象，血中濃度仍可能上升。\n- B. 正確。氧氣重新供應會增加 reactive oxygen species，參與再灌流傷害。\n- C. 正確。白血球聚集與發炎介質會加重組織傷害。\n- D. 錯誤。再灌流不是完全停止心肌細胞損失；reperfusion injury 本身可造成額外壞死或凋亡。\n\n【核心考點】\n再灌流可救心肌，也可傷心肌；ROS、鈣超載與白血球發炎是 reperfusion injury 三大關鍵。",
+      "key_point": "心肌再灌流仍可因 ROS、鈣超載與白血球造成額外心肌損傷。",
+      "flashcard_front": "心肌 reperfusion injury",
+      "flashcard_back": "再灌流可增加 ROS、白血球聚集與細胞死亡，並非不再損失心肌。",
+      "flashcard_summary": "Reperfusion injury -> ROS and inflammation can kill myocardium",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\nNBTE 是無菌性血栓性心內膜炎，vegetations 主要由血小板與纖維蛋白構成，發炎細胞很少。感染性心內膜炎則有大量微生物與發炎反應。\n\n【選項詳解】\n- A. 正確。Nonbacterial thrombotic endocarditis 的 vegetation 通常較脆、無菌、發炎細胞少。\n- B. 錯誤。細菌性心內膜炎含微生物、壞死碎屑與大量發炎細胞，不是最少發炎。\n- C. 錯誤。人工瓣膜感染性心內膜炎仍屬感染性病灶，可有明顯發炎與破壞。\n- D. 錯誤。Libman-Sacks endocarditis 與 SLE 相關，可有免疫複合物與發炎成分，比 NBTE 更有免疫發炎背景。\n\n【核心考點】\nNBTE 的 vegetation 是 bland thrombi，血小板與 fibrin 為主，發炎細胞最少。",
+      "key_point": "NBTE 的心內膜 vegetation 發炎細胞最少，主要是血小板與纖維蛋白。",
+      "flashcard_front": "NBTE vegetation",
+      "flashcard_back": "Nonbacterial thrombotic endocarditis 是 bland sterile thrombi，發炎細胞少。",
+      "flashcard_summary": "Endocarditis -> NBTE has bland vegetations with minimal inflammation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_083",
+      "question_number": 83,
+      "explanation": "【題幹解析】\n本題是否定問法，考擴大性心肌病變原因。酒精、心肌炎後遺症與基因突變都是 DCM 常見原因；放射線治療較典型造成心包膜、瓣膜、冠狀動脈或限制性纖維化問題，不是典型 DCM 原因。\n\n【選項詳解】\n- A. 正確。長期酒精使用可造成毒性心肌病變與 DCM。\n- B. 正確。病毒性或免疫性心肌炎後可留下擴大性心肌病變。\n- C. 錯誤。放射線相關心臟病以纖維化、限制性變化、心包膜病變或冠狀動脈疾病較典型，不是 DCM 經典病因。\n- D. 正確。遺傳突變，例如細胞骨架或 sarcomere 蛋白相關基因，可造成家族性 DCM。\n\n【核心考點】\nDCM 常見原因：酒精、心肌炎、doxorubicin、圍產期、遺傳；放射線纖維化較偏限制或心包/瓣膜病。",
+      "key_point": "放射線治療造成纖維化不是擴大性心肌病變的典型原因。",
+      "flashcard_front": "DCM 原因",
+      "flashcard_back": "DCM 可由酒精、心肌炎後、基因突變等造成；放射線纖維化較偏限制性/心包病變。",
+      "flashcard_summary": "Dilated cardiomyopathy -> alcohol, myocarditis, genetics; not radiation fibrosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_084",
+      "question_number": 84,
+      "explanation": "【題幹解析】\n抗乙醯膽鹼受器抗體造成重症肌無力，加上前縱隔腫瘤，最典型是胸腺瘤。胸腺與 T 細胞教育、自體耐受相關，因此胸腺瘤可伴隨 MG。\n\n【選項詳解】\n- A. 錯誤。鱗狀細胞癌可出現在肺或其他部位，但和 MG 及前縱隔腫瘤的經典配對不如胸腺瘤。\n- B. 錯誤。畸胎瘤可發生在前縱隔，但不典型伴隨 anti-ACh receptor antibody 的 MG。\n- C. 正確。Thymoma 是前縱隔腫瘤，常與 myasthenia gravis 相關。\n- D. 錯誤。類癌可發生於胸腺或支氣管，但和本題 MG 線索不如 thymoma。\n\n【核心考點】\n前縱隔腫瘤加重症肌無力，先選 thymoma。",
+      "key_point": "Thymoma 是與 myasthenia gravis 經典相關的前縱隔腫瘤。",
+      "flashcard_front": "前縱隔腫瘤 + MG",
+      "flashcard_back": "抗 ACh receptor 抗體、肌無力、前縱隔腫瘤最可能是 thymoma。",
+      "flashcard_summary": "Anterior mediastinal mass -> thymoma associated with myasthenia gravis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_085",
+      "question_number": 85,
+      "explanation": "【題幹解析】\n骨髓化生不良症候群是造血幹細胞克隆性疾病，多見於老年人，骨髓造血細胞形態異常但無效造血，外周血常呈 cytopenia，且有進展成 AML 的風險。\n\n【選項詳解】\n- A. 正確。MDS 約有一部分病人會進展成 AML，題目所列 10%-40% 符合常見病理考點。\n- B. 錯誤。MDS 多見於老年人，不是兒童與青少年為主。\n- C. 錯誤。MDS 的外周血通常是貧血、白血球低下或血小板低下等 cytopenias，不是三系都偏高。\n- D. 錯誤。骨髓中造血細胞有 dysplasia，例如核形異常、環狀鐵粒幼細胞或小巨核細胞等。\n\n【核心考點】\nMDS = elderly、dysplastic marrow、ineffective hematopoiesis、peripheral cytopenias、AML risk。",
+      "key_point": "MDS 可進展為 AML，且外周血常為 cytopenia 而非血球增加。",
+      "flashcard_front": "MDS 特徵",
+      "flashcard_back": "老年人常見，骨髓 dysplasia、無效造血、外周血 cytopenias，部分進展 AML。",
+      "flashcard_summary": "MDS -> dysplasia, cytopenias, AML progression risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_086",
+      "question_number": 86,
+      "explanation": "【題幹解析】\n本題是否定問法，考惡性間皮瘤。惡性間皮瘤預後差，多數病人存活不超過兩年；它可發生於肋膜，需和肺腺癌轉移鑑別，並常有 BAP1、NF2、CDKN2A 等基因異常。\n\n【選項詳解】\n- A. 正確。惡性間皮瘤可發生在臟側或壁側肋膜，常呈瀰漫性包繞肺部。\n- B. 錯誤。惡性間皮瘤預後通常不佳，多數病人無法存活超過兩年。\n- C. 正確。肺腺癌轉移到肋膜是重要鑑別診斷，可用 calretinin、WT1、D2-40、TTF-1 等免疫染色組合判斷。\n- D. 正確。BAP1、NF2、CDKN2A 等基因改變是惡性間皮瘤常見分子異常。\n\n【核心考點】\n惡性間皮瘤與石綿暴露、肋膜瀰漫腫瘤、預後差、BAP1/NF2/CDKN2A 改變相關。",
+      "key_point": "惡性間皮瘤預後差，多數病人存活不超過兩年。",
+      "flashcard_front": "惡性間皮瘤預後",
+      "flashcard_back": "Malignant mesothelioma 常發生肋膜、預後差，常見 BAP1/NF2/CDKN2A 改變。",
+      "flashcard_summary": "Mesothelioma -> pleural tumor with poor survival",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n孤立性纖維瘤是間葉性腫瘤，最常見於肋膜，也可發生於多處軟組織。典型免疫染色為 CD34 與 STAT6 陽性，和石綿暴露關係不像惡性間皮瘤那樣密切。\n\n【選項詳解】\n- A. 錯誤。Keratin 陽性較支持上皮性腫瘤或間皮瘤；solitary fibrous tumor 通常不是 keratin 陽性為主。\n- B. 錯誤。SFT 常見 CD34 陽性，近年也常用 nuclear STAT6 幫助診斷。\n- C. 錯誤。石綿暴露與惡性間皮瘤關聯強，SFT 不以石綿暴露為典型病因。\n- D. 正確。SFT 最經典發生部位是肋膜，雖然也可在胸膜外部位出現。\n\n【核心考點】\nSolitary fibrous tumor：pleura、CD34 positive、STAT6 nuclear positive，和 asbestos 不強相關。",
+      "key_point": "孤立性纖維瘤最常見於肋膜，常 CD34/STAT6 陽性。",
+      "flashcard_front": "Solitary fibrous tumor",
+      "flashcard_back": "最常見於 pleura；CD34 與 nuclear STAT6 常陽性，不是 asbestos 相關腫瘤。",
+      "flashcard_summary": "SFT -> pleural mesenchymal tumor, CD34/STAT6 positive",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_088",
+      "question_number": 88,
+      "explanation": "【題幹解析】\n大葉性肺炎典型四期順序為充血期、紅色肝變期、灰色肝變期、緩解期。題目代號是 3、2、1、4。\n\n【選項詳解】\n- A. 錯誤。此排序把灰色肝變放在紅色肝變前，順序不對。\n- B. 正確。3 充血期先發生，接著 2 紅色肝變，然後 1 灰色肝變，最後 4 緩解期。\n- C. 錯誤。充血後應先紅色肝變，不是灰色肝變。\n- D. 錯誤。紅色肝變前還有充血期，不能以 2 開頭。\n\n【核心考點】\nLobar pneumonia 四期：congestion -> red hepatization -> gray hepatization -> resolution。",
+      "key_point": "大葉性肺炎順序是充血、紅色肝變、灰色肝變、緩解。",
+      "flashcard_front": "大葉性肺炎四期順序",
+      "flashcard_back": "Congestion -> red hepatization -> gray hepatization -> resolution，即 3-2-1-4。",
+      "flashcard_summary": "Lobar pneumonia -> congestion, red, gray, resolution",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n本題是否定問法，考 H. pylori 胃炎。幽門螺旋桿菌最常定殖在胃竇黏液層與表面上皮附近，胃竇通常比胃體更容易受感染；說胃體比胃竇更容易感染不適當。\n\n【選項詳解】\n- A. 錯誤。H. pylori 典型先以 antrum 為主，胃體為主的感染常見於長期病程或特定酸分泌狀態，不是通常情況。\n- B. 正確。H. pylori 慢性胃炎可與 hyperplastic/inflammatory polyps 相關。\n- C. 正確。菌體常位於表面與頸部區域上皮細胞表面的黏液層中，而不是深入腺體底部。\n- D. 正確。H. pylori 與十二指腸潰瘍關聯密切，常透過胃竇胃炎與酸分泌改變造成。\n\n【核心考點】\nH. pylori 喜歡胃竇表面黏液層，與慢性胃炎、十二指腸潰瘍、MALToma 和胃癌風險相關。",
+      "key_point": "H. pylori 通常以胃竇感染較典型，不是胃體比胃竇更容易。",
+      "flashcard_front": "H. pylori 感染部位",
+      "flashcard_back": "H. pylori 常在 antrum 表面黏液層，與十二指腸潰瘍和 MALToma 相關。",
+      "flashcard_summary": "H. pylori gastritis -> antrum-predominant colonization",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_090",
+      "question_number": 90,
+      "explanation": "【題幹解析】\n本題是否定問法，考胃 MALT lymphoma。胃最常見淋巴瘤是 extranodal marginal zone B-cell lymphoma，常由 H. pylori 驅動；常見易位包括 t(11;18)(q21;q21)，不是 t(9;22)。\n\n【選項詳解】\n- A. 正確。胃淋巴瘤以 extranodal marginal zone B-cell lymphoma of MALT type 最典型。\n- B. 正確。H. pylori 感染是胃 MALToma 重要誘發因素，早期可因根除治療而退縮。\n- C. 正確。轉化成 diffuse large B-cell lymphoma 常與更多基因異常累積有關，包括 p53、p16 失活。\n- D. 錯誤。t(9;22) 是 Philadelphia chromosome，典型見於 CML；胃 MALToma 常考 t(11;18)(API2-MALT1)。\n\n【核心考點】\n胃 MALToma 與 H. pylori、邊緣區 B 細胞、t(11;18) 相關；t(9;22) 是 CML。",
+      "key_point": "胃 MALToma 常見 t(11;18)，不是 t(9;22)。",
+      "flashcard_front": "胃 MALToma 易位",
+      "flashcard_back": "胃 MALT lymphoma 常與 H. pylori 相關，常考 t(11;18)(API2-MALT1)。",
+      "flashcard_summary": "Gastric MALT lymphoma -> H. pylori and t(11;18), not Philadelphia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

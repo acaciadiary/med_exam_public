@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n遺傳性血管性水腫與 bradykinin 過多造成血管通透性上升有關。Icatibant 是 bradykinin B2 receptor antagonist，可用於急性發作治療。\n\n【選項詳解】\n- A. 錯誤。Aliskiren 是 direct renin inhibitor，用於高血壓，作用於 RAAS 上游。\n- B. 錯誤。Captopril 是 ACE inhibitor；ACE inhibition 反而可增加 bradykinin，造成咳嗽或血管性水腫副作用。\n- C. 正確。Icatibant 阻斷 bradykinin B2 receptor，可治療 hereditary angioedema 急性發作。\n- D. 錯誤。Aprotinin 是 serine protease inhibitor，歷史上用於減少出血，不是 B2 receptor antagonist。\n\n【核心考點】\nHereditary angioedema 急性治療可用 icatibant；它阻斷 bradykinin B2 receptor。",
+      "key_point": "Icatibant 是 bradykinin B2 receptor antagonist，用於遺傳性血管性水腫。",
+      "flashcard_front": "Hereditary angioedema 藥物",
+      "flashcard_back": "Icatibant 阻斷 bradykinin B2 receptor，可治療急性發作。",
+      "flashcard_summary": "Hereditary angioedema -> icatibant blocks bradykinin B2 receptor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n兒童病毒感染發燒時使用 aspirin，特別與 influenza 或 varicella 相關，會增加 Reye syndrome 風險。臨床通常改用 acetaminophen 等較安全退燒藥。\n\n【選項詳解】\n- A. 錯誤。Acetaminophen 是兒童退燒常用選擇，主要風險是過量肝毒性，不是 Reye syndrome 的典型藥物。\n- B. 錯誤。Ibuprofen 可用於部分兒童退燒止痛，雖有腎臟、胃腸或水痘皮膚感染等注意事項，但 Reye syndrome 連結最典型是 aspirin。\n- C. 錯誤。Celecoxib 是 COX-2 inhibitor，不是兒童病毒發燒 Reye syndrome 的標準考點。\n- D. 正確。Aspirin/salicylates 用於兒童病毒感染時與 Reye syndrome 相關，應避免。\n\n【核心考點】\n兒童或青少年病毒感染退燒避免 aspirin，因為可能誘發 Reye syndrome。",
+      "key_point": "兒童病毒感染使用 aspirin 會增加 Reye syndrome 風險。",
+      "flashcard_front": "Reye syndrome 藥物",
+      "flashcard_back": "兒童 influenza/varicella 等病毒感染避免 aspirin；退燒常用 acetaminophen。",
+      "flashcard_summary": "Reye syndrome -> aspirin in viral illness",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題是否定問法，考 benzodiazepines。BZD 結合位點位於 GABAA receptor 的 alpha 與 gamma subunit 交界，不是 alpha 與 beta 之間。\n\n【選項詳解】\n- A. 正確。Benzodiazepines 作用在 ionotropic GABAA receptor，增強 GABA 開啟 chloride channel 的頻率。\n- B. 錯誤。BZD 結合位點在 alpha-gamma interface；GABA 本身的結合位點才與 beta-alpha interface 相關。\n- C. 正確。BZD 需要 GABA 存在才能增強作用，單獨不直接開啟 chloride channel，因此比 barbiturate 安全。\n- D. 正確。Flurazepam 具長效活性代謝物，半衰期通常比 alprazolam 長。\n\n【核心考點】\nBZD 作用 GABAA、增加 chloride channel 開啟頻率、需 GABA 存在；結合位點是 alpha-gamma。",
+      "key_point": "Benzodiazepine 結合位點在 GABAA receptor 的 alpha 與 gamma subunit 之間。",
+      "flashcard_front": "BZD 結合位點",
+      "flashcard_back": "BZD bind at alpha-gamma interface；GABA bind at alpha-beta interface。",
+      "flashcard_summary": "Benzodiazepines -> GABAA alpha-gamma binding site",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n本題以藥理考試的相對成癮風險作比較。Nicotine 與 alcohol 的成癮與戒斷風險高，cannabinoids 也可形成 cannabis use disorder；ketamine 雖有濫用與心理依賴風險，但在四者中通常被列為較低。\n\n【選項詳解】\n- A. 正確。Ketamine 可被濫用，仍需嚴格管制；但相較 nicotine、alcohol 與 cannabinoids，傳統考試分類常把其成癮風險列得較低。\n- B. 錯誤。Cannabinoids 可造成使用疾患、耐受與戒斷，成癮風險不是四者最低。\n- C. 錯誤。Alcohol 具有明顯獎賞、耐受與危險戒斷，成癮負擔很高。\n- D. 錯誤。Nicotine 是高度成癮物質，強化效果與戒斷症狀都明顯。\n\n【核心考點】\n比較成癮風險時，nicotine 與 alcohol 通常高；ketamine 有濫用風險但在本題四選項中最低。",
+      "key_point": "本題四者相較，ketamine 的成癮風險最低，但仍有濫用與依賴風險。",
+      "flashcard_front": "成癮風險比較",
+      "flashcard_back": "Nicotine、alcohol 成癮性高；cannabinoids 也可成癮；ketamine 在四者中相對最低。",
+      "flashcard_summary": "Addiction risk -> ketamine lowest among listed options in this exam context",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n顫抖、牙齦口炎、肢痛病、周邊神經病變與肺炎，組合指向汞中毒，特別是汞蒸氣或無機汞相關表現。汞可造成神經、口腔黏膜、腎臟與呼吸道毒性。\n\n【選項詳解】\n- A. 錯誤。無機鉛常造成腹痛、貧血、周邊神經病變、腎毒性與兒童神經發育傷害，但牙齦口炎與肢痛病搭配更像汞。\n- B. 錯誤。有機鉛偏中樞神經毒性，可有精神症狀與腦病變，不是此題典型組合。\n- C. 正確。汞元素暴露可造成 tremor、gingivostomatitis、acrodynia、周邊神經病變及吸入後肺炎。\n- D. 錯誤。無機砷鹽常見胃腸症狀、周邊神經病變、皮膚色素沉著與角化、癌症風險，和牙齦口炎/汞顫抖不合。\n\n【核心考點】\n汞中毒記 tremor、gingivostomatitis、erethism、acrodynia、神經與腎毒性；吸入汞蒸氣可傷肺。",
+      "key_point": "汞中毒可造成顫抖、牙齦口炎、肢痛病與周邊神經病變。",
+      "flashcard_front": "汞中毒表現",
+      "flashcard_back": "Mercury poisoning：tremor、gingivostomatitis、acrodynia、neuropathy，可有肺炎。",
+      "flashcard_summary": "Mercury toxicity -> tremor, gingivostomatitis, acrodynia, neuropathy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題考細胞適應與惡性變化的關聯。化生是成熟細胞型態被另一種成熟細胞型態取代，常因慢性刺激而生；長期化生可進一步發展為 dysplasia 與 carcinoma。\n\n【選項詳解】\n- A. 錯誤。Hypertrophy 是細胞變大，常見於肌肉或心肌負荷增加，本身與惡性轉化關聯不如化生直接。\n- B. 錯誤。Aplasia 是器官或組織未發育，不是慢性刺激後癌前變化的典型細胞適應。\n- C. 正確。Metaplasia 可在慢性刺激下出現，例如支氣管鱗狀化生或 Barrett esophagus，若刺激持續可增加惡性變化風險。\n- D. 錯誤。Atrophy 是細胞縮小或數量減少，常因失用、缺血、營養不足或去神經化造成，與癌前進程不如化生典型。\n\n【核心考點】\n化生本身可逆，但代表慢性刺激；持續刺激可進展為 dysplasia，進一步增加癌化風險。",
+      "key_point": "Metaplasia 是和惡性轉化風險最密切的細胞適應。",
+      "flashcard_front": "細胞適應與癌化",
+      "flashcard_back": "Metaplasia 可因慢性刺激而生，持續刺激可進展 dysplasia/carcinoma。",
+      "flashcard_summary": "Cell adaptation -> metaplasia can precede dysplasia and cancer",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nPsammoma body 是同心圓狀鈣化，常見於 papillary thyroid carcinoma、serous papillary ovarian tumor、meningioma 等。選項中最典型是甲狀腺乳突癌。\n\n【選項詳解】\n- A. 正確。Papillary carcinoma of thyroid 常見乳突結構、Orphan Annie eye nuclei、核溝與 psammoma bodies。\n- B. 錯誤。乳房 ductal carcinoma 可有鈣化，但 psammoma body 不是其最典型顯微特徵。\n- C. 錯誤。胰臟 acinar cell carcinoma 以腺泡分化與酵素顆粒相關特徵為主，不以砂粒體著稱。\n- D. 錯誤。結腸 mucinous carcinoma 以大量細胞外黏液為特色，不是 psammoma body 經典腫瘤。\n\n【核心考點】\nPsammoma body 常考 PTC、papillary serous cystadenocarcinoma、meningioma；甲狀腺乳突癌最直覺。",
+      "key_point": "甲狀腺乳突癌容易見 psammoma bodies。",
+      "flashcard_front": "Psammoma body 常見腫瘤",
+      "flashcard_back": "Papillary thyroid carcinoma、serous papillary ovarian carcinoma、meningioma 都可見砂粒體。",
+      "flashcard_summary": "Psammoma bodies -> papillary thyroid carcinoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\nSjögren syndrome 是自體免疫破壞淚腺與唾液腺，常有 anti-SS-A/Ro、anti-SS-B/La、ANA 與 rheumatoid factor。題目要找具備的特徵，RF 陽性常見最穩。\n\n【選項詳解】\n- A. 錯誤。Sjögren 可有腎小管間質性腎炎與 distal RTA，常見腎絲球病變不是主要特徵。\n- B. 錯誤。Anti-SS-A 或 anti-SS-B 是重要相關抗體，但並非完全專一於 Sjögren，SLE 等也可出現。\n- C. 錯誤。Sjögren 增加的是 B 細胞非何杰金淋巴瘤，尤其 MALT lymphoma，不是最常見 T 細胞淋巴瘤。\n- D. 正確。Rheumatoid factor 陽性在 Sjögren syndrome 常見，也反映 B 細胞活化與自體抗體生成。\n\n【核心考點】\nSjögren 記乾眼乾口、anti-SSA/SSB、RF 常陽性、B cell MALT lymphoma 風險上升。",
+      "key_point": "Sjögren syndrome 常見 rheumatoid factor 陽性，且增加 B 細胞 MALT lymphoma 風險。",
+      "flashcard_front": "Sjögren syndrome 特徵",
+      "flashcard_back": "乾眼乾口、anti-SSA/SSB、RF 陽性，併發 B cell MALT lymphoma 風險增加。",
+      "flashcard_summary": "Sjögren -> RF positivity and B-cell lymphoma risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n第二型過敏反應是抗體針對細胞表面或基質抗原，造成細胞破壞或受體功能改變。重症肌無力由抗 acetylcholine receptor 抗體造成神經肌肉傳遞障礙，屬第二型過敏反應。\n\n【選項詳解】\n- A. 正確。Myasthenia gravis 是抗 ACh receptor 抗體造成受體功能阻斷與破壞，屬 type II hypersensitivity。\n- B. 錯誤。Lupus nephritis 主要是免疫複合物沉積造成，屬第三型過敏反應。\n- C. 錯誤。Serum sickness 是典型第三型過敏反應，與循環免疫複合物沉積有關。\n- D. 錯誤。Contact dermatitis 是 T cell-mediated delayed type IV hypersensitivity。\n\n【核心考點】\nType II 是抗體打細胞或受體；myasthenia gravis、Graves disease、autoimmune hemolytic anemia 都是常考例子。",
+      "key_point": "重症肌無力是抗 acetylcholine receptor 抗體造成的第二型過敏反應。",
+      "flashcard_front": "Type II hypersensitivity 例子",
+      "flashcard_back": "Myasthenia gravis 屬 type II；lupus nephritis/serum sickness 屬 type III；contact dermatitis 屬 type IV。",
+      "flashcard_summary": "Hypersensitivity -> myasthenia gravis is type II",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n臺灣子宮頸癌死亡率長期下降，最重要公共衛生因素是子宮頸抹片篩檢普及，能早期發現癌前病變與早期癌並治療。HPV 疫苗很重要，但對過去 20 年死亡率下降的貢獻不如篩檢時間長。\n\n【選項詳解】\n- A. 正確。Pap smear 普及屬篩檢與早期治療，可大幅降低侵襲性子宮頸癌與死亡率。\n- B. 錯誤。HPV 疫苗可預防高風險 HPV 感染，但導入時間與族群涵蓋使其不是臺灣這 20 年死亡率下降的最主要原因。\n- C. 錯誤。口服避孕藥不是降低子宮頸癌死亡率的主要公共衛生措施。\n- D. 錯誤。全民健保提高可近性，但子宮頸癌死亡下降最直接的制度性工具仍是抹片篩檢。\n\n【核心考點】\n子宮頸癌死亡率下降的經典答案是 Pap smear 篩檢；HPV vaccine 主要是預防感染與未來癌症負擔。",
+      "key_point": "子宮頸抹片普及是臺灣子宮頸癌死亡率下降的最重要原因。",
+      "flashcard_front": "子宮頸癌死亡率下降原因",
+      "flashcard_back": "Pap smear 篩檢可早期發現癌前病變與早期癌，是死亡率下降主因。",
+      "flashcard_summary": "Cervical cancer mortality -> Pap smear screening lowered deaths",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-2.json",
+  "dataset_id": "115-2_medicine-2",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-2_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題是否定問法，考四氯化碳毒性。四氯化碳是典型 intrinsic/direct hepatotoxin，經代謝產生自由基造成脂質過氧化與肝細胞傷害；不是主要由個人體質特異反應造成。\n\n【選項詳解】\n- A. 正確。四氯化碳是可造成化學性肝傷害的環境毒物。\n- B. 錯誤。特異體質反應屬 idiosyncratic toxicity；四氯化碳是劑量相關、機轉較可預測的直接性肝毒物。\n- C. 正確。Intrinsic toxicant 指多數個體達足夠劑量會發生可預測毒性，四氯化碳符合此類。\n- D. 正確。四氯化碳在不同動物與人類可造成相似的肝臟脂肪變性、壞死等毒性型態。\n\n【核心考點】\n四氯化碳是 intrinsic hepatotoxin，靠代謝自由基造成肝細胞損傷。",
+      "key_point": "四氯化碳是直接性、劑量相關的 intrinsic 肝毒性物質。",
+      "flashcard_front": "四氯化碳毒性分類",
+      "flashcard_back": "CCl4 是 intrinsic hepatotoxin，不是 idiosyncratic reaction。",
+      "flashcard_summary": "CCl4 toxicity -> intrinsic hepatotoxin via free radicals",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n本題是否定問法，考 WHO 對職業病的概念。職業病可指職業是因果因素、複雜情境中的貢獻因素，或使既有疾病惡化；同一工作環境多人同症狀是群聚線索，不是 WHO 定義本身。\n\n【選項詳解】\n- A. 錯誤。Cases clustering 可提示可能的職場危害，需要調查，但不是職業病定義的核心標準。\n- B. 正確。若職業暴露與疾病具有因果關係，可歸為 occupational disease。\n- C. 正確。在多因素疾病中，工作可作為 contributing factor，仍可納入工作相關疾病判斷。\n- D. 正確。工作暴露也可能加重既有疾病，例如氣喘因職場刺激物惡化。\n\n【核心考點】\n職業病判斷重點是工作暴露與疾病的因果、貢獻或惡化關係；群聚是調查訊號，不是定義。",
+      "key_point": "職業病定義看職業暴露是否為因果、貢獻或惡化因素。",
+      "flashcard_front": "WHO 職業病定義",
+      "flashcard_back": "工作可為 causal factor、contributing factor，或 aggravate pre-existing disease；群聚只是線索。",
+      "flashcard_summary": "Occupational disease -> work as causal/contributing/aggravating factor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題是否定問法，考環境毒物。苯是重要造血毒性與致白血病物質；甲苯雖分子量較大，但毒性不能因此推論比苯更強。\n\n【選項詳解】\n- A. 正確。六價鉻較易進入細胞並具強氧化與致癌毒性，通常比三價鉻毒性高。\n- B. 正確。三氯乙烯是常見工業溶劑，曾廣泛用於去脂、清洗與乾洗相關用途。\n- C. 正確。四氯化碳具典型肝毒性，可造成肝細胞傷害。\n- D. 錯誤。毒性強弱不由分子量單獨決定；苯的骨髓毒性與致癌性比甲苯更是考試重點。\n\n【核心考點】\n毒理不能用分子量直接判斷毒性；苯要記骨髓抑制與白血病風險。",
+      "key_point": "苯的毒性與致癌性重於甲苯，不能因甲苯分子量較大就說毒性較強。",
+      "flashcard_front": "苯 vs 甲苯毒性",
+      "flashcard_back": "苯具骨髓毒性與白血病風險；甲苯分子量較大不代表毒性更強。",
+      "flashcard_summary": "Toxicology -> molecular weight does not determine benzene/toluene toxicity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n本題是否定問法，考 Goffman 的污名分類。Goffman 將污名分為身體污名、人格污名與族群/國族/宗教等 tribal stigma；「東亞病夫」針對中國人的族群與國族貶抑，不能單純歸為身體污名。\n\n【選項詳解】\n- A. 正確。對精神病患者的污名常被錯誤連結到人格、意志或危險性，符合人格污名類型。\n- B. 錯誤。「東亞病夫」雖使用疾病化語言，但社會分類上是在貶抑特定民族/國族群體，較屬 tribal stigma。\n- C. 正確。受污名者常採取隱藏、掩飾、資訊管理等方式避免被排斥。\n- D. 正確。外在污名可內化成 self-stigma，影響自我認同、求助與社會參與。\n\n【核心考點】\nGoffman 污名三類：身體差異、人格瑕疵、族群/國族/宗教等群體污名；自我污名是外在評價內化。",
+      "key_point": "「東亞病夫」屬族群/國族污名，不是單純身體污名。",
+      "flashcard_front": "Goffman stigma 分類",
+      "flashcard_back": "污名分身體、人格、tribal stigma；族群或國族貶抑屬 tribal stigma。",
+      "flashcard_summary": "Stigma -> ethnic/national slur is tribal stigma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n計畫行為理論的相容性原則，要求態度、主觀規範、知覺行為控制、意圖與行為的測量在同一個行為定義上對齊。行為通常需界定目標、行動、脈絡/場域與時間；選項中以目標、發生場域及時間最接近題目要問的共同特質。\n\n【選項詳解】\n- A. 錯誤。知覺控制是理論構面之一，但不是定義行為相容性時的行為特質；社會關係也不是必備的 TACT 元素。\n- B. 錯誤。行動與時間重要，但「他人態度」屬主觀規範相關概念，不是行為本身的定義元素。\n- C. 正確。目標、發生場域及時間對應 target、context、time；行動本身則由所定義的行為承載，是四元素框架中的核心。\n- D. 錯誤。目標與行動有關，但社會關係不能取代場域與時間，會讓測量不相容。\n\n【核心考點】\nTPB 的 compatibility 要讓行為定義與測量一致，常用 action、target、context、time 來檢查。",
+      "key_point": "計畫行為理論相容性原則要求行為的目標、脈絡/場域、時間與行動界定一致。",
+      "flashcard_front": "TPB 相容性原則",
+      "flashcard_back": "行為測量要對齊 action、target、context、time；選項中以目標、場域、時間最貼近。",
+      "flashcard_summary": "TPB compatibility -> behavior measures align by target/context/time/action",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n三段五級預防中，疫苗接種屬第一段預防裡的第二級「特殊保護」。題目問的是五級中的哪一級，不是三段中的第幾段。\n\n【選項詳解】\n- A. 錯誤。第一級是健康促進，例如健康飲食、運動、衛生教育；疫苗屬更具體的保護措施。\n- B. 正確。65 歲以上公費肺炎鏈球菌疫苗是 immunization，屬特殊保護，也就是第二級預防策略。\n- C. 錯誤。第三級在五級分類中是早期診斷與早期治療，較接近篩檢，不是疫苗。\n- D. 錯誤。第四級是限制殘障或減少疾病後續損害，不符合接種前預防感染的目的。\n\n【核心考點】\n三段五級要分清楚：疫苗是第一段預防中的第二級特殊保護。",
+      "key_point": "疫苗接種屬五級預防中的第二級特殊保護。",
+      "flashcard_front": "疫苗 三段五級預防",
+      "flashcard_back": "公費肺炎鏈球菌疫苗屬第一段預防的第二級特殊保護。",
+      "flashcard_summary": "Levels of prevention -> vaccination is specific protection, level 2",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題是否定問法，考健康促進評價。從計畫擬定、發展到執行期間持續監測，屬形成性或過程相關評價；總結性評價通常在計畫完成後判斷整體成果。\n\n【選項詳解】\n- A. 正確。評價需回扣計畫目標，並可檢視 effectiveness、efficiency、efficacy 等面向。\n- B. 正確。PRECEDE-PROCEED 模式常把評價分為 process、impact、outcome evaluation。\n- C. 錯誤。從規劃到執行一路監測不是 summative evaluation；summative evaluation 偏向計畫結束後的總結判斷。\n- D. 正確。Impact evaluation 常看較短期的知識、態度、信念或行為改變；outcome evaluation 才看較長期健康結果。\n\n【核心考點】\nProcess 看執行品質，impact 看近期認知/行為改變，outcome 看長期健康結果；summative 是結束後總結。",
+      "key_point": "Summative evaluation 是結束後總結；執行過程中的持續監測不是總結性評價。",
+      "flashcard_front": "健康促進評價類型",
+      "flashcard_back": "PRECEDE-PROCEED：process、impact、outcome；summative 偏計畫結束後總結。",
+      "flashcard_summary": "Evaluation -> summative is end-of-program judgment, not continuous monitoring",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題是否定問法，考物質使用疾患與 gateway theory。入門理論通常認為較早接觸的是酒精、菸草或大麻等物質，並非海洛因常作第一個被嘗試的藥物。\n\n【選項詳解】\n- A. 正確。物質使用常從暴露機會、開始使用、持續使用，到因正增強或避免戒斷/負向感受而進展至濫用或成癮。\n- B. 正確。即使尚未到成癮階段，個體仍可能在暴露、初用或持續使用任一階段發生急性或慢性傷害。\n- C. 正確。多數物質使用疾患需要反覆使用與神經適應，才逐漸形成濫用、依賴或成癮。\n- D. 錯誤。海洛因通常不是 gateway theory 所稱最早嘗試的物質；它多被視為較晚、危害較高的非法鴉片類。\n\n【核心考點】\nGateway theory 的入門物質通常是酒精、菸草或大麻，不是海洛因。",
+      "key_point": "Gateway theory 不認為海洛因通常是第一個被嘗試的藥物。",
+      "flashcard_front": "Gateway theory 入門物質",
+      "flashcard_back": "入門理論常從酒精、菸草、大麻等較早接觸物質談起；海洛因通常不是第一個。",
+      "flashcard_summary": "Substance gateway theory -> heroin is not the usual first substance",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n我國健保門急診與住院部分負擔常見型態包含定額、定率與上限規定。自負額制是保險設計中先由被保險人自行負擔一定金額後才給付的概念，並非我國健保部分負擔的主要類型。\n\n【選項詳解】\n- A. 正確。定額部分負擔是門診、急診常見設計，例如每次就醫固定金額。\n- B. 正確。定率部分負擔是依醫療費用比例分擔，住院部分負擔常見這種概念。\n- C. 正確。部分負擔上限可避免病人負擔無限制上升，是健保制度設計的一部分。\n- D. 錯誤。自負額制 deductible 不是題目所問我國健保門急診與住院部分負擔類型。\n\n【核心考點】\n健保部分負擔常考定額、定率與上限；deductible 自負額制是不同保險支付概念。",
+      "key_point": "我國健保部分負擔類型不包含自負額制。",
+      "flashcard_front": "健保部分負擔類型",
+      "flashcard_back": "門急診和住院部分負擔可有定額、定率、上限；不含 deductible 自負額制。",
+      "flashcard_summary": "NHI copayment -> fixed amount, coinsurance, ceiling; no deductible system",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-2_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n本題考健康正義中分配正義的主流理論。功利主義、平等主義與社群主義都可討論資源如何分配；原則主義主要是生物醫學倫理四原則，不是分配正義三大理論之一。\n\n【選項詳解】\n- A. 正確。功利主義重視最大化整體效益，是分配正義的重要理論之一。\n- B. 正確。平等主義重視平等機會、資源或健康結果，常用於健康不平等討論。\n- C. 錯誤。原則主義指自主、不傷害、行善、正義等生醫倫理框架，不屬題目所問分配正義三大主流理論。\n- D. 正確。社群主義重視共同體價值、社會連帶與制度脈絡，也可作為健康正義分配觀點。\n\n【核心考點】\n分配正義理論常考功利主義、平等主義、社群主義；principlism 是臨床倫理常用框架。",
+      "key_point": "原則主義是生醫倫理四原則框架，不是健康正義分配理論三大類之一。",
+      "flashcard_front": "健康正義三大理論",
+      "flashcard_back": "分配正義常談功利主義、平等主義、社群主義；原則主義屬生醫倫理框架。",
+      "flashcard_summary": "Health justice -> principlism is not a distributive justice main theory",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-14T23:45:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
