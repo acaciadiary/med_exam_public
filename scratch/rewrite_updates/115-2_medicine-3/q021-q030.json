@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n本題問大腸直腸癌何者正確。近年早發性大腸直腸癌在歐美與亞太多地都有上升趨勢，因此 A 是正確敘述。\n\n【選項詳解】\n- A. 正確。50 歲以下 early-onset colorectal cancer 增加是近年重要流行病學現象，臨床上也提醒年輕病人出現警訊不能只歸因於痔瘡或腸胃炎。\n- B. 錯誤。腺瘤是癌前病變且大腸鏡會切除腺瘤性息肉，但不是幾乎所有腺瘤都會癌化；癌化風險取決於大小、絨毛成分與高度異生等。\n- C. 錯誤。Lynch syndrome 相關癌症因 MSI-high 特性，預後不一定比散發性大腸癌差；此敘述過度簡化且方向不穩。\n- D. 錯誤。吸菸是風險因子之一，但大腸癌風險還包括年齡、家族史、遺傳症候群、發炎性腸病、肥胖、飲食與酒精等，不能說最重要。\n\n【核心考點】\n大腸直腸癌考題常考早發性增加、腺瘤癌化序列與 Lynch syndrome。腺瘤需切除，但不是每顆都必然癌化。",
+      "key_point": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "flashcard_front": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "flashcard_back": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "flashcard_summary": "Colorectal cancer -> early-onset incidence increasing；adenoma 是癌前但非全部癌化",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n45 歲女性有胸口灼熱、晨起苦味與聲音沙啞，最像 GERD，但仍要排除心血管與其他食道疾病。四個敘述中只有第 4 項正確，因此答案為僅 4。\n\n【選項詳解】\n- A. 錯誤。A 含 1、2、4；第 1 項錯在說不可能為冠狀動脈疾病，胸痛病人不能用逆流症狀完全排除心臟病，第 2 項也錯。\n- B. 錯誤。B 含 2、4；GERD 可是 non-erosive reflux disease，胃鏡沒有食道炎不代表不可能是 GERD。\n- C. 正確。PPI 抑酸效果通常優於 H2RA，對典型 GERD 症狀與食道炎癒合較有效；第 1 到 3 項皆不適當。\n- D. 錯誤。D 含 2、3；Barrett 食道增加的是食道腺癌風險，不是鱗狀細胞癌，且胃鏡無發炎也不能排除 GERD。\n\n【核心考點】\nGERD 可以沒有內視鏡食道炎；治療上 PPI 比 H2RA 強。Barrett 食道連到腺癌，胸痛病人不能武斷排除冠心病。",
+      "key_point": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "flashcard_front": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "flashcard_back": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "flashcard_summary": "GERD -> non-erosive 仍可能；PPI 優於 H2RA；Barrett -> adenocarcinoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n本題問小腸細菌過度生長何者錯誤。SIBO 可造成脂肪吸收不良與維生素 B12 消耗，卻常因細菌合成葉酸而使葉酸正常或偏高，因此 D 錯。\n\n【選項詳解】\n- A. 不選。細菌去結合膽鹽會影響脂肪吸收，造成脂肪便、腹脹與體重下降。\n- B. 不選。腸內細菌消耗 vitamin B12，可造成 B12 缺乏與大球性貧血。\n- C. 不選。盲環、狹窄、術後吻合、腸道蠕動差或結構異常都可能讓細菌在小腸過度增生。\n- D. 應選。SIBO 典型是 B12 缺乏，葉酸可因細菌產生而正常或增加，不是常導致葉酸缺乏。\n\n【核心考點】\nSIBO 的營養陷阱是「B12 低、葉酸不低」。脂肪便來自膽鹽去結合與吸收不良。",
+      "key_point": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "flashcard_front": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "flashcard_back": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "flashcard_summary": "SIBO -> steatorrhea、macrocytic anemia、B12 low、folate normal/high",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n本題是否定問法，問何者不是慢性腎臟病常見危險因子。糖尿病與高血壓是 CKD 最重要危險因子，吸菸也會促進腎病進展；喝酒不是典型主要危險因子。\n\n【選項詳解】\n- A. 不選。吸菸會造成血管傷害、加速動脈硬化與蛋白尿進展，是 CKD 與心血管風險管理要處理的因子。\n- B. 應選。酒精可造成其他健康問題，但在 CKD 常見危險因子清單中，不如糖尿病、高血壓、蛋白尿、年齡與吸菸典型。\n- C. 不選。糖尿病腎病變是 CKD 與末期腎臟病最常見原因之一。\n- D. 不選。高血壓既可造成腎小動脈硬化，也會加速各類 CKD 惡化。\n\n【核心考點】\nCKD 風險先記糖尿病、高血壓、蛋白尿、年齡、家族史與吸菸。喝酒不是國考常列的核心 CKD 危險因子。",
+      "key_point": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "flashcard_front": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "flashcard_back": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "flashcard_summary": "CKD risk -> DM、HTN、proteinuria、smoking；alcohol 非典型主因",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\nCKD 風險分層同時看 eGFR 與白蛋白尿。即使 eGFR 尚高，UACR 大於 300 mg/g 代表 A3 重度白蛋白尿，進展與心血管風險可比單純 eGFR 輕度下降更嚴重。\n\n【選項詳解】\n- A. 正確。eGFR 80 屬 G2，但 UACR >300 mg/g 是 A3，重度白蛋白尿使腎病惡化與心血管風險顯著增加。\n- B. 錯誤。eGFR 70 加 UACR 30-300 mg/g 是 G2A2，風險低於 A3 白蛋白尿。\n- C. 錯誤。eGFR 60 與 UACR <30 mg/g 接近 G2/G3a 邊界且 A1，若無其他證據，風險不如 A3。\n- D. 錯誤。eGFR 50 是 G3a，但 UACR A1；相較 A 的 A3 白蛋白尿，整體風險通常較低。\n\n【核心考點】\nCKD 分層不能只看 eGFR；albuminuria 是預測腎衰與心血管事件的強風險因子。A3 白蛋白尿要高度重視。",
+      "key_point": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "flashcard_front": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "flashcard_back": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "flashcard_summary": "CKD staging -> GFR plus albuminuria；A3 可讓風險大幅上升",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n急性腸胃炎上吐下瀉會造成有效循環量下降與噁心、壓力刺激，促進抗利尿激素分泌。ADH 使水分滯留多於鈉，造成低血鈉。\n\n【選項詳解】\n- A. 錯誤。甲狀腺素不足可造成低血鈉，但題幹是急性腸胃炎與體液流失，不是甲狀腺功能異常。\n- B. 正確。Vasopressin 上升會增加集合管水重吸收，使血鈉被稀釋；噁心與低有效循環量都是強 ADH 刺激。\n- C. 錯誤。Aldosterone 上升主要促進鈉重吸收與鉀排出，較偏向保鈉保水，不是稀釋性低鈉的最直接原因。\n- D. 錯誤。Glucocorticoid 缺乏會造成低血鈉；題目問分泌上升，且此病人腎功能與血壓未指向腎上腺危象。\n\n【核心考點】\n低血容量、噁心、疼痛與壓力都會促進 ADH，造成水滯留與低血鈉。看到嘔吐腹瀉合併輕低鈉，先想到非滲透性 ADH 上升。",
+      "key_point": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "flashcard_front": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "flashcard_back": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "flashcard_summary": "Hyponatremia -> nausea/hypovolemia stimulates ADH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\nIC/BPS 是慢性膀胱疼痛、頻尿、急尿症候群，病因假說包含尿路上皮屏障缺陷、免疫、神經敏感化與微生物環境變化。尿路結石與結晶是鑑別診斷，不是主要病因假說。\n\n【選項詳解】\n- A. 不選。感染後變化、尿道或膀胱微生物群改變被提出為可能相關因素，雖然不是單一確定病因。\n- B. 不選。自體免疫與肥大細胞活化等免疫機轉被列為 IC/BPS 的可能假說。\n- C. 不選。中樞敏感化與神經生物學因素可解釋疼痛放大、慢性疼痛共病與症狀持續。\n- D. 應選。結石會造成疼痛、血尿或感染樣症狀，需排除，但不是 IC/BPS 的主要病因假說。\n\n【核心考點】\nIC/BPS 是排除診斷與慢性疼痛症候群，病因多假說。結石是要排除的 mimicker，不是它的核心病因。",
+      "key_point": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "flashcard_front": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "flashcard_back": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "flashcard_summary": "IC/BPS -> chronic bladder pain；stone 是 differential, not pathogenesis hypothesis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n急性腎損傷恢復狀態最實用的監測是連續看血清 creatinine 與尿量。這兩者直接反映濾過功能與腎臟灌流/排尿反應。\n\n【選項詳解】\n- A. 正確。Creatinine 趨勢與尿量是 AKI 分期與恢復判斷的核心資料，需連續觀察而不是看單點數字。\n- B. 錯誤。腹部超音波可排除阻塞或評估腎臟結構，但每天做不會準確反映功能恢復。\n- C. 錯誤。血尿與蛋白尿可提示腎絲球或腎小管病因，卻不是監測 AKI 治療反應的最準確指標。\n- D. 錯誤。尿液培養只在懷疑感染時有用，不能用來追蹤 AKI 恢復。\n\n【核心考點】\nAKI 追蹤先看尿量與 creatinine trend。影像與尿液檢查要依病因使用，不是每天例行監測恢復的主軸。",
+      "key_point": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "flashcard_front": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "flashcard_back": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "flashcard_summary": "AKI monitoring -> serial creatinine and urine output",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n腎移植 10 年後腎功能慢性惡化，切片有間質纖維化與小動脈壁增厚、無淋巴球浸潤，需考慮 calcineurin inhibitor 慢性毒性。下一步應先檢測 tacrolimus trough level。\n\n【選項詳解】\n- A. 錯誤。沒有淋巴球浸潤不支持急性細胞性排斥，直接加類固醇可能增加感染與代謝副作用。\n- B. 正確。Tacrolimus 可造成腎小動脈病變與間質纖維化，檢測 trough level 可判斷是否過量並調整免疫抑制。\n- C. 錯誤。Cyclosporine 同屬 calcineurin inhibitor，也有腎毒性，未確認濃度前直接替換不是最佳處置。\n- D. 錯誤。增加 mycophenolate mofetil 會加重免疫抑制，對疑似 tacrolimus 毒性或慢性纖維化不能直接解決。\n\n【核心考點】\n移植腎慢性惡化要分排斥、藥物毒性與慢性移植物病變。Tacrolimus 毒性線索是小動脈病變與間質纖維化，先查 trough level。",
+      "key_point": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "flashcard_front": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "flashcard_back": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "flashcard_summary": "Renal transplant -> suspected CNI toxicity; check tacrolimus trough",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n病人長期自行購買消炎止痛藥、慢性腎衰竭，未顯影 CT 圖像若見乳突鈣化或腎乳頭壞死線索，最支持止痛藥腎病變。電池工廠與痛風會干擾判斷，但正答是 B。\n\n【選項詳解】\n- A. 錯誤。馬兜鈴酸腎病變常見腎臟萎縮、間質纖維化與泌尿道上皮癌風險，題幹最強線索不是中草藥或 aristolochic acid 暴露。\n- B. 正確。Analgesic nephropathy 與長期 NSAID/複方止痛藥使用相關，可造成慢性間質性腎炎、腎乳頭壞死與乳頭鈣化。\n- C. 錯誤。鉛腎病變可和電池工廠、痛風、高血壓相關，但典型影像不是腎乳頭壞死/鈣化；本題影像與止痛藥史更關鍵。\n- D. 錯誤。慢性腎絲球腎炎可有蛋白尿與腎衰，但題幹的止痛藥暴露與 CT 線索更支持腎乳頭壞死。\n\n【核心考點】\n慢性止痛藥使用加腎乳頭壞死或乳頭鈣化，要想到 analgesic nephropathy。職業暴露線索要和影像特徵一起判讀。",
+      "key_point": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "flashcard_front": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "flashcard_back": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "flashcard_summary": "Analgesic nephropathy -> chronic analgesics, papillary necrosis, papillary calcification",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

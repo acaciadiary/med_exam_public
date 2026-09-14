@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n病人有持續胸痛、V1-V4 ST elevation 與 troponin 上升，符合前壁 STEMI。選項中最適當的急診藥物是舌下 nitroglycerin 緩解缺血性胸痛與降低前負荷；真正關鍵仍是盡快再灌流，但不在選項內。\n\n【選項詳解】\n- A. 錯誤。STEMI 應給 aspirin，但可嚼 aspirin 常用負荷劑量不是 600 mg；600 mg 比較接近 clopidogrel loading dose 的量級。\n- B. 正確。血壓 160/80 mmHg、沒有低血壓或右室梗塞線索時，舌下 nitroglycerin 0.4 mg 可用於緩解胸痛與降低心肌耗氧。\n- C. 錯誤。刺破立即釋放 nifedipine 會造成不可預測低血壓與反射性心搏過速，急性冠症候群中不建議這樣處理。\n- D. 錯誤。Enoxaparin 可用於抗凝，但 5 mg/kg 皮下注射是明顯過量；急性冠症候群抗凝需依體重與腎功能使用標準劑量。\n\n【核心考點】\nSTEMI 初期處置要記抗血小板、抗凝、硝酸鹽適應症與立即再灌流。不要把 aspirin 劑量和 clopidogrel loading dose 混在一起，也避免立即釋放 nifedipine。",
+      "key_point": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "flashcard_front": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "flashcard_back": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "flashcard_summary": "STEMI 急診藥物 -> nitroglycerin 可用於穩定高血壓胸痛；避免錯劑量與速效 nifedipine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n承上題，病人已成功 PCI 後問後續處置何者最不適當。心肌梗塞早期若有 VT/VF，恢復竇性後不建議常規預防性 lidocaine，因未改善存活且可能增加不良反應。\n\n【選項詳解】\n- A. 不選。MI 後若血行動力穩定且血壓允許，ACE inhibitor 或 ARB 可降低心室重塑與後續心血管事件，尤其前壁 MI 更有意義。\n- B. 不選。心尖部心室瘤合併左心室血栓時，即使無症狀也有栓塞風險，若出血風險可接受，可考慮 3-6 個月抗凝血。\n- C. 應選。預防性 lidocaine 不作為 MI 後 VT/VF 恢復後的例行用藥；重點是修正缺血、電解質與依狀況使用 beta blocker、amiodarone 等。\n- D. 不選。低鎂會增加心律不整風險，MI 後監測並矯正低鎂、低鉀是合理支持治療。\n\n【核心考點】\nMI 後二級預防包括再灌流、DAPT、statin、ACEi/ARB、beta blocker 與風險控制。早期心律不整處理要矯正缺血與電解質，不做例行預防性 lidocaine。",
+      "key_point": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "flashcard_front": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "flashcard_back": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "flashcard_summary": "Post-MI care -> ACEi/ARB 抗重塑、左室血栓抗凝、避免 routine prophylactic lidocaine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n心肌缺血有一個時間序列：灌流下降先發生，接著舒張與收縮功能改變，之後才出現心電圖與胸痛，心肌酵素上升則需要心肌壞死與時間。D 說 ECG 一變酵素一定升高，因此最不適當。\n\n【選項詳解】\n- A. 不選。局部壁運動與收縮功能異常可早於明顯 ST-T 變化，是壓力心臟超音波可偵測缺血的基礎。\n- B. 不選。灌流減少是 ischemic cascade 的前端事件，通常早於壁運動異常。\n- C. 不選。舒張功能對缺血很敏感，可早於明顯收縮功能障礙出現。\n- D. 應選。心電圖改變可能發生在心肌壞死前或很早期，周邊血 troponin/CK-MB 需要時間上升，不能說一定已升高。\n\n【核心考點】\nIschemic cascade 大致是灌流異常、舒張功能異常、收縮/壁運動異常、ECG 變化、症狀與生物標記上升。ECG 與酵素不是同步保證。",
+      "key_point": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "flashcard_front": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "flashcard_back": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "flashcard_summary": "Ischemic cascade -> perfusion 最早；ECG 改變不保證酵素升高",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題問主動脈瓣疾病何者最不適當。雙瓣主動脈瓣是先天常見瓣膜異常，男性較多，且容易提早發生主動脈瓣狹窄或逆流；D 的性別與嚴重度描述都錯。\n\n【選項詳解】\n- A. 不選。退化性鈣化主動脈瓣疾病會隨年齡增加，男女都受影響，只是盛行率與表現可不同。\n- B. 不選。嚴重主動脈瓣狹窄在高齡者常見，尤其 75 歲以上退化性鈣化是重要原因。\n- C. 不選。感染性心內膜炎風險會受高齡、置入性血管或心臟裝置、醫療照護暴露與抗藥菌影響。\n- D. 應選。雙瓣主動脈瓣較常見於男性，且會加速瓣膜鈣化、狹窄或逆流，並可合併升主動脈病變。\n\n【核心考點】\n雙瓣主動脈瓣不是良性小變異；它常造成早發性主動脈瓣狹窄/逆流，且男性較常見。",
+      "key_point": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "flashcard_front": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "flashcard_back": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "flashcard_summary": "Aortic valve disease -> degenerative AS 隨年齡上升；BAV 男性多且可嚴重",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n本題問食道癌描述何者錯誤。肥胖主要增加胃食道逆流、Barrett 食道與下段食道腺癌風險，不是食道鱗狀細胞癌的典型相關因子，因此 D 錯。\n\n【選項詳解】\n- A. 不選。食道鱗狀細胞癌常發生在中上段，吸菸與酒精是重要風險因子，兩者合併風險更高。\n- B. 不選。嚼檳榔與口腔、咽喉及食道鱗狀細胞癌風險上升相關，台灣考題常一起考。\n- C. 不選。Barrett 食道是胃食道逆流造成的腸上皮化生，主要增加下段食道腺癌風險。\n- D. 應選。肥胖與食道腺癌較相關，透過腹壓增加與逆流促成 Barrett 食道；它不是鱗狀細胞癌的代表危險因子。\n\n【核心考點】\n食道癌要分鱗狀細胞癌與腺癌：鱗癌連到菸酒檳榔與中上段，腺癌連到 GERD、Barrett、肥胖與下段。",
+      "key_point": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "flashcard_front": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "flashcard_back": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "flashcard_summary": "Esophageal cancer -> SCC 菸酒檳榔中上段；adenocarcinoma GERD/Barrett/肥胖下段",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題問幽門螺旋桿菌檢查何者正確。快速尿素酶檢驗需要胃鏡取得胃黏膜檢體，屬侵入性檢查，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。臨床常用的是糞便抗原檢測，不是糞便抗體；抗體檢測無法區分現在感染與過去暴露。\n- B. 正確。Rapid urease test 需經內視鏡切片取得胃黏膜，靠細菌 urease 分解尿素使 pH 變化來判讀。\n- C. 錯誤。13C urea breath test 使用穩定同位素，沒有放射性；14C 才涉及少量放射性考量。\n- D. 錯誤。根除後確認治療成功通常需等抗生素完成至少 4 週，且停用 PPI/PCAB 約 2 週，以免偽陰性。\n\n【核心考點】\nH. pylori 檢查分侵入性胃鏡切片與非侵入性呼氣/糞便抗原。13C 沒有放射性；test of cure 不能在停藥 1 週就急著做。",
+      "key_point": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "flashcard_front": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "flashcard_back": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "flashcard_summary": "H. pylori -> RUT 侵入性；13C UBT 非放射；test of cure 等至少 4 週",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n肝硬化的核心病理是慢性肝損傷後纖維化、再生結節與血流架構扭曲。造成膠原沉積與血管阻力上升的主角是活化的肝星狀細胞。\n\n【選項詳解】\n- A. 錯誤。Kupffer 細胞是肝臟巨噬細胞，會釋放發炎與纖維化訊號，但不是產生大量細胞外基質的主要效應細胞。\n- B. 正確。Hepatic stellate cells 活化後轉成肌纖維母細胞樣細胞，分泌 collagen，造成竇狀隙纖維化與門脈高壓。\n- C. 錯誤。肝細胞是受損與再生的主要實質細胞，但纖維化矩陣沉積不是由它主導。\n- D. 錯誤。肝竇內皮細胞功能改變會影響微循環，但肝硬化纖維化的關鍵細胞仍是肝星狀細胞。\n\n【核心考點】\n肝硬化纖維化請記 hepatic stellate cell activation。Kupffer cell 可推動發炎訊號，但 stellate cell 才是膠原沉積主力。",
+      "key_point": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "flashcard_front": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "flashcard_back": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "flashcard_summary": "Cirrhosis fibrosis -> stellate cell activation 是主角",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n肝性腦病變治療重點是找誘因、降低腸道含氮毒素與避免過度限制營養。Lactulose 透過酸化腸腔與促進排便減少氨吸收，是治療主力。\n\n【選項詳解】\n- A. 錯誤。長期嚴格限制蛋白質會惡化營養不良與肌少症，現代治療不把限制蛋白質當首選。\n- B. 正確。Lactulose 可降低腸道 pH，使 NH3 轉為較不易吸收的 NH4+，並加速腸道排空，是急性與慢性治療常用藥。\n- C. 錯誤。Neomycin、metronidazole 可降低腸道菌，但有耳腎毒性、周邊神經病變等副作用，不能說可避免副作用。\n- D. 錯誤。Rifaximin 全身吸收率低，常作為 lactulose 後的加用或預防復發用藥，不是因高吸收率而用。\n\n【核心考點】\n肝性腦病變先找誘因，藥物以 lactulose 為主，rifaximin 常作加用。不要用過度限蛋白取代治療。",
+      "key_point": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "flashcard_front": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "flashcard_back": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "flashcard_summary": "Hepatic encephalopathy -> lactulose first-line；rifaximin 低吸收常加用",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n本題問胰臟腺癌何者錯誤。第 4 期代表已有遠端轉移，標準治療通常是全身性治療與緩和照護評估，不是手術切除後再做輔助化療。\n\n【選項詳解】\n- A. 不選。局限且可切除的胰臟癌有機會透過手術達到長期控制或根治，是少數可能治癒的方式。\n- B. 不選。術後輔助化療可降低復發風險並改善存活，常見於可切除病人術後治療。\n- C. 應選。第 4 期胰臟癌已有轉移，治療重點是全身性化療、症狀控制與生活品質；手術切除不是標準處置。\n- D. 不選。胰臟癌可造成高凝血狀態，與 migratory thrombophlebitis、深部靜脈血栓與肺栓塞風險上升相關。\n\n【核心考點】\n胰臟癌治療要先分可切除、局部晚期與轉移性。只有可切除病灶才談手術根治與術後輔助治療；第 4 期以全身治療為主。",
+      "key_point": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "flashcard_front": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "flashcard_back": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "flashcard_summary": "Pancreatic cancer -> resectable 才談根治手術；stage IV 以 systemic therapy 為主",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問 IBD 何者錯誤。潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險，因此監測大腸鏡不只適用於潰瘍性大腸炎。\n\n【選項詳解】\n- A. 不選。IBD 初診時可能因表現重疊而暫時歸為 indeterminate colitis 或 IBD-unclassified，之後再依病程與病理分類。\n- B. 不選。Uveitis、episcleritis 等眼部腸外表現可見於 UC 與 Crohn disease。\n- C. 應選。Crohn colitis 也會增加大腸癌風險；是否追蹤取決於結腸受累範圍、病程長度、發炎程度與其他危險因子。\n- D. 不選。Azathioprine 可與生物製劑併用降低免疫原性或增強治療，副作用包括骨髓抑制、噁心、肝毒性與感染風險。\n\n【核心考點】\nIBD 的大腸癌風險不是 UC 專屬；只要 Crohn disease 有長期結腸發炎，也需要依風險安排 surveillance colonoscopy。",
+      "key_point": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "flashcard_front": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "flashcard_back": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "flashcard_summary": "IBD cancer risk -> UC 與 Crohn colitis 都要風險分層追蹤大腸鏡",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

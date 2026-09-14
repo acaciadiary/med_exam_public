@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n本題問長照 2.0 失能評估與給付制度何者正確。SOF 是常用衰弱篩檢工具之一，可用於評估衰弱程度；其他選項把單位角色、服務型態與給付概念寫錯。\n\n【選項詳解】\n- A. 錯誤。長照等級評估後會由個案管理員擬定照顧計畫，但 C 單位不是負責共同擬定個別照顧計畫的主體；題目把角色寫錯。\n- B. 錯誤。長照服務不只居家式與機構住宿式兩種，還包含日間照顧、家庭托顧、交通、輔具、喘息等多元服務。\n- C. 正確。SOF frailty index 可用體重減輕、起立能力、精力等簡項評估衰弱，是衰弱評估工具之一。\n- D. 錯誤。低收入或中低收入身分主要影響政府補助與自付比例，不是單純收入越低就給付額度越多。\n\n【核心考點】\n長照題要分清「失能等級給付額度」與「依經濟身分調整部分負擔」。SOF 是衰弱篩檢工具；C 單位不是照顧計畫核心個管角色。",
+      "key_point": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "flashcard_front": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "flashcard_back": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "flashcard_summary": "Long-term care 2.0 -> SOF frailty; benefits differ from copayment status",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n相對風險 RR = 介入組事件率 / 對照組事件率。HRT 組 38/10,000，對照組 28/10,000，因此 RR = 38/28 = 1.357。\n\n【選項詳解】\n- A. 錯誤。1/1,000 是絕對差異 10/10,000 的另一種表達，不是 relative risk。\n- B. 錯誤。0.737 是 28/38，分子分母倒置，代表把對照組除以介入組。\n- C. 正確。38 除以 28 約為 1.357，表示 HRT 組 CHD 風險約為對照組 1.36 倍。\n- D. 錯誤。1,000 不是由兩組事件率相除得到的值，數量級完全不合理。\n\n【核心考點】\nRR 永遠是暴露/介入組風險除以對照組風險。先確認分子分母，絕對風險差不要和相對風險混在一起。",
+      "key_point": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "flashcard_front": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "flashcard_back": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "flashcard_summary": "Relative risk -> exposed/intervention risk divided by control risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n本題問安寧療護何者錯誤。安寧療護常以末期或預期存活有限病人為對象，但不是僅限存活期小於或等於 12 個月；A 的時間門檻過於僵硬。\n\n【選項詳解】\n- A. 應選。安寧療護的適用重點是末期疾病、症狀負擔與照護目標，不宜用「主要提供給 <=12 個月」作為固定定義。\n- B. 不選。臨床上安寧常被太晚照會，病人接受服務時間偏短是常見問題。\n- C. 不選。協助病人依意願返家或在熟悉環境善終，是安寧療護的重要目標之一。\n- D. 不選。安寧團隊照顧包含病人與家屬，喪親悲傷支持可延伸至病人過世後一段時間，常見說法可達一年。\n\n【核心考點】\n安寧療護不是放棄治療，而是以舒適、尊嚴、症狀控制與家屬支持為核心。不要把適用對象死板限縮成單一月份。",
+      "key_point": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "flashcard_front": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "flashcard_back": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "flashcard_summary": "Hospice/palliative care -> comfort, goals, family support; avoid rigid 12-month definition",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n急性胰臟炎晚期局部併發症包括胰臟假性囊腫、胰管狹窄或阻塞、感染性壞死或膿瘍。膽結石常是急性胰臟炎原因，不是晚期併發症，因此 A 最不常見。\n\n【選項詳解】\n- A. 應選。膽結石可阻塞壺腹引發胰臟炎，但通常不是胰臟炎本身的晚期併發症。\n- B. 不選。發炎、纖維化或假性囊腫壓迫可造成胰管阻塞或狹窄。\n- C. 不選。胰臟假性囊腫是急性胰臟炎數週後的典型晚期局部併發症。\n- D. 不選。感染性壞死或後腹腔膿瘍可在病程後期發生，屬嚴重併發症。\n\n【核心考點】\n膽結石常是 pancreatitis 的原因，不是典型晚期結果。晚期併發症要記 pseudocyst、duct obstruction、infected necrosis/abscess。",
+      "key_point": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "flashcard_front": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "flashcard_back": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "flashcard_summary": "Acute pancreatitis -> gallstone cause; late complications pseudocyst/duct obstruction/abscess",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n本題是心臟 CT 辨認冠狀動脈。官方答案為左前降支冠狀動脈，通常位於前室間溝，走向心尖，供應左心室前壁與心室中隔前部。\n\n【選項詳解】\n- A. 錯誤。右冠狀動脈多行走在右房室溝，供應右心室與多數人的下壁/房室結，不是前室間溝走向。\n- B. 錯誤。左主冠狀動脈是左冠脈起始短幹，之後分成 LAD 與 LCx；箭頭若指向沿前室間溝下行血管，已不是左主幹。\n- C. 正確。LAD 沿 anterior interventricular groove 走向心尖，是前壁心肌梗塞常見 culprit vessel。\n- D. 錯誤。左迴旋支多行走於左房室溝，繞向側壁/後外側，不是前室間溝下行血管。\n\n【核心考點】\n冠脈影像定位：LAD 在前室間溝往心尖，LCx 在左房室溝繞行，RCA 在右房室溝。",
+      "key_point": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "flashcard_front": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "flashcard_back": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "flashcard_summary": "Coronary anatomy -> LAD anterior interventricular groove to apex",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n本題問 2020 AHA CPR/ECC 下 OHCA 與 IHCA 比較何者正確。台灣高級救護技術員可依規範執行較進階處置，中級救護技術員可使用 AED，C 是正確敘述。\n\n【選項詳解】\n- A. 錯誤。整體而言 OHCA 到院前延遲與旁觀者 CPR/AED 不確定性較高，存活率通常不會高於 IHCA。\n- B. 錯誤。成人 CPR 強調 C-A-B，但新生兒或特定小兒情境仍重視通氣；「所有 OHCA 病人」一律先壓再吹過度絕對。\n- C. 正確。台灣 EMT 分級下，高級救護技術員能在醫療指導與預立流程中執行給藥、進階呼吸道等處置；中級救護技術員可使用 AED。\n- D. 錯誤。溫度管理用於特定 ROSC 後昏迷病人以保護神經，不是所有 OHCA/IHCA 恢復心跳者的標準治療。\n\n【核心考點】\nCPR 題要避免「所有」這種絕對字眼。成人 OHCA 基本流程重視高品質胸外按壓與早期 AED；ROSC 後溫度管理需看意識與適應症。",
+      "key_point": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "flashcard_front": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "flashcard_back": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "flashcard_summary": "CPR/ECC -> EMT scope by level; TTM for selected comatose ROSC patients",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\nSIADH 是低張性低血鈉、臨床正常體容積、尿液不適當濃縮與尿鈉偏高。B 說尿滲透壓通常小於 100，方向相反；SIADH 應是尿滲透壓大於 100。\n\n【選項詳解】\n- A. 不選。SIADH 屬低張性低血鈉，血漿滲透壓通常 <275 mOsm/kg。\n- B. 應選。若 ADH 被適當抑制，尿液才會很稀、尿滲透壓 <100；SIADH 因 ADH 不適當作用，尿滲透壓通常 >100。\n- C. 不選。SIADH 病人尿鈉常 >20-30 mEq/L，反映正常體容積下仍排鈉。\n- D. 不選。Euvolemia 是 SIADH 診斷要件之一，需排除心衰竭、肝硬化、腎衰竭與低血容量。\n\n【核心考點】\nSIADH 診斷：低血漿滲透壓、尿滲透壓 >100、尿鈉偏高、臨床 euvolemia，並排除甲狀腺與腎上腺問題。",
+      "key_point": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "flashcard_front": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "flashcard_back": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "flashcard_summary": "SIADH -> hypotonic hyponatremia, urine osm >100, urine Na high, euvolemia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n急性高山症診斷需要近期上升到高海拔後出現頭痛，並合併其他症狀如噁心、疲倦、頭暈或睡眠障礙。頭痛是必要條件。\n\n【選項詳解】\n- A. 錯誤。噁心與嘔吐可支持急性高山症，但不是每個病例必備，也不能取代頭痛。\n- B. 錯誤。疲憊虛弱常見，但缺乏特異性，單獨不能作為必要條件。\n- C. 正確。頭痛是 Lake Louise 等診斷架構中的核心症狀，通常需有頭痛加其他症狀。\n- D. 錯誤。頭暈可出現，但不是必要條件，也可能來自脫水、低血糖或前庭問題。\n\n【核心考點】\n急性高山症要記「上高海拔後頭痛」加其他症狀。噁心、疲倦、頭暈是加分線索，不是必要核心。",
+      "key_point": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "flashcard_front": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "flashcard_back": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "flashcard_summary": "Acute mountain sickness -> headache required plus other symptoms after altitude gain",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n值班醫師正在處理病情嚴重病人，又接到另一位突發腹痛病人需求。最適當作法是維持對危急病人的處理，同時啟動支援，請護理師聯絡二線醫師協助。\n\n【選項詳解】\n- A. 錯誤。未評估腹痛原因就先打生理食鹽水只是安撫家屬，可能延誤診斷，也不是護理師可替代醫師評估的作法。\n- B. 錯誤。直接放下正在處理的嚴重病人，可能危及乙病人安全；醫療優先順序需看緊急程度與可用支援。\n- C. 正確。請護理師聯絡二線醫師，可在不放棄目前危急處置的情況下，讓另一位病人獲得及時評估。\n- D. 錯誤。護理師可協助觀察與回報，但突發腹痛需醫師評估；單純請護理師代為處理與安撫不足。\n\n【核心考點】\n同時多重急症時，要做 triage 並啟動支援。不要為了新需求拋下正在處理的危急病人，也不要把需醫師評估的病況完全交給護理師。",
+      "key_point": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "flashcard_front": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "flashcard_back": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "flashcard_summary": "Duty triage -> continue critical care and call backup",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n守密有例外，例如重大他人傷害風險、疑似虐待通報或依法調閱。對非同住親友揭露 HIV 陽性結果通常沒有正當例外，仍應嚴守守密。\n\n【選項詳解】\n- A. 正確。HIV 檢驗結果屬高度敏感個資，非同住親友若無病人同意或法定例外，不應揭露。\n- B. 錯誤。精神科病人透露高度可信且具體的攻擊計畫時，可能啟動保護潛在受害者與通報/警示義務。\n- C. 錯誤。認知障礙年長者多處不明傷痕需懷疑老人虐待或照顧疏忽，依法與倫理上可能需要通報。\n- D. 錯誤。法院或健保署依法調閱時，醫師可在合法程序與最小必要範圍內提供資料，不是絕對守密。\n\n【核心考點】\n醫療守密原則很強，但有法定通報、保護第三人與合法調閱等例外。親友好奇或關心不等於可揭露病人敏感資訊。",
+      "key_point": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "flashcard_front": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "flashcard_back": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "flashcard_summary": "Confidentiality -> HIV privacy; exceptions for duty to protect, abuse reporting, legal requests",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

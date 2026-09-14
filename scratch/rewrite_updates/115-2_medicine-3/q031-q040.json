@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n年輕女性、慢性乾咳、疲倦、雙側肺門淋巴結腫大與非乾酪性肉芽腫，是類肉瘤的經典組合。重點是非乾酪性而不是乾酪性壞死。\n\n【選項詳解】\n- A. 錯誤。結核病也可造成肉芽腫與肺門淋巴結，但典型病理為乾酪性壞死，且需搭配感染證據。\n- B. 正確。Sarcoidosis 常見雙側肺門淋巴結腫大、肺部症狀、皮膚/眼部表現與 noncaseating granulomas。\n- C. 錯誤。過敏性肺炎與抗原暴露相關，病理可有小肉芽腫，但典型影像與病史不是雙側肺門淋巴結腫大。\n- D. 錯誤。矽肺症需有二氧化矽暴露，影像常見上肺野結節與蛋殼樣淋巴結鈣化，不是此題核心表現。\n\n【核心考點】\nBilateral hilar lymphadenopathy 加 noncaseating granuloma 先想 sarcoidosis；TB 則要連到 caseating granuloma。",
+      "key_point": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "flashcard_front": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "flashcard_back": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "flashcard_summary": "Sarcoidosis -> bilateral hilar lymphadenopathy + noncaseating granulomas",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n75 歲、單側頭痛、發燒、ESR/CRP 高且無感染，要高度懷疑 giant cell arteritis。若需生物製劑，常考 IL-6 receptor inhibitor tocilizumab，不是 TNF-alpha inhibitor adalimumab。\n\n【選項詳解】\n- A. 不選。Jaw claudication 是 GCA 重要線索，也提示顳動脈缺血與視力併發症風險。\n- B. 不選。Temporal artery 或 axillary artery 超音波可見 halo sign 等血管壁發炎線索，是可用的診斷工具。\n- C. 不選。Polymyalgia rheumatica 常與 GCA 共存，表現為雙側肩帶、髖帶疼痛與晨僵。\n- D. 應選。Adalimumab 不是 GCA 生物製劑首選；需類固醇節省治療時，tocilizumab 較有代表性。\n\n【核心考點】\nGCA 要記老年新發頭痛、jaw claudication、ESR/CRP 高與失明風險。治療核心是立即類固醇，生物製劑常考 tocilizumab。",
+      "key_point": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "flashcard_front": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "flashcard_back": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "flashcard_summary": "GCA -> elderly headache, jaw claudication, high ESR/CRP; tocilizumab steroid-sparing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n本題考發炎性肌病的肌炎特異抗體與臨床關聯。Anti-TIF1-gamma 與成人 dermatomyositis 的癌症風險上升相關，選項 D 說風險較低，因此最不適當。\n\n【選項詳解】\n- A. 不選。Anti-MDA5 常與 clinically amyopathic dermatomyositis、皮膚潰瘍與快速進展間質性肺病相關。\n- B. 不選。Anti-NXP2 在成人可與惡性腫瘤風險增加相關，也可見嚴重肌病或鈣化。\n- C. 不選。Anti-Mi-2 常見典型皮肌炎皮疹，通常對治療反應較好、預後相對佳。\n- D. 應選。Anti-TIF1-gamma 是癌症相關 dermatomyositis 的重要抗體之一，不能說癌症風險較低。\n\n【核心考點】\n肌炎抗體要背臨床配對：MDA5 連 amyopathic/ILD，Mi-2 連治療反應佳，TIF1-gamma 與 NXP2 要想到 malignancy risk。",
+      "key_point": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "flashcard_front": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "flashcard_back": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "flashcard_summary": "Myositis antibodies -> TIF1-gamma/NXP2 malignancy risk; MDA5 amyopathic/ILD",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n反覆 invasive Neisseria 感染要懷疑補體末端路徑缺陷，尤其 C5-C9。CH50 與 AP50 可篩檢 classical/alternative pathway 補體功能，因此最適當。\n\n【選項詳解】\n- A. 錯誤。Lymphocyte phenotype 用於懷疑 T/B/NK 細胞數量或分化異常，與反覆 Neisseria 的典型路徑不符。\n- B. 正確。CH50 評估 classical pathway 到 terminal complement，AP50 評估 alternative pathway；末端補體缺陷會增加 Neisseria 侵襲性感染。\n- C. 錯誤。NBT assay 評估吞噬細胞氧化爆發，常用於慢性肉芽腫病，不是 Neisseria 反覆感染的首選。\n- D. 錯誤。免疫球蛋白濃度可評估抗體缺乏，但題幹關鍵菌種最指向補體缺陷。\n\n【核心考點】\nRecurrent Neisseria meningitidis/gonorrhoeae invasive infection 先想 terminal complement deficiency，篩檢用 CH50/AP50。",
+      "key_point": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "flashcard_front": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "flashcard_back": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "flashcard_summary": "Neisseria recurrent infection -> terminal complement; CH50/AP50",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\nNaive 與 memory T cell 的常考表面差異是 CD45 isoform。Naive T cell 多為 CD45RA，memory T cell 多為 CD45RO。\n\n【選項詳解】\n- A. 正確。CD45 是 leukocyte common antigen，不同剪接 isoform 可區分 naive 與 memory T 細胞。\n- B. 錯誤。CD2 是 T 細胞與 NK 細胞常見黏附/活化相關分子，不是 naive/memory isoform 的主要分界。\n- C. 錯誤。CD28 是 T 細胞共刺激分子，與活化及共刺激訊號相關，不靠不同 isoform 區分 naive 與 memory。\n- D. 錯誤。CD44 在小鼠與活化/記憶表型有關，但本題問「不同 isoforms」且人類常考答案是 CD45RA/CD45RO。\n\n【核心考點】\nT cell 記憶表型看到 isoform 要想到 CD45RA 與 CD45RO。CD28 是 costimulation，CD2 是黏附/活化分子。",
+      "key_point": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "flashcard_front": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "flashcard_back": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "flashcard_summary": "T cell markers -> naive CD45RA, memory CD45RO",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n本題官方更正接受 C 或 D。C 明確錯在 ypTNM 代表接受前導治療後的病理分期，不是單純手術後初次病理分期；D 則因傳統 TNM 與納入 grade 的 prognostic stage group 容易混淆而被接受。\n\n【選項詳解】\n- A. 不選。TNM 以原發腫瘤範圍、區域淋巴結與遠端轉移為核心，是實體腫瘤解剖分期的基本架構。\n- B. 不選。白血病、多發性骨髓瘤與多數淋巴瘤有各自分期或風險系統，通常不使用一般實體腫瘤 TNM。\n- C. 應選。ypTNM 的 y 表示 neoadjuvant therapy 後再做病理分期；若只是手術後病理分期，通常是 pTNM。\n- D. 應選。若嚴格講 TNM，T/N/M 與 histologic grade 是不同維度；但 AJCC 某些癌症的預後分期會把 grade 納入，故官方接受 D 有其語意爭議。\n\n【核心考點】\nTNM 字首很重要：c 是 clinical，p 是 pathologic，y 是治療後分期。Grade 可進入某些 prognostic stage group，但不等於傳統 TNM 本身。",
+      "key_point": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "flashcard_front": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "flashcard_back": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "flashcard_summary": "TNM staging -> c/p/y prefixes; yp after neoadjuvant therapy; grade wording ambiguous",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 C、D 或 CD；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nCRPC 指已達去勢濃度睪固酮仍出現 PSA、影像或臨床惡化。A 說睪固酮高於 100 ng/mL 時仍惡化，並未達去勢狀態，因此錯。\n\n【選項詳解】\n- A. 應選。去勢抗性前列腺癌必須在低睪固酮，常以 <50 ng/dL 的去勢濃度為判斷背景；高於 100 ng/mL 更不是去勢濃度。\n- B. 不選。CRPC 常見 PSA 上升、骨轉移惡化、疼痛或其他疾病進展表現。\n- C. 不選。對骨轉移疼痛病人，疼痛控制、骨骼事件預防與生活品質常比單純追 PSA 數字更貼近臨床目標。\n- D. 不選。BRCA2 等 DNA repair gene alteration 的 CRPC 可考慮 PARP inhibitor，是精準治療重點之一。\n\n【核心考點】\nCRPC 不是「睪固酮很高還惡化」，而是已達去勢濃度仍進展。治療目標要兼顧存活、症狀、骨骼事件與基因突變用藥。",
+      "key_point": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "flashcard_front": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "flashcard_back": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "flashcard_summary": "CRPC -> castrate testosterone plus progression; BRCA2 may use PARP inhibitor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n本題官方更正接受 C 或 D。若問「皮膚常見原發癌症」，基底細胞癌與鱗狀細胞癌最典型；腺癌不是常見皮膚原發型態，Merkel cell carcinoma 雖是皮膚原發神經內分泌癌，但很罕見。\n\n【選項詳解】\n- A. 不選。皮膚鱗狀細胞癌是常見 non-melanoma skin cancer，與紫外線、免疫抑制、慢性傷口等相關。\n- B. 不選。基底細胞癌是最常見皮膚癌，常見於日曬部位，局部侵襲為主。\n- C. 應選。腺癌不是一般皮膚常見原發癌的典型組織類型；皮膚腺樣腫瘤需另考慮附屬器腫瘤或轉移。\n- D. 應選。Merkel cell carcinoma 是皮膚原發癌症之一，但屬少見且侵襲性高的神經內分泌癌；因題目問「常見」，官方也接受此選項。\n\n【核心考點】\n皮膚常見原發癌症先記 basal cell carcinoma、squamous cell carcinoma 與 melanoma。Merkel cell carcinoma 是原發但少見，題目用「常見」時容易產生給分爭議。",
+      "key_point": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "flashcard_front": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "flashcard_back": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "flashcard_summary": "Skin cancer types -> BCC/SCC common; adenocarcinoma non-typical; Merkel rare primary",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 C、D 或 CD；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-3_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n胃腸胰神經內分泌腫瘤常用免疫組織染色確認神經內分泌分化。Chromogranin 與 synaptophysin 是病理診斷常用標記，因此 A 正確。\n\n【選項詳解】\n- A. 正確。Chromogranin A 與 synaptophysin 免疫染色可支持 NET 診斷，另需配合 Ki-67、mitotic count 分級。\n- B. 錯誤。Pancreatic NET 多數是 nonfunctional，沒有明顯荷爾蒙症候群；功能性腫瘤反而較少。\n- C. 錯誤。功能性 pancreatic NET 中最常見通常是 insulinoma，不是 gastrinoma。\n- D. 錯誤。Synaptophysin 是組織免疫染色標記，不是血液中常用的追蹤腫瘤指標；血中較常聽到 chromogranin A。\n\n【核心考點】\nNET 病理標記記 chromogranin、synaptophysin，加上 Ki-67 分級。Pancreatic NET 多為 nonfunctional，功能性最常見是 insulinoma。",
+      "key_point": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "flashcard_front": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "flashcard_back": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "flashcard_summary": "NET -> chromogranin/synaptophysin IHC; pancreatic NET mostly nonfunctional",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n本題官方更正接受 B 或 C。胃 MALT lymphoma 與 H. pylori 關係密切；B 的比例描述不穩，C 把 t(11;18) 形成的 fusion protein 名稱寫錯，因此都可選。\n\n【選項詳解】\n- A. 不選。胃 MALT lymphoma 常與 H. pylori 感染相關，早期低度惡性 MALT lymphoma 可先以 H. pylori eradication 治療。\n- B. 應選。MALT 與 DLBCL 在胃淋巴瘤中的比例會因族群與分類不同而變動，不能穩定說 MALT 遠大於 DLBCL 且約 70:30。\n- C. 應選。t(11;18)(q21;q21) 典型形成 API2/BIRC3-MALT1 fusion，不是 API1 與 MALT1，因此分子名稱錯。\n- D. 不選。胃 DLBCL 可 de novo 發生，也可由 MALT lymphoma 轉化；免疫表型可異質，考點不如 B、C 的錯誤明確。\n\n【核心考點】\n胃 MALT lymphoma 常連到 H. pylori，t(11;18) 是 API2/BIRC3-MALT1，且對單純根除治療反應較差。胃淋巴瘤比例題若寫得太絕對要小心。",
+      "key_point": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "flashcard_front": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "flashcard_back": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "flashcard_summary": "Gastric lymphoma -> H. pylori MALT; t(11;18) API2/BIRC3-MALT1",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 B、C 或 BC；未改動原答案欄位。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題考環境或微生物致癌因子配對。Adult T-cell leukemia/lymphoma 的病毒是 HTLV-1，不是 HIV，因此 C 最不適當。\n\n【選項詳解】\n- A. 不選。Asbestos 與肺癌、惡性肋膜間皮瘤、腹膜間皮瘤風險相關，且與吸菸對肺癌有加乘效應。\n- B. 不選。Alkylating agents 可造成治療相關骨髓性腫瘤，包括 therapy-related AML/MDS。\n- C. 應選。HIV 造成免疫抑制，增加 Kaposi sarcoma、非何杰金淋巴瘤、子宮頸癌等；adult T-cell leukemia/lymphoma 連到 HTLV-1。\n- D. 不選。Vinyl chloride 暴露經典連到肝血管肉瘤，也可增加其他肝臟腫瘤風險。\n\n【核心考點】\n致癌因子配對要精準：HTLV-1 對 adult T-cell leukemia/lymphoma，HIV 對免疫抑制相關癌症，vinyl chloride 對 hepatic angiosarcoma。",
+      "key_point": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "flashcard_front": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "flashcard_back": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "flashcard_summary": "Carcinogen pairs -> HTLV-1 ATLL; vinyl chloride hepatic angiosarcoma; asbestos mesothelioma/lung",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\nITP 是自體免疫血小板破壞，典型為孤立性血小板低下與皮膚黏膜出血。兒童常急性、成人較慢性，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。ITP 屬血小板問題，常見 petechiae、purpura、鼻出血、牙齦出血；深部肌肉或關節出血較像凝血因子缺乏。\n- B. 正確。兒童 ITP 常在病毒感染後急性發作且多可自行緩解，成人則常呈慢性或反覆。\n- C. 錯誤。ITP 多為 isolated thrombocytopenia；若合併白血球異常或貧血，要考慮白血病、骨髓病變或其他診斷。\n- D. 錯誤。骨髓通常可見 megakaryocytes 正常或增加，代表代償性製造血小板，不是明顯減少。\n\n【核心考點】\nITP 是血小板破壞問題：皮膚黏膜出血、血小板低、其他血球多正常、骨髓巨核細胞正常或增加。兒童急性，成人慢性。",
+      "key_point": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "flashcard_front": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "flashcard_back": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "flashcard_summary": "ITP -> mucocutaneous bleeding, isolated thrombocytopenia, megakaryocytes normal/increased",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題問血液製品何者正確。紅血球低溫保存，血小板室溫保存且需搖晃維持功能，是基本血品保存原則。\n\n【選項詳解】\n- A. 正確。紅血球一般保存在 1-6°C，血小板保存在 20-24°C 並持續輕微搖晃，以維持血小板代謝與減少聚集。\n- B. 錯誤。照射血品可預防 transfusion-associated GVHD，但會影響保存期限，不能說不影響。\n- C. 錯誤。血漿與血小板優先取自男性或未懷孕女性，主要是降低 donor anti-HLA/HNA antibody 造成 TRALI 的風險，不是降低 CMV 傳播。\n- D. 錯誤。Cryoprecipitate 是 FFP 低溫解凍後取得的冷不溶沉澱，富含 fibrinogen、factor VIII、vWF、factor XIII；選項的 37°C 加熱描述不正確。\n\n【核心考點】\n血品保存：RBC 冷藏、platelet 室溫搖晃。男性/未孕女性血漿策略是防 TRALI；照射血品防 TA-GVHD 但會縮短有效期。",
+      "key_point": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "flashcard_front": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "flashcard_back": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "flashcard_summary": "Blood products -> RBC cold, platelets room temp agitated; irradiation prevents TA-GVHD",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n第四期肺腺癌有 EML4-ALK 融合變化，代表 ALK-rearranged NSCLC。第一線應選 ALK tyrosine kinase inhibitor，選項中 alectinib 最適合。\n\n【選項詳解】\n- A. 錯誤。Osimertinib 是 EGFR mutation，特別是敏感突變或 T790M 等場景的重要藥物，不是 ALK 融合首選。\n- B. 錯誤。Pemetrexed + platinum 可用於無 driver mutation 或後線治療情境，但有 ALK 融合時應優先標靶治療。\n- C. 正確。Alectinib 是 ALK inhibitor，可用於 ALK 陽性轉移性 NSCLC，且顱內控制與耐受性表現佳。\n- D. 錯誤。Gefitinib 是 EGFR TKI，不作用於 ALK 融合主路徑。\n\n【核心考點】\n肺腺癌晚期先找 driver mutation。EGFR 用 osimertinib/gefitinib 類 EGFR TKI；ALK rearrangement 用 alectinib、brigatinib、lorlatinib 等 ALK TKI。",
+      "key_point": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "flashcard_front": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "flashcard_back": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "flashcard_summary": "ALK NSCLC -> first-line ALK inhibitor such as alectinib",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n本題問氣喘 type 2 與 non-type 2 inflammation 何者最不適當。IL-17 主要由 Th17 細胞產生，不是 Th1 細胞，因此 D 錯。\n\n【選項詳解】\n- A. 不選。Type 2 inflammation 以 eosinophil、IgE、IL-4、IL-5、IL-13 為代表，可對應嗜酸性氣喘與部分生物製劑標靶。\n- B. 不選。Non-type 2 inflammation 常偏 neutrophilic，涉及 IL-6、IL-8、IL-17 等路徑，對類固醇反應可能較差。\n- C. 不選。Th2 cell 是 IL-4、IL-5、IL-13 的重要來源，ILC2 也可參與。\n- D. 應選。IL-17 主要由 Th17 cell 產生；Th1 代表性細胞激素是 IFN-gamma。\n\n【核心考點】\n氣喘發炎分型要記 Th2/ILC2 對 IL-4/5/13，Th17 對 IL-17。IL-17 不要誤配到 Th1。",
+      "key_point": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "flashcard_front": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "flashcard_back": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "flashcard_summary": "Asthma inflammation -> type 2 IL-4/5/13; non-type 2 Th17/IL-17",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n本題問 COPD 治療何者最不適當。現代 GOLD 藥物治療主要依症狀負擔與急性惡化風險分組，FEV1 用於嚴重度與預後評估，但不是治療原則的主要唯一依據。\n\n【選項詳解】\n- A. 不選。症狀重且急性惡化風險高者，初始 LABA+LAMA 是合理選項，可改善症狀與降低惡化。\n- B. 不選。較低症狀或較低惡化風險者，可從 LABA 或 LAMA 單一長效支氣管擴張劑開始。\n- C. 不選。LABA+LAMA 後仍反覆惡化時，血中 eosinophil 可幫助判斷 ICS 加入效益；eosinophil >=100 cells/μL 時可考慮升級三合一。\n- D. 應選。FEV1/FVC 用於診斷氣流阻塞，FEV1 可分級，但 GOLD 治療決策重點已轉向症狀、急性惡化史與 eosinophil 等。\n\n【核心考點】\nCOPD 治療不再只看 FEV1。藥物選擇要看症狀、急性惡化風險與 eosinophil；LABA/LAMA 是重要基礎，ICS 依惡化與嗜酸性球考慮。",
+      "key_point": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "flashcard_front": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "flashcard_back": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "flashcard_summary": "COPD GOLD -> symptoms/exacerbations/eosinophils guide treatment; not FEV1 alone",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n本題問 CAP 致病原檢查何者特異性最高。尿中 Legionella antigen 對 Legionella pneumophila serogroup 1 具有高特異性，陽性對診斷很有幫助。\n\n【選項詳解】\n- A. 錯誤。Sputum Gram stain 受檢體品質、口腔污染與判讀影響，特異性不如抗原檢測穩定。\n- B. 錯誤。Procalcitonin 可輔助判斷細菌感染與抗生素決策，但不是特定病原診斷，特異性不足。\n- C. 正確。Urine Legionella antigen test 對特定 Legionella 感染具高特異性，尤其重症 CAP 或流行病學線索時有價值。\n- D. 錯誤。單次 Mycoplasma IgG 可能反映過去感染，需急性/恢復期抗體變化或其他檢測才較能支持急性感染。\n\n【核心考點】\nCAP 病原檢查要分「是否特定病原」。尿中 Legionella antigen 陽性比 PCT 或單次 IgG 更能指向特定致病菌。",
+      "key_point": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "flashcard_front": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "flashcard_back": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "flashcard_summary": "CAP etiologic diagnosis -> urine Legionella antigen high specificity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n本題問肺外結核何者最常見。結核性淋巴結炎是最常見的肺外結核表現之一，常見頸部淋巴結腫大。\n\n【選項詳解】\n- A. 錯誤。結核性腦膜炎嚴重且需及早治療，但不是最常見肺外結核。\n- B. 錯誤。泌尿生殖系統結核可見於肺外結核，但發生率通常低於淋巴結結核。\n- C. 正確。Tuberculous lymphadenitis 是肺外結核常見型態，尤其頸部淋巴結。\n- D. 錯誤。結核性心包膜炎重要且可能造成 constrictive pericarditis，但不是最常見。\n\n【核心考點】\n肺外結核最常考淋巴結，最嚴重或最不能漏的是腦膜炎與心包膜炎等。常見度與嚴重度要分開。",
+      "key_point": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "flashcard_front": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "flashcard_back": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "flashcard_summary": "Extrapulmonary TB -> lymphadenitis most common",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n本題問肋膜積液診斷何者錯誤。肋膜液 amylase 升高要考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎，因此 A 錯。\n\n【選項詳解】\n- A. 應選。Amylase-rich pleural effusion 典型連到 pancreatitis/pancreaticopleural fistula、esophageal rupture 或 malignancy；膽道發炎不是主要鑑別。\n- B. 不選。發燒、PMN 為主的積液但肺實質無異常時，要考慮膈下或腹腔內感染造成反應性胸水。\n- C. 不選。藥物引起的肋膜積液可呈 eosinophilic pleural effusion，需回顧用藥史。\n- D. 不選。冠狀動脈繞道術後可出現肋膜積液，早期多與手術發炎或出血相關，晚期可為淋巴球性。\n\n【核心考點】\n肋膜液 amylase 高要想胰臟、食道破裂、惡性腫瘤。胸水診斷要把肺內病灶、腹腔病灶、藥物與術後狀態都納入。",
+      "key_point": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "flashcard_front": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "flashcard_back": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "flashcard_summary": "Pleural effusion -> high amylase suggests pancreatic disease/esophageal rupture/malignancy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n快速長大的肺部腫瘤合併嚴重低血鈉與意識不清，需考慮小細胞肺癌造成 SIADH。A 錯在低鈉矯正不能 24 小時內補回正常，過快會造成 osmotic demyelination。\n\n【選項詳解】\n- A. 應選。症狀性嚴重低鈉可用高張鹽水先安全提高少量血鈉，但 24 小時內補到正常太快；通常需限制每日矯正幅度。\n- B. 不選。低血鈉、正常鉀、肺部腫瘤與意識改變符合 SIADH 可能性，需檢查血/尿滲透壓與尿鈉。\n- C. 不選。SIADH 治療可包含限水；嚴重症狀時則需更積極但受控地使用高張鹽水。\n- D. 不選。小細胞肺癌生長快、常伴 paraneoplastic SIADH，比鱗狀細胞癌更符合此題線索。\n\n【核心考點】\n嚴重低鈉有症狀時要救急，但不能矯正過快。肺癌合併 SIADH 最常考小細胞肺癌。",
+      "key_point": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "flashcard_front": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "flashcard_back": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "flashcard_summary": "Hyponatremia -> avoid rapid correction; SCLC causes SIADH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

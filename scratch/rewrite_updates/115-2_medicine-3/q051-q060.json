@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n本題問 ILD 何者最適當。NSIP 在 HRCT 上以 ground-glass opacity 與 reticulation 較常見，honeycombing 比 UIP/IPF 少，因此 C 正確。\n\n【選項詳解】\n- A. 錯誤。Idiopathic pulmonary fibrosis 常有雙側肺底 inspiratory crackles，臨床描述像 Velcro crackles。\n- B. 錯誤。Respiratory bronchiolitis-associated ILD 與吸菸相關，通常較少有明顯杵狀指；杵狀指較常見於 IPF。\n- C. 正確。NSIP 的 honeycombing 較少，影像常見下肺野、對稱性 ground-glass 與細網狀陰影。\n- D. 錯誤。Sarcoidosis 影像常沿淋巴路徑分布，可見 peribronchovascular thickening 與肺門/縱隔淋巴結腫大。\n\n【核心考點】\nILD 影像要分 UIP/IPF 與 NSIP。IPF 常有 basal crackles 與 honeycombing；NSIP honeycombing 較少，sarcoidosis 可沿支氣管血管束分布。",
+      "key_point": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "flashcard_front": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "flashcard_back": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "flashcard_summary": "ILD patterns -> NSIP less honeycombing; IPF basal crackles; sarcoidosis peribronchovascular",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n原發性醛固酮增多症造成鈉水滯留、高血壓、鉀離子與氫離子排出增加，因此典型是低血鉀與代謝性鹼中毒。代謝性酸中毒不是特徵。\n\n【選項詳解】\n- A. 不選。Aldosterone 過多會增加遠端腎小管鈉重吸收與容量擴張，造成高血壓。\n- B. 不選。鉀離子排出增加可造成低血鉀，雖然部分病人血鉀可正常。\n- C. 應選。氫離子分泌增加會導致代謝性鹼中毒，不是代謝性酸中毒。\n- D. 不選。原發性醛固酮增多症的篩檢重點是 aldosterone-renin ratio 升高，因腎素被容量擴張抑制。\n\n【核心考點】\nPrimary aldosteronism 三聯想：高血壓、低血鉀、代謝性鹼中毒，加上 ARR 升高。",
+      "key_point": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "flashcard_front": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "flashcard_back": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "flashcard_summary": "Primary aldosteronism -> HTN, hypokalemia, metabolic alkalosis, high ARR",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n胰臟 NET 多數是無功能性，常因腫瘤量、壓迫或轉移才被發現。功能性 pancreatic NET 中常見者是 insulinoma，不是 glucagonoma。\n\n【選項詳解】\n- A. 正確。大部分 pancreatic NET 為 nonfunctional，沒有明顯荷爾蒙過量症候群。\n- B. 錯誤。最常見功能性胰臟 NET 通常是 insulinoma；glucagonoma 罕見，典型有 necrolytic migratory erythema、糖尿病與體重減輕。\n- C. 錯誤。Nonfunctional pancreatic NET 的處理要看大小、增長、分級、症狀與轉移風險，不是無論大小都只追蹤。\n- D. 錯誤。Verner-Morrison syndrome 是 VIPoma，表現為 watery diarrhea、hypokalemia、achlorhydria，不是 glucagonoma。\n\n【核心考點】\nPancreatic NET 多為 nonfunctional；功能性最常見 insulinoma。VIPoma 才是 WDHA/Verner-Morrison syndrome。",
+      "key_point": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "flashcard_front": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "flashcard_back": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "flashcard_summary": "Pancreatic NET -> mostly nonfunctional; insulinoma most common functional; VIPoma WDHA",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n第 2 型糖尿病的胰島素阻抗多與受體後訊號傳遞、肌肉與脂肪組織葡萄糖攝取異常、肝臟糖質新生增加相關。選項 D 符合常考機轉。\n\n【選項詳解】\n- A. 錯誤。第 2 型糖尿病常先有胰島素阻抗與代償性高胰島素血症，之後 beta cell 功能逐漸衰退；不是分泌不足通常先發生。\n- B. 錯誤。正常人胰島素敏感性增加時，為維持血糖，所需胰島素分泌應下降；兩者呈補償性的反向關係。\n- C. 錯誤。亞洲族群常被認為 beta cell 分泌儲備較不足、較低 BMI 也可能發病；西方族群肥胖與胰島素阻抗更顯著。\n- D. 正確。T2DM 的胰島素阻抗主要不是受體數量消失，而是受體後訊號與代謝路徑異常。\n\n【核心考點】\nT2DM 是胰島素阻抗加 beta cell 衰退。胰島素敏感性與分泌量正常會互相補償，阻抗多屬 postreceptor signaling defect。",
+      "key_point": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "flashcard_front": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "flashcard_back": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "flashcard_summary": "T2DM pathogenesis -> insulin resistance plus beta cell dysfunction; postreceptor defect",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n肝醣儲積症是肝醣合成或分解酵素缺陷造成，肝醣可堆積在肝臟、肌肉、心臟等組織，結構可正常或異常。B 是最完整且正確的敘述。\n\n【選項詳解】\n- A. 錯誤。GSD 整體發生率常被估計約數萬分之一，選項數字過窄且不是最穩定正確敘述。\n- B. 正確。不同酵素缺陷會造成不同器官肝醣堆積，臨床可表現為低血糖、肝腫大、肌病、心肌病或運動不耐。\n- C. 錯誤。飲食治療很重要，但不能保證避免長期併發症；不同型別可能仍有肝腺瘤、腎病、心肌病或肌肉症狀。\n- D. 錯誤。GSD I 常在兒童表現為肝型低血糖，GSD V 是 McArdle disease 的肌肉型運動不耐；選項把「成人/兒童最常見」說得過度武斷。\n\n【核心考點】\nGSD 是酵素缺陷造成肝醣在特定組織堆積；型別不同，器官、肝醣結構與臨床表現都不同。",
+      "key_point": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "flashcard_front": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "flashcard_back": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "flashcard_summary": "Glycogen storage disease -> enzyme defects; organ-specific glycogen accumulation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\nWilson disease 是 ATP7B 變異造成銅排泄障礙，可影響肝臟、神經精神、眼睛、腎小管與內分泌。B 對腎小管與內分泌影響的描述正確。\n\n【選項詳解】\n- A. 錯誤。Wilson disease 常在兒童、青少年或年輕成人出現肝臟或神經精神症狀，不是肝臟症狀幾乎都大於 30 歲。\n- B. 正確。銅沉積可造成月經異常、青春期延遲等內分泌問題，也可造成近端腎小管功能障礙，出現胺基酸尿、磷尿、糖尿等 Fanconi-like 表現。\n- C. 錯誤。ATP7B 影響的是銅離子運輸與膽汁排泄，不是鋁離子。\n- D. 錯誤。早期治療以螯合劑或鋅鹽為主；肝臟移植保留給猛爆性肝衰竭或失代償嚴重肝病。\n\n【核心考點】\nWilson disease 是 copper metabolism disorder：ATP7B、低 ceruloplasmin、Kayser-Fleischer ring、肝與神經精神症狀。治療先想 chelation/zinc，嚴重肝衰竭才移植。",
+      "key_point": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "flashcard_front": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "flashcard_back": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "flashcard_summary": "Wilson disease -> ATP7B copper transport; chelation/zinc; transplant for severe liver failure",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\nMASH 是 MASLD 中有脂肪性肝炎與肝細胞傷害的亞型。影像可看脂肪肝，抽血可評估風險，但目前不能單靠腹部影像或特定抽血檢測確診 MASH，B 正確。\n\n【選項詳解】\n- A. 錯誤。MASLD 中 MASH 比例依族群、診斷方法與代謝風險不同而變動，直接說成人約 40% 過於固定。\n- B. 正確。影像可偵測脂肪變性但不能可靠區分脂肪肝與脂肪性肝炎；MASH 確診仍以組織學為參考標準，非侵入性檢測多用於風險分層。\n- C. 錯誤。MASLD 治療核心是減重、運動、控制代謝風險與纖維化風險分層，不是所有病人都需要藥物。\n- D. 錯誤。Vitamin E 800 IU 在特定非糖尿病、非肝硬化 MASH 病人可考慮，但有出血性中風等潛在風險討論，不能說完全沒有不良反應。\n\n【核心考點】\nMASLD/MASH 要分脂肪變性、脂肪性肝炎與纖維化風險。影像和抽血多用於篩檢或分層，MASH 不能靠單一抽血或一般影像確診。",
+      "key_point": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "flashcard_front": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "flashcard_back": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "flashcard_summary": "MASLD/MASH -> imaging detects steatosis, not definitive MASH; lifestyle first",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nBMI 計算公式是體重公斤除以身高公尺平方。45 kg / (1.5 m)^2 = 45 / 2.25 = 20，因此答案是 A。\n\n【選項詳解】\n- A. 正確。150 公分等於 1.5 公尺，平方是 2.25；45 除以 2.25 等於 20。\n- B. 錯誤。BMI 25 對應此身高約 56.25 kg，不符合題目體重。\n- C. 錯誤。BMI 30 對應此身高約 67.5 kg，遠高於 45 kg。\n- D. 錯誤。BMI 35 對應此身高約 78.75 kg，與題幹不符。\n\n【核心考點】\nBMI = kg / m2。考場先把公分換成公尺，再平方，不要直接用 150 代入。",
+      "key_point": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "flashcard_front": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "flashcard_back": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "flashcard_summary": "BMI calculation -> kg divided by meters squared",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n本題問感染性胃腸炎與食物中毒何者最不適當。Clostridium perfringens 食物中毒多為腹痛與水瀉，嘔吐、發燒通常不明顯，因此 B 錯。\n\n【選項詳解】\n- A. 不選。EHEC 可造成出血性腹瀉，治療以支持療法為主，抗生素可能增加 HUS 風險。\n- B. 應選。C. perfringens 潛伏期常約 6-24 小時，主要是腹部絞痛與水瀉；最常見不是嘔吐與發燒。\n- C. 不選。Staphylococcus aureus 預形成毒素造成短潛伏期噁心、嘔吐、腹瀉，常在食用污染食物後數小時發作。\n- D. 不選。非傷寒沙門氏菌潛伏期較長，常有發燒、腹痛與腹瀉，與受污染蛋肉製品相關。\n\n【核心考點】\n食物中毒時間軸很重要：S. aureus 短潛伏期嘔吐，C. perfringens 較偏腹痛水瀉，EHEC 出血性腹瀉避免不當抗生素。",
+      "key_point": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "flashcard_front": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "flashcard_back": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "flashcard_summary": "Food poisoning -> S. aureus vomiting rapid; C. perfringens diarrhea/cramps; EHEC avoid antibiotics",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題問疾病與治療藥物配對何者最不適當。Strongyloides hyperinfection 的治療首選是 ivermectin，不是 praziquantel。\n\n【選項詳解】\n- A. 不選。Pneumocystis jirovecii pneumonia 首選 trimethoprim-sulfamethoxazole，嚴重低氧時加類固醇。\n- B. 不選。Enterobiasis 可用 mebendazole、albendazole 或 pyrantel pamoate，並需處理家人與再感染。\n- C. 應選。Strongyloides hyperinfection 可危及生命，尤其免疫抑制者；治療用 ivermectin，praziquantel 主要用於吸蟲、絛蟲等。\n- D. 不選。Toxoplasma encephalitis 標準常用 pyrimethamine 加 sulfadiazine；clindamycin 可作替代組合的一部分，與 pyrimethamine 併用是可接受選項。\n\n【核心考點】\n寄生蟲用藥要精準：Strongyloides 用 ivermectin，Enterobius 用 albendazole/mebendazole，PJP 用 TMP-SMX。",
+      "key_point": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "flashcard_front": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "flashcard_back": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "flashcard_summary": "Antiparasitic pairs -> Strongyloides ivermectin; Enterobius albendazole/mebendazole",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

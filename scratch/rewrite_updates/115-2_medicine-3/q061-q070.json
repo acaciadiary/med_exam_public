@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\nMRSA 對 beta-lactam 類多具抗藥性，carbapenem 如 imipenem-cilastatin 不能可靠治療 MRSA。Linezolid、vancomycin、teicoplanin 則可用於 MRSA 場景。\n\n【選項詳解】\n- A. 不選。Linezolid 對 MRSA 有活性，尤其可用於某些肺炎或皮膚軟組織感染情境。\n- B. 不選。Vancomycin 是 MRSA 嚴重感染的經典治療選項之一，需監測腎毒性與血中濃度策略。\n- C. 應選。Imipenem-cilastatin 雖為廣效 carbapenem，但 MRSA 的 altered PBP 使其對多數 beta-lactam 無效。\n- D. 不選。Teicoplanin 是 glycopeptide，對 MRSA 有活性，某些地區可用於治療。\n\n【核心考點】\nMRSA 治療不要被「廣效」二字騙到。Carbapenem 很廣，但不能可靠涵蓋 MRSA；常用 MRSA 藥物包括 vancomycin、linezolid、daptomycin 等。",
+      "key_point": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "flashcard_front": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "flashcard_back": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "flashcard_summary": "MRSA treatment -> avoid carbapenem; use anti-MRSA agents",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\n糖尿病控制差、鼻腔黑色壞死、broad ribbon-like nonseptate hyphae 是鼻腦型 mucormycosis。治療除 amphotericin B 類藥物外，外科清創極重要。\n\n【選項詳解】\n- A. 錯誤。Aspergillus 典型是 septate hyphae 且 acute angle branching，不是寬大無隔菌絲。\n- B. 錯誤。Mucormycosis 第一線不是 echinocandin；常用 liposomal amphotericin B，之後可考慮 posaconazole/isavuconazole。\n- C. 正確。壞死組織血流差，單靠藥物難以進入，需積極外科清創並控制糖尿病/酮酸中毒等危險因子。\n- D. 錯誤。Fluconazole 對黴菌活性不足，voriconazole 也不涵蓋 mucorales，不能作為此病第一線。\n\n【核心考點】\nMucormycosis 線索是糖尿病、黑色壞死、寬大無隔菌絲。治療是 amphotericin B 加外科清創與校正免疫/代謝問題。",
+      "key_point": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "flashcard_front": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "flashcard_back": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "flashcard_summary": "Mucormycosis -> broad nonseptate hyphae, black necrosis, amphotericin B plus debridement",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n脾臟切除後最怕莢膜菌感染，疫苗重點是肺炎鏈球菌、流感嗜血桿菌 b 型與腦膜炎雙球菌。HPV 疫苗與無脾症感染風險沒有直接關聯。\n\n【選項詳解】\n- A. 不選。肺炎鏈球菌是無脾症病人 overwhelming postsplenectomy infection 的重要病原，需接種相應疫苗。\n- B. 不選。Hib 屬莢膜菌，脾臟功能缺損者需補足相關疫苗。\n- C. 不選。腦膜炎雙球菌也是莢膜菌，無脾症或補體缺陷者風險上升。\n- D. 應選。HPV 疫苗用於預防 HPV 相關癌前病變與癌症，與脾切除後莢膜菌感染預防最沒有相關。\n\n【核心考點】\nAsplenia 疫苗先記 encapsulated organisms：pneumococcus、Hib、meningococcus。HPV 重要但不是脾切除特異需求。",
+      "key_point": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "flashcard_front": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "flashcard_back": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "flashcard_summary": "Asplenia vaccines -> pneumococcal, Hib, meningococcal",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n本題問結核病何者最不適當。痰 AFS 陰性代表傳染性較低，但不能保證沒有傳染力；培養或 NAAT 仍可能陽性，也可能因採檢或菌量因素偽陰性。\n\n【選項詳解】\n- A. 不選。肺結核透過飛沫核 airborne 傳播，可在空氣中懸浮，故需要適當空氣傳染防護。\n- B. 不選。是否感染受暴露時間、空間通風、菌量、宿主免疫與防護措施影響。\n- C. 應選。AFS 陰性降低傳染機率，但未治療肺結核仍可能傳播；不能說沒有防護接觸就不會被傳染。\n- D. 不選。單純肺外結核若沒有肺部或喉部病灶，通常不具明顯傳染力。\n\n【核心考點】\nAFS negative 不等於 transmission impossible。判斷 TB 傳染力要看肺/喉病灶、咳嗽、菌量、培養/NAAT 與治療狀態。",
+      "key_point": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "flashcard_front": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "flashcard_back": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "flashcard_summary": "TB transmission -> droplet nuclei; AFS-negative does not rule out infectiousness",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n本題問動物咬傷處置何者最不適當。貓咬傷常是深部穿刺傷，感染率通常比狗咬傷高，且手足穿刺傷通常避免第一時間直接縫合。\n\n【選項詳解】\n- A. 應選。貓咬傷因尖牙造成深穿刺，Pasteurella 等感染風險高，不應說感染率較低且盡量立即縫合。\n- B. 不選。臉部血流好且美容需求高，充分沖洗清創後可考慮一期縫合，並評估抗生素。\n- C. 不選。四肢咬傷、延遲處理、深穿刺、手部傷口或免疫不全者，常需考慮預防性抗生素。\n- D. 不選。若 5 年內已接種破傷風疫苗且傷口風險評估允許，通常可不追加；但仍需依傷口污染程度與免疫史判斷。\n\n【核心考點】\n咬傷處置先大量沖洗、清創、評估感染與破傷風/狂犬病風險。貓咬傷感染風險高，尤其手部穿刺傷不宜輕易縫合。",
+      "key_point": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "flashcard_front": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "flashcard_back": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "flashcard_summary": "Bite wound care -> cat bites high infection risk; facial wounds may be closed after cleaning",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n本題問老年尿失禁何者最適當。夜間多尿可由藥物、睡前飲水、咖啡因、酒精、睡眠呼吸中止或心腎疾病造成，D 描述合理。\n\n【選項詳解】\n- A. 錯誤。局部雌激素可改善泌尿生殖症候群相關症狀，但不是所有老年婦女尿失禁的第一線首選。\n- B. 錯誤。Mirabegron 無抗膽鹼副作用是優點，但使用前仍要評估血壓、尿滯留風險與膀胱餘尿等安全性。\n- C. 錯誤。生產造成膀胱頸與尿道過度活動較典型造成壓力型尿失禁，不是急迫型尿失禁主要原因。\n- D. 正確。夜間多尿可能受利尿劑、部分藥物、攝水、咖啡因、酒精與系統性疾病影響，處置需先找可逆因素。\n\n【核心考點】\n尿失禁先分壓力型、急迫型、溢流型與功能型。老年夜尿或夜間多尿要回顧藥物、液體攝取與心腎睡眠共病。",
+      "key_point": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "flashcard_front": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "flashcard_back": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "flashcard_summary": "Geriatric incontinence -> nocturnal polyuria causes include drugs, fluids, caffeine/alcohol",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n本題問家庭醫業中何者不是病人的期待。病人期待醫師真誠傾聽、了解自己、能處理多面向問題，也期待誠實且直接的提醒；「間接性提醒」不符合原研究常見表述。\n\n【選項詳解】\n- A. 不選。真誠傾聽是以病人為中心照護的重要期待，能增加信任與滿意度。\n- B. 不選。家庭醫學強調連續性與全人照護，病人期待醫師嘗試了解自己的生活脈絡。\n- C. 不選。病人常期待家庭醫師能處理或協調多種健康問題，即使不是每個問題都由單一醫師完全解決。\n- D. 應選。常見期待是 honest and direct；選項寫成 honest and indirect，與有效溝通中的清楚、直接提醒相反。\n\n【核心考點】\n家庭醫學醫病關係重視傾聽、了解個人脈絡、可近性與誠實直接溝通。題目陷阱在 indirect 這個字。",
+      "key_point": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "flashcard_front": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "flashcard_back": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "flashcard_summary": "Family medicine expectations -> listens, knows me, helps with problems, honest/direct",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n本題問老人跌倒評估與預防何者最適當。太極包含平衡、姿勢控制與下肢肌力訓練，對降低跌倒風險有證據支持，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。台灣老年人跌倒比例並非小於 10% 這麼低，常見調查約每數位長者就有一位曾跌倒。\n- B. 正確。太極訓練能改善平衡、步態控制與肌力，是老人防跌運動處方中常被提到的選項。\n- C. 錯誤。USPSTF 不建議所有社區老人例行補充 vitamin D 來預防跌倒；補充需看缺乏、營養與個別風險。\n- D. 錯誤。老人跌倒常與滑倒、絆倒、步態平衡、藥物與環境危險有關，不是大部分都由碰撞人或物造成。\n\n【核心考點】\n防跌最有效的核心是運動，尤其平衡與肌力訓練。Vitamin D 不是所有老人一律用，需依缺乏與個別情境判斷。",
+      "key_point": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "flashcard_front": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "flashcard_back": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "flashcard_summary": "Falls prevention -> balance/strength exercise such as Tai Chi; vitamin D not universal",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\nVitamin B12 缺乏會使 methylmalonic acid 與 homocysteine 上升；補充後 homocysteine 可下降。C 是最適當敘述。\n\n【選項詳解】\n- A. 錯誤。Vitamin B12 與 intrinsic factor 結合後主要在末端迴腸吸收，不是十二指腸。\n- B. 錯誤。血清 B12 常作初篩，但灰區時需 MMA、homocysteine 與臨床脈絡，不能說血清 B12 濃度正確率最高。\n- C. 正確。B12 補充後，因一碳代謝恢復，homocysteine 通常會下降；MMA 也可作治療反應參考。\n- D. 錯誤。抗壁細胞抗體陽性支持惡性貧血可能，治療可用高劑量口服或肌肉注射，但「宜每日口服即有效改善」過度簡化，且需評估吸收與神經症狀嚴重度。\n\n【核心考點】\nB12 吸收在末端迴腸，缺乏會使 MMA 與 homocysteine 上升。血清 B12 不是唯一判斷，治療途徑要看病因與嚴重度。",
+      "key_point": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "flashcard_front": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "flashcard_back": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "flashcard_summary": "B12 deficiency -> terminal ileum absorption; MMA/homocysteine elevated",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n本題問何種面談方式對健康行為最有正面影響。動機式晤談透過同理、探索矛盾、支持自我效能與共同設定目標，能促進行為改變。\n\n【選項詳解】\n- A. 錯誤。父權式面談由醫師單向決定，可能降低病人自主與改變動機。\n- B. 錯誤。默認式面談缺乏主動探索與個別化，不利於處理行為改變的阻抗。\n- C. 正確。Motivational interviewing 用開放式提問、肯定、反映與摘要，引導病人說出改變理由。\n- D. 錯誤。病人主導式面談重視自主，但若缺乏專業引導，對具體健康行為改變的效果不如動機式晤談穩定。\n\n【核心考點】\n健康行為改變最常考 motivational interviewing。關鍵不是說教，而是引出病人的改變動機與可行計畫。",
+      "key_point": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "flashcard_front": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "flashcard_back": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "flashcard_summary": "Behavior change -> motivational interviewing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

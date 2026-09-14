@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-3.json",
+  "dataset_id": "115-2_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問各器官系統的老化變化，且官方更正接受 A、C、D 及其組合作答。B 的下降速度明顯過大；A、C、D 都是老化時可見的合理方向。\n\n【選項詳解】\n- A. 正確。味覺、嗅覺受周邊感覺受器、黏膜變化、神經傳導與共病藥物影響，老年人常出現嗅味覺敏感度下降，會進一步影響食慾與營養。\n- B. 錯誤。腎絲球過濾率可隨年齡逐步下降，但常以每年約 1 mL/min/1.73 m2 的量級描述；每年 5% 下降太快，容易誤導成短期內重度腎衰退。\n- C. 正確。20 到 80 歲之間左心室會有順應性、舒張功能、壁厚與血管-心室耦合變化；收縮分率可維持，但舒張儲備與運動反應會下降。\n- D. 正確。男性血清睪固酮通常在成年後逐漸下降，30 歲以後可見緩慢下降趨勢，但臨床是否達低睪固酮症仍須看症狀與檢驗。\n\n【核心考點】\n老化題要抓「方向合理」與「數字是否誇大」。腎功能下降是漸進，不是每年 5% 這種快速衰退；感覺、心臟舒張功能與睪固酮變化則可隨年齡出現。",
+      "key_point": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "flashcard_front": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "flashcard_back": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "flashcard_summary": "老化變化 -> 嗅味覺下降、心室功能改變、睪固酮下降；GFR 下降速度不可誇大",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 A、C、D 及其組合給分；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n本題是否定問法，正答是「不是骨鬆相關骨折好發部位」的例外。骨質疏鬆造成的脆弱性骨折典型落在髖部、脊椎與遠端前臂，手指不是典型好發位置。\n\n【選項詳解】\n- A. 不選。髖部骨折是骨質疏鬆最重要的脆弱性骨折之一，常造成住院、失能與死亡率上升。\n- B. 不選。椎體壓迫性骨折是骨鬆常見表現，可造成身高變矮、駝背與慢性背痛。\n- C. 不選。手腕，特別是遠端橈骨骨折，是跌倒時以手撐地後常見的骨鬆相關骨折。\n- D. 應選。手指骨折較常與外傷、扭傷或局部撞擊有關，不是骨質疏鬆脆弱性骨折的典型好發部位。\n\n【核心考點】\n骨鬆相關骨折最常記髖部、脊椎與手腕。看到「不是好發部位」時，手指、腳趾這類小骨局部外傷部位通常不是標準答案族群。",
+      "key_point": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "flashcard_front": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "flashcard_back": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "flashcard_summary": "骨鬆骨折 -> 髖部、脊椎、手腕常見；手指不是典型脆弱性骨折",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問缺氧機轉中何者最不適當。換氣不足會讓肺泡通氣下降，通常同時造成 PaCO2 上升，因此 C 說二氧化碳通常不變是錯的。\n\n【選項詳解】\n- A. 不選。肺部疾病造成低血氧最常見機轉之一就是通氣/灌流不匹配，像 COPD、肺炎、肺栓塞都可能造成不同程度的 V/Q mismatch。\n- B. 不選。一般 V/Q mismatch 因仍有部分肺泡可通氣，給高濃度氧氣常可明顯改善 PaO2。\n- C. 應選。換氣不足代表二氧化碳排出變差，典型表現是低氧合併高碳酸血症；若 PaCO2 不變，需另尋其他缺氧機轉。\n- D. 不選。右向左分流時血液繞過可通氣肺泡，高濃度氧氣無法完全接觸分流血流，因此改善有限。\n\n【核心考點】\n低氧要分 V/Q mismatch、shunt、diffusion limitation、低吸入氧與 hypoventilation。Hypoventilation 的提示是 PaCO2 上升；shunt 對 100% 氧氣反應差。",
+      "key_point": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "flashcard_front": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "flashcard_back": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "flashcard_summary": "Hypoxia -> hypoventilation 伴高碳酸血症；V/Q mismatch 可被氧氣改善；shunt 改善有限",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n本題是否定問法，問杵狀指的相關疾病中何者例外。杵狀指多與慢性肺部疾病、肺癌、化膿性或支氣管擴張等長期過程相關，急性肺炎通常不會在短時間造成杵狀指。\n\n【選項詳解】\n- A. 不選。原發性肺癌是成人新發杵狀指的重要原因之一，可伴隨 hypertrophic osteoarthropathy。\n- B. 不選。轉移性肺腫瘤也可能因慢性肺部腫瘤負荷與發炎反應而與杵狀指相關。\n- C. 不選。支氣管擴張是慢性化膿性肺病，長期低氧與慢性發炎可造成杵狀指。\n- D. 應選。急性肺炎是短期感染，常見發燒、咳嗽與浸潤影，不是杵狀指的典型病因。\n\n【核心考點】\n杵狀指通常暗示慢性肺部、心血管、肝膽或腸道疾病。急性短期感染不容易造成指端軟組織長期增生。",
+      "key_point": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "flashcard_front": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "flashcard_back": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "flashcard_summary": "Clubbing -> 慢性肺病、肺癌、支氣管擴張；急性肺炎例外",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問重度酒精性肝硬化最不可能出現的身體診察徵象。蜘蛛痣、腮腺腫大與 Dupuytren 攣縮都可見於慢性酒精相關肝病；Corrigan pulse 是主動脈瓣閉鎖不全的水槌脈。\n\n【選項詳解】\n- A. 不選。Spider nevus 反映雌激素代謝下降與血管擴張，是肝硬化常見皮膚表現。\n- B. 不選。酒精使用疾患可伴雙側腮腺腫大，臨床上常被列為酒精相關體徵。\n- C. 不選。Dupuytren contracture 與長期酒精使用、肝病、糖尿病等相關，可能在手掌筋膜形成攣縮。\n- D. 應選。Corrigan pulse 是寬脈壓、水槌脈，典型見於嚴重主動脈瓣逆流，不是酒精性肝硬化的代表體徵。\n\n【核心考點】\n酒精性肝硬化體徵常考蜘蛛痣、男性女乳、腮腺腫大、掌紅斑、Dupuytren 攣縮。Corrigan pulse 要連到主動脈瓣逆流。",
+      "key_point": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "flashcard_front": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "flashcard_back": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "flashcard_summary": "肝硬化體徵 -> 酒精相關皮膚/腮腺/筋膜變化；Corrigan pulse 屬主動脈瓣逆流",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題問冠狀動脈循環何者最不適當。正常冠脈阻力主要來自小動脈與微循環調節，不是近端心外膜冠狀動脈，所以 C 錯。\n\n【選項詳解】\n- A. 不選。心肌耗氧量主要受心率、收縮力與壁張力影響；這也是缺血性心臟病治療常用降心率與降負荷的生理基礎。\n- B. 不選。左冠狀動脈血流在舒張期較多，因收縮期心肌內壓會壓迫冠脈微血管。\n- C. 應選。無嚴重狹窄時，心外膜大血管阻力相對低，真正調節灌流阻力的是小動脈與微循環。\n- D. 不選。除了固定狹窄，痙攣、急性血栓與先天冠脈異常也會造成供血不足或缺血。\n\n【核心考點】\n冠脈供血取決於舒張期灌流、灌流壓與微循環阻力；正常阻力不是主要卡在近端 epicardial artery。",
+      "key_point": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "flashcard_front": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "flashcard_back": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "flashcard_summary": "冠脈循環 -> 舒張期供血多；耗氧量由心率、收縮力、壁張力決定；阻力在微循環",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題幹描述老年 COPD 急性惡化合併心悸，選項組合的正答為 2、4、5。這比較像規則性心房撲動等 reentry 心律不整：不是 atrial fibrillation，頸動脈按摩通常只能暫時改變 AV conduction 而不會終止，且依共病評估需考慮抗凝血。\n\n【選項詳解】\n- A. 正確。組合 2、4、5 同時保留 reentry、頸動脈按摩不易終止與血栓風險需抗凝血，並排除 atrial fibrillation 與 propranolol 首選。\n- B. 錯誤。B 多了第 1 項；心房顫動應呈不規則不規則節律，若心電圖呈規則鋸齒樣或固定傳導，更支持心房撲動。\n- C. 錯誤。C 包含第 3 與第 6 項；COPD 急性惡化時靜脈 propranolol 這種非選擇性 beta blocker 不是首選，且此類心律不整有血栓風險。\n- D. 錯誤。D 把 1 到 6 全列為正確，但其中 atrial fibrillation、propranolol 首選與無血栓風險三項都不成立。\n\n【核心考點】\n心房撲動常與 reentry 有關，頸動脈按摩可幫助顯露 flutter wave 但通常不根治；抗凝血要依類似 AF 的血栓風險評估。",
+      "key_point": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "flashcard_front": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "flashcard_back": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "flashcard_summary": "Atrial flutter -> reentry、carotid massage 可顯露不易終止、抗凝血依風險",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分；以血管平滑肌生理判讀，C 是較穩定的敘述。A、B、D 分別把收縮離子、肌凝蛋白輕鏈調控方向與乙醯膽鹼在完整內皮下的作用說錯。\n\n【選項詳解】\n- A. 官方給分，但生理上不精確。血管平滑肌收縮主要仰賴細胞內鈣離子上升，鈣可由電位依賴性鈣通道進入或由肌漿網釋放，不是靠血液中鈉離子流入作為主要機轉。\n- B. 官方給分，但概念方向相反。平滑肌收縮需要 myosin light chain kinase 使肌凝蛋白輕鏈磷酸化；去磷酸化通常促進放鬆。\n- C. 官方給分且較合理。血管張力受交感神經、局部代謝物與內皮釋放的 nitric oxide、prostacyclin、endothelin 等共同調節。\n- D. 官方給分，但完整內皮下 acetylcholine 通常刺激內皮 NO 釋放，使血管平滑肌放鬆；若內皮受損才可能呈現收縮反應。\n\n【核心考點】\n血管平滑肌收縮要記鈣離子上升與 MLC 磷酸化；完整內皮會讓 acetylcholine 透過 NO 造成舒張。本題因官方一律給分，作答時仍要回到生理機轉。",
+      "key_point": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "flashcard_front": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "flashcard_back": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "flashcard_summary": "血管平滑肌 -> Ca2+、MLC phosphorylation、內皮 NO 調節；本題官方一律給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正為一律給分；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-3_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題問身體診察中何者最適當。周圍發紺常因低心輸出、休克或周邊血管收縮造成末端氧萃取增加；B 的描述最正確。\n\n【選項詳解】\n- A. 錯誤。中心性發紺會影響舌頭、口唇與黏膜，來自動脈血氧飽和度下降或右向左分流；不是因四肢血管收縮只讓軀幹變紫。\n- B. 正確。周圍發紺或 acrocyanosis 常見於心衰竭、休克、寒冷或周邊血管疾病，機轉是末梢灌流下降與血管收縮使脫氧血紅素增加。\n- C. 錯誤。PDA 造成差別性發紺時，下肢較上肢明顯；若手術關閉且血流動力修正，不會「一定」持續存在。\n- D. 錯誤。變性血紅素血症、硫血紅素血症或貧血程度會影響發紺判讀與處置，不能排除血紅素異常。\n\n【核心考點】\n中心性發紺看動脈氧合與黏膜，周圍發紺看末梢灌流與血管收縮；血紅素量與異常血紅素會改變發紺表現。",
+      "key_point": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "flashcard_front": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "flashcard_back": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "flashcard_summary": "Cyanosis -> central 看黏膜與低氧；peripheral 看末梢灌流下降",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分。一般而言，HFpEF 常見風險標記包括高血壓、肥胖、老化、糖尿病、女性與心房顫動；單純心搏緩慢不是典型風險標記，因此題目原始設計可能有疑義。\n\n【選項詳解】\n- A. 官方給分，但高血壓其實是 HFpEF 最重要的危險因子之一，長期壓力負荷會造成左心室肥厚與舒張功能障礙。\n- B. 官方給分，但肥胖常與發炎、睡眠呼吸中止、血容量增加與代謝症候群共存，是 HFpEF 的常見風險背景。\n- C. 官方給分，且若以「通常不被認為是風險標記」來看，心搏緩慢比高血壓、肥胖與老化更不典型；它可影響症狀，但不是常列的流行病學危險因子。\n- D. 官方給分，但老化會增加心室僵硬、血管硬化與共病累積，是 HFpEF 的典型風險標記。\n\n【核心考點】\nHFpEF 的高頻風險組合是老年、高血壓、肥胖、糖尿病、心房顫動與腎病。遇到一律給分題，詳解要保留官方給分並指出醫學上較合理的判讀。",
+      "key_point": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "flashcard_front": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "flashcard_back": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "flashcard_summary": "HFpEF risk markers -> 高血壓、肥胖、老化常見；本題官方一律給分",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正為一律給分；未改動原答案欄位。"
+      ]
+    }
+  ]
+}

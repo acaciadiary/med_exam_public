@@ -4,7 +4,7 @@
   "title": "115 年第二次醫師國考：醫學（三）",
   "subject": "medicine-3",
   "source": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=302&code=115070&q=1&s=0101&t=Q",
-  "updated_at": "2026-07-20T11:44:27.603508+00:00",
+  "updated_at": "2026-09-15T00:12:21+08:00",
   "questions": [
     {
       "id": "115-2_medicine-3_001",
@@ -17,10 +17,10 @@
         "D": "血清中睪固酮在30 歲以後開始下降"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問各器官系統的老化變化，且官方更正接受 A、C、D 及其組合作答。B 的下降速度明顯過大；A、C、D 都是老化時可見的合理方向。\n\n【選項詳解】\n- A. 正確。味覺、嗅覺受周邊感覺受器、黏膜變化、神經傳導與共病藥物影響，老年人常出現嗅味覺敏感度下降，會進一步影響食慾與營養。\n- B. 錯誤。腎絲球過濾率可隨年齡逐步下降，但常以每年約 1 mL/min/1.73 m2 的量級描述；每年 5% 下降太快，容易誤導成短期內重度腎衰退。\n- C. 正確。20 到 80 歲之間左心室會有順應性、舒張功能、壁厚與血管-心室耦合變化；收縮分率可維持，但舒張儲備與運動反應會下降。\n- D. 正確。男性血清睪固酮通常在成年後逐漸下降，30 歲以後可見緩慢下降趨勢，但臨床是否達低睪固酮症仍須看症狀與檢驗。\n\n【核心考點】\n老化題要抓「方向合理」與「數字是否誇大」。腎功能下降是漸進，不是每年 5% 這種快速衰退；感覺、心臟舒張功能與睪固酮變化則可隨年齡出現。",
+      "key_point": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "flashcard_summary": "老化變化 -> 嗅味覺下降、心室功能改變、睪固酮下降；GFR 下降速度不可誇大",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "C",
@@ -28,7 +28,14 @@
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第1題答A或C或D或AC或AD或CD或ACD者均給分"
+      "answer_note": "第1題答A或C或D或AC或AD或CD或ACD者均給分",
+      "flashcard_front": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "flashcard_back": "老化會影響嗅味覺、心室舒張功能與睪固酮；GFR 每年下降 5% 過度誇大。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 A、C、D 及其組合給分；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_002",
@@ -41,15 +48,20 @@
         "D": "手指"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，正答是「不是骨鬆相關骨折好發部位」的例外。骨質疏鬆造成的脆弱性骨折典型落在髖部、脊椎與遠端前臂，手指不是典型好發位置。\n\n【選項詳解】\n- A. 不選。髖部骨折是骨質疏鬆最重要的脆弱性骨折之一，常造成住院、失能與死亡率上升。\n- B. 不選。椎體壓迫性骨折是骨鬆常見表現，可造成身高變矮、駝背與慢性背痛。\n- C. 不選。手腕，特別是遠端橈骨骨折，是跌倒時以手撐地後常見的骨鬆相關骨折。\n- D. 應選。手指骨折較常與外傷、扭傷或局部撞擊有關，不是骨質疏鬆脆弱性骨折的典型好發部位。\n\n【核心考點】\n骨鬆相關骨折最常記髖部、脊椎與手腕。看到「不是好發部位」時，手指、腳趾這類小骨局部外傷部位通常不是標準答案族群。",
+      "key_point": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "flashcard_summary": "骨鬆骨折 -> 髖部、脊椎、手腕常見；手指不是典型脆弱性骨折",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "flashcard_back": "骨鬆典型骨折部位是髖部、椎體與遠端前臂，手指不是好發部位。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_003",
@@ -62,15 +74,20 @@
         "D": "肺內的血液分流(shunting),給與100%純氧,缺氧情形較無法改善或僅能部分改善"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問缺氧機轉中何者最不適當。換氣不足會讓肺泡通氣下降，通常同時造成 PaCO2 上升，因此 C 說二氧化碳通常不變是錯的。\n\n【選項詳解】\n- A. 不選。肺部疾病造成低血氧最常見機轉之一就是通氣/灌流不匹配，像 COPD、肺炎、肺栓塞都可能造成不同程度的 V/Q mismatch。\n- B. 不選。一般 V/Q mismatch 因仍有部分肺泡可通氣，給高濃度氧氣常可明顯改善 PaO2。\n- C. 應選。換氣不足代表二氧化碳排出變差，典型表現是低氧合併高碳酸血症；若 PaCO2 不變，需另尋其他缺氧機轉。\n- D. 不選。右向左分流時血液繞過可通氣肺泡，高濃度氧氣無法完全接觸分流血流，因此改善有限。\n\n【核心考點】\n低氧要分 V/Q mismatch、shunt、diffusion limitation、低吸入氧與 hypoventilation。Hypoventilation 的提示是 PaCO2 上升；shunt 對 100% 氧氣反應差。",
+      "key_point": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "flashcard_summary": "Hypoxia -> hypoventilation 伴高碳酸血症；V/Q mismatch 可被氧氣改善；shunt 改善有限",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "flashcard_back": "換氣不足造成低氧時通常會合併 PaCO2 上升；分流對 100% 氧氣反應差。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_004",
@@ -83,15 +100,20 @@
         "D": "急性肺炎"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，問杵狀指的相關疾病中何者例外。杵狀指多與慢性肺部疾病、肺癌、化膿性或支氣管擴張等長期過程相關，急性肺炎通常不會在短時間造成杵狀指。\n\n【選項詳解】\n- A. 不選。原發性肺癌是成人新發杵狀指的重要原因之一，可伴隨 hypertrophic osteoarthropathy。\n- B. 不選。轉移性肺腫瘤也可能因慢性肺部腫瘤負荷與發炎反應而與杵狀指相關。\n- C. 不選。支氣管擴張是慢性化膿性肺病，長期低氧與慢性發炎可造成杵狀指。\n- D. 應選。急性肺炎是短期感染，常見發燒、咳嗽與浸潤影，不是杵狀指的典型病因。\n\n【核心考點】\n杵狀指通常暗示慢性肺部、心血管、肝膽或腸道疾病。急性短期感染不容易造成指端軟組織長期增生。",
+      "key_point": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "flashcard_summary": "Clubbing -> 慢性肺病、肺癌、支氣管擴張；急性肺炎例外",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "flashcard_back": "杵狀指多見於慢性肺病或肺癌，急性肺炎不是典型相關疾病。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_005",
@@ -104,15 +126,20 @@
         "D": "Corrigan pulse"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問重度酒精性肝硬化最不可能出現的身體診察徵象。蜘蛛痣、腮腺腫大與 Dupuytren 攣縮都可見於慢性酒精相關肝病；Corrigan pulse 是主動脈瓣閉鎖不全的水槌脈。\n\n【選項詳解】\n- A. 不選。Spider nevus 反映雌激素代謝下降與血管擴張，是肝硬化常見皮膚表現。\n- B. 不選。酒精使用疾患可伴雙側腮腺腫大，臨床上常被列為酒精相關體徵。\n- C. 不選。Dupuytren contracture 與長期酒精使用、肝病、糖尿病等相關，可能在手掌筋膜形成攣縮。\n- D. 應選。Corrigan pulse 是寬脈壓、水槌脈，典型見於嚴重主動脈瓣逆流，不是酒精性肝硬化的代表體徵。\n\n【核心考點】\n酒精性肝硬化體徵常考蜘蛛痣、男性女乳、腮腺腫大、掌紅斑、Dupuytren 攣縮。Corrigan pulse 要連到主動脈瓣逆流。",
+      "key_point": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "flashcard_summary": "肝硬化體徵 -> 酒精相關皮膚/腮腺/筋膜變化；Corrigan pulse 屬主動脈瓣逆流",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "flashcard_back": "酒精性肝硬化可有蜘蛛痣、腮腺腫大與 Dupuytren 攣縮；Corrigan pulse 指向主動脈瓣逆流。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_006",
@@ -125,15 +152,20 @@
         "D": "除嚴重狹窄病灶外,冠脈痙攣、血栓、先天冠脈異常開口等,也可能導致冠脈血流不足"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問冠狀動脈循環何者最不適當。正常冠脈阻力主要來自小動脈與微循環調節，不是近端心外膜冠狀動脈，所以 C 錯。\n\n【選項詳解】\n- A. 不選。心肌耗氧量主要受心率、收縮力與壁張力影響；這也是缺血性心臟病治療常用降心率與降負荷的生理基礎。\n- B. 不選。左冠狀動脈血流在舒張期較多，因收縮期心肌內壓會壓迫冠脈微血管。\n- C. 應選。無嚴重狹窄時，心外膜大血管阻力相對低，真正調節灌流阻力的是小動脈與微循環。\n- D. 不選。除了固定狹窄，痙攣、急性血栓與先天冠脈異常也會造成供血不足或缺血。\n\n【核心考點】\n冠脈供血取決於舒張期灌流、灌流壓與微循環阻力；正常阻力不是主要卡在近端 epicardial artery。",
+      "key_point": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "flashcard_summary": "冠脈循環 -> 舒張期供血多；耗氧量由心率、收縮力、壁張力決定；阻力在微循環",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "flashcard_back": "正常冠狀動脈阻力主要由小動脈與微循環調節，不是近端心外膜冠脈。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_007",
@@ -146,15 +178,20 @@
         "D": "123456"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題幹描述老年 COPD 急性惡化合併心悸，選項組合的正答為 2、4、5。這比較像規則性心房撲動等 reentry 心律不整：不是 atrial fibrillation，頸動脈按摩通常只能暫時改變 AV conduction 而不會終止，且依共病評估需考慮抗凝血。\n\n【選項詳解】\n- A. 正確。組合 2、4、5 同時保留 reentry、頸動脈按摩不易終止與血栓風險需抗凝血，並排除 atrial fibrillation 與 propranolol 首選。\n- B. 錯誤。B 多了第 1 項；心房顫動應呈不規則不規則節律，若心電圖呈規則鋸齒樣或固定傳導，更支持心房撲動。\n- C. 錯誤。C 包含第 3 與第 6 項；COPD 急性惡化時靜脈 propranolol 這種非選擇性 beta blocker 不是首選，且此類心律不整有血栓風險。\n- D. 錯誤。D 把 1 到 6 全列為正確，但其中 atrial fibrillation、propranolol 首選與無血栓風險三項都不成立。\n\n【核心考點】\n心房撲動常與 reentry 有關，頸動脈按摩可幫助顯露 flutter wave 但通常不根治；抗凝血要依類似 AF 的血栓風險評估。",
+      "key_point": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "flashcard_summary": "Atrial flutter -> reentry、carotid massage 可顯露不易終止、抗凝血依風險",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "flashcard_back": "心房撲動屬 reentry，頸動脈按摩通常不終止，血栓風險需依共病評估抗凝血。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_008",
@@ -167,10 +204,10 @@
         "D": "在健康且完整的內皮功能狀態,乙醯膽鹼(acetylcholine)會促進血管平滑肌細胞的收縮"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分；以血管平滑肌生理判讀，C 是較穩定的敘述。A、B、D 分別把收縮離子、肌凝蛋白輕鏈調控方向與乙醯膽鹼在完整內皮下的作用說錯。\n\n【選項詳解】\n- A. 官方給分，但生理上不精確。血管平滑肌收縮主要仰賴細胞內鈣離子上升，鈣可由電位依賴性鈣通道進入或由肌漿網釋放，不是靠血液中鈉離子流入作為主要機轉。\n- B. 官方給分，但概念方向相反。平滑肌收縮需要 myosin light chain kinase 使肌凝蛋白輕鏈磷酸化；去磷酸化通常促進放鬆。\n- C. 官方給分且較合理。血管張力受交感神經、局部代謝物與內皮釋放的 nitric oxide、prostacyclin、endothelin 等共同調節。\n- D. 官方給分，但完整內皮下 acetylcholine 通常刺激內皮 NO 釋放，使血管平滑肌放鬆；若內皮受損才可能呈現收縮反應。\n\n【核心考點】\n血管平滑肌收縮要記鈣離子上升與 MLC 磷酸化；完整內皮會讓 acetylcholine 透過 NO 造成舒張。本題因官方一律給分，作答時仍要回到生理機轉。",
+      "key_point": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "flashcard_summary": "血管平滑肌 -> Ca2+、MLC phosphorylation、內皮 NO 調節；本題官方一律給分",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -179,7 +216,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第8題一律給分"
+      "answer_note": "第8題一律給分",
+      "flashcard_front": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "flashcard_back": "血管平滑肌收縮靠 Ca2+ 與 MLC 磷酸化；完整內皮下 acetylcholine 多造成 NO 介導舒張。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正為一律給分；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_009",
@@ -192,15 +236,20 @@
         "D": "發紺病人的鑑別診斷及處置不受血紅素異常的影響"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問身體診察中何者最適當。周圍發紺常因低心輸出、休克或周邊血管收縮造成末端氧萃取增加；B 的描述最正確。\n\n【選項詳解】\n- A. 錯誤。中心性發紺會影響舌頭、口唇與黏膜，來自動脈血氧飽和度下降或右向左分流；不是因四肢血管收縮只讓軀幹變紫。\n- B. 正確。周圍發紺或 acrocyanosis 常見於心衰竭、休克、寒冷或周邊血管疾病，機轉是末梢灌流下降與血管收縮使脫氧血紅素增加。\n- C. 錯誤。PDA 造成差別性發紺時，下肢較上肢明顯；若手術關閉且血流動力修正，不會「一定」持續存在。\n- D. 錯誤。變性血紅素血症、硫血紅素血症或貧血程度會影響發紺判讀與處置，不能排除血紅素異常。\n\n【核心考點】\n中心性發紺看動脈氧合與黏膜，周圍發紺看末梢灌流與血管收縮；血紅素量與異常血紅素會改變發紺表現。",
+      "key_point": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "flashcard_summary": "Cyanosis -> central 看黏膜與低氧；peripheral 看末梢灌流下降",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "flashcard_back": "周圍發紺常由末梢灌流下降與血管收縮造成，中心性發紺則反映動脈低氧或分流。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_010",
@@ -213,10 +262,10 @@
         "D": "老化"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正為一律給分。一般而言，HFpEF 常見風險標記包括高血壓、肥胖、老化、糖尿病、女性與心房顫動；單純心搏緩慢不是典型風險標記，因此題目原始設計可能有疑義。\n\n【選項詳解】\n- A. 官方給分，但高血壓其實是 HFpEF 最重要的危險因子之一，長期壓力負荷會造成左心室肥厚與舒張功能障礙。\n- B. 官方給分，但肥胖常與發炎、睡眠呼吸中止、血容量增加與代謝症候群共存，是 HFpEF 的常見風險背景。\n- C. 官方給分，且若以「通常不被認為是風險標記」來看，心搏緩慢比高血壓、肥胖與老化更不典型；它可影響症狀，但不是常列的流行病學危險因子。\n- D. 官方給分，但老化會增加心室僵硬、血管硬化與共病累積，是 HFpEF 的典型風險標記。\n\n【核心考點】\nHFpEF 的高頻風險組合是老年、高血壓、肥胖、糖尿病、心房顫動與腎病。遇到一律給分題，詳解要保留官方給分並指出醫學上較合理的判讀。",
+      "key_point": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "flashcard_summary": "HFpEF risk markers -> 高血壓、肥胖、老化常見；本題官方一律給分",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -225,7 +274,14 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第10題一律給分"
+      "answer_note": "第10題一律給分",
+      "flashcard_front": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "flashcard_back": "HFpEF 常見風險標記包含高血壓、肥胖與老化；心搏緩慢不是典型流行病學風險標記。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正為一律給分；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_011",
@@ -238,15 +294,20 @@
         "D": "給與高劑量enoxaparin 5 mg/kg 皮下注射"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n病人有持續胸痛、V1-V4 ST elevation 與 troponin 上升，符合前壁 STEMI。選項中最適當的急診藥物是舌下 nitroglycerin 緩解缺血性胸痛與降低前負荷；真正關鍵仍是盡快再灌流，但不在選項內。\n\n【選項詳解】\n- A. 錯誤。STEMI 應給 aspirin，但可嚼 aspirin 常用負荷劑量不是 600 mg；600 mg 比較接近 clopidogrel loading dose 的量級。\n- B. 正確。血壓 160/80 mmHg、沒有低血壓或右室梗塞線索時，舌下 nitroglycerin 0.4 mg 可用於緩解胸痛與降低心肌耗氧。\n- C. 錯誤。刺破立即釋放 nifedipine 會造成不可預測低血壓與反射性心搏過速，急性冠症候群中不建議這樣處理。\n- D. 錯誤。Enoxaparin 可用於抗凝，但 5 mg/kg 皮下注射是明顯過量；急性冠症候群抗凝需依體重與腎功能使用標準劑量。\n\n【核心考點】\nSTEMI 初期處置要記抗血小板、抗凝、硝酸鹽適應症與立即再灌流。不要把 aspirin 劑量和 clopidogrel loading dose 混在一起，也避免立即釋放 nifedipine。",
+      "key_point": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "flashcard_summary": "STEMI 急診藥物 -> nitroglycerin 可用於穩定高血壓胸痛；避免錯劑量與速效 nifedipine",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "flashcard_back": "STEMI 可用舌下 nitroglycerin 緩解缺血胸痛；aspirin 600 mg、速效 nifedipine 與 enoxaparin 5 mg/kg 都不適當。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_012",
@@ -259,15 +320,20 @@
         "D": "血清鎂離子濃度應監控,若偏低則須補充至正常範圍,以減低心律不整風險"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n承上題，病人已成功 PCI 後問後續處置何者最不適當。心肌梗塞早期若有 VT/VF，恢復竇性後不建議常規預防性 lidocaine，因未改善存活且可能增加不良反應。\n\n【選項詳解】\n- A. 不選。MI 後若血行動力穩定且血壓允許，ACE inhibitor 或 ARB 可降低心室重塑與後續心血管事件，尤其前壁 MI 更有意義。\n- B. 不選。心尖部心室瘤合併左心室血栓時，即使無症狀也有栓塞風險，若出血風險可接受，可考慮 3-6 個月抗凝血。\n- C. 應選。預防性 lidocaine 不作為 MI 後 VT/VF 恢復後的例行用藥；重點是修正缺血、電解質與依狀況使用 beta blocker、amiodarone 等。\n- D. 不選。低鎂會增加心律不整風險，MI 後監測並矯正低鎂、低鉀是合理支持治療。\n\n【核心考點】\nMI 後二級預防包括再灌流、DAPT、statin、ACEi/ARB、beta blocker 與風險控制。早期心律不整處理要矯正缺血與電解質，不做例行預防性 lidocaine。",
+      "key_point": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "flashcard_summary": "Post-MI care -> ACEi/ARB 抗重塑、左室血栓抗凝、避免 routine prophylactic lidocaine",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "flashcard_back": "MI 後不建議常規預防性 lidocaine；ACEi/ARB、左室血栓抗凝與矯正低鎂都有臨床角色。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_013",
@@ -280,15 +346,20 @@
         "D": "心電圖出現變化時周邊血中的心肌酵素一定會升高"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n心肌缺血有一個時間序列：灌流下降先發生，接著舒張與收縮功能改變，之後才出現心電圖與胸痛，心肌酵素上升則需要心肌壞死與時間。D 說 ECG 一變酵素一定升高，因此最不適當。\n\n【選項詳解】\n- A. 不選。局部壁運動與收縮功能異常可早於明顯 ST-T 變化，是壓力心臟超音波可偵測缺血的基礎。\n- B. 不選。灌流減少是 ischemic cascade 的前端事件，通常早於壁運動異常。\n- C. 不選。舒張功能對缺血很敏感，可早於明顯收縮功能障礙出現。\n- D. 應選。心電圖改變可能發生在心肌壞死前或很早期，周邊血 troponin/CK-MB 需要時間上升，不能說一定已升高。\n\n【核心考點】\nIschemic cascade 大致是灌流異常、舒張功能異常、收縮/壁運動異常、ECG 變化、症狀與生物標記上升。ECG 與酵素不是同步保證。",
+      "key_point": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "flashcard_summary": "Ischemic cascade -> perfusion 最早；ECG 改變不保證酵素升高",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "flashcard_back": "心肌缺血時 ECG 變化不代表心肌酵素一定已升高；缺血序列從灌流下降開始。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_014",
@@ -301,15 +372,20 @@
         "D": "雙瓣主動脈瓣(bicuspid aortic valve)不易造成嚴重的狹窄,常見於女性"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問主動脈瓣疾病何者最不適當。雙瓣主動脈瓣是先天常見瓣膜異常，男性較多，且容易提早發生主動脈瓣狹窄或逆流；D 的性別與嚴重度描述都錯。\n\n【選項詳解】\n- A. 不選。退化性鈣化主動脈瓣疾病會隨年齡增加，男女都受影響，只是盛行率與表現可不同。\n- B. 不選。嚴重主動脈瓣狹窄在高齡者常見，尤其 75 歲以上退化性鈣化是重要原因。\n- C. 不選。感染性心內膜炎風險會受高齡、置入性血管或心臟裝置、醫療照護暴露與抗藥菌影響。\n- D. 應選。雙瓣主動脈瓣較常見於男性，且會加速瓣膜鈣化、狹窄或逆流，並可合併升主動脈病變。\n\n【核心考點】\n雙瓣主動脈瓣不是良性小變異；它常造成早發性主動脈瓣狹窄/逆流，且男性較常見。",
+      "key_point": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "flashcard_summary": "Aortic valve disease -> degenerative AS 隨年齡上升；BAV 男性多且可嚴重",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "flashcard_back": "雙瓣主動脈瓣男性較多，會增加早發主動脈瓣狹窄、逆流與主動脈病變風險。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_015",
@@ -322,15 +398,20 @@
         "D": "肥胖也是食道鱗狀上皮細胞癌的相關因子"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問食道癌描述何者錯誤。肥胖主要增加胃食道逆流、Barrett 食道與下段食道腺癌風險，不是食道鱗狀細胞癌的典型相關因子，因此 D 錯。\n\n【選項詳解】\n- A. 不選。食道鱗狀細胞癌常發生在中上段，吸菸與酒精是重要風險因子，兩者合併風險更高。\n- B. 不選。嚼檳榔與口腔、咽喉及食道鱗狀細胞癌風險上升相關，台灣考題常一起考。\n- C. 不選。Barrett 食道是胃食道逆流造成的腸上皮化生，主要增加下段食道腺癌風險。\n- D. 應選。肥胖與食道腺癌較相關，透過腹壓增加與逆流促成 Barrett 食道；它不是鱗狀細胞癌的代表危險因子。\n\n【核心考點】\n食道癌要分鱗狀細胞癌與腺癌：鱗癌連到菸酒檳榔與中上段，腺癌連到 GERD、Barrett、肥胖與下段。",
+      "key_point": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "flashcard_summary": "Esophageal cancer -> SCC 菸酒檳榔中上段；adenocarcinoma GERD/Barrett/肥胖下段",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "flashcard_back": "肥胖主要增加 Barrett 食道與食道腺癌風險，不是食道鱗狀細胞癌典型危險因子。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_016",
@@ -343,15 +424,20 @@
         "D": "根除幽門螺旋桿菌使用抗生素治療後,建議需在停藥1 週後即檢驗是否殺菌成功"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問幽門螺旋桿菌檢查何者正確。快速尿素酶檢驗需要胃鏡取得胃黏膜檢體，屬侵入性檢查，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。臨床常用的是糞便抗原檢測，不是糞便抗體；抗體檢測無法區分現在感染與過去暴露。\n- B. 正確。Rapid urease test 需經內視鏡切片取得胃黏膜，靠細菌 urease 分解尿素使 pH 變化來判讀。\n- C. 錯誤。13C urea breath test 使用穩定同位素，沒有放射性；14C 才涉及少量放射性考量。\n- D. 錯誤。根除後確認治療成功通常需等抗生素完成至少 4 週，且停用 PPI/PCAB 約 2 週，以免偽陰性。\n\n【核心考點】\nH. pylori 檢查分侵入性胃鏡切片與非侵入性呼氣/糞便抗原。13C 沒有放射性；test of cure 不能在停藥 1 週就急著做。",
+      "key_point": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "flashcard_summary": "H. pylori -> RUT 侵入性；13C UBT 非放射；test of cure 等至少 4 週",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "flashcard_back": "Rapid urease test 是胃鏡切片檢查；13C 呼氣試驗無放射性，根除確認需延後並停 PPI。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_017",
@@ -364,15 +450,20 @@
         "D": "肝臟內皮細胞"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n肝硬化的核心病理是慢性肝損傷後纖維化、再生結節與血流架構扭曲。造成膠原沉積與血管阻力上升的主角是活化的肝星狀細胞。\n\n【選項詳解】\n- A. 錯誤。Kupffer 細胞是肝臟巨噬細胞，會釋放發炎與纖維化訊號，但不是產生大量細胞外基質的主要效應細胞。\n- B. 正確。Hepatic stellate cells 活化後轉成肌纖維母細胞樣細胞，分泌 collagen，造成竇狀隙纖維化與門脈高壓。\n- C. 錯誤。肝細胞是受損與再生的主要實質細胞，但纖維化矩陣沉積不是由它主導。\n- D. 錯誤。肝竇內皮細胞功能改變會影響微循環，但肝硬化纖維化的關鍵細胞仍是肝星狀細胞。\n\n【核心考點】\n肝硬化纖維化請記 hepatic stellate cell activation。Kupffer cell 可推動發炎訊號，但 stellate cell 才是膠原沉積主力。",
+      "key_point": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "flashcard_summary": "Cirrhosis fibrosis -> stellate cell activation 是主角",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "flashcard_back": "肝硬化纖維化主要來自活化的 hepatic stellate cells 分泌膠原與細胞外基質。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_018",
@@ -385,15 +476,20 @@
         "D": "rifaximin 因全身吸收率高,常用於急性肝性腦病變治療"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n肝性腦病變治療重點是找誘因、降低腸道含氮毒素與避免過度限制營養。Lactulose 透過酸化腸腔與促進排便減少氨吸收，是治療主力。\n\n【選項詳解】\n- A. 錯誤。長期嚴格限制蛋白質會惡化營養不良與肌少症，現代治療不把限制蛋白質當首選。\n- B. 正確。Lactulose 可降低腸道 pH，使 NH3 轉為較不易吸收的 NH4+，並加速腸道排空，是急性與慢性治療常用藥。\n- C. 錯誤。Neomycin、metronidazole 可降低腸道菌，但有耳腎毒性、周邊神經病變等副作用，不能說可避免副作用。\n- D. 錯誤。Rifaximin 全身吸收率低，常作為 lactulose 後的加用或預防復發用藥，不是因高吸收率而用。\n\n【核心考點】\n肝性腦病變先找誘因，藥物以 lactulose 為主，rifaximin 常作加用。不要用過度限蛋白取代治療。",
+      "key_point": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "flashcard_summary": "Hepatic encephalopathy -> lactulose first-line；rifaximin 低吸收常加用",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "flashcard_back": "Lactulose 是肝性腦病變治療主力，靠腸道酸化與排便減少氨吸收。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_019",
@@ -406,15 +502,20 @@
         "D": "胰腺癌會增加靜脈血栓(venous thrombosis)的風險"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問胰臟腺癌何者錯誤。第 4 期代表已有遠端轉移，標準治療通常是全身性治療與緩和照護評估，不是手術切除後再做輔助化療。\n\n【選項詳解】\n- A. 不選。局限且可切除的胰臟癌有機會透過手術達到長期控制或根治，是少數可能治癒的方式。\n- B. 不選。術後輔助化療可降低復發風險並改善存活，常見於可切除病人術後治療。\n- C. 應選。第 4 期胰臟癌已有轉移，治療重點是全身性化療、症狀控制與生活品質；手術切除不是標準處置。\n- D. 不選。胰臟癌可造成高凝血狀態，與 migratory thrombophlebitis、深部靜脈血栓與肺栓塞風險上升相關。\n\n【核心考點】\n胰臟癌治療要先分可切除、局部晚期與轉移性。只有可切除病灶才談手術根治與術後輔助治療；第 4 期以全身治療為主。",
+      "key_point": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "flashcard_summary": "Pancreatic cancer -> resectable 才談根治手術；stage IV 以 systemic therapy 為主",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "flashcard_back": "第 4 期胰臟腺癌不是手術切除加術後輔助化療的標準場景，而是以全身治療為主。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_020",
@@ -427,15 +528,20 @@
         "D": "用以治療發炎性腸道疾病的免疫抑制劑如azathioprine 常與生物製劑(biologics)並用,其副作用包括白\n 血球減少、噁心與肝炎等"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問 IBD 何者錯誤。潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險，因此監測大腸鏡不只適用於潰瘍性大腸炎。\n\n【選項詳解】\n- A. 不選。IBD 初診時可能因表現重疊而暫時歸為 indeterminate colitis 或 IBD-unclassified，之後再依病程與病理分類。\n- B. 不選。Uveitis、episcleritis 等眼部腸外表現可見於 UC 與 Crohn disease。\n- C. 應選。Crohn colitis 也會增加大腸癌風險；是否追蹤取決於結腸受累範圍、病程長度、發炎程度與其他危險因子。\n- D. 不選。Azathioprine 可與生物製劑併用降低免疫原性或增強治療，副作用包括骨髓抑制、噁心、肝毒性與感染風險。\n\n【核心考點】\nIBD 的大腸癌風險不是 UC 專屬；只要 Crohn disease 有長期結腸發炎，也需要依風險安排 surveillance colonoscopy。",
+      "key_point": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "flashcard_summary": "IBD cancer risk -> UC 與 Crohn colitis 都要風險分層追蹤大腸鏡",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "flashcard_back": "潰瘍性大腸炎與累及結腸的 Crohn disease 都會增加大腸癌風險。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_021",
@@ -448,15 +554,20 @@
         "D": "吸菸是大腸直腸癌最重要的危險因子"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問大腸直腸癌何者正確。近年早發性大腸直腸癌在歐美與亞太多地都有上升趨勢，因此 A 是正確敘述。\n\n【選項詳解】\n- A. 正確。50 歲以下 early-onset colorectal cancer 增加是近年重要流行病學現象，臨床上也提醒年輕病人出現警訊不能只歸因於痔瘡或腸胃炎。\n- B. 錯誤。腺瘤是癌前病變且大腸鏡會切除腺瘤性息肉，但不是幾乎所有腺瘤都會癌化；癌化風險取決於大小、絨毛成分與高度異生等。\n- C. 錯誤。Lynch syndrome 相關癌症因 MSI-high 特性，預後不一定比散發性大腸癌差；此敘述過度簡化且方向不穩。\n- D. 錯誤。吸菸是風險因子之一，但大腸癌風險還包括年齡、家族史、遺傳症候群、發炎性腸病、肥胖、飲食與酒精等，不能說最重要。\n\n【核心考點】\n大腸直腸癌考題常考早發性增加、腺瘤癌化序列與 Lynch syndrome。腺瘤需切除，但不是每顆都必然癌化。",
+      "key_point": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "flashcard_summary": "Colorectal cancer -> early-onset incidence increasing；adenoma 是癌前但非全部癌化",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "flashcard_back": "50 歲以下早發性大腸直腸癌在歐美與亞太皆有上升趨勢。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_022",
@@ -469,15 +580,20 @@
         "D": "23"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n45 歲女性有胸口灼熱、晨起苦味與聲音沙啞，最像 GERD，但仍要排除心血管與其他食道疾病。四個敘述中只有第 4 項正確，因此答案為僅 4。\n\n【選項詳解】\n- A. 錯誤。A 含 1、2、4；第 1 項錯在說不可能為冠狀動脈疾病，胸痛病人不能用逆流症狀完全排除心臟病，第 2 項也錯。\n- B. 錯誤。B 含 2、4；GERD 可是 non-erosive reflux disease，胃鏡沒有食道炎不代表不可能是 GERD。\n- C. 正確。PPI 抑酸效果通常優於 H2RA，對典型 GERD 症狀與食道炎癒合較有效；第 1 到 3 項皆不適當。\n- D. 錯誤。D 含 2、3；Barrett 食道增加的是食道腺癌風險，不是鱗狀細胞癌，且胃鏡無發炎也不能排除 GERD。\n\n【核心考點】\nGERD 可以沒有內視鏡食道炎；治療上 PPI 比 H2RA 強。Barrett 食道連到腺癌，胸痛病人不能武斷排除冠心病。",
+      "key_point": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "flashcard_summary": "GERD -> non-erosive 仍可能；PPI 優於 H2RA；Barrett -> adenocarcinoma",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "flashcard_back": "GERD 可無內視鏡食道炎；PPI 較 H2RA 有效，Barrett 食道主要增加食道腺癌風險。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_023",
@@ -490,15 +606,20 @@
         "D": "常導致葉酸(folate)缺乏"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問小腸細菌過度生長何者錯誤。SIBO 可造成脂肪吸收不良與維生素 B12 消耗，卻常因細菌合成葉酸而使葉酸正常或偏高，因此 D 錯。\n\n【選項詳解】\n- A. 不選。細菌去結合膽鹽會影響脂肪吸收，造成脂肪便、腹脹與體重下降。\n- B. 不選。腸內細菌消耗 vitamin B12，可造成 B12 缺乏與大球性貧血。\n- C. 不選。盲環、狹窄、術後吻合、腸道蠕動差或結構異常都可能讓細菌在小腸過度增生。\n- D. 應選。SIBO 典型是 B12 缺乏，葉酸可因細菌產生而正常或增加，不是常導致葉酸缺乏。\n\n【核心考點】\nSIBO 的營養陷阱是「B12 低、葉酸不低」。脂肪便來自膽鹽去結合與吸收不良。",
+      "key_point": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "flashcard_summary": "SIBO -> steatorrhea、macrocytic anemia、B12 low、folate normal/high",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "flashcard_back": "SIBO 常造成 B12 缺乏與脂肪便，葉酸通常不缺乏甚至可升高。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_024",
@@ -511,15 +632,20 @@
         "D": "高血壓"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是否定問法，問何者不是慢性腎臟病常見危險因子。糖尿病與高血壓是 CKD 最重要危險因子，吸菸也會促進腎病進展；喝酒不是典型主要危險因子。\n\n【選項詳解】\n- A. 不選。吸菸會造成血管傷害、加速動脈硬化與蛋白尿進展，是 CKD 與心血管風險管理要處理的因子。\n- B. 應選。酒精可造成其他健康問題，但在 CKD 常見危險因子清單中，不如糖尿病、高血壓、蛋白尿、年齡與吸菸典型。\n- C. 不選。糖尿病腎病變是 CKD 與末期腎臟病最常見原因之一。\n- D. 不選。高血壓既可造成腎小動脈硬化，也會加速各類 CKD 惡化。\n\n【核心考點】\nCKD 風險先記糖尿病、高血壓、蛋白尿、年齡、家族史與吸菸。喝酒不是國考常列的核心 CKD 危險因子。",
+      "key_point": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "flashcard_summary": "CKD risk -> DM、HTN、proteinuria、smoking；alcohol 非典型主因",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "flashcard_back": "慢性腎臟病常見危險因子包含糖尿病、高血壓與吸菸；喝酒不是典型主因。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_025",
@@ -532,15 +658,20 @@
         "D": "eGFR 50(mL/min/1.73 m2),UACR<30 mg/g"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nCKD 風險分層同時看 eGFR 與白蛋白尿。即使 eGFR 尚高，UACR 大於 300 mg/g 代表 A3 重度白蛋白尿，進展與心血管風險可比單純 eGFR 輕度下降更嚴重。\n\n【選項詳解】\n- A. 正確。eGFR 80 屬 G2，但 UACR >300 mg/g 是 A3，重度白蛋白尿使腎病惡化與心血管風險顯著增加。\n- B. 錯誤。eGFR 70 加 UACR 30-300 mg/g 是 G2A2，風險低於 A3 白蛋白尿。\n- C. 錯誤。eGFR 60 與 UACR <30 mg/g 接近 G2/G3a 邊界且 A1，若無其他證據，風險不如 A3。\n- D. 錯誤。eGFR 50 是 G3a，但 UACR A1；相較 A 的 A3 白蛋白尿，整體風險通常較低。\n\n【核心考點】\nCKD 分層不能只看 eGFR；albuminuria 是預測腎衰與心血管事件的強風險因子。A3 白蛋白尿要高度重視。",
+      "key_point": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "flashcard_summary": "CKD staging -> GFR plus albuminuria；A3 可讓風險大幅上升",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "flashcard_back": "CKD 風險分層要同時看 eGFR 與 UACR；UACR >300 mg/g 是高風險 A3。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_026",
@@ -553,15 +684,20 @@
         "D": "醣化皮質類固醇(glucocorticoid)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性腸胃炎上吐下瀉會造成有效循環量下降與噁心、壓力刺激，促進抗利尿激素分泌。ADH 使水分滯留多於鈉，造成低血鈉。\n\n【選項詳解】\n- A. 錯誤。甲狀腺素不足可造成低血鈉，但題幹是急性腸胃炎與體液流失，不是甲狀腺功能異常。\n- B. 正確。Vasopressin 上升會增加集合管水重吸收，使血鈉被稀釋；噁心與低有效循環量都是強 ADH 刺激。\n- C. 錯誤。Aldosterone 上升主要促進鈉重吸收與鉀排出，較偏向保鈉保水，不是稀釋性低鈉的最直接原因。\n- D. 錯誤。Glucocorticoid 缺乏會造成低血鈉；題目問分泌上升，且此病人腎功能與血壓未指向腎上腺危象。\n\n【核心考點】\n低血容量、噁心、疼痛與壓力都會促進 ADH，造成水滯留與低血鈉。看到嘔吐腹瀉合併輕低鈉，先想到非滲透性 ADH 上升。",
+      "key_point": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "flashcard_summary": "Hyponatremia -> nausea/hypovolemia stimulates ADH",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "flashcard_back": "急性腸胃炎造成低有效循環量與噁心，可刺激 ADH 上升並導致稀釋性低鈉。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_027",
@@ -574,15 +710,20 @@
         "D": "尿路結石及結晶"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nIC/BPS 是慢性膀胱疼痛、頻尿、急尿症候群，病因假說包含尿路上皮屏障缺陷、免疫、神經敏感化與微生物環境變化。尿路結石與結晶是鑑別診斷，不是主要病因假說。\n\n【選項詳解】\n- A. 不選。感染後變化、尿道或膀胱微生物群改變被提出為可能相關因素，雖然不是單一確定病因。\n- B. 不選。自體免疫與肥大細胞活化等免疫機轉被列為 IC/BPS 的可能假說。\n- C. 不選。中樞敏感化與神經生物學因素可解釋疼痛放大、慢性疼痛共病與症狀持續。\n- D. 應選。結石會造成疼痛、血尿或感染樣症狀，需排除，但不是 IC/BPS 的主要病因假說。\n\n【核心考點】\nIC/BPS 是排除診斷與慢性疼痛症候群，病因多假說。結石是要排除的 mimicker，不是它的核心病因。",
+      "key_point": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "flashcard_summary": "IC/BPS -> chronic bladder pain；stone 是 differential, not pathogenesis hypothesis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "flashcard_back": "IC/BPS 病因假說包含免疫、感染/菌群與神經敏感化；尿路結石屬鑑別診斷。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_028",
@@ -595,15 +736,20 @@
         "D": "定期重複尿液培養"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性腎損傷恢復狀態最實用的監測是連續看血清 creatinine 與尿量。這兩者直接反映濾過功能與腎臟灌流/排尿反應。\n\n【選項詳解】\n- A. 正確。Creatinine 趨勢與尿量是 AKI 分期與恢復判斷的核心資料，需連續觀察而不是看單點數字。\n- B. 錯誤。腹部超音波可排除阻塞或評估腎臟結構，但每天做不會準確反映功能恢復。\n- C. 錯誤。血尿與蛋白尿可提示腎絲球或腎小管病因，卻不是監測 AKI 治療反應的最準確指標。\n- D. 錯誤。尿液培養只在懷疑感染時有用，不能用來追蹤 AKI 恢復。\n\n【核心考點】\nAKI 追蹤先看尿量與 creatinine trend。影像與尿液檢查要依病因使用，不是每天例行監測恢復的主軸。",
+      "key_point": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "flashcard_summary": "AKI monitoring -> serial creatinine and urine output",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "flashcard_back": "AKI 治療反應與恢復最核心的連續指標是尿量與血清 creatinine 趨勢。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_029",
@@ -616,15 +762,20 @@
         "D": "增加mycophenolate mofetil 劑量至2,000 mg/day"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n腎移植 10 年後腎功能慢性惡化，切片有間質纖維化與小動脈壁增厚、無淋巴球浸潤，需考慮 calcineurin inhibitor 慢性毒性。下一步應先檢測 tacrolimus trough level。\n\n【選項詳解】\n- A. 錯誤。沒有淋巴球浸潤不支持急性細胞性排斥，直接加類固醇可能增加感染與代謝副作用。\n- B. 正確。Tacrolimus 可造成腎小動脈病變與間質纖維化，檢測 trough level 可判斷是否過量並調整免疫抑制。\n- C. 錯誤。Cyclosporine 同屬 calcineurin inhibitor，也有腎毒性，未確認濃度前直接替換不是最佳處置。\n- D. 錯誤。增加 mycophenolate mofetil 會加重免疫抑制，對疑似 tacrolimus 毒性或慢性纖維化不能直接解決。\n\n【核心考點】\n移植腎慢性惡化要分排斥、藥物毒性與慢性移植物病變。Tacrolimus 毒性線索是小動脈病變與間質纖維化，先查 trough level。",
+      "key_point": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "flashcard_summary": "Renal transplant -> suspected CNI toxicity; check tacrolimus trough",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "flashcard_back": "移植腎慢性惡化合併小動脈壁增厚與間質纖維化，要先評估 tacrolimus trough level。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_030",
@@ -637,15 +788,20 @@
         "D": "慢性腎絲球腎炎"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n病人長期自行購買消炎止痛藥、慢性腎衰竭，未顯影 CT 圖像若見乳突鈣化或腎乳頭壞死線索，最支持止痛藥腎病變。電池工廠與痛風會干擾判斷，但正答是 B。\n\n【選項詳解】\n- A. 錯誤。馬兜鈴酸腎病變常見腎臟萎縮、間質纖維化與泌尿道上皮癌風險，題幹最強線索不是中草藥或 aristolochic acid 暴露。\n- B. 正確。Analgesic nephropathy 與長期 NSAID/複方止痛藥使用相關，可造成慢性間質性腎炎、腎乳頭壞死與乳頭鈣化。\n- C. 錯誤。鉛腎病變可和電池工廠、痛風、高血壓相關，但典型影像不是腎乳頭壞死/鈣化；本題影像與止痛藥史更關鍵。\n- D. 錯誤。慢性腎絲球腎炎可有蛋白尿與腎衰，但題幹的止痛藥暴露與 CT 線索更支持腎乳頭壞死。\n\n【核心考點】\n慢性止痛藥使用加腎乳頭壞死或乳頭鈣化，要想到 analgesic nephropathy。職業暴露線索要和影像特徵一起判讀。",
+      "key_point": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "flashcard_summary": "Analgesic nephropathy -> chronic analgesics, papillary necrosis, papillary calcification",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "flashcard_back": "長期止痛藥使用合併腎乳頭壞死或乳頭鈣化，最支持止痛藥腎病變。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_031",
@@ -658,15 +814,20 @@
         "D": "矽肺症(silicosis)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n年輕女性、慢性乾咳、疲倦、雙側肺門淋巴結腫大與非乾酪性肉芽腫，是類肉瘤的經典組合。重點是非乾酪性而不是乾酪性壞死。\n\n【選項詳解】\n- A. 錯誤。結核病也可造成肉芽腫與肺門淋巴結，但典型病理為乾酪性壞死，且需搭配感染證據。\n- B. 正確。Sarcoidosis 常見雙側肺門淋巴結腫大、肺部症狀、皮膚/眼部表現與 noncaseating granulomas。\n- C. 錯誤。過敏性肺炎與抗原暴露相關，病理可有小肉芽腫，但典型影像與病史不是雙側肺門淋巴結腫大。\n- D. 錯誤。矽肺症需有二氧化矽暴露，影像常見上肺野結節與蛋殼樣淋巴結鈣化，不是此題核心表現。\n\n【核心考點】\nBilateral hilar lymphadenopathy 加 noncaseating granuloma 先想 sarcoidosis；TB 則要連到 caseating granuloma。",
+      "key_point": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "flashcard_summary": "Sarcoidosis -> bilateral hilar lymphadenopathy + noncaseating granulomas",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "flashcard_back": "雙側肺門淋巴結腫大合併非乾酪性肉芽腫，是 sarcoidosis 的典型線索。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_032",
@@ -679,15 +840,20 @@
         "D": "若考慮使用生物製劑治療,應考慮優先選擇adalimumab"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n75 歲、單側頭痛、發燒、ESR/CRP 高且無感染，要高度懷疑 giant cell arteritis。若需生物製劑，常考 IL-6 receptor inhibitor tocilizumab，不是 TNF-alpha inhibitor adalimumab。\n\n【選項詳解】\n- A. 不選。Jaw claudication 是 GCA 重要線索，也提示顳動脈缺血與視力併發症風險。\n- B. 不選。Temporal artery 或 axillary artery 超音波可見 halo sign 等血管壁發炎線索，是可用的診斷工具。\n- C. 不選。Polymyalgia rheumatica 常與 GCA 共存，表現為雙側肩帶、髖帶疼痛與晨僵。\n- D. 應選。Adalimumab 不是 GCA 生物製劑首選；需類固醇節省治療時，tocilizumab 較有代表性。\n\n【核心考點】\nGCA 要記老年新發頭痛、jaw claudication、ESR/CRP 高與失明風險。治療核心是立即類固醇，生物製劑常考 tocilizumab。",
+      "key_point": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "flashcard_summary": "GCA -> elderly headache, jaw claudication, high ESR/CRP; tocilizumab steroid-sparing",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "flashcard_back": "Giant cell arteritis 的生物製劑代表是 tocilizumab，不是 adalimumab。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_033",
@@ -700,15 +866,20 @@
         "D": "anti–TIF1–γ antibodies:lower risk of cancer"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考發炎性肌病的肌炎特異抗體與臨床關聯。Anti-TIF1-gamma 與成人 dermatomyositis 的癌症風險上升相關，選項 D 說風險較低，因此最不適當。\n\n【選項詳解】\n- A. 不選。Anti-MDA5 常與 clinically amyopathic dermatomyositis、皮膚潰瘍與快速進展間質性肺病相關。\n- B. 不選。Anti-NXP2 在成人可與惡性腫瘤風險增加相關，也可見嚴重肌病或鈣化。\n- C. 不選。Anti-Mi-2 常見典型皮肌炎皮疹，通常對治療反應較好、預後相對佳。\n- D. 應選。Anti-TIF1-gamma 是癌症相關 dermatomyositis 的重要抗體之一，不能說癌症風險較低。\n\n【核心考點】\n肌炎抗體要背臨床配對：MDA5 連 amyopathic/ILD，Mi-2 連治療反應佳，TIF1-gamma 與 NXP2 要想到 malignancy risk。",
+      "key_point": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "flashcard_summary": "Myositis antibodies -> TIF1-gamma/NXP2 malignancy risk; MDA5 amyopathic/ILD",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "flashcard_back": "Anti-TIF1-gamma 與 dermatomyositis 的癌症風險增加相關，不是較低風險。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_034",
@@ -721,15 +892,20 @@
         "D": "Immunoglobulin serum levels"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n反覆 invasive Neisseria 感染要懷疑補體末端路徑缺陷，尤其 C5-C9。CH50 與 AP50 可篩檢 classical/alternative pathway 補體功能，因此最適當。\n\n【選項詳解】\n- A. 錯誤。Lymphocyte phenotype 用於懷疑 T/B/NK 細胞數量或分化異常，與反覆 Neisseria 的典型路徑不符。\n- B. 正確。CH50 評估 classical pathway 到 terminal complement，AP50 評估 alternative pathway；末端補體缺陷會增加 Neisseria 侵襲性感染。\n- C. 錯誤。NBT assay 評估吞噬細胞氧化爆發，常用於慢性肉芽腫病，不是 Neisseria 反覆感染的首選。\n- D. 錯誤。免疫球蛋白濃度可評估抗體缺乏，但題幹關鍵菌種最指向補體缺陷。\n\n【核心考點】\nRecurrent Neisseria meningitidis/gonorrhoeae invasive infection 先想 terminal complement deficiency，篩檢用 CH50/AP50。",
+      "key_point": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "flashcard_summary": "Neisseria recurrent infection -> terminal complement; CH50/AP50",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "flashcard_back": "反覆侵襲性 Neisseria 感染提示 terminal complement deficiency，應檢查 CH50/AP50。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_035",
@@ -742,15 +918,20 @@
         "D": "CD44"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nNaive 與 memory T cell 的常考表面差異是 CD45 isoform。Naive T cell 多為 CD45RA，memory T cell 多為 CD45RO。\n\n【選項詳解】\n- A. 正確。CD45 是 leukocyte common antigen，不同剪接 isoform 可區分 naive 與 memory T 細胞。\n- B. 錯誤。CD2 是 T 細胞與 NK 細胞常見黏附/活化相關分子，不是 naive/memory isoform 的主要分界。\n- C. 錯誤。CD28 是 T 細胞共刺激分子，與活化及共刺激訊號相關，不靠不同 isoform 區分 naive 與 memory。\n- D. 錯誤。CD44 在小鼠與活化/記憶表型有關，但本題問「不同 isoforms」且人類常考答案是 CD45RA/CD45RO。\n\n【核心考點】\nT cell 記憶表型看到 isoform 要想到 CD45RA 與 CD45RO。CD28 是 costimulation，CD2 是黏附/活化分子。",
+      "key_point": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "flashcard_summary": "T cell markers -> naive CD45RA, memory CD45RO",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "flashcard_back": "Naive 與 memory T cell 可用 CD45RA/CD45RO isoform 區分。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_036",
@@ -763,17 +944,24 @@
         "D": "TNM 分期有時會結合腫瘤的組織學分級(grading)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正接受 C 或 D。C 明確錯在 ypTNM 代表接受前導治療後的病理分期，不是單純手術後初次病理分期；D 則因傳統 TNM 與納入 grade 的 prognostic stage group 容易混淆而被接受。\n\n【選項詳解】\n- A. 不選。TNM 以原發腫瘤範圍、區域淋巴結與遠端轉移為核心，是實體腫瘤解剖分期的基本架構。\n- B. 不選。白血病、多發性骨髓瘤與多數淋巴瘤有各自分期或風險系統，通常不使用一般實體腫瘤 TNM。\n- C. 應選。ypTNM 的 y 表示 neoadjuvant therapy 後再做病理分期；若只是手術後病理分期，通常是 pTNM。\n- D. 應選。若嚴格講 TNM，T/N/M 與 histologic grade 是不同維度；但 AJCC 某些癌症的預後分期會把 grade 納入，故官方接受 D 有其語意爭議。\n\n【核心考點】\nTNM 字首很重要：c 是 clinical，p 是 pathologic，y 是治療後分期。Grade 可進入某些 prognostic stage group，但不等於傳統 TNM 本身。",
+      "key_point": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "flashcard_summary": "TNM staging -> c/p/y prefixes; yp after neoadjuvant therapy; grade wording ambiguous",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C",
         "D"
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第36題答C或D或CD者均給分"
+      "answer_note": "第36題答C或D或CD者均給分",
+      "flashcard_front": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "flashcard_back": "ypTNM 是前導治療後的病理分期；grade 與傳統 T/N/M 不同，但可納入某些預後分期。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 C、D 或 CD；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_037",
@@ -786,15 +974,20 @@
         "D": "針對帶有BRCA2 突變的CRPC 患者,可以考慮使用poly-ADP ribose polymerase(PARP)抑制劑"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nCRPC 指已達去勢濃度睪固酮仍出現 PSA、影像或臨床惡化。A 說睪固酮高於 100 ng/mL 時仍惡化，並未達去勢狀態，因此錯。\n\n【選項詳解】\n- A. 應選。去勢抗性前列腺癌必須在低睪固酮，常以 <50 ng/dL 的去勢濃度為判斷背景；高於 100 ng/mL 更不是去勢濃度。\n- B. 不選。CRPC 常見 PSA 上升、骨轉移惡化、疼痛或其他疾病進展表現。\n- C. 不選。對骨轉移疼痛病人，疼痛控制、骨骼事件預防與生活品質常比單純追 PSA 數字更貼近臨床目標。\n- D. 不選。BRCA2 等 DNA repair gene alteration 的 CRPC 可考慮 PARP inhibitor，是精準治療重點之一。\n\n【核心考點】\nCRPC 不是「睪固酮很高還惡化」，而是已達去勢濃度仍進展。治療目標要兼顧存活、症狀、骨骼事件與基因突變用藥。",
+      "key_point": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "flashcard_summary": "CRPC -> castrate testosterone plus progression; BRCA2 may use PARP inhibitor",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "flashcard_back": "CRPC 定義是在去勢濃度睪固酮下仍疾病進展，不是睪固酮高於 100 ng/mL。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_038",
@@ -807,17 +1000,24 @@
         "D": "默克細胞癌(Merkel cell carcinoma)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正接受 C 或 D。若問「皮膚常見原發癌症」，基底細胞癌與鱗狀細胞癌最典型；腺癌不是常見皮膚原發型態，Merkel cell carcinoma 雖是皮膚原發神經內分泌癌，但很罕見。\n\n【選項詳解】\n- A. 不選。皮膚鱗狀細胞癌是常見 non-melanoma skin cancer，與紫外線、免疫抑制、慢性傷口等相關。\n- B. 不選。基底細胞癌是最常見皮膚癌，常見於日曬部位，局部侵襲為主。\n- C. 應選。腺癌不是一般皮膚常見原發癌的典型組織類型；皮膚腺樣腫瘤需另考慮附屬器腫瘤或轉移。\n- D. 應選。Merkel cell carcinoma 是皮膚原發癌症之一，但屬少見且侵襲性高的神經內分泌癌；因題目問「常見」，官方也接受此選項。\n\n【核心考點】\n皮膚常見原發癌症先記 basal cell carcinoma、squamous cell carcinoma 與 melanoma。Merkel cell carcinoma 是原發但少見，題目用「常見」時容易產生給分爭議。",
+      "key_point": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "flashcard_summary": "Skin cancer types -> BCC/SCC common; adenocarcinoma non-typical; Merkel rare primary",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C",
         "D"
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第38題答C或D或CD者均給分"
+      "answer_note": "第38題答C或D或CD者均給分",
+      "flashcard_front": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "flashcard_back": "皮膚常見原發癌以 BCC、SCC、melanoma 為主；adenocarcinoma 非典型，Merkel cell carcinoma 少見。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 C、D 或 CD；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_039",
@@ -830,15 +1030,20 @@
         "D": "血液中的synaptophysin-A 是診斷及追蹤此類疾病常用的腫瘤指標"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n胃腸胰神經內分泌腫瘤常用免疫組織染色確認神經內分泌分化。Chromogranin 與 synaptophysin 是病理診斷常用標記，因此 A 正確。\n\n【選項詳解】\n- A. 正確。Chromogranin A 與 synaptophysin 免疫染色可支持 NET 診斷，另需配合 Ki-67、mitotic count 分級。\n- B. 錯誤。Pancreatic NET 多數是 nonfunctional，沒有明顯荷爾蒙症候群；功能性腫瘤反而較少。\n- C. 錯誤。功能性 pancreatic NET 中最常見通常是 insulinoma，不是 gastrinoma。\n- D. 錯誤。Synaptophysin 是組織免疫染色標記，不是血液中常用的追蹤腫瘤指標；血中較常聽到 chromogranin A。\n\n【核心考點】\nNET 病理標記記 chromogranin、synaptophysin，加上 Ki-67 分級。Pancreatic NET 多為 nonfunctional，功能性最常見是 insulinoma。",
+      "key_point": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "flashcard_summary": "NET -> chromogranin/synaptophysin IHC; pancreatic NET mostly nonfunctional",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "flashcard_back": "NET 常用 chromogranin 與 synaptophysin 免疫染色；pancreatic NET 多數無功能。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_040",
@@ -851,17 +1056,24 @@
         "D": "diffuse large B-cell lymphoma 可能是原生型(de novo),也可能是mucosa-associated lymphoid\n tissue subtype 轉變而來,原生型多為BCL-2 及CD10 陽性"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題官方更正接受 B 或 C。胃 MALT lymphoma 與 H. pylori 關係密切；B 的比例描述不穩，C 把 t(11;18) 形成的 fusion protein 名稱寫錯，因此都可選。\n\n【選項詳解】\n- A. 不選。胃 MALT lymphoma 常與 H. pylori 感染相關，早期低度惡性 MALT lymphoma 可先以 H. pylori eradication 治療。\n- B. 應選。MALT 與 DLBCL 在胃淋巴瘤中的比例會因族群與分類不同而變動，不能穩定說 MALT 遠大於 DLBCL 且約 70:30。\n- C. 應選。t(11;18)(q21;q21) 典型形成 API2/BIRC3-MALT1 fusion，不是 API1 與 MALT1，因此分子名稱錯。\n- D. 不選。胃 DLBCL 可 de novo 發生，也可由 MALT lymphoma 轉化；免疫表型可異質，考點不如 B、C 的錯誤明確。\n\n【核心考點】\n胃 MALT lymphoma 常連到 H. pylori，t(11;18) 是 API2/BIRC3-MALT1，且對單純根除治療反應較差。胃淋巴瘤比例題若寫得太絕對要小心。",
+      "key_point": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "flashcard_summary": "Gastric lymphoma -> H. pylori MALT; t(11;18) API2/BIRC3-MALT1",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B",
         "C"
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第40題答B或C或BC者均給分"
+      "answer_note": "第40題答B或C或BC者均給分",
+      "flashcard_front": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "flashcard_back": "胃 MALT lymphoma 與 H. pylori 相關；t(11;18) 形成 API2/BIRC3-MALT1，不是 API1-MALT1。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": [
+        "官方更正接受 B、C 或 BC；未改動原答案欄位。"
+      ]
     },
     {
       "id": "115-2_medicine-3_041",
@@ -874,15 +1086,20 @@
         "D": "vinyl chloride:liver cancer(angiosarcoma)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考環境或微生物致癌因子配對。Adult T-cell leukemia/lymphoma 的病毒是 HTLV-1，不是 HIV，因此 C 最不適當。\n\n【選項詳解】\n- A. 不選。Asbestos 與肺癌、惡性肋膜間皮瘤、腹膜間皮瘤風險相關，且與吸菸對肺癌有加乘效應。\n- B. 不選。Alkylating agents 可造成治療相關骨髓性腫瘤，包括 therapy-related AML/MDS。\n- C. 應選。HIV 造成免疫抑制，增加 Kaposi sarcoma、非何杰金淋巴瘤、子宮頸癌等；adult T-cell leukemia/lymphoma 連到 HTLV-1。\n- D. 不選。Vinyl chloride 暴露經典連到肝血管肉瘤，也可增加其他肝臟腫瘤風險。\n\n【核心考點】\n致癌因子配對要精準：HTLV-1 對 adult T-cell leukemia/lymphoma，HIV 對免疫抑制相關癌症，vinyl chloride 對 hepatic angiosarcoma。",
+      "key_point": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "flashcard_summary": "Carcinogen pairs -> HTLV-1 ATLL; vinyl chloride hepatic angiosarcoma; asbestos mesothelioma/lung",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "flashcard_back": "Adult T-cell leukemia/lymphoma 典型由 HTLV-1 相關，不是 HIV。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_042",
@@ -895,15 +1112,20 @@
         "D": "骨髓切片常看到megakaryocytes 的數量明顯減少,鮮有其他異常"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nITP 是自體免疫血小板破壞，典型為孤立性血小板低下與皮膚黏膜出血。兒童常急性、成人較慢性，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。ITP 屬血小板問題，常見 petechiae、purpura、鼻出血、牙齦出血；深部肌肉或關節出血較像凝血因子缺乏。\n- B. 正確。兒童 ITP 常在病毒感染後急性發作且多可自行緩解，成人則常呈慢性或反覆。\n- C. 錯誤。ITP 多為 isolated thrombocytopenia；若合併白血球異常或貧血，要考慮白血病、骨髓病變或其他診斷。\n- D. 錯誤。骨髓通常可見 megakaryocytes 正常或增加，代表代償性製造血小板，不是明顯減少。\n\n【核心考點】\nITP 是血小板破壞問題：皮膚黏膜出血、血小板低、其他血球多正常、骨髓巨核細胞正常或增加。兒童急性，成人慢性。",
+      "key_point": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "flashcard_summary": "ITP -> mucocutaneous bleeding, isolated thrombocytopenia, megakaryocytes normal/increased",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "flashcard_back": "ITP 兒童多急性、成人多慢性，表現為孤立性血小板低下與皮膚黏膜出血。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_043",
@@ -916,15 +1138,20 @@
         "D": "冷凍沉澱品(cryoprecipitate)是由新鮮冷凍血漿(fresh frozen plasma)在攝氏37°C加熱後所得到的\n 沉澱物集合而成,富含fibrinogen,必須立刻輸注,不可以再冷凍保存"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問血液製品何者正確。紅血球低溫保存，血小板室溫保存且需搖晃維持功能，是基本血品保存原則。\n\n【選項詳解】\n- A. 正確。紅血球一般保存在 1-6°C，血小板保存在 20-24°C 並持續輕微搖晃，以維持血小板代謝與減少聚集。\n- B. 錯誤。照射血品可預防 transfusion-associated GVHD，但會影響保存期限，不能說不影響。\n- C. 錯誤。血漿與血小板優先取自男性或未懷孕女性，主要是降低 donor anti-HLA/HNA antibody 造成 TRALI 的風險，不是降低 CMV 傳播。\n- D. 錯誤。Cryoprecipitate 是 FFP 低溫解凍後取得的冷不溶沉澱，富含 fibrinogen、factor VIII、vWF、factor XIII；選項的 37°C 加熱描述不正確。\n\n【核心考點】\n血品保存：RBC 冷藏、platelet 室溫搖晃。男性/未孕女性血漿策略是防 TRALI；照射血品防 TA-GVHD 但會縮短有效期。",
+      "key_point": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "flashcard_summary": "Blood products -> RBC cold, platelets room temp agitated; irradiation prevents TA-GVHD",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "flashcard_back": "紅血球 1-6°C 保存，血小板 20-24°C 搖晃保存；男性或未孕女性血漿主要為降低 TRALI。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_044",
@@ -937,15 +1164,20 @@
         "D": "gefitinib 標靶治療"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n第四期肺腺癌有 EML4-ALK 融合變化，代表 ALK-rearranged NSCLC。第一線應選 ALK tyrosine kinase inhibitor，選項中 alectinib 最適合。\n\n【選項詳解】\n- A. 錯誤。Osimertinib 是 EGFR mutation，特別是敏感突變或 T790M 等場景的重要藥物，不是 ALK 融合首選。\n- B. 錯誤。Pemetrexed + platinum 可用於無 driver mutation 或後線治療情境，但有 ALK 融合時應優先標靶治療。\n- C. 正確。Alectinib 是 ALK inhibitor，可用於 ALK 陽性轉移性 NSCLC，且顱內控制與耐受性表現佳。\n- D. 錯誤。Gefitinib 是 EGFR TKI，不作用於 ALK 融合主路徑。\n\n【核心考點】\n肺腺癌晚期先找 driver mutation。EGFR 用 osimertinib/gefitinib 類 EGFR TKI；ALK rearrangement 用 alectinib、brigatinib、lorlatinib 等 ALK TKI。",
+      "key_point": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "flashcard_summary": "ALK NSCLC -> first-line ALK inhibitor such as alectinib",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "flashcard_back": "ALK 融合陽性轉移性肺腺癌應優先 ALK TKI；選項中 alectinib 最合適。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_045",
@@ -958,15 +1190,20 @@
         "D": "IL-17 主要由Th1 cell 產生"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問氣喘 type 2 與 non-type 2 inflammation 何者最不適當。IL-17 主要由 Th17 細胞產生，不是 Th1 細胞，因此 D 錯。\n\n【選項詳解】\n- A. 不選。Type 2 inflammation 以 eosinophil、IgE、IL-4、IL-5、IL-13 為代表，可對應嗜酸性氣喘與部分生物製劑標靶。\n- B. 不選。Non-type 2 inflammation 常偏 neutrophilic，涉及 IL-6、IL-8、IL-17 等路徑，對類固醇反應可能較差。\n- C. 不選。Th2 cell 是 IL-4、IL-5、IL-13 的重要來源，ILC2 也可參與。\n- D. 應選。IL-17 主要由 Th17 cell 產生；Th1 代表性細胞激素是 IFN-gamma。\n\n【核心考點】\n氣喘發炎分型要記 Th2/ILC2 對 IL-4/5/13，Th17 對 IL-17。IL-17 不要誤配到 Th1。",
+      "key_point": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "flashcard_summary": "Asthma inflammation -> type 2 IL-4/5/13; non-type 2 Th17/IL-17",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "flashcard_back": "IL-17 主要由 Th17 細胞產生；Th1 的代表細胞激素是 IFN-gamma。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_046",
@@ -979,15 +1216,20 @@
         "D": "依據GOLD 指引,治療原則以FEV1及FEV1/FVC 為主要考量"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問 COPD 治療何者最不適當。現代 GOLD 藥物治療主要依症狀負擔與急性惡化風險分組，FEV1 用於嚴重度與預後評估，但不是治療原則的主要唯一依據。\n\n【選項詳解】\n- A. 不選。症狀重且急性惡化風險高者，初始 LABA+LAMA 是合理選項，可改善症狀與降低惡化。\n- B. 不選。較低症狀或較低惡化風險者，可從 LABA 或 LAMA 單一長效支氣管擴張劑開始。\n- C. 不選。LABA+LAMA 後仍反覆惡化時，血中 eosinophil 可幫助判斷 ICS 加入效益；eosinophil >=100 cells/μL 時可考慮升級三合一。\n- D. 應選。FEV1/FVC 用於診斷氣流阻塞，FEV1 可分級，但 GOLD 治療決策重點已轉向症狀、急性惡化史與 eosinophil 等。\n\n【核心考點】\nCOPD 治療不再只看 FEV1。藥物選擇要看症狀、急性惡化風險與 eosinophil；LABA/LAMA 是重要基礎，ICS 依惡化與嗜酸性球考慮。",
+      "key_point": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "flashcard_summary": "COPD GOLD -> symptoms/exacerbations/eosinophils guide treatment; not FEV1 alone",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "flashcard_back": "COPD 藥物治療主要依症狀、急性惡化風險與 eosinophil，不是以 FEV1/FEV1-FVC 為主要考量。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_047",
@@ -1000,15 +1242,20 @@
         "D": "serum Mycoplasma pneumoniae IgG titer"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問 CAP 致病原檢查何者特異性最高。尿中 Legionella antigen 對 Legionella pneumophila serogroup 1 具有高特異性，陽性對診斷很有幫助。\n\n【選項詳解】\n- A. 錯誤。Sputum Gram stain 受檢體品質、口腔污染與判讀影響，特異性不如抗原檢測穩定。\n- B. 錯誤。Procalcitonin 可輔助判斷細菌感染與抗生素決策，但不是特定病原診斷，特異性不足。\n- C. 正確。Urine Legionella antigen test 對特定 Legionella 感染具高特異性，尤其重症 CAP 或流行病學線索時有價值。\n- D. 錯誤。單次 Mycoplasma IgG 可能反映過去感染，需急性/恢復期抗體變化或其他檢測才較能支持急性感染。\n\n【核心考點】\nCAP 病原檢查要分「是否特定病原」。尿中 Legionella antigen 陽性比 PCT 或單次 IgG 更能指向特定致病菌。",
+      "key_point": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "flashcard_summary": "CAP etiologic diagnosis -> urine Legionella antigen high specificity",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "flashcard_back": "尿中 Legionella antigen test 對特定 Legionella 感染具高特異性。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_048",
@@ -1021,15 +1268,20 @@
         "D": "tuberculous pericarditis"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問肺外結核何者最常見。結核性淋巴結炎是最常見的肺外結核表現之一，常見頸部淋巴結腫大。\n\n【選項詳解】\n- A. 錯誤。結核性腦膜炎嚴重且需及早治療，但不是最常見肺外結核。\n- B. 錯誤。泌尿生殖系統結核可見於肺外結核，但發生率通常低於淋巴結結核。\n- C. 正確。Tuberculous lymphadenitis 是肺外結核常見型態，尤其頸部淋巴結。\n- D. 錯誤。結核性心包膜炎重要且可能造成 constrictive pericarditis，但不是最常見。\n\n【核心考點】\n肺外結核最常考淋巴結，最嚴重或最不能漏的是腦膜炎與心包膜炎等。常見度與嚴重度要分開。",
+      "key_point": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "flashcard_summary": "Extrapulmonary TB -> lymphadenitis most common",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "flashcard_back": "肺外結核最常見型態之一是結核性淋巴結炎。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_049",
@@ -1042,15 +1294,20 @@
         "D": "肋膜腔積液也可能發生在接受冠狀動脈繞道手術之後"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問肋膜積液診斷何者錯誤。肋膜液 amylase 升高要考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎，因此 A 錯。\n\n【選項詳解】\n- A. 應選。Amylase-rich pleural effusion 典型連到 pancreatitis/pancreaticopleural fistula、esophageal rupture 或 malignancy；膽道發炎不是主要鑑別。\n- B. 不選。發燒、PMN 為主的積液但肺實質無異常時，要考慮膈下或腹腔內感染造成反應性胸水。\n- C. 不選。藥物引起的肋膜積液可呈 eosinophilic pleural effusion，需回顧用藥史。\n- D. 不選。冠狀動脈繞道術後可出現肋膜積液，早期多與手術發炎或出血相關，晚期可為淋巴球性。\n\n【核心考點】\n肋膜液 amylase 高要想胰臟、食道破裂、惡性腫瘤。胸水診斷要把肺內病灶、腹腔病灶、藥物與術後狀態都納入。",
+      "key_point": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "flashcard_summary": "Pleural effusion -> high amylase suggests pancreatic disease/esophageal rupture/malignancy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "flashcard_back": "肋膜液 amylase 升高典型考慮胰臟疾病、食道破裂或惡性腫瘤，不是膽道發炎。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_050",
@@ -1063,15 +1320,20 @@
         "D": "病人的肺部腫瘤,小細胞肺癌的可能性高於鱗狀細胞癌"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n快速長大的肺部腫瘤合併嚴重低血鈉與意識不清，需考慮小細胞肺癌造成 SIADH。A 錯在低鈉矯正不能 24 小時內補回正常，過快會造成 osmotic demyelination。\n\n【選項詳解】\n- A. 應選。症狀性嚴重低鈉可用高張鹽水先安全提高少量血鈉，但 24 小時內補到正常太快；通常需限制每日矯正幅度。\n- B. 不選。低血鈉、正常鉀、肺部腫瘤與意識改變符合 SIADH 可能性，需檢查血/尿滲透壓與尿鈉。\n- C. 不選。SIADH 治療可包含限水；嚴重症狀時則需更積極但受控地使用高張鹽水。\n- D. 不選。小細胞肺癌生長快、常伴 paraneoplastic SIADH，比鱗狀細胞癌更符合此題線索。\n\n【核心考點】\n嚴重低鈉有症狀時要救急，但不能矯正過快。肺癌合併 SIADH 最常考小細胞肺癌。",
+      "key_point": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "flashcard_summary": "Hyponatremia -> avoid rapid correction; SCLC causes SIADH",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "flashcard_back": "症狀性低鈉不能 24 小時內補回正常；小細胞肺癌常造成 SIADH。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_051",
@@ -1084,15 +1346,20 @@
         "D": "sarcoidosis 在電腦斷層不會出現peribronchovascular thickening"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問 ILD 何者最適當。NSIP 在 HRCT 上以 ground-glass opacity 與 reticulation 較常見，honeycombing 比 UIP/IPF 少，因此 C 正確。\n\n【選項詳解】\n- A. 錯誤。Idiopathic pulmonary fibrosis 常有雙側肺底 inspiratory crackles，臨床描述像 Velcro crackles。\n- B. 錯誤。Respiratory bronchiolitis-associated ILD 與吸菸相關，通常較少有明顯杵狀指；杵狀指較常見於 IPF。\n- C. 正確。NSIP 的 honeycombing 較少，影像常見下肺野、對稱性 ground-glass 與細網狀陰影。\n- D. 錯誤。Sarcoidosis 影像常沿淋巴路徑分布，可見 peribronchovascular thickening 與肺門/縱隔淋巴結腫大。\n\n【核心考點】\nILD 影像要分 UIP/IPF 與 NSIP。IPF 常有 basal crackles 與 honeycombing；NSIP honeycombing 較少，sarcoidosis 可沿支氣管血管束分布。",
+      "key_point": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "flashcard_summary": "ILD patterns -> NSIP less honeycombing; IPF basal crackles; sarcoidosis peribronchovascular",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "flashcard_back": "NSIP 在 CT 上 honeycombing 較少；IPF 常有肺底 crackles，sarcoidosis 可有 peribronchovascular thickening。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_052",
@@ -1105,15 +1372,20 @@
         "D": "醛固酮和腎素活性(aldosterone/renin activity)之比值升高"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n原發性醛固酮增多症造成鈉水滯留、高血壓、鉀離子與氫離子排出增加，因此典型是低血鉀與代謝性鹼中毒。代謝性酸中毒不是特徵。\n\n【選項詳解】\n- A. 不選。Aldosterone 過多會增加遠端腎小管鈉重吸收與容量擴張，造成高血壓。\n- B. 不選。鉀離子排出增加可造成低血鉀，雖然部分病人血鉀可正常。\n- C. 應選。氫離子分泌增加會導致代謝性鹼中毒，不是代謝性酸中毒。\n- D. 不選。原發性醛固酮增多症的篩檢重點是 aldosterone-renin ratio 升高，因腎素被容量擴張抑制。\n\n【核心考點】\nPrimary aldosteronism 三聯想：高血壓、低血鉀、代謝性鹼中毒，加上 ARR 升高。",
+      "key_point": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "flashcard_summary": "Primary aldosteronism -> HTN, hypokalemia, metabolic alkalosis, high ARR",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "flashcard_back": "原發性醛固酮增多症典型為高血壓、低血鉀、代謝性鹼中毒與 ARR 升高。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_053",
@@ -1126,15 +1398,20 @@
         "D": "Verner-Morrison syndrome、水樣腹瀉、低血鉀和胃酸缺乏症是升糖素瘤的常見臨床表現"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n胰臟 NET 多數是無功能性，常因腫瘤量、壓迫或轉移才被發現。功能性 pancreatic NET 中常見者是 insulinoma，不是 glucagonoma。\n\n【選項詳解】\n- A. 正確。大部分 pancreatic NET 為 nonfunctional，沒有明顯荷爾蒙過量症候群。\n- B. 錯誤。最常見功能性胰臟 NET 通常是 insulinoma；glucagonoma 罕見，典型有 necrolytic migratory erythema、糖尿病與體重減輕。\n- C. 錯誤。Nonfunctional pancreatic NET 的處理要看大小、增長、分級、症狀與轉移風險，不是無論大小都只追蹤。\n- D. 錯誤。Verner-Morrison syndrome 是 VIPoma，表現為 watery diarrhea、hypokalemia、achlorhydria，不是 glucagonoma。\n\n【核心考點】\nPancreatic NET 多為 nonfunctional；功能性最常見 insulinoma。VIPoma 才是 WDHA/Verner-Morrison syndrome。",
+      "key_point": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "flashcard_summary": "Pancreatic NET -> mostly nonfunctional; insulinoma most common functional; VIPoma WDHA",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "flashcard_back": "大部分 pancreatic NET 無功能；最常見功能性腫瘤是 insulinoma，VIPoma 造成 WDHA。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_054",
@@ -1147,15 +1424,20 @@
         "D": "目前認為,糖尿病人的胰島素阻抗性主要是來自於胰島素受體的「受體後缺陷(\"postreceptor\"\n defect)」"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n第 2 型糖尿病的胰島素阻抗多與受體後訊號傳遞、肌肉與脂肪組織葡萄糖攝取異常、肝臟糖質新生增加相關。選項 D 符合常考機轉。\n\n【選項詳解】\n- A. 錯誤。第 2 型糖尿病常先有胰島素阻抗與代償性高胰島素血症，之後 beta cell 功能逐漸衰退；不是分泌不足通常先發生。\n- B. 錯誤。正常人胰島素敏感性增加時，為維持血糖，所需胰島素分泌應下降；兩者呈補償性的反向關係。\n- C. 錯誤。亞洲族群常被認為 beta cell 分泌儲備較不足、較低 BMI 也可能發病；西方族群肥胖與胰島素阻抗更顯著。\n- D. 正確。T2DM 的胰島素阻抗主要不是受體數量消失，而是受體後訊號與代謝路徑異常。\n\n【核心考點】\nT2DM 是胰島素阻抗加 beta cell 衰退。胰島素敏感性與分泌量正常會互相補償，阻抗多屬 postreceptor signaling defect。",
+      "key_point": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "flashcard_summary": "T2DM pathogenesis -> insulin resistance plus beta cell dysfunction; postreceptor defect",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "flashcard_back": "第 2 型糖尿病胰島素阻抗主要與受體後訊號缺陷有關，通常先有阻抗再逐漸 beta cell 衰退。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_055",
@@ -1168,15 +1450,20 @@
         "D": "最常見的成人疾病是葡萄糖-6-磷酸酶(glucose-6-phosphatase deficiency)缺乏症(GSD type I);最\n 常見的兒童疾病是肌磷酸化酶(myophosphorylase deficiency)缺乏症(GSD type V)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n肝醣儲積症是肝醣合成或分解酵素缺陷造成，肝醣可堆積在肝臟、肌肉、心臟等組織，結構可正常或異常。B 是最完整且正確的敘述。\n\n【選項詳解】\n- A. 錯誤。GSD 整體發生率常被估計約數萬分之一，選項數字過窄且不是最穩定正確敘述。\n- B. 正確。不同酵素缺陷會造成不同器官肝醣堆積，臨床可表現為低血糖、肝腫大、肌病、心肌病或運動不耐。\n- C. 錯誤。飲食治療很重要，但不能保證避免長期併發症；不同型別可能仍有肝腺瘤、腎病、心肌病或肌肉症狀。\n- D. 錯誤。GSD I 常在兒童表現為肝型低血糖，GSD V 是 McArdle disease 的肌肉型運動不耐；選項把「成人/兒童最常見」說得過度武斷。\n\n【核心考點】\nGSD 是酵素缺陷造成肝醣在特定組織堆積；型別不同，器官、肝醣結構與臨床表現都不同。",
+      "key_point": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "flashcard_summary": "Glycogen storage disease -> enzyme defects; organ-specific glycogen accumulation",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "flashcard_back": "肝醣儲積症會使肝醣堆積在肝、肌肉、心臟等組織，肝醣結構可正常或異常。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_056",
@@ -1189,15 +1476,20 @@
         "D": "早期診斷並接受肝臟移植是最有效的治療方式"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nWilson disease 是 ATP7B 變異造成銅排泄障礙，可影響肝臟、神經精神、眼睛、腎小管與內分泌。B 對腎小管與內分泌影響的描述正確。\n\n【選項詳解】\n- A. 錯誤。Wilson disease 常在兒童、青少年或年輕成人出現肝臟或神經精神症狀，不是肝臟症狀幾乎都大於 30 歲。\n- B. 正確。銅沉積可造成月經異常、青春期延遲等內分泌問題，也可造成近端腎小管功能障礙，出現胺基酸尿、磷尿、糖尿等 Fanconi-like 表現。\n- C. 錯誤。ATP7B 影響的是銅離子運輸與膽汁排泄，不是鋁離子。\n- D. 錯誤。早期治療以螯合劑或鋅鹽為主；肝臟移植保留給猛爆性肝衰竭或失代償嚴重肝病。\n\n【核心考點】\nWilson disease 是 copper metabolism disorder：ATP7B、低 ceruloplasmin、Kayser-Fleischer ring、肝與神經精神症狀。治療先想 chelation/zinc，嚴重肝衰竭才移植。",
+      "key_point": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "flashcard_summary": "Wilson disease -> ATP7B copper transport; chelation/zinc; transplant for severe liver failure",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "flashcard_back": "Wilson disease 是 ATP7B 銅代謝異常，可影響肝、神經精神、腎小管與內分泌系統。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_057",
@@ -1210,15 +1502,20 @@
         "D": "研究顯示,每天800 IU 的維生素E 可以改善脂肪肝,且完全沒有任何不良反應"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nMASH 是 MASLD 中有脂肪性肝炎與肝細胞傷害的亞型。影像可看脂肪肝，抽血可評估風險，但目前不能單靠腹部影像或特定抽血檢測確診 MASH，B 正確。\n\n【選項詳解】\n- A. 錯誤。MASLD 中 MASH 比例依族群、診斷方法與代謝風險不同而變動，直接說成人約 40% 過於固定。\n- B. 正確。影像可偵測脂肪變性但不能可靠區分脂肪肝與脂肪性肝炎；MASH 確診仍以組織學為參考標準，非侵入性檢測多用於風險分層。\n- C. 錯誤。MASLD 治療核心是減重、運動、控制代謝風險與纖維化風險分層，不是所有病人都需要藥物。\n- D. 錯誤。Vitamin E 800 IU 在特定非糖尿病、非肝硬化 MASH 病人可考慮，但有出血性中風等潛在風險討論，不能說完全沒有不良反應。\n\n【核心考點】\nMASLD/MASH 要分脂肪變性、脂肪性肝炎與纖維化風險。影像和抽血多用於篩檢或分層，MASH 不能靠單一抽血或一般影像確診。",
+      "key_point": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "flashcard_summary": "MASLD/MASH -> imaging detects steatosis, not definitive MASH; lifestyle first",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "flashcard_back": "MASH 不能靠一般腹部影像或單一抽血檢測確診；非侵入性工具多用於風險分層。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_058",
@@ -1231,15 +1528,20 @@
         "D": "35"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nBMI 計算公式是體重公斤除以身高公尺平方。45 kg / (1.5 m)^2 = 45 / 2.25 = 20，因此答案是 A。\n\n【選項詳解】\n- A. 正確。150 公分等於 1.5 公尺，平方是 2.25；45 除以 2.25 等於 20。\n- B. 錯誤。BMI 25 對應此身高約 56.25 kg，不符合題目體重。\n- C. 錯誤。BMI 30 對應此身高約 67.5 kg，遠高於 45 kg。\n- D. 錯誤。BMI 35 對應此身高約 78.75 kg，與題幹不符。\n\n【核心考點】\nBMI = kg / m2。考場先把公分換成公尺，再平方，不要直接用 150 代入。",
+      "key_point": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "flashcard_summary": "BMI calculation -> kg divided by meters squared",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "flashcard_back": "BMI = 體重 kg / 身高 m2；45/(1.5)^2 = 20。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_059",
@@ -1252,15 +1554,20 @@
         "D": "沙門氏菌(Salmonella spp.)感染的潛伏期較長可達12~72 小時,有明顯的發燒和腹瀉症狀"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問感染性胃腸炎與食物中毒何者最不適當。Clostridium perfringens 食物中毒多為腹痛與水瀉，嘔吐、發燒通常不明顯，因此 B 錯。\n\n【選項詳解】\n- A. 不選。EHEC 可造成出血性腹瀉，治療以支持療法為主，抗生素可能增加 HUS 風險。\n- B. 應選。C. perfringens 潛伏期常約 6-24 小時，主要是腹部絞痛與水瀉；最常見不是嘔吐與發燒。\n- C. 不選。Staphylococcus aureus 預形成毒素造成短潛伏期噁心、嘔吐、腹瀉，常在食用污染食物後數小時發作。\n- D. 不選。非傷寒沙門氏菌潛伏期較長，常有發燒、腹痛與腹瀉，與受污染蛋肉製品相關。\n\n【核心考點】\n食物中毒時間軸很重要：S. aureus 短潛伏期嘔吐，C. perfringens 較偏腹痛水瀉，EHEC 出血性腹瀉避免不當抗生素。",
+      "key_point": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "flashcard_summary": "Food poisoning -> S. aureus vomiting rapid; C. perfringens diarrhea/cramps; EHEC avoid antibiotics",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "flashcard_back": "C. perfringens 食物中毒主要是腹痛與水瀉，不是以嘔吐和發燒為最常見。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_060",
@@ -1273,15 +1580,20 @@
         "D": "弓蟲腦炎(Toxoplasma encephalitis)—clindamycin+pyrimethamine"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問疾病與治療藥物配對何者最不適當。Strongyloides hyperinfection 的治療首選是 ivermectin，不是 praziquantel。\n\n【選項詳解】\n- A. 不選。Pneumocystis jirovecii pneumonia 首選 trimethoprim-sulfamethoxazole，嚴重低氧時加類固醇。\n- B. 不選。Enterobiasis 可用 mebendazole、albendazole 或 pyrantel pamoate，並需處理家人與再感染。\n- C. 應選。Strongyloides hyperinfection 可危及生命，尤其免疫抑制者；治療用 ivermectin，praziquantel 主要用於吸蟲、絛蟲等。\n- D. 不選。Toxoplasma encephalitis 標準常用 pyrimethamine 加 sulfadiazine；clindamycin 可作替代組合的一部分，與 pyrimethamine 併用是可接受選項。\n\n【核心考點】\n寄生蟲用藥要精準：Strongyloides 用 ivermectin，Enterobius 用 albendazole/mebendazole，PJP 用 TMP-SMX。",
+      "key_point": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "flashcard_summary": "Antiparasitic pairs -> Strongyloides ivermectin; Enterobius albendazole/mebendazole",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "flashcard_back": "Strongyloides hyperinfection 應用 ivermectin，praziquantel 不是適當治療。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_061",
@@ -1294,15 +1606,20 @@
         "D": "teicoplanin"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nMRSA 對 beta-lactam 類多具抗藥性，carbapenem 如 imipenem-cilastatin 不能可靠治療 MRSA。Linezolid、vancomycin、teicoplanin 則可用於 MRSA 場景。\n\n【選項詳解】\n- A. 不選。Linezolid 對 MRSA 有活性，尤其可用於某些肺炎或皮膚軟組織感染情境。\n- B. 不選。Vancomycin 是 MRSA 嚴重感染的經典治療選項之一，需監測腎毒性與血中濃度策略。\n- C. 應選。Imipenem-cilastatin 雖為廣效 carbapenem，但 MRSA 的 altered PBP 使其對多數 beta-lactam 無效。\n- D. 不選。Teicoplanin 是 glycopeptide，對 MRSA 有活性，某些地區可用於治療。\n\n【核心考點】\nMRSA 治療不要被「廣效」二字騙到。Carbapenem 很廣，但不能可靠涵蓋 MRSA；常用 MRSA 藥物包括 vancomycin、linezolid、daptomycin 等。",
+      "key_point": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "flashcard_summary": "MRSA treatment -> avoid carbapenem; use anti-MRSA agents",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "flashcard_back": "Imipenem-cilastatin 不能可靠治療 MRSA；MRSA 常用 vancomycin、linezolid、teicoplanin 等。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_062",
@@ -1315,15 +1632,20 @@
         "D": "治療藥物除fluconazole 外,亦可選用voriconazole"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n糖尿病控制差、鼻腔黑色壞死、broad ribbon-like nonseptate hyphae 是鼻腦型 mucormycosis。治療除 amphotericin B 類藥物外，外科清創極重要。\n\n【選項詳解】\n- A. 錯誤。Aspergillus 典型是 septate hyphae 且 acute angle branching，不是寬大無隔菌絲。\n- B. 錯誤。Mucormycosis 第一線不是 echinocandin；常用 liposomal amphotericin B，之後可考慮 posaconazole/isavuconazole。\n- C. 正確。壞死組織血流差，單靠藥物難以進入，需積極外科清創並控制糖尿病/酮酸中毒等危險因子。\n- D. 錯誤。Fluconazole 對黴菌活性不足，voriconazole 也不涵蓋 mucorales，不能作為此病第一線。\n\n【核心考點】\nMucormycosis 線索是糖尿病、黑色壞死、寬大無隔菌絲。治療是 amphotericin B 加外科清創與校正免疫/代謝問題。",
+      "key_point": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "flashcard_summary": "Mucormycosis -> broad nonseptate hyphae, black necrosis, amphotericin B plus debridement",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "flashcard_back": "鼻腦型 mucormycosis 治療需抗黴菌藥物加積極外科清創。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_063",
@@ -1336,15 +1658,20 @@
         "D": "人類乳突瘤病毒(Human papillomavirus)疫苗"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n脾臟切除後最怕莢膜菌感染，疫苗重點是肺炎鏈球菌、流感嗜血桿菌 b 型與腦膜炎雙球菌。HPV 疫苗與無脾症感染風險沒有直接關聯。\n\n【選項詳解】\n- A. 不選。肺炎鏈球菌是無脾症病人 overwhelming postsplenectomy infection 的重要病原，需接種相應疫苗。\n- B. 不選。Hib 屬莢膜菌，脾臟功能缺損者需補足相關疫苗。\n- C. 不選。腦膜炎雙球菌也是莢膜菌，無脾症或補體缺陷者風險上升。\n- D. 應選。HPV 疫苗用於預防 HPV 相關癌前病變與癌症，與脾切除後莢膜菌感染預防最沒有相關。\n\n【核心考點】\nAsplenia 疫苗先記 encapsulated organisms：pneumococcus、Hib、meningococcus。HPV 重要但不是脾切除特異需求。",
+      "key_point": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "flashcard_summary": "Asplenia vaccines -> pneumococcal, Hib, meningococcal",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "flashcard_back": "脾切除後疫苗重點是肺炎鏈球菌、Hib 與腦膜炎雙球菌；HPV 與此風險最無關。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_064",
@@ -1357,15 +1684,20 @@
         "D": "單純肺外結核的患者基本上不具有傳染力"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問結核病何者最不適當。痰 AFS 陰性代表傳染性較低，但不能保證沒有傳染力；培養或 NAAT 仍可能陽性，也可能因採檢或菌量因素偽陰性。\n\n【選項詳解】\n- A. 不選。肺結核透過飛沫核 airborne 傳播，可在空氣中懸浮，故需要適當空氣傳染防護。\n- B. 不選。是否感染受暴露時間、空間通風、菌量、宿主免疫與防護措施影響。\n- C. 應選。AFS 陰性降低傳染機率，但未治療肺結核仍可能傳播；不能說沒有防護接觸就不會被傳染。\n- D. 不選。單純肺外結核若沒有肺部或喉部病灶，通常不具明顯傳染力。\n\n【核心考點】\nAFS negative 不等於 transmission impossible。判斷 TB 傳染力要看肺/喉病灶、咳嗽、菌量、培養/NAAT 與治療狀態。",
+      "key_point": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "flashcard_summary": "TB transmission -> droplet nuclei; AFS-negative does not rule out infectiousness",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "flashcard_back": "痰 AFS 陰性只代表傳染性較低，不能保證不會傳染。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_065",
@@ -1378,15 +1710,20 @@
         "D": "被咬傷之病人,若5 年內曾接受過破傷風疫苗注射,可以不用追加注射"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問動物咬傷處置何者最不適當。貓咬傷常是深部穿刺傷，感染率通常比狗咬傷高，且手足穿刺傷通常避免第一時間直接縫合。\n\n【選項詳解】\n- A. 應選。貓咬傷因尖牙造成深穿刺，Pasteurella 等感染風險高，不應說感染率較低且盡量立即縫合。\n- B. 不選。臉部血流好且美容需求高，充分沖洗清創後可考慮一期縫合，並評估抗生素。\n- C. 不選。四肢咬傷、延遲處理、深穿刺、手部傷口或免疫不全者，常需考慮預防性抗生素。\n- D. 不選。若 5 年內已接種破傷風疫苗且傷口風險評估允許，通常可不追加；但仍需依傷口污染程度與免疫史判斷。\n\n【核心考點】\n咬傷處置先大量沖洗、清創、評估感染與破傷風/狂犬病風險。貓咬傷感染風險高，尤其手部穿刺傷不宜輕易縫合。",
+      "key_point": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "flashcard_summary": "Bite wound care -> cat bites high infection risk; facial wounds may be closed after cleaning",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "flashcard_back": "貓咬傷常為深穿刺且感染率高，不宜說感染率低並立即縫合。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_066",
@@ -1399,15 +1736,20 @@
         "D": "夜間多尿可能為藥物所引起,如:利尿劑(diuretics)、乙型阻斷劑(beta-blockers)等,也可能為攝取\n 過多水分、咖啡因或酒精引起"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問老年尿失禁何者最適當。夜間多尿可由藥物、睡前飲水、咖啡因、酒精、睡眠呼吸中止或心腎疾病造成，D 描述合理。\n\n【選項詳解】\n- A. 錯誤。局部雌激素可改善泌尿生殖症候群相關症狀，但不是所有老年婦女尿失禁的第一線首選。\n- B. 錯誤。Mirabegron 無抗膽鹼副作用是優點，但使用前仍要評估血壓、尿滯留風險與膀胱餘尿等安全性。\n- C. 錯誤。生產造成膀胱頸與尿道過度活動較典型造成壓力型尿失禁，不是急迫型尿失禁主要原因。\n- D. 正確。夜間多尿可能受利尿劑、部分藥物、攝水、咖啡因、酒精與系統性疾病影響，處置需先找可逆因素。\n\n【核心考點】\n尿失禁先分壓力型、急迫型、溢流型與功能型。老年夜尿或夜間多尿要回顧藥物、液體攝取與心腎睡眠共病。",
+      "key_point": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "flashcard_summary": "Geriatric incontinence -> nocturnal polyuria causes include drugs, fluids, caffeine/alcohol",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "flashcard_back": "夜間多尿可由利尿劑、咖啡因、酒精、攝水過多或共病造成，需先找可逆因素。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_067",
@@ -1420,15 +1762,20 @@
         "D": "總能誠實並間接性的提醒我(is always honest and indirect to remind me)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問家庭醫業中何者不是病人的期待。病人期待醫師真誠傾聽、了解自己、能處理多面向問題，也期待誠實且直接的提醒；「間接性提醒」不符合原研究常見表述。\n\n【選項詳解】\n- A. 不選。真誠傾聽是以病人為中心照護的重要期待，能增加信任與滿意度。\n- B. 不選。家庭醫學強調連續性與全人照護，病人期待醫師嘗試了解自己的生活脈絡。\n- C. 不選。病人常期待家庭醫師能處理或協調多種健康問題，即使不是每個問題都由單一醫師完全解決。\n- D. 應選。常見期待是 honest and direct；選項寫成 honest and indirect，與有效溝通中的清楚、直接提醒相反。\n\n【核心考點】\n家庭醫學醫病關係重視傾聽、了解個人脈絡、可近性與誠實直接溝通。題目陷阱在 indirect 這個字。",
+      "key_point": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "flashcard_summary": "Family medicine expectations -> listens, knows me, helps with problems, honest/direct",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "flashcard_back": "病人期待家庭醫師誠實且直接溝通；honest and indirect 不是典型期待。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_068",
@@ -1441,15 +1788,20 @@
         "D": "大部分的老人跌倒都是碰撞到物品或人造成,而不是滑倒或絆倒"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問老人跌倒評估與預防何者最適當。太極包含平衡、姿勢控制與下肢肌力訓練，對降低跌倒風險有證據支持，因此 B 正確。\n\n【選項詳解】\n- A. 錯誤。台灣老年人跌倒比例並非小於 10% 這麼低，常見調查約每數位長者就有一位曾跌倒。\n- B. 正確。太極訓練能改善平衡、步態控制與肌力，是老人防跌運動處方中常被提到的選項。\n- C. 錯誤。USPSTF 不建議所有社區老人例行補充 vitamin D 來預防跌倒；補充需看缺乏、營養與個別風險。\n- D. 錯誤。老人跌倒常與滑倒、絆倒、步態平衡、藥物與環境危險有關，不是大部分都由碰撞人或物造成。\n\n【核心考點】\n防跌最有效的核心是運動，尤其平衡與肌力訓練。Vitamin D 不是所有老人一律用，需依缺乏與個別情境判斷。",
+      "key_point": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "flashcard_summary": "Falls prevention -> balance/strength exercise such as Tai Chi; vitamin D not universal",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "flashcard_back": "太極可改善肌力與平衡，有助老人跌倒預防；不建議所有老人一律用 vitamin D 防跌。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_069",
@@ -1462,15 +1814,20 @@
         "D": "抗壁細胞抗體(anti-parietal cell antibody)陽性病人,宜每日口服維生素B12 1,000 mcg 以有效改善症\n 狀"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nVitamin B12 缺乏會使 methylmalonic acid 與 homocysteine 上升；補充後 homocysteine 可下降。C 是最適當敘述。\n\n【選項詳解】\n- A. 錯誤。Vitamin B12 與 intrinsic factor 結合後主要在末端迴腸吸收，不是十二指腸。\n- B. 錯誤。血清 B12 常作初篩，但灰區時需 MMA、homocysteine 與臨床脈絡，不能說血清 B12 濃度正確率最高。\n- C. 正確。B12 補充後，因一碳代謝恢復，homocysteine 通常會下降；MMA 也可作治療反應參考。\n- D. 錯誤。抗壁細胞抗體陽性支持惡性貧血可能，治療可用高劑量口服或肌肉注射，但「宜每日口服即有效改善」過度簡化，且需評估吸收與神經症狀嚴重度。\n\n【核心考點】\nB12 吸收在末端迴腸，缺乏會使 MMA 與 homocysteine 上升。血清 B12 不是唯一判斷，治療途徑要看病因與嚴重度。",
+      "key_point": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "flashcard_summary": "B12 deficiency -> terminal ileum absorption; MMA/homocysteine elevated",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "flashcard_back": "Vitamin B12 在末端迴腸吸收；缺乏時 MMA 與 homocysteine 上升，補充後 homocysteine 下降。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_070",
@@ -1483,15 +1840,20 @@
         "D": "病人主導式面談(consumerism interviewing)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問何種面談方式對健康行為最有正面影響。動機式晤談透過同理、探索矛盾、支持自我效能與共同設定目標，能促進行為改變。\n\n【選項詳解】\n- A. 錯誤。父權式面談由醫師單向決定，可能降低病人自主與改變動機。\n- B. 錯誤。默認式面談缺乏主動探索與個別化，不利於處理行為改變的阻抗。\n- C. 正確。Motivational interviewing 用開放式提問、肯定、反映與摘要，引導病人說出改變理由。\n- D. 錯誤。病人主導式面談重視自主，但若缺乏專業引導，對具體健康行為改變的效果不如動機式晤談穩定。\n\n【核心考點】\n健康行為改變最常考 motivational interviewing。關鍵不是說教，而是引出病人的改變動機與可行計畫。",
+      "key_point": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "flashcard_summary": "Behavior change -> motivational interviewing",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "flashcard_back": "動機式晤談最能促進健康行為改變，核心是同理、探索矛盾與支持自我效能。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_071",
@@ -1504,15 +1866,20 @@
         "D": "收入程度越低(如:中低收入戶、低收入戶),給付額度越多"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問長照 2.0 失能評估與給付制度何者正確。SOF 是常用衰弱篩檢工具之一，可用於評估衰弱程度；其他選項把單位角色、服務型態與給付概念寫錯。\n\n【選項詳解】\n- A. 錯誤。長照等級評估後會由個案管理員擬定照顧計畫，但 C 單位不是負責共同擬定個別照顧計畫的主體；題目把角色寫錯。\n- B. 錯誤。長照服務不只居家式與機構住宿式兩種，還包含日間照顧、家庭托顧、交通、輔具、喘息等多元服務。\n- C. 正確。SOF frailty index 可用體重減輕、起立能力、精力等簡項評估衰弱，是衰弱評估工具之一。\n- D. 錯誤。低收入或中低收入身分主要影響政府補助與自付比例，不是單純收入越低就給付額度越多。\n\n【核心考點】\n長照題要分清「失能等級給付額度」與「依經濟身分調整部分負擔」。SOF 是衰弱篩檢工具；C 單位不是照顧計畫核心個管角色。",
+      "key_point": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "flashcard_summary": "Long-term care 2.0 -> SOF frailty; benefits differ from copayment status",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "flashcard_back": "SOF 可用於衰弱評估；長照給付額度與經濟身分自付比例是不同概念。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_072",
@@ -1525,15 +1892,20 @@
         "D": "1,000"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n相對風險 RR = 介入組事件率 / 對照組事件率。HRT 組 38/10,000，對照組 28/10,000，因此 RR = 38/28 = 1.357。\n\n【選項詳解】\n- A. 錯誤。1/1,000 是絕對差異 10/10,000 的另一種表達，不是 relative risk。\n- B. 錯誤。0.737 是 28/38，分子分母倒置，代表把對照組除以介入組。\n- C. 正確。38 除以 28 約為 1.357，表示 HRT 組 CHD 風險約為對照組 1.36 倍。\n- D. 錯誤。1,000 不是由兩組事件率相除得到的值，數量級完全不合理。\n\n【核心考點】\nRR 永遠是暴露/介入組風險除以對照組風險。先確認分子分母，絕對風險差不要和相對風險混在一起。",
+      "key_point": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "flashcard_summary": "Relative risk -> exposed/intervention risk divided by control risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "flashcard_back": "相對風險 RR = 介入組風險 / 對照組風險 = 38/28 = 1.357。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_073",
@@ -1546,15 +1918,20 @@
         "D": "安寧團隊提供病人及家屬的照顧,尤其是對家屬的悲傷撫慰,可以提供至1 年"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問安寧療護何者錯誤。安寧療護常以末期或預期存活有限病人為對象，但不是僅限存活期小於或等於 12 個月；A 的時間門檻過於僵硬。\n\n【選項詳解】\n- A. 應選。安寧療護的適用重點是末期疾病、症狀負擔與照護目標，不宜用「主要提供給 <=12 個月」作為固定定義。\n- B. 不選。臨床上安寧常被太晚照會，病人接受服務時間偏短是常見問題。\n- C. 不選。協助病人依意願返家或在熟悉環境善終，是安寧療護的重要目標之一。\n- D. 不選。安寧團隊照顧包含病人與家屬，喪親悲傷支持可延伸至病人過世後一段時間，常見說法可達一年。\n\n【核心考點】\n安寧療護不是放棄治療，而是以舒適、尊嚴、症狀控制與家屬支持為核心。不要把適用對象死板限縮成單一月份。",
+      "key_point": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "flashcard_summary": "Hospice/palliative care -> comfort, goals, family support; avoid rigid 12-month definition",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "flashcard_back": "安寧療護重點是末期照護需求與症狀/家庭支持，不宜僵硬定義為存活期 <=12 個月。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_074",
@@ -1567,15 +1944,20 @@
         "D": "後腹腔膿瘍(abscess)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性胰臟炎晚期局部併發症包括胰臟假性囊腫、胰管狹窄或阻塞、感染性壞死或膿瘍。膽結石常是急性胰臟炎原因，不是晚期併發症，因此 A 最不常見。\n\n【選項詳解】\n- A. 應選。膽結石可阻塞壺腹引發胰臟炎，但通常不是胰臟炎本身的晚期併發症。\n- B. 不選。發炎、纖維化或假性囊腫壓迫可造成胰管阻塞或狹窄。\n- C. 不選。胰臟假性囊腫是急性胰臟炎數週後的典型晚期局部併發症。\n- D. 不選。感染性壞死或後腹腔膿瘍可在病程後期發生，屬嚴重併發症。\n\n【核心考點】\n膽結石常是 pancreatitis 的原因，不是典型晚期結果。晚期併發症要記 pseudocyst、duct obstruction、infected necrosis/abscess。",
+      "key_point": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "flashcard_summary": "Acute pancreatitis -> gallstone cause; late complications pseudocyst/duct obstruction/abscess",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "flashcard_back": "膽結石常是急性胰臟炎原因，不是典型晚期併發症。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_075",
@@ -1588,15 +1970,20 @@
         "D": "左迴旋冠狀動脈(left circumflex artery)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題是心臟 CT 辨認冠狀動脈。官方答案為左前降支冠狀動脈，通常位於前室間溝，走向心尖，供應左心室前壁與心室中隔前部。\n\n【選項詳解】\n- A. 錯誤。右冠狀動脈多行走在右房室溝，供應右心室與多數人的下壁/房室結，不是前室間溝走向。\n- B. 錯誤。左主冠狀動脈是左冠脈起始短幹，之後分成 LAD 與 LCx；箭頭若指向沿前室間溝下行血管，已不是左主幹。\n- C. 正確。LAD 沿 anterior interventricular groove 走向心尖，是前壁心肌梗塞常見 culprit vessel。\n- D. 錯誤。左迴旋支多行走於左房室溝，繞向側壁/後外側，不是前室間溝下行血管。\n\n【核心考點】\n冠脈影像定位：LAD 在前室間溝往心尖，LCx 在左房室溝繞行，RCA 在右房室溝。",
+      "key_point": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "flashcard_summary": "Coronary anatomy -> LAD anterior interventricular groove to apex",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "flashcard_back": "左前降支冠狀動脈沿前室間溝走向心尖，供應前壁與前中隔。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_076",
@@ -1609,15 +1996,20 @@
         "D": "低溫療法針對OHCA 或IHCA 病人都很重要,是此兩類所有病人恢復心跳後的標準治療"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問 2020 AHA CPR/ECC 下 OHCA 與 IHCA 比較何者正確。台灣高級救護技術員可依規範執行較進階處置，中級救護技術員可使用 AED，C 是正確敘述。\n\n【選項詳解】\n- A. 錯誤。整體而言 OHCA 到院前延遲與旁觀者 CPR/AED 不確定性較高，存活率通常不會高於 IHCA。\n- B. 錯誤。成人 CPR 強調 C-A-B，但新生兒或特定小兒情境仍重視通氣；「所有 OHCA 病人」一律先壓再吹過度絕對。\n- C. 正確。台灣 EMT 分級下，高級救護技術員能在醫療指導與預立流程中執行給藥、進階呼吸道等處置；中級救護技術員可使用 AED。\n- D. 錯誤。溫度管理用於特定 ROSC 後昏迷病人以保護神經，不是所有 OHCA/IHCA 恢復心跳者的標準治療。\n\n【核心考點】\nCPR 題要避免「所有」這種絕對字眼。成人 OHCA 基本流程重視高品質胸外按壓與早期 AED；ROSC 後溫度管理需看意識與適應症。",
+      "key_point": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "flashcard_summary": "CPR/ECC -> EMT scope by level; TTM for selected comatose ROSC patients",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "flashcard_back": "台灣 EMT 分級下，進階處置能力依級別不同；ROSC 後溫度管理不是所有病人一律使用。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_077",
@@ -1630,15 +2022,20 @@
         "D": "正常體容積(euvolemia)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nSIADH 是低張性低血鈉、臨床正常體容積、尿液不適當濃縮與尿鈉偏高。B 說尿滲透壓通常小於 100，方向相反；SIADH 應是尿滲透壓大於 100。\n\n【選項詳解】\n- A. 不選。SIADH 屬低張性低血鈉，血漿滲透壓通常 <275 mOsm/kg。\n- B. 應選。若 ADH 被適當抑制，尿液才會很稀、尿滲透壓 <100；SIADH 因 ADH 不適當作用，尿滲透壓通常 >100。\n- C. 不選。SIADH 病人尿鈉常 >20-30 mEq/L，反映正常體容積下仍排鈉。\n- D. 不選。Euvolemia 是 SIADH 診斷要件之一，需排除心衰竭、肝硬化、腎衰竭與低血容量。\n\n【核心考點】\nSIADH 診斷：低血漿滲透壓、尿滲透壓 >100、尿鈉偏高、臨床 euvolemia，並排除甲狀腺與腎上腺問題。",
+      "key_point": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "flashcard_summary": "SIADH -> hypotonic hyponatremia, urine osm >100, urine Na high, euvolemia",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "flashcard_back": "SIADH 的尿滲透壓是不適當偏高，通常 >100 mOsm/kg，不是 <100。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_078",
@@ -1651,15 +2048,20 @@
         "D": "頭暈(dizziness/light-headedness)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性高山症診斷需要近期上升到高海拔後出現頭痛，並合併其他症狀如噁心、疲倦、頭暈或睡眠障礙。頭痛是必要條件。\n\n【選項詳解】\n- A. 錯誤。噁心與嘔吐可支持急性高山症，但不是每個病例必備，也不能取代頭痛。\n- B. 錯誤。疲憊虛弱常見，但缺乏特異性，單獨不能作為必要條件。\n- C. 正確。頭痛是 Lake Louise 等診斷架構中的核心症狀，通常需有頭痛加其他症狀。\n- D. 錯誤。頭暈可出現，但不是必要條件，也可能來自脫水、低血糖或前庭問題。\n\n【核心考點】\n急性高山症要記「上高海拔後頭痛」加其他症狀。噁心、疲倦、頭暈是加分線索，不是必要核心。",
+      "key_point": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "flashcard_summary": "Acute mountain sickness -> headache required plus other symptoms after altitude gain",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "flashcard_back": "急性高山症診斷的必要症狀是高海拔暴露後頭痛。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_079",
@@ -1672,15 +2074,20 @@
         "D": "請護理師丙代為處理病人丁,並安撫家屬"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n值班醫師正在處理病情嚴重病人，又接到另一位突發腹痛病人需求。最適當作法是維持對危急病人的處理，同時啟動支援，請護理師聯絡二線醫師協助。\n\n【選項詳解】\n- A. 錯誤。未評估腹痛原因就先打生理食鹽水只是安撫家屬，可能延誤診斷，也不是護理師可替代醫師評估的作法。\n- B. 錯誤。直接放下正在處理的嚴重病人，可能危及乙病人安全；醫療優先順序需看緊急程度與可用支援。\n- C. 正確。請護理師聯絡二線醫師，可在不放棄目前危急處置的情況下，讓另一位病人獲得及時評估。\n- D. 錯誤。護理師可協助觀察與回報，但突發腹痛需醫師評估；單純請護理師代為處理與安撫不足。\n\n【核心考點】\n同時多重急症時，要做 triage 並啟動支援。不要為了新需求拋下正在處理的危急病人，也不要把需醫師評估的病況完全交給護理師。",
+      "key_point": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "flashcard_summary": "Duty triage -> continue critical care and call backup",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "flashcard_back": "多重急症時應維持危急處置並啟動二線支援，讓另一病人及時被評估。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     },
     {
       "id": "115-2_medicine-3_080",
@@ -1693,15 +2100,20 @@
         "D": "法院或健康保險署調閱病人就醫資料"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n守密有例外，例如重大他人傷害風險、疑似虐待通報或依法調閱。對非同住親友揭露 HIV 陽性結果通常沒有正當例外，仍應嚴守守密。\n\n【選項詳解】\n- A. 正確。HIV 檢驗結果屬高度敏感個資，非同住親友若無病人同意或法定例外，不應揭露。\n- B. 錯誤。精神科病人透露高度可信且具體的攻擊計畫時，可能啟動保護潛在受害者與通報/警示義務。\n- C. 錯誤。認知障礙年長者多處不明傷痕需懷疑老人虐待或照顧疏忽，依法與倫理上可能需要通報。\n- D. 錯誤。法院或健保署依法調閱時，醫師可在合法程序與最小必要範圍內提供資料，不是絕對守密。\n\n【核心考點】\n醫療守密原則很強，但有法定通報、保護第三人與合法調閱等例外。親友好奇或關心不等於可揭露病人敏感資訊。",
+      "key_point": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "flashcard_summary": "Confidentiality -> HIV privacy; exceptions for duty to protect, abuse reporting, legal requests",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_front": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "flashcard_back": "HIV 結果對非同住親友不可任意揭露；守密例外包括具體傷害風險、疑似虐待與合法調閱。",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T00:12:21+08:00",
+      "manual_review_notes": []
     }
   ]
 }
