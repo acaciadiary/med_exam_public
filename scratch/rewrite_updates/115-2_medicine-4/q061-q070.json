@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 61,
+    "end": 70
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_061",
+      "question_number": 61,
+      "explanation": "【題幹解析】\n關係妄想是病人相信外界中性事件、媒體內容或他人言行特別指向自己，帶有特殊訊息或意義。電視節目暗藏訊息要傳給自己，正是 delusion of reference，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。「我在想什麼他們都知道」較符合 thought broadcasting，認為自己的思想被他人得知。\n- B. 錯誤。「我有超能力要拯救世界」屬 grandiose delusion，重點是誇大能力或身分。\n- C. 錯誤。「我的行為被別人控制」屬 delusion of control 或 passivity phenomenon。\n- D. 正確。把電視節目解讀成特別傳遞給自己的訊息，是典型關係妄想。\n\n【核心考點】\nDelusion of reference 的關鍵是把外界普通事件錯誤解讀為與自己有特殊關聯；不要和思想廣播、誇大妄想、被控制妄想混淆。",
+      "key_point": "關係妄想是把外界中性訊息解讀成特別針對自己。",
+      "flashcard_front": "電視暗藏訊息給我，屬哪種妄想？",
+      "flashcard_back": "關係妄想（delusion of reference）。",
+      "flashcard_summary": "Delusion of reference -> neutral events carry special personal messages",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_062",
+      "question_number": 62,
+      "explanation": "【題幹解析】\nAASM 失眠藥物治療指引中，doxepin 可用於睡眠維持困難，suvorexant 用於睡眠維持型失眠，ramelteon 用於入睡困難；melatonin 則因證據不足，不是指引建議使用的成人慢性失眠藥物，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Melatonin 雖常被民眾使用，但 AASM 成人慢性失眠藥物指引並不建議將其作為治療失眠的建議用藥。\n- B. 錯誤。低劑量 doxepin 可改善 sleep maintenance insomnia，是指引列入可考慮的藥物。\n- C. 錯誤。Suvorexant 是 orexin receptor antagonist，指引建議可用於睡眠維持困難。\n- D. 錯誤。Ramelteon 是 melatonin receptor agonist，指引建議可用於入睡困難。\n\n【核心考點】\n考 AASM 失眠藥物時，melatonin 和 ramelteon 要分開：ramelteon 是建議藥物之一，melatonin 本身不是建議用藥。",
+      "key_point": "AASM 指引建議 ramelteon、doxepin、suvorexant 等，但不建議 melatonin 治療成人慢性失眠。",
+      "flashcard_front": "AASM 失眠藥物指引：melatonin 和 ramelteon 差異？",
+      "flashcard_back": "Ramelteon 是可建議用藥；melatonin 本身不建議作為成人慢性失眠治療。",
+      "flashcard_summary": "Insomnia meds -> melatonin not recommended; ramelteon/doxepin/suvorexant suggested",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n照會聯商精神醫學重視身體疾病與精神疾患的雙向影響。身體疾病患者自殺風險與憂鬱、疼痛、疾病嚴重度、功能喪失、物質使用、過去自殺史等相關；把女性、未滿 40 歲列為身體疾病患者自殺企圖的代表危險因子並不恰當，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。精神疾患會影響內科疾病遵從性、症狀負擔、住院天數與預後，是照會聯商精神醫學核心概念。\n- B. 錯誤。綜合醫院住院患者因急慢性病、壓力與功能受限，憂鬱疾患盛行率通常高於一般社區。\n- C. 錯誤。憂鬱症既會增加冠狀動脈疾病風險，也會使心血管疾病預後較差。\n- D. 正確。身體疾病患者的自殺風險評估更重視疾病負擔、憂鬱、疼痛、失能、物質使用與過去自殺行為；此選項列法過度簡化且方向不佳。\n\n【核心考點】\n照會聯商精神醫學要把身體疾病、精神症狀、治療遵從性與自殺風險放在同一個臨床脈絡評估。",
+      "key_point": "身體疾病患者自殺風險重點是憂鬱、疼痛、失能、疾病嚴重度與過去自殺史，不是單靠女性、年輕化概括。",
+      "flashcard_front": "照會聯商精神醫學重視什麼？",
+      "flashcard_back": "精神疾患與身體疾病的雙向影響，包括預後、遵從性、憂鬱與自殺風險。",
+      "flashcard_summary": "Consultation-liaison psychiatry -> bidirectional medical-psychiatric risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n焦慮症診斷仍以臨床症狀、病程、功能受損與排除物質/身體疾病為主。雖然研究可探討腦影像與神經迴路，左背外側前額葉不能作為臨床診斷焦慮症的影像生物標記，因此最不適當的是 D。\n\n【選項詳解】\n- A. 錯誤。廣泛性焦慮症、恐慌症等常見焦慮症具有一定家族聚集與遺傳脆弱性。\n- B. 錯誤。社交焦慮症可作為鑑別之一；流行病學上男女比例相近或女性略高，選項方向可接受。\n- C. 錯誤。SSRI 與 SNRI 是多種焦慮症的一線藥物選擇，常搭配心理治療。\n- D. 正確。焦慮症目前沒有可用單一腦影像區域作為臨床診斷 biomarker；診斷不能靠左背外側前額葉影像判定。\n\n【核心考點】\n焦慮症是臨床診斷，治療常用 CBT、SSRI/SNRI；腦影像研究不是日常診斷工具。",
+      "key_point": "焦慮症不能靠單一腦影像 biomarker 診斷；SSRI/SNRI 是常用一線藥物。",
+      "flashcard_front": "焦慮症診斷是否依賴腦影像 biomarker？",
+      "flashcard_back": "否。診斷以臨床症狀、病程與功能受損為主。",
+      "flashcard_summary": "Anxiety disorders -> clinical diagnosis; SSRI/SNRI first-line; no imaging biomarker",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_065",
+      "question_number": 65,
+      "explanation": "【題幹解析】\n鬱症發作可見於重鬱症與雙極情緒障礙，但雙極情緒障礙，尤其鬱期與混合特徵，常有相當高的自殺風險。把雙極鬱期與重鬱症鬱期的自殺風險簡化成相當，忽略雙極症風險差異，因此最不適當的是 B。\n\n【選項詳解】\n- A. 錯誤。許多患者在第一次被診斷重鬱症前已有一段時間的憂鬱症狀，早期辨識與介入可降低後續病程負擔。\n- B. 正確。雙極情緒障礙的自殺風險通常很高，不能簡單說與重鬱症鬱期相當；臨床需主動評估躁/輕躁史與自殺風險。\n- C. 錯誤。青少年憂鬱可表現為易怒、逃學、反社會行為或學業退步，不一定只表現悲傷。\n- D. 錯誤。傳統考點常記重鬱症患者有相當比例死於自殺，雖實際比例受研究族群影響，但方向上提醒需重視自殺風險。\n\n【核心考點】\n鬱症發作不等於只有單極憂鬱；遇到鬱期要問過去躁期/輕躁期，因雙極症治療與自殺風險評估不同。",
+      "key_point": "雙極情緒障礙鬱期自殺風險高，不能與重鬱症鬱期簡化為完全相當。",
+      "flashcard_front": "鬱症發作評估一定要問什麼？",
+      "flashcard_back": "過去是否有躁期或輕躁期，因雙極鬱期治療與自殺風險不同。",
+      "flashcard_summary": "Depressive episode -> screen for bipolarity and suicide risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n輕度認知障礙與失智症都可有認知下降，差別關鍵在日常生活功能是否明顯受損。若認知問題已造成獨立生活、工作、財務、用藥或基本活動明顯退化，才支持失智症，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。APOE4 是風險基因，不是區分 MCI 與失智症的基本診斷標準。\n- B. 錯誤。CSF beta-amyloid 可作為阿茲海默病相關生物標記，但不能取代功能狀態判斷。\n- C. 錯誤。腦影像生物標記有助病因判定或研究分層，但 MCI 與 dementia 的臨床分界仍看功能受損。\n- D. 正確。日常生活功能退化是從輕度認知障礙進入失智症診斷的核心差別。\n\n【核心考點】\nMCI 是認知下降但日常功能大致保留；dementia 是認知下降已造成獨立生活功能受損。",
+      "key_point": "MCI 與失智症的主要分界是日常生活功能是否明顯退化。",
+      "flashcard_front": "MCI 和 dementia 的 primary differentiation？",
+      "flashcard_back": "日常生活功能是否因認知下降而退化。",
+      "flashcard_summary": "MCI vs dementia -> functional decline defines dementia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n譫妄是急性、波動性注意力與意識障礙，失智症是慢性進行性認知退化。兩者可同時存在，且失智症本身是譫妄重要危險因子，因此說兩者不會併存最不適當，答案為 D。\n\n【選項詳解】\n- A. 錯誤。短時間觀察時，譫妄症狀常明顯起伏，白天夜晚可差異很大。\n- B. 錯誤。譫妄比一般失智症更常有視幻覺、錯覺與意識混亂。\n- C. 錯誤。注意力受損是譫妄核心診斷特徵，通常比失智症更突出。\n- D. 正確。失智症患者很容易在感染、藥物、脫水或住院壓力下發生譫妄，兩者可以併存。\n\n【核心考點】\nDelirium 急性波動、注意力差、意識改變；dementia 慢性退化。失智症患者可再疊加譫妄。",
+      "key_point": "譫妄與失智症可以併存；失智症是譫妄的重要危險因子。",
+      "flashcard_front": "Delirium 和 dementia 能不能同時存在？",
+      "flashcard_back": "可以。失智症患者常因感染、藥物或住院壓力發生譫妄。",
+      "flashcard_summary": "Delirium vs dementia -> acute fluctuating attention; can coexist",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n酒精誘發精神疾患需判斷症狀與飲酒、戒斷或長期使用的時間關係。以幻覺為主的酒精誘發精神病，在幻覺消退後多數病人的現實感可恢復，這是最適當敘述，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Alcohol-induced psychotic disorder 可有明顯幻覺；當酒精相關狀態改善、幻覺消失後，多數人的 reality testing 會恢復。\n- B. 錯誤。酒精誘發持續失憶疾患與長期飲酒、硫胺素缺乏及 Wernicke-Korsakoff spectrum 有關，並非通常很少發生於 35 歲後。\n- C. 錯誤。酒精誘發情感症狀常需先處理酒精使用與觀察戒酒後變化，不宜一見憂鬱就立即當作原發憂鬱症快速上抗憂鬱藥。\n- D. 錯誤。酒精相關焦慮與恐慌可見，但此選項用單一比例描述並非本題最穩固的正確敘述。\n\n【核心考點】\n酒精誘發精神症狀要看時間關係與戒酒後是否改善；先處理酒精使用，不要過早把症狀當成獨立原發精神疾患。",
+      "key_point": "酒精誘發精神病以幻覺為主時，幻覺消退後多數病人的現實感可恢復。",
+      "flashcard_front": "Alcohol-induced psychotic disorder 的現實感會如何？",
+      "flashcard_back": "症狀期可受影響；幻覺消退後多數 reality testing 會恢復。",
+      "flashcard_summary": "Alcohol-induced disorders -> symptoms tied to use/withdrawal; reality testing may recover",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n皮質失智較早影響語言、計算、失用、失認等高階皮質功能；皮質下失智則常見精神動作遲緩、執行功能下降、步態或動作變慢與憂鬱/淡漠。因此說皮質失智較容易出現憂鬱情緒最不恰當，答案為 C。\n\n【選項詳解】\n- A. 錯誤。失語症是皮質功能受損表現，皮質型失智早期較容易出現語言能力受損。\n- B. 錯誤。計算能力屬高階皮質功能，皮質型失智早期較可能受影響。\n- C. 正確。憂鬱、淡漠與精神動作遲緩更常被放在皮質下失智的特徵中，不是皮質失智較典型。\n- D. 錯誤。皮質下失智常有動作變慢，finger tapping test 較慢符合皮質下迴路受損。\n\n【核心考點】\nCortical dementia：aphasia、apraxia、agnosia、acalculia；subcortical dementia：slowness、executive dysfunction、depression/apathy。",
+      "key_point": "憂鬱、淡漠與動作遲緩較支持皮質下失智，不是皮質失智較典型。",
+      "flashcard_front": "皮質 vs 皮質下失智怎麼分？",
+      "flashcard_back": "皮質：語言/計算/失用失認；皮質下：動作慢、執行功能差、憂鬱淡漠。",
+      "flashcard_summary": "Cortical vs subcortical dementia -> aphasia/acalculia vs slowing/depression",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n2 歲幼兒已能有自我概念與簡單語言，常會以自己的名字稱呼自己或對名字有反應。較複雜的因果回答、一步一階下樓梯與成熟社交辨識並非本題最適合的 2 歲描述，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。一步一階交替下樓梯通常較晚成熟；2 歲幼兒多仍是兩腳同階或需扶助。\n- B. 錯誤。回答較抽象的因果問題需要更成熟語言與認知，較接近 3 歲以上能力。\n- C. 正確。2 歲幼兒通常可對自己的名字有反應，也可能用名字指稱自己，屬自我概念與語言發展里程碑。\n- D. 錯誤。2 歲已能區辨熟悉照顧者與陌生人；完全無法區分並不符合典型社交發展。\n\n【核心考點】\n2 歲發展重點是自我名稱、兩字短語、跑跳與簡單模仿；交替下樓梯與抽象因果回答通常較晚。",
+      "key_point": "2 歲幼兒可對名字有反應或以名字稱呼自己；交替下樓梯與複雜因果回答較晚。",
+      "flashcard_front": "2 歲幼兒語言/自我概念常見表現？",
+      "flashcard_back": "可對自己的名字反應，也可能以名字稱呼自己。",
+      "flashcard_summary": "2-year development -> self by name; not advanced causal answers",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

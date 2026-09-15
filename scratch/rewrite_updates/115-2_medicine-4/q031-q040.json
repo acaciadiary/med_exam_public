@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n下運動神經元受損會造成弛緩性無力、肌肉萎縮、肌束顫動與深部肌腱反射降低。深層肌腱反射變強是上運動神經元病灶的典型表現，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。肌肉無力可見於下運動神經元受損，因為前角細胞、周邊神經或神經根受損會使肌肉失去神經支配。\n- B. 錯誤。Babinski sign 屬上運動神經元徵象；下運動神經元病灶通常不會出現 Babinski sign。\n- C. 錯誤。肌肉不自主顫動（fasciculation）反映運動單位不穩定，是下運動神經元受損線索。\n- D. 正確。深部肌腱反射亢進代表抑制性上位控制下降，較符合上運動神經元病灶。\n\n【核心考點】\nLMN：無力、萎縮、fasciculation、低反射；UMN：痙攣、反射亢進、Babinski sign。",
+      "key_point": "深部肌腱反射變強是上運動神經元徵象，不是下運動神經元受損。",
+      "flashcard_front": "LMN lesion 的典型徵象？",
+      "flashcard_back": "弛緩性無力、萎縮、肌束顫動、低反射；反射亢進屬 UMN。",
+      "flashcard_summary": "LMN signs -> weakness, atrophy, fasciculation, hyporeflexia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n兒童意識評估會依年齡調整語言反應，嬰幼兒不能直接用成人式語言項目判讀。本題最不適當的是把「坐立難安、激動」固定說成嬰幼兒 GCS 語言項目 3 分，因為兒童修正版需看哭聲、安撫性、互動與發聲型態，不是這樣單一對應。\n\n【選項詳解】\n- A. 錯誤。嬰幼兒尚無成熟語言，GCS 語言項目必須改以哭聲、互動與安撫反應評估，和較大兒童不同。\n- B. 正確。Restless、agitated 不是嬰幼兒 GCS 語言項目的標準 3 分描述；語言項目 3 分通常偏向不適當哭聲、呻吟或不一致反應等。\n- C. 錯誤。能定位疼痛表示對刺激有目的性反應，在 GCS 動作項目為 5 分。\n- D. 錯誤。FOUR score 包含眼反應、運動反應、腦幹反射與呼吸型態，適用於無法以語言反應充分評估的病人。\n\n【核心考點】\n小兒 GCS 要用年齡修正版；不要把成人語言描述或一般躁動狀態硬套成嬰幼兒語言分數。",
+      "key_point": "嬰幼兒 GCS 語言項目需用哭聲、互動與安撫反應判讀，不能把 restless/agitated 固定當作 V3。",
+      "flashcard_front": "小兒 GCS 和成人 GCS 最大差異？",
+      "flashcard_back": "嬰幼兒語言項目需依哭聲、發聲、安撫與互動修正。",
+      "flashcard_summary": "Pediatric GCS -> age-adjust verbal response",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\nKlinefelter syndrome 多為 47,XXY，常到青春期或成人因小睪丸、性腺功能低下、不孕、身材高或學習問題才被發現。出生時外觀通常不明顯，因此最不適當的是 B。\n\n【選項詳解】\n- A. 錯誤。Klinefelter syndrome 是男性性腺功能低下與不孕的重要常見染色體原因。\n- B. 正確。雖是先天染色體異常，但新生兒期外觀常不明顯，不能說出生時即明顯異常。\n- C. 錯誤。多數來自減數分裂時性染色體不分離，形成額外 X 染色體。\n- D. 錯誤。成年後常見身材較高、睪丸小、精蟲數少或無精蟲，並可能有睪固酮不足。\n\n【核心考點】\nKlinefelter syndrome 的陷阱是先天存在但常晚期才診斷；關鍵線索是高身材、小睪丸、低睪固酮與不孕。",
+      "key_point": "Klinefelter syndrome 常出生外觀不明顯，青春期或成人因小睪丸與不孕被發現。",
+      "flashcard_front": "Klinefelter syndrome 的典型發現時機與線索？",
+      "flashcard_back": "常非出生即明顯；青春期/成人見高身材、小睪丸、性腺功能低下、不孕。",
+      "flashcard_summary": "Klinefelter -> 47,XXY, small testes, infertility, often subtle at birth",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n染髮劑造成過敏性接觸性皮膚炎時，最經典也最常考的過敏原是對次酚二胺（para-phenylenediamine, PPD）。PPD 常見於永久性染髮劑，可造成頭皮、臉部、耳周或頸部濕疹樣反應，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。鎳是飾品、皮帶扣、金屬物品接觸性皮膚炎的常見過敏原，不是染髮劑最典型答案。\n- B. 正確。PPD 是染髮劑過敏性接觸性皮膚炎的代表過敏原。\n- C. 錯誤。鉻常與水泥、皮革、金屬加工相關，並非染髮劑最常見過敏原。\n- D. 錯誤。環氧樹酯常見於工業、黏著劑或塗料相關接觸過敏，不是染髮劑的典型主因。\n\n【核心考點】\n接觸性皮膚炎常考過敏原配對：染髮劑 PPD、金屬飾品鎳、水泥鉻、樹脂/膠類 epoxy resin。",
+      "key_point": "染髮劑過敏性接觸性皮膚炎最典型過敏原是 PPD。",
+      "flashcard_front": "染髮劑接觸性皮膚炎常見過敏原？",
+      "flashcard_back": "Para-phenylenediamine（PPD）。",
+      "flashcard_summary": "Hair dye dermatitis -> PPD",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n斑塊型乾癬典型為界線清楚紅色斑塊合併銀白色鱗屑，可見 Auspitz sign、Koebner phenomenon 與治療或消退時的 Woronoff ring。Darier sign 是搔刮後蕁麻疹樣膨疹，較典型見於皮膚肥大細胞症，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Darier sign 代表病灶摩擦後肥大細胞釋放介質造成膨疹，常考於 urticaria pigmentosa，不屬 plaque psoriasis 典型。\n- B. 錯誤。Woronoff ring 是乾癬病灶周圍的蒼白環，可見於病灶消退或治療反應。\n- C. 錯誤。Auspitz sign 指刮除鱗屑後出現點狀出血，是乾癬經典表現。\n- D. 錯誤。Koebner phenomenon 指外傷處誘發新病灶，乾癬、扁平苔癬與白斑都可見。\n\n【核心考點】\n乾癬記 Auspitz、Koebner、Woronoff；Darier sign 要想到肥大細胞症，不是斑塊型乾癬。",
+      "key_point": "Darier sign 屬肥大細胞症典型徵象，不是 plaque psoriasis 特徵。",
+      "flashcard_front": "乾癬常見徵象與非乾癬徵象？",
+      "flashcard_back": "乾癬可見 Auspitz、Koebner、Woronoff；Darier sign 指向 mastocytosis。",
+      "flashcard_summary": "Psoriasis signs -> Auspitz/Koebner/Woronoff; not Darier",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n下肢紅疹合併腹痛、關節痛，且前有上呼吸道感染，最符合 IgA vasculitis。評估重點是皮膚血管炎證據、發炎程度與腎臟侵犯；IgE 是過敏相關檢查，對此病診斷與追蹤較不需要，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。若診斷不典型，皮膚切片合併免疫螢光可見小血管炎與 IgA 沉積，有助確認。\n- B. 錯誤。紅血球沉降速率可反映發炎狀態，雖非特異但可作為評估資料之一。\n- C. 錯誤。尿液檢查很重要，因為 IgA vasculitis 的腎臟侵犯會影響預後，可出現血尿或蛋白尿。\n- D. 正確。IgE 主要用於過敏性疾病脈絡，不能評估 IgA 小血管炎的核心病理或腎臟風險。\n\n【核心考點】\nIgA vasculitis 要追腎臟：尿液檢查不可漏；IgE 不是此病必要檢查。",
+      "key_point": "IgA vasculitis 評估需注意尿液與 IgA 血管炎證據，IgE 檢查較不需要。",
+      "flashcard_front": "IgA vasculitis 最需要追蹤哪個器官？",
+      "flashcard_back": "腎臟；需尿液檢查追血尿與蛋白尿。",
+      "flashcard_summary": "IgA vasculitis workup -> urinalysis important; IgE not needed",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "題目原附皮疹圖；JSON 未含圖檔欄位，已依題幹描述與官方答案撰寫。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-4_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nAllopurinol 後高燒、廣泛水疱潰瘍並侵犯口腔與生殖器黏膜，符合 Stevens-Johnson syndrome。SJS 病理可見角質細胞壞死與表皮剝離；直接免疫螢光呈線狀沉積是類天疱瘡等免疫水疱病線索，不是 SJS，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。SJS/TEN 可見表皮壞死、表皮與真皮交界分離及壞死角質細胞，符合嚴重藥疹表現。\n- B. 正確。表皮真皮交界線狀免疫沉積常見於 bullous pemphigoid 或 epidermolysis bullosa acquisita，不是 SJS 的典型 DIF。\n- C. 錯誤。SJS 常侵犯眼、口腔、外生殖器等黏膜，眼部併發症可嚴重影響預後。\n- D. 錯誤。SJS 以停用可疑藥物、支持性照護、傷口與感染監測為主；沒有感染證據時不需常規抗生素。\n\n【核心考點】\nSJS/TEN 是嚴重藥物反應，病理為表皮壞死與剝離；線狀 DIF 是免疫水疱病，不是 SJS。",
+      "key_point": "SJS 的典型病理是表皮壞死與剝離；線狀直接免疫螢光沉積指向類天疱瘡等疾病。",
+      "flashcard_front": "SJS 與 bullous pemphigoid 的病理/免疫螢光差異？",
+      "flashcard_back": "SJS：表皮壞死剝離；bullous pemphigoid：基底膜帶線狀免疫沉積。",
+      "flashcard_summary": "SJS -> necrotic epidermis, mucosal involvement; not linear DIF",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n帶狀疱疹是水痘帶狀疱疹病毒再活化，沿單側皮節出現疼痛與水疱。年齡越大越容易出現病灶癒合後仍持續疼痛的帶狀疱疹後神經痛，因此正確的是 D。\n\n【選項詳解】\n- A. 錯誤。排尿或排便功能較與薦椎 S2-S4 相關；L2 皮節病灶不會最典型造成排泄功能異常。\n- B. 錯誤。鼻頭水疱是 Hutchinson sign，代表鼻睫神經受侵犯，提示眼部併發症風險較高而非預後較佳。\n- C. 錯誤。耳部水疱、耳痛與顏面神經麻痺要懷疑 Ramsay Hunt syndrome，主要與第七對腦神經膝狀神經節受侵犯相關，不是第五對。\n- D. 正確。帶狀疱疹後神經痛是皮疹消退後仍持續的神經痛，高齡是重要危險因子。\n\n【核心考點】\nHerpes zoster 常考眼部 Hutchinson sign、Ramsay Hunt 的 CN VII，以及高齡增加 postherpetic neuralgia 風險。",
+      "key_point": "帶狀疱疹後神經痛在高齡者較常見；Hutchinson sign 代表眼部風險較高。",
+      "flashcard_front": "Ramsay Hunt syndrome 侵犯哪條腦神經？",
+      "flashcard_back": "主要是第七對顏面神經膝狀神經節，表現為耳部疱疹與顏面神經麻痺。",
+      "flashcard_summary": "Herpes zoster -> PHN older age, Hutchinson eye risk, Ramsay Hunt CN VII",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n無痛性肉色小丘疹、中央角栓樣凹陷，可擠出內容物並見包涵體，最符合傳染性軟疣（molluscum contagiosum）。成人若病灶多、變大或分布異常，不能只說不需抽血與治療，需評估免疫狀態與傳染控制，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。擠出中央角質樣內容物後可用染色或顯微鏡觀察 molluscum bodies，能支持診斷。\n- B. 正確。傳染性軟疣可自行消退，但成人多發或非典型病灶需考慮免疫抑制或 HIV 等評估，也可因傳染與外觀需求治療。\n- C. 錯誤。病理可見表皮細胞內大型嗜伊紅性包涵體，即 Henderson-Patterson bodies。\n- D. 錯誤。抓摳會造成自體接種，讓病灶沿周邊皮膚擴散。\n\n【核心考點】\nMolluscum contagiosum 是臍凹肉色丘疹，病理有 Henderson-Patterson bodies；成人多發或異常分布要評估免疫狀態。",
+      "key_point": "成人多發傳染性軟疣不能只觀察，需視情況評估免疫抑制或 HIV 並避免自體接種。",
+      "flashcard_front": "傳染性軟疣的典型病理？",
+      "flashcard_back": "表皮細胞內 Henderson-Patterson bodies；臨床為臍凹肉色丘疹。",
+      "flashcard_summary": "Molluscum contagiosum -> umbilicated papules, inclusion bodies, autoinoculation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "題目原附皮膚病灶圖；JSON 未含圖檔欄位，已依題幹文字與官方答案撰寫。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-4_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n近端甲緣圓形結節合併縱向甲板凹溝，MRI 顯示囊性病灶時，最典型是黏液樣偽囊腫（digital myxoid pseudocyst）。囊腫壓迫甲母質會造成指甲縱向溝，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。血管球腫瘤常在甲下造成劇烈疼痛、冷敏感與點狀壓痛，不以近端甲緣黏液囊腫與縱溝為典型。\n- B. 錯誤。波文氏病是表皮內鱗狀細胞癌，常為慢性紅色鱗屑斑塊或甲周破壞，不符合囊性結節壓迫甲母質。\n- C. 正確。黏液樣偽囊腫常位於遠端指間關節或近端甲皺襞附近，可壓迫甲母質造成 longitudinal groove。\n- D. 錯誤。甲下外生骨是骨性突起，常見於足趾甲下，影像會顯示骨性病灶，不是近端甲緣囊性結節。\n\n【核心考點】\n近端甲皺襞黏液囊腫加縱向甲溝，要想到 digital myxoid pseudocyst；它常因壓迫甲母質造成甲板變形。",
+      "key_point": "Digital myxoid pseudocyst 可壓迫甲母質，造成縱向甲板凹溝。",
+      "flashcard_front": "近端甲緣囊性結節 + 縱向甲溝想到？",
+      "flashcard_back": "黏液樣偽囊腫（digital myxoid pseudocyst）。",
+      "flashcard_summary": "Myxoid pseudocyst -> proximal nail fold cyst causing longitudinal nail groove",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "題目原附指甲與 MRI 圖；JSON 未含圖檔欄位，已依題幹描述與官方答案撰寫。"
+      ]
+    }
+  ]
+}

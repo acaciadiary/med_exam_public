@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n硬實小結節位於大腿，掐捏兩側時中央凹陷形成 dimple sign，是皮膚纖維瘤的經典臨床表現。皮膚纖維瘤多為良性纖維組織增生，常見於四肢，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Dermatofibroma 常為硬實棕色或肉色小丘疹/結節，側向擠壓會向內凹陷，是 dimple sign。\n- B. 錯誤。脂肪瘤通常柔軟、可移動、位於皮下，不會典型出現掐捏後中央凹陷。\n- C. 錯誤。神經纖維瘤可有 buttonhole sign，即按壓後像陷入皮內，但題幹描述的 dimple sign 更支持皮膚纖維瘤。\n- D. 錯誤。血管瘤多呈紅紫色、可壓縮或與血管性外觀相關，不是硬實結節加 dimple sign 的典型診斷。\n\n【核心考點】\nDimple sign 是 dermatofibroma 的高產線索；硬實小結節被側向擠壓後中央凹陷即可優先選皮膚纖維瘤。",
+      "key_point": "皮膚纖維瘤典型為硬實小結節，側向擠壓出現 dimple sign。",
+      "flashcard_front": "Dimple sign 指向哪個皮膚腫瘤？",
+      "flashcard_back": "皮膚纖維瘤（dermatofibroma）。",
+      "flashcard_summary": "Dermatofibroma -> firm nodule with dimple sign",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "題目原附皮膚病灶圖；JSON 未含圖檔欄位，已依題幹描述與官方答案撰寫。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-4_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n嚴格減重與熱量限制後約 3 個月出現瀰漫性掉髮，頭皮無發炎、毳毛未增加，最符合休止期落髮。壓力、疾病、產後、節食或體重快速下降會讓大量毛囊進入休止期，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Telogen effluvium 常在壓力事件後約 2 到 3 個月出現瀰漫性落髮，誘因包括快速減重與營養不足。\n- B. 錯誤。Anagen effluvium 常見於化療或毒性傷害，因生長期毛囊受損而迅速掉髮，時間通常更快。\n- C. 錯誤。圓禿多為界線清楚的片狀掉髮，可見驚嘆號毛，不符合本題瀰漫性落髮。\n- D. 錯誤。紅斑性狼瘡可造成發炎性或瘢痕性落髮，常伴紅斑、鱗屑或其他自體免疫表現；題幹未支持。\n\n【核心考點】\n壓力事件後 2 到 3 個月瀰漫性掉髮，且頭皮無明顯發炎，要想到 telogen effluvium。",
+      "key_point": "快速減重後約 3 個月瀰漫性落髮，典型是休止期落髮。",
+      "flashcard_front": "節食快速減重後 2-3 個月掉髮想到？",
+      "flashcard_back": "休止期落髮（telogen effluvium）。",
+      "flashcard_summary": "Telogen effluvium -> diffuse shedding months after stress/weight loss",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\nDarier disease 是角化異常疾病，可有油膩角化丘疹、異味與指甲縱向變化，常因熱、流汗、摩擦與日曬惡化。口服維他命 A 酸有致畸胎風險需避孕；說曬太陽會改善並建議多曝曬是錯誤的，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。口服 retinoid 具明確致畸胎風險，育齡女性治療期間需避孕與用藥安全諮詢。\n- B. 正確。Darier disease 常會因高溫、流汗與日曬惡化，不應建議多曝曬陽光。\n- C. 錯誤。指甲可出現白紅縱紋、縱向脊、遠端 V 形缺刻，是診斷線索之一。\n- D. 錯誤。病灶位於皮脂多或摩擦處時可有異味，確實會影響生活品質與社交適應。\n\n【核心考點】\nDarier disease 會因熱、汗、摩擦、日曬惡化；retinoid 治療要記得致畸胎與避孕。",
+      "key_point": "Darier disease 常因日曬與熱惡化；口服 retinoid 需避孕。",
+      "flashcard_front": "Darier disease 的惡化因子與治療注意？",
+      "flashcard_back": "熱、流汗、摩擦、日曬會惡化；口服維他命 A 酸有致畸胎風險。",
+      "flashcard_summary": "Darier disease -> worsened by heat/sun; retinoid teratogenic",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n急性缺血性腦中風處置需依是否接受血栓溶解或血管內治療決定血壓目標，不能一律降壓。頸動脈剝離造成缺血事件時，可用抗血小板或抗凝血策略預防再中風，需個別評估，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。只有準備接受 IV thrombolysis 或部分血管內治療時，才需先達到特定血壓門檻；未治療者不應不分數值一律降到 185/110 以下。\n- B. 錯誤。急性中風血糖管理重點是避免低血糖與嚴重高血糖，不是不論初始血糖都硬性控制在 140-180 mg/dL。\n- C. 錯誤。輕度非心因性中風或高風險 TIA 的短期雙重抗血小板常見組合是 aspirin 加 clopidogrel，或特定情境 aspirin 加 ticagrelor；不是 clopidogrel 加 ticagrelor。\n- D. 正確。頸動脈剝離後預防再中風可考慮抗血小板或抗凝血治療，依出血風險、影像與臨床狀況選擇。\n\n【核心考點】\n急性缺血性中風不是所有人都立即降壓；血栓溶解前血壓門檻與頸動脈剝離抗栓選擇是常考臨床判斷。",
+      "key_point": "頸動脈剝離相關缺血事件可用抗血小板或抗凝血預防再中風；急性中風降壓需看治療情境。",
+      "flashcard_front": "急性缺血性中風血壓處置最常見陷阱？",
+      "flashcard_back": "不是所有病人都一律降到 185/110 以下；血栓溶解候選人才需達門檻。",
+      "flashcard_summary": "AIS management -> BP depends on reperfusion eligibility; dissection antithrombotic",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n病人有 ADPKD 與強烈家族史，又發現 5 mm posterior communicating artery aneurysm。後交通動脈位置、家族史與多囊腎都提高破裂風險，不能當成極低風險不追蹤；應積極神經血管專科評估，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。5 mm 動脈瘤若合併後交通動脈位置、家族史與 ADPKD，破裂風險不能視為極低，也不能不追蹤。\n- B. 正確。後交通動脈常在風險評估中列入較高風險位置，5 年破裂風險可達數百分點等級，應考慮進一步評估或處置。\n- C. 錯誤。即使暫不談高血壓或家族史，後交通動脈位置的風險也通常高於部分前循環小動脈瘤，不能說相同。\n- D. 錯誤。ADPKD 是顱內動脈瘤的重要危險因子，尤其有家族性 SAH 時更需重視。\n\n【核心考點】\n未破裂顱內動脈瘤風險評估要看大小、位置、家族史、高血壓、年齡與 ADPKD；後交通動脈加 ADPKD 不能輕忽。",
+      "key_point": "ADPKD、家族史與後交通動脈位置都會提高未破裂顱內動脈瘤風險。",
+      "flashcard_front": "ADPKD 和顱內動脈瘤的關係？",
+      "flashcard_back": "ADPKD 是顱內動脈瘤與 SAH 的風險因子，有家族史時更需篩檢與追蹤。",
+      "flashcard_summary": "Intracranial aneurysm risk -> ADPKD + family history + PCom location",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n短時間內反覆出現相似的左手無力與構音不清、每次數分鐘恢復，MRI 無明顯急性病灶，較像 lacunar TIA 或 capsular warning syndrome。高血壓、糖尿病造成穿通動脈 lipohyalinosis，可反覆短暫低灌流，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。心臟或大血管栓塞常造成較突然且可影響不同皮質區的症狀；反覆刻板、短暫、純運動樣發作更支持穿通動脈病變。\n- B. 正確。穿通動脈微血管硬化與 lipohyalinosis 可導致內囊或腦幹小血管區短暫灌流不穩，產生反覆類似症狀。\n- C. 錯誤。椎基底動脈低灌流常見眩暈、複視、共濟失調、雙側症狀等後循環表現，題幹不符合。\n- D. 錯誤。可逆性腦血管收縮症候群常以雷擊性頭痛為主，並非本題反覆刻板短暫局灶無力的典型機轉。\n\n【核心考點】\n反覆刻板短暫局灶症狀，尤其純運動或構音障礙，要想到穿通動脈小血管病變造成 lacunar TIA/capsular warning。",
+      "key_point": "高血壓糖尿病病人反覆刻板短暫局灶症狀，支持穿通動脈 lipohyalinosis 相關 TIA。",
+      "flashcard_front": "Capsular warning syndrome 的常見機轉？",
+      "flashcard_back": "穿通動脈小血管病變與短暫低灌流，常見於高血壓、糖尿病背景。",
+      "flashcard_summary": "Stereotyped lacunar TIA -> penetrating artery lipohyalinosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n睡眠中大喊、拳打腳踢、跌下床，醒後能描述與動作相符的夢境，典型為 REM sleep behavior disorder。確診需多項生理睡眠檢查證實 REM without atonia 並排除癲癇等鑑別，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。NREM parasomnia 常在前半夜 N3 期、醒後記憶不清；本題有夢境演出與清楚回憶，更像 REM 期問題。\n- B. 正確。Polysomnography 可證實 REM 睡眠肌張力未正常抑制，並排除睡眠癲癇、阻塞型睡眠呼吸中止等模仿情況。\n- C. 錯誤。RBD 與 alpha-synucleinopathy，如 Parkinson disease、DLB、MSA 風險相關，不是運動神經元疾病的典型前驅。\n- D. 錯誤。治療重點包括安全環境、melatonin 或 clonazepam；modafinil 用於嗜睡症狀，非 RBD 首選。\n\n【核心考點】\nRBD 是夢境演出加 REM without atonia；會提示未來 synucleinopathy 風險，確診靠 PSG。",
+      "key_point": "REM sleep behavior disorder 需 PSG 證實 REM without atonia，並與 synucleinopathy 風險相關。",
+      "flashcard_front": "夢境演出、醒後記得內容，想到哪個睡眠疾患？",
+      "flashcard_back": "REM sleep behavior disorder；確診靠 polysomnography。",
+      "flashcard_summary": "RBD -> dream enactment, PSG confirmation, synucleinopathy risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n亞急性記憶障礙、局部癲癇、顳葉 FLAIR 高訊號、EEG 局部慢波與血清抗體陽性，最符合自體免疫性邊緣葉腦炎。HSV 腦炎雖也侵犯顳葉，但題幹抗體陽性與亞急性病程更支持自體免疫病因，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。HSV 腦炎常較急性，伴發燒、意識改變、CSF 發炎與 PCR 線索；需鑑別但不是本題最可能答案。\n- B. 正確。Autoimmune limbic encephalitis 常表現為記憶障礙、癲癇、精神行為改變與內側顳葉影像異常，可有特定自體抗體。\n- C. 錯誤。多發性硬化症常見時間與空間多發的中樞脫髓鞘病灶，不以單純邊緣系統記憶癲癇加抗體陽性為典型。\n- D. 錯誤。代謝性腦病變多造成瀰漫性意識或認知改變，影像與 EEG 通常不會局限顳葉並伴特異抗體。\n\n【核心考點】\n亞急性記憶障礙加顳葉病灶與癲癇，要想到 limbic encephalitis；抗體陽性支持自體免疫性病因。",
+      "key_point": "自體免疫性邊緣葉腦炎常見亞急性記憶障礙、癲癇與顳葉 FLAIR 高訊號。",
+      "flashcard_front": "記憶障礙 + 顳葉 FLAIR + 癲癇 + 抗體陽性想到？",
+      "flashcard_back": "自體免疫性邊緣葉腦炎。",
+      "flashcard_summary": "Autoimmune limbic encephalitis -> subacute memory loss, seizures, temporal MRI, antibodies",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\nValproic acid 對 JME 有效，但在懷孕與育齡女性是高風險抗癲癇藥，與神經管缺陷、其他畸形及神經發展不良風險增加相關。若可能懷孕，應避免或只在非不得已時謹慎使用，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。Valproic acid 的致畸胎與神經發展風險高於多數替代抗癲癇藥，不能說無顯著差異。\n- B. 正確。Valproic acid 與胎兒神經管缺陷風險增加有明確關聯，育齡或孕期女性需盡量避免或嚴格權衡。\n- C. 錯誤。Topiramate 也有胎兒風險，例如口裂與低出生體重等，不能說換成 topiramate 就確保安全。\n- D. 錯誤。Levetiracetam 常被視為較安全替代之一，但孕期藥物清除率會改變，仍可能需要監測濃度與癲癇控制。\n\n【核心考點】\nValproate 是孕期高風險抗癲癇藥；育齡女性要先考慮替代藥、葉酸與專科共同風險評估。",
+      "key_point": "Valproic acid 孕期會增加神經管缺陷與神經發展風險，育齡女性應避免或嚴格權衡。",
+      "flashcard_front": "JME 女性諮詢懷孕用藥時，valproate 最大問題？",
+      "flashcard_back": "致畸胎，尤其神經管缺陷與神經發展不良風險增加。",
+      "flashcard_summary": "Valproate in pregnancy -> neural tube defects; avoid if possible",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n高血壓、糖尿病老人出現注意力與執行功能下降、步態變慢、情緒低落，下肢僵硬，MRI 有多發深部白質缺血病灶，最符合血管性或多發性腦梗塞失智症。其表現常是階梯式或皮質下功能下降，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。阿茲海默病早期較典型是情節記憶下降與海馬相關記憶問題，本題反而沒有明顯記憶力減退。\n- B. 錯誤。額顳葉失智症常以人格行為改變、去抑制、冷漠或語言變異為主，影像常在額顳葉萎縮。\n- C. 正確。多發性腦梗塞或血管性失智可造成注意力、執行功能、步態與情緒問題，且與深部白質缺血病灶相符。\n- D. 錯誤。路易體失智症常見認知波動、視幻覺、REM sleep behavior disorder 與巴金森症狀，本題線索不足。\n\n【核心考點】\n血管性失智常以執行功能、注意力、步態與情緒改變突出，影像可見多發梗塞或白質缺血病灶。",
+      "key_point": "多發深部白質缺血合併步態慢、注意力與執行功能下降，支持血管性失智。",
+      "flashcard_front": "血管性失智常見早期認知特徵？",
+      "flashcard_back": "注意力與執行功能下降、步態變慢、情緒低落，常有白質缺血或梗塞影像。",
+      "flashcard_summary": "Vascular dementia -> executive dysfunction, gait slowing, white matter ischemia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

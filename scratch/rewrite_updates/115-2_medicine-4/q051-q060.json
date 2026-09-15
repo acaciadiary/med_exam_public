@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nTauopathy 指主要病理蛋白為 tau 的神經退化疾病。Progressive supranuclear palsy、corticobasal degeneration 與 Alzheimer disease 都有重要 tau 病理；multiple system atrophy 則是 alpha-synucleinopathy，因此答案為 A。\n\n【選項詳解】\n- A. 正確。多重系統萎縮症主要病理為 oligodendroglial cytoplasmic inclusions，成分以 alpha-synuclein 為主，不屬 tauopathy。\n- B. 錯誤。進行性上眼神經核麻痺症是典型 4-repeat tauopathy。\n- C. 錯誤。皮質基底核退化症也屬 4-repeat tauopathy，可有皮質與基底核相關退化。\n- D. 錯誤。阿茲海默病有 amyloid plaques 與 tau neurofibrillary tangles，tau 病理是核心之一。\n\n【核心考點】\nMSA 是 alpha-synucleinopathy；PSP、CBD、AD 都可歸入 tau 相關病變範圍。",
+      "key_point": "Multiple system atrophy 是 alpha-synucleinopathy，不是 tauopathy。",
+      "flashcard_front": "哪個神經退化疾病不是 tauopathy？",
+      "flashcard_back": "多重系統萎縮症（MSA）是 alpha-synucleinopathy。",
+      "flashcard_summary": "Neurodegeneration proteins -> MSA synuclein; PSP/CBD/AD tau",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n本態性顫抖典型是姿勢性或動作性顫抖，常影響雙手，可因動作、拿杯子、寫字明顯。靜止性顫抖是巴金森病較典型的顫抖型態，因此最不適當的是 A。\n\n【選項詳解】\n- A. 正確。Essential tremor 不是以雙手對稱 resting tremor 為典型，而是 postural/action tremor。\n- B. 錯誤。診斷前需排除甲狀腺亢進、藥物如 lithium、valproate、咖啡因或其他誘因造成的顫抖。\n- C. 錯誤。Propranolol 是常用治療，benzodiazepines 可在部分情境作輔助；臨床也常用 primidone。\n- D. 錯誤。藥物反應差且生活受影響者，可考慮深部腦刺激或聚焦超音波燒灼術等介入治療。\n\n【核心考點】\n本態性顫抖是動作/姿勢性顫抖；靜止性顫抖、動作遲緩與僵硬要轉向巴金森病鑑別。",
+      "key_point": "Essential tremor 典型是姿勢性或動作性顫抖，不是 resting tremor。",
+      "flashcard_front": "本態性顫抖和巴金森顫抖如何區分？",
+      "flashcard_back": "本態性顫抖多為動作/姿勢性；巴金森病多為靜止性顫抖合併動作遲緩。",
+      "flashcard_summary": "Essential tremor -> action/postural tremor, not resting tremor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n唐氏症最常見原因是第 21 對染色體三體，可用產前篩檢與診斷檢查評估。羊膜穿刺取得胎兒細胞做染色體或基因體檢測，可以確認是否有三染色體異常，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。染色體 18 異常是 Edwards syndrome；Down syndrome 典型是 trisomy 21。\n- B. 錯誤。唐氏症常有身材較矮、特徵臉型、肌張力低與智能發展遲緩，不能說智力不受影響。\n- C. 正確。羊膜穿刺可取得胎兒細胞進行核型分析或其他染色體檢查，用來診斷 trisomy 21。\n- D. 錯誤。唐氏症成年後阿茲海默病風險增加，並非因運動神經元死亡造成肌萎縮無力為典型結局。\n\n【核心考點】\nDown syndrome 是 trisomy 21；產前確診可用羊膜穿刺或絨毛膜取樣取得胎兒遺傳物質。",
+      "key_point": "唐氏症是 trisomy 21，羊膜穿刺可做產前診斷。",
+      "flashcard_front": "Down syndrome 的染色體異常與產前診斷？",
+      "flashcard_back": "第 21 對染色體三體；羊膜穿刺可檢測胎兒染色體。",
+      "flashcard_summary": "Down syndrome -> trisomy 21; amniocentesis diagnostic",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n上呼吸道感染後出現眼球運動麻痺、共濟失調與深部肌腱反射消失，是 Miller Fisher syndrome 的經典三徵。它是 Guillain-Barre spectrum 的變異型，常與 anti-GQ1b 抗體相關，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。腦幹中風可造成複視與共濟失調，但通常不會典型出現對稱性眼外肌麻痺加全身反射消失，也少有感染後免疫病程。\n- B. 錯誤。病毒性腦炎常有發燒、意識改變、癲癇或腦脊髓液發炎，不以 areflexia 為核心。\n- C. 正確。Miller Fisher syndrome 典型三徵為 ophthalmoplegia、ataxia、areflexia，常在感染後發生。\n- D. 錯誤。重症肌無力可有眼肌無力與複視，但不會造成深部肌腱反射消失與急性感染後共濟失調三徵。\n\n【核心考點】\nOphthalmoplegia + ataxia + areflexia 是 Miller Fisher syndrome；記住 anti-GQ1b 與 GBS spectrum。",
+      "key_point": "Miller Fisher syndrome 三徵是眼外肌麻痺、共濟失調、反射消失。",
+      "flashcard_front": "感染後複視、步態不穩、反射消失想到？",
+      "flashcard_back": "Miller Fisher syndrome，GBS 變異型，常與 anti-GQ1b 抗體相關。",
+      "flashcard_summary": "Miller Fisher -> ophthalmoplegia, ataxia, areflexia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n皮肌炎可有近端肌無力、CK 上升與關節症狀，但最具特異性的臨床線索是典型皮膚表現，包括 Gottron's papules 與 heliotrope rash。因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。近端肌肉無力見於多種肌肉病變，如多發性肌炎、藥物性肌病或內分泌肌病，特異性不足。\n- B. 錯誤。CK 升高代表肌肉受損，但許多發炎性或壞死性肌病都可升高。\n- C. 錯誤。關節痛可見於皮肌炎或其他自體免疫疾病，但不是最具特異性的診斷依據。\n- D. 正確。Gottron's papules 與紫羅蘭色 heliotrope rash 是皮肌炎的高度特異皮膚表現。\n\n【核心考點】\n皮肌炎最有鑑別力的是皮膚徵象：Gottron's papules、heliotrope rash；肌力與 CK 只是支持發炎性肌病。",
+      "key_point": "Gottron's papules 與 heliotrope rash 是皮肌炎最具特異性的臨床線索。",
+      "flashcard_front": "皮肌炎最特異的臨床表現？",
+      "flashcard_back": "Gottron's papules 或 heliotrope rash。",
+      "flashcard_summary": "Dermatomyositis -> specific rash more diagnostic than CK/proximal weakness",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n腎移植後長期使用類固醇，數月後出現近端肌無力且 CK 正常，最符合類固醇肌病。類固醇肌病常以無痛性近端肌無力表現，尤其下肢明顯，肌肉酵素可正常，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Steroid myopathy 與慢性類固醇使用相關，常為近端肌無力、CK 正常或輕微變化。\n- B. 錯誤。尿毒症神經病變多為遠端感覺運動多發神經病變，常有麻木、刺痛與遠端無力，不是單純近端肌病表現。\n- C. 錯誤。多發性肌炎也會近端肌無力，但通常 CK 顯著升高並有發炎性肌病證據。\n- D. 錯誤。重症肌無力常有波動性眼肌、延髓或近端無力，與類固醇後 CK 正常近端肌病的線索不如 A 符合。\n\n【核心考點】\n類固醇肌病：慢性 steroid、近端肌無力、無痛、CK 常正常；多發性肌炎則 CK 通常升高。",
+      "key_point": "長期類固醇後近端肌無力且 CK 正常，最支持類固醇肌病。",
+      "flashcard_front": "Steroid myopathy 的典型檢查特徵？",
+      "flashcard_back": "近端肌無力但 CK 常正常或僅輕微升高。",
+      "flashcard_summary": "Steroid myopathy -> proximal weakness with normal CK",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n神經傳導檢查最能直接評估周邊神經傳導速度、遠端潛伏期與傳導阻斷，因此對慢性發炎性脫髓鞘多發性神經根神經病變（CIDP）最有實質診斷幫助。CIDP 的重點正是周邊神經脫髓鞘，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。重症肌無力主要是神經肌肉接合處疾病，診斷較依賴重複神經刺激、單纖維肌電圖與抗體檢測；一般 NCS 不是最有力工具。\n- B. 錯誤。Duchenne muscular dystrophy 是肌肉本身 dystrophin 缺陷，重點為 CK、基因檢測與肌肉病變評估。\n- C. 錯誤。皮肌炎是發炎性肌病，診斷仰賴皮膚表現、CK、肌電圖、MRI、抗體或肌肉切片，NCS 不是核心。\n- D. 正確。CIDP 是周邊神經脫髓鞘疾病，NCS 可顯示傳導速度變慢、遠端潛伏期延長、傳導阻斷等證據。\n\n【核心考點】\nNCS 最適合回答周邊神經是否脫髓鞘；CIDP 是典型會用 NCS 建立診斷的疾病。",
+      "key_point": "CIDP 是周邊神經脫髓鞘疾病，神經傳導檢查最能提供實質診斷證據。",
+      "flashcard_front": "NCS 對哪類疾病最有診斷價值？",
+      "flashcard_back": "周邊神經病變，特別是 CIDP 這類脫髓鞘多發神經病變。",
+      "flashcard_summary": "NCS -> peripheral demyelination; CIDP",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n多發性硬化症是中樞神經自體免疫脫髓鞘疾病，會有不同病程型態；最常見的是復發緩解型（relapsing-remitting MS），不是原發持續惡化型。因此最不適當的是 B。\n\n【選項詳解】\n- A. 錯誤。MS 病理涉及 T 細胞、B 細胞、抗體與發炎細胞交互作用，兩者免疫調控都可異常。\n- B. 正確。Primary progressive MS 只占一部分病例；最常見起始型態是 relapsing-remitting MS。\n- C. 錯誤。MS 是慢性中樞神經自體免疫疾病，兼具發炎性脫髓鞘與神經退化。\n- D. 錯誤。McDonald criteria 依臨床、MRI 與腦脊髓液等資料判斷時間與空間多發性。\n\n【核心考點】\nMS 最常見病程是 relapsing-remitting；McDonald criteria 的核心是 dissemination in time and space。",
+      "key_point": "多發性硬化症最常見型態是復發緩解型，不是原發持續惡化型。",
+      "flashcard_front": "MS 最常見病程型態？",
+      "flashcard_back": "Relapsing-remitting MS；primary progressive 不是最常見。",
+      "flashcard_summary": "MS course -> relapsing-remitting most common",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\nDSM-5-TR 中，第一型雙極症的躁期通常需至少 1 週或需住院；第二型雙極症的輕躁期通常至少 4 天。選項 D 把輕躁期也說成至少 1 週，因此最不恰當，答案為 D。\n\n【選項詳解】\n- A. 錯誤。Peripartum onset specifier 可用於懷孕期間或生產後數週內發作的情緒發作；選項描述產後 4 週內方向符合常考定義。\n- B. 錯誤。Rapid cycling 指 12 個月內至少 4 次情緒發作，包括躁期、輕躁期或鬱期等。\n- C. 錯誤。第一型雙極症躁期通常需持續至少 1 週，或嚴重到需住院即可。\n- D. 正確。第二型雙極症的輕躁期一般至少 4 天，不是至少 1 週；1 週是躁期門檻。\n\n【核心考點】\n躁期至少 1 週，輕躁期至少 4 天；rapid cycling 是一年 4 次以上情緒發作。",
+      "key_point": "躁期至少 1 週；輕躁期至少 4 天，不是 1 週。",
+      "flashcard_front": "Mania vs hypomania 的時間門檻？",
+      "flashcard_back": "Mania 通常至少 1 週或需住院；hypomania 至少 4 天。",
+      "flashcard_summary": "Bipolar DSM timing -> mania 1 week, hypomania 4 days",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\nMSE 中認知功能常評估記憶、注意、定向、抽象思考、視空間與執行功能。三詞回憶是記憶測試，畫時鐘可評估視空間、計畫與執行功能；混亂語句屬思考形式，悲傷與失去興趣屬情緒，因此答案為 B（僅 1、4）。\n\n【選項詳解】\n- A. 錯誤。第 1 項是記憶測試，但第 2 項較屬思考流程或聯想鬆散，不是最能代表認知功能的組合。\n- B. 正確。第 1 項測延宕回憶，第 4 項畫時鐘測視空間與執行功能，兩者都屬認知評估。\n- C. 錯誤。第 3 項描述憂鬱情緒與快感缺乏，屬 mood/affect 症狀，不是認知功能測驗。\n- D. 錯誤。將思考形式與情緒症狀全納入認知功能，範圍過寬。\n\n【核心考點】\nMSE 的 cognition 包括記憶、注意、定向、抽象、視空間與執行功能；mood 與 thought process 是不同欄位。",
+      "key_point": "三詞回憶與畫時鐘屬認知功能評估；混亂語句與悲傷快感缺乏分屬思考形式與情緒。",
+      "flashcard_front": "MSE 中哪些項目評估 cognition？",
+      "flashcard_back": "記憶、注意、定向、抽象思考、視空間與執行功能，如三詞回憶與畫時鐘。",
+      "flashcard_summary": "MSE cognition -> memory recall and clock drawing",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

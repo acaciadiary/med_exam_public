@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n感冒症狀超過一週後出現高燒、膿稠黃綠鼻涕、頭痛與夜間咳嗽加劇，符合急性細菌性鼻竇炎的 severe 或 worsening course。單純鼻咽炎不應在後期明顯惡化成高燒膿鼻涕，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。急性鼻咽炎多為病毒感染，症狀通常在數天內逐漸改善，不典型出現後期高燒、膿鼻涕與頭痛惡化。\n- B. 正確。兒童急性鼻竇炎可表現為持續超過 10 天、嚴重高燒膿鼻涕，或感冒後先好轉再惡化；本題屬惡化型表現。\n- C. 錯誤。急性細支氣管炎主要是嬰幼兒下呼吸道疾病，重點是喘鳴、呼吸費力與小氣道阻塞，不是鼻膿涕頭痛。\n- D. 錯誤。過敏性鼻炎常為清水鼻涕、鼻癢、打噴嚏與眼癢，通常不造成 39.5°C 高燒與膿性鼻涕。\n\n【核心考點】\n兒童急性細菌性鼻竇炎常考三型：持續超過 10 天、嚴重高燒膿鼻涕、或 URI 後雙峰式惡化。",
+      "key_point": "感冒後高燒、膿鼻涕、頭痛與夜咳惡化，最支持急性細菌性鼻竇炎。",
+      "flashcard_front": "兒童急性鼻竇炎的典型病程線索？",
+      "flashcard_back": "症狀持續超過 10 天、嚴重高燒膿鼻涕，或 URI 後先改善再惡化。",
+      "flashcard_summary": "Acute sinusitis -> persistent/severe/worsening URI symptoms",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n兒童癌症治療後遲發效應要把藥物毒性配對清楚。Anthracyclines 代表藥如 doxorubicin，主要遲發毒性是心肌病變與心衰竭風險，不是高頻聽力下降；高頻聽損較典型是 platinum 類藥物，因此答案為 A。\n\n【選項詳解】\n- A. 正確。Doxorubicin 等 anthracyclines 的重點是累積劑量相關心臟毒性，不是典型耳毒性。\n- B. 錯誤。幼兒期頭部放療可影響神經認知發展，包括注意力、記憶、處理速度、執行功能與視覺相關問題。\n- C. 錯誤。Bleomycin 會造成肺毒性，遲發可有肺纖維化與肺功能下降。\n- D. 錯誤。Vincristine、vinblastine 為 vinca alkaloids，會影響微小管，典型副作用包括周邊神經病變。\n\n【核心考點】\n抗癌藥遲發毒性配對：anthracycline 心毒性，platinum 耳毒性，bleomycin 肺纖維化，vinca alkaloid 周邊神經病變。",
+      "key_point": "Anthracyclines 的遲發毒性是心肌病變，不是高頻聽力下降。",
+      "flashcard_front": "兒癌治療遲發效應：doxorubicin 對應什麼？",
+      "flashcard_back": "Anthracycline 類主要是心臟毒性；高頻聽損較典型是 cisplatin/carboplatin。",
+      "flashcard_summary": "Cancer late effects -> anthracycline cardiomyopathy, platinum ototoxicity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n兒童 ITP 多為感染後急性發作，突然出現瘀青與出血點，多數可在 6 個月內恢復。腦出血是嚴重但罕見併發症，絕不是 2 到 3 成，因此最不適當的是 A。\n\n【選項詳解】\n- A. 正確。ITP 的顱內出血發生率很低；若說 20% 到 30% 會腦出血，明顯高估風險。\n- B. 錯誤。兒童 ITP 多為自限性，約七到八成可在數月內恢復血小板數。\n- C. 錯誤。青春期女生出現血小板低下時，要留意 SLE 等自體免疫疾病造成的次發性血小板低下。\n- D. 錯誤。兒童 ITP 常是前一天看似正常，隔天突然出現廣泛出血點與瘀青，病程可很急。\n\n【核心考點】\n兒童 ITP 多急性、自限、顱內出血罕見；青春期女性或非典型表現要排除 SLE 等次發原因。",
+      "key_point": "兒童 ITP 多數 6 個月內恢復，顱內出血罕見，不是 2 到 3 成。",
+      "flashcard_front": "兒童 ITP 的自然病程與嚴重併發症？",
+      "flashcard_back": "多急性且自限，約 70-80% 於 6 個月恢復；顱內出血很罕見。",
+      "flashcard_summary": "Pediatric ITP -> abrupt petechiae, self-limited, ICH rare",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n肋膜積液鑑別滲出液與漏出液時，滲出液常有較高蛋白與 LDH，感染性或惡性滲出液可有低 pH、低葡萄糖。漏出液多因靜水壓或膠體滲透壓問題，pH 通常不會低於 7.2，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。滲出液蛋白濃度常較高，蛋白質大於約 3.0 g/dL 可支持滲出液方向。\n- B. 正確。pH <7.2 常提示複雜性肺炎旁積液、膿胸、惡性積液等滲出液問題，不是 transudate 的典型特徵。\n- C. 錯誤。滲出液因細胞破壞與發炎反應，LDH 常升高；Light criteria 也會用 LDH 相關比例判斷。\n- D. 錯誤。漏出液葡萄糖通常不低，接近血糖；低葡萄糖反而要想感染、類風濕、惡性等滲出性原因。\n\n【核心考點】\nExudate 高蛋白、高 LDH，可低 pH 或低葡萄糖；transudate 多蛋白低、LDH 低、葡萄糖與 pH 較接近正常。",
+      "key_point": "肋膜液 pH <7.2 支持複雜滲出液，不是漏出液典型表現。",
+      "flashcard_front": "肋膜積液中 pH <7.2 指向什麼？",
+      "flashcard_back": "多指向感染性或複雜滲出液，如 complicated parapneumonic effusion/empyema。",
+      "flashcard_summary": "Pleural effusion -> low pH favors exudate, not transudate",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n兒童呼吸衰竭評估重點是臨床呼吸做功、氧合與換氣，血液氣體可協助判斷。緊急或不易取得動脈血時，微血管血氣可作為實用替代，尤其用於 pH 與 CO2 趨勢，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。治療目標不是一律把 SpO2 維持超過 98%；過度氧氣可能無益，通常依病因與臨床狀況設定合適氧合目標。\n- B. 正確。緊急情境下可使用 capillary blood gas 作初步評估，特別在兒童抽動脈血困難時有實務價值。\n- C. 錯誤。呼吸衰竭核心是氧合不足或通氣不足，血氣常見低氧、二氧化碳滯留與呼吸性酸中毒，不是以代謝性酸中毒為主。\n- D. 錯誤。胸部 X 光可找病因或併發症，但兩側全花白不是呼吸衰竭的通用診斷標準。\n\n【核心考點】\n呼吸衰竭診斷靠臨床與氧合/換氣評估；兒童急診可用微血管血氣輔助，治療不等於一律追求 SpO2 >98%。",
+      "key_point": "兒童呼吸衰竭緊急評估可用微血管血氣輔助，重點是氧合與換氣而非固定 X 光表現。",
+      "flashcard_front": "兒童呼吸衰竭可用哪種血氣替代動脈血？",
+      "flashcard_back": "急診或抽血困難時可用 capillary blood gas 作初步評估。",
+      "flashcard_summary": "Pediatric respiratory failure -> capillary blood gas can help in urgent care",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\n次發性腎上腺功能不全是下視丘或腦垂體 ACTH 刺激不足，或外源性類固醇抑制 HPA 軸。先天性腎上腺增生症是腎上腺本身酵素缺陷，屬原發性腎上腺問題，因此最不可能造成次發性腎上腺功能不全，答案為 A。\n\n【選項詳解】\n- A. 正確。先天性腎上腺增生症是腎上腺皮質合成 cortisol 的酵素缺陷，ACTH 常反而升高，屬原發性而非次發性。\n- B. 錯誤。長期服用 prednisolone 後突然停藥會造成 HPA 軸被抑制，ACTH 反應不足，形成次發性腎上腺功能不全。\n- C. 錯誤。前腦無裂畸形可合併下視丘或腦垂體發育異常，造成 ACTH 缺乏。\n- D. 錯誤。腦垂體放射線治療可破壞垂體功能，造成 ACTH 分泌不足與次發性腎上腺功能不全。\n\n【核心考點】\nPrimary adrenal insufficiency 是腎上腺本身壞掉；secondary 是 ACTH 不足或 HPA 軸抑制。CAH 屬原發性腎上腺合成缺陷。",
+      "key_point": "CAH 是原發性腎上腺皮質酵素缺陷，不是次發性 ACTH 不足。",
+      "flashcard_front": "次發性腎上腺功能不全的來源？",
+      "flashcard_back": "下視丘/腦垂體 ACTH 不足或長期類固醇抑制 HPA 軸；CAH 屬原發性。",
+      "flashcard_summary": "Secondary adrenal insufficiency -> pituitary/ACTH/HPA suppression, not CAH",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n維生素 D 來源包括日照皮膚合成、飲食與補充。高緯度冬季 UVB 不足，會明顯降低皮膚合成，是正常生長嬰兒發生維生素 D 缺乏的重要危險因子，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。純母乳哺育到 2 個月後若改有足量配方奶或補充，風險不如長期純母乳且未補充維生素 D 明顯。\n- B. 正確。高緯度冬季陽光角度低，UVB 不足，皮膚合成維生素 D 減少。\n- C. 錯誤。母親哺乳期間補充維生素 D 可改善母嬰維生素 D 狀態，方向上是保護而非危險因子。\n- D. 錯誤。深色皮膚因黑色素吸收 UVB 較多，合成維生素 D 較少；皮膚白皙不是典型危險因子。\n\n【核心考點】\n嬰兒維生素 D 缺乏風險包括日照不足、高緯度冬季、深色皮膚、長期純母乳未補充與母體缺乏。",
+      "key_point": "高緯度冬季 UVB 不足會降低皮膚合成維生素 D，是嬰兒缺乏的重要危險因子。",
+      "flashcard_front": "嬰兒維生素 D 缺乏的日照風險？",
+      "flashcard_back": "高緯度、冬季、日照少、深色皮膚都會降低皮膚維生素 D 合成。",
+      "flashcard_summary": "Vitamin D deficiency -> high latitude winter and low UVB",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n本題官方更正為一律給分，表示原選項可能有時效或敘述爭議。依常規知識，antigenic drift 可見於 A、B 型流感；B 型傳統上分 Victoria 與 Yamagata lineage；H7N9 屬禽流感而非季節流感；oseltamivir 是 neuraminidase inhibitor，不是 cap-dependent endonuclease inhibitor。\n\n【選項詳解】\n- A. 可疑。Antigenic drift 不是只會發生在 A 型流感病毒，B 型也會發生抗原變異，只是速度通常較 A 型慢。\n- B. 可作為歷史敘述。B 型流感傳統上分為 Victoria 與 Yamagata lineage；但近年 Yamagata 是否仍持續流行有公共衛生時效性，因此本題被更正為全給分。\n- C. 錯誤。H7N9 是禽流感病毒株，屬人畜共通感染風險，不是一般季節性流感病毒。\n- D. 錯誤。Oseltamivir 是 neuraminidase inhibitor；cap-dependent endonuclease inhibitor 的代表是 baloxavir。\n\n【核心考點】\n流感題要分清 drift/shift、A/B 型 lineage、季節性流感與禽流感，以及 oseltamivir 屬 neuraminidase inhibitor。",
+      "key_point": "本題官方一律給分；常規配對是 oseltamivir = neuraminidase inhibitor，baloxavir = cap-dependent endonuclease inhibitor。",
+      "flashcard_front": "流感抗病毒藥物機轉：oseltamivir vs baloxavir？",
+      "flashcard_back": "Oseltamivir 是 neuraminidase inhibitor；baloxavir 是 cap-dependent endonuclease inhibitor。",
+      "flashcard_summary": "Influenza -> all-credit correction; oseltamivir NI, baloxavir CEN inhibitor",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "官方更正：第28題一律給分；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-4_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n發燒是下視丘體溫設定點上升造成的調節性反應，感染、發炎與腫瘤都可透過 pyrogen/cytokine 引發，但說這是唯一機轉太絕對；臨床還要區分高熱、藥物、熱中暑與中樞調節異常等情境，因此答案為 C。\n\n【選項詳解】\n- A. 錯誤。人體體溫有日夜節律與個體差異，肛溫超過 38°C 常作為發燒定義。\n- B. 錯誤。體溫調節中樞位於下視丘，尤其是前下視丘相關區域。\n- C. 正確。感染、發炎與腫瘤產生 pyrogen 是常見機轉，但不能說是唯一原因；過熱症候群或中樞調節異常不完全等同典型 pyrogen-mediated fever。\n- D. 錯誤。適度發燒可抑制部分微生物生長並促進免疫反應，因此在演化與感染防禦上有一定益處。\n\n【核心考點】\nFever 是設定點上升，hyperthermia 是散熱失敗或產熱過多；選項出現唯一、一律等絕對詞時要特別小心。",
+      "key_point": "發燒常由 pyrogen 使下視丘設定點上升，但發熱相關狀態不只有感染發炎腫瘤一種機轉。",
+      "flashcard_front": "Fever 和 hyperthermia 的關鍵差別？",
+      "flashcard_back": "Fever 是下視丘設定點上升；hyperthermia 是產熱過多或散熱失敗，設定點不一定上升。",
+      "flashcard_summary": "Fever -> hypothalamic set-point; not every high temperature is pyrogen fever",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\nADHD 診斷靠臨床症狀、跨情境功能受損與病程，而非腦波。DSM 診斷要求注意力不足或過動衝動症狀持續至少 6 個月，且造成發展程度不相稱的功能影響，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。EEG 不是 ADHD 診斷必要條件；只有懷疑癲癇或其他神經問題時才另行評估。\n- B. 錯誤。學齡前兒童也可能診斷 ADHD，但需謹慎評估發展年齡、環境與行為治療需求。\n- C. 錯誤。ADHD 症狀常可持續到青春期甚至成人期，不能說 60% 到 80% 到青春期都不持續。\n- D. 正確。相關症狀需持續超過 6 個月，並在多個情境造成明顯功能受損，才符合診斷方向。\n\n【核心考點】\nADHD 是臨床診斷：症狀至少 6 個月、跨情境、影響功能，且需排除年齡不相稱或其他疾病解釋。",
+      "key_point": "ADHD 診斷要求症狀至少 6 個月並造成跨情境功能受損，不需要例行 EEG。",
+      "flashcard_front": "ADHD 診斷病程要求？",
+      "flashcard_back": "注意力不足或過動衝動症狀需持續至少 6 個月，且造成不相稱功能受損。",
+      "flashcard_summary": "ADHD diagnosis -> clinical symptoms lasting at least 6 months",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

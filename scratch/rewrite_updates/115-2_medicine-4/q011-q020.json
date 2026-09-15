@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-4.json",
+  "dataset_id": "115-2_medicine-4",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-4_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\nSupravalvular aortic stenosis 合併 peripheral pulmonary stenosis 是 Williams syndrome 的典型心血管線索。此症也可有特殊臉型、發展遲緩、高血鈣與外向社交特質，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。Noonan syndrome 常見肺動脈瓣狹窄、肥厚型心肌病與翼狀頸，不是最典型的 supravalvular aortic stenosis。\n- B. 正確。Williams syndrome 與 elastin 基因區域缺失相關，典型血管病變就是主動脈瓣上狹窄，可合併周邊肺動脈狹窄。\n- C. 錯誤。Turner syndrome 典型心血管病變包括二尖瓣主動脈瓣、主動脈縮窄與主動脈擴張風險。\n- D. 錯誤。CHARGE syndrome 重點是 coloboma、heart defect、choanal atresia、growth retardation、genital/ear anomalies，不以此組合最典型。\n\n【核心考點】\n看到 supravalvular aortic stenosis，特別合併周邊肺動脈狹窄，要優先想到 Williams syndrome 與 elastin 異常。",
+      "key_point": "Supravalvular aortic stenosis 合併 peripheral pulmonary stenosis 是 Williams syndrome 的典型線索。",
+      "flashcard_front": "Supravalvular AS + peripheral pulmonary stenosis 想到？",
+      "flashcard_back": "Williams syndrome，常與 elastin 基因區域缺失相關。",
+      "flashcard_summary": "Williams syndrome -> supravalvular AS + peripheral pulmonary stenosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n大 VSD 常在肺血管阻力下降後出現肺血流過多與心衰竭，嬰兒會有餵食困難、冒汗、呼吸急促與體重增加不良。本題 1 個月只從 3.5 kg 到 4 kg，較提示生長不佳，因此答案為 A。\n\n【選項詳解】\n- A. 正確。足月嬰兒出生後 1 個月通常應有明顯體重增加；若 VSD 嬰兒增重不佳，要懷疑心衰竭造成餵食耗力與熱量消耗增加。\n- B. 錯誤。平靜呼吸 40 次/分對 1 個月嬰兒仍可在可接受範圍，單獨看不強烈暗示心衰竭。\n- C. 錯誤。平靜心跳 120/min 對嬰兒並不一定異常，不能作為本題最有力的心衰竭證據。\n- D. 錯誤。肋緣下 1 公分肝臟在嬰兒可為正常觸診範圍；明顯肝腫大才較支持鬱血性心衰竭。\n\n【核心考點】\n嬰兒 VSD 心衰竭常用生長不良、餵食困難、盜汗、呼吸急促與明顯肝大判斷；單純正常範圍內的心跳呼吸不夠特異。",
+      "key_point": "嬰兒 VSD 若出現體重增加不良，要懷疑肺血流過多造成心衰竭。",
+      "flashcard_front": "嬰兒 VSD 何者提示心衰竭？",
+      "flashcard_back": "體重增加不良、餵食困難、盜汗、呼吸急促與明顯肝大。",
+      "flashcard_summary": "VSD CHF -> poor weight gain is an early clue",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題考腸道胚胎發育範圍。中腸發展自遠端十二指腸到近端三分之二橫結腸，不包含全段橫結腸；遠端三分之一橫結腸以下屬後腸，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。食道、胃與近端十二指腸來自前腸，是正確的胚胎分區。\n- B. 錯誤。降結腸與上段肛管來自後腸；肛管下段則與外胚層來源的肛凹相關。\n- C. 錯誤。腸神經系統主要由神經嵴細胞由顱側往尾側遷移；尾端遷移失敗可造成 Hirschsprung disease。\n- D. 正確。小腸屬中腸，但橫結腸只有近端三分之二屬中腸，不能說全段橫結腸都由中腸發展。\n\n【核心考點】\n腸道來源分界：foregut 到近端十二指腸，midgut 到近端三分之二橫結腸，hindgut 從遠端三分之一橫結腸到上段肛管。",
+      "key_point": "中腸只形成近端三分之二橫結腸，不包含全段橫結腸。",
+      "flashcard_front": "中腸發育範圍到哪裡？",
+      "flashcard_back": "從遠端十二指腸到近端三分之二橫結腸；遠端橫結腸以下屬後腸。",
+      "flashcard_summary": "Gut embryology -> midgut ends at proximal 2/3 transverse colon",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n本題官方更正接受 C、D 或 CD 給分。兒童吞食異物處置重點在位置、症狀、物品種類與大小；食道異物、鈕扣電池與長物都較不能放任觀察，胃內單枚錢幣則多可先追蹤。\n\n【選項詳解】\n- A. 錯誤。異物仍在食道即使症狀不明顯，也有嵌塞、壓迫與黏膜傷害風險，通常不宜單純觀察 24 小時。\n- B. 錯誤。鈕扣電池可快速造成鹼性灼傷、壓迫壞死與穿孔；若在食道需緊急移除，不能因體積小就以觀察為主。\n- C. 正確。單枚錢幣已進入胃內且病童無症狀時，多可先觀察排出；若長時間未排出或有症狀，再考慮內視鏡移除。\n- D. 正確。長條異物通過幽門與十二指腸彎曲處困難，青少年或成人胃內長物達一定長度時，建議以內視鏡先移除；本題官方也接受 D。\n\n【核心考點】\n食道異物與鈕扣電池要積極處理；胃內無症狀單枚錢幣可觀察，長物或尖銳物則傾向內視鏡移除。",
+      "key_point": "吞食異物依位置與物品決定處置；食道電池急移除，胃內單枚錢幣可追蹤，長物多需內視鏡。",
+      "flashcard_front": "兒童吞食異物：哪些不能單純觀察？",
+      "flashcard_back": "食道異物、鈕扣電池、尖銳物與胃內長物較需積極處理；無症狀胃內單枚錢幣可先觀察。",
+      "flashcard_summary": "Foreign body ingestion -> esophageal/battery urgent; gastric coin observe; long object remove",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": [
+        "官方更正：第14題答 C、D 或 CD 均給分；未改動原答案欄位。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-4_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n膽道閉鎖需早期辨識與手術，典型線索是持續黃疸、灰白便與直接膽紅素上升。東亞地區發生率較西方高，選項 B 說西方較高不正確，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。淡黃色或灰白色糞便提示膽汁無法進入腸道，應懷疑膽道閉鎖或其他膽汁滯留疾病。\n- B. 正確。膽道閉鎖在東亞族群發生率較高；說西方國家比東亞高，與流行病學不符。\n- C. 錯誤。肝切片常見膽管增生、膽汁栓塞與門脈區纖維化，膽管增生是重要病理線索。\n- D. 錯誤。葛西手術越早越好，常以 60 天內完成為重要目標，延誤會降低膽汁引流與預後。\n\n【核心考點】\n新生兒持續黃疸合併灰白便要快篩膽道閉鎖；早期診斷、60 天內葛西手術與東亞較高發生率是常考點。",
+      "key_point": "膽道閉鎖東亞較常見，灰白便需早期警覺並爭取 60 天內葛西手術。",
+      "flashcard_front": "膽道閉鎖的高產考點？",
+      "flashcard_back": "灰白便、直接膽紅素上升、膽管增生、東亞較多、早期葛西手術。",
+      "flashcard_summary": "Biliary atresia -> acholic stool, ductular proliferation, early Kasai",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n嬰幼兒阻塞性尿路疾病評估通常以超音波、排尿性膀胱尿道攝影、核醫腎功能與必要時腎盂攝影來釐清解剖與功能。靜脈注射腎盂攝影需顯影劑與輻射，且在腎功能差或嬰幼兒評估中已較少作為合適工具，因此答案為 A。\n\n【選項詳解】\n- A. 正確。IVP 在嬰幼兒阻塞性尿路疾病中較不適合，解析度、腎功能依賴、顯影劑與輻射都限制其使用。\n- B. 錯誤。VCUG 可評估膀胱輸尿管逆流與後尿道瓣膜，是兒童泌尿道結構評估常用檢查。\n- C. 錯誤。前行性腎盂攝影可在需要時直接描繪阻塞位置，常用於已放置腎造廔或介入評估情境。\n- D. 錯誤。核醫掃描可評估分腎功能與引流狀態，對阻塞與腎功能保存判斷有價值。\n\n【核心考點】\n兒童阻塞性尿路疾病先用非侵入與功能性工具評估；IVP 因顯影劑、輻射與腎功能依賴，已不是理想首選。",
+      "key_point": "嬰幼兒 obstructive uropathy 較不適合 IVP；VCUG、核醫掃描與必要時腎盂攝影更常用。",
+      "flashcard_front": "嬰幼兒阻塞性尿路疾病較不適合哪項影像？",
+      "flashcard_back": "靜脈注射腎盂攝影（IVP）因顯影劑、輻射與腎功能依賴較不理想。",
+      "flashcard_summary": "Obstructive uropathy imaging -> IVP less suitable in infants",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n多囊性腎發育不全多為單側腎臟被許多不相通囊腫取代，常在產前或新生兒期被發現。題目問最不適當敘述，說它通常是雙側異常不對，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。對側腎可能合併膀胱輸尿管逆流、腎盂輸尿管交界阻塞或其他泌尿道異常，需追蹤。\n- B. 正確。MCDK 多為單側；雙側嚴重病變會造成羊水過少與肺發育不全，通常不符合一般存活新生兒的典型表現。\n- C. 錯誤。MCDK 是新生兒腹部腫塊的重要常見原因之一，常由產前超音波發現。\n- D. 錯誤。雖然高血壓與腫瘤風險不常見，但臨床仍會以腎臟超音波與血壓、對側腎功能追蹤。\n\n【核心考點】\nMCDK 典型是單側、非相通多囊腎組織，重點是追蹤對側腎、血壓與腎功能，而不是把它想成通常雙側。",
+      "key_point": "多囊性腎發育不全多為單側，需追蹤對側泌尿道異常與血壓腎功能。",
+      "flashcard_front": "MCDK 最典型是單側還雙側？",
+      "flashcard_back": "多為單側；雙側嚴重病變常不利存活。",
+      "flashcard_summary": "MCDK -> usually unilateral; contralateral anomalies possible",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n兒童泌尿道感染風險包括泌尿道結構異常、排便排尿功能問題與如廁訓練期間的憋尿或清潔問題。男童割包皮後 UTI 風險通常下降，因此最不適當的是 D。\n\n【選項詳解】\n- A. 錯誤。膀胱輸尿管逆流、阻塞或其他結構異常會造成尿液滯留或逆流，是重要 UTI 危險因子。\n- B. 錯誤。便秘會壓迫膀胱並造成排尿不完全，也會增加腸道菌污染與泌尿感染風險。\n- C. 錯誤。如廁訓練期間可能因憋尿、排尿協調不佳或清潔習慣未成熟而增加 UTI 機會。\n- D. 正確。未割包皮男嬰 UTI 風險較高；割包皮通常是降低而非增加男童 UTI 風險的因素。\n\n【核心考點】\n兒童 UTI 風險要想到結構異常、便秘、排尿功能障礙與未割包皮男嬰；割包皮本身不是危險因子。",
+      "key_point": "割包皮男童 UTI 風險通常較低；未割包皮才是男嬰 UTI 風險因子之一。",
+      "flashcard_front": "兒童 UTI 危險因子中哪個方向常考？",
+      "flashcard_back": "結構異常、便秘、如廁訓練/排尿功能障礙會增加；割包皮通常降低男童 UTI 風險。",
+      "flashcard_summary": "Pediatric UTI risk -> anatomic abnormality, constipation, toilet training; circumcision protective",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n發燒 7 天、結膜充血無分泌物、嘴唇乾裂草莓舌、皮疹與頸部淋巴結，符合 Kawasaki disease。此病常有發炎指標上升、血小板後期上升、低白蛋白或低血鈉，並可能有無菌性膿尿；高血鈉不是典型，因此答案為 B。\n\n【選項詳解】\n- A. 錯誤。黏膜皮膚淋巴腺綜合症就是 Kawasaki disease 的舊稱，題幹表現相當吻合。\n- B. 正確。Kawasaki disease 可見低血鈉、白血球上升、CRP/ESR 上升與血小板變化；高血鈉不是常見實驗室特徵。\n- C. 錯誤。Kawasaki disease 可能造成冠狀動脈擴張或動脈瘤，診斷後需安排心臟超音波追蹤。\n- D. 錯誤。無菌性膿尿可因尿道或腎臟間質發炎出現，是 Kawasaki disease 可見的伴隨檢查異常。\n\n【核心考點】\nKawasaki disease 是長燒合併結膜、口唇、皮疹、四肢與淋巴結變化；要做心超，實驗室較常見發炎與低血鈉而非高血鈉。",
+      "key_point": "Kawasaki disease 常見長燒、黏膜結膜皮疹與淋巴結，需心超；高血鈉不是典型實驗室表現。",
+      "flashcard_front": "Kawasaki disease 常見但容易被考的實驗室/檢查？",
+      "flashcard_back": "發炎指標上升、後期血小板上升、可低血鈉與無菌性膿尿；需心臟超音波。",
+      "flashcard_summary": "Kawasaki -> long fever, mucocutaneous findings, echo; not hypernatremia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-4_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\nHenoch-Schönlein purpura 現稱 IgA vasculitis，典型表現是可觸性紫斑、關節痛、腹痛與腎臟侵犯。嗜中性白血球低下不是此病常見臨床表現，因此答案為 D。\n\n【選項詳解】\n- A. 錯誤。關節痛或關節炎很常見，尤其影響膝、踝等下肢關節。\n- B. 錯誤。腸壁血管炎可造成腹痛、腸胃道出血，少數可有腸套疊等併發症。\n- C. 錯誤。IgA 沉積造成腎炎時可出現血尿、蛋白尿，是需要追蹤的預後重點。\n- D. 正確。嗜中性白血球低下不是 IgA vasculitis 的典型四大表現，也不是主要診斷線索。\n\n【核心考點】\nIgA vasculitis 四大重點是 palpable purpura、arthralgia、abdominal pain、renal involvement；neutropenia 不屬典型表現。",
+      "key_point": "IgA vasculitis 常見紫斑、關節痛、腹痛與腎臟侵犯；嗜中性白血球低下不典型。",
+      "flashcard_front": "IgA vasculitis 的典型臨床四聯？",
+      "flashcard_back": "可觸性紫斑、關節痛/關節炎、腹痛、血尿或蛋白尿。",
+      "flashcard_summary": "IgA vasculitis -> purpura, joints, abdomen, kidney; not neutropenia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-15T23:37:41+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
