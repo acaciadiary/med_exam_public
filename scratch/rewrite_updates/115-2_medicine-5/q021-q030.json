@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n急性脊髓損傷的處理重點是固定脊椎、維持灌流與氧合、影像確認、並在有壓迫或不穩定時評估早期減壓。高劑量 steroid 已不再是無爭議的標準治療。\n\n【選項詳解】\n- A. 錯誤。Corticosteroids 對 acute SCI 的長期功能改善證據有限且有感染、出血等風險，不能說已被證實明顯改善並應列為標準治療。\n- B. 錯誤。疑似頸椎損傷在未排除骨折或不穩定前不能為了壓瘡風險就早早移除頸圈，需先安全固定與評估。\n- C. 正確。不完全脊髓損傷合併壓迫時，24 小時內早期手術減壓可能改善神經恢復，是重要處置方向。\n- D. 錯誤。疑似 acute SCI 初始評估骨折與排列常先用 CT；MRI 對脊髓、韌帶、椎間盤與血腫較敏感，但不是所有疑似病例的第一個影像。\n\n【核心考點】\nAcute SCI：固定、維持灌流、CT 評估骨傷，必要時 MRI 看神經軟組織；不完全損傷合併壓迫可考慮 24 小時內減壓。",
+      "key_point": "不完全急性脊髓損傷合併壓迫時，早期減壓可能改善神經功能；steroid 不是常規標準答案。",
+      "flashcard_front": "Acute SCI",
+      "flashcard_back": "不完全急性脊髓損傷合併壓迫時，早期減壓可能改善神經功能；steroid 不是常規標準答案。",
+      "flashcard_summary": "Acute SCI：immobilize, CT first for bone, early decompression when compressed",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\nCervical myelopathy 是頸髓受壓或病變造成的上運動神經元表現。典型線索包括步態不穩、手部精細動作變差、反射亢進、spasticity、clonus 或 Babinski sign。\n\n【選項詳解】\n- A. 錯誤。頸椎脊髓病變常可在 MRI 看到椎管狹窄、脊髓受壓或訊號改變；若完全沒有狹窄，診斷需重新評估。\n- B. 錯誤。Myelopathy 屬上運動神經元病變，深部肌腱反射常上升；反射下降較像周邊神經或神經根問題。\n- C. 正確。肌肉痙攣、clonus、反射亢進等是頸髓病變常見的上運動神經元徵象。\n- D. 錯誤。感覺異常可出現，包含麻木、本體感覺差或感覺層次變化，不能說感覺一定正常。\n\n【核心考點】\n頸椎 myelopathy 是脊髓病變，考點是上運動神經元徵象：hyperreflexia、spasticity、clonus、步態不穩。",
+      "key_point": "Cervical myelopathy 常有 hyperreflexia、spasticity、clonus 等上運動神經元徵象。",
+      "flashcard_front": "Cervical myelopathy",
+      "flashcard_back": "Cervical myelopathy 常有 hyperreflexia、spasticity、clonus 等上運動神經元徵象。",
+      "flashcard_summary": "Cervical myelopathy：upper motor neuron signs, not decreased reflexes",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\nGlioma 常具浸潤性，會沿白質束擴散，這正是完全切除困難的原因。手術多追求最大安全切除，而不是保證完整根除。\n\n【選項詳解】\n- A. 正確。許多原發性腦腫瘤源自神經膠質細胞或支持細胞，統稱 glioma。\n- B. 錯誤，因此為本題要選的敘述。膠質瘤沿白質束浸潤代表邊界不清，常無法完全切除；功能區附近更需保留神經功能。\n- C. 正確。放療、化療與標靶策略會依腫瘤級別、組織型、分子標記與病人狀態調整。\n- D. 正確。兒童 diffuse pontine glioma 可侵犯腦幹，表現為多發腦神經麻痺、長束徵象與小腦症狀。\n\n【核心考點】\nGlioma 的浸潤性使完整切除困難；治療目標是最大安全切除加上依病理與分子特徵安排後續治療。",
+      "key_point": "Glioma 常沿白質束浸潤，因此多難以完全手術切除。",
+      "flashcard_front": "Glioma",
+      "flashcard_back": "Glioma 常沿白質束浸潤，因此多難以完全手術切除。",
+      "flashcard_summary": "Glioma：infiltrative along white matter tracts -> complete resection difficult",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\nDural arteriovenous fistula 是硬腦膜動脈與靜脈竇或皮質靜脈的異常連通。其危險性取決於靜脈回流型態；若有 cortical venous reflux，可能出血或神經缺損。\n\n【選項詳解】\n- A. 錯誤，因此為本題要選的敘述。DAVF 可出現頭痛、耳鳴、眼症狀或神經缺損，也可能破裂出血；不能說不會出血。\n- B. 不作為本題最不適當的敘述。DAVF 與 AVM 都是動靜脈短路性病灶，臨床上需鑑別；嚴格說 DAVF 不一定會直接「變成」典型腦實質 AVM，因此本句也有用語不精準處。\n- C. 正確。Carotid-cavernous fistula 可被歸在硬腦膜動靜脈瘻管相關分類中，特別是間接型。\n- D. 正確。靜脈竇栓塞或靜脈高壓被認為與部分 DAVF 形成有關。\n\n【核心考點】\nDAVF 不是單純頭痛疾病；有皮質靜脈逆流時出血風險升高。判斷危險性要看靜脈引流型態，且需留意 DAVF 與 AVM 名詞不宜混用。",
+      "key_point": "Dural AV fistula 可因皮質靜脈逆流造成出血，不能說不會破裂出血。",
+      "flashcard_front": "Dural AVF",
+      "flashcard_back": "Dural AV fistula 可因皮質靜脈逆流造成出血，不能說不會破裂出血。",
+      "flashcard_summary": "Dural AVF：risk depends on venous drainage; cortical venous reflux can bleed",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "B 選項把 DAVF 與 AVM 的關係寫得不夠標準；已保留官方答案 A，建議人工留意。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\nNF1 是常見神經皮膚症候群，為 autosomal dominant，基因位於 17q11.2。NF1 可有 neurofibroma、optic pathway glioma，並增加 malignant peripheral nerve sheath tumor 風險。\n\n【選項詳解】\n- A. 正確。NF1 多為體染色體顯性遺傳，但也可見新發突變。\n- B. 正確。NF1 gene 位於 chromosome 17q11.2，編碼 neurofibromin。\n- C. 正確。NF1 病人有發展成 MPNST 的風險，常考約 8% 到 13% 的量級，10% 是常見考試描述。\n- D. 錯誤，因此為本題要選的敘述。NF1 與 glioma，尤其 optic pathway glioma 有關；schwannoma 更典型與 NF2 相關，但說 NF1 與 glioma 無關不正確。\n\n【核心考點】\nNF1：17q11.2、neurofibromin、cafe-au-lait、neurofibroma、optic glioma、MPNST 風險。NF2 才特別想到 bilateral vestibular schwannoma。",
+      "key_point": "NF1 位於 17q11.2，與 optic glioma 及 MPNST 風險相關；雙側 vestibular schwannoma 較屬 NF2。",
+      "flashcard_front": "NF1",
+      "flashcard_back": "NF1 位於 17q11.2，與 optic glioma 及 MPNST 風險相關；雙側 vestibular schwannoma 較屬 NF2。",
+      "flashcard_summary": "NF1：17q11.2, optic glioma, MPNST risk; NF2 -> vestibular schwannoma",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nCongenital melanocytic nevi 的惡性轉化風險與大小相關，巨型 CMN 風險最高。常用分類中成人預估直徑超過 20 cm 屬 giant CMN。\n\n【選項詳解】\n- A. 錯誤。小於 1.5 cm 屬小型 CMN，黑色素瘤風險最低。\n- B. 錯誤。1.5 到 10 cm 風險較小型高一些，但不是最高風險群。\n- C. 錯誤。11 到 20 cm 屬中大型範圍，仍低於 giant CMN 的典型風險。\n- D. 正確。直徑大於 20 cm 的 giant CMN 惡性變化風險最高，也需注意 neurocutaneous melanosis。\n\n【核心考點】\nCMN 越大，黑色素瘤與神經皮膚黑色素增生風險越高；考試常把 giant CMN 的切點放在成人預估直徑大於 20 cm。",
+      "key_point": "Giant congenital melanocytic nevus 通常以直徑大於 20 cm 為高風險切點。",
+      "flashcard_front": "CMN",
+      "flashcard_back": "Giant congenital melanocytic nevus 通常以直徑大於 20 cm 為高風險切點。",
+      "flashcard_summary": "CMN：giant >20 cm -> highest melanoma risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\nGuyon canal syndrome 是尺神經在腕部 Guyon canal 受壓造成的症候群。它會影響 ulnar nerve 的感覺或手內在肌，不會造成正中神經壓迫。\n\n【選項詳解】\n- A. 正確。Guyon canal 的邊界包含 pisiform、hook of hamate、piso-hamate ligament 與 palmar carpal ligament 等結構。\n- B. 錯誤，因此為本題要選的敘述。Guyon canal 內主要通過 ulnar nerve 與 ulnar artery；median nerve 壓迫是 carpal tunnel syndrome 的考點。\n- C. 正確。局部敲擊引發麻電感的 Tinel sign 可出現在 Guyon canal 處。\n- D. 正確。Ganglion、giant cell tumor、ulnar artery thrombosis 或職業性壓迫都可能造成尺神經在 Guyon canal 受壓。\n\n【核心考點】\nGuyon canal 壓迫的是 ulnar nerve；carpal tunnel 壓迫的是 median nerve。腕部神經壓迫題先定位通道與神經。",
+      "key_point": "Guyon canal syndrome 是腕部尺神經壓迫，不是正中神經壓迫。",
+      "flashcard_front": "Guyon canal",
+      "flashcard_back": "Guyon canal syndrome 是腕部尺神經壓迫，不是正中神經壓迫。",
+      "flashcard_summary": "Guyon canal：ulnar nerve compression; carpal tunnel：median nerve",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\nHydrofluoric acid 燒傷會讓 fluoride ion 深入組織並結合鈣鎂，造成劇烈疼痛與低鈣風險。表淺皮膚暴露常先反覆塗抹 calcium gluconate gel，直到疼痛緩解。\n\n【選項詳解】\n- A. 正確。2.5% calcium gluconate gel 常建議約每 15 分鐘反覆塗抹並按摩，直到疼痛明顯緩解；疼痛持續代表 fluoride 仍在作用。\n- B. 錯誤。30 分鐘間隔太長，可能延誤 fluoride ion 的局部中和。\n- C. 錯誤。60 分鐘不符合一般表淺 HF 皮膚暴露的初始處理頻率。\n- D. 錯誤。90 分鐘更不適合急性疼痛與組織毒性控制。\n\n【核心考點】\nHF 燒傷不是一般酸灼傷；fluoride 會結合鈣鎂並造成深部傷害。表淺傷口可用 calcium gluconate gel 頻繁塗抹，疼痛不退要升級治療。",
+      "key_point": "Hydrofluoric acid 皮膚暴露使用 2.5% calcium gluconate gel 時，常約每 15 分鐘重複塗抹至疼痛緩解。",
+      "flashcard_front": "HF burn",
+      "flashcard_back": "Hydrofluoric acid 皮膚暴露使用 2.5% calcium gluconate gel 時，常約每 15 分鐘重複塗抹至疼痛緩解。",
+      "flashcard_summary": "HF burn：calcium gluconate gel q15 min until pain relief",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n疤痕品質與張力、方向、感染、異物、膠原沉積及縫合層次有關。縫合時最重要的是讓真皮層精準對合並降低張力，表皮只是最後對齊外觀。\n\n【選項詳解】\n- A. 正確。肥厚性疤痕與蟹足腫都與膠原過度堆積、傷口張力與個人體質有關。\n- B. 正確。肥厚性疤痕通常侷限於原傷口範圍並可能逐漸成熟；蟹足腫會超出原傷口且較不會自然退縮。六個月停止生長是簡化但可用的區分概念。\n- C. 錯誤，因此為本題要選的敘述。傷口強度主要來自真皮層，精準對合 dermis、減少 dead space 與張力比單純對齊 epidermis 更重要。\n- D. 正確。可吸收縫線因材料分解與組織反應，通常比不可吸收縫線引起較多局部發炎。\n\n【核心考點】\n美容縫合的重點是 dermal approximation 與 tension control。表皮對齊影響外觀，但真皮層才是傷口強度與疤痕品質的關鍵。",
+      "key_point": "縫合時最重要的是精準對合真皮層並降低張力，而不是只對齊表皮。",
+      "flashcard_front": "Scar formation",
+      "flashcard_back": "縫合時最重要的是精準對合真皮層並降低張力，而不是只對齊表皮。",
+      "flashcard_summary": "Scar formation：dermal approximation and low tension matter most",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\nABI 0.3 加上休息痛或組織缺血外觀，代表嚴重周邊動脈阻塞或 critical limb-threatening ischemia。下一步要抗血小板、評估血管影像並討論再血管化；warfarin 不是此情境的常規第一線處置。\n\n【選項詳解】\n- A. 正確。動脈攝影或 CTA/MRA 可用來規劃 endovascular therapy 或 bypass。\n- B. 正確。Aspirin 屬抗血小板治療，可降低動脈粥樣硬化相關血栓事件，是 PAD 常用藥物。\n- C. 錯誤，因此為本題要選的處置。Warfarin 抗凝血不是穩定周邊動脈阻塞或慢性肢體缺血的標準初始治療，除非有其他適應症如心房顫動或栓塞來源。\n- D. 正確。ABI 0.3 且疼痛不能走路，需評估血管再通策略，包含腔內治療或繞道手術。\n\n【核心考點】\n嚴重 PAD/CLTI 的處理是抗血小板、風險因子控制、血管影像與再血管化評估；不要把動脈粥樣硬化缺血直接等同於 warfarin 適應症。",
+      "key_point": "ABI 0.3 代表嚴重缺血，應評估再血管化；warfarin 不是 PAD 的常規第一線治療。",
+      "flashcard_front": "Severe PAD",
+      "flashcard_back": "ABI 0.3 代表嚴重缺血，應評估再血管化；warfarin 不是 PAD 的常規第一線治療。",
+      "flashcard_summary": "Severe PAD：antiplatelet + vascular imaging/revascularization, not routine warfarin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

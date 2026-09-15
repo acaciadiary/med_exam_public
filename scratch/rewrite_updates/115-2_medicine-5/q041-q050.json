@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 41,
+    "end": 50
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n甲狀腺乳突癌手術範圍取決於腫瘤大小、雙側性、甲狀腺外侵犯、淋巴結狀態與是否需要後續 RAI。若計畫做 RAI，通常需要全甲狀腺或近全切除，單葉切除不足以達到 RAI 目的。\n\n【選項詳解】\n- A. 正確。高風險或雙側腫瘤常需 total 或 near-total thyroidectomy，以利疾病控制與後續追蹤。\n- B. 錯誤，因此為本題要選的敘述。RAI 需要足夠移除正常甲狀腺組織與腫瘤負荷，單葉切除不利於 RAI 治療與 thyroglobulin 追蹤。\n- C. 正確。1 到 4 cm、無甲狀腺外侵犯且 cN0 的 PTC，可依風險與病人條件選擇單葉切除或全甲狀腺切除。\n- D. 正確。低風險 papillary thyroid microcarcinoma 可考慮 active surveillance，尤其無侵犯或淋巴結轉移時。\n\n【核心考點】\nPTC 手術不是一律全切或一律單葉；需看風險分層與 RAI 需求。需要 RAI 時通常不能只做腫瘤側單葉切除。",
+      "key_point": "PTC 若需 RAI，通常需全甲狀腺或近全切除；低風險 1-4 cm 可在單葉與全切間個別化。",
+      "flashcard_front": "Papillary thyroid cancer",
+      "flashcard_back": "PTC 若需 RAI，通常需全甲狀腺或近全切除；低風險 1-4 cm 可在單葉與全切間個別化。",
+      "flashcard_summary": "Papillary thyroid cancer：RAI planned -> total/near-total thyroidectomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n病人有 3.23 cm 甲狀腺結節、不規則、顯微鈣化，屬惡性風險高的超音波特徵。能提供良惡性確定資訊的下一步是 ultrasound-guided FNA cytology。\n\n【選項詳解】\n- A. 錯誤。血中 thyroglobulin 不能可靠鑑別甲狀腺結節良惡性，較常用於甲狀腺癌術後追蹤。\n- B. 正確。細針抽吸細胞學是評估高風險甲狀腺結節良惡性的關鍵檢查。\n- C. 錯誤。核醫掃描主要評估功能性 hot nodule；多數甲狀腺癌為 cold nodule，但掃描不能排除惡性。\n- D. 錯誤。MRI 可看局部侵犯或解剖關係，但不是鑑別甲狀腺結節良惡性的第一線確診工具。\n\n【核心考點】\n甲狀腺結節有不規則邊緣、microcalcification、低回音或高度可疑特徵時，依大小門檻安排 FNA；thyroglobulin 不是初診鑑別工具。",
+      "key_point": "高風險超音波特徵的甲狀腺結節應做 FNA cytology；thyroglobulin 主要用於術後追蹤。",
+      "flashcard_front": "Thyroid nodule",
+      "flashcard_back": "高風險超音波特徵的甲狀腺結節應做 FNA cytology；thyroglobulin 主要用於術後追蹤。",
+      "flashcard_summary": "Thyroid nodule：suspicious US features -> FNA, not serum thyroglobulin",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n30 到 39 歲女性有可觸及乳房硬塊，影像評估通常先以乳房超音波為主，必要時搭配診斷性 mammogram。不能直接跳到手術或 MRI。\n\n【選項詳解】\n- A. 錯誤。FNA 可在特定情境使用，但對可疑實體病灶，影像分級後常以 core needle biopsy 取得組織診斷更完整；不宜未影像評估就直接 FNA。\n- B. 錯誤。懷疑惡性不代表直接手術切除；應先完成影像與切片診斷，以利分期與治療規劃。\n- C. 正確。30 歲以上未滿 40 歲的可觸及病灶，乳房超音波是重要初始檢查，必要時加做診斷性乳房攝影。\n- D. 錯誤。MRI 對高風險篩檢或問題解決有角色，但不是一般可觸及乳房硬塊的第一線初始檢查。\n\n【核心考點】\n年輕女性可觸及乳房腫塊先做目標超音波；30 歲以上可依情況加診斷性 mammogram。可疑影像再用 core needle biopsy 確診。",
+      "key_point": "30-39 歲可觸及乳房病灶先做乳房超音波，必要時搭配診斷性乳房攝影。",
+      "flashcard_front": "Palpable breast mass age 30-39",
+      "flashcard_back": "30-39 歲可觸及乳房病灶先做乳房超音波，必要時搭配診斷性乳房攝影。",
+      "flashcard_summary": "Palpable breast mass age 30-39：targeted ultrasound +/- diagnostic mammography",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n乳房 MRI 出現快速增強後 washout pattern 是惡性可疑動態增強特徵。下一步應取得組織診斷，通常用 core needle biopsy。\n\n【選項詳解】\n- A. 正確。可疑影像病灶需以粗針切片取得組織，確認病理與受體狀態後才能規劃治療。\n- B. 錯誤。PET-CT 不是 1.5 cm 可疑乳房病灶的初始確診工具，不能取代切片。\n- C. 錯誤。未有組織診斷前直接手術切除不利於完整治療規劃，尤其若需 neoadjuvant therapy。\n- D. 錯誤。MRI 已顯示 washout 可疑病灶，不能因 mammogram 陰性就只追蹤半年；緻密乳房或 MRI-only lesion 仍需處理。\n\n【核心考點】\nBI-RADS 可疑病灶的下一步是 tissue diagnosis。MRI washout pattern 提高惡性疑慮，應安排影像導引切片。",
+      "key_point": "乳房 MRI washout pattern 屬可疑惡性特徵，下一步是 core needle biopsy。",
+      "flashcard_front": "Breast MRI washout lesion",
+      "flashcard_back": "乳房 MRI washout pattern 屬可疑惡性特徵，下一步是 core needle biopsy。",
+      "flashcard_summary": "Breast MRI washout lesion：needs tissue diagnosis with core needle biopsy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\nInvasive lobular carcinoma 常以單列細胞浸潤，影像上可呈現不明顯、擴散性、邊界模糊或 architectural distortion，不一定形成清楚腫塊。\n\n【選項詳解】\n- A. 錯誤。清楚邊緣、單一腫塊比較不像 invasive lobular carcinoma 的典型影像陷阱。\n- B. 正確。小葉癌常呈擴散性分布、邊界不清，容易低估病灶範圍。\n- C. 錯誤。高回聲且血流增加不是小葉癌最典型的特殊影像描述。\n- D. 錯誤。均勻鈣化不是 invasive lobular carcinoma 的常見重點；ductal carcinoma in situ 更常考微鈣化。\n\n【核心考點】\nInvasive lobular carcinoma 影像常不形成清楚腫塊，可能多中心、多發或擴散性浸潤，範圍容易被 mammogram 或 ultrasound 低估。",
+      "key_point": "Invasive lobular carcinoma 常呈擴散性、邊界模糊或結構扭曲，不一定形成清楚腫塊。",
+      "flashcard_front": "Invasive lobular carcinoma",
+      "flashcard_back": "Invasive lobular carcinoma 常呈擴散性、邊界模糊或結構扭曲，不一定形成清楚腫塊。",
+      "flashcard_summary": "Invasive lobular carcinoma：diffuse, ill-defined, often underestimated",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n極低出生體重早產兒開始餵食後出現腹脹、血便、體溫不穩、呼吸暫停、心搏過慢與 pneumatosis intestinalis，典型是 NEC。初始處置是禁食、胃腸減壓、輸液、廣效抗生素與嚴密監測。\n\n【選項詳解】\n- A. 錯誤。NEC 需要腸道休息與靜脈抗生素，不能用口服抗生素處理。\n- B. 錯誤。腸道狹窄是 NEC 後期併發症評估；急性疑似 NEC 時不先做上消化道攝影確認狹窄。\n- C. 錯誤。沒有穿孔、腹膜炎或臨床惡化時，不是所有 NEC 都立即手術切除。\n- D. 正確。禁食、口胃管減壓、靜脈輸液、廣效抗生素與支持治療，是疑似 NEC 的初始處置。\n\n【核心考點】\nNEC 初始先 NPO、NG/OG decompression、IV fluids、broad-spectrum antibiotics。手術留給穿孔、腹膜炎、壞死或保守失敗。",
+      "key_point": "疑似 NEC 的初始處置是禁食、胃腸減壓、輸液與廣效靜脈抗生素。",
+      "flashcard_front": "NEC",
+      "flashcard_back": "疑似 NEC 的初始處置是禁食、胃腸減壓、輸液與廣效靜脈抗生素。",
+      "flashcard_summary": "NEC：NPO + gastric decompression + IV broad-spectrum antibiotics first",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n承上題，早產兒 NEC 若出現 portal venous gas、free air 與生命徵象不穩，代表穿孔與重症。題目強調「床邊」治療，極低體重且不穩定嬰兒可先做腹膜引流作為減壓與感染控制。\n\n【選項詳解】\n- A. 錯誤。正中開腹切除吻合對生命徵象不穩的極低體重新生兒負荷大，且急性污染環境下直接吻合風險高。\n- B. 錯誤。開腹與造口可用於可耐受手術者，但題目指定床邊處置與不穩定病況，較適合先腹膜引流。\n- C. 正確。床邊放置腹膜引流管可減壓、排出污染腹水，作為極低體重或不穩定 NEC 穿孔病人的緊急處置。\n- D. 錯誤。中央靜脈導管可作支持治療，但不能處理腸穿孔造成的腹腔污染與壓力問題。\n\n【核心考點】\nNEC 穿孔需外科處理；極低體重或不穩定的新生兒，床邊 peritoneal drainage 是重要選項，可作暫時或有時決定性處置。",
+      "key_point": "不穩定極低體重 NEC 穿孔病人可先床邊腹膜引流，減壓並控制感染。",
+      "flashcard_front": "NEC perforation unstable VLBW infant",
+      "flashcard_back": "不穩定極低體重 NEC 穿孔病人可先床邊腹膜引流，減壓並控制感染。",
+      "flashcard_summary": "NEC perforation unstable VLBW infant：bedside peritoneal drainage",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n疑似睪丸惡性腫瘤的處理重點是陰囊超音波、腫瘤指標、分期影像與 radical inguinal orchiectomy。追蹤最重要指標是 AFP、beta-hCG、LDH，不是 CEA 或 PSA。\n\n【選項詳解】\n- A. 正確。陰囊腫大需排除外傷、陰囊水腫、疝氣、附睪炎、扭轉等鑑別診斷。\n- B. 正確。惡性睪丸腫瘤標準手術是經鼠蹊部根除性睪丸切除，包含高位精索控制，避免經陰囊切開造成腫瘤播散。\n- C. 錯誤，因此為本題要選的敘述。睪丸腫瘤追蹤指標主要是 AFP、beta-hCG 與 LDH；CEA 與 PSA 不是最重要指標。\n- D. 正確。術前或治療前完成適當影像分期，有助於後續治療與追蹤規劃。\n\n【核心考點】\n睪丸癌標準術式是 radical inguinal orchiectomy；腫瘤指標背 AFP、beta-hCG、LDH。",
+      "key_point": "睪丸腫瘤指標是 AFP、beta-hCG、LDH；標準手術為 radical inguinal orchiectomy。",
+      "flashcard_front": "Testicular tumor",
+      "flashcard_back": "睪丸腫瘤指標是 AFP、beta-hCG、LDH；標準手術為 radical inguinal orchiectomy。",
+      "flashcard_summary": "Testicular tumor：AFP, beta-hCG, LDH; radical inguinal orchiectomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n幼兒黃綠色嘔吐代表膽汁性嘔吐，需懷疑腸旋轉不良併 midgut volvulus。都卜勒超音波若出現腸繫膜血管旋轉的 whirlpool sign，最支持 volvulus。\n\n【選項詳解】\n- A. 錯誤。Malrotation 是造成 volvulus 的基礎異常，但題目圖像若呈 whirlpool sign 與急性膽汁性嘔吐，最直接診斷是 volvulus。\n- B. 正確。Volvulus 會使腸繫膜與血管扭轉，造成膽汁性嘔吐並可能快速進展為腸缺血，是小兒外科急症。\n- C. 錯誤。Intussusception 常見陣發腹痛、果醬樣血便，超音波是 target sign 或 doughnut sign，不是腸繫膜血管旋轉。\n- D. 錯誤。腹腔內腫瘤可造成腹部腫塊或阻塞，但不解釋典型膽汁性嘔吐合併 whirlpool 型血管扭轉。\n\n【核心考點】\n小兒膽汁性嘔吐是 volvulus 警訊；超音波 whirlpool sign 支持 midgut volvulus，需要緊急處置。",
+      "key_point": "小兒膽汁性嘔吐合併超音波 whirlpool sign，優先想到 midgut volvulus。",
+      "flashcard_front": "Bilious vomiting infant/child",
+      "flashcard_back": "小兒膽汁性嘔吐合併超音波 whirlpool sign，優先想到 midgut volvulus。",
+      "flashcard_summary": "Bilious vomiting infant/child：whirlpool sign -> volvulus",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n尿道下裂是尿道開口位於陰莖腹側近端位置，常合併腹側包皮不足與 chordee。外觀重點是 dorsal hooded foreskin，也就是腹側包皮缺損。\n\n【選項詳解】\n- A. 錯誤。尿道下裂可合併陰莖腹側彎曲 ventral chordee，不是背面纖維黏連。\n- B. 正確。陰莖腹面包皮缺損、背側包皮帽狀堆積，是尿道下裂常見外觀特徵。\n- C. 錯誤。大多數單純尿道下裂不需要例行荷爾蒙與染色體核型分析；若合併雙側隱睪、嚴重近端尿道下裂或性別發育差異疑慮才需評估。\n- D. 錯誤。手術重點是矯正彎曲、重建尿道與外觀，不是重建尿道海綿體作為固定必要步驟。\n\n【核心考點】\nHypospadias 看腹側尿道開口、ventral chordee、ventral foreskin deficiency/dorsal hood。不要在未評估前做割包皮，因包皮可能用於修補。",
+      "key_point": "尿道下裂典型外觀是腹側包皮缺損與背側帽狀包皮，常合併 ventral chordee。",
+      "flashcard_front": "Hypospadias",
+      "flashcard_back": "尿道下裂典型外觀是腹側包皮缺損與背側帽狀包皮，常合併 ventral chordee。",
+      "flashcard_summary": "Hypospadias：ventral meatus, ventral foreskin deficiency, dorsal hood",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

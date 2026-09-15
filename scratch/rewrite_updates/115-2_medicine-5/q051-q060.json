@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 51,
+    "end": 60
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\nWilms tumor 是兒童腎母細胞瘤，與 WT1、WT2 區域異常最相關。其他選項分別連到神經母細胞瘤、Li-Fraumeni 或 MEN2/甲狀腺髓質癌等考點。\n\n【選項詳解】\n- A. 正確。WT1 位於 11p13，WT2 區域位於 11p15，與 Wilms tumor 及 WAGR、Denys-Drash、Beckwith-Wiedemann 等症候群相關。\n- B. 錯誤。N-MYC amplification 是 neuroblastoma 的重要預後因子。\n- C. 錯誤。p53 突變與 Li-Fraumeni syndrome、多種癌症風險相關，不是 Wilms tumor 最典型基因。\n- D. 錯誤。RET 突變常見於 MEN2、甲狀腺髓質癌與部分 Hirschsprung disease。\n\n【核心考點】\nWilms tumor 背 WT1/WT2；neuroblastoma 背 N-MYC；MEN2 背 RET。兒科腫瘤基因要成組記憶。",
+      "key_point": "Wilms tumor 最相關基因區域是 WT1、WT2。",
+      "flashcard_front": "Pediatric tumor genes",
+      "flashcard_back": "Wilms tumor 最相關基因區域是 WT1、WT2。",
+      "flashcard_summary": "Pediatric tumor genes：Wilms -> WT1/WT2; neuroblastoma -> N-MYC; MEN2 -> RET",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n左側結腸癌 cT3N0M0 代表腫瘤侵出肌層到腸周組織但無淋巴或遠端轉移。可切除結腸癌的標準治療是 oncologic colectomy 加區域淋巴結清除。\n\n【選項詳解】\n- A. 錯誤。新輔助化療可在特定局部晚期或研究情境考慮，但一般可切除 cT3N0 結腸癌不以它作為最標準下一步。\n- B. 錯誤。ESD 適合侷限於黏膜或極淺層、低風險的早期病灶；T3 已侵及腸壁外組織，不能局部內視鏡切除。\n- C. 正確。部分結腸切除合併根治性淋巴結清除，是可切除非轉移性結腸癌的主要治療。\n- D. 錯誤。術前同步化放療是直腸癌常見策略；結腸癌 cT3N0M0 通常不以 neoadjuvant CCRT 為標準。\n\n【核心考點】\n結腸癌和直腸癌治療不同。可切除 T3N0M0 結腸癌以 oncologic colectomy + lymph node dissection 為主；直腸癌才常考術前 CCRT。",
+      "key_point": "可切除 cT3N0M0 結腸癌標準治療是部分結腸切除加區域淋巴結清除。",
+      "flashcard_front": "Colon cancer cT3N0M0",
+      "flashcard_back": "可切除 cT3N0M0 結腸癌標準治療是部分結腸切除加區域淋巴結清除。",
+      "flashcard_summary": "Colon cancer cT3N0M0：oncologic colectomy with lymph node dissection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_053",
+      "question_number": 53,
+      "explanation": "【題幹解析】\n乙狀結腸扭轉若沒有腹膜炎或壞死，常可先大腸鏡減壓復位。但本題已有發燒、心跳快、反彈痛，代表可能缺血、壞死、穿孔或腹膜炎，不適合先做大腸鏡復位。\n\n【選項詳解】\n- A. 正確。腸阻塞或扭轉常有脫水與電解質異常，靜脈輸液與矯正是基本處置。\n- B. 錯誤，因此為本題要選的處置。有腹膜炎或敗血症徵象時，大腸鏡減壓可能延誤手術且增加穿孔風險。\n- C. 正確。發燒心跳快需懷疑敗血症，應抽血培養並給予抗生素。\n- D. 正確。局部反彈痛提示腹膜刺激，應安排緊急剖腹探查或手術處理。\n\n【核心考點】\nSigmoid volvulus：穩定且無腹膜炎可內視鏡減壓；有腹膜炎、缺血、穿孔或敗血症時直接手術。",
+      "key_point": "乙狀結腸扭轉若有腹膜炎或敗血症徵象，不應先做大腸鏡復位，需手術。",
+      "flashcard_front": "Sigmoid volvulus",
+      "flashcard_back": "乙狀結腸扭轉若有腹膜炎或敗血症徵象，不應先做大腸鏡復位，需手術。",
+      "flashcard_summary": "Sigmoid volvulus：endoscopic detorsion only if no peritonitis/ischemia",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n腹腔鏡氣腹最常用 CO2，因不易燃、血中溶解度高且相對容易由肺排出。CO2 吸收後造成高碳酸血症與呼吸性酸中毒時，主要靠肺部通氣排出，不是靠腎臟直接排出碳酸來快速矯正。\n\n【選項詳解】\n- A. 正確。CO2 是目前最常用氣腹氣體。\n- B. 正確。臨床常用 12 到 15 mmHg 左右壓力取得視野，同時避免過高壓力造成靜脈回流下降與呼吸循環影響。\n- C. 錯誤，因此為本題要選的敘述。CO2 進入血液後主要透過肺部增加通氣排出；腎臟對酸鹼有慢性調節角色，但不是術中快速清除 CO2 的主要途徑。\n- D. 正確。充氣太快或腹膜牽拉可刺激迷走神經，造成心搏過緩或低血壓，處理包括暫停充氣、放氣、給 atropine 等。\n\n【核心考點】\nCO2 氣腹造成 hypercarbia 時調呼吸器，不是靠腎臟即時排出。氣腹壓力與充氣速度都會影響循環。",
+      "key_point": "CO2 氣腹造成的 hypercarbia 主要靠肺通氣排出；腎臟不是術中快速矯正的主要器官。",
+      "flashcard_front": "Pneumoperitoneum",
+      "flashcard_back": "CO2 氣腹造成的 hypercarbia 主要靠肺通氣排出；腎臟不是術中快速矯正的主要器官。",
+      "flashcard_summary": "Pneumoperitoneum：CO2 absorbed -> ventilatory elimination; pressure 12-15 mmHg",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n遠端胃癌部分胃切除加 D2 淋巴結清除會處理胃周與主要供血血管旁淋巴結，但不會把上腸繫膜動脈當作需結紮血管。SMA 是供應中腸的重要大血管，結紮會造成災難性腸缺血。\n\n【選項詳解】\n- A. 錯誤，因此為本題要選的敘述。右胃、右胃網膜、左胃等血管可依手術範圍處理；但 superior mesenteric artery 不屬遠端胃切除需結紮的血管。\n- B. 正確。遠端胃切除包含幽門、胃竇與安全切緣，實際範圍依腫瘤位置決定。\n- C. 正確。重建可採 Billroth I 胃十二指腸吻合或 Billroth II/Roux-en-Y 胃空腸吻合。\n- D. 正確。D2 清除涵蓋胃周與主要血管旁淋巴結；胃癌手術也要求足夠淋巴結數，常以至少 15 顆作分期品質門檻。\n\n【核心考點】\n胃癌 D2 清除是清淋巴結，不是任意結紮大血管。遠端胃切除不會結紮 SMA。",
+      "key_point": "遠端胃癌 D2 手術不會結紮上腸繫膜動脈；SMA 供應中腸，結紮會造成嚴重缺血。",
+      "flashcard_front": "Distal gastrectomy D2",
+      "flashcard_back": "遠端胃癌 D2 手術不會結紮上腸繫膜動脈；SMA 供應中腸，結紮會造成嚴重缺血。",
+      "flashcard_summary": "Distal gastrectomy D2：lymphadenectomy around named vessels, not SMA ligation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n本題問骨代謝疾病何者最適當。Gaucher disease 是 lysosomal storage disease，可造成肝脾腫大、貧血血小板低下與骨痛、骨梗塞或骨壞死。\n\n【選項詳解】\n- A. 錯誤。Brown tumor 是副甲狀腺亢進造成骨吸收後的反應性病灶，診斷需結合血鈣、PTH、影像與臨床，不能靠局部腫瘤採樣單獨確認。\n- B. 正確。Gaucher disease 為家族性 glucocerebrosidase 缺陷疾病，可造成肝脾腫大與骨梗塞、骨痛、骨壞死。\n- C. 錯誤。Paget disease 的 viral inclusion 概念較與 osteoclast 異常有關，不是 osteoblast 出現包涵體。\n- D. 錯誤。Paget disease 好發於中老年人，X 光可見 osteolytic 與 osteoblastic 混合變化，不是年輕族群好發。\n\n【核心考點】\nGaucher disease：glucocerebrosidase deficiency、hepatosplenomegaly、bone crisis/infarct。Paget disease 好發老人且以 osteoclast 活性異常起始。",
+      "key_point": "Gaucher disease 可造成肝脾腫大與骨梗塞；Paget disease 好發中老年人。",
+      "flashcard_front": "Gaucher disease",
+      "flashcard_back": "Gaucher disease 可造成肝脾腫大與骨梗塞；Paget disease 好發中老年人。",
+      "flashcard_summary": "Gaucher disease：hepatosplenomegaly and bone infarct",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n髖臼 AP view 的線條包含 iliopectineal line、ilioischial line、acetabular roof、anterior/posterior wall 等。官方答案指出選項 C 不適當，代表圖中編號 5 並非髖臼頂。\n\n【選項詳解】\n- A. 正確。Iliopectineal line 代表 anterior column/anterior wall 相關輪廓，沿髂骨至恥骨上支方向延伸，是骨盆 AP 片重要標記。\n- B. 正確。Ilioischial line 代表 posterior column 內側輪廓，與髖臼後柱判讀有關。\n- C. 錯誤，因此為本題要選的敘述。依官方圖示，編號 5 的實線不是 acetabular roof；髖臼頂通常是負重區上方的 sourcil/roof 輪廓。\n- D. 正確。Posterior lip 的邊緣在 AP view 上常呈較外側或特定輪廓線，可用於判讀後壁位置與骨折。\n\n【核心考點】\n骨盆 AP 片判讀髖臼要分 anterior column、posterior column、roof、前後壁。圖形題應以官方標號為準，不能只靠文字名稱硬背。",
+      "key_point": "髖臼 AP view 要能區分 iliopectineal line、ilioischial line、acetabular roof 與前後壁。",
+      "flashcard_front": "Acetabular AP landmarks",
+      "flashcard_back": "髖臼 AP view 要能區分 iliopectineal line、ilioischial line、acetabular roof 與前後壁。",
+      "flashcard_summary": "Acetabular AP landmarks：iliopectineal, ilioischial, roof, anterior/posterior wall",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\nDupuytren contracture 是掌腱膜纖維增生與攣縮，常見於男性、年長者、北歐或歐洲血統者，常侵犯無名指與小指的 MCP/PIP 關節。\n\n【選項詳解】\n- A. 正確。男性較常見，且常有家族與族群差異。\n- B. 錯誤，因此為本題要選的敘述。Dupuytren contracture 在歐洲人，特別北歐血統，比亞洲人常見。\n- C. 正確。早期無明顯功能受限可觀察、復健或保守處理；進展到攣縮影響功能才考慮注射或手術。\n- D. 正確。常侵犯掌指關節，也可影響近端指間關節，造成手指屈曲攣縮。\n\n【核心考點】\nDupuytren contracture：男性、歐洲血統、掌腱膜結節與攣縮、MCP/PIP flexion contracture。",
+      "key_point": "Dupuytren contracture 在歐洲血統較常見，常侵犯 MCP/PIP 關節造成屈曲攣縮。",
+      "flashcard_front": "Dupuytren contracture",
+      "flashcard_back": "Dupuytren contracture 在歐洲血統較常見，常侵犯 MCP/PIP 關節造成屈曲攣縮。",
+      "flashcard_summary": "Dupuytren contracture：European ancestry, male, MCP/PIP flexion contracture",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_059",
+      "question_number": 59,
+      "explanation": "【題幹解析】\n肩關節複合體的穩定性來自骨性結構、盂唇、韌帶、關節囊與肌肉。上肢與中軸骨骼唯一真正骨性連接是胸鎖關節，透過鎖骨連到胸骨。\n\n【選項詳解】\n- A. 錯誤。Glenohumeral ligaments 是關節囊增厚形成的韌帶樣結構，不是界線非常清楚、平行排列的獨立帶狀韌帶。\n- B. 錯誤。Scapulothoracic articulation 是功能性關節，不是真正具有關節囊與滑液腔的 synovial joint。\n- C. 正確。鎖骨透過 sternoclavicular joint 連接上肢帶與 axial skeleton，是唯一骨性連接。\n- D. 錯誤。Glenoid 關節面積遠小於 humeral head，約只涵蓋一部分，因此肩關節活動度高但骨性穩定度低，需盂唇與軟組織補強。\n\n【核心考點】\n肩帶唯一骨性連接是 clavicle-sternum 的胸鎖關節；scapulothoracic 是功能性滑動面，不是真正滑液關節。",
+      "key_point": "鎖骨是上肢與中軸骨骼唯一骨性連接；scapulothoracic articulation 是功能性關節。",
+      "flashcard_front": "Shoulder anatomy",
+      "flashcard_back": "鎖骨是上肢與中軸骨骼唯一骨性連接；scapulothoracic articulation 是功能性關節。",
+      "flashcard_summary": "Shoulder anatomy：clavicle via SC joint is only bony link to axial skeleton",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n先天性脊柱側彎的進展風險取決於畸形型態與生長潛力。Unilateral unsegmented bar 合併對側 hemivertebra 是高風險組合，會因一側無法生長、對側持續生長而快速惡化。\n\n【選項詳解】\n- A. 錯誤。年齡小代表剩餘生長多，對高風險畸形反而更容易進展，單純觀察不適合。\n- B. 錯誤。先天性骨性畸形對背架反應有限，背架難以阻止 unilateral bar + hemivertebra 的進展。\n- C. 錯誤。牽引可用於特定僵硬或術前矯正情境，但不是此高風險先天畸形的主要治療判斷。\n- D. 正確。Unilateral bar 加對側 hemivertebra 常快速惡化，需早期手術如 hemiepiphysiodesis、切除或融合策略以阻止進展。\n\n【核心考點】\n先天性 scoliosis 最怕 unilateral unsegmented bar with contralateral hemivertebra。年紀越小剩餘生長越多，進展風險越高。",
+      "key_point": "Unilateral bar 合併對側 hemivertebra 是快速惡化的先天性脊柱側彎型態，常需早期手術。",
+      "flashcard_front": "Congenital scoliosis",
+      "flashcard_back": "Unilateral bar 合併對側 hemivertebra 是快速惡化的先天性脊柱側彎型態，常需早期手術。",
+      "flashcard_summary": "Congenital scoliosis：unilateral bar + contralateral hemivertebra = high progression",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

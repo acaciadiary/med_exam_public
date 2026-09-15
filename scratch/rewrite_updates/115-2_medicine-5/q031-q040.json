@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n慢性下肢潰瘍常分動脈性、靜脈性與神經病變性。靜脈潰瘍典型位在內踝附近的小腿下段；足部潰瘍較常見於糖尿病神經病變或動脈缺血。\n\n【選項詳解】\n- A. 錯誤。動脈潰瘍常疼痛明顯；靜脈潰瘍可酸脹不適但不一定非常痛，糖尿病神經病變潰瘍甚至可疼痛不明顯。\n- B. 正確。靜脈潰瘍多在 gaiter area，尤其內踝周圍；足部不是典型位置。\n- C. 錯誤。動脈潰瘍可發生在足趾、足部壓力點，也可在小腿遠端或受壓處，不能說很少發生在腿部。\n- D. 錯誤。糖尿病會增加周邊動脈疾病、神經病變與感染風險，腿足潰瘍影響通常更高而非更低。\n\n【核心考點】\n靜脈潰瘍看內踝周圍與水腫色素沉著；動脈潰瘍看足趾遠端、缺血痛、脈搏差；糖尿病潰瘍常有神經病變與感染風險。",
+      "key_point": "靜脈潰瘍典型位於內踝周圍小腿下段，足部潰瘍較常見於動脈缺血或糖尿病神經病變。",
+      "flashcard_front": "Leg ulcer",
+      "flashcard_back": "靜脈潰瘍典型位於內踝周圍小腿下段，足部潰瘍較常見於動脈缺血或糖尿病神經病變。",
+      "flashcard_summary": "Leg ulcer：venous medial gaiter area; arterial/diabetic often foot or pressure points",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\nCABG 使用 radial artery 的優點是長期通暢率常優於大隱靜脈，但橈動脈屬肌性動脈，較容易痙攣，因此需使用血管擴張策略並選擇高度狹窄的目標血管以避免 competitive flow。\n\n【選項詳解】\n- A. 錯誤。Radial artery 通暢率通常不比大隱靜脈差；痙攣是需管理的問題，但不是讓其 5 年通暢率較差的理由。\n- B. 錯誤。Radial artery 對 competitive flow 較敏感，較適合接到高度狹窄的冠狀動脈；小於 60% 狹窄不理想。\n- C. 錯誤。Radial artery 可改善 graft patency，但不能說所有研究都顯示長期存活率優於大隱靜脈。\n- D. 正確。使用 radial artery 時常搭配 calcium channel blocker 或 nitrate 等血管擴張策略，以降低痙攣。\n\n【核心考點】\nRadial artery graft 是肌性動脈，優點是通暢率佳，缺點是痙攣與 competitive flow 敏感；要接高度狹窄目標並用血管擴張劑。",
+      "key_point": "Radial artery graft 需預防血管痙攣，且較適合接高度狹窄的冠狀動脈。",
+      "flashcard_front": "CABG radial artery",
+      "flashcard_back": "Radial artery graft 需預防血管痙攣，且較適合接高度狹窄的冠狀動脈。",
+      "flashcard_summary": "CABG radial artery：good patency but spasm-prone and competitive-flow sensitive",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n乳糜胸是胸管或淋巴系統受損造成 chyle 進入胸腔。成人常見原因包括手術或外傷，惡性腫瘤也是重要原因；若題目問最不適當，說「最常見原因為腫瘤侵犯」過於絕對，尤其在外科情境下術後損傷更常考。\n\n【選項詳解】\n- A. 正確。乳糜富含 triglyceride、chylomicron 與淋巴球，外觀常呈乳白色，主要成分與脂肪吸收有關。\n- B. 錯誤，因此為本題要選的敘述。乳糜胸原因包含胸管手術損傷、外傷與惡性腫瘤；在許多臨床分類中，術後或外傷性原因非常重要，不能一概說腫瘤侵犯最常見。\n- C. 正確。初始可禁食、低脂或中鏈三酸甘油酯飲食、TPN、胸腔引流與 octreotide；高流量或保守失敗時需手術或介入治療。\n- D. 正確。手術常見方式是經胸結紮 thoracic duct，依漏出位置與病人狀態決定路徑。\n\n【核心考點】\n乳糜胸先確認高 triglyceride/chylomicron，再看流量與原因。初始支持治療，持續高流量或失敗要及早結紮胸管或介入處理。",
+      "key_point": "乳糜胸可由手術損傷、外傷或腫瘤造成；不能把腫瘤侵犯一概說成最常見原因。",
+      "flashcard_front": "Chylothorax",
+      "flashcard_back": "乳糜胸可由手術損傷、外傷或腫瘤造成；不能把腫瘤侵犯一概說成最常見原因。",
+      "flashcard_summary": "Chylothorax：chyle high triglyceride; conservative first, thoracic duct ligation if persistent",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n縱膈腔神經源性腫瘤多位於後縱膈。成人多為良性 schwannoma 或 neurofibroma；兒童相對較常見神經母細胞瘤等惡性或未成熟腫瘤。\n\n【選項詳解】\n- A. 錯誤，因此為本題要選的敘述。兒童縱膈神經源性腫瘤的惡性比例較成人高，不是較低。\n- B. 正確。神經源性腫瘤典型位置是 posterior mediastinum，沿交感鏈、肋間神經或神經根生長。\n- C. 正確。成人最常見的縱膈神經源性腫瘤常是 schwannoma，多為良性。\n- D. 正確。Schwannoma 可來自胸腔內多種周邊神經，包括肋間神經、交感鏈或神經根。\n\n【核心考點】\n後縱膈腫瘤先想到 neurogenic tumor。成人多良性 schwannoma；兒童要更注意 neuroblastoma 等惡性腫瘤。",
+      "key_point": "縱膈神經源性腫瘤常在後縱膈；兒童惡性比例比成人高。",
+      "flashcard_front": "Posterior mediastinum",
+      "flashcard_back": "縱膈神經源性腫瘤常在後縱膈；兒童惡性比例比成人高。",
+      "flashcard_summary": "Posterior mediastinum：neurogenic tumors; children higher malignant risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n本題官方公告一律給分。脾切除後最典型增加的是莢膜菌感染，尤其 Streptococcus pneumoniae、Haemophilus influenzae type b、Neisseria meningitidis；Cryptococcus neoformans 不是 asplenia 最典型的莢膜菌考點。\n\n【選項詳解】\n- A. 公告給分但有疑義。醫學概念上肺炎鏈球菌是脾切除後最重要且常見的風險菌之一，並不屬於「比較不常見」。\n- B. 因公告一律給分而可被系統接受；但 Hib 也是脾切除後需預防的莢膜菌，通常會納入疫苗防護。\n- C. 可接受。Cryptococcus neoformans 有莢膜，但脾切除後經典重點不是它；若以 asplenia 常見感染來看，C 較接近題目原意。\n- D. 公告給分範圍包含此項；但 Neisseria meningitidis 是脾切除後需接種疫苗預防的重要莢膜菌，學理上並不適合當作不常見答案。\n\n【核心考點】\nAsplenia 先背三大莢膜菌：S. pneumoniae、Hib、N. meningitidis。遇到公告一律給分，答題系統接受所有選項，但學理上仍要記住經典高風險菌。",
+      "key_point": "脾切除後最重要的莢膜菌是 S. pneumoniae、Hib、N. meningitidis；本題官方一律給分。",
+      "flashcard_front": "Asplenia",
+      "flashcard_back": "脾切除後最重要的莢膜菌是 S. pneumoniae、Hib、N. meningitidis；本題官方一律給分。",
+      "flashcard_summary": "Asplenia：encapsulated bacteria SPN, Hib, meningococcus; all-credit item",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "官方公告本題一律給分；依 asplenia 經典感染風險，A/B/D 皆屬重要莢膜菌，C 較像原題想選的不常見項。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n胃腸道內分泌的 universal off switch 指 somatostatin。它可抑制胃酸、胰臟外分泌、腸道分泌與多種荷爾蒙釋放。\n\n【選項詳解】\n- A. 錯誤。Secretin 主要由十二指腸 S cells 分泌，促進胰臟 bicarbonate 分泌並抑制胃酸，但不是廣泛抑制多種內分泌激素的 universal off switch。\n- B. 錯誤。Motilin 促進 migrating motor complex，與禁食期腸胃蠕動相關。\n- C. 錯誤。VIP 會增加腸道水分與電解質分泌、放鬆平滑肌，VIPoma 可造成水樣腹瀉、低血鉀、胃酸低下。\n- D. 正確。Somatostatin 廣泛抑制胃酸、胰泌素、胰島素、升糖素、腸道分泌與多種 GI hormone，是典型 off switch。\n\n【核心考點】\nSomatostatin 是 GI endocrine brake；VIP 是 secretory diarrhea，motilin 是 MMC，secretin 是 bicarbonate。",
+      "key_point": "Somatostatin 是胃腸道內分泌的 universal off switch，可抑制胃酸、腸液與多種荷爾蒙。",
+      "flashcard_front": "GI hormones",
+      "flashcard_back": "Somatostatin 是胃腸道內分泌的 universal off switch，可抑制胃酸、腸液與多種荷爾蒙。",
+      "flashcard_summary": "GI hormones：somatostatin = universal off switch",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\nCaroli disease 是肝內膽管先天性 ductal plate malformation，造成肝內膽管囊狀擴張。題目問最適當，需避開把它說成肝硬化後天疾病或一律切肝治療的選項。\n\n【選項詳解】\n- A. 有部分正確但不是官方所選。Caroli disease 的病因確實是 ductal plate malformation；選項若強調「連續性」囊性擴張，和典型可呈節段性、囊狀或梭狀擴張的描述不完全精準。\n- B. 錯誤。Caroli disease 是先天性膽管異常，不是通常發生於肝硬化病人；它可與先天性肝纖維化與囊性腎病相關。\n- C. 正確。Caroli disease 多在兒童或年輕成人被發現，性別差異不明顯。\n- D. 錯誤。治療依分布與症狀決定；局部病灶可切除，瀰漫型或反覆膽管炎可能需肝移植，不能說一律以肝切除為主。\n\n【核心考點】\nCaroli disease 是先天性肝內膽管囊狀擴張，可反覆膽管炎與結石。治療看局部或瀰漫，不是所有病人都切肝。",
+      "key_point": "Caroli disease 是先天性肝內膽管囊狀擴張，多見於年輕人，治療依分布範圍決定。",
+      "flashcard_front": "Caroli disease",
+      "flashcard_back": "Caroli disease 是先天性肝內膽管囊狀擴張，多見於年輕人，治療依分布範圍決定。",
+      "flashcard_summary": "Caroli disease：ductal plate malformation with intrahepatic bile duct dilatation",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n胰臟惡性腫瘤手術要分 pancreatic adenocarcinoma 與 pancreatic neuroendocrine tumor。胰腺癌若有肝轉移通常不是根治性 Whipple 適應症；邊緣可切除胰癌多先做 neoadjuvant therapy。\n\n【選項詳解】\n- A. 錯誤。胰腺癌術中發現肝轉移通常代表全身性疾病，不宜硬做根治性切除。\n- B. 錯誤。Whipple procedure 常見重大併發症包括胰漏、胃排空延遲、出血等；膽汁滲漏不是最典型最常見併發症。\n- C. 正確。部分胰臟神經內分泌腫瘤若轉移侷限於肝臟、腫瘤生物學較合適且符合嚴格條件，可考慮肝臟移植或肝導向治療。\n- D. 錯誤。Borderline resectable pancreatic cancer 現代策略多傾向先 neoadjuvant chemotherapy 或 chemoradiation，再評估切除，以提高 R0 切除率。\n\n【核心考點】\n胰腺癌有遠端轉移通常不做根治切除；borderline resectable 多先新輔助治療。Pancreatic NET 的肝轉移管理與胰腺癌不同。",
+      "key_point": "Borderline resectable pancreatic cancer 多先新輔助治療；pancreatic NET 肝轉移在嚴格條件下可考慮肝移植。",
+      "flashcard_front": "Pancreatic malignancy",
+      "flashcard_back": "Borderline resectable pancreatic cancer 多先新輔助治療；pancreatic NET 肝轉移在嚴格條件下可考慮肝移植。",
+      "flashcard_summary": "Pancreatic malignancy：adenocarcinoma metastasis no curative Whipple; NET liver-limited may be treated aggressively",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n肝硬化病人接受肝癌切除，術前準備重點是評估肝功能、營養、凝血、感染預防與體液狀態。PTBD 主要用於膽道阻塞或需減黃疸情境，不是肝癌切除的必要常規準備。\n\n【選項詳解】\n- A. 正確。肝切除屬重大手術，依手術規範給予術前預防性抗生素可降低手術部位感染。\n- B. 錯誤，因此為本題要選的敘述。沒有膽道阻塞或黃疸需要處理時，PTBD 不是肝硬化肝癌切除前必要準備。\n- C. 正確。適當輸液與血流動力學管理可降低腎損傷與循環不穩風險，但需避免過度輸液。\n- D. 正確。肝硬化病人常有營養不良，術前營養優化可降低併發症。\n\n【核心考點】\n肝硬化肝切除術前要優化肝功能、營養、感染預防與循環狀態；PTBD 是膽道阻塞工具，不是常規必做。",
+      "key_point": "PTBD 用於膽道阻塞或減黃疸需求，不是肝硬化肝癌切除的必要術前準備。",
+      "flashcard_front": "HCC resection prep",
+      "flashcard_back": "PTBD 用於膽道阻塞或減黃疸需求，不是肝硬化肝癌切除的必要術前準備。",
+      "flashcard_summary": "HCC resection prep：nutrition, fluids, antibiotics; PTBD only when biliary indication",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\nTertiary hyperparathyroidism 是長期 secondary hyperparathyroidism 後，副甲狀腺變成自主分泌 PTH。最典型情境是慢性腎衰竭病人腎移植後，低鈣刺激解除但 PTH 仍過高。\n\n【選項詳解】\n- A. 錯誤。原發性副甲狀腺亢進成功治療後不會導致三級副甲狀腺亢進。\n- B. 錯誤。單純低血鈣可刺激 secondary hyperparathyroidism，但 tertiary 需要長期刺激後形成自主分泌。\n- C. 正確。慢性腎衰竭長期造成 secondary hyperparathyroidism，腎移植後若副甲狀腺仍自主分泌 PTH，即為 tertiary hyperparathyroidism 的經典情境。\n- D. 錯誤。甲狀腺切除後較擔心副甲狀腺低下造成低血鈣，不是 tertiary hyperparathyroidism。\n\n【核心考點】\nPrimary 是腺體自主；secondary 是低鈣或 CKD 代償；tertiary 是長期 secondary 後腺體自主，常在腎移植後看到。",
+      "key_point": "Tertiary hyperparathyroidism 常見於 CKD 長期 secondary HPT 後，腎移植後仍自主分泌 PTH。",
+      "flashcard_front": "Hyperparathyroidism",
+      "flashcard_back": "Tertiary hyperparathyroidism 常見於 CKD 長期 secondary HPT 後，腎移植後仍自主分泌 PTH。",
+      "flashcard_summary": "Hyperparathyroidism：tertiary = autonomous PTH after long secondary HPT, classically post-transplant",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

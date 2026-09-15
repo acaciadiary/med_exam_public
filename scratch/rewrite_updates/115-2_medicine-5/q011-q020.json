@@ -1,0 +1,146 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題為高解析度食道壓力圖形判讀，官方答案為 A，但目前 JSON 只保留圖形選項標籤，沒有實際壓力圖。依題目主軸，胃食道逆流病人常見的壓力檢查重點是下食道括約肌壓力低、食道胃交界屏障較弱或蠕動清除能力不足。\n\n【選項詳解】\n- A. 正確。官方圖形答案為 A；若圖中呈現較低 LES pressure、EGJ barrier 較弱或蠕動清除不佳，會較符合胃食道逆流的生理基礎。\n- B. 錯誤。未見圖形內容時不能精確判讀；若為 achalasia 典型圖會呈現 LES relaxation 異常與食道體部蠕動缺失，和一般 GERD 不同。\n- C. 錯誤。若圖形顯示強烈收縮或 spastic pattern，通常會偏向 motility disorder，而不是單純逆流。\n- D. 錯誤。若圖形代表正常 LES 與正常蠕動，不能解釋逆流病人的抗逆流屏障不足。\n\n【核心考點】\nHRM 判讀 GERD 時要看 EGJ/LES 抗逆流屏障與食道清除能力；但圖形題必須回到官方 PDF 圖像確認，不能只靠文字標籤判斷。",
+      "key_point": "GERD 的 HRM 線索常與 LES/EGJ 抗逆流屏障較弱或清除能力不足有關；本題仍需看官方圖。",
+      "flashcard_front": "GERD HRM",
+      "flashcard_back": "GERD 的 HRM 線索常與 LES/EGJ 抗逆流屏障較弱或清除能力不足有關；本題仍需看官方圖。",
+      "flashcard_summary": "GERD HRM：weak EGJ barrier or ineffective clearance; image option required",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "本題 A-D 為圖形選項，JSON 未含圖像內容；已保留官方答案 A，建議人工對照官方 PDF 圖。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n本題問橫膈肌損傷修補何者錯誤。急性外傷性橫膈膜破裂常合併腹內臟器損傷，因此穩定性、受傷機轉與是否需探查腹腔會決定手術路徑。\n\n【選項詳解】\n- A. 正確。鈍性橫膈肌損傷常經腹部切開或腹腔鏡探查，因為需同時評估脾、肝、腸胃道等腹內臟器傷害。\n- B. 正確。橫膈膜撕裂可用粗的不可吸收縫線修補，以承受呼吸運動造成的張力。\n- C. 錯誤，因此為本題要選的敘述。胸腔鏡不是所有橫膈肌損傷的首選；急性創傷若疑有腹內傷，經腹探查常更適合。\n- D. 正確。大範圍缺損或組織不足以直接關閉時，可使用人工或生物 mesh 加強修補。\n\n【核心考點】\n急性橫膈膜外傷的路徑選擇取決於合併傷與病人穩定度。不能把胸腔鏡視為所有橫膈膜損傷的固定首選。",
+      "key_point": "急性橫膈膜損傷常需經腹探查合併腹內傷；胸腔鏡不是所有類型的首選。",
+      "flashcard_front": "Diaphragm injury",
+      "flashcard_back": "急性橫膈膜損傷常需經腹探查合併腹內傷；胸腔鏡不是所有類型的首選。",
+      "flashcard_summary": "Diaphragm injury：approach depends on associated injuries, not always thoracoscopy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n本題問腹股溝疝氣危險因子何者最不適當。腹內壓增加、結締組織較弱或腹壁缺陷會增加疝氣風險；出生體重大於 3000 克本身不是典型危險因子。\n\n【選項詳解】\n- A. 正確。COPD 病人慢性咳嗽會反覆增加腹內壓，促進腹股溝疝氣形成或惡化。\n- B. 正確。肥胖可增加腹壁負荷與腹內壓，與疝氣風險增加相關。\n- C. 正確。腹水會長期提高腹內壓，使疝氣更容易出現或復發。\n- D. 錯誤，因此為本題要選的敘述。疝氣的兒科風險較常與早產、低出生體重、鞘狀突未閉等相關，出生體重大於 3000 克不是典型危險因子。\n\n【核心考點】\n腹股溝疝氣危險因子可用「腹內壓上升」與「腹壁或鞘狀突問題」思考；早產與低出生體重比高出生體重更有考試價值。",
+      "key_point": "腹股溝疝氣風險常來自腹內壓上升或腹壁缺陷；高出生體重不是典型危險因子。",
+      "flashcard_front": "Inguinal hernia",
+      "flashcard_back": "腹股溝疝氣風險常來自腹內壓上升或腹壁缺陷；高出生體重不是典型危險因子。",
+      "flashcard_summary": "Inguinal hernia：COPD, obesity, ascites increase pressure; prematurity/low birth weight in children",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nDumping syndrome 分早期與晚期。早期是高滲食糜快速進入小腸造成體液移動與血管運動症狀；晚期是餐後胰島素過度反應造成低血糖。治療先從飲食調整開始。\n\n【選項詳解】\n- A. 錯誤。Early dumping 主要不是低血糖，而是高滲內容物快速進入小腸造成腹部絞痛、腹瀉、心悸、頭暈等。\n- B. 錯誤。Late dumping 才是餐後反應性低血糖；高滲食物造成的體液移動屬 early dumping。\n- C. 正確。少量多餐、減少單醣、增加蛋白質與纖維、餐中少喝水等飲食調整，是 dumping syndrome 的第一線處理。\n- D. 錯誤。全胃切除可能造成或加重 dumping，不是治療 dumping syndrome 的常規手術。\n\n【核心考點】\nEarly dumping 是滲透壓與血管運動症狀；late dumping 是反應性低血糖。處理先用飲食治療，藥物或手術只在少數頑固個案考慮。",
+      "key_point": "Dumping syndrome 先以飲食治療；early 是高滲食糜快速進入小腸，late 是反應性低血糖。",
+      "flashcard_front": "Dumping syndrome",
+      "flashcard_back": "Dumping syndrome 先以飲食治療；early 是高滲食糜快速進入小腸，late 是反應性低血糖。",
+      "flashcard_summary": "Dumping syndrome：early osmotic symptoms, late hypoglycemia, diet first",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\nPneumatosis intestinalis 是影像徵象，不等於單一疾病。成人可見於良性、藥物、肺部疾病、腸缺血或惡性腫瘤相關狀況；但嬰兒出現時，尤其早產兒，需高度懷疑 necrotizing enterocolitis。\n\n【選項詳解】\n- A. 錯誤。腸壁積氣不一定要手術；要看有無腹膜炎、腸缺血、敗血症、門靜脈氣體、乳酸升高或穿孔。\n- B. 正確。嬰兒，尤其早產兒若有腸壁積氣，NEC 是最重要診斷之一。\n- C. 錯誤。許多腸壁積氣沒有腹膜炎；腹膜炎代表嚴重或需手術的警訊，但不是大多數個案都有。\n- D. 錯誤。腸壁積氣可與癌症、化療、免疫抑制或腸阻塞等情境相關，不能說與癌症沒有關聯。\n\n【核心考點】\nPneumatosis intestinalis 先判斷病人族群與危險徵象。嬰兒想到 NEC；成人則需用臨床穩定度判斷保守或手術。",
+      "key_point": "嬰兒腸壁積氣要懷疑 NEC；成人腸壁積氣不一定都需要手術。",
+      "flashcard_front": "Pneumatosis intestinalis",
+      "flashcard_back": "嬰兒腸壁積氣要懷疑 NEC；成人腸壁積氣不一定都需要手術。",
+      "flashcard_summary": "Pneumatosis intestinalis：infant -> consider NEC; surgery depends on danger signs",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n本題官方公告一律給分，因此系統接受 A、B、C、D。從生理學來看，CO2 氣腹的重點是 CO2 容易由腹膜吸收，可能造成 hypercarbia 與 respiratory acidosis，通常靠增加分鐘通氣量來矯正。\n\n【選項詳解】\n- A. 可接受但有疑義。官方一律給分；醫學概念上 CO2 其實容易被腹膜吸收，這也是腹腔鏡可能造成高碳酸血症的原因。\n- B. 可接受。肺功能正常時，增加呼吸速率或潮氣量可提高 CO2 排出，改善呼吸性酸中毒。\n- C. 可接受。肌肉等組織可作為 CO2 的重要緩衝與儲存空間，這是長時間氣腹時 CO2 負荷的概念之一。\n- D. 可接受但有疑義。高碳酸血症常可引起交感活化、心跳與血壓變化；嚴重或迷走刺激時也可能有心搏過緩，因此本選項需依題目原公告處理。\n\n【核心考點】\nCO2 氣腹會被吸收並增加 CO2 負荷；一般先靠通氣調整處理 hypercarbia。公告一律給分的題目要保留官方給分範圍，不自行改答案。",
+      "key_point": "CO2 氣腹可造成 hypercarbia，肺功能正常時以增加通氣排出 CO2；本題官方一律給分。",
+      "flashcard_front": "CO2 pneumoperitoneum",
+      "flashcard_back": "CO2 氣腹可造成 hypercarbia，肺功能正常時以增加通氣排出 CO2；本題官方一律給分。",
+      "flashcard_summary": "CO2 pneumoperitoneum：absorbed CO2 -> hypercarbia; increase ventilation; all-credit item",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "官方公告本題一律給分；A 與 D 依一般生理概念有疑義，建議人工留意。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n本題官方公告接受 C、D 或 CD，問的是術後腸麻痺何者錯誤。術後 ileus 常受電解質異常、感染發炎、opioid、手術刺激與活動不足影響，治療重點是矯正誘因與支持療法。\n\n【選項詳解】\n- A. 正確。低鉀、低鈉、低鎂都會影響腸道平滑肌與神經肌肉功能，矯正電解質是基本處置。\n- B. 正確。肺炎、腹膜炎、敗血症等感染與全身發炎會加重 ileus，控制感染是重要治療。\n- C. 錯誤，因此為官方可接受答案之一。咀嚼口香糖可縮短術後腸功能恢復時間的證據較支持輔助角色；erythromycin 對術後 ileus 並非穩定證實有效的標準治療。\n- D. 官方也接受。NSAID 可減少 opioid 使用，理論上降低 opioid-induced ileus，但題目文字把 NSAID 寫成「類固醇類消炎止痛藥」並不精確，可能是公告接受 D 的原因。\n\n【核心考點】\n術後 ileus 的處理是找誘因：電解質、感染、opioid、活動與手術壓力。藥物或口香糖不能取代基礎矯正與支持治療。",
+      "key_point": "術後 ileus 要矯正電解質與感染並減少 opioid；本題官方接受 C、D 或 CD。",
+      "flashcard_front": "Postoperative ileus",
+      "flashcard_back": "術後 ileus 要矯正電解質與感染並減少 opioid；本題官方接受 C、D 或 CD。",
+      "flashcard_summary": "Postoperative ileus：correct triggers; gum/erythromycin not definitive therapy; accepted C/D",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "官方公告本題答 C、D 或 CD 均給分；D 的 NSAID 中文描述可能造成判讀疑義。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n器官移植後晚期感染多與長期免疫抑制、潛伏病毒再活化與環境黴菌暴露有關。經常輸血本身不是典型的晚期感染主要危險因子。\n\n【選項詳解】\n- A. 正確。長期免疫抑制會削弱細胞免疫與體液免疫，增加 opportunistic infection 與一般感染風險。\n- B. 正確。受贈者既存 CMV、HBV、HCV、EBV 等感染或潛伏病毒，可在免疫抑制下再活化。\n- C. 正確。裝修環境可增加 Aspergillus 等黴菌孢子暴露，對移植病人是重要風險。\n- D. 錯誤，因此為本題要選的敘述。輸血可有輸血相關感染或免疫影響，但不是移植後晚期感染的典型核心危險因子。\n\n【核心考點】\n移植後晚期感染要想到免疫抑制強度、病毒再活化與環境黴菌暴露。時間軸與免疫狀態比單一住院處置更重要。",
+      "key_point": "移植後晚期感染風險主要來自長期免疫抑制、既存病毒與環境黴菌暴露。",
+      "flashcard_front": "Transplant late infection",
+      "flashcard_back": "移植後晚期感染風險主要來自長期免疫抑制、既存病毒與環境黴菌暴露。",
+      "flashcard_summary": "Transplant late infection：immunosuppression, latent viruses, construction mold exposure",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n移植排斥的免疫學重點是 HLA/MHC 與 T 細胞活化。人類 HLA 基因位於第 6 對染色體短臂；class I 主要呈現給 CD8 T 細胞，class II 主要呈現給 CD4 T 細胞。\n\n【選項詳解】\n- A. 正確。HLA 編碼人類 MHC，位於 chromosome 6p，對抗原呈現與移植相容性很重要。\n- B. 錯誤。Class I HLA 主要與 CD8 T 細胞互動；class II HLA 才主要與 CD4 T 細胞互動。\n- C. 錯誤。T 細胞活化的關鍵 cytokine 常考 IL-2；calcineurin-NFAT 路徑促進 IL-2 transcription，而不是以 IL-6 為主要記憶點。\n- D. 錯誤。Calcineurin inhibitor 抑制的是 T 細胞內 calcineurin 訊息傳遞與 IL-2 生成，不是阻斷 allorecognition 本身。\n\n【核心考點】\nHLA 在 6p；MHC I 對 CD8，MHC II 對 CD4。Tacrolimus/cyclosporine 抑制 calcineurin，降低 IL-2 與 T 細胞活化。",
+      "key_point": "HLA 基因位於第 6 對染色體短臂；MHC I 對 CD8，MHC II 對 CD4。",
+      "flashcard_front": "Transplant immunology",
+      "flashcard_back": "HLA 基因位於第 6 對染色體短臂；MHC I 對 CD8，MHC II 對 CD4。",
+      "flashcard_summary": "Transplant immunology：HLA 6p; class I-CD8; class II-CD4; CNI blocks IL-2 signaling",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n脾臟外傷或手術處置要先看病人血流動力學。穩定病人可用 CT 分級並考慮非手術治療或血管栓塞；不穩定病人需優先手術止血。\n\n【選項詳解】\n- A. 錯誤。脾切除後確實有 overwhelming postsplenectomy infection 風險，重點是疫苗、衛教與特定情境抗生素；不一定所有成人都需長期抗生素。\n- B. 錯誤。兒童脾臟外傷非手術治療成功率通常高於成人，因保脾策略更常成功。\n- C. 錯誤。血壓不穩定且嚴重脾破裂時，不能先依賴栓塞拖延；應以手術或損傷控制優先。\n- D. 正確。血流動力學穩定時，電腦斷層可評估脾臟損傷程度、血管外滲與是否適合非手術治療。\n\n【核心考點】\n脾臟外傷處置先問穩不穩定。穩定者 CT 分級並可保守或栓塞；不穩定者優先手術止血。",
+      "key_point": "脾臟外傷以血流動力學穩定度決定處置；穩定者 CT 評估，休克者優先手術。",
+      "flashcard_front": "Splenic trauma",
+      "flashcard_back": "脾臟外傷以血流動力學穩定度決定處置；穩定者 CT 評估，休克者優先手術。",
+      "flashcard_summary": "Splenic trauma：stable -> CT/nonoperative; unstable -> operative control",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

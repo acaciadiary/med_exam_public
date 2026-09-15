@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-5.json",
+  "dataset_id": "115-2_medicine-5",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-5_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n術後第一天傷口劇痛、發紅並有分泌物，題目要從 Gram stain 推回可能病原。Clostridium 屬是產芽孢的厭氧革蘭氏陽性桿菌，手術傷口若快速惡化、疼痛明顯，需想到 clostridial wound infection 或 gas gangrene。\n\n【選項詳解】\n- A. 正確。Clostridium 為革蘭氏陽性桿菌，且多為厭氧、產芽孢菌；在污染傷口或缺氧組織中可造成嚴重軟組織感染。\n- B. 錯誤。革蘭氏陽性球菌較常想到 Staphylococcus 或 Streptococcus，不是 Clostridium 的形態。\n- C. 錯誤。革蘭氏陰性桿菌包括 E. coli、Klebsiella、Pseudomonas 等，形態與染色特性都不符合梭狀芽孢菌。\n- D. 錯誤。革蘭氏陰性球菌典型代表是 Neisseria，與術後 clostridial wound infection 的病原特徵不符。\n\n【核心考點】\nClostridium 的關鍵辨識是「厭氧、產芽孢、革蘭氏陽性桿菌」。術後傷口快速疼痛惡化或壞死性軟組織感染時，要把 Gram stain 的形態先對上病原大類。",
+      "key_point": "Clostridium 屬是厭氧產芽孢的革蘭氏陽性桿菌。",
+      "flashcard_front": "術後傷口感染",
+      "flashcard_back": "Clostridium 屬是厭氧產芽孢的革蘭氏陽性桿菌。",
+      "flashcard_summary": "術後傷口感染：Clostridium -> Gram-positive rods",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n外傷氣胸的處置取決於氣胸大小、症狀與是否為張力性氣胸。少量皮下氣腫常代表空氣已從胸膜腔或肺實質傷口漏到皮下，因此在外傷情境下要懷疑氣胸。\n\n【選項詳解】\n- A. 錯誤。開放性氣胸若傷口形成單向瓣膜或通氣處理不當，仍可能演變成張力性氣胸。\n- B. 錯誤。張力性氣胸先以針刺減壓搶救，但針刺只是暫時解除壓力，之後通常仍需放置胸管做確定處置。\n- C. 正確。胸部 X 光看到少量皮下氣腫，在胸部外傷時常來自氣胸、肺裂傷或胸壁傷口漏氣，需進一步評估胸膜腔空氣。\n- D. 錯誤。不是所有 X 光可見氣胸都一定要胸管；少量、穩定且無明顯症狀的氣胸可依情境觀察與追蹤。\n\n【核心考點】\n張力性氣胸是臨床診斷與立即減壓的急症，針刺後通常接胸管；單純小量氣胸則看症狀、大小與外傷風險決定觀察或引流。",
+      "key_point": "外傷氣胸看到皮下氣腫時要懷疑胸膜腔漏氣；張力性氣胸針刺減壓後通常仍需胸管。",
+      "flashcard_front": "外傷氣胸",
+      "flashcard_back": "外傷氣胸看到皮下氣腫時要懷疑胸膜腔漏氣；張力性氣胸針刺減壓後通常仍需胸管。",
+      "flashcard_summary": "外傷氣胸：皮下氣腫提示漏氣，張力性氣胸需立即減壓並後續胸管",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題問甲狀腺手術併發症何者錯誤。單側喉返神經受損多造成聲音沙啞、嗆咳或聲帶麻痺；明顯呼吸困難較常見於雙側喉返神經受損、術後頸部血腫或氣道傷害。\n\n【選項詳解】\n- A. 錯誤，因此為本題要選的敘述。單側喉返神經損傷通常以聲音沙啞與單側聲帶麻痺為主，呼吸道阻塞風險不像雙側損傷那麼高。\n- B. 正確。若發生氣管或喉部相關氣道損傷，可能需要暫時或永久性氣管切開以維持呼吸道。\n- C. 正確。甲狀腺術後暫時性副甲狀腺功能低下常與腺體牽拉、缺血或暫時受損有關，多數會在數週到數月內恢復，6 個月內改善是合理描述。\n- D. 正確。術後頸部血腫可能快速壓迫氣管，是甲狀腺手術後需立即辨識的急症，必要時要立刻打開傷口減壓。\n\n【核心考點】\n甲狀腺術後立即危及呼吸的重點是頸部血腫、氣道損傷與雙側喉返神經麻痺；單側喉返神經損傷主要表現為聲音問題。",
+      "key_point": "單側喉返神經損傷多造成聲音沙啞；雙側損傷或頸部血腫才較易造成急性呼吸困難。",
+      "flashcard_front": "甲狀腺術後併發症",
+      "flashcard_back": "單側喉返神經損傷多造成聲音沙啞；雙側損傷或頸部血腫才較易造成急性呼吸困難。",
+      "flashcard_summary": "甲狀腺術後併發症：單側 RLN -> hoarseness；頸部血腫 -> airway emergency",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n腹腔內 desmoid fibromatosis 屬局部侵襲性纖維母細胞腫瘤，轉移極少見，但局部復發是臨床管理重點。題目問錯誤敘述，關鍵在於「不轉移」不能推論為「切除後不復發」。\n\n【選項詳解】\n- A. 正確。傳統治療曾以廣泛切除、取得陰性邊緣為主要策略，雖然近年也重視觀察與個別化治療。\n- B. 錯誤，因此為本題要選的敘述。Desmoid tumor 幾乎不轉移，但局部侵犯與局部復發常見，尤其腹腔內或與 FAP 相關病灶更需謹慎追蹤。\n- C. 正確。放射治療可用於無法完整切除、切除後殘存或局部控制困難的情境，但需考量部位與長期副作用。\n- D. 正確。全身治療可包括 NSAID、抗荷爾蒙、低劑量化療、TKI 或較強的化療，常用於不可切除、進展或症狀明顯病灶。\n\n【核心考點】\nDesmoid fibromatosis 的考點是「低轉移、高局部復發」。治療需依症狀、位置、進展速度與可切除性選擇觀察、手術、放療或全身治療。",
+      "key_point": "Desmoid tumor 幾乎不轉移，但局部復發與局部侵犯是主要問題。",
+      "flashcard_front": "Desmoid fibromatosis",
+      "flashcard_back": "Desmoid tumor 幾乎不轉移，但局部復發與局部侵犯是主要問題。",
+      "flashcard_summary": "Desmoid fibromatosis：low metastatic potential but locally recurrent",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n本題問 selenium 何者錯誤。Selenium 是 glutathione peroxidase 等 selenoprotein 的成分，作用是協助還原過氧化物、減少氧化傷害，不是增加細胞內過氧化氫。\n\n【選項詳解】\n- A. 錯誤，因此為本題要選的敘述。Selenium 透過 glutathione peroxidase 幫助將 hydrogen peroxide 與 lipid hydroperoxides 還原，保護細胞膜脂質；「增加過氧化氫」方向相反。\n- B. 正確。缺硒可造成生長遲緩、肌肉疼痛無力、肌病變與心肌病變，典型例子包括 Keshan disease 的心肌病變。\n- C. 正確。Selenium 參與免疫與甲狀腺激素代謝；缺乏可影響 selenoenzyme 活性與氧化還原平衡，進而影響 glutathione 系統。\n- D. 正確。Glutathione peroxidase 含 selenium，功能是將 peroxide 還原為水或相對較不具反應性的產物。\n\n【核心考點】\nSelenium 的高頻考點是抗氧化酵素與甲狀腺代謝。遇到「增加過氧化氫來保護細胞」要立刻判斷方向錯誤。",
+      "key_point": "Selenium 是 glutathione peroxidase 的重要成分，功能是清除而不是增加 peroxide。",
+      "flashcard_front": "Selenium",
+      "flashcard_back": "Selenium 是 glutathione peroxidase 的重要成分，功能是清除而不是增加 peroxide。",
+      "flashcard_summary": "Selenium：glutathione peroxidase cofactor -> antioxidant protection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n創傷性腦損傷要區分 primary injury 與 secondary injury。短暫昏迷後出現 lucid interval，再惡化，是硬腦膜上血腫的經典考點，常與中硬腦膜動脈受傷有關。\n\n【選項詳解】\n- A. 錯誤。Primary brain injury 是撞擊當下造成的結構損傷，治療主要在預防 secondary injury，如低氧、低血壓、腦壓上升，不能靠藥物逆轉原始破壞。\n- B. 錯誤。Epidural hematoma 常與顳骨骨折及 middle meningeal artery 出血有關；bridging veins 撕裂較典型造成 subdural hematoma。\n- C. 正確。頭部外傷後先昏迷、短暫清醒再惡化的 lucid interval，是 epidural hematoma 的重要臨床線索。\n- D. 錯誤。Corticosteroids 在 TBI 中未證實改善預後，且可能增加不良結果，不能作為例行治療。\n\n【核心考點】\nEpidural hematoma：middle meningeal artery、lucid interval、可能快速惡化。Subdural hematoma：bridging veins，常見於老人、酒精使用或腦萎縮族群。",
+      "key_point": "Epidural hematoma 常見 lucid interval，典型血管是 middle meningeal artery；bridging veins 屬 subdural hematoma。",
+      "flashcard_front": "TBI",
+      "flashcard_back": "Epidural hematoma 常見 lucid interval，典型血管是 middle meningeal artery；bridging veins 屬 subdural hematoma。",
+      "flashcard_summary": "TBI：epidural hematoma -> lucid interval; subdural -> bridging veins",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n不穩定心絞痛的重點是症狀變得更頻繁、更嚴重、更持久，或在休息、低強度活動時發生。若只在固定運動量時出現，反而較像穩定心絞痛。\n\n【選項詳解】\n- A. 正確。發作頻率增加是 crescendo angina 的表現，屬不穩定心絞痛警訊。\n- B. 正確。疼痛強度變大代表缺血門檻降低或病灶不穩定，符合不穩定心絞痛。\n- C. 錯誤，因此為本題要選的敘述。僅在運動時發生、且模式固定，較符合穩定心絞痛；不穩定心絞痛可在休息或輕微活動時發作。\n- D. 正確。疼痛持續時間變長，代表缺血負荷增加，是不穩定型表現。\n\n【核心考點】\n穩定心絞痛是可預測、活動誘發、休息或硝酸鹽緩解；不穩定心絞痛是新發、惡化、休息時發作或持續更久。",
+      "key_point": "不穩定心絞痛常有頻率、強度、持續時間增加或休息時發作；固定運動誘發較像穩定心絞痛。",
+      "flashcard_front": "Angina",
+      "flashcard_back": "不穩定心絞痛常有頻率、強度、持續時間增加或休息時發作；固定運動誘發較像穩定心絞痛。",
+      "flashcard_summary": "Angina：unstable = crescendo/rest/new-onset pattern",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\nStanford type B 主動脈剝離位於左鎖骨下動脈以遠。若沒有破裂、持續疼痛、器官缺血、下肢缺血或神經學併發症，屬 uncomplicated type B，主要先以內科降壓與降低剪力治療。\n\n【選項詳解】\n- A. 錯誤。緊急開放手術主要用於 type A 或 complicated type B；本題明確沒有缺血或神經學併發症。\n- B. 錯誤。主動脈支架 TEVAR 常用於 complicated type B，例如破裂、持續疼痛、灌流不良或快速擴大； uncomplicated 病人不一定立即置放。\n- C. 正確。積極控制血壓與心跳、降低 aortic wall shear stress，是 uncomplicated type B dissection 的初始核心治療。\n- D. 錯誤。心包膜穿刺處理的是心包填塞，較與 ascending aorta/type A 破裂入心包相關；本題是 type B 且未描述心包填塞。\n\n【核心考點】\n主動脈剝離先分 type A 與 type B，再分 complicated 與 uncomplicated。Uncomplicated type B 以藥物控制血壓心跳為主；type A 或 complicated type B 才需侵入性處置。",
+      "key_point": "無併發症的 Stanford type B 主動脈剝離以降壓、降心跳、降低剪力為初始治療。",
+      "flashcard_front": "Aortic dissection",
+      "flashcard_back": "無併發症的 Stanford type B 主動脈剝離以降壓、降心跳、降低剪力為初始治療。",
+      "flashcard_summary": "Aortic dissection：uncomplicated type B -> medical blood pressure control",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-5_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\n本題官方公告接受 B、D 或 BD。ASD 合併 Eisenmenger syndrome 代表長期左到右分流已造成嚴重肺高壓並反轉或雙向分流，此時關閉缺損可能使右心壓力無出口而惡化，通常禁忌。\n\n【選項詳解】\n- A. 錯誤。Eisenmenger physiology 已形成固定性肺血管阻力上升，外科關閉 ASD 可能造成右心衰竭，不能當作一般 ASD 修補。\n- B. 可接受。官方公告將心內膜炎預防列為可給分答案之一；臨床上預防性抗生素需依是否有高風險心臟病灶、手術類型與當地規範判斷，不是所有 ASD 都例行使用。\n- C. 錯誤。導管關閉 ASD 與手術關閉同樣會移除分流出口，對 Eisenmenger syndrome 通常不適合。\n- D. 可接受。若病人有低血氧，氧氣治療可作支持性處置；但它不是逆轉肺血管病變的根本治療，現代照護還會評估肺高壓標靶治療與移植可能性。\n\n【核心考點】\nASD 一旦進展到 Eisenmenger syndrome，重點是避免關閉分流、支持性照護並評估肺高壓治療。遇到公告多答案題時要保留可接受答案，同時理解原本生理邏輯。",
+      "key_point": "Eisenmenger syndrome 通常不應關閉 ASD；官方本題接受 B、D 或 BD。",
+      "flashcard_front": "ASD + Eisenmenger",
+      "flashcard_back": "Eisenmenger syndrome 通常不應關閉 ASD；官方本題接受 B、D 或 BD。",
+      "flashcard_summary": "ASD + Eisenmenger：avoid closure; accepted answers B/D per official correction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": [
+        "官方公告本題答 B、D 或 BD 均給分；B 的適用情境與現代 infective endocarditis prophylaxis 規範需人工留意。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-5_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n本題問 tension pneumothorax 何者最不適當。張力性氣胸是會造成阻塞性休克的臨床急症，不能因一開始血氧看起來尚可就延誤減壓。\n\n【選項詳解】\n- A. 正確。呼吸窘迫與低血壓是張力性氣胸的重要表徵，因胸腔壓力上升會壓迫靜脈回流並降低心輸出。\n- B. 正確。患側呼吸音減弱或消失是典型理學檢查線索。\n- C. 正確。嚴重時可見氣管偏移、頸靜脈怒張或皮下氣腫，但氣管偏移不一定早期出現。\n- D. 錯誤，因此為本題要選的敘述。張力性氣胸不能等待完整排除其他低血壓原因；若臨床懷疑，應立即針刺或指胸減壓。\n\n【核心考點】\nTension pneumothorax 是先治療再確認的創傷急症。血氧暫時可接受不代表安全，低血壓加單側呼吸音下降時要立即減壓。",
+      "key_point": "疑似張力性氣胸合併休克時不可等待檢查或排除其他原因，需立即減壓。",
+      "flashcard_front": "Tension pneumothorax",
+      "flashcard_back": "疑似張力性氣胸合併休克時不可等待檢查或排除其他原因，需立即減壓。",
+      "flashcard_summary": "Tension pneumothorax：clinical emergency requiring immediate decompression",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:10:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
