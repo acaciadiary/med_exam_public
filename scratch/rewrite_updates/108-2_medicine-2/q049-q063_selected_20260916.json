@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 49,
+    "end": 63
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n醫院整體策略可包含成長、穩定、緊縮與混合策略。垂直整合是向供應鏈上下游延伸服務或控制資源，通常屬成長策略，不是穩定策略，因此標準答案為 B。\n\n【選項詳解】\n- A. 正確。整體策略可依組織發展方向分為成長、穩定、緊縮與混合策略。\n- B. 錯誤。垂直整合是擴張到上游或下游，例如醫院整合診所、長照、檢驗或供應鏈，屬成長策略的一種。\n- C. 正確。作業流程再造與合理化可在不大幅擴張規模下提升效率與維持營運，較可歸入穩定或改善既有運作的策略方向。\n- D. 正確。混合策略可讓不同部門採不同方向，例如某科擴張服務、另一科縮減或整併。\n\n【核心考點】\n垂直整合、水平整合與多角化多屬成長策略；穩定策略重點是維持既有服務並改善效率。",
+      "key_point": "垂直整合屬成長策略，不是穩定策略。",
+      "flashcard_front": "醫院策略中，垂直整合通常歸於哪一類整體策略？",
+      "flashcard_back": "成長策略。垂直整合代表向上游或下游延伸與整合服務/資源。",
+      "flashcard_summary": "醫院策略：垂直整合是成長策略；流程合理化偏穩定與效率改善。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n新藥上市前的第三期臨床試驗通常納入約數百到數千名病人，重點是確認療效、常見副作用與與標準治療比較。題幹的 1000 到 3000 名受試者最符合第三期，標準答案為 B。\n\n【選項詳解】\n- A. 第四期是在藥物上市後進行的上市後監測，重點是長期安全性、罕見副作用與真實世界效果。\n- B. 第三期正確。Phase III 是上市前大型病人試驗，常見規模為 1000 到 3000 人或更多，用來支持核准上市。\n- C. 第二期通常人數較少，重點是初步療效、劑量範圍與短期安全性，多在數十到數百名病人。\n- D. 第一期多在少數健康志願者或特定病人中評估安全性、耐受性與藥物動力學，規模最小。\n\n【核心考點】\n臨床試驗分期：Phase I 安全/藥動；Phase II 初步療效與劑量；Phase III 大型上市前確認；Phase IV 上市後監測。",
+      "key_point": "1000-3000 名受試者的上市前大型臨床試驗屬第三期臨床試驗。",
+      "flashcard_front": "新藥臨床試驗 Phase I-IV 的重點如何快速區分？",
+      "flashcard_back": "Phase I：安全與藥動；Phase II：初步療效與劑量；Phase III：上市前大型確認試驗；Phase IV：上市後監測。",
+      "flashcard_summary": "臨床試驗分期：1000-3000 人上市前大型試驗是 Phase III。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n題幹描述旅行後腹瀉且懷疑革蘭氏陰性桿菌感染，傳統藥理考點會選對腸道革蘭氏陰性菌有效的 fluoroquinolone。Levofloxacin 是四個選項中最合理的治療選擇，標準答案為 A。\n\n【選項詳解】\n- A. Levofloxacin 正確。它是 fluoroquinolone，可抑制 DNA gyrase/topoisomerase，對多種腸道革蘭氏陰性桿菌有活性，傳統上可用於旅行者腹瀉。\n- B. Sulfacetamide 主要作為局部眼科磺胺類用藥，不是旅行者腹瀉的首選全身性治療。\n- C. Trimethoprim 單方抗菌範圍與臨床使用情境不如 fluoroquinolone 符合本題；常見組合是 TMP-SMX，但本題選項不是首選。\n- D. Vancomycin 主要針對革蘭氏陽性菌，口服時用於困難梭菌腸炎，對一般革蘭氏陰性旅行者腹瀉不適合。\n\n【核心考點】\n傳統考題中旅行者腹瀉若指向革蘭氏陰性桿菌，fluoroquinolone 是常考答案；實務用藥仍需考慮地區抗藥性、發燒血便與病人風險。",
+      "key_point": "旅行者腹瀉傳統藥理考點中，疑似革蘭氏陰性桿菌感染可選 fluoroquinolone，如 levofloxacin。",
+      "flashcard_front": "旅行者腹瀉若疑似革蘭氏陰性桿菌感染，傳統藥理考題常選哪類抗生素？",
+      "flashcard_back": "Fluoroquinolone，例如 levofloxacin；但臨床實務須依地區抗藥性與病情調整。",
+      "flashcard_summary": "旅行者腹瀉：傳統考點選 fluoroquinolone；vancomycin 偏革蘭陽性/困難梭菌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": [
+        "旅行者腹瀉實務用藥會受地區抗藥性與侵襲性症狀影響；本題依 108 年藥理考點保留 fluoroquinolone。"
+      ]
+    },
+    {
+      "question_id": "108-2_medicine-2_052",
+      "question_number": 52,
+      "explanation": "【題幹解析】\n藥物塗層冠狀動脈支架要抑制血管平滑肌細胞增生，避免再狹窄。Sirolimus 又稱 rapamycin，是 mTOR 抑制劑，能抑制細胞週期進展與增生，標準答案為 C。\n\n【選項詳解】\n- A. Cyclosporine 抑制 calcineurin，降低 T 細胞 IL-2 轉錄，主要用於移植與免疫疾病，不是典型冠狀動脈支架塗層抗增生藥。\n- B. Tacrolimus (FK506) 也抑制 calcineurin，免疫抑制用途類似 cyclosporine，並非本題支架再狹窄常考藥物。\n- C. Sirolimus (rapamycin) 正確。它抑制 mTOR，阻止 T 細胞與血管平滑肌細胞由 G1 進入 S 期，可降低支架內再狹窄。\n- D. Azathioprine 是嘌呤合成抑制劑，抑制淋巴球增殖，但不是藥物塗層支架的代表藥物。\n\n【核心考點】\nSirolimus/rapamycin 是 mTOR 抑制劑，可抑制細胞增生，因此可用於藥物塗層支架防止再狹窄。",
+      "key_point": "Sirolimus 抑制 mTOR 與平滑肌細胞增生，可用於藥物塗層支架降低再狹窄。",
+      "flashcard_front": "哪一種免疫抑制劑可用於冠狀動脈藥物塗層支架以防止再狹窄？機轉是什麼？",
+      "flashcard_back": "Sirolimus (rapamycin)。它抑制 mTOR，阻止細胞週期進展與平滑肌細胞增生。",
+      "flashcard_summary": "支架再狹窄：sirolimus/rapamycin 抑制 mTOR 與細胞增生。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_054",
+      "question_number": 54,
+      "explanation": "【題幹解析】\n遠端彎曲小管早段的 Na+/Cl- cotransporter 是 thiazide 類利尿劑的主要作用標的。題目問抑制 distal convoluted tubule Na+/Cl- transporter 的藥物，標準答案為 C。\n\n【選項詳解】\n- A. Acetazolamide 是碳酸酐酶抑制劑，主要作用在近端小管，增加 bicarbonate 排出，不是 DCT 的 Na+/Cl- cotransporter。\n- B. Triamterene 是保鉀利尿劑，作用在集尿管上皮鈉通道 (ENaC)，不是遠端彎曲小管 Na+/Cl- cotransporter。\n- C. Thiazide 正確。Thiazide 抑制遠端彎曲小管 Na+/Cl- cotransporter，也會增加鈣再吸收，常用於高血壓。\n- D. Bumetanide 是 loop diuretic，抑制亨利氏環上升支粗段的 Na+/K+/2Cl- cotransporter。\n\n【核心考點】\n利尿劑定位：acetazolamide 近端小管，loop 利尿劑 TAL，thiazide DCT 的 NCC，triamterene/amiloride 集尿管 ENaC。",
+      "key_point": "Thiazide 抑制遠端彎曲小管 Na+/Cl- cotransporter。",
+      "flashcard_front": "Thiazide、loop diuretic、acetazolamide、triamterene 分別作用於哪個腎小管部位或轉運體？",
+      "flashcard_back": "Acetazolamide：近端小管 carbonic anhydrase；loop：TAL NKCC2；thiazide：DCT NCC；triamterene：集尿管 ENaC。",
+      "flashcard_summary": "利尿劑作用部位：thiazide 抑制 DCT 的 Na+/Cl- cotransporter。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_055",
+      "question_number": 55,
+      "explanation": "【題幹解析】\n氣喘急性發作需要能迅速支氣管擴張的藥物；nedocromil 是肥大細胞穩定劑，只能預防發炎介質釋放，不能解除已經發生的急性支氣管痙攣，標準答案為 D。\n\n【選項詳解】\n- A. Albuterol 是短效 beta-2 agonist，可快速放鬆支氣管平滑肌，是急性氣喘症狀緩解藥。\n- B. Theophylline 是 methylxanthine，可支氣管擴張，但治療窗窄、使用較受限；仍不是「只適合預防、發作無效」的代表。\n- C. Salmeterol 是長效 beta-2 agonist，主要作維持治療並需搭配吸入型類固醇，不適合單獨急救，但其機轉仍是支氣管擴張。\n- D. Nedocromil 正確。它穩定肥大細胞、減少發炎介質釋放，適合預防誘發性氣喘，急性發作時給藥無法快速逆轉支氣管收縮。\n\n【核心考點】\n急性氣喘緩解靠短效 beta-2 agonist；cromolyn/nedocromil 屬預防性肥大細胞穩定劑，不能當急救藥。",
+      "key_point": "Nedocromil 是肥大細胞穩定劑，適合預防氣喘，不適合急性發作救急。",
+      "flashcard_front": "哪類氣喘藥只適合預防、不能用於急性發作？急性發作首選哪類藥？",
+      "flashcard_back": "Nedocromil/cromolyn 等肥大細胞穩定劑只適合預防；急性發作首選短效 beta-2 agonist，如 albuterol。",
+      "flashcard_summary": "氣喘用藥：nedocromil 預防用；albuterol 急性緩解用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_056",
+      "question_number": 56,
+      "explanation": "【題幹解析】\n偏頭痛用藥要分急性止痛與預防。Sumatriptan 與 dihydroergotamine 可治療急性偏頭痛，propranolol 可作預防；buspirone 是 5-HT1A 部分促效的抗焦慮藥，不是偏頭痛治療或預防標準藥，標準答案為 A。\n\n【選項詳解】\n- A. Buspirone 正確。它用於廣泛性焦慮症，沒有作為急性偏頭痛止痛或常規預防藥的角色。\n- B. Sumatriptan 是 5-HT1B/1D agonist，可造成顱內血管收縮並抑制三叉神經胜肽釋放，是急性偏頭痛常用藥。\n- C. Propranolol 是 beta blocker，可降低偏頭痛發作頻率，屬預防用藥而非急性止痛。\n- D. Dihydroergotamine 是 ergot 類藥物，可用於急性偏頭痛，尤其部分難治或持續發作情境。\n\n【核心考點】\n急性偏頭痛可用 triptan 或 ergot 類；預防可用 propranolol、topiramate 等。Buspirone 是抗焦慮藥，不屬偏頭痛標準用藥。",
+      "key_point": "Buspirone 是抗焦慮藥，不能作為急性偏頭痛治療或常規預防藥。",
+      "flashcard_front": "Sumatriptan、dihydroergotamine、propranolol、buspirone 在偏頭痛治療中如何區分？",
+      "flashcard_back": "Sumatriptan 與 dihydroergotamine 可治療急性偏頭痛；propranolol 可預防；buspirone 不屬偏頭痛治療/預防標準藥。",
+      "flashcard_summary": "偏頭痛用藥：triptan/ergot 急性治療，propranolol 預防，buspirone 不用於偏頭痛。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_057",
+      "question_number": 57,
+      "explanation": "【題幹解析】\n乙醇主要在肝臟代謝，經 alcohol dehydrogenase 與 aldehyde dehydrogenase 生成乙醛與乙酸。乙醇相關病變嚴重度與肝臟代謝負荷、脂肪變性、酒精性肝炎與肝硬化最密切，標準答案為 D。\n\n【選項詳解】\n- A. 胰臟可受酒精影響而發生急性或慢性胰臟炎，但不是決定乙醇病變程度最核心的代謝器官。\n- B. 心臟可出現酒精性心肌病變或心律不整，但乙醇毒性與代謝負荷的主要器官仍是肝臟。\n- C. 肺臟不是乙醇代謝與慢性酒精病變的主要標的器官。\n- D. 肝臟正確。肝臟是乙醇代謝中心，乙醛、NADH 增加與氧化壓力會造成脂肪肝、酒精性肝炎、纖維化與肝硬化。\n\n【核心考點】\n乙醇代謝主要在肝臟；酒精性肝病的連續變化包括脂肪肝、酒精性肝炎、纖維化與肝硬化。",
+      "key_point": "乙醇主要由肝臟代謝，肝臟是酒精相關病變程度最重要的器官。",
+      "flashcard_front": "乙醇主要在哪個器官代謝？酒精性肝病可有哪些連續變化？",
+      "flashcard_back": "主要在肝臟代謝。酒精性肝病可由脂肪肝進展為酒精性肝炎、纖維化與肝硬化。",
+      "flashcard_summary": "酒精病變：肝臟是主要代謝與受損器官。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_060",
+      "question_number": 60,
+      "explanation": "【題幹解析】\n本題考孕婦或新生兒相關抗生素禁忌的副作用配對。Sulfonamides 在新生兒可增加溶血與膽紅素相關風險，尤其 G6PD 缺乏者較易溶血；也可因膽紅素置換增加核黃疸疑慮，標準答案為 C。\n\n【選項詳解】\n- A. Erythromycin estolate 的典型問題是孕婦膽汁鬱積性肝炎風險，不是胎兒第八對腦神經受損；第八腦神經毒性常連到 aminoglycosides。\n- B. Streptomycin 屬 aminoglycoside，主要擔心胎兒耳毒性與第八對腦神經損傷，不是嬰兒軟骨受損；軟骨問題較常考 fluoroquinolones。\n- C. Sulfonamides 正確。磺胺類可造成 G6PD 缺乏者溶血，且接近分娩或新生兒使用時有膽紅素置換與核黃疸風險。\n- D. Tetracycline 會沉積在胎兒牙齒與骨骼，造成牙齒變色與骨生長影響；灰嬰症候群是 chloramphenicol 的典型毒性。\n\n【核心考點】\n孕期抗生素副作用配對：aminoglycoside 耳毒性，tetracycline 牙齒/骨骼，chloramphenicol 灰嬰症候群，sulfonamide 溶血與核黃疸風險。",
+      "key_point": "Sulfonamides 可造成 G6PD 缺乏者溶血，近分娩或新生兒使用有核黃疸風險。",
+      "flashcard_front": "孕期或新生兒相關抗生素禁忌中，sulfonamide、tetracycline、chloramphenicol、aminoglycoside 各連到什麼毒性？",
+      "flashcard_back": "Sulfonamide：G6PD 溶血/核黃疸；tetracycline：牙齒變色與骨生長；chloramphenicol：灰嬰症候群；aminoglycoside：耳毒性/第八腦神經。",
+      "flashcard_summary": "孕期抗生素副作用：磺胺溶血核黃疸，四環牙骨，chloramphenicol 灰嬰，aminoglycoside 耳毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n停經婦女低骨密度要想到原發性停經後骨鬆，也要辨識藥物造成的繼發性骨鬆。慢性使用 glucocorticoid 會抑制成骨、增加骨吸收並降低鈣平衡，prednisone 最可能造成骨質疏鬆，標準答案為 D。\n\n【選項詳解】\n- A. Lovastatin 是 HMG-CoA reductase inhibitor，主要用於降 LDL，不是慢性用藥造成骨質疏鬆的典型藥物。\n- B. Metformin 是第一線第二型糖尿病用藥，主要作用是降低肝臟糖質新生，並非骨質疏鬆常見原因。\n- C. Propranolol 是非選擇性 beta blocker，常用於高血壓、心律不整、偏頭痛預防等，不是典型造成骨鬆的慢性藥物。\n- D. Prednisone 正確。長期 glucocorticoid 會抑制 osteoblast、促進 osteoclast 活性、減少腸鈣吸收並增加腎鈣流失，造成骨質疏鬆與骨折風險。\n\n【核心考點】\n長期全身性類固醇是繼發性骨質疏鬆的高風險原因；用藥時需評估鈣、維生素 D、骨密度與抗骨鬆治療需求。",
+      "key_point": "長期 prednisone 等 glucocorticoid 使用會造成繼發性骨質疏鬆。",
+      "flashcard_front": "哪類慢性用藥最典型會造成繼發性骨質疏鬆？主要機轉是什麼？",
+      "flashcard_back": "長期 glucocorticoid，如 prednisone。機轉包括抑制成骨、增加骨吸收、降低腸鈣吸收與增加腎鈣流失。",
+      "flashcard_summary": "藥物性骨鬆：長期 glucocorticoid 是高風險原因。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

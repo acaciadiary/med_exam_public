@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 89,
+    "end": 100
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_089",
+      "question_number": 89,
+      "explanation": "【題幹解析】\n酒精性肝炎典型表現包括 AST 高於 ALT、脂肪變性、Mallory-Denk bodies 與嗜中性球浸潤。酒精性纖維化通常從中央靜脈周圍與竇周區開始，不是由 portal areas 開始，標準答案為 C。\n\n【選項詳解】\n- A. 正確。酒精性肝病常見 AST > ALT，比例常大於 2，與粒線體受損與 pyridoxal phosphate 缺乏有關。\n- B. 正確。酒精性肝炎病理可見脂肪堆積、肝細胞 ballooning、Mallory-Denk bodies 與嗜中性球浸潤。\n- C. 錯誤。酒精性肝纖維化典型從 central vein 周圍、perisinusoidal 或 pericellular fibrosis 開始，之後可進展為橋接纖維化與肝硬化。\n- D. 正確。在相同飲酒量下，女性較容易發生酒精性肝損傷，與代謝、體脂與荷爾蒙等因素有關。\n\n【核心考點】\n酒精性肝炎病理記 AST/ALT > 2、Mallory-Denk bodies、嗜中性球與中央靜脈周圍/竇周纖維化。",
+      "key_point": "酒精性肝纖維化通常從中央靜脈周圍與竇周區開始，不是 portal areas。",
+      "flashcard_front": "酒精性肝炎的典型病理與肝纖維化起始位置是什麼？",
+      "flashcard_back": "脂肪變性、Mallory-Denk bodies、嗜中性球浸潤，AST 通常高於 ALT；纖維化常從中央靜脈周圍/竇周區開始。",
+      "flashcard_summary": "酒精性肝炎：AST>ALT、Mallory-Denk、嗜中性球；纖維化由 central/perisinusoidal 開始。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_091",
+      "question_number": 91,
+      "explanation": "【題幹解析】\n自身免疫性胃炎主要攻擊胃體與胃底的壁細胞，造成胃酸低下、內在因子缺乏與維生素 B12 缺乏。胃竇通常相對保留，低胃酸會刺激 G 細胞分泌 gastrin，並非胃竇內分泌細胞減少，標準答案為 D。\n\n【選項詳解】\n- A. 正確。可測得抗壁細胞抗體與抗內在因子抗體，後者與惡性貧血及 B12 吸收不良更直接相關。\n- B. 正確。內在因子不足會使末端迴腸吸收維生素 B12 受阻，造成巨幼紅細胞性貧血與神經病變。\n- C. 正確。壁細胞破壞造成胃酸分泌不足，負回饋下降後 gastrin 分泌上升，可導致 enterochromaffin-like cell 增生。\n- D. 錯誤。自身免疫性胃炎主要累及胃體/胃底而相對保留胃竇；胃竇 G 細胞不會因本病典型地減少，反而會因低胃酸刺激 gastrin 上升。\n\n【核心考點】\n自身免疫性胃炎：胃體/胃底壁細胞破壞、低胃酸、高 gastrin、內在因子不足與 B12 缺乏；胃竇相對保留。",
+      "key_point": "自身免疫性胃炎主要累及胃體/胃底壁細胞，胃竇相對保留且 gastrin 上升。",
+      "flashcard_front": "自身免疫性胃炎的受累部位、抗體、胃酸與 gastrin 變化為何？",
+      "flashcard_back": "主要累及胃體/胃底壁細胞；可有抗壁細胞與抗內在因子抗體；胃酸下降、gastrin 上升，導致 B12 缺乏。",
+      "flashcard_summary": "自身免疫性胃炎：壁細胞/內在因子抗體，胃酸低、gastrin 高，胃竇相對保留。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_092",
+      "question_number": 92,
+      "explanation": "【題幹解析】\n膀胱泌尿上皮癌有兩條常考分子路徑：低惡性度乳突狀腫瘤常見 FGFR3 突變；高惡性度、原位癌與侵襲性腫瘤則常連到 TP53/RB 路徑。最常見 FGFR3 突變的是非侵襲性低惡性度乳突狀泌尿上皮癌，標準答案為 A。\n\n【選項詳解】\n- A. 正確。非侵襲性低惡性度乳突狀泌尿上皮癌常有 FGFR3 活化突變，臨床上較易復發但進展風險相對低。\n- B. 非侵襲性高惡性度乳突狀泌尿上皮癌較常與 TP53、RB 等基因異常相關，不是 FGFR3 最典型類型。\n- C. 原位癌 (carcinoma in situ) 是扁平高惡性度病灶，常屬 TP53 路徑，具有進展為侵襲癌風險。\n- D. 侵襲性高惡性度泌尿上皮癌也較常連到 TP53/RB 路徑與染色體不穩定，不是 FGFR3 的代表病灶。\n\n【核心考點】\n膀胱低惡性度乳突狀腫瘤常見 FGFR3；高惡性度/CIS/侵襲性病灶常見 TP53、RB 異常。",
+      "key_point": "FGFR3 突變最常見於非侵襲性低惡性度乳突狀泌尿上皮癌。",
+      "flashcard_front": "膀胱泌尿上皮癌中，FGFR3 與 TP53/RB 分別常見於哪類病灶？",
+      "flashcard_back": "FGFR3：非侵襲性低惡性度乳突狀泌尿上皮癌。TP53/RB：高惡性度、CIS 與侵襲性病灶。",
+      "flashcard_summary": "膀胱癌分子路徑：低度乳突狀常 FGFR3；高度/CIS/侵襲性常 TP53/RB。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_093",
+      "question_number": 93,
+      "explanation": "【題幹解析】\n原發性膜性腎病變常與抗 PLA2R 抗體相關，免疫複合物沉積在腎小球基底膜上皮下。沉積的 IgG 亞型以 IgG4 最典型，標準答案為 D。\n\n【選項詳解】\n- A. IgG1 可出現在某些免疫複合物疾病，但不是原發性膜性腎病變最主要的沉積亞型。\n- B. IgG2 不是原發性膜性腎病變典型主要沉積 IgG 亞型。\n- C. IgG3 較能活化補體，常在其他免疫複合物腎炎中討論，不是本題膜性腎病變的代表。\n- D. IgG4 正確。原發性膜性腎病變常見 IgG4 dominant 的上皮下免疫沉積，並可見 spike and dome 變化。\n\n【核心考點】\n原發性膜性腎病變：抗 PLA2R、上皮下沉積、spike and dome、IgG4 dominant。",
+      "key_point": "原發性膜性腎病變的腎小球免疫沉積以 IgG4 最典型。",
+      "flashcard_front": "原發性膜性腎病變常見抗體、沉積位置與 IgG 亞型是什麼？",
+      "flashcard_back": "常與抗 PLA2R 抗體相關；沉積在上皮下；IgG4 dominant，光鏡/銀染可見 spike and dome。",
+      "flashcard_summary": "膜性腎病變：PLA2R、上皮下免疫沉積、IgG4、spike and dome。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_094",
+      "question_number": 94,
+      "explanation": "【題幹解析】\n亞急性肉芽腫性甲狀腺炎又稱 de Quervain thyroiditis，常在上呼吸道病毒感染後發生，臨床可有疼痛性甲狀腺腫與暫時性甲狀腺毒症。最可能誘因為病毒感染，標準答案為 C。\n\n【選項詳解】\n- A. 細菌感染通常造成急性化膿性甲狀腺炎，會有明顯化膿與細菌感染表現，不是亞急性肉芽腫性甲狀腺炎的典型誘因。\n- B. 黴菌感染多見於免疫低下者，甲狀腺黴菌感染罕見，不是本病常見病因。\n- C. 病毒感染正確。de Quervain thyroiditis 被認為與病毒感染後免疫反應有關，病理可見肉芽腫與巨細胞反應。\n- D. 結核菌感染可造成肉芽腫性病變，但不是亞急性肉芽腫性甲狀腺炎最常見或最典型的誘發原因。\n\n【核心考點】\n亞急性肉芽腫性甲狀腺炎是疼痛性、常病毒感染後發生的甲狀腺炎；Hashimoto 則是不痛、慢性自體免疫。",
+      "key_point": "亞急性肉芽腫性甲狀腺炎最常與病毒感染後反應有關。",
+      "flashcard_front": "亞急性肉芽腫性甲狀腺炎的典型誘因與臨床特色是什麼？",
+      "flashcard_back": "常在病毒感染後發生，為疼痛性甲狀腺炎，可有暫時性甲狀腺毒症與肉芽腫/巨細胞反應。",
+      "flashcard_summary": "de Quervain thyroiditis：病毒感染後、疼痛性、肉芽腫性甲狀腺炎。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_096",
+      "question_number": 96,
+      "explanation": "【題幹解析】\n本題是否定式，問成人睪丸生殖細胞腫瘤何者較不正確。成人卵黃囊腫瘤通常是混合型生殖細胞腫瘤的一部分，純卵黃囊腫瘤較典型見於兒童；因此 A 說「常常為單一組織型態」較不正確，標準答案為 A。\n\n【選項詳解】\n- A. 較不正確。成人卵黃囊腫瘤多以混合型成分出現，常可與胚胎癌等其他生殖細胞腫瘤混合；純型卵黃囊腫瘤較常見於幼兒。\n- B. 正確。Seminoma 是成人睪丸生殖細胞腫瘤常見類型，病理上常見透明胞質、纖維分隔與淋巴球浸潤。\n- C. 正確。Embryonal carcinoma 較 seminoma 更具侵襲性，常較早侵犯、出血壞死並與其他非精原細胞瘤成分混合。\n- D. 正確。純 choriocarcinoma 睪丸腫瘤相當罕見，但若出現常惡性度高、血行轉移早且 hCG 顯著升高。\n\n【核心考點】\n成人睪丸生殖細胞腫瘤中，卵黃囊腫瘤多是混合成分；純型卵黃囊腫瘤是兒童較典型。否定式題目要把 A 當作例外。",
+      "key_point": "成人卵黃囊腫瘤多為混合型成分；純型卵黃囊腫瘤較常見於兒童。",
+      "flashcard_front": "成人睪丸卵黃囊腫瘤與兒童卵黃囊腫瘤在組織型態上有何差異？",
+      "flashcard_back": "成人卵黃囊腫瘤多為混合型生殖細胞腫瘤的一部分；兒童較常見純型卵黃囊腫瘤。",
+      "flashcard_summary": "睪丸生殖細胞腫瘤：成人 yolk sac tumor 常為混合成分，純型偏兒童。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_097",
+      "question_number": 97,
+      "explanation": "【題幹解析】\n子宮頸切片顯示異生細胞取代整層上皮，代表全層上皮內高度病變；又偵測到高危險型 HPV 16 DNA，最符合子宮頸上皮內贅生第三級，也就是 CIN III，標準答案為 C。\n\n【選項詳解】\n- A. 尖形濕疣多由低危險型 HPV 6、11 引起，病理常見 koilocytosis 與乳突狀疣狀病灶，不會以 HPV 16 與全層異生作為典型表現。\n- B. 慢性子宮頸炎併鱗狀細胞化生是反應性或修復性變化，不應出現異生細胞取代整層上皮的 CIN III 圖像。\n- C. 子宮頸上皮內贅生第三級正確。CIN III 指重度異生或原位癌範圍，異型細胞累及全層但尚未穿越基底膜。\n- D. 子宮頸息肉是良性外生性病灶，常由發炎或局部增生造成，不會呈現 HPV 16 相關全層上皮異生。\n\n【核心考點】\nCIN III = 全層上皮高度異生但未侵襲，常與高危險 HPV 16/18 相關；尖形濕疣則連到低危險 HPV 6/11。",
+      "key_point": "全層子宮頸上皮異生且 HPV 16 陽性最符合 CIN III。",
+      "flashcard_front": "CIN III 的病理定義與常見 HPV 型別是什麼？它和尖形濕疣如何區分？",
+      "flashcard_back": "CIN III：異生細胞累及全層上皮、未穿越基底膜，常與高危險 HPV 16/18 相關。尖形濕疣多為 HPV 6/11。",
+      "flashcard_summary": "子宮頸病變：HPV16 + 全層異生 = CIN III；HPV6/11 = condyloma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_098",
+      "question_number": 98,
+      "explanation": "【題幹解析】\n發育不良痣通常較一般痣大、形狀與色澤不規則，可出現在日曬或非日曬部位，病理多為交界痣或混合痣伴結構與細胞異型。它是黑色素瘤風險指標，但大多數病灶本身不會轉變成黑色素瘤，標準答案為 D。\n\n【選項詳解】\n- A. 錯誤。發育不良痣通常比一般痣大，常大於 5 mm，且可有邊界不規則與顏色不均。\n- B. 錯誤。發育不良痣不只見於日曬部位，軀幹、臀部等非日曬區也可出現。\n- C. 錯誤。其組織形態多為交界痣或混合痣，伴 lentiginous melanocytic hyperplasia 與異型性，不是典型皮內痣。\n- D. 正確。發育不良痣會增加黑色素瘤風險，尤其多發或家族性者，但絕大多數單一病灶不會直接惡性化。\n\n【核心考點】\n發育不良痣是黑色素瘤風險標記：大於一般痣、可在非日曬區、常為交界/混合型且有異型，但多數病灶不會變癌。",
+      "key_point": "發育不良痣多數不會轉變成黑色素瘤，但代表黑色素瘤風險增加。",
+      "flashcard_front": "發育不良痣的大小、分布、組織型態與黑色素瘤風險如何判斷？",
+      "flashcard_back": "通常較大且不規則，可見於非日曬區；多為交界痣或混合痣伴異型；多數病灶不直接惡性化，但是黑色素瘤風險指標。",
+      "flashcard_summary": "發育不良痣：較大、不限日曬區、多為交界/混合型；多數不變 melanoma。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_099",
+      "question_number": 99,
+      "explanation": "【題幹解析】\n角化不全 (parakeratosis) 指角質層中的角質細胞分化不完全，到了角質層仍保留細胞核。牛皮癬因表皮更新速度加快，常見 parakeratosis，標準答案為 C。\n\n【選項詳解】\n- A. 增厚是 hyperkeratosis 或 acanthosis 等概念，並不等於角化不全；角化不全的核心是角質層保留細胞核。\n- B. 形成玻璃質樣物質不是 parakeratosis 的定義，較像其他變性或沉積性描述。\n- C. 角質並不成熟、仍有細胞核存在正確。這正是 parakeratosis，在牛皮癬等快速表皮增生疾病常見。\n- D. 變薄是 atrophy 或角質層變薄的描述，與 parakeratosis 定義不符。\n\n【核心考點】\nParakeratosis = stratum corneum retained nuclei；hyperkeratosis = 角質層增厚；acanthosis = 棘層增厚。",
+      "key_point": "角化不全是角質層分化不成熟，角質細胞仍保留細胞核。",
+      "flashcard_front": "Parakeratosis、hyperkeratosis、acanthosis 分別代表什麼？",
+      "flashcard_back": "Parakeratosis：角質層保留細胞核；hyperkeratosis：角質層增厚；acanthosis：棘層增厚。",
+      "flashcard_summary": "牛皮癬病理：parakeratosis 是角質層仍有細胞核。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_100",
+      "question_number": 100,
+      "explanation": "【題幹解析】\n惡性貧血會造成維生素 B12 缺乏，影響髓鞘維持，導致脊髓亞急性聯合變性。病變主要侵犯後索與側索，因此特殊神經病理學病變在脊髓，標準答案為 B。\n\n【選項詳解】\n- A. 大腦白質不是惡性貧血最具代表性的病變部位；B12 缺乏的經典考點是脊髓長徑路徑。\n- B. 脊髓正確。B12 缺乏會造成 posterior columns 與 lateral corticospinal tracts 脫髓鞘，產生感覺共濟失調、振動/本體覺下降與上運動神經元徵象。\n- C. 大腦皮質不是惡性貧血特異神經病理病變位置；雖可有認知或精神症狀，但病理定位考點仍是脊髓。\n- D. 小腦病變會造成共濟失調，但惡性貧血的共濟失調主要來自後索本體覺受損，不是小腦本身。\n\n【核心考點】\n維生素 B12 缺乏造成脊髓亞急性聯合變性，侵犯後索與側索；常伴巨幼紅細胞性貧血與神經症狀。",
+      "key_point": "惡性貧血的 B12 缺乏會造成脊髓後索與側索的亞急性聯合變性。",
+      "flashcard_front": "惡性貧血造成的特殊神經病理病變在哪裡？主要侵犯哪些脊髓路徑？",
+      "flashcard_back": "在脊髓，主要侵犯後索與側索，稱 subacute combined degeneration。",
+      "flashcard_summary": "惡性貧血/B12 缺乏：脊髓後索與側索亞急性聯合變性。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 64,
+    "end": 87
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_064",
+      "question_number": 64,
+      "explanation": "【題幹解析】\n題幹有攝護腺腫大、PSA 上升、淋巴結與骨轉移線索，治療方向指向抑制雄性素訊號。Flutamide 是 androgen receptor antagonist，可用於攝護腺癌荷爾蒙治療，標準答案為 D。\n\n【選項詳解】\n- A. Oxandrolone 是合成同化性雄性素，會提供 androgenic/anabolic 作用，不適合治療依賴雄性素訊號的攝護腺腫瘤。\n- B. Desogestrel 是 progestin 類避孕藥成分，不是轉移性攝護腺癌的典型抗雄性素治療。\n- C. Anastrozole 是 aromatase inhibitor，主要用於雌激素受體陽性乳癌，作用是降低雌激素生成，不是本題最佳藥物。\n- D. Flutamide 正確。它阻斷 androgen receptor，降低 testosterone/DHT 對攝護腺癌細胞的刺激，屬抗雄性素治療選項。\n\n【核心考點】\n攝護腺癌藥理治療常考抑制雄性素軸：GnRH 類藥、CYP17 抑制、5α-reductase 抑制或 androgen receptor antagonists；flutamide 是抗雄性素。",
+      "key_point": "Flutamide 是 androgen receptor antagonist，可用於攝護腺癌抗雄性素治療。",
+      "flashcard_front": "Flutamide 的藥理分類與攝護腺癌治療角色是什麼？",
+      "flashcard_back": "Flutamide 是 androgen receptor antagonist，阻斷雄性素對攝護腺癌細胞的刺激。",
+      "flashcard_summary": "攝護腺癌：flutamide 抗雄性素，阻斷 androgen receptor。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n甲醇本身毒性較低，危險在於被 alcohol dehydrogenase 代謝成 formaldehyde 與 formic acid，造成視神經毒性與代謝性酸中毒。乙醇可競爭 alcohol dehydrogenase，減少毒性代謝物生成，標準答案為 B。\n\n【選項詳解】\n- A. 加速甲醇從腎臟排除不是乙醇治療的主要機制；嚴重中毒時可用血液透析移除甲醇與 formate。\n- B. 抑制甲醇毒性代謝物產生正確。乙醇與 alcohol dehydrogenase 親和力較高，可競爭性抑制甲醇代謝，降低 formic acid 生成。\n- C. 加速甲醇從肝臟代謝錯誤。若加速甲醇代謝，反而會增加 formaldehyde/formic acid，毒性更嚴重。\n- D. 加速從呼吸道排除不是主要治療原理；甲醇不是靠呼氣排除作為治療核心。\n\n【核心考點】\n甲醇中毒治療重點是阻斷 alcohol dehydrogenase 產生 formic acid；乙醇與 fomepizole 都是利用這個酵素競爭或抑制原理。",
+      "key_point": "乙醇治療甲醇中毒的機制是競爭 alcohol dehydrogenase，減少 formic acid 等毒性代謝物生成。",
+      "flashcard_front": "乙醇或 fomepizole 為何可治療甲醇中毒？",
+      "flashcard_back": "它們抑制或競爭 alcohol dehydrogenase，減少甲醇被代謝成 formaldehyde/formic acid，降低視神經毒性與酸中毒。",
+      "flashcard_summary": "甲醇中毒：毒性來自 formic acid；乙醇競爭 ADH 阻斷毒性代謝。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_069",
+      "question_number": 69,
+      "explanation": "【題幹解析】\n鴉片類藥物作用於 μ 等 opioid receptors，可止痛、鎮咳、造成便秘、呼吸抑制與瞳孔縮小。抗痙攣不是 opioid 的典型作用，部分 opioid 反而可能降低癲癇閾值，標準答案為 A。\n\n【選項詳解】\n- A. 抗痙攣正確為本題所問「不是」。Opioids 不是抗癲癇或抗痙攣藥，meperidine 等藥物代謝物還可能誘發癲癇。\n- B. 抑制咳嗽是 opioid 作用之一，例如 codeine 或 dextromethorphan 類似中樞鎮咳機制常被考。\n- C. 便秘是 opioid 常見副作用，來自腸道蠕動下降與括約肌張力增加。\n- D. 瞳孔縮小是 opioid 中毒典型表現之一，與副交感 Edinger-Westphal nucleus 作用相關。\n\n【核心考點】\nOpioid 典型作用：止痛、鎮咳、呼吸抑制、便秘、噁心、鎮靜與針尖瞳孔；不是抗痙攣藥。",
+      "key_point": "Opioids 可鎮咳、便秘與縮瞳，但不是抗痙攣藥。",
+      "flashcard_front": "Opioid 的典型藥理作用與副作用有哪些？哪個不是典型作用？",
+      "flashcard_back": "典型作用包括止痛、鎮咳、呼吸抑制、便秘、鎮靜與瞳孔縮小；抗痙攣不是 opioid 作用。",
+      "flashcard_summary": "Opioid 作用：鎮痛鎮咳便秘縮瞳；不具抗痙攣作用。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_070",
+      "question_number": 70,
+      "explanation": "【題幹解析】\n急性無機汞鹽中毒可用含巰基的螯合劑結合重金屬，常考藥物包括 dimercaprol、succimer 與 DMPS/unithiol。D-dimethylcysteine 不是標準治療螯合劑，標準答案為 D。\n\n【選項詳解】\n- A. Unithiol 可接受。它又稱 DMPS，是含巰基螯合劑，可用於某些重金屬中毒治療。\n- B. Dimercaprol 可接受。BAL 含有巰基，可螯合砷、汞等重金屬，是傳統重金屬中毒治療藥。\n- C. Succimer 可接受。DMSA 是口服螯合劑，可用於鉛中毒，也可用於汞等重金屬暴露情境。\n- D. D-dimethylcysteine 錯誤。它不是急性無機汞鹽中毒的標準螯合治療藥物，不能與 BAL、DMSA、DMPS 混為一談。\n\n【核心考點】\n汞等重金屬中毒常用含巰基螯合劑：dimercaprol、succimer、unithiol/DMPS；看到非典型藥名要能排除。",
+      "key_point": "無機汞鹽中毒可用 dimercaprol、succimer、unithiol/DMPS；D-dimethylcysteine 不是標準螯合劑。",
+      "flashcard_front": "急性無機汞鹽中毒常考哪些螯合劑？",
+      "flashcard_back": "Dimercaprol (BAL)、succimer (DMSA)、unithiol (DMPS)；D-dimethylcysteine 不是標準答案。",
+      "flashcard_summary": "重金屬螯合：汞中毒可用 BAL、DMSA、DMPS。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n題幹描述抗 PD-L1 單株抗體，藉由阻斷腫瘤細胞 PD-L1 與 T 細胞 PD-1 的抑制訊號，使 T 細胞恢復攻擊癌細胞。Atezolizumab 是抗 PD-L1 抗體，標準答案為 A。\n\n【選項詳解】\n- A. Atezolizumab 正確。它抑制 PD-L1，阻斷免疫檢查點訊號，提升 T 細胞抗腫瘤反應。\n- B. Panitumumab 是抗 EGFR 單株抗體，主要用於特定 RAS wild-type 大腸直腸癌等，不是 PD-L1 抑制劑。\n- C. Ramucirumab 是抗 VEGFR-2 單株抗體，主要抑制血管新生訊號，不是免疫檢查點藥物。\n- D. Rituximab 是抗 CD20 單株抗體，用於 B 細胞淋巴瘤或某些自體免疫疾病，不是 PD-L1 抗體。\n\n【核心考點】\n免疫檢查點藥物要分靶點：atezolizumab 抗 PD-L1；nivolumab/pembrolizumab 抗 PD-1；rituximab 抗 CD20。",
+      "key_point": "Atezolizumab 是抗 PD-L1 單株抗體，可解除 PD-1/PD-L1 對 T 細胞的抑制訊號。",
+      "flashcard_front": "Atezolizumab、panitumumab、ramucirumab、rituximab 分別靶向什麼？",
+      "flashcard_back": "Atezolizumab：PD-L1；panitumumab：EGFR；ramucirumab：VEGFR-2；rituximab：CD20。",
+      "flashcard_summary": "單株抗體靶點：atezolizumab 抗 PD-L1，活化抗腫瘤 T 細胞反應。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\nEzetimibe 降 LDL 的關鍵是抑制小腸刷狀緣的 NPC1L1 cholesterol transporter，減少飲食與膽汁膽固醇吸收。題目問作用標的，標準答案為 C。\n\n【選項詳解】\n- A. HMG-CoA reductase 是 statin 類藥物的標的，例如 atorvastatin、lovastatin；它抑制肝臟膽固醇合成，不是 ezetimibe。\n- B. ApoB-100 是 LDL、VLDL 等脂蛋白結構蛋白，與 LDL receptor 結合有關，但不是 ezetimibe 的作用標的。\n- C. Transport protein NPC1L1 正確。Ezetimibe 抑制腸上皮 NPC1L1，降低膽固醇吸收，使肝臟增加 LDL receptor 表現、降低血中 LDL。\n- D. Microsomal triglyceride transfer protein (MTP) 是 lomitapide 等藥物的標的，影響 VLDL/乳糜微粒組裝，不是 ezetimibe。\n\n【核心考點】\nEzetimibe = NPC1L1 inhibitor；statins = HMG-CoA reductase inhibitors；MTP inhibitor 另記 lomitapide。",
+      "key_point": "Ezetimibe 抑制小腸 NPC1L1 transporter，減少膽固醇吸收並降低 LDL。",
+      "flashcard_front": "Ezetimibe 的作用標的是什麼？它和 statin 的機轉差在哪？",
+      "flashcard_back": "Ezetimibe 抑制腸道 NPC1L1，減少膽固醇吸收；statin 抑制肝臟 HMG-CoA reductase，減少膽固醇合成。",
+      "flashcard_summary": "降血脂機轉：ezetimibe 抑制 NPC1L1；statin 抑制 HMG-CoA reductase。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n骨化性肌炎是在肌肉或軟組織內形成成熟骨組織，屬於一種成熟細胞型態被另一種成熟細胞型態取代的適應性變化。這是化生，不是異生或增生，標準答案為 D。\n\n【選項詳解】\n- A. 異生 (dysplasia) 指上皮細胞出現排列混亂、大小形狀異常與核異型性，屬癌前變化概念，不是軟組織變成骨。\n- B. 增生 (hyperplasia) 是細胞數目增加，例如荷爾蒙刺激造成組織變大；它不代表細胞種類改變成骨組織。\n- C. 萎縮 (atrophy) 是細胞大小或數量下降，組織變小，與骨化性肌炎的新骨形成相反。\n- D. 化生 (metaplasia) 正確。骨化性肌炎的骨頭組織是軟組織內形成骨性組織，屬異位骨化/骨性化生。\n\n【核心考點】\n化生是成熟細胞型態轉換成另一種成熟細胞型態；骨化性肌炎代表軟組織內骨性化生。",
+      "key_point": "骨化性肌炎中的骨形成屬化生，也就是成熟組織型態轉換。",
+      "flashcard_front": "骨化性肌炎中的骨組織形成屬於異生、增生、萎縮還是化生？",
+      "flashcard_back": "化生 (metaplasia)。軟組織內形成骨組織，是成熟細胞/組織型態轉換。",
+      "flashcard_summary": "細胞適應：骨化性肌炎是骨性化生，不是 dysplasia。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n漿細胞內若堆積大量免疫球蛋白，會形成嗜伊紅、圓形的胞質內包涵體，稱為 Russell body。題幹已點出 plasma cell 與 immunoglobulin，標準答案為 A。\n\n【選項詳解】\n- A. Russell body 正確。它是漿細胞粗糙內質網內免疫球蛋白堆積形成的胞質內嗜伊紅包涵體。\n- B. Amyloid 是細胞外不溶性蛋白沉積，剛果紅染色可見蘋果綠雙折光，不是漿細胞內免疫球蛋白包涵體。\n- C. Mallory-Denk body 是肝細胞內受損中間絲堆積，常見於酒精性肝炎等肝病，不在漿細胞內。\n- D. Psammoma body 是同心圓層狀鈣化，常見於乳突狀甲狀腺癌、漿液性乳突狀腫瘤、腦膜瘤等，不是免疫球蛋白堆積。\n\n【核心考點】\nRussell body = plasma cell 內免疫球蛋白堆積；Mallory-Denk = 肝細胞中間絲；psammoma = 層狀鈣化；amyloid = 細胞外蛋白沉積。",
+      "key_point": "Russell body 是漿細胞內免疫球蛋白堆積形成的嗜伊紅包涵體。",
+      "flashcard_front": "Russell body、Mallory-Denk body、psammoma body、amyloid 分別代表什麼？",
+      "flashcard_back": "Russell：漿細胞內免疫球蛋白；Mallory-Denk：肝細胞中間絲；psammoma：層狀鈣化；amyloid：細胞外蛋白沉積。",
+      "flashcard_summary": "病理包涵體：漿細胞內 Ig 堆積是 Russell body。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_082",
+      "question_number": 82,
+      "explanation": "【題幹解析】\n血栓閉塞性血管炎又稱 Buerger disease，幾乎都與吸菸高度相關，年輕男性吸菸者常見，早期戒菸可減緩惡化與降低截肢風險，標準答案為 C。\n\n【選項詳解】\n- A. Churg-Strauss syndrome 現稱 eosinophilic granulomatosis with polyangiitis，與氣喘、嗜酸性球增多和小血管炎相關，不是吸菸關聯最強者。\n- B. 結節性多動脈炎 (polyarteritis nodosa) 是中小動脈壞死性血管炎，可與 B 型肝炎相關，但不是典型吸菸導致。\n- C. 血栓閉塞性血管炎正確。它與菸草暴露關係極密切，影響四肢中小血管，戒菸是最重要的治療與預後因素。\n- D. Henoch-Schönlein purpura 現稱 IgA vasculitis，與 IgA 免疫複合物沉積、紫斑、腹痛、關節痛與腎炎相關，不是吸菸相關血管炎。\n\n【核心考點】\nBuerger disease = thromboangiitis obliterans = 強烈吸菸相關；治療核心是完全戒菸。",
+      "key_point": "血栓閉塞性血管炎 (Buerger disease) 與吸菸最密切，早期戒菸可減緩惡化。",
+      "flashcard_front": "哪一種血管炎與吸菸最密切，且戒菸是最重要治療？",
+      "flashcard_back": "血栓閉塞性血管炎 (thromboangiitis obliterans, Buerger disease)。",
+      "flashcard_summary": "血管炎：Buerger disease 強烈吸菸相關，戒菸最重要。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_087",
+      "question_number": 87,
+      "explanation": "【題幹解析】\n急性氣管炎合併肺部瀰漫性間質發炎，病理型態較像病毒性或非典型感染造成的間質性肺炎。四個選項中病毒最符合此種瀰漫性間質發炎，標準答案為 A。\n\n【選項詳解】\n- A. 病毒正確。病毒性呼吸道感染常造成氣管支氣管炎與間質性肺炎，病理上以單核細胞浸潤、肺泡隔增厚等間質發炎為主。\n- B. 肺炎雙球菌典型造成大葉性肺炎或肺泡腔內中性球與滲出物，較不是「瀰漫性間質發炎」的代表。\n- C. 葡萄球菌肺炎常與壞死性肺炎、膿瘍或流感後細菌性肺炎有關，病理偏化膿性破壞，不是本題描述的首選。\n- D. 黴菌感染型態依病原與免疫狀態而異，可造成肉芽腫或血管侵犯，但急性氣管炎合併瀰漫性間質發炎最典型仍是病毒。\n\n【核心考點】\n病毒性肺炎常呈間質性發炎；典型細菌性肺炎較偏肺泡腔中性球滲出與實變。",
+      "key_point": "病毒感染最常造成急性氣管炎合併瀰漫性間質性肺炎型態。",
+      "flashcard_front": "瀰漫性間質性肺炎較常聯想到病毒、典型細菌、葡萄球菌還是黴菌？",
+      "flashcard_back": "病毒。病毒性肺炎常見肺泡隔單核細胞浸潤與間質發炎；典型細菌較偏肺泡腔滲出。",
+      "flashcard_summary": "肺炎病理：病毒偏間質性發炎；典型細菌偏肺泡滲出實變。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

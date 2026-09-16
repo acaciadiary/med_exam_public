@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-2.json",
+  "dataset_id": "108-2_medicine-2",
+  "range": {
+    "start": 37,
+    "end": 48
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-2_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n單尾與雙尾檢定的差別在於替代假說方向與拒絕區分配，不是顯著水準本身必須不同。研究者可同樣設定 α = 0.05；單尾把拒絕區放在一側，雙尾則分到兩側，標準答案為 C。\n\n【選項詳解】\n- A. 錯誤。單尾與雙尾的 p 值計算不同；在對稱分布且同一方向效果時，雙尾 p 值常約為單尾的兩倍。\n- B. 錯誤。在效果方向符合預先指定方向時，單尾檢定把 α 集中在一側，通常比雙尾更容易拒絕虛無假說。\n- C. 正確。顯著水準 α 可設為相同總量，例如都用 0.05；差別是雙尾將 α 分配到兩端，單尾集中於一端。\n- D. 錯誤。實務與考試中較常使用雙尾檢定，因為多數研究需偵測任一方向的差異，單尾檢定須事先有明確方向性理由。\n\n【核心考點】\n單尾檢定必須在分析前明確指定方向；與雙尾檢定可用相同總 α，但拒絕區配置與 p 值算法不同。",
+      "key_point": "單尾與雙尾檢定可設定相同總 α；差別在拒絕區方向與 p 值計算。",
+      "flashcard_front": "單尾檢定與雙尾檢定在 α、拒絕區與 p 值上有何差異？",
+      "flashcard_back": "總 α 可相同；單尾拒絕區集中一側，雙尾分於兩側；同方向效果下雙尾 p 值通常大於單尾 p 值。",
+      "flashcard_summary": "單尾 vs 雙尾：總 α 可相同，但拒絕區與 p 值計算不同。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n簡單線性迴歸斜率 b 與 Pearson 相關係數 r 的符號相同，但代表意義不同。r 不受 X、Y 角色互換影響；斜率 b 會因誰當反應變項而改變，標準答案為 D。\n\n【選項詳解】\n- A. 正確。大的 |b| 或 |r| 只表示線性關聯強或斜率大，觀察性資料本身不能證明 X 對 Y 有因果效果。\n- B. 正確。Pearson 相關係數 r 的範圍固定在 -1 到 1 之間。\n- C. 正確。在以 Y 對 X 做簡單線性迴歸時，斜率 b = r × SD(Y)/SD(X)，因此 b 與 r 必定同正或同負。\n- D. 錯誤。X 與 Y 角色互換時，r 仍相同，但迴歸斜率會變成 r × SD(X)/SD(Y)，通常不會與原本 b 相同。\n\n【核心考點】\nPearson r 對 X、Y 互換對稱；線性迴歸斜率不對稱，會受反應變項與解釋變項的尺度影響。",
+      "key_point": "Pearson r 在 X/Y 互換後不變，但迴歸斜率 b 會隨反應變項與解釋變項角色改變。",
+      "flashcard_front": "簡單線性迴歸斜率 b 與 Pearson r 的關係是什麼？X/Y 互換時何者會改變？",
+      "flashcard_back": "b = r × SD(Y)/SD(X)，所以 b 與 r 同號；X/Y 互換時 r 不變，但斜率通常改變。",
+      "flashcard_summary": "迴歸與相關：r 對稱且介於 -1 到 1；b 不對稱且受尺度影響。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n病例對照研究中吸菸與疾病通常整理成 2×2 類別資料。若列聯表樣本數小或有期望值偏小的格子，應用 Fisher's exact test 比一般卡方近似更合適，標準答案為 D。\n\n【選項詳解】\n- A. 獨立 t 檢定用於比較兩組連續變項平均值，例如血壓或膽固醇平均值，不適合檢定吸菸/不吸菸與有病/無病這種分類資料。\n- B. 配對 t 檢定用於同一人前後測或配對連續資料，本題不是連續型配對差值。\n- C. McNemar 卡方檢定用於配對的二元分類資料，例如同一受試者治療前後陽性/陰性變化；一般未配對病例對照 2×2 表不首選它。\n- D. Fisher's exact test 正確。它直接計算小樣本 2×2 列聯表的精確機率，適合期望值過小時檢定兩類別變項是否相關。\n\n【核心考點】\n小樣本或期望值小於 5 的 2×2 類別資料優先想到 Fisher's exact test；t 檢定處理連續資料，McNemar 處理配對二元資料。",
+      "key_point": "小樣本 2×2 分類資料或期望值偏小時，適合使用 Fisher's exact test。",
+      "flashcard_front": "病例對照研究的 2×2 列聯表若樣本數小，應使用哪一種檢定？",
+      "flashcard_back": "Fisher's exact test。它適合小樣本或期望值偏小的未配對二元分類資料。",
+      "flashcard_summary": "統計檢定選擇：小樣本 2×2 類別資料用 Fisher exact test。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_041",
+      "question_number": 41,
+      "explanation": "【題幹解析】\n本題有官方更正，B 與 D 都列為給分答案。若兩地每一個年齡層的年齡別死亡率完全相同，套用同一組標準人口後，年齡標準化死亡率必定相同；兩地標準化率差異也會維持為 0，不受標準人口組成改變影響。\n\n【選項詳解】\n- A. 錯誤。粗死亡率會受人口年齡結構影響；即使每個年齡層死亡率相同，老年人口比例較高的地區粗死亡率仍可能較高。\n- B. 正確且為官方給分答案。年齡標準化是把各年齡層死亡率套到同一標準人口，因此年齡別死亡率完全相同時，標準化死亡率必定相同。\n- C. 錯誤。若甲地人口比乙地老化，在年齡別死亡率相同下，甲地粗死亡率通常會較高，不會「必小於」乙地。\n- D. 正確且為官方給分答案。因兩地每一層年齡別死亡率都相同，不論採用哪一組標準人口，兩地標準化率的差異都會是 0。\n\n【核心考點】\n粗死亡率受年齡結構影響；年齡標準化死亡率用同一標準人口消除年齡結構差異。本題官方接受 B、D。",
+      "key_point": "年齡別死亡率完全相同時，兩地年齡標準化死亡率相同；本題官方更正接受 B、D。",
+      "flashcard_front": "若兩地各年齡層年齡別死亡率完全相同，粗死亡率與年齡標準化死亡率如何判斷？",
+      "flashcard_back": "粗死亡率仍會受年齡結構影響；年齡標準化死亡率在同一標準人口下必相同。本題官方更正 B、D 皆給分。",
+      "flashcard_summary": "死亡率標準化：年齡別率相同則標準化率相同；粗死亡率仍受人口老化影響。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n粒狀污染物是懸浮在空氣中的固體或液滴，例如煙、霧、粉塵、油煙。揮發性有機物 (VOCs) 主要以氣態存在，屬氣態污染物，不是粒狀污染物，標準答案為 D。\n\n【選項詳解】\n- A. 黑煙 (soot) 是燃燒後產生的碳質細小顆粒，屬粒狀污染物。\n- B. 酸霧 (acid mist) 是液滴氣膠，雖然成分為酸性液體，但在空氣污染分類上仍屬粒狀或氣膠污染物。\n- C. 油煙 (oil smoke) 包含燃燒或烹調產生的細小液滴與顆粒，屬粒狀污染物。\n- D. 揮發性有機物 (VOCs) 正確。VOCs 如苯、甲苯等主要是氣態化學污染物，不歸類為粒狀污染物。\n\n【核心考點】\n空污分類要分「顆粒/氣膠」與「氣體」：soot、mist、smoke 是粒狀；VOCs、SO2、NOx、CO 常歸為氣態污染物。",
+      "key_point": "VOCs 屬氣態污染物；黑煙、酸霧、油煙屬粒狀或氣膠污染物。",
+      "flashcard_front": "黑煙、酸霧、油煙與 VOCs 中，何者不是粒狀污染物？",
+      "flashcard_back": "VOCs。黑煙、酸霧與油煙可視為粒狀/氣膠污染物；VOCs 主要是氣態污染物。",
+      "flashcard_summary": "空污分類：VOCs 是氣態污染物，不是粒狀污染物。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n危害商數 (hazard quotient, HQ) 是將估計暴露量與參考劑量或容許暴露值相除，用來描述非致癌健康風險是否可能超過可接受範圍。這是在整合危害、劑量反應與暴露資訊後的風險特徵描述，標準答案為 D。\n\n【選項詳解】\n- A. 危害辨識是在判斷某物質是否具有造成不良健康效應的能力，尚未計算 HQ。\n- B. 劑量反應評估是在建立暴露劑量與健康效應間的關係，例如推估參考劑量；HQ 會使用這個結果，但不屬於此步驟本身。\n- C. 暴露評估是在估計族群接觸污染物的濃度、頻率與劑量；它提供 HQ 的分子資料，但不是 HQ 的主要使用步驟。\n- D. 風險特徵描述正確。HQ = 暴露量 / 參考劑量，常用來總結非致癌風險，HQ 大於 1 代表可能有健康疑慮。\n\n【核心考點】\n健康風險評估四步驟中，hazard quotient 用於風險特徵描述；它把暴露評估與劑量反應評估整合成可判讀的風險指標。",
+      "key_point": "Hazard quotient 用於風險特徵描述，常以暴露量除以參考劑量判斷非致癌風險。",
+      "flashcard_front": "Hazard quotient (HQ) 在健康風險評估四步驟中屬於哪一步？公式概念是什麼？",
+      "flashcard_back": "屬於風險特徵描述。HQ = 暴露量 / 參考劑量；HQ > 1 表示可能有非致癌健康風險。",
+      "flashcard_summary": "風險評估：HQ 是風險特徵描述指標，整合暴露量與參考劑量。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_044",
+      "question_number": 44,
+      "explanation": "【題幹解析】\n整體換氣系統主要用於一般空間空氣交換，例如稀釋污染物、控制溫度與濕度。工作環境氣壓的精密調整通常需要專門空調壓差設計，不是一般整體換氣最適合處理的目的，標準答案為 D。\n\n【選項詳解】\n- A. 保持濕度可透過整體空調與換氣系統協助控制，因此不是最不適合的項目。\n- B. 稀釋污染物濃度是整體換氣的典型用途，尤其是低毒性、低濃度且污染源分散時。\n- C. 降低工作環境溫度可藉通風或空調達成，也是整體換氣常見功能之一。\n- D. 調整工作環境氣壓正確。壓差控制需要特定送排風平衡與空調設計，例如負壓隔離室或潔淨室，不宜只用一般整體換氣概念處理。\n\n【核心考點】\n整體換氣適合稀釋分散污染物與調節溫濕度；高毒性源頭控制用局部排氣，精密壓差控制則需專門 HVAC 設計。",
+      "key_point": "整體換氣適合稀釋污染物與調節溫濕度；氣壓壓差控制需專門空調設計。",
+      "flashcard_front": "整體換氣系統適合處理哪些工作環境問題？哪一類需求較不適合？",
+      "flashcard_back": "適合稀釋污染物、控制溫度與濕度；較不適合精密調整工作環境氣壓或壓差。",
+      "flashcard_summary": "工業衛生換氣：整體換氣管稀釋與溫濕度，不是精密壓差控制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_045",
+      "question_number": 45,
+      "explanation": "【題幹解析】\n臺灣中部油症事件是食用米糠油受到多氯聯苯及相關污染物污染所造成的重大公害事件。題目選項中最直接對應的暴露物質是多氯聯苯，標準答案為 B。\n\n【選項詳解】\n- A. 靈丹 (lindane) 是有機氯殺蟲劑，可造成神經毒性等問題，但不是臺灣油症事件的代表污染物。\n- B. 多氯聯苯 (PCB) 正確。油症事件與受污染米糠油中的 PCB/相關氯化污染物暴露有關，患者可出現氯痤瘡、色素沉著、眼分泌物增加等表現。\n- C. 甲苯 (toluene) 是有機溶劑，常考職業暴露與中樞神經抑制，不是油症事件原因。\n- D. 有機汞 (organic mercury) 典型連到水俁病等甲基汞污染造成的神經毒性，不是臺灣油症事件主因。\n\n【核心考點】\n臺灣油症事件要連到米糠油污染與 PCB；水俁病連到有機汞，兩者是公衛公害史常見對照。",
+      "key_point": "臺灣油症事件主要與受污染米糠油中的 PCB 暴露有關。",
+      "flashcard_front": "臺灣油症事件與哪一類污染物暴露有關？它常與哪個公害事件作對照？",
+      "flashcard_back": "油症事件：PCB/相關氯化污染物污染米糠油。對照：水俁病與有機汞污染。",
+      "flashcard_summary": "公害事件：臺灣油症是 PCB 污染米糠油；水俁病是有機汞。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n職業性肺結核認定需要比較就職前健康狀態、工作暴露風險、感染時序與臨床證據。員工就職時胸部 X 光可作為後續判斷是否新發病變的重要基準，標準答案為 A。\n\n【選項詳解】\n- A. 正確。就職時胸部 X 光能提供基線資料，若日後出現肺結核，可協助判斷是否為在職期間新發感染或病灶惡化。\n- B. 錯誤。法定傳染病身分不排除職業病認定；若符合工作相關暴露與認定條件，仍可能涉及職業病與相關給付。\n- C. 錯誤。醫院內不同部門接觸開放性肺結核病人的機會不同，感染風險不會完全相同，例如胸腔、急診、負壓隔離或檢驗相關工作風險較高。\n- D. 錯誤。醫護人員得到肺結核不必然都是職業病，仍需依暴露史、基線資料、群聚或分子流行病學等證據判斷工作相關性。\n\n【核心考點】\n職業性肺結核認定重點是基線健康資料、工作暴露機會與發病時序；不能因為是醫護人員或法定傳染病就自動肯定或否定。",
+      "key_point": "職業性肺結核需依基線胸部 X 光、工作暴露與發病時序判斷。",
+      "flashcard_front": "醫護人員職業性肺結核認定時，就職時胸部 X 光有何用途？",
+      "flashcard_back": "作為基線比較資料，協助判斷後續肺結核是否為在職期間新發或與工作暴露相關。",
+      "flashcard_summary": "職業性肺結核：看基線胸片、暴露風險與時序，不是醫護確診就自動算職業病。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-2_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n題幹問的是衛生計畫執行過程中的參與率、資源運用與執行者投入，這些都是計畫是否照預定方式被執行的問題，屬過程評價，標準答案為 A。\n\n【選項詳解】\n- A. 過程評價正確。它檢查計畫執行品質、活動覆蓋率、參與率、人力與資源使用情形，回答「做得是否到位」。\n- B. 結果評價重點是最終健康結果或目標是否達成，例如發生率、死亡率、血壓控制率改變，不是執行過程監測。\n- C. 衝擊評價多看較短中期的行為、知識、態度或環境改變，例如戒菸意圖或運動習慣提升，與資源投入檢核不同。\n- D. 形式評價常在計畫正式推行前用來了解需求、可行性或設計是否合適，不是評估執行中參與率與資源使用。\n\n【核心考點】\n計畫評價常分形式、過程、衝擊、結果：執行過程與資源使用屬過程評價；健康結局才是結果評價。",
+      "key_point": "參與率、資源運用與執行者投入屬衛生計畫的過程評價。",
+      "flashcard_front": "衛生計畫評價中，檢查參與率、資源運用與執行者投入屬哪一類評價？",
+      "flashcard_back": "過程評價。它回答計畫是否依預定方式執行、資源與活動覆蓋是否到位。",
+      "flashcard_summary": "衛生計畫評價：執行品質與資源使用是過程評價。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T00:00:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
