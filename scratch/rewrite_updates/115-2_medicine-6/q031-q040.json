@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-6.json",
+  "dataset_id": "115-2_medicine-6",
+  "range": {
+    "start": 31,
+    "end": 40
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-6_031",
+      "question_number": 31,
+      "explanation": "【題幹解析】\n剖腹產後嘗試陰道生產成功率較高的因素包括曾有陰道生產、此次自發進入產程、非復發性前次剖腹原因等。肥胖、高齡與過期妊娠通常降低成功率。\n\n【選項詳解】\n- A. 自發分娩代表子宮頸與產程自然啟動，VBAC 成功率較高，是本題答案。\n- B. 肥胖會增加產程遲滯、手術與麻醉風險，通常降低 VBAC 成功率。\n- C. 高齡產婦與產科併發症風險較高，也常與 VBAC 成功率下降相關。\n- D. 妊娠超過 41 週常與引產、胎兒較大或產程問題相關，成功率通常較低。\n\n【核心考點】\nVBAC 成功因子常考自發分娩與既往陰道生產；肥胖、高齡、過期妊娠較不利。",
+      "key_point": "自發分娩會增加 VBAC 成功機率。",
+      "flashcard_front": "VBAC success",
+      "flashcard_back": "自發分娩會增加 VBAC 成功機率。",
+      "flashcard_summary": "VBAC success -> spontaneous labor improves success",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_032",
+      "question_number": 32,
+      "explanation": "【題幹解析】\n肩難產的新生兒風險來自胎頭娩出後肩部卡住，造成缺氧、心跳停止、臂神經叢傷害、鎖骨或肱骨骨折等。產瘤是產道壓迫造成的頭皮水腫，並非肩難產特異併發症。\n\n【選項詳解】\n- A. 肩難產若處理延遲可造成缺氧缺血性腦病變，是嚴重新生兒併發症。\n- B. 嚴重缺氧可進展到心跳停止，屬於肩難產的重大風險。\n- C. 臂神經叢傷害是肩難產經典併發症，與肩頸牽拉或壓迫相關。\n- D. Caput succedaneum 是頭皮在產道受壓產生的水腫，常見於一般分娩過程，不是肩難產典型合併症。\n\n【核心考點】\n肩難產併發症記缺氧、臂神經叢傷害與骨折；caput succedaneum 不是典型肩難產併發症。",
+      "key_point": "肩難產最不典型的新生兒合併症是 caput succedaneum。",
+      "flashcard_front": "shoulder dystocia",
+      "flashcard_back": "肩難產最不典型的新生兒合併症是 caput succedaneum。",
+      "flashcard_summary": "shoulder dystocia -> brachial plexus injury and hypoxia, not caput",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_033",
+      "question_number": 33,
+      "explanation": "【題幹解析】\n母血中胎兒游離 DNA 篩檢不正確常因胎盤與胎兒染色體不一致、胎兒比例過低、母體腫瘤或母體染色體因素。母親年齡會影響疾病先驗風險與陽性預測值，但不是讓檢驗本身錯誤的原因。\n\n【選項詳解】\n- A. Confined placental mosaicism 會使胎盤 DNA 與胎兒核型不同，是 NIPT 假陽性或假陰性的原因。\n- B. 母親癌症可能釋放異常 cell-free DNA，造成多條染色體異常訊號而干擾結果。\n- C. Fetal fraction 低於約 4% 時訊號不足，容易造成 no-call 或不準確結果。\n- D. 母親年齡高會提高染色體異常先驗機率，但不會直接造成檢驗結果不正確，因此此敘述錯誤。\n\n【核心考點】\nNIPT 錯誤原因看 placental mosaicism、低 fetal fraction、母體腫瘤或母體染色體因素；年齡影響風險，不是檢驗錯誤來源。",
+      "key_point": "母親高齡不是 cfDNA 篩檢不正確的直接原因。",
+      "flashcard_front": "cfDNA screening errors",
+      "flashcard_back": "母親高齡不是 cfDNA 篩檢不正確的直接原因。",
+      "flashcard_summary": "cfDNA screening errors -> placental mosaicism, maternal cancer, low fetal fraction",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_034",
+      "question_number": 34,
+      "explanation": "【題幹解析】\n唐氏症篩檢是風險評估，不是診斷；高風險需以絨毛膜取樣或羊膜穿刺等診斷檢查確認。第一孕期篩檢常用胎兒頸部透明帶、PAPP-A 與 free beta-hCG，不是 AFP。\n\n【選項詳解】\n- A. 篩檢高風險不能直接作為終止妊娠依據，需診斷性檢查確認，敘述正確。\n- B. 雙胞胎妊娠的血清篩檢與風險估算較複雜，表現通常較單胎差，敘述正確。\n- C. 頸部透明帶增厚如大於約 3 mm 會增加染色體異常與結構異常風險，敘述正確。\n- D. AFP 是第二孕期四指標篩檢的一部分；第一孕期唐氏症篩檢不是 AFP 加 beta-hCG，因此此敘述錯誤。\n\n【核心考點】\n第一孕期唐氏症篩檢：NT、PAPP-A、free beta-hCG；AFP 屬第二孕期篩檢常用指標。",
+      "key_point": "第一孕期唐氏症篩檢不包含 AFP 作為典型指標。",
+      "flashcard_front": "Down syndrome screening",
+      "flashcard_back": "第一孕期唐氏症篩檢不包含 AFP 作為典型指標。",
+      "flashcard_summary": "Down syndrome screening -> first trimester uses NT, PAPP-A, free beta-hCG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_035",
+      "question_number": 35,
+      "explanation": "【題幹解析】\n妊娠 32 週出現僵直性下腹痛並緊急剖腹產，手術圖若見子宮胎盤出血相關變化，最符合胎盤早期剝離。胎盤早期剝離常有腹痛、子宮壓痛或板狀子宮、陰道出血與胎兒窘迫。\n\n【選項詳解】\n- A. Placental abruption 會造成痛性出血與子宮收縮僵硬，嚴重時需緊急生產，正好對上本題的急性腹痛與緊急剖腹產線索。\n- B. Placenta previa 典型是無痛性陰道出血，腹部僵直性疼痛不是主要表現。\n- C. Vasa previa 典型是在破水後胎兒血管破裂，出現胎兒出血與胎心異常，母體僵直腹痛較不典型。\n- D. Uterine inversion 多發生於第三產程或產後，表現為產後出血與休克，不符合妊娠 32 週術中診斷情境。\n\n【核心考點】\n胎盤早期剝離：痛性出血、子宮壓痛或板狀子宮、胎兒窘迫；前置胎盤多為無痛性出血。",
+      "key_point": "妊娠後期僵直腹痛最支持胎盤早期剝離。",
+      "flashcard_front": "painful third-trimester bleeding + rigid uterus",
+      "flashcard_back": "妊娠後期僵直腹痛最支持胎盤早期剝離。",
+      "flashcard_summary": "painful third-trimester bleeding + rigid uterus -> placental abruption",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\nBPP 五項各 2 分：NST、呼吸運動、胎動、肌張力、羊水量。此題 NST reactive 得 2 分，呼吸運動足夠得 2 分，肌張力有伸直到彎曲得 2 分，羊水正常得 2 分；胎動只有一次，不足 3 次，該項 0 分，總分 8 分。\n\n【選項詳解】\n- A. 若五項都正常才是 10 分；本題胎動項目未達標，所以不是 10 分。\n- B. 總分 8 分且羊水正常，通常解讀為正常、無窒息證據，是正確答案。\n- C. 6 分才屬可疑或需依週數與羊水量進一步評估；本題分數不是 6 分。\n- D. 2 分代表高度異常且強烈懷疑胎兒窒息；本題多數項目正常，不符合。\n\n【核心考點】\nBPP 胎動項目需 30 分鐘內至少 3 次；本題只有一次胎動，所以總分 8 分。",
+      "key_point": "本題 BPP 為 8 分且羊水正常，屬正常無窒息胎兒。",
+      "flashcard_front": "BPP scoring",
+      "flashcard_back": "本題 BPP 為 8 分且羊水正常，屬正常無窒息胎兒。",
+      "flashcard_summary": "BPP scoring -> fetal movement only once gives 0; total 8",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n子癇前症風險因子包括初產、既往子癇前症、慢性高血壓、腎病、自體免疫疾病、多胎、糖尿病、高齡與肥胖。抽菸雖然對妊娠有多種危害，但在流行病學上與子癇前症風險較低相關，因此在本題列項中最低。\n\n【選項詳解】\n- A. 初次妊娠是子癇前症典型風險因子。\n- B. 抽菸孕婦有早產、胎兒生長受限、胎盤問題等風險，但對子癇前症的相對風險在傳統考點中較低，是本題答案。\n- C. 曾有子癇前症病史是日後妊娠復發的重要風險因子。\n- D. 高齡孕婦子癇前症風險上升，尤其合併慢性疾病時更需注意。\n\n【核心考點】\n子癇前症風險題要記初產、病史、高齡、慢性病與多胎；抽菸不是高風險答案。",
+      "key_point": "抽菸在子癇前症風險因子中相對最低，但仍有其他嚴重妊娠風險。",
+      "flashcard_front": "preeclampsia risk",
+      "flashcard_back": "抽菸在子癇前症風險因子中相對最低，但仍有其他嚴重妊娠風險。",
+      "flashcard_summary": "preeclampsia risk -> smoking is lowest among listed factors",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n子癇前症高血壓危象需快速但受控降壓，常用 IV labetalol、IV hydralazine 或口服速效 nifedipine。舌下 nifedipine 可能造成血壓驟降與胎盤灌流下降，傳統上不建議作為處置方式。\n\n【選項詳解】\n- A. Hydralazine 靜脈注射是妊娠嚴重高血壓可用急救藥物之一。\n- B. Labetalol 靜脈注射也是常用第一線急性降壓選擇。\n- C. Nifedipine 可使用口服速效劑型，但舌下給與可能使吸收與降壓過快，較不安全，因此此選項最不適當。\n- D. 治療目標是避免 severe range，高壓通常先降到低於 160/110 mmHg 附近，同時避免過度降壓造成子宮胎盤灌流不足。\n\n【核心考點】\n妊娠嚴重高血壓可用 IV labetalol、IV hydralazine 或口服 nifedipine；避免舌下 nifedipine 造成驟降。",
+      "key_point": "子癇前症高血壓危象不建議舌下 nifedipine。",
+      "flashcard_front": "severe hypertension in pregnancy",
+      "flashcard_back": "子癇前症高血壓危象不建議舌下 nifedipine。",
+      "flashcard_summary": "severe hypertension in pregnancy -> avoid sublingual nifedipine",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_039",
+      "question_number": 39,
+      "explanation": "【題幹解析】\n子癇前症的腎病理典型為 glomerular capillary endotheliosis，也就是腎小球內皮細胞腫脹、內皮窗孔減少或消失、毛細血管腔狹窄與腎小球腫大。內皮窗孔變大與此相反。\n\n【選項詳解】\n- A. 內皮細胞腫脹是 glomerular endotheliosis 的核心變化，敘述正確。\n- B. 內皮膜孔通常是減少或消失，不是變大，因此此敘述最不適當。\n- C. 足細胞足突可有緊靠或融合樣改變，與蛋白尿相關，敘述可接受。\n- D. 腎小球可呈腫大與毛細血管腔受壓，敘述正確。\n\n【核心考點】\nPreeclampsia 腎病理是 endothelial swelling 與 fenestrae loss，不是 fenestrae enlargement。",
+      "key_point": "子癇前症 glomerular endotheliosis 中內皮窗孔減少。",
+      "flashcard_front": "preeclampsia kidney",
+      "flashcard_back": "子癇前症 glomerular endotheliosis 中內皮窗孔減少。",
+      "flashcard_summary": "preeclampsia kidney -> endothelial swelling and loss of fenestrae",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n卵巢腫瘤分類常考 epithelial、germ cell、sex cord-stromal 與 functional cyst。Mucinous cystadenoma 是典型上皮性良性卵巢腫瘤。\n\n【選項詳解】\n- A. Mucinous cystadenoma 屬上皮性卵巢腫瘤，且可為良性，是本題答案。\n- B. Theca lutein cyst 多為功能性囊腫，與高 hCG 狀態相關，不是上皮性腫瘤。\n- C. Dysgerminoma 是惡性 germ cell tumor，不是良性上皮性腫瘤。\n- D. Benign cystic teratoma 是成熟畸胎瘤，屬 germ cell tumor，不是 epithelial tumor。\n\n【核心考點】\n卵巢 mucinous/serous cystadenoma 屬上皮性；teratoma 與 dysgerminoma 屬 germ cell。",
+      "key_point": "Mucinous cystadenoma 是上皮性良性卵巢腫瘤。",
+      "flashcard_front": "ovarian tumor classification",
+      "flashcard_back": "Mucinous cystadenoma 是上皮性良性卵巢腫瘤。",
+      "flashcard_summary": "ovarian tumor classification -> mucinous cystadenoma is epithelial",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

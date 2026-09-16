@@ -217,9 +217,10 @@ def main():
             if set(before_q) != set(after_q):
                 removed = set(before_q) - set(after_q)
                 added = set(after_q) - set(before_q)
-                if removed or added:
+                unexpected_added = added - MERGE_FIELDS
+                if removed or unexpected_added:
                     all_errors.append(
-                        f"question keys changed: Q{after_q.get('question_number')} removed={sorted(removed)} added={sorted(added)}"
+                        f"question keys changed: Q{after_q.get('question_number')} removed={sorted(removed)} added={sorted(unexpected_added)}"
                     )
 
         if all_errors:

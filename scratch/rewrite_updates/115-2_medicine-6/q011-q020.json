@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-6.json",
+  "dataset_id": "115-2_medicine-6",
+  "range": {
+    "start": 11,
+    "end": 20
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-6_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n糖尿病視網膜病變的風險主要與糖尿病病程、血糖控制、高血壓、腎病變、懷孕與血脂等血管風險相關。肝臟病變不是典型或主要危險因子。\n\n【選項詳解】\n- A. 糖尿病時間越久、血糖控制越差，視網膜微血管病變風險越高，是最重要風險組合。\n- B. 高血壓會加重微血管損傷與黃斑水腫風險，與糖尿病視網膜病變高度相關。\n- C. 糖尿病腎病變與視網膜病變同屬微血管併發症，兩者常共同出現並代表全身微血管傷害。\n- D. 肝臟病變不是糖尿病視網膜病變的核心危險因子，與其他選項相比關聯最低。\n\n【核心考點】\n糖尿病視網膜病變看病程、血糖、血壓與腎病變；肝病不是典型主要風險。",
+      "key_point": "糖尿病視網膜病變與肝臟病變關聯性最低。",
+      "flashcard_front": "diabetic retinopathy risks",
+      "flashcard_back": "糖尿病視網膜病變與肝臟病變關聯性最低。",
+      "flashcard_summary": "diabetic retinopathy risks -> duration, glycemia, hypertension, nephropathy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n角膜是眼球主要屈光介質，提供約 43 D 的屈光力，而不是約 15 D。15 D 比較接近水晶體在遠視狀態下的屈光量級。\n\n【選項詳解】\n- A. 傳統解剖常把角膜分為五層：上皮、Bowman layer、基質、Descemet membrane、內皮，敘述可接受。\n- B. 角膜上皮可由 limbal stem cells 更新修復，輪狀部對上皮再生很重要。\n- C. 角膜內皮負責幫浦與屏障功能，維持角膜相對脫水與透明；內皮受損會水腫混濁。\n- D. 角膜提供約 43 D 屈光度，不是 15 D，因此此敘述錯誤。\n\n【核心考點】\n角膜屈光力約 43 D，是眼球最大屈光來源；內皮幫浦維持角膜透明。",
+      "key_point": "角膜屈光力約 43 D，不是 15 D。",
+      "flashcard_front": "cornea",
+      "flashcard_back": "角膜屈光力約 43 D，不是 15 D。",
+      "flashcard_summary": "cornea -> about 43 diopters of refractive power",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\n乾眼症可能來自水液缺乏或淚膜不穩定。淚膜崩裂時間縮短主要反映淚膜穩定性差，常與脂質層或黏液層問題相關，不是最典型地指向水層缺乏。\n\n【選項詳解】\n- A. Schirmer test 先點局部麻醉可減少反射性流淚，較接近測 basal tear secretion，敘述正確。\n- B. Tear meniscus 高度約 0.2 到 0.4 mm 常作為正常範圍參考，過低支持淚液不足。\n- C. TBUT 過短代表淚膜太快破裂，多與蒸發型乾眼、脂質層異常或黏蛋白問題相關；說最可能是水層問題不恰當。\n- D. 螢光染色可顯示角膜上皮缺損、點狀角膜炎與受損分布，對乾眼評估有幫助。\n\n【核心考點】\nSchirmer 偏向淚液量；TBUT 偏向淚膜穩定性，常牽涉脂質層或黏液層。",
+      "key_point": "TBUT 過短主要代表淚膜不穩定，不是水層不足的最直接指標。",
+      "flashcard_front": "dry eye",
+      "flashcard_back": "TBUT 過短主要代表淚膜不穩定，不是水層不足的最直接指標。",
+      "flashcard_summary": "dry eye -> short TBUT means tear film instability",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\n題目把四個敘述組合成選項。POAG 的危險因子包括眼壓相關差異、年齡、家族史、種族與近視等；它也是歐洲人與非洲人最常見的青光眼型態。女性較男性多、亞洲高齡 POAG 盛行率高於白種人這兩句不作為正確組合。\n\n【選項詳解】\n- A. 1 正確但 3 不作為正確敘述，因此 13 不是正確組合。\n- B. 2 與 4 中只有 4 可接受；女性較男性多不是 POAG 的典型正確描述。\n- C. 2 與 3 都不是本題採用的正確敘述，因此 23 不對。\n- D. 1 與 4 為正確組合：兩眼眼壓差距明顯可提示青光眼風險，POAG 是歐洲人與非洲人最多見的青光眼類型。\n\n【核心考點】\nPOAG 常考眼壓、年齡、家族史與種族；歐洲與非洲族群最常見類型為開放性青光眼。",
+      "key_point": "POAG 組合題正確為 1 與 4。",
+      "flashcard_front": "POAG",
+      "flashcard_back": "POAG 組合題正確為 1 與 4。",
+      "flashcard_summary": "POAG -> inter-eye IOP difference and common type in Europeans/Africans",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n閉鎖性青光眼的風險來自前房狹窄與解剖擁擠，例如遠視、短眼軸、女性、年長與亞洲族群。高度近視通常眼軸較長、前房較深，反而不是典型閉鎖性青光眼風險因子。\n\n【選項詳解】\n- A. 遠視眼常眼軸較短、前房較淺，容易產生瞳孔阻滯與隅角閉鎖，是危險因子。\n- B. 短眼軸會讓前房角擁擠，是閉鎖性青光眼的重要解剖風險。\n- C. 女性閉鎖性青光眼風險較高，與前房角解剖與年齡變化有關。\n- D. 高度近視眼軸長，較常與開放性青光眼或視網膜問題相關，不是閉鎖性青光眼典型風險。\n\n【核心考點】\n閉鎖性青光眼看短眼軸、淺前房、遠視、女性與年長；高度近視不是典型風險。",
+      "key_point": "高度近視不是閉鎖性青光眼典型危險因子。",
+      "flashcard_front": "angle-closure glaucoma risks",
+      "flashcard_back": "高度近視不是閉鎖性青光眼典型危險因子。",
+      "flashcard_summary": "angle-closure glaucoma risks -> hyperopia, short axial length, female",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_016",
+      "question_number": 16,
+      "explanation": "【題幹解析】\n典型視神經炎常見於年輕成人，會急性或亞急性單眼視力下降、眼球轉動痛、色覺下降，並可作為多發性硬化症的初次表現。\n\n【選項詳解】\n- A. 視神經炎可能是 multiple sclerosis 的第一個臨床症狀，因此此敘述正確。\n- B. 去髓鞘會讓視覺誘發電位 P100 latency 延長，不是縮短。\n- C. 典型視神經炎常伴隨眼球轉動疼痛，不是多為無痛性急性失明。\n- D. 視網膜滲出與棉絮斑不是典型視神經炎表現；若出現這些眼底病灶，要考慮其他視網膜或感染發炎疾病。\n\n【核心考點】\n典型視神經炎：眼痛、視力與色覺下降、P100 latency 延長，並與 MS 相關。",
+      "key_point": "典型視神經炎可能是多發性硬化症第一個臨床症狀。",
+      "flashcard_front": "optic neuritis",
+      "flashcard_back": "典型視神經炎可能是多發性硬化症第一個臨床症狀。",
+      "flashcard_summary": "optic neuritis -> painful vision loss and MS association",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n甲狀腺眼病變若已有凸眼、眼瞼內縮、眼球活動受限並造成角膜破皮與視力受損，表示有威脅視功能的暴露性角膜病變或壓迫性問題。此時要優先解除眼窩壓力，而不是只做輕症或美容性處理。\n\n【選項詳解】\n- A. Selenium 可用於輕度、活動期甲狀腺眼病變的支持治療，不能處理已造成角膜破皮與視力受損的急迫狀況。\n- B. 眼皮矯正手術通常在病情穩定後處理 lid retraction，不是視功能受威脅時的第一步。\n- C. 眼肌肉手術多用於穩定期處理複視或眼位問題，急性視力威脅時不優先。\n- D. 眼窩減壓手術可降低眼窩壓力、改善凸眼與角膜暴露，對視功能受威脅者應優先考慮。\n\n【核心考點】\n甲狀腺眼病變治療順序：視功能受威脅先救視力與角膜，穩定後才做眼肌與眼瞼重建。",
+      "key_point": "嚴重 TED 合併角膜破皮與視力受損時優先考慮眼窩減壓。",
+      "flashcard_front": "thyroid eye disease",
+      "flashcard_back": "嚴重 TED 合併角膜破皮與視力受損時優先考慮眼窩減壓。",
+      "flashcard_summary": "thyroid eye disease -> sight-threatening disease needs orbital decompression",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n甲狀腺眼病變常造成眼外肌增厚與纖維化，最常受影響的是下直肌，典型會限制上轉並造成垂直複視。\n\n【選項詳解】\n- A. 上直肌可受影響，但不是最常見受累肌肉。\n- B. 下直肌最常受甲狀腺眼病變影響，會造成眼球上轉受限，是本題答案。\n- C. 下斜肌不是甲狀腺眼病變最典型受累肌肉。\n- D. 外直肌也可受影響，但常見度低於下直肌與內直肌。\n\n【核心考點】\n甲狀腺眼病變眼外肌受累常見順序可記下直肌、內直肌、上直肌；下直肌最常考。",
+      "key_point": "甲狀腺眼病變最常影響下直肌。",
+      "flashcard_front": "thyroid eye disease",
+      "flashcard_back": "甲狀腺眼病變最常影響下直肌。",
+      "flashcard_summary": "thyroid eye disease -> inferior rectus is most commonly involved",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\n5 歲兒童在上呼吸道感染後出現急性耳痛，搭配耳鏡圖像線索，最典型是急性中耳炎。急性中耳炎常見鼓膜紅腫、膨出、活動度下降與中耳積液。\n\n【選項詳解】\n- A. 急性中耳炎符合兒童、URI 後耳痛與急性耳鏡變化，是最可能診斷。\n- B. 積液性中耳炎多為中耳積液與聽力悶塞，常不伴明顯急性耳痛與發燒，鼓膜多非急性紅腫膨出。\n- C. 慢性中耳炎通常有長期耳漏、鼓膜穿孔或反覆感染病史，不是 URI 後急性耳痛的典型診斷。\n- D. 膽脂瘤多見慢性惡臭耳漏、聽損或鼓膜後上象限病灶，病程通常不是急性 URI 後耳痛。\n\n【核心考點】\n兒童 URI 後急性耳痛加鼓膜紅腫膨出，要先想到急性中耳炎。",
+      "key_point": "兒童 URI 後急性耳痛最可能是急性中耳炎。",
+      "flashcard_front": "URI + acute otalgia in child",
+      "flashcard_back": "兒童 URI 後急性耳痛最可能是急性中耳炎。",
+      "flashcard_summary": "URI + acute otalgia in child -> acute otitis media",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n海綿竇內或外側壁相關腦神經包括 III、IV、V1、V2 與 VI，其中鼻咽癌經顱底與海綿竇侵犯時常造成眼球運動神經麻痺。第二對腦神經不在海綿竇內。\n\n【選項詳解】\n- A. 第二對腦神經不屬海綿竇腦神經，故含 II 的組合不對。\n- B. 此組合包含 II，且缺少 III，因此不符合海綿竇侵犯典型眼球運動神經組合。\n- C. 第三、四、六對腦神經都與海綿竇相關，侵犯時可造成複視、眼球運動障礙，為正確組合。\n- D. 此組合同樣包含 II 且缺少 IV，因此不是最佳解剖組合。\n\n【核心考點】\n海綿竇腦神經記 III、IV、V1、V2、VI；視神經 II 不在海綿竇內。",
+      "key_point": "鼻咽癌侵犯海綿竇可影響 III、IV、VI。",
+      "flashcard_front": "cavernous sinus",
+      "flashcard_back": "鼻咽癌侵犯海綿竇可影響 III、IV、VI。",
+      "flashcard_summary": "cavernous sinus -> CN III, IV, V1, V2, VI",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

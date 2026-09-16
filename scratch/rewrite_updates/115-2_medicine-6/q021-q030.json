@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-6.json",
+  "dataset_id": "115-2_medicine-6",
+  "range": {
+    "start": 21,
+    "end": 30
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-6_021",
+      "question_number": 21,
+      "explanation": "【題幹解析】\n同一側內耳的前半規管與後半規管近似互相垂直，用來偵測不同平面的角加速度。右後半規管與右上半規管同屬右側垂直半規管，夾角接近 90 度。\n\n【選項詳解】\n- A. 右後半規管和右上半規管在同側內耳中近似垂直，是本題答案。\n- B. 右水平與左水平半規管位於近似同一水平平面，並非互相垂直。\n- C. 右後半規管與左上半規管是功能配對的 coplanar canals，近似同一平面而非垂直。\n- D. 右上半規管與左後半規管也是左右配對的近似同平面組合，不是互相垂直。\n\n【核心考點】\n半規管方向題要分清：同側 superior 與 posterior 近似垂直；對側 superior-posterior 常是功能同平面配對。",
+      "key_point": "右後半規管與右上半規管夾角接近垂直。",
+      "flashcard_front": "semicircular canals",
+      "flashcard_back": "右後半規管與右上半規管夾角接近垂直。",
+      "flashcard_summary": "semicircular canals -> ipsilateral superior and posterior are nearly perpendicular",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_022",
+      "question_number": 22,
+      "explanation": "【題幹解析】\n翼腭窩是上頜神經、翼腭神經節與上頜動脈末端分支的重要通道。後篩動脈來自眼動脈，走在眼眶與篩骨區域，不是翼腭窩內容物。\n\n【選項詳解】\n- A. 翼腭神經節位於翼腭窩內，負責副交感與感覺纖維中繼，屬於典型內容物。\n- B. 上頜神經 CN V2 經圓孔進入翼腭窩，是該窩重要神經。\n- C. 蝶腭動脈是上頜動脈末端分支，經蝶腭孔到鼻腔，與翼腭窩相關。\n- D. 後篩動脈源自眼動脈，經後篩孔供應後篩竇與鼻腔上部，不在翼腭窩內。\n\n【核心考點】\n翼腭窩記 V2、翼腭神經節與上頜動脈末端分支；後篩動脈屬眼動脈系統。",
+      "key_point": "後篩動脈不在翼腭窩內。",
+      "flashcard_front": "pterygopalatine fossa",
+      "flashcard_back": "後篩動脈不在翼腭窩內。",
+      "flashcard_summary": "pterygopalatine fossa -> V2, pterygopalatine ganglion, maxillary artery branches",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n官方更正此題一律給分。慢性鼻竇炎合併鼻息肉常與 type 2 inflammation、嗜伊紅球發炎、IgE 相關反應、過敏性黴菌性鼻竇炎與 aspirin-exacerbated respiratory disease 相關；題目要求找錯誤，但選項彼此界線不清，無法形成穩定單一答案。\n\n【選項詳解】\n- A. 過敏性黴菌性鼻竇炎可合併鼻息肉與 type 2 發炎反應，因此不能簡單視為錯誤原因。\n- B. 嗜伊紅性慢性鼻及鼻竇炎是鼻息肉重要發炎表型，與 CRSwNP 高度相關。\n- C. IgE 依賴或 IgE 相關的黴菌發炎概念可出現在過敏性黴菌性鼻竇炎脈絡中，題意容易與 A 重疊。\n- D. 阿斯匹靈敏感性鼻息肉症是 CRSwNP 常見相關表型，與氣喘、NSAID 反應相關。\n\n【核心考點】\nCRSwNP 常是 type 2/eosinophilic inflammation；本題因官方一律給分，作答時以更正狀態為準。",
+      "key_point": "CRSwNP 與 eosinophilic/type 2 inflammation、AFRS、AERD 都可能相關；官方一律給分。",
+      "flashcard_front": "CRSwNP",
+      "flashcard_back": "CRSwNP 與 eosinophilic/type 2 inflammation、AFRS、AERD 都可能相關；官方一律給分。",
+      "flashcard_summary": "CRSwNP -> official all-credit due ambiguous etiologic options",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": [
+        "官方更正：第23題一律給分。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-6_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n環狀軟骨是喉部唯一完整環狀軟骨。後環杓肌是唯一主要外展聲帶、打開聲門的肌肉；關閉聲帶主要靠外側環杓肌與杓間肌等內收肌群。\n\n【選項詳解】\n- A. 環狀軟骨完整環繞呼吸道，是喉部支架中唯一整圈軟骨，敘述正確。\n- B. 後環杓肌會外展聲帶、打開聲門，不是關閉聲帶的肌肉，因此此敘述錯誤。\n- C. 環甲膜位於甲狀軟骨與環狀軟骨之間，是緊急環甲膜切開的入口，位置表淺且接近呼吸道。\n- D. 杓狀軟骨位於環狀軟骨後上方，透過環杓關節活動以調整聲帶位置。\n\n【核心考點】\n後環杓肌是聲帶外展、開聲門的關鍵肌肉；不要把它與內收肌混淆。",
+      "key_point": "後環杓肌打開聲帶，不是關閉聲帶。",
+      "flashcard_front": "posterior cricoarytenoid",
+      "flashcard_back": "後環杓肌打開聲帶，不是關閉聲帶。",
+      "flashcard_summary": "posterior cricoarytenoid -> abducts vocal folds",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_025",
+      "question_number": 25,
+      "explanation": "【題幹解析】\n年輕無菸酒男性數月聲音變差，喉內視鏡若呈乳突狀、疣狀外生病灶，最符合喉乳突瘤病。它常與 HPV 感染相關，可造成聲音沙啞與復發性病灶。\n\n【選項詳解】\n- A. 喉部類澱粉沉積症多為黃白或蠟樣黏膜下沉積，病灶外觀與乳突狀疣樣增生不同。\n- B. 喉乳突瘤病會形成外生乳突狀病灶，造成慢性聲音沙啞，是本題最可能診斷。\n- C. Wegener 肉芽腫較常造成潰瘍、結痂、壞死或聲門下狹窄，並有全身血管炎線索。\n- D. 肺外結核可有慢性潰瘍或肉芽腫病灶，通常需搭配感染症狀與病理證據，與典型乳突瘤外觀不合。\n\n【核心考點】\n喉乳突瘤病：HPV 相關、乳突狀外生病灶、反覆聲音沙啞。",
+      "key_point": "喉部乳突狀外生病灶加聲音沙啞最像 laryngeal papillomatosis。",
+      "flashcard_front": "laryngeal papillomatosis",
+      "flashcard_back": "喉部乳突狀外生病灶加聲音沙啞最像 laryngeal papillomatosis。",
+      "flashcard_summary": "laryngeal papillomatosis -> HPV-related papillomatous laryngeal lesion",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_026",
+      "question_number": 26,
+      "explanation": "【題幹解析】\nHPV 相關口咽癌常以 p16 免疫染色過度表現作為替代生物標誌。p16 陽性通常代表 HPV E7 影響 Rb pathway 後造成 p16 上升。\n\n【選項詳解】\n- A. p16 是臨床最常用來判斷 HPV-related oropharyngeal squamous cell carcinoma 的 surrogate marker。\n- B. p21 是細胞週期調控蛋白，不是判定 HPV 相關口咽癌的主要標誌。\n- C. p53 突變較常見於菸酒相關、HPV 陰性的頭頸癌路徑，不是 HPV 相關性的代表標誌。\n- D. Rb pathway 受 HPV E7 影響，但臨床檢體判讀通常看 p16 overexpression，而不是直接以 Rb 作為本題答案。\n\n【核心考點】\n口咽癌 HPV 相關性常用 p16 免疫染色作為臨床 surrogate marker。",
+      "key_point": "p16 陽性提示 HPV 相關口咽癌。",
+      "flashcard_front": "HPV-related oropharyngeal cancer",
+      "flashcard_back": "p16 陽性提示 HPV 相關口咽癌。",
+      "flashcard_summary": "HPV-related oropharyngeal cancer -> p16 marker",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_027",
+      "question_number": 27,
+      "explanation": "【題幹解析】\n喉癌治療要依部位與分期判斷。聲門上區淋巴引流豐富，即使早期病灶也較有頸部潛在轉移風險，因此治療時可考慮選擇性頸部淋巴廓清或照射。\n\n【選項詳解】\n- A. 聲帶原位癌可用經口雷射切除或放射治療，不能說治療方式以器官保存放射治療為主而排除手術。\n- B. 原位癌侷限上皮層，手術目標是完整切除病灶並保存功能，不一定需一併切除聲帶韌帶。\n- C. 早期聲門上癌因淋巴轉移風險較聲門癌高，可考慮 elective neck dissection，敘述正確。\n- D. T4 喉癌常需全喉切除合併術後治療；同步放化療與手術加術後治療不能簡單視為存活率相當。\n\n【核心考點】\n聲門上癌比早期聲門癌更重視頸部淋巴處理；T4 喉癌通常不能用器官保存治療概念過度簡化。",
+      "key_point": "早期聲門上癌可考慮選擇性頸部淋巴廓清。",
+      "flashcard_front": "supraglottic cancer",
+      "flashcard_back": "早期聲門上癌可考慮選擇性頸部淋巴廓清。",
+      "flashcard_summary": "supraglottic cancer -> consider elective neck dissection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_028",
+      "question_number": 28,
+      "explanation": "【題幹解析】\n自然流產多發生於第一孕期，尤其懷孕前 12 週。第一孕期流產常見原因是胚胎染色體異常，但最常見不是 trisomy 21，抗磷脂症候群也會增加流產風險。\n\n【選項詳解】\n- A. 約 80% 自然流產發生於懷孕前 12 週，符合第一孕期流產的流行病學。\n- B. 第一孕期流產常見染色體異常包括 trisomy 16、monosomy X、polyploidy 等；trisomy 21 不是最常見。\n- C. 第一孕期流產中染色體異常約占一半上下，75% 過高且不作為典型數字。\n- D. Antiphospholipid antibody syndrome 會增加反覆流產與妊娠併發症風險，不會與正常孕婦一樣。\n\n【核心考點】\n自然流產多在前 12 週；第一孕期流產常見染色體異常，但最常見不是唐氏症。",
+      "key_point": "約 80% 自然流產發生在懷孕前 12 週。",
+      "flashcard_front": "spontaneous abortion",
+      "flashcard_back": "約 80% 自然流產發生在懷孕前 12 週。",
+      "flashcard_summary": "spontaneous abortion -> most occur before 12 weeks",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_029",
+      "question_number": 29,
+      "explanation": "【題幹解析】\n子宮外孕使用 methotrexate 失敗風險與初始 beta-hCG 高、胚胎心跳、包塊較大、腹腔內出血或追蹤不佳相關。7,500 mIU/mL 已高於常用較佳成功率門檻，是最直接的失敗因素。\n\n【選項詳解】\n- A. 多胎次本身不是 methotrexate 失敗的主要預測因子。\n- B. 2.5 cm 的子宮外孕包塊仍屬可考慮藥物治療的範圍，失敗風險不如高 hCG 明顯。\n- C. 既往子宮外孕病史會增加再次發生風險，但不是這次 methotrexate 失敗最強預測因子。\n- D. beta-hCG 7,500 mIU/mL 代表滋養層活性較高，藥物治療失敗率上升，是本題最相關因素。\n\n【核心考點】\nEctopic pregnancy 用 MTX 時，初始 beta-hCG 越高、包塊越大或有心跳，失敗風險越高。",
+      "key_point": "高初始 beta-hCG 是 methotrexate 治療子宮外孕失敗的重要因素。",
+      "flashcard_front": "ectopic pregnancy MTX failure",
+      "flashcard_back": "高初始 beta-hCG 是 methotrexate 治療子宮外孕失敗的重要因素。",
+      "flashcard_summary": "ectopic pregnancy MTX failure -> high initial beta-hCG",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_030",
+      "question_number": 30,
+      "explanation": "【題幹解析】\n分娩前的子宮頸成熟是膠原排列鬆散、含水量與透明質酸增加、發炎細胞與基質重塑增加的過程。子宮頸不是變得更緊密，而是軟化、縮短並擴張。\n\n【選項詳解】\n- A. 分娩前子宮肌層 oxytocin receptor 增加，使子宮對 oxytocin 更敏感，敘述正確。\n- B. Hyaluronan 增加會提高組織含水量並促進子宮頸軟化，敘述正確。\n- C. 子宮頸 collagen fibrils 會分散、排列鬆散、間隙增加；說空隙變小且更緊密與子宮頸成熟相反，因此錯誤。\n- D. 子宮頸成熟有發炎細胞與細胞激素參與，促進基質分解與軟化，敘述正確。\n\n【核心考點】\n子宮頸成熟是 collagen remodeling 與含水量增加，結果是軟化與鬆散，不是更緊密。",
+      "key_point": "分娩前子宮頸膠原排列鬆散、間隙增加。",
+      "flashcard_front": "labor cervical ripening",
+      "flashcard_back": "分娩前子宮頸膠原排列鬆散、間隙增加。",
+      "flashcard_summary": "labor cervical ripening -> collagen disorganization and softening",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

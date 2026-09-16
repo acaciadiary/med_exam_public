@@ -17,15 +17,19 @@
         "D": "神經性肺水腫"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題問全身麻醉甦醒拔管時最不常見的氣道相關併發症。拔管前後常見問題來自上呼吸道阻塞、喉頭刺激、支氣管痙攣或插管造成的喉部損傷；神經性肺水腫通常與中樞神經傷害或顱內壓急遽變化相關，並不是拔管期典型氣道併發症。\n\n【選項詳解】\n- A. 上呼吸道阻塞可因舌根後墜、分泌物、喉頭水腫或殘餘麻醉肌鬆造成，是拔管後常見且需立即處理的問題。\n- B. 支氣管痙攣可由氣管內管刺激、氣道反應性高或分泌物誘發，拔管期確實可能發生。\n- C. 杓狀軟骨脫位可由插管或拔管造成聲門結構受傷，會表現為聲音沙啞或吸入困難，雖少見但屬插管相關併發症。\n- D. 神經性肺水腫多見於急性中樞神經事件後交感神經暴衝，與拔管時的局部氣道事件不同，因此在本題列項中最不可能。\n\n【核心考點】\n拔管期優先想到上呼吸道阻塞、喉痙攣、支氣管痙攣、誤吸與喉部機械性傷害；神經性肺水腫不是典型拔管氣道併發症。",
+      "key_point": "拔管期常見氣道併發症包括阻塞、支氣管痙攣與喉部損傷；神經性肺水腫較不典型。",
+      "flashcard_summary": "extubation complication -> neurogenic pulmonary edema is least typical",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "拔管期常見氣道併發症包括阻塞、支氣管痙攣與喉部損傷；神經性肺水腫較不典型。",
+      "flashcard_front": "extubation complication",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_002",
@@ -38,15 +42,19 @@
         "D": "量測血壓(blood pressure)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n這位病人已在加護病房使用呼吸器，且骨盆與大腿骨骨折使被動抬腿測試不理想。評估輸液是否會增加心輸出量時，機械通氣且條件合適的病人可用脈壓變異率作為動態指標，比靜態壓力或單次血壓更有用。\n\n【選項詳解】\n- A. 中央靜脈壓是靜態充填壓，受胸腔壓、右心功能與血管張力影響大，不能可靠預測輸液反應。\n- B. 脈壓變異率利用正壓呼吸造成的心肺交互作用來推估前負荷反應性，在控制式機械通氣、規則心律、足夠潮氣量等條件下是合適動態指標。\n- C. 被動式抬腿測試可作為可逆性自體輸液試驗，但骨盆與大腿骨骨折病人不適合搬動下肢，且疼痛與固定會影響操作。\n- D. 血壓只能反映當下灌流壓，受血管阻力與心輸出量共同影響，不能直接判斷再給液體是否有效。\n\n【核心考點】\n輸液反應要看動態指標；機械通氣條件合適時可用 PPV，骨盆或股骨骨折病人不適合用被動抬腿測試。",
+      "key_point": "機械通氣且條件合適的重症病人可用 pulse pressure variation 評估輸液反應。",
+      "flashcard_summary": "fluid responsiveness -> PPV for ventilated patient; avoid PLR in pelvic/femur fracture",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "機械通氣且條件合適的重症病人可用 pulse pressure variation 評估輸液反應。",
+      "flashcard_front": "fluid responsiveness",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_003",
@@ -59,17 +67,21 @@
         "D": "先給與100%之氧氣面罩治療,高壓氧可加速降低體內一氧化碳血紅素(carboxyhemoglobin)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n官方更正接受 A 或 B 或 AB 給分。CO 中毒會讓 carboxyhemoglobin 增加並使血紅素攜氧能力下降，但一般脈搏血氧機無法分辨 oxyhemoglobin 與 carboxyhemoglobin，常呈現假性正常；此外以 carboxyhemoglobin 大於 15% 作為單一中毒定義也有門檻爭議。\n\n【選項詳解】\n- A. 不適當。CO 會占據血紅素並減少有效攜氧，但傳統 SpO2 會把 carboxyhemoglobin 誤判成 oxyhemoglobin，讀值常假性偏高或正常，不一定偏低。\n- B. 也被官方接受。COHb 濃度用來支持診斷，但臨床門檻會受抽血時間、給氧、抽菸狀態與症狀影響；把中毒定義僵硬寫成大於 15% 容易過度簡化。\n- C. 頭痛、噁心、無力、意識混亂、休克都可見於 CO 中毒，重症還可有心肌缺氧與神經後遺症。\n- D. 立即給 100% 氧氣可加速 COHb 解離；高壓氧在重症、意識障礙、孕婦或高濃度 COHb 等情境可進一步縮短半衰期。\n\n【核心考點】\nCO 中毒的陷阱是 SpO2 可能假性正常；診斷要看暴露史、症狀與 COHb，而不是只靠脈搏血氧。",
+      "key_point": "CO poisoning 中 SpO2 常假性正常；官方更正接受 A 或 B。",
+      "flashcard_summary": "CO poisoning -> pulse oximeter falsely normal; official accepts A/B",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B"
       ],
       "answer_status": "multiple_correct",
       "answer_source": "official_correction",
-      "answer_note": "第3題答A或B或AB者均給分"
+      "answer_note": "第3題答A或B或AB者均給分",
+      "flashcard_back": "CO poisoning 中 SpO2 常假性正常；官方更正接受 A 或 B。",
+      "flashcard_front": "CO poisoning",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_004",
@@ -82,15 +94,19 @@
         "D": "胸部X 光為肺水腫(pulmonary edema)早期診斷的最佳工具,肺水(lung water)增加5%,就可以顯現\n 變化並判讀"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n麻醉中呼吸監測同時要看氧合、換氣與肺部狀態。胸部 X 光能診斷許多肺部問題，但對早期肺水腫並非最敏感工具，少量肺水增加不會立刻在 X 光上清楚呈現。\n\n【選項詳解】\n- A. Pulse oximetry 可連續追蹤氧合，是麻醉與恢復室基本監測工具。\n- B. End-tidal CO2 與 PaCO2 受死腔、肺灌流、心輸出量與肺部疾病影響，兩者本來就不一定相同。\n- C. 床邊超音波可快速評估氣胸、肺實變、肋膜積液與肺水腫 B-lines，近年在手術室與加護病房常用。\n- D. 胸部 X 光不是肺水腫早期診斷的最佳工具；通常需較明顯的肺水或間質變化才容易判讀，5% 增加就可顯現的說法不合理。\n\n【核心考點】\n早期肺水腫可用臨床、氧合、超音波與血流動力學綜合判斷；胸部 X 光不是最早期、最敏感的肺水監測。",
+      "key_point": "胸部 X 光不是肺水腫早期診斷的最佳工具。",
+      "flashcard_summary": "respiratory monitoring -> CXR is insensitive for early pulmonary edema",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "胸部 X 光不是肺水腫早期診斷的最佳工具。",
+      "flashcard_front": "respiratory monitoring",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_005",
@@ -103,15 +119,19 @@
         "D": "容易產生術後的呼吸抑制,所以不建議術後使用"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nDexmedetomidine 是選擇性 alpha-2 agonist，特色是鎮靜、交感抑制、減少 opioid 需求，且相對保留呼吸驅動。它通常降低麻醉藥需求，不會提高吸入麻醉劑 MAC。\n\n【選項詳解】\n- A. Alpha-2 鎮痛主要與脊髓背角及中樞交感抑制相關，選項寫成腹角不精確，因此不是最佳藥理描述。\n- B. Dexmedetomidine 可提供 opioid-sparing effect，術中與術後常能減少類鴉片用量，這是本題最恰當敘述。\n- C. Dexmedetomidine 會降低交感張力與麻醉藥需求，通常使吸入麻醉劑 MAC 下降，而不是提高。\n- D. Dexmedetomidine 的重要優點之一是呼吸抑制較輕，可用於需要鎮靜但希望保留呼吸的情境；說容易造成術後呼吸抑制不恰當。\n\n【核心考點】\nDexmedetomidine：alpha-2 agonist、鎮靜鎮痛、減少 opioid 與麻醉藥需求、呼吸抑制相對少，但需注意低血壓與心搏過慢。",
+      "key_point": "Dexmedetomidine 有 opioid-sparing effect，且相對不抑制呼吸。",
+      "flashcard_summary": "dexmedetomidine -> alpha-2 agonist with opioid-sparing effect",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Dexmedetomidine 有 opioid-sparing effect，且相對不抑制呼吸。",
+      "flashcard_front": "dexmedetomidine",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_006",
@@ -124,15 +144,19 @@
         "D": "bupivacaine 是經由肝臟P-450 enzymes 代謝"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n本題考局部麻醉劑分類與代謝。Amide 類多經肝臟代謝，其中 bupivacaine 屬 amide 類，主要靠肝臟 cytochrome P450 系統代謝；ester 類才多由血漿 pseudocholinesterase 代謝。\n\n【選項詳解】\n- A. 局部麻醉劑血中濃度下降與分布、組織吸收及代謝都有關，不能把快速移除主要歸因於一開始快速分布到肌肉。\n- B. Amide 類局部麻醉劑主要在肝臟代謝；pseudocholinesterase 是 ester 類的重要代謝酵素，選項把兩者混淆。\n- C. Cocaine 是 ester 類局部麻醉劑，不是 amide 類。\n- D. Bupivacaine 是 amide 類，經肝臟 P450 enzymes 代謝，且心臟毒性較需警覺，因此此敘述最恰當。\n\n【核心考點】\nEster 類局麻藥靠 pseudocholinesterase；amide 類如 lidocaine、bupivacaine 多靠肝臟代謝。",
+      "key_point": "Bupivacaine 是 amide 類局麻藥，主要經肝臟 P450 代謝。",
+      "flashcard_summary": "local anesthetics -> amide liver metabolism; ester pseudocholinesterase",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Bupivacaine 是 amide 類局麻藥，主要經肝臟 P450 代謝。",
+      "flashcard_front": "local anesthetics",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_007",
@@ -145,15 +169,19 @@
         "D": "劍突下四腔視圖(subcostal four-chamber view, SC4)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nFoCUS 的核心目標是快速取得床邊心臟功能、心包積液與容量狀態資訊，常用視圖包括胸骨旁長軸、胸骨旁短軸、心尖四腔、劍突下四腔與下腔靜脈。心尖長軸不是最主要的基本 FoCUS 視圖。\n\n【選項詳解】\n- A. 心尖長軸視圖可在完整心臟超音波中使用，但不是 FoCUS 基本檢查最主要視圖，因此是本題答案。\n- B. 胸骨旁短軸視圖可看左心室收縮、右心壓力負荷與室壁運動，是常用 FoCUS 視圖。\n- C. 心尖四腔視圖可比較左右心大小、看整體收縮與心包積液，是 FoCUS 基本視圖之一。\n- D. 劍突下四腔視圖在休克、創傷或無法取得胸前視窗時很重要，也常用來看心包積液。\n\n【核心考點】\nFoCUS 基本視圖要熟：PLAX、PSAX、A4C、subcostal 4-chamber 與 IVC；ALAX 不是主要基本視圖。",
+      "key_point": "FoCUS 主要視圖不包含 apical long-axis view。",
+      "flashcard_summary": "FoCUS views -> ALAX is not a primary focused view",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "FoCUS 主要視圖不包含 apical long-axis view。",
+      "flashcard_front": "FoCUS views",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_008",
@@ -166,15 +194,19 @@
         "D": "當病人失去意識且對疼痛刺激無反應時,已進入全身麻醉"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n鎮靜到全身麻醉是連續光譜。Deep sedation 時病人不一定能維持呼吸道通暢，可能需要呼吸道處置；若已失去意識且對疼痛刺激無反應，則進入全身麻醉層級。\n\n【選項詳解】\n- A. Minimal sedation 主要是 anxiolysis，認知與協調可稍受影響，但對口語指令反應正常，敘述正確。\n- B. Moderate sedation 時病人對口語叫喚或輕觸刺激有目的反應，自主呼吸通常足夠，敘述正確。\n- C. Deep sedation 對疼痛或重複刺激才有反應，且自發呼吸可能不足、可能需要 airway intervention；說皆足夠且不需處置是錯誤。\n- D. 全身麻醉時病人不可喚醒，通常對疼痛刺激無反應，常需協助通氣或維持呼吸道，敘述正確。\n\n【核心考點】\nDeep sedation 的考點是呼吸道與通氣可能失守；不要把它寫成一定能自行維持呼吸。",
+      "key_point": "Deep sedation 可能需要呼吸道處置，自發呼吸不一定足夠。",
+      "flashcard_summary": "sedation depth -> deep sedation may require airway support",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Deep sedation 可能需要呼吸道處置，自發呼吸不一定足夠。",
+      "flashcard_front": "sedation depth",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_009",
@@ -187,15 +219,19 @@
         "D": "PCA 可減少類鴉片藥物相關副作用"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nPCA 能讓病人自行在設定範圍內給藥，常改善止痛滿意度並減少血中濃度劇烈波動；但它不是絕對安全，仍可能發生鎮靜過深、呼吸抑制、噁心嘔吐或操作錯誤。\n\n【選項詳解】\n- A. Lockout interval 只能降低重複給藥風險，不能保證絕對安全；病人共病、基礎輸注、他人代按與監測不足都可能造成危險，因此此敘述最不適當。\n- B. PCA 可設定 bolus dose、lockout interval，也可視情況設定 basal infusion，這是裝置基本功能。\n- C. PCA 常能提升病人自主感與止痛滿意度，並可能降低總 opioid 用量或避免過量追加。\n- D. 因疼痛控制較穩定且避免不必要給藥，PCA 可減少部分 opioid 相關副作用，但仍需監測呼吸與意識。\n\n【核心考點】\nPCA 的安全來自劑量、鎖定時間與監測，不是裝置本身絕對安全；特別要防呼吸抑制與他人代按。",
+      "key_point": "PCA 有 lockout interval，但不是絕對安全。",
+      "flashcard_summary": "PCA -> lockout reduces risk but does not eliminate opioid toxicity",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "PCA 有 lockout interval，但不是絕對安全。",
+      "flashcard_front": "PCA",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_010",
@@ -208,15 +244,19 @@
         "D": "葡萄腫(staphyloma)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n高度近視病人突然出現明顯飛蚊症，要警覺玻璃體牽拉造成視網膜裂孔，進一步形成裂孔性視網膜剝離。題目附圖雖未在資料中呈現，但高度近視加急性飛蚊是典型線索。\n\n【選項詳解】\n- A. 牽引性視網膜剝離常見於增殖性糖尿病視網膜病變、早產兒視網膜病變等纖維血管膜牽拉，不是高度近視急性裂孔的典型類型。\n- B. 裂孔性視網膜剝離由視網膜裂孔讓液體進入神經視網膜下方，高度近視與急性飛蚊、閃光感都支持此診斷。\n- C. 滲出性視網膜剝離沒有裂孔，常與發炎、腫瘤、脈絡膜病變或高血壓相關，與本題線索不合。\n- D. 葡萄腫是高度近視眼球壁後極部外凸變形，可造成屈光與黃斑問題，但不解釋突然大量飛蚊與急性剝離。\n\n【核心考點】\n高度近視加突然飛蚊或閃光，要先排除視網膜裂孔與裂孔性視網膜剝離。",
+      "key_point": "高度近視急性飛蚊要懷疑 rhegmatogenous retinal detachment。",
+      "flashcard_summary": "high myopia + acute floaters -> rhegmatogenous retinal detachment",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "高度近視急性飛蚊要懷疑 rhegmatogenous retinal detachment。",
+      "flashcard_front": "high myopia + acute floaters",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_011",
@@ -229,15 +269,19 @@
         "D": "肝臟病變"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n糖尿病視網膜病變的風險主要與糖尿病病程、血糖控制、高血壓、腎病變、懷孕與血脂等血管風險相關。肝臟病變不是典型或主要危險因子。\n\n【選項詳解】\n- A. 糖尿病時間越久、血糖控制越差，視網膜微血管病變風險越高，是最重要風險組合。\n- B. 高血壓會加重微血管損傷與黃斑水腫風險，與糖尿病視網膜病變高度相關。\n- C. 糖尿病腎病變與視網膜病變同屬微血管併發症，兩者常共同出現並代表全身微血管傷害。\n- D. 肝臟病變不是糖尿病視網膜病變的核心危險因子，與其他選項相比關聯最低。\n\n【核心考點】\n糖尿病視網膜病變看病程、血糖、血壓與腎病變；肝病不是典型主要風險。",
+      "key_point": "糖尿病視網膜病變與肝臟病變關聯性最低。",
+      "flashcard_summary": "diabetic retinopathy risks -> duration, glycemia, hypertension, nephropathy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "糖尿病視網膜病變與肝臟病變關聯性最低。",
+      "flashcard_front": "diabetic retinopathy risks",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_012",
@@ -250,15 +294,19 @@
         "D": "角膜提供了約15 D(diopter)的屈光度"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n角膜是眼球主要屈光介質，提供約 43 D 的屈光力，而不是約 15 D。15 D 比較接近水晶體在遠視狀態下的屈光量級。\n\n【選項詳解】\n- A. 傳統解剖常把角膜分為五層：上皮、Bowman layer、基質、Descemet membrane、內皮，敘述可接受。\n- B. 角膜上皮可由 limbal stem cells 更新修復，輪狀部對上皮再生很重要。\n- C. 角膜內皮負責幫浦與屏障功能，維持角膜相對脫水與透明；內皮受損會水腫混濁。\n- D. 角膜提供約 43 D 屈光度，不是 15 D，因此此敘述錯誤。\n\n【核心考點】\n角膜屈光力約 43 D，是眼球最大屈光來源；內皮幫浦維持角膜透明。",
+      "key_point": "角膜屈光力約 43 D，不是 15 D。",
+      "flashcard_summary": "cornea -> about 43 diopters of refractive power",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "角膜屈光力約 43 D，不是 15 D。",
+      "flashcard_front": "cornea",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_013",
@@ -271,15 +319,19 @@
         "D": "螢光染色可幫助觀察角膜上皮破損的程度與位置"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n乾眼症可能來自水液缺乏或淚膜不穩定。淚膜崩裂時間縮短主要反映淚膜穩定性差，常與脂質層或黏液層問題相關，不是最典型地指向水層缺乏。\n\n【選項詳解】\n- A. Schirmer test 先點局部麻醉可減少反射性流淚，較接近測 basal tear secretion，敘述正確。\n- B. Tear meniscus 高度約 0.2 到 0.4 mm 常作為正常範圍參考，過低支持淚液不足。\n- C. TBUT 過短代表淚膜太快破裂，多與蒸發型乾眼、脂質層異常或黏蛋白問題相關；說最可能是水層問題不恰當。\n- D. 螢光染色可顯示角膜上皮缺損、點狀角膜炎與受損分布，對乾眼評估有幫助。\n\n【核心考點】\nSchirmer 偏向淚液量；TBUT 偏向淚膜穩定性，常牽涉脂質層或黏液層。",
+      "key_point": "TBUT 過短主要代表淚膜不穩定，不是水層不足的最直接指標。",
+      "flashcard_summary": "dry eye -> short TBUT means tear film instability",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "TBUT 過短主要代表淚膜不穩定，不是水層不足的最直接指標。",
+      "flashcard_front": "dry eye",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_014",
@@ -292,15 +344,19 @@
         "D": "14"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題目把四個敘述組合成選項。POAG 的危險因子包括眼壓相關差異、年齡、家族史、種族與近視等；它也是歐洲人與非洲人最常見的青光眼型態。女性較男性多、亞洲高齡 POAG 盛行率高於白種人這兩句不作為正確組合。\n\n【選項詳解】\n- A. 1 正確但 3 不作為正確敘述，因此 13 不是正確組合。\n- B. 2 與 4 中只有 4 可接受；女性較男性多不是 POAG 的典型正確描述。\n- C. 2 與 3 都不是本題採用的正確敘述，因此 23 不對。\n- D. 1 與 4 為正確組合：兩眼眼壓差距明顯可提示青光眼風險，POAG 是歐洲人與非洲人最多見的青光眼類型。\n\n【核心考點】\nPOAG 常考眼壓、年齡、家族史與種族；歐洲與非洲族群最常見類型為開放性青光眼。",
+      "key_point": "POAG 組合題正確為 1 與 4。",
+      "flashcard_summary": "POAG -> inter-eye IOP difference and common type in Europeans/Africans",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "POAG 組合題正確為 1 與 4。",
+      "flashcard_front": "POAG",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_015",
@@ -313,15 +369,19 @@
         "D": "高度近視"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n閉鎖性青光眼的風險來自前房狹窄與解剖擁擠，例如遠視、短眼軸、女性、年長與亞洲族群。高度近視通常眼軸較長、前房較深，反而不是典型閉鎖性青光眼風險因子。\n\n【選項詳解】\n- A. 遠視眼常眼軸較短、前房較淺，容易產生瞳孔阻滯與隅角閉鎖，是危險因子。\n- B. 短眼軸會讓前房角擁擠，是閉鎖性青光眼的重要解剖風險。\n- C. 女性閉鎖性青光眼風險較高，與前房角解剖與年齡變化有關。\n- D. 高度近視眼軸長，較常與開放性青光眼或視網膜問題相關，不是閉鎖性青光眼典型風險。\n\n【核心考點】\n閉鎖性青光眼看短眼軸、淺前房、遠視、女性與年長；高度近視不是典型風險。",
+      "key_point": "高度近視不是閉鎖性青光眼典型危險因子。",
+      "flashcard_summary": "angle-closure glaucoma risks -> hyperopia, short axial length, female",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "高度近視不是閉鎖性青光眼典型危險因子。",
+      "flashcard_front": "angle-closure glaucoma risks",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_016",
@@ -334,15 +394,19 @@
         "D": "常合併視網膜滲出(retinal exudates)和棉絮斑(cotton-wool spots)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n典型視神經炎常見於年輕成人，會急性或亞急性單眼視力下降、眼球轉動痛、色覺下降，並可作為多發性硬化症的初次表現。\n\n【選項詳解】\n- A. 視神經炎可能是 multiple sclerosis 的第一個臨床症狀，因此此敘述正確。\n- B. 去髓鞘會讓視覺誘發電位 P100 latency 延長，不是縮短。\n- C. 典型視神經炎常伴隨眼球轉動疼痛，不是多為無痛性急性失明。\n- D. 視網膜滲出與棉絮斑不是典型視神經炎表現；若出現這些眼底病灶，要考慮其他視網膜或感染發炎疾病。\n\n【核心考點】\n典型視神經炎：眼痛、視力與色覺下降、P100 latency 延長，並與 MS 相關。",
+      "key_point": "典型視神經炎可能是多發性硬化症第一個臨床症狀。",
+      "flashcard_summary": "optic neuritis -> painful vision loss and MS association",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "典型視神經炎可能是多發性硬化症第一個臨床症狀。",
+      "flashcard_front": "optic neuritis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_017",
@@ -355,15 +419,19 @@
         "D": "眼窩減壓手術"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n甲狀腺眼病變若已有凸眼、眼瞼內縮、眼球活動受限並造成角膜破皮與視力受損，表示有威脅視功能的暴露性角膜病變或壓迫性問題。此時要優先解除眼窩壓力，而不是只做輕症或美容性處理。\n\n【選項詳解】\n- A. Selenium 可用於輕度、活動期甲狀腺眼病變的支持治療，不能處理已造成角膜破皮與視力受損的急迫狀況。\n- B. 眼皮矯正手術通常在病情穩定後處理 lid retraction，不是視功能受威脅時的第一步。\n- C. 眼肌肉手術多用於穩定期處理複視或眼位問題，急性視力威脅時不優先。\n- D. 眼窩減壓手術可降低眼窩壓力、改善凸眼與角膜暴露，對視功能受威脅者應優先考慮。\n\n【核心考點】\n甲狀腺眼病變治療順序：視功能受威脅先救視力與角膜，穩定後才做眼肌與眼瞼重建。",
+      "key_point": "嚴重 TED 合併角膜破皮與視力受損時優先考慮眼窩減壓。",
+      "flashcard_summary": "thyroid eye disease -> sight-threatening disease needs orbital decompression",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "嚴重 TED 合併角膜破皮與視力受損時優先考慮眼窩減壓。",
+      "flashcard_front": "thyroid eye disease",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_018",
@@ -376,15 +444,19 @@
         "D": "外直肌"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n甲狀腺眼病變常造成眼外肌增厚與纖維化，最常受影響的是下直肌，典型會限制上轉並造成垂直複視。\n\n【選項詳解】\n- A. 上直肌可受影響，但不是最常見受累肌肉。\n- B. 下直肌最常受甲狀腺眼病變影響，會造成眼球上轉受限，是本題答案。\n- C. 下斜肌不是甲狀腺眼病變最典型受累肌肉。\n- D. 外直肌也可受影響，但常見度低於下直肌與內直肌。\n\n【核心考點】\n甲狀腺眼病變眼外肌受累常見順序可記下直肌、內直肌、上直肌；下直肌最常考。",
+      "key_point": "甲狀腺眼病變最常影響下直肌。",
+      "flashcard_summary": "thyroid eye disease -> inferior rectus is most commonly involved",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "甲狀腺眼病變最常影響下直肌。",
+      "flashcard_front": "thyroid eye disease",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_019",
@@ -397,15 +469,19 @@
         "D": "膽脂瘤"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n5 歲兒童在上呼吸道感染後出現急性耳痛，搭配耳鏡圖像線索，最典型是急性中耳炎。急性中耳炎常見鼓膜紅腫、膨出、活動度下降與中耳積液。\n\n【選項詳解】\n- A. 急性中耳炎符合兒童、URI 後耳痛與急性耳鏡變化，是最可能診斷。\n- B. 積液性中耳炎多為中耳積液與聽力悶塞，常不伴明顯急性耳痛與發燒，鼓膜多非急性紅腫膨出。\n- C. 慢性中耳炎通常有長期耳漏、鼓膜穿孔或反覆感染病史，不是 URI 後急性耳痛的典型診斷。\n- D. 膽脂瘤多見慢性惡臭耳漏、聽損或鼓膜後上象限病灶，病程通常不是急性 URI 後耳痛。\n\n【核心考點】\n兒童 URI 後急性耳痛加鼓膜紅腫膨出，要先想到急性中耳炎。",
+      "key_point": "兒童 URI 後急性耳痛最可能是急性中耳炎。",
+      "flashcard_summary": "URI + acute otalgia in child -> acute otitis media",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "兒童 URI 後急性耳痛最可能是急性中耳炎。",
+      "flashcard_front": "URI + acute otalgia in child",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_020",
@@ -418,15 +494,19 @@
         "D": "第二、三、六對腦神經"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n海綿竇內或外側壁相關腦神經包括 III、IV、V1、V2 與 VI，其中鼻咽癌經顱底與海綿竇侵犯時常造成眼球運動神經麻痺。第二對腦神經不在海綿竇內。\n\n【選項詳解】\n- A. 第二對腦神經不屬海綿竇腦神經，故含 II 的組合不對。\n- B. 此組合包含 II，且缺少 III，因此不符合海綿竇侵犯典型眼球運動神經組合。\n- C. 第三、四、六對腦神經都與海綿竇相關，侵犯時可造成複視、眼球運動障礙，為正確組合。\n- D. 此組合同樣包含 II 且缺少 IV，因此不是最佳解剖組合。\n\n【核心考點】\n海綿竇腦神經記 III、IV、V1、V2、VI；視神經 II 不在海綿竇內。",
+      "key_point": "鼻咽癌侵犯海綿竇可影響 III、IV、VI。",
+      "flashcard_summary": "cavernous sinus -> CN III, IV, V1, V2, VI",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "鼻咽癌侵犯海綿竇可影響 III、IV、VI。",
+      "flashcard_front": "cavernous sinus",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_021",
@@ -439,15 +519,19 @@
         "D": "右上半規管和左後半規管"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n同一側內耳的前半規管與後半規管近似互相垂直，用來偵測不同平面的角加速度。右後半規管與右上半規管同屬右側垂直半規管，夾角接近 90 度。\n\n【選項詳解】\n- A. 右後半規管和右上半規管在同側內耳中近似垂直，是本題答案。\n- B. 右水平與左水平半規管位於近似同一水平平面，並非互相垂直。\n- C. 右後半規管與左上半規管是功能配對的 coplanar canals，近似同一平面而非垂直。\n- D. 右上半規管與左後半規管也是左右配對的近似同平面組合，不是互相垂直。\n\n【核心考點】\n半規管方向題要分清：同側 superior 與 posterior 近似垂直；對側 superior-posterior 常是功能同平面配對。",
+      "key_point": "右後半規管與右上半規管夾角接近垂直。",
+      "flashcard_summary": "semicircular canals -> ipsilateral superior and posterior are nearly perpendicular",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "右後半規管與右上半規管夾角接近垂直。",
+      "flashcard_front": "semicircular canals",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_022",
@@ -460,15 +544,19 @@
         "D": "後篩動脈(posterior ethmoidal artery)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n翼腭窩是上頜神經、翼腭神經節與上頜動脈末端分支的重要通道。後篩動脈來自眼動脈，走在眼眶與篩骨區域，不是翼腭窩內容物。\n\n【選項詳解】\n- A. 翼腭神經節位於翼腭窩內，負責副交感與感覺纖維中繼，屬於典型內容物。\n- B. 上頜神經 CN V2 經圓孔進入翼腭窩，是該窩重要神經。\n- C. 蝶腭動脈是上頜動脈末端分支，經蝶腭孔到鼻腔，與翼腭窩相關。\n- D. 後篩動脈源自眼動脈，經後篩孔供應後篩竇與鼻腔上部，不在翼腭窩內。\n\n【核心考點】\n翼腭窩記 V2、翼腭神經節與上頜動脈末端分支；後篩動脈屬眼動脈系統。",
+      "key_point": "後篩動脈不在翼腭窩內。",
+      "flashcard_summary": "pterygopalatine fossa -> V2, pterygopalatine ganglion, maxillary artery branches",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "後篩動脈不在翼腭窩內。",
+      "flashcard_front": "pterygopalatine fossa",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_023",
@@ -481,10 +569,10 @@
         "D": "阿斯匹靈敏感性鼻息肉症(aspirin-sensitive nasal polyposis)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n官方更正此題一律給分。慢性鼻竇炎合併鼻息肉常與 type 2 inflammation、嗜伊紅球發炎、IgE 相關反應、過敏性黴菌性鼻竇炎與 aspirin-exacerbated respiratory disease 相關；題目要求找錯誤，但選項彼此界線不清，無法形成穩定單一答案。\n\n【選項詳解】\n- A. 過敏性黴菌性鼻竇炎可合併鼻息肉與 type 2 發炎反應，因此不能簡單視為錯誤原因。\n- B. 嗜伊紅性慢性鼻及鼻竇炎是鼻息肉重要發炎表型，與 CRSwNP 高度相關。\n- C. IgE 依賴或 IgE 相關的黴菌發炎概念可出現在過敏性黴菌性鼻竇炎脈絡中，題意容易與 A 重疊。\n- D. 阿斯匹靈敏感性鼻息肉症是 CRSwNP 常見相關表型，與氣喘、NSAID 反應相關。\n\n【核心考點】\nCRSwNP 常是 type 2/eosinophilic inflammation；本題因官方一律給分，作答時以更正狀態為準。",
+      "key_point": "CRSwNP 與 eosinophilic/type 2 inflammation、AFRS、AERD 都可能相關；官方一律給分。",
+      "flashcard_summary": "CRSwNP -> official all-credit due ambiguous etiologic options",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -493,7 +581,11 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第23題一律給分"
+      "answer_note": "第23題一律給分",
+      "flashcard_back": "CRSwNP 與 eosinophilic/type 2 inflammation、AFRS、AERD 都可能相關；官方一律給分。",
+      "flashcard_front": "CRSwNP",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_024",
@@ -506,15 +598,19 @@
         "D": "杓狀軟骨(arytenoid cartilage)位於環狀軟骨後上方兩側,藉由一個滑液關節(synovial joint)連結"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n環狀軟骨是喉部唯一完整環狀軟骨。後環杓肌是唯一主要外展聲帶、打開聲門的肌肉；關閉聲帶主要靠外側環杓肌與杓間肌等內收肌群。\n\n【選項詳解】\n- A. 環狀軟骨完整環繞呼吸道，是喉部支架中唯一整圈軟骨，敘述正確。\n- B. 後環杓肌會外展聲帶、打開聲門，不是關閉聲帶的肌肉，因此此敘述錯誤。\n- C. 環甲膜位於甲狀軟骨與環狀軟骨之間，是緊急環甲膜切開的入口，位置表淺且接近呼吸道。\n- D. 杓狀軟骨位於環狀軟骨後上方，透過環杓關節活動以調整聲帶位置。\n\n【核心考點】\n後環杓肌是聲帶外展、開聲門的關鍵肌肉；不要把它與內收肌混淆。",
+      "key_point": "後環杓肌打開聲帶，不是關閉聲帶。",
+      "flashcard_summary": "posterior cricoarytenoid -> abducts vocal folds",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "後環杓肌打開聲帶，不是關閉聲帶。",
+      "flashcard_front": "posterior cricoarytenoid",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_025",
@@ -527,15 +623,19 @@
         "D": "肺外結核(extrapulmonary tuberculosis)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n年輕無菸酒男性數月聲音變差，喉內視鏡若呈乳突狀、疣狀外生病灶，最符合喉乳突瘤病。它常與 HPV 感染相關，可造成聲音沙啞與復發性病灶。\n\n【選項詳解】\n- A. 喉部類澱粉沉積症多為黃白或蠟樣黏膜下沉積，病灶外觀與乳突狀疣樣增生不同。\n- B. 喉乳突瘤病會形成外生乳突狀病灶，造成慢性聲音沙啞，是本題最可能診斷。\n- C. Wegener 肉芽腫較常造成潰瘍、結痂、壞死或聲門下狹窄，並有全身血管炎線索。\n- D. 肺外結核可有慢性潰瘍或肉芽腫病灶，通常需搭配感染症狀與病理證據，與典型乳突瘤外觀不合。\n\n【核心考點】\n喉乳突瘤病：HPV 相關、乳突狀外生病灶、反覆聲音沙啞。",
+      "key_point": "喉部乳突狀外生病灶加聲音沙啞最像 laryngeal papillomatosis。",
+      "flashcard_summary": "laryngeal papillomatosis -> HPV-related papillomatous laryngeal lesion",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "喉部乳突狀外生病灶加聲音沙啞最像 laryngeal papillomatosis。",
+      "flashcard_front": "laryngeal papillomatosis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_026",
@@ -548,15 +648,19 @@
         "D": "Rb"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nHPV 相關口咽癌常以 p16 免疫染色過度表現作為替代生物標誌。p16 陽性通常代表 HPV E7 影響 Rb pathway 後造成 p16 上升。\n\n【選項詳解】\n- A. p16 是臨床最常用來判斷 HPV-related oropharyngeal squamous cell carcinoma 的 surrogate marker。\n- B. p21 是細胞週期調控蛋白，不是判定 HPV 相關口咽癌的主要標誌。\n- C. p53 突變較常見於菸酒相關、HPV 陰性的頭頸癌路徑，不是 HPV 相關性的代表標誌。\n- D. Rb pathway 受 HPV E7 影響，但臨床檢體判讀通常看 p16 overexpression，而不是直接以 Rb 作為本題答案。\n\n【核心考點】\n口咽癌 HPV 相關性常用 p16 免疫染色作為臨床 surrogate marker。",
+      "key_point": "p16 陽性提示 HPV 相關口咽癌。",
+      "flashcard_summary": "HPV-related oropharyngeal cancer -> p16 marker",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "p16 陽性提示 HPV 相關口咽癌。",
+      "flashcard_front": "HPV-related oropharyngeal cancer",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_027",
@@ -569,15 +673,19 @@
         "D": "對T4 喉癌來說,同步放化療(concurrent chemoradiation therapy)與手術治療加術後放化療的存活率相\n 當"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n喉癌治療要依部位與分期判斷。聲門上區淋巴引流豐富，即使早期病灶也較有頸部潛在轉移風險，因此治療時可考慮選擇性頸部淋巴廓清或照射。\n\n【選項詳解】\n- A. 聲帶原位癌可用經口雷射切除或放射治療，不能說治療方式以器官保存放射治療為主而排除手術。\n- B. 原位癌侷限上皮層，手術目標是完整切除病灶並保存功能，不一定需一併切除聲帶韌帶。\n- C. 早期聲門上癌因淋巴轉移風險較聲門癌高，可考慮 elective neck dissection，敘述正確。\n- D. T4 喉癌常需全喉切除合併術後治療；同步放化療與手術加術後治療不能簡單視為存活率相當。\n\n【核心考點】\n聲門上癌比早期聲門癌更重視頸部淋巴處理；T4 喉癌通常不能用器官保存治療概念過度簡化。",
+      "key_point": "早期聲門上癌可考慮選擇性頸部淋巴廓清。",
+      "flashcard_summary": "supraglottic cancer -> consider elective neck dissection",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "早期聲門上癌可考慮選擇性頸部淋巴廓清。",
+      "flashcard_front": "supraglottic cancer",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_028",
@@ -590,15 +698,19 @@
         "D": "Antiphospholipid antibody syndrome 的孕婦發生自然流產的機率與正常孕婦一樣"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n自然流產多發生於第一孕期，尤其懷孕前 12 週。第一孕期流產常見原因是胚胎染色體異常，但最常見不是 trisomy 21，抗磷脂症候群也會增加流產風險。\n\n【選項詳解】\n- A. 約 80% 自然流產發生於懷孕前 12 週，符合第一孕期流產的流行病學。\n- B. 第一孕期流產常見染色體異常包括 trisomy 16、monosomy X、polyploidy 等；trisomy 21 不是最常見。\n- C. 第一孕期流產中染色體異常約占一半上下，75% 過高且不作為典型數字。\n- D. Antiphospholipid antibody syndrome 會增加反覆流產與妊娠併發症風險，不會與正常孕婦一樣。\n\n【核心考點】\n自然流產多在前 12 週；第一孕期流產常見染色體異常，但最常見不是唐氏症。",
+      "key_point": "約 80% 自然流產發生在懷孕前 12 週。",
+      "flashcard_summary": "spontaneous abortion -> most occur before 12 weeks",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "約 80% 自然流產發生在懷孕前 12 週。",
+      "flashcard_front": "spontaneous abortion",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_029",
@@ -611,15 +723,19 @@
         "D": "血清β-人類絨毛膜刺激激素(β-subunit human chorionic gonadotropin, β-hCG)值為7,500 mIU/mL"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子宮外孕使用 methotrexate 失敗風險與初始 beta-hCG 高、胚胎心跳、包塊較大、腹腔內出血或追蹤不佳相關。7,500 mIU/mL 已高於常用較佳成功率門檻，是最直接的失敗因素。\n\n【選項詳解】\n- A. 多胎次本身不是 methotrexate 失敗的主要預測因子。\n- B. 2.5 cm 的子宮外孕包塊仍屬可考慮藥物治療的範圍，失敗風險不如高 hCG 明顯。\n- C. 既往子宮外孕病史會增加再次發生風險，但不是這次 methotrexate 失敗最強預測因子。\n- D. beta-hCG 7,500 mIU/mL 代表滋養層活性較高，藥物治療失敗率上升，是本題最相關因素。\n\n【核心考點】\nEctopic pregnancy 用 MTX 時，初始 beta-hCG 越高、包塊越大或有心跳，失敗風險越高。",
+      "key_point": "高初始 beta-hCG 是 methotrexate 治療子宮外孕失敗的重要因素。",
+      "flashcard_summary": "ectopic pregnancy MTX failure -> high initial beta-hCG",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "高初始 beta-hCG 是 methotrexate 治療子宮外孕失敗的重要因素。",
+      "flashcard_front": "ectopic pregnancy MTX failure",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_030",
@@ -632,15 +748,19 @@
         "D": "子宮頸有許多發炎細胞聚集,引發子宮頸軟化"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n分娩前的子宮頸成熟是膠原排列鬆散、含水量與透明質酸增加、發炎細胞與基質重塑增加的過程。子宮頸不是變得更緊密，而是軟化、縮短並擴張。\n\n【選項詳解】\n- A. 分娩前子宮肌層 oxytocin receptor 增加，使子宮對 oxytocin 更敏感，敘述正確。\n- B. Hyaluronan 增加會提高組織含水量並促進子宮頸軟化，敘述正確。\n- C. 子宮頸 collagen fibrils 會分散、排列鬆散、間隙增加；說空隙變小且更緊密與子宮頸成熟相反，因此錯誤。\n- D. 子宮頸成熟有發炎細胞與細胞激素參與，促進基質分解與軟化，敘述正確。\n\n【核心考點】\n子宮頸成熟是 collagen remodeling 與含水量增加，結果是軟化與鬆散，不是更緊密。",
+      "key_point": "分娩前子宮頸膠原排列鬆散、間隙增加。",
+      "flashcard_summary": "labor cervical ripening -> collagen disorganization and softening",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "分娩前子宮頸膠原排列鬆散、間隙增加。",
+      "flashcard_front": "labor cervical ripening",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_031",
@@ -653,15 +773,19 @@
         "D": "妊娠大於41 週(gestational age >41 weeks)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n剖腹產後嘗試陰道生產成功率較高的因素包括曾有陰道生產、此次自發進入產程、非復發性前次剖腹原因等。肥胖、高齡與過期妊娠通常降低成功率。\n\n【選項詳解】\n- A. 自發分娩代表子宮頸與產程自然啟動，VBAC 成功率較高，是本題答案。\n- B. 肥胖會增加產程遲滯、手術與麻醉風險，通常降低 VBAC 成功率。\n- C. 高齡產婦與產科併發症風險較高，也常與 VBAC 成功率下降相關。\n- D. 妊娠超過 41 週常與引產、胎兒較大或產程問題相關，成功率通常較低。\n\n【核心考點】\nVBAC 成功因子常考自發分娩與既往陰道生產；肥胖、高齡、過期妊娠較不利。",
+      "key_point": "自發分娩會增加 VBAC 成功機率。",
+      "flashcard_summary": "VBAC success -> spontaneous labor improves success",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "自發分娩會增加 VBAC 成功機率。",
+      "flashcard_front": "VBAC success",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_032",
@@ -674,15 +798,19 @@
         "D": "caput succedaneum"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n肩難產的新生兒風險來自胎頭娩出後肩部卡住，造成缺氧、心跳停止、臂神經叢傷害、鎖骨或肱骨骨折等。產瘤是產道壓迫造成的頭皮水腫，並非肩難產特異併發症。\n\n【選項詳解】\n- A. 肩難產若處理延遲可造成缺氧缺血性腦病變，是嚴重新生兒併發症。\n- B. 嚴重缺氧可進展到心跳停止，屬於肩難產的重大風險。\n- C. 臂神經叢傷害是肩難產經典併發症，與肩頸牽拉或壓迫相關。\n- D. Caput succedaneum 是頭皮在產道受壓產生的水腫，常見於一般分娩過程，不是肩難產典型合併症。\n\n【核心考點】\n肩難產併發症記缺氧、臂神經叢傷害與骨折；caput succedaneum 不是典型肩難產併發症。",
+      "key_point": "肩難產最不典型的新生兒合併症是 caput succedaneum。",
+      "flashcard_summary": "shoulder dystocia -> brachial plexus injury and hypoxia, not caput",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "肩難產最不典型的新生兒合併症是 caput succedaneum。",
+      "flashcard_front": "shoulder dystocia",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_033",
@@ -695,15 +823,19 @@
         "D": "母親年齡高於40 歲"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n母血中胎兒游離 DNA 篩檢不正確常因胎盤與胎兒染色體不一致、胎兒比例過低、母體腫瘤或母體染色體因素。母親年齡會影響疾病先驗風險與陽性預測值，但不是讓檢驗本身錯誤的原因。\n\n【選項詳解】\n- A. Confined placental mosaicism 會使胎盤 DNA 與胎兒核型不同，是 NIPT 假陽性或假陰性的原因。\n- B. 母親癌症可能釋放異常 cell-free DNA，造成多條染色體異常訊號而干擾結果。\n- C. Fetal fraction 低於約 4% 時訊號不足，容易造成 no-call 或不準確結果。\n- D. 母親年齡高會提高染色體異常先驗機率，但不會直接造成檢驗結果不正確，因此此敘述錯誤。\n\n【核心考點】\nNIPT 錯誤原因看 placental mosaicism、低 fetal fraction、母體腫瘤或母體染色體因素；年齡影響風險，不是檢驗錯誤來源。",
+      "key_point": "母親高齡不是 cfDNA 篩檢不正確的直接原因。",
+      "flashcard_summary": "cfDNA screening errors -> placental mosaicism, maternal cancer, low fetal fraction",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "母親高齡不是 cfDNA 篩檢不正確的直接原因。",
+      "flashcard_front": "cfDNA screening errors",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_034",
@@ -716,15 +848,19 @@
         "D": "通常第一孕期唐氏症篩檢指標包含胎兒頸部透明帶厚度、母血清α胎兒蛋白(AFP)和β-人類絨毛膜刺激激\n 素(β-hCG)濃度"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n唐氏症篩檢是風險評估，不是診斷；高風險需以絨毛膜取樣或羊膜穿刺等診斷檢查確認。第一孕期篩檢常用胎兒頸部透明帶、PAPP-A 與 free beta-hCG，不是 AFP。\n\n【選項詳解】\n- A. 篩檢高風險不能直接作為終止妊娠依據，需診斷性檢查確認，敘述正確。\n- B. 雙胞胎妊娠的血清篩檢與風險估算較複雜，表現通常較單胎差，敘述正確。\n- C. 頸部透明帶增厚如大於約 3 mm 會增加染色體異常與結構異常風險，敘述正確。\n- D. AFP 是第二孕期四指標篩檢的一部分；第一孕期唐氏症篩檢不是 AFP 加 beta-hCG，因此此敘述錯誤。\n\n【核心考點】\n第一孕期唐氏症篩檢：NT、PAPP-A、free beta-hCG；AFP 屬第二孕期篩檢常用指標。",
+      "key_point": "第一孕期唐氏症篩檢不包含 AFP 作為典型指標。",
+      "flashcard_summary": "Down syndrome screening -> first trimester uses NT, PAPP-A, free beta-hCG",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "第一孕期唐氏症篩檢不包含 AFP 作為典型指標。",
+      "flashcard_front": "Down syndrome screening",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_035",
@@ -737,15 +873,19 @@
         "D": "uterine inversion"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n妊娠 32 週出現僵直性下腹痛並緊急剖腹產，手術圖若見子宮胎盤出血相關變化，最符合胎盤早期剝離。胎盤早期剝離常有腹痛、子宮壓痛或板狀子宮、陰道出血與胎兒窘迫。\n\n【選項詳解】\n- A. Placental abruption 會造成痛性出血與子宮收縮僵硬，嚴重時需緊急生產，正好對上本題的急性腹痛與緊急剖腹產線索。\n- B. Placenta previa 典型是無痛性陰道出血，腹部僵直性疼痛不是主要表現。\n- C. Vasa previa 典型是在破水後胎兒血管破裂，出現胎兒出血與胎心異常，母體僵直腹痛較不典型。\n- D. Uterine inversion 多發生於第三產程或產後，表現為產後出血與休克，不符合妊娠 32 週術中診斷情境。\n\n【核心考點】\n胎盤早期剝離：痛性出血、子宮壓痛或板狀子宮、胎兒窘迫；前置胎盤多為無痛性出血。",
+      "key_point": "妊娠後期僵直腹痛最支持胎盤早期剝離。",
+      "flashcard_summary": "painful third-trimester bleeding + rigid uterus -> placental abruption",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "妊娠後期僵直腹痛最支持胎盤早期剝離。",
+      "flashcard_front": "painful third-trimester bleeding + rigid uterus",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_036",
@@ -758,15 +898,19 @@
         "D": "得分2 分,強烈懷疑胎兒窒息(almost certain fetal asphyxia)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nBPP 五項各 2 分：NST、呼吸運動、胎動、肌張力、羊水量。此題 NST reactive 得 2 分，呼吸運動足夠得 2 分，肌張力有伸直到彎曲得 2 分，羊水正常得 2 分；胎動只有一次，不足 3 次，該項 0 分，總分 8 分。\n\n【選項詳解】\n- A. 若五項都正常才是 10 分；本題胎動項目未達標，所以不是 10 分。\n- B. 總分 8 分且羊水正常，通常解讀為正常、無窒息證據，是正確答案。\n- C. 6 分才屬可疑或需依週數與羊水量進一步評估；本題分數不是 6 分。\n- D. 2 分代表高度異常且強烈懷疑胎兒窒息；本題多數項目正常，不符合。\n\n【核心考點】\nBPP 胎動項目需 30 分鐘內至少 3 次；本題只有一次胎動，所以總分 8 分。",
+      "key_point": "本題 BPP 為 8 分且羊水正常，屬正常無窒息胎兒。",
+      "flashcard_summary": "BPP scoring -> fetal movement only once gives 0; total 8",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "本題 BPP 為 8 分且羊水正常，屬正常無窒息胎兒。",
+      "flashcard_front": "BPP scoring",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_037",
@@ -779,15 +923,19 @@
         "D": "高齡孕婦(大於35 歲)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子癇前症風險因子包括初產、既往子癇前症、慢性高血壓、腎病、自體免疫疾病、多胎、糖尿病、高齡與肥胖。抽菸雖然對妊娠有多種危害，但在流行病學上與子癇前症風險較低相關，因此在本題列項中最低。\n\n【選項詳解】\n- A. 初次妊娠是子癇前症典型風險因子。\n- B. 抽菸孕婦有早產、胎兒生長受限、胎盤問題等風險，但對子癇前症的相對風險在傳統考點中較低，是本題答案。\n- C. 曾有子癇前症病史是日後妊娠復發的重要風險因子。\n- D. 高齡孕婦子癇前症風險上升，尤其合併慢性疾病時更需注意。\n\n【核心考點】\n子癇前症風險題要記初產、病史、高齡、慢性病與多胎；抽菸不是高風險答案。",
+      "key_point": "抽菸在子癇前症風險因子中相對最低，但仍有其他嚴重妊娠風險。",
+      "flashcard_summary": "preeclampsia risk -> smoking is lowest among listed factors",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "抽菸在子癇前症風險因子中相對最低，但仍有其他嚴重妊娠風險。",
+      "flashcard_front": "preeclampsia risk",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_038",
@@ -800,15 +948,19 @@
         "D": "治療目標值為收縮壓低於160 毫米汞柱(mmHg)、舒張壓維持在90 至110 毫米汞柱(mmHg)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子癇前症高血壓危象需快速但受控降壓，常用 IV labetalol、IV hydralazine 或口服速效 nifedipine。舌下 nifedipine 可能造成血壓驟降與胎盤灌流下降，傳統上不建議作為處置方式。\n\n【選項詳解】\n- A. Hydralazine 靜脈注射是妊娠嚴重高血壓可用急救藥物之一。\n- B. Labetalol 靜脈注射也是常用第一線急性降壓選擇。\n- C. Nifedipine 可使用口服速效劑型，但舌下給與可能使吸收與降壓過快，較不安全，因此此選項最不適當。\n- D. 治療目標是避免 severe range，高壓通常先降到低於 160/110 mmHg 附近，同時避免過度降壓造成子宮胎盤灌流不足。\n\n【核心考點】\n妊娠嚴重高血壓可用 IV labetalol、IV hydralazine 或口服 nifedipine；避免舌下 nifedipine 造成驟降。",
+      "key_point": "子癇前症高血壓危象不建議舌下 nifedipine。",
+      "flashcard_summary": "severe hypertension in pregnancy -> avoid sublingual nifedipine",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "子癇前症高血壓危象不建議舌下 nifedipine。",
+      "flashcard_front": "severe hypertension in pregnancy",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_039",
@@ -821,15 +973,19 @@
         "D": "腎小球(glomeruli)變大"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子癇前症的腎病理典型為 glomerular capillary endotheliosis，也就是腎小球內皮細胞腫脹、內皮窗孔減少或消失、毛細血管腔狹窄與腎小球腫大。內皮窗孔變大與此相反。\n\n【選項詳解】\n- A. 內皮細胞腫脹是 glomerular endotheliosis 的核心變化，敘述正確。\n- B. 內皮膜孔通常是減少或消失，不是變大，因此此敘述最不適當。\n- C. 足細胞足突可有緊靠或融合樣改變，與蛋白尿相關，敘述可接受。\n- D. 腎小球可呈腫大與毛細血管腔受壓，敘述正確。\n\n【核心考點】\nPreeclampsia 腎病理是 endothelial swelling 與 fenestrae loss，不是 fenestrae enlargement。",
+      "key_point": "子癇前症 glomerular endotheliosis 中內皮窗孔減少。",
+      "flashcard_summary": "preeclampsia kidney -> endothelial swelling and loss of fenestrae",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "子癇前症 glomerular endotheliosis 中內皮窗孔減少。",
+      "flashcard_front": "preeclampsia kidney",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_040",
@@ -842,15 +998,19 @@
         "D": "benign cystic teratoma"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n卵巢腫瘤分類常考 epithelial、germ cell、sex cord-stromal 與 functional cyst。Mucinous cystadenoma 是典型上皮性良性卵巢腫瘤。\n\n【選項詳解】\n- A. Mucinous cystadenoma 屬上皮性卵巢腫瘤，且可為良性，是本題答案。\n- B. Theca lutein cyst 多為功能性囊腫，與高 hCG 狀態相關，不是上皮性腫瘤。\n- C. Dysgerminoma 是惡性 germ cell tumor，不是良性上皮性腫瘤。\n- D. Benign cystic teratoma 是成熟畸胎瘤，屬 germ cell tumor，不是 epithelial tumor。\n\n【核心考點】\n卵巢 mucinous/serous cystadenoma 屬上皮性；teratoma 與 dysgerminoma 屬 germ cell。",
+      "key_point": "Mucinous cystadenoma 是上皮性良性卵巢腫瘤。",
+      "flashcard_summary": "ovarian tumor classification -> mucinous cystadenoma is epithelial",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Mucinous cystadenoma 是上皮性良性卵巢腫瘤。",
+      "flashcard_front": "ovarian tumor classification",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_041",
@@ -863,15 +1023,19 @@
         "D": "external iliac artery"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n婦科腹腔鏡置入 trocar 時需避開腹壁血管，尤其下腹部的 deep inferior epigastric vessels。圖中星號若位於腹直肌後方、沿腹壁向上走行的血管，最符合 deep inferior epigastric artery。\n\n【選項詳解】\n- A. Deep inferior epigastric artery 由 external iliac artery 分出，沿腹直肌後方向上，是下腹部側孔置入時需避開的重要血管。\n- B. Superficial circumflex iliac artery 走在皮下較表淺，方向往髂嵴外側，不是典型腹直肌後方深層血管。\n- C. Deep circumflex iliac artery 沿髂嵴深層走行，位置較外側，不是圖示常考的腹壁下動脈。\n- D. External iliac artery 位於骨盆腔較深處，是 deep inferior epigastric artery 的來源，不是腹壁上被星號標示的血管。\n\n【核心考點】\n腹腔鏡側孔要避開 deep inferior epigastric vessels；通常在腹直肌後方、臍下外側走行。",
+      "key_point": "腹腔鏡腹壁血管常考 deep inferior epigastric artery。",
+      "flashcard_summary": "laparoscopy abdominal wall vessel -> deep inferior epigastric artery",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "腹腔鏡腹壁血管常考 deep inferior epigastric artery。",
+      "flashcard_front": "laparoscopy abdominal wall vessel",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_042",
@@ -884,15 +1048,19 @@
         "D": "子宮肌腺瘤"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子宮鏡看到子宮腔內局部突起、表面平滑或帶蒂的內膜樣病灶，最符合子宮內膜息肉。它常造成不正常子宮出血或不孕評估時發現。\n\n【選項詳解】\n- A. 子宮中膈會呈現子宮腔被纖維肌性中隔分成兩側，不是局部息肉狀突起。\n- B. 子宮內膜息肉是子宮鏡下常見的腔內局部突起病灶，是本題最可能診斷。\n- C. 雙角子宮是子宮外形與腔體分裂的先天構造異常，子宮鏡單獨看到腔內息肉樣病灶不支持。\n- D. 子宮肌腺瘤屬肌層內膜異位，通常造成子宮瀰漫或局部肌層增厚，不是典型腔內帶蒂息肉。\n\n【核心考點】\n子宮鏡下腔內局部突起最常想到內膜息肉；中膈與雙角子宮是腔體形狀問題。",
+      "key_point": "子宮鏡腔內息肉樣病灶最可能是子宮內膜息肉。",
+      "flashcard_summary": "hysteroscopy intracavitary protrusion -> endometrial polyp",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "子宮鏡腔內息肉樣病灶最可能是子宮內膜息肉。",
+      "flashcard_front": "hysteroscopy intracavitary protrusion",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_043",
@@ -905,15 +1073,19 @@
         "D": "10"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n深層浸潤性子宮內膜異位症是指內膜異位病灶浸潤腹膜下方達一定深度，常用定義為至少 5 mm。它可侵犯子宮骶韌帶、直腸陰道隔、腸道或膀胱。\n\n【選項詳解】\n- A. 1 mm 太淺，較不符合深層浸潤性病灶的標準定義。\n- B. 3 mm 仍低於常用 5 mm 門檻。\n- C. 5 mm 是 deep infiltrating endometriosis 的典型定義門檻。\n- D. 10 mm 雖代表更深侵犯，但不是常用最低定義。\n\n【核心考點】\nDeep infiltrating endometriosis 的關鍵門檻是腹膜下浸潤至少 5 mm。",
+      "key_point": "深層浸潤性子宮內膜異位症定義為腹膜下至少 5 mm。",
+      "flashcard_summary": "deep infiltrating endometriosis -> at least 5 mm below peritoneum",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "深層浸潤性子宮內膜異位症定義為腹膜下至少 5 mm。",
+      "flashcard_front": "deep infiltrating endometriosis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_044",
@@ -926,15 +1098,19 @@
         "D": "罹患睪丸癌的風險增加,故睪丸應在青春期前切除"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n完全性雄性素不敏感症為 46,XY，睪丸可分泌 testosterone 與 anti-Mullerian hormone，但目標組織對 androgen 無反應，因此外觀女性、無子宮與輸卵管。睪丸癌風險會隨年齡上升，但通常不急於青春期前切除，因睪丸可提供青春期雌激素來源。\n\n【選項詳解】\n- A. 睪丸常位於腹股溝、陰唇或腹腔內，鼠蹊部位置常見，敘述可接受。\n- B. Sertoli cells 會產生 Mullerian-inhibiting substance，使 Mullerian structures 退化。\n- C. 因 MIS 作用，輸卵管與子宮會退化，所以患者通常無子宮。\n- D. 睪丸癌風險確實增加，但完全性 AIS 常延後至青春期後再考慮性腺切除；青春期前即切除的說法最不適當。\n\n【核心考點】\nAIS 有睪丸、MIS 使子宮輸卵管退化；完全性 AIS 的性腺切除常可延到青春期後。",
+      "key_point": "完全性 AIS 不必因腫瘤風險一律青春期前切除睪丸。",
+      "flashcard_summary": "complete AIS -> gonadectomy often after puberty, not before",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "完全性 AIS 不必因腫瘤風險一律青春期前切除睪丸。",
+      "flashcard_front": "complete AIS",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_045",
@@ -947,15 +1123,19 @@
         "D": "置入套管時,腹部的壓力可設在25~30 mmHg"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n婦科腹腔鏡常用頭低腳高姿勢與臍部進入；氣腹建立與 trocar 置入時可短暫使用較高壓力，但一般成人手術維持壓力多在約 12 到 15 mmHg。8 到 10 mmHg 對一般手術維持而言偏低，較不適當。\n\n【選項詳解】\n- A. 頭低腳高可讓腸道離開骨盆，改善婦科手術視野，是常用姿勢。\n- B. 肚臍因腹壁薄且解剖位置固定，是常見第一進入點。\n- C. 一般手術維持氣腹壓力常約 12 到 15 mmHg；8 到 10 mmHg 雖可在特定低壓策略使用，但不是一般設定，因此最不適當。\n- D. 置入套管時短暫較高壓力可增加腹壁與內臟距離，25 到 30 mmHg 作為短暫進入壓力在考題脈絡可接受。\n\n【核心考點】\n腹腔鏡常規維持氣腹壓約 12 到 15 mmHg；進入時可短暫較高壓以增加安全距離。",
+      "key_point": "婦科腹腔鏡一般維持壓力不是 8 到 10 mmHg。",
+      "flashcard_summary": "gynecologic laparoscopy -> usual pneumoperitoneum about 12-15 mmHg",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "婦科腹腔鏡一般維持壓力不是 8 到 10 mmHg。",
+      "flashcard_front": "gynecologic laparoscopy",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_046",
@@ -968,15 +1148,19 @@
         "D": "冷凍治療"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n尖形濕疣是 HPV 造成的外生殖器疣，治療可用破壞性治療或免疫調節藥物。Doxycycline 是抗生素，主要治療披衣菌等細菌感染，不能治療 HPV 疣體。\n\n【選項詳解】\n- A. 雷射燒灼可破壞外生殖器疣，適合病灶多、較大或需快速清除時使用。\n- B. Imiquimod 是局部免疫調節劑，可治療外生殖器疣。\n- C. Doxycycline 對 HPV 尖形濕疣無效，因此是最不適當治療。\n- D. 冷凍治療可破壞疣體，是常見門診治療方式。\n\n【核心考點】\nGenital warts 治療包括 imiquimod、cryotherapy、laser 或切除；doxycycline 治細菌，不治 HPV 疣。",
+      "key_point": "Doxycycline 不是尖形濕疣治療。",
+      "flashcard_summary": "genital warts -> HPV treatments, not doxycycline",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Doxycycline 不是尖形濕疣治療。",
+      "flashcard_front": "genital warts",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_047",
@@ -989,15 +1173,19 @@
         "D": "反覆流產"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n細菌性陰道炎與上行性感染和妊娠併發症有關，包括骨盆腔發炎、術後子宮內膜炎、早產與早期破水。反覆流產不是它最典型、最一致的併發症。\n\n【選項詳解】\n- A. BV 會增加骨盆腔發炎風險，尤其與其他性傳染病或上行感染一起考慮。\n- B. 剖腹產或婦科手術後子宮內膜炎風險可因 BV 增加，屬典型相關併發症。\n- C. 懷孕時 BV 與早期破水、早產等不良妊娠結果相關。\n- D. 反覆流產與 BV 的關聯不如其他選項穩定或典型，因此是最不會引起的併發症。\n\n【核心考點】\nBV 常考 PID、術後 endometritis、PROM 與 preterm birth；反覆流產不是典型首選。",
+      "key_point": "細菌性陰道炎最不典型併發症是反覆流產。",
+      "flashcard_summary": "bacterial vaginosis -> PID, post-op endometritis, PROM; not recurrent abortion",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "細菌性陰道炎最不典型併發症是反覆流產。",
+      "flashcard_front": "bacterial vaginosis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_048",
@@ -1010,15 +1198,19 @@
         "D": "以超音波追蹤比較曾接受腹腔鏡子宮肌瘤切除術和開腹子宮肌瘤切除之病患,腹腔鏡子宮肌瘤切除術後子宮\n 肌瘤的再發生率較低"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子宮肌瘤與年齡、種族、荷爾蒙暴露與生育史相關。曾生育通常具有保護效果，近期有生育經驗的女性新診斷肌瘤機率較未生育者低。\n\n【選項詳解】\n- A. 子宮肌瘤發生率通常隨生育年齡增加而上升，40 到 44 歲不會低於 25 到 29 歲到成為此敘述那樣。\n- B. 曾經生育與較低肌瘤風險相關，10 年期間曾生育者新診斷機率較低，是最正確敘述。\n- C. GnRH agonist 可術前縮小肌瘤與改善貧血，但停藥後肌瘤可再長，不能說能降低術後再發機會。\n- D. 腹腔鏡與開腹肌瘤切除的再發率不能簡化成腹腔鏡較低；再發受年齡、肌瘤數量與切除完整性影響。\n\n【核心考點】\n生育史對子宮肌瘤有保護效果；GnRH agonist 是術前縮小與改善貧血，不是防復發保證。",
+      "key_point": "曾生育女性新診斷子宮肌瘤機率較低。",
+      "flashcard_summary": "uterine fibroids -> parity is protective",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "曾生育女性新診斷子宮肌瘤機率較低。",
+      "flashcard_front": "uterine fibroids",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_049",
@@ -1031,15 +1223,19 @@
         "D": "卵巢癌合併胸水,不需細胞學證明,為IV 期"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n卵巢癌分期中，侷限卵巢但手術破裂屬 IC；腹腔腹膜轉移超過 2 cm 或肝脾表面轉移屬 IIIC；胸水需細胞學陽性才列 IV。\n\n【選項詳解】\n- A. 單側卵巢癌若手術時破裂，至少屬 IC，不是 IA。\n- B. 腹腔內腫瘤轉移即屬第三期範圍；小於 2 cm 多屬 IIIA/IIIB 脈絡，不是 IIA。\n- C. 雙側卵巢癌合併腹腔轉移大於 2 cm 與肝臟表面病灶，符合 IIIC 期。\n- D. 胸水若要作為 IV 期依據，需要細胞學證明惡性細胞；單純有胸水不夠。\n\n【核心考點】\n卵巢癌 IIIC：腹膜轉移大於 2 cm 或肝脾表面轉移；胸水要細胞學陽性才算 IV。",
+      "key_point": "腹腔轉移大於 2 cm 或肝表面轉移為卵巢癌 IIIC。",
+      "flashcard_summary": "ovarian cancer staging -> IIIC for >2 cm peritoneal metastasis or liver capsule",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "腹腔轉移大於 2 cm 或肝表面轉移為卵巢癌 IIIC。",
+      "flashcard_front": "ovarian cancer staging",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_050",
@@ -1052,15 +1248,19 @@
         "D": "陰道"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子宮內膜癌治療後復發最常見於陰道殘端或骨盆局部區域，其中陰道復發是經典考點。遠端肺部或腹腔轉移也可能發生，但不是最常見位置。\n\n【選項詳解】\n- A. 肺部是可能的遠端轉移位置，但不是最常見復發位置。\n- B. 腹腔復發可見於高風險或晚期病人，但整體最常考位置不是腹腔。\n- C. 淋巴結復發可發生，尤其高危險病理或分期較高時，但不是本題首選。\n- D. 陰道，特別是陰道殘端，是子宮內膜癌最常見復發部位，是本題答案。\n\n【核心考點】\n子宮內膜癌術後復發經典位置是陰道殘端；追蹤時要注意陰道出血與局部檢查。",
+      "key_point": "子宮內膜癌最常見復發位置是陰道。",
+      "flashcard_summary": "endometrial cancer recurrence -> vaginal vault is commonest site",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "子宮內膜癌最常見復發位置是陰道。",
+      "flashcard_front": "endometrial cancer recurrence",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_051",
@@ -1073,15 +1273,19 @@
         "D": "相較於partial mole 更容易進展成侵襲性癌症"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nComplete hydatidiform mole 通常為 androgenetic diploid，染色體幾乎全來自父親，且比 partial mole 更容易進展成 persistent trophoblastic disease。子宮比週數大的比例不是 80% 這麼高，現代早期診斷下更不常見。\n\n【選項詳解】\n- A. Complete mole 可有子宮大於妊娠週數，但 80% 過高且不符合典型比例，因此此敘述錯誤。\n- B. Complete mole 多為 diploid，常見 46,XX 或 46,XY，敘述正確。\n- C. Complete mole 的 molar chromosomes 主要或全部來自父親，缺乏母源基因組，敘述正確。\n- D. Complete mole 較 partial mole 有更高 persistent GTN 或侵襲性病變風險，敘述正確。\n\n【核心考點】\nComplete mole：diploid、父源基因組、無胎兒組織、GTN 風險高；子宮過大不是 80% 的穩定數字。",
+      "key_point": "Complete mole 不會有 80% 都呈子宮過大。",
+      "flashcard_summary": "complete mole -> androgenetic diploid and higher GTN risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Complete mole 不會有 80% 都呈子宮過大。",
+      "flashcard_front": "complete mole",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_052",
@@ -1094,15 +1298,19 @@
         "D": "與人類乳突病毒感染有關"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n原發性陰道癌最常見是鱗狀上皮癌，常與 HPV 相關，症狀可為異常陰道出血或分泌物。治療多以放射治療或同步放化療為主，不是單純以化學治療為主。\n\n【選項詳解】\n- A. 陰道癌最常見組織型態為 squamous cell carcinoma，敘述正確。\n- B. 陰道癌治療核心通常是放射治療，常合併近接治療，部分病人加化療增敏；說以化學治療為主是錯誤。\n- C. 異常陰道出血或分泌物是常見症狀，尤其停經後出血需評估。\n- D. HPV 感染與陰道上皮內病變及陰道鱗癌相關，敘述正確。\n\n【核心考點】\n陰道癌常見 SCC、HPV 相關；治療以放射治療或同步放化療為核心，不是化療單打。",
+      "key_point": "陰道癌治療不是以化學治療為主。",
+      "flashcard_summary": "vaginal cancer -> radiotherapy-based treatment, not chemotherapy alone",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "陰道癌治療不是以化學治療為主。",
+      "flashcard_front": "vaginal cancer",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_053",
@@ -1115,15 +1323,19 @@
         "D": "放射線治療合併化學治療可以增強其療效"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n子宮頸癌傳統 2D 近接治療的 A 點約在子宮頸外口上方 2 cm、子宮頸管或子宮腔軸外側 2 cm。選項把外側距離寫成 3 cm，因此錯誤。\n\n【選項詳解】\n- A. A 點不是子宮頸管外 3 cm，而是約外側 2 cm；此定位錯誤。\n- B. A 點總劑量常達約 70 到 80 Gy 等效範圍，選項用 7,000 到 8,000 cGy 表示可接受。\n- C. 術後放射線治療可降低骨盆淋巴轉移或高風險病人的骨盆復發率，敘述正確。\n- D. 放射線合併化學治療有 radiosensitizing effect，可提升局部控制與療效，敘述正確。\n\n【核心考點】\n傳統子宮頸癌 A 點約為外口上 2 cm、外側 2 cm；不是外側 3 cm。",
+      "key_point": "子宮頸癌近接治療 A 點位置不是外側 3 cm。",
+      "flashcard_summary": "cervical cancer brachytherapy -> point A is 2 cm up and 2 cm lateral",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "子宮頸癌近接治療 A 點位置不是外側 3 cm。",
+      "flashcard_front": "cervical cancer brachytherapy",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_054",
@@ -1136,15 +1348,19 @@
         "D": "使用避孕藥治療,可降低來自卵巢及腎上腺素分泌的雄性素"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nPCOS 主要來自卵巢 theca cell androgen 增加與胰島素阻抗等機轉，長期無排卵會增加子宮內膜增生與內膜癌風險。第一線治療依需求為生活型態、避孕藥、排卵誘導或代謝治療；手術不是優先。\n\n【選項詳解】\n- A. PCOS 雄性素主要來自卵巢，腎上腺也可參與但不是主要來源，因此此敘述不正確。\n- B. 長期無排卵造成 progesterone 對抗不足，會增加內膜增生與內膜癌風險，選項說不會增加是錯的。\n- C. 手術如 ovarian drilling 不是治療優先選項，多用於特定排卵誘導失敗情境。\n- D. 複合口服避孕藥可抑制 LH 驅動的卵巢 androgen、增加 SHBG，並可降低游離雄性素，是正確治療敘述。\n\n【核心考點】\nPCOS 常用複合口服避孕藥控制高雄性素與保護內膜；手術不是第一線。",
+      "key_point": "PCOS 使用避孕藥可降低游離雄性素並改善高雄性素症狀。",
+      "flashcard_summary": "PCOS -> combined oral contraceptives reduce androgen effect",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "PCOS 使用避孕藥可降低游離雄性素並改善高雄性素症狀。",
+      "flashcard_front": "PCOS",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_055",
@@ -1157,15 +1373,19 @@
         "D": "瑜珈,針灸,戒菸和冷氣有助於減輕症狀"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n更年期血管動力症狀可持續多年，系統性荷爾蒙治療是最有效方式；肥胖並不保證症狀較輕，反而常與熱潮紅較多或較嚴重相關。\n\n【選項詳解】\n- A. 停經前後熱潮紅與夜汗可能持續多年，部分女性可長達十年左右，敘述正確。\n- B. 肥胖女性症狀不一定較輕，脂肪保溫、發炎與血管調節因素可使熱潮紅更明顯，因此此敘述錯誤。\n- C. 對無禁忌症的適當病人，全身性荷爾蒙治療是緩解 vasomotor symptoms 最有效治療。\n- D. 瑜珈、針灸、戒菸與環境降溫可能有輔助效果，雖效果不如荷爾蒙治療，但敘述方向可接受。\n\n【核心考點】\n熱潮紅最有效治療是系統性荷爾蒙；肥胖不是保護因子，不能說症狀較輕。",
+      "key_point": "肥胖更年期婦女熱潮紅不一定較輕，常可能較嚴重。",
+      "flashcard_summary": "menopausal hot flashes -> obesity does not reliably reduce symptoms",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "肥胖更年期婦女熱潮紅不一定較輕，常可能較嚴重。",
+      "flashcard_front": "menopausal hot flashes",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_056",
@@ -1178,15 +1398,19 @@
         "D": "男性在50 歲以前,對生殖能力的影響相對較小"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n女性年齡增加造成生殖能力下降，核心原因之一是卵母細胞老化與減數分裂不分離，導致 aneuploidy 上升。卵子不是因有絲分裂異常而造成主要年齡相關流產。\n\n【選項詳解】\n- A. 女性生育能力在 30 多歲後下降，接近 40 歲更明顯，敘述可接受。\n- B. 年齡相關流產多因卵母細胞減數分裂錯誤造成 aneuploidy，不是卵子有絲分裂異常，因此此敘述錯誤。\n- C. 年齡增加使染色體異常卵子比例上升，造成懷孕率下降與流產率上升，敘述正確。\n- D. 男性年齡也會影響生殖與子代風險，但 50 歲以前相對於女性年齡影響較小，敘述可接受。\n\n【核心考點】\n年齡相關 aneuploidy 來自卵母細胞減數分裂不分離，不是有絲分裂。",
+      "key_point": "高齡女性流產常因卵母細胞減數分裂異常造成 aneuploidy。",
+      "flashcard_summary": "female age and fertility -> meiotic nondisjunction causes aneuploidy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "高齡女性流產常因卵母細胞減數分裂異常造成 aneuploidy。",
+      "flashcard_front": "female age and fertility",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_057",
@@ -1199,15 +1423,19 @@
         "D": "失智(dementia)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nMirabegron 是 beta-3 adrenergic agonist，可放鬆逼尿肌以治療急迫性尿失禁或膀胱過動症。它不像抗膽鹼藥主要造成口乾、便祕與認知副作用，較重要副作用是血壓上升。\n\n【選項詳解】\n- A. 口乾是 antimuscarinic 藥物如 oxybutynin 常見副作用，不是 mirabegron 的主要考點。\n- B. 便秘也較屬抗膽鹼藥副作用。\n- C. Mirabegron 可造成 hypertension 或使原有高血壓惡化，是本題主要副作用。\n- D. 失智或認知下降主要擔心長期抗膽鹼負荷，mirabegron 不以此為主要副作用。\n\n【核心考點】\n急迫性尿失禁藥物副作用：antimuscarinic 口乾便祕認知影響；mirabegron 注意高血壓。",
+      "key_point": "Mirabegron 主要副作用是高血壓。",
+      "flashcard_summary": "mirabegron -> beta-3 agonist with hypertension risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Mirabegron 主要副作用是高血壓。",
+      "flashcard_front": "mirabegron",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_058",
@@ -1220,15 +1448,19 @@
         "D": "腦水腫(brain edema)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n外傷性腦傷的原發性損傷是在撞擊當下直接造成的組織傷害，例如瀰漫性軸突損傷、腦挫傷或血腫。顱內壓上升、腦水腫與腫塊效應多是後續病理變化，屬次發性損傷機轉。\n\n【選項詳解】\n- A. 瀰漫性軸突損傷由加速減速與旋轉剪力在受傷當下造成，是典型原發性損傷。\n- B. 顱內壓上升多因水腫、出血或腫塊效應逐步形成，屬次發性傷害路徑。\n- C. 腫塊效應是血腫或水腫造成的後續壓迫結果，不是原始撞擊本身。\n- D. 腦水腫是外傷後發炎、血腦障壁破壞與代謝失衡造成的次發性傷害。\n\n【核心考點】\nTBI 原發性損傷是當下機械傷害；次發性損傷包括 edema、ICP 上升、ischemia 與 mass effect。",
+      "key_point": "Diffuse axonal injury 是外傷性腦傷原發性損傷。",
+      "flashcard_summary": "TBI primary injury -> diffuse axonal injury",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "Diffuse axonal injury 是外傷性腦傷原發性損傷。",
+      "flashcard_front": "TBI primary injury",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_059",
@@ -1241,15 +1473,19 @@
         "D": "腓長肌(peroneus longus muscle)由淺腓神經所支配"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n深腓神經支配小腿前腔肌群，感覺範圍主要是第一、二趾間背側第一蹼間；淺腓神經支配小腿外側腔肌群，感覺範圍是大部分足背與小腿外側下段。選項 A 把兩者感覺分布反過來。\n\n【選項詳解】\n- A. 深腓神經不是支配大部分足背感覺；它主要支配第一蹼間感覺，因此此敘述錯誤。\n- B. 淺腓神經感覺分布包括小腿外側下段與足背大部分皮膚，敘述正確。\n- C. 脛前肌負責 dorsiflexion，由深腓神經支配，敘述正確。\n- D. 腓長肌負責 eversion，由淺腓神經支配，敘述正確。\n\n【核心考點】\nDeep peroneal：小腿前腔、足背第一蹼間；superficial peroneal：小腿外側腔、大部分足背。",
+      "key_point": "深腓神經感覺主要在第一蹼間，不是大部分足背。",
+      "flashcard_summary": "peroneal nerves -> deep first web space, superficial dorsum of foot",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "深腓神經感覺主要在第一蹼間，不是大部分足背。",
+      "flashcard_front": "peroneal nerves",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_060",
@@ -1262,15 +1498,19 @@
         "D": "阿諾德-希阿里畸形(Arnold-Chiari malformation)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n脊髓脊膜膨出常合併神經性膀胱、下肢神經缺損、水腦症與 Arnold-Chiari II malformation。脊柱側彎或其他骨科變形可發生，但在列項中通常較少見。\n\n【選項詳解】\n- A. 神經性膀胱非常常見，因薦髓與周邊神經功能受影響，需長期泌尿照護。\n- B. 水腦症常與 Chiari II malformation 相關，是 myelomeningocele 重要併發症。\n- C. 脊柱側彎可見於神經肌肉不平衡，但相較神經性膀胱、水腦症與 Chiari II，較不是最常見併發症。\n- D. Arnold-Chiari malformation，尤其 Chiari II，是脊髓脊膜膨出的經典合併症。\n\n【核心考點】\nMyelomeningocele 常合併 neurogenic bladder、hydrocephalus 與 Chiari II；脊柱側彎相對較少見。",
+      "key_point": "脊髓脊膜膨出列項中最少見的是脊柱側彎。",
+      "flashcard_summary": "myelomeningocele -> neurogenic bladder, hydrocephalus, Chiari II",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "脊髓脊膜膨出列項中最少見的是脊柱側彎。",
+      "flashcard_front": "myelomeningocele",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_061",
@@ -1283,15 +1523,19 @@
         "D": "功能獨立性測量(functional independence measure)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nRancho Los Amigos levels 常用於評估外傷性腦傷後認知與行為恢復階段，從無反應到適當反應與目的性行為逐步分級。題目問記憶力與認知功能損傷，最符合此量表。\n\n【選項詳解】\n- A. Modified Ashworth scale 評估痙攣張力，不是 TBI 認知恢復工具。\n- B. Brunnstrom stage 主要評估中風後動作恢復階段，不用來評估記憶與認知。\n- C. Rancho Los Amigos levels 是外傷性腦傷認知與行為恢復常用分級，是本題答案。\n- D. Functional independence measure 評估日常功能獨立程度，包含認知項目但不是最針對 TBI 記憶與認知階段的工具。\n\n【核心考點】\nTBI 認知行為恢復分級常用 Rancho Los Amigos levels；Ashworth 看 spasticity，FIM 看功能獨立。",
+      "key_point": "外傷性腦傷認知功能評估常用 Rancho Los Amigos levels。",
+      "flashcard_summary": "TBI cognition -> Rancho Los Amigos levels",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "外傷性腦傷認知功能評估常用 Rancho Los Amigos levels。",
+      "flashcard_front": "TBI cognition",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_062",
@@ -1304,15 +1548,19 @@
         "D": "所謂LOVE,其中E 是抬高(elevation)"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n急性軟組織傷害處理口訣從 PRICE 到 POLICE，再到 PEACE and LOVE。LOVE 中 E 是 exercise，代表以適當運動促進恢復，不是 elevation。\n\n【選項詳解】\n- A. PRICE 的 I 是 ice，急性期冰敷可短期減痛，敘述正確。\n- B. POLICE 的 OL 是 optimal loading，強調避免過度休息、逐步安全負荷，敘述正確。\n- C. PEACE 的 A 是 avoid anti-inflammatory modalities，提醒早期過度抗發炎可能干擾修復，敘述正確。\n- D. LOVE 的 E 是 exercise，不是 elevation，因此此敘述錯誤。\n\n【核心考點】\nPEACE and LOVE：Protection、Elevation、Avoid anti-inflammatory、Compression、Education；Load、Optimism、Vascularization、Exercise。",
+      "key_point": "LOVE 口訣中的 E 是 exercise，不是 elevation。",
+      "flashcard_summary": "PEACE and LOVE -> E in LOVE means exercise",
+      "review_status": "ai_generated",
       "correct_answers": [
         "D"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "LOVE 口訣中的 E 是 exercise，不是 elevation。",
+      "flashcard_front": "PEACE and LOVE",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_063",
@@ -1325,15 +1573,19 @@
         "D": "套筒製作時應避免太鬆導致殘肢在套筒內有活塞運動(piston movement)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n膝下截肢義肢的套筒要兼顧承重、舒適與懸吊。現代義肢可用矽膠套、pin lock、suction、vacuum 或解剖懸吊等方式，不是每一位都必須用綁帶或吊帶。\n\n【選項詳解】\n- A. 套筒太緊會造成疼痛、壓傷、循環問題與皮膚破損，敘述正確。\n- B. 膝下義肢不一定都需要綁帶或吊帶；有多種懸吊系統可選，因此此敘述錯誤。\n- C. 義足用來取代踝足功能，依活動量、地形需求與能量回饋需求選擇，敘述正確。\n- D. 套筒太鬆會造成殘肢上下滑動與 piston movement，增加摩擦與皮膚傷害，敘述正確。\n\n【核心考點】\n膝下義肢懸吊系統很多，不是都要綁帶；套筒太緊或太鬆都會傷害殘肢。",
+      "key_point": "膝下義肢不一定必須使用綁帶或吊帶懸吊。",
+      "flashcard_summary": "transtibial prosthesis -> suspension can be sleeve, pin, suction, vacuum, not always straps",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "膝下義肢不一定必須使用綁帶或吊帶懸吊。",
+      "flashcard_front": "transtibial prosthesis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_064",
@@ -1346,15 +1598,19 @@
         "D": "容易造成關節的攣縮及扭曲變形"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n類風濕性關節炎是自體免疫造成的慢性滑膜發炎，問題不是免疫系統功能低下，而是免疫活化與失調攻擊關節組織。\n\n【選項詳解】\n- A. RA 是自體免疫疾病，但特徵不是免疫功能低下；免疫系統活化造成滑膜炎與關節破壞，因此此敘述最不適當。\n- B. RA 會造成慢性滑膜炎、pannus 形成，進而侵蝕軟骨與骨頭，敘述正確。\n- C. ACPA 陽性常與較嚴重、侵蝕性病程及較差預後相關，敘述正確。\n- D. 長期發炎與結構破壞可造成關節攣縮、尺側偏移與變形，敘述正確。\n\n【核心考點】\nRA 是免疫失調與過度發炎造成滑膜破壞，不是免疫低下疾病。",
+      "key_point": "RA 不以免疫系統功能低下為特徵。",
+      "flashcard_summary": "rheumatoid arthritis -> autoimmune inflammation, not immunodeficiency",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "RA 不以免疫系統功能低下為特徵。",
+      "flashcard_front": "rheumatoid arthritis",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_065",
@@ -1367,15 +1623,19 @@
         "D": "能夠承受約5 分鐘,即可逐漸增加重量"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n沙包吸氣肌訓練常用於腹式呼吸或橫膈訓練，負重需由輕開始、觀察是否能維持正確呼吸型態。開始重量過重會使吸氣肌疲勞、代償用力或動作失準。\n\n【選項詳解】\n- A. 起始重量太重會造成吸氣肌疲勞與訓練品質下降，是最恰當敘述。\n- B. 沙包通常放在上腹部或橫膈活動可觀察的位置，以訓練腹式呼吸；放低位肋骨不是主要標準描述。\n- C. 目的主要是訓練橫膈與腹式呼吸控制，不是以外肋間肌為主。\n- D. 是否增加重量不只看能撐 5 分鐘，還要看呼吸型態、疲勞、代償與症狀，不能用單一時間粗略決定。\n\n【核心考點】\n吸氣肌或橫膈訓練要低負荷開始，避免疲勞與代償；品質比硬撐時間重要。",
+      "key_point": "沙包吸氣肌訓練起始重量過重會造成吸氣肌疲勞。",
+      "flashcard_summary": "sandbag inspiratory training -> start light to avoid fatigue",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "沙包吸氣肌訓練起始重量過重會造成吸氣肌疲勞。",
+      "flashcard_front": "sandbag inspiratory training",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_066",
@@ -1388,10 +1648,10 @@
         "D": "先天性肌肉性斜頸症(congenital muscular torticollis)的發生率較髖關節發育不良(developmental\n dysplasia of the hip)的發生率為低"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n官方更正此題一律給分。兒童肌肉骨骼疾病的性別比例、發生率比較與共病篩檢在不同資料來源可能有表述差異，題目要求找錯誤但選項不夠穩定，因此依官方更正不指定單一錯誤選項。\n\n【選項詳解】\n- A. DDH 一般確實女童較多，尤其有臀位、家族史等風險時需注意；若單獨看此句通常不會是明確錯誤。\n- B. 先天性肌肉性斜頸症的性別比例在不同資料可有差異，有些資料描述男童較多或略多，題目因此不宜過度斷定。\n- C. CMT 與 DDH 可有相關，臨床評估斜頸兒童時應注意髖關節發育不良篩檢。\n- D. CMT 與 DDH 的發生率比較受定義與篩檢方式影響，可能是造成爭議的來源之一；官方已一律給分。\n\n【核心考點】\n遇到官方一律給分題，詳解應保留更正狀態；本題重點是 CMT 需評估 DDH，且單一錯誤敘述不穩定。",
+      "key_point": "兒童 CMT 與 DDH 有共病篩檢意義；本題官方一律給分。",
+      "flashcard_summary": "pediatric MSK -> official all-credit; CMT associated with DDH screening",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A",
         "B",
@@ -1400,7 +1660,11 @@
       ],
       "answer_status": "all_credit",
       "answer_source": "official_correction",
-      "answer_note": "第66題一律給分"
+      "answer_note": "第66題一律給分",
+      "flashcard_back": "兒童 CMT 與 DDH 有共病篩檢意義；本題官方一律給分。",
+      "flashcard_front": "pediatric MSK",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_067",
@@ -1413,15 +1677,19 @@
         "D": "18~24 個月大時,小於3 項的原始反射(primitive reflex)是正向的預測因子(positive predictor)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n腦性麻痺的行走能力差異很大，許多患者可獨立或借助輔具行走。早期能獨立坐通常預測較佳行走功能；到 4 歲仍不能獨立坐則是不利因子。\n\n【選項詳解】\n- A. 2 歲前能獨立坐代表軀幹控制較好，是行走能力的正向預測因子。\n- B. 4 歲仍不能獨立坐顯示粗動作功能嚴重受限，是負向預測因子。\n- C. 大部分腦性麻痺患者都無行走能力這句過度悲觀且不正確；不少患者可行走或使用輔具行走，因此最不適當。\n- D. 18 到 24 個月時原始反射殘留較少，代表神經成熟較佳，是正向預測因子。\n\n【核心考點】\n腦性麻痺行走預後看早期坐姿控制、原始反射殘留與粗動作功能；不能說大多數都不能行走。",
+      "key_point": "多數腦性麻痺患者並非完全無行走能力。",
+      "flashcard_summary": "cerebral palsy ambulation -> many can walk; sitting predicts outcome",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "多數腦性麻痺患者並非完全無行走能力。",
+      "flashcard_front": "cerebral palsy ambulation",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_068",
@@ -1434,15 +1702,19 @@
         "D": "平地走動"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n巴氏量表評估基本日常生活功能，包括進食、洗澡、修飾、穿衣、如廁、大小便控制、轉位、行走與上下樓梯。煮飯屬較複雜的工具性日常生活功能，不在 Barthel Index 典型項目內。\n\n【選項詳解】\n- A. 穿衣是 Barthel Index 的評估項目。\n- B. 煮飯屬 instrumental ADL，較常由 Lawton IADL 類量表評估，不是巴氏量表內容。\n- C. 上下樓梯是 Barthel Index 的評估項目。\n- D. 平地走動或移動能力是 Barthel Index 的評估項目。\n\n【核心考點】\nBarthel Index 看基本 ADL；煮飯、購物、理財等屬 IADL。",
+      "key_point": "煮飯不是巴氏量表評估內容。",
+      "flashcard_summary": "Barthel Index -> basic ADL, not cooking",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "煮飯不是巴氏量表評估內容。",
+      "flashcard_front": "Barthel Index",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_069",
@@ -1455,15 +1727,19 @@
         "D": "方便學習上手"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n電動輪椅的主要優點是以電力驅動，減少肩、肘、腕與手部反覆推輪造成的累積性傷害，適合上肢力量或耐力不足者。\n\n【選項詳解】\n- A. 電動輪椅通常較重、體積較大，運輸反而較不方便。\n- B. 電動驅動可減少手動推輪造成的上肢過度使用傷害，是最適當好處。\n- C. 運動競技常用特製手動輪椅，電動輪椅不是以運動使用為主要優點。\n- D. 電動輪椅需要操作控制器、判斷環境與安全訓練，不一定比手動輪椅更容易上手。\n\n【核心考點】\n電動輪椅最大好處之一是減少上肢 overuse injury，代價是重量、運輸與操作安全需求。",
+      "key_point": "電動輪椅可減少上肢累積性傷害。",
+      "flashcard_summary": "power wheelchair -> reduces upper limb overuse injury",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "電動輪椅可減少上肢累積性傷害。",
+      "flashcard_front": "power wheelchair",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_070",
@@ -1476,15 +1752,19 @@
         "D": "壓力臂套的使用"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n乳癌治療後淋巴水腫常用完整去鬱積治療概念，包括徒手淋巴引流、壓迫治療、運動、皮膚照護與有時使用間歇性氣壓壓迫。減壓治療不是常用標準名稱。\n\n【選項詳解】\n- A. 徒手淋巴引流是淋巴水腫治療常見組成。\n- B. 間歇性氣壓壓迫可作為輔助治療，幫助液體回流。\n- C. 減壓治療不是乳癌相關淋巴水腫常用標準治療名稱，因此本題選它。\n- D. 壓力臂套是維持期壓迫治療重要工具，可減少腫脹復發。\n\n【核心考點】\n乳癌淋巴水腫治療記 manual lymph drainage、compression sleeve、exercise、skin care、pneumatic compression。",
+      "key_point": "減壓治療不是乳癌淋巴水腫常用標準治療。",
+      "flashcard_summary": "breast cancer lymphedema -> CDT components, not decompression therapy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "減壓治療不是乳癌淋巴水腫常用標準治療。",
+      "flashcard_front": "breast cancer lymphedema",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_071",
@@ -1497,15 +1777,19 @@
         "D": "電療禁止使用於頸動脈竇附近,以免引起心律不整"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\nTENS 與 IFC 常用於疼痛控制，TENS 主要以門閥理論與內生性止痛機轉解釋。電療不應用於血栓性靜脈炎或疑似血栓區域，以免增加栓塞風險。\n\n【選項詳解】\n- A. TENS 與 IFC 都是臨床常見疼痛電療方式，敘述正確。\n- B. TENS 的止痛常以 gate control theory 說明，透過大直徑感覺纖維調節疼痛傳入，敘述正確。\n- C. 下背痛、退化性關節炎、肌腱炎或韌帶扭傷可考慮疼痛電療；血栓性靜脈炎不應列為適應症，因此此敘述錯誤。\n- D. 頸動脈竇附近電刺激可能誘發血壓或心律反應，屬禁忌區域，敘述正確。\n\n【核心考點】\n電療可用於多種疼痛，但 active thrombophlebitis/DVT 區域是禁忌，不是適應症。",
+      "key_point": "血栓性靜脈炎不是疼痛電療適應症。",
+      "flashcard_summary": "electrotherapy -> thrombophlebitis is contraindication",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "血栓性靜脈炎不是疼痛電療適應症。",
+      "flashcard_front": "electrotherapy",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_072",
@@ -1518,15 +1802,19 @@
         "D": "肩旋轉環帶外生骨疣(exostosis)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n中年女性肩痛兩個月，X 光與超音波若見旋轉袖肌腱鈣化沉積，最符合肩旋轉環帶鈣化性肌腱變性。它常侵犯棘上肌腱，造成急性或慢性肩痛。\n\n【選項詳解】\n- A. Rotator cuff tear 超音波會見肌腱連續性缺損或撕裂，不以鈣化高回音沉積為主。\n- B. Calcific tendinosis 會在旋轉袖肌腱看到鈣化，與題幹影像線索最吻合。\n- C. 肩部退化性關節炎主要表現為關節間隙變窄、骨刺與軟骨退化，不是肌腱鈣化主軸。\n- D. 外生骨疣是骨性突起，位置與影像型態不同於肌腱內鈣化沉積。\n\n【核心考點】\n肩旋轉袖鈣化性肌腱變性：中年肩痛、X 光鈣化、超音波高回音沉積。",
+      "key_point": "肩部影像見旋轉袖肌腱鈣化最可能是 calcific tendinosis。",
+      "flashcard_summary": "shoulder pain + tendon calcification -> calcific tendinosis",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "肩部影像見旋轉袖肌腱鈣化最可能是 calcific tendinosis。",
+      "flashcard_front": "shoulder pain + tendon calcification",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_073",
@@ -1539,15 +1827,19 @@
         "D": "osteogenic sarcoma(OGS)"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n65 歲女性慢性膝痛突然加劇，影像若見股骨內髁或膝關節局部骨髓水腫與骨壞死樣改變，典型診斷是 spontaneous osteonecrosis of the knee。\n\n【選項詳解】\n- A. RA 通常是對稱性發炎性多關節炎，膝部影像不會以局部自發性骨壞死為主要表現。\n- B. SONK 常見於中老年女性，膝痛突然加劇，影像可見負重區骨壞死或骨髓水腫，是本題答案。\n- C. PVNS 為滑膜增生含 hemosiderin，MRI 常有低訊號滑膜腫塊與反覆關節積血，不是此題典型。\n- D. Osteogenic sarcoma 多見青少年或年輕成人 metaphysis 惡性骨腫瘤，與 65 歲女性慢性膝痛急性加劇較不合。\n\n【核心考點】\n中老年女性膝痛突然加劇加局部骨壞死影像，要想到 SONK。",
+      "key_point": "老年女性膝痛影像局部骨壞死最像 SONK。",
+      "flashcard_summary": "older woman knee pain -> spontaneous osteonecrosis of knee",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "老年女性膝痛影像局部骨壞死最像 SONK。",
+      "flashcard_front": "older woman knee pain",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_074",
@@ -1560,15 +1852,19 @@
         "D": "頸動脈體腫瘤(carotid body tumor)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n年輕人車禍後延遲出現中風，MRI 脂肪抑制 T1 見頸動脈半月形管壁增厚與管腔狹窄，這是頸動脈剝離的典型 mural hematoma 表現。\n\n【選項詳解】\n- A. 頸動脈粥樣硬化合併血栓剝落較常見於年長或血管風險因子病人，不會典型呈現外傷後半月形壁內血腫。\n- B. 顳動脈炎多見 50 歲以上，表現頭痛、顳動脈壓痛、視力症狀，與車禍後頸動脈影像不合。\n- C. 頸動脈剝離可在外傷後造成年輕型中風，T1 fat-sat mural hematoma 與狹窄支持此診斷。\n- D. 頸動脈體腫瘤位於頸動脈分叉，為高血管性腫塊，通常不造成急性中風與壁內血腫影像。\n\n【核心考點】\n年輕外傷後中風加頸動脈壁內血腫，要診斷 carotid dissection。",
+      "key_point": "車禍後年輕人中風與頸動脈半月形壁內血腫最支持頸動脈剝離。",
+      "flashcard_summary": "trauma + young stroke + mural hematoma -> carotid dissection",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "車禍後年輕人中風與頸動脈半月形壁內血腫最支持頸動脈剝離。",
+      "flashcard_front": "trauma + young stroke + mural hematoma",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_075",
@@ -1581,15 +1877,19 @@
         "D": "超音波顯示子宮內妊娠(intrauterine pregnancy),可排除子宮外孕"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n這位 IVF 懷孕女性有休克與陰道出血，且有子宮外孕病史，必須高度懷疑子宮外孕或異位合併子宮內妊娠。單一次 beta-hCG 數值不能單獨區分正常懷孕與子宮外孕，需結合超音波、連續 hCG 與臨床穩定性。\n\n【選項詳解】\n- A. 單一 beta-hCG 數值只能提供大致風險與是否達 discriminatory zone 的參考，不能有效區分正常與子宮外孕，是正確敘述。\n- B. 子宮外孕可只有陰道出血、輕微疼痛或症狀不典型；沒有腹痛不能排除。\n- C. 病人低血壓、心搏快，疑似破裂或出血性休克，不適合在急診直接給 methotrexate，應先急救與手術評估。\n- D. IVF 提高 heterotopic pregnancy 風險；即使看到子宮內妊娠，也不能完全排除同時存在子宮外孕。\n\n【核心考點】\n子宮外孕不能靠單一 hCG 排除；IVF 要記 heterotopic pregnancy，休克病人不可走 MTX 路線。",
+      "key_point": "單一 beta-hCG 無法有效區分正常懷孕與子宮外孕。",
+      "flashcard_summary": "ectopic pregnancy -> single beta-hCG cannot rule in/out; IVF raises heterotopic risk",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "單一 beta-hCG 無法有效區分正常懷孕與子宮外孕。",
+      "flashcard_front": "ectopic pregnancy",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_076",
@@ -1602,15 +1902,19 @@
         "D": "大部分病人需要抗生素治療及外科介入"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n咽後膿瘍可由咽喉外傷、魚刺、齒源性感染或上呼吸道感染擴散造成。若病人呼吸困難且無法躺平，最優先是安全處理氣道，不能為了做 CT 先鎮靜，因鎮靜可能使氣道塌陷。\n\n【選項詳解】\n- A. 魚刺造成黏膜穿刺或齒源性感染都可能引起深頸部感染與咽後膿瘍，敘述正確。\n- B. 頸部側位 X 光可見 prevertebral soft tissue widening，是典型影像線索之一。\n- C. 呼吸困難且無法躺平代表氣道危急，先鎮靜再做 CT 可能造成完全阻塞，因此最不適當。\n- D. 咽後膿瘍多需廣效抗生素，若有膿瘍、氣道危險或治療失敗則需外科引流。\n\n【核心考點】\n深頸部感染有呼吸困難時先顧氣道；不要為了影像檢查鎮靜而讓氣道失控。",
+      "key_point": "咽後膿瘍呼吸困難不能先鎮靜再送 CT。",
+      "flashcard_summary": "retropharyngeal abscess -> airway first, avoid sedating unstable airway",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "咽後膿瘍呼吸困難不能先鎮靜再送 CT。",
+      "flashcard_front": "retropharyngeal abscess",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_077",
@@ -1623,15 +1927,19 @@
         "D": "在會陰部有感覺異常"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n馬尾症候群是神經外科急症，典型紅旗包括單側或雙側坐骨神經痛、下肢運動或感覺缺損、會陰鞍部麻木、膀胱功能障礙，尤其尿滯留很重要。\n\n【選項詳解】\n- A. 馬尾神經受壓會造成不同程度下肢運動與感覺喪失，敘述正確。\n- B. 尿滯留是馬尾症候群常見且重要警訊；說不常見最不適當。\n- C. 單側或雙側坐骨神經痛可出現，尤其大型中央椎間盤突出或腫瘤壓迫時。\n- D. 會陰部感覺異常或鞍部麻木是馬尾症候群經典紅旗。\n\n【核心考點】\n馬尾症候群紅旗：尿滯留、鞍部麻木、雙側坐骨神經痛與下肢神經缺損；需緊急影像與減壓評估。",
+      "key_point": "尿滯留是馬尾症候群重要且常見警訊。",
+      "flashcard_summary": "cauda equina syndrome -> urinary retention is key red flag",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "尿滯留是馬尾症候群重要且常見警訊。",
+      "flashcard_front": "cauda equina syndrome",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_078",
@@ -1644,15 +1952,19 @@
         "D": "若病人已死亡,醫學生可逕行為死者進行內診(pelvic examination)"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n醫學生臨床學習必須建立在病人知情同意、尊嚴與適當監督上。病人接受治療或被麻醉、甚至死亡，都不代表可以省略同意或尊重；即使是簡單程序，也要取得同意並遵守監督規範。\n\n【選項詳解】\n- A. 治療的知情同意應由負責醫療團隊依規範取得，不能因醫師忙碌就交由實習醫學生代替完成。\n- B. 病人麻醉後失去當下表達能力，醫學生進行內診仍需事前明確同意與教學目的說明，不能逕行操作。\n- C. 即使是簡單程序，只要由醫學生操作，也需取得病人同意；實務上還應有適當醫師監督，因此此選項最符合倫理要求。\n- D. 死者仍有人格尊嚴與家屬、法律及教學規範保障，不能逕行內診作為練習。\n\n【核心考點】\n臨床教學的底線是病人同意、適當監督與尊嚴保護；麻醉或死亡都不會讓同意消失。",
+      "key_point": "醫學生操作簡單程序仍需取得病人同意，且應遵守監督規範。",
+      "flashcard_summary": "medical student procedures -> consent and supervision are required",
+      "review_status": "ai_generated",
       "correct_answers": [
         "C"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "醫學生操作簡單程序仍需取得病人同意，且應遵守監督規範。",
+      "flashcard_front": "medical student procedures",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_079",
@@ -1665,15 +1977,19 @@
         "D": "正義原則(justice)"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n知情同意的核心是讓病人在理解資訊後，自主決定是否接受檢查或治療，因此主要落實生命倫理四原則中的尊重自主原則。\n\n【選項詳解】\n- A. 尊重自主原則要求尊重病人的價值、選擇與決策能力，知情同意正是此原則的制度化表現。\n- B. 行善原則要求促進病人利益，但知情同意的核心不是醫師單方面判斷何者有益。\n- C. 不傷害原則要求避免造成不必要傷害，與告知風險相關，但不是知情同意最直接對應原則。\n- D. 正義原則重視公平分配與不歧視，與知情同意相關但不是主要答案。\n\n【核心考點】\n知情同意最直接對應尊重自主；行善、不傷害與正義是其他倫理面向。",
+      "key_point": "知情同意是在落實尊重自主原則。",
+      "flashcard_summary": "informed consent -> respect for autonomy",
+      "review_status": "ai_generated",
       "correct_answers": [
         "A"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "知情同意是在落實尊重自主原則。",
+      "flashcard_front": "informed consent",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     },
     {
       "id": "115-2_medicine-6_080",
@@ -1686,15 +2002,19 @@
         "D": "醫師能幫她作胚胎切片,但須向衛生福利部通報"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "key_point": "",
-      "flashcard_summary": "",
-      "review_status": "empty",
+      "explanation": "【題幹解析】\n題目描述病人接受試管嬰兒，希望胚胎切片確認染色體是否正常；官方鍵選 B，重點在於醫師不應因推測其可能偏好性別而直接拒絕染色體檢查需求。不過實務上仍必須遵守不得非醫療性別選擇的法律與倫理規範。\n\n【選項詳解】\n- A. 不能只因她已有二女、先生為獨子，就推定其一定會違法選性別而拒絕所有胚胎染色體檢查；若檢查目的為染色體正常與否，仍可進行適當諮詢與醫療判斷。\n- B. 在生殖自主與醫療適應症評估下，病人可接受胚胎切片進行染色體檢查；醫師應協助並同時清楚告知限制與法規，這是本題官方採用答案。\n- C. 台灣實務確實重視不得為非醫療目的揭露或選擇胚胎性別，但此選項把處置焦點限縮成不能告知性別，未完整回答病人是否可接受染色體檢查。\n- D. 進行胚胎染色體檢查不等於每案均需向衛生福利部通報；重點是符合法規、不得非醫療性別選擇與適當紀錄。\n\n【核心考點】\nPGT 類檢查可用於染色體或遺傳疾病評估，但不得作為非醫療性別選擇工具；本題依官方答案保留 B 的作答邏輯。",
+      "key_point": "胚胎切片檢查染色體可尊重病人自主，但不得用於非醫療性別選擇。",
+      "flashcard_summary": "PGT ethics -> respect reproductive autonomy while prohibiting nonmedical sex selection",
+      "review_status": "ai_generated",
       "correct_answers": [
         "B"
       ],
       "answer_status": "standard",
-      "answer_source": "official_correction"
+      "answer_source": "official_correction",
+      "flashcard_back": "胚胎切片檢查染色體可尊重病人自主，但不得用於非醫療性別選擇。",
+      "flashcard_front": "PGT ethics",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "explanation_model": "codex-high-quality-rewrite"
     }
   ]
 }

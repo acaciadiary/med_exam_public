@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-6.json",
+  "dataset_id": "115-2_medicine-6",
+  "range": {
+    "start": 71,
+    "end": 80
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-6_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\nTENS 與 IFC 常用於疼痛控制，TENS 主要以門閥理論與內生性止痛機轉解釋。電療不應用於血栓性靜脈炎或疑似血栓區域，以免增加栓塞風險。\n\n【選項詳解】\n- A. TENS 與 IFC 都是臨床常見疼痛電療方式，敘述正確。\n- B. TENS 的止痛常以 gate control theory 說明，透過大直徑感覺纖維調節疼痛傳入，敘述正確。\n- C. 下背痛、退化性關節炎、肌腱炎或韌帶扭傷可考慮疼痛電療；血栓性靜脈炎不應列為適應症，因此此敘述錯誤。\n- D. 頸動脈竇附近電刺激可能誘發血壓或心律反應，屬禁忌區域，敘述正確。\n\n【核心考點】\n電療可用於多種疼痛，但 active thrombophlebitis/DVT 區域是禁忌，不是適應症。",
+      "key_point": "血栓性靜脈炎不是疼痛電療適應症。",
+      "flashcard_front": "electrotherapy",
+      "flashcard_back": "血栓性靜脈炎不是疼痛電療適應症。",
+      "flashcard_summary": "electrotherapy -> thrombophlebitis is contraindication",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_072",
+      "question_number": 72,
+      "explanation": "【題幹解析】\n中年女性肩痛兩個月，X 光與超音波若見旋轉袖肌腱鈣化沉積，最符合肩旋轉環帶鈣化性肌腱變性。它常侵犯棘上肌腱，造成急性或慢性肩痛。\n\n【選項詳解】\n- A. Rotator cuff tear 超音波會見肌腱連續性缺損或撕裂，不以鈣化高回音沉積為主。\n- B. Calcific tendinosis 會在旋轉袖肌腱看到鈣化，與題幹影像線索最吻合。\n- C. 肩部退化性關節炎主要表現為關節間隙變窄、骨刺與軟骨退化，不是肌腱鈣化主軸。\n- D. 外生骨疣是骨性突起，位置與影像型態不同於肌腱內鈣化沉積。\n\n【核心考點】\n肩旋轉袖鈣化性肌腱變性：中年肩痛、X 光鈣化、超音波高回音沉積。",
+      "key_point": "肩部影像見旋轉袖肌腱鈣化最可能是 calcific tendinosis。",
+      "flashcard_front": "shoulder pain + tendon calcification",
+      "flashcard_back": "肩部影像見旋轉袖肌腱鈣化最可能是 calcific tendinosis。",
+      "flashcard_summary": "shoulder pain + tendon calcification -> calcific tendinosis",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n65 歲女性慢性膝痛突然加劇，影像若見股骨內髁或膝關節局部骨髓水腫與骨壞死樣改變，典型診斷是 spontaneous osteonecrosis of the knee。\n\n【選項詳解】\n- A. RA 通常是對稱性發炎性多關節炎，膝部影像不會以局部自發性骨壞死為主要表現。\n- B. SONK 常見於中老年女性，膝痛突然加劇，影像可見負重區骨壞死或骨髓水腫，是本題答案。\n- C. PVNS 為滑膜增生含 hemosiderin，MRI 常有低訊號滑膜腫塊與反覆關節積血，不是此題典型。\n- D. Osteogenic sarcoma 多見青少年或年輕成人 metaphysis 惡性骨腫瘤，與 65 歲女性慢性膝痛急性加劇較不合。\n\n【核心考點】\n中老年女性膝痛突然加劇加局部骨壞死影像，要想到 SONK。",
+      "key_point": "老年女性膝痛影像局部骨壞死最像 SONK。",
+      "flashcard_front": "older woman knee pain",
+      "flashcard_back": "老年女性膝痛影像局部骨壞死最像 SONK。",
+      "flashcard_summary": "older woman knee pain -> spontaneous osteonecrosis of knee",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n年輕人車禍後延遲出現中風，MRI 脂肪抑制 T1 見頸動脈半月形管壁增厚與管腔狹窄，這是頸動脈剝離的典型 mural hematoma 表現。\n\n【選項詳解】\n- A. 頸動脈粥樣硬化合併血栓剝落較常見於年長或血管風險因子病人，不會典型呈現外傷後半月形壁內血腫。\n- B. 顳動脈炎多見 50 歲以上，表現頭痛、顳動脈壓痛、視力症狀，與車禍後頸動脈影像不合。\n- C. 頸動脈剝離可在外傷後造成年輕型中風，T1 fat-sat mural hematoma 與狹窄支持此診斷。\n- D. 頸動脈體腫瘤位於頸動脈分叉，為高血管性腫塊，通常不造成急性中風與壁內血腫影像。\n\n【核心考點】\n年輕外傷後中風加頸動脈壁內血腫，要診斷 carotid dissection。",
+      "key_point": "車禍後年輕人中風與頸動脈半月形壁內血腫最支持頸動脈剝離。",
+      "flashcard_front": "trauma + young stroke + mural hematoma",
+      "flashcard_back": "車禍後年輕人中風與頸動脈半月形壁內血腫最支持頸動脈剝離。",
+      "flashcard_summary": "trauma + young stroke + mural hematoma -> carotid dissection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n這位 IVF 懷孕女性有休克與陰道出血，且有子宮外孕病史，必須高度懷疑子宮外孕或異位合併子宮內妊娠。單一次 beta-hCG 數值不能單獨區分正常懷孕與子宮外孕，需結合超音波、連續 hCG 與臨床穩定性。\n\n【選項詳解】\n- A. 單一 beta-hCG 數值只能提供大致風險與是否達 discriminatory zone 的參考，不能有效區分正常與子宮外孕，是正確敘述。\n- B. 子宮外孕可只有陰道出血、輕微疼痛或症狀不典型；沒有腹痛不能排除。\n- C. 病人低血壓、心搏快，疑似破裂或出血性休克，不適合在急診直接給 methotrexate，應先急救與手術評估。\n- D. IVF 提高 heterotopic pregnancy 風險；即使看到子宮內妊娠，也不能完全排除同時存在子宮外孕。\n\n【核心考點】\n子宮外孕不能靠單一 hCG 排除；IVF 要記 heterotopic pregnancy，休克病人不可走 MTX 路線。",
+      "key_point": "單一 beta-hCG 無法有效區分正常懷孕與子宮外孕。",
+      "flashcard_front": "ectopic pregnancy",
+      "flashcard_back": "單一 beta-hCG 無法有效區分正常懷孕與子宮外孕。",
+      "flashcard_summary": "ectopic pregnancy -> single beta-hCG cannot rule in/out; IVF raises heterotopic risk",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n咽後膿瘍可由咽喉外傷、魚刺、齒源性感染或上呼吸道感染擴散造成。若病人呼吸困難且無法躺平，最優先是安全處理氣道，不能為了做 CT 先鎮靜，因鎮靜可能使氣道塌陷。\n\n【選項詳解】\n- A. 魚刺造成黏膜穿刺或齒源性感染都可能引起深頸部感染與咽後膿瘍，敘述正確。\n- B. 頸部側位 X 光可見 prevertebral soft tissue widening，是典型影像線索之一。\n- C. 呼吸困難且無法躺平代表氣道危急，先鎮靜再做 CT 可能造成完全阻塞，因此最不適當。\n- D. 咽後膿瘍多需廣效抗生素，若有膿瘍、氣道危險或治療失敗則需外科引流。\n\n【核心考點】\n深頸部感染有呼吸困難時先顧氣道；不要為了影像檢查鎮靜而讓氣道失控。",
+      "key_point": "咽後膿瘍呼吸困難不能先鎮靜再送 CT。",
+      "flashcard_front": "retropharyngeal abscess",
+      "flashcard_back": "咽後膿瘍呼吸困難不能先鎮靜再送 CT。",
+      "flashcard_summary": "retropharyngeal abscess -> airway first, avoid sedating unstable airway",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n馬尾症候群是神經外科急症，典型紅旗包括單側或雙側坐骨神經痛、下肢運動或感覺缺損、會陰鞍部麻木、膀胱功能障礙，尤其尿滯留很重要。\n\n【選項詳解】\n- A. 馬尾神經受壓會造成不同程度下肢運動與感覺喪失，敘述正確。\n- B. 尿滯留是馬尾症候群常見且重要警訊；說不常見最不適當。\n- C. 單側或雙側坐骨神經痛可出現，尤其大型中央椎間盤突出或腫瘤壓迫時。\n- D. 會陰部感覺異常或鞍部麻木是馬尾症候群經典紅旗。\n\n【核心考點】\n馬尾症候群紅旗：尿滯留、鞍部麻木、雙側坐骨神經痛與下肢神經缺損；需緊急影像與減壓評估。",
+      "key_point": "尿滯留是馬尾症候群重要且常見警訊。",
+      "flashcard_front": "cauda equina syndrome",
+      "flashcard_back": "尿滯留是馬尾症候群重要且常見警訊。",
+      "flashcard_summary": "cauda equina syndrome -> urinary retention is key red flag",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_078",
+      "question_number": 78,
+      "explanation": "【題幹解析】\n醫學生臨床學習必須建立在病人知情同意、尊嚴與適當監督上。病人接受治療或被麻醉、甚至死亡，都不代表可以省略同意或尊重；即使是簡單程序，也要取得同意並遵守監督規範。\n\n【選項詳解】\n- A. 治療的知情同意應由負責醫療團隊依規範取得，不能因醫師忙碌就交由實習醫學生代替完成。\n- B. 病人麻醉後失去當下表達能力，醫學生進行內診仍需事前明確同意與教學目的說明，不能逕行操作。\n- C. 即使是簡單程序，只要由醫學生操作，也需取得病人同意；實務上還應有適當醫師監督，因此此選項最符合倫理要求。\n- D. 死者仍有人格尊嚴與家屬、法律及教學規範保障，不能逕行內診作為練習。\n\n【核心考點】\n臨床教學的底線是病人同意、適當監督與尊嚴保護；麻醉或死亡都不會讓同意消失。",
+      "key_point": "醫學生操作簡單程序仍需取得病人同意，且應遵守監督規範。",
+      "flashcard_front": "medical student procedures",
+      "flashcard_back": "醫學生操作簡單程序仍需取得病人同意，且應遵守監督規範。",
+      "flashcard_summary": "medical student procedures -> consent and supervision are required",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n知情同意的核心是讓病人在理解資訊後，自主決定是否接受檢查或治療，因此主要落實生命倫理四原則中的尊重自主原則。\n\n【選項詳解】\n- A. 尊重自主原則要求尊重病人的價值、選擇與決策能力，知情同意正是此原則的制度化表現。\n- B. 行善原則要求促進病人利益，但知情同意的核心不是醫師單方面判斷何者有益。\n- C. 不傷害原則要求避免造成不必要傷害，與告知風險相關，但不是知情同意最直接對應原則。\n- D. 正義原則重視公平分配與不歧視，與知情同意相關但不是主要答案。\n\n【核心考點】\n知情同意最直接對應尊重自主；行善、不傷害與正義是其他倫理面向。",
+      "key_point": "知情同意是在落實尊重自主原則。",
+      "flashcard_front": "informed consent",
+      "flashcard_back": "知情同意是在落實尊重自主原則。",
+      "flashcard_summary": "informed consent -> respect for autonomy",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_080",
+      "question_number": 80,
+      "explanation": "【題幹解析】\n題目描述病人接受試管嬰兒，希望胚胎切片確認染色體是否正常；官方鍵選 B，重點在於醫師不應因推測其可能偏好性別而直接拒絕染色體檢查需求。不過實務上仍必須遵守不得非醫療性別選擇的法律與倫理規範。\n\n【選項詳解】\n- A. 不能只因她已有二女、先生為獨子，就推定其一定會違法選性別而拒絕所有胚胎染色體檢查；若檢查目的為染色體正常與否，仍可進行適當諮詢與醫療判斷。\n- B. 在生殖自主與醫療適應症評估下，病人可接受胚胎切片進行染色體檢查；醫師應協助並同時清楚告知限制與法規，這是本題官方採用答案。\n- C. 台灣實務確實重視不得為非醫療目的揭露或選擇胚胎性別，但此選項把處置焦點限縮成不能告知性別，未完整回答病人是否可接受染色體檢查。\n- D. 進行胚胎染色體檢查不等於每案均需向衛生福利部通報；重點是符合法規、不得非醫療性別選擇與適當紀錄。\n\n【核心考點】\nPGT 類檢查可用於染色體或遺傳疾病評估，但不得作為非醫療性別選擇工具；本題依官方答案保留 B 的作答邏輯。",
+      "key_point": "胚胎切片檢查染色體可尊重病人自主，但不得用於非醫療性別選擇。",
+      "flashcard_front": "PGT ethics",
+      "flashcard_back": "胚胎切片檢查染色體可尊重病人自主，但不得用於非醫療性別選擇。",
+      "flashcard_summary": "PGT ethics -> respect reproductive autonomy while prohibiting nonmedical sex selection",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

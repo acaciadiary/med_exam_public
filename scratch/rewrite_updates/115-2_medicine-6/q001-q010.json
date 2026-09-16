@@ -1,0 +1,142 @@
+{
+  "source_file": "public/data/exams/115-2/medicine-6.json",
+  "dataset_id": "115-2_medicine-6",
+  "range": {
+    "start": 1,
+    "end": 10
+  },
+  "updates": [
+    {
+      "question_id": "115-2_medicine-6_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n本題問全身麻醉甦醒拔管時最不常見的氣道相關併發症。拔管前後常見問題來自上呼吸道阻塞、喉頭刺激、支氣管痙攣或插管造成的喉部損傷；神經性肺水腫通常與中樞神經傷害或顱內壓急遽變化相關，並不是拔管期典型氣道併發症。\n\n【選項詳解】\n- A. 上呼吸道阻塞可因舌根後墜、分泌物、喉頭水腫或殘餘麻醉肌鬆造成，是拔管後常見且需立即處理的問題。\n- B. 支氣管痙攣可由氣管內管刺激、氣道反應性高或分泌物誘發，拔管期確實可能發生。\n- C. 杓狀軟骨脫位可由插管或拔管造成聲門結構受傷，會表現為聲音沙啞或吸入困難，雖少見但屬插管相關併發症。\n- D. 神經性肺水腫多見於急性中樞神經事件後交感神經暴衝，與拔管時的局部氣道事件不同，因此在本題列項中最不可能。\n\n【核心考點】\n拔管期優先想到上呼吸道阻塞、喉痙攣、支氣管痙攣、誤吸與喉部機械性傷害；神經性肺水腫不是典型拔管氣道併發症。",
+      "key_point": "拔管期常見氣道併發症包括阻塞、支氣管痙攣與喉部損傷；神經性肺水腫較不典型。",
+      "flashcard_front": "extubation complication",
+      "flashcard_back": "拔管期常見氣道併發症包括阻塞、支氣管痙攣與喉部損傷；神經性肺水腫較不典型。",
+      "flashcard_summary": "extubation complication -> neurogenic pulmonary edema is least typical",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n這位病人已在加護病房使用呼吸器，且骨盆與大腿骨骨折使被動抬腿測試不理想。評估輸液是否會增加心輸出量時，機械通氣且條件合適的病人可用脈壓變異率作為動態指標，比靜態壓力或單次血壓更有用。\n\n【選項詳解】\n- A. 中央靜脈壓是靜態充填壓，受胸腔壓、右心功能與血管張力影響大，不能可靠預測輸液反應。\n- B. 脈壓變異率利用正壓呼吸造成的心肺交互作用來推估前負荷反應性，在控制式機械通氣、規則心律、足夠潮氣量等條件下是合適動態指標。\n- C. 被動式抬腿測試可作為可逆性自體輸液試驗，但骨盆與大腿骨骨折病人不適合搬動下肢，且疼痛與固定會影響操作。\n- D. 血壓只能反映當下灌流壓，受血管阻力與心輸出量共同影響，不能直接判斷再給液體是否有效。\n\n【核心考點】\n輸液反應要看動態指標；機械通氣條件合適時可用 PPV，骨盆或股骨骨折病人不適合用被動抬腿測試。",
+      "key_point": "機械通氣且條件合適的重症病人可用 pulse pressure variation 評估輸液反應。",
+      "flashcard_front": "fluid responsiveness",
+      "flashcard_back": "機械通氣且條件合適的重症病人可用 pulse pressure variation 評估輸液反應。",
+      "flashcard_summary": "fluid responsiveness -> PPV for ventilated patient; avoid PLR in pelvic/femur fracture",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n官方更正接受 A 或 B 或 AB 給分。CO 中毒會讓 carboxyhemoglobin 增加並使血紅素攜氧能力下降，但一般脈搏血氧機無法分辨 oxyhemoglobin 與 carboxyhemoglobin，常呈現假性正常；此外以 carboxyhemoglobin 大於 15% 作為單一中毒定義也有門檻爭議。\n\n【選項詳解】\n- A. 不適當。CO 會占據血紅素並減少有效攜氧，但傳統 SpO2 會把 carboxyhemoglobin 誤判成 oxyhemoglobin，讀值常假性偏高或正常，不一定偏低。\n- B. 也被官方接受。COHb 濃度用來支持診斷，但臨床門檻會受抽血時間、給氧、抽菸狀態與症狀影響；把中毒定義僵硬寫成大於 15% 容易過度簡化。\n- C. 頭痛、噁心、無力、意識混亂、休克都可見於 CO 中毒，重症還可有心肌缺氧與神經後遺症。\n- D. 立即給 100% 氧氣可加速 COHb 解離；高壓氧在重症、意識障礙、孕婦或高濃度 COHb 等情境可進一步縮短半衰期。\n\n【核心考點】\nCO 中毒的陷阱是 SpO2 可能假性正常；診斷要看暴露史、症狀與 COHb，而不是只靠脈搏血氧。",
+      "key_point": "CO poisoning 中 SpO2 常假性正常；官方更正接受 A 或 B。",
+      "flashcard_front": "CO poisoning",
+      "flashcard_back": "CO poisoning 中 SpO2 常假性正常；官方更正接受 A 或 B。",
+      "flashcard_summary": "CO poisoning -> pulse oximeter falsely normal; official accepts A/B",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": [
+        "官方更正：第3題答A或B或AB者均給分。"
+      ]
+    },
+    {
+      "question_id": "115-2_medicine-6_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\n麻醉中呼吸監測同時要看氧合、換氣與肺部狀態。胸部 X 光能診斷許多肺部問題，但對早期肺水腫並非最敏感工具，少量肺水增加不會立刻在 X 光上清楚呈現。\n\n【選項詳解】\n- A. Pulse oximetry 可連續追蹤氧合，是麻醉與恢復室基本監測工具。\n- B. End-tidal CO2 與 PaCO2 受死腔、肺灌流、心輸出量與肺部疾病影響，兩者本來就不一定相同。\n- C. 床邊超音波可快速評估氣胸、肺實變、肋膜積液與肺水腫 B-lines，近年在手術室與加護病房常用。\n- D. 胸部 X 光不是肺水腫早期診斷的最佳工具；通常需較明顯的肺水或間質變化才容易判讀，5% 增加就可顯現的說法不合理。\n\n【核心考點】\n早期肺水腫可用臨床、氧合、超音波與血流動力學綜合判斷；胸部 X 光不是最早期、最敏感的肺水監測。",
+      "key_point": "胸部 X 光不是肺水腫早期診斷的最佳工具。",
+      "flashcard_front": "respiratory monitoring",
+      "flashcard_back": "胸部 X 光不是肺水腫早期診斷的最佳工具。",
+      "flashcard_summary": "respiratory monitoring -> CXR is insensitive for early pulmonary edema",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\nDexmedetomidine 是選擇性 alpha-2 agonist，特色是鎮靜、交感抑制、減少 opioid 需求，且相對保留呼吸驅動。它通常降低麻醉藥需求，不會提高吸入麻醉劑 MAC。\n\n【選項詳解】\n- A. Alpha-2 鎮痛主要與脊髓背角及中樞交感抑制相關，選項寫成腹角不精確，因此不是最佳藥理描述。\n- B. Dexmedetomidine 可提供 opioid-sparing effect，術中與術後常能減少類鴉片用量，這是本題最恰當敘述。\n- C. Dexmedetomidine 會降低交感張力與麻醉藥需求，通常使吸入麻醉劑 MAC 下降，而不是提高。\n- D. Dexmedetomidine 的重要優點之一是呼吸抑制較輕，可用於需要鎮靜但希望保留呼吸的情境；說容易造成術後呼吸抑制不恰當。\n\n【核心考點】\nDexmedetomidine：alpha-2 agonist、鎮靜鎮痛、減少 opioid 與麻醉藥需求、呼吸抑制相對少，但需注意低血壓與心搏過慢。",
+      "key_point": "Dexmedetomidine 有 opioid-sparing effect，且相對不抑制呼吸。",
+      "flashcard_front": "dexmedetomidine",
+      "flashcard_back": "Dexmedetomidine 有 opioid-sparing effect，且相對不抑制呼吸。",
+      "flashcard_summary": "dexmedetomidine -> alpha-2 agonist with opioid-sparing effect",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\n本題考局部麻醉劑分類與代謝。Amide 類多經肝臟代謝，其中 bupivacaine 屬 amide 類，主要靠肝臟 cytochrome P450 系統代謝；ester 類才多由血漿 pseudocholinesterase 代謝。\n\n【選項詳解】\n- A. 局部麻醉劑血中濃度下降與分布、組織吸收及代謝都有關，不能把快速移除主要歸因於一開始快速分布到肌肉。\n- B. Amide 類局部麻醉劑主要在肝臟代謝；pseudocholinesterase 是 ester 類的重要代謝酵素，選項把兩者混淆。\n- C. Cocaine 是 ester 類局部麻醉劑，不是 amide 類。\n- D. Bupivacaine 是 amide 類，經肝臟 P450 enzymes 代謝，且心臟毒性較需警覺，因此此敘述最恰當。\n\n【核心考點】\nEster 類局麻藥靠 pseudocholinesterase；amide 類如 lidocaine、bupivacaine 多靠肝臟代謝。",
+      "key_point": "Bupivacaine 是 amide 類局麻藥，主要經肝臟 P450 代謝。",
+      "flashcard_front": "local anesthetics",
+      "flashcard_back": "Bupivacaine 是 amide 類局麻藥，主要經肝臟 P450 代謝。",
+      "flashcard_summary": "local anesthetics -> amide liver metabolism; ester pseudocholinesterase",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\nFoCUS 的核心目標是快速取得床邊心臟功能、心包積液與容量狀態資訊，常用視圖包括胸骨旁長軸、胸骨旁短軸、心尖四腔、劍突下四腔與下腔靜脈。心尖長軸不是最主要的基本 FoCUS 視圖。\n\n【選項詳解】\n- A. 心尖長軸視圖可在完整心臟超音波中使用，但不是 FoCUS 基本檢查最主要視圖，因此是本題答案。\n- B. 胸骨旁短軸視圖可看左心室收縮、右心壓力負荷與室壁運動，是常用 FoCUS 視圖。\n- C. 心尖四腔視圖可比較左右心大小、看整體收縮與心包積液，是 FoCUS 基本視圖之一。\n- D. 劍突下四腔視圖在休克、創傷或無法取得胸前視窗時很重要，也常用來看心包積液。\n\n【核心考點】\nFoCUS 基本視圖要熟：PLAX、PSAX、A4C、subcostal 4-chamber 與 IVC；ALAX 不是主要基本視圖。",
+      "key_point": "FoCUS 主要視圖不包含 apical long-axis view。",
+      "flashcard_front": "FoCUS views",
+      "flashcard_back": "FoCUS 主要視圖不包含 apical long-axis view。",
+      "flashcard_summary": "FoCUS views -> ALAX is not a primary focused view",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n鎮靜到全身麻醉是連續光譜。Deep sedation 時病人不一定能維持呼吸道通暢，可能需要呼吸道處置；若已失去意識且對疼痛刺激無反應，則進入全身麻醉層級。\n\n【選項詳解】\n- A. Minimal sedation 主要是 anxiolysis，認知與協調可稍受影響，但對口語指令反應正常，敘述正確。\n- B. Moderate sedation 時病人對口語叫喚或輕觸刺激有目的反應，自主呼吸通常足夠，敘述正確。\n- C. Deep sedation 對疼痛或重複刺激才有反應，且自發呼吸可能不足、可能需要 airway intervention；說皆足夠且不需處置是錯誤。\n- D. 全身麻醉時病人不可喚醒，通常對疼痛刺激無反應，常需協助通氣或維持呼吸道，敘述正確。\n\n【核心考點】\nDeep sedation 的考點是呼吸道與通氣可能失守；不要把它寫成一定能自行維持呼吸。",
+      "key_point": "Deep sedation 可能需要呼吸道處置，自發呼吸不一定足夠。",
+      "flashcard_front": "sedation depth",
+      "flashcard_back": "Deep sedation 可能需要呼吸道處置，自發呼吸不一定足夠。",
+      "flashcard_summary": "sedation depth -> deep sedation may require airway support",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_009",
+      "question_number": 9,
+      "explanation": "【題幹解析】\nPCA 能讓病人自行在設定範圍內給藥，常改善止痛滿意度並減少血中濃度劇烈波動；但它不是絕對安全，仍可能發生鎮靜過深、呼吸抑制、噁心嘔吐或操作錯誤。\n\n【選項詳解】\n- A. Lockout interval 只能降低重複給藥風險，不能保證絕對安全；病人共病、基礎輸注、他人代按與監測不足都可能造成危險，因此此敘述最不適當。\n- B. PCA 可設定 bolus dose、lockout interval，也可視情況設定 basal infusion，這是裝置基本功能。\n- C. PCA 常能提升病人自主感與止痛滿意度，並可能降低總 opioid 用量或避免過量追加。\n- D. 因疼痛控制較穩定且避免不必要給藥，PCA 可減少部分 opioid 相關副作用，但仍需監測呼吸與意識。\n\n【核心考點】\nPCA 的安全來自劑量、鎖定時間與監測，不是裝置本身絕對安全；特別要防呼吸抑制與他人代按。",
+      "key_point": "PCA 有 lockout interval，但不是絕對安全。",
+      "flashcard_front": "PCA",
+      "flashcard_back": "PCA 有 lockout interval，但不是絕對安全。",
+      "flashcard_summary": "PCA -> lockout reduces risk but does not eliminate opioid toxicity",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "115-2_medicine-6_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n高度近視病人突然出現明顯飛蚊症，要警覺玻璃體牽拉造成視網膜裂孔，進一步形成裂孔性視網膜剝離。題目附圖雖未在資料中呈現，但高度近視加急性飛蚊是典型線索。\n\n【選項詳解】\n- A. 牽引性視網膜剝離常見於增殖性糖尿病視網膜病變、早產兒視網膜病變等纖維血管膜牽拉，不是高度近視急性裂孔的典型類型。\n- B. 裂孔性視網膜剝離由視網膜裂孔讓液體進入神經視網膜下方，高度近視與急性飛蚊、閃光感都支持此診斷。\n- C. 滲出性視網膜剝離沒有裂孔，常與發炎、腫瘤、脈絡膜病變或高血壓相關，與本題線索不合。\n- D. 葡萄腫是高度近視眼球壁後極部外凸變形，可造成屈光與黃斑問題，但不解釋突然大量飛蚊與急性剝離。\n\n【核心考點】\n高度近視加突然飛蚊或閃光，要先排除視網膜裂孔與裂孔性視網膜剝離。",
+      "key_point": "高度近視急性飛蚊要懷疑 rhegmatogenous retinal detachment。",
+      "flashcard_front": "high myopia + acute floaters",
+      "flashcard_back": "高度近視急性飛蚊要懷疑 rhegmatogenous retinal detachment。",
+      "flashcard_summary": "high myopia + acute floaters -> rhegmatogenous retinal detachment",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T11:29:53+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
