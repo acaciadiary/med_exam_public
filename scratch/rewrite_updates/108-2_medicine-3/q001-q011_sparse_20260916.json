@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-3.json",
+  "dataset_id": "108-2_medicine-3",
+  "range": {
+    "start": 1,
+    "end": 11
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-3_001",
+      "question_number": 1,
+      "explanation": "【題幹解析】\n血清白蛋白 3.0 g/dL、腹水白蛋白 1.2 g/dL，SAAG 為 1.8 g/dL，代表腹水與門脈高壓相關。腹水總蛋白 2.8 g/dL 偏高，較支持心衰竭或肝靜脈/肝竇阻塞；肝硬化造成的門脈高壓腹水通常蛋白較低，因此本題問「最不可能」時選 C。\n\n【選項詳解】\n- A. early hepatic vein thrombosis 可造成肝後性或肝流出阻塞，SAAG 常偏高，早期腹水蛋白也可偏高，因此仍符合本題數據。\n- B. heart failure 造成肝鬱血與門脈壓升高，SAAG 會大於 1.1，且因肝竇通透與蛋白外漏，腹水總蛋白常大於 2.5 g/dL。\n- C. liver cirrhosis 是本題的例外。肝硬化雖會使 SAAG 升高，但腹水蛋白通常較低，常低於 2.5 g/dL，與本題 2.8 g/dL 不合。\n- D. hepatic sinusoidal obstruction syndrome 會阻礙肝竇或小肝靜脈流出，產生門脈高壓型且蛋白較高的腹水，所以不能優先排除。\n\n【核心考點】\n腹水先用 SAAG 判斷是否為門脈高壓，再用腹水總蛋白分流病因：SAAG 高且蛋白高偏向心衰竭、Budd-Chiari 或肝竇阻塞；SAAG 高但蛋白低才典型支持肝硬化。",
+      "key_point": "SAAG > 1.1 且腹水總蛋白 > 2.5 g/dL 偏向心衰竭或肝靜脈/肝竇阻塞，較不支持典型肝硬化腹水。",
+      "flashcard_front": "腹水鑑別：SAAG 高且腹水蛋白高代表什麼？",
+      "flashcard_back": "SAAG > 1.1 表示門脈高壓；若腹水蛋白 > 2.5 g/dL，偏向心衰竭、Budd-Chiari 或肝竇阻塞，肝硬化典型蛋白較低。",
+      "flashcard_summary": "腹水鑑別：SAAG 高且腹水蛋白高代表什麼？ -> SAAG > 1.1 表示門脈高壓；若腹水蛋白 > 2.5 g/dL，偏向心衰竭、Budd-Chiari 或肝竇阻塞，肝硬化典型蛋白較低。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_002",
+      "question_number": 2,
+      "explanation": "【題幹解析】\n題目問最不可能造成呼吸性鹼中毒的藥物或狀況。呼吸性鹼中毒來自過度換氣使 PaCO2 下降；水楊酸、高山缺氧與懷孕都會刺激換氣，嗎啡則抑制呼吸中樞，較會造成 CO2 滯留與呼吸性酸中毒。\n\n【選項詳解】\n- A. 水楊酸鹽會直接刺激延腦呼吸中樞，早期中毒常先出現呼吸性鹼中毒，之後才可能合併代謝性酸中毒。\n- B. 高山環境的低氧會刺激周邊化學受器，使換氣增加，PaCO2 被吹低而形成呼吸性鹼中毒。\n- C. 懷孕時黃體素會提高呼吸中樞對 CO2 的敏感度，分鐘通氣量增加，常見輕度慢性呼吸性鹼中毒。\n- D. 嗎啡是本題例外。opioid 抑制呼吸中樞，會使肺泡通氣不足與 PaCO2 上升，方向是呼吸性酸中毒而非鹼中毒。\n\n【核心考點】\n判斷酸鹼題先抓通氣方向：刺激換氣會造成低 PaCO2 與呼吸性鹼中毒；呼吸抑制藥物如 opioid 則造成高 PaCO2 與呼吸性酸中毒。",
+      "key_point": "呼吸性鹼中毒來自過度換氣；嗎啡抑制呼吸中樞，較會造成呼吸性酸中毒。",
+      "flashcard_front": "哪些情境造成呼吸性鹼中毒？嗎啡例外在哪？",
+      "flashcard_back": "水楊酸、高山低氧、懷孕會增加換氣造成呼吸性鹼中毒；嗎啡抑制呼吸，造成 CO2 滯留與呼吸性酸中毒。",
+      "flashcard_summary": "哪些情境造成呼吸性鹼中毒？嗎啡例外在哪？ -> 水楊酸、高山低氧、懷孕會增加換氣造成呼吸性鹼中毒；嗎啡抑制呼吸，造成 CO2 滯留與呼吸性酸中毒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_003",
+      "question_number": 3,
+      "explanation": "【題幹解析】\n本題考心導管壓力數據的基本解讀。體循環血管阻力 SVR 的計算需要壓力差除以心輸出量，也就是平均主動脈壓、平均右心房壓與心輸出量，因此 D 正確。\n\n【選項詳解】\n- A. 正常平均肺動脈壓約 10-20 mmHg，通常不應是 30-40 mmHg；這個範圍已接近肺高壓表現。\n- B. constrictive pericarditis 的右、左心室舒張末壓常趨於相等，且會出現 dip-and-plateau；用「右心室舒張末壓小於右心室收縮壓 1/3」來區分並不正確。\n- C. 二尖瓣狹窄時，PCWP 反映的是左心房壓及二尖瓣近端壓力，因二尖瓣本身有狹窄壓力梯度，不能可靠代表左心室舒張末壓。\n- D. SVR = (平均動脈壓 - 平均右心房壓) / 心輸出量，再乘換算常數；所以需要心輸出量、平均主動脈壓與平均右心房壓。\n\n【核心考點】\n血流動力學計算要分清楚壓力代表的位置：PCWP 通常近似左心房壓，但二尖瓣狹窄時不等於左心室舒張末壓；SVR 需要動脈壓、右心房壓與心輸出量。",
+      "key_point": "SVR 計算需平均主動脈壓、平均右心房壓與心輸出量；二尖瓣狹窄時 PCWP 不能代表 LVEDP。",
+      "flashcard_front": "心導管：SVR 需要哪些資料？PCWP 在二尖瓣狹窄有何限制？",
+      "flashcard_back": "SVR = (MAP - RAP) / CO；二尖瓣狹窄時 PCWP 反映左心房壓，不可直接當 LVEDP。",
+      "flashcard_summary": "心導管：SVR 需要哪些資料？PCWP 在二尖瓣狹窄有何限制？ -> SVR = (MAP - RAP) / CO；二尖瓣狹窄時 PCWP 反映左心房壓，不可直接當 LVEDP。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_004",
+      "question_number": 4,
+      "explanation": "【題幹解析】\nPR interval 從 P 波開始到 QRS 開始，代表心房興奮傳到心室開始去極化前的時間。它包含心房去極化、AV node 延遲，以及被 QRS 遮住的心房再極化，但不包含心室去極化本身。\n\n【選項詳解】\n- A. 心房去極化形成 P 波，是 PR interval 的起始部分，因此屬於 PR 間距涵蓋的事件。\n- B. 心房再極化幅度小且常被 QRS 掩蓋，但時序上可落在 PR 到 QRS 附近，並非本題最不可能的部分。\n- C. 房室結傳導延遲是 PR interval 的核心，PR 延長常反映 AV nodal conduction delay 或房室傳導阻滯。\n- D. 心室去極化由 QRS complex 表示；PR interval 到 QRS 開始即結束，所以心室去極化不屬於 PR 間距。\n\n【核心考點】\nPR interval 是「心房去極化開始到心室去極化開始前」的傳導時間；心室去極化看 QRS，不看 PR。",
+      "key_point": "PR interval 代表心房到房室結傳導至心室去極化開始前的時間；心室去極化由 QRS 表示。",
+      "flashcard_front": "ECG PR interval 包含哪些心跳週期？",
+      "flashcard_back": "包含 P 波與 AV nodal delay，到 QRS 開始前結束；心室去極化屬 QRS，不屬 PR interval。",
+      "flashcard_summary": "ECG PR interval 包含哪些心跳週期？ -> 包含 P 波與 AV nodal delay，到 QRS 開始前結束；心室去極化屬 QRS，不屬 PR interval。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_005",
+      "question_number": 5,
+      "explanation": "【題幹解析】\n70 歲糖尿病女性急性胸痛、冒汗與噁心，題目附圖心電圖被官方判讀為左前降支供應區的急性心肌梗塞。LAD 阻塞典型影響前壁、前中隔與心尖，常對應 V1-V4 或前壁導程變化。\n\n【選項詳解】\n- A. 左主幹阻塞通常造成大範圍左心室缺血，常見廣泛 ST 變化並可能迅速休克；若題圖主要是前壁導程變化，較不優先選左主幹。\n- B. 左前降支供應前壁與前中隔，急性前壁心肌梗塞最典型要想到 LAD，這與官方答案相符。\n- C. 左迴旋支多供應側壁或後外側壁，心電圖常在 I、aVL、V5-V6 或後壁線索較突出，不是本題官方判讀的主血管。\n- D. 右冠狀動脈常造成下壁梗塞，對應 II、III、aVF 變化，也可能合併右心室梗塞；與前壁 LAD 型態不同。\n\n【核心考點】\n心肌梗塞定位常用導程分布配冠狀動脈：前壁/前中隔導程想到 LAD，下壁想到 RCA，側壁想到 LCX 或 diagonal/obtuse marginal。",
+      "key_point": "急性前壁或前中隔心肌梗塞最常對應左前降支阻塞。",
+      "flashcard_front": "心肌梗塞導程定位：LAD 阻塞常見哪一區？",
+      "flashcard_back": "LAD 阻塞常造成前壁、前中隔或心尖梗塞，典型導程為 V1-V4 或前壁相關導程。",
+      "flashcard_summary": "心肌梗塞導程定位：LAD 阻塞常見哪一區？ -> LAD 阻塞常造成前壁、前中隔或心尖梗塞，典型導程為 V1-V4 或前壁相關導程。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_006",
+      "question_number": 6,
+      "explanation": "【題幹解析】\ncardiac tamponade 與 constrictive pericarditis 都可有頸靜脈壓上升與舒張受限，但吸氣時頸靜脈壓反而上升的 Kussmaul sign 較支持 constrictive pericarditis。心包膜填塞因右心充盈被液體壓迫，典型沒有 Kussmaul sign。\n\n【選項詳解】\n- A. pulsus paradoxus 常見於心包膜填塞，但嚴重 constrictive physiology 或其他胸腔疾病也可能出現，區分力不如 Kussmaul sign。\n- B. Kussmaul sign 在 constrictive pericarditis 較典型，因僵硬心包限制右心吸氣時擴張；tamponade 通常沒有此表現，是最佳區分點。\n- C. third heart sound 是心室快速充盈造成的聲音，可見於容量負荷或心衰竭，並非兩者最可靠的鑑別特徵。\n- D. prominent x descent 可見於 tamponade；constrictive pericarditis 也會有明顯頸靜脈波變化，單靠 x descent 不如 Kussmaul sign 清楚。\n\n【核心考點】\n限制性心包膜炎常見 Kussmaul sign 與明顯 y descent；心包膜填塞重點是 pulsus paradoxus、x descent 保留且 y descent 受抑制。",
+      "key_point": "Kussmaul sign 較支持限制性心包膜炎，通常不見於典型心包膜填塞。",
+      "flashcard_front": "tamponade vs constrictive pericarditis：哪個徵象最能區分？",
+      "flashcard_back": "Kussmaul sign 支持 constrictive pericarditis；tamponade 常見 pulsus paradoxus、JVP 上升與 y descent 受抑制。",
+      "flashcard_summary": "tamponade vs constrictive pericarditis：哪個徵象最能區分？ -> Kussmaul sign 支持 constrictive pericarditis；tamponade 常見 pulsus paradoxus、JVP 上升與 y descent 受抑制。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_007",
+      "question_number": 7,
+      "explanation": "【題幹解析】\n題目問擴張性心肌症合併心衰竭的錯誤敘述。擴張性心肌症會有左心室擴大與收縮功能下降，但標準心衰竭藥物與合適病人的 CRT 都可能改善收縮功能、症狀與預後，所以 D 說藥物無法改善是錯的。\n\n【選項詳解】\n- A. 感染、酒精或化療毒性、內分泌/代謝異常、營養缺乏與家族遺傳都可造成擴張性心肌症，病因確實多樣。\n- B. 心臟超音波看到左心室擴張、射出分率下降與整體收縮不良，是擴張性心肌症的典型影像表現。\n- C. 合併 LBBB 且 QRS 延長、EF 降低並符合症狀條件者，CRT 可改善心室同步性，進而改善心功能與住院風險。\n- D. 這句是錯誤敘述。ACEi/ARB/ARNI、beta blocker、MRA、SGLT2 inhibitor 等心衰竭藥物可改善 remodeling、EF、症狀與存活。\n\n【核心考點】\n擴張性心肌症治療不是只能支持療法；HFrEF 藥物與符合條件的 CRT 都可能逆轉 remodeling 並改善收縮功能。",
+      "key_point": "擴張性心肌症合併 HFrEF 可由標準心衰竭藥物與符合條件的 CRT 改善心功能與預後。",
+      "flashcard_front": "擴張性心肌症：藥物與 CRT 能否改善收縮功能？",
+      "flashcard_back": "可以。HFrEF guideline-directed therapy 與 LBBB/QRS 延長者的 CRT 可改善 remodeling、EF 與症狀。",
+      "flashcard_summary": "擴張性心肌症：藥物與 CRT 能否改善收縮功能？ -> 可以。HFrEF guideline-directed therapy 與 LBBB/QRS 延長者的 CRT 可改善 remodeling、EF 與症狀。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_008",
+      "question_number": 8,
+      "explanation": "【題幹解析】\n動脈壓波從中央傳到周邊時，因反射波與血管順應性下降，收縮壓會被放大，舒張壓則可略降或不如中央高，造成脈壓變大。題目問由近心端往周邊逐次測量，最佳選項是收縮壓上升、舒張壓降低。\n\n【選項詳解】\n- A. 正確。周邊動脈壓波常有 systolic pressure amplification，收縮壓上升且舒張壓下降，使脈壓加大。\n- B. 舒張壓通常不會隨周邊傳導一起明顯上升；若收縮與舒張都上升，無法反映典型周邊壓波放大。\n- C. 收縮壓不變忽略了周邊反射波造成的收縮壓放大，因此不符合生理。\n- D. 只寫舒張壓不變不夠準確；本題考典型由中央到周邊的壓波變化，舒張壓會較中央低。\n\n【核心考點】\n中央到周邊的血壓變化重點是 pulse pressure amplification：周邊收縮壓較高、舒張壓較低或不增，平均壓差異較小。",
+      "key_point": "動脈壓波往周邊傳導時收縮壓上升、舒張壓下降，脈壓增大。",
+      "flashcard_front": "中央到周邊測血壓：收縮壓與舒張壓如何變？",
+      "flashcard_back": "周邊動脈收縮壓因波形反射而上升，舒張壓較低，脈壓變大。",
+      "flashcard_summary": "中央到周邊測血壓：收縮壓與舒張壓如何變？ -> 周邊動脈收縮壓因波形反射而上升，舒張壓較低，脈壓變大。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_010",
+      "question_number": 10,
+      "explanation": "【題幹解析】\n題目問肥厚型心肌病變心因性猝死的「非」主要預測因子。HCM 風險因子包含猝死家族史、極厚左心室壁、非持續性心室頻脈，以及運動時血壓異常不升或下降；年輕病人運動時血壓能正常上升，反而不是危險訊號。\n\n【選項詳解】\n- A. 猝死家族史代表可能有高風險基因與惡性心律不整傾向，是 HCM 猝死評估的重要項目。\n- B. 左心室壁厚超過 30 mm 屬 massive hypertrophy，與猝死風險上升相關。\n- C. 這是本題答案。運動到高強度時血壓上升是相對正常反應；HCM 要擔心的是運動時血壓反應不佳、無法上升或下降。\n- D. 24 小時心電圖出現 spontaneous nonsustained VT，表示有心室性心律不整傾向，是 HCM 猝死風險因子。\n\n【核心考點】\nHCM 猝死風險要記「家族猝死、壁厚很厚、NSVT、暈厥、運動血壓異常、心尖瘤或廣泛纖維化」；正常運動血壓上升不算主要危險因子。",
+      "key_point": "HCM 猝死風險包含家族史、壁厚 >=30 mm、NSVT 與運動血壓反應異常；運動時血壓正常上升不是主要風險因子。",
+      "flashcard_front": "HCM 猝死風險：運動血壓正常上升算危險因子嗎？",
+      "flashcard_back": "不算。要擔心的是運動時血壓無法上升或下降；另有家族猝死、壁厚 >=30 mm、NSVT 等。",
+      "flashcard_summary": "HCM 猝死風險：運動血壓正常上升算危險因子嗎？ -> 不算。要擔心的是運動時血壓無法上升或下降；另有家族猝死、壁厚 >=30 mm、NSVT 等。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_011",
+      "question_number": 11,
+      "explanation": "【題幹解析】\n本題問肺栓塞藥物治療的正確敘述。直接口服抗凝血劑如 rivaroxaban、apixaban、dabigatran 在合適病人治療靜脈血栓栓塞不劣於 warfarin，且整體出血風險較低，因此 D 正確。\n\n【選項詳解】\n- A. 肺栓塞可有胸痛、呼吸困難、心搏過速與 P2 增強；肺動脈壓升高時 P2 不是變小聲，因此這個敘述不正確。\n- B. 抗凝血療程取決於誘發因子、復發風險與出血風險，常見不是一律至少 3 年；許多初次且可逆誘因者約治療 3 個月。\n- C. massive PE 合併血流動力學不穩可考慮全身或導管導向溶栓，但導管局部治療常用較低劑量；說 tPA 建議與周邊給藥同樣 100 mg 不恰當。\n- D. 正確。多項研究支持 DOACs 治療 PE 的效果不劣於 warfarin，且可減少部分出血事件，已成為許多病人的常用選擇。\n\n【核心考點】\n肺栓塞治療以抗凝血為核心；DOACs 對多數合適 VTE 病人可取代 warfarin。溶栓保留給 massive PE 或高危險情境，療程長短依誘因與復發風險調整。",
+      "key_point": "DOACs 治療肺栓塞不劣於 warfarin，且常有較低出血風險；抗凝療程不是一律 3 年。",
+      "flashcard_front": "肺栓塞治療：DOAC 與 warfarin、溶栓、療程怎麼判斷？",
+      "flashcard_back": "合適病人可用 DOACs，效果不劣於 warfarin 且出血較少；massive PE 才考慮溶栓，療程依誘因與復發風險決定。",
+      "flashcard_summary": "肺栓塞治療：DOAC 與 warfarin、溶栓、療程怎麼判斷？ -> 合適病人可用 DOACs，效果不劣於 warfarin 且出血較少；massive PE 才考慮溶栓，療程依誘因與復發風險決定。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

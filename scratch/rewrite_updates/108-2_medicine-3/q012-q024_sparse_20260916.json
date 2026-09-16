@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-3.json",
+  "dataset_id": "108-2_medicine-3",
+  "range": {
+    "start": 12,
+    "end": 24
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-3_012",
+      "question_number": 12,
+      "explanation": "【題幹解析】\n題目問 HDV 敘述何者錯誤。HDV 需要 HBV 提供 HBsAg 才能包裝與傳播，可與 HBV 同時急性感染，也可在慢性 HBV 帶原者發生 superinfection；干擾素可用但療效有限，D 把根治率寫成極高且不易復發是錯的。\n\n【選項詳解】\n- A. 正確。HDV 不能獨立完成感染週期，臨床可見 HBV/HDV coinfection，也可在 HBV 帶原者身上 superinfection。\n- B. 正確。HDV superinfection 常使原本慢性 B 肝快速惡化，可能造成嚴重肝炎、肝衰竭或加速肝硬化。\n- C. 正確。急性 HBV/HDV coinfection 後慢性化機率相對低；慢性化風險較高的是 HDV superinfection 於既有 HBV 帶原者。\n- D. 錯誤。pegylated interferon 是傳統可用治療之一，但持久病毒反應有限、復發不少，不能說根治率超過 80% 且不容易復發。\n\n【核心考點】\nHDV 的高考點是依附 HBV、superinfection 較嚴重且較易慢性化；治療困難，干擾素效果有限，不能把它記成高根治率疾病。",
+      "key_point": "HDV 需 HBV 才能感染；superinfection 較嚴重且易慢性化，pegylated interferon 療效有限且可復發。",
+      "flashcard_front": "HDV：coinfection、superinfection 與治療陷阱？",
+      "flashcard_back": "HDV 依賴 HBV；coinfection 慢性化較低，superinfection 較嚴重且易慢性化；interferon 療效有限，不是高根治率。",
+      "flashcard_summary": "HDV：coinfection、superinfection 與治療陷阱？ -> HDV 依賴 HBV；coinfection 慢性化較低，superinfection 較嚴重且易慢性化；interferon 療效有限，不是高根治率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_013",
+      "question_number": 13,
+      "explanation": "【題幹解析】\nAIH 診斷評分會整合排除其他肝病、自體抗體、IgG、肝切片與治療反應等資訊。其遺傳背景常與 HLA-DR3、DR4 等相關，D 寫成 HLA-A2 與 DR6 是錯誤配對。\n\n【選項詳解】\n- A. 正確。AIH 是排除性與整合性診斷，需先排除病毒性肝炎、藥物性肝炎、酒精性肝病與其他常見原因。\n- B. 正確。對 corticosteroid 或免疫抑制治療反應良好，可支持 AIH 診斷，也被納入傳統評分思路。\n- C. 正確。ANA、SMA、anti-LKM1 等自體抗體是 AIH 重要免疫學線索，其中 ANA 是常見指標之一。\n- D. 錯誤。AIH 較典型 HLA 關聯是 DR3、DR4 等；HLA-A2 與 DR6 不是本題所問的標準關聯。\n\n【核心考點】\nAIH 診斷不是單靠一個抗體，而是排除其他肝病後，結合自體抗體、IgG、切片與免疫抑制反應；HLA 典型記 DR3/DR4。",
+      "key_point": "AIH 評分重視排除其他肝病、自體抗體與治療反應；HLA 關聯以 DR3/DR4 較典型。",
+      "flashcard_front": "AIH 診斷評分與 HLA 關聯？",
+      "flashcard_back": "需排除病毒等常見肝病，結合 ANA/SMA、IgG、切片與免疫抑制反應；HLA 常記 DR3、DR4。",
+      "flashcard_summary": "AIH 診斷評分與 HLA 關聯？ -> 需排除病毒等常見肝病，結合 ANA/SMA、IgG、切片與免疫抑制反應；HLA 常記 DR3、DR4。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_014",
+      "question_number": 14,
+      "explanation": "【題幹解析】\nE 型肝炎主要經糞口途徑傳播，潛伏期通常約 2-9 週，平均約 40 天左右。A 把潛伏期寫成約 24 週過長，因此是錯誤敘述。\n\n【選項詳解】\n- A. 錯誤。HEV 確實主要經糞口傳染，但潛伏期不是約 24 週；常見約數週，約 2-9 週較合理。\n- B. 正確。多數急性 HEV 會自行恢復，但少數可猛爆性肝衰竭，孕婦感染特別需要警覺嚴重病程。\n- C. 正確。急性 HEV 常以 IgM anti-HEV 作為血清診斷線索，也可依情境搭配 HEV RNA。\n- D. 正確。免疫功能正常者多完全痊癒；器官移植、血液腫瘤或免疫抑制病人則可能轉為慢性 HEV。\n\n【核心考點】\nHEV 考點是糞口傳染、急性感染多自限、孕婦可嚴重、免疫低下可慢性化；潛伏期是數週而非半年。",
+      "key_point": "E 型肝炎經糞口傳播，潛伏期約 2-9 週；免疫低下者可慢性化，孕婦有猛爆性風險。",
+      "flashcard_front": "E 型肝炎：傳染途徑、潛伏期與慢性化？",
+      "flashcard_back": "糞口傳播，潛伏期約 2-9 週；多數急性自限，孕婦可能嚴重，免疫低下者可能慢性化。",
+      "flashcard_summary": "E 型肝炎：傳染途徑、潛伏期與慢性化？ -> 糞口傳播，潛伏期約 2-9 週；多數急性自限，孕婦可能嚴重，免疫低下者可能慢性化。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_015",
+      "question_number": 15,
+      "explanation": "【題幹解析】\n題目問肝臟疾病遺傳與基因檢測的錯誤敘述。Wilson disease 的致病基因是 ATP7B 沒錯，但 ATP7B 突變種類很多，不是只有一種突變會發生，因此 D 錯。\n\n【選項詳解】\n- A. 正確。酒精代謝先由 alcohol dehydrogenase 產生 acetaldehyde，再由 ALDH 轉成 acetate；ALDH2 變異會讓乙醛堆積，造成臉紅等反應。\n- B. 正確。自體免疫性肝炎與特定 HLA 背景有關，常見提到 HLA-B8、DR3、DR4 等遺傳易感性。\n- C. 正確。HFE 相關 hereditary hemochromatosis 常見 C282Y 與 H63D 變異，是經典基因檢測重點。\n- D. 錯誤。Wilson disease 與 ATP7B 有關，但 ATP7B 已知突變型態非常多，不能說只有一種突變會發生。\n\n【核心考點】\n遺傳題要分清「基因名稱」與「突變多樣性」：Wilson disease 是 ATP7B，但突變種類繁多；hemochromatosis 常考 HFE C282Y/H63D。",
+      "key_point": "Wilson disease 的基因是 ATP7B，但突變種類很多，不是單一突變；HFE C282Y/H63D 是遺傳性血色沉著症重點。",
+      "flashcard_front": "肝臟遺傳病：Wilson 與 hemochromatosis 的基因？",
+      "flashcard_back": "Wilson disease 為 ATP7B 且突變多樣；遺傳性血色沉著症常見 HFE C282Y、H63D。",
+      "flashcard_summary": "肝臟遺傳病：Wilson 與 hemochromatosis 的基因？ -> Wilson disease 為 ATP7B 且突變多樣；遺傳性血色沉著症常見 HFE C282Y、H63D。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_017",
+      "question_number": 17,
+      "explanation": "【題幹解析】\n題目問與門脈高壓相關性較低的情況。食道靜脈曲張、脾腫大與腹水都直接來自門脈壓升高；肝性腦病變雖可被門體分流促發，但主要和肝功能衰竭、氨與其他神經毒素清除下降有關，所以相關性較低。\n\n【選項詳解】\n- A. 肝性腦病變是本題答案。它常發生在肝硬化病人，但核心是肝臟解毒能力下降與門體分流使氨等物質進入體循環，不像靜脈曲張那樣是門脈壓的直接結構結果。\n- B. 食道靜脈曲張是門脈高壓最典型併發症之一，來自門體側枝循環擴張，與門脈壓高度相關。\n- C. 脾腫大與脾亢進可由門脈系統鬱血造成，導致血小板或白血球偏低，是門脈高壓常見表現。\n- D. 腹水形成與門脈高壓、內臟血管擴張、腎鈉水滯留與低白蛋白有關，其中門脈高壓是重要驅動因素。\n\n【核心考點】\n肝硬化併發症中，靜脈曲張、脾腫大與腹水和門脈高壓最直接；肝性腦病變還需要肝解毒失衡與門體分流共同解釋。",
+      "key_point": "食道靜脈曲張、脾腫大與腹水直接由門脈高壓驅動；肝性腦病變較偏肝解毒失衡與門體分流。",
+      "flashcard_front": "肝硬化併發症：哪些最直接來自門脈高壓？",
+      "flashcard_back": "食道靜脈曲張、脾腫大/脾亢進與腹水最直接；肝性腦病變主要和氨等毒素清除下降及門體分流有關。",
+      "flashcard_summary": "肝硬化併發症：哪些最直接來自門脈高壓？ -> 食道靜脈曲張、脾腫大/脾亢進與腹水最直接；肝性腦病變主要和氨等毒素清除下降及門體分流有關。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_018",
+      "question_number": 18,
+      "explanation": "【題幹解析】\n本題問大腸直腸癌敘述何者正確。術後復發多集中在前幾年，特別是前 4-5 年，因此 5 年存活率常被用來評估治療結果與預後。其餘選項把分期或轉移器官寫錯。\n\n【選項詳解】\n- A. 正確。大腸直腸癌復發多發生在治療後前數年，故 5 年存活率具有重要臨床參考價值。\n- B. 錯誤。T3N0M0 沒有淋巴結或遠端轉移，屬於第二期，不是第三期。\n- C. 錯誤。T1N1M0 只要有區域淋巴結轉移 N1，就屬第三期，不是第二期。\n- D. 錯誤。大腸直腸癌最常見內臟轉移部位是肝臟，因腸道靜脈回流經門脈系統進入肝臟；肺也可轉移但不是最容易。\n\n【核心考點】\n大腸直腸癌分期抓兩點：N 陽性就是第三期，M 陽性才是第四期；血行轉移最常先到肝臟。",
+      "key_point": "大腸直腸癌復發多在前 4-5 年；N 陽性為第三期，最常見內臟轉移是肝臟。",
+      "flashcard_front": "大腸直腸癌：復發時間、TNM 分期與常見轉移器官？",
+      "flashcard_back": "復發多在前幾年，5 年存活率有參考性；T3N0M0 為第二期，T1N1M0 為第三期，最常轉移肝臟。",
+      "flashcard_summary": "大腸直腸癌：復發時間、TNM 分期與常見轉移器官？ -> 復發多在前幾年，5 年存活率有參考性；T3N0M0 為第二期，T1N1M0 為第三期，最常轉移肝臟。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_019",
+      "question_number": 19,
+      "explanation": "【題幹解析】\nIBS 是腸腦互動障礙，和腸道敏感度、蠕動、腸道菌相與心理社會因素都有關。部分 IBS-D 病人可從非吸收性抗生素 rifaximin 獲益，因此 C 正確。\n\n【選項詳解】\n- A. 錯誤。嚴重 IBS 常與壓力、焦慮、憂鬱、疼痛放大等腸腦軸因素有關，不能說精神方面關聯較小。\n- B. 錯誤。IBS 整體盛行率常見女性高於男性，不是男性為女性 2-3 倍。\n- C. 正確。Rifaximin 可用於部分 IBS，尤其腹瀉型 IBS，可能和調整腸道菌相或小腸細菌過度生長有關。\n- D. 錯誤。低劑量三環抗憂鬱劑或 SSRI/SNRI 在特定 IBS 病人可改善腹痛、腸道敏感度與共病情緒症狀。\n\n【核心考點】\nIBS 不是單純結構病灶，而是腸腦互動障礙；治療可包含飲食、腸道藥物、rifaximin、抗憂鬱藥與心理介入。",
+      "key_point": "IBS 女性較常見，腸腦軸與心理因素重要；rifaximin 與抗憂鬱藥可幫助特定病人。",
+      "flashcard_front": "IBS：性別、腸腦軸與 rifaximin/抗憂鬱藥角色？",
+      "flashcard_back": "女性較多，心理與腸腦軸因素重要；rifaximin 可用於部分 IBS-D，抗憂鬱藥可改善疼痛敏感與共病情緒。",
+      "flashcard_summary": "IBS：性別、腸腦軸與 rifaximin/抗憂鬱藥角色？ -> 女性較多，心理與腸腦軸因素重要；rifaximin 可用於部分 IBS-D，抗憂鬱藥可改善疼痛敏感與共病情緒。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_020",
+      "question_number": 20,
+      "explanation": "【題幹解析】\n本題問消化道內視鏡處置何者正確。早期表淺消化道癌若侷限於黏膜或淺層、淋巴轉移風險低，越來越多可用內視鏡黏膜切除或黏膜下剝離等方式處理，因此 D 正確。\n\n【選項詳解】\n- A. 錯誤。大量鮮血便多來自下消化道，但也可能是快速大量上消化道出血造成，不能直接等同一定要緊急大腸鏡。\n- B. 錯誤。低劑量 aspirin 在許多低風險或必要情境可持續使用，不能一律要求內視鏡前停藥一週；需依出血風險與心血管風險決定。\n- C. 錯誤。ERCP 主要用於膽道阻塞、膽管結石、膽管炎或需治療性介入的情境；不是所有黃疸都適合 ERCP。\n- D. 正確。早期表淺癌若符合內視鏡切除條件，可用 EMR、ESD 或其他 endoluminal resection 方式達到根治或器官保留。\n\n【核心考點】\n內視鏡處置要看適應症與風險分層：鮮血便不一定都是下消化道、aspirin 不一定停、ERCP 不是黃疸篩檢工具；早期表淺癌可考慮內視鏡切除。",
+      "key_point": "早期表淺消化道癌可考慮內視鏡切除；鮮血便、aspirin 停藥與 ERCP 適應症都不能一概而論。",
+      "flashcard_front": "消化道內視鏡：早期癌、鮮血便、aspirin、ERCP 的常見陷阱？",
+      "flashcard_back": "早期表淺癌可內視鏡切除；大量鮮血便也可能是上消化道出血，aspirin 不一定停，ERCP 需有膽道介入適應症。",
+      "flashcard_summary": "消化道內視鏡：早期癌、鮮血便、aspirin、ERCP 的常見陷阱？ -> 早期表淺癌可內視鏡切除；大量鮮血便也可能是上消化道出血，aspirin 不一定停，ERCP 需有膽道介入適應症。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_023",
+      "question_number": 23,
+      "explanation": "【題幹解析】\n年輕女性急速腎功能惡化、C3 低 C4 正常、ANCA 陰性，切片為新月型腎炎且電顯有上皮下 electron-dense deposits，最典型是感染後腎絲球腎炎，尤其鏈球菌感染後的 subepithelial humps。\n\n【選項詳解】\n- A. membranous nephropathy 典型是腎病症候群與瀰漫性上皮下免疫沉積造成 spike and dome，補體型態與急速新月型表現不如 PSGN 符合。\n- B. MPGN type II 又稱 dense deposit disease，電顯重點是 GBM 內緻密沉積，常有持續低 C3；不是上皮下 hump。\n- C. lupus nephritis 常有 C3 與 C4 都下降，免疫螢光呈 full-house，臨床也常伴 SLE 線索；本題 C4 正常較不支持。\n- D. poststreptococcal GN 符合低 C3、C4 正常、感染後免疫複合物、上皮下 hump，嚴重時可呈 crescentic GN。\n\n【核心考點】\nPSGN 的病理關鍵是 subepithelial humps，補體常見 C3 下降而 C4 相對正常；lupus nephritis 則常 C3/C4 都低且 full-house。",
+      "key_point": "PSGN 可見 C3 低、C4 正常與上皮下 hump 狀沉積；嚴重時可呈新月型腎炎。",
+      "flashcard_front": "低 C3、C4 正常、subepithelial hump 要想到？",
+      "flashcard_back": "鏈球菌感染後腎絲球腎炎；電顯上皮下 hump，補體替代路徑活化使 C3 降低。",
+      "flashcard_summary": "低 C3、C4 正常、subepithelial hump 要想到？ -> 鏈球菌感染後腎絲球腎炎；電顯上皮下 hump，補體替代路徑活化使 C3 降低。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_024",
+      "question_number": 24,
+      "explanation": "【題幹解析】\n這位糖尿病患者 eGFR 約 59、有 1.5 g/day 蛋白尿且血壓仍高於糖尿病腎病變常用目標，最需要加上 ACE inhibitor 或 ARB 以降低腎絲球內壓與蛋白尿；選項中 ARB 最合適。\n\n【選項詳解】\n- A. HbA1c 6.8% 已接近控制目標，題目主要問題是蛋白尿與血壓，不是需要立刻加長效胰島素。\n- B. EPO 可治療符合條件的 CKD 貧血，但不會用來「減緩腎功能惡化」，且 Hb 10.7 g/dL 未必需要立即使用。\n- C. 正確。糖尿病腎病變合併明顯蛋白尿時，ACEi/ARB 可降蛋白尿並保護腎臟，也有助於血壓達標。\n- D. 低蛋白飲食可在 CKD 中個別考慮，但加胺基酸補充不是本題優先治療；不能取代 RAAS blockade 對蛋白尿的處理。\n\n【核心考點】\n糖尿病腎病變看到蛋白尿與血壓未達標，優先想到 ACEi/ARB；EPO 治貧血不保腎，降糖已可接受時不必先加胰島素。",
+      "key_point": "糖尿病腎病變合併蛋白尿與高血壓時，ACEi 或 ARB 是降蛋白尿與腎保護的核心治療。",
+      "flashcard_front": "糖尿病腎病變有蛋白尿：下一步藥物？",
+      "flashcard_back": "加 ACEi 或 ARB 以降蛋白尿、降腎絲球內壓與保護腎臟；同時控制血壓。",
+      "flashcard_summary": "糖尿病腎病變有蛋白尿：下一步藥物？ -> 加 ACEi 或 ARB 以降蛋白尿、降腎絲球內壓與保護腎臟；同時控制血壓。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

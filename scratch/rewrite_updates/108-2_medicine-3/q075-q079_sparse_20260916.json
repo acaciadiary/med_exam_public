@@ -1,0 +1,64 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-3.json",
+  "dataset_id": "108-2_medicine-3",
+  "range": {
+    "start": 75,
+    "end": 79
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-3_075",
+      "question_number": 75,
+      "explanation": "【題幹解析】\n題目問肝臟超音波箭頭病灶最不可能是什麼。單純性肝囊腫典型為邊界清楚、完全無回音的黑色液體病灶，並有後方回音增強；若影像呈實體或混合回音病灶，就最不支持單純性囊腫。\n\n【選項詳解】\n- A. 肝膿瘍可呈複雜囊實性或混合回音病灶，邊界與內部回音可能不均，因此仍可能在影像鑑別中。\n- B. 原發性肝細胞癌常為實體肝臟腫瘤，超音波可呈低回音、高回音或混合回音，依大小與壞死而異。\n- C. 單純性囊腫是本題例外。它應該是無內部回音的液體病灶；若箭頭處不是典型無回音囊性外觀，就最不可能。\n- D. 轉移癌可在肝臟形成多樣實體性或 target-like 病灶，超音波表現變化大，也可列入鑑別。\n\n【核心考點】\n超音波看到肝臟病灶，要先分液體囊性或實體性；單純囊腫應為 anechoic 加後方增強，實體回音病灶就不典型。",
+      "key_point": "單純性肝囊腫在超音波應為無回音液體病灶並有後方增強；實體或混合回音病灶不支持單純囊腫。",
+      "flashcard_front": "肝臟超音波：單純性囊腫的典型特徵？",
+      "flashcard_back": "邊界清楚、內部無回音、後方回音增強；若為實體或混合回音病灶，較不像單純囊腫。",
+      "flashcard_summary": "肝臟超音波：單純性囊腫的典型特徵？ -> 邊界清楚、內部無回音、後方回音增強；若為實體或混合回音病灶，較不像單純囊腫。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_076",
+      "question_number": 76,
+      "explanation": "【題幹解析】\n題目問中毒或藥物過量中，最不可能造成心搏過緩合併低血壓者。有機磷與 carbamate 會造成膽鹼性毒性，clonidine 會造成中樞交感抑制，三者都可有 bradycardia/hypotension；抗組織胺過量典型是抗膽鹼症候群，較常心跳過速。\n\n【選項詳解】\n- A. Organophosphates 抑制 acetylcholinesterase，造成 muscarinic 症狀如流涎、支氣管分泌增加、腹瀉、縮瞳，也可心搏過緩與低血壓。\n- B. Carbamates 同樣抑制 cholinesterase，臨床膽鹼性表現和有機磷相似，因此可造成心搏過緩與低血壓。\n- C. Clonidine 是 alpha-2 agonist，中毒會降低交感輸出，典型表現可有嗜睡、低血壓、心搏過緩與縮瞳。\n- D. Antihistamines 是本題例外。第一代抗組織胺過量常呈抗膽鹼毒性，包含心跳過速、瞳孔放大、皮膚乾熱、譫妄與癲癇風險。\n\n【核心考點】\n中毒題用自律神經方向判斷：膽鹼性或 alpha-2 中樞抑制可慢脈低壓；抗膽鹼毒性多是快脈、乾、熱、譫妄。",
+      "key_point": "有機磷、carbamate 與 clonidine 可造成心搏過緩低血壓；抗組織胺過量多呈抗膽鹼性心跳過速。",
+      "flashcard_front": "中毒造成 bradycardia + hypotension：哪些藥常見？哪個例外？",
+      "flashcard_back": "有機磷、carbamate、clonidine 可慢脈低壓；抗組織胺過量多抗膽鹼，較常心跳過速。",
+      "flashcard_summary": "中毒造成 bradycardia + hypotension：哪些藥常見？哪個例外？ -> 有機磷、carbamate、clonidine 可慢脈低壓；抗組織胺過量多抗膽鹼，較常心跳過速。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_077",
+      "question_number": 77,
+      "explanation": "【題幹解析】\n本題有官方更正，接受 C、D 為可給分答案。Lake Louise 急性高山病評估傳統症狀包含頭痛、腸胃症狀如噁心嘔吐、疲倦/虛弱、頭暈，以及早期版本曾包含睡眠障礙；後續版本移除睡眠項目，因此官方接受「腹瀉」與「失眠」兩個答案。\n\n【選項詳解】\n- A. 頭痛是急性高山病評估的核心症狀，沒有頭痛時通常不符合典型 AMS 判定，所以不屬於排除項。\n- B. 噁心、嘔吐屬 Lake Louise 評估中的腸胃症狀，屬於常見 AMS 表現。\n- C. 腹瀉是官方接受答案之一。AMS 的腸胃項目重點是食慾差、噁心或嘔吐，腹瀉不是典型評分項目。\n- D. 失眠也是官方接受答案之一。舊版 Lake Louise 曾包含睡眠障礙，但新版評估移除此項，造成考題答案更正為多重給分。\n\n【核心考點】\nLake Louise AMS 評估要看版本：頭痛與噁心嘔吐是典型項目；腹瀉不是典型項目，睡眠障礙在新版已移除。本題依官方更正接受 C、D。",
+      "key_point": "Lake Louise AMS 官方更正接受 C、D；腹瀉不是典型評分項，睡眠障礙在新版已移除。",
+      "flashcard_front": "Lake Louise AMS：本題官方更正接受哪些答案？",
+      "flashcard_back": "接受 C 腹瀉與 D 失眠；頭痛、噁心嘔吐屬典型 AMS 症狀，睡眠障礙因版本差異已由新版移除。",
+      "flashcard_summary": "Lake Louise AMS：本題官方更正接受哪些答案？ -> 接受 C 腹瀉與 D 失眠；頭痛、噁心嘔吐屬典型 AMS 症狀，睡眠障礙因版本差異已由新版移除。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": [
+        "本題為官方更正多重答案，correct_answers 已接受 C、D；解釋需保留版本差異。"
+      ]
+    },
+    {
+      "question_id": "108-2_medicine-3_079",
+      "question_number": 79,
+      "explanation": "【題幹解析】\n醫師不得在未親自診察病人的情況下，由護理人員直接蓋章讓病人拿藥。即使是慢性病續方，也需要符合親自診療、病歷與處方責任等法律與專業要求；方便病人不能取代醫師責任。\n\n【選項詳解】\n- A. 正確。王醫師未親自診療卻授權護士代蓋章開藥，違反親自診療與處方責任。\n- B. 錯誤。行政方便不能免除醫師法定義務；未評估病情變化與用藥安全會增加風險。\n- C. 錯誤。釋出處方箋仍須由醫師依診療結果開立，不能用形式上的處方替代實際診察。\n- D. 錯誤。電話問診是否可行需受法規與醫療情境限制；本題描述的是護士直接蓋章拿藥，並非合規遠距醫療流程。\n\n【核心考點】\n處方代表醫師對診療判斷與用藥安全負責；未親自診療或未合規完成遠距診療時，不能讓他人代蓋章發藥。",
+      "key_point": "醫師開立處方須基於親自診療或合規診療流程，不能授權護士代蓋章讓病人直接拿藥。",
+      "flashcard_front": "醫師可否讓護士代蓋章續開處方？",
+      "flashcard_back": "不可以。處方須基於醫師親自診療或合規流程，醫師不能把診療與處方責任交由護士代蓋章。",
+      "flashcard_summary": "醫師可否讓護士代蓋章續開處方？ -> 不可以。處方須基於醫師親自診療或合規流程，醫師不能把診療與處方責任交由護士代蓋章。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

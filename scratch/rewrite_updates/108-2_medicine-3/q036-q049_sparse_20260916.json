@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-3.json",
+  "dataset_id": "108-2_medicine-3",
+  "range": {
+    "start": 36,
+    "end": 49
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-3_036",
+      "question_number": 36,
+      "explanation": "【題幹解析】\n題目問去勢抗性攝護腺癌的藥物治療不包括何者。CRPC 治療包括 androgen receptor signaling inhibitor、abiraterone、docetaxel 等；flutamide 是第一代抗雄性素，對 CRPC 不是標準有效治療，甚至常有 antiandrogen withdrawal 的概念。\n\n【選項詳解】\n- A. Flutamide 是本題答案。它屬第一代非類固醇抗雄性素，主要用於較早期 androgen blockade，不是 CRPC 的代表治療。\n- B. Enzalutamide 是 androgen receptor inhibitor，可用於 metastatic 或 nonmetastatic CRPC，屬重要治療。\n- C. Abiraterone acetate 抑制 CYP17，降低 androgen synthesis，常與 prednisone 合併使用，是 CRPC 標準藥物之一。\n- D. Docetaxel 化學治療可改善 metastatic CRPC 存活，是 CRPC 經典全身治療選項。\n\n【核心考點】\nCRPC 治療要記 docetaxel、abiraterone、enzalutamide 等；第一代 flutamide 不是此階段的代表藥。",
+      "key_point": "CRPC 標準治療包含 enzalutamide、abiraterone 與 docetaxel；flutamide 不是代表性治療。",
+      "flashcard_front": "CRPC 藥物：哪個不是標準代表？",
+      "flashcard_back": "Flutamide 不是 CRPC 代表治療；enzalutamide、abiraterone、docetaxel 都是重要選項。",
+      "flashcard_summary": "CRPC 藥物：哪個不是標準代表？ -> Flutamide 不是 CRPC 代表治療；enzalutamide、abiraterone、docetaxel 都是重要選項。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_037",
+      "question_number": 37,
+      "explanation": "【題幹解析】\n染色體 t(2;8)(p12;q24) 牽涉 MYC 與 immunoglobulin light chain，是 Burkitt lymphoma/leukemia 的典型線索。此病生長極快且有腫瘤溶解風險，需要高強度治療與中樞神經預防；現代治療下長期存活率可遠高於 30%，所以 D 錯。\n\n【選項詳解】\n- A. 正確。Burkitt lymphoma 的核心機轉是 c-MYC deregulation，常見 t(8;14)，也可見 t(2;8) 或 t(8;22)。\n- B. 正確。Burkitt lymphoma 增殖非常快，LDH 與尿酸升高也提示腫瘤負荷與 tumor lysis risk，需儘快治療。\n- C. 正確。Burkitt lymphoma 有中樞神經侵犯風險，治療計畫通常需 CSF 評估與 intrathecal chemotherapy 預防或治療。\n- D. 錯誤。雖然病程兇猛，但對高強度化療相當敏感；在合適治療下長期存活率不應概括為小於三成。\n\n【核心考點】\nBurkitt lymphoma 看到 MYC translocation、LDH/尿酸高與快速病程；治療積極且需 CNS prophylaxis，但並非現代治療下預後必然極差。",
+      "key_point": "Burkitt lymphoma 與 MYC deregulation 相關，進展快、需高強度化療與 CNS prophylaxis，但治療反應可佳。",
+      "flashcard_front": "t(2;8) + MYC：想到哪個淋巴瘤？治療重點？",
+      "flashcard_back": "Burkitt lymphoma/leukemia；進展快、腫瘤溶解風險高，需高強度化療與 CSF 評估、鞘內化療。",
+      "flashcard_summary": "t(2;8) + MYC：想到哪個淋巴瘤？治療重點？ -> Burkitt lymphoma/leukemia；進展快、腫瘤溶解風險高，需高強度化療與 CSF 評估、鞘內化療。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_038",
+      "question_number": 38,
+      "explanation": "【題幹解析】\n維生素 B12 來自動物性食物，人體需求量少且肝臟儲存量大，所以完全無法吸收後也常需數年才耗盡。蔬果類不是 B12 的可靠來源，因此 D 錯。\n\n【選項詳解】\n- A. 正確。人體每日 B12 需求量約微克等級，遠低於許多水溶性維生素。\n- B. 正確。B12 肝臟儲存量可維持數年，所以吸收停止後常延遲 3-4 年才出現明顯缺乏。\n- C. 正確。哺乳婦女若 B12 缺乏，嬰兒可能因攝取不足而出現貧血、神經發育遲滯或生長問題。\n- D. 錯誤。蔬果不含足量可用 B12；素食者需靠強化食品或補充劑避免缺乏。\n\n【核心考點】\nB12 的三個考點是動物性來源、肝臟儲存可撐數年、缺乏會造成巨球性貧血與神經症狀；蔬果不是可靠來源。",
+      "key_point": "維生素 B12 主要來自動物性食物，體內儲存可維持數年；蔬果不是可靠來源。",
+      "flashcard_front": "維生素 B12：來源、需求量與儲存時間？",
+      "flashcard_back": "需求量微克級，肝臟儲存可撐數年；來源以動物性食物或強化食品為主，蔬果不可靠。",
+      "flashcard_summary": "維生素 B12：來源、需求量與儲存時間？ -> 需求量微克級，肝臟儲存可撐數年；來源以動物性食物或強化食品為主，蔬果不可靠。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_040",
+      "question_number": 40,
+      "explanation": "【題幹解析】\n異體造血幹細胞移植能重建造血與免疫系統，也可為部分先天代謝疾病提供正常酵素來源；因此可用於嚴重再生不良性貧血、重度海洋性貧血與部分黏多醣症。肝細胞癌是實體肝臟腫瘤，不靠異體造血幹細胞移植達到長期緩解。\n\n【選項詳解】\n- A. 黏多醣症部分類型可透過造血幹細胞移植提供正常單核吞噬細胞來源與酵素，屬可考慮的適應症。\n- B. 嚴重再生不良性貧血是骨髓造血衰竭，年輕且有合適捐贈者時異體 HSCT 可達長期緩解或治癒。\n- C. 重度海洋性貧血可用異體 HSCT 取代缺陷造血系統，是少數可根治方式之一。\n- D. 肝細胞癌不是造血系統或可由造血細胞酵素補充改善的疾病，不能用異體 HSCT 作為長期緩解標準療法。\n\n【核心考點】\n異體 HSCT 適合造血系統疾病、免疫缺陷或部分代謝疾病；一般實體癌如 HCC 不屬此類標準適應症。",
+      "key_point": "異體 HSCT 可治療造血衰竭、血紅素病與部分代謝病；肝細胞癌不靠 HSCT 達長期緩解。",
+      "flashcard_front": "異體造血幹細胞移植可用於哪些疾病？",
+      "flashcard_back": "可用於嚴重再生不良性貧血、重度海洋性貧血、部分黏多醣症；不適用於 HCC 這類實體肝癌。",
+      "flashcard_summary": "異體造血幹細胞移植可用於哪些疾病？ -> 可用於嚴重再生不良性貧血、重度海洋性貧血、部分黏多醣症；不適用於 HCC 這類實體肝癌。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_042",
+      "question_number": 42,
+      "explanation": "【題幹解析】\n這位無抽菸女性有惡性胸水與兩側肺內轉移，屬晚期肺腺癌，PS 1 且器官功能可接受。最適當第一步是用腫瘤檢體做 EGFR mutation 與 ALK rearrangement 等驅動基因檢測，以決定全身性標靶或其他治療。\n\n【選項詳解】\n- A. 右下肺葉切除與縱膈淋巴廓清適合局部可切除疾病；本題已經有惡性胸水與雙肺轉移，不是手術根治情境。\n- B. Pleurodesis 可緩解反覆惡性胸水症狀，但不能處理全身性肺腺癌，也不是治療決策的最重要下一步。\n- C. 立體定位放射手術可用於小型局部病灶或寡轉移特定情境；本題是廣泛轉移，不應只照射原發腫瘤。\n- D. 正確。晚期非鱗狀非小細胞肺癌，尤其無抽菸女性，需檢測 EGFR、ALK 等驅動基因以選擇標靶治療。\n\n【核心考點】\n晚期肺腺癌處置先做分子檢測再選全身治療；惡性胸水與雙肺轉移已非局部手術或單點放射治療問題。",
+      "key_point": "第四期肺腺癌應以腫瘤檢體進行 EGFR、ALK 等分子檢測，決定全身治療策略。",
+      "flashcard_front": "晚期肺腺癌、無抽菸女性：下一步最重要？",
+      "flashcard_back": "做 EGFR mutation、ALK rearrangement 等分子檢測，以決定標靶或全身治療；不是先手術切除。",
+      "flashcard_summary": "晚期肺腺癌、無抽菸女性：下一步最重要？ -> 做 EGFR mutation、ALK rearrangement 等分子檢測，以決定標靶或全身治療；不是先手術切除。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_043",
+      "question_number": 43,
+      "explanation": "【題幹解析】\n本題問氣胸何者正確。原發性自發性氣胸首次發作後復發率相當高，常用約三到五成描述，題目以約 50% 為正確選項；其他選項忽略了張力性氣胸臨床診斷、穿刺後氣胸成因與 COPD 次發性氣胸風險。\n\n【選項詳解】\n- A. 正確。Primary spontaneous pneumothorax 即使第一次改善後仍有高復發率，臨床需衛教戒菸與追蹤。\n- B. 錯誤。使用呼吸器者若突然低血壓、缺氧、氣道壓上升、單側呼吸音下降，張力性氣胸可由臨床立即診斷並先減壓。\n- C. 錯誤。胸腔穿刺後氣胸不一定是針刺破臟層胸膜，也可能與空氣進入系統、肺無法再擴張或 ex vacuo pneumothorax 有關。\n- D. 錯誤。COPD 病人是次發性氣胸，高風險且肺功能儲備差，常需要胸管或更積極處理，不能只用氧氣觀察一概處理。\n\n【核心考點】\n氣胸處置要分 primary 與 secondary；COPD 氣胸風險高，張力性氣胸是臨床急症，不可等待影像才處理。",
+      "key_point": "原發性自發性氣胸復發率高；COPD 次發性氣胸與張力性氣胸需更積極處理。",
+      "flashcard_front": "氣胸：原發性復發率、張力性診斷、COPD 處置？",
+      "flashcard_back": "原發性自發性氣胸復發率高；張力性氣胸可臨床診斷並立即減壓；COPD 次發性氣胸常需胸管。",
+      "flashcard_summary": "氣胸：原發性復發率、張力性診斷、COPD 處置？ -> 原發性自發性氣胸復發率高；張力性氣胸可臨床診斷並立即減壓；COPD 次發性氣胸常需胸管。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_046",
+      "question_number": 46,
+      "explanation": "【題幹解析】\n非結核分枝桿菌可代表定殖、污染或真正疾病，尤其呼吸道檢體需結合症狀、影像與重複培養判斷。確認檢出 NTM 後不是一律立刻治療，所以 A 最不適當。\n\n【選項詳解】\n- A. 最不適當。NTM 肺部疾病治療時間長、副作用多，必須確認符合臨床、影像與微生物診斷標準，並評估病程與病人狀況。\n- B. 正確。NTM 肺部感染通常需多藥合併，以降低抗藥性與提高療效。\n- C. 正確。MAC 常用 macrolide 加 ethambutol，再加 rifampin 或 rifabutin，是典型組合。\n- D. 正確。M. kansasii 常對 rifampin 敏感，傳統治療包含 isoniazid、rifampin 與 ethambutol。\n\n【核心考點】\nNTM 不是檢出就治療；先判斷是否為真正肺部疾病，再依菌種使用多藥療法。MAC 與 M. kansasii 的藥物組合要分清。",
+      "key_point": "NTM 檢出需先確認臨床疾病而非定殖；治療通常依菌種採多藥合併療法。",
+      "flashcard_front": "NTM 肺部感染：何時治療？MAC 與 M. kansasii 用藥？",
+      "flashcard_back": "不是檢出就治療，需符合臨床/影像/微生物標準；MAC 用 macrolide+ethambutol+rifamycin，M. kansasii 常用 INH+RIF+EMB。",
+      "flashcard_summary": "NTM 肺部感染：何時治療？MAC 與 M. kansasii 用藥？ -> 不是檢出就治療，需符合臨床/影像/微生物標準；MAC 用 macrolide+ethambutol+rifamycin，M. kansasii 常用 INH+RIF+EMB。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_047",
+      "question_number": 47,
+      "explanation": "【題幹解析】\n分化型甲狀腺癌經全甲狀腺切除與高劑量 I-131 後，正常甲狀腺組織應極少，血中 thyroglobulin 若上升就提示殘存或復發。T3、T4 與 TSH 主要用於甲狀腺功能與抑制治療監測，不是復發腫瘤標記。\n\n【選項詳解】\n- A. T4 反映甲狀腺素狀態與補充劑量，不能直接當作甲狀腺癌復發標記。\n- B. T3 也主要是功能性荷爾蒙指標，對追蹤分化型甲狀腺癌殘存或復發不如 thyroglobulin。\n- C. 正確。Thyroglobulin 由甲狀腺濾泡細胞產生，術後與放射碘後若仍可測得或逐漸上升，要懷疑殘餘或復發。\n- D. TSH 用於調整 levothyroxine 抑制治療與刺激 Tg 檢測，但 TSH 本身不是復發的腫瘤標記。\n\n【核心考點】\n分化型甲狀腺癌追蹤記 thyroglobulin；medullary thyroid cancer 才想到 calcitonin/CEA。",
+      "key_point": "分化型甲狀腺癌全切除與 I-131 後，thyroglobulin 是追蹤復發的重要血液指標。",
+      "flashcard_front": "甲狀腺癌術後放射碘治療後追蹤復發看哪個指標？",
+      "flashcard_back": "分化型甲狀腺癌看 thyroglobulin；T3/T4 看功能，TSH 用於抑制治療調整。",
+      "flashcard_summary": "甲狀腺癌術後放射碘治療後追蹤復發看哪個指標？ -> 分化型甲狀腺癌看 thyroglobulin；T3/T4 看功能，TSH 用於抑制治療調整。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_048",
+      "question_number": 48,
+      "explanation": "【題幹解析】\n題目問低血糖何者最不適當。Insulinoma 會以 Whipple triad 表現，但它很罕見；臨床低血糖最常見原因多是糖尿病治療藥物，特別是胰島素或促胰島素分泌藥使用過量或進食不足。\n\n【選項詳解】\n- A. 最不適當。Whipple triad 可提示 insulinoma 或其他真性低血糖，但 insulinoma 不是低血糖最常見原因。\n- B. 正確。低血糖可造成癲癇、昏迷、心律不整甚至死亡，需要及時辨識與補糖。\n- C. 正確。交感神經症狀包含心悸、冒汗、焦慮、飢餓，神經缺糖可造成意識混亂、抽搐或昏迷。\n- D. 正確。胰島素、sulfonylureas 與 glinides 都可增加低血糖風險，尤其在腎功能差、進食少或劑量過高時。\n\n【核心考點】\n低血糖臨床最常先想到藥物與進食/腎功能因素；insulinoma 雖是經典考題，但不是最常見病因。",
+      "key_point": "低血糖最常見原因是糖尿病藥物相關；insulinoma 有 Whipple triad 但罕見。",
+      "flashcard_front": "低血糖：最常見原因與 insulinoma 的考點？",
+      "flashcard_back": "最常見是胰島素、sulfonylurea、glinide 等藥物或進食不足；insulinoma 會有 Whipple triad 但罕見。",
+      "flashcard_summary": "低血糖：最常見原因與 insulinoma 的考點？ -> 最常見是胰島素、sulfonylurea、glinide 等藥物或進食不足；insulinoma 會有 Whipple triad 但罕見。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_049",
+      "question_number": 49,
+      "explanation": "【題幹解析】\n非自主性體重流失常定義為 6-12 個月內體重下降超過 5% 或約 4.5 kg。甲狀腺功能亢進會增加基礎代謝，病人常食慾增加仍變瘦；說食慾減退是主因不正確。\n\n【選項詳解】\n- A. 正確。6-12 個月內減少約 4.5 kg 是常用警訊門檻之一，需評估惡性腫瘤、內分泌、慢性感染、心理與藥物原因。\n- B. 正確。體重下降大於原體重 5% 也是非自主性體重流失的重要定義。\n- C. 錯誤。甲亢造成體重下降主要因代謝率上升，典型反而會有食慾增加，不是食慾減退。\n- D. 正確。COPD 可因呼吸作功增加、慢性發炎與食慾下降造成 cachexia 或體重流失。\n\n【核心考點】\n非自主體重減輕定義抓 5% 或 4.5 kg；甲亢是高代謝、常食慾增加但體重下降。",
+      "key_point": "非自主性體重流失常指 6-12 個月下降 >5% 或約 4.5 kg；甲亢常食慾增加但體重下降。",
+      "flashcard_front": "非自主性體重流失定義與甲亢體重下降機轉？",
+      "flashcard_back": "6-12 個月下降 >5% 或約 4.5 kg；甲亢因高代謝變瘦，常伴食慾增加而非減退。",
+      "flashcard_summary": "非自主性體重流失定義與甲亢體重下降機轉？ -> 6-12 個月下降 >5% 或約 4.5 kg；甲亢因高代謝變瘦，常伴食慾增加而非減退。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}

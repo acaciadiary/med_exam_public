@@ -1,0 +1,140 @@
+{
+  "source_file": "public/data/exams/108-2/medicine-3.json",
+  "dataset_id": "108-2_medicine-3",
+  "range": {
+    "start": 50,
+    "end": 74
+  },
+  "updates": [
+    {
+      "question_id": "108-2_medicine-3_050",
+      "question_number": 50,
+      "explanation": "【題幹解析】\n題目問脂質代謝何者錯誤。血液中乳糜微粒與 VLDL 內三酸甘油脂主要由 lipoprotein lipase 分解；hormone-sensitive lipase 位於脂肪細胞，負責動員儲存的三酸甘油脂，因此 B 錯。\n\n【選項詳解】\n- A. 正確。腸道吸收脂肪後在腸細胞組成 chylomicron，經乳糜管進入淋巴，再進入血液循環。\n- B. 錯誤。血中脂蛋白三酸甘油脂由 lipoprotein lipase 分解；hormone-sensitive lipase 分解脂肪細胞內儲存脂肪。\n- C. 正確。VLDL 釋放三酸甘油脂後形成 IDL，進一步轉為 LDL，負責運送膽固醇至周邊組織。\n- D. 正確。HDL 可透過 CETP 等機制和其他脂蛋白交換膽固醇酯與三酸甘油脂，參與反向膽固醇運輸。\n\n【核心考點】\nLPL 在血管內皮處理血中 chylomicron/VLDL；HSL 在脂肪細胞內動員儲存脂肪。兩者名稱相近但位置與功能不同。",
+      "key_point": "血中三酸甘油脂由 LPL 分解；HSL 分解脂肪細胞內儲存的三酸甘油脂。",
+      "flashcard_front": "脂質代謝：LPL vs hormone-sensitive lipase？",
+      "flashcard_back": "LPL 分解血中 chylomicron/VLDL 的 TG；HSL 在脂肪細胞內動員儲存 TG。",
+      "flashcard_summary": "脂質代謝：LPL vs hormone-sensitive lipase？ -> LPL 分解血中 chylomicron/VLDL 的 TG；HSL 在脂肪細胞內動員儲存 TG。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_051",
+      "question_number": 51,
+      "explanation": "【題幹解析】\n甲狀腺功能亢進合併心律不整時，應避免含大量碘且可能誘發或惡化甲狀腺功能異常的 amiodarone。控制心跳常優先使用 beta blocker，不能使用時可考慮非二氫吡啶類鈣離子阻斷劑。\n\n【選項詳解】\n- A. Digoxin 對甲亢造成的心房顫動可能較不靈敏、需要注意劑量，但它不是最典型會惡化甲亢的藥物。\n- B. 正確。Amiodarone 含碘量高且可造成甲狀腺毒症或甲狀腺低下，既有甲亢病人應盡量避免，除非特殊救命情境。\n- C. Propranolol 可降低交感症狀、控制心率，並部分抑制 T4 轉 T3，是甲亢心悸常用藥。\n- D. Diltiazem 可在 beta blocker 禁忌時用於心率控制，不會像 amiodarone 那樣因碘負荷惡化甲亢。\n\n【核心考點】\n甲亢心律不整首選常是 beta blocker；amiodarone 因碘負荷與甲狀腺毒性，是考題最常要避免的藥。",
+      "key_point": "甲亢合併心律不整應避免 amiodarone；propranolol 常用於症狀與心率控制。",
+      "flashcard_front": "甲亢心律不整：哪個藥會惡化甲亢？",
+      "flashcard_back": "Amiodarone 含大量碘，可誘發或惡化甲狀腺毒症；propranolol 常用於控制甲亢症狀與心率。",
+      "flashcard_summary": "甲亢心律不整：哪個藥會惡化甲亢？ -> Amiodarone 含大量碘，可誘發或惡化甲狀腺毒症；propranolol 常用於控制甲亢症狀與心率。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_058",
+      "question_number": 58,
+      "explanation": "【題幹解析】\n健康男性因牙結石接受牙科處置，沒有人工瓣膜、先前感染性心內膜炎、特定先天性心臟病或心臟移植瓣膜病等高風險條件，所以不需預防性抗生素。Penicillin 過敏只有在需要預防時才影響替代藥選擇。\n\n【選項詳解】\n- A. Clindamycin 不是本題答案，因為病人根本不符合心內膜炎預防性抗生素適應症；是否 penicillin 過敏不改變這點。\n- B. Vancomycin 不用於一般牙結石處置的健康者預防心內膜炎，過度使用反而增加副作用與抗藥性問題。\n- C. Tetracycline 也不是感染性心內膜炎牙科預防的標準選擇，且本題無預防需求。\n- D. 正確。一般健康人接受牙科清潔或牙結石處理，不需給預防性抗生素。\n\n【核心考點】\n牙科處置預防感染性心內膜炎只給高風險心臟病人；沒有高風險條件時，不因牙科處置或 penicillin 過敏而給抗生素。",
+      "key_point": "感染性心內膜炎牙科預防只適用高風險心臟病人；健康者洗牙或牙結石處置不需抗生素。",
+      "flashcard_front": "牙科處置何時需預防感染性心內膜炎抗生素？",
+      "flashcard_back": "僅限高風險心臟病人如人工瓣膜、曾有 IE、特定先天心臟病等；一般健康者不需。",
+      "flashcard_summary": "牙科處置何時需預防感染性心內膜炎抗生素？ -> 僅限高風險心臟病人如人工瓣膜、曾有 IE、特定先天心臟病等；一般健康者不需。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_063",
+      "question_number": 63,
+      "explanation": "【題幹解析】\n承接第 62 題，病人排尿後仍有約 500 mL 餘尿，受壓時尿液緩慢溢出，屬溢流性尿失禁，常見機轉是前列腺肥大造成出口阻塞。能放鬆膀胱頸與前列腺平滑肌、降低尿道阻力的 alpha-blocker 最有幫助。\n\n【選項詳解】\n- A. 正確。Alpha-adrenergic antagonist 可放鬆前列腺與膀胱頸平滑肌，改善 BPH 造成的下泌尿道阻塞與尿滯留。\n- B. 骨盆底肌訓練主要用於應力性尿失禁，處理括約肌或骨盆底支持不足；對大量餘尿的溢流性尿失禁不是核心治療。\n- C. 抗膽鹼劑抑制逼尿肌收縮，適合部分急迫性尿失禁，但在尿滯留與大量餘尿時可能讓排尿更差。\n- D. Beta-3 agonist 可放鬆逼尿肌、改善膀胱過動症狀；對出口阻塞造成的溢流性尿失禁可能加重尿滯留風險。\n\n【核心考點】\n溢流性尿失禁若來自 BPH/出口阻塞，治療要降低出口阻力；抗膽鹼或 beta-3 agonist 是過動膀胱藥物，不適合大量餘尿。",
+      "key_point": "BPH 造成尿滯留與溢流性尿失禁時，alpha-blocker 可降低出口阻力；抗膽鹼與 beta-3 agonist 可能加重滯留。",
+      "flashcard_front": "溢流性尿失禁合併 BPH：首選藥物方向？",
+      "flashcard_back": "使用 alpha-blocker 放鬆前列腺與膀胱頸；避免用抗膽鹼或 beta-3 agonist 加重尿滯留。",
+      "flashcard_summary": "溢流性尿失禁合併 BPH：首選藥物方向？ -> 使用 alpha-blocker 放鬆前列腺與膀胱頸；避免用抗膽鹼或 beta-3 agonist 加重尿滯留。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_066",
+      "question_number": 66,
+      "explanation": "【題幹解析】\n周全性老年評估適合有多重問題、功能下降或反覆住院，且仍有介入後改善空間的老人。疾病末期或嚴重失智且預後不可逆者，評估能改變處置的機會有限，最不適合作為 CGA 對象。\n\n【選項詳解】\n- A. 最不適合。疾病末期或嚴重失智者照護重點常轉向舒適、預立醫療照護諮商與照顧者支持，完整 CGA 的效益較有限。\n- B. 多重疾病與多重用藥正是 CGA 常見適應症，可找出藥物交互作用、跌倒、營養與功能問題。\n- C. 日常生活功能不全且近期惡化，代表可能有可逆病因或照護需求改變，適合 CGA 統整評估。\n- D. 近期多次住院且原因不明時，CGA 可整合醫療、功能、認知、社會支持與居家安全，找出介入方向。\n\n【核心考點】\nCGA 的價值在找出可治療、可介入的多面向問題；若已末期且介入不太可能改善功能，應改以安寧與照護目標為主。",
+      "key_point": "CGA 適合有多重問題且有改善潛力的老人；末期疾病或嚴重失智者較不適合完整 CGA。",
+      "flashcard_front": "周全性老年評估 CGA：誰最適合、誰較不適合？",
+      "flashcard_back": "適合多重疾病、多重用藥、功能退化或反覆住院且有改善空間者；末期或嚴重失智較不適合。",
+      "flashcard_summary": "周全性老年評估 CGA：誰最適合、誰較不適合？ -> 適合多重疾病、多重用藥、功能退化或反覆住院且有改善空間者；末期或嚴重失智較不適合。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_067",
+      "question_number": 67,
+      "explanation": "【題幹解析】\n17 歲女性半年瘦 10 公斤、口渴與多尿，最需要立即確認是否有高血糖，尤其要警覺第一型糖尿病與酮酸中毒風險。若只能安排一項檢查，指尖血糖最快速、最能直接支持診斷與下一步處置。\n\n【選項詳解】\n- A. 尿糖可提示高血糖，尿蛋白則非本題重點；尿檢不如血糖能即時量化高血糖程度。\n- B. 正確。指尖血糖可立即確認明顯高血糖，搭配典型症狀即可快速判斷糖尿病可能性並決定是否需急診評估 DKA。\n- C. 血清電解質對評估 DKA 嚴重度重要，但在只能做一項診斷檢查時，不如先確認血糖。\n- D. CBC 可評估感染或貧血，但不能診斷糖尿病，也無法解釋多尿、口渴與體重下降的核心問題。\n\n【核心考點】\n年輕人多尿、口渴、消瘦要先量血糖；一旦高血糖明顯，再評估酮酸中毒、電解質與治療。",
+      "key_point": "年輕病人出現多尿、口渴與體重下降時，最直接診斷檢查是立即測血糖。",
+      "flashcard_front": "疑似第一型糖尿病：只能做一項檢查先做什麼？",
+      "flashcard_back": "先做指尖血糖測定，快速確認高血糖；之後再評估酮酸中毒與電解質。",
+      "flashcard_summary": "疑似第一型糖尿病：只能做一項檢查先做什麼？ -> 先做指尖血糖測定，快速確認高血糖；之後再評估酮酸中毒與電解質。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_068",
+      "question_number": 68,
+      "explanation": "【題幹解析】\n題目描述搜尋 Cochrane Library、MEDLINE，取得多個類似研究並合併分析，且報告 pooled OR 與信賴區間，這是綜合分析，也就是 meta-analysis。\n\n【選項詳解】\n- A. 錯誤。預後研究通常追蹤某族群看疾病結局與預後因子；本題是在合併多個 aspirin 隨機試驗結果。\n- B. 錯誤。治療效果問題通常以隨機對照試驗證據層級較高；case-control 不是此類療效分析優於 cohort 的設計。\n- C. 正確。把多個研究的資料用統計方法合併，並得到整體 OR 與 95% CI，就是 meta-analysis。\n- D. 錯誤。題幹只給平均追蹤 1.3 年與統計結果，沒有提供失訪比例，不能判斷追蹤完成率是否足夠。\n\n【核心考點】\nEBM 設計辨識：合併多篇研究的統計結果是 meta-analysis；治療療效問題以 RCT 與其系統性回顧/綜合分析證據最強。",
+      "key_point": "檢索多個研究並合併統計結果、呈現 pooled effect size，屬於 meta-analysis。",
+      "flashcard_front": "EBM：多個 RCT 合併分析並報告 pooled OR 是什麼研究？",
+      "flashcard_back": "綜合分析 meta-analysis，通常建立在系統性回顧與統計合併之上。",
+      "flashcard_summary": "EBM：多個 RCT 合併分析並報告 pooled OR 是什麼研究？ -> 綜合分析 meta-analysis，通常建立在系統性回顧與統計合併之上。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_071",
+      "question_number": 71,
+      "explanation": "【題幹解析】\n78 歲老人近期尿失禁、倦怠、失眠加重，自行增加安眠藥又自行購買降壓藥，呈現多重用藥、可能藥物副作用與功能問題。生命徵象穩定且無局部神經缺損時，最適合先做周全性老年評估，統整醫療、藥物、功能、認知與社會支持。\n\n【選項詳解】\n- A. 直接入住護理之家過早，題幹未顯示立即失去居家照護能力；應先評估可逆問題與照護需求。\n- B. 精神神經科可在需要時介入，但只調安眠藥會漏掉多重用藥、血壓藥自行使用、尿失禁與整體功能評估。\n- C. 正確。CGA 可系統性評估老人多重問題，找出藥物不良反應、跌倒風險、認知情緒、生活功能與照護資源。\n- D. 生命徵象穩定、意識清楚、無局部神經異常，沒有立即住院適應症；先門診整合評估較合適。\n\n【核心考點】\n老人新出現症狀且伴多重用藥時，不要只看單一症狀；CGA 能找出可逆病因與照護計畫。",
+      "key_point": "老年人合併多重用藥、功能或尿失禁問題時，周全性老年評估可整合可逆病因與照護需求。",
+      "flashcard_front": "老年人多重用藥加新功能問題：下一步？",
+      "flashcard_back": "做周全性老年評估，統整藥物、功能、認知、情緒、營養、社會支持與照護計畫。",
+      "flashcard_summary": "老年人多重用藥加新功能問題：下一步？ -> 做周全性老年評估，統整藥物、功能、認知、情緒、營養、社會支持與照護計畫。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_073",
+      "question_number": 73,
+      "explanation": "【題幹解析】\n癌症末期慢性疼痛治療強調規律給藥、足量止痛、優先口服、按階梯與個別化調整。若等到疼痛時才給藥，容易造成血中濃度起伏與突破痛，因此 B 是錯誤原則。\n\n【選項詳解】\n- A. 正確。能口服時優先口服，因為方便、非侵入且較易長期調整；吞嚥或吸收有問題時才考慮其他途徑。\n- B. 錯誤。慢性癌痛應按時給藥，並另外準備突破痛劑量；單純 PRN 會讓疼痛反覆失控。\n- C. 正確。神經病變痛、骨痛或發炎相關疼痛可合併輔助藥物，如抗癲癇藥、抗憂鬱藥、類固醇或 bisphosphonate 等。\n- D. 正確。多數癌痛若用正確藥物、劑量與時間間隔，並持續評估副作用，可得到明顯緩解。\n\n【核心考點】\n癌痛控制記「by mouth、by the clock、by the ladder、for the individual」；慢性疼痛不是只在痛時才吃藥。",
+      "key_point": "慢性癌症疼痛應按時給藥並處理突破痛，不應以疼痛時才給藥為原則。",
+      "flashcard_front": "癌症末期疼痛治療：按時還是痛時才給？",
+      "flashcard_back": "慢性癌痛應 scheduled dosing，另給 breakthrough pain rescue dose；口服優先並可用輔助藥。",
+      "flashcard_summary": "癌症末期疼痛治療：按時還是痛時才給？ -> 慢性癌痛應 scheduled dosing，另給 breakthrough pain rescue dose；口服優先並可用輔助藥。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    },
+    {
+      "question_id": "108-2_medicine-3_074",
+      "question_number": 74,
+      "explanation": "【題幹解析】\n急性口語不清與吞嚥困難提示腦幹相關神經功能障礙。非對比 CT 若在腦幹位置呈高密度病灶，代表急性出血；合併酗酒與熬夜後突然發作，最可能為腦幹出血，常見位置包含橋腦。\n\n【選項詳解】\n- A. 小腦梗塞可有眩暈、共濟失調、噁心嘔吐，CT 急性期通常不是腦幹高密度出血影像。\n- B. 小腦出血會在小腦半球或蚓部看到高密度出血，症狀可有頭痛、嘔吐與步態不穩，但題圖官方定位在腦幹。\n- C. 腦幹梗塞可造成口齒不清與吞嚥困難，但非對比 CT 急性梗塞多為低密度或早期不明顯，不是高密度出血樣病灶。\n- D. 正確。腦幹出血在非對比 CT 為腦幹高密度影，臨床可快速出現構音、吞嚥與意識或肢體神經症狀。\n\n【核心考點】\n非對比 CT 判讀急性中風先分密度：高密度是出血，低密度或早期陰性偏梗塞；症狀定位再分小腦或腦幹。",
+      "key_point": "非對比 CT 腦幹高密度合併急性構音與吞嚥障礙，最支持腦幹出血。",
+      "flashcard_front": "急性腦幹症狀 + non-contrast CT 高密度：診斷？",
+      "flashcard_back": "腦幹出血；高密度代表急性出血，腦幹症狀包含構音、吞嚥、眼球運動、意識或肢體徵象。",
+      "flashcard_summary": "急性腦幹症狀 + non-contrast CT 高密度：診斷？ -> 腦幹出血；高密度代表急性出血，腦幹症狀包含構音、吞嚥、眼球運動、意識或肢體徵象。",
+      "review_status": "ai_generated",
+      "explanation_model": "codex-high-quality-rewrite",
+      "explanation_generated_at": "2026-09-16T13:20:00+08:00",
+      "manual_review_notes": []
+    }
+  ]
+}
