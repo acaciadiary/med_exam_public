@@ -2,7 +2,7 @@ import type { ExamManifestItem } from "../types/exam";
 
 export type ExamStage = "stage-1" | "stage-2";
 
-const appealPendingYears = new Set<string>();
+const appealPendingYears = new Set(["115-2"]);
 
 const subjectLabels: Record<number, string> = {
   1: "醫學一",
